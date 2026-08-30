@@ -1,0 +1,212 @@
+---
+layout: default
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    {% if site.google_verification != "" %}
+    {{ site.google_verification }}
+    {% endif %}
+    <title>✨ Arc Comic — Manga & Doujinshi Gallery</title>
+    <meta name="description" content="Arc Comic — Curated manga and doujinshi gallery">
+    <style>
+        :root {
+            --bg: #0f0f13; --bg-card: #1a1a24; --bg-elevated: #222230;
+            --accent: #f59e0b; --text: #e2e2e8; --text-muted: #8888a0;
+            --border: #2a2a3a;
+        }
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: 'Segoe UI', system-ui, sans-serif;
+            background: var(--bg); color: var(--text); min-height: 100vh;
+        }
+        .container { max-width: 1200px; margin: 0 auto; padding: 24px; }
+        .header {
+            text-align: center; padding: 40px 20px;
+            border-bottom: 1px solid var(--border); margin-bottom: 30px;
+        }
+        .header h1 {
+            font-size: 42px; font-weight: 800;
+            background: linear-gradient(135deg, var(--accent), #f97316);
+            -webkit-background-clip: text; -webkit-text-fill-color: transparent;
+        }
+        .header p { color: var(--text-muted); font-size: 16px; margin-top: 10px; }
+        .search-box {
+            max-width: 500px; margin: 0 auto 30px;
+            position: relative;
+        }
+        .search-box input {
+            width: 100%; padding: 14px 20px 14px 48px;
+            background: var(--bg-card); border: 1px solid var(--border);
+            border-radius: 12px; color: var(--text); font-size: 15px;
+            outline: none;
+        }
+        .search-box input:focus { border-color: var(--accent); }
+        .search-box::before {
+            content: "🔍"; position: absolute; left: 16px; top: 50%;
+            transform: translateY(-50%); font-size: 18px;
+        }
+        .section-title {
+            font-size: 20px; font-weight: 700; margin-bottom: 20px;
+            display: flex; align-items: center; gap: 10px;
+        }
+        .section-title .badge {
+            background: var(--accent); color: #000;
+            padding: 4px 10px; border-radius: 20px;
+            font-size: 12px; font-weight: 700;
+        }
+        .popular-grid {
+            display: grid; grid-template-columns: repeat(4, 1fr);
+            gap: 16px; margin-bottom: 40px;
+        }
+        .popular-card {
+            background: var(--bg-card); border-radius: 12px;
+            border: 1px solid var(--border); overflow: hidden;
+            transition: transform 0.2s, box-shadow 0.2s; cursor: pointer;
+            text-decoration: none; color: var(--text);
+        }
+        .popular-card:hover {
+            transform: translateY(-4px);
+            box-shadow: 0 8px 24px rgba(0,0,0,0.4);
+        }
+        .popular-card .cover {
+            width: 100%; padding-top: 140%; position: relative;
+            background: var(--bg-elevated);
+        }
+        .popular-card .cover img {
+            position: absolute; top: 0; left: 0;
+            width: 100%; height: 100%; object-fit: cover;
+        }
+        .popular-card .info { padding: 12px; }
+        .popular-card .info h3 {
+            font-size: 14px; font-weight: 600;
+            white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+        }
+        .popular-card .info .meta {
+            font-size: 12px; color: var(--text-muted); margin-top: 4px;
+        }
+        .works-grid {
+            display: grid; grid-template-columns: repeat(5, 1fr);
+            gap: 16px; margin-bottom: 30px;
+        }
+        .work-card {
+            background: var(--bg-card); border-radius: 12px;
+            border: 1px solid var(--border); overflow: hidden;
+            transition: transform 0.2s; cursor: pointer;
+            text-decoration: none; color: var(--text);
+        }
+        .work-card:hover { transform: translateY(-4px); }
+        .work-card .cover {
+            width: 100%; padding-top: 140%; position: relative;
+            background: var(--bg-elevated);
+        }
+        .work-card .cover img {
+            position: absolute; top: 0; left: 0;
+            width: 100%; height: 100%; object-fit: cover;
+        }
+        .work-card .info { padding: 10px; }
+        .work-card .info h3 {
+            font-size: 13px; font-weight: 600;
+            white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+        }
+        .work-card .info .meta {
+            font-size: 11px; color: var(--text-muted); margin-top: 3px;
+        }
+        .pagination {
+            display: flex; justify-content: center; gap: 8px;
+            margin-top: 30px; padding-top: 20px;
+            border-top: 1px solid var(--border);
+        }
+        .pagination a, .pagination span {
+            padding: 8px 14px; border-radius: 8px;
+            font-size: 14px; font-weight: 600;
+            text-decoration: none;
+        }
+        .pagination a {
+            background: var(--bg-card); color: var(--text);
+            border: 1px solid var(--border);
+        }
+        .pagination a:hover { background: var(--accent); color: #000; }
+        .pagination span { background: var(--accent); color: #000; }
+        .footer {
+            text-align: center; padding: 30px;
+            color: var(--text-muted); font-size: 13px;
+            border-top: 1px solid var(--border); margin-top: 40px;
+        }
+        @media (max-width: 768px) {
+            .popular-grid { grid-template-columns: repeat(2, 1fr); }
+            .works-grid { grid-template-columns: repeat(2, 1fr); }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>✨ Arc Comic</h1>
+            <p>Art & Story — Curated Manga & Doujinshi Gallery</p>
+        </div>
+        <div class="search-box">
+            <input type="text" placeholder="Search by title, author, or tag..." id="searchInput">
+        </div>
+        <h2 class="section-title">
+            🔥 Popular Today <span class="badge">TOP 4</span>
+        </h2>
+        <div class="popular-grid" id="popularGrid"></div>
+        <h2 class="section-title">📚 Latest Works</h2>
+        <div class="works-grid" id="worksGrid"></div>
+        <div class="pagination" id="pagination"></div>
+        <div class="footer">
+            <p>✨ Arc Comic — Part of <a href="https://t.me/ArcComic" style="color:var(--accent)">@ArcComic</a></p>
+            <p style="margin-top:8px">Daily updates</p>
+        </div>
+    </div>
+    <script>
+        const works = [
+            {% for post in site.works %}
+            {
+                title: "{{ post.title | escape }}",
+                author: "{{ post.author }}",
+                code: "{{ post.code }}",
+                cover: "{{ post.cover }}",
+                rating: "{{ post.rating }}",
+                date: "{{ post.date }}",
+                tags: {{ post.tags | jsonify }},
+                url: "{{ post.url }}"
+            }{% unless forloop.last %},{% endunless %}
+            {% endfor %}
+        ];
+        const POSTS_PER_PAGE = 15;
+        function renderPopular() {
+            const popular = [...works].sort((a,b) => parseFloat(b.rating) - parseFloat(a.rating)).slice(0,4);
+            document.getElementById('popularGrid').innerHTML = popular.map(w => `
+                <a href="${w.url}" class="popular-card">
+                    <div class="cover"><img src="${w.cover}" alt="${w.title}"></div>
+                    <div class="info"><h3>${w.title}</h3><div class="meta">⭐ ${w.rating} • ${w.author}</div></div>
+                </a>
+            `).join('');
+        }
+        function renderWorks(page = 1) {
+            const sorted = [...works].sort((a,b) => new Date(b.date) - new Date(a.date));
+            const start = (page - 1) * POSTS_PER_PAGE;
+            const pageWorks = sorted.slice(start, start + POSTS_PER_PAGE);
+            document.getElementById('worksGrid').innerHTML = pageWorks.map(w => `
+                <a href="${w.url}" class="work-card">
+                    <div class="cover"><img src="${w.cover}" alt="${w.title}"></div>
+                    <div class="info"><h3>${w.title}</h3><div class="meta">${w.author} • ⭐ ${w.rating}</div></div>
+                </a>
+            `).join('');
+            const total = Math.ceil(sorted.length / POSTS_PER_PAGE);
+            let html = '';
+            for(let i = 1; i <= total; i++) {
+                if(i === page) html += `<span>${i}</span>`;
+                else html += `<a href="#" onclick="renderWorks(${i}); return false;">${i}</a>`;
+            }
+            document.getElementById('pagination').innerHTML = html;
+        }
+        renderPopular();
+        renderWorks(1);
+    </script>
+</body>
+</html>

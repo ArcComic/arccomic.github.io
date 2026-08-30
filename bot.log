@@ -1,0 +1,47 @@
+🌐 Dashboard running at http://localhost:6767
+🤖 Starting Telegram bot...
+ * Serving Flask app 'bot'
+ * Debug mode: off
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:6767
+ * Running on http://192.168.0.200:6767
+[33mPress CTRL+C to quit[0m
+Exception in thread Thread-1 (run_bot):
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/usr/lib/python3.14/asyncio/unix_events.py", line 108, in add_signal_handler
+    signal.set_wakeup_fd(self._csock.fileno())
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+ValueError: set_wakeup_fd only works in main thread of the main interpreter
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/usr/lib/python3.14/threading.py", line 1082, in _bootstrap_inner
+    self._context.run(self.run)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.14/threading.py", line 1024, in run
+    self._target(*self._args, **self._kwargs)
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/storage/emulated/0/arccomic.github.io/bot.py", line 558, in run_bot
+    app_tg.run_polling()
+    ~~~~~~~~~~~~~~~~~~^^
+  File "/data/data/com.termux/files/usr/lib/python3.14/site-packages/telegram/ext/_application.py", line 839, in run_polling
+    return self.__run(
+           ~~~~~~~~~~^
+        updater_coroutine=self.updater.start_polling(
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<9 lines>...
+        close_loop=close_loop,
+        ^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/data/data/com.termux/files/usr/lib/python3.14/site-packages/telegram/ext/_application.py", line 1044, in __run
+    loop.add_signal_handler(sig, self._raise_system_exit)
+    ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.14/asyncio/unix_events.py", line 110, in add_signal_handler
+    raise RuntimeError(str(exc))
+RuntimeError: set_wakeup_fd only works in main thread of the main interpreter
+/data/data/com.termux/files/usr/lib/python3.14/threading.py:1084: RuntimeWarning: coroutine 'Updater.start_polling' was never awaited
+  self._invoke_excepthook(self)
+RuntimeWarning: Enable tracemalloc to get the object allocation traceback

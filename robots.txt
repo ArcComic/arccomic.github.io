@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://arccomic.github.io/sitemap.xml
