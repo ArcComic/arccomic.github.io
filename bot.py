@@ -86,6 +86,36 @@ def generate_indexnow_key():
     import secrets
     return secrets.token_hex(32)
 
+def update_verification_tag(tag_html):
+    """Insert or replace the Google verification meta tag inside index.html's <head>."""
+    index_path = os.path.join(WORK_DIR, "index.html")
+    if not os.path.exists(index_path):
+        print("⚠️ index.html not found, cannot inject verification tag")
+        return False
+
+    with open(index_path, 'r', encoding='utf-8') as f:
+        html = f.read()
+
+    tag_html = tag_html.strip()
+
+    # Remove any existing google-site-verification meta tag first
+    html = re.sub(
+        r'\s*<meta[^>]+name=["\']google-site-verification["\'][^>]*>\s*',
+        '\n', html, flags=re.IGNORECASE
+    )
+
+    if tag_html:
+        if "<head>" in html:
+            html = html.replace("<head>", f"<head>\n    {tag_html}", 1)
+        else:
+            print("⚠️ No <head> tag found in index.html")
+            return False
+
+    with open(index_path, 'w', encoding='utf-8') as f:
+        f.write(html)
+    print("✅ Verification tag updated in index.html")
+    return True
+
 # ============== SITE SCRAPER (PLACEHOLDER) ==============
 def scrape_site(code, domain):
     try:
@@ -157,10 +187,23 @@ def git_push(cfg, code, title):
         token = cfg.get("github_token", "")
         if token:
             remote_url = f"https://{token}@github.com/{repo}.git"
-            subprocess.run(["git", "push", remote_url, "main"], 
-                          check=False, capture_output=True)
-            print(f"✅ Pushed work #{code}")
-            return True
+            # Pull first so a diverged remote (e.g. edits made on github.com)
+            # doesn't cause the push to be rejected as non-fast-forward.
+            pull_result = subprocess.run(
+                ["git", "pull", remote_url, "main", "--no-edit"],
+                check=False, capture_output=True, text=True
+            )
+            if pull_result.returncode != 0:
+                print(f"⚠️ Git pull warning: {pull_result.stderr.strip()}")
+            push_result = subprocess.run(
+                ["git", "push", remote_url, "main"],
+                check=False, capture_output=True, text=True
+            )
+            if push_result.returncode == 0:
+                print(f"✅ Pushed work #{code}")
+                return True
+            else:
+                print(f"❌ Git push failed: {push_result.stderr.strip()}")
     except Exception as e:
         print(f"❌ Git push error: {e}")
     return False
@@ -543,6 +586,12 @@ def save():
             f.write(cfg["indexnow_key"])
 
     save_config(cfg)
+
+    # Inject the verification tag into index.html and push immediately,
+    # so Google can verify without waiting for the next comic post.
+    if update_verification_tag(cfg.get("google_verification_tag", "")):
+        git_push(cfg, "seo", "Update Google verification tag")
+
     return jsonify({"status": "ok", "indexnow_key": cfg.get("indexnow_key", "")})
 
 # ============== MAIN ==============
@@ -555,7 +604,10 @@ def run_bot():
     print("🤖 Starting Telegram bot...")
     app_tg = Application.builder().token(token).build()
     app_tg.add_handler(MessageHandler(filters.ChatType.CHANNEL, handle_channel_post))
-    app_tg.run_polling()
+    # stop_signals=None: signal handlers can only be installed on the main
+    # thread. Since the bot runs in a background thread (dashboard owns the
+    # main thread), we must skip signal handler registration entirely.
+    app_tg.run_polling(stop_signals=None)
 
 def run_dashboard():
     print("🌐 Dashboard running at http://localhost:6767")
