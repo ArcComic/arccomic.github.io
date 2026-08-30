@@ -245,14 +245,17 @@ def save_stats(stats):
     with open(STATS_FILE, 'w') as f:
         json.dump(stats, f, indent=2)
 
-def record_post(code, title, success, error=None):
+def record_post(code, title, success, error=None, google_pinged=False, indexnow_pinged=False, post_url=None):
     stats = load_stats()
     entry = {
         "code": code,
         "title": title,
         "success": success,
         "time": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
-        "error": error
+        "error": error,
+        "google_pinged": google_pinged,
+        "indexnow_pinged": indexnow_pinged,
+        "post_url": post_url,
     }
     stats["posts"].append(entry)
     if success:
@@ -262,36 +265,72 @@ def record_post(code, title, success, error=None):
         stats["last_error_time"] = entry["time"]
     save_stats(stats)
 
+def delete_post_record(code, time):
+    """Removes a post from stats history and deletes its underlying files
+    (md + cover) from disk, then pushes the deletion to GitHub."""
+    stats = load_stats()
+    stats["posts"] = [p for p in stats["posts"] if not (p["code"] == code and p["time"] == time)]
+    save_stats(stats)
+
+    md_path = os.path.join(WORKS_DIR, f"{code}.md")
+    cover_path = os.path.join(COVERS_DIR, f"{code}.jpg")
+    for path in (md_path, cover_path):
+        if os.path.exists(path):
+            os.remove(path)
+
 # ============== GIT OPERATIONS ==============
+def ensure_origin_remote(cfg):
+    """Keeps the 'origin' remote's URL in sync with the current token/repo,
+    and always operates through the named remote (never an ad-hoc URL
+    string). Using a throwaway URL for pull/push instead of 'origin' was
+    the root cause of a bug where git's local tracking branch (origin/main)
+    never updated, making `git status` permanently claim the branch was
+    "ahead" and causing manual `git push` to fail with non-fast-forward
+    even though the bot's own pushes were succeeding."""
+    repo = cfg.get("github_repo", "ArcComic/arccomic.github.io")
+    token = cfg.get("github_token", "")
+    if not token:
+        return False
+    remote_url = f"https://{token}@github.com/{repo}.git"
+
+    remotes = subprocess.run(["git", "remote"], capture_output=True, text=True).stdout
+    if "origin" in remotes.split():
+        subprocess.run(["git", "remote", "set-url", "origin", remote_url],
+                       check=False, capture_output=True)
+    else:
+        subprocess.run(["git", "remote", "add", "origin", remote_url],
+                       check=False, capture_output=True)
+    return True
+
 def git_push(cfg, code, title):
     try:
         os.chdir(WORK_DIR)
         subprocess.run(["git", "add", "."], check=True, capture_output=True)
         subprocess.run(["git", "commit", "-m", f"Add work #{code}: {title}"], 
                       check=False, capture_output=True)
-        repo = cfg.get("github_repo", "ArcComic/arccomic.github.io")
-        token = cfg.get("github_token", "")
-        if token:
-            remote_url = f"https://{token}@github.com/{repo}.git"
-            # Pull first so a diverged remote (e.g. edits made on github.com)
-            # doesn't cause the push to be rejected as non-fast-forward.
-            pull_result = subprocess.run(
-                ["git", "pull", remote_url, "main", "--no-edit"],
-                check=False, capture_output=True, text=True
-            )
-            if pull_result.returncode != 0:
-                print(f"⚠️ Git pull warning: {pull_result.stderr.strip()}")
-            push_result = subprocess.run(
-                ["git", "push", remote_url, "main"],
-                check=False, capture_output=True, text=True
-            )
-            if push_result.returncode == 0:
-                print(f"✅ Pushed work #{code}")
-                return True
-            else:
-                print(f"❌ Git push failed: {push_result.stderr.strip()}")
-        else:
+
+        if not ensure_origin_remote(cfg):
             print("⚠️ No GitHub token configured, skipping push")
+            return False
+
+        # Pull first so a diverged remote (e.g. edits made on github.com,
+        # or a previous manual push) doesn't cause a rejected push.
+        pull_result = subprocess.run(
+            ["git", "pull", "origin", "main", "--no-edit"],
+            check=False, capture_output=True, text=True
+        )
+        if pull_result.returncode != 0:
+            print(f"⚠️ Git pull warning: {pull_result.stderr.strip()}")
+
+        push_result = subprocess.run(
+            ["git", "push", "-u", "origin", "main"],
+            check=False, capture_output=True, text=True
+        )
+        if push_result.returncode == 0:
+            print(f"✅ Pushed work #{code}")
+            return True
+        else:
+            print(f"❌ Git push failed: {push_result.stderr.strip()}")
     except Exception as e:
         print(f"❌ Git push error: {e}")
     return False
@@ -392,19 +431,23 @@ async def handle_channel_post(update: Update, context: ContextTypes.DEFAULT_TYPE
             f.write(md_content)
 
         pushed = git_push(cfg, code, title)
+        google_pinged = False
+        indexnow_pinged = False
         if pushed:
             if cfg.get("auto_ping_google", True):
-                ping_google_sitemap(site_url)
+                google_pinged = ping_google_sitemap(site_url)
             if cfg.get("use_indexnow", True):
                 api_key = cfg.get("indexnow_key", "")
                 if api_key:
-                    submit_indexnow(post_url, site_url, api_key)
+                    indexnow_pinged = submit_indexnow(post_url, site_url, api_key)
 
         cfg["last_message_id"] = msg.message_id
         save_config(cfg)
 
         record_post(code, title, success=pushed,
-                     error=None if pushed else "Git push failed")
+                     error=None if pushed else "Git push failed",
+                     google_pinged=google_pinged, indexnow_pinged=indexnow_pinged,
+                     post_url=post_url)
         print(f"✅ Done: {title} (Code: {code})")
 
     except Exception as e:
@@ -566,6 +609,7 @@ DASHBOARD_HTML = """
             <p>Bot Dashboard & Configuration</p>
         </div>
 
+        {% if show_setup %}
         <div class="info-box">
             <strong>First time setup?</strong><br>
             1. Get Bot Token from <code>@BotFather</code><br>
@@ -597,7 +641,7 @@ DASHBOARD_HTML = """
                 <div class="form-group">
                     <label>Site Domain (for scraper)</label>
                     <input type="text" name="site_domain" 
-                           placeholder="https://example.com" 
+                           placeholder="https://nhentai.net" 
                            value="{{ site_domain }}">
                 </div>
                 <div class="form-group">
@@ -651,6 +695,17 @@ DASHBOARD_HTML = """
                 <div class="status" id="status"></div>
             </form>
         </div>
+        {% else %}
+        <div class="card" style="display:flex;justify-content:space-between;align-items:center;">
+            <div>
+                <h2 style="margin-bottom:4px;">⚙️ Setup Complete</h2>
+                <p style="color:#8888a0;font-size:13px;">Tokens and channel are configured.</p>
+            </div>
+            <a href="/?setup=1" style="background:#2a2a3a;color:#f59e0b;padding:10px 16px;border-radius:10px;text-decoration:none;font-size:13px;font-weight:600;white-space:nowrap;">
+                Edit Settings
+            </a>
+        </div>
+        {% endif %}
 
         <div class="card">
             <h2>📊 Bot Status</h2>
@@ -674,12 +729,30 @@ DASHBOARD_HTML = """
                 ⚠️ Last error ({{ last_error_time }}): {{ last_error }}
             </p>
             {% endif %}
-            <div style="max-height:240px;overflow-y:auto;">
+            <div style="max-height:420px;overflow-y:auto;" id="postList">
                 {% if recent_posts %}
                 {% for post in recent_posts %}
-                <div style="display:flex;justify-content:space-between;padding:8px 0;border-bottom:1px solid #2a2a3a;font-size:13px;">
-                    <span>{{ '✅' if post.success else '❌' }} {{ post.title }} <code style="font-size:11px;">#{{ post.code }}</code></span>
-                    <span style="color:#666;">{{ post.time }}</span>
+                <div class="post-row" data-code="{{ post.code }}" data-time="{{ post.time }}"
+                     style="padding:10px 0;border-bottom:1px solid #2a2a3a;font-size:13px;">
+                    <div style="display:flex;justify-content:space-between;align-items:center;">
+                        <span>{{ '✅' if post.success else '❌' }} {{ post.title }} <code style="font-size:11px;">#{{ post.code }}</code></span>
+                        <span style="color:#666;font-size:11px;">{{ post.time }}</span>
+                    </div>
+                    <div style="display:flex;gap:12px;margin-top:4px;align-items:center;">
+                        <span style="font-size:11px;color:{{ '#22c55e' if post.google_pinged else '#666' }};">
+                            {{ '🟢' if post.google_pinged else '⚪' }} Google
+                        </span>
+                        <span style="font-size:11px;color:{{ '#22c55e' if post.indexnow_pinged else '#666' }};">
+                            {{ '🟢' if post.indexnow_pinged else '⚪' }} IndexNow
+                        </span>
+                        {% if post.post_url %}
+                        <a href="{{ post.post_url }}" target="_blank" style="font-size:11px;color:#f59e0b;text-decoration:none;margin-left:auto;">View →</a>
+                        {% endif %}
+                        <button class="delete-btn" data-code="{{ post.code }}" data-time="{{ post.time }}"
+                                style="background:none;border:1px solid #ef4444;color:#ef4444;border-radius:6px;padding:2px 8px;font-size:11px;cursor:pointer;{{ '' if post.post_url else 'margin-left:auto;' }}">
+                            Delete
+                        </button>
+                    </div>
                 </div>
                 {% endfor %}
                 {% else %}
@@ -700,33 +773,67 @@ DASHBOARD_HTML = """
             try {
                 const res = await fetch('/api/health');
                 const health = await res.json();
-                document.getElementById('botStatus').textContent = health.status;
+                const el = document.getElementById('botStatus');
+                if (el) el.textContent = health.status;
             } catch (e) { /* dashboard server itself would have to be down */ }
         }
         setInterval(refreshStatus, 10000);
 
-        document.getElementById('configForm').addEventListener('submit', async (e) => {
-            e.preventDefault();
-            const formData = new FormData(e.target);
-            const data = Object.fromEntries(formData);
+        const configForm = document.getElementById('configForm');
+        if (configForm) {
+            configForm.addEventListener('submit', async (e) => {
+                e.preventDefault();
+                const formData = new FormData(e.target);
+                const data = Object.fromEntries(formData);
 
-            data.auto_ping_google = document.getElementById('auto_ping').checked;
-            data.use_indexnow = document.getElementById('use_indexnow').checked;
+                data.auto_ping_google = document.getElementById('auto_ping').checked;
+                data.use_indexnow = document.getElementById('use_indexnow').checked;
 
-            const res = await fetch('/save', {
-                method: 'POST',
-                headers: {'Content-Type': 'application/json'},
-                body: JSON.stringify(data)
+                const res = await fetch('/save', {
+                    method: 'POST',
+                    headers: {'Content-Type': 'application/json'},
+                    body: JSON.stringify(data)
+                });
+
+                const status = document.getElementById('status');
+                if (res.ok) {
+                    status.className = 'status success';
+                    status.textContent = '✅ Config saved! Bot is starting...';
+                    setTimeout(() => { window.location.href = '/'; }, 1200);
+                } else {
+                    status.className = 'status error';
+                    status.textContent = '❌ Error saving config';
+                }
             });
+        }
 
-            const status = document.getElementById('status');
-            if (res.ok) {
-                status.className = 'status success';
-                status.textContent = '✅ Config saved! Bot is starting...';
-            } else {
-                status.className = 'status error';
-                status.textContent = '❌ Error saving config';
-            }
+        // Delete-post buttons: remove a post's files and history entry
+        document.querySelectorAll('.delete-btn').forEach(btn => {
+            btn.addEventListener('click', async () => {
+                if (!confirm('Delete this post? This removes it from the site too.')) return;
+                const code = btn.dataset.code;
+                const time = btn.dataset.time;
+                btn.textContent = '...';
+                btn.disabled = true;
+                try {
+                    const res = await fetch('/api/delete_post', {
+                        method: 'POST',
+                        headers: {'Content-Type': 'application/json'},
+                        body: JSON.stringify({ code, time })
+                    });
+                    if (res.ok) {
+                        btn.closest('.post-row').remove();
+                    } else {
+                        btn.textContent = 'Delete';
+                        btn.disabled = false;
+                        alert('Failed to delete post');
+                    }
+                } catch (e) {
+                    btn.textContent = 'Delete';
+                    btn.disabled = false;
+                    alert('Error: ' + e.message);
+                }
+            });
         });
     </script>
 </body>
@@ -737,10 +844,13 @@ DASHBOARD_HTML = """
 def dashboard():
     cfg = load_config()
     stats = load_stats()
+    has_tokens = bool(cfg.get("telegram_bot_token")) and bool(cfg.get("github_token"))
+    show_setup = request.args.get("setup") == "1" or not has_tokens
     return render_template_string(
         DASHBOARD_HTML, **cfg,
+        show_setup=show_setup,
         total_posts=stats.get("total_posts", 0),
-        recent_posts=list(reversed(stats.get("posts", [])))[:10],
+        recent_posts=list(reversed(stats.get("posts", []))),
         last_error=stats.get("last_error"),
         last_error_time=stats.get("last_error_time"),
         bot_status=BOT_HEALTH.get("status"),
@@ -777,7 +887,7 @@ def api_stats():
     stats = load_stats()
     return jsonify({
         "total_posts": stats.get("total_posts", 0),
-        "recent_posts": list(reversed(stats.get("posts", [])))[:10],
+        "recent_posts": list(reversed(stats.get("posts", []))),
         "last_error": stats.get("last_error"),
         "last_error_time": stats.get("last_error_time"),
     })
@@ -785,6 +895,33 @@ def api_stats():
 @app.route("/api/health")
 def api_health():
     return jsonify(BOT_HEALTH)
+
+@app.route("/api/delete_post", methods=["POST"])
+def api_delete_post():
+    data = request.get_json()
+    code = data.get("code")
+    time_str = data.get("time")
+    if not code or not time_str:
+        return jsonify({"status": "error", "message": "code and time required"}), 400
+
+    delete_post_record(code, time_str)
+
+    # Push the deletion so the live site drops the post too
+    cfg = load_config()
+    try:
+        os.chdir(WORK_DIR)
+        subprocess.run(["git", "add", "."], check=True, capture_output=True)
+        subprocess.run(["git", "commit", "-m", f"Remove work #{code}"],
+                       check=False, capture_output=True)
+        if ensure_origin_remote(cfg):
+            subprocess.run(["git", "pull", "origin", "main", "--no-edit"],
+                           check=False, capture_output=True)
+            subprocess.run(["git", "push", "-u", "origin", "main"],
+                           check=False, capture_output=True)
+    except Exception as e:
+        print(f"⚠️ Delete push error: {e}")
+
+    return jsonify({"status": "ok"})
 
 # ============== MAIN ==============
 BOT_HEALTH = {"status": "starting", "last_update": None, "restart_count": 0}
