@@ -23,17 +23,31 @@ WORK_DIR = "/storage/emulated/0/arccomic.github.io"
 CONFIG_FILE = os.path.join(WORK_DIR, "config.json")
 COVERS_DIR = os.path.join(WORK_DIR, "covers")
 WORKS_DIR = os.path.join(WORK_DIR, "_works")
+STATS_FILE = os.path.join(WORK_DIR, "stats.json")
+
+# SECURITY: tokens live OUTSIDE the git repo folder entirely, in a sibling
+# directory. This makes it structurally impossible for `git add .` inside
+# WORK_DIR to ever pick them up, even if .gitignore rules are ever missing,
+# forgotten, or edited by mistake. This is the root cause fix for the
+# earlier incident where a GitHub token was committed and had to be purged
+# from history.
+SECRETS_DIR = "/storage/emulated/0/ArcComicSecrets"
+SECRETS_FILE = os.path.join(SECRETS_DIR, "secrets.json")
+os.makedirs(SECRETS_DIR, exist_ok=True)
+
+DEFAULT_SECRETS = {
+    "telegram_bot_token": "",
+    "github_token": "",
+}
 
 # Ensure dirs exist
 os.makedirs(COVERS_DIR, exist_ok=True)
 os.makedirs(WORKS_DIR, exist_ok=True)
 
-# Config template
+# Config template (non-sensitive settings only — safe to sit inside the repo)
 DEFAULT_CONFIG = {
-    "telegram_bot_token": "",
-    "github_token": "",
     "channel_username": "@ArcComic",
-    "site_domain": "https://example.com",
+    "site_domain": "https://nhentai.net",
     "posts_per_page": 15,
     "github_repo": "ArcComic/arccomic.github.io",
     "last_message_id": 0,
@@ -43,15 +57,43 @@ DEFAULT_CONFIG = {
     "indexnow_key": ""
 }
 
+def load_secrets():
+    if os.path.exists(SECRETS_FILE):
+        with open(SECRETS_FILE, 'r') as f:
+            return json.load(f)
+    return DEFAULT_SECRETS.copy()
+
+def save_secrets(secrets):
+    with open(SECRETS_FILE, 'w') as f:
+        json.dump(secrets, f, indent=2)
+    # Lock down permissions so only this app's user can read it
+    try:
+        os.chmod(SECRETS_FILE, 0o600)
+    except Exception:
+        pass
+
 def load_config():
     if os.path.exists(CONFIG_FILE):
         with open(CONFIG_FILE, 'r') as f:
-            return json.load(f)
-    return DEFAULT_CONFIG.copy()
+            cfg = json.load(f)
+    else:
+        cfg = DEFAULT_CONFIG.copy()
+    # Merge in secrets for convenience when code reads a single "cfg" dict.
+    # Secrets are never written back to CONFIG_FILE — see save_config().
+    cfg.update(load_secrets())
+    return cfg
 
 def save_config(cfg):
+    """Splits cfg into secrets (outside repo) and settings (inside repo)."""
+    secrets = {
+        "telegram_bot_token": cfg.get("telegram_bot_token", ""),
+        "github_token": cfg.get("github_token", ""),
+    }
+    save_secrets(secrets)
+
+    settings = {k: v for k, v in cfg.items() if k not in secrets}
     with open(CONFIG_FILE, 'w') as f:
-        json.dump(cfg, f, indent=2)
+        json.dump(settings, f, indent=2)
 
 # ============== GOOGLE SEO FUNCTIONS ==============
 def ping_google_sitemap(site_url):
@@ -116,23 +158,37 @@ def update_verification_tag(tag_html):
     print("✅ Verification tag updated in index.html")
     return True
 
-# ============== SITE SCRAPER (PLACEHOLDER) ==============
-def scrape_site(code, domain):
+# ============== SITE SCRAPER (nhentai.net) ==============
+def scrape_site(code, domain="https://nhentai.net"):
+    """
+    Scrapes title and tags from nhentai.net for a given work code.
+    Selectors confirmed for nhentai's gallery page structure:
+      Title: h1.title .pretty
+      Tags:  section#tags a.tagchip .name
+    """
     try:
-        url = f"{domain}/g/{code}"
+        url = f"{domain.rstrip('/')}/g/{code}/"
         headers = {
-            "User-Agent": "Mozilla/5.0 (Linux; Android 14) AppleWebKit/537.36"
+            "User-Agent": "Mozilla/5.0 (Linux; Android 14) AppleWebKit/537.36 "
+                          "(KHTML, like Gecko) Chrome/120.0 Mobile Safari/537.36"
         }
-        r = requests.get(url, headers=headers, timeout=15)
+        r = requests.get(url, headers=headers, timeout=20)
+        r.raise_for_status()
         soup = BeautifulSoup(r.text, 'html.parser')
 
-        title_elem = soup.select_one("h1.title .pretty") or soup.select_one("h1")
-        title = title_elem.text.strip() if title_elem else f"Work {code}"
+        title_elem = soup.select_one("h1.title .pretty")
+        if not title_elem:
+            title_elem = soup.select_one("h1.title")
+        title = title_elem.get_text(strip=True) if title_elem else f"Work {code}"
 
-        tag_elems = soup.select("section#tags a.tagchip .name") or soup.select("a[href^='/tag/']")
-        tags = [t.text.strip() for t in tag_elems if t.text.strip()]
+        tag_elems = soup.select("section#tags a.tagchip .name")
+        tags = [t.get_text(strip=True) for t in tag_elems if t.get_text(strip=True)]
 
+        print(f"🔍 Scraped '{title}' with {len(tags)} tags for code {code}")
         return title, tags
+    except requests.exceptions.HTTPError as e:
+        print(f"⚠️ Scrape HTTP error for {code}: {e}")
+        return f"Work {code}", []
     except Exception as e:
         print(f"⚠️ Scrape error for {code}: {e}")
         return f"Work {code}", []
@@ -176,6 +232,36 @@ def generate_md(code, title, author, categories, full_color, cheating,
     ]
     return "\n".join(md_lines)
 
+# ============== STATS TRACKING ==============
+def load_stats():
+    if os.path.exists(STATS_FILE):
+        with open(STATS_FILE, 'r') as f:
+            return json.load(f)
+    return {"total_posts": 0, "posts": [], "last_error": None, "last_error_time": None}
+
+def save_stats(stats):
+    # Keep only the most recent 50 entries so the file doesn't grow forever
+    stats["posts"] = stats.get("posts", [])[-50:]
+    with open(STATS_FILE, 'w') as f:
+        json.dump(stats, f, indent=2)
+
+def record_post(code, title, success, error=None):
+    stats = load_stats()
+    entry = {
+        "code": code,
+        "title": title,
+        "success": success,
+        "time": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
+        "error": error
+    }
+    stats["posts"].append(entry)
+    if success:
+        stats["total_posts"] = stats.get("total_posts", 0) + 1
+    else:
+        stats["last_error"] = error
+        stats["last_error_time"] = entry["time"]
+    save_stats(stats)
+
 # ============== GIT OPERATIONS ==============
 def git_push(cfg, code, title):
     try:
@@ -204,9 +290,57 @@ def git_push(cfg, code, title):
                 return True
             else:
                 print(f"❌ Git push failed: {push_result.stderr.strip()}")
+        else:
+            print("⚠️ No GitHub token configured, skipping push")
     except Exception as e:
         print(f"❌ Git push error: {e}")
     return False
+
+# ============== TELEGRAM MESSAGE PARSING ==============
+def normalize_text(text):
+    """Collapse Telegram's non-breaking spaces and other invisible
+    formatting-boundary characters (which appear when mixing bold and
+    monospace styles) down to plain ASCII spaces."""
+    replacements = {
+        "\xa0": " ",   # non-breaking space
+        "\u200b": "",  # zero-width space
+        "\u200c": "",  # zero-width non-joiner
+        "\u200d": "",  # zero-width joiner
+        "\ufeff": "",  # BOM / zero-width no-break space
+    }
+    for bad, good in replacements.items():
+        text = text.replace(bad, good)
+    return text
+
+def extract_field(text, *labels, pattern=r"(.+)"):
+    """Try each label variant until one matches. Case-insensitive,
+    tolerant of extra/odd whitespace after normalization."""
+    for label in labels:
+        m = re.search(re.escape(label) + r"\s*:\s*" + pattern, text, re.IGNORECASE)
+        if m:
+            return m.group(1).strip()
+    return None
+
+def parse_post_fields(raw_text):
+    """Parses a channel post into structured fields. Returns a dict, or
+    None (with a debug print) if no code could be found at all."""
+    text = normalize_text(raw_text)
+
+    code = extract_field(text, "🌟Code", "Code", pattern=r"(\d+)")
+    if not code:
+        print(f"⚠️ No code found in post. Raw text was: {repr(raw_text)}")
+        return None
+
+    fields = {
+        "code": code,
+        "author": extract_field(text, "✨Author", "Author") or "Unknown",
+        "categories": extract_field(text, "⚡Categories", "Categories") or "manga",
+        "full_color": extract_field(text, "💫Full color", "Full color") or "no",
+        "cheating": extract_field(text, "🌙Cheating", "Cheating") or "no",
+        "language": extract_field(text, "⚡Language", "Language") or "english",
+        "rating": extract_field(text, "⭐Rating", "Rating", pattern=r"\(?([\d.]+)\)?") or "0.0",
+    }
+    return fields
 
 # ============== TELEGRAM BOT HANDLER ==============
 async def handle_channel_post(update: Update, context: ContextTypes.DEFAULT_TYPE):
@@ -215,70 +349,67 @@ async def handle_channel_post(update: Update, context: ContextTypes.DEFAULT_TYPE
     if not msg:
         return
 
-    text = msg.caption or msg.text or ""
-
-    code_match = re.search(r"🌟Code:\s*(\d+)", text)
-    if not code_match:
-        print("⚠️ No code found in post")
+    raw_text = msg.caption or msg.text or ""
+    fields = parse_post_fields(raw_text)
+    if not fields:
+        record_post(code="?", title="(unparsed post)", success=False,
+                     error="Could not find a Code field in the post")
         return
 
-    code = code_match.group(1)
+    code = fields["code"]
+    title = f"Work {code}"  # placeholder until scrape completes
 
-    author = re.search(r"✨Author:\s*(.+)", text)
-    author = author.group(1).strip() if author else "Unknown"
+    try:
+        date_str = msg.date.strftime("%Y-%m-%d")
+        channel = cfg.get('channel_username', '@ArcComic').replace('@', '')
+        telegram_url = f"https://t.me/{channel}/{msg.message_id}"
+        site_url = "https://arccomic.github.io"
+        post_url = f"{site_url}/works/{code}/"
 
-    categories = re.search(r"⚡Categories:\s*(.+)", text)
-    categories = categories.group(1).strip() if categories else "manga"
+        print(f"📥 Processing code {code}...")
 
-    full_color = re.search(r"💫Full color:\s*(.+)", text)
-    full_color = full_color.group(1).strip() if full_color else "no"
+        domain = cfg.get("site_domain", "https://nhentai.net")
+        title, tags = scrape_site(code, domain)
 
-    cheating = re.search(r"🌙Cheating:\s*(.+)", text)
-    cheating = cheating.group(1).strip() if cheating else "no"
+        # Download cover from Telegram (raw download, no Pillow)
+        cover_path = os.path.join(COVERS_DIR, f"{code}.jpg")
+        if msg.photo:
+            photo = msg.photo[-1]
+            photo_file = await photo.get_file()
+            await photo_file.download_to_drive(cover_path)
+            print(f"📸 Cover saved: {cover_path}")
+        else:
+            print("⚠️ No photo attached to this post")
 
-    language = re.search(r"⚡Language:\s*(.+)", text)
-    language = language.group(1).strip() if language else "english"
+        md_content = generate_md(
+            code, title, fields["author"], fields["categories"],
+            fields["full_color"], fields["cheating"], fields["language"],
+            fields["rating"], tags, cover_path, telegram_url, date_str
+        )
 
-    rating = re.search(r"⭐Rating:\s*\(([\d.]+)\)", text)
-    rating = rating.group(1) if rating else "0.0"
+        md_path = os.path.join(WORKS_DIR, f"{code}.md")
+        with open(md_path, 'w', encoding='utf-8') as f:
+            f.write(md_content)
 
-    date_str = msg.date.strftime("%Y-%m-%d")
-    telegram_url = f"https://t.me/{cfg['channel_username'].replace('@','')}/{msg.message_id}"
-    site_url = f"https://arccomic.github.io"
-    post_url = f"{site_url}/works/{code}/"
+        pushed = git_push(cfg, code, title)
+        if pushed:
+            if cfg.get("auto_ping_google", True):
+                ping_google_sitemap(site_url)
+            if cfg.get("use_indexnow", True):
+                api_key = cfg.get("indexnow_key", "")
+                if api_key:
+                    submit_indexnow(post_url, site_url, api_key)
 
-    print(f"📥 Processing code {code}...")
+        cfg["last_message_id"] = msg.message_id
+        save_config(cfg)
 
-    domain = cfg.get("site_domain", "https://example.com")
-    title, tags = scrape_site(code, domain)
+        record_post(code, title, success=pushed,
+                     error=None if pushed else "Git push failed")
+        print(f"✅ Done: {title} (Code: {code})")
 
-    # Download cover from Telegram (raw download, no Pillow)
-    cover_path = os.path.join(COVERS_DIR, f"{code}.jpg")
-    if msg.photo:
-        photo = msg.photo[-1]
-        photo_file = await photo.get_file()
-        await photo_file.download_to_drive(cover_path)
-        print(f"📸 Cover saved: {cover_path}")
-
-    md_content = generate_md(code, title, author, categories, full_color,
-                            cheating, language, rating, tags, cover_path, 
-                            telegram_url, date_str)
-
-    md_path = os.path.join(WORKS_DIR, f"{code}.md")
-    with open(md_path, 'w', encoding='utf-8') as f:
-        f.write(md_content)
-
-    if git_push(cfg, code, title):
-        if cfg.get("auto_ping_google", True):
-            ping_google_sitemap(site_url)
-        if cfg.get("use_indexnow", True):
-            api_key = cfg.get("indexnow_key", "")
-            if api_key:
-                submit_indexnow(post_url, site_url, api_key)
-
-    cfg["last_message_id"] = msg.message_id
-    save_config(cfg)
-    print(f"✅ Done: {title} (Code: {code})")
+    except Exception as e:
+        print(f"❌ Error processing code {code}: {e}")
+        record_post(code, title, success=False, error=str(e))
 
 # ============== FLASK DASHBOARD ==============
 app = Flask(__name__)
@@ -524,19 +655,56 @@ DASHBOARD_HTML = """
         <div class="card">
             <h2>📊 Bot Status</h2>
             <p style="color:#8888a0;font-size:14px;">
+                Status: <strong id="botStatus" style="color:#f59e0b;">{{ bot_status }}</strong><br>
+                Last heartbeat: <strong>{{ bot_last_update or 'N/A' }}</strong><br>
+                Restarts since launch: <strong>{{ bot_restart_count }}</strong><br>
                 Last Message ID: <strong style="color:#f59e0b;">{{ last_message_id }}</strong><br>
-                Config File: <code>/storage/emulated/0/arccomic.github.io/config.json</code><br>
                 Works Dir: <code>/storage/emulated/0/arccomic.github.io/_works/</code><br>
                 IndexNow Key: <code>{{ indexnow_key[:16] + '...' if indexnow_key else 'Not set' }}</code>
             </p>
         </div>
 
+        <div class="card">
+            <h2>📈 Posting Statistics</h2>
+            <p style="color:#8888a0;font-size:14px;margin-bottom:12px;">
+                Total posts published: <strong style="color:#22c55e;font-size:20px;">{{ total_posts }}</strong>
+            </p>
+            {% if last_error %}
+            <p style="color:#ef4444;font-size:13px;margin-bottom:12px;">
+                ⚠️ Last error ({{ last_error_time }}): {{ last_error }}
+            </p>
+            {% endif %}
+            <div style="max-height:240px;overflow-y:auto;">
+                {% if recent_posts %}
+                {% for post in recent_posts %}
+                <div style="display:flex;justify-content:space-between;padding:8px 0;border-bottom:1px solid #2a2a3a;font-size:13px;">
+                    <span>{{ '✅' if post.success else '❌' }} {{ post.title }} <code style="font-size:11px;">#{{ post.code }}</code></span>
+                    <span style="color:#666;">{{ post.time }}</span>
+                </div>
+                {% endfor %}
+                {% else %}
+                <p style="color:#666;font-size:13px;">No posts yet. Post something in your Telegram channel to get started.</p>
+                {% endif %}
+            </div>
+        </div>
+
         <div class="footer">
-            Arc Comic Bot v2.0 • Running on Termux
+            Arc Comic Bot v3.0 • Running on Termux
         </div>
     </div>
 
     <script>
+        // Live status refresh every 10s so the dashboard reflects bot health
+        // without needing a manual page reload.
+        async function refreshStatus() {
+            try {
+                const res = await fetch('/api/health');
+                const health = await res.json();
+                document.getElementById('botStatus').textContent = health.status;
+            } catch (e) { /* dashboard server itself would have to be down */ }
+        }
+        setInterval(refreshStatus, 10000);
+
         document.getElementById('configForm').addEventListener('submit', async (e) => {
             e.preventDefault();
             const formData = new FormData(e.target);
@@ -568,7 +736,17 @@ DASHBOARD_HTML = """
 @app.route("/")
 def dashboard():
     cfg = load_config()
-    return render_template_string(DASHBOARD_HTML, **cfg)
+    stats = load_stats()
+    return render_template_string(
+        DASHBOARD_HTML, **cfg,
+        total_posts=stats.get("total_posts", 0),
+        recent_posts=list(reversed(stats.get("posts", [])))[:10],
+        last_error=stats.get("last_error"),
+        last_error_time=stats.get("last_error_time"),
+        bot_status=BOT_HEALTH.get("status"),
+        bot_last_update=BOT_HEALTH.get("last_update"),
+        bot_restart_count=BOT_HEALTH.get("restart_count", 0),
+    )
 
 @app.route("/save", methods=["POST"])
 def save():
@@ -585,7 +763,7 @@ def save():
         with open(key_file, 'w') as f:
             f.write(cfg["indexnow_key"])
 
-    save_config(cfg)
+    save_config(cfg)  # automatically splits tokens into SECRETS_FILE
 
     # Inject the verification tag into index.html and push immediately,
     # so Google can verify without waiting for the next comic post.
@@ -594,20 +772,59 @@ def save():
 
     return jsonify({"status": "ok", "indexnow_key": cfg.get("indexnow_key", "")})
 
+@app.route("/api/stats")
+def api_stats():
+    stats = load_stats()
+    return jsonify({
+        "total_posts": stats.get("total_posts", 0),
+        "recent_posts": list(reversed(stats.get("posts", [])))[:10],
+        "last_error": stats.get("last_error"),
+        "last_error_time": stats.get("last_error_time"),
+    })
+
+@app.route("/api/health")
+def api_health():
+    return jsonify(BOT_HEALTH)
+
 # ============== MAIN ==============
+BOT_HEALTH = {"status": "starting", "last_update": None, "restart_count": 0}
+
 def run_bot():
-    cfg = load_config()
-    token = cfg.get("telegram_bot_token", "")
-    if not token:
-        print("⚠️ No bot token configured. Open http://localhost:6767 to set up.")
-        return
-    print("🤖 Starting Telegram bot...")
-    app_tg = Application.builder().token(token).build()
-    app_tg.add_handler(MessageHandler(filters.ChatType.CHANNEL, handle_channel_post))
-    # stop_signals=None: signal handlers can only be installed on the main
-    # thread. Since the bot runs in a background thread (dashboard owns the
-    # main thread), we must skip signal handler registration entirely.
-    app_tg.run_polling(stop_signals=None)
+    """Runs the Telegram bot with automatic restart on crash. A crash
+    (network blip, Telegram API hiccup, etc.) no longer silently kills
+    posting forever — it retries with a short backoff instead."""
+    backoff = 5
+    while True:
+        cfg = load_config()
+        token = cfg.get("telegram_bot_token", "")
+        if not token:
+            print("⚠️ No bot token configured. Open http://localhost:6767 to set up.")
+            BOT_HEALTH["status"] = "no_token"
+            time.sleep(10)
+            continue
+
+        try:
+            print("🤖 Starting Telegram bot...")
+            BOT_HEALTH["status"] = "running"
+            BOT_HEALTH["last_update"] = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+            app_tg = Application.builder().token(token).build()
+            app_tg.add_handler(MessageHandler(filters.ChatType.CHANNEL, handle_channel_post))
+            # stop_signals=None: signal handlers can only be installed on the
+            # main thread. Since the bot runs in a background thread (the
+            # dashboard owns the main thread), we must skip signal handler
+            # registration entirely, or Telegram bot startup crashes with
+            # "set_wakeup_fd only works in main thread of the main interpreter".
+            app_tg.run_polling(stop_signals=None)
+        except Exception as e:
+            BOT_HEALTH["status"] = "crashed"
+            BOT_HEALTH["restart_count"] += 1
+            print(f"❌ Bot crashed: {e}")
+            print(f"🔄 Restarting in {backoff}s (restart #{BOT_HEALTH['restart_count']})...")
+            time.sleep(backoff)
+            backoff = min(backoff * 2, 300)  # exponential backoff, capped at 5 min
+            continue
+        # run_polling returned normally (shouldn't usually happen) — restart anyway
+        backoff = 5
 
 def run_dashboard():
     print("🌐 Dashboard running at http://localhost:6767")
