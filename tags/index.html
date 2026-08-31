@@ -1,0 +1,92 @@
+<!-- arc-comic-layout-version: 1 -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg">
+    <title>Browse Tags - Arc Comic</title>
+    <meta name="description" content="Browse all manga and doujinshi tags on Arc Comic">
+    <style>
+        :root { --bg: #0f0f13; --bg-card: #1a1a24; --bg-elevated: #222230; --accent: #f59e0b; --text: #e2e2e8; --text-muted: #8888a0; --border: #2a2a3a; }
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: 'Segoe UI', system-ui, sans-serif; background: var(--bg); color: var(--text); min-height: 100vh; }
+        .container { max-width: 900px; margin: 0 auto; padding: 24px; }
+        .logo-link { display: inline-flex; text-decoration: none; color: var(--accent); font-weight: 800; font-size: 18px; margin-bottom: 16px; }
+        .breadcrumb { color: var(--text-muted); font-size: 14px; margin-bottom: 20px; }
+        .breadcrumb a { color: var(--accent); text-decoration: none; }
+        h1 { font-size: 26px; font-weight: 800; margin-bottom: 20px; }
+        .search-box input {
+            width: 100%; padding: 12px 16px; background: var(--bg-card); border: 1px solid var(--border);
+            border-radius: 10px; color: var(--text); font-size: 14px; outline: none; margin-bottom: 24px;
+        }
+        .search-box input:focus { border-color: var(--accent); }
+        h2 { font-size: 16px; margin: 24px 0 12px; color: var(--text-muted); text-transform: uppercase; letter-spacing: 0.5px; }
+        .tag-cloud { display: flex; flex-wrap: wrap; gap: 8px; }
+        .tag-chip {
+            background: var(--bg-card); border: 1px solid var(--border); color: var(--text);
+            padding: 8px 14px; border-radius: 20px; font-size: 13px; text-decoration: none; display: inline-flex; gap: 6px; align-items: center;
+        }
+        .tag-chip:hover { border-color: var(--accent); color: var(--accent); }
+        .tag-count { color: var(--text-muted); font-size: 11px; }
+        .tag-chip.hidden { display: none; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <a href="/" class="logo-link">✨ Arc Comic</a>
+        <div class="breadcrumb"><a href="/">Home</a> › Tags</div>
+        <h1>💥 Browse Tags</h1>
+        <div class="search-box">
+            <input type="text" id="tagSearch" placeholder="Search tags...">
+        </div>
+        <h2>🔥 Popular Tags</h2>
+        <div class="tag-cloud" id="popularTags">
+            <a href="/tags/the-idolmaster/" class="tag-chip">the idolmaster <span class="tag-count">2</span></a>
+<a href="/tags/shiho-kitazawa/" class="tag-chip">shiho kitazawa <span class="tag-count">2</span></a>
+<a href="/tags/yuri/" class="tag-chip">yuri <span class="tag-count">2</span></a>
+<a href="/tags/rough-translation/" class="tag-chip">rough translation <span class="tag-count">2</span></a>
+<a href="/tags/females-only/" class="tag-chip">females only <span class="tag-count">2</span></a>
+<a href="/tags/houki/" class="tag-chip">houki <span class="tag-count">2</span></a>
+<a href="/tags/tonburi/" class="tag-chip">tonburi <span class="tag-count">2</span></a>
+<a href="/tags/translated/" class="tag-chip">translated <span class="tag-count">2</span></a>
+<a href="/tags/english/" class="tag-chip">english <span class="tag-count">2</span></a>
+<a href="/tags/doujinshi/" class="tag-chip">doujinshi <span class="tag-count">2</span></a>
+<a href="/tags/tsumugi-shiraishi/" class="tag-chip">tsumugi shiraishi <span class="tag-count">1</span></a>
+<a href="/tags/mizuki-makabe/" class="tag-chip">mizuki makabe <span class="tag-count">1</span></a>
+<a href="/tags/group/" class="tag-chip">group <span class="tag-count">1</span></a>
+<a href="/tags/fff-threesome/" class="tag-chip">fff threesome <span class="tag-count">1</span></a>
+<a href="/tags/kana-yabuki/" class="tag-chip">kana yabuki <span class="tag-count">1</span></a>
+<a href="/tags/multi-work-series/" class="tag-chip">multi-work series <span class="tag-count">1</span></a>
+        </div>
+        <h2>A–Z All Tags</h2>
+        <div class="tag-cloud" id="allTags">
+            <a href="/tags/doujinshi/" class="tag-chip">doujinshi <span class="tag-count">2</span></a>
+<a href="/tags/english/" class="tag-chip">english <span class="tag-count">2</span></a>
+<a href="/tags/females-only/" class="tag-chip">females only <span class="tag-count">2</span></a>
+<a href="/tags/fff-threesome/" class="tag-chip">fff threesome <span class="tag-count">1</span></a>
+<a href="/tags/group/" class="tag-chip">group <span class="tag-count">1</span></a>
+<a href="/tags/houki/" class="tag-chip">houki <span class="tag-count">2</span></a>
+<a href="/tags/kana-yabuki/" class="tag-chip">kana yabuki <span class="tag-count">1</span></a>
+<a href="/tags/mizuki-makabe/" class="tag-chip">mizuki makabe <span class="tag-count">1</span></a>
+<a href="/tags/multi-work-series/" class="tag-chip">multi-work series <span class="tag-count">1</span></a>
+<a href="/tags/rough-translation/" class="tag-chip">rough translation <span class="tag-count">2</span></a>
+<a href="/tags/shiho-kitazawa/" class="tag-chip">shiho kitazawa <span class="tag-count">2</span></a>
+<a href="/tags/the-idolmaster/" class="tag-chip">the idolmaster <span class="tag-count">2</span></a>
+<a href="/tags/tonburi/" class="tag-chip">tonburi <span class="tag-count">2</span></a>
+<a href="/tags/translated/" class="tag-chip">translated <span class="tag-count">2</span></a>
+<a href="/tags/tsumugi-shiraishi/" class="tag-chip">tsumugi shiraishi <span class="tag-count">1</span></a>
+<a href="/tags/yuri/" class="tag-chip">yuri <span class="tag-count">2</span></a>
+        </div>
+    </div>
+    <script>
+        document.getElementById('tagSearch').addEventListener('input', function(e) {
+            const q = e.target.value.toLowerCase();
+            document.querySelectorAll('#allTags .tag-chip, #popularTags .tag-chip').forEach(function(chip) {
+                const text = chip.textContent.toLowerCase();
+                chip.classList.toggle('hidden', q.length > 0 && !text.includes(q));
+            });
+        });
+    </script>
+</body>
+</html>

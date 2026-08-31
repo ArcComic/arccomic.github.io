@@ -1,4 +1,4 @@
-<!-- arc-comic-layout-version: 3 -->
+<!-- arc-comic-layout-version: 4 -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -7,6 +7,7 @@
     <title>{{ page.title }} - Arc Comic</title>
     <meta name="description" content="{{ page.title }} by {{ page.author }} - Arc Comic">
     <script async src="https://ss.mrmnd.com/banner.js"></script>
+    <script async src="https://ss.mrmnd.com/native.js"></script>
     <style>
         :root {
             --bg: #0f0f13; --bg-card: #1a1a24; --bg-elevated: #222230;
@@ -21,15 +22,21 @@
         .container { max-width: 900px; margin: 0 auto; padding: 24px; }
         .logo-link { display: inline-flex; align-items: center; gap: 8px; text-decoration: none;
             color: var(--accent); font-weight: 800; font-size: 18px; margin-bottom: 16px; }
-        .back-link {
-            display: inline-block; color: var(--text-muted); text-decoration: none;
-            font-size: 14px; margin-bottom: 20px;
+        .breadcrumb {
+            color: var(--text-muted); font-size: 14px; margin-bottom: 20px;
         }
+        .breadcrumb a { color: var(--accent); text-decoration: none; }
+        .breadcrumb a:hover { text-decoration: underline; }
         .meta-row { display: flex; align-items: center; gap: 14px; color: var(--text-muted);
-            font-size: 13px; margin-bottom: 12px; }
+            font-size: 13px; margin-bottom: 12px; flex-wrap: wrap; }
         .cover {
             width: 100%; max-width: 400px; border-radius: 12px; display: block;
-            margin: 0 auto 24px; border: 1px solid var(--border);
+            margin: 0 auto 24px; border: 1px solid var(--border); position: relative;
+        }
+        .rating-badge {
+            position: absolute; top: 12px; right: 12px; background: var(--bg);
+            color: var(--accent); padding: 6px 14px; border-radius: 20px;
+            font-weight: 800; font-size: 14px;
         }
         h1 { font-size: 26px; font-weight: 800; margin-bottom: 20px; line-height: 1.3; }
         .info-grid {
@@ -37,11 +44,16 @@
         }
         .info-box {
             background: var(--bg-card); border: 1px solid var(--border);
-            border-radius: 10px; padding: 14px;
+            border-radius: 10px; padding: 14px; display: flex; align-items: center; gap: 12px;
+        }
+        .info-icon {
+            width: 36px; height: 36px; border-radius: 10px; background: var(--bg-elevated);
+            display: flex; align-items: center; justify-content: center; font-size: 18px;
+            flex-shrink: 0;
         }
         .info-label {
             color: var(--text-muted); font-size: 11px; text-transform: uppercase;
-            letter-spacing: 0.5px; margin-bottom: 4px;
+            letter-spacing: 0.5px; margin-bottom: 2px;
         }
         .info-value { font-size: 16px; font-weight: 700; }
         .tags { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 24px; }
@@ -84,49 +96,56 @@
             display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
         .similar-ad-card {
             background: var(--bg-card); border: 1px dashed var(--border); border-radius: 12px;
-            display: flex; align-items: center; justify-content: center; min-height: 180px;
-            color: var(--text-muted); font-size: 11px; text-transform: uppercase; letter-spacing: 1px;
+            min-height: 180px; overflow: hidden;
         }
     </style>
 </head>
 <body>
     <div class="container">
         <a href="/" class="logo-link">✨ Arc Comic</a>
-        <br>
-        <a href="/" class="back-link">← Back to Arc Comic</a>
 
-        <img src="{{ page.cover }}" alt="{{ page.title }}" class="cover">
+        <div class="breadcrumb">
+            <a href="/">Home</a> ›
+            <a href="/?category={{ page.categories | first | url_encode }}">{{ page.categories | first | capitalize }}</a> ›
+            {{ page.title }}
+        </div>
+
+        <div class="cover">
+            <img src="{{ page.cover }}" alt="{{ page.title }}" style="width:100%;display:block;border-radius:12px;">
+            <span class="rating-badge">⭐ {{ page.rating }}</span>
+        </div>
 
         <div class="meta-row">
             <span id="viewCount">👁 -- views</span>
+            <span>📅 {{ page.date | date: "%B %d, %Y" }}</span>
         </div>
 
         <h1>{{ page.title }}</h1>
 
         <div class="info-grid">
             <div class="info-box">
-                <div class="info-label">Author</div>
-                <div class="info-value">{{ page.author }}</div>
+                <div class="info-icon">✨</div>
+                <div><div class="info-label">Author</div><div class="info-value">{{ page.author }}</div></div>
             </div>
             <div class="info-box">
-                <div class="info-label">Code</div>
-                <div class="info-value">{{ page.code }}</div>
+                <div class="info-icon">🌟</div>
+                <div><div class="info-label">Code</div><div class="info-value">{{ page.code }}</div></div>
             </div>
             <div class="info-box">
-                <div class="info-label">Category</div>
-                <div class="info-value">{{ page.categories | join: ", " | capitalize }}</div>
+                <div class="info-icon">⚡</div>
+                <div><div class="info-label">Category</div><div class="info-value">{{ page.categories | join: ", " | capitalize }}</div></div>
             </div>
             <div class="info-box">
-                <div class="info-label">Language</div>
-                <div class="info-value">{{ page.language | capitalize }}</div>
+                <div class="info-icon">🌐</div>
+                <div><div class="info-label">Language</div><div class="info-value">{{ page.language | capitalize }}</div></div>
             </div>
             <div class="info-box">
-                <div class="info-label">Full Color</div>
-                <div class="info-value">{% if page.full_color %}Yes{% else %}No{% endif %}</div>
+                <div class="info-icon">🎨</div>
+                <div><div class="info-label">Full Color</div><div class="info-value">{% if page.full_color %}Yes{% else %}No{% endif %}</div></div>
             </div>
             <div class="info-box">
-                <div class="info-label">NTR</div>
-                <div class="info-value">{% if page.ntr %}Yes{% else %}No{% endif %}</div>
+                <div class="info-icon">🌙</div>
+                <div><div class="info-label">NTR</div><div class="info-value">{% if page.ntr %}Yes{% else %}No{% endif %}</div></div>
             </div>
         </div>
 
@@ -144,7 +163,6 @@
         </a>
 
         {% assign this_tags = page.tags %}
-        {% assign series_key = page.title | replace: "  ", " " %}
         {% assign candidates = "" | split: "" %}
         {% for work in site.works %}
             {% if work.code != page.code %}
@@ -176,7 +194,7 @@
                             </div>
                         </a>
                         {% if shown_count == 2 %}
-                        <div class="similar-ad-card" data-mndbanid="6682c345-631e-456b-82ef-cc3bd9dbb29a">Ad</div>
+                        <div class="similar-ad-card" data-mndazid="46474a49-ec2d-4f56-b270-26751ac9202a"></div>
                         {% endif %}
                     {% endunless %}
                 {% endfor %}

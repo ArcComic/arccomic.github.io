@@ -10,6 +10,7 @@ import json
 import re
 import time
 import atexit
+import hashlib
 import subprocess
 import threading
 import requests
@@ -146,6 +147,15 @@ def ensure_jekyll_works_collection():
         cfg["collections"] = collections
         changed = True
 
+    # 1b. Ensure the 'tags' collection exists too, so tag browse pages
+    # (auto-generated per unique tag by ensure_tag_pages()) build into
+    # real, crawlable URLs the same way individual comics do.
+    tags_cfg = collections.get("tags") or {}
+    if tags_cfg.get("output") is not True or tags_cfg.get("permalink") != "/tags/:path/":
+        collections["tags"] = {"output": True, "permalink": "/tags/:path/"}
+        cfg["collections"] = collections
+        changed = True
+
     # 2. Ensure a default layout applies to the works collection
     defaults = cfg.get("defaults") or []
     has_works_default = any(
@@ -160,15 +170,35 @@ def ensure_jekyll_works_collection():
         cfg["defaults"] = defaults
         changed = True
 
+    # 2b. Same for tags
+    has_tags_default = any(
+        isinstance(d, dict) and d.get("scope", {}).get("type") == "tags"
+        for d in defaults
+    )
+    if not has_tags_default:
+        defaults.append({
+            "scope": {"path": "", "type": "tags"},
+            "values": {"layout": "tag"}
+        })
+        cfg["defaults"] = defaults
+        changed = True
+
     if changed:
         with open(CONFIG_YML_PATH, 'w', encoding='utf-8') as f:
             yaml.dump(cfg, f, default_flow_style=False, sort_keys=False, allow_unicode=True)
-        print("🔧 _config.yml updated: added 'works' collection so posts build into real pages")
+        print("🔧 _config.yml updated: added 'works'/'tags' collections so pages build correctly")
 
     return changed
 
 POST_LAYOUT_PATH = os.path.join(WORK_DIR, "_layouts", "post.html")
-POST_LAYOUT_VERSION = 3  # bump when the template below changes materially
+POST_LAYOUT_VERSION = 4  # bump when the template below changes materially
+
+# Two separate Mondiad zones: a Banner zone for the main reading-page slot,
+# and a Native zone for the Similar Comics card (Native blends into content
+# grids, which is what that placement needs — Banner expects a fixed
+# rectangular slot and looks out of place mixed into thumbnail cards).
+BANNER_AD_ZONE_ID = "6682c345-631e-456b-82ef-cc3bd9dbb29a"
+NATIVE_AD_ZONE_ID = "46474a49-ec2d-4f56-b270-26751ac9202a"
 
 POST_LAYOUT_TEMPLATE = f"""<!-- arc-comic-layout-version: {POST_LAYOUT_VERSION} -->
 <!DOCTYPE html>
@@ -179,6 +209,7 @@ POST_LAYOUT_TEMPLATE = f"""<!-- arc-comic-layout-version: {POST_LAYOUT_VERSION} 
     <title>{{{{ page.title }}}} - Arc Comic</title>
     <meta name="description" content="{{{{ page.title }}}} by {{{{ page.author }}}} - Arc Comic">
     <script async src="https://ss.mrmnd.com/banner.js"></script>
+    <script async src="https://ss.mrmnd.com/native.js"></script>
     <style>
         :root {{
             --bg: #0f0f13; --bg-card: #1a1a24; --bg-elevated: #222230;
@@ -193,15 +224,21 @@ POST_LAYOUT_TEMPLATE = f"""<!-- arc-comic-layout-version: {POST_LAYOUT_VERSION} 
         .container {{ max-width: 900px; margin: 0 auto; padding: 24px; }}
         .logo-link {{ display: inline-flex; align-items: center; gap: 8px; text-decoration: none;
             color: var(--accent); font-weight: 800; font-size: 18px; margin-bottom: 16px; }}
-        .back-link {{
-            display: inline-block; color: var(--text-muted); text-decoration: none;
-            font-size: 14px; margin-bottom: 20px;
+        .breadcrumb {{
+            color: var(--text-muted); font-size: 14px; margin-bottom: 20px;
         }}
+        .breadcrumb a {{ color: var(--accent); text-decoration: none; }}
+        .breadcrumb a:hover {{ text-decoration: underline; }}
         .meta-row {{ display: flex; align-items: center; gap: 14px; color: var(--text-muted);
-            font-size: 13px; margin-bottom: 12px; }}
+            font-size: 13px; margin-bottom: 12px; flex-wrap: wrap; }}
         .cover {{
             width: 100%; max-width: 400px; border-radius: 12px; display: block;
-            margin: 0 auto 24px; border: 1px solid var(--border);
+            margin: 0 auto 24px; border: 1px solid var(--border); position: relative;
+        }}
+        .rating-badge {{
+            position: absolute; top: 12px; right: 12px; background: var(--bg);
+            color: var(--accent); padding: 6px 14px; border-radius: 20px;
+            font-weight: 800; font-size: 14px;
         }}
         h1 {{ font-size: 26px; font-weight: 800; margin-bottom: 20px; line-height: 1.3; }}
         .info-grid {{
@@ -209,11 +246,16 @@ POST_LAYOUT_TEMPLATE = f"""<!-- arc-comic-layout-version: {POST_LAYOUT_VERSION} 
         }}
         .info-box {{
             background: var(--bg-card); border: 1px solid var(--border);
-            border-radius: 10px; padding: 14px;
+            border-radius: 10px; padding: 14px; display: flex; align-items: center; gap: 12px;
+        }}
+        .info-icon {{
+            width: 36px; height: 36px; border-radius: 10px; background: var(--bg-elevated);
+            display: flex; align-items: center; justify-content: center; font-size: 18px;
+            flex-shrink: 0;
         }}
         .info-label {{
             color: var(--text-muted); font-size: 11px; text-transform: uppercase;
-            letter-spacing: 0.5px; margin-bottom: 4px;
+            letter-spacing: 0.5px; margin-bottom: 2px;
         }}
         .info-value {{ font-size: 16px; font-weight: 700; }}
         .tags {{ display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 24px; }}
@@ -256,49 +298,56 @@ POST_LAYOUT_TEMPLATE = f"""<!-- arc-comic-layout-version: {POST_LAYOUT_VERSION} 
             display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }}
         .similar-ad-card {{
             background: var(--bg-card); border: 1px dashed var(--border); border-radius: 12px;
-            display: flex; align-items: center; justify-content: center; min-height: 180px;
-            color: var(--text-muted); font-size: 11px; text-transform: uppercase; letter-spacing: 1px;
+            min-height: 180px; overflow: hidden;
         }}
     </style>
 </head>
 <body>
     <div class="container">
         <a href="/" class="logo-link">✨ Arc Comic</a>
-        <br>
-        <a href="/" class="back-link">← Back to Arc Comic</a>
 
-        <img src="{{{{ page.cover }}}}" alt="{{{{ page.title }}}}" class="cover">
+        <div class="breadcrumb">
+            <a href="/">Home</a> ›
+            <a href="/?category={{{{ page.categories | first | url_encode }}}}">{{{{ page.categories | first | capitalize }}}}</a> ›
+            {{{{ page.title }}}}
+        </div>
+
+        <div class="cover">
+            <img src="{{{{ page.cover }}}}" alt="{{{{ page.title }}}}" style="width:100%;display:block;border-radius:12px;">
+            <span class="rating-badge">⭐ {{{{ page.rating }}}}</span>
+        </div>
 
         <div class="meta-row">
             <span id="viewCount">👁 -- views</span>
+            <span>📅 {{{{ page.date | date: "%B %d, %Y" }}}}</span>
         </div>
 
         <h1>{{{{ page.title }}}}</h1>
 
         <div class="info-grid">
             <div class="info-box">
-                <div class="info-label">Author</div>
-                <div class="info-value">{{{{ page.author }}}}</div>
+                <div class="info-icon">✨</div>
+                <div><div class="info-label">Author</div><div class="info-value">{{{{ page.author }}}}</div></div>
             </div>
             <div class="info-box">
-                <div class="info-label">Code</div>
-                <div class="info-value">{{{{ page.code }}}}</div>
+                <div class="info-icon">🌟</div>
+                <div><div class="info-label">Code</div><div class="info-value">{{{{ page.code }}}}</div></div>
             </div>
             <div class="info-box">
-                <div class="info-label">Category</div>
-                <div class="info-value">{{{{ page.categories | join: ", " | capitalize }}}}</div>
+                <div class="info-icon">⚡</div>
+                <div><div class="info-label">Category</div><div class="info-value">{{{{ page.categories | join: ", " | capitalize }}}}</div></div>
             </div>
             <div class="info-box">
-                <div class="info-label">Language</div>
-                <div class="info-value">{{{{ page.language | capitalize }}}}</div>
+                <div class="info-icon">🌐</div>
+                <div><div class="info-label">Language</div><div class="info-value">{{{{ page.language | capitalize }}}}</div></div>
             </div>
             <div class="info-box">
-                <div class="info-label">Full Color</div>
-                <div class="info-value">{{% if page.full_color %}}Yes{{% else %}}No{{% endif %}}</div>
+                <div class="info-icon">🎨</div>
+                <div><div class="info-label">Full Color</div><div class="info-value">{{% if page.full_color %}}Yes{{% else %}}No{{% endif %}}</div></div>
             </div>
             <div class="info-box">
-                <div class="info-label">NTR</div>
-                <div class="info-value">{{% if page.ntr %}}Yes{{% else %}}No{{% endif %}}</div>
+                <div class="info-icon">🌙</div>
+                <div><div class="info-label">NTR</div><div class="info-value">{{% if page.ntr %}}Yes{{% else %}}No{{% endif %}}</div></div>
             </div>
         </div>
 
@@ -308,7 +357,7 @@ POST_LAYOUT_TEMPLATE = f"""<!-- arc-comic-layout-version: {POST_LAYOUT_VERSION} 
             {{% endfor %}}
         </div>
 
-        <div class="ad-slot" data-mndbanid="6682c345-631e-456b-82ef-cc3bd9dbb29a"></div>
+        <div class="ad-slot" data-mndbanid="{BANNER_AD_ZONE_ID}"></div>
 
         <a href="{{{{ page.telegram_post }}}}" class="read-btn" target="_blank" id="readBtn">
             <svg viewBox="0 0 24 24"><path d="M21.94 4.2a1.5 1.5 0 00-1.53-.24L2.7 10.9a1.4 1.4 0 00.1 2.63l4.55 1.42 1.75 5.6a1.4 1.4 0 002.3.57l2.6-2.36 4.68 3.46a1.4 1.4 0 002.23-.85l3.05-15.1a1.5 1.5 0 00-.02-.07zM8.5 14.3l9.3-6.9c.2-.15.4.1.24.28l-7.6 7.4-.3 3.2-1.64-3.98z"/></svg>
@@ -316,7 +365,6 @@ POST_LAYOUT_TEMPLATE = f"""<!-- arc-comic-layout-version: {POST_LAYOUT_VERSION} 
         </a>
 
         {{% assign this_tags = page.tags %}}
-        {{% assign series_key = page.title | replace: "  ", " " %}}
         {{% assign candidates = "" | split: "" %}}
         {{% for work in site.works %}}
             {{% if work.code != page.code %}}
@@ -348,7 +396,7 @@ POST_LAYOUT_TEMPLATE = f"""<!-- arc-comic-layout-version: {POST_LAYOUT_VERSION} 
                             </div>
                         </a>
                         {{% if shown_count == 2 %}}
-                        <div class="similar-ad-card" data-mndbanid="6682c345-631e-456b-82ef-cc3bd9dbb29a">Ad</div>
+                        <div class="similar-ad-card" data-mndazid="{NATIVE_AD_ZONE_ID}"></div>
                         {{% endif %}}
                     {{% endunless %}}
                 {{% endfor %}}
@@ -538,7 +586,7 @@ def ensure_favicon():
 
 # ============== HOMEPAGE (index.html) ==============
 INDEX_HTML_PATH = os.path.join(WORK_DIR, "index.html")
-INDEX_HTML_VERSION = 2  # bump when the template below changes materially
+INDEX_HTML_VERSION = 3  # bump when the template below changes materially
 
 INDEX_HTML_TEMPLATE = f"""---
 layout: default
@@ -717,6 +765,11 @@ layout: default
             <span class="search-icon">🔍</span>
             <input type="text" placeholder="Search by title, author, or tag..." id="searchInput">
             <button id="searchBtn">Search</button>
+        </div>
+        <div style="text-align:center;margin-bottom:30px;">
+            <a href="/tags/" style="color:var(--text-muted);font-size:13px;text-decoration:none;border-bottom:1px dashed var(--border);padding-bottom:2px;">
+                💥 Browse All Tags →
+            </a>
         </div>
         <h2 class="section-title">
             🔥 Popular Today <span class="badge">TOP 4</span>
@@ -914,6 +967,283 @@ def ensure_index_html():
     print(f"🔧 index.html updated to v{INDEX_HTML_VERSION} "
           f"(favicon, sort/filter toolbar, Latest Upload, working search)")
     return True
+
+# ============== TAG SYSTEM (Stage 3) ==============
+TAGS_DIR = os.path.join(WORK_DIR, "_tags")
+TAG_LAYOUT_PATH = os.path.join(WORK_DIR, "_layouts", "tag.html")
+TAG_LAYOUT_VERSION = 1
+TAGS_INDEX_PATH = os.path.join(WORK_DIR, "tags", "index.html")
+TAGS_INDEX_VERSION = 1
+
+TAG_LAYOUT_TEMPLATE = f"""<!-- arc-comic-layout-version: {TAG_LAYOUT_VERSION} -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg">
+    <title>{{{{ page.tag_name }}}} Comics - Arc Comic</title>
+    <meta name="description" content="Browse {{{{ page.tag_name }}}} manga and doujinshi on Arc Comic">
+    <style>
+        :root {{
+            --bg: #0f0f13; --bg-card: #1a1a24; --bg-elevated: #222230;
+            --accent: #f59e0b; --text: #e2e2e8; --text-muted: #8888a0; --border: #2a2a3a;
+        }}
+        * {{ margin: 0; padding: 0; box-sizing: border-box; }}
+        body {{ font-family: 'Segoe UI', system-ui, sans-serif; background: var(--bg); color: var(--text); min-height: 100vh; }}
+        .container {{ max-width: 1200px; margin: 0 auto; padding: 24px; }}
+        .logo-link {{ display: inline-flex; text-decoration: none; color: var(--accent); font-weight: 800; font-size: 18px; margin-bottom: 16px; }}
+        .breadcrumb {{ color: var(--text-muted); font-size: 14px; margin-bottom: 20px; }}
+        .breadcrumb a {{ color: var(--accent); text-decoration: none; }}
+        h1 {{ font-size: 28px; font-weight: 800; margin-bottom: 8px; }}
+        .count {{ color: var(--text-muted); margin-bottom: 24px; }}
+        .toolbar {{ margin-bottom: 20px; }}
+        .toolbar select {{
+            background: var(--bg-card); color: var(--text); border: 1px solid var(--border);
+            border-radius: 10px; padding: 10px 14px; font-size: 13px; cursor: pointer;
+        }}
+        .works-grid {{ display: grid; grid-template-columns: repeat(5, 1fr); gap: 16px; }}
+        .work-card {{
+            background: var(--bg-card); border-radius: 12px; border: 1px solid var(--border);
+            overflow: hidden; text-decoration: none; color: var(--text); transition: transform 0.2s;
+        }}
+        .work-card:hover {{ transform: translateY(-4px); }}
+        .work-card .cover {{ width: 100%; padding-top: 140%; position: relative; background: var(--bg-elevated); }}
+        .work-card .cover img {{ position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover; }}
+        .work-card .info {{ padding: 10px; }}
+        .work-card .info h3 {{ font-size: 13px; font-weight: 600; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }}
+        .work-card .info .meta {{ font-size: 11px; color: var(--text-muted); margin-top: 3px; }}
+        @media (max-width: 768px) {{ .works-grid {{ grid-template-columns: repeat(2, 1fr); }} }}
+    </style>
+</head>
+<body>
+    <div class="container">
+        <a href="/" class="logo-link">✨ Arc Comic</a>
+        <div class="breadcrumb"><a href="/">Home</a> › <a href="/tags/">Tags</a> › {{{{ page.tag_name }}}}</div>
+        <h1>💥 {{{{ page.tag_name }}}}</h1>
+        <div class="count">{{{{ page.work_count }}}} comic{{% if page.work_count != 1 %}}s{{% endif %}}</div>
+        <div class="toolbar">
+            <select id="sortSelect">
+                <option value="recent">Most Recent</option>
+                <option value="oldest">Oldest</option>
+                <option value="rating">Highest Rated</option>
+            </select>
+        </div>
+        <div class="works-grid" id="worksGrid"></div>
+        {{% include follow_us.html %}}
+    </div>
+    <script>
+        const works = [
+            {{% for w in page.works %}}
+            {{ title: "{{{{ w.title | escape }}}}", author: "{{{{ w.author }}}}", cover: "{{{{ w.cover }}}}",
+               rating: "{{{{ w.rating }}}}", date: "{{{{ w.date }}}}", url: "{{{{ w.url }}}}" }}{{% unless forloop.last %}},{{% endunless %}}
+            {{% endfor %}}
+        ];
+        function render() {{
+            const mode = document.getElementById('sortSelect').value;
+            let sorted = [...works];
+            if (mode === 'recent') sorted.sort((a,b) => new Date(b.date) - new Date(a.date));
+            else if (mode === 'oldest') sorted.sort((a,b) => new Date(a.date) - new Date(b.date));
+            else if (mode === 'rating') sorted.sort((a,b) => parseFloat(b.rating) - parseFloat(a.rating));
+            document.getElementById('worksGrid').innerHTML = sorted.map(w => `
+                <a href="${{w.url}}" class="work-card">
+                    <div class="cover"><img src="${{w.cover}}" alt="${{w.title}}"></div>
+                    <div class="info"><h3>${{w.title}}</h3><div class="meta">${{w.author}} • ⭐ ${{w.rating}}</div></div>
+                </a>
+            `).join('');
+        }}
+        document.getElementById('sortSelect').addEventListener('change', render);
+        render();
+    </script>
+</body>
+</html>
+"""
+
+def ensure_tag_layout():
+    if os.path.exists(TAG_LAYOUT_PATH):
+        with open(TAG_LAYOUT_PATH, 'r', encoding='utf-8') as f:
+            first_line = f.readline()
+        match = re.search(r"arc-comic-layout-version:\s*(\d+)", first_line)
+        if (int(match.group(1)) if match else 0) >= TAG_LAYOUT_VERSION:
+            return False
+    os.makedirs(os.path.dirname(TAG_LAYOUT_PATH), exist_ok=True)
+    with open(TAG_LAYOUT_PATH, 'w', encoding='utf-8') as f:
+        f.write(TAG_LAYOUT_TEMPLATE)
+    print(f"🔧 _layouts/tag.html updated to v{TAG_LAYOUT_VERSION}")
+    return True
+
+def slugify(text):
+    """Matches Jekyll's slugify filter closely enough for filenames/URLs:
+    lowercase, spaces to hyphens, strip anything not alphanumeric/hyphen."""
+    text = text.lower().strip()
+    text = re.sub(r"[^a-z0-9\s-]", "", text)
+    text = re.sub(r"[\s_-]+", "-", text)
+    return text.strip("-")
+
+def regenerate_tag_pages():
+    """
+    Scans every work's front matter and regenerates one _tags/<slug>.md
+    stub per unique tag, each carrying the full list of matching works
+    directly in its own front matter (avoids needing a Jekyll plugin to
+    do cross-collection joins at build time — plain Liquid can't easily
+    query "all works with tag X", so we precompute it here instead).
+    Also regenerates tags/index.html (the browse-all-tags page).
+    Called after every batch flush, since tag membership changes whenever
+    posts are added or removed. Returns True only if the tag data
+    actually changed (via content hash), so callers can skip pushing
+    when nothing changed — e.g. on every routine startup.
+    """
+    os.makedirs(TAGS_DIR, exist_ok=True)
+
+    tag_map = {}  # slug -> {"name": original casing, "works": [...]}
+    for fname in sorted(os.listdir(WORKS_DIR)):
+        if not fname.endswith(".md"):
+            continue
+        with open(os.path.join(WORKS_DIR, fname), 'r', encoding='utf-8') as f:
+            content = f.read()
+        try:
+            front = yaml.safe_load(content.split("---")[1])
+        except Exception:
+            continue
+        if not front:
+            continue
+        work_entry = {
+            "title": front.get("title", ""),
+            "author": front.get("author", ""),
+            "cover": front.get("cover", ""),
+            "rating": front.get("rating", "0"),
+            "date": str(front.get("date", "")),
+            "code": front.get("code", ""),
+            "url": f"/works/{front.get('code', '')}/",
+        }
+        for tag in front.get("tags", []):
+            slug = slugify(tag)
+            if not slug:
+                continue
+            if slug not in tag_map:
+                tag_map[slug] = {"name": tag, "works": []}
+            tag_map[slug]["works"].append(work_entry)
+
+    # Compare against a hash of the previous run's tag data before writing
+    # anything, so a no-op regeneration (nothing changed) doesn't trigger
+    # an unnecessary commit/push every single startup.
+    fingerprint = hashlib.sha256(
+        json.dumps(tag_map, sort_keys=True, default=str).encode()
+    ).hexdigest()
+    fingerprint_file = os.path.join(TAGS_DIR, ".fingerprint")
+    if os.path.exists(fingerprint_file):
+        with open(fingerprint_file, 'r') as f:
+            if f.read().strip() == fingerprint:
+                return False  # no change since last regeneration
+
+    # Clear old tag stubs so removed/renamed tags don't leave orphan pages
+    for fname in os.listdir(TAGS_DIR):
+        if fname.endswith(".md"):
+            os.remove(os.path.join(TAGS_DIR, fname))
+
+    for slug, data in tag_map.items():
+        works_yaml = yaml.dump(data["works"], default_flow_style=False, allow_unicode=True, sort_keys=False)
+        # indent for nesting under the 'works:' front-matter key
+        indented = "\n".join("  " + line if line.strip() else line for line in works_yaml.split("\n"))
+        stub = (
+            "---\n"
+            "layout: tag\n"
+            f"tag_name: \"{data['name']}\"\n"
+            f"work_count: {len(data['works'])}\n"
+            "works:\n"
+            f"{indented}"
+            "---\n"
+        )
+        with open(os.path.join(TAGS_DIR, f"{slug}.md"), 'w', encoding='utf-8') as f:
+            f.write(stub)
+
+    with open(fingerprint_file, 'w') as f:
+        f.write(fingerprint)
+
+    print(f"🔧 Regenerated {len(tag_map)} tag pages")
+    _write_tags_index(tag_map)
+    return True
+
+def _write_tags_index(tag_map):
+    """Writes tags/index.html: popular tags + full A-Z list with counts,
+    and a search box to filter the list client-side."""
+    sorted_by_count = sorted(tag_map.items(), key=lambda kv: len(kv[1]["works"]), reverse=True)
+    popular = sorted_by_count[:20]
+    all_sorted = sorted(tag_map.items(), key=lambda kv: kv[1]["name"].lower())
+
+    def tag_chip(slug, data):
+        return (f'<a href="/tags/{slug}/" class="tag-chip">'
+                f'{data["name"]} <span class="tag-count">{len(data["works"])}</span></a>')
+
+    popular_html = "\n".join(tag_chip(s, d) for s, d in popular)
+    all_html = "\n".join(tag_chip(s, d) for s, d in all_sorted)
+
+    html = f"""<!-- arc-comic-layout-version: {TAGS_INDEX_VERSION} -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg">
+    <title>Browse Tags - Arc Comic</title>
+    <meta name="description" content="Browse all manga and doujinshi tags on Arc Comic">
+    <style>
+        :root {{ --bg: #0f0f13; --bg-card: #1a1a24; --bg-elevated: #222230; --accent: #f59e0b; --text: #e2e2e8; --text-muted: #8888a0; --border: #2a2a3a; }}
+        * {{ margin: 0; padding: 0; box-sizing: border-box; }}
+        body {{ font-family: 'Segoe UI', system-ui, sans-serif; background: var(--bg); color: var(--text); min-height: 100vh; }}
+        .container {{ max-width: 900px; margin: 0 auto; padding: 24px; }}
+        .logo-link {{ display: inline-flex; text-decoration: none; color: var(--accent); font-weight: 800; font-size: 18px; margin-bottom: 16px; }}
+        .breadcrumb {{ color: var(--text-muted); font-size: 14px; margin-bottom: 20px; }}
+        .breadcrumb a {{ color: var(--accent); text-decoration: none; }}
+        h1 {{ font-size: 26px; font-weight: 800; margin-bottom: 20px; }}
+        .search-box input {{
+            width: 100%; padding: 12px 16px; background: var(--bg-card); border: 1px solid var(--border);
+            border-radius: 10px; color: var(--text); font-size: 14px; outline: none; margin-bottom: 24px;
+        }}
+        .search-box input:focus {{ border-color: var(--accent); }}
+        h2 {{ font-size: 16px; margin: 24px 0 12px; color: var(--text-muted); text-transform: uppercase; letter-spacing: 0.5px; }}
+        .tag-cloud {{ display: flex; flex-wrap: wrap; gap: 8px; }}
+        .tag-chip {{
+            background: var(--bg-card); border: 1px solid var(--border); color: var(--text);
+            padding: 8px 14px; border-radius: 20px; font-size: 13px; text-decoration: none; display: inline-flex; gap: 6px; align-items: center;
+        }}
+        .tag-chip:hover {{ border-color: var(--accent); color: var(--accent); }}
+        .tag-count {{ color: var(--text-muted); font-size: 11px; }}
+        .tag-chip.hidden {{ display: none; }}
+    </style>
+</head>
+<body>
+    <div class="container">
+        <a href="/" class="logo-link">✨ Arc Comic</a>
+        <div class="breadcrumb"><a href="/">Home</a> › Tags</div>
+        <h1>💥 Browse Tags</h1>
+        <div class="search-box">
+            <input type="text" id="tagSearch" placeholder="Search tags...">
+        </div>
+        <h2>🔥 Popular Tags</h2>
+        <div class="tag-cloud" id="popularTags">
+            {popular_html}
+        </div>
+        <h2>A–Z All Tags</h2>
+        <div class="tag-cloud" id="allTags">
+            {all_html}
+        </div>
+    </div>
+    <script>
+        document.getElementById('tagSearch').addEventListener('input', function(e) {{
+            const q = e.target.value.toLowerCase();
+            document.querySelectorAll('#allTags .tag-chip, #popularTags .tag-chip').forEach(function(chip) {{
+                const text = chip.textContent.toLowerCase();
+                chip.classList.toggle('hidden', q.length > 0 && !text.includes(q));
+            }});
+        }});
+    </script>
+</body>
+</html>
+"""
+    os.makedirs(os.path.dirname(TAGS_INDEX_PATH), exist_ok=True)
+    with open(TAGS_INDEX_PATH, 'w', encoding='utf-8') as f:
+        f.write(html)
 
 # ============== GOOGLE SEO FUNCTIONS ==============
 def touch_sitemap_lastmod(site_url):
@@ -1273,6 +1603,13 @@ def _flush_pending_queue_sync():
     cfg = load_config()
     codes = ", ".join(item["code"] for item in batch)
     print(f"🚚 Flushing batch of {len(batch)} post(s): {codes}")
+
+    # Regenerate tag pages before pushing so the new/updated tag
+    # membership is included in the same commit as the new works.
+    try:
+        regenerate_tag_pages()
+    except Exception as e:
+        print(f"⚠️ Tag page regeneration failed: {e}")
 
     pushed, push_error = git_push(cfg, "batch", f"Add {len(batch)} work(s): {codes}")
 
@@ -1986,6 +2323,11 @@ def api_delete_post():
 
     delete_post_record(code, time_str)
 
+    try:
+        regenerate_tag_pages()
+    except Exception as e:
+        print(f"⚠️ Tag page regeneration failed: {e}")
+
     # Push the deletion so the live site drops the post too
     cfg = load_config()
     try:
@@ -2132,9 +2474,17 @@ if __name__ == "__main__":
             needs_push = True
         if ensure_index_html():
             needs_push = True
+        if ensure_tag_layout():
+            needs_push = True
         if not os.path.exists(SOCIAL_LINKS_FILE):
             save_social_links(DEFAULT_SOCIAL_LINKS)
             needs_push = True
+        # Tag pages are regenerated from current works every startup —
+        # cheap to rebuild and keeps them in sync if works were ever
+        # edited/removed outside the normal post/delete flow.
+        if os.path.isdir(WORKS_DIR) and os.listdir(WORKS_DIR):
+            if regenerate_tag_pages():
+                needs_push = True
         if needs_push:
             cfg = load_config()
             git_push(cfg, "config", "Auto-fix site templates and homepage")

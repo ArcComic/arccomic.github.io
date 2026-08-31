@@ -1,0 +1,82 @@
+<!-- arc-comic-layout-version: 1 -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg">
+    <title>{{ page.tag_name }} Comics - Arc Comic</title>
+    <meta name="description" content="Browse {{ page.tag_name }} manga and doujinshi on Arc Comic">
+    <style>
+        :root {
+            --bg: #0f0f13; --bg-card: #1a1a24; --bg-elevated: #222230;
+            --accent: #f59e0b; --text: #e2e2e8; --text-muted: #8888a0; --border: #2a2a3a;
+        }
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: 'Segoe UI', system-ui, sans-serif; background: var(--bg); color: var(--text); min-height: 100vh; }
+        .container { max-width: 1200px; margin: 0 auto; padding: 24px; }
+        .logo-link { display: inline-flex; text-decoration: none; color: var(--accent); font-weight: 800; font-size: 18px; margin-bottom: 16px; }
+        .breadcrumb { color: var(--text-muted); font-size: 14px; margin-bottom: 20px; }
+        .breadcrumb a { color: var(--accent); text-decoration: none; }
+        h1 { font-size: 28px; font-weight: 800; margin-bottom: 8px; }
+        .count { color: var(--text-muted); margin-bottom: 24px; }
+        .toolbar { margin-bottom: 20px; }
+        .toolbar select {
+            background: var(--bg-card); color: var(--text); border: 1px solid var(--border);
+            border-radius: 10px; padding: 10px 14px; font-size: 13px; cursor: pointer;
+        }
+        .works-grid { display: grid; grid-template-columns: repeat(5, 1fr); gap: 16px; }
+        .work-card {
+            background: var(--bg-card); border-radius: 12px; border: 1px solid var(--border);
+            overflow: hidden; text-decoration: none; color: var(--text); transition: transform 0.2s;
+        }
+        .work-card:hover { transform: translateY(-4px); }
+        .work-card .cover { width: 100%; padding-top: 140%; position: relative; background: var(--bg-elevated); }
+        .work-card .cover img { position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover; }
+        .work-card .info { padding: 10px; }
+        .work-card .info h3 { font-size: 13px; font-weight: 600; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+        .work-card .info .meta { font-size: 11px; color: var(--text-muted); margin-top: 3px; }
+        @media (max-width: 768px) { .works-grid { grid-template-columns: repeat(2, 1fr); } }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <a href="/" class="logo-link">✨ Arc Comic</a>
+        <div class="breadcrumb"><a href="/">Home</a> › <a href="/tags/">Tags</a> › {{ page.tag_name }}</div>
+        <h1>💥 {{ page.tag_name }}</h1>
+        <div class="count">{{ page.work_count }} comic{% if page.work_count != 1 %}s{% endif %}</div>
+        <div class="toolbar">
+            <select id="sortSelect">
+                <option value="recent">Most Recent</option>
+                <option value="oldest">Oldest</option>
+                <option value="rating">Highest Rated</option>
+            </select>
+        </div>
+        <div class="works-grid" id="worksGrid"></div>
+        {% include follow_us.html %}
+    </div>
+    <script>
+        const works = [
+            {% for w in page.works %}
+            { title: "{{ w.title | escape }}", author: "{{ w.author }}", cover: "{{ w.cover }}",
+               rating: "{{ w.rating }}", date: "{{ w.date }}", url: "{{ w.url }}" }{% unless forloop.last %},{% endunless %}
+            {% endfor %}
+        ];
+        function render() {
+            const mode = document.getElementById('sortSelect').value;
+            let sorted = [...works];
+            if (mode === 'recent') sorted.sort((a,b) => new Date(b.date) - new Date(a.date));
+            else if (mode === 'oldest') sorted.sort((a,b) => new Date(a.date) - new Date(b.date));
+            else if (mode === 'rating') sorted.sort((a,b) => parseFloat(b.rating) - parseFloat(a.rating));
+            document.getElementById('worksGrid').innerHTML = sorted.map(w => `
+                <a href="${w.url}" class="work-card">
+                    <div class="cover"><img src="${w.cover}" alt="${w.title}"></div>
+                    <div class="info"><h3>${w.title}</h3><div class="meta">${w.author} • ⭐ ${w.rating}</div></div>
+                </a>
+            `).join('');
+        }
+        document.getElementById('sortSelect').addEventListener('change', render);
+        render();
+    </script>
+</body>
+</html>
