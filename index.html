@@ -1,10 +1,11 @@
 ---
 layout: default
 ---
+<!-- arc-comic-index-version: 2 -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta name="google-site-verification" content="bAtYBhcedRXcE__MG2ZDG3X57Mlqv74DCuQjrOxFWs0" />
+<link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     {% if site.google_verification != "" %}
@@ -28,6 +29,7 @@ layout: default
             text-align: center; padding: 40px 20px;
             border-bottom: 1px solid var(--border); margin-bottom: 30px;
         }
+        .header a.logo-link { text-decoration: none; }
         .header h1 {
             font-size: 42px; font-weight: 800;
             background: linear-gradient(135deg, var(--accent), #f97316);
@@ -36,21 +38,26 @@ layout: default
         .header p { color: var(--text-muted); font-size: 16px; margin-top: 10px; }
         .search-box {
             max-width: 500px; margin: 0 auto 30px;
-            position: relative;
+            display: flex; gap: 8px; position: relative;
         }
         .search-box input {
-            width: 100%; padding: 14px 20px 14px 48px;
+            flex: 1; padding: 14px 20px 14px 48px;
             background: var(--bg-card); border: 1px solid var(--border);
             border-radius: 12px; color: var(--text); font-size: 15px;
             outline: none;
         }
         .search-box input:focus { border-color: var(--accent); }
-        .search-box::before {
-            content: "🔍"; position: absolute; left: 16px; top: 50%;
-            transform: translateY(-50%); font-size: 18px;
+        .search-box .search-icon {
+            position: absolute; left: 16px; top: 50%;
+            transform: translateY(-50%); font-size: 18px; pointer-events: none;
+        }
+        .search-box button {
+            background: var(--accent); color: #000; border: none;
+            border-radius: 12px; padding: 0 22px; font-weight: 700;
+            font-size: 14px; cursor: pointer;
         }
         .section-title {
-            font-size: 20px; font-weight: 700; margin-bottom: 20px;
+            font-size: 20px; font-weight: 700; margin-bottom: 16px;
             display: flex; align-items: center; gap: 10px;
         }
         .section-title .badge {
@@ -58,6 +65,21 @@ layout: default
             padding: 4px 10px; border-radius: 20px;
             font-size: 12px; font-weight: 700;
         }
+        .toolbar {
+            display: flex; gap: 10px; margin-bottom: 20px; flex-wrap: wrap;
+        }
+        .toolbar select {
+            background: var(--bg-card); color: var(--text); border: 1px solid var(--border);
+            border-radius: 10px; padding: 10px 14px; font-size: 13px; cursor: pointer;
+        }
+        .filter-panel {
+            background: var(--bg-card); border: 1px solid var(--border); border-radius: 12px;
+            padding: 16px; margin-bottom: 20px; display: none; gap: 20px; flex-wrap: wrap;
+        }
+        .filter-panel.open { display: flex; }
+        .filter-group { display: flex; flex-direction: column; gap: 8px; }
+        .filter-group-label { font-size: 11px; color: var(--text-muted); text-transform: uppercase; letter-spacing: 0.5px; }
+        .filter-option { display: flex; align-items: center; gap: 6px; font-size: 13px; }
         .popular-grid {
             display: grid; grid-template-columns: repeat(4, 1fr);
             gap: 16px; margin-bottom: 40px;
@@ -115,6 +137,7 @@ layout: default
         .work-card .info .meta {
             font-size: 11px; color: var(--text-muted); margin-top: 3px;
         }
+        .no-results { text-align: center; padding: 60px 20px; color: var(--text-muted); }
         .pagination {
             display: flex; justify-content: center; gap: 8px;
             margin-top: 30px; padding-top: 20px;
@@ -145,21 +168,50 @@ layout: default
 <body>
     <div class="container">
         <div class="header">
-            <h1>✨ Arc Comic</h1>
+            <a href="/" class="logo-link"><h1>✨ Arc Comic</h1></a>
             <p>Art & Story — Curated Manga & Doujinshi Gallery</p>
         </div>
         <div class="search-box">
+            <span class="search-icon">🔍</span>
             <input type="text" placeholder="Search by title, author, or tag..." id="searchInput">
+            <button id="searchBtn">Search</button>
         </div>
         <h2 class="section-title">
             🔥 Popular Today <span class="badge">TOP 4</span>
         </h2>
         <div class="popular-grid" id="popularGrid"></div>
-        <h2 class="section-title">📚 Latest Works</h2>
+        <h2 class="section-title">📚 Latest Upload</h2>
+        <div class="toolbar">
+            <select id="sortSelect">
+                <option value="">Sort: Default</option>
+                <option value="popular_today">Most Popular Today</option>
+                <option value="popular_weekly">Most Popular This Week</option>
+                <option value="popular_monthly">Most Popular This Month</option>
+                <option value="popular_yearly">Most Popular This Year</option>
+                <option value="recent">Most Recent</option>
+                <option value="oldest">Oldest</option>
+            </select>
+            <button id="filterToggleBtn" style="background:var(--bg-card);color:var(--text);border:1px solid var(--border);border-radius:10px;padding:10px 14px;font-size:13px;cursor:pointer;">
+                ⚙️ Filters
+            </button>
+        </div>
+        <div class="filter-panel" id="filterPanel">
+            <div class="filter-group">
+                <div class="filter-group-label">Full Color</div>
+                <label class="filter-option"><input type="checkbox" id="filterFullColor"> Full Color Only</label>
+            </div>
+            <div class="filter-group">
+                <div class="filter-group-label">NTR</div>
+                <label class="filter-option"><input type="radio" name="ntrFilter" value="" checked> Any</label>
+                <label class="filter-option"><input type="radio" name="ntrFilter" value="yes"> NTR Yes</label>
+                <label class="filter-option"><input type="radio" name="ntrFilter" value="no"> NTR No</label>
+            </div>
+        </div>
         <div class="works-grid" id="worksGrid"></div>
+        <div class="no-results" id="noResults" style="display:none;">No comics match your search or filters.</div>
         <div class="pagination" id="pagination"></div>
+        {% include follow_us.html %}
         <div class="footer">
-            <p>✨ Arc Comic — Part of <a href="https://t.me/ArcComic" style="color:var(--accent)">@ArcComic</a></p>
             <p style="margin-top:8px">Daily updates</p>
         </div>
     </div>
@@ -174,11 +226,55 @@ layout: default
                 rating: "{{ post.rating }}",
                 date: "{{ post.date }}",
                 tags: {{ post.tags | jsonify }},
+                fullColor: {{ post.full_color | default: false }},
+                ntr: {{ post.ntr | default: false }},
                 url: "{{ post.url }}"
             }{% unless forloop.last %},{% endunless %}
             {% endfor %}
         ];
-        const POSTS_PER_PAGE = 15;
+        const POSTS_PER_PAGE = {{ site.paginate | default: 15 }};
+        let currentSearch = "";
+
+        function applySearch(list) {
+            if (!currentSearch) return list;
+            const q = currentSearch.toLowerCase();
+            return list.filter(w =>
+                w.title.toLowerCase().includes(q) ||
+                w.author.toLowerCase().includes(q) ||
+                (w.tags || []).some(t => t.toLowerCase().includes(q))
+            );
+        }
+
+        function applyFilters(list) {
+            const fullColorOnly = document.getElementById('filterFullColor').checked;
+            const ntrValue = document.querySelector('input[name="ntrFilter"]:checked').value;
+            return list.filter(w => {
+                if (fullColorOnly && !w.fullColor) return false;
+                if (ntrValue === 'yes' && !w.ntr) return false;
+                if (ntrValue === 'no' && w.ntr) return false;
+                return true;
+            });
+        }
+
+        function applySort(list, mode) {
+            const sorted = [...list];
+            switch (mode) {
+                case 'recent':
+                    return sorted.sort((a,b) => new Date(b.date) - new Date(a.date));
+                case 'oldest':
+                    return sorted.sort((a,b) => new Date(a.date) - new Date(b.date));
+                case 'popular_today':
+                case 'popular_weekly':
+                case 'popular_monthly':
+                case 'popular_yearly':
+                    // Rating is the best available popularity proxy until
+                    // a real view-window metric is tracked server-side.
+                    return sorted.sort((a,b) => parseFloat(b.rating) - parseFloat(a.rating));
+                default:
+                    return sorted; // Default: whatever order the collection provides
+            }
+        }
+
         function renderPopular() {
             const popular = [...works].sort((a,b) => parseFloat(b.rating) - parseFloat(a.rating)).slice(0,4);
             document.getElementById('popularGrid').innerHTML = popular.map(w => `
@@ -188,17 +284,34 @@ layout: default
                 </a>
             `).join('');
         }
+
         function renderWorks(page = 1) {
-            const sorted = [...works].sort((a,b) => new Date(b.date) - new Date(a.date));
+            const sortMode = document.getElementById('sortSelect').value;
+            let list = applySearch(works);
+            list = applyFilters(list);
+            // Filters section defaults to Most Recent when no explicit sort chosen
+            const effectiveSort = sortMode || (isFilterPanelOpen() ? 'recent' : '');
+            list = applySort(list, effectiveSort);
+
+            const noResults = document.getElementById('noResults');
+            const grid = document.getElementById('worksGrid');
+            if (list.length === 0) {
+                grid.innerHTML = '';
+                noResults.style.display = 'block';
+                document.getElementById('pagination').innerHTML = '';
+                return;
+            }
+            noResults.style.display = 'none';
+
             const start = (page - 1) * POSTS_PER_PAGE;
-            const pageWorks = sorted.slice(start, start + POSTS_PER_PAGE);
-            document.getElementById('worksGrid').innerHTML = pageWorks.map(w => `
+            const pageWorks = list.slice(start, start + POSTS_PER_PAGE);
+            grid.innerHTML = pageWorks.map(w => `
                 <a href="${w.url}" class="work-card">
                     <div class="cover"><img src="${w.cover}" alt="${w.title}"></div>
                     <div class="info"><h3>${w.title}</h3><div class="meta">${w.author} • ⭐ ${w.rating}</div></div>
                 </a>
             `).join('');
-            const total = Math.ceil(sorted.length / POSTS_PER_PAGE);
+            const total = Math.ceil(list.length / POSTS_PER_PAGE);
             let html = '';
             for(let i = 1; i <= total; i++) {
                 if(i === page) html += `<span>${i}</span>`;
@@ -206,6 +319,30 @@ layout: default
             }
             document.getElementById('pagination').innerHTML = html;
         }
+
+        function isFilterPanelOpen() {
+            return document.getElementById('filterPanel').classList.contains('open');
+        }
+
+        document.getElementById('sortSelect').addEventListener('change', () => renderWorks(1));
+        document.getElementById('filterToggleBtn').addEventListener('click', () => {
+            document.getElementById('filterPanel').classList.toggle('open');
+            renderWorks(1);
+        });
+        document.getElementById('filterFullColor').addEventListener('change', () => renderWorks(1));
+        document.querySelectorAll('input[name="ntrFilter"]').forEach(el => {
+            el.addEventListener('change', () => renderWorks(1));
+        });
+
+        function runSearch() {
+            currentSearch = document.getElementById('searchInput').value.trim();
+            renderWorks(1);
+        }
+        document.getElementById('searchBtn').addEventListener('click', runSearch);
+        document.getElementById('searchInput').addEventListener('keydown', (e) => {
+            if (e.key === 'Enter') runSearch();
+        });
+
         renderPopular();
         renderWorks(1);
     </script>

@@ -1,189 +1,206 @@
+<!-- arc-comic-layout-version: 3 -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{{ page.title }} | Arc Comic</title>
-    <meta name="description" content="{{ page.title }} by {{ page.author }}">
-    <link rel="canonical" href="{{ site.url }}{{ page.url }}">
+    <title>{{ page.title }} - Arc Comic</title>
+    <meta name="description" content="{{ page.title }} by {{ page.author }} - Arc Comic">
+    <script async src="https://ss.mrmnd.com/banner.js"></script>
     <style>
         :root {
             --bg: #0f0f13; --bg-card: #1a1a24; --bg-elevated: #222230;
             --accent: #f59e0b; --text: #e2e2e8; --text-muted: #8888a0;
-            --border: #2a2a3a; --tag-bg: #2d2d40; --tag-text: #b8b8d0;
-            --rating-star: #fbbf24; --telegram: #0088cc;
+            --border: #2a2a3a;
         }
         * { margin: 0; padding: 0; box-sizing: border-box; }
         body {
             font-family: 'Segoe UI', system-ui, sans-serif;
-            background: var(--bg); color: var(--text);
-            min-height: 100vh; line-height: 1.6;
+            background: var(--bg); color: var(--text); min-height: 100vh;
         }
-        .container { max-width: 720px; margin: 0 auto; padding: 24px; }
-        .header {
-            text-align: center; padding-bottom: 20px;
-            border-bottom: 1px solid var(--border); margin-bottom: 24px;
+        .container { max-width: 900px; margin: 0 auto; padding: 24px; }
+        .logo-link { display: inline-flex; align-items: center; gap: 8px; text-decoration: none;
+            color: var(--accent); font-weight: 800; font-size: 18px; margin-bottom: 16px; }
+        .back-link {
+            display: inline-block; color: var(--text-muted); text-decoration: none;
+            font-size: 14px; margin-bottom: 20px;
         }
-        .header h1 {
-            font-size: 28px; font-weight: 800;
-            background: linear-gradient(135deg, var(--accent), #f97316);
-            -webkit-background-clip: text; -webkit-text-fill-color: transparent;
+        .meta-row { display: flex; align-items: center; gap: 14px; color: var(--text-muted);
+            font-size: 13px; margin-bottom: 12px; }
+        .cover {
+            width: 100%; max-width: 400px; border-radius: 12px; display: block;
+            margin: 0 auto 24px; border: 1px solid var(--border);
         }
-        .header p { color: var(--text-muted); font-size: 14px; margin-top: 5px; }
-        .breadcrumb {
-            display: flex; align-items: center; gap: 8px;
-            margin-bottom: 16px; font-size: 13px; color: var(--text-muted);
+        h1 { font-size: 26px; font-weight: 800; margin-bottom: 20px; line-height: 1.3; }
+        .info-grid {
+            display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin-bottom: 24px;
         }
-        .breadcrumb a { color: var(--accent); text-decoration: none; }
-        .post-card {
-            background: var(--bg-card); border-radius: 16px;
-            border: 1px solid var(--border); overflow: hidden;
-            box-shadow: 0 4px 24px rgba(0,0,0,0.4);
+        .info-box {
+            background: var(--bg-card); border: 1px solid var(--border);
+            border-radius: 10px; padding: 14px;
         }
-        .cover-wrap {
-            position: relative; width: 100%; padding-top: 140%;
-            background: linear-gradient(180deg, var(--bg-elevated) 0%, var(--bg-card) 100%);
-            overflow: hidden;
+        .info-label {
+            color: var(--text-muted); font-size: 11px; text-transform: uppercase;
+            letter-spacing: 0.5px; margin-bottom: 4px;
         }
-        .cover-wrap img {
-            position: absolute; top: 0; left: 0;
-            width: 100%; height: 100%; object-fit: cover;
-        }
-        .rating-badge {
-            position: absolute; top: 12px; right: 12px;
-            background: rgba(0,0,0,0.75); backdrop-filter: blur(8px);
-            padding: 6px 12px; border-radius: 20px;
-            font-size: 14px; font-weight: 700; color: var(--rating-star);
-            display: flex; align-items: center; gap: 4px;
-            border: 1px solid rgba(251,191,36,0.3);
-        }
-        .content { padding: 24px; }
-        .post-date {
-            display: flex; align-items: center; gap: 6px;
-            color: var(--text-muted); font-size: 12px; margin-bottom: 12px;
-        }
-        .title { font-size: 24px; font-weight: 700; margin-bottom: 16px; color: #fff; }
-        .meta-grid {
-            display: grid; grid-template-columns: repeat(2, 1fr);
-            gap: 12px; margin-bottom: 20px;
-        }
-        .meta-item {
-            display: flex; align-items: center; gap: 10px;
-            padding: 10px 14px; background: var(--bg-elevated);
-            border-radius: 10px; font-size: 13px;
-        }
-        .meta-icon {
-            width: 28px; height: 28px; display: flex;
-            align-items: center; justify-content: center;
-            border-radius: 8px; font-size: 14px;
-        }
-        .meta-label { color: var(--text-muted); font-size: 11px; text-transform: uppercase; }
-        .meta-value { font-weight: 600; }
-        .tags { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 20px; }
+        .info-value { font-size: 16px; font-weight: 700; }
+        .tags { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 24px; }
         .tag {
-            padding: 6px 14px; background: var(--tag-bg); color: var(--tag-text);
-            border-radius: 20px; font-size: 12px; font-weight: 500;
-            border: 1px solid var(--border);
+            background: var(--bg-elevated); color: var(--text-muted);
+            padding: 6px 14px; border-radius: 20px; font-size: 13px;
+            text-decoration: none; border: 1px solid var(--border);
         }
-        .telegram-btn {
-            display: flex; align-items: center; justify-content: center;
-            gap: 10px; width: 100%; padding: 16px;
-            background: linear-gradient(135deg, var(--telegram), #006699);
-            color: #fff; border: none; border-radius: 12px;
-            font-size: 16px; font-weight: 700;
-            text-decoration: none; box-shadow: 0 4px 20px rgba(0,136,204,0.3);
+        .tag:hover { border-color: var(--accent); color: var(--accent); }
+        .ad-slot {
+            margin: 24px 0; display: flex; justify-content: center; min-height: 250px;
+            align-items: center; background: var(--bg-card); border-radius: 12px;
+            border: 1px dashed var(--border);
         }
-        .footer {
-            text-align: center; margin-top: 20px; padding-top: 20px;
-            border-top: 1px solid var(--border);
-            color: var(--text-muted); font-size: 12px;
+        .read-btn {
+            display: flex; align-items: center; justify-content: center; gap: 10px;
+            text-align: center; background: var(--accent);
+            color: #000; font-weight: 700; padding: 16px; border-radius: 12px;
+            text-decoration: none; font-size: 16px; border: none; width: 100%;
+            cursor: pointer; transition: background 0.15s, color 0.15s;
         }
-        .footer a { color: var(--accent); text-decoration: none; }
+        .read-btn:hover, .read-btn:active { background: #000; color: #fff; }
+        .read-btn svg { width: 20px; height: 20px; fill: currentColor; flex-shrink: 0; }
+        .similar-section { margin-top: 40px; }
+        .similar-title {
+            font-size: 18px; font-weight: 800; margin-bottom: 16px;
+            display: flex; align-items: center; gap: 8px;
+        }
+        .similar-grid {
+            display: grid; grid-template-columns: repeat(2, 1fr); gap: 14px;
+        }
+        .similar-card {
+            background: var(--bg-card); border: 1px solid var(--border);
+            border-radius: 12px; overflow: hidden; text-decoration: none; color: var(--text);
+        }
+        .similar-cover { width: 100%; aspect-ratio: 3/4; object-fit: cover; display: block;
+            background: var(--bg-elevated); }
+        .similar-info { padding: 10px; }
+        .similar-info-title { font-size: 13px; font-weight: 700; line-height: 1.3;
+            display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+        .similar-ad-card {
+            background: var(--bg-card); border: 1px dashed var(--border); border-radius: 12px;
+            display: flex; align-items: center; justify-content: center; min-height: 180px;
+            color: var(--text-muted); font-size: 11px; text-transform: uppercase; letter-spacing: 1px;
+        }
     </style>
 </head>
 <body>
     <div class="container">
-        <div class="header">
-            <h1>✨ Arc Comic</h1>
-            <p>Art & Story — Curated Manga & Doujinshi Gallery</p>
+        <a href="/" class="logo-link">✨ Arc Comic</a>
+        <br>
+        <a href="/" class="back-link">← Back to Arc Comic</a>
+
+        <img src="{{ page.cover }}" alt="{{ page.title }}" class="cover">
+
+        <div class="meta-row">
+            <span id="viewCount">👁 -- views</span>
         </div>
-        <div class="breadcrumb">
-            <a href="/">Home</a>
-            <span>›</span>
-            <a href="/">{{ page.categories | first | capitalize }}</a>
-            <span>›</span>
-            <span style="color:var(--text)">{{ page.title }}</span>
-        </div>
-        <article class="post-card">
-            <div class="cover-wrap">
-                <img src="{{ page.cover }}" alt="{{ page.title }} - Cover">
-                <div class="rating-badge">★ {{ page.rating }}</div>
+
+        <h1>{{ page.title }}</h1>
+
+        <div class="info-grid">
+            <div class="info-box">
+                <div class="info-label">Author</div>
+                <div class="info-value">{{ page.author }}</div>
             </div>
-            <div class="content">
-                <div class="post-date">
-                    📅 {{ page.date | date: "%B %d, %Y" }} &nbsp;|&nbsp; 👁️ {{ page.views }} views
-                </div>
-                <h2 class="title">{{ page.title }}</h2>
-                <div class="meta-grid">
-                    <div class="meta-item">
-                        <div class="meta-icon" style="background:rgba(139,92,246,0.15)">✨</div>
-                        <div>
-                            <div class="meta-label">Author</div>
-                            <div class="meta-value">{{ page.author }}</div>
-                        </div>
-                    </div>
-                    <div class="meta-item">
-                        <div class="meta-icon" style="background:rgba(245,158,11,0.15)">🌟</div>
-                        <div>
-                            <div class="meta-label">Code</div>
-                            <div class="meta-value">{{ page.code }}</div>
-                        </div>
-                    </div>
-                    <div class="meta-item">
-                        <div class="meta-icon" style="background:rgba(34,197,94,0.15)">⚡</div>
-                        <div>
-                            <div class="meta-label">Category</div>
-                            <div class="meta-value">{{ page.categories | first | capitalize }}</div>
-                        </div>
-                    </div>
-                    <div class="meta-item">
-                        <div class="meta-icon" style="background:rgba(6,182,212,0.15)">🌐</div>
-                        <div>
-                            <div class="meta-label">Language</div>
-                            <div class="meta-value">{{ page.language | capitalize }}</div>
-                        </div>
-                    </div>
-                    <div class="meta-item">
-                        <div class="meta-icon" style="background:rgba(236,72,153,0.15)">🎨</div>
-                        <div>
-                            <div class="meta-label">Full Color</div>
-                            <div class="meta-value">{{ page.full_color | capitalize }}</div>
-                        </div>
-                    </div>
-                    <div class="meta-item">
-                        <div class="meta-icon" style="background:rgba(239,68,68,0.15)">🌙</div>
-                        <div>
-                            <div class="meta-label">Cheating</div>
-                            <div class="meta-value">{{ page.cheating | capitalize }}</div>
-                        </div>
-                    </div>
-                </div>
-                <div class="tags">
-                    {% for tag in page.tags %}
-                    <span class="tag">💥 {{ tag }}</span>
-                    {% endfor %}
-                </div>
-                <a href="{{ page.telegram_post }}" class="telegram-btn" target="_blank">
-                    <svg width="22" height="22" viewBox="0 0 24 24" fill="currentColor">
-                        <path d="M9.78 18.65l.28-4.23 7.68-6.92c.34-.31-.07-.46-.52-.19L7.74 13.3 3.64 12c-.88-.25-.89-.86.2-1.3l15.97-6.16c.73-.33 1.43.18 1.15 1.3l-2.72 12.81c-.19.91-.74 1.13-1.5.71L12.6 16.3l-1.99 1.93c-.23.23-.42.42-.83.42z"/>
-                    </svg>
-                    Read on Telegram
-                </a>
+            <div class="info-box">
+                <div class="info-label">Code</div>
+                <div class="info-value">{{ page.code }}</div>
             </div>
-        </article>
-        <div class="footer">
-            <p>Part of <a href="https://t.me/ArcComic">@ArcComic</a></p>
+            <div class="info-box">
+                <div class="info-label">Category</div>
+                <div class="info-value">{{ page.categories | join: ", " | capitalize }}</div>
+            </div>
+            <div class="info-box">
+                <div class="info-label">Language</div>
+                <div class="info-value">{{ page.language | capitalize }}</div>
+            </div>
+            <div class="info-box">
+                <div class="info-label">Full Color</div>
+                <div class="info-value">{% if page.full_color %}Yes{% else %}No{% endif %}</div>
+            </div>
+            <div class="info-box">
+                <div class="info-label">NTR</div>
+                <div class="info-value">{% if page.ntr %}Yes{% else %}No{% endif %}</div>
+            </div>
         </div>
+
+        <div class="tags">
+            {% for tag in page.tags %}
+            <a href="/tags/{{ tag | slugify }}/" class="tag">{{ tag }}</a>
+            {% endfor %}
+        </div>
+
+        <div class="ad-slot" data-mndbanid="6682c345-631e-456b-82ef-cc3bd9dbb29a"></div>
+
+        <a href="{{ page.telegram_post }}" class="read-btn" target="_blank" id="readBtn">
+            <svg viewBox="0 0 24 24"><path d="M21.94 4.2a1.5 1.5 0 00-1.53-.24L2.7 10.9a1.4 1.4 0 00.1 2.63l4.55 1.42 1.75 5.6a1.4 1.4 0 002.3.57l2.6-2.36 4.68 3.46a1.4 1.4 0 002.23-.85l3.05-15.1a1.5 1.5 0 00-.02-.07zM8.5 14.3l9.3-6.9c.2-.15.4.1.24.28l-7.6 7.4-.3 3.2-1.64-3.98z"/></svg>
+            Read Now
+        </a>
+
+        {% assign this_tags = page.tags %}
+        {% assign series_key = page.title | replace: "  ", " " %}
+        {% assign candidates = "" | split: "" %}
+        {% for work in site.works %}
+            {% if work.code != page.code %}
+                {% assign overlap = 0 %}
+                {% for t in work.tags %}
+                    {% if this_tags contains t %}{% assign overlap = overlap | plus: 1 %}{% endif %}
+                {% endfor %}
+                {% if overlap > 0 %}
+                    {% assign candidates = candidates | push: work %}
+                {% endif %}
+            {% endif %}
+        {% endfor %}
+
+        <div class="similar-section">
+            <div class="similar-title">📖 Similar Comics</div>
+            <div class="similar-grid">
+                {% assign shown_count = 0 %}
+                {% assign shown_series = "" | split: "," %}
+                {% for work in candidates limit: 20 %}
+                    {% if shown_count >= 4 %}{% break %}{% endif %}
+                    {% assign base_title = work.title | split: " " | first %}
+                    {% unless shown_series contains base_title %}
+                        {% assign shown_series = shown_series | push: base_title %}
+                        {% assign shown_count = shown_count | plus: 1 %}
+                        <a href="/works/{{ work.code }}/" class="similar-card">
+                            <img src="{{ work.cover }}" alt="{{ work.title }}" class="similar-cover">
+                            <div class="similar-info">
+                                <div class="similar-info-title">{{ work.title }}</div>
+                            </div>
+                        </a>
+                        {% if shown_count == 2 %}
+                        <div class="similar-ad-card" data-mndbanid="6682c345-631e-456b-82ef-cc3bd9dbb29a">Ad</div>
+                        {% endif %}
+                    {% endunless %}
+                {% endfor %}
+            </div>
+        </div>
+
+        {% include follow_us.html %}
     </div>
+
+    <script>
+        // View counter via CountAPI (free, no signup, no server needed).
+        // Namespace scoped to this site's domain so counts don't collide
+        // with other sites using the same free service.
+        (function() {
+            var code = "{{ page.code }}";
+            fetch("https://api.countapi.xyz/hit/arccomic-github-io/" + code)
+                .then(function(r) { return r.json(); })
+                .then(function(data) {
+                    document.getElementById("viewCount").textContent = "👁 " + data.value + " views";
+                })
+                .catch(function() {
+                    document.getElementById("viewCount").textContent = "";
+                });
+        })();
+    </script>
 </body>
 </html>

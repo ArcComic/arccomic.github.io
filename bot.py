@@ -9,6 +9,7 @@ import sys
 import json
 import re
 import time
+import atexit
 import subprocess
 import threading
 import requests
@@ -379,10 +380,14 @@ POST_LAYOUT_TEMPLATE = f"""<!-- arc-comic-layout-version: {POST_LAYOUT_VERSION} 
 
 def ensure_post_layout():
     """
-    Writes/upgrades _layouts/post.html automatically. Only overwrites the
-    file if it's missing or is an older version stamped by this same bot
-    (tracked via the HTML comment on line 1) — never touches a file with
-    no version marker, since that means a human hand-edited it.
+    Writes/upgrades _layouts/post.html automatically. The bot fully owns
+    this file — it always keeps it at the latest version. (An earlier
+    version of this function tried to detect "hand-edited" files by
+    checking for a version marker and skipping files without one, but
+    that incorrectly treated every file written before the marker system
+    existed as permanently off-limits, silently blocking all future
+    upgrades. Since this file is never meant to be hand-edited, the bot
+    now simply always keeps it current.)
     Returns True if it wrote/changed the file.
     """
     os.makedirs(os.path.dirname(POST_LAYOUT_PATH), exist_ok=True)
@@ -391,10 +396,7 @@ def ensure_post_layout():
         with open(POST_LAYOUT_PATH, 'r', encoding='utf-8') as f:
             first_line = f.readline()
         match = re.search(r"arc-comic-layout-version:\s*(\d+)", first_line)
-        if not match:
-            print("ℹ️ _layouts/post.html has no version marker (manually edited?) — leaving it untouched")
-            return False
-        current_version = int(match.group(1))
+        current_version = int(match.group(1)) if match else 0
         if current_version >= POST_LAYOUT_VERSION:
             return False  # already up to date
 
@@ -435,8 +437,9 @@ def ensure_follow_us_include():
     for more" block can appear on every page from one shared source, and
     stays in sync with whatever links are set in the dashboard (stored in
     _data/social_links.json, which Jekyll makes available as site.data
-    automatically). Same version-marker safety as the post layout: never
-    overwrites a hand-edited file.
+    automatically). The bot fully owns this file and always keeps it
+    current — see ensure_post_layout() for why "protect unmarked files"
+    was removed.
     """
     os.makedirs(os.path.dirname(FOLLOW_US_INCLUDE_PATH), exist_ok=True)
 
@@ -444,9 +447,8 @@ def ensure_follow_us_include():
         with open(FOLLOW_US_INCLUDE_PATH, 'r', encoding='utf-8') as f:
             first_line = f.readline()
         match = re.search(r"arc-comic-include-version:\s*(\d+)", first_line)
-        if not match:
-            return False
-        if int(match.group(1)) >= FOLLOW_US_VERSION:
+        current_version = int(match.group(1)) if match else 0
+        if current_version >= FOLLOW_US_VERSION:
             return False
 
     icons_json = json.dumps(SOCIAL_ICONS)
@@ -892,21 +894,19 @@ layout: default
 
 def ensure_index_html():
     """
-    Self-healing homepage. Only overwrites if missing or an older version
-    stamped by this bot (same safety pattern as the other templates) —
-    never touches a hand-edited file. Adds: favicon link, clickable logo,
-    "Latest Upload" naming, sort/filter toolbar, NTR/full-color-aware
-    filtering, working search with a real search button, and the shared
-    Follow Us include.
+    Self-healing homepage. The bot fully owns this file and always keeps
+    it current — see ensure_post_layout() for why "protect unmarked
+    files" was removed. This matters especially here: index.html was
+    originally created once by setup.sh before any version-marker system
+    existed, so the old "no marker = don't touch" logic was permanently
+    blocking every homepage upgrade from ever taking effect.
     """
     if os.path.exists(INDEX_HTML_PATH):
         with open(INDEX_HTML_PATH, 'r', encoding='utf-8') as f:
             content = f.read()
         match = re.search(r"arc-comic-index-version:\s*(\d+)", content)
-        if not match:
-            print("ℹ️ index.html has no version marker (manually edited?) — leaving it untouched")
-            return False
-        if int(match.group(1)) >= INDEX_HTML_VERSION:
+        current_version = int(match.group(1)) if match else 0
+        if current_version >= INDEX_HTML_VERSION:
             return False
 
     with open(INDEX_HTML_PATH, 'w', encoding='utf-8') as f:
@@ -2072,7 +2072,50 @@ def run_dashboard():
     print("🌐 Dashboard running at http://localhost:6767")
     app.run(host="0.0.0.0", port=6767, debug=False)
 
+PID_FILE = os.path.join(SECRETS_DIR, "bot.pid")
+
+def check_and_claim_single_instance():
+    """
+    Prevents two bot.py processes from running at once. This matters
+    because start7424/stop7424 (defined outside this file, in Termux's
+    shell setup) don't always reliably kill a previous process before
+    starting a new one — if that happens, one instance keeps running old
+    code/state while the new one starts fresh, and it becomes unclear
+    which one's writes actually take effect. If a live process from a
+    previous run is still active, this refuses to start a second one.
+    """
+    if os.path.exists(PID_FILE):
+        with open(PID_FILE, 'r') as f:
+            old_pid_str = f.read().strip()
+        if old_pid_str.isdigit():
+            old_pid = int(old_pid_str)
+            try:
+                os.kill(old_pid, 0)  # signal 0: just checks if process exists
+                print(f"❌ Another bot.py instance is already running (PID {old_pid}).")
+                print(f"   Run 'kill {old_pid}' or use stop7424, then try again.")
+                sys.exit(1)
+            except ProcessLookupError:
+                pass  # stale PID file, old process is dead — safe to continue
+            except PermissionError:
+                print(f"❌ Another bot.py instance appears to be running (PID {old_pid}).")
+                sys.exit(1)
+
+    with open(PID_FILE, 'w') as f:
+        f.write(str(os.getpid()))
+
+    def _cleanup_pid_file():
+        try:
+            if os.path.exists(PID_FILE):
+                with open(PID_FILE, 'r') as f:
+                    if f.read().strip() == str(os.getpid()):
+                        os.remove(PID_FILE)
+        except Exception:
+            pass
+    atexit.register(_cleanup_pid_file)
+
 if __name__ == "__main__":
+    check_and_claim_single_instance()
+
     # Self-heal _config.yml, _layouts/post.html, _includes/follow_us.html,
     # favicon.svg, and index.html before anything else starts, so the
     # whole site always builds correctly without requiring any manual
