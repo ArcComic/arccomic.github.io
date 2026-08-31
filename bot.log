@@ -1,0 +1,24 @@
+🔧 _config.yml updated: added 'works'/'tags' collections so pages build correctly
+🔧 _layouts/post.html updated to v4 (clean layout, no emoji tags, proper Yes/No labels)
+🔧 index.html updated to v3 (favicon, sort/filter toolbar, Latest Upload, working search)
+🔧 _layouts/tag.html updated to v1
+🔧 Regenerated 16 tag pages
+✅ Pushed work #config
+🌐 Dashboard running at http://localhost:6767
+🤖 Starting Telegram bot...
+ * Serving Flask app 'bot'
+ * Debug mode: off
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:6767
+ * Running on http://192.168.0.200:6767
+[33mPress CTRL+C to quit[0m
+192.168.0.201 - - [01/Sep/2026 02:15:08] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+192.168.0.201 - - [01/Sep/2026 02:41:36] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+192.168.0.201 - - [01/Sep/2026 02:41:46] "GET /api/health HTTP/1.1" 200 -
+192.168.0.201 - - [01/Sep/2026 02:41:57] "GET /api/health HTTP/1.1" 200 -
+192.168.0.201 - - [01/Sep/2026 03:40:52] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+192.168.0.201 - - [01/Sep/2026 03:40:57] "GET / HTTP/1.1" 200 -
+192.168.0.201 - - [01/Sep/2026 03:40:57] "GET /api/social_links HTTP/1.1" 200 -
+192.168.0.201 - - [01/Sep/2026 03:41:08] "GET /api/health HTTP/1.1" 200 -
+192.168.0.201 - - [01/Sep/2026 03:41:12] "POST /api/push_now HTTP/1.1" 200 -
