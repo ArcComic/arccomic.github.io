@@ -24,8 +24,28 @@
       "google_pinged": false,
       "indexnow_pinged": false,
       "post_url": "https://arccomic.github.io/works/676326/"
+    },
+    {
+      "code": "?",
+      "title": "(unparsed post)",
+      "success": false,
+      "time": "2026-08-31 11:21:19",
+      "error": "Could not find a Code field in the post",
+      "google_pinged": false,
+      "indexnow_pinged": false,
+      "post_url": null
+    },
+    {
+      "code": "?",
+      "title": "(unparsed post)",
+      "success": false,
+      "time": "2026-08-31 11:21:19",
+      "error": "Could not find a Code field in the post",
+      "google_pinged": false,
+      "indexnow_pinged": false,
+      "post_url": null
     }
   ],
-  "last_error": "Git push failed",
-  "last_error_time": "2026-08-31 03:21:16"
+  "last_error": "Could not find a Code field in the post",
+  "last_error_time": "2026-08-31 11:21:19"
 }

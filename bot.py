@@ -303,6 +303,7 @@ def ensure_origin_remote(cfg):
     return True
 
 def git_push(cfg, code, title):
+    """Returns (success: bool, error_detail: str|None)."""
     try:
         os.chdir(WORK_DIR)
         subprocess.run(["git", "add", "."], check=True, capture_output=True)
@@ -310,13 +311,19 @@ def git_push(cfg, code, title):
                       check=False, capture_output=True)
 
         if not ensure_origin_remote(cfg):
-            print("⚠️ No GitHub token configured, skipping push")
-            return False
+            msg = "No GitHub token configured"
+            print(f"⚠️ {msg}")
+            return False, msg
 
         # Pull first so a diverged remote (e.g. edits made on github.com,
         # or a previous manual push) doesn't cause a rejected push.
+        # --no-rebase makes the merge strategy explicit so this never
+        # depends on the phone's global git config (pull.rebase) being
+        # set — an unset config causes git to refuse to pull at all on
+        # divergent branches, with no clean recovery, which was the root
+        # cause of every push silently failing after any manual git action.
         pull_result = subprocess.run(
-            ["git", "pull", "origin", "main", "--no-edit"],
+            ["git", "pull", "--no-rebase", "--no-edit", "origin", "main"],
             check=False, capture_output=True, text=True
         )
         if pull_result.returncode != 0:
@@ -328,12 +335,14 @@ def git_push(cfg, code, title):
         )
         if push_result.returncode == 0:
             print(f"✅ Pushed work #{code}")
-            return True
+            return True, None
         else:
-            print(f"❌ Git push failed: {push_result.stderr.strip()}")
+            err = push_result.stderr.strip()
+            print(f"❌ Git push failed: {err}")
+            return False, f"Git push failed: {err[:200]}"
     except Exception as e:
         print(f"❌ Git push error: {e}")
-    return False
+        return False, str(e)
 
 # ============== TELEGRAM MESSAGE PARSING ==============
 def normalize_text(text):
@@ -430,7 +439,7 @@ async def handle_channel_post(update: Update, context: ContextTypes.DEFAULT_TYPE
         with open(md_path, 'w', encoding='utf-8') as f:
             f.write(md_content)
 
-        pushed = git_push(cfg, code, title)
+        pushed, push_error = git_push(cfg, code, title)
         google_pinged = False
         indexnow_pinged = False
         if pushed:
@@ -444,8 +453,7 @@ async def handle_channel_post(update: Update, context: ContextTypes.DEFAULT_TYPE
         cfg["last_message_id"] = msg.message_id
         save_config(cfg)
 
-        record_post(code, title, success=pushed,
-                     error=None if pushed else "Git push failed",
+        record_post(code, title, success=pushed, error=push_error,
                      google_pinged=google_pinged, indexnow_pinged=indexnow_pinged,
                      post_url=post_url)
         print(f"✅ Done: {title} (Code: {code})")
@@ -914,7 +922,7 @@ def api_delete_post():
         subprocess.run(["git", "commit", "-m", f"Remove work #{code}"],
                        check=False, capture_output=True)
         if ensure_origin_remote(cfg):
-            subprocess.run(["git", "pull", "origin", "main", "--no-edit"],
+            subprocess.run(["git", "pull", "--no-rebase", "--no-edit", "origin", "main"],
                            check=False, capture_output=True)
             subprocess.run(["git", "push", "-u", "origin", "main"],
                            check=False, capture_output=True)
