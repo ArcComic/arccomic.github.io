@@ -1,0 +1,11 @@
+📦 Installing PyYAML (needed to auto-configure _config.yml)...
+🔧 _config.yml updated: added 'works' collection so posts build into real pages
+✅ Pushed work #config
+🌐 Dashboard running at http://localhost:6767
+ * Serving Flask app 'bot'
+ * Debug mode: off
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:6767
+ * Running on http://192.168.0.200:6767
+[33mPress CTRL+C to quit[0m
