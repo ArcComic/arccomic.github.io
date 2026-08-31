@@ -1,5 +1,5 @@
 {
-  "total_posts": 0,
+  "total_posts": 1,
   "posts": [
     {
       "code": "676326",
@@ -44,6 +44,16 @@
       "google_pinged": false,
       "indexnow_pinged": false,
       "post_url": null
+    },
+    {
+      "code": "676326",
+      "title": "Yurishita",
+      "success": true,
+      "time": "2026-08-31 11:24:04",
+      "error": null,
+      "google_pinged": false,
+      "indexnow_pinged": true,
+      "post_url": "https://arccomic.github.io/works/676326/"
     }
   ],
   "last_error": "Could not find a Code field in the post",

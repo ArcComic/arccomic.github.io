@@ -18,6 +18,14 @@ from telegram import Update
 from telegram.ext import Application, MessageHandler, filters, ContextTypes
 from flask import Flask, render_template_string, request, jsonify
 
+try:
+    import yaml
+except ImportError:
+    print("📦 Installing PyYAML (needed to auto-configure _config.yml)...")
+    subprocess.run([sys.executable, "-m", "pip", "install", "pyyaml",
+                    "--break-system-packages", "-q"], check=False)
+    import yaml
+
 # Paths
 WORK_DIR = "/storage/emulated/0/arccomic.github.io"
 CONFIG_FILE = os.path.join(WORK_DIR, "config.json")
@@ -94,6 +102,63 @@ def save_config(cfg):
     settings = {k: v for k, v in cfg.items() if k not in secrets}
     with open(CONFIG_FILE, 'w') as f:
         json.dump(settings, f, indent=2)
+
+# ============== JEKYLL CONFIG AUTO-FIX ==============
+CONFIG_YML_PATH = os.path.join(WORK_DIR, "_config.yml")
+
+def ensure_jekyll_works_collection():
+    """
+    Makes sure _config.yml has a 'works' collection configured. Without
+    this, files written to _works/*.md by generate_md() are never turned
+    into real pages by Jekyll — they just sit as raw markdown and every
+    post URL 404s. This runs automatically on every bot startup so it's
+    a one-time invisible fix, not something that has to be hand-edited
+    in a text editor on the phone.
+    Returns True if it changed the file (so caller can push the change).
+    """
+    if not os.path.exists(CONFIG_YML_PATH):
+        print("⚠️ _config.yml not found, skipping Jekyll auto-config")
+        return False
+
+    with open(CONFIG_YML_PATH, 'r', encoding='utf-8') as f:
+        raw = f.read()
+
+    try:
+        cfg = yaml.safe_load(raw) or {}
+    except yaml.YAMLError as e:
+        print(f"⚠️ Could not parse _config.yml, leaving it untouched: {e}")
+        return False
+
+    changed = False
+
+    # 1. Ensure the 'works' collection exists with correct output/permalink
+    collections = cfg.get("collections") or {}
+    works_cfg = collections.get("works") or {}
+    if works_cfg.get("output") is not True or works_cfg.get("permalink") != "/works/:path/":
+        collections["works"] = {"output": True, "permalink": "/works/:path/"}
+        cfg["collections"] = collections
+        changed = True
+
+    # 2. Ensure a default layout applies to the works collection
+    defaults = cfg.get("defaults") or []
+    has_works_default = any(
+        isinstance(d, dict) and d.get("scope", {}).get("type") == "works"
+        for d in defaults
+    )
+    if not has_works_default:
+        defaults.append({
+            "scope": {"path": "", "type": "works"},
+            "values": {"layout": "post"}
+        })
+        cfg["defaults"] = defaults
+        changed = True
+
+    if changed:
+        with open(CONFIG_YML_PATH, 'w', encoding='utf-8') as f:
+            yaml.dump(cfg, f, default_flow_style=False, sort_keys=False, allow_unicode=True)
+        print("🔧 _config.yml updated: added 'works' collection so posts build into real pages")
+
+    return changed
 
 # ============== GOOGLE SEO FUNCTIONS ==============
 def ping_google_sitemap(site_url):
@@ -976,6 +1041,15 @@ def run_dashboard():
     app.run(host="0.0.0.0", port=6767, debug=False)
 
 if __name__ == "__main__":
+    # Self-heal _config.yml before anything else starts, so posts always
+    # build into real pages without requiring any manual editing.
+    try:
+        if ensure_jekyll_works_collection():
+            cfg = load_config()
+            git_push(cfg, "config", "Auto-fix Jekyll works collection")
+    except Exception as e:
+        print(f"⚠️ Jekyll config auto-fix skipped: {e}")
+
     if len(sys.argv) > 1 and sys.argv[1] == "--bot-only":
         run_bot()
     else:

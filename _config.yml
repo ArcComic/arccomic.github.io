@@ -1,24 +1,28 @@
-title: "✨ Arc Comic"
-description: "Art & Story — Curated Manga & Doujinshi Gallery"
-baseurl: ""
-url: "https://arccomic.github.io"
-author: "Arc Comic Team"
-
-google_verification: ""
-
+title: ✨ Arc Comic
+description: Art & Story — Curated Manga & Doujinshi Gallery
+baseurl: ''
+url: https://arccomic.github.io
+author: Arc Comic Team
+google_verification: ''
 paginate: 15
-paginate_path: "/page/:num/"
-
+paginate_path: /page/:num/
 plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
-
+- jekyll-paginate
+- jekyll-sitemap
 defaults:
-  - scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
-
+- scope:
+    path: ''
+    type: posts
+  values:
+    layout: post
+- scope:
+    path: ''
+    type: works
+  values:
+    layout: post
 lang: en
 timezone: Asia/Dhaka
+collections:
+  works:
+    output: true
+    permalink: /works/:path/
