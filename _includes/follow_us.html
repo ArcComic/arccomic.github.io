@@ -1,0 +1,55 @@
+<!-- arc-comic-include-version: 1 -->
+<div class="follow-us-section">
+    <div class="follow-us-title">⚡ FOLLOW FOR MORE</div>
+    <div class="follow-us-list">
+        {% for link in site.data.social_links %}
+        <a href="{{ link.url }}" class="follow-us-item" target="_blank" rel="noopener">
+            <span class="follow-us-icon follow-us-icon-{{ link.icon }}"></span>
+            <span class="follow-us-text">
+                <span class="follow-us-label">{{ link.label }}</span>
+                <span class="follow-us-sublabel">{{ link.sublabel }}</span>
+            </span>
+            <span class="follow-us-arrow">↗</span>
+        </a>
+        {% endfor %}
+    </div>
+</div>
+<style>
+    .follow-us-section { max-width: 900px; margin: 40px auto; padding: 0 24px; }
+    .follow-us-title {
+        color: #8888a0; font-size: 12px; font-weight: 700; letter-spacing: 1px;
+        margin-bottom: 12px; border-bottom: 1px solid #2a2a3a; padding-bottom: 10px;
+    }
+    .follow-us-list { display: flex; flex-direction: column; gap: 10px; }
+    .follow-us-item {
+        display: flex; align-items: center; gap: 14px; background: #1a1a24;
+        border: 1px solid #2a2a3a; border-radius: 14px; padding: 14px 16px;
+        text-decoration: none; color: inherit; transition: border-color 0.15s;
+    }
+    .follow-us-item:hover { border-color: #f59e0b; }
+    .follow-us-icon {
+        width: 38px; height: 38px; border-radius: 10px; flex-shrink: 0;
+        display: flex; align-items: center; justify-content: center;
+        background: #f59e0b; color: #000;
+    }
+    .follow-us-icon svg { width: 20px; height: 20px; }
+    .follow-us-icon-telegram { background: #2AABEE; color: #fff; }
+    .follow-us-icon-youtube { background: #FF0000; color: #fff; }
+    .follow-us-icon-facebook { background: #1877F2; color: #fff; }
+    .follow-us-icon-twitter { background: #000; color: #fff; }
+    .follow-us-icon-website { background: #f59e0b; color: #000; }
+    .follow-us-text { flex: 1; min-width: 0; }
+    .follow-us-label { display: block; font-weight: 700; font-size: 15px; color: #e2e2e8; }
+    .follow-us-sublabel { display: block; font-size: 12px; color: #8888a0; margin-top: 2px; }
+    .follow-us-arrow { color: #666; font-size: 16px; }
+</style>
+<script>
+document.querySelectorAll('.follow-us-icon').forEach(function(el) {
+    var icons = {"telegram": "<svg viewBox=\"0 0 24 24\" fill=\"currentColor\"><path d=\"M21.94 4.2a1.5 1.5 0 00-1.53-.24L2.7 10.9a1.4 1.4 0 00.1 2.63l4.55 1.42 1.75 5.6a1.4 1.4 0 002.3.57l2.6-2.36 4.68 3.46a1.4 1.4 0 002.23-.85l3.05-15.1a1.5 1.5 0 00-.02-.07zM8.5 14.3l9.3-6.9c.2-.15.4.1.24.28l-7.6 7.4-.3 3.2-1.64-3.98z\"/></svg>", "youtube": "<svg viewBox=\"0 0 24 24\" fill=\"currentColor\"><path d=\"M23.5 6.2a3 3 0 00-2.1-2.1C19.5 3.5 12 3.5 12 3.5s-7.5 0-9.4.6A3 3 0 00.5 6.2 31 31 0 000 12a31 31 0 00.5 5.8 3 3 0 002.1 2.1c1.9.6 9.4.6 9.4.6s7.5 0 9.4-.6a3 3 0 002.1-2.1A31 31 0 0024 12a31 31 0 00-.5-5.8zM9.6 15.6V8.4l6.3 3.6-6.3 3.6z\"/></svg>", "facebook": "<svg viewBox=\"0 0 24 24\" fill=\"currentColor\"><path d=\"M22 12a10 10 0 10-11.6 9.9v-7H7.9V12h2.5V9.8c0-2.5 1.5-3.9 3.8-3.9 1.1 0 2.2.2 2.2.2v2.5h-1.3c-1.2 0-1.6.8-1.6 1.6V12h2.8l-.4 2.9h-2.4v7A10 10 0 0022 12z\"/></svg>", "twitter": "<svg viewBox=\"0 0 24 24\" fill=\"currentColor\"><path d=\"M18.9 2H22l-7.2 8.3L23.3 22h-6.6l-5.2-6.8L5.6 22H2.4l7.7-8.8L1 2h6.8l4.7 6.2zm-1.2 18h1.7L7.4 4H5.6z\"/></svg>", "website": "<svg viewBox=\"0 0 24 24\" fill=\"currentColor\"><path d=\"M12 2a10 10 0 100 20 10 10 0 000-20zm7.9 9h-3.2c-.1-2.1-.6-4-1.3-5.4A8 8 0 0119.9 11zm-9-6.9c1 .8 2.2 3 2.4 6.9H9.6c.2-3.9 1.4-6.1 2.4-6.9zM9.6 13h4.8c-.2 3.9-1.4 6.1-2.4 6.9-1-.8-2.2-3-2.4-6.9zm-2 0c.1 2.1.6 4 1.3 5.4A8 8 0 014.1 13zm0-2A8 8 0 018.9 5.6c-.7 1.4-1.2 3.3-1.3 5.4zm7.9 8.4c.7-1.4 1.2-3.3 1.3-5.4h3.2a8 8 0 01-4.5 5.4z\"/></svg>"};
+    var cls = Array.from(el.classList).find(function(c) { return c.startsWith('follow-us-icon-'); });
+    if (cls) {
+        var key = cls.replace('follow-us-icon-', '');
+        if (icons[key]) el.innerHTML = icons[key];
+    }
+});
+</script>

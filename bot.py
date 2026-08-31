@@ -32,6 +32,12 @@ CONFIG_FILE = os.path.join(WORK_DIR, "config.json")
 COVERS_DIR = os.path.join(WORK_DIR, "covers")
 WORKS_DIR = os.path.join(WORK_DIR, "_works")
 STATS_FILE = os.path.join(WORK_DIR, "stats.json")
+SOCIAL_LINKS_FILE = os.path.join(WORK_DIR, "_data", "social_links.json")
+
+DEFAULT_SOCIAL_LINKS = [
+    {"platform": "telegram", "label": "Arc Comic", "sublabel": "Comics, art drops & story updates",
+     "url": "https://t.me/ArcComic", "icon": "telegram"}
+]
 
 # SECURITY: tokens live OUTSIDE the git repo folder entirely, in a sibling
 # directory. This makes it structurally impossible for `git add .` inside
@@ -160,18 +166,784 @@ def ensure_jekyll_works_collection():
 
     return changed
 
+POST_LAYOUT_PATH = os.path.join(WORK_DIR, "_layouts", "post.html")
+POST_LAYOUT_VERSION = 3  # bump when the template below changes materially
+
+POST_LAYOUT_TEMPLATE = f"""<!-- arc-comic-layout-version: {POST_LAYOUT_VERSION} -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{{{ page.title }}}} - Arc Comic</title>
+    <meta name="description" content="{{{{ page.title }}}} by {{{{ page.author }}}} - Arc Comic">
+    <script async src="https://ss.mrmnd.com/banner.js"></script>
+    <style>
+        :root {{
+            --bg: #0f0f13; --bg-card: #1a1a24; --bg-elevated: #222230;
+            --accent: #f59e0b; --text: #e2e2e8; --text-muted: #8888a0;
+            --border: #2a2a3a;
+        }}
+        * {{ margin: 0; padding: 0; box-sizing: border-box; }}
+        body {{
+            font-family: 'Segoe UI', system-ui, sans-serif;
+            background: var(--bg); color: var(--text); min-height: 100vh;
+        }}
+        .container {{ max-width: 900px; margin: 0 auto; padding: 24px; }}
+        .logo-link {{ display: inline-flex; align-items: center; gap: 8px; text-decoration: none;
+            color: var(--accent); font-weight: 800; font-size: 18px; margin-bottom: 16px; }}
+        .back-link {{
+            display: inline-block; color: var(--text-muted); text-decoration: none;
+            font-size: 14px; margin-bottom: 20px;
+        }}
+        .meta-row {{ display: flex; align-items: center; gap: 14px; color: var(--text-muted);
+            font-size: 13px; margin-bottom: 12px; }}
+        .cover {{
+            width: 100%; max-width: 400px; border-radius: 12px; display: block;
+            margin: 0 auto 24px; border: 1px solid var(--border);
+        }}
+        h1 {{ font-size: 26px; font-weight: 800; margin-bottom: 20px; line-height: 1.3; }}
+        .info-grid {{
+            display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin-bottom: 24px;
+        }}
+        .info-box {{
+            background: var(--bg-card); border: 1px solid var(--border);
+            border-radius: 10px; padding: 14px;
+        }}
+        .info-label {{
+            color: var(--text-muted); font-size: 11px; text-transform: uppercase;
+            letter-spacing: 0.5px; margin-bottom: 4px;
+        }}
+        .info-value {{ font-size: 16px; font-weight: 700; }}
+        .tags {{ display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 24px; }}
+        .tag {{
+            background: var(--bg-elevated); color: var(--text-muted);
+            padding: 6px 14px; border-radius: 20px; font-size: 13px;
+            text-decoration: none; border: 1px solid var(--border);
+        }}
+        .tag:hover {{ border-color: var(--accent); color: var(--accent); }}
+        .ad-slot {{
+            margin: 24px 0; display: flex; justify-content: center; min-height: 250px;
+            align-items: center; background: var(--bg-card); border-radius: 12px;
+            border: 1px dashed var(--border);
+        }}
+        .read-btn {{
+            display: flex; align-items: center; justify-content: center; gap: 10px;
+            text-align: center; background: var(--accent);
+            color: #000; font-weight: 700; padding: 16px; border-radius: 12px;
+            text-decoration: none; font-size: 16px; border: none; width: 100%;
+            cursor: pointer; transition: background 0.15s, color 0.15s;
+        }}
+        .read-btn:hover, .read-btn:active {{ background: #000; color: #fff; }}
+        .read-btn svg {{ width: 20px; height: 20px; fill: currentColor; flex-shrink: 0; }}
+        .similar-section {{ margin-top: 40px; }}
+        .similar-title {{
+            font-size: 18px; font-weight: 800; margin-bottom: 16px;
+            display: flex; align-items: center; gap: 8px;
+        }}
+        .similar-grid {{
+            display: grid; grid-template-columns: repeat(2, 1fr); gap: 14px;
+        }}
+        .similar-card {{
+            background: var(--bg-card); border: 1px solid var(--border);
+            border-radius: 12px; overflow: hidden; text-decoration: none; color: var(--text);
+        }}
+        .similar-cover {{ width: 100%; aspect-ratio: 3/4; object-fit: cover; display: block;
+            background: var(--bg-elevated); }}
+        .similar-info {{ padding: 10px; }}
+        .similar-info-title {{ font-size: 13px; font-weight: 700; line-height: 1.3;
+            display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }}
+        .similar-ad-card {{
+            background: var(--bg-card); border: 1px dashed var(--border); border-radius: 12px;
+            display: flex; align-items: center; justify-content: center; min-height: 180px;
+            color: var(--text-muted); font-size: 11px; text-transform: uppercase; letter-spacing: 1px;
+        }}
+    </style>
+</head>
+<body>
+    <div class="container">
+        <a href="/" class="logo-link">✨ Arc Comic</a>
+        <br>
+        <a href="/" class="back-link">← Back to Arc Comic</a>
+
+        <img src="{{{{ page.cover }}}}" alt="{{{{ page.title }}}}" class="cover">
+
+        <div class="meta-row">
+            <span id="viewCount">👁 -- views</span>
+        </div>
+
+        <h1>{{{{ page.title }}}}</h1>
+
+        <div class="info-grid">
+            <div class="info-box">
+                <div class="info-label">Author</div>
+                <div class="info-value">{{{{ page.author }}}}</div>
+            </div>
+            <div class="info-box">
+                <div class="info-label">Code</div>
+                <div class="info-value">{{{{ page.code }}}}</div>
+            </div>
+            <div class="info-box">
+                <div class="info-label">Category</div>
+                <div class="info-value">{{{{ page.categories | join: ", " | capitalize }}}}</div>
+            </div>
+            <div class="info-box">
+                <div class="info-label">Language</div>
+                <div class="info-value">{{{{ page.language | capitalize }}}}</div>
+            </div>
+            <div class="info-box">
+                <div class="info-label">Full Color</div>
+                <div class="info-value">{{% if page.full_color %}}Yes{{% else %}}No{{% endif %}}</div>
+            </div>
+            <div class="info-box">
+                <div class="info-label">NTR</div>
+                <div class="info-value">{{% if page.ntr %}}Yes{{% else %}}No{{% endif %}}</div>
+            </div>
+        </div>
+
+        <div class="tags">
+            {{% for tag in page.tags %}}
+            <a href="/tags/{{{{ tag | slugify }}}}/" class="tag">{{{{ tag }}}}</a>
+            {{% endfor %}}
+        </div>
+
+        <div class="ad-slot" data-mndbanid="6682c345-631e-456b-82ef-cc3bd9dbb29a"></div>
+
+        <a href="{{{{ page.telegram_post }}}}" class="read-btn" target="_blank" id="readBtn">
+            <svg viewBox="0 0 24 24"><path d="M21.94 4.2a1.5 1.5 0 00-1.53-.24L2.7 10.9a1.4 1.4 0 00.1 2.63l4.55 1.42 1.75 5.6a1.4 1.4 0 002.3.57l2.6-2.36 4.68 3.46a1.4 1.4 0 002.23-.85l3.05-15.1a1.5 1.5 0 00-.02-.07zM8.5 14.3l9.3-6.9c.2-.15.4.1.24.28l-7.6 7.4-.3 3.2-1.64-3.98z"/></svg>
+            Read Now
+        </a>
+
+        {{% assign this_tags = page.tags %}}
+        {{% assign series_key = page.title | replace: "  ", " " %}}
+        {{% assign candidates = "" | split: "" %}}
+        {{% for work in site.works %}}
+            {{% if work.code != page.code %}}
+                {{% assign overlap = 0 %}}
+                {{% for t in work.tags %}}
+                    {{% if this_tags contains t %}}{{% assign overlap = overlap | plus: 1 %}}{{% endif %}}
+                {{% endfor %}}
+                {{% if overlap > 0 %}}
+                    {{% assign candidates = candidates | push: work %}}
+                {{% endif %}}
+            {{% endif %}}
+        {{% endfor %}}
+
+        <div class="similar-section">
+            <div class="similar-title">📖 Similar Comics</div>
+            <div class="similar-grid">
+                {{% assign shown_count = 0 %}}
+                {{% assign shown_series = "" | split: "," %}}
+                {{% for work in candidates limit: 20 %}}
+                    {{% if shown_count >= 4 %}}{{% break %}}{{% endif %}}
+                    {{% assign base_title = work.title | split: " " | first %}}
+                    {{% unless shown_series contains base_title %}}
+                        {{% assign shown_series = shown_series | push: base_title %}}
+                        {{% assign shown_count = shown_count | plus: 1 %}}
+                        <a href="/works/{{{{ work.code }}}}/" class="similar-card">
+                            <img src="{{{{ work.cover }}}}" alt="{{{{ work.title }}}}" class="similar-cover">
+                            <div class="similar-info">
+                                <div class="similar-info-title">{{{{ work.title }}}}</div>
+                            </div>
+                        </a>
+                        {{% if shown_count == 2 %}}
+                        <div class="similar-ad-card" data-mndbanid="6682c345-631e-456b-82ef-cc3bd9dbb29a">Ad</div>
+                        {{% endif %}}
+                    {{% endunless %}}
+                {{% endfor %}}
+            </div>
+        </div>
+
+        {{% include follow_us.html %}}
+    </div>
+
+    <script>
+        // View counter via CountAPI (free, no signup, no server needed).
+        // Namespace scoped to this site's domain so counts don't collide
+        // with other sites using the same free service.
+        (function() {{
+            var code = "{{{{ page.code }}}}";
+            fetch("https://api.countapi.xyz/hit/arccomic-github-io/" + code)
+                .then(function(r) {{ return r.json(); }})
+                .then(function(data) {{
+                    document.getElementById("viewCount").textContent = "👁 " + data.value + " views";
+                }})
+                .catch(function() {{
+                    document.getElementById("viewCount").textContent = "";
+                }});
+        }})();
+    </script>
+</body>
+</html>
+"""
+
+def ensure_post_layout():
+    """
+    Writes/upgrades _layouts/post.html automatically. Only overwrites the
+    file if it's missing or is an older version stamped by this same bot
+    (tracked via the HTML comment on line 1) — never touches a file with
+    no version marker, since that means a human hand-edited it.
+    Returns True if it wrote/changed the file.
+    """
+    os.makedirs(os.path.dirname(POST_LAYOUT_PATH), exist_ok=True)
+
+    if os.path.exists(POST_LAYOUT_PATH):
+        with open(POST_LAYOUT_PATH, 'r', encoding='utf-8') as f:
+            first_line = f.readline()
+        match = re.search(r"arc-comic-layout-version:\s*(\d+)", first_line)
+        if not match:
+            print("ℹ️ _layouts/post.html has no version marker (manually edited?) — leaving it untouched")
+            return False
+        current_version = int(match.group(1))
+        if current_version >= POST_LAYOUT_VERSION:
+            return False  # already up to date
+
+    with open(POST_LAYOUT_PATH, 'w', encoding='utf-8') as f:
+        f.write(POST_LAYOUT_TEMPLATE)
+    print(f"🔧 _layouts/post.html updated to v{POST_LAYOUT_VERSION} "
+          f"(clean layout, no emoji tags, proper Yes/No labels)")
+    return True
+
+# ============== SOCIAL LINKS ("Follow Us") ==============
+def load_social_links():
+    if os.path.exists(SOCIAL_LINKS_FILE):
+        with open(SOCIAL_LINKS_FILE, 'r', encoding='utf-8') as f:
+            return json.load(f)
+    return list(DEFAULT_SOCIAL_LINKS)
+
+def save_social_links(links):
+    os.makedirs(os.path.dirname(SOCIAL_LINKS_FILE), exist_ok=True)
+    with open(SOCIAL_LINKS_FILE, 'w', encoding='utf-8') as f:
+        json.dump(links, f, indent=2)
+
+# Small inline SVGs so the site has zero external icon dependencies (no
+# extra requests, nothing that can break if a CDN goes down).
+SOCIAL_ICONS = {
+    "telegram": '<svg viewBox="0 0 24 24" fill="currentColor"><path d="M21.94 4.2a1.5 1.5 0 00-1.53-.24L2.7 10.9a1.4 1.4 0 00.1 2.63l4.55 1.42 1.75 5.6a1.4 1.4 0 002.3.57l2.6-2.36 4.68 3.46a1.4 1.4 0 002.23-.85l3.05-15.1a1.5 1.5 0 00-.02-.07zM8.5 14.3l9.3-6.9c.2-.15.4.1.24.28l-7.6 7.4-.3 3.2-1.64-3.98z"/></svg>',
+    "youtube": '<svg viewBox="0 0 24 24" fill="currentColor"><path d="M23.5 6.2a3 3 0 00-2.1-2.1C19.5 3.5 12 3.5 12 3.5s-7.5 0-9.4.6A3 3 0 00.5 6.2 31 31 0 000 12a31 31 0 00.5 5.8 3 3 0 002.1 2.1c1.9.6 9.4.6 9.4.6s7.5 0 9.4-.6a3 3 0 002.1-2.1A31 31 0 0024 12a31 31 0 00-.5-5.8zM9.6 15.6V8.4l6.3 3.6-6.3 3.6z"/></svg>',
+    "facebook": '<svg viewBox="0 0 24 24" fill="currentColor"><path d="M22 12a10 10 0 10-11.6 9.9v-7H7.9V12h2.5V9.8c0-2.5 1.5-3.9 3.8-3.9 1.1 0 2.2.2 2.2.2v2.5h-1.3c-1.2 0-1.6.8-1.6 1.6V12h2.8l-.4 2.9h-2.4v7A10 10 0 0022 12z"/></svg>',
+    "twitter": '<svg viewBox="0 0 24 24" fill="currentColor"><path d="M18.9 2H22l-7.2 8.3L23.3 22h-6.6l-5.2-6.8L5.6 22H2.4l7.7-8.8L1 2h6.8l4.7 6.2zm-1.2 18h1.7L7.4 4H5.6z"/></svg>',
+    "website": '<svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 2a10 10 0 100 20 10 10 0 000-20zm7.9 9h-3.2c-.1-2.1-.6-4-1.3-5.4A8 8 0 0119.9 11zm-9-6.9c1 .8 2.2 3 2.4 6.9H9.6c.2-3.9 1.4-6.1 2.4-6.9zM9.6 13h4.8c-.2 3.9-1.4 6.1-2.4 6.9-1-.8-2.2-3-2.4-6.9zm-2 0c.1 2.1.6 4 1.3 5.4A8 8 0 014.1 13zm0-2A8 8 0 018.9 5.6c-.7 1.4-1.2 3.3-1.3 5.4zm7.9 8.4c.7-1.4 1.2-3.3 1.3-5.4h3.2a8 8 0 01-4.5 5.4z"/></svg>',
+}
+
+FOLLOW_US_INCLUDE_PATH = os.path.join(WORK_DIR, "_includes", "follow_us.html")
+FOLLOW_US_VERSION = 1
+
+def ensure_follow_us_include():
+    """
+    Self-healing _includes/follow_us.html — a Jekyll include so the "Follow
+    for more" block can appear on every page from one shared source, and
+    stays in sync with whatever links are set in the dashboard (stored in
+    _data/social_links.json, which Jekyll makes available as site.data
+    automatically). Same version-marker safety as the post layout: never
+    overwrites a hand-edited file.
+    """
+    os.makedirs(os.path.dirname(FOLLOW_US_INCLUDE_PATH), exist_ok=True)
+
+    if os.path.exists(FOLLOW_US_INCLUDE_PATH):
+        with open(FOLLOW_US_INCLUDE_PATH, 'r', encoding='utf-8') as f:
+            first_line = f.readline()
+        match = re.search(r"arc-comic-include-version:\s*(\d+)", first_line)
+        if not match:
+            return False
+        if int(match.group(1)) >= FOLLOW_US_VERSION:
+            return False
+
+    icons_json = json.dumps(SOCIAL_ICONS)
+    template = f"""<!-- arc-comic-include-version: {FOLLOW_US_VERSION} -->
+<div class="follow-us-section">
+    <div class="follow-us-title">⚡ FOLLOW FOR MORE</div>
+    <div class="follow-us-list">
+        {{% for link in site.data.social_links %}}
+        <a href="{{{{ link.url }}}}" class="follow-us-item" target="_blank" rel="noopener">
+            <span class="follow-us-icon follow-us-icon-{{{{ link.icon }}}}"></span>
+            <span class="follow-us-text">
+                <span class="follow-us-label">{{{{ link.label }}}}</span>
+                <span class="follow-us-sublabel">{{{{ link.sublabel }}}}</span>
+            </span>
+            <span class="follow-us-arrow">↗</span>
+        </a>
+        {{% endfor %}}
+    </div>
+</div>
+<style>
+    .follow-us-section {{ max-width: 900px; margin: 40px auto; padding: 0 24px; }}
+    .follow-us-title {{
+        color: #8888a0; font-size: 12px; font-weight: 700; letter-spacing: 1px;
+        margin-bottom: 12px; border-bottom: 1px solid #2a2a3a; padding-bottom: 10px;
+    }}
+    .follow-us-list {{ display: flex; flex-direction: column; gap: 10px; }}
+    .follow-us-item {{
+        display: flex; align-items: center; gap: 14px; background: #1a1a24;
+        border: 1px solid #2a2a3a; border-radius: 14px; padding: 14px 16px;
+        text-decoration: none; color: inherit; transition: border-color 0.15s;
+    }}
+    .follow-us-item:hover {{ border-color: #f59e0b; }}
+    .follow-us-icon {{
+        width: 38px; height: 38px; border-radius: 10px; flex-shrink: 0;
+        display: flex; align-items: center; justify-content: center;
+        background: #f59e0b; color: #000;
+    }}
+    .follow-us-icon svg {{ width: 20px; height: 20px; }}
+    .follow-us-icon-telegram {{ background: #2AABEE; color: #fff; }}
+    .follow-us-icon-youtube {{ background: #FF0000; color: #fff; }}
+    .follow-us-icon-facebook {{ background: #1877F2; color: #fff; }}
+    .follow-us-icon-twitter {{ background: #000; color: #fff; }}
+    .follow-us-icon-website {{ background: #f59e0b; color: #000; }}
+    .follow-us-text {{ flex: 1; min-width: 0; }}
+    .follow-us-label {{ display: block; font-weight: 700; font-size: 15px; color: #e2e2e8; }}
+    .follow-us-sublabel {{ display: block; font-size: 12px; color: #8888a0; margin-top: 2px; }}
+    .follow-us-arrow {{ color: #666; font-size: 16px; }}
+</style>
+<script>
+document.querySelectorAll('.follow-us-icon').forEach(function(el) {{
+    var icons = {icons_json};
+    var cls = Array.from(el.classList).find(function(c) {{ return c.startsWith('follow-us-icon-'); }});
+    if (cls) {{
+        var key = cls.replace('follow-us-icon-', '');
+        if (icons[key]) el.innerHTML = icons[key];
+    }}
+}});
+</script>
+"""
+    with open(FOLLOW_US_INCLUDE_PATH, 'w', encoding='utf-8') as f:
+        f.write(template)
+    print(f"🔧 _includes/follow_us.html updated to v{FOLLOW_US_VERSION}")
+    return True
+
+# ============== FAVICON ==============
+FAVICON_PATH = os.path.join(WORK_DIR, "favicon.svg")
+FAVICON_SVG = """<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+<rect width="100" height="100" rx="20" fill="#0f0f13"/>
+<path d="M50 15 L58 42 L85 50 L58 58 L50 85 L42 58 L15 50 L42 42 Z" fill="#f59e0b"/>
+</svg>"""
+
+def ensure_favicon():
+    """
+    Generates a small SVG favicon matching the site's ✨ sparkle branding.
+    Without this, Chrome shows a generic placeholder icon in the address
+    bar (the "ugly logo" in the top corner) — that placeholder isn't
+    coming from anything on the site, it's just what browsers show when
+    no favicon is defined at all. SVG is used instead of PNG so this
+    needs no image library (no Pillow) on Termux.
+    """
+    if os.path.exists(FAVICON_PATH):
+        return False
+    with open(FAVICON_PATH, 'w', encoding='utf-8') as f:
+        f.write(FAVICON_SVG)
+    print("🔧 favicon.svg created")
+    return True
+
+# ============== HOMEPAGE (index.html) ==============
+INDEX_HTML_PATH = os.path.join(WORK_DIR, "index.html")
+INDEX_HTML_VERSION = 2  # bump when the template below changes materially
+
+INDEX_HTML_TEMPLATE = f"""---
+layout: default
+---
+<!-- arc-comic-index-version: {INDEX_HTML_VERSION} -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<link rel="icon" type="image/svg+xml" href="/favicon.svg">
+<meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    {{% if site.google_verification != "" %}}
+    {{{{ site.google_verification }}}}
+    {{% endif %}}
+    <title>✨ Arc Comic — Manga & Doujinshi Gallery</title>
+    <meta name="description" content="Arc Comic — Curated manga and doujinshi gallery">
+    <style>
+        :root {{
+            --bg: #0f0f13; --bg-card: #1a1a24; --bg-elevated: #222230;
+            --accent: #f59e0b; --text: #e2e2e8; --text-muted: #8888a0;
+            --border: #2a2a3a;
+        }}
+        * {{ margin: 0; padding: 0; box-sizing: border-box; }}
+        body {{
+            font-family: 'Segoe UI', system-ui, sans-serif;
+            background: var(--bg); color: var(--text); min-height: 100vh;
+        }}
+        .container {{ max-width: 1200px; margin: 0 auto; padding: 24px; }}
+        .header {{
+            text-align: center; padding: 40px 20px;
+            border-bottom: 1px solid var(--border); margin-bottom: 30px;
+        }}
+        .header a.logo-link {{ text-decoration: none; }}
+        .header h1 {{
+            font-size: 42px; font-weight: 800;
+            background: linear-gradient(135deg, var(--accent), #f97316);
+            -webkit-background-clip: text; -webkit-text-fill-color: transparent;
+        }}
+        .header p {{ color: var(--text-muted); font-size: 16px; margin-top: 10px; }}
+        .search-box {{
+            max-width: 500px; margin: 0 auto 30px;
+            display: flex; gap: 8px; position: relative;
+        }}
+        .search-box input {{
+            flex: 1; padding: 14px 20px 14px 48px;
+            background: var(--bg-card); border: 1px solid var(--border);
+            border-radius: 12px; color: var(--text); font-size: 15px;
+            outline: none;
+        }}
+        .search-box input:focus {{ border-color: var(--accent); }}
+        .search-box .search-icon {{
+            position: absolute; left: 16px; top: 50%;
+            transform: translateY(-50%); font-size: 18px; pointer-events: none;
+        }}
+        .search-box button {{
+            background: var(--accent); color: #000; border: none;
+            border-radius: 12px; padding: 0 22px; font-weight: 700;
+            font-size: 14px; cursor: pointer;
+        }}
+        .section-title {{
+            font-size: 20px; font-weight: 700; margin-bottom: 16px;
+            display: flex; align-items: center; gap: 10px;
+        }}
+        .section-title .badge {{
+            background: var(--accent); color: #000;
+            padding: 4px 10px; border-radius: 20px;
+            font-size: 12px; font-weight: 700;
+        }}
+        .toolbar {{
+            display: flex; gap: 10px; margin-bottom: 20px; flex-wrap: wrap;
+        }}
+        .toolbar select {{
+            background: var(--bg-card); color: var(--text); border: 1px solid var(--border);
+            border-radius: 10px; padding: 10px 14px; font-size: 13px; cursor: pointer;
+        }}
+        .filter-panel {{
+            background: var(--bg-card); border: 1px solid var(--border); border-radius: 12px;
+            padding: 16px; margin-bottom: 20px; display: none; gap: 20px; flex-wrap: wrap;
+        }}
+        .filter-panel.open {{ display: flex; }}
+        .filter-group {{ display: flex; flex-direction: column; gap: 8px; }}
+        .filter-group-label {{ font-size: 11px; color: var(--text-muted); text-transform: uppercase; letter-spacing: 0.5px; }}
+        .filter-option {{ display: flex; align-items: center; gap: 6px; font-size: 13px; }}
+        .popular-grid {{
+            display: grid; grid-template-columns: repeat(4, 1fr);
+            gap: 16px; margin-bottom: 40px;
+        }}
+        .popular-card {{
+            background: var(--bg-card); border-radius: 12px;
+            border: 1px solid var(--border); overflow: hidden;
+            transition: transform 0.2s, box-shadow 0.2s; cursor: pointer;
+            text-decoration: none; color: var(--text);
+        }}
+        .popular-card:hover {{
+            transform: translateY(-4px);
+            box-shadow: 0 8px 24px rgba(0,0,0,0.4);
+        }}
+        .popular-card .cover {{
+            width: 100%; padding-top: 140%; position: relative;
+            background: var(--bg-elevated);
+        }}
+        .popular-card .cover img {{
+            position: absolute; top: 0; left: 0;
+            width: 100%; height: 100%; object-fit: cover;
+        }}
+        .popular-card .info {{ padding: 12px; }}
+        .popular-card .info h3 {{
+            font-size: 14px; font-weight: 600;
+            white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+        }}
+        .popular-card .info .meta {{
+            font-size: 12px; color: var(--text-muted); margin-top: 4px;
+        }}
+        .works-grid {{
+            display: grid; grid-template-columns: repeat(5, 1fr);
+            gap: 16px; margin-bottom: 30px;
+        }}
+        .work-card {{
+            background: var(--bg-card); border-radius: 12px;
+            border: 1px solid var(--border); overflow: hidden;
+            transition: transform 0.2s; cursor: pointer;
+            text-decoration: none; color: var(--text);
+        }}
+        .work-card:hover {{ transform: translateY(-4px); }}
+        .work-card .cover {{
+            width: 100%; padding-top: 140%; position: relative;
+            background: var(--bg-elevated);
+        }}
+        .work-card .cover img {{
+            position: absolute; top: 0; left: 0;
+            width: 100%; height: 100%; object-fit: cover;
+        }}
+        .work-card .info {{ padding: 10px; }}
+        .work-card .info h3 {{
+            font-size: 13px; font-weight: 600;
+            white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+        }}
+        .work-card .info .meta {{
+            font-size: 11px; color: var(--text-muted); margin-top: 3px;
+        }}
+        .no-results {{ text-align: center; padding: 60px 20px; color: var(--text-muted); }}
+        .pagination {{
+            display: flex; justify-content: center; gap: 8px;
+            margin-top: 30px; padding-top: 20px;
+            border-top: 1px solid var(--border);
+        }}
+        .pagination a, .pagination span {{
+            padding: 8px 14px; border-radius: 8px;
+            font-size: 14px; font-weight: 600;
+            text-decoration: none;
+        }}
+        .pagination a {{
+            background: var(--bg-card); color: var(--text);
+            border: 1px solid var(--border);
+        }}
+        .pagination a:hover {{ background: var(--accent); color: #000; }}
+        .pagination span {{ background: var(--accent); color: #000; }}
+        .footer {{
+            text-align: center; padding: 30px;
+            color: var(--text-muted); font-size: 13px;
+            border-top: 1px solid var(--border); margin-top: 40px;
+        }}
+        @media (max-width: 768px) {{
+            .popular-grid {{ grid-template-columns: repeat(2, 1fr); }}
+            .works-grid {{ grid-template-columns: repeat(2, 1fr); }}
+        }}
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <a href="/" class="logo-link"><h1>✨ Arc Comic</h1></a>
+            <p>Art & Story — Curated Manga & Doujinshi Gallery</p>
+        </div>
+        <div class="search-box">
+            <span class="search-icon">🔍</span>
+            <input type="text" placeholder="Search by title, author, or tag..." id="searchInput">
+            <button id="searchBtn">Search</button>
+        </div>
+        <h2 class="section-title">
+            🔥 Popular Today <span class="badge">TOP 4</span>
+        </h2>
+        <div class="popular-grid" id="popularGrid"></div>
+        <h2 class="section-title">📚 Latest Upload</h2>
+        <div class="toolbar">
+            <select id="sortSelect">
+                <option value="">Sort: Default</option>
+                <option value="popular_today">Most Popular Today</option>
+                <option value="popular_weekly">Most Popular This Week</option>
+                <option value="popular_monthly">Most Popular This Month</option>
+                <option value="popular_yearly">Most Popular This Year</option>
+                <option value="recent">Most Recent</option>
+                <option value="oldest">Oldest</option>
+            </select>
+            <button id="filterToggleBtn" style="background:var(--bg-card);color:var(--text);border:1px solid var(--border);border-radius:10px;padding:10px 14px;font-size:13px;cursor:pointer;">
+                ⚙️ Filters
+            </button>
+        </div>
+        <div class="filter-panel" id="filterPanel">
+            <div class="filter-group">
+                <div class="filter-group-label">Full Color</div>
+                <label class="filter-option"><input type="checkbox" id="filterFullColor"> Full Color Only</label>
+            </div>
+            <div class="filter-group">
+                <div class="filter-group-label">NTR</div>
+                <label class="filter-option"><input type="radio" name="ntrFilter" value="" checked> Any</label>
+                <label class="filter-option"><input type="radio" name="ntrFilter" value="yes"> NTR Yes</label>
+                <label class="filter-option"><input type="radio" name="ntrFilter" value="no"> NTR No</label>
+            </div>
+        </div>
+        <div class="works-grid" id="worksGrid"></div>
+        <div class="no-results" id="noResults" style="display:none;">No comics match your search or filters.</div>
+        <div class="pagination" id="pagination"></div>
+        {{% include follow_us.html %}}
+        <div class="footer">
+            <p style="margin-top:8px">Daily updates</p>
+        </div>
+    </div>
+    <script>
+        const works = [
+            {{% for post in site.works %}}
+            {{
+                title: "{{{{ post.title | escape }}}}",
+                author: "{{{{ post.author }}}}",
+                code: "{{{{ post.code }}}}",
+                cover: "{{{{ post.cover }}}}",
+                rating: "{{{{ post.rating }}}}",
+                date: "{{{{ post.date }}}}",
+                tags: {{{{ post.tags | jsonify }}}},
+                fullColor: {{{{ post.full_color | default: false }}}},
+                ntr: {{{{ post.ntr | default: false }}}},
+                url: "{{{{ post.url }}}}"
+            }}{{% unless forloop.last %}},{{% endunless %}}
+            {{% endfor %}}
+        ];
+        const POSTS_PER_PAGE = {{{{ site.paginate | default: 15 }}}};
+        let currentSearch = "";
+
+        function applySearch(list) {{
+            if (!currentSearch) return list;
+            const q = currentSearch.toLowerCase();
+            return list.filter(w =>
+                w.title.toLowerCase().includes(q) ||
+                w.author.toLowerCase().includes(q) ||
+                (w.tags || []).some(t => t.toLowerCase().includes(q))
+            );
+        }}
+
+        function applyFilters(list) {{
+            const fullColorOnly = document.getElementById('filterFullColor').checked;
+            const ntrValue = document.querySelector('input[name="ntrFilter"]:checked').value;
+            return list.filter(w => {{
+                if (fullColorOnly && !w.fullColor) return false;
+                if (ntrValue === 'yes' && !w.ntr) return false;
+                if (ntrValue === 'no' && w.ntr) return false;
+                return true;
+            }});
+        }}
+
+        function applySort(list, mode) {{
+            const sorted = [...list];
+            switch (mode) {{
+                case 'recent':
+                    return sorted.sort((a,b) => new Date(b.date) - new Date(a.date));
+                case 'oldest':
+                    return sorted.sort((a,b) => new Date(a.date) - new Date(b.date));
+                case 'popular_today':
+                case 'popular_weekly':
+                case 'popular_monthly':
+                case 'popular_yearly':
+                    // Rating is the best available popularity proxy until
+                    // a real view-window metric is tracked server-side.
+                    return sorted.sort((a,b) => parseFloat(b.rating) - parseFloat(a.rating));
+                default:
+                    return sorted; // Default: whatever order the collection provides
+            }}
+        }}
+
+        function renderPopular() {{
+            const popular = [...works].sort((a,b) => parseFloat(b.rating) - parseFloat(a.rating)).slice(0,4);
+            document.getElementById('popularGrid').innerHTML = popular.map(w => `
+                <a href="${{w.url}}" class="popular-card">
+                    <div class="cover"><img src="${{w.cover}}" alt="${{w.title}}"></div>
+                    <div class="info"><h3>${{w.title}}</h3><div class="meta">⭐ ${{w.rating}} • ${{w.author}}</div></div>
+                </a>
+            `).join('');
+        }}
+
+        function renderWorks(page = 1) {{
+            const sortMode = document.getElementById('sortSelect').value;
+            let list = applySearch(works);
+            list = applyFilters(list);
+            // Filters section defaults to Most Recent when no explicit sort chosen
+            const effectiveSort = sortMode || (isFilterPanelOpen() ? 'recent' : '');
+            list = applySort(list, effectiveSort);
+
+            const noResults = document.getElementById('noResults');
+            const grid = document.getElementById('worksGrid');
+            if (list.length === 0) {{
+                grid.innerHTML = '';
+                noResults.style.display = 'block';
+                document.getElementById('pagination').innerHTML = '';
+                return;
+            }}
+            noResults.style.display = 'none';
+
+            const start = (page - 1) * POSTS_PER_PAGE;
+            const pageWorks = list.slice(start, start + POSTS_PER_PAGE);
+            grid.innerHTML = pageWorks.map(w => `
+                <a href="${{w.url}}" class="work-card">
+                    <div class="cover"><img src="${{w.cover}}" alt="${{w.title}}"></div>
+                    <div class="info"><h3>${{w.title}}</h3><div class="meta">${{w.author}} • ⭐ ${{w.rating}}</div></div>
+                </a>
+            `).join('');
+            const total = Math.ceil(list.length / POSTS_PER_PAGE);
+            let html = '';
+            for(let i = 1; i <= total; i++) {{
+                if(i === page) html += `<span>${{i}}</span>`;
+                else html += `<a href="#" onclick="renderWorks(${{i}}); return false;">${{i}}</a>`;
+            }}
+            document.getElementById('pagination').innerHTML = html;
+        }}
+
+        function isFilterPanelOpen() {{
+            return document.getElementById('filterPanel').classList.contains('open');
+        }}
+
+        document.getElementById('sortSelect').addEventListener('change', () => renderWorks(1));
+        document.getElementById('filterToggleBtn').addEventListener('click', () => {{
+            document.getElementById('filterPanel').classList.toggle('open');
+            renderWorks(1);
+        }});
+        document.getElementById('filterFullColor').addEventListener('change', () => renderWorks(1));
+        document.querySelectorAll('input[name="ntrFilter"]').forEach(el => {{
+            el.addEventListener('change', () => renderWorks(1));
+        }});
+
+        function runSearch() {{
+            currentSearch = document.getElementById('searchInput').value.trim();
+            renderWorks(1);
+        }}
+        document.getElementById('searchBtn').addEventListener('click', runSearch);
+        document.getElementById('searchInput').addEventListener('keydown', (e) => {{
+            if (e.key === 'Enter') runSearch();
+        }});
+
+        renderPopular();
+        renderWorks(1);
+    </script>
+</body>
+</html>
+"""
+
+def ensure_index_html():
+    """
+    Self-healing homepage. Only overwrites if missing or an older version
+    stamped by this bot (same safety pattern as the other templates) —
+    never touches a hand-edited file. Adds: favicon link, clickable logo,
+    "Latest Upload" naming, sort/filter toolbar, NTR/full-color-aware
+    filtering, working search with a real search button, and the shared
+    Follow Us include.
+    """
+    if os.path.exists(INDEX_HTML_PATH):
+        with open(INDEX_HTML_PATH, 'r', encoding='utf-8') as f:
+            content = f.read()
+        match = re.search(r"arc-comic-index-version:\s*(\d+)", content)
+        if not match:
+            print("ℹ️ index.html has no version marker (manually edited?) — leaving it untouched")
+            return False
+        if int(match.group(1)) >= INDEX_HTML_VERSION:
+            return False
+
+    with open(INDEX_HTML_PATH, 'w', encoding='utf-8') as f:
+        f.write(INDEX_HTML_TEMPLATE)
+    print(f"🔧 index.html updated to v{INDEX_HTML_VERSION} "
+          f"(favicon, sort/filter toolbar, Latest Upload, working search)")
+    return True
+
 # ============== GOOGLE SEO FUNCTIONS ==============
-def ping_google_sitemap(site_url):
+def touch_sitemap_lastmod(site_url):
+    """
+    Google retired the sitemap 'ping' endpoint at the end of 2023 — it now
+    returns 404 for everyone, not just this site, so pinging it can never
+    succeed no matter what. Google's own guidance since the deprecation is
+    that the <lastmod> date inside sitemap.xml is what it actually reads to
+    decide when to recrawl. This function updates the homepage entry's
+    lastmod to "now" so the sitemap keeps signalling fresh content the way
+    Google currently expects, replacing the old ineffective ping call.
+    """
+    sitemap_path = os.path.join(WORK_DIR, "sitemap.xml")
+    if not os.path.exists(sitemap_path):
+        return False
     try:
-        sitemap_url = f"{site_url}/sitemap.xml"
-        ping_url = f"https://www.google.com/ping?sitemap={sitemap_url}"
-        r = requests.get(ping_url, timeout=15)
-        if r.status_code == 200:
-            print(f"📡 Pinged Google: {sitemap_url}")
-            return True
+        with open(sitemap_path, 'r', encoding='utf-8') as f:
+            content = f.read()
+        today = datetime.now().strftime("%Y-%m-%d")
+        if "<lastmod>" in content:
+            content = re.sub(r"<lastmod>.*?</lastmod>", f"<lastmod>{today}</lastmod>", content, count=1)
+        else:
+            content = content.replace("</loc>", f"</loc>\n<lastmod>{today}</lastmod>", 1)
+        with open(sitemap_path, 'w', encoding='utf-8') as f:
+            f.write(content)
+        print(f"🗺️ sitemap.xml lastmod updated to {today}")
+        return True
     except Exception as e:
-        print(f"⚠️ Google ping failed: {e}")
-    return False
+        print(f"⚠️ sitemap lastmod update failed: {e}")
+        return False
 
 def submit_indexnow(url, site_url, api_key):
     try:
@@ -239,7 +1011,13 @@ def scrape_site(code, domain="https://nhentai.net"):
         }
         r = requests.get(url, headers=headers, timeout=20)
         r.raise_for_status()
-        soup = BeautifulSoup(r.text, 'html.parser')
+        # Use r.content (raw bytes), not r.text. requests guesses encoding
+        # from HTTP headers which are often wrong/missing charset info;
+        # BeautifulSoup reading raw bytes detects encoding from the page's
+        # own <meta charset> tag instead, which is far more reliable and
+        # fixes mangled special characters (e.g. "IDOLM@STER" turning into
+        # "IDOLMï¼STER").
+        soup = BeautifulSoup(r.content, 'html.parser')
 
         title_elem = soup.select_one("h1.title .pretty")
         if not title_elem:
@@ -264,7 +1042,9 @@ def generate_md(code, title, author, categories, full_color, cheating,
 
     tags_yaml = json.dumps(tags)
     fc_bool = "true" if full_color.lower() == "yes" else "false"
-    ch_bool = "true" if cheating.lower() == "yes" else "false"
+    fc_label = "Yes" if full_color.lower() == "yes" else "No"
+    ntr_bool = "true" if cheating.lower() == "yes" else "false"
+    ntr_label = "Yes" if cheating.lower() == "yes" else "No"
 
     md_lines = [
         "---",
@@ -275,7 +1055,7 @@ def generate_md(code, title, author, categories, full_color, cheating,
         f'categories: ["{categories}"]',
         f"tags: {tags_yaml}",
         f"full_color: {fc_bool}",
-        f"cheating: {ch_bool}",
+        f"ntr: {ntr_bool}",
         f'language: "{language}"',
         f"rating: {rating}",
         f'cover: "/covers/{code}.jpg"',
@@ -289,7 +1069,8 @@ def generate_md(code, title, author, categories, full_color, cheating,
         f"![Cover](/covers/{code}.jpg)",
         "",
         f"**Author:** {author} | **Code:** {code} | **Rating:** ⭐ {rating}  ",
-        f"**Tags:** {', '.join(tags) if tags else 'N/A'} | **Language:** {language.title()}",
+        f"**Full Color:** {fc_label} | **NTR:** {ntr_label} | **Language:** {language.title()}  ",
+        f"**Tags:** {', '.join(tags) if tags else 'N/A'}",
         "",
         "---",
         "",
@@ -436,24 +1217,110 @@ def extract_field(text, *labels, pattern=r"(.+)"):
 
 def parse_post_fields(raw_text):
     """Parses a channel post into structured fields. Returns a dict, or
-    None (with a debug print) if no code could be found at all."""
+    None if this doesn't look like a real comic post (e.g. it's a sponsor
+    post, announcement, or other non-comic content in the same channel).
+
+    A real comic post must have Code + Author + Categories all present —
+    that's the specific fingerprint of your comic format. Requiring only
+    "Code" was too loose and risked matching stray numbers in unrelated
+    posts; requiring all three virtually guarantees we only ever act on
+    genuine comic submissions.
+    """
     text = normalize_text(raw_text)
 
     code = extract_field(text, "🌟Code", "Code", pattern=r"(\d+)")
-    if not code:
-        print(f"⚠️ No code found in post. Raw text was: {repr(raw_text)}")
-        return None
+    author = extract_field(text, "✨Author", "Author")
+    categories = extract_field(text, "⚡Categories", "Categories")
+
+    if not (code and author and categories):
+        return None  # not a comic post — silently skip (sponsor/update/etc)
 
     fields = {
         "code": code,
-        "author": extract_field(text, "✨Author", "Author") or "Unknown",
-        "categories": extract_field(text, "⚡Categories", "Categories") or "manga",
+        "author": author,
+        "categories": categories,
         "full_color": extract_field(text, "💫Full color", "Full color") or "no",
         "cheating": extract_field(text, "🌙Cheating", "Cheating") or "no",
         "language": extract_field(text, "⚡Language", "Language") or "english",
         "rating": extract_field(text, "⭐Rating", "Rating", pattern=r"\(?([\d.]+)\)?") or "0.0",
     }
     return fields
+
+# ============== POSTING QUEUE (batch + debounce) ==============
+# Artists submit comics in bursts (20-25 at once, ~1-2 min apart). Pushing
+# git + pinging Google/IndexNow separately for each one is wasteful and
+# spams the ping APIs. Instead we stage each valid post's files locally,
+# then wait for a quiet period (no new post for PENDING_TIMEOUT_SECONDS)
+# before committing everything as one batch and pinging once. The
+# dashboard's "Push Now" button can force an immediate flush at any time.
+PENDING_TIMEOUT_SECONDS = 10 * 60  # 10 minutes
+_pending_lock = threading.Lock()
+_pending_queue = []          # list of dicts: {code, title, post_url}
+_pending_timer = None        # threading.Timer handle
+
+def _flush_pending_queue_sync():
+    """Runs the actual batch push. Called either by the debounce timer
+    firing or by the manual /api/push_now endpoint."""
+    global _pending_timer
+    with _pending_lock:
+        if not _pending_queue:
+            _pending_timer = None
+            return
+        batch = list(_pending_queue)
+        _pending_queue.clear()
+        _pending_timer = None
+
+    cfg = load_config()
+    codes = ", ".join(item["code"] for item in batch)
+    print(f"🚚 Flushing batch of {len(batch)} post(s): {codes}")
+
+    pushed, push_error = git_push(cfg, "batch", f"Add {len(batch)} work(s): {codes}")
+
+    site_url = "https://arccomic.github.io"
+    sitemap_updated = False
+    indexnow_pinged_count = 0
+    if pushed:
+        if cfg.get("auto_ping_google", True):
+            sitemap_updated = touch_sitemap_lastmod(site_url)
+        if cfg.get("use_indexnow", True):
+            api_key = cfg.get("indexnow_key", "")
+            if api_key:
+                for item in batch:
+                    if submit_indexnow(item["post_url"], site_url, api_key):
+                        indexnow_pinged_count += 1
+
+    for item in batch:
+        record_post(item["code"], item["title"], success=pushed, error=push_error,
+                     google_pinged=sitemap_updated,
+                     indexnow_pinged=indexnow_pinged_count > 0,
+                     post_url=item["post_url"])
+
+    print(f"✅ Batch flush complete: {len(batch)} post(s), pushed={pushed}")
+
+def queue_pending_flush():
+    """(Re)starts the debounce timer. Any new post arriving resets the
+    10-minute countdown, so the batch only flushes once submissions
+    actually stop coming in."""
+    global _pending_timer
+    with _pending_lock:
+        if _pending_timer is not None:
+            _pending_timer.cancel()
+        _pending_timer = threading.Timer(PENDING_TIMEOUT_SECONDS, _flush_pending_queue_sync)
+        _pending_timer.daemon = True
+        _pending_timer.start()
+
+def force_flush_now():
+    """Used by the dashboard's 'Push Now' button to bypass the timer."""
+    global _pending_timer
+    with _pending_lock:
+        if _pending_timer is not None:
+            _pending_timer.cancel()
+            _pending_timer = None
+    _flush_pending_queue_sync()
+
+def get_pending_count():
+    with _pending_lock:
+        return len(_pending_queue)
 
 # ============== TELEGRAM BOT HANDLER ==============
 async def handle_channel_post(update: Update, context: ContextTypes.DEFAULT_TYPE):
@@ -465,8 +1332,8 @@ async def handle_channel_post(update: Update, context: ContextTypes.DEFAULT_TYPE
     raw_text = msg.caption or msg.text or ""
     fields = parse_post_fields(raw_text)
     if not fields:
-        record_post(code="?", title="(unparsed post)", success=False,
-                     error="Could not find a Code field in the post")
+        # Not a comic post (sponsor post, announcement, etc.) — ignore
+        # silently. This is expected and not an error.
         return
 
     code = fields["code"]
@@ -479,7 +1346,7 @@ async def handle_channel_post(update: Update, context: ContextTypes.DEFAULT_TYPE
         site_url = "https://arccomic.github.io"
         post_url = f"{site_url}/works/{code}/"
 
-        print(f"📥 Processing code {code}...")
+        print(f"📥 Staging code {code}...")
 
         domain = cfg.get("site_domain", "https://nhentai.net")
         title, tags = scrape_site(code, domain)
@@ -504,24 +1371,17 @@ async def handle_channel_post(update: Update, context: ContextTypes.DEFAULT_TYPE
         with open(md_path, 'w', encoding='utf-8') as f:
             f.write(md_content)
 
-        pushed, push_error = git_push(cfg, code, title)
-        google_pinged = False
-        indexnow_pinged = False
-        if pushed:
-            if cfg.get("auto_ping_google", True):
-                google_pinged = ping_google_sitemap(site_url)
-            if cfg.get("use_indexnow", True):
-                api_key = cfg.get("indexnow_key", "")
-                if api_key:
-                    indexnow_pinged = submit_indexnow(post_url, site_url, api_key)
-
         cfg["last_message_id"] = msg.message_id
         save_config(cfg)
 
-        record_post(code, title, success=pushed, error=push_error,
-                     google_pinged=google_pinged, indexnow_pinged=indexnow_pinged,
-                     post_url=post_url)
-        print(f"✅ Done: {title} (Code: {code})")
+        with _pending_lock:
+            _pending_queue.append({"code": code, "title": title, "post_url": post_url})
+            pending_count = len(_pending_queue)
+
+        queue_pending_flush()
+        print(f"⏳ Staged: {title} (Code: {code}) — {pending_count} pending, "
+              f"will push in {PENDING_TIMEOUT_SECONDS // 60} min unless more arrive "
+              f"or Push Now is pressed")
 
     except Exception as e:
         print(f"❌ Error processing code {code}: {e}")
@@ -790,6 +1650,30 @@ DASHBOARD_HTML = """
                 Works Dir: <code>/storage/emulated/0/arccomic.github.io/_works/</code><br>
                 IndexNow Key: <code>{{ indexnow_key[:16] + '...' if indexnow_key else 'Not set' }}</code>
             </p>
+            <div style="display:flex;justify-content:space-between;align-items:center;margin-top:16px;padding-top:16px;border-top:1px solid #2a2a3a;">
+                <span style="font-size:14px;">
+                    ⏳ Pending posts: <strong id="pendingCount" style="color:#f59e0b;font-size:18px;">{{ pending_count }}</strong>
+                    <br><span style="color:#666;font-size:11px;">Auto-pushes 10 min after the last post, or push manually now.</span>
+                </span>
+                <button id="pushNowBtn" style="background:#f59e0b;color:#000;border:none;padding:10px 18px;border-radius:10px;font-weight:700;font-size:13px;cursor:pointer;white-space:nowrap;">
+                    🚀 Push Now
+                </button>
+            </div>
+        </div>
+
+        <div class="card">
+            <h2>🔗 Follow Us Links</h2>
+            <p style="color:#8888a0;font-size:13px;margin-bottom:14px;">
+                Shown on every page of the site. Add, edit, reorder, or remove platforms anytime.
+            </p>
+            <div id="socialLinksList"></div>
+            <button id="addSocialLinkBtn" type="button" style="width:100%;background:#2a2a3a;color:#f59e0b;border:1px dashed #f59e0b;padding:12px;border-radius:10px;font-weight:700;font-size:13px;cursor:pointer;margin-top:10px;">
+                + Add Platform
+            </button>
+            <button id="saveSocialLinksBtn" type="button" style="width:100%;background:#f59e0b;color:#000;border:none;padding:12px;border-radius:10px;font-weight:700;font-size:13px;cursor:pointer;margin-top:10px;">
+                💾 Save Follow Us Links
+            </button>
+            <div class="status" id="socialLinksStatus"></div>
         </div>
 
         <div class="card">
@@ -813,7 +1697,7 @@ DASHBOARD_HTML = """
                     </div>
                     <div style="display:flex;gap:12px;margin-top:4px;align-items:center;">
                         <span style="font-size:11px;color:{{ '#22c55e' if post.google_pinged else '#666' }};">
-                            {{ '🟢' if post.google_pinged else '⚪' }} Google
+                            {{ '🟢' if post.google_pinged else '⚪' }} Sitemap
                         </span>
                         <span style="font-size:11px;color:{{ '#22c55e' if post.indexnow_pinged else '#666' }};">
                             {{ '🟢' if post.indexnow_pinged else '⚪' }} IndexNow
@@ -848,9 +1732,119 @@ DASHBOARD_HTML = """
                 const health = await res.json();
                 const el = document.getElementById('botStatus');
                 if (el) el.textContent = health.status;
+                const pc = document.getElementById('pendingCount');
+                if (pc) pc.textContent = health.pending_count;
             } catch (e) { /* dashboard server itself would have to be down */ }
         }
         setInterval(refreshStatus, 10000);
+
+        const pushNowBtn = document.getElementById('pushNowBtn');
+        if (pushNowBtn) {
+            pushNowBtn.addEventListener('click', async () => {
+                pushNowBtn.disabled = true;
+                pushNowBtn.textContent = 'Pushing...';
+                try {
+                    const res = await fetch('/api/push_now', { method: 'POST' });
+                    const data = await res.json();
+                    if (data.status === 'empty') {
+                        pushNowBtn.textContent = 'Nothing pending';
+                        setTimeout(() => {
+                            pushNowBtn.textContent = '🚀 Push Now';
+                            pushNowBtn.disabled = false;
+                        }, 1500);
+                    } else {
+                        pushNowBtn.textContent = '✅ Pushing...';
+                        setTimeout(() => { window.location.reload(); }, 3000);
+                    }
+                } catch (e) {
+                    pushNowBtn.textContent = '❌ Error';
+                    pushNowBtn.disabled = false;
+                }
+            });
+        }
+
+        // ---- Follow Us links management ----
+        const ICON_OPTIONS = ['telegram', 'youtube', 'facebook', 'twitter', 'website'];
+        let socialLinks = [];
+
+        function renderSocialLinks() {
+            const container = document.getElementById('socialLinksList');
+            if (!container) return;
+            container.innerHTML = socialLinks.map((link, i) => `
+                <div style="background:#0f0f13;border:1px solid #2a2a3a;border-radius:10px;padding:12px;margin-bottom:10px;">
+                    <div style="display:flex;gap:8px;margin-bottom:8px;">
+                        <select data-i="${i}" data-field="icon" class="social-field" style="background:#1a1a24;color:#e2e2e8;border:1px solid #2a2a3a;border-radius:8px;padding:8px;font-size:13px;">
+                            ${ICON_OPTIONS.map(opt => `<option value="${opt}" ${link.icon === opt ? 'selected' : ''}>${opt}</option>`).join('')}
+                        </select>
+                        <button data-i="${i}" class="remove-social-btn" style="background:none;border:1px solid #ef4444;color:#ef4444;border-radius:8px;padding:8px 12px;font-size:12px;cursor:pointer;margin-left:auto;">Remove</button>
+                    </div>
+                    <input data-i="${i}" data-field="label" class="social-field" placeholder="Label (e.g. Arc Comic)" value="${link.label || ''}"
+                           style="width:100%;background:#1a1a24;color:#e2e2e8;border:1px solid #2a2a3a;border-radius:8px;padding:8px;font-size:13px;margin-bottom:6px;">
+                    <input data-i="${i}" data-field="sublabel" class="social-field" placeholder="Sublabel (e.g. Comics & updates)" value="${link.sublabel || ''}"
+                           style="width:100%;background:#1a1a24;color:#e2e2e8;border:1px solid #2a2a3a;border-radius:8px;padding:8px;font-size:13px;margin-bottom:6px;">
+                    <input data-i="${i}" data-field="url" class="social-field" placeholder="https://..." value="${link.url || ''}"
+                           style="width:100%;background:#1a1a24;color:#e2e2e8;border:1px solid #2a2a3a;border-radius:8px;padding:8px;font-size:13px;">
+                </div>
+            `).join('');
+
+            container.querySelectorAll('.social-field').forEach(el => {
+                el.addEventListener('input', (e) => {
+                    const i = parseInt(e.target.dataset.i);
+                    const field = e.target.dataset.field;
+                    socialLinks[i][field] = e.target.value;
+                });
+            });
+            container.querySelectorAll('.remove-social-btn').forEach(el => {
+                el.addEventListener('click', (e) => {
+                    const i = parseInt(e.target.dataset.i);
+                    socialLinks.splice(i, 1);
+                    renderSocialLinks();
+                });
+            });
+        }
+
+        async function loadSocialLinks() {
+            try {
+                const res = await fetch('/api/social_links');
+                socialLinks = await res.json();
+                renderSocialLinks();
+            } catch (e) { /* dashboard offline */ }
+        }
+        loadSocialLinks();
+
+        const addSocialLinkBtn = document.getElementById('addSocialLinkBtn');
+        if (addSocialLinkBtn) {
+            addSocialLinkBtn.addEventListener('click', () => {
+                socialLinks.push({ platform: '', label: '', sublabel: '', url: '', icon: 'website' });
+                renderSocialLinks();
+            });
+        }
+
+        const saveSocialLinksBtn = document.getElementById('saveSocialLinksBtn');
+        if (saveSocialLinksBtn) {
+            saveSocialLinksBtn.addEventListener('click', async () => {
+                saveSocialLinksBtn.disabled = true;
+                saveSocialLinksBtn.textContent = 'Saving...';
+                const statusEl = document.getElementById('socialLinksStatus');
+                try {
+                    const res = await fetch('/api/social_links', {
+                        method: 'POST',
+                        headers: { 'Content-Type': 'application/json' },
+                        body: JSON.stringify({ links: socialLinks })
+                    });
+                    const data = await res.json();
+                    statusEl.className = data.status === 'ok' ? 'status success' : 'status error';
+                    statusEl.textContent = data.status === 'ok'
+                        ? '✅ Saved and pushed live'
+                        : '⚠️ Saved locally, but push failed: ' + (data.error || 'unknown error');
+                } catch (e) {
+                    statusEl.className = 'status error';
+                    statusEl.textContent = '❌ Error: ' + e.message;
+                }
+                saveSocialLinksBtn.disabled = false;
+                saveSocialLinksBtn.textContent = '💾 Save Follow Us Links';
+            });
+        }
 
         const configForm = document.getElementById('configForm');
         if (configForm) {
@@ -929,6 +1923,7 @@ def dashboard():
         bot_status=BOT_HEALTH.get("status"),
         bot_last_update=BOT_HEALTH.get("last_update"),
         bot_restart_count=BOT_HEALTH.get("restart_count", 0),
+        pending_count=get_pending_count(),
     )
 
 @app.route("/save", methods=["POST"])
@@ -967,7 +1962,19 @@ def api_stats():
 
 @app.route("/api/health")
 def api_health():
-    return jsonify(BOT_HEALTH)
+    health = dict(BOT_HEALTH)
+    health["pending_count"] = get_pending_count()
+    return jsonify(health)
+
+@app.route("/api/push_now", methods=["POST"])
+def api_push_now():
+    count = get_pending_count()
+    if count == 0:
+        return jsonify({"status": "empty", "message": "No pending posts to push"})
+    # Run in a background thread so the HTTP request returns immediately
+    # instead of the browser waiting on a potentially slow git push.
+    threading.Thread(target=force_flush_now, daemon=True).start()
+    return jsonify({"status": "ok", "message": f"Pushing {count} pending post(s) now"})
 
 @app.route("/api/delete_post", methods=["POST"])
 def api_delete_post():
@@ -995,6 +2002,31 @@ def api_delete_post():
         print(f"⚠️ Delete push error: {e}")
 
     return jsonify({"status": "ok"})
+
+@app.route("/api/social_links", methods=["GET"])
+def api_get_social_links():
+    return jsonify(load_social_links())
+
+@app.route("/api/social_links", methods=["POST"])
+def api_save_social_links():
+    """Replaces the full list — the dashboard UI sends the complete,
+    reordered list on every save so add/edit/delete/reorder are all
+    handled the same simple way."""
+    data = request.get_json()
+    links = data.get("links", [])
+
+    valid_icons = set(SOCIAL_ICONS.keys())
+    for link in links:
+        if link.get("icon") not in valid_icons:
+            link["icon"] = "website"
+        for field in ("platform", "label", "sublabel", "url"):
+            link[field] = str(link.get(field, "")).strip()
+
+    save_social_links(links)
+
+    cfg = load_config()
+    pushed, err = git_push(cfg, "social", "Update Follow Us links")
+    return jsonify({"status": "ok" if pushed else "saved_but_push_failed", "error": err})
 
 # ============== MAIN ==============
 BOT_HEALTH = {"status": "starting", "last_update": None, "restart_count": 0}
@@ -1041,14 +2073,30 @@ def run_dashboard():
     app.run(host="0.0.0.0", port=6767, debug=False)
 
 if __name__ == "__main__":
-    # Self-heal _config.yml before anything else starts, so posts always
-    # build into real pages without requiring any manual editing.
+    # Self-heal _config.yml, _layouts/post.html, _includes/follow_us.html,
+    # favicon.svg, and index.html before anything else starts, so the
+    # whole site always builds correctly without requiring any manual
+    # editing.
     try:
+        needs_push = False
         if ensure_jekyll_works_collection():
+            needs_push = True
+        if ensure_post_layout():
+            needs_push = True
+        if ensure_follow_us_include():
+            needs_push = True
+        if ensure_favicon():
+            needs_push = True
+        if ensure_index_html():
+            needs_push = True
+        if not os.path.exists(SOCIAL_LINKS_FILE):
+            save_social_links(DEFAULT_SOCIAL_LINKS)
+            needs_push = True
+        if needs_push:
             cfg = load_config()
-            git_push(cfg, "config", "Auto-fix Jekyll works collection")
+            git_push(cfg, "config", "Auto-fix site templates and homepage")
     except Exception as e:
-        print(f"⚠️ Jekyll config auto-fix skipped: {e}")
+        print(f"⚠️ Jekyll auto-fix skipped: {e}")
 
     if len(sys.argv) > 1 and sys.argv[1] == "--bot-only":
         run_bot()

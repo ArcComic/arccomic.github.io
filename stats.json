@@ -1,5 +1,5 @@
 {
-  "total_posts": 1,
+  "total_posts": 2,
   "posts": [
     {
       "code": "676326",
@@ -54,6 +54,16 @@
       "google_pinged": false,
       "indexnow_pinged": true,
       "post_url": "https://arccomic.github.io/works/676326/"
+    },
+    {
+      "code": "676327",
+      "title": "Yurishita 2 THE IDOLM\u00ef\u00bc\u00a0STER GIRLS LOVE!",
+      "success": true,
+      "time": "2026-08-31 11:52:47",
+      "error": null,
+      "google_pinged": false,
+      "indexnow_pinged": true,
+      "post_url": "https://arccomic.github.io/works/676327/"
     }
   ],
   "last_error": "Could not find a Code field in the post",

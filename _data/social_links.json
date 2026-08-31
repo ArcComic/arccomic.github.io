@@ -1,0 +1,9 @@
+[
+  {
+    "platform": "telegram",
+    "label": "Arc Comic",
+    "sublabel": "Comics, art drops & story updates",
+    "url": "https://t.me/ArcComic",
+    "icon": "telegram"
+  }
+]
