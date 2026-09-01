@@ -1,4 +1,4 @@
-<!-- arc-comic-layout-version: 4 -->
+<!-- arc-comic-layout-version: 5 -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -98,11 +98,26 @@
             background: var(--bg-card); border: 1px dashed var(--border); border-radius: 12px;
             min-height: 180px; overflow: hidden;
         }
+        .mini-search { display: flex; gap: 8px; margin-bottom: 20px; }
+        .mini-search input {
+            flex: 1; padding: 10px 14px; background: var(--bg-card); border: 1px solid var(--border);
+            border-radius: 10px; color: var(--text); font-size: 13px; outline: none;
+        }
+        .mini-search input:focus { border-color: var(--accent); }
+        .mini-search button {
+            background: var(--accent); color: #000; border: none; border-radius: 10px;
+            padding: 0 16px; font-weight: 700; font-size: 13px; cursor: pointer;
+        }
     </style>
 </head>
 <body>
     <div class="container">
         <a href="/" class="logo-link">✨ Arc Comic</a>
+
+        <div class="mini-search">
+            <input type="text" placeholder="Search comics..." id="miniSearchInput">
+            <button id="miniSearchBtn">🔍</button>
+        </div>
 
         <div class="breadcrumb">
             <a href="/">Home</a> ›
@@ -205,12 +220,22 @@
     </div>
 
     <script>
-        // View counter via CountAPI (free, no signup, no server needed).
-        // Namespace scoped to this site's domain so counts don't collide
-        // with other sites using the same free service.
+        function goMiniSearch() {
+            var q = document.getElementById('miniSearchInput').value.trim();
+            if (q) window.location.href = '/search/?q=' + encodeURIComponent(q);
+        }
+        document.getElementById('miniSearchBtn').addEventListener('click', goMiniSearch);
+        document.getElementById('miniSearchInput').addEventListener('keydown', function(e) {
+            if (e.key === 'Enter') goMiniSearch();
+        });
+
+        // View counter. The original api.countapi.xyz domain is dead (shut
+        // down, SSL expired) — this was why the view counter never showed
+        // anything. Using the actively maintained community replacement
+        // instead. Same request shape, drop-in swap.
         (function() {
             var code = "{{ page.code }}";
-            fetch("https://api.countapi.xyz/hit/arccomic-github-io/" + code)
+            fetch("https://countapi.mileshilliard.com/api/v1/hit/arccomic-github-io_" + code)
                 .then(function(r) { return r.json(); })
                 .then(function(data) {
                     document.getElementById("viewCount").textContent = "👁 " + data.value + " views";

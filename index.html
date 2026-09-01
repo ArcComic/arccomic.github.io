@@ -1,7 +1,13 @@
 ---
-layout: default
+# No 'layout:' key here on purpose — index.html is a complete, self-contained
+# page (own <head>, <style>, <body>) and does not need a wrapper layout.
+# An earlier version referenced 'layout: default', but no _layouts/default.html
+# file was ever created, which caused Jekyll to render broken/unstyled
+# leftover content at the top of the page (the "duplicate blue logo" bug).
+# The empty front matter block below is still required so Jekyll processes
+# the Liquid tags (site.google_verification, site.works, etc.) in this file.
 ---
-<!-- arc-comic-index-version: 3 -->
+<!-- arc-comic-index-version: 4 -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -238,17 +244,6 @@ layout: default
             {% endfor %}
         ];
         const POSTS_PER_PAGE = {{ site.paginate | default: 15 }};
-        let currentSearch = "";
-
-        function applySearch(list) {
-            if (!currentSearch) return list;
-            const q = currentSearch.toLowerCase();
-            return list.filter(w =>
-                w.title.toLowerCase().includes(q) ||
-                w.author.toLowerCase().includes(q) ||
-                (w.tags || []).some(t => t.toLowerCase().includes(q))
-            );
-        }
 
         function applyFilters(list) {
             const fullColorOnly = document.getElementById('filterFullColor').checked;
@@ -292,8 +287,7 @@ layout: default
 
         function renderWorks(page = 1) {
             const sortMode = document.getElementById('sortSelect').value;
-            let list = applySearch(works);
-            list = applyFilters(list);
+            let list = applyFilters(works);
             // Filters section defaults to Most Recent when no explicit sort chosen
             const effectiveSort = sortMode || (isFilterPanelOpen() ? 'recent' : '');
             list = applySort(list, effectiveSort);
@@ -339,13 +333,16 @@ layout: default
             el.addEventListener('change', () => renderWorks(1));
         });
 
-        function runSearch() {
-            currentSearch = document.getElementById('searchInput').value.trim();
-            renderWorks(1);
+        // Search redirects to the dedicated /search/ page (which has its own
+        // URL, own title, and shows only results — no Popular Today section)
+        // instead of filtering in place on the homepage.
+        function goSearch() {
+            const q = document.getElementById('searchInput').value.trim();
+            if (q) window.location.href = '/search/?q=' + encodeURIComponent(q);
         }
-        document.getElementById('searchBtn').addEventListener('click', runSearch);
+        document.getElementById('searchBtn').addEventListener('click', goSearch);
         document.getElementById('searchInput').addEventListener('keydown', (e) => {
-            if (e.key === 'Enter') runSearch();
+            if (e.key === 'Enter') goSearch();
         });
 
         renderPopular();

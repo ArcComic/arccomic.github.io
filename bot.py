@@ -191,7 +191,7 @@ def ensure_jekyll_works_collection():
     return changed
 
 POST_LAYOUT_PATH = os.path.join(WORK_DIR, "_layouts", "post.html")
-POST_LAYOUT_VERSION = 4  # bump when the template below changes materially
+POST_LAYOUT_VERSION = 5  # bump when the template below changes materially
 
 # Two separate Mondiad zones: a Banner zone for the main reading-page slot,
 # and a Native zone for the Similar Comics card (Native blends into content
@@ -300,11 +300,26 @@ POST_LAYOUT_TEMPLATE = f"""<!-- arc-comic-layout-version: {POST_LAYOUT_VERSION} 
             background: var(--bg-card); border: 1px dashed var(--border); border-radius: 12px;
             min-height: 180px; overflow: hidden;
         }}
+        .mini-search {{ display: flex; gap: 8px; margin-bottom: 20px; }}
+        .mini-search input {{
+            flex: 1; padding: 10px 14px; background: var(--bg-card); border: 1px solid var(--border);
+            border-radius: 10px; color: var(--text); font-size: 13px; outline: none;
+        }}
+        .mini-search input:focus {{ border-color: var(--accent); }}
+        .mini-search button {{
+            background: var(--accent); color: #000; border: none; border-radius: 10px;
+            padding: 0 16px; font-weight: 700; font-size: 13px; cursor: pointer;
+        }}
     </style>
 </head>
 <body>
     <div class="container">
         <a href="/" class="logo-link">✨ Arc Comic</a>
+
+        <div class="mini-search">
+            <input type="text" placeholder="Search comics..." id="miniSearchInput">
+            <button id="miniSearchBtn">🔍</button>
+        </div>
 
         <div class="breadcrumb">
             <a href="/">Home</a> ›
@@ -407,12 +422,22 @@ POST_LAYOUT_TEMPLATE = f"""<!-- arc-comic-layout-version: {POST_LAYOUT_VERSION} 
     </div>
 
     <script>
-        // View counter via CountAPI (free, no signup, no server needed).
-        // Namespace scoped to this site's domain so counts don't collide
-        // with other sites using the same free service.
+        function goMiniSearch() {{
+            var q = document.getElementById('miniSearchInput').value.trim();
+            if (q) window.location.href = '/search/?q=' + encodeURIComponent(q);
+        }}
+        document.getElementById('miniSearchBtn').addEventListener('click', goMiniSearch);
+        document.getElementById('miniSearchInput').addEventListener('keydown', function(e) {{
+            if (e.key === 'Enter') goMiniSearch();
+        }});
+
+        // View counter. The original api.countapi.xyz domain is dead (shut
+        // down, SSL expired) — this was why the view counter never showed
+        // anything. Using the actively maintained community replacement
+        // instead. Same request shape, drop-in swap.
         (function() {{
             var code = "{{{{ page.code }}}}";
-            fetch("https://api.countapi.xyz/hit/arccomic-github-io/" + code)
+            fetch("https://countapi.mileshilliard.com/api/v1/hit/arccomic-github-io_" + code)
                 .then(function(r) {{ return r.json(); }})
                 .then(function(data) {{
                     document.getElementById("viewCount").textContent = "👁 " + data.value + " views";
@@ -586,10 +611,16 @@ def ensure_favicon():
 
 # ============== HOMEPAGE (index.html) ==============
 INDEX_HTML_PATH = os.path.join(WORK_DIR, "index.html")
-INDEX_HTML_VERSION = 3  # bump when the template below changes materially
+INDEX_HTML_VERSION = 4  # bump when the template below changes materially
 
 INDEX_HTML_TEMPLATE = f"""---
-layout: default
+# No 'layout:' key here on purpose — index.html is a complete, self-contained
+# page (own <head>, <style>, <body>) and does not need a wrapper layout.
+# An earlier version referenced 'layout: default', but no _layouts/default.html
+# file was ever created, which caused Jekyll to render broken/unstyled
+# leftover content at the top of the page (the "duplicate blue logo" bug).
+# The empty front matter block below is still required so Jekyll processes
+# the Liquid tags (site.google_verification, site.works, etc.) in this file.
 ---
 <!-- arc-comic-index-version: {INDEX_HTML_VERSION} -->
 <!DOCTYPE html>
@@ -828,17 +859,6 @@ layout: default
             {{% endfor %}}
         ];
         const POSTS_PER_PAGE = {{{{ site.paginate | default: 15 }}}};
-        let currentSearch = "";
-
-        function applySearch(list) {{
-            if (!currentSearch) return list;
-            const q = currentSearch.toLowerCase();
-            return list.filter(w =>
-                w.title.toLowerCase().includes(q) ||
-                w.author.toLowerCase().includes(q) ||
-                (w.tags || []).some(t => t.toLowerCase().includes(q))
-            );
-        }}
 
         function applyFilters(list) {{
             const fullColorOnly = document.getElementById('filterFullColor').checked;
@@ -882,8 +902,7 @@ layout: default
 
         function renderWorks(page = 1) {{
             const sortMode = document.getElementById('sortSelect').value;
-            let list = applySearch(works);
-            list = applyFilters(list);
+            let list = applyFilters(works);
             // Filters section defaults to Most Recent when no explicit sort chosen
             const effectiveSort = sortMode || (isFilterPanelOpen() ? 'recent' : '');
             list = applySort(list, effectiveSort);
@@ -929,13 +948,16 @@ layout: default
             el.addEventListener('change', () => renderWorks(1));
         }});
 
-        function runSearch() {{
-            currentSearch = document.getElementById('searchInput').value.trim();
-            renderWorks(1);
+        // Search redirects to the dedicated /search/ page (which has its own
+        // URL, own title, and shows only results — no Popular Today section)
+        // instead of filtering in place on the homepage.
+        function goSearch() {{
+            const q = document.getElementById('searchInput').value.trim();
+            if (q) window.location.href = '/search/?q=' + encodeURIComponent(q);
         }}
-        document.getElementById('searchBtn').addEventListener('click', runSearch);
+        document.getElementById('searchBtn').addEventListener('click', goSearch);
         document.getElementById('searchInput').addEventListener('keydown', (e) => {{
-            if (e.key === 'Enter') runSearch();
+            if (e.key === 'Enter') goSearch();
         }});
 
         renderPopular();
@@ -1079,6 +1101,160 @@ def slugify(text):
     text = re.sub(r"[^a-z0-9\s-]", "", text)
     text = re.sub(r"[\s_-]+", "-", text)
     return text.strip("-")
+
+# ============== SEARCH RESULTS PAGE ==============
+SEARCH_PAGE_PATH = os.path.join(WORK_DIR, "search", "index.html")
+SEARCH_PAGE_VERSION = 1
+
+SEARCH_PAGE_TEMPLATE = f"""---
+---
+<!-- arc-comic-index-version: {SEARCH_PAGE_VERSION} -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg">
+    <title id="pageTitle">Search - Arc Comic</title>
+    <meta name="description" content="Search manga and doujinshi on Arc Comic">
+    <style>
+        :root {{
+            --bg: #0f0f13; --bg-card: #1a1a24; --bg-elevated: #222230;
+            --accent: #f59e0b; --text: #e2e2e8; --text-muted: #8888a0; --border: #2a2a3a;
+        }}
+        * {{ margin: 0; padding: 0; box-sizing: border-box; }}
+        body {{ font-family: 'Segoe UI', system-ui, sans-serif; background: var(--bg); color: var(--text); min-height: 100vh; }}
+        .container {{ max-width: 1200px; margin: 0 auto; padding: 24px; }}
+        .header {{ text-align: center; padding: 30px 20px; border-bottom: 1px solid var(--border); margin-bottom: 30px; }}
+        .header a.logo-link {{ text-decoration: none; }}
+        .header h1 {{
+            font-size: 32px; font-weight: 800;
+            background: linear-gradient(135deg, var(--accent), #f97316);
+            -webkit-background-clip: text; -webkit-text-fill-color: transparent;
+        }}
+        .search-box {{ max-width: 500px; margin: 20px auto 0; display: flex; gap: 8px; position: relative; }}
+        .search-box input {{
+            flex: 1; padding: 14px 20px 14px 48px; background: var(--bg-card); border: 1px solid var(--border);
+            border-radius: 12px; color: var(--text); font-size: 15px; outline: none;
+        }}
+        .search-box input:focus {{ border-color: var(--accent); }}
+        .search-box .search-icon {{ position: absolute; left: 16px; top: 50%; transform: translateY(-50%); font-size: 18px; }}
+        .search-box button {{ background: var(--accent); color: #000; border: none; border-radius: 12px; padding: 0 22px; font-weight: 700; font-size: 14px; cursor: pointer; }}
+        .results-title {{ font-size: 20px; font-weight: 700; margin-bottom: 20px; }}
+        .results-title span {{ color: var(--accent); }}
+        .works-grid {{ display: grid; grid-template-columns: repeat(5, 1fr); gap: 16px; }}
+        .work-card {{
+            background: var(--bg-card); border-radius: 12px; border: 1px solid var(--border);
+            overflow: hidden; text-decoration: none; color: var(--text); transition: transform 0.2s;
+        }}
+        .work-card:hover {{ transform: translateY(-4px); }}
+        .work-card .cover {{ width: 100%; padding-top: 140%; position: relative; background: var(--bg-elevated); }}
+        .work-card .cover img {{ position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover; }}
+        .work-card .info {{ padding: 10px; }}
+        .work-card .info h3 {{ font-size: 13px; font-weight: 600; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }}
+        .work-card .info .meta {{ font-size: 11px; color: var(--text-muted); margin-top: 3px; }}
+        .no-results {{ text-align: center; padding: 60px 20px; color: var(--text-muted); }}
+        @media (max-width: 768px) {{ .works-grid {{ grid-template-columns: repeat(2, 1fr); }} }}
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <a href="/" class="logo-link"><h1>✨ Arc Comic</h1></a>
+            <div class="search-box">
+                <span class="search-icon">🔍</span>
+                <input type="text" placeholder="Search by title, author, or tag..." id="searchInput">
+                <button id="searchBtn">Search</button>
+            </div>
+        </div>
+        <h2 class="results-title" id="resultsTitle">Search Results</h2>
+        <div class="works-grid" id="worksGrid"></div>
+        <div class="no-results" id="noResults" style="display:none;">No comics match your search.</div>
+        {{% include follow_us.html %}}
+    </div>
+    <script>
+        const works = [
+            {{% for post in site.works %}}
+            {{
+                title: "{{{{ post.title | escape }}}}",
+                author: "{{{{ post.author }}}}",
+                cover: "{{{{ post.cover }}}}",
+                rating: "{{{{ post.rating }}}}",
+                tags: {{{{ post.tags | jsonify }}}},
+                url: "{{{{ post.url }}}}"
+            }}{{% unless forloop.last %}},{{% endunless %}}
+            {{% endfor %}}
+        ];
+
+        function getQueryParam(name) {{
+            return new URLSearchParams(window.location.search).get(name) || "";
+        }}
+
+        function runSearch(q) {{
+            document.getElementById('searchInput').value = q;
+            document.getElementById('pageTitle').textContent = q ? `"${{q}}" - Search Results - Arc Comic` : "Search - Arc Comic";
+            document.getElementById('resultsTitle').innerHTML = q
+                ? `Search results for <span>"${{q}}"</span>`
+                : "Search Results";
+
+            if (!q) {{
+                document.getElementById('worksGrid').innerHTML = '';
+                document.getElementById('noResults').style.display = 'block';
+                document.getElementById('noResults').textContent = 'Type something in the search box above.';
+                return;
+            }}
+
+            const query = q.toLowerCase();
+            const results = works.filter(w =>
+                w.title.toLowerCase().includes(query) ||
+                w.author.toLowerCase().includes(query) ||
+                (w.tags || []).some(t => t.toLowerCase().includes(query))
+            );
+
+            const grid = document.getElementById('worksGrid');
+            const noResults = document.getElementById('noResults');
+            if (results.length === 0) {{
+                grid.innerHTML = '';
+                noResults.style.display = 'block';
+                noResults.textContent = 'No comics match your search.';
+            }} else {{
+                noResults.style.display = 'none';
+                grid.innerHTML = results.map(w => `
+                    <a href="${{w.url}}" class="work-card">
+                        <div class="cover"><img src="${{w.cover}}" alt="${{w.title}}"></div>
+                        <div class="info"><h3>${{w.title}}</h3><div class="meta">${{w.author}} • ⭐ ${{w.rating}}</div></div>
+                    </a>
+                `).join('');
+            }}
+        }}
+
+        function goSearch() {{
+            const q = document.getElementById('searchInput').value.trim();
+            window.location.href = '/search/?q=' + encodeURIComponent(q);
+        }}
+        document.getElementById('searchBtn').addEventListener('click', goSearch);
+        document.getElementById('searchInput').addEventListener('keydown', function(e) {{
+            if (e.key === 'Enter') goSearch();
+        }});
+
+        runSearch(getQueryParam('q'));
+    </script>
+</body>
+</html>
+"""
+
+def ensure_search_page():
+    if os.path.exists(SEARCH_PAGE_PATH):
+        with open(SEARCH_PAGE_PATH, 'r', encoding='utf-8') as f:
+            content = f.read()
+        match = re.search(r"arc-comic-index-version:\s*(\d+)", content)
+        if (int(match.group(1)) if match else 0) >= SEARCH_PAGE_VERSION:
+            return False
+    os.makedirs(os.path.dirname(SEARCH_PAGE_PATH), exist_ok=True)
+    with open(SEARCH_PAGE_PATH, 'w', encoding='utf-8') as f:
+        f.write(SEARCH_PAGE_TEMPLATE)
+    print(f"🔧 search/index.html updated to v{SEARCH_PAGE_VERSION}")
+    return True
 
 def regenerate_tag_pages():
     """
@@ -2475,6 +2651,8 @@ if __name__ == "__main__":
         if ensure_index_html():
             needs_push = True
         if ensure_tag_layout():
+            needs_push = True
+        if ensure_search_page():
             needs_push = True
         if not os.path.exists(SOCIAL_LINKS_FILE):
             save_social_links(DEFAULT_SOCIAL_LINKS)
