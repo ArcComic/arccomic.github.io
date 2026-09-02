@@ -1902,7 +1902,11 @@ def generate_indexnow_key():
     return secrets.token_hex(32)
 
 def update_verification_tag(tag_html):
-    """Insert or replace the Google verification meta tag inside index.html's <head>."""
+    """Insert or replace the Google verification meta tag inside index.html's
+    real <head> tag (the HTML one, in the document body — not the word
+    "<head>" that happens to appear inside the front-matter comment at the
+    top of the file, which is what this used to match against).
+    """
     index_path = os.path.join(WORK_DIR, "index.html")
     if not os.path.exists(index_path):
         print("⚠️ index.html not found, cannot inject verification tag")
@@ -1913,18 +1917,73 @@ def update_verification_tag(tag_html):
 
     tag_html = tag_html.strip()
 
+    # Split off the YAML front matter block (--- ... ---) so every
+    # subsequent search/replace only ever touches the real HTML body below
+    # it, never the comment text inside the front matter itself. This is
+    # the fix for a real corruption bug: the old code searched the whole
+    # raw file for the literal substring "<head>", which also matches the
+    # front-matter comment "# page (own <head>, <style>, <body>)..." and
+    # spliced the meta tag into the middle of that comment, breaking the
+    # YAML and failing every GitHub Pages build.
+    fm_match = re.match(r"\A(---\s*\n.*?\n---\s*\n)", html, re.DOTALL)
+    if fm_match:
+        front_matter = fm_match.group(1)
+        body = html[len(front_matter):]
+    else:
+        front_matter = ""
+        body = html
+
     # Remove any existing google-site-verification meta tag first
-    html = re.sub(
+    # (belt-and-suspenders: also strip one if it got left behind inside the
+    # front matter by the old buggy code, so re-saving repairs it).
+    front_matter = re.sub(
         r'\s*<meta[^>]+name=["\']google-site-verification["\'][^>]*>\s*',
-        '\n', html, flags=re.IGNORECASE
+        '\n', front_matter, flags=re.IGNORECASE
+    )
+    body = re.sub(
+        r'\s*<meta[^>]+name=["\']google-site-verification["\'][^>]*>\s*',
+        '\n', body, flags=re.IGNORECASE
     )
 
     if tag_html:
-        if "<head>" in html:
-            html = html.replace("<head>", f"<head>\n    {tag_html}", 1)
+        if "<head>" in body:
+            body = body.replace("<head>", f"<head>\n    {tag_html}", 1)
         else:
-            print("⚠️ No <head> tag found in index.html")
+            print("⚠️ No <head> tag found in index.html body")
             return False
+
+    # Final safety net: if the front matter we're about to write doesn't
+    # actually parse as valid YAML — most likely because the file was
+    # already corrupted by the old version of this function before this
+    # fix existed, and simply stripping the meta tag back out isn't enough
+    # to un-corrupt a comment line it was spliced into — don't write
+    # broken front matter again. Fall back to regenerating index.html from
+    # the known-good template, then inject the tag into that clean copy
+    # instead.
+    fm_inner_match = re.match(r"\A---\s*\n(.*?\n)?---\s*\n", front_matter, re.DOTALL) if front_matter else None
+    front_matter_ok = False
+    if fm_inner_match:
+        try:
+            yaml.safe_load(fm_inner_match.group(1) or "")
+            front_matter_ok = True
+        except yaml.YAMLError:
+            front_matter_ok = False
+    elif not front_matter:
+        front_matter_ok = True  # no front matter block at all is fine here
+
+    if not front_matter_ok:
+        print("⚠️ index.html front matter was corrupted (likely by the old "
+              "verification-tag bug) — regenerating index.html from the "
+              "template before re-applying the verification tag")
+        clean = INDEX_HTML_TEMPLATE
+        clean_fm_match = re.match(r"\A(---\s*\n.*?\n---\s*\n)", clean, re.DOTALL)
+        clean_front_matter = clean_fm_match.group(1) if clean_fm_match else ""
+        clean_body = clean[len(clean_front_matter):]
+        if tag_html and "<head>" in clean_body:
+            clean_body = clean_body.replace("<head>", f"<head>\n    {tag_html}", 1)
+        html = clean_front_matter + clean_body
+    else:
+        html = front_matter + body
 
     with open(index_path, 'w', encoding='utf-8') as f:
         f.write(html)
@@ -2456,10 +2515,23 @@ def _telethon_worker_loop():
                 state = load_backlog_state()
                 found = []
                 scanned = 0
+                logged_samples = 0
                 async for message in c.iter_messages(job["channel"]):
                     scanned += 1
                     text = message.text or message.message or ""
+                    # Temporary diagnostic: the scan has been finding 0
+                    # matches across hundreds of real comic posts, despite
+                    # the same format parsing correctly when copy-pasted
+                    # cleanly. Log the raw text (repr'd, so any invisible
+                    # formatting characters are visible) for the first few
+                    # messages that contain "Code" but still fail to
+                    # parse, so we can see exactly what Telethon is
+                    # actually returning for old messages — remove once
+                    # the root cause is confirmed.
                     fields = parse_post_fields(text)
+                    if not fields and logged_samples < 3 and "code" in text.lower():
+                        print(f"🔬 Sample non-matching message (id={message.id}): {text!r}")
+                        logged_samples += 1
                     if not fields:
                         continue
                     code = fields["code"]
@@ -2630,10 +2702,25 @@ async def handle_channel_post(update: Update, context: ContextTypes.DEFAULT_TYPE
         return
 
     raw_text = msg.caption or msg.text or ""
+
+    # Temporary diagnostic logging: posts have gone silently unprocessed
+    # since 2026-09-01 despite the bot staying alive and Last Message ID
+    # advancing, with no corresponding stats.json entries or errors. Since
+    # a clean copy-pasted version of a real post parses correctly, the
+    # live Telegram delivery must differ from that in some way (formatting
+    # entities, stray characters) that isn't visible without seeing the
+    # raw text as the bot actually receives it. This logs every incoming
+    # channel post's message_id and raw text (repr'd, so hidden/invisible
+    # characters are visible in the log) so the next real post shows us
+    # exactly what's arriving — remove once the root cause is confirmed.
+    print(f"📨 Channel post received (id={msg.message_id}): {raw_text!r}")
+
     fields = parse_post_fields(raw_text)
     if not fields:
         # Not a comic post (sponsor post, announcement, etc.) — ignore
         # silently. This is expected and not an error.
+        print(f"⏭️ Post {msg.message_id} did not match comic format "
+              f"(Code+Author+Categories not all found), skipping")
         return
 
     code = fields["code"]
@@ -2977,6 +3064,7 @@ DASHBOARD_HTML = """
 
             <div id="backlogStatus" style="font-size:13px;color:#8888a0;margin-bottom:14px;">
                 Status: <strong id="backlogStatusText">idle</strong><br>
+                Messages scanned: <strong id="backlogScannedCount">0</strong><br>
                 Found (waiting): <strong id="backlogFoundCount" style="color:#f59e0b;">0</strong><br>
                 Processed so far: <strong id="backlogProcessedCount" style="color:#22c55e;">0</strong><br>
                 Duplicates skipped: <strong id="backlogSkippedCount">0</strong>
@@ -3188,6 +3276,8 @@ DASHBOARD_HTML = """
                 const s = await res.json();
                 const statusText = document.getElementById('backlogStatusText');
                 if (statusText) statusText.textContent = s.status;
+                const scannedEl = document.getElementById('backlogScannedCount');
+                if (scannedEl) scannedEl.textContent = s.total_messages_scanned;
                 const foundEl = document.getElementById('backlogFoundCount');
                 if (foundEl) foundEl.textContent = s.found_count;
                 const procEl = document.getElementById('backlogProcessedCount');

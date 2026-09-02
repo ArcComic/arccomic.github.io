@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "manga"
-work_count: 2
+work_count: 3
 works:
+  - title: 非公开便所
+    author: poncocchan
+    cover: /covers/550398.jpg
+    rating: 4.6
+    date: '2026-09-02'
+    code: 550398
+    url: /works/550398/
   - title: Irodori Kazoku
     author: sugi-g
     cover: /covers/676658.jpg
