@@ -2354,85 +2354,197 @@ def save_backlog_state(state):
     with open(BACKLOG_FILE, 'w') as f:
         json.dump(state, f, indent=2)
 
-_telethon_login_client = None  # holds the in-progress client between request_code and submit_code
+# Telethon's client is bound to whichever asyncio event loop it was
+# connected on. Flask can (and does) service different requests on
+# different worker threads, each with its own event loop — so a client
+# created during /request_code and then touched again during /submit_code
+# on a *different* thread crashes with "asyncio event loop must not
+# change after connection". The fix: run ALL Telethon work (login steps,
+# scanning, batch processing) inside one single dedicated background
+# thread that owns one persistent event loop for the client's entire
+# lifetime. Flask routes never touch the client directly — they only
+# push small job requests onto a thread-safe queue and read results back
+# from another queue.
+import queue as _queue_module
 
-def get_telethon_client(api_id, api_hash):
+_telethon_job_queue = _queue_module.Queue()
+_telethon_result_queue = _queue_module.Queue()
+_telethon_worker_started = False
+_telethon_worker_lock = threading.Lock()
+
+def _telethon_worker_loop():
+    """
+    The one and only thread that ever creates or touches a Telethon
+    client. Runs its own asyncio event loop for the lifetime of the
+    process and processes jobs one at a time from the queue.
+    """
+    import asyncio as _asyncio
+    loop = _asyncio.new_event_loop()
+    _asyncio.set_event_loop(loop)
+
     try:
-        from telethon.sync import TelegramClient
+        from telethon import TelegramClient
+        from telethon.errors import SessionPasswordNeededError
     except ImportError:
         print("📦 Installing Telethon (needed for backlog scanning)...")
         subprocess.run([sys.executable, "-m", "pip", "install", "telethon",
                         "--break-system-packages", "-q"], check=False)
-        from telethon.sync import TelegramClient
-    return TelegramClient(TELETHON_SESSION_PATH, int(api_id), api_hash)
-
-def telethon_request_code(api_id, api_hash, phone):
-    """
-    Step 1 of login. Telethon's client.start() blocks on input() for the
-    code, which has nothing to read from when running in a background
-    thread with no attached terminal — that's exactly what crashed with
-    "EOF when reading a line". This instead explicitly calls
-    send_code_request() and returns immediately, so the dashboard can
-    show a code-entry box instead of the process hanging on a phantom
-    terminal prompt.
-    """
-    global _telethon_login_client
-    client = get_telethon_client(api_id, api_hash)
-    client.connect()
-    if client.is_user_authorized():
-        client.disconnect()
-        return {"status": "already_authorized"}
-    client.send_code_request(phone)
-    _telethon_login_client = client  # kept alive between request and submit
-    return {"status": "code_sent"}
-
-def telethon_submit_code(phone, code, password=None):
-    """Step 2 of login. Completes sign-in with the code the user received
-    in their Telegram app, using the client instance kept alive from
-    telethon_request_code(). Handles the optional 2FA password case too."""
-    global _telethon_login_client
-    if _telethon_login_client is None:
-        return {"status": "error", "message": "No login in progress — request a code first"}
-    try:
+        from telethon import TelegramClient
         from telethon.errors import SessionPasswordNeededError
+
+    client = None  # created lazily once we know api_id/api_hash
+
+    async def ensure_client(api_id, api_hash):
+        nonlocal client
+        if client is None:
+            client = TelegramClient(TELETHON_SESSION_PATH, int(api_id), api_hash, loop=loop)
+        if not client.is_connected():
+            await client.connect()
+        return client
+
+    async def handle_job(job):
+        action = job["action"]
         try:
-            _telethon_login_client.sign_in(phone, code)
-        except SessionPasswordNeededError:
-            if not password:
-                return {"status": "needs_password"}
-            _telethon_login_client.sign_in(password=password)
-        _telethon_login_client.disconnect()
-        _telethon_login_client = None
-        return {"status": "ok"}
-    except Exception as e:
-        return {"status": "error", "message": str(e)}
+            if action == "check_authorized":
+                c = await ensure_client(job["api_id"], job["api_hash"])
+                return {"status": "ok", "authorized": await c.is_user_authorized()}
+
+            elif action == "request_code":
+                c = await ensure_client(job["api_id"], job["api_hash"])
+                if await c.is_user_authorized():
+                    return {"status": "already_authorized"}
+                await c.send_code_request(job["phone"])
+                return {"status": "code_sent"}
+
+            elif action == "submit_code":
+                c = await ensure_client(job["api_id"], job["api_hash"])
+                try:
+                    await c.sign_in(job["phone"], job["code"])
+                except SessionPasswordNeededError:
+                    if not job.get("password"):
+                        return {"status": "needs_password"}
+                    await c.sign_in(password=job["password"])
+                return {"status": "ok"}
+
+            elif action == "scan":
+                c = await ensure_client(job["api_id"], job["api_hash"])
+                state = load_backlog_state()
+                found = []
+                scanned = 0
+                async for message in c.iter_messages(job["channel"]):
+                    scanned += 1
+                    text = message.text or message.message or ""
+                    fields = parse_post_fields(text)
+                    if not fields:
+                        continue
+                    code = fields["code"]
+                    if is_code_already_posted(code) or code in found:
+                        state["skipped_duplicate"] = state.get("skipped_duplicate", 0) + 1
+                        continue
+                    found.append(code)
+                    if scanned % 200 == 0:
+                        print(f"🔍 Scanned {scanned} messages, found {len(found)} new comics so far...")
+                state["found_codes"] = found
+                state["total_messages_scanned"] = scanned
+                state["status"] = "scan_complete"
+                state["last_scan_time"] = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+                save_backlog_state(state)
+                print(f"✅ Backlog scan complete: {scanned} messages scanned, {len(found)} new comics found")
+                return {"status": "ok"}
+
+            elif action == "process_batch":
+                c = await ensure_client(job["api_id"], job["api_hash"])
+                state = load_backlog_state()
+                batch = state["found_codes"][:SCAN_BATCH_SIZE]
+                processed_this_run = 0
+                for code in batch:
+                    if is_code_already_posted(code):
+                        state["found_codes"].remove(code)
+                        continue
+                    target_message = None
+                    async for message in c.iter_messages(job["channel"], search=f"Code: {code}", limit=5):
+                        fields = parse_post_fields(message.text or message.message or "")
+                        if fields and fields["code"] == code:
+                            target_message = message
+                            break
+                    if not target_message:
+                        print(f"⚠️ Could not re-locate message for code {code}, skipping")
+                        state["found_codes"].remove(code)
+                        continue
+                    fields = parse_post_fields(target_message.text or target_message.message or "")
+
+                    async def download_cover_via_telethon(cover_path, msg=target_message, tclient=c):
+                        if msg.photo:
+                            await tclient.download_media(msg.photo, file=cover_path)
+
+                    has_photo = bool(target_message.photo)
+                    success = await stage_comic(
+                        code, fields, target_message.date, target_message.id,
+                        download_cover_via_telethon if has_photo else None
+                    )
+                    state["found_codes"].remove(code)
+                    if success:
+                        state["processed_codes"].append(code)
+                        processed_this_run += 1
+                    save_backlog_state(state)
+                    await _asyncio.sleep(2)
+                print(f"✅ Backlog batch complete: {processed_this_run} comics staged")
+                return {"status": "ok", "processed": processed_this_run}
+
+            return {"status": "error", "message": f"Unknown action: {action}"}
+
+        except Exception as e:
+            return {"status": "error", "message": str(e)}
+
+    async def run():
+        while True:
+            job = await loop.run_in_executor(None, _telethon_job_queue.get)
+            result = await handle_job(job)
+            _telethon_result_queue.put(result)
+
+    loop.run_until_complete(run())
+
+def _ensure_telethon_worker():
+    global _telethon_worker_started
+    with _telethon_worker_lock:
+        if not _telethon_worker_started:
+            threading.Thread(target=_telethon_worker_loop, daemon=True).start()
+            _telethon_worker_started = True
+
+def _telethon_call(action, **kwargs):
+    """Sends one job to the dedicated Telethon thread and blocks (this
+    calling thread only, not the whole app) until it responds. Safe to
+    call from any Flask request thread since the actual client work
+    always happens on the one dedicated worker thread."""
+    _ensure_telethon_worker()
+    job = {"action": action, **kwargs}
+    _telethon_job_queue.put(job)
+    return _telethon_result_queue.get(timeout=120)
 
 def is_telethon_authorized(api_id, api_hash):
+    if not (api_id and api_hash):
+        return False
     if not os.path.exists(TELETHON_SESSION_PATH + ".session"):
         return False
     try:
-        client = get_telethon_client(api_id, api_hash)
-        client.connect()
-        authorized = client.is_user_authorized()
-        client.disconnect()
-        return authorized
+        result = _telethon_call("check_authorized", api_id=api_id, api_hash=api_hash)
+        return result.get("authorized", False)
     except Exception:
         return False
 
+def telethon_request_code(api_id, api_hash, phone):
+    return _telethon_call("request_code", api_id=api_id, api_hash=api_hash, phone=phone)
+
+def telethon_submit_code(api_id, api_hash, phone, code, password=None):
+    return _telethon_call("submit_code", api_id=api_id, api_hash=api_hash,
+                           phone=phone, code=code, password=password)
+
 def run_backlog_scan(api_id, api_hash, phone, channel_username):
     """
-    Runs in its own thread with its own event loop, fully isolated from
-    the python-telegram-bot polling loop. Read-only: only iter_messages().
-    Walks the entire channel history, applies the same parse_post_fields()
-    filter used for live posts, and records every valid, not-yet-posted
-    code into the persistent backlog state file. Does NOT scrape or stage
-    anything itself — that's a separate step (process_backlog_batch),
-    kept separate so a slow/interrupted scan never leaves half-scraped
-    files behind.
-
-    Requires the Telethon session to already be authorized (via the
-    dashboard's request-code/submit-code login flow) — this function
-    itself never blocks on interactive input.
+    Kicks off the scan job on the dedicated Telethon worker thread. This
+    function itself is called from its own throwaway thread (started by
+    the /api/backlog/start_scan route) so the Flask request returns
+    immediately — the actual scan can take minutes for a large channel.
     """
     state = load_backlog_state()
 
@@ -2447,47 +2559,22 @@ def run_backlog_scan(api_id, api_hash, phone, channel_username):
     state["error"] = None
     save_backlog_state(state)
 
-    found = []
-    scanned = 0
-    try:
-        client = get_telethon_client(api_id, api_hash)
-        with client:
-            for message in client.iter_messages(channel_username):
-                scanned += 1
-                text = message.text or message.message or ""
-                fields = parse_post_fields(text)
-                if not fields:
-                    continue
-                code = fields["code"]
-                if is_code_already_posted(code) or code in found:
-                    state["skipped_duplicate"] = state.get("skipped_duplicate", 0) + 1
-                    continue
-                found.append(code)
-                if scanned % 200 == 0:
-                    print(f"🔍 Scanned {scanned} messages, found {len(found)} new comics so far...")
-
-        state["found_codes"] = found
-        state["total_messages_scanned"] = scanned
-        state["status"] = "scan_complete"
-        state["last_scan_time"] = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-        save_backlog_state(state)
-        print(f"✅ Backlog scan complete: {scanned} messages scanned, {len(found)} new comics found")
-
-    except Exception as e:
+    result = _telethon_call("scan", api_id=api_id, api_hash=api_hash, channel=channel_username)
+    if result.get("status") != "ok":
+        state = load_backlog_state()
         state["status"] = "error"
-        state["error"] = str(e)
+        state["error"] = result.get("message", "Unknown error")
         save_backlog_state(state)
-        print(f"❌ Backlog scan failed: {e}")
+        print(f"❌ Backlog scan failed: {result.get('message')}")
 
 def process_backlog_batch():
     """
-    Processes up to SCAN_BATCH_SIZE codes from the scan results: scrapes
-    each from nhentai, downloads its cover from Telegram, stages it into
+    Kicks off batch processing on the dedicated Telethon worker thread —
+    scrapes each code from nhentai, downloads its cover, stages it into
     the normal posting queue (same batching/push system as live posts).
-    Meant to be called repeatedly (e.g. by the dashboard's "Push Now"-
-    style button, or on a timer) until found_codes is empty. Each call is
-    self-contained and safe to interrupt — processed codes are removed
-    from found_codes and appended to processed_codes as they complete, so
+    Meant to be called repeatedly until found_codes is empty. Each call
+    is self-contained and safe to interrupt — the worker removes codes
+    from found_codes and appends to processed_codes as they complete, so
     a crash mid-batch only loses at most the single in-flight item.
     """
     state = load_backlog_state()
@@ -2504,54 +2591,11 @@ def process_backlog_batch():
         print("❌ Telethon session not authorized, cannot process backlog")
         return 0
 
-    batch = state["found_codes"][:SCAN_BATCH_SIZE]
-    processed_this_run = 0
-
-    client = get_telethon_client(api_id, api_hash)
-    with client:
-        for code in batch:
-            if is_code_already_posted(code):
-                # Could have been posted live in the meantime — skip, don't duplicate
-                state["found_codes"].remove(code)
-                continue
-
-            # Find the specific message containing this code, to get its
-            # date/id/photo for staging.
-            target_message = None
-            search_text = f"Code: {code}"
-            for message in client.iter_messages(channel, search=search_text, limit=5):
-                fields = parse_post_fields(message.text or message.message or "")
-                if fields and fields["code"] == code:
-                    target_message = message
-                    break
-
-            if not target_message:
-                print(f"⚠️ Could not re-locate message for code {code}, skipping")
-                state["found_codes"].remove(code)
-                continue
-
-            fields = parse_post_fields(target_message.text or target_message.message or "")
-
-            async def download_cover_via_telethon(cover_path, msg=target_message, tclient=client):
-                if msg.photo:
-                    await tclient.download_media(msg.photo, file=cover_path)
-
-            has_photo = bool(target_message.photo)
-            success = asyncio.run(stage_comic(
-                code, fields, target_message.date, target_message.id,
-                download_cover_via_telethon if has_photo else None
-            ))
-
-            state["found_codes"].remove(code)
-            if success:
-                state["processed_codes"].append(code)
-                processed_this_run += 1
-            save_backlog_state(state)
-
-            time.sleep(2)  # small gap between individual scrapes within a batch
-
-    print(f"✅ Backlog batch complete: {processed_this_run} comics staged")
-    return processed_this_run
+    result = _telethon_call("process_batch", api_id=api_id, api_hash=api_hash, channel=channel)
+    if result.get("status") != "ok":
+        print(f"❌ Backlog batch failed: {result.get('message')}")
+        return 0
+    return result.get("processed", 0)
 
 
 async def handle_channel_post(update: Update, context: ContextTypes.DEFAULT_TYPE):
@@ -3479,10 +3523,14 @@ def api_backlog_submit_code():
     code = data.get("code", "").strip()
     password = data.get("password", "").strip() or None
     cfg = load_config()
+    api_id = cfg.get("telegram_api_id", "")
+    api_hash = cfg.get("telegram_api_hash", "")
     phone = cfg.get("telegram_phone", "")
     if not code:
         return jsonify({"status": "error", "message": "Code required"}), 400
-    result = telethon_submit_code(phone, code, password)
+    if not (api_id and api_hash and phone):
+        return jsonify({"status": "error", "message": "API ID, API Hash, and phone must be set first"}), 400
+    result = telethon_submit_code(api_id, api_hash, phone, code, password)
     return jsonify(result)
 
 @app.route("/api/backlog/start_scan", methods=["POST"])

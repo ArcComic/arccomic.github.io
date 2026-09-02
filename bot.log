@@ -6,293 +6,50 @@
  * Running on http://127.0.0.1:6767
  * Running on http://192.168.0.200:6767
 [33mPress CTRL+C to quit[0m
-192.168.0.201 - - [02/Sep/2026 23:15:41] "GET / HTTP/1.1" 200 -
-192.168.0.201 - - [02/Sep/2026 23:15:44] "GET /api/backlog/status HTTP/1.1" 200 -
-192.168.0.201 - - [02/Sep/2026 23:15:44] "GET /api/social_links HTTP/1.1" 200 -
-192.168.0.201 - - [02/Sep/2026 23:15:45] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
-192.168.0.201 - - [02/Sep/2026 23:15:48] "GET / HTTP/1.1" 200 -
-192.168.0.201 - - [02/Sep/2026 23:15:48] "GET /api/backlog/status HTTP/1.1" 200 -
-192.168.0.201 - - [02/Sep/2026 23:15:48] "GET /api/social_links HTTP/1.1" 200 -
-192.168.0.201 - - [02/Sep/2026 23:15:50] "GET /api/backlog/login_status HTTP/1.1" 200 -
-192.168.0.201 - - [02/Sep/2026 23:15:50] "GET /api/backlog/login_status HTTP/1.1" 200 -
-192.168.0.201 - - [02/Sep/2026 23:15:52] "GET /?setup=1 HTTP/1.1" 200 -
-192.168.0.201 - - [02/Sep/2026 23:15:52] "GET /api/backlog/status HTTP/1.1" 200 -
-192.168.0.201 - - [02/Sep/2026 23:15:52] "GET /api/social_links HTTP/1.1" 200 -
-192.168.0.201 - - [02/Sep/2026 23:15:56] "GET /api/backlog/login_status HTTP/1.1" 200 -
-192.168.0.201 - - [02/Sep/2026 23:15:56] "POST /api/backlog/request_code HTTP/1.1" 200 -
-192.168.0.201 - - [02/Sep/2026 23:16:00] "GET /api/backlog/status HTTP/1.1" 200 -
-192.168.0.201 - - [02/Sep/2026 23:16:02] "GET /api/health HTTP/1.1" 200 -
-192.168.0.201 - - [02/Sep/2026 23:16:03] "GET /api/backlog/status HTTP/1.1" 200 -
-192.168.0.201 - - [02/Sep/2026 23:16:03] "GET /api/health HTTP/1.1" 200 -
-192.168.0.201 - - [02/Sep/2026 23:16:04] "GET /api/backlog/status HTTP/1.1" 200 -
-192.168.0.201 - - [02/Sep/2026 23:16:08] "GET /api/health HTTP/1.1" 200 -
-192.168.0.201 - - [02/Sep/2026 23:16:12] "GET /api/backlog/status HTTP/1.1" 200 -
-192.168.0.201 - - [02/Sep/2026 23:16:18] "GET /api/health HTTP/1.1" 200 -
-192.168.0.201 - - [02/Sep/2026 23:16:20] "GET /api/backlog/status HTTP/1.1" 200 -
-192.168.0.201 - - [02/Sep/2026 23:16:23] "POST /api/backlog/submit_code HTTP/1.1" 200 -
-192.168.0.201 - - [02/Sep/2026 23:16:29] "GET /api/health HTTP/1.1" 200 -
-192.168.0.201 - - [02/Sep/2026 23:16:29] "GET /api/backlog/status HTTP/1.1" 200 -
-192.168.0.201 - - [02/Sep/2026 23:16:31] "POST /api/backlog/request_code HTTP/1.1" 200 -
-192.168.0.201 - - [02/Sep/2026 23:16:37] "GET /api/backlog/status HTTP/1.1" 200 -
-192.168.0.201 - - [02/Sep/2026 23:16:39] "GET /api/health HTTP/1.1" 200 -
-192.168.0.201 - - [02/Sep/2026 23:16:46] "POST /api/backlog/request_code HTTP/1.1" 200 -
-192.168.0.201 - - [02/Sep/2026 23:16:48] "GET /api/backlog/status HTTP/1.1" 200 -
-192.168.0.201 - - [02/Sep/2026 23:16:50] "GET /api/health HTTP/1.1" 200 -
-192.168.0.201 - - [02/Sep/2026 23:16:56] "GET /api/backlog/status HTTP/1.1" 200 -
-192.168.0.201 - - [02/Sep/2026 23:17:00] "GET /api/health HTTP/1.1" 200 -
-192.168.0.201 - - [02/Sep/2026 23:17:04] "GET /api/backlog/status HTTP/1.1" 200 -
-192.168.0.201 - - [02/Sep/2026 23:17:10] "GET /api/health HTTP/1.1" 200 -
-192.168.0.201 - - [02/Sep/2026 23:17:12] "GET /api/backlog/status HTTP/1.1" 200 -
-Unexpected exception in the send loop
-Traceback (most recent call last):
-  File "/data/data/com.termux/files/usr/lib/python3.14/site-packages/telethon/helpers.py", line 429, in get_running_loop
-    return asyncio.get_running_loop()
-           ~~~~~~~~~~~~~~~~~~~~~~~~^^
-RuntimeError: no running event loop
-
-During handling of the above exception, another exception occurred:
-
-Traceback (most recent call last):
-  File "/data/data/com.termux/files/usr/lib/python3.14/site-packages/telethon/helpers.py", line 432, in get_running_loop
-    return asyncio.get_event_loop()
-           ~~~~~~~~~~~~~~~~~~~~~~^^
-  File "/data/data/com.termux/files/usr/lib/python3.14/asyncio/events.py", line 718, in get_event_loop
-    raise RuntimeError('There is no current event loop in thread %r.'
-                       % threading.current_thread().name)
-RuntimeError: There is no current event loop in thread 'Thread-40 (process_request_thread)'.
-
-During handling of the above exception, another exception occurred:
-
-Traceback (most recent call last):
-  File "/data/data/com.termux/files/usr/lib/python3.14/asyncio/queues.py", line 186, in get
-    await getter
-GeneratorExit
-
-During handling of the above exception, another exception occurred:
-
-Traceback (most recent call last):
-  File "/data/data/com.termux/files/usr/lib/python3.14/site-packages/telethon/network/connection/connection.py", line 322, in _send_loop
-    self._send(await self._send_queue.get())
-               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/data/data/com.termux/files/usr/lib/python3.14/asyncio/queues.py", line 188, in get
-    getter.cancel()  # Just in case getter is not done yet.
-    ~~~~~~~~~~~~~^^
-  File "/data/data/com.termux/files/usr/lib/python3.14/asyncio/base_events.py", line 827, in call_soon
-    self._check_closed()
-    ~~~~~~~~~~~~~~~~~~^^
-  File "/data/data/com.termux/files/usr/lib/python3.14/asyncio/base_events.py", line 550, in _check_closed
-    raise RuntimeError('Event loop is closed')
-RuntimeError: Event loop is closed
-Exception ignored while closing generator <coroutine object Connection._send_loop at 0x73d61a8580>:
-Traceback (most recent call last):
-  File "/data/data/com.termux/files/usr/lib/python3.14/socket.py", line 669, in socketpair
-    a, b = _socket.socketpair(family, type, proto)
-RuntimeError: coroutine ignored GeneratorExit
-Task was destroyed but it is pending!
-task: <Task cancelling name='Task-64' coro=<Connection._send_loop() running at /data/data/com.termux/files/usr/lib/python3.14/site-packages/telethon/network/connection/connection.py:332> wait_for=<Future cancelled>>
-Task was destroyed but it is pending!
-task: <Task pending name='Task-65' coro=<Connection._recv_loop() done, defined at /data/data/com.termux/files/usr/lib/python3.14/site-packages/telethon/network/connection/connection.py:334> wait_for=<Future pending cb=[Task.task_wakeup()]>>
-Task was destroyed but it is pending!
-task: <Task pending name='Task-66' coro=<MTProtoSender._send_loop() done, defined at /data/data/com.termux/files/usr/lib/python3.14/site-packages/telethon/network/mtprotosender.py:452> wait_for=<Future pending cb=[Task.task_wakeup()]>>
-Unhandled error while receiving data
-Traceback (most recent call last):
-  File "/data/data/com.termux/files/usr/lib/python3.14/site-packages/telethon/helpers.py", line 429, in get_running_loop
-    return asyncio.get_running_loop()
-           ~~~~~~~~~~~~~~~~~~~~~~~~^^
-RuntimeError: no running event loop
-
-During handling of the above exception, another exception occurred:
-
-Traceback (most recent call last):
-  File "/data/data/com.termux/files/usr/lib/python3.14/site-packages/telethon/helpers.py", line 432, in get_running_loop
-    return asyncio.get_event_loop()
-           ~~~~~~~~~~~~~~~~~~~~~~^^
-  File "/data/data/com.termux/files/usr/lib/python3.14/asyncio/events.py", line 718, in get_event_loop
-    raise RuntimeError('There is no current event loop in thread %r.'
-                       % threading.current_thread().name)
-RuntimeError: There is no current event loop in thread 'Thread-40 (process_request_thread)'.
-
-During handling of the above exception, another exception occurred:
-
-Traceback (most recent call last):
-  File "/data/data/com.termux/files/usr/lib/python3.14/asyncio/queues.py", line 186, in get
-    await getter
-GeneratorExit
-
-During handling of the above exception, another exception occurred:
-
-Traceback (most recent call last):
-  File "/data/data/com.termux/files/usr/lib/python3.14/site-packages/telethon/network/mtprotosender.py", line 513, in _recv_loop
-    body = await self._connection.recv()
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/data/data/com.termux/files/usr/lib/python3.14/site-packages/telethon/network/connection/connection.py", line 308, in recv
-    result, err = await self._recv_queue.get()
-                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/data/data/com.termux/files/usr/lib/python3.14/asyncio/queues.py", line 188, in get
-    getter.cancel()  # Just in case getter is not done yet.
-    ~~~~~~~~~~~~~^^
-  File "/data/data/com.termux/files/usr/lib/python3.14/asyncio/base_events.py", line 827, in call_soon
-    self._check_closed()
-    ~~~~~~~~~~~~~~~~~~^^
-  File "/data/data/com.termux/files/usr/lib/python3.14/asyncio/base_events.py", line 550, in _check_closed
-    raise RuntimeError('Event loop is closed')
-RuntimeError: Event loop is closed
-Task was destroyed but it is pending!
-task: <Task pending name='Task-67' coro=<MTProtoSender._recv_loop() done, defined at /data/data/com.termux/files/usr/lib/python3.14/site-packages/telethon/network/mtprotosender.py:503> wait_for=<Future cancelled>>
-Fatal error handling updates (this is a bug in Telethon v1.44.0, please report it)
-Traceback (most recent call last):
-  File "/data/data/com.termux/files/usr/lib/python3.14/site-packages/telethon/helpers.py", line 429, in get_running_loop
-    return asyncio.get_running_loop()
-           ~~~~~~~~~~~~~~~~~~~~~~~~^^
-RuntimeError: no running event loop
-
-During handling of the above exception, another exception occurred:
-
-Traceback (most recent call last):
-  File "/data/data/com.termux/files/usr/lib/python3.14/site-packages/telethon/helpers.py", line 432, in get_running_loop
-    return asyncio.get_event_loop()
-           ~~~~~~~~~~~~~~~~~~~~~~^^
-  File "/data/data/com.termux/files/usr/lib/python3.14/asyncio/events.py", line 718, in get_event_loop
-    raise RuntimeError('There is no current event loop in thread %r.'
-                       % threading.current_thread().name)
-RuntimeError: There is no current event loop in thread 'Thread-40 (process_request_thread)'.
-
-During handling of the above exception, another exception occurred:
-
-Traceback (most recent call last):
-  File "/data/data/com.termux/files/usr/lib/python3.14/asyncio/queues.py", line 186, in get
-    await getter
-GeneratorExit
-
-During handling of the above exception, another exception occurred:
-
-Traceback (most recent call last):
-  File "/data/data/com.termux/files/usr/lib/python3.14/site-packages/telethon/client/updates.py", line 485, in _update_loop
-    updates = await asyncio.wait_for(self._updates_queue.get(), deadline_delay)
-              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/data/data/com.termux/files/usr/lib/python3.14/asyncio/tasks.py", line 488, in wait_for
-    return await fut
-           ^^^^^^^^^
-  File "/data/data/com.termux/files/usr/lib/python3.14/asyncio/queues.py", line 188, in get
-    getter.cancel()  # Just in case getter is not done yet.
-    ~~~~~~~~~~~~~^^
-  File "/data/data/com.termux/files/usr/lib/python3.14/asyncio/base_events.py", line 827, in call_soon
-    self._check_closed()
-    ~~~~~~~~~~~~~~~~~~^^
-  File "/data/data/com.termux/files/usr/lib/python3.14/asyncio/base_events.py", line 550, in _check_closed
-    raise RuntimeError('Event loop is closed')
-RuntimeError: Event loop is closed
-Task exception was never retrieved
-future: <Task finished name='Task-89' coro=<MTProtoSender._reconnect() done, defined at /data/data/com.termux/files/usr/lib/python3.14/site-packages/telethon/network/mtprotosender.py:354> exception=RuntimeError('Event loop is closed')>
-Traceback (most recent call last):
-  File "/data/data/com.termux/files/usr/lib/python3.14/site-packages/telethon/helpers.py", line 429, in get_running_loop
-    return asyncio.get_running_loop()
-           ~~~~~~~~~~~~~~~~~~~~~~~~^^
-RuntimeError: no running event loop
-
-During handling of the above exception, another exception occurred:
-
-Traceback (most recent call last):
-  File "/data/data/com.termux/files/usr/lib/python3.14/site-packages/telethon/helpers.py", line 432, in get_running_loop
-    return asyncio.get_event_loop()
-           ~~~~~~~~~~~~~~~~~~~~~~^^
-  File "/data/data/com.termux/files/usr/lib/python3.14/asyncio/events.py", line 718, in get_event_loop
-    raise RuntimeError('There is no current event loop in thread %r.'
-                       % threading.current_thread().name)
-RuntimeError: There is no current event loop in thread 'Thread-40 (process_request_thread)'.
-
-During handling of the above exception, another exception occurred:
-
-Traceback (most recent call last):
-  File "/data/data/com.termux/files/usr/lib/python3.14/asyncio/queues.py", line 186, in get
-    await getter
-GeneratorExit
-
-During handling of the above exception, another exception occurred:
-
-Traceback (most recent call last):
-  File "/data/data/com.termux/files/usr/lib/python3.14/site-packages/telethon/client/updates.py", line 485, in _update_loop
-    updates = await asyncio.wait_for(self._updates_queue.get(), deadline_delay)
-              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/data/data/com.termux/files/usr/lib/python3.14/asyncio/tasks.py", line 488, in wait_for
-    return await fut
-           ^^^^^^^^^
-  File "/data/data/com.termux/files/usr/lib/python3.14/asyncio/queues.py", line 188, in get
-    getter.cancel()  # Just in case getter is not done yet.
-    ~~~~~~~~~~~~~^^
-  File "/data/data/com.termux/files/usr/lib/python3.14/asyncio/base_events.py", line 827, in call_soon
-    self._check_closed()
-    ~~~~~~~~~~~~~~~~~~^^
-  File "/data/data/com.termux/files/usr/lib/python3.14/asyncio/base_events.py", line 550, in _check_closed
-    raise RuntimeError('Event loop is closed')
-RuntimeError: Event loop is closed
-
-During handling of the above exception, another exception occurred:
-
-Traceback (most recent call last):
-  File "/data/data/com.termux/files/usr/lib/python3.14/site-packages/telethon/network/mtprotosender.py", line 361, in _reconnect
-    await helpers._cancel(
-    ...<3 lines>...
-    )
-  File "/data/data/com.termux/files/usr/lib/python3.14/site-packages/telethon/helpers.py", line 174, in _cancel
-    task.cancel()
-    ~~~~~~~~~~~^^
-  File "/data/data/com.termux/files/usr/lib/python3.14/asyncio/base_events.py", line 827, in call_soon
-    self._check_closed()
-    ~~~~~~~~~~~~~~~~~~^^
-  File "/data/data/com.termux/files/usr/lib/python3.14/asyncio/base_events.py", line 550, in _check_closed
-    raise RuntimeError('Event loop is closed')
-RuntimeError: Event loop is closed
-Exception ignored while closing generator <coroutine object UpdateMethods._update_loop at 0x73d67d9900>:
-Traceback (most recent call last):
-  File "/data/data/com.termux/files/usr/lib/python3.14/site-packages/telethon/client/updates.py", line 505, in _update_loop
-    await self.disconnect()
-TypeError: 'NoneType' object can't be awaited
-Task was destroyed but it is pending!
-task: <Task pending name='Task-68' coro=<UpdateMethods._update_loop() done, defined at /data/data/com.termux/files/usr/lib/python3.14/site-packages/telethon/client/updates.py:267> wait_for=<Future cancelled>>
-Task was destroyed but it is pending!
-task: <Task pending name='Task-69' coro=<UpdateMethods._keepalive_loop() done, defined at /data/data/com.termux/files/usr/lib/python3.14/site-packages/telethon/client/updates.py:516> wait_for=<Future pending cb=[shield.<locals>._outer_done_callback() at /data/data/com.termux/files/usr/lib/python3.14/asyncio/tasks.py:993, Task.task_wakeup()]>>
-192.168.0.201 - - [02/Sep/2026 23:17:13] "POST /api/backlog/submit_code HTTP/1.1" 200 -
-192.168.0.201 - - [02/Sep/2026 23:17:20] "GET /api/health HTTP/1.1" 200 -
-192.168.0.201 - - [02/Sep/2026 23:17:20] "GET /api/backlog/status HTTP/1.1" 200 -
-192.168.0.201 - - [02/Sep/2026 23:17:28] "GET /api/backlog/status HTTP/1.1" 200 -
-192.168.0.201 - - [02/Sep/2026 23:17:30] "GET /api/health HTTP/1.1" 200 -
-192.168.0.201 - - [02/Sep/2026 23:17:36] "GET /api/backlog/status HTTP/1.1" 200 -
-192.168.0.201 - - [02/Sep/2026 23:17:40] "GET /api/health HTTP/1.1" 200 -
-192.168.0.201 - - [02/Sep/2026 23:17:44] "GET /api/backlog/status HTTP/1.1" 200 -
-192.168.0.201 - - [02/Sep/2026 23:17:50] "GET /api/health HTTP/1.1" 200 -
-192.168.0.201 - - [02/Sep/2026 23:17:52] "GET /api/backlog/status HTTP/1.1" 200 -
-192.168.0.201 - - [02/Sep/2026 23:18:00] "GET /api/health HTTP/1.1" 200 -
-192.168.0.201 - - [02/Sep/2026 23:18:00] "GET /api/backlog/status HTTP/1.1" 200 -
-192.168.0.201 - - [02/Sep/2026 23:18:08] "GET /api/backlog/status HTTP/1.1" 200 -
-192.168.0.201 - - [02/Sep/2026 23:18:10] "GET /api/health HTTP/1.1" 200 -
-192.168.0.201 - - [02/Sep/2026 23:18:16] "GET /api/backlog/status HTTP/1.1" 200 -
-192.168.0.201 - - [02/Sep/2026 23:18:20] "GET /api/health HTTP/1.1" 200 -
-192.168.0.201 - - [02/Sep/2026 23:18:24] "GET /api/backlog/status HTTP/1.1" 200 -
-192.168.0.201 - - [02/Sep/2026 23:18:30] "GET /api/health HTTP/1.1" 200 -
-192.168.0.201 - - [02/Sep/2026 23:18:33] "GET /api/backlog/status HTTP/1.1" 200 -
-192.168.0.201 - - [02/Sep/2026 23:18:40] "GET /api/health HTTP/1.1" 200 -
-192.168.0.201 - - [02/Sep/2026 23:18:40] "GET /api/backlog/status HTTP/1.1" 200 -
-192.168.0.201 - - [02/Sep/2026 23:18:48] "GET /api/backlog/status HTTP/1.1" 200 -
-192.168.0.201 - - [02/Sep/2026 23:18:50] "GET /api/health HTTP/1.1" 200 -
-192.168.0.201 - - [02/Sep/2026 23:18:56] "GET /api/backlog/status HTTP/1.1" 200 -
-192.168.0.201 - - [02/Sep/2026 23:19:00] "GET /api/health HTTP/1.1" 200 -
-192.168.0.201 - - [02/Sep/2026 23:19:04] "GET /api/backlog/status HTTP/1.1" 200 -
-192.168.0.201 - - [02/Sep/2026 23:19:10] "GET /api/health HTTP/1.1" 200 -
-192.168.0.201 - - [02/Sep/2026 23:19:12] "GET /api/backlog/status HTTP/1.1" 200 -
-192.168.0.201 - - [02/Sep/2026 23:19:21] "GET /api/health HTTP/1.1" 200 -
-192.168.0.201 - - [02/Sep/2026 23:19:21] "GET /api/backlog/status HTTP/1.1" 200 -
-192.168.0.201 - - [02/Sep/2026 23:19:28] "GET /api/backlog/status HTTP/1.1" 200 -
-192.168.0.201 - - [02/Sep/2026 23:19:30] "GET /api/health HTTP/1.1" 200 -
-192.168.0.201 - - [02/Sep/2026 23:19:36] "GET /api/backlog/status HTTP/1.1" 200 -
-192.168.0.201 - - [02/Sep/2026 23:19:41] "GET /api/health HTTP/1.1" 200 -
-192.168.0.201 - - [02/Sep/2026 23:19:44] "GET /api/backlog/status HTTP/1.1" 200 -
-192.168.0.201 - - [02/Sep/2026 23:19:50] "GET /api/health HTTP/1.1" 200 -
-192.168.0.201 - - [02/Sep/2026 23:19:52] "GET /api/backlog/status HTTP/1.1" 200 -
-192.168.0.201 - - [02/Sep/2026 23:20:01] "GET /api/health HTTP/1.1" 200 -
-192.168.0.201 - - [02/Sep/2026 23:20:01] "GET /api/backlog/status HTTP/1.1" 200 -
-192.168.0.201 - - [02/Sep/2026 23:20:09] "GET /api/backlog/status HTTP/1.1" 200 -
-192.168.0.201 - - [02/Sep/2026 23:20:10] "GET /api/health HTTP/1.1" 200 -
-192.168.0.201 - - [02/Sep/2026 23:20:16] "GET /api/backlog/status HTTP/1.1" 200 -
-192.168.0.201 - - [02/Sep/2026 23:20:20] "GET /api/health HTTP/1.1" 200 -
-192.168.0.201 - - [02/Sep/2026 23:20:22] "POST /save HTTP/1.1" 200 -
+192.168.0.201 - - [02/Sep/2026 23:27:32] "GET / HTTP/1.1" 200 -
+192.168.0.201 - - [02/Sep/2026 23:27:33] "GET /api/backlog/status HTTP/1.1" 200 -
+192.168.0.201 - - [02/Sep/2026 23:27:33] "GET /api/social_links HTTP/1.1" 200 -
+192.168.0.201 - - [02/Sep/2026 23:27:36] "GET /api/backlog/login_status HTTP/1.1" 200 -
+192.168.0.201 - - [02/Sep/2026 23:27:37] "POST /api/backlog/request_code HTTP/1.1" 200 -
+192.168.0.201 - - [02/Sep/2026 23:27:41] "GET /api/backlog/status HTTP/1.1" 200 -
+192.168.0.201 - - [02/Sep/2026 23:27:43] "GET /api/health HTTP/1.1" 200 -
+192.168.0.201 - - [02/Sep/2026 23:27:49] "GET /api/backlog/status HTTP/1.1" 200 -
+192.168.0.201 - - [02/Sep/2026 23:27:53] "GET /api/health HTTP/1.1" 200 -
+192.168.0.201 - - [02/Sep/2026 23:27:57] "GET /api/backlog/status HTTP/1.1" 200 -
+192.168.0.201 - - [02/Sep/2026 23:28:03] "GET /api/health HTTP/1.1" 200 -
+192.168.0.201 - - [02/Sep/2026 23:28:04] "GET /?setup=1 HTTP/1.1" 200 -
+192.168.0.201 - - [02/Sep/2026 23:28:04] "GET /api/backlog/login_status HTTP/1.1" 200 -
+192.168.0.201 - - [02/Sep/2026 23:28:04] "GET /api/backlog/status HTTP/1.1" 200 -
+192.168.0.201 - - [02/Sep/2026 23:28:04] "GET /api/social_links HTTP/1.1" 200 -
+192.168.0.201 - - [02/Sep/2026 23:28:13] "GET /api/backlog/status HTTP/1.1" 200 -
+192.168.0.201 - - [02/Sep/2026 23:28:15] "GET /api/health HTTP/1.1" 200 -
+192.168.0.201 - - [02/Sep/2026 23:28:17] "POST /api/backlog/request_code HTTP/1.1" 200 -
+192.168.0.201 - - [02/Sep/2026 23:28:20] "GET /api/backlog/status HTTP/1.1" 200 -
+192.168.0.201 - - [02/Sep/2026 23:28:25] "GET /api/health HTTP/1.1" 200 -
+192.168.0.201 - - [02/Sep/2026 23:28:29] "GET /api/backlog/status HTTP/1.1" 200 -
+192.168.0.201 - - [02/Sep/2026 23:28:34] "GET /api/health HTTP/1.1" 200 -
+192.168.0.201 - - [02/Sep/2026 23:28:36] "GET /api/backlog/status HTTP/1.1" 200 -
+192.168.0.201 - - [02/Sep/2026 23:28:45] "GET /api/health HTTP/1.1" 200 -
+192.168.0.201 - - [02/Sep/2026 23:28:45] "GET /api/backlog/status HTTP/1.1" 200 -
+192.168.0.201 - - [02/Sep/2026 23:28:53] "GET /api/backlog/status HTTP/1.1" 200 -
+192.168.0.201 - - [02/Sep/2026 23:28:54] "GET /api/health HTTP/1.1" 200 -
+192.168.0.201 - - [02/Sep/2026 23:29:00] "GET /api/backlog/status HTTP/1.1" 200 -
+192.168.0.201 - - [02/Sep/2026 23:29:05] "GET /api/health HTTP/1.1" 200 -
+192.168.0.201 - - [02/Sep/2026 23:29:08] "GET /api/backlog/status HTTP/1.1" 200 -
+192.168.0.201 - - [02/Sep/2026 23:29:14] "GET /api/health HTTP/1.1" 200 -
+192.168.0.201 - - [02/Sep/2026 23:29:17] "GET /api/backlog/status HTTP/1.1" 200 -
+192.168.0.201 - - [02/Sep/2026 23:29:24] "GET /api/health HTTP/1.1" 200 -
+192.168.0.201 - - [02/Sep/2026 23:29:24] "GET /api/backlog/status HTTP/1.1" 200 -
+192.168.0.201 - - [02/Sep/2026 23:29:32] "GET /api/backlog/status HTTP/1.1" 200 -
+192.168.0.201 - - [02/Sep/2026 23:29:35] "GET /api/health HTTP/1.1" 200 -
+192.168.0.201 - - [02/Sep/2026 23:29:41] "GET /api/backlog/status HTTP/1.1" 200 -
+192.168.0.201 - - [02/Sep/2026 23:29:44] "GET /api/health HTTP/1.1" 200 -
+192.168.0.201 - - [02/Sep/2026 23:29:49] "GET /api/backlog/status HTTP/1.1" 200 -
+192.168.0.201 - - [02/Sep/2026 23:29:55] "GET /api/health HTTP/1.1" 200 -
+192.168.0.201 - - [02/Sep/2026 23:29:56] "GET /api/backlog/status HTTP/1.1" 200 -
+192.168.0.201 - - [02/Sep/2026 23:30:05] "GET /api/health HTTP/1.1" 200 -
+192.168.0.201 - - [02/Sep/2026 23:30:05] "GET /api/backlog/status HTTP/1.1" 200 -
+192.168.0.201 - - [02/Sep/2026 23:30:13] "GET /api/backlog/status HTTP/1.1" 200 -
+192.168.0.201 - - [02/Sep/2026 23:30:15] "GET /api/health HTTP/1.1" 200 -
+192.168.0.201 - - [02/Sep/2026 23:30:20] "GET /api/backlog/status HTTP/1.1" 200 -
+192.168.0.201 - - [02/Sep/2026 23:30:24] "GET /api/health HTTP/1.1" 200 -
