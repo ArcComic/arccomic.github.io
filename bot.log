@@ -1,0 +1,94 @@
+🔧 _config.yml updated: added 'works'/'tags'/'artists' collections so pages build correctly
+🔧 _layouts/post.html updated to v6 (clean layout, no emoji tags, proper Yes/No labels)
+🔧 index.html updated to v6 (favicon, sort/filter toolbar, Latest Upload, working search)
+🔧 _layouts/tag.html updated to v2
+🔧 _layouts/artist.html updated to v1
+🔧 search/index.html updated to v2
+🔧 Regenerated 9 artist pages
+✅ Pushed work #config
+🌐 Dashboard running at http://localhost:6767
+🤖 Starting Telegram bot...
+ * Serving Flask app 'bot'
+ * Debug mode: off
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:6767
+ * Running on http://192.168.0.200:6767
+[33mPress CTRL+C to quit[0m
+192.168.0.201 - - [02/Sep/2026 12:31:04] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+192.168.0.201 - - [02/Sep/2026 12:31:11] "GET /?setup=1 HTTP/1.1" 200 -
+192.168.0.201 - - [02/Sep/2026 12:31:11] "GET /api/backlog/status HTTP/1.1" 200 -
+192.168.0.201 - - [02/Sep/2026 12:31:11] "GET /api/social_links HTTP/1.1" 200 -
+192.168.0.201 - - [02/Sep/2026 12:31:19] "GET /api/backlog/status HTTP/1.1" 200 -
+192.168.0.201 - - [02/Sep/2026 12:31:21] "GET /api/health HTTP/1.1" 200 -
+192.168.0.201 - - [02/Sep/2026 12:31:28] "GET /api/backlog/status HTTP/1.1" 200 -
+192.168.0.201 - - [02/Sep/2026 12:31:31] "GET /api/health HTTP/1.1" 200 -
+192.168.0.201 - - [02/Sep/2026 12:31:35] "GET /api/backlog/status HTTP/1.1" 200 -
+192.168.0.201 - - [02/Sep/2026 12:31:41] "GET /api/health HTTP/1.1" 200 -
+192.168.0.201 - - [02/Sep/2026 12:31:43] "GET /api/backlog/status HTTP/1.1" 200 -
+192.168.0.201 - - [02/Sep/2026 12:31:51] "GET /api/health HTTP/1.1" 200 -
+192.168.0.201 - - [02/Sep/2026 12:31:51] "GET /api/backlog/status HTTP/1.1" 200 -
+192.168.0.201 - - [02/Sep/2026 12:31:59] "GET /api/backlog/status HTTP/1.1" 200 -
+192.168.0.201 - - [02/Sep/2026 12:32:01] "GET /api/health HTTP/1.1" 200 -
+192.168.0.201 - - [02/Sep/2026 12:32:07] "GET /api/backlog/status HTTP/1.1" 200 -
+192.168.0.201 - - [02/Sep/2026 12:32:11] "GET /api/health HTTP/1.1" 200 -
+192.168.0.201 - - [02/Sep/2026 12:32:15] "GET /api/backlog/status HTTP/1.1" 200 -
+192.168.0.201 - - [02/Sep/2026 12:32:21] "GET /api/health HTTP/1.1" 200 -
+192.168.0.201 - - [02/Sep/2026 12:32:23] "GET /api/backlog/status HTTP/1.1" 200 -
+192.168.0.201 - - [02/Sep/2026 12:32:31] "GET /api/backlog/status HTTP/1.1" 200 -
+192.168.0.201 - - [02/Sep/2026 12:32:31] "GET /api/health HTTP/1.1" 200 -
+192.168.0.201 - - [02/Sep/2026 12:32:39] "GET /api/backlog/status HTTP/1.1" 200 -
+192.168.0.201 - - [02/Sep/2026 12:32:41] "GET /api/health HTTP/1.1" 200 -
+192.168.0.201 - - [02/Sep/2026 12:32:47] "GET /api/backlog/status HTTP/1.1" 200 -
+192.168.0.201 - - [02/Sep/2026 12:32:51] "GET /api/health HTTP/1.1" 200 -
+192.168.0.201 - - [02/Sep/2026 12:32:55] "GET /api/backlog/status HTTP/1.1" 200 -
+192.168.0.201 - - [02/Sep/2026 12:33:01] "GET /api/health HTTP/1.1" 200 -
+192.168.0.201 - - [02/Sep/2026 12:33:03] "GET /api/backlog/status HTTP/1.1" 200 -
+192.168.0.201 - - [02/Sep/2026 12:33:11] "[31m[1mPOST /api/backlog/start_scan HTTP/1.1[0m" 400 -
+192.168.0.201 - - [02/Sep/2026 12:33:11] "GET /api/health HTTP/1.1" 200 -
+192.168.0.201 - - [02/Sep/2026 12:33:11] "GET /api/backlog/status HTTP/1.1" 200 -
+192.168.0.201 - - [02/Sep/2026 12:33:19] "GET /api/backlog/status HTTP/1.1" 200 -
+192.168.0.201 - - [02/Sep/2026 12:33:21] "GET /api/health HTTP/1.1" 200 -
+192.168.0.201 - - [02/Sep/2026 12:33:28] "GET /api/backlog/status HTTP/1.1" 200 -
+192.168.0.201 - - [02/Sep/2026 12:33:32] "GET /api/health HTTP/1.1" 200 -
+192.168.0.201 - - [02/Sep/2026 12:33:35] "GET /api/backlog/status HTTP/1.1" 200 -
+192.168.0.201 - - [02/Sep/2026 12:33:41] "GET /api/health HTTP/1.1" 200 -
+192.168.0.201 - - [02/Sep/2026 12:33:43] "GET /api/backlog/status HTTP/1.1" 200 -
+192.168.0.201 - - [02/Sep/2026 12:33:51] "GET /api/health HTTP/1.1" 200 -
+192.168.0.201 - - [02/Sep/2026 12:33:51] "GET /api/backlog/status HTTP/1.1" 200 -
+192.168.0.201 - - [02/Sep/2026 12:33:59] "GET /api/backlog/status HTTP/1.1" 200 -
+192.168.0.201 - - [02/Sep/2026 12:34:01] "GET /api/health HTTP/1.1" 200 -
+192.168.0.201 - - [02/Sep/2026 12:34:07] "GET /api/backlog/status HTTP/1.1" 200 -
+192.168.0.201 - - [02/Sep/2026 12:34:11] "GET /api/health HTTP/1.1" 200 -
+192.168.0.201 - - [02/Sep/2026 12:34:15] "GET /api/backlog/status HTTP/1.1" 200 -
+192.168.0.201 - - [02/Sep/2026 12:34:21] "GET /api/health HTTP/1.1" 200 -
+192.168.0.201 - - [02/Sep/2026 12:34:23] "GET /api/backlog/status HTTP/1.1" 200 -
+192.168.0.201 - - [02/Sep/2026 12:34:31] "GET /api/health HTTP/1.1" 200 -
+192.168.0.201 - - [02/Sep/2026 12:34:31] "GET /api/backlog/status HTTP/1.1" 200 -
+192.168.0.201 - - [02/Sep/2026 12:34:40] "GET /api/backlog/status HTTP/1.1" 200 -
+192.168.0.201 - - [02/Sep/2026 12:34:41] "GET /api/health HTTP/1.1" 200 -
+192.168.0.201 - - [02/Sep/2026 12:34:47] "GET /api/backlog/status HTTP/1.1" 200 -
+192.168.0.201 - - [02/Sep/2026 12:34:51] "GET /api/health HTTP/1.1" 200 -
+192.168.0.201 - - [02/Sep/2026 12:34:55] "GET /api/backlog/status HTTP/1.1" 200 -
+192.168.0.201 - - [02/Sep/2026 12:35:01] "GET /api/health HTTP/1.1" 200 -
+192.168.0.201 - - [02/Sep/2026 12:35:03] "GET /api/backlog/status HTTP/1.1" 200 -
+192.168.0.201 - - [02/Sep/2026 12:35:11] "GET /api/health HTTP/1.1" 200 -
+192.168.0.201 - - [02/Sep/2026 12:35:11] "GET /api/backlog/status HTTP/1.1" 200 -
+192.168.0.201 - - [02/Sep/2026 12:35:19] "GET /api/backlog/status HTTP/1.1" 200 -
+192.168.0.201 - - [02/Sep/2026 12:35:21] "GET /api/health HTTP/1.1" 200 -
+192.168.0.201 - - [02/Sep/2026 12:35:27] "GET /api/backlog/status HTTP/1.1" 200 -
+192.168.0.201 - - [02/Sep/2026 12:35:31] "GET /api/health HTTP/1.1" 200 -
+192.168.0.201 - - [02/Sep/2026 12:35:35] "GET /api/backlog/status HTTP/1.1" 200 -
+192.168.0.201 - - [02/Sep/2026 12:35:41] "GET /api/health HTTP/1.1" 200 -
+192.168.0.201 - - [02/Sep/2026 12:35:43] "GET /api/backlog/status HTTP/1.1" 200 -
+192.168.0.201 - - [02/Sep/2026 12:35:51] "GET /api/health HTTP/1.1" 200 -
+192.168.0.201 - - [02/Sep/2026 12:35:51] "GET /api/backlog/status HTTP/1.1" 200 -
+192.168.0.201 - - [02/Sep/2026 12:35:59] "GET /api/backlog/status HTTP/1.1" 200 -
+192.168.0.201 - - [02/Sep/2026 12:36:01] "GET /api/health HTTP/1.1" 200 -
+192.168.0.201 - - [02/Sep/2026 12:36:07] "GET /api/backlog/status HTTP/1.1" 200 -
+192.168.0.201 - - [02/Sep/2026 12:36:11] "GET /api/health HTTP/1.1" 200 -
+192.168.0.201 - - [02/Sep/2026 12:36:15] "GET /api/backlog/status HTTP/1.1" 200 -
+192.168.0.201 - - [02/Sep/2026 12:36:21] "GET /api/health HTTP/1.1" 200 -
+192.168.0.201 - - [02/Sep/2026 12:36:24] "GET /api/backlog/status HTTP/1.1" 200 -
+192.168.0.201 - - [02/Sep/2026 12:36:31] "GET /api/health HTTP/1.1" 200 -
+192.168.0.201 - - [02/Sep/2026 12:36:32] "GET /api/backlog/status HTTP/1.1" 200 -
