@@ -2354,6 +2354,71 @@ def save_backlog_state(state):
     with open(BACKLOG_FILE, 'w') as f:
         json.dump(state, f, indent=2)
 
+_telethon_login_client = None  # holds the in-progress client between request_code and submit_code
+
+def get_telethon_client(api_id, api_hash):
+    try:
+        from telethon.sync import TelegramClient
+    except ImportError:
+        print("📦 Installing Telethon (needed for backlog scanning)...")
+        subprocess.run([sys.executable, "-m", "pip", "install", "telethon",
+                        "--break-system-packages", "-q"], check=False)
+        from telethon.sync import TelegramClient
+    return TelegramClient(TELETHON_SESSION_PATH, int(api_id), api_hash)
+
+def telethon_request_code(api_id, api_hash, phone):
+    """
+    Step 1 of login. Telethon's client.start() blocks on input() for the
+    code, which has nothing to read from when running in a background
+    thread with no attached terminal — that's exactly what crashed with
+    "EOF when reading a line". This instead explicitly calls
+    send_code_request() and returns immediately, so the dashboard can
+    show a code-entry box instead of the process hanging on a phantom
+    terminal prompt.
+    """
+    global _telethon_login_client
+    client = get_telethon_client(api_id, api_hash)
+    client.connect()
+    if client.is_user_authorized():
+        client.disconnect()
+        return {"status": "already_authorized"}
+    client.send_code_request(phone)
+    _telethon_login_client = client  # kept alive between request and submit
+    return {"status": "code_sent"}
+
+def telethon_submit_code(phone, code, password=None):
+    """Step 2 of login. Completes sign-in with the code the user received
+    in their Telegram app, using the client instance kept alive from
+    telethon_request_code(). Handles the optional 2FA password case too."""
+    global _telethon_login_client
+    if _telethon_login_client is None:
+        return {"status": "error", "message": "No login in progress — request a code first"}
+    try:
+        from telethon.errors import SessionPasswordNeededError
+        try:
+            _telethon_login_client.sign_in(phone, code)
+        except SessionPasswordNeededError:
+            if not password:
+                return {"status": "needs_password"}
+            _telethon_login_client.sign_in(password=password)
+        _telethon_login_client.disconnect()
+        _telethon_login_client = None
+        return {"status": "ok"}
+    except Exception as e:
+        return {"status": "error", "message": str(e)}
+
+def is_telethon_authorized(api_id, api_hash):
+    if not os.path.exists(TELETHON_SESSION_PATH + ".session"):
+        return False
+    try:
+        client = get_telethon_client(api_id, api_hash)
+        client.connect()
+        authorized = client.is_user_authorized()
+        client.disconnect()
+        return authorized
+    except Exception:
+        return False
+
 def run_backlog_scan(api_id, api_hash, phone, channel_username):
     """
     Runs in its own thread with its own event loop, fully isolated from
@@ -2364,16 +2429,20 @@ def run_backlog_scan(api_id, api_hash, phone, channel_username):
     anything itself — that's a separate step (process_backlog_batch),
     kept separate so a slow/interrupted scan never leaves half-scraped
     files behind.
-    """
-    try:
-        from telethon.sync import TelegramClient
-    except ImportError:
-        print("📦 Installing Telethon (needed for backlog scanning)...")
-        subprocess.run([sys.executable, "-m", "pip", "install", "telethon",
-                        "--break-system-packages", "-q"], check=False)
-        from telethon.sync import TelegramClient
 
+    Requires the Telethon session to already be authorized (via the
+    dashboard's request-code/submit-code login flow) — this function
+    itself never blocks on interactive input.
+    """
     state = load_backlog_state()
+
+    if not is_telethon_authorized(api_id, api_hash):
+        state["status"] = "error"
+        state["error"] = "Not logged in yet. Use 'Login to Telegram' in the dashboard first."
+        save_backlog_state(state)
+        print("❌ Backlog scan failed: Telethon session not authorized")
+        return
+
     state["status"] = "scanning"
     state["error"] = None
     save_backlog_state(state)
@@ -2381,9 +2450,8 @@ def run_backlog_scan(api_id, api_hash, phone, channel_username):
     found = []
     scanned = 0
     try:
-        with TelegramClient(TELETHON_SESSION_PATH, api_id, api_hash) as client:
-            if not client.is_user_authorized():
-                client.start(phone=phone)  # prompts for the login code once
+        client = get_telethon_client(api_id, api_hash)
+        with client:
             for message in client.iter_messages(channel_username):
                 scanned += 1
                 text = message.text or message.message or ""
@@ -2426,22 +2494,21 @@ def process_backlog_batch():
     if not state["found_codes"]:
         return 0
 
-    try:
-        from telethon.sync import TelegramClient
-    except ImportError:
-        print("❌ Telethon not installed, cannot process backlog")
-        return 0
-
     cfg = load_config()
     secrets_cfg = load_secrets()
     api_id = secrets_cfg.get("telegram_api_id", "")
     api_hash = secrets_cfg.get("telegram_api_hash", "")
     channel = cfg.get("channel_username", "@ArcComic")
 
+    if not is_telethon_authorized(api_id, api_hash):
+        print("❌ Telethon session not authorized, cannot process backlog")
+        return 0
+
     batch = state["found_codes"][:SCAN_BATCH_SIZE]
     processed_this_run = 0
 
-    with TelegramClient(TELETHON_SESSION_PATH, api_id, api_hash) as client:
+    client = get_telethon_client(api_id, api_hash)
+    with client:
         for code in batch:
             if is_code_already_posted(code):
                 # Could have been posted live in the meantime — skip, don't duplicate
@@ -2816,8 +2883,29 @@ DASHBOARD_HTML = """
             <h2>📚 Backlog Scanner</h2>
             <p style="color:#8888a0;font-size:13px;margin-bottom:14px;">
                 Scans your channel's old Telegram history for comics never posted to the site.
-                Requires the Telegram API credentials above (Edit Settings).
+                Requires the Telegram API credentials above (Edit Settings) and a one-time login
+                with your personal Telegram account (read-only — never posts/edits/deletes anything).
             </p>
+
+            <div id="loginSection" style="margin-bottom:16px;padding-bottom:16px;border-bottom:1px solid #2a2a3a;">
+                <p style="font-size:13px;margin-bottom:10px;">
+                    Telegram login: <strong id="loginStatusText" style="color:#8888a0;">checking...</strong>
+                </p>
+                <button id="requestCodeBtn" style="width:100%;background:#2a2a3a;color:#f59e0b;border:1px solid #f59e0b;padding:12px;border-radius:10px;font-weight:700;font-size:13px;cursor:pointer;">
+                    📱 Login to Telegram
+                </button>
+                <div id="codeEntryBox" style="display:none;margin-top:10px;">
+                    <input type="text" id="loginCodeInput" placeholder="Code from Telegram app"
+                           style="width:100%;padding:12px;background:#0f0f13;color:#e2e2e8;border:1px solid #2a2a3a;border-radius:10px;font-size:14px;margin-bottom:8px;">
+                    <input type="password" id="loginPasswordInput" placeholder="2FA password (only if asked)"
+                           style="width:100%;padding:12px;background:#0f0f13;color:#e2e2e8;border:1px solid #2a2a3a;border-radius:10px;font-size:14px;margin-bottom:8px;display:none;">
+                    <button id="submitCodeBtn" style="width:100%;background:#f59e0b;color:#000;border:none;padding:12px;border-radius:10px;font-weight:700;font-size:13px;cursor:pointer;">
+                        Submit Code
+                    </button>
+                </div>
+                <div class="status" id="loginActionStatus"></div>
+            </div>
+
             <div id="backlogStatus" style="font-size:13px;color:#8888a0;margin-bottom:14px;">
                 Status: <strong id="backlogStatusText">idle</strong><br>
                 Found (waiting): <strong id="backlogFoundCount" style="color:#f59e0b;">0</strong><br>
@@ -2938,6 +3026,93 @@ DASHBOARD_HTML = """
         }
 
         // ---- Backlog scanner ----
+        async function refreshLoginStatus() {
+            try {
+                const res = await fetch('/api/backlog/login_status');
+                const s = await res.json();
+                const el = document.getElementById('loginStatusText');
+                if (el) {
+                    el.textContent = s.authorized ? '✅ Logged in' : '❌ Not logged in';
+                    el.style.color = s.authorized ? '#22c55e' : '#ef4444';
+                }
+                const btn = document.getElementById('requestCodeBtn');
+                if (btn) btn.style.display = s.authorized ? 'none' : 'block';
+            } catch (e) { /* dashboard offline */ }
+        }
+        refreshLoginStatus();
+
+        const requestCodeBtn = document.getElementById('requestCodeBtn');
+        if (requestCodeBtn) {
+            requestCodeBtn.addEventListener('click', async () => {
+                requestCodeBtn.disabled = true;
+                requestCodeBtn.textContent = 'Sending code...';
+                const statusEl = document.getElementById('loginActionStatus');
+                try {
+                    const res = await fetch('/api/backlog/request_code', { method: 'POST' });
+                    const data = await res.json();
+                    if (data.status === 'code_sent') {
+                        statusEl.className = 'status success';
+                        statusEl.textContent = '✅ Code sent to your Telegram app. Enter it below.';
+                        document.getElementById('codeEntryBox').style.display = 'block';
+                    } else if (data.status === 'already_authorized') {
+                        statusEl.className = 'status success';
+                        statusEl.textContent = '✅ Already logged in.';
+                        refreshLoginStatus();
+                    } else {
+                        statusEl.className = 'status error';
+                        statusEl.textContent = '❌ ' + (data.message || 'Failed to send code');
+                    }
+                } catch (e) {
+                    statusEl.className = 'status error';
+                    statusEl.textContent = '❌ Error: ' + e.message;
+                }
+                requestCodeBtn.disabled = false;
+                requestCodeBtn.textContent = '📱 Login to Telegram';
+            });
+        }
+
+        const submitCodeBtn = document.getElementById('submitCodeBtn');
+        if (submitCodeBtn) {
+            submitCodeBtn.addEventListener('click', async () => {
+                const code = document.getElementById('loginCodeInput').value.trim();
+                const password = document.getElementById('loginPasswordInput').value.trim();
+                const statusEl = document.getElementById('loginActionStatus');
+                if (!code) {
+                    statusEl.className = 'status error';
+                    statusEl.textContent = '❌ Enter the code first';
+                    return;
+                }
+                submitCodeBtn.disabled = true;
+                submitCodeBtn.textContent = 'Verifying...';
+                try {
+                    const res = await fetch('/api/backlog/submit_code', {
+                        method: 'POST',
+                        headers: { 'Content-Type': 'application/json' },
+                        body: JSON.stringify({ code, password })
+                    });
+                    const data = await res.json();
+                    if (data.status === 'ok') {
+                        statusEl.className = 'status success';
+                        statusEl.textContent = '✅ Logged in successfully!';
+                        document.getElementById('codeEntryBox').style.display = 'none';
+                        refreshLoginStatus();
+                    } else if (data.status === 'needs_password') {
+                        statusEl.className = 'status error';
+                        statusEl.textContent = '🔒 2FA enabled — enter your password below and submit again.';
+                        document.getElementById('loginPasswordInput').style.display = 'block';
+                    } else {
+                        statusEl.className = 'status error';
+                        statusEl.textContent = '❌ ' + (data.message || 'Login failed');
+                    }
+                } catch (e) {
+                    statusEl.className = 'status error';
+                    statusEl.textContent = '❌ Error: ' + e.message;
+                }
+                submitCodeBtn.disabled = false;
+                submitCodeBtn.textContent = 'Submit Code';
+            });
+        }
+
         async function refreshBacklogStatus() {
             try {
                 const res = await fetch('/api/backlog/status');
@@ -3274,6 +3449,42 @@ def api_save_social_links():
     pushed, err = git_push(cfg, "social", "Update Follow Us links")
     return jsonify({"status": "ok" if pushed else "saved_but_push_failed", "error": err})
 
+@app.route("/api/backlog/login_status")
+def api_backlog_login_status():
+    cfg = load_config()
+    api_id = cfg.get("telegram_api_id", "")
+    api_hash = cfg.get("telegram_api_hash", "")
+    if not (api_id and api_hash):
+        return jsonify({"authorized": False, "message": "API ID/Hash not set"})
+    return jsonify({"authorized": is_telethon_authorized(api_id, api_hash)})
+
+@app.route("/api/backlog/request_code", methods=["POST"])
+def api_backlog_request_code():
+    cfg = load_config()
+    api_id = cfg.get("telegram_api_id", "")
+    api_hash = cfg.get("telegram_api_hash", "")
+    phone = cfg.get("telegram_phone", "")
+    if not (api_id and api_hash and phone):
+        return jsonify({"status": "error",
+                         "message": "Set Telegram API ID, API Hash, and phone number first"}), 400
+    try:
+        result = telethon_request_code(api_id, api_hash, phone)
+        return jsonify(result)
+    except Exception as e:
+        return jsonify({"status": "error", "message": str(e)}), 500
+
+@app.route("/api/backlog/submit_code", methods=["POST"])
+def api_backlog_submit_code():
+    data = request.get_json()
+    code = data.get("code", "").strip()
+    password = data.get("password", "").strip() or None
+    cfg = load_config()
+    phone = cfg.get("telegram_phone", "")
+    if not code:
+        return jsonify({"status": "error", "message": "Code required"}), 400
+    result = telethon_submit_code(phone, code, password)
+    return jsonify(result)
+
 @app.route("/api/backlog/start_scan", methods=["POST"])
 def api_backlog_start_scan():
     cfg = load_config()
@@ -3286,6 +3497,10 @@ def api_backlog_start_scan():
         return jsonify({"status": "error",
                          "message": "Telegram API ID, API Hash, and phone number required. "
                                     "Get these once from my.telegram.org and save them in settings."}), 400
+
+    if not is_telethon_authorized(api_id, api_hash):
+        return jsonify({"status": "error",
+                         "message": "Not logged in yet. Use 'Login to Telegram' below first."}), 400
 
     state = load_backlog_state()
     if state["status"] == "scanning":
