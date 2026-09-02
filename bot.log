@@ -1,0 +1,22 @@
+⚠️ index.html had a current version marker but broken/missing front matter — rewriting anyway to fix the build
+🔧 index.html updated to v6 (favicon, sort/filter toolbar, Latest Upload, working search)
+✅ Pushed work #config
+🌐 Dashboard running at http://localhost:6767
+ * Serving Flask app 'bot'
+ * Debug mode: off
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:6767
+ * Running on http://192.168.0.200:6767
+[33mPress CTRL+C to quit[0m
+192.168.0.201 - - [03/Sep/2026 02:01:06] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+192.168.0.201 - - [03/Sep/2026 02:01:08] "GET / HTTP/1.1" 200 -
+192.168.0.201 - - [03/Sep/2026 02:01:08] "GET /api/social_links HTTP/1.1" 200 -
+192.168.0.201 - - [03/Sep/2026 02:01:08] "GET /api/backlog/status HTTP/1.1" 200 -
+192.168.0.201 - - [03/Sep/2026 02:01:11] "POST /api/push_now HTTP/1.1" 200 -
+192.168.0.201 - - [03/Sep/2026 02:01:15] "GET / HTTP/1.1" 200 -
+192.168.0.201 - - [03/Sep/2026 02:01:15] "GET /api/backlog/status HTTP/1.1" 200 -
+192.168.0.201 - - [03/Sep/2026 02:01:15] "GET /api/social_links HTTP/1.1" 200 -
+192.168.0.201 - - [03/Sep/2026 02:01:16] "GET /api/backlog/login_status HTTP/1.1" 200 -
+192.168.0.201 - - [03/Sep/2026 02:01:16] "POST /api/backlog/request_code HTTP/1.1" 200 -
+192.168.0.201 - - [03/Sep/2026 02:01:16] "GET /api/backlog/login_status HTTP/1.1" 200 -
