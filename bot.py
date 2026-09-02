@@ -1034,8 +1034,33 @@ def ensure_index_html():
             content = f.read()
         match = re.search(r"arc-comic-index-version:\s*(\d+)", content)
         current_version = int(match.group(1)) if match else 0
-        if current_version >= INDEX_HTML_VERSION:
+
+        # Don't trust the version marker alone. A file can carry a
+        # current-looking marker while its actual front matter is broken
+        # (merge-conflict markers left behind, a truncated/interrupted
+        # write, manual corruption, etc.) — GitHub Pages then fails every
+        # build with "Invalid YAML front matter" while the bot keeps
+        # logging "already up to date" and skipping the rewrite. This bit
+        # Master before (see handoff bug #9) in a different shape, so
+        # ensure_index_html() now also checks that the file *starts* with
+        # a well-formed, parseable front matter block before trusting the
+        # version marker.
+        front_matter_ok = False
+        if content.startswith("---"):
+            fm_match = re.match(r"\A---\s*\n(.*?\n)?---\s*\n", content, re.DOTALL)
+            if fm_match:
+                try:
+                    yaml.safe_load(fm_match.group(1) or "")
+                    front_matter_ok = True
+                except yaml.YAMLError:
+                    front_matter_ok = False
+
+        if current_version >= INDEX_HTML_VERSION and front_matter_ok:
             return False
+
+        if current_version >= INDEX_HTML_VERSION and not front_matter_ok:
+            print("⚠️ index.html had a current version marker but broken/missing "
+                  "front matter — rewriting anyway to fix the build")
 
     with open(INDEX_HTML_PATH, 'w', encoding='utf-8') as f:
         f.write(INDEX_HTML_TEMPLATE)
