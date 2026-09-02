@@ -62,3 +62,10 @@
 192.168.0.201 - - [03/Sep/2026 00:49:26] "GET /api/social_links HTTP/1.1" 200 -
 192.168.0.201 - - [03/Sep/2026 00:49:26] "GET /api/backlog/login_status HTTP/1.1" 200 -
 192.168.0.201 - - [03/Sep/2026 00:49:29] "POST /api/push_now HTTP/1.1" 200 -
+192.168.0.201 - - [03/Sep/2026 00:49:32] "GET / HTTP/1.1" 200 -
+192.168.0.201 - - [03/Sep/2026 00:49:32] "GET /api/backlog/status HTTP/1.1" 200 -
+192.168.0.201 - - [03/Sep/2026 00:49:32] "GET /api/backlog/login_status HTTP/1.1" 200 -
+192.168.0.201 - - [03/Sep/2026 00:49:32] "GET /api/social_links HTTP/1.1" 200 -
+192.168.0.201 - - [03/Sep/2026 00:49:40] "GET /api/backlog/status HTTP/1.1" 200 -
+192.168.0.201 - - [03/Sep/2026 00:49:54] "GET /api/backlog/status HTTP/1.1" 200 -
+192.168.0.201 - - [03/Sep/2026 00:49:56] "GET /api/health HTTP/1.1" 200 -

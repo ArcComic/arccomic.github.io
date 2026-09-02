@@ -1,5 +1,5 @@
 {
-  "total_posts": 25,
+  "total_posts": 26,
   "posts": [
     {
       "code": "676326",
@@ -286,14 +286,14 @@
       "post_url": "https://arccomic.github.io/works/550359/"
     },
     {
-      "code": "550398",
-      "title": "\u975e\u516c\u5f00\u4fbf\u6240",
+      "code": "676589",
+      "title": "Possession Golf",
       "success": true,
-      "time": "2026-09-03 00:47:38",
+      "time": "2026-09-03 00:49:39",
       "error": null,
       "google_pinged": true,
       "indexnow_pinged": true,
-      "post_url": "https://arccomic.github.io/works/550398/"
+      "post_url": "https://arccomic.github.io/works/676589/"
     }
   ],
   "last_error": "Could not find a Code field in the post",

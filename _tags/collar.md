@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "collar"
-work_count: 2
+work_count: 1
 works:
   - title: Uwa, Mesugaki Tsuyoi! | Crap, This Mesugaki's Too Powerful!
     author: poncocchan
@@ -10,11 +10,4 @@ works:
     date: '2026-08-31'
     code: 550359
     url: /works/550359/
-  - title: 非公开便所
-    author: poncocchan
-    cover: /covers/550398.jpg
-    rating: 4.6
-    date: '2026-09-02'
-    code: 550398
-    url: /works/550398/
 ---
