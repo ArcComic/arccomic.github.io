@@ -1,40 +1,309 @@
-⚠️ index.html had a current version marker but broken/missing front matter — rewriting anyway to fix the build
-🔧 index.html updated to v6 (favicon, sort/filter toolbar, Latest Upload, working search)
-✅ Pushed work #config
 🌐 Dashboard running at http://localhost:6767
  * Serving Flask app 'bot'
  * Debug mode: off
+🤖 Starting Telegram bot...
 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
  * Running on all addresses (0.0.0.0)
  * Running on http://127.0.0.1:6767
  * Running on http://192.168.0.200:6767
 [33mPress CTRL+C to quit[0m
-192.168.0.201 - - [03/Sep/2026 02:01:06] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
-192.168.0.201 - - [03/Sep/2026 02:01:08] "GET / HTTP/1.1" 200 -
-192.168.0.201 - - [03/Sep/2026 02:01:08] "GET /api/social_links HTTP/1.1" 200 -
-192.168.0.201 - - [03/Sep/2026 02:01:08] "GET /api/backlog/status HTTP/1.1" 200 -
-192.168.0.201 - - [03/Sep/2026 02:01:11] "POST /api/push_now HTTP/1.1" 200 -
-192.168.0.201 - - [03/Sep/2026 02:01:15] "GET / HTTP/1.1" 200 -
-192.168.0.201 - - [03/Sep/2026 02:01:15] "GET /api/backlog/status HTTP/1.1" 200 -
-192.168.0.201 - - [03/Sep/2026 02:01:15] "GET /api/social_links HTTP/1.1" 200 -
-192.168.0.201 - - [03/Sep/2026 02:01:16] "GET /api/backlog/login_status HTTP/1.1" 200 -
-192.168.0.201 - - [03/Sep/2026 02:01:16] "POST /api/backlog/request_code HTTP/1.1" 200 -
-192.168.0.201 - - [03/Sep/2026 02:01:16] "GET /api/backlog/login_status HTTP/1.1" 200 -
-192.168.0.201 - - [03/Sep/2026 02:01:17] "POST /api/backlog/start_scan HTTP/1.1" 200 -
-192.168.0.201 - - [03/Sep/2026 02:01:23] "GET /api/backlog/status HTTP/1.1" 200 -
-192.168.0.201 - - [03/Sep/2026 02:01:25] "GET /api/health HTTP/1.1" 200 -
-192.168.0.201 - - [03/Sep/2026 02:01:29] "POST /api/backlog/start_scan HTTP/1.1" 200 -
-192.168.0.201 - - [03/Sep/2026 02:01:31] "GET /api/backlog/status HTTP/1.1" 200 -
-192.168.0.201 - - [03/Sep/2026 02:01:35] "GET /api/health HTTP/1.1" 200 -
-192.168.0.201 - - [03/Sep/2026 02:01:39] "GET /api/backlog/status HTTP/1.1" 200 -
-192.168.0.201 - - [03/Sep/2026 02:02:23] "GET /api/backlog/status HTTP/1.1" 200 -
-192.168.0.201 - - [03/Sep/2026 02:02:25] "GET /api/health HTTP/1.1" 200 -
-192.168.0.201 - - [03/Sep/2026 02:02:25] "GET / HTTP/1.1" 200 -
-192.168.0.201 - - [03/Sep/2026 02:02:25] "GET /api/social_links HTTP/1.1" 200 -
-192.168.0.201 - - [03/Sep/2026 02:02:25] "GET /api/backlog/status HTTP/1.1" 200 -
-192.168.0.201 - - [03/Sep/2026 02:02:25] "GET /api/backlog/login_status HTTP/1.1" 200 -
-192.168.0.201 - - [03/Sep/2026 02:02:34] "GET /api/backlog/status HTTP/1.1" 200 -
-192.168.0.201 - - [03/Sep/2026 02:02:36] "GET /api/health HTTP/1.1" 200 -
-192.168.0.201 - - [03/Sep/2026 02:02:42] "GET /api/backlog/status HTTP/1.1" 200 -
-192.168.0.201 - - [03/Sep/2026 02:02:45] "GET /api/health HTTP/1.1" 200 -
-192.168.0.201 - - [03/Sep/2026 02:02:49] "GET /api/backlog/status HTTP/1.1" 200 -
+192.168.0.201 - - [03/Sep/2026 03:41:02] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+192.168.0.201 - - [03/Sep/2026 03:41:02] "GET /api/backlog/status HTTP/1.1" 200 -
+192.168.0.201 - - [03/Sep/2026 03:41:10] "GET /api/backlog/status HTTP/1.1" 200 -
+192.168.0.201 - - [03/Sep/2026 03:41:12] "GET /api/health HTTP/1.1" 200 -
+192.168.0.201 - - [03/Sep/2026 03:41:18] "GET /api/backlog/status HTTP/1.1" 200 -
+192.168.0.201 - - [03/Sep/2026 03:41:22] "GET /api/health HTTP/1.1" 200 -
+192.168.0.201 - - [03/Sep/2026 03:41:22] "GET / HTTP/1.1" 200 -
+192.168.0.201 - - [03/Sep/2026 03:41:22] "GET /api/social_links HTTP/1.1" 200 -
+192.168.0.201 - - [03/Sep/2026 03:41:22] "GET /api/backlog/status HTTP/1.1" 200 -
+192.168.0.201 - - [03/Sep/2026 03:41:27] "GET /api/backlog/login_status HTTP/1.1" 200 -
+🚀 Auto-processing backlog started
+192.168.0.201 - - [03/Sep/2026 03:41:29] "POST /api/backlog/auto_process/start HTTP/1.1" 200 -
+192.168.0.201 - - [03/Sep/2026 03:41:30] "GET /api/backlog/status HTTP/1.1" 200 -
+📥 Staging code 676325...
+192.168.0.201 - - [03/Sep/2026 03:41:30] "GET /api/backlog/status HTTP/1.1" 200 -
+🔍 Scraped 'Otona no Asobi wo Manabitai | I Wanna Learn How Adults Have Fun!' with 17 tags for code 676325
+📸 Cover saved: /storage/emulated/0/arccomic.github.io/covers/676325.jpg
+⏳ Staged: Otona no Asobi wo Manabitai | I Wanna Learn How Adults Have Fun! (Code: 676325) — 1 pending
+192.168.0.201 - - [03/Sep/2026 03:41:32] "GET /api/health HTTP/1.1" 200 -
+📥 Staging code 676328...
+🔍 Scraped 'Yurishita 3 THE IDOLM＠STER GIRLS LOVE!' with 13 tags for code 676328
+📸 Cover saved: /storage/emulated/0/arccomic.github.io/covers/676328.jpg
+⏳ Staged: Yurishita 3 THE IDOLM＠STER GIRLS LOVE! (Code: 676328) — 2 pending
+192.168.0.201 - - [03/Sep/2026 03:41:38] "GET /api/backlog/status HTTP/1.1" 200 -
+📥 Staging code 676352...
+🔍 Scraped 'Minna de Shūgaku Ryokō-hen | School Trip Arc With Everyone' with 18 tags for code 676352
+📸 Cover saved: /storage/emulated/0/arccomic.github.io/covers/676352.jpg
+⏳ Staged: Minna de Shūgaku Ryokō-hen | School Trip Arc With Everyone (Code: 676352) — 3 pending
+192.168.0.201 - - [03/Sep/2026 03:41:42] "GET /api/health HTTP/1.1" 200 -
+📥 Staging code 676397...
+🔍 Scraped 'Stoic Diary' with 12 tags for code 676397
+📸 Cover saved: /storage/emulated/0/arccomic.github.io/covers/676397.jpg
+⏳ Staged: Stoic Diary (Code: 676397) — 4 pending
+192.168.0.201 - - [03/Sep/2026 03:41:46] "GET /api/backlog/status HTTP/1.1" 200 -
+📥 Staging code 634450...
+🔍 Scraped 'Kanojo ga Kami o Someta Wake ~Kataomoi no Seiso Kurokami Ojou-sama ga Boku no Shiranai Tokoro de Otoko no Aji o Oboeru Hanashi~ | The Real Reason She Changed Her Hair' with 22 tags for code 634450
+📸 Cover saved: /storage/emulated/0/arccomic.github.io/covers/634450.jpg
+⏳ Staged: Kanojo ga Kami o Someta Wake ~Kataomoi no Seiso Kurokami Ojou-sama ga Boku no Shiranai Tokoro de Otoko no Aji o Oboeru Hanashi~ | The Real Reason She Changed Her Hair (Code: 634450) — 5 pending
+📥 Staging code 676425...
+192.168.0.201 - - [03/Sep/2026 03:41:52] "GET /api/health HTTP/1.1" 200 -
+192.168.0.201 - - [03/Sep/2026 03:41:54] "GET /api/backlog/status HTTP/1.1" 200 -
+🔍 Scraped '26/08 Post 5$ & 8$' with 22 tags for code 676425
+📸 Cover saved: /storage/emulated/0/arccomic.github.io/covers/676425.jpg
+⏳ Staged: 26/08 Post 5$ & 8$ (Code: 676425) — 6 pending
+📥 Staging code 676439...
+🔍 Scraped 'Totoki Airi to Hitobanjuu Kozukuri Sex Suru Hon | A Book About Having Baby-Making Sex with Totoki Airi All Night Long' with 21 tags for code 676439
+📸 Cover saved: /storage/emulated/0/arccomic.github.io/covers/676439.jpg
+⏳ Staged: Totoki Airi to Hitobanjuu Kozukuri Sex Suru Hon | A Book About Having Baby-Making Sex with Totoki Airi All Night Long (Code: 676439) — 7 pending
+📥 Staging code 676458...
+192.168.0.201 - - [03/Sep/2026 03:42:02] "GET /api/health HTTP/1.1" 200 -
+192.168.0.201 - - [03/Sep/2026 03:42:03] "GET /api/backlog/status HTTP/1.1" 200 -
+🔍 Scraped 'Sister Contrast 2: Muttsuri Onee-chan to Henai Koubi | Sister contrast 2: My Sultry Sister Want To Be Breeded.' with 17 tags for code 676458
+📸 Cover saved: /storage/emulated/0/arccomic.github.io/covers/676458.jpg
+⏳ Staged: Sister Contrast 2: Muttsuri Onee-chan to Henai Koubi | Sister contrast 2: My Sultry Sister Want To Be Breeded. (Code: 676458) — 8 pending
+📥 Staging code 660399...
+🔍 Scraped 'Imouto ga Ore no Kanojo!? 2-haku 3-ka no Ecchi na Kankei | My Sister is My Girlfriend!? Sexual Relationship for Two Nights and Three Days' with 21 tags for code 660399
+192.168.0.201 - - [03/Sep/2026 03:42:11] "GET /api/backlog/status HTTP/1.1" 200 -
+📸 Cover saved: /storage/emulated/0/arccomic.github.io/covers/660399.jpg
+⏳ Staged: Imouto ga Ore no Kanojo!? 2-haku 3-ka no Ecchi na Kankei | My Sister is My Girlfriend!? Sexual Relationship for Two Nights and Three Days (Code: 660399) — 9 pending
+192.168.0.201 - - [03/Sep/2026 03:42:12] "GET /api/health HTTP/1.1" 200 -
+📥 Staging code 534388...
+🔍 Scraped '"Sex no Benkyou Shiyokka?" Kareshi ga Iru no ni Itoko kara Shojo wo Ubaware Zecchou Shidou 1-5 | Let's Learn About Sex: Your Cousin Will Take Your Virginity and Teach You How to Come 1-5' with 25 tags for code 534388
+📸 Cover saved: /storage/emulated/0/arccomic.github.io/covers/534388.jpg
+⏳ Staged: "Sex no Benkyou Shiyokka?" Kareshi ga Iru no ni Itoko kara Shojo wo Ubaware Zecchou Shidou 1-5 | Let's Learn About Sex: Your Cousin Will Take Your Virginity and Teach You How to Come 1-5 (Code: 534388) — 10 pending
+📥 Staging code 511316...
+🔍 Scraped 'Hitozuma Volley-bu no Asedaku SEX ~Shower Abinagara Micchaku Shichau? 1-2 | Married Women's Volleyball Club Sweaty Sex - We're Being Glued Together While Taking A Shower? 1-2' with 21 tags for code 511316
+192.168.0.201 - - [03/Sep/2026 03:42:18] "GET /api/backlog/status HTTP/1.1" 200 -
+📸 Cover saved: /storage/emulated/0/arccomic.github.io/covers/511316.jpg
+⏳ Staged: Hitozuma Volley-bu no Asedaku SEX ~Shower Abinagara Micchaku Shichau? 1-2 | Married Women's Volleyball Club Sweaty Sex - We're Being Glued Together While Taking A Shower? 1-2 (Code: 511316) — 11 pending
+📥 Staging code 618087...
+192.168.0.201 - - [03/Sep/2026 03:42:22] "GET /api/health HTTP/1.1" 200 -
+🔍 Scraped 'Futari de Watashi o Ikasenaide...! ~Kurayami, Majiwaru Kyoudai Futon~  | My 2 Step-Brothers are Ganging Up on Me!  Vol.1' with 19 tags for code 618087
+📸 Cover saved: /storage/emulated/0/arccomic.github.io/covers/618087.jpg
+⏳ Staged: Futari de Watashi o Ikasenaide...! ~Kurayami, Majiwaru Kyoudai Futon~  | My 2 Step-Brothers are Ganging Up on Me!  Vol.1 (Code: 618087) — 12 pending
+192.168.0.201 - - [03/Sep/2026 03:42:26] "GET /api/backlog/status HTTP/1.1" 200 -
+📥 Staging code 544324...
+🔍 Scraped 'Kekkon 3-Nen Me no Tsuma wa, Shain Ryokou Chuu ni Otto no Yoko de Netorareru! 1 | Netorare With a Busty Wife on a Company Trip 1' with 14 tags for code 544324
+📸 Cover saved: /storage/emulated/0/arccomic.github.io/covers/544324.jpg
+⏳ Staged: Kekkon 3-Nen Me no Tsuma wa, Shain Ryokou Chuu ni Otto no Yoko de Netorareru! 1 | Netorare With a Busty Wife on a Company Trip 1 (Code: 544324) — 13 pending
+📥 Staging code 589969...
+192.168.0.201 - - [03/Sep/2026 03:42:32] "GET /api/health HTTP/1.1" 200 -
+🔍 Scraped 'Pashiri no Shita Teku, Yabaitte... ~ Ebi Sori Iki Suru Namaiki Gyaru | Bullied Boy's Tongue Revenge Vol.1-4' with 25 tags for code 589969
+📸 Cover saved: /storage/emulated/0/arccomic.github.io/covers/589969.jpg
+⏳ Staged: Pashiri no Shita Teku, Yabaitte... ~ Ebi Sori Iki Suru Namaiki Gyaru | Bullied Boy's Tongue Revenge Vol.1-4 (Code: 589969) — 14 pending
+192.168.0.201 - - [03/Sep/2026 03:42:35] "GET /api/backlog/status HTTP/1.1" 200 -
+📥 Staging code 676320...
+🔍 Scraped 'Konyakusha no Imouto wa Kao SSR, Seikaku Saiaku Jigoku no Ero Dance Onna. 2 | My Fiancée's Younger Sister is a SSR Influencer with a Terrible Personality and is a Hellish Erotic Dancer. 2' with 31 tags for code 676320
+📸 Cover saved: /storage/emulated/0/arccomic.github.io/covers/676320.jpg
+⏳ Staged: Konyakusha no Imouto wa Kao SSR, Seikaku Saiaku Jigoku no Ero Dance Onna. 2 | My Fiancée's Younger Sister is a SSR Influencer with a Terrible Personality and is a Hellish Erotic Dancer. 2 (Code: 676320) — 15 pending
+📥 Staging code 676181...
+🔍 Scraped 'Meikko na Syoujo no Ehon 3' with 14 tags for code 676181
+192.168.0.201 - - [03/Sep/2026 03:42:42] "GET /api/health HTTP/1.1" 200 -
+192.168.0.201 - - [03/Sep/2026 03:42:42] "GET /api/backlog/status HTTP/1.1" 200 -
+📸 Cover saved: /storage/emulated/0/arccomic.github.io/covers/676181.jpg
+⏳ Staged: Meikko na Syoujo no Ehon 3 (Code: 676181) — 16 pending
+📥 Staging code 676182...
+🔍 Scraped 'Meikko na Syoujo no Ehon 5 -Kouhen-' with 16 tags for code 676182
+📸 Cover saved: /storage/emulated/0/arccomic.github.io/covers/676182.jpg
+⏳ Staged: Meikko na Syoujo no Ehon 5 -Kouhen- (Code: 676182) — 17 pending
+📥 Staging code 676183...
+192.168.0.201 - - [03/Sep/2026 03:42:50] "GET /api/backlog/status HTTP/1.1" 200 -
+🔍 Scraped 'Meikko na Syoujo no Ehon 5 -Zenpen-' with 14 tags for code 676183
+📸 Cover saved: /storage/emulated/0/arccomic.github.io/covers/676183.jpg
+⏳ Staged: Meikko na Syoujo no Ehon 5 -Zenpen- (Code: 676183) — 18 pending
+192.168.0.201 - - [03/Sep/2026 03:42:52] "GET /api/health HTTP/1.1" 200 -
+📥 Staging code 676189...
+🔍 Scraped 'Junai Kanjou' with 6 tags for code 676189
+📸 Cover saved: /storage/emulated/0/arccomic.github.io/covers/676189.jpg
+⏳ Staged: Junai Kanjou (Code: 676189) — 19 pending
+192.168.0.201 - - [03/Sep/2026 03:42:59] "GET /api/backlog/status HTTP/1.1" 200 -
+📥 Staging code 676193...
+🔍 Scraped 'NTR stuff' with 14 tags for code 676193
+192.168.0.201 - - [03/Sep/2026 03:43:02] "GET /api/health HTTP/1.1" 200 -
+📸 Cover saved: /storage/emulated/0/arccomic.github.io/covers/676193.jpg
+⏳ Staged: NTR stuff (Code: 676193) — 20 pending
+📥 Staging code 668605...
+🔍 Scraped 'Niizuma Nanaka no Roshutsu Office' with 15 tags for code 668605
+192.168.0.201 - - [03/Sep/2026 03:43:07] "GET /api/backlog/status HTTP/1.1" 200 -
+📸 Cover saved: /storage/emulated/0/arccomic.github.io/covers/668605.jpg
+⏳ Staged: Niizuma Nanaka no Roshutsu Office (Code: 668605) — 21 pending
+📥 Staging code 520363...
+🔍 Scraped 'Niizuma Nanaka no Roshutsu Satsuei' with 13 tags for code 520363
+📸 Cover saved: /storage/emulated/0/arccomic.github.io/covers/520363.jpg
+⏳ Staged: Niizuma Nanaka no Roshutsu Satsuei (Code: 520363) — 22 pending
+192.168.0.201 - - [03/Sep/2026 03:43:13] "GET /api/health HTTP/1.1" 200 -
+📥 Staging code 652651...
+🔍 Scraped 'Majime na Salaryman ga JK Chijo ni Otosareru Hanashi' with 16 tags for code 652651
+192.168.0.201 - - [03/Sep/2026 03:43:14] "GET /api/backlog/status HTTP/1.1" 200 -
+📸 Cover saved: /storage/emulated/0/arccomic.github.io/covers/652651.jpg
+⏳ Staged: Majime na Salaryman ga JK Chijo ni Otosareru Hanashi (Code: 652651) — 23 pending
+📥 Staging code 676196...
+🔍 Scraped 'Aoi-chan to Himitsu no Seikatsu Shidou 1-19' with 13 tags for code 676196
+📸 Cover saved: /storage/emulated/0/arccomic.github.io/covers/676196.jpg
+⏳ Staged: Aoi-chan to Himitsu no Seikatsu Shidou 1-19 (Code: 676196) — 24 pending
+192.168.0.201 - - [03/Sep/2026 03:43:22] "GET /api/health HTTP/1.1" 200 -
+192.168.0.201 - - [03/Sep/2026 03:43:22] "GET /api/backlog/status HTTP/1.1" 200 -
+📥 Staging code 676197...
+🔍 Scraped 'Karin-chan no Himitsu Kichi Matome' with 21 tags for code 676197
+📸 Cover saved: /storage/emulated/0/arccomic.github.io/covers/676197.jpg
+⏳ Staged: Karin-chan no Himitsu Kichi Matome (Code: 676197) — 25 pending
+Exception in thread Thread-16 (_autobacklog_loop):
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/usr/lib/python3.14/threading.py", line 1082, in _bootstrap_inner
+    self._context.run(self.run)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.14/threading.py", line 1024, in run
+    self._target(*self._args, **self._kwargs)
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/storage/emulated/0/arccomic.github.io/bot.py", line 2858, in _autobacklog_loop
+    done = process_backlog_batch()
+  File "/storage/emulated/0/arccomic.github.io/bot.py", line 2814, in process_backlog_batch
+    result = _telethon_call("process_batch", api_id=api_id, api_hash=api_hash, channel=channel)
+  File "/storage/emulated/0/arccomic.github.io/bot.py", line 2742, in _telethon_call
+    return _telethon_result_queue.get(timeout=120)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "/data/data/com.termux/files/usr/lib/python3.14/queue.py", line 209, in get
+    raise Empty
+_queue.Empty
+📥 Staging code 676201...
+192.168.0.201 - - [03/Sep/2026 03:43:30] "GET /api/backlog/status HTTP/1.1" 200 -
+🔍 Scraped 'Onii-chan... Momoko, AV Joyuu datte Dekiru yo? | Momoko... Could Even be a Porn Star, You Know?' with 12 tags for code 676201
+📸 Cover saved: /storage/emulated/0/arccomic.github.io/covers/676201.jpg
+⏳ Staged: Onii-chan... Momoko, AV Joyuu datte Dekiru yo? | Momoko... Could Even be a Porn Star, You Know? (Code: 676201) — 26 pending
+192.168.0.201 - - [03/Sep/2026 03:43:32] "GET /api/health HTTP/1.1" 200 -
+📥 Staging code 675981...
+🔍 Scraped 'Mesu no Ie III ~Oyako wa Midare Aisareru~' with 29 tags for code 675981
+📸 Cover saved: /storage/emulated/0/arccomic.github.io/covers/675981.jpg
+⏳ Staged: Mesu no Ie III ~Oyako wa Midare Aisareru~ (Code: 675981) — 27 pending
+192.168.0.201 - - [03/Sep/2026 03:43:38] "GET /api/backlog/status HTTP/1.1" 200 -
+📥 Staging code 676149...
+🔍 Scraped 'Sensei!! I Told You Not To Come Again Didn't I !!' with 26 tags for code 676149
+192.168.0.201 - - [03/Sep/2026 03:43:42] "GET /api/health HTTP/1.1" 200 -
+📸 Cover saved: /storage/emulated/0/arccomic.github.io/covers/676149.jpg
+⏳ Staged: Sensei!! I Told You Not To Come Again Didn't I !! (Code: 676149) — 28 pending
+📥 Staging code 676013...
+192.168.0.201 - - [03/Sep/2026 03:43:46] "GET /api/backlog/status HTTP/1.1" 200 -
+🔍 Scraped 'Osananajimi ga Joukyo-chuu ni Osananajimi no Chichi to Daita | While My Childhood Friend Was Away in Tokyo I Slept With His Dad' with 27 tags for code 676013
+📸 Cover saved: /storage/emulated/0/arccomic.github.io/covers/676013.jpg
+⏳ Staged: Osananajimi ga Joukyo-chuu ni Osananajimi no Chichi to Daita | While My Childhood Friend Was Away in Tokyo I Slept With His Dad (Code: 676013) — 29 pending
+192.168.0.201 - - [03/Sep/2026 03:43:52] "GET /api/health HTTP/1.1" 200 -
+📥 Staging code 518387...
+🔍 Scraped 'Kyoushi no Oba wa Himitsu no Bakunyuu Ero Cos Layer ~Iinari Gyaku Bunny & Sister Cos de Keiren Soku Iki Nakadashi Netori~ | My Teacher Aunt Is Secretly A Buxom Erotic Cosplayer' with 22 tags for code 518387
+📸 Cover saved: /storage/emulated/0/arccomic.github.io/covers/518387.jpg
+192.168.0.201 - - [03/Sep/2026 03:43:54] "GET /api/backlog/status HTTP/1.1" 200 -
+⏳ Staged: Kyoushi no Oba wa Himitsu no Bakunyuu Ero Cos Layer ~Iinari Gyaku Bunny & Sister Cos de Keiren Soku Iki Nakadashi Netori~ | My Teacher Aunt Is Secretly A Buxom Erotic Cosplayer (Code: 518387) — 30 pending
+📥 Staging code 592307...
+🔍 Scraped 'Kyoushi to Mama to Koibito no Kao' with 29 tags for code 592307
+📸 Cover saved: /storage/emulated/0/arccomic.github.io/covers/592307.jpg
+⏳ Staged: Kyoushi to Mama to Koibito no Kao (Code: 592307) — 31 pending
+📥 Staging code 537490...
+192.168.0.201 - - [03/Sep/2026 03:44:02] "GET /api/health HTTP/1.1" 200 -
+192.168.0.201 - - [03/Sep/2026 03:44:02] "GET /api/backlog/status HTTP/1.1" 200 -
+🔍 Scraped 'Tainai Kaiki ~Neet no Ore wa Bakunyuu Haha to Manjiru Toroama Kozukuri Sex de Iyasareru~ | Reverting to the Womb: As a NEET, I'm Healed by Making Sweet, Creamy Love with My Busty Mother' with 13 tags for code 537490
+📸 Cover saved: /storage/emulated/0/arccomic.github.io/covers/537490.jpg
+⏳ Staged: Tainai Kaiki ~Neet no Ore wa Bakunyuu Haha to Manjiru Toroama Kozukuri Sex de Iyasareru~ | Reverting to the Womb: As a NEET, I'm Healed by Making Sweet, Creamy Love with My Busty Mother (Code: 537490) — 32 pending
+📥 Staging code 563890...
+🔍 Scraped 'Tennen Kaa-san ga Ero Kawai Sugiru node, Saimin Onaho Sex Shitatta! | My Airheaded Mom Was Too Adorably Sexy, So I Had Hypnotized Onahole Sex with Her!' with 21 tags for code 563890
+📸 Cover saved: /storage/emulated/0/arccomic.github.io/covers/563890.jpg
+⏳ Staged: Tennen Kaa-san ga Ero Kawai Sugiru node, Saimin Onaho Sex Shitatta! | My Airheaded Mom Was Too Adorably Sexy, So I Had Hypnotized Onahole Sex with Her! (Code: 563890) — 33 pending
+192.168.0.201 - - [03/Sep/2026 03:44:11] "GET /api/backlog/status HTTP/1.1" 200 -
+📥 Staging code 595108...
+192.168.0.201 - - [03/Sep/2026 03:44:12] "GET /api/health HTTP/1.1" 200 -
+🔍 Scraped 'Nagachichi Haha no Naedoko' with 21 tags for code 595108
+📸 Cover saved: /storage/emulated/0/arccomic.github.io/covers/595108.jpg
+⏳ Staged: Nagachichi Haha no Naedoko (Code: 595108) — 34 pending
+📥 Staging code 611978...
+🔍 Scraped 'Ottori Itome no Oba o Odoshite Hamete Iinari Onaho-ka Keikaku | Gentle Slit-Eyed Aunty Blackmail & Obedient Fuckhole Training Project' with 19 tags for code 611978
+192.168.0.201 - - [03/Sep/2026 03:44:18] "GET /api/backlog/status HTTP/1.1" 200 -
+📸 Cover saved: /storage/emulated/0/arccomic.github.io/covers/611978.jpg
+⏳ Staged: Ottori Itome no Oba o Odoshite Hamete Iinari Onaho-ka Keikaku | Gentle Slit-Eyed Aunty Blackmail & Obedient Fuckhole Training Project (Code: 611978) — 35 pending
+📥 Staging code 637131...
+🔍 Scraped 'Haha to iu Kaibutsu ~M Otoko Aka-chan toshite Sodate rareta Boku wa Yasashii Mama ni Dekiai sareru~ | Mother, the Monster ~I was raised as a masochistic baby and am doted on by my kind mother~' with 17 tags for code 637131
+192.168.0.201 - - [03/Sep/2026 03:44:22] "GET /api/health HTTP/1.1" 200 -
+📸 Cover saved: /storage/emulated/0/arccomic.github.io/covers/637131.jpg
+⏳ Staged: Haha to iu Kaibutsu ~M Otoko Aka-chan toshite Sodate rareta Boku wa Yasashii Mama ni Dekiai sareru~ | Mother, the Monster ~I was raised as a masochistic baby and am doted on by my kind mother~ (Code: 637131) — 36 pending
+📥 Staging code 613739...
+🔍 Scraped 'Fuufu Koukan Matching Appli ~DQN na Hitozuma ni Nakadashi Houshi~' with 15 tags for code 613739
+192.168.0.201 - - [03/Sep/2026 03:44:26] "GET /api/backlog/status HTTP/1.1" 200 -
+📸 Cover saved: /storage/emulated/0/arccomic.github.io/covers/613739.jpg
+⏳ Staged: Fuufu Koukan Matching Appli ~DQN na Hitozuma ni Nakadashi Houshi~ (Code: 613739) — 37 pending
+📥 Staging code 616367...
+🔍 Scraped 'Tsuma ni Ani to Kozukuri Shite Moraimashita' with 18 tags for code 616367
+📸 Cover saved: /storage/emulated/0/arccomic.github.io/covers/616367.jpg
+⏳ Staged: Tsuma ni Ani to Kozukuri Shite Moraimashita (Code: 616367) — 38 pending
+192.168.0.201 - - [03/Sep/2026 03:44:32] "GET /api/health HTTP/1.1" 200 -
+📥 Staging code 637847...
+192.168.0.201 - - [03/Sep/2026 03:44:34] "GET /api/backlog/status HTTP/1.1" 200 -
+🔍 Scraped 'My gentle and kind friend's mom was a slut who devoured young boys' cocks.' with 16 tags for code 637847
+📸 Cover saved: /storage/emulated/0/arccomic.github.io/covers/637847.jpg
+⏳ Staged: My gentle and kind friend's mom was a slut who devoured young boys' cocks. (Code: 637847) — 39 pending
+📥 Staging code 512473...
+🔍 Scraped 'Bitch Mama no Kekkon Riyuu' with 24 tags for code 512473
+📸 Cover saved: /storage/emulated/0/arccomic.github.io/covers/512473.jpg
+⏳ Staged: Bitch Mama no Kekkon Riyuu (Code: 512473) — 40 pending
+📥 Staging code 608648...
+🔍 Scraped 'Sono Gal Mama wa Koubi Suru | This Gyaru Mom is Having Sex.' with 22 tags for code 608648
+📸 Cover saved: /storage/emulated/0/arccomic.github.io/covers/608648.jpg
+⏳ Staged: Sono Gal Mama wa Koubi Suru | This Gyaru Mom is Having Sex. (Code: 608648) — 41 pending
+📥 Staging code 656146...
+🔍 Scraped 'Haha Ochi Nikki ~Ureta Jitsubo no Nama Manko o Seishori Benjo ni Otosu made' with 13 tags for code 656146
+📸 Cover saved: /storage/emulated/0/arccomic.github.io/covers/656146.jpg
+⏳ Staged: Haha Ochi Nikki ~Ureta Jitsubo no Nama Manko o Seishori Benjo ni Otosu made (Code: 656146) — 42 pending
+📥 Staging code 672450...
+🔍 Scraped 'Boku-tachi Mama to Yattemasu' with 18 tags for code 672450
+📸 Cover saved: /storage/emulated/0/arccomic.github.io/covers/672450.jpg
+⏳ Staged: Boku-tachi Mama to Yattemasu (Code: 672450) — 43 pending
+📥 Staging code 654373...
+🔍 Scraped 'Provoking Men Part 1' with 12 tags for code 654373
+📸 Cover saved: /storage/emulated/0/arccomic.github.io/covers/654373.jpg
+⏳ Staged: Provoking Men Part 1 (Code: 654373) — 44 pending
+📥 Staging code 643932...
+🔍 Scraped 'Oyagakari no Haha' with 11 tags for code 643932
+📸 Cover saved: /storage/emulated/0/arccomic.github.io/covers/643932.jpg
+⏳ Staged: Oyagakari no Haha (Code: 643932) — 45 pending
+📥 Staging code 643933...
+🔍 Scraped 'Oyasumi Kaa-san' with 11 tags for code 643933
+📸 Cover saved: /storage/emulated/0/arccomic.github.io/covers/643933.jpg
+⏳ Staged: Oyasumi Kaa-san (Code: 643933) — 46 pending
+📥 Staging code 655205...
+🔍 Scraped 'boku no haha ga saikon si nai riyuu（ wake）' with 11 tags for code 655205
+📸 Cover saved: /storage/emulated/0/arccomic.github.io/covers/655205.jpg
+⏳ Staged: boku no haha ga saikon si nai riyuu（ wake） (Code: 655205) — 47 pending
+📥 Staging code 656143...
+🔍 Scraped 'Gomen, Kaa-san Otonashiiku Shite' with 15 tags for code 656143
+📸 Cover saved: /storage/emulated/0/arccomic.github.io/covers/656143.jpg
+⏳ Staged: Gomen, Kaa-san Otonashiiku Shite (Code: 656143) — 48 pending
+📥 Staging code 642770...
+🔍 Scraped 'Anta, Nandetatten no?' with 13 tags for code 642770
+📸 Cover saved: /storage/emulated/0/arccomic.github.io/covers/642770.jpg
+⏳ Staged: Anta, Nandetatten no? (Code: 642770) — 49 pending
+📥 Staging code 342639...
+🔍 Scraped 'Saikin, Musuko no Yousu ga Hen nan desu | Lately my son has been acting Strangly' with 17 tags for code 342639
+📸 Cover saved: /storage/emulated/0/arccomic.github.io/covers/342639.jpg
+⏳ Staged: Saikin, Musuko no Yousu ga Hen nan desu | Lately my son has been acting Strangly (Code: 342639) — 50 pending
+✅ Backlog batch complete: 50 comics staged
+192.168.0.201 - - [03/Sep/2026 03:45:40] "GET / HTTP/1.1" 200 -
+192.168.0.201 - - [03/Sep/2026 03:45:40] "GET /api/backlog/status HTTP/1.1" 200 -
+192.168.0.201 - - [03/Sep/2026 03:45:40] "GET /api/backlog/login_status HTTP/1.1" 200 -
+192.168.0.201 - - [03/Sep/2026 03:45:40] "GET /api/social_links HTTP/1.1" 200 -
+192.168.0.201 - - [03/Sep/2026 03:45:49] "GET /api/backlog/status HTTP/1.1" 200 -
+192.168.0.201 - - [03/Sep/2026 03:45:51] "GET /api/health HTTP/1.1" 200 -
+192.168.0.201 - - [03/Sep/2026 03:45:54] "POST /api/backlog/request_code HTTP/1.1" 200 -
+192.168.0.201 - - [03/Sep/2026 03:45:57] "GET /api/backlog/status HTTP/1.1" 200 -
+192.168.0.201 - - [03/Sep/2026 03:45:57] "POST /api/backlog/request_code HTTP/1.1" 200 -
+192.168.0.201 - - [03/Sep/2026 03:45:57] "GET /api/backlog/login_status HTTP/1.1" 200 -
+192.168.0.201 - - [03/Sep/2026 03:46:00] "GET / HTTP/1.1" 200 -
+192.168.0.201 - - [03/Sep/2026 03:46:00] "GET /api/backlog/login_status HTTP/1.1" 200 -
+192.168.0.201 - - [03/Sep/2026 03:46:00] "GET /api/backlog/status HTTP/1.1" 200 -
+192.168.0.201 - - [03/Sep/2026 03:46:00] "GET /api/social_links HTTP/1.1" 200 -
+192.168.0.201 - - [03/Sep/2026 03:46:09] "GET /api/backlog/status HTTP/1.1" 200 -
+192.168.0.201 - - [03/Sep/2026 03:46:11] "GET /api/health HTTP/1.1" 200 -
+192.168.0.201 - - [03/Sep/2026 03:46:15] "POST /api/push_now HTTP/1.1" 200 -
+🚚 Flushing batch of 50 post(s): 676325, 676328, 676352, 676397, 634450, 676425, 676439, 676458, 660399, 534388, 511316, 618087, 544324, 589969, 676320, 676181, 676182, 676183, 676189, 676193, 668605, 520363, 652651, 676196, 676197, 676201, 675981, 676149, 676013, 518387, 592307, 537490, 563890, 595108, 611978, 637131, 613739, 616367, 637847, 512473, 608648, 656146, 672450, 654373, 643932, 643933, 655205, 656143, 642770, 342639
+192.168.0.201 - - [03/Sep/2026 03:46:16] "GET /api/backlog/status HTTP/1.1" 200 -
+192.168.0.201 - - [03/Sep/2026 03:46:18] "GET / HTTP/1.1" 200 -
+192.168.0.201 - - [03/Sep/2026 03:46:18] "GET /api/backlog/login_status HTTP/1.1" 200 -
+192.168.0.201 - - [03/Sep/2026 03:46:18] "GET /api/backlog/status HTTP/1.1" 200 -
+192.168.0.201 - - [03/Sep/2026 03:46:18] "GET /api/social_links HTTP/1.1" 200 -
+🔧 Regenerated 248 tag pages
+🔧 Regenerated 44 artist pages

@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "painted nails"
-work_count: 2
+work_count: 4
 works:
+  - title: Bitch Mama no Kekkon Riyuu
+    author: aoyama-akira
+    cover: /covers/512473.jpg
+    rating: 4.6
+    date: '2026-08-25'
+    code: 512473
+    url: /works/512473/
   - title: Uwa, Mesugaki Tsuyoi! | Crap, This Mesugaki's Too Powerful!
     author: poncocchan
     cover: /covers/550359.jpg
@@ -10,6 +17,13 @@ works:
     date: '2026-08-31'
     code: 550359
     url: /works/550359/
+  - title: Sono Gal Mama wa Koubi Suru | This Gyaru Mom is Having Sex.
+    author: ameto-yuki
+    cover: /covers/608648.jpg
+    rating: 4.3
+    date: '2026-08-25'
+    code: 608648
+    url: /works/608648/
   - title: Possession Golf
     author: rim
     cover: /covers/676589.jpg

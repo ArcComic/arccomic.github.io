@@ -14,12 +14,28 @@ import hashlib
 import asyncio
 import subprocess
 import threading
+import functools
 import requests
 from datetime import datetime
 from bs4 import BeautifulSoup
 from telegram import Update
 from telegram.ext import Application, MessageHandler, filters, ContextTypes
 from flask import Flask, render_template_string, request, jsonify
+
+# ============== LOG FLUSH FIX ==============
+# When bot.py runs under nohup (stdout redirected to bot.log, not a TTY),
+# Python fully buffers stdout instead of line-buffering it. Flask's own
+# request logging (via the `logging` module) flushes independently per
+# line, which is why access-log GET/POST lines always showed up in
+# bot.log promptly — but every plain print() in this file, including
+# ones on background threads (the Telethon worker, the posting queue),
+# could sit in that buffer for a long time before actually reaching
+# disk. This silently broke live debugging: prints looked like they
+# never ran, when they were really just delayed/invisible until the
+# buffer filled or the process exited. Forcing flush=True on every
+# print() call in this file fixes that with no other code changes
+# needed anywhere else.
+print = functools.partial(print, flush=True)
 
 try:
     import yaml
@@ -2202,7 +2218,12 @@ def git_push(cfg, code, title):
 def normalize_text(text):
     """Collapse Telegram's non-breaking spaces and other invisible
     formatting-boundary characters (which appear when mixing bold and
-    monospace styles) down to plain ASCII spaces."""
+    monospace styles) down to plain ASCII spaces. Also strips visible
+    Markdown syntax (**bold**, __bold__, `code`) as a safety net —
+    Telethon's client is set to parse_mode=None so this shouldn't
+    normally be needed (see Bug 11), but this keeps the parser robust
+    even if that ever regresses or a message somehow contains literal
+    markdown source."""
     replacements = {
         "\xa0": " ",   # non-breaking space
         "\u200b": "",  # zero-width space
@@ -2212,6 +2233,9 @@ def normalize_text(text):
     }
     for bad, good in replacements.items():
         text = text.replace(bad, good)
+    text = re.sub(r'\*\*(.+?)\*\*', r'\1', text)  # **bold**
+    text = re.sub(r'__(.+?)__', r'\1', text)      # __bold__
+    text = re.sub(r'`(.+?)`', r'\1', text)        # `code`
     return text
 
 def extract_field(text, *labels, pattern=r"(.+)"):
@@ -2334,6 +2358,79 @@ def _flush_pending_queue_sync():
                      post_url=item["post_url"])
 
     print(f"✅ Batch flush complete: {len(batch)} post(s), pushed={pushed}")
+
+    # Auto-cleanup: once this batch is confirmed pushed AND live on the
+    # actual site (not just committed — see Bug #10, a successful git
+    # push does not guarantee GitHub Pages' build succeeded), delete the
+    # local cover images for these codes. The _works/*.md files are
+    # NEVER touched by this — those stay forever, they're what
+    # is_code_already_posted() checks to prevent duplicate posts, and
+    # they're tiny (~1KB each) so there's no storage reason to remove
+    # them. Only covers/ (the large files) get cleaned, and only after
+    # verifying the cover is actually reachable on the live site.
+    if pushed:
+        codes_to_check = [item["code"] for item in batch]
+        threading.Thread(
+            target=cleanup_pushed_covers,
+            args=(codes_to_check,),
+            daemon=True
+        ).start()
+
+def cleanup_pushed_covers(codes, max_wait_seconds=300, poll_interval=15):
+    """
+    Waits for GitHub Pages to actually finish building and serving each
+    cover, then deletes the local copy — never before confirming it's
+    live. A successful `git push` only means the commit reached GitHub;
+    the Pages build/deploy that actually makes the cover reachable at
+    its public URL happens afterward and can fail (see Bug #10's
+    "Invalid YAML front matter" build failure, which broke the site for
+    an entire session despite every push succeeding). Deleting on push
+    success alone would risk deleting a cover before it's really live,
+    losing it if the build then fails. Polls each cover's public URL
+    with a HEAD request (cheap, no auth, no API rate limit — this is
+    the static Pages site, not the GitHub API) until it's reachable or
+    max_wait_seconds elapses, then deletes only the ones confirmed live.
+    Any code that never comes back reachable within the wait window is
+    left alone on disk — safe default, just means it's cleaned up on
+    the next successful batch's check instead (this function runs again
+    every batch, so nothing is permanently stuck).
+    """
+    site_url = "https://arccomic.github.io"
+    remaining = set(codes)
+    confirmed = []
+    deadline = time.time() + max_wait_seconds
+
+    while remaining and time.time() < deadline:
+        for code in list(remaining):
+            cover_url = f"{site_url}/covers/{code}.jpg"
+            try:
+                resp = requests.head(cover_url, timeout=10, allow_redirects=True)
+                if resp.status_code == 200:
+                    confirmed.append(code)
+                    remaining.discard(code)
+            except Exception:
+                pass  # not live yet, or transient network issue — retry next poll
+        if remaining:
+            time.sleep(poll_interval)
+
+    deleted_count = 0
+    freed_bytes = 0
+    for code in confirmed:
+        cover_path = os.path.join(COVERS_DIR, f"{code}.jpg")
+        if os.path.exists(cover_path):
+            try:
+                freed_bytes += os.path.getsize(cover_path)
+                os.remove(cover_path)
+                deleted_count += 1
+            except Exception as e:
+                print(f"⚠️ Could not delete cover for #{code}: {e}")
+
+    if deleted_count:
+        print(f"🧹 Auto-cleanup: {deleted_count} confirmed-live cover(s) removed, "
+              f"{freed_bytes / 1024:.0f} KB freed")
+    if remaining:
+        print(f"⏳ Auto-cleanup: {len(remaining)} cover(s) not yet confirmed live "
+              f"after {max_wait_seconds}s, left on disk (will retry on next batch)")
 
 def queue_pending_flush():
     """(Re)starts the debounce timer. Any new post arriving resets the
@@ -2495,6 +2592,19 @@ def _telethon_worker_loop():
         nonlocal client
         if client is None:
             client = TelegramClient(TELETHON_SESSION_PATH, int(api_id), api_hash, loop=loop)
+            # Bug 11 root cause: by default Telethon's .text returns the
+            # message re-rendered as Markdown source (e.g. "**Code:**"
+            # instead of "Code:"), because Telethon's default parse_mode
+            # is "markdown". The LIVE bot (python-telegram-bot) never
+            # showed this because it hands us already-stripped plain
+            # text — so the same regex that works live silently failed
+            # on every single history message scanned via Telethon,
+            # since "**Code:**" doesn't match the parser's "Code:"
+            # pattern. Setting parse_mode=None makes Telethon's .text
+            # return plain text with formatting entities stripped,
+            # matching what the live pipeline already sees, so the same
+            # parse_post_fields() works identically for both paths.
+            client.parse_mode = None
         if not client.is_connected():
             await client.connect()
         return client
@@ -2706,6 +2816,69 @@ def process_backlog_batch():
         print(f"❌ Backlog batch failed: {result.get('message')}")
         return 0
     return result.get("processed", 0)
+
+_autobacklog_thread = None
+_autobacklog_lock = threading.Lock()
+_autobacklog_stop = threading.Event()
+
+def _autobacklog_loop():
+    """
+    Runs process_backlog_batch() repeatedly — SCAN_BATCH_SIZE (50) comics
+    per run, back-to-back with no artificial pause between batches — and
+    stops itself the moment found_codes is empty, so there's nothing to
+    manually turn off.
+
+    Staging (scraping nhentai, downloading covers, writing .md files) is
+    fully offline-capable and doesn't touch GitHub at all, so there's no
+    reason to slow it down batch-to-batch — the real nhentai-friendly
+    pacing already happens per-comic, inside process_batch itself (a
+    2-second pause between each of the 50 comics in a batch). Adding a
+    second wait here on top of that would only slow down staging for no
+    protective benefit.
+
+    The GitHub push side is completely separate and already self-limits
+    correctly: _flush_pending_queue_sync() only fires after
+    PENDING_TIMEOUT_SECONDS (10 min) of quiet, via the existing debounce
+    timer in queue_pending_flush() — same one the live posting pipeline
+    already uses. This loop never touches that timer directly; it just
+    keeps stage_comic() (called inside process_batch) feeding the same
+    _pending_queue, so pushes stay batched and GitHub Actions never gets
+    triggered more often than once every 10 minutes, no matter how fast
+    staging runs.
+
+    Safe to interrupt: same guarantee as process_backlog_batch itself —
+    at most one in-flight comic lost if stopped mid-batch.
+    """
+    print("🚀 Auto-processing backlog started")
+    total_done = 0
+    while not _autobacklog_stop.is_set():
+        state = load_backlog_state()
+        if not state.get("found_codes"):
+            break
+        done = process_backlog_batch()
+        total_done += done
+        print(f"🚀 Auto-processing: {done} staged this batch, {total_done} total this run")
+        if _autobacklog_stop.is_set():
+            break
+    print(f"✅ Auto-processing backlog finished — {total_done} comics staged this run, queue empty"
+          if not _autobacklog_stop.is_set()
+          else "🛑 Auto-processing backlog stopped manually")
+
+def start_autobacklog():
+    global _autobacklog_thread
+    with _autobacklog_lock:
+        if _autobacklog_thread and _autobacklog_thread.is_alive():
+            return False  # already running
+        _autobacklog_stop.clear()
+        _autobacklog_thread = threading.Thread(target=_autobacklog_loop, daemon=True)
+        _autobacklog_thread.start()
+        return True
+
+def stop_autobacklog():
+    _autobacklog_stop.set()
+
+def is_autobacklog_running():
+    return bool(_autobacklog_thread and _autobacklog_thread.is_alive())
 
 
 async def handle_channel_post(update: Update, context: ContextTypes.DEFAULT_TYPE):
@@ -3090,6 +3263,9 @@ DASHBOARD_HTML = """
                     🚀 Process Next 50
                 </button>
             </div>
+            <button id="autoProcessBtn" style="width:100%;background:#22c55e;color:#000;border:none;padding:12px;border-radius:10px;font-weight:700;font-size:13px;cursor:pointer;margin-top:10px;">
+                ⚙️ Push All (auto-stage, GitHub push every 10 min)
+            </button>
             <div class="status" id="backlogActionStatus"></div>
         </div>
 
@@ -3297,6 +3473,16 @@ DASHBOARD_HTML = """
                 if (procEl) procEl.textContent = s.processed_count;
                 const skipEl = document.getElementById('backlogSkippedCount');
                 if (skipEl) skipEl.textContent = s.skipped_duplicate;
+                const autoBtn = document.getElementById('autoProcessBtn');
+                if (autoBtn && !autoBtn.dataset.busy) {
+                    if (s.auto_processing) {
+                        autoBtn.textContent = '🛑 Stop Auto-Push (running...)';
+                        autoBtn.style.background = '#ef4444';
+                    } else {
+                        autoBtn.textContent = '⚙️ Push All (auto-stage, GitHub push every 10 min)';
+                        autoBtn.style.background = '#22c55e';
+                    }
+                }
             } catch (e) { /* dashboard offline */ }
         }
         refreshBacklogStatus();
@@ -3344,6 +3530,31 @@ DASHBOARD_HTML = """
                 }
                 processBatchBtn.disabled = false;
                 processBatchBtn.textContent = '🚀 Process Next 50';
+            });
+        }
+
+        const autoProcessBtn = document.getElementById('autoProcessBtn');
+        if (autoProcessBtn) {
+            autoProcessBtn.addEventListener('click', async () => {
+                autoProcessBtn.dataset.busy = '1';
+                const statusEl = document.getElementById('backlogActionStatus');
+                const currentlyRunning = autoProcessBtn.textContent.includes('Stop');
+                autoProcessBtn.disabled = true;
+                try {
+                    const endpoint = currentlyRunning
+                        ? '/api/backlog/auto_process/stop'
+                        : '/api/backlog/auto_process/start';
+                    const res = await fetch(endpoint, { method: 'POST' });
+                    const data = await res.json();
+                    statusEl.className = (data.status === 'ok' || data.status === 'already_running') ? 'status success' : 'status error';
+                    statusEl.textContent = (data.status === 'ok' ? '✅ ' : '⚠️ ') + data.message;
+                } catch (e) {
+                    statusEl.className = 'status error';
+                    statusEl.textContent = '❌ Error: ' + e.message;
+                }
+                autoProcessBtn.disabled = false;
+                delete autoProcessBtn.dataset.busy;
+                refreshBacklogStatus();
             });
         }
 
@@ -3700,6 +3911,7 @@ def api_backlog_status():
         "total_messages_scanned": state.get("total_messages_scanned", 0),
         "last_scan_time": state.get("last_scan_time"),
         "error": state.get("error"),
+        "auto_processing": is_autobacklog_running(),
     })
 
 @app.route("/api/backlog/process_batch", methods=["POST"])
@@ -3712,6 +3924,26 @@ def api_backlog_process_batch():
     return jsonify({"status": "ok",
                      "message": f"Processing up to {SCAN_BATCH_SIZE} comics "
                                 f"({len(state['found_codes'])} total waiting)"})
+
+@app.route("/api/backlog/auto_process/start", methods=["POST"])
+def api_backlog_auto_process_start():
+    state = load_backlog_state()
+    if not state.get("found_codes"):
+        return jsonify({"status": "empty", "message": "No scanned comics waiting to be processed"})
+    started = start_autobacklog()
+    if not started:
+        return jsonify({"status": "already_running",
+                         "message": "Auto-processing is already running"})
+    return jsonify({"status": "ok",
+                     "message": "Auto-processing started — stages comics continuously in "
+                                f"batches of {SCAN_BATCH_SIZE} until the queue is empty. "
+                                "Pushes to GitHub stay on their own 10-minute pace, same as "
+                                "normal posting, so this won't spam GitHub Actions."})
+
+@app.route("/api/backlog/auto_process/stop", methods=["POST"])
+def api_backlog_auto_process_stop():
+    stop_autobacklog()
+    return jsonify({"status": "ok", "message": "Auto-processing will stop after the current batch"})
 
 # ============== MAIN ==============
 BOT_HEALTH = {"status": "starting", "last_update": None, "restart_count": 0}
