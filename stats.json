@@ -1,299 +1,505 @@
 {
-  "total_posts": 27,
+  "total_posts": 77,
   "posts": [
     {
-      "code": "676326",
-      "title": "Yurishita",
-      "success": false,
-      "time": "2026-08-31 03:04:17",
-      "error": "Git push failed"
-    },
-    {
-      "code": "676326",
-      "title": "Yurishita",
-      "success": false,
-      "time": "2026-08-31 03:04:22",
-      "error": "Git push failed"
-    },
-    {
-      "code": "676326",
-      "title": "Yurishita",
-      "success": false,
-      "time": "2026-08-31 03:21:16",
-      "error": "Git push failed",
-      "google_pinged": false,
-      "indexnow_pinged": false,
-      "post_url": "https://arccomic.github.io/works/676326/"
-    },
-    {
-      "code": "?",
-      "title": "(unparsed post)",
-      "success": false,
-      "time": "2026-08-31 11:21:19",
-      "error": "Could not find a Code field in the post",
-      "google_pinged": false,
-      "indexnow_pinged": false,
-      "post_url": null
-    },
-    {
-      "code": "?",
-      "title": "(unparsed post)",
-      "success": false,
-      "time": "2026-08-31 11:21:19",
-      "error": "Could not find a Code field in the post",
-      "google_pinged": false,
-      "indexnow_pinged": false,
-      "post_url": null
-    },
-    {
-      "code": "676326",
-      "title": "Yurishita",
+      "code": "676325",
+      "title": "Otona no Asobi wo Manabitai | I Wanna Learn How Adults Have Fun!",
       "success": true,
-      "time": "2026-08-31 11:24:04",
-      "error": null,
-      "google_pinged": false,
-      "indexnow_pinged": true,
-      "post_url": "https://arccomic.github.io/works/676326/"
-    },
-    {
-      "code": "676327",
-      "title": "Yurishita 2 THE IDOLM\u00ef\u00bc\u00a0STER GIRLS LOVE!",
-      "success": true,
-      "time": "2026-08-31 11:52:47",
-      "error": null,
-      "google_pinged": false,
-      "indexnow_pinged": true,
-      "post_url": "https://arccomic.github.io/works/676327/"
-    },
-    {
-      "code": "676658",
-      "title": "Irodori Kazoku",
-      "success": true,
-      "time": "2026-09-01 03:41:51",
+      "time": "2026-09-03 03:48:32",
       "error": null,
       "google_pinged": true,
       "indexnow_pinged": true,
-      "post_url": "https://arccomic.github.io/works/676658/"
+      "post_url": "https://arccomic.github.io/works/676325/"
     },
     {
-      "code": "676658",
-      "title": "Irodori Kazoku",
+      "code": "676328",
+      "title": "Yurishita 3 THE IDOLM\uff20STER GIRLS LOVE!",
       "success": true,
-      "time": "2026-09-01 03:41:51",
+      "time": "2026-09-03 03:48:32",
       "error": null,
       "google_pinged": true,
       "indexnow_pinged": true,
-      "post_url": "https://arccomic.github.io/works/676658/"
+      "post_url": "https://arccomic.github.io/works/676328/"
     },
     {
-      "code": "677257",
-      "title": "Hiroware Kyuuketsuki wa Oneesan wo Aishitaishi Aisaretai",
+      "code": "676352",
+      "title": "Minna de Sh\u016bgaku Ryok\u014d-hen | School Trip Arc With Everyone",
       "success": true,
-      "time": "2026-09-01 03:41:51",
+      "time": "2026-09-03 03:48:32",
       "error": null,
       "google_pinged": true,
       "indexnow_pinged": true,
-      "post_url": "https://arccomic.github.io/works/677257/"
+      "post_url": "https://arccomic.github.io/works/676352/"
     },
     {
-      "code": "677257",
-      "title": "Hiroware Kyuuketsuki wa Oneesan wo Aishitaishi Aisaretai",
+      "code": "676397",
+      "title": "Stoic Diary",
       "success": true,
-      "time": "2026-09-01 03:41:51",
+      "time": "2026-09-03 03:48:32",
       "error": null,
       "google_pinged": true,
       "indexnow_pinged": true,
-      "post_url": "https://arccomic.github.io/works/677257/"
+      "post_url": "https://arccomic.github.io/works/676397/"
     },
     {
-      "code": "677247",
-      "title": "Otokonoko Revolution!",
+      "code": "634450",
+      "title": "Kanojo ga Kami o Someta Wake ~Kataomoi no Seiso Kurokami Ojou-sama ga Boku no Shiranai Tokoro de Otoko no Aji o Oboeru Hanashi~ | The Real Reason She Changed Her Hair",
       "success": true,
-      "time": "2026-09-01 03:41:51",
+      "time": "2026-09-03 03:48:32",
       "error": null,
       "google_pinged": true,
       "indexnow_pinged": true,
-      "post_url": "https://arccomic.github.io/works/677247/"
+      "post_url": "https://arccomic.github.io/works/634450/"
     },
     {
-      "code": "677247",
-      "title": "Otokonoko Revolution!",
+      "code": "676425",
+      "title": "26/08 Post 5$ & 8$",
       "success": true,
-      "time": "2026-09-01 03:41:51",
+      "time": "2026-09-03 03:48:32",
       "error": null,
       "google_pinged": true,
       "indexnow_pinged": true,
-      "post_url": "https://arccomic.github.io/works/677247/"
+      "post_url": "https://arccomic.github.io/works/676425/"
     },
     {
-      "code": "677234",
-      "title": "Sensei Senyou Himitsu no Kokkai",
+      "code": "676439",
+      "title": "Totoki Airi to Hitobanjuu Kozukuri Sex Suru Hon | A Book About Having Baby-Making Sex with Totoki Airi All Night Long",
       "success": true,
-      "time": "2026-09-01 03:41:51",
+      "time": "2026-09-03 03:48:32",
       "error": null,
       "google_pinged": true,
       "indexnow_pinged": true,
-      "post_url": "https://arccomic.github.io/works/677234/"
+      "post_url": "https://arccomic.github.io/works/676439/"
     },
     {
-      "code": "677234",
-      "title": "Sensei Senyou Himitsu no Kokkai",
+      "code": "676458",
+      "title": "Sister Contrast 2: Muttsuri Onee-chan to Henai Koubi | Sister contrast 2: My Sultry Sister Want To Be Breeded.",
       "success": true,
-      "time": "2026-09-01 03:41:51",
+      "time": "2026-09-03 03:48:32",
       "error": null,
       "google_pinged": true,
       "indexnow_pinged": true,
-      "post_url": "https://arccomic.github.io/works/677234/"
+      "post_url": "https://arccomic.github.io/works/676458/"
     },
     {
-      "code": "677230",
-      "title": "Holy Bitch 1",
+      "code": "660399",
+      "title": "Imouto ga Ore no Kanojo!? 2-haku 3-ka no Ecchi na Kankei | My Sister is My Girlfriend!? Sexual Relationship for Two Nights and Three Days",
       "success": true,
-      "time": "2026-09-01 03:41:51",
+      "time": "2026-09-03 03:48:32",
       "error": null,
       "google_pinged": true,
       "indexnow_pinged": true,
-      "post_url": "https://arccomic.github.io/works/677230/"
+      "post_url": "https://arccomic.github.io/works/660399/"
     },
     {
-      "code": "677230",
-      "title": "Holy Bitch 1",
+      "code": "534388",
+      "title": "\"Sex no Benkyou Shiyokka?\" Kareshi ga Iru no ni Itoko kara Shojo wo Ubaware Zecchou Shidou 1-5 | Let's Learn About Sex: Your Cousin Will Take Your Virginity and Teach You How to Come 1-5",
       "success": true,
-      "time": "2026-09-01 03:41:51",
+      "time": "2026-09-03 03:48:32",
       "error": null,
       "google_pinged": true,
       "indexnow_pinged": true,
-      "post_url": "https://arccomic.github.io/works/677230/"
+      "post_url": "https://arccomic.github.io/works/534388/"
     },
     {
-      "code": "494172",
-      "title": "Bocchi de Shinda Ore ga Bishoujo Nurse ni Natta Hanashi | The Story of How I Died Alone and Became a Sexy Nurse",
+      "code": "511316",
+      "title": "Hitozuma Volley-bu no Asedaku SEX ~Shower Abinagara Micchaku Shichau? 1-2 | Married Women's Volleyball Club Sweaty Sex - We're Being Glued Together While Taking A Shower? 1-2",
       "success": true,
-      "time": "2026-09-01 03:41:51",
+      "time": "2026-09-03 03:48:32",
       "error": null,
       "google_pinged": true,
       "indexnow_pinged": true,
-      "post_url": "https://arccomic.github.io/works/494172/"
+      "post_url": "https://arccomic.github.io/works/511316/"
     },
     {
-      "code": "494172",
-      "title": "Bocchi de Shinda Ore ga Bishoujo Nurse ni Natta Hanashi | The Story of How I Died Alone and Became a Sexy Nurse",
+      "code": "618087",
+      "title": "Futari de Watashi o Ikasenaide...! ~Kurayami, Majiwaru Kyoudai Futon~  | My 2 Step-Brothers are Ganging Up on Me!  Vol.1",
       "success": true,
-      "time": "2026-09-01 03:41:51",
+      "time": "2026-09-03 03:48:32",
       "error": null,
       "google_pinged": true,
       "indexnow_pinged": true,
-      "post_url": "https://arccomic.github.io/works/494172/"
+      "post_url": "https://arccomic.github.io/works/618087/"
     },
     {
-      "code": "556767",
-      "title": "Hayato-sensei no Mesu-ka Karute Daigaku-hen | Dr. Hayato's Feminization Medical Record ~University Edition~",
+      "code": "544324",
+      "title": "Kekkon 3-Nen Me no Tsuma wa, Shain Ryokou Chuu ni Otto no Yoko de Netorareru! 1 | Netorare With a Busty Wife on a Company Trip 1",
       "success": true,
-      "time": "2026-09-01 03:41:51",
+      "time": "2026-09-03 03:48:32",
       "error": null,
       "google_pinged": true,
       "indexnow_pinged": true,
-      "post_url": "https://arccomic.github.io/works/556767/"
+      "post_url": "https://arccomic.github.io/works/544324/"
     },
     {
-      "code": "556767",
-      "title": "Hayato-sensei no Mesu-ka Karute Daigaku-hen | Dr. Hayato's Feminization Medical Record ~University Edition~",
+      "code": "589969",
+      "title": "Pashiri no Shita Teku, Yabaitte... ~ Ebi Sori Iki Suru Namaiki Gyaru | Bullied Boy's Tongue Revenge Vol.1-4",
       "success": true,
-      "time": "2026-09-01 03:41:51",
+      "time": "2026-09-03 03:48:32",
       "error": null,
       "google_pinged": true,
       "indexnow_pinged": true,
-      "post_url": "https://arccomic.github.io/works/556767/"
+      "post_url": "https://arccomic.github.io/works/589969/"
     },
     {
-      "code": "595788",
-      "title": "Wakazuma Arijigoku",
+      "code": "676320",
+      "title": "Konyakusha no Imouto wa Kao SSR, Seikaku Saiaku Jigoku no Ero Dance Onna. 2 | My Fianc\u00e9e's Younger Sister is a SSR Influencer with a Terrible Personality and is a Hellish Erotic Dancer. 2",
       "success": true,
-      "time": "2026-09-01 03:41:51",
+      "time": "2026-09-03 03:48:32",
       "error": null,
       "google_pinged": true,
       "indexnow_pinged": true,
-      "post_url": "https://arccomic.github.io/works/595788/"
+      "post_url": "https://arccomic.github.io/works/676320/"
     },
     {
-      "code": "595788",
-      "title": "Wakazuma Arijigoku",
+      "code": "676181",
+      "title": "Meikko na Syoujo no Ehon 3",
       "success": true,
-      "time": "2026-09-01 03:41:51",
+      "time": "2026-09-03 03:48:32",
       "error": null,
       "google_pinged": true,
       "indexnow_pinged": true,
-      "post_url": "https://arccomic.github.io/works/595788/"
+      "post_url": "https://arccomic.github.io/works/676181/"
     },
     {
-      "code": "677079",
-      "title": "Ani ga Inma ni Natta node",
+      "code": "676182",
+      "title": "Meikko na Syoujo no Ehon 5 -Kouhen-",
       "success": true,
-      "time": "2026-09-01 03:41:51",
+      "time": "2026-09-03 03:48:32",
       "error": null,
       "google_pinged": true,
       "indexnow_pinged": true,
-      "post_url": "https://arccomic.github.io/works/677079/"
+      "post_url": "https://arccomic.github.io/works/676182/"
     },
     {
-      "code": "677079",
-      "title": "Ani ga Inma ni Natta node",
+      "code": "676183",
+      "title": "Meikko na Syoujo no Ehon 5 -Zenpen-",
       "success": true,
-      "time": "2026-09-01 03:41:51",
+      "time": "2026-09-03 03:48:32",
       "error": null,
       "google_pinged": true,
       "indexnow_pinged": true,
-      "post_url": "https://arccomic.github.io/works/677079/"
+      "post_url": "https://arccomic.github.io/works/676183/"
     },
     {
-      "code": "669505",
-      "title": "Soen ni Natteta Osananajimi ga Okuchi Onaho Gayoi Shite Kuru Mikkakan | Three Days Treating My Estranged Friend As An Oral Fuckhole",
+      "code": "676189",
+      "title": "Junai Kanjou",
       "success": true,
-      "time": "2026-09-01 03:41:51",
+      "time": "2026-09-03 03:48:32",
       "error": null,
       "google_pinged": true,
       "indexnow_pinged": true,
-      "post_url": "https://arccomic.github.io/works/669505/"
+      "post_url": "https://arccomic.github.io/works/676189/"
     },
     {
-      "code": "669505",
-      "title": "Soen ni Natteta Osananajimi ga Okuchi Onaho Gayoi Shite Kuru Mikkakan | Three Days Treating My Estranged Friend As An Oral Fuckhole",
+      "code": "676193",
+      "title": "NTR stuff",
       "success": true,
-      "time": "2026-09-01 03:41:51",
+      "time": "2026-09-03 03:48:32",
       "error": null,
       "google_pinged": true,
       "indexnow_pinged": true,
-      "post_url": "https://arccomic.github.io/works/669505/"
+      "post_url": "https://arccomic.github.io/works/676193/"
     },
     {
-      "code": "550359",
-      "title": "Uwa, Mesugaki Tsuyoi! | Crap, This Mesugaki's Too Powerful!",
+      "code": "668605",
+      "title": "Niizuma Nanaka no Roshutsu Office",
       "success": true,
-      "time": "2026-09-01 03:41:51",
+      "time": "2026-09-03 03:48:32",
       "error": null,
       "google_pinged": true,
       "indexnow_pinged": true,
-      "post_url": "https://arccomic.github.io/works/550359/"
+      "post_url": "https://arccomic.github.io/works/668605/"
     },
     {
-      "code": "550359",
-      "title": "Uwa, Mesugaki Tsuyoi! | Crap, This Mesugaki's Too Powerful!",
+      "code": "520363",
+      "title": "Niizuma Nanaka no Roshutsu Satsuei",
       "success": true,
-      "time": "2026-09-01 03:41:51",
+      "time": "2026-09-03 03:48:32",
       "error": null,
       "google_pinged": true,
       "indexnow_pinged": true,
-      "post_url": "https://arccomic.github.io/works/550359/"
+      "post_url": "https://arccomic.github.io/works/520363/"
     },
     {
-      "code": "676589",
-      "title": "Possession Golf",
+      "code": "652651",
+      "title": "Majime na Salaryman ga JK Chijo ni Otosareru Hanashi",
       "success": true,
-      "time": "2026-09-03 00:49:39",
+      "time": "2026-09-03 03:48:32",
       "error": null,
       "google_pinged": true,
       "indexnow_pinged": true,
-      "post_url": "https://arccomic.github.io/works/676589/"
+      "post_url": "https://arccomic.github.io/works/652651/"
+    },
+    {
+      "code": "676196",
+      "title": "Aoi-chan to Himitsu no Seikatsu Shidou 1-19",
+      "success": true,
+      "time": "2026-09-03 03:48:32",
+      "error": null,
+      "google_pinged": true,
+      "indexnow_pinged": true,
+      "post_url": "https://arccomic.github.io/works/676196/"
+    },
+    {
+      "code": "676197",
+      "title": "Karin-chan no Himitsu Kichi Matome",
+      "success": true,
+      "time": "2026-09-03 03:48:32",
+      "error": null,
+      "google_pinged": true,
+      "indexnow_pinged": true,
+      "post_url": "https://arccomic.github.io/works/676197/"
+    },
+    {
+      "code": "676201",
+      "title": "Onii-chan... Momoko, AV Joyuu datte Dekiru yo? | Momoko... Could Even be a Porn Star, You Know?",
+      "success": true,
+      "time": "2026-09-03 03:48:32",
+      "error": null,
+      "google_pinged": true,
+      "indexnow_pinged": true,
+      "post_url": "https://arccomic.github.io/works/676201/"
+    },
+    {
+      "code": "675981",
+      "title": "Mesu no Ie III ~Oyako wa Midare Aisareru~",
+      "success": true,
+      "time": "2026-09-03 03:48:32",
+      "error": null,
+      "google_pinged": true,
+      "indexnow_pinged": true,
+      "post_url": "https://arccomic.github.io/works/675981/"
+    },
+    {
+      "code": "676149",
+      "title": "Sensei!! I Told You Not To Come Again Didn't I !!",
+      "success": true,
+      "time": "2026-09-03 03:48:32",
+      "error": null,
+      "google_pinged": true,
+      "indexnow_pinged": true,
+      "post_url": "https://arccomic.github.io/works/676149/"
+    },
+    {
+      "code": "676013",
+      "title": "Osananajimi ga Joukyo-chuu ni Osananajimi no Chichi to Daita | While My Childhood Friend Was Away in Tokyo I Slept With His Dad",
+      "success": true,
+      "time": "2026-09-03 03:48:32",
+      "error": null,
+      "google_pinged": true,
+      "indexnow_pinged": true,
+      "post_url": "https://arccomic.github.io/works/676013/"
+    },
+    {
+      "code": "518387",
+      "title": "Kyoushi no Oba wa Himitsu no Bakunyuu Ero Cos Layer ~Iinari Gyaku Bunny & Sister Cos de Keiren Soku Iki Nakadashi Netori~ | My Teacher Aunt Is Secretly A Buxom Erotic Cosplayer",
+      "success": true,
+      "time": "2026-09-03 03:48:32",
+      "error": null,
+      "google_pinged": true,
+      "indexnow_pinged": true,
+      "post_url": "https://arccomic.github.io/works/518387/"
+    },
+    {
+      "code": "592307",
+      "title": "Kyoushi to Mama to Koibito no Kao",
+      "success": true,
+      "time": "2026-09-03 03:48:32",
+      "error": null,
+      "google_pinged": true,
+      "indexnow_pinged": true,
+      "post_url": "https://arccomic.github.io/works/592307/"
+    },
+    {
+      "code": "537490",
+      "title": "Tainai Kaiki ~Neet no Ore wa Bakunyuu Haha to Manjiru Toroama Kozukuri Sex de Iyasareru~ | Reverting to the Womb: As a NEET, I'm Healed by Making Sweet, Creamy Love with My Busty Mother",
+      "success": true,
+      "time": "2026-09-03 03:48:32",
+      "error": null,
+      "google_pinged": true,
+      "indexnow_pinged": true,
+      "post_url": "https://arccomic.github.io/works/537490/"
+    },
+    {
+      "code": "563890",
+      "title": "Tennen Kaa-san ga Ero Kawai Sugiru node, Saimin Onaho Sex Shitatta! | My Airheaded Mom Was Too Adorably Sexy, So I Had Hypnotized Onahole Sex with Her!",
+      "success": true,
+      "time": "2026-09-03 03:48:32",
+      "error": null,
+      "google_pinged": true,
+      "indexnow_pinged": true,
+      "post_url": "https://arccomic.github.io/works/563890/"
+    },
+    {
+      "code": "595108",
+      "title": "Nagachichi Haha no Naedoko",
+      "success": true,
+      "time": "2026-09-03 03:48:32",
+      "error": null,
+      "google_pinged": true,
+      "indexnow_pinged": true,
+      "post_url": "https://arccomic.github.io/works/595108/"
+    },
+    {
+      "code": "611978",
+      "title": "Ottori Itome no Oba o Odoshite Hamete Iinari Onaho-ka Keikaku | Gentle Slit-Eyed Aunty Blackmail & Obedient Fuckhole Training Project",
+      "success": true,
+      "time": "2026-09-03 03:48:32",
+      "error": null,
+      "google_pinged": true,
+      "indexnow_pinged": true,
+      "post_url": "https://arccomic.github.io/works/611978/"
+    },
+    {
+      "code": "637131",
+      "title": "Haha to iu Kaibutsu ~M Otoko Aka-chan toshite Sodate rareta Boku wa Yasashii Mama ni Dekiai sareru~ | Mother, the Monster ~I was raised as a masochistic baby and am doted on by my kind mother~",
+      "success": true,
+      "time": "2026-09-03 03:48:32",
+      "error": null,
+      "google_pinged": true,
+      "indexnow_pinged": true,
+      "post_url": "https://arccomic.github.io/works/637131/"
+    },
+    {
+      "code": "613739",
+      "title": "Fuufu Koukan Matching Appli ~DQN na Hitozuma ni Nakadashi Houshi~",
+      "success": true,
+      "time": "2026-09-03 03:48:32",
+      "error": null,
+      "google_pinged": true,
+      "indexnow_pinged": true,
+      "post_url": "https://arccomic.github.io/works/613739/"
+    },
+    {
+      "code": "616367",
+      "title": "Tsuma ni Ani to Kozukuri Shite Moraimashita",
+      "success": true,
+      "time": "2026-09-03 03:48:32",
+      "error": null,
+      "google_pinged": true,
+      "indexnow_pinged": true,
+      "post_url": "https://arccomic.github.io/works/616367/"
+    },
+    {
+      "code": "637847",
+      "title": "My gentle and kind friend's mom was a slut who devoured young boys' cocks.",
+      "success": true,
+      "time": "2026-09-03 03:48:32",
+      "error": null,
+      "google_pinged": true,
+      "indexnow_pinged": true,
+      "post_url": "https://arccomic.github.io/works/637847/"
+    },
+    {
+      "code": "512473",
+      "title": "Bitch Mama no Kekkon Riyuu",
+      "success": true,
+      "time": "2026-09-03 03:48:32",
+      "error": null,
+      "google_pinged": true,
+      "indexnow_pinged": true,
+      "post_url": "https://arccomic.github.io/works/512473/"
+    },
+    {
+      "code": "608648",
+      "title": "Sono Gal Mama wa Koubi Suru | This Gyaru Mom is Having Sex.",
+      "success": true,
+      "time": "2026-09-03 03:48:32",
+      "error": null,
+      "google_pinged": true,
+      "indexnow_pinged": true,
+      "post_url": "https://arccomic.github.io/works/608648/"
+    },
+    {
+      "code": "656146",
+      "title": "Haha Ochi Nikki ~Ureta Jitsubo no Nama Manko o Seishori Benjo ni Otosu made",
+      "success": true,
+      "time": "2026-09-03 03:48:32",
+      "error": null,
+      "google_pinged": true,
+      "indexnow_pinged": true,
+      "post_url": "https://arccomic.github.io/works/656146/"
+    },
+    {
+      "code": "672450",
+      "title": "Boku-tachi Mama to Yattemasu",
+      "success": true,
+      "time": "2026-09-03 03:48:32",
+      "error": null,
+      "google_pinged": true,
+      "indexnow_pinged": true,
+      "post_url": "https://arccomic.github.io/works/672450/"
+    },
+    {
+      "code": "654373",
+      "title": "Provoking Men Part 1",
+      "success": true,
+      "time": "2026-09-03 03:48:32",
+      "error": null,
+      "google_pinged": true,
+      "indexnow_pinged": true,
+      "post_url": "https://arccomic.github.io/works/654373/"
+    },
+    {
+      "code": "643932",
+      "title": "Oyagakari no Haha",
+      "success": true,
+      "time": "2026-09-03 03:48:32",
+      "error": null,
+      "google_pinged": true,
+      "indexnow_pinged": true,
+      "post_url": "https://arccomic.github.io/works/643932/"
+    },
+    {
+      "code": "643933",
+      "title": "Oyasumi Kaa-san",
+      "success": true,
+      "time": "2026-09-03 03:48:32",
+      "error": null,
+      "google_pinged": true,
+      "indexnow_pinged": true,
+      "post_url": "https://arccomic.github.io/works/643933/"
+    },
+    {
+      "code": "655205",
+      "title": "boku no haha ga saikon si nai riyuu\uff08 wake\uff09",
+      "success": true,
+      "time": "2026-09-03 03:48:32",
+      "error": null,
+      "google_pinged": true,
+      "indexnow_pinged": true,
+      "post_url": "https://arccomic.github.io/works/655205/"
+    },
+    {
+      "code": "656143",
+      "title": "Gomen, Kaa-san Otonashiiku Shite",
+      "success": true,
+      "time": "2026-09-03 03:48:32",
+      "error": null,
+      "google_pinged": true,
+      "indexnow_pinged": true,
+      "post_url": "https://arccomic.github.io/works/656143/"
+    },
+    {
+      "code": "642770",
+      "title": "Anta, Nandetatten no?",
+      "success": true,
+      "time": "2026-09-03 03:48:32",
+      "error": null,
+      "google_pinged": true,
+      "indexnow_pinged": true,
+      "post_url": "https://arccomic.github.io/works/642770/"
+    },
+    {
+      "code": "342639",
+      "title": "Saikin, Musuko no Yousu ga Hen nan desu | Lately my son has been acting Strangly",
+      "success": true,
+      "time": "2026-09-03 03:48:32",
+      "error": null,
+      "google_pinged": true,
+      "indexnow_pinged": true,
+      "post_url": "https://arccomic.github.io/works/342639/"
     }
   ],
   "last_error": "Could not find a Code field in the post",

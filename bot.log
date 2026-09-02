@@ -307,3 +307,140 @@ _queue.Empty
 192.168.0.201 - - [03/Sep/2026 03:46:18] "GET /api/social_links HTTP/1.1" 200 -
 🔧 Regenerated 248 tag pages
 🔧 Regenerated 44 artist pages
+192.168.0.201 - - [03/Sep/2026 03:46:26] "GET /api/backlog/status HTTP/1.1" 200 -
+192.168.0.201 - - [03/Sep/2026 03:46:28] "GET / HTTP/1.1" 200 -
+192.168.0.201 - - [03/Sep/2026 03:46:28] "GET /api/backlog/login_status HTTP/1.1" 200 -
+192.168.0.201 - - [03/Sep/2026 03:46:28] "GET /api/social_links HTTP/1.1" 200 -
+192.168.0.201 - - [03/Sep/2026 03:46:28] "GET /api/backlog/status HTTP/1.1" 200 -
+192.168.0.201 - - [03/Sep/2026 03:46:37] "GET /api/backlog/status HTTP/1.1" 200 -
+192.168.0.201 - - [03/Sep/2026 03:46:39] "GET /api/health HTTP/1.1" 200 -
+192.168.0.201 - - [03/Sep/2026 03:46:48] "GET /api/backlog/status HTTP/1.1" 200 -
+192.168.0.201 - - [03/Sep/2026 03:46:49] "GET /api/health HTTP/1.1" 200 -
+✅ Pushed work #batch
+🗺️ sitemap.xml lastmod updated to 2026-09-03
+🚀 IndexNow submitted: https://arccomic.github.io/works/676325/
+🚀 IndexNow submitted: https://arccomic.github.io/works/676328/
+192.168.0.201 - - [03/Sep/2026 03:46:53] "GET /api/backlog/status HTTP/1.1" 200 -
+🚀 IndexNow submitted: https://arccomic.github.io/works/676352/
+192.168.0.201 - - [03/Sep/2026 03:46:58] "GET /api/health HTTP/1.1" 200 -
+192.168.0.201 - - [03/Sep/2026 03:47:01] "GET /api/backlog/status HTTP/1.1" 200 -
+192.168.0.201 - - [03/Sep/2026 03:47:02] "GET / HTTP/1.1" 200 -
+192.168.0.201 - - [03/Sep/2026 03:47:02] "GET /api/backlog/login_status HTTP/1.1" 200 -
+192.168.0.201 - - [03/Sep/2026 03:47:02] "GET /api/backlog/status HTTP/1.1" 200 -
+192.168.0.201 - - [03/Sep/2026 03:47:02] "GET /api/social_links HTTP/1.1" 200 -
+⚠️ IndexNow failed: HTTPSConnectionPool(host='api.indexnow.org', port=443): Read timed out. (read timeout=15)
+192.168.0.201 - - [03/Sep/2026 03:47:11] "GET /api/backlog/status HTTP/1.1" 200 -
+192.168.0.201 - - [03/Sep/2026 03:47:13] "GET /api/health HTTP/1.1" 200 -
+192.168.0.201 - - [03/Sep/2026 03:47:19] "GET /api/backlog/status HTTP/1.1" 200 -
+192.168.0.201 - - [03/Sep/2026 03:47:23] "GET /api/health HTTP/1.1" 200 -
+192.168.0.201 - - [03/Sep/2026 03:47:27] "GET /api/backlog/status HTTP/1.1" 200 -
+192.168.0.201 - - [03/Sep/2026 03:47:33] "GET /api/health HTTP/1.1" 200 -
+192.168.0.201 - - [03/Sep/2026 03:47:35] "GET /api/backlog/status HTTP/1.1" 200 -
+192.168.0.201 - - [03/Sep/2026 03:47:37] "GET / HTTP/1.1" 200 -
+192.168.0.201 - - [03/Sep/2026 03:47:37] "GET /api/backlog/login_status HTTP/1.1" 200 -
+192.168.0.201 - - [03/Sep/2026 03:47:37] "GET /api/backlog/status HTTP/1.1" 200 -
+192.168.0.201 - - [03/Sep/2026 03:47:37] "GET /api/social_links HTTP/1.1" 200 -
+⚠️ IndexNow failed: HTTPSConnectionPool(host='api.indexnow.org', port=443): Max retries exceeded with url: /IndexNow (Caused by NewConnectionError("HTTPSConnection(host='api.indexnow.org', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable"))
+🚀 IndexNow submitted: https://arccomic.github.io/works/676425/
+🚀 IndexNow submitted: https://arccomic.github.io/works/676439/
+🚀 IndexNow submitted: https://arccomic.github.io/works/676458/
+🚀 IndexNow submitted: https://arccomic.github.io/works/660399/
+🚀 IndexNow submitted: https://arccomic.github.io/works/534388/
+192.168.0.201 - - [03/Sep/2026 03:47:45] "GET /api/backlog/status HTTP/1.1" 200 -
+🚀 IndexNow submitted: https://arccomic.github.io/works/511316/
+192.168.0.201 - - [03/Sep/2026 03:47:47] "GET /api/health HTTP/1.1" 200 -
+🚀 IndexNow submitted: https://arccomic.github.io/works/618087/
+192.168.0.201 - - [03/Sep/2026 03:47:48] "GET / HTTP/1.1" 200 -
+192.168.0.201 - - [03/Sep/2026 03:47:48] "GET /api/backlog/status HTTP/1.1" 200 -
+192.168.0.201 - - [03/Sep/2026 03:47:48] "GET /api/backlog/login_status HTTP/1.1" 200 -
+192.168.0.201 - - [03/Sep/2026 03:47:48] "GET /api/social_links HTTP/1.1" 200 -
+🚀 IndexNow submitted: https://arccomic.github.io/works/544324/
+🚀 IndexNow submitted: https://arccomic.github.io/works/589969/
+🚀 IndexNow submitted: https://arccomic.github.io/works/676320/
+🚀 IndexNow submitted: https://arccomic.github.io/works/676181/
+🚀 IndexNow submitted: https://arccomic.github.io/works/676182/
+🚀 IndexNow submitted: https://arccomic.github.io/works/676183/
+🚀 IndexNow submitted: https://arccomic.github.io/works/676189/
+192.168.0.201 - - [03/Sep/2026 03:47:56] "GET /api/backlog/status HTTP/1.1" 200 -
+🚀 IndexNow submitted: https://arccomic.github.io/works/676193/
+🚀 IndexNow submitted: https://arccomic.github.io/works/668605/
+192.168.0.201 - - [03/Sep/2026 03:47:58] "GET /api/health HTTP/1.1" 200 -
+🚀 IndexNow submitted: https://arccomic.github.io/works/520363/
+🚀 IndexNow submitted: https://arccomic.github.io/works/652651/
+🚀 IndexNow submitted: https://arccomic.github.io/works/676196/
+🚀 IndexNow submitted: https://arccomic.github.io/works/676197/
+🚀 IndexNow submitted: https://arccomic.github.io/works/676201/
+192.168.0.201 - - [03/Sep/2026 03:48:04] "GET /api/backlog/status HTTP/1.1" 200 -
+🚀 IndexNow submitted: https://arccomic.github.io/works/675981/
+192.168.0.201 - - [03/Sep/2026 03:48:05] "GET / HTTP/1.1" 200 -
+192.168.0.201 - - [03/Sep/2026 03:48:05] "GET /api/backlog/login_status HTTP/1.1" 200 -
+192.168.0.201 - - [03/Sep/2026 03:48:05] "GET /api/backlog/status HTTP/1.1" 200 -
+192.168.0.201 - - [03/Sep/2026 03:48:05] "GET /api/social_links HTTP/1.1" 200 -
+🚀 IndexNow submitted: https://arccomic.github.io/works/676149/
+🚀 IndexNow submitted: https://arccomic.github.io/works/676013/
+🚀 IndexNow submitted: https://arccomic.github.io/works/518387/
+🚀 IndexNow submitted: https://arccomic.github.io/works/592307/
+🚀 IndexNow submitted: https://arccomic.github.io/works/537490/
+🚀 IndexNow submitted: https://arccomic.github.io/works/563890/
+🚀 IndexNow submitted: https://arccomic.github.io/works/595108/
+🚀 IndexNow submitted: https://arccomic.github.io/works/611978/
+192.168.0.201 - - [03/Sep/2026 03:48:14] "GET /api/backlog/status HTTP/1.1" 200 -
+🚀 IndexNow submitted: https://arccomic.github.io/works/637131/
+192.168.0.201 - - [03/Sep/2026 03:48:16] "GET /api/health HTTP/1.1" 200 -
+🚀 IndexNow submitted: https://arccomic.github.io/works/613739/
+🚀 IndexNow submitted: https://arccomic.github.io/works/616367/
+🚀 IndexNow submitted: https://arccomic.github.io/works/637847/
+🚀 IndexNow submitted: https://arccomic.github.io/works/512473/
+🚀 IndexNow submitted: https://arccomic.github.io/works/608648/
+192.168.0.201 - - [03/Sep/2026 03:48:22] "GET /api/backlog/status HTTP/1.1" 200 -
+🚀 IndexNow submitted: https://arccomic.github.io/works/656146/
+🚀 IndexNow submitted: https://arccomic.github.io/works/672450/
+🚀 IndexNow submitted: https://arccomic.github.io/works/654373/
+🚀 IndexNow submitted: https://arccomic.github.io/works/643932/
+192.168.0.201 - - [03/Sep/2026 03:48:26] "GET /api/health HTTP/1.1" 200 -
+🚀 IndexNow submitted: https://arccomic.github.io/works/643933/
+🚀 IndexNow submitted: https://arccomic.github.io/works/655205/
+🚀 IndexNow submitted: https://arccomic.github.io/works/656143/
+192.168.0.201 - - [03/Sep/2026 03:48:30] "GET /api/backlog/status HTTP/1.1" 200 -
+🚀 IndexNow submitted: https://arccomic.github.io/works/642770/
+🚀 IndexNow submitted: https://arccomic.github.io/works/342639/
+✅ Batch flush complete: 50 post(s), pushed=True
+192.168.0.201 - - [03/Sep/2026 03:48:36] "GET /api/health HTTP/1.1" 200 -
+192.168.0.201 - - [03/Sep/2026 03:48:38] "GET /api/backlog/status HTTP/1.1" 200 -
+192.168.0.201 - - [03/Sep/2026 03:48:46] "GET /api/health HTTP/1.1" 200 -
+192.168.0.201 - - [03/Sep/2026 03:48:46] "GET /api/backlog/status HTTP/1.1" 200 -
+192.168.0.201 - - [03/Sep/2026 03:48:49] "GET / HTTP/1.1" 200 -
+192.168.0.201 - - [03/Sep/2026 03:48:49] "GET /api/backlog/login_status HTTP/1.1" 200 -
+192.168.0.201 - - [03/Sep/2026 03:48:49] "GET /api/backlog/status HTTP/1.1" 200 -
+192.168.0.201 - - [03/Sep/2026 03:48:49] "GET /api/social_links HTTP/1.1" 200 -
+🧹 Auto-cleanup: 50 confirmed-live cover(s) removed, 11103 KB freed
+192.168.0.201 - - [03/Sep/2026 03:48:57] "GET /api/backlog/status HTTP/1.1" 200 -
+192.168.0.201 - - [03/Sep/2026 03:48:59] "GET /api/health HTTP/1.1" 200 -
+192.168.0.201 - - [03/Sep/2026 03:49:05] "GET /api/backlog/status HTTP/1.1" 200 -
+192.168.0.201 - - [03/Sep/2026 03:49:09] "GET /api/health HTTP/1.1" 200 -
+192.168.0.201 - - [03/Sep/2026 03:49:13] "GET /api/backlog/status HTTP/1.1" 200 -
+192.168.0.201 - - [03/Sep/2026 03:49:19] "GET /api/health HTTP/1.1" 200 -
+192.168.0.201 - - [03/Sep/2026 03:49:21] "GET /api/backlog/status HTTP/1.1" 200 -
+192.168.0.201 - - [03/Sep/2026 03:49:29] "GET /api/health HTTP/1.1" 200 -
+192.168.0.201 - - [03/Sep/2026 03:49:29] "GET /api/backlog/status HTTP/1.1" 200 -
+192.168.0.201 - - [03/Sep/2026 03:49:37] "GET /api/backlog/status HTTP/1.1" 200 -
+192.168.0.201 - - [03/Sep/2026 03:49:39] "GET /api/health HTTP/1.1" 200 -
+192.168.0.201 - - [03/Sep/2026 03:49:45] "GET /api/backlog/status HTTP/1.1" 200 -
+192.168.0.201 - - [03/Sep/2026 03:49:49] "GET /api/health HTTP/1.1" 200 -
+192.168.0.201 - - [03/Sep/2026 03:49:53] "GET /api/backlog/status HTTP/1.1" 200 -
+192.168.0.201 - - [03/Sep/2026 03:49:59] "GET /api/health HTTP/1.1" 200 -
+192.168.0.201 - - [03/Sep/2026 03:53:55] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+192.168.0.201 - - [03/Sep/2026 03:53:58] "GET / HTTP/1.1" 200 -
+192.168.0.201 - - [03/Sep/2026 03:53:58] "GET /api/backlog/login_status HTTP/1.1" 200 -
+192.168.0.201 - - [03/Sep/2026 03:53:58] "GET /api/backlog/status HTTP/1.1" 200 -
+192.168.0.201 - - [03/Sep/2026 03:53:58] "GET /api/social_links HTTP/1.1" 200 -
+192.168.0.201 - - [03/Sep/2026 03:54:07] "GET /api/backlog/status HTTP/1.1" 200 -
+192.168.0.201 - - [03/Sep/2026 03:54:09] "GET /api/health HTTP/1.1" 200 -
+192.168.0.201 - - [03/Sep/2026 03:54:14] "GET /api/backlog/status HTTP/1.1" 200 -
+192.168.0.201 - - [03/Sep/2026 03:54:18] "GET /api/health HTTP/1.1" 200 -
+192.168.0.201 - - [03/Sep/2026 03:54:23] "GET /api/backlog/status HTTP/1.1" 200 -
+192.168.0.201 - - [03/Sep/2026 03:55:27] "GET /api/backlog/status HTTP/1.1" 200 -
+192.168.0.201 - - [03/Sep/2026 03:55:29] "GET /api/health HTTP/1.1" 200 -
+192.168.0.201 - - [03/Sep/2026 03:55:35] "GET /api/backlog/status HTTP/1.1" 200 -
+192.168.0.201 - - [03/Sep/2026 03:55:39] "GET /api/health HTTP/1.1" 200 -
+192.168.0.201 - - [03/Sep/2026 03:55:43] "GET /api/backlog/status HTTP/1.1" 200 -

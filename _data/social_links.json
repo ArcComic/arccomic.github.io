@@ -7,24 +7,24 @@
     "url": "https://t.me/+H2Xo8SLxqLdkMDNl"
   },
   {
-    "platform": "",
+    "icon": "twitter",
     "label": "Arc Comic",
-    "sublabel": "Comics, art drops & story updates",
-    "url": "https://x.com/ArcComicDaily",
-    "icon": "twitter"
+    "platform": "",
+    "sublabel": "Join our X  for Comics, art drops & story updates",
+    "url": "https://x.com/ArcComicDaily"
   },
   {
-    "platform": "",
+    "icon": "telegram",
     "label": "QuickAid Comic",
+    "platform": "",
     "sublabel": "Backup Telegram Channel of Arc Comic",
-    "url": "https://t.me/+cRIo66I_raphNGQ1",
-    "icon": "telegram"
+    "url": "https://t.me/+cRIo66I_raphNGQ1"
   },
   {
-    "platform": "",
+    "icon": "telegram",
     "label": "Arc Comics Bot",
+    "platform": "",
     "sublabel": "Convert nhentai Codes into Link in One Click",
-    "url": "https://t.me/ArcComicbot",
-    "icon": "telegram"
+    "url": "https://t.me/ArcComicbot"
   }
 ]
