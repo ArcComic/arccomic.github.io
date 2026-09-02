@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big breasts"
-work_count: 5
+work_count: 6
 works:
   - title: Wakazuma Arijigoku
     author: sunagawa-tara
@@ -18,6 +18,13 @@ works:
     date: '2026-08-31'
     code: 669505
     url: /works/669505/
+  - title: Possession Golf
+    author: rim
+    cover: /covers/676589.jpg
+    rating: 0.0
+    date: '2026-09-02'
+    code: 676589
+    url: /works/676589/
   - title: Irodori Kazoku
     author: sugi-g
     cover: /covers/676658.jpg

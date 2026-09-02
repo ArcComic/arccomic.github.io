@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "translated"
-work_count: 14
+work_count: 15
 works:
   - title: Bocchi de Shinda Ore ga Bishoujo Nurse ni Natta Hanashi | The Story of How
       I Died Alone and Became a Sexy Nurse
@@ -62,6 +62,13 @@ works:
     date: '2026-08-31'
     code: 676327
     url: /works/676327/
+  - title: Possession Golf
+    author: rim
+    cover: /covers/676589.jpg
+    rating: 0.0
+    date: '2026-09-02'
+    code: 676589
+    url: /works/676589/
   - title: Irodori Kazoku
     author: sugi-g
     cover: /covers/676658.jpg

@@ -11,7 +11,7 @@ layout: null
   {% for post in site.works %}
   <url>
     <loc>{{ site.url }}{{ post.url }}</loc>
-    <lastmod>2026-09-01</lastmod>
+    <lastmod>2026-09-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
