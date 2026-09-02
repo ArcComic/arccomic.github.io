@@ -25,6 +25,11 @@ defaults:
     type: tags
   values:
     layout: tag
+- scope:
+    path: ''
+    type: artists
+  values:
+    layout: artist
 lang: en
 timezone: Asia/Dhaka
 collections:
@@ -34,3 +39,6 @@ collections:
   tags:
     output: true
     permalink: /tags/:path/
+  artists:
+    output: true
+    permalink: /artists/:path/

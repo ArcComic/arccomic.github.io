@@ -1,0 +1,78 @@
+<!-- arc-comic-layout-version: 1 -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg">
+    <title>Browse Artists - Arc Comic</title>
+    <meta name="description" content="Browse all manga and doujinshi artists on Arc Comic">
+    <style>
+        :root { --bg: #0f0f13; --bg-card: #1a1a24; --bg-elevated: #222230; --accent: #f59e0b; --text: #e2e2e8; --text-muted: #8888a0; --border: #2a2a3a; }
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: 'Segoe UI', system-ui, sans-serif; background: var(--bg); color: var(--text); min-height: 100vh; }
+        .container { max-width: 900px; margin: 0 auto; padding: 24px; }
+        .logo-link { display: inline-flex; text-decoration: none; color: var(--accent); font-weight: 800; font-size: 18px; margin-bottom: 16px; }
+        .breadcrumb { color: var(--text-muted); font-size: 14px; margin-bottom: 20px; }
+        .breadcrumb a { color: var(--accent); text-decoration: none; }
+        h1 { font-size: 26px; font-weight: 800; margin-bottom: 20px; }
+        .search-box input {
+            width: 100%; padding: 12px 16px; background: var(--bg-card); border: 1px solid var(--border);
+            border-radius: 10px; color: var(--text); font-size: 14px; outline: none; margin-bottom: 24px;
+        }
+        .search-box input:focus { border-color: var(--accent); }
+        h2 { font-size: 16px; margin: 24px 0 12px; color: var(--text-muted); text-transform: uppercase; letter-spacing: 0.5px; }
+        .tag-cloud { display: flex; flex-wrap: wrap; gap: 8px; }
+        .tag-chip {
+            background: var(--bg-card); border: 1px solid var(--border); color: var(--text);
+            padding: 8px 14px; border-radius: 20px; font-size: 13px; text-decoration: none; display: inline-flex; gap: 6px; align-items: center;
+        }
+        .tag-chip:hover { border-color: var(--accent); color: var(--accent); }
+        .tag-count { color: var(--text-muted); font-size: 11px; }
+        .tag-chip.hidden { display: none; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <a href="/" class="logo-link">✨ Arc Comic</a>
+        <div class="breadcrumb"><a href="/">Home</a> › Artists</div>
+        <h1>✨ Browse Artists</h1>
+        <div class="search-box">
+            <input type="text" id="artistSearch" placeholder="Search artists...">
+        </div>
+        <h2>🔥 Popular Artists</h2>
+        <div class="tag-cloud" id="popularArtists">
+            <a href="/artists/testame/" class="tag-chip">testame <span class="tag-count">3</span></a>
+<a href="/artists/poncocchan/" class="tag-chip">poncocchan <span class="tag-count">2</span></a>
+<a href="/artists/houki/" class="tag-chip">houki <span class="tag-count">2</span></a>
+<a href="/artists/sunagawa-tara/" class="tag-chip">sunagawa-tara <span class="tag-count">1</span></a>
+<a href="/artists/sugi-g/" class="tag-chip">sugi-g <span class="tag-count">1</span></a>
+<a href="/artists/dobato/" class="tag-chip">dobato <span class="tag-count">1</span></a>
+<a href="/artists/hetaren/" class="tag-chip">hetaren <span class="tag-count">1</span></a>
+<a href="/artists/palco-nagashima/" class="tag-chip">palco-nagashima <span class="tag-count">1</span></a>
+<a href="/artists/nemunemu/" class="tag-chip">nemunemu <span class="tag-count">1</span></a>
+        </div>
+        <h2>A–Z All Artists</h2>
+        <div class="tag-cloud" id="allArtists">
+            <a href="/artists/dobato/" class="tag-chip">dobato <span class="tag-count">1</span></a>
+<a href="/artists/hetaren/" class="tag-chip">hetaren <span class="tag-count">1</span></a>
+<a href="/artists/houki/" class="tag-chip">houki <span class="tag-count">2</span></a>
+<a href="/artists/nemunemu/" class="tag-chip">nemunemu <span class="tag-count">1</span></a>
+<a href="/artists/palco-nagashima/" class="tag-chip">palco-nagashima <span class="tag-count">1</span></a>
+<a href="/artists/poncocchan/" class="tag-chip">poncocchan <span class="tag-count">2</span></a>
+<a href="/artists/sugi-g/" class="tag-chip">sugi-g <span class="tag-count">1</span></a>
+<a href="/artists/sunagawa-tara/" class="tag-chip">sunagawa-tara <span class="tag-count">1</span></a>
+<a href="/artists/testame/" class="tag-chip">testame <span class="tag-count">3</span></a>
+        </div>
+    </div>
+    <script>
+        document.getElementById('artistSearch').addEventListener('input', function(e) {
+            const q = e.target.value.toLowerCase();
+            document.querySelectorAll('#allArtists .tag-chip, #popularArtists .tag-chip').forEach(function(chip) {
+                const text = chip.textContent.toLowerCase();
+                chip.classList.toggle('hidden', q.length > 0 && !text.includes(q));
+            });
+        });
+    </script>
+</body>
+</html>

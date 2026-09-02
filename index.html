@@ -7,7 +7,7 @@
 # The empty front matter block below is still required so Jekyll processes
 # the Liquid tags (site.google_verification, site.works, etc.) in this file.
 ---
-<!-- arc-comic-index-version: 4 -->
+<!-- arc-comic-index-version: 6 -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -19,6 +19,7 @@
     {% endif %}
     <title>✨ Arc Comic — Manga & Doujinshi Gallery</title>
     <meta name="description" content="Arc Comic — Curated manga and doujinshi gallery">
+    <script async src="https://ss.mrmnd.com/native.js"></script>
     <style>
         :root {
             --bg: #0f0f13; --bg-card: #1a1a24; --bg-elevated: #222230;
@@ -182,9 +183,12 @@
             <input type="text" placeholder="Search by title, author, or tag..." id="searchInput">
             <button id="searchBtn">Search</button>
         </div>
-        <div style="text-align:center;margin-bottom:30px;">
+        <div style="text-align:center;margin-bottom:30px;display:flex;gap:20px;justify-content:center;">
             <a href="/tags/" style="color:var(--text-muted);font-size:13px;text-decoration:none;border-bottom:1px dashed var(--border);padding-bottom:2px;">
                 💥 Browse All Tags →
+            </a>
+            <a href="/artists/" style="color:var(--text-muted);font-size:13px;text-decoration:none;border-bottom:1px dashed var(--border);padding-bottom:2px;">
+                ✨ Browse Artists →
             </a>
         </div>
         <h2 class="section-title">
@@ -285,6 +289,24 @@
             `).join('');
         }
 
+        function buildWorkCardsWithAd(pageWorks, isFirstPage) {
+            const cards = pageWorks.map(w => `
+                <a href="${w.url}" class="work-card">
+                    <div class="cover"><img src="${w.cover}" alt="${w.title}"></div>
+                    <div class="info"><h3>${w.title}</h3><div class="meta">${w.author} • ⭐ ${w.rating}</div></div>
+                </a>
+            `);
+            // Native ad only on page 2+ (never the homepage's first
+            // impression), inserted at a random position each time the
+            // page renders so it doesn't always land in the same spot.
+            if (!isFirstPage && cards.length > 1) {
+                const adCard = `<div class="work-card" data-mndazid="46474a49-ec2d-4f56-b270-26751ac9202a" style="min-height:100%;"></div>`;
+                const pos = 1 + Math.floor(Math.random() * cards.length);
+                cards.splice(pos, 0, adCard);
+            }
+            return cards.join('');
+        }
+
         function renderWorks(page = 1) {
             const sortMode = document.getElementById('sortSelect').value;
             let list = applyFilters(works);
@@ -304,12 +326,7 @@
 
             const start = (page - 1) * POSTS_PER_PAGE;
             const pageWorks = list.slice(start, start + POSTS_PER_PAGE);
-            grid.innerHTML = pageWorks.map(w => `
-                <a href="${w.url}" class="work-card">
-                    <div class="cover"><img src="${w.cover}" alt="${w.title}"></div>
-                    <div class="info"><h3>${w.title}</h3><div class="meta">${w.author} • ⭐ ${w.rating}</div></div>
-                </a>
-            `).join('');
+            grid.innerHTML = buildWorkCardsWithAd(pageWorks, page === 1);
             const total = Math.ceil(list.length / POSTS_PER_PAGE);
             let html = '';
             for(let i = 1; i <= total; i++) {

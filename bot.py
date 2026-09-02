@@ -11,6 +11,7 @@ import re
 import time
 import atexit
 import hashlib
+import asyncio
 import subprocess
 import threading
 import requests
@@ -51,9 +52,19 @@ SECRETS_DIR = "/storage/emulated/0/ArcComicSecrets"
 SECRETS_FILE = os.path.join(SECRETS_DIR, "secrets.json")
 os.makedirs(SECRETS_DIR, exist_ok=True)
 
+# Scan state lives outside the repo — it's operational bookkeeping, not
+# something that needs to be in git history.
+BACKLOG_FILE = os.path.join(SECRETS_DIR, "backlog_scan.json")
+
 DEFAULT_SECRETS = {
     "telegram_bot_token": "",
     "github_token": "",
+    # For the backlog scanner (Telethon, personal account login) — a
+    # different, more sensitive credential than the bot token above, but
+    # stored the same protected way, outside the git repo.
+    "telegram_api_id": "",
+    "telegram_api_hash": "",
+    "telegram_phone": "",
 }
 
 # Ensure dirs exist
@@ -104,6 +115,9 @@ def save_config(cfg):
     secrets = {
         "telegram_bot_token": cfg.get("telegram_bot_token", ""),
         "github_token": cfg.get("github_token", ""),
+        "telegram_api_id": cfg.get("telegram_api_id", ""),
+        "telegram_api_hash": cfg.get("telegram_api_hash", ""),
+        "telegram_phone": cfg.get("telegram_phone", ""),
     }
     save_secrets(secrets)
 
@@ -156,6 +170,15 @@ def ensure_jekyll_works_collection():
         cfg["collections"] = collections
         changed = True
 
+    # 1c. Ensure the 'artists' collection exists too, so artist pages
+    # (auto-generated per unique author by regenerate_artist_pages())
+    # build into real, crawlable URLs the same way tags do.
+    artists_cfg = collections.get("artists") or {}
+    if artists_cfg.get("output") is not True or artists_cfg.get("permalink") != "/artists/:path/":
+        collections["artists"] = {"output": True, "permalink": "/artists/:path/"}
+        cfg["collections"] = collections
+        changed = True
+
     # 2. Ensure a default layout applies to the works collection
     defaults = cfg.get("defaults") or []
     has_works_default = any(
@@ -183,15 +206,28 @@ def ensure_jekyll_works_collection():
         cfg["defaults"] = defaults
         changed = True
 
+    # 2c. Same for artists
+    has_artists_default = any(
+        isinstance(d, dict) and d.get("scope", {}).get("type") == "artists"
+        for d in defaults
+    )
+    if not has_artists_default:
+        defaults.append({
+            "scope": {"path": "", "type": "artists"},
+            "values": {"layout": "artist"}
+        })
+        cfg["defaults"] = defaults
+        changed = True
+
     if changed:
         with open(CONFIG_YML_PATH, 'w', encoding='utf-8') as f:
             yaml.dump(cfg, f, default_flow_style=False, sort_keys=False, allow_unicode=True)
-        print("🔧 _config.yml updated: added 'works'/'tags' collections so pages build correctly")
+        print("🔧 _config.yml updated: added 'works'/'tags'/'artists' collections so pages build correctly")
 
     return changed
 
 POST_LAYOUT_PATH = os.path.join(WORK_DIR, "_layouts", "post.html")
-POST_LAYOUT_VERSION = 5  # bump when the template below changes materially
+POST_LAYOUT_VERSION = 6  # bump when the template below changes materially
 
 # Two separate Mondiad zones: a Banner zone for the main reading-page slot,
 # and a Native zone for the Similar Comics card (Native blends into content
@@ -342,7 +378,7 @@ POST_LAYOUT_TEMPLATE = f"""<!-- arc-comic-layout-version: {POST_LAYOUT_VERSION} 
         <div class="info-grid">
             <div class="info-box">
                 <div class="info-icon">✨</div>
-                <div><div class="info-label">Author</div><div class="info-value">{{{{ page.author }}}}</div></div>
+                <div><div class="info-label">Author</div><div class="info-value"><a href="/artists/{{{{ page.author | slugify }}}}/" style="color:inherit;text-decoration:none;">{{{{ page.author }}}}</a></div></div>
             </div>
             <div class="info-box">
                 <div class="info-icon">🌟</div>
@@ -611,7 +647,7 @@ def ensure_favicon():
 
 # ============== HOMEPAGE (index.html) ==============
 INDEX_HTML_PATH = os.path.join(WORK_DIR, "index.html")
-INDEX_HTML_VERSION = 4  # bump when the template below changes materially
+INDEX_HTML_VERSION = 6  # bump when the template below changes materially
 
 INDEX_HTML_TEMPLATE = f"""---
 # No 'layout:' key here on purpose — index.html is a complete, self-contained
@@ -634,6 +670,7 @@ INDEX_HTML_TEMPLATE = f"""---
     {{% endif %}}
     <title>✨ Arc Comic — Manga & Doujinshi Gallery</title>
     <meta name="description" content="Arc Comic — Curated manga and doujinshi gallery">
+    <script async src="https://ss.mrmnd.com/native.js"></script>
     <style>
         :root {{
             --bg: #0f0f13; --bg-card: #1a1a24; --bg-elevated: #222230;
@@ -797,9 +834,12 @@ INDEX_HTML_TEMPLATE = f"""---
             <input type="text" placeholder="Search by title, author, or tag..." id="searchInput">
             <button id="searchBtn">Search</button>
         </div>
-        <div style="text-align:center;margin-bottom:30px;">
+        <div style="text-align:center;margin-bottom:30px;display:flex;gap:20px;justify-content:center;">
             <a href="/tags/" style="color:var(--text-muted);font-size:13px;text-decoration:none;border-bottom:1px dashed var(--border);padding-bottom:2px;">
                 💥 Browse All Tags →
+            </a>
+            <a href="/artists/" style="color:var(--text-muted);font-size:13px;text-decoration:none;border-bottom:1px dashed var(--border);padding-bottom:2px;">
+                ✨ Browse Artists →
             </a>
         </div>
         <h2 class="section-title">
@@ -900,6 +940,24 @@ INDEX_HTML_TEMPLATE = f"""---
             `).join('');
         }}
 
+        function buildWorkCardsWithAd(pageWorks, isFirstPage) {{
+            const cards = pageWorks.map(w => `
+                <a href="${{w.url}}" class="work-card">
+                    <div class="cover"><img src="${{w.cover}}" alt="${{w.title}}"></div>
+                    <div class="info"><h3>${{w.title}}</h3><div class="meta">${{w.author}} • ⭐ ${{w.rating}}</div></div>
+                </a>
+            `);
+            // Native ad only on page 2+ (never the homepage's first
+            // impression), inserted at a random position each time the
+            // page renders so it doesn't always land in the same spot.
+            if (!isFirstPage && cards.length > 1) {{
+                const adCard = `<div class="work-card" data-mndazid="{NATIVE_AD_ZONE_ID}" style="min-height:100%;"></div>`;
+                const pos = 1 + Math.floor(Math.random() * cards.length);
+                cards.splice(pos, 0, adCard);
+            }}
+            return cards.join('');
+        }}
+
         function renderWorks(page = 1) {{
             const sortMode = document.getElementById('sortSelect').value;
             let list = applyFilters(works);
@@ -919,12 +977,7 @@ INDEX_HTML_TEMPLATE = f"""---
 
             const start = (page - 1) * POSTS_PER_PAGE;
             const pageWorks = list.slice(start, start + POSTS_PER_PAGE);
-            grid.innerHTML = pageWorks.map(w => `
-                <a href="${{w.url}}" class="work-card">
-                    <div class="cover"><img src="${{w.cover}}" alt="${{w.title}}"></div>
-                    <div class="info"><h3>${{w.title}}</h3><div class="meta">${{w.author}} • ⭐ ${{w.rating}}</div></div>
-                </a>
-            `).join('');
+            grid.innerHTML = buildWorkCardsWithAd(pageWorks, page === 1);
             const total = Math.ceil(list.length / POSTS_PER_PAGE);
             let html = '';
             for(let i = 1; i <= total; i++) {{
@@ -993,7 +1046,7 @@ def ensure_index_html():
 # ============== TAG SYSTEM (Stage 3) ==============
 TAGS_DIR = os.path.join(WORK_DIR, "_tags")
 TAG_LAYOUT_PATH = os.path.join(WORK_DIR, "_layouts", "tag.html")
-TAG_LAYOUT_VERSION = 1
+TAG_LAYOUT_VERSION = 2
 TAGS_INDEX_PATH = os.path.join(WORK_DIR, "tags", "index.html")
 TAGS_INDEX_VERSION = 1
 
@@ -1006,6 +1059,7 @@ TAG_LAYOUT_TEMPLATE = f"""<!-- arc-comic-layout-version: {TAG_LAYOUT_VERSION} --
     <link rel="icon" type="image/svg+xml" href="/favicon.svg">
     <title>{{{{ page.tag_name }}}} Comics - Arc Comic</title>
     <meta name="description" content="Browse {{{{ page.tag_name }}}} manga and doujinshi on Arc Comic">
+    <script async src="https://ss.mrmnd.com/native.js"></script>
     <style>
         :root {{
             --bg: #0f0f13; --bg-card: #1a1a24; --bg-elevated: #222230;
@@ -1035,6 +1089,11 @@ TAG_LAYOUT_TEMPLATE = f"""<!-- arc-comic-layout-version: {TAG_LAYOUT_VERSION} --
         .work-card .info {{ padding: 10px; }}
         .work-card .info h3 {{ font-size: 13px; font-weight: 600; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }}
         .work-card .info .meta {{ font-size: 11px; color: var(--text-muted); margin-top: 3px; }}
+        .pagination {{ display: flex; justify-content: center; gap: 8px; margin-top: 30px; padding-top: 20px; border-top: 1px solid var(--border); }}
+        .pagination a, .pagination span {{ padding: 8px 14px; border-radius: 8px; font-size: 14px; font-weight: 600; text-decoration: none; }}
+        .pagination a {{ background: var(--bg-card); color: var(--text); border: 1px solid var(--border); }}
+        .pagination a:hover {{ background: var(--accent); color: #000; }}
+        .pagination span {{ background: var(--accent); color: #000; }}
         @media (max-width: 768px) {{ .works-grid {{ grid-template-columns: repeat(2, 1fr); }} }}
     </style>
 </head>
@@ -1052,6 +1111,7 @@ TAG_LAYOUT_TEMPLATE = f"""<!-- arc-comic-layout-version: {TAG_LAYOUT_VERSION} --
             </select>
         </div>
         <div class="works-grid" id="worksGrid"></div>
+        <div class="pagination" id="pagination"></div>
         {{% include follow_us.html %}}
     </div>
     <script>
@@ -1061,21 +1121,42 @@ TAG_LAYOUT_TEMPLATE = f"""<!-- arc-comic-layout-version: {TAG_LAYOUT_VERSION} --
                rating: "{{{{ w.rating }}}}", date: "{{{{ w.date }}}}", url: "{{{{ w.url }}}}" }}{{% unless forloop.last %}},{{% endunless %}}
             {{% endfor %}}
         ];
-        function render() {{
+        const PER_PAGE = 15;
+        function buildCardsWithAd(pageWorks, isFirstPage) {{
+            const cards = pageWorks.map(w => `
+                <a href="${{w.url}}" class="work-card">
+                    <div class="cover"><img src="${{w.cover}}" alt="${{w.title}}"></div>
+                    <div class="info"><h3>${{w.title}}</h3><div class="meta">${{w.author}} • ⭐ ${{w.rating}}</div></div>
+                </a>
+            `);
+            if (!isFirstPage && cards.length > 1) {{
+                const adCard = `<div class="work-card" data-mndazid="{NATIVE_AD_ZONE_ID}" style="min-height:100%;"></div>`;
+                cards.splice(1 + Math.floor(Math.random() * cards.length), 0, adCard);
+            }}
+            return cards.join('');
+        }}
+        function render(page) {{
+            page = page || 1;
             const mode = document.getElementById('sortSelect').value;
             let sorted = [...works];
             if (mode === 'recent') sorted.sort((a,b) => new Date(b.date) - new Date(a.date));
             else if (mode === 'oldest') sorted.sort((a,b) => new Date(a.date) - new Date(b.date));
             else if (mode === 'rating') sorted.sort((a,b) => parseFloat(b.rating) - parseFloat(a.rating));
-            document.getElementById('worksGrid').innerHTML = sorted.map(w => `
-                <a href="${{w.url}}" class="work-card">
-                    <div class="cover"><img src="${{w.cover}}" alt="${{w.title}}"></div>
-                    <div class="info"><h3>${{w.title}}</h3><div class="meta">${{w.author}} • ⭐ ${{w.rating}}</div></div>
-                </a>
-            `).join('');
+
+            const start = (page - 1) * PER_PAGE;
+            const pageWorks = sorted.slice(start, start + PER_PAGE);
+            document.getElementById('worksGrid').innerHTML = buildCardsWithAd(pageWorks, page === 1);
+
+            const total = Math.ceil(sorted.length / PER_PAGE);
+            let html = '';
+            for (let i = 1; i <= total; i++) {{
+                if (i === page) html += `<span>${{i}}</span>`;
+                else html += `<a href="#" onclick="render(${{i}}); return false;">${{i}}</a>`;
+            }}
+            document.getElementById('pagination').innerHTML = html;
         }}
-        document.getElementById('sortSelect').addEventListener('change', render);
-        render();
+        document.getElementById('sortSelect').addEventListener('change', () => render(1));
+        render(1);
     </script>
 </body>
 </html>
@@ -1104,7 +1185,7 @@ def slugify(text):
 
 # ============== SEARCH RESULTS PAGE ==============
 SEARCH_PAGE_PATH = os.path.join(WORK_DIR, "search", "index.html")
-SEARCH_PAGE_VERSION = 1
+SEARCH_PAGE_VERSION = 2
 
 SEARCH_PAGE_TEMPLATE = f"""---
 ---
@@ -1117,6 +1198,7 @@ SEARCH_PAGE_TEMPLATE = f"""---
     <link rel="icon" type="image/svg+xml" href="/favicon.svg">
     <title id="pageTitle">Search - Arc Comic</title>
     <meta name="description" content="Search manga and doujinshi on Arc Comic">
+    <script async src="https://ss.mrmnd.com/native.js"></script>
     <style>
         :root {{
             --bg: #0f0f13; --bg-card: #1a1a24; --bg-elevated: #222230;
@@ -1154,6 +1236,11 @@ SEARCH_PAGE_TEMPLATE = f"""---
         .work-card .info h3 {{ font-size: 13px; font-weight: 600; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }}
         .work-card .info .meta {{ font-size: 11px; color: var(--text-muted); margin-top: 3px; }}
         .no-results {{ text-align: center; padding: 60px 20px; color: var(--text-muted); }}
+        .pagination {{ display: flex; justify-content: center; gap: 8px; margin-top: 30px; padding-top: 20px; border-top: 1px solid var(--border); }}
+        .pagination a, .pagination span {{ padding: 8px 14px; border-radius: 8px; font-size: 14px; font-weight: 600; text-decoration: none; }}
+        .pagination a {{ background: var(--bg-card); color: var(--text); border: 1px solid var(--border); }}
+        .pagination a:hover {{ background: var(--accent); color: #000; }}
+        .pagination span {{ background: var(--accent); color: #000; }}
         @media (max-width: 768px) {{ .works-grid {{ grid-template-columns: repeat(2, 1fr); }} }}
     </style>
 </head>
@@ -1170,6 +1257,7 @@ SEARCH_PAGE_TEMPLATE = f"""---
         <h2 class="results-title" id="resultsTitle">Search Results</h2>
         <div class="works-grid" id="worksGrid"></div>
         <div class="no-results" id="noResults" style="display:none;">No comics match your search.</div>
+        <div class="pagination" id="pagination"></div>
         {{% include follow_us.html %}}
     </div>
     <script>
@@ -1185,9 +1273,40 @@ SEARCH_PAGE_TEMPLATE = f"""---
             }}{{% unless forloop.last %}},{{% endunless %}}
             {{% endfor %}}
         ];
+        const PER_PAGE = 15;
+        let currentResults = [];
 
         function getQueryParam(name) {{
             return new URLSearchParams(window.location.search).get(name) || "";
+        }}
+
+        function buildCardsWithAd(pageWorks, isFirstPage) {{
+            const cards = pageWorks.map(w => `
+                <a href="${{w.url}}" class="work-card">
+                    <div class="cover"><img src="${{w.cover}}" alt="${{w.title}}"></div>
+                    <div class="info"><h3>${{w.title}}</h3><div class="meta">${{w.author}} • ⭐ ${{w.rating}}</div></div>
+                </a>
+            `);
+            if (!isFirstPage && cards.length > 1) {{
+                const adCard = `<div class="work-card" data-mndazid="{NATIVE_AD_ZONE_ID}" style="min-height:100%;"></div>`;
+                cards.splice(1 + Math.floor(Math.random() * cards.length), 0, adCard);
+            }}
+            return cards.join('');
+        }}
+
+        function renderPage(page) {{
+            page = page || 1;
+            const start = (page - 1) * PER_PAGE;
+            const pageWorks = currentResults.slice(start, start + PER_PAGE);
+            document.getElementById('worksGrid').innerHTML = buildCardsWithAd(pageWorks, page === 1);
+
+            const total = Math.ceil(currentResults.length / PER_PAGE);
+            let html = '';
+            for (let i = 1; i <= total; i++) {{
+                if (i === page) html += `<span>${{i}}</span>`;
+                else html += `<a href="#" onclick="renderPage(${{i}}); return false;">${{i}}</a>`;
+            }}
+            document.getElementById('pagination').innerHTML = html;
         }}
 
         function runSearch(q) {{
@@ -1199,32 +1318,28 @@ SEARCH_PAGE_TEMPLATE = f"""---
 
             if (!q) {{
                 document.getElementById('worksGrid').innerHTML = '';
+                document.getElementById('pagination').innerHTML = '';
                 document.getElementById('noResults').style.display = 'block';
                 document.getElementById('noResults').textContent = 'Type something in the search box above.';
                 return;
             }}
 
             const query = q.toLowerCase();
-            const results = works.filter(w =>
+            currentResults = works.filter(w =>
                 w.title.toLowerCase().includes(query) ||
                 w.author.toLowerCase().includes(query) ||
                 (w.tags || []).some(t => t.toLowerCase().includes(query))
             );
 
-            const grid = document.getElementById('worksGrid');
             const noResults = document.getElementById('noResults');
-            if (results.length === 0) {{
-                grid.innerHTML = '';
+            if (currentResults.length === 0) {{
+                document.getElementById('worksGrid').innerHTML = '';
+                document.getElementById('pagination').innerHTML = '';
                 noResults.style.display = 'block';
                 noResults.textContent = 'No comics match your search.';
             }} else {{
                 noResults.style.display = 'none';
-                grid.innerHTML = results.map(w => `
-                    <a href="${{w.url}}" class="work-card">
-                        <div class="cover"><img src="${{w.cover}}" alt="${{w.title}}"></div>
-                        <div class="info"><h3>${{w.title}}</h3><div class="meta">${{w.author}} • ⭐ ${{w.rating}}</div></div>
-                    </a>
-                `).join('');
+                renderPage(1);
             }}
         }}
 
@@ -1419,6 +1534,296 @@ def _write_tags_index(tag_map):
 """
     os.makedirs(os.path.dirname(TAGS_INDEX_PATH), exist_ok=True)
     with open(TAGS_INDEX_PATH, 'w', encoding='utf-8') as f:
+        f.write(html)
+
+# ============== ARTIST SYSTEM ==============
+# Mirrors the tag system exactly: one collection, one layout, one directory
+# index, regenerated together with tags after every batch flush/delete.
+ARTISTS_DIR = os.path.join(WORK_DIR, "_artists")
+ARTIST_LAYOUT_PATH = os.path.join(WORK_DIR, "_layouts", "artist.html")
+ARTIST_LAYOUT_VERSION = 1
+ARTISTS_INDEX_PATH = os.path.join(WORK_DIR, "artists", "index.html")
+ARTISTS_INDEX_VERSION = 1
+
+ARTIST_LAYOUT_TEMPLATE = f"""<!-- arc-comic-layout-version: {ARTIST_LAYOUT_VERSION} -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg">
+    <title>{{{{ page.artist_name }}}} - Arc Comic</title>
+    <meta name="description" content="Browse all manga and doujinshi by {{{{ page.artist_name }}}} on Arc Comic">
+    <script async src="https://ss.mrmnd.com/native.js"></script>
+    <style>
+        :root {{
+            --bg: #0f0f13; --bg-card: #1a1a24; --bg-elevated: #222230;
+            --accent: #f59e0b; --text: #e2e2e8; --text-muted: #8888a0; --border: #2a2a3a;
+        }}
+        * {{ margin: 0; padding: 0; box-sizing: border-box; }}
+        body {{ font-family: 'Segoe UI', system-ui, sans-serif; background: var(--bg); color: var(--text); min-height: 100vh; }}
+        .container {{ max-width: 1200px; margin: 0 auto; padding: 24px; }}
+        .logo-link {{ display: inline-flex; text-decoration: none; color: var(--accent); font-weight: 800; font-size: 18px; margin-bottom: 16px; }}
+        .breadcrumb {{ color: var(--text-muted); font-size: 14px; margin-bottom: 20px; }}
+        .breadcrumb a {{ color: var(--accent); text-decoration: none; }}
+        h1 {{ font-size: 28px; font-weight: 800; margin-bottom: 8px; }}
+        .count {{ color: var(--text-muted); margin-bottom: 24px; }}
+        .toolbar {{ margin-bottom: 20px; }}
+        .toolbar select {{
+            background: var(--bg-card); color: var(--text); border: 1px solid var(--border);
+            border-radius: 10px; padding: 10px 14px; font-size: 13px; cursor: pointer;
+        }}
+        .works-grid {{ display: grid; grid-template-columns: repeat(5, 1fr); gap: 16px; }}
+        .work-card {{
+            background: var(--bg-card); border-radius: 12px; border: 1px solid var(--border);
+            overflow: hidden; text-decoration: none; color: var(--text); transition: transform 0.2s;
+        }}
+        .work-card:hover {{ transform: translateY(-4px); }}
+        .work-card .cover {{ width: 100%; padding-top: 140%; position: relative; background: var(--bg-elevated); }}
+        .work-card .cover img {{ position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover; }}
+        .work-card .info {{ padding: 10px; }}
+        .work-card .info h3 {{ font-size: 13px; font-weight: 600; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }}
+        .work-card .info .meta {{ font-size: 11px; color: var(--text-muted); margin-top: 3px; }}
+        .pagination {{ display: flex; justify-content: center; gap: 8px; margin-top: 30px; padding-top: 20px; border-top: 1px solid var(--border); }}
+        .pagination a, .pagination span {{ padding: 8px 14px; border-radius: 8px; font-size: 14px; font-weight: 600; text-decoration: none; }}
+        .pagination a {{ background: var(--bg-card); color: var(--text); border: 1px solid var(--border); }}
+        .pagination a:hover {{ background: var(--accent); color: #000; }}
+        .pagination span {{ background: var(--accent); color: #000; }}
+        @media (max-width: 768px) {{ .works-grid {{ grid-template-columns: repeat(2, 1fr); }} }}
+    </style>
+</head>
+<body>
+    <div class="container">
+        <a href="/" class="logo-link">✨ Arc Comic</a>
+        <div class="breadcrumb"><a href="/">Home</a> › <a href="/artists/">Artists</a> › {{{{ page.artist_name }}}}</div>
+        <h1>✨ {{{{ page.artist_name }}}}</h1>
+        <div class="count">{{{{ page.work_count }}}} comic{{% if page.work_count != 1 %}}s{{% endif %}}</div>
+        <div class="toolbar">
+            <select id="sortSelect">
+                <option value="recent">Most Recent</option>
+                <option value="oldest">Oldest</option>
+                <option value="rating">Highest Rated</option>
+            </select>
+        </div>
+        <div class="works-grid" id="worksGrid"></div>
+        <div class="pagination" id="pagination"></div>
+        {{% include follow_us.html %}}
+    </div>
+    <script>
+        const works = [
+            {{% for w in page.works %}}
+            {{ title: "{{{{ w.title | escape }}}}", cover: "{{{{ w.cover }}}}",
+               rating: "{{{{ w.rating }}}}", date: "{{{{ w.date }}}}", url: "{{{{ w.url }}}}" }}{{% unless forloop.last %}},{{% endunless %}}
+            {{% endfor %}}
+        ];
+        const PER_PAGE = 15;
+        function buildCardsWithAd(pageWorks, isFirstPage) {{
+            const cards = pageWorks.map(w => `
+                <a href="${{w.url}}" class="work-card">
+                    <div class="cover"><img src="${{w.cover}}" alt="${{w.title}}"></div>
+                    <div class="info"><h3>${{w.title}}</h3><div class="meta">⭐ ${{w.rating}}</div></div>
+                </a>
+            `);
+            if (!isFirstPage && cards.length > 1) {{
+                const adCard = `<div class="work-card" data-mndazid="{NATIVE_AD_ZONE_ID}" style="min-height:100%;"></div>`;
+                cards.splice(1 + Math.floor(Math.random() * cards.length), 0, adCard);
+            }}
+            return cards.join('');
+        }}
+        function render(page) {{
+            page = page || 1;
+            const mode = document.getElementById('sortSelect').value;
+            let sorted = [...works];
+            if (mode === 'recent') sorted.sort((a,b) => new Date(b.date) - new Date(a.date));
+            else if (mode === 'oldest') sorted.sort((a,b) => new Date(a.date) - new Date(b.date));
+            else if (mode === 'rating') sorted.sort((a,b) => parseFloat(b.rating) - parseFloat(a.rating));
+
+            const start = (page - 1) * PER_PAGE;
+            const pageWorks = sorted.slice(start, start + PER_PAGE);
+            document.getElementById('worksGrid').innerHTML = buildCardsWithAd(pageWorks, page === 1);
+
+            const total = Math.ceil(sorted.length / PER_PAGE);
+            let html = '';
+            for (let i = 1; i <= total; i++) {{
+                if (i === page) html += `<span>${{i}}</span>`;
+                else html += `<a href="#" onclick="render(${{i}}); return false;">${{i}}</a>`;
+            }}
+            document.getElementById('pagination').innerHTML = html;
+        }}
+        document.getElementById('sortSelect').addEventListener('change', () => render(1));
+        render(1);
+    </script>
+</body>
+</html>
+"""
+
+def ensure_artist_layout():
+    if os.path.exists(ARTIST_LAYOUT_PATH):
+        with open(ARTIST_LAYOUT_PATH, 'r', encoding='utf-8') as f:
+            first_line = f.readline()
+        match = re.search(r"arc-comic-layout-version:\s*(\d+)", first_line)
+        if (int(match.group(1)) if match else 0) >= ARTIST_LAYOUT_VERSION:
+            return False
+    os.makedirs(os.path.dirname(ARTIST_LAYOUT_PATH), exist_ok=True)
+    with open(ARTIST_LAYOUT_PATH, 'w', encoding='utf-8') as f:
+        f.write(ARTIST_LAYOUT_TEMPLATE)
+    print(f"🔧 _layouts/artist.html updated to v{ARTIST_LAYOUT_VERSION}")
+    return True
+
+def regenerate_artist_pages():
+    """
+    Same pattern as regenerate_tag_pages(): scans every work, groups by
+    author, writes one _artists/<slug>.md stub per unique artist with the
+    full list of their works precomputed in front matter. Also writes
+    artists/index.html (the browse-all-artists directory).
+    """
+    os.makedirs(ARTISTS_DIR, exist_ok=True)
+
+    artist_map = {}  # slug -> {"name": original casing, "works": [...]}
+    for fname in sorted(os.listdir(WORKS_DIR)):
+        if not fname.endswith(".md"):
+            continue
+        with open(os.path.join(WORKS_DIR, fname), 'r', encoding='utf-8') as f:
+            content = f.read()
+        try:
+            front = yaml.safe_load(content.split("---")[1])
+        except Exception:
+            continue
+        if not front:
+            continue
+        author = front.get("author", "")
+        if not author:
+            continue
+        work_entry = {
+            "title": front.get("title", ""),
+            "cover": front.get("cover", ""),
+            "rating": front.get("rating", "0"),
+            "date": str(front.get("date", "")),
+            "code": front.get("code", ""),
+            "url": f"/works/{front.get('code', '')}/",
+        }
+        slug = slugify(author)
+        if not slug:
+            continue
+        if slug not in artist_map:
+            artist_map[slug] = {"name": author, "works": []}
+        artist_map[slug]["works"].append(work_entry)
+
+    fingerprint = hashlib.sha256(
+        json.dumps(artist_map, sort_keys=True, default=str).encode()
+    ).hexdigest()
+    fingerprint_file = os.path.join(ARTISTS_DIR, ".fingerprint")
+    if os.path.exists(fingerprint_file):
+        with open(fingerprint_file, 'r') as f:
+            if f.read().strip() == fingerprint:
+                return False
+
+    for fname in os.listdir(ARTISTS_DIR):
+        if fname.endswith(".md"):
+            os.remove(os.path.join(ARTISTS_DIR, fname))
+
+    for slug, data in artist_map.items():
+        works_yaml = yaml.dump(data["works"], default_flow_style=False, allow_unicode=True, sort_keys=False)
+        indented = "\n".join("  " + line if line.strip() else line for line in works_yaml.split("\n"))
+        stub = (
+            "---\n"
+            "layout: artist\n"
+            f"artist_name: \"{data['name']}\"\n"
+            f"work_count: {len(data['works'])}\n"
+            "works:\n"
+            f"{indented}"
+            "---\n"
+        )
+        with open(os.path.join(ARTISTS_DIR, f"{slug}.md"), 'w', encoding='utf-8') as f:
+            f.write(stub)
+
+    with open(fingerprint_file, 'w') as f:
+        f.write(fingerprint)
+
+    print(f"🔧 Regenerated {len(artist_map)} artist pages")
+    _write_artists_index(artist_map)
+    return True
+
+def _write_artists_index(artist_map):
+    """Writes artists/index.html: popular artists (by comic count for now
+    — will switch to by-views once the analytics system tracks per-artist
+    views) + full A-Z list with comic counts, plus a search box."""
+    sorted_by_count = sorted(artist_map.items(), key=lambda kv: len(kv[1]["works"]), reverse=True)
+    popular = sorted_by_count[:20]
+    all_sorted = sorted(artist_map.items(), key=lambda kv: kv[1]["name"].lower())
+
+    def artist_chip(slug, data):
+        return (f'<a href="/artists/{slug}/" class="tag-chip">'
+                f'{data["name"]} <span class="tag-count">{len(data["works"])}</span></a>')
+
+    popular_html = "\n".join(artist_chip(s, d) for s, d in popular)
+    all_html = "\n".join(artist_chip(s, d) for s, d in all_sorted)
+
+    html = f"""<!-- arc-comic-layout-version: {ARTISTS_INDEX_VERSION} -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg">
+    <title>Browse Artists - Arc Comic</title>
+    <meta name="description" content="Browse all manga and doujinshi artists on Arc Comic">
+    <style>
+        :root {{ --bg: #0f0f13; --bg-card: #1a1a24; --bg-elevated: #222230; --accent: #f59e0b; --text: #e2e2e8; --text-muted: #8888a0; --border: #2a2a3a; }}
+        * {{ margin: 0; padding: 0; box-sizing: border-box; }}
+        body {{ font-family: 'Segoe UI', system-ui, sans-serif; background: var(--bg); color: var(--text); min-height: 100vh; }}
+        .container {{ max-width: 900px; margin: 0 auto; padding: 24px; }}
+        .logo-link {{ display: inline-flex; text-decoration: none; color: var(--accent); font-weight: 800; font-size: 18px; margin-bottom: 16px; }}
+        .breadcrumb {{ color: var(--text-muted); font-size: 14px; margin-bottom: 20px; }}
+        .breadcrumb a {{ color: var(--accent); text-decoration: none; }}
+        h1 {{ font-size: 26px; font-weight: 800; margin-bottom: 20px; }}
+        .search-box input {{
+            width: 100%; padding: 12px 16px; background: var(--bg-card); border: 1px solid var(--border);
+            border-radius: 10px; color: var(--text); font-size: 14px; outline: none; margin-bottom: 24px;
+        }}
+        .search-box input:focus {{ border-color: var(--accent); }}
+        h2 {{ font-size: 16px; margin: 24px 0 12px; color: var(--text-muted); text-transform: uppercase; letter-spacing: 0.5px; }}
+        .tag-cloud {{ display: flex; flex-wrap: wrap; gap: 8px; }}
+        .tag-chip {{
+            background: var(--bg-card); border: 1px solid var(--border); color: var(--text);
+            padding: 8px 14px; border-radius: 20px; font-size: 13px; text-decoration: none; display: inline-flex; gap: 6px; align-items: center;
+        }}
+        .tag-chip:hover {{ border-color: var(--accent); color: var(--accent); }}
+        .tag-count {{ color: var(--text-muted); font-size: 11px; }}
+        .tag-chip.hidden {{ display: none; }}
+    </style>
+</head>
+<body>
+    <div class="container">
+        <a href="/" class="logo-link">✨ Arc Comic</a>
+        <div class="breadcrumb"><a href="/">Home</a> › Artists</div>
+        <h1>✨ Browse Artists</h1>
+        <div class="search-box">
+            <input type="text" id="artistSearch" placeholder="Search artists...">
+        </div>
+        <h2>🔥 Popular Artists</h2>
+        <div class="tag-cloud" id="popularArtists">
+            {popular_html}
+        </div>
+        <h2>A–Z All Artists</h2>
+        <div class="tag-cloud" id="allArtists">
+            {all_html}
+        </div>
+    </div>
+    <script>
+        document.getElementById('artistSearch').addEventListener('input', function(e) {{
+            const q = e.target.value.toLowerCase();
+            document.querySelectorAll('#allArtists .tag-chip, #popularArtists .tag-chip').forEach(function(chip) {{
+                const text = chip.textContent.toLowerCase();
+                chip.classList.toggle('hidden', q.length > 0 && !text.includes(q));
+            }});
+        }});
+    </script>
+</body>
+</html>
+"""
+    os.makedirs(os.path.dirname(ARTISTS_INDEX_PATH), exist_ok=True)
+    with open(ARTISTS_INDEX_PATH, 'w', encoding='utf-8') as f:
         f.write(html)
 
 # ============== GOOGLE SEO FUNCTIONS ==============
@@ -1752,6 +2157,25 @@ def parse_post_fields(raw_text):
     }
     return fields
 
+def is_code_already_posted(code):
+    """
+    Single source of truth for duplicate detection, used by both the live
+    Telegram handler and the backlog scanner. Checks the actual _works/
+    directory on disk (not just in-memory state), so it's correct even
+    across bot restarts. A code counts as posted if its .md file exists,
+    OR if it's currently sitting in the pending queue (staged but not yet
+    pushed) — this second check matters for the backlog scanner, since a
+    huge batch could otherwise re-stage the same code multiple times
+    before the first one actually reaches disk as a permanent file.
+    """
+    md_path = os.path.join(WORKS_DIR, f"{code}.md")
+    if os.path.exists(md_path):
+        return True
+    with _pending_lock:
+        if any(item["code"] == code for item in _pending_queue):
+            return True
+    return False
+
 # ============== POSTING QUEUE (batch + debounce) ==============
 # Artists submit comics in bursts (20-25 at once, ~1-2 min apart). Pushing
 # git + pinging Google/IndexNow separately for each one is wasteful and
@@ -1780,12 +2204,16 @@ def _flush_pending_queue_sync():
     codes = ", ".join(item["code"] for item in batch)
     print(f"🚚 Flushing batch of {len(batch)} post(s): {codes}")
 
-    # Regenerate tag pages before pushing so the new/updated tag
+    # Regenerate tag/artist pages before pushing so the new/updated
     # membership is included in the same commit as the new works.
     try:
         regenerate_tag_pages()
     except Exception as e:
         print(f"⚠️ Tag page regeneration failed: {e}")
+    try:
+        regenerate_artist_pages()
+    except Exception as e:
+        print(f"⚠️ Artist page regeneration failed: {e}")
 
     pushed, push_error = git_push(cfg, "batch", f"Add {len(batch)} work(s): {codes}")
 
@@ -1835,27 +2263,25 @@ def get_pending_count():
     with _pending_lock:
         return len(_pending_queue)
 
-# ============== TELEGRAM BOT HANDLER ==============
-async def handle_channel_post(update: Update, context: ContextTypes.DEFAULT_TYPE):
+# ============== SHARED STAGING LOGIC ==============
+async def stage_comic(code, fields, message_date, message_id, cover_bytes_source):
+    """
+    The actual "scrape + download cover + write .md + queue for push" work,
+    shared by both the live Telegram handler and the backlog processor so
+    they can never silently drift apart into two different behaviors.
+
+    cover_bytes_source: an async callable that downloads the cover image
+    to cover_path when called (photo.get_file()... for live posts, or a
+    Telethon download for backlog posts) — kept as a callback so this
+    function doesn't need to know which Telegram library produced it.
+    Returns True if staged successfully, False on error (already logged).
+    """
     cfg = load_config()
-    msg = update.channel_post
-    if not msg:
-        return
-
-    raw_text = msg.caption or msg.text or ""
-    fields = parse_post_fields(raw_text)
-    if not fields:
-        # Not a comic post (sponsor post, announcement, etc.) — ignore
-        # silently. This is expected and not an error.
-        return
-
-    code = fields["code"]
-    title = f"Work {code}"  # placeholder until scrape completes
-
+    title = f"Work {code}"
     try:
-        date_str = msg.date.strftime("%Y-%m-%d")
+        date_str = message_date.strftime("%Y-%m-%d")
         channel = cfg.get('channel_username', '@ArcComic').replace('@', '')
-        telegram_url = f"https://t.me/{channel}/{msg.message_id}"
+        telegram_url = f"https://t.me/{channel}/{message_id}"
         site_url = "https://arccomic.github.io"
         post_url = f"{site_url}/works/{code}/"
 
@@ -1864,12 +2290,9 @@ async def handle_channel_post(update: Update, context: ContextTypes.DEFAULT_TYPE
         domain = cfg.get("site_domain", "https://nhentai.net")
         title, tags = scrape_site(code, domain)
 
-        # Download cover from Telegram (raw download, no Pillow)
         cover_path = os.path.join(COVERS_DIR, f"{code}.jpg")
-        if msg.photo:
-            photo = msg.photo[-1]
-            photo_file = await photo.get_file()
-            await photo_file.download_to_drive(cover_path)
+        if cover_bytes_source:
+            await cover_bytes_source(cover_path)
             print(f"📸 Cover saved: {cover_path}")
         else:
             print("⚠️ No photo attached to this post")
@@ -1884,7 +2307,7 @@ async def handle_channel_post(update: Update, context: ContextTypes.DEFAULT_TYPE
         with open(md_path, 'w', encoding='utf-8') as f:
             f.write(md_content)
 
-        cfg["last_message_id"] = msg.message_id
+        cfg["last_message_id"] = max(cfg.get("last_message_id", 0), message_id)
         save_config(cfg)
 
         with _pending_lock:
@@ -1892,13 +2315,204 @@ async def handle_channel_post(update: Update, context: ContextTypes.DEFAULT_TYPE
             pending_count = len(_pending_queue)
 
         queue_pending_flush()
-        print(f"⏳ Staged: {title} (Code: {code}) — {pending_count} pending, "
-              f"will push in {PENDING_TIMEOUT_SECONDS // 60} min unless more arrive "
-              f"or Push Now is pressed")
+        print(f"⏳ Staged: {title} (Code: {code}) — {pending_count} pending")
+        return True
 
     except Exception as e:
         print(f"❌ Error processing code {code}: {e}")
         record_post(code, title, success=False, error=str(e))
+        return False
+
+# ============== BACKLOG SCANNER (Telegram history) ==============
+# The Bot API (used everywhere else in this file) cannot read channel
+# history — bots only ever see messages that arrive while they're
+# running. Scanning old posts requires Telethon, logged into Master's own
+# personal Telegram account (a one-time login, session saved to disk).
+# This is a materially different, more sensitive credential than the bot
+# token, so its session file lives in SECRETS_DIR like everything else
+# sensitive, and this scanner is READ-ONLY: it only ever calls
+# iter_messages(), never sends/edits/deletes anything.
+TELETHON_SESSION_PATH = os.path.join(SECRETS_DIR, "telethon_session")
+SCAN_BATCH_SIZE = 50            # comics staged per processing batch
+SCAN_BATCH_DELAY_SECONDS = 60   # pause between batches — avoid hammering nhentai
+
+def load_backlog_state():
+    if os.path.exists(BACKLOG_FILE):
+        with open(BACKLOG_FILE, 'r') as f:
+            return json.load(f)
+    return {
+        "status": "idle",  # idle | scanning | scan_complete | processing | error
+        "found_codes": [],       # codes discovered by the scan, not yet processed
+        "processed_codes": [],   # codes already staged/pushed by the backlog processor
+        "skipped_duplicate": 0,
+        "error": None,
+        "last_scan_time": None,
+        "total_messages_scanned": 0,
+    }
+
+def save_backlog_state(state):
+    with open(BACKLOG_FILE, 'w') as f:
+        json.dump(state, f, indent=2)
+
+def run_backlog_scan(api_id, api_hash, phone, channel_username):
+    """
+    Runs in its own thread with its own event loop, fully isolated from
+    the python-telegram-bot polling loop. Read-only: only iter_messages().
+    Walks the entire channel history, applies the same parse_post_fields()
+    filter used for live posts, and records every valid, not-yet-posted
+    code into the persistent backlog state file. Does NOT scrape or stage
+    anything itself — that's a separate step (process_backlog_batch),
+    kept separate so a slow/interrupted scan never leaves half-scraped
+    files behind.
+    """
+    try:
+        from telethon.sync import TelegramClient
+    except ImportError:
+        print("📦 Installing Telethon (needed for backlog scanning)...")
+        subprocess.run([sys.executable, "-m", "pip", "install", "telethon",
+                        "--break-system-packages", "-q"], check=False)
+        from telethon.sync import TelegramClient
+
+    state = load_backlog_state()
+    state["status"] = "scanning"
+    state["error"] = None
+    save_backlog_state(state)
+
+    found = []
+    scanned = 0
+    try:
+        with TelegramClient(TELETHON_SESSION_PATH, api_id, api_hash) as client:
+            if not client.is_user_authorized():
+                client.start(phone=phone)  # prompts for the login code once
+            for message in client.iter_messages(channel_username):
+                scanned += 1
+                text = message.text or message.message or ""
+                fields = parse_post_fields(text)
+                if not fields:
+                    continue
+                code = fields["code"]
+                if is_code_already_posted(code) or code in found:
+                    state["skipped_duplicate"] = state.get("skipped_duplicate", 0) + 1
+                    continue
+                found.append(code)
+                if scanned % 200 == 0:
+                    print(f"🔍 Scanned {scanned} messages, found {len(found)} new comics so far...")
+
+        state["found_codes"] = found
+        state["total_messages_scanned"] = scanned
+        state["status"] = "scan_complete"
+        state["last_scan_time"] = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+        save_backlog_state(state)
+        print(f"✅ Backlog scan complete: {scanned} messages scanned, {len(found)} new comics found")
+
+    except Exception as e:
+        state["status"] = "error"
+        state["error"] = str(e)
+        save_backlog_state(state)
+        print(f"❌ Backlog scan failed: {e}")
+
+def process_backlog_batch():
+    """
+    Processes up to SCAN_BATCH_SIZE codes from the scan results: scrapes
+    each from nhentai, downloads its cover from Telegram, stages it into
+    the normal posting queue (same batching/push system as live posts).
+    Meant to be called repeatedly (e.g. by the dashboard's "Push Now"-
+    style button, or on a timer) until found_codes is empty. Each call is
+    self-contained and safe to interrupt — processed codes are removed
+    from found_codes and appended to processed_codes as they complete, so
+    a crash mid-batch only loses at most the single in-flight item.
+    """
+    state = load_backlog_state()
+    if not state["found_codes"]:
+        return 0
+
+    try:
+        from telethon.sync import TelegramClient
+    except ImportError:
+        print("❌ Telethon not installed, cannot process backlog")
+        return 0
+
+    cfg = load_config()
+    secrets_cfg = load_secrets()
+    api_id = secrets_cfg.get("telegram_api_id", "")
+    api_hash = secrets_cfg.get("telegram_api_hash", "")
+    channel = cfg.get("channel_username", "@ArcComic")
+
+    batch = state["found_codes"][:SCAN_BATCH_SIZE]
+    processed_this_run = 0
+
+    with TelegramClient(TELETHON_SESSION_PATH, api_id, api_hash) as client:
+        for code in batch:
+            if is_code_already_posted(code):
+                # Could have been posted live in the meantime — skip, don't duplicate
+                state["found_codes"].remove(code)
+                continue
+
+            # Find the specific message containing this code, to get its
+            # date/id/photo for staging.
+            target_message = None
+            search_text = f"Code: {code}"
+            for message in client.iter_messages(channel, search=search_text, limit=5):
+                fields = parse_post_fields(message.text or message.message or "")
+                if fields and fields["code"] == code:
+                    target_message = message
+                    break
+
+            if not target_message:
+                print(f"⚠️ Could not re-locate message for code {code}, skipping")
+                state["found_codes"].remove(code)
+                continue
+
+            fields = parse_post_fields(target_message.text or target_message.message or "")
+
+            async def download_cover_via_telethon(cover_path, msg=target_message, tclient=client):
+                if msg.photo:
+                    await tclient.download_media(msg.photo, file=cover_path)
+
+            has_photo = bool(target_message.photo)
+            success = asyncio.run(stage_comic(
+                code, fields, target_message.date, target_message.id,
+                download_cover_via_telethon if has_photo else None
+            ))
+
+            state["found_codes"].remove(code)
+            if success:
+                state["processed_codes"].append(code)
+                processed_this_run += 1
+            save_backlog_state(state)
+
+            time.sleep(2)  # small gap between individual scrapes within a batch
+
+    print(f"✅ Backlog batch complete: {processed_this_run} comics staged")
+    return processed_this_run
+
+
+async def handle_channel_post(update: Update, context: ContextTypes.DEFAULT_TYPE):
+    cfg = load_config()
+    msg = update.channel_post
+    if not msg:
+        return
+
+    raw_text = msg.caption or msg.text or ""
+    fields = parse_post_fields(raw_text)
+    if not fields:
+        # Not a comic post (sponsor post, announcement, etc.) — ignore
+        # silently. This is expected and not an error.
+        return
+
+    code = fields["code"]
+
+    if is_code_already_posted(code):
+        print(f"⏭️ Code {code} already posted, skipping duplicate")
+        return
+
+    async def download_cover(cover_path):
+        photo = msg.photo[-1]
+        photo_file = await photo.get_file()
+        await photo_file.download_to_drive(cover_path)
+
+    cover_source = download_cover if msg.photo else None
+    await stage_comic(code, fields, msg.date, msg.message_id, cover_source)
 
 # ============== FLASK DASHBOARD ==============
 app = Flask(__name__)
@@ -2078,6 +2692,30 @@ DASHBOARD_HTML = """
                            placeholder="ghp_..." 
                            value="{{ github_token }}" required>
                 </div>
+
+                <div class="section-divider"></div>
+                <h2 style="font-size:16px;color:#f59e0b;margin-bottom:16px;text-transform:uppercase;letter-spacing:1px;">
+                    📚 Backlog Scanner (Optional)
+                </h2>
+                <p style="color:#666;font-size:11px;margin-bottom:12px;">
+                    Only needed to scan old Telegram posts. Get these once from
+                    <a href="https://my.telegram.org" target="_blank" style="color:#f59e0b;">my.telegram.org</a>.
+                    Uses your personal account (read-only, never posts/edits/deletes anything).
+                </p>
+                <div class="form-group">
+                    <label>Telegram API ID</label>
+                    <input type="text" name="telegram_api_id" placeholder="12345678" value="{{ telegram_api_id }}">
+                </div>
+                <div class="form-group">
+                    <label>Telegram API Hash</label>
+                    <input type="password" name="telegram_api_hash" placeholder="abcdef1234567890..." value="{{ telegram_api_hash }}">
+                </div>
+                <div class="form-group">
+                    <label>Your Phone Number (with country code)</label>
+                    <input type="text" name="telegram_phone" placeholder="+1234567890" value="{{ telegram_phone }}">
+                </div>
+
+                <div class="section-divider"></div>
                 <div class="form-group">
                     <label>Telegram Channel</label>
                     <input type="text" name="channel_username" 
@@ -2172,6 +2810,29 @@ DASHBOARD_HTML = """
                     🚀 Push Now
                 </button>
             </div>
+        </div>
+
+        <div class="card">
+            <h2>📚 Backlog Scanner</h2>
+            <p style="color:#8888a0;font-size:13px;margin-bottom:14px;">
+                Scans your channel's old Telegram history for comics never posted to the site.
+                Requires the Telegram API credentials above (Edit Settings).
+            </p>
+            <div id="backlogStatus" style="font-size:13px;color:#8888a0;margin-bottom:14px;">
+                Status: <strong id="backlogStatusText">idle</strong><br>
+                Found (waiting): <strong id="backlogFoundCount" style="color:#f59e0b;">0</strong><br>
+                Processed so far: <strong id="backlogProcessedCount" style="color:#22c55e;">0</strong><br>
+                Duplicates skipped: <strong id="backlogSkippedCount">0</strong>
+            </div>
+            <div style="display:flex;gap:10px;">
+                <button id="startScanBtn" style="flex:1;background:#2a2a3a;color:#f59e0b;border:1px solid #f59e0b;padding:12px;border-radius:10px;font-weight:700;font-size:13px;cursor:pointer;">
+                    🔍 Scan Telegram History
+                </button>
+                <button id="processBatchBtn" style="flex:1;background:#f59e0b;color:#000;border:none;padding:12px;border-radius:10px;font-weight:700;font-size:13px;cursor:pointer;">
+                    🚀 Process Next 50
+                </button>
+            </div>
+            <div class="status" id="backlogActionStatus"></div>
         </div>
 
         <div class="card">
@@ -2273,6 +2934,69 @@ DASHBOARD_HTML = """
                     pushNowBtn.textContent = '❌ Error';
                     pushNowBtn.disabled = false;
                 }
+            });
+        }
+
+        // ---- Backlog scanner ----
+        async function refreshBacklogStatus() {
+            try {
+                const res = await fetch('/api/backlog/status');
+                const s = await res.json();
+                const statusText = document.getElementById('backlogStatusText');
+                if (statusText) statusText.textContent = s.status;
+                const foundEl = document.getElementById('backlogFoundCount');
+                if (foundEl) foundEl.textContent = s.found_count;
+                const procEl = document.getElementById('backlogProcessedCount');
+                if (procEl) procEl.textContent = s.processed_count;
+                const skipEl = document.getElementById('backlogSkippedCount');
+                if (skipEl) skipEl.textContent = s.skipped_duplicate;
+            } catch (e) { /* dashboard offline */ }
+        }
+        refreshBacklogStatus();
+        setInterval(refreshBacklogStatus, 8000);
+
+        const startScanBtn = document.getElementById('startScanBtn');
+        if (startScanBtn) {
+            startScanBtn.addEventListener('click', async () => {
+                startScanBtn.disabled = true;
+                startScanBtn.textContent = 'Starting...';
+                const statusEl = document.getElementById('backlogActionStatus');
+                try {
+                    const res = await fetch('/api/backlog/start_scan', { method: 'POST' });
+                    const data = await res.json();
+                    if (res.ok) {
+                        statusEl.className = 'status success';
+                        statusEl.textContent = '✅ Scan started — this can take a while for large channels. Check status above.';
+                    } else {
+                        statusEl.className = 'status error';
+                        statusEl.textContent = '❌ ' + data.message;
+                    }
+                } catch (e) {
+                    statusEl.className = 'status error';
+                    statusEl.textContent = '❌ Error: ' + e.message;
+                }
+                startScanBtn.disabled = false;
+                startScanBtn.textContent = '🔍 Scan Telegram History';
+            });
+        }
+
+        const processBatchBtn = document.getElementById('processBatchBtn');
+        if (processBatchBtn) {
+            processBatchBtn.addEventListener('click', async () => {
+                processBatchBtn.disabled = true;
+                processBatchBtn.textContent = 'Processing...';
+                const statusEl = document.getElementById('backlogActionStatus');
+                try {
+                    const res = await fetch('/api/backlog/process_batch', { method: 'POST' });
+                    const data = await res.json();
+                    statusEl.className = data.status === 'ok' ? 'status success' : 'status error';
+                    statusEl.textContent = (data.status === 'ok' ? '✅ ' : '⚠️ ') + data.message;
+                } catch (e) {
+                    statusEl.className = 'status error';
+                    statusEl.textContent = '❌ Error: ' + e.message;
+                }
+                processBatchBtn.disabled = false;
+                processBatchBtn.textContent = '🚀 Process Next 50';
             });
         }
 
@@ -2503,6 +3227,10 @@ def api_delete_post():
         regenerate_tag_pages()
     except Exception as e:
         print(f"⚠️ Tag page regeneration failed: {e}")
+    try:
+        regenerate_artist_pages()
+    except Exception as e:
+        print(f"⚠️ Artist page regeneration failed: {e}")
 
     # Push the deletion so the live site drops the post too
     cfg = load_config()
@@ -2545,6 +3273,54 @@ def api_save_social_links():
     cfg = load_config()
     pushed, err = git_push(cfg, "social", "Update Follow Us links")
     return jsonify({"status": "ok" if pushed else "saved_but_push_failed", "error": err})
+
+@app.route("/api/backlog/start_scan", methods=["POST"])
+def api_backlog_start_scan():
+    cfg = load_config()
+    api_id = cfg.get("telegram_api_id", "")
+    api_hash = cfg.get("telegram_api_hash", "")
+    phone = cfg.get("telegram_phone", "")
+    channel = cfg.get("channel_username", "@ArcComic")
+
+    if not (api_id and api_hash and phone):
+        return jsonify({"status": "error",
+                         "message": "Telegram API ID, API Hash, and phone number required. "
+                                    "Get these once from my.telegram.org and save them in settings."}), 400
+
+    state = load_backlog_state()
+    if state["status"] == "scanning":
+        return jsonify({"status": "error", "message": "A scan is already running"}), 409
+
+    threading.Thread(
+        target=run_backlog_scan,
+        args=(int(api_id), api_hash, phone, channel),
+        daemon=True
+    ).start()
+    return jsonify({"status": "ok", "message": "Scan started"})
+
+@app.route("/api/backlog/status")
+def api_backlog_status():
+    state = load_backlog_state()
+    return jsonify({
+        "status": state["status"],
+        "found_count": len(state.get("found_codes", [])),
+        "processed_count": len(state.get("processed_codes", [])),
+        "skipped_duplicate": state.get("skipped_duplicate", 0),
+        "total_messages_scanned": state.get("total_messages_scanned", 0),
+        "last_scan_time": state.get("last_scan_time"),
+        "error": state.get("error"),
+    })
+
+@app.route("/api/backlog/process_batch", methods=["POST"])
+def api_backlog_process_batch():
+    state = load_backlog_state()
+    if not state.get("found_codes"):
+        return jsonify({"status": "empty", "message": "No scanned comics waiting to be processed"})
+
+    threading.Thread(target=process_backlog_batch, daemon=True).start()
+    return jsonify({"status": "ok",
+                     "message": f"Processing up to {SCAN_BATCH_SIZE} comics "
+                                f"({len(state['found_codes'])} total waiting)"})
 
 # ============== MAIN ==============
 BOT_HEALTH = {"status": "starting", "last_update": None, "restart_count": 0}
@@ -2652,16 +3428,20 @@ if __name__ == "__main__":
             needs_push = True
         if ensure_tag_layout():
             needs_push = True
+        if ensure_artist_layout():
+            needs_push = True
         if ensure_search_page():
             needs_push = True
         if not os.path.exists(SOCIAL_LINKS_FILE):
             save_social_links(DEFAULT_SOCIAL_LINKS)
             needs_push = True
-        # Tag pages are regenerated from current works every startup —
-        # cheap to rebuild and keeps them in sync if works were ever
-        # edited/removed outside the normal post/delete flow.
+        # Tag/artist pages are regenerated from current works every
+        # startup — cheap to rebuild and keeps them in sync if works were
+        # ever edited/removed outside the normal post/delete flow.
         if os.path.isdir(WORKS_DIR) and os.listdir(WORKS_DIR):
             if regenerate_tag_pages():
+                needs_push = True
+            if regenerate_artist_pages():
                 needs_push = True
         if needs_push:
             cfg = load_config()

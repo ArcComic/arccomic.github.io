@@ -1,4 +1,4 @@
-<!-- arc-comic-layout-version: 5 -->
+<!-- arc-comic-layout-version: 6 -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -140,7 +140,7 @@
         <div class="info-grid">
             <div class="info-box">
                 <div class="info-icon">✨</div>
-                <div><div class="info-label">Author</div><div class="info-value">{{ page.author }}</div></div>
+                <div><div class="info-label">Author</div><div class="info-value"><a href="/artists/{{ page.author | slugify }}/" style="color:inherit;text-decoration:none;">{{ page.author }}</a></div></div>
             </div>
             <div class="info-box">
                 <div class="info-icon">🌟</div>

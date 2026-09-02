@@ -1,12 +1,12 @@
-<!-- arc-comic-layout-version: 2 -->
+<!-- arc-comic-layout-version: 1 -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="icon" type="image/svg+xml" href="/favicon.svg">
-    <title>{{ page.tag_name }} Comics - Arc Comic</title>
-    <meta name="description" content="Browse {{ page.tag_name }} manga and doujinshi on Arc Comic">
+    <title>{{ page.artist_name }} - Arc Comic</title>
+    <meta name="description" content="Browse all manga and doujinshi by {{ page.artist_name }} on Arc Comic">
     <script async src="https://ss.mrmnd.com/native.js"></script>
     <style>
         :root {
@@ -48,8 +48,8 @@
 <body>
     <div class="container">
         <a href="/" class="logo-link">✨ Arc Comic</a>
-        <div class="breadcrumb"><a href="/">Home</a> › <a href="/tags/">Tags</a> › {{ page.tag_name }}</div>
-        <h1>💥 {{ page.tag_name }}</h1>
+        <div class="breadcrumb"><a href="/">Home</a> › <a href="/artists/">Artists</a> › {{ page.artist_name }}</div>
+        <h1>✨ {{ page.artist_name }}</h1>
         <div class="count">{{ page.work_count }} comic{% if page.work_count != 1 %}s{% endif %}</div>
         <div class="toolbar">
             <select id="sortSelect">
@@ -65,7 +65,7 @@
     <script>
         const works = [
             {% for w in page.works %}
-            { title: "{{ w.title | escape }}", author: "{{ w.author }}", cover: "{{ w.cover }}",
+            { title: "{{ w.title | escape }}", cover: "{{ w.cover }}",
                rating: "{{ w.rating }}", date: "{{ w.date }}", url: "{{ w.url }}" }{% unless forloop.last %},{% endunless %}
             {% endfor %}
         ];
@@ -74,7 +74,7 @@
             const cards = pageWorks.map(w => `
                 <a href="${w.url}" class="work-card">
                     <div class="cover"><img src="${w.cover}" alt="${w.title}"></div>
-                    <div class="info"><h3>${w.title}</h3><div class="meta">${w.author} • ⭐ ${w.rating}</div></div>
+                    <div class="info"><h3>${w.title}</h3><div class="meta">⭐ ${w.rating}</div></div>
                 </a>
             `);
             if (!isFirstPage && cards.length > 1) {
