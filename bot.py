@@ -1020,6 +1020,36 @@ INDEX_HTML_TEMPLATE = f"""---
 </html>
 """
 
+def is_valid_jekyll_front_matter(content):
+    """
+    Returns True if `content` starts with a well-formed Jekyll front
+    matter block (--- ... ---) whose YAML parses to either nothing
+    (empty/comment-only front matter, which is what index.html
+    intentionally uses) or a mapping (dict) — the only two shapes Jekyll
+    actually accepts for front matter.
+
+    This is stricter than "does it parse as valid YAML at all" on
+    purpose. A real corruption was found where text got spliced into the
+    front-matter comment block (see update_verification_tag's old bug):
+    the resulting block was *technically* parseable YAML — PyYAML read
+    the stray unindented text as a bare multi-line string scalar rather
+    than raising an error — so a plain try/except yaml.safe_load() check
+    incorrectly reported it as fine, while Jekyll's own parser (which
+    requires front matter to be a mapping) correctly rejected it and
+    failed the build. Checking the parsed type, not just "did it raise",
+    is what catches this.
+    """
+    if not content.startswith("---"):
+        return False
+    fm_match = re.match(r"\A---\s*\n(.*?\n)?---\s*\n", content, re.DOTALL)
+    if not fm_match:
+        return False
+    try:
+        parsed = yaml.safe_load(fm_match.group(1) or "")
+    except yaml.YAMLError:
+        return False
+    return parsed is None or isinstance(parsed, dict)
+
 def ensure_index_html():
     """
     Self-healing homepage. The bot fully owns this file and always keeps
@@ -1045,15 +1075,7 @@ def ensure_index_html():
         # ensure_index_html() now also checks that the file *starts* with
         # a well-formed, parseable front matter block before trusting the
         # version marker.
-        front_matter_ok = False
-        if content.startswith("---"):
-            fm_match = re.match(r"\A---\s*\n(.*?\n)?---\s*\n", content, re.DOTALL)
-            if fm_match:
-                try:
-                    yaml.safe_load(fm_match.group(1) or "")
-                    front_matter_ok = True
-                except yaml.YAMLError:
-                    front_matter_ok = False
+        front_matter_ok = is_valid_jekyll_front_matter(content)
 
         if current_version >= INDEX_HTML_VERSION and front_matter_ok:
             return False
@@ -1960,16 +1982,7 @@ def update_verification_tag(tag_html):
     # broken front matter again. Fall back to regenerating index.html from
     # the known-good template, then inject the tag into that clean copy
     # instead.
-    fm_inner_match = re.match(r"\A---\s*\n(.*?\n)?---\s*\n", front_matter, re.DOTALL) if front_matter else None
-    front_matter_ok = False
-    if fm_inner_match:
-        try:
-            yaml.safe_load(fm_inner_match.group(1) or "")
-            front_matter_ok = True
-        except yaml.YAMLError:
-            front_matter_ok = False
-    elif not front_matter:
-        front_matter_ok = True  # no front matter block at all is fine here
+    front_matter_ok = is_valid_jekyll_front_matter(front_matter) if front_matter else True
 
     if not front_matter_ok:
         print("⚠️ index.html front matter was corrupted (likely by the old "
