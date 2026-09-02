@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "doujinshi"
-work_count: 14
+work_count: 13
 works:
   - title: Bocchi de Shinda Ore ga Bishoujo Nurse ni Natta Hanashi | The Story of How
       I Died Alone and Became a Sexy Nurse
@@ -26,14 +26,6 @@ works:
     date: '2026-08-31'
     code: 556767
     url: /works/556767/
-  - title: These are people who, because they became women, have strayed far from the
-      life they were meant to lead.
-    author: satake-gorou
-    cover: /covers/571798.jpg
-    rating: 0.0
-    date: '2026-09-02'
-    code: 571798
-    url: /works/571798/
   - title: Wakazuma Arijigoku
     author: sunagawa-tara
     cover: /covers/595788.jpg
