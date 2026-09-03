@@ -1,6 +1,6 @@
 ---
 ---
-<!-- arc-comic-index-version: 2 -->
+<!-- arc-comic-index-version: 3 -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -46,12 +46,14 @@
         .work-card .info { padding: 10px; }
         .work-card .info h3 { font-size: 13px; font-weight: 600; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
         .work-card .info .meta { font-size: 11px; color: var(--text-muted); margin-top: 3px; }
+        .grid-ad-card { background: var(--bg-card); border-radius: 12px; border: 1px dashed var(--border); overflow: hidden; width: 100%; padding-top: 140%; position: relative; }
         .no-results { text-align: center; padding: 60px 20px; color: var(--text-muted); }
-        .pagination { display: flex; justify-content: center; gap: 8px; margin-top: 30px; padding-top: 20px; border-top: 1px solid var(--border); }
+        .pagination { display: flex; justify-content: center; gap: 8px; flex-wrap: wrap; margin-top: 30px; padding-top: 20px; border-top: 1px solid var(--border); }
         .pagination a, .pagination span { padding: 8px 14px; border-radius: 8px; font-size: 14px; font-weight: 600; text-decoration: none; }
         .pagination a { background: var(--bg-card); color: var(--text); border: 1px solid var(--border); }
         .pagination a:hover { background: var(--accent); color: #000; }
         .pagination span { background: var(--accent); color: #000; }
+        .pagination-ellipsis { padding: 8px 6px; color: var(--text-muted); font-weight: 600; user-select: none; }
         @media (max-width: 768px) { .works-grid { grid-template-columns: repeat(2, 1fr); } }
     </style>
 </head>
@@ -72,6 +74,39 @@
         {% include follow_us.html %}
     </div>
     <script>
+        
+        const MAX_PAGINATION_BUTTONS = 7;
+        function buildPaginationHtml(current, total, onClickFnName) {
+            if (total <= 1) return '';
+            const mk = (i) => {
+                if (i === current) return `<span>${i}</span>`;
+                return `<a href="#" onclick="${onClickFnName}(${i}); return false;">${i}</a>`;
+            };
+            const ellipsis = `<span class="pagination-ellipsis">…</span>`;
+
+            if (total <= MAX_PAGINATION_BUTTONS) {
+                let html = '';
+                for (let i = 1; i <= total; i++) html += mk(i);
+                return html;
+            }
+
+            // Always show first and last page. Fill the remaining slots
+            // centered on the current page, then clamp to valid range.
+            const sideSlots = MAX_PAGINATION_BUTTONS - 2; // minus first+last
+            let start = current - Math.floor(sideSlots / 2);
+            let end = start + sideSlots - 1;
+            if (start < 2) { start = 2; end = start + sideSlots - 1; }
+            if (end > total - 1) { end = total - 1; start = end - sideSlots + 1; }
+            if (start < 2) start = 2;
+
+            let html = mk(1);
+            if (start > 2) html += ellipsis;
+            for (let i = start; i <= end; i++) html += mk(i);
+            if (end < total - 1) html += ellipsis;
+            html += mk(total);
+            return html;
+        }
+
         const works = [
             {% for post in site.works %}
             {
@@ -99,7 +134,7 @@
                 </a>
             `);
             if (!isFirstPage && cards.length > 1) {
-                const adCard = `<div class="work-card" data-mndazid="46474a49-ec2d-4f56-b270-26751ac9202a" style="min-height:100%;"></div>`;
+                const adCard = `<div class="grid-ad-card" data-mndazid="46474a49-ec2d-4f56-b270-26751ac9202a"></div>`;
                 cards.splice(1 + Math.floor(Math.random() * cards.length), 0, adCard);
             }
             return cards.join('');
@@ -112,12 +147,7 @@
             document.getElementById('worksGrid').innerHTML = buildCardsWithAd(pageWorks, page === 1);
 
             const total = Math.ceil(currentResults.length / PER_PAGE);
-            let html = '';
-            for (let i = 1; i <= total; i++) {
-                if (i === page) html += `<span>${i}</span>`;
-                else html += `<a href="#" onclick="renderPage(${i}); return false;">${i}</a>`;
-            }
-            document.getElementById('pagination').innerHTML = html;
+            document.getElementById('pagination').innerHTML = buildPaginationHtml(page, total, 'renderPage');
         }
 
         function runSearch(q) {

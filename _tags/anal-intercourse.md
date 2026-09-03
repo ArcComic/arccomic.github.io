@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "anal intercourse"
-work_count: 22
+work_count: 34
 works:
   - title: Bitch Mama no Kekkon Riyuu
     author: aoyama-akira
@@ -18,6 +18,13 @@ works:
     date: '2026-08-31'
     code: 556767
     url: /works/556767/
+  - title: Mesu no Ie II ~Tsuma wa Midare Ubareru~
+    author: ame-arare
+    cover: /covers/591112.jpg
+    rating: 4.3
+    date: '2026-05-01'
+    code: 591112
+    url: /works/591112/
   - title: Otoko no Ko otodokeshimasu! ~Itsumo kuru Haitatsuin-san ga masaka no Otoko
       no Ko dattakedo mayowazu hameta~
     author: mitsujirou
@@ -26,6 +33,13 @@ works:
     date: '2026-07-16'
     code: 605410
     url: /works/605410/
+  - title: Eroi Koto Igai de Toki o Tomete wa Dame desu yo 2
+    author: ohkura-kazuya
+    cover: /covers/615835.jpg
+    rating: 4.9
+    date: '2026-04-30'
+    code: 615835
+    url: /works/615835/
   - title: Naisho no An-chan
     author: seto-ryouko
     cover: /covers/627126.jpg
@@ -48,6 +62,65 @@ works:
     date: '2026-08-24'
     code: 642586
     url: /works/642586/
+  - title: Anal Toilet Training
+    author: goma-gorilla
+    cover: /covers/647315.jpg
+    rating: 4.1
+    date: '2026-05-01'
+    code: 647315
+    url: /works/647315/
+  - title: Otaku ni Yasashii Gal wa Aitsu no Kanojo | A Gal Who's Kind to Otaku Is That
+      Guy's Girlfriend
+    author: yamamoto
+    cover: /covers/647809.jpg
+    rating: 4.9
+    date: '2026-05-04'
+    code: 647809
+    url: /works/647809/
+  - title: He's being held by her father
+    author: unknown
+    cover: /covers/647938.jpg
+    rating: 4.3
+    date: '2026-05-05'
+    code: 647938
+    url: /works/647938/
+  - title: Good Teachers
+    author: nodo
+    cover: /covers/648310.jpg
+    rating: 4.9
+    date: '2026-05-07'
+    code: 648310
+    url: /works/648310/
+  - title: Imouto Haramasenai to Derarenai Shima 2 | You Must Breed Your Sister to Leave
+      This Island 2!
+    author: airandou
+    cover: /covers/648414.jpg
+    rating: 4.2
+    date: '2026-05-07'
+    code: 648414
+    url: /works/648414/
+  - title: Half Gimai to no Amai Nichijou to Noumitsu Sex 3
+    author: sanbalkin
+    cover: /covers/648460.jpg
+    rating: 4.9
+    date: '2026-05-07'
+    code: 648460
+    url: /works/648460/
+  - title: Netorase Club 2 Anal Name no Tensai to Fellatio no Tensai | Netorase Club
+      2 The Genius of Rimjob and The Genius of Blowjob
+    author: oosawara-sadao
+    cover: /covers/649114.jpg
+    rating: 4.9
+    date: '2026-05-10'
+    code: 649114
+    url: /works/649114/
+  - title: Iki Jigoku Refle ni Tokeru Otto Tanshinfunin Hitozuma Inmou Ari
+    author: kotoyoshi-yumisuke
+    cover: /covers/651442.jpg
+    rating: 4.2
+    date: '2026-05-21'
+    code: 651442
+    url: /works/651442/
   - title: Josou Gyakunan Debusen Ketsuhame Tokoroten
     author: bonske
     cover: /covers/656753.jpg
@@ -55,6 +128,22 @@ works:
     date: '2026-07-09'
     code: 656753
     url: /works/656753/
+  - title: Shinyuu Tatakitsubushi Kyousou Shiiku Seikatsu | A Life in Captivity The
+      Competition to Break My Best Friend
+    author: group
+    cover: /covers/661586.jpg
+    rating: 4.5
+    date: '2026-07-06'
+    code: 661586
+    url: /works/661586/
+  - title: Love wa Gal kara Hajimaru Unmei | Love is a Destiny That Begins with a Gal
+      ch.1-5
+    author: nusmusbim
+    cover: /covers/661909.jpg
+    rating: 4.1
+    date: '2026-07-07'
+    code: 661909
+    url: /works/661909/
   - title: Jinin ’Futsuu’ Dekachichi Inkya J◯ no Maso Mesu ga Nagga〜i Chinpo de Shuuryou
       Made♡
     author: amrita

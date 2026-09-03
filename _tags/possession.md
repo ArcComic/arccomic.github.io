@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "possession"
-work_count: 6
+work_count: 8
 works:
   - title: Hyoui Suru nara Kanemochi no Bakunyuu Babaa ni Kagiru! | If you want to be
       possessed, it must be a rich hag with big tits!
@@ -19,6 +19,20 @@ works:
     date: '2026-08-31'
     code: 494172
     url: /works/494172/
+  - title: Mother's Scent 1-4
+    author: midnight
+    cover: /covers/532417.jpg
+    rating: 4.2
+    date: '2026-05-26'
+    code: 532417
+    url: /works/532417/
+  - title: Venom Invasion VII 【Part 1】
+    author: blackftos
+    cover: /covers/647563.jpg
+    rating: 4.9
+    date: '2026-05-03'
+    code: 647563
+    url: /works/647563/
   - title: 'Hyoui AV AV Joyuu no Karada o Sukihoudai Suru Hanashi | Possession AV: A
       story about doing whatever you want with a porn star''s body'
     author: ame-no-machi

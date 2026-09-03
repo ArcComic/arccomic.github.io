@@ -1,0 +1,12 @@
+---
+layout: artist
+artist_name: "nagisano-usagi"
+work_count: 1
+works:
+  - title: DRUG MONSTER
+    cover: /covers/651298.jpg
+    rating: 4.8
+    date: '2026-05-20'
+    code: 651298
+    url: /works/651298/
+---

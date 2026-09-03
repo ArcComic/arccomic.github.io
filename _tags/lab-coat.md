@@ -1,8 +1,22 @@
 ---
 layout: tag
 tag_name: "lab coat"
-work_count: 2
+work_count: 4
 works:
+  - title: Jill's Rehabilitation
+    author: sawao
+    cover: /covers/651296.jpg
+    rating: 4.8
+    date: '2026-05-20'
+    code: 651296
+    url: /works/651296/
+  - title: DRUG MONSTER
+    author: nagisano-usagi
+    cover: /covers/651298.jpg
+    rating: 4.8
+    date: '2026-05-20'
+    code: 651298
+    url: /works/651298/
   - title: Akogare no Ano Hito wa | The Person I Admire
     author: minami-chisato-arisawa-tsukasa
     cover: /covers/662657.jpg

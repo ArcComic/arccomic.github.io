@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "gloves"
-work_count: 6
+work_count: 9
 works:
   - title: Yuri no o saifu ni shite agemasu ne, Senpai | I'll turn you into Yuri's wallet,
       Senpai
@@ -32,6 +32,29 @@ works:
     date: '2026-08-22'
     code: 635512
     url: /works/635512/
+  - title: Imouto Haramasenai to Derarenai Shima 2 | You Must Breed Your Sister to Leave
+      This Island 2!
+    author: airandou
+    cover: /covers/648414.jpg
+    rating: 4.2
+    date: '2026-05-07'
+    code: 648414
+    url: /works/648414/
+  - title: Oshiego no Gal o Kau
+    author: mitsudoue
+    cover: /covers/651197.jpg
+    rating: 4.0
+    date: '2026-05-20'
+    code: 651197
+    url: /works/651197/
+  - title: Kasshoku Oneesan no Fudeoroshi Ver. 6 | Brown Lady Takes His First Time Ver.
+      6
+    author: ahugan-sugita
+    cover: /covers/662114.jpg
+    rating: 4.7
+    date: '2026-07-07'
+    code: 662114
+    url: /works/662114/
   - title: Metal Girl Ie Onanie
     author: ishimura-ishimiso
     cover: /covers/663142.jpg

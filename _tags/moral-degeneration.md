@@ -1,8 +1,37 @@
 ---
 layout: tag
 tag_name: "moral degeneration"
-work_count: 8
+work_count: 16
 works:
+  - title: Beit Saki no Majime na Kouhai ga... | A Serious Part-Time Kouhai
+    author: kusayarou
+    cover: /covers/536423.jpg
+    rating: 4.5
+    date: '2026-05-07'
+    code: 536423
+    url: /works/536423/
+  - title: Houkai Kazoku -Hahaoya ga Yakuza to no Sex ni Hamatta Hanashi- | Broken Family
+      - A Story About a Mother Who Became Addicted to Sex With a Yakuza
+    author: watsondou
+    cover: /covers/557052.jpg
+    rating: 4.4
+    date: '2026-05-07'
+    code: 557052
+    url: /works/557052/
+  - title: Asuna family 1-42
+    author: zhi-yitiaomiao
+    cover: /covers/588660.jpg
+    rating: 4.1
+    date: '2026-05-03'
+    code: 588660
+    url: /works/588660/
+  - title: Seishun Soushitsu
+    author: pinkjoe
+    cover: /covers/610017.jpg
+    rating: 4.7
+    date: '2026-05-07'
+    code: 610017
+    url: /works/610017/
   - title: Metamorphosis
     author: shindol
     cover: /covers/616358.jpg
@@ -19,6 +48,38 @@ works:
     date: '2026-08-29'
     code: 634450
     url: /works/634450/
+  - title: Netorareta Kanojo ga Joou-sama ni natte Kaettekita ~Ruined de Kintama o Kara
+      ni sarete Zenritsusen o Ijirarete Nandomo Nandomo Mesuikishite Choukyou sareru
+      Ohanashi~
+    author: sankaku-noel
+    cover: /covers/647608.jpg
+    rating: 4.6
+    date: '2026-05-03'
+    code: 647608
+    url: /works/647608/
+  - title: He's being held by her father
+    author: unknown
+    cover: /covers/647938.jpg
+    rating: 4.3
+    date: '2026-05-05'
+    code: 647938
+    url: /works/647938/
+  - title: Imouto Haramasenai to Derarenai Shima 2 | You Must Breed Your Sister to Leave
+      This Island 2!
+    author: airandou
+    cover: /covers/648414.jpg
+    rating: 4.2
+    date: '2026-05-07'
+    code: 648414
+    url: /works/648414/
+  - title: Shinyuu Tatakitsubushi Kyousou Shiiku Seikatsu | A Life in Captivity The
+      Competition to Break My Best Friend
+    author: group
+    cover: /covers/661586.jpg
+    rating: 4.5
+    date: '2026-07-06'
+    code: 661586
+    url: /works/661586/
   - title: Jinin ’Futsuu’ Dekachichi Inkya J◯ no Maso Mesu ga Nagga〜i Chinpo de Shuuryou
       Made♡
     author: amrita

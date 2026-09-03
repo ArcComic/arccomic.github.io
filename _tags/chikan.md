@@ -1,8 +1,16 @@
 ---
 layout: tag
 tag_name: "chikan"
-work_count: 7
+work_count: 10
 works:
+  - title: IKUu!! Zenkou Seito no Mae de Koukai Zecchou-saserareta JK no Matsuro 1 |
+      Cumming in Front of the Entire Student Body 1
+    author: ouma
+    cover: /covers/518608.jpg
+    rating: 4.6
+    date: '2026-05-04'
+    code: 518608
+    url: /works/518608/
   - title: '"Sex no Benkyou Shiyokka?" Kareshi ga Iru no ni Itoko kara Shojo wo Ubaware
       Zecchou Shidou 1-5 | Let''s Learn About Sex: Your Cousin Will Take Your Virginity
       and Teach You How to Come 1-5'
@@ -34,6 +42,13 @@ works:
     date: '2026-08-28'
     code: 652651
     url: /works/652651/
+  - title: Gibo o , Densha de ... | My Stepmother on The Train...
+    author: gonza
+    cover: /covers/652801.jpg
+    rating: 4.4
+    date: '2026-05-27'
+    code: 652801
+    url: /works/652801/
   - title: Imouto ga Ore no Kanojo!? 2-haku 3-ka no Ecchi na Kankei | My Sister is My
       Girlfriend!? Sexual Relationship for Two Nights and Three Days
     author: katagiri-kaneharu
@@ -42,6 +57,13 @@ works:
     date: '2026-08-29'
     code: 660399
     url: /works/660399/
+  - title: Even though I was supposed to sing that love first!
+    author: densuke
+    cover: /covers/662094.jpg
+    rating: 4.4
+    date: '2026-07-07'
+    code: 662094
+    url: /works/662094/
   - title: Boku ni Yuuki ga Atta nara | If only I had the courage
     author: kamakiri-akagi-ryouichi
     cover: /covers/663672.jpg

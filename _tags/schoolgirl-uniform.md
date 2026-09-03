@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "schoolgirl uniform"
-work_count: 57
+work_count: 107
 works:
   - title: Yuri no o saifu ni shite agemasu ne, Senpai | I'll turn you into Yuri's wallet,
       Senpai
@@ -18,6 +18,13 @@ works:
     date: '2026-07-09'
     code: 317673
     url: /works/317673/
+  - title: Mukuchi na Tosho Iin to Sex Zuke.
+    author: yuzuha
+    cover: /covers/321298.jpg
+    rating: 4.7
+    date: '2026-07-07'
+    code: 321298
+    url: /works/321298/
   - title: Kanojo Face | Girlfriend Face
     author: mashiro-shirako
     cover: /covers/346126.jpg
@@ -32,6 +39,29 @@ works:
     date: '2026-07-08'
     code: 346416
     url: /works/346416/
+  - title: NTR Anniversary + ) [Syukurin] Mitsuha ~Netorare~ (Kimi no Na wa.) [English]
+      [Colorized] by Mikaku
+    author: arakure
+    cover: /covers/414206.jpg
+    rating: 4.2
+    date: '2026-04-27'
+    code: 414206
+    url: /works/414206/
+  - title: 'Misunderstanding Love Hotel Netorare [Arakure] & Kimi no na wa: After Story
+      - Mitsuha ~Netorare~'
+    author: arakure
+    cover: /covers/416883.jpg
+    rating: 4.9
+    date: '2026-04-27'
+    code: 416883
+    url: /works/416883/
+  - title: Koi no Susumekata | How to Advance Your Love
+    author: danimaru
+    cover: /covers/425528.jpg
+    rating: 4.6
+    date: '2026-04-27'
+    code: 425528
+    url: /works/425528/
   - title: Ashizeme Kanojo _0 | girlfriend who likes to torture with her feet _0
     author: kaoinshou-zero
     cover: /covers/430672.jpg
@@ -39,6 +69,36 @@ works:
     date: '2026-07-17'
     code: 430672
     url: /works/430672/
+  - title: Ame no Hi wa, Honnori Chikubi
+    author: hoshi-to-lucky
+    cover: /covers/484860.jpg
+    rating: 4.9
+    date: '2026-05-04'
+    code: 484860
+    url: /works/484860/
+  - title: IKUu!! Zenkou Seito no Mae de Koukai Zecchou-saserareta JK no Matsuro 1 |
+      Cumming in Front of the Entire Student Body 1
+    author: ouma
+    cover: /covers/518608.jpg
+    rating: 4.6
+    date: '2026-05-04'
+    code: 518608
+    url: /works/518608/
+  - title: '"Ikaseru Furi suru dake" tte Itta no ni... Satsutaba o Kuwaenagara Maji
+      Ikigao o Sarasu JK 1 | But You Said You''d Only Pretend to Make Me Cum... 1'
+    author: ouma
+    cover: /covers/519713.jpg
+    rating: 4.6
+    date: '2026-05-04'
+    code: 519713
+    url: /works/519713/
+  - title: 'Jujutsu Kaisen: Mahito Mayhem'
+    author: mayitgu
+    cover: /covers/524761.jpg
+    rating: 4.1
+    date: '2026-05-03'
+    code: 524761
+    url: /works/524761/
   - title: Gal to no Asobikata | How to Have Fun With Gyarus!
     author: buta
     cover: /covers/531967.jpg
@@ -71,6 +131,21 @@ works:
     date: '2026-07-17'
     code: 545823
     url: /works/545823/
+  - title: Atashi ga Nuite Ageyo kka?
+    author: malcorond
+    cover: /covers/547250.jpg
+    rating: 4.1
+    date: '2026-07-07'
+    code: 547250
+    url: /works/547250/
+  - title: DeliHeal Kaa-chan 3 ~Having Sex with My Favorite Kaa-chan and Having a Half-Cohabitation
+      Life~
+    author: tarobaumu
+    cover: /covers/550823.jpg
+    rating: 4.3
+    date: '2026-05-05'
+    code: 550823
+    url: /works/550823/
   - title: Hayato-sensei no Mesu-ka Karute Daigaku-hen | Dr. Hayato's Feminization Medical
       Record ~University Edition~
     author: testame
@@ -102,6 +177,13 @@ works:
     date: '2026-08-29'
     code: 589969
     url: /works/589969/
+  - title: Mesu no Ie II ~Tsuma wa Midare Ubareru~
+    author: ame-arare
+    cover: /covers/591112.jpg
+    rating: 4.3
+    date: '2026-05-01'
+    code: 591112
+    url: /works/591112/
   - title: Kouen no Oji-san-tachi ni Moteasobaretai
     author: group
     cover: /covers/598010.jpg
@@ -116,6 +198,36 @@ works:
     date: '2026-07-15'
     code: 616358
     url: /works/616358/
+  - title: Nigate na Aitsu ni Benkyou o Oshieru Koto ni Natte... | I Ended Up Teaching
+      That Guy I Hate...
+    author: furaimai
+    cover: /covers/616533.jpg
+    rating: 4.6
+    date: '2026-04-27'
+    code: 616533
+    url: /works/616533/
+  - title: Majime na Iinchou no Kanojo ga Sex ni Hamatta Riyuu
+    author: furaimai
+    cover: /covers/618562.jpg
+    rating: 4.3
+    date: '2026-04-27'
+    code: 618562
+    url: /works/618562/
+  - title: Ima Kara Irerukedo, "Sakippo Dake" Dakara Sex Janai Yo.  | Just The Tip Inside
+      is Not Sex Vol. 1-4
+    author: ouma
+    cover: /covers/621185.jpg
+    rating: 4.7
+    date: '2026-05-04'
+    code: 621185
+    url: /works/621185/
+  - title: Curiosity and the Cost of Innocence
+    author: hoshi-to-lucky
+    cover: /covers/637110.jpg
+    rating: 4.7
+    date: '2026-05-04'
+    code: 637110
+    url: /works/637110/
   - title: Onsen Haitte tara Joseito-tachi ga Osotte Kita | My Students Jumped Me When
       I Got in the Hot Spring
     author: hamo
@@ -131,6 +243,183 @@ works:
     date: '2026-07-13'
     code: 639514
     url: /works/639514/
+  - title: The story of how a busty, older teacher girlfriend gets seduced and cheated
+      on by the principal with a huge penis.
+    author: munioni
+    cover: /covers/644296.jpg
+    rating: 4.4
+    date: '2026-07-06'
+    code: 644296
+    url: /works/644296/
+  - title: Sex Between Gloomy Types is the Hottest, Ain't It?
+    author: doji-ro
+    cover: /covers/646757.jpg
+    rating: 4.5
+    date: '2026-05-01'
+    code: 646757
+    url: /works/646757/
+  - title: Ura Aka Joshi no Jidori Ero Gosoushin | A Girl with a Secret-Account Accidentally
+      Sends a Lewd Selfie
+    author: group
+    cover: /covers/646922.jpg
+    rating: 4.9
+    date: '2026-04-30'
+    code: 646922
+    url: /works/646922/
+  - title: Jimikei Bakunyuu Hirama-chan | The Busty, Unassuming Girl Hirama-chan
+    author: kametaro
+    cover: /covers/646942.jpg
+    rating: 4.9
+    date: '2026-04-30'
+    code: 646942
+    url: /works/646942/
+  - title: Natsu ga Owaru made Natsu no Owari Kanketsuhen
+    author: mon-petit
+    cover: /covers/646969.jpg
+    rating: 4.1
+    date: '2026-04-30'
+    code: 646969
+    url: /works/646969/
+  - title: 'Library Girlfriend: Descent into Depravity'
+    author: ame-arare
+    cover: /covers/647334.jpg
+    rating: 4.6
+    date: '2026-05-01'
+    code: 647334
+    url: /works/647334/
+  - title: Amanatsu - Sweet Rainy Girly Summer
+    author: sugaishi
+    cover: /covers/647740.jpg
+    rating: 4.3
+    date: '2026-05-04'
+    code: 647740
+    url: /works/647740/
+  - title: Otaku ni Yasashii Gal wa Aitsu no Kanojo | A Gal Who's Kind to Otaku Is That
+      Guy's Girlfriend
+    author: yamamoto
+    cover: /covers/647809.jpg
+    rating: 4.9
+    date: '2026-05-04'
+    code: 647809
+    url: /works/647809/
+  - title: My Annoying Little Cousin Stole My First Time
+    author: karube-guri
+    cover: /covers/647853.jpg
+    rating: 4.7
+    date: '2026-05-07'
+    code: 647853
+    url: /works/647853/
+  - title: Ura Aka Joshi no Jidori Ero Gosoushin | A Girl with a Secret-Account Accidentally
+      Sends a Lewd Selfie
+    author: group
+    cover: /covers/648358.jpg
+    rating: 4.0
+    date: '2026-05-07'
+    code: 648358
+    url: /works/648358/
+  - title: Mama no Saikon Aite wa Papakatsu no Papa | Mom's new husband is my sugar
+      daddy
+    author: shiro-marimo
+    cover: /covers/648384.jpg
+    rating: 4.5
+    date: '2026-05-07'
+    code: 648384
+    url: /works/648384/
+  - title: Imouto Haramasenai to Derarenai Shima 2 | You Must Breed Your Sister to Leave
+      This Island 2!
+    author: airandou
+    cover: /covers/648414.jpg
+    rating: 4.2
+    date: '2026-05-07'
+    code: 648414
+    url: /works/648414/
+  - title: Half Gimai to no Amai Nichijou to Noumitsu Sex 3
+    author: sanbalkin
+    cover: /covers/648460.jpg
+    rating: 4.9
+    date: '2026-05-07'
+    code: 648460
+    url: /works/648460/
+  - title: Murasaki no Syoumei | Purple Illumination
+    author: '3104'
+    cover: /covers/648461.jpg
+    rating: 4.1
+    date: '2026-05-07'
+    code: 648461
+    url: /works/648461/
+  - title: Yuri Fetish Life Ch. 2
+    author: tateyama-keita
+    cover: /covers/648495.jpg
+    rating: 4.8
+    date: '2026-05-07'
+    code: 648495
+    url: /works/648495/
+  - title: The Story Of Being Used For Sexual Release By My Annoying Childhood Friend
+      And Cousin's Pussy
+    author: karube-guri
+    cover: /covers/648522.jpg
+    rating: 4.2
+    date: '2026-05-07'
+    code: 648522
+    url: /works/648522/
+  - title: Oshiego no Gal o Kau
+    author: mitsudoue
+    cover: /covers/651197.jpg
+    rating: 4.0
+    date: '2026-05-20'
+    code: 651197
+    url: /works/651197/
+  - title: 'Namaiki Gal o Succubus ni Shite Oshioki Shitatta Ken 4  | Turning a Bratty
+      Gal into a Succubus for Punishment #4'
+    author: takurowo
+    cover: /covers/651303.jpg
+    rating: 4.5
+    date: '2026-05-20'
+    code: 651303
+    url: /works/651303/
+  - title: Kyonyiu kanojo ni hitasura shibori toraremakuru hanashi | Squeeze Until Empty
+    author: fuguta-ke
+    cover: /covers/651343.jpg
+    rating: 4.3
+    date: '2026-05-20'
+    code: 651343
+    url: /works/651343/
+  - title: Boku no kanojo | My Girlfriend
+    author: fuguta-ke
+    cover: /covers/651346.jpg
+    rating: 4.3
+    date: '2026-05-20'
+    code: 651346
+    url: /works/651346/
+  - title: Kimi ga Haramu made Genkai Toppa Sex | Limit Breaking Sex until you're Pregnant
+    author: yoshio-ereki-toneridan
+    cover: /covers/651499.jpg
+    rating: 5.0
+    date: '2026-05-21'
+    code: 651499
+    url: /works/651499/
+  - title: Kyonyuu Kanojo ni Hitasura Shibori Toraremakuru Hanashi | Squeeze Until Empty
+    author: fuguta-ke
+    cover: /covers/652218.jpg
+    rating: 4.8
+    date: '2026-05-26'
+    code: 652218
+    url: /works/652218/
+  - title: Kyonyuu no Tomodachi to Tsukiau made no Hanashi | Maybe We'll Start Dating
+      Someday
+    author: fuguta-ke
+    cover: /covers/652244.jpg
+    rating: 5.0
+    date: '2026-05-26'
+    code: 652244
+    url: /works/652244/
+  - title: REMIND ME & Beautiful Days Without You
+    author: 3e
+    cover: /covers/652639.jpg
+    rating: 4.8
+    date: '2026-05-26'
+    code: 652639
+    url: /works/652639/
   - title: Majime na Salaryman ga JK Chijo ni Otosareru Hanashi
     author: hamo
     cover: /covers/652651.jpg
@@ -138,6 +427,28 @@ works:
     date: '2026-08-28'
     code: 652651
     url: /works/652651/
+  - title: Kiraware H ~Boku o Kirai na Kimi ga Suki~ Momoka Hen
+    author: unknown
+    cover: /covers/652788.jpg
+    rating: 4.7
+    date: '2026-05-27'
+    code: 652788
+    url: /works/652788/
+  - title: Cool-kei Hoken Iin wa Ijou ni Yasashii | The Cool-Type Health Committee Girl
+      Is Abnormally Kind
+    author: shuumatsu
+    cover: /covers/652790.jpg
+    rating: 4.2
+    date: '2026-05-27'
+    code: 652790
+    url: /works/652790/
+  - title: Seishidouin no Oshigoto Soushuuhen1 | Sex Instructor Compilation Vol. 1
+    author: malcorond
+    cover: /covers/653978.jpg
+    rating: 4.8
+    date: '2026-07-07'
+    code: 653978
+    url: /works/653978/
   - title: Karada ga Binkan Sugiru Watashi wa Itoko ni Itazura sarete mo Teikoudekinai!
     author: romomata
     cover: /covers/655421.jpg
@@ -160,6 +471,58 @@ works:
     date: '2026-07-09'
     code: 658005
     url: /works/658005/
+  - title: Shinyuu Tatakitsubushi Kyousou Shiiku Seikatsu | A Life in Captivity The
+      Competition to Break My Best Friend
+    author: group
+    cover: /covers/661586.jpg
+    rating: 4.5
+    date: '2026-07-06'
+    code: 661586
+    url: /works/661586/
+  - title: Haken no Nakano-san wa Moto AV Joyuu
+    author: sumiya
+    cover: /covers/661613.jpg
+    rating: 4.2
+    date: '2026-07-06'
+    code: 661613
+    url: /works/661613/
+  - title: Oretoku Shuugakuryokou ~Otoko wa Jyosou shita Ore dake!! Ch 1-29
+    author: okumori-boy
+    cover: /covers/661664.jpg
+    rating: 4.1
+    date: '2026-07-06'
+    code: 661664
+    url: /works/661664/
+  - title: Himote no Boku ni Konna Sasoi Kotowareru Hazu ga Nai
+    author: untue
+    cover: /covers/661816.jpg
+    rating: 4.9
+    date: '2026-07-07'
+    code: 661816
+    url: /works/661816/
+  - title: Konoka Press Ch. 7
+    author: ryoh-zoh
+    cover: /covers/661817.jpg
+    rating: 4.8
+    date: '2026-07-07'
+    code: 661817
+    url: /works/661817/
+  - title: Love wa Gal kara Hajimaru Unmei | Love is a Destiny That Begins with a Gal
+      ch.1-5
+    author: nusmusbim
+    cover: /covers/661909.jpg
+    rating: 4.1
+    date: '2026-07-07'
+    code: 661909
+    url: /works/661909/
+  - title: Seishidouin no Oshigoto 4 Kohen Rippana Benki ni Sodatta node Daimanzoku
+      de Shidou wo Oeta + C101 Omake
+    author: malcorond
+    cover: /covers/661951.jpg
+    rating: 4.5
+    date: '2026-07-07'
+    code: 661951
+    url: /works/661951/
   - title: Jinin ’Futsuu’ Dekachichi Inkya J◯ no Maso Mesu ga Nagga〜i Chinpo de Shuuryou
       Made♡
     author: amrita
@@ -168,6 +531,13 @@ works:
     date: '2026-07-09'
     code: 661954
     url: /works/661954/
+  - title: Even though I was supposed to sing that love first!
+    author: densuke
+    cover: /covers/662094.jpg
+    rating: 4.4
+    date: '2026-07-07'
+    code: 662094
+    url: /works/662094/
   - title: Shiori no Nai Akumu
     author: unknown
     cover: /covers/662203.jpg

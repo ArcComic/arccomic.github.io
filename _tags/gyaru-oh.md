@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "gyaru-oh"
-work_count: 6
+work_count: 11
 works:
   - title: Netorare Ibe Kiba Shizuka | The Netorare of Kiba Shizuka
     author: terasu-mc
@@ -18,6 +18,20 @@ works:
     date: '2026-07-16'
     code: 434993
     url: /works/434993/
+  - title: Little Blue Bird
+    author: kidouchi-kon
+    cover: /covers/508534.jpg
+    rating: 4.9
+    date: '2026-05-01'
+    code: 508534
+    url: /works/508534/
+  - title: Beit Saki no Majime na Kouhai ga... | A Serious Part-Time Kouhai
+    author: kusayarou
+    cover: /covers/536423.jpg
+    rating: 4.5
+    date: '2026-05-07'
+    code: 536423
+    url: /works/536423/
   - title: + (SEIKO AYASE VARIOUS) +
     author: st-mya
     cover: /covers/555816.jpg
@@ -25,6 +39,27 @@ works:
     date: '2026-07-16'
     code: 555816
     url: /works/555816/
+  - title: Onna Tomodachi no Uwaki Kokuhaku 2 | My Friend Confessed to Cheating 2
+    author: dekamatsu
+    cover: /covers/647270.jpg
+    rating: 4.7
+    date: '2026-05-01'
+    code: 647270
+    url: /works/647270/
+  - title: Boku to Aitsu to Ano Ko to Kanojo. - Me, Him, the Girl and Her
+    author: kameyama-cola
+    cover: /covers/648093.jpg
+    rating: 4.7
+    date: '2026-05-05'
+    code: 648093
+    url: /works/648093/
+  - title: Kimi ga Haramu made Genkai Toppa Sex | Limit Breaking Sex until you're Pregnant
+    author: yoshio-ereki-toneridan
+    cover: /covers/651499.jpg
+    rating: 5.0
+    date: '2026-05-21'
+    code: 651499
+    url: /works/651499/
   - title: Azanaharu Kanojo no Shikiroku | Color Records of a Girlfriend in Entanglement
     author: allegro
     cover: /covers/669452.jpg

@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "the idolmaster"
-work_count: 7
+work_count: 8
 works:
+  - title: REMIND ME & Beautiful Days Without You
+    author: 3e
+    cover: /covers/652639.jpg
+    rating: 4.8
+    date: '2026-05-26'
+    code: 652639
+    url: /works/652639/
   - title: Kazano Hiori ni Warui Koto o Suru Hanashi (Zenpen) | The Story of Doing Bad
       Things to Kazeno Hikari
     author: dokuneko-noil

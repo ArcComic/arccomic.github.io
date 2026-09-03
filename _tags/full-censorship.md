@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "full censorship"
-work_count: 26
+work_count: 34
 works:
   - title: Life with Married Women Just Like a Manga 2 - Ch. 1-5
     author: hidemaru
@@ -10,6 +10,13 @@ works:
     date: '2026-07-08'
     code: 116138
     url: /works/116138/
+  - title: My Care Lady Ch. 1
+    author: sugi-g
+    cover: /covers/139537.jpg
+    rating: 4.7
+    date: '2026-04-27'
+    code: 139537
+    url: /works/139537/
   - title: HUNDRED GAME Ch. 1-3
     author: kuon-michiyoshi
     cover: /covers/142561.jpg
@@ -24,6 +31,13 @@ works:
     date: '2026-08-20'
     code: 332781
     url: /works/332781/
+  - title: Koi no Susumekata | How to Advance Your Love
+    author: danimaru
+    cover: /covers/425528.jpg
+    rating: 4.6
+    date: '2026-04-27'
+    code: 425528
+    url: /works/425528/
   - title: Tempt & Throb
     author: mushihara
     cover: /covers/468655.jpg
@@ -38,6 +52,22 @@ works:
     date: '2026-07-11'
     code: 499536
     url: /works/499536/
+  - title: Koi ni Naru made, | Until It Becomes Love
+    author: danimaru
+    cover: /covers/507681.jpg
+    rating: 4.8
+    date: '2026-04-27'
+    code: 507681
+    url: /works/507681/
+  - title: Netori Ai SEX - Chara Otoko no Hentai Massage Osananajimi no Nettori Aibu
+      1 | N.T.R. Sex Wars - Playboy's Depraved Massage VS. Childhood Friend's Sensual
+      Touch 1
+    author: kaduki
+    cover: /covers/510012.jpg
+    rating: 4.6
+    date: '2026-05-04'
+    code: 510012
+    url: /works/510012/
   - title: Koibito no Furi Shite Tara, Iki Goe ga…. Yukata Sugata no Kyonyuu Oneesan
       ni, Tamarazu Sounyuu 1 I Can’t Stop Myself From Penetrating My Big Boobed Older
       Female Cousin 1
@@ -63,6 +93,22 @@ works:
     date: '2026-08-25'
     code: 512473
     url: /works/512473/
+  - title: IKUu!! Zenkou Seito no Mae de Koukai Zecchou-saserareta JK no Matsuro 1 |
+      Cumming in Front of the Entire Student Body 1
+    author: ouma
+    cover: /covers/518608.jpg
+    rating: 4.6
+    date: '2026-05-04'
+    code: 518608
+    url: /works/518608/
+  - title: '"Ikaseru Furi suru dake" tte Itta no ni... Satsutaba o Kuwaenagara Maji
+      Ikigao o Sarasu JK 1 | But You Said You''d Only Pretend to Make Me Cum... 1'
+    author: ouma
+    cover: /covers/519713.jpg
+    rating: 4.6
+    date: '2026-05-04'
+    code: 519713
+    url: /works/519713/
   - title: '"Sex no Benkyou Shiyokka?" Kareshi ga Iru no ni Itoko kara Shojo wo Ubaware
       Zecchou Shidou 1-5 | Let''s Learn About Sex: Your Cousin Will Take Your Virginity
       and Teach You How to Come 1-5'
@@ -72,6 +118,14 @@ works:
     date: '2026-08-29'
     code: 534388
     url: /works/534388/
+  - title: '"Koitsu no SEX, Do-S Sugi...!" Shuuden Mae, Zetsurin Douki no Hageshime
+      Piston 1 | Intense Sex with My Peerless Colleague Before the Last Train 1'
+    author: ouma
+    cover: /covers/537760.jpg
+    rating: 4.0
+    date: '2026-05-04'
+    code: 537760
+    url: /works/537760/
   - title: '"Koko Ijirareru no Sukidatta yona?" Rinjin wa, Hitozuma no Moto SeFri 1-2
       | My Neighbor Was My Former Sex Friend 1-2'
     author: icelatte
@@ -94,6 +148,13 @@ works:
     date: '2026-08-18'
     code: 619648
     url: /works/619648/
+  - title: Sankaku comic vol. 3 Ayano
+    author: mko
+    cover: /covers/652836.jpg
+    rating: 4.1
+    date: '2026-05-27'
+    code: 652836
+    url: /works/652836/
   - title: Make Love Rank match!!③
     author: napo
     cover: /covers/659484.jpg

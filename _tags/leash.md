@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "leash"
-work_count: 1
+work_count: 5
 works:
   - title: Shut-less
     author: mr-hokke
@@ -10,4 +10,35 @@ works:
     date: '2026-07-11'
     code: 531966
     url: /works/531966/
+  - title: Natchan wa ne -My Girl is M!
+    author: mojarin
+    cover: /covers/576910.jpg
+    rating: 4.3
+    date: '2026-04-27'
+    code: 576910
+    url: /works/576910/
+  - title: Otaku ni Yasashii Gal wa Aitsu no Kanojo | A Gal Who's Kind to Otaku Is That
+      Guy's Girlfriend
+    author: yamamoto
+    cover: /covers/647809.jpg
+    rating: 4.9
+    date: '2026-05-04'
+    code: 647809
+    url: /works/647809/
+  - title: Imouto Haramasenai to Derarenai Shima 2 | You Must Breed Your Sister to Leave
+      This Island 2!
+    author: airandou
+    cover: /covers/648414.jpg
+    rating: 4.2
+    date: '2026-05-07'
+    code: 648414
+    url: /works/648414/
+  - title: 'Jirai Inu-kei Kanojo #Kimi to Tsunagaritai Jirai de Inukei de Juujun na
+      Kimi dake no Pet | Jirai-kei Puppy Girlfriend'
+    author: shimofuji-jun
+    cover: /covers/661367.jpg
+    rating: 4.8
+    date: '2026-07-05'
+    code: 661367
+    url: /works/661367/
 ---

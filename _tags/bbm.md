@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bbm"
-work_count: 15
+work_count: 30
 works:
   - title: Megane Loli Choukyou Jugyou!! ~Otonashii Megane Lolikko ni Muriyari Dekachin
       Sounyuu~ | The Loli In Glasses' Training Lesson!! ~Force Fucking a Timid Glasses
@@ -19,6 +19,30 @@ works:
     date: '2026-07-11'
     code: 501709
     url: /works/501709/
+  - title: Minpaku ~Ojou-sama-tachi wa Minpaku Keieisha no Wana ni Ochiru~ | Sleeping
+      in the Bed and Breakfast - Young ladies fall into the trap of a private lodging
+      manager
+    author: kinugasa-yuuichi
+    cover: /covers/543494.jpg
+    rating: 4.1
+    date: '2026-07-06'
+    code: 543494
+    url: /works/543494/
+  - title: Tawawa de Akarui Yakyuubu Manager ga Inshitsu na Kyoushi no Wana ni... Kanketsuhen
+    author: ohkura-kazuya
+    cover: /covers/566052.jpg
+    rating: 4.7
+    date: '2026-04-30'
+    code: 566052
+    url: /works/566052/
+  - title: Boku no Kaa-chan ga Hikikomori Neet Debu Aniki no Seishori Onaho ni Natteita
+      Hanashi | My Mother is My Fat Shut-in Older NEET Brother's Sex Relief Onahole
+    author: tarobaumu
+    cover: /covers/578147.jpg
+    rating: 4.3
+    date: '2026-05-05'
+    code: 578147
+    url: /works/578147/
   - title: Nagachichi Haha no Naedoko
     author: ginen
     cover: /covers/595108.jpg
@@ -26,6 +50,14 @@ works:
     date: '2026-08-25'
     code: 595108
     url: /works/595108/
+  - title: Onna Shachou to Koibito ni Naru Houhou | How To Become Lover's With A Female
+      CEO
+    author: fan
+    cover: /covers/600237.jpg
+    rating: 4.3
+    date: '2026-05-20'
+    code: 600237
+    url: /works/600237/
   - title: Tomodachi ga Tsuretekita Oba-san 1
     author: exit-up
     cover: /covers/615538.jpg
@@ -33,6 +65,13 @@ works:
     date: '2026-07-17'
     code: 615538
     url: /works/615538/
+  - title: Eroi Koto Igai de Toki o Tomete wa Dame desu yo 2
+    author: ohkura-kazuya
+    cover: /covers/615835.jpg
+    rating: 4.9
+    date: '2026-04-30'
+    code: 615835
+    url: /works/615835/
   - title: Imouto Oppai de Sukusuku Seikatsu
     author: asaomi-shimura
     cover: /covers/636802.jpg
@@ -40,6 +79,63 @@ works:
     date: '2026-07-13'
     code: 636802
     url: /works/636802/
+  - title: Natsu ga Owaru made Natsu no Owari Kanketsuhen
+    author: mon-petit
+    cover: /covers/646969.jpg
+    rating: 4.1
+    date: '2026-04-30'
+    code: 646969
+    url: /works/646969/
+  - title: Onna Tomodachi no Uwaki Kokuhaku 2 | My Friend Confessed to Cheating 2
+    author: dekamatsu
+    cover: /covers/647270.jpg
+    rating: 4.7
+    date: '2026-05-01'
+    code: 647270
+    url: /works/647270/
+  - title: Anal Toilet Training
+    author: goma-gorilla
+    cover: /covers/647315.jpg
+    rating: 4.1
+    date: '2026-05-01'
+    code: 647315
+    url: /works/647315/
+  - title: Haijoku Underground
+    author: dpc-deinoji
+    cover: /covers/649068.jpg
+    rating: 4.2
+    date: '2026-05-10'
+    code: 649068
+    url: /works/649068/
+  - title: Jill's Rehabilitation
+    author: sawao
+    cover: /covers/651296.jpg
+    rating: 4.8
+    date: '2026-05-20'
+    code: 651296
+    url: /works/651296/
+  - title: Tabidachi Mae no Dai Shiren
+    author: borisu
+    cover: /covers/651317.jpg
+    rating: 4.9
+    date: '2026-05-20'
+    code: 651317
+    url: /works/651317/
+  - title: A story about a JK popular actress that gets NTR'd by a photographer boss
+    author: suji-kaminari
+    cover: /covers/651381.jpg
+    rating: 4.6
+    date: '2026-05-20'
+    code: 651381
+    url: /works/651381/
+  - title: Muchi Muchi Tennen Joshidaisei no Dosukebe Jorei Taikenroku | The Chunky,
+      Defenseless, Airheaded University Girl Get's A Crash Course In Perverted Exorcisms!
+    author: inamimi
+    cover: /covers/652471.jpg
+    rating: 4.1
+    date: '2026-05-26'
+    code: 652471
+    url: /works/652471/
   - title: How the Gloomy Me Took Charge of my Own Life by Becoming a Hostess
     author: shikabanekamo
     cover: /covers/656419.jpg
@@ -61,6 +157,21 @@ works:
     date: '2026-07-09'
     code: 661349
     url: /works/661349/
+  - title: Shoujo Osotte Mita ~Ooame ga Warui n janai~
+    author: yoko-juusuke
+    cover: /covers/661894.jpg
+    rating: 5.0
+    date: '2026-07-07'
+    code: 661894
+    url: /works/661894/
+  - title: Seishidouin no Oshigoto 4 Kohen Rippana Benki ni Sodatta node Daimanzoku
+      de Shidou wo Oeta + C101 Omake
+    author: malcorond
+    cover: /covers/661951.jpg
+    rating: 4.5
+    date: '2026-07-07'
+    code: 661951
+    url: /works/661951/
   - title: Jinin ’Futsuu’ Dekachichi Inkya J◯ no Maso Mesu ga Nagga〜i Chinpo de Shuuryou
       Made♡
     author: amrita

@@ -1,8 +1,44 @@
 ---
 layout: tag
 tag_name: "tall girl"
-work_count: 3
+work_count: 8
 works:
+  - title: Koi no Susumekata | How to Advance Your Love
+    author: danimaru
+    cover: /covers/425528.jpg
+    rating: 4.6
+    date: '2026-04-27'
+    code: 425528
+    url: /works/425528/
+  - title: Saya-nee-chan ga Yondemasu | Saya-nee is Calling Me
+    author: tokiwa-midori
+    cover: /covers/647382.jpg
+    rating: 4.7
+    date: '2026-05-03'
+    code: 647382
+    url: /works/647382/
+  - title: Boku no Onee-chan wa Sekai de Ichiban Tsuyokute kakkoiin da.
+    author: riboshika
+    cover: /covers/648551.jpg
+    rating: 4.2
+    date: '2026-05-07'
+    code: 648551
+    url: /works/648551/
+  - title: Kisei Goblin | Parasitic Goblin
+    author: poriuretan
+    cover: /covers/652632.jpg
+    rating: 4.5
+    date: '2026-05-26'
+    code: 652632
+    url: /works/652632/
+  - title: Love wa Gal kara Hajimaru Unmei | Love is a Destiny That Begins with a Gal
+      ch.1-5
+    author: nusmusbim
+    cover: /covers/661909.jpg
+    rating: 4.1
+    date: '2026-07-07'
+    code: 661909
+    url: /works/661909/
   - title: Cheeky and Charming
     author: ono-kenuji
     cover: /covers/663598.jpg

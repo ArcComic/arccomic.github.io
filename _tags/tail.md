@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "tail"
-work_count: 9
+work_count: 11
 works:
   - title: CHOCO x LOVE
     author: highlow
@@ -10,6 +10,14 @@ works:
     date: '2026-07-09'
     code: 317673
     url: /works/317673/
+  - title: Imouto Haramasenai to Derarenai Shima 2 | You Must Breed Your Sister to Leave
+      This Island 2!
+    author: airandou
+    cover: /covers/648414.jpg
+    rating: 4.2
+    date: '2026-05-07'
+    code: 648414
+    url: /works/648414/
   - title: Shirayuki Mishiro & Enomiya Milk Saimin Sakunyuu Play Hon Matome
     author: rurimaru
     cover: /covers/648800.jpg
@@ -17,6 +25,13 @@ works:
     date: '2026-07-13'
     code: 648800
     url: /works/648800/
+  - title: Kyonyiu kanojo ni hitasura shibori toraremakuru hanashi | Squeeze Until Empty
+    author: fuguta-ke
+    cover: /covers/651343.jpg
+    rating: 4.3
+    date: '2026-05-20'
+    code: 651343
+    url: /works/651343/
   - title: Himitsu | Secrets
     author: unknown
     cover: /covers/664299.jpg

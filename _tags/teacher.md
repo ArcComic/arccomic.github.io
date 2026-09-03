@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "teacher"
-work_count: 27
+work_count: 41
 works:
+  - title: Itomusubi Vol. 2
+    author: bekotarou
+    cover: /covers/311755.jpg
+    rating: 5.0
+    date: '2026-05-10'
+    code: 311755
+    url: /works/311755/
   - title: Majimeni Yarimasu (Seitokaichou) Ch. 1-3
     author: ikumo-taisuke
     cover: /covers/346416.jpg
@@ -19,6 +26,13 @@ works:
     date: '2026-07-13'
     code: 358168
     url: /works/358168/
+  - title: Sukina Hito, Sukina Koto
+    author: ebi-fry-teishoku
+    cover: /covers/452482.jpg
+    rating: 4.8
+    date: '2026-04-27'
+    code: 452482
+    url: /works/452482/
   - title: Musuko no Sensei wa Kyonyuu Bijo ♡ | My Son's Teacher is a Well-Endowed Woman
       ♡
     author: taki
@@ -66,6 +80,13 @@ works:
     date: '2026-08-20'
     code: 557452
     url: /works/557452/
+  - title: Tawawa de Akarui Yakyuubu Manager ga Inshitsu na Kyoushi no Wana ni... Kanketsuhen
+    author: ohkura-kazuya
+    cover: /covers/566052.jpg
+    rating: 4.7
+    date: '2026-04-30'
+    code: 566052
+    url: /works/566052/
   - title: Ore ga Hoshikatta Mono wa Kin Medal Yori Namami Onaho Datta no Kamoshirenai｜Maybe
       what I Wanted was a Flesh and Blood Masturbator Rather than a Gold Medal
     author: carburetor
@@ -81,6 +102,21 @@ works:
     date: '2026-08-25'
     code: 592307
     url: /works/592307/
+  - title: Eroi Koto Igai de Toki o Tomete wa Dame desu yo 2
+    author: ohkura-kazuya
+    cover: /covers/615835.jpg
+    rating: 4.9
+    date: '2026-04-30'
+    code: 615835
+    url: /works/615835/
+  - title: Ima Kara Irerukedo, "Sakippo Dake" Dakara Sex Janai Yo.  | Just The Tip Inside
+      is Not Sex Vol. 1-4
+    author: ouma
+    cover: /covers/621185.jpg
+    rating: 4.7
+    date: '2026-05-04'
+    code: 621185
+    url: /works/621185/
   - title: Onsen Haitte tara Joseito-tachi ga Osotte Kita | My Students Jumped Me When
       I Got in the Hot Spring
     author: hamo
@@ -103,6 +139,42 @@ works:
     date: '2026-08-24'
     code: 642585
     url: /works/642585/
+  - title: The story of how a busty, older teacher girlfriend gets seduced and cheated
+      on by the principal with a huge penis.
+    author: munioni
+    cover: /covers/644296.jpg
+    rating: 4.4
+    date: '2026-07-06'
+    code: 644296
+    url: /works/644296/
+  - title: Jimikei Bakunyuu Hirama-chan | The Busty, Unassuming Girl Hirama-chan
+    author: kametaro
+    cover: /covers/646942.jpg
+    rating: 4.9
+    date: '2026-04-30'
+    code: 646942
+    url: /works/646942/
+  - title: Natsu ga Owaru made Natsu no Owari Kanketsuhen
+    author: mon-petit
+    cover: /covers/646969.jpg
+    rating: 4.1
+    date: '2026-04-30'
+    code: 646969
+    url: /works/646969/
+  - title: Good Teachers
+    author: nodo
+    cover: /covers/648310.jpg
+    rating: 4.9
+    date: '2026-05-07'
+    code: 648310
+    url: /works/648310/
+  - title: Oshiego no Gal o Kau
+    author: mitsudoue
+    cover: /covers/651197.jpg
+    rating: 4.0
+    date: '2026-05-20'
+    code: 651197
+    url: /works/651197/
   - title: A story about a shy childhood friend who can’t say no and ends up being put
       in charge of handling sexual needs.
     author: sakurayu-hal
@@ -111,6 +183,37 @@ works:
     date: '2026-07-16'
     code: 655498
     url: /works/655498/
+  - title: Shinyuu Tatakitsubushi Kyousou Shiiku Seikatsu | A Life in Captivity The
+      Competition to Break My Best Friend
+    author: group
+    cover: /covers/661586.jpg
+    rating: 4.5
+    date: '2026-07-06'
+    code: 661586
+    url: /works/661586/
+  - title: Love wa Gal kara Hajimaru Unmei | Love is a Destiny That Begins with a Gal
+      ch.1-5
+    author: nusmusbim
+    cover: /covers/661909.jpg
+    rating: 4.1
+    date: '2026-07-07'
+    code: 661909
+    url: /works/661909/
+  - title: Mikami Sensei Ekohiiki Kyoushi no Hisanna Matsuro
+    author: tamagou
+    cover: /covers/661932.jpg
+    rating: 4.5
+    date: '2026-07-07'
+    code: 661932
+    url: /works/661932/
+  - title: Seishidouin no Oshigoto 4 Kohen Rippana Benki ni Sodatta node Daimanzoku
+      de Shidou wo Oeta + C101 Omake
+    author: malcorond
+    cover: /covers/661951.jpg
+    rating: 4.5
+    date: '2026-07-07'
+    code: 661951
+    url: /works/661951/
   - title: Jinin ’Futsuu’ Dekachichi Inkya J◯ no Maso Mesu ga Nagga〜i Chinpo de Shuuryou
       Made♡
     author: amrita

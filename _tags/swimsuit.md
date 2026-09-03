@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "swimsuit"
-work_count: 11
+work_count: 23
 works:
   - title: CHOCO x LOVE
     author: highlow
@@ -10,6 +10,13 @@ works:
     date: '2026-07-09'
     code: 317673
     url: /works/317673/
+  - title: Sukina Hito, Sukina Koto
+    author: ebi-fry-teishoku
+    cover: /covers/452482.jpg
+    rating: 4.8
+    date: '2026-04-27'
+    code: 452482
+    url: /works/452482/
   - title: Pashiri no Shita Teku, Yabaitte... ~ Ebi Sori Iki Suru Namaiki Gyaru | Bullied
       Boy's Tongue Revenge Vol.1-4
     author: takayamanon
@@ -18,6 +25,65 @@ works:
     date: '2026-08-29'
     code: 589969
     url: /works/589969/
+  - title: The story of how a busty, older teacher girlfriend gets seduced and cheated
+      on by the principal with a huge penis.
+    author: munioni
+    cover: /covers/644296.jpg
+    rating: 4.4
+    date: '2026-07-06'
+    code: 644296
+    url: /works/644296/
+  - title: Jimikei Bakunyuu Hirama-chan | The Busty, Unassuming Girl Hirama-chan
+    author: kametaro
+    cover: /covers/646942.jpg
+    rating: 4.9
+    date: '2026-04-30'
+    code: 646942
+    url: /works/646942/
+  - title: Saya-nee-chan ga Yondemasu | Saya-nee is Calling Me
+    author: tokiwa-midori
+    cover: /covers/647382.jpg
+    rating: 4.7
+    date: '2026-05-03'
+    code: 647382
+    url: /works/647382/
+  - title: Otaku ni Yasashii Gal wa Aitsu no Kanojo | A Gal Who's Kind to Otaku Is That
+      Guy's Girlfriend
+    author: yamamoto
+    cover: /covers/647809.jpg
+    rating: 4.9
+    date: '2026-05-04'
+    code: 647809
+    url: /works/647809/
+  - title: Good Teachers
+    author: nodo
+    cover: /covers/648310.jpg
+    rating: 4.9
+    date: '2026-05-07'
+    code: 648310
+    url: /works/648310/
+  - title: Netorase Club 2 Anal Name no Tensai to Fellatio no Tensai | Netorase Club
+      2 The Genius of Rimjob and The Genius of Blowjob
+    author: oosawara-sadao
+    cover: /covers/649114.jpg
+    rating: 4.9
+    date: '2026-05-10'
+    code: 649114
+    url: /works/649114/
+  - title: Ally-san wa Doko Demo Ikitai!! 3
+    author: inukami-inoji
+    cover: /covers/650926.jpg
+    rating: 4.9
+    date: '2026-05-20'
+    code: 650926
+    url: /works/650926/
+  - title: Iki Jigoku Refle ni Tokeru Otto Tanshinfunin Hitozuma Inmou Ari
+    author: kotoyoshi-yumisuke
+    cover: /covers/651442.jpg
+    rating: 4.2
+    date: '2026-05-21'
+    code: 651442
+    url: /works/651442/
   - title: Imouto ga Ore no Kanojo!? 2-haku 3-ka no Ecchi na Kankei | My Sister is My
       Girlfriend!? Sexual Relationship for Two Nights and Three Days
     author: katagiri-kaneharu
@@ -26,6 +92,28 @@ works:
     date: '2026-08-29'
     code: 660399
     url: /works/660399/
+  - title: Himote no Boku ni Konna Sasoi Kotowareru Hazu ga Nai 2
+    author: untue
+    cover: /covers/661818.jpg
+    rating: 4.1
+    date: '2026-07-07'
+    code: 661818
+    url: /works/661818/
+  - title: Love wa Gal kara Hajimaru Unmei | Love is a Destiny That Begins with a Gal
+      ch.1-5
+    author: nusmusbim
+    cover: /covers/661909.jpg
+    rating: 4.1
+    date: '2026-07-07'
+    code: 661909
+    url: /works/661909/
+  - title: Tsuntsun
+    author: onizuka-naoshi
+    cover: /covers/661935.jpg
+    rating: 4.4
+    date: '2026-07-07'
+    code: 661935
+    url: /works/661935/
   - title: Buck-Chichi! | Gambling! Volume 2
     author: lime
     cover: /covers/662877.jpg

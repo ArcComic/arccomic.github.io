@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "double penetration"
-work_count: 10
+work_count: 14
 works:
   - title: Bitch Mama no Kekkon Riyuu
     author: aoyama-akira
@@ -38,6 +38,35 @@ works:
     date: '2026-08-24'
     code: 642586
     url: /works/642586/
+  - title: Onna Tomodachi no Uwaki Kokuhaku 2 | My Friend Confessed to Cheating 2
+    author: dekamatsu
+    cover: /covers/647270.jpg
+    rating: 4.7
+    date: '2026-05-01'
+    code: 647270
+    url: /works/647270/
+  - title: Good Teachers
+    author: nodo
+    cover: /covers/648310.jpg
+    rating: 4.9
+    date: '2026-05-07'
+    code: 648310
+    url: /works/648310/
+  - title: Haijoku Underground
+    author: dpc-deinoji
+    cover: /covers/649068.jpg
+    rating: 4.2
+    date: '2026-05-10'
+    code: 649068
+    url: /works/649068/
+  - title: Love wa Gal kara Hajimaru Unmei | Love is a Destiny That Begins with a Gal
+      ch.1-5
+    author: nusmusbim
+    cover: /covers/661909.jpg
+    rating: 4.1
+    date: '2026-07-07'
+    code: 661909
+    url: /works/661909/
   - title: Shoujo Baishun Shima | Girl Prostitution Island
     author: nada-shio
     cover: /covers/662647.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "kimono"
-work_count: 9
+work_count: 16
 works:
   - title: CHOCO x LOVE
     author: highlow
@@ -27,6 +27,14 @@ works:
     date: '2026-08-29'
     code: 544324
     url: /works/544324/
+  - title: Houkai Kazoku -Hahaoya ga Yakuza to no Sex ni Hamatta Hanashi- | Broken Family
+      - A Story About a Mother Who Became Addicted to Sex With a Yakuza
+    author: watsondou
+    cover: /covers/557052.jpg
+    rating: 4.4
+    date: '2026-05-07'
+    code: 557052
+    url: /works/557052/
   - title: Pashiri no Shita Teku, Yabaitte... ~ Ebi Sori Iki Suru Namaiki Gyaru | Bullied
       Boy's Tongue Revenge Vol.1-4
     author: takayamanon
@@ -35,6 +43,45 @@ works:
     date: '2026-08-29'
     code: 589969
     url: /works/589969/
+  - title: Nigate na Aitsu ni Benkyou o Oshieru Koto ni Natte... | I Ended Up Teaching
+      That Guy I Hate...
+    author: furaimai
+    cover: /covers/616533.jpg
+    rating: 4.6
+    date: '2026-04-27'
+    code: 616533
+    url: /works/616533/
+  - title: If I Have a Chance, I Want to Warp My Boyfriend's Fetishes! ~Lovey-dovey
+      Trip to the Hotsprings~
+    author: meeko
+    cover: /covers/648042.jpg
+    rating: 4.5
+    date: '2026-05-05'
+    code: 648042
+    url: /works/648042/
+  - title: Noraneko Shoujo to no Kurashikata Ch. 33-49 | How to Live with a Stray Cat
+      Girl Ch. 33-49
+    author: shiina
+    cover: /covers/648550.jpg
+    rating: 4.8
+    date: '2026-05-07'
+    code: 648550
+    url: /works/648550/
+  - title: Ally-san wa Doko Demo Ikitai!! 3
+    author: inukami-inoji
+    cover: /covers/650926.jpg
+    rating: 4.9
+    date: '2026-05-20'
+    code: 650926
+    url: /works/650926/
+  - title: Kyonyuu no Tomodachi to Tsukiau made no Hanashi | Maybe We'll Start Dating
+      Someday
+    author: fuguta-ke
+    cover: /covers/652244.jpg
+    rating: 5.0
+    date: '2026-05-26'
+    code: 652244
+    url: /works/652244/
   - title: Imouto ga Ore no Kanojo!? 2-haku 3-ka no Ecchi na Kankei | My Sister is My
       Girlfriend!? Sexual Relationship for Two Nights and Three Days
     author: katagiri-kaneharu
@@ -50,6 +97,13 @@ works:
     date: '2026-07-09'
     code: 661349
     url: /works/661349/
+  - title: Cinderella Fit
+    author: shirosuzu
+    cover: /covers/661596.jpg
+    rating: 4.1
+    date: '2026-07-06'
+    code: 661596
+    url: /works/661596/
   - title: Shoujo Baishun Shima | Girl Prostitution Island
     author: nada-shio
     cover: /covers/662647.jpg

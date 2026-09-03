@@ -1,8 +1,23 @@
 ---
 layout: tag
 tag_name: "shibari"
-work_count: 1
+work_count: 3
 works:
+  - title: Reibaishi Mikoto 2 Kairaku ni Zanpai su... Hentai Jijii to no Seikou no Gishiki
+      de Ikikuruwasareru Shoujo no Karada
+    author: sawacream
+    cover: /covers/649125.jpg
+    rating: 4.6
+    date: '2026-05-10'
+    code: 649125
+    url: /works/649125/
+  - title: Kinshin Choukyou Ane Dorei
+    author: yamamoto-yoshifumi
+    cover: /covers/655423.jpg
+    rating: 4.8
+    date: '2026-07-07'
+    code: 655423
+    url: /works/655423/
   - title: 'Seifukusha ~Yami ni Ochiru Hitozuma-tachi~ | Sexploiter: Housewives Falling
       Into Darkness'
     author: hoshino-ryuichi

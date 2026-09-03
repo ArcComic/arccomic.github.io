@@ -1,8 +1,22 @@
 ---
 layout: tag
 tag_name: "focus anal"
-work_count: 3
+work_count: 5
 works:
+  - title: Anal Toilet Training
+    author: goma-gorilla
+    cover: /covers/647315.jpg
+    rating: 4.1
+    date: '2026-05-01'
+    code: 647315
+    url: /works/647315/
+  - title: Half Gimai to no Amai Nichijou to Noumitsu Sex 3
+    author: sanbalkin
+    cover: /covers/648460.jpg
+    rating: 4.9
+    date: '2026-05-07'
+    code: 648460
+    url: /works/648460/
   - title: Ketsusenryaku | The Ass Strategy
     author: ariga-tou
     cover: /covers/662370.jpg

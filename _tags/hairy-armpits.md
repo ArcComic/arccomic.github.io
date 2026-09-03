@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "hairy armpits"
-work_count: 4
+work_count: 5
 works:
   - title: Iiwa Watashi no Karada Suki ni Shite Ch.1-2
     author: shunjou-shuusuke
@@ -17,6 +17,14 @@ works:
     date: '2026-08-25'
     code: 592307
     url: /works/592307/
+  - title: Shinyuu Tatakitsubushi Kyousou Shiiku Seikatsu | A Life in Captivity The
+      Competition to Break My Best Friend
+    author: group
+    cover: /covers/661586.jpg
+    rating: 4.5
+    date: '2026-07-06'
+    code: 661586
+    url: /works/661586/
   - title: Osananajimi Kanojo, Netorare Choukyou
     author: naporitan
     cover: /covers/664798.jpg

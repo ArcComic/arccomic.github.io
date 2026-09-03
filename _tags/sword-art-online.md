@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sword art online"
-work_count: 3
+work_count: 4
 works:
   - title: Asuna-san ga Agil ni Netorareru Ohanashi
     author: fujimiya-siryu
@@ -17,6 +17,13 @@ works:
     date: '2026-07-17'
     code: 477784
     url: /works/477784/
+  - title: Asuna family 1-42
+    author: zhi-yitiaomiao
+    cover: /covers/588660.jpg
+    rating: 4.1
+    date: '2026-05-03'
+    code: 588660
+    url: /works/588660/
   - title: Miyoku no Shiro -An Incarnating Ravish- | 魅欲之城
     author: tokupyon
     cover: /covers/664770.jpg

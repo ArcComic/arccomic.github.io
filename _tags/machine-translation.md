@@ -1,8 +1,30 @@
 ---
 layout: tag
 tag_name: "machine translation"
-work_count: 4
+work_count: 7
 works:
+  - title: Iki Jigoku Refle ni Tokeru Otto Tanshinfunin Hitozuma Inmou Ari
+    author: kotoyoshi-yumisuke
+    cover: /covers/651442.jpg
+    rating: 4.2
+    date: '2026-05-21'
+    code: 651442
+    url: /works/651442/
+  - title: Cool-kei Hoken Iin wa Ijou ni Yasashii | The Cool-Type Health Committee Girl
+      Is Abnormally Kind
+    author: shuumatsu
+    cover: /covers/652790.jpg
+    rating: 4.2
+    date: '2026-05-27'
+    code: 652790
+    url: /works/652790/
+  - title: Oretoku Shuugakuryokou ~Otoko wa Jyosou shita Ore dake!! Ch 1-29
+    author: okumori-boy
+    cover: /covers/661664.jpg
+    rating: 4.1
+    date: '2026-07-06'
+    code: 661664
+    url: /works/661664/
   - title: Seiyoku Tsuyosugi GalKano Mama
     author: naporitan
     cover: /covers/662525.jpg

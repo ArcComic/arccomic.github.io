@@ -1,8 +1,67 @@
 ---
 layout: tag
 tag_name: "very long hair"
-work_count: 12
+work_count: 20
 works:
+  - title: Koi no Susumekata | How to Advance Your Love
+    author: danimaru
+    cover: /covers/425528.jpg
+    rating: 4.6
+    date: '2026-04-27'
+    code: 425528
+    url: /works/425528/
+  - title: Oshioki no Jikan - Punishment time
+    author: syoukaki
+    cover: /covers/540125.jpg
+    rating: 4.1
+    date: '2026-05-10'
+    code: 540125
+    url: /works/540125/
+  - title: Girlfriend Revenge
+    author: meowwithme
+    cover: /covers/540880.jpg
+    rating: 4.5
+    date: '2026-05-03'
+    code: 540880
+    url: /works/540880/
+  - title: Astrantia
+    author: kyougoku-shin
+    cover: /covers/598156.jpg
+    rating: 4.3
+    date: '2026-05-10'
+    code: 598156
+    url: /works/598156/
+  - title: Mama no Saikon Aite wa Papakatsu no Papa | Mom's new husband is my sugar
+      daddy
+    author: shiro-marimo
+    cover: /covers/648384.jpg
+    rating: 4.5
+    date: '2026-05-07'
+    code: 648384
+    url: /works/648384/
+  - title: Reibaishi Mikoto 2 Kairaku ni Zanpai su... Hentai Jijii to no Seikou no Gishiki
+      de Ikikuruwasareru Shoujo no Karada
+    author: sawacream
+    cover: /covers/649125.jpg
+    rating: 4.6
+    date: '2026-05-10'
+    code: 649125
+    url: /works/649125/
+  - title: Oshiego no Gal o Kau
+    author: mitsudoue
+    cover: /covers/651197.jpg
+    rating: 4.0
+    date: '2026-05-20'
+    code: 651197
+    url: /works/651197/
+  - title: 'Namaiki Gal o Succubus ni Shite Oshioki Shitatta Ken 4  | Turning a Bratty
+      Gal into a Succubus for Punishment #4'
+    author: takurowo
+    cover: /covers/651303.jpg
+    rating: 4.5
+    date: '2026-05-20'
+    code: 651303
+    url: /works/651303/
   - title: Fallen 2
     author: unknown
     cover: /covers/662873.jpg

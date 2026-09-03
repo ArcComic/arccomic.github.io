@@ -1,8 +1,16 @@
 ---
 layout: tag
 tag_name: "reverse netorare"
-work_count: 3
+work_count: 4
 works:
+  - title: Onee-chan ga Ecchi na Koto bakka Suru kara... | My older sister only does
+      obscene things...
+    author: danimaru
+    cover: /covers/337171.jpg
+    rating: 4.5
+    date: '2026-04-27'
+    code: 337171
+    url: /works/337171/
   - title: Seiyoku Tsuyosugi GalKano Mama
     author: naporitan
     cover: /covers/662525.jpg

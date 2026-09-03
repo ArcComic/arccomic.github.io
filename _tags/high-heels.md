@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "high heels"
-work_count: 3
+work_count: 4
 works:
   - title: Shut-less
     author: mr-hokke
@@ -10,6 +10,13 @@ works:
     date: '2026-07-11'
     code: 531966
     url: /works/531966/
+  - title: Oshioki no Jikan - Punishment time
+    author: syoukaki
+    cover: /covers/540125.jpg
+    rating: 4.1
+    date: '2026-05-10'
+    code: 540125
+    url: /works/540125/
   - title: Buck-Chichi! | Gambling! Volume 2
     author: lime
     cover: /covers/662877.jpg

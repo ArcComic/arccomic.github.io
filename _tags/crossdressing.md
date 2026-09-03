@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "crossdressing"
-work_count: 9
+work_count: 11
 works:
   - title: Hitozuma Volley-bu no Asedaku SEX ~Shower Abinagara Micchaku Shichau? 1-2
       | Married Women's Volleyball Club Sweaty Sex - We're Being Glued Together While
@@ -35,6 +35,13 @@ works:
     date: '2026-08-22'
     code: 627126
     url: /works/627126/
+  - title: Cool-kei Dansou Onna ni Kanojo Netorareta kara, Wakarasete Yatta 2
+    author: kurukuru
+    cover: /covers/651338.jpg
+    rating: 4.1
+    date: '2026-05-20'
+    code: 651338
+    url: /works/651338/
   - title: Josou Gyakunan Debusen Ketsuhame Tokoroten
     author: bonske
     cover: /covers/656753.jpg
@@ -42,6 +49,13 @@ works:
     date: '2026-07-09'
     code: 656753
     url: /works/656753/
+  - title: Oretoku Shuugakuryokou ~Otoko wa Jyosou shita Ore dake!! Ch 1-29
+    author: okumori-boy
+    cover: /covers/661664.jpg
+    rating: 4.1
+    date: '2026-07-06'
+    code: 661664
+    url: /works/661664/
   - title: Ketsusenryaku | The Ass Strategy
     author: ariga-tou
     cover: /covers/662370.jpg

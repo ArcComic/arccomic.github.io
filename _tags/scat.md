@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "scat"
-work_count: 4
+work_count: 5
 works:
   - title: Rena
     author: shinjima-saki
@@ -10,6 +10,14 @@ works:
     date: '2026-07-09'
     code: 537476
     url: /works/537476/
+  - title: Onna Shachou to Koibito ni Naru Houhou | How To Become Lover's With A Female
+      CEO
+    author: fan
+    cover: /covers/600237.jpg
+    rating: 4.3
+    date: '2026-05-20'
+    code: 600237
+    url: /works/600237/
   - title: Tada Sex Shitakatta dake nano ni SNS de Deatta Bimajo ga Scatolo Mania de,
       Boku wa... 1
     author: bonske

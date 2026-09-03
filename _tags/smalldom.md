@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "smalldom"
-work_count: 10
+work_count: 14
 works:
   - title: Uwa, Mesugaki Tsuyoi! | Crap, This Mesugaki's Too Powerful!
     author: poncocchan
@@ -32,6 +32,13 @@ works:
     date: '2026-07-17'
     code: 648073
     url: /works/648073/
+  - title: Murasaki no Syoumei | Purple Illumination
+    author: '3104'
+    cover: /covers/648461.jpg
+    rating: 4.1
+    date: '2026-05-07'
+    code: 648461
+    url: /works/648461/
   - title: Musume no Kawari ni | Instead of My Daughter
     author: nanao-yukiji
     cover: /covers/651309.jpg
@@ -39,6 +46,20 @@ works:
     date: '2026-07-11'
     code: 651309
     url: /works/651309/
+  - title: Atashi no Hou ga Tsuyoi Hazudattanoni!
+    author: group
+    cover: /covers/652605.jpg
+    rating: 4.0
+    date: '2026-05-26'
+    code: 652605
+    url: /works/652605/
+  - title: Kisei Goblin | Parasitic Goblin
+    author: poriuretan
+    cover: /covers/652632.jpg
+    rating: 4.5
+    date: '2026-05-26'
+    code: 652632
+    url: /works/652632/
   - title: Karada ga Binkan Sugiru Watashi wa Itoko ni Itazura sarete mo Teikoudekinai!
     author: romomata
     cover: /covers/655421.jpg
@@ -46,6 +67,13 @@ works:
     date: '2026-08-21'
     code: 655421
     url: /works/655421/
+  - title: Murasaki no Shoumei ~Kuroi Muchuu~ | Purple Illumination ~Dark Trance~
+    author: '3104'
+    cover: /covers/660867.jpg
+    rating: 4.1
+    date: '2026-07-06'
+    code: 660867
+    url: /works/660867/
   - title: Y-kun
     author: kireina-mochi
     cover: /covers/663130.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bikini"
-work_count: 18
+work_count: 31
 works:
   - title: CHOCO x LOVE
     author: highlow
@@ -19,6 +19,13 @@ works:
     date: '2026-07-13'
     code: 358168
     url: /works/358168/
+  - title: Sukina Hito, Sukina Koto
+    author: ebi-fry-teishoku
+    cover: /covers/452482.jpg
+    rating: 4.8
+    date: '2026-04-27'
+    code: 452482
+    url: /works/452482/
   - title: Bocchi de Shinda Ore ga Bishoujo Nurse ni Natta Hanashi | The Story of How
       I Died Alone and Became a Sexy Nurse
     author: testame
@@ -57,6 +64,72 @@ works:
     date: '2026-08-24'
     code: 642588
     url: /works/642588/
+  - title: Jimikei Bakunyuu Hirama-chan | The Busty, Unassuming Girl Hirama-chan
+    author: kametaro
+    cover: /covers/646942.jpg
+    rating: 4.9
+    date: '2026-04-30'
+    code: 646942
+    url: /works/646942/
+  - title: Imouto Haramasenai to Derarenai Shima 2 | You Must Breed Your Sister to Leave
+      This Island 2!
+    author: airandou
+    cover: /covers/648414.jpg
+    rating: 4.2
+    date: '2026-05-07'
+    code: 648414
+    url: /works/648414/
+  - title: Netorase Club 2 Anal Name no Tensai to Fellatio no Tensai | Netorase Club
+      2 The Genius of Rimjob and The Genius of Blowjob
+    author: oosawara-sadao
+    cover: /covers/649114.jpg
+    rating: 4.9
+    date: '2026-05-10'
+    code: 649114
+    url: /works/649114/
+  - title: Ally-san wa Doko Demo Ikitai!! 3
+    author: inukami-inoji
+    cover: /covers/650926.jpg
+    rating: 4.9
+    date: '2026-05-20'
+    code: 650926
+    url: /works/650926/
+  - title: Cool-kei Dansou Onna ni Kanojo Netorareta kara, Wakarasete Yatta 2
+    author: kurukuru
+    cover: /covers/651338.jpg
+    rating: 4.1
+    date: '2026-05-20'
+    code: 651338
+    url: /works/651338/
+  - title: Iki Jigoku Refle ni Tokeru Otto Tanshinfunin Hitozuma Inmou Ari
+    author: kotoyoshi-yumisuke
+    cover: /covers/651442.jpg
+    rating: 4.2
+    date: '2026-05-21'
+    code: 651442
+    url: /works/651442/
+  - title: Kyonyuu Kanojo ni Hitasura Shibori Toraremakuru Hanashi | Squeeze Until Empty
+    author: fuguta-ke
+    cover: /covers/652218.jpg
+    rating: 4.8
+    date: '2026-05-26'
+    code: 652218
+    url: /works/652218/
+  - title: Kyonyuu no Tomodachi to Tsukiau made no Hanashi | Maybe We'll Start Dating
+      Someday
+    author: fuguta-ke
+    cover: /covers/652244.jpg
+    rating: 5.0
+    date: '2026-05-26'
+    code: 652244
+    url: /works/652244/
+  - title: Astra-san to Ikinuki | Yao Astra and a Little R&R
+    author: mame-denkyuu
+    cover: /covers/652502.jpg
+    rating: 4.2
+    date: '2026-05-26'
+    code: 652502
+    url: /works/652502/
   - title: Imouto ga Ore no Kanojo!? 2-haku 3-ka no Ecchi na Kankei | My Sister is My
       Girlfriend!? Sexual Relationship for Two Nights and Three Days
     author: katagiri-kaneharu
@@ -65,6 +138,28 @@ works:
     date: '2026-08-29'
     code: 660399
     url: /works/660399/
+  - title: Shameimaru Aya no sennyuu! Shokushu esute
+    author: unknown
+    cover: /covers/661890.jpg
+    rating: 4.3
+    date: '2026-07-07'
+    code: 661890
+    url: /works/661890/
+  - title: Love wa Gal kara Hajimaru Unmei | Love is a Destiny That Begins with a Gal
+      ch.1-5
+    author: nusmusbim
+    cover: /covers/661909.jpg
+    rating: 4.1
+    date: '2026-07-07'
+    code: 661909
+    url: /works/661909/
+  - title: Tsuntsun
+    author: onizuka-naoshi
+    cover: /covers/661935.jpg
+    rating: 4.4
+    date: '2026-07-07'
+    code: 661935
+    url: /works/661935/
   - title: Jinin ’Futsuu’ Dekachichi Inkya J◯ no Maso Mesu ga Nagga〜i Chinpo de Shuuryou
       Made♡
     author: amrita

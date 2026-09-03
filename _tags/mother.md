@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "mother"
-work_count: 53
+work_count: 65
 works:
   - title: Saikin, Musuko no Yousu ga Hen nan desu | Lately my son has been acting Strangly
     author: matsumoto-jikyuuryoku
@@ -84,6 +84,13 @@ works:
     date: '2026-07-17'
     code: 518161
     url: /works/518161/
+  - title: Mother's Scent 1-4
+    author: midnight
+    cover: /covers/532417.jpg
+    rating: 4.2
+    date: '2026-05-26'
+    code: 532417
+    url: /works/532417/
   - title: Youka-go Tsuma no Haha o Daku | Eight Days With My Wife's Mother
     author: jagaimo
     cover: /covers/534808.jpg
@@ -100,6 +107,22 @@ works:
     date: '2026-08-25'
     code: 537490
     url: /works/537490/
+  - title: Kaa-san to Shitai Koto ~ Zetsurin Musuko to no Seikatsu Kaisou Hen | What
+      I want to do with My Mother ~ Sex Life with My Son Who Has...
+    author: saimon-k
+    cover: /covers/543358.jpg
+    rating: 4.6
+    date: '2026-05-05'
+    code: 543358
+    url: /works/543358/
+  - title: DeliHeal Kaa-chan 3 ~Having Sex with My Favorite Kaa-chan and Having a Half-Cohabitation
+      Life~
+    author: tarobaumu
+    cover: /covers/550823.jpg
+    rating: 4.3
+    date: '2026-05-05'
+    code: 550823
+    url: /works/550823/
   - title: Watashi sae Gaman Sureba...
     author: hatakeyama-tohya
     cover: /covers/553061.jpg
@@ -107,6 +130,20 @@ works:
     date: '2026-08-24'
     code: 553061
     url: /works/553061/
+  - title: Nakayoku no Yu e Youkoso Ch. 2 & 3
+    author: enomoto-heights
+    cover: /covers/555849.jpg
+    rating: 4.5
+    date: '2026-04-30'
+    code: 555849
+    url: /works/555849/
+  - title: Boshi Soukan Senmon-shi "Suteki na Okaa-san" Vol. 3
+    author: kaiko
+    cover: /covers/558039.jpg
+    rating: 4.1
+    date: '2026-05-05'
+    code: 558039
+    url: /works/558039/
   - title: Iiwa Watashi no Karada Suki ni Shite Ch.1-2
     author: shunjou-shuusuke
     cover: /covers/561787.jpg
@@ -122,6 +159,14 @@ works:
     date: '2026-08-25'
     code: 563890
     url: /works/563890/
+  - title: Boku no Kaa-chan ga Hikikomori Neet Debu Aniki no Seishori Onaho ni Natteita
+      Hanashi | My Mother is My Fat Shut-in Older NEET Brother's Sex Relief Onahole
+    author: tarobaumu
+    cover: /covers/578147.jpg
+    rating: 4.3
+    date: '2026-05-05'
+    code: 578147
+    url: /works/578147/
   - title: Kyoushi to Mama to Koibito no Kao
     author: mifune-seijirou
     cover: /covers/592307.jpg
@@ -173,6 +218,14 @@ works:
     date: '2026-08-25'
     code: 643933
     url: /works/643933/
+  - title: Okaa-san ni wa Kore Gurai shika Dekinai kara... 2 | For Mom the Only Option
+      Left is... 2
+    author: muchipan
+    cover: /covers/646904.jpg
+    rating: 4.2
+    date: '2026-04-30'
+    code: 646904
+    url: /works/646904/
   - title: My Brother Stole My Mother
     author: momoziri-hustle-dou
     cover: /covers/648073.jpg
@@ -180,6 +233,22 @@ works:
     date: '2026-07-17'
     code: 648073
     url: /works/648073/
+  - title: Kaa-san no Nude Model o Shite Itara, Kaa-san no Panchira Mite Bokki Shite
+      Shimai, Soshite...... | I was acting as a nude model for my mom, but then... I
+      caught a glimpse of her panties, got a boner, and well...
+    author: polbockle
+    cover: /covers/652625.jpg
+    rating: 4.9
+    date: '2026-05-26'
+    code: 652625
+    url: /works/652625/
+  - title: Gibo o , Densha de ... | My Stepmother on The Train...
+    author: gonza
+    cover: /covers/652801.jpg
+    rating: 4.4
+    date: '2026-05-27'
+    code: 652801
+    url: /works/652801/
   - title: Haha no Himitsu o Shitte
     author: unknown
     cover: /covers/654114.jpg
@@ -187,6 +256,13 @@ works:
     date: '2026-08-21'
     code: 654114
     url: /works/654114/
+  - title: Okaa-san ni Chuu Shinasai
+    author: kuruto
+    cover: /covers/654253.jpg
+    rating: 4.1
+    date: '2026-07-07'
+    code: 654253
+    url: /works/654253/
   - title: Provoking Men Part 1
     author: pororivista
     cover: /covers/654373.jpg
@@ -201,6 +277,13 @@ works:
     date: '2026-08-24'
     code: 654689
     url: /works/654689/
+  - title: Boshi Soukan no Hajimari
+    author: kuruto
+    cover: /covers/655202.jpg
+    rating: 4.6
+    date: '2026-07-07'
+    code: 655202
+    url: /works/655202/
   - title: boku no haha ga saikon si nai riyuu（ wake）
     author: daidai-shikibu
     cover: /covers/655205.jpg
@@ -243,6 +326,13 @@ works:
     date: '2026-08-25'
     code: 656146
     url: /works/656146/
+  - title: Haha to Sake to Musuko 1-2 | MOTHER, ALCOHOL, AND SON 1-2
+    author: mankai-beesuke
+    cover: /covers/656206.jpg
+    rating: 4.5
+    date: '2026-07-07'
+    code: 656206
+    url: /works/656206/
   - title: Kaa-san o Oshitaoshita Hi
     author: daidai-shikibu
     cover: /covers/656615.jpg

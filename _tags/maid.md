@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "maid"
-work_count: 3
+work_count: 5
 works:
   - title: Obedience Part 1
     author: laliberte
@@ -10,6 +10,20 @@ works:
     date: '2026-07-11'
     code: 501709
     url: /works/501709/
+  - title: Mesu no Ie II ~Tsuma wa Midare Ubareru~
+    author: ame-arare
+    cover: /covers/591112.jpg
+    rating: 4.3
+    date: '2026-05-01'
+    code: 591112
+    url: /works/591112/
+  - title: Kimi ga Haramu made Genkai Toppa Sex | Limit Breaking Sex until you're Pregnant
+    author: yoshio-ereki-toneridan
+    cover: /covers/651499.jpg
+    rating: 5.0
+    date: '2026-05-21'
+    code: 651499
+    url: /works/651499/
   - title: Tenshi Hirotta kara Haramaseru ~Ojii-san Senyou Botebara Onaho ni Naru made
       no Kiroku~ | I Met an Angel, and then I Knocked Her Up ~A Record of Becoming Oji-san’s
       Personal Preggo Belly Onahole~

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "anal"
-work_count: 34
+work_count: 56
 works:
   - title: Yuri no o saifu ni shite agemasu ne, Senpai | I'll turn you into Yuri's wallet,
       Senpai
@@ -20,6 +20,13 @@ works:
     date: '2026-07-13'
     code: 358168
     url: /works/358168/
+  - title: Suki Araba Kareshi no Seiheki o Yugametai! ~Kimi no Aegi ga Mada Tarinai~
+    author: meeko
+    cover: /covers/376189.jpg
+    rating: 4.8
+    date: '2026-05-03'
+    code: 376189
+    url: /works/376189/
   - title: Yumemiru Shoujo - The Girl Who Dreams
     author: fuuga
     cover: /covers/50476.jpg
@@ -70,6 +77,28 @@ works:
     date: '2026-08-31'
     code: 556767
     url: /works/556767/
+  - title: Tawawa de Akarui Yakyuubu Manager ga Inshitsu na Kyoushi no Wana ni... Kanketsuhen
+    author: ohkura-kazuya
+    cover: /covers/566052.jpg
+    rating: 4.7
+    date: '2026-04-30'
+    code: 566052
+    url: /works/566052/
+  - title: Mesu no Ie II ~Tsuma wa Midare Ubareru~
+    author: ame-arare
+    cover: /covers/591112.jpg
+    rating: 4.3
+    date: '2026-05-01'
+    code: 591112
+    url: /works/591112/
+  - title: Onna Shachou to Koibito ni Naru Houhou | How To Become Lover's With A Female
+      CEO
+    author: fan
+    cover: /covers/600237.jpg
+    rating: 4.3
+    date: '2026-05-20'
+    code: 600237
+    url: /works/600237/
   - title: Otoko no Ko otodokeshimasu! ~Itsumo kuru Haitatsuin-san ga masaka no Otoko
       no Ko dattakedo mayowazu hameta~
     author: mitsujirou
@@ -78,6 +107,21 @@ works:
     date: '2026-07-16'
     code: 605410
     url: /works/605410/
+  - title: Eroi Koto Igai de Toki o Tomete wa Dame desu yo 2
+    author: ohkura-kazuya
+    cover: /covers/615835.jpg
+    rating: 4.9
+    date: '2026-04-30'
+    code: 615835
+    url: /works/615835/
+  - title: Igumox - Muramata-san no Himitsu & Aijou - Muramata-san's Secret & Affection
+      COMPLETE
+    author: igumox
+    cover: /covers/624573.jpg
+    rating: 4.2
+    date: '2026-05-26'
+    code: 624573
+    url: /works/624573/
   - title: Naisho no An-chan
     author: seto-ryouko
     cover: /covers/627126.jpg
@@ -85,6 +129,14 @@ works:
     date: '2026-08-22'
     code: 627126
     url: /works/627126/
+  - title: The Story of How My Brain Was Destroyed After Dating Someone Who Would Grant
+      Any Request
+    author: jakky
+    cover: /covers/627182.jpg
+    rating: 4.9
+    date: '2026-05-26'
+    code: 627182
+    url: /works/627182/
   - title: Tada Sex Shitakatta dake nano ni SNS de Deatta Bimajo ga Scatolo Mania de,
       Boku wa... 1
     author: bonske
@@ -100,6 +152,95 @@ works:
     date: '2026-08-24'
     code: 642586
     url: /works/642586/
+  - title: Natsu ga Owaru made Natsu no Owari Kanketsuhen
+    author: mon-petit
+    cover: /covers/646969.jpg
+    rating: 4.1
+    date: '2026-04-30'
+    code: 646969
+    url: /works/646969/
+  - title: Anal Toilet Training
+    author: goma-gorilla
+    cover: /covers/647315.jpg
+    rating: 4.1
+    date: '2026-05-01'
+    code: 647315
+    url: /works/647315/
+  - title: Netorareta Kanojo ga Joou-sama ni natte Kaettekita ~Ruined de Kintama o Kara
+      ni sarete Zenritsusen o Ijirarete Nandomo Nandomo Mesuikishite Choukyou sareru
+      Ohanashi~
+    author: sankaku-noel
+    cover: /covers/647608.jpg
+    rating: 4.6
+    date: '2026-05-03'
+    code: 647608
+    url: /works/647608/
+  - title: Otaku ni Yasashii Gal wa Aitsu no Kanojo | A Gal Who's Kind to Otaku Is That
+      Guy's Girlfriend
+    author: yamamoto
+    cover: /covers/647809.jpg
+    rating: 4.9
+    date: '2026-05-04'
+    code: 647809
+    url: /works/647809/
+  - title: He's being held by her father
+    author: unknown
+    cover: /covers/647938.jpg
+    rating: 4.3
+    date: '2026-05-05'
+    code: 647938
+    url: /works/647938/
+  - title: Good Teachers
+    author: nodo
+    cover: /covers/648310.jpg
+    rating: 4.9
+    date: '2026-05-07'
+    code: 648310
+    url: /works/648310/
+  - title: Imouto Haramasenai to Derarenai Shima 2 | You Must Breed Your Sister to Leave
+      This Island 2!
+    author: airandou
+    cover: /covers/648414.jpg
+    rating: 4.2
+    date: '2026-05-07'
+    code: 648414
+    url: /works/648414/
+  - title: Half Gimai to no Amai Nichijou to Noumitsu Sex 3
+    author: sanbalkin
+    cover: /covers/648460.jpg
+    rating: 4.9
+    date: '2026-05-07'
+    code: 648460
+    url: /works/648460/
+  - title: Netorase Club 2 Anal Name no Tensai to Fellatio no Tensai | Netorase Club
+      2 The Genius of Rimjob and The Genius of Blowjob
+    author: oosawara-sadao
+    cover: /covers/649114.jpg
+    rating: 4.9
+    date: '2026-05-10'
+    code: 649114
+    url: /works/649114/
+  - title: Oshiego no Gal o Kau
+    author: mitsudoue
+    cover: /covers/651197.jpg
+    rating: 4.0
+    date: '2026-05-20'
+    code: 651197
+    url: /works/651197/
+  - title: Kyonyiu kanojo ni hitasura shibori toraremakuru hanashi | Squeeze Until Empty
+    author: fuguta-ke
+    cover: /covers/651343.jpg
+    rating: 4.3
+    date: '2026-05-20'
+    code: 651343
+    url: /works/651343/
+  - title: Iki Jigoku Refle ni Tokeru Otto Tanshinfunin Hitozuma Inmou Ari
+    author: kotoyoshi-yumisuke
+    cover: /covers/651442.jpg
+    rating: 4.2
+    date: '2026-05-21'
+    code: 651442
+    url: /works/651442/
   - title: Josou Gyakunan Debusen Ketsuhame Tokoroten
     author: bonske
     cover: /covers/656753.jpg
@@ -107,6 +248,29 @@ works:
     date: '2026-07-09'
     code: 656753
     url: /works/656753/
+  - title: Shinyuu Tatakitsubushi Kyousou Shiiku Seikatsu | A Life in Captivity The
+      Competition to Break My Best Friend
+    author: group
+    cover: /covers/661586.jpg
+    rating: 4.5
+    date: '2026-07-06'
+    code: 661586
+    url: /works/661586/
+  - title: Otoko mo Onna mo Eroi Me ni Au ~Futari Matomete Slime Ecchi~
+    author: unknown
+    cover: /covers/661906.jpg
+    rating: 4.9
+    date: '2026-07-07'
+    code: 661906
+    url: /works/661906/
+  - title: Love wa Gal kara Hajimaru Unmei | Love is a Destiny That Begins with a Gal
+      ch.1-5
+    author: nusmusbim
+    cover: /covers/661909.jpg
+    rating: 4.1
+    date: '2026-07-07'
+    code: 661909
+    url: /works/661909/
   - title: Jinin ’Futsuu’ Dekachichi Inkya J◯ no Maso Mesu ga Nagga〜i Chinpo de Shuuryou
       Made♡
     author: amrita

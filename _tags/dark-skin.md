@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "dark skin"
-work_count: 24
+work_count: 45
 works:
   - title: Netorare Ibe Kiba Shizuka | The Netorare of Kiba Shizuka
     author: terasu-mc
@@ -53,6 +53,23 @@ works:
     date: '2026-07-11'
     code: 501709
     url: /works/501709/
+  - title: Netori Ai SEX - Chara Otoko no Hentai Massage Osananajimi no Nettori Aibu
+      1 | N.T.R. Sex Wars - Playboy's Depraved Massage VS. Childhood Friend's Sensual
+      Touch 1
+    author: kaduki
+    cover: /covers/510012.jpg
+    rating: 4.6
+    date: '2026-05-04'
+    code: 510012
+    url: /works/510012/
+  - title: '"Ikaseru Furi suru dake" tte Itta no ni... Satsutaba o Kuwaenagara Maji
+      Ikigao o Sarasu JK 1 | But You Said You''d Only Pretend to Make Me Cum... 1'
+    author: ouma
+    cover: /covers/519713.jpg
+    rating: 4.6
+    date: '2026-05-04'
+    code: 519713
+    url: /works/519713/
   - title: Gal to no Asobikata | How to Have Fun With Gyarus!
     author: buta
     cover: /covers/531967.jpg
@@ -74,6 +91,36 @@ works:
     date: '2026-07-16'
     code: 555816
     url: /works/555816/
+  - title: Houkai Kazoku -Hahaoya ga Yakuza to no Sex ni Hamatta Hanashi- | Broken Family
+      - A Story About a Mother Who Became Addicted to Sex With a Yakuza
+    author: watsondou
+    cover: /covers/557052.jpg
+    rating: 4.4
+    date: '2026-05-07'
+    code: 557052
+    url: /works/557052/
+  - title: Mesu no Ie II ~Tsuma wa Midare Ubareru~
+    author: ame-arare
+    cover: /covers/591112.jpg
+    rating: 4.3
+    date: '2026-05-01'
+    code: 591112
+    url: /works/591112/
+  - title: Houkai Kazoku 2 -Hahaoya ga Yakuza to no Sex ni Hamatta Hanashi- | Broken
+      Family 2 - The story of a mother who got hooked on sex with the Yakuza
+    author: watsondou
+    cover: /covers/596598.jpg
+    rating: 5.0
+    date: '2026-05-07'
+    code: 596598
+    url: /works/596598/
+  - title: Boku no Toshiue no Tomodachi | My Older Friend
+    author: buta
+    cover: /covers/631036.jpg
+    rating: 4.4
+    date: '2026-05-26'
+    code: 631036
+    url: /works/631036/
   - title: Kanojo ga Kami o Someta Wake ~Kataomoi no Seiso Kurokami Ojou-sama ga Boku
       no Shiranai Tokoro de Otoko no Aji o Oboeru Hanashi~ | The Real Reason She Changed
       Her Hair
@@ -83,6 +130,13 @@ works:
     date: '2026-08-29'
     code: 634450
     url: /works/634450/
+  - title: Breeding Mother 1-4
+    author: saimon-k
+    cover: /covers/638218.jpg
+    rating: 4.4
+    date: '2026-05-05'
+    code: 638218
+    url: /works/638218/
   - title: BUTA - 『You did a great job』
     author: buta
     cover: /covers/639772.jpg
@@ -111,6 +165,110 @@ works:
     date: '2026-08-24'
     code: 642588
     url: /works/642588/
+  - title: Mitsuha ~Netorare~ 10 (Your Name After Story) True Ending
+    author: syukurin
+    cover: /covers/643592.jpg
+    rating: 4.0
+    date: '2026-04-27'
+    code: 643592
+    url: /works/643592/
+  - title: Netorareta Kanojo ga Joou-sama ni natte Kaettekita ~Ruined de Kintama o Kara
+      ni sarete Zenritsusen o Ijirarete Nandomo Nandomo Mesuikishite Choukyou sareru
+      Ohanashi~
+    author: sankaku-noel
+    cover: /covers/647608.jpg
+    rating: 4.6
+    date: '2026-05-03'
+    code: 647608
+    url: /works/647608/
+  - title: Good Teachers
+    author: nodo
+    cover: /covers/648310.jpg
+    rating: 4.9
+    date: '2026-05-07'
+    code: 648310
+    url: /works/648310/
+  - title: The Story Of Being Used For Sexual Release By My Annoying Childhood Friend
+      And Cousin's Pussy
+    author: karube-guri
+    cover: /covers/648522.jpg
+    rating: 4.2
+    date: '2026-05-07'
+    code: 648522
+    url: /works/648522/
+  - title: Boku no Onee-chan wa Sekai de Ichiban Tsuyokute kakkoiin da.
+    author: riboshika
+    cover: /covers/648551.jpg
+    rating: 4.2
+    date: '2026-05-07'
+    code: 648551
+    url: /works/648551/
+  - title: Haijoku Underground
+    author: dpc-deinoji
+    cover: /covers/649068.jpg
+    rating: 4.2
+    date: '2026-05-10'
+    code: 649068
+    url: /works/649068/
+  - title: Ally-san wa Doko Demo Ikitai!! 3
+    author: inukami-inoji
+    cover: /covers/650926.jpg
+    rating: 4.9
+    date: '2026-05-20'
+    code: 650926
+    url: /works/650926/
+  - title: Tabidachi Mae no Dai Shiren
+    author: borisu
+    cover: /covers/651317.jpg
+    rating: 4.9
+    date: '2026-05-20'
+    code: 651317
+    url: /works/651317/
+  - title: Iki Jigoku Refle ni Tokeru Otto Tanshinfunin Hitozuma Inmou Ari
+    author: kotoyoshi-yumisuke
+    cover: /covers/651442.jpg
+    rating: 4.2
+    date: '2026-05-21'
+    code: 651442
+    url: /works/651442/
+  - title: Kimi ga Haramu made Genkai Toppa Sex | Limit Breaking Sex until you're Pregnant
+    author: yoshio-ereki-toneridan
+    cover: /covers/651499.jpg
+    rating: 5.0
+    date: '2026-05-21'
+    code: 651499
+    url: /works/651499/
+  - title: REMIND ME & Beautiful Days Without You
+    author: 3e
+    cover: /covers/652639.jpg
+    rating: 4.8
+    date: '2026-05-26'
+    code: 652639
+    url: /works/652639/
+  - title: Meshibe no Sakihokoru Shima de - On the island where pistils are in full
+      bloom
+    author: saigado-ishoku-dougen
+    cover: /covers/661591.jpg
+    rating: 4.4
+    date: '2026-07-06'
+    code: 661591
+    url: /works/661591/
+  - title: Love wa Gal kara Hajimaru Unmei | Love is a Destiny That Begins with a Gal
+      ch.1-5
+    author: nusmusbim
+    cover: /covers/661909.jpg
+    rating: 4.1
+    date: '2026-07-07'
+    code: 661909
+    url: /works/661909/
+  - title: Kasshoku Oneesan no Fudeoroshi Ver. 6 | Brown Lady Takes His First Time Ver.
+      6
+    author: ahugan-sugita
+    cover: /covers/662114.jpg
+    rating: 4.7
+    date: '2026-07-07'
+    code: 662114
+    url: /works/662114/
   - title: Kyonyuu na Gibo, Nyuuyoku Chuu
     author: ma-kurou-madou
     cover: /covers/662334.jpg

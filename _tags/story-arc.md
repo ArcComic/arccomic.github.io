@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "story arc"
-work_count: 29
+work_count: 65
 works:
   - title: Life with Married Women Just Like a Manga 2 - Ch. 1-5
     author: hidemaru
@@ -31,6 +31,30 @@ works:
     date: '2026-07-10'
     code: 398305
     url: /works/398305/
+  - title: NTR Anniversary + ) [Syukurin] Mitsuha ~Netorare~ (Kimi no Na wa.) [English]
+      [Colorized] by Mikaku
+    author: arakure
+    cover: /covers/414206.jpg
+    rating: 4.2
+    date: '2026-04-27'
+    code: 414206
+    url: /works/414206/
+  - title: 'Misunderstanding Love Hotel Netorare [Arakure] & Kimi no na wa: After Story
+      - Mitsuha ~Netorare~'
+    author: arakure
+    cover: /covers/416883.jpg
+    rating: 4.9
+    date: '2026-04-27'
+    code: 416883
+    url: /works/416883/
+  - title: Onozomi deshitara Saimin wo ~Maki-san Himitsu no Renai Therapy~ | If you
+      wish, hypnosis ~Maki-san's secret love therapy~
+    author: meeko
+    cover: /covers/498051.jpg
+    rating: 4.4
+    date: '2026-05-03'
+    code: 498051
+    url: /works/498051/
   - title: Yumemiru Shoujo - The Girl Who Dreams
     author: fuuga
     cover: /covers/50476.jpg
@@ -38,6 +62,13 @@ works:
     date: '2026-07-08'
     code: 50476
     url: /works/50476/
+  - title: Little Blue Bird
+    author: kidouchi-kon
+    cover: /covers/508534.jpg
+    rating: 4.9
+    date: '2026-05-01'
+    code: 508534
+    url: /works/508534/
   - title: This Woman’s Body Tells Lies
     author: ichihara-kazuma
     cover: /covers/527621.jpg
@@ -45,6 +76,14 @@ works:
     date: '2026-07-08'
     code: 527621
     url: /works/527621/
+  - title: Netorareru.~ Tsuma ga Ochi Yuku Hen'ai Kairaku no Hate ni...1-5 | NETORARERU,
+      A Wife's Descent Into Sinful Pleasures 1-5
+    author: yuuki-ryo
+    cover: /covers/529365.jpg
+    rating: 4.9
+    date: '2026-05-01'
+    code: 529365
+    url: /works/529365/
   - title: '"Sex no Benkyou Shiyokka?" Kareshi ga Iru no ni Itoko kara Shojo wo Ubaware
       Zecchou Shidou 1-5 | Let''s Learn About Sex: Your Cousin Will Take Your Virginity
       and Teach You How to Come 1-5'
@@ -54,6 +93,14 @@ works:
     date: '2026-08-29'
     code: 534388
     url: /works/534388/
+  - title: Taido mo Karada mo Zenbu deka I Segawa-san no Gachi koi Taisho ni Narimashita
+      | I’ve Become The Target of His Affection!
+    author: the-waidan
+    cover: /covers/534823.jpg
+    rating: 4.7
+    date: '2026-05-03'
+    code: 534823
+    url: /works/534823/
   - title: Ane no Tomodachi to SeFri ni Natta | My Big Sister's Friends And I Became
       Sex Friends
     author: rinrikoko
@@ -62,6 +109,23 @@ works:
     date: '2026-07-11'
     code: 538553
     url: /works/538553/
+  - title: Minpaku ~Ojou-sama-tachi wa Minpaku Keieisha no Wana ni Ochiru~ | Sleeping
+      in the Bed and Breakfast - Young ladies fall into the trap of a private lodging
+      manager
+    author: kinugasa-yuuichi
+    cover: /covers/543494.jpg
+    rating: 4.1
+    date: '2026-07-06'
+    code: 543494
+    url: /works/543494/
+  - title: Houkai Kazoku -Hahaoya ga Yakuza to no Sex ni Hamatta Hanashi- | Broken Family
+      - A Story About a Mother Who Became Addicted to Sex With a Yakuza
+    author: watsondou
+    cover: /covers/557052.jpg
+    rating: 4.4
+    date: '2026-05-07'
+    code: 557052
+    url: /works/557052/
   - title: Iiwa Watashi no Karada Suki ni Shite Ch.1-2
     author: shunjou-shuusuke
     cover: /covers/561787.jpg
@@ -69,6 +133,13 @@ works:
     date: '2026-07-16'
     code: 561787
     url: /works/561787/
+  - title: Asuna family 1-42
+    author: zhi-yitiaomiao
+    cover: /covers/588660.jpg
+    rating: 4.1
+    date: '2026-05-03'
+    code: 588660
+    url: /works/588660/
   - title: Pashiri no Shita Teku, Yabaitte... ~ Ebi Sori Iki Suru Namaiki Gyaru | Bullied
       Boy's Tongue Revenge Vol.1-4
     author: takayamanon
@@ -77,6 +148,22 @@ works:
     date: '2026-08-29'
     code: 589969
     url: /works/589969/
+  - title: Houkai Kazoku 2 -Hahaoya ga Yakuza to no Sex ni Hamatta Hanashi- | Broken
+      Family 2 - The story of a mother who got hooked on sex with the Yakuza
+    author: watsondou
+    cover: /covers/596598.jpg
+    rating: 5.0
+    date: '2026-05-07'
+    code: 596598
+    url: /works/596598/
+  - title: '"1 Funkan Dake Rete mo īyo … " Shea Hausu no Himitsu Rūru | The Share House''s
+      Secret Rule Vol. 1-3'
+    author: ouma
+    cover: /covers/608911.jpg
+    rating: 4.6
+    date: '2026-05-04'
+    code: 608911
+    url: /works/608911/
   - title: Metamorphosis
     author: shindol
     cover: /covers/616358.jpg
@@ -92,6 +179,156 @@ works:
     date: '2026-08-29'
     code: 618087
     url: /works/618087/
+  - title: Ima Kara Irerukedo, "Sakippo Dake" Dakara Sex Janai Yo.  | Just The Tip Inside
+      is Not Sex Vol. 1-4
+    author: ouma
+    cover: /covers/621185.jpg
+    rating: 4.7
+    date: '2026-05-04'
+    code: 621185
+    url: /works/621185/
+  - title: Igumox - Muramata-san no Himitsu & Aijou - Muramata-san's Secret & Affection
+      COMPLETE
+    author: igumox
+    cover: /covers/624573.jpg
+    rating: 4.2
+    date: '2026-05-26'
+    code: 624573
+    url: /works/624573/
+  - title: Sumata dake tte Itta no ni… Nurutto Sounyuusarechatta Yuutousei no Omocha
+      | You Said It'd Just Be Grinding... But You Ended up Slipping It In. Now I'm Just
+      the Top Student's Toy 3.
+    author: tsukuyomi
+    cover: /covers/642748.jpg
+    rating: 4.4
+    date: '2026-07-06'
+    code: 642748
+    url: /works/642748/
+  - title: The story of how a busty, older teacher girlfriend gets seduced and cheated
+      on by the principal with a huge penis.
+    author: munioni
+    cover: /covers/644296.jpg
+    rating: 4.4
+    date: '2026-07-06'
+    code: 644296
+    url: /works/644296/
+  - title: Delusion story book
+    author: madarame-rin
+    cover: /covers/644810.jpg
+    rating: 4.2
+    date: '2026-05-03'
+    code: 644810
+    url: /works/644810/
+  - title: Sex Between Gloomy Types is the Hottest, Ain't It?
+    author: doji-ro
+    cover: /covers/646757.jpg
+    rating: 4.5
+    date: '2026-05-01'
+    code: 646757
+    url: /works/646757/
+  - title: Onna Tomodachi no Uwaki Kokuhaku 2 | My Friend Confessed to Cheating 2
+    author: dekamatsu
+    cover: /covers/647270.jpg
+    rating: 4.7
+    date: '2026-05-01'
+    code: 647270
+    url: /works/647270/
+  - title: Anal Toilet Training
+    author: goma-gorilla
+    cover: /covers/647315.jpg
+    rating: 4.1
+    date: '2026-05-01'
+    code: 647315
+    url: /works/647315/
+  - title: Riho NTR ~Ordered By My Husband to Get Fucked By His Colleague~
+    author: yamamoto-tomomitsu
+    cover: /covers/647620.jpg
+    rating: 4.4
+    date: '2026-05-03'
+    code: 647620
+    url: /works/647620/
+  - title: If I Have a Chance, I Want to Warp My Boyfriend's Fetishes! ~Lovey-dovey
+      Trip to the Hotsprings~
+    author: meeko
+    cover: /covers/648042.jpg
+    rating: 4.5
+    date: '2026-05-05'
+    code: 648042
+    url: /works/648042/
+  - title: Boku to Aitsu to Ano Ko to Kanojo. - Me, Him, the Girl and Her
+    author: kameyama-cola
+    cover: /covers/648093.jpg
+    rating: 4.7
+    date: '2026-05-05'
+    code: 648093
+    url: /works/648093/
+  - title: Mama no Saikon Aite wa Papakatsu no Papa | Mom's new husband is my sugar
+      daddy
+    author: shiro-marimo
+    cover: /covers/648384.jpg
+    rating: 4.5
+    date: '2026-05-07'
+    code: 648384
+    url: /works/648384/
+  - title: Imouto Haramasenai to Derarenai Shima 2 | You Must Breed Your Sister to Leave
+      This Island 2!
+    author: airandou
+    cover: /covers/648414.jpg
+    rating: 4.2
+    date: '2026-05-07'
+    code: 648414
+    url: /works/648414/
+  - title: Half Gimai to no Amai Nichijou to Noumitsu Sex 3
+    author: sanbalkin
+    cover: /covers/648460.jpg
+    rating: 4.9
+    date: '2026-05-07'
+    code: 648460
+    url: /works/648460/
+  - title: Noraneko Shoujo to no Kurashikata Ch. 33-49 | How to Live with a Stray Cat
+      Girl Ch. 33-49
+    author: shiina
+    cover: /covers/648550.jpg
+    rating: 4.8
+    date: '2026-05-07'
+    code: 648550
+    url: /works/648550/
+  - title: The Obsessive Desires That My Silent Boyfriend's Body Reveals
+    author: the-waidan
+    cover: /covers/649033.jpg
+    rating: 4.8
+    date: '2026-05-10'
+    code: 649033
+    url: /works/649033/
+  - title: Ally-san wa Doko Demo Ikitai!! 3
+    author: inukami-inoji
+    cover: /covers/650926.jpg
+    rating: 4.9
+    date: '2026-05-20'
+    code: 650926
+    url: /works/650926/
+  - title: M Ko
+    author: takaku-tubby-shirono-mahiro
+    cover: /covers/651489.jpg
+    rating: 4.4
+    date: '2026-05-21'
+    code: 651489
+    url: /works/651489/
+  - title: Kyonyuu no Tomodachi to Tsukiau made no Hanashi | Maybe We'll Start Dating
+      Someday
+    author: fuguta-ke
+    cover: /covers/652244.jpg
+    rating: 5.0
+    date: '2026-05-26'
+    code: 652244
+    url: /works/652244/
+  - title: Watashi wa Tsuma de Haha de, Tada no Mesu 3
+    author: kakyuu-bushi
+    cover: /covers/652606.jpg
+    rating: 4.1
+    date: '2026-05-26'
+    code: 652606
+    url: /works/652606/
   - title: Tonari no Ayane-san Soushuuhen | My Neighbor Ayane Anthology
     author: herio
     cover: /covers/656319.jpg
@@ -121,6 +358,44 @@ works:
     date: '2026-08-29'
     code: 660399
     url: /works/660399/
+  - title: Ane to Otouto wa 30-Nichi go ni Sex Suru. | The Big Sister and Her Little
+      Brother Will Have Sex in 30 Days
+    author: shamidou-maichimonji
+    cover: /covers/661139.jpg
+    rating: 4.3
+    date: '2026-07-05'
+    code: 661139
+    url: /works/661139/
+  - title: Shinyuu Tatakitsubushi Kyousou Shiiku Seikatsu | A Life in Captivity The
+      Competition to Break My Best Friend
+    author: group
+    cover: /covers/661586.jpg
+    rating: 4.5
+    date: '2026-07-06'
+    code: 661586
+    url: /works/661586/
+  - title: Meshibe no Nomikomi yuku Hate ni Meshibe no Sakihokoru Shima de 2
+    author: saigado-ishoku-dougen
+    cover: /covers/661590.jpg
+    rating: 4.3
+    date: '2026-07-06'
+    code: 661590
+    url: /works/661590/
+  - title: Meshibe no Sakihokoru Shima de - On the island where pistils are in full
+      bloom
+    author: saigado-ishoku-dougen
+    cover: /covers/661591.jpg
+    rating: 4.4
+    date: '2026-07-06'
+    code: 661591
+    url: /works/661591/
+  - title: Oretoku Shuugakuryokou ~Otoko wa Jyosou shita Ore dake!! Ch 1-29
+    author: okumori-boy
+    cover: /covers/661664.jpg
+    rating: 4.1
+    date: '2026-07-06'
+    code: 661664
+    url: /works/661664/
   - title: Boshi Jouji ~Daisuki na Okaa-san to Konya Majiwaru~ - MOTHER AND SON LOVE
       AFFAIR | A Mother's Love ~Tonight I Become One With The Mom I Love~ Part 2
     author: shiono-kou

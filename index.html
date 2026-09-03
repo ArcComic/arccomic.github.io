@@ -7,7 +7,7 @@
 # The empty front matter block below is still required so Jekyll processes
 # the Liquid tags (site.google_verification, site.works, etc.) in this file.
 ---
-<!-- arc-comic-index-version: 7 -->
+<!-- arc-comic-index-version: 8 -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -143,6 +143,11 @@
         }
         .work-card .info .meta {
             font-size: 11px; color: var(--text-muted); margin-top: 3px;
+        }
+        .grid-ad-card {
+            background: var(--bg-card); border-radius: 12px;
+            border: 1px dashed var(--border); overflow: hidden;
+            width: 100%; padding-top: 140%; position: relative;
         }
         .no-results { text-align: center; padding: 60px 20px; color: var(--text-muted); }
         .pagination {
@@ -337,7 +342,7 @@
             // impression), inserted at a random position each time the
             // page renders so it doesn't always land in the same spot.
             if (!isFirstPage && cards.length > 1) {
-                const adCard = `<div class="work-card" data-mndazid="46474a49-ec2d-4f56-b270-26751ac9202a" style="min-height:100%;"></div>`;
+                const adCard = `<div class="grid-ad-card" data-mndazid="46474a49-ec2d-4f56-b270-26751ac9202a"></div>`;
                 const pos = 1 + Math.floor(Math.random() * cards.length);
                 cards.splice(pos, 0, adCard);
             }

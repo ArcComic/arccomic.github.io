@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "twintails"
-work_count: 34
+work_count: 49
 works:
   - title: Megane Loli Choukyou Jugyou!! ~Otonashii Megane Lolikko ni Muriyari Dekachin
       Sounyuu~ | The Loli In Glasses' Training Lesson!! ~Force Fucking a Timid Glasses
@@ -12,6 +12,13 @@ works:
     date: '2026-07-13'
     code: 358168
     url: /works/358168/
+  - title: Watashi no Karada, Okashi Shimasu. Bunny Girl Edition
+    author: nectar
+    cover: /covers/441339.jpg
+    rating: 4.5
+    date: '2026-05-10'
+    code: 441339
+    url: /works/441339/
   - title: Neteru Onii-chan no Are o Kariru Hanashi
     author: tiger
     cover: /covers/476399.jpg
@@ -27,6 +34,13 @@ works:
     date: '2026-07-13'
     code: 514183
     url: /works/514183/
+  - title: Beit Saki no Majime na Kouhai ga... | A Serious Part-Time Kouhai
+    author: kusayarou
+    cover: /covers/536423.jpg
+    rating: 4.5
+    date: '2026-05-07'
+    code: 536423
+    url: /works/536423/
   - title: Imouto wa Mesu Orc 7
     author: muneshiro
     cover: /covers/547393.jpg
@@ -49,6 +63,13 @@ works:
     date: '2026-08-31'
     code: 556767
     url: /works/556767/
+  - title: Mesu no Ie II ~Tsuma wa Midare Ubareru~
+    author: ame-arare
+    cover: /covers/591112.jpg
+    rating: 4.3
+    date: '2026-05-01'
+    code: 591112
+    url: /works/591112/
   - title: Hokenshitsu no Futon no Naka de Satori Sedai JK to Naisho H!
     author: niji-teru
     cover: /covers/606725.jpg
@@ -78,6 +99,64 @@ works:
     date: '2026-08-20'
     code: 639463
     url: /works/639463/
+  - title: Sex Between Gloomy Types is the Hottest, Ain't It?
+    author: doji-ro
+    cover: /covers/646757.jpg
+    rating: 4.5
+    date: '2026-05-01'
+    code: 646757
+    url: /works/646757/
+  - title: Houchiko Hirotte LesSe Suru
+    author: unknown
+    cover: /covers/646967.jpg
+    rating: 4.2
+    date: '2026-04-30'
+    code: 646967
+    url: /works/646967/
+  - title: Saya-nee-chan ga Yondemasu | Saya-nee is Calling Me
+    author: tokiwa-midori
+    cover: /covers/647382.jpg
+    rating: 4.7
+    date: '2026-05-03'
+    code: 647382
+    url: /works/647382/
+  - title: My Annoying Little Cousin Stole My First Time
+    author: karube-guri
+    cover: /covers/647853.jpg
+    rating: 4.7
+    date: '2026-05-07'
+    code: 647853
+    url: /works/647853/
+  - title: The Story Of Being Used For Sexual Release By My Annoying Childhood Friend
+      And Cousin's Pussy
+    author: karube-guri
+    cover: /covers/648522.jpg
+    rating: 4.2
+    date: '2026-05-07'
+    code: 648522
+    url: /works/648522/
+  - title: Oshiego no Gal o Kau
+    author: mitsudoue
+    cover: /covers/651197.jpg
+    rating: 4.0
+    date: '2026-05-20'
+    code: 651197
+    url: /works/651197/
+  - title: 'Namaiki Gal o Succubus ni Shite Oshioki Shitatta Ken 4  | Turning a Bratty
+      Gal into a Succubus for Punishment #4'
+    author: takurowo
+    cover: /covers/651303.jpg
+    rating: 4.5
+    date: '2026-05-20'
+    code: 651303
+    url: /works/651303/
+  - title: Kimi ga Haramu made Genkai Toppa Sex | Limit Breaking Sex until you're Pregnant
+    author: yoshio-ereki-toneridan
+    cover: /covers/651499.jpg
+    rating: 5.0
+    date: '2026-05-21'
+    code: 651499
+    url: /works/651499/
   - title: A story about a shy childhood friend who can’t say no and ends up being put
       in charge of handling sexual needs.
     author: sakurayu-hal
@@ -86,6 +165,36 @@ works:
     date: '2026-07-16'
     code: 655498
     url: /works/655498/
+  - title: 'Jirai Inu-kei Kanojo #Kimi to Tsunagaritai Jirai de Inukei de Juujun na
+      Kimi dake no Pet | Jirai-kei Puppy Girlfriend'
+    author: shimofuji-jun
+    cover: /covers/661367.jpg
+    rating: 4.8
+    date: '2026-07-05'
+    code: 661367
+    url: /works/661367/
+  - title: Himote no Boku ni Konna Sasoi Kotowareru Hazu ga Nai
+    author: untue
+    cover: /covers/661816.jpg
+    rating: 4.9
+    date: '2026-07-07'
+    code: 661816
+    url: /works/661816/
+  - title: Himote no Boku ni Konna Sasoi Kotowareru Hazu ga Nai 2
+    author: untue
+    cover: /covers/661818.jpg
+    rating: 4.1
+    date: '2026-07-07'
+    code: 661818
+    url: /works/661818/
+  - title: Love wa Gal kara Hajimaru Unmei | Love is a Destiny That Begins with a Gal
+      ch.1-5
+    author: nusmusbim
+    cover: /covers/661909.jpg
+    rating: 4.1
+    date: '2026-07-07'
+    code: 661909
+    url: /works/661909/
   - title: Yu-chan wa Pantsu o Shishu shitai! | Yu-chan Wants to Protect Her Panties
       at All Costs!
     author: meoppap

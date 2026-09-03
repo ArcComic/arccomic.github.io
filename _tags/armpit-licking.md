@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "armpit licking"
-work_count: 5
+work_count: 7
 works:
   - title: Homestay-chu no Doitsu Musume ga Issho ni Furo ni Haitte Kuru Wake | The
       Reason Why a German Girl Takes a Bath Together With Me on Her Homestay
@@ -18,6 +18,21 @@ works:
     date: '2026-08-21'
     code: 593575
     url: /works/593575/
+  - title: Boku to Aitsu to Ano Ko to Kanojo. - Me, Him, the Girl and Her
+    author: kameyama-cola
+    cover: /covers/648093.jpg
+    rating: 4.7
+    date: '2026-05-05'
+    code: 648093
+    url: /works/648093/
+  - title: Reibaishi Mikoto 2 Kairaku ni Zanpai su... Hentai Jijii to no Seikou no Gishiki
+      de Ikikuruwasareru Shoujo no Karada
+    author: sawacream
+    cover: /covers/649125.jpg
+    rating: 4.6
+    date: '2026-05-10'
+    code: 649125
+    url: /works/649125/
   - title: Tsuretette | Ghosts Boy Meets Girl
     author: kidoban
     cover: /covers/663745.jpg

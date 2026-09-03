@@ -1,8 +1,24 @@
 ---
 layout: tag
 tag_name: "old man"
-work_count: 7
+work_count: 16
 works:
+  - title: Adoration
+    author: kishizuka-kenji
+    cover: /covers/112455.jpg
+    rating: 5.0
+    date: '2026-05-04'
+    code: 112455
+    url: /works/112455/
+  - title: Minpaku ~Ojou-sama-tachi wa Minpaku Keieisha no Wana ni Ochiru~ | Sleeping
+      in the Bed and Breakfast - Young ladies fall into the trap of a private lodging
+      manager
+    author: kinugasa-yuuichi
+    cover: /covers/543494.jpg
+    rating: 4.1
+    date: '2026-07-06'
+    code: 543494
+    url: /works/543494/
   - title: Choukyou Zumi Hitozuma OL wa Joushi ni Dakare Futatabi Ochiru
     author: toono-suika
     cover: /covers/550164.jpg
@@ -10,6 +26,13 @@ works:
     date: '2026-07-10'
     code: 550164
     url: /works/550164/
+  - title: Tawawa de Akarui Yakyuubu Manager ga Inshitsu na Kyoushi no Wana ni... Kanketsuhen
+    author: ohkura-kazuya
+    cover: /covers/566052.jpg
+    rating: 4.7
+    date: '2026-04-30'
+    code: 566052
+    url: /works/566052/
   - title: Metamorphosis
     author: shindol
     cover: /covers/616358.jpg
@@ -17,6 +40,51 @@ works:
     date: '2026-07-15'
     code: 616358
     url: /works/616358/
+  - title: Curiosity and the Cost of Innocence
+    author: hoshi-to-lucky
+    cover: /covers/637110.jpg
+    rating: 4.7
+    date: '2026-05-04'
+    code: 637110
+    url: /works/637110/
+  - title: Inaka ni Sumu Dosukebe Gifu to Kosodate Yome | A Perverted Father-in-Law
+      Living in the Countryside and His Daughter-in-Law Raising Children
+    author: onodera
+    cover: /covers/648110.jpg
+    rating: 4.2
+    date: '2026-05-05'
+    code: 648110
+    url: /works/648110/
+  - title: Mama no Saikon Aite wa Papakatsu no Papa | Mom's new husband is my sugar
+      daddy
+    author: shiro-marimo
+    cover: /covers/648384.jpg
+    rating: 4.5
+    date: '2026-05-07'
+    code: 648384
+    url: /works/648384/
+  - title: Tabidachi Mae no Dai Shiren
+    author: borisu
+    cover: /covers/651317.jpg
+    rating: 4.9
+    date: '2026-05-20'
+    code: 651317
+    url: /works/651317/
+  - title: Muchi Muchi Tennen Joshidaisei no Dosukebe Jorei Taikenroku | The Chunky,
+      Defenseless, Airheaded University Girl Get's A Crash Course In Perverted Exorcisms!
+    author: inamimi
+    cover: /covers/652471.jpg
+    rating: 4.1
+    date: '2026-05-26'
+    code: 652471
+    url: /works/652471/
+  - title: REMIND ME & Beautiful Days Without You
+    author: 3e
+    cover: /covers/652639.jpg
+    rating: 4.8
+    date: '2026-05-26'
+    code: 652639
+    url: /works/652639/
   - title: How the Gloomy Me Took Charge of my Own Life by Becoming a Hostess
     author: shikabanekamo
     cover: /covers/656419.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "cowgirl"
-work_count: 5
+work_count: 9
 works:
   - title: Homestay-chu no Doitsu Musume ga Issho ni Furo ni Haitte Kuru Wake | The
       Reason Why a German Girl Takes a Bath Together With Me on Her Homestay
@@ -25,6 +25,35 @@ works:
     date: '2026-08-20'
     code: 557452
     url: /works/557452/
+  - title: Hitoban Tomete yo, Otaku-kun | Let Me Stay For the Night, Otaku-kun
+    author: danimaru
+    cover: /covers/606166.jpg
+    rating: 4.7
+    date: '2026-04-27'
+    code: 606166
+    url: /works/606166/
+  - title: Netorase Club 2 Anal Name no Tensai to Fellatio no Tensai | Netorase Club
+      2 The Genius of Rimjob and The Genius of Blowjob
+    author: oosawara-sadao
+    cover: /covers/649114.jpg
+    rating: 4.9
+    date: '2026-05-10'
+    code: 649114
+    url: /works/649114/
+  - title: Kyonyiu kanojo ni hitasura shibori toraremakuru hanashi | Squeeze Until Empty
+    author: fuguta-ke
+    cover: /covers/651343.jpg
+    rating: 4.3
+    date: '2026-05-20'
+    code: 651343
+    url: /works/651343/
+  - title: Kyonyuu Kanojo ni Hitasura Shibori Toraremakuru Hanashi | Squeeze Until Empty
+    author: fuguta-ke
+    cover: /covers/652218.jpg
+    rating: 4.8
+    date: '2026-05-26'
+    code: 652218
+    url: /works/652218/
   - title: WSS ~Watashi ga Sakini Sukidatta no ni~ - Even Though I Loved Him First
     author: asanagi
     cover: /covers/674639.jpg

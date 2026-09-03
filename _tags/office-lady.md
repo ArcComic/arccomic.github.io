@@ -1,8 +1,23 @@
 ---
 layout: tag
 tag_name: "office lady"
-work_count: 2
+work_count: 4
 works:
+  - title: Kono Koi ni Kiduite
+    author: danimaru
+    cover: /covers/357965.jpg
+    rating: 4.6
+    date: '2026-04-27'
+    code: 357965
+    url: /works/357965/
+  - title: Igumox - Muramata-san no Himitsu & Aijou - Muramata-san's Secret & Affection
+      COMPLETE
+    author: igumox
+    cover: /covers/624573.jpg
+    rating: 4.2
+    date: '2026-05-26'
+    code: 624573
+    url: /works/624573/
   - title: Gohoubi wa Karada de. ~Ero-sugi Fukuri Kousei wa Seishori-ka no Oshigoto~
       (2) | The Reward is the Body ~The Overly Lewd Employee Benefits of the Service
       Department~

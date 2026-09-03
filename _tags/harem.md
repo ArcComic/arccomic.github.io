@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "harem"
-work_count: 6
+work_count: 11
 works:
   - title: Dansei ga Kyokutan ni Sukunai Kono Sekai de wa, Seishi wa Kichou na Shigen
       desu. Sono 2 | In a World Where Men Are Scarce, Sperm Is a Precious Resource 2
@@ -19,6 +19,42 @@ works:
     date: '2026-08-20'
     code: 639463
     url: /works/639463/
+  - title: M Ko
+    author: takaku-tubby-shirono-mahiro
+    cover: /covers/651489.jpg
+    rating: 4.4
+    date: '2026-05-21'
+    code: 651489
+    url: /works/651489/
+  - title: Atashi no Hou ga Tsuyoi Hazudattanoni!
+    author: group
+    cover: /covers/652605.jpg
+    rating: 4.0
+    date: '2026-05-26'
+    code: 652605
+    url: /works/652605/
+  - title: Meshibe no Nomikomi yuku Hate ni Meshibe no Sakihokoru Shima de 2
+    author: saigado-ishoku-dougen
+    cover: /covers/661590.jpg
+    rating: 4.3
+    date: '2026-07-06'
+    code: 661590
+    url: /works/661590/
+  - title: Meshibe no Sakihokoru Shima de - On the island where pistils are in full
+      bloom
+    author: saigado-ishoku-dougen
+    cover: /covers/661591.jpg
+    rating: 4.4
+    date: '2026-07-06'
+    code: 661591
+    url: /works/661591/
+  - title: Oretoku Shuugakuryokou ~Otoko wa Jyosou shita Ore dake!! Ch 1-29
+    author: okumori-boy
+    cover: /covers/661664.jpg
+    rating: 4.1
+    date: '2026-07-06'
+    code: 661664
+    url: /works/661664/
   - title: Ketsusenryaku | The Ass Strategy
     author: ariga-tou
     cover: /covers/662370.jpg

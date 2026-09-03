@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "ffm threesome"
-work_count: 24
+work_count: 37
 works:
   - title: CHOCO x LOVE
     author: highlow
@@ -18,6 +18,13 @@ works:
     date: '2026-08-20'
     code: 537794
     url: /works/537794/
+  - title: Nakayoku no Yu e Youkoso Ch. 2 & 3
+    author: enomoto-heights
+    cover: /covers/555849.jpg
+    rating: 4.5
+    date: '2026-04-30'
+    code: 555849
+    url: /works/555849/
   - title: Onsen Haitte tara Joseito-tachi ga Osotte Kita | My Students Jumped Me When
       I Got in the Hot Spring
     author: hamo
@@ -33,6 +40,52 @@ works:
     date: '2026-08-24'
     code: 642585
     url: /works/642585/
+  - title: Ura Aka Joshi no Jidori Ero Gosoushin | A Girl with a Secret-Account Accidentally
+      Sends a Lewd Selfie
+    author: group
+    cover: /covers/646922.jpg
+    rating: 4.9
+    date: '2026-04-30'
+    code: 646922
+    url: /works/646922/
+  - title: Onna Tomodachi no Uwaki Kokuhaku 2 | My Friend Confessed to Cheating 2
+    author: dekamatsu
+    cover: /covers/647270.jpg
+    rating: 4.7
+    date: '2026-05-01'
+    code: 647270
+    url: /works/647270/
+  - title: Boku to Aitsu to Ano Ko to Kanojo. - Me, Him, the Girl and Her
+    author: kameyama-cola
+    cover: /covers/648093.jpg
+    rating: 4.7
+    date: '2026-05-05'
+    code: 648093
+    url: /works/648093/
+  - title: Ura Aka Joshi no Jidori Ero Gosoushin | A Girl with a Secret-Account Accidentally
+      Sends a Lewd Selfie
+    author: group
+    cover: /covers/648358.jpg
+    rating: 4.0
+    date: '2026-05-07'
+    code: 648358
+    url: /works/648358/
+  - title: Imouto Haramasenai to Derarenai Shima 2 | You Must Breed Your Sister to Leave
+      This Island 2!
+    author: airandou
+    cover: /covers/648414.jpg
+    rating: 4.2
+    date: '2026-05-07'
+    code: 648414
+    url: /works/648414/
+  - title: The Story Of Being Used For Sexual Release By My Annoying Childhood Friend
+      And Cousin's Pussy
+    author: karube-guri
+    cover: /covers/648522.jpg
+    rating: 4.2
+    date: '2026-05-07'
+    code: 648522
+    url: /works/648522/
   - title: Shirayuki Mishiro & Enomiya Milk Saimin Sakunyuu Play Hon Matome
     author: rurimaru
     cover: /covers/648800.jpg
@@ -40,6 +93,20 @@ works:
     date: '2026-07-13'
     code: 648800
     url: /works/648800/
+  - title: Oshiego no Gal o Kau
+    author: mitsudoue
+    cover: /covers/651197.jpg
+    rating: 4.0
+    date: '2026-05-20'
+    code: 651197
+    url: /works/651197/
+  - title: Watashi wa Tsuma de Haha de, Tada no Mesu 3
+    author: kakyuu-bushi
+    cover: /covers/652606.jpg
+    rating: 4.1
+    date: '2026-05-26'
+    code: 652606
+    url: /works/652606/
   - title: Akogare no Oppai wa Ane no Aji
     author: emine-kendama
     cover: /covers/657256.jpg
@@ -47,6 +114,37 @@ works:
     date: '2026-07-09'
     code: 657256
     url: /works/657256/
+  - title: Shinyuu Tatakitsubushi Kyousou Shiiku Seikatsu | A Life in Captivity The
+      Competition to Break My Best Friend
+    author: group
+    cover: /covers/661586.jpg
+    rating: 4.5
+    date: '2026-07-06'
+    code: 661586
+    url: /works/661586/
+  - title: Cinderella Fit
+    author: shirosuzu
+    cover: /covers/661596.jpg
+    rating: 4.1
+    date: '2026-07-06'
+    code: 661596
+    url: /works/661596/
+  - title: Love wa Gal kara Hajimaru Unmei | Love is a Destiny That Begins with a Gal
+      ch.1-5
+    author: nusmusbim
+    cover: /covers/661909.jpg
+    rating: 4.1
+    date: '2026-07-07'
+    code: 661909
+    url: /works/661909/
+  - title: Seishidouin no Oshigoto 4 Kohen Rippana Benki ni Sodatta node Daimanzoku
+      de Shidou wo Oeta + C101 Omake
+    author: malcorond
+    cover: /covers/661951.jpg
+    rating: 4.5
+    date: '2026-07-07'
+    code: 661951
+    url: /works/661951/
   - title: Ketsusenryaku | The Ass Strategy
     author: ariga-tou
     cover: /covers/662370.jpg

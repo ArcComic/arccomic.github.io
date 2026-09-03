@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "inverted nipples"
-work_count: 9
+work_count: 15
 works:
+  - title: Sukina Hito, Sukina Koto
+    author: ebi-fry-teishoku
+    cover: /covers/452482.jpg
+    rating: 4.8
+    date: '2026-04-27'
+    code: 452482
+    url: /works/452482/
   - title: Toaru Mura no Fudeoroshi Jijou | *séh₂ swédʰh₁eh₂ weyḱósyo
     author: nora-higuma
     cover: /covers/505779.jpg
@@ -27,6 +34,13 @@ works:
     date: '2026-08-24'
     code: 584934
     url: /works/584934/
+  - title: Hitoban Tomete yo, Otaku-kun | Let Me Stay For the Night, Otaku-kun
+    author: danimaru
+    cover: /covers/606166.jpg
+    rating: 4.7
+    date: '2026-04-27'
+    code: 606166
+    url: /works/606166/
   - title: BUTA - 『You did a great job』
     author: buta
     cover: /covers/639772.jpg
@@ -34,6 +48,35 @@ works:
     date: '2026-08-23'
     code: 639772
     url: /works/639772/
+  - title: nenene 1 - 5
+    author: kantori
+    cover: /covers/647876.jpg
+    rating: 4.3
+    date: '2026-05-04'
+    code: 647876
+    url: /works/647876/
+  - title: Kyonyiu kanojo ni hitasura shibori toraremakuru hanashi | Squeeze Until Empty
+    author: fuguta-ke
+    cover: /covers/651343.jpg
+    rating: 4.3
+    date: '2026-05-20'
+    code: 651343
+    url: /works/651343/
+  - title: Kyonyuu Kanojo ni Hitasura Shibori Toraremakuru Hanashi | Squeeze Until Empty
+    author: fuguta-ke
+    cover: /covers/652218.jpg
+    rating: 4.8
+    date: '2026-05-26'
+    code: 652218
+    url: /works/652218/
+  - title: Kyonyuu no Tomodachi to Tsukiau made no Hanashi | Maybe We'll Start Dating
+      Someday
+    author: fuguta-ke
+    cover: /covers/652244.jpg
+    rating: 5.0
+    date: '2026-05-26'
+    code: 652244
+    url: /works/652244/
   - title: Jinin ’Futsuu’ Dekachichi Inkya J◯ no Maso Mesu ga Nagga〜i Chinpo de Shuuryou
       Made♡
     author: amrita

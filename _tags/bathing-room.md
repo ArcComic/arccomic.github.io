@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bathing room"
-work_count: 6
+work_count: 8
 works:
   - title: Homestay-chu no Doitsu Musume ga Issho ni Furo ni Haitte Kuru Wake | The
       Reason Why a German Girl Takes a Bath Together With Me on Her Homestay
@@ -27,6 +27,23 @@ works:
     date: '2026-08-22'
     code: 550948
     url: /works/550948/
+  - title: Momoiro Kikyou Boku no Hajimete wa Toshiue Bakunyuu Soap-jou｜Pink Bellflower∶
+      My First Experience with an Older Busty Soapland Lady
+    author: enma
+    cover: /covers/646870.jpg
+    rating: 4.8
+    date: '2026-04-30'
+    code: 646870
+    url: /works/646870/
+  - title: Kaa-san no Nude Model o Shite Itara, Kaa-san no Panchira Mite Bokki Shite
+      Shimai, Soshite...... | I was acting as a nude model for my mom, but then... I
+      caught a glimpse of her panties, got a boner, and well...
+    author: polbockle
+    cover: /covers/652625.jpg
+    rating: 4.9
+    date: '2026-05-26'
+    code: 652625
+    url: /works/652625/
   - title: Make Love Rank match!!③
     author: napo
     cover: /covers/659484.jpg

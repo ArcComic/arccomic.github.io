@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big areolae"
-work_count: 18
+work_count: 34
 works:
   - title: Kanojo no Kawaii Mieppari | My Cute Gyaru Girlfriend Is a Total Poser
     author: buta
@@ -19,6 +19,13 @@ works:
     date: '2026-08-25'
     code: 518387
     url: /works/518387/
+  - title: Rossia kei Hitozuma to Doutei kun no Himitsu no Kankei
+    author: kibi-anmitsu
+    cover: /covers/530293.jpg
+    rating: 4.7
+    date: '2026-05-20'
+    code: 530293
+    url: /works/530293/
   - title: Gal to no Asobikata | How to Have Fun With Gyarus!
     author: buta
     cover: /covers/531967.jpg
@@ -41,6 +48,13 @@ works:
     date: '2026-07-15'
     code: 544477
     url: /works/544477/
+  - title: Gokinjo Trouble ni wa Gochuui o | Watch Out For Trouble in Your Neighborhood
+    author: hotate-chan
+    cover: /covers/553426.jpg
+    rating: 4.0
+    date: '2026-05-05'
+    code: 553426
+    url: /works/553426/
   - title: Kyoushi to Mama to Koibito no Kao
     author: mifune-seijirou
     cover: /covers/592307.jpg
@@ -48,6 +62,29 @@ works:
     date: '2026-08-25'
     code: 592307
     url: /works/592307/
+  - title: Onna Shachou to Koibito ni Naru Houhou | How To Become Lover's With A Female
+      CEO
+    author: fan
+    cover: /covers/600237.jpg
+    rating: 4.3
+    date: '2026-05-20'
+    code: 600237
+    url: /works/600237/
+  - title: 'Taihai Tsuma: Taihaikei Hitotsuma o Yachin Kawari ni Koki Tsukaeru Hanashi
+      | Slutty Wife!'
+    author: kametaro
+    cover: /covers/629368.jpg
+    rating: 4.4
+    date: '2026-04-30'
+    code: 629368
+    url: /works/629368/
+  - title: Boku no Toshiue no Tomodachi | My Older Friend
+    author: buta
+    cover: /covers/631036.jpg
+    rating: 4.4
+    date: '2026-05-26'
+    code: 631036
+    url: /works/631036/
   - title: Onsen Haitte tara Joseito-tachi ga Osotte Kita | My Students Jumped Me When
       I Got in the Hot Spring
     author: hamo
@@ -63,6 +100,37 @@ works:
     date: '2026-08-23'
     code: 639772
     url: /works/639772/
+  - title: The story of how a busty, older teacher girlfriend gets seduced and cheated
+      on by the principal with a huge penis.
+    author: munioni
+    cover: /covers/644296.jpg
+    rating: 4.4
+    date: '2026-07-06'
+    code: 644296
+    url: /works/644296/
+  - title: Okaa-san ni wa Kore Gurai shika Dekinai kara... 2 | For Mom the Only Option
+      Left is... 2
+    author: muchipan
+    cover: /covers/646904.jpg
+    rating: 4.2
+    date: '2026-04-30'
+    code: 646904
+    url: /works/646904/
+  - title: The Story Of Being Used For Sexual Release By My Annoying Childhood Friend
+      And Cousin's Pussy
+    author: karube-guri
+    cover: /covers/648522.jpg
+    rating: 4.2
+    date: '2026-05-07'
+    code: 648522
+    url: /works/648522/
+  - title: Oshiego no Gal o Kau
+    author: mitsudoue
+    cover: /covers/651197.jpg
+    rating: 4.0
+    date: '2026-05-20'
+    code: 651197
+    url: /works/651197/
   - title: Musume no Kawari ni | Instead of My Daughter
     author: nanao-yukiji
     cover: /covers/651309.jpg
@@ -70,6 +138,42 @@ works:
     date: '2026-07-11'
     code: 651309
     url: /works/651309/
+  - title: Kyonyiu kanojo ni hitasura shibori toraremakuru hanashi | Squeeze Until Empty
+    author: fuguta-ke
+    cover: /covers/651343.jpg
+    rating: 4.3
+    date: '2026-05-20'
+    code: 651343
+    url: /works/651343/
+  - title: Boku no kanojo | My Girlfriend
+    author: fuguta-ke
+    cover: /covers/651346.jpg
+    rating: 4.3
+    date: '2026-05-20'
+    code: 651346
+    url: /works/651346/
+  - title: Kyonyuu Kanojo ni Hitasura Shibori Toraremakuru Hanashi | Squeeze Until Empty
+    author: fuguta-ke
+    cover: /covers/652218.jpg
+    rating: 4.8
+    date: '2026-05-26'
+    code: 652218
+    url: /works/652218/
+  - title: Kyonyuu no Tomodachi to Tsukiau made no Hanashi | Maybe We'll Start Dating
+      Someday
+    author: fuguta-ke
+    cover: /covers/652244.jpg
+    rating: 5.0
+    date: '2026-05-26'
+    code: 652244
+    url: /works/652244/
+  - title: Kisei Goblin | Parasitic Goblin
+    author: poriuretan
+    cover: /covers/652632.jpg
+    rating: 4.5
+    date: '2026-05-26'
+    code: 652632
+    url: /works/652632/
   - title: Tonari no Ayane-san Soushuuhen | My Neighbor Ayane Anthology
     author: herio
     cover: /covers/656319.jpg
@@ -77,6 +181,22 @@ works:
     date: '2026-08-18'
     code: 656319
     url: /works/656319/
+  - title: Ane to Otouto wa 30-Nichi go ni Sex Suru. | The Big Sister and Her Little
+      Brother Will Have Sex in 30 Days
+    author: shamidou-maichimonji
+    cover: /covers/661139.jpg
+    rating: 4.3
+    date: '2026-07-05'
+    code: 661139
+    url: /works/661139/
+  - title: Love wa Gal kara Hajimaru Unmei | Love is a Destiny That Begins with a Gal
+      ch.1-5
+    author: nusmusbim
+    cover: /covers/661909.jpg
+    rating: 4.1
+    date: '2026-07-07'
+    code: 661909
+    url: /works/661909/
   - title: Yume no Naka de
     author: taji
     cover: /covers/664429.jpg

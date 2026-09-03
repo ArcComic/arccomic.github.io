@@ -1,8 +1,60 @@
 ---
 layout: tag
 tag_name: "multi-work series"
-work_count: 64
+work_count: 130
 works:
+  - title: Itomusubi Vol. 2
+    author: bekotarou
+    cover: /covers/311755.jpg
+    rating: 5.0
+    date: '2026-05-10'
+    code: 311755
+    url: /works/311755/
+  - title: ERIKA Vol. 2
+    author: hankotsu-max
+    cover: /covers/353025.jpg
+    rating: 4.9
+    date: '2026-04-27'
+    code: 353025
+    url: /works/353025/
+  - title: Kono Koi ni Kiduite
+    author: danimaru
+    cover: /covers/357965.jpg
+    rating: 4.6
+    date: '2026-04-27'
+    code: 357965
+    url: /works/357965/
+  - title: Suki Araba Kareshi no Seiheki o Yugametai! ~Kimi no Aegi ga Mada Tarinai~
+    author: meeko
+    cover: /covers/376189.jpg
+    rating: 4.8
+    date: '2026-05-03'
+    code: 376189
+    url: /works/376189/
+  - title: NTR Anniversary + ) [Syukurin] Mitsuha ~Netorare~ (Kimi no Na wa.) [English]
+      [Colorized] by Mikaku
+    author: arakure
+    cover: /covers/414206.jpg
+    rating: 4.2
+    date: '2026-04-27'
+    code: 414206
+    url: /works/414206/
+  - title: 'Misunderstanding Love Hotel Netorare [Arakure] & Kimi no na wa: After Story
+      - Mitsuha ~Netorare~'
+    author: arakure
+    cover: /covers/416883.jpg
+    rating: 4.9
+    date: '2026-04-27'
+    code: 416883
+    url: /works/416883/
+  - title: TomoKano Kaa-chan II ~Jitaku, Musuko no Tomodachi ni Ochita Natsu~ | My Mom
+      Is My Friend's Girlfriend 2
+    author: tarobaumu
+    cover: /covers/419017.jpg
+    rating: 4.0
+    date: '2026-05-05'
+    code: 419017
+    url: /works/419017/
   - title: Tonari no Ayane-san Desaki Battari Hen
     author: herio
     cover: /covers/432356.jpg
@@ -31,6 +83,13 @@ works:
     date: '2026-07-11'
     code: 499536
     url: /works/499536/
+  - title: Mimikyu Myth 2
+    author: meowwithme
+    cover: /covers/500102.jpg
+    rating: 4.5
+    date: '2026-05-03'
+    code: 500102
+    url: /works/500102/
   - title: Hiro-kun no Mama Wa Boku no Dorei 2 | Hiro-kun Mama Is My Sex Slave 2
     author: exit-up
     cover: /covers/508818.jpg
@@ -38,6 +97,15 @@ works:
     date: '2026-08-18'
     code: 508818
     url: /works/508818/
+  - title: Netori Ai SEX - Chara Otoko no Hentai Massage Osananajimi no Nettori Aibu
+      1 | N.T.R. Sex Wars - Playboy's Depraved Massage VS. Childhood Friend's Sensual
+      Touch 1
+    author: kaduki
+    cover: /covers/510012.jpg
+    rating: 4.6
+    date: '2026-05-04'
+    code: 510012
+    url: /works/510012/
   - title: Koibito no Furi Shite Tara, Iki Goe ga…. Yukata Sugata no Kyonyuu Oneesan
       ni, Tamarazu Sounyuu 1 I Can’t Stop Myself From Penetrating My Big Boobed Older
       Female Cousin 1
@@ -56,6 +124,22 @@ works:
     date: '2026-08-29'
     code: 511316
     url: /works/511316/
+  - title: IKUu!! Zenkou Seito no Mae de Koukai Zecchou-saserareta JK no Matsuro 1 |
+      Cumming in Front of the Entire Student Body 1
+    author: ouma
+    cover: /covers/518608.jpg
+    rating: 4.6
+    date: '2026-05-04'
+    code: 518608
+    url: /works/518608/
+  - title: '"Ikaseru Furi suru dake" tte Itta no ni... Satsutaba o Kuwaenagara Maji
+      Ikigao o Sarasu JK 1 | But You Said You''d Only Pretend to Make Me Cum... 1'
+    author: ouma
+    cover: /covers/519713.jpg
+    rating: 4.6
+    date: '2026-05-04'
+    code: 519713
+    url: /works/519713/
   - title: This Woman’s Body Tells Lies
     author: ichihara-kazuma
     cover: /covers/527621.jpg
@@ -63,6 +147,21 @@ works:
     date: '2026-07-08'
     code: 527621
     url: /works/527621/
+  - title: Netorareru.~ Tsuma ga Ochi Yuku Hen'ai Kairaku no Hate ni...1-5 | NETORARERU,
+      A Wife's Descent Into Sinful Pleasures 1-5
+    author: yuuki-ryo
+    cover: /covers/529365.jpg
+    rating: 4.9
+    date: '2026-05-01'
+    code: 529365
+    url: /works/529365/
+  - title: Mother's Scent 1-4
+    author: midnight
+    cover: /covers/532417.jpg
+    rating: 4.2
+    date: '2026-05-26'
+    code: 532417
+    url: /works/532417/
   - title: '"Sex no Benkyou Shiyokka?" Kareshi ga Iru no ni Itoko kara Shojo wo Ubaware
       Zecchou Shidou 1-5 | Let''s Learn About Sex: Your Cousin Will Take Your Virginity
       and Teach You How to Come 1-5'
@@ -72,6 +171,14 @@ works:
     date: '2026-08-29'
     code: 534388
     url: /works/534388/
+  - title: '"Koitsu no SEX, Do-S Sugi...!" Shuuden Mae, Zetsurin Douki no Hageshime
+      Piston 1 | Intense Sex with My Peerless Colleague Before the Last Train 1'
+    author: ouma
+    cover: /covers/537760.jpg
+    rating: 4.0
+    date: '2026-05-04'
+    code: 537760
+    url: /works/537760/
   - title: Dansei ga Kyokutan ni Sukunai Kono Sekai de wa, Seishi wa Kichou na Shigen
       desu. Sono 2 | In a World Where Men Are Scarce, Sperm Is a Precious Resource 2
     author: group
@@ -96,6 +203,14 @@ works:
     date: '2026-07-11'
     code: 538553
     url: /works/538553/
+  - title: Kaa-san to Shitai Koto ~ Zetsurin Musuko to no Seikatsu Kaisou Hen | What
+      I want to do with My Mother ~ Sex Life with My Son Who Has...
+    author: saimon-k
+    cover: /covers/543358.jpg
+    rating: 4.6
+    date: '2026-05-05'
+    code: 543358
+    url: /works/543358/
   - title: Kekkon 3-Nen Me no Tsuma wa, Shain Ryokou Chuu ni Otto no Yoko de Netorareru!
       1 | Netorare With a Busty Wife on a Company Trip 1
     author: aoi-shou
@@ -111,6 +226,14 @@ works:
     date: '2026-07-17'
     code: 547393
     url: /works/547393/
+  - title: DeliHeal Kaa-chan 3 ~Having Sex with My Favorite Kaa-chan and Having a Half-Cohabitation
+      Life~
+    author: tarobaumu
+    cover: /covers/550823.jpg
+    rating: 4.3
+    date: '2026-05-05'
+    code: 550823
+    url: /works/550823/
   - title: + (SEIKO AYASE VARIOUS) +
     author: st-mya
     cover: /covers/555816.jpg
@@ -118,6 +241,13 @@ works:
     date: '2026-07-16'
     code: 555816
     url: /works/555816/
+  - title: Nakayoku no Yu e Youkoso Ch. 2 & 3
+    author: enomoto-heights
+    cover: /covers/555849.jpg
+    rating: 4.5
+    date: '2026-04-30'
+    code: 555849
+    url: /works/555849/
   - title: Hayato-sensei no Mesu-ka Karute Daigaku-hen | Dr. Hayato's Feminization Medical
       Record ~University Edition~
     author: testame
@@ -133,6 +263,20 @@ works:
     date: '2026-08-20'
     code: 557452
     url: /works/557452/
+  - title: Boshi Soukan Senmon-shi "Suteki na Okaa-san" Vol. 3
+    author: kaiko
+    cover: /covers/558039.jpg
+    rating: 4.1
+    date: '2026-05-05'
+    code: 558039
+    url: /works/558039/
+  - title: Tawawa de Akarui Yakyuubu Manager ga Inshitsu na Kyoushi no Wana ni... Kanketsuhen
+    author: ohkura-kazuya
+    cover: /covers/566052.jpg
+    rating: 4.7
+    date: '2026-04-30'
+    code: 566052
+    url: /works/566052/
   - title: 'Anata to Watashi no Ayamachi ~Bangaihen Kairaku Ochi e no Ippo~ | Our Mistake
       ~Side Story: A Step Towards the Fall into Pleasure~'
     author: zionman
@@ -141,6 +285,27 @@ works:
     date: '2026-07-17'
     code: 582290
     url: /works/582290/
+  - title: Madamada, Shitemitai. - I still want to try.
+    author: danimaru
+    cover: /covers/586028.jpg
+    rating: 4.2
+    date: '2026-04-27'
+    code: 586028
+    url: /works/586028/
+  - title: Suki nano wa Anata dake... 3
+    author: end
+    cover: /covers/586634.jpg
+    rating: 4.7
+    date: '2026-05-10'
+    code: 586634
+    url: /works/586634/
+  - title: Motto, Shitemitai. - I want to do it more.
+    author: danimaru
+    cover: /covers/587724.jpg
+    rating: 4.8
+    date: '2026-04-27'
+    code: 587724
+    url: /works/587724/
   - title: Pashiri no Shita Teku, Yabaitte... ~ Ebi Sori Iki Suru Namaiki Gyaru | Bullied
       Boy's Tongue Revenge Vol.1-4
     author: takayamanon
@@ -149,6 +314,43 @@ works:
     date: '2026-08-29'
     code: 589969
     url: /works/589969/
+  - title: Mesu no Ie II ~Tsuma wa Midare Ubareru~
+    author: ame-arare
+    cover: /covers/591112.jpg
+    rating: 4.3
+    date: '2026-05-01'
+    code: 591112
+    url: /works/591112/
+  - title: Houkai Kazoku 2 -Hahaoya ga Yakuza to no Sex ni Hamatta Hanashi- | Broken
+      Family 2 - The story of a mother who got hooked on sex with the Yakuza
+    author: watsondou
+    cover: /covers/596598.jpg
+    rating: 5.0
+    date: '2026-05-07'
+    code: 596598
+    url: /works/596598/
+  - title: Kouhai Otaku Tomodachi JK ga Kawai Sugirumon de!
+    author: niji-teru
+    cover: /covers/606719.jpg
+    rating: 4.7
+    date: '2026-04-27'
+    code: 606719
+    url: /works/606719/
+  - title: '"1 Funkan Dake Rete mo īyo … " Shea Hausu no Himitsu Rūru | The Share House''s
+      Secret Rule Vol. 1-3'
+    author: ouma
+    cover: /covers/608911.jpg
+    rating: 4.6
+    date: '2026-05-04'
+    code: 608911
+    url: /works/608911/
+  - title: Eroi Koto Igai de Toki o Tomete wa Dame desu yo 2
+    author: ohkura-kazuya
+    cover: /covers/615835.jpg
+    rating: 4.9
+    date: '2026-04-30'
+    code: 615835
+    url: /works/615835/
   - title: Futari de Watashi o Ikasenaide...! ~Kurayami, Majiwaru Kyoudai Futon~  |
       My 2 Step-Brothers are Ganging Up on Me!  Vol.1
     author: ma-yu
@@ -157,6 +359,22 @@ works:
     date: '2026-08-29'
     code: 618087
     url: /works/618087/
+  - title: Ima Kara Irerukedo, "Sakippo Dake" Dakara Sex Janai Yo.  | Just The Tip Inside
+      is Not Sex Vol. 1-4
+    author: ouma
+    cover: /covers/621185.jpg
+    rating: 4.7
+    date: '2026-05-04'
+    code: 621185
+    url: /works/621185/
+  - title: The Story of How My Brain Was Destroyed After Dating Someone Who Would Grant
+      Any Request
+    author: jakky
+    cover: /covers/627182.jpg
+    rating: 4.9
+    date: '2026-05-26'
+    code: 627182
+    url: /works/627182/
   - title: Aitsu, Kotowarenai kara.. Remake-ban no Tsuzuki dewa Arimasu ga, Konsaku
       wa Yakinaoshi ja Nai yo. Settei Igai wa Sinsaku da yo. Sonna Kanji no Vol. 2 desu
     author: haruharudo
@@ -193,6 +411,214 @@ works:
     date: '2026-08-24'
     code: 642588
     url: /works/642588/
+  - title: Sumata dake tte Itta no ni… Nurutto Sounyuusarechatta Yuutousei no Omocha
+      | You Said It'd Just Be Grinding... But You Ended up Slipping It In. Now I'm Just
+      the Top Student's Toy 3.
+    author: tsukuyomi
+    cover: /covers/642748.jpg
+    rating: 4.4
+    date: '2026-07-06'
+    code: 642748
+    url: /works/642748/
+  - title: Mitsuha ~Netorare~ 10 (Your Name After Story) True Ending
+    author: syukurin
+    cover: /covers/643592.jpg
+    rating: 4.0
+    date: '2026-04-27'
+    code: 643592
+    url: /works/643592/
+  - title: Sex Between Gloomy Types is the Hottest, Ain't It?
+    author: doji-ro
+    cover: /covers/646757.jpg
+    rating: 4.5
+    date: '2026-05-01'
+    code: 646757
+    url: /works/646757/
+  - title: Okaa-san ni wa Kore Gurai shika Dekinai kara... 2 | For Mom the Only Option
+      Left is... 2
+    author: muchipan
+    cover: /covers/646904.jpg
+    rating: 4.2
+    date: '2026-04-30'
+    code: 646904
+    url: /works/646904/
+  - title: Natsu ga Owaru made Natsu no Owari Kanketsuhen
+    author: mon-petit
+    cover: /covers/646969.jpg
+    rating: 4.1
+    date: '2026-04-30'
+    code: 646969
+    url: /works/646969/
+  - title: Na mo Naki Dousei Couple no Sex ga Ichiban Eroi yo ne | Sex Between Gloomy
+      Types is the Hottest, Ain't It? Epilogue
+    author: doji-ro
+    cover: /covers/646986.jpg
+    rating: 4.2
+    date: '2026-04-30'
+    code: 646986
+    url: /works/646986/
+  - title: Onna Tomodachi no Uwaki Kokuhaku 2 | My Friend Confessed to Cheating 2
+    author: dekamatsu
+    cover: /covers/647270.jpg
+    rating: 4.7
+    date: '2026-05-01'
+    code: 647270
+    url: /works/647270/
+  - title: 'Library Girlfriend: Descent into Depravity'
+    author: ame-arare
+    cover: /covers/647334.jpg
+    rating: 4.6
+    date: '2026-05-01'
+    code: 647334
+    url: /works/647334/
+  - title: Venom Invasion VII 【Part 1】
+    author: blackftos
+    cover: /covers/647563.jpg
+    rating: 4.9
+    date: '2026-05-03'
+    code: 647563
+    url: /works/647563/
+  - title: If I Have a Chance, I Want to Warp My Boyfriend's Fetishes!
+    author: meeko
+    cover: /covers/647619.jpg
+    rating: 4.6
+    date: '2026-05-03'
+    code: 647619
+    url: /works/647619/
+  - title: Ueno-kun wa Kaihatsu-zumi Dai 77 wa | Ueno-kun Has Been Developed Chapter
+      77
+    author: nakaura
+    cover: /covers/647776.jpg
+    rating: 4.5
+    date: '2026-05-04'
+    code: 647776
+    url: /works/647776/
+  - title: My Annoying Little Cousin Stole My First Time
+    author: karube-guri
+    cover: /covers/647853.jpg
+    rating: 4.7
+    date: '2026-05-07'
+    code: 647853
+    url: /works/647853/
+  - title: If I Have a Chance, I Want to Warp My Boyfriend's Fetishes! ~Lovey-dovey
+      Trip to the Hotsprings~
+    author: meeko
+    cover: /covers/648042.jpg
+    rating: 4.5
+    date: '2026-05-05'
+    code: 648042
+    url: /works/648042/
+  - title: Good Teachers
+    author: nodo
+    cover: /covers/648310.jpg
+    rating: 4.9
+    date: '2026-05-07'
+    code: 648310
+    url: /works/648310/
+  - title: Imouto Haramasenai to Derarenai Shima 2 | You Must Breed Your Sister to Leave
+      This Island 2!
+    author: airandou
+    cover: /covers/648414.jpg
+    rating: 4.2
+    date: '2026-05-07'
+    code: 648414
+    url: /works/648414/
+  - title: Half Gimai to no Amai Nichijou to Noumitsu Sex 3
+    author: sanbalkin
+    cover: /covers/648460.jpg
+    rating: 4.9
+    date: '2026-05-07'
+    code: 648460
+    url: /works/648460/
+  - title: Murasaki no Syoumei | Purple Illumination
+    author: '3104'
+    cover: /covers/648461.jpg
+    rating: 4.1
+    date: '2026-05-07'
+    code: 648461
+    url: /works/648461/
+  - title: The Story Of Being Used For Sexual Release By My Annoying Childhood Friend
+      And Cousin's Pussy
+    author: karube-guri
+    cover: /covers/648522.jpg
+    rating: 4.2
+    date: '2026-05-07'
+    code: 648522
+    url: /works/648522/
+  - title: Trop 1 ~ Onabare Hitozuma no Sango Shojo o Itadakimasu~ | Trop 1 ~ I'll Take
+      the Post-Birth Virginity of a Married Woman Whose Masturbation Was Exposed~
+    author: higashide-irodori
+    cover: /covers/648952.jpg
+    rating: 4.4
+    date: '2026-05-10'
+    code: 648952
+    url: /works/648952/
+  - title: Kawaii Kanojo ni Goyoujin!? 2 | Beware of Cute Girlfriends! 2
+    author: marialite
+    cover: /covers/649111.jpg
+    rating: 4.8
+    date: '2026-05-10'
+    code: 649111
+    url: /works/649111/
+  - title: Netorase Club 2 Anal Name no Tensai to Fellatio no Tensai | Netorase Club
+      2 The Genius of Rimjob and The Genius of Blowjob
+    author: oosawara-sadao
+    cover: /covers/649114.jpg
+    rating: 4.9
+    date: '2026-05-10'
+    code: 649114
+    url: /works/649114/
+  - title: Ally-san wa Doko Demo Ikitai!! 3
+    author: inukami-inoji
+    cover: /covers/650926.jpg
+    rating: 4.9
+    date: '2026-05-20'
+    code: 650926
+    url: /works/650926/
+  - title: 'Namaiki Gal o Succubus ni Shite Oshioki Shitatta Ken 4  | Turning a Bratty
+      Gal into a Succubus for Punishment #4'
+    author: takurowo
+    cover: /covers/651303.jpg
+    rating: 4.5
+    date: '2026-05-20'
+    code: 651303
+    url: /works/651303/
+  - title: Cool-kei Dansou Onna ni Kanojo Netorareta kara, Wakarasete Yatta 2
+    author: kurukuru
+    cover: /covers/651338.jpg
+    rating: 4.1
+    date: '2026-05-20'
+    code: 651338
+    url: /works/651338/
+  - title: Iki Jigoku Refle ni Tokeru Otto Tanshinfunin Hitozuma Inmou Ari
+    author: kotoyoshi-yumisuke
+    cover: /covers/651442.jpg
+    rating: 4.2
+    date: '2026-05-21'
+    code: 651442
+    url: /works/651442/
+  - title: Watashi wa Tsuma de Haha de, Tada no Mesu 3
+    author: kakyuu-bushi
+    cover: /covers/652606.jpg
+    rating: 4.1
+    date: '2026-05-26'
+    code: 652606
+    url: /works/652606/
+  - title: Cool-kei Hoken Iin wa Ijou ni Yasashii | The Cool-Type Health Committee Girl
+      Is Abnormally Kind
+    author: shuumatsu
+    cover: /covers/652790.jpg
+    rating: 4.2
+    date: '2026-05-27'
+    code: 652790
+    url: /works/652790/
+  - title: Sankaku comic vol. 3 Ayano
+    author: mko
+    cover: /covers/652836.jpg
+    rating: 4.1
+    date: '2026-05-27'
+    code: 652836
+    url: /works/652836/
   - title: Tonari no Ayane-san Soushuuhen | My Neighbor Ayane Anthology
     author: herio
     cover: /covers/656319.jpg
@@ -215,6 +641,73 @@ works:
     date: '2026-08-22'
     code: 659484
     url: /works/659484/
+  - title: Murasaki no Shoumei ~Kuroi Muchuu~ | Purple Illumination ~Dark Trance~
+    author: '3104'
+    cover: /covers/660867.jpg
+    rating: 4.1
+    date: '2026-07-06'
+    code: 660867
+    url: /works/660867/
+  - title: Kimi no Mae de Kimi Igai o Daku Ch. 27 | Having Sex with Someone Else in
+      Front of You 27
+    author: nakao
+    cover: /covers/661565.jpg
+    rating: 4.6
+    date: '2026-07-06'
+    code: 661565
+    url: /works/661565/
+  - title: Meshibe no Nomikomi yuku Hate ni Meshibe no Sakihokoru Shima de 2
+    author: saigado-ishoku-dougen
+    cover: /covers/661590.jpg
+    rating: 4.3
+    date: '2026-07-06'
+    code: 661590
+    url: /works/661590/
+  - title: Meshibe no Sakihokoru Shima de - On the island where pistils are in full
+      bloom
+    author: saigado-ishoku-dougen
+    cover: /covers/661591.jpg
+    rating: 4.4
+    date: '2026-07-06'
+    code: 661591
+    url: /works/661591/
+  - title: Oretoku Shuugakuryokou ~Otoko wa Jyosou shita Ore dake!! Ch 1-29
+    author: okumori-boy
+    cover: /covers/661664.jpg
+    rating: 4.1
+    date: '2026-07-06'
+    code: 661664
+    url: /works/661664/
+  - title: Himote no Boku ni Konna Sasoi Kotowareru Hazu ga Nai
+    author: untue
+    cover: /covers/661816.jpg
+    rating: 4.9
+    date: '2026-07-07'
+    code: 661816
+    url: /works/661816/
+  - title: Himote no Boku ni Konna Sasoi Kotowareru Hazu ga Nai 2
+    author: untue
+    cover: /covers/661818.jpg
+    rating: 4.1
+    date: '2026-07-07'
+    code: 661818
+    url: /works/661818/
+  - title: Seishidouin no Oshigoto 4 Kohen Rippana Benki ni Sodatta node Daimanzoku
+      de Shidou wo Oeta + C101 Omake
+    author: malcorond
+    cover: /covers/661951.jpg
+    rating: 4.5
+    date: '2026-07-07'
+    code: 661951
+    url: /works/661951/
+  - title: Kasshoku Oneesan no Fudeoroshi Ver. 6 | Brown Lady Takes His First Time Ver.
+      6
+    author: ahugan-sugita
+    cover: /covers/662114.jpg
+    rating: 4.7
+    date: '2026-07-07'
+    code: 662114
+    url: /works/662114/
   - title: Boshi Jouji ~Daisuki na Okaa-san to Konya Majiwaru~ - MOTHER AND SON LOVE
       AFFAIR | A Mother's Love ~Tonight I Become One With The Mom I Love~ Part 2
     author: shiono-kou

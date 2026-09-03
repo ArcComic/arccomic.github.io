@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "demon girl"
-work_count: 3
+work_count: 4
 works:
+  - title: Cinderella Fit
+    author: shirosuzu
+    cover: /covers/661596.jpg
+    rating: 4.1
+    date: '2026-07-06'
+    code: 661596
+    url: /works/661596/
   - title: Miya-chan no Kyuuin Life! - Chapter 12
     author: furumoto-takeru
     cover: /covers/664766.jpg

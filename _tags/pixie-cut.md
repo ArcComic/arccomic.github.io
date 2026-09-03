@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "pixie cut"
-work_count: 17
+work_count: 24
 works:
   - title: Doushia (Terasu MC)] Dorei Gazoku
     author: terasu-mc
@@ -10,6 +10,20 @@ works:
     date: '2026-07-15'
     code: 427676
     url: /works/427676/
+  - title: When My Friend Became a Tomboy
+    author: rudy-saki
+    cover: /covers/428415.jpg
+    rating: 4.8
+    date: '2026-05-03'
+    code: 428415
+    url: /works/428415/
+  - title: Sukina Hito, Sukina Koto
+    author: ebi-fry-teishoku
+    cover: /covers/452482.jpg
+    rating: 4.8
+    date: '2026-04-27'
+    code: 452482
+    url: /works/452482/
   - title: Gibo-san wa Boku no Mono 7
     author: c-kyuu
     cover: /covers/511503.jpg
@@ -53,6 +67,34 @@ works:
     date: '2026-08-24'
     code: 642586
     url: /works/642586/
+  - title: Riho NTR ~Ordered By My Husband to Get Fucked By His Colleague~
+    author: yamamoto-tomomitsu
+    cover: /covers/647620.jpg
+    rating: 4.4
+    date: '2026-05-03'
+    code: 647620
+    url: /works/647620/
+  - title: Good Teachers
+    author: nodo
+    cover: /covers/648310.jpg
+    rating: 4.9
+    date: '2026-05-07'
+    code: 648310
+    url: /works/648310/
+  - title: Cool-kei Dansou Onna ni Kanojo Netorareta kara, Wakarasete Yatta 2
+    author: kurukuru
+    cover: /covers/651338.jpg
+    rating: 4.1
+    date: '2026-05-20'
+    code: 651338
+    url: /works/651338/
+  - title: My Impertinent and Curt Kouhai Becomes Surprisingly Clingy???
+    author: buki
+    cover: /covers/652667.jpg
+    rating: 4.4
+    date: '2026-05-26'
+    code: 652667
+    url: /works/652667/
   - title: Senpai to no Ecchi na Douga de Kasegu Hanashi | The Story of Earning Money
       with a Video of Steamy French Kissing with my Senpai
     author: mmchair
@@ -61,6 +103,14 @@ works:
     date: '2026-08-22'
     code: 652912
     url: /works/652912/
+  - title: Onna Tomodachi to Omotteitara Mesu Deshita | I Thought She Was Just a Friend,
+      Turned Out She Was a Woman
+    author: ippan-seijin
+    cover: /covers/660869.jpg
+    rating: 4.4
+    date: '2026-07-05'
+    code: 660869
+    url: /works/660869/
   - title: Roshutsukyou no Hitozuma, Get daze! | Yeah! I Caught An Exhibitionist Wife!!
     author: oberon
     cover: /covers/663194.jpg

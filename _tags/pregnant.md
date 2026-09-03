@@ -1,8 +1,16 @@
 ---
 layout: tag
 tag_name: "pregnant"
-work_count: 7
+work_count: 14
 works:
+  - title: Kaa-san to Shitai Koto ~ Zetsurin Musuko to no Seikatsu Kaisou Hen | What
+      I want to do with My Mother ~ Sex Life with My Son Who Has...
+    author: saimon-k
+    cover: /covers/543358.jpg
+    rating: 4.6
+    date: '2026-05-05'
+    code: 543358
+    url: /works/543358/
   - title: Jinsei Hametsu JC ~Watashi no Jinsei, Doushite Kounacchattan daro?~ | Middle
       Schooler's Life Ruined - How Did My Life Turn Out Like This [English] =TB=
     author: circle-hitori
@@ -11,6 +19,13 @@ works:
     date: '2026-07-17'
     code: 545823
     url: /works/545823/
+  - title: Tawawa de Akarui Yakyuubu Manager ga Inshitsu na Kyoushi no Wana ni... Kanketsuhen
+    author: ohkura-kazuya
+    cover: /covers/566052.jpg
+    rating: 4.7
+    date: '2026-04-30'
+    code: 566052
+    url: /works/566052/
   - title: Metamorphosis
     author: shindol
     cover: /covers/616358.jpg
@@ -18,6 +33,43 @@ works:
     date: '2026-07-15'
     code: 616358
     url: /works/616358/
+  - title: Breeding Mother 1-4
+    author: saimon-k
+    cover: /covers/638218.jpg
+    rating: 4.4
+    date: '2026-05-05'
+    code: 638218
+    url: /works/638218/
+  - title: Mitsuha ~Netorare~ 10 (Your Name After Story) True Ending
+    author: syukurin
+    cover: /covers/643592.jpg
+    rating: 4.0
+    date: '2026-04-27'
+    code: 643592
+    url: /works/643592/
+  - title: Riho NTR ~Ordered By My Husband to Get Fucked By His Colleague~
+    author: yamamoto-tomomitsu
+    cover: /covers/647620.jpg
+    rating: 4.4
+    date: '2026-05-03'
+    code: 647620
+    url: /works/647620/
+  - title: Imouto Haramasenai to Derarenai Shima 2 | You Must Breed Your Sister to Leave
+      This Island 2!
+    author: airandou
+    cover: /covers/648414.jpg
+    rating: 4.2
+    date: '2026-05-07'
+    code: 648414
+    url: /works/648414/
+  - title: Love wa Gal kara Hajimaru Unmei | Love is a Destiny That Begins with a Gal
+      ch.1-5
+    author: nusmusbim
+    cover: /covers/661909.jpg
+    rating: 4.1
+    date: '2026-07-07'
+    code: 661909
+    url: /works/661909/
   - title: 'Seifukusha ~Yami ni Ochiru Hitozuma-tachi~ | Sexploiter: Housewives Falling
       Into Darkness'
     author: hoshino-ryuichi

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "females only"
-work_count: 12
+work_count: 16
 works:
   - title: Walking back home in the winter with my childhood friend
     author: shimetsuki-tanki
@@ -19,6 +19,34 @@ works:
     date: '2026-07-11'
     code: 617492
     url: /works/617492/
+  - title: Houchiko Hirotte LesSe Suru
+    author: unknown
+    cover: /covers/646967.jpg
+    rating: 4.2
+    date: '2026-04-30'
+    code: 646967
+    url: /works/646967/
+  - title: VR nara Nandemo Ari Jan!
+    author: odoru-london
+    cover: /covers/648334.jpg
+    rating: 4.6
+    date: '2026-05-07'
+    code: 648334
+    url: /works/648334/
+  - title: Yuri Fetish Life Ch. 2
+    author: tateyama-keita
+    cover: /covers/648495.jpg
+    rating: 4.8
+    date: '2026-05-07'
+    code: 648495
+    url: /works/648495/
+  - title: 1R, Futari, 365 Nichi | 1 Room, 2 People, 365 Days
+    author: unknown
+    cover: /covers/661855.jpg
+    rating: 4.8
+    date: '2026-07-07'
+    code: 661855
+    url: /works/661855/
   - title: Yu-chan wa Pantsu o Shishu shitai! | Yu-chan Wants to Protect Her Panties
       at All Costs!
     author: meoppap

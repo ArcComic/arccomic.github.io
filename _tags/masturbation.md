@@ -1,8 +1,29 @@
 ---
 layout: tag
 tag_name: "masturbation"
-work_count: 26
+work_count: 42
 works:
+  - title: Itomusubi Vol. 2
+    author: bekotarou
+    cover: /covers/311755.jpg
+    rating: 5.0
+    date: '2026-05-10'
+    code: 311755
+    url: /works/311755/
+  - title: Mukuchi na Tosho Iin to Sex Zuke.
+    author: yuzuha
+    cover: /covers/321298.jpg
+    rating: 4.7
+    date: '2026-07-07'
+    code: 321298
+    url: /works/321298/
+  - title: Seiten no Hekireki | TS Thunderclap
+    author: regdic
+    cover: /covers/415057.jpg
+    rating: 4.5
+    date: '2026-05-03'
+    code: 415057
+    url: /works/415057/
   - title: Bocchi de Shinda Ore ga Bishoujo Nurse ni Natta Hanashi | The Story of How
       I Died Alone and Became a Sexy Nurse
     author: testame
@@ -11,6 +32,13 @@ works:
     date: '2026-08-31'
     code: 494172
     url: /works/494172/
+  - title: Little Blue Bird
+    author: kidouchi-kon
+    cover: /covers/508534.jpg
+    rating: 4.9
+    date: '2026-05-01'
+    code: 508534
+    url: /works/508534/
   - title: My Friends Mom Is My Toy
     author: exit-up
     cover: /covers/521812.jpg
@@ -27,6 +55,13 @@ works:
     date: '2026-08-29'
     code: 534388
     url: /works/534388/
+  - title: Nakayoku no Yu e Youkoso Ch. 2 & 3
+    author: enomoto-heights
+    cover: /covers/555849.jpg
+    rating: 4.5
+    date: '2026-04-30'
+    code: 555849
+    url: /works/555849/
   - title: Hayato-sensei no Mesu-ka Karute Daigaku-hen | Dr. Hayato's Feminization Medical
       Record ~University Edition~
     author: testame
@@ -50,6 +85,20 @@ works:
     date: '2026-07-13'
     code: 565301
     url: /works/565301/
+  - title: Madamada, Shitemitai. - I still want to try.
+    author: danimaru
+    cover: /covers/586028.jpg
+    rating: 4.2
+    date: '2026-04-27'
+    code: 586028
+    url: /works/586028/
+  - title: Mesu no Ie II ~Tsuma wa Midare Ubareru~
+    author: ame-arare
+    cover: /covers/591112.jpg
+    rating: 4.3
+    date: '2026-05-01'
+    code: 591112
+    url: /works/591112/
   - title: Yuujin no Haha wa Dekachin ni Yowai | My Friend's Mom is Weak to a Huge Cock
     author: shimofuri
     cover: /covers/593575.jpg
@@ -57,6 +106,14 @@ works:
     date: '2026-08-21'
     code: 593575
     url: /works/593575/
+  - title: Houkai Kazoku 2 -Hahaoya ga Yakuza to no Sex ni Hamatta Hanashi- | Broken
+      Family 2 - The story of a mother who got hooked on sex with the Yakuza
+    author: watsondou
+    cover: /covers/596598.jpg
+    rating: 5.0
+    date: '2026-05-07'
+    code: 596598
+    url: /works/596598/
   - title: Caught in the Act
     author: unknown
     cover: /covers/617511.jpg
@@ -64,6 +121,65 @@ works:
     date: '2026-07-16'
     code: 617511
     url: /works/617511/
+  - title: Breeding Mother 1-4
+    author: saimon-k
+    cover: /covers/638218.jpg
+    rating: 4.4
+    date: '2026-05-05'
+    code: 638218
+    url: /works/638218/
+  - title: Venom Invasion VII 【Part 1】
+    author: blackftos
+    cover: /covers/647563.jpg
+    rating: 4.9
+    date: '2026-05-03'
+    code: 647563
+    url: /works/647563/
+  - title: If I Have a Chance, I Want to Warp My Boyfriend's Fetishes!
+    author: meeko
+    cover: /covers/647619.jpg
+    rating: 4.6
+    date: '2026-05-03'
+    code: 647619
+    url: /works/647619/
+  - title: Trop 1 ~ Onabare Hitozuma no Sango Shojo o Itadakimasu~ | Trop 1 ~ I'll Take
+      the Post-Birth Virginity of a Married Woman Whose Masturbation Was Exposed~
+    author: higashide-irodori
+    cover: /covers/648952.jpg
+    rating: 4.4
+    date: '2026-05-10'
+    code: 648952
+    url: /works/648952/
+  - title: Murasaki no Shoumei ~Kuroi Muchuu~ | Purple Illumination ~Dark Trance~
+    author: '3104'
+    cover: /covers/660867.jpg
+    rating: 4.1
+    date: '2026-07-06'
+    code: 660867
+    url: /works/660867/
+  - title: Onna Tomodachi to Omotteitara Mesu Deshita | I Thought She Was Just a Friend,
+      Turned Out She Was a Woman
+    author: ippan-seijin
+    cover: /covers/660869.jpg
+    rating: 4.4
+    date: '2026-07-05'
+    code: 660869
+    url: /works/660869/
+  - title: Ane to Otouto wa 30-Nichi go ni Sex Suru. | The Big Sister and Her Little
+      Brother Will Have Sex in 30 Days
+    author: shamidou-maichimonji
+    cover: /covers/661139.jpg
+    rating: 4.3
+    date: '2026-07-05'
+    code: 661139
+    url: /works/661139/
+  - title: Himote no Boku ni Konna Sasoi Kotowareru Hazu ga Nai
+    author: untue
+    cover: /covers/661816.jpg
+    rating: 4.9
+    date: '2026-07-07'
+    code: 661816
+    url: /works/661816/
   - title: Boshi Jouji ~Daisuki na Okaa-san to Konya Majiwaru~ - MOTHER AND SON LOVE
       AFFAIR | A Mother's Love ~Tonight I Become One With The Mom I Love~ Part 2
     author: shiono-kou

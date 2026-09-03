@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "exhibitionism"
-work_count: 14
+work_count: 27
 works:
+  - title: Ame no Hi wa, Honnori Chikubi
+    author: hoshi-to-lucky
+    cover: /covers/484860.jpg
+    rating: 4.9
+    date: '2026-05-04'
+    code: 484860
+    url: /works/484860/
   - title: Niizuma Nanaka no Roshutsu Satsuei
     author: fukurou-naru-tori
     cover: /covers/520363.jpg
@@ -25,6 +32,14 @@ works:
     date: '2026-07-13'
     code: 598010
     url: /works/598010/
+  - title: Onna Shachou to Koibito ni Naru Houhou | How To Become Lover's With A Female
+      CEO
+    author: fan
+    cover: /covers/600237.jpg
+    rating: 4.3
+    date: '2026-05-20'
+    code: 600237
+    url: /works/600237/
   - title: Tomodachi ga Tsuretekita Oba-san 1
     author: exit-up
     cover: /covers/615538.jpg
@@ -47,6 +62,80 @@ works:
     date: '2026-07-13'
     code: 639514
     url: /works/639514/
+  - title: Netorareta Kanojo ga Joou-sama ni natte Kaettekita ~Ruined de Kintama o Kara
+      ni sarete Zenritsusen o Ijirarete Nandomo Nandomo Mesuikishite Choukyou sareru
+      Ohanashi~
+    author: sankaku-noel
+    cover: /covers/647608.jpg
+    rating: 4.6
+    date: '2026-05-03'
+    code: 647608
+    url: /works/647608/
+  - title: Good Teachers
+    author: nodo
+    cover: /covers/648310.jpg
+    rating: 4.9
+    date: '2026-05-07'
+    code: 648310
+    url: /works/648310/
+  - title: Imouto Haramasenai to Derarenai Shima 2 | You Must Breed Your Sister to Leave
+      This Island 2!
+    author: airandou
+    cover: /covers/648414.jpg
+    rating: 4.2
+    date: '2026-05-07'
+    code: 648414
+    url: /works/648414/
+  - title: Kawaii Kanojo ni Goyoujin!? 2 | Beware of Cute Girlfriends! 2
+    author: marialite
+    cover: /covers/649111.jpg
+    rating: 4.8
+    date: '2026-05-10'
+    code: 649111
+    url: /works/649111/
+  - title: Ally-san wa Doko Demo Ikitai!! 3
+    author: inukami-inoji
+    cover: /covers/650926.jpg
+    rating: 4.9
+    date: '2026-05-20'
+    code: 650926
+    url: /works/650926/
+  - title: Cool-kei Dansou Onna ni Kanojo Netorareta kara, Wakarasete Yatta 2
+    author: kurukuru
+    cover: /covers/651338.jpg
+    rating: 4.1
+    date: '2026-05-20'
+    code: 651338
+    url: /works/651338/
+  - title: Kyonyiu kanojo ni hitasura shibori toraremakuru hanashi | Squeeze Until Empty
+    author: fuguta-ke
+    cover: /covers/651343.jpg
+    rating: 4.3
+    date: '2026-05-20'
+    code: 651343
+    url: /works/651343/
+  - title: Boku no kanojo | My Girlfriend
+    author: fuguta-ke
+    cover: /covers/651346.jpg
+    rating: 4.3
+    date: '2026-05-20'
+    code: 651346
+    url: /works/651346/
+  - title: Kyonyuu Kanojo ni Hitasura Shibori Toraremakuru Hanashi | Squeeze Until Empty
+    author: fuguta-ke
+    cover: /covers/652218.jpg
+    rating: 4.8
+    date: '2026-05-26'
+    code: 652218
+    url: /works/652218/
+  - title: Kyonyuu no Tomodachi to Tsukiau made no Hanashi | Maybe We'll Start Dating
+      Someday
+    author: fuguta-ke
+    cover: /covers/652244.jpg
+    rating: 5.0
+    date: '2026-05-26'
+    code: 652244
+    url: /works/652244/
   - title: Majime na Salaryman ga JK Chijo ni Otosareru Hanashi
     author: hamo
     cover: /covers/652651.jpg
@@ -54,6 +143,13 @@ works:
     date: '2026-08-28'
     code: 652651
     url: /works/652651/
+  - title: Gibo o , Densha de ... | My Stepmother on The Train...
+    author: gonza
+    cover: /covers/652801.jpg
+    rating: 4.4
+    date: '2026-05-27'
+    code: 652801
+    url: /works/652801/
   - title: Josou Gyakunan Debusen Ketsuhame Tokoroten
     author: bonske
     cover: /covers/656753.jpg

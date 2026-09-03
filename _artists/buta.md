@@ -1,7 +1,7 @@
 ---
 layout: artist
 artist_name: "buta"
-work_count: 4
+work_count: 5
 works:
   - title: Kanojo no Kawaii Mieppari | My Cute Gyaru Girlfriend Is a Total Poser
     cover: /covers/441114.jpg
@@ -15,6 +15,12 @@ works:
     date: '2026-08-23'
     code: 531967
     url: /works/531967/
+  - title: Boku no Toshiue no Tomodachi | My Older Friend
+    cover: /covers/631036.jpg
+    rating: 4.4
+    date: '2026-05-26'
+    code: 631036
+    url: /works/631036/
   - title: BUTA - 『You did a great job』
     cover: /covers/639772.jpg
     rating: 4.1

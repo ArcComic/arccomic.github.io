@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "stockings"
-work_count: 49
+work_count: 69
 works:
   - title: HUNDRED GAME Ch. 1-3
     author: kuon-michiyoshi
@@ -18,6 +18,13 @@ works:
     date: '2026-07-17'
     code: 289523
     url: /works/289523/
+  - title: Itomusubi Vol. 2
+    author: bekotarou
+    cover: /covers/311755.jpg
+    rating: 5.0
+    date: '2026-05-10'
+    code: 311755
+    url: /works/311755/
   - title: CHOCO x LOVE
     author: highlow
     cover: /covers/317673.jpg
@@ -46,6 +53,13 @@ works:
     date: '2026-07-11'
     code: 501709
     url: /works/501709/
+  - title: 1 Once iku goto ni penalty 1 manen oshioki papakatsu jyoshi
+    author: crimson
+    cover: /covers/503556.jpg
+    rating: 4.2
+    date: '2026-04-27'
+    code: 503556
+    url: /works/503556/
   - title: Bitch Mama no Kekkon Riyuu
     author: aoyama-akira
     cover: /covers/512473.jpg
@@ -60,6 +74,13 @@ works:
     date: '2026-07-16'
     code: 530476
     url: /works/530476/
+  - title: Mother's Scent 1-4
+    author: midnight
+    cover: /covers/532417.jpg
+    rating: 4.2
+    date: '2026-05-26'
+    code: 532417
+    url: /works/532417/
   - title: Jinsei Hametsu JC ~Watashi no Jinsei, Doushite Kounacchattan daro?~ | Middle
       Schooler's Life Ruined - How Did My Life Turn Out Like This [English] =TB=
     author: circle-hitori
@@ -75,6 +96,13 @@ works:
     date: '2026-08-31'
     code: 550359
     url: /works/550359/
+  - title: Tawawa de Akarui Yakyuubu Manager ga Inshitsu na Kyoushi no Wana ni... Kanketsuhen
+    author: ohkura-kazuya
+    cover: /covers/566052.jpg
+    rating: 4.7
+    date: '2026-04-30'
+    code: 566052
+    url: /works/566052/
   - title: Ore ga Hoshikatta Mono wa Kin Medal Yori Namami Onaho Datta no Kamoshirenai｜Maybe
       what I Wanted was a Flesh and Blood Masturbator Rather than a Gold Medal
     author: carburetor
@@ -98,6 +126,13 @@ works:
     date: '2026-07-16'
     code: 605410
     url: /works/605410/
+  - title: Hitoban Tomete yo, Otaku-kun | Let Me Stay For the Night, Otaku-kun
+    author: danimaru
+    cover: /covers/606166.jpg
+    rating: 4.7
+    date: '2026-04-27'
+    code: 606166
+    url: /works/606166/
   - title: Sono Gal Mama wa Koubi Suru | This Gyaru Mom is Having Sex.
     author: ameto-yuki
     cover: /covers/608648.jpg
@@ -134,6 +169,35 @@ works:
     date: '2026-08-24'
     code: 642585
     url: /works/642585/
+  - title: Mitsuha ~Netorare~ 10 (Your Name After Story) True Ending
+    author: syukurin
+    cover: /covers/643592.jpg
+    rating: 4.0
+    date: '2026-04-27'
+    code: 643592
+    url: /works/643592/
+  - title: 'Library Girlfriend: Descent into Depravity'
+    author: ame-arare
+    cover: /covers/647334.jpg
+    rating: 4.6
+    date: '2026-05-01'
+    code: 647334
+    url: /works/647334/
+  - title: Imouto Haramasenai to Derarenai Shima 2 | You Must Breed Your Sister to Leave
+      This Island 2!
+    author: airandou
+    cover: /covers/648414.jpg
+    rating: 4.2
+    date: '2026-05-07'
+    code: 648414
+    url: /works/648414/
+  - title: Half Gimai to no Amai Nichijou to Noumitsu Sex 3
+    author: sanbalkin
+    cover: /covers/648460.jpg
+    rating: 4.9
+    date: '2026-05-07'
+    code: 648460
+    url: /works/648460/
   - title: Shirayuki Mishiro & Enomiya Milk Saimin Sakunyuu Play Hon Matome
     author: rurimaru
     cover: /covers/648800.jpg
@@ -141,6 +205,57 @@ works:
     date: '2026-07-13'
     code: 648800
     url: /works/648800/
+  - title: Kawaii Kanojo ni Goyoujin!? 2 | Beware of Cute Girlfriends! 2
+    author: marialite
+    cover: /covers/649111.jpg
+    rating: 4.8
+    date: '2026-05-10'
+    code: 649111
+    url: /works/649111/
+  - title: Oshiego no Gal o Kau
+    author: mitsudoue
+    cover: /covers/651197.jpg
+    rating: 4.0
+    date: '2026-05-20'
+    code: 651197
+    url: /works/651197/
+  - title: 'Namaiki Gal o Succubus ni Shite Oshioki Shitatta Ken 4  | Turning a Bratty
+      Gal into a Succubus for Punishment #4'
+    author: takurowo
+    cover: /covers/651303.jpg
+    rating: 4.5
+    date: '2026-05-20'
+    code: 651303
+    url: /works/651303/
+  - title: Cool-kei Dansou Onna ni Kanojo Netorareta kara, Wakarasete Yatta 2
+    author: kurukuru
+    cover: /covers/651338.jpg
+    rating: 4.1
+    date: '2026-05-20'
+    code: 651338
+    url: /works/651338/
+  - title: Kyonyuu Kanojo ni Hitasura Shibori Toraremakuru Hanashi | Squeeze Until Empty
+    author: fuguta-ke
+    cover: /covers/652218.jpg
+    rating: 4.8
+    date: '2026-05-26'
+    code: 652218
+    url: /works/652218/
+  - title: Muchi Muchi Tennen Joshidaisei no Dosukebe Jorei Taikenroku | The Chunky,
+      Defenseless, Airheaded University Girl Get's A Crash Course In Perverted Exorcisms!
+    author: inamimi
+    cover: /covers/652471.jpg
+    rating: 4.1
+    date: '2026-05-26'
+    code: 652471
+    url: /works/652471/
+  - title: Gibo o , Densha de ... | My Stepmother on The Train...
+    author: gonza
+    cover: /covers/652801.jpg
+    rating: 4.4
+    date: '2026-05-27'
+    code: 652801
+    url: /works/652801/
   - title: Josou Gyakunan Debusen Ketsuhame Tokoroten
     author: bonske
     cover: /covers/656753.jpg
@@ -155,6 +270,28 @@ works:
     date: '2026-08-24'
     code: 659164
     url: /works/659164/
+  - title: Himote no Boku ni Konna Sasoi Kotowareru Hazu ga Nai
+    author: untue
+    cover: /covers/661816.jpg
+    rating: 4.9
+    date: '2026-07-07'
+    code: 661816
+    url: /works/661816/
+  - title: Konoka Press Ch. 7
+    author: ryoh-zoh
+    cover: /covers/661817.jpg
+    rating: 4.8
+    date: '2026-07-07'
+    code: 661817
+    url: /works/661817/
+  - title: Love wa Gal kara Hajimaru Unmei | Love is a Destiny That Begins with a Gal
+      ch.1-5
+    author: nusmusbim
+    cover: /covers/661909.jpg
+    rating: 4.1
+    date: '2026-07-07'
+    code: 661909
+    url: /works/661909/
   - title: Jinin ’Futsuu’ Dekachichi Inkya J◯ no Maso Mesu ga Nagga〜i Chinpo de Shuuryou
       Made♡
     author: amrita
@@ -163,6 +300,14 @@ works:
     date: '2026-07-09'
     code: 661954
     url: /works/661954/
+  - title: Kasshoku Oneesan no Fudeoroshi Ver. 6 | Brown Lady Takes His First Time Ver.
+      6
+    author: ahugan-sugita
+    cover: /covers/662114.jpg
+    rating: 4.7
+    date: '2026-07-07'
+    code: 662114
+    url: /works/662114/
   - title: Yu-chan wa Pantsu o Shishu shitai! | Yu-chan Wants to Protect Her Panties
       at All Costs!
     author: meoppap

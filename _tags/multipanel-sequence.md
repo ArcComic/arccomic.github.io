@@ -1,8 +1,23 @@
 ---
 layout: tag
 tag_name: "multipanel sequence"
-work_count: 3
+work_count: 7
 works:
+  - title: Onee-chan ga Ecchi na Koto bakka Suru kara... | My older sister only does
+      obscene things...
+    author: danimaru
+    cover: /covers/337171.jpg
+    rating: 4.5
+    date: '2026-04-27'
+    code: 337171
+    url: /works/337171/
+  - title: Sukina Hito, Sukina Koto
+    author: ebi-fry-teishoku
+    cover: /covers/452482.jpg
+    rating: 4.8
+    date: '2026-04-27'
+    code: 452482
+    url: /works/452482/
   - title: Youka-go Tsuma no Haha o Daku | Eight Days With My Wife's Mother
     author: jagaimo
     cover: /covers/534808.jpg
@@ -18,6 +33,22 @@ works:
     date: '2026-07-11'
     code: 538553
     url: /works/538553/
+  - title: 'Taihai Tsuma: Taihaikei Hitotsuma o Yachin Kawari ni Koki Tsukaeru Hanashi
+      | Slutty Wife!'
+    author: kametaro
+    cover: /covers/629368.jpg
+    rating: 4.4
+    date: '2026-04-30'
+    code: 629368
+    url: /works/629368/
+  - title: Imouto Haramasenai to Derarenai Shima 2 | You Must Breed Your Sister to Leave
+      This Island 2!
+    author: airandou
+    cover: /covers/648414.jpg
+    rating: 4.2
+    date: '2026-05-07'
+    code: 648414
+    url: /works/648414/
   - title: Nuite Moraimakuri Nyuuin Seikatsu ~Tasuketa Cool-Gyaru wa Jitsu wa Sukebe
       deshita~
     author: gujira

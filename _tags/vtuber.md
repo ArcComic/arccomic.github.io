@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "vtuber"
-work_count: 7
+work_count: 8
 works:
   - title: Anata no Shiori ni Naritai - I Just Want To Be Your Shiori
     author: naokomama
@@ -31,6 +31,13 @@ works:
     date: '2026-07-13'
     code: 648800
     url: /works/648800/
+  - title: vtUber Eats
+    author: kame-burning
+    cover: /covers/649107.jpg
+    rating: 4.3
+    date: '2026-05-10'
+    code: 649107
+    url: /works/649107/
   - title: Erolive Shiori Novella
     author: doji
     cover: /covers/664590.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "makeup"
-work_count: 5
+work_count: 7
 works:
   - title: Kanojo no Kawaii Mieppari | My Cute Gyaru Girlfriend Is a Total Poser
     author: buta
@@ -17,6 +17,21 @@ works:
     date: '2026-08-23'
     code: 531967
     url: /works/531967/
+  - title: Meshitaki san-nen, nigiri ichi-nen | Three Years to Master Rice, One Year
+      to Master Nigiri
+    author: polier
+    cover: /covers/583391.jpg
+    rating: 4.6
+    date: '2026-07-07'
+    code: 583391
+    url: /works/583391/
+  - title: Boku no Toshiue no Tomodachi | My Older Friend
+    author: buta
+    cover: /covers/631036.jpg
+    rating: 4.4
+    date: '2026-05-26'
+    code: 631036
+    url: /works/631036/
   - title: How the Gloomy Me Took Charge of my Own Life by Becoming a Hostess
     author: shikabanekamo
     cover: /covers/656419.jpg

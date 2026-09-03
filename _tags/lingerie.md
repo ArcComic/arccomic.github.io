@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "lingerie"
-work_count: 14
+work_count: 23
 works:
+  - title: My Care Lady Ch. 1
+    author: sugi-g
+    cover: /covers/139537.jpg
+    rating: 4.7
+    date: '2026-04-27'
+    code: 139537
+    url: /works/139537/
   - title: CHOCO x LOVE
     author: highlow
     cover: /covers/317673.jpg
@@ -17,6 +24,20 @@ works:
     date: '2026-07-17'
     code: 477784
     url: /works/477784/
+  - title: Mother's Scent 1-4
+    author: midnight
+    cover: /covers/532417.jpg
+    rating: 4.2
+    date: '2026-05-26'
+    code: 532417
+    url: /works/532417/
+  - title: Oshioki no Jikan - Punishment time
+    author: syoukaki
+    cover: /covers/540125.jpg
+    rating: 4.1
+    date: '2026-05-10'
+    code: 540125
+    url: /works/540125/
   - title: Hayato-sensei no Mesu-ka Karute Daigaku-hen | Dr. Hayato's Feminization Medical
       Record ~University Edition~
     author: testame
@@ -25,6 +46,14 @@ works:
     date: '2026-08-31'
     code: 556767
     url: /works/556767/
+  - title: Boku no Kaa-chan ga Hikikomori Neet Debu Aniki no Seishori Onaho ni Natteita
+      Hanashi | My Mother is My Fat Shut-in Older NEET Brother's Sex Relief Onahole
+    author: tarobaumu
+    cover: /covers/578147.jpg
+    rating: 4.3
+    date: '2026-05-05'
+    code: 578147
+    url: /works/578147/
   - title: Sono Gal Mama wa Koubi Suru | This Gyaru Mom is Having Sex.
     author: ameto-yuki
     cover: /covers/608648.jpg
@@ -32,6 +61,14 @@ works:
     date: '2026-08-25'
     code: 608648
     url: /works/608648/
+  - title: Igumox - Muramata-san no Himitsu & Aijou - Muramata-san's Secret & Affection
+      COMPLETE
+    author: igumox
+    cover: /covers/624573.jpg
+    rating: 4.2
+    date: '2026-05-26'
+    code: 624573
+    url: /works/624573/
   - title: The Story of Becoming the Husband of a Rich, Yandere Daughter
     author: kaisendoh
     cover: /covers/638178.jpg
@@ -39,6 +76,27 @@ works:
     date: '2026-08-19'
     code: 638178
     url: /works/638178/
+  - title: If I Have a Chance, I Want to Warp My Boyfriend's Fetishes!
+    author: meeko
+    cover: /covers/647619.jpg
+    rating: 4.6
+    date: '2026-05-03'
+    code: 647619
+    url: /works/647619/
+  - title: Amanatsu - Sweet Rainy Girly Summer
+    author: sugaishi
+    cover: /covers/647740.jpg
+    rating: 4.3
+    date: '2026-05-04'
+    code: 647740
+    url: /works/647740/
+  - title: REMIND ME & Beautiful Days Without You
+    author: 3e
+    cover: /covers/652639.jpg
+    rating: 4.8
+    date: '2026-05-26'
+    code: 652639
+    url: /works/652639/
   - title: Josou Gyakunan Debusen Ketsuhame Tokoroten
     author: bonske
     cover: /covers/656753.jpg
@@ -46,6 +104,14 @@ works:
     date: '2026-07-09'
     code: 656753
     url: /works/656753/
+  - title: Kasshoku Oneesan no Fudeoroshi Ver. 6 | Brown Lady Takes His First Time Ver.
+      6
+    author: ahugan-sugita
+    cover: /covers/662114.jpg
+    rating: 4.7
+    date: '2026-07-07'
+    code: 662114
+    url: /works/662114/
   - title: Seiyoku Tsuyosugi GalKano Mama
     author: naporitan
     cover: /covers/662525.jpg

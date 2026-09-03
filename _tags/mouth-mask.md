@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "mouth mask"
-work_count: 7
+work_count: 9
 works:
   - title: Imouto Oppai de Sukusuku Seikatsu
     author: asaomi-shimura
@@ -17,6 +17,21 @@ works:
     date: '2026-07-13'
     code: 648800
     url: /works/648800/
+  - title: Haijoku Underground
+    author: dpc-deinoji
+    cover: /covers/649068.jpg
+    rating: 4.2
+    date: '2026-05-10'
+    code: 649068
+    url: /works/649068/
+  - title: Love wa Gal kara Hajimaru Unmei | Love is a Destiny That Begins with a Gal
+      ch.1-5
+    author: nusmusbim
+    cover: /covers/661909.jpg
+    rating: 4.1
+    date: '2026-07-07'
+    code: 661909
+    url: /works/661909/
   - title: Jinin ’Futsuu’ Dekachichi Inkya J◯ no Maso Mesu ga Nagga〜i Chinpo de Shuuryou
       Made♡
     author: amrita

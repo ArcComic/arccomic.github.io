@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "gag"
-work_count: 7
+work_count: 9
 works:
   - title: FORBIDDEN RAIN KOBO KANAERU 2
     author: clef
@@ -10,6 +10,21 @@ works:
     date: '2026-07-16'
     code: 637709
     url: /works/637709/
+  - title: Anal Toilet Training
+    author: goma-gorilla
+    cover: /covers/647315.jpg
+    rating: 4.1
+    date: '2026-05-01'
+    code: 647315
+    url: /works/647315/
+  - title: Shinyuu Tatakitsubushi Kyousou Shiiku Seikatsu | A Life in Captivity The
+      Competition to Break My Best Friend
+    author: group
+    cover: /covers/661586.jpg
+    rating: 4.5
+    date: '2026-07-06'
+    code: 661586
+    url: /works/661586/
   - title: Metal Girl Ie Onanie
     author: ishimura-ishimiso
     cover: /covers/663142.jpg

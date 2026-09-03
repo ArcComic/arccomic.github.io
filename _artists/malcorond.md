@@ -1,8 +1,27 @@
 ---
 layout: artist
 artist_name: "malcorond"
-work_count: 3
+work_count: 6
 works:
+  - title: Atashi ga Nuite Ageyo kka?
+    cover: /covers/547250.jpg
+    rating: 4.1
+    date: '2026-07-07'
+    code: 547250
+    url: /works/547250/
+  - title: Seishidouin no Oshigoto Soushuuhen1 | Sex Instructor Compilation Vol. 1
+    cover: /covers/653978.jpg
+    rating: 4.8
+    date: '2026-07-07'
+    code: 653978
+    url: /works/653978/
+  - title: Seishidouin no Oshigoto 4 Kohen Rippana Benki ni Sodatta node Daimanzoku
+      de Shidou wo Oeta + C101 Omake
+    cover: /covers/661951.jpg
+    rating: 4.5
+    date: '2026-07-07'
+    code: 661951
+    url: /works/661951/
   - title: Meikko na Syoujo no Ehon 3
     cover: /covers/676181.jpg
     rating: 4.5

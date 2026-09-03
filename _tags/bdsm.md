@@ -1,8 +1,16 @@
 ---
 layout: tag
 tag_name: "bdsm"
-work_count: 4
+work_count: 9
 works:
+  - title: Boku no Kaa-chan ga Hikikomori Neet Debu Aniki no Seishori Onaho ni Natteita
+      Hanashi | My Mother is My Fat Shut-in Older NEET Brother's Sex Relief Onahole
+    author: tarobaumu
+    cover: /covers/578147.jpg
+    rating: 4.3
+    date: '2026-05-05'
+    code: 578147
+    url: /works/578147/
   - title: FORBIDDEN RAIN KOBO KANAERU 2
     author: clef
     cover: /covers/637709.jpg
@@ -10,6 +18,38 @@ works:
     date: '2026-07-16'
     code: 637709
     url: /works/637709/
+  - title: Netorareta Kanojo ga Joou-sama ni natte Kaettekita ~Ruined de Kintama o Kara
+      ni sarete Zenritsusen o Ijirarete Nandomo Nandomo Mesuikishite Choukyou sareru
+      Ohanashi~
+    author: sankaku-noel
+    cover: /covers/647608.jpg
+    rating: 4.6
+    date: '2026-05-03'
+    code: 647608
+    url: /works/647608/
+  - title: You're My Doggy... Right? ~Pamper Loving Boyfriend Becomes A Wild Sadist
+      Hound~
+    author: the-waidan
+    cover: /covers/649029.jpg
+    rating: 4.9
+    date: '2026-05-10'
+    code: 649029
+    url: /works/649029/
+  - title: M Ko
+    author: takaku-tubby-shirono-mahiro
+    cover: /covers/651489.jpg
+    rating: 4.4
+    date: '2026-05-21'
+    code: 651489
+    url: /works/651489/
+  - title: Shinyuu Tatakitsubushi Kyousou Shiiku Seikatsu | A Life in Captivity The
+      Competition to Break My Best Friend
+    author: group
+    cover: /covers/661586.jpg
+    rating: 4.5
+    date: '2026-07-06'
+    code: 661586
+    url: /works/661586/
   - title: Inuzuka-san and her Unusual Hobbies
     author: carpsukidayo
     cover: /covers/664022.jpg

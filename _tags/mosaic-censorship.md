@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "mosaic censorship"
-work_count: 79
+work_count: 98
 works:
   - title: Yuri no o saifu ni shite agemasu ne, Senpai | I'll turn you into Yuri's wallet,
       Senpai
@@ -34,6 +34,15 @@ works:
     date: '2026-08-23'
     code: 375962
     url: /works/375962/
+  - title: 'Kouen no Bench ni Suwatteru Kirei na Onee-san ga Boku ni "Ochinchin o Misete"
+      to Itte Kuru no de... | A Pretty Onee-San, that''s sitting on a Bench in the Park...suddenly
+      says to Me: [Show Me Your Dick].'
+    author: ohkura-kazuya
+    cover: /covers/392475.jpg
+    rating: 4.3
+    date: '2026-04-30'
+    code: 392475
+    url: /works/392475/
   - title: Shiraishi-san Wa Yokkyu Fuman | Shiraishi-san's Frustrated
     author: carburetor
     cover: /covers/392617.jpg
@@ -85,6 +94,13 @@ works:
     date: '2026-08-31'
     code: 494172
     url: /works/494172/
+  - title: 1 Once iku goto ni penalty 1 manen oshioki papakatsu jyoshi
+    author: crimson
+    cover: /covers/503556.jpg
+    rating: 4.2
+    date: '2026-04-27'
+    code: 503556
+    url: /works/503556/
   - title: Musuko no Sensei wa Kyonyuu Bijo ♡ | My Son's Teacher is a Well-Endowed Woman
       ♡
     author: taki
@@ -107,6 +123,13 @@ works:
     date: '2026-08-23'
     code: 505779
     url: /works/505779/
+  - title: Little Blue Bird
+    author: kidouchi-kon
+    cover: /covers/508534.jpg
+    rating: 4.9
+    date: '2026-05-01'
+    code: 508534
+    url: /works/508534/
   - title: Hiro-kun no Mama Wa Boku no Dorei 2 | Hiro-kun Mama Is My Sex Slave 2
     author: exit-up
     cover: /covers/508818.jpg
@@ -195,6 +218,13 @@ works:
     date: '2026-07-13'
     code: 565301
     url: /works/565301/
+  - title: Tawawa de Akarui Yakyuubu Manager ga Inshitsu na Kyoushi no Wana ni... Kanketsuhen
+    author: ohkura-kazuya
+    cover: /covers/566052.jpg
+    rating: 4.7
+    date: '2026-04-30'
+    code: 566052
+    url: /works/566052/
   - title: Doukyuusei no Kyouiku Mama ni Hitomebore!
     author: chotto-b-sen
     cover: /covers/581704.jpg
@@ -210,6 +240,13 @@ works:
     date: '2026-07-17'
     code: 582290
     url: /works/582290/
+  - title: Suki nano wa Anata dake... 3
+    author: end
+    cover: /covers/586634.jpg
+    rating: 4.7
+    date: '2026-05-10'
+    code: 586634
+    url: /works/586634/
   - title: Kouen no Oji-san-tachi ni Moteasobaretai
     author: group
     cover: /covers/598010.jpg
@@ -225,6 +262,13 @@ works:
     date: '2026-07-16'
     code: 605410
     url: /works/605410/
+  - title: Kouhai Otaku Tomodachi JK ga Kawai Sugirumon de!
+    author: niji-teru
+    cover: /covers/606719.jpg
+    rating: 4.7
+    date: '2026-04-27'
+    code: 606719
+    url: /works/606719/
   - title: Hokenshitsu no Futon no Naka de Satori Sedai JK to Naisho H!
     author: niji-teru
     cover: /covers/606725.jpg
@@ -246,6 +290,14 @@ works:
     date: '2026-07-17'
     code: 615538
     url: /works/615538/
+  - title: Nigate na Aitsu ni Benkyou o Oshieru Koto ni Natte... | I Ended Up Teaching
+      That Guy I Hate...
+    author: furaimai
+    cover: /covers/616533.jpg
+    rating: 4.6
+    date: '2026-04-27'
+    code: 616533
+    url: /works/616533/
   - title: Shanai no Himegoto ~Stress Kaishou ni Kaisha no Toilet de Onani shite itara,
       Kouhai ni Kikarete shimatte ita Hanashi~ | Workplace Rendezvous ~Caught Masturbating
       in the Company Restroom by My Subordinate~
@@ -255,6 +307,13 @@ works:
     date: '2026-07-11'
     code: 617492
     url: /works/617492/
+  - title: Majime na Iinchou no Kanojo ga Sex ni Hamatta Riyuu
+    author: furaimai
+    cover: /covers/618562.jpg
+    rating: 4.3
+    date: '2026-04-27'
+    code: 618562
+    url: /works/618562/
   - title: Aitsu, Kotowarenai kara.. Remake-ban no Tsuzuki dewa Arimasu ga, Konsaku
       wa Yakinaoshi ja Nai yo. Settei Igai wa Sinsaku da yo. Sonna Kanji no Vol. 2 desu
     author: haruharudo
@@ -313,6 +372,20 @@ works:
     date: '2026-08-25'
     code: 643933
     url: /works/643933/
+  - title: Natsu ga Owaru made Natsu no Owari Kanketsuhen
+    author: mon-petit
+    cover: /covers/646969.jpg
+    rating: 4.1
+    date: '2026-04-30'
+    code: 646969
+    url: /works/646969/
+  - title: 'Library Girlfriend: Descent into Depravity'
+    author: ame-arare
+    cover: /covers/647334.jpg
+    rating: 4.6
+    date: '2026-05-01'
+    code: 647334
+    url: /works/647334/
   - title: My Brother Stole My Mother
     author: momoziri-hustle-dou
     cover: /covers/648073.jpg
@@ -320,6 +393,51 @@ works:
     date: '2026-07-17'
     code: 648073
     url: /works/648073/
+  - title: Inaka ni Sumu Dosukebe Gifu to Kosodate Yome | A Perverted Father-in-Law
+      Living in the Countryside and His Daughter-in-Law Raising Children
+    author: onodera
+    cover: /covers/648110.jpg
+    rating: 4.2
+    date: '2026-05-05'
+    code: 648110
+    url: /works/648110/
+  - title: Boku no Onee-chan wa Sekai de Ichiban Tsuyokute kakkoiin da.
+    author: riboshika
+    cover: /covers/648551.jpg
+    rating: 4.2
+    date: '2026-05-07'
+    code: 648551
+    url: /works/648551/
+  - title: Kawaii Kanojo ni Goyoujin!? 2 | Beware of Cute Girlfriends! 2
+    author: marialite
+    cover: /covers/649111.jpg
+    rating: 4.8
+    date: '2026-05-10'
+    code: 649111
+    url: /works/649111/
+  - title: Ally-san wa Doko Demo Ikitai!! 3
+    author: inukami-inoji
+    cover: /covers/650926.jpg
+    rating: 4.9
+    date: '2026-05-20'
+    code: 650926
+    url: /works/650926/
+  - title: Oshiego no Gal o Kau
+    author: mitsudoue
+    cover: /covers/651197.jpg
+    rating: 4.0
+    date: '2026-05-20'
+    code: 651197
+    url: /works/651197/
+  - title: Kaa-san no Nude Model o Shite Itara, Kaa-san no Panchira Mite Bokki Shite
+      Shimai, Soshite...... | I was acting as a nude model for my mom, but then... I
+      caught a glimpse of her panties, got a boner, and well...
+    author: polbockle
+    cover: /covers/652625.jpg
+    rating: 4.9
+    date: '2026-05-26'
+    code: 652625
+    url: /works/652625/
   - title: Majime na Salaryman ga JK Chijo ni Otosareru Hanashi
     author: hamo
     cover: /covers/652651.jpg
@@ -327,6 +445,20 @@ works:
     date: '2026-08-28'
     code: 652651
     url: /works/652651/
+  - title: Kiraware H ~Boku o Kirai na Kimi ga Suki~ Momoka Hen
+    author: unknown
+    cover: /covers/652788.jpg
+    rating: 4.7
+    date: '2026-05-27'
+    code: 652788
+    url: /works/652788/
+  - title: Okaa-san ni Chuu Shinasai
+    author: kuruto
+    cover: /covers/654253.jpg
+    rating: 4.1
+    date: '2026-07-07'
+    code: 654253
+    url: /works/654253/
   - title: Haha to Osake Nondara erai Kotoninarimashita
     author: matsumoto-jikyuuryoku
     cover: /covers/655291.jpg
@@ -363,6 +495,14 @@ works:
     date: '2026-07-17'
     code: 658578
     url: /works/658578/
+  - title: Shinyuu Tatakitsubushi Kyousou Shiiku Seikatsu | A Life in Captivity The
+      Competition to Break My Best Friend
+    author: group
+    cover: /covers/661586.jpg
+    rating: 4.5
+    date: '2026-07-06'
+    code: 661586
+    url: /works/661586/
   - title: Shokushu Flower Shop no Onee-san
     author: dozamura
     cover: /covers/661796.jpg

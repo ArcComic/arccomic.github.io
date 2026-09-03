@@ -711,7 +711,7 @@ PAGINATION_JS = """
 
 # ============== HOMEPAGE (index.html) ==============
 INDEX_HTML_PATH = os.path.join(WORK_DIR, "index.html")
-INDEX_HTML_VERSION = 7  # bump when the template below changes materially
+INDEX_HTML_VERSION = 8  # bump when the template below changes materially
 
 INDEX_HTML_TEMPLATE = f"""---
 # No 'layout:' key here on purpose — index.html is a complete, self-contained
@@ -858,6 +858,11 @@ INDEX_HTML_TEMPLATE = f"""---
         }}
         .work-card .info .meta {{
             font-size: 11px; color: var(--text-muted); margin-top: 3px;
+        }}
+        .grid-ad-card {{
+            background: var(--bg-card); border-radius: 12px;
+            border: 1px dashed var(--border); overflow: hidden;
+            width: 100%; padding-top: 140%; position: relative;
         }}
         .no-results {{ text-align: center; padding: 60px 20px; color: var(--text-muted); }}
         .pagination {{
@@ -1020,7 +1025,7 @@ INDEX_HTML_TEMPLATE = f"""---
             // impression), inserted at a random position each time the
             // page renders so it doesn't always land in the same spot.
             if (!isFirstPage && cards.length > 1) {{
-                const adCard = `<div class="work-card" data-mndazid="{NATIVE_AD_ZONE_ID}" style="min-height:100%;"></div>`;
+                const adCard = `<div class="grid-ad-card" data-mndazid="{NATIVE_AD_ZONE_ID}"></div>`;
                 const pos = 1 + Math.floor(Math.random() * cards.length);
                 cards.splice(pos, 0, adCard);
             }}
@@ -1157,7 +1162,7 @@ def ensure_index_html():
 # ============== TAG SYSTEM (Stage 3) ==============
 TAGS_DIR = os.path.join(WORK_DIR, "_tags")
 TAG_LAYOUT_PATH = os.path.join(WORK_DIR, "_layouts", "tag.html")
-TAG_LAYOUT_VERSION = 2
+TAG_LAYOUT_VERSION = 3
 TAGS_INDEX_PATH = os.path.join(WORK_DIR, "tags", "index.html")
 TAGS_INDEX_VERSION = 1
 
@@ -1200,6 +1205,7 @@ TAG_LAYOUT_TEMPLATE = f"""<!-- arc-comic-layout-version: {TAG_LAYOUT_VERSION} --
         .work-card .info {{ padding: 10px; }}
         .work-card .info h3 {{ font-size: 13px; font-weight: 600; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }}
         .work-card .info .meta {{ font-size: 11px; color: var(--text-muted); margin-top: 3px; }}
+        .grid-ad-card {{ background: var(--bg-card); border-radius: 12px; border: 1px dashed var(--border); overflow: hidden; width: 100%; padding-top: 140%; position: relative; }}
         .pagination {{ display: flex; justify-content: center; gap: 8px; flex-wrap: wrap; margin-top: 30px; padding-top: 20px; border-top: 1px solid var(--border); }}
         .pagination a, .pagination span {{ padding: 8px 14px; border-radius: 8px; font-size: 14px; font-weight: 600; text-decoration: none; }}
         .pagination a {{ background: var(--bg-card); color: var(--text); border: 1px solid var(--border); }}
@@ -1243,7 +1249,7 @@ TAG_LAYOUT_TEMPLATE = f"""<!-- arc-comic-layout-version: {TAG_LAYOUT_VERSION} --
                 </a>
             `);
             if (!isFirstPage && cards.length > 1) {{
-                const adCard = `<div class="work-card" data-mndazid="{NATIVE_AD_ZONE_ID}" style="min-height:100%;"></div>`;
+                const adCard = `<div class="grid-ad-card" data-mndazid="{NATIVE_AD_ZONE_ID}"></div>`;
                 cards.splice(1 + Math.floor(Math.random() * cards.length), 0, adCard);
             }}
             return cards.join('');
@@ -1293,7 +1299,7 @@ def slugify(text):
 
 # ============== SEARCH RESULTS PAGE ==============
 SEARCH_PAGE_PATH = os.path.join(WORK_DIR, "search", "index.html")
-SEARCH_PAGE_VERSION = 2
+SEARCH_PAGE_VERSION = 3
 
 SEARCH_PAGE_TEMPLATE = f"""---
 ---
@@ -1343,6 +1349,7 @@ SEARCH_PAGE_TEMPLATE = f"""---
         .work-card .info {{ padding: 10px; }}
         .work-card .info h3 {{ font-size: 13px; font-weight: 600; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }}
         .work-card .info .meta {{ font-size: 11px; color: var(--text-muted); margin-top: 3px; }}
+        .grid-ad-card {{ background: var(--bg-card); border-radius: 12px; border: 1px dashed var(--border); overflow: hidden; width: 100%; padding-top: 140%; position: relative; }}
         .no-results {{ text-align: center; padding: 60px 20px; color: var(--text-muted); }}
         .pagination {{ display: flex; justify-content: center; gap: 8px; flex-wrap: wrap; margin-top: 30px; padding-top: 20px; border-top: 1px solid var(--border); }}
         .pagination a, .pagination span {{ padding: 8px 14px; border-radius: 8px; font-size: 14px; font-weight: 600; text-decoration: none; }}
@@ -1398,7 +1405,7 @@ SEARCH_PAGE_TEMPLATE = f"""---
                 </a>
             `);
             if (!isFirstPage && cards.length > 1) {{
-                const adCard = `<div class="work-card" data-mndazid="{NATIVE_AD_ZONE_ID}" style="min-height:100%;"></div>`;
+                const adCard = `<div class="grid-ad-card" data-mndazid="{NATIVE_AD_ZONE_ID}"></div>`;
                 cards.splice(1 + Math.floor(Math.random() * cards.length), 0, adCard);
             }}
             return cards.join('');
@@ -1646,7 +1653,7 @@ def _write_tags_index(tag_map):
 # index, regenerated together with tags after every batch flush/delete.
 ARTISTS_DIR = os.path.join(WORK_DIR, "_artists")
 ARTIST_LAYOUT_PATH = os.path.join(WORK_DIR, "_layouts", "artist.html")
-ARTIST_LAYOUT_VERSION = 1
+ARTIST_LAYOUT_VERSION = 2
 ARTISTS_INDEX_PATH = os.path.join(WORK_DIR, "artists", "index.html")
 ARTISTS_INDEX_VERSION = 1
 
@@ -1689,6 +1696,7 @@ ARTIST_LAYOUT_TEMPLATE = f"""<!-- arc-comic-layout-version: {ARTIST_LAYOUT_VERSI
         .work-card .info {{ padding: 10px; }}
         .work-card .info h3 {{ font-size: 13px; font-weight: 600; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }}
         .work-card .info .meta {{ font-size: 11px; color: var(--text-muted); margin-top: 3px; }}
+        .grid-ad-card {{ background: var(--bg-card); border-radius: 12px; border: 1px dashed var(--border); overflow: hidden; width: 100%; padding-top: 140%; position: relative; }}
         .pagination {{ display: flex; justify-content: center; gap: 8px; flex-wrap: wrap; margin-top: 30px; padding-top: 20px; border-top: 1px solid var(--border); }}
         .pagination a, .pagination span {{ padding: 8px 14px; border-radius: 8px; font-size: 14px; font-weight: 600; text-decoration: none; }}
         .pagination a {{ background: var(--bg-card); color: var(--text); border: 1px solid var(--border); }}
@@ -1732,7 +1740,7 @@ ARTIST_LAYOUT_TEMPLATE = f"""<!-- arc-comic-layout-version: {ARTIST_LAYOUT_VERSI
                 </a>
             `);
             if (!isFirstPage && cards.length > 1) {{
-                const adCard = `<div class="work-card" data-mndazid="{NATIVE_AD_ZONE_ID}" style="min-height:100%;"></div>`;
+                const adCard = `<div class="grid-ad-card" data-mndazid="{NATIVE_AD_ZONE_ID}"></div>`;
                 cards.splice(1 + Math.floor(Math.random() * cards.length), 0, adCard);
             }}
             return cards.join('');
@@ -1929,33 +1937,113 @@ def _write_artists_index(artist_map):
         f.write(html)
 
 # ============== GOOGLE SEO FUNCTIONS ==============
-def touch_sitemap_lastmod(site_url):
+def regenerate_sitemap(site_url):
     """
-    Google retired the sitemap 'ping' endpoint at the end of 2023 — it now
-    returns 404 for everyone, not just this site, so pinging it can never
-    succeed no matter what. Google's own guidance since the deprecation is
-    that the <lastmod> date inside sitemap.xml is what it actually reads to
-    decide when to recrawl. This function updates the homepage entry's
-    lastmod to "now" so the sitemap keeps signalling fresh content the way
-    Google currently expects, replacing the old ineffective ping call.
+    Rebuilds sitemap.xml from scratch every time it's called, listing
+    every real page on the site — not just the homepage. This replaces
+    the old touch_sitemap_lastmod(), which only ever updated the
+    homepage's own <lastmod> and never listed comic/tag/artist pages at
+    all (a real gap flagged by Master — see handoff for the incident).
+
+    URL sources (all read fresh from disk, same ground truth every other
+    part of the site already uses — see is_code_already_posted(),
+    regenerate_tags(), regenerate_artists()):
+      - homepage: always included, lastmod = today (it changes on every
+        post since Latest Upload/Popular sections are dynamic)
+      - /works/<code>/  — one per _works/*.md, lastmod = that file's own
+        `date:` front-matter field (the real post date, not "today" —
+        an old comic's page didn't change just because a new comic was
+        posted elsewhere)
+      - /tags/<slug>/   — one per _tags/*.md, lastmod = the MOST RECENT
+        date among that tag's own works (read from the work entries
+        already embedded in the tag stub's `works:` list — see
+        regenerate_tags()). A tag page's content only actually changes
+        when a work is added to/removed from it, so this is the honest
+        answer, not "today" for every tag on every run.
+      - /artists/<slug>/ — same idea, from _artists/*.md
+      - /tags/ and /artists/ index pages — included, lastmod = today
+        (Popular Tags / A-Z counts are dynamic, same reasoning as home)
+
+    Returns True if sitemap.xml was written (content actually changed
+    from what's on disk), False otherwise — same True/False contract
+    the old touch_sitemap_lastmod() had, since callers use this to
+    decide whether to report "🟢 Google" pinged in the dashboard.
     """
+    today = datetime.now().strftime("%Y-%m-%d")
+    urls = []  # list of (loc, lastmod) tuples
+
+    urls.append((f"{site_url}/", today))
+    urls.append((f"{site_url}/tags/", today))
+    urls.append((f"{site_url}/artists/", today))
+
+    if os.path.isdir(WORKS_DIR):
+        for fname in sorted(os.listdir(WORKS_DIR)):
+            if not fname.endswith(".md"):
+                continue
+            code = fname[:-3]
+            try:
+                with open(os.path.join(WORKS_DIR, fname), 'r', encoding='utf-8') as f:
+                    content = f.read()
+                front = yaml.safe_load(content.split("---")[1])
+            except Exception:
+                continue
+            if not front:
+                continue
+            date_str = str(front.get("date", today)).split(" ")[0].split("T")[0]
+            urls.append((f"{site_url}/works/{code}/", date_str or today))
+
+    def _lastmod_from_stub(dir_path, url_prefix):
+        if not os.path.isdir(dir_path):
+            return
+        for fname in sorted(os.listdir(dir_path)):
+            if not fname.endswith(".md"):
+                continue
+            slug = fname[:-3]
+            try:
+                with open(os.path.join(dir_path, fname), 'r', encoding='utf-8') as f:
+                    content = f.read()
+                front = yaml.safe_load(content.split("---")[1])
+            except Exception:
+                continue
+            if not front:
+                continue
+            work_dates = [
+                str(w.get("date", "")).split(" ")[0].split("T")[0]
+                for w in front.get("works", []) if w.get("date")
+            ]
+            latest = max(work_dates) if work_dates else today
+            urls.append((f"{site_url}/{url_prefix}/{slug}/", latest))
+
+    _lastmod_from_stub(TAGS_DIR, "tags")
+    _lastmod_from_stub(ARTISTS_DIR, "artists")
+
+    xml_lines = ['<?xml version="1.0" encoding="UTF-8"?>',
+                 '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">']
+    for loc, lastmod in urls:
+        xml_lines.append(f"  <url><loc>{loc}</loc><lastmod>{lastmod}</lastmod></url>")
+    xml_lines.append('</urlset>')
+    new_content = "\n".join(xml_lines) + "\n"
+
     sitemap_path = os.path.join(WORK_DIR, "sitemap.xml")
-    if not os.path.exists(sitemap_path):
-        return False
+    old_content = None
+    if os.path.exists(sitemap_path):
+        try:
+            with open(sitemap_path, 'r', encoding='utf-8') as f:
+                old_content = f.read()
+        except Exception:
+            old_content = None
+
+    if old_content == new_content:
+        return False  # no-op, nothing actually changed
+
     try:
-        with open(sitemap_path, 'r', encoding='utf-8') as f:
-            content = f.read()
-        today = datetime.now().strftime("%Y-%m-%d")
-        if "<lastmod>" in content:
-            content = re.sub(r"<lastmod>.*?</lastmod>", f"<lastmod>{today}</lastmod>", content, count=1)
-        else:
-            content = content.replace("</loc>", f"</loc>\n<lastmod>{today}</lastmod>", 1)
         with open(sitemap_path, 'w', encoding='utf-8') as f:
-            f.write(content)
-        print(f"🗺️ sitemap.xml lastmod updated to {today}")
+            f.write(new_content)
+        print(f"🗺️ sitemap.xml regenerated: {len(urls)} URLs "
+              f"({len(urls) - 3} works/tags/artists + 3 index pages)")
         return True
     except Exception as e:
-        print(f"⚠️ sitemap lastmod update failed: {e}")
+        print(f"⚠️ sitemap regeneration failed: {e}")
         return False
 
 def submit_indexnow(url, site_url, api_key):
@@ -2419,16 +2507,22 @@ def _flush_pending_queue_sync():
         if os.path.isdir(d):
             for fname in os.listdir(d):
                 batch_paths.append(os.path.relpath(os.path.join(d, fname), WORK_DIR))
+    # sitemap.xml is regenerated below (before the push, so its own
+    # changes are included in this same commit) — must be in
+    # batch_paths or the scoped git add from Bug 13's fix would silently
+    # exclude it, leaving the live sitemap stale forever.
+    batch_paths.append("sitemap.xml")
+
+    site_url = "https://arccomic.github.io"
+    sitemap_updated = False
+    if cfg.get("auto_ping_google", True):
+        sitemap_updated = regenerate_sitemap(site_url)
 
     pushed, push_error = git_push(cfg, "batch", f"Add {len(batch)} work(s): {codes}",
                                    batch_paths=batch_paths)
 
-    site_url = "https://arccomic.github.io"
-    sitemap_updated = False
     indexnow_pinged_count = 0
     if pushed:
-        if cfg.get("auto_ping_google", True):
-            sitemap_updated = touch_sitemap_lastmod(site_url)
         if cfg.get("use_indexnow", True):
             api_key = cfg.get("indexnow_key", "")
             if api_key:

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "netorase"
-work_count: 8
+work_count: 11
 works:
   - title: The wife's unfaithful copulation picture album
     author: allegro
@@ -31,6 +31,14 @@ works:
     date: '2026-08-25'
     code: 616367
     url: /works/616367/
+  - title: The Story of How My Brain Was Destroyed After Dating Someone Who Would Grant
+      Any Request
+    author: jakky
+    cover: /covers/627182.jpg
+    rating: 4.9
+    date: '2026-05-26'
+    code: 627182
+    url: /works/627182/
   - title: My gentle and kind friend's mom was a slut who devoured young boys' cocks.
     author: dekamatsu
     cover: /covers/637847.jpg
@@ -38,6 +46,21 @@ works:
     date: '2026-08-25'
     code: 637847
     url: /works/637847/
+  - title: Riho NTR ~Ordered By My Husband to Get Fucked By His Colleague~
+    author: yamamoto-tomomitsu
+    cover: /covers/647620.jpg
+    rating: 4.4
+    date: '2026-05-03'
+    code: 647620
+    url: /works/647620/
+  - title: Netorase Club 2 Anal Name no Tensai to Fellatio no Tensai | Netorase Club
+      2 The Genius of Rimjob and The Genius of Blowjob
+    author: oosawara-sadao
+    cover: /covers/649114.jpg
+    rating: 4.9
+    date: '2026-05-10'
+    code: 649114
+    url: /works/649114/
   - title: Till Dick Do Us Part
     author: ratatatat74-mr-skull
     cover: /covers/664249.jpg

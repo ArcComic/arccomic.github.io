@@ -1,8 +1,24 @@
 ---
 layout: tag
 tag_name: "scanmark"
-work_count: 67
+work_count: 87
 works:
+  - title: NTR Anniversary + ) [Syukurin] Mitsuha ~Netorare~ (Kimi no Na wa.) [English]
+      [Colorized] by Mikaku
+    author: arakure
+    cover: /covers/414206.jpg
+    rating: 4.2
+    date: '2026-04-27'
+    code: 414206
+    url: /works/414206/
+  - title: 'Misunderstanding Love Hotel Netorare [Arakure] & Kimi no na wa: After Story
+      - Mitsuha ~Netorare~'
+    author: arakure
+    cover: /covers/416883.jpg
+    rating: 4.9
+    date: '2026-04-27'
+    code: 416883
+    url: /works/416883/
   - title: This Woman’s Body Tells Lies
     author: ichihara-kazuma
     cover: /covers/527621.jpg
@@ -10,6 +26,13 @@ works:
     date: '2026-07-08'
     code: 527621
     url: /works/527621/
+  - title: Rossia kei Hitozuma to Doutei kun no Himitsu no Kankei
+    author: kibi-anmitsu
+    cover: /covers/530293.jpg
+    rating: 4.7
+    date: '2026-05-20'
+    code: 530293
+    url: /works/530293/
   - title: Ore ga Hoshikatta Mono wa Kin Medal Yori Namami Onaho Datta no Kamoshirenai｜Maybe
       what I Wanted was a Flesh and Blood Masturbator Rather than a Gold Medal
     author: carburetor
@@ -25,6 +48,21 @@ works:
     date: '2026-08-25'
     code: 616367
     url: /works/616367/
+  - title: Nigate na Aitsu ni Benkyou o Oshieru Koto ni Natte... | I Ended Up Teaching
+      That Guy I Hate...
+    author: furaimai
+    cover: /covers/616533.jpg
+    rating: 4.6
+    date: '2026-04-27'
+    code: 616533
+    url: /works/616533/
+  - title: Majime na Iinchou no Kanojo ga Sex ni Hamatta Riyuu
+    author: furaimai
+    cover: /covers/618562.jpg
+    rating: 4.3
+    date: '2026-04-27'
+    code: 618562
+    url: /works/618562/
   - title: Naisho no An-chan
     author: seto-ryouko
     cover: /covers/627126.jpg
@@ -32,6 +70,13 @@ works:
     date: '2026-08-22'
     code: 627126
     url: /works/627126/
+  - title: A tsundere girl who loves dick cheese and speaks Kansai dialect
+    author: yuuki-fuumi
+    cover: /covers/630901.jpg
+    rating: 4.6
+    date: '2026-07-06'
+    code: 630901
+    url: /works/630901/
   - title: Ippai Kocho Kocho Shite Ageru kara Oshio Ippai Pyu Pyu Shite! | I'll tickle
       you a lot, so you'll squirt lots of cum!
     author: garyo
@@ -85,6 +130,13 @@ works:
     date: '2026-08-19'
     code: 638178
     url: /works/638178/
+  - title: Breeding Mother 1-4
+    author: saimon-k
+    cover: /covers/638218.jpg
+    rating: 4.4
+    date: '2026-05-05'
+    code: 638218
+    url: /works/638218/
   - title: Otokomasari na Kyonyuu Hitozuma Joushi to Amaama SeFri Kankei ni Natta Ken
     author: elica
     cover: /covers/641362.jpg
@@ -120,6 +172,22 @@ works:
     date: '2026-08-24'
     code: 642588
     url: /works/642588/
+  - title: The story of how a busty, older teacher girlfriend gets seduced and cheated
+      on by the principal with a huge penis.
+    author: munioni
+    cover: /covers/644296.jpg
+    rating: 4.4
+    date: '2026-07-06'
+    code: 644296
+    url: /works/644296/
+  - title: Otaku ni Yasashii Gal wa Aitsu no Kanojo | A Gal Who's Kind to Otaku Is That
+      Guy's Girlfriend
+    author: yamamoto
+    cover: /covers/647809.jpg
+    rating: 4.9
+    date: '2026-05-04'
+    code: 647809
+    url: /works/647809/
   - title: Shirayuki Mishiro & Enomiya Milk Saimin Sakunyuu Play Hon Matome
     author: rurimaru
     cover: /covers/648800.jpg
@@ -127,6 +195,21 @@ works:
     date: '2026-07-13'
     code: 648800
     url: /works/648800/
+  - title: Reibaishi Mikoto 2 Kairaku ni Zanpai su... Hentai Jijii to no Seikou no Gishiki
+      de Ikikuruwasareru Shoujo no Karada
+    author: sawacream
+    cover: /covers/649125.jpg
+    rating: 4.6
+    date: '2026-05-10'
+    code: 649125
+    url: /works/649125/
+  - title: Boku no kanojo | My Girlfriend
+    author: fuguta-ke
+    cover: /covers/651346.jpg
+    rating: 4.3
+    date: '2026-05-20'
+    code: 651346
+    url: /works/651346/
   - title: Haha no Himitsu o Shitte
     author: unknown
     cover: /covers/654114.jpg
@@ -134,6 +217,13 @@ works:
     date: '2026-08-21'
     code: 654114
     url: /works/654114/
+  - title: Okaa-san ni Chuu Shinasai
+    author: kuruto
+    cover: /covers/654253.jpg
+    rating: 4.1
+    date: '2026-07-07'
+    code: 654253
+    url: /works/654253/
   - title: Provoking Men Part 1
     author: pororivista
     cover: /covers/654373.jpg
@@ -148,6 +238,13 @@ works:
     date: '2026-08-24'
     code: 654689
     url: /works/654689/
+  - title: Boshi Soukan no Hajimari
+    author: kuruto
+    cover: /covers/655202.jpg
+    rating: 4.6
+    date: '2026-07-07'
+    code: 655202
+    url: /works/655202/
   - title: boku no haha ga saikon si nai riyuu（ wake）
     author: daidai-shikibu
     cover: /covers/655205.jpg
@@ -169,6 +266,20 @@ works:
     date: '2026-08-21'
     code: 655421
     url: /works/655421/
+  - title: Kinshin Choukyou Ane Dorei
+    author: yamamoto-yoshifumi
+    cover: /covers/655423.jpg
+    rating: 4.8
+    date: '2026-07-07'
+    code: 655423
+    url: /works/655423/
+  - title: Kyoudai Yuugi | Sibling Game
+    author: takei-masaki
+    cover: /covers/655441.jpg
+    rating: 4.3
+    date: '2026-07-07'
+    code: 655441
+    url: /works/655441/
   - title: Jitsubo Kan ~Gifu no Inai Suki ni Jitsu no Haha o Muriyari Okashite Haramaeta
     author: louis-and-visee
     cover: /covers/656034.jpg
@@ -197,6 +308,13 @@ works:
     date: '2026-08-25'
     code: 656146
     url: /works/656146/
+  - title: Haha to Sake to Musuko 1-2 | MOTHER, ALCOHOL, AND SON 1-2
+    author: mankai-beesuke
+    cover: /covers/656206.jpg
+    rating: 4.5
+    date: '2026-07-07'
+    code: 656206
+    url: /works/656206/
   - title: Kaa-san o Oshitaoshita Hi
     author: daidai-shikibu
     cover: /covers/656615.jpg
@@ -211,6 +329,13 @@ works:
     date: '2026-08-21'
     code: 656686
     url: /works/656686/
+  - title: Ero Sugiru Imouto to Fukinshin na Ore
+    author: hazuki-kaoru
+    cover: /covers/657207.jpg
+    rating: 4.5
+    date: '2026-07-07'
+    code: 657207
+    url: /works/657207/
   - title: Haha Ana ni Irazumba
     author: unknown
     cover: /covers/657981.jpg
@@ -232,6 +357,28 @@ works:
     date: '2026-08-21'
     code: 661796
     url: /works/661796/
+  - title: Shameimaru Aya no sennyuu! Shokushu esute
+    author: unknown
+    cover: /covers/661890.jpg
+    rating: 4.3
+    date: '2026-07-07'
+    code: 661890
+    url: /works/661890/
+  - title: Otoko mo Onna mo Eroi Me ni Au ~Futari Matomete Slime Ecchi~
+    author: unknown
+    cover: /covers/661906.jpg
+    rating: 4.9
+    date: '2026-07-07'
+    code: 661906
+    url: /works/661906/
+  - title: Seishidouin no Oshigoto 4 Kohen Rippana Benki ni Sodatta node Daimanzoku
+      de Shidou wo Oeta + C101 Omake
+    author: malcorond
+    cover: /covers/661951.jpg
+    rating: 4.5
+    date: '2026-07-07'
+    code: 661951
+    url: /works/661951/
   - title: Jinin ’Futsuu’ Dekachichi Inkya J◯ no Maso Mesu ga Nagga〜i Chinpo de Shuuryou
       Made♡
     author: amrita

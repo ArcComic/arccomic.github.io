@@ -1,8 +1,16 @@
 ---
 layout: tag
 tag_name: "defloration"
-work_count: 36
+work_count: 74
 works:
+  - title: Onee-chan ga Ecchi na Koto bakka Suru kara... | My older sister only does
+      obscene things...
+    author: danimaru
+    cover: /covers/337171.jpg
+    rating: 4.5
+    date: '2026-04-27'
+    code: 337171
+    url: /works/337171/
   - title: Homestay-chu no Doitsu Musume ga Issho ni Furo ni Haitte Kuru Wake | The
       Reason Why a German Girl Takes a Bath Together With Me on Her Homestay
     author: gentsuki
@@ -18,6 +26,20 @@ works:
     date: '2026-07-13'
     code: 346126
     url: /works/346126/
+  - title: ERIKA Vol. 2
+    author: hankotsu-max
+    cover: /covers/353025.jpg
+    rating: 4.9
+    date: '2026-04-27'
+    code: 353025
+    url: /works/353025/
+  - title: Kono Koi ni Kiduite
+    author: danimaru
+    cover: /covers/357965.jpg
+    rating: 4.6
+    date: '2026-04-27'
+    code: 357965
+    url: /works/357965/
   - title: Megane Loli Choukyou Jugyou!! ~Otonashii Megane Lolikko ni Muriyari Dekachin
       Sounyuu~ | The Loli In Glasses' Training Lesson!! ~Force Fucking a Timid Glasses
       Wearing Loli With My Big Cock~ Ch. 1-5
@@ -34,6 +56,29 @@ works:
     date: '2026-07-10'
     code: 407959
     url: /works/407959/
+  - title: NTR Anniversary + ) [Syukurin] Mitsuha ~Netorare~ (Kimi no Na wa.) [English]
+      [Colorized] by Mikaku
+    author: arakure
+    cover: /covers/414206.jpg
+    rating: 4.2
+    date: '2026-04-27'
+    code: 414206
+    url: /works/414206/
+  - title: 'Misunderstanding Love Hotel Netorare [Arakure] & Kimi no na wa: After Story
+      - Mitsuha ~Netorare~'
+    author: arakure
+    cover: /covers/416883.jpg
+    rating: 4.9
+    date: '2026-04-27'
+    code: 416883
+    url: /works/416883/
+  - title: Koi no Susumekata | How to Advance Your Love
+    author: danimaru
+    cover: /covers/425528.jpg
+    rating: 4.6
+    date: '2026-04-27'
+    code: 425528
+    url: /works/425528/
   - title: Kanojo no Kawaii Mieppari | My Cute Gyaru Girlfriend Is a Total Poser
     author: buta
     cover: /covers/441114.jpg
@@ -41,6 +86,27 @@ works:
     date: '2026-08-23'
     code: 441114
     url: /works/441114/
+  - title: Sukina Hito, Sukina Koto
+    author: ebi-fry-teishoku
+    cover: /covers/452482.jpg
+    rating: 4.8
+    date: '2026-04-27'
+    code: 452482
+    url: /works/452482/
+  - title: Ame no Hi wa, Honnori Chikubi
+    author: hoshi-to-lucky
+    cover: /covers/484860.jpg
+    rating: 4.9
+    date: '2026-05-04'
+    code: 484860
+    url: /works/484860/
+  - title: Little Blue Bird
+    author: kidouchi-kon
+    cover: /covers/508534.jpg
+    rating: 4.9
+    date: '2026-05-01'
+    code: 508534
+    url: /works/508534/
   - title: '"Sex no Benkyou Shiyokka?" Kareshi ga Iru no ni Itoko kara Shojo wo Ubaware
       Zecchou Shidou 1-5 | Let''s Learn About Sex: Your Cousin Will Take Your Virginity
       and Teach You How to Come 1-5'
@@ -58,6 +124,22 @@ works:
     date: '2026-08-20'
     code: 537794
     url: /works/537794/
+  - title: Minpaku ~Ojou-sama-tachi wa Minpaku Keieisha no Wana ni Ochiru~ | Sleeping
+      in the Bed and Breakfast - Young ladies fall into the trap of a private lodging
+      manager
+    author: kinugasa-yuuichi
+    cover: /covers/543494.jpg
+    rating: 4.1
+    date: '2026-07-06'
+    code: 543494
+    url: /works/543494/
+  - title: Atashi ga Nuite Ageyo kka?
+    author: malcorond
+    cover: /covers/547250.jpg
+    rating: 4.1
+    date: '2026-07-07'
+    code: 547250
+    url: /works/547250/
   - title: Saikai shita Osananajimi to Issen o Koecchau Hanashi | I Reunited With My
       Longtime Friend and Crossed the Line
     author: satsuki-usa
@@ -66,6 +148,14 @@ works:
     date: '2026-08-18'
     code: 560097
     url: /works/560097/
+  - title: Meshitaki san-nen, nigiri ichi-nen | Three Years to Master Rice, One Year
+      to Master Nigiri
+    author: polier
+    cover: /covers/583391.jpg
+    rating: 4.6
+    date: '2026-07-07'
+    code: 583391
+    url: /works/583391/
   - title: Ore ga Hoshikatta Mono wa Kin Medal Yori Namami Onaho Datta no Kamoshirenai｜Maybe
       what I Wanted was a Flesh and Blood Masturbator Rather than a Gold Medal
     author: carburetor
@@ -81,6 +171,20 @@ works:
     date: '2026-08-22'
     code: 586316
     url: /works/586316/
+  - title: Mesu no Ie II ~Tsuma wa Midare Ubareru~
+    author: ame-arare
+    cover: /covers/591112.jpg
+    rating: 4.3
+    date: '2026-05-01'
+    code: 591112
+    url: /works/591112/
+  - title: Ahondara, koi. | Foolish Love
+    author: chicken
+    cover: /covers/608677.jpg
+    rating: 4.5
+    date: '2026-04-27'
+    code: 608677
+    url: /works/608677/
   - title: Metamorphosis
     author: shindol
     cover: /covers/616358.jpg
@@ -88,6 +192,27 @@ works:
     date: '2026-07-15'
     code: 616358
     url: /works/616358/
+  - title: Majime na Iinchou no Kanojo ga Sex ni Hamatta Riyuu
+    author: furaimai
+    cover: /covers/618562.jpg
+    rating: 4.3
+    date: '2026-04-27'
+    code: 618562
+    url: /works/618562/
+  - title: Fuyu-san wa Sotsugyou Shitai | Fuyu-san Wants to Lose Her V-Card
+    author: kurihara-kenshirou
+    cover: /covers/619405.jpg
+    rating: 4.3
+    date: '2026-04-27'
+    code: 619405
+    url: /works/619405/
+  - title: Curiosity and the Cost of Innocence
+    author: hoshi-to-lucky
+    cover: /covers/637110.jpg
+    rating: 4.7
+    date: '2026-05-04'
+    code: 637110
+    url: /works/637110/
   - title: Onsen Haitte tara Joseito-tachi ga Osotte Kita | My Students Jumped Me When
       I Got in the Hot Spring
     author: hamo
@@ -110,6 +235,132 @@ works:
     date: '2026-08-23'
     code: 639772
     url: /works/639772/
+  - title: Delusion story book
+    author: madarame-rin
+    cover: /covers/644810.jpg
+    rating: 4.2
+    date: '2026-05-03'
+    code: 644810
+    url: /works/644810/
+  - title: Sex Between Gloomy Types is the Hottest, Ain't It?
+    author: doji-ro
+    cover: /covers/646757.jpg
+    rating: 4.5
+    date: '2026-05-01'
+    code: 646757
+    url: /works/646757/
+  - title: Ura Aka Joshi no Jidori Ero Gosoushin | A Girl with a Secret-Account Accidentally
+      Sends a Lewd Selfie
+    author: group
+    cover: /covers/646922.jpg
+    rating: 4.9
+    date: '2026-04-30'
+    code: 646922
+    url: /works/646922/
+  - title: 'Library Girlfriend: Descent into Depravity'
+    author: ame-arare
+    cover: /covers/647334.jpg
+    rating: 4.6
+    date: '2026-05-01'
+    code: 647334
+    url: /works/647334/
+  - title: Amanatsu - Sweet Rainy Girly Summer
+    author: sugaishi
+    cover: /covers/647740.jpg
+    rating: 4.3
+    date: '2026-05-04'
+    code: 647740
+    url: /works/647740/
+  - title: Ura Aka Joshi no Jidori Ero Gosoushin | A Girl with a Secret-Account Accidentally
+      Sends a Lewd Selfie
+    author: group
+    cover: /covers/648358.jpg
+    rating: 4.0
+    date: '2026-05-07'
+    code: 648358
+    url: /works/648358/
+  - title: Mama no Saikon Aite wa Papakatsu no Papa | Mom's new husband is my sugar
+      daddy
+    author: shiro-marimo
+    cover: /covers/648384.jpg
+    rating: 4.5
+    date: '2026-05-07'
+    code: 648384
+    url: /works/648384/
+  - title: Imouto Haramasenai to Derarenai Shima 2 | You Must Breed Your Sister to Leave
+      This Island 2!
+    author: airandou
+    cover: /covers/648414.jpg
+    rating: 4.2
+    date: '2026-05-07'
+    code: 648414
+    url: /works/648414/
+  - title: The Story Of Being Used For Sexual Release By My Annoying Childhood Friend
+      And Cousin's Pussy
+    author: karube-guri
+    cover: /covers/648522.jpg
+    rating: 4.2
+    date: '2026-05-07'
+    code: 648522
+    url: /works/648522/
+  - title: Tabidachi Mae no Dai Shiren
+    author: borisu
+    cover: /covers/651317.jpg
+    rating: 4.9
+    date: '2026-05-20'
+    code: 651317
+    url: /works/651317/
+  - title: Kyonyiu kanojo ni hitasura shibori toraremakuru hanashi | Squeeze Until Empty
+    author: fuguta-ke
+    cover: /covers/651343.jpg
+    rating: 4.3
+    date: '2026-05-20'
+    code: 651343
+    url: /works/651343/
+  - title: Boku no kanojo | My Girlfriend
+    author: fuguta-ke
+    cover: /covers/651346.jpg
+    rating: 4.3
+    date: '2026-05-20'
+    code: 651346
+    url: /works/651346/
+  - title: A story about a JK popular actress that gets NTR'd by a photographer boss
+    author: suji-kaminari
+    cover: /covers/651381.jpg
+    rating: 4.6
+    date: '2026-05-20'
+    code: 651381
+    url: /works/651381/
+  - title: Kimi ga Haramu made Genkai Toppa Sex | Limit Breaking Sex until you're Pregnant
+    author: yoshio-ereki-toneridan
+    cover: /covers/651499.jpg
+    rating: 5.0
+    date: '2026-05-21'
+    code: 651499
+    url: /works/651499/
+  - title: Kyonyuu Kanojo ni Hitasura Shibori Toraremakuru Hanashi | Squeeze Until Empty
+    author: fuguta-ke
+    cover: /covers/652218.jpg
+    rating: 4.8
+    date: '2026-05-26'
+    code: 652218
+    url: /works/652218/
+  - title: Kyonyuu no Tomodachi to Tsukiau made no Hanashi | Maybe We'll Start Dating
+      Someday
+    author: fuguta-ke
+    cover: /covers/652244.jpg
+    rating: 5.0
+    date: '2026-05-26'
+    code: 652244
+    url: /works/652244/
+  - title: Muchi Muchi Tennen Joshidaisei no Dosukebe Jorei Taikenroku | The Chunky,
+      Defenseless, Airheaded University Girl Get's A Crash Course In Perverted Exorcisms!
+    author: inamimi
+    cover: /covers/652471.jpg
+    rating: 4.1
+    date: '2026-05-26'
+    code: 652471
+    url: /works/652471/
   - title: A story about a shy childhood friend who can’t say no and ends up being put
       in charge of handling sexual needs.
     author: sakurayu-hal
@@ -133,6 +384,36 @@ works:
     date: '2026-08-29'
     code: 660399
     url: /works/660399/
+  - title: Shoujo Osotte Mita ~Ooame ga Warui n janai~
+    author: yoko-juusuke
+    cover: /covers/661894.jpg
+    rating: 5.0
+    date: '2026-07-07'
+    code: 661894
+    url: /works/661894/
+  - title: Love wa Gal kara Hajimaru Unmei | Love is a Destiny That Begins with a Gal
+      ch.1-5
+    author: nusmusbim
+    cover: /covers/661909.jpg
+    rating: 4.1
+    date: '2026-07-07'
+    code: 661909
+    url: /works/661909/
+  - title: Seishidouin no Oshigoto 4 Kohen Rippana Benki ni Sodatta node Daimanzoku
+      de Shidou wo Oeta + C101 Omake
+    author: malcorond
+    cover: /covers/661951.jpg
+    rating: 4.5
+    date: '2026-07-07'
+    code: 661951
+    url: /works/661951/
+  - title: Even though I was supposed to sing that love first!
+    author: densuke
+    cover: /covers/662094.jpg
+    rating: 4.4
+    date: '2026-07-07'
+    code: 662094
+    url: /works/662094/
   - title: Kimi wa Midara na Ohimesama | Your Own Lewd Princess
     author: aoyama-kiiro
     cover: /covers/662891.jpg

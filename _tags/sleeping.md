@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sleeping"
-work_count: 13
+work_count: 23
 works:
   - title: Megane Loli Choukyou Jugyou!! ~Otonashii Megane Lolikko ni Muriyari Dekachin
       Sounyuu~ | The Loli In Glasses' Training Lesson!! ~Force Fucking a Timid Glasses
@@ -19,6 +19,22 @@ works:
     date: '2026-07-10'
     code: 407959
     url: /works/407959/
+  - title: NTR Anniversary + ) [Syukurin] Mitsuha ~Netorare~ (Kimi no Na wa.) [English]
+      [Colorized] by Mikaku
+    author: arakure
+    cover: /covers/414206.jpg
+    rating: 4.2
+    date: '2026-04-27'
+    code: 414206
+    url: /works/414206/
+  - title: 'Misunderstanding Love Hotel Netorare [Arakure] & Kimi no na wa: After Story
+      - Mitsuha ~Netorare~'
+    author: arakure
+    cover: /covers/416883.jpg
+    rating: 4.9
+    date: '2026-04-27'
+    code: 416883
+    url: /works/416883/
   - title: Neteru Onii-chan no Are o Kariru Hanashi
     author: tiger
     cover: /covers/476399.jpg
@@ -33,6 +49,15 @@ works:
     date: '2026-08-19'
     code: 525085
     url: /works/525085/
+  - title: Minpaku ~Ojou-sama-tachi wa Minpaku Keieisha no Wana ni Ochiru~ | Sleeping
+      in the Bed and Breakfast - Young ladies fall into the trap of a private lodging
+      manager
+    author: kinugasa-yuuichi
+    cover: /covers/543494.jpg
+    rating: 4.1
+    date: '2026-07-06'
+    code: 543494
+    url: /works/543494/
   - title: Ore ga Hoshikatta Mono wa Kin Medal Yori Namami Onaho Datta no Kamoshirenai｜Maybe
       what I Wanted was a Flesh and Blood Masturbator Rather than a Gold Medal
     author: carburetor
@@ -41,6 +66,13 @@ works:
     date: '2026-08-24'
     code: 584934
     url: /works/584934/
+  - title: Kyoya, My Childhood Friend Rapes Me In My Dream...
+    author: danimaru
+    cover: /covers/587827.jpg
+    rating: 4.6
+    date: '2026-04-27'
+    code: 587827
+    url: /works/587827/
   - title: Hokenshitsu no Futon no Naka de Satori Sedai JK to Naisho H!
     author: niji-teru
     cover: /covers/606725.jpg
@@ -70,6 +102,34 @@ works:
     date: '2026-08-25'
     code: 643933
     url: /works/643933/
+  - title: 'Library Girlfriend: Descent into Depravity'
+    author: ame-arare
+    cover: /covers/647334.jpg
+    rating: 4.6
+    date: '2026-05-01'
+    code: 647334
+    url: /works/647334/
+  - title: Okaa-san ni Chuu Shinasai
+    author: kuruto
+    cover: /covers/654253.jpg
+    rating: 4.1
+    date: '2026-07-07'
+    code: 654253
+    url: /works/654253/
+  - title: Boshi Soukan no Hajimari
+    author: kuruto
+    cover: /covers/655202.jpg
+    rating: 4.6
+    date: '2026-07-07'
+    code: 655202
+    url: /works/655202/
+  - title: Kyoudai Yuugi | Sibling Game
+    author: takei-masaki
+    cover: /covers/655441.jpg
+    rating: 4.3
+    date: '2026-07-07'
+    code: 655441
+    url: /works/655441/
   - title: Zessan Haishinchuu Gibo Nikubenki Keikaku! Ch.1-5
     author: maki-daikichi
     cover: /covers/656140.jpg
@@ -77,6 +137,20 @@ works:
     date: '2026-08-22'
     code: 656140
     url: /works/656140/
+  - title: Haha to Sake to Musuko 1-2 | MOTHER, ALCOHOL, AND SON 1-2
+    author: mankai-beesuke
+    cover: /covers/656206.jpg
+    rating: 4.5
+    date: '2026-07-07'
+    code: 656206
+    url: /works/656206/
+  - title: Mikami Sensei Ekohiiki Kyoushi no Hisanna Matsuro
+    author: tamagou
+    cover: /covers/661932.jpg
+    rating: 4.5
+    date: '2026-07-07'
+    code: 661932
+    url: /works/661932/
   - title: A late night visit leads to a mother and son's marital sex life together
     author: fuwatoro-opanchu-cake
     cover: /covers/663195.jpg

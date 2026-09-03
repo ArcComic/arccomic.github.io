@@ -1,8 +1,22 @@
 ---
 layout: tag
 tag_name: "niece"
-work_count: 6
+work_count: 8
 works:
+  - title: Atashi ga Nuite Ageyo kka?
+    author: malcorond
+    cover: /covers/547250.jpg
+    rating: 4.1
+    date: '2026-07-07'
+    code: 547250
+    url: /works/547250/
+  - title: Mesu no Ie II ~Tsuma wa Midare Ubareru~
+    author: ame-arare
+    cover: /covers/591112.jpg
+    rating: 4.3
+    date: '2026-05-01'
+    code: 591112
+    url: /works/591112/
   - title: Shinseki no Ko to Otokoyu Haittara Onnanoko datta *Jikotte Sounyuu
     author: unknown
     cover: /covers/664170.jpg

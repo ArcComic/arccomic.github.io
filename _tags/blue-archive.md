@@ -1,8 +1,22 @@
 ---
 layout: tag
 tag_name: "blue archive"
-work_count: 5
+work_count: 9
 works:
+  - title: Oshioki no Jikan - Punishment time
+    author: syoukaki
+    cover: /covers/540125.jpg
+    rating: 4.1
+    date: '2026-05-10'
+    code: 540125
+    url: /works/540125/
+  - title: Astrantia
+    author: kyougoku-shin
+    cover: /covers/598156.jpg
+    rating: 4.3
+    date: '2026-05-10'
+    code: 598156
+    url: /works/598156/
   - title: Noa-chan to Ichaicha suru Hon
     author: remora
     cover: /covers/635512.jpg
@@ -10,6 +24,21 @@ works:
     date: '2026-08-22'
     code: 635512
     url: /works/635512/
+  - title: Rikuhachima Shachou to Himitsu no Keiyaku - secret contract | A Secret Contract
+      with Boss Rikuhachima
+    author: masami-atabe
+    cover: /covers/647645.jpg
+    rating: 4.6
+    date: '2026-05-03'
+    code: 647645
+    url: /works/647645/
+  - title: Warui Sensei ni wa, Sex ga Hitsuyou desu ne
+    author: kinokomushi
+    cover: /covers/652690.jpg
+    rating: 4.6
+    date: '2026-05-26'
+    code: 652690
+    url: /works/652690/
   - title: Yume no Naka de
     author: taji
     cover: /covers/664429.jpg

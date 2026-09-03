@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "shotacon"
-work_count: 34
+work_count: 48
 works:
   - title: CHOCO x LOVE
     author: highlow
@@ -10,6 +10,14 @@ works:
     date: '2026-07-09'
     code: 317673
     url: /works/317673/
+  - title: Onee-chan ga Ecchi na Koto bakka Suru kara... | My older sister only does
+      obscene things...
+    author: danimaru
+    cover: /covers/337171.jpg
+    rating: 4.5
+    date: '2026-04-27'
+    code: 337171
+    url: /works/337171/
   - title: Saikin, Musuko no Yousu ga Hen nan desu | Lately my son has been acting Strangly
     author: matsumoto-jikyuuryoku
     cover: /covers/342639.jpg
@@ -17,6 +25,15 @@ works:
     date: '2026-08-24'
     code: 342639
     url: /works/342639/
+  - title: 'Kouen no Bench ni Suwatteru Kirei na Onee-san ga Boku ni "Ochinchin o Misete"
+      to Itte Kuru no de... | A Pretty Onee-San, that''s sitting on a Bench in the Park...suddenly
+      says to Me: [Show Me Your Dick].'
+    author: ohkura-kazuya
+    cover: /covers/392475.jpg
+    rating: 4.3
+    date: '2026-04-30'
+    code: 392475
+    url: /works/392475/
   - title: Toaru Mura no Fudeoroshi Jijou | *séh₂ swédʰh₁eh₂ weyḱósyo
     author: nora-higuma
     cover: /covers/505779.jpg
@@ -73,6 +90,21 @@ works:
     date: '2026-07-17'
     code: 615538
     url: /works/615538/
+  - title: The Story of How My Brain Was Destroyed After Dating Someone Who Would Grant
+      Any Request
+    author: jakky
+    cover: /covers/627182.jpg
+    rating: 4.9
+    date: '2026-05-26'
+    code: 627182
+    url: /works/627182/
+  - title: Boku no Toshiue no Tomodachi | My Older Friend
+    author: buta
+    cover: /covers/631036.jpg
+    rating: 4.4
+    date: '2026-05-26'
+    code: 631036
+    url: /works/631036/
   - title: Aitsu, Kotowarenai kara.. Remake-ban no Tsuzuki dewa Arimasu ga, Konsaku
       wa Yakinaoshi ja Nai yo. Settei Igai wa Sinsaku da yo. Sonna Kanji no Vol. 2 desu
     author: haruharudo
@@ -104,6 +136,28 @@ works:
     date: '2026-08-25'
     code: 637847
     url: /works/637847/
+  - title: Momoiro Kikyou Boku no Hajimete wa Toshiue Bakunyuu Soap-jou｜Pink Bellflower∶
+      My First Experience with an Older Busty Soapland Lady
+    author: enma
+    cover: /covers/646870.jpg
+    rating: 4.8
+    date: '2026-04-30'
+    code: 646870
+    url: /works/646870/
+  - title: Kimagure Onee-chan 2 | Whimsical Onee-chan 2
+    author: toushiki-yubune
+    cover: /covers/647341.jpg
+    rating: 4.1
+    date: '2026-05-01'
+    code: 647341
+    url: /works/647341/
+  - title: Saya-nee-chan ga Yondemasu | Saya-nee is Calling Me
+    author: tokiwa-midori
+    cover: /covers/647382.jpg
+    rating: 4.7
+    date: '2026-05-03'
+    code: 647382
+    url: /works/647382/
   - title: My Brother Stole My Mother
     author: momoziri-hustle-dou
     cover: /covers/648073.jpg
@@ -111,6 +165,27 @@ works:
     date: '2026-07-17'
     code: 648073
     url: /works/648073/
+  - title: Good Teachers
+    author: nodo
+    cover: /covers/648310.jpg
+    rating: 4.9
+    date: '2026-05-07'
+    code: 648310
+    url: /works/648310/
+  - title: Murasaki no Syoumei | Purple Illumination
+    author: '3104'
+    cover: /covers/648461.jpg
+    rating: 4.1
+    date: '2026-05-07'
+    code: 648461
+    url: /works/648461/
+  - title: Boku no Onee-chan wa Sekai de Ichiban Tsuyokute kakkoiin da.
+    author: riboshika
+    cover: /covers/648551.jpg
+    rating: 4.2
+    date: '2026-05-07'
+    code: 648551
+    url: /works/648551/
   - title: Musume no Kawari ni | Instead of My Daughter
     author: nanao-yukiji
     cover: /covers/651309.jpg
@@ -118,6 +193,13 @@ works:
     date: '2026-07-11'
     code: 651309
     url: /works/651309/
+  - title: Atashi no Hou ga Tsuyoi Hazudattanoni!
+    author: group
+    cover: /covers/652605.jpg
+    rating: 4.0
+    date: '2026-05-26'
+    code: 652605
+    url: /works/652605/
   - title: Karada ga Binkan Sugiru Watashi wa Itoko ni Itazura sarete mo Teikoudekinai!
     author: romomata
     cover: /covers/655421.jpg
@@ -132,6 +214,13 @@ works:
     date: '2026-07-09'
     code: 657256
     url: /works/657256/
+  - title: Murasaki no Shoumei ~Kuroi Muchuu~ | Purple Illumination ~Dark Trance~
+    author: '3104'
+    cover: /covers/660867.jpg
+    rating: 4.1
+    date: '2026-07-06'
+    code: 660867
+    url: /works/660867/
   - title: Shokushu Flower Shop no Onee-san
     author: dozamura
     cover: /covers/661796.jpg
@@ -139,6 +228,22 @@ works:
     date: '2026-08-21'
     code: 661796
     url: /works/661796/
+  - title: Love wa Gal kara Hajimaru Unmei | Love is a Destiny That Begins with a Gal
+      ch.1-5
+    author: nusmusbim
+    cover: /covers/661909.jpg
+    rating: 4.1
+    date: '2026-07-07'
+    code: 661909
+    url: /works/661909/
+  - title: Kasshoku Oneesan no Fudeoroshi Ver. 6 | Brown Lady Takes His First Time Ver.
+      6
+    author: ahugan-sugita
+    cover: /covers/662114.jpg
+    rating: 4.7
+    date: '2026-07-07'
+    code: 662114
+    url: /works/662114/
   - title: Y-kun
     author: kireina-mochi
     cover: /covers/663130.jpg

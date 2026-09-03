@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "muscle"
-work_count: 20
+work_count: 35
 works:
   - title: Netorare Ibe Kiba Shizuka | The Netorare of Kiba Shizuka
     author: terasu-mc
@@ -10,6 +10,29 @@ works:
     date: '2026-07-16'
     code: 288292
     url: /works/288292/
+  - title: Onozomi deshitara Saimin wo ~Maki-san Himitsu no Renai Therapy~ | If you
+      wish, hypnosis ~Maki-san's secret love therapy~
+    author: meeko
+    cover: /covers/498051.jpg
+    rating: 4.4
+    date: '2026-05-03'
+    code: 498051
+    url: /works/498051/
+  - title: Little Blue Bird
+    author: kidouchi-kon
+    cover: /covers/508534.jpg
+    rating: 4.9
+    date: '2026-05-01'
+    code: 508534
+    url: /works/508534/
+  - title: Netorareru.~ Tsuma ga Ochi Yuku Hen'ai Kairaku no Hate ni...1-5 | NETORARERU,
+      A Wife's Descent Into Sinful Pleasures 1-5
+    author: yuuki-ryo
+    cover: /covers/529365.jpg
+    rating: 4.9
+    date: '2026-05-01'
+    code: 529365
+    url: /works/529365/
   - title: '"Sex no Benkyou Shiyokka?" Kareshi ga Iru no ni Itoko kara Shojo wo Ubaware
       Zecchou Shidou 1-5 | Let''s Learn About Sex: Your Cousin Will Take Your Virginity
       and Teach You How to Come 1-5'
@@ -19,6 +42,22 @@ works:
     date: '2026-08-29'
     code: 534388
     url: /works/534388/
+  - title: Taido mo Karada mo Zenbu deka I Segawa-san no Gachi koi Taisho ni Narimashita
+      | I’ve Become The Target of His Affection!
+    author: the-waidan
+    cover: /covers/534823.jpg
+    rating: 4.7
+    date: '2026-05-03'
+    code: 534823
+    url: /works/534823/
+  - title: '"Koitsu no SEX, Do-S Sugi...!" Shuuden Mae, Zetsurin Douki no Hageshime
+      Piston 1 | Intense Sex with My Peerless Colleague Before the Last Train 1'
+    author: ouma
+    cover: /covers/537760.jpg
+    rating: 4.0
+    date: '2026-05-04'
+    code: 537760
+    url: /works/537760/
   - title: '"Koko Ijirareru no Sukidatta yona?" Rinjin wa, Hitozuma no Moto SeFri 1-2
       | My Neighbor Was My Former Sex Friend 1-2'
     author: icelatte
@@ -27,6 +66,13 @@ works:
     date: '2026-07-11'
     code: 538063
     url: /works/538063/
+  - title: Gokinjo Trouble ni wa Gochuui o | Watch Out For Trouble in Your Neighborhood
+    author: hotate-chan
+    cover: /covers/553426.jpg
+    rating: 4.0
+    date: '2026-05-05'
+    code: 553426
+    url: /works/553426/
   - title: Ore ga Hoshikatta Mono wa Kin Medal Yori Namami Onaho Datta no Kamoshirenai｜Maybe
       what I Wanted was a Flesh and Blood Masturbator Rather than a Gold Medal
     author: carburetor
@@ -67,6 +113,13 @@ works:
     date: '2026-08-22'
     code: 635512
     url: /works/635512/
+  - title: Breeding Mother 1-4
+    author: saimon-k
+    cover: /covers/638218.jpg
+    rating: 4.4
+    date: '2026-05-05'
+    code: 638218
+    url: /works/638218/
   - title: Akogare no Hito wa Mou Owari! 3
     author: group
     cover: /covers/642586.jpg
@@ -81,6 +134,64 @@ works:
     date: '2026-08-24'
     code: 642588
     url: /works/642588/
+  - title: Mitsuha ~Netorare~ 10 (Your Name After Story) True Ending
+    author: syukurin
+    cover: /covers/643592.jpg
+    rating: 4.0
+    date: '2026-04-27'
+    code: 643592
+    url: /works/643592/
+  - title: Delusion story book
+    author: madarame-rin
+    cover: /covers/644810.jpg
+    rating: 4.2
+    date: '2026-05-03'
+    code: 644810
+    url: /works/644810/
+  - title: Riho NTR ~Ordered By My Husband to Get Fucked By His Colleague~
+    author: yamamoto-tomomitsu
+    cover: /covers/647620.jpg
+    rating: 4.4
+    date: '2026-05-03'
+    code: 647620
+    url: /works/647620/
+  - title: Imouto Haramasenai to Derarenai Shima 2 | You Must Breed Your Sister to Leave
+      This Island 2!
+    author: airandou
+    cover: /covers/648414.jpg
+    rating: 4.2
+    date: '2026-05-07'
+    code: 648414
+    url: /works/648414/
+  - title: The Obsessive Desires That My Silent Boyfriend's Body Reveals
+    author: the-waidan
+    cover: /covers/649033.jpg
+    rating: 4.8
+    date: '2026-05-10'
+    code: 649033
+    url: /works/649033/
+  - title: Iki Jigoku Refle ni Tokeru Otto Tanshinfunin Hitozuma Inmou Ari
+    author: kotoyoshi-yumisuke
+    cover: /covers/651442.jpg
+    rating: 4.2
+    date: '2026-05-21'
+    code: 651442
+    url: /works/651442/
+  - title: Kiraware H ~Boku o Kirai na Kimi ga Suki~ Momoka Hen
+    author: unknown
+    cover: /covers/652788.jpg
+    rating: 4.7
+    date: '2026-05-27'
+    code: 652788
+    url: /works/652788/
+  - title: Onna Tomodachi to Omotteitara Mesu Deshita | I Thought She Was Just a Friend,
+      Turned Out She Was a Woman
+    author: ippan-seijin
+    cover: /covers/660869.jpg
+    rating: 4.4
+    date: '2026-07-05'
+    code: 660869
+    url: /works/660869/
   - title: Pure Delight A Front-Row Seat
     author: daikanki
     cover: /covers/662550.jpg

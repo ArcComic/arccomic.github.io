@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "tanlines"
-work_count: 7
+work_count: 12
 works:
   - title: CHOCO x LOVE
     author: highlow
@@ -10,6 +10,44 @@ works:
     date: '2026-07-09'
     code: 317673
     url: /works/317673/
+  - title: Nigate na Aitsu ni Benkyou o Oshieru Koto ni Natte... | I Ended Up Teaching
+      That Guy I Hate...
+    author: furaimai
+    cover: /covers/616533.jpg
+    rating: 4.6
+    date: '2026-04-27'
+    code: 616533
+    url: /works/616533/
+  - title: Good Teachers
+    author: nodo
+    cover: /covers/648310.jpg
+    rating: 4.9
+    date: '2026-05-07'
+    code: 648310
+    url: /works/648310/
+  - title: Seishidouin no Oshigoto Soushuuhen1 | Sex Instructor Compilation Vol. 1
+    author: malcorond
+    cover: /covers/653978.jpg
+    rating: 4.8
+    date: '2026-07-07'
+    code: 653978
+    url: /works/653978/
+  - title: Onna Tomodachi to Omotteitara Mesu Deshita | I Thought She Was Just a Friend,
+      Turned Out She Was a Woman
+    author: ippan-seijin
+    cover: /covers/660869.jpg
+    rating: 4.4
+    date: '2026-07-05'
+    code: 660869
+    url: /works/660869/
+  - title: Seishidouin no Oshigoto 4 Kohen Rippana Benki ni Sodatta node Daimanzoku
+      de Shidou wo Oeta + C101 Omake
+    author: malcorond
+    cover: /covers/661951.jpg
+    rating: 4.5
+    date: '2026-07-07'
+    code: 661951
+    url: /works/661951/
   - title: Shoujo Baishun Shima | Girl Prostitution Island
     author: nada-shio
     cover: /covers/662647.jpg

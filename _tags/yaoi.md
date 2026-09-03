@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "yaoi"
-work_count: 8
+work_count: 9
 works:
   - title: Hayato-sensei no Mesu-ka Karute Daigaku-hen | Dr. Hayato's Feminization Medical
       Record ~University Edition~
@@ -26,6 +26,13 @@ works:
     date: '2026-08-22'
     code: 627126
     url: /works/627126/
+  - title: He's being held by her father
+    author: unknown
+    cover: /covers/647938.jpg
+    rating: 4.3
+    date: '2026-05-05'
+    code: 647938
+    url: /works/647938/
   - title: Josou Gyakunan Debusen Ketsuhame Tokoroten
     author: bonske
     cover: /covers/656753.jpg

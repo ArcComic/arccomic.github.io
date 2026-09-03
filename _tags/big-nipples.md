@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big nipples"
-work_count: 5
+work_count: 7
 works:
   - title: Ane no Tomodachi to SeFri ni Natta | My Big Sister's Friends And I Became
       Sex Friends
@@ -11,6 +11,23 @@ works:
     date: '2026-07-11'
     code: 538553
     url: /works/538553/
+  - title: Kaa-san no Nude Model o Shite Itara, Kaa-san no Panchira Mite Bokki Shite
+      Shimai, Soshite...... | I was acting as a nude model for my mom, but then... I
+      caught a glimpse of her panties, got a boner, and well...
+    author: polbockle
+    cover: /covers/652625.jpg
+    rating: 4.9
+    date: '2026-05-26'
+    code: 652625
+    url: /works/652625/
+  - title: Love wa Gal kara Hajimaru Unmei | Love is a Destiny That Begins with a Gal
+      ch.1-5
+    author: nusmusbim
+    cover: /covers/661909.jpg
+    rating: 4.1
+    date: '2026-07-07'
+    code: 661909
+    url: /works/661909/
   - title: Repetitive Practice Mama! The Story of Recieving Sex Ed From an Extremely
       Strict Mother
     author: unknown

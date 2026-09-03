@@ -1,8 +1,31 @@
 ---
 layout: tag
 tag_name: "daughter"
-work_count: 4
+work_count: 7
 works:
+  - title: Nakayoku no Yu e Youkoso Ch. 2 & 3
+    author: enomoto-heights
+    cover: /covers/555849.jpg
+    rating: 4.5
+    date: '2026-04-30'
+    code: 555849
+    url: /works/555849/
+  - title: Inaka ni Sumu Dosukebe Gifu to Kosodate Yome | A Perverted Father-in-Law
+      Living in the Countryside and His Daughter-in-Law Raising Children
+    author: onodera
+    cover: /covers/648110.jpg
+    rating: 4.2
+    date: '2026-05-05'
+    code: 648110
+    url: /works/648110/
+  - title: Mama no Saikon Aite wa Papakatsu no Papa | Mom's new husband is my sugar
+      daddy
+    author: shiro-marimo
+    cover: /covers/648384.jpg
+    rating: 4.5
+    date: '2026-05-07'
+    code: 648384
+    url: /works/648384/
   - title: Natsu Loli Ism Ch. 1-4
     author: molokonomi-hiraya-nobori
     cover: /covers/663056.jpg

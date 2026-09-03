@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "futanari"
-work_count: 5
+work_count: 6
 works:
   - title: Tempt & Throb
     author: mushihara
@@ -24,6 +24,13 @@ works:
     date: '2026-07-08'
     code: 505174
     url: /works/505174/
+  - title: Mother's Scent 1-4
+    author: midnight
+    cover: /covers/532417.jpg
+    rating: 4.2
+    date: '2026-05-26'
+    code: 532417
+    url: /works/532417/
   - title: Nani ga Haeta Hajime | Hajime Grew a Dick!
     author: hyouga
     cover: /covers/664845.jpg

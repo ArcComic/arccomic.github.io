@@ -1,0 +1,12 @@
+---
+layout: artist
+artist_name: "kame-burning"
+work_count: 1
+works:
+  - title: vtUber Eats
+    cover: /covers/649107.jpg
+    rating: 4.3
+    date: '2026-05-10'
+    code: 649107
+    url: /works/649107/
+---

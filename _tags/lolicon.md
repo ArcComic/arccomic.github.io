@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "lolicon"
-work_count: 37
+work_count: 44
 works:
   - title: Megane Loli Choukyou Jugyou!! ~Otonashii Megane Lolikko ni Muriyari Dekachin
       Sounyuu~ | The Loli In Glasses' Training Lesson!! ~Force Fucking a Timid Glasses
@@ -47,6 +47,58 @@ works:
     date: '2026-07-09'
     code: 555216
     url: /works/555216/
+  - title: Meshitaki san-nen, nigiri ichi-nen | Three Years to Master Rice, One Year
+      to Master Nigiri
+    author: polier
+    cover: /covers/583391.jpg
+    rating: 4.6
+    date: '2026-07-07'
+    code: 583391
+    url: /works/583391/
+  - title: Houchiko Hirotte LesSe Suru
+    author: unknown
+    cover: /covers/646967.jpg
+    rating: 4.2
+    date: '2026-04-30'
+    code: 646967
+    url: /works/646967/
+  - title: Netorase Club 2 Anal Name no Tensai to Fellatio no Tensai | Netorase Club
+      2 The Genius of Rimjob and The Genius of Blowjob
+    author: oosawara-sadao
+    cover: /covers/649114.jpg
+    rating: 4.9
+    date: '2026-05-10'
+    code: 649114
+    url: /works/649114/
+  - title: Seishidouin no Oshigoto Soushuuhen1 | Sex Instructor Compilation Vol. 1
+    author: malcorond
+    cover: /covers/653978.jpg
+    rating: 4.8
+    date: '2026-07-07'
+    code: 653978
+    url: /works/653978/
+  - title: Shoujo Osotte Mita ~Ooame ga Warui n janai~
+    author: yoko-juusuke
+    cover: /covers/661894.jpg
+    rating: 5.0
+    date: '2026-07-07'
+    code: 661894
+    url: /works/661894/
+  - title: Tsuntsun
+    author: onizuka-naoshi
+    cover: /covers/661935.jpg
+    rating: 4.4
+    date: '2026-07-07'
+    code: 661935
+    url: /works/661935/
+  - title: Seishidouin no Oshigoto 4 Kohen Rippana Benki ni Sodatta node Daimanzoku
+      de Shidou wo Oeta + C101 Omake
+    author: malcorond
+    cover: /covers/661951.jpg
+    rating: 4.5
+    date: '2026-07-07'
+    code: 661951
+    url: /works/661951/
   - title: Shiori no Nai Akumu
     author: unknown
     cover: /covers/662203.jpg

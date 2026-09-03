@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "first person perspective"
-work_count: 4
+work_count: 5
 works:
   - title: Uwa, Mesugaki Tsuyoi! | Crap, This Mesugaki's Too Powerful!
     author: poncocchan
@@ -17,6 +17,13 @@ works:
     date: '2026-07-16'
     code: 555816
     url: /works/555816/
+  - title: I Want To Take Hikaru Narumi's First Time
+    author: concontochu
+    cover: /covers/649039.jpg
+    rating: 4.6
+    date: '2026-05-10'
+    code: 649039
+    url: /works/649039/
   - title: Pure Delight A Front-Row Seat
     author: daikanki
     cover: /covers/662550.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "apron"
-work_count: 7
+work_count: 10
 works:
   - title: Life with Married Women Just Like a Manga 2 - Ch. 1-5
     author: hidemaru
@@ -10,6 +10,21 @@ works:
     date: '2026-07-08'
     code: 116138
     url: /works/116138/
+  - title: TomoKano Kaa-chan II ~Jitaku, Musuko no Tomodachi ni Ochita Natsu~ | My Mom
+      Is My Friend's Girlfriend 2
+    author: tarobaumu
+    cover: /covers/419017.jpg
+    rating: 4.0
+    date: '2026-05-05'
+    code: 419017
+    url: /works/419017/
+  - title: Rossia kei Hitozuma to Doutei kun no Himitsu no Kankei
+    author: kibi-anmitsu
+    cover: /covers/530293.jpg
+    rating: 4.7
+    date: '2026-05-20'
+    code: 530293
+    url: /works/530293/
   - title: + (SEIKO AYASE VARIOUS) +
     author: st-mya
     cover: /covers/555816.jpg
@@ -38,6 +53,14 @@ works:
     date: '2026-08-18'
     code: 619648
     url: /works/619648/
+  - title: Okaa-san ni wa Kore Gurai shika Dekinai kara... 2 | For Mom the Only Option
+      Left is... 2
+    author: muchipan
+    cover: /covers/646904.jpg
+    rating: 4.2
+    date: '2026-04-30'
+    code: 646904
+    url: /works/646904/
   - title: A Mother Who Had Sex With Her Daughter's Boyfriend
     author: cammy
     cover: /covers/673900.jpg

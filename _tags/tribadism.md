@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "tribadism"
-work_count: 5
+work_count: 6
 works:
   - title: Gekkoutou no Yume - Nyotaika Douwa ~Danshi Kinsei no Tou~
     author: mugen-no-sudadokei
@@ -19,6 +19,13 @@ works:
     date: '2026-07-11'
     code: 617492
     url: /works/617492/
+  - title: Houchiko Hirotte LesSe Suru
+    author: unknown
+    cover: /covers/646967.jpg
+    rating: 4.2
+    date: '2026-04-30'
+    code: 646967
+    url: /works/646967/
   - title: IPU - Invisible Pink Unicorn
     author: masaki-kazuyoshi
     cover: /covers/674268.jpg
