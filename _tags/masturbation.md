@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "masturbation"
-work_count: 18
+work_count: 22
 works:
   - title: Bocchi de Shinda Ore ga Bishoujo Nurse ni Natta Hanashi | The Story of How
       I Died Alone and Became a Sexy Nurse
@@ -43,6 +43,13 @@ works:
     date: '2026-08-25'
     code: 563890
     url: /works/563890/
+  - title: Walking back home in the winter with my childhood friend
+    author: shimetsuki-tanki
+    cover: /covers/565301.jpg
+    rating: 4.6
+    date: '2026-07-13'
+    code: 565301
+    url: /works/565301/
   - title: Yuujin no Haha wa Dekachin ni Yowai | My Friend's Mom is Weak to a Huge Cock
     author: shimofuri
     cover: /covers/593575.jpg
@@ -57,6 +64,28 @@ works:
     date: '2026-07-16'
     code: 617511
     url: /works/617511/
+  - title: Metal Girl Ie Onanie
+    author: ishimura-ishimiso
+    cover: /covers/663142.jpg
+    rating: 4.3
+    date: '2026-07-11'
+    code: 663142
+    url: /works/663142/
+  - title: Gal to Otaku no Idenshi Aishou Batsugun H | The Superb Genetic Compatibility
+      Between a Gyaru and an Otaku
+    author: joucho
+    cover: /covers/663287.jpg
+    rating: 4.7
+    date: '2026-07-11'
+    code: 663287
+    url: /works/663287/
+  - title: Under The Table
+    author: tsuttsu
+    cover: /covers/663765.jpg
+    rating: 5.0
+    date: '2026-07-13'
+    code: 663765
+    url: /works/663765/
   - title: My Genius Senpai Girlfriend Swapped Bodies with a Gal!
     author: kuratsuka-riko
     cover: /covers/664584.jpg

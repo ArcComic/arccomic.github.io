@@ -1,8 +1,25 @@
 ---
 layout: tag
 tag_name: "twintails"
-work_count: 24
+work_count: 30
 works:
+  - title: Megane Loli Choukyou Jugyou!! ~Otonashii Megane Lolikko ni Muriyari Dekachin
+      Sounyuu~ | The Loli In Glasses' Training Lesson!! ~Force Fucking a Timid Glasses
+      Wearing Loli With My Big Cock~ Ch. 1-5
+    author: sakamata-nerimono
+    cover: /covers/358168.jpg
+    rating: 4.7
+    date: '2026-07-13'
+    code: 358168
+    url: /works/358168/
+  - title: Midara na Sensei wa Kirai desu ka? ~Sakura Aimi no Baai~ | Do you hate lewd
+      teachers? ~The Case of Sakura Aimi~
+    author: macho
+    cover: /covers/514183.jpg
+    rating: 4.6
+    date: '2026-07-13'
+    code: 514183
+    url: /works/514183/
   - title: Imouto wa Mesu Orc 7
     author: muneshiro
     cover: /covers/547393.jpg
@@ -25,6 +42,13 @@ works:
     date: '2026-08-31'
     code: 556767
     url: /works/556767/
+  - title: Hokenshitsu no Futon no Naka de Satori Sedai JK to Naisho H!
+    author: niji-teru
+    cover: /covers/606725.jpg
+    rating: 4.6
+    date: '2026-07-13'
+    code: 606725
+    url: /works/606725/
   - title: Naisho no An-chan
     author: seto-ryouko
     cover: /covers/627126.jpg
@@ -48,6 +72,28 @@ works:
     date: '2026-07-16'
     code: 655498
     url: /works/655498/
+  - title: Natsu Loli Ism Ch. 1-4
+    author: molokonomi-hiraya-nobori
+    cover: /covers/663056.jpg
+    rating: 4.8
+    date: '2026-07-11'
+    code: 663056
+    url: /works/663056/
+  - title: Under The Table
+    author: tsuttsu
+    cover: /covers/663765.jpg
+    rating: 5.0
+    date: '2026-07-13'
+    code: 663765
+    url: /works/663765/
+  - title: It was supposed to be a story about two people who loved each other but her
+      best friend stole his virginity
+    author: meisuke
+    cover: /covers/664188.jpg
+    rating: 4.6
+    date: '2026-07-15'
+    code: 664188
+    url: /works/664188/
   - title: Ryuu no Gekirin
     author: p-n
     cover: /covers/664626.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "shaved head"
-work_count: 2
+work_count: 3
 works:
   - title: I'll cut my hair off
     author: umidori-project
@@ -10,6 +10,13 @@ works:
     date: '2026-07-17'
     code: 564042
     url: /works/564042/
+  - title: Y-kun
+    author: kireina-mochi
+    cover: /covers/663130.jpg
+    rating: 4.3
+    date: '2026-07-11'
+    code: 663130
+    url: /works/663130/
   - title: Suki na Joshi ga Hentai Yuujin ni Kuwareta
     author: kemusi-no-bansan-kai
     cover: /covers/664784.jpg

@@ -1,8 +1,16 @@
 ---
 layout: tag
 tag_name: "urination"
-work_count: 8
+work_count: 11
 works:
+  - title: Midara na Sensei wa Kirai desu ka? ~Sakura Aimi no Baai~ | Do you hate lewd
+      teachers? ~The Case of Sakura Aimi~
+    author: macho
+    cover: /covers/514183.jpg
+    rating: 4.6
+    date: '2026-07-13'
+    code: 514183
+    url: /works/514183/
   - title: My Friends Mom Is My Toy
     author: exit-up
     cover: /covers/521812.jpg
@@ -18,6 +26,13 @@ works:
     date: '2026-08-22'
     code: 550948
     url: /works/550948/
+  - title: Walking back home in the winter with my childhood friend
+    author: shimetsuki-tanki
+    cover: /covers/565301.jpg
+    rating: 4.6
+    date: '2026-07-13'
+    code: 565301
+    url: /works/565301/
   - title: Ninshiki Kaihen Saimin Time Card + Joushiki Kaihen Saimin Time Card | Common
       Sense Altering Hypnosis Time Card 1+2
     author: pomi-sword
@@ -34,6 +49,13 @@ works:
     date: '2026-08-20'
     code: 639463
     url: /works/639463/
+  - title: Under The Table
+    author: tsuttsu
+    cover: /covers/663765.jpg
+    rating: 5.0
+    date: '2026-07-13'
+    code: 663765
+    url: /works/663765/
   - title: Yamato Dam o Gosou Seyo! Zenpen Sekaiichi no Senkan
     author: kohri-ms
     cover: /covers/664649.jpg

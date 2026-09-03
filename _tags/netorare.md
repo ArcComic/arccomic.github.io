@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "netorare"
-work_count: 67
+work_count: 80
 works:
   - title: Netorare Ibe Kiba Shizuka | The Netorare of Kiba Shizuka
     author: terasu-mc
@@ -17,6 +17,13 @@ works:
     date: '2026-07-17'
     code: 300943
     url: /works/300943/
+  - title: Doushia (Terasu MC)] Dorei Gazoku
+    author: terasu-mc
+    cover: /covers/427676.jpg
+    rating: 4.6
+    date: '2026-07-15'
+    code: 427676
+    url: /works/427676/
   - title: Musume no Kareshi ni Ochiru Okaa-san. 2 | A Mother Who Falls For Her Daughter's
       Boyfriend 2
     author: sinori
@@ -39,6 +46,13 @@ works:
     date: '2026-07-17'
     code: 477784
     url: /works/477784/
+  - title: Obedience Part 1
+    author: laliberte
+    cover: /covers/501709.jpg
+    rating: 4.5
+    date: '2026-07-11'
+    code: 501709
+    url: /works/501709/
   - title: Hiro-kun no Mama Wa Boku no Dorei 2 | Hiro-kun Mama Is My Sex Slave 2
     author: exit-up
     cover: /covers/508818.jpg
@@ -120,6 +134,14 @@ works:
     date: '2026-08-29'
     code: 534388
     url: /works/534388/
+  - title: '"Koko Ijirareru no Sukidatta yona?" Rinjin wa, Hitozuma no Moto SeFri 1-2
+      | My Neighbor Was My Former Sex Friend 1-2'
+    author: icelatte
+    cover: /covers/538063.jpg
+    rating: 4.1
+    date: '2026-07-11'
+    code: 538063
+    url: /works/538063/
   - title: Kekkon 3-Nen Me no Tsuma wa, Shain Ryokou Chuu ni Otto no Yoko de Netorareru!
       1 | Netorare With a Busty Wife on a Company Trip 1
     author: aoi-shou
@@ -128,6 +150,13 @@ works:
     date: '2026-08-29'
     code: 544324
     url: /works/544324/
+  - title: Okaa-san Itadakimasu. 3
+    author: andoryu
+    cover: /covers/544477.jpg
+    rating: 4.2
+    date: '2026-07-15'
+    code: 544477
+    url: /works/544477/
   - title: + (SEIKO AYASE VARIOUS) +
     author: st-mya
     cover: /covers/555816.jpg
@@ -304,6 +333,76 @@ works:
     date: '2026-08-25'
     code: 656146
     url: /works/656146/
+  - title: Hontou no Shinkon Seikatsu wa, Oji-san no Ie de Hajimattemasu | My real life
+      as a newlywed has begun at the Oji-san's house.
+    author: damda
+    cover: /covers/663089.jpg
+    rating: 4.6
+    date: '2026-07-11'
+    code: 663089
+    url: /works/663089/
+  - title: Y-kun
+    author: kireina-mochi
+    cover: /covers/663130.jpg
+    rating: 4.3
+    date: '2026-07-11'
+    code: 663130
+    url: /works/663130/
+  - title: Ohogoe wo Hiteishita Hitozuma ga Otosareru Hanashi | The Married Woman Who
+      Denied Her Crazy Moans Was Defeated
+    author: hikitogu
+    cover: /covers/663171.jpg
+    rating: 4.8
+    date: '2026-07-11'
+    code: 663171
+    url: /works/663171/
+  - title: Hahaoya to Sex Shita Kibun wa Dou? | How Does it Feel to have Sex with your
+      Mom?
+    author: temperature
+    cover: /covers/663192.jpg
+    rating: 4.9
+    date: '2026-07-11'
+    code: 663192
+    url: /works/663192/
+  - title: Gal to Otaku no Idenshi Aishou Batsugun H | The Superb Genetic Compatibility
+      Between a Gyaru and an Otaku
+    author: joucho
+    cover: /covers/663287.jpg
+    rating: 4.7
+    date: '2026-07-11'
+    code: 663287
+    url: /works/663287/
+  - title: 12-Nenkan Chinpo Tachishiteta Shin Mama ga Musuko no Dōkyūsei ni Netorare
+      Tanetsuke Oho Akume de Mesu no Yorokobi ni Ochita Hi
+    author: unknown
+    cover: /covers/663605.jpg
+    rating: 4.6
+    date: '2026-07-13'
+    code: 663605
+    url: /works/663605/
+  - title: Boku ni Yuuki ga Atta nara | If only I had the courage
+    author: kamakiri-akagi-ryouichi
+    cover: /covers/663672.jpg
+    rating: 4.1
+    date: '2026-07-13'
+    code: 663672
+    url: /works/663672/
+  - title: Till Dick Do Us Part
+    author: ratatatat74-mr-skull
+    cover: /covers/664249.jpg
+    rating: 4.9
+    date: '2026-07-15'
+    code: 664249
+    url: /works/664249/
+  - title: 'Katabutsu Hitozuma no Karada o Mesu ni Kaeta Shitsudo Takame no Ikkagetsu-kan
+      Asedaku Netori Sex | Sweat-Drenched NTR: A Sultry Month Transforming a Prim and
+      Proper Wife into a Lustful Woman'
+    author: kinengusa
+    cover: /covers/664392.jpg
+    rating: 4.8
+    date: '2026-07-15'
+    code: 664392
+    url: /works/664392/
   - title: Chijo Tsuma no Tawamure ~Zenpen~ _ My Boss Has a Slutty Wife Part 1
     author: hikitogu
     cover: /covers/664679.jpg

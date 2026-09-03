@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "squirting"
-work_count: 11
+work_count: 13
 works:
   - title: Dansei ga Kyokutan ni Sukunai Kono Sekai de wa, Seishi wa Kichou na Shigen
       desu. Sono 2 | In a World Where Men Are Scarce, Sperm Is a Precious Resource 2
@@ -47,6 +47,21 @@ works:
     date: '2026-08-22'
     code: 659484
     url: /works/659484/
+  - title: Boku ni Yuuki ga Atta nara | If only I had the courage
+    author: kamakiri-akagi-ryouichi
+    cover: /covers/663672.jpg
+    rating: 4.1
+    date: '2026-07-13'
+    code: 663672
+    url: /works/663672/
+  - title: Repetitive Practice Mama! The Story of Recieving Sex Ed From an Extremely
+      Strict Mother
+    author: unknown
+    cover: /covers/664191.jpg
+    rating: 4.3
+    date: '2026-07-15'
+    code: 664191
+    url: /works/664191/
   - title: Igyou Koubi Kairaku Jigoku 1 + 2
     author: allegro
     cover: /covers/668880.jpg

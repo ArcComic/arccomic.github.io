@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "milf"
-work_count: 78
+work_count: 90
 works:
   - title: HUNDRED GAME Ch. 1-3
     author: kuon-michiyoshi
@@ -31,6 +31,13 @@ works:
     date: '2026-08-24'
     code: 392617
     url: /works/392617/
+  - title: Doushia (Terasu MC)] Dorei Gazoku
+    author: terasu-mc
+    cover: /covers/427676.jpg
+    rating: 4.6
+    date: '2026-07-15'
+    code: 427676
+    url: /works/427676/
   - title: Musume no Kareshi ni Ochiru Okaa-san. 2 | A Mother Who Falls For Her Daughter's
       Boyfriend 2
     author: sinori
@@ -60,6 +67,13 @@ works:
     date: '2026-08-18'
     code: 482454
     url: /works/482454/
+  - title: Obedience Part 1
+    author: laliberte
+    cover: /covers/501709.jpg
+    rating: 4.5
+    date: '2026-07-11'
+    code: 501709
+    url: /works/501709/
   - title: Hiro-kun no Mama Wa Boku no Dorei 2 | Hiro-kun Mama Is My Sex Slave 2
     author: exit-up
     cover: /covers/508818.jpg
@@ -174,6 +188,14 @@ works:
     date: '2026-08-25'
     code: 537490
     url: /works/537490/
+  - title: '"Koko Ijirareru no Sukidatta yona?" Rinjin wa, Hitozuma no Moto SeFri 1-2
+      | My Neighbor Was My Former Sex Friend 1-2'
+    author: icelatte
+    cover: /covers/538063.jpg
+    rating: 4.1
+    date: '2026-07-11'
+    code: 538063
+    url: /works/538063/
   - title: Kekkon 3-Nen Me no Tsuma wa, Shain Ryokou Chuu ni Otto no Yoko de Netorareru!
       1 | Netorare With a Busty Wife on a Company Trip 1
     author: aoi-shou
@@ -182,6 +204,13 @@ works:
     date: '2026-08-29'
     code: 544324
     url: /works/544324/
+  - title: Okaa-san Itadakimasu. 3
+    author: andoryu
+    cover: /covers/544477.jpg
+    rating: 4.2
+    date: '2026-07-15'
+    code: 544477
+    url: /works/544477/
   - title: Watashi sae Gaman Sureba...
     author: hatakeyama-tohya
     cover: /covers/553061.jpg
@@ -296,6 +325,13 @@ works:
     date: '2026-08-25'
     code: 616367
     url: /works/616367/
+  - title: Oneesan no Chitsu-nai ni Shiroi Oshikko to Kiiroi Oshikko
+    author: mosaic-book
+    cover: /covers/636807.jpg
+    rating: 5.0
+    date: '2026-07-13'
+    code: 636807
+    url: /works/636807/
   - title: Haha to iu Kaibutsu ~M Otoko Aka-chan toshite Sodate rareta Boku wa Yasashii
       Mama ni Dekiai sareru~ | Mother, the Monster ~I was raised as a masochistic baby
       and am doted on by my kind mother~
@@ -404,6 +440,62 @@ works:
     date: '2026-08-24'
     code: 659164
     url: /works/659164/
+  - title: Hontou no Shinkon Seikatsu wa, Oji-san no Ie de Hajimattemasu | My real life
+      as a newlywed has begun at the Oji-san's house.
+    author: damda
+    cover: /covers/663089.jpg
+    rating: 4.6
+    date: '2026-07-11'
+    code: 663089
+    url: /works/663089/
+  - title: Y-kun
+    author: kireina-mochi
+    cover: /covers/663130.jpg
+    rating: 4.3
+    date: '2026-07-11'
+    code: 663130
+    url: /works/663130/
+  - title: Ohogoe wo Hiteishita Hitozuma ga Otosareru Hanashi | The Married Woman Who
+      Denied Her Crazy Moans Was Defeated
+    author: hikitogu
+    cover: /covers/663171.jpg
+    rating: 4.8
+    date: '2026-07-11'
+    code: 663171
+    url: /works/663171/
+  - title: Hahaoya to Sex Shita Kibun wa Dou? | How Does it Feel to have Sex with your
+      Mom?
+    author: temperature
+    cover: /covers/663192.jpg
+    rating: 4.9
+    date: '2026-07-11'
+    code: 663192
+    url: /works/663192/
+  - title: Onee-chan Tensei! Junyuu Isekai Seikatsu | Reincarnated Big Sister! Breastfeeding
+      Sex Life in Another World
+    author: mokuyama-hito
+    cover: /covers/663517.jpg
+    rating: 4.4
+    date: '2026-07-13'
+    code: 663517
+    url: /works/663517/
+  - title: Repetitive Practice Mama! The Story of Recieving Sex Ed From an Extremely
+      Strict Mother
+    author: unknown
+    cover: /covers/664191.jpg
+    rating: 4.3
+    date: '2026-07-15'
+    code: 664191
+    url: /works/664191/
+  - title: 'Katabutsu Hitozuma no Karada o Mesu ni Kaeta Shitsudo Takame no Ikkagetsu-kan
+      Asedaku Netori Sex | Sweat-Drenched NTR: A Sultry Month Transforming a Prim and
+      Proper Wife into a Lustful Woman'
+    author: kinengusa
+    cover: /covers/664392.jpg
+    rating: 4.8
+    date: '2026-07-15'
+    code: 664392
+    url: /works/664392/
   - title: Chijo Tsuma no Tawamure ~Zenpen~ _ My Boss Has a Slutty Wife Part 1
     author: hikitogu
     cover: /covers/664679.jpg

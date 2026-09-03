@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "multimouth blowjob"
-work_count: 4
+work_count: 5
 works:
   - title: Onsen Haitte tara Joseito-tachi ga Osotte Kita | My Students Jumped Me When
       I Got in the Hot Spring
@@ -18,6 +18,14 @@ works:
     date: '2026-08-24'
     code: 642585
     url: /works/642585/
+  - title: It was supposed to be a story about two people who loved each other but her
+      best friend stole his virginity
+    author: meisuke
+    cover: /covers/664188.jpg
+    rating: 4.6
+    date: '2026-07-15'
+    code: 664188
+    url: /works/664188/
   - title: 'Seifukusha ~Yami ni Ochiru Hitozuma-tachi~ | Sexploiter: Housewives Falling
       Into Darkness'
     author: hoshino-ryuichi

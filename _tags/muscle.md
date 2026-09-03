@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "muscle"
-work_count: 17
+work_count: 19
 works:
   - title: Netorare Ibe Kiba Shizuka | The Netorare of Kiba Shizuka
     author: terasu-mc
@@ -19,6 +19,14 @@ works:
     date: '2026-08-29'
     code: 534388
     url: /works/534388/
+  - title: '"Koko Ijirareru no Sukidatta yona?" Rinjin wa, Hitozuma no Moto SeFri 1-2
+      | My Neighbor Was My Former Sex Friend 1-2'
+    author: icelatte
+    cover: /covers/538063.jpg
+    rating: 4.1
+    date: '2026-07-11'
+    code: 538063
+    url: /works/538063/
   - title: Ore ga Hoshikatta Mono wa Kin Medal Yori Namami Onaho Datta no Kamoshirenai｜Maybe
       what I Wanted was a Flesh and Blood Masturbator Rather than a Gold Medal
     author: carburetor
@@ -73,6 +81,13 @@ works:
     date: '2026-08-24'
     code: 642588
     url: /works/642588/
+  - title: Boku ni Yuuki ga Atta nara | If only I had the courage
+    author: kamakiri-akagi-ryouichi
+    cover: /covers/663672.jpg
+    rating: 4.1
+    date: '2026-07-13'
+    code: 663672
+    url: /works/663672/
   - title: Mesugaki ni Saikyouiku o!! | Re-Educating A Smug-Brat!!
     author: type-yamada
     cover: /covers/664631.jpg

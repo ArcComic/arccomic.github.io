@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "drunk"
-work_count: 5
+work_count: 6
 works:
   - title: HUNDRED GAME Ch. 1-3
     author: kuon-michiyoshi
@@ -24,6 +24,13 @@ works:
     date: '2026-08-19'
     code: 525085
     url: /works/525085/
+  - title: Cheeky and Charming
+    author: ono-kenuji
+    cover: /covers/663598.jpg
+    rating: 4.1
+    date: '2026-07-13'
+    code: 663598
+    url: /works/663598/
   - title: Yopparai Nee-chan no Jinsei ga Kouten suru Koudou Henyou | Behavioral Transformation
       That Turns the Life of a Drunk Lady Around
     author: toshiue-onee-san-tengoku

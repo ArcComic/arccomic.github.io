@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "huge breasts"
-work_count: 9
+work_count: 11
 works:
   - title: Kyoushi to Mama to Koibito no Kao
     author: mifune-seijirou
@@ -25,6 +25,22 @@ works:
     date: '2026-08-18'
     code: 656319
     url: /works/656319/
+  - title: Gal to Otaku no Idenshi Aishou Batsugun H | The Superb Genetic Compatibility
+      Between a Gyaru and an Otaku
+    author: joucho
+    cover: /covers/663287.jpg
+    rating: 4.7
+    date: '2026-07-11'
+    code: 663287
+    url: /works/663287/
+  - title: It was supposed to be a story about two people who loved each other but her
+      best friend stole his virginity
+    author: meisuke
+    cover: /covers/664188.jpg
+    rating: 4.6
+    date: '2026-07-15'
+    code: 664188
+    url: /works/664188/
   - title: Nuite Moraimakuri Nyuuin Seikatsu ~Tasuketa Cool-Gyaru wa Jitsu wa Sukebe
       deshita~
     author: gujira

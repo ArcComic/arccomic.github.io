@@ -1,8 +1,22 @@
 ---
 layout: tag
 tag_name: "piercing"
-work_count: 8
+work_count: 10
 works:
+  - title: Doushia (Terasu MC)] Dorei Gazoku
+    author: terasu-mc
+    cover: /covers/427676.jpg
+    rating: 4.6
+    date: '2026-07-15'
+    code: 427676
+    url: /works/427676/
+  - title: Metamorphosis
+    author: shindol
+    cover: /covers/616358.jpg
+    rating: 4.6
+    date: '2026-07-15'
+    code: 616358
+    url: /works/616358/
   - title: Kanojo ga Kami o Someta Wake ~Kataomoi no Seiso Kurokami Ojou-sama ga Boku
       no Shiranai Tokoro de Otoko no Aji o Oboeru Hanashi~ | The Real Reason She Changed
       Her Hair

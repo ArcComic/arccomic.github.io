@@ -1,8 +1,17 @@
 ---
 layout: tag
 tag_name: "emotionless sex"
-work_count: 3
+work_count: 4
 works:
+  - title: Megane Loli Choukyou Jugyou!! ~Otonashii Megane Lolikko ni Muriyari Dekachin
+      Sounyuu~ | The Loli In Glasses' Training Lesson!! ~Force Fucking a Timid Glasses
+      Wearing Loli With My Big Cock~ Ch. 1-5
+    author: sakamata-nerimono
+    cover: /covers/358168.jpg
+    rating: 4.7
+    date: '2026-07-13'
+    code: 358168
+    url: /works/358168/
   - title: Tennen Kaa-san ga Ero Kawai Sugiru node, Saimin Onaho Sex Shitatta! | My
       Airheaded Mom Was Too Adorably Sexy, So I Had Hypnotized Onahole Sex with Her!
     author: ginen

@@ -1,8 +1,17 @@
 ---
 layout: tag
 tag_name: "mesuiki"
-work_count: 4
+work_count: 5
 works:
+  - title: Gohoubi wa Karada de. ~Ero-sugi Fukuri Kousei wa Seishori-ka no Oshigoto~
+      (2) | The Reward is the Body ~The Overly Lewd Employee Benefits of the Service
+      Department~
+    author: c-kyuu
+    cover: /covers/664027.jpg
+    rating: 4.9
+    date: '2026-07-15'
+    code: 664027
+    url: /works/664027/
   - title: Otokonoko Otodoke Shimasu! 2 ~Itsumo kuru Haitatsuin-san ga Masaka no Otokonoko
       datta kedo Mayowazu Hameta~
     author: mitsujirou

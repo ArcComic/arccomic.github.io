@@ -1,7 +1,7 @@
 ---
 layout: artist
 artist_name: "ono-kenuji"
-work_count: 1
+work_count: 2
 works:
   - title: Ore no Tsuma wa  Kanpeki  de Kawaii | My Wife's Cuteness is Perfect
     cover: /covers/482454.jpg
@@ -9,4 +9,10 @@ works:
     date: '2026-08-18'
     code: 482454
     url: /works/482454/
+  - title: Cheeky and Charming
+    cover: /covers/663598.jpg
+    rating: 4.1
+    date: '2026-07-13'
+    code: 663598
+    url: /works/663598/
 ---

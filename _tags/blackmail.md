@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "blackmail"
-work_count: 21
+work_count: 26
 works:
   - title: Netorare Ibe Kiba Shizuka | The Netorare of Kiba Shizuka
     author: terasu-mc
@@ -25,6 +25,13 @@ works:
     date: '2026-07-16'
     code: 464371
     url: /works/464371/
+  - title: Obedience Part 1
+    author: laliberte
+    cover: /covers/501709.jpg
+    rating: 4.5
+    date: '2026-07-11'
+    code: 501709
+    url: /works/501709/
   - title: Hiro-kun no Mama Wa Boku no Dorei 2 | Hiro-kun Mama Is My Sex Slave 2
     author: exit-up
     cover: /covers/508818.jpg
@@ -70,6 +77,15 @@ works:
     date: '2026-08-25'
     code: 611978
     url: /works/611978/
+  - title: Shanai no Himegoto ~Stress Kaishou ni Kaisha no Toilet de Onani shite itara,
+      Kouhai ni Kikarete shimatte ita Hanashi~ | Workplace Rendezvous ~Caught Masturbating
+      in the Company Restroom by My Subordinate~
+    author: sato
+    cover: /covers/617492.jpg
+    rating: 4.4
+    date: '2026-07-11'
+    code: 617492
+    url: /works/617492/
   - title: Kanojo ga Kami o Someta Wake ~Kataomoi no Seiso Kurokami Ojou-sama ga Boku
       no Shiranai Tokoro de Otoko no Aji o Oboeru Hanashi~ | The Real Reason She Changed
       Her Hair
@@ -93,6 +109,22 @@ works:
     date: '2026-08-21'
     code: 654114
     url: /works/654114/
+  - title: Hontou no Shinkon Seikatsu wa, Oji-san no Ie de Hajimattemasu | My real life
+      as a newlywed has begun at the Oji-san's house.
+    author: damda
+    cover: /covers/663089.jpg
+    rating: 4.6
+    date: '2026-07-11'
+    code: 663089
+    url: /works/663089/
+  - title: Ohogoe wo Hiteishita Hitozuma ga Otosareru Hanashi | The Married Woman Who
+      Denied Her Crazy Moans Was Defeated
+    author: hikitogu
+    cover: /covers/663171.jpg
+    rating: 4.8
+    date: '2026-07-11'
+    code: 663171
+    url: /works/663171/
   - title: Honey Series
     author: nitta-jun
     cover: /covers/664424.jpg
@@ -100,6 +132,13 @@ works:
     date: '2026-07-16'
     code: 664424
     url: /works/664424/
+  - title: KAWAKAMI FROM THE SEXUAL RELIEF DIVISION
+    author: carpsukidayo
+    cover: /covers/664460.jpg
+    rating: 5.0
+    date: '2026-07-16'
+    code: 664460
+    url: /works/664460/
   - title: 'Seifukusha ~Yami ni Ochiru Hitozuma-tachi~ | Sexploiter: Housewives Falling
       Into Darkness'
     author: hoshino-ryuichi

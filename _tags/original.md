@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "original"
-work_count: 172
+work_count: 202
 works:
   - title: Yuri no o saifu ni shite agemasu ne, Senpai | I'll turn you into Yuri's wallet,
       Senpai
@@ -47,6 +47,13 @@ works:
     date: '2026-08-24'
     code: 392617
     url: /works/392617/
+  - title: Doushia (Terasu MC)] Dorei Gazoku
+    author: terasu-mc
+    cover: /covers/427676.jpg
+    rating: 4.6
+    date: '2026-07-15'
+    code: 427676
+    url: /works/427676/
   - title: Ashizeme Kanojo _0 | girlfriend who likes to torture with her feet _0
     author: kaoinshou-zero
     cover: /covers/430672.jpg
@@ -91,6 +98,13 @@ works:
     date: '2026-08-31'
     code: 494172
     url: /works/494172/
+  - title: Obedience Part 1
+    author: laliberte
+    cover: /covers/501709.jpg
+    rating: 4.5
+    date: '2026-07-11'
+    code: 501709
+    url: /works/501709/
   - title: Musuko no Sensei wa Kyonyuu Bijo ♡ | My Son's Teacher is a Well-Endowed Woman
       ♡
     author: taki
@@ -136,6 +150,14 @@ works:
     date: '2026-07-17'
     code: 512326
     url: /works/512326/
+  - title: Midara na Sensei wa Kirai desu ka? ~Sakura Aimi no Baai~ | Do you hate lewd
+      teachers? ~The Case of Sakura Aimi~
+    author: macho
+    cover: /covers/514183.jpg
+    rating: 4.6
+    date: '2026-07-13'
+    code: 514183
+    url: /works/514183/
   - title: Mukashi no Uwaki Aite no Ko ga Jitsu wa Watashi no Musuko no Doukyuusei de
       2
     author: shomu
@@ -188,6 +210,13 @@ works:
     date: '2026-08-18'
     code: 530728
     url: /works/530728/
+  - title: Shut-less
+    author: mr-hokke
+    cover: /covers/531966.jpg
+    rating: 4.3
+    date: '2026-07-11'
+    code: 531966
+    url: /works/531966/
   - title: Youka-go Tsuma no Haha o Daku | Eight Days With My Wife's Mother
     author: jagaimo
     cover: /covers/534808.jpg
@@ -212,6 +241,13 @@ works:
     date: '2026-08-20'
     code: 537794
     url: /works/537794/
+  - title: Okaa-san Itadakimasu. 3
+    author: andoryu
+    cover: /covers/544477.jpg
+    rating: 4.2
+    date: '2026-07-15'
+    code: 544477
+    url: /works/544477/
   - title: Jinsei Hametsu JC ~Watashi no Jinsei, Doushite Kounacchattan daro?~ | Middle
       Schooler's Life Ruined - How Did My Life Turn Out Like This [English] =TB=
     author: circle-hitori
@@ -287,6 +323,13 @@ works:
     date: '2026-07-17'
     code: 564042
     url: /works/564042/
+  - title: Walking back home in the winter with my childhood friend
+    author: shimetsuki-tanki
+    cover: /covers/565301.jpg
+    rating: 4.6
+    date: '2026-07-13'
+    code: 565301
+    url: /works/565301/
   - title: Ninshiki Kaihen Saimin Time Card + Joushiki Kaihen Saimin Time Card | Common
       Sense Altering Hypnosis Time Card 1+2
     author: pomi-sword
@@ -367,6 +410,13 @@ works:
     date: '2026-08-31'
     code: 595788
     url: /works/595788/
+  - title: Kouen no Oji-san-tachi ni Moteasobaretai
+    author: group
+    cover: /covers/598010.jpg
+    rating: 5.0
+    date: '2026-07-13'
+    code: 598010
+    url: /works/598010/
   - title: Otoko no Ko otodokeshimasu! ~Itsumo kuru Haitatsuin-san ga masaka no Otoko
       no Ko dattakedo mayowazu hameta~
     author: mitsujirou
@@ -375,6 +425,13 @@ works:
     date: '2026-07-16'
     code: 605410
     url: /works/605410/
+  - title: Hokenshitsu no Futon no Naka de Satori Sedai JK to Naisho H!
+    author: niji-teru
+    cover: /covers/606725.jpg
+    rating: 4.6
+    date: '2026-07-13'
+    code: 606725
+    url: /works/606725/
   - title: Sono Gal Mama wa Koubi Suru | This Gyaru Mom is Having Sex.
     author: ameto-yuki
     cover: /covers/608648.jpg
@@ -411,6 +468,15 @@ works:
     date: '2026-08-25'
     code: 616367
     url: /works/616367/
+  - title: Shanai no Himegoto ~Stress Kaishou ni Kaisha no Toilet de Onani shite itara,
+      Kouhai ni Kikarete shimatte ita Hanashi~ | Workplace Rendezvous ~Caught Masturbating
+      in the Company Restroom by My Subordinate~
+    author: sato
+    cover: /covers/617492.jpg
+    rating: 4.4
+    date: '2026-07-11'
+    code: 617492
+    url: /works/617492/
   - title: Naisho no An-chan
     author: seto-ryouko
     cover: /covers/627126.jpg
@@ -443,6 +509,20 @@ works:
     date: '2026-08-29'
     code: 634450
     url: /works/634450/
+  - title: Imouto Oppai de Sukusuku Seikatsu
+    author: asaomi-shimura
+    cover: /covers/636802.jpg
+    rating: 4.6
+    date: '2026-07-13'
+    code: 636802
+    url: /works/636802/
+  - title: Oneesan no Chitsu-nai ni Shiroi Oshikko to Kiiroi Oshikko
+    author: mosaic-book
+    cover: /covers/636807.jpg
+    rating: 5.0
+    date: '2026-07-13'
+    code: 636807
+    url: /works/636807/
   - title: Haha to iu Kaibutsu ~M Otoko Aka-chan toshite Sodate rareta Boku wa Yasashii
       Mama ni Dekiai sareru~ | Mother, the Monster ~I was raised as a masochistic baby
       and am doted on by my kind mother~
@@ -659,6 +739,148 @@ works:
     date: '2026-08-21'
     code: 661796
     url: /works/661796/
+  - title: Hontou no Shinkon Seikatsu wa, Oji-san no Ie de Hajimattemasu | My real life
+      as a newlywed has begun at the Oji-san's house.
+    author: damda
+    cover: /covers/663089.jpg
+    rating: 4.6
+    date: '2026-07-11'
+    code: 663089
+    url: /works/663089/
+  - title: Y-kun
+    author: kireina-mochi
+    cover: /covers/663130.jpg
+    rating: 4.3
+    date: '2026-07-11'
+    code: 663130
+    url: /works/663130/
+  - title: Metal Girl Ie Onanie
+    author: ishimura-ishimiso
+    cover: /covers/663142.jpg
+    rating: 4.3
+    date: '2026-07-11'
+    code: 663142
+    url: /works/663142/
+  - title: Ohogoe wo Hiteishita Hitozuma ga Otosareru Hanashi | The Married Woman Who
+      Denied Her Crazy Moans Was Defeated
+    author: hikitogu
+    cover: /covers/663171.jpg
+    rating: 4.8
+    date: '2026-07-11'
+    code: 663171
+    url: /works/663171/
+  - title: Hahaoya to Sex Shita Kibun wa Dou? | How Does it Feel to have Sex with your
+      Mom?
+    author: temperature
+    cover: /covers/663192.jpg
+    rating: 4.9
+    date: '2026-07-11'
+    code: 663192
+    url: /works/663192/
+  - title: Gal to Otaku no Idenshi Aishou Batsugun H | The Superb Genetic Compatibility
+      Between a Gyaru and an Otaku
+    author: joucho
+    cover: /covers/663287.jpg
+    rating: 4.7
+    date: '2026-07-11'
+    code: 663287
+    url: /works/663287/
+  - title: The Delinquent Gyaru That I Fantasize About Found Out! | Furyou Gal de Ero
+      Mousou Shitetara Honnin ni Bareta Ken
+    author: dynamite-moca
+    cover: /covers/663389.jpg
+    rating: 4.1
+    date: '2026-07-13'
+    code: 663389
+    url: /works/663389/
+  - title: Cheeky and Charming
+    author: ono-kenuji
+    cover: /covers/663598.jpg
+    rating: 4.1
+    date: '2026-07-13'
+    code: 663598
+    url: /works/663598/
+  - title: 12-Nenkan Chinpo Tachishiteta Shin Mama ga Musuko no Dōkyūsei ni Netorare
+      Tanetsuke Oho Akume de Mesu no Yorokobi ni Ochita Hi
+    author: unknown
+    cover: /covers/663605.jpg
+    rating: 4.6
+    date: '2026-07-13'
+    code: 663605
+    url: /works/663605/
+  - title: Kyouiku Mama Musuko no Chinpo ni Kyouiku Sareru
+    author: himegoto-jukujo
+    cover: /covers/663622.jpg
+    rating: 4.7
+    date: '2026-07-13'
+    code: 663622
+    url: /works/663622/
+  - title: Boku ni Yuuki ga Atta nara | If only I had the courage
+    author: kamakiri-akagi-ryouichi
+    cover: /covers/663672.jpg
+    rating: 4.1
+    date: '2026-07-13'
+    code: 663672
+    url: /works/663672/
+  - title: '] Ore no Onna'
+    author: amanagi-seiji
+    cover: /covers/663681.jpg
+    rating: 4.6
+    date: '2026-07-13'
+    code: 663681
+    url: /works/663681/
+  - title: Under The Table
+    author: tsuttsu
+    cover: /covers/663765.jpg
+    rating: 5.0
+    date: '2026-07-13'
+    code: 663765
+    url: /works/663765/
+  - title: Inuzuka-san and her Unusual Hobbies
+    author: carpsukidayo
+    cover: /covers/664022.jpg
+    rating: 4.7
+    date: '2026-07-16'
+    code: 664022
+    url: /works/664022/
+  - title: Shinseki no Ko to Otokoyu Haittara Onnanoko datta *Jikotte Sounyuu
+    author: unknown
+    cover: /covers/664170.jpg
+    rating: 4.5
+    date: '2026-07-15'
+    code: 664170
+    url: /works/664170/
+  - title: It was supposed to be a story about two people who loved each other but her
+      best friend stole his virginity
+    author: meisuke
+    cover: /covers/664188.jpg
+    rating: 4.6
+    date: '2026-07-15'
+    code: 664188
+    url: /works/664188/
+  - title: Till Dick Do Us Part
+    author: ratatatat74-mr-skull
+    cover: /covers/664249.jpg
+    rating: 4.9
+    date: '2026-07-15'
+    code: 664249
+    url: /works/664249/
+  - title: My Chubby Grandma's special heart-warming Massage ♡
+    author: popotto-denki-ichigouten
+    cover: /covers/664284.jpg
+    rating: 4.3
+    date: '2026-07-15'
+    code: 664284
+    url: /works/664284/
+  - title: 'Katabutsu Hitozuma no Karada o Mesu ni Kaeta Shitsudo Takame no Ikkagetsu-kan
+      Asedaku Netori Sex | Sweat-Drenched NTR: A Sultry Month Transforming a Prim and
+      Proper Wife into a Lustful Woman'
+    author: kinengusa
+    cover: /covers/664392.jpg
+    rating: 4.8
+    date: '2026-07-15'
+    code: 664392
+    url: /works/664392/
   - title: Mendoumino ii Kanzaki-san - The Caring Kenzaki-san + Bonus Footage
     author: hiiragi-yuichi-tetsuo
     cover: /covers/664407.jpg

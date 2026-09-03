@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "cheating"
-work_count: 64
+work_count: 69
 works:
   - title: HUNDRED GAME Ch. 1-3
     author: kuon-michiyoshi
@@ -173,6 +173,14 @@ works:
     date: '2026-08-19'
     code: 534808
     url: /works/534808/
+  - title: '"Koko Ijirareru no Sukidatta yona?" Rinjin wa, Hitozuma no Moto SeFri 1-2
+      | My Neighbor Was My Former Sex Friend 1-2'
+    author: icelatte
+    cover: /covers/538063.jpg
+    rating: 4.1
+    date: '2026-07-11'
+    code: 538063
+    url: /works/538063/
   - title: Kekkon 3-Nen Me no Tsuma wa, Shain Ryokou Chuu ni Otto no Yoko de Netorareru!
       1 | Netorare With a Busty Wife on a Company Trip 1
     author: aoi-shou
@@ -319,6 +327,39 @@ works:
     date: '2026-08-21'
     code: 656686
     url: /works/656686/
+  - title: Hontou no Shinkon Seikatsu wa, Oji-san no Ie de Hajimattemasu | My real life
+      as a newlywed has begun at the Oji-san's house.
+    author: damda
+    cover: /covers/663089.jpg
+    rating: 4.6
+    date: '2026-07-11'
+    code: 663089
+    url: /works/663089/
+  - title: Hahaoya to Sex Shita Kibun wa Dou? | How Does it Feel to have Sex with your
+      Mom?
+    author: temperature
+    cover: /covers/663192.jpg
+    rating: 4.9
+    date: '2026-07-11'
+    code: 663192
+    url: /works/663192/
+  - title: Gal to Otaku no Idenshi Aishou Batsugun H | The Superb Genetic Compatibility
+      Between a Gyaru and an Otaku
+    author: joucho
+    cover: /covers/663287.jpg
+    rating: 4.7
+    date: '2026-07-11'
+    code: 663287
+    url: /works/663287/
+  - title: 'Katabutsu Hitozuma no Karada o Mesu ni Kaeta Shitsudo Takame no Ikkagetsu-kan
+      Asedaku Netori Sex | Sweat-Drenched NTR: A Sultry Month Transforming a Prim and
+      Proper Wife into a Lustful Woman'
+    author: kinengusa
+    cover: /covers/664392.jpg
+    rating: 4.8
+    date: '2026-07-15'
+    code: 664392
+    url: /works/664392/
   - title: Honey Series
     author: nitta-jun
     cover: /covers/664424.jpg

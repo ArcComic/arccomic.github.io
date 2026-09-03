@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "handjob"
-work_count: 16
+work_count: 18
 works:
   - title: Yuri no o saifu ni shite agemasu ne, Senpai | I'll turn you into Yuri's wallet,
       Senpai
@@ -71,6 +71,21 @@ works:
     date: '2026-08-22'
     code: 652912
     url: /works/652912/
+  - title: Gal to Otaku no Idenshi Aishou Batsugun H | The Superb Genetic Compatibility
+      Between a Gyaru and an Otaku
+    author: joucho
+    cover: /covers/663287.jpg
+    rating: 4.7
+    date: '2026-07-11'
+    code: 663287
+    url: /works/663287/
+  - title: Till Dick Do Us Part
+    author: ratatatat74-mr-skull
+    cover: /covers/664249.jpg
+    rating: 4.9
+    date: '2026-07-15'
+    code: 664249
+    url: /works/664249/
   - title: Welcome to the Weak Masochist Volleyball Club
     author: hagakure-kurage
     cover: /covers/664758.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "virginity"
-work_count: 21
+work_count: 26
 works:
   - title: Homestay-chu no Doitsu Musume ga Issho ni Furo ni Haitte Kuru Wake | The
       Reason Why a German Girl Takes a Bath Together With Me on Her Homestay
@@ -11,6 +11,13 @@ works:
     date: '2026-08-22'
     code: 344851
     url: /works/344851/
+  - title: Kanojo Face | Girlfriend Face
+    author: mashiro-shirako
+    cover: /covers/346126.jpg
+    rating: 4.2
+    date: '2026-07-13'
+    code: 346126
+    url: /works/346126/
   - title: Kanojo no Kawaii Mieppari | My Cute Gyaru Girlfriend Is a Total Poser
     author: buta
     cover: /covers/441114.jpg
@@ -99,6 +106,13 @@ works:
     date: '2026-08-20'
     code: 639463
     url: /works/639463/
+  - title: Manatsu no Refrain | Midsummer's Refrain
+    author: gen
+    cover: /covers/639514.jpg
+    rating: 4.1
+    date: '2026-07-13'
+    code: 639514
+    url: /works/639514/
   - title: BUTA - 『You did a great job』
     author: buta
     cover: /covers/639772.jpg
@@ -121,6 +135,30 @@ works:
     date: '2026-08-29'
     code: 660399
     url: /works/660399/
+  - title: Gal to Otaku no Idenshi Aishou Batsugun H | The Superb Genetic Compatibility
+      Between a Gyaru and an Otaku
+    author: joucho
+    cover: /covers/663287.jpg
+    rating: 4.7
+    date: '2026-07-11'
+    code: 663287
+    url: /works/663287/
+  - title: The Delinquent Gyaru That I Fantasize About Found Out! | Furyou Gal de Ero
+      Mousou Shitetara Honnin ni Bareta Ken
+    author: dynamite-moca
+    cover: /covers/663389.jpg
+    rating: 4.1
+    date: '2026-07-13'
+    code: 663389
+    url: /works/663389/
+  - title: It was supposed to be a story about two people who loved each other but her
+      best friend stole his virginity
+    author: meisuke
+    cover: /covers/664188.jpg
+    rating: 4.6
+    date: '2026-07-15'
+    code: 664188
+    url: /works/664188/
   - title: Nuite Moraimakuri Nyuuin Seikatsu ~Tasuketa Cool-Gyaru wa Jitsu wa Sukebe
       deshita~
     author: gujira

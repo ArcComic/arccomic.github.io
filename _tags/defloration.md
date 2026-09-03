@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "defloration"
-work_count: 23
+work_count: 33
 works:
   - title: Homestay-chu no Doitsu Musume ga Issho ni Furo ni Haitte Kuru Wake | The
       Reason Why a German Girl Takes a Bath Together With Me on Her Homestay
@@ -11,6 +11,22 @@ works:
     date: '2026-08-22'
     code: 344851
     url: /works/344851/
+  - title: Kanojo Face | Girlfriend Face
+    author: mashiro-shirako
+    cover: /covers/346126.jpg
+    rating: 4.2
+    date: '2026-07-13'
+    code: 346126
+    url: /works/346126/
+  - title: Megane Loli Choukyou Jugyou!! ~Otonashii Megane Lolikko ni Muriyari Dekachin
+      Sounyuu~ | The Loli In Glasses' Training Lesson!! ~Force Fucking a Timid Glasses
+      Wearing Loli With My Big Cock~ Ch. 1-5
+    author: sakamata-nerimono
+    cover: /covers/358168.jpg
+    rating: 4.7
+    date: '2026-07-13'
+    code: 358168
+    url: /works/358168/
   - title: Kanojo no Kawaii Mieppari | My Cute Gyaru Girlfriend Is a Total Poser
     author: buta
     cover: /covers/441114.jpg
@@ -58,6 +74,13 @@ works:
     date: '2026-08-22'
     code: 586316
     url: /works/586316/
+  - title: Metamorphosis
+    author: shindol
+    cover: /covers/616358.jpg
+    rating: 4.6
+    date: '2026-07-15'
+    code: 616358
+    url: /works/616358/
   - title: Onsen Haitte tara Joseito-tachi ga Osotte Kita | My Students Jumped Me When
       I Got in the Hot Spring
     author: hamo
@@ -66,6 +89,13 @@ works:
     date: '2026-08-20'
     code: 639463
     url: /works/639463/
+  - title: Manatsu no Refrain | Midsummer's Refrain
+    author: gen
+    cover: /covers/639514.jpg
+    rating: 4.1
+    date: '2026-07-13'
+    code: 639514
+    url: /works/639514/
   - title: BUTA - 『You did a great job』
     author: buta
     cover: /covers/639772.jpg
@@ -89,6 +119,49 @@ works:
     date: '2026-08-29'
     code: 660399
     url: /works/660399/
+  - title: Natsu Loli Ism Ch. 1-4
+    author: molokonomi-hiraya-nobori
+    cover: /covers/663056.jpg
+    rating: 4.8
+    date: '2026-07-11'
+    code: 663056
+    url: /works/663056/
+  - title: The Delinquent Gyaru That I Fantasize About Found Out! | Furyou Gal de Ero
+      Mousou Shitetara Honnin ni Bareta Ken
+    author: dynamite-moca
+    cover: /covers/663389.jpg
+    rating: 4.1
+    date: '2026-07-13'
+    code: 663389
+    url: /works/663389/
+  - title: Cheeky and Charming
+    author: ono-kenuji
+    cover: /covers/663598.jpg
+    rating: 4.1
+    date: '2026-07-13'
+    code: 663598
+    url: /works/663598/
+  - title: Self Help 2
+    author: maeshima-ryou
+    cover: /covers/663655.jpg
+    rating: 4.9
+    date: '2026-07-13'
+    code: 663655
+    url: /works/663655/
+  - title: Boku ni Yuuki ga Atta nara | If only I had the courage
+    author: kamakiri-akagi-ryouichi
+    cover: /covers/663672.jpg
+    rating: 4.1
+    date: '2026-07-13'
+    code: 663672
+    url: /works/663672/
+  - title: Tsuretette | Ghosts Boy Meets Girl
+    author: kidoban
+    cover: /covers/663745.jpg
+    rating: 4.4
+    date: '2026-07-13'
+    code: 663745
+    url: /works/663745/
   - title: Nuite Moraimakuri Nyuuin Seikatsu ~Tasuketa Cool-Gyaru wa Jitsu wa Sukebe
       deshita~
     author: gujira

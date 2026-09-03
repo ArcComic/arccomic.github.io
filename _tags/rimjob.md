@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "rimjob"
-work_count: 5
+work_count: 7
 works:
   - title: Ore wa Yome ni Sakaraenai... Seiheki o Nigirareteiru | I Can't Say No To
       My Wife... She's Got Me By The Balls!
@@ -26,6 +26,22 @@ works:
     date: '2026-07-16'
     code: 605410
     url: /works/605410/
+  - title: Gal to Otaku no Idenshi Aishou Batsugun H | The Superb Genetic Compatibility
+      Between a Gyaru and an Otaku
+    author: joucho
+    cover: /covers/663287.jpg
+    rating: 4.7
+    date: '2026-07-11'
+    code: 663287
+    url: /works/663287/
+  - title: It was supposed to be a story about two people who loved each other but her
+      best friend stole his virginity
+    author: meisuke
+    cover: /covers/664188.jpg
+    rating: 4.6
+    date: '2026-07-15'
+    code: 664188
+    url: /works/664188/
   - title: 'Seifukusha ~Yami ni Ochiru Hitozuma-tachi~ | Sexploiter: Housewives Falling
       Into Darkness'
     author: hoshino-ryuichi

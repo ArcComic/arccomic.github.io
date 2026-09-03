@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "mother"
-work_count: 46
+work_count: 50
 works:
   - title: Saikin, Musuko no Yousu ga Hen nan desu | Lately my son has been acting Strangly
     author: matsumoto-jikyuuryoku
@@ -271,6 +271,36 @@ works:
     date: '2026-08-24'
     code: 659164
     url: /works/659164/
+  - title: Hahaoya to Sex Shita Kibun wa Dou? | How Does it Feel to have Sex with your
+      Mom?
+    author: temperature
+    cover: /covers/663192.jpg
+    rating: 4.9
+    date: '2026-07-11'
+    code: 663192
+    url: /works/663192/
+  - title: Kyouiku Mama Musuko no Chinpo ni Kyouiku Sareru
+    author: himegoto-jukujo
+    cover: /covers/663622.jpg
+    rating: 4.7
+    date: '2026-07-13'
+    code: 663622
+    url: /works/663622/
+  - title: '] Ore no Onna'
+    author: amanagi-seiji
+    cover: /covers/663681.jpg
+    rating: 4.6
+    date: '2026-07-13'
+    code: 663681
+    url: /works/663681/
+  - title: Repetitive Practice Mama! The Story of Recieving Sex Ed From an Extremely
+      Strict Mother
+    author: unknown
+    cover: /covers/664191.jpg
+    rating: 4.3
+    date: '2026-07-15'
+    code: 664191
+    url: /works/664191/
   - title: Giri no Oyako ga Doukyou Shitereba Kitto kou | If a stepmother and her stepson
       lived together, it would be something like this.
     author: shimipan

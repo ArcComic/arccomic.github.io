@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "full color"
-work_count: 49
+work_count: 54
 works:
   - title: Saikin, Musuko no Yousu ga Hen nan desu | Lately my son has been acting Strangly
     author: matsumoto-jikyuuryoku
@@ -38,6 +38,13 @@ works:
     date: '2026-08-24'
     code: 444152
     url: /works/444152/
+  - title: Obedience Part 1
+    author: laliberte
+    cover: /covers/501709.jpg
+    rating: 4.5
+    date: '2026-07-11'
+    code: 501709
+    url: /works/501709/
   - title: Toaru Mura no Fudeoroshi Jijou | *séh₂ swédʰh₁eh₂ weyḱósyo
     author: nora-higuma
     cover: /covers/505779.jpg
@@ -105,6 +112,13 @@ works:
     date: '2026-08-29'
     code: 544324
     url: /works/544324/
+  - title: Walking back home in the winter with my childhood friend
+    author: shimetsuki-tanki
+    cover: /covers/565301.jpg
+    rating: 4.6
+    date: '2026-07-13'
+    code: 565301
+    url: /works/565301/
   - title: Pashiri no Shita Teku, Yabaitte... ~ Ebi Sori Iki Suru Namaiki Gyaru | Bullied
       Boy's Tongue Revenge Vol.1-4
     author: takayamanon
@@ -249,6 +263,30 @@ works:
     date: '2026-08-24'
     code: 659164
     url: /works/659164/
+  - title: Hahaoya to Sex Shita Kibun wa Dou? | How Does it Feel to have Sex with your
+      Mom?
+    author: temperature
+    cover: /covers/663192.jpg
+    rating: 4.9
+    date: '2026-07-11'
+    code: 663192
+    url: /works/663192/
+  - title: Metamorphosis Chapter 3
+    author: shindol
+    cover: /covers/664216.jpg
+    rating: 4.3
+    date: '2026-07-15'
+    code: 664216
+    url: /works/664216/
+  - title: 'Katabutsu Hitozuma no Karada o Mesu ni Kaeta Shitsudo Takame no Ikkagetsu-kan
+      Asedaku Netori Sex | Sweat-Drenched NTR: A Sultry Month Transforming a Prim and
+      Proper Wife into a Lustful Woman'
+    author: kinengusa
+    cover: /covers/664392.jpg
+    rating: 4.8
+    date: '2026-07-15'
+    code: 664392
+    url: /works/664392/
   - title: My Genius Senpai Girlfriend Swapped Bodies with a Gal!
     author: kuratsuka-riko
     cover: /covers/664584.jpg

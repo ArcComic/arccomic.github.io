@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "multiple orgasms"
-work_count: 11
+work_count: 13
 works:
   - title: Tonari no Ayane-san Desaki Battari Hen
     author: herio
@@ -54,6 +54,21 @@ works:
     date: '2026-08-18'
     code: 656319
     url: /works/656319/
+  - title: Tsuretette | Ghosts Boy Meets Girl
+    author: kidoban
+    cover: /covers/663745.jpg
+    rating: 4.4
+    date: '2026-07-13'
+    code: 663745
+    url: /works/663745/
+  - title: Repetitive Practice Mama! The Story of Recieving Sex Ed From an Extremely
+      Strict Mother
+    author: unknown
+    cover: /covers/664191.jpg
+    rating: 4.3
+    date: '2026-07-15'
+    code: 664191
+    url: /works/664191/
   - title: Soen ni Natteta Osananajimi ga Okuchi Onaho Gayoi Shite Kuru Mikkakan | Three
       Days Treating My Estranged Friend As An Oral Fuckhole
     author: poncocchan

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "tribadism"
-work_count: 4
+work_count: 5
 works:
   - title: Gekkoutou no Yume - Nyotaika Douwa ~Danshi Kinsei no Tou~
     author: mugen-no-sudadokei
@@ -10,6 +10,15 @@ works:
     date: '2026-08-21'
     code: 387365
     url: /works/387365/
+  - title: Shanai no Himegoto ~Stress Kaishou ni Kaisha no Toilet de Onani shite itara,
+      Kouhai ni Kikarete shimatte ita Hanashi~ | Workplace Rendezvous ~Caught Masturbating
+      in the Company Restroom by My Subordinate~
+    author: sato
+    cover: /covers/617492.jpg
+    rating: 4.4
+    date: '2026-07-11'
+    code: 617492
+    url: /works/617492/
   - title: IPU - Invisible Pink Unicorn
     author: masaki-kazuyoshi
     cover: /covers/674268.jpg

@@ -1,8 +1,17 @@
 ---
 layout: tag
 tag_name: "glasses"
-work_count: 37
+work_count: 49
 works:
+  - title: Megane Loli Choukyou Jugyou!! ~Otonashii Megane Lolikko ni Muriyari Dekachin
+      Sounyuu~ | The Loli In Glasses' Training Lesson!! ~Force Fucking a Timid Glasses
+      Wearing Loli With My Big Cock~ Ch. 1-5
+    author: sakamata-nerimono
+    cover: /covers/358168.jpg
+    rating: 4.7
+    date: '2026-07-13'
+    code: 358168
+    url: /works/358168/
   - title: Kaa-san ni wa Ore no Ko o Unde Morau | My mother is going to have my baby
     author: matsumoto-jikyuuryoku
     cover: /covers/444152.jpg
@@ -25,6 +34,14 @@ works:
     date: '2026-08-18'
     code: 511662
     url: /works/511662/
+  - title: Midara na Sensei wa Kirai desu ka? ~Sakura Aimi no Baai~ | Do you hate lewd
+      teachers? ~The Case of Sakura Aimi~
+    author: macho
+    cover: /covers/514183.jpg
+    rating: 4.6
+    date: '2026-07-13'
+    code: 514183
+    url: /works/514183/
   - title: Kyoushi no Oba wa Himitsu no Bakunyuu Ero Cos Layer ~Iinari Gyaku Bunny &
       Sister Cos de Keiren Soku Iki Nakadashi Netori~ | My Teacher Aunt Is Secretly
       A Buxom Erotic Cosplayer
@@ -76,6 +93,22 @@ works:
     date: '2026-08-25'
     code: 595108
     url: /works/595108/
+  - title: Hokenshitsu no Futon no Naka de Satori Sedai JK to Naisho H!
+    author: niji-teru
+    cover: /covers/606725.jpg
+    rating: 4.6
+    date: '2026-07-13'
+    code: 606725
+    url: /works/606725/
+  - title: Shanai no Himegoto ~Stress Kaishou ni Kaisha no Toilet de Onani shite itara,
+      Kouhai ni Kikarete shimatte ita Hanashi~ | Workplace Rendezvous ~Caught Masturbating
+      in the Company Restroom by My Subordinate~
+    author: sato
+    cover: /covers/617492.jpg
+    rating: 4.4
+    date: '2026-07-11'
+    code: 617492
+    url: /works/617492/
   - title: BUTA - 『You did a great job』
     author: buta
     cover: /covers/639772.jpg
@@ -90,6 +123,64 @@ works:
     date: '2026-08-18'
     code: 656319
     url: /works/656319/
+  - title: Natsu Loli Ism Ch. 1-4
+    author: molokonomi-hiraya-nobori
+    cover: /covers/663056.jpg
+    rating: 4.8
+    date: '2026-07-11'
+    code: 663056
+    url: /works/663056/
+  - title: Ohogoe wo Hiteishita Hitozuma ga Otosareru Hanashi | The Married Woman Who
+      Denied Her Crazy Moans Was Defeated
+    author: hikitogu
+    cover: /covers/663171.jpg
+    rating: 4.8
+    date: '2026-07-11'
+    code: 663171
+    url: /works/663171/
+  - title: Kyouiku Mama Musuko no Chinpo ni Kyouiku Sareru
+    author: himegoto-jukujo
+    cover: /covers/663622.jpg
+    rating: 4.7
+    date: '2026-07-13'
+    code: 663622
+    url: /works/663622/
+  - title: Under The Table
+    author: tsuttsu
+    cover: /covers/663765.jpg
+    rating: 5.0
+    date: '2026-07-13'
+    code: 663765
+    url: /works/663765/
+  - title: Repetitive Practice Mama! The Story of Recieving Sex Ed From an Extremely
+      Strict Mother
+    author: unknown
+    cover: /covers/664191.jpg
+    rating: 4.3
+    date: '2026-07-15'
+    code: 664191
+    url: /works/664191/
+  - title: When All Men Become Women
+    author: shikabanekamo
+    cover: /covers/664193.jpg
+    rating: 5.0
+    date: '2026-07-15'
+    code: 664193
+    url: /works/664193/
+  - title: Metamorphosis Chapter 3
+    author: shindol
+    cover: /covers/664216.jpg
+    rating: 4.3
+    date: '2026-07-15'
+    code: 664216
+    url: /works/664216/
+  - title: Till Dick Do Us Part
+    author: ratatatat74-mr-skull
+    cover: /covers/664249.jpg
+    rating: 4.9
+    date: '2026-07-15'
+    code: 664249
+    url: /works/664249/
   - title: Yume no Naka de
     author: taji
     cover: /covers/664429.jpg

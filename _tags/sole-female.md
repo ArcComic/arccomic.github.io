@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole female"
-work_count: 119
+work_count: 144
 works:
   - title: Asuna-san ga Agil ni Netorareru Ohanashi
     author: fujimiya-siryu
@@ -32,6 +32,13 @@ works:
     date: '2026-08-22'
     code: 344851
     url: /works/344851/
+  - title: Kanojo Face | Girlfriend Face
+    author: mashiro-shirako
+    cover: /covers/346126.jpg
+    rating: 4.2
+    date: '2026-07-13'
+    code: 346126
+    url: /works/346126/
   - title: Dakara Ore wa Kanojo o Netori Tsuzuketa.
     author: minamihama-yoriko
     cover: /covers/375962.jpg
@@ -46,6 +53,13 @@ works:
     date: '2026-08-24'
     code: 392617
     url: /works/392617/
+  - title: Doushia (Terasu MC)] Dorei Gazoku
+    author: terasu-mc
+    cover: /covers/427676.jpg
+    rating: 4.6
+    date: '2026-07-15'
+    code: 427676
+    url: /works/427676/
   - title: Tonari no Ayane-san Desaki Battari Hen
     author: herio
     cover: /covers/432356.jpg
@@ -95,6 +109,13 @@ works:
     date: '2026-07-17'
     code: 498679
     url: /works/498679/
+  - title: Tan to Tan | Unique and Us
+    author: mushihara
+    cover: /covers/499536.jpg
+    rating: 4.6
+    date: '2026-07-11'
+    code: 499536
+    url: /works/499536/
   - title: Musuko no Sensei wa Kyonyuu Bijo ♡ | My Son's Teacher is a Well-Endowed Woman
       ♡
     author: taki
@@ -263,6 +284,20 @@ works:
     date: '2026-08-25'
     code: 595108
     url: /works/595108/
+  - title: Kouen no Oji-san-tachi ni Moteasobaretai
+    author: group
+    cover: /covers/598010.jpg
+    rating: 5.0
+    date: '2026-07-13'
+    code: 598010
+    url: /works/598010/
+  - title: Hokenshitsu no Futon no Naka de Satori Sedai JK to Naisho H!
+    author: niji-teru
+    cover: /covers/606725.jpg
+    rating: 4.6
+    date: '2026-07-13'
+    code: 606725
+    url: /works/606725/
   - title: Sono Gal Mama wa Koubi Suru | This Gyaru Mom is Having Sex.
     author: ameto-yuki
     cover: /covers/608648.jpg
@@ -285,6 +320,13 @@ works:
     date: '2026-07-17'
     code: 615538
     url: /works/615538/
+  - title: Metamorphosis
+    author: shindol
+    cover: /covers/616358.jpg
+    rating: 4.6
+    date: '2026-07-15'
+    code: 616358
+    url: /works/616358/
   - title: Tsuma ni Ani to Kozukuri Shite Moraimashita
     author: furaimai
     cover: /covers/616367.jpg
@@ -329,6 +371,13 @@ works:
     date: '2026-08-19'
     code: 638178
     url: /works/638178/
+  - title: Manatsu no Refrain | Midsummer's Refrain
+    author: gen
+    cover: /covers/639514.jpg
+    rating: 4.1
+    date: '2026-07-13'
+    code: 639514
+    url: /works/639514/
   - title: BUTA - 『You did a great job』
     author: buta
     cover: /covers/639772.jpg
@@ -444,6 +493,140 @@ works:
     date: '2026-08-21'
     code: 661796
     url: /works/661796/
+  - title: Hontou no Shinkon Seikatsu wa, Oji-san no Ie de Hajimattemasu | My real life
+      as a newlywed has begun at the Oji-san's house.
+    author: damda
+    cover: /covers/663089.jpg
+    rating: 4.6
+    date: '2026-07-11'
+    code: 663089
+    url: /works/663089/
+  - title: Metal Girl Ie Onanie
+    author: ishimura-ishimiso
+    cover: /covers/663142.jpg
+    rating: 4.3
+    date: '2026-07-11'
+    code: 663142
+    url: /works/663142/
+  - title: Ohogoe wo Hiteishita Hitozuma ga Otosareru Hanashi | The Married Woman Who
+      Denied Her Crazy Moans Was Defeated
+    author: hikitogu
+    cover: /covers/663171.jpg
+    rating: 4.8
+    date: '2026-07-11'
+    code: 663171
+    url: /works/663171/
+  - title: Hahaoya to Sex Shita Kibun wa Dou? | How Does it Feel to have Sex with your
+      Mom?
+    author: temperature
+    cover: /covers/663192.jpg
+    rating: 4.9
+    date: '2026-07-11'
+    code: 663192
+    url: /works/663192/
+  - title: Gal to Otaku no Idenshi Aishou Batsugun H | The Superb Genetic Compatibility
+      Between a Gyaru and an Otaku
+    author: joucho
+    cover: /covers/663287.jpg
+    rating: 4.7
+    date: '2026-07-11'
+    code: 663287
+    url: /works/663287/
+  - title: The Delinquent Gyaru That I Fantasize About Found Out! | Furyou Gal de Ero
+      Mousou Shitetara Honnin ni Bareta Ken
+    author: dynamite-moca
+    cover: /covers/663389.jpg
+    rating: 4.1
+    date: '2026-07-13'
+    code: 663389
+    url: /works/663389/
+  - title: Onee-chan Tensei! Junyuu Isekai Seikatsu | Reincarnated Big Sister! Breastfeeding
+      Sex Life in Another World
+    author: mokuyama-hito
+    cover: /covers/663517.jpg
+    rating: 4.4
+    date: '2026-07-13'
+    code: 663517
+    url: /works/663517/
+  - title: Cheeky and Charming
+    author: ono-kenuji
+    cover: /covers/663598.jpg
+    rating: 4.1
+    date: '2026-07-13'
+    code: 663598
+    url: /works/663598/
+  - title: Self Help 2
+    author: maeshima-ryou
+    cover: /covers/663655.jpg
+    rating: 4.9
+    date: '2026-07-13'
+    code: 663655
+    url: /works/663655/
+  - title: Boku ni Yuuki ga Atta nara | If only I had the courage
+    author: kamakiri-akagi-ryouichi
+    cover: /covers/663672.jpg
+    rating: 4.1
+    date: '2026-07-13'
+    code: 663672
+    url: /works/663672/
+  - title: '] Ore no Onna'
+    author: amanagi-seiji
+    cover: /covers/663681.jpg
+    rating: 4.6
+    date: '2026-07-13'
+    code: 663681
+    url: /works/663681/
+  - title: Tsuretette | Ghosts Boy Meets Girl
+    author: kidoban
+    cover: /covers/663745.jpg
+    rating: 4.4
+    date: '2026-07-13'
+    code: 663745
+    url: /works/663745/
+  - title: Under The Table
+    author: tsuttsu
+    cover: /covers/663765.jpg
+    rating: 5.0
+    date: '2026-07-13'
+    code: 663765
+    url: /works/663765/
+  - title: Gohoubi wa Karada de. ~Ero-sugi Fukuri Kousei wa Seishori-ka no Oshigoto~
+      (2) | The Reward is the Body ~The Overly Lewd Employee Benefits of the Service
+      Department~
+    author: c-kyuu
+    cover: /covers/664027.jpg
+    rating: 4.9
+    date: '2026-07-15'
+    code: 664027
+    url: /works/664027/
+  - title: Shinseki no Ko to Otokoyu Haittara Onnanoko datta *Jikotte Sounyuu
+    author: unknown
+    cover: /covers/664170.jpg
+    rating: 4.5
+    date: '2026-07-15'
+    code: 664170
+    url: /works/664170/
+  - title: Metamorphosis Chapter 3
+    author: shindol
+    cover: /covers/664216.jpg
+    rating: 4.3
+    date: '2026-07-15'
+    code: 664216
+    url: /works/664216/
+  - title: My Chubby Grandma's special heart-warming Massage ♡
+    author: popotto-denki-ichigouten
+    cover: /covers/664284.jpg
+    rating: 4.3
+    date: '2026-07-15'
+    code: 664284
+    url: /works/664284/
+  - title: Himitsu | Secrets
+    author: unknown
+    cover: /covers/664299.jpg
+    rating: 4.4
+    date: '2026-07-15'
+    code: 664299
+    url: /works/664299/
   - title: Yume no Naka de
     author: taji
     cover: /covers/664429.jpg

@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "moral degeneration"
-work_count: 5
+work_count: 7
 works:
+  - title: Metamorphosis
+    author: shindol
+    cover: /covers/616358.jpg
+    rating: 4.6
+    date: '2026-07-15'
+    code: 616358
+    url: /works/616358/
   - title: Kanojo ga Kami o Someta Wake ~Kataomoi no Seiso Kurokami Ojou-sama ga Boku
       no Shiranai Tokoro de Otoko no Aji o Oboeru Hanashi~ | The Real Reason She Changed
       Her Hair
@@ -12,6 +19,13 @@ works:
     date: '2026-08-29'
     code: 634450
     url: /works/634450/
+  - title: Till Dick Do Us Part
+    author: ratatatat74-mr-skull
+    cover: /covers/664249.jpg
+    rating: 4.9
+    date: '2026-07-15'
+    code: 664249
+    url: /works/664249/
   - title: My Genius Senpai Girlfriend Swapped Bodies with a Gal!
     author: kuratsuka-riko
     cover: /covers/664584.jpg

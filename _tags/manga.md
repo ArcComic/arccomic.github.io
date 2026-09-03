@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "manga"
-work_count: 48
+work_count: 59
 works:
   - title: HUNDRED GAME Ch. 1-3
     author: kuon-michiyoshi
@@ -17,6 +17,22 @@ works:
     date: '2026-08-20'
     code: 332781
     url: /works/332781/
+  - title: Kanojo Face | Girlfriend Face
+    author: mashiro-shirako
+    cover: /covers/346126.jpg
+    rating: 4.2
+    date: '2026-07-13'
+    code: 346126
+    url: /works/346126/
+  - title: Megane Loli Choukyou Jugyou!! ~Otonashii Megane Lolikko ni Muriyari Dekachin
+      Sounyuu~ | The Loli In Glasses' Training Lesson!! ~Force Fucking a Timid Glasses
+      Wearing Loli With My Big Cock~ Ch. 1-5
+    author: sakamata-nerimono
+    cover: /covers/358168.jpg
+    rating: 4.7
+    date: '2026-07-13'
+    code: 358168
+    url: /works/358168/
   - title: Kanojo no Kawaii Mieppari | My Cute Gyaru Girlfriend Is a Total Poser
     author: buta
     cover: /covers/441114.jpg
@@ -86,6 +102,14 @@ works:
     date: '2026-08-29'
     code: 534388
     url: /works/534388/
+  - title: '"Koko Ijirareru no Sukidatta yona?" Rinjin wa, Hitozuma no Moto SeFri 1-2
+      | My Neighbor Was My Former Sex Friend 1-2'
+    author: icelatte
+    cover: /covers/538063.jpg
+    rating: 4.1
+    date: '2026-07-11'
+    code: 538063
+    url: /works/538063/
   - title: Kekkon 3-Nen Me no Tsuma wa, Shain Ryokou Chuu ni Otto no Yoko de Netorareru!
       1 | Netorare With a Busty Wife on a Company Trip 1
     author: aoi-shou
@@ -131,6 +155,13 @@ works:
     date: '2026-08-18'
     code: 619648
     url: /works/619648/
+  - title: Manatsu no Refrain | Midsummer's Refrain
+    author: gen
+    cover: /covers/639514.jpg
+    rating: 4.1
+    date: '2026-07-13'
+    code: 639514
+    url: /works/639514/
   - title: BUTA - 『You did a great job』
     author: buta
     cover: /covers/639772.jpg
@@ -167,6 +198,57 @@ works:
     date: '2026-08-29'
     code: 660399
     url: /works/660399/
+  - title: Natsu Loli Ism Ch. 1-4
+    author: molokonomi-hiraya-nobori
+    cover: /covers/663056.jpg
+    rating: 4.8
+    date: '2026-07-11'
+    code: 663056
+    url: /works/663056/
+  - title: Onee-chan Tensei! Junyuu Isekai Seikatsu | Reincarnated Big Sister! Breastfeeding
+      Sex Life in Another World
+    author: mokuyama-hito
+    cover: /covers/663517.jpg
+    rating: 4.4
+    date: '2026-07-13'
+    code: 663517
+    url: /works/663517/
+  - title: Houkago Instant XXX CHAPTER 11
+    author: unknown
+    cover: /covers/663654.jpg
+    rating: 4.3
+    date: '2026-07-13'
+    code: 663654
+    url: /works/663654/
+  - title: Self Help 2
+    author: maeshima-ryou
+    cover: /covers/663655.jpg
+    rating: 4.9
+    date: '2026-07-13'
+    code: 663655
+    url: /works/663655/
+  - title: Tsuretette | Ghosts Boy Meets Girl
+    author: kidoban
+    cover: /covers/663745.jpg
+    rating: 4.4
+    date: '2026-07-13'
+    code: 663745
+    url: /works/663745/
+  - title: When All Men Become Women
+    author: shikabanekamo
+    cover: /covers/664193.jpg
+    rating: 5.0
+    date: '2026-07-15'
+    code: 664193
+    url: /works/664193/
+  - title: Ueno-kun wa Kaihatsu-zumi Dai 87 wa | Ueno-kun Has Been Developed Chapter
+      87
+    author: nakaura
+    cover: /covers/664350.jpg
+    rating: 4.1
+    date: '2026-07-15'
+    code: 664350
+    url: /works/664350/
   - title: Honey Series
     author: nitta-jun
     cover: /covers/664424.jpg

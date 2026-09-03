@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "public use"
-work_count: 2
+work_count: 3
 works:
   - title: Dansei ga Kyokutan ni Sukunai Kono Sekai de wa, Seishi wa Kichou na Shigen
       desu. Sono 2 | In a World Where Men Are Scarce, Sperm Is a Precious Resource 2
@@ -19,4 +19,11 @@ works:
     date: '2026-07-16'
     code: 655498
     url: /works/655498/
+  - title: KAWAKAMI FROM THE SEXUAL RELIEF DIVISION
+    author: carpsukidayo
+    cover: /covers/664460.jpg
+    rating: 5.0
+    date: '2026-07-16'
+    code: 664460
+    url: /works/664460/
 ---

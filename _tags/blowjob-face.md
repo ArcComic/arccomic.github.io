@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "blowjob face"
-work_count: 6
+work_count: 8
 works:
   - title: Youka-go Tsuma no Haha o Daku | Eight Days With My Wife's Mother
     author: jagaimo
@@ -18,6 +18,22 @@ works:
     date: '2026-07-16'
     code: 655498
     url: /works/655498/
+  - title: Hontou no Shinkon Seikatsu wa, Oji-san no Ie de Hajimattemasu | My real life
+      as a newlywed has begun at the Oji-san's house.
+    author: damda
+    cover: /covers/663089.jpg
+    rating: 4.6
+    date: '2026-07-11'
+    code: 663089
+    url: /works/663089/
+  - title: It was supposed to be a story about two people who loved each other but her
+      best friend stole his virginity
+    author: meisuke
+    cover: /covers/664188.jpg
+    rating: 4.6
+    date: '2026-07-15'
+    code: 664188
+    url: /works/664188/
   - title: Soen ni Natteta Osananajimi ga Okuchi Onaho Gayoi Shite Kuru Mikkakan | Three
       Days Treating My Estranged Friend As An Oral Fuckhole
     author: poncocchan

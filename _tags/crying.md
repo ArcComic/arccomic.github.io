@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "crying"
-work_count: 4
+work_count: 5
 works:
+  - title: Boku ni Yuuki ga Atta nara | If only I had the courage
+    author: kamakiri-akagi-ryouichi
+    cover: /covers/663672.jpg
+    rating: 4.1
+    date: '2026-07-13'
+    code: 663672
+    url: /works/663672/
   - title: Ame ga Nioeba | The Scent of Rain
     author: owari-ningen
     cover: /covers/664943.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "full censorship"
-work_count: 19
+work_count: 24
 works:
   - title: HUNDRED GAME Ch. 1-3
     author: kuon-michiyoshi
@@ -17,6 +17,13 @@ works:
     date: '2026-08-20'
     code: 332781
     url: /works/332781/
+  - title: Tan to Tan | Unique and Us
+    author: mushihara
+    cover: /covers/499536.jpg
+    rating: 4.6
+    date: '2026-07-11'
+    code: 499536
+    url: /works/499536/
   - title: Koibito no Furi Shite Tara, Iki Goe ga…. Yukata Sugata no Kyonyuu Oneesan
       ni, Tamarazu Sounyuu 1 I Can’t Stop Myself From Penetrating My Big Boobed Older
       Female Cousin 1
@@ -51,6 +58,14 @@ works:
     date: '2026-08-29'
     code: 534388
     url: /works/534388/
+  - title: '"Koko Ijirareru no Sukidatta yona?" Rinjin wa, Hitozuma no Moto SeFri 1-2
+      | My Neighbor Was My Former Sex Friend 1-2'
+    author: icelatte
+    cover: /covers/538063.jpg
+    rating: 4.1
+    date: '2026-07-11'
+    code: 538063
+    url: /works/538063/
   - title: Iiwa Watashi no Karada Suki ni Shite Ch.1-2
     author: shunjou-shuusuke
     cover: /covers/561787.jpg
@@ -80,6 +95,29 @@ works:
     date: '2026-08-29'
     code: 660399
     url: /works/660399/
+  - title: Onee-chan Tensei! Junyuu Isekai Seikatsu | Reincarnated Big Sister! Breastfeeding
+      Sex Life in Another World
+    author: mokuyama-hito
+    cover: /covers/663517.jpg
+    rating: 4.4
+    date: '2026-07-13'
+    code: 663517
+    url: /works/663517/
+  - title: Houkago Instant XXX CHAPTER 11
+    author: unknown
+    cover: /covers/663654.jpg
+    rating: 4.3
+    date: '2026-07-13'
+    code: 663654
+    url: /works/663654/
+  - title: Repetitive Practice Mama! The Story of Recieving Sex Ed From an Extremely
+      Strict Mother
+    author: unknown
+    cover: /covers/664191.jpg
+    rating: 4.3
+    date: '2026-07-15'
+    code: 664191
+    url: /works/664191/
   - title: Miya-chan no Kyuuin Life! - Chapter 12
     author: furumoto-takeru
     cover: /covers/664766.jpg

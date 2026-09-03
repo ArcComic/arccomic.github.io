@@ -1,8 +1,22 @@
 ---
 layout: tag
 tag_name: "tail"
-work_count: 6
+work_count: 8
 works:
+  - title: Shirayuki Mishiro & Enomiya Milk Saimin Sakunyuu Play Hon Matome
+    author: rurimaru
+    cover: /covers/648800.jpg
+    rating: 4.0
+    date: '2026-07-13'
+    code: 648800
+    url: /works/648800/
+  - title: Himitsu | Secrets
+    author: unknown
+    cover: /covers/664299.jpg
+    rating: 4.4
+    date: '2026-07-15'
+    code: 664299
+    url: /works/664299/
   - title: Erolive Shiori Novella
     author: doji
     cover: /covers/664590.jpg

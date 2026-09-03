@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "breast feeding"
-work_count: 15
+work_count: 18
 works:
   - title: Tonari no Ayane-san Desaki Battari Hen
     author: herio
@@ -83,6 +83,20 @@ works:
     date: '2026-08-18'
     code: 619648
     url: /works/619648/
+  - title: Imouto Oppai de Sukusuku Seikatsu
+    author: asaomi-shimura
+    cover: /covers/636802.jpg
+    rating: 4.6
+    date: '2026-07-13'
+    code: 636802
+    url: /works/636802/
+  - title: Shirayuki Mishiro & Enomiya Milk Saimin Sakunyuu Play Hon Matome
+    author: rurimaru
+    cover: /covers/648800.jpg
+    rating: 4.0
+    date: '2026-07-13'
+    code: 648800
+    url: /works/648800/
   - title: Imouto ga Ore no Kanojo!? 2-haku 3-ka no Ecchi na Kankei | My Sister is My
       Girlfriend!? Sexual Relationship for Two Nights and Three Days
     author: katagiri-kaneharu
@@ -91,6 +105,14 @@ works:
     date: '2026-08-29'
     code: 660399
     url: /works/660399/
+  - title: Onee-chan Tensei! Junyuu Isekai Seikatsu | Reincarnated Big Sister! Breastfeeding
+      Sex Life in Another World
+    author: mokuyama-hito
+    cover: /covers/663517.jpg
+    rating: 4.4
+    date: '2026-07-13'
+    code: 663517
+    url: /works/663517/
   - title: Ame ga Nioeba | The Scent of Rain
     author: owari-ningen
     cover: /covers/664943.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "deepthroat"
-work_count: 11
+work_count: 12
 works:
   - title: Dansei ga Kyokutan ni Sukunai Kono Sekai de wa, Seishi wa Kichou na Shigen
       desu. Sono 2 | In a World Where Men Are Scarce, Sperm Is a Precious Resource 2
@@ -33,6 +33,13 @@ works:
     date: '2026-07-16'
     code: 655498
     url: /works/655498/
+  - title: Metal Girl Ie Onanie
+    author: ishimura-ishimiso
+    cover: /covers/663142.jpg
+    rating: 4.3
+    date: '2026-07-11'
+    code: 663142
+    url: /works/663142/
   - title: Mukatsuku Juumai no Kuchimanko ni Kounai Shasei suru Hanashi.
     author: karube-guri
     cover: /covers/664820.jpg

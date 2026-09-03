@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "ahegao"
-work_count: 35
+work_count: 44
 works:
   - title: Yuri no o saifu ni shite agemasu ne, Senpai | I'll turn you into Yuri's wallet,
       Senpai
@@ -18,6 +18,15 @@ works:
     date: '2026-07-17'
     code: 300943
     url: /works/300943/
+  - title: Megane Loli Choukyou Jugyou!! ~Otonashii Megane Lolikko ni Muriyari Dekachin
+      Sounyuu~ | The Loli In Glasses' Training Lesson!! ~Force Fucking a Timid Glasses
+      Wearing Loli With My Big Cock~ Ch. 1-5
+    author: sakamata-nerimono
+    cover: /covers/358168.jpg
+    rating: 4.7
+    date: '2026-07-13'
+    code: 358168
+    url: /works/358168/
   - title: Shiraishi-san Wa Yokkyu Fuman | Shiraishi-san's Frustrated
     author: carburetor
     cover: /covers/392617.jpg
@@ -40,6 +49,13 @@ works:
     date: '2026-08-31'
     code: 494172
     url: /works/494172/
+  - title: Obedience Part 1
+    author: laliberte
+    cover: /covers/501709.jpg
+    rating: 4.5
+    date: '2026-07-11'
+    code: 501709
+    url: /works/501709/
   - title: Gibo-san wa Boku no Mono 7
     author: c-kyuu
     cover: /covers/511503.jpg
@@ -54,6 +70,14 @@ works:
     date: '2026-08-25'
     code: 512473
     url: /works/512473/
+  - title: Midara na Sensei wa Kirai desu ka? ~Sakura Aimi no Baai~ | Do you hate lewd
+      teachers? ~The Case of Sakura Aimi~
+    author: macho
+    cover: /covers/514183.jpg
+    rating: 4.6
+    date: '2026-07-13'
+    code: 514183
+    url: /works/514183/
   - title: Youka-go Tsuma no Haha o Daku | Eight Days With My Wife's Mother
     author: jagaimo
     cover: /covers/534808.jpg
@@ -69,6 +93,14 @@ works:
     date: '2026-08-20'
     code: 537794
     url: /works/537794/
+  - title: '"Koko Ijirareru no Sukidatta yona?" Rinjin wa, Hitozuma no Moto SeFri 1-2
+      | My Neighbor Was My Former Sex Friend 1-2'
+    author: icelatte
+    cover: /covers/538063.jpg
+    rating: 4.1
+    date: '2026-07-11'
+    code: 538063
+    url: /works/538063/
   - title: Kichiku Kyoushi ni Otosareta Boku no Seitokaichou Part.3
     author: norakuro-nero
     cover: /covers/557452.jpg
@@ -113,6 +145,45 @@ works:
     date: '2026-08-18'
     code: 656319
     url: /works/656319/
+  - title: Ohogoe wo Hiteishita Hitozuma ga Otosareru Hanashi | The Married Woman Who
+      Denied Her Crazy Moans Was Defeated
+    author: hikitogu
+    cover: /covers/663171.jpg
+    rating: 4.8
+    date: '2026-07-11'
+    code: 663171
+    url: /works/663171/
+  - title: Gal to Otaku no Idenshi Aishou Batsugun H | The Superb Genetic Compatibility
+      Between a Gyaru and an Otaku
+    author: joucho
+    cover: /covers/663287.jpg
+    rating: 4.7
+    date: '2026-07-11'
+    code: 663287
+    url: /works/663287/
+  - title: Kyouiku Mama Musuko no Chinpo ni Kyouiku Sareru
+    author: himegoto-jukujo
+    cover: /covers/663622.jpg
+    rating: 4.7
+    date: '2026-07-13'
+    code: 663622
+    url: /works/663622/
+  - title: Gohoubi wa Karada de. ~Ero-sugi Fukuri Kousei wa Seishori-ka no Oshigoto~
+      (2) | The Reward is the Body ~The Overly Lewd Employee Benefits of the Service
+      Department~
+    author: c-kyuu
+    cover: /covers/664027.jpg
+    rating: 4.9
+    date: '2026-07-15'
+    code: 664027
+    url: /works/664027/
+  - title: Shinseki no Ko to Otokoyu Haittara Onnanoko datta *Jikotte Sounyuu
+    author: unknown
+    cover: /covers/664170.jpg
+    rating: 4.5
+    date: '2026-07-15'
+    code: 664170
+    url: /works/664170/
   - title: My Genius Senpai Girlfriend Swapped Bodies with a Gal!
     author: kuratsuka-riko
     cover: /covers/664584.jpg

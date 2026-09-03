@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "blowjob"
-work_count: 82
+work_count: 97
 works:
   - title: Asuna-san ga Agil ni Netorareru Ohanashi
     author: fujimiya-siryu
@@ -18,6 +18,15 @@ works:
     date: '2026-08-22'
     code: 344851
     url: /works/344851/
+  - title: Megane Loli Choukyou Jugyou!! ~Otonashii Megane Lolikko ni Muriyari Dekachin
+      Sounyuu~ | The Loli In Glasses' Training Lesson!! ~Force Fucking a Timid Glasses
+      Wearing Loli With My Big Cock~ Ch. 1-5
+    author: sakamata-nerimono
+    cover: /covers/358168.jpg
+    rating: 4.7
+    date: '2026-07-13'
+    code: 358168
+    url: /works/358168/
   - title: Konoe no Kyuujitsu | Konoe's Day Off
     author: alp
     cover: /covers/479447.jpg
@@ -40,6 +49,13 @@ works:
     date: '2026-07-17'
     code: 498679
     url: /works/498679/
+  - title: Obedience Part 1
+    author: laliberte
+    cover: /covers/501709.jpg
+    rating: 4.5
+    date: '2026-07-11'
+    code: 501709
+    url: /works/501709/
   - title: Toaru Mura no Fudeoroshi Jijou | *séh₂ swédʰh₁eh₂ weyḱósyo
     author: nora-higuma
     cover: /covers/505779.jpg
@@ -195,6 +211,13 @@ works:
     date: '2026-08-31'
     code: 595788
     url: /works/595788/
+  - title: Kouen no Oji-san-tachi ni Moteasobaretai
+    author: group
+    cover: /covers/598010.jpg
+    rating: 5.0
+    date: '2026-07-13'
+    code: 598010
+    url: /works/598010/
   - title: Otoko no Ko otodokeshimasu! ~Itsumo kuru Haitatsuin-san ga masaka no Otoko
       no Ko dattakedo mayowazu hameta~
     author: mitsujirou
@@ -210,6 +233,13 @@ works:
     date: '2026-07-17'
     code: 615538
     url: /works/615538/
+  - title: Metamorphosis
+    author: shindol
+    cover: /covers/616358.jpg
+    rating: 4.6
+    date: '2026-07-15'
+    code: 616358
+    url: /works/616358/
   - title: Tsuma ni Ani to Kozukuri Shite Moraimashita
     author: furaimai
     cover: /covers/616367.jpg
@@ -297,6 +327,88 @@ works:
     date: '2026-08-22'
     code: 659484
     url: /works/659484/
+  - title: Hontou no Shinkon Seikatsu wa, Oji-san no Ie de Hajimattemasu | My real life
+      as a newlywed has begun at the Oji-san's house.
+    author: damda
+    cover: /covers/663089.jpg
+    rating: 4.6
+    date: '2026-07-11'
+    code: 663089
+    url: /works/663089/
+  - title: Y-kun
+    author: kireina-mochi
+    cover: /covers/663130.jpg
+    rating: 4.3
+    date: '2026-07-11'
+    code: 663130
+    url: /works/663130/
+  - title: Metal Girl Ie Onanie
+    author: ishimura-ishimiso
+    cover: /covers/663142.jpg
+    rating: 4.3
+    date: '2026-07-11'
+    code: 663142
+    url: /works/663142/
+  - title: Ohogoe wo Hiteishita Hitozuma ga Otosareru Hanashi | The Married Woman Who
+      Denied Her Crazy Moans Was Defeated
+    author: hikitogu
+    cover: /covers/663171.jpg
+    rating: 4.8
+    date: '2026-07-11'
+    code: 663171
+    url: /works/663171/
+  - title: Gal to Otaku no Idenshi Aishou Batsugun H | The Superb Genetic Compatibility
+      Between a Gyaru and an Otaku
+    author: joucho
+    cover: /covers/663287.jpg
+    rating: 4.7
+    date: '2026-07-11'
+    code: 663287
+    url: /works/663287/
+  - title: The Delinquent Gyaru That I Fantasize About Found Out! | Furyou Gal de Ero
+      Mousou Shitetara Honnin ni Bareta Ken
+    author: dynamite-moca
+    cover: /covers/663389.jpg
+    rating: 4.1
+    date: '2026-07-13'
+    code: 663389
+    url: /works/663389/
+  - title: Cheeky and Charming
+    author: ono-kenuji
+    cover: /covers/663598.jpg
+    rating: 4.1
+    date: '2026-07-13'
+    code: 663598
+    url: /works/663598/
+  - title: Self Help 2
+    author: maeshima-ryou
+    cover: /covers/663655.jpg
+    rating: 4.9
+    date: '2026-07-13'
+    code: 663655
+    url: /works/663655/
+  - title: It was supposed to be a story about two people who loved each other but her
+      best friend stole his virginity
+    author: meisuke
+    cover: /covers/664188.jpg
+    rating: 4.6
+    date: '2026-07-15'
+    code: 664188
+    url: /works/664188/
+  - title: My Chubby Grandma's special heart-warming Massage ♡
+    author: popotto-denki-ichigouten
+    cover: /covers/664284.jpg
+    rating: 4.3
+    date: '2026-07-15'
+    code: 664284
+    url: /works/664284/
+  - title: Himitsu | Secrets
+    author: unknown
+    cover: /covers/664299.jpg
+    rating: 4.4
+    date: '2026-07-15'
+    code: 664299
+    url: /works/664299/
   - title: My Genius Senpai Girlfriend Swapped Bodies with a Gal!
     author: kuratsuka-riko
     cover: /covers/664584.jpg

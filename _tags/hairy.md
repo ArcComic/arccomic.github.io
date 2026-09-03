@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "hairy"
-work_count: 32
+work_count: 38
 works:
   - title: Tonari no Ayane-san Desaki Battari Hen
     author: herio
@@ -10,6 +10,13 @@ works:
     date: '2026-08-18'
     code: 432356
     url: /works/432356/
+  - title: Obedience Part 1
+    author: laliberte
+    cover: /covers/501709.jpg
+    rating: 4.5
+    date: '2026-07-11'
+    code: 501709
+    url: /works/501709/
   - title: Gal to no Asobikata | How to Have Fun With Gyarus!
     author: buta
     cover: /covers/531967.jpg
@@ -17,6 +24,13 @@ works:
     date: '2026-08-23'
     code: 531967
     url: /works/531967/
+  - title: Okaa-san Itadakimasu. 3
+    author: andoryu
+    cover: /covers/544477.jpg
+    rating: 4.2
+    date: '2026-07-15'
+    code: 544477
+    url: /works/544477/
   - title: Ore wa Yome ni Sakaraenai... Seiheki o Nigirareteiru | I Can't Say No To
       My Wife... She's Got Me By The Balls!
     author: inu
@@ -75,6 +89,13 @@ works:
     date: '2026-07-17'
     code: 615538
     url: /works/615538/
+  - title: Metamorphosis
+    author: shindol
+    cover: /covers/616358.jpg
+    rating: 4.6
+    date: '2026-07-15'
+    code: 616358
+    url: /works/616358/
   - title: Kanojo ga Kami o Someta Wake ~Kataomoi no Seiso Kurokami Ojou-sama ga Boku
       no Shiranai Tokoro de Otoko no Aji o Oboeru Hanashi~ | The Real Reason She Changed
       Her Hair
@@ -107,6 +128,29 @@ works:
     date: '2026-08-18'
     code: 656319
     url: /works/656319/
+  - title: Ohogoe wo Hiteishita Hitozuma ga Otosareru Hanashi | The Married Woman Who
+      Denied Her Crazy Moans Was Defeated
+    author: hikitogu
+    cover: /covers/663171.jpg
+    rating: 4.8
+    date: '2026-07-11'
+    code: 663171
+    url: /works/663171/
+  - title: Boku ni Yuuki ga Atta nara | If only I had the courage
+    author: kamakiri-akagi-ryouichi
+    cover: /covers/663672.jpg
+    rating: 4.1
+    date: '2026-07-13'
+    code: 663672
+    url: /works/663672/
+  - title: Repetitive Practice Mama! The Story of Recieving Sex Ed From an Extremely
+      Strict Mother
+    author: unknown
+    cover: /covers/664191.jpg
+    rating: 4.3
+    date: '2026-07-15'
+    code: 664191
+    url: /works/664191/
   - title: Yume no Naka de
     author: taji
     cover: /covers/664429.jpg

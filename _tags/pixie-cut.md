@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "pixie cut"
-work_count: 12
+work_count: 15
 works:
+  - title: Doushia (Terasu MC)] Dorei Gazoku
+    author: terasu-mc
+    cover: /covers/427676.jpg
+    rating: 4.6
+    date: '2026-07-15'
+    code: 427676
+    url: /works/427676/
   - title: Gibo-san wa Boku no Mono 7
     author: c-kyuu
     cover: /covers/511503.jpg
@@ -46,6 +53,20 @@ works:
     date: '2026-08-22'
     code: 652912
     url: /works/652912/
+  - title: Shinseki no Ko to Otokoyu Haittara Onnanoko datta *Jikotte Sounyuu
+    author: unknown
+    cover: /covers/664170.jpg
+    rating: 4.5
+    date: '2026-07-15'
+    code: 664170
+    url: /works/664170/
+  - title: Till Dick Do Us Part
+    author: ratatatat74-mr-skull
+    cover: /covers/664249.jpg
+    rating: 4.9
+    date: '2026-07-15'
+    code: 664249
+    url: /works/664249/
   - title: Giri no Oyako ga Doukyou Shitereba Kitto kou | If a stepmother and her stepson
       lived together, it would be something like this.
     author: shimipan

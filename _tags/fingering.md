@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "fingering"
-work_count: 22
+work_count: 26
 works:
   - title: Gekkoutou no Yume - Nyotaika Douwa ~Danshi Kinsei no Tou~
     author: mugen-no-sudadokei
@@ -25,6 +25,13 @@ works:
     date: '2026-08-31'
     code: 494172
     url: /works/494172/
+  - title: Obedience Part 1
+    author: laliberte
+    cover: /covers/501709.jpg
+    rating: 4.5
+    date: '2026-07-11'
+    code: 501709
+    url: /works/501709/
   - title: Koibito no Furi Shite Tara, Iki Goe ga…. Yukata Sugata no Kyonyuu Oneesan
       ni, Tamarazu Sounyuu 1 I Can’t Stop Myself From Penetrating My Big Boobed Older
       Female Cousin 1
@@ -90,6 +97,13 @@ works:
     date: '2026-08-20'
     code: 639463
     url: /works/639463/
+  - title: Manatsu no Refrain | Midsummer's Refrain
+    author: gen
+    cover: /covers/639514.jpg
+    rating: 4.1
+    date: '2026-07-13'
+    code: 639514
+    url: /works/639514/
   - title: BUTA - 『You did a great job』
     author: buta
     cover: /covers/639772.jpg
@@ -119,6 +133,21 @@ works:
     date: '2026-08-29'
     code: 660399
     url: /works/660399/
+  - title: Hahaoya to Sex Shita Kibun wa Dou? | How Does it Feel to have Sex with your
+      Mom?
+    author: temperature
+    cover: /covers/663192.jpg
+    rating: 4.9
+    date: '2026-07-11'
+    code: 663192
+    url: /works/663192/
+  - title: Boku ni Yuuki ga Atta nara | If only I had the courage
+    author: kamakiri-akagi-ryouichi
+    cover: /covers/663672.jpg
+    rating: 4.1
+    date: '2026-07-13'
+    code: 663672
+    url: /works/663672/
   - title: Makocchi and Riori
     author: yudoufu
     cover: /covers/664742.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "double penetration"
-work_count: 7
+work_count: 8
 works:
   - title: Bitch Mama no Kekkon Riyuu
     author: aoyama-akira
@@ -17,6 +17,13 @@ works:
     date: '2026-08-31'
     code: 595788
     url: /works/595788/
+  - title: Metamorphosis
+    author: shindol
+    cover: /covers/616358.jpg
+    rating: 4.6
+    date: '2026-07-15'
+    code: 616358
+    url: /works/616358/
   - title: Akogare no Hito wa Mou Owari! 3
     author: group
     cover: /covers/642586.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole male"
-work_count: 121
+work_count: 142
 works:
   - title: Netorare Ibe Kiba Shizuka | The Netorare of Kiba Shizuka
     author: terasu-mc
@@ -39,6 +39,13 @@ works:
     date: '2026-08-22'
     code: 344851
     url: /works/344851/
+  - title: Kanojo Face | Girlfriend Face
+    author: mashiro-shirako
+    cover: /covers/346126.jpg
+    rating: 4.2
+    date: '2026-07-13'
+    code: 346126
+    url: /works/346126/
   - title: Shiraishi-san Wa Yokkyu Fuman | Shiraishi-san's Frustrated
     author: carburetor
     cover: /covers/392617.jpg
@@ -250,6 +257,13 @@ works:
     date: '2026-08-25'
     code: 595108
     url: /works/595108/
+  - title: Hokenshitsu no Futon no Naka de Satori Sedai JK to Naisho H!
+    author: niji-teru
+    cover: /covers/606725.jpg
+    rating: 4.6
+    date: '2026-07-13'
+    code: 606725
+    url: /works/606725/
   - title: Caught in the Act
     author: unknown
     cover: /covers/617511.jpg
@@ -280,6 +294,20 @@ works:
     date: '2026-08-22'
     code: 635512
     url: /works/635512/
+  - title: Imouto Oppai de Sukusuku Seikatsu
+    author: asaomi-shimura
+    cover: /covers/636802.jpg
+    rating: 4.6
+    date: '2026-07-13'
+    code: 636802
+    url: /works/636802/
+  - title: Oneesan no Chitsu-nai ni Shiroi Oshikko to Kiiroi Oshikko
+    author: mosaic-book
+    cover: /covers/636807.jpg
+    rating: 5.0
+    date: '2026-07-13'
+    code: 636807
+    url: /works/636807/
   - title: My gentle and kind friend's mom was a slut who devoured young boys' cocks.
     author: dekamatsu
     cover: /covers/637847.jpg
@@ -302,6 +330,13 @@ works:
     date: '2026-08-20'
     code: 639463
     url: /works/639463/
+  - title: Manatsu no Refrain | Midsummer's Refrain
+    author: gen
+    cover: /covers/639514.jpg
+    rating: 4.1
+    date: '2026-07-13'
+    code: 639514
+    url: /works/639514/
   - title: BUTA - 『You did a great job』
     author: buta
     cover: /covers/639772.jpg
@@ -431,6 +466,126 @@ works:
     date: '2026-08-21'
     code: 661796
     url: /works/661796/
+  - title: Hontou no Shinkon Seikatsu wa, Oji-san no Ie de Hajimattemasu | My real life
+      as a newlywed has begun at the Oji-san's house.
+    author: damda
+    cover: /covers/663089.jpg
+    rating: 4.6
+    date: '2026-07-11'
+    code: 663089
+    url: /works/663089/
+  - title: Y-kun
+    author: kireina-mochi
+    cover: /covers/663130.jpg
+    rating: 4.3
+    date: '2026-07-11'
+    code: 663130
+    url: /works/663130/
+  - title: Hahaoya to Sex Shita Kibun wa Dou? | How Does it Feel to have Sex with your
+      Mom?
+    author: temperature
+    cover: /covers/663192.jpg
+    rating: 4.9
+    date: '2026-07-11'
+    code: 663192
+    url: /works/663192/
+  - title: Gal to Otaku no Idenshi Aishou Batsugun H | The Superb Genetic Compatibility
+      Between a Gyaru and an Otaku
+    author: joucho
+    cover: /covers/663287.jpg
+    rating: 4.7
+    date: '2026-07-11'
+    code: 663287
+    url: /works/663287/
+  - title: The Delinquent Gyaru That I Fantasize About Found Out! | Furyou Gal de Ero
+      Mousou Shitetara Honnin ni Bareta Ken
+    author: dynamite-moca
+    cover: /covers/663389.jpg
+    rating: 4.1
+    date: '2026-07-13'
+    code: 663389
+    url: /works/663389/
+  - title: Onee-chan Tensei! Junyuu Isekai Seikatsu | Reincarnated Big Sister! Breastfeeding
+      Sex Life in Another World
+    author: mokuyama-hito
+    cover: /covers/663517.jpg
+    rating: 4.4
+    date: '2026-07-13'
+    code: 663517
+    url: /works/663517/
+  - title: Cheeky and Charming
+    author: ono-kenuji
+    cover: /covers/663598.jpg
+    rating: 4.1
+    date: '2026-07-13'
+    code: 663598
+    url: /works/663598/
+  - title: Houkago Instant XXX CHAPTER 11
+    author: unknown
+    cover: /covers/663654.jpg
+    rating: 4.3
+    date: '2026-07-13'
+    code: 663654
+    url: /works/663654/
+  - title: Self Help 2
+    author: maeshima-ryou
+    cover: /covers/663655.jpg
+    rating: 4.9
+    date: '2026-07-13'
+    code: 663655
+    url: /works/663655/
+  - title: '] Ore no Onna'
+    author: amanagi-seiji
+    cover: /covers/663681.jpg
+    rating: 4.6
+    date: '2026-07-13'
+    code: 663681
+    url: /works/663681/
+  - title: Tsuretette | Ghosts Boy Meets Girl
+    author: kidoban
+    cover: /covers/663745.jpg
+    rating: 4.4
+    date: '2026-07-13'
+    code: 663745
+    url: /works/663745/
+  - title: Under The Table
+    author: tsuttsu
+    cover: /covers/663765.jpg
+    rating: 5.0
+    date: '2026-07-13'
+    code: 663765
+    url: /works/663765/
+  - title: Gohoubi wa Karada de. ~Ero-sugi Fukuri Kousei wa Seishori-ka no Oshigoto~
+      (2) | The Reward is the Body ~The Overly Lewd Employee Benefits of the Service
+      Department~
+    author: c-kyuu
+    cover: /covers/664027.jpg
+    rating: 4.9
+    date: '2026-07-15'
+    code: 664027
+    url: /works/664027/
+  - title: Shinseki no Ko to Otokoyu Haittara Onnanoko datta *Jikotte Sounyuu
+    author: unknown
+    cover: /covers/664170.jpg
+    rating: 4.5
+    date: '2026-07-15'
+    code: 664170
+    url: /works/664170/
+  - title: It was supposed to be a story about two people who loved each other but her
+      best friend stole his virginity
+    author: meisuke
+    cover: /covers/664188.jpg
+    rating: 4.6
+    date: '2026-07-15'
+    code: 664188
+    url: /works/664188/
+  - title: Himitsu | Secrets
+    author: unknown
+    cover: /covers/664299.jpg
+    rating: 4.4
+    date: '2026-07-15'
+    code: 664299
+    url: /works/664299/
   - title: Yume no Naka de
     author: taji
     cover: /covers/664429.jpg

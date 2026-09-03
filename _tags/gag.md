@@ -1,8 +1,29 @@
 ---
 layout: tag
 tag_name: "gag"
-work_count: 4
+work_count: 7
 works:
+  - title: FORBIDDEN RAIN KOBO KANAERU 2
+    author: clef
+    cover: /covers/637709.jpg
+    rating: 4.6
+    date: '2026-07-16'
+    code: 637709
+    url: /works/637709/
+  - title: Metal Girl Ie Onanie
+    author: ishimura-ishimiso
+    cover: /covers/663142.jpg
+    rating: 4.3
+    date: '2026-07-11'
+    code: 663142
+    url: /works/663142/
+  - title: KAWAKAMI FROM THE SEXUAL RELIEF DIVISION
+    author: carpsukidayo
+    cover: /covers/664460.jpg
+    rating: 5.0
+    date: '2026-07-16'
+    code: 664460
+    url: /works/664460/
   - title: 'Seifukusha ~Yami ni Ochiru Hitozuma-tachi~ | Sexploiter: Housewives Falling
       Into Darkness'
     author: hoshino-ryuichi

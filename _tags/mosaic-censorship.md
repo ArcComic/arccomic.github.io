@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "mosaic censorship"
-work_count: 60
+work_count: 71
 works:
   - title: Yuri no o saifu ni shite agemasu ne, Senpai | I'll turn you into Yuri's wallet,
       Senpai
@@ -18,6 +18,15 @@ works:
     date: '2026-08-24'
     code: 342639
     url: /works/342639/
+  - title: Megane Loli Choukyou Jugyou!! ~Otonashii Megane Lolikko ni Muriyari Dekachin
+      Sounyuu~ | The Loli In Glasses' Training Lesson!! ~Force Fucking a Timid Glasses
+      Wearing Loli With My Big Cock~ Ch. 1-5
+    author: sakamata-nerimono
+    cover: /covers/358168.jpg
+    rating: 4.7
+    date: '2026-07-13'
+    code: 358168
+    url: /works/358168/
   - title: Dakara Ore wa Kanojo o Netori Tsuzuketa.
     author: minamihama-yoriko
     cover: /covers/375962.jpg
@@ -105,6 +114,14 @@ works:
     date: '2026-08-18'
     code: 511662
     url: /works/511662/
+  - title: Midara na Sensei wa Kirai desu ka? ~Sakura Aimi no Baai~ | Do you hate lewd
+      teachers? ~The Case of Sakura Aimi~
+    author: macho
+    cover: /covers/514183.jpg
+    rating: 4.6
+    date: '2026-07-13'
+    code: 514183
+    url: /works/514183/
   - title: Niizuma Nanaka no Roshutsu Satsuei
     author: fukurou-naru-tori
     cover: /covers/520363.jpg
@@ -119,6 +136,13 @@ works:
     date: '2026-08-18'
     code: 521812
     url: /works/521812/
+  - title: Shut-less
+    author: mr-hokke
+    cover: /covers/531966.jpg
+    rating: 4.3
+    date: '2026-07-11'
+    code: 531966
+    url: /works/531966/
   - title: Gal to no Asobikata | How to Have Fun With Gyarus!
     author: buta
     cover: /covers/531967.jpg
@@ -150,6 +174,13 @@ works:
     date: '2026-08-31'
     code: 556767
     url: /works/556767/
+  - title: Walking back home in the winter with my childhood friend
+    author: shimetsuki-tanki
+    cover: /covers/565301.jpg
+    rating: 4.6
+    date: '2026-07-13'
+    code: 565301
+    url: /works/565301/
   - title: Doukyuusei no Kyouiku Mama ni Hitomebore!
     author: chotto-b-sen
     cover: /covers/581704.jpg
@@ -165,6 +196,13 @@ works:
     date: '2026-07-17'
     code: 582290
     url: /works/582290/
+  - title: Kouen no Oji-san-tachi ni Moteasobaretai
+    author: group
+    cover: /covers/598010.jpg
+    rating: 5.0
+    date: '2026-07-13'
+    code: 598010
+    url: /works/598010/
   - title: Otoko no Ko otodokeshimasu! ~Itsumo kuru Haitatsuin-san ga masaka no Otoko
       no Ko dattakedo mayowazu hameta~
     author: mitsujirou
@@ -173,6 +211,13 @@ works:
     date: '2026-07-16'
     code: 605410
     url: /works/605410/
+  - title: Hokenshitsu no Futon no Naka de Satori Sedai JK to Naisho H!
+    author: niji-teru
+    cover: /covers/606725.jpg
+    rating: 4.6
+    date: '2026-07-13'
+    code: 606725
+    url: /works/606725/
   - title: Sono Gal Mama wa Koubi Suru | This Gyaru Mom is Having Sex.
     author: ameto-yuki
     cover: /covers/608648.jpg
@@ -187,6 +232,15 @@ works:
     date: '2026-07-17'
     code: 615538
     url: /works/615538/
+  - title: Shanai no Himegoto ~Stress Kaishou ni Kaisha no Toilet de Onani shite itara,
+      Kouhai ni Kikarete shimatte ita Hanashi~ | Workplace Rendezvous ~Caught Masturbating
+      in the Company Restroom by My Subordinate~
+    author: sato
+    cover: /covers/617492.jpg
+    rating: 4.4
+    date: '2026-07-11'
+    code: 617492
+    url: /works/617492/
   - title: Aitsu, Kotowarenai kara.. Remake-ban no Tsuzuki dewa Arimasu ga, Konsaku
       wa Yakinaoshi ja Nai yo. Settei Igai wa Sinsaku da yo. Sonna Kanji no Vol. 2 desu
     author: haruharudo
@@ -287,6 +341,37 @@ works:
     date: '2026-08-21'
     code: 661796
     url: /works/661796/
+  - title: Hahaoya to Sex Shita Kibun wa Dou? | How Does it Feel to have Sex with your
+      Mom?
+    author: temperature
+    cover: /covers/663192.jpg
+    rating: 4.9
+    date: '2026-07-11'
+    code: 663192
+    url: /works/663192/
+  - title: Under The Table
+    author: tsuttsu
+    cover: /covers/663765.jpg
+    rating: 5.0
+    date: '2026-07-13'
+    code: 663765
+    url: /works/663765/
+  - title: Gohoubi wa Karada de. ~Ero-sugi Fukuri Kousei wa Seishori-ka no Oshigoto~
+      (2) | The Reward is the Body ~The Overly Lewd Employee Benefits of the Service
+      Department~
+    author: c-kyuu
+    cover: /covers/664027.jpg
+    rating: 4.9
+    date: '2026-07-15'
+    code: 664027
+    url: /works/664027/
+  - title: When All Men Become Women
+    author: shikabanekamo
+    cover: /covers/664193.jpg
+    rating: 5.0
+    date: '2026-07-15'
+    code: 664193
+    url: /works/664193/
   - title: Honey Series
     author: nitta-jun
     cover: /covers/664424.jpg

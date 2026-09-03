@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "swimsuit"
-work_count: 8
+work_count: 9
 works:
   - title: Pashiri no Shita Teku, Yabaitte... ~ Ebi Sori Iki Suru Namaiki Gyaru | Bullied
       Boy's Tongue Revenge Vol.1-4
@@ -19,6 +19,13 @@ works:
     date: '2026-08-29'
     code: 660399
     url: /works/660399/
+  - title: Natsu Loli Ism Ch. 1-4
+    author: molokonomi-hiraya-nobori
+    cover: /covers/663056.jpg
+    rating: 4.8
+    date: '2026-07-11'
+    code: 663056
+    url: /works/663056/
   - title: Mesugaki ni Saikyouiku o!! | Re-Educating A Smug-Brat!!
     author: type-yamada
     cover: /covers/664631.jpg

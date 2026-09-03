@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "wholesome"
-work_count: 19
+work_count: 21
 works:
   - title: Homestay-chu no Doitsu Musume ga Issho ni Furo ni Haitte Kuru Wake | The
       Reason Why a German Girl Takes a Bath Together With Me on Her Homestay
@@ -11,6 +11,13 @@ works:
     date: '2026-08-22'
     code: 344851
     url: /works/344851/
+  - title: Kanojo Face | Girlfriend Face
+    author: mashiro-shirako
+    cover: /covers/346126.jpg
+    rating: 4.2
+    date: '2026-07-13'
+    code: 346126
+    url: /works/346126/
   - title: Tonari no Ayane-san Desaki Battari Hen
     author: herio
     cover: /covers/432356.jpg
@@ -106,6 +113,14 @@ works:
     date: '2026-08-22'
     code: 659484
     url: /works/659484/
+  - title: The Delinquent Gyaru That I Fantasize About Found Out! | Furyou Gal de Ero
+      Mousou Shitetara Honnin ni Bareta Ken
+    author: dynamite-moca
+    cover: /covers/663389.jpg
+    rating: 4.1
+    date: '2026-07-13'
+    code: 663389
+    url: /works/663389/
   - title: Menkyo Gasshuku de Unmei no Deai o shichatta Hanashi | The Story of How I
       Ended Up Having a Fateful Encounter at a Driver’s License Training Camp
     author: tel-asamine-tel

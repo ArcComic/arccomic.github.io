@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "pregnant"
-work_count: 6
+work_count: 7
 works:
   - title: Jinsei Hametsu JC ~Watashi no Jinsei, Doushite Kounacchattan daro?~ | Middle
       Schooler's Life Ruined - How Did My Life Turn Out Like This [English] =TB=
@@ -11,6 +11,13 @@ works:
     date: '2026-07-17'
     code: 545823
     url: /works/545823/
+  - title: Metamorphosis
+    author: shindol
+    cover: /covers/616358.jpg
+    rating: 4.6
+    date: '2026-07-15'
+    code: 616358
+    url: /works/616358/
   - title: 'Seifukusha ~Yami ni Ochiru Hitozuma-tachi~ | Sexploiter: Housewives Falling
       Into Darkness'
     author: hoshino-ryuichi

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "incest"
-work_count: 60
+work_count: 71
 works:
   - title: Saikin, Musuko no Yousu ga Hen nan desu | Lately my son has been acting Strangly
     author: matsumoto-jikyuuryoku
@@ -141,6 +141,13 @@ works:
     date: '2026-08-25'
     code: 611978
     url: /works/611978/
+  - title: Metamorphosis
+    author: shindol
+    cover: /covers/616358.jpg
+    rating: 4.6
+    date: '2026-07-15'
+    code: 616358
+    url: /works/616358/
   - title: Tsuma ni Ani to Kozukuri Shite Moraimashita
     author: furaimai
     cover: /covers/616367.jpg
@@ -156,6 +163,13 @@ works:
     date: '2026-08-29'
     code: 618087
     url: /works/618087/
+  - title: Imouto Oppai de Sukusuku Seikatsu
+    author: asaomi-shimura
+    cover: /covers/636802.jpg
+    rating: 4.6
+    date: '2026-07-13'
+    code: 636802
+    url: /works/636802/
   - title: Haha to iu Kaibutsu ~M Otoko Aka-chan toshite Sodate rareta Boku wa Yasashii
       Mama ni Dekiai sareru~ | Mother, the Monster ~I was raised as a masochistic baby
       and am doted on by my kind mother~
@@ -306,6 +320,72 @@ works:
     date: '2026-08-29'
     code: 660399
     url: /works/660399/
+  - title: Natsu Loli Ism Ch. 1-4
+    author: molokonomi-hiraya-nobori
+    cover: /covers/663056.jpg
+    rating: 4.8
+    date: '2026-07-11'
+    code: 663056
+    url: /works/663056/
+  - title: Hontou no Shinkon Seikatsu wa, Oji-san no Ie de Hajimattemasu | My real life
+      as a newlywed has begun at the Oji-san's house.
+    author: damda
+    cover: /covers/663089.jpg
+    rating: 4.6
+    date: '2026-07-11'
+    code: 663089
+    url: /works/663089/
+  - title: Hahaoya to Sex Shita Kibun wa Dou? | How Does it Feel to have Sex with your
+      Mom?
+    author: temperature
+    cover: /covers/663192.jpg
+    rating: 4.9
+    date: '2026-07-11'
+    code: 663192
+    url: /works/663192/
+  - title: Kyouiku Mama Musuko no Chinpo ni Kyouiku Sareru
+    author: himegoto-jukujo
+    cover: /covers/663622.jpg
+    rating: 4.7
+    date: '2026-07-13'
+    code: 663622
+    url: /works/663622/
+  - title: '] Ore no Onna'
+    author: amanagi-seiji
+    cover: /covers/663681.jpg
+    rating: 4.6
+    date: '2026-07-13'
+    code: 663681
+    url: /works/663681/
+  - title: Shinseki no Ko to Otokoyu Haittara Onnanoko datta *Jikotte Sounyuu
+    author: unknown
+    cover: /covers/664170.jpg
+    rating: 4.5
+    date: '2026-07-15'
+    code: 664170
+    url: /works/664170/
+  - title: Repetitive Practice Mama! The Story of Recieving Sex Ed From an Extremely
+      Strict Mother
+    author: unknown
+    cover: /covers/664191.jpg
+    rating: 4.3
+    date: '2026-07-15'
+    code: 664191
+    url: /works/664191/
+  - title: Metamorphosis Chapter 3
+    author: shindol
+    cover: /covers/664216.jpg
+    rating: 4.3
+    date: '2026-07-15'
+    code: 664216
+    url: /works/664216/
+  - title: My Chubby Grandma's special heart-warming Massage ♡
+    author: popotto-denki-ichigouten
+    cover: /covers/664284.jpg
+    rating: 4.3
+    date: '2026-07-15'
+    code: 664284
+    url: /works/664284/
   - title: Mukatsuku Juumai no Kuchimanko ni Kounai Shasei suru Hanashi.
     author: karube-guri
     cover: /covers/664820.jpg

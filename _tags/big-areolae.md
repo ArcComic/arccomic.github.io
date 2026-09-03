@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big areolae"
-work_count: 15
+work_count: 16
 works:
   - title: Kanojo no Kawaii Mieppari | My Cute Gyaru Girlfriend Is a Total Poser
     author: buta
@@ -26,6 +26,13 @@ works:
     date: '2026-08-23'
     code: 531967
     url: /works/531967/
+  - title: Okaa-san Itadakimasu. 3
+    author: andoryu
+    cover: /covers/544477.jpg
+    rating: 4.2
+    date: '2026-07-15'
+    code: 544477
+    url: /works/544477/
   - title: Kyoushi to Mama to Koibito no Kao
     author: mifune-seijirou
     cover: /covers/592307.jpg

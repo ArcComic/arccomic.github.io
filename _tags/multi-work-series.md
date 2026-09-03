@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "multi-work series"
-work_count: 52
+work_count: 58
 works:
   - title: Tonari no Ayane-san Desaki Battari Hen
     author: herio
@@ -17,6 +17,13 @@ works:
     date: '2026-07-17'
     code: 477784
     url: /works/477784/
+  - title: Tan to Tan | Unique and Us
+    author: mushihara
+    cover: /covers/499536.jpg
+    rating: 4.6
+    date: '2026-07-11'
+    code: 499536
+    url: /works/499536/
   - title: Hiro-kun no Mama Wa Boku no Dorei 2 | Hiro-kun Mama Is My Sex Slave 2
     author: exit-up
     cover: /covers/508818.jpg
@@ -59,6 +66,14 @@ works:
     date: '2026-08-20'
     code: 537794
     url: /works/537794/
+  - title: '"Koko Ijirareru no Sukidatta yona?" Rinjin wa, Hitozuma no Moto SeFri 1-2
+      | My Neighbor Was My Former Sex Friend 1-2'
+    author: icelatte
+    cover: /covers/538063.jpg
+    rating: 4.1
+    date: '2026-07-11'
+    code: 538063
+    url: /works/538063/
   - title: Kekkon 3-Nen Me no Tsuma wa, Shain Ryokou Chuu ni Otto no Yoko de Netorareru!
       1 | Netorare With a Busty Wife on a Company Trip 1
     author: aoi-shou
@@ -178,6 +193,38 @@ works:
     date: '2026-08-22'
     code: 659484
     url: /works/659484/
+  - title: Hahaoya to Sex Shita Kibun wa Dou? | How Does it Feel to have Sex with your
+      Mom?
+    author: temperature
+    cover: /covers/663192.jpg
+    rating: 4.9
+    date: '2026-07-11'
+    code: 663192
+    url: /works/663192/
+  - title: Houkago Instant XXX CHAPTER 11
+    author: unknown
+    cover: /covers/663654.jpg
+    rating: 4.3
+    date: '2026-07-13'
+    code: 663654
+    url: /works/663654/
+  - title: Gohoubi wa Karada de. ~Ero-sugi Fukuri Kousei wa Seishori-ka no Oshigoto~
+      (2) | The Reward is the Body ~The Overly Lewd Employee Benefits of the Service
+      Department~
+    author: c-kyuu
+    cover: /covers/664027.jpg
+    rating: 4.9
+    date: '2026-07-15'
+    code: 664027
+    url: /works/664027/
+  - title: Ueno-kun wa Kaihatsu-zumi Dai 87 wa | Ueno-kun Has Been Developed Chapter
+      87
+    author: nakaura
+    cover: /covers/664350.jpg
+    rating: 4.1
+    date: '2026-07-15'
+    code: 664350
+    url: /works/664350/
   - title: 'Hyakka Yuran - Sakura | Encyclopedia: Yu-Chan''s Cherry Blossoms'
     author: ueto-seri-ueto-ruri
     cover: /covers/664642.jpg

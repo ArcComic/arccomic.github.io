@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "femdom"
-work_count: 22
+work_count: 26
 works:
   - title: Yuri no o saifu ni shite agemasu ne, Senpai | I'll turn you into Yuri's wallet,
       Senpai
@@ -34,6 +34,13 @@ works:
     date: '2026-08-29'
     code: 511316
     url: /works/511316/
+  - title: Shut-less
+    author: mr-hokke
+    cover: /covers/531966.jpg
+    rating: 4.3
+    date: '2026-07-11'
+    code: 531966
+    url: /works/531966/
   - title: Uwa, Mesugaki Tsuyoi! | Crap, This Mesugaki's Too Powerful!
     author: poncocchan
     cover: /covers/550359.jpg
@@ -101,6 +108,28 @@ works:
     date: '2026-08-21'
     code: 661796
     url: /works/661796/
+  - title: Gal to Otaku no Idenshi Aishou Batsugun H | The Superb Genetic Compatibility
+      Between a Gyaru and an Otaku
+    author: joucho
+    cover: /covers/663287.jpg
+    rating: 4.7
+    date: '2026-07-11'
+    code: 663287
+    url: /works/663287/
+  - title: When All Men Become Women
+    author: shikabanekamo
+    cover: /covers/664193.jpg
+    rating: 5.0
+    date: '2026-07-15'
+    code: 664193
+    url: /works/664193/
+  - title: Till Dick Do Us Part
+    author: ratatatat74-mr-skull
+    cover: /covers/664249.jpg
+    rating: 4.9
+    date: '2026-07-15'
+    code: 664249
+    url: /works/664249/
   - title: Honey Series
     author: nitta-jun
     cover: /covers/664424.jpg

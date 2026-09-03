@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "futanari"
-work_count: 2
+work_count: 3
 works:
+  - title: Tan to Tan | Unique and Us
+    author: mushihara
+    cover: /covers/499536.jpg
+    rating: 4.6
+    date: '2026-07-11'
+    code: 499536
+    url: /works/499536/
   - title: Nani ga Haeta Hajime | Hajime Grew a Dick!
     author: hyouga
     cover: /covers/664845.jpg

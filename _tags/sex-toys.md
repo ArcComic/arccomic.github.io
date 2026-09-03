@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sex toys"
-work_count: 11
+work_count: 15
 works:
   - title: Hiro-kun no Mama Wa Boku no Dorei 2 | Hiro-kun Mama Is My Sex Slave 2
     author: exit-up
@@ -32,6 +32,36 @@ works:
     date: '2026-08-31'
     code: 556767
     url: /works/556767/
+  - title: Shanai no Himegoto ~Stress Kaishou ni Kaisha no Toilet de Onani shite itara,
+      Kouhai ni Kikarete shimatte ita Hanashi~ | Workplace Rendezvous ~Caught Masturbating
+      in the Company Restroom by My Subordinate~
+    author: sato
+    cover: /covers/617492.jpg
+    rating: 4.4
+    date: '2026-07-11'
+    code: 617492
+    url: /works/617492/
+  - title: Metal Girl Ie Onanie
+    author: ishimura-ishimiso
+    cover: /covers/663142.jpg
+    rating: 4.3
+    date: '2026-07-11'
+    code: 663142
+    url: /works/663142/
+  - title: Inuzuka-san and her Unusual Hobbies
+    author: carpsukidayo
+    cover: /covers/664022.jpg
+    rating: 4.7
+    date: '2026-07-16'
+    code: 664022
+    url: /works/664022/
+  - title: KAWAKAMI FROM THE SEXUAL RELIEF DIVISION
+    author: carpsukidayo
+    cover: /covers/664460.jpg
+    rating: 5.0
+    date: '2026-07-16'
+    code: 664460
+    url: /works/664460/
   - title: 'Hyakka Yuran - Sakura | Encyclopedia: Yu-Chan''s Cherry Blossoms'
     author: ueto-seri-ueto-ruri
     cover: /covers/664642.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "kissing"
-work_count: 43
+work_count: 53
 works:
   - title: Shiraishi-san Wa Yokkyu Fuman | Shiraishi-san's Frustrated
     author: carburetor
@@ -79,6 +79,14 @@ works:
     date: '2026-08-29'
     code: 534388
     url: /works/534388/
+  - title: '"Koko Ijirareru no Sukidatta yona?" Rinjin wa, Hitozuma no Moto SeFri 1-2
+      | My Neighbor Was My Former Sex Friend 1-2'
+    author: icelatte
+    cover: /covers/538063.jpg
+    rating: 4.1
+    date: '2026-07-11'
+    code: 538063
+    url: /works/538063/
   - title: Pashiri no Shita Teku, Yabaitte... ~ Ebi Sori Iki Suru Namaiki Gyaru | Bullied
       Boy's Tongue Revenge Vol.1-4
     author: takayamanon
@@ -116,6 +124,13 @@ works:
     date: '2026-07-17'
     code: 615538
     url: /works/615538/
+  - title: Metamorphosis
+    author: shindol
+    cover: /covers/616358.jpg
+    rating: 4.6
+    date: '2026-07-15'
+    code: 616358
+    url: /works/616358/
   - title: Futari de Watashi o Ikasenaide...! ~Kurayami, Majiwaru Kyoudai Futon~  |
       My 2 Step-Brothers are Ganging Up on Me!  Vol.1
     author: ma-yu
@@ -188,6 +203,67 @@ works:
     date: '2026-08-22'
     code: 659484
     url: /works/659484/
+  - title: Natsu Loli Ism Ch. 1-4
+    author: molokonomi-hiraya-nobori
+    cover: /covers/663056.jpg
+    rating: 4.8
+    date: '2026-07-11'
+    code: 663056
+    url: /works/663056/
+  - title: Gal to Otaku no Idenshi Aishou Batsugun H | The Superb Genetic Compatibility
+      Between a Gyaru and an Otaku
+    author: joucho
+    cover: /covers/663287.jpg
+    rating: 4.7
+    date: '2026-07-11'
+    code: 663287
+    url: /works/663287/
+  - title: The Delinquent Gyaru That I Fantasize About Found Out! | Furyou Gal de Ero
+      Mousou Shitetara Honnin ni Bareta Ken
+    author: dynamite-moca
+    cover: /covers/663389.jpg
+    rating: 4.1
+    date: '2026-07-13'
+    code: 663389
+    url: /works/663389/
+  - title: Houkago Instant XXX CHAPTER 11
+    author: unknown
+    cover: /covers/663654.jpg
+    rating: 4.3
+    date: '2026-07-13'
+    code: 663654
+    url: /works/663654/
+  - title: Boku ni Yuuki ga Atta nara | If only I had the courage
+    author: kamakiri-akagi-ryouichi
+    cover: /covers/663672.jpg
+    rating: 4.1
+    date: '2026-07-13'
+    code: 663672
+    url: /works/663672/
+  - title: Gohoubi wa Karada de. ~Ero-sugi Fukuri Kousei wa Seishori-ka no Oshigoto~
+      (2) | The Reward is the Body ~The Overly Lewd Employee Benefits of the Service
+      Department~
+    author: c-kyuu
+    cover: /covers/664027.jpg
+    rating: 4.9
+    date: '2026-07-15'
+    code: 664027
+    url: /works/664027/
+  - title: Repetitive Practice Mama! The Story of Recieving Sex Ed From an Extremely
+      Strict Mother
+    author: unknown
+    cover: /covers/664191.jpg
+    rating: 4.3
+    date: '2026-07-15'
+    code: 664191
+    url: /works/664191/
+  - title: Metamorphosis Chapter 3
+    author: shindol
+    cover: /covers/664216.jpg
+    rating: 4.3
+    date: '2026-07-15'
+    code: 664216
+    url: /works/664216/
   - title: Ryuu no Gekirin
     author: p-n
     cover: /covers/664626.jpg

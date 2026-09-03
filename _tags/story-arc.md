@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "story arc"
-work_count: 15
+work_count: 18
 works:
   - title: HUNDRED GAME Ch. 1-3
     author: kuon-michiyoshi
@@ -34,6 +34,13 @@ works:
     date: '2026-08-29'
     code: 589969
     url: /works/589969/
+  - title: Metamorphosis
+    author: shindol
+    cover: /covers/616358.jpg
+    rating: 4.6
+    date: '2026-07-15'
+    code: 616358
+    url: /works/616358/
   - title: Futari de Watashi o Ikasenaide...! ~Kurayami, Majiwaru Kyoudai Futon~  |
       My 2 Step-Brothers are Ganging Up on Me!  Vol.1
     author: ma-yu
@@ -57,6 +64,20 @@ works:
     date: '2026-08-29'
     code: 660399
     url: /works/660399/
+  - title: Boku ni Yuuki ga Atta nara | If only I had the courage
+    author: kamakiri-akagi-ryouichi
+    cover: /covers/663672.jpg
+    rating: 4.1
+    date: '2026-07-13'
+    code: 663672
+    url: /works/663672/
+  - title: Metamorphosis Chapter 3
+    author: shindol
+    cover: /covers/664216.jpg
+    rating: 4.3
+    date: '2026-07-15'
+    code: 664216
+    url: /works/664216/
   - title: Giri no Oyako ga Doukyou Shitereba Kitto kou | If a stepmother and her stepson
       lived together, it would be something like this.
     author: shimipan

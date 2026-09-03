@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "unusual pupils"
-work_count: 7
+work_count: 8
 works:
   - title: Tonari no Ayane-san Desaki Battari Hen
     author: herio
@@ -39,6 +39,13 @@ works:
     date: '2026-08-25'
     code: 595108
     url: /works/595108/
+  - title: Metamorphosis
+    author: shindol
+    cover: /covers/616358.jpg
+    rating: 4.6
+    date: '2026-07-15'
+    code: 616358
+    url: /works/616358/
   - title: Tonari no Ayane-san Soushuuhen | My Neighbor Ayane Anthology
     author: herio
     cover: /covers/656319.jpg

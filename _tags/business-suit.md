@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "business suit"
-work_count: 6
+work_count: 9
 works:
   - title: HUNDRED GAME Ch. 1-3
     author: kuon-michiyoshi
@@ -17,6 +17,13 @@ works:
     date: '2026-08-19'
     code: 525085
     url: /works/525085/
+  - title: Shut-less
+    author: mr-hokke
+    cover: /covers/531966.jpg
+    rating: 4.3
+    date: '2026-07-11'
+    code: 531966
+    url: /works/531966/
   - title: Ninshiki Kaihen Saimin Time Card + Joushiki Kaihen Saimin Time Card | Common
       Sense Altering Hypnosis Time Card 1+2
     author: pomi-sword
@@ -25,6 +32,15 @@ works:
     date: '2026-08-19'
     code: 569375
     url: /works/569375/
+  - title: Shanai no Himegoto ~Stress Kaishou ni Kaisha no Toilet de Onani shite itara,
+      Kouhai ni Kikarete shimatte ita Hanashi~ | Workplace Rendezvous ~Caught Masturbating
+      in the Company Restroom by My Subordinate~
+    author: sato
+    cover: /covers/617492.jpg
+    rating: 4.4
+    date: '2026-07-11'
+    code: 617492
+    url: /works/617492/
   - title: The Story of Becoming the Husband of a Rich, Yandere Daughter
     author: kaisendoh
     cover: /covers/638178.jpg
@@ -39,6 +55,13 @@ works:
     date: '2026-08-19'
     code: 641362
     url: /works/641362/
+  - title: Metal Girl Ie Onanie
+    author: ishimura-ishimiso
+    cover: /covers/663142.jpg
+    rating: 4.3
+    date: '2026-07-11'
+    code: 663142
+    url: /works/663142/
   - title: Gohoubi wa Karada de. ~Ero-sugi Fukuri Kousei wa Seishori-ka no Oshigoto~
       (2) | The Reward is the Body ~The Overly Lewd Employee Benefits of the Service
       Department~

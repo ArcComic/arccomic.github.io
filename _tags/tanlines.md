@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "tanlines"
-work_count: 4
+work_count: 5
 works:
+  - title: Natsu Loli Ism Ch. 1-4
+    author: molokonomi-hiraya-nobori
+    cover: /covers/663056.jpg
+    rating: 4.8
+    date: '2026-07-11'
+    code: 663056
+    url: /works/663056/
   - title: Anokotachi no Jijou - 〇〇chanchi no Jijou Soushuuhen
     author: yukino-minato
     cover: /covers/673985.jpg

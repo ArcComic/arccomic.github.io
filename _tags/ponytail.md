@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "ponytail"
-work_count: 20
+work_count: 22
 works:
   - title: Bitch Mama no Kekkon Riyuu
     author: aoyama-akira
@@ -85,6 +85,20 @@ works:
     date: '2026-08-18'
     code: 656319
     url: /works/656319/
+  - title: Natsu Loli Ism Ch. 1-4
+    author: molokonomi-hiraya-nobori
+    cover: /covers/663056.jpg
+    rating: 4.8
+    date: '2026-07-11'
+    code: 663056
+    url: /works/663056/
+  - title: Till Dick Do Us Part
+    author: ratatatat74-mr-skull
+    cover: /covers/664249.jpg
+    rating: 4.9
+    date: '2026-07-15'
+    code: 664249
+    url: /works/664249/
   - title: Mendoumino ii Kanzaki-san - The Caring Kenzaki-san + Bonus Footage
     author: hiiragi-yuichi-tetsuo
     cover: /covers/664407.jpg

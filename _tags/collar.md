@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "collar"
-work_count: 11
+work_count: 14
 works:
   - title: Anata no Shiori ni Naritai - I Just Want To Be Your Shiori
     author: naokomama
@@ -10,6 +10,13 @@ works:
     date: '2026-07-16'
     code: 530476
     url: /works/530476/
+  - title: Shut-less
+    author: mr-hokke
+    cover: /covers/531966.jpg
+    rating: 4.3
+    date: '2026-07-11'
+    code: 531966
+    url: /works/531966/
   - title: Dansei ga Kyokutan ni Sukunai Kono Sekai de wa, Seishi wa Kichou na Shigen
       desu. Sono 2 | In a World Where Men Are Scarce, Sperm Is a Precious Resource 2
     author: group
@@ -48,6 +55,21 @@ works:
     date: '2026-08-29'
     code: 634450
     url: /works/634450/
+  - title: It was supposed to be a story about two people who loved each other but her
+      best friend stole his virginity
+    author: meisuke
+    cover: /covers/664188.jpg
+    rating: 4.6
+    date: '2026-07-15'
+    code: 664188
+    url: /works/664188/
+  - title: Till Dick Do Us Part
+    author: ratatatat74-mr-skull
+    cover: /covers/664249.jpg
+    rating: 4.9
+    date: '2026-07-15'
+    code: 664249
+    url: /works/664249/
   - title: Mesugaki ni Saikyouiku o!! | Re-Educating A Smug-Brat!!
     author: type-yamada
     cover: /covers/664631.jpg

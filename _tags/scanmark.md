@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "scanmark"
-work_count: 52
+work_count: 59
 works:
   - title: Ore ga Hoshikatta Mono wa Kin Medal Yori Namami Onaho Datta no Kamoshirenai｜Maybe
       what I Wanted was a Flesh and Blood Masturbator Rather than a Gold Medal
@@ -33,6 +33,20 @@ works:
     date: '2026-08-20'
     code: 632132
     url: /works/632132/
+  - title: Imouto Oppai de Sukusuku Seikatsu
+    author: asaomi-shimura
+    cover: /covers/636802.jpg
+    rating: 4.6
+    date: '2026-07-13'
+    code: 636802
+    url: /works/636802/
+  - title: Oneesan no Chitsu-nai ni Shiroi Oshikko to Kiiroi Oshikko
+    author: mosaic-book
+    cover: /covers/636807.jpg
+    rating: 5.0
+    date: '2026-07-13'
+    code: 636807
+    url: /works/636807/
   - title: Haha to iu Kaibutsu ~M Otoko Aka-chan toshite Sodate rareta Boku wa Yasashii
       Mama ni Dekiai sareru~ | Mother, the Monster ~I was raised as a masochistic baby
       and am doted on by my kind mother~
@@ -91,6 +105,13 @@ works:
     date: '2026-08-24'
     code: 642588
     url: /works/642588/
+  - title: Shirayuki Mishiro & Enomiya Milk Saimin Sakunyuu Play Hon Matome
+    author: rurimaru
+    cover: /covers/648800.jpg
+    rating: 4.0
+    date: '2026-07-13'
+    code: 648800
+    url: /works/648800/
   - title: Haha no Himitsu o Shitte
     author: unknown
     cover: /covers/654114.jpg
@@ -196,6 +217,35 @@ works:
     date: '2026-08-21'
     code: 661796
     url: /works/661796/
+  - title: Metal Girl Ie Onanie
+    author: ishimura-ishimiso
+    cover: /covers/663142.jpg
+    rating: 4.3
+    date: '2026-07-11'
+    code: 663142
+    url: /works/663142/
+  - title: 12-Nenkan Chinpo Tachishiteta Shin Mama ga Musuko no Dōkyūsei ni Netorare
+      Tanetsuke Oho Akume de Mesu no Yorokobi ni Ochita Hi
+    author: unknown
+    cover: /covers/663605.jpg
+    rating: 4.6
+    date: '2026-07-13'
+    code: 663605
+    url: /works/663605/
+  - title: Kyouiku Mama Musuko no Chinpo ni Kyouiku Sareru
+    author: himegoto-jukujo
+    cover: /covers/663622.jpg
+    rating: 4.7
+    date: '2026-07-13'
+    code: 663622
+    url: /works/663622/
+  - title: '] Ore no Onna'
+    author: amanagi-seiji
+    cover: /covers/663681.jpg
+    rating: 4.6
+    date: '2026-07-13'
+    code: 663681
+    url: /works/663681/
   - title: My Genius Senpai Girlfriend Swapped Bodies with a Gal!
     author: kuratsuka-riko
     cover: /covers/664584.jpg

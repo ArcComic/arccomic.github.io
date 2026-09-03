@@ -1,8 +1,16 @@
 ---
 layout: tag
 tag_name: "reverse netorare"
-work_count: 1
+work_count: 2
 works:
+  - title: It was supposed to be a story about two people who loved each other but her
+      best friend stole his virginity
+    author: meisuke
+    cover: /covers/664188.jpg
+    rating: 4.6
+    date: '2026-07-15'
+    code: 664188
+    url: /works/664188/
   - title: Konyakusha no Imouto wa Kao SSR, Seikaku Saiaku Jigoku no Ero Dance Onna.
       2 | My Fiancée's Younger Sister is a SSR Influencer with a Terrible Personality
       and is a Hellish Erotic Dancer. 2

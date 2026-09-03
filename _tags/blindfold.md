@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "blindfold"
-work_count: 3
+work_count: 4
 works:
+  - title: Till Dick Do Us Part
+    author: ratatatat74-mr-skull
+    cover: /covers/664249.jpg
+    rating: 4.9
+    date: '2026-07-15'
+    code: 664249
+    url: /works/664249/
   - title: Akogare Senpai ga NTR sareru Hon
     author: seinen-hormone
     cover: /covers/672241.jpg

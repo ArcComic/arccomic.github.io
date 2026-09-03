@@ -1,8 +1,17 @@
 ---
 layout: tag
 tag_name: "teacher"
-work_count: 17
+work_count: 21
 works:
+  - title: Megane Loli Choukyou Jugyou!! ~Otonashii Megane Lolikko ni Muriyari Dekachin
+      Sounyuu~ | The Loli In Glasses' Training Lesson!! ~Force Fucking a Timid Glasses
+      Wearing Loli With My Big Cock~ Ch. 1-5
+    author: sakamata-nerimono
+    cover: /covers/358168.jpg
+    rating: 4.7
+    date: '2026-07-13'
+    code: 358168
+    url: /works/358168/
   - title: Musuko no Sensei wa Kyonyuu Bijo ♡ | My Son's Teacher is a Well-Endowed Woman
       ♡
     author: taki
@@ -20,6 +29,14 @@ works:
     date: '2026-08-20'
     code: 510022
     url: /works/510022/
+  - title: Midara na Sensei wa Kirai desu ka? ~Sakura Aimi no Baai~ | Do you hate lewd
+      teachers? ~The Case of Sakura Aimi~
+    author: macho
+    cover: /covers/514183.jpg
+    rating: 4.6
+    date: '2026-07-13'
+    code: 514183
+    url: /works/514183/
   - title: Dansei ga Kyokutan ni Sukunai Kono Sekai de wa, Seishi wa Kichou na Shigen
       desu. Sono 2 | In a World Where Men Are Scarce, Sperm Is a Precious Resource 2
     author: group
@@ -80,6 +97,20 @@ works:
     date: '2026-07-16'
     code: 655498
     url: /works/655498/
+  - title: Y-kun
+    author: kireina-mochi
+    cover: /covers/663130.jpg
+    rating: 4.3
+    date: '2026-07-11'
+    code: 663130
+    url: /works/663130/
+  - title: Self Help 2
+    author: maeshima-ryou
+    cover: /covers/663655.jpg
+    rating: 4.9
+    date: '2026-07-13'
+    code: 663655
+    url: /works/663655/
   - title: Ryuu no Gekirin
     author: p-n
     cover: /covers/664626.jpg

@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "small breasts"
-work_count: 3
+work_count: 4
 works:
+  - title: Hokenshitsu no Futon no Naka de Satori Sedai JK to Naisho H!
+    author: niji-teru
+    cover: /covers/606725.jpg
+    rating: 4.6
+    date: '2026-07-13'
+    code: 606725
+    url: /works/606725/
   - title: Kazano Hiori ni Warui Koto o Suru Hanashi (Zenpen) | The Story of Doing Bad
       Things to Kazeno Hikari
     author: dokuneko-noil

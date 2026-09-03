@@ -1,8 +1,22 @@
 ---
 layout: tag
 tag_name: "tomboy"
-work_count: 5
+work_count: 9
 works:
+  - title: Doushia (Terasu MC)] Dorei Gazoku
+    author: terasu-mc
+    cover: /covers/427676.jpg
+    rating: 4.6
+    date: '2026-07-15'
+    code: 427676
+    url: /works/427676/
+  - title: Obedience Part 1
+    author: laliberte
+    cover: /covers/501709.jpg
+    rating: 4.5
+    date: '2026-07-11'
+    code: 501709
+    url: /works/501709/
   - title: Saikai shita Osananajimi to Issen o Koecchau Hanashi | I Reunited With My
       Longtime Friend and Crossed the Line
     author: satsuki-usa
@@ -26,6 +40,20 @@ works:
     date: '2026-08-22'
     code: 652912
     url: /works/652912/
+  - title: Boku ni Yuuki ga Atta nara | If only I had the courage
+    author: kamakiri-akagi-ryouichi
+    cover: /covers/663672.jpg
+    rating: 4.1
+    date: '2026-07-13'
+    code: 663672
+    url: /works/663672/
+  - title: Shinseki no Ko to Otokoyu Haittara Onnanoko datta *Jikotte Sounyuu
+    author: unknown
+    cover: /covers/664170.jpg
+    rating: 4.5
+    date: '2026-07-15'
+    code: 664170
+    url: /works/664170/
   - title: Makocchi and Riori
     author: yudoufu
     cover: /covers/664742.jpg

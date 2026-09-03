@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "dark skin"
-work_count: 17
+work_count: 19
 works:
   - title: Netorare Ibe Kiba Shizuka | The Netorare of Kiba Shizuka
     author: terasu-mc
@@ -39,6 +39,13 @@ works:
     date: '2026-07-16'
     code: 464371
     url: /works/464371/
+  - title: Obedience Part 1
+    author: laliberte
+    cover: /covers/501709.jpg
+    rating: 4.5
+    date: '2026-07-11'
+    code: 501709
+    url: /works/501709/
   - title: Gal to no Asobikata | How to Have Fun With Gyarus!
     author: buta
     cover: /covers/531967.jpg
@@ -90,6 +97,13 @@ works:
     date: '2026-08-24'
     code: 642588
     url: /works/642588/
+  - title: Boku ni Yuuki ga Atta nara | If only I had the courage
+    author: kamakiri-akagi-ryouichi
+    cover: /covers/663672.jpg
+    rating: 4.1
+    date: '2026-07-13'
+    code: 663672
+    url: /works/663672/
   - title: Honey Series
     author: nitta-jun
     cover: /covers/664424.jpg

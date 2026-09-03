@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "unusual teeth"
-work_count: 2
+work_count: 3
 works:
+  - title: Cheeky and Charming
+    author: ono-kenuji
+    cover: /covers/663598.jpg
+    rating: 4.1
+    date: '2026-07-13'
+    code: 663598
+    url: /works/663598/
   - title: Everyone's Kissing Club - Chapter 1-29
     author: group
     cover: /covers/674286.jpg

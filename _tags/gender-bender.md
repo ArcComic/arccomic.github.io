@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "gender bender"
-work_count: 7
+work_count: 8
 works:
   - title: Gekkoutou no Yume - Nyotaika Douwa ~Danshi Kinsei no Tou~
     author: mugen-no-sudadokei
@@ -18,6 +18,13 @@ works:
     date: '2026-08-31'
     code: 494172
     url: /works/494172/
+  - title: When All Men Become Women
+    author: shikabanekamo
+    cover: /covers/664193.jpg
+    rating: 5.0
+    date: '2026-07-15'
+    code: 664193
+    url: /works/664193/
   - title: Inokori seibutsu-shitsu | Detention in the Biology Lab
     author: hiiragi-popura
     cover: /covers/674463.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "vtuber"
-work_count: 5
+work_count: 7
 works:
   - title: Anata no Shiori ni Naritai - I Just Want To Be Your Shiori
     author: naokomama
@@ -17,6 +17,20 @@ works:
     date: '2026-07-16'
     code: 617511
     url: /works/617511/
+  - title: FORBIDDEN RAIN KOBO KANAERU 2
+    author: clef
+    cover: /covers/637709.jpg
+    rating: 4.6
+    date: '2026-07-16'
+    code: 637709
+    url: /works/637709/
+  - title: Shirayuki Mishiro & Enomiya Milk Saimin Sakunyuu Play Hon Matome
+    author: rurimaru
+    cover: /covers/648800.jpg
+    rating: 4.0
+    date: '2026-07-13'
+    code: 648800
+    url: /works/648800/
   - title: Erolive Shiori Novella
     author: doji
     cover: /covers/664590.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "mind control"
-work_count: 6
+work_count: 8
 works:
   - title: Bocchi de Shinda Ore ga Bishoujo Nurse ni Natta Hanashi | The Story of How
       I Died Alone and Became a Sexy Nurse
@@ -34,6 +34,20 @@ works:
     date: '2026-08-25'
     code: 595108
     url: /works/595108/
+  - title: Shirayuki Mishiro & Enomiya Milk Saimin Sakunyuu Play Hon Matome
+    author: rurimaru
+    cover: /covers/648800.jpg
+    rating: 4.0
+    date: '2026-07-13'
+    code: 648800
+    url: /works/648800/
+  - title: Y-kun
+    author: kireina-mochi
+    cover: /covers/663130.jpg
+    rating: 4.3
+    date: '2026-07-11'
+    code: 663130
+    url: /works/663130/
   - title: Saimin Mahou de Sokuochi Namaiki Majo Koko-chan ~Tensai Elite nanonii Mamono
       Chinpo ni Kusozako Make Acme Kimechaimashitaa~ | Instant Fall via Hypnosis Magic❤
       Cheeky Witch Koko-chan ~A Genius Elite, Yet...❤ Monster

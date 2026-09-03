@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "paizuri"
-work_count: 34
+work_count: 39
 works:
   - title: Saikin, Musuko no Yousu ga Hen nan desu | Lately my son has been acting Strangly
     author: matsumoto-jikyuuryoku
@@ -115,6 +115,46 @@ works:
     date: '2026-08-22'
     code: 659484
     url: /works/659484/
+  - title: Gal to Otaku no Idenshi Aishou Batsugun H | The Superb Genetic Compatibility
+      Between a Gyaru and an Otaku
+    author: joucho
+    cover: /covers/663287.jpg
+    rating: 4.7
+    date: '2026-07-11'
+    code: 663287
+    url: /works/663287/
+  - title: Gohoubi wa Karada de. ~Ero-sugi Fukuri Kousei wa Seishori-ka no Oshigoto~
+      (2) | The Reward is the Body ~The Overly Lewd Employee Benefits of the Service
+      Department~
+    author: c-kyuu
+    cover: /covers/664027.jpg
+    rating: 4.9
+    date: '2026-07-15'
+    code: 664027
+    url: /works/664027/
+  - title: It was supposed to be a story about two people who loved each other but her
+      best friend stole his virginity
+    author: meisuke
+    cover: /covers/664188.jpg
+    rating: 4.6
+    date: '2026-07-15'
+    code: 664188
+    url: /works/664188/
+  - title: Repetitive Practice Mama! The Story of Recieving Sex Ed From an Extremely
+      Strict Mother
+    author: unknown
+    cover: /covers/664191.jpg
+    rating: 4.3
+    date: '2026-07-15'
+    code: 664191
+    url: /works/664191/
+  - title: My Chubby Grandma's special heart-warming Massage ♡
+    author: popotto-denki-ichigouten
+    cover: /covers/664284.jpg
+    rating: 4.3
+    date: '2026-07-15'
+    code: 664284
+    url: /works/664284/
   - title: Miya-chan no Kyuuin Life! - Chapter 12
     author: furumoto-takeru
     cover: /covers/664766.jpg

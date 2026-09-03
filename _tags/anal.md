@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "anal"
-work_count: 22
+work_count: 27
 works:
   - title: Yuri no o saifu ni shite agemasu ne, Senpai | I'll turn you into Yuri's wallet,
       Senpai
@@ -11,6 +11,15 @@ works:
     date: '2026-07-17'
     code: 289523
     url: /works/289523/
+  - title: Megane Loli Choukyou Jugyou!! ~Otonashii Megane Lolikko ni Muriyari Dekachin
+      Sounyuu~ | The Loli In Glasses' Training Lesson!! ~Force Fucking a Timid Glasses
+      Wearing Loli With My Big Cock~ Ch. 1-5
+    author: sakamata-nerimono
+    cover: /covers/358168.jpg
+    rating: 4.7
+    date: '2026-07-13'
+    code: 358168
+    url: /works/358168/
   - title: Bitch Mama no Kekkon Riyuu
     author: aoyama-akira
     cover: /covers/512473.jpg
@@ -25,6 +34,13 @@ works:
     date: '2026-08-28'
     code: 520363
     url: /works/520363/
+  - title: Shut-less
+    author: mr-hokke
+    cover: /covers/531966.jpg
+    rating: 4.3
+    date: '2026-07-11'
+    code: 531966
+    url: /works/531966/
   - title: Imouto wa Mesu Orc 7
     author: muneshiro
     cover: /covers/547393.jpg
@@ -62,6 +78,27 @@ works:
     date: '2026-08-24'
     code: 642586
     url: /works/642586/
+  - title: Metal Girl Ie Onanie
+    author: ishimura-ishimiso
+    cover: /covers/663142.jpg
+    rating: 4.3
+    date: '2026-07-11'
+    code: 663142
+    url: /works/663142/
+  - title: Inuzuka-san and her Unusual Hobbies
+    author: carpsukidayo
+    cover: /covers/664022.jpg
+    rating: 4.7
+    date: '2026-07-16'
+    code: 664022
+    url: /works/664022/
+  - title: KAWAKAMI FROM THE SEXUAL RELIEF DIVISION
+    author: carpsukidayo
+    cover: /covers/664460.jpg
+    rating: 5.0
+    date: '2026-07-16'
+    code: 664460
+    url: /works/664460/
   - title: Otokonoko Otodoke Shimasu! 2 ~Itsumo kuru Haitatsuin-san ga Masaka no Otokonoko
       datta kedo Mayowazu Hameta~
     author: mitsujirou

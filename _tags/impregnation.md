@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "impregnation"
-work_count: 14
+work_count: 18
 works:
+  - title: Doushia (Terasu MC)] Dorei Gazoku
+    author: terasu-mc
+    cover: /covers/427676.jpg
+    rating: 4.6
+    date: '2026-07-15'
+    code: 427676
+    url: /works/427676/
   - title: Kaa-san ni wa Ore no Ko o Unde Morau | My mother is going to have my baby
     author: matsumoto-jikyuuryoku
     cover: /covers/444152.jpg
@@ -18,6 +25,20 @@ works:
     date: '2026-08-20'
     code: 537794
     url: /works/537794/
+  - title: Metamorphosis
+    author: shindol
+    cover: /covers/616358.jpg
+    rating: 4.6
+    date: '2026-07-15'
+    code: 616358
+    url: /works/616358/
+  - title: Imouto Oppai de Sukusuku Seikatsu
+    author: asaomi-shimura
+    cover: /covers/636802.jpg
+    rating: 4.6
+    date: '2026-07-13'
+    code: 636802
+    url: /works/636802/
   - title: 'Fukushū Yami Baito "Watashi no Moto Tsuma o Ninshin Sasete Hoshī" | My Part-Time
       Job Is Getting Revenge: Get My Ex-Wife Pregnant'
     author: chotto-b-sen
@@ -26,6 +47,14 @@ works:
     date: '2026-07-17'
     code: 658578
     url: /works/658578/
+  - title: Hontou no Shinkon Seikatsu wa, Oji-san no Ie de Hajimattemasu | My real life
+      as a newlywed has begun at the Oji-san's house.
+    author: damda
+    cover: /covers/663089.jpg
+    rating: 4.6
+    date: '2026-07-11'
+    code: 663089
+    url: /works/663089/
   - title: Night of Feather and Ink
     author: brulee
     cover: /covers/664914.jpg

@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "crotch tattoo"
-work_count: 1
+work_count: 2
 works:
+  - title: Metamorphosis
+    author: shindol
+    cover: /covers/616358.jpg
+    rating: 4.6
+    date: '2026-07-15'
+    code: 616358
+    url: /works/616358/
   - title: Saimin Mahou de Sokuochi Namaiki Majo Koko-chan ~Tensai Elite nanonii Mamono
       Chinpo ni Kusozako Make Acme Kimechaimashitaa~ | Instant Fall via Hypnosis Magic❤
       Cheeky Witch Koko-chan ~A Genius Elite, Yet...❤ Monster

@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "maid"
-work_count: 2
+work_count: 3
 works:
+  - title: Obedience Part 1
+    author: laliberte
+    cover: /covers/501709.jpg
+    rating: 4.5
+    date: '2026-07-11'
+    code: 501709
+    url: /works/501709/
   - title: Tenshi Hirotta kara Haramaseru ~Ojii-san Senyou Botebara Onaho ni Naru made
       no Kiroku~ | I Met an Angel, and then I Knocked Her Up ~A Record of Becoming Oji-san’s
       Personal Preggo Belly Onahole~

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "yuri"
-work_count: 15
+work_count: 18
 works:
   - title: Gekkoutou no Yume - Nyotaika Douwa ~Danshi Kinsei no Tou~
     author: mugen-no-sudadokei
@@ -18,6 +18,22 @@ works:
     date: '2026-08-31'
     code: 494172
     url: /works/494172/
+  - title: Walking back home in the winter with my childhood friend
+    author: shimetsuki-tanki
+    cover: /covers/565301.jpg
+    rating: 4.6
+    date: '2026-07-13'
+    code: 565301
+    url: /works/565301/
+  - title: Shanai no Himegoto ~Stress Kaishou ni Kaisha no Toilet de Onani shite itara,
+      Kouhai ni Kikarete shimatte ita Hanashi~ | Workplace Rendezvous ~Caught Masturbating
+      in the Company Restroom by My Subordinate~
+    author: sato
+    cover: /covers/617492.jpg
+    rating: 4.4
+    date: '2026-07-11'
+    code: 617492
+    url: /works/617492/
   - title: Ippai Kocho Kocho Shite Ageru kara Oshio Ippai Pyu Pyu Shite! | I'll tickle
       you a lot, so you'll squirt lots of cum!
     author: garyo
@@ -26,6 +42,13 @@ works:
     date: '2026-08-20'
     code: 632132
     url: /works/632132/
+  - title: Natsu Loli Ism Ch. 1-4
+    author: molokonomi-hiraya-nobori
+    cover: /covers/663056.jpg
+    rating: 4.8
+    date: '2026-07-11'
+    code: 663056
+    url: /works/663056/
   - title: 'Hyakka Yuran - Sakura | Encyclopedia: Yu-Chan''s Cherry Blossoms'
     author: ueto-seri-ueto-ruri
     cover: /covers/664642.jpg

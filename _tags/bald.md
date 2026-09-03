@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bald"
-work_count: 10
+work_count: 11
 works:
   - title: Asuna-san ga Agil ni Netorareru Ohanashi
     author: fujimiya-siryu
@@ -32,6 +32,13 @@ works:
     date: '2026-07-17'
     code: 582290
     url: /works/582290/
+  - title: Kouen no Oji-san-tachi ni Moteasobaretai
+    author: group
+    cover: /covers/598010.jpg
+    rating: 5.0
+    date: '2026-07-13'
+    code: 598010
+    url: /works/598010/
   - title: Kanojo ga Kami o Someta Wake ~Kataomoi no Seiso Kurokami Ojou-sama ga Boku
       no Shiranai Tokoro de Otoko no Aji o Oboeru Hanashi~ | The Real Reason She Changed
       Her Hair

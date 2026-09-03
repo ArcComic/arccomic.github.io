@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "uncensored"
-work_count: 15
+work_count: 21
 works:
   - title: Konoe no Kyuujitsu | Konoe's Day Off
     author: alp
@@ -10,6 +10,13 @@ works:
     date: '2026-08-18'
     code: 479447
     url: /works/479447/
+  - title: Obedience Part 1
+    author: laliberte
+    cover: /covers/501709.jpg
+    rating: 4.5
+    date: '2026-07-11'
+    code: 501709
+    url: /works/501709/
   - title: Anata no Shiori ni Naritai - I Just Want To Be Your Shiori
     author: naokomama
     cover: /covers/530476.jpg
@@ -39,6 +46,13 @@ works:
     date: '2026-08-21'
     code: 593575
     url: /works/593575/
+  - title: Metamorphosis
+    author: shindol
+    cover: /covers/616358.jpg
+    rating: 4.6
+    date: '2026-07-15'
+    code: 616358
+    url: /works/616358/
   - title: Zessan Haishinchuu Gibo Nikubenki Keikaku! Ch.1-5
     author: maki-daikichi
     cover: /covers/656140.jpg
@@ -53,6 +67,34 @@ works:
     date: '2026-08-18'
     code: 656319
     url: /works/656319/
+  - title: Natsu Loli Ism Ch. 1-4
+    author: molokonomi-hiraya-nobori
+    cover: /covers/663056.jpg
+    rating: 4.8
+    date: '2026-07-11'
+    code: 663056
+    url: /works/663056/
+  - title: Self Help 2
+    author: maeshima-ryou
+    cover: /covers/663655.jpg
+    rating: 4.9
+    date: '2026-07-13'
+    code: 663655
+    url: /works/663655/
+  - title: Metamorphosis Chapter 3
+    author: shindol
+    cover: /covers/664216.jpg
+    rating: 4.3
+    date: '2026-07-15'
+    code: 664216
+    url: /works/664216/
+  - title: Himitsu | Secrets
+    author: unknown
+    cover: /covers/664299.jpg
+    rating: 4.4
+    date: '2026-07-15'
+    code: 664299
+    url: /works/664299/
   - title: Soen ni Natteta Osananajimi ga Okuchi Onaho Gayoi Shite Kuru Mikkakan | Three
       Days Treating My Estranged Friend As An Oral Fuckhole
     author: poncocchan

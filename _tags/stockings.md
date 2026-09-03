@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "stockings"
-work_count: 37
+work_count: 41
 works:
   - title: HUNDRED GAME Ch. 1-3
     author: kuon-michiyoshi
@@ -32,6 +32,13 @@ works:
     date: '2026-07-17'
     code: 430672
     url: /works/430672/
+  - title: Obedience Part 1
+    author: laliberte
+    cover: /covers/501709.jpg
+    rating: 4.5
+    date: '2026-07-11'
+    code: 501709
+    url: /works/501709/
   - title: Bitch Mama no Kekkon Riyuu
     author: aoyama-akira
     cover: /covers/512473.jpg
@@ -112,6 +119,13 @@ works:
     date: '2026-08-24'
     code: 642585
     url: /works/642585/
+  - title: Shirayuki Mishiro & Enomiya Milk Saimin Sakunyuu Play Hon Matome
+    author: rurimaru
+    cover: /covers/648800.jpg
+    rating: 4.0
+    date: '2026-07-13'
+    code: 648800
+    url: /works/648800/
   - title: Mama ga Inemuri shi tetanode
     author: unknown
     cover: /covers/659164.jpg
@@ -119,6 +133,23 @@ works:
     date: '2026-08-24'
     code: 659164
     url: /works/659164/
+  - title: Gohoubi wa Karada de. ~Ero-sugi Fukuri Kousei wa Seishori-ka no Oshigoto~
+      (2) | The Reward is the Body ~The Overly Lewd Employee Benefits of the Service
+      Department~
+    author: c-kyuu
+    cover: /covers/664027.jpg
+    rating: 4.9
+    date: '2026-07-15'
+    code: 664027
+    url: /works/664027/
+  - title: It was supposed to be a story about two people who loved each other but her
+      best friend stole his virginity
+    author: meisuke
+    cover: /covers/664188.jpg
+    rating: 4.6
+    date: '2026-07-15'
+    code: 664188
+    url: /works/664188/
   - title: Erolive Shiori Novella
     author: doji
     cover: /covers/664590.jpg

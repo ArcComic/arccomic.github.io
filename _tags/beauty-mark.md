@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "beauty mark"
-work_count: 17
+work_count: 20
 works:
   - title: Sokukan Delivery
     author: ice
@@ -17,6 +17,13 @@ works:
     date: '2026-08-18'
     code: 432356
     url: /works/432356/
+  - title: Obedience Part 1
+    author: laliberte
+    cover: /covers/501709.jpg
+    rating: 4.5
+    date: '2026-07-11'
+    code: 501709
+    url: /works/501709/
   - title: Hitozuma Volley-bu no Asedaku SEX ~Shower Abinagara Micchaku Shichau? 1-2
       | Married Women's Volleyball Club Sweaty Sex - We're Being Glued Together While
       Taking A Shower? 1-2
@@ -33,6 +40,14 @@ works:
     date: '2026-08-23'
     code: 531967
     url: /works/531967/
+  - title: '"Koko Ijirareru no Sukidatta yona?" Rinjin wa, Hitozuma no Moto SeFri 1-2
+      | My Neighbor Was My Former Sex Friend 1-2'
+    author: icelatte
+    cover: /covers/538063.jpg
+    rating: 4.1
+    date: '2026-07-11'
+    code: 538063
+    url: /works/538063/
   - title: Hayato-sensei no Mesu-ka Karute Daigaku-hen | Dr. Hayato's Feminization Medical
       Record ~University Edition~
     author: testame
@@ -55,6 +70,14 @@ works:
     date: '2026-08-18'
     code: 656319
     url: /works/656319/
+  - title: Onee-chan Tensei! Junyuu Isekai Seikatsu | Reincarnated Big Sister! Breastfeeding
+      Sex Life in Another World
+    author: mokuyama-hito
+    cover: /covers/663517.jpg
+    rating: 4.4
+    date: '2026-07-13'
+    code: 663517
+    url: /works/663517/
   - title: Osananajimi Kanojo, Netorare Choukyou
     author: naporitan
     cover: /covers/664798.jpg

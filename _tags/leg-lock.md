@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "leg lock"
-work_count: 13
+work_count: 14
 works:
   - title: Homestay-chu no Doitsu Musume ga Issho ni Furo ni Haitte Kuru Wake | The
       Reason Why a German Girl Takes a Bath Together With Me on Her Homestay
@@ -83,6 +83,14 @@ works:
     date: '2026-08-22'
     code: 659484
     url: /works/659484/
+  - title: The Delinquent Gyaru That I Fantasize About Found Out! | Furyou Gal de Ero
+      Mousou Shitetara Honnin ni Bareta Ken
+    author: dynamite-moca
+    cover: /covers/663389.jpg
+    rating: 4.1
+    date: '2026-07-13'
+    code: 663389
+    url: /works/663389/
   - title: Yume no Naka de
     author: taji
     cover: /covers/664429.jpg

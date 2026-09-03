@@ -1,8 +1,17 @@
 ---
 layout: tag
 tag_name: "sleeping"
-work_count: 7
+work_count: 9
 works:
+  - title: Megane Loli Choukyou Jugyou!! ~Otonashii Megane Lolikko ni Muriyari Dekachin
+      Sounyuu~ | The Loli In Glasses' Training Lesson!! ~Force Fucking a Timid Glasses
+      Wearing Loli With My Big Cock~ Ch. 1-5
+    author: sakamata-nerimono
+    cover: /covers/358168.jpg
+    rating: 4.7
+    date: '2026-07-13'
+    code: 358168
+    url: /works/358168/
   - title: Shuuden Deisui Anken
     author: uds
     cover: /covers/525085.jpg
@@ -18,6 +27,13 @@ works:
     date: '2026-08-24'
     code: 584934
     url: /works/584934/
+  - title: Hokenshitsu no Futon no Naka de Satori Sedai JK to Naisho H!
+    author: niji-teru
+    cover: /covers/606725.jpg
+    rating: 4.6
+    date: '2026-07-13'
+    code: 606725
+    url: /works/606725/
   - title: Ottori Itome no Oba o Odoshite Hamete Iinari Onaho-ka Keikaku | Gentle Slit-Eyed
       Aunty Blackmail & Obedient Fuckhole Training Project
     author: ginen

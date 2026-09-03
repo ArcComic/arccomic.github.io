@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "inseki"
-work_count: 15
+work_count: 16
 works:
   - title: Gibo-san wa Boku no Mono 7
     author: c-kyuu
@@ -75,6 +75,14 @@ works:
     date: '2026-08-29'
     code: 660399
     url: /works/660399/
+  - title: Hontou no Shinkon Seikatsu wa, Oji-san no Ie de Hajimattemasu | My real life
+      as a newlywed has begun at the Oji-san's house.
+    author: damda
+    cover: /covers/663089.jpg
+    rating: 4.6
+    date: '2026-07-11'
+    code: 663089
+    url: /works/663089/
   - title: Giri no Oyako ga Doukyou Shitereba Kitto kou | If a stepmother and her stepson
       lived together, it would be something like this.
     author: shimipan

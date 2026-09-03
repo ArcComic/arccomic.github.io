@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "smalldom"
-work_count: 8
+work_count: 9
 works:
   - title: Uwa, Mesugaki Tsuyoi! | Crap, This Mesugaki's Too Powerful!
     author: poncocchan
@@ -39,6 +39,13 @@ works:
     date: '2026-08-21'
     code: 655421
     url: /works/655421/
+  - title: Y-kun
+    author: kireina-mochi
+    cover: /covers/663130.jpg
+    rating: 4.3
+    date: '2026-07-11'
+    code: 663130
+    url: /works/663130/
   - title: Kaho-chan wa Oshioki Shitai
     author: serakichi
     cover: /covers/674298.jpg

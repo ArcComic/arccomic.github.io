@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "genital piercing"
-work_count: 1
+work_count: 2
 works:
+  - title: Metamorphosis
+    author: shindol
+    cover: /covers/616358.jpg
+    rating: 4.6
+    date: '2026-07-15'
+    code: 616358
+    url: /works/616358/
   - title: Jirashite Jirashite Jirashite Jirashite Pierce | Tease Me, Tease Me, Tease
       Me Teasing Piercing
     author: chi-ra-rhyzhm

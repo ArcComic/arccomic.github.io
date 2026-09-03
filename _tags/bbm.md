@@ -1,8 +1,24 @@
 ---
 layout: tag
 tag_name: "bbm"
-work_count: 6
+work_count: 10
 works:
+  - title: Megane Loli Choukyou Jugyou!! ~Otonashii Megane Lolikko ni Muriyari Dekachin
+      Sounyuu~ | The Loli In Glasses' Training Lesson!! ~Force Fucking a Timid Glasses
+      Wearing Loli With My Big Cock~ Ch. 1-5
+    author: sakamata-nerimono
+    cover: /covers/358168.jpg
+    rating: 4.7
+    date: '2026-07-13'
+    code: 358168
+    url: /works/358168/
+  - title: Obedience Part 1
+    author: laliberte
+    cover: /covers/501709.jpg
+    rating: 4.5
+    date: '2026-07-11'
+    code: 501709
+    url: /works/501709/
   - title: Nagachichi Haha no Naedoko
     author: ginen
     cover: /covers/595108.jpg
@@ -17,6 +33,21 @@ works:
     date: '2026-07-17'
     code: 615538
     url: /works/615538/
+  - title: Imouto Oppai de Sukusuku Seikatsu
+    author: asaomi-shimura
+    cover: /covers/636802.jpg
+    rating: 4.6
+    date: '2026-07-13'
+    code: 636802
+    url: /works/636802/
+  - title: Ohogoe wo Hiteishita Hitozuma ga Otosareru Hanashi | The Married Woman Who
+      Denied Her Crazy Moans Was Defeated
+    author: hikitogu
+    cover: /covers/663171.jpg
+    rating: 4.8
+    date: '2026-07-11'
+    code: 663171
+    url: /works/663171/
   - title: Tenshi Hirotta kara Haramaseru ~Ojii-san Senyou Botebara Onaho ni Naru made
       no Kiroku~ | I Met an Angel, and then I Knocked Her Up ~A Record of Becoming Oji-san’s
       Personal Preggo Belly Onahole~

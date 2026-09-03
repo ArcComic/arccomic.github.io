@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sister"
-work_count: 13
+work_count: 14
 works:
   - title: Tsuma ni Ani to Kozukuri Shite Moraimashita
     author: furaimai
@@ -18,6 +18,13 @@ works:
     date: '2026-08-29'
     code: 618087
     url: /works/618087/
+  - title: Imouto Oppai de Sukusuku Seikatsu
+    author: asaomi-shimura
+    cover: /covers/636802.jpg
+    rating: 4.6
+    date: '2026-07-13'
+    code: 636802
+    url: /works/636802/
   - title: Akogare no Hito wa Mou Owari! 2
     author: group
     cover: /covers/642585.jpg

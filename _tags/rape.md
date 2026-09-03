@@ -1,8 +1,17 @@
 ---
 layout: tag
 tag_name: "rape"
-work_count: 36
+work_count: 48
 works:
+  - title: Megane Loli Choukyou Jugyou!! ~Otonashii Megane Lolikko ni Muriyari Dekachin
+      Sounyuu~ | The Loli In Glasses' Training Lesson!! ~Force Fucking a Timid Glasses
+      Wearing Loli With My Big Cock~ Ch. 1-5
+    author: sakamata-nerimono
+    cover: /covers/358168.jpg
+    rating: 4.7
+    date: '2026-07-13'
+    code: 358168
+    url: /works/358168/
   - title: Musume no Kareshi ni Ochiru Okaa-san. 2 | A Mother Who Falls For Her Daughter's
       Boyfriend 2
     author: sinori
@@ -34,6 +43,14 @@ works:
     date: '2026-08-29'
     code: 534388
     url: /works/534388/
+  - title: '"Koko Ijirareru no Sukidatta yona?" Rinjin wa, Hitozuma no Moto SeFri 1-2
+      | My Neighbor Was My Former Sex Friend 1-2'
+    author: icelatte
+    cover: /covers/538063.jpg
+    rating: 4.1
+    date: '2026-07-11'
+    code: 538063
+    url: /works/538063/
   - title: Jinsei Hametsu JC ~Watashi no Jinsei, Doushite Kounacchattan daro?~ | Middle
       Schooler's Life Ruined - How Did My Life Turn Out Like This [English] =TB=
     author: circle-hitori
@@ -58,6 +75,13 @@ works:
     date: '2026-08-24'
     code: 584934
     url: /works/584934/
+  - title: Kouen no Oji-san-tachi ni Moteasobaretai
+    author: group
+    cover: /covers/598010.jpg
+    rating: 5.0
+    date: '2026-07-13'
+    code: 598010
+    url: /works/598010/
   - title: Ottori Itome no Oba o Odoshite Hamete Iinari Onaho-ka Keikaku | Gentle Slit-Eyed
       Aunty Blackmail & Obedient Fuckhole Training Project
     author: ginen
@@ -66,6 +90,13 @@ works:
     date: '2026-08-25'
     code: 611978
     url: /works/611978/
+  - title: Metamorphosis
+    author: shindol
+    cover: /covers/616358.jpg
+    rating: 4.6
+    date: '2026-07-15'
+    code: 616358
+    url: /works/616358/
   - title: Futari de Watashi o Ikasenaide...! ~Kurayami, Majiwaru Kyoudai Futon~  |
       My 2 Step-Brothers are Ganging Up on Me!  Vol.1
     author: ma-yu
@@ -83,6 +114,13 @@ works:
     date: '2026-08-29'
     code: 634450
     url: /works/634450/
+  - title: FORBIDDEN RAIN KOBO KANAERU 2
+    author: clef
+    cover: /covers/637709.jpg
+    rating: 4.6
+    date: '2026-07-16'
+    code: 637709
+    url: /works/637709/
   - title: Anta, Nandetatten no?
     author: daidai-shikibu
     cover: /covers/642770.jpg
@@ -167,6 +205,56 @@ works:
     date: '2026-08-24'
     code: 657981
     url: /works/657981/
+  - title: Kyouiku Mama Musuko no Chinpo ni Kyouiku Sareru
+    author: himegoto-jukujo
+    cover: /covers/663622.jpg
+    rating: 4.7
+    date: '2026-07-13'
+    code: 663622
+    url: /works/663622/
+  - title: Boku ni Yuuki ga Atta nara | If only I had the courage
+    author: kamakiri-akagi-ryouichi
+    cover: /covers/663672.jpg
+    rating: 4.1
+    date: '2026-07-13'
+    code: 663672
+    url: /works/663672/
+  - title: '] Ore no Onna'
+    author: amanagi-seiji
+    cover: /covers/663681.jpg
+    rating: 4.6
+    date: '2026-07-13'
+    code: 663681
+    url: /works/663681/
+  - title: It was supposed to be a story about two people who loved each other but her
+      best friend stole his virginity
+    author: meisuke
+    cover: /covers/664188.jpg
+    rating: 4.6
+    date: '2026-07-15'
+    code: 664188
+    url: /works/664188/
+  - title: When All Men Become Women
+    author: shikabanekamo
+    cover: /covers/664193.jpg
+    rating: 5.0
+    date: '2026-07-15'
+    code: 664193
+    url: /works/664193/
+  - title: Metamorphosis Chapter 3
+    author: shindol
+    cover: /covers/664216.jpg
+    rating: 4.3
+    date: '2026-07-15'
+    code: 664216
+    url: /works/664216/
+  - title: KAWAKAMI FROM THE SEXUAL RELIEF DIVISION
+    author: carpsukidayo
+    cover: /covers/664460.jpg
+    rating: 5.0
+    date: '2026-07-16'
+    code: 664460
+    url: /works/664460/
   - title: Miyoku no Shiro -An Incarnating Ravish- | 魅欲之城
     author: tokupyon
     cover: /covers/664770.jpg

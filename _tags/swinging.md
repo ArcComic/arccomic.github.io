@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "swinging"
-work_count: 3
+work_count: 4
 works:
   - title: Fuufu Koukan Matching Appli ~DQN na Hitozuma ni Nakadashi Houshi~
     author: hachi-mega
@@ -10,6 +10,13 @@ works:
     date: '2026-08-25'
     code: 613739
     url: /works/613739/
+  - title: Natsu Loli Ism Ch. 1-4
+    author: molokonomi-hiraya-nobori
+    cover: /covers/663056.jpg
+    rating: 4.8
+    date: '2026-07-11'
+    code: 663056
+    url: /works/663056/
   - title: Meikko na Syoujo no Ehon 5 -Kouhen-
     author: malcorond
     cover: /covers/676182.jpg

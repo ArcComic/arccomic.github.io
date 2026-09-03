@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "armpit licking"
-work_count: 4
+work_count: 5
 works:
   - title: Homestay-chu no Doitsu Musume ga Issho ni Furo ni Haitte Kuru Wake | The
       Reason Why a German Girl Takes a Bath Together With Me on Her Homestay
@@ -18,6 +18,13 @@ works:
     date: '2026-08-21'
     code: 593575
     url: /works/593575/
+  - title: Tsuretette | Ghosts Boy Meets Girl
+    author: kidoban
+    cover: /covers/663745.jpg
+    rating: 4.4
+    date: '2026-07-13'
+    code: 663745
+    url: /works/663745/
   - title: Everyone's Kissing Club - Chapter 1-29
     author: group
     cover: /covers/674286.jpg

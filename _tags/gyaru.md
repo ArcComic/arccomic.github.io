@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "gyaru"
-work_count: 15
+work_count: 18
 works:
   - title: Kanojo no Kawaii Mieppari | My Cute Gyaru Girlfriend Is a Total Poser
     author: buta
@@ -40,6 +40,13 @@ works:
     date: '2026-08-29'
     code: 634450
     url: /works/634450/
+  - title: Imouto Oppai de Sukusuku Seikatsu
+    author: asaomi-shimura
+    cover: /covers/636802.jpg
+    rating: 4.6
+    date: '2026-07-13'
+    code: 636802
+    url: /works/636802/
   - title: BUTA - 『You did a great job』
     author: buta
     cover: /covers/639772.jpg
@@ -47,6 +54,22 @@ works:
     date: '2026-08-23'
     code: 639772
     url: /works/639772/
+  - title: The Delinquent Gyaru That I Fantasize About Found Out! | Furyou Gal de Ero
+      Mousou Shitetara Honnin ni Bareta Ken
+    author: dynamite-moca
+    cover: /covers/663389.jpg
+    rating: 4.1
+    date: '2026-07-13'
+    code: 663389
+    url: /works/663389/
+  - title: It was supposed to be a story about two people who loved each other but her
+      best friend stole his virginity
+    author: meisuke
+    cover: /covers/664188.jpg
+    rating: 4.6
+    date: '2026-07-15'
+    code: 664188
+    url: /works/664188/
   - title: Honey Series
     author: nitta-jun
     cover: /covers/664424.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sweating"
-work_count: 16
+work_count: 19
 works:
   - title: Konoe no Kyuujitsu | Konoe's Day Off
     author: alp
@@ -10,6 +10,13 @@ works:
     date: '2026-08-18'
     code: 479447
     url: /works/479447/
+  - title: Obedience Part 1
+    author: laliberte
+    cover: /covers/501709.jpg
+    rating: 4.5
+    date: '2026-07-11'
+    code: 501709
+    url: /works/501709/
   - title: Hitozuma Volley-bu no Asedaku SEX ~Shower Abinagara Micchaku Shichau? 1-2
       | Married Women's Volleyball Club Sweaty Sex - We're Being Glued Together While
       Taking A Shower? 1-2
@@ -34,6 +41,13 @@ works:
     date: '2026-07-16'
     code: 605410
     url: /works/605410/
+  - title: Manatsu no Refrain | Midsummer's Refrain
+    author: gen
+    cover: /covers/639514.jpg
+    rating: 4.1
+    date: '2026-07-13'
+    code: 639514
+    url: /works/639514/
   - title: Tonari no Ayane-san Soushuuhen | My Neighbor Ayane Anthology
     author: herio
     cover: /covers/656319.jpg
@@ -48,6 +62,14 @@ works:
     date: '2026-08-22'
     code: 659484
     url: /works/659484/
+  - title: Ohogoe wo Hiteishita Hitozuma ga Otosareru Hanashi | The Married Woman Who
+      Denied Her Crazy Moans Was Defeated
+    author: hikitogu
+    cover: /covers/663171.jpg
+    rating: 4.8
+    date: '2026-07-11'
+    code: 663171
+    url: /works/663171/
   - title: Yume no Naka de
     author: taji
     cover: /covers/664429.jpg

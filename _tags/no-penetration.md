@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "no penetration"
-work_count: 11
+work_count: 12
 works:
   - title: Chikubi Kando Chousa, Hajimemasu
     author: nanahamu
@@ -18,6 +18,13 @@ works:
     date: '2026-08-22'
     code: 652912
     url: /works/652912/
+  - title: Inuzuka-san and her Unusual Hobbies
+    author: carpsukidayo
+    cover: /covers/664022.jpg
+    rating: 4.7
+    date: '2026-07-16'
+    code: 664022
+    url: /works/664022/
   - title: Yamato Dam o Gosou Seyo! Zenpen Sekaiichi no Senkan
     author: kohri-ms
     cover: /covers/664649.jpg

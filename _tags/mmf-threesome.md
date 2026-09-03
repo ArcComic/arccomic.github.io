@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "mmf threesome"
-work_count: 7
+work_count: 10
 works:
   - title: Bocchi de Shinda Ore ga Bishoujo Nurse ni Natta Hanashi | The Story of How
       I Died Alone and Became a Sexy Nurse
@@ -25,6 +25,13 @@ works:
     date: '2026-08-31'
     code: 595788
     url: /works/595788/
+  - title: Kouen no Oji-san-tachi ni Moteasobaretai
+    author: group
+    cover: /covers/598010.jpg
+    rating: 5.0
+    date: '2026-07-13'
+    code: 598010
+    url: /works/598010/
   - title: Akogare no Hito wa Mou Owari! 3
     author: group
     cover: /covers/642586.jpg
@@ -40,6 +47,21 @@ works:
     date: '2026-07-16'
     code: 655498
     url: /works/655498/
+  - title: Natsu Loli Ism Ch. 1-4
+    author: molokonomi-hiraya-nobori
+    cover: /covers/663056.jpg
+    rating: 4.8
+    date: '2026-07-11'
+    code: 663056
+    url: /works/663056/
+  - title: 12-Nenkan Chinpo Tachishiteta Shin Mama ga Musuko no Dōkyūsei ni Netorare
+      Tanetsuke Oho Akume de Mesu no Yorokobi ni Ochita Hi
+    author: unknown
+    cover: /covers/663605.jpg
+    rating: 4.6
+    date: '2026-07-13'
+    code: 663605
+    url: /works/663605/
   - title: Karin-chan no Himitsu Kichi Matome
     author: konnyaku
     cover: /covers/676197.jpg

@@ -1,8 +1,16 @@
 ---
 layout: tag
 tag_name: "bbw"
-work_count: 3
+work_count: 4
 works:
+  - title: Repetitive Practice Mama! The Story of Recieving Sex Ed From an Extremely
+      Strict Mother
+    author: unknown
+    cover: /covers/664191.jpg
+    rating: 4.3
+    date: '2026-07-15'
+    code: 664191
+    url: /works/664191/
   - title: ENG AI Translated [Hanpatsu Zokusei] Mayu-chan EP 1 - 4
     author: hanpatsu-zokusei-mejikara-scene
     cover: /covers/673485.jpg
