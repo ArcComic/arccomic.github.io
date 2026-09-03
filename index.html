@@ -7,7 +7,7 @@
 # The empty front matter block below is still required so Jekyll processes
 # the Liquid tags (site.google_verification, site.works, etc.) in this file.
 ---
-<!-- arc-comic-index-version: 6 -->
+<!-- arc-comic-index-version: 7 -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -146,7 +146,7 @@
         }
         .no-results { text-align: center; padding: 60px 20px; color: var(--text-muted); }
         .pagination {
-            display: flex; justify-content: center; gap: 8px;
+            display: flex; justify-content: center; gap: 8px; flex-wrap: wrap;
             margin-top: 30px; padding-top: 20px;
             border-top: 1px solid var(--border);
         }
@@ -161,6 +161,10 @@
         }
         .pagination a:hover { background: var(--accent); color: #000; }
         .pagination span { background: var(--accent); color: #000; }
+        .pagination-ellipsis {
+            padding: 8px 6px; color: var(--text-muted);
+            font-weight: 600; user-select: none;
+        }
         .footer {
             text-align: center; padding: 30px;
             color: var(--text-muted); font-size: 13px;
@@ -231,6 +235,39 @@
         </div>
     </div>
     <script>
+        
+        const MAX_PAGINATION_BUTTONS = 7;
+        function buildPaginationHtml(current, total, onClickFnName) {
+            if (total <= 1) return '';
+            const mk = (i) => {
+                if (i === current) return `<span>${i}</span>`;
+                return `<a href="#" onclick="${onClickFnName}(${i}); return false;">${i}</a>`;
+            };
+            const ellipsis = `<span class="pagination-ellipsis">…</span>`;
+
+            if (total <= MAX_PAGINATION_BUTTONS) {
+                let html = '';
+                for (let i = 1; i <= total; i++) html += mk(i);
+                return html;
+            }
+
+            // Always show first and last page. Fill the remaining slots
+            // centered on the current page, then clamp to valid range.
+            const sideSlots = MAX_PAGINATION_BUTTONS - 2; // minus first+last
+            let start = current - Math.floor(sideSlots / 2);
+            let end = start + sideSlots - 1;
+            if (start < 2) { start = 2; end = start + sideSlots - 1; }
+            if (end > total - 1) { end = total - 1; start = end - sideSlots + 1; }
+            if (start < 2) start = 2;
+
+            let html = mk(1);
+            if (start > 2) html += ellipsis;
+            for (let i = start; i <= end; i++) html += mk(i);
+            if (end < total - 1) html += ellipsis;
+            html += mk(total);
+            return html;
+        }
+
         const works = [
             {% for post in site.works %}
             {
@@ -328,12 +365,7 @@
             const pageWorks = list.slice(start, start + POSTS_PER_PAGE);
             grid.innerHTML = buildWorkCardsWithAd(pageWorks, page === 1);
             const total = Math.ceil(list.length / POSTS_PER_PAGE);
-            let html = '';
-            for(let i = 1; i <= total; i++) {
-                if(i === page) html += `<span>${i}</span>`;
-                else html += `<a href="#" onclick="renderWorks(${i}); return false;">${i}</a>`;
-            }
-            document.getElementById('pagination').innerHTML = html;
+            document.getElementById('pagination').innerHTML = buildPaginationHtml(page, total, 'renderWorks');
         }
 
         function isFilterPanelOpen() {

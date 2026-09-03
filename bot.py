@@ -661,9 +661,57 @@ def ensure_favicon():
     print("🔧 favicon.svg created")
     return True
 
+# ============== SHARED: PAGINATION JS ==============
+# Used by the homepage, tag pages, search page, and artist pages — all
+# four independently render a page-number strip and previously each had
+# their own copy of a naive "print every page number" loop, which broke
+# visually on mobile once a listing had more than ~10-15 pages (see the
+# bug report: with 17 pages, all 17 numbers rendered in one row and
+# overflowed/wrapped badly on narrow screens). This single shared
+# function replaces all four copies so future changes only need to
+# happen once. Renders a condensed strip: first page, last page, the
+# pages immediately around the current page, and "…" ellipsis gaps in
+# between — the same pattern most pagination UIs use (e.g. "1 … 6 7 8
+# 9 10 … 42"). MAX_PAGINATION_BUTTONS below controls how many numbered
+# buttons are shown at once (not counting the two ellipsis "…" spacers);
+# Master asked for 7, this defaults to that.
+PAGINATION_JS = """
+        const MAX_PAGINATION_BUTTONS = 7;
+        function buildPaginationHtml(current, total, onClickFnName) {
+            if (total <= 1) return '';
+            const mk = (i) => {
+                if (i === current) return `<span>${i}</span>`;
+                return `<a href="#" onclick="${onClickFnName}(${i}); return false;">${i}</a>`;
+            };
+            const ellipsis = `<span class="pagination-ellipsis">…</span>`;
+
+            if (total <= MAX_PAGINATION_BUTTONS) {
+                let html = '';
+                for (let i = 1; i <= total; i++) html += mk(i);
+                return html;
+            }
+
+            // Always show first and last page. Fill the remaining slots
+            // centered on the current page, then clamp to valid range.
+            const sideSlots = MAX_PAGINATION_BUTTONS - 2; // minus first+last
+            let start = current - Math.floor(sideSlots / 2);
+            let end = start + sideSlots - 1;
+            if (start < 2) { start = 2; end = start + sideSlots - 1; }
+            if (end > total - 1) { end = total - 1; start = end - sideSlots + 1; }
+            if (start < 2) start = 2;
+
+            let html = mk(1);
+            if (start > 2) html += ellipsis;
+            for (let i = start; i <= end; i++) html += mk(i);
+            if (end < total - 1) html += ellipsis;
+            html += mk(total);
+            return html;
+        }
+"""
+
 # ============== HOMEPAGE (index.html) ==============
 INDEX_HTML_PATH = os.path.join(WORK_DIR, "index.html")
-INDEX_HTML_VERSION = 6  # bump when the template below changes materially
+INDEX_HTML_VERSION = 7  # bump when the template below changes materially
 
 INDEX_HTML_TEMPLATE = f"""---
 # No 'layout:' key here on purpose — index.html is a complete, self-contained
@@ -813,7 +861,7 @@ INDEX_HTML_TEMPLATE = f"""---
         }}
         .no-results {{ text-align: center; padding: 60px 20px; color: var(--text-muted); }}
         .pagination {{
-            display: flex; justify-content: center; gap: 8px;
+            display: flex; justify-content: center; gap: 8px; flex-wrap: wrap;
             margin-top: 30px; padding-top: 20px;
             border-top: 1px solid var(--border);
         }}
@@ -828,6 +876,10 @@ INDEX_HTML_TEMPLATE = f"""---
         }}
         .pagination a:hover {{ background: var(--accent); color: #000; }}
         .pagination span {{ background: var(--accent); color: #000; }}
+        .pagination-ellipsis {{
+            padding: 8px 6px; color: var(--text-muted);
+            font-weight: 600; user-select: none;
+        }}
         .footer {{
             text-align: center; padding: 30px;
             color: var(--text-muted); font-size: 13px;
@@ -898,6 +950,7 @@ INDEX_HTML_TEMPLATE = f"""---
         </div>
     </div>
     <script>
+        {PAGINATION_JS}
         const works = [
             {{% for post in site.works %}}
             {{
@@ -995,12 +1048,7 @@ INDEX_HTML_TEMPLATE = f"""---
             const pageWorks = list.slice(start, start + POSTS_PER_PAGE);
             grid.innerHTML = buildWorkCardsWithAd(pageWorks, page === 1);
             const total = Math.ceil(list.length / POSTS_PER_PAGE);
-            let html = '';
-            for(let i = 1; i <= total; i++) {{
-                if(i === page) html += `<span>${{i}}</span>`;
-                else html += `<a href="#" onclick="renderWorks(${{i}}); return false;">${{i}}</a>`;
-            }}
-            document.getElementById('pagination').innerHTML = html;
+            document.getElementById('pagination').innerHTML = buildPaginationHtml(page, total, 'renderWorks');
         }}
 
         function isFilterPanelOpen() {{
@@ -1152,11 +1200,12 @@ TAG_LAYOUT_TEMPLATE = f"""<!-- arc-comic-layout-version: {TAG_LAYOUT_VERSION} --
         .work-card .info {{ padding: 10px; }}
         .work-card .info h3 {{ font-size: 13px; font-weight: 600; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }}
         .work-card .info .meta {{ font-size: 11px; color: var(--text-muted); margin-top: 3px; }}
-        .pagination {{ display: flex; justify-content: center; gap: 8px; margin-top: 30px; padding-top: 20px; border-top: 1px solid var(--border); }}
+        .pagination {{ display: flex; justify-content: center; gap: 8px; flex-wrap: wrap; margin-top: 30px; padding-top: 20px; border-top: 1px solid var(--border); }}
         .pagination a, .pagination span {{ padding: 8px 14px; border-radius: 8px; font-size: 14px; font-weight: 600; text-decoration: none; }}
         .pagination a {{ background: var(--bg-card); color: var(--text); border: 1px solid var(--border); }}
         .pagination a:hover {{ background: var(--accent); color: #000; }}
         .pagination span {{ background: var(--accent); color: #000; }}
+        .pagination-ellipsis {{ padding: 8px 6px; color: var(--text-muted); font-weight: 600; user-select: none; }}
         @media (max-width: 768px) {{ .works-grid {{ grid-template-columns: repeat(2, 1fr); }} }}
     </style>
 </head>
@@ -1178,6 +1227,7 @@ TAG_LAYOUT_TEMPLATE = f"""<!-- arc-comic-layout-version: {TAG_LAYOUT_VERSION} --
         {{% include follow_us.html %}}
     </div>
     <script>
+        {PAGINATION_JS}
         const works = [
             {{% for w in page.works %}}
             {{ title: "{{{{ w.title | escape }}}}", author: "{{{{ w.author }}}}", cover: "{{{{ w.cover }}}}",
@@ -1211,12 +1261,7 @@ TAG_LAYOUT_TEMPLATE = f"""<!-- arc-comic-layout-version: {TAG_LAYOUT_VERSION} --
             document.getElementById('worksGrid').innerHTML = buildCardsWithAd(pageWorks, page === 1);
 
             const total = Math.ceil(sorted.length / PER_PAGE);
-            let html = '';
-            for (let i = 1; i <= total; i++) {{
-                if (i === page) html += `<span>${{i}}</span>`;
-                else html += `<a href="#" onclick="render(${{i}}); return false;">${{i}}</a>`;
-            }}
-            document.getElementById('pagination').innerHTML = html;
+            document.getElementById('pagination').innerHTML = buildPaginationHtml(page, total, 'render');
         }}
         document.getElementById('sortSelect').addEventListener('change', () => render(1));
         render(1);
@@ -1299,11 +1344,12 @@ SEARCH_PAGE_TEMPLATE = f"""---
         .work-card .info h3 {{ font-size: 13px; font-weight: 600; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }}
         .work-card .info .meta {{ font-size: 11px; color: var(--text-muted); margin-top: 3px; }}
         .no-results {{ text-align: center; padding: 60px 20px; color: var(--text-muted); }}
-        .pagination {{ display: flex; justify-content: center; gap: 8px; margin-top: 30px; padding-top: 20px; border-top: 1px solid var(--border); }}
+        .pagination {{ display: flex; justify-content: center; gap: 8px; flex-wrap: wrap; margin-top: 30px; padding-top: 20px; border-top: 1px solid var(--border); }}
         .pagination a, .pagination span {{ padding: 8px 14px; border-radius: 8px; font-size: 14px; font-weight: 600; text-decoration: none; }}
         .pagination a {{ background: var(--bg-card); color: var(--text); border: 1px solid var(--border); }}
         .pagination a:hover {{ background: var(--accent); color: #000; }}
         .pagination span {{ background: var(--accent); color: #000; }}
+        .pagination-ellipsis {{ padding: 8px 6px; color: var(--text-muted); font-weight: 600; user-select: none; }}
         @media (max-width: 768px) {{ .works-grid {{ grid-template-columns: repeat(2, 1fr); }} }}
     </style>
 </head>
@@ -1324,6 +1370,7 @@ SEARCH_PAGE_TEMPLATE = f"""---
         {{% include follow_us.html %}}
     </div>
     <script>
+        {PAGINATION_JS}
         const works = [
             {{% for post in site.works %}}
             {{
@@ -1364,12 +1411,7 @@ SEARCH_PAGE_TEMPLATE = f"""---
             document.getElementById('worksGrid').innerHTML = buildCardsWithAd(pageWorks, page === 1);
 
             const total = Math.ceil(currentResults.length / PER_PAGE);
-            let html = '';
-            for (let i = 1; i <= total; i++) {{
-                if (i === page) html += `<span>${{i}}</span>`;
-                else html += `<a href="#" onclick="renderPage(${{i}}); return false;">${{i}}</a>`;
-            }}
-            document.getElementById('pagination').innerHTML = html;
+            document.getElementById('pagination').innerHTML = buildPaginationHtml(page, total, 'renderPage');
         }}
 
         function runSearch(q) {{
@@ -1647,11 +1689,12 @@ ARTIST_LAYOUT_TEMPLATE = f"""<!-- arc-comic-layout-version: {ARTIST_LAYOUT_VERSI
         .work-card .info {{ padding: 10px; }}
         .work-card .info h3 {{ font-size: 13px; font-weight: 600; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }}
         .work-card .info .meta {{ font-size: 11px; color: var(--text-muted); margin-top: 3px; }}
-        .pagination {{ display: flex; justify-content: center; gap: 8px; margin-top: 30px; padding-top: 20px; border-top: 1px solid var(--border); }}
+        .pagination {{ display: flex; justify-content: center; gap: 8px; flex-wrap: wrap; margin-top: 30px; padding-top: 20px; border-top: 1px solid var(--border); }}
         .pagination a, .pagination span {{ padding: 8px 14px; border-radius: 8px; font-size: 14px; font-weight: 600; text-decoration: none; }}
         .pagination a {{ background: var(--bg-card); color: var(--text); border: 1px solid var(--border); }}
         .pagination a:hover {{ background: var(--accent); color: #000; }}
         .pagination span {{ background: var(--accent); color: #000; }}
+        .pagination-ellipsis {{ padding: 8px 6px; color: var(--text-muted); font-weight: 600; user-select: none; }}
         @media (max-width: 768px) {{ .works-grid {{ grid-template-columns: repeat(2, 1fr); }} }}
     </style>
 </head>
@@ -1673,6 +1716,7 @@ ARTIST_LAYOUT_TEMPLATE = f"""<!-- arc-comic-layout-version: {ARTIST_LAYOUT_VERSI
         {{% include follow_us.html %}}
     </div>
     <script>
+        {PAGINATION_JS}
         const works = [
             {{% for w in page.works %}}
             {{ title: "{{{{ w.title | escape }}}}", cover: "{{{{ w.cover }}}}",
@@ -1706,12 +1750,7 @@ ARTIST_LAYOUT_TEMPLATE = f"""<!-- arc-comic-layout-version: {ARTIST_LAYOUT_VERSI
             document.getElementById('worksGrid').innerHTML = buildCardsWithAd(pageWorks, page === 1);
 
             const total = Math.ceil(sorted.length / PER_PAGE);
-            let html = '';
-            for (let i = 1; i <= total; i++) {{
-                if (i === page) html += `<span>${{i}}</span>`;
-                else html += `<a href="#" onclick="render(${{i}}); return false;">${{i}}</a>`;
-            }}
-            document.getElementById('pagination').innerHTML = html;
+            document.getElementById('pagination').innerHTML = buildPaginationHtml(page, total, 'render');
         }}
         document.getElementById('sortSelect').addEventListener('change', () => render(1));
         render(1);
