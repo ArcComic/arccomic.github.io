@@ -21,6 +21,7 @@ from bs4 import BeautifulSoup
 from telegram import Update
 from telegram.ext import Application, MessageHandler, filters, ContextTypes
 from flask import Flask, render_template_string, request, jsonify
+import r2_upload
 
 # ============== LOG FLUSH FIX ==============
 # When bot.py runs under nohup (stdout redirected to bot.log, not a TTY),
@@ -81,6 +82,14 @@ DEFAULT_SECRETS = {
     "telegram_api_id": "",
     "telegram_api_hash": "",
     "telegram_phone": "",
+    # Cloudflare R2 (image hosting for covers) — same protected treatment
+    # as every other credential here: stored outside the repo, never
+    # committed, and masked when echoed back to the dashboard.
+    "r2_access_key_id": "",
+    "r2_secret_access_key": "",
+    "r2_account_id": "",
+    "r2_bucket_name": "",
+    "r2_public_url": "",
 }
 
 # Ensure dirs exist
@@ -134,6 +143,11 @@ def save_config(cfg):
         "telegram_api_id": cfg.get("telegram_api_id", ""),
         "telegram_api_hash": cfg.get("telegram_api_hash", ""),
         "telegram_phone": cfg.get("telegram_phone", ""),
+        "r2_access_key_id": cfg.get("r2_access_key_id", ""),
+        "r2_secret_access_key": cfg.get("r2_secret_access_key", ""),
+        "r2_account_id": cfg.get("r2_account_id", ""),
+        "r2_bucket_name": cfg.get("r2_bucket_name", ""),
+        "r2_public_url": cfg.get("r2_public_url", ""),
     }
     save_secrets(secrets)
 
@@ -2197,6 +2211,15 @@ def generate_md(code, title, author, categories, full_color, cheating,
     ntr_bool = "true" if cheating.lower() == "yes" else "false"
     ntr_label = "Yes" if cheating.lower() == "yes" else "No"
 
+    # Cover URL: R2 (external, no repo storage cost) once configured,
+    # else the old in-repo /covers/<code>.jpg path as a fallback so
+    # posting still works before R2 settings are filled in.
+    cfg = load_config()
+    if r2_upload.is_configured(cfg):
+        cover_url = r2_upload.get_cover_url(cfg, code)
+    else:
+        cover_url = f"/covers/{code}.jpg"
+
     md_lines = [
         "---",
         "layout: post",
@@ -2209,7 +2232,7 @@ def generate_md(code, title, author, categories, full_color, cheating,
         f"ntr: {ntr_bool}",
         f'language: "{language}"',
         f"rating: {rating}",
-        f'cover: "/covers/{code}.jpg"',
+        f'cover: "{cover_url}"',
         f'telegram_post: "{telegram_post_url}"',
         f"date: {date_str}",
         "views: 0",
@@ -2217,7 +2240,7 @@ def generate_md(code, title, author, categories, full_color, cheating,
         "",
         f"# {title}",
         "",
-        f"![Cover](/covers/{code}.jpg)",
+        f"![Cover]({cover_url})",
         "",
         f"**Author:** {author} | **Code:** {code} | **Rating:** ⭐ {rating}  ",
         f"**Full Color:** {fc_label} | **NTR:** {ntr_label} | **Language:** {language.title()}  ",
@@ -2274,6 +2297,118 @@ def delete_post_record(code, time):
     for path in (md_path, cover_path):
         if os.path.exists(path):
             os.remove(path)
+
+    # Cover may live on R2 instead of (or in addition to) disk — clean
+    # that up too so deleted posts don't leave orphaned images behind.
+    cfg = load_config()
+    if r2_upload.is_configured(cfg):
+        r2_upload.delete_cover(cfg, code)
+
+# ============== R2 MIGRATION (existing posts) ==============
+_r2_migration_lock = threading.Lock()
+_r2_migration_running = False
+_r2_migration_last_result = None
+
+def _migrate_one_post_to_r2(cfg, code):
+    """Uploads a single existing cover to R2 and rewrites that post's
+    .md front matter + image tag to point at the new URL. Returns True
+    if it changed anything (so the caller knows to push), False if
+    already migrated or nothing to do."""
+    cover_path = os.path.join(COVERS_DIR, f"{code}.jpg")
+    md_path = os.path.join(WORKS_DIR, f"{code}.md")
+    if not os.path.exists(cover_path) or not os.path.exists(md_path):
+        return False
+
+    r2_url = r2_upload.upload_cover(cfg, cover_path, code)
+    if not r2_url:
+        return False  # upload failed, leave this post untouched, try again later
+
+    with open(md_path, "r", encoding="utf-8") as f:
+        content = f.read()
+
+    old_local = f"/covers/{code}.jpg"
+    if old_local not in content:
+        # Nothing to rewrite (already pointing elsewhere) — but the
+        # upload above still happened, so still clean up the local file.
+        try:
+            os.remove(cover_path)
+        except Exception:
+            pass
+        return False
+
+    new_content = content.replace(old_local, r2_url)
+    with open(md_path, "w", encoding="utf-8") as f:
+        f.write(new_content)
+
+    try:
+        os.remove(cover_path)
+    except Exception:
+        pass
+    return True
+
+def run_r2_migration():
+    """
+    Walks every existing post, uploads its local cover to R2 (skipping
+    any that are already migrated or have no local cover), rewrites the
+    .md front matter, and pushes in small batches so a single failed
+    push doesn't lose progress on everything already done.
+    Safe to call repeatedly — already-migrated posts are skipped fast
+    since their cover file no longer exists locally.
+    """
+    cfg = load_config()
+    if not r2_upload.is_configured(cfg):
+        return {"status": "error", "message": "R2 is not configured yet"}
+
+    if not os.path.isdir(WORKS_DIR):
+        return {"status": "ok", "migrated": 0, "message": "No posts found"}
+
+    codes = [fn[:-3] for fn in os.listdir(WORKS_DIR) if fn.endswith(".md")]
+    migrated = []
+    failed = []
+    BATCH_SIZE = 20
+
+    batch_paths = []
+    for i, code in enumerate(codes):
+        try:
+            changed = _migrate_one_post_to_r2(cfg, code)
+            if changed:
+                migrated.append(code)
+                batch_paths.append(os.path.join("_works", f"{code}.md"))
+                batch_paths.append(os.path.join("covers", f"{code}.jpg"))
+        except Exception as e:
+            print(f"⚠️ R2 migration failed for {code}: {e}")
+            failed.append(code)
+
+        # Push every BATCH_SIZE migrated posts so progress is never lost
+        # to a single crashed/interrupted run, and so the repo shrinks
+        # incrementally instead of one giant commit at the very end.
+        if len(batch_paths) >= BATCH_SIZE * 2 or i == len(codes) - 1:
+            if batch_paths:
+                success, err = git_push(cfg, "r2-migration",
+                                         f"Migrate {len(batch_paths)//2} cover(s) to R2", batch_paths)
+                if not success:
+                    print(f"⚠️ R2 migration push failed: {err}")
+                batch_paths = []
+
+    return {
+        "status": "ok",
+        "migrated": len(migrated),
+        "failed": len(failed),
+        "failed_codes": failed[:20],  # cap so the response doesn't balloon
+        "total_checked": len(codes),
+    }
+
+def _run_r2_migration_thread():
+    global _r2_migration_running, _r2_migration_last_result
+    try:
+        result = run_r2_migration()
+    except Exception as e:
+        msg = str(e) or repr(e) or type(e).__name__
+        result = {"status": "error", "message": msg}
+        print(f"❌ R2 migration crashed: {msg}")
+    with _r2_migration_lock:
+        _r2_migration_last_result = result
+        _r2_migration_running = False
 
 # ============== GIT OPERATIONS ==============
 def ensure_origin_remote(cfg):
@@ -2667,6 +2802,25 @@ async def stage_comic(code, fields, message_date, message_id, cover_bytes_source
         if cover_bytes_source:
             await cover_bytes_source(cover_path)
             print(f"📸 Cover saved: {cover_path}")
+
+            # Upload to R2 if configured. This runs for both live posts
+            # and backlog processing since they both go through this
+            # shared function. On failure we just log it and keep the
+            # local file — generate_md() already fell back to the old
+            # /covers/ path in that case, so posting never breaks over
+            # an R2 hiccup.
+            if r2_upload.is_configured(cfg):
+                r2_url = r2_upload.upload_cover(cfg, cover_path, code)
+                if r2_url:
+                    print(f"☁️ Cover uploaded to R2: {r2_url}")
+                    # Local copy no longer needed once it's safely on R2 —
+                    # this is what keeps the git repo out of the 1GB zone.
+                    try:
+                        os.remove(cover_path)
+                    except Exception:
+                        pass
+                else:
+                    print(f"⚠️ R2 upload failed for {code}, keeping local copy as fallback")
         else:
             print("⚠️ No photo attached to this post")
 
@@ -3522,6 +3676,58 @@ DASHBOARD_HTML = """
                 <div class="section-divider"></div>
 
                 <h2 style="font-size:16px;color:#f59e0b;margin-bottom:16px;text-transform:uppercase;letter-spacing:1px;">
+                    ☁️ Cloudflare R2 (Cover Storage)
+                </h2>
+                <p style="color:#666;font-size:11px;margin-bottom:12px;">
+                    Paste the values from your R2 API token here. Once filled in,
+                    new covers upload to R2 automatically instead of the git repo.
+                </p>
+                <div class="form-group">
+                    <label>R2 Access Key ID</label>
+                    <input type="password" name="r2_access_key_id"
+                           placeholder="Access Key ID"
+                           value="{{ r2_access_key_id }}">
+                </div>
+                <div class="form-group">
+                    <label>R2 Secret Access Key</label>
+                    <input type="password" name="r2_secret_access_key"
+                           placeholder="Secret Access Key / Token value"
+                           value="{{ r2_secret_access_key }}">
+                </div>
+                <div class="form-group">
+                    <label>R2 Account ID</label>
+                    <input type="text" name="r2_account_id"
+                           placeholder="e.g. f83ba62681a6ba5b8ab376aaa1c250df"
+                           value="{{ r2_account_id }}">
+                </div>
+                <div class="form-group">
+                    <label>R2 Bucket Name</label>
+                    <input type="text" name="r2_bucket_name"
+                           placeholder="arccomic-covers"
+                           value="{{ r2_bucket_name }}">
+                </div>
+                <div class="form-group">
+                    <label>R2 Public URL</label>
+                    <input type="text" name="r2_public_url"
+                           placeholder="https://pub-xxxxxxxx.r2.dev"
+                           value="{{ r2_public_url }}">
+                </div>
+                {% if r2_configured %}
+                <div class="info-box" style="border-color:#22c55e;">
+                    ✅ R2 is configured. New covers upload automatically.
+                    <br><br>
+                    <button type="button" class="btn" id="migrateBtn"
+                            onclick="startMigration()"
+                            style="background:#22c55e;">
+                        📦 Migrate Old Covers to R2
+                    </button>
+                    <div class="status" id="migrateStatus"></div>
+                </div>
+                {% endif %}
+
+                <div class="section-divider"></div>
+
+                <h2 style="font-size:16px;color:#f59e0b;margin-bottom:16px;text-transform:uppercase;letter-spacing:1px;">
                     🔍 Google SEO Setup
                 </h2>
 
@@ -3702,6 +3908,68 @@ DASHBOARD_HTML = """
     </div>
 
     <script>
+        // R2 cover migration — kicks off the background job, then polls
+        // its status every few seconds until it's done.
+        let _migratePollTimer = null;
+        async function startMigration() {
+            const btn = document.getElementById('migrateBtn');
+            const status = document.getElementById('migrateStatus');
+            btn.disabled = true;
+            btn.textContent = '⏳ Migrating...';
+            status.className = 'status';
+            status.textContent = 'Starting migration...';
+
+            try {
+                const res = await fetch('/api/r2/migrate', { method: 'POST' });
+                const data = await res.json();
+                if (res.status === 409) {
+                    status.textContent = data.message;
+                    _pollMigrationStatus();
+                    return;
+                }
+                if (!res.ok) {
+                    status.className = 'status error';
+                    status.textContent = '❌ ' + data.message;
+                    btn.disabled = false;
+                    btn.textContent = '📦 Migrate Old Covers to R2';
+                    return;
+                }
+                status.textContent = data.message;
+                _pollMigrationStatus();
+            } catch (e) {
+                status.className = 'status error';
+                status.textContent = '❌ ' + e.message;
+                btn.disabled = false;
+                btn.textContent = '📦 Migrate Old Covers to R2';
+            }
+        }
+
+        function _pollMigrationStatus() {
+            if (_migratePollTimer) clearInterval(_migratePollTimer);
+            _migratePollTimer = setInterval(async () => {
+                const res = await fetch('/api/r2/migrate/status');
+                const data = await res.json();
+                const btn = document.getElementById('migrateBtn');
+                const status = document.getElementById('migrateStatus');
+                if (!data.running) {
+                    clearInterval(_migratePollTimer);
+                    btn.disabled = false;
+                    btn.textContent = '📦 Migrate Old Covers to R2';
+                    const r = data.last_result;
+                    if (r && r.status === 'ok') {
+                        status.className = 'status success';
+                        status.textContent = `✅ Migrated ${r.migrated} cover(s). ` +
+                            (r.failed ? `${r.failed} failed (will retry next click).` : 'All done!');
+                    } else if (r) {
+                        status.className = 'status error';
+                        status.textContent = '❌ ' + (r.message || 'Migration failed');
+                    }
+                } else {
+                    status.textContent = 'Migrating in the background... this can take a while.';
+                }
+            }, 4000);
+        }
+
         // Live status refresh every 10s so the dashboard reflects bot health
         // without needing a manual page reload.
         async function refreshStatus() {
@@ -4081,6 +4349,7 @@ def dashboard():
     return render_template_string(
         DASHBOARD_HTML, **cfg,
         show_setup=show_setup,
+        r2_configured=r2_upload.is_configured(cfg),
         total_posts=stats.get("total_posts", 0),
         recent_posts=list(reversed(stats.get("posts", []))),
         last_error=stats.get("last_error"),
@@ -4320,6 +4589,29 @@ def _run_cover_recovery_thread(api_id, api_hash, channel):
     with _cover_recovery_lock:
         _cover_recovery_last_result = result
         _cover_recovery_running = False
+
+@app.route("/api/r2/migrate", methods=["POST"])
+def api_r2_migrate():
+    global _r2_migration_running
+    cfg = load_config()
+    if not r2_upload.is_configured(cfg):
+        return jsonify({"status": "error", "message": "Fill in and save R2 settings first"}), 400
+
+    with _r2_migration_lock:
+        if _r2_migration_running:
+            return jsonify({"status": "error", "message": "Migration already running"}), 409
+        _r2_migration_running = True
+
+    threading.Thread(target=_run_r2_migration_thread, daemon=True).start()
+    return jsonify({"status": "ok", "message": "Migration started — this can take a while for many posts."})
+
+@app.route("/api/r2/migrate/status")
+def api_r2_migrate_status():
+    with _r2_migration_lock:
+        return jsonify({
+            "running": _r2_migration_running,
+            "last_result": _r2_migration_last_result,
+        })
 
 @app.route("/api/backlog/recover_covers", methods=["POST"])
 def api_backlog_recover_covers():
