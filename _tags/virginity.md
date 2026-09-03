@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "virginity"
-work_count: 47
+work_count: 54
 works:
   - title: My Care Lady Ch. 1
     author: sugi-g
@@ -10,6 +10,13 @@ works:
     date: '2026-04-27'
     code: 139537
     url: /works/139537/
+  - title: Love Approach
+    author: hanafuda-sakurano
+    cover: /covers/158990.jpg
+    rating: 4.7
+    date: '2026-04-27'
+    code: 158990
+    url: /works/158990/
   - title: Onee-chan ga Ecchi na Koto bakka Suru kara... | My older sister only does
       obscene things...
     author: danimaru
@@ -47,6 +54,14 @@ works:
     date: '2026-04-27'
     code: 452482
     url: /works/452482/
+  - title: What would happen if you said "Let's have sex." while your teacher was scolding
+      you?
+    author: chotto-b-sen
+    cover: /covers/463298.jpg
+    rating: 4.6
+    date: '2026-04-25'
+    code: 463298
+    url: /works/463298/
   - title: Toaru Mura no Fudeoroshi Jijou | *séh₂ swédʰh₁eh₂ weyḱósyo
     author: nora-higuma
     cover: /covers/505779.jpg
@@ -68,6 +83,13 @@ works:
     date: '2026-08-25'
     code: 512473
     url: /works/512473/
+  - title: Hatsutaiken no Susume | Recommendation for the First Time Experience
+    author: mojarin
+    cover: /covers/532651.jpg
+    rating: 4.0
+    date: '2026-04-27'
+    code: 532651
+    url: /works/532651/
   - title: Iiwa Watashi no Karada Suki ni Shite Ch.1-2
     author: shunjou-shuusuke
     cover: /covers/561787.jpg
@@ -134,6 +156,13 @@ works:
     date: '2026-04-27'
     code: 608677
     url: /works/608677/
+  - title: Zenin Mukuwarenai Harem | A Harem Where No One Is Reciprocated
+    author: group
+    cover: /covers/610041.jpg
+    rating: 4.0
+    date: '2026-04-23'
+    code: 610041
+    url: /works/610041/
   - title: Tomodachi ga Tsuretekita Oba-san 1
     author: exit-up
     cover: /covers/615538.jpg
@@ -192,6 +221,30 @@ works:
     date: '2026-08-24'
     code: 642586
     url: /works/642586/
+  - title: Doutei Daisuki Jogakusei-chan, Zetsurin Doutei ni Haiboku suru -One More!-
+      | The Virgin-Killer Girl is Defeated by the Insatiable Virgin ―One More!―
+    author: macaron-sugar
+    cover: /covers/645521.jpg
+    rating: 4.6
+    date: '2026-04-23'
+    code: 645521
+    url: /works/645521/
+  - title: Onanie Daisuki Honoka-chan wa Katekyo Chinpo o Benkyou Shitai! | Professional
+      Shliker Honoka-san Wanna Study Up On Her Tutor's Cock!
+    author: henreader
+    cover: /covers/645677.jpg
+    rating: 4.9
+    date: '2026-04-25'
+    code: 645677
+    url: /works/645677/
+  - title: Papa to Mama no Rusu ni Okute na Kareshi-kun o Wagaya ni Shoutai Shitemita
+      Kekka | I invited my shy boyfriend to my house while my parents were away
+    author: unknown
+    cover: /covers/646111.jpg
+    rating: 4.9
+    date: '2026-04-27'
+    code: 646111
+    url: /works/646111/
   - title: Sex Between Gloomy Types is the Hottest, Ain't It?
     author: doji-ro
     cover: /covers/646757.jpg

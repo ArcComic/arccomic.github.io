@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bald"
-work_count: 21
+work_count: 24
 works:
   - title: Asuna-san ga Agil ni Netorareru Ohanashi
     author: fujimiya-siryu
@@ -17,6 +17,14 @@ works:
     date: '2026-07-10'
     code: 550164
     url: /works/550164/
+  - title: Ojou-sama Sodachi no Namaiki Celeb Zuma o Kitanai Ossan Chinpo de Wakaraseru
+      | Cocky Rich Bitch Glam-Wife Gets Taught A Lesson With Dirty Old Man Dick
+    author: chinpan
+    cover: /covers/559088.jpg
+    rating: 4.6
+    date: '2026-04-25'
+    code: 559088
+    url: /works/559088/
   - title: I'll cut my hair off
     author: umidori-project
     cover: /covers/564042.jpg
@@ -24,6 +32,13 @@ works:
     date: '2026-07-17'
     code: 564042
     url: /works/564042/
+  - title: Boku no Kaa-chan 2 | My Mom 2
+    author: cammy
+    cover: /covers/579339.jpg
+    rating: 4.9
+    date: '2026-04-25'
+    code: 579339
+    url: /works/579339/
   - title: Doukyuusei no Kyouiku Mama ni Hitomebore!
     author: chotto-b-sen
     cover: /covers/581704.jpg
@@ -91,6 +106,13 @@ works:
     date: '2026-08-24'
     code: 642585
     url: /works/642585/
+  - title: Inaka ja Kore ga Joushiki dakara! | This Is Just How Things Are in the Countryside!
+    author: chilt
+    cover: /covers/646146.jpg
+    rating: 4.1
+    date: '2026-04-27'
+    code: 646146
+    url: /works/646146/
   - title: Anal Toilet Training
     author: goma-gorilla
     cover: /covers/647315.jpg

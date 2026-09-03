@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "stomach deformation"
-work_count: 4
+work_count: 5
 works:
   - title: Uwa, Mesugaki Tsuyoi! | Crap, This Mesugaki's Too Powerful!
     author: poncocchan
@@ -10,6 +10,14 @@ works:
     date: '2026-08-31'
     code: 550359
     url: /works/550359/
+  - title: Ossan Kirai no Hitozuma Kyoushi ga Nikubenki ni Ochiru Hanashi | Story About
+      an Old Man Hating Married Teacher Falling Into Being a Meat Toilet
+    author: chinpan
+    cover: /covers/562615.jpg
+    rating: 4.5
+    date: '2026-04-25'
+    code: 562615
+    url: /works/562615/
   - title: Mesugaki ni Saikyouiku o!! | Re-Educating A Smug-Brat!!
     author: type-yamada
     cover: /covers/664631.jpg

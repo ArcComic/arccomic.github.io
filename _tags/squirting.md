@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "squirting"
-work_count: 44
+work_count: 55
 works:
   - title: Majimeni Yarimasu (Seitokaichou) Ch. 1-3
     author: ikumo-taisuke
@@ -49,6 +49,13 @@ works:
     date: '2026-05-10'
     code: 540125
     url: /works/540125/
+  - title: Ero Cos OL to Jiraikei Joshi ~Iki Nuresaseru Moto Kare no Amai Koshi Zukai~
+    author: unknown
+    cover: /covers/548852.jpg
+    rating: 4.3
+    date: '2026-04-23'
+    code: 548852
+    url: /works/548852/
   - title: Nakayoku no Yu e Youkoso Ch. 2 & 3
     author: enomoto-heights
     cover: /covers/555849.jpg
@@ -56,6 +63,21 @@ works:
     date: '2026-04-30'
     code: 555849
     url: /works/555849/
+  - title: Ikemen Douki ni Otosareru Hanashi~ Ikitakunaoni Kyousei Zecchou?!
+    author: hoshina-mimiwo
+    cover: /covers/560643.jpg
+    rating: 4.8
+    date: '2026-04-25'
+    code: 560643
+    url: /works/560643/
+  - title: Ossan Kirai no Hitozuma Kyoushi ga Nikubenki ni Ochiru Hanashi | Story About
+      an Old Man Hating Married Teacher Falling Into Being a Meat Toilet
+    author: chinpan
+    cover: /covers/562615.jpg
+    rating: 4.5
+    date: '2026-04-25'
+    code: 562615
+    url: /works/562615/
   - title: Boku no Kaa-chan ga Hikikomori Neet Debu Aniki no Seishori Onaho ni Natteita
       Hanashi | My Mother is My Fat Shut-in Older NEET Brother's Sex Relief Onahole
     author: tarobaumu
@@ -64,6 +86,21 @@ works:
     date: '2026-05-05'
     code: 578147
     url: /works/578147/
+  - title: Nanami-chan can’t resist after a date! Cafe, Cinema, Love hotel~
+    author: a2me
+    cover: /covers/579819.jpg
+    rating: 4.7
+    date: '2026-04-25'
+    code: 579819
+    url: /works/579819/
+  - title: 'Moto Mahou Shoujo no Shigoto Hanashi Ao Zenjitsutan | Former Magical Girl
+      Blue''s Work: The Prequel'
+    author: zhen-lu
+    cover: /covers/584579.jpg
+    rating: 4.3
+    date: '2026-04-23'
+    code: 584579
+    url: /works/584579/
   - title: Kyoya, My Childhood Friend Rapes Me In My Dream...
     author: danimaru
     cover: /covers/587827.jpg
@@ -78,6 +115,15 @@ works:
     date: '2026-05-01'
     code: 591112
     url: /works/591112/
+  - title: Torohame "100-kai Iku made Hanasanai" Hajimete no Portio Kiss... Kizetsu
+      suru made Renzoku Nou Iki | TOROHAME ~First Time Portio Kiss... Consecutive Braingasm
+      Until You Faint~
+    author: yamamoto-tomomitsu
+    cover: /covers/593112.jpg
+    rating: 4.3
+    date: '2026-04-25'
+    code: 593112
+    url: /works/593112/
   - title: Yuujin no Haha wa Dekachin ni Yowai | My Friend's Mom is Weak to a Huge Cock
     author: shimofuri
     cover: /covers/593575.jpg
@@ -85,6 +131,13 @@ works:
     date: '2026-08-21'
     code: 593575
     url: /works/593575/
+  - title: Zenin Mukuwarenai Harem | A Harem Where No One Is Reciprocated
+    author: group
+    cover: /covers/610041.jpg
+    rating: 4.0
+    date: '2026-04-23'
+    code: 610041
+    url: /works/610041/
   - title: Eroi Koto Igai de Toki o Tomete wa Dame desu yo 2
     author: ohkura-kazuya
     cover: /covers/615835.jpg
@@ -107,6 +160,14 @@ works:
     date: '2026-05-26'
     code: 627182
     url: /works/627182/
+  - title: Kaisha de majimena Shizuno-san wa ie de otoko o katterurashii | Seems The
+      Serious Office Worker Shizuno Keeps A Pet Guy At Home
+    author: yuzuha
+    cover: /covers/632188.jpg
+    rating: 4.5
+    date: '2026-04-25'
+    code: 632188
+    url: /works/632188/
   - title: Onsen Haitte tara Joseito-tachi ga Osotte Kita | My Students Jumped Me When
       I Got in the Hot Spring
     author: hamo
@@ -129,6 +190,28 @@ works:
     date: '2026-08-24'
     code: 642585
     url: /works/642585/
+  - title: Because Ura Wants To Be More Than "Just An Acquaintance"
+    author: the-waidan
+    cover: /covers/642793.jpg
+    rating: 4.6
+    date: '2026-04-27'
+    code: 642793
+    url: /works/642793/
+  - title: Oji Saimin Soushuuhen | Hypnotized Uncle Compilation Edition
+    author: tokomaya-keita
+    cover: /covers/645612.jpg
+    rating: 5.0
+    date: '2026-04-24'
+    code: 645612
+    url: /works/645612/
+  - title: Onanie Daisuki Honoka-chan wa Katekyo Chinpo o Benkyou Shitai! | Professional
+      Shliker Honoka-san Wanna Study Up On Her Tutor's Cock!
+    author: henreader
+    cover: /covers/645677.jpg
+    rating: 4.9
+    date: '2026-04-25'
+    code: 645677
+    url: /works/645677/
   - title: Okaa-san ni wa Kore Gurai shika Dekinai kara... 2 | For Mom the Only Option
       Left is... 2
     author: muchipan

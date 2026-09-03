@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "armpit licking"
-work_count: 7
+work_count: 8
 works:
   - title: Homestay-chu no Doitsu Musume ga Issho ni Furo ni Haitte Kuru Wake | The
       Reason Why a German Girl Takes a Bath Together With Me on Her Homestay
@@ -11,6 +11,14 @@ works:
     date: '2026-08-22'
     code: 344851
     url: /works/344851/
+  - title: Ossan Kirai no Hitozuma Kyoushi ga Nikubenki ni Ochiru Hanashi | Story About
+      an Old Man Hating Married Teacher Falling Into Being a Meat Toilet
+    author: chinpan
+    cover: /covers/562615.jpg
+    rating: 4.5
+    date: '2026-04-25'
+    code: 562615
+    url: /works/562615/
   - title: Yuujin no Haha wa Dekachin ni Yowai | My Friend's Mom is Weak to a Huge Cock
     author: shimofuri
     cover: /covers/593575.jpg

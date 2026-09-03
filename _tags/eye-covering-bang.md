@@ -1,8 +1,46 @@
 ---
 layout: tag
 tag_name: "eye-covering bang"
-work_count: 8
+work_count: 13
 works:
+  - title: Moto Mahou Shoujo no Hikikomori Seikatsu | The NEET Life of a Former Magical
+      Girl
+    author: zhen-lu
+    cover: /covers/506303.jpg
+    rating: 4.4
+    date: '2026-04-23'
+    code: 506303
+    url: /works/506303/
+  - title: Zenin Mukuwarenai Harem | A Harem Where No One Is Reciprocated
+    author: group
+    cover: /covers/610041.jpg
+    rating: 4.0
+    date: '2026-04-23'
+    code: 610041
+    url: /works/610041/
+  - title: Because Ura Wants To Be More Than "Just An Acquaintance"
+    author: the-waidan
+    cover: /covers/642793.jpg
+    rating: 4.6
+    date: '2026-04-27'
+    code: 642793
+    url: /works/642793/
+  - title: Succubus Seitokai Shiko Shiko Shikkoubu 2 NOA ver. | Succubus Student Council
+      Milking Club 2 Version NOA
+    author: michiking
+    cover: /covers/645520.jpg
+    rating: 4.8
+    date: '2026-04-23'
+    code: 645520
+    url: /works/645520/
+  - title: 'Moto Mahou Shoujo no Kazoku Banashi Tsuki 2 | Former Magical Girl''s Family
+      Story: Tsuki 2'
+    author: zhen-lu
+    cover: /covers/645646.jpg
+    rating: 4.1
+    date: '2026-04-23'
+    code: 645646
+    url: /works/645646/
   - title: Okaa-san ni wa Kore Gurai shika Dekinai kara... 2 | For Mom the Only Option
       Left is... 2
     author: muchipan

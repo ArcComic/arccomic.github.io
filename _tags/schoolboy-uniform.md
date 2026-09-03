@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "schoolboy uniform"
-work_count: 26
+work_count: 31
 works:
   - title: Mukuchi na Tosho Iin to Sex Zuke.
     author: yuzuha
@@ -10,6 +10,13 @@ works:
     date: '2026-07-07'
     code: 321298
     url: /works/321298/
+  - title: Love Divided Between a Rock and a Hard Place Ch.1
+    author: cabin
+    cover: /covers/342540.jpg
+    rating: 4.4
+    date: '2026-04-23'
+    code: 342540
+    url: /works/342540/
   - title: Kanojo Face | Girlfriend Face
     author: mashiro-shirako
     cover: /covers/346126.jpg
@@ -24,6 +31,14 @@ works:
     date: '2026-04-27'
     code: 425528
     url: /works/425528/
+  - title: Itabasami na Wakachi Ai 4 | Love Divided Between a Rock and a Hard Place
+      4
+    author: group
+    cover: /covers/448503.jpg
+    rating: 5.0
+    date: '2026-04-23'
+    code: 448503
+    url: /works/448503/
   - title: Gal to no Asobikata | How to Have Fun With Gyarus!
     author: buta
     cover: /covers/531967.jpg
@@ -53,6 +68,30 @@ works:
     date: '2026-07-13'
     code: 639514
     url: /works/639514/
+  - title: Succubus Seitokai Shiko Shiko Shikkoubu 2 NOA ver. | Succubus Student Council
+      Milking Club 2 Version NOA
+    author: michiking
+    cover: /covers/645520.jpg
+    rating: 4.8
+    date: '2026-04-23'
+    code: 645520
+    url: /works/645520/
+  - title: Kounai de Ichiban Kawaikute Ichiban Oppai ga Dekakute Ichiban Okazu ni Sareteru
+      Ichiban Sukebe na Etou-san - Eto-san is the cutest, has the biggest tits, is the
+      most masturbatory target, and is the most naughty in the school. | 在校內最可愛、胸部最大、最常被當做性幻想對象、最淫蕩的江藤同學
+    author: kuba-yodomu
+    cover: /covers/645649.jpg
+    rating: 4.1
+    date: '2026-04-23'
+    code: 645649
+    url: /works/645649/
+  - title: Ikenie no Haha 2
+    author: group
+    cover: /covers/645676.jpg
+    rating: 4.1
+    date: '2026-04-23'
+    code: 645676
+    url: /works/645676/
   - title: Sex Between Gloomy Types is the Hottest, Ain't It?
     author: doji-ro
     cover: /covers/646757.jpg

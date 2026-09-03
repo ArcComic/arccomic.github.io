@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "dilf"
-work_count: 51
+work_count: 59
 works:
   - title: Adoration
     author: kishizuka-kenji
@@ -10,6 +10,21 @@ works:
     date: '2026-05-04'
     code: 112455
     url: /works/112455/
+  - title: LOOK LIKE
+    author: terasu-mc
+    cover: /covers/388099.jpg
+    rating: 4.5
+    date: '2026-04-25'
+    code: 388099
+    url: /works/388099/
+  - title: Boku no Netorase Seiheki ni Tsukiatte kureru Kanojo | A Girlfriend Who Plays
+      Along with My Cuckold Fetish
+    author: terasu-mc
+    cover: /covers/441036.jpg
+    rating: 4.8
+    date: '2026-04-25'
+    code: 441036
+    url: /works/441036/
   - title: Asunama 9
     author: ken-1
     cover: /covers/477784.jpg
@@ -55,6 +70,13 @@ works:
     date: '2026-05-04'
     code: 519713
     url: /works/519713/
+  - title: Tsugunai Tsuma 1
+    author: ren-suru
+    cover: /covers/526024.jpg
+    rating: 4.5
+    date: '2026-04-23'
+    code: 526024
+    url: /works/526024/
   - title: Minpaku ~Ojou-sama-tachi wa Minpaku Keieisha no Wana ni Ochiru~ | Sleeping
       in the Bed and Breakfast - Young ladies fall into the trap of a private lodging
       manager
@@ -86,6 +108,22 @@ works:
     date: '2026-08-20'
     code: 557452
     url: /works/557452/
+  - title: Ojou-sama Sodachi no Namaiki Celeb Zuma o Kitanai Ossan Chinpo de Wakaraseru
+      | Cocky Rich Bitch Glam-Wife Gets Taught A Lesson With Dirty Old Man Dick
+    author: chinpan
+    cover: /covers/559088.jpg
+    rating: 4.6
+    date: '2026-04-25'
+    code: 559088
+    url: /works/559088/
+  - title: Ossan Kirai no Hitozuma Kyoushi ga Nikubenki ni Ochiru Hanashi | Story About
+      an Old Man Hating Married Teacher Falling Into Being a Meat Toilet
+    author: chinpan
+    cover: /covers/562615.jpg
+    rating: 4.5
+    date: '2026-04-25'
+    code: 562615
+    url: /works/562615/
   - title: Tawawa de Akarui Yakyuubu Manager ga Inshitsu na Kyoushi no Wana ni... Kanketsuhen
     author: ohkura-kazuya
     cover: /covers/566052.jpg
@@ -93,6 +131,13 @@ works:
     date: '2026-04-30'
     code: 566052
     url: /works/566052/
+  - title: Boku no Kaa-chan 2 | My Mom 2
+    author: cammy
+    cover: /covers/579339.jpg
+    rating: 4.9
+    date: '2026-04-25'
+    code: 579339
+    url: /works/579339/
   - title: 'Anata to Watashi no Ayamachi ~Bangaihen Kairaku Ochi e no Ippo~ | Our Mistake
       ~Side Story: A Step Towards the Fall into Pleasure~'
     author: zionman
@@ -137,6 +182,20 @@ works:
     date: '2026-07-06'
     code: 644296
     url: /works/644296/
+  - title: Oji Saimin Soushuuhen | Hypnotized Uncle Compilation Edition
+    author: tokomaya-keita
+    cover: /covers/645612.jpg
+    rating: 5.0
+    date: '2026-04-24'
+    code: 645612
+    url: /works/645612/
+  - title: Inaka ja Kore ga Joushiki dakara! | This Is Just How Things Are in the Countryside!
+    author: chilt
+    cover: /covers/646146.jpg
+    rating: 4.1
+    date: '2026-04-27'
+    code: 646146
+    url: /works/646146/
   - title: Natsu ga Owaru made Natsu no Owari Kanketsuhen
     author: mon-petit
     cover: /covers/646969.jpg

@@ -1,8 +1,16 @@
 ---
 layout: tag
 tag_name: "gokkun"
-work_count: 12
+work_count: 16
 works:
+  - title: Itabasami na Wakachi Ai 4 | Love Divided Between a Rock and a Hard Place
+      4
+    author: group
+    cover: /covers/448503.jpg
+    rating: 5.0
+    date: '2026-04-23'
+    code: 448503
+    url: /works/448503/
   - title: Hitoban Tomete yo, Otaku-kun | Let Me Stay For the Night, Otaku-kun
     author: danimaru
     cover: /covers/606166.jpg
@@ -10,6 +18,13 @@ works:
     date: '2026-04-27'
     code: 606166
     url: /works/606166/
+  - title: Zenin Mukuwarenai Harem | A Harem Where No One Is Reciprocated
+    author: group
+    cover: /covers/610041.jpg
+    rating: 4.0
+    date: '2026-04-23'
+    code: 610041
+    url: /works/610041/
   - title: A tsundere girl who loves dick cheese and speaks Kansai dialect
     author: yuuki-fuumi
     cover: /covers/630901.jpg
@@ -17,6 +32,21 @@ works:
     date: '2026-07-06'
     code: 630901
     url: /works/630901/
+  - title: Oji Saimin Soushuuhen | Hypnotized Uncle Compilation Edition
+    author: tokomaya-keita
+    cover: /covers/645612.jpg
+    rating: 5.0
+    date: '2026-04-24'
+    code: 645612
+    url: /works/645612/
+  - title: Onanie Daisuki Honoka-chan wa Katekyo Chinpo o Benkyou Shitai! | Professional
+      Shliker Honoka-san Wanna Study Up On Her Tutor's Cock!
+    author: henreader
+    cover: /covers/645677.jpg
+    rating: 4.9
+    date: '2026-04-25'
+    code: 645677
+    url: /works/645677/
   - title: If I Have a Chance, I Want to Warp My Boyfriend's Fetishes! ~Lovey-dovey
       Trip to the Hotsprings~
     author: meeko

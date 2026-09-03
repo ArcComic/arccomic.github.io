@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "dark skin"
-work_count: 45
+work_count: 47
 works:
   - title: Netorare Ibe Kiba Shizuka | The Netorare of Kiba Shizuka
     author: terasu-mc
@@ -24,6 +24,13 @@ works:
     date: '2026-07-09'
     code: 317673
     url: /works/317673/
+  - title: LOOK LIKE
+    author: terasu-mc
+    cover: /covers/388099.jpg
+    rating: 4.5
+    date: '2026-04-25'
+    code: 388099
+    url: /works/388099/
   - title: Musume no Kareshi ni Ochiru Okaa-san. 2 | A Mother Who Falls For Her Daughter's
       Boyfriend 2
     author: sinori
@@ -106,6 +113,13 @@ works:
     date: '2026-05-01'
     code: 591112
     url: /works/591112/
+  - title: Sono Panty, Watashi no Nandakedo. | Those Panties They're Mine
+    author: chotto-b-sen
+    cover: /covers/593754.jpg
+    rating: 4.1
+    date: '2026-04-25'
+    code: 593754
+    url: /works/593754/
   - title: Houkai Kazoku 2 -Hahaoya ga Yakuza to no Sex ni Hamatta Hanashi- | Broken
       Family 2 - The story of a mother who got hooked on sex with the Yakuza
     author: watsondou

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "inverted nipples"
-work_count: 15
+work_count: 16
 works:
   - title: Sukina Hito, Sukina Koto
     author: ebi-fry-teishoku
@@ -48,6 +48,13 @@ works:
     date: '2026-08-23'
     code: 639772
     url: /works/639772/
+  - title: Otonari no Downer Oyako ni Shiboritorareru Hanashi
+    author: gamogamo
+    cover: /covers/645896.jpg
+    rating: 4.3
+    date: '2026-04-25'
+    code: 645896
+    url: /works/645896/
   - title: nenene 1 - 5
     author: kantori
     cover: /covers/647876.jpg

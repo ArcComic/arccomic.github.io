@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "blackmail"
-work_count: 52
+work_count: 57
 works:
   - title: Netorare Ibe Kiba Shizuka | The Netorare of Kiba Shizuka
     author: terasu-mc
@@ -92,6 +92,13 @@ works:
     date: '2026-08-18'
     code: 521812
     url: /works/521812/
+  - title: Tsugunai Tsuma 1
+    author: ren-suru
+    cover: /covers/526024.jpg
+    rating: 4.5
+    date: '2026-04-23'
+    code: 526024
+    url: /works/526024/
   - title: Netorareru.~ Tsuma ga Ochi Yuku Hen'ai Kairaku no Hate ni...1-5 | NETORARERU,
       A Wife's Descent Into Sinful Pleasures 1-5
     author: yuuki-ryo
@@ -131,6 +138,29 @@ works:
     date: '2026-05-07'
     code: 557052
     url: /works/557052/
+  - title: Ojou-sama Sodachi no Namaiki Celeb Zuma o Kitanai Ossan Chinpo de Wakaraseru
+      | Cocky Rich Bitch Glam-Wife Gets Taught A Lesson With Dirty Old Man Dick
+    author: chinpan
+    cover: /covers/559088.jpg
+    rating: 4.6
+    date: '2026-04-25'
+    code: 559088
+    url: /works/559088/
+  - title: Ikemen Douki ni Otosareru Hanashi~ Ikitakunaoni Kyousei Zecchou?!
+    author: hoshina-mimiwo
+    cover: /covers/560643.jpg
+    rating: 4.8
+    date: '2026-04-25'
+    code: 560643
+    url: /works/560643/
+  - title: Ossan Kirai no Hitozuma Kyoushi ga Nikubenki ni Ochiru Hanashi | Story About
+      an Old Man Hating Married Teacher Falling Into Being a Meat Toilet
+    author: chinpan
+    cover: /covers/562615.jpg
+    rating: 4.5
+    date: '2026-04-25'
+    code: 562615
+    url: /works/562615/
   - title: Tawawa de Akarui Yakyuubu Manager ga Inshitsu na Kyoushi no Wana ni... Kanketsuhen
     author: ohkura-kazuya
     cover: /covers/566052.jpg
@@ -179,6 +209,13 @@ works:
     date: '2026-07-06'
     code: 644296
     url: /works/644296/
+  - title: Ikenie no Haha 2
+    author: group
+    cover: /covers/645676.jpg
+    rating: 4.1
+    date: '2026-04-23'
+    code: 645676
+    url: /works/645676/
   - title: Hahaoya de Irarenaku Natta Watashi. | Why I Could No Longer Be A Mother
     author: sakurayu-hal
     cover: /covers/648099.jpg

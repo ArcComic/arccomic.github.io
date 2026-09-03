@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "kissing"
-work_count: 111
+work_count: 127
 works:
   - title: Shiraishi-san Wa Yokkyu Fuman | Shiraishi-san's Frustrated
     author: carburetor
@@ -31,6 +31,13 @@ works:
     date: '2026-08-18'
     code: 432356
     url: /works/432356/
+  - title: Akumu 4 ~Saitei na Kokuhaku~ | Nightmare 4 ~ Lowest Confession ~
+    author: minazuki-mikka
+    cover: /covers/435832.jpg
+    rating: 4.2
+    date: '2026-04-23'
+    code: 435832
+    url: /works/435832/
   - title: Kanojo no Kawaii Mieppari | My Cute Gyaru Girlfriend Is a Total Poser
     author: buta
     cover: /covers/441114.jpg
@@ -38,6 +45,22 @@ works:
     date: '2026-08-23'
     code: 441114
     url: /works/441114/
+  - title: Itabasami na Wakachi Ai 4 | Love Divided Between a Rock and a Hard Place
+      4
+    author: group
+    cover: /covers/448503.jpg
+    rating: 5.0
+    date: '2026-04-23'
+    code: 448503
+    url: /works/448503/
+  - title: What would happen if you said "Let's have sex." while your teacher was scolding
+      you?
+    author: chotto-b-sen
+    cover: /covers/463298.jpg
+    rating: 4.6
+    date: '2026-04-25'
+    code: 463298
+    url: /works/463298/
   - title: Asunama 9
     author: ken-1
     cover: /covers/477784.jpg
@@ -75,6 +98,14 @@ works:
     date: '2026-08-18'
     code: 504436
     url: /works/504436/
+  - title: Moto Mahou Shoujo no Hikikomori Seikatsu | The NEET Life of a Former Magical
+      Girl
+    author: zhen-lu
+    cover: /covers/506303.jpg
+    rating: 4.4
+    date: '2026-04-23'
+    code: 506303
+    url: /works/506303/
   - title: Koi ni Naru made, | Until It Becomes Love
     author: danimaru
     cover: /covers/507681.jpg
@@ -153,6 +184,20 @@ works:
     date: '2026-07-11'
     code: 538553
     url: /works/538553/
+  - title: Ero Cos OL to Jiraikei Joshi ~Iki Nuresaseru Moto Kare no Amai Koshi Zukai~
+    author: unknown
+    cover: /covers/548852.jpg
+    rating: 4.3
+    date: '2026-04-23'
+    code: 548852
+    url: /works/548852/
+  - title: Boku no Kaa-chan | My Mom
+    author: cammy
+    cover: /covers/555792.jpg
+    rating: 4.1
+    date: '2026-04-25'
+    code: 555792
+    url: /works/555792/
   - title: Nakayoku no Yu e Youkoso Ch. 2 & 3
     author: enomoto-heights
     cover: /covers/555849.jpg
@@ -168,6 +213,29 @@ works:
     date: '2026-05-07'
     code: 557052
     url: /works/557052/
+  - title: Ojou-sama Sodachi no Namaiki Celeb Zuma o Kitanai Ossan Chinpo de Wakaraseru
+      | Cocky Rich Bitch Glam-Wife Gets Taught A Lesson With Dirty Old Man Dick
+    author: chinpan
+    cover: /covers/559088.jpg
+    rating: 4.6
+    date: '2026-04-25'
+    code: 559088
+    url: /works/559088/
+  - title: Ikemen Douki ni Otosareru Hanashi~ Ikitakunaoni Kyousei Zecchou?!
+    author: hoshina-mimiwo
+    cover: /covers/560643.jpg
+    rating: 4.8
+    date: '2026-04-25'
+    code: 560643
+    url: /works/560643/
+  - title: Ossan Kirai no Hitozuma Kyoushi ga Nikubenki ni Ochiru Hanashi | Story About
+      an Old Man Hating Married Teacher Falling Into Being a Meat Toilet
+    author: chinpan
+    cover: /covers/562615.jpg
+    rating: 4.5
+    date: '2026-04-25'
+    code: 562615
+    url: /works/562615/
   - title: Boku no Kaa-chan ga Hikikomori Neet Debu Aniki no Seishori Onaho ni Natteita
       Hanashi | My Mother is My Fat Shut-in Older NEET Brother's Sex Relief Onahole
     author: tarobaumu
@@ -176,6 +244,13 @@ works:
     date: '2026-05-05'
     code: 578147
     url: /works/578147/
+  - title: Nanami-chan can’t resist after a date! Cafe, Cinema, Love hotel~
+    author: a2me
+    cover: /covers/579819.jpg
+    rating: 4.7
+    date: '2026-04-25'
+    code: 579819
+    url: /works/579819/
   - title: Madamada, Shitemitai. - I still want to try.
     author: danimaru
     cover: /covers/586028.jpg
@@ -219,6 +294,13 @@ works:
     date: '2026-08-25'
     code: 592307
     url: /works/592307/
+  - title: Zutto Akogare datta Dokyuusei no Mama to Yareta Hanashi Kuronuri ver
+    author: chinpan
+    cover: /covers/593677.jpg
+    rating: 4.3
+    date: '2026-04-25'
+    code: 593677
+    url: /works/593677/
   - title: Nagachichi Haha no Naedoko
     author: ginen
     cover: /covers/595108.jpg
@@ -248,6 +330,13 @@ works:
     date: '2026-04-27'
     code: 606719
     url: /works/606719/
+  - title: Zenin Mukuwarenai Harem | A Harem Where No One Is Reciprocated
+    author: group
+    cover: /covers/610041.jpg
+    rating: 4.0
+    date: '2026-04-23'
+    code: 610041
+    url: /works/610041/
   - title: Tomodachi ga Tsuretekita Oba-san 1
     author: exit-up
     cover: /covers/615538.jpg
@@ -389,6 +478,38 @@ works:
     date: '2026-04-27'
     code: 643592
     url: /works/643592/
+  - title: Doutei Daisuki Jogakusei-chan, Zetsurin Doutei ni Haiboku suru -One More!-
+      | The Virgin-Killer Girl is Defeated by the Insatiable Virgin ―One More!―
+    author: macaron-sugar
+    cover: /covers/645521.jpg
+    rating: 4.6
+    date: '2026-04-23'
+    code: 645521
+    url: /works/645521/
+  - title: Kounai de Ichiban Kawaikute Ichiban Oppai ga Dekakute Ichiban Okazu ni Sareteru
+      Ichiban Sukebe na Etou-san - Eto-san is the cutest, has the biggest tits, is the
+      most masturbatory target, and is the most naughty in the school. | 在校內最可愛、胸部最大、最常被當做性幻想對象、最淫蕩的江藤同學
+    author: kuba-yodomu
+    cover: /covers/645649.jpg
+    rating: 4.1
+    date: '2026-04-23'
+    code: 645649
+    url: /works/645649/
+  - title: Otonari no Downer Oyako ni Shiboritorareru Hanashi
+    author: gamogamo
+    cover: /covers/645896.jpg
+    rating: 4.3
+    date: '2026-04-25'
+    code: 645896
+    url: /works/645896/
+  - title: Tsuma no Tame ni Tameta Kozukuri Seishi o Gimai no JK Manko ni Nagashikondeshimatta
+      Boku.
+    author: junsei-chuurenpoutou
+    cover: /covers/645908.jpg
+    rating: 4.2
+    date: '2026-04-25'
+    code: 645908
+    url: /works/645908/
   - title: Sex Between Gloomy Types is the Hottest, Ain't It?
     author: doji-ro
     cover: /covers/646757.jpg

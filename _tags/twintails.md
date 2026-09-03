@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "twintails"
-work_count: 49
+work_count: 55
 works:
+  - title: Sensei wa Shougakusei ga Suki | Sensei Loves Elementary Schoolers
+    author: fuyuno-mikan
+    cover: /covers/289094.jpg
+    rating: 4.4
+    date: '2026-04-25'
+    code: 289094
+    url: /works/289094/
   - title: Megane Loli Choukyou Jugyou!! ~Otonashii Megane Lolikko ni Muriyari Dekachin
       Sounyuu~ | The Loli In Glasses' Training Lesson!! ~Force Fucking a Timid Glasses
       Wearing Loli With My Big Cock~ Ch. 1-5
@@ -12,6 +19,14 @@ works:
     date: '2026-07-13'
     code: 358168
     url: /works/358168/
+  - title: Boku no Netorase Seiheki ni Tsukiatte kureru Kanojo | A Girlfriend Who Plays
+      Along with My Cuckold Fetish
+    author: terasu-mc
+    cover: /covers/441036.jpg
+    rating: 4.8
+    date: '2026-04-25'
+    code: 441036
+    url: /works/441036/
   - title: Watashi no Karada, Okashi Shimasu. Bunny Girl Edition
     author: nectar
     cover: /covers/441339.jpg
@@ -26,6 +41,14 @@ works:
     date: '2026-07-10'
     code: 476399
     url: /works/476399/
+  - title: Moto Mahou Shoujo no Hikikomori Seikatsu | The NEET Life of a Former Magical
+      Girl
+    author: zhen-lu
+    cover: /covers/506303.jpg
+    rating: 4.4
+    date: '2026-04-23'
+    code: 506303
+    url: /works/506303/
   - title: Midara na Sensei wa Kirai desu ka? ~Sakura Aimi no Baai~ | Do you hate lewd
       teachers? ~The Case of Sakura Aimi~
     author: macho
@@ -99,6 +122,29 @@ works:
     date: '2026-08-20'
     code: 639463
     url: /works/639463/
+  - title: 'YariCir Shingakki ni Boku no Heya wa Minna no Tamariba (Omake Ver.) - Fuck
+      Club: New Term! My Room''s A Hangout Spot For Everyone'
+    author: purumetal
+    cover: /covers/645507.jpg
+    rating: 4.2
+    date: '2026-04-23'
+    code: 645507
+    url: /works/645507/
+  - title: Succubus Seitokai Shiko Shiko Shikkoubu 2 NOA ver. | Succubus Student Council
+      Milking Club 2 Version NOA
+    author: michiking
+    cover: /covers/645520.jpg
+    rating: 4.8
+    date: '2026-04-23'
+    code: 645520
+    url: /works/645520/
+  - title: Inaka ja Kore ga Joushiki dakara! | This Is Just How Things Are in the Countryside!
+    author: chilt
+    cover: /covers/646146.jpg
+    rating: 4.1
+    date: '2026-04-27'
+    code: 646146
+    url: /works/646146/
   - title: Sex Between Gloomy Types is the Hottest, Ain't It?
     author: doji-ro
     cover: /covers/646757.jpg

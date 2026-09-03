@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "blindfold"
-work_count: 9
+work_count: 11
 works:
+  - title: LOOK LIKE
+    author: terasu-mc
+    cover: /covers/388099.jpg
+    rating: 4.5
+    date: '2026-04-25'
+    code: 388099
+    url: /works/388099/
   - title: Tawawa de Akarui Yakyuubu Manager ga Inshitsu na Kyoushi no Wana ni... Kanketsuhen
     author: ohkura-kazuya
     cover: /covers/566052.jpg
@@ -25,6 +32,14 @@ works:
     date: '2026-05-04'
     code: 621185
     url: /works/621185/
+  - title: 'YariCir Shingakki ni Boku no Heya wa Minna no Tamariba (Omake Ver.) - Fuck
+      Club: New Term! My Room''s A Hangout Spot For Everyone'
+    author: purumetal
+    cover: /covers/645507.jpg
+    rating: 4.2
+    date: '2026-04-23'
+    code: 645507
+    url: /works/645507/
   - title: Anal Toilet Training
     author: goma-gorilla
     cover: /covers/647315.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "business suit"
-work_count: 22
+work_count: 26
 works:
   - title: Adoration
     author: kishizuka-kenji
@@ -38,6 +38,14 @@ works:
     date: '2026-05-04'
     code: 484860
     url: /works/484860/
+  - title: Inemuri-chou no Onna Joushi ni Kossori Sounyuu ( ※ Netafuri Shinagara Ittemashita)
+      1-3 | Stealthily Fucking My Dozing Boss (She Came While Pretending to Sleep) 1-3
+    author: nanakusa-amane
+    cover: /covers/509049.jpg
+    rating: 4.1
+    date: '2026-04-23'
+    code: 509049
+    url: /works/509049/
   - title: Shuuden Deisui Anken
     author: uds
     cover: /covers/525085.jpg
@@ -67,6 +75,14 @@ works:
     date: '2026-05-04'
     code: 537760
     url: /works/537760/
+  - title: Ossan Kirai no Hitozuma Kyoushi ga Nikubenki ni Ochiru Hanashi | Story About
+      an Old Man Hating Married Teacher Falling Into Being a Meat Toilet
+    author: chinpan
+    cover: /covers/562615.jpg
+    rating: 4.5
+    date: '2026-04-25'
+    code: 562615
+    url: /works/562615/
   - title: Ninshiki Kaihen Saimin Time Card + Joushiki Kaihen Saimin Time Card | Common
       Sense Altering Hypnosis Time Card 1+2
     author: pomi-sword
@@ -75,6 +91,13 @@ works:
     date: '2026-08-19'
     code: 569375
     url: /works/569375/
+  - title: Motokano-tachi to Ya Re Naoshi!? CHAPTER 2
+    author: shinonome-ryu
+    cover: /covers/598175.jpg
+    rating: 4.5
+    date: '2026-04-23'
+    code: 598175
+    url: /works/598175/
   - title: Onna Shachou to Koibito ni Naru Houhou | How To Become Lover's With A Female
       CEO
     author: fan
@@ -83,6 +106,14 @@ works:
     date: '2026-05-20'
     code: 600237
     url: /works/600237/
+  - title: Cool na Niizuma to no Shinkon Seikatsu wa Amari ni mo... Yarashikatta  |
+      Our Kinky Newlywed Life Vol. 1-3
+    author: nanakusa-amane
+    cover: /covers/603122.jpg
+    rating: 4.6
+    date: '2026-04-23'
+    code: 603122
+    url: /works/603122/
   - title: Shanai no Himegoto ~Stress Kaishou ni Kaisha no Toilet de Onani shite itara,
       Kouhai ni Kikarete shimatte ita Hanashi~ | Workplace Rendezvous ~Caught Masturbating
       in the Company Restroom by My Subordinate~

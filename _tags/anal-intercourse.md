@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "anal intercourse"
-work_count: 34
+work_count: 39
 works:
   - title: Bitch Mama no Kekkon Riyuu
     author: aoyama-akira
@@ -18,6 +18,22 @@ works:
     date: '2026-08-31'
     code: 556767
     url: /works/556767/
+  - title: Ojou-sama Sodachi no Namaiki Celeb Zuma o Kitanai Ossan Chinpo de Wakaraseru
+      | Cocky Rich Bitch Glam-Wife Gets Taught A Lesson With Dirty Old Man Dick
+    author: chinpan
+    cover: /covers/559088.jpg
+    rating: 4.6
+    date: '2026-04-25'
+    code: 559088
+    url: /works/559088/
+  - title: Ossan Kirai no Hitozuma Kyoushi ga Nikubenki ni Ochiru Hanashi | Story About
+      an Old Man Hating Married Teacher Falling Into Being a Meat Toilet
+    author: chinpan
+    cover: /covers/562615.jpg
+    rating: 4.5
+    date: '2026-04-25'
+    code: 562615
+    url: /works/562615/
   - title: Mesu no Ie II ~Tsuma wa Midare Ubareru~
     author: ame-arare
     cover: /covers/591112.jpg
@@ -62,6 +78,30 @@ works:
     date: '2026-08-24'
     code: 642586
     url: /works/642586/
+  - title: Doutei Daisuki Jogakusei-chan, Zetsurin Doutei ni Haiboku suru -One More!-
+      | The Virgin-Killer Girl is Defeated by the Insatiable Virgin ―One More!―
+    author: macaron-sugar
+    cover: /covers/645521.jpg
+    rating: 4.6
+    date: '2026-04-23'
+    code: 645521
+    url: /works/645521/
+  - title: Oji Saimin Soushuuhen | Hypnotized Uncle Compilation Edition
+    author: tokomaya-keita
+    cover: /covers/645612.jpg
+    rating: 5.0
+    date: '2026-04-24'
+    code: 645612
+    url: /works/645612/
+  - title: Kounai de Ichiban Kawaikute Ichiban Oppai ga Dekakute Ichiban Okazu ni Sareteru
+      Ichiban Sukebe na Etou-san - Eto-san is the cutest, has the biggest tits, is the
+      most masturbatory target, and is the most naughty in the school. | 在校內最可愛、胸部最大、最常被當做性幻想對象、最淫蕩的江藤同學
+    author: kuba-yodomu
+    cover: /covers/645649.jpg
+    rating: 4.1
+    date: '2026-04-23'
+    code: 645649
+    url: /works/645649/
   - title: Anal Toilet Training
     author: goma-gorilla
     cover: /covers/647315.jpg

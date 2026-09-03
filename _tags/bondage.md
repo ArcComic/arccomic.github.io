@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bondage"
-work_count: 27
+work_count: 32
 works:
   - title: CHOCO x LOVE
     author: highlow
@@ -24,6 +24,14 @@ works:
     date: '2026-08-18'
     code: 521812
     url: /works/521812/
+  - title: Ossan Kirai no Hitozuma Kyoushi ga Nikubenki ni Ochiru Hanashi | Story About
+      an Old Man Hating Married Teacher Falling Into Being a Meat Toilet
+    author: chinpan
+    cover: /covers/562615.jpg
+    rating: 4.5
+    date: '2026-04-25'
+    code: 562615
+    url: /works/562615/
   - title: Tawawa de Akarui Yakyuubu Manager ga Inshitsu na Kyoushi no Wana ni... Kanketsuhen
     author: ohkura-kazuya
     cover: /covers/566052.jpg
@@ -31,6 +39,14 @@ works:
     date: '2026-04-30'
     code: 566052
     url: /works/566052/
+  - title: Cool na Niizuma to no Shinkon Seikatsu wa Amari ni mo... Yarashikatta  |
+      Our Kinky Newlywed Life Vol. 1-3
+    author: nanakusa-amane
+    cover: /covers/603122.jpg
+    rating: 4.6
+    date: '2026-04-23'
+    code: 603122
+    url: /works/603122/
   - title: Eroi Koto Igai de Toki o Tomete wa Dame desu yo 2
     author: ohkura-kazuya
     cover: /covers/615835.jpg
@@ -38,6 +54,30 @@ works:
     date: '2026-04-30'
     code: 615835
     url: /works/615835/
+  - title: 'YariCir Shingakki ni Boku no Heya wa Minna no Tamariba (Omake Ver.) - Fuck
+      Club: New Term! My Room''s A Hangout Spot For Everyone'
+    author: purumetal
+    cover: /covers/645507.jpg
+    rating: 4.2
+    date: '2026-04-23'
+    code: 645507
+    url: /works/645507/
+  - title: Kounai de Ichiban Kawaikute Ichiban Oppai ga Dekakute Ichiban Okazu ni Sareteru
+      Ichiban Sukebe na Etou-san - Eto-san is the cutest, has the biggest tits, is the
+      most masturbatory target, and is the most naughty in the school. | 在校內最可愛、胸部最大、最常被當做性幻想對象、最淫蕩的江藤同學
+    author: kuba-yodomu
+    cover: /covers/645649.jpg
+    rating: 4.1
+    date: '2026-04-23'
+    code: 645649
+    url: /works/645649/
+  - title: Otonari no Downer Oyako ni Shiboritorareru Hanashi
+    author: gamogamo
+    cover: /covers/645896.jpg
+    rating: 4.3
+    date: '2026-04-25'
+    code: 645896
+    url: /works/645896/
   - title: Anal Toilet Training
     author: goma-gorilla
     cover: /covers/647315.jpg

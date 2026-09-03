@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "drugs"
-work_count: 15
+work_count: 16
 works:
   - title: NTR Anniversary + ) [Syukurin] Mitsuha ~Netorare~ (Kimi no Na wa.) [English]
       [Colorized] by Mikaku
@@ -27,6 +27,13 @@ works:
     date: '2026-05-01'
     code: 529365
     url: /works/529365/
+  - title: Ikemen Douki ni Otosareru Hanashi~ Ikitakunaoni Kyousei Zecchou?!
+    author: hoshina-mimiwo
+    cover: /covers/560643.jpg
+    rating: 4.8
+    date: '2026-04-25'
+    code: 560643
+    url: /works/560643/
   - title: Ore ga Hoshikatta Mono wa Kin Medal Yori Namami Onaho Datta no Kamoshirenai｜Maybe
       what I Wanted was a Flesh and Blood Masturbator Rather than a Gold Medal
     author: carburetor

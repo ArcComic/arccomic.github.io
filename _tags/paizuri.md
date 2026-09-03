@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "paizuri"
-work_count: 70
+work_count: 79
 works:
   - title: CHOCO x LOVE
     author: highlow
@@ -71,6 +71,29 @@ works:
     date: '2026-07-17'
     code: 547393
     url: /works/547393/
+  - title: Boku no Kaa-chan | My Mom
+    author: cammy
+    cover: /covers/555792.jpg
+    rating: 4.1
+    date: '2026-04-25'
+    code: 555792
+    url: /works/555792/
+  - title: Ojou-sama Sodachi no Namaiki Celeb Zuma o Kitanai Ossan Chinpo de Wakaraseru
+      | Cocky Rich Bitch Glam-Wife Gets Taught A Lesson With Dirty Old Man Dick
+    author: chinpan
+    cover: /covers/559088.jpg
+    rating: 4.6
+    date: '2026-04-25'
+    code: 559088
+    url: /works/559088/
+  - title: Ossan Kirai no Hitozuma Kyoushi ga Nikubenki ni Ochiru Hanashi | Story About
+      an Old Man Hating Married Teacher Falling Into Being a Meat Toilet
+    author: chinpan
+    cover: /covers/562615.jpg
+    rating: 4.5
+    date: '2026-04-25'
+    code: 562615
+    url: /works/562615/
   - title: Ninshiki Kaihen Saimin Time Card + Joushiki Kaihen Saimin Time Card | Common
       Sense Altering Hypnosis Time Card 1+2
     author: pomi-sword
@@ -108,6 +131,13 @@ works:
     date: '2026-08-25'
     code: 595108
     url: /works/595108/
+  - title: Zenin Mukuwarenai Harem | A Harem Where No One Is Reciprocated
+    author: group
+    cover: /covers/610041.jpg
+    rating: 4.0
+    date: '2026-04-23'
+    code: 610041
+    url: /works/610041/
   - title: Fuyu-san wa Sotsugyou Shitai | Fuyu-san Wants to Lose Her V-Card
     author: kurihara-kenshirou
     cover: /covers/619405.jpg
@@ -152,6 +182,46 @@ works:
     date: '2026-08-24'
     code: 642586
     url: /works/642586/
+  - title: 'YariCir Shingakki ni Boku no Heya wa Minna no Tamariba (Omake Ver.) - Fuck
+      Club: New Term! My Room''s A Hangout Spot For Everyone'
+    author: purumetal
+    cover: /covers/645507.jpg
+    rating: 4.2
+    date: '2026-04-23'
+    code: 645507
+    url: /works/645507/
+  - title: Doutei Daisuki Jogakusei-chan, Zetsurin Doutei ni Haiboku suru -One More!-
+      | The Virgin-Killer Girl is Defeated by the Insatiable Virgin ―One More!―
+    author: macaron-sugar
+    cover: /covers/645521.jpg
+    rating: 4.6
+    date: '2026-04-23'
+    code: 645521
+    url: /works/645521/
+  - title: 'Moto Mahou Shoujo no Kazoku Banashi Tsuki 2 | Former Magical Girl''s Family
+      Story: Tsuki 2'
+    author: zhen-lu
+    cover: /covers/645646.jpg
+    rating: 4.1
+    date: '2026-04-23'
+    code: 645646
+    url: /works/645646/
+  - title: Kounai de Ichiban Kawaikute Ichiban Oppai ga Dekakute Ichiban Okazu ni Sareteru
+      Ichiban Sukebe na Etou-san - Eto-san is the cutest, has the biggest tits, is the
+      most masturbatory target, and is the most naughty in the school. | 在校內最可愛、胸部最大、最常被當做性幻想對象、最淫蕩的江藤同學
+    author: kuba-yodomu
+    cover: /covers/645649.jpg
+    rating: 4.1
+    date: '2026-04-23'
+    code: 645649
+    url: /works/645649/
+  - title: Inaka ja Kore ga Joushiki dakara! | This Is Just How Things Are in the Countryside!
+    author: chilt
+    cover: /covers/646146.jpg
+    rating: 4.1
+    date: '2026-04-27'
+    code: 646146
+    url: /works/646146/
   - title: Momoiro Kikyou Boku no Hajimete wa Toshiue Bakunyuu Soap-jou｜Pink Bellflower∶
       My First Experience with an Older Busty Soapland Lady
     author: enma

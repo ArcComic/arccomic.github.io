@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "smell"
-work_count: 8
+work_count: 10
 works:
+  - title: Maid no Oshigoto. II | Maid's Work II
+    author: alexi-laiho
+    cover: /covers/296282.jpg
+    rating: 5.0
+    date: '2026-04-23'
+    code: 296282
+    url: /works/296282/
   - title: Konoe no Kyuujitsu | Konoe's Day Off
     author: alp
     cover: /covers/479447.jpg
@@ -24,6 +31,15 @@ works:
     date: '2026-07-06'
     code: 630901
     url: /works/630901/
+  - title: Kounai de Ichiban Kawaikute Ichiban Oppai ga Dekakute Ichiban Okazu ni Sareteru
+      Ichiban Sukebe na Etou-san - Eto-san is the cutest, has the biggest tits, is the
+      most masturbatory target, and is the most naughty in the school. | 在校內最可愛、胸部最大、最常被當做性幻想對象、最淫蕩的江藤同學
+    author: kuba-yodomu
+    cover: /covers/645649.jpg
+    rating: 4.1
+    date: '2026-04-23'
+    code: 645649
+    url: /works/645649/
   - title: Boku to Aitsu to Ano Ko to Kanojo. - Me, Him, the Girl and Her
     author: kameyama-cola
     cover: /covers/648093.jpg

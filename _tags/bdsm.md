@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bdsm"
-work_count: 9
+work_count: 10
 works:
   - title: Boku no Kaa-chan ga Hikikomori Neet Debu Aniki no Seishori Onaho ni Natteita
       Hanashi | My Mother is My Fat Shut-in Older NEET Brother's Sex Relief Onahole
@@ -11,6 +11,15 @@ works:
     date: '2026-05-05'
     code: 578147
     url: /works/578147/
+  - title: Torohame "100-kai Iku made Hanasanai" Hajimete no Portio Kiss... Kizetsu
+      suru made Renzoku Nou Iki | TOROHAME ~First Time Portio Kiss... Consecutive Braingasm
+      Until You Faint~
+    author: yamamoto-tomomitsu
+    cover: /covers/593112.jpg
+    rating: 4.3
+    date: '2026-04-25'
+    code: 593112
+    url: /works/593112/
   - title: FORBIDDEN RAIN KOBO KANAERU 2
     author: clef
     cover: /covers/637709.jpg

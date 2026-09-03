@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "double penetration"
-work_count: 14
+work_count: 15
 works:
   - title: Bitch Mama no Kekkon Riyuu
     author: aoyama-akira
@@ -17,6 +17,14 @@ works:
     date: '2026-07-09'
     code: 537476
     url: /works/537476/
+  - title: Ossan Kirai no Hitozuma Kyoushi ga Nikubenki ni Ochiru Hanashi | Story About
+      an Old Man Hating Married Teacher Falling Into Being a Meat Toilet
+    author: chinpan
+    cover: /covers/562615.jpg
+    rating: 4.5
+    date: '2026-04-25'
+    code: 562615
+    url: /works/562615/
   - title: Wakazuma Arijigoku
     author: sunagawa-tara
     cover: /covers/595788.jpg

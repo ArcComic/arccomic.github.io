@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "cowgirl"
-work_count: 9
+work_count: 11
 works:
   - title: Homestay-chu no Doitsu Musume ga Issho ni Furo ni Haitte Kuru Wake | The
       Reason Why a German Girl Takes a Bath Together With Me on Her Homestay
@@ -25,6 +25,13 @@ works:
     date: '2026-08-20'
     code: 557452
     url: /works/557452/
+  - title: Nanami-chan can’t resist after a date! Cafe, Cinema, Love hotel~
+    author: a2me
+    cover: /covers/579819.jpg
+    rating: 4.7
+    date: '2026-04-25'
+    code: 579819
+    url: /works/579819/
   - title: Hitoban Tomete yo, Otaku-kun | Let Me Stay For the Night, Otaku-kun
     author: danimaru
     cover: /covers/606166.jpg
@@ -32,6 +39,14 @@ works:
     date: '2026-04-27'
     code: 606166
     url: /works/606166/
+  - title: 'YariCir Shingakki ni Boku no Heya wa Minna no Tamariba (Omake Ver.) - Fuck
+      Club: New Term! My Room''s A Hangout Spot For Everyone'
+    author: purumetal
+    cover: /covers/645507.jpg
+    rating: 4.2
+    date: '2026-04-23'
+    code: 645507
+    url: /works/645507/
   - title: Netorase Club 2 Anal Name no Tensai to Fellatio no Tensai | Netorase Club
       2 The Genius of Rimjob and The Genius of Blowjob
     author: oosawara-sadao

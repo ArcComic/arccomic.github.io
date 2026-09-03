@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "transformation"
-work_count: 5
+work_count: 6
 works:
   - title: Seiten no Hekireki | TS Thunderclap
     author: regdic
@@ -31,6 +31,13 @@ works:
     date: '2026-05-03'
     code: 540880
     url: /works/540880/
+  - title: How I, a fighting gamer, became the heroine of a cosplay AV
+    author: unknown
+    cover: /covers/645566.jpg
+    rating: 4.3
+    date: '2026-04-24'
+    code: 645566
+    url: /works/645566/
   - title: Venom Invasion VII 【Part 1】
     author: blackftos
     cover: /covers/647563.jpg

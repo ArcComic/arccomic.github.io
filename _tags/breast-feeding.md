@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "breast feeding"
-work_count: 28
+work_count: 33
 works:
   - title: Tonari no Ayane-san Desaki Battari Hen
     author: herio
@@ -32,6 +32,14 @@ works:
     date: '2026-05-01'
     code: 508534
     url: /works/508534/
+  - title: Inemuri-chou no Onna Joushi ni Kossori Sounyuu ( ※ Netafuri Shinagara Ittemashita)
+      1-3 | Stealthily Fucking My Dozing Boss (She Came While Pretending to Sleep) 1-3
+    author: nanakusa-amane
+    cover: /covers/509049.jpg
+    rating: 4.1
+    date: '2026-04-23'
+    code: 509049
+    url: /works/509049/
   - title: Koibito no Furi Shite Tara, Iki Goe ga…. Yukata Sugata no Kyonyuu Oneesan
       ni, Tamarazu Sounyuu 1 I Can’t Stop Myself From Penetrating My Big Boobed Older
       Female Cousin 1
@@ -83,6 +91,13 @@ works:
     date: '2026-08-29'
     code: 589969
     url: /works/589969/
+  - title: Zenin Mukuwarenai Harem | A Harem Where No One Is Reciprocated
+    author: group
+    cover: /covers/610041.jpg
+    rating: 4.0
+    date: '2026-04-23'
+    code: 610041
+    url: /works/610041/
   - title: Futari de Watashi o Ikasenaide...! ~Kurayami, Majiwaru Kyoudai Futon~  |
       My 2 Step-Brothers are Ganging Up on Me!  Vol.1
     author: ma-yu
@@ -105,6 +120,31 @@ works:
     date: '2026-07-13'
     code: 636802
     url: /works/636802/
+  - title: Boku ga Shiranakatta Mama to Jii-chan no Koto | Things I didn't Know Between
+      Mom And Grandpa
+    author: urakan
+    cover: /covers/640543.jpg
+    rating: 4.0
+    date: '2026-04-23'
+    code: 640543
+    url: /works/640543/
+  - title: 'YariCir Shingakki ni Boku no Heya wa Minna no Tamariba (Omake Ver.) - Fuck
+      Club: New Term! My Room''s A Hangout Spot For Everyone'
+    author: purumetal
+    cover: /covers/645507.jpg
+    rating: 4.2
+    date: '2026-04-23'
+    code: 645507
+    url: /works/645507/
+  - title: Kounai de Ichiban Kawaikute Ichiban Oppai ga Dekakute Ichiban Okazu ni Sareteru
+      Ichiban Sukebe na Etou-san - Eto-san is the cutest, has the biggest tits, is the
+      most masturbatory target, and is the most naughty in the school. | 在校內最可愛、胸部最大、最常被當做性幻想對象、最淫蕩的江藤同學
+    author: kuba-yodomu
+    cover: /covers/645649.jpg
+    rating: 4.1
+    date: '2026-04-23'
+    code: 645649
+    url: /works/645649/
   - title: Sex Between Gloomy Types is the Hottest, Ain't It?
     author: doji-ro
     cover: /covers/646757.jpg

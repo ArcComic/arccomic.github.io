@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "prostitution"
-work_count: 25
+work_count: 27
 works:
   - title: Yuri no o saifu ni shite agemasu ne, Senpai | I'll turn you into Yuri's wallet,
       Senpai
@@ -11,6 +11,13 @@ works:
     date: '2026-07-17'
     code: 289523
     url: /works/289523/
+  - title: LOOK LIKE
+    author: terasu-mc
+    cover: /covers/388099.jpg
+    rating: 4.5
+    date: '2026-04-25'
+    code: 388099
+    url: /works/388099/
   - title: Asunama 9
     author: ken-1
     cover: /covers/477784.jpg
@@ -39,6 +46,13 @@ works:
     date: '2026-08-31'
     code: 550359
     url: /works/550359/
+  - title: Boku no Kaa-chan 2 | My Mom 2
+    author: cammy
+    cover: /covers/579339.jpg
+    rating: 4.9
+    date: '2026-04-25'
+    code: 579339
+    url: /works/579339/
   - title: 'Anata to Watashi no Ayamachi ~Bangaihen Kairaku Ochi e no Ippo~ | Our Mistake
       ~Side Story: A Step Towards the Fall into Pleasure~'
     author: zionman

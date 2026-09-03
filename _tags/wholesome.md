@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "wholesome"
-work_count: 47
+work_count: 51
 works:
   - title: Homestay-chu no Doitsu Musume ga Issho ni Furo ni Haitte Kuru Wake | The
       Reason Why a German Girl Takes a Bath Together With Me on Her Homestay
@@ -113,6 +113,13 @@ works:
     date: '2026-08-18'
     code: 560097
     url: /works/560097/
+  - title: Nanami-chan can’t resist after a date! Cafe, Cinema, Love hotel~
+    author: a2me
+    cover: /covers/579819.jpg
+    rating: 4.7
+    date: '2026-04-25'
+    code: 579819
+    url: /works/579819/
   - title: Madamada, Shitemitai. - I still want to try.
     author: danimaru
     cover: /covers/586028.jpg
@@ -149,6 +156,13 @@ works:
     date: '2026-04-27'
     code: 606166
     url: /works/606166/
+  - title: Zenin Mukuwarenai Harem | A Harem Where No One Is Reciprocated
+    author: group
+    cover: /covers/610041.jpg
+    rating: 4.0
+    date: '2026-04-23'
+    code: 610041
+    url: /works/610041/
   - title: Muramata-san no Aijou Ch. 6
     author: igumox
     cover: /covers/622857.jpg
@@ -171,6 +185,14 @@ works:
     date: '2026-05-26'
     code: 631036
     url: /works/631036/
+  - title: Kaisha de majimena Shizuno-san wa ie de otoko o katterurashii | Seems The
+      Serious Office Worker Shizuno Keeps A Pet Guy At Home
+    author: yuzuha
+    cover: /covers/632188.jpg
+    rating: 4.5
+    date: '2026-04-25'
+    code: 632188
+    url: /works/632188/
   - title: BUTA - 『You did a great job』
     author: buta
     cover: /covers/639772.jpg
@@ -178,6 +200,14 @@ works:
     date: '2026-08-23'
     code: 639772
     url: /works/639772/
+  - title: Mujikaku na Osananajimi to Kyoumi Honi de Yatte Mitara | What Happens When
+      You Sleep With Your Oblivious Childhood Friend Just Out of Curiosity Part 1
+    author: gen
+    cover: /covers/646385.jpg
+    rating: 4.9
+    date: '2026-04-27'
+    code: 646385
+    url: /works/646385/
   - title: Sex Between Gloomy Types is the Hottest, Ain't It?
     author: doji-ro
     cover: /covers/646757.jpg

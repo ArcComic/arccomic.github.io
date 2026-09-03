@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sumata"
-work_count: 7
+work_count: 9
 works:
   - title: Tonari no Ayane-san Desaki Battari Hen
     author: herio
@@ -10,6 +10,21 @@ works:
     date: '2026-08-18'
     code: 432356
     url: /works/432356/
+  - title: Cool na Niizuma to no Shinkon Seikatsu wa Amari ni mo... Yarashikatta  |
+      Our Kinky Newlywed Life Vol. 1-3
+    author: nanakusa-amane
+    cover: /covers/603122.jpg
+    rating: 4.6
+    date: '2026-04-23'
+    code: 603122
+    url: /works/603122/
+  - title: Zenin Mukuwarenai Harem | A Harem Where No One Is Reciprocated
+    author: group
+    cover: /covers/610041.jpg
+    rating: 4.0
+    date: '2026-04-23'
+    code: 610041
+    url: /works/610041/
   - title: Onsen Haitte tara Joseito-tachi ga Osotte Kita | My Students Jumped Me When
       I Got in the Hot Spring
     author: hamo

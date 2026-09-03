@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "tsundere"
-work_count: 9
+work_count: 11
 works:
   - title: Madamada, Shitemitai. - I still want to try.
     author: danimaru
@@ -10,6 +10,13 @@ works:
     date: '2026-04-27'
     code: 586028
     url: /works/586028/
+  - title: Zenin Mukuwarenai Harem | A Harem Where No One Is Reciprocated
+    author: group
+    cover: /covers/610041.jpg
+    rating: 4.0
+    date: '2026-04-23'
+    code: 610041
+    url: /works/610041/
   - title: A tsundere girl who loves dick cheese and speaks Kansai dialect
     author: yuuki-fuumi
     cover: /covers/630901.jpg
@@ -24,6 +31,13 @@ works:
     date: '2026-05-26'
     code: 631036
     url: /works/631036/
+  - title: Inaka ja Kore ga Joushiki dakara! | This Is Just How Things Are in the Countryside!
+    author: chilt
+    cover: /covers/646146.jpg
+    rating: 4.1
+    date: '2026-04-27'
+    code: 646146
+    url: /works/646146/
   - title: Sex Between Gloomy Types is the Hottest, Ain't It?
     author: doji-ro
     cover: /covers/646757.jpg

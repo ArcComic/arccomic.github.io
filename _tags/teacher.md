@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "teacher"
-work_count: 41
+work_count: 44
 works:
+  - title: Sensei wa Shougakusei ga Suki | Sensei Loves Elementary Schoolers
+    author: fuyuno-mikan
+    cover: /covers/289094.jpg
+    rating: 4.4
+    date: '2026-04-25'
+    code: 289094
+    url: /works/289094/
   - title: Itomusubi Vol. 2
     author: bekotarou
     cover: /covers/311755.jpg
@@ -33,6 +40,14 @@ works:
     date: '2026-04-27'
     code: 452482
     url: /works/452482/
+  - title: What would happen if you said "Let's have sex." while your teacher was scolding
+      you?
+    author: chotto-b-sen
+    cover: /covers/463298.jpg
+    rating: 4.6
+    date: '2026-04-25'
+    code: 463298
+    url: /works/463298/
   - title: Musuko no Sensei wa Kyonyuu Bijo ♡ | My Son's Teacher is a Well-Endowed Woman
       ♡
     author: taki
@@ -80,6 +95,14 @@ works:
     date: '2026-08-20'
     code: 557452
     url: /works/557452/
+  - title: Ossan Kirai no Hitozuma Kyoushi ga Nikubenki ni Ochiru Hanashi | Story About
+      an Old Man Hating Married Teacher Falling Into Being a Meat Toilet
+    author: chinpan
+    cover: /covers/562615.jpg
+    rating: 4.5
+    date: '2026-04-25'
+    code: 562615
+    url: /works/562615/
   - title: Tawawa de Akarui Yakyuubu Manager ga Inshitsu na Kyoushi no Wana ni... Kanketsuhen
     author: ohkura-kazuya
     cover: /covers/566052.jpg

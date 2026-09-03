@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "shimaidon"
-work_count: 6
+work_count: 7
 works:
+  - title: Zenin Mukuwarenai Harem | A Harem Where No One Is Reciprocated
+    author: group
+    cover: /covers/610041.jpg
+    rating: 4.0
+    date: '2026-04-23'
+    code: 610041
+    url: /works/610041/
   - title: Akogare no Hito wa Mou Owari! 2
     author: group
     cover: /covers/642585.jpg

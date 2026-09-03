@@ -1,8 +1,23 @@
 ---
 layout: tag
 tag_name: "domination loss"
-work_count: 7
+work_count: 9
 works:
+  - title: Motokano-tachi to Ya Re Naoshi!? CHAPTER 2
+    author: shinonome-ryu
+    cover: /covers/598175.jpg
+    rating: 4.5
+    date: '2026-04-23'
+    code: 598175
+    url: /works/598175/
+  - title: Doutei Daisuki Jogakusei-chan, Zetsurin Doutei ni Haiboku suru -One More!-
+      | The Virgin-Killer Girl is Defeated by the Insatiable Virgin ―One More!―
+    author: macaron-sugar
+    cover: /covers/645521.jpg
+    rating: 4.6
+    date: '2026-04-23'
+    code: 645521
+    url: /works/645521/
   - title: If I Have a Chance, I Want to Warp My Boyfriend's Fetishes!
     author: meeko
     cover: /covers/647619.jpg

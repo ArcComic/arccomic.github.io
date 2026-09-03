@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "multimouth blowjob"
-work_count: 10
+work_count: 12
 works:
   - title: Nakayoku no Yu e Youkoso Ch. 2 & 3
     author: enomoto-heights
@@ -10,6 +10,13 @@ works:
     date: '2026-04-30'
     code: 555849
     url: /works/555849/
+  - title: Zenin Mukuwarenai Harem | A Harem Where No One Is Reciprocated
+    author: group
+    cover: /covers/610041.jpg
+    rating: 4.0
+    date: '2026-04-23'
+    code: 610041
+    url: /works/610041/
   - title: Onsen Haitte tara Joseito-tachi ga Osotte Kita | My Students Jumped Me When
       I Got in the Hot Spring
     author: hamo
@@ -25,6 +32,14 @@ works:
     date: '2026-08-24'
     code: 642585
     url: /works/642585/
+  - title: 'YariCir Shingakki ni Boku no Heya wa Minna no Tamariba (Omake Ver.) - Fuck
+      Club: New Term! My Room''s A Hangout Spot For Everyone'
+    author: purumetal
+    cover: /covers/645507.jpg
+    rating: 4.2
+    date: '2026-04-23'
+    code: 645507
+    url: /works/645507/
   - title: Ura Aka Joshi no Jidori Ero Gosoushin | A Girl with a Secret-Account Accidentally
       Sends a Lewd Selfie
     author: group

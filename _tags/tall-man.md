@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "tall man"
-work_count: 10
+work_count: 15
 works:
+  - title: LOOK LIKE
+    author: terasu-mc
+    cover: /covers/388099.jpg
+    rating: 4.5
+    date: '2026-04-25'
+    code: 388099
+    url: /works/388099/
   - title: Onozomi deshitara Saimin wo ~Maki-san Himitsu no Renai Therapy~ | If you
       wish, hypnosis ~Maki-san's secret love therapy~
     author: meeko
@@ -26,6 +33,30 @@ works:
     date: '2026-05-01'
     code: 591112
     url: /works/591112/
+  - title: Torohame "100-kai Iku made Hanasanai" Hajimete no Portio Kiss... Kizetsu
+      suru made Renzoku Nou Iki | TOROHAME ~First Time Portio Kiss... Consecutive Braingasm
+      Until You Faint~
+    author: yamamoto-tomomitsu
+    cover: /covers/593112.jpg
+    rating: 4.3
+    date: '2026-04-25'
+    code: 593112
+    url: /works/593112/
+  - title: Kaisha de majimena Shizuno-san wa ie de otoko o katterurashii | Seems The
+      Serious Office Worker Shizuno Keeps A Pet Guy At Home
+    author: yuzuha
+    cover: /covers/632188.jpg
+    rating: 4.5
+    date: '2026-04-25'
+    code: 632188
+    url: /works/632188/
+  - title: Because Ura Wants To Be More Than "Just An Acquaintance"
+    author: the-waidan
+    cover: /covers/642793.jpg
+    rating: 4.6
+    date: '2026-04-27'
+    code: 642793
+    url: /works/642793/
   - title: Delusion story book
     author: madarame-rin
     cover: /covers/644810.jpg
@@ -33,6 +64,14 @@ works:
     date: '2026-05-03'
     code: 644810
     url: /works/644810/
+  - title: Doutei Daisuki Jogakusei-chan, Zetsurin Doutei ni Haiboku suru -One More!-
+      | The Virgin-Killer Girl is Defeated by the Insatiable Virgin ―One More!―
+    author: macaron-sugar
+    cover: /covers/645521.jpg
+    rating: 4.6
+    date: '2026-04-23'
+    code: 645521
+    url: /works/645521/
   - title: Riho NTR ~Ordered By My Husband to Get Fucked By His Colleague~
     author: yamamoto-tomomitsu
     cover: /covers/647620.jpg

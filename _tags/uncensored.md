@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "uncensored"
-work_count: 42
+work_count: 49
 works:
   - title: ERIKA Vol. 2
     author: hankotsu-max
@@ -38,6 +38,14 @@ works:
     date: '2026-07-11'
     code: 501709
     url: /works/501709/
+  - title: Moto Mahou Shoujo no Hikikomori Seikatsu | The NEET Life of a Former Magical
+      Girl
+    author: zhen-lu
+    cover: /covers/506303.jpg
+    rating: 4.4
+    date: '2026-04-23'
+    code: 506303
+    url: /works/506303/
   - title: 'Jujutsu Kaisen: Mahito Mayhem'
     author: mayitgu
     cover: /covers/524761.jpg
@@ -97,6 +105,21 @@ works:
     date: '2026-05-05'
     code: 578147
     url: /works/578147/
+  - title: Nanami-chan can’t resist after a date! Cafe, Cinema, Love hotel~
+    author: a2me
+    cover: /covers/579819.jpg
+    rating: 4.7
+    date: '2026-04-25'
+    code: 579819
+    url: /works/579819/
+  - title: 'Moto Mahou Shoujo no Shigoto Hanashi Ao Zenjitsutan | Former Magical Girl
+      Blue''s Work: The Prequel'
+    author: zhen-lu
+    cover: /covers/584579.jpg
+    rating: 4.3
+    date: '2026-04-23'
+    code: 584579
+    url: /works/584579/
   - title: Pashiri no Shita Teku, Yabaitte... ~ Ebi Sori Iki Suru Namaiki Gyaru | Bullied
       Boy's Tongue Revenge Vol.1-4
     author: takayamanon
@@ -112,6 +135,14 @@ works:
     date: '2026-08-21'
     code: 593575
     url: /works/593575/
+  - title: Cool na Niizuma to no Shinkon Seikatsu wa Amari ni mo... Yarashikatta  |
+      Our Kinky Newlywed Life Vol. 1-3
+    author: nanakusa-amane
+    cover: /covers/603122.jpg
+    rating: 4.6
+    date: '2026-04-23'
+    code: 603122
+    url: /works/603122/
   - title: '"1 Funkan Dake Rete mo īyo … " Shea Hausu no Himitsu Rūru | The Share House''s
       Secret Rule Vol. 1-3'
     author: ouma
@@ -135,6 +166,31 @@ works:
     date: '2026-05-04'
     code: 621185
     url: /works/621185/
+  - title: Succubus Seitokai Shiko Shiko Shikkoubu 2 NOA ver. | Succubus Student Council
+      Milking Club 2 Version NOA
+    author: michiking
+    cover: /covers/645520.jpg
+    rating: 4.8
+    date: '2026-04-23'
+    code: 645520
+    url: /works/645520/
+  - title: Kounai de Ichiban Kawaikute Ichiban Oppai ga Dekakute Ichiban Okazu ni Sareteru
+      Ichiban Sukebe na Etou-san - Eto-san is the cutest, has the biggest tits, is the
+      most masturbatory target, and is the most naughty in the school. | 在校內最可愛、胸部最大、最常被當做性幻想對象、最淫蕩的江藤同學
+    author: kuba-yodomu
+    cover: /covers/645649.jpg
+    rating: 4.1
+    date: '2026-04-23'
+    code: 645649
+    url: /works/645649/
+  - title: Onanie Daisuki Honoka-chan wa Katekyo Chinpo o Benkyou Shitai! | Professional
+      Shliker Honoka-san Wanna Study Up On Her Tutor's Cock!
+    author: henreader
+    cover: /covers/645677.jpg
+    rating: 4.9
+    date: '2026-04-25'
+    code: 645677
+    url: /works/645677/
   - title: Sex Between Gloomy Types is the Hottest, Ain't It?
     author: doji-ro
     cover: /covers/646757.jpg

@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "lolicon"
-work_count: 44
+work_count: 47
 works:
+  - title: Sensei wa Shougakusei ga Suki | Sensei Loves Elementary Schoolers
+    author: fuyuno-mikan
+    cover: /covers/289094.jpg
+    rating: 4.4
+    date: '2026-04-25'
+    code: 289094
+    url: /works/289094/
   - title: Megane Loli Choukyou Jugyou!! ~Otonashii Megane Lolikko ni Muriyari Dekachin
       Sounyuu~ | The Loli In Glasses' Training Lesson!! ~Force Fucking a Timid Glasses
       Wearing Loli With My Big Cock~ Ch. 1-5
@@ -55,6 +62,21 @@ works:
     date: '2026-07-07'
     code: 583391
     url: /works/583391/
+  - title: Oji Saimin Soushuuhen | Hypnotized Uncle Compilation Edition
+    author: tokomaya-keita
+    cover: /covers/645612.jpg
+    rating: 5.0
+    date: '2026-04-24'
+    code: 645612
+    url: /works/645612/
+  - title: Onanie Daisuki Honoka-chan wa Katekyo Chinpo o Benkyou Shitai! | Professional
+      Shliker Honoka-san Wanna Study Up On Her Tutor's Cock!
+    author: henreader
+    cover: /covers/645677.jpg
+    rating: 4.9
+    date: '2026-04-25'
+    code: 645677
+    url: /works/645677/
   - title: Houchiko Hirotte LesSe Suru
     author: unknown
     cover: /covers/646967.jpg

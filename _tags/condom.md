@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "condom"
-work_count: 58
+work_count: 66
 works:
   - title: Netorare Ibe Kiba Shizuka | The Netorare of Kiba Shizuka
     author: terasu-mc
@@ -10,6 +10,13 @@ works:
     date: '2026-07-16'
     code: 288292
     url: /works/288292/
+  - title: Maid no Oshigoto. II | Maid's Work II
+    author: alexi-laiho
+    cover: /covers/296282.jpg
+    rating: 5.0
+    date: '2026-04-23'
+    code: 296282
+    url: /works/296282/
   - title: Itomusubi Vol. 2
     author: bekotarou
     cover: /covers/311755.jpg
@@ -84,6 +91,14 @@ works:
     date: '2026-07-16'
     code: 434993
     url: /works/434993/
+  - title: Itabasami na Wakachi Ai 4 | Love Divided Between a Rock and a Hard Place
+      4
+    author: group
+    cover: /covers/448503.jpg
+    rating: 5.0
+    date: '2026-04-23'
+    code: 448503
+    url: /works/448503/
   - title: Sukina Hito, Sukina Koto
     author: ebi-fry-teishoku
     cover: /covers/452482.jpg
@@ -143,6 +158,14 @@ works:
     date: '2026-05-05'
     code: 553426
     url: /works/553426/
+  - title: Ojou-sama Sodachi no Namaiki Celeb Zuma o Kitanai Ossan Chinpo de Wakaraseru
+      | Cocky Rich Bitch Glam-Wife Gets Taught A Lesson With Dirty Old Man Dick
+    author: chinpan
+    cover: /covers/559088.jpg
+    rating: 4.6
+    date: '2026-04-25'
+    code: 559088
+    url: /works/559088/
   - title: Saikai shita Osananajimi to Issen o Koecchau Hanashi | I Reunited With My
       Longtime Friend and Crossed the Line
     author: satsuki-usa
@@ -151,6 +174,21 @@ works:
     date: '2026-08-18'
     code: 560097
     url: /works/560097/
+  - title: Ossan Kirai no Hitozuma Kyoushi ga Nikubenki ni Ochiru Hanashi | Story About
+      an Old Man Hating Married Teacher Falling Into Being a Meat Toilet
+    author: chinpan
+    cover: /covers/562615.jpg
+    rating: 4.5
+    date: '2026-04-25'
+    code: 562615
+    url: /works/562615/
+  - title: Nanami-chan can’t resist after a date! Cafe, Cinema, Love hotel~
+    author: a2me
+    cover: /covers/579819.jpg
+    rating: 4.7
+    date: '2026-04-25'
+    code: 579819
+    url: /works/579819/
   - title: Suki nano wa Anata dake... 3
     author: end
     cover: /covers/586634.jpg
@@ -172,6 +210,13 @@ works:
     date: '2026-04-27'
     code: 606166
     url: /works/606166/
+  - title: Zenin Mukuwarenai Harem | A Harem Where No One Is Reciprocated
+    author: group
+    cover: /covers/610041.jpg
+    rating: 4.0
+    date: '2026-04-23'
+    code: 610041
+    url: /works/610041/
   - title: Majime na Iinchou no Kanojo ga Sex ni Hamatta Riyuu
     author: furaimai
     cover: /covers/618562.jpg
@@ -193,6 +238,21 @@ works:
     date: '2026-07-13'
     code: 639514
     url: /works/639514/
+  - title: Because Ura Wants To Be More Than "Just An Acquaintance"
+    author: the-waidan
+    cover: /covers/642793.jpg
+    rating: 4.6
+    date: '2026-04-27'
+    code: 642793
+    url: /works/642793/
+  - title: Mujikaku na Osananajimi to Kyoumi Honi de Yatte Mitara | What Happens When
+      You Sleep With Your Oblivious Childhood Friend Just Out of Curiosity Part 1
+    author: gen
+    cover: /covers/646385.jpg
+    rating: 4.9
+    date: '2026-04-27'
+    code: 646385
+    url: /works/646385/
   - title: Sex Between Gloomy Types is the Hottest, Ain't It?
     author: doji-ro
     cover: /covers/646757.jpg

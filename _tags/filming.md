@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "filming"
-work_count: 33
+work_count: 38
 works:
   - title: Netorare Ibe Kiba Shizuka | The Netorare of Kiba Shizuka
     author: terasu-mc
@@ -10,6 +10,21 @@ works:
     date: '2026-07-16'
     code: 288292
     url: /works/288292/
+  - title: LOOK LIKE
+    author: terasu-mc
+    cover: /covers/388099.jpg
+    rating: 4.5
+    date: '2026-04-25'
+    code: 388099
+    url: /works/388099/
+  - title: Boku no Netorase Seiheki ni Tsukiatte kureru Kanojo | A Girlfriend Who Plays
+      Along with My Cuckold Fetish
+    author: terasu-mc
+    cover: /covers/441036.jpg
+    rating: 4.8
+    date: '2026-04-25'
+    code: 441036
+    url: /works/441036/
   - title: Minpaku ~Ojou-sama-tachi wa Minpaku Keieisha no Wana ni Ochiru~ | Sleeping
       in the Bed and Breakfast - Young ladies fall into the trap of a private lodging
       manager
@@ -34,6 +49,21 @@ works:
     date: '2026-05-07'
     code: 557052
     url: /works/557052/
+  - title: Ossan Kirai no Hitozuma Kyoushi ga Nikubenki ni Ochiru Hanashi | Story About
+      an Old Man Hating Married Teacher Falling Into Being a Meat Toilet
+    author: chinpan
+    cover: /covers/562615.jpg
+    rating: 4.5
+    date: '2026-04-25'
+    code: 562615
+    url: /works/562615/
+  - title: Zutto Akogare datta Dokyuusei no Mama to Yareta Hanashi Kuronuri ver
+    author: chinpan
+    cover: /covers/593677.jpg
+    rating: 4.3
+    date: '2026-04-25'
+    code: 593677
+    url: /works/593677/
   - title: Houkai Kazoku 2 -Hahaoya ga Yakuza to no Sex ni Hamatta Hanashi- | Broken
       Family 2 - The story of a mother who got hooked on sex with the Yakuza
     author: watsondou
@@ -71,6 +101,14 @@ works:
     date: '2026-07-06'
     code: 644296
     url: /works/644296/
+  - title: 'YariCir Shingakki ni Boku no Heya wa Minna no Tamariba (Omake Ver.) - Fuck
+      Club: New Term! My Room''s A Hangout Spot For Everyone'
+    author: purumetal
+    cover: /covers/645507.jpg
+    rating: 4.2
+    date: '2026-04-23'
+    code: 645507
+    url: /works/645507/
   - title: Ura Aka Joshi no Jidori Ero Gosoushin | A Girl with a Secret-Account Accidentally
       Sends a Lewd Selfie
     author: group

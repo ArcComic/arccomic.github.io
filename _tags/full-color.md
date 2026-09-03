@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "full color"
-work_count: 81
+work_count: 96
 works:
   - title: Saikin, Musuko no Yousu ga Hen nan desu | Lately my son has been acting Strangly
     author: matsumoto-jikyuuryoku
@@ -54,6 +54,21 @@ works:
     date: '2026-07-17'
     code: 430672
     url: /works/430672/
+  - title: Akumu 4 ~Saitei na Kokuhaku~ | Nightmare 4 ~ Lowest Confession ~
+    author: minazuki-mikka
+    cover: /covers/435832.jpg
+    rating: 4.2
+    date: '2026-04-23'
+    code: 435832
+    url: /works/435832/
+  - title: Boku no Netorase Seiheki ni Tsukiatte kureru Kanojo | A Girlfriend Who Plays
+      Along with My Cuckold Fetish
+    author: terasu-mc
+    cover: /covers/441036.jpg
+    rating: 4.8
+    date: '2026-04-25'
+    code: 441036
+    url: /works/441036/
   - title: Kaa-san ni wa Ore no Ko o Unde Morau | My mother is going to have my baby
     author: matsumoto-jikyuuryoku
     cover: /covers/444152.jpg
@@ -61,6 +76,14 @@ works:
     date: '2026-08-24'
     code: 444152
     url: /works/444152/
+  - title: What would happen if you said "Let's have sex." while your teacher was scolding
+      you?
+    author: chotto-b-sen
+    cover: /covers/463298.jpg
+    rating: 4.6
+    date: '2026-04-25'
+    code: 463298
+    url: /works/463298/
   - title: Mimikyu Myth 2
     author: meowwithme
     cover: /covers/500102.jpg
@@ -97,6 +120,23 @@ works:
     date: '2026-08-24'
     code: 508845
     url: /works/508845/
+  - title: Inemuri-chou no Onna Joushi ni Kossori Sounyuu ( ※ Netafuri Shinagara Ittemashita)
+      1-3 | Stealthily Fucking My Dozing Boss (She Came While Pretending to Sleep) 1-3
+    author: nanakusa-amane
+    cover: /covers/509049.jpg
+    rating: 4.1
+    date: '2026-04-23'
+    code: 509049
+    url: /works/509049/
+  - title: Sukinashi Onna Joshi, Irerarechuu. ~ Iji demo Zecchou o Mitomenai Taikyuu
+      SEX 1 | Fucking My Boss Who Is Never Off Her Guard - Even When She Cums, She Will
+      Never Admit It 1
+    author: nanakusa-amane
+    cover: /covers/509071.jpg
+    rating: 4.2
+    date: '2026-04-23'
+    code: 509071
+    url: /works/509071/
   - title: Netori Ai SEX - Chara Otoko no Hentai Massage Osananajimi no Nettori Aibu
       1 | N.T.R. Sex Wars - Playboy's Depraved Massage VS. Childhood Friend's Sensual
       Touch 1
@@ -195,6 +235,20 @@ works:
     date: '2026-07-07'
     code: 547250
     url: /works/547250/
+  - title: Boku no Kaa-chan | My Mom
+    author: cammy
+    cover: /covers/555792.jpg
+    rating: 4.1
+    date: '2026-04-25'
+    code: 555792
+    url: /works/555792/
+  - title: Ijiwaru Mama Tomo Taisaku | Countermeasures Against Bullying Mothers
+    author: chotto-b-sen
+    cover: /covers/561436.jpg
+    rating: 4.7
+    date: '2026-04-25'
+    code: 561436
+    url: /works/561436/
   - title: Walking back home in the winter with my childhood friend
     author: shimetsuki-tanki
     cover: /covers/565301.jpg
@@ -209,6 +263,13 @@ works:
     date: '2026-04-27'
     code: 576910
     url: /works/576910/
+  - title: Boku no Kaa-chan 2 | My Mom 2
+    author: cammy
+    cover: /covers/579339.jpg
+    rating: 4.9
+    date: '2026-04-25'
+    code: 579339
+    url: /works/579339/
   - title: Asuna family 1-42
     author: zhi-yitiaomiao
     cover: /covers/588660.jpg
@@ -224,6 +285,28 @@ works:
     date: '2026-08-29'
     code: 589969
     url: /works/589969/
+  - title: Sinful Lust 4
+    author: zetto
+    cover: /covers/593064.jpg
+    rating: 4.5
+    date: '2026-04-23'
+    code: 593064
+    url: /works/593064/
+  - title: Sono Panty, Watashi no Nandakedo. | Those Panties They're Mine
+    author: chotto-b-sen
+    cover: /covers/593754.jpg
+    rating: 4.1
+    date: '2026-04-25'
+    code: 593754
+    url: /works/593754/
+  - title: Cool na Niizuma to no Shinkon Seikatsu wa Amari ni mo... Yarashikatta  |
+      Our Kinky Newlywed Life Vol. 1-3
+    author: nanakusa-amane
+    cover: /covers/603122.jpg
+    rating: 4.6
+    date: '2026-04-23'
+    code: 603122
+    url: /works/603122/
   - title: Sono Gal Mama wa Koubi Suru | This Gyaru Mom is Having Sex.
     author: ameto-yuki
     cover: /covers/608648.jpg
@@ -270,6 +353,14 @@ works:
     date: '2026-07-17'
     code: 632056
     url: /works/632056/
+  - title: Boku ga Shiranakatta Mama to Jii-chan no Koto | Things I didn't Know Between
+      Mom And Grandpa
+    author: urakan
+    cover: /covers/640543.jpg
+    rating: 4.0
+    date: '2026-04-23'
+    code: 640543
+    url: /works/640543/
   - title: Otokomasari na Kyonyuu Hitozuma Joushi to Amaama SeFri Kankei ni Natta Ken
     author: elica
     cover: /covers/641362.jpg
@@ -305,6 +396,28 @@ works:
     date: '2026-08-25'
     code: 643933
     url: /works/643933/
+  - title: Itome-san wa Kyun Shita Toki dake Kaigan Suru Vol. 1-8
+    author: nanakusa-amane
+    cover: /covers/644276.jpg
+    rating: 4.5
+    date: '2026-04-23'
+    code: 644276
+    url: /works/644276/
+  - title: Ikenie no Haha 2
+    author: group
+    cover: /covers/645676.jpg
+    rating: 4.1
+    date: '2026-04-23'
+    code: 645676
+    url: /works/645676/
+  - title: Tsuma no Tame ni Tameta Kozukuri Seishi o Gimai no JK Manko ni Nagashikondeshimatta
+      Boku.
+    author: junsei-chuurenpoutou
+    cover: /covers/645908.jpg
+    rating: 4.2
+    date: '2026-04-25'
+    code: 645908
+    url: /works/645908/
   - title: Houchiko Hirotte LesSe Suru
     author: unknown
     cover: /covers/646967.jpg

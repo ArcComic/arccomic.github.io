@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "smalldom"
-work_count: 14
+work_count: 16
 works:
   - title: Uwa, Mesugaki Tsuyoi! | Crap, This Mesugaki's Too Powerful!
     author: poncocchan
@@ -25,6 +25,20 @@ works:
     date: '2026-07-17'
     code: 632056
     url: /works/632056/
+  - title: Oji Saimin Soushuuhen | Hypnotized Uncle Compilation Edition
+    author: tokomaya-keita
+    cover: /covers/645612.jpg
+    rating: 5.0
+    date: '2026-04-24'
+    code: 645612
+    url: /works/645612/
+  - title: Inaka ja Kore ga Joushiki dakara! | This Is Just How Things Are in the Countryside!
+    author: chilt
+    cover: /covers/646146.jpg
+    rating: 4.1
+    date: '2026-04-27'
+    code: 646146
+    url: /works/646146/
   - title: My Brother Stole My Mother
     author: momoziri-hustle-dou
     cover: /covers/648073.jpg

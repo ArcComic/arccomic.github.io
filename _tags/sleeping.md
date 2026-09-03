@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sleeping"
-work_count: 23
+work_count: 24
 works:
   - title: Megane Loli Choukyou Jugyou!! ~Otonashii Megane Lolikko ni Muriyari Dekachin
       Sounyuu~ | The Loli In Glasses' Training Lesson!! ~Force Fucking a Timid Glasses
@@ -42,6 +42,14 @@ works:
     date: '2026-07-10'
     code: 476399
     url: /works/476399/
+  - title: Inemuri-chou no Onna Joushi ni Kossori Sounyuu ( ※ Netafuri Shinagara Ittemashita)
+      1-3 | Stealthily Fucking My Dozing Boss (She Came While Pretending to Sleep) 1-3
+    author: nanakusa-amane
+    cover: /covers/509049.jpg
+    rating: 4.1
+    date: '2026-04-23'
+    code: 509049
+    url: /works/509049/
   - title: Shuuden Deisui Anken
     author: uds
     cover: /covers/525085.jpg

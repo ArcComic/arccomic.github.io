@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bunny girl"
-work_count: 13
+work_count: 14
 works:
   - title: Yurikago
     author: neko-samurai
@@ -34,6 +34,14 @@ works:
     date: '2026-08-25'
     code: 518387
     url: /works/518387/
+  - title: 'Moto Mahou Shoujo no Kazoku Banashi Tsuki 2 | Former Magical Girl''s Family
+      Story: Tsuki 2'
+    author: zhen-lu
+    cover: /covers/645646.jpg
+    rating: 4.1
+    date: '2026-04-23'
+    code: 645646
+    url: /works/645646/
   - title: Kawaii Kanojo ni Goyoujin!? 2 | Beware of Cute Girlfriends! 2
     author: marialite
     cover: /covers/649111.jpg

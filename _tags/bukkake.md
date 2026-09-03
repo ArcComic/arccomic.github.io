@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bukkake"
-work_count: 13
+work_count: 16
 works:
   - title: Little Blue Bird
     author: kidouchi-kon
@@ -10,6 +10,23 @@ works:
     date: '2026-05-01'
     code: 508534
     url: /works/508534/
+  - title: Ossan Kirai no Hitozuma Kyoushi ga Nikubenki ni Ochiru Hanashi | Story About
+      an Old Man Hating Married Teacher Falling Into Being a Meat Toilet
+    author: chinpan
+    cover: /covers/562615.jpg
+    rating: 4.5
+    date: '2026-04-25'
+    code: 562615
+    url: /works/562615/
+  - title: Torohame "100-kai Iku made Hanasanai" Hajimete no Portio Kiss... Kizetsu
+      suru made Renzoku Nou Iki | TOROHAME ~First Time Portio Kiss... Consecutive Braingasm
+      Until You Faint~
+    author: yamamoto-tomomitsu
+    cover: /covers/593112.jpg
+    rating: 4.3
+    date: '2026-04-25'
+    code: 593112
+    url: /works/593112/
   - title: A tsundere girl who loves dick cheese and speaks Kansai dialect
     author: yuuki-fuumi
     cover: /covers/630901.jpg
@@ -17,6 +34,13 @@ works:
     date: '2026-07-06'
     code: 630901
     url: /works/630901/
+  - title: Ikenie no Haha 2
+    author: group
+    cover: /covers/645676.jpg
+    rating: 4.1
+    date: '2026-04-23'
+    code: 645676
+    url: /works/645676/
   - title: Riho NTR ~Ordered By My Husband to Get Fucked By His Colleague~
     author: yamamoto-tomomitsu
     cover: /covers/647620.jpg

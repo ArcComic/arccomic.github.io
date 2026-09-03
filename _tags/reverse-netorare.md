@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "reverse netorare"
-work_count: 4
+work_count: 5
 works:
   - title: Onee-chan ga Ecchi na Koto bakka Suru kara... | My older sister only does
       obscene things...
@@ -11,6 +11,14 @@ works:
     date: '2026-04-27'
     code: 337171
     url: /works/337171/
+  - title: Itabasami na Wakachi Ai 4 | Love Divided Between a Rock and a Hard Place
+      4
+    author: group
+    cover: /covers/448503.jpg
+    rating: 5.0
+    date: '2026-04-23'
+    code: 448503
+    url: /works/448503/
   - title: Seiyoku Tsuyosugi GalKano Mama
     author: naporitan
     cover: /covers/662525.jpg

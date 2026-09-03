@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "multiple orgasms"
-work_count: 43
+work_count: 51
 works:
   - title: Yurikago
     author: neko-samurai
@@ -17,6 +17,14 @@ works:
     date: '2026-08-18'
     code: 432356
     url: /works/432356/
+  - title: Itabasami na Wakachi Ai 4 | Love Divided Between a Rock and a Hard Place
+      4
+    author: group
+    cover: /covers/448503.jpg
+    rating: 5.0
+    date: '2026-04-23'
+    code: 448503
+    url: /works/448503/
   - title: Konoe no Kyuujitsu | Konoe's Day Off
     author: alp
     cover: /covers/479447.jpg
@@ -70,6 +78,13 @@ works:
     date: '2026-07-11'
     code: 538553
     url: /works/538553/
+  - title: Ikemen Douki ni Otosareru Hanashi~ Ikitakunaoni Kyousei Zecchou?!
+    author: hoshina-mimiwo
+    cover: /covers/560643.jpg
+    rating: 4.8
+    date: '2026-04-25'
+    code: 560643
+    url: /works/560643/
   - title: Boku no Kaa-chan ga Hikikomori Neet Debu Aniki no Seishori Onaho ni Natteita
       Hanashi | My Mother is My Fat Shut-in Older NEET Brother's Sex Relief Onahole
     author: tarobaumu
@@ -78,6 +93,13 @@ works:
     date: '2026-05-05'
     code: 578147
     url: /works/578147/
+  - title: Nanami-chan can’t resist after a date! Cafe, Cinema, Love hotel~
+    author: a2me
+    cover: /covers/579819.jpg
+    rating: 4.7
+    date: '2026-04-25'
+    code: 579819
+    url: /works/579819/
   - title: Ore ga Hoshikatta Mono wa Kin Medal Yori Namami Onaho Datta no Kamoshirenai｜Maybe
       what I Wanted was a Flesh and Blood Masturbator Rather than a Gold Medal
     author: carburetor
@@ -93,6 +115,22 @@ works:
     date: '2026-04-27'
     code: 587827
     url: /works/587827/
+  - title: Torohame "100-kai Iku made Hanasanai" Hajimete no Portio Kiss... Kizetsu
+      suru made Renzoku Nou Iki | TOROHAME ~First Time Portio Kiss... Consecutive Braingasm
+      Until You Faint~
+    author: yamamoto-tomomitsu
+    cover: /covers/593112.jpg
+    rating: 4.3
+    date: '2026-04-25'
+    code: 593112
+    url: /works/593112/
+  - title: Zenin Mukuwarenai Harem | A Harem Where No One Is Reciprocated
+    author: group
+    cover: /covers/610041.jpg
+    rating: 4.0
+    date: '2026-04-23'
+    code: 610041
+    url: /works/610041/
   - title: Fuyu-san wa Sotsugyou Shitai | Fuyu-san Wants to Lose Her V-Card
     author: kurihara-kenshirou
     cover: /covers/619405.jpg
@@ -115,6 +153,21 @@ works:
     date: '2026-05-26'
     code: 624573
     url: /works/624573/
+  - title: Kaisha de majimena Shizuno-san wa ie de otoko o katterurashii | Seems The
+      Serious Office Worker Shizuno Keeps A Pet Guy At Home
+    author: yuzuha
+    cover: /covers/632188.jpg
+    rating: 4.5
+    date: '2026-04-25'
+    code: 632188
+    url: /works/632188/
+  - title: Because Ura Wants To Be More Than "Just An Acquaintance"
+    author: the-waidan
+    cover: /covers/642793.jpg
+    rating: 4.6
+    date: '2026-04-27'
+    code: 642793
+    url: /works/642793/
   - title: Delusion story book
     author: madarame-rin
     cover: /covers/644810.jpg
@@ -122,6 +175,14 @@ works:
     date: '2026-05-03'
     code: 644810
     url: /works/644810/
+  - title: 'YariCir Shingakki ni Boku no Heya wa Minna no Tamariba (Omake Ver.) - Fuck
+      Club: New Term! My Room''s A Hangout Spot For Everyone'
+    author: purumetal
+    cover: /covers/645507.jpg
+    rating: 4.2
+    date: '2026-04-23'
+    code: 645507
+    url: /works/645507/
   - title: Momoiro Kikyou Boku no Hajimete wa Toshiue Bakunyuu Soap-jou｜Pink Bellflower∶
       My First Experience with an Older Busty Soapland Lady
     author: enma

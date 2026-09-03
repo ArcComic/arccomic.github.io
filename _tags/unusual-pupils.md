@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "unusual pupils"
-work_count: 20
+work_count: 24
 works:
   - title: Kono Koi ni Kiduite
     author: danimaru
@@ -17,6 +17,14 @@ works:
     date: '2026-08-18'
     code: 432356
     url: /works/432356/
+  - title: Itabasami na Wakachi Ai 4 | Love Divided Between a Rock and a Hard Place
+      4
+    author: group
+    cover: /covers/448503.jpg
+    rating: 5.0
+    date: '2026-04-23'
+    code: 448503
+    url: /works/448503/
   - title: Ore no Tsuma wa  Kanpeki  de Kawaii | My Wife's Cuteness is Perfect
     author: ono-kenuji
     cover: /covers/482454.jpg
@@ -24,6 +32,14 @@ works:
     date: '2026-08-18'
     code: 482454
     url: /works/482454/
+  - title: Moto Mahou Shoujo no Hikikomori Seikatsu | The NEET Life of a Former Magical
+      Girl
+    author: zhen-lu
+    cover: /covers/506303.jpg
+    rating: 4.4
+    date: '2026-04-23'
+    code: 506303
+    url: /works/506303/
   - title: Anata no Shiori ni Naritai - I Just Want To Be Your Shiori
     author: naokomama
     cover: /covers/530476.jpg
@@ -46,6 +62,13 @@ works:
     date: '2026-08-25'
     code: 595108
     url: /works/595108/
+  - title: Zenin Mukuwarenai Harem | A Harem Where No One Is Reciprocated
+    author: group
+    cover: /covers/610041.jpg
+    rating: 4.0
+    date: '2026-04-23'
+    code: 610041
+    url: /works/610041/
   - title: Metamorphosis
     author: shindol
     cover: /covers/616358.jpg
@@ -53,6 +76,13 @@ works:
     date: '2026-07-15'
     code: 616358
     url: /works/616358/
+  - title: Because Ura Wants To Be More Than "Just An Acquaintance"
+    author: the-waidan
+    cover: /covers/642793.jpg
+    rating: 4.6
+    date: '2026-04-27'
+    code: 642793
+    url: /works/642793/
   - title: Natsu ga Owaru made Natsu no Owari Kanketsuhen
     author: mon-petit
     cover: /covers/646969.jpg

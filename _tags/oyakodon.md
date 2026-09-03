@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "oyakodon"
-work_count: 8
+work_count: 10
 works:
   - title: Bitch Mama no Kekkon Riyuu
     author: aoyama-akira
@@ -24,6 +24,20 @@ works:
     date: '2026-08-25'
     code: 608648
     url: /works/608648/
+  - title: Otonari no Downer Oyako ni Shiboritorareru Hanashi
+    author: gamogamo
+    cover: /covers/645896.jpg
+    rating: 4.3
+    date: '2026-04-25'
+    code: 645896
+    url: /works/645896/
+  - title: Otonari no Downer Oyako ni Shiboritorareru Hanashi
+    author: gamogamo
+    cover: /covers/646017.jpg
+    rating: 4.4
+    date: '2026-04-27'
+    code: 646017
+    url: /works/646017/
   - title: Meshibe no Nomikomi yuku Hate ni Meshibe no Sakihokoru Shima de 2
     author: saigado-ishoku-dougen
     cover: /covers/661590.jpg

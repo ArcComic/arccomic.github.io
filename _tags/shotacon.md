@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "shotacon"
-work_count: 48
+work_count: 55
 works:
+  - title: Maid no Oshigoto. II | Maid's Work II
+    author: alexi-laiho
+    cover: /covers/296282.jpg
+    rating: 5.0
+    date: '2026-04-23'
+    code: 296282
+    url: /works/296282/
   - title: CHOCO x LOVE
     author: highlow
     cover: /covers/317673.jpg
@@ -25,6 +32,13 @@ works:
     date: '2026-08-24'
     code: 342639
     url: /works/342639/
+  - title: LOOK LIKE
+    author: terasu-mc
+    cover: /covers/388099.jpg
+    rating: 4.5
+    date: '2026-04-25'
+    code: 388099
+    url: /works/388099/
   - title: 'Kouen no Bench ni Suwatteru Kirei na Onee-san ga Boku ni "Ochinchin o Misete"
       to Itte Kuru no de... | A Pretty Onee-San, that''s sitting on a Bench in the Park...suddenly
       says to Me: [Show Me Your Dick].'
@@ -55,6 +69,13 @@ works:
     date: '2026-08-18'
     code: 521812
     url: /works/521812/
+  - title: Ijiwaru Mama Tomo Taisaku | Countermeasures Against Bullying Mothers
+    author: chotto-b-sen
+    cover: /covers/561436.jpg
+    rating: 4.7
+    date: '2026-04-25'
+    code: 561436
+    url: /works/561436/
   - title: Doukyuusei no Kyouiku Mama ni Hitomebore!
     author: chotto-b-sen
     cover: /covers/581704.jpg
@@ -76,6 +97,13 @@ works:
     date: '2026-08-25'
     code: 592307
     url: /works/592307/
+  - title: Zutto Akogare datta Dokyuusei no Mama to Yareta Hanashi Kuronuri ver
+    author: chinpan
+    cover: /covers/593677.jpg
+    rating: 4.3
+    date: '2026-04-25'
+    code: 593677
+    url: /works/593677/
   - title: Sono Gal Mama wa Koubi Suru | This Gyaru Mom is Having Sex.
     author: ameto-yuki
     cover: /covers/608648.jpg
@@ -136,6 +164,29 @@ works:
     date: '2026-08-25'
     code: 637847
     url: /works/637847/
+  - title: 'Moto Mahou Shoujo no Kazoku Banashi Tsuki 2 | Former Magical Girl''s Family
+      Story: Tsuki 2'
+    author: zhen-lu
+    cover: /covers/645646.jpg
+    rating: 4.1
+    date: '2026-04-23'
+    code: 645646
+    url: /works/645646/
+  - title: Onanie Daisuki Honoka-chan wa Katekyo Chinpo o Benkyou Shitai! | Professional
+      Shliker Honoka-san Wanna Study Up On Her Tutor's Cock!
+    author: henreader
+    cover: /covers/645677.jpg
+    rating: 4.9
+    date: '2026-04-25'
+    code: 645677
+    url: /works/645677/
+  - title: Inaka ja Kore ga Joushiki dakara! | This Is Just How Things Are in the Countryside!
+    author: chilt
+    cover: /covers/646146.jpg
+    rating: 4.1
+    date: '2026-04-27'
+    code: 646146
+    url: /works/646146/
   - title: Momoiro Kikyou Boku no Hajimete wa Toshiue Bakunyuu Soap-jou｜Pink Bellflower∶
       My First Experience with an Older Busty Soapland Lady
     author: enma

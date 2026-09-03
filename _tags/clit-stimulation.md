@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "clit stimulation"
-work_count: 10
+work_count: 13
 works:
   - title: Netori Ai SEX - Chara Otoko no Hentai Massage Osananajimi no Nettori Aibu
       1 | N.T.R. Sex Wars - Playboy's Depraved Massage VS. Childhood Friend's Sensual
@@ -21,6 +21,13 @@ works:
     date: '2026-08-29'
     code: 534388
     url: /works/534388/
+  - title: Ero Cos OL to Jiraikei Joshi ~Iki Nuresaseru Moto Kare no Amai Koshi Zukai~
+    author: unknown
+    cover: /covers/548852.jpg
+    rating: 4.3
+    date: '2026-04-23'
+    code: 548852
+    url: /works/548852/
   - title: '"1 Funkan Dake Rete mo īyo … " Shea Hausu no Himitsu Rūru | The Share House''s
       Secret Rule Vol. 1-3'
     author: ouma
@@ -38,6 +45,21 @@ works:
     date: '2026-07-11'
     code: 617492
     url: /works/617492/
+  - title: Kaisha de majimena Shizuno-san wa ie de otoko o katterurashii | Seems The
+      Serious Office Worker Shizuno Keeps A Pet Guy At Home
+    author: yuzuha
+    cover: /covers/632188.jpg
+    rating: 4.5
+    date: '2026-04-25'
+    code: 632188
+    url: /works/632188/
+  - title: Because Ura Wants To Be More Than "Just An Acquaintance"
+    author: the-waidan
+    cover: /covers/642793.jpg
+    rating: 4.6
+    date: '2026-04-27'
+    code: 642793
+    url: /works/642793/
   - title: You're My Doggy... Right? ~Pamper Loving Boyfriend Becomes A Wild Sadist
       Hound~
     author: the-waidan

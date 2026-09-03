@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "femdom"
-work_count: 51
+work_count: 61
 works:
   - title: Life with Married Women Just Like a Manga 2 - Ch. 1-5
     author: hidemaru
@@ -25,6 +25,13 @@ works:
     date: '2026-07-09'
     code: 317673
     url: /works/317673/
+  - title: Love Divided Between a Rock and a Hard Place Ch.1
+    author: cabin
+    cover: /covers/342540.jpg
+    rating: 4.4
+    date: '2026-04-23'
+    code: 342540
+    url: /works/342540/
   - title: Majimeni Yarimasu (Seitokaichou) Ch. 1-3
     author: ikumo-taisuke
     cover: /covers/346416.jpg
@@ -46,6 +53,13 @@ works:
     date: '2026-05-03'
     code: 376189
     url: /works/376189/
+  - title: LOOK LIKE
+    author: terasu-mc
+    cover: /covers/388099.jpg
+    rating: 4.5
+    date: '2026-04-25'
+    code: 388099
+    url: /works/388099/
   - title: Shiraishi-san Wa Yokkyu Fuman | Shiraishi-san's Frustrated
     author: carburetor
     cover: /covers/392617.jpg
@@ -67,6 +81,14 @@ works:
     date: '2026-07-17'
     code: 430672
     url: /works/430672/
+  - title: Itabasami na Wakachi Ai 4 | Love Divided Between a Rock and a Hard Place
+      4
+    author: group
+    cover: /covers/448503.jpg
+    rating: 5.0
+    date: '2026-04-23'
+    code: 448503
+    url: /works/448503/
   - title: Koi ni Naru made, | Until It Becomes Love
     author: danimaru
     cover: /covers/507681.jpg
@@ -105,6 +127,13 @@ works:
     date: '2026-08-22'
     code: 550948
     url: /works/550948/
+  - title: Sono Panty, Watashi no Nandakedo. | Those Panties They're Mine
+    author: chotto-b-sen
+    cover: /covers/593754.jpg
+    rating: 4.1
+    date: '2026-04-25'
+    code: 593754
+    url: /works/593754/
   - title: Seishun Soushitsu
     author: pinkjoe
     cover: /covers/610017.jpg
@@ -112,6 +141,13 @@ works:
     date: '2026-05-07'
     code: 610017
     url: /works/610017/
+  - title: Zenin Mukuwarenai Harem | A Harem Where No One Is Reciprocated
+    author: group
+    cover: /covers/610041.jpg
+    rating: 4.0
+    date: '2026-04-23'
+    code: 610041
+    url: /works/610041/
   - title: Fuufu Koukan Matching Appli ~DQN na Hitozuma ni Nakadashi Houshi~
     author: hachi-mega
     cover: /covers/613739.jpg
@@ -165,6 +201,43 @@ works:
     date: '2026-08-19'
     code: 638178
     url: /works/638178/
+  - title: 'YariCir Shingakki ni Boku no Heya wa Minna no Tamariba (Omake Ver.) - Fuck
+      Club: New Term! My Room''s A Hangout Spot For Everyone'
+    author: purumetal
+    cover: /covers/645507.jpg
+    rating: 4.2
+    date: '2026-04-23'
+    code: 645507
+    url: /works/645507/
+  - title: Succubus Seitokai Shiko Shiko Shikkoubu 2 NOA ver. | Succubus Student Council
+      Milking Club 2 Version NOA
+    author: michiking
+    cover: /covers/645520.jpg
+    rating: 4.8
+    date: '2026-04-23'
+    code: 645520
+    url: /works/645520/
+  - title: Oji Saimin Soushuuhen | Hypnotized Uncle Compilation Edition
+    author: tokomaya-keita
+    cover: /covers/645612.jpg
+    rating: 5.0
+    date: '2026-04-24'
+    code: 645612
+    url: /works/645612/
+  - title: Otonari no Downer Oyako ni Shiboritorareru Hanashi
+    author: gamogamo
+    cover: /covers/645896.jpg
+    rating: 4.3
+    date: '2026-04-25'
+    code: 645896
+    url: /works/645896/
+  - title: Otonari no Downer Oyako ni Shiboritorareru Hanashi
+    author: gamogamo
+    cover: /covers/646017.jpg
+    rating: 4.4
+    date: '2026-04-27'
+    code: 646017
+    url: /works/646017/
   - title: Momoiro Kikyou Boku no Hajimete wa Toshiue Bakunyuu Soap-jou｜Pink Bellflower∶
       My First Experience with an Older Busty Soapland Lady
     author: enma

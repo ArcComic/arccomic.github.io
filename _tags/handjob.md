@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "handjob"
-work_count: 36
+work_count: 40
 works:
   - title: Yuri no o saifu ni shite agemasu ne, Senpai | I'll turn you into Yuri's wallet,
       Senpai
@@ -85,6 +85,37 @@ works:
     date: '2026-05-26'
     code: 627182
     url: /works/627182/
+  - title: 'YariCir Shingakki ni Boku no Heya wa Minna no Tamariba (Omake Ver.) - Fuck
+      Club: New Term! My Room''s A Hangout Spot For Everyone'
+    author: purumetal
+    cover: /covers/645507.jpg
+    rating: 4.2
+    date: '2026-04-23'
+    code: 645507
+    url: /works/645507/
+  - title: Oji Saimin Soushuuhen | Hypnotized Uncle Compilation Edition
+    author: tokomaya-keita
+    cover: /covers/645612.jpg
+    rating: 5.0
+    date: '2026-04-24'
+    code: 645612
+    url: /works/645612/
+  - title: Tsuma no Tame ni Tameta Kozukuri Seishi o Gimai no JK Manko ni Nagashikondeshimatta
+      Boku.
+    author: junsei-chuurenpoutou
+    cover: /covers/645908.jpg
+    rating: 4.2
+    date: '2026-04-25'
+    code: 645908
+    url: /works/645908/
+  - title: Mujikaku na Osananajimi to Kyoumi Honi de Yatte Mitara | What Happens When
+      You Sleep With Your Oblivious Childhood Friend Just Out of Curiosity Part 1
+    author: gen
+    cover: /covers/646385.jpg
+    rating: 4.9
+    date: '2026-04-27'
+    code: 646385
+    url: /works/646385/
   - title: Netorareta Kanojo ga Joou-sama ni natte Kaettekita ~Ruined de Kintama o Kara
       ni sarete Zenritsusen o Ijirarete Nandomo Nandomo Mesuikishite Choukyou sareru
       Ohanashi~

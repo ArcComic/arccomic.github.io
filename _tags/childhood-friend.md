@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "childhood friend"
-work_count: 9
+work_count: 10
 works:
   - title: Koi no Susumekata | How to Advance Your Love
     author: danimaru
@@ -25,6 +25,14 @@ works:
     date: '2026-04-27'
     code: 587827
     url: /works/587827/
+  - title: Mujikaku na Osananajimi to Kyoumi Honi de Yatte Mitara | What Happens When
+      You Sleep With Your Oblivious Childhood Friend Just Out of Curiosity Part 1
+    author: gen
+    cover: /covers/646385.jpg
+    rating: 4.9
+    date: '2026-04-27'
+    code: 646385
+    url: /works/646385/
   - title: Boku no kanojo | My Girlfriend
     author: fuguta-ke
     cover: /covers/651346.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "short-haired female"
-work_count: 15
+work_count: 17
 works:
   - title: Onee-chan ga Ecchi na Koto bakka Suru kara... | My older sister only does
       obscene things...
@@ -56,6 +56,13 @@ works:
     date: '2026-08-22'
     code: 586316
     url: /works/586316/
+  - title: Zenin Mukuwarenai Harem | A Harem Where No One Is Reciprocated
+    author: group
+    cover: /covers/610041.jpg
+    rating: 4.0
+    date: '2026-04-23'
+    code: 610041
+    url: /works/610041/
   - title: Igumox - Muramata-san no Himitsu & Aijou - Muramata-san's Secret & Affection
       COMPLETE
     author: igumox
@@ -64,6 +71,13 @@ works:
     date: '2026-05-26'
     code: 624573
     url: /works/624573/
+  - title: Inaka ja Kore ga Joushiki dakara! | This Is Just How Things Are in the Countryside!
+    author: chilt
+    cover: /covers/646146.jpg
+    rating: 4.1
+    date: '2026-04-27'
+    code: 646146
+    url: /works/646146/
   - title: Imouto Haramasenai to Derarenai Shima 2 | You Must Breed Your Sister to Leave
       This Island 2!
     author: airandou

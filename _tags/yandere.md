@@ -1,8 +1,23 @@
 ---
 layout: tag
 tag_name: "yandere"
-work_count: 7
+work_count: 10
 works:
+  - title: Love Divided Between a Rock and a Hard Place Ch.1
+    author: cabin
+    cover: /covers/342540.jpg
+    rating: 4.4
+    date: '2026-04-23'
+    code: 342540
+    url: /works/342540/
+  - title: Itabasami na Wakachi Ai 4 | Love Divided Between a Rock and a Hard Place
+      4
+    author: group
+    cover: /covers/448503.jpg
+    rating: 5.0
+    date: '2026-04-23'
+    code: 448503
+    url: /works/448503/
   - title: Anata no Shiori ni Naritai - I Just Want To Be Your Shiori
     author: naokomama
     cover: /covers/530476.jpg
@@ -33,6 +48,13 @@ works:
     date: '2026-05-03'
     code: 644810
     url: /works/644810/
+  - title: Oji Saimin Soushuuhen | Hypnotized Uncle Compilation Edition
+    author: tokomaya-keita
+    cover: /covers/645612.jpg
+    rating: 5.0
+    date: '2026-04-24'
+    code: 645612
+    url: /works/645612/
   - title: Netorareta Kanojo ga Joou-sama ni natte Kaettekita ~Ruined de Kintama o Kara
       ni sarete Zenritsusen o Ijirarete Nandomo Nandomo Mesuikishite Choukyou sareru
       Ohanashi~

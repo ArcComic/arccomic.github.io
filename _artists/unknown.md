@@ -1,14 +1,45 @@
 ---
 layout: artist
 artist_name: "unknown"
-work_count: 21
+work_count: 26
 works:
+  - title: Ero Cos OL to Jiraikei Joshi ~Iki Nuresaseru Moto Kare no Amai Koshi Zukai~
+    cover: /covers/548852.jpg
+    rating: 4.3
+    date: '2026-04-23'
+    code: 548852
+    url: /works/548852/
+  - title: Hitozuma Takuhaibin 1+2
+    cover: /covers/599910.jpg
+    rating: 4.2
+    date: '2026-04-23'
+    code: 599910
+    url: /works/599910/
   - title: Caught in the Act
     cover: /covers/617511.jpg
     rating: 4.7
     date: '2026-07-16'
     code: 617511
     url: /works/617511/
+  - title: 撞破秘密后，我成了上司的“专属藏品
+    cover: /covers/645525.jpg
+    rating: 4.6
+    date: '2026-04-23'
+    code: 645525
+    url: /works/645525/
+  - title: How I, a fighting gamer, became the heroine of a cosplay AV
+    cover: /covers/645566.jpg
+    rating: 4.3
+    date: '2026-04-24'
+    code: 645566
+    url: /works/645566/
+  - title: Papa to Mama no Rusu ni Okute na Kareshi-kun o Wagaya ni Shoutai Shitemita
+      Kekka | I invited my shy boyfriend to my house while my parents were away
+    cover: /covers/646111.jpg
+    rating: 4.9
+    date: '2026-04-27'
+    code: 646111
+    url: /works/646111/
   - title: Houchiko Hirotte LesSe Suru
     cover: /covers/646967.jpg
     rating: 4.2

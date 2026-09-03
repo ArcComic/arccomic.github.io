@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "mosaic censorship"
-work_count: 98
+work_count: 112
 works:
   - title: Yuri no o saifu ni shite agemasu ne, Senpai | I'll turn you into Yuri's wallet,
       Senpai
@@ -11,6 +11,13 @@ works:
     date: '2026-07-17'
     code: 289523
     url: /works/289523/
+  - title: Love Divided Between a Rock and a Hard Place Ch.1
+    author: cabin
+    cover: /covers/342540.jpg
+    rating: 4.4
+    date: '2026-04-23'
+    code: 342540
+    url: /works/342540/
   - title: Saikin, Musuko no Yousu ga Hen nan desu | Lately my son has been acting Strangly
     author: matsumoto-jikyuuryoku
     cover: /covers/342639.jpg
@@ -58,6 +65,13 @@ works:
     date: '2026-07-16'
     code: 434993
     url: /works/434993/
+  - title: Akumu 4 ~Saitei na Kokuhaku~ | Nightmare 4 ~ Lowest Confession ~
+    author: minazuki-mikka
+    cover: /covers/435832.jpg
+    rating: 4.2
+    date: '2026-04-23'
+    code: 435832
+    url: /works/435832/
   - title: Kanojo no Kawaii Mieppari | My Cute Gyaru Girlfriend Is a Total Poser
     author: buta
     cover: /covers/441114.jpg
@@ -72,6 +86,14 @@ works:
     date: '2026-08-24'
     code: 444152
     url: /works/444152/
+  - title: What would happen if you said "Let's have sex." while your teacher was scolding
+      you?
+    author: chotto-b-sen
+    cover: /covers/463298.jpg
+    rating: 4.6
+    date: '2026-04-25'
+    code: 463298
+    url: /works/463298/
   - title: Niizuma Joushi wa Buka no Chinpo de Do-M Ochi
     author: chinpan
     cover: /covers/464371.jpg
@@ -166,6 +188,13 @@ works:
     date: '2026-08-18'
     code: 521812
     url: /works/521812/
+  - title: Tsugunai Tsuma 1
+    author: ren-suru
+    cover: /covers/526024.jpg
+    rating: 4.5
+    date: '2026-04-23'
+    code: 526024
+    url: /works/526024/
   - title: Shut-less
     author: mr-hokke
     cover: /covers/531966.jpg
@@ -196,6 +225,13 @@ works:
     date: '2026-07-17'
     code: 545823
     url: /works/545823/
+  - title: Ero Cos OL to Jiraikei Joshi ~Iki Nuresaseru Moto Kare no Amai Koshi Zukai~
+    author: unknown
+    cover: /covers/548852.jpg
+    rating: 4.3
+    date: '2026-04-23'
+    code: 548852
+    url: /works/548852/
   - title: Aka-chan Tsukuri no Yoshuu | Preview Lesson About Babymaking
     author: highlow
     cover: /covers/555216.jpg
@@ -203,6 +239,13 @@ works:
     date: '2026-07-09'
     code: 555216
     url: /works/555216/
+  - title: Boku no Kaa-chan | My Mom
+    author: cammy
+    cover: /covers/555792.jpg
+    rating: 4.1
+    date: '2026-04-25'
+    code: 555792
+    url: /works/555792/
   - title: Hayato-sensei no Mesu-ka Karute Daigaku-hen | Dr. Hayato's Feminization Medical
       Record ~University Edition~
     author: testame
@@ -211,6 +254,13 @@ works:
     date: '2026-08-31'
     code: 556767
     url: /works/556767/
+  - title: Ijiwaru Mama Tomo Taisaku | Countermeasures Against Bullying Mothers
+    author: chotto-b-sen
+    cover: /covers/561436.jpg
+    rating: 4.7
+    date: '2026-04-25'
+    code: 561436
+    url: /works/561436/
   - title: Walking back home in the winter with my childhood friend
     author: shimetsuki-tanki
     cover: /covers/565301.jpg
@@ -225,6 +275,13 @@ works:
     date: '2026-04-30'
     code: 566052
     url: /works/566052/
+  - title: Boku no Kaa-chan 2 | My Mom 2
+    author: cammy
+    cover: /covers/579339.jpg
+    rating: 4.9
+    date: '2026-04-25'
+    code: 579339
+    url: /works/579339/
   - title: Doukyuusei no Kyouiku Mama ni Hitomebore!
     author: chotto-b-sen
     cover: /covers/581704.jpg
@@ -247,6 +304,13 @@ works:
     date: '2026-05-10'
     code: 586634
     url: /works/586634/
+  - title: Sono Panty, Watashi no Nandakedo. | Those Panties They're Mine
+    author: chotto-b-sen
+    cover: /covers/593754.jpg
+    rating: 4.1
+    date: '2026-04-25'
+    code: 593754
+    url: /works/593754/
   - title: Kouen no Oji-san-tachi ni Moteasobaretai
     author: group
     cover: /covers/598010.jpg
@@ -330,6 +394,14 @@ works:
     date: '2026-07-09'
     code: 633938
     url: /works/633938/
+  - title: Boku ga Shiranakatta Mama to Jii-chan no Koto | Things I didn't Know Between
+      Mom And Grandpa
+    author: urakan
+    cover: /covers/640543.jpg
+    rating: 4.0
+    date: '2026-04-23'
+    code: 640543
+    url: /works/640543/
   - title: Akogare no Hito wa Mou Owari!
     author: orange-mimosa
     cover: /covers/642584.jpg
@@ -372,6 +444,37 @@ works:
     date: '2026-08-25'
     code: 643933
     url: /works/643933/
+  - title: Doutei Daisuki Jogakusei-chan, Zetsurin Doutei ni Haiboku suru -One More!-
+      | The Virgin-Killer Girl is Defeated by the Insatiable Virgin ―One More!―
+    author: macaron-sugar
+    cover: /covers/645521.jpg
+    rating: 4.6
+    date: '2026-04-23'
+    code: 645521
+    url: /works/645521/
+  - title: Ikenie no Haha 2
+    author: group
+    cover: /covers/645676.jpg
+    rating: 4.1
+    date: '2026-04-23'
+    code: 645676
+    url: /works/645676/
+  - title: Tsuma no Tame ni Tameta Kozukuri Seishi o Gimai no JK Manko ni Nagashikondeshimatta
+      Boku.
+    author: junsei-chuurenpoutou
+    cover: /covers/645908.jpg
+    rating: 4.2
+    date: '2026-04-25'
+    code: 645908
+    url: /works/645908/
+  - title: Mujikaku na Osananajimi to Kyoumi Honi de Yatte Mitara | What Happens When
+      You Sleep With Your Oblivious Childhood Friend Just Out of Curiosity Part 1
+    author: gen
+    cover: /covers/646385.jpg
+    rating: 4.9
+    date: '2026-04-27'
+    code: 646385
+    url: /works/646385/
   - title: Natsu ga Owaru made Natsu no Owari Kanketsuhen
     author: mon-petit
     cover: /covers/646969.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "very long hair"
-work_count: 20
+work_count: 21
 works:
   - title: Koi no Susumekata | How to Advance Your Love
     author: danimaru
@@ -31,6 +31,13 @@ works:
     date: '2026-05-10'
     code: 598156
     url: /works/598156/
+  - title: Oji Saimin Soushuuhen | Hypnotized Uncle Compilation Edition
+    author: tokomaya-keita
+    cover: /covers/645612.jpg
+    rating: 5.0
+    date: '2026-04-24'
+    code: 645612
+    url: /works/645612/
   - title: Mama no Saikon Aite wa Papakatsu no Papa | Mom's new husband is my sugar
       daddy
     author: shiro-marimo

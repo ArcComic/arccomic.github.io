@@ -1,8 +1,16 @@
 ---
 layout: tag
 tag_name: "netorase"
-work_count: 11
+work_count: 12
 works:
+  - title: Boku no Netorase Seiheki ni Tsukiatte kureru Kanojo | A Girlfriend Who Plays
+      Along with My Cuckold Fetish
+    author: terasu-mc
+    cover: /covers/441036.jpg
+    rating: 4.8
+    date: '2026-04-25'
+    code: 441036
+    url: /works/441036/
   - title: The wife's unfaithful copulation picture album
     author: allegro
     cover: /covers/578583.jpg

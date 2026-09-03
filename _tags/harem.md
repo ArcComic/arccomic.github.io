@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "harem"
-work_count: 11
+work_count: 12
 works:
   - title: Dansei ga Kyokutan ni Sukunai Kono Sekai de wa, Seishi wa Kichou na Shigen
       desu. Sono 2 | In a World Where Men Are Scarce, Sperm Is a Precious Resource 2
@@ -19,6 +19,14 @@ works:
     date: '2026-08-20'
     code: 639463
     url: /works/639463/
+  - title: 'YariCir Shingakki ni Boku no Heya wa Minna no Tamariba (Omake Ver.) - Fuck
+      Club: New Term! My Room''s A Hangout Spot For Everyone'
+    author: purumetal
+    cover: /covers/645507.jpg
+    rating: 4.2
+    date: '2026-04-23'
+    code: 645507
+    url: /works/645507/
   - title: M Ko
     author: takaku-tubby-shirono-mahiro
     cover: /covers/651489.jpg

@@ -1,8 +1,22 @@
 ---
 layout: tag
 tag_name: "cunnilingus"
-work_count: 56
+work_count: 66
 works:
+  - title: Love Approach
+    author: hanafuda-sakurano
+    cover: /covers/158990.jpg
+    rating: 4.7
+    date: '2026-04-27'
+    code: 158990
+    url: /works/158990/
+  - title: Maid no Oshigoto. II | Maid's Work II
+    author: alexi-laiho
+    cover: /covers/296282.jpg
+    rating: 5.0
+    date: '2026-04-23'
+    code: 296282
+    url: /works/296282/
   - title: Gekkoutou no Yume - Nyotaika Douwa ~Danshi Kinsei no Tou~
     author: mugen-no-sudadokei
     cover: /covers/387365.jpg
@@ -54,6 +68,22 @@ works:
     date: '2026-05-01'
     code: 508534
     url: /works/508534/
+  - title: Sukinashi Onna Joshi, Irerarechuu. ~ Iji demo Zecchou o Mitomenai Taikyuu
+      SEX 1 | Fucking My Boss Who Is Never Off Her Guard - Even When She Cums, She Will
+      Never Admit It 1
+    author: nanakusa-amane
+    cover: /covers/509071.jpg
+    rating: 4.2
+    date: '2026-04-23'
+    code: 509071
+    url: /works/509071/
+  - title: Hatsutaiken no Susume | Recommendation for the First Time Experience
+    author: mojarin
+    cover: /covers/532651.jpg
+    rating: 4.0
+    date: '2026-04-27'
+    code: 532651
+    url: /works/532651/
   - title: '"Sex no Benkyou Shiyokka?" Kareshi ga Iru no ni Itoko kara Shojo wo Ubaware
       Zecchou Shidou 1-5 | Let''s Learn About Sex: Your Cousin Will Take Your Virginity
       and Teach You How to Come 1-5'
@@ -78,6 +108,13 @@ works:
     date: '2026-04-30'
     code: 555849
     url: /works/555849/
+  - title: Nanami-chan can’t resist after a date! Cafe, Cinema, Love hotel~
+    author: a2me
+    cover: /covers/579819.jpg
+    rating: 4.7
+    date: '2026-04-25'
+    code: 579819
+    url: /works/579819/
   - title: Kyoya, My Childhood Friend Rapes Me In My Dream...
     author: danimaru
     cover: /covers/587827.jpg
@@ -93,6 +130,15 @@ works:
     date: '2026-08-29'
     code: 589969
     url: /works/589969/
+  - title: Torohame "100-kai Iku made Hanasanai" Hajimete no Portio Kiss... Kizetsu
+      suru made Renzoku Nou Iki | TOROHAME ~First Time Portio Kiss... Consecutive Braingasm
+      Until You Faint~
+    author: yamamoto-tomomitsu
+    cover: /covers/593112.jpg
+    rating: 4.3
+    date: '2026-04-25'
+    code: 593112
+    url: /works/593112/
   - title: Yuujin no Haha wa Dekachin ni Yowai | My Friend's Mom is Weak to a Huge Cock
     author: shimofuri
     cover: /covers/593575.jpg
@@ -100,6 +146,13 @@ works:
     date: '2026-08-21'
     code: 593575
     url: /works/593575/
+  - title: Sono Panty, Watashi no Nandakedo. | Those Panties They're Mine
+    author: chotto-b-sen
+    cover: /covers/593754.jpg
+    rating: 4.1
+    date: '2026-04-25'
+    code: 593754
+    url: /works/593754/
   - title: Hitoban Tomete yo, Otaku-kun | Let Me Stay For the Night, Otaku-kun
     author: danimaru
     cover: /covers/606166.jpg
@@ -154,6 +207,30 @@ works:
     date: '2026-05-03'
     code: 644810
     url: /works/644810/
+  - title: Oji Saimin Soushuuhen | Hypnotized Uncle Compilation Edition
+    author: tokomaya-keita
+    cover: /covers/645612.jpg
+    rating: 5.0
+    date: '2026-04-24'
+    code: 645612
+    url: /works/645612/
+  - title: Kounai de Ichiban Kawaikute Ichiban Oppai ga Dekakute Ichiban Okazu ni Sareteru
+      Ichiban Sukebe na Etou-san - Eto-san is the cutest, has the biggest tits, is the
+      most masturbatory target, and is the most naughty in the school. | 在校內最可愛、胸部最大、最常被當做性幻想對象、最淫蕩的江藤同學
+    author: kuba-yodomu
+    cover: /covers/645649.jpg
+    rating: 4.1
+    date: '2026-04-23'
+    code: 645649
+    url: /works/645649/
+  - title: Onanie Daisuki Honoka-chan wa Katekyo Chinpo o Benkyou Shitai! | Professional
+      Shliker Honoka-san Wanna Study Up On Her Tutor's Cock!
+    author: henreader
+    cover: /covers/645677.jpg
+    rating: 4.9
+    date: '2026-04-25'
+    code: 645677
+    url: /works/645677/
   - title: Sex Between Gloomy Types is the Hottest, Ain't It?
     author: doji-ro
     cover: /covers/646757.jpg

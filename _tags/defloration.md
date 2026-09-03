@@ -1,8 +1,22 @@
 ---
 layout: tag
 tag_name: "defloration"
-work_count: 74
+work_count: 87
 works:
+  - title: Love Approach
+    author: hanafuda-sakurano
+    cover: /covers/158990.jpg
+    rating: 4.7
+    date: '2026-04-27'
+    code: 158990
+    url: /works/158990/
+  - title: Sensei wa Shougakusei ga Suki | Sensei Loves Elementary Schoolers
+    author: fuyuno-mikan
+    cover: /covers/289094.jpg
+    rating: 4.4
+    date: '2026-04-25'
+    code: 289094
+    url: /works/289094/
   - title: Onee-chan ga Ecchi na Koto bakka Suru kara... | My older sister only does
       obscene things...
     author: danimaru
@@ -107,6 +121,13 @@ works:
     date: '2026-05-01'
     code: 508534
     url: /works/508534/
+  - title: Hatsutaiken no Susume | Recommendation for the First Time Experience
+    author: mojarin
+    cover: /covers/532651.jpg
+    rating: 4.0
+    date: '2026-04-27'
+    code: 532651
+    url: /works/532651/
   - title: '"Sex no Benkyou Shiyokka?" Kareshi ga Iru no ni Itoko kara Shojo wo Ubaware
       Zecchou Shidou 1-5 | Let''s Learn About Sex: Your Cousin Will Take Your Virginity
       and Teach You How to Come 1-5'
@@ -156,6 +177,14 @@ works:
     date: '2026-07-07'
     code: 583391
     url: /works/583391/
+  - title: 'Moto Mahou Shoujo no Shigoto Hanashi Ao Zenjitsutan | Former Magical Girl
+      Blue''s Work: The Prequel'
+    author: zhen-lu
+    cover: /covers/584579.jpg
+    rating: 4.3
+    date: '2026-04-23'
+    code: 584579
+    url: /works/584579/
   - title: Ore ga Hoshikatta Mono wa Kin Medal Yori Namami Onaho Datta no Kamoshirenai｜Maybe
       what I Wanted was a Flesh and Blood Masturbator Rather than a Gold Medal
     author: carburetor
@@ -178,6 +207,14 @@ works:
     date: '2026-05-01'
     code: 591112
     url: /works/591112/
+  - title: Cool na Niizuma to no Shinkon Seikatsu wa Amari ni mo... Yarashikatta  |
+      Our Kinky Newlywed Life Vol. 1-3
+    author: nanakusa-amane
+    cover: /covers/603122.jpg
+    rating: 4.6
+    date: '2026-04-23'
+    code: 603122
+    url: /works/603122/
   - title: Ahondara, koi. | Foolish Love
     author: chicken
     cover: /covers/608677.jpg
@@ -185,6 +222,13 @@ works:
     date: '2026-04-27'
     code: 608677
     url: /works/608677/
+  - title: Zenin Mukuwarenai Harem | A Harem Where No One Is Reciprocated
+    author: group
+    cover: /covers/610041.jpg
+    rating: 4.0
+    date: '2026-04-23'
+    code: 610041
+    url: /works/610041/
   - title: Metamorphosis
     author: shindol
     cover: /covers/616358.jpg
@@ -242,6 +286,58 @@ works:
     date: '2026-05-03'
     code: 644810
     url: /works/644810/
+  - title: Oji Saimin Soushuuhen | Hypnotized Uncle Compilation Edition
+    author: tokomaya-keita
+    cover: /covers/645612.jpg
+    rating: 5.0
+    date: '2026-04-24'
+    code: 645612
+    url: /works/645612/
+  - title: Onanie Daisuki Honoka-chan wa Katekyo Chinpo o Benkyou Shitai! | Professional
+      Shliker Honoka-san Wanna Study Up On Her Tutor's Cock!
+    author: henreader
+    cover: /covers/645677.jpg
+    rating: 4.9
+    date: '2026-04-25'
+    code: 645677
+    url: /works/645677/
+  - title: Akumu Revenge 2 | Nightmare Revenge 2
+    author: coupe
+    cover: /covers/645884.jpg
+    rating: 4.7
+    date: '2026-04-25'
+    code: 645884
+    url: /works/645884/
+  - title: Otonari no Downer Oyako ni Shiboritorareru Hanashi
+    author: gamogamo
+    cover: /covers/645896.jpg
+    rating: 4.3
+    date: '2026-04-25'
+    code: 645896
+    url: /works/645896/
+  - title: Otonari no Downer Oyako ni Shiboritorareru Hanashi
+    author: gamogamo
+    cover: /covers/646017.jpg
+    rating: 4.4
+    date: '2026-04-27'
+    code: 646017
+    url: /works/646017/
+  - title: Papa to Mama no Rusu ni Okute na Kareshi-kun o Wagaya ni Shoutai Shitemita
+      Kekka | I invited my shy boyfriend to my house while my parents were away
+    author: unknown
+    cover: /covers/646111.jpg
+    rating: 4.9
+    date: '2026-04-27'
+    code: 646111
+    url: /works/646111/
+  - title: Mujikaku na Osananajimi to Kyoumi Honi de Yatte Mitara | What Happens When
+      You Sleep With Your Oblivious Childhood Friend Just Out of Curiosity Part 1
+    author: gen
+    cover: /covers/646385.jpg
+    rating: 4.9
+    date: '2026-04-27'
+    code: 646385
+    url: /works/646385/
   - title: Sex Between Gloomy Types is the Hottest, Ain't It?
     author: doji-ro
     cover: /covers/646757.jpg

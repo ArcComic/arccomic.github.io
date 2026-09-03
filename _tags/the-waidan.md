@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "the waidan"
-work_count: 5
+work_count: 7
 works:
   - title: Taido mo Karada mo Zenbu deka I Segawa-san no Gachi koi Taisho ni Narimashita
       | I’ve Become The Target of His Affection!
@@ -11,6 +11,21 @@ works:
     date: '2026-05-03'
     code: 534823
     url: /works/534823/
+  - title: Kaisha de majimena Shizuno-san wa ie de otoko o katterurashii | Seems The
+      Serious Office Worker Shizuno Keeps A Pet Guy At Home
+    author: yuzuha
+    cover: /covers/632188.jpg
+    rating: 4.5
+    date: '2026-04-25'
+    code: 632188
+    url: /works/632188/
+  - title: Because Ura Wants To Be More Than "Just An Acquaintance"
+    author: the-waidan
+    cover: /covers/642793.jpg
+    rating: 4.6
+    date: '2026-04-27'
+    code: 642793
+    url: /works/642793/
   - title: You're My Doggy... Right? ~Pamper Loving Boyfriend Becomes A Wild Sadist
       Hound~
     author: the-waidan

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "dark skinned female"
-work_count: 5
+work_count: 6
 works:
   - title: Boku no Toshiue no Tomodachi | My Older Friend
     author: buta
@@ -17,6 +17,13 @@ works:
     date: '2026-08-23'
     code: 639772
     url: /works/639772/
+  - title: Inaka ja Kore ga Joushiki dakara! | This Is Just How Things Are in the Countryside!
+    author: chilt
+    cover: /covers/646146.jpg
+    rating: 4.1
+    date: '2026-04-27'
+    code: 646146
+    url: /works/646146/
   - title: The Story Of Being Used For Sexual Release By My Annoying Childhood Friend
       And Cousin's Pussy
     author: karube-guri

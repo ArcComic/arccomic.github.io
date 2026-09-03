@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "full censorship"
-work_count: 34
+work_count: 37
 works:
   - title: Life with Married Women Just Like a Manga 2 - Ch. 1-5
     author: hidemaru
@@ -59,6 +59,23 @@ works:
     date: '2026-04-27'
     code: 507681
     url: /works/507681/
+  - title: Inemuri-chou no Onna Joushi ni Kossori Sounyuu ( ※ Netafuri Shinagara Ittemashita)
+      1-3 | Stealthily Fucking My Dozing Boss (She Came While Pretending to Sleep) 1-3
+    author: nanakusa-amane
+    cover: /covers/509049.jpg
+    rating: 4.1
+    date: '2026-04-23'
+    code: 509049
+    url: /works/509049/
+  - title: Sukinashi Onna Joshi, Irerarechuu. ~ Iji demo Zecchou o Mitomenai Taikyuu
+      SEX 1 | Fucking My Boss Who Is Never Off Her Guard - Even When She Cums, She Will
+      Never Admit It 1
+    author: nanakusa-amane
+    cover: /covers/509071.jpg
+    rating: 4.2
+    date: '2026-04-23'
+    code: 509071
+    url: /works/509071/
   - title: Netori Ai SEX - Chara Otoko no Hentai Massage Osananajimi no Nettori Aibu
       1 | N.T.R. Sex Wars - Playboy's Depraved Massage VS. Childhood Friend's Sensual
       Touch 1
@@ -148,6 +165,13 @@ works:
     date: '2026-08-18'
     code: 619648
     url: /works/619648/
+  - title: How I, a fighting gamer, became the heroine of a cosplay AV
+    author: unknown
+    cover: /covers/645566.jpg
+    rating: 4.3
+    date: '2026-04-24'
+    code: 645566
+    url: /works/645566/
   - title: Sankaku comic vol. 3 Ayano
     author: mko
     cover: /covers/652836.jpg

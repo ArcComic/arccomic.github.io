@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "maid"
-work_count: 5
+work_count: 9
 works:
+  - title: Maid no Oshigoto. II | Maid's Work II
+    author: alexi-laiho
+    cover: /covers/296282.jpg
+    rating: 5.0
+    date: '2026-04-23'
+    code: 296282
+    url: /works/296282/
   - title: Obedience Part 1
     author: laliberte
     cover: /covers/501709.jpg
@@ -10,6 +17,13 @@ works:
     date: '2026-07-11'
     code: 501709
     url: /works/501709/
+  - title: Ero Cos OL to Jiraikei Joshi ~Iki Nuresaseru Moto Kare no Amai Koshi Zukai~
+    author: unknown
+    cover: /covers/548852.jpg
+    rating: 4.3
+    date: '2026-04-23'
+    code: 548852
+    url: /works/548852/
   - title: Mesu no Ie II ~Tsuma wa Midare Ubareru~
     author: ame-arare
     cover: /covers/591112.jpg
@@ -17,6 +31,21 @@ works:
     date: '2026-05-01'
     code: 591112
     url: /works/591112/
+  - title: Cool na Niizuma to no Shinkon Seikatsu wa Amari ni mo... Yarashikatta  |
+      Our Kinky Newlywed Life Vol. 1-3
+    author: nanakusa-amane
+    cover: /covers/603122.jpg
+    rating: 4.6
+    date: '2026-04-23'
+    code: 603122
+    url: /works/603122/
+  - title: Oji Saimin Soushuuhen | Hypnotized Uncle Compilation Edition
+    author: tokomaya-keita
+    cover: /covers/645612.jpg
+    rating: 5.0
+    date: '2026-04-24'
+    code: 645612
+    url: /works/645612/
   - title: Kimi ga Haramu made Genkai Toppa Sex | Limit Breaking Sex until you're Pregnant
     author: yoshio-ereki-toneridan
     cover: /covers/651499.jpg

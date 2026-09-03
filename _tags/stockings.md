@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "stockings"
-work_count: 69
+work_count: 79
 works:
   - title: HUNDRED GAME Ch. 1-3
     author: kuon-michiyoshi
@@ -18,6 +18,13 @@ works:
     date: '2026-07-17'
     code: 289523
     url: /works/289523/
+  - title: Maid no Oshigoto. II | Maid's Work II
+    author: alexi-laiho
+    cover: /covers/296282.jpg
+    rating: 5.0
+    date: '2026-04-23'
+    code: 296282
+    url: /works/296282/
   - title: Itomusubi Vol. 2
     author: bekotarou
     cover: /covers/311755.jpg
@@ -39,6 +46,13 @@ works:
     date: '2026-08-20'
     code: 332781
     url: /works/332781/
+  - title: Love Divided Between a Rock and a Hard Place Ch.1
+    author: cabin
+    cover: /covers/342540.jpg
+    rating: 4.4
+    date: '2026-04-23'
+    code: 342540
+    url: /works/342540/
   - title: Ashizeme Kanojo _0 | girlfriend who likes to torture with her feet _0
     author: kaoinshou-zero
     cover: /covers/430672.jpg
@@ -46,6 +60,14 @@ works:
     date: '2026-07-17'
     code: 430672
     url: /works/430672/
+  - title: Itabasami na Wakachi Ai 4 | Love Divided Between a Rock and a Hard Place
+      4
+    author: group
+    cover: /covers/448503.jpg
+    rating: 5.0
+    date: '2026-04-23'
+    code: 448503
+    url: /works/448503/
   - title: Obedience Part 1
     author: laliberte
     cover: /covers/501709.jpg
@@ -60,6 +82,14 @@ works:
     date: '2026-04-27'
     code: 503556
     url: /works/503556/
+  - title: Moto Mahou Shoujo no Hikikomori Seikatsu | The NEET Life of a Former Magical
+      Girl
+    author: zhen-lu
+    cover: /covers/506303.jpg
+    rating: 4.4
+    date: '2026-04-23'
+    code: 506303
+    url: /works/506303/
   - title: Bitch Mama no Kekkon Riyuu
     author: aoyama-akira
     cover: /covers/512473.jpg
@@ -89,6 +119,13 @@ works:
     date: '2026-07-17'
     code: 545823
     url: /works/545823/
+  - title: Ero Cos OL to Jiraikei Joshi ~Iki Nuresaseru Moto Kare no Amai Koshi Zukai~
+    author: unknown
+    cover: /covers/548852.jpg
+    rating: 4.3
+    date: '2026-04-23'
+    code: 548852
+    url: /works/548852/
   - title: Uwa, Mesugaki Tsuyoi! | Crap, This Mesugaki's Too Powerful!
     author: poncocchan
     cover: /covers/550359.jpg
@@ -96,6 +133,22 @@ works:
     date: '2026-08-31'
     code: 550359
     url: /works/550359/
+  - title: Ojou-sama Sodachi no Namaiki Celeb Zuma o Kitanai Ossan Chinpo de Wakaraseru
+      | Cocky Rich Bitch Glam-Wife Gets Taught A Lesson With Dirty Old Man Dick
+    author: chinpan
+    cover: /covers/559088.jpg
+    rating: 4.6
+    date: '2026-04-25'
+    code: 559088
+    url: /works/559088/
+  - title: Ossan Kirai no Hitozuma Kyoushi ga Nikubenki ni Ochiru Hanashi | Story About
+      an Old Man Hating Married Teacher Falling Into Being a Meat Toilet
+    author: chinpan
+    cover: /covers/562615.jpg
+    rating: 4.5
+    date: '2026-04-25'
+    code: 562615
+    url: /works/562615/
   - title: Tawawa de Akarui Yakyuubu Manager ga Inshitsu na Kyoushi no Wana ni... Kanketsuhen
     author: ohkura-kazuya
     cover: /covers/566052.jpg
@@ -103,6 +156,14 @@ works:
     date: '2026-04-30'
     code: 566052
     url: /works/566052/
+  - title: 'Moto Mahou Shoujo no Shigoto Hanashi Ao Zenjitsutan | Former Magical Girl
+      Blue''s Work: The Prequel'
+    author: zhen-lu
+    cover: /covers/584579.jpg
+    rating: 4.3
+    date: '2026-04-23'
+    code: 584579
+    url: /works/584579/
   - title: Ore ga Hoshikatta Mono wa Kin Medal Yori Namami Onaho Datta no Kamoshirenai｜Maybe
       what I Wanted was a Flesh and Blood Masturbator Rather than a Gold Medal
     author: carburetor
@@ -118,6 +179,13 @@ works:
     date: '2026-08-22'
     code: 586316
     url: /works/586316/
+  - title: Zutto Akogare datta Dokyuusei no Mama to Yareta Hanashi Kuronuri ver
+    author: chinpan
+    cover: /covers/593677.jpg
+    rating: 4.3
+    date: '2026-04-25'
+    code: 593677
+    url: /works/593677/
   - title: Otoko no Ko otodokeshimasu! ~Itsumo kuru Haitatsuin-san ga masaka no Otoko
       no Ko dattakedo mayowazu hameta~
     author: mitsujirou
@@ -176,6 +244,14 @@ works:
     date: '2026-04-27'
     code: 643592
     url: /works/643592/
+  - title: Doutei Daisuki Jogakusei-chan, Zetsurin Doutei ni Haiboku suru -One More!-
+      | The Virgin-Killer Girl is Defeated by the Insatiable Virgin ―One More!―
+    author: macaron-sugar
+    cover: /covers/645521.jpg
+    rating: 4.6
+    date: '2026-04-23'
+    code: 645521
+    url: /works/645521/
   - title: 'Library Girlfriend: Descent into Depravity'
     author: ame-arare
     cover: /covers/647334.jpg

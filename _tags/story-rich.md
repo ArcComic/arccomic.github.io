@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "story rich"
-work_count: 2
+work_count: 3
 works:
+  - title: Zenin Mukuwarenai Harem | A Harem Where No One Is Reciprocated
+    author: group
+    cover: /covers/610041.jpg
+    rating: 4.0
+    date: '2026-04-23'
+    code: 610041
+    url: /works/610041/
   - title: Metamorphosis
     author: shindol
     cover: /covers/616358.jpg

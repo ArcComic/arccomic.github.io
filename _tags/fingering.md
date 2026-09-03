@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "fingering"
-work_count: 63
+work_count: 72
 works:
   - title: Gekkoutou no Yume - Nyotaika Douwa ~Danshi Kinsei no Tou~
     author: mugen-no-sudadokei
@@ -46,6 +46,14 @@ works:
     date: '2026-05-01'
     code: 508534
     url: /works/508534/
+  - title: Inemuri-chou no Onna Joushi ni Kossori Sounyuu ( ※ Netafuri Shinagara Ittemashita)
+      1-3 | Stealthily Fucking My Dozing Boss (She Came While Pretending to Sleep) 1-3
+    author: nanakusa-amane
+    cover: /covers/509049.jpg
+    rating: 4.1
+    date: '2026-04-23'
+    code: 509049
+    url: /works/509049/
   - title: Netori Ai SEX - Chara Otoko no Hentai Massage Osananajimi no Nettori Aibu
       1 | N.T.R. Sex Wars - Playboy's Depraved Massage VS. Childhood Friend's Sensual
       Touch 1
@@ -119,6 +127,13 @@ works:
     date: '2026-08-29'
     code: 544324
     url: /works/544324/
+  - title: Ero Cos OL to Jiraikei Joshi ~Iki Nuresaseru Moto Kare no Amai Koshi Zukai~
+    author: unknown
+    cover: /covers/548852.jpg
+    rating: 4.3
+    date: '2026-04-23'
+    code: 548852
+    url: /works/548852/
   - title: Nakayoku no Yu e Youkoso Ch. 2 & 3
     author: enomoto-heights
     cover: /covers/555849.jpg
@@ -126,6 +141,13 @@ works:
     date: '2026-04-30'
     code: 555849
     url: /works/555849/
+  - title: Ikemen Douki ni Otosareru Hanashi~ Ikitakunaoni Kyousei Zecchou?!
+    author: hoshina-mimiwo
+    cover: /covers/560643.jpg
+    rating: 4.8
+    date: '2026-04-25'
+    code: 560643
+    url: /works/560643/
   - title: Ore ga Hoshikatta Mono wa Kin Medal Yori Namami Onaho Datta no Kamoshirenai｜Maybe
       what I Wanted was a Flesh and Blood Masturbator Rather than a Gold Medal
     author: carburetor
@@ -156,6 +178,15 @@ works:
     date: '2026-05-01'
     code: 591112
     url: /works/591112/
+  - title: Torohame "100-kai Iku made Hanasanai" Hajimete no Portio Kiss... Kizetsu
+      suru made Renzoku Nou Iki | TOROHAME ~First Time Portio Kiss... Consecutive Braingasm
+      Until You Faint~
+    author: yamamoto-tomomitsu
+    cover: /covers/593112.jpg
+    rating: 4.3
+    date: '2026-04-25'
+    code: 593112
+    url: /works/593112/
   - title: Houkai Kazoku 2 -Hahaoya ga Yakuza to no Sex ni Hamatta Hanashi- | Broken
       Family 2 - The story of a mother who got hooked on sex with the Yakuza
     author: watsondou
@@ -171,6 +202,14 @@ works:
     date: '2026-05-10'
     code: 598156
     url: /works/598156/
+  - title: Cool na Niizuma to no Shinkon Seikatsu wa Amari ni mo... Yarashikatta  |
+      Our Kinky Newlywed Life Vol. 1-3
+    author: nanakusa-amane
+    cover: /covers/603122.jpg
+    rating: 4.6
+    date: '2026-04-23'
+    code: 603122
+    url: /works/603122/
   - title: Hitoban Tomete yo, Otaku-kun | Let Me Stay For the Night, Otaku-kun
     author: danimaru
     cover: /covers/606166.jpg
@@ -215,6 +254,14 @@ works:
     date: '2026-04-27'
     code: 619405
     url: /works/619405/
+  - title: Succubus Seitokai Shiko Shiko Shikkoubu 3 | Succubus Student Council Milking
+      Club 3
+    author: michiking
+    cover: /covers/628865.jpg
+    rating: 4.1
+    date: '2026-04-23'
+    code: 628865
+    url: /works/628865/
   - title: Onsen Haitte tara Joseito-tachi ga Osotte Kita | My Students Jumped Me When
       I Got in the Hot Spring
     author: hamo
@@ -237,6 +284,13 @@ works:
     date: '2026-08-23'
     code: 639772
     url: /works/639772/
+  - title: Because Ura Wants To Be More Than "Just An Acquaintance"
+    author: the-waidan
+    cover: /covers/642793.jpg
+    rating: 4.6
+    date: '2026-04-27'
+    code: 642793
+    url: /works/642793/
   - title: Delusion story book
     author: madarame-rin
     cover: /covers/644810.jpg
@@ -244,6 +298,21 @@ works:
     date: '2026-05-03'
     code: 644810
     url: /works/644810/
+  - title: Oji Saimin Soushuuhen | Hypnotized Uncle Compilation Edition
+    author: tokomaya-keita
+    cover: /covers/645612.jpg
+    rating: 5.0
+    date: '2026-04-24'
+    code: 645612
+    url: /works/645612/
+  - title: Mujikaku na Osananajimi to Kyoumi Honi de Yatte Mitara | What Happens When
+      You Sleep With Your Oblivious Childhood Friend Just Out of Curiosity Part 1
+    author: gen
+    cover: /covers/646385.jpg
+    rating: 4.9
+    date: '2026-04-27'
+    code: 646385
+    url: /works/646385/
   - title: Riho NTR ~Ordered By My Husband to Get Fucked By His Colleague~
     author: yamamoto-tomomitsu
     cover: /covers/647620.jpg

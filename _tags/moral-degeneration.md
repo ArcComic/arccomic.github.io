@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "moral degeneration"
-work_count: 16
+work_count: 18
 works:
   - title: Beit Saki no Majime na Kouhai ga... | A Serious Part-Time Kouhai
     author: kusayarou
@@ -48,6 +48,20 @@ works:
     date: '2026-08-29'
     code: 634450
     url: /works/634450/
+  - title: Ikenie no Haha 2
+    author: group
+    cover: /covers/645676.jpg
+    rating: 4.1
+    date: '2026-04-23'
+    code: 645676
+    url: /works/645676/
+  - title: Inaka ja Kore ga Joushiki dakara! | This Is Just How Things Are in the Countryside!
+    author: chilt
+    cover: /covers/646146.jpg
+    rating: 4.1
+    date: '2026-04-27'
+    code: 646146
+    url: /works/646146/
   - title: Netorareta Kanojo ga Joou-sama ni natte Kaettekita ~Ruined de Kintama o Kara
       ni sarete Zenritsusen o Ijirarete Nandomo Nandomo Mesuikishite Choukyou sareru
       Ohanashi~

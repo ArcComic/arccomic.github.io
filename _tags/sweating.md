@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sweating"
-work_count: 53
+work_count: 57
 works:
   - title: Adoration
     author: kishizuka-kenji
@@ -32,6 +32,14 @@ works:
     date: '2026-05-05'
     code: 419017
     url: /works/419017/
+  - title: What would happen if you said "Let's have sex." while your teacher was scolding
+      you?
+    author: chotto-b-sen
+    cover: /covers/463298.jpg
+    rating: 4.6
+    date: '2026-04-25'
+    code: 463298
+    url: /works/463298/
   - title: Konoe no Kyuujitsu | Konoe's Day Off
     author: alp
     cover: /covers/479447.jpg
@@ -69,6 +77,14 @@ works:
     date: '2026-07-16'
     code: 555816
     url: /works/555816/
+  - title: Ossan Kirai no Hitozuma Kyoushi ga Nikubenki ni Ochiru Hanashi | Story About
+      an Old Man Hating Married Teacher Falling Into Being a Meat Toilet
+    author: chinpan
+    cover: /covers/562615.jpg
+    rating: 4.5
+    date: '2026-04-25'
+    code: 562615
+    url: /works/562615/
   - title: Otoko no Ko otodokeshimasu! ~Itsumo kuru Haitatsuin-san ga masaka no Otoko
       no Ko dattakedo mayowazu hameta~
     author: mitsujirou
@@ -108,6 +124,13 @@ works:
     date: '2026-07-13'
     code: 639514
     url: /works/639514/
+  - title: Because Ura Wants To Be More Than "Just An Acquaintance"
+    author: the-waidan
+    cover: /covers/642793.jpg
+    rating: 4.6
+    date: '2026-04-27'
+    code: 642793
+    url: /works/642793/
   - title: Delusion story book
     author: madarame-rin
     cover: /covers/644810.jpg
@@ -115,6 +138,15 @@ works:
     date: '2026-05-03'
     code: 644810
     url: /works/644810/
+  - title: Kounai de Ichiban Kawaikute Ichiban Oppai ga Dekakute Ichiban Okazu ni Sareteru
+      Ichiban Sukebe na Etou-san - Eto-san is the cutest, has the biggest tits, is the
+      most masturbatory target, and is the most naughty in the school. | 在校內最可愛、胸部最大、最常被當做性幻想對象、最淫蕩的江藤同學
+    author: kuba-yodomu
+    cover: /covers/645649.jpg
+    rating: 4.1
+    date: '2026-04-23'
+    code: 645649
+    url: /works/645649/
   - title: Okaa-san ni wa Kore Gurai shika Dekinai kara... 2 | For Mom the Only Option
       Left is... 2
     author: muchipan

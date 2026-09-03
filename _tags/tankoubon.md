@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "tankoubon"
-work_count: 25
+work_count: 27
 works:
   - title: CHOCO x LOVE
     author: highlow
@@ -24,6 +24,13 @@ works:
     date: '2026-07-08'
     code: 50476
     url: /works/50476/
+  - title: Ero Cos OL to Jiraikei Joshi ~Iki Nuresaseru Moto Kare no Amai Koshi Zukai~
+    author: unknown
+    cover: /covers/548852.jpg
+    rating: 4.3
+    date: '2026-04-23'
+    code: 548852
+    url: /works/548852/
   - title: Igumox - Muramata-san no Himitsu & Aijou - Muramata-san's Secret & Affection
       COMPLETE
     author: igumox
@@ -32,6 +39,15 @@ works:
     date: '2026-05-26'
     code: 624573
     url: /works/624573/
+  - title: Kounai de Ichiban Kawaikute Ichiban Oppai ga Dekakute Ichiban Okazu ni Sareteru
+      Ichiban Sukebe na Etou-san - Eto-san is the cutest, has the biggest tits, is the
+      most masturbatory target, and is the most naughty in the school. | 在校內最可愛、胸部最大、最常被當做性幻想對象、最淫蕩的江藤同學
+    author: kuba-yodomu
+    cover: /covers/645649.jpg
+    rating: 4.1
+    date: '2026-04-23'
+    code: 645649
+    url: /works/645649/
   - title: Sex Between Gloomy Types is the Hottest, Ain't It?
     author: doji-ro
     cover: /covers/646757.jpg

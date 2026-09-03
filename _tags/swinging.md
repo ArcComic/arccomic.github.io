@@ -1,8 +1,16 @@
 ---
 layout: tag
 tag_name: "swinging"
-work_count: 6
+work_count: 7
 works:
+  - title: Boku no Netorase Seiheki ni Tsukiatte kureru Kanojo | A Girlfriend Who Plays
+      Along with My Cuckold Fetish
+    author: terasu-mc
+    cover: /covers/441036.jpg
+    rating: 4.8
+    date: '2026-04-25'
+    code: 441036
+    url: /works/441036/
   - title: Fuufu Koukan Matching Appli ~DQN na Hitozuma ni Nakadashi Houshi~
     author: hachi-mega
     cover: /covers/613739.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "incest"
-work_count: 107
+work_count: 116
 works:
   - title: Onee-chan ga Ecchi na Koto bakka Suru kara... | My older sister only does
       obscene things...
@@ -18,6 +18,13 @@ works:
     date: '2026-08-24'
     code: 342639
     url: /works/342639/
+  - title: LOOK LIKE
+    author: terasu-mc
+    cover: /covers/388099.jpg
+    rating: 4.5
+    date: '2026-04-25'
+    code: 388099
+    url: /works/388099/
   - title: Imouto no Nukumori | A Little Sister's warmth
     author: kinomoto-anzu
     cover: /covers/407959.jpg
@@ -149,6 +156,13 @@ works:
     date: '2026-07-09'
     code: 555216
     url: /works/555216/
+  - title: Boku no Kaa-chan | My Mom
+    author: cammy
+    cover: /covers/555792.jpg
+    rating: 4.1
+    date: '2026-04-25'
+    code: 555792
+    url: /works/555792/
   - title: Boshi Soukan Senmon-shi "Suteki na Okaa-san" Vol. 3
     author: kaiko
     cover: /covers/558039.jpg
@@ -179,6 +193,13 @@ works:
     date: '2026-05-05'
     code: 578147
     url: /works/578147/
+  - title: Boku no Kaa-chan 2 | My Mom 2
+    author: cammy
+    cover: /covers/579339.jpg
+    rating: 4.9
+    date: '2026-04-25'
+    code: 579339
+    url: /works/579339/
   - title: Mesu no Ie II ~Tsuma wa Midare Ubareru~
     author: ame-arare
     cover: /covers/591112.jpg
@@ -193,6 +214,20 @@ works:
     date: '2026-08-25'
     code: 592307
     url: /works/592307/
+  - title: Sinful Lust 4
+    author: zetto
+    cover: /covers/593064.jpg
+    rating: 4.5
+    date: '2026-04-23'
+    code: 593064
+    url: /works/593064/
+  - title: Zutto Akogare datta Dokyuusei no Mama to Yareta Hanashi Kuronuri ver
+    author: chinpan
+    cover: /covers/593677.jpg
+    rating: 4.3
+    date: '2026-04-25'
+    code: 593677
+    url: /works/593677/
   - title: Nagachichi Haha no Naedoko
     author: ginen
     cover: /covers/595108.jpg
@@ -260,6 +295,14 @@ works:
     date: '2026-08-25'
     code: 637131
     url: /works/637131/
+  - title: Boku ga Shiranakatta Mama to Jii-chan no Koto | Things I didn't Know Between
+      Mom And Grandpa
+    author: urakan
+    cover: /covers/640543.jpg
+    rating: 4.0
+    date: '2026-04-23'
+    code: 640543
+    url: /works/640543/
   - title: Anta, Nandetatten no?
     author: daidai-shikibu
     cover: /covers/642770.jpg
@@ -281,6 +324,29 @@ works:
     date: '2026-08-25'
     code: 643933
     url: /works/643933/
+  - title: Oji Saimin Soushuuhen | Hypnotized Uncle Compilation Edition
+    author: tokomaya-keita
+    cover: /covers/645612.jpg
+    rating: 5.0
+    date: '2026-04-24'
+    code: 645612
+    url: /works/645612/
+  - title: 'Moto Mahou Shoujo no Kazoku Banashi Tsuki 2 | Former Magical Girl''s Family
+      Story: Tsuki 2'
+    author: zhen-lu
+    cover: /covers/645646.jpg
+    rating: 4.1
+    date: '2026-04-23'
+    code: 645646
+    url: /works/645646/
+  - title: Tsuma no Tame ni Tameta Kozukuri Seishi o Gimai no JK Manko ni Nagashikondeshimatta
+      Boku.
+    author: junsei-chuurenpoutou
+    cover: /covers/645908.jpg
+    rating: 4.2
+    date: '2026-04-25'
+    code: 645908
+    url: /works/645908/
   - title: Okaa-san ni wa Kore Gurai shika Dekinai kara... 2 | For Mom the Only Option
       Left is... 2
     author: muchipan

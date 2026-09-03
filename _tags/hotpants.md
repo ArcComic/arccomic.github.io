@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "hotpants"
-work_count: 7
+work_count: 8
 works:
   - title: Uwa, Mesugaki Tsuyoi! | Crap, This Mesugaki's Too Powerful!
     author: poncocchan
@@ -33,6 +33,14 @@ works:
     date: '2026-07-10'
     code: 633278
     url: /works/633278/
+  - title: Mujikaku na Osananajimi to Kyoumi Honi de Yatte Mitara | What Happens When
+      You Sleep With Your Oblivious Childhood Friend Just Out of Curiosity Part 1
+    author: gen
+    cover: /covers/646385.jpg
+    rating: 4.9
+    date: '2026-04-27'
+    code: 646385
+    url: /works/646385/
   - title: Natsu Loli Ism Ch. 1-4
     author: molokonomi-hiraya-nobori
     cover: /covers/663056.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "pixie cut"
-work_count: 24
+work_count: 26
 works:
   - title: Doushia (Terasu MC)] Dorei Gazoku
     author: terasu-mc
@@ -60,6 +60,13 @@ works:
     date: '2026-08-22'
     code: 586316
     url: /works/586316/
+  - title: Sono Panty, Watashi no Nandakedo. | Those Panties They're Mine
+    author: chotto-b-sen
+    cover: /covers/593754.jpg
+    rating: 4.1
+    date: '2026-04-25'
+    code: 593754
+    url: /works/593754/
   - title: Akogare no Hito wa Mou Owari! 3
     author: group
     cover: /covers/642586.jpg
@@ -67,6 +74,13 @@ works:
     date: '2026-08-24'
     code: 642586
     url: /works/642586/
+  - title: Inaka ja Kore ga Joushiki dakara! | This Is Just How Things Are in the Countryside!
+    author: chilt
+    cover: /covers/646146.jpg
+    rating: 4.1
+    date: '2026-04-27'
+    code: 646146
+    url: /works/646146/
   - title: Riho NTR ~Ordered By My Husband to Get Fucked By His Colleague~
     author: yamamoto-tomomitsu
     cover: /covers/647620.jpg

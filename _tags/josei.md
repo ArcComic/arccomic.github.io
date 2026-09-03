@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "josei"
-work_count: 8
+work_count: 11
 works:
   - title: Onozomi deshitara Saimin wo ~Maki-san Himitsu no Renai Therapy~ | If you
       wish, hypnosis ~Maki-san's secret love therapy~
@@ -26,6 +26,30 @@ works:
     date: '2026-04-27'
     code: 587827
     url: /works/587827/
+  - title: Torohame "100-kai Iku made Hanasanai" Hajimete no Portio Kiss... Kizetsu
+      suru made Renzoku Nou Iki | TOROHAME ~First Time Portio Kiss... Consecutive Braingasm
+      Until You Faint~
+    author: yamamoto-tomomitsu
+    cover: /covers/593112.jpg
+    rating: 4.3
+    date: '2026-04-25'
+    code: 593112
+    url: /works/593112/
+  - title: Kaisha de majimena Shizuno-san wa ie de otoko o katterurashii | Seems The
+      Serious Office Worker Shizuno Keeps A Pet Guy At Home
+    author: yuzuha
+    cover: /covers/632188.jpg
+    rating: 4.5
+    date: '2026-04-25'
+    code: 632188
+    url: /works/632188/
+  - title: Because Ura Wants To Be More Than "Just An Acquaintance"
+    author: the-waidan
+    cover: /covers/642793.jpg
+    rating: 4.6
+    date: '2026-04-27'
+    code: 642793
+    url: /works/642793/
   - title: Delusion story book
     author: madarame-rin
     cover: /covers/644810.jpg

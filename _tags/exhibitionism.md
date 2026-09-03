@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "exhibitionism"
-work_count: 27
+work_count: 32
 works:
   - title: Ame no Hi wa, Honnori Chikubi
     author: hoshi-to-lucky
@@ -17,6 +17,13 @@ works:
     date: '2026-08-28'
     code: 520363
     url: /works/520363/
+  - title: Boku no Kaa-chan | My Mom
+    author: cammy
+    cover: /covers/555792.jpg
+    rating: 4.1
+    date: '2026-04-25'
+    code: 555792
+    url: /works/555792/
   - title: Pashiri no Shita Teku, Yabaitte... ~ Ebi Sori Iki Suru Namaiki Gyaru | Bullied
       Boy's Tongue Revenge Vol.1-4
     author: takayamanon
@@ -40,6 +47,14 @@ works:
     date: '2026-05-20'
     code: 600237
     url: /works/600237/
+  - title: Cool na Niizuma to no Shinkon Seikatsu wa Amari ni mo... Yarashikatta  |
+      Our Kinky Newlywed Life Vol. 1-3
+    author: nanakusa-amane
+    cover: /covers/603122.jpg
+    rating: 4.6
+    date: '2026-04-23'
+    code: 603122
+    url: /works/603122/
   - title: Tomodachi ga Tsuretekita Oba-san 1
     author: exit-up
     cover: /covers/615538.jpg
@@ -62,6 +77,29 @@ works:
     date: '2026-07-13'
     code: 639514
     url: /works/639514/
+  - title: Oji Saimin Soushuuhen | Hypnotized Uncle Compilation Edition
+    author: tokomaya-keita
+    cover: /covers/645612.jpg
+    rating: 5.0
+    date: '2026-04-24'
+    code: 645612
+    url: /works/645612/
+  - title: Kounai de Ichiban Kawaikute Ichiban Oppai ga Dekakute Ichiban Okazu ni Sareteru
+      Ichiban Sukebe na Etou-san - Eto-san is the cutest, has the biggest tits, is the
+      most masturbatory target, and is the most naughty in the school. | 在校內最可愛、胸部最大、最常被當做性幻想對象、最淫蕩的江藤同學
+    author: kuba-yodomu
+    cover: /covers/645649.jpg
+    rating: 4.1
+    date: '2026-04-23'
+    code: 645649
+    url: /works/645649/
+  - title: Inaka ja Kore ga Joushiki dakara! | This Is Just How Things Are in the Countryside!
+    author: chilt
+    cover: /covers/646146.jpg
+    rating: 4.1
+    date: '2026-04-27'
+    code: 646146
+    url: /works/646146/
   - title: Netorareta Kanojo ga Joou-sama ni natte Kaettekita ~Ruined de Kintama o Kara
       ni sarete Zenritsusen o Ijirarete Nandomo Nandomo Mesuikishite Choukyou sareru
       Ohanashi~

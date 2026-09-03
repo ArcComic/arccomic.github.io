@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "huge breasts"
-work_count: 31
+work_count: 33
 works:
+  - title: LOOK LIKE
+    author: terasu-mc
+    cover: /covers/388099.jpg
+    rating: 4.5
+    date: '2026-04-25'
+    code: 388099
+    url: /works/388099/
   - title: Ane no Tomodachi to SeFri ni Natta | My Big Sister's Friends And I Became
       Sex Friends
     author: rinrikoko
@@ -32,6 +39,13 @@ works:
     date: '2026-08-25'
     code: 592307
     url: /works/592307/
+  - title: Zutto Akogare datta Dokyuusei no Mama to Yareta Hanashi Kuronuri ver
+    author: chinpan
+    cover: /covers/593677.jpg
+    rating: 4.3
+    date: '2026-04-25'
+    code: 593677
+    url: /works/593677/
   - title: Ottori Itome no Oba o Odoshite Hamete Iinari Onaho-ka Keikaku | Gentle Slit-Eyed
       Aunty Blackmail & Obedient Fuckhole Training Project
     author: ginen

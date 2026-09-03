@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "manga"
-work_count: 114
+work_count: 127
 works:
   - title: Adoration
     author: kishizuka-kenji
@@ -31,6 +31,20 @@ works:
     date: '2026-08-19'
     code: 142561
     url: /works/142561/
+  - title: Love Approach
+    author: hanafuda-sakurano
+    cover: /covers/158990.jpg
+    rating: 4.7
+    date: '2026-04-27'
+    code: 158990
+    url: /works/158990/
+  - title: Sensei wa Shougakusei ga Suki | Sensei Loves Elementary Schoolers
+    author: fuyuno-mikan
+    cover: /covers/289094.jpg
+    rating: 4.4
+    date: '2026-04-25'
+    code: 289094
+    url: /works/289094/
   - title: CHOCO x LOVE
     author: highlow
     cover: /covers/317673.jpg
@@ -45,6 +59,13 @@ works:
     date: '2026-08-20'
     code: 332781
     url: /works/332781/
+  - title: Love Divided Between a Rock and a Hard Place Ch.1
+    author: cabin
+    cover: /covers/342540.jpg
+    rating: 4.4
+    date: '2026-04-23'
+    code: 342540
+    url: /works/342540/
   - title: Kanojo Face | Girlfriend Face
     author: mashiro-shirako
     cover: /covers/346126.jpg
@@ -139,6 +160,23 @@ works:
     date: '2026-04-27'
     code: 507681
     url: /works/507681/
+  - title: Inemuri-chou no Onna Joushi ni Kossori Sounyuu ( ※ Netafuri Shinagara Ittemashita)
+      1-3 | Stealthily Fucking My Dozing Boss (She Came While Pretending to Sleep) 1-3
+    author: nanakusa-amane
+    cover: /covers/509049.jpg
+    rating: 4.1
+    date: '2026-04-23'
+    code: 509049
+    url: /works/509049/
+  - title: Sukinashi Onna Joshi, Irerarechuu. ~ Iji demo Zecchou o Mitomenai Taikyuu
+      SEX 1 | Fucking My Boss Who Is Never Off Her Guard - Even When She Cums, She Will
+      Never Admit It 1
+    author: nanakusa-amane
+    cover: /covers/509071.jpg
+    rating: 4.2
+    date: '2026-04-23'
+    code: 509071
+    url: /works/509071/
   - title: Netori Ai SEX - Chara Otoko no Hentai Massage Osananajimi no Nettori Aibu
       1 | N.T.R. Sex Wars - Playboy's Depraved Massage VS. Childhood Friend's Sensual
       Touch 1
@@ -218,6 +256,13 @@ works:
     date: '2026-08-23'
     code: 531967
     url: /works/531967/
+  - title: Hatsutaiken no Susume | Recommendation for the First Time Experience
+    author: mojarin
+    cover: /covers/532651.jpg
+    rating: 4.0
+    date: '2026-04-27'
+    code: 532651
+    url: /works/532651/
   - title: '"Sex no Benkyou Shiyokka?" Kareshi ga Iru no ni Itoko kara Shojo wo Ubaware
       Zecchou Shidou 1-5 | Let''s Learn About Sex: Your Cousin Will Take Your Virginity
       and Teach You How to Come 1-5'
@@ -251,6 +296,13 @@ works:
     date: '2026-08-29'
     code: 544324
     url: /works/544324/
+  - title: Ero Cos OL to Jiraikei Joshi ~Iki Nuresaseru Moto Kare no Amai Koshi Zukai~
+    author: unknown
+    cover: /covers/548852.jpg
+    rating: 4.3
+    date: '2026-04-23'
+    code: 548852
+    url: /works/548852/
   - title: Aka-chan Tsukuri no Yoshuu | Preview Lesson About Babymaking
     author: highlow
     cover: /covers/555216.jpg
@@ -279,6 +331,13 @@ works:
     date: '2026-04-27'
     code: 576910
     url: /works/576910/
+  - title: Nanami-chan can’t resist after a date! Cafe, Cinema, Love hotel~
+    author: a2me
+    cover: /covers/579819.jpg
+    rating: 4.7
+    date: '2026-04-25'
+    code: 579819
+    url: /works/579819/
   - title: Himitsu Koueki + Kake
     author: tsukumo-nikyu
     cover: /covers/586316.jpg
@@ -294,6 +353,21 @@ works:
     date: '2026-08-29'
     code: 589969
     url: /works/589969/
+  - title: Motokano-tachi to Ya Re Naoshi!? CHAPTER 2
+    author: shinonome-ryu
+    cover: /covers/598175.jpg
+    rating: 4.5
+    date: '2026-04-23'
+    code: 598175
+    url: /works/598175/
+  - title: Cool na Niizuma to no Shinkon Seikatsu wa Amari ni mo... Yarashikatta  |
+      Our Kinky Newlywed Life Vol. 1-3
+    author: nanakusa-amane
+    cover: /covers/603122.jpg
+    rating: 4.6
+    date: '2026-04-23'
+    code: 603122
+    url: /works/603122/
   - title: Ahondara, koi. | Foolish Love
     author: chicken
     cover: /covers/608677.jpg
@@ -360,6 +434,29 @@ works:
     date: '2026-08-23'
     code: 639772
     url: /works/639772/
+  - title: Itome-san wa Kyun Shita Toki dake Kaigan Suru Vol. 1-8
+    author: nanakusa-amane
+    cover: /covers/644276.jpg
+    rating: 4.5
+    date: '2026-04-23'
+    code: 644276
+    url: /works/644276/
+  - title: Kounai de Ichiban Kawaikute Ichiban Oppai ga Dekakute Ichiban Okazu ni Sareteru
+      Ichiban Sukebe na Etou-san - Eto-san is the cutest, has the biggest tits, is the
+      most masturbatory target, and is the most naughty in the school. | 在校內最可愛、胸部最大、最常被當做性幻想對象、最淫蕩的江藤同學
+    author: kuba-yodomu
+    cover: /covers/645649.jpg
+    rating: 4.1
+    date: '2026-04-23'
+    code: 645649
+    url: /works/645649/
+  - title: Akumu Revenge 2 | Nightmare Revenge 2
+    author: coupe
+    cover: /covers/645884.jpg
+    rating: 4.7
+    date: '2026-04-25'
+    code: 645884
+    url: /works/645884/
   - title: Sex Between Gloomy Types is the Hottest, Ain't It?
     author: doji-ro
     cover: /covers/646757.jpg

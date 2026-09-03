@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "widow"
-work_count: 4
+work_count: 7
 works:
+  - title: LOOK LIKE
+    author: terasu-mc
+    cover: /covers/388099.jpg
+    rating: 4.5
+    date: '2026-04-25'
+    code: 388099
+    url: /works/388099/
   - title: TomoKano Kaa-chan II ~Jitaku, Musuko no Tomodachi ni Ochita Natsu~ | My Mom
       Is My Friend's Girlfriend 2
     author: tarobaumu
@@ -18,6 +25,20 @@ works:
     date: '2026-08-24'
     code: 444152
     url: /works/444152/
+  - title: Boku no Kaa-chan | My Mom
+    author: cammy
+    cover: /covers/555792.jpg
+    rating: 4.1
+    date: '2026-04-25'
+    code: 555792
+    url: /works/555792/
+  - title: Boku no Kaa-chan 2 | My Mom 2
+    author: cammy
+    cover: /covers/579339.jpg
+    rating: 4.9
+    date: '2026-04-25'
+    code: 579339
+    url: /works/579339/
   - title: Gibo o , Densha de ... | My Stepmother on The Train...
     author: gonza
     cover: /covers/652801.jpg

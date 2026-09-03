@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "mmf threesome"
-work_count: 14
+work_count: 17
 works:
   - title: Bocchi de Shinda Ore ga Bishoujo Nurse ni Natta Hanashi | The Story of How
       I Died Alone and Became a Sexy Nurse
@@ -18,6 +18,14 @@ works:
     date: '2026-08-25'
     code: 512473
     url: /works/512473/
+  - title: Ossan Kirai no Hitozuma Kyoushi ga Nikubenki ni Ochiru Hanashi | Story About
+      an Old Man Hating Married Teacher Falling Into Being a Meat Toilet
+    author: chinpan
+    cover: /covers/562615.jpg
+    rating: 4.5
+    date: '2026-04-25'
+    code: 562615
+    url: /works/562615/
   - title: Wakazuma Arijigoku
     author: sunagawa-tara
     cover: /covers/595788.jpg
@@ -39,6 +47,21 @@ works:
     date: '2026-08-24'
     code: 642586
     url: /works/642586/
+  - title: Succubus Seitokai Shiko Shiko Shikkoubu 2 NOA ver. | Succubus Student Council
+      Milking Club 2 Version NOA
+    author: michiking
+    cover: /covers/645520.jpg
+    rating: 4.8
+    date: '2026-04-23'
+    code: 645520
+    url: /works/645520/
+  - title: Ikenie no Haha 2
+    author: group
+    cover: /covers/645676.jpg
+    rating: 4.1
+    date: '2026-04-23'
+    code: 645676
+    url: /works/645676/
   - title: Onna Tomodachi no Uwaki Kokuhaku 2 | My Friend Confessed to Cheating 2
     author: dekamatsu
     cover: /covers/647270.jpg

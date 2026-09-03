@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "cheating"
-work_count: 117
+work_count: 127
 works:
   - title: Life with Married Women Just Like a Manga 2 - Ch. 1-5
     author: hidemaru
@@ -126,6 +126,21 @@ works:
     date: '2026-07-16'
     code: 434993
     url: /works/434993/
+  - title: Akumu 4 ~Saitei na Kokuhaku~ | Nightmare 4 ~ Lowest Confession ~
+    author: minazuki-mikka
+    cover: /covers/435832.jpg
+    rating: 4.2
+    date: '2026-04-23'
+    code: 435832
+    url: /works/435832/
+  - title: What would happen if you said "Let's have sex." while your teacher was scolding
+      you?
+    author: chotto-b-sen
+    cover: /covers/463298.jpg
+    rating: 4.6
+    date: '2026-04-25'
+    code: 463298
+    url: /works/463298/
   - title: Asunama 9
     author: ken-1
     cover: /covers/477784.jpg
@@ -216,6 +231,13 @@ works:
     date: '2026-08-18'
     code: 521812
     url: /works/521812/
+  - title: Tsugunai Tsuma 1
+    author: ren-suru
+    cover: /covers/526024.jpg
+    rating: 4.5
+    date: '2026-04-23'
+    code: 526024
+    url: /works/526024/
   - title: Rossia kei Hitozuma to Doutei kun no Himitsu no Kankei
     author: kibi-anmitsu
     cover: /covers/530293.jpg
@@ -307,6 +329,14 @@ works:
     date: '2026-05-07'
     code: 557052
     url: /works/557052/
+  - title: Ojou-sama Sodachi no Namaiki Celeb Zuma o Kitanai Ossan Chinpo de Wakaraseru
+      | Cocky Rich Bitch Glam-Wife Gets Taught A Lesson With Dirty Old Man Dick
+    author: chinpan
+    cover: /covers/559088.jpg
+    rating: 4.6
+    date: '2026-04-25'
+    code: 559088
+    url: /works/559088/
   - title: Iiwa Watashi no Karada Suki ni Shite Ch.1-2
     author: shunjou-shuusuke
     cover: /covers/561787.jpg
@@ -314,6 +344,14 @@ works:
     date: '2026-07-16'
     code: 561787
     url: /works/561787/
+  - title: Ossan Kirai no Hitozuma Kyoushi ga Nikubenki ni Ochiru Hanashi | Story About
+      an Old Man Hating Married Teacher Falling Into Being a Meat Toilet
+    author: chinpan
+    cover: /covers/562615.jpg
+    rating: 4.5
+    date: '2026-04-25'
+    code: 562615
+    url: /works/562615/
   - title: Doukyuusei no Kyouiku Mama ni Hitomebore!
     author: chotto-b-sen
     cover: /covers/581704.jpg
@@ -357,6 +395,13 @@ works:
     date: '2026-05-01'
     code: 591112
     url: /works/591112/
+  - title: Sinful Lust 4
+    author: zetto
+    cover: /covers/593064.jpg
+    rating: 4.5
+    date: '2026-04-23'
+    code: 593064
+    url: /works/593064/
   - title: Yuujin no Haha wa Dekachin ni Yowai | My Friend's Mom is Weak to a Huge Cock
     author: shimofuri
     cover: /covers/593575.jpg
@@ -442,6 +487,14 @@ works:
     date: '2026-08-25'
     code: 637847
     url: /works/637847/
+  - title: Boku ga Shiranakatta Mama to Jii-chan no Koto | Things I didn't Know Between
+      Mom And Grandpa
+    author: urakan
+    cover: /covers/640543.jpg
+    rating: 4.0
+    date: '2026-04-23'
+    code: 640543
+    url: /works/640543/
   - title: Otokomasari na Kyonyuu Hitozuma Joushi to Amaama SeFri Kankei ni Natta Ken
     author: elica
     cover: /covers/641362.jpg
@@ -449,6 +502,30 @@ works:
     date: '2026-08-19'
     code: 641362
     url: /works/641362/
+  - title: 'YariCir Shingakki ni Boku no Heya wa Minna no Tamariba (Omake Ver.) - Fuck
+      Club: New Term! My Room''s A Hangout Spot For Everyone'
+    author: purumetal
+    cover: /covers/645507.jpg
+    rating: 4.2
+    date: '2026-04-23'
+    code: 645507
+    url: /works/645507/
+  - title: 'Moto Mahou Shoujo no Kazoku Banashi Tsuki 2 | Former Magical Girl''s Family
+      Story: Tsuki 2'
+    author: zhen-lu
+    cover: /covers/645646.jpg
+    rating: 4.1
+    date: '2026-04-23'
+    code: 645646
+    url: /works/645646/
+  - title: Tsuma no Tame ni Tameta Kozukuri Seishi o Gimai no JK Manko ni Nagashikondeshimatta
+      Boku.
+    author: junsei-chuurenpoutou
+    cover: /covers/645908.jpg
+    rating: 4.2
+    date: '2026-04-25'
+    code: 645908
+    url: /works/645908/
   - title: Okaa-san ni wa Kore Gurai shika Dekinai kara... 2 | For Mom the Only Option
       Left is... 2
     author: muchipan

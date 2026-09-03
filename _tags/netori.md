@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "netori"
-work_count: 6
+work_count: 7
 works:
   - title: Onee-chan ga Ecchi na Koto bakka Suru kara... | My older sister only does
       obscene things...
@@ -25,6 +25,13 @@ works:
     date: '2026-08-21'
     code: 593575
     url: /works/593575/
+  - title: Zenin Mukuwarenai Harem | A Harem Where No One Is Reciprocated
+    author: group
+    cover: /covers/610041.jpg
+    rating: 4.0
+    date: '2026-04-23'
+    code: 610041
+    url: /works/610041/
   - title: 'Taihai Tsuma: Taihaikei Hitotsuma o Yachin Kawari ni Koki Tsukaeru Hanashi
       | Slutty Wife!'
     author: kametaro

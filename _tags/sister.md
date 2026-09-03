@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sister"
-work_count: 30
+work_count: 32
 works:
   - title: Onee-chan ga Ecchi na Koto bakka Suru kara... | My older sister only does
       obscene things...
@@ -32,6 +32,13 @@ works:
     date: '2026-07-09'
     code: 555216
     url: /works/555216/
+  - title: Boku no Kaa-chan 2 | My Mom 2
+    author: cammy
+    cover: /covers/579339.jpg
+    rating: 4.9
+    date: '2026-04-25'
+    code: 579339
+    url: /works/579339/
   - title: Mesu no Ie II ~Tsuma wa Midare Ubareru~
     author: ame-arare
     cover: /covers/591112.jpg
@@ -75,6 +82,14 @@ works:
     date: '2026-08-24'
     code: 642585
     url: /works/642585/
+  - title: Tsuma no Tame ni Tameta Kozukuri Seishi o Gimai no JK Manko ni Nagashikondeshimatta
+      Boku.
+    author: junsei-chuurenpoutou
+    cover: /covers/645908.jpg
+    rating: 4.2
+    date: '2026-04-25'
+    code: 645908
+    url: /works/645908/
   - title: Kimagure Onee-chan 2 | Whimsical Onee-chan 2
     author: toushiki-yubune
     cover: /covers/647341.jpg

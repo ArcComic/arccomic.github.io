@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "niece"
-work_count: 8
+work_count: 9
 works:
   - title: Atashi ga Nuite Ageyo kka?
     author: malcorond
@@ -17,6 +17,13 @@ works:
     date: '2026-05-01'
     code: 591112
     url: /works/591112/
+  - title: Oji Saimin Soushuuhen | Hypnotized Uncle Compilation Edition
+    author: tokomaya-keita
+    cover: /covers/645612.jpg
+    rating: 5.0
+    date: '2026-04-24'
+    code: 645612
+    url: /works/645612/
   - title: Shinseki no Ko to Otokoyu Haittara Onnanoko datta *Jikotte Sounyuu
     author: unknown
     cover: /covers/664170.jpg

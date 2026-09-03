@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "masturbation"
-work_count: 42
+work_count: 45
 works:
   - title: Itomusubi Vol. 2
     author: bekotarou
@@ -85,6 +85,14 @@ works:
     date: '2026-07-13'
     code: 565301
     url: /works/565301/
+  - title: 'Moto Mahou Shoujo no Shigoto Hanashi Ao Zenjitsutan | Former Magical Girl
+      Blue''s Work: The Prequel'
+    author: zhen-lu
+    cover: /covers/584579.jpg
+    rating: 4.3
+    date: '2026-04-23'
+    code: 584579
+    url: /works/584579/
   - title: Madamada, Shitemitai. - I still want to try.
     author: danimaru
     cover: /covers/586028.jpg
@@ -128,6 +136,22 @@ works:
     date: '2026-05-05'
     code: 638218
     url: /works/638218/
+  - title: 'YariCir Shingakki ni Boku no Heya wa Minna no Tamariba (Omake Ver.) - Fuck
+      Club: New Term! My Room''s A Hangout Spot For Everyone'
+    author: purumetal
+    cover: /covers/645507.jpg
+    rating: 4.2
+    date: '2026-04-23'
+    code: 645507
+    url: /works/645507/
+  - title: Onanie Daisuki Honoka-chan wa Katekyo Chinpo o Benkyou Shitai! | Professional
+      Shliker Honoka-san Wanna Study Up On Her Tutor's Cock!
+    author: henreader
+    cover: /covers/645677.jpg
+    rating: 4.9
+    date: '2026-04-25'
+    code: 645677
+    url: /works/645677/
   - title: Venom Invasion VII 【Part 1】
     author: blackftos
     cover: /covers/647563.jpg

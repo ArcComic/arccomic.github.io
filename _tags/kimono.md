@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "kimono"
-work_count: 16
+work_count: 17
 works:
   - title: CHOCO x LOVE
     author: highlow
@@ -43,6 +43,14 @@ works:
     date: '2026-08-29'
     code: 589969
     url: /works/589969/
+  - title: Cool na Niizuma to no Shinkon Seikatsu wa Amari ni mo... Yarashikatta  |
+      Our Kinky Newlywed Life Vol. 1-3
+    author: nanakusa-amane
+    cover: /covers/603122.jpg
+    rating: 4.6
+    date: '2026-04-23'
+    code: 603122
+    url: /works/603122/
   - title: Nigate na Aitsu ni Benkyou o Oshieru Koto ni Natte... | I Ended Up Teaching
       That Guy I Hate...
     author: furaimai

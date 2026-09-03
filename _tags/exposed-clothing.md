@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "exposed clothing"
-work_count: 7
+work_count: 8
 works:
   - title: Asunama 9
     author: ken-1
@@ -10,6 +10,14 @@ works:
     date: '2026-07-17'
     code: 477784
     url: /works/477784/
+  - title: Ojou-sama Sodachi no Namaiki Celeb Zuma o Kitanai Ossan Chinpo de Wakaraseru
+      | Cocky Rich Bitch Glam-Wife Gets Taught A Lesson With Dirty Old Man Dick
+    author: chinpan
+    cover: /covers/559088.jpg
+    rating: 4.6
+    date: '2026-04-25'
+    code: 559088
+    url: /works/559088/
   - title: Oshiego no Gal o Kau
     author: mitsudoue
     cover: /covers/651197.jpg

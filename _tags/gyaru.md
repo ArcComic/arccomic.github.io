@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "gyaru"
-work_count: 38
+work_count: 40
 works:
   - title: CHOCO x LOVE
     author: highlow
@@ -52,6 +52,13 @@ works:
     date: '2026-08-25'
     code: 608648
     url: /works/608648/
+  - title: Zenin Mukuwarenai Harem | A Harem Where No One Is Reciprocated
+    author: group
+    cover: /covers/610041.jpg
+    rating: 4.0
+    date: '2026-04-23'
+    code: 610041
+    url: /works/610041/
   - title: Fuufu Koukan Matching Appli ~DQN na Hitozuma ni Nakadashi Houshi~
     author: hachi-mega
     cover: /covers/613739.jpg
@@ -89,6 +96,14 @@ works:
     date: '2026-08-23'
     code: 639772
     url: /works/639772/
+  - title: 'YariCir Shingakki ni Boku no Heya wa Minna no Tamariba (Omake Ver.) - Fuck
+      Club: New Term! My Room''s A Hangout Spot For Everyone'
+    author: purumetal
+    cover: /covers/645507.jpg
+    rating: 4.2
+    date: '2026-04-23'
+    code: 645507
+    url: /works/645507/
   - title: Otaku ni Yasashii Gal wa Aitsu no Kanojo | A Gal Who's Kind to Otaku Is That
       Guy's Girlfriend
     author: yamamoto

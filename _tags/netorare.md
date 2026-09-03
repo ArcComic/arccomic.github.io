@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "netorare"
-work_count: 141
+work_count: 155
 works:
   - title: Netorare Ibe Kiba Shizuka | The Netorare of Kiba Shizuka
     author: terasu-mc
@@ -24,6 +24,13 @@ works:
     date: '2026-05-10'
     code: 311755
     url: /works/311755/
+  - title: LOOK LIKE
+    author: terasu-mc
+    cover: /covers/388099.jpg
+    rating: 4.5
+    date: '2026-04-25'
+    code: 388099
+    url: /works/388099/
   - title: Yurikago
     author: neko-samurai
     cover: /covers/398305.jpg
@@ -70,6 +77,29 @@ works:
     date: '2026-07-16'
     code: 434993
     url: /works/434993/
+  - title: Akumu 4 ~Saitei na Kokuhaku~ | Nightmare 4 ~ Lowest Confession ~
+    author: minazuki-mikka
+    cover: /covers/435832.jpg
+    rating: 4.2
+    date: '2026-04-23'
+    code: 435832
+    url: /works/435832/
+  - title: Boku no Netorase Seiheki ni Tsukiatte kureru Kanojo | A Girlfriend Who Plays
+      Along with My Cuckold Fetish
+    author: terasu-mc
+    cover: /covers/441036.jpg
+    rating: 4.8
+    date: '2026-04-25'
+    code: 441036
+    url: /works/441036/
+  - title: Itabasami na Wakachi Ai 4 | Love Divided Between a Rock and a Hard Place
+      4
+    author: group
+    cover: /covers/448503.jpg
+    rating: 5.0
+    date: '2026-04-23'
+    code: 448503
+    url: /works/448503/
   - title: Niizuma Joushi wa Buka no Chinpo de Do-M Ochi
     author: chinpan
     cover: /covers/464371.jpg
@@ -163,6 +193,13 @@ works:
     date: '2026-08-18'
     code: 521812
     url: /works/521812/
+  - title: Tsugunai Tsuma 1
+    author: ren-suru
+    cover: /covers/526024.jpg
+    rating: 4.5
+    date: '2026-04-23'
+    code: 526024
+    url: /works/526024/
   - title: Netorareru.~ Tsuma ga Ochi Yuku Hen'ai Kairaku no Hate ni...1-5 | NETORARERU,
       A Wife's Descent Into Sinful Pleasures 1-5
     author: yuuki-ryo
@@ -276,6 +313,22 @@ works:
     date: '2026-08-20'
     code: 557452
     url: /works/557452/
+  - title: Ojou-sama Sodachi no Namaiki Celeb Zuma o Kitanai Ossan Chinpo de Wakaraseru
+      | Cocky Rich Bitch Glam-Wife Gets Taught A Lesson With Dirty Old Man Dick
+    author: chinpan
+    cover: /covers/559088.jpg
+    rating: 4.6
+    date: '2026-04-25'
+    code: 559088
+    url: /works/559088/
+  - title: Ossan Kirai no Hitozuma Kyoushi ga Nikubenki ni Ochiru Hanashi | Story About
+      an Old Man Hating Married Teacher Falling Into Being a Meat Toilet
+    author: chinpan
+    cover: /covers/562615.jpg
+    rating: 4.5
+    date: '2026-04-25'
+    code: 562615
+    url: /works/562615/
   - title: Tawawa de Akarui Yakyuubu Manager ga Inshitsu na Kyoushi no Wana ni... Kanketsuhen
     author: ohkura-kazuya
     cover: /covers/566052.jpg
@@ -298,6 +351,13 @@ works:
     date: '2026-08-20'
     code: 578583
     url: /works/578583/
+  - title: Boku no Kaa-chan 2 | My Mom 2
+    author: cammy
+    cover: /covers/579339.jpg
+    rating: 4.9
+    date: '2026-04-25'
+    code: 579339
+    url: /works/579339/
   - title: 'Anata to Watashi no Ayamachi ~Bangaihen Kairaku Ochi e no Ippo~ | Our Mistake
       ~Side Story: A Step Towards the Fall into Pleasure~'
     author: zionman
@@ -327,6 +387,13 @@ works:
     date: '2026-05-01'
     code: 591112
     url: /works/591112/
+  - title: Sinful Lust 4
+    author: zetto
+    cover: /covers/593064.jpg
+    rating: 4.5
+    date: '2026-04-23'
+    code: 593064
+    url: /works/593064/
   - title: Yuujin no Haha wa Dekachin ni Yowai | My Friend's Mom is Weak to a Huge Cock
     author: shimofuri
     cover: /covers/593575.jpg
@@ -334,6 +401,13 @@ works:
     date: '2026-08-21'
     code: 593575
     url: /works/593575/
+  - title: Zutto Akogare datta Dokyuusei no Mama to Yareta Hanashi Kuronuri ver
+    author: chinpan
+    cover: /covers/593677.jpg
+    rating: 4.3
+    date: '2026-04-25'
+    code: 593677
+    url: /works/593677/
   - title: Houkai Kazoku 2 -Hahaoya ga Yakuza to no Sex ni Hamatta Hanashi- | Broken
       Family 2 - The story of a mother who got hooked on sex with the Yakuza
     author: watsondou
@@ -458,6 +532,14 @@ works:
     date: '2026-05-05'
     code: 638218
     url: /works/638218/
+  - title: Boku ga Shiranakatta Mama to Jii-chan no Koto | Things I didn't Know Between
+      Mom And Grandpa
+    author: urakan
+    cover: /covers/640543.jpg
+    rating: 4.0
+    date: '2026-04-23'
+    code: 640543
+    url: /works/640543/
   - title: Akogare no Hito wa Mou Owari!
     author: orange-mimosa
     cover: /covers/642584.jpg
@@ -510,6 +592,29 @@ works:
     date: '2026-07-06'
     code: 644296
     url: /works/644296/
+  - title: 'Moto Mahou Shoujo no Kazoku Banashi Tsuki 2 | Former Magical Girl''s Family
+      Story: Tsuki 2'
+    author: zhen-lu
+    cover: /covers/645646.jpg
+    rating: 4.1
+    date: '2026-04-23'
+    code: 645646
+    url: /works/645646/
+  - title: Ikenie no Haha 2
+    author: group
+    cover: /covers/645676.jpg
+    rating: 4.1
+    date: '2026-04-23'
+    code: 645676
+    url: /works/645676/
+  - title: Tsuma no Tame ni Tameta Kozukuri Seishi o Gimai no JK Manko ni Nagashikondeshimatta
+      Boku.
+    author: junsei-chuurenpoutou
+    cover: /covers/645908.jpg
+    rating: 4.2
+    date: '2026-04-25'
+    code: 645908
+    url: /works/645908/
   - title: Natsu ga Owaru made Natsu no Owari Kanketsuhen
     author: mon-petit
     cover: /covers/646969.jpg

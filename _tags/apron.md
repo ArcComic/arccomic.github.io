@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "apron"
-work_count: 10
+work_count: 11
 works:
   - title: Life with Married Women Just Like a Manga 2 - Ch. 1-5
     author: hidemaru
@@ -53,6 +53,13 @@ works:
     date: '2026-08-18'
     code: 619648
     url: /works/619648/
+  - title: Ikenie no Haha 2
+    author: group
+    cover: /covers/645676.jpg
+    rating: 4.1
+    date: '2026-04-23'
+    code: 645676
+    url: /works/645676/
   - title: Okaa-san ni wa Kore Gurai shika Dekinai kara... 2 | For Mom the Only Option
       Left is... 2
     author: muchipan

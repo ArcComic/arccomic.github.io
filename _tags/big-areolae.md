@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big areolae"
-work_count: 34
+work_count: 36
 works:
   - title: Kanojo no Kawaii Mieppari | My Cute Gyaru Girlfriend Is a Total Poser
     author: buta
@@ -55,6 +55,14 @@ works:
     date: '2026-05-05'
     code: 553426
     url: /works/553426/
+  - title: 'Moto Mahou Shoujo no Shigoto Hanashi Ao Zenjitsutan | Former Magical Girl
+      Blue''s Work: The Prequel'
+    author: zhen-lu
+    cover: /covers/584579.jpg
+    rating: 4.3
+    date: '2026-04-23'
+    code: 584579
+    url: /works/584579/
   - title: Kyoushi to Mama to Koibito no Kao
     author: mifune-seijirou
     cover: /covers/592307.jpg
@@ -108,6 +116,13 @@ works:
     date: '2026-07-06'
     code: 644296
     url: /works/644296/
+  - title: Inaka ja Kore ga Joushiki dakara! | This Is Just How Things Are in the Countryside!
+    author: chilt
+    cover: /covers/646146.jpg
+    rating: 4.1
+    date: '2026-04-27'
+    code: 646146
+    url: /works/646146/
   - title: Okaa-san ni wa Kore Gurai shika Dekinai kara... 2 | For Mom the Only Option
       Left is... 2
     author: muchipan

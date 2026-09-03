@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "ahegao"
-work_count: 100
+work_count: 111
 works:
   - title: Yuri no o saifu ni shite agemasu ne, Senpai | I'll turn you into Yuri's wallet,
       Senpai
@@ -56,6 +56,14 @@ works:
     date: '2026-07-11'
     code: 501709
     url: /works/501709/
+  - title: Moto Mahou Shoujo no Hikikomori Seikatsu | The NEET Life of a Former Magical
+      Girl
+    author: zhen-lu
+    cover: /covers/506303.jpg
+    rating: 4.4
+    date: '2026-04-23'
+    code: 506303
+    url: /works/506303/
   - title: Little Blue Bird
     author: kidouchi-kon
     cover: /covers/508534.jpg
@@ -145,6 +153,29 @@ works:
     date: '2026-08-20'
     code: 557452
     url: /works/557452/
+  - title: Ojou-sama Sodachi no Namaiki Celeb Zuma o Kitanai Ossan Chinpo de Wakaraseru
+      | Cocky Rich Bitch Glam-Wife Gets Taught A Lesson With Dirty Old Man Dick
+    author: chinpan
+    cover: /covers/559088.jpg
+    rating: 4.6
+    date: '2026-04-25'
+    code: 559088
+    url: /works/559088/
+  - title: Ikemen Douki ni Otosareru Hanashi~ Ikitakunaoni Kyousei Zecchou?!
+    author: hoshina-mimiwo
+    cover: /covers/560643.jpg
+    rating: 4.8
+    date: '2026-04-25'
+    code: 560643
+    url: /works/560643/
+  - title: Ossan Kirai no Hitozuma Kyoushi ga Nikubenki ni Ochiru Hanashi | Story About
+      an Old Man Hating Married Teacher Falling Into Being a Meat Toilet
+    author: chinpan
+    cover: /covers/562615.jpg
+    rating: 4.5
+    date: '2026-04-25'
+    code: 562615
+    url: /works/562615/
   - title: Boku no Kaa-chan ga Hikikomori Neet Debu Aniki no Seishori Onaho ni Natteita
       Hanashi | My Mother is My Fat Shut-in Older NEET Brother's Sex Relief Onahole
     author: tarobaumu
@@ -153,6 +184,21 @@ works:
     date: '2026-05-05'
     code: 578147
     url: /works/578147/
+  - title: Nanami-chan can’t resist after a date! Cafe, Cinema, Love hotel~
+    author: a2me
+    cover: /covers/579819.jpg
+    rating: 4.7
+    date: '2026-04-25'
+    code: 579819
+    url: /works/579819/
+  - title: 'Moto Mahou Shoujo no Shigoto Hanashi Ao Zenjitsutan | Former Magical Girl
+      Blue''s Work: The Prequel'
+    author: zhen-lu
+    cover: /covers/584579.jpg
+    rating: 4.3
+    date: '2026-04-23'
+    code: 584579
+    url: /works/584579/
   - title: Mesu no Ie II ~Tsuma wa Midare Ubareru~
     author: ame-arare
     cover: /covers/591112.jpg
@@ -167,6 +213,13 @@ works:
     date: '2026-08-25'
     code: 592307
     url: /works/592307/
+  - title: Zutto Akogare datta Dokyuusei no Mama to Yareta Hanashi Kuronuri ver
+    author: chinpan
+    cover: /covers/593677.jpg
+    rating: 4.3
+    date: '2026-04-25'
+    code: 593677
+    url: /works/593677/
   - title: Houkai Kazoku 2 -Hahaoya ga Yakuza to no Sex ni Hamatta Hanashi- | Broken
       Family 2 - The story of a mother who got hooked on sex with the Yakuza
     author: watsondou
@@ -205,6 +258,14 @@ works:
     date: '2026-05-26'
     code: 624573
     url: /works/624573/
+  - title: Succubus Seitokai Shiko Shiko Shikkoubu 3 | Succubus Student Council Milking
+      Club 3
+    author: michiking
+    cover: /covers/628865.jpg
+    rating: 4.1
+    date: '2026-04-23'
+    code: 628865
+    url: /works/628865/
   - title: Boku no Toshiue no Tomodachi | My Older Friend
     author: buta
     cover: /covers/631036.jpg
@@ -236,6 +297,30 @@ works:
     date: '2026-08-20'
     code: 639463
     url: /works/639463/
+  - title: Doutei Daisuki Jogakusei-chan, Zetsurin Doutei ni Haiboku suru -One More!-
+      | The Virgin-Killer Girl is Defeated by the Insatiable Virgin ―One More!―
+    author: macaron-sugar
+    cover: /covers/645521.jpg
+    rating: 4.6
+    date: '2026-04-23'
+    code: 645521
+    url: /works/645521/
+  - title: Oji Saimin Soushuuhen | Hypnotized Uncle Compilation Edition
+    author: tokomaya-keita
+    cover: /covers/645612.jpg
+    rating: 5.0
+    date: '2026-04-24'
+    code: 645612
+    url: /works/645612/
+  - title: Kounai de Ichiban Kawaikute Ichiban Oppai ga Dekakute Ichiban Okazu ni Sareteru
+      Ichiban Sukebe na Etou-san - Eto-san is the cutest, has the biggest tits, is the
+      most masturbatory target, and is the most naughty in the school. | 在校內最可愛、胸部最大、最常被當做性幻想對象、最淫蕩的江藤同學
+    author: kuba-yodomu
+    cover: /covers/645649.jpg
+    rating: 4.1
+    date: '2026-04-23'
+    code: 645649
+    url: /works/645649/
   - title: Ura Aka Joshi no Jidori Ero Gosoushin | A Girl with a Secret-Account Accidentally
       Sends a Lewd Selfie
     author: group

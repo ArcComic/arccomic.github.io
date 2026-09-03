@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "feminization"
-work_count: 7
+work_count: 8
 works:
   - title: Mimikyu Myth 2
     author: meowwithme
@@ -32,6 +32,13 @@ works:
     date: '2026-08-31'
     code: 556767
     url: /works/556767/
+  - title: How I, a fighting gamer, became the heroine of a cosplay AV
+    author: unknown
+    cover: /covers/645566.jpg
+    rating: 4.3
+    date: '2026-04-24'
+    code: 645566
+    url: /works/645566/
   - title: Netorareta Kanojo ga Joou-sama ni natte Kaettekita ~Ruined de Kintama o Kara
       ni sarete Zenritsusen o Ijirarete Nandomo Nandomo Mesuikishite Choukyou sareru
       Ohanashi~

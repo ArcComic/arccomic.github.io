@@ -1,8 +1,16 @@
 ---
 layout: tag
 tag_name: "demon girl"
-work_count: 4
+work_count: 5
 works:
+  - title: Succubus Seitokai Shiko Shiko Shikkoubu 2 NOA ver. | Succubus Student Council
+      Milking Club 2 Version NOA
+    author: michiking
+    cover: /covers/645520.jpg
+    rating: 4.8
+    date: '2026-04-23'
+    code: 645520
+    url: /works/645520/
   - title: Cinderella Fit
     author: shirosuzu
     cover: /covers/661596.jpg

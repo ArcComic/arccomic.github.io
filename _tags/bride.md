@@ -1,8 +1,16 @@
 ---
 layout: tag
 tag_name: "bride"
-work_count: 3
+work_count: 4
 works:
+  - title: Cool na Niizuma to no Shinkon Seikatsu wa Amari ni mo... Yarashikatta  |
+      Our Kinky Newlywed Life Vol. 1-3
+    author: nanakusa-amane
+    cover: /covers/603122.jpg
+    rating: 4.6
+    date: '2026-04-23'
+    code: 603122
+    url: /works/603122/
   - title: Igumox - Muramata-san no Himitsu & Aijou - Muramata-san's Secret & Affection
       COMPLETE
     author: igumox

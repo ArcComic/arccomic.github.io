@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "breast expansion"
-work_count: 3
+work_count: 4
 works:
+  - title: How I, a fighting gamer, became the heroine of a cosplay AV
+    author: unknown
+    cover: /covers/645566.jpg
+    rating: 4.3
+    date: '2026-04-24'
+    code: 645566
+    url: /works/645566/
   - title: Kyonyuu no Tomodachi to Tsukiau made no Hanashi | Maybe We'll Start Dating
       Someday
     author: fuguta-ke

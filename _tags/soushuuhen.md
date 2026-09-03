@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "soushuuhen"
-work_count: 5
+work_count: 6
 works:
   - title: NTR Anniversary + ) [Syukurin] Mitsuha ~Netorare~ (Kimi no Na wa.) [English]
       [Colorized] by Mikaku
@@ -26,6 +26,13 @@ works:
     date: '2026-04-27'
     code: 643592
     url: /works/643592/
+  - title: Oji Saimin Soushuuhen | Hypnotized Uncle Compilation Edition
+    author: tokomaya-keita
+    cover: /covers/645612.jpg
+    rating: 5.0
+    date: '2026-04-24'
+    code: 645612
+    url: /works/645612/
   - title: Tonari no Ayane-san Soushuuhen | My Neighbor Ayane Anthology
     author: herio
     cover: /covers/656319.jpg

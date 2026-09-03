@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "old man"
-work_count: 16
+work_count: 21
 works:
   - title: Adoration
     author: kishizuka-kenji
@@ -10,6 +10,13 @@ works:
     date: '2026-05-04'
     code: 112455
     url: /works/112455/
+  - title: Akumu 4 ~Saitei na Kokuhaku~ | Nightmare 4 ~ Lowest Confession ~
+    author: minazuki-mikka
+    cover: /covers/435832.jpg
+    rating: 4.2
+    date: '2026-04-23'
+    code: 435832
+    url: /works/435832/
   - title: Minpaku ~Ojou-sama-tachi wa Minpaku Keieisha no Wana ni Ochiru~ | Sleeping
       in the Bed and Breakfast - Young ladies fall into the trap of a private lodging
       manager
@@ -26,6 +33,14 @@ works:
     date: '2026-07-10'
     code: 550164
     url: /works/550164/
+  - title: Ojou-sama Sodachi no Namaiki Celeb Zuma o Kitanai Ossan Chinpo de Wakaraseru
+      | Cocky Rich Bitch Glam-Wife Gets Taught A Lesson With Dirty Old Man Dick
+    author: chinpan
+    cover: /covers/559088.jpg
+    rating: 4.6
+    date: '2026-04-25'
+    code: 559088
+    url: /works/559088/
   - title: Tawawa de Akarui Yakyuubu Manager ga Inshitsu na Kyoushi no Wana ni... Kanketsuhen
     author: ohkura-kazuya
     cover: /covers/566052.jpg
@@ -33,6 +48,13 @@ works:
     date: '2026-04-30'
     code: 566052
     url: /works/566052/
+  - title: Sinful Lust 4
+    author: zetto
+    cover: /covers/593064.jpg
+    rating: 4.5
+    date: '2026-04-23'
+    code: 593064
+    url: /works/593064/
   - title: Metamorphosis
     author: shindol
     cover: /covers/616358.jpg
@@ -47,6 +69,21 @@ works:
     date: '2026-05-04'
     code: 637110
     url: /works/637110/
+  - title: Boku ga Shiranakatta Mama to Jii-chan no Koto | Things I didn't Know Between
+      Mom And Grandpa
+    author: urakan
+    cover: /covers/640543.jpg
+    rating: 4.0
+    date: '2026-04-23'
+    code: 640543
+    url: /works/640543/
+  - title: Inaka ja Kore ga Joushiki dakara! | This Is Just How Things Are in the Countryside!
+    author: chilt
+    cover: /covers/646146.jpg
+    rating: 4.1
+    date: '2026-04-27'
+    code: 646146
+    url: /works/646146/
   - title: Inaka ni Sumu Dosukebe Gifu to Kosodate Yome | A Perverted Father-in-Law
       Living in the Countryside and His Daughter-in-Law Raising Children
     author: onodera

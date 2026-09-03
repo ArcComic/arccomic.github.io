@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "corruption"
-work_count: 6
+work_count: 7
 works:
   - title: 'Jujutsu Kaisen: Mahito Mayhem'
     author: mayitgu
@@ -24,6 +24,13 @@ works:
     date: '2026-07-15'
     code: 616358
     url: /works/616358/
+  - title: Inaka ja Kore ga Joushiki dakara! | This Is Just How Things Are in the Countryside!
+    author: chilt
+    cover: /covers/646146.jpg
+    rating: 4.1
+    date: '2026-04-27'
+    code: 646146
+    url: /works/646146/
   - title: Venom Invasion VII 【Part 1】
     author: blackftos
     cover: /covers/647563.jpg

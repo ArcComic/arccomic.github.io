@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "story arc"
-work_count: 65
+work_count: 72
 works:
   - title: Life with Married Women Just Like a Manga 2 - Ch. 1-5
     author: hidemaru
@@ -69,6 +69,14 @@ works:
     date: '2026-05-01'
     code: 508534
     url: /works/508534/
+  - title: Inemuri-chou no Onna Joushi ni Kossori Sounyuu ( ※ Netafuri Shinagara Ittemashita)
+      1-3 | Stealthily Fucking My Dozing Boss (She Came While Pretending to Sleep) 1-3
+    author: nanakusa-amane
+    cover: /covers/509049.jpg
+    rating: 4.1
+    date: '2026-04-23'
+    code: 509049
+    url: /works/509049/
   - title: This Woman’s Body Tells Lies
     author: ichihara-kazuma
     cover: /covers/527621.jpg
@@ -118,6 +126,13 @@ works:
     date: '2026-07-06'
     code: 543494
     url: /works/543494/
+  - title: Ero Cos OL to Jiraikei Joshi ~Iki Nuresaseru Moto Kare no Amai Koshi Zukai~
+    author: unknown
+    cover: /covers/548852.jpg
+    rating: 4.3
+    date: '2026-04-23'
+    code: 548852
+    url: /works/548852/
   - title: Houkai Kazoku -Hahaoya ga Yakuza to no Sex ni Hamatta Hanashi- | Broken Family
       - A Story About a Mother Who Became Addicted to Sex With a Yakuza
     author: watsondou
@@ -156,6 +171,14 @@ works:
     date: '2026-05-07'
     code: 596598
     url: /works/596598/
+  - title: Cool na Niizuma to no Shinkon Seikatsu wa Amari ni mo... Yarashikatta  |
+      Our Kinky Newlywed Life Vol. 1-3
+    author: nanakusa-amane
+    cover: /covers/603122.jpg
+    rating: 4.6
+    date: '2026-04-23'
+    code: 603122
+    url: /works/603122/
   - title: '"1 Funkan Dake Rete mo īyo … " Shea Hausu no Himitsu Rūru | The Share House''s
       Secret Rule Vol. 1-3'
     author: ouma
@@ -164,6 +187,13 @@ works:
     date: '2026-05-04'
     code: 608911
     url: /works/608911/
+  - title: Zenin Mukuwarenai Harem | A Harem Where No One Is Reciprocated
+    author: group
+    cover: /covers/610041.jpg
+    rating: 4.0
+    date: '2026-04-23'
+    code: 610041
+    url: /works/610041/
   - title: Metamorphosis
     author: shindol
     cover: /covers/616358.jpg
@@ -204,6 +234,13 @@ works:
     date: '2026-07-06'
     code: 642748
     url: /works/642748/
+  - title: Itome-san wa Kyun Shita Toki dake Kaigan Suru Vol. 1-8
+    author: nanakusa-amane
+    cover: /covers/644276.jpg
+    rating: 4.5
+    date: '2026-04-23'
+    code: 644276
+    url: /works/644276/
   - title: The story of how a busty, older teacher girlfriend gets seduced and cheated
       on by the principal with a huge penis.
     author: munioni
@@ -219,6 +256,23 @@ works:
     date: '2026-05-03'
     code: 644810
     url: /works/644810/
+  - title: 'YariCir Shingakki ni Boku no Heya wa Minna no Tamariba (Omake Ver.) - Fuck
+      Club: New Term! My Room''s A Hangout Spot For Everyone'
+    author: purumetal
+    cover: /covers/645507.jpg
+    rating: 4.2
+    date: '2026-04-23'
+    code: 645507
+    url: /works/645507/
+  - title: Kounai de Ichiban Kawaikute Ichiban Oppai ga Dekakute Ichiban Okazu ni Sareteru
+      Ichiban Sukebe na Etou-san - Eto-san is the cutest, has the biggest tits, is the
+      most masturbatory target, and is the most naughty in the school. | 在校內最可愛、胸部最大、最常被當做性幻想對象、最淫蕩的江藤同學
+    author: kuba-yodomu
+    cover: /covers/645649.jpg
+    rating: 4.1
+    date: '2026-04-23'
+    code: 645649
+    url: /works/645649/
   - title: Sex Between Gloomy Types is the Hottest, Ain't It?
     author: doji-ro
     cover: /covers/646757.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "gloves"
-work_count: 9
+work_count: 10
 works:
   - title: Yuri no o saifu ni shite agemasu ne, Senpai | I'll turn you into Yuri's wallet,
       Senpai
@@ -11,6 +11,14 @@ works:
     date: '2026-07-17'
     code: 289523
     url: /works/289523/
+  - title: Moto Mahou Shoujo no Hikikomori Seikatsu | The NEET Life of a Former Magical
+      Girl
+    author: zhen-lu
+    cover: /covers/506303.jpg
+    rating: 4.4
+    date: '2026-04-23'
+    code: 506303
+    url: /works/506303/
   - title: Shut-less
     author: mr-hokke
     cover: /covers/531966.jpg

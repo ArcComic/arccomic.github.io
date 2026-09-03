@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "painted nails"
-work_count: 11
+work_count: 14
 works:
   - title: Sukina Hito, Sukina Koto
     author: ebi-fry-teishoku
@@ -24,6 +24,13 @@ works:
     date: '2026-08-23'
     code: 531967
     url: /works/531967/
+  - title: Ero Cos OL to Jiraikei Joshi ~Iki Nuresaseru Moto Kare no Amai Koshi Zukai~
+    author: unknown
+    cover: /covers/548852.jpg
+    rating: 4.3
+    date: '2026-04-23'
+    code: 548852
+    url: /works/548852/
   - title: Uwa, Mesugaki Tsuyoi! | Crap, This Mesugaki's Too Powerful!
     author: poncocchan
     cover: /covers/550359.jpg
@@ -31,6 +38,14 @@ works:
     date: '2026-08-31'
     code: 550359
     url: /works/550359/
+  - title: 'Moto Mahou Shoujo no Shigoto Hanashi Ao Zenjitsutan | Former Magical Girl
+      Blue''s Work: The Prequel'
+    author: zhen-lu
+    cover: /covers/584579.jpg
+    rating: 4.3
+    date: '2026-04-23'
+    code: 584579
+    url: /works/584579/
   - title: Hitoban Tomete yo, Otaku-kun | Let Me Stay For the Night, Otaku-kun
     author: danimaru
     cover: /covers/606166.jpg
@@ -45,6 +60,13 @@ works:
     date: '2026-08-25'
     code: 608648
     url: /works/608648/
+  - title: Zenin Mukuwarenai Harem | A Harem Where No One Is Reciprocated
+    author: group
+    cover: /covers/610041.jpg
+    rating: 4.0
+    date: '2026-04-23'
+    code: 610041
+    url: /works/610041/
   - title: Boku no Toshiue no Tomodachi | My Older Friend
     author: buta
     cover: /covers/631036.jpg

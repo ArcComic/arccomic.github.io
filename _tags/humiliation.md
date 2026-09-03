@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "humiliation"
-work_count: 15
+work_count: 17
 works:
   - title: Doushia (Terasu MC)] Dorei Gazoku
     author: terasu-mc
@@ -17,6 +17,14 @@ works:
     date: '2026-07-11'
     code: 531966
     url: /works/531966/
+  - title: Ossan Kirai no Hitozuma Kyoushi ga Nikubenki ni Ochiru Hanashi | Story About
+      an Old Man Hating Married Teacher Falling Into Being a Meat Toilet
+    author: chinpan
+    cover: /covers/562615.jpg
+    rating: 4.5
+    date: '2026-04-25'
+    code: 562615
+    url: /works/562615/
   - title: I'll cut my hair off
     author: umidori-project
     cover: /covers/564042.jpg
@@ -24,6 +32,13 @@ works:
     date: '2026-07-17'
     code: 564042
     url: /works/564042/
+  - title: Ikenie no Haha 2
+    author: group
+    cover: /covers/645676.jpg
+    rating: 4.1
+    date: '2026-04-23'
+    code: 645676
+    url: /works/645676/
   - title: Netorareta Kanojo ga Joou-sama ni natte Kaettekita ~Ruined de Kintama o Kara
       ni sarete Zenritsusen o Ijirarete Nandomo Nandomo Mesuikishite Choukyou sareru
       Ohanashi~

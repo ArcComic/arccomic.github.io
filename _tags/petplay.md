@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "petplay"
-work_count: 3
+work_count: 4
 works:
+  - title: Oji Saimin Soushuuhen | Hypnotized Uncle Compilation Edition
+    author: tokomaya-keita
+    cover: /covers/645612.jpg
+    rating: 5.0
+    date: '2026-04-24'
+    code: 645612
+    url: /works/645612/
   - title: 'Jirai Inu-kei Kanojo #Kimi to Tsunagaritai Jirai de Inukei de Juujun na
       Kimi dake no Pet | Jirai-kei Puppy Girlfriend'
     author: shimofuji-jun

@@ -1,8 +1,20 @@
 ---
 layout: artist
 artist_name: "cammy"
-work_count: 2
+work_count: 4
 works:
+  - title: Boku no Kaa-chan | My Mom
+    cover: /covers/555792.jpg
+    rating: 4.1
+    date: '2026-04-25'
+    code: 555792
+    url: /works/555792/
+  - title: Boku no Kaa-chan 2 | My Mom 2
+    cover: /covers/579339.jpg
+    rating: 4.9
+    date: '2026-04-25'
+    code: 579339
+    url: /works/579339/
   - title: Friend With Benefit With My Friends Mom
     cover: /covers/671657.jpg
     rating: 4.7

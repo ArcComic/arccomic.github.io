@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "schoolgirl uniform"
-work_count: 107
+work_count: 116
 works:
   - title: Yuri no o saifu ni shite agemasu ne, Senpai | I'll turn you into Yuri's wallet,
       Senpai
@@ -25,6 +25,13 @@ works:
     date: '2026-07-07'
     code: 321298
     url: /works/321298/
+  - title: Love Divided Between a Rock and a Hard Place Ch.1
+    author: cabin
+    cover: /covers/342540.jpg
+    rating: 4.4
+    date: '2026-04-23'
+    code: 342540
+    url: /works/342540/
   - title: Kanojo Face | Girlfriend Face
     author: mashiro-shirako
     cover: /covers/346126.jpg
@@ -69,6 +76,14 @@ works:
     date: '2026-07-17'
     code: 430672
     url: /works/430672/
+  - title: Itabasami na Wakachi Ai 4 | Love Divided Between a Rock and a Hard Place
+      4
+    author: group
+    cover: /covers/448503.jpg
+    rating: 5.0
+    date: '2026-04-23'
+    code: 448503
+    url: /works/448503/
   - title: Ame no Hi wa, Honnori Chikubi
     author: hoshi-to-lucky
     cover: /covers/484860.jpg
@@ -154,6 +169,14 @@ works:
     date: '2026-08-31'
     code: 556767
     url: /works/556767/
+  - title: Ojou-sama Sodachi no Namaiki Celeb Zuma o Kitanai Ossan Chinpo de Wakaraseru
+      | Cocky Rich Bitch Glam-Wife Gets Taught A Lesson With Dirty Old Man Dick
+    author: chinpan
+    cover: /covers/559088.jpg
+    rating: 4.6
+    date: '2026-04-25'
+    code: 559088
+    url: /works/559088/
   - title: Walking back home in the winter with my childhood friend
     author: shimetsuki-tanki
     cover: /covers/565301.jpg
@@ -161,6 +184,14 @@ works:
     date: '2026-07-13'
     code: 565301
     url: /works/565301/
+  - title: 'Moto Mahou Shoujo no Shigoto Hanashi Ao Zenjitsutan | Former Magical Girl
+      Blue''s Work: The Prequel'
+    author: zhen-lu
+    cover: /covers/584579.jpg
+    rating: 4.3
+    date: '2026-04-23'
+    code: 584579
+    url: /works/584579/
   - title: Ore ga Hoshikatta Mono wa Kin Medal Yori Namami Onaho Datta no Kamoshirenai｜Maybe
       what I Wanted was a Flesh and Blood Masturbator Rather than a Gold Medal
     author: carburetor
@@ -191,6 +222,13 @@ works:
     date: '2026-07-13'
     code: 598010
     url: /works/598010/
+  - title: Zenin Mukuwarenai Harem | A Harem Where No One Is Reciprocated
+    author: group
+    cover: /covers/610041.jpg
+    rating: 4.0
+    date: '2026-04-23'
+    code: 610041
+    url: /works/610041/
   - title: Metamorphosis
     author: shindol
     cover: /covers/616358.jpg
@@ -221,6 +259,14 @@ works:
     date: '2026-05-04'
     code: 621185
     url: /works/621185/
+  - title: Succubus Seitokai Shiko Shiko Shikkoubu 3 | Succubus Student Council Milking
+      Club 3
+    author: michiking
+    cover: /covers/628865.jpg
+    rating: 4.1
+    date: '2026-04-23'
+    code: 628865
+    url: /works/628865/
   - title: Curiosity and the Cost of Innocence
     author: hoshi-to-lucky
     cover: /covers/637110.jpg
@@ -251,6 +297,29 @@ works:
     date: '2026-07-06'
     code: 644296
     url: /works/644296/
+  - title: Succubus Seitokai Shiko Shiko Shikkoubu 2 NOA ver. | Succubus Student Council
+      Milking Club 2 Version NOA
+    author: michiking
+    cover: /covers/645520.jpg
+    rating: 4.8
+    date: '2026-04-23'
+    code: 645520
+    url: /works/645520/
+  - title: Akumu Revenge 2 | Nightmare Revenge 2
+    author: coupe
+    cover: /covers/645884.jpg
+    rating: 4.7
+    date: '2026-04-25'
+    code: 645884
+    url: /works/645884/
+  - title: Tsuma no Tame ni Tameta Kozukuri Seishi o Gimai no JK Manko ni Nagashikondeshimatta
+      Boku.
+    author: junsei-chuurenpoutou
+    cover: /covers/645908.jpg
+    rating: 4.2
+    date: '2026-04-25'
+    code: 645908
+    url: /works/645908/
   - title: Sex Between Gloomy Types is the Hottest, Ain't It?
     author: doji-ro
     cover: /covers/646757.jpg

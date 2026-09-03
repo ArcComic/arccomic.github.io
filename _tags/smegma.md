@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "smegma"
-work_count: 2
+work_count: 3
 works:
   - title: A tsundere girl who loves dick cheese and speaks Kansai dialect
     author: yuuki-fuumi
@@ -10,6 +10,13 @@ works:
     date: '2026-07-06'
     code: 630901
     url: /works/630901/
+  - title: Oji Saimin Soushuuhen | Hypnotized Uncle Compilation Edition
+    author: tokomaya-keita
+    cover: /covers/645612.jpg
+    rating: 5.0
+    date: '2026-04-24'
+    code: 645612
+    url: /works/645612/
   - title: Onna Tomodachi to Omotteitara Mesu Deshita | I Thought She Was Just a Friend,
       Turned Out She Was a Woman
     author: ippan-seijin

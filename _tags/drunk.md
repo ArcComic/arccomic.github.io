@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "drunk"
-work_count: 16
+work_count: 17
 works:
   - title: HUNDRED GAME Ch. 1-3
     author: kuon-michiyoshi
@@ -17,6 +17,13 @@ works:
     date: '2026-04-27'
     code: 357965
     url: /works/357965/
+  - title: LOOK LIKE
+    author: terasu-mc
+    cover: /covers/388099.jpg
+    rating: 4.5
+    date: '2026-04-25'
+    code: 388099
+    url: /works/388099/
   - title: NTR Anniversary + ) [Syukurin] Mitsuha ~Netorare~ (Kimi no Na wa.) [English]
       [Colorized] by Mikaku
     author: arakure

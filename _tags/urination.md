@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "urination"
-work_count: 22
+work_count: 23
 works:
   - title: 'Kouen no Bench ni Suwatteru Kirei na Onee-san ga Boku ni "Ochinchin o Misete"
       to Itte Kuru no de... | A Pretty Onee-San, that''s sitting on a Bench in the Park...suddenly
@@ -80,6 +80,13 @@ works:
     date: '2026-08-20'
     code: 639463
     url: /works/639463/
+  - title: Oji Saimin Soushuuhen | Hypnotized Uncle Compilation Edition
+    author: tokomaya-keita
+    cover: /covers/645612.jpg
+    rating: 5.0
+    date: '2026-04-24'
+    code: 645612
+    url: /works/645612/
   - title: Reibaishi Mikoto 2 Kairaku ni Zanpai su... Hentai Jijii to no Seikou no Gishiki
       de Ikikuruwasareru Shoujo no Karada
     author: sawacream

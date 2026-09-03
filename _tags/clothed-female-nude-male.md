@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "clothed female nude male"
-work_count: 8
+work_count: 9
 works:
   - title: Yuri no o saifu ni shite agemasu ne, Senpai | I'll turn you into Yuri's wallet,
       Senpai
@@ -32,6 +32,13 @@ works:
     date: '2026-07-11'
     code: 531966
     url: /works/531966/
+  - title: Akumu Revenge 2 | Nightmare Revenge 2
+    author: coupe
+    cover: /covers/645884.jpg
+    rating: 4.7
+    date: '2026-04-25'
+    code: 645884
+    url: /works/645884/
   - title: Sex Between Gloomy Types is the Hottest, Ain't It?
     author: doji-ro
     cover: /covers/646757.jpg

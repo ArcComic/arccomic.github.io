@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "collar"
-work_count: 27
+work_count: 30
 works:
   - title: Anata no Shiori ni Naritai - I Just Want To Be Your Shiori
     author: naokomama
@@ -46,6 +46,14 @@ works:
     date: '2026-07-16'
     code: 561787
     url: /works/561787/
+  - title: Ossan Kirai no Hitozuma Kyoushi ga Nikubenki ni Ochiru Hanashi | Story About
+      an Old Man Hating Married Teacher Falling Into Being a Meat Toilet
+    author: chinpan
+    cover: /covers/562615.jpg
+    rating: 4.5
+    date: '2026-04-25'
+    code: 562615
+    url: /works/562615/
   - title: Tawawa de Akarui Yakyuubu Manager ga Inshitsu na Kyoushi no Wana ni... Kanketsuhen
     author: ohkura-kazuya
     cover: /covers/566052.jpg
@@ -67,6 +75,13 @@ works:
     date: '2026-04-27'
     code: 606166
     url: /works/606166/
+  - title: Zenin Mukuwarenai Harem | A Harem Where No One Is Reciprocated
+    author: group
+    cover: /covers/610041.jpg
+    rating: 4.0
+    date: '2026-04-23'
+    code: 610041
+    url: /works/610041/
   - title: Kanojo ga Kami o Someta Wake ~Kataomoi no Seiso Kurokami Ojou-sama ga Boku
       no Shiranai Tokoro de Otoko no Aji o Oboeru Hanashi~ | The Real Reason She Changed
       Her Hair
@@ -76,6 +91,13 @@ works:
     date: '2026-08-29'
     code: 634450
     url: /works/634450/
+  - title: Oji Saimin Soushuuhen | Hypnotized Uncle Compilation Edition
+    author: tokomaya-keita
+    cover: /covers/645612.jpg
+    rating: 5.0
+    date: '2026-04-24'
+    code: 645612
+    url: /works/645612/
   - title: Otaku ni Yasashii Gal wa Aitsu no Kanojo | A Gal Who's Kind to Otaku Is That
       Guy's Girlfriend
     author: yamamoto

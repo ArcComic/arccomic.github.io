@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "garter belt"
-work_count: 7
+work_count: 9
 works:
+  - title: Maid no Oshigoto. II | Maid's Work II
+    author: alexi-laiho
+    cover: /covers/296282.jpg
+    rating: 5.0
+    date: '2026-04-23'
+    code: 296282
+    url: /works/296282/
   - title: Mitsuha ~Netorare~ 10 (Your Name After Story) True Ending
     author: syukurin
     cover: /covers/643592.jpg
@@ -10,6 +17,14 @@ works:
     date: '2026-04-27'
     code: 643592
     url: /works/643592/
+  - title: Doutei Daisuki Jogakusei-chan, Zetsurin Doutei ni Haiboku suru -One More!-
+      | The Virgin-Killer Girl is Defeated by the Insatiable Virgin ―One More!―
+    author: macaron-sugar
+    cover: /covers/645521.jpg
+    rating: 4.6
+    date: '2026-04-23'
+    code: 645521
+    url: /works/645521/
   - title: Kasshoku Oneesan no Fudeoroshi Ver. 6 | Brown Lady Takes His First Time Ver.
       6
     author: ahugan-sugita

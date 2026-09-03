@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "kemonomimi"
-work_count: 13
+work_count: 14
 works:
   - title: CHOCO x LOVE
     author: highlow
@@ -26,6 +26,13 @@ works:
     date: '2026-08-20'
     code: 557452
     url: /works/557452/
+  - title: Oji Saimin Soushuuhen | Hypnotized Uncle Compilation Edition
+    author: tokomaya-keita
+    cover: /covers/645612.jpg
+    rating: 5.0
+    date: '2026-04-24'
+    code: 645612
+    url: /works/645612/
   - title: Imouto Haramasenai to Derarenai Shima 2 | You Must Breed Your Sister to Leave
       This Island 2!
     author: airandou

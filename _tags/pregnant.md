@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "pregnant"
-work_count: 14
+work_count: 15
 works:
   - title: Kaa-san to Shitai Koto ~ Zetsurin Musuko to no Seikatsu Kaisou Hen | What
       I want to do with My Mother ~ Sex Life with My Son Who Has...
@@ -19,6 +19,14 @@ works:
     date: '2026-07-17'
     code: 545823
     url: /works/545823/
+  - title: Ojou-sama Sodachi no Namaiki Celeb Zuma o Kitanai Ossan Chinpo de Wakaraseru
+      | Cocky Rich Bitch Glam-Wife Gets Taught A Lesson With Dirty Old Man Dick
+    author: chinpan
+    cover: /covers/559088.jpg
+    rating: 4.6
+    date: '2026-04-25'
+    code: 559088
+    url: /works/559088/
   - title: Tawawa de Akarui Yakyuubu Manager ga Inshitsu na Kyoushi no Wana ni... Kanketsuhen
     author: ohkura-kazuya
     cover: /covers/566052.jpg

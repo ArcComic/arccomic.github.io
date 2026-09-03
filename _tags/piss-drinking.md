@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "piss drinking"
-work_count: 3
+work_count: 4
 works:
   - title: Tada Sex Shitakatta dake nano ni SNS de Deatta Bimajo ga Scatolo Mania de,
       Boku wa... 1
@@ -11,6 +11,13 @@ works:
     date: '2026-07-09'
     code: 633938
     url: /works/633938/
+  - title: Oji Saimin Soushuuhen | Hypnotized Uncle Compilation Edition
+    author: tokomaya-keita
+    cover: /covers/645612.jpg
+    rating: 5.0
+    date: '2026-04-24'
+    code: 645612
+    url: /works/645612/
   - title: Imouto Haramasenai to Derarenai Shima 2 | You Must Breed Your Sister to Leave
       This Island 2!
     author: airandou

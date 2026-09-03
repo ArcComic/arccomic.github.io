@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "voyeurism"
-work_count: 9
+work_count: 11
 works:
+  - title: LOOK LIKE
+    author: terasu-mc
+    cover: /covers/388099.jpg
+    rating: 4.5
+    date: '2026-04-25'
+    code: 388099
+    url: /works/388099/
   - title: Beit Saki no Majime na Kouhai ga... | A Serious Part-Time Kouhai
     author: kusayarou
     cover: /covers/536423.jpg
@@ -25,6 +32,14 @@ works:
     date: '2026-05-07'
     code: 596598
     url: /works/596598/
+  - title: Succubus Seitokai Shiko Shiko Shikkoubu 3 | Succubus Student Council Milking
+      Club 3
+    author: michiking
+    cover: /covers/628865.jpg
+    rating: 4.1
+    date: '2026-04-23'
+    code: 628865
+    url: /works/628865/
   - title: Aitsu, Kotowarenai kara.. Remake-ban no Tsuzuki dewa Arimasu ga, Konsaku
       wa Yakinaoshi ja Nai yo. Settei Igai wa Sinsaku da yo. Sonna Kanji no Vol. 2 desu
     author: haruharudo

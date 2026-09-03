@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "nurse"
-work_count: 5
+work_count: 6
 works:
   - title: Bocchi de Shinda Ore ga Bishoujo Nurse ni Natta Hanashi | The Story of How
       I Died Alone and Became a Sexy Nurse
@@ -20,6 +20,13 @@ works:
     date: '2026-07-06'
     code: 642748
     url: /works/642748/
+  - title: Oji Saimin Soushuuhen | Hypnotized Uncle Compilation Edition
+    author: tokomaya-keita
+    cover: /covers/645612.jpg
+    rating: 5.0
+    date: '2026-04-24'
+    code: 645612
+    url: /works/645612/
   - title: Kyonyuu no Tomodachi to Tsukiau made no Hanashi | Maybe We'll Start Dating
       Someday
     author: fuguta-ke

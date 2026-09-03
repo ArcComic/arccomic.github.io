@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "shaved head"
-work_count: 6
+work_count: 12
 works:
   - title: TomoKano Kaa-chan II ~Jitaku, Musuko no Tomodachi ni Ochita Natsu~ | My Mom
       Is My Friend's Girlfriend 2
@@ -11,6 +11,36 @@ works:
     date: '2026-05-05'
     code: 419017
     url: /works/419017/
+  - title: What would happen if you said "Let's have sex." while your teacher was scolding
+      you?
+    author: chotto-b-sen
+    cover: /covers/463298.jpg
+    rating: 4.6
+    date: '2026-04-25'
+    code: 463298
+    url: /works/463298/
+  - title: Boku no Kaa-chan | My Mom
+    author: cammy
+    cover: /covers/555792.jpg
+    rating: 4.1
+    date: '2026-04-25'
+    code: 555792
+    url: /works/555792/
+  - title: Ijiwaru Mama Tomo Taisaku | Countermeasures Against Bullying Mothers
+    author: chotto-b-sen
+    cover: /covers/561436.jpg
+    rating: 4.7
+    date: '2026-04-25'
+    code: 561436
+    url: /works/561436/
+  - title: Ossan Kirai no Hitozuma Kyoushi ga Nikubenki ni Ochiru Hanashi | Story About
+      an Old Man Hating Married Teacher Falling Into Being a Meat Toilet
+    author: chinpan
+    cover: /covers/562615.jpg
+    rating: 4.5
+    date: '2026-04-25'
+    code: 562615
+    url: /works/562615/
   - title: I'll cut my hair off
     author: umidori-project
     cover: /covers/564042.jpg
@@ -18,6 +48,20 @@ works:
     date: '2026-07-17'
     code: 564042
     url: /works/564042/
+  - title: Boku no Kaa-chan 2 | My Mom 2
+    author: cammy
+    cover: /covers/579339.jpg
+    rating: 4.9
+    date: '2026-04-25'
+    code: 579339
+    url: /works/579339/
+  - title: Inaka ja Kore ga Joushiki dakara! | This Is Just How Things Are in the Countryside!
+    author: chilt
+    cover: /covers/646146.jpg
+    rating: 4.1
+    date: '2026-04-27'
+    code: 646146
+    url: /works/646146/
   - title: Muchi Muchi Tennen Joshidaisei no Dosukebe Jorei Taikenroku | The Chunky,
       Defenseless, Airheaded University Girl Get's A Crash Course In Perverted Exorcisms!
     author: inamimi

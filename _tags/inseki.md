@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "inseki"
-work_count: 24
+work_count: 28
 works:
   - title: Gibo-san wa Boku no Mono 7
     author: c-kyuu
@@ -45,6 +45,13 @@ works:
     date: '2026-08-25'
     code: 592307
     url: /works/592307/
+  - title: Sinful Lust 4
+    author: zetto
+    cover: /covers/593064.jpg
+    rating: 4.5
+    date: '2026-04-23'
+    code: 593064
+    url: /works/593064/
   - title: Sono Gal Mama wa Koubi Suru | This Gyaru Mom is Having Sex.
     author: ameto-yuki
     cover: /covers/608648.jpg
@@ -74,6 +81,30 @@ works:
     date: '2026-08-29'
     code: 618087
     url: /works/618087/
+  - title: Boku ga Shiranakatta Mama to Jii-chan no Koto | Things I didn't Know Between
+      Mom And Grandpa
+    author: urakan
+    cover: /covers/640543.jpg
+    rating: 4.0
+    date: '2026-04-23'
+    code: 640543
+    url: /works/640543/
+  - title: 'Moto Mahou Shoujo no Kazoku Banashi Tsuki 2 | Former Magical Girl''s Family
+      Story: Tsuki 2'
+    author: zhen-lu
+    cover: /covers/645646.jpg
+    rating: 4.1
+    date: '2026-04-23'
+    code: 645646
+    url: /works/645646/
+  - title: Tsuma no Tame ni Tameta Kozukuri Seishi o Gimai no JK Manko ni Nagashikondeshimatta
+      Boku.
+    author: junsei-chuurenpoutou
+    cover: /covers/645908.jpg
+    rating: 4.2
+    date: '2026-04-25'
+    code: 645908
+    url: /works/645908/
   - title: Inaka ni Sumu Dosukebe Gifu to Kosodate Yome | A Perverted Father-in-Law
       Living in the Countryside and His Daughter-in-Law Raising Children
     author: onodera

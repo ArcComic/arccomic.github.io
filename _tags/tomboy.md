@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "tomboy"
-work_count: 16
+work_count: 17
 works:
   - title: Seiten no Hekireki | TS Thunderclap
     author: regdic
@@ -46,6 +46,13 @@ works:
     date: '2026-08-22'
     code: 586316
     url: /works/586316/
+  - title: Inaka ja Kore ga Joushiki dakara! | This Is Just How Things Are in the Countryside!
+    author: chilt
+    cover: /covers/646146.jpg
+    rating: 4.1
+    date: '2026-04-27'
+    code: 646146
+    url: /works/646146/
   - title: Good Teachers
     author: nodo
     cover: /covers/648310.jpg

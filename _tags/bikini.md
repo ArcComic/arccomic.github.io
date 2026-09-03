@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bikini"
-work_count: 31
+work_count: 35
 works:
   - title: CHOCO x LOVE
     author: highlow
@@ -34,6 +34,14 @@ works:
     date: '2026-08-31'
     code: 494172
     url: /works/494172/
+  - title: Moto Mahou Shoujo no Hikikomori Seikatsu | The NEET Life of a Former Magical
+      Girl
+    author: zhen-lu
+    cover: /covers/506303.jpg
+    rating: 4.4
+    date: '2026-04-23'
+    code: 506303
+    url: /works/506303/
   - title: + (SEIKO AYASE VARIOUS) +
     author: st-mya
     cover: /covers/555816.jpg
@@ -41,6 +49,14 @@ works:
     date: '2026-07-16'
     code: 555816
     url: /works/555816/
+  - title: Ossan Kirai no Hitozuma Kyoushi ga Nikubenki ni Ochiru Hanashi | Story About
+      an Old Man Hating Married Teacher Falling Into Being a Meat Toilet
+    author: chinpan
+    cover: /covers/562615.jpg
+    rating: 4.5
+    date: '2026-04-25'
+    code: 562615
+    url: /works/562615/
   - title: Pashiri no Shita Teku, Yabaitte... ~ Ebi Sori Iki Suru Namaiki Gyaru | Bullied
       Boy's Tongue Revenge Vol.1-4
     author: takayamanon
@@ -49,6 +65,13 @@ works:
     date: '2026-08-29'
     code: 589969
     url: /works/589969/
+  - title: Zutto Akogare datta Dokyuusei no Mama to Yareta Hanashi Kuronuri ver
+    author: chinpan
+    cover: /covers/593677.jpg
+    rating: 4.3
+    date: '2026-04-25'
+    code: 593677
+    url: /works/593677/
   - title: Futari de Watashi o Ikasenaide...! ~Kurayami, Majiwaru Kyoudai Futon~  |
       My 2 Step-Brothers are Ganging Up on Me!  Vol.1
     author: ma-yu
@@ -64,6 +87,13 @@ works:
     date: '2026-08-24'
     code: 642588
     url: /works/642588/
+  - title: Oji Saimin Soushuuhen | Hypnotized Uncle Compilation Edition
+    author: tokomaya-keita
+    cover: /covers/645612.jpg
+    rating: 5.0
+    date: '2026-04-24'
+    code: 645612
+    url: /works/645612/
   - title: Jimikei Bakunyuu Hirama-chan | The Busty, Unassuming Girl Hirama-chan
     author: kametaro
     cover: /covers/646942.jpg

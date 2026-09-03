@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "tail plug"
-work_count: 5
+work_count: 6
 works:
+  - title: Oji Saimin Soushuuhen | Hypnotized Uncle Compilation Edition
+    author: tokomaya-keita
+    cover: /covers/645612.jpg
+    rating: 5.0
+    date: '2026-04-24'
+    code: 645612
+    url: /works/645612/
   - title: Otaku ni Yasashii Gal wa Aitsu no Kanojo | A Gal Who's Kind to Otaku Is That
       Guy's Girlfriend
     author: yamamoto
