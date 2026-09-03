@@ -1,8 +1,22 @@
 ---
 layout: tag
 tag_name: "cunnilingus"
-work_count: 6
+work_count: 17
 works:
+  - title: Gekkoutou no Yume - Nyotaika Douwa ~Danshi Kinsei no Tou~
+    author: mugen-no-sudadokei
+    cover: /covers/387365.jpg
+    rating: 4.3
+    date: '2026-08-21'
+    code: 387365
+    url: /works/387365/
+  - title: Tokikoe Zenpen | Transcendence, The Beginning
+    author: sakujirou
+    cover: /covers/498679.jpg
+    rating: 4.6
+    date: '2026-07-17'
+    code: 498679
+    url: /works/498679/
   - title: '"Sex no Benkyou Shiyokka?" Kareshi ga Iru no ni Itoko kara Shojo wo Ubaware
       Zecchou Shidou 1-5 | Let''s Learn About Sex: Your Cousin Will Take Your Virginity
       and Teach You How to Come 1-5'
@@ -20,6 +34,21 @@ works:
     date: '2026-08-29'
     code: 589969
     url: /works/589969/
+  - title: Yuujin no Haha wa Dekachin ni Yowai | My Friend's Mom is Weak to a Huge Cock
+    author: shimofuri
+    cover: /covers/593575.jpg
+    rating: 4.4
+    date: '2026-08-21'
+    code: 593575
+    url: /works/593575/
+  - title: Onsen Haitte tara Joseito-tachi ga Osotte Kita | My Students Jumped Me When
+      I Got in the Hot Spring
+    author: hamo
+    cover: /covers/639463.jpg
+    rating: 4.7
+    date: '2026-08-20'
+    code: 639463
+    url: /works/639463/
   - title: Imouto ga Ore no Kanojo!? 2-haku 3-ka no Ecchi na Kankei | My Sister is My
       Girlfriend!? Sexual Relationship for Two Nights and Three Days
     author: katagiri-kaneharu
@@ -28,6 +57,57 @@ works:
     date: '2026-08-29'
     code: 660399
     url: /works/660399/
+  - title: 'Seifukusha ~Yami ni Ochiru Hitozuma-tachi~ | Sexploiter: Housewives Falling
+      Into Darkness'
+    author: hoshino-ryuichi
+    cover: /covers/664937.jpg
+    rating: 4.2
+    date: '2026-07-17'
+    code: 664937
+    url: /works/664937/
+  - title: Friend With Benefit With My Friends Mom
+    author: cammy
+    cover: /covers/671657.jpg
+    rating: 4.7
+    date: '2026-08-19'
+    code: 671657
+    url: /works/671657/
+  - title: Nuite Moraimakuri Nyuuin Seikatsu ~Tasuketa Cool-Gyaru wa Jitsu wa Sukebe
+      deshita~
+    author: gujira
+    cover: /covers/673508.jpg
+    rating: 4.2
+    date: '2026-08-18'
+    code: 673508
+    url: /works/673508/
+  - title: Omi-san no Komoriuta | Omi-san's Lullaby
+    author: nekomata-naomi
+    cover: /covers/673920.jpg
+    rating: 4.0
+    date: '2026-08-19'
+    code: 673920
+    url: /works/673920/
+  - title: TS Kyoudai
+    author: kagamino-mochiko
+    cover: /covers/674585.jpg
+    rating: 4.9
+    date: '2026-08-21'
+    code: 674585
+    url: /works/674585/
+  - title: Tonari no Ayane-san Ryokan de Shippori Hen
+    author: herio
+    cover: /covers/674614.jpg
+    rating: 4.1
+    date: '2026-08-21'
+    code: 674614
+    url: /works/674614/
+  - title: Maou Hime wa Koui ga Jakuten | The Demon Lord Princess is Weak to Affection
+    author: monchan-rev3
+    cover: /covers/674710.jpg
+    rating: 5.0
+    date: '2026-08-21'
+    code: 674710
+    url: /works/674710/
   - title: Chibikko Nurunuru Harem Seikatsu
     author: ippon-lolicon-trap
     cover: /covers/674984.jpg

@@ -1,8 +1,30 @@
 ---
 layout: tag
 tag_name: "big penis"
-work_count: 11
+work_count: 28
 works:
+  - title: Netorare Ibe Kiba Shizuka | The Netorare of Kiba Shizuka
+    author: terasu-mc
+    cover: /covers/288292.jpg
+    rating: 4.0
+    date: '2026-07-16'
+    code: 288292
+    url: /works/288292/
+  - title: Musume no Kareshi ni Ochiru Okaa-san. 2 | A Mother Who Falls For Her Daughter's
+      Boyfriend 2
+    author: sinori
+    cover: /covers/434993.jpg
+    rating: 4.4
+    date: '2026-07-16'
+    code: 434993
+    url: /works/434993/
+  - title: Niizuma Joushi wa Buka no Chinpo de Do-M Ochi
+    author: chinpan
+    cover: /covers/464371.jpg
+    rating: 4.1
+    date: '2026-07-16'
+    code: 464371
+    url: /works/464371/
   - title: Uwa, Mesugaki Tsuyoi! | Crap, This Mesugaki's Too Powerful!
     author: poncocchan
     cover: /covers/550359.jpg
@@ -10,6 +32,13 @@ works:
     date: '2026-08-31'
     code: 550359
     url: /works/550359/
+  - title: + (SEIKO AYASE VARIOUS) +
+    author: st-mya
+    cover: /covers/555816.jpg
+    rating: 4.7
+    date: '2026-07-16'
+    code: 555816
+    url: /works/555816/
   - title: Tennen Kaa-san ga Ero Kawai Sugiru node, Saimin Onaho Sex Shitatta! | My
       Airheaded Mom Was Too Adorably Sexy, So I Had Hypnotized Onahole Sex with Her!
     author: ginen
@@ -18,6 +47,35 @@ works:
     date: '2026-08-25'
     code: 563890
     url: /works/563890/
+  - title: Doukyuusei no Kyouiku Mama ni Hitomebore!
+    author: chotto-b-sen
+    cover: /covers/581704.jpg
+    rating: 4.8
+    date: '2026-07-17'
+    code: 581704
+    url: /works/581704/
+  - title: Yuujin no Haha wa Dekachin ni Yowai | My Friend's Mom is Weak to a Huge Cock
+    author: shimofuri
+    cover: /covers/593575.jpg
+    rating: 4.4
+    date: '2026-08-21'
+    code: 593575
+    url: /works/593575/
+  - title: Onsen Haitte tara Joseito-tachi ga Osotte Kita | My Students Jumped Me When
+      I Got in the Hot Spring
+    author: hamo
+    cover: /covers/639463.jpg
+    rating: 4.7
+    date: '2026-08-20'
+    code: 639463
+    url: /works/639463/
+  - title: Akogare no Hito wa Mou Owari!
+    author: orange-mimosa
+    cover: /covers/642584.jpg
+    rating: 4.3
+    date: '2026-08-20'
+    code: 642584
+    url: /works/642584/
   - title: Akogare no Hito wa Mou Owari! 2
     author: group
     cover: /covers/642585.jpg
@@ -39,6 +97,28 @@ works:
     date: '2026-08-24'
     code: 642588
     url: /works/642588/
+  - title: My Brother Stole My Mother
+    author: momoziri-hustle-dou
+    cover: /covers/648073.jpg
+    rating: 4.4
+    date: '2026-07-17'
+    code: 648073
+    url: /works/648073/
+  - title: Honey Series
+    author: nitta-jun
+    cover: /covers/664424.jpg
+    rating: 4.6
+    date: '2026-07-16'
+    code: 664424
+    url: /works/664424/
+  - title: 'Seifukusha ~Yami ni Ochiru Hitozuma-tachi~ | Sexploiter: Housewives Falling
+      Into Darkness'
+    author: hoshino-ryuichi
+    cover: /covers/664937.jpg
+    rating: 4.2
+    date: '2026-07-17'
+    code: 664937
+    url: /works/664937/
   - title: Soen ni Natteta Osananajimi ga Okuchi Onaho Gayoi Shite Kuru Mikkakan | Three
       Days Treating My Estranged Friend As An Oral Fuckhole
     author: poncocchan
@@ -47,6 +127,50 @@ works:
     date: '2026-08-31'
     code: 669505
     url: /works/669505/
+  - title: Friend With Benefit With My Friends Mom
+    author: cammy
+    cover: /covers/671657.jpg
+    rating: 4.7
+    date: '2026-08-19'
+    code: 671657
+    url: /works/671657/
+  - title: Futanari Jinja wa Otome Ochinpo Soudanjo
+    author: yukito
+    cover: /covers/674328.jpg
+    rating: 4.9
+    date: '2026-08-20'
+    code: 674328
+    url: /works/674328/
+  - title: Tonari no Ko | The Girl Next Door
+    author: oyabe-ryo-isurugi-ryo
+    cover: /covers/674496.jpg
+    rating: 4.6
+    date: '2026-08-21'
+    code: 674496
+    url: /works/674496/
+  - title: Tenshi Hirotta kara Haramaseru ~Ojii-san Senyou Botebara Onaho ni Naru made
+      no Kiroku~ | I Met an Angel, and then I Knocked Her Up ~A Record of Becoming Oji-san’s
+      Personal Preggo Belly Onahole~
+    author: a-shika
+    cover: /covers/674608.jpg
+    rating: 4.1
+    date: '2026-08-21'
+    code: 674608
+    url: /works/674608/
+  - title: Hitoe-san no warui kuse | Hitoe's Bad Habit
+    author: jirou
+    cover: /covers/674702.jpg
+    rating: 4.5
+    date: '2026-08-21'
+    code: 674702
+    url: /works/674702/
+  - title: Maou Hime wa Koui ga Jakuten | The Demon Lord Princess is Weak to Affection
+    author: monchan-rev3
+    cover: /covers/674710.jpg
+    rating: 5.0
+    date: '2026-08-21'
+    code: 674710
+    url: /works/674710/
   - title: Shitate ni wa Denai kedo Chinko ni wa Yowai Gyaru-chan to Kyokon Otaku! |
       A gal who doesn't act submissive but is weak for a big cock, and a huge-dicked
       otaku.

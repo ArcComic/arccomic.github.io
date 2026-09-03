@@ -1,8 +1,16 @@
 ---
 layout: tag
 tag_name: "the idolmaster"
-work_count: 6
+work_count: 7
 works:
+  - title: Kazano Hiori ni Warui Koto o Suru Hanashi (Zenpen) | The Story of Doing Bad
+      Things to Kazeno Hikari
+    author: dokuneko-noil
+    cover: /covers/664447.jpg
+    rating: 4.9
+    date: '2026-07-16'
+    code: 664447
+    url: /works/664447/
   - title: Mayu dake no Mono ni...
     author: tomekichi
     cover: /covers/674866.jpg

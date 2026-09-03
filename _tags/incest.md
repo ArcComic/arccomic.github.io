@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "incest"
-work_count: 41
+work_count: 60
 works:
   - title: Saikin, Musuko no Yousu ga Hen nan desu | Lately my son has been acting Strangly
     author: matsumoto-jikyuuryoku
@@ -25,6 +25,22 @@ works:
     date: '2026-08-24'
     code: 508845
     url: /works/508845/
+  - title: Koibito no Furi Shite Tara, Iki Goe ga…. Yukata Sugata no Kyonyuu Oneesan
+      ni, Tamarazu Sounyuu 1 I Can’t Stop Myself From Penetrating My Big Boobed Older
+      Female Cousin 1
+    author: takayamanon
+    cover: /covers/510022.jpg
+    rating: 4.7
+    date: '2026-08-20'
+    code: 510022
+    url: /works/510022/
+  - title: Gibo-san wa Boku no Mono 7
+    author: c-kyuu
+    cover: /covers/511503.jpg
+    rating: 4.4
+    date: '2026-08-19'
+    code: 511503
+    url: /works/511503/
   - title: Bitch Mama no Kekkon Riyuu
     author: aoyama-akira
     cover: /covers/512473.jpg
@@ -50,6 +66,13 @@ works:
     date: '2026-08-29'
     code: 534388
     url: /works/534388/
+  - title: Youka-go Tsuma no Haha o Daku | Eight Days With My Wife's Mother
+    author: jagaimo
+    cover: /covers/534808.jpg
+    rating: 4.3
+    date: '2026-08-19'
+    code: 534808
+    url: /works/534808/
   - title: 'Tainai Kaiki ~Neet no Ore wa Bakunyuu Haha to Manjiru Toroama Kozukuri Sex
       de Iyasareru~ | Reverting to the Womb: As a NEET, I''m Healed by Making Sweet,
       Creamy Love with My Busty Mother'
@@ -59,6 +82,14 @@ works:
     date: '2026-08-25'
     code: 537490
     url: /works/537490/
+  - title: Jinsei Hametsu JC ~Watashi no Jinsei, Doushite Kounacchattan daro?~ | Middle
+      Schooler's Life Ruined - How Did My Life Turn Out Like This [English] =TB=
+    author: circle-hitori
+    cover: /covers/545823.jpg
+    rating: 4.5
+    date: '2026-07-17'
+    code: 545823
+    url: /works/545823/
   - title: Watashi sae Gaman Sureba...
     author: hatakeyama-tohya
     cover: /covers/553061.jpg
@@ -66,6 +97,13 @@ works:
     date: '2026-08-24'
     code: 553061
     url: /works/553061/
+  - title: Iiwa Watashi no Karada Suki ni Shite Ch.1-2
+    author: shunjou-shuusuke
+    cover: /covers/561787.jpg
+    rating: 4.5
+    date: '2026-07-16'
+    code: 561787
+    url: /works/561787/
   - title: Tennen Kaa-san ga Ero Kawai Sugiru node, Saimin Onaho Sex Shitatta! | My
       Airheaded Mom Was Too Adorably Sexy, So I Had Hypnotized Onahole Sex with Her!
     author: ginen
@@ -148,6 +186,20 @@ works:
     date: '2026-08-25'
     code: 643933
     url: /works/643933/
+  - title: My Brother Stole My Mother
+    author: momoziri-hustle-dou
+    cover: /covers/648073.jpg
+    rating: 4.4
+    date: '2026-07-17'
+    code: 648073
+    url: /works/648073/
+  - title: Haha no Himitsu o Shitte
+    author: unknown
+    cover: /covers/654114.jpg
+    rating: 4.4
+    date: '2026-08-21'
+    code: 654114
+    url: /works/654114/
   - title: Provoking Men Part 1
     author: pororivista
     cover: /covers/654373.jpg
@@ -176,6 +228,20 @@ works:
     date: '2026-08-24'
     code: 655291
     url: /works/655291/
+  - title: Karada ga Binkan Sugiru Watashi wa Itoko ni Itazura sarete mo Teikoudekinai!
+    author: romomata
+    cover: /covers/655421.jpg
+    rating: 5.0
+    date: '2026-08-21'
+    code: 655421
+    url: /works/655421/
+  - title: Jitsubo Kan ~Gifu no Inai Suki ni Jitsu no Haha o Muriyari Okashite Haramaeta
+    author: louis-and-visee
+    cover: /covers/656034.jpg
+    rating: 4.6
+    date: '2026-08-21'
+    code: 656034
+    url: /works/656034/
   - title: Zessan Haishinchuu Gibo Nikubenki Keikaku! Ch.1-5
     author: maki-daikichi
     cover: /covers/656140.jpg
@@ -197,6 +263,20 @@ works:
     date: '2026-08-25'
     code: 656146
     url: /works/656146/
+  - title: Kaa-san o Oshitaoshita Hi
+    author: daidai-shikibu
+    cover: /covers/656615.jpg
+    rating: 4.2
+    date: '2026-08-21'
+    code: 656615
+    url: /works/656615/
+  - title: Hirusagari no Otetsudai
+    author: mogiki-hayami
+    cover: /covers/656686.jpg
+    rating: 4.4
+    date: '2026-08-21'
+    code: 656686
+    url: /works/656686/
   - title: Haha Ana ni Irazumba
     author: unknown
     cover: /covers/657981.jpg
@@ -226,6 +306,28 @@ works:
     date: '2026-08-29'
     code: 660399
     url: /works/660399/
+  - title: Mukatsuku Juumai no Kuchimanko ni Kounai Shasei suru Hanashi.
+    author: karube-guri
+    cover: /covers/664820.jpg
+    rating: 5.0
+    date: '2026-07-16'
+    code: 664820
+    url: /works/664820/
+  - title: Giri no Oyako ga Doukyou Shitereba Kitto kou | If a stepmother and her stepson
+      lived together, it would be something like this.
+    author: shimipan
+    cover: /covers/664831.jpg
+    rating: 4.9
+    date: '2026-07-16'
+    code: 664831
+    url: /works/664831/
+  - title: My Big brother
+    author: momoyama-hato
+    cover: /covers/664926.jpg
+    rating: 4.8
+    date: '2026-07-17'
+    code: 664926
+    url: /works/664926/
   - title: Super de Genki ni Hataraku Hahaoya ga Hikikomori Musuko ni Tanetsuke Saremakutteita
       Hanashi
     author: daidai-shikibu
@@ -241,6 +343,20 @@ works:
     date: '2026-08-25'
     code: 672450
     url: /works/672450/
+  - title: Summer, The Countryside, Tatami and Futon, Mother
+    author: takatsu-takatsu-keita
+    cover: /covers/673862.jpg
+    rating: 4.5
+    date: '2026-08-19'
+    code: 673862
+    url: /works/673862/
+  - title: Nayotake Kaguya no Himegoto
+    author: yukino-minato
+    cover: /covers/673992.jpg
+    rating: 4.4
+    date: '2026-08-19'
+    code: 673992
+    url: /works/673992/
   - title: Onii-san Zako sugite Ukeru~ | Big Brother, you're so pathetic, it's hilarious~
     author: puritei
     cover: /covers/674568.jpg
@@ -248,6 +364,29 @@ works:
     date: '2026-08-21'
     code: 674568
     url: /works/674568/
+  - title: WSS ~Watashi ga Sakini Sukidatta no ni~ - Even Though I Loved Him First
+    author: asanagi
+    cover: /covers/674639.jpg
+    rating: 4.6
+    date: '2026-08-21'
+    code: 674639
+    url: /works/674639/
+  - title: Boku to Mama wa Love Love nanoni, Sensei to Mechakucha Sex shiteru Hanashi
+      | A story about how, despite being all lovey-dovey with my mom, she's having wild
+      sex with my teacher.
+    author: smells-like
+    cover: /covers/674663.jpg
+    rating: 4.7
+    date: '2026-08-21'
+    code: 674663
+    url: /works/674663/
+  - title: Boku no Katei wa Kuruimashita | My family has gone crazy
+    author: torimomo
+    cover: /covers/674719.jpg
+    rating: 4.8
+    date: '2026-08-21'
+    code: 674719
+    url: /works/674719/
   - title: Akan de! Nishi Kyoudai
     author: hamachi
     cover: /covers/674950.jpg

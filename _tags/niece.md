@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "niece"
-work_count: 4
+work_count: 5
 works:
+  - title: WSS ~Watashi ga Sakini Sukidatta no ni~ - Even Though I Loved Him First
+    author: asanagi
+    cover: /covers/674639.jpg
+    rating: 4.6
+    date: '2026-08-21'
+    code: 674639
+    url: /works/674639/
   - title: Chibikko Nurunuru Harem Seikatsu
     author: ippon-lolicon-trap
     cover: /covers/674984.jpg

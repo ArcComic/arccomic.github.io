@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "very long hair"
-work_count: 6
+work_count: 10
 works:
+  - title: Yume no Naka de
+    author: taji
+    cover: /covers/664429.jpg
+    rating: 5.0
+    date: '2026-07-16'
+    code: 664429
+    url: /works/664429/
   - title: Niizuma Nanaka no Roshutsu Office
     author: fukurou-naru-tori
     cover: /covers/668605.jpg
@@ -10,6 +17,29 @@ works:
     date: '2026-08-28'
     code: 668605
     url: /works/668605/
+  - title: Tenshi Hirotta kara Haramaseru ~Ojii-san Senyou Botebara Onaho ni Naru made
+      no Kiroku~ | I Met an Angel, and then I Knocked Her Up ~A Record of Becoming Oji-san’s
+      Personal Preggo Belly Onahole~
+    author: a-shika
+    cover: /covers/674608.jpg
+    rating: 4.1
+    date: '2026-08-21'
+    code: 674608
+    url: /works/674608/
+  - title: WSS ~Watashi ga Sakini Sukidatta no ni~ - Even Though I Loved Him First
+    author: asanagi
+    cover: /covers/674639.jpg
+    rating: 4.6
+    date: '2026-08-21'
+    code: 674639
+    url: /works/674639/
+  - title: My Teacher Is So Hot That I Might Repeat Kindergarten !!
+    author: tamano-kedama
+    cover: /covers/674709.jpg
+    rating: 4.4
+    date: '2026-08-21'
+    code: 674709
+    url: /works/674709/
   - title: Shitate ni wa Denai kedo Chinko ni wa Yowai Gyaru-chan to Kyokon Otaku! |
       A gal who doesn't act submissive but is weak for a big cock, and a huge-dicked
       otaku.

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "mind break"
-work_count: 3
+work_count: 6
 works:
   - title: Bocchi de Shinda Ore ga Bishoujo Nurse ni Natta Hanashi | The Story of How
       I Died Alone and Became a Sexy Nurse
@@ -20,6 +20,29 @@ works:
     date: '2026-08-25'
     code: 518387
     url: /works/518387/
+  - title: My Girlfriend's Older Sister Turned Me Into Her Masochist Foot Pet
+    author: yoko-momo
+    cover: /covers/664853.jpg
+    rating: 4.3
+    date: '2026-07-16'
+    code: 664853
+    url: /works/664853/
+  - title: Saimin Mahou de Sokuochi Namaiki Majo Koko-chan ~Tensai Elite nanonii Mamono
+      Chinpo ni Kusozako Make Acme Kimechaimashitaa~ | Instant Fall via Hypnosis Magic❤
+      Cheeky Witch Koko-chan ~A Genius Elite, Yet...❤ Monster
+    author: yonketa
+    cover: /covers/673561.jpg
+    rating: 5.0
+    date: '2026-08-18'
+    code: 673561
+    url: /works/673561/
+  - title: WSS ~Watashi ga Sakini Sukidatta no ni~ - Even Though I Loved Him First
+    author: asanagi
+    cover: /covers/674639.jpg
+    rating: 4.6
+    date: '2026-08-21'
+    code: 674639
+    url: /works/674639/
   - title: Ichiryuu Sennyuu Sousakan Haiboku | Ryosen Infiltration Agent Defeated
     author: bloiler-yachou
     cover: /covers/675048.jpg

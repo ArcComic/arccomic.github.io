@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "inverted nipples"
-work_count: 5
+work_count: 7
 works:
   - title: Toaru Mura no Fudeoroshi Jijou | *séh₂ swédʰh₁eh₂ weyḱósyo
     author: nora-higuma
@@ -34,6 +34,20 @@ works:
     date: '2026-08-23'
     code: 639772
     url: /works/639772/
+  - title: Yume no Naka de
+    author: taji
+    cover: /covers/664429.jpg
+    rating: 5.0
+    date: '2026-07-16'
+    code: 664429
+    url: /works/664429/
+  - title: nekonimatatabi
+    author: yuzuto-sen
+    cover: /covers/674592.jpg
+    rating: 4.0
+    date: '2026-08-21'
+    code: 674592
+    url: /works/674592/
   - title: Ano Hi, Sunao ni Suki to Ieta nara - If only I could have honestly said that
       I loved you that day.
     author: kazuwo-daisuke

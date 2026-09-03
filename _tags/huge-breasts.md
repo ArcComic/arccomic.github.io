@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "huge breasts"
-work_count: 6
+work_count: 9
 works:
   - title: Kyoushi to Mama to Koibito no Kao
     author: mifune-seijirou
@@ -18,6 +18,28 @@ works:
     date: '2026-08-25'
     code: 611978
     url: /works/611978/
+  - title: Tonari no Ayane-san Soushuuhen | My Neighbor Ayane Anthology
+    author: herio
+    cover: /covers/656319.jpg
+    rating: 4.8
+    date: '2026-08-18'
+    code: 656319
+    url: /works/656319/
+  - title: Nuite Moraimakuri Nyuuin Seikatsu ~Tasuketa Cool-Gyaru wa Jitsu wa Sukebe
+      deshita~
+    author: gujira
+    cover: /covers/673508.jpg
+    rating: 4.2
+    date: '2026-08-18'
+    code: 673508
+    url: /works/673508/
+  - title: Hitoe-san no warui kuse | Hitoe's Bad Habit
+    author: jirou
+    cover: /covers/674702.jpg
+    rating: 4.5
+    date: '2026-08-21'
+    code: 674702
+    url: /works/674702/
   - title: Shitate ni wa Denai kedo Chinko ni wa Yowai Gyaru-chan to Kyokon Otaku! |
       A gal who doesn't act submissive but is weak for a big cock, and a huge-dicked
       otaku.

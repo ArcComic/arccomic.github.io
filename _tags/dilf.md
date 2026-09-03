@@ -1,8 +1,38 @@
 ---
 layout: tag
 tag_name: "dilf"
-work_count: 3
+work_count: 12
 works:
+  - title: Asunama 9
+    author: ken-1
+    cover: /covers/477784.jpg
+    rating: 4.1
+    date: '2026-07-17'
+    code: 477784
+    url: /works/477784/
+  - title: Musuko no Sensei wa Kyonyuu Bijo ♡ | My Son's Teacher is a Well-Endowed Woman
+      ♡
+    author: taki
+    cover: /covers/504436.jpg
+    rating: 4.4
+    date: '2026-08-18'
+    code: 504436
+    url: /works/504436/
+  - title: Kichiku Kyoushi ni Otosareta Boku no Seitokaichou Part.3
+    author: norakuro-nero
+    cover: /covers/557452.jpg
+    rating: 4.0
+    date: '2026-08-20'
+    code: 557452
+    url: /works/557452/
+  - title: 'Anata to Watashi no Ayamachi ~Bangaihen Kairaku Ochi e no Ippo~ | Our Mistake
+      ~Side Story: A Step Towards the Fall into Pleasure~'
+    author: zionman
+    cover: /covers/582290.jpg
+    rating: 4.7
+    date: '2026-07-17'
+    code: 582290
+    url: /works/582290/
   - title: Akogare no Hito wa Mou Owari! 2
     author: group
     cover: /covers/642585.jpg
@@ -10,6 +40,43 @@ works:
     date: '2026-08-24'
     code: 642585
     url: /works/642585/
+  - title: 'Married Woman Club: Glass Slippers'
+    author: kuroiwa-menou
+    cover: /covers/673944.jpg
+    rating: 4.2
+    date: '2026-08-19'
+    code: 673944
+    url: /works/673944/
+  - title: Niihama Yui Husband Exclusive Re-debut
+    author: buta
+    cover: /covers/674199.jpg
+    rating: 4.3
+    date: '2026-08-20'
+    code: 674199
+    url: /works/674199/
+  - title: Tenshi Hirotta kara Haramaseru ~Ojii-san Senyou Botebara Onaho ni Naru made
+      no Kiroku~ | I Met an Angel, and then I Knocked Her Up ~A Record of Becoming Oji-san’s
+      Personal Preggo Belly Onahole~
+    author: a-shika
+    cover: /covers/674608.jpg
+    rating: 4.1
+    date: '2026-08-21'
+    code: 674608
+    url: /works/674608/
+  - title: Hitoe-san no warui kuse | Hitoe's Bad Habit
+    author: jirou
+    cover: /covers/674702.jpg
+    rating: 4.5
+    date: '2026-08-21'
+    code: 674702
+    url: /works/674702/
+  - title: Boku no Katei wa Kuruimashita | My family has gone crazy
+    author: torimomo
+    cover: /covers/674719.jpg
+    rating: 4.8
+    date: '2026-08-21'
+    code: 674719
+    url: /works/674719/
   - title: Single Mother Aoki-san no Kakeijutsu｜Single Mother Aoki-san's Budgeting Hacks
     author: fujinoe13b
     cover: /covers/674927.jpg

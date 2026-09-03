@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "hotpants"
-work_count: 2
+work_count: 3
 works:
   - title: Uwa, Mesugaki Tsuyoi! | Crap, This Mesugaki's Too Powerful!
     author: poncocchan
@@ -18,4 +18,12 @@ works:
     date: '2026-08-31'
     code: 669505
     url: /works/669505/
+  - title: Yopparai Nee-chan no Jinsei ga Kouten suru Koudou Henyou | Behavioral Transformation
+      That Turns the Life of a Drunk Lady Around
+    author: toshiue-onee-san-tengoku
+    cover: /covers/674658.jpg
+    rating: 4.3
+    date: '2026-08-21'
+    code: 674658
+    url: /works/674658/
 ---

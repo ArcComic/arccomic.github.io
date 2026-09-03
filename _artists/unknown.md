@@ -1,8 +1,20 @@
 ---
 layout: artist
 artist_name: "unknown"
-work_count: 4
+work_count: 6
 works:
+  - title: Caught in the Act
+    cover: /covers/617511.jpg
+    rating: 4.7
+    date: '2026-07-16'
+    code: 617511
+    url: /works/617511/
+  - title: Haha no Himitsu o Shitte
+    cover: /covers/654114.jpg
+    rating: 4.4
+    date: '2026-08-21'
+    code: 654114
+    url: /works/654114/
   - title: Haha Ochi Nikki ~Ureta Jitsubo no Nama Manko o Seishori Benjo ni Otosu made
     cover: /covers/656146.jpg
     rating: 4.6

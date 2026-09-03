@@ -1,8 +1,16 @@
 ---
 layout: tag
 tag_name: "group"
-work_count: 16
+work_count: 31
 works:
+  - title: Yuri no o saifu ni shite agemasu ne, Senpai | I'll turn you into Yuri's wallet,
+      Senpai
+    author: doskoinpo
+    cover: /covers/289523.jpg
+    rating: 4.6
+    date: '2026-07-17'
+    code: 289523
+    url: /works/289523/
   - title: Bocchi de Shinda Ore ga Bishoujo Nurse ni Natta Hanashi | The Story of How
       I Died Alone and Became a Sexy Nurse
     author: testame
@@ -18,6 +26,22 @@ works:
     date: '2026-08-25'
     code: 512473
     url: /works/512473/
+  - title: Dansei ga Kyokutan ni Sukunai Kono Sekai de wa, Seishi wa Kichou na Shigen
+      desu. Sono 2 | In a World Where Men Are Scarce, Sperm Is a Precious Resource 2
+    author: group
+    cover: /covers/537794.jpg
+    rating: 5.0
+    date: '2026-08-20'
+    code: 537794
+    url: /works/537794/
+  - title: Onsen Haitte tara Joseito-tachi ga Osotte Kita | My Students Jumped Me When
+      I Got in the Hot Spring
+    author: hamo
+    cover: /covers/639463.jpg
+    rating: 4.7
+    date: '2026-08-20'
+    code: 639463
+    url: /works/639463/
   - title: Akogare no Hito wa Mou Owari! 2
     author: group
     cover: /covers/642585.jpg
@@ -32,6 +56,93 @@ works:
     date: '2026-08-24'
     code: 642586
     url: /works/642586/
+  - title: A story about a shy childhood friend who can’t say no and ends up being put
+      in charge of handling sexual needs.
+    author: sakurayu-hal
+    cover: /covers/655498.jpg
+    rating: 4.4
+    date: '2026-07-16'
+    code: 655498
+    url: /works/655498/
+  - title: 'Hyakka Yuran - Sakura | Encyclopedia: Yu-Chan''s Cherry Blossoms'
+    author: ueto-seri-ueto-ruri
+    cover: /covers/664642.jpg
+    rating: 4.4
+    date: '2026-07-16'
+    code: 664642
+    url: /works/664642/
+  - title: Welcome to the Weak Masochist Volleyball Club
+    author: hagakure-kurage
+    cover: /covers/664758.jpg
+    rating: 5.0
+    date: '2026-07-17'
+    code: 664758
+    url: /works/664758/
+  - title: Night of Feather and Ink
+    author: brulee
+    cover: /covers/664914.jpg
+    rating: 4.9
+    date: '2026-07-17'
+    code: 664914
+    url: /works/664914/
+  - title: 'Seifukusha ~Yami ni Ochiru Hitozuma-tachi~ | Sexploiter: Housewives Falling
+      Into Darkness'
+    author: hoshino-ryuichi
+    cover: /covers/664937.jpg
+    rating: 4.2
+    date: '2026-07-17'
+    code: 664937
+    url: /works/664937/
+  - title: 'Breeding License: The “Picking Up Girls on the Beach and Having Wild Sex”
+      Edition'
+    author: minamihama-yoriko
+    cover: /covers/674019.jpg
+    rating: 4.1
+    date: '2026-08-20'
+    code: 674019
+    url: /works/674019/
+  - title: Everyone's Kissing Club - Chapter 1-29
+    author: group
+    cover: /covers/674286.jpg
+    rating: 4.5
+    date: '2026-08-20'
+    code: 674286
+    url: /works/674286/
+  - title: Futanari Jinja wa Otome Ochinpo Soudanjo
+    author: yukito
+    cover: /covers/674328.jpg
+    rating: 4.9
+    date: '2026-08-20'
+    code: 674328
+    url: /works/674328/
+  - title: TS Kyoudai
+    author: kagamino-mochiko
+    cover: /covers/674587.jpg
+    rating: 4.9
+    date: '2026-08-21'
+    code: 674587
+    url: /works/674587/
+  - title: WSS ~Watashi ga Sakini Sukidatta no ni~ - Even Though I Loved Him First
+    author: asanagi
+    cover: /covers/674639.jpg
+    rating: 4.6
+    date: '2026-08-21'
+    code: 674639
+    url: /works/674639/
+  - title: My Teacher Is So Hot That I Might Repeat Kindergarten !!
+    author: tamano-kedama
+    cover: /covers/674709.jpg
+    rating: 4.4
+    date: '2026-08-21'
+    code: 674709
+    url: /works/674709/
+  - title: Boku no Katei wa Kuruimashita | My family has gone crazy
+    author: torimomo
+    cover: /covers/674719.jpg
+    rating: 4.8
+    date: '2026-08-21'
+    code: 674719
+    url: /works/674719/
   - title: Chibikko Nurunuru Harem Seikatsu
     author: ippon-lolicon-trap
     cover: /covers/674984.jpg

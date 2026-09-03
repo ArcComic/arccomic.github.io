@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "muscle"
-work_count: 12
+work_count: 17
 works:
+  - title: Netorare Ibe Kiba Shizuka | The Netorare of Kiba Shizuka
+    author: terasu-mc
+    cover: /covers/288292.jpg
+    rating: 4.0
+    date: '2026-07-16'
+    code: 288292
+    url: /works/288292/
   - title: '"Sex no Benkyou Shiyokka?" Kareshi ga Iru no ni Itoko kara Shojo wo Ubaware
       Zecchou Shidou 1-5 | Let''s Learn About Sex: Your Cousin Will Take Your Virginity
       and Teach You How to Come 1-5'
@@ -20,6 +27,14 @@ works:
     date: '2026-08-24'
     code: 584934
     url: /works/584934/
+  - title: Otoko no Ko otodokeshimasu! ~Itsumo kuru Haitatsuin-san ga masaka no Otoko
+      no Ko dattakedo mayowazu hameta~
+    author: mitsujirou
+    cover: /covers/605410.jpg
+    rating: 4.9
+    date: '2026-07-16'
+    code: 605410
+    url: /works/605410/
   - title: Futari de Watashi o Ikasenaide...! ~Kurayami, Majiwaru Kyoudai Futon~  |
       My 2 Step-Brothers are Ganging Up on Me!  Vol.1
     author: ma-yu
@@ -58,6 +73,30 @@ works:
     date: '2026-08-24'
     code: 642588
     url: /works/642588/
+  - title: Mesugaki ni Saikyouiku o!! | Re-Educating A Smug-Brat!!
+    author: type-yamada
+    cover: /covers/664631.jpg
+    rating: 4.3
+    date: '2026-07-16'
+    code: 664631
+    url: /works/664631/
+  - title: Otokonoko Otodoke Shimasu! 2 ~Itsumo kuru Haitatsuin-san ga Masaka no Otokonoko
+      datta kedo Mayowazu Hameta~
+    author: mitsujirou
+    cover: /covers/664672.jpg
+    rating: 4.4
+    date: '2026-07-16'
+    code: 664672
+    url: /works/664672/
+  - title: Gohoubi wa Karada de. ~Ero-sugi Fukuri Kousei wa Seishori-ka no Oshigoto~
+      (2) | The Reward is the Body ~The Overly Lewd Employee Benefits of the Service
+      Department~
+    author: c-kyuu
+    cover: /covers/668867.jpg
+    rating: 4.6
+    date: '2026-08-19'
+    code: 668867
+    url: /works/668867/
   - title: Chibikko Nurunuru Harem Seikatsu
     author: ippon-lolicon-trap
     cover: /covers/674984.jpg

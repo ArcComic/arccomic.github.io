@@ -1,8 +1,31 @@
 ---
 layout: tag
 tag_name: "full censorship"
-work_count: 8
+work_count: 19
 works:
+  - title: HUNDRED GAME Ch. 1-3
+    author: kuon-michiyoshi
+    cover: /covers/142561.jpg
+    rating: 4.5
+    date: '2026-08-19'
+    code: 142561
+    url: /works/142561/
+  - title: Sokukan Delivery
+    author: ice
+    cover: /covers/332781.jpg
+    rating: 4.2
+    date: '2026-08-20'
+    code: 332781
+    url: /works/332781/
+  - title: Koibito no Furi Shite Tara, Iki Goe ga…. Yukata Sugata no Kyonyuu Oneesan
+      ni, Tamarazu Sounyuu 1 I Can’t Stop Myself From Penetrating My Big Boobed Older
+      Female Cousin 1
+    author: takayamanon
+    cover: /covers/510022.jpg
+    rating: 4.7
+    date: '2026-08-20'
+    code: 510022
+    url: /works/510022/
   - title: Hitozuma Volley-bu no Asedaku SEX ~Shower Abinagara Micchaku Shichau? 1-2
       | Married Women's Volleyball Club Sweaty Sex - We're Being Glued Together While
       Taking A Shower? 1-2
@@ -28,6 +51,20 @@ works:
     date: '2026-08-29'
     code: 534388
     url: /works/534388/
+  - title: Iiwa Watashi no Karada Suki ni Shite Ch.1-2
+    author: shunjou-shuusuke
+    cover: /covers/561787.jpg
+    rating: 4.5
+    date: '2026-07-16'
+    code: 561787
+    url: /works/561787/
+  - title: Mamami Numa | Addicted to Her Motherly Vibes
+    author: ruruepa
+    cover: /covers/619648.jpg
+    rating: 5.0
+    date: '2026-08-18'
+    code: 619648
+    url: /works/619648/
   - title: Make Love Rank match!!③
     author: napo
     cover: /covers/659484.jpg
@@ -43,6 +80,49 @@ works:
     date: '2026-08-29'
     code: 660399
     url: /works/660399/
+  - title: Miya-chan no Kyuuin Life! - Chapter 12
+    author: furumoto-takeru
+    cover: /covers/664766.jpg
+    rating: 4.2
+    date: '2026-07-17'
+    code: 664766
+    url: /works/664766/
+  - title: Menkyo Gasshuku de Unmei no Deai o shichatta Hanashi | The Story of How I
+      Ended Up Having a Fateful Encounter at a Driver’s License Training Camp
+    author: tel-asamine-tel
+    cover: /covers/664783.jpg
+    rating: 4.1
+    date: '2026-07-17'
+    code: 664783
+    url: /works/664783/
+  - title: Summer, The Countryside, Tatami and Futon, Mother
+    author: takatsu-takatsu-keita
+    cover: /covers/673862.jpg
+    rating: 4.5
+    date: '2026-08-19'
+    code: 673862
+    url: /works/673862/
+  - title: TS Kyoudai
+    author: kagamino-mochiko
+    cover: /covers/674585.jpg
+    rating: 4.9
+    date: '2026-08-21'
+    code: 674585
+    url: /works/674585/
+  - title: TS Kyoudai
+    author: kagamino-mochiko
+    cover: /covers/674587.jpg
+    rating: 4.9
+    date: '2026-08-21'
+    code: 674587
+    url: /works/674587/
+  - title: nekonimatatabi
+    author: yuzuto-sen
+    cover: /covers/674592.jpg
+    rating: 4.0
+    date: '2026-08-21'
+    code: 674592
+    url: /works/674592/
   - title: Akan de! Nishi Kyoudai
     author: hamachi
     cover: /covers/674950.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bikini"
-work_count: 6
+work_count: 13
 works:
   - title: Bocchi de Shinda Ore ga Bishoujo Nurse ni Natta Hanashi | The Story of How
       I Died Alone and Became a Sexy Nurse
@@ -11,6 +11,13 @@ works:
     date: '2026-08-31'
     code: 494172
     url: /works/494172/
+  - title: + (SEIKO AYASE VARIOUS) +
+    author: st-mya
+    cover: /covers/555816.jpg
+    rating: 4.7
+    date: '2026-07-16'
+    code: 555816
+    url: /works/555816/
   - title: Pashiri no Shita Teku, Yabaitte... ~ Ebi Sori Iki Suru Namaiki Gyaru | Bullied
       Boy's Tongue Revenge Vol.1-4
     author: takayamanon
@@ -42,6 +49,52 @@ works:
     date: '2026-08-29'
     code: 660399
     url: /works/660399/
+  - title: Erolive Shiori Novella
+    author: doji
+    cover: /covers/664590.jpg
+    rating: 4.8
+    date: '2026-07-16'
+    code: 664590
+    url: /works/664590/
+  - title: Mesugaki ni Saikyouiku o!! | Re-Educating A Smug-Brat!!
+    author: type-yamada
+    cover: /covers/664631.jpg
+    rating: 4.3
+    date: '2026-07-16'
+    code: 664631
+    url: /works/664631/
+  - title: Miya-chan no Kyuuin Life! - Chapter 12
+    author: furumoto-takeru
+    cover: /covers/664766.jpg
+    rating: 4.2
+    date: '2026-07-17'
+    code: 664766
+    url: /works/664766/
+  - title: 'Seifukusha ~Yami ni Ochiru Hitozuma-tachi~ | Sexploiter: Housewives Falling
+      Into Darkness'
+    author: hoshino-ryuichi
+    cover: /covers/664937.jpg
+    rating: 4.2
+    date: '2026-07-17'
+    code: 664937
+    url: /works/664937/
+  - title: Gohoubi wa Karada de. ~Ero-sugi Fukuri Kousei wa Seishori-ka no Oshigoto~
+      (2) | The Reward is the Body ~The Overly Lewd Employee Benefits of the Service
+      Department~
+    author: c-kyuu
+    cover: /covers/668867.jpg
+    rating: 4.6
+    date: '2026-08-19'
+    code: 668867
+    url: /works/668867/
+  - title: 'Breeding License: The “Picking Up Girls on the Beach and Having Wild Sex”
+      Edition'
+    author: minamihama-yoriko
+    cover: /covers/674019.jpg
+    rating: 4.1
+    date: '2026-08-20'
+    code: 674019
+    url: /works/674019/
   - title: Konyakusha no Imouto wa Kao SSR, Seikaku Saiaku Jigoku no Ero Dance Onna.
       2 | My Fiancée's Younger Sister is a SSR Influencer with a Terrible Personality
       and is a Hellish Erotic Dancer. 2

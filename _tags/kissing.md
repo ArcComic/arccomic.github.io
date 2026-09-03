@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "kissing"
-work_count: 21
+work_count: 43
 works:
   - title: Shiraishi-san Wa Yokkyu Fuman | Shiraishi-san's Frustrated
     author: carburetor
@@ -10,6 +10,13 @@ works:
     date: '2026-08-24'
     code: 392617
     url: /works/392617/
+  - title: Tonari no Ayane-san Desaki Battari Hen
+    author: herio
+    cover: /covers/432356.jpg
+    rating: 4.6
+    date: '2026-08-18'
+    code: 432356
+    url: /works/432356/
   - title: Kanojo no Kawaii Mieppari | My Cute Gyaru Girlfriend Is a Total Poser
     author: buta
     cover: /covers/441114.jpg
@@ -17,6 +24,13 @@ works:
     date: '2026-08-23'
     code: 441114
     url: /works/441114/
+  - title: Asunama 9
+    author: ken-1
+    cover: /covers/477784.jpg
+    rating: 4.1
+    date: '2026-07-17'
+    code: 477784
+    url: /works/477784/
   - title: Bocchi de Shinda Ore ga Bishoujo Nurse ni Natta Hanashi | The Story of How
       I Died Alone and Became a Sexy Nurse
     author: testame
@@ -25,6 +39,30 @@ works:
     date: '2026-08-31'
     code: 494172
     url: /works/494172/
+  - title: Tokikoe Zenpen | Transcendence, The Beginning
+    author: sakujirou
+    cover: /covers/498679.jpg
+    rating: 4.6
+    date: '2026-07-17'
+    code: 498679
+    url: /works/498679/
+  - title: Musuko no Sensei wa Kyonyuu Bijo ♡ | My Son's Teacher is a Well-Endowed Woman
+      ♡
+    author: taki
+    cover: /covers/504436.jpg
+    rating: 4.4
+    date: '2026-08-18'
+    code: 504436
+    url: /works/504436/
+  - title: Koibito no Furi Shite Tara, Iki Goe ga…. Yukata Sugata no Kyonyuu Oneesan
+      ni, Tamarazu Sounyuu 1 I Can’t Stop Myself From Penetrating My Big Boobed Older
+      Female Cousin 1
+    author: takayamanon
+    cover: /covers/510022.jpg
+    rating: 4.7
+    date: '2026-08-20'
+    code: 510022
+    url: /works/510022/
   - title: Gal to no Asobikata | How to Have Fun With Gyarus!
     author: buta
     cover: /covers/531967.jpg
@@ -63,6 +101,21 @@ works:
     date: '2026-08-25'
     code: 595108
     url: /works/595108/
+  - title: Otoko no Ko otodokeshimasu! ~Itsumo kuru Haitatsuin-san ga masaka no Otoko
+      no Ko dattakedo mayowazu hameta~
+    author: mitsujirou
+    cover: /covers/605410.jpg
+    rating: 4.9
+    date: '2026-07-16'
+    code: 605410
+    url: /works/605410/
+  - title: Tomodachi ga Tsuretekita Oba-san 1
+    author: exit-up
+    cover: /covers/615538.jpg
+    rating: 4.3
+    date: '2026-07-17'
+    code: 615538
+    url: /works/615538/
   - title: Futari de Watashi o Ikasenaide...! ~Kurayami, Majiwaru Kyoudai Futon~  |
       My 2 Step-Brothers are Ganging Up on Me!  Vol.1
     author: ma-yu
@@ -71,6 +124,13 @@ works:
     date: '2026-08-29'
     code: 618087
     url: /works/618087/
+  - title: Mamami Numa | Addicted to Her Motherly Vibes
+    author: ruruepa
+    cover: /covers/619648.jpg
+    rating: 5.0
+    date: '2026-08-18'
+    code: 619648
+    url: /works/619648/
   - title: Noa-chan to Ichaicha suru Hon
     author: remora
     cover: /covers/635512.jpg
@@ -92,6 +152,13 @@ works:
     date: '2026-08-23'
     code: 639772
     url: /works/639772/
+  - title: Otokomasari na Kyonyuu Hitozuma Joushi to Amaama SeFri Kankei ni Natta Ken
+    author: elica
+    cover: /covers/641362.jpg
+    rating: 4.3
+    date: '2026-08-19'
+    code: 641362
+    url: /works/641362/
   - title: Akogare no Hito wa Mou Owari! 3
     author: group
     cover: /covers/642586.jpg
@@ -107,6 +174,13 @@ works:
     date: '2026-08-22'
     code: 652912
     url: /works/652912/
+  - title: Tonari no Ayane-san Soushuuhen | My Neighbor Ayane Anthology
+    author: herio
+    cover: /covers/656319.jpg
+    rating: 4.8
+    date: '2026-08-18'
+    code: 656319
+    url: /works/656319/
   - title: Make Love Rank match!!③
     author: napo
     cover: /covers/659484.jpg
@@ -114,6 +188,42 @@ works:
     date: '2026-08-22'
     code: 659484
     url: /works/659484/
+  - title: Ryuu no Gekirin
+    author: p-n
+    cover: /covers/664626.jpg
+    rating: 4.5
+    date: '2026-07-16'
+    code: 664626
+    url: /works/664626/
+  - title: Makocchi and Riori
+    author: yudoufu
+    cover: /covers/664742.jpg
+    rating: 4.8
+    date: '2026-07-17'
+    code: 664742
+    url: /works/664742/
+  - title: Osananajimi Kanojo, Netorare Choukyou
+    author: naporitan
+    cover: /covers/664798.jpg
+    rating: 4.5
+    date: '2026-07-17'
+    code: 664798
+    url: /works/664798/
+  - title: 'Seifukusha ~Yami ni Ochiru Hitozuma-tachi~ | Sexploiter: Housewives Falling
+      Into Darkness'
+    author: hoshino-ryuichi
+    cover: /covers/664937.jpg
+    rating: 4.2
+    date: '2026-07-17'
+    code: 664937
+    url: /works/664937/
+  - title: Ame ga Nioeba | The Scent of Rain
+    author: owari-ningen
+    cover: /covers/664943.jpg
+    rating: 4.7
+    date: '2026-07-17'
+    code: 664943
+    url: /works/664943/
   - title: Niizuma Nanaka no Roshutsu Office
     author: fukurou-naru-tori
     cover: /covers/668605.jpg
@@ -121,6 +231,56 @@ works:
     date: '2026-08-28'
     code: 668605
     url: /works/668605/
+  - title: Azanaharu Kanojo no Shikiroku | Color Records of a Girlfriend in Entanglement
+    author: allegro
+    cover: /covers/669452.jpg
+    rating: 4.7
+    date: '2026-08-20'
+    code: 669452
+    url: /works/669452/
+  - title: Nuite Moraimakuri Nyuuin Seikatsu ~Tasuketa Cool-Gyaru wa Jitsu wa Sukebe
+      deshita~
+    author: gujira
+    cover: /covers/673508.jpg
+    rating: 4.2
+    date: '2026-08-18'
+    code: 673508
+    url: /works/673508/
+  - title: Summer, The Countryside, Tatami and Futon, Mother
+    author: takatsu-takatsu-keita
+    cover: /covers/673862.jpg
+    rating: 4.5
+    date: '2026-08-19'
+    code: 673862
+    url: /works/673862/
+  - title: A Mother Who Had Sex With Her Daughter's Boyfriend
+    author: cammy
+    cover: /covers/673900.jpg
+    rating: 4.6
+    date: '2026-08-19'
+    code: 673900
+    url: /works/673900/
+  - title: Niihama Yui Husband Exclusive Re-debut
+    author: buta
+    cover: /covers/674199.jpg
+    rating: 4.3
+    date: '2026-08-20'
+    code: 674199
+    url: /works/674199/
+  - title: Everyone's Kissing Club - Chapter 1-29
+    author: group
+    cover: /covers/674286.jpg
+    rating: 4.5
+    date: '2026-08-20'
+    code: 674286
+    url: /works/674286/
+  - title: Ura-account Sensei
+    author: tokiwa-midori
+    cover: /covers/674609.jpg
+    rating: 4.6
+    date: '2026-08-21'
+    code: 674609
+    url: /works/674609/
   - title: Shitate ni wa Denai kedo Chinko ni wa Yowai Gyaru-chan to Kyokon Otaku! |
       A gal who doesn't act submissive but is weak for a big cock, and a huge-dicked
       otaku.

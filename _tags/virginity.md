@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "virginity"
-work_count: 13
+work_count: 21
 works:
   - title: Homestay-chu no Doitsu Musume ga Issho ni Furo ni Haitte Kuru Wake | The
       Reason Why a German Girl Takes a Bath Together With Me on Her Homestay
@@ -32,6 +32,13 @@ works:
     date: '2026-08-25'
     code: 512473
     url: /works/512473/
+  - title: Iiwa Watashi no Karada Suki ni Shite Ch.1-2
+    author: shunjou-shuusuke
+    cover: /covers/561787.jpg
+    rating: 4.5
+    date: '2026-07-16'
+    code: 561787
+    url: /works/561787/
   - title: Tennen Kaa-san ga Ero Kawai Sugiru node, Saimin Onaho Sex Shitatta! | My
       Airheaded Mom Was Too Adorably Sexy, So I Had Hypnotized Onahole Sex with Her!
     author: ginen
@@ -48,6 +55,13 @@ works:
     date: '2026-08-24'
     code: 584934
     url: /works/584934/
+  - title: MY FIRST TIME HAVING SEX WAS WITH MY FRIEND'S MOM
+    author: ariyuzi
+    cover: /covers/585515.jpg
+    rating: 4.2
+    date: '2026-07-17'
+    code: 585515
+    url: /works/585515/
   - title: Himitsu Koueki + Kake
     author: tsukumo-nikyu
     cover: /covers/586316.jpg
@@ -63,6 +77,28 @@ works:
     date: '2026-08-29'
     code: 589969
     url: /works/589969/
+  - title: Yuujin no Haha wa Dekachin ni Yowai | My Friend's Mom is Weak to a Huge Cock
+    author: shimofuri
+    cover: /covers/593575.jpg
+    rating: 4.4
+    date: '2026-08-21'
+    code: 593575
+    url: /works/593575/
+  - title: Tomodachi ga Tsuretekita Oba-san 1
+    author: exit-up
+    cover: /covers/615538.jpg
+    rating: 4.3
+    date: '2026-07-17'
+    code: 615538
+    url: /works/615538/
+  - title: Onsen Haitte tara Joseito-tachi ga Osotte Kita | My Students Jumped Me When
+      I Got in the Hot Spring
+    author: hamo
+    cover: /covers/639463.jpg
+    rating: 4.7
+    date: '2026-08-20'
+    code: 639463
+    url: /works/639463/
   - title: BUTA - 『You did a great job』
     author: buta
     cover: /covers/639772.jpg
@@ -85,6 +121,28 @@ works:
     date: '2026-08-29'
     code: 660399
     url: /works/660399/
+  - title: Nuite Moraimakuri Nyuuin Seikatsu ~Tasuketa Cool-Gyaru wa Jitsu wa Sukebe
+      deshita~
+    author: gujira
+    cover: /covers/673508.jpg
+    rating: 4.2
+    date: '2026-08-18'
+    code: 673508
+    url: /works/673508/
+  - title: Kowai no Yori Ecchi na no ga Suki | I Prefer Lewd Things Over Scary Thing
+    author: yuuki-konefu
+    cover: /covers/674233.jpg
+    rating: 4.0
+    date: '2026-08-20'
+    code: 674233
+    url: /works/674233/
+  - title: Maou Hime wa Koui ga Jakuten | The Demon Lord Princess is Weak to Affection
+    author: monchan-rev3
+    cover: /covers/674710.jpg
+    rating: 5.0
+    date: '2026-08-21'
+    code: 674710
+    url: /works/674710/
   - title: Single Mother Aoki-san no Kakeijutsu｜Single Mother Aoki-san's Budgeting Hacks
     author: fujinoe13b
     cover: /covers/674927.jpg

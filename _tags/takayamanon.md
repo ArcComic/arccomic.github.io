@@ -1,8 +1,17 @@
 ---
 layout: tag
 tag_name: "takayamanon"
-work_count: 1
+work_count: 2
 works:
+  - title: Koibito no Furi Shite Tara, Iki Goe ga…. Yukata Sugata no Kyonyuu Oneesan
+      ni, Tamarazu Sounyuu 1 I Can’t Stop Myself From Penetrating My Big Boobed Older
+      Female Cousin 1
+    author: takayamanon
+    cover: /covers/510022.jpg
+    rating: 4.7
+    date: '2026-08-20'
+    code: 510022
+    url: /works/510022/
   - title: Pashiri no Shita Teku, Yabaitte... ~ Ebi Sori Iki Suru Namaiki Gyaru | Bullied
       Boy's Tongue Revenge Vol.1-4
     author: takayamanon

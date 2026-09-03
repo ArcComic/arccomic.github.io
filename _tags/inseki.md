@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "inseki"
-work_count: 9
+work_count: 15
 works:
+  - title: Gibo-san wa Boku no Mono 7
+    author: c-kyuu
+    cover: /covers/511503.jpg
+    rating: 4.4
+    date: '2026-08-19'
+    code: 511503
+    url: /works/511503/
   - title: Bitch Mama no Kekkon Riyuu
     author: aoyama-akira
     cover: /covers/512473.jpg
@@ -10,6 +17,20 @@ works:
     date: '2026-08-25'
     code: 512473
     url: /works/512473/
+  - title: Youka-go Tsuma no Haha o Daku | Eight Days With My Wife's Mother
+    author: jagaimo
+    cover: /covers/534808.jpg
+    rating: 4.3
+    date: '2026-08-19'
+    code: 534808
+    url: /works/534808/
+  - title: Iiwa Watashi no Karada Suki ni Shite Ch.1-2
+    author: shunjou-shuusuke
+    cover: /covers/561787.jpg
+    rating: 4.5
+    date: '2026-07-16'
+    code: 561787
+    url: /works/561787/
   - title: Kyoushi to Mama to Koibito no Kao
     author: mifune-seijirou
     cover: /covers/592307.jpg
@@ -54,6 +75,28 @@ works:
     date: '2026-08-29'
     code: 660399
     url: /works/660399/
+  - title: Giri no Oyako ga Doukyou Shitereba Kitto kou | If a stepmother and her stepson
+      lived together, it would be something like this.
+    author: shimipan
+    cover: /covers/664831.jpg
+    rating: 4.9
+    date: '2026-07-16'
+    code: 664831
+    url: /works/664831/
+  - title: Nayotake Kaguya no Himegoto
+    author: yukino-minato
+    cover: /covers/673992.jpg
+    rating: 4.4
+    date: '2026-08-19'
+    code: 673992
+    url: /works/673992/
+  - title: Boku no Katei wa Kuruimashita | My family has gone crazy
+    author: torimomo
+    cover: /covers/674719.jpg
+    rating: 4.8
+    date: '2026-08-21'
+    code: 674719
+    url: /works/674719/
   - title: Mesu no Ie III ~Oyako wa Midare Aisareru~
     author: ame-arare
     cover: /covers/675981.jpg

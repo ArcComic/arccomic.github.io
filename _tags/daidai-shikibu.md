@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "daidai shikibu"
-work_count: 7
+work_count: 8
 works:
   - title: Anta, Nandetatten no?
     author: daidai-shikibu
@@ -38,6 +38,13 @@ works:
     date: '2026-08-25'
     code: 656143
     url: /works/656143/
+  - title: Kaa-san o Oshitaoshita Hi
+    author: daidai-shikibu
+    cover: /covers/656615.jpg
+    rating: 4.2
+    date: '2026-08-21'
+    code: 656615
+    url: /works/656615/
   - title: Okaasan nara Daijyoubu Da Kara
     author: daidai-shikibu
     cover: /covers/658826.jpg

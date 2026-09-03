@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "netorase"
-work_count: 4
+work_count: 7
 works:
+  - title: The wife's unfaithful copulation picture album
+    author: allegro
+    cover: /covers/578583.jpg
+    rating: 4.5
+    date: '2026-08-20'
+    code: 578583
+    url: /works/578583/
   - title: Sono Gal Mama wa Koubi Suru | This Gyaru Mom is Having Sex.
     author: ameto-yuki
     cover: /covers/608648.jpg
@@ -31,4 +38,18 @@ works:
     date: '2026-08-25'
     code: 637847
     url: /works/637847/
+  - title: Miya-chan no Kyuuin Life! - Chapter 12
+    author: furumoto-takeru
+    cover: /covers/664766.jpg
+    rating: 4.2
+    date: '2026-07-17'
+    code: 664766
+    url: /works/664766/
+  - title: Akogare Senpai ga NTR sareru Hon
+    author: seinen-hormone
+    cover: /covers/672241.jpg
+    rating: 4.4
+    date: '2026-08-21'
+    code: 672241
+    url: /works/672241/
 ---

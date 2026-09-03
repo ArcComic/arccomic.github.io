@@ -1,8 +1,44 @@
 ---
 layout: tag
 tag_name: "blackmail"
-work_count: 7
+work_count: 21
 works:
+  - title: Netorare Ibe Kiba Shizuka | The Netorare of Kiba Shizuka
+    author: terasu-mc
+    cover: /covers/288292.jpg
+    rating: 4.0
+    date: '2026-07-16'
+    code: 288292
+    url: /works/288292/
+  - title: Musume no Kareshi ni Ochiru Okaa-san. 2 | A Mother Who Falls For Her Daughter's
+      Boyfriend 2
+    author: sinori
+    cover: /covers/434993.jpg
+    rating: 4.4
+    date: '2026-07-16'
+    code: 434993
+    url: /works/434993/
+  - title: Niizuma Joushi wa Buka no Chinpo de Do-M Ochi
+    author: chinpan
+    cover: /covers/464371.jpg
+    rating: 4.1
+    date: '2026-07-16'
+    code: 464371
+    url: /works/464371/
+  - title: Hiro-kun no Mama Wa Boku no Dorei 2 | Hiro-kun Mama Is My Sex Slave 2
+    author: exit-up
+    cover: /covers/508818.jpg
+    rating: 4.4
+    date: '2026-08-18'
+    code: 508818
+    url: /works/508818/
+  - title: Haha ga Aitsu no Omocha ni Ochiru made ~Naomi 1
+    author: karukiya
+    cover: /covers/511662.jpg
+    rating: 4.2
+    date: '2026-08-18'
+    code: 511662
+    url: /works/511662/
   - title: Kyoushi no Oba wa Himitsu no Bakunyuu Ero Cos Layer ~Iinari Gyaku Bunny &
       Sister Cos de Keiren Soku Iki Nakadashi Netori~ | My Teacher Aunt Is Secretly
       A Buxom Erotic Cosplayer
@@ -12,6 +48,20 @@ works:
     date: '2026-08-25'
     code: 518387
     url: /works/518387/
+  - title: My Friends Mom Is My Toy
+    author: exit-up
+    cover: /covers/521812.jpg
+    rating: 4.4
+    date: '2026-08-18'
+    code: 521812
+    url: /works/521812/
+  - title: DAME Ch 1-3
+    author: zaki-zaraki
+    cover: /covers/530728.jpg
+    rating: 4.8
+    date: '2026-08-18'
+    code: 530728
+    url: /works/530728/
   - title: Ottori Itome no Oba o Odoshite Hamete Iinari Onaho-ka Keikaku | Gentle Slit-Eyed
       Aunty Blackmail & Obedient Fuckhole Training Project
     author: ginen
@@ -36,6 +86,49 @@ works:
     date: '2026-08-28'
     code: 652651
     url: /works/652651/
+  - title: Haha no Himitsu o Shitte
+    author: unknown
+    cover: /covers/654114.jpg
+    rating: 4.4
+    date: '2026-08-21'
+    code: 654114
+    url: /works/654114/
+  - title: Honey Series
+    author: nitta-jun
+    cover: /covers/664424.jpg
+    rating: 4.6
+    date: '2026-07-16'
+    code: 664424
+    url: /works/664424/
+  - title: 'Seifukusha ~Yami ni Ochiru Hitozuma-tachi~ | Sexploiter: Housewives Falling
+      Into Darkness'
+    author: hoshino-ryuichi
+    cover: /covers/664937.jpg
+    rating: 4.2
+    date: '2026-07-17'
+    code: 664937
+    url: /works/664937/
+  - title: Akogare Senpai ga NTR sareru Hon
+    author: seinen-hormone
+    cover: /covers/672241.jpg
+    rating: 4.4
+    date: '2026-08-21'
+    code: 672241
+    url: /works/672241/
+  - title: Pawahara Onna Joshi, Yowami wo Nigirarete Zenra Dogeza de Fukujuu S
+    author: miyamoto-muga
+    cover: /covers/673775.jpg
+    rating: 4.6
+    date: '2026-08-18'
+    code: 673775
+    url: /works/673775/
+  - title: Kaho-chan wa Oshioki Shitai
+    author: serakichi
+    cover: /covers/674298.jpg
+    rating: 4.1
+    date: '2026-08-20'
+    code: 674298
+    url: /works/674298/
   - title: Onii-san Zako sugite Ukeru~ | Big Brother, you're so pathetic, it's hilarious~
     author: puritei
     cover: /covers/674568.jpg
@@ -43,6 +136,15 @@ works:
     date: '2026-08-21'
     code: 674568
     url: /works/674568/
+  - title: Boku to Mama wa Love Love nanoni, Sensei to Mechakucha Sex shiteru Hanashi
+      | A story about how, despite being all lovey-dovey with my mom, she's having wild
+      sex with my teacher.
+    author: smells-like
+    cover: /covers/674663.jpg
+    rating: 4.7
+    date: '2026-08-21'
+    code: 674663
+    url: /works/674663/
   - title: Seiso Celeb na Hitozuma no Honshou o Saimin de Mezame Sasete Mitara Hametsu
       Ganbou Mochi no Inran Bitch Datta | When I used hypnosis to awaken the true nature
       of a chaste, upper-class housewife...She turned out to be a self- destructive,

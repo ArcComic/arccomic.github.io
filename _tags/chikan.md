@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "chikan"
-work_count: 4
+work_count: 5
 works:
   - title: '"Sex no Benkyou Shiyokka?" Kareshi ga Iru no ni Itoko kara Shojo wo Ubaware
       Zecchou Shidou 1-5 | Let''s Learn About Sex: Your Cousin Will Take Your Virginity
@@ -35,4 +35,11 @@ works:
     date: '2026-08-29'
     code: 660399
     url: /works/660399/
+  - title: Miyoku no Shiro -An Incarnating Ravish- | 魅欲之城
+    author: tokupyon
+    cover: /covers/664770.jpg
+    rating: 4.7
+    date: '2026-07-17'
+    code: 664770
+    url: /works/664770/
 ---

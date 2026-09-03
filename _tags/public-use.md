@@ -1,0 +1,22 @@
+---
+layout: tag
+tag_name: "public use"
+work_count: 2
+works:
+  - title: Dansei ga Kyokutan ni Sukunai Kono Sekai de wa, Seishi wa Kichou na Shigen
+      desu. Sono 2 | In a World Where Men Are Scarce, Sperm Is a Precious Resource 2
+    author: group
+    cover: /covers/537794.jpg
+    rating: 5.0
+    date: '2026-08-20'
+    code: 537794
+    url: /works/537794/
+  - title: A story about a shy childhood friend who can’t say no and ends up being put
+      in charge of handling sexual needs.
+    author: sakurayu-hal
+    cover: /covers/655498.jpg
+    rating: 4.4
+    date: '2026-07-16'
+    code: 655498
+    url: /works/655498/
+---

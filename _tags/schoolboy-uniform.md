@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "schoolboy uniform"
-work_count: 6
+work_count: 12
 works:
   - title: Gal to no Asobikata | How to Have Fun With Gyarus!
     author: buta
@@ -18,6 +18,49 @@ works:
     date: '2026-08-29'
     code: 589969
     url: /works/589969/
+  - title: A story about a shy childhood friend who can’t say no and ends up being put
+      in charge of handling sexual needs.
+    author: sakurayu-hal
+    cover: /covers/655498.jpg
+    rating: 4.4
+    date: '2026-07-16'
+    code: 655498
+    url: /works/655498/
+  - title: Friend With Benefit With My Friends Mom
+    author: cammy
+    cover: /covers/671657.jpg
+    rating: 4.7
+    date: '2026-08-19'
+    code: 671657
+    url: /works/671657/
+  - title: A Mother Who Had Sex With Her Daughter's Boyfriend
+    author: cammy
+    cover: /covers/673900.jpg
+    rating: 4.6
+    date: '2026-08-19'
+    code: 673900
+    url: /works/673900/
+  - title: Everyone's Kissing Club - Chapter 1-29
+    author: group
+    cover: /covers/674286.jpg
+    rating: 4.5
+    date: '2026-08-20'
+    code: 674286
+    url: /works/674286/
+  - title: Ura-account Sensei
+    author: tokiwa-midori
+    cover: /covers/674609.jpg
+    rating: 4.6
+    date: '2026-08-21'
+    code: 674609
+    url: /works/674609/
+  - title: Hitoe-san no warui kuse | Hitoe's Bad Habit
+    author: jirou
+    cover: /covers/674702.jpg
+    rating: 4.5
+    date: '2026-08-21'
+    code: 674702
+    url: /works/674702/
   - title: Ano Hi, Sunao ni Suki to Ieta nara - If only I could have honestly said that
       I loved you that day.
     author: kazuwo-daisuke

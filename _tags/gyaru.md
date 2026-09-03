@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "gyaru"
-work_count: 8
+work_count: 15
 works:
   - title: Kanojo no Kawaii Mieppari | My Cute Gyaru Girlfriend Is a Total Poser
     author: buta
@@ -47,6 +47,56 @@ works:
     date: '2026-08-23'
     code: 639772
     url: /works/639772/
+  - title: Honey Series
+    author: nitta-jun
+    cover: /covers/664424.jpg
+    rating: 4.6
+    date: '2026-07-16'
+    code: 664424
+    url: /works/664424/
+  - title: My Genius Senpai Girlfriend Swapped Bodies with a Gal!
+    author: kuratsuka-riko
+    cover: /covers/664584.jpg
+    rating: 4.1
+    date: '2026-07-16'
+    code: 664584
+    url: /works/664584/
+  - title: Mukatsuku Juumai no Kuchimanko ni Kounai Shasei suru Hanashi.
+    author: karube-guri
+    cover: /covers/664820.jpg
+    rating: 5.0
+    date: '2026-07-16'
+    code: 664820
+    url: /works/664820/
+  - title: Nuite Moraimakuri Nyuuin Seikatsu ~Tasuketa Cool-Gyaru wa Jitsu wa Sukebe
+      deshita~
+    author: gujira
+    cover: /covers/673508.jpg
+    rating: 4.2
+    date: '2026-08-18'
+    code: 673508
+    url: /works/673508/
+  - title: Pawahara Onna Joshi, Yowami wo Nigirarete Zenra Dogeza de Fukujuu S
+    author: miyamoto-muga
+    cover: /covers/673775.jpg
+    rating: 4.6
+    date: '2026-08-18'
+    code: 673775
+    url: /works/673775/
+  - title: 'Breeding License: ~Am I, the Unpopular Guy, the One with the Strongest Genes?!~'
+    author: minamihama-yoriko
+    cover: /covers/674009.jpg
+    rating: 4.8
+    date: '2026-08-20'
+    code: 674009
+    url: /works/674009/
+  - title: Niihama Yui Husband Exclusive Re-debut
+    author: buta
+    cover: /covers/674199.jpg
+    rating: 4.3
+    date: '2026-08-20'
+    code: 674199
+    url: /works/674199/
   - title: Shitate ni wa Denai kedo Chinko ni wa Yowai Gyaru-chan to Kyokon Otaku! |
       A gal who doesn't act submissive but is weak for a big cock, and a huge-dicked
       otaku.

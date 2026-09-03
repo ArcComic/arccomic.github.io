@@ -1,8 +1,22 @@
 ---
 layout: tag
 tag_name: "uncensored"
-work_count: 8
+work_count: 15
 works:
+  - title: Konoe no Kyuujitsu | Konoe's Day Off
+    author: alp
+    cover: /covers/479447.jpg
+    rating: 4.9
+    date: '2026-08-18'
+    code: 479447
+    url: /works/479447/
+  - title: Anata no Shiori ni Naritai - I Just Want To Be Your Shiori
+    author: naokomama
+    cover: /covers/530476.jpg
+    rating: 4.6
+    date: '2026-07-16'
+    code: 530476
+    url: /works/530476/
   - title: Uwa, Mesugaki Tsuyoi! | Crap, This Mesugaki's Too Powerful!
     author: poncocchan
     cover: /covers/550359.jpg
@@ -18,6 +32,13 @@ works:
     date: '2026-08-29'
     code: 589969
     url: /works/589969/
+  - title: Yuujin no Haha wa Dekachin ni Yowai | My Friend's Mom is Weak to a Huge Cock
+    author: shimofuri
+    cover: /covers/593575.jpg
+    rating: 4.4
+    date: '2026-08-21'
+    code: 593575
+    url: /works/593575/
   - title: Zessan Haishinchuu Gibo Nikubenki Keikaku! Ch.1-5
     author: maki-daikichi
     cover: /covers/656140.jpg
@@ -25,6 +46,13 @@ works:
     date: '2026-08-22'
     code: 656140
     url: /works/656140/
+  - title: Tonari no Ayane-san Soushuuhen | My Neighbor Ayane Anthology
+    author: herio
+    cover: /covers/656319.jpg
+    rating: 4.8
+    date: '2026-08-18'
+    code: 656319
+    url: /works/656319/
   - title: Soen ni Natteta Osananajimi ga Okuchi Onaho Gayoi Shite Kuru Mikkakan | Three
       Days Treating My Estranged Friend As An Oral Fuckhole
     author: poncocchan
@@ -33,6 +61,27 @@ works:
     date: '2026-08-31'
     code: 669505
     url: /works/669505/
+  - title: 'Married Woman Club: Glass Slippers'
+    author: kuroiwa-menou
+    cover: /covers/673944.jpg
+    rating: 4.2
+    date: '2026-08-19'
+    code: 673944
+    url: /works/673944/
+  - title: Ura-account Sensei
+    author: tokiwa-midori
+    cover: /covers/674609.jpg
+    rating: 4.6
+    date: '2026-08-21'
+    code: 674609
+    url: /works/674609/
+  - title: Maou Hime wa Koui ga Jakuten | The Demon Lord Princess is Weak to Affection
+    author: monchan-rev3
+    cover: /covers/674710.jpg
+    rating: 5.0
+    date: '2026-08-21'
+    code: 674710
+    url: /works/674710/
   - title: Midnight Lilies Full Release
     author: landacdeus
     cover: /covers/674863.jpg

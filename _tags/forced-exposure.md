@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "forced exposure"
-work_count: 2
+work_count: 3
 works:
   - title: Chikubi Kando Chousa, Hajimemasu
     author: nanahamu
@@ -18,4 +18,11 @@ works:
     date: '2026-08-24'
     code: 584934
     url: /works/584934/
+  - title: Everyone's Kissing Club - Chapter 1-29
+    author: group
+    cover: /covers/674286.jpg
+    rating: 4.5
+    date: '2026-08-20'
+    code: 674286
+    url: /works/674286/
 ---

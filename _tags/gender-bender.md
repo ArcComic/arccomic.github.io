@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "gender bender"
-work_count: 4
+work_count: 7
 works:
+  - title: Gekkoutou no Yume - Nyotaika Douwa ~Danshi Kinsei no Tou~
+    author: mugen-no-sudadokei
+    cover: /covers/387365.jpg
+    rating: 4.3
+    date: '2026-08-21'
+    code: 387365
+    url: /works/387365/
   - title: Bocchi de Shinda Ore ga Bishoujo Nurse ni Natta Hanashi | The Story of How
       I Died Alone and Became a Sexy Nurse
     author: testame
@@ -18,6 +25,20 @@ works:
     date: '2026-08-21'
     code: 674463
     url: /works/674463/
+  - title: TS Kyoudai
+    author: kagamino-mochiko
+    cover: /covers/674585.jpg
+    rating: 4.9
+    date: '2026-08-21'
+    code: 674585
+    url: /works/674585/
+  - title: TS Kyoudai
+    author: kagamino-mochiko
+    cover: /covers/674587.jpg
+    rating: 4.9
+    date: '2026-08-21'
+    code: 674587
+    url: /works/674587/
   - title: Otokonoko Dorei - "OTOKONO-ko" Slave
     author: wakamiya-santa-gekka-saeki
     cover: /covers/674960.jpg

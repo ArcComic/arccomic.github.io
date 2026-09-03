@@ -1,8 +1,30 @@
 ---
 layout: tag
 tag_name: "rape"
-work_count: 20
+work_count: 36
 works:
+  - title: Musume no Kareshi ni Ochiru Okaa-san. 2 | A Mother Who Falls For Her Daughter's
+      Boyfriend 2
+    author: sinori
+    cover: /covers/434993.jpg
+    rating: 4.4
+    date: '2026-07-16'
+    code: 434993
+    url: /works/434993/
+  - title: My Friends Mom Is My Toy
+    author: exit-up
+    cover: /covers/521812.jpg
+    rating: 4.4
+    date: '2026-08-18'
+    code: 521812
+    url: /works/521812/
+  - title: Shuuden Deisui Anken
+    author: uds
+    cover: /covers/525085.jpg
+    rating: 4.8
+    date: '2026-08-19'
+    code: 525085
+    url: /works/525085/
   - title: '"Sex no Benkyou Shiyokka?" Kareshi ga Iru no ni Itoko kara Shojo wo Ubaware
       Zecchou Shidou 1-5 | Let''s Learn About Sex: Your Cousin Will Take Your Virginity
       and Teach You How to Come 1-5'
@@ -12,6 +34,14 @@ works:
     date: '2026-08-29'
     code: 534388
     url: /works/534388/
+  - title: Jinsei Hametsu JC ~Watashi no Jinsei, Doushite Kounacchattan daro?~ | Middle
+      Schooler's Life Ruined - How Did My Life Turn Out Like This [English] =TB=
+    author: circle-hitori
+    cover: /covers/545823.jpg
+    rating: 4.5
+    date: '2026-07-17'
+    code: 545823
+    url: /works/545823/
   - title: Tennen Kaa-san ga Ero Kawai Sugiru node, Saimin Onaho Sex Shitatta! | My
       Airheaded Mom Was Too Adorably Sexy, So I Had Hypnotized Onahole Sex with Her!
     author: ginen
@@ -67,6 +97,13 @@ works:
     date: '2026-08-25'
     code: 643933
     url: /works/643933/
+  - title: Haha no Himitsu o Shitte
+    author: unknown
+    cover: /covers/654114.jpg
+    rating: 4.4
+    date: '2026-08-21'
+    code: 654114
+    url: /works/654114/
   - title: Provoking Men Part 1
     author: pororivista
     cover: /covers/654373.jpg
@@ -81,6 +118,20 @@ works:
     date: '2026-08-24'
     code: 655291
     url: /works/655291/
+  - title: Karada ga Binkan Sugiru Watashi wa Itoko ni Itazura sarete mo Teikoudekinai!
+    author: romomata
+    cover: /covers/655421.jpg
+    rating: 5.0
+    date: '2026-08-21'
+    code: 655421
+    url: /works/655421/
+  - title: Jitsubo Kan ~Gifu no Inai Suki ni Jitsu no Haha o Muriyari Okashite Haramaeta
+    author: louis-and-visee
+    cover: /covers/656034.jpg
+    rating: 4.6
+    date: '2026-08-21'
+    code: 656034
+    url: /works/656034/
   - title: Zessan Haishinchuu Gibo Nikubenki Keikaku! Ch.1-5
     author: maki-daikichi
     cover: /covers/656140.jpg
@@ -102,6 +153,13 @@ works:
     date: '2026-08-25'
     code: 656146
     url: /works/656146/
+  - title: Kaa-san o Oshitaoshita Hi
+    author: daidai-shikibu
+    cover: /covers/656615.jpg
+    rating: 4.2
+    date: '2026-08-21'
+    code: 656615
+    url: /works/656615/
   - title: Haha Ana ni Irazumba
     author: unknown
     cover: /covers/657981.jpg
@@ -109,6 +167,28 @@ works:
     date: '2026-08-24'
     code: 657981
     url: /works/657981/
+  - title: Miyoku no Shiro -An Incarnating Ravish- | 魅欲之城
+    author: tokupyon
+    cover: /covers/664770.jpg
+    rating: 4.7
+    date: '2026-07-17'
+    code: 664770
+    url: /works/664770/
+  - title: My Big brother
+    author: momoyama-hato
+    cover: /covers/664926.jpg
+    rating: 4.8
+    date: '2026-07-17'
+    code: 664926
+    url: /works/664926/
+  - title: 'Seifukusha ~Yami ni Ochiru Hitozuma-tachi~ | Sexploiter: Housewives Falling
+      Into Darkness'
+    author: hoshino-ryuichi
+    cover: /covers/664937.jpg
+    rating: 4.2
+    date: '2026-07-17'
+    code: 664937
+    url: /works/664937/
   - title: Super de Genki ni Hataraku Hahaoya ga Hikikomori Musuko ni Tanetsuke Saremakutteita
       Hanashi
     author: daidai-shikibu
@@ -124,6 +204,42 @@ works:
     date: '2026-08-25'
     code: 672450
     url: /works/672450/
+  - title: Jitaku ni Shinnyuu Sareta Onnanoko ~Shojo Soushitsu Nakadashi Rape~
+    author: usagi-no-yume
+    cover: /covers/673983.jpg
+    rating: 4.8
+    date: '2026-08-19'
+    code: 673983
+    url: /works/673983/
+  - title: Nayotake Kaguya no Himegoto
+    author: yukino-minato
+    cover: /covers/673992.jpg
+    rating: 4.4
+    date: '2026-08-19'
+    code: 673992
+    url: /works/673992/
+  - title: Jirashite Jirashite Jirashite Jirashite Pierce | Tease Me, Tease Me, Tease
+      Me Teasing Piercing
+    author: chi-ra-rhyzhm
+    cover: /covers/674569.jpg
+    rating: 5.0
+    date: '2026-08-21'
+    code: 674569
+    url: /works/674569/
+  - title: TS Kyoudai
+    author: kagamino-mochiko
+    cover: /covers/674587.jpg
+    rating: 4.9
+    date: '2026-08-21'
+    code: 674587
+    url: /works/674587/
+  - title: Bitch Girls
+    author: itou
+    cover: /covers/674701.jpg
+    rating: 4.9
+    date: '2026-08-21'
+    code: 674701
+    url: /works/674701/
   - title: Hakkyou Suru Koi ~Imouto no Shinyuu o Boko Shite Rape~
     author: akiboshigai
     cover: /covers/674948.jpg

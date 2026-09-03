@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "poncocchan"
-work_count: 2
+work_count: 3
 works:
   - title: Uwa, Mesugaki Tsuyoi! | Crap, This Mesugaki's Too Powerful!
     author: poncocchan
@@ -18,4 +18,11 @@ works:
     date: '2026-08-31'
     code: 669505
     url: /works/669505/
+  - title: Nomi Tomo to! | Drinking Buddies!
+    author: poncocchan
+    cover: /covers/674704.jpg
+    rating: 4.5
+    date: '2026-08-21'
+    code: 674704
+    url: /works/674704/
 ---

@@ -1,8 +1,23 @@
 ---
 layout: tag
 tag_name: "ahegao"
-work_count: 17
+work_count: 35
 works:
+  - title: Yuri no o saifu ni shite agemasu ne, Senpai | I'll turn you into Yuri's wallet,
+      Senpai
+    author: doskoinpo
+    cover: /covers/289523.jpg
+    rating: 4.6
+    date: '2026-07-17'
+    code: 289523
+    url: /works/289523/
+  - title: Asuna-san ga Agil ni Netorareru Ohanashi
+    author: fujimiya-siryu
+    cover: /covers/300943.jpg
+    rating: 4.3
+    date: '2026-07-17'
+    code: 300943
+    url: /works/300943/
   - title: Shiraishi-san Wa Yokkyu Fuman | Shiraishi-san's Frustrated
     author: carburetor
     cover: /covers/392617.jpg
@@ -10,6 +25,13 @@ works:
     date: '2026-08-24'
     code: 392617
     url: /works/392617/
+  - title: Asunama 9
+    author: ken-1
+    cover: /covers/477784.jpg
+    rating: 4.1
+    date: '2026-07-17'
+    code: 477784
+    url: /works/477784/
   - title: Bocchi de Shinda Ore ga Bishoujo Nurse ni Natta Hanashi | The Story of How
       I Died Alone and Became a Sexy Nurse
     author: testame
@@ -18,6 +40,13 @@ works:
     date: '2026-08-31'
     code: 494172
     url: /works/494172/
+  - title: Gibo-san wa Boku no Mono 7
+    author: c-kyuu
+    cover: /covers/511503.jpg
+    rating: 4.4
+    date: '2026-08-19'
+    code: 511503
+    url: /works/511503/
   - title: Bitch Mama no Kekkon Riyuu
     author: aoyama-akira
     cover: /covers/512473.jpg
@@ -25,6 +54,28 @@ works:
     date: '2026-08-25'
     code: 512473
     url: /works/512473/
+  - title: Youka-go Tsuma no Haha o Daku | Eight Days With My Wife's Mother
+    author: jagaimo
+    cover: /covers/534808.jpg
+    rating: 4.3
+    date: '2026-08-19'
+    code: 534808
+    url: /works/534808/
+  - title: Dansei ga Kyokutan ni Sukunai Kono Sekai de wa, Seishi wa Kichou na Shigen
+      desu. Sono 2 | In a World Where Men Are Scarce, Sperm Is a Precious Resource 2
+    author: group
+    cover: /covers/537794.jpg
+    rating: 5.0
+    date: '2026-08-20'
+    code: 537794
+    url: /works/537794/
+  - title: Kichiku Kyoushi ni Otosareta Boku no Seitokaichou Part.3
+    author: norakuro-nero
+    cover: /covers/557452.jpg
+    rating: 4.0
+    date: '2026-08-20'
+    code: 557452
+    url: /works/557452/
   - title: Kyoushi to Mama to Koibito no Kao
     author: mifune-seijirou
     cover: /covers/592307.jpg
@@ -39,6 +90,66 @@ works:
     date: '2026-08-22'
     code: 635512
     url: /works/635512/
+  - title: Onsen Haitte tara Joseito-tachi ga Osotte Kita | My Students Jumped Me When
+      I Got in the Hot Spring
+    author: hamo
+    cover: /covers/639463.jpg
+    rating: 4.7
+    date: '2026-08-20'
+    code: 639463
+    url: /works/639463/
+  - title: A story about a shy childhood friend who can’t say no and ends up being put
+      in charge of handling sexual needs.
+    author: sakurayu-hal
+    cover: /covers/655498.jpg
+    rating: 4.4
+    date: '2026-07-16'
+    code: 655498
+    url: /works/655498/
+  - title: Tonari no Ayane-san Soushuuhen | My Neighbor Ayane Anthology
+    author: herio
+    cover: /covers/656319.jpg
+    rating: 4.8
+    date: '2026-08-18'
+    code: 656319
+    url: /works/656319/
+  - title: My Genius Senpai Girlfriend Swapped Bodies with a Gal!
+    author: kuratsuka-riko
+    cover: /covers/664584.jpg
+    rating: 4.1
+    date: '2026-07-16'
+    code: 664584
+    url: /works/664584/
+  - title: Erolive Shiori Novella
+    author: doji
+    cover: /covers/664590.jpg
+    rating: 4.8
+    date: '2026-07-16'
+    code: 664590
+    url: /works/664590/
+  - title: Mesugaki ni Saikyouiku o!! | Re-Educating A Smug-Brat!!
+    author: type-yamada
+    cover: /covers/664631.jpg
+    rating: 4.3
+    date: '2026-07-16'
+    code: 664631
+    url: /works/664631/
+  - title: Osananajimi Kanojo, Netorare Choukyou
+    author: naporitan
+    cover: /covers/664798.jpg
+    rating: 4.5
+    date: '2026-07-17'
+    code: 664798
+    url: /works/664798/
+  - title: Gohoubi wa Karada de. ~Ero-sugi Fukuri Kousei wa Seishori-ka no Oshigoto~
+      (2) | The Reward is the Body ~The Overly Lewd Employee Benefits of the Service
+      Department~
+    author: c-kyuu
+    cover: /covers/668867.jpg
+    rating: 4.6
+    date: '2026-08-19'
+    code: 668867
+    url: /works/668867/
   - title: Igyou Koubi Kairaku Jigoku 1 + 2
     author: allegro
     cover: /covers/668880.jpg
@@ -46,6 +157,29 @@ works:
     date: '2026-08-23'
     code: 668880
     url: /works/668880/
+  - title: Tenshi Hirotta kara Haramaseru ~Ojii-san Senyou Botebara Onaho ni Naru made
+      no Kiroku~ | I Met an Angel, and then I Knocked Her Up ~A Record of Becoming Oji-san’s
+      Personal Preggo Belly Onahole~
+    author: a-shika
+    cover: /covers/674608.jpg
+    rating: 4.1
+    date: '2026-08-21'
+    code: 674608
+    url: /works/674608/
+  - title: WSS ~Watashi ga Sakini Sukidatta no ni~ - Even Though I Loved Him First
+    author: asanagi
+    cover: /covers/674639.jpg
+    rating: 4.6
+    date: '2026-08-21'
+    code: 674639
+    url: /works/674639/
+  - title: Hitoe-san no warui kuse | Hitoe's Bad Habit
+    author: jirou
+    cover: /covers/674702.jpg
+    rating: 4.5
+    date: '2026-08-21'
+    code: 674702
+    url: /works/674702/
   - title: Shitate ni wa Denai kedo Chinko ni wa Yowai Gyaru-chan to Kyokon Otaku! |
       A gal who doesn't act submissive but is weak for a big cock, and a huge-dicked
       otaku.

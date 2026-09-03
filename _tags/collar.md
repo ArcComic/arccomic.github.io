@@ -1,8 +1,23 @@
 ---
 layout: tag
 tag_name: "collar"
-work_count: 2
+work_count: 11
 works:
+  - title: Anata no Shiori ni Naritai - I Just Want To Be Your Shiori
+    author: naokomama
+    cover: /covers/530476.jpg
+    rating: 4.6
+    date: '2026-07-16'
+    code: 530476
+    url: /works/530476/
+  - title: Dansei ga Kyokutan ni Sukunai Kono Sekai de wa, Seishi wa Kichou na Shigen
+      desu. Sono 2 | In a World Where Men Are Scarce, Sperm Is a Precious Resource 2
+    author: group
+    cover: /covers/537794.jpg
+    rating: 5.0
+    date: '2026-08-20'
+    code: 537794
+    url: /works/537794/
   - title: Uwa, Mesugaki Tsuyoi! | Crap, This Mesugaki's Too Powerful!
     author: poncocchan
     cover: /covers/550359.jpg
@@ -10,6 +25,20 @@ works:
     date: '2026-08-31'
     code: 550359
     url: /works/550359/
+  - title: Kichiku Kyoushi ni Otosareta Boku no Seitokaichou Part.3
+    author: norakuro-nero
+    cover: /covers/557452.jpg
+    rating: 4.0
+    date: '2026-08-20'
+    code: 557452
+    url: /works/557452/
+  - title: Iiwa Watashi no Karada Suki ni Shite Ch.1-2
+    author: shunjou-shuusuke
+    cover: /covers/561787.jpg
+    rating: 4.5
+    date: '2026-07-16'
+    code: 561787
+    url: /works/561787/
   - title: Kanojo ga Kami o Someta Wake ~Kataomoi no Seiso Kurokami Ojou-sama ga Boku
       no Shiranai Tokoro de Otoko no Aji o Oboeru Hanashi~ | The Real Reason She Changed
       Her Hair
@@ -19,4 +48,41 @@ works:
     date: '2026-08-29'
     code: 634450
     url: /works/634450/
+  - title: Mesugaki ni Saikyouiku o!! | Re-Educating A Smug-Brat!!
+    author: type-yamada
+    cover: /covers/664631.jpg
+    rating: 4.3
+    date: '2026-07-16'
+    code: 664631
+    url: /works/664631/
+  - title: Mukatsuku Juumai no Kuchimanko ni Kounai Shasei suru Hanashi.
+    author: karube-guri
+    cover: /covers/664820.jpg
+    rating: 5.0
+    date: '2026-07-16'
+    code: 664820
+    url: /works/664820/
+  - title: 'Seifukusha ~Yami ni Ochiru Hitozuma-tachi~ | Sexploiter: Housewives Falling
+      Into Darkness'
+    author: hoshino-ryuichi
+    cover: /covers/664937.jpg
+    rating: 4.2
+    date: '2026-07-17'
+    code: 664937
+    url: /works/664937/
+  - title: 'Breeding License: ~Am I, the Unpopular Guy, the One with the Strongest Genes?!~'
+    author: minamihama-yoriko
+    cover: /covers/674009.jpg
+    rating: 4.8
+    date: '2026-08-20'
+    code: 674009
+    url: /works/674009/
+  - title: Jirashite Jirashite Jirashite Jirashite Pierce | Tease Me, Tease Me, Tease
+      Me Teasing Piercing
+    author: chi-ra-rhyzhm
+    cover: /covers/674569.jpg
+    rating: 5.0
+    date: '2026-08-21'
+    code: 674569
+    url: /works/674569/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "hair buns"
-work_count: 1
+work_count: 3
 works:
   - title: Shiraishi-san Wa Yokkyu Fuman | Shiraishi-san's Frustrated
     author: carburetor
@@ -10,4 +10,20 @@ works:
     date: '2026-08-24'
     code: 392617
     url: /works/392617/
+  - title: Koibito no Furi Shite Tara, Iki Goe ga…. Yukata Sugata no Kyonyuu Oneesan
+      ni, Tamarazu Sounyuu 1 I Can’t Stop Myself From Penetrating My Big Boobed Older
+      Female Cousin 1
+    author: takayamanon
+    cover: /covers/510022.jpg
+    rating: 4.7
+    date: '2026-08-20'
+    code: 510022
+    url: /works/510022/
+  - title: Ryuu no Gekirin
+    author: p-n
+    cover: /covers/664626.jpg
+    rating: 4.5
+    date: '2026-07-16'
+    code: 664626
+    url: /works/664626/
 ---

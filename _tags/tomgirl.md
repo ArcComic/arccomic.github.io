@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "tomgirl"
-work_count: 6
+work_count: 9
 works:
   - title: Hayato-sensei no Mesu-ka Karute Daigaku-hen | Dr. Hayato's Feminization Medical
       Record ~University Edition~
@@ -11,6 +11,14 @@ works:
     date: '2026-08-31'
     code: 556767
     url: /works/556767/
+  - title: Otoko no Ko otodokeshimasu! ~Itsumo kuru Haitatsuin-san ga masaka no Otoko
+      no Ko dattakedo mayowazu hameta~
+    author: mitsujirou
+    cover: /covers/605410.jpg
+    rating: 4.9
+    date: '2026-07-16'
+    code: 605410
+    url: /works/605410/
   - title: Naisho no An-chan
     author: seto-ryouko
     cover: /covers/627126.jpg
@@ -18,6 +26,21 @@ works:
     date: '2026-08-22'
     code: 627126
     url: /works/627126/
+  - title: Otokonoko Otodoke Shimasu! 2 ~Itsumo kuru Haitatsuin-san ga Masaka no Otokonoko
+      datta kedo Mayowazu Hameta~
+    author: mitsujirou
+    cover: /covers/664672.jpg
+    rating: 4.4
+    date: '2026-07-16'
+    code: 664672
+    url: /works/664672/
+  - title: TS Kyoudai
+    author: kagamino-mochiko
+    cover: /covers/674587.jpg
+    rating: 4.9
+    date: '2026-08-21'
+    code: 674587
+    url: /works/674587/
   - title: Josō Kyanpasu Hora re Raifu u~izu Yarichin
     author: brother-pierrot
     cover: /covers/674945.jpg

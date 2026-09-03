@@ -2172,11 +2172,39 @@ def ensure_origin_remote(cfg):
                        check=False, capture_output=True)
     return True
 
-def git_push(cfg, code, title):
-    """Returns (success: bool, error_detail: str|None)."""
+def git_push(cfg, code, title, batch_paths=None):
+    """Returns (success: bool, error_detail: str|None).
+
+    batch_paths: relative paths (from WORK_DIR) that THIS batch actually
+    created/changed — e.g. _works/<code>.md, _tags/*.md, covers/<code>.jpg
+    for each item in the batch, plus regenerated index/tag pages. When
+    given, only these paths are `git add`ed, never a blanket `git add .`.
+
+    This matters because of the cover-deletion bug: a blanket `git add .`
+    stages EVERY difference between the working tree and the last commit,
+    including files that went missing for reasons that have nothing to do
+    with this batch. Specifically: cleanup_pushed_covers() deletes local
+    covers/<code>.jpg files in a background thread sometime after a
+    previous push, once it's confirmed they're live on GitHub Pages —
+    that deletion is meant to be LOCAL-ONLY (phone storage cleanup); the
+    cover should stay in the git repo and on the live site forever. But
+    a blanket `git add .` on the next batch's push saw those covers
+    missing from disk and committed that as a deletion, removing them
+    from the repo and the live site too — the opposite of what was
+    intended. Scoping the add to only this batch's own paths makes that
+    class of bug structurally impossible: a file cleanup deletes locally
+    is simply never in batch_paths, so it can never be staged as removed.
+    Falls back to `git add .` only if batch_paths isn't provided (should
+    not happen on the normal push path after this fix).
+    """
     try:
         os.chdir(WORK_DIR)
-        subprocess.run(["git", "add", "."], check=True, capture_output=True)
+        if batch_paths:
+            existing = [p for p in batch_paths if os.path.exists(os.path.join(WORK_DIR, p))]
+            if existing:
+                subprocess.run(["git", "add", "--"] + existing, check=True, capture_output=True)
+        else:
+            subprocess.run(["git", "add", "."], check=True, capture_output=True)
         subprocess.run(["git", "commit", "-m", f"Add work #{code}: {title}"], 
                       check=False, capture_output=True)
 
@@ -2211,8 +2239,9 @@ def git_push(cfg, code, title):
             print(f"❌ Git push failed: {err}")
             return False, f"Git push failed: {err[:200]}"
     except Exception as e:
-        print(f"❌ Git push error: {e}")
-        return False, str(e)
+        msg = str(e) or repr(e) or type(e).__name__
+        print(f"❌ Git push error: {msg}")
+        return False, msg
 
 # ============== TELEGRAM MESSAGE PARSING ==============
 def normalize_text(text):
@@ -2336,7 +2365,24 @@ def _flush_pending_queue_sync():
     except Exception as e:
         print(f"⚠️ Artist page regeneration failed: {e}")
 
-    pushed, push_error = git_push(cfg, "batch", f"Add {len(batch)} work(s): {codes}")
+    # Build an explicit list of paths this batch actually touched, so
+    # git_push() never has to fall back to a blanket `git add .` (see
+    # git_push's docstring for why that blanket add was the root cause
+    # of covers getting deleted from GitHub). Each batch item's own .md
+    # and cover are included by exact path; _tags/ and _artists/ are
+    # entirely bot-generated/regenerated above and never touched by the
+    # local-only cover cleanup, so it's safe to include them in full.
+    batch_paths = []
+    for item in batch:
+        batch_paths.append(os.path.join("_works", f"{item['code']}.md"))
+        batch_paths.append(os.path.join("covers", f"{item['code']}.jpg"))
+    for d in (TAGS_DIR, ARTISTS_DIR):
+        if os.path.isdir(d):
+            for fname in os.listdir(d):
+                batch_paths.append(os.path.relpath(os.path.join(d, fname), WORK_DIR))
+
+    pushed, push_error = git_push(cfg, "batch", f"Add {len(batch)} work(s): {codes}",
+                                   batch_paths=batch_paths)
 
     site_url = "https://arccomic.github.io"
     sitemap_updated = False
@@ -2711,6 +2757,41 @@ def _telethon_worker_loop():
                 print(f"✅ Backlog batch complete: {processed_this_run} comics staged")
                 return {"status": "ok", "processed": processed_this_run}
 
+            elif action == "recover_covers":
+                # Repair job for the cover-deletion bug: re-downloads just
+                # the cover image for any code whose _works/<code>.md
+                # already exists but whose cover is missing both locally
+                # AND on the live site. Never re-scrapes nhentai, never
+                # touches the .md, never risks a duplicate post — this is
+                # strictly "find the original Telegram post for this code
+                # again and pull the photo".
+                c = await ensure_client(job["api_id"], job["api_hash"])
+                codes = job["codes"]
+                channel = job["channel"]
+                recovered = []
+                still_missing = []
+                for code in codes:
+                    target_message = None
+                    async for message in c.iter_messages(channel, search=f"Code: {code}", limit=5):
+                        fields = parse_post_fields(message.text or message.message or "")
+                        if fields and fields["code"] == code:
+                            target_message = message
+                            break
+                    if not target_message or not target_message.photo:
+                        print(f"⚠️ Recovery: could not find original post/photo for code {code}")
+                        still_missing.append(code)
+                        continue
+                    cover_path = os.path.join(COVERS_DIR, f"{code}.jpg")
+                    try:
+                        await c.download_media(target_message.photo, file=cover_path)
+                        recovered.append(code)
+                        print(f"📸 Recovered cover for #{code}")
+                    except Exception as e:
+                        print(f"❌ Recovery download failed for #{code}: {e}")
+                        still_missing.append(code)
+                    await _asyncio.sleep(2)
+                return {"status": "ok", "recovered": recovered, "still_missing": still_missing}
+
             return {"status": "error", "message": f"Unknown action: {action}"}
 
         except Exception as e:
@@ -2731,15 +2812,32 @@ def _ensure_telethon_worker():
             threading.Thread(target=_telethon_worker_loop, daemon=True).start()
             _telethon_worker_started = True
 
-def _telethon_call(action, **kwargs):
+def _telethon_call(action, timeout=120, **kwargs):
     """Sends one job to the dedicated Telethon thread and blocks (this
     calling thread only, not the whole app) until it responds. Safe to
     call from any Flask request thread since the actual client work
-    always happens on the one dedicated worker thread."""
+    always happens on the one dedicated worker thread.
+
+    timeout: seconds to wait for a result before giving up. Defaults to
+    120s for quick actions (login, single scans). Long-running actions
+    (recover_covers downloading up to SCAN_BATCH_SIZE photos, each with
+    a 2s pacing sleep plus real download time) need a much larger budget
+    — a too-short timeout here doesn't stop the worker thread's actual
+    work, it just makes THIS call raise queue.Empty while the worker
+    keeps running in the background, which both surfaces as a
+    confusing blank-message crash (str(queue.Empty()) == "") and can
+    desync caller-side bookkeeping from what the worker actually did.
+    """
     _ensure_telethon_worker()
     job = {"action": action, **kwargs}
     _telethon_job_queue.put(job)
-    return _telethon_result_queue.get(timeout=120)
+    try:
+        return _telethon_result_queue.get(timeout=timeout)
+    except _queue_module.Empty:
+        raise TimeoutError(
+            f"Telethon action '{action}' did not respond within {timeout}s "
+            f"(it may still be running in the background)"
+        )
 
 def is_telethon_authorized(api_id, api_hash):
     if not (api_id and api_hash):
@@ -2786,6 +2884,145 @@ def run_backlog_scan(api_id, api_hash, phone, channel_username):
         state["error"] = result.get("message", "Unknown error")
         save_backlog_state(state)
         print(f"❌ Backlog scan failed: {result.get('message')}")
+
+def push_untracked_covers():
+    """
+    Finds any covers/*.jpg on disk that git doesn't know about yet and
+    pushes them. This exists because a cover can legitimately land on
+    disk without being pushed — e.g. a recovery run that downloaded the
+    file but crashed/timed out before its push step, or any other
+    interruption between download and commit. find_codes_missing_covers()
+    only checks "does the file exist", not "is it committed" — so those
+    orphaned files were invisible to every future recovery run too,
+    since a file just sitting on disk looks identical to a properly
+    pushed one from that check's point of view. This function closes
+    that gap directly: ask git itself what's untracked, and push it.
+    Safe to run anytime — if nothing is untracked, it's a no-op.
+    """
+    os.chdir(WORK_DIR)
+    result = subprocess.run(
+        ["git", "status", "--porcelain", "--", "covers/"],
+        capture_output=True, text=True, check=False
+    )
+    untracked = []
+    for line in result.stdout.splitlines():
+        # Porcelain format: "XY path" — untracked files are "?? path"
+        if line.startswith("??"):
+            path = line[3:].strip()
+            if path.startswith("covers/") and path.endswith(".jpg"):
+                untracked.append(path)
+
+    if not untracked:
+        print("✅ No untracked covers found — nothing to push")
+        return {"status": "ok", "pushed": []}
+
+    print(f"🔎 Found {len(untracked)} untracked cover(s) on disk, pushing...")
+    cfg = load_config()
+    pushed_all = []
+    # Push in chunks so one huge git add/commit doesn't become an
+    # all-or-nothing operation on a flaky connection.
+    for i in range(0, len(untracked), SCAN_BATCH_SIZE):
+        chunk = untracked[i:i + SCAN_BATCH_SIZE]
+        pushed, err = git_push(cfg, "recovery",
+                                f"Push {len(chunk)} previously-untracked cover(s)",
+                                batch_paths=chunk)
+        if pushed:
+            pushed_all.extend(chunk)
+            print(f"✅ Pushed {len(chunk)} untracked cover(s)")
+        else:
+            print(f"⚠️ Push failed for this chunk of untracked covers: {err}")
+
+    return {"status": "ok", "pushed": pushed_all}
+
+def find_codes_missing_covers():
+    """Returns codes that have a _works/<code>.md but no local cover AND
+    no cover reachable on the live site — i.e. genuinely lost, not just
+    locally cleaned up (those are fine, they're still live on GitHub)."""
+    site_url = "https://arccomic.github.io"
+    missing = []
+    for fname in os.listdir(WORKS_DIR):
+        if not fname.endswith(".md"):
+            continue
+        code = fname[:-3]
+        local_cover = os.path.join(COVERS_DIR, f"{code}.jpg")
+        if os.path.exists(local_cover):
+            continue  # already fine on disk
+        try:
+            resp = requests.head(f"{site_url}/covers/{code}.jpg", timeout=10, allow_redirects=True)
+            if resp.status_code == 200:
+                continue  # already fine, still live on GitHub — don't touch
+        except Exception:
+            pass
+        missing.append(code)
+    return missing
+
+def run_cover_recovery(api_id, api_hash, channel_username):
+    """
+    Finds every code whose cover is gone from BOTH disk and the live
+    site, re-fetches just those cover images from the original Telegram
+    posts, and pushes them back — using the same scoped git_push() so
+    this recovery run itself can never accidentally delete anything
+    else. Safe to run repeatedly; codes already recovered are skipped
+    automatically since find_codes_missing_covers() re-checks live
+    status each time.
+    """
+    if not is_telethon_authorized(api_id, api_hash):
+        print("❌ Cover recovery failed: Telethon session not authorized")
+        return {"status": "error", "message": "Not logged in to Telegram yet."}
+
+    missing = find_codes_missing_covers()
+    print(f"🔎 Cover recovery: {len(missing)} code(s) missing on disk and live")
+    if not missing:
+        return {"status": "ok", "recovered": [], "still_missing": []}
+
+    all_recovered = []
+    all_still_missing = []
+    cfg = load_config()
+
+    # Process in chunks so each chunk gets pushed as its own small batch
+    # rather than holding hundreds of recovered files unpushed in one go.
+    # Each chunk is wrapped in its own try/except: a slow/hung chunk
+    # (flaky mobile network, slow git push) times out WITHOUT killing the
+    # rest of the run — it's just left in all_still_missing and will be
+    # picked up again automatically next time recovery is run, since
+    # find_codes_missing_covers() re-checks live status fresh each call.
+    for i in range(0, len(missing), SCAN_BATCH_SIZE):
+        chunk = missing[i:i + SCAN_BATCH_SIZE]
+        # Budget: ~2s pacing sleep per code (matches the worker's own
+        # per-code sleep) plus real per-photo download time, with
+        # generous headroom — a timeout here must never be tighter than
+        # the work it's timing.
+        chunk_timeout = max(180, len(chunk) * 8)
+        try:
+            result = _telethon_call("recover_covers", timeout=chunk_timeout,
+                                     api_id=api_id, api_hash=api_hash,
+                                     channel=channel_username, codes=chunk)
+        except Exception as e:
+            print(f"❌ Cover recovery chunk timed out/errored: {e or type(e).__name__}")
+            all_still_missing.extend(chunk)
+            continue
+        if result.get("status") != "ok":
+            print(f"❌ Cover recovery chunk failed: {result.get('message') or 'unknown error'}")
+            all_still_missing.extend(chunk)
+            continue
+
+        recovered = result.get("recovered", [])
+        all_recovered.extend(recovered)
+        all_still_missing.extend(result.get("still_missing", []))
+
+        if recovered:
+            batch_paths = [os.path.join("covers", f"{code}.jpg") for code in recovered]
+            pushed, err = git_push(cfg, "recovery",
+                                    f"Recover {len(recovered)} missing cover(s)",
+                                    batch_paths=batch_paths)
+            if pushed:
+                print(f"✅ Pushed {len(recovered)} recovered cover(s)")
+            else:
+                print(f"⚠️ Recovery push failed for this chunk: {err}")
+
+    print(f"🏁 Cover recovery complete: {len(all_recovered)} recovered, "
+          f"{len(all_still_missing)} still missing (no original post/photo found)")
+    return {"status": "ok", "recovered": all_recovered, "still_missing": all_still_missing}
 
 def process_backlog_batch():
     """
@@ -3924,6 +4161,71 @@ def api_backlog_process_batch():
     return jsonify({"status": "ok",
                      "message": f"Processing up to {SCAN_BATCH_SIZE} comics "
                                 f"({len(state['found_codes'])} total waiting)"})
+
+_cover_recovery_lock = threading.Lock()
+_cover_recovery_running = False
+_cover_recovery_last_result = None
+
+def _run_cover_recovery_thread(api_id, api_hash, channel):
+    global _cover_recovery_running, _cover_recovery_last_result
+    try:
+        # Always push any already-downloaded-but-untracked covers FIRST.
+        # This is what actually fixes files stuck on disk from a prior
+        # interrupted run — re-scanning Telegram for codes that already
+        # have a local file would just skip them again (see
+        # push_untracked_covers()'s docstring for why). Doing this before
+        # the Telegram re-scan also means a chunk that timed out on push
+        # last time gets swept up here even if this run finds nothing
+        # new to download.
+        untracked_result = push_untracked_covers()
+        result = run_cover_recovery(api_id, api_hash, channel)
+        result["untracked_pushed"] = untracked_result.get("pushed", [])
+    except Exception as e:
+        msg = str(e) or repr(e) or type(e).__name__
+        result = {"status": "error", "message": msg}
+        print(f"❌ Cover recovery crashed: {msg}")
+    with _cover_recovery_lock:
+        _cover_recovery_last_result = result
+        _cover_recovery_running = False
+
+@app.route("/api/backlog/recover_covers", methods=["POST"])
+def api_backlog_recover_covers():
+    """Repair endpoint for the cover-deletion bug: re-fetches any cover
+    that's missing from both disk and the live site, using the original
+    Telegram posts (matched by code), then pushes them back. Safe to
+    call repeatedly — already-live covers are skipped automatically."""
+    global _cover_recovery_running
+    cfg = load_config()
+    api_id = cfg.get("telegram_api_id", "")
+    api_hash = cfg.get("telegram_api_hash", "")
+    channel = cfg.get("channel_username", "@ArcComic")
+
+    if not (api_id and api_hash):
+        return jsonify({"status": "error",
+                         "message": "Telegram API ID and API Hash required (settings)."}), 400
+    if not is_telethon_authorized(api_id, api_hash):
+        return jsonify({"status": "error",
+                         "message": "Not logged in yet. Use 'Login to Telegram' below first."}), 400
+
+    with _cover_recovery_lock:
+        if _cover_recovery_running:
+            return jsonify({"status": "error", "message": "Recovery already running"}), 409
+        _cover_recovery_running = True
+
+    threading.Thread(
+        target=_run_cover_recovery_thread,
+        args=(int(api_id), api_hash, channel),
+        daemon=True
+    ).start()
+    return jsonify({"status": "ok", "message": "Cover recovery started — this can take a while."})
+
+@app.route("/api/backlog/recover_covers/status")
+def api_backlog_recover_covers_status():
+    with _cover_recovery_lock:
+        return jsonify({
+            "running": _cover_recovery_running,
+            "last_result": _cover_recovery_last_result,
+        })
 
 @app.route("/api/backlog/auto_process/start", methods=["POST"])
 def api_backlog_auto_process_start():

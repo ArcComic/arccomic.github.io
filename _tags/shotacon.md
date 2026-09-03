@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "shotacon"
-work_count: 12
+work_count: 27
 works:
   - title: Saikin, Musuko no Yousu ga Hen nan desu | Lately my son has been acting Strangly
     author: matsumoto-jikyuuryoku
@@ -17,6 +17,34 @@ works:
     date: '2026-08-23'
     code: 505779
     url: /works/505779/
+  - title: Mukashi no Uwaki Aite no Ko ga Jitsu wa Watashi no Musuko no Doukyuusei de
+    author: shomu
+    cover: /covers/518121.jpg
+    rating: 4.5
+    date: '2026-07-17'
+    code: 518121
+    url: /works/518121/
+  - title: My Friends Mom Is My Toy
+    author: exit-up
+    cover: /covers/521812.jpg
+    rating: 4.4
+    date: '2026-08-18'
+    code: 521812
+    url: /works/521812/
+  - title: Doukyuusei no Kyouiku Mama ni Hitomebore!
+    author: chotto-b-sen
+    cover: /covers/581704.jpg
+    rating: 4.8
+    date: '2026-07-17'
+    code: 581704
+    url: /works/581704/
+  - title: MY FIRST TIME HAVING SEX WAS WITH MY FRIEND'S MOM
+    author: ariyuzi
+    cover: /covers/585515.jpg
+    rating: 4.2
+    date: '2026-07-17'
+    code: 585515
+    url: /works/585515/
   - title: Kyoushi to Mama to Koibito no Kao
     author: mifune-seijirou
     cover: /covers/592307.jpg
@@ -31,6 +59,21 @@ works:
     date: '2026-08-25'
     code: 608648
     url: /works/608648/
+  - title: Tomodachi ga Tsuretekita Oba-san 1
+    author: exit-up
+    cover: /covers/615538.jpg
+    rating: 4.3
+    date: '2026-07-17'
+    code: 615538
+    url: /works/615538/
+  - title: Aitsu, Kotowarenai kara.. Remake-ban no Tsuzuki dewa Arimasu ga, Konsaku
+      wa Yakinaoshi ja Nai yo. Settei Igai wa Sinsaku da yo. Sonna Kanji no Vol. 2 desu
+    author: haruharudo
+    cover: /covers/632056.jpg
+    rating: 4.1
+    date: '2026-07-17'
+    code: 632056
+    url: /works/632056/
   - title: Haha to iu Kaibutsu ~M Otoko Aka-chan toshite Sodate rareta Boku wa Yasashii
       Mama ni Dekiai sareru~ | Mother, the Monster ~I was raised as a masochistic baby
       and am doted on by my kind mother~
@@ -47,6 +90,27 @@ works:
     date: '2026-08-25'
     code: 637847
     url: /works/637847/
+  - title: My Brother Stole My Mother
+    author: momoziri-hustle-dou
+    cover: /covers/648073.jpg
+    rating: 4.4
+    date: '2026-07-17'
+    code: 648073
+    url: /works/648073/
+  - title: Karada ga Binkan Sugiru Watashi wa Itoko ni Itazura sarete mo Teikoudekinai!
+    author: romomata
+    cover: /covers/655421.jpg
+    rating: 5.0
+    date: '2026-08-21'
+    code: 655421
+    url: /works/655421/
+  - title: Shokushu Flower Shop no Onee-san
+    author: dozamura
+    cover: /covers/661796.jpg
+    rating: 4.4
+    date: '2026-08-21'
+    code: 661796
+    url: /works/661796/
   - title: Boku-tachi Mama to Yattemasu
     author: ameto-yuki
     cover: /covers/672450.jpg
@@ -54,6 +118,20 @@ works:
     date: '2026-08-25'
     code: 672450
     url: /works/672450/
+  - title: Island of the Mist God - Complet Edition
+    author: noraneko-no-tama
+    cover: /covers/673986.jpg
+    rating: 4.9
+    date: '2026-08-19'
+    code: 673986
+    url: /works/673986/
+  - title: Kowai no Yori Ecchi na no ga Suki | I Prefer Lewd Things Over Scary Thing
+    author: yuuki-konefu
+    cover: /covers/674233.jpg
+    rating: 4.0
+    date: '2026-08-20'
+    code: 674233
+    url: /works/674233/
   - title: Onii-san Zako sugite Ukeru~ | Big Brother, you're so pathetic, it's hilarious~
     author: puritei
     cover: /covers/674568.jpg
@@ -61,6 +139,38 @@ works:
     date: '2026-08-21'
     code: 674568
     url: /works/674568/
+  - title: Mama-san Tennis Gasshuku ni Tsuiteitta Ero Kyoudai | Horny Brothers Tag Along
+      on a Moms' Tennis Camp
+    author: toshiue-onee-san-tengoku
+    cover: /covers/674656.jpg
+    rating: 4.1
+    date: '2026-08-21'
+    code: 674656
+    url: /works/674656/
+  - title: Yopparai Nee-chan no Jinsei ga Kouten suru Koudou Henyou | Behavioral Transformation
+      That Turns the Life of a Drunk Lady Around
+    author: toshiue-onee-san-tengoku
+    cover: /covers/674658.jpg
+    rating: 4.3
+    date: '2026-08-21'
+    code: 674658
+    url: /works/674658/
+  - title: Boku to Mama wa Love Love nanoni, Sensei to Mechakucha Sex shiteru Hanashi
+      | A story about how, despite being all lovey-dovey with my mom, she's having wild
+      sex with my teacher.
+    author: smells-like
+    cover: /covers/674663.jpg
+    rating: 4.7
+    date: '2026-08-21'
+    code: 674663
+    url: /works/674663/
+  - title: Ayano-chan wa Mashou Tenkousei
+    author: nedia
+    cover: /covers/674684.jpg
+    rating: 4.2
+    date: '2026-08-21'
+    code: 674684
+    url: /works/674684/
   - title: Single Mother Aoki-san no Kakeijutsu｜Single Mother Aoki-san's Budgeting Hacks
     author: fujinoe13b
     cover: /covers/674927.jpg

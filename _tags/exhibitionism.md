@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "exhibitionism"
-work_count: 4
+work_count: 5
 works:
   - title: Niizuma Nanaka no Roshutsu Satsuei
     author: fukurou-naru-tori
@@ -18,6 +18,13 @@ works:
     date: '2026-08-29'
     code: 589969
     url: /works/589969/
+  - title: Tomodachi ga Tsuretekita Oba-san 1
+    author: exit-up
+    cover: /covers/615538.jpg
+    rating: 4.3
+    date: '2026-07-17'
+    code: 615538
+    url: /works/615538/
   - title: Majime na Salaryman ga JK Chijo ni Otosareru Hanashi
     author: hamo
     cover: /covers/652651.jpg

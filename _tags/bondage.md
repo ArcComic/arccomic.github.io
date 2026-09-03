@@ -1,8 +1,30 @@
 ---
 layout: tag
 tag_name: "bondage"
-work_count: 6
+work_count: 9
 works:
+  - title: My Friends Mom Is My Toy
+    author: exit-up
+    cover: /covers/521812.jpg
+    rating: 4.4
+    date: '2026-08-18'
+    code: 521812
+    url: /works/521812/
+  - title: 'Seifukusha ~Yami ni Ochiru Hitozuma-tachi~ | Sexploiter: Housewives Falling
+      Into Darkness'
+    author: hoshino-ryuichi
+    cover: /covers/664937.jpg
+    rating: 4.2
+    date: '2026-07-17'
+    code: 664937
+    url: /works/664937/
+  - title: Bitch Girls
+    author: itou
+    cover: /covers/674701.jpg
+    rating: 4.9
+    date: '2026-08-21'
+    code: 674701
+    url: /works/674701/
   - title: Midnight Lilies Full Release
     author: landacdeus
     cover: /covers/674863.jpg

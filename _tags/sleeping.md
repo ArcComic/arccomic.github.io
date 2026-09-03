@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "sleeping"
-work_count: 6
+work_count: 7
 works:
+  - title: Shuuden Deisui Anken
+    author: uds
+    cover: /covers/525085.jpg
+    rating: 4.8
+    date: '2026-08-19'
+    code: 525085
+    url: /works/525085/
   - title: Ore ga Hoshikatta Mono wa Kin Medal Yori Namami Onaho Datta no Kamoshirenai｜Maybe
       what I Wanted was a Flesh and Blood Masturbator Rather than a Gold Medal
     author: carburetor

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "oyakodon"
-work_count: 3
+work_count: 4
 works:
   - title: Bitch Mama no Kekkon Riyuu
     author: aoyama-akira
@@ -17,6 +17,13 @@ works:
     date: '2026-08-25'
     code: 608648
     url: /works/608648/
+  - title: Boku no Katei wa Kuruimashita | My family has gone crazy
+    author: torimomo
+    cover: /covers/674719.jpg
+    rating: 4.8
+    date: '2026-08-21'
+    code: 674719
+    url: /works/674719/
   - title: Mesu no Ie III ~Oyako wa Midare Aisareru~
     author: ame-arare
     cover: /covers/675981.jpg

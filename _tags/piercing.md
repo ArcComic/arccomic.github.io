@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "piercing"
-work_count: 6
+work_count: 8
 works:
   - title: Kanojo ga Kami o Someta Wake ~Kataomoi no Seiso Kurokami Ojou-sama ga Boku
       no Shiranai Tokoro de Otoko no Aji o Oboeru Hanashi~ | The Real Reason She Changed
@@ -19,6 +19,21 @@ works:
     date: '2026-08-23'
     code: 639772
     url: /works/639772/
+  - title: Nani ga Haeta Hajime | Hajime Grew a Dick!
+    author: hyouga
+    cover: /covers/664845.jpg
+    rating: 4.1
+    date: '2026-07-16'
+    code: 664845
+    url: /works/664845/
+  - title: Jirashite Jirashite Jirashite Jirashite Pierce | Tease Me, Tease Me, Tease
+      Me Teasing Piercing
+    author: chi-ra-rhyzhm
+    cover: /covers/674569.jpg
+    rating: 5.0
+    date: '2026-08-21'
+    code: 674569
+    url: /works/674569/
   - title: Ano Hi, Sunao ni Suki to Ieta nara - If only I could have honestly said that
       I loved you that day.
     author: kazuwo-daisuke

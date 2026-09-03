@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "first person perspective"
-work_count: 2
+work_count: 3
 works:
   - title: Uwa, Mesugaki Tsuyoi! | Crap, This Mesugaki's Too Powerful!
     author: poncocchan
@@ -10,6 +10,13 @@ works:
     date: '2026-08-31'
     code: 550359
     url: /works/550359/
+  - title: + (SEIKO AYASE VARIOUS) +
+    author: st-mya
+    cover: /covers/555816.jpg
+    rating: 4.7
+    date: '2026-07-16'
+    code: 555816
+    url: /works/555816/
   - title: Possession Golf
     author: rim
     cover: /covers/676589.jpg

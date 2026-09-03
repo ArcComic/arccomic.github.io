@@ -1,8 +1,38 @@
 ---
 layout: tag
 tag_name: "squirting"
-work_count: 5
+work_count: 11
 works:
+  - title: Dansei ga Kyokutan ni Sukunai Kono Sekai de wa, Seishi wa Kichou na Shigen
+      desu. Sono 2 | In a World Where Men Are Scarce, Sperm Is a Precious Resource 2
+    author: group
+    cover: /covers/537794.jpg
+    rating: 5.0
+    date: '2026-08-20'
+    code: 537794
+    url: /works/537794/
+  - title: Yuujin no Haha wa Dekachin ni Yowai | My Friend's Mom is Weak to a Huge Cock
+    author: shimofuri
+    cover: /covers/593575.jpg
+    rating: 4.4
+    date: '2026-08-21'
+    code: 593575
+    url: /works/593575/
+  - title: Onsen Haitte tara Joseito-tachi ga Osotte Kita | My Students Jumped Me When
+      I Got in the Hot Spring
+    author: hamo
+    cover: /covers/639463.jpg
+    rating: 4.7
+    date: '2026-08-20'
+    code: 639463
+    url: /works/639463/
+  - title: Akogare no Hito wa Mou Owari!
+    author: orange-mimosa
+    cover: /covers/642584.jpg
+    rating: 4.3
+    date: '2026-08-20'
+    code: 642584
+    url: /works/642584/
   - title: Akogare no Hito wa Mou Owari! 2
     author: group
     cover: /covers/642585.jpg
@@ -24,6 +54,20 @@ works:
     date: '2026-08-23'
     code: 668880
     url: /works/668880/
+  - title: 'Breeding License: ~Am I, the Unpopular Guy, the One with the Strongest Genes?!~'
+    author: minamihama-yoriko
+    cover: /covers/674009.jpg
+    rating: 4.8
+    date: '2026-08-20'
+    code: 674009
+    url: /works/674009/
+  - title: Kaho-chan wa Oshioki Shitai
+    author: serakichi
+    cover: /covers/674298.jpg
+    rating: 4.1
+    date: '2026-08-20'
+    code: 674298
+    url: /works/674298/
   - title: Shitate ni wa Denai kedo Chinko ni wa Yowai Gyaru-chan to Kyokon Otaku! |
       A gal who doesn't act submissive but is weak for a big cock, and a huge-dicked
       otaku.

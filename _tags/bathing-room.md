@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bathing room"
-work_count: 4
+work_count: 5
 works:
   - title: Homestay-chu no Doitsu Musume ga Issho ni Furo ni Haitte Kuru Wake | The
       Reason Why a German Girl Takes a Bath Together With Me on Her Homestay
@@ -26,6 +26,13 @@ works:
     date: '2026-08-22'
     code: 659484
     url: /works/659484/
+  - title: Nani ga Haeta Hajime | Hajime Grew a Dick!
+    author: hyouga
+    cover: /covers/664845.jpg
+    rating: 4.1
+    date: '2026-07-16'
+    code: 664845
+    url: /works/664845/
   - title: Chibikko Nurunuru Harem Seikatsu
     author: ippon-lolicon-trap
     cover: /covers/674984.jpg

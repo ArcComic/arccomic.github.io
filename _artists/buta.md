@@ -1,7 +1,7 @@
 ---
 layout: artist
 artist_name: "buta"
-work_count: 3
+work_count: 4
 works:
   - title: Kanojo no Kawaii Mieppari | My Cute Gyaru Girlfriend Is a Total Poser
     cover: /covers/441114.jpg
@@ -21,4 +21,10 @@ works:
     date: '2026-08-23'
     code: 639772
     url: /works/639772/
+  - title: Niihama Yui Husband Exclusive Re-debut
+    cover: /covers/674199.jpg
+    rating: 4.3
+    date: '2026-08-20'
+    code: 674199
+    url: /works/674199/
 ---

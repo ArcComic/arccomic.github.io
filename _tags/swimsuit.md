@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "swimsuit"
-work_count: 5
+work_count: 8
 works:
   - title: Pashiri no Shita Teku, Yabaitte... ~ Ebi Sori Iki Suru Namaiki Gyaru | Bullied
       Boy's Tongue Revenge Vol.1-4
@@ -19,6 +19,29 @@ works:
     date: '2026-08-29'
     code: 660399
     url: /works/660399/
+  - title: Mesugaki ni Saikyouiku o!! | Re-Educating A Smug-Brat!!
+    author: type-yamada
+    cover: /covers/664631.jpg
+    rating: 4.3
+    date: '2026-07-16'
+    code: 664631
+    url: /works/664631/
+  - title: 'Seifukusha ~Yami ni Ochiru Hitozuma-tachi~ | Sexploiter: Housewives Falling
+      Into Darkness'
+    author: hoshino-ryuichi
+    cover: /covers/664937.jpg
+    rating: 4.2
+    date: '2026-07-17'
+    code: 664937
+    url: /works/664937/
+  - title: 'Breeding License: The “Picking Up Girls on the Beach and Having Wild Sex”
+      Edition'
+    author: minamihama-yoriko
+    cover: /covers/674019.jpg
+    rating: 4.1
+    date: '2026-08-20'
+    code: 674019
+    url: /works/674019/
   - title: Boku no Mizugi ga Kakusarete | My swimsuit was stolen
     author: niki
     cover: /covers/674922.jpg

@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "orange mimosa"
-work_count: 3
+work_count: 4
 works:
+  - title: Akogare no Hito wa Mou Owari!
+    author: orange-mimosa
+    cover: /covers/642584.jpg
+    rating: 4.3
+    date: '2026-08-20'
+    code: 642584
+    url: /works/642584/
   - title: Akogare no Hito wa Mou Owari! 2
     author: group
     cover: /covers/642585.jpg

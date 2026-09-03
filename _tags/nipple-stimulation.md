@@ -1,8 +1,16 @@
 ---
 layout: tag
 tag_name: "nipple stimulation"
-work_count: 15
+work_count: 18
 works:
+  - title: Musuko no Sensei wa Kyonyuu Bijo ♡ | My Son's Teacher is a Well-Endowed Woman
+      ♡
+    author: taki
+    cover: /covers/504436.jpg
+    rating: 4.4
+    date: '2026-08-18'
+    code: 504436
+    url: /works/504436/
   - title: Chikubi Kando Chousa, Hajimemasu
     author: nanahamu
     cover: /covers/528009.jpg
@@ -48,6 +56,21 @@ works:
     date: '2026-08-22'
     code: 659484
     url: /works/659484/
+  - title: Yume no Naka de
+    author: taji
+    cover: /covers/664429.jpg
+    rating: 5.0
+    date: '2026-07-16'
+    code: 664429
+    url: /works/664429/
+  - title: 'Seifukusha ~Yami ni Ochiru Hitozuma-tachi~ | Sexploiter: Housewives Falling
+      Into Darkness'
+    author: hoshino-ryuichi
+    cover: /covers/664937.jpg
+    rating: 4.2
+    date: '2026-07-17'
+    code: 664937
+    url: /works/664937/
   - title: Igyou Koubi Kairaku Jigoku 1 + 2
     author: allegro
     cover: /covers/668880.jpg

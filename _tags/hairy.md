@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "hairy"
-work_count: 9
+work_count: 32
 works:
+  - title: Tonari no Ayane-san Desaki Battari Hen
+    author: herio
+    cover: /covers/432356.jpg
+    rating: 4.6
+    date: '2026-08-18'
+    code: 432356
+    url: /works/432356/
   - title: Gal to no Asobikata | How to Have Fun With Gyarus!
     author: buta
     cover: /covers/531967.jpg
@@ -18,6 +25,28 @@ works:
     date: '2026-08-22'
     code: 550948
     url: /works/550948/
+  - title: + (SEIKO AYASE VARIOUS) +
+    author: st-mya
+    cover: /covers/555816.jpg
+    rating: 4.7
+    date: '2026-07-16'
+    code: 555816
+    url: /works/555816/
+  - title: Iiwa Watashi no Karada Suki ni Shite Ch.1-2
+    author: shunjou-shuusuke
+    cover: /covers/561787.jpg
+    rating: 4.5
+    date: '2026-07-16'
+    code: 561787
+    url: /works/561787/
+  - title: Ninshiki Kaihen Saimin Time Card + Joushiki Kaihen Saimin Time Card | Common
+      Sense Altering Hypnosis Time Card 1+2
+    author: pomi-sword
+    cover: /covers/569375.jpg
+    rating: 4.6
+    date: '2026-08-19'
+    code: 569375
+    url: /works/569375/
   - title: Kyoushi to Mama to Koibito no Kao
     author: mifune-seijirou
     cover: /covers/592307.jpg
@@ -25,6 +54,13 @@ works:
     date: '2026-08-25'
     code: 592307
     url: /works/592307/
+  - title: Yuujin no Haha wa Dekachin ni Yowai | My Friend's Mom is Weak to a Huge Cock
+    author: shimofuri
+    cover: /covers/593575.jpg
+    rating: 4.4
+    date: '2026-08-21'
+    code: 593575
+    url: /works/593575/
   - title: Nagachichi Haha no Naedoko
     author: ginen
     cover: /covers/595108.jpg
@@ -32,6 +68,13 @@ works:
     date: '2026-08-25'
     code: 595108
     url: /works/595108/
+  - title: Tomodachi ga Tsuretekita Oba-san 1
+    author: exit-up
+    cover: /covers/615538.jpg
+    rating: 4.3
+    date: '2026-07-17'
+    code: 615538
+    url: /works/615538/
   - title: Kanojo ga Kami o Someta Wake ~Kataomoi no Seiso Kurokami Ojou-sama ga Boku
       no Shiranai Tokoro de Otoko no Aji o Oboeru Hanashi~ | The Real Reason She Changed
       Her Hair
@@ -41,6 +84,59 @@ works:
     date: '2026-08-29'
     code: 634450
     url: /works/634450/
+  - title: Onsen Haitte tara Joseito-tachi ga Osotte Kita | My Students Jumped Me When
+      I Got in the Hot Spring
+    author: hamo
+    cover: /covers/639463.jpg
+    rating: 4.7
+    date: '2026-08-20'
+    code: 639463
+    url: /works/639463/
+  - title: A story about a shy childhood friend who can’t say no and ends up being put
+      in charge of handling sexual needs.
+    author: sakurayu-hal
+    cover: /covers/655498.jpg
+    rating: 4.4
+    date: '2026-07-16'
+    code: 655498
+    url: /works/655498/
+  - title: Tonari no Ayane-san Soushuuhen | My Neighbor Ayane Anthology
+    author: herio
+    cover: /covers/656319.jpg
+    rating: 4.8
+    date: '2026-08-18'
+    code: 656319
+    url: /works/656319/
+  - title: Yume no Naka de
+    author: taji
+    cover: /covers/664429.jpg
+    rating: 5.0
+    date: '2026-07-16'
+    code: 664429
+    url: /works/664429/
+  - title: Osananajimi Kanojo, Netorare Choukyou
+    author: naporitan
+    cover: /covers/664798.jpg
+    rating: 4.5
+    date: '2026-07-17'
+    code: 664798
+    url: /works/664798/
+  - title: Giri no Oyako ga Doukyou Shitereba Kitto kou | If a stepmother and her stepson
+      lived together, it would be something like this.
+    author: shimipan
+    cover: /covers/664831.jpg
+    rating: 4.9
+    date: '2026-07-16'
+    code: 664831
+    url: /works/664831/
+  - title: 'Seifukusha ~Yami ni Ochiru Hitozuma-tachi~ | Sexploiter: Housewives Falling
+      Into Darkness'
+    author: hoshino-ryuichi
+    cover: /covers/664937.jpg
+    rating: 4.2
+    date: '2026-07-17'
+    code: 664937
+    url: /works/664937/
   - title: Igyou Koubi Kairaku Jigoku 1 + 2
     author: allegro
     cover: /covers/668880.jpg
@@ -48,6 +144,79 @@ works:
     date: '2026-08-23'
     code: 668880
     url: /works/668880/
+  - title: Friend With Benefit With My Friends Mom
+    author: cammy
+    cover: /covers/671657.jpg
+    rating: 4.7
+    date: '2026-08-19'
+    code: 671657
+    url: /works/671657/
+  - title: ENG AI Translated [Hanpatsu Zokusei] Mayu-chan EP 1 - 4
+    author: hanpatsu-zokusei-mejikara-scene
+    cover: /covers/673485.jpg
+    rating: 4.4
+    date: '2026-08-17'
+    code: 673485
+    url: /works/673485/
+  - title: Nuite Moraimakuri Nyuuin Seikatsu ~Tasuketa Cool-Gyaru wa Jitsu wa Sukebe
+      deshita~
+    author: gujira
+    cover: /covers/673508.jpg
+    rating: 4.2
+    date: '2026-08-18'
+    code: 673508
+    url: /works/673508/
+  - title: Summer, The Countryside, Tatami and Futon, Mother
+    author: takatsu-takatsu-keita
+    cover: /covers/673862.jpg
+    rating: 4.5
+    date: '2026-08-19'
+    code: 673862
+    url: /works/673862/
+  - title: 'Married Woman Club: Glass Slippers'
+    author: kuroiwa-menou
+    cover: /covers/673944.jpg
+    rating: 4.2
+    date: '2026-08-19'
+    code: 673944
+    url: /works/673944/
+  - title: Niihama Yui Husband Exclusive Re-debut
+    author: buta
+    cover: /covers/674199.jpg
+    rating: 4.3
+    date: '2026-08-20'
+    code: 674199
+    url: /works/674199/
+  - title: nekonimatatabi
+    author: yuzuto-sen
+    cover: /covers/674592.jpg
+    rating: 4.0
+    date: '2026-08-21'
+    code: 674592
+    url: /works/674592/
+  - title: Boku to Mama wa Love Love nanoni, Sensei to Mechakucha Sex shiteru Hanashi
+      | A story about how, despite being all lovey-dovey with my mom, she's having wild
+      sex with my teacher.
+    author: smells-like
+    cover: /covers/674663.jpg
+    rating: 4.7
+    date: '2026-08-21'
+    code: 674663
+    url: /works/674663/
+  - title: Hitoe-san no warui kuse | Hitoe's Bad Habit
+    author: jirou
+    cover: /covers/674702.jpg
+    rating: 4.5
+    date: '2026-08-21'
+    code: 674702
+    url: /works/674702/
+  - title: Maou Hime wa Koui ga Jakuten | The Demon Lord Princess is Weak to Affection
+    author: monchan-rev3
+    cover: /covers/674710.jpg
+    rating: 5.0
+    date: '2026-08-21'
+    code: 674710
+    url: /works/674710/
   - title: Single Mother Aoki-san no Kakeijutsu｜Single Mother Aoki-san's Budgeting Hacks
     author: fujinoe13b
     cover: /covers/674927.jpg

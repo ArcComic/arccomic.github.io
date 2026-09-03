@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "lolicon"
-work_count: 12
+work_count: 27
 works:
   - title: Uwa, Mesugaki Tsuyoi! | Crap, This Mesugaki's Too Powerful!
     author: poncocchan
@@ -10,6 +10,85 @@ works:
     date: '2026-08-31'
     code: 550359
     url: /works/550359/
+  - title: Ryuu no Gekirin
+    author: p-n
+    cover: /covers/664626.jpg
+    rating: 4.5
+    date: '2026-07-16'
+    code: 664626
+    url: /works/664626/
+  - title: Mesugaki ni Saikyouiku o!! | Re-Educating A Smug-Brat!!
+    author: type-yamada
+    cover: /covers/664631.jpg
+    rating: 4.3
+    date: '2026-07-16'
+    code: 664631
+    url: /works/664631/
+  - title: Makocchi and Riori
+    author: yudoufu
+    cover: /covers/664742.jpg
+    rating: 4.8
+    date: '2026-07-17'
+    code: 664742
+    url: /works/664742/
+  - title: Miya-chan no Kyuuin Life! - Chapter 12
+    author: furumoto-takeru
+    cover: /covers/664766.jpg
+    rating: 4.2
+    date: '2026-07-17'
+    code: 664766
+    url: /works/664766/
+  - title: My Big brother
+    author: momoyama-hato
+    cover: /covers/664926.jpg
+    rating: 4.8
+    date: '2026-07-17'
+    code: 664926
+    url: /works/664926/
+  - title: Saimin Mahou de Sokuochi Namaiki Majo Koko-chan ~Tensai Elite nanonii Mamono
+      Chinpo ni Kusozako Make Acme Kimechaimashitaa~ | Instant Fall via Hypnosis Magic❤
+      Cheeky Witch Koko-chan ~A Genius Elite, Yet...❤ Monster
+    author: yonketa
+    cover: /covers/673561.jpg
+    rating: 5.0
+    date: '2026-08-18'
+    code: 673561
+    url: /works/673561/
+  - title: Jitaku ni Shinnyuu Sareta Onnanoko ~Shojo Soushitsu Nakadashi Rape~
+    author: usagi-no-yume
+    cover: /covers/673983.jpg
+    rating: 4.8
+    date: '2026-08-19'
+    code: 673983
+    url: /works/673983/
+  - title: Anokotachi no Jijou - 〇〇chanchi no Jijou Soushuuhen
+    author: yukino-minato
+    cover: /covers/673985.jpg
+    rating: 4.8
+    date: '2026-08-19'
+    code: 673985
+    url: /works/673985/
+  - title: Island of the Mist God - Complet Edition
+    author: noraneko-no-tama
+    cover: /covers/673986.jpg
+    rating: 4.9
+    date: '2026-08-19'
+    code: 673986
+    url: /works/673986/
+  - title: Nayotake Kaguya no Himegoto
+    author: yukino-minato
+    cover: /covers/673992.jpg
+    rating: 4.4
+    date: '2026-08-19'
+    code: 673992
+    url: /works/673992/
+  - title: Tonari no Ko | The Girl Next Door
+    author: oyabe-ryo-isurugi-ryo
+    cover: /covers/674496.jpg
+    rating: 4.6
+    date: '2026-08-21'
+    code: 674496
+    url: /works/674496/
   - title: Onii-san Zako sugite Ukeru~ | Big Brother, you're so pathetic, it's hilarious~
     author: puritei
     cover: /covers/674568.jpg
@@ -17,6 +96,35 @@ works:
     date: '2026-08-21'
     code: 674568
     url: /works/674568/
+  - title: Jirashite Jirashite Jirashite Jirashite Pierce | Tease Me, Tease Me, Tease
+      Me Teasing Piercing
+    author: chi-ra-rhyzhm
+    cover: /covers/674569.jpg
+    rating: 5.0
+    date: '2026-08-21'
+    code: 674569
+    url: /works/674569/
+  - title: Ayano-chan wa Mashou Tenkousei
+    author: nedia
+    cover: /covers/674684.jpg
+    rating: 4.2
+    date: '2026-08-21'
+    code: 674684
+    url: /works/674684/
+  - title: Bitch Girls
+    author: itou
+    cover: /covers/674701.jpg
+    rating: 4.9
+    date: '2026-08-21'
+    code: 674701
+    url: /works/674701/
+  - title: My Teacher Is So Hot That I Might Repeat Kindergarten !!
+    author: tamano-kedama
+    cover: /covers/674709.jpg
+    rating: 4.4
+    date: '2026-08-21'
+    code: 674709
+    url: /works/674709/
   - title: Kawaii kedo Seikaku Warui kara Ijimechao! Nichijyou Bukkowashi Satsueikai
       Hen
     author: dancyo

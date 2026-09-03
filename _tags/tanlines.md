@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "tanlines"
-work_count: 3
+work_count: 4
 works:
+  - title: Anokotachi no Jijou - 〇〇chanchi no Jijou Soushuuhen
+    author: yukino-minato
+    cover: /covers/673985.jpg
+    rating: 4.8
+    date: '2026-08-19'
+    code: 673985
+    url: /works/673985/
   - title: Meikko na Syoujo no Ehon 3
     author: malcorond
     cover: /covers/676181.jpg

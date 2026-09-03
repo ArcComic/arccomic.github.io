@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "paizuri"
-work_count: 17
+work_count: 34
 works:
   - title: Saikin, Musuko no Yousu ga Hen nan desu | Lately my son has been acting Strangly
     author: matsumoto-jikyuuryoku
@@ -35,6 +35,28 @@ works:
     date: '2026-08-29'
     code: 511316
     url: /works/511316/
+  - title: Imouto wa Mesu Orc 7
+    author: muneshiro
+    cover: /covers/547393.jpg
+    rating: 4.3
+    date: '2026-07-17'
+    code: 547393
+    url: /works/547393/
+  - title: Ninshiki Kaihen Saimin Time Card + Joushiki Kaihen Saimin Time Card | Common
+      Sense Altering Hypnosis Time Card 1+2
+    author: pomi-sword
+    cover: /covers/569375.jpg
+    rating: 4.6
+    date: '2026-08-19'
+    code: 569375
+    url: /works/569375/
+  - title: Doukyuusei no Kyouiku Mama ni Hitomebore!
+    author: chotto-b-sen
+    cover: /covers/581704.jpg
+    rating: 4.8
+    date: '2026-07-17'
+    code: 581704
+    url: /works/581704/
   - title: Ore ga Hoshikatta Mono wa Kin Medal Yori Namami Onaho Datta no Kamoshirenai｜Maybe
       what I Wanted was a Flesh and Blood Masturbator Rather than a Gold Medal
     author: carburetor
@@ -57,6 +79,21 @@ works:
     date: '2026-08-25'
     code: 595108
     url: /works/595108/
+  - title: Onsen Haitte tara Joseito-tachi ga Osotte Kita | My Students Jumped Me When
+      I Got in the Hot Spring
+    author: hamo
+    cover: /covers/639463.jpg
+    rating: 4.7
+    date: '2026-08-20'
+    code: 639463
+    url: /works/639463/
+  - title: Otokomasari na Kyonyuu Hitozuma Joushi to Amaama SeFri Kankei ni Natta Ken
+    author: elica
+    cover: /covers/641362.jpg
+    rating: 4.3
+    date: '2026-08-19'
+    code: 641362
+    url: /works/641362/
   - title: Akogare no Hito wa Mou Owari! 3
     author: group
     cover: /covers/642586.jpg
@@ -64,6 +101,13 @@ works:
     date: '2026-08-24'
     code: 642586
     url: /works/642586/
+  - title: Tonari no Ayane-san Soushuuhen | My Neighbor Ayane Anthology
+    author: herio
+    cover: /covers/656319.jpg
+    rating: 4.8
+    date: '2026-08-18'
+    code: 656319
+    url: /works/656319/
   - title: Make Love Rank match!!③
     author: napo
     cover: /covers/659484.jpg
@@ -71,6 +115,89 @@ works:
     date: '2026-08-22'
     code: 659484
     url: /works/659484/
+  - title: Miya-chan no Kyuuin Life! - Chapter 12
+    author: furumoto-takeru
+    cover: /covers/664766.jpg
+    rating: 4.2
+    date: '2026-07-17'
+    code: 664766
+    url: /works/664766/
+  - title: 'Seifukusha ~Yami ni Ochiru Hitozuma-tachi~ | Sexploiter: Housewives Falling
+      Into Darkness'
+    author: hoshino-ryuichi
+    cover: /covers/664937.jpg
+    rating: 4.2
+    date: '2026-07-17'
+    code: 664937
+    url: /works/664937/
+  - title: Gohoubi wa Karada de. ~Ero-sugi Fukuri Kousei wa Seishori-ka no Oshigoto~
+      (2) | The Reward is the Body ~The Overly Lewd Employee Benefits of the Service
+      Department~
+    author: c-kyuu
+    cover: /covers/668867.jpg
+    rating: 4.6
+    date: '2026-08-19'
+    code: 668867
+    url: /works/668867/
+  - title: Nuite Moraimakuri Nyuuin Seikatsu ~Tasuketa Cool-Gyaru wa Jitsu wa Sukebe
+      deshita~
+    author: gujira
+    cover: /covers/673508.jpg
+    rating: 4.2
+    date: '2026-08-18'
+    code: 673508
+    url: /works/673508/
+  - title: Omi-san no Komoriuta | Omi-san's Lullaby
+    author: nekomata-naomi
+    cover: /covers/673920.jpg
+    rating: 4.0
+    date: '2026-08-19'
+    code: 673920
+    url: /works/673920/
+  - title: Chinmai Iinchou wa Ore ni dake Himitsu o Misete Kureru
+    author: muku
+    cover: /covers/673952.jpg
+    rating: 4.8
+    date: '2026-08-19'
+    code: 673952
+    url: /works/673952/
+  - title: Niihama Yui Husband Exclusive Re-debut
+    author: buta
+    cover: /covers/674199.jpg
+    rating: 4.3
+    date: '2026-08-20'
+    code: 674199
+    url: /works/674199/
+  - title: Tenshi Hirotta kara Haramaseru ~Ojii-san Senyou Botebara Onaho ni Naru made
+      no Kiroku~ | I Met an Angel, and then I Knocked Her Up ~A Record of Becoming Oji-san’s
+      Personal Preggo Belly Onahole~
+    author: a-shika
+    cover: /covers/674608.jpg
+    rating: 4.1
+    date: '2026-08-21'
+    code: 674608
+    url: /works/674608/
+  - title: Ura-account Sensei
+    author: tokiwa-midori
+    cover: /covers/674609.jpg
+    rating: 4.6
+    date: '2026-08-21'
+    code: 674609
+    url: /works/674609/
+  - title: Tonari no Ayane-san Ryokan de Shippori Hen
+    author: herio
+    cover: /covers/674614.jpg
+    rating: 4.1
+    date: '2026-08-21'
+    code: 674614
+    url: /works/674614/
+  - title: Nomi Tomo to! | Drinking Buddies!
+    author: poncocchan
+    cover: /covers/674704.jpg
+    rating: 4.5
+    date: '2026-08-21'
+    code: 674704
+    url: /works/674704/
   - title: Shitate ni wa Denai kedo Chinko ni wa Yowai Gyaru-chan to Kyokon Otaku! |
       A gal who doesn't act submissive but is weak for a big cock, and a huge-dicked
       otaku.

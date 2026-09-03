@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "anal intercourse"
-work_count: 11
+work_count: 17
 works:
   - title: Bitch Mama no Kekkon Riyuu
     author: aoyama-akira
@@ -18,6 +18,14 @@ works:
     date: '2026-08-31'
     code: 556767
     url: /works/556767/
+  - title: Otoko no Ko otodokeshimasu! ~Itsumo kuru Haitatsuin-san ga masaka no Otoko
+      no Ko dattakedo mayowazu hameta~
+    author: mitsujirou
+    cover: /covers/605410.jpg
+    rating: 4.9
+    date: '2026-07-16'
+    code: 605410
+    url: /works/605410/
   - title: Naisho no An-chan
     author: seto-ryouko
     cover: /covers/627126.jpg
@@ -32,6 +40,22 @@ works:
     date: '2026-08-24'
     code: 642586
     url: /works/642586/
+  - title: Otokonoko Otodoke Shimasu! 2 ~Itsumo kuru Haitatsuin-san ga Masaka no Otokonoko
+      datta kedo Mayowazu Hameta~
+    author: mitsujirou
+    cover: /covers/664672.jpg
+    rating: 4.4
+    date: '2026-07-16'
+    code: 664672
+    url: /works/664672/
+  - title: 'Seifukusha ~Yami ni Ochiru Hitozuma-tachi~ | Sexploiter: Housewives Falling
+      Into Darkness'
+    author: hoshino-ryuichi
+    cover: /covers/664937.jpg
+    rating: 4.2
+    date: '2026-07-17'
+    code: 664937
+    url: /works/664937/
   - title: Igyou Koubi Kairaku Jigoku 1 + 2
     author: allegro
     cover: /covers/668880.jpg
@@ -39,6 +63,29 @@ works:
     date: '2026-08-23'
     code: 668880
     url: /works/668880/
+  - title: Tenshi Hirotta kara Haramaseru ~Ojii-san Senyou Botebara Onaho ni Naru made
+      no Kiroku~ | I Met an Angel, and then I Knocked Her Up ~A Record of Becoming Oji-san’s
+      Personal Preggo Belly Onahole~
+    author: a-shika
+    cover: /covers/674608.jpg
+    rating: 4.1
+    date: '2026-08-21'
+    code: 674608
+    url: /works/674608/
+  - title: Bitch Girls
+    author: itou
+    cover: /covers/674701.jpg
+    rating: 4.9
+    date: '2026-08-21'
+    code: 674701
+    url: /works/674701/
+  - title: Hitoe-san no warui kuse | Hitoe's Bad Habit
+    author: jirou
+    cover: /covers/674702.jpg
+    rating: 4.5
+    date: '2026-08-21'
+    code: 674702
+    url: /works/674702/
   - title: Saotsuki Honey to Doukyo Seikatsu Ch. 6
     author: hontoku
     cover: /covers/674763.jpg

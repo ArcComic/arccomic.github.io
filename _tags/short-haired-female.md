@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "short-haired female"
-work_count: 4
+work_count: 5
 works:
   - title: Homestay-chu no Doitsu Musume ga Issho ni Furo ni Haitte Kuru Wake | The
       Reason Why a German Girl Takes a Bath Together With Me on Her Homestay
@@ -11,6 +11,13 @@ works:
     date: '2026-08-22'
     code: 344851
     url: /works/344851/
+  - title: Youka-go Tsuma no Haha o Daku | Eight Days With My Wife's Mother
+    author: jagaimo
+    cover: /covers/534808.jpg
+    rating: 4.3
+    date: '2026-08-19'
+    code: 534808
+    url: /works/534808/
   - title: Ore wa Yome ni Sakaraenai... Seiheki o Nigirareteiru | I Can't Say No To
       My Wife... She's Got Me By The Balls!
     author: inu

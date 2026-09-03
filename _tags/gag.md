@@ -1,8 +1,16 @@
 ---
 layout: tag
 tag_name: "gag"
-work_count: 3
+work_count: 4
 works:
+  - title: 'Seifukusha ~Yami ni Ochiru Hitozuma-tachi~ | Sexploiter: Housewives Falling
+      Into Darkness'
+    author: hoshino-ryuichi
+    cover: /covers/664937.jpg
+    rating: 4.2
+    date: '2026-07-17'
+    code: 664937
+    url: /works/664937/
   - title: Midnight Lilies Full Release
     author: landacdeus
     cover: /covers/674863.jpg

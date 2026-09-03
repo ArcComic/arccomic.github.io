@@ -1,8 +1,36 @@
 ---
 layout: tag
 tag_name: "females only"
-work_count: 5
+work_count: 9
 works:
+  - title: 'Hyakka Yuran - Sakura | Encyclopedia: Yu-Chan''s Cherry Blossoms'
+    author: ueto-seri-ueto-ruri
+    cover: /covers/664642.jpg
+    rating: 4.4
+    date: '2026-07-16'
+    code: 664642
+    url: /works/664642/
+  - title: Makocchi and Riori
+    author: yudoufu
+    cover: /covers/664742.jpg
+    rating: 4.8
+    date: '2026-07-17'
+    code: 664742
+    url: /works/664742/
+  - title: IPU - Invisible Pink Unicorn
+    author: masaki-kazuyoshi
+    cover: /covers/674268.jpg
+    rating: 4.4
+    date: '2026-08-20'
+    code: 674268
+    url: /works/674268/
+  - title: Kaho-chan wa Oshioki Shitai
+    author: serakichi
+    cover: /covers/674298.jpg
+    rating: 4.1
+    date: '2026-08-20'
+    code: 674298
+    url: /works/674298/
   - title: Midnight Lilies Full Release
     author: landacdeus
     cover: /covers/674863.jpg
