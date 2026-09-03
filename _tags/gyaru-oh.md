@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "gyaru-oh"
-work_count: 11
+work_count: 13
 works:
+  - title: Netorare Ibe Kiba Shizuka
+    author: terasu-mc
+    cover: /covers/275108.jpg
+    rating: 5.0
+    date: '2026-04-16'
+    code: 275108
+    url: /works/275108/
   - title: Netorare Ibe Kiba Shizuka | The Netorare of Kiba Shizuka
     author: terasu-mc
     cover: /covers/288292.jpg
@@ -39,6 +46,13 @@ works:
     date: '2026-07-16'
     code: 555816
     url: /works/555816/
+  - title: Siblings Shouldn't Do It! | Kyoudai de Shitara Ikemasen
+    author: fence-14
+    cover: /covers/635266.jpg
+    rating: 4.7
+    date: '2026-03-07'
+    code: 635266
+    url: /works/635266/
   - title: Onna Tomodachi no Uwaki Kokuhaku 2 | My Friend Confessed to Cheating 2
     author: dekamatsu
     cover: /covers/647270.jpg

@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "scat"
-work_count: 5
+work_count: 7
 works:
+  - title: Ryoujoku Gakuen
+    author: motchie
+    cover: /covers/332375.jpg
+    rating: 4.0
+    date: '2026-04-17'
+    code: 332375
+    url: /works/332375/
   - title: Rena
     author: shinjima-saki
     cover: /covers/537476.jpg
@@ -10,6 +17,13 @@ works:
     date: '2026-07-09'
     code: 537476
     url: /works/537476/
+  - title: Kugisaki Anal Otoshi
+    author: ishigaki-takashi
+    cover: /covers/579976.jpg
+    rating: 4.7
+    date: '2026-04-21'
+    code: 579976
+    url: /works/579976/
   - title: Onna Shachou to Koibito ni Naru Houhou | How To Become Lover's With A Female
       CEO
     author: fan

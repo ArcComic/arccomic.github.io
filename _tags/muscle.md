@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "muscle"
-work_count: 42
+work_count: 55
 works:
+  - title: Netorare Ibe Kiba Shizuka
+    author: terasu-mc
+    cover: /covers/275108.jpg
+    rating: 5.0
+    date: '2026-04-16'
+    code: 275108
+    url: /works/275108/
   - title: Netorare Ibe Kiba Shizuka | The Netorare of Kiba Shizuka
     author: terasu-mc
     cover: /covers/288292.jpg
@@ -10,6 +17,20 @@ works:
     date: '2026-07-16'
     code: 288292
     url: /works/288292/
+  - title: Kono Furin wa Otto no Tame "Anata, Yurushite…." To, Netorareru Tsuma | 這場外遇是為了老公「親愛的，原諒我…」這樣說著，為老公戴綠帽的妻子
+    author: korosuke
+    cover: /covers/328805.jpg
+    rating: 5.0
+    date: '2026-04-12'
+    code: 328805
+    url: /works/328805/
+  - title: netoraretekite, ii desu yo.
+    author: nt-robo
+    cover: /covers/432513.jpg
+    rating: 4.9
+    date: '2026-04-12'
+    code: 432513
+    url: /works/432513/
   - title: Boku no Netorase Seiheki ni Tsukiatte kureru Kanojo | A Girlfriend Who Plays
       Along with My Cuckold Fetish
     author: terasu-mc
@@ -18,6 +39,20 @@ works:
     date: '2026-04-25'
     code: 441036
     url: /works/441036/
+  - title: 'Portio Switch CASE: Varicata Portio | Cervix Switch CASE - Extra-hard Cervix'
+    author: bang-you-didori
+    cover: /covers/452141.jpg
+    rating: 4.4
+    date: '2026-03-07'
+    code: 452141
+    url: /works/452141/
+  - title: Provoking Men 1-8
+    author: pororivista
+    cover: /covers/458903.jpg
+    rating: 4.5
+    date: '2026-04-13'
+    code: 458903
+    url: /works/458903/
   - title: Onozomi deshitara Saimin wo ~Maki-san Himitsu no Renai Therapy~ | If you
       wish, hypnosis ~Maki-san's secret love therapy~
     author: meeko
@@ -104,6 +139,13 @@ works:
     date: '2026-08-24'
     code: 584934
     url: /works/584934/
+  - title: My Thousand Days With Mentor Tsuji
+    author: concontochu
+    cover: /covers/588066.jpg
+    rating: 4.3
+    date: '2026-04-15'
+    code: 588066
+    url: /works/588066/
   - title: Torohame "100-kai Iku made Hanasanai" Hajimete no Portio Kiss... Kizetsu
       suru made Renzoku Nou Iki | TOROHAME ~First Time Portio Kiss... Consecutive Braingasm
       Until You Faint~
@@ -146,6 +188,20 @@ works:
     date: '2026-08-29'
     code: 634450
     url: /works/634450/
+  - title: 'GNO: Girl''s Night Out - Issue 02'
+    author: uselessbegging
+    cover: /covers/634464.jpg
+    rating: 4.0
+    date: '2026-03-07'
+    code: 634464
+    url: /works/634464/
+  - title: Siblings Shouldn't Do It! | Kyoudai de Shitara Ikemasen
+    author: fence-14
+    cover: /covers/635266.jpg
+    rating: 4.7
+    date: '2026-03-07'
+    code: 635266
+    url: /works/635266/
   - title: Noa-chan to Ichaicha suru Hon
     author: remora
     cover: /covers/635512.jpg
@@ -174,6 +230,28 @@ works:
     date: '2026-08-24'
     code: 642588
     url: /works/642588/
+  - title: My Childhood Friend Twins Become Another Man’s Onahole 1-3
+    author: unknown
+    cover: /covers/643193.jpg
+    rating: 4.7
+    date: '2026-04-11'
+    code: 643193
+    url: /works/643193/
+  - title: Imouto Haramasenai to Derarenai Shima 2
+    author: airandou
+    cover: /covers/643375.jpg
+    rating: 4.4
+    date: '2026-04-12'
+    code: 643375
+    url: /works/643375/
+  - title: LeveChi na Swapping 3 ~Honrosareru Fuufu Hen~ | Swapping on a Whole New Level
+      3 ~The Couple At The Mercy Of Others~
+    author: hikitogu
+    cover: /covers/643397.jpg
+    rating: 5.0
+    date: '2026-04-12'
+    code: 643397
+    url: /works/643397/
   - title: Mitsuha ~Netorare~ 10 (Your Name After Story) True Ending
     author: syukurin
     cover: /covers/643592.jpg
@@ -181,6 +259,21 @@ works:
     date: '2026-04-27'
     code: 643592
     url: /works/643592/
+  - title: 'Otto no Shakkin Nakadashi Hensai Gifu ni Mi o Uru Komochi Tsuma | My Husband’s
+      Debt: A Wife Sells Herself to Her Father-in-Law as Creampie Repayment'
+    author: onodera
+    cover: /covers/644028.jpg
+    rating: 4.0
+    date: '2026-04-15'
+    code: 644028
+    url: /works/644028/
+  - title: Sawatte Mitai? | Do You Wanna Touch?
+    author: rondonko
+    cover: /covers/644309.jpg
+    rating: 4.1
+    date: '2026-04-17'
+    code: 644309
+    url: /works/644309/
   - title: Delusion story book
     author: madarame-rin
     cover: /covers/644810.jpg

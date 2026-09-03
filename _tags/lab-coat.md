@@ -1,8 +1,22 @@
 ---
 layout: tag
 tag_name: "lab coat"
-work_count: 4
+work_count: 6
 works:
+  - title: Prefab
+    author: lioreo
+    cover: /covers/643975.jpg
+    rating: 4.6
+    date: '2026-04-15'
+    code: 643975
+    url: /works/643975/
+  - title: DOLLS 2
+    author: crimson-carmine
+    cover: /covers/644707.jpg
+    rating: 4.0
+    date: '2026-04-19'
+    code: 644707
+    url: /works/644707/
   - title: Jill's Rehabilitation
     author: sawao
     cover: /covers/651296.jpg

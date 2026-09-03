@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "daughter"
-work_count: 9
+work_count: 12
 works:
+  - title: Kindan no Hatemitsu
+    author: ryuuta
+    cover: /covers/163039.jpg
+    rating: 4.1
+    date: '2026-04-19'
+    code: 163039
+    url: /works/163039/
   - title: Nakayoku no Yu e Youkoso Ch. 2 & 3
     author: enomoto-heights
     cover: /covers/555849.jpg
@@ -17,6 +24,13 @@ works:
     date: '2026-04-23'
     code: 593064
     url: /works/593064/
+  - title: Kaya-nee and the Old Man Memories
+    author: kon-kit
+    cover: /covers/598144.jpg
+    rating: 4.3
+    date: '2026-03-09'
+    code: 598144
+    url: /works/598144/
   - title: Boku ga Shiranakatta Mama to Jii-chan no Koto | Things I didn't Know Between
       Mom And Grandpa
     author: urakan
@@ -25,6 +39,14 @@ works:
     date: '2026-04-23'
     code: 640543
     url: /works/640543/
+  - title: 'Otto no Shakkin Nakadashi Hensai Gifu ni Mi o Uru Komochi Tsuma | My Husband’s
+      Debt: A Wife Sells Herself to Her Father-in-Law as Creampie Repayment'
+    author: onodera
+    cover: /covers/644028.jpg
+    rating: 4.0
+    date: '2026-04-15'
+    code: 644028
+    url: /works/644028/
   - title: Inaka ni Sumu Dosukebe Gifu to Kosodate Yome | A Perverted Father-in-Law
       Living in the Countryside and His Daughter-in-Law Raising Children
     author: onodera

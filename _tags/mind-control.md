@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "mind control"
-work_count: 20
+work_count: 25
 works:
+  - title: Syuju - Kankei
+    author: 810eru
+    cover: /covers/489004.jpg
+    rating: 4.6
+    date: '2026-04-17'
+    code: 489004
+    url: /works/489004/
   - title: Bocchi de Shinda Ore ga Bishoujo Nurse ni Natta Hanashi | The Story of How
       I Died Alone and Became a Sexy Nurse
     author: testame
@@ -26,6 +33,13 @@ works:
     date: '2026-05-03'
     code: 500102
     url: /works/500102/
+  - title: Watashi wa Kakerareteru kara... | I've been hypnotized, so...
+    author: kiraku
+    cover: /covers/516164.jpg
+    rating: 4.9
+    date: '2026-04-17'
+    code: 516164
+    url: /works/516164/
   - title: Tennen Kaa-san ga Ero Kawai Sugiru node, Saimin Onaho Sex Shitatta! | My
       Airheaded Mom Was Too Adorably Sexy, So I Had Hypnotized Onahole Sex with Her!
     author: ginen
@@ -42,6 +56,14 @@ works:
     date: '2026-08-19'
     code: 569375
     url: /works/569375/
+  - title: Jibun ni dake Atari ga Tsuyoi Seito ni Saiminjutsu o Kaketa Hanashi | A story
+      of how I hypnotized a student who was only mean to me.
+    author: akahito
+    cover: /covers/580323.jpg
+    rating: 4.8
+    date: '2026-03-04'
+    code: 580323
+    url: /works/580323/
   - title: Nagachichi Haha no Naedoko
     author: ginen
     cover: /covers/595108.jpg
@@ -65,6 +87,20 @@ works:
     date: '2026-04-23'
     code: 628865
     url: /works/628865/
+  - title: Mishiranu Boshi ni Yaritai Houdai
+    author: tonda
+    cover: /covers/635363.jpg
+    rating: 4.6
+    date: '2026-03-07'
+    code: 635363
+    url: /works/635363/
+  - title: Boku no Kanojo ga Katte ni Seikyouiku Sareteta Hanashi
+    author: unknown
+    cover: /covers/643527.jpg
+    rating: 4.3
+    date: '2026-04-12'
+    code: 643527
+    url: /works/643527/
   - title: Succubus Seitokai Shiko Shiko Shikkoubu 2 NOA ver. | Succubus Student Council
       Milking Club 2 Version NOA
     author: michiking

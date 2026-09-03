@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "gymshorts"
-work_count: 6
+work_count: 7
 works:
   - title: Suki Araba Kareshi no Seiheki o Yugametai! ~Kimi no Aegi ga Mada Tarinai~
     author: meeko
@@ -26,6 +26,14 @@ works:
     date: '2026-08-29'
     code: 511316
     url: /works/511316/
+  - title: Sewayaki na Kyonyuu Gakkyuu Iinchou Sono 1-20 | The Kind and Caring Busty
+      Class Rep Ch.1-20
+    author: makosho
+    cover: /covers/635514.jpg
+    rating: 4.1
+    date: '2026-03-08'
+    code: 635514
+    url: /works/635514/
   - title: He's being held by her father
     author: unknown
     cover: /covers/647938.jpg

@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "multimouth blowjob"
-work_count: 12
+work_count: 15
 works:
+  - title: Kanojo wa Boku no Taieki de Ugoiteiru Phase. 05 [English] =NSS=
+    author: nagareboshi
+    cover: /covers/470025.jpg
+    rating: 4.0
+    date: '2026-04-15'
+    code: 470025
+    url: /works/470025/
   - title: Nakayoku no Yu e Youkoso Ch. 2 & 3
     author: enomoto-heights
     cover: /covers/555849.jpg
@@ -17,6 +24,13 @@ works:
     date: '2026-04-23'
     code: 610041
     url: /works/610041/
+  - title: Mesu Etsu Toiki Nemoto made Fukaku…
+    author: drill-murata
+    cover: /covers/612957.jpg
+    rating: 4.2
+    date: '2026-04-17'
+    code: 612957
+    url: /works/612957/
   - title: Onsen Haitte tara Joseito-tachi ga Osotte Kita | My Students Jumped Me When
       I Got in the Hot Spring
     author: hamo
@@ -32,6 +46,13 @@ works:
     date: '2026-08-24'
     code: 642585
     url: /works/642585/
+  - title: My Childhood Friend Twins Become Another Man’s Onahole 1-3
+    author: unknown
+    cover: /covers/643193.jpg
+    rating: 4.7
+    date: '2026-04-11'
+    code: 643193
+    url: /works/643193/
   - title: 'YariCir Shingakki ni Boku no Heya wa Minna no Tamariba (Omake Ver.) - Fuck
       Club: New Term! My Room''s A Hangout Spot For Everyone'
     author: purumetal

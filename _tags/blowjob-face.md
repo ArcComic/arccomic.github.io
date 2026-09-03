@@ -1,8 +1,32 @@
 ---
 layout: tag
 tag_name: "blowjob face"
-work_count: 24
+work_count: 33
 works:
+  - title: Tsuma wo Yariman ni Shimasu Shakkin no Tame desu kara.
+    author: pietoro
+    cover: /covers/293478.jpg
+    rating: 4.0
+    date: '2026-04-12'
+    code: 293478
+    url: /works/293478/
+  - title: Iro no Ie -Hitozuma ga Sex Suru Hon II- | Erotic House - Married Women Sex
+      Book 2
+    author: miho-rei
+    cover: /covers/361032.jpg
+    rating: 4.5
+    date: '2026-03-09'
+    code: 361032
+    url: /works/361032/
+  - title: Tonari no Onee-san no Shitagi o Nusundara Kiseki ga Okita Hanashi o Shiyou
+      |  Let’s Talk About the Story of A Miracle that Happened When I Stole the Underwear
+      of the Lady Next Door
+    author: special-g
+    cover: /covers/443909.jpg
+    rating: 4.3
+    date: '2026-03-05'
+    code: 443909
+    url: /works/443909/
   - title: Itabasami na Wakachi Ai 4 | Love Divided Between a Rock and a Hard Place
       4
     author: group
@@ -26,6 +50,50 @@ works:
     date: '2026-05-05'
     code: 578147
     url: /works/578147/
+  - title: '"Yasashii Dake no Otoko" to Tsuma ni Sute Raretanode... | My Wife Left Me
+      Because I was "Too Gentle"...'
+    author: special-g
+    cover: /covers/593456.jpg
+    rating: 4.4
+    date: '2026-03-05'
+    code: 593456
+    url: /works/593456/
+  - title: Mesu Etsu Toiki Nemoto made Fukaku…
+    author: drill-murata
+    cover: /covers/612957.jpg
+    rating: 4.2
+    date: '2026-04-17'
+    code: 612957
+    url: /works/612957/
+  - title: Boku no Mama wa Otouto no Mae de dake Dosukebe ni Naru｜My Mom Turns Into
+      a Slut for My Little Brother, and Him Alone
+    author: asahina-hikage
+    cover: /covers/634591.jpg
+    rating: 4.9
+    date: '2026-03-05'
+    code: 634591
+    url: /works/634591/
+  - title: Chinpo ni Katenai Onna-tachi
+    author: oobayashi-mori
+    cover: /covers/638359.jpg
+    rating: 4.3
+    date: '2026-04-19'
+    code: 638359
+    url: /works/638359/
+  - title: Imouto Haramasenai to Derarenai Shima 2
+    author: airandou
+    cover: /covers/643375.jpg
+    rating: 4.4
+    date: '2026-04-12'
+    code: 643375
+    url: /works/643375/
+  - title: DeliHeal Yondara Moto Doukyuusei ga Kita ~Polynesian Sex  6-kame~
+    author: tatsuwaipu
+    cover: /covers/643512.jpg
+    rating: 4.2
+    date: '2026-04-12'
+    code: 643512
+    url: /works/643512/
   - title: Momoiro Kikyou Boku no Hajimete wa Toshiue Bakunyuu Soap-jou｜Pink Bellflower∶
       My First Experience with an Older Busty Soapland Lady
     author: enma

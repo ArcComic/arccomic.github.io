@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "body writing"
-work_count: 5
+work_count: 6
 works:
   - title: IKUu!! Zenkou Seito no Mae de Koukai Zecchou-saserareta JK no Matsuro 1 |
       Cumming in Front of the Entire Student Body 1
@@ -11,6 +11,13 @@ works:
     date: '2026-05-04'
     code: 518608
     url: /works/518608/
+  - title: Imouto Haramasenai to Derarenai Shima 2
+    author: airandou
+    cover: /covers/643375.jpg
+    rating: 4.4
+    date: '2026-04-12'
+    code: 643375
+    url: /works/643375/
   - title: Oji Saimin Soushuuhen | Hypnotized Uncle Compilation Edition
     author: tokomaya-keita
     cover: /covers/645612.jpg

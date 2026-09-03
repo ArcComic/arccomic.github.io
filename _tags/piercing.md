@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "piercing"
-work_count: 16
+work_count: 20
 works:
   - title: Doushia (Terasu MC)] Dorei Gazoku
     author: terasu-mc
@@ -10,6 +10,13 @@ works:
     date: '2026-07-15'
     code: 427676
     url: /works/427676/
+  - title: 'Sono Koi wa Color Code #F88CB0 | That Love is Color Code #F88CB0'
+    author: chiba-toshirou
+    cover: /covers/481441.jpg
+    rating: 4.8
+    date: '2026-04-17'
+    code: 481441
+    url: /works/481441/
   - title: Onna Shachou to Koibito ni Naru Houhou | How To Become Lover's With A Female
       CEO
     author: fan
@@ -25,6 +32,13 @@ works:
     date: '2026-07-15'
     code: 616358
     url: /works/616358/
+  - title: 'Ace Attorney: No Escape'
+    author: mr-kurz
+    cover: /covers/620818.jpg
+    rating: 4.3
+    date: '2026-03-07'
+    code: 620818
+    url: /works/620818/
   - title: Boku no Toshiue no Tomodachi | My Older Friend
     author: buta
     cover: /covers/631036.jpg
@@ -41,6 +55,13 @@ works:
     date: '2026-08-29'
     code: 634450
     url: /works/634450/
+  - title: 'GNO: Girl''s Night Out - Issue 02'
+    author: uselessbegging
+    cover: /covers/634464.jpg
+    rating: 4.0
+    date: '2026-03-07'
+    code: 634464
+    url: /works/634464/
   - title: BUTA - 『You did a great job』
     author: buta
     cover: /covers/639772.jpg
@@ -48,6 +69,13 @@ works:
     date: '2026-08-23'
     code: 639772
     url: /works/639772/
+  - title: My Childhood Friend Twins Become Another Man’s Onahole 1-3
+    author: unknown
+    cover: /covers/643193.jpg
+    rating: 4.7
+    date: '2026-04-11'
+    code: 643193
+    url: /works/643193/
   - title: Netorase Club 2 Anal Name no Tensai to Fellatio no Tensai | Netorase Club
       2 The Genius of Rimjob and The Genius of Blowjob
     author: oosawara-sadao

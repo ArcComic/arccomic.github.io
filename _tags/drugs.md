@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "drugs"
-work_count: 16
+work_count: 18
 works:
   - title: NTR Anniversary + ) [Syukurin] Mitsuha ~Netorare~ (Kimi no Na wa.) [English]
       [Colorized] by Mikaku
@@ -19,6 +19,13 @@ works:
     date: '2026-04-27'
     code: 416883
     url: /works/416883/
+  - title: Yarareru kanojo - Hitozumajoushi ManaNTR -
+    author: tokyo-gunjo
+    cover: /covers/465602.jpg
+    rating: 4.7
+    date: '2026-04-19'
+    code: 465602
+    url: /works/465602/
   - title: Netorareru.~ Tsuma ga Ochi Yuku Hen'ai Kairaku no Hate ni...1-5 | NETORARERU,
       A Wife's Descent Into Sinful Pleasures 1-5
     author: yuuki-ryo
@@ -124,4 +131,11 @@ works:
     date: '2026-08-23'
     code: 675048
     url: /works/675048/
+  - title: Inin Keiyaku | Lewd Pregnancy Contract
+    author: yoshiura-kazuya
+    cover: /covers/83595.jpg
+    rating: 4.2
+    date: '2026-03-11'
+    code: 83595
+    url: /works/83595/
 ---

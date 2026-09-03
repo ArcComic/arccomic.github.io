@@ -1,8 +1,16 @@
 ---
 layout: artist
 artist_name: "yonketa"
-work_count: 1
+work_count: 2
 works:
+  - title: The Story Of How I Peeked On A Cheeky Elementary Schooler Brat Masturbating
+      And Ended Up Having Sweet Sex | Namaiki Kusogaki js no Onanie Nozoitara Amaama
+      Sex Dekita Hanashi
+    cover: /covers/643682.jpg
+    rating: 4.5
+    date: '2026-04-13'
+    code: 643682
+    url: /works/643682/
   - title: Saimin Mahou de Sokuochi Namaiki Majo Koko-chan ~Tensai Elite nanonii Mamono
       Chinpo ni Kusozako Make Acme Kimechaimashitaa~ | Instant Fall via Hypnosis Magic❤
       Cheeky Witch Koko-chan ~A Genius Elite, Yet...❤ Monster

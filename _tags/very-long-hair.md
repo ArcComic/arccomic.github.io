@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "very long hair"
-work_count: 21
+work_count: 27
 works:
   - title: Koi no Susumekata | How to Advance Your Love
     author: danimaru
@@ -24,6 +24,21 @@ works:
     date: '2026-05-03'
     code: 540880
     url: /works/540880/
+  - title: Gouriteki na Sei no Hassan ni Tsuite Aratame Chikubi Karikari Iraira Manko
+      | —关于如何合理地释放性欲—仔细调查乳头为何变硬与饥渴难耐的小穴
+    author: kito-sakeru
+    cover: /covers/592168.jpg
+    rating: 4.2
+    date: '2026-04-16'
+    code: 592168
+    url: /works/592168/
+  - title: Rio no Gouri wa Ikioi de Ose | 順勢推倒莉央的理性
+    author: ijou
+    cover: /covers/592744.jpg
+    rating: 5.0
+    date: '2026-04-16'
+    code: 592744
+    url: /works/592744/
   - title: Astrantia
     author: kyougoku-shin
     cover: /covers/598156.jpg
@@ -31,6 +46,37 @@ works:
     date: '2026-05-10'
     code: 598156
     url: /works/598156/
+  - title: Opportunity for Zaychik
+    author: eggutarto-sunnyside524
+    cover: /covers/634157.jpg
+    rating: 4.9
+    date: '2026-03-04'
+    code: 634157
+    url: /works/634157/
+  - title: The Story Of How I Peeked On A Cheeky Elementary Schooler Brat Masturbating
+      And Ended Up Having Sweet Sex | Namaiki Kusogaki js no Onanie Nozoitara Amaama
+      Sex Dekita Hanashi
+    author: yonketa
+    cover: /covers/643682.jpg
+    rating: 4.5
+    date: '2026-04-13'
+    code: 643682
+    url: /works/643682/
+  - title: Tsukatsuki Rio no Maid Seikatsu
+    author: prime
+    cover: /covers/644300.jpg
+    rating: 4.1
+    date: '2026-04-16'
+    code: 644300
+    url: /works/644300/
+  - title: Ane Mama ~ Atarashii Onee-chan to Mama wa Ore no Sex Friend ni Narimashita.
+      ~
+    author: group
+    cover: /covers/645383.jpg
+    rating: 4.3
+    date: '2026-04-23'
+    code: 645383
+    url: /works/645383/
   - title: Oji Saimin Soushuuhen | Hypnotized Uncle Compilation Edition
     author: tokomaya-keita
     cover: /covers/645612.jpg

@@ -1,8 +1,24 @@
 ---
 layout: tag
 tag_name: "exhibitionism"
-work_count: 32
+work_count: 39
 works:
+  - title: Seisozuma Netorase...
+    author: maccha-neji
+    cover: /covers/415906.jpg
+    rating: 4.3
+    date: '2026-04-12'
+    code: 415906
+    url: /works/415906/
+  - title: Tonari no Onee-san no Shitagi o Nusundara Kiseki ga Okita Hanashi o Shiyou
+      |  Let’s Talk About the Story of A Miracle that Happened When I Stole the Underwear
+      of the Lady Next Door
+    author: special-g
+    cover: /covers/443909.jpg
+    rating: 4.3
+    date: '2026-03-05'
+    code: 443909
+    url: /works/443909/
   - title: Ame no Hi wa, Honnori Chikubi
     author: hoshi-to-lucky
     cover: /covers/484860.jpg
@@ -10,6 +26,21 @@ works:
     date: '2026-05-04'
     code: 484860
     url: /works/484860/
+  - title: Boku no Chuugoku Bijin Slender Kyonyuu Tsuma ga Camera Model de Nugasarete
+      Yarichin Tomo ni Netorareta Ken
+    author: mitoreiyu
+    cover: /covers/492657.jpg
+    rating: 4.1
+    date: '2026-04-12'
+    code: 492657
+    url: /works/492657/
+  - title: SeFri no Senpai | 學姐是我的炮友
+    author: gen
+    cover: /covers/494440.jpg
+    rating: 4.3
+    date: '2026-03-09'
+    code: 494440
+    url: /works/494440/
   - title: Niizuma Nanaka no Roshutsu Satsuei
     author: fukurou-naru-tori
     cover: /covers/520363.jpg
@@ -24,6 +55,13 @@ works:
     date: '2026-04-25'
     code: 555792
     url: /works/555792/
+  - title: Chijo Monogatari Henshitsusha (Onna) Shutsubotsu Chuu
+    author: enma
+    cover: /covers/588713.jpg
+    rating: 4.9
+    date: '2026-03-07'
+    code: 588713
+    url: /works/588713/
   - title: Pashiri no Shita Teku, Yabaitte... ~ Ebi Sori Iki Suru Namaiki Gyaru | Bullied
       Boy's Tongue Revenge Vol.1-4
     author: takayamanon
@@ -70,6 +108,20 @@ works:
     date: '2026-07-09'
     code: 633938
     url: /works/633938/
+  - title: Hotai no Jikan ~Minna no Mae de Sensei to xxx o Shimasu~
+    author: mochizaki-panko
+    cover: /covers/634185.jpg
+    rating: 4.5
+    date: '2026-03-05'
+    code: 634185
+    url: /works/634185/
+  - title: Boshi Futari Gurashi Dai Go Shou 5 Souai
+    author: fuwatoro-opanchu-cake
+    cover: /covers/634207.jpg
+    rating: 4.7
+    date: '2026-03-04'
+    code: 634207
+    url: /works/634207/
   - title: Manatsu no Refrain | Midsummer's Refrain
     author: gen
     cover: /covers/639514.jpg

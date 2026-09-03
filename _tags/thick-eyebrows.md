@@ -1,8 +1,24 @@
 ---
 layout: tag
 tag_name: "thick eyebrows"
-work_count: 4
+work_count: 6
 works:
+  - title: Saimin ♥ Saimin | Hypno ♥ Hypno
+    author: minamida-usuke
+    cover: /covers/576398.jpg
+    rating: 4.1
+    date: '2026-04-23'
+    code: 576398
+    url: /works/576398/
+  - title: The Story Of How I Peeked On A Cheeky Elementary Schooler Brat Masturbating
+      And Ended Up Having Sweet Sex | Namaiki Kusogaki js no Onanie Nozoitara Amaama
+      Sex Dekita Hanashi
+    author: yonketa
+    cover: /covers/643682.jpg
+    rating: 4.5
+    date: '2026-04-13'
+    code: 643682
+    url: /works/643682/
   - title: Muchi Muchi Tennen Joshidaisei no Dosukebe Jorei Taikenroku | The Chunky,
       Defenseless, Airheaded University Girl Get's A Crash Course In Perverted Exorcisms!
     author: inamimi

@@ -1,8 +1,37 @@
 ---
 layout: tag
 tag_name: "mmf threesome"
-work_count: 17
+work_count: 25
 works:
+  - title: Hitozuma Hyakka
+    author: hase-tsubura
+    cover: /covers/190410.jpg
+    rating: 4.1
+    date: '2026-04-19'
+    code: 190410
+    url: /works/190410/
+  - title: Tsumaduki | With a Wife
+    author: ryuuta
+    cover: /covers/446716.jpg
+    rating: 4.4
+    date: '2026-04-19'
+    code: 446716
+    url: /works/446716/
+  - title: Yarareru kanojo - Hitozumajoushi ManaNTR -
+    author: tokyo-gunjo
+    cover: /covers/465602.jpg
+    rating: 4.7
+    date: '2026-04-19'
+    code: 465602
+    url: /works/465602/
+  - title: Boku no Chuugoku Bijin Slender Kyonyuu Tsuma ga Camera Model de Nugasarete
+      Yarichin Tomo ni Netorareta Ken
+    author: mitoreiyu
+    cover: /covers/492657.jpg
+    rating: 4.1
+    date: '2026-04-12'
+    code: 492657
+    url: /works/492657/
   - title: Bocchi de Shinda Ore ga Bishoujo Nurse ni Natta Hanashi | The Story of How
       I Died Alone and Became a Sexy Nurse
     author: testame
@@ -40,6 +69,20 @@ works:
     date: '2026-07-13'
     code: 598010
     url: /works/598010/
+  - title: Mesu Etsu Toiki Nemoto made Fukaku…
+    author: drill-murata
+    cover: /covers/612957.jpg
+    rating: 4.2
+    date: '2026-04-17'
+    code: 612957
+    url: /works/612957/
+  - title: Onee-san to Shiyo? ~Echinpo Card de Yaritai Houdai~
+    author: minato-yuu
+    cover: /covers/635801.jpg
+    rating: 4.6
+    date: '2026-03-09'
+    code: 635801
+    url: /works/635801/
   - title: Akogare no Hito wa Mou Owari! 3
     author: group
     cover: /covers/642586.jpg
@@ -47,6 +90,20 @@ works:
     date: '2026-08-24'
     code: 642586
     url: /works/642586/
+  - title: Prefab
+    author: lioreo
+    cover: /covers/643975.jpg
+    rating: 4.6
+    date: '2026-04-15'
+    code: 643975
+    url: /works/643975/
+  - title: Daisuki Datta Onii-chan | My Once Beloved Older Cousin
+    author: minakami-riku
+    cover: /covers/644495.jpg
+    rating: 5.0
+    date: '2026-04-17'
+    code: 644495
+    url: /works/644495/
   - title: Succubus Seitokai Shiko Shiko Shikkoubu 2 NOA ver. | Succubus Student Council
       Milking Club 2 Version NOA
     author: michiking

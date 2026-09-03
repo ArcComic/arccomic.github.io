@@ -1,7 +1,7 @@
 ---
 layout: artist
 artist_name: "unknown"
-work_count: 26
+work_count: 36
 works:
   - title: Ero Cos OL to Jiraikei Joshi ~Iki Nuresaseru Moto Kare no Amai Koshi Zukai~
     cover: /covers/548852.jpg
@@ -9,6 +9,12 @@ works:
     date: '2026-04-23'
     code: 548852
     url: /works/548852/
+  - title: Natsudashi kasshoku bijōfu hori ni ikko | 興起適逢烈夏至 相尋佳郎正當時
+    cover: /covers/569575.jpg
+    rating: 4.1
+    date: '2026-03-09'
+    code: 569575
+    url: /works/569575/
   - title: Hitozuma Takuhaibin 1+2
     cover: /covers/599910.jpg
     rating: 4.2
@@ -21,6 +27,62 @@ works:
     date: '2026-07-16'
     code: 617511
     url: /works/617511/
+  - title: Kunoichi o shikan shi makuru manga
+    cover: /covers/623910.jpg
+    rating: 4.7
+    date: '2026-04-19'
+    code: 623910
+    url: /works/623910/
+  - title: Namaiki JK mo, Ossan Chinpo no Mae de wa Muryoku desu.
+    cover: /covers/634472.jpg
+    rating: 4.2
+    date: '2026-03-04'
+    code: 634472
+    url: /works/634472/
+  - title: Kaa-san to Sex Shita Mikkakan | Three Days of Sex with My Mom
+    cover: /covers/639194.jpg
+    rating: 4.3
+    date: '2026-04-15'
+    code: 639194
+    url: /works/639194/
+  - title: My Childhood Friend Twins Become Another Man’s Onahole 1-3
+    cover: /covers/643193.jpg
+    rating: 4.7
+    date: '2026-04-11'
+    code: 643193
+    url: /works/643193/
+  - title: Boku no Kanojo ga Katte ni Seikyouiku Sareteta Hanashi
+    cover: /covers/643527.jpg
+    rating: 4.3
+    date: '2026-04-12'
+    code: 643527
+    url: /works/643527/
+  - title: Hataya Misuzu no P Ikusei Nisshi | Misuzu Hataya Training Diary
+    cover: /covers/643807.jpg
+    rating: 4.5
+    date: '2026-04-14'
+    code: 643807
+    url: /works/643807/
+  - title: Tantou Idol ga Totsuzen Heya ni Arawareta Ken | The Case Where My Assigned
+      Idol Misuzu Suddenly Appeared in My Room
+    cover: /covers/643808.jpg
+    rating: 4.1
+    date: '2026-04-14'
+    code: 643808
+    url: /works/643808/
+  - title: Ijimerare Musume to ijirikko ~ ore shika shiranaiyarashii karada
+    cover: /covers/644176.jpg
+    rating: 4.4
+    date: '2026-04-16'
+    code: 644176
+    url: /works/644176/
+  - title: DeliHeal Yondara Moto Doukyuusei ga Kita 2 |  I Called an Escort and My Former
+      Classmate Showed Up 2
+    cover: /covers/645136.jpg
+    rating: 4.1
+    date: '2026-04-21'
+    code: 645136
+    url: /works/645136/
   - title: 撞破秘密后，我成了上司的“专属藏品
     cover: /covers/645525.jpg
     rating: 4.6

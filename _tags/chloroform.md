@@ -1,8 +1,22 @@
 ---
 layout: tag
 tag_name: "chloroform"
-work_count: 6
+work_count: 13
 works:
+  - title: Kagesawa Mura no Akai Kagi tada <hottan>
+    author: chiba-shuusaku
+    cover: /covers/359864.jpg
+    rating: 4.7
+    date: '2026-04-17'
+    code: 359864
+    url: /works/359864/
+  - title: Kurata Akiko no Kokuhaku 2 - Confession of Akiko kurata Epsode 2
+    author: ootsuka-mahiro
+    cover: /covers/369382.jpg
+    rating: 5.0
+    date: '2026-04-13'
+    code: 369382
+    url: /works/369382/
   - title: NTR Anniversary + ) [Syukurin] Mitsuha ~Netorare~ (Kimi no Na wa.) [English]
       [Colorized] by Mikaku
     author: arakure
@@ -19,6 +33,34 @@ works:
     date: '2026-04-27'
     code: 416883
     url: /works/416883/
+  - title: Provoking Men 1-8
+    author: pororivista
+    cover: /covers/458903.jpg
+    rating: 4.5
+    date: '2026-04-13'
+    code: 458903
+    url: /works/458903/
+  - title: Kakine Tsuma II Daiichiwa | Wife on the Fence II - Chapter 1
+    author: ntr-system
+    cover: /covers/471387.jpg
+    rating: 4.8
+    date: '2026-04-13'
+    code: 471387
+    url: /works/471387/
+  - title: Minpaku ~Ojou-sama-tachi wa Minpaku Keieisha no Wana ni Ochiru~
+    author: kinugasa-yuuichi
+    cover: /covers/478446.jpg
+    rating: 4.7
+    date: '2026-04-14'
+    code: 478446
+    url: /works/478446/
+  - title: Ijime no Daishou wa Hahaoya no Karada de.
+    author: daidai-shikibu
+    cover: /covers/482859.jpg
+    rating: 4.1
+    date: '2026-04-16'
+    code: 482859
+    url: /works/482859/
   - title: Minpaku ~Ojou-sama-tachi wa Minpaku Keieisha no Wana ni Ochiru~ | Sleeping
       in the Bed and Breakfast - Young ladies fall into the trap of a private lodging
       manager
@@ -28,6 +70,13 @@ works:
     date: '2026-07-06'
     code: 543494
     url: /works/543494/
+  - title: Neteiru Okaa-san o Yaritai Houdai!
+    author: natsume-benkei
+    cover: /covers/544993.jpg
+    rating: 4.9
+    date: '2026-04-13'
+    code: 544993
+    url: /works/544993/
   - title: Ore ga Hoshikatta Mono wa Kin Medal Yori Namami Onaho Datta no Kamoshirenai｜Maybe
       what I Wanted was a Flesh and Blood Masturbator Rather than a Gold Medal
     author: carburetor

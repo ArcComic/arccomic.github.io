@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "mind break"
-work_count: 17
+work_count: 22
 works:
+  - title: Mesu Kagura -Fate Hen 1-
+    author: ishigaki-takashi
+    cover: /covers/431558.jpg
+    rating: 4.4
+    date: '2026-04-21'
+    code: 431558
+    url: /works/431558/
   - title: Bocchi de Shinda Ore ga Bishoujo Nurse ni Natta Hanashi | The Story of How
       I Died Alone and Became a Sexy Nurse
     author: testame
@@ -41,6 +48,27 @@ works:
     date: '2026-05-07'
     code: 610017
     url: /works/610017/
+  - title: 橘さん家ノ脅迫NTR事情
+    author: group
+    cover: /covers/634198.jpg
+    rating: 5.0
+    date: '2026-03-07'
+    code: 634198
+    url: /works/634198/
+  - title: Mishiranu Boshi ni Yaritai Houdai
+    author: tonda
+    cover: /covers/635363.jpg
+    rating: 4.6
+    date: '2026-03-07'
+    code: 635363
+    url: /works/635363/
+  - title: Prefab
+    author: lioreo
+    cover: /covers/643975.jpg
+    rating: 4.6
+    date: '2026-04-15'
+    code: 643975
+    url: /works/643975/
   - title: Natsu ga Owaru made Natsu no Owari Kanketsuhen
     author: mon-petit
     cover: /covers/646969.jpg
@@ -132,4 +160,11 @@ works:
     date: '2026-08-23'
     code: 675048
     url: /works/675048/
+  - title: Inin Keiyaku | Lewd Pregnancy Contract
+    author: yoshiura-kazuya
+    cover: /covers/83595.jpg
+    rating: 4.2
+    date: '2026-03-11'
+    code: 83595
+    url: /works/83595/
 ---

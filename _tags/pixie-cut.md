@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "pixie cut"
-work_count: 26
+work_count: 29
 works:
   - title: Doushia (Terasu MC)] Dorei Gazoku
     author: terasu-mc
@@ -17,6 +17,13 @@ works:
     date: '2026-05-03'
     code: 428415
     url: /works/428415/
+  - title: 'Portio Switch CASE: Varicata Portio | Cervix Switch CASE - Extra-hard Cervix'
+    author: bang-you-didori
+    cover: /covers/452141.jpg
+    rating: 4.4
+    date: '2026-03-07'
+    code: 452141
+    url: /works/452141/
   - title: Sukina Hito, Sukina Koto
     author: ebi-fry-teishoku
     cover: /covers/452482.jpg
@@ -67,6 +74,14 @@ works:
     date: '2026-04-25'
     code: 593754
     url: /works/593754/
+  - title: Boku no Mama wa Otouto no Mae de dake Dosukebe ni Naru｜My Mom Turns Into
+      a Slut for My Little Brother, and Him Alone
+    author: asahina-hikage
+    cover: /covers/634591.jpg
+    rating: 4.9
+    date: '2026-03-05'
+    code: 634591
+    url: /works/634591/
   - title: Akogare no Hito wa Mou Owari! 3
     author: group
     cover: /covers/642586.jpg
@@ -74,6 +89,14 @@ works:
     date: '2026-08-24'
     code: 642586
     url: /works/642586/
+  - title: Kasshoku Buaisou Yakyuu-bu Manager no Yowami Nigitta | I Found the Grumpy,
+      Brown-Skinned Baseball Manager's Weakness
+    author: kitano-onsen
+    cover: /covers/644931.jpg
+    rating: 5.0
+    date: '2026-04-21'
+    code: 644931
+    url: /works/644931/
   - title: Inaka ja Kore ga Joushiki dakara! | This Is Just How Things Are in the Countryside!
     author: chilt
     cover: /covers/646146.jpg

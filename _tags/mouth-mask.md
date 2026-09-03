@@ -1,8 +1,29 @@
 ---
 layout: tag
 tag_name: "mouth mask"
-work_count: 9
+work_count: 12
 works:
+  - title: Kanojo wa Boku no Taieki de Ugoiteiru Phase. 05 [English] =NSS=
+    author: nagareboshi
+    cover: /covers/470025.jpg
+    rating: 4.0
+    date: '2026-04-15'
+    code: 470025
+    url: /works/470025/
+  - title: Kugisaki Anal Otoshi
+    author: ishigaki-takashi
+    cover: /covers/579976.jpg
+    rating: 4.7
+    date: '2026-04-21'
+    code: 579976
+    url: /works/579976/
+  - title: Chijo Monogatari Bakunyuu Chijukujo to Doutei-kun
+    author: enma
+    cover: /covers/635174.jpg
+    rating: 4.6
+    date: '2026-03-07'
+    code: 635174
+    url: /works/635174/
   - title: Imouto Oppai de Sukusuku Seikatsu
     author: asaomi-shimura
     cover: /covers/636802.jpg

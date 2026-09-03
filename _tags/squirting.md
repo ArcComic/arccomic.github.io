@@ -1,8 +1,23 @@
 ---
 layout: tag
 tag_name: "squirting"
-work_count: 55
+work_count: 67
 works:
+  - title: Kurikyun 5! Chapter 1-6
+    author: drill-murata
+    cover: /covers/103680.jpg
+    rating: 4.6
+    date: '2026-04-17'
+    code: 103680
+    url: /works/103680/
+  - title: Single Mother to Issho ni - Boku no Mamakatsu! 1 | Together with a single
+      mother - My sugarmama! 1
+    author: azukiko
+    cover: /covers/304548.jpg
+    rating: 4.7
+    date: '2026-04-16'
+    code: 304548
+    url: /works/304548/
   - title: Majimeni Yarimasu (Seitokaichou) Ch. 1-3
     author: ikumo-taisuke
     cover: /covers/346416.jpg
@@ -10,6 +25,13 @@ works:
     date: '2026-07-08'
     code: 346416
     url: /works/346416/
+  - title: Yarareru kanojo - Hitozumajoushi ManaNTR -
+    author: tokyo-gunjo
+    cover: /covers/465602.jpg
+    rating: 4.7
+    date: '2026-04-19'
+    code: 465602
+    url: /works/465602/
   - title: Onozomi deshitara Saimin wo ~Maki-san Himitsu no Renai Therapy~ | If you
       wish, hypnosis ~Maki-san's secret love therapy~
     author: meeko
@@ -63,6 +85,13 @@ works:
     date: '2026-04-30'
     code: 555849
     url: /works/555849/
+  - title: Automatic Romantic
+    author: naganeko
+    cover: /covers/556036.jpg
+    rating: 5.0
+    date: '2026-04-19'
+    code: 556036
+    url: /works/556036/
   - title: Ikemen Douki ni Otosareru Hanashi~ Ikitakunaoni Kyousei Zecchou?!
     author: hoshina-mimiwo
     cover: /covers/560643.jpg
@@ -78,6 +107,14 @@ works:
     date: '2026-04-25'
     code: 562615
     url: /works/562615/
+  - title: Konki Girigiri Sister, Semete Shojo wo Sutetai | If I Can't Be Married At
+      Least Let Me Quit Being a Virgin
+    author: torii-yoshitsuna
+    cover: /covers/566835.jpg
+    rating: 4.5
+    date: '2026-04-17'
+    code: 566835
+    url: /works/566835/
   - title: Boku no Kaa-chan ga Hikikomori Neet Debu Aniki no Seishori Onaho ni Natteita
       Hanashi | My Mother is My Fat Shut-in Older NEET Brother's Sex Relief Onahole
     author: tarobaumu
@@ -93,6 +130,13 @@ works:
     date: '2026-04-25'
     code: 579819
     url: /works/579819/
+  - title: Chorozako Kanojo no Aina-chan -Mucchiri Gal to Ichalove H suru Hanashi-
+    author: tokyo-gunjo
+    cover: /covers/580427.jpg
+    rating: 4.6
+    date: '2026-04-19'
+    code: 580427
+    url: /works/580427/
   - title: 'Moto Mahou Shoujo no Shigoto Hanashi Ao Zenjitsutan | Former Magical Girl
       Blue''s Work: The Prequel'
     author: zhen-lu
@@ -108,6 +152,13 @@ works:
     date: '2026-04-27'
     code: 587827
     url: /works/587827/
+  - title: My AR glasses can see various stats about my foster sister?!
+    author: pz-x
+    cover: /covers/589010.jpg
+    rating: 4.5
+    date: '2026-04-15'
+    code: 589010
+    url: /works/589010/
   - title: Mesu no Ie II ~Tsuma wa Midare Ubareru~
     author: ame-arare
     cover: /covers/591112.jpg
@@ -131,6 +182,20 @@ works:
     date: '2026-08-21'
     code: 593575
     url: /works/593575/
+  - title: Celestial Doll 1-5
+    author: mr-kurz
+    cover: /covers/595353.jpg
+    rating: 5.0
+    date: '2026-04-21'
+    code: 595353
+    url: /works/595353/
+  - title: Shounen yo, Watashi o Idake. 少年,抱住我
+    author: torii-yoshitsuna
+    cover: /covers/599514.jpg
+    rating: 4.7
+    date: '2026-04-16'
+    code: 599514
+    url: /works/599514/
   - title: Zenin Mukuwarenai Harem | A Harem Where No One Is Reciprocated
     author: group
     cover: /covers/610041.jpg
@@ -168,6 +233,15 @@ works:
     date: '2026-04-25'
     code: 632188
     url: /works/632188/
+  - title: Ore ga Dairi Tanetsuke Suru Koto ni Natta Hitozuma Tachibana Shizuka-san
+      wa Nannimo Shiranai!! Sono 2 | | Shizuka Tachibana, the Housewife Who Collects
+      My Sperm Donations, Doesn’t Know a Damn Thing!! Chapter 2
+    author: date-roku
+    cover: /covers/636122.jpg
+    rating: 4.5
+    date: '2026-03-11'
+    code: 636122
+    url: /works/636122/
   - title: Onsen Haitte tara Joseito-tachi ga Osotte Kita | My Students Jumped Me When
       I Got in the Hot Spring
     author: hamo
@@ -197,6 +271,20 @@ works:
     date: '2026-04-27'
     code: 642793
     url: /works/642793/
+  - title: Imouto Haramasenai to Derarenai Shima 2
+    author: airandou
+    cover: /covers/643375.jpg
+    rating: 4.4
+    date: '2026-04-12'
+    code: 643375
+    url: /works/643375/
+  - title: DeliHeal Yondara Moto Doukyuusei ga Kita ~Polynesian Sex  6-kame~
+    author: tatsuwaipu
+    cover: /covers/643512.jpg
+    rating: 4.2
+    date: '2026-04-12'
+    code: 643512
+    url: /works/643512/
   - title: Oji Saimin Soushuuhen | Hypnotized Uncle Compilation Edition
     author: tokomaya-keita
     cover: /covers/645612.jpg

@@ -1,8 +1,22 @@
 ---
 layout: tag
 tag_name: "schoolgirl uniform"
-work_count: 116
+work_count: 150
 works:
+  - title: Kurikyun 5! Chapter 1-6
+    author: drill-murata
+    cover: /covers/103680.jpg
+    rating: 4.6
+    date: '2026-04-17'
+    code: 103680
+    url: /works/103680/
+  - title: GalPa!
+    author: sakagami-umi
+    cover: /covers/208522.jpg
+    rating: 4.4
+    date: '2026-03-07'
+    code: 208522
+    url: /works/208522/
   - title: Yuri no o saifu ni shite agemasu ne, Senpai | I'll turn you into Yuri's wallet,
       Senpai
     author: doskoinpo
@@ -69,6 +83,13 @@ works:
     date: '2026-04-27'
     code: 425528
     url: /works/425528/
+  - title: Hatsujouki | Cherry Season
+    author: nagareboshi
+    cover: /covers/426769.jpg
+    rating: 4.6
+    date: '2026-04-15'
+    code: 426769
+    url: /works/426769/
   - title: Ashizeme Kanojo _0 | girlfriend who likes to torture with her feet _0
     author: kaoinshou-zero
     cover: /covers/430672.jpg
@@ -76,6 +97,14 @@ works:
     date: '2026-07-17'
     code: 430672
     url: /works/430672/
+  - title: Gal ni Houkago Oppai Sawatte ku? te Sasowareru Hanashi | That Time Gyarus
+      Asked Me to Grope their Tits After Class
+    author: ono-hiroki
+    cover: /covers/431578.jpg
+    rating: 4.1
+    date: '2026-03-07'
+    code: 431578
+    url: /works/431578/
   - title: Itabasami na Wakachi Ai 4 | Love Divided Between a Rock and a Hard Place
       4
     author: group
@@ -84,6 +113,27 @@ works:
     date: '2026-04-23'
     code: 448503
     url: /works/448503/
+  - title: 'Portio Switch CASE: Varicata Portio | Cervix Switch CASE - Extra-hard Cervix'
+    author: bang-you-didori
+    cover: /covers/452141.jpg
+    rating: 4.4
+    date: '2026-03-07'
+    code: 452141
+    url: /works/452141/
+  - title: VS Dekachin Ojisan
+    author: bang-you-didori
+    cover: /covers/453969.jpg
+    rating: 4.5
+    date: '2026-03-07'
+    code: 453969
+    url: /works/453969/
+  - title: Musuko o Dokusen Suru Haha | The mother who monopolizes her son.
+    author: yuriko-club
+    cover: /covers/471998.jpg
+    rating: 4.3
+    date: '2026-04-15'
+    code: 471998
+    url: /works/471998/
   - title: Ame no Hi wa, Honnori Chikubi
     author: hoshi-to-lucky
     cover: /covers/484860.jpg
@@ -91,6 +141,13 @@ works:
     date: '2026-05-04'
     code: 484860
     url: /works/484860/
+  - title: Do-S Yankee JK to Do-M Hentai Teacher
+    author: naganeko
+    cover: /covers/512715.jpg
+    rating: 4.3
+    date: '2026-04-19'
+    code: 512715
+    url: /works/512715/
   - title: IKUu!! Zenkou Seito no Mae de Koukai Zecchou-saserareta JK no Matsuro 1 |
       Cumming in Front of the Entire Student Body 1
     author: ouma
@@ -130,6 +187,23 @@ works:
     date: '2026-08-29'
     code: 534388
     url: /works/534388/
+  - title: Jimi Kyonyuu No Stalker Onna Ni Gokuhaku Saretanode Yarimakutte Mita Hanashi
+      | I Was Confessed To By A Plain Busty Stalker Girl, So I Fucked Her Like Crazy
+    author: hiyori-hamster
+    cover: /covers/534640.jpg
+    rating: 4.7
+    date: '2026-04-23'
+    code: 534640
+    url: /works/534640/
+  - title: Jimi Kyonyuu No Stalker Onna Ni Gokuhaku Saretanode Yarimakutte Mita Hanashi
+      2 | I Was Confessed To By A Plain Busty Stalker Girl, So I Fucked Her Like Crazy
+      2
+    author: group
+    cover: /covers/534641.jpg
+    rating: 4.1
+    date: '2026-04-23'
+    code: 534641
+    url: /works/534641/
   - title: Dansei ga Kyokutan ni Sukunai Kono Sekai de wa, Seishi wa Kichou na Shigen
       desu. Sono 2 | In a World Where Men Are Scarce, Sperm Is a Precious Resource 2
     author: group
@@ -161,6 +235,13 @@ works:
     date: '2026-05-05'
     code: 550823
     url: /works/550823/
+  - title: Automatic Romantic
+    author: naganeko
+    cover: /covers/556036.jpg
+    rating: 5.0
+    date: '2026-04-19'
+    code: 556036
+    url: /works/556036/
   - title: Hayato-sensei no Mesu-ka Karute Daigaku-hen | Dr. Hayato's Feminization Medical
       Record ~University Edition~
     author: testame
@@ -184,6 +265,42 @@ works:
     date: '2026-07-13'
     code: 565301
     url: /works/565301/
+  - title: ゼロ距離のまなざし | 零距离的眼神
+    author: momoko
+    cover: /covers/579493.jpg
+    rating: 4.7
+    date: '2026-04-21'
+    code: 579493
+    url: /works/579493/
+  - title: Kugisaki Anal Otoshi
+    author: ishigaki-takashi
+    cover: /covers/579976.jpg
+    rating: 4.7
+    date: '2026-04-21'
+    code: 579976
+    url: /works/579976/
+  - title: Jibun ni dake Atari ga Tsuyoi Seito ni Saiminjutsu o Kaketa Hanashi | A story
+      of how I hypnotized a student who was only mean to me.
+    author: akahito
+    cover: /covers/580323.jpg
+    rating: 4.8
+    date: '2026-03-04'
+    code: 580323
+    url: /works/580323/
+  - title: Chorozako Kanojo no Aina-chan -Mucchiri Gal to Ichalove H suru Hanashi-
+    author: tokyo-gunjo
+    cover: /covers/580427.jpg
+    rating: 4.6
+    date: '2026-04-19'
+    code: 580427
+    url: /works/580427/
+  - title: Chiguhagu Kanojo | Mismatched Girlfriend
+    author: natsuo-tsunao
+    cover: /covers/584260.jpg
+    rating: 4.3
+    date: '2026-04-21'
+    code: 584260
+    url: /works/584260/
   - title: 'Moto Mahou Shoujo no Shigoto Hanashi Ao Zenjitsutan | Former Magical Girl
       Blue''s Work: The Prequel'
     author: zhen-lu
@@ -215,6 +332,14 @@ works:
     date: '2026-05-01'
     code: 591112
     url: /works/591112/
+  - title: '"Yasashii Dake no Otoko" to Tsuma ni Sute Raretanode... | My Wife Left Me
+      Because I was "Too Gentle"...'
+    author: special-g
+    cover: /covers/593456.jpg
+    rating: 4.4
+    date: '2026-03-05'
+    code: 593456
+    url: /works/593456/
   - title: Kouen no Oji-san-tachi ni Moteasobaretai
     author: group
     cover: /covers/598010.jpg
@@ -222,6 +347,13 @@ works:
     date: '2026-07-13'
     code: 598010
     url: /works/598010/
+  - title: Ichigun Joshi no Akaten Kaihi ni Kyouryoku Shitara... 1
+    author: kishiwada-base
+    cover: /covers/606276.jpg
+    rating: 4.5
+    date: '2026-04-23'
+    code: 606276
+    url: /works/606276/
   - title: Zenin Mukuwarenai Harem | A Harem Where No One Is Reciprocated
     author: group
     cover: /covers/610041.jpg
@@ -267,6 +399,65 @@ works:
     date: '2026-04-23'
     code: 628865
     url: /works/628865/
+  - title: Koukan Nikki ー School Whore Diaries
+    author: henkuma
+    cover: /covers/634328.jpg
+    rating: 4.8
+    date: '2026-03-07'
+    code: 634328
+    url: /works/634328/
+  - title: Namaiki JK mo, Ossan Chinpo no Mae de wa Muryoku desu.
+    author: unknown
+    cover: /covers/634472.jpg
+    rating: 4.2
+    date: '2026-03-04'
+    code: 634472
+    url: /works/634472/
+  - title: Jimoto no Dekai Gal 2
+    author: ueno-meguru
+    cover: /covers/634593.jpg
+    rating: 4.9
+    date: '2026-03-07'
+    code: 634593
+    url: /works/634593/
+  - title: 'Portio switch CASE: Natsumi'
+    author: bang-you-didori
+    cover: /covers/634677.jpg
+    rating: 5.0
+    date: '2026-03-05'
+    code: 634677
+    url: /works/634677/
+  - title: Naku Hodo Kimochi Ii Rape shite Ageru
+    author: yo-jin
+    cover: /covers/635241.jpg
+    rating: 4.2
+    date: '2026-03-07'
+    code: 635241
+    url: /works/635241/
+  - title: Sewayaki na Kyonyuu Gakkyuu Iinchou Sono 1-20 | The Kind and Caring Busty
+      Class Rep Ch.1-20
+    author: makosho
+    cover: /covers/635514.jpg
+    rating: 4.1
+    date: '2026-03-08'
+    code: 635514
+    url: /works/635514/
+  - title: Osananajimi de Koibito no Kanojo to Shitai Koto Zenbu 2
+    author: takashina-asahi
+    cover: /covers/635794.jpg
+    rating: 4.4
+    date: '2026-03-09'
+    code: 635794
+    url: /works/635794/
+  - title: Ore ga Dairi Tanetsuke Suru Koto ni Natta Hitozuma Tachibana Shizuka-san
+      wa Nannimo Shiranai!! Sono 2 | | Shizuka Tachibana, the Housewife Who Collects
+      My Sperm Donations, Doesn’t Know a Damn Thing!! Chapter 2
+    author: date-roku
+    cover: /covers/636122.jpg
+    rating: 4.5
+    date: '2026-03-11'
+    code: 636122
+    url: /works/636122/
   - title: Curiosity and the Cost of Innocence
     author: hoshi-to-lucky
     cover: /covers/637110.jpg
@@ -289,6 +480,43 @@ works:
     date: '2026-07-13'
     code: 639514
     url: /works/639514/
+  - title: My Childhood Friend Twins Become Another Man’s Onahole 1-3
+    author: unknown
+    cover: /covers/643193.jpg
+    rating: 4.7
+    date: '2026-04-11'
+    code: 643193
+    url: /works/643193/
+  - title: Misuzu no Oheya kara Hitoban Nigerarenai Hon  | The Book Where You Can't
+      Escape Misuzu's Room All Night Long.
+    author: cure-slum
+    cover: /covers/643235.jpg
+    rating: 4.8
+    date: '2026-04-14'
+    code: 643235
+    url: /works/643235/
+  - title: Boku no Kanojo ga Katte ni Seikyouiku Sareteta Hanashi
+    author: unknown
+    cover: /covers/643527.jpg
+    rating: 4.3
+    date: '2026-04-12'
+    code: 643527
+    url: /works/643527/
+  - title: Hataya Misuzu no P Ikusei Nisshi | Misuzu Hataya Training Diary
+    author: unknown
+    cover: /covers/643807.jpg
+    rating: 4.5
+    date: '2026-04-14'
+    code: 643807
+    url: /works/643807/
+  - title: Tantou Idol ga Totsuzen Heya ni Arawareta Ken | The Case Where My Assigned
+      Idol Misuzu Suddenly Appeared in My Room
+    author: unknown
+    cover: /covers/643808.jpg
+    rating: 4.1
+    date: '2026-04-14'
+    code: 643808
+    url: /works/643808/
   - title: The story of how a busty, older teacher girlfriend gets seduced and cheated
       on by the principal with a huge penis.
     author: munioni
@@ -297,6 +525,21 @@ works:
     date: '2026-07-06'
     code: 644296
     url: /works/644296/
+  - title: Kimiha Zurui | You're being unfair
+    author: nomura-teruya
+    cover: /covers/644888.jpg
+    rating: 4.3
+    date: '2026-04-19'
+    code: 644888
+    url: /works/644888/
+  - title: Kasshoku Buaisou Yakyuu-bu Manager no Yowami Nigitta | I Found the Grumpy,
+      Brown-Skinned Baseball Manager's Weakness
+    author: kitano-onsen
+    cover: /covers/644931.jpg
+    rating: 5.0
+    date: '2026-04-21'
+    code: 644931
+    url: /works/644931/
   - title: Succubus Seitokai Shiko Shiko Shikkoubu 2 NOA ver. | Succubus Student Council
       Milking Club 2 Version NOA
     author: michiking
@@ -305,6 +548,13 @@ works:
     date: '2026-04-23'
     code: 645520
     url: /works/645520/
+  - title: Yarinuki Gal
+    author: uenosuke
+    cover: /covers/645537.jpg
+    rating: 4.3
+    date: '2026-04-23'
+    code: 645537
+    url: /works/645537/
   - title: Akumu Revenge 2 | Nightmare Revenge 2
     author: coupe
     cover: /covers/645884.jpg

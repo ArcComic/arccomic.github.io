@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "pegging"
-work_count: 2
+work_count: 3
 works:
   - title: Shut-less
     author: mr-hokke
@@ -10,6 +10,13 @@ works:
     date: '2026-07-11'
     code: 531966
     url: /works/531966/
+  - title: Natsudashi kasshoku bijōfu hori ni ikko | 興起適逢烈夏至 相尋佳郎正當時
+    author: unknown
+    cover: /covers/569575.jpg
+    rating: 4.1
+    date: '2026-03-09'
+    code: 569575
+    url: /works/569575/
   - title: Otokonoko Dorei - "OTOKONO-ko" Slave
     author: wakamiya-santa-gekka-saeki
     cover: /covers/674960.jpg

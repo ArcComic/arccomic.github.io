@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "leash"
-work_count: 6
+work_count: 8
 works:
   - title: Shut-less
     author: mr-hokke
@@ -17,6 +17,20 @@ works:
     date: '2026-04-27'
     code: 576910
     url: /works/576910/
+  - title: 橘さん家ノ脅迫NTR事情
+    author: group
+    cover: /covers/634198.jpg
+    rating: 5.0
+    date: '2026-03-07'
+    code: 634198
+    url: /works/634198/
+  - title: Imouto Haramasenai to Derarenai Shima 2
+    author: airandou
+    cover: /covers/643375.jpg
+    rating: 4.4
+    date: '2026-04-12'
+    code: 643375
+    url: /works/643375/
   - title: Oji Saimin Soushuuhen | Hypnotized Uncle Compilation Edition
     author: tokomaya-keita
     cover: /covers/645612.jpg

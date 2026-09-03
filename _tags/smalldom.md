@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "smalldom"
-work_count: 16
+work_count: 19
 works:
   - title: Uwa, Mesugaki Tsuyoi! | Crap, This Mesugaki's Too Powerful!
     author: poncocchan
@@ -25,6 +25,28 @@ works:
     date: '2026-07-17'
     code: 632056
     url: /works/632056/
+  - title: Boku no Mama wa Otouto no Mae de dake Dosukebe ni Naru｜My Mom Turns Into
+      a Slut for My Little Brother, and Him Alone
+    author: asahina-hikage
+    cover: /covers/634591.jpg
+    rating: 4.9
+    date: '2026-03-05'
+    code: 634591
+    url: /works/634591/
+  - title: Jimoto no Dekai Gal
+    author: ueno-meguru
+    cover: /covers/634592.jpg
+    rating: 4.1
+    date: '2026-03-05'
+    code: 634592
+    url: /works/634592/
+  - title: Sawatte Mitai? | Do You Wanna Touch?
+    author: rondonko
+    cover: /covers/644309.jpg
+    rating: 4.1
+    date: '2026-04-17'
+    code: 644309
+    url: /works/644309/
   - title: Oji Saimin Soushuuhen | Hypnotized Uncle Compilation Edition
     author: tokomaya-keita
     cover: /covers/645612.jpg

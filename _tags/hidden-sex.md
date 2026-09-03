@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "hidden sex"
-work_count: 39
+work_count: 44
 works:
   - title: Megane Loli Choukyou Jugyou!! ~Otonashii Megane Lolikko ni Muriyari Dekachin
       Sounyuu~ | The Loli In Glasses' Training Lesson!! ~Force Fucking a Timid Glasses
@@ -19,6 +19,14 @@ works:
     date: '2026-05-03'
     code: 376189
     url: /works/376189/
+  - title: Kaisha no Iki Okure BBA Haramaseta | [Tragic News] I Knocked Up The Old Maid
+      From My Office
+    author: special-g
+    cover: /covers/409929.jpg
+    rating: 4.4
+    date: '2026-03-05'
+    code: 409929
+    url: /works/409929/
   - title: Musume no Kareshi ni Ochiru Okaa-san. 2 | A Mother Who Falls For Her Daughter's
       Boyfriend 2
     author: sinori
@@ -128,6 +136,13 @@ works:
     date: '2026-04-25'
     code: 562615
     url: /works/562615/
+  - title: My AR glasses can see various stats about my foster sister?!
+    author: pz-x
+    cover: /covers/589010.jpg
+    rating: 4.5
+    date: '2026-04-15'
+    code: 589010
+    url: /works/589010/
   - title: Pashiri no Shita Teku, Yabaitte... ~ Ebi Sori Iki Suru Namaiki Gyaru | Bullied
       Boy's Tongue Revenge Vol.1-4
     author: takayamanon
@@ -136,6 +151,14 @@ works:
     date: '2026-08-29'
     code: 589969
     url: /works/589969/
+  - title: '"Yasashii Dake no Otoko" to Tsuma ni Sute Raretanode... | My Wife Left Me
+      Because I was "Too Gentle"...'
+    author: special-g
+    cover: /covers/593456.jpg
+    rating: 4.4
+    date: '2026-03-05'
+    code: 593456
+    url: /works/593456/
   - title: Yuujin no Haha wa Dekachin ni Yowai | My Friend's Mom is Weak to a Huge Cock
     author: shimofuri
     cover: /covers/593575.jpg
@@ -182,6 +205,21 @@ works:
     date: '2026-08-29'
     code: 618087
     url: /works/618087/
+  - title: Boku no Daisuki na Kaa-san to Omou Zonbun Sex Dekiru Hi 3 | My Fabulous Fuck
+      Day with My Amazing Mommy 3
+    author: higehurai
+    cover: /covers/631501.jpg
+    rating: 4.1
+    date: '2026-03-05'
+    code: 631501
+    url: /works/631501/
+  - title: 'GNO: Girl''s Night Out - Issue 02'
+    author: uselessbegging
+    cover: /covers/634464.jpg
+    rating: 4.0
+    date: '2026-03-07'
+    code: 634464
+    url: /works/634464/
   - title: Akogare no Hito wa Mou Owari! 2
     author: group
     cover: /covers/642585.jpg

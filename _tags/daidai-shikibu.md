@@ -1,8 +1,22 @@
 ---
 layout: tag
 tag_name: "daidai shikibu"
-work_count: 8
+work_count: 11
 works:
+  - title: Ijime no Daishou wa Hahaoya no Karada de.
+    author: daidai-shikibu
+    cover: /covers/482859.jpg
+    rating: 4.1
+    date: '2026-04-16'
+    code: 482859
+    url: /works/482859/
+  - title: Dasuru Haha Musuko ni Nandomo Irerarete
+    author: daidai-shikibu
+    cover: /covers/612083.jpg
+    rating: 4.9
+    date: '2026-04-14'
+    code: 612083
+    url: /works/612083/
   - title: Anta, Nandetatten no?
     author: daidai-shikibu
     cover: /covers/642770.jpg
@@ -10,6 +24,13 @@ works:
     date: '2026-08-25'
     code: 642770
     url: /works/642770/
+  - title: Haha no Karada ni Muramura Shiteru
+    author: daidai-shikibu
+    cover: /covers/643931.jpg
+    rating: 4.8
+    date: '2026-04-14'
+    code: 643931
+    url: /works/643931/
   - title: Oyagakari no Haha
     author: daidai-shikibu
     cover: /covers/643932.jpg

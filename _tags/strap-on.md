@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "strap-on"
-work_count: 4
+work_count: 5
 works:
+  - title: 'GNO: Girl''s Night Out - Issue 02'
+    author: uselessbegging
+    cover: /covers/634464.jpg
+    rating: 4.0
+    date: '2026-03-07'
+    code: 634464
+    url: /works/634464/
   - title: Shameimaru Aya no sennyuu! Shokushu esute
     author: unknown
     cover: /covers/661890.jpg

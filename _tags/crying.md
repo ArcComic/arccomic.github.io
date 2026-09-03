@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "crying"
-work_count: 15
+work_count: 17
 works:
   - title: Netorareru.~ Tsuma ga Ochi Yuku Hen'ai Kairaku no Hate ni...1-5 | NETORARERU,
       A Wife's Descent Into Sinful Pleasures 1-5
@@ -27,6 +27,20 @@ works:
     date: '2026-05-26'
     code: 624573
     url: /works/624573/
+  - title: Prefab
+    author: lioreo
+    cover: /covers/643975.jpg
+    rating: 4.6
+    date: '2026-04-15'
+    code: 643975
+    url: /works/643975/
+  - title: Daisuki Datta Onii-chan | My Once Beloved Older Cousin
+    author: minakami-riku
+    cover: /covers/644495.jpg
+    rating: 5.0
+    date: '2026-04-17'
+    code: 644495
+    url: /works/644495/
   - title: Sex Between Gloomy Types is the Hottest, Ain't It?
     author: doji-ro
     cover: /covers/646757.jpg

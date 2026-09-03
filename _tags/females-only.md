@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "females only"
-work_count: 16
+work_count: 18
 works:
   - title: Walking back home in the winter with my childhood friend
     author: shimetsuki-tanki
@@ -10,6 +10,13 @@ works:
     date: '2026-07-13'
     code: 565301
     url: /works/565301/
+  - title: Celestial Doll 1-5
+    author: mr-kurz
+    cover: /covers/595353.jpg
+    rating: 5.0
+    date: '2026-04-21'
+    code: 595353
+    url: /works/595353/
   - title: Shanai no Himegoto ~Stress Kaishou ni Kaisha no Toilet de Onani shite itara,
       Kouhai ni Kikarete shimatte ita Hanashi~ | Workplace Rendezvous ~Caught Masturbating
       in the Company Restroom by My Subordinate~
@@ -19,6 +26,13 @@ works:
     date: '2026-07-11'
     code: 617492
     url: /works/617492/
+  - title: 女孩們的玩具初體驗 | Girl's First Experience With Toys
+    author: muzi
+    cover: /covers/624694.jpg
+    rating: 4.8
+    date: '2026-03-04'
+    code: 624694
+    url: /works/624694/
   - title: Houchiko Hirotte LesSe Suru
     author: unknown
     cover: /covers/646967.jpg

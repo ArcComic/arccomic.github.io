@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "beauty mark"
-work_count: 56
+work_count: 84
 works:
+  - title: Uragiri no Ai wa Mitsu no Aji | Treacherous Love Tastes Like Honey
+    author: cuzukago
+    cover: /covers/244812.jpg
+    rating: 4.6
+    date: '2026-04-19'
+    code: 244812
+    url: /works/244812/
   - title: Mukuchi na Tosho Iin to Sex Zuke.
     author: yuzuha
     cover: /covers/321298.jpg
@@ -17,6 +24,13 @@ works:
     date: '2026-08-20'
     code: 332781
     url: /works/332781/
+  - title: Ayamachi no Rensa
+    author: pororivista
+    cover: /covers/351868.jpg
+    rating: 4.2
+    date: '2026-04-13'
+    code: 351868
+    url: /works/351868/
   - title: Yurikago
     author: neko-samurai
     cover: /covers/398305.jpg
@@ -24,6 +38,14 @@ works:
     date: '2026-07-10'
     code: 398305
     url: /works/398305/
+  - title: Kaisha no Iki Okure BBA Haramaseta | [Tragic News] I Knocked Up The Old Maid
+      From My Office
+    author: special-g
+    cover: /covers/409929.jpg
+    rating: 4.4
+    date: '2026-03-05'
+    code: 409929
+    url: /works/409929/
   - title: TomoKano Kaa-chan II ~Jitaku, Musuko no Tomodachi ni Ochita Natsu~ | My Mom
       Is My Friend's Girlfriend 2
     author: tarobaumu
@@ -54,6 +76,28 @@ works:
     date: '2026-04-27'
     code: 452482
     url: /works/452482/
+  - title: Tomodachi, Osananajimi mo Kaa-san mo Netorareru
+    author: sink
+    cover: /covers/460565.jpg
+    rating: 4.2
+    date: '2026-04-19'
+    code: 460565
+    url: /works/460565/
+  - title: Tsuma ga, Tanin no Mesu ni naru made -Short Cut Kyonyuu Tsuma Sasaki Misaki
+      Hen-
+    author: haruhisky
+    cover: /covers/470023.jpg
+    rating: 4.6
+    date: '2026-04-19'
+    code: 470023
+    url: /works/470023/
+  - title: Akogare datta, Sagara-san.
+    author: tokyo-gunjo
+    cover: /covers/487275.jpg
+    rating: 4.2
+    date: '2026-04-19'
+    code: 487275
+    url: /works/487275/
   - title: Obedience Part 1
     author: laliberte
     cover: /covers/501709.jpg
@@ -78,6 +122,20 @@ works:
     date: '2026-08-29'
     code: 511316
     url: /works/511316/
+  - title: Nee, Shite Zenpen
+    author: chiba-toshirou
+    cover: /covers/515857.jpg
+    rating: 4.9
+    date: '2026-04-18'
+    code: 515857
+    url: /works/515857/
+  - title: ねぇ、して 後編
+    author: chiba-toshirou
+    cover: /covers/518953.jpg
+    rating: 4.3
+    date: '2026-04-17'
+    code: 518953
+    url: /works/518953/
   - title: Rossia kei Hitozuma to Doutei kun no Himitsu no Kankei
     author: kibi-anmitsu
     cover: /covers/530293.jpg
@@ -100,6 +158,13 @@ works:
     date: '2026-07-11'
     code: 538063
     url: /works/538063/
+  - title: Kanrakugai ~Neon Kagayaku Uragawa de~ 3
+    author: oobayashi-mori
+    cover: /covers/549597.jpg
+    rating: 4.9
+    date: '2026-04-18'
+    code: 549597
+    url: /works/549597/
   - title: Gokinjo Trouble ni wa Gochuui o | Watch Out For Trouble in Your Neighborhood
     author: hotate-chan
     cover: /covers/553426.jpg
@@ -107,6 +172,14 @@ works:
     date: '2026-05-05'
     code: 553426
     url: /works/553426/
+  - title: Futari no Ouchi Iede Musume to Doutei-kun no Torokeru Natsu | The Melty Summer
+      of a Runaway Gal and a Virgin Guy
+    author: akahito
+    cover: /covers/553903.jpg
+    rating: 4.6
+    date: '2026-03-04'
+    code: 553903
+    url: /works/553903/
   - title: Hayato-sensei no Mesu-ka Karute Daigaku-hen | Dr. Hayato's Feminization Medical
       Record ~University Edition~
     author: testame
@@ -123,6 +196,14 @@ works:
     date: '2026-05-07'
     code: 557052
     url: /works/557052/
+  - title: 'Buka ni #UraAcc o Shiraretara | If My Subordinate Finds Out About My Secret
+      Alt Account'
+    author: gar
+    cover: /covers/557689.jpg
+    rating: 4.2
+    date: '2026-04-23'
+    code: 557689
+    url: /works/557689/
   - title: Ojou-sama Sodachi no Namaiki Celeb Zuma o Kitanai Ossan Chinpo de Wakaraseru
       | Cocky Rich Bitch Glam-Wife Gets Taught A Lesson With Dirty Old Man Dick
     author: chinpan
@@ -131,6 +212,36 @@ works:
     date: '2026-04-25'
     code: 559088
     url: /works/559088/
+  - title: Kou demo Shinakya Akigumo-san 25-sai ga Teitoku to Hameru Kikai Isshou Konai
+      desho | If She Doesn’t Do This, 25-Year-Old Akigumo-san Will Never Get the Chance
+      to Fuck the Admiral, Right?
+    author: bouko
+    cover: /covers/567843.jpg
+    rating: 4.9
+    date: '2026-04-17'
+    code: 567843
+    url: /works/567843/
+  - title: Cocoa-chan no Jiraikei Chuuihou
+    author: uni-toshiki
+    cover: /covers/568923.jpg
+    rating: 4.3
+    date: '2026-03-04'
+    code: 568923
+    url: /works/568923/
+  - title: Saimin ♥ Saimin | Hypno ♥ Hypno
+    author: minamida-usuke
+    cover: /covers/576398.jpg
+    rating: 4.1
+    date: '2026-04-23'
+    code: 576398
+    url: /works/576398/
+  - title: Boku no Mama to Takuhai no Onii-san ga.
+    author: yuriko-club
+    cover: /covers/577221.jpg
+    rating: 4.1
+    date: '2026-04-15'
+    code: 577221
+    url: /works/577221/
   - title: Boku no Kaa-chan ga Hikikomori Neet Debu Aniki no Seishori Onaho ni Natteita
       Hanashi | My Mother is My Fat Shut-in Older NEET Brother's Sex Relief Onahole
     author: tarobaumu
@@ -139,6 +250,13 @@ works:
     date: '2026-05-05'
     code: 578147
     url: /works/578147/
+  - title: ゼロ距離のまなざし | 零距离的眼神
+    author: momoko
+    cover: /covers/579493.jpg
+    rating: 4.7
+    date: '2026-04-21'
+    code: 579493
+    url: /works/579493/
   - title: Suki nano wa Anata dake... 3
     author: end
     cover: /covers/586634.jpg
@@ -160,6 +278,14 @@ works:
     date: '2026-08-25'
     code: 592307
     url: /works/592307/
+  - title: '"Yasashii Dake no Otoko" to Tsuma ni Sute Raretanode... | My Wife Left Me
+      Because I was "Too Gentle"...'
+    author: special-g
+    cover: /covers/593456.jpg
+    rating: 4.4
+    date: '2026-03-05'
+    code: 593456
+    url: /works/593456/
   - title: Hitoban Tomete yo, Otaku-kun | Let Me Stay For the Night, Otaku-kun
     author: danimaru
     cover: /covers/606166.jpg
@@ -174,6 +300,13 @@ works:
     date: '2026-05-07'
     code: 610017
     url: /works/610017/
+  - title: 女孩們的玩具初體驗 | Girl's First Experience With Toys
+    author: muzi
+    cover: /covers/624694.jpg
+    rating: 4.8
+    date: '2026-03-04'
+    code: 624694
+    url: /works/624694/
   - title: 'Taihai Tsuma: Taihaikei Hitotsuma o Yachin Kawari ni Koki Tsukaeru Hanashi
       | Slutty Wife!'
     author: kametaro
@@ -182,6 +315,73 @@ works:
     date: '2026-04-30'
     code: 629368
     url: /works/629368/
+  - title: Boku no Daisuki na Kaa-san to Omou Zonbun Sex Dekiru Hi 3 | My Fabulous Fuck
+      Day with My Amazing Mommy 3
+    author: higehurai
+    cover: /covers/631501.jpg
+    rating: 4.1
+    date: '2026-03-05'
+    code: 631501
+    url: /works/631501/
+  - title: Boku no Daisuki na Kaa-san to Omou Zonbun Sex Dekiru Hi 4 | My Fabulous Fuck
+      Day with My Amazing Mommy 4
+    author: higehurai
+    cover: /covers/634178.jpg
+    rating: 5.0
+    date: '2026-03-05'
+    code: 634178
+    url: /works/634178/
+  - title: Koukan Nikki ー School Whore Diaries
+    author: henkuma
+    cover: /covers/634328.jpg
+    rating: 4.8
+    date: '2026-03-07'
+    code: 634328
+    url: /works/634328/
+  - title: Jimoto no Dekai Gal
+    author: ueno-meguru
+    cover: /covers/634592.jpg
+    rating: 4.1
+    date: '2026-03-05'
+    code: 634592
+    url: /works/634592/
+  - title: Jimoto no Dekai Gal 2
+    author: ueno-meguru
+    cover: /covers/634593.jpg
+    rating: 4.9
+    date: '2026-03-07'
+    code: 634593
+    url: /works/634593/
+  - title: Honeori! Osewa Girl♡ | SK8er Girl Lends Me a Hand!
+    author: kyaradain
+    cover: /covers/634609.jpg
+    rating: 4.5
+    date: '2026-03-05'
+    code: 634609
+    url: /works/634609/
+  - title: Sex Shinai to Derarenai Hotel 2 | The hotel you can't leave without having
+      sex 2
+    author: jeattle
+    cover: /covers/635068.jpg
+    rating: 5.0
+    date: '2026-04-18'
+    code: 635068
+    url: /works/635068/
+  - title: Siblings Shouldn't Do It! | Kyoudai de Shitara Ikemasen
+    author: fence-14
+    cover: /covers/635266.jpg
+    rating: 4.7
+    date: '2026-03-07'
+    code: 635266
+    url: /works/635266/
+  - title: Yojouhan no Femme Fatale - One-Room Femme Fatale | The Devilishness of a
+      Small Room
+    author: herio
+    cover: /covers/635984.jpg
+    rating: 4.4
+    date: '2026-03-11'
+    code: 635984
+    url: /works/635984/
   - title: Delusion story book
     author: madarame-rin
     cover: /covers/644810.jpg
@@ -189,6 +389,14 @@ works:
     date: '2026-05-03'
     code: 644810
     url: /works/644810/
+  - title: Ane Mama ~ Atarashii Onee-chan to Mama wa Ore no Sex Friend ni Narimashita.
+      ~
+    author: group
+    cover: /covers/645383.jpg
+    rating: 4.3
+    date: '2026-04-23'
+    code: 645383
+    url: /works/645383/
   - title: 'Moto Mahou Shoujo no Kazoku Banashi Tsuki 2 | Former Magical Girl''s Family
       Story: Tsuki 2'
     author: zhen-lu

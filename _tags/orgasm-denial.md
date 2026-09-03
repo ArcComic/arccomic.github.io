@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "orgasm denial"
-work_count: 5
+work_count: 6
 works:
   - title: Shiraishi-san Wa Yokkyu Fuman | Shiraishi-san's Frustrated
     author: carburetor
@@ -26,6 +26,13 @@ works:
     date: '2026-04-27'
     code: 416883
     url: /works/416883/
+  - title: My AR glasses can see various stats about my foster sister?!
+    author: pz-x
+    cover: /covers/589010.jpg
+    rating: 4.5
+    date: '2026-04-15'
+    code: 589010
+    url: /works/589010/
   - title: Netorareta Kanojo ga Joou-sama ni natte Kaettekita ~Ruined de Kintama o Kara
       ni sarete Zenritsusen o Ijirarete Nandomo Nandomo Mesuikishite Choukyou sareru
       Ohanashi~

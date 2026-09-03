@@ -1,8 +1,40 @@
 ---
 layout: tag
 tag_name: "jimiko"
-work_count: 3
+work_count: 7
 works:
+  - title: Hito o Dame ni Suru Choi Busu ~Kao 40-ten, Karada 120-ten no Kanojo~
+    author: special-g
+    cover: /covers/414892.jpg
+    rating: 4.0
+    date: '2026-03-05'
+    code: 414892
+    url: /works/414892/
+  - title: Jimi Kyonyuu No Stalker Onna Ni Gokuhaku Saretanode Yarimakutte Mita Hanashi
+      | I Was Confessed To By A Plain Busty Stalker Girl, So I Fucked Her Like Crazy
+    author: hiyori-hamster
+    cover: /covers/534640.jpg
+    rating: 4.7
+    date: '2026-04-23'
+    code: 534640
+    url: /works/534640/
+  - title: Jimi Kyonyuu No Stalker Onna Ni Gokuhaku Saretanode Yarimakutte Mita Hanashi
+      2 | I Was Confessed To By A Plain Busty Stalker Girl, So I Fucked Her Like Crazy
+      2
+    author: group
+    cover: /covers/534641.jpg
+    rating: 4.1
+    date: '2026-04-23'
+    code: 534641
+    url: /works/534641/
+  - title: Sewayaki na Kyonyuu Gakkyuu Iinchou Sono 1-20 | The Kind and Caring Busty
+      Class Rep Ch.1-20
+    author: makosho
+    cover: /covers/635514.jpg
+    rating: 4.1
+    date: '2026-03-08'
+    code: 635514
+    url: /works/635514/
   - title: Sex Between Gloomy Types is the Hottest, Ain't It?
     author: doji-ro
     cover: /covers/646757.jpg

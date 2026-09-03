@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "date roku"
-work_count: 1
+work_count: 2
 works:
   - title: Dansei ga Kyokutan ni Sukunai Kono Sekai de wa, Seishi wa Kichou na Shigen
       desu. Sono 2 | In a World Where Men Are Scarce, Sperm Is a Precious Resource 2
@@ -11,4 +11,13 @@ works:
     date: '2026-08-20'
     code: 537794
     url: /works/537794/
+  - title: Ore ga Dairi Tanetsuke Suru Koto ni Natta Hitozuma Tachibana Shizuka-san
+      wa Nannimo Shiranai!! Sono 2 | | Shizuka Tachibana, the Housewife Who Collects
+      My Sperm Donations, Doesn’t Know a Damn Thing!! Chapter 2
+    author: date-roku
+    cover: /covers/636122.jpg
+    rating: 4.5
+    date: '2026-03-11'
+    code: 636122
+    url: /works/636122/
 ---

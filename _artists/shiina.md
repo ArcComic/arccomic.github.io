@@ -1,8 +1,14 @@
 ---
 layout: artist
 artist_name: "shiina"
-work_count: 1
+work_count: 2
 works:
+  - title: Noraneko Shoujo to no Kurashikata Vol. 6
+    cover: /covers/535875.jpg
+    rating: 4.4
+    date: '2026-03-09'
+    code: 535875
+    url: /works/535875/
   - title: Noraneko Shoujo to no Kurashikata Ch. 33-49 | How to Live with a Stray Cat
       Girl Ch. 33-49
     cover: /covers/648550.jpg

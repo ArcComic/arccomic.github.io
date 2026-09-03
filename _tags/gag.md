@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "gag"
-work_count: 9
+work_count: 10
 works:
   - title: FORBIDDEN RAIN KOBO KANAERU 2
     author: clef
@@ -10,6 +10,13 @@ works:
     date: '2026-07-16'
     code: 637709
     url: /works/637709/
+  - title: 撞破秘密后，我成了上司的“专属藏品
+    author: unknown
+    cover: /covers/645525.jpg
+    rating: 4.6
+    date: '2026-04-23'
+    code: 645525
+    url: /works/645525/
   - title: Anal Toilet Training
     author: goma-gorilla
     cover: /covers/647315.jpg

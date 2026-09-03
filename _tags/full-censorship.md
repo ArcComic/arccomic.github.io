@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "full censorship"
-work_count: 37
+work_count: 52
 works:
+  - title: Kaisha de Iroiro | Gettin' Busy at the Office
+    author: hara-shigeyuki
+    cover: /covers/110835.jpg
+    rating: 4.7
+    date: '2026-04-19'
+    code: 110835
+    url: /works/110835/
   - title: Life with Married Women Just Like a Manga 2 - Ch. 1-5
     author: hidemaru
     cover: /covers/116138.jpg
@@ -24,6 +31,28 @@ works:
     date: '2026-08-19'
     code: 142561
     url: /works/142561/
+  - title: Hustle! Danchizuma Ch. 1-18 END
+    author: hidemaru
+    cover: /covers/161690.jpg
+    rating: 4.9
+    date: '2026-04-17'
+    code: 161690
+    url: /works/161690/
+  - title: Single Mother to Issho ni - Boku no Mamakatsu! 1 | Together with a single
+      mother - My sugarmama! 1
+    author: azukiko
+    cover: /covers/304548.jpg
+    rating: 4.7
+    date: '2026-04-16'
+    code: 304548
+    url: /works/304548/
+  - title: Kono Furin wa Otto no Tame "Anata, Yurushite…." To, Netorareru Tsuma | 這場外遇是為了老公「親愛的，原諒我…」這樣說著，為老公戴綠帽的妻子
+    author: korosuke
+    cover: /covers/328805.jpg
+    rating: 5.0
+    date: '2026-04-12'
+    code: 328805
+    url: /works/328805/
   - title: Sokukan Delivery
     author: ice
     cover: /covers/332781.jpg
@@ -31,6 +60,21 @@ works:
     date: '2026-08-20'
     code: 332781
     url: /works/332781/
+  - title: Gojou-kun no Koto ga Daishuki Sugite Yona Yona Hakadotte Ita Koto ga Bareta
+      Ken
+    author: naganeko
+    cover: /covers/419235.jpg
+    rating: 4.0
+    date: '2026-04-19'
+    code: 419235
+    url: /works/419235/
+  - title: Yasashii Oba-san Yarashii Oba-san | Kind Lady, Dirty Lady Ch. 1-3
+    author: hidemaru
+    cover: /covers/421874.jpg
+    rating: 4.6
+    date: '2026-04-16'
+    code: 421874
+    url: /works/421874/
   - title: Koi no Susumekata | How to Advance Your Love
     author: danimaru
     cover: /covers/425528.jpg
@@ -45,6 +89,20 @@ works:
     date: '2026-07-10'
     code: 468655
     url: /works/468655/
+  - title: Meguri Ai | Fateful Encounter  (COMIC Anthurium 2023-12) [English] =NSS=
+    author: nagareboshi
+    cover: /covers/485905.jpg
+    rating: 4.7
+    date: '2026-04-15'
+    code: 485905
+    url: /works/485905/
+  - title: Syuju - Kankei
+    author: 810eru
+    cover: /covers/489004.jpg
+    rating: 4.6
+    date: '2026-04-17'
+    code: 489004
+    url: /works/489004/
   - title: Tan to Tan | Unique and Us
     author: mushihara
     cover: /covers/499536.jpg
@@ -110,6 +168,13 @@ works:
     date: '2026-08-25'
     code: 512473
     url: /works/512473/
+  - title: Nee, Shite Zenpen
+    author: chiba-toshirou
+    cover: /covers/515857.jpg
+    rating: 4.9
+    date: '2026-04-18'
+    code: 515857
+    url: /works/515857/
   - title: IKUu!! Zenkou Seito no Mae de Koukai Zecchou-saserareta JK no Matsuro 1 |
       Cumming in Front of the Entire Student Body 1
     author: ouma
@@ -118,6 +183,13 @@ works:
     date: '2026-05-04'
     code: 518608
     url: /works/518608/
+  - title: ねぇ、して 後編
+    author: chiba-toshirou
+    cover: /covers/518953.jpg
+    rating: 4.3
+    date: '2026-04-17'
+    code: 518953
+    url: /works/518953/
   - title: '"Ikaseru Furi suru dake" tte Itta no ni... Satsutaba o Kuwaenagara Maji
       Ikigao o Sarasu JK 1 | But You Said You''d Only Pretend to Make Me Cum... 1'
     author: ouma
@@ -151,6 +223,13 @@ works:
     date: '2026-07-11'
     code: 538063
     url: /works/538063/
+  - title: Kanrakugai ~Neon Kagayaku Uragawa de~ 3
+    author: oobayashi-mori
+    cover: /covers/549597.jpg
+    rating: 4.9
+    date: '2026-04-18'
+    code: 549597
+    url: /works/549597/
   - title: Iiwa Watashi no Karada Suki ni Shite Ch.1-2
     author: shunjou-shuusuke
     cover: /covers/561787.jpg
@@ -158,6 +237,13 @@ works:
     date: '2026-07-16'
     code: 561787
     url: /works/561787/
+  - title: Cocoa-chan no Jiraikei Chuuihou
+    author: uni-toshiki
+    cover: /covers/568923.jpg
+    rating: 4.3
+    date: '2026-03-04'
+    code: 568923
+    url: /works/568923/
   - title: Mamami Numa | Addicted to Her Motherly Vibes
     author: ruruepa
     cover: /covers/619648.jpg
@@ -165,6 +251,20 @@ works:
     date: '2026-08-18'
     code: 619648
     url: /works/619648/
+  - title: 'GNO: Girl''s Night Out - Issue 02'
+    author: uselessbegging
+    cover: /covers/634464.jpg
+    rating: 4.0
+    date: '2026-03-07'
+    code: 634464
+    url: /works/634464/
+  - title: Ijimerare Musume to ijirikko ~ ore shika shiranaiyarashii karada
+    author: unknown
+    cover: /covers/644176.jpg
+    rating: 4.4
+    date: '2026-04-16'
+    code: 644176
+    url: /works/644176/
   - title: How I, a fighting gamer, became the heroine of a cosplay AV
     author: unknown
     cover: /covers/645566.jpg
@@ -281,4 +381,11 @@ works:
     date: '2026-08-29'
     code: 676328
     url: /works/676328/
+  - title: Hottokenaino
+    author: hara-shigeyuki
+    cover: /covers/77864.jpg
+    rating: 4.6
+    date: '2026-04-19'
+    code: 77864
+    url: /works/77864/
 ---

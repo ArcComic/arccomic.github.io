@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bathing room"
-work_count: 10
+work_count: 11
 works:
   - title: Homestay-chu no Doitsu Musume ga Issho ni Furo ni Haitte Kuru Wake | The
       Reason Why a German Girl Takes a Bath Together With Me on Her Homestay
@@ -27,6 +27,13 @@ works:
     date: '2026-08-22'
     code: 550948
     url: /works/550948/
+  - title: Kaya-nee and the Old Man Memories
+    author: kon-kit
+    cover: /covers/598144.jpg
+    rating: 4.3
+    date: '2026-03-09'
+    code: 598144
+    url: /works/598144/
   - title: Motokano-tachi to Ya Re Naoshi!? CHAPTER 2
     author: shinonome-ryu
     cover: /covers/598175.jpg

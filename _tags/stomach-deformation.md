@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "stomach deformation"
-work_count: 5
+work_count: 6
 works:
   - title: Uwa, Mesugaki Tsuyoi! | Crap, This Mesugaki's Too Powerful!
     author: poncocchan
@@ -18,6 +18,13 @@ works:
     date: '2026-04-25'
     code: 562615
     url: /works/562615/
+  - title: Mishiranu Boshi ni Yaritai Houdai
+    author: tonda
+    cover: /covers/635363.jpg
+    rating: 4.6
+    date: '2026-03-07'
+    code: 635363
+    url: /works/635363/
   - title: Mesugaki ni Saikyouiku o!! | Re-Educating A Smug-Brat!!
     author: type-yamada
     cover: /covers/664631.jpg

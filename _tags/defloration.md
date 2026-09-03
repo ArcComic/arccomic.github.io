@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "defloration"
-work_count: 87
+work_count: 112
 works:
   - title: Love Approach
     author: hanafuda-sakurano
@@ -10,6 +10,20 @@ works:
     date: '2026-04-27'
     code: 158990
     url: /works/158990/
+  - title: Hanamizuki
+    author: orikuchi
+    cover: /covers/162047.jpg
+    rating: 4.1
+    date: '2026-04-17'
+    code: 162047
+    url: /works/162047/
+  - title: GalPa!
+    author: sakagami-umi
+    cover: /covers/208522.jpg
+    rating: 4.4
+    date: '2026-03-07'
+    code: 208522
+    url: /works/208522/
   - title: Sensei wa Shougakusei ga Suki | Sensei Loves Elementary Schoolers
     author: fuyuno-mikan
     cover: /covers/289094.jpg
@@ -70,6 +84,14 @@ works:
     date: '2026-07-10'
     code: 407959
     url: /works/407959/
+  - title: Kaisha no Iki Okure BBA Haramaseta | [Tragic News] I Knocked Up The Old Maid
+      From My Office
+    author: special-g
+    cover: /covers/409929.jpg
+    rating: 4.4
+    date: '2026-03-05'
+    code: 409929
+    url: /works/409929/
   - title: NTR Anniversary + ) [Syukurin] Mitsuha ~Netorare~ (Kimi no Na wa.) [English]
       [Colorized] by Mikaku
     author: arakure
@@ -78,6 +100,13 @@ works:
     date: '2026-04-27'
     code: 414206
     url: /works/414206/
+  - title: Hito o Dame ni Suru Choi Busu ~Kao 40-ten, Karada 120-ten no Kanojo~
+    author: special-g
+    cover: /covers/414892.jpg
+    rating: 4.0
+    date: '2026-03-05'
+    code: 414892
+    url: /works/414892/
   - title: 'Misunderstanding Love Hotel Netorare [Arakure] & Kimi no na wa: After Story
       - Mitsuha ~Netorare~'
     author: arakure
@@ -93,6 +122,21 @@ works:
     date: '2026-04-27'
     code: 425528
     url: /works/425528/
+  - title: Hatsujouki | Cherry Season
+    author: nagareboshi
+    cover: /covers/426769.jpg
+    rating: 4.6
+    date: '2026-04-15'
+    code: 426769
+    url: /works/426769/
+  - title: Gal ni Houkago Oppai Sawatte ku? te Sasowareru Hanashi | That Time Gyarus
+      Asked Me to Grope their Tits After Class
+    author: ono-hiroki
+    cover: /covers/431578.jpg
+    rating: 4.1
+    date: '2026-03-07'
+    code: 431578
+    url: /works/431578/
   - title: Kanojo no Kawaii Mieppari | My Cute Gyaru Girlfriend Is a Total Poser
     author: buta
     cover: /covers/441114.jpg
@@ -107,6 +151,13 @@ works:
     date: '2026-04-27'
     code: 452482
     url: /works/452482/
+  - title: Minpaku ~Ojou-sama-tachi wa Minpaku Keieisha no Wana ni Ochiru~
+    author: kinugasa-yuuichi
+    cover: /covers/478446.jpg
+    rating: 4.7
+    date: '2026-04-14'
+    code: 478446
+    url: /works/478446/
   - title: Ame no Hi wa, Honnori Chikubi
     author: hoshi-to-lucky
     cover: /covers/484860.jpg
@@ -121,6 +172,13 @@ works:
     date: '2026-05-01'
     code: 508534
     url: /works/508534/
+  - title: Watashi wa Kakerareteru kara... | I've been hypnotized, so...
+    author: kiraku
+    cover: /covers/516164.jpg
+    rating: 4.9
+    date: '2026-04-17'
+    code: 516164
+    url: /works/516164/
   - title: Hatsutaiken no Susume | Recommendation for the First Time Experience
     author: mojarin
     cover: /covers/532651.jpg
@@ -137,6 +195,14 @@ works:
     date: '2026-08-29'
     code: 534388
     url: /works/534388/
+  - title: Jimi Kyonyuu No Stalker Onna Ni Gokuhaku Saretanode Yarimakutte Mita Hanashi
+      | I Was Confessed To By A Plain Busty Stalker Girl, So I Fucked Her Like Crazy
+    author: hiyori-hamster
+    cover: /covers/534640.jpg
+    rating: 4.7
+    date: '2026-04-23'
+    code: 534640
+    url: /works/534640/
   - title: Dansei ga Kyokutan ni Sukunai Kono Sekai de wa, Seishi wa Kichou na Shigen
       desu. Sono 2 | In a World Where Men Are Scarce, Sperm Is a Precious Resource 2
     author: group
@@ -169,6 +235,21 @@ works:
     date: '2026-08-18'
     code: 560097
     url: /works/560097/
+  - title: Konki Girigiri Sister, Semete Shojo wo Sutetai | If I Can't Be Married At
+      Least Let Me Quit Being a Virgin
+    author: torii-yoshitsuna
+    cover: /covers/566835.jpg
+    rating: 4.5
+    date: '2026-04-17'
+    code: 566835
+    url: /works/566835/
+  - title: Namima no Pōtorēto | Portrait of a Wave
+    author: torii-yoshitsuna
+    cover: /covers/580379.jpg
+    rating: 4.0
+    date: '2026-04-16'
+    code: 580379
+    url: /works/580379/
   - title: Meshitaki san-nen, nigiri ichi-nen | Three Years to Master Rice, One Year
       to Master Nigiri
     author: polier
@@ -177,6 +258,13 @@ works:
     date: '2026-07-07'
     code: 583391
     url: /works/583391/
+  - title: Chiguhagu Kanojo | Mismatched Girlfriend
+    author: natsuo-tsunao
+    cover: /covers/584260.jpg
+    rating: 4.3
+    date: '2026-04-21'
+    code: 584260
+    url: /works/584260/
   - title: 'Moto Mahou Shoujo no Shigoto Hanashi Ao Zenjitsutan | Former Magical Girl
       Blue''s Work: The Prequel'
     author: zhen-lu
@@ -200,6 +288,13 @@ works:
     date: '2026-08-22'
     code: 586316
     url: /works/586316/
+  - title: My AR glasses can see various stats about my foster sister?!
+    author: pz-x
+    cover: /covers/589010.jpg
+    rating: 4.5
+    date: '2026-04-15'
+    code: 589010
+    url: /works/589010/
   - title: Mesu no Ie II ~Tsuma wa Midare Ubareru~
     author: ame-arare
     cover: /covers/591112.jpg
@@ -207,6 +302,21 @@ works:
     date: '2026-05-01'
     code: 591112
     url: /works/591112/
+  - title: '"Yasashii Dake no Otoko" to Tsuma ni Sute Raretanode... | My Wife Left Me
+      Because I was "Too Gentle"...'
+    author: special-g
+    cover: /covers/593456.jpg
+    rating: 4.4
+    date: '2026-03-05'
+    code: 593456
+    url: /works/593456/
+  - title: Shounen yo, Watashi o Idake. 少年,抱住我
+    author: torii-yoshitsuna
+    cover: /covers/599514.jpg
+    rating: 4.7
+    date: '2026-04-16'
+    code: 599514
+    url: /works/599514/
   - title: Cool na Niizuma to no Shinkon Seikatsu wa Amari ni mo... Yarashikatta  |
       Our Kinky Newlywed Life Vol. 1-3
     author: nanakusa-amane
@@ -250,6 +360,49 @@ works:
     date: '2026-04-27'
     code: 619405
     url: /works/619405/
+  - title: Dansei Idol ni Okasareru Hanashi
+    author: ema
+    cover: /covers/630903.jpg
+    rating: 4.3
+    date: '2026-04-13'
+    code: 630903
+    url: /works/630903/
+  - title: Koukan Nikki ー School Whore Diaries
+    author: henkuma
+    cover: /covers/634328.jpg
+    rating: 4.8
+    date: '2026-03-07'
+    code: 634328
+    url: /works/634328/
+  - title: 'GNO: Girl''s Night Out - Issue 02'
+    author: uselessbegging
+    cover: /covers/634464.jpg
+    rating: 4.0
+    date: '2026-03-07'
+    code: 634464
+    url: /works/634464/
+  - title: Honeori! Osewa Girl♡ | SK8er Girl Lends Me a Hand!
+    author: kyaradain
+    cover: /covers/634609.jpg
+    rating: 4.5
+    date: '2026-03-05'
+    code: 634609
+    url: /works/634609/
+  - title: Sex Shinai to Derarenai Hotel 2 | The hotel you can't leave without having
+      sex 2
+    author: jeattle
+    cover: /covers/635068.jpg
+    rating: 5.0
+    date: '2026-04-18'
+    code: 635068
+    url: /works/635068/
+  - title: Siblings Shouldn't Do It! | Kyoudai de Shitara Ikemasen
+    author: fence-14
+    cover: /covers/635266.jpg
+    rating: 4.7
+    date: '2026-03-07'
+    code: 635266
+    url: /works/635266/
   - title: Curiosity and the Cost of Innocence
     author: hoshi-to-lucky
     cover: /covers/637110.jpg
@@ -279,6 +432,34 @@ works:
     date: '2026-08-23'
     code: 639772
     url: /works/639772/
+  - title: Boku no Kanojo ga Katte ni Seikyouiku Sareteta Hanashi
+    author: unknown
+    cover: /covers/643527.jpg
+    rating: 4.3
+    date: '2026-04-12'
+    code: 643527
+    url: /works/643527/
+  - title: Hataya Misuzu no P Ikusei Nisshi | Misuzu Hataya Training Diary
+    author: unknown
+    cover: /covers/643807.jpg
+    rating: 4.5
+    date: '2026-04-14'
+    code: 643807
+    url: /works/643807/
+  - title: Sawatte Mitai? | Do You Wanna Touch?
+    author: rondonko
+    cover: /covers/644309.jpg
+    rating: 4.1
+    date: '2026-04-17'
+    code: 644309
+    url: /works/644309/
+  - title: Daisuki Datta Onii-chan | My Once Beloved Older Cousin
+    author: minakami-riku
+    cover: /covers/644495.jpg
+    rating: 5.0
+    date: '2026-04-17'
+    code: 644495
+    url: /works/644495/
   - title: Delusion story book
     author: madarame-rin
     cover: /covers/644810.jpg

@@ -1,8 +1,17 @@
 ---
 layout: tag
 tag_name: "clit stimulation"
-work_count: 13
+work_count: 15
 works:
+  - title: Senpai, Sonna no Shiranai desu ~Bansou shite ita Kare no Yubi wa Ima, Watashi
+      no Naka o Midashiteru~ | Senpai, I Don't Know About That - His Fingers That Were
+      Accompaniment are now Disturbing my Vagina
+    author: uruh-aqua
+    cover: /covers/507473.jpg
+    rating: 4.3
+    date: '2026-04-15'
+    code: 507473
+    url: /works/507473/
   - title: Netori Ai SEX - Chara Otoko no Hentai Massage Osananajimi no Nettori Aibu
       1 | N.T.R. Sex Wars - Playboy's Depraved Massage VS. Childhood Friend's Sensual
       Touch 1
@@ -45,6 +54,13 @@ works:
     date: '2026-07-11'
     code: 617492
     url: /works/617492/
+  - title: 女孩們的玩具初體驗 | Girl's First Experience With Toys
+    author: muzi
+    cover: /covers/624694.jpg
+    rating: 4.8
+    date: '2026-03-04'
+    code: 624694
+    url: /works/624694/
   - title: Kaisha de majimena Shizuno-san wa ie de otoko o katterurashii | Seems The
       Serious Office Worker Shizuno Keeps A Pet Guy At Home
     author: yuzuha

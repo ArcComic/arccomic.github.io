@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "twintails"
-work_count: 55
+work_count: 64
 works:
   - title: Sensei wa Shougakusei ga Suki | Sensei Loves Elementary Schoolers
     author: fuyuno-mikan
@@ -34,6 +34,13 @@ works:
     date: '2026-05-10'
     code: 441339
     url: /works/441339/
+  - title: Musuko o Dokusen Suru Haha | The mother who monopolizes her son.
+    author: yuriko-club
+    cover: /covers/471998.jpg
+    rating: 4.3
+    date: '2026-04-15'
+    code: 471998
+    url: /works/471998/
   - title: Neteru Onii-chan no Are o Kariru Hanashi
     author: tiger
     cover: /covers/476399.jpg
@@ -57,6 +64,13 @@ works:
     date: '2026-07-13'
     code: 514183
     url: /works/514183/
+  - title: Watashi wa Kakerareteru kara... | I've been hypnotized, so...
+    author: kiraku
+    cover: /covers/516164.jpg
+    rating: 4.9
+    date: '2026-04-17'
+    code: 516164
+    url: /works/516164/
   - title: Beit Saki no Majime na Kouhai ga... | A Serious Part-Time Kouhai
     author: kusayarou
     cover: /covers/536423.jpg
@@ -86,6 +100,35 @@ works:
     date: '2026-08-31'
     code: 556767
     url: /works/556767/
+  - title: Cocoa-chan no Jiraikei Chuuihou
+    author: uni-toshiki
+    cover: /covers/568923.jpg
+    rating: 4.3
+    date: '2026-03-04'
+    code: 568923
+    url: /works/568923/
+  - title: ゼロ距離のまなざし | 零距离的眼神
+    author: momoko
+    cover: /covers/579493.jpg
+    rating: 4.7
+    date: '2026-04-21'
+    code: 579493
+    url: /works/579493/
+  - title: Jibun ni dake Atari ga Tsuyoi Seito ni Saiminjutsu o Kaketa Hanashi | A story
+      of how I hypnotized a student who was only mean to me.
+    author: akahito
+    cover: /covers/580323.jpg
+    rating: 4.8
+    date: '2026-03-04'
+    code: 580323
+    url: /works/580323/
+  - title: Chiguhagu Kanojo | Mismatched Girlfriend
+    author: natsuo-tsunao
+    cover: /covers/584260.jpg
+    rating: 4.3
+    date: '2026-04-21'
+    code: 584260
+    url: /works/584260/
   - title: Mesu no Ie II ~Tsuma wa Midare Ubareru~
     author: ame-arare
     cover: /covers/591112.jpg
@@ -114,6 +157,21 @@ works:
     date: '2026-08-22'
     code: 627126
     url: /works/627126/
+  - title: Hotai no Jikan ~Minna no Mae de Sensei to xxx o Shimasu~
+    author: mochizaki-panko
+    cover: /covers/634185.jpg
+    rating: 4.5
+    date: '2026-03-05'
+    code: 634185
+    url: /works/634185/
+  - title: Sex Shinai to Derarenai Hotel 2 | The hotel you can't leave without having
+      sex 2
+    author: jeattle
+    cover: /covers/635068.jpg
+    rating: 5.0
+    date: '2026-04-18'
+    code: 635068
+    url: /works/635068/
   - title: Onsen Haitte tara Joseito-tachi ga Osotte Kita | My Students Jumped Me When
       I Got in the Hot Spring
     author: hamo
@@ -122,6 +180,13 @@ works:
     date: '2026-08-20'
     code: 639463
     url: /works/639463/
+  - title: Sawatte Mitai? | Do You Wanna Touch?
+    author: rondonko
+    cover: /covers/644309.jpg
+    rating: 4.1
+    date: '2026-04-17'
+    code: 644309
+    url: /works/644309/
   - title: 'YariCir Shingakki ni Boku no Heya wa Minna no Tamariba (Omake Ver.) - Fuck
       Club: New Term! My Room''s A Hangout Spot For Everyone'
     author: purumetal

@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "teacher"
-work_count: 44
+work_count: 54
 works:
+  - title: Kurikyun 5! Chapter 1-6
+    author: drill-murata
+    cover: /covers/103680.jpg
+    rating: 4.6
+    date: '2026-04-17'
+    code: 103680
+    url: /works/103680/
   - title: Sensei wa Shougakusei ga Suki | Sensei Loves Elementary Schoolers
     author: fuyuno-mikan
     cover: /covers/289094.jpg
@@ -72,6 +79,13 @@ works:
     date: '2026-08-20'
     code: 510022
     url: /works/510022/
+  - title: Do-S Yankee JK to Do-M Hentai Teacher
+    author: naganeko
+    cover: /covers/512715.jpg
+    rating: 4.3
+    date: '2026-04-19'
+    code: 512715
+    url: /works/512715/
   - title: Midara na Sensei wa Kirai desu ka? ~Sakura Aimi no Baai~ | Do you hate lewd
       teachers? ~The Case of Sakura Aimi~
     author: macho
@@ -110,6 +124,14 @@ works:
     date: '2026-04-30'
     code: 566052
     url: /works/566052/
+  - title: Jibun ni dake Atari ga Tsuyoi Seito ni Saiminjutsu o Kaketa Hanashi | A story
+      of how I hypnotized a student who was only mean to me.
+    author: akahito
+    cover: /covers/580323.jpg
+    rating: 4.8
+    date: '2026-03-04'
+    code: 580323
+    url: /works/580323/
   - title: Ore ga Hoshikatta Mono wa Kin Medal Yori Namami Onaho Datta no Kamoshirenai｜Maybe
       what I Wanted was a Flesh and Blood Masturbator Rather than a Gold Medal
     author: carburetor
@@ -118,6 +140,13 @@ works:
     date: '2026-08-24'
     code: 584934
     url: /works/584934/
+  - title: My Thousand Days With Mentor Tsuji
+    author: concontochu
+    cover: /covers/588066.jpg
+    rating: 4.3
+    date: '2026-04-15'
+    code: 588066
+    url: /works/588066/
   - title: Kyoushi to Mama to Koibito no Kao
     author: mifune-seijirou
     cover: /covers/592307.jpg
@@ -140,6 +169,27 @@ works:
     date: '2026-05-04'
     code: 621185
     url: /works/621185/
+  - title: Hotai no Jikan ~Minna no Mae de Sensei to xxx o Shimasu~
+    author: mochizaki-panko
+    cover: /covers/634185.jpg
+    rating: 4.5
+    date: '2026-03-05'
+    code: 634185
+    url: /works/634185/
+  - title: Koukan Nikki ー School Whore Diaries
+    author: henkuma
+    cover: /covers/634328.jpg
+    rating: 4.8
+    date: '2026-03-07'
+    code: 634328
+    url: /works/634328/
+  - title: 'GNO: Girl''s Night Out - Issue 02'
+    author: uselessbegging
+    cover: /covers/634464.jpg
+    rating: 4.0
+    date: '2026-03-07'
+    code: 634464
+    url: /works/634464/
   - title: Onsen Haitte tara Joseito-tachi ga Osotte Kita | My Students Jumped Me When
       I Got in the Hot Spring
     author: hamo
@@ -162,6 +212,13 @@ works:
     date: '2026-08-24'
     code: 642585
     url: /works/642585/
+  - title: Prefab
+    author: lioreo
+    cover: /covers/643975.jpg
+    rating: 4.6
+    date: '2026-04-15'
+    code: 643975
+    url: /works/643975/
   - title: The story of how a busty, older teacher girlfriend gets seduced and cheated
       on by the principal with a huge penis.
     author: munioni
@@ -170,6 +227,13 @@ works:
     date: '2026-07-06'
     code: 644296
     url: /works/644296/
+  - title: Sawatte Mitai? | Do You Wanna Touch?
+    author: rondonko
+    cover: /covers/644309.jpg
+    rating: 4.1
+    date: '2026-04-17'
+    code: 644309
+    url: /works/644309/
   - title: Jimikei Bakunyuu Hirama-chan | The Busty, Unassuming Girl Hirama-chan
     author: kametaro
     cover: /covers/646942.jpg
@@ -333,4 +397,11 @@ works:
     date: '2026-08-21'
     code: 674684
     url: /works/674684/
+  - title: Jokyoushi - Hot For Teachers | Female Teachers
+    author: drill-murata
+    cover: /covers/81375.jpg
+    rating: 4.9
+    date: '2026-04-18'
+    code: 81375
+    url: /works/81375/
 ---

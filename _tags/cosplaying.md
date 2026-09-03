@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "cosplaying"
-work_count: 8
+work_count: 9
 works:
+  - title: 'Sono Koi wa Color Code #F88CB0 | That Love is Color Code #F88CB0'
+    author: chiba-toshirou
+    cover: /covers/481441.jpg
+    rating: 4.8
+    date: '2026-04-17'
+    code: 481441
+    url: /works/481441/
   - title: Kyoushi no Oba wa Himitsu no Bakunyuu Ero Cos Layer ~Iinari Gyaku Bunny &
       Sister Cos de Keiren Soku Iki Nakadashi Netori~ | My Teacher Aunt Is Secretly
       A Buxom Erotic Cosplayer

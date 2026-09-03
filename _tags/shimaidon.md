@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "shimaidon"
-work_count: 7
+work_count: 10
 works:
   - title: Zenin Mukuwarenai Harem | A Harem Where No One Is Reciprocated
     author: group
@@ -10,6 +10,13 @@ works:
     date: '2026-04-23'
     code: 610041
     url: /works/610041/
+  - title: Jimoto no Dekai Gal 2
+    author: ueno-meguru
+    cover: /covers/634593.jpg
+    rating: 4.9
+    date: '2026-03-07'
+    code: 634593
+    url: /works/634593/
   - title: Akogare no Hito wa Mou Owari! 2
     author: group
     cover: /covers/642585.jpg
@@ -17,6 +24,21 @@ works:
     date: '2026-08-24'
     code: 642585
     url: /works/642585/
+  - title: My Childhood Friend Twins Become Another Man’s Onahole 1-3
+    author: unknown
+    cover: /covers/643193.jpg
+    rating: 4.7
+    date: '2026-04-11'
+    code: 643193
+    url: /works/643193/
+  - title: Ane Mama ~ Atarashii Onee-chan to Mama wa Ore no Sex Friend ni Narimashita.
+      ~
+    author: group
+    cover: /covers/645383.jpg
+    rating: 4.3
+    date: '2026-04-23'
+    code: 645383
+    url: /works/645383/
   - title: Imouto Haramasenai to Derarenai Shima 2 | You Must Breed Your Sister to Leave
       This Island 2!
     author: airandou

@@ -1,8 +1,17 @@
 ---
 layout: tag
 tag_name: "the waidan"
-work_count: 7
+work_count: 9
 works:
+  - title: Senpai, Sonna no Shiranai desu ~Bansou shite ita Kare no Yubi wa Ima, Watashi
+      no Naka o Midashiteru~ | Senpai, I Don't Know About That - His Fingers That Were
+      Accompaniment are now Disturbing my Vagina
+    author: uruh-aqua
+    cover: /covers/507473.jpg
+    rating: 4.3
+    date: '2026-04-15'
+    code: 507473
+    url: /works/507473/
   - title: Taido mo Karada mo Zenbu deka I Segawa-san no Gachi koi Taisho ni Narimashita
       | I’ve Become The Target of His Affection!
     author: the-waidan
@@ -11,6 +20,13 @@ works:
     date: '2026-05-03'
     code: 534823
     url: /works/534823/
+  - title: My Thousand Days With Mentor Tsuji
+    author: concontochu
+    cover: /covers/588066.jpg
+    rating: 4.3
+    date: '2026-04-15'
+    code: 588066
+    url: /works/588066/
   - title: Kaisha de majimena Shizuno-san wa ie de otoko o katterurashii | Seems The
       Serious Office Worker Shizuno Keeps A Pet Guy At Home
     author: yuzuha

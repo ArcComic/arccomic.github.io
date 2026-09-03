@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "first person perspective"
-work_count: 5
+work_count: 6
 works:
   - title: Uwa, Mesugaki Tsuyoi! | Crap, This Mesugaki's Too Powerful!
     author: poncocchan
@@ -17,6 +17,13 @@ works:
     date: '2026-07-16'
     code: 555816
     url: /works/555816/
+  - title: Yarinuki Gal
+    author: uenosuke
+    cover: /covers/645537.jpg
+    rating: 4.3
+    date: '2026-04-23'
+    code: 645537
+    url: /works/645537/
   - title: I Want To Take Hikaru Narumi's First Time
     author: concontochu
     cover: /covers/649039.jpg

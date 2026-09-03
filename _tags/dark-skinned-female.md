@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "dark skinned female"
-work_count: 6
+work_count: 7
 works:
   - title: Boku no Toshiue no Tomodachi | My Older Friend
     author: buta
@@ -17,6 +17,14 @@ works:
     date: '2026-08-23'
     code: 639772
     url: /works/639772/
+  - title: Kasshoku Buaisou Yakyuu-bu Manager no Yowami Nigitta | I Found the Grumpy,
+      Brown-Skinned Baseball Manager's Weakness
+    author: kitano-onsen
+    cover: /covers/644931.jpg
+    rating: 5.0
+    date: '2026-04-21'
+    code: 644931
+    url: /works/644931/
   - title: Inaka ja Kore ga Joushiki dakara! | This Is Just How Things Are in the Countryside!
     author: chilt
     cover: /covers/646146.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "office lady"
-work_count: 4
+work_count: 7
 works:
   - title: Kono Koi ni Kiduite
     author: danimaru
@@ -10,6 +10,29 @@ works:
     date: '2026-04-27'
     code: 357965
     url: /works/357965/
+  - title: Kaisha no Iki Okure BBA Haramaseta | [Tragic News] I Knocked Up The Old Maid
+      From My Office
+    author: special-g
+    cover: /covers/409929.jpg
+    rating: 4.4
+    date: '2026-03-05'
+    code: 409929
+    url: /works/409929/
+  - title: 'Buka ni #UraAcc o Shiraretara | If My Subordinate Finds Out About My Secret
+      Alt Account'
+    author: gar
+    cover: /covers/557689.jpg
+    rating: 4.2
+    date: '2026-04-23'
+    code: 557689
+    url: /works/557689/
+  - title: Saimin ♥ Saimin | Hypno ♥ Hypno
+    author: minamida-usuke
+    cover: /covers/576398.jpg
+    rating: 4.1
+    date: '2026-04-23'
+    code: 576398
+    url: /works/576398/
   - title: Igumox - Muramata-san no Himitsu & Aijou - Muramata-san's Secret & Affection
       COMPLETE
     author: igumox

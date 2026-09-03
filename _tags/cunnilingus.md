@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "cunnilingus"
-work_count: 66
+work_count: 83
 works:
   - title: Love Approach
     author: hanafuda-sakurano
@@ -17,6 +17,21 @@ works:
     date: '2026-04-23'
     code: 296282
     url: /works/296282/
+  - title: Single Mother to Issho ni - Boku no Mamakatsu! 1 | Together with a single
+      mother - My sugarmama! 1
+    author: azukiko
+    cover: /covers/304548.jpg
+    rating: 4.7
+    date: '2026-04-16'
+    code: 304548
+    url: /works/304548/
+  - title: Kono Furin wa Otto no Tame "Anata, Yurushite…." To, Netorareru Tsuma | 這場外遇是為了老公「親愛的，原諒我…」這樣說著，為老公戴綠帽的妻子
+    author: korosuke
+    cover: /covers/328805.jpg
+    rating: 5.0
+    date: '2026-04-12'
+    code: 328805
+    url: /works/328805/
   - title: Gekkoutou no Yume - Nyotaika Douwa ~Danshi Kinsei no Tou~
     author: mugen-no-sudadokei
     cover: /covers/387365.jpg
@@ -40,6 +55,35 @@ works:
     date: '2026-04-27'
     code: 416883
     url: /works/416883/
+  - title: Ladies Night
+    author: mr-kurz
+    cover: /covers/446018.jpg
+    rating: 4.9
+    date: '2026-03-07'
+    code: 446018
+    url: /works/446018/
+  - title: Tsumaduki | With a Wife
+    author: ryuuta
+    cover: /covers/446716.jpg
+    rating: 4.4
+    date: '2026-04-19'
+    code: 446716
+    url: /works/446716/
+  - title: Meguri Ai | Fateful Encounter  (COMIC Anthurium 2023-12) [English] =NSS=
+    author: nagareboshi
+    cover: /covers/485905.jpg
+    rating: 4.7
+    date: '2026-04-15'
+    code: 485905
+    url: /works/485905/
+  - title: Boku no Chuugoku Bijin Slender Kyonyuu Tsuma ga Camera Model de Nugasarete
+      Yarichin Tomo ni Netorareta Ken
+    author: mitoreiyu
+    cover: /covers/492657.jpg
+    rating: 4.1
+    date: '2026-04-12'
+    code: 492657
+    url: /works/492657/
   - title: Tokikoe Zenpen | Transcendence, The Beginning
     author: sakujirou
     cover: /covers/498679.jpg
@@ -77,6 +121,13 @@ works:
     date: '2026-04-23'
     code: 509071
     url: /works/509071/
+  - title: Watashi wa Kakerareteru kara... | I've been hypnotized, so...
+    author: kiraku
+    cover: /covers/516164.jpg
+    rating: 4.9
+    date: '2026-04-17'
+    code: 516164
+    url: /works/516164/
   - title: Hatsutaiken no Susume | Recommendation for the First Time Experience
     author: mojarin
     cover: /covers/532651.jpg
@@ -108,6 +159,13 @@ works:
     date: '2026-04-30'
     code: 555849
     url: /works/555849/
+  - title: ゼロ距離のまなざし | 零距离的眼神
+    author: momoko
+    cover: /covers/579493.jpg
+    rating: 4.7
+    date: '2026-04-21'
+    code: 579493
+    url: /works/579493/
   - title: Nanami-chan can’t resist after a date! Cafe, Cinema, Love hotel~
     author: a2me
     cover: /covers/579819.jpg
@@ -122,6 +180,13 @@ works:
     date: '2026-04-27'
     code: 587827
     url: /works/587827/
+  - title: My Thousand Days With Mentor Tsuji
+    author: concontochu
+    cover: /covers/588066.jpg
+    rating: 4.3
+    date: '2026-04-15'
+    code: 588066
+    url: /works/588066/
   - title: Pashiri no Shita Teku, Yabaitte... ~ Ebi Sori Iki Suru Namaiki Gyaru | Bullied
       Boy's Tongue Revenge Vol.1-4
     author: takayamanon
@@ -153,6 +218,34 @@ works:
     date: '2026-04-25'
     code: 593754
     url: /works/593754/
+  - title: Celestial Doll 1-5
+    author: mr-kurz
+    cover: /covers/595353.jpg
+    rating: 5.0
+    date: '2026-04-21'
+    code: 595353
+    url: /works/595353/
+  - title: Kaya-nee and the Old Man Memories
+    author: kon-kit
+    cover: /covers/598144.jpg
+    rating: 4.3
+    date: '2026-03-09'
+    code: 598144
+    url: /works/598144/
+  - title: Shounen yo, Watashi o Idake. 少年,抱住我
+    author: torii-yoshitsuna
+    cover: /covers/599514.jpg
+    rating: 4.7
+    date: '2026-04-16'
+    code: 599514
+    url: /works/599514/
+  - title: Hitozuma Takuhaibin 1+2
+    author: unknown
+    cover: /covers/599910.jpg
+    rating: 4.2
+    date: '2026-04-23'
+    code: 599910
+    url: /works/599910/
   - title: Hitoban Tomete yo, Otaku-kun | Let Me Stay For the Night, Otaku-kun
     author: danimaru
     cover: /covers/606166.jpg
@@ -192,6 +285,27 @@ works:
     date: '2026-05-04'
     code: 621185
     url: /works/621185/
+  - title: Hotai no Jikan ~Minna no Mae de Sensei to xxx o Shimasu~
+    author: mochizaki-panko
+    cover: /covers/634185.jpg
+    rating: 4.5
+    date: '2026-03-05'
+    code: 634185
+    url: /works/634185/
+  - title: 'GNO: Girl''s Night Out - Issue 02'
+    author: uselessbegging
+    cover: /covers/634464.jpg
+    rating: 4.0
+    date: '2026-03-07'
+    code: 634464
+    url: /works/634464/
+  - title: Honeori! Osewa Girl♡ | SK8er Girl Lends Me a Hand!
+    author: kyaradain
+    cover: /covers/634609.jpg
+    rating: 4.5
+    date: '2026-03-05'
+    code: 634609
+    url: /works/634609/
   - title: Onsen Haitte tara Joseito-tachi ga Osotte Kita | My Students Jumped Me When
       I Got in the Hot Spring
     author: hamo
@@ -200,6 +314,14 @@ works:
     date: '2026-08-20'
     code: 639463
     url: /works/639463/
+  - title: 'IF: Gokinjo-sama ni Tanemaki Dekiru Sekaisen no Hanashi ~Mukashinajimi Doukyuusei
+      no Baai~'
+    author: amatani-haruka
+    cover: /covers/643524.jpg
+    rating: 4.7
+    date: '2026-04-12'
+    code: 643524
+    url: /works/643524/
   - title: Delusion story book
     author: madarame-rin
     cover: /covers/644810.jpg

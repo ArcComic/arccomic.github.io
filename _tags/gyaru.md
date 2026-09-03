@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "gyaru"
-work_count: 40
+work_count: 54
 works:
+  - title: GalPa!
+    author: sakagami-umi
+    cover: /covers/208522.jpg
+    rating: 4.4
+    date: '2026-03-07'
+    code: 208522
+    url: /works/208522/
   - title: CHOCO x LOVE
     author: highlow
     cover: /covers/317673.jpg
@@ -10,6 +17,29 @@ works:
     date: '2026-07-09'
     code: 317673
     url: /works/317673/
+  - title: Gojou-kun no Koto ga Daishuki Sugite Yona Yona Hakadotte Ita Koto ga Bareta
+      Ken
+    author: naganeko
+    cover: /covers/419235.jpg
+    rating: 4.0
+    date: '2026-04-19'
+    code: 419235
+    url: /works/419235/
+  - title: Hatsujouki | Cherry Season
+    author: nagareboshi
+    cover: /covers/426769.jpg
+    rating: 4.6
+    date: '2026-04-15'
+    code: 426769
+    url: /works/426769/
+  - title: Gal ni Houkago Oppai Sawatte ku? te Sasowareru Hanashi | That Time Gyarus
+      Asked Me to Grope their Tits After Class
+    author: ono-hiroki
+    cover: /covers/431578.jpg
+    rating: 4.1
+    date: '2026-03-07'
+    code: 431578
+    url: /works/431578/
   - title: Kanojo no Kawaii Mieppari | My Cute Gyaru Girlfriend Is a Total Poser
     author: buta
     cover: /covers/441114.jpg
@@ -24,6 +54,27 @@ works:
     date: '2026-04-27'
     code: 452482
     url: /works/452482/
+  - title: 'Sono Koi wa Color Code #F88CB0 | That Love is Color Code #F88CB0'
+    author: chiba-toshirou
+    cover: /covers/481441.jpg
+    rating: 4.8
+    date: '2026-04-17'
+    code: 481441
+    url: /works/481441/
+  - title: Kinpatsu Chounyuu Gal ni Gyaku Deriheru Atsukai Sarete Iru Ore no Hanashi
+    author: uni-toshiki
+    cover: /covers/502694.jpg
+    rating: 4.2
+    date: '2026-03-04'
+    code: 502694
+    url: /works/502694/
+  - title: Do-S Yankee JK to Do-M Hentai Teacher
+    author: naganeko
+    cover: /covers/512715.jpg
+    rating: 4.3
+    date: '2026-04-19'
+    code: 512715
+    url: /works/512715/
   - title: Gal to no Asobikata | How to Have Fun With Gyarus!
     author: buta
     cover: /covers/531967.jpg
@@ -38,6 +89,20 @@ works:
     date: '2026-05-07'
     code: 536423
     url: /works/536423/
+  - title: Kanrakugai ~Neon Kagayaku Uragawa de~ 3
+    author: oobayashi-mori
+    cover: /covers/549597.jpg
+    rating: 4.9
+    date: '2026-04-18'
+    code: 549597
+    url: /works/549597/
+  - title: Chorozako Kanojo no Aina-chan -Mucchiri Gal to Ichalove H suru Hanashi-
+    author: tokyo-gunjo
+    cover: /covers/580427.jpg
+    rating: 4.6
+    date: '2026-04-19'
+    code: 580427
+    url: /works/580427/
   - title: Hitoban Tomete yo, Otaku-kun | Let Me Stay For the Night, Otaku-kun
     author: danimaru
     cover: /covers/606166.jpg
@@ -82,6 +147,28 @@ works:
     date: '2026-08-29'
     code: 634450
     url: /works/634450/
+  - title: Jimoto no Dekai Gal
+    author: ueno-meguru
+    cover: /covers/634592.jpg
+    rating: 4.1
+    date: '2026-03-05'
+    code: 634592
+    url: /works/634592/
+  - title: Jimoto no Dekai Gal 2
+    author: ueno-meguru
+    cover: /covers/634593.jpg
+    rating: 4.9
+    date: '2026-03-07'
+    code: 634593
+    url: /works/634593/
+  - title: Sex Shinai to Derarenai Hotel 2 | The hotel you can't leave without having
+      sex 2
+    author: jeattle
+    cover: /covers/635068.jpg
+    rating: 5.0
+    date: '2026-04-18'
+    code: 635068
+    url: /works/635068/
   - title: Imouto Oppai de Sukusuku Seikatsu
     author: asaomi-shimura
     cover: /covers/636802.jpg
@@ -96,6 +183,14 @@ works:
     date: '2026-08-23'
     code: 639772
     url: /works/639772/
+  - title: Ane Mama ~ Atarashii Onee-chan to Mama wa Ore no Sex Friend ni Narimashita.
+      ~
+    author: group
+    cover: /covers/645383.jpg
+    rating: 4.3
+    date: '2026-04-23'
+    code: 645383
+    url: /works/645383/
   - title: 'YariCir Shingakki ni Boku no Heya wa Minna no Tamariba (Omake Ver.) - Fuck
       Club: New Term! My Room''s A Hangout Spot For Everyone'
     author: purumetal
@@ -104,6 +199,13 @@ works:
     date: '2026-04-23'
     code: 645507
     url: /works/645507/
+  - title: Yarinuki Gal
+    author: uenosuke
+    cover: /covers/645537.jpg
+    rating: 4.3
+    date: '2026-04-23'
+    code: 645537
+    url: /works/645537/
   - title: Otaku ni Yasashii Gal wa Aitsu no Kanojo | A Gal Who's Kind to Otaku Is That
       Guy's Girlfriend
     author: yamamoto

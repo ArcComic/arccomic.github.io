@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "demon girl"
-work_count: 5
+work_count: 6
 works:
+  - title: Junpaku Terrarium - Garden of Lovers
+    author: sakuma-tsukasa
+    cover: /covers/635795.jpg
+    rating: 4.1
+    date: '2026-03-09'
+    code: 635795
+    url: /works/635795/
   - title: Succubus Seitokai Shiko Shiko Shikkoubu 2 NOA ver. | Succubus Student Council
       Milking Club 2 Version NOA
     author: michiking

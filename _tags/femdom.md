@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "femdom"
-work_count: 61
+work_count: 79
 works:
   - title: Life with Married Women Just Like a Manga 2 - Ch. 1-5
     author: hidemaru
@@ -10,6 +10,13 @@ works:
     date: '2026-07-08'
     code: 116138
     url: /works/116138/
+  - title: GalPa!
+    author: sakagami-umi
+    cover: /covers/208522.jpg
+    rating: 4.4
+    date: '2026-03-07'
+    code: 208522
+    url: /works/208522/
   - title: Yuri no o saifu ni shite agemasu ne, Senpai | I'll turn you into Yuri's wallet,
       Senpai
     author: doskoinpo
@@ -25,6 +32,13 @@ works:
     date: '2026-07-09'
     code: 317673
     url: /works/317673/
+  - title: My Only Princess
+    author: mackgee
+    cover: /covers/335960.jpg
+    rating: 4.8
+    date: '2026-04-17'
+    code: 335960
+    url: /works/335960/
   - title: Love Divided Between a Rock and a Hard Place Ch.1
     author: cabin
     cover: /covers/342540.jpg
@@ -81,6 +95,14 @@ works:
     date: '2026-07-17'
     code: 430672
     url: /works/430672/
+  - title: Gal ni Houkago Oppai Sawatte ku? te Sasowareru Hanashi | That Time Gyarus
+      Asked Me to Grope their Tits After Class
+    author: ono-hiroki
+    cover: /covers/431578.jpg
+    rating: 4.1
+    date: '2026-03-07'
+    code: 431578
+    url: /works/431578/
   - title: Itabasami na Wakachi Ai 4 | Love Divided Between a Rock and a Hard Place
       4
     author: group
@@ -96,6 +118,13 @@ works:
     date: '2026-04-27'
     code: 507681
     url: /works/507681/
+  - title: Deisui Chijo Mama | My Mom Gets Drunk and Molests Me
+    author: yuriko-club
+    cover: /covers/508549.jpg
+    rating: 4.5
+    date: '2026-04-15'
+    code: 508549
+    url: /works/508549/
   - title: Hitozuma Volley-bu no Asedaku SEX ~Shower Abinagara Micchaku Shichau? 1-2
       | Married Women's Volleyball Club Sweaty Sex - We're Being Glued Together While
       Taking A Shower? 1-2
@@ -105,6 +134,20 @@ works:
     date: '2026-08-29'
     code: 511316
     url: /works/511316/
+  - title: Do-S Yankee JK to Do-M Hentai Teacher
+    author: naganeko
+    cover: /covers/512715.jpg
+    rating: 4.3
+    date: '2026-04-19'
+    code: 512715
+    url: /works/512715/
+  - title: Keitai de Muchimuchi na Chounyuu JD ni Chinpo o Shigoki Agete Morau Hanashi
+    author: yosyo
+    cover: /covers/531191.jpg
+    rating: 4.4
+    date: '2026-03-07'
+    code: 531191
+    url: /works/531191/
   - title: Shut-less
     author: mr-hokke
     cover: /covers/531966.jpg
@@ -127,6 +170,29 @@ works:
     date: '2026-08-22'
     code: 550948
     url: /works/550948/
+  - title: Kou demo Shinakya Akigumo-san 25-sai ga Teitoku to Hameru Kikai Isshou Konai
+      desho | If She Doesn’t Do This, 25-Year-Old Akigumo-san Will Never Get the Chance
+      to Fuck the Admiral, Right?
+    author: bouko
+    cover: /covers/567843.jpg
+    rating: 4.9
+    date: '2026-04-17'
+    code: 567843
+    url: /works/567843/
+  - title: Natsudashi kasshoku bijōfu hori ni ikko | 興起適逢烈夏至 相尋佳郎正當時
+    author: unknown
+    cover: /covers/569575.jpg
+    rating: 4.1
+    date: '2026-03-09'
+    code: 569575
+    url: /works/569575/
+  - title: Chijo Monogatari Henshitsusha (Onna) Shutsubotsu Chuu
+    author: enma
+    cover: /covers/588713.jpg
+    rating: 4.9
+    date: '2026-03-07'
+    code: 588713
+    url: /works/588713/
   - title: Sono Panty, Watashi no Nandakedo. | Those Panties They're Mine
     author: chotto-b-sen
     cover: /covers/593754.jpg
@@ -148,6 +214,13 @@ works:
     date: '2026-04-23'
     code: 610041
     url: /works/610041/
+  - title: Dasuru Haha Musuko ni Nandomo Irerarete
+    author: daidai-shikibu
+    cover: /covers/612083.jpg
+    rating: 4.9
+    date: '2026-04-14'
+    code: 612083
+    url: /works/612083/
   - title: Fuufu Koukan Matching Appli ~DQN na Hitozuma ni Nakadashi Houshi~
     author: hachi-mega
     cover: /covers/613739.jpg
@@ -178,6 +251,35 @@ works:
     date: '2026-08-20'
     code: 632132
     url: /works/632132/
+  - title: Jimoto no Dekai Gal
+    author: ueno-meguru
+    cover: /covers/634592.jpg
+    rating: 4.1
+    date: '2026-03-05'
+    code: 634592
+    url: /works/634592/
+  - title: Jimoto no Dekai Gal 2
+    author: ueno-meguru
+    cover: /covers/634593.jpg
+    rating: 4.9
+    date: '2026-03-07'
+    code: 634593
+    url: /works/634593/
+  - title: Chijo Monogatari Bakunyuu Chijukujo to Doutei-kun
+    author: enma
+    cover: /covers/635174.jpg
+    rating: 4.6
+    date: '2026-03-07'
+    code: 635174
+    url: /works/635174/
+  - title: Yojouhan no Femme Fatale - One-Room Femme Fatale | The Devilishness of a
+      Small Room
+    author: herio
+    cover: /covers/635984.jpg
+    rating: 4.4
+    date: '2026-03-11'
+    code: 635984
+    url: /works/635984/
   - title: Haha to iu Kaibutsu ~M Otoko Aka-chan toshite Sodate rareta Boku wa Yasashii
       Mama ni Dekiai sareru~ | Mother, the Monster ~I was raised as a masochistic baby
       and am doted on by my kind mother~
@@ -201,6 +303,28 @@ works:
     date: '2026-08-19'
     code: 638178
     url: /works/638178/
+  - title: LeveChi na Swapping 3 ~Honrosareru Fuufu Hen~ | Swapping on a Whole New Level
+      3 ~The Couple At The Mercy Of Others~
+    author: hikitogu
+    cover: /covers/643397.jpg
+    rating: 5.0
+    date: '2026-04-12'
+    code: 643397
+    url: /works/643397/
+  - title: DeliHeal Yondara Moto Doukyuusei ga Kita ~Polynesian Sex  6-kame~
+    author: tatsuwaipu
+    cover: /covers/643512.jpg
+    rating: 4.2
+    date: '2026-04-12'
+    code: 643512
+    url: /works/643512/
+  - title: Sawatte Mitai? | Do You Wanna Touch?
+    author: rondonko
+    cover: /covers/644309.jpg
+    rating: 4.1
+    date: '2026-04-17'
+    code: 644309
+    url: /works/644309/
   - title: 'YariCir Shingakki ni Boku no Heya wa Minna no Tamariba (Omake Ver.) - Fuck
       Club: New Term! My Room''s A Hangout Spot For Everyone'
     author: purumetal
@@ -450,4 +574,11 @@ works:
     date: '2026-08-23'
     code: 674960
     url: /works/674960/
+  - title: Jokyoushi - Hot For Teachers | Female Teachers
+    author: drill-murata
+    cover: /covers/81375.jpg
+    rating: 4.9
+    date: '2026-04-18'
+    code: 81375
+    url: /works/81375/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "gokkun"
-work_count: 16
+work_count: 18
 works:
   - title: Itabasami na Wakachi Ai 4 | Love Divided Between a Rock and a Hard Place
       4
@@ -32,6 +32,22 @@ works:
     date: '2026-07-06'
     code: 630901
     url: /works/630901/
+  - title: Siblings Shouldn't Do It! | Kyoudai de Shitara Ikemasen
+    author: fence-14
+    cover: /covers/635266.jpg
+    rating: 4.7
+    date: '2026-03-07'
+    code: 635266
+    url: /works/635266/
+  - title: Ore ga Dairi Tanetsuke Suru Koto ni Natta Hitozuma Tachibana Shizuka-san
+      wa Nannimo Shiranai!! Sono 2 | | Shizuka Tachibana, the Housewife Who Collects
+      My Sperm Donations, Doesn’t Know a Damn Thing!! Chapter 2
+    author: date-roku
+    cover: /covers/636122.jpg
+    rating: 4.5
+    date: '2026-03-11'
+    code: 636122
+    url: /works/636122/
   - title: Oji Saimin Soushuuhen | Hypnotized Uncle Compilation Edition
     author: tokomaya-keita
     cover: /covers/645612.jpg

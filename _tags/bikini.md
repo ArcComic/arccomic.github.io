@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "bikini"
-work_count: 35
+work_count: 40
 works:
+  - title: Kizashi
+    author: yoshiura-kazuya
+    cover: /covers/226386.jpg
+    rating: 4.7
+    date: '2026-03-09'
+    code: 226386
+    url: /works/226386/
   - title: CHOCO x LOVE
     author: highlow
     cover: /covers/317673.jpg
@@ -65,6 +72,14 @@ works:
     date: '2026-08-29'
     code: 589969
     url: /works/589969/
+  - title: '"Yasashii Dake no Otoko" to Tsuma ni Sute Raretanode... | My Wife Left Me
+      Because I was "Too Gentle"...'
+    author: special-g
+    cover: /covers/593456.jpg
+    rating: 4.4
+    date: '2026-03-05'
+    code: 593456
+    url: /works/593456/
   - title: Zutto Akogare datta Dokyuusei no Mama to Yareta Hanashi Kuronuri ver
     author: chinpan
     cover: /covers/593677.jpg
@@ -72,6 +87,13 @@ works:
     date: '2026-04-25'
     code: 593677
     url: /works/593677/
+  - title: Mesu Etsu Toiki Nemoto made Fukaku…
+    author: drill-murata
+    cover: /covers/612957.jpg
+    rating: 4.2
+    date: '2026-04-17'
+    code: 612957
+    url: /works/612957/
   - title: Futari de Watashi o Ikasenaide...! ~Kurayami, Majiwaru Kyoudai Futon~  |
       My 2 Step-Brothers are Ganging Up on Me!  Vol.1
     author: ma-yu
@@ -80,6 +102,14 @@ works:
     date: '2026-08-29'
     code: 618087
     url: /works/618087/
+  - title: Sex Shinai to Derarenai Hotel 2 | The hotel you can't leave without having
+      sex 2
+    author: jeattle
+    cover: /covers/635068.jpg
+    rating: 5.0
+    date: '2026-04-18'
+    code: 635068
+    url: /works/635068/
   - title: Akogare no Hito wa Mou Owari! Daigakusei - Lisa Hen
     author: orange-mimosa
     cover: /covers/642588.jpg
@@ -87,6 +117,13 @@ works:
     date: '2026-08-24'
     code: 642588
     url: /works/642588/
+  - title: Imouto Haramasenai to Derarenai Shima 2
+    author: airandou
+    cover: /covers/643375.jpg
+    rating: 4.4
+    date: '2026-04-12'
+    code: 643375
+    url: /works/643375/
   - title: Oji Saimin Soushuuhen | Hypnotized Uncle Compilation Edition
     author: tokomaya-keita
     cover: /covers/645612.jpg

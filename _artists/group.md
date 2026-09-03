@@ -1,7 +1,7 @@
 ---
 layout: artist
 artist_name: "group"
-work_count: 14
+work_count: 16
 works:
   - title: Itabasami na Wakachi Ai 4 | Love Divided Between a Rock and a Hard Place
       4
@@ -18,6 +18,12 @@ works:
     date: '2026-04-23'
     code: 534641
     url: /works/534641/
+  - title: Netorare x Off-Pako
+    cover: /covers/534663.jpg
+    rating: 4.2
+    date: '2026-04-19'
+    code: 534663
+    url: /works/534663/
   - title: Dansei ga Kyokutan ni Sukunai Kono Sekai de wa, Seishi wa Kichou na Shigen
       desu. Sono 2 | In a World Where Men Are Scarce, Sperm Is a Precious Resource 2
     cover: /covers/537794.jpg
@@ -37,6 +43,12 @@ works:
     date: '2026-04-23'
     code: 610041
     url: /works/610041/
+  - title: 橘さん家ノ脅迫NTR事情
+    cover: /covers/634198.jpg
+    rating: 5.0
+    date: '2026-03-07'
+    code: 634198
+    url: /works/634198/
   - title: Akogare no Hito wa Mou Owari! 2
     cover: /covers/642585.jpg
     rating: 4.0

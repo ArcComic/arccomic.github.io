@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "small breasts"
-work_count: 14
+work_count: 17
 works:
   - title: Hokenshitsu no Futon no Naka de Satori Sedai JK to Naisho H!
     author: niji-teru
@@ -10,6 +10,29 @@ works:
     date: '2026-07-13'
     code: 606725
     url: /works/606725/
+  - title: Honeori! Osewa Girl♡ | SK8er Girl Lends Me a Hand!
+    author: kyaradain
+    cover: /covers/634609.jpg
+    rating: 4.5
+    date: '2026-03-05'
+    code: 634609
+    url: /works/634609/
+  - title: Imouto Haramasenai to Derarenai Shima 2
+    author: airandou
+    cover: /covers/643375.jpg
+    rating: 4.4
+    date: '2026-04-12'
+    code: 643375
+    url: /works/643375/
+  - title: Reji-ka no Kanojo ~Kareshi no Tame ni Hataraite ita Watashi ga Tenchou no
+      Seiganku ni natta Riyuu~ | My Cashier Girlfriend ~The Reason I, Who Was Working
+      for My Boyfriend’s Sake, Became the Store Manager’s Sex Toy~
+    author: mashumarodan
+    cover: /covers/643511.jpg
+    rating: 4.3
+    date: '2026-04-12'
+    code: 643511
+    url: /works/643511/
   - title: Sex Between Gloomy Types is the Hottest, Ain't It?
     author: doji-ro
     cover: /covers/646757.jpg

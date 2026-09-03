@@ -1,8 +1,22 @@
 ---
 layout: tag
 tag_name: "double penetration"
-work_count: 15
+work_count: 22
 works:
+  - title: Hitozuma Hyakka
+    author: hase-tsubura
+    cover: /covers/190410.jpg
+    rating: 4.1
+    date: '2026-04-19'
+    code: 190410
+    url: /works/190410/
+  - title: Tsumaduki | With a Wife
+    author: ryuuta
+    cover: /covers/446716.jpg
+    rating: 4.4
+    date: '2026-04-19'
+    code: 446716
+    url: /works/446716/
   - title: Bitch Mama no Kekkon Riyuu
     author: aoyama-akira
     cover: /covers/512473.jpg
@@ -10,6 +24,13 @@ works:
     date: '2026-08-25'
     code: 512473
     url: /works/512473/
+  - title: Netorare x Off-Pako
+    author: group
+    cover: /covers/534663.jpg
+    rating: 4.2
+    date: '2026-04-19'
+    code: 534663
+    url: /works/534663/
   - title: Rena
     author: shinjima-saki
     cover: /covers/537476.jpg
@@ -17,6 +38,13 @@ works:
     date: '2026-07-09'
     code: 537476
     url: /works/537476/
+  - title: Hina-chan wa Papa ga Hoshikatta. | Hina-chan Wanted A Daddy
+    author: ojo
+    cover: /covers/544368.jpg
+    rating: 5.0
+    date: '2026-04-12'
+    code: 544368
+    url: /works/544368/
   - title: Ossan Kirai no Hitozuma Kyoushi ga Nikubenki ni Ochiru Hanashi | Story About
       an Old Man Hating Married Teacher Falling Into Being a Meat Toilet
     author: chinpan
@@ -32,6 +60,20 @@ works:
     date: '2026-08-31'
     code: 595788
     url: /works/595788/
+  - title: Alola no Yoru no Sugata Soushuuhen | Aloha Night Compilation
+    author: kurosu-gatari
+    cover: /covers/609650.jpg
+    rating: 4.5
+    date: '2026-04-21'
+    code: 609650
+    url: /works/609650/
+  - title: Mesu Etsu Toiki Nemoto made Fukaku…
+    author: drill-murata
+    cover: /covers/612957.jpg
+    rating: 4.2
+    date: '2026-04-17'
+    code: 612957
+    url: /works/612957/
   - title: Metamorphosis
     author: shindol
     cover: /covers/616358.jpg
@@ -110,4 +152,11 @@ works:
     date: '2026-08-29'
     code: 676325
     url: /works/676325/
+  - title: Hottokenaino
+    author: hara-shigeyuki
+    cover: /covers/77864.jpg
+    rating: 4.6
+    date: '2026-04-19'
+    code: 77864
+    url: /works/77864/
 ---

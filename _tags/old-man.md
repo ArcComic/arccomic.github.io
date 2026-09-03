@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "old man"
-work_count: 21
+work_count: 30
 works:
   - title: Adoration
     author: kishizuka-kenji
@@ -10,6 +10,13 @@ works:
     date: '2026-05-04'
     code: 112455
     url: /works/112455/
+  - title: Kindan no Hatemitsu
+    author: ryuuta
+    cover: /covers/163039.jpg
+    rating: 4.1
+    date: '2026-04-19'
+    code: 163039
+    url: /works/163039/
   - title: Akumu 4 ~Saitei na Kokuhaku~ | Nightmare 4 ~ Lowest Confession ~
     author: minazuki-mikka
     cover: /covers/435832.jpg
@@ -17,6 +24,27 @@ works:
     date: '2026-04-23'
     code: 435832
     url: /works/435832/
+  - title: Yofukashi no Tsuma ~Murakami Kozue~ | Late-Night Wife ~Murakami Kozue~
+    author: oobayashi-mori
+    cover: /covers/453749.jpg
+    rating: 4.1
+    date: '2026-04-19'
+    code: 453749
+    url: /works/453749/
+  - title: Minpaku ~Ojou-sama-tachi wa Minpaku Keieisha no Wana ni Ochiru~
+    author: kinugasa-yuuichi
+    cover: /covers/478446.jpg
+    rating: 4.7
+    date: '2026-04-14'
+    code: 478446
+    url: /works/478446/
+  - title: Haha Netori
+    author: aoi-hitori
+    cover: /covers/527171.jpg
+    rating: 4.4
+    date: '2026-04-16'
+    code: 527171
+    url: /works/527171/
   - title: Minpaku ~Ojou-sama-tachi wa Minpaku Keieisha no Wana ni Ochiru~ | Sleeping
       in the Bed and Breakfast - Young ladies fall into the trap of a private lodging
       manager
@@ -33,6 +61,13 @@ works:
     date: '2026-07-10'
     code: 550164
     url: /works/550164/
+  - title: '- YOINOAYAMACHI - Part.1'
+    author: sashimi
+    cover: /covers/556895.jpg
+    rating: 4.6
+    date: '2026-03-09'
+    code: 556895
+    url: /works/556895/
   - title: Ojou-sama Sodachi no Namaiki Celeb Zuma o Kitanai Ossan Chinpo de Wakaraseru
       | Cocky Rich Bitch Glam-Wife Gets Taught A Lesson With Dirty Old Man Dick
     author: chinpan
@@ -48,6 +83,27 @@ works:
     date: '2026-04-30'
     code: 566052
     url: /works/566052/
+  - title: Undercover at the Onsen
+    author: yumoteliuce
+    cover: /covers/588862.jpg
+    rating: 4.2
+    date: '2026-03-09'
+    code: 588862
+    url: /works/588862/
+  - title: 母さんはホームヘルパー〜部屋の片付けから性欲処理まで
+    author: '41'
+    cover: /covers/592285.jpg
+    rating: 4.1
+    date: '2026-03-09'
+    code: 592285
+    url: /works/592285/
+  - title: Mama ga Hirottekita Homeless Jiji☆
+    author: rafuro
+    cover: /covers/593017.jpg
+    rating: 4.4
+    date: '2026-03-08'
+    code: 593017
+    url: /works/593017/
   - title: Sinful Lust 4
     author: zetto
     cover: /covers/593064.jpg
@@ -55,6 +111,13 @@ works:
     date: '2026-04-23'
     code: 593064
     url: /works/593064/
+  - title: Kaya-nee and the Old Man Memories
+    author: kon-kit
+    cover: /covers/598144.jpg
+    rating: 4.3
+    date: '2026-03-09'
+    code: 598144
+    url: /works/598144/
   - title: Metamorphosis
     author: shindol
     cover: /covers/616358.jpg

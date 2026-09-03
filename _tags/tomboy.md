@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "tomboy"
-work_count: 17
+work_count: 21
 works:
+  - title: Kizashi
+    author: yoshiura-kazuya
+    cover: /covers/226386.jpg
+    rating: 4.7
+    date: '2026-03-09'
+    code: 226386
+    url: /works/226386/
   - title: Seiten no Hekireki | TS Thunderclap
     author: regdic
     cover: /covers/415057.jpg
@@ -24,6 +31,13 @@ works:
     date: '2026-05-03'
     code: 428415
     url: /works/428415/
+  - title: 'Portio Switch CASE: Varicata Portio | Cervix Switch CASE - Extra-hard Cervix'
+    author: bang-you-didori
+    cover: /covers/452141.jpg
+    rating: 4.4
+    date: '2026-03-07'
+    code: 452141
+    url: /works/452141/
   - title: Obedience Part 1
     author: laliberte
     cover: /covers/501709.jpg
@@ -46,6 +60,21 @@ works:
     date: '2026-08-22'
     code: 586316
     url: /works/586316/
+  - title: Honeori! Osewa Girl♡ | SK8er Girl Lends Me a Hand!
+    author: kyaradain
+    cover: /covers/634609.jpg
+    rating: 4.5
+    date: '2026-03-05'
+    code: 634609
+    url: /works/634609/
+  - title: Kasshoku Buaisou Yakyuu-bu Manager no Yowami Nigitta | I Found the Grumpy,
+      Brown-Skinned Baseball Manager's Weakness
+    author: kitano-onsen
+    cover: /covers/644931.jpg
+    rating: 5.0
+    date: '2026-04-21'
+    code: 644931
+    url: /works/644931/
   - title: Inaka ja Kore ga Joushiki dakara! | This Is Just How Things Are in the Countryside!
     author: chilt
     cover: /covers/646146.jpg

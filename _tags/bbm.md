@@ -1,8 +1,22 @@
 ---
 layout: tag
 tag_name: "bbm"
-work_count: 34
+work_count: 46
 works:
+  - title: Kindan no Hatemitsu
+    author: ryuuta
+    cover: /covers/163039.jpg
+    rating: 4.1
+    date: '2026-04-19'
+    code: 163039
+    url: /works/163039/
+  - title: Tsuma wo Yariman ni Shimasu Shakkin no Tame desu kara.
+    author: pietoro
+    cover: /covers/293478.jpg
+    rating: 4.0
+    date: '2026-04-12'
+    code: 293478
+    url: /works/293478/
   - title: Megane Loli Choukyou Jugyou!! ~Otonashii Megane Lolikko ni Muriyari Dekachin
       Sounyuu~ | The Loli In Glasses' Training Lesson!! ~Force Fucking a Timid Glasses
       Wearing Loli With My Big Cock~ Ch. 1-5
@@ -12,6 +26,27 @@ works:
     date: '2026-07-13'
     code: 358168
     url: /works/358168/
+  - title: Mesu Kagura -Fate Hen 1-
+    author: ishigaki-takashi
+    cover: /covers/431558.jpg
+    rating: 4.4
+    date: '2026-04-21'
+    code: 431558
+    url: /works/431558/
+  - title: Yofukashi no Tsuma ~Murakami Kozue~ | Late-Night Wife ~Murakami Kozue~
+    author: oobayashi-mori
+    cover: /covers/453749.jpg
+    rating: 4.1
+    date: '2026-04-19'
+    code: 453749
+    url: /works/453749/
+  - title: Minpaku ~Ojou-sama-tachi wa Minpaku Keieisha no Wana ni Ochiru~
+    author: kinugasa-yuuichi
+    cover: /covers/478446.jpg
+    rating: 4.7
+    date: '2026-04-14'
+    code: 478446
+    url: /works/478446/
   - title: Obedience Part 1
     author: laliberte
     cover: /covers/501709.jpg
@@ -19,6 +54,13 @@ works:
     date: '2026-07-11'
     code: 501709
     url: /works/501709/
+  - title: Tsuma wa NTR reta gatte iru. 5
+    author: jill
+    cover: /covers/531759.jpg
+    rating: 4.7
+    date: '2026-04-12'
+    code: 531759
+    url: /works/531759/
   - title: Minpaku ~Ojou-sama-tachi wa Minpaku Keieisha no Wana ni Ochiru~ | Sleeping
       in the Bed and Breakfast - Young ladies fall into the trap of a private lodging
       manager
@@ -28,6 +70,13 @@ works:
     date: '2026-07-06'
     code: 543494
     url: /works/543494/
+  - title: Hina-chan wa Papa ga Hoshikatta. | Hina-chan Wanted A Daddy
+    author: ojo
+    cover: /covers/544368.jpg
+    rating: 5.0
+    date: '2026-04-12'
+    code: 544368
+    url: /works/544368/
   - title: Ojou-sama Sodachi no Namaiki Celeb Zuma o Kitanai Ossan Chinpo de Wakaraseru
       | Cocky Rich Bitch Glam-Wife Gets Taught A Lesson With Dirty Old Man Dick
     author: chinpan
@@ -51,6 +100,13 @@ works:
     date: '2026-04-30'
     code: 566052
     url: /works/566052/
+  - title: Hitozuma Netorare Sugano Hinako Hen
+    author: nerumesian
+    cover: /covers/570215.jpg
+    rating: 4.9
+    date: '2026-04-13'
+    code: 570215
+    url: /works/570215/
   - title: Boku no Kaa-chan ga Hikikomori Neet Debu Aniki no Seishori Onaho ni Natteita
       Hanashi | My Mother is My Fat Shut-in Older NEET Brother's Sex Relief Onahole
     author: tarobaumu
@@ -59,6 +115,13 @@ works:
     date: '2026-05-05'
     code: 578147
     url: /works/578147/
+  - title: Undercover at the Onsen
+    author: yumoteliuce
+    cover: /covers/588862.jpg
+    rating: 4.2
+    date: '2026-03-09'
+    code: 588862
+    url: /works/588862/
   - title: Nagachichi Haha no Naedoko
     author: ginen
     cover: /covers/595108.jpg
@@ -88,6 +151,20 @@ works:
     date: '2026-04-30'
     code: 615835
     url: /works/615835/
+  - title: 橘さん家ノ脅迫NTR事情
+    author: group
+    cover: /covers/634198.jpg
+    rating: 5.0
+    date: '2026-03-07'
+    code: 634198
+    url: /works/634198/
+  - title: Mishiranu Boshi ni Yaritai Houdai
+    author: tonda
+    cover: /covers/635363.jpg
+    rating: 4.6
+    date: '2026-03-07'
+    code: 635363
+    url: /works/635363/
   - title: Imouto Oppai de Sukusuku Seikatsu
     author: asaomi-shimura
     cover: /covers/636802.jpg
@@ -95,6 +172,13 @@ works:
     date: '2026-07-13'
     code: 636802
     url: /works/636802/
+  - title: Boku no Kanojo ga Katte ni Seikyouiku Sareteta Hanashi
+    author: unknown
+    cover: /covers/643527.jpg
+    rating: 4.3
+    date: '2026-04-12'
+    code: 643527
+    url: /works/643527/
   - title: Oji Saimin Soushuuhen | Hypnotized Uncle Compilation Edition
     author: tokomaya-keita
     cover: /covers/645612.jpg

@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "shotacon"
-work_count: 55
+work_count: 72
 works:
+  - title: Hitozuma Hyakka
+    author: hase-tsubura
+    cover: /covers/190410.jpg
+    rating: 4.1
+    date: '2026-04-19'
+    code: 190410
+    url: /works/190410/
   - title: Maid no Oshigoto. II | Maid's Work II
     author: alexi-laiho
     cover: /covers/296282.jpg
@@ -32,6 +39,27 @@ works:
     date: '2026-08-24'
     code: 342639
     url: /works/342639/
+  - title: Ayamachi no Rensa
+    author: pororivista
+    cover: /covers/351868.jpg
+    rating: 4.2
+    date: '2026-04-13'
+    code: 351868
+    url: /works/351868/
+  - title: Soubo Soukan | Twin Mother Incest Ch. 1
+    author: nanao-yukiji
+    cover: /covers/356516.jpg
+    rating: 4.0
+    date: '2026-04-23'
+    code: 356516
+    url: /works/356516/
+  - title: Toshishita Chin Kui Obasan
+    author: maccha-neji
+    cover: /covers/387637.jpg
+    rating: 4.0
+    date: '2026-04-19'
+    code: 387637
+    url: /works/387637/
   - title: LOOK LIKE
     author: terasu-mc
     cover: /covers/388099.jpg
@@ -48,6 +76,15 @@ works:
     date: '2026-04-30'
     code: 392475
     url: /works/392475/
+  - title: Tonari no Onee-san no Shitagi o Nusundara Kiseki ga Okita Hanashi o Shiyou
+      |  Let’s Talk About the Story of A Miracle that Happened When I Stole the Underwear
+      of the Lady Next Door
+    author: special-g
+    cover: /covers/443909.jpg
+    rating: 4.3
+    date: '2026-03-05'
+    code: 443909
+    url: /works/443909/
   - title: Toaru Mura no Fudeoroshi Jijou | *séh₂ swédʰh₁eh₂ weyḱósyo
     author: nora-higuma
     cover: /covers/505779.jpg
@@ -55,6 +92,20 @@ works:
     date: '2026-08-23'
     code: 505779
     url: /works/505779/
+  - title: Deisui Chijo Mama | My Mom Gets Drunk and Molests Me
+    author: yuriko-club
+    cover: /covers/508549.jpg
+    rating: 4.5
+    date: '2026-04-15'
+    code: 508549
+    url: /works/508549/
+  - title: Watashi wa Kakerareteru kara... | I've been hypnotized, so...
+    author: kiraku
+    cover: /covers/516164.jpg
+    rating: 4.9
+    date: '2026-04-17'
+    code: 516164
+    url: /works/516164/
   - title: Mukashi no Uwaki Aite no Ko ga Jitsu wa Watashi no Musuko no Doukyuusei de
     author: shomu
     cover: /covers/518121.jpg
@@ -69,6 +120,13 @@ works:
     date: '2026-08-18'
     code: 521812
     url: /works/521812/
+  - title: Ijime Bokumetsu Swapping
+    author: ere-2-earo
+    cover: /covers/536072.jpg
+    rating: 4.7
+    date: '2026-04-19'
+    code: 536072
+    url: /works/536072/
   - title: Ijiwaru Mama Tomo Taisaku | Countermeasures Against Bullying Mothers
     author: chotto-b-sen
     cover: /covers/561436.jpg
@@ -76,6 +134,13 @@ works:
     date: '2026-04-25'
     code: 561436
     url: /works/561436/
+  - title: Kugisaki Anal Otoshi
+    author: ishigaki-takashi
+    cover: /covers/579976.jpg
+    rating: 4.7
+    date: '2026-04-21'
+    code: 579976
+    url: /works/579976/
   - title: Doukyuusei no Kyouiku Mama ni Hitomebore!
     author: chotto-b-sen
     cover: /covers/581704.jpg
@@ -90,6 +155,13 @@ works:
     date: '2026-07-17'
     code: 585515
     url: /works/585515/
+  - title: Chijo Monogatari Henshitsusha (Onna) Shutsubotsu Chuu
+    author: enma
+    cover: /covers/588713.jpg
+    rating: 4.9
+    date: '2026-03-07'
+    code: 588713
+    url: /works/588713/
   - title: Kyoushi to Mama to Koibito no Kao
     author: mifune-seijirou
     cover: /covers/592307.jpg
@@ -104,6 +176,13 @@ works:
     date: '2026-04-25'
     code: 593677
     url: /works/593677/
+  - title: Shounen yo, Watashi o Idake. 少年,抱住我
+    author: torii-yoshitsuna
+    cover: /covers/599514.jpg
+    rating: 4.7
+    date: '2026-04-16'
+    code: 599514
+    url: /works/599514/
   - title: Sono Gal Mama wa Koubi Suru | This Gyaru Mom is Having Sex.
     author: ameto-yuki
     cover: /covers/608648.jpg
@@ -111,6 +190,13 @@ works:
     date: '2026-08-25'
     code: 608648
     url: /works/608648/
+  - title: Alola no Yoru no Sugata Soushuuhen | Aloha Night Compilation
+    author: kurosu-gatari
+    cover: /covers/609650.jpg
+    rating: 4.5
+    date: '2026-04-21'
+    code: 609650
+    url: /works/609650/
   - title: Tomodachi ga Tsuretekita Oba-san 1
     author: exit-up
     cover: /covers/615538.jpg
@@ -141,6 +227,28 @@ works:
     date: '2026-07-17'
     code: 632056
     url: /works/632056/
+  - title: Boku no Mama wa Otouto no Mae de dake Dosukebe ni Naru｜My Mom Turns Into
+      a Slut for My Little Brother, and Him Alone
+    author: asahina-hikage
+    cover: /covers/634591.jpg
+    rating: 4.9
+    date: '2026-03-05'
+    code: 634591
+    url: /works/634591/
+  - title: Jimoto no Dekai Gal
+    author: ueno-meguru
+    cover: /covers/634592.jpg
+    rating: 4.1
+    date: '2026-03-05'
+    code: 634592
+    url: /works/634592/
+  - title: Chijo Monogatari Bakunyuu Chijukujo to Doutei-kun
+    author: enma
+    cover: /covers/635174.jpg
+    rating: 4.6
+    date: '2026-03-07'
+    code: 635174
+    url: /works/635174/
   - title: Oneesan no Chitsu-nai ni Shiroi Oshikko to Kiiroi Oshikko
     author: mosaic-book
     cover: /covers/636807.jpg
@@ -164,6 +272,13 @@ works:
     date: '2026-08-25'
     code: 637847
     url: /works/637847/
+  - title: Sawatte Mitai? | Do You Wanna Touch?
+    author: rondonko
+    cover: /covers/644309.jpg
+    rating: 4.1
+    date: '2026-04-17'
+    code: 644309
+    url: /works/644309/
   - title: 'Moto Mahou Shoujo no Kazoku Banashi Tsuki 2 | Former Magical Girl''s Family
       Story: Tsuki 2'
     author: zhen-lu
@@ -407,4 +522,11 @@ works:
     date: '2026-08-29'
     code: 676458
     url: /works/676458/
+  - title: Jokyoushi - Hot For Teachers | Female Teachers
+    author: drill-murata
+    cover: /covers/81375.jpg
+    rating: 4.9
+    date: '2026-04-18'
+    code: 81375
+    url: /works/81375/
 ---

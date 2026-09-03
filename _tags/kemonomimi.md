@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "kemonomimi"
-work_count: 14
+work_count: 16
 works:
   - title: CHOCO x LOVE
     author: highlow
@@ -19,6 +19,14 @@ works:
     date: '2026-07-13'
     code: 358168
     url: /works/358168/
+  - title: Utakata 2 ~Uraaka DoM Haken OL Onaho Choukyou~ | An Office Lady's Behind
+      The Scenes Masochistic Onahole Training 2
+    author: yuzuri-ai
+    cover: /covers/432301.jpg
+    rating: 4.1
+    date: '2026-04-13'
+    code: 432301
+    url: /works/432301/
   - title: Kichiku Kyoushi ni Otosareta Boku no Seitokaichou Part.3
     author: norakuro-nero
     cover: /covers/557452.jpg
@@ -26,6 +34,13 @@ works:
     date: '2026-08-20'
     code: 557452
     url: /works/557452/
+  - title: Imouto Haramasenai to Derarenai Shima 2
+    author: airandou
+    cover: /covers/643375.jpg
+    rating: 4.4
+    date: '2026-04-12'
+    code: 643375
+    url: /works/643375/
   - title: Oji Saimin Soushuuhen | Hypnotized Uncle Compilation Edition
     author: tokomaya-keita
     cover: /covers/645612.jpg

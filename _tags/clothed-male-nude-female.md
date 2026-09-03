@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "clothed male nude female"
-work_count: 7
+work_count: 8
 works:
   - title: Sensei wa Shougakusei ga Suki | Sensei Loves Elementary Schoolers
     author: fuyuno-mikan
@@ -26,6 +26,14 @@ works:
     date: '2026-04-27'
     code: 416883
     url: /works/416883/
+  - title: Gojou-kun no Koto ga Daishuki Sugite Yona Yona Hakadotte Ita Koto ga Bareta
+      Ken
+    author: naganeko
+    cover: /covers/419235.jpg
+    rating: 4.0
+    date: '2026-04-19'
+    code: 419235
+    url: /works/419235/
   - title: Meshitaki san-nen, nigiri ichi-nen | Three Years to Master Rice, One Year
       to Master Nigiri
     author: polier

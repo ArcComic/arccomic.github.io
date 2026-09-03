@@ -1,8 +1,29 @@
 ---
 layout: tag
 tag_name: "impregnation"
-work_count: 44
+work_count: 70
 works:
+  - title: Overwrite
+    author: ojo
+    cover: /covers/240721.jpg
+    rating: 4.9
+    date: '2026-04-12'
+    code: 240721
+    url: /works/240721/
+  - title: Uragiri no Ai wa Mitsu no Aji | Treacherous Love Tastes Like Honey
+    author: cuzukago
+    cover: /covers/244812.jpg
+    rating: 4.6
+    date: '2026-04-19'
+    code: 244812
+    url: /works/244812/
+  - title: Hito no Tsuma | Someone's Wife
+    author: yumi-ichirou
+    cover: /covers/349247.jpg
+    rating: 4.5
+    date: '2026-04-17'
+    code: 349247
+    url: /works/349247/
   - title: LOOK LIKE
     author: terasu-mc
     cover: /covers/388099.jpg
@@ -17,6 +38,22 @@ works:
     date: '2026-07-10'
     code: 398305
     url: /works/398305/
+  - title: Netorase ~Tsuma no Ichiban Kirei na Hi~ | Netorase - My wife's most beautiful
+      day
+    author: sakagami-umi
+    cover: /covers/398854.jpg
+    rating: 4.6
+    date: '2026-04-19'
+    code: 398854
+    url: /works/398854/
+  - title: Kaisha no Iki Okure BBA Haramaseta | [Tragic News] I Knocked Up The Old Maid
+      From My Office
+    author: special-g
+    cover: /covers/409929.jpg
+    rating: 4.4
+    date: '2026-03-05'
+    code: 409929
+    url: /works/409929/
   - title: NTR Anniversary + ) [Syukurin] Mitsuha ~Netorare~ (Kimi no Na wa.) [English]
       [Colorized] by Mikaku
     author: arakure
@@ -25,6 +62,13 @@ works:
     date: '2026-04-27'
     code: 414206
     url: /works/414206/
+  - title: Hito o Dame ni Suru Choi Busu ~Kao 40-ten, Karada 120-ten no Kanojo~
+    author: special-g
+    cover: /covers/414892.jpg
+    rating: 4.0
+    date: '2026-03-05'
+    code: 414892
+    url: /works/414892/
   - title: 'Misunderstanding Love Hotel Netorare [Arakure] & Kimi no na wa: After Story
       - Mitsuha ~Netorare~'
     author: arakure
@@ -40,6 +84,29 @@ works:
     date: '2026-07-15'
     code: 427676
     url: /works/427676/
+  - title: Mesu Kagura -Fate Hen 1-
+    author: ishigaki-takashi
+    cover: /covers/431558.jpg
+    rating: 4.4
+    date: '2026-04-21'
+    code: 431558
+    url: /works/431558/
+  - title: netoraretekite, ii desu yo.
+    author: nt-robo
+    cover: /covers/432513.jpg
+    rating: 4.9
+    date: '2026-04-12'
+    code: 432513
+    url: /works/432513/
+  - title: Tonari no Onee-san no Shitagi o Nusundara Kiseki ga Okita Hanashi o Shiyou
+      |  Let’s Talk About the Story of A Miracle that Happened When I Stole the Underwear
+      of the Lady Next Door
+    author: special-g
+    cover: /covers/443909.jpg
+    rating: 4.3
+    date: '2026-03-05'
+    code: 443909
+    url: /works/443909/
   - title: Kaa-san ni wa Ore no Ko o Unde Morau | My mother is going to have my baby
     author: matsumoto-jikyuuryoku
     cover: /covers/444152.jpg
@@ -47,6 +114,28 @@ works:
     date: '2026-08-24'
     code: 444152
     url: /works/444152/
+  - title: Yofukashi no Tsuma ~Murakami Kozue~ | Late-Night Wife ~Murakami Kozue~
+    author: oobayashi-mori
+    cover: /covers/453749.jpg
+    rating: 4.1
+    date: '2026-04-19'
+    code: 453749
+    url: /works/453749/
+  - title: Yarareru kanojo - Hitozumajoushi ManaNTR -
+    author: tokyo-gunjo
+    cover: /covers/465602.jpg
+    rating: 4.7
+    date: '2026-04-19'
+    code: 465602
+    url: /works/465602/
+  - title: Tsuma ga, Tanin no Mesu ni naru made -Short Cut Kyonyuu Tsuma Sasaki Misaki
+      Hen-
+    author: haruhisky
+    cover: /covers/470023.jpg
+    rating: 4.6
+    date: '2026-04-19'
+    code: 470023
+    url: /works/470023/
   - title: Little Blue Bird
     author: kidouchi-kon
     cover: /covers/508534.jpg
@@ -54,6 +143,13 @@ works:
     date: '2026-05-01'
     code: 508534
     url: /works/508534/
+  - title: Ijime Bokumetsu Swapping
+    author: ere-2-earo
+    cover: /covers/536072.jpg
+    rating: 4.7
+    date: '2026-04-19'
+    code: 536072
+    url: /works/536072/
   - title: Dansei ga Kyokutan ni Sukunai Kono Sekai de wa, Seishi wa Kichou na Shigen
       desu. Sono 2 | In a World Where Men Are Scarce, Sperm Is a Precious Resource 2
     author: group
@@ -85,6 +181,20 @@ works:
     date: '2026-04-30'
     code: 566052
     url: /works/566052/
+  - title: Boku no Mama to Takuhai no Onii-san ga.
+    author: yuriko-club
+    cover: /covers/577221.jpg
+    rating: 4.1
+    date: '2026-04-15'
+    code: 577221
+    url: /works/577221/
+  - title: My AR glasses can see various stats about my foster sister?!
+    author: pz-x
+    cover: /covers/589010.jpg
+    rating: 4.5
+    date: '2026-04-15'
+    code: 589010
+    url: /works/589010/
   - title: Mesu no Ie II ~Tsuma wa Midare Ubareru~
     author: ame-arare
     cover: /covers/591112.jpg
@@ -92,6 +202,14 @@ works:
     date: '2026-05-01'
     code: 591112
     url: /works/591112/
+  - title: '"Yasashii Dake no Otoko" to Tsuma ni Sute Raretanode... | My Wife Left Me
+      Because I was "Too Gentle"...'
+    author: special-g
+    cover: /covers/593456.jpg
+    rating: 4.4
+    date: '2026-03-05'
+    code: 593456
+    url: /works/593456/
   - title: Metamorphosis
     author: shindol
     cover: /covers/616358.jpg
@@ -106,6 +224,44 @@ works:
     date: '2026-07-06'
     code: 630901
     url: /works/630901/
+  - title: 橘さん家ノ脅迫NTR事情
+    author: group
+    cover: /covers/634198.jpg
+    rating: 5.0
+    date: '2026-03-07'
+    code: 634198
+    url: /works/634198/
+  - title: 'GNO: Girl''s Night Out - Issue 02'
+    author: uselessbegging
+    cover: /covers/634464.jpg
+    rating: 4.0
+    date: '2026-03-07'
+    code: 634464
+    url: /works/634464/
+  - title: Boku no Mama wa Otouto no Mae de dake Dosukebe ni Naru｜My Mom Turns Into
+      a Slut for My Little Brother, and Him Alone
+    author: asahina-hikage
+    cover: /covers/634591.jpg
+    rating: 4.9
+    date: '2026-03-05'
+    code: 634591
+    url: /works/634591/
+  - title: Siblings Shouldn't Do It! | Kyoudai de Shitara Ikemasen
+    author: fence-14
+    cover: /covers/635266.jpg
+    rating: 4.7
+    date: '2026-03-07'
+    code: 635266
+    url: /works/635266/
+  - title: Ore ga Dairi Tanetsuke Suru Koto ni Natta Hitozuma Tachibana Shizuka-san
+      wa Nannimo Shiranai!! Sono 2 | | Shizuka Tachibana, the Housewife Who Collects
+      My Sperm Donations, Doesn’t Know a Damn Thing!! Chapter 2
+    author: date-roku
+    cover: /covers/636122.jpg
+    rating: 4.5
+    date: '2026-03-11'
+    code: 636122
+    url: /works/636122/
   - title: Imouto Oppai de Sukusuku Seikatsu
     author: asaomi-shimura
     cover: /covers/636802.jpg
@@ -127,6 +283,35 @@ works:
     date: '2026-05-05'
     code: 638218
     url: /works/638218/
+  - title: Yariman no Namaiki Kouhai to Tsukiau made no Hanashi.
+    author: tokyo-gunjo
+    cover: /covers/638929.jpg
+    rating: 4.1
+    date: '2026-04-19'
+    code: 638929
+    url: /works/638929/
+  - title: Kaa-san to Sex Shita Mikkakan | Three Days of Sex with My Mom
+    author: unknown
+    cover: /covers/639194.jpg
+    rating: 4.3
+    date: '2026-04-15'
+    code: 639194
+    url: /works/639194/
+  - title: Imouto Haramasenai to Derarenai Shima 2
+    author: airandou
+    cover: /covers/643375.jpg
+    rating: 4.4
+    date: '2026-04-12'
+    code: 643375
+    url: /works/643375/
+  - title: DeliHeal Yondara Moto Doukyuusei ga Kita 2 |  I Called an Escort and My Former
+      Classmate Showed Up 2
+    author: unknown
+    cover: /covers/645136.jpg
+    rating: 4.1
+    date: '2026-04-21'
+    code: 645136
+    url: /works/645136/
   - title: Doutei Daisuki Jogakusei-chan, Zetsurin Doutei ni Haiboku suru -One More!-
       | The Virgin-Killer Girl is Defeated by the Insatiable Virgin ―One More!―
     author: macaron-sugar
@@ -332,4 +517,11 @@ works:
     date: '2026-08-29'
     code: 676439
     url: /works/676439/
+  - title: Inin Keiyaku | Lewd Pregnancy Contract
+    author: yoshiura-kazuya
+    cover: /covers/83595.jpg
+    rating: 4.2
+    date: '2026-03-11'
+    code: 83595
+    url: /works/83595/
 ---

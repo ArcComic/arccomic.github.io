@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "hair buns"
-work_count: 14
+work_count: 20
 works:
   - title: Maid no Oshigoto. II | Maid's Work II
     author: alexi-laiho
@@ -17,6 +17,28 @@ works:
     date: '2026-08-24'
     code: 392617
     url: /works/392617/
+  - title: Provoking Men 1-8
+    author: pororivista
+    cover: /covers/458903.jpg
+    rating: 4.5
+    date: '2026-04-13'
+    code: 458903
+    url: /works/458903/
+  - title: Boku no Chuugoku Bijin Slender Kyonyuu Tsuma ga Camera Model de Nugasarete
+      Yarichin Tomo ni Netorareta Ken
+    author: mitoreiyu
+    cover: /covers/492657.jpg
+    rating: 4.1
+    date: '2026-04-12'
+    code: 492657
+    url: /works/492657/
+  - title: SeFri no Senpai | 學姐是我的炮友
+    author: gen
+    cover: /covers/494440.jpg
+    rating: 4.3
+    date: '2026-03-09'
+    code: 494440
+    url: /works/494440/
   - title: Moto Mahou Shoujo no Hikikomori Seikatsu | The NEET Life of a Former Magical
       Girl
     author: zhen-lu
@@ -43,6 +65,13 @@ works:
     date: '2026-08-20'
     code: 510022
     url: /works/510022/
+  - title: Neteiru Okaa-san o Yaritai Houdai!
+    author: natsume-benkei
+    cover: /covers/544993.jpg
+    rating: 4.9
+    date: '2026-04-13'
+    code: 544993
+    url: /works/544993/
   - title: Boku no Kaa-chan 2 | My Mom 2
     author: cammy
     cover: /covers/579339.jpg
@@ -50,6 +79,13 @@ works:
     date: '2026-04-25'
     code: 579339
     url: /works/579339/
+  - title: Chorozako Kanojo no Aina-chan -Mucchiri Gal to Ichalove H suru Hanashi-
+    author: tokyo-gunjo
+    cover: /covers/580427.jpg
+    rating: 4.6
+    date: '2026-04-19'
+    code: 580427
+    url: /works/580427/
   - title: A tsundere girl who loves dick cheese and speaks Kansai dialect
     author: yuuki-fuumi
     cover: /covers/630901.jpg
@@ -57,6 +93,14 @@ works:
     date: '2026-07-06'
     code: 630901
     url: /works/630901/
+  - title: Boku no Daisuki na Kaa-san to Omou Zonbun Sex Dekiru Hi 4 | My Fabulous Fuck
+      Day with My Amazing Mommy 4
+    author: higehurai
+    cover: /covers/634178.jpg
+    rating: 5.0
+    date: '2026-03-05'
+    code: 634178
+    url: /works/634178/
   - title: Kounai de Ichiban Kawaikute Ichiban Oppai ga Dekakute Ichiban Okazu ni Sareteru
       Ichiban Sukebe na Etou-san - Eto-san is the cutest, has the biggest tits, is the
       most masturbatory target, and is the most naughty in the school. | 在校內最可愛、胸部最大、最常被當做性幻想對象、最淫蕩的江藤同學

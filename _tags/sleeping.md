@@ -1,8 +1,22 @@
 ---
 layout: tag
 tag_name: "sleeping"
-work_count: 24
+work_count: 34
 works:
+  - title: Netemo Sametemo | Be it Sleeping or Awake
+    author: takasugi-kou
+    cover: /covers/272352.jpg
+    rating: 4.3
+    date: '2026-04-13'
+    code: 272352
+    url: /works/272352/
+  - title: Ayamachi no Rensa
+    author: pororivista
+    cover: /covers/351868.jpg
+    rating: 4.2
+    date: '2026-04-13'
+    code: 351868
+    url: /works/351868/
   - title: Megane Loli Choukyou Jugyou!! ~Otonashii Megane Lolikko ni Muriyari Dekachin
       Sounyuu~ | The Loli In Glasses' Training Lesson!! ~Force Fucking a Timid Glasses
       Wearing Loli With My Big Cock~ Ch. 1-5
@@ -12,6 +26,13 @@ works:
     date: '2026-07-13'
     code: 358168
     url: /works/358168/
+  - title: Kagesawa Mura no Akai Kagi tada <hottan>
+    author: chiba-shuusaku
+    cover: /covers/359864.jpg
+    rating: 4.7
+    date: '2026-04-17'
+    code: 359864
+    url: /works/359864/
   - title: Imouto no Nukumori | A Little Sister's warmth
     author: kinomoto-anzu
     cover: /covers/407959.jpg
@@ -35,6 +56,13 @@ works:
     date: '2026-04-27'
     code: 416883
     url: /works/416883/
+  - title: Provoking Men 1-8
+    author: pororivista
+    cover: /covers/458903.jpg
+    rating: 4.5
+    date: '2026-04-13'
+    code: 458903
+    url: /works/458903/
   - title: Neteru Onii-chan no Are o Kariru Hanashi
     author: tiger
     cover: /covers/476399.jpg
@@ -42,6 +70,20 @@ works:
     date: '2026-07-10'
     code: 476399
     url: /works/476399/
+  - title: Minpaku ~Ojou-sama-tachi wa Minpaku Keieisha no Wana ni Ochiru~
+    author: kinugasa-yuuichi
+    cover: /covers/478446.jpg
+    rating: 4.7
+    date: '2026-04-14'
+    code: 478446
+    url: /works/478446/
+  - title: Ijime no Daishou wa Hahaoya no Karada de.
+    author: daidai-shikibu
+    cover: /covers/482859.jpg
+    rating: 4.1
+    date: '2026-04-16'
+    code: 482859
+    url: /works/482859/
   - title: Inemuri-chou no Onna Joushi ni Kossori Sounyuu ( ※ Netafuri Shinagara Ittemashita)
       1-3 | Stealthily Fucking My Dozing Boss (She Came While Pretending to Sleep) 1-3
     author: nanakusa-amane
@@ -66,6 +108,20 @@ works:
     date: '2026-07-06'
     code: 543494
     url: /works/543494/
+  - title: Neteiru Okaa-san o Yaritai Houdai!
+    author: natsume-benkei
+    cover: /covers/544993.jpg
+    rating: 4.9
+    date: '2026-04-13'
+    code: 544993
+    url: /works/544993/
+  - title: '- YOINOAYAMACHI - Part.1'
+    author: sashimi
+    cover: /covers/556895.jpg
+    rating: 4.6
+    date: '2026-03-09'
+    code: 556895
+    url: /works/556895/
   - title: Ore ga Hoshikatta Mono wa Kin Medal Yori Namami Onaho Datta no Kamoshirenai｜Maybe
       what I Wanted was a Flesh and Blood Masturbator Rather than a Gold Medal
     author: carburetor
@@ -81,6 +137,13 @@ works:
     date: '2026-04-27'
     code: 587827
     url: /works/587827/
+  - title: Kaya-nee and the Old Man Memories
+    author: kon-kit
+    cover: /covers/598144.jpg
+    rating: 4.3
+    date: '2026-03-09'
+    code: 598144
+    url: /works/598144/
   - title: Hokenshitsu no Futon no Naka de Satori Sedai JK to Naisho H!
     author: niji-teru
     cover: /covers/606725.jpg
@@ -103,6 +166,13 @@ works:
     date: '2026-08-25'
     code: 611978
     url: /works/611978/
+  - title: Siblings Shouldn't Do It! | Kyoudai de Shitara Ikemasen
+    author: fence-14
+    cover: /covers/635266.jpg
+    rating: 4.7
+    date: '2026-03-07'
+    code: 635266
+    url: /works/635266/
   - title: Oyasumi Kaa-san
     author: daidai-shikibu
     cover: /covers/643933.jpg

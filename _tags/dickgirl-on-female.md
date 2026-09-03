@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "dickgirl on female"
-work_count: 4
+work_count: 5
 works:
   - title: Tempt & Throb
     author: mushihara
@@ -24,6 +24,13 @@ works:
     date: '2026-07-08'
     code: 505174
     url: /works/505174/
+  - title: 'GNO: Girl''s Night Out - Issue 02'
+    author: uselessbegging
+    cover: /covers/634464.jpg
+    rating: 4.0
+    date: '2026-03-07'
+    code: 634464
+    url: /works/634464/
   - title: Futanari Jinja wa Otome Ochinpo Soudanjo
     author: yukito
     cover: /covers/674328.jpg

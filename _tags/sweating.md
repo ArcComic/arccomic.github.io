@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "sweating"
-work_count: 57
+work_count: 82
 works:
+  - title: Kaisha de Iroiro | Gettin' Busy at the Office
+    author: hara-shigeyuki
+    cover: /covers/110835.jpg
+    rating: 4.7
+    date: '2026-04-19'
+    code: 110835
+    url: /works/110835/
   - title: Adoration
     author: kishizuka-kenji
     cover: /covers/112455.jpg
@@ -10,6 +17,29 @@ works:
     date: '2026-05-04'
     code: 112455
     url: /works/112455/
+  - title: Natsu dake Koibito - Summer only Lover [English] =Forbidden Fetish + Ser
+      Maggot=
+    author: yoshiura-kazuya
+    cover: /covers/237456.jpg
+    rating: 4.9
+    date: '2026-03-11'
+    code: 237456
+    url: /works/237456/
+  - title: Sakura Shunin wa Dekiru Hito
+    author: yoshiura-kazuya
+    cover: /covers/302117.jpg
+    rating: 4.1
+    date: '2026-03-09'
+    code: 302117
+    url: /works/302117/
+  - title: Single Mother to Issho ni - Boku no Mamakatsu! 1 | Together with a single
+      mother - My sugarmama! 1
+    author: azukiko
+    cover: /covers/304548.jpg
+    rating: 4.7
+    date: '2026-04-16'
+    code: 304548
+    url: /works/304548/
   - title: CHOCO x LOVE
     author: highlow
     cover: /covers/317673.jpg
@@ -17,6 +47,20 @@ works:
     date: '2026-07-09'
     code: 317673
     url: /works/317673/
+  - title: Hito no Tsuma | Someone's Wife
+    author: yumi-ichirou
+    cover: /covers/349247.jpg
+    rating: 4.5
+    date: '2026-04-17'
+    code: 349247
+    url: /works/349247/
+  - title: Soubo Soukan | Twin Mother Incest Ch. 1
+    author: nanao-yukiji
+    cover: /covers/356516.jpg
+    rating: 4.0
+    date: '2026-04-23'
+    code: 356516
+    url: /works/356516/
   - title: Yurikago
     author: neko-samurai
     cover: /covers/398305.jpg
@@ -32,6 +76,20 @@ works:
     date: '2026-05-05'
     code: 419017
     url: /works/419017/
+  - title: netoraretekite, ii desu yo.
+    author: nt-robo
+    cover: /covers/432513.jpg
+    rating: 4.9
+    date: '2026-04-12'
+    code: 432513
+    url: /works/432513/
+  - title: Tsumaduki | With a Wife
+    author: ryuuta
+    cover: /covers/446716.jpg
+    rating: 4.4
+    date: '2026-04-19'
+    code: 446716
+    url: /works/446716/
   - title: What would happen if you said "Let's have sex." while your teacher was scolding
       you?
     author: chotto-b-sen
@@ -40,6 +98,13 @@ works:
     date: '2026-04-25'
     code: 463298
     url: /works/463298/
+  - title: Yarareru kanojo - Hitozumajoushi ManaNTR -
+    author: tokyo-gunjo
+    cover: /covers/465602.jpg
+    rating: 4.7
+    date: '2026-04-19'
+    code: 465602
+    url: /works/465602/
   - title: Konoe no Kyuujitsu | Konoe's Day Off
     author: alp
     cover: /covers/479447.jpg
@@ -61,6 +126,13 @@ works:
     date: '2026-07-11'
     code: 501709
     url: /works/501709/
+  - title: Kinpatsu Chounyuu Gal ni Gyaku Deriheru Atsukai Sarete Iru Ore no Hanashi
+    author: uni-toshiki
+    cover: /covers/502694.jpg
+    rating: 4.2
+    date: '2026-03-04'
+    code: 502694
+    url: /works/502694/
   - title: Hitozuma Volley-bu no Asedaku SEX ~Shower Abinagara Micchaku Shichau? 1-2
       | Married Women's Volleyball Club Sweaty Sex - We're Being Glued Together While
       Taking A Shower? 1-2
@@ -85,6 +157,20 @@ works:
     date: '2026-04-25'
     code: 562615
     url: /works/562615/
+  - title: Chijo Monogatari Henshitsusha (Onna) Shutsubotsu Chuu
+    author: enma
+    cover: /covers/588713.jpg
+    rating: 4.9
+    date: '2026-03-07'
+    code: 588713
+    url: /works/588713/
+  - title: Shounen yo, Watashi o Idake. 少年,抱住我
+    author: torii-yoshitsuna
+    cover: /covers/599514.jpg
+    rating: 4.7
+    date: '2026-04-16'
+    code: 599514
+    url: /works/599514/
   - title: Otoko no Ko otodokeshimasu! ~Itsumo kuru Haitatsuin-san ga masaka no Otoko
       no Ko dattakedo mayowazu hameta~
     author: mitsujirou
@@ -110,6 +196,49 @@ works:
     date: '2026-07-10'
     code: 633278
     url: /works/633278/
+  - title: Opportunity for Zaychik
+    author: eggutarto-sunnyside524
+    cover: /covers/634157.jpg
+    rating: 4.9
+    date: '2026-03-04'
+    code: 634157
+    url: /works/634157/
+  - title: Boku no Daisuki na Kaa-san to Omou Zonbun Sex Dekiru Hi 4 | My Fabulous Fuck
+      Day with My Amazing Mommy 4
+    author: higehurai
+    cover: /covers/634178.jpg
+    rating: 5.0
+    date: '2026-03-05'
+    code: 634178
+    url: /works/634178/
+  - title: 'GNO: Girl''s Night Out - Issue 02'
+    author: uselessbegging
+    cover: /covers/634464.jpg
+    rating: 4.0
+    date: '2026-03-07'
+    code: 634464
+    url: /works/634464/
+  - title: Jimoto no Dekai Gal
+    author: ueno-meguru
+    cover: /covers/634592.jpg
+    rating: 4.1
+    date: '2026-03-05'
+    code: 634592
+    url: /works/634592/
+  - title: Jimoto no Dekai Gal 2
+    author: ueno-meguru
+    cover: /covers/634593.jpg
+    rating: 4.9
+    date: '2026-03-07'
+    code: 634593
+    url: /works/634593/
+  - title: Siblings Shouldn't Do It! | Kyoudai de Shitara Ikemasen
+    author: fence-14
+    cover: /covers/635266.jpg
+    rating: 4.7
+    date: '2026-03-07'
+    code: 635266
+    url: /works/635266/
   - title: Curiosity and the Cost of Innocence
     author: hoshi-to-lucky
     cover: /covers/637110.jpg
@@ -131,6 +260,45 @@ works:
     date: '2026-04-27'
     code: 642793
     url: /works/642793/
+  - title: My Childhood Friend Twins Become Another Man’s Onahole 1-3
+    author: unknown
+    cover: /covers/643193.jpg
+    rating: 4.7
+    date: '2026-04-11'
+    code: 643193
+    url: /works/643193/
+  - title: LeveChi na Swapping 3 ~Honrosareru Fuufu Hen~ | Swapping on a Whole New Level
+      3 ~The Couple At The Mercy Of Others~
+    author: hikitogu
+    cover: /covers/643397.jpg
+    rating: 5.0
+    date: '2026-04-12'
+    code: 643397
+    url: /works/643397/
+  - title: The Story Of How I Peeked On A Cheeky Elementary Schooler Brat Masturbating
+      And Ended Up Having Sweet Sex | Namaiki Kusogaki js no Onanie Nozoitara Amaama
+      Sex Dekita Hanashi
+    author: yonketa
+    cover: /covers/643682.jpg
+    rating: 4.5
+    date: '2026-04-13'
+    code: 643682
+    url: /works/643682/
+  - title: 'Otto no Shakkin Nakadashi Hensai Gifu ni Mi o Uru Komochi Tsuma | My Husband’s
+      Debt: A Wife Sells Herself to Her Father-in-Law as Creampie Repayment'
+    author: onodera
+    cover: /covers/644028.jpg
+    rating: 4.0
+    date: '2026-04-15'
+    code: 644028
+    url: /works/644028/
+  - title: Tsukatsuki Rio no Maid Seikatsu
+    author: prime
+    cover: /covers/644300.jpg
+    rating: 4.1
+    date: '2026-04-16'
+    code: 644300
+    url: /works/644300/
   - title: Delusion story book
     author: madarame-rin
     cover: /covers/644810.jpg
@@ -138,6 +306,22 @@ works:
     date: '2026-05-03'
     code: 644810
     url: /works/644810/
+  - title: Kasshoku Buaisou Yakyuu-bu Manager no Yowami Nigitta | I Found the Grumpy,
+      Brown-Skinned Baseball Manager's Weakness
+    author: kitano-onsen
+    cover: /covers/644931.jpg
+    rating: 5.0
+    date: '2026-04-21'
+    code: 644931
+    url: /works/644931/
+  - title: Ane Mama ~ Atarashii Onee-chan to Mama wa Ore no Sex Friend ni Narimashita.
+      ~
+    author: group
+    cover: /covers/645383.jpg
+    rating: 4.3
+    date: '2026-04-23'
+    code: 645383
+    url: /works/645383/
   - title: Kounai de Ichiban Kawaikute Ichiban Oppai ga Dekakute Ichiban Okazu ni Sareteru
       Ichiban Sukebe na Etou-san - Eto-san is the cutest, has the biggest tits, is the
       most masturbatory target, and is the most naughty in the school. | 在校內最可愛、胸部最大、最常被當做性幻想對象、最淫蕩的江藤同學

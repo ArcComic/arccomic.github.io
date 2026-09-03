@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "ponytail"
-work_count: 63
+work_count: 81
 works:
+  - title: Boku no Kazoku o Sarashimasu Ch. 3
+    author: tanaka-aji
+    cover: /covers/297068.jpg
+    rating: 4.2
+    date: '2026-04-16'
+    code: 297068
+    url: /works/297068/
   - title: CHOCO x LOVE
     author: highlow
     cover: /covers/317673.jpg
@@ -10,6 +17,20 @@ works:
     date: '2026-07-09'
     code: 317673
     url: /works/317673/
+  - title: Kono Furin wa Otto no Tame "Anata, Yurushite…." To, Netorareru Tsuma | 這場外遇是為了老公「親愛的，原諒我…」這樣說著，為老公戴綠帽的妻子
+    author: korosuke
+    cover: /covers/328805.jpg
+    rating: 5.0
+    date: '2026-04-12'
+    code: 328805
+    url: /works/328805/
+  - title: Toshishita Chin Kui Obasan
+    author: maccha-neji
+    cover: /covers/387637.jpg
+    rating: 4.0
+    date: '2026-04-19'
+    code: 387637
+    url: /works/387637/
   - title: LOOK LIKE
     author: terasu-mc
     cover: /covers/388099.jpg
@@ -25,6 +46,29 @@ works:
     date: '2026-04-27'
     code: 416883
     url: /works/416883/
+  - title: Yasashii Oba-san Yarashii Oba-san | Kind Lady, Dirty Lady Ch. 1-3
+    author: hidemaru
+    cover: /covers/421874.jpg
+    rating: 4.6
+    date: '2026-04-16'
+    code: 421874
+    url: /works/421874/
+  - title: Tonari no Onee-san no Shitagi o Nusundara Kiseki ga Okita Hanashi o Shiyou
+      |  Let’s Talk About the Story of A Miracle that Happened When I Stole the Underwear
+      of the Lady Next Door
+    author: special-g
+    cover: /covers/443909.jpg
+    rating: 4.3
+    date: '2026-03-05'
+    code: 443909
+    url: /works/443909/
+  - title: Ladies Night
+    author: mr-kurz
+    cover: /covers/446018.jpg
+    rating: 4.9
+    date: '2026-03-07'
+    code: 446018
+    url: /works/446018/
   - title: Sukina Hito, Sukina Koto
     author: ebi-fry-teishoku
     cover: /covers/452482.jpg
@@ -90,6 +134,22 @@ works:
     date: '2026-04-30'
     code: 555849
     url: /works/555849/
+  - title: Kou demo Shinakya Akigumo-san 25-sai ga Teitoku to Hameru Kikai Isshou Konai
+      desho | If She Doesn’t Do This, 25-Year-Old Akigumo-san Will Never Get the Chance
+      to Fuck the Admiral, Right?
+    author: bouko
+    cover: /covers/567843.jpg
+    rating: 4.9
+    date: '2026-04-17'
+    code: 567843
+    url: /works/567843/
+  - title: Hitozuma Netorare Sugano Hinako Hen
+    author: nerumesian
+    cover: /covers/570215.jpg
+    rating: 4.9
+    date: '2026-04-13'
+    code: 570215
+    url: /works/570215/
   - title: Nanami-chan can’t resist after a date! Cafe, Cinema, Love hotel~
     author: a2me
     cover: /covers/579819.jpg
@@ -97,6 +157,21 @@ works:
     date: '2026-04-25'
     code: 579819
     url: /works/579819/
+  - title: My AR glasses can see various stats about my foster sister?!
+    author: pz-x
+    cover: /covers/589010.jpg
+    rating: 4.5
+    date: '2026-04-15'
+    code: 589010
+    url: /works/589010/
+  - title: '"Yasashii Dake no Otoko" to Tsuma ni Sute Raretanode... | My Wife Left Me
+      Because I was "Too Gentle"...'
+    author: special-g
+    cover: /covers/593456.jpg
+    rating: 4.4
+    date: '2026-03-05'
+    code: 593456
+    url: /works/593456/
   - title: Yuujin no Haha wa Dekachin ni Yowai | My Friend's Mom is Weak to a Huge Cock
     author: shimofuri
     cover: /covers/593575.jpg
@@ -119,6 +194,13 @@ works:
     date: '2026-07-16'
     code: 605410
     url: /works/605410/
+  - title: Mesu Etsu Toiki Nemoto made Fukaku…
+    author: drill-murata
+    cover: /covers/612957.jpg
+    rating: 4.2
+    date: '2026-04-17'
+    code: 612957
+    url: /works/612957/
   - title: Eroi Koto Igai de Toki o Tomete wa Dame desu yo 2
     author: ohkura-kazuya
     cover: /covers/615835.jpg
@@ -150,6 +232,27 @@ works:
     date: '2026-07-17'
     code: 632056
     url: /works/632056/
+  - title: Opportunity for Zaychik
+    author: eggutarto-sunnyside524
+    cover: /covers/634157.jpg
+    rating: 4.9
+    date: '2026-03-04'
+    code: 634157
+    url: /works/634157/
+  - title: Koukan Nikki ー School Whore Diaries
+    author: henkuma
+    cover: /covers/634328.jpg
+    rating: 4.8
+    date: '2026-03-07'
+    code: 634328
+    url: /works/634328/
+  - title: 'Portio switch CASE: Natsumi'
+    author: bang-you-didori
+    cover: /covers/634677.jpg
+    rating: 5.0
+    date: '2026-03-05'
+    code: 634677
+    url: /works/634677/
   - title: Noa-chan to Ichaicha suru Hon
     author: remora
     cover: /covers/635512.jpg
@@ -157,6 +260,15 @@ works:
     date: '2026-08-22'
     code: 635512
     url: /works/635512/
+  - title: Ore ga Dairi Tanetsuke Suru Koto ni Natta Hitozuma Tachibana Shizuka-san
+      wa Nannimo Shiranai!! Sono 2 | | Shizuka Tachibana, the Housewife Who Collects
+      My Sperm Donations, Doesn’t Know a Damn Thing!! Chapter 2
+    author: date-roku
+    cover: /covers/636122.jpg
+    rating: 4.5
+    date: '2026-03-11'
+    code: 636122
+    url: /works/636122/
   - title: Onsen Haitte tara Joseito-tachi ga Osotte Kita | My Students Jumped Me When
       I Got in the Hot Spring
     author: hamo
@@ -165,6 +277,20 @@ works:
     date: '2026-08-20'
     code: 639463
     url: /works/639463/
+  - title: My Childhood Friend Twins Become Another Man’s Onahole 1-3
+    author: unknown
+    cover: /covers/643193.jpg
+    rating: 4.7
+    date: '2026-04-11'
+    code: 643193
+    url: /works/643193/
+  - title: Prefab
+    author: lioreo
+    cover: /covers/643975.jpg
+    rating: 4.6
+    date: '2026-04-15'
+    code: 643975
+    url: /works/643975/
   - title: The story of how a busty, older teacher girlfriend gets seduced and cheated
       on by the principal with a huge penis.
     author: munioni
@@ -173,6 +299,13 @@ works:
     date: '2026-07-06'
     code: 644296
     url: /works/644296/
+  - title: Ecchi na Onee-san-tachi ni Onsenyado de Hokakusareta Ken
+    author: ishigaki-takashi
+    cover: /covers/644924.jpg
+    rating: 4.9
+    date: '2026-04-21'
+    code: 644924
+    url: /works/644924/
   - title: 'YariCir Shingakki ni Boku no Heya wa Minna no Tamariba (Omake Ver.) - Fuck
       Club: New Term! My Room''s A Hangout Spot For Everyone'
     author: purumetal

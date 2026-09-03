@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "tall man"
-work_count: 15
+work_count: 20
 works:
+  - title: Kono Furin wa Otto no Tame "Anata, Yurushite…." To, Netorareru Tsuma | 這場外遇是為了老公「親愛的，原諒我…」這樣說著，為老公戴綠帽的妻子
+    author: korosuke
+    cover: /covers/328805.jpg
+    rating: 5.0
+    date: '2026-04-12'
+    code: 328805
+    url: /works/328805/
   - title: LOOK LIKE
     author: terasu-mc
     cover: /covers/388099.jpg
@@ -10,6 +17,13 @@ works:
     date: '2026-04-25'
     code: 388099
     url: /works/388099/
+  - title: Akogare datta, Sagara-san.
+    author: tokyo-gunjo
+    cover: /covers/487275.jpg
+    rating: 4.2
+    date: '2026-04-19'
+    code: 487275
+    url: /works/487275/
   - title: Onozomi deshitara Saimin wo ~Maki-san Himitsu no Renai Therapy~ | If you
       wish, hypnosis ~Maki-san's secret love therapy~
     author: meeko
@@ -26,6 +40,13 @@ works:
     date: '2026-05-03'
     code: 534823
     url: /works/534823/
+  - title: My Thousand Days With Mentor Tsuji
+    author: concontochu
+    cover: /covers/588066.jpg
+    rating: 4.3
+    date: '2026-04-15'
+    code: 588066
+    url: /works/588066/
   - title: Mesu no Ie II ~Tsuma wa Midare Ubareru~
     author: ame-arare
     cover: /covers/591112.jpg
@@ -57,6 +78,13 @@ works:
     date: '2026-04-27'
     code: 642793
     url: /works/642793/
+  - title: Sawatte Mitai? | Do You Wanna Touch?
+    author: rondonko
+    cover: /covers/644309.jpg
+    rating: 4.1
+    date: '2026-04-17'
+    code: 644309
+    url: /works/644309/
   - title: Delusion story book
     author: madarame-rin
     cover: /covers/644810.jpg
@@ -64,6 +92,14 @@ works:
     date: '2026-05-03'
     code: 644810
     url: /works/644810/
+  - title: Kasshoku Buaisou Yakyuu-bu Manager no Yowami Nigitta | I Found the Grumpy,
+      Brown-Skinned Baseball Manager's Weakness
+    author: kitano-onsen
+    cover: /covers/644931.jpg
+    rating: 5.0
+    date: '2026-04-21'
+    code: 644931
+    url: /works/644931/
   - title: Doutei Daisuki Jogakusei-chan, Zetsurin Doutei ni Haiboku suru -One More!-
       | The Virgin-Killer Girl is Defeated by the Insatiable Virgin ―One More!―
     author: macaron-sugar

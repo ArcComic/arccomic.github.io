@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "nipple stimulation"
-work_count: 67
+work_count: 75
 works:
   - title: Obedience Part 1
     author: laliberte
@@ -25,6 +25,15 @@ works:
     date: '2026-08-18'
     code: 504436
     url: /works/504436/
+  - title: Senpai, Sonna no Shiranai desu ~Bansou shite ita Kare no Yubi wa Ima, Watashi
+      no Naka o Midashiteru~ | Senpai, I Don't Know About That - His Fingers That Were
+      Accompaniment are now Disturbing my Vagina
+    author: uruh-aqua
+    cover: /covers/507473.jpg
+    rating: 4.3
+    date: '2026-04-15'
+    code: 507473
+    url: /works/507473/
   - title: Little Blue Bird
     author: kidouchi-kon
     cover: /covers/508534.jpg
@@ -86,6 +95,20 @@ works:
     date: '2026-08-31'
     code: 550359
     url: /works/550359/
+  - title: ゼロ距離のまなざし | 零距离的眼神
+    author: momoko
+    cover: /covers/579493.jpg
+    rating: 4.7
+    date: '2026-04-21'
+    code: 579493
+    url: /works/579493/
+  - title: Chorozako Kanojo no Aina-chan -Mucchiri Gal to Ichalove H suru Hanashi-
+    author: tokyo-gunjo
+    cover: /covers/580427.jpg
+    rating: 4.6
+    date: '2026-04-19'
+    code: 580427
+    url: /works/580427/
   - title: 'Moto Mahou Shoujo no Shigoto Hanashi Ao Zenjitsutan | Former Magical Girl
       Blue''s Work: The Prequel'
     author: zhen-lu
@@ -109,6 +132,13 @@ works:
     date: '2026-04-27'
     code: 587827
     url: /works/587827/
+  - title: My Thousand Days With Mentor Tsuji
+    author: concontochu
+    cover: /covers/588066.jpg
+    rating: 4.3
+    date: '2026-04-15'
+    code: 588066
+    url: /works/588066/
   - title: Pashiri no Shita Teku, Yabaitte... ~ Ebi Sori Iki Suru Namaiki Gyaru | Bullied
       Boy's Tongue Revenge Vol.1-4
     author: takayamanon
@@ -153,6 +183,14 @@ works:
     date: '2026-04-23'
     code: 610041
     url: /works/610041/
+  - title: Kawaisugiru Tomodachi no Okaa-san to Kossori Tsukiacchatta Hanashi | I Secretly
+      Dated My Friend's Cute Mother
+    author: yuriko-club
+    cover: /covers/612887.jpg
+    rating: 4.8
+    date: '2026-04-15'
+    code: 612887
+    url: /works/612887/
   - title: Shanai no Himegoto ~Stress Kaishou ni Kaisha no Toilet de Onani shite itara,
       Kouhai ni Kikarete shimatte ita Hanashi~ | Workplace Rendezvous ~Caught Masturbating
       in the Company Restroom by My Subordinate~
@@ -177,6 +215,20 @@ works:
     date: '2026-05-04'
     code: 621185
     url: /works/621185/
+  - title: 女孩們的玩具初體驗 | Girl's First Experience With Toys
+    author: muzi
+    cover: /covers/624694.jpg
+    rating: 4.8
+    date: '2026-03-04'
+    code: 624694
+    url: /works/624694/
+  - title: Hotai no Jikan ~Minna no Mae de Sensei to xxx o Shimasu~
+    author: mochizaki-panko
+    cover: /covers/634185.jpg
+    rating: 4.5
+    date: '2026-03-05'
+    code: 634185
+    url: /works/634185/
   - title: Because Ura Wants To Be More Than "Just An Acquaintance"
     author: the-waidan
     cover: /covers/642793.jpg
@@ -184,6 +236,13 @@ works:
     date: '2026-04-27'
     code: 642793
     url: /works/642793/
+  - title: DeliHeal Yondara Moto Doukyuusei ga Kita ~Polynesian Sex  6-kame~
+    author: tatsuwaipu
+    cover: /covers/643512.jpg
+    rating: 4.2
+    date: '2026-04-12'
+    code: 643512
+    url: /works/643512/
   - title: Delusion story book
     author: madarame-rin
     cover: /covers/644810.jpg

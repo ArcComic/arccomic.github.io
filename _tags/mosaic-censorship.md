@@ -1,8 +1,29 @@
 ---
 layout: tag
 tag_name: "mosaic censorship"
-work_count: 112
+work_count: 160
 works:
+  - title: Hanamizuki
+    author: orikuchi
+    cover: /covers/162047.jpg
+    rating: 4.1
+    date: '2026-04-17'
+    code: 162047
+    url: /works/162047/
+  - title: Overwrite
+    author: ojo
+    cover: /covers/240721.jpg
+    rating: 4.9
+    date: '2026-04-12'
+    code: 240721
+    url: /works/240721/
+  - title: Uragiri no Ai wa Mitsu no Aji | Treacherous Love Tastes Like Honey
+    author: cuzukago
+    cover: /covers/244812.jpg
+    rating: 4.6
+    date: '2026-04-19'
+    code: 244812
+    url: /works/244812/
   - title: Yuri no o saifu ni shite agemasu ne, Senpai | I'll turn you into Yuri's wallet,
       Senpai
     author: doskoinpo
@@ -11,6 +32,27 @@ works:
     date: '2026-07-17'
     code: 289523
     url: /works/289523/
+  - title: Tsuma wo Yariman ni Shimasu Shakkin no Tame desu kara.
+    author: pietoro
+    cover: /covers/293478.jpg
+    rating: 4.0
+    date: '2026-04-12'
+    code: 293478
+    url: /works/293478/
+  - title: Boku no Kazoku o Sarashimasu Ch. 3
+    author: tanaka-aji
+    cover: /covers/297068.jpg
+    rating: 4.2
+    date: '2026-04-16'
+    code: 297068
+    url: /works/297068/
+  - title: Yokkyuu Fuman na Danchizuma wa Ikenai Kairaku ni Oboreru
+    author: yanagawa-rio
+    cover: /covers/342500.jpg
+    rating: 4.8
+    date: '2026-04-19'
+    code: 342500
+    url: /works/342500/
   - title: Love Divided Between a Rock and a Hard Place Ch.1
     author: cabin
     cover: /covers/342540.jpg
@@ -25,6 +67,13 @@ works:
     date: '2026-08-24'
     code: 342639
     url: /works/342639/
+  - title: Ayamachi no Rensa
+    author: pororivista
+    cover: /covers/351868.jpg
+    rating: 4.2
+    date: '2026-04-13'
+    code: 351868
+    url: /works/351868/
   - title: Megane Loli Choukyou Jugyou!! ~Otonashii Megane Lolikko ni Muriyari Dekachin
       Sounyuu~ | The Loli In Glasses' Training Lesson!! ~Force Fucking a Timid Glasses
       Wearing Loli With My Big Cock~ Ch. 1-5
@@ -34,6 +83,13 @@ works:
     date: '2026-07-13'
     code: 358168
     url: /works/358168/
+  - title: Kurata Akiko no Kokuhaku 2 - Confession of Akiko kurata Epsode 2
+    author: ootsuka-mahiro
+    cover: /covers/369382.jpg
+    rating: 5.0
+    date: '2026-04-13'
+    code: 369382
+    url: /works/369382/
   - title: Dakara Ore wa Kanojo o Netori Tsuzuketa.
     author: minamihama-yoriko
     cover: /covers/375962.jpg
@@ -41,6 +97,13 @@ works:
     date: '2026-08-23'
     code: 375962
     url: /works/375962/
+  - title: Toshishita Chin Kui Obasan
+    author: maccha-neji
+    cover: /covers/387637.jpg
+    rating: 4.0
+    date: '2026-04-19'
+    code: 387637
+    url: /works/387637/
   - title: 'Kouen no Bench ni Suwatteru Kirei na Onee-san ga Boku ni "Ochinchin o Misete"
       to Itte Kuru no de... | A Pretty Onee-San, that''s sitting on a Bench in the Park...suddenly
       says to Me: [Show Me Your Dick].'
@@ -57,6 +120,21 @@ works:
     date: '2026-08-24'
     code: 392617
     url: /works/392617/
+  - title: Kaisha no Iki Okure BBA Haramaseta | [Tragic News] I Knocked Up The Old Maid
+      From My Office
+    author: special-g
+    cover: /covers/409929.jpg
+    rating: 4.4
+    date: '2026-03-05'
+    code: 409929
+    url: /works/409929/
+  - title: Hito o Dame ni Suru Choi Busu ~Kao 40-ten, Karada 120-ten no Kanojo~
+    author: special-g
+    cover: /covers/414892.jpg
+    rating: 4.0
+    date: '2026-03-05'
+    code: 414892
+    url: /works/414892/
   - title: Musume no Kareshi ni Ochiru Okaa-san. 2 | A Mother Who Falls For Her Daughter's
       Boyfriend 2
     author: sinori
@@ -79,6 +157,15 @@ works:
     date: '2026-08-23'
     code: 441114
     url: /works/441114/
+  - title: Tonari no Onee-san no Shitagi o Nusundara Kiseki ga Okita Hanashi o Shiyou
+      |  Let’s Talk About the Story of A Miracle that Happened When I Stole the Underwear
+      of the Lady Next Door
+    author: special-g
+    cover: /covers/443909.jpg
+    rating: 4.3
+    date: '2026-03-05'
+    code: 443909
+    url: /works/443909/
   - title: Kaa-san ni wa Ore no Ko o Unde Morau | My mother is going to have my baby
     author: matsumoto-jikyuuryoku
     cover: /covers/444152.jpg
@@ -101,6 +188,34 @@ works:
     date: '2026-07-16'
     code: 464371
     url: /works/464371/
+  - title: Yarareru kanojo - Hitozumajoushi ManaNTR -
+    author: tokyo-gunjo
+    cover: /covers/465602.jpg
+    rating: 4.7
+    date: '2026-04-19'
+    code: 465602
+    url: /works/465602/
+  - title: Kakine Tsuma II Daiichiwa | Wife on the Fence II - Chapter 1
+    author: ntr-system
+    cover: /covers/471387.jpg
+    rating: 4.8
+    date: '2026-04-13'
+    code: 471387
+    url: /works/471387/
+  - title: Musuko o Dokusen Suru Haha | The mother who monopolizes her son.
+    author: yuriko-club
+    cover: /covers/471998.jpg
+    rating: 4.3
+    date: '2026-04-15'
+    code: 471998
+    url: /works/471998/
+  - title: Arguing mother-son who became a loving couple
+    author: yuriko-club
+    cover: /covers/472344.jpg
+    rating: 4.3
+    date: '2026-04-15'
+    code: 472344
+    url: /works/472344/
   - title: Asunama 9
     author: ken-1
     cover: /covers/477784.jpg
@@ -108,6 +223,21 @@ works:
     date: '2026-07-17'
     code: 477784
     url: /works/477784/
+  - title: Ijime no Daishou wa Hahaoya no Karada de.
+    author: daidai-shikibu
+    cover: /covers/482859.jpg
+    rating: 4.1
+    date: '2026-04-16'
+    code: 482859
+    url: /works/482859/
+  - title: Boku no Chuugoku Bijin Slender Kyonyuu Tsuma ga Camera Model de Nugasarete
+      Yarichin Tomo ni Netorareta Ken
+    author: mitoreiyu
+    cover: /covers/492657.jpg
+    rating: 4.1
+    date: '2026-04-12'
+    code: 492657
+    url: /works/492657/
   - title: Bocchi de Shinda Ore ga Bishoujo Nurse ni Natta Hanashi | The Story of How
       I Died Alone and Became a Sexy Nurse
     author: testame
@@ -152,6 +282,13 @@ works:
     date: '2026-05-01'
     code: 508534
     url: /works/508534/
+  - title: Deisui Chijo Mama | My Mom Gets Drunk and Molests Me
+    author: yuriko-club
+    cover: /covers/508549.jpg
+    rating: 4.5
+    date: '2026-04-15'
+    code: 508549
+    url: /works/508549/
   - title: Hiro-kun no Mama Wa Boku no Dorei 2 | Hiro-kun Mama Is My Sex Slave 2
     author: exit-up
     cover: /covers/508818.jpg
@@ -174,6 +311,20 @@ works:
     date: '2026-07-13'
     code: 514183
     url: /works/514183/
+  - title: Watashi wa Kakerareteru kara... | I've been hypnotized, so...
+    author: kiraku
+    cover: /covers/516164.jpg
+    rating: 4.9
+    date: '2026-04-17'
+    code: 516164
+    url: /works/516164/
+  - title: Uchi no Musuko ga Uma sugite | My Son Is Too Clever
+    author: yuriko-club
+    cover: /covers/519274.jpg
+    rating: 4.1
+    date: '2026-04-15'
+    code: 519274
+    url: /works/519274/
   - title: Niizuma Nanaka no Roshutsu Satsuei
     author: fukurou-naru-tori
     cover: /covers/520363.jpg
@@ -217,6 +368,13 @@ works:
     date: '2026-08-20'
     code: 537794
     url: /works/537794/
+  - title: Neteiru Okaa-san o Yaritai Houdai!
+    author: natsume-benkei
+    cover: /covers/544993.jpg
+    rating: 4.9
+    date: '2026-04-13'
+    code: 544993
+    url: /works/544993/
   - title: Jinsei Hametsu JC ~Watashi no Jinsei, Doushite Kounacchattan daro?~ | Middle
       Schooler's Life Ruined - How Did My Life Turn Out Like This [English] =TB=
     author: circle-hitori
@@ -232,6 +390,13 @@ works:
     date: '2026-04-23'
     code: 548852
     url: /works/548852/
+  - title: Oni no Kyouiku Mama ga Musuko to Amaama SEX made
+    author: yuriko-club
+    cover: /covers/551186.jpg
+    rating: 4.2
+    date: '2026-04-15'
+    code: 551186
+    url: /works/551186/
   - title: Aka-chan Tsukuri no Yoshuu | Preview Lesson About Babymaking
     author: highlow
     cover: /covers/555216.jpg
@@ -254,6 +419,13 @@ works:
     date: '2026-08-31'
     code: 556767
     url: /works/556767/
+  - title: '- YOINOAYAMACHI - Part.1'
+    author: sashimi
+    cover: /covers/556895.jpg
+    rating: 4.6
+    date: '2026-03-09'
+    code: 556895
+    url: /works/556895/
   - title: Ijiwaru Mama Tomo Taisaku | Countermeasures Against Bullying Mothers
     author: chotto-b-sen
     cover: /covers/561436.jpg
@@ -275,6 +447,20 @@ works:
     date: '2026-04-30'
     code: 566052
     url: /works/566052/
+  - title: Hitozuma Netorare Sugano Hinako Hen
+    author: nerumesian
+    cover: /covers/570215.jpg
+    rating: 4.9
+    date: '2026-04-13'
+    code: 570215
+    url: /works/570215/
+  - title: Boku no Mama to Takuhai no Onii-san ga.
+    author: yuriko-club
+    cover: /covers/577221.jpg
+    rating: 4.1
+    date: '2026-04-15'
+    code: 577221
+    url: /works/577221/
   - title: Boku no Kaa-chan 2 | My Mom 2
     author: cammy
     cover: /covers/579339.jpg
@@ -282,6 +468,13 @@ works:
     date: '2026-04-25'
     code: 579339
     url: /works/579339/
+  - title: Namima no Pōtorēto | Portrait of a Wave
+    author: torii-yoshitsuna
+    cover: /covers/580379.jpg
+    rating: 4.0
+    date: '2026-04-16'
+    code: 580379
+    url: /works/580379/
   - title: Doukyuusei no Kyouiku Mama ni Hitomebore!
     author: chotto-b-sen
     cover: /covers/581704.jpg
@@ -304,6 +497,21 @@ works:
     date: '2026-05-10'
     code: 586634
     url: /works/586634/
+  - title: My AR glasses can see various stats about my foster sister?!
+    author: pz-x
+    cover: /covers/589010.jpg
+    rating: 4.5
+    date: '2026-04-15'
+    code: 589010
+    url: /works/589010/
+  - title: '"Yasashii Dake no Otoko" to Tsuma ni Sute Raretanode... | My Wife Left Me
+      Because I was "Too Gentle"...'
+    author: special-g
+    cover: /covers/593456.jpg
+    rating: 4.4
+    date: '2026-03-05'
+    code: 593456
+    url: /works/593456/
   - title: Sono Panty, Watashi no Nandakedo. | Those Panties They're Mine
     author: chotto-b-sen
     cover: /covers/593754.jpg
@@ -347,6 +555,21 @@ works:
     date: '2026-08-25'
     code: 608648
     url: /works/608648/
+  - title: Dasuru Haha Musuko ni Nandomo Irerarete
+    author: daidai-shikibu
+    cover: /covers/612083.jpg
+    rating: 4.9
+    date: '2026-04-14'
+    code: 612083
+    url: /works/612083/
+  - title: Kawaisugiru Tomodachi no Okaa-san to Kossori Tsukiacchatta Hanashi | I Secretly
+      Dated My Friend's Cute Mother
+    author: yuriko-club
+    cover: /covers/612887.jpg
+    rating: 4.8
+    date: '2026-04-15'
+    code: 612887
+    url: /works/612887/
   - title: Tomodachi ga Tsuretekita Oba-san 1
     author: exit-up
     cover: /covers/615538.jpg
@@ -378,6 +601,14 @@ works:
     date: '2026-04-27'
     code: 618562
     url: /works/618562/
+  - title: Boku no Daisuki na Kaa-san to Omou Zonbun Sex Dekiru Hi 3 | My Fabulous Fuck
+      Day with My Amazing Mommy 3
+    author: higehurai
+    cover: /covers/631501.jpg
+    rating: 4.1
+    date: '2026-03-05'
+    code: 631501
+    url: /works/631501/
   - title: Aitsu, Kotowarenai kara.. Remake-ban no Tsuzuki dewa Arimasu ga, Konsaku
       wa Yakinaoshi ja Nai yo. Settei Igai wa Sinsaku da yo. Sonna Kanji no Vol. 2 desu
     author: haruharudo
@@ -394,6 +625,65 @@ works:
     date: '2026-07-09'
     code: 633938
     url: /works/633938/
+  - title: Opportunity for Zaychik
+    author: eggutarto-sunnyside524
+    cover: /covers/634157.jpg
+    rating: 4.9
+    date: '2026-03-04'
+    code: 634157
+    url: /works/634157/
+  - title: Boku no Daisuki na Kaa-san to Omou Zonbun Sex Dekiru Hi 4 | My Fabulous Fuck
+      Day with My Amazing Mommy 4
+    author: higehurai
+    cover: /covers/634178.jpg
+    rating: 5.0
+    date: '2026-03-05'
+    code: 634178
+    url: /works/634178/
+  - title: Honeori! Osewa Girl♡ | SK8er Girl Lends Me a Hand!
+    author: kyaradain
+    cover: /covers/634609.jpg
+    rating: 4.5
+    date: '2026-03-05'
+    code: 634609
+    url: /works/634609/
+  - title: Chijo Monogatari Bakunyuu Chijukujo to Doutei-kun
+    author: enma
+    cover: /covers/635174.jpg
+    rating: 4.6
+    date: '2026-03-07'
+    code: 635174
+    url: /works/635174/
+  - title: Siblings Shouldn't Do It! | Kyoudai de Shitara Ikemasen
+    author: fence-14
+    cover: /covers/635266.jpg
+    rating: 4.7
+    date: '2026-03-07'
+    code: 635266
+    url: /works/635266/
+  - title: Onee-san to Shiyo? ~Echinpo Card de Yaritai Houdai~
+    author: minato-yuu
+    cover: /covers/635801.jpg
+    rating: 4.6
+    date: '2026-03-09'
+    code: 635801
+    url: /works/635801/
+  - title: Ore ga Dairi Tanetsuke Suru Koto ni Natta Hitozuma Tachibana Shizuka-san
+      wa Nannimo Shiranai!! Sono 2 | | Shizuka Tachibana, the Housewife Who Collects
+      My Sperm Donations, Doesn’t Know a Damn Thing!! Chapter 2
+    author: date-roku
+    cover: /covers/636122.jpg
+    rating: 4.5
+    date: '2026-03-11'
+    code: 636122
+    url: /works/636122/
+  - title: Kaa-san to Sex Shita Mikkakan | Three Days of Sex with My Mom
+    author: unknown
+    cover: /covers/639194.jpg
+    rating: 4.3
+    date: '2026-04-15'
+    code: 639194
+    url: /works/639194/
   - title: Boku ga Shiranakatta Mama to Jii-chan no Koto | Things I didn't Know Between
       Mom And Grandpa
     author: urakan
@@ -430,6 +720,35 @@ works:
     date: '2026-08-25'
     code: 642770
     url: /works/642770/
+  - title: My Childhood Friend Twins Become Another Man’s Onahole 1-3
+    author: unknown
+    cover: /covers/643193.jpg
+    rating: 4.7
+    date: '2026-04-11'
+    code: 643193
+    url: /works/643193/
+  - title: Imouto Haramasenai to Derarenai Shima 2
+    author: airandou
+    cover: /covers/643375.jpg
+    rating: 4.4
+    date: '2026-04-12'
+    code: 643375
+    url: /works/643375/
+  - title: 'IF: Gokinjo-sama ni Tanemaki Dekiru Sekaisen no Hanashi ~Mukashinajimi Doukyuusei
+      no Baai~'
+    author: amatani-haruka
+    cover: /covers/643524.jpg
+    rating: 4.7
+    date: '2026-04-12'
+    code: 643524
+    url: /works/643524/
+  - title: Haha no Karada ni Muramura Shiteru
+    author: daidai-shikibu
+    cover: /covers/643931.jpg
+    rating: 4.8
+    date: '2026-04-14'
+    code: 643931
+    url: /works/643931/
   - title: Oyagakari no Haha
     author: daidai-shikibu
     cover: /covers/643932.jpg
@@ -444,6 +763,28 @@ works:
     date: '2026-08-25'
     code: 643933
     url: /works/643933/
+  - title: 'Otto no Shakkin Nakadashi Hensai Gifu ni Mi o Uru Komochi Tsuma | My Husband’s
+      Debt: A Wife Sells Herself to Her Father-in-Law as Creampie Repayment'
+    author: onodera
+    cover: /covers/644028.jpg
+    rating: 4.0
+    date: '2026-04-15'
+    code: 644028
+    url: /works/644028/
+  - title: Daisuki Datta Onii-chan | My Once Beloved Older Cousin
+    author: minakami-riku
+    cover: /covers/644495.jpg
+    rating: 5.0
+    date: '2026-04-17'
+    code: 644495
+    url: /works/644495/
+  - title: DOLLS 2
+    author: crimson-carmine
+    cover: /covers/644707.jpg
+    rating: 4.0
+    date: '2026-04-19'
+    code: 644707
+    url: /works/644707/
   - title: Doutei Daisuki Jogakusei-chan, Zetsurin Doutei ni Haiboku suru -One More!-
       | The Virgin-Killer Girl is Defeated by the Insatiable Virgin ―One More!―
     author: macaron-sugar
@@ -452,6 +793,13 @@ works:
     date: '2026-04-23'
     code: 645521
     url: /works/645521/
+  - title: Yarinuki Gal
+    author: uenosuke
+    cover: /covers/645537.jpg
+    rating: 4.3
+    date: '2026-04-23'
+    code: 645537
+    url: /works/645537/
   - title: Ikenie no Haha 2
     author: group
     cover: /covers/645676.jpg

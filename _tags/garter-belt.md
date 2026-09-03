@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "garter belt"
-work_count: 9
+work_count: 17
 works:
+  - title: Kaisha de Iroiro | Gettin' Busy at the Office
+    author: hara-shigeyuki
+    cover: /covers/110835.jpg
+    rating: 4.7
+    date: '2026-04-19'
+    code: 110835
+    url: /works/110835/
   - title: Maid no Oshigoto. II | Maid's Work II
     author: alexi-laiho
     cover: /covers/296282.jpg
@@ -10,6 +17,43 @@ works:
     date: '2026-04-23'
     code: 296282
     url: /works/296282/
+  - title: Yokkyuu Fuman na Danchizuma wa Ikenai Kairaku ni Oboreru
+    author: yanagawa-rio
+    cover: /covers/342500.jpg
+    rating: 4.8
+    date: '2026-04-19'
+    code: 342500
+    url: /works/342500/
+  - title: Mama Moe ~Haha o Bikou shite mita Ken~ | Mama Moe ~That Time When I Followed
+      My Mom~
+    author: hara-shigeyuki
+    cover: /covers/504221.jpg
+    rating: 4.9
+    date: '2026-04-19'
+    code: 504221
+    url: /works/504221/
+  - title: Automatic Romantic
+    author: naganeko
+    cover: /covers/556036.jpg
+    rating: 5.0
+    date: '2026-04-19'
+    code: 556036
+    url: /works/556036/
+  - title: Konki Girigiri Sister, Semete Shojo wo Sutetai | If I Can't Be Married At
+      Least Let Me Quit Being a Virgin
+    author: torii-yoshitsuna
+    cover: /covers/566835.jpg
+    rating: 4.5
+    date: '2026-04-17'
+    code: 566835
+    url: /works/566835/
+  - title: Moteki na Oku-sama
+    author: hara-shigeyuki
+    cover: /covers/569195.jpg
+    rating: 4.5
+    date: '2026-04-19'
+    code: 569195
+    url: /works/569195/
   - title: Mitsuha ~Netorare~ 10 (Your Name After Story) True Ending
     author: syukurin
     cover: /covers/643592.jpg
@@ -17,6 +61,13 @@ works:
     date: '2026-04-27'
     code: 643592
     url: /works/643592/
+  - title: PowerHara Onna Joushi to Shachiku-kun 4
+    author: kurosu-gatari
+    cover: /covers/645264.jpg
+    rating: 4.6
+    date: '2026-04-21'
+    code: 645264
+    url: /works/645264/
   - title: Doutei Daisuki Jogakusei-chan, Zetsurin Doutei ni Haiboku suru -One More!-
       | The Virgin-Killer Girl is Defeated by the Insatiable Virgin ―One More!―
     author: macaron-sugar
@@ -69,4 +120,11 @@ works:
     date: '2026-08-28'
     code: 675981
     url: /works/675981/
+  - title: Jokyoushi - Hot For Teachers | Female Teachers
+    author: drill-murata
+    cover: /covers/81375.jpg
+    rating: 4.9
+    date: '2026-04-18'
+    code: 81375
+    url: /works/81375/
 ---

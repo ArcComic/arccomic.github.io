@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "prostitution"
-work_count: 27
+work_count: 36
 works:
   - title: Yuri no o saifu ni shite agemasu ne, Senpai | I'll turn you into Yuri's wallet,
       Senpai
@@ -11,6 +11,22 @@ works:
     date: '2026-07-17'
     code: 289523
     url: /works/289523/
+  - title: Single Mother to Issho ni - Boku no Mamakatsu! 1 | Together with a single
+      mother - My sugarmama! 1
+    author: azukiko
+    cover: /covers/304548.jpg
+    rating: 4.7
+    date: '2026-04-16'
+    code: 304548
+    url: /works/304548/
+  - title: Iro no Ie -Hitozuma ga Sex Suru Hon II- | Erotic House - Married Women Sex
+      Book 2
+    author: miho-rei
+    cover: /covers/361032.jpg
+    rating: 4.5
+    date: '2026-03-09'
+    code: 361032
+    url: /works/361032/
   - title: LOOK LIKE
     author: terasu-mc
     cover: /covers/388099.jpg
@@ -18,6 +34,13 @@ works:
     date: '2026-04-25'
     code: 388099
     url: /works/388099/
+  - title: 'Portio Switch CASE: Varicata Portio | Cervix Switch CASE - Extra-hard Cervix'
+    author: bang-you-didori
+    cover: /covers/452141.jpg
+    rating: 4.4
+    date: '2026-03-07'
+    code: 452141
+    url: /works/452141/
   - title: Asunama 9
     author: ken-1
     cover: /covers/477784.jpg
@@ -39,6 +62,13 @@ works:
     date: '2026-04-27'
     code: 507681
     url: /works/507681/
+  - title: Hina-chan wa Papa ga Hoshikatta. | Hina-chan Wanted A Daddy
+    author: ojo
+    cover: /covers/544368.jpg
+    rating: 5.0
+    date: '2026-04-12'
+    code: 544368
+    url: /works/544368/
   - title: Uwa, Mesugaki Tsuyoi! | Crap, This Mesugaki's Too Powerful!
     author: poncocchan
     cover: /covers/550359.jpg
@@ -46,6 +76,13 @@ works:
     date: '2026-08-31'
     code: 550359
     url: /works/550359/
+  - title: Hitozuma Netorare Sugano Hinako Hen
+    author: nerumesian
+    cover: /covers/570215.jpg
+    rating: 4.9
+    date: '2026-04-13'
+    code: 570215
+    url: /works/570215/
   - title: Boku no Kaa-chan 2 | My Mom 2
     author: cammy
     cover: /covers/579339.jpg
@@ -99,6 +136,27 @@ works:
     date: '2026-04-30'
     code: 629368
     url: /works/629368/
+  - title: Ecchi na Omise ni Denwa shitara Oshiego ga Detekita Hanashi
+    author: akahito
+    cover: /covers/634144.jpg
+    rating: 4.7
+    date: '2026-03-04'
+    code: 634144
+    url: /works/634144/
+  - title: Opportunity for Zaychik
+    author: eggutarto-sunnyside524
+    cover: /covers/634157.jpg
+    rating: 4.9
+    date: '2026-03-04'
+    code: 634157
+    url: /works/634157/
+  - title: DeliHeal Yondara Moto Doukyuusei ga Kita ~Polynesian Sex  6-kame~
+    author: tatsuwaipu
+    cover: /covers/643512.jpg
+    rating: 4.2
+    date: '2026-04-12'
+    code: 643512
+    url: /works/643512/
   - title: Momoiro Kikyou Boku no Hajimete wa Toshiue Bakunyuu Soap-jou｜Pink Bellflower∶
       My First Experience with an Older Busty Soapland Lady
     author: enma
@@ -204,4 +262,11 @@ works:
     date: '2026-08-28'
     code: 676149
     url: /works/676149/
+  - title: Hottokenaino
+    author: hara-shigeyuki
+    cover: /covers/77864.jpg
+    rating: 4.6
+    date: '2026-04-19'
+    code: 77864
+    url: /works/77864/
 ---

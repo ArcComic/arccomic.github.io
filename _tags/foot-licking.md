@@ -1,8 +1,22 @@
 ---
 layout: tag
 tag_name: "foot licking"
-work_count: 3
+work_count: 5
 works:
+  - title: Do-S Yankee JK to Do-M Hentai Teacher
+    author: naganeko
+    cover: /covers/512715.jpg
+    rating: 4.3
+    date: '2026-04-19'
+    code: 512715
+    url: /works/512715/
+  - title: Celestial Doll 1-5
+    author: mr-kurz
+    cover: /covers/595353.jpg
+    rating: 5.0
+    date: '2026-04-21'
+    code: 595353
+    url: /works/595353/
   - title: Boku to Aitsu to Ano Ko to Kanojo. - Me, Him, the Girl and Her
     author: kameyama-cola
     cover: /covers/648093.jpg

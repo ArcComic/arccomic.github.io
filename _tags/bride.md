@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bride"
-work_count: 4
+work_count: 7
 works:
   - title: Cool na Niizuma to no Shinkon Seikatsu wa Amari ni mo... Yarashikatta  |
       Our Kinky Newlywed Life Vol. 1-3
@@ -11,6 +11,13 @@ works:
     date: '2026-04-23'
     code: 603122
     url: /works/603122/
+  - title: Alola no Yoru no Sugata Soushuuhen | Aloha Night Compilation
+    author: kurosu-gatari
+    cover: /covers/609650.jpg
+    rating: 4.5
+    date: '2026-04-21'
+    code: 609650
+    url: /works/609650/
   - title: Igumox - Muramata-san no Himitsu & Aijou - Muramata-san's Secret & Affection
       COMPLETE
     author: igumox
@@ -26,6 +33,13 @@ works:
     date: '2026-04-27'
     code: 643592
     url: /works/643592/
+  - title: PowerHara Onna Joushi to Shachiku-kun 4
+    author: kurosu-gatari
+    cover: /covers/645264.jpg
+    rating: 4.6
+    date: '2026-04-21'
+    code: 645264
+    url: /works/645264/
   - title: Kimi ga Haramu made Genkai Toppa Sex | Limit Breaking Sex until you're Pregnant
     author: yoshio-ereki-toneridan
     cover: /covers/651499.jpg
@@ -33,4 +47,11 @@ works:
     date: '2026-05-21'
     code: 651499
     url: /works/651499/
+  - title: Inin Keiyaku | Lewd Pregnancy Contract
+    author: yoshiura-kazuya
+    cover: /covers/83595.jpg
+    rating: 4.2
+    date: '2026-03-11'
+    code: 83595
+    url: /works/83595/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "masked face"
-work_count: 6
+work_count: 7
 works:
   - title: Eroi Koto Igai de Toki o Tomete wa Dame desu yo 2
     author: ohkura-kazuya
@@ -10,6 +10,13 @@ works:
     date: '2026-04-30'
     code: 615835
     url: /works/615835/
+  - title: 'Ace Attorney: No Escape'
+    author: mr-kurz
+    cover: /covers/620818.jpg
+    rating: 4.3
+    date: '2026-03-07'
+    code: 620818
+    url: /works/620818/
   - title: Shinyuu Tatakitsubushi Kyousou Shiiku Seikatsu | A Life in Captivity The
       Competition to Break My Best Friend
     author: group

@@ -1,8 +1,22 @@
 ---
 layout: tag
 tag_name: "bald"
-work_count: 24
+work_count: 33
 works:
+  - title: Overwrite
+    author: ojo
+    cover: /covers/240721.jpg
+    rating: 4.9
+    date: '2026-04-12'
+    code: 240721
+    url: /works/240721/
+  - title: Tsuma wo Yariman ni Shimasu Shakkin no Tame desu kara.
+    author: pietoro
+    cover: /covers/293478.jpg
+    rating: 4.0
+    date: '2026-04-12'
+    code: 293478
+    url: /works/293478/
   - title: Asuna-san ga Agil ni Netorareru Ohanashi
     author: fujimiya-siryu
     cover: /covers/300943.jpg
@@ -10,6 +24,20 @@ works:
     date: '2026-07-17'
     code: 300943
     url: /works/300943/
+  - title: Yofukashi no Tsuma ~Murakami Kozue~ | Late-Night Wife ~Murakami Kozue~
+    author: oobayashi-mori
+    cover: /covers/453749.jpg
+    rating: 4.1
+    date: '2026-04-19'
+    code: 453749
+    url: /works/453749/
+  - title: Tsuma wa NTR reta gatte iru. 5
+    author: jill
+    cover: /covers/531759.jpg
+    rating: 4.7
+    date: '2026-04-12'
+    code: 531759
+    url: /works/531759/
   - title: Choukyou Zumi Hitozuma OL wa Joushi ni Dakare Futatabi Ochiru
     author: toono-suika
     cover: /covers/550164.jpg
@@ -54,6 +82,13 @@ works:
     date: '2026-07-17'
     code: 582290
     url: /works/582290/
+  - title: Undercover at the Onsen
+    author: yumoteliuce
+    cover: /covers/588862.jpg
+    rating: 4.2
+    date: '2026-03-09'
+    code: 588862
+    url: /works/588862/
   - title: Kouen no Oji-san-tachi ni Moteasobaretai
     author: group
     cover: /covers/598010.jpg
@@ -85,6 +120,13 @@ works:
     date: '2026-08-29'
     code: 634450
     url: /works/634450/
+  - title: Mishiranu Boshi ni Yaritai Houdai
+    author: tonda
+    cover: /covers/635363.jpg
+    rating: 4.6
+    date: '2026-03-07'
+    code: 635363
+    url: /works/635363/
   - title: Noa-chan to Ichaicha suru Hon
     author: remora
     cover: /covers/635512.jpg
@@ -106,6 +148,29 @@ works:
     date: '2026-08-24'
     code: 642585
     url: /works/642585/
+  - title: Boku no Kanojo ga Katte ni Seikyouiku Sareteta Hanashi
+    author: unknown
+    cover: /covers/643527.jpg
+    rating: 4.3
+    date: '2026-04-12'
+    code: 643527
+    url: /works/643527/
+  - title: The Story Of How I Peeked On A Cheeky Elementary Schooler Brat Masturbating
+      And Ended Up Having Sweet Sex | Namaiki Kusogaki js no Onanie Nozoitara Amaama
+      Sex Dekita Hanashi
+    author: yonketa
+    cover: /covers/643682.jpg
+    rating: 4.5
+    date: '2026-04-13'
+    code: 643682
+    url: /works/643682/
+  - title: Tsukatsuki Rio no Maid Seikatsu
+    author: prime
+    cover: /covers/644300.jpg
+    rating: 4.1
+    date: '2026-04-16'
+    code: 644300
+    url: /works/644300/
   - title: Inaka ja Kore ga Joushiki dakara! | This Is Just How Things Are in the Countryside!
     author: chilt
     cover: /covers/646146.jpg

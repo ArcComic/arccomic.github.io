@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "scar"
-work_count: 2
+work_count: 3
 works:
   - title: 'Moto Mahou Shoujo no Shigoto Hanashi Ao Zenjitsutan | Former Magical Girl
       Blue''s Work: The Prequel'
@@ -11,6 +11,14 @@ works:
     date: '2026-04-23'
     code: 584579
     url: /works/584579/
+  - title: Kasshoku Buaisou Yakyuu-bu Manager no Yowami Nigitta | I Found the Grumpy,
+      Brown-Skinned Baseball Manager's Weakness
+    author: kitano-onsen
+    cover: /covers/644931.jpg
+    rating: 5.0
+    date: '2026-04-21'
+    code: 644931
+    url: /works/644931/
   - title: The Obsessive Desires That My Silent Boyfriend's Body Reveals
     author: the-waidan
     cover: /covers/649033.jpg

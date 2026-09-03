@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "herio"
-work_count: 3
+work_count: 4
 works:
   - title: Tonari no Ayane-san Desaki Battari Hen
     author: herio
@@ -10,6 +10,14 @@ works:
     date: '2026-08-18'
     code: 432356
     url: /works/432356/
+  - title: Yojouhan no Femme Fatale - One-Room Femme Fatale | The Devilishness of a
+      Small Room
+    author: herio
+    cover: /covers/635984.jpg
+    rating: 4.4
+    date: '2026-03-11'
+    code: 635984
+    url: /works/635984/
   - title: Tonari no Ayane-san Soushuuhen | My Neighbor Ayane Anthology
     author: herio
     cover: /covers/656319.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "cheerleader"
-work_count: 4
+work_count: 5
 works:
   - title: CHOCO x LOVE
     author: highlow
@@ -32,4 +32,11 @@ works:
     date: '2026-08-28'
     code: 676149
     url: /works/676149/
+  - title: Jokyoushi - Hot For Teachers | Female Teachers
+    author: drill-murata
+    cover: /covers/81375.jpg
+    rating: 4.9
+    date: '2026-04-18'
+    code: 81375
+    url: /works/81375/
 ---

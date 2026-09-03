@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "bunny girl"
-work_count: 14
+work_count: 17
 works:
+  - title: Kaisha de Iroiro | Gettin' Busy at the Office
+    author: hara-shigeyuki
+    cover: /covers/110835.jpg
+    rating: 4.7
+    date: '2026-04-19'
+    code: 110835
+    url: /works/110835/
   - title: Yurikago
     author: neko-samurai
     cover: /covers/398305.jpg
@@ -10,6 +17,14 @@ works:
     date: '2026-07-10'
     code: 398305
     url: /works/398305/
+  - title: Utakata 2 ~Uraaka DoM Haken OL Onaho Choukyou~ | An Office Lady's Behind
+      The Scenes Masochistic Onahole Training 2
+    author: yuzuri-ai
+    cover: /covers/432301.jpg
+    rating: 4.1
+    date: '2026-04-13'
+    code: 432301
+    url: /works/432301/
   - title: Musume no Kareshi ni Ochiru Okaa-san. 2 | A Mother Who Falls For Her Daughter's
       Boyfriend 2
     author: sinori
@@ -109,4 +124,11 @@ works:
     date: '2026-08-21'
     code: 674639
     url: /works/674639/
+  - title: Hottokenaino
+    author: hara-shigeyuki
+    cover: /covers/77864.jpg
+    rating: 4.6
+    date: '2026-04-19'
+    code: 77864
+    url: /works/77864/
 ---

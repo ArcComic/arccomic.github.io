@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "dark nipples"
-work_count: 2
+work_count: 3
 works:
   - title: Onna Shachou to Koibito ni Naru Houhou | How To Become Lover's With A Female
       CEO
@@ -11,6 +11,13 @@ works:
     date: '2026-05-20'
     code: 600237
     url: /works/600237/
+  - title: 'GNO: Girl''s Night Out - Issue 02'
+    author: uselessbegging
+    cover: /covers/634464.jpg
+    rating: 4.0
+    date: '2026-03-07'
+    code: 634464
+    url: /works/634464/
   - title: Igyou Koubi Kairaku Jigoku 1 + 2
     author: allegro
     cover: /covers/668880.jpg

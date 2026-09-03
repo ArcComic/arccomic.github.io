@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "yandere"
-work_count: 10
+work_count: 14
 works:
+  - title: My Only Princess
+    author: mackgee
+    cover: /covers/335960.jpg
+    rating: 4.8
+    date: '2026-04-17'
+    code: 335960
+    url: /works/335960/
   - title: Love Divided Between a Rock and a Hard Place Ch.1
     author: cabin
     cover: /covers/342540.jpg
@@ -10,6 +17,15 @@ works:
     date: '2026-04-23'
     code: 342540
     url: /works/342540/
+  - title: Tonari no Onee-san no Shitagi o Nusundara Kiseki ga Okita Hanashi o Shiyou
+      |  Let’s Talk About the Story of A Miracle that Happened When I Stole the Underwear
+      of the Lady Next Door
+    author: special-g
+    cover: /covers/443909.jpg
+    rating: 4.3
+    date: '2026-03-05'
+    code: 443909
+    url: /works/443909/
   - title: Itabasami na Wakachi Ai 4 | Love Divided Between a Rock and a Hard Place
       4
     author: group
@@ -18,6 +34,13 @@ works:
     date: '2026-04-23'
     code: 448503
     url: /works/448503/
+  - title: Musuko o Dokusen Suru Haha | The mother who monopolizes her son.
+    author: yuriko-club
+    cover: /covers/471998.jpg
+    rating: 4.3
+    date: '2026-04-15'
+    code: 471998
+    url: /works/471998/
   - title: Anata no Shiori ni Naritai - I Just Want To Be Your Shiori
     author: naokomama
     cover: /covers/530476.jpg
@@ -25,6 +48,15 @@ works:
     date: '2026-07-16'
     code: 530476
     url: /works/530476/
+  - title: Kou demo Shinakya Akigumo-san 25-sai ga Teitoku to Hameru Kikai Isshou Konai
+      desho | If She Doesn’t Do This, 25-Year-Old Akigumo-san Will Never Get the Chance
+      to Fuck the Admiral, Right?
+    author: bouko
+    cover: /covers/567843.jpg
+    rating: 4.9
+    date: '2026-04-17'
+    code: 567843
+    url: /works/567843/
   - title: Haha to iu Kaibutsu ~M Otoko Aka-chan toshite Sodate rareta Boku wa Yasashii
       Mama ni Dekiai sareru~ | Mother, the Monster ~I was raised as a masochistic baby
       and am doted on by my kind mother~

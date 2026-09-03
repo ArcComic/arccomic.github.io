@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "pokemon"
-work_count: 2
+work_count: 3
 works:
   - title: Mimikyu Myth 2
     author: meowwithme
@@ -10,6 +10,13 @@ works:
     date: '2026-05-03'
     code: 500102
     url: /works/500102/
+  - title: Alola no Yoru no Sugata Soushuuhen | Aloha Night Compilation
+    author: kurosu-gatari
+    cover: /covers/609650.jpg
+    rating: 4.5
+    date: '2026-04-21'
+    code: 609650
+    url: /works/609650/
   - title: Tabidachi Mae no Dai Shiren
     author: borisu
     cover: /covers/651317.jpg

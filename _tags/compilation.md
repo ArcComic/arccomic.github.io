@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "compilation"
-work_count: 10
+work_count: 11
 works:
   - title: NTR Anniversary + ) [Syukurin] Mitsuha ~Netorare~ (Kimi no Na wa.) [English]
       [Colorized] by Mikaku
@@ -26,6 +26,13 @@ works:
     date: '2026-05-26'
     code: 532417
     url: /works/532417/
+  - title: Ijime Bokumetsu Swapping
+    author: ere-2-earo
+    cover: /covers/536072.jpg
+    rating: 4.7
+    date: '2026-04-19'
+    code: 536072
+    url: /works/536072/
   - title: Igumox - Muramata-san no Himitsu & Aijou - Muramata-san's Secret & Affection
       COMPLETE
     author: igumox

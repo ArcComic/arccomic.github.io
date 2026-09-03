@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "futanari"
-work_count: 6
+work_count: 7
 works:
   - title: Tempt & Throb
     author: mushihara
@@ -31,6 +31,13 @@ works:
     date: '2026-05-26'
     code: 532417
     url: /works/532417/
+  - title: 'GNO: Girl''s Night Out - Issue 02'
+    author: uselessbegging
+    cover: /covers/634464.jpg
+    rating: 4.0
+    date: '2026-03-07'
+    code: 634464
+    url: /works/634464/
   - title: Nani ga Haeta Hajime | Hajime Grew a Dick!
     author: hyouga
     cover: /covers/664845.jpg

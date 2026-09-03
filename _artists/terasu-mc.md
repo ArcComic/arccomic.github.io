@@ -1,8 +1,14 @@
 ---
 layout: artist
 artist_name: "terasu-mc"
-work_count: 5
+work_count: 6
 works:
+  - title: Netorare Ibe Kiba Shizuka
+    cover: /covers/275108.jpg
+    rating: 5.0
+    date: '2026-04-16'
+    code: 275108
+    url: /works/275108/
   - title: Netorare Ibe Kiba Shizuka | The Netorare of Kiba Shizuka
     cover: /covers/288292.jpg
     rating: 4.0

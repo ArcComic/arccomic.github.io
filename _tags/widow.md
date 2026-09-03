@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "widow"
-work_count: 7
+work_count: 9
 works:
   - title: LOOK LIKE
     author: terasu-mc
@@ -39,6 +39,14 @@ works:
     date: '2026-04-25'
     code: 579339
     url: /works/579339/
+  - title: '"Yasashii Dake no Otoko" to Tsuma ni Sute Raretanode... | My Wife Left Me
+      Because I was "Too Gentle"...'
+    author: special-g
+    cover: /covers/593456.jpg
+    rating: 4.4
+    date: '2026-03-05'
+    code: 593456
+    url: /works/593456/
   - title: Gibo o , Densha de ... | My Stepmother on The Train...
     author: gonza
     cover: /covers/652801.jpg
@@ -55,4 +63,11 @@ works:
     date: '2026-08-21'
     code: 674663
     url: /works/674663/
+  - title: Hottokenaino
+    author: hara-shigeyuki
+    cover: /covers/77864.jpg
+    rating: 4.6
+    date: '2026-04-19'
+    code: 77864
+    url: /works/77864/
 ---

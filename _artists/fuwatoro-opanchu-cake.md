@@ -1,8 +1,20 @@
 ---
 layout: artist
 artist_name: "fuwatoro-opanchu-cake"
-work_count: 1
+work_count: 3
 works:
+  - title: 'Mother and Child Living Together Chapter 2 : Puberty'
+    cover: /covers/616170.jpg
+    rating: 4.6
+    date: '2026-04-14'
+    code: 616170
+    url: /works/616170/
+  - title: Boshi Futari Gurashi Dai Go Shou 5 Souai
+    cover: /covers/634207.jpg
+    rating: 4.7
+    date: '2026-03-04'
+    code: 634207
+    url: /works/634207/
   - title: A late night visit leads to a mother and son's marital sex life together
     cover: /covers/663195.jpg
     rating: 4.1

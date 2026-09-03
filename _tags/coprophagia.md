@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "coprophagia"
-work_count: 3
+work_count: 4
 works:
   - title: Rena
     author: shinjima-saki
@@ -10,6 +10,13 @@ works:
     date: '2026-07-09'
     code: 537476
     url: /works/537476/
+  - title: Kugisaki Anal Otoshi
+    author: ishigaki-takashi
+    cover: /covers/579976.jpg
+    rating: 4.7
+    date: '2026-04-21'
+    code: 579976
+    url: /works/579976/
   - title: Tada Sex Shitakatta dake nano ni SNS de Deatta Bimajo ga Scatolo Mania de,
       Boku wa... 1
     author: bonske

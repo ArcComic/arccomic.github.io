@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "chikan"
-work_count: 10
+work_count: 11
 works:
   - title: IKUu!! Zenkou Seito no Mae de Koukai Zecchou-saserareta JK no Matsuro 1 |
       Cumming in Front of the Entire Student Body 1
@@ -35,6 +35,13 @@ works:
     date: '2026-08-29'
     code: 618087
     url: /works/618087/
+  - title: Chijo Monogatari Bakunyuu Chijukujo to Doutei-kun
+    author: enma
+    cover: /covers/635174.jpg
+    rating: 4.6
+    date: '2026-03-07'
+    code: 635174
+    url: /works/635174/
   - title: Majime na Salaryman ga JK Chijo ni Otosareru Hanashi
     author: hamo
     cover: /covers/652651.jpg

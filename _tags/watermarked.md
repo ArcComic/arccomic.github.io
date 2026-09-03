@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "watermarked"
-work_count: 6
+work_count: 8
 works:
   - title: NTR Anniversary + ) [Syukurin] Mitsuha ~Netorare~ (Kimi no Na wa.) [English]
       [Colorized] by Mikaku
@@ -41,6 +41,20 @@ works:
     date: '2026-07-13'
     code: 606725
     url: /works/606725/
+  - title: Seishokuki Aliens Meet Girls Vol. 4
+    author: alto-seneka
+    cover: /covers/634489.jpg
+    rating: 4.5
+    date: '2026-03-07'
+    code: 634489
+    url: /works/634489/
+  - title: Seishokuki Aliens Meet Girls Vol. 5
+    author: alto-seneka
+    cover: /covers/634490.jpg
+    rating: 4.1
+    date: '2026-03-04'
+    code: 634490
+    url: /works/634490/
   - title: Pure Delight A Front-Row Seat
     author: daikanki
     cover: /covers/662550.jpg

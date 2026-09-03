@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "no penetration"
-work_count: 15
+work_count: 16
 works:
   - title: Chikubi Kando Chousa, Hajimemasu
     author: nanahamu
@@ -17,6 +17,13 @@ works:
     date: '2026-05-03'
     code: 588660
     url: /works/588660/
+  - title: 'Mother and Child Living Together Chapter 2 : Puberty'
+    author: fuwatoro-opanchu-cake
+    cover: /covers/616170.jpg
+    rating: 4.6
+    date: '2026-04-14'
+    code: 616170
+    url: /works/616170/
   - title: Kawaii Tsun'aho/ I took in Runaway but She Swapped Bodies With Me!
     author: kawaii-tsunaho
     cover: /covers/649105.jpg

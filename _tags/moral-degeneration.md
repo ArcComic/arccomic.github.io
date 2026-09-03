@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "moral degeneration"
-work_count: 18
+work_count: 21
 works:
   - title: Beit Saki no Majime na Kouhai ga... | A Serious Part-Time Kouhai
     author: kusayarou
@@ -18,6 +18,13 @@ works:
     date: '2026-05-07'
     code: 557052
     url: /works/557052/
+  - title: Kugisaki Anal Otoshi
+    author: ishigaki-takashi
+    cover: /covers/579976.jpg
+    rating: 4.7
+    date: '2026-04-21'
+    code: 579976
+    url: /works/579976/
   - title: Asuna family 1-42
     author: zhi-yitiaomiao
     cover: /covers/588660.jpg
@@ -25,6 +32,13 @@ works:
     date: '2026-05-03'
     code: 588660
     url: /works/588660/
+  - title: My AR glasses can see various stats about my foster sister?!
+    author: pz-x
+    cover: /covers/589010.jpg
+    rating: 4.5
+    date: '2026-04-15'
+    code: 589010
+    url: /works/589010/
   - title: Seishun Soushitsu
     author: pinkjoe
     cover: /covers/610017.jpg
@@ -48,6 +62,13 @@ works:
     date: '2026-08-29'
     code: 634450
     url: /works/634450/
+  - title: Siblings Shouldn't Do It! | Kyoudai de Shitara Ikemasen
+    author: fence-14
+    cover: /covers/635266.jpg
+    rating: 4.7
+    date: '2026-03-07'
+    code: 635266
+    url: /works/635266/
   - title: Ikenie no Haha 2
     author: group
     cover: /covers/645676.jpg

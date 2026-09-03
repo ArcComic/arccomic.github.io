@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "jujutsu kaisen"
-work_count: 1
+work_count: 2
 works:
   - title: 'Jujutsu Kaisen: Mahito Mayhem'
     author: mayitgu
@@ -10,4 +10,11 @@ works:
     date: '2026-05-03'
     code: 524761
     url: /works/524761/
+  - title: Kugisaki Anal Otoshi
+    author: ishigaki-takashi
+    cover: /covers/579976.jpg
+    rating: 4.7
+    date: '2026-04-21'
+    code: 579976
+    url: /works/579976/
 ---

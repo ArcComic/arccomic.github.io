@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "exposed clothing"
-work_count: 8
+work_count: 10
 works:
+  - title: Yofukashi no Tsuma ~Murakami Kozue~ | Late-Night Wife ~Murakami Kozue~
+    author: oobayashi-mori
+    cover: /covers/453749.jpg
+    rating: 4.1
+    date: '2026-04-19'
+    code: 453749
+    url: /works/453749/
   - title: Asunama 9
     author: ken-1
     cover: /covers/477784.jpg
@@ -18,6 +25,14 @@ works:
     date: '2026-04-25'
     code: 559088
     url: /works/559088/
+  - title: Konki Girigiri Sister, Semete Shojo wo Sutetai | If I Can't Be Married At
+      Least Let Me Quit Being a Virgin
+    author: torii-yoshitsuna
+    cover: /covers/566835.jpg
+    rating: 4.5
+    date: '2026-04-17'
+    code: 566835
+    url: /works/566835/
   - title: Oshiego no Gal o Kau
     author: mitsudoue
     cover: /covers/651197.jpg

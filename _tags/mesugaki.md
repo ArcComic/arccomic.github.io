@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "mesugaki"
-work_count: 3
+work_count: 4
 works:
   - title: Uwa, Mesugaki Tsuyoi! | Crap, This Mesugaki's Too Powerful!
     author: poncocchan
@@ -10,6 +10,13 @@ works:
     date: '2026-08-31'
     code: 550359
     url: /works/550359/
+  - title: Sawatte Mitai? | Do You Wanna Touch?
+    author: rondonko
+    cover: /covers/644309.jpg
+    rating: 4.1
+    date: '2026-04-17'
+    code: 644309
+    url: /works/644309/
   - title: Mesugaki ni Saikyouiku o!! | Re-Educating A Smug-Brat!!
     author: type-yamada
     cover: /covers/664631.jpg

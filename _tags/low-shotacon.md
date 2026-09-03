@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "low shotacon"
-work_count: 4
+work_count: 5
 works:
   - title: LOOK LIKE
     author: terasu-mc
@@ -10,6 +10,13 @@ works:
     date: '2026-04-25'
     code: 388099
     url: /works/388099/
+  - title: Kugisaki Anal Otoshi
+    author: ishigaki-takashi
+    cover: /covers/579976.jpg
+    rating: 4.7
+    date: '2026-04-21'
+    code: 579976
+    url: /works/579976/
   - title: Zutto Akogare datta Dokyuusei no Mama to Yareta Hanashi Kuronuri ver
     author: chinpan
     cover: /covers/593677.jpg

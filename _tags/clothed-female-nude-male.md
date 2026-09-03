@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "clothed female nude male"
-work_count: 9
+work_count: 10
 works:
   - title: Yuri no o saifu ni shite agemasu ne, Senpai | I'll turn you into Yuri's wallet,
       Senpai
@@ -18,6 +18,13 @@ works:
     date: '2026-05-03'
     code: 376189
     url: /works/376189/
+  - title: Toshishita Chin Kui Obasan
+    author: maccha-neji
+    cover: /covers/387637.jpg
+    rating: 4.0
+    date: '2026-04-19'
+    code: 387637
+    url: /works/387637/
   - title: Ashizeme Kanojo _0 | girlfriend who likes to torture with her feet _0
     author: kaoinshou-zero
     cover: /covers/430672.jpg

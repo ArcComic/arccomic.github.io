@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "gen"
-work_count: 2
+work_count: 3
 works:
+  - title: SeFri no Senpai | 學姐是我的炮友
+    author: gen
+    cover: /covers/494440.jpg
+    rating: 4.3
+    date: '2026-03-09'
+    code: 494440
+    url: /works/494440/
   - title: Manatsu no Refrain | Midsummer's Refrain
     author: gen
     cover: /covers/639514.jpg

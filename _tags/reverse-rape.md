@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "reverse rape"
-work_count: 5
+work_count: 6
 works:
   - title: Love Divided Between a Rock and a Hard Place Ch.1
     author: cabin
@@ -17,6 +17,13 @@ works:
     date: '2026-07-10'
     code: 476399
     url: /works/476399/
+  - title: Chijo Monogatari Henshitsusha (Onna) Shutsubotsu Chuu
+    author: enma
+    cover: /covers/588713.jpg
+    rating: 4.9
+    date: '2026-03-07'
+    code: 588713
+    url: /works/588713/
   - title: Zenin Mukuwarenai Harem | A Harem Where No One Is Reciprocated
     author: group
     cover: /covers/610041.jpg
