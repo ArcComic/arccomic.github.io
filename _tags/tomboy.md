@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "tomboy"
-work_count: 23
+work_count: 24
 works:
   - title: Kizashi
     author: yoshiura-kazuya
@@ -91,6 +91,14 @@ works:
     date: '2026-04-21'
     code: 644931
     url: /works/644931/
+  - title: 'Hanketsu, Hikokunin wa Watashi no Dildo Kei ni Shosuru | Verdict: The defendant
+      is sentenced to my dildo punishment.'
+    author: chotto-b-sen
+    cover: /covers/645743.jpg
+    rating: 4.2
+    date: '2026-04-25'
+    code: 645743
+    url: /works/645743/
   - title: Inaka ja Kore ga Joushiki dakara! | This Is Just How Things Are in the Countryside!
     author: chilt
     cover: /covers/646146.jpg

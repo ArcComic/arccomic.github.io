@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "emotionless sex"
-work_count: 14
+work_count: 15
 works:
   - title: Maid no Oshigoto. II | Maid's Work II
     author: alexi-laiho
@@ -82,6 +82,14 @@ works:
     date: '2026-03-07'
     code: 635363
     url: /works/635363/
+  - title: 'Hanketsu, Hikokunin wa Watashi no Dildo Kei ni Shosuru | Verdict: The defendant
+      is sentenced to my dildo punishment.'
+    author: chotto-b-sen
+    cover: /covers/645743.jpg
+    rating: 4.2
+    date: '2026-04-25'
+    code: 645743
+    url: /works/645743/
   - title: Otonari no Downer Oyako ni Shiboritorareru Hanashi
     author: gamogamo
     cover: /covers/646017.jpg

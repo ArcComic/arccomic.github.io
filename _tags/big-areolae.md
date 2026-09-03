@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big areolae"
-work_count: 42
+work_count: 43
 works:
   - title: Kanojo no Kawaii Mieppari | My Cute Gyaru Girlfriend Is a Total Poser
     author: buta
@@ -161,6 +161,14 @@ works:
     date: '2026-04-21'
     code: 645264
     url: /works/645264/
+  - title: 'Hanketsu, Hikokunin wa Watashi no Dildo Kei ni Shosuru | Verdict: The defendant
+      is sentenced to my dildo punishment.'
+    author: chotto-b-sen
+    cover: /covers/645743.jpg
+    rating: 4.2
+    date: '2026-04-25'
+    code: 645743
+    url: /works/645743/
   - title: Inaka ja Kore ga Joushiki dakara! | This Is Just How Things Are in the Countryside!
     author: chilt
     cover: /covers/646146.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "femdom"
-work_count: 82
+work_count: 83
 works:
   - title: Life with Married Women Just Like a Manga 2 - Ch. 1-5
     author: hidemaru
@@ -370,6 +370,14 @@ works:
     date: '2026-04-24'
     code: 645612
     url: /works/645612/
+  - title: 'Hanketsu, Hikokunin wa Watashi no Dildo Kei ni Shosuru | Verdict: The defendant
+      is sentenced to my dildo punishment.'
+    author: chotto-b-sen
+    cover: /covers/645743.jpg
+    rating: 4.2
+    date: '2026-04-25'
+    code: 645743
+    url: /works/645743/
   - title: Otonari no Downer Oyako ni Shiboritorareru Hanashi
     author: gamogamo
     cover: /covers/645896.jpg

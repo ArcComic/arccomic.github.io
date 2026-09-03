@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "slave"
-work_count: 6
+work_count: 7
 works:
   - title: Tonight, my wife is being exposed and...
     author: mon-mon
@@ -32,6 +32,14 @@ works:
     date: '2026-08-19'
     code: 638178
     url: /works/638178/
+  - title: 'Hanketsu, Hikokunin wa Watashi no Dildo Kei ni Shosuru | Verdict: The defendant
+      is sentenced to my dildo punishment.'
+    author: chotto-b-sen
+    cover: /covers/645743.jpg
+    rating: 4.2
+    date: '2026-04-25'
+    code: 645743
+    url: /works/645743/
   - title: High-garden Lowlife
     author: sei
     cover: /covers/648102.jpg

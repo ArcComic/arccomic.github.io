@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "condom"
-work_count: 101
+work_count: 102
 works:
   - title: Kaisha de Iroiro | Gettin' Busy at the Office
     author: hara-shigeyuki
@@ -501,6 +501,14 @@ works:
     date: '2026-04-23'
     code: 645549
     url: /works/645549/
+  - title: 'Hanketsu, Hikokunin wa Watashi no Dildo Kei ni Shosuru | Verdict: The defendant
+      is sentenced to my dildo punishment.'
+    author: chotto-b-sen
+    cover: /covers/645743.jpg
+    rating: 4.2
+    date: '2026-04-25'
+    code: 645743
+    url: /works/645743/
   - title: Mujikaku na Osananajimi to Kyoumi Honi de Yatte Mitara | What Happens When
       You Sleep With Your Oblivious Childhood Friend Just Out of Curiosity Part 1
     author: gen

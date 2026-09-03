@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "chotto b-sen"
-work_count: 5
+work_count: 6
 works:
   - title: What would happen if you said "Let's have sex." while your teacher was scolding
       you?
@@ -32,6 +32,14 @@ works:
     date: '2026-04-25'
     code: 593754
     url: /works/593754/
+  - title: 'Hanketsu, Hikokunin wa Watashi no Dildo Kei ni Shosuru | Verdict: The defendant
+      is sentenced to my dildo punishment.'
+    author: chotto-b-sen
+    cover: /covers/645743.jpg
+    rating: 4.2
+    date: '2026-04-25'
+    code: 645743
+    url: /works/645743/
   - title: 'Fukushū Yami Baito "Watashi no Moto Tsuma o Ninshin Sasete Hoshī" | My Part-Time
       Job Is Getting Revenge: Get My Ex-Wife Pregnant'
     author: chotto-b-sen

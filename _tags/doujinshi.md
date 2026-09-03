@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "doujinshi"
-work_count: 666
+work_count: 667
 works:
   - title: Another Produce -Kaede Takagaki-
     author: marushin
@@ -2852,6 +2852,14 @@ works:
     date: '2026-04-25'
     code: 645677
     url: /works/645677/
+  - title: 'Hanketsu, Hikokunin wa Watashi no Dildo Kei ni Shosuru | Verdict: The defendant
+      is sentenced to my dildo punishment.'
+    author: chotto-b-sen
+    cover: /covers/645743.jpg
+    rating: 4.2
+    date: '2026-04-25'
+    code: 645743
+    url: /works/645743/
   - title: Otonari no Downer Oyako ni Shiboritorareru Hanashi
     author: gamogamo
     cover: /covers/645896.jpg

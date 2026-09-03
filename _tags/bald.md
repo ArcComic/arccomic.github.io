@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bald"
-work_count: 40
+work_count: 41
 works:
   - title: Overwrite
     author: ojo
@@ -222,6 +222,14 @@ works:
     date: '2026-04-16'
     code: 644300
     url: /works/644300/
+  - title: 'Hanketsu, Hikokunin wa Watashi no Dildo Kei ni Shosuru | Verdict: The defendant
+      is sentenced to my dildo punishment.'
+    author: chotto-b-sen
+    cover: /covers/645743.jpg
+    rating: 4.2
+    date: '2026-04-25'
+    code: 645743
+    url: /works/645743/
   - title: Inaka ja Kore ga Joushiki dakara! | This Is Just How Things Are in the Countryside!
     author: chilt
     cover: /covers/646146.jpg

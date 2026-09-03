@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "nakadashi"
-work_count: 402
+work_count: 403
 works:
   - title: Adoration
     author: kishizuka-kenji
@@ -1905,6 +1905,14 @@ works:
     date: '2026-04-25'
     code: 645677
     url: /works/645677/
+  - title: 'Hanketsu, Hikokunin wa Watashi no Dildo Kei ni Shosuru | Verdict: The defendant
+      is sentenced to my dildo punishment.'
+    author: chotto-b-sen
+    cover: /covers/645743.jpg
+    rating: 4.2
+    date: '2026-04-25'
+    code: 645743
+    url: /works/645743/
   - title: Akumu Revenge 2 | Nightmare Revenge 2
     author: coupe
     cover: /covers/645884.jpg
