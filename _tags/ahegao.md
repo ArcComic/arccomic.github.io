@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "ahegao"
-work_count: 147
+work_count: 164
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -17,6 +17,14 @@ works:
     date: '2026-03-09'
     code: 226386
     url: /works/226386/
+  - title: Tsuma no Imouto no Danna ga Ie ni Kiteiruyoudesu | My Sister-In-Law's Husband
+      is Over
+    author: arakure
+    cover: /covers/265933.jpg
+    rating: 4.0
+    date: '2026-02-28'
+    code: 265933
+    url: /works/265933/
   - title: Yuri no o saifu ni shite agemasu ne, Senpai | I'll turn you into Yuri's wallet,
       Senpai
     author: doskoinpo
@@ -62,6 +70,13 @@ works:
     date: '2026-08-24'
     code: 392617
     url: /works/392617/
+  - title: Rako Slip!
+    author: bujidearu
+    cover: /covers/393984.jpg
+    rating: 4.4
+    date: '2026-02-26'
+    code: 393984
+    url: /works/393984/
   - title: Seisozuma Netorase...
     author: maccha-neji
     cover: /covers/415906.jpg
@@ -91,6 +106,27 @@ works:
     date: '2026-04-12'
     code: 432513
     url: /works/432513/
+  - title: Discovery
+    author: momono-yuuca
+    cover: /covers/445018.jpg
+    rating: 4.9
+    date: '2026-03-03'
+    code: 445018
+    url: /works/445018/
+  - title: Ano Hi ni Modotte Mouichido
+    author: nekome-koi
+    cover: /covers/447900.jpg
+    rating: 4.4
+    date: '2026-03-03'
+    code: 447900
+    url: /works/447900/
+  - title: Haha ⇒ umi ⇒ Nanpa ⇒ Rankou ⇒ Nikuana. Haha, Ochiru.
+    author: rin
+    cover: /covers/455844.jpg
+    rating: 4.8
+    date: '2026-03-02'
+    code: 455844
+    url: /works/455844/
   - title: Tomodachi, Osananajimi mo Kaa-san mo Netorareru
     author: sink
     cover: /covers/460565.jpg
@@ -112,6 +148,14 @@ works:
     date: '2026-04-13'
     code: 471387
     url: /works/471387/
+  - title: Seiso na Imouto no Tomodachi wa Mesugaki deshita | My Pure and Innocent Little
+      Sister Became Friends With a Mesugaki
+    author: kagono-tori
+    cover: /covers/475867.jpg
+    rating: 4.4
+    date: '2026-02-26'
+    code: 475867
+    url: /works/475867/
   - title: Asunama 9
     author: ken-1
     cover: /covers/477784.jpg
@@ -224,6 +268,13 @@ works:
     date: '2026-07-11'
     code: 538553
     url: /works/538553/
+  - title: Pakokatsu Oji-san to Kaede-chan (1+2+3) | Kaede and The Sugar Daddy
+    author: nizigensan
+    cover: /covers/543086.jpg
+    rating: 4.9
+    date: '2026-02-25'
+    code: 543086
+    url: /works/543086/
   - title: Hina-chan wa Papa ga Hoshikatta. | Hina-chan Wanted A Daddy
     author: ojo
     cover: /covers/544368.jpg
@@ -366,6 +417,14 @@ works:
     date: '2026-05-20'
     code: 600237
     url: /works/600237/
+  - title: Metsuki no Warui Kidaruge na Kouhai ni Shiboritorareru | Squeezed Up By My
+      Junior Girl Who Is Gloomy
+    author: oburigakko
+    cover: /covers/603756.jpg
+    rating: 4.3
+    date: '2026-03-02'
+    code: 603756
+    url: /works/603756/
   - title: Mesu Etsu Toiki Nemoto made Fukaku…
     author: drill-murata
     cover: /covers/612957.jpg
@@ -380,6 +439,13 @@ works:
     date: '2026-04-30'
     code: 615835
     url: /works/615835/
+  - title: 'Gal to Meccha Namahame Nakadashi Ecchi Suru Hanashi #5'
+    author: pistonring-nishizawa
+    cover: /covers/617805.jpg
+    rating: 4.8
+    date: '2026-03-04'
+    code: 617805
+    url: /works/617805/
   - title: Majime na Iinchou no Kanojo ga Sex ni Hamatta Riyuu
     author: furaimai
     cover: /covers/618562.jpg
@@ -410,6 +476,45 @@ works:
     date: '2026-05-26'
     code: 631036
     url: /works/631036/
+  - title: Gusai, Saikyouiku. | Dumb wife, re-education.
+    author: ushio-kiyoshi
+    cover: /covers/631677.jpg
+    rating: 4.8
+    date: '2026-03-03'
+    code: 631677
+    url: /works/631677/
+  - title: 'Bijutsubu Harem Katsudou Nisshi ~Senpai no Slump Kaishou ni Kyouryoku shitara,
+      Ikioi de 3P suru Koto ni Natta Hanashi~ | Art Club Harem Activity Log: How Helping
+      My Senior Get Over Her Slump Led to a Threesome in the Heat of the Moment'
+    author: momokumo
+    cover: /covers/632523.jpg
+    rating: 4.3
+    date: '2026-02-26'
+    code: 632523
+    url: /works/632523/
+  - title: Kareshi ni Betabore Chuu no Gal Senpai ga, Ore to Tsukiau made - Be my girlfriend!
+      Rio-senpai!
+    author: unknown
+    cover: /covers/632528.jpg
+    rating: 4.9
+    date: '2026-02-26'
+    code: 632528
+    url: /works/632528/
+  - title: Haha ni Muketa Seiyoku
+    author: maccha-neji
+    cover: /covers/632534.jpg
+    rating: 4.1
+    date: '2026-03-04'
+    code: 632534
+    url: /works/632534/
+  - title: Rikujoubu no Boyish na Osananajimi ga suru Dare ni mo Ienai Koto | The Secret
+      Activity of My Boyish Childhood Friend from the Track Team
+    author: harufumi
+    cover: /covers/632761.jpg
+    rating: 4.7
+    date: '2026-02-26'
+    code: 632761
+    url: /works/632761/
   - title: Kareshi ni Betabore Chuu no Gal Senpai ga, Ore to Tsukiau made - Be my girlfriend!
       Rio-senpai! | Being Clingy with Your Boyfriend... Kyaru, Senpai Why Not Date Me
       Next?
@@ -419,6 +524,20 @@ works:
     date: '2026-07-10'
     code: 633278
     url: /works/633278/
+  - title: Amoral Island
+    author: alp
+    cover: /covers/633453.jpg
+    rating: 4.8
+    date: '2026-03-02'
+    code: 633453
+    url: /works/633453/
+  - title: The Big-Breasted Lady at the Delivery Destination Is Way Too Lewd
+    author: nishibi-mitsuba
+    cover: /covers/634156.jpg
+    rating: 4.9
+    date: '2026-03-03'
+    code: 634156
+    url: /works/634156/
   - title: Hotai no Jikan ~Minna no Mae de Sensei to xxx o Shimasu~
     author: mochizaki-panko
     cover: /covers/634185.jpg
@@ -433,6 +552,14 @@ works:
     date: '2026-03-07'
     code: 634328
     url: /works/634328/
+  - title: The story of how I ended up living with my mom in a four-and-a-half tatami
+      room 1.
+    author: europia
+    cover: /covers/634383.jpg
+    rating: 4.5
+    date: '2026-03-04'
+    code: 634383
+    url: /works/634383/
   - title: Boku no Mama wa Otouto no Mae de dake Dosukebe ni Naru｜My Mom Turns Into
       a Slut for My Little Brother, and Him Alone
     author: asahina-hikage

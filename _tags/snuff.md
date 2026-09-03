@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "snuff"
-work_count: 9
+work_count: 10
 works:
   - title: Dirty Deeds Done Dirt Cheap
     author: mr-kurz
@@ -52,6 +52,13 @@ works:
     date: '2026-04-19'
     code: 623910
     url: /works/623910/
+  - title: 人質 〜カノジョはヒトジチ〜
+    author: nokenya
+    cover: /covers/631651.jpg
+    rating: 4.2
+    date: '2026-03-03'
+    code: 631651
+    url: /works/631651/
   - title: A story about a JK popular actress that gets NTR'd by a photographer boss
     author: suji-kaminari
     cover: /covers/651381.jpg

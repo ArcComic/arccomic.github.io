@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "deepthroat"
-work_count: 43
+work_count: 45
 works:
   - title: Toshishita Chin Kui Obasan
     author: maccha-neji
@@ -68,6 +68,14 @@ works:
     date: '2026-04-14'
     code: 612083
     url: /works/612083/
+  - title: Rikujoubu no Bokukko Doukyuusei ga Chuunen Komon ni Mesu ni Sareru Ichibu
+      Shijuu
+    author: marushin
+    cover: /covers/615775.jpg
+    rating: 4.8
+    date: '2026-02-26'
+    code: 615775
+    url: /works/615775/
   - title: 'Mother and Child Living Together Chapter 2 : Puberty'
     author: fuwatoro-opanchu-cake
     cover: /covers/616170.jpg
@@ -75,6 +83,14 @@ works:
     date: '2026-04-14'
     code: 616170
     url: /works/616170/
+  - title: Amatori-san to Ningensei Gomikuzu Chuunen ga Suyasuya Ecchi suru Manga |
+      A Middle-Aged Piece of Human Trash Fucks Miss Amatori in Her Sleep
+    author: saishow
+    cover: /covers/620755.jpg
+    rating: 4.8
+    date: '2026-03-03'
+    code: 620755
+    url: /works/620755/
   - title: Igumox - Muramata-san no Himitsu & Aijou - Muramata-san's Secret & Affection
       COMPLETE
     author: igumox

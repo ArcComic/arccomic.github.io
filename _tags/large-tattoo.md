@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "large tattoo"
-work_count: 6
+work_count: 8
 works:
   - title: Houkai Kazoku -Hahaoya ga Yakuza to no Sex ni Hamatta Hanashi- | Broken Family
       - A Story About a Mother Who Became Addicted to Sex With a Yakuza
@@ -19,6 +19,13 @@ works:
     date: '2026-05-07'
     code: 596598
     url: /works/596598/
+  - title: My Wife, On the Other Side of The Peep Room…
+    author: nekome-koi
+    cover: /covers/609714.jpg
+    rating: 4.2
+    date: '2026-03-03'
+    code: 609714
+    url: /works/609714/
   - title: Boku no Toshiue no Tomodachi | My Older Friend
     author: buta
     cover: /covers/631036.jpg
@@ -26,6 +33,13 @@ works:
     date: '2026-05-26'
     code: 631036
     url: /works/631036/
+  - title: moderately risky 2
+    author: borikori
+    cover: /covers/632800.jpg
+    rating: 4.3
+    date: '2026-03-03'
+    code: 632800
+    url: /works/632800/
   - title: 'GNO: Girl''s Night Out - Issue 02'
     author: uselessbegging
     cover: /covers/634464.jpg

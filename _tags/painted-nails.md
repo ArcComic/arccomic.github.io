@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "painted nails"
-work_count: 17
+work_count: 18
 works:
   - title: Ladies Night
     author: mr-kurz
@@ -81,6 +81,15 @@ works:
     date: '2026-04-23'
     code: 610041
     url: /works/610041/
+  - title: Mattaku Icha Love suru Ki no Nai Kyonyuu Reijou Gal ni Niku Dildo Atsukai
+      Sareteiru Ore no Hanashi | The Story of How I’m Treated Like a Living Dildo by
+      a Big-Titted Rich Gyaru Who Has No Interest in Being Lovey-Dovey
+    author: uni-toshiki
+    cover: /covers/610539.jpg
+    rating: 4.0
+    date: '2026-02-26'
+    code: 610539
+    url: /works/610539/
   - title: Boku no Toshiue no Tomodachi | My Older Friend
     author: buta
     cover: /covers/631036.jpg

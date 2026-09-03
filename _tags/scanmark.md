@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "scanmark"
-work_count: 92
+work_count: 94
 works:
   - title: NTR Anniversary + ) [Syukurin] Mitsuha ~Netorare~ (Kimi no Na wa.) [English]
       [Colorized] by Mikaku
@@ -63,6 +63,13 @@ works:
     date: '2026-04-27'
     code: 616533
     url: /works/616533/
+  - title: 'Gal to Meccha Namahame Nakadashi Ecchi Suru Hanashi #5'
+    author: pistonring-nishizawa
+    cover: /covers/617805.jpg
+    rating: 4.8
+    date: '2026-03-04'
+    code: 617805
+    url: /works/617805/
   - title: Majime na Iinchou no Kanojo ga Sex ni Hamatta Riyuu
     author: furaimai
     cover: /covers/618562.jpg
@@ -99,6 +106,13 @@ works:
     date: '2026-08-20'
     code: 632132
     url: /works/632132/
+  - title: Haha ni Muketa Seiyoku
+    author: maccha-neji
+    cover: /covers/632534.jpg
+    rating: 4.1
+    date: '2026-03-04'
+    code: 632534
+    url: /works/632534/
   - title: Tada Sex Shitakatta dake nano ni SNS de Deatta Bimajo ga Scatolo Mania de,
       Boku wa... 1
     author: bonske

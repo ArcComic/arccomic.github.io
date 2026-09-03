@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "pubic stubble"
-work_count: 3
+work_count: 4
 works:
   - title: Ryoujoku Gakuen
     author: motchie
@@ -18,6 +18,15 @@ works:
     date: '2026-04-17'
     code: 566835
     url: /works/566835/
+  - title: 'Bijutsubu Harem Katsudou Nisshi ~Senpai no Slump Kaishou ni Kyouryoku shitara,
+      Ikioi de 3P suru Koto ni Natta Hanashi~ | Art Club Harem Activity Log: How Helping
+      My Senior Get Over Her Slump Led to a Threesome in the Heat of the Moment'
+    author: momokumo
+    cover: /covers/632523.jpg
+    rating: 4.3
+    date: '2026-02-26'
+    code: 632523
+    url: /works/632523/
   - title: BUTA - 『You did a great job』
     author: buta
     cover: /covers/639772.jpg

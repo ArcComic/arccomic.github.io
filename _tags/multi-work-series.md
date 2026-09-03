@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "multi-work series"
-work_count: 186
+work_count: 201
 works:
+  - title: Oppai na Natsuyasumi 2 | The Summer Break of Boobs 2
+    author: higashino-mikan
+    cover: /covers/292454.jpg
+    rating: 4.9
+    date: '2026-03-04'
+    code: 292454
+    url: /works/292454/
   - title: Maid no Oshigoto. II | Maid's Work II
     author: alexi-laiho
     cover: /covers/296282.jpg
@@ -17,6 +24,13 @@ works:
     date: '2026-05-10'
     code: 311755
     url: /works/311755/
+  - title: Tsumareta Ikoku no Hana II
+    author: darabuchi
+    cover: /covers/315693.jpg
+    rating: 4.1
+    date: '2026-03-04'
+    code: 315693
+    url: /works/315693/
   - title: Love Divided Between a Rock and a Hard Place Ch.1
     author: cabin
     cover: /covers/342540.jpg
@@ -235,6 +249,14 @@ works:
     date: '2026-05-04'
     code: 518608
     url: /works/518608/
+  - title: Chijoku Zuma ~Konna ni Nurasaretara Mou Gaman Dekinai... 1 | Disgraceful
+      Wife - I Can't Stand It Anymore When I Get This Wet... 1
+    author: pink-taro
+    cover: /covers/519421.jpg
+    rating: 4.9
+    date: '2026-02-25'
+    code: 519421
+    url: /works/519421/
   - title: '"Ikaseru Furi suru dake" tte Itta no ni... Satsutaba o Kuwaenagara Maji
       Ikigao o Sarasu JK 1 | But You Said You''d Only Pretend to Make Me Cum... 1'
     author: ouma
@@ -272,6 +294,13 @@ works:
     date: '2026-05-26'
     code: 532417
     url: /works/532417/
+  - title: Zoku Kunikida Senpai no Kakushigoto | Kunikida Senpai's Secret ・Continued
+    author: momokumo
+    cover: /covers/533325.jpg
+    rating: 4.6
+    date: '2026-02-26'
+    code: 533325
+    url: /works/533325/
   - title: '"Sex no Benkyou Shiyokka?" Kareshi ga Iru no ni Itoko kara Shojo wo Ubaware
       Zecchou Shidou 1-5 | Let''s Learn About Sex: Your Cousin Will Take Your Virginity
       and Teach You How to Come 1-5'
@@ -337,6 +366,13 @@ works:
     date: '2026-07-11'
     code: 538553
     url: /works/538553/
+  - title: Pakokatsu Oji-san to Kaede-chan (1+2+3) | Kaede and The Sugar Daddy
+    author: nizigensan
+    cover: /covers/543086.jpg
+    rating: 4.9
+    date: '2026-02-25'
+    code: 543086
+    url: /works/543086/
   - title: Kaa-san to Shitai Koto ~ Zetsurin Musuko to no Seikatsu Kaisou Hen | What
       I want to do with My Mother ~ Sex Life with My Son Who Has...
     author: saimon-k
@@ -433,6 +469,20 @@ works:
     date: '2026-04-23'
     code: 569731
     url: /works/569731/
+  - title: Re. Bishoujo Seitokaichou o Seibyou Mochi no Owakon Onna ni Otosu Hanashi
+    author: kyouan
+    cover: /covers/576288.jpg
+    rating: 4.6
+    date: '2026-03-03'
+    code: 576288
+    url: /works/576288/
+  - title: Zero Kyori no Manazashi
+    author: momoko
+    cover: /covers/578371.jpg
+    rating: 4.7
+    date: '2026-02-26'
+    code: 578371
+    url: /works/578371/
   - title: Boku no Kaa-chan 2 | My Mom 2
     author: cammy
     cover: /covers/579339.jpg
@@ -573,6 +623,14 @@ works:
     date: '2026-04-23'
     code: 610041
     url: /works/610041/
+  - title: Tannin no Meido ni Nacchatta KURO GAL 2 | The Black Gal Who Became The Homeroom
+      Teacher's Maid 2
+    author: ootsuka-kotora
+    cover: /covers/611701.jpg
+    rating: 4.6
+    date: '2026-03-03'
+    code: 611701
+    url: /works/611701/
   - title: Eroi Koto Igai de Toki o Tomete wa Dame desu yo 2
     author: ohkura-kazuya
     cover: /covers/615835.jpg
@@ -627,6 +685,35 @@ works:
     date: '2026-03-05'
     code: 631501
     url: /works/631501/
+  - title: Boku no Kanojo wa Midasareru ~Ryokan Hen~ - I'm just here for a little bit
+      of stimulation. | 深陷誘惑的女友 旅館篇
+    author: mintice
+    cover: /covers/631662.jpg
+    rating: 4.2
+    date: '2026-03-03'
+    code: 631662
+    url: /works/631662/
+  - title: Kajitsu 7
+    author: ken-1
+    cover: /covers/631665.jpg
+    rating: 4.5
+    date: '2026-03-03'
+    code: 631665
+    url: /works/631665/
+  - title: Haken no Nakano-san wa Moto AV Joyuu ~Office de Dokidoki Sex Hen~
+    author: sumiya
+    cover: /covers/631695.jpg
+    rating: 4.1
+    date: '2026-02-25'
+    code: 631695
+    url: /works/631695/
+  - title: Pakokatsu Oji-san to Kaede-chan 3
+    author: nizigensan
+    cover: /covers/631703.jpg
+    rating: 4.0
+    date: '2026-02-25'
+    code: 631703
+    url: /works/631703/
   - title: Aitsu, Kotowarenai kara.. Remake-ban no Tsuzuki dewa Arimasu ga, Konsaku
       wa Yakinaoshi ja Nai yo. Settei Igai wa Sinsaku da yo. Sonna Kanji no Vol. 2 desu
     author: haruharudo
@@ -635,6 +722,28 @@ works:
     date: '2026-07-17'
     code: 632056
     url: /works/632056/
+  - title: Amoral Island
+    author: alp
+    cover: /covers/633453.jpg
+    rating: 4.8
+    date: '2026-03-02'
+    code: 633453
+    url: /works/633453/
+  - title: 'Sex with My Otaku Friend is Mind-blowing: Miyoshi''s Turn'
+    author: alp
+    cover: /covers/633834.jpg
+    rating: 4.2
+    date: '2026-03-02'
+    code: 633834
+    url: /works/633834/
+  - title: Tower Residence Setsuguka Taiouchuu | Tower Residence Service Department
+      Now Serving
+    author: tomohiro-kai
+    cover: /covers/633842.jpg
+    rating: 4.1
+    date: '2026-03-02'
+    code: 633842
+    url: /works/633842/
   - title: Boku no Daisuki na Kaa-san to Omou Zonbun Sex Dekiru Hi 4 | My Fabulous Fuck
       Day with My Amazing Mommy 4
     author: higehurai

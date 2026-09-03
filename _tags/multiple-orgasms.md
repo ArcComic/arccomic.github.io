@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "multiple orgasms"
-work_count: 56
+work_count: 62
 works:
+  - title: Rako Slip!
+    author: bujidearu
+    cover: /covers/393984.jpg
+    rating: 4.4
+    date: '2026-02-26'
+    code: 393984
+    url: /works/393984/
   - title: Yurikago
     author: neko-samurai
     cover: /covers/398305.jpg
@@ -25,6 +32,14 @@ works:
     date: '2026-04-23'
     code: 448503
     url: /works/448503/
+  - title: Seiso na Imouto no Tomodachi wa Mesugaki deshita | My Pure and Innocent Little
+      Sister Became Friends With a Mesugaki
+    author: kagono-tori
+    cover: /covers/475867.jpg
+    rating: 4.4
+    date: '2026-02-26'
+    code: 475867
+    url: /works/475867/
   - title: Konoe no Kyuujitsu | Konoe's Day Off
     author: alp
     cover: /covers/479447.jpg
@@ -138,6 +153,15 @@ works:
     date: '2026-04-23'
     code: 610041
     url: /works/610041/
+  - title: Mattaku Icha Love suru Ki no Nai Kyonyuu Reijou Gal ni Niku Dildo Atsukai
+      Sareteiru Ore no Hanashi | The Story of How I’m Treated Like a Living Dildo by
+      a Big-Titted Rich Gyaru Who Has No Interest in Being Lovey-Dovey
+    author: uni-toshiki
+    cover: /covers/610539.jpg
+    rating: 4.0
+    date: '2026-02-26'
+    code: 610539
+    url: /works/610539/
   - title: Fuyu-san wa Sotsugyou Shitai | Fuyu-san Wants to Lose Her V-Card
     author: kurihara-kenshirou
     cover: /covers/619405.jpg
@@ -168,6 +192,29 @@ works:
     date: '2026-04-25'
     code: 632188
     url: /works/632188/
+  - title: Amoral Island
+    author: alp
+    cover: /covers/633453.jpg
+    rating: 4.8
+    date: '2026-03-02'
+    code: 633453
+    url: /works/633453/
+  - title: Tower Residence Setsuguka Taiouchuu | Tower Residence Service Department
+      Now Serving
+    author: tomohiro-kai
+    cover: /covers/633842.jpg
+    rating: 4.1
+    date: '2026-03-02'
+    code: 633842
+    url: /works/633842/
+  - title: 2-nen C-gumi Gakuen Oppabu no Cast ni Imouto ga Ita | My Little Sister Was
+      a Hostess at Class 2-C's School Festival Boobs Bar
+    author: bunapi-397-yen
+    cover: /covers/634137.jpg
+    rating: 4.2
+    date: '2026-03-03'
+    code: 634137
+    url: /works/634137/
   - title: 'GNO: Girl''s Night Out - Issue 02'
     author: uselessbegging
     cover: /covers/634464.jpg

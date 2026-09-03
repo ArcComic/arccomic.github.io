@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "tanlines"
-work_count: 14
+work_count: 15
 works:
   - title: CHOCO x LOVE
     author: highlow
@@ -25,6 +25,14 @@ works:
     date: '2026-04-27'
     code: 616533
     url: /works/616533/
+  - title: Rikujoubu no Boyish na Osananajimi ga suru Dare ni mo Ienai Koto | The Secret
+      Activity of My Boyish Childhood Friend from the Track Team
+    author: harufumi
+    cover: /covers/632761.jpg
+    rating: 4.7
+    date: '2026-02-26'
+    code: 632761
+    url: /works/632761/
   - title: Inaka ja Kore ga Joushiki dakara! | This Is Just How Things Are in the Countryside!
     author: chilt
     cover: /covers/646146.jpg

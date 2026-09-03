@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "incomplete"
-work_count: 11
+work_count: 12
 works:
   - title: Kizashi
     author: yoshiura-kazuya
@@ -46,6 +46,13 @@ works:
     date: '2026-08-18'
     code: 521812
     url: /works/521812/
+  - title: Amoral Island
+    author: alp
+    cover: /covers/633453.jpg
+    rating: 4.8
+    date: '2026-03-02'
+    code: 633453
+    url: /works/633453/
   - title: Koukan Nikki ー School Whore Diaries
     author: henkuma
     cover: /covers/634328.jpg

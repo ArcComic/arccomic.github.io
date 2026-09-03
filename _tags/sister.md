@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sister"
-work_count: 41
+work_count: 42
 works:
   - title: Onee-chan ga Ecchi na Koto bakka Suru kara... | My older sister only does
       obscene things...
@@ -99,6 +99,14 @@ works:
     date: '2026-08-29'
     code: 618087
     url: /works/618087/
+  - title: 2-nen C-gumi Gakuen Oppabu no Cast ni Imouto ga Ita | My Little Sister Was
+      a Hostess at Class 2-C's School Festival Boobs Bar
+    author: bunapi-397-yen
+    cover: /covers/634137.jpg
+    rating: 4.2
+    date: '2026-03-03'
+    code: 634137
+    url: /works/634137/
   - title: Jimoto no Dekai Gal 2
     author: ueno-meguru
     cover: /covers/634593.jpg

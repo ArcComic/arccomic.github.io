@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "chikan"
-work_count: 11
+work_count: 12
 works:
   - title: IKUu!! Zenkou Seito no Mae de Koukai Zecchou-saserareta JK no Matsuro 1 |
       Cumming in Front of the Entire Student Body 1
@@ -11,6 +11,14 @@ works:
     date: '2026-05-04'
     code: 518608
     url: /works/518608/
+  - title: Chijoku Zuma ~Konna ni Nurasaretara Mou Gaman Dekinai... 1 | Disgraceful
+      Wife - I Can't Stand It Anymore When I Get This Wet... 1
+    author: pink-taro
+    cover: /covers/519421.jpg
+    rating: 4.9
+    date: '2026-02-25'
+    code: 519421
+    url: /works/519421/
   - title: '"Sex no Benkyou Shiyokka?" Kareshi ga Iru no ni Itoko kara Shojo wo Ubaware
       Zecchou Shidou 1-5 | Let''s Learn About Sex: Your Cousin Will Take Your Virginity
       and Teach You How to Come 1-5'

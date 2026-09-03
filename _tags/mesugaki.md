@@ -1,8 +1,16 @@
 ---
 layout: tag
 tag_name: "mesugaki"
-work_count: 4
+work_count: 5
 works:
+  - title: Seiso na Imouto no Tomodachi wa Mesugaki deshita | My Pure and Innocent Little
+      Sister Became Friends With a Mesugaki
+    author: kagono-tori
+    cover: /covers/475867.jpg
+    rating: 4.4
+    date: '2026-02-26'
+    code: 475867
+    url: /works/475867/
   - title: Uwa, Mesugaki Tsuyoi! | Crap, This Mesugaki's Too Powerful!
     author: poncocchan
     cover: /covers/550359.jpg

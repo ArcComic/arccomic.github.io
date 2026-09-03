@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "femsub"
-work_count: 7
+work_count: 8
 works:
   - title: Ame no Hi wa, Honnori Chikubi
     author: hoshi-to-lucky
@@ -10,6 +10,13 @@ works:
     date: '2026-05-04'
     code: 484860
     url: /works/484860/
+  - title: Gusai, Saikyouiku. | Dumb wife, re-education.
+    author: ushio-kiyoshi
+    cover: /covers/631677.jpg
+    rating: 4.8
+    date: '2026-03-03'
+    code: 631677
+    url: /works/631677/
   - title: Imouto Haramasenai to Derarenai Shima 2 | You Must Breed Your Sister to Leave
       This Island 2!
     author: airandou

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "cowgirl"
-work_count: 11
+work_count: 12
 works:
   - title: Homestay-chu no Doitsu Musume ga Issho ni Furo ni Haitte Kuru Wake | The
       Reason Why a German Girl Takes a Bath Together With Me on Her Homestay
@@ -39,6 +39,14 @@ works:
     date: '2026-04-27'
     code: 606166
     url: /works/606166/
+  - title: Rikujoubu no Boyish na Osananajimi ga suru Dare ni mo Ienai Koto | The Secret
+      Activity of My Boyish Childhood Friend from the Track Team
+    author: harufumi
+    cover: /covers/632761.jpg
+    rating: 4.7
+    date: '2026-02-26'
+    code: 632761
+    url: /works/632761/
   - title: 'YariCir Shingakki ni Boku no Heya wa Minna no Tamariba (Omake Ver.) - Fuck
       Club: New Term! My Room''s A Hangout Spot For Everyone'
     author: purumetal

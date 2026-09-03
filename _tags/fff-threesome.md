@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "fff threesome"
-work_count: 2
+work_count: 3
 works:
+  - title: Amoral Island
+    author: alp
+    cover: /covers/633453.jpg
+    rating: 4.8
+    date: '2026-03-02'
+    code: 633453
+    url: /works/633453/
   - title: 'Hyakka Yuran - Sakura | Encyclopedia: Yu-Chan''s Cherry Blossoms'
     author: ueto-seri-ueto-ruri
     cover: /covers/664642.jpg

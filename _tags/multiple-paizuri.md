@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "multiple paizuri"
-work_count: 6
+work_count: 7
 works:
   - title: Mesu Etsu Toiki Nemoto made Fukaku…
     author: drill-murata
@@ -10,6 +10,13 @@ works:
     date: '2026-04-17'
     code: 612957
     url: /works/612957/
+  - title: Amoral Island
+    author: alp
+    cover: /covers/633453.jpg
+    rating: 4.8
+    date: '2026-03-02'
+    code: 633453
+    url: /works/633453/
   - title: Sex Shinai to Derarenai Hotel 2 | The hotel you can't leave without having
       sex 2
     author: jeattle

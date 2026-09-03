@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "stockings"
-work_count: 114
+work_count: 124
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -154,6 +154,14 @@ works:
     date: '2026-03-07'
     code: 453969
     url: /works/453969/
+  - title: Seiso na Imouto no Tomodachi wa Mesugaki deshita | My Pure and Innocent Little
+      Sister Became Friends With a Mesugaki
+    author: kagono-tori
+    cover: /covers/475867.jpg
+    rating: 4.4
+    date: '2026-02-26'
+    code: 475867
+    url: /works/475867/
   - title: Obedience Part 1
     author: laliberte
     cover: /covers/501709.jpg
@@ -184,6 +192,13 @@ works:
     date: '2026-04-23'
     code: 506303
     url: /works/506303/
+  - title: Oppai na Natsuyasumi Soushuuhen | The Summer Break of Boobs Complete
+    author: higashino-mikan
+    cover: /covers/508649.jpg
+    rating: 4.3
+    date: '2026-03-04'
+    code: 508649
+    url: /works/508649/
   - title: Bitch Mama no Kekkon Riyuu
     author: aoyama-akira
     cover: /covers/512473.jpg
@@ -307,6 +322,13 @@ works:
     date: '2026-04-19'
     code: 569195
     url: /works/569195/
+  - title: Michikake - Waxing and Waning
+    author: momono-yuuca
+    cover: /covers/574060.jpg
+    rating: 4.9
+    date: '2026-03-03'
+    code: 574060
+    url: /works/574060/
   - title: Kugisaki Anal Otoshi
     author: ishigaki-takashi
     cover: /covers/579976.jpg
@@ -374,6 +396,21 @@ works:
     date: '2026-08-25'
     code: 608648
     url: /works/608648/
+  - title: My Wife, On the Other Side of The Peep Room…
+    author: nekome-koi
+    cover: /covers/609714.jpg
+    rating: 4.2
+    date: '2026-03-03'
+    code: 609714
+    url: /works/609714/
+  - title: Tannin no Meido ni Nacchatta KURO GAL 2 | The Black Gal Who Became The Homeroom
+      Teacher's Maid 2
+    author: ootsuka-kotora
+    cover: /covers/611701.jpg
+    rating: 4.6
+    date: '2026-03-03'
+    code: 611701
+    url: /works/611701/
   - title: Mesu Etsu Toiki Nemoto made Fukaku…
     author: drill-murata
     cover: /covers/612957.jpg
@@ -388,6 +425,38 @@ works:
     date: '2026-04-13'
     code: 630903
     url: /works/630903/
+  - title: Boku no Kanojo wa Midasareru ~Ryokan Hen~ - I'm just here for a little bit
+      of stimulation. | 深陷誘惑的女友 旅館篇
+    author: mintice
+    cover: /covers/631662.jpg
+    rating: 4.2
+    date: '2026-03-03'
+    code: 631662
+    url: /works/631662/
+  - title: Yumemiru Idol Ikuseiron
+    author: kakino-nashiko
+    cover: /covers/631704.jpg
+    rating: 4.5
+    date: '2026-02-25'
+    code: 631704
+    url: /works/631704/
+  - title: 'Bijutsubu Harem Katsudou Nisshi ~Senpai no Slump Kaishou ni Kyouryoku shitara,
+      Ikioi de 3P suru Koto ni Natta Hanashi~ | Art Club Harem Activity Log: How Helping
+      My Senior Get Over Her Slump Led to a Threesome in the Heat of the Moment'
+    author: momokumo
+    cover: /covers/632523.jpg
+    rating: 4.3
+    date: '2026-02-26'
+    code: 632523
+    url: /works/632523/
+  - title: Rikujoubu no Boyish na Osananajimi ga suru Dare ni mo Ienai Koto | The Secret
+      Activity of My Boyish Childhood Friend from the Track Team
+    author: harufumi
+    cover: /covers/632761.jpg
+    rating: 4.7
+    date: '2026-02-26'
+    code: 632761
+    url: /works/632761/
   - title: Tada Sex Shitakatta dake nano ni SNS de Deatta Bimajo ga Scatolo Mania de,
       Boku wa... 1
     author: bonske
@@ -396,6 +465,14 @@ works:
     date: '2026-07-09'
     code: 633938
     url: /works/633938/
+  - title: 2-nen C-gumi Gakuen Oppabu no Cast ni Imouto ga Ita | My Little Sister Was
+      a Hostess at Class 2-C's School Festival Boobs Bar
+    author: bunapi-397-yen
+    cover: /covers/634137.jpg
+    rating: 4.2
+    date: '2026-03-03'
+    code: 634137
+    url: /works/634137/
   - title: Koukan Nikki ー School Whore Diaries
     author: henkuma
     cover: /covers/634328.jpg

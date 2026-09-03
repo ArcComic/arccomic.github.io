@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "fingering"
-work_count: 85
+work_count: 93
 works:
   - title: Gekkoutou no Yume - Nyotaika Douwa ~Danshi Kinsei no Tou~
     author: mugen-no-sudadokei
@@ -31,6 +31,13 @@ works:
     date: '2026-03-07'
     code: 446018
     url: /works/446018/
+  - title: Ano Hi ni Modotte Mouichido
+    author: nekome-koi
+    cover: /covers/447900.jpg
+    rating: 4.4
+    date: '2026-03-03'
+    code: 447900
+    url: /works/447900/
   - title: Yarareru kanojo - Hitozumajoushi ManaNTR -
     author: tokyo-gunjo
     cover: /covers/465602.jpg
@@ -110,6 +117,14 @@ works:
     date: '2026-05-04'
     code: 518608
     url: /works/518608/
+  - title: Chijoku Zuma ~Konna ni Nurasaretara Mou Gaman Dekinai... 1 | Disgraceful
+      Wife - I Can't Stand It Anymore When I Get This Wet... 1
+    author: pink-taro
+    cover: /covers/519421.jpg
+    rating: 4.9
+    date: '2026-02-25'
+    code: 519421
+    url: /works/519421/
   - title: '"Ikaseru Furi suru dake" tte Itta no ni... Satsutaba o Kuwaenagara Maji
       Ikigao o Sarasu JK 1 | But You Said You''d Only Pretend to Make Me Cum... 1'
     author: ouma
@@ -149,6 +164,13 @@ works:
     date: '2026-05-10'
     code: 540125
     url: /works/540125/
+  - title: Pakokatsu Oji-san to Kaede-chan (1+2+3) | Kaede and The Sugar Daddy
+    author: nizigensan
+    cover: /covers/543086.jpg
+    rating: 4.9
+    date: '2026-02-25'
+    code: 543086
+    url: /works/543086/
   - title: Kekkon 3-Nen Me no Tsuma wa, Shain Ryokou Chuu ni Otto no Yoko de Netorareru!
       1 | Netorare With a Busty Wife on a Company Trip 1
     author: aoi-shou
@@ -328,6 +350,44 @@ works:
     date: '2026-04-23'
     code: 628865
     url: /works/628865/
+  - title: 'Bijutsubu Harem Katsudou Nisshi ~Senpai no Slump Kaishou ni Kyouryoku shitara,
+      Ikioi de 3P suru Koto ni Natta Hanashi~ | Art Club Harem Activity Log: How Helping
+      My Senior Get Over Her Slump Led to a Threesome in the Heat of the Moment'
+    author: momokumo
+    cover: /covers/632523.jpg
+    rating: 4.3
+    date: '2026-02-26'
+    code: 632523
+    url: /works/632523/
+  - title: Have a nice day.
+    author: owari-ningen
+    cover: /covers/632967.jpg
+    rating: 4.1
+    date: '2026-02-26'
+    code: 632967
+    url: /works/632967/
+  - title: Amoral Island
+    author: alp
+    cover: /covers/633453.jpg
+    rating: 4.8
+    date: '2026-03-02'
+    code: 633453
+    url: /works/633453/
+  - title: Tower Residence Setsuguka Taiouchuu | Tower Residence Service Department
+      Now Serving
+    author: tomohiro-kai
+    cover: /covers/633842.jpg
+    rating: 4.1
+    date: '2026-03-02'
+    code: 633842
+    url: /works/633842/
+  - title: The Big-Breasted Lady at the Delivery Destination Is Way Too Lewd
+    author: nishibi-mitsuba
+    cover: /covers/634156.jpg
+    rating: 4.9
+    date: '2026-03-03'
+    code: 634156
+    url: /works/634156/
   - title: Siblings Shouldn't Do It! | Kyoudai de Shitara Ikemasen
     author: fence-14
     cover: /covers/635266.jpg

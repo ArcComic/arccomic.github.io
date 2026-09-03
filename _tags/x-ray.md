@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "x-ray"
-work_count: 143
+work_count: 160
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -10,6 +10,21 @@ works:
     date: '2026-04-17'
     code: 162047
     url: /works/162047/
+  - title: Tsuma no Imouto no Danna ga Ie ni Kiteiruyoudesu | My Sister-In-Law's Husband
+      is Over
+    author: arakure
+    cover: /covers/265933.jpg
+    rating: 4.0
+    date: '2026-02-28'
+    code: 265933
+    url: /works/265933/
+  - title: Tsumareta Ikoku no Hana II
+    author: darabuchi
+    cover: /covers/315693.jpg
+    rating: 4.1
+    date: '2026-03-04'
+    code: 315693
+    url: /works/315693/
   - title: Toshishita Chin Kui Obasan
     author: maccha-neji
     cover: /covers/387637.jpg
@@ -53,6 +68,13 @@ works:
     date: '2026-08-18'
     code: 432356
     url: /works/432356/
+  - title: Discovery
+    author: momono-yuuca
+    cover: /covers/445018.jpg
+    rating: 4.9
+    date: '2026-03-03'
+    code: 445018
+    url: /works/445018/
   - title: Ladies Night
     author: mr-kurz
     cover: /covers/446018.jpg
@@ -67,6 +89,13 @@ works:
     date: '2026-04-19'
     code: 446716
     url: /works/446716/
+  - title: Haha ⇒ umi ⇒ Nanpa ⇒ Rankou ⇒ Nikuana. Haha, Ochiru.
+    author: rin
+    cover: /covers/455844.jpg
+    rating: 4.8
+    date: '2026-03-02'
+    code: 455844
+    url: /works/455844/
   - title: What would happen if you said "Let's have sex." while your teacher was scolding
       you?
     author: chotto-b-sen
@@ -89,6 +118,14 @@ works:
     date: '2026-04-15'
     code: 471998
     url: /works/471998/
+  - title: Seiso na Imouto no Tomodachi wa Mesugaki deshita | My Pure and Innocent Little
+      Sister Became Friends With a Mesugaki
+    author: kagono-tori
+    cover: /covers/475867.jpg
+    rating: 4.4
+    date: '2026-02-26'
+    code: 475867
+    url: /works/475867/
   - title: Neteru Onii-chan no Are o Kariru Hanashi
     author: tiger
     cover: /covers/476399.jpg
@@ -126,6 +163,13 @@ works:
     date: '2026-05-01'
     code: 508534
     url: /works/508534/
+  - title: Oppai na Natsuyasumi Soushuuhen | The Summer Break of Boobs Complete
+    author: higashino-mikan
+    cover: /covers/508649.jpg
+    rating: 4.3
+    date: '2026-03-04'
+    code: 508649
+    url: /works/508649/
   - title: Keitai de Muchimuchi na Chounyuu JD ni Chinpo o Shigoki Agete Morau Hanashi
     author: yosyo
     cover: /covers/531191.jpg
@@ -149,6 +193,13 @@ works:
     date: '2026-07-11'
     code: 538553
     url: /works/538553/
+  - title: Pakokatsu Oji-san to Kaede-chan (1+2+3) | Kaede and The Sugar Daddy
+    author: nizigensan
+    cover: /covers/543086.jpg
+    rating: 4.9
+    date: '2026-02-25'
+    code: 543086
+    url: /works/543086/
   - title: Choukyou Zumi Hitozuma OL wa Joushi ni Dakare Futatabi Ochiru
     author: toono-suika
     cover: /covers/550164.jpg
@@ -216,6 +267,14 @@ works:
     date: '2026-04-30'
     code: 566052
     url: /works/566052/
+  - title: Adult Game mo Ganbaru zoi | I'll Do My Best, Even if I'm Working on an Adult
+      Game
+    author: ootsuka-kotora
+    cover: /covers/573414.jpg
+    rating: 4.8
+    date: '2026-03-04'
+    code: 573414
+    url: /works/573414/
   - title: Nanami-chan can’t resist after a date! Cafe, Cinema, Love hotel~
     author: a2me
     cover: /covers/579819.jpg
@@ -339,6 +398,15 @@ works:
     date: '2026-04-23'
     code: 610041
     url: /works/610041/
+  - title: Mattaku Icha Love suru Ki no Nai Kyonyuu Reijou Gal ni Niku Dildo Atsukai
+      Sareteiru Ore no Hanashi | The Story of How I’m Treated Like a Living Dildo by
+      a Big-Titted Rich Gyaru Who Has No Interest in Being Lovey-Dovey
+    author: uni-toshiki
+    cover: /covers/610539.jpg
+    rating: 4.0
+    date: '2026-02-26'
+    code: 610539
+    url: /works/610539/
   - title: Mesu Etsu Toiki Nemoto made Fukaku…
     author: drill-murata
     cover: /covers/612957.jpg
@@ -346,6 +414,14 @@ works:
     date: '2026-04-17'
     code: 612957
     url: /works/612957/
+  - title: Rikujoubu no Bokukko Doukyuusei ga Chuunen Komon ni Mesu ni Sareru Ichibu
+      Shijuu
+    author: marushin
+    cover: /covers/615775.jpg
+    rating: 4.8
+    date: '2026-02-26'
+    code: 615775
+    url: /works/615775/
   - title: Eroi Koto Igai de Toki o Tomete wa Dame desu yo 2
     author: ohkura-kazuya
     cover: /covers/615835.jpg
@@ -367,6 +443,20 @@ works:
     date: '2026-04-13'
     code: 630903
     url: /works/630903/
+  - title: Daddy's Forgotten Life Purpose
+    author: group
+    cover: /covers/631630.jpg
+    rating: 4.3
+    date: '2026-03-03'
+    code: 631630
+    url: /works/631630/
+  - title: Yumemiru Idol Ikuseiron
+    author: kakino-nashiko
+    cover: /covers/631704.jpg
+    rating: 4.5
+    date: '2026-02-25'
+    code: 631704
+    url: /works/631704/
   - title: Kaisha de majimena Shizuno-san wa ie de otoko o katterurashii | Seems The
       Serious Office Worker Shizuno Keeps A Pet Guy At Home
     author: yuzuha
@@ -375,6 +465,15 @@ works:
     date: '2026-04-25'
     code: 632188
     url: /works/632188/
+  - title: 'Bijutsubu Harem Katsudou Nisshi ~Senpai no Slump Kaishou ni Kyouryoku shitara,
+      Ikioi de 3P suru Koto ni Natta Hanashi~ | Art Club Harem Activity Log: How Helping
+      My Senior Get Over Her Slump Led to a Threesome in the Heat of the Moment'
+    author: momokumo
+    cover: /covers/632523.jpg
+    rating: 4.3
+    date: '2026-02-26'
+    code: 632523
+    url: /works/632523/
   - title: Kareshi ni Betabore Chuu no Gal Senpai ga, Ore to Tsukiau made - Be my girlfriend!
       Rio-senpai! | Being Clingy with Your Boyfriend... Kyaru, Senpai Why Not Date Me
       Next?
@@ -384,6 +483,36 @@ works:
     date: '2026-07-10'
     code: 633278
     url: /works/633278/
+  - title: Amoral Island
+    author: alp
+    cover: /covers/633453.jpg
+    rating: 4.8
+    date: '2026-03-02'
+    code: 633453
+    url: /works/633453/
+  - title: Tower Residence Setsuguka Taiouchuu | Tower Residence Service Department
+      Now Serving
+    author: tomohiro-kai
+    cover: /covers/633842.jpg
+    rating: 4.1
+    date: '2026-03-02'
+    code: 633842
+    url: /works/633842/
+  - title: 2-nen C-gumi Gakuen Oppabu no Cast ni Imouto ga Ita | My Little Sister Was
+      a Hostess at Class 2-C's School Festival Boobs Bar
+    author: bunapi-397-yen
+    cover: /covers/634137.jpg
+    rating: 4.2
+    date: '2026-03-03'
+    code: 634137
+    url: /works/634137/
+  - title: The Big-Breasted Lady at the Delivery Destination Is Way Too Lewd
+    author: nishibi-mitsuba
+    cover: /covers/634156.jpg
+    rating: 4.9
+    date: '2026-03-03'
+    code: 634156
+    url: /works/634156/
   - title: 橘さん家ノ脅迫NTR事情
     author: group
     cover: /covers/634198.jpg

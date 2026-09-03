@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bald"
-work_count: 33
+work_count: 40
 works:
   - title: Overwrite
     author: ojo
@@ -24,6 +24,20 @@ works:
     date: '2026-07-17'
     code: 300943
     url: /works/300943/
+  - title: Tsumareta Ikoku no Hana II
+    author: darabuchi
+    cover: /covers/315693.jpg
+    rating: 4.1
+    date: '2026-03-04'
+    code: 315693
+    url: /works/315693/
+  - title: Hikage | Shade
+    author: syuuen
+    cover: /covers/429669.jpg
+    rating: 4.8
+    date: '2026-02-28'
+    code: 429669
+    url: /works/429669/
   - title: Yofukashi no Tsuma ~Murakami Kozue~ | Late-Night Wife ~Murakami Kozue~
     author: oobayashi-mori
     cover: /covers/453749.jpg
@@ -31,6 +45,13 @@ works:
     date: '2026-04-19'
     code: 453749
     url: /works/453749/
+  - title: Risato
+    author: unknown
+    cover: /covers/484852.jpg
+    rating: 4.5
+    date: '2026-02-28'
+    code: 484852
+    url: /works/484852/
   - title: Tsuma wa NTR reta gatte iru. 5
     author: jill
     cover: /covers/531759.jpg
@@ -60,6 +81,13 @@ works:
     date: '2026-07-17'
     code: 564042
     url: /works/564042/
+  - title: Re. Bishoujo Seitokaichou o Seibyou Mochi no Owakon Onna ni Otosu Hanashi
+    author: kyouan
+    cover: /covers/576288.jpg
+    rating: 4.6
+    date: '2026-03-03'
+    code: 576288
+    url: /works/576288/
   - title: Boku no Kaa-chan 2 | My Mom 2
     author: cammy
     cover: /covers/579339.jpg
@@ -104,6 +132,14 @@ works:
     date: '2026-05-20'
     code: 600237
     url: /works/600237/
+  - title: Tannin no Meido ni Nacchatta KURO GAL 2 | The Black Gal Who Became The Homeroom
+      Teacher's Maid 2
+    author: ootsuka-kotora
+    cover: /covers/611701.jpg
+    rating: 4.6
+    date: '2026-03-03'
+    code: 611701
+    url: /works/611701/
   - title: Eroi Koto Igai de Toki o Tomete wa Dame desu yo 2
     author: ohkura-kazuya
     cover: /covers/615835.jpg
@@ -111,6 +147,21 @@ works:
     date: '2026-04-30'
     code: 615835
     url: /works/615835/
+  - title: Amatori-san to Ningensei Gomikuzu Chuunen ga Suyasuya Ecchi suru Manga |
+      A Middle-Aged Piece of Human Trash Fucks Miss Amatori in Her Sleep
+    author: saishow
+    cover: /covers/620755.jpg
+    rating: 4.8
+    date: '2026-03-03'
+    code: 620755
+    url: /works/620755/
+  - title: Erufu (♀) no Bokensha ga Yadoya no Shujin ni Yobai&Tanetsuke Sareru Ohanashi
+    author: unknown
+    cover: /covers/631719.jpg
+    rating: 4.8
+    date: '2026-02-25'
+    code: 631719
+    url: /works/631719/
   - title: Kanojo ga Kami o Someta Wake ~Kataomoi no Seiso Kurokami Ojou-sama ga Boku
       no Shiranai Tokoro de Otoko no Aji o Oboeru Hanashi~ | The Real Reason She Changed
       Her Hair

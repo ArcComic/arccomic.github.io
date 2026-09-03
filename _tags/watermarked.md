@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "watermarked"
-work_count: 8
+work_count: 11
 works:
   - title: NTR Anniversary + ) [Syukurin] Mitsuha ~Netorare~ (Kimi no Na wa.) [English]
       [Colorized] by Mikaku
@@ -27,6 +27,21 @@ works:
     date: '2026-07-08'
     code: 527621
     url: /works/527621/
+  - title: Netorare jk Osananajimi Suieibu 3
+    author: aikawa-tatsuki
+    cover: /covers/563342.jpg
+    rating: 4.2
+    date: '2026-03-02'
+    code: 563342
+    url: /works/563342/
+  - title: Metsuki no Warui Kidaruge na Kouhai ni Shiboritorareru | Squeezed Up By My
+      Junior Girl Who Is Gloomy
+    author: oburigakko
+    cover: /covers/603756.jpg
+    rating: 4.3
+    date: '2026-03-02'
+    code: 603756
+    url: /works/603756/
   - title: Kouhai Otaku Tomodachi JK ga Kawai Sugirumon de!
     author: niji-teru
     cover: /covers/606719.jpg
@@ -41,6 +56,13 @@ works:
     date: '2026-07-13'
     code: 606725
     url: /works/606725/
+  - title: 'Gal to Meccha Namahame Nakadashi Ecchi Suru Hanashi #5'
+    author: pistonring-nishizawa
+    cover: /covers/617805.jpg
+    rating: 4.8
+    date: '2026-03-04'
+    code: 617805
+    url: /works/617805/
   - title: Seishokuki Aliens Meet Girls Vol. 4
     author: alto-seneka
     cover: /covers/634489.jpg

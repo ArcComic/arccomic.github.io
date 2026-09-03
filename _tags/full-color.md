@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "full color"
-work_count: 129
+work_count: 135
 works:
   - title: Tsuma wo Yariman ni Shimasu Shakkin no Tame desu kara.
     author: pietoro
@@ -351,6 +351,13 @@ works:
     date: '2026-04-19'
     code: 541631
     url: /works/541631/
+  - title: Pakokatsu Oji-san to Kaede-chan (1+2+3) | Kaede and The Sugar Daddy
+    author: nizigensan
+    cover: /covers/543086.jpg
+    rating: 4.9
+    date: '2026-02-25'
+    code: 543086
+    url: /works/543086/
   - title: Kekkon 3-Nen Me no Tsuma wa, Shain Ryokou Chuu ni Otto no Yoko de Netorareru!
       1 | Netorare With a Busty Wife on a Company Trip 1
     author: aoi-shou
@@ -408,6 +415,13 @@ works:
     date: '2026-04-19'
     code: 569195
     url: /works/569195/
+  - title: Re. Bishoujo Seitokaichou o Seibyou Mochi no Owakon Onna ni Otosu Hanashi
+    author: kyouan
+    cover: /covers/576288.jpg
+    rating: 4.6
+    date: '2026-03-03'
+    code: 576288
+    url: /works/576288/
   - title: Natchan wa ne -My Girl is M!
     author: mojarin
     cover: /covers/576910.jpg
@@ -548,6 +562,20 @@ works:
     date: '2026-05-04'
     code: 621185
     url: /works/621185/
+  - title: Daddy's Forgotten Life Purpose
+    author: group
+    cover: /covers/631630.jpg
+    rating: 4.3
+    date: '2026-03-03'
+    code: 631630
+    url: /works/631630/
+  - title: Pakokatsu Oji-san to Kaede-chan 3
+    author: nizigensan
+    cover: /covers/631703.jpg
+    rating: 4.0
+    date: '2026-02-25'
+    code: 631703
+    url: /works/631703/
   - title: Aitsu, Kotowarenai kara.. Remake-ban no Tsuzuki dewa Arimasu ga, Konsaku
       wa Yakinaoshi ja Nai yo. Settei Igai wa Sinsaku da yo. Sonna Kanji no Vol. 2 desu
     author: haruharudo
@@ -556,6 +584,20 @@ works:
     date: '2026-07-17'
     code: 632056
     url: /works/632056/
+  - title: moderately risky 2
+    author: borikori
+    cover: /covers/632800.jpg
+    rating: 4.3
+    date: '2026-03-03'
+    code: 632800
+    url: /works/632800/
+  - title: 'Sex with My Otaku Friend is Mind-blowing: Miyoshi''s Turn'
+    author: alp
+    cover: /covers/633834.jpg
+    rating: 4.2
+    date: '2026-03-02'
+    code: 633834
+    url: /works/633834/
   - title: Boshi Futari Gurashi Dai Go Shou 5 Souai
     author: fuwatoro-opanchu-cake
     cover: /covers/634207.jpg

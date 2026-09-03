@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "domination loss"
-work_count: 16
+work_count: 19
 works:
   - title: My Only Princess
     author: mackgee
@@ -10,6 +10,21 @@ works:
     date: '2026-04-17'
     code: 335960
     url: /works/335960/
+  - title: Rako Slip!
+    author: bujidearu
+    cover: /covers/393984.jpg
+    rating: 4.4
+    date: '2026-02-26'
+    code: 393984
+    url: /works/393984/
+  - title: Seiso na Imouto no Tomodachi wa Mesugaki deshita | My Pure and Innocent Little
+      Sister Became Friends With a Mesugaki
+    author: kagono-tori
+    cover: /covers/475867.jpg
+    rating: 4.4
+    date: '2026-02-26'
+    code: 475867
+    url: /works/475867/
   - title: Syuju - Kankei
     author: 810eru
     cover: /covers/489004.jpg
@@ -40,6 +55,15 @@ works:
     date: '2026-04-23'
     code: 598175
     url: /works/598175/
+  - title: Mattaku Icha Love suru Ki no Nai Kyonyuu Reijou Gal ni Niku Dildo Atsukai
+      Sareteiru Ore no Hanashi | The Story of How I’m Treated Like a Living Dildo by
+      a Big-Titted Rich Gyaru Who Has No Interest in Being Lovey-Dovey
+    author: uni-toshiki
+    cover: /covers/610539.jpg
+    rating: 4.0
+    date: '2026-02-26'
+    code: 610539
+    url: /works/610539/
   - title: Jimoto no Dekai Gal
     author: ueno-meguru
     cover: /covers/634592.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bikini"
-work_count: 40
+work_count: 44
 works:
   - title: Kizashi
     author: yoshiura-kazuya
@@ -10,6 +10,13 @@ works:
     date: '2026-03-09'
     code: 226386
     url: /works/226386/
+  - title: Oppai na Natsuyasumi 2 | The Summer Break of Boobs 2
+    author: higashino-mikan
+    cover: /covers/292454.jpg
+    rating: 4.9
+    date: '2026-03-04'
+    code: 292454
+    url: /works/292454/
   - title: CHOCO x LOVE
     author: highlow
     cover: /covers/317673.jpg
@@ -33,6 +40,13 @@ works:
     date: '2026-04-27'
     code: 452482
     url: /works/452482/
+  - title: Haha ⇒ umi ⇒ Nanpa ⇒ Rankou ⇒ Nikuana. Haha, Ochiru.
+    author: rin
+    cover: /covers/455844.jpg
+    rating: 4.8
+    date: '2026-03-02'
+    code: 455844
+    url: /works/455844/
   - title: Bocchi de Shinda Ore ga Bishoujo Nurse ni Natta Hanashi | The Story of How
       I Died Alone and Became a Sexy Nurse
     author: testame
@@ -49,6 +63,13 @@ works:
     date: '2026-04-23'
     code: 506303
     url: /works/506303/
+  - title: Oppai na Natsuyasumi Soushuuhen | The Summer Break of Boobs Complete
+    author: higashino-mikan
+    cover: /covers/508649.jpg
+    rating: 4.3
+    date: '2026-03-04'
+    code: 508649
+    url: /works/508649/
   - title: + (SEIKO AYASE VARIOUS) +
     author: st-mya
     cover: /covers/555816.jpg
@@ -87,6 +108,14 @@ works:
     date: '2026-04-25'
     code: 593677
     url: /works/593677/
+  - title: Metsuki no Warui Kidaruge na Kouhai ni Shiboritorareru | Squeezed Up By My
+      Junior Girl Who Is Gloomy
+    author: oburigakko
+    cover: /covers/603756.jpg
+    rating: 4.3
+    date: '2026-03-02'
+    code: 603756
+    url: /works/603756/
   - title: Mesu Etsu Toiki Nemoto made Fukaku…
     author: drill-murata
     cover: /covers/612957.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "gyaru"
-work_count: 54
+work_count: 61
 works:
   - title: GalPa!
     author: sakagami-umi
@@ -124,6 +124,23 @@ works:
     date: '2026-04-23'
     code: 610041
     url: /works/610041/
+  - title: Mattaku Icha Love suru Ki no Nai Kyonyuu Reijou Gal ni Niku Dildo Atsukai
+      Sareteiru Ore no Hanashi | The Story of How I’m Treated Like a Living Dildo by
+      a Big-Titted Rich Gyaru Who Has No Interest in Being Lovey-Dovey
+    author: uni-toshiki
+    cover: /covers/610539.jpg
+    rating: 4.0
+    date: '2026-02-26'
+    code: 610539
+    url: /works/610539/
+  - title: Tannin no Meido ni Nacchatta KURO GAL 2 | The Black Gal Who Became The Homeroom
+      Teacher's Maid 2
+    author: ootsuka-kotora
+    cover: /covers/611701.jpg
+    rating: 4.6
+    date: '2026-03-03'
+    code: 611701
+    url: /works/611701/
   - title: Fuufu Koukan Matching Appli ~DQN na Hitozuma ni Nakadashi Houshi~
     author: hachi-mega
     cover: /covers/613739.jpg
@@ -131,6 +148,13 @@ works:
     date: '2026-08-25'
     code: 613739
     url: /works/613739/
+  - title: 'Gal to Meccha Namahame Nakadashi Ecchi Suru Hanashi #5'
+    author: pistonring-nishizawa
+    cover: /covers/617805.jpg
+    rating: 4.8
+    date: '2026-03-04'
+    code: 617805
+    url: /works/617805/
   - title: Boku no Toshiue no Tomodachi | My Older Friend
     author: buta
     cover: /covers/631036.jpg
@@ -138,6 +162,29 @@ works:
     date: '2026-05-26'
     code: 631036
     url: /works/631036/
+  - title: Kareshi ni Betabore Chuu no Gal Senpai ga, Ore to Tsukiau made - Be my girlfriend!
+      Rio-senpai!
+    author: unknown
+    cover: /covers/632528.jpg
+    rating: 4.9
+    date: '2026-02-26'
+    code: 632528
+    url: /works/632528/
+  - title: Rikujoubu no Boyish na Osananajimi ga suru Dare ni mo Ienai Koto | The Secret
+      Activity of My Boyish Childhood Friend from the Track Team
+    author: harufumi
+    cover: /covers/632761.jpg
+    rating: 4.7
+    date: '2026-02-26'
+    code: 632761
+    url: /works/632761/
+  - title: moderately risky 2
+    author: borikori
+    cover: /covers/632800.jpg
+    rating: 4.3
+    date: '2026-03-03'
+    code: 632800
+    url: /works/632800/
   - title: Kanojo ga Kami o Someta Wake ~Kataomoi no Seiso Kurokami Ojou-sama ga Boku
       no Shiranai Tokoro de Otoko no Aji o Oboeru Hanashi~ | The Real Reason She Changed
       Her Hair
@@ -147,6 +194,14 @@ works:
     date: '2026-08-29'
     code: 634450
     url: /works/634450/
+  - title: Akogare no Model Jimusho ni Haitta Kekka… | The result of joining the modeling
+      agency I’ve always admired...
+    author: zarameccho
+    cover: /covers/634454.jpg
+    rating: 4.7
+    date: '2026-03-04'
+    code: 634454
+    url: /works/634454/
   - title: Jimoto no Dekai Gal
     author: ueno-meguru
     cover: /covers/634592.jpg

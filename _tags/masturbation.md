@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "masturbation"
-work_count: 66
+work_count: 69
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -24,6 +24,13 @@ works:
     date: '2026-05-10'
     code: 311755
     url: /works/311755/
+  - title: Tsumareta Ikoku no Hana II
+    author: darabuchi
+    cover: /covers/315693.jpg
+    rating: 4.1
+    date: '2026-03-04'
+    code: 315693
+    url: /works/315693/
   - title: Mukuchi na Tosho Iin to Sex Zuke.
     author: yuzuha
     cover: /covers/321298.jpg
@@ -167,6 +174,14 @@ works:
     date: '2026-04-23'
     code: 569731
     url: /works/569731/
+  - title: Adult Game mo Ganbaru zoi | I'll Do My Best, Even if I'm Working on an Adult
+      Game
+    author: ootsuka-kotora
+    cover: /covers/573414.jpg
+    rating: 4.8
+    date: '2026-03-04'
+    code: 573414
+    url: /works/573414/
   - title: Kugisaki Anal Otoshi
     author: ishigaki-takashi
     cover: /covers/579976.jpg
@@ -233,6 +248,15 @@ works:
     date: '2026-07-16'
     code: 617511
     url: /works/617511/
+  - title: 'Bijutsubu Harem Katsudou Nisshi ~Senpai no Slump Kaishou ni Kyouryoku shitara,
+      Ikioi de 3P suru Koto ni Natta Hanashi~ | Art Club Harem Activity Log: How Helping
+      My Senior Get Over Her Slump Led to a Threesome in the Heat of the Moment'
+    author: momokumo
+    cover: /covers/632523.jpg
+    rating: 4.3
+    date: '2026-02-26'
+    code: 632523
+    url: /works/632523/
   - title: 橘さん家ノ脅迫NTR事情
     author: group
     cover: /covers/634198.jpg

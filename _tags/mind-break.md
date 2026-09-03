@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "mind break"
-work_count: 22
+work_count: 25
 works:
+  - title: Rako Slip!
+    author: bujidearu
+    cover: /covers/393984.jpg
+    rating: 4.4
+    date: '2026-02-26'
+    code: 393984
+    url: /works/393984/
   - title: Mesu Kagura -Fate Hen 1-
     author: ishigaki-takashi
     cover: /covers/431558.jpg
@@ -34,6 +41,13 @@ works:
     date: '2026-05-03'
     code: 540880
     url: /works/540880/
+  - title: Pakokatsu Oji-san to Kaede-chan (1+2+3) | Kaede and The Sugar Daddy
+    author: nizigensan
+    cover: /covers/543086.jpg
+    rating: 4.9
+    date: '2026-02-25'
+    code: 543086
+    url: /works/543086/
   - title: Tawawa de Akarui Yakyuubu Manager ga Inshitsu na Kyoushi no Wana ni... Kanketsuhen
     author: ohkura-kazuya
     cover: /covers/566052.jpg
@@ -48,6 +62,13 @@ works:
     date: '2026-05-07'
     code: 610017
     url: /works/610017/
+  - title: Daddy's Forgotten Life Purpose
+    author: group
+    cover: /covers/631630.jpg
+    rating: 4.3
+    date: '2026-03-03'
+    code: 631630
+    url: /works/631630/
   - title: 橘さん家ノ脅迫NTR事情
     author: group
     cover: /covers/634198.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "garter belt"
-work_count: 17
+work_count: 18
 works:
   - title: Kaisha de Iroiro | Gettin' Busy at the Office
     author: hara-shigeyuki
@@ -54,6 +54,14 @@ works:
     date: '2026-04-19'
     code: 569195
     url: /works/569195/
+  - title: Tannin no Meido ni Nacchatta KURO GAL 2 | The Black Gal Who Became The Homeroom
+      Teacher's Maid 2
+    author: ootsuka-kotora
+    cover: /covers/611701.jpg
+    rating: 4.6
+    date: '2026-03-03'
+    code: 611701
+    url: /works/611701/
   - title: Mitsuha ~Netorare~ 10 (Your Name After Story) True Ending
     author: syukurin
     cover: /covers/643592.jpg

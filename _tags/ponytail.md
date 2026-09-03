@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "ponytail"
-work_count: 81
+work_count: 84
 works:
   - title: Boku no Kazoku o Sarashimasu Ch. 3
     author: tanaka-aji
@@ -62,6 +62,13 @@ works:
     date: '2026-03-05'
     code: 443909
     url: /works/443909/
+  - title: Discovery
+    author: momono-yuuca
+    cover: /covers/445018.jpg
+    rating: 4.9
+    date: '2026-03-03'
+    code: 445018
+    url: /works/445018/
   - title: Ladies Night
     author: mr-kurz
     cover: /covers/446018.jpg
@@ -150,6 +157,13 @@ works:
     date: '2026-04-13'
     code: 570215
     url: /works/570215/
+  - title: Michikake - Waxing and Waning
+    author: momono-yuuca
+    cover: /covers/574060.jpg
+    rating: 4.9
+    date: '2026-03-03'
+    code: 574060
+    url: /works/574060/
   - title: Nanami-chan can’t resist after a date! Cafe, Cinema, Love hotel~
     author: a2me
     cover: /covers/579819.jpg
@@ -232,6 +246,14 @@ works:
     date: '2026-07-17'
     code: 632056
     url: /works/632056/
+  - title: Tower Residence Setsuguka Taiouchuu | Tower Residence Service Department
+      Now Serving
+    author: tomohiro-kai
+    cover: /covers/633842.jpg
+    rating: 4.1
+    date: '2026-03-02'
+    code: 633842
+    url: /works/633842/
   - title: Opportunity for Zaychik
     author: eggutarto-sunnyside524
     cover: /covers/634157.jpg

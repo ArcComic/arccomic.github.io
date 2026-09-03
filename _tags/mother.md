@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "mother"
-work_count: 96
+work_count: 99
 works:
   - title: Netemo Sametemo | Be it Sleeping or Awake
     author: takasugi-kou
@@ -346,6 +346,13 @@ works:
     date: '2026-04-14'
     code: 616170
     url: /works/616170/
+  - title: 'Gal to Meccha Namahame Nakadashi Ecchi Suru Hanashi #5'
+    author: pistonring-nishizawa
+    cover: /covers/617805.jpg
+    rating: 4.8
+    date: '2026-03-04'
+    code: 617805
+    url: /works/617805/
   - title: Boku no Daisuki na Kaa-san to Omou Zonbun Sex Dekiru Hi 3 | My Fabulous Fuck
       Day with My Amazing Mommy 3
     author: higehurai
@@ -354,6 +361,13 @@ works:
     date: '2026-03-05'
     code: 631501
     url: /works/631501/
+  - title: Haha ni Muketa Seiyoku
+    author: maccha-neji
+    cover: /covers/632534.jpg
+    rating: 4.1
+    date: '2026-03-04'
+    code: 632534
+    url: /works/632534/
   - title: Boku no Daisuki na Kaa-san to Omou Zonbun Sex Dekiru Hi 4 | My Fabulous Fuck
       Day with My Amazing Mommy 4
     author: higehurai
@@ -369,6 +383,14 @@ works:
     date: '2026-03-04'
     code: 634207
     url: /works/634207/
+  - title: The story of how I ended up living with my mom in a four-and-a-half tatami
+      room 1.
+    author: europia
+    cover: /covers/634383.jpg
+    rating: 4.5
+    date: '2026-03-04'
+    code: 634383
+    url: /works/634383/
   - title: Boku no Mama wa Otouto no Mae de dake Dosukebe ni Naru｜My Mom Turns Into
       a Slut for My Little Brother, and Him Alone
     author: asahina-hikage

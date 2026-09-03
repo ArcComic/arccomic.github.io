@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "cheating"
-work_count: 182
+work_count: 195
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -74,6 +74,14 @@ works:
     date: '2026-04-12'
     code: 240721
     url: /works/240721/
+  - title: Tsuma no Imouto no Danna ga Ie ni Kiteiruyoudesu | My Sister-In-Law's Husband
+      is Over
+    author: arakure
+    cover: /covers/265933.jpg
+    rating: 4.0
+    date: '2026-02-28'
+    code: 265933
+    url: /works/265933/
   - title: Netorare Ibe Kiba Shizuka | The Netorare of Kiba Shizuka
     author: terasu-mc
     cover: /covers/288292.jpg
@@ -81,6 +89,13 @@ works:
     date: '2026-07-16'
     code: 288292
     url: /works/288292/
+  - title: Oppai na Natsuyasumi 2 | The Summer Break of Boobs 2
+    author: higashino-mikan
+    cover: /covers/292454.jpg
+    rating: 4.9
+    date: '2026-03-04'
+    code: 292454
+    url: /works/292454/
   - title: Tsuma wo Yariman ni Shimasu Shakkin no Tame desu kara.
     author: pietoro
     cover: /covers/293478.jpg
@@ -232,6 +247,13 @@ works:
     date: '2026-04-27'
     code: 414206
     url: /works/414206/
+  - title: Nigiyaka na Rinjin | Lively Neighbors
+    author: syuuen
+    cover: /covers/415060.jpg
+    rating: 4.1
+    date: '2026-02-28'
+    code: 415060
+    url: /works/415060/
   - title: Seisozuma Netorase...
     author: maccha-neji
     cover: /covers/415906.jpg
@@ -247,6 +269,13 @@ works:
     date: '2026-04-27'
     code: 416883
     url: /works/416883/
+  - title: Hikage | Shade
+    author: syuuen
+    cover: /covers/429669.jpg
+    rating: 4.8
+    date: '2026-02-28'
+    code: 429669
+    url: /works/429669/
   - title: Utakata 2 ~Uraaka DoM Haken OL Onaho Choukyou~ | An Office Lady's Behind
       The Scenes Masochistic Onahole Training 2
     author: yuzuri-ai
@@ -300,6 +329,13 @@ works:
     date: '2026-04-19'
     code: 453749
     url: /works/453749/
+  - title: Haha ⇒ umi ⇒ Nanpa ⇒ Rankou ⇒ Nikuana. Haha, Ochiru.
+    author: rin
+    cover: /covers/455844.jpg
+    rating: 4.8
+    date: '2026-03-02'
+    code: 455844
+    url: /works/455844/
   - title: Provoking Men 1-8
     author: pororivista
     cover: /covers/458903.jpg
@@ -359,6 +395,13 @@ works:
     date: '2026-04-19'
     code: 504221
     url: /works/504221/
+  - title: Oppai na Natsuyasumi Soushuuhen | The Summer Break of Boobs Complete
+    author: higashino-mikan
+    cover: /covers/508649.jpg
+    rating: 4.3
+    date: '2026-03-04'
+    code: 508649
+    url: /works/508649/
   - title: Hiro-kun no Mama Wa Boku no Dorei 2 | Hiro-kun Mama Is My Sex Slave 2
     author: exit-up
     cover: /covers/508818.jpg
@@ -442,6 +485,14 @@ works:
     date: '2026-04-17'
     code: 518953
     url: /works/518953/
+  - title: Chijoku Zuma ~Konna ni Nurasaretara Mou Gaman Dekinai... 1 | Disgraceful
+      Wife - I Can't Stand It Anymore When I Get This Wet... 1
+    author: pink-taro
+    cover: /covers/519421.jpg
+    rating: 4.9
+    date: '2026-02-25'
+    code: 519421
+    url: /works/519421/
   - title: Niizuma Nanaka no Roshutsu Satsuei
     author: fukurou-naru-tori
     cover: /covers/520363.jpg
@@ -537,6 +588,13 @@ works:
     date: '2026-04-19'
     code: 541631
     url: /works/541631/
+  - title: Pakokatsu Oji-san to Kaede-chan (1+2+3) | Kaede and The Sugar Daddy
+    author: nizigensan
+    cover: /covers/543086.jpg
+    rating: 4.9
+    date: '2026-02-25'
+    code: 543086
+    url: /works/543086/
   - title: Kaa-san to Shitai Koto ~ Zetsurin Musuko to no Seikatsu Kaisou Hen | What
       I want to do with My Mother ~ Sex Life with My Son Who Has...
     author: saimon-k
@@ -726,6 +784,13 @@ works:
     date: '2026-04-23'
     code: 599910
     url: /works/599910/
+  - title: My Wife, On the Other Side of The Peep Room…
+    author: nekome-koi
+    cover: /covers/609714.jpg
+    rating: 4.2
+    date: '2026-03-03'
+    code: 609714
+    url: /works/609714/
   - title: Ottori Itome no Oba o Odoshite Hamete Iinari Onaho-ka Keikaku | Gentle Slit-Eyed
       Aunty Blackmail & Obedient Fuckhole Training Project
     author: ginen
@@ -794,6 +859,13 @@ works:
     date: '2026-03-05'
     code: 631501
     url: /works/631501/
+  - title: Kajitsu 7
+    author: ken-1
+    cover: /covers/631665.jpg
+    rating: 4.5
+    date: '2026-03-03'
+    code: 631665
+    url: /works/631665/
   - title: Aitsu, Kotowarenai kara.. Remake-ban no Tsuzuki dewa Arimasu ga, Konsaku
       wa Yakinaoshi ja Nai yo. Settei Igai wa Sinsaku da yo. Sonna Kanji no Vol. 2 desu
     author: haruharudo
@@ -802,6 +874,21 @@ works:
     date: '2026-07-17'
     code: 632056
     url: /works/632056/
+  - title: Kareshi ni Betabore Chuu no Gal Senpai ga, Ore to Tsukiau made - Be my girlfriend!
+      Rio-senpai!
+    author: unknown
+    cover: /covers/632528.jpg
+    rating: 4.9
+    date: '2026-02-26'
+    code: 632528
+    url: /works/632528/
+  - title: Haha ni Muketa Seiyoku
+    author: maccha-neji
+    cover: /covers/632534.jpg
+    rating: 4.1
+    date: '2026-03-04'
+    code: 632534
+    url: /works/632534/
   - title: Kareshi ni Betabore Chuu no Gal Senpai ga, Ore to Tsukiau made - Be my girlfriend!
       Rio-senpai! | Being Clingy with Your Boyfriend... Kyaru, Senpai Why Not Date Me
       Next?
@@ -819,6 +906,14 @@ works:
     date: '2026-03-05'
     code: 634178
     url: /works/634178/
+  - title: The story of how I ended up living with my mom in a four-and-a-half tatami
+      room 1.
+    author: europia
+    cover: /covers/634383.jpg
+    rating: 4.5
+    date: '2026-03-04'
+    code: 634383
+    url: /works/634383/
   - title: Boku no Mama wa Otouto no Mae de dake Dosukebe ni Naru｜My Mom Turns Into
       a Slut for My Little Brother, and Him Alone
     author: asahina-hikage

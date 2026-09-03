@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "daughter"
-work_count: 12
+work_count: 14
 works:
   - title: Kindan no Hatemitsu
     author: ryuuta
@@ -10,6 +10,20 @@ works:
     date: '2026-04-19'
     code: 163039
     url: /works/163039/
+  - title: Hikage | Shade
+    author: syuuen
+    cover: /covers/429669.jpg
+    rating: 4.8
+    date: '2026-02-28'
+    code: 429669
+    url: /works/429669/
+  - title: Risato
+    author: unknown
+    cover: /covers/484852.jpg
+    rating: 4.5
+    date: '2026-02-28'
+    code: 484852
+    url: /works/484852/
   - title: Nakayoku no Yu e Youkoso Ch. 2 & 3
     author: enomoto-heights
     cover: /covers/555849.jpg

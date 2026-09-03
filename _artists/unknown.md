@@ -1,8 +1,14 @@
 ---
 layout: artist
 artist_name: "unknown"
-work_count: 36
+work_count: 39
 works:
+  - title: Risato
+    cover: /covers/484852.jpg
+    rating: 4.5
+    date: '2026-02-28'
+    code: 484852
+    url: /works/484852/
   - title: Ero Cos OL to Jiraikei Joshi ~Iki Nuresaseru Moto Kare no Amai Koshi Zukai~
     cover: /covers/548852.jpg
     rating: 4.3
@@ -33,6 +39,19 @@ works:
     date: '2026-04-19'
     code: 623910
     url: /works/623910/
+  - title: Erufu (♀) no Bokensha ga Yadoya no Shujin ni Yobai&Tanetsuke Sareru Ohanashi
+    cover: /covers/631719.jpg
+    rating: 4.8
+    date: '2026-02-25'
+    code: 631719
+    url: /works/631719/
+  - title: Kareshi ni Betabore Chuu no Gal Senpai ga, Ore to Tsukiau made - Be my girlfriend!
+      Rio-senpai!
+    cover: /covers/632528.jpg
+    rating: 4.9
+    date: '2026-02-26'
+    code: 632528
+    url: /works/632528/
   - title: Namaiki JK mo, Ossan Chinpo no Mae de wa Muryoku desu.
     cover: /covers/634472.jpg
     rating: 4.2

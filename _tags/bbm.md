@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bbm"
-work_count: 46
+work_count: 56
 works:
   - title: Kindan no Hatemitsu
     author: ryuuta
@@ -10,6 +10,14 @@ works:
     date: '2026-04-19'
     code: 163039
     url: /works/163039/
+  - title: Tsuma no Imouto no Danna ga Ie ni Kiteiruyoudesu | My Sister-In-Law's Husband
+      is Over
+    author: arakure
+    cover: /covers/265933.jpg
+    rating: 4.0
+    date: '2026-02-28'
+    code: 265933
+    url: /works/265933/
   - title: Tsuma wo Yariman ni Shimasu Shakkin no Tame desu kara.
     author: pietoro
     cover: /covers/293478.jpg
@@ -17,6 +25,13 @@ works:
     date: '2026-04-12'
     code: 293478
     url: /works/293478/
+  - title: Tsumareta Ikoku no Hana II
+    author: darabuchi
+    cover: /covers/315693.jpg
+    rating: 4.1
+    date: '2026-03-04'
+    code: 315693
+    url: /works/315693/
   - title: Megane Loli Choukyou Jugyou!! ~Otonashii Megane Lolikko ni Muriyari Dekachin
       Sounyuu~ | The Loli In Glasses' Training Lesson!! ~Force Fucking a Timid Glasses
       Wearing Loli With My Big Cock~ Ch. 1-5
@@ -47,6 +62,13 @@ works:
     date: '2026-04-14'
     code: 478446
     url: /works/478446/
+  - title: Risato
+    author: unknown
+    cover: /covers/484852.jpg
+    rating: 4.5
+    date: '2026-02-28'
+    code: 484852
+    url: /works/484852/
   - title: Obedience Part 1
     author: laliberte
     cover: /covers/501709.jpg
@@ -107,6 +129,21 @@ works:
     date: '2026-04-13'
     code: 570215
     url: /works/570215/
+  - title: Adult Game mo Ganbaru zoi | I'll Do My Best, Even if I'm Working on an Adult
+      Game
+    author: ootsuka-kotora
+    cover: /covers/573414.jpg
+    rating: 4.8
+    date: '2026-03-04'
+    code: 573414
+    url: /works/573414/
+  - title: Re. Bishoujo Seitokaichou o Seibyou Mochi no Owakon Onna ni Otosu Hanashi
+    author: kyouan
+    cover: /covers/576288.jpg
+    rating: 4.6
+    date: '2026-03-03'
+    code: 576288
+    url: /works/576288/
   - title: Boku no Kaa-chan ga Hikikomori Neet Debu Aniki no Seishori Onaho ni Natteita
       Hanashi | My Mother is My Fat Shut-in Older NEET Brother's Sex Relief Onahole
     author: tarobaumu
@@ -151,6 +188,43 @@ works:
     date: '2026-04-30'
     code: 615835
     url: /works/615835/
+  - title: Amatori-san to Ningensei Gomikuzu Chuunen ga Suyasuya Ecchi suru Manga |
+      A Middle-Aged Piece of Human Trash Fucks Miss Amatori in Her Sleep
+    author: saishow
+    cover: /covers/620755.jpg
+    rating: 4.8
+    date: '2026-03-03'
+    code: 620755
+    url: /works/620755/
+  - title: Daddy's Forgotten Life Purpose
+    author: group
+    cover: /covers/631630.jpg
+    rating: 4.3
+    date: '2026-03-03'
+    code: 631630
+    url: /works/631630/
+  - title: Kajitsu 7
+    author: ken-1
+    cover: /covers/631665.jpg
+    rating: 4.5
+    date: '2026-03-03'
+    code: 631665
+    url: /works/631665/
+  - title: Erufu (♀) no Bokensha ga Yadoya no Shujin ni Yobai&Tanetsuke Sareru Ohanashi
+    author: unknown
+    cover: /covers/631719.jpg
+    rating: 4.8
+    date: '2026-02-25'
+    code: 631719
+    url: /works/631719/
+  - title: Rikujoubu no Boyish na Osananajimi ga suru Dare ni mo Ienai Koto | The Secret
+      Activity of My Boyish Childhood Friend from the Track Team
+    author: harufumi
+    cover: /covers/632761.jpg
+    rating: 4.7
+    date: '2026-02-26'
+    code: 632761
+    url: /works/632761/
   - title: 橘さん家ノ脅迫NTR事情
     author: group
     cover: /covers/634198.jpg

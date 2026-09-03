@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bondage"
-work_count: 42
+work_count: 43
 works:
   - title: CHOCO x LOVE
     author: highlow
@@ -99,6 +99,13 @@ works:
     date: '2026-03-07'
     code: 620818
     url: /works/620818/
+  - title: Erufu (♀) no Bokensha ga Yadoya no Shujin ni Yobai&Tanetsuke Sareru Ohanashi
+    author: unknown
+    cover: /covers/631719.jpg
+    rating: 4.8
+    date: '2026-02-25'
+    code: 631719
+    url: /works/631719/
   - title: Koukan Nikki ー School Whore Diaries
     author: henkuma
     cover: /covers/634328.jpg

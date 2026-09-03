@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "shotacon"
-work_count: 72
+work_count: 74
 works:
   - title: Hitozuma Hyakka
     author: hase-tsubura
@@ -10,6 +10,13 @@ works:
     date: '2026-04-19'
     code: 190410
     url: /works/190410/
+  - title: Oppai na Natsuyasumi 2 | The Summer Break of Boobs 2
+    author: higashino-mikan
+    cover: /covers/292454.jpg
+    rating: 4.9
+    date: '2026-03-04'
+    code: 292454
+    url: /works/292454/
   - title: Maid no Oshigoto. II | Maid's Work II
     author: alexi-laiho
     cover: /covers/296282.jpg
@@ -99,6 +106,13 @@ works:
     date: '2026-04-15'
     code: 508549
     url: /works/508549/
+  - title: Oppai na Natsuyasumi Soushuuhen | The Summer Break of Boobs Complete
+    author: higashino-mikan
+    cover: /covers/508649.jpg
+    rating: 4.3
+    date: '2026-03-04'
+    code: 508649
+    url: /works/508649/
   - title: Watashi wa Kakerareteru kara... | I've been hypnotized, so...
     author: kiraku
     cover: /covers/516164.jpg

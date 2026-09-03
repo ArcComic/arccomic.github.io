@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "ffm threesome"
-work_count: 61
+work_count: 68
 works:
   - title: Hustle! Danchizuma Ch. 1-18 END
     author: hidemaru
@@ -78,6 +78,13 @@ works:
     date: '2026-08-20'
     code: 537794
     url: /works/537794/
+  - title: Pakokatsu Oji-san to Kaede-chan (1+2+3) | Kaede and The Sugar Daddy
+    author: nizigensan
+    cover: /covers/543086.jpg
+    rating: 4.9
+    date: '2026-02-25'
+    code: 543086
+    url: /works/543086/
   - title: Nakayoku no Yu e Youkoso Ch. 2 & 3
     author: enomoto-heights
     cover: /covers/555849.jpg
@@ -107,6 +114,13 @@ works:
     date: '2026-04-17'
     code: 612957
     url: /works/612957/
+  - title: 'Gal to Meccha Namahame Nakadashi Ecchi Suru Hanashi #5'
+    author: pistonring-nishizawa
+    cover: /covers/617805.jpg
+    rating: 4.8
+    date: '2026-03-04'
+    code: 617805
+    url: /works/617805/
   - title: Succubus Seitokai Shiko Shiko Shikkoubu 3 | Succubus Student Council Milking
       Club 3
     author: michiking
@@ -115,6 +129,36 @@ works:
     date: '2026-04-23'
     code: 628865
     url: /works/628865/
+  - title: Daddy's Forgotten Life Purpose
+    author: group
+    cover: /covers/631630.jpg
+    rating: 4.3
+    date: '2026-03-03'
+    code: 631630
+    url: /works/631630/
+  - title: Pakokatsu Oji-san to Kaede-chan 3
+    author: nizigensan
+    cover: /covers/631703.jpg
+    rating: 4.0
+    date: '2026-02-25'
+    code: 631703
+    url: /works/631703/
+  - title: 'Bijutsubu Harem Katsudou Nisshi ~Senpai no Slump Kaishou ni Kyouryoku shitara,
+      Ikioi de 3P suru Koto ni Natta Hanashi~ | Art Club Harem Activity Log: How Helping
+      My Senior Get Over Her Slump Led to a Threesome in the Heat of the Moment'
+    author: momokumo
+    cover: /covers/632523.jpg
+    rating: 4.3
+    date: '2026-02-26'
+    code: 632523
+    url: /works/632523/
+  - title: Amoral Island
+    author: alp
+    cover: /covers/633453.jpg
+    rating: 4.8
+    date: '2026-03-02'
+    code: 633453
+    url: /works/633453/
   - title: Hotai no Jikan ~Minna no Mae de Sensei to xxx o Shimasu~
     author: mochizaki-panko
     cover: /covers/634185.jpg
@@ -129,6 +173,14 @@ works:
     date: '2026-03-07'
     code: 634198
     url: /works/634198/
+  - title: Akogare no Model Jimusho ni Haitta Kekka… | The result of joining the modeling
+      agency I’ve always admired...
+    author: zarameccho
+    cover: /covers/634454.jpg
+    rating: 4.7
+    date: '2026-03-04'
+    code: 634454
+    url: /works/634454/
   - title: Jimoto no Dekai Gal 2
     author: ueno-meguru
     cover: /covers/634593.jpg

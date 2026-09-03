@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "twintails"
-work_count: 64
+work_count: 70
 works:
   - title: Sensei wa Shougakusei ga Suki | Sensei Loves Elementary Schoolers
     author: fuyuno-mikan
@@ -71,6 +71,13 @@ works:
     date: '2026-04-17'
     code: 516164
     url: /works/516164/
+  - title: Zoku Kunikida Senpai no Kakushigoto | Kunikida Senpai's Secret ・Continued
+    author: momokumo
+    cover: /covers/533325.jpg
+    rating: 4.6
+    date: '2026-02-26'
+    code: 533325
+    url: /works/533325/
   - title: Beit Saki no Majime na Kouhai ga... | A Serious Part-Time Kouhai
     author: kusayarou
     cover: /covers/536423.jpg
@@ -107,6 +114,21 @@ works:
     date: '2026-03-04'
     code: 568923
     url: /works/568923/
+  - title: Adult Game mo Ganbaru zoi | I'll Do My Best, Even if I'm Working on an Adult
+      Game
+    author: ootsuka-kotora
+    cover: /covers/573414.jpg
+    rating: 4.8
+    date: '2026-03-04'
+    code: 573414
+    url: /works/573414/
+  - title: Zero Kyori no Manazashi
+    author: momoko
+    cover: /covers/578371.jpg
+    rating: 4.7
+    date: '2026-02-26'
+    code: 578371
+    url: /works/578371/
   - title: ゼロ距離のまなざし | 零距离的眼神
     author: momoko
     cover: /covers/579493.jpg
@@ -157,6 +179,28 @@ works:
     date: '2026-08-22'
     code: 627126
     url: /works/627126/
+  - title: Boku no Kanojo wa Midasareru ~Ryokan Hen~ - I'm just here for a little bit
+      of stimulation. | 深陷誘惑的女友 旅館篇
+    author: mintice
+    cover: /covers/631662.jpg
+    rating: 4.2
+    date: '2026-03-03'
+    code: 631662
+    url: /works/631662/
+  - title: Yumemiru Idol Ikuseiron
+    author: kakino-nashiko
+    cover: /covers/631704.jpg
+    rating: 4.5
+    date: '2026-02-25'
+    code: 631704
+    url: /works/631704/
+  - title: 'Sex with My Otaku Friend is Mind-blowing: Miyoshi''s Turn'
+    author: alp
+    cover: /covers/633834.jpg
+    rating: 4.2
+    date: '2026-03-02'
+    code: 633834
+    url: /works/633834/
   - title: Hotai no Jikan ~Minna no Mae de Sensei to xxx o Shimasu~
     author: mochizaki-panko
     cover: /covers/634185.jpg

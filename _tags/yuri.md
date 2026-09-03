@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "yuri"
-work_count: 28
+work_count: 29
 works:
   - title: Gekkoutou no Yume - Nyotaika Douwa ~Danshi Kinsei no Tou~
     author: mugen-no-sudadokei
@@ -63,6 +63,13 @@ works:
     date: '2026-08-20'
     code: 632132
     url: /works/632132/
+  - title: Amoral Island
+    author: alp
+    cover: /covers/633453.jpg
+    rating: 4.8
+    date: '2026-03-02'
+    code: 633453
+    url: /works/633453/
   - title: Houchiko Hirotte LesSe Suru
     author: unknown
     cover: /covers/646967.jpg

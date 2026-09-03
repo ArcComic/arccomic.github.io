@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "pantyhose"
-work_count: 34
+work_count: 37
 works:
   - title: Life with Married Women Just Like a Manga 2 - Ch. 1-5
     author: hidemaru
@@ -88,6 +88,13 @@ works:
     date: '2026-04-12'
     code: 531759
     url: /works/531759/
+  - title: Zoku Kunikida Senpai no Kakushigoto | Kunikida Senpai's Secret ・Continued
+    author: momokumo
+    cover: /covers/533325.jpg
+    rating: 4.6
+    date: '2026-02-26'
+    code: 533325
+    url: /works/533325/
   - title: Oshioki no Jikan - Punishment time
     author: syoukaki
     cover: /covers/540125.jpg
@@ -103,6 +110,13 @@ works:
     date: '2026-04-23'
     code: 557689
     url: /works/557689/
+  - title: Re. Bishoujo Seitokaichou o Seibyou Mochi no Owakon Onna ni Otosu Hanashi
+    author: kyouan
+    cover: /covers/576288.jpg
+    rating: 4.6
+    date: '2026-03-03'
+    code: 576288
+    url: /works/576288/
   - title: Saimin ♥ Saimin | Hypno ♥ Hypno
     author: minamida-usuke
     cover: /covers/576398.jpg
@@ -145,6 +159,14 @@ works:
     date: '2026-04-17'
     code: 612957
     url: /works/612957/
+  - title: Amatori-san to Ningensei Gomikuzu Chuunen ga Suyasuya Ecchi suru Manga |
+      A Middle-Aged Piece of Human Trash Fucks Miss Amatori in Her Sleep
+    author: saishow
+    cover: /covers/620755.jpg
+    rating: 4.8
+    date: '2026-03-03'
+    code: 620755
+    url: /works/620755/
   - title: Chijo Monogatari Bakunyuu Chijukujo to Doutei-kun
     author: enma
     cover: /covers/635174.jpg

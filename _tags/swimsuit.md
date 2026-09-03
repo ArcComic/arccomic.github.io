@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "swimsuit"
-work_count: 33
+work_count: 36
 works:
   - title: Kizashi
     author: yoshiura-kazuya
@@ -10,6 +10,13 @@ works:
     date: '2026-03-09'
     code: 226386
     url: /works/226386/
+  - title: Oppai na Natsuyasumi 2 | The Summer Break of Boobs 2
+    author: higashino-mikan
+    cover: /covers/292454.jpg
+    rating: 4.9
+    date: '2026-03-04'
+    code: 292454
+    url: /works/292454/
   - title: CHOCO x LOVE
     author: highlow
     cover: /covers/317673.jpg
@@ -56,6 +63,22 @@ works:
     date: '2026-03-05'
     code: 593456
     url: /works/593456/
+  - title: Metsuki no Warui Kidaruge na Kouhai ni Shiboritorareru | Squeezed Up By My
+      Junior Girl Who Is Gloomy
+    author: oburigakko
+    cover: /covers/603756.jpg
+    rating: 4.3
+    date: '2026-03-02'
+    code: 603756
+    url: /works/603756/
+  - title: Rikujoubu no Bokukko Doukyuusei ga Chuunen Komon ni Mesu ni Sareru Ichibu
+      Shijuu
+    author: marushin
+    cover: /covers/615775.jpg
+    rating: 4.8
+    date: '2026-02-26'
+    code: 615775
+    url: /works/615775/
   - title: Koukan Nikki ー School Whore Diaries
     author: henkuma
     cover: /covers/634328.jpg

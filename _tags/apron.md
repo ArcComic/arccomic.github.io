@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "apron"
-work_count: 16
+work_count: 17
 works:
   - title: Life with Married Women Just Like a Manga 2 - Ch. 1-5
     author: hidemaru
@@ -17,6 +17,13 @@ works:
     date: '2026-04-17'
     code: 162047
     url: /works/162047/
+  - title: Tsumareta Ikoku no Hana II
+    author: darabuchi
+    cover: /covers/315693.jpg
+    rating: 4.1
+    date: '2026-03-04'
+    code: 315693
+    url: /works/315693/
   - title: Kagesawa Mura no Akai Kagi tada <hottan>
     author: chiba-shuusaku
     cover: /covers/359864.jpg

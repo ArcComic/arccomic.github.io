@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "wholesome"
-work_count: 67
+work_count: 71
 works:
   - title: Homestay-chu no Doitsu Musume ga Issho ni Furo ni Haitte Kuru Wake | The
       Reason Why a German Girl Takes a Bath Together With Me on Her Homestay
@@ -104,6 +104,13 @@ works:
     date: '2026-04-27'
     code: 507681
     url: /works/507681/
+  - title: Oppai na Natsuyasumi Soushuuhen | The Summer Break of Boobs Complete
+    author: higashino-mikan
+    cover: /covers/508649.jpg
+    rating: 4.3
+    date: '2026-03-04'
+    code: 508649
+    url: /works/508649/
   - title: Gal to no Asobikata | How to Have Fun With Gyarus!
     author: buta
     cover: /covers/531967.jpg
@@ -236,6 +243,15 @@ works:
     date: '2026-04-23'
     code: 610041
     url: /works/610041/
+  - title: Mattaku Icha Love suru Ki no Nai Kyonyuu Reijou Gal ni Niku Dildo Atsukai
+      Sareteiru Ore no Hanashi | The Story of How I’m Treated Like a Living Dildo by
+      a Big-Titted Rich Gyaru Who Has No Interest in Being Lovey-Dovey
+    author: uni-toshiki
+    cover: /covers/610539.jpg
+    rating: 4.0
+    date: '2026-02-26'
+    code: 610539
+    url: /works/610539/
   - title: Muramata-san no Aijou Ch. 6
     author: igumox
     cover: /covers/622857.jpg
@@ -258,6 +274,13 @@ works:
     date: '2026-05-26'
     code: 631036
     url: /works/631036/
+  - title: Gusai, Saikyouiku. | Dumb wife, re-education.
+    author: ushio-kiyoshi
+    cover: /covers/631677.jpg
+    rating: 4.8
+    date: '2026-03-03'
+    code: 631677
+    url: /works/631677/
   - title: Kaisha de majimena Shizuno-san wa ie de otoko o katterurashii | Seems The
       Serious Office Worker Shizuno Keeps A Pet Guy At Home
     author: yuzuha
@@ -266,6 +289,13 @@ works:
     date: '2026-04-25'
     code: 632188
     url: /works/632188/
+  - title: 'Sex with My Otaku Friend is Mind-blowing: Miyoshi''s Turn'
+    author: alp
+    cover: /covers/633834.jpg
+    rating: 4.2
+    date: '2026-03-02'
+    code: 633834
+    url: /works/633834/
   - title: Honeori! Osewa Girl♡ | SK8er Girl Lends Me a Hand!
     author: kyaradain
     cover: /covers/634609.jpg

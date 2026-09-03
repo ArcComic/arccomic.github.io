@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "lolicon"
-work_count: 55
+work_count: 59
 works:
   - title: Sensei wa Shougakusei ga Suki | Sensei Loves Elementary Schoolers
     author: fuyuno-mikan
@@ -19,6 +19,13 @@ works:
     date: '2026-07-13'
     code: 358168
     url: /works/358168/
+  - title: Rako Slip!
+    author: bujidearu
+    cover: /covers/393984.jpg
+    rating: 4.4
+    date: '2026-02-26'
+    code: 393984
+    url: /works/393984/
   - title: Imouto no Nukumori | A Little Sister's warmth
     author: kinomoto-anzu
     cover: /covers/407959.jpg
@@ -26,6 +33,14 @@ works:
     date: '2026-07-10'
     code: 407959
     url: /works/407959/
+  - title: Seiso na Imouto no Tomodachi wa Mesugaki deshita | My Pure and Innocent Little
+      Sister Became Friends With a Mesugaki
+    author: kagono-tori
+    cover: /covers/475867.jpg
+    rating: 4.4
+    date: '2026-02-26'
+    code: 475867
+    url: /works/475867/
   - title: Neteru Onii-chan no Are o Kariru Hanashi
     author: tiger
     cover: /covers/476399.jpg
@@ -33,6 +48,13 @@ works:
     date: '2026-07-10'
     code: 476399
     url: /works/476399/
+  - title: '"Yoyaku Shimasu ka? Asashio no Onaka"'
+    author: ootsuka-kotora
+    cover: /covers/509474.jpg
+    rating: 4.9
+    date: '2026-03-03'
+    code: 509474
+    url: /works/509474/
   - title: Rena
     author: shinjima-saki
     cover: /covers/537476.jpg
@@ -76,6 +98,14 @@ works:
     date: '2026-04-21'
     code: 609650
     url: /works/609650/
+  - title: Amatori-san to Ningensei Gomikuzu Chuunen ga Suyasuya Ecchi suru Manga |
+      A Middle-Aged Piece of Human Trash Fucks Miss Amatori in Her Sleep
+    author: saishow
+    cover: /covers/620755.jpg
+    rating: 4.8
+    date: '2026-03-03'
+    code: 620755
+    url: /works/620755/
   - title: Hotai no Jikan ~Minna no Mae de Sensei to xxx o Shimasu~
     author: mochizaki-panko
     cover: /covers/634185.jpg

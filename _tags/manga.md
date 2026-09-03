@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "manga"
-work_count: 187
+work_count: 195
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -230,6 +230,13 @@ works:
     date: '2026-07-13'
     code: 358168
     url: /works/358168/
+  - title: Rako Slip!
+    author: bujidearu
+    cover: /covers/393984.jpg
+    rating: 4.4
+    date: '2026-02-26'
+    code: 393984
+    url: /works/393984/
   - title: Netorase ~Tsuma no Ichiban Kirei na Hi~ | Netorase - My wife's most beautiful
       day
     author: sakagami-umi
@@ -260,6 +267,13 @@ works:
     date: '2026-05-03'
     code: 415057
     url: /works/415057/
+  - title: Nigiyaka na Rinjin | Lively Neighbors
+    author: syuuen
+    cover: /covers/415060.jpg
+    rating: 4.1
+    date: '2026-02-28'
+    code: 415060
+    url: /works/415060/
   - title: Yasashii Oba-san Yarashii Oba-san | Kind Lady, Dirty Lady Ch. 1-3
     author: hidemaru
     cover: /covers/421874.jpg
@@ -281,6 +295,13 @@ works:
     date: '2026-04-15'
     code: 426769
     url: /works/426769/
+  - title: Hikage | Shade
+    author: syuuen
+    cover: /covers/429669.jpg
+    rating: 4.8
+    date: '2026-02-28'
+    code: 429669
+    url: /works/429669/
   - title: Sesshoku | Contact
     author: ryuuta
     cover: /covers/433732.jpg
@@ -295,6 +316,13 @@ works:
     date: '2026-08-23'
     code: 441114
     url: /works/441114/
+  - title: Discovery
+    author: momono-yuuca
+    cover: /covers/445018.jpg
+    rating: 4.9
+    date: '2026-03-03'
+    code: 445018
+    url: /works/445018/
   - title: Tsumaduki | With a Wife
     author: ryuuta
     cover: /covers/446716.jpg
@@ -474,6 +502,14 @@ works:
     date: '2026-04-17'
     code: 518953
     url: /works/518953/
+  - title: Chijoku Zuma ~Konna ni Nurasaretara Mou Gaman Dekinai... 1 | Disgraceful
+      Wife - I Can't Stand It Anymore When I Get This Wet... 1
+    author: pink-taro
+    cover: /covers/519421.jpg
+    rating: 4.9
+    date: '2026-02-25'
+    code: 519421
+    url: /works/519421/
   - title: '"Ikaseru Furi suru dake" tte Itta no ni... Satsutaba o Kuwaenagara Maji
       Ikigao o Sarasu JK 1 | But You Said You''d Only Pretend to Make Me Cum... 1'
     author: ouma
@@ -600,6 +636,13 @@ works:
     date: '2026-04-19'
     code: 569195
     url: /works/569195/
+  - title: Michikake - Waxing and Waning
+    author: momono-yuuca
+    cover: /covers/574060.jpg
+    rating: 4.9
+    date: '2026-03-03'
+    code: 574060
+    url: /works/574060/
   - title: Saimin ♥ Saimin | Hypno ♥ Hypno
     author: minamida-usuke
     cover: /covers/576398.jpg
@@ -738,6 +781,20 @@ works:
     date: '2026-05-26'
     code: 622857
     url: /works/622857/
+  - title: Yumemiru Idol Ikuseiron
+    author: kakino-nashiko
+    cover: /covers/631704.jpg
+    rating: 4.5
+    date: '2026-02-25'
+    code: 631704
+    url: /works/631704/
+  - title: Have a nice day.
+    author: owari-ningen
+    cover: /covers/632967.jpg
+    rating: 4.1
+    date: '2026-02-26'
+    code: 632967
+    url: /works/632967/
   - title: Koukan Nikki ー School Whore Diaries
     author: henkuma
     cover: /covers/634328.jpg

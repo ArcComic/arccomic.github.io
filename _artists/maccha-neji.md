@@ -1,7 +1,7 @@
 ---
 layout: artist
 artist_name: "maccha-neji"
-work_count: 2
+work_count: 3
 works:
   - title: Toshishita Chin Kui Obasan
     cover: /covers/387637.jpg
@@ -15,4 +15,10 @@ works:
     date: '2026-04-12'
     code: 415906
     url: /works/415906/
+  - title: Haha ni Muketa Seiyoku
+    cover: /covers/632534.jpg
+    rating: 4.1
+    date: '2026-03-04'
+    code: 632534
+    url: /works/632534/
 ---

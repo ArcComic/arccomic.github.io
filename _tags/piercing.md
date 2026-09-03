@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "piercing"
-work_count: 20
+work_count: 21
 works:
   - title: Doushia (Terasu MC)] Dorei Gazoku
     author: terasu-mc
@@ -46,6 +46,13 @@ works:
     date: '2026-05-26'
     code: 631036
     url: /works/631036/
+  - title: moderately risky 2
+    author: borikori
+    cover: /covers/632800.jpg
+    rating: 4.3
+    date: '2026-03-03'
+    code: 632800
+    url: /works/632800/
   - title: Kanojo ga Kami o Someta Wake ~Kataomoi no Seiso Kurokami Ojou-sama ga Boku
       no Shiranai Tokoro de Otoko no Aji o Oboeru Hanashi~ | The Real Reason She Changed
       Her Hair

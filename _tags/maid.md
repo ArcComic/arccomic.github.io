@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "maid"
-work_count: 12
+work_count: 13
 works:
   - title: Maid no Oshigoto. II | Maid's Work II
     author: alexi-laiho
@@ -39,6 +39,14 @@ works:
     date: '2026-04-23'
     code: 603122
     url: /works/603122/
+  - title: Tannin no Meido ni Nacchatta KURO GAL 2 | The Black Gal Who Became The Homeroom
+      Teacher's Maid 2
+    author: ootsuka-kotora
+    cover: /covers/611701.jpg
+    rating: 4.6
+    date: '2026-03-03'
+    code: 611701
+    url: /works/611701/
   - title: Tsukatsuki Rio no Maid Seikatsu
     author: prime
     cover: /covers/644300.jpg

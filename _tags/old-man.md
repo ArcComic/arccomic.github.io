@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "old man"
-work_count: 30
+work_count: 33
 works:
   - title: Adoration
     author: kishizuka-kenji
@@ -17,6 +17,20 @@ works:
     date: '2026-04-19'
     code: 163039
     url: /works/163039/
+  - title: Another Produce -Kaede Takagaki-
+    author: marushin
+    cover: /covers/179531.jpg
+    rating: 4.9
+    date: '2026-02-26'
+    code: 179531
+    url: /works/179531/
+  - title: Hikage | Shade
+    author: syuuen
+    cover: /covers/429669.jpg
+    rating: 4.8
+    date: '2026-02-28'
+    code: 429669
+    url: /works/429669/
   - title: Akumu 4 ~Saitei na Kokuhaku~ | Nightmare 4 ~ Lowest Confession ~
     author: minazuki-mikka
     cover: /covers/435832.jpg
@@ -125,6 +139,13 @@ works:
     date: '2026-07-15'
     code: 616358
     url: /works/616358/
+  - title: Have a nice day.
+    author: owari-ningen
+    cover: /covers/632967.jpg
+    rating: 4.1
+    date: '2026-02-26'
+    code: 632967
+    url: /works/632967/
   - title: Curiosity and the Cost of Innocence
     author: hoshi-to-lucky
     cover: /covers/637110.jpg

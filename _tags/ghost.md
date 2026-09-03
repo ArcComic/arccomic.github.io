@@ -1,8 +1,16 @@
 ---
 layout: tag
 tag_name: "ghost"
-work_count: 4
+work_count: 5
 works:
+  - title: Hairyokan de no Ero Kyoufu Taiken | A Terrifying Erotic Experience at an
+      Abandoned Inn
+    author: pink-taro
+    cover: /covers/446969.jpg
+    rating: 4.7
+    date: '2026-02-26'
+    code: 446969
+    url: /works/446969/
   - title: Kaya-nee and the Old Man Memories
     author: kon-kit
     cover: /covers/598144.jpg

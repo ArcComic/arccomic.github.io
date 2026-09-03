@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "tall girl"
-work_count: 12
+work_count: 13
 works:
+  - title: Oppai na Natsuyasumi 2 | The Summer Break of Boobs 2
+    author: higashino-mikan
+    cover: /covers/292454.jpg
+    rating: 4.9
+    date: '2026-03-04'
+    code: 292454
+    url: /works/292454/
   - title: Koi no Susumekata | How to Advance Your Love
     author: danimaru
     cover: /covers/425528.jpg

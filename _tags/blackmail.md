@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "blackmail"
-work_count: 73
+work_count: 80
 works:
+  - title: Another Produce -Kaede Takagaki-
+    author: marushin
+    cover: /covers/179531.jpg
+    rating: 4.9
+    date: '2026-02-26'
+    code: 179531
+    url: /works/179531/
   - title: Netorare Ibe Kiba Shizuka
     author: terasu-mc
     cover: /covers/275108.jpg
@@ -68,6 +75,13 @@ works:
     date: '2026-05-05'
     code: 419017
     url: /works/419017/
+  - title: Hikage | Shade
+    author: syuuen
+    cover: /covers/429669.jpg
+    rating: 4.8
+    date: '2026-02-28'
+    code: 429669
+    url: /works/429669/
   - title: Mesu Kagura -Fate Hen 1-
     author: ishigaki-takashi
     cover: /covers/431558.jpg
@@ -83,6 +97,13 @@ works:
     date: '2026-07-16'
     code: 434993
     url: /works/434993/
+  - title: Haha ⇒ umi ⇒ Nanpa ⇒ Rankou ⇒ Nikuana. Haha, Ochiru.
+    author: rin
+    cover: /covers/455844.jpg
+    rating: 4.8
+    date: '2026-03-02'
+    code: 455844
+    url: /works/455844/
   - title: Niizuma Joushi wa Buka no Chinpo de Do-M Ochi
     author: chinpan
     cover: /covers/464371.jpg
@@ -155,6 +176,14 @@ works:
     date: '2026-08-25'
     code: 518387
     url: /works/518387/
+  - title: Chijoku Zuma ~Konna ni Nurasaretara Mou Gaman Dekinai... 1 | Disgraceful
+      Wife - I Can't Stand It Anymore When I Get This Wet... 1
+    author: pink-taro
+    cover: /covers/519421.jpg
+    rating: 4.9
+    date: '2026-02-25'
+    code: 519421
+    url: /works/519421/
   - title: My Friends Mom Is My Toy
     author: exit-up
     cover: /covers/521812.jpg
@@ -184,6 +213,13 @@ works:
     date: '2026-08-18'
     code: 530728
     url: /works/530728/
+  - title: Pakokatsu Oji-san to Kaede-chan (1+2+3) | Kaede and The Sugar Daddy
+    author: nizigensan
+    cover: /covers/543086.jpg
+    rating: 4.9
+    date: '2026-02-25'
+    code: 543086
+    url: /works/543086/
   - title: Minpaku ~Ojou-sama-tachi wa Minpaku Keieisha no Wana ni Ochiru~ | Sleeping
       in the Bed and Breakfast - Young ladies fall into the trap of a private lodging
       manager
@@ -277,6 +313,21 @@ works:
     date: '2026-04-27'
     code: 618562
     url: /works/618562/
+  - title: Daddy's Forgotten Life Purpose
+    author: group
+    cover: /covers/631630.jpg
+    rating: 4.3
+    date: '2026-03-03'
+    code: 631630
+    url: /works/631630/
+  - title: Rikujoubu no Boyish na Osananajimi ga suru Dare ni mo Ienai Koto | The Secret
+      Activity of My Boyish Childhood Friend from the Track Team
+    author: harufumi
+    cover: /covers/632761.jpg
+    rating: 4.7
+    date: '2026-02-26'
+    code: 632761
+    url: /works/632761/
   - title: Kanojo ga Kami o Someta Wake ~Kataomoi no Seiso Kurokami Ojou-sama ga Boku
       no Shiranai Tokoro de Otoko no Aji o Oboeru Hanashi~ | The Real Reason She Changed
       Her Hair

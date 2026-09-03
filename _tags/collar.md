@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "collar"
-work_count: 39
+work_count: 44
 works:
   - title: Kaisha de Iroiro | Gettin' Busy at the Office
     author: hara-shigeyuki
@@ -61,6 +61,13 @@ works:
     date: '2026-08-20'
     code: 537794
     url: /works/537794/
+  - title: Pakokatsu Oji-san to Kaede-chan (1+2+3) | Kaede and The Sugar Daddy
+    author: nizigensan
+    cover: /covers/543086.jpg
+    rating: 4.9
+    date: '2026-02-25'
+    code: 543086
+    url: /works/543086/
   - title: Uwa, Mesugaki Tsuyoi! | Crap, This Mesugaki's Too Powerful!
     author: poncocchan
     cover: /covers/550359.jpg
@@ -104,6 +111,13 @@ works:
     date: '2026-04-30'
     code: 566052
     url: /works/566052/
+  - title: Michikake - Waxing and Waning
+    author: momono-yuuca
+    cover: /covers/574060.jpg
+    rating: 4.9
+    date: '2026-03-03'
+    code: 574060
+    url: /works/574060/
   - title: Natchan wa ne -My Girl is M!
     author: mojarin
     cover: /covers/576910.jpg
@@ -118,6 +132,13 @@ works:
     date: '2026-04-27'
     code: 606166
     url: /works/606166/
+  - title: My Wife, On the Other Side of The Peep Room…
+    author: nekome-koi
+    cover: /covers/609714.jpg
+    rating: 4.2
+    date: '2026-03-03'
+    code: 609714
+    url: /works/609714/
   - title: Zenin Mukuwarenai Harem | A Harem Where No One Is Reciprocated
     author: group
     cover: /covers/610041.jpg
@@ -125,6 +146,15 @@ works:
     date: '2026-04-23'
     code: 610041
     url: /works/610041/
+  - title: Mattaku Icha Love suru Ki no Nai Kyonyuu Reijou Gal ni Niku Dildo Atsukai
+      Sareteiru Ore no Hanashi | The Story of How I’m Treated Like a Living Dildo by
+      a Big-Titted Rich Gyaru Who Has No Interest in Being Lovey-Dovey
+    author: uni-toshiki
+    cover: /covers/610539.jpg
+    rating: 4.0
+    date: '2026-02-26'
+    code: 610539
+    url: /works/610539/
   - title: Mesu Etsu Toiki Nemoto made Fukaku…
     author: drill-murata
     cover: /covers/612957.jpg
@@ -132,6 +162,13 @@ works:
     date: '2026-04-17'
     code: 612957
     url: /works/612957/
+  - title: Pakokatsu Oji-san to Kaede-chan 3
+    author: nizigensan
+    cover: /covers/631703.jpg
+    rating: 4.0
+    date: '2026-02-25'
+    code: 631703
+    url: /works/631703/
   - title: 橘さん家ノ脅迫NTR事情
     author: group
     cover: /covers/634198.jpg

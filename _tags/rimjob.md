@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "rimjob"
-work_count: 28
+work_count: 29
 works:
   - title: Hitozuma Hyakka
     author: hase-tsubura
@@ -57,6 +57,13 @@ works:
     date: '2026-05-26'
     code: 627182
     url: /works/627182/
+  - title: Amoral Island
+    author: alp
+    cover: /covers/633453.jpg
+    rating: 4.8
+    date: '2026-03-02'
+    code: 633453
+    url: /works/633453/
   - title: 'GNO: Girl''s Night Out - Issue 02'
     author: uselessbegging
     cover: /covers/634464.jpg

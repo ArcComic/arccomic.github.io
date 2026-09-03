@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "compilation"
-work_count: 11
+work_count: 12
 works:
   - title: NTR Anniversary + ) [Syukurin] Mitsuha ~Netorare~ (Kimi no Na wa.) [English]
       [Colorized] by Mikaku
@@ -41,6 +41,13 @@ works:
     date: '2026-05-26'
     code: 624573
     url: /works/624573/
+  - title: Amoral Island
+    author: alp
+    cover: /covers/633453.jpg
+    rating: 4.8
+    date: '2026-03-02'
+    code: 633453
+    url: /works/633453/
   - title: Breeding Mother 1-4
     author: saimon-k
     cover: /covers/638218.jpg

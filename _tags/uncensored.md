@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "uncensored"
-work_count: 64
+work_count: 69
 works:
   - title: Netemo Sametemo | Be it Sleeping or Awake
     author: takasugi-kou
@@ -74,6 +74,13 @@ works:
     date: '2026-04-23'
     code: 506303
     url: /works/506303/
+  - title: Oppai na Natsuyasumi Soushuuhen | The Summer Break of Boobs Complete
+    author: higashino-mikan
+    cover: /covers/508649.jpg
+    rating: 4.3
+    date: '2026-03-04'
+    code: 508649
+    url: /works/508649/
   - title: 'Jujutsu Kaisen: Mahito Mayhem'
     author: mayitgu
     cover: /covers/524761.jpg
@@ -229,6 +236,35 @@ works:
     date: '2026-05-04'
     code: 621185
     url: /works/621185/
+  - title: Daddy's Forgotten Life Purpose
+    author: group
+    cover: /covers/631630.jpg
+    rating: 4.3
+    date: '2026-03-03'
+    code: 631630
+    url: /works/631630/
+  - title: Boku no Kanojo wa Midasareru ~Ryokan Hen~ - I'm just here for a little bit
+      of stimulation. | 深陷誘惑的女友 旅館篇
+    author: mintice
+    cover: /covers/631662.jpg
+    rating: 4.2
+    date: '2026-03-03'
+    code: 631662
+    url: /works/631662/
+  - title: Kajitsu 7
+    author: ken-1
+    cover: /covers/631665.jpg
+    rating: 4.5
+    date: '2026-03-03'
+    code: 631665
+    url: /works/631665/
+  - title: 'Sex with My Otaku Friend is Mind-blowing: Miyoshi''s Turn'
+    author: alp
+    cover: /covers/633834.jpg
+    rating: 4.2
+    date: '2026-03-02'
+    code: 633834
+    url: /works/633834/
   - title: Boku no Mama wa Otouto no Mae de dake Dosukebe ni Naru｜My Mom Turns Into
       a Slut for My Little Brother, and Him Alone
     author: asahina-hikage

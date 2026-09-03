@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "producer"
-work_count: 6
+work_count: 7
 works:
+  - title: Another Produce -Kaede Takagaki-
+    author: marushin
+    cover: /covers/179531.jpg
+    rating: 4.9
+    date: '2026-02-26'
+    code: 179531
+    url: /works/179531/
   - title: Misuzu no Oheya kara Hitoban Nigerarenai Hon  | The Book Where You Can't
       Escape Misuzu's Room All Night Long.
     author: cure-slum

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "mosaic censorship"
-work_count: 160
+work_count: 175
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -32,6 +32,13 @@ works:
     date: '2026-07-17'
     code: 289523
     url: /works/289523/
+  - title: Oppai na Natsuyasumi 2 | The Summer Break of Boobs 2
+    author: higashino-mikan
+    cover: /covers/292454.jpg
+    rating: 4.9
+    date: '2026-03-04'
+    code: 292454
+    url: /works/292454/
   - title: Tsuma wo Yariman ni Shimasu Shakkin no Tame desu kara.
     author: pietoro
     cover: /covers/293478.jpg
@@ -120,6 +127,13 @@ works:
     date: '2026-08-24'
     code: 392617
     url: /works/392617/
+  - title: Rako Slip!
+    author: bujidearu
+    cover: /covers/393984.jpg
+    rating: 4.4
+    date: '2026-02-26'
+    code: 393984
+    url: /works/393984/
   - title: Kaisha no Iki Okure BBA Haramaseta | [Tragic News] I Knocked Up The Old Maid
       From My Office
     author: special-g
@@ -173,6 +187,14 @@ works:
     date: '2026-08-24'
     code: 444152
     url: /works/444152/
+  - title: Hairyokan de no Ero Kyoufu Taiken | A Terrifying Erotic Experience at an
+      Abandoned Inn
+    author: pink-taro
+    cover: /covers/446969.jpg
+    rating: 4.7
+    date: '2026-02-26'
+    code: 446969
+    url: /works/446969/
   - title: What would happen if you said "Let's have sex." while your teacher was scolding
       you?
     author: chotto-b-sen
@@ -325,6 +347,14 @@ works:
     date: '2026-04-15'
     code: 519274
     url: /works/519274/
+  - title: Chijoku Zuma ~Konna ni Nurasaretara Mou Gaman Dekinai... 1 | Disgraceful
+      Wife - I Can't Stand It Anymore When I Get This Wet... 1
+    author: pink-taro
+    cover: /covers/519421.jpg
+    rating: 4.9
+    date: '2026-02-25'
+    code: 519421
+    url: /works/519421/
   - title: Niizuma Nanaka no Roshutsu Satsuei
     author: fukurou-naru-tori
     cover: /covers/520363.jpg
@@ -368,6 +398,13 @@ works:
     date: '2026-08-20'
     code: 537794
     url: /works/537794/
+  - title: Pakokatsu Oji-san to Kaede-chan (1+2+3) | Kaede and The Sugar Daddy
+    author: nizigensan
+    cover: /covers/543086.jpg
+    rating: 4.9
+    date: '2026-02-25'
+    code: 543086
+    url: /works/543086/
   - title: Neteiru Okaa-san o Yaritai Houdai!
     author: natsume-benkei
     cover: /covers/544993.jpg
@@ -454,6 +491,13 @@ works:
     date: '2026-04-13'
     code: 570215
     url: /works/570215/
+  - title: Re. Bishoujo Seitokaichou o Seibyou Mochi no Owakon Onna ni Otosu Hanashi
+    author: kyouan
+    cover: /covers/576288.jpg
+    rating: 4.6
+    date: '2026-03-03'
+    code: 576288
+    url: /works/576288/
   - title: Boku no Mama to Takuhai no Onii-san ga.
     author: yuriko-club
     cover: /covers/577221.jpg
@@ -519,6 +563,14 @@ works:
     date: '2026-04-25'
     code: 593754
     url: /works/593754/
+  - title: Hajimete no DomiSub ~Match App de Mitsuketa Goshujin-sama ni Jinsei Bukkowashite
+      Moraimasu~
+    author: nemui-neru
+    cover: /covers/597754.jpg
+    rating: 4.0
+    date: '2026-02-25'
+    code: 597754
+    url: /works/597754/
   - title: Kouen no Oji-san-tachi ni Moteasobaretai
     author: group
     cover: /covers/598010.jpg
@@ -555,6 +607,13 @@ works:
     date: '2026-08-25'
     code: 608648
     url: /works/608648/
+  - title: My Wife, On the Other Side of The Peep Room…
+    author: nekome-koi
+    cover: /covers/609714.jpg
+    rating: 4.2
+    date: '2026-03-03'
+    code: 609714
+    url: /works/609714/
   - title: Dasuru Haha Musuko ni Nandomo Irerarete
     author: daidai-shikibu
     cover: /covers/612083.jpg
@@ -609,6 +668,27 @@ works:
     date: '2026-03-05'
     code: 631501
     url: /works/631501/
+  - title: 人質 〜カノジョはヒトジチ〜
+    author: nokenya
+    cover: /covers/631651.jpg
+    rating: 4.2
+    date: '2026-03-03'
+    code: 631651
+    url: /works/631651/
+  - title: Pakokatsu Oji-san to Kaede-chan 3
+    author: nizigensan
+    cover: /covers/631703.jpg
+    rating: 4.0
+    date: '2026-02-25'
+    code: 631703
+    url: /works/631703/
+  - title: Erufu (♀) no Bokensha ga Yadoya no Shujin ni Yobai&Tanetsuke Sareru Ohanashi
+    author: unknown
+    cover: /covers/631719.jpg
+    rating: 4.8
+    date: '2026-02-25'
+    code: 631719
+    url: /works/631719/
   - title: Aitsu, Kotowarenai kara.. Remake-ban no Tsuzuki dewa Arimasu ga, Konsaku
       wa Yakinaoshi ja Nai yo. Settei Igai wa Sinsaku da yo. Sonna Kanji no Vol. 2 desu
     author: haruharudo
@@ -617,6 +697,27 @@ works:
     date: '2026-07-17'
     code: 632056
     url: /works/632056/
+  - title: Haha ni Muketa Seiyoku
+    author: maccha-neji
+    cover: /covers/632534.jpg
+    rating: 4.1
+    date: '2026-03-04'
+    code: 632534
+    url: /works/632534/
+  - title: moderately risky 2
+    author: borikori
+    cover: /covers/632800.jpg
+    rating: 4.3
+    date: '2026-03-03'
+    code: 632800
+    url: /works/632800/
+  - title: Have a nice day.
+    author: owari-ningen
+    cover: /covers/632967.jpg
+    rating: 4.1
+    date: '2026-02-26'
+    code: 632967
+    url: /works/632967/
   - title: Tada Sex Shitakatta dake nano ni SNS de Deatta Bimajo ga Scatolo Mania de,
       Boku wa... 1
     author: bonske
@@ -625,6 +726,13 @@ works:
     date: '2026-07-09'
     code: 633938
     url: /works/633938/
+  - title: The Big-Breasted Lady at the Delivery Destination Is Way Too Lewd
+    author: nishibi-mitsuba
+    cover: /covers/634156.jpg
+    rating: 4.9
+    date: '2026-03-03'
+    code: 634156
+    url: /works/634156/
   - title: Opportunity for Zaychik
     author: eggutarto-sunnyside524
     cover: /covers/634157.jpg

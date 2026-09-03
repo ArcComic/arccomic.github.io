@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "crying"
-work_count: 17
+work_count: 18
 works:
   - title: Netorareru.~ Tsuma ga Ochi Yuku Hen'ai Kairaku no Hate ni...1-5 | NETORARERU,
       A Wife's Descent Into Sinful Pleasures 1-5
@@ -27,6 +27,13 @@ works:
     date: '2026-05-26'
     code: 624573
     url: /works/624573/
+  - title: 人質 〜カノジョはヒトジチ〜
+    author: nokenya
+    cover: /covers/631651.jpg
+    rating: 4.2
+    date: '2026-03-03'
+    code: 631651
+    url: /works/631651/
   - title: Prefab
     author: lioreo
     cover: /covers/643975.jpg

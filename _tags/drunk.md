@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "drunk"
-work_count: 22
+work_count: 26
 works:
   - title: HUNDRED GAME Ch. 1-3
     author: kuon-michiyoshi
@@ -17,6 +17,13 @@ works:
     date: '2026-04-13'
     code: 272352
     url: /works/272352/
+  - title: Oppai na Natsuyasumi 2 | The Summer Break of Boobs 2
+    author: higashino-mikan
+    cover: /covers/292454.jpg
+    rating: 4.9
+    date: '2026-03-04'
+    code: 292454
+    url: /works/292454/
   - title: Kono Koi ni Kiduite
     author: danimaru
     cover: /covers/357965.jpg
@@ -55,6 +62,13 @@ works:
     date: '2026-04-27'
     code: 416883
     url: /works/416883/
+  - title: Discovery
+    author: momono-yuuca
+    cover: /covers/445018.jpg
+    rating: 4.9
+    date: '2026-03-03'
+    code: 445018
+    url: /works/445018/
   - title: Tsumaduki | With a Wife
     author: ryuuta
     cover: /covers/446716.jpg
@@ -83,6 +97,13 @@ works:
     date: '2026-04-15'
     code: 508549
     url: /works/508549/
+  - title: Oppai na Natsuyasumi Soushuuhen | The Summer Break of Boobs Complete
+    author: higashino-mikan
+    cover: /covers/508649.jpg
+    rating: 4.3
+    date: '2026-03-04'
+    code: 508649
+    url: /works/508649/
   - title: Shuuden Deisui Anken
     author: uds
     cover: /covers/525085.jpg
@@ -118,6 +139,14 @@ works:
     date: '2026-04-27'
     code: 619405
     url: /works/619405/
+  - title: The story of how I ended up living with my mom in a four-and-a-half tatami
+      room 1.
+    author: europia
+    cover: /covers/634383.jpg
+    rating: 4.5
+    date: '2026-03-04'
+    code: 634383
+    url: /works/634383/
   - title: Boku to Aitsu to Ano Ko to Kanojo. - Me, Him, the Girl and Her
     author: kameyama-cola
     cover: /covers/648093.jpg

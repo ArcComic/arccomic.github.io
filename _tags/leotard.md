@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "leotard"
-work_count: 4
+work_count: 5
 works:
   - title: Watashi no Karada, Okashi Shimasu. Bunny Girl Edition
     author: nectar
@@ -10,6 +10,13 @@ works:
     date: '2026-05-10'
     code: 441339
     url: /works/441339/
+  - title: Michikake - Waxing and Waning
+    author: momono-yuuca
+    cover: /covers/574060.jpg
+    rating: 4.9
+    date: '2026-03-03'
+    code: 574060
+    url: /works/574060/
   - title: 'Moto Mahou Shoujo no Shigoto Hanashi Ao Zenjitsutan | Former Magical Girl
       Blue''s Work: The Prequel'
     author: zhen-lu

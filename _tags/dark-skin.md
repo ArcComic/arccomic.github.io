@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "dark skin"
-work_count: 66
+work_count: 73
 works:
   - title: GalPa!
     author: sakagami-umi
@@ -31,6 +31,13 @@ works:
     date: '2026-07-17'
     code: 300943
     url: /works/300943/
+  - title: Tsumareta Ikoku no Hana II
+    author: darabuchi
+    cover: /covers/315693.jpg
+    rating: 4.1
+    date: '2026-03-04'
+    code: 315693
+    url: /works/315693/
   - title: CHOCO x LOVE
     author: highlow
     cover: /covers/317673.jpg
@@ -96,6 +103,14 @@ works:
     date: '2026-08-23'
     code: 441114
     url: /works/441114/
+  - title: Hairyokan de no Ero Kyoufu Taiken | A Terrifying Erotic Experience at an
+      Abandoned Inn
+    author: pink-taro
+    cover: /covers/446969.jpg
+    rating: 4.7
+    date: '2026-02-26'
+    code: 446969
+    url: /works/446969/
   - title: 'Portio Switch CASE: Varicata Portio | Cervix Switch CASE - Extra-hard Cervix'
     author: bang-you-didori
     cover: /covers/452141.jpg
@@ -213,6 +228,21 @@ works:
     date: '2026-04-21'
     code: 609650
     url: /works/609650/
+  - title: Tannin no Meido ni Nacchatta KURO GAL 2 | The Black Gal Who Became The Homeroom
+      Teacher's Maid 2
+    author: ootsuka-kotora
+    cover: /covers/611701.jpg
+    rating: 4.6
+    date: '2026-03-03'
+    code: 611701
+    url: /works/611701/
+  - title: 'Gal to Meccha Namahame Nakadashi Ecchi Suru Hanashi #5'
+    author: pistonring-nishizawa
+    cover: /covers/617805.jpg
+    rating: 4.8
+    date: '2026-03-04'
+    code: 617805
+    url: /works/617805/
   - title: Boku no Toshiue no Tomodachi | My Older Friend
     author: buta
     cover: /covers/631036.jpg
@@ -220,6 +250,20 @@ works:
     date: '2026-05-26'
     code: 631036
     url: /works/631036/
+  - title: Daddy's Forgotten Life Purpose
+    author: group
+    cover: /covers/631630.jpg
+    rating: 4.3
+    date: '2026-03-03'
+    code: 631630
+    url: /works/631630/
+  - title: Amoral Island
+    author: alp
+    cover: /covers/633453.jpg
+    rating: 4.8
+    date: '2026-03-02'
+    code: 633453
+    url: /works/633453/
   - title: Kanojo ga Kami o Someta Wake ~Kataomoi no Seiso Kurokami Ojou-sama ga Boku
       no Shiranai Tokoro de Otoko no Aji o Oboeru Hanashi~ | The Real Reason She Changed
       Her Hair
@@ -229,6 +273,14 @@ works:
     date: '2026-08-29'
     code: 634450
     url: /works/634450/
+  - title: Akogare no Model Jimusho ni Haitta Kekka… | The result of joining the modeling
+      agency I’ve always admired...
+    author: zarameccho
+    cover: /covers/634454.jpg
+    rating: 4.7
+    date: '2026-03-04'
+    code: 634454
+    url: /works/634454/
   - title: 'GNO: Girl''s Night Out - Issue 02'
     author: uselessbegging
     cover: /covers/634464.jpg

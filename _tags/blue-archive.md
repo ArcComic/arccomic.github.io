@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "blue archive"
-work_count: 12
+work_count: 13
 works:
   - title: Oshioki no Jikan - Punishment time
     author: syoukaki
@@ -10,6 +10,14 @@ works:
     date: '2026-05-10'
     code: 540125
     url: /works/540125/
+  - title: ENG-Chiune_Kimodebu Sugite Kivotos o Horoboshita Sensei ga Bessekaisen no
+      Yuuka o NTR Ryoujoku suru Hon
+    author: chiune
+    cover: /covers/583131.jpg
+    rating: 4.2
+    date: '2026-03-02'
+    code: 583131
+    url: /works/583131/
   - title: Gouriteki na Sei no Hassan ni Tsuite Aratame Chikubi Karikari Iraira Manko
       | —关于如何合理地释放性欲—仔细调查乳头为何变硬与饥渴难耐的小穴
     author: kito-sakeru

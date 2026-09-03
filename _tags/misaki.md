@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "misaki"
-work_count: 5
+work_count: 7
 works:
+  - title: Oppai na Natsuyasumi 2 | The Summer Break of Boobs 2
+    author: higashino-mikan
+    cover: /covers/292454.jpg
+    rating: 4.9
+    date: '2026-03-04'
+    code: 292454
+    url: /works/292454/
   - title: Yurikago
     author: neko-samurai
     cover: /covers/398305.jpg
@@ -10,6 +17,13 @@ works:
     date: '2026-07-10'
     code: 398305
     url: /works/398305/
+  - title: Oppai na Natsuyasumi Soushuuhen | The Summer Break of Boobs Complete
+    author: higashino-mikan
+    cover: /covers/508649.jpg
+    rating: 4.3
+    date: '2026-03-04'
+    code: 508649
+    url: /works/508649/
   - title: Boku no Toshiue no Tomodachi | My Older Friend
     author: buta
     cover: /covers/631036.jpg

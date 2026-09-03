@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "mind control"
-work_count: 25
+work_count: 26
 works:
   - title: Syuju - Kankei
     author: 810eru
@@ -87,6 +87,13 @@ works:
     date: '2026-04-23'
     code: 628865
     url: /works/628865/
+  - title: Yumemiru Idol Ikuseiron
+    author: kakino-nashiko
+    cover: /covers/631704.jpg
+    rating: 4.5
+    date: '2026-02-25'
+    code: 631704
+    url: /works/631704/
   - title: Mishiranu Boshi ni Yaritai Houdai
     author: tonda
     cover: /covers/635363.jpg

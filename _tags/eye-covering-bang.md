@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "eye-covering bang"
-work_count: 23
+work_count: 24
 works:
   - title: 'Portio Switch CASE: Varicata Portio | Cervix Switch CASE - Extra-hard Cervix'
     author: bang-you-didori
@@ -61,6 +61,14 @@ works:
     date: '2026-04-23'
     code: 610041
     url: /works/610041/
+  - title: Tower Residence Setsuguka Taiouchuu | Tower Residence Service Department
+      Now Serving
+    author: tomohiro-kai
+    cover: /covers/633842.jpg
+    rating: 4.1
+    date: '2026-03-02'
+    code: 633842
+    url: /works/633842/
   - title: 橘さん家ノ脅迫NTR事情
     author: group
     cover: /covers/634198.jpg

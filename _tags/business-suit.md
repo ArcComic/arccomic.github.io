@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "business suit"
-work_count: 46
+work_count: 50
 works:
   - title: Kaisha de Iroiro | Gettin' Busy at the Office
     author: hara-shigeyuki
@@ -24,6 +24,13 @@ works:
     date: '2026-08-19'
     code: 142561
     url: /works/142561/
+  - title: Another Produce -Kaede Takagaki-
+    author: marushin
+    cover: /covers/179531.jpg
+    rating: 4.9
+    date: '2026-02-26'
+    code: 179531
+    url: /works/179531/
   - title: Sakura Shunin wa Dekiru Hito
     author: yoshiura-kazuya
     cover: /covers/302117.jpg
@@ -88,6 +95,13 @@ works:
     date: '2026-04-12'
     code: 415906
     url: /works/415906/
+  - title: Hikage | Shade
+    author: syuuen
+    cover: /covers/429669.jpg
+    rating: 4.8
+    date: '2026-02-28'
+    code: 429669
+    url: /works/429669/
   - title: Sukina Hito, Sukina Koto
     author: ebi-fry-teishoku
     cover: /covers/452482.jpg
@@ -263,6 +277,20 @@ works:
     date: '2026-05-26'
     code: 624573
     url: /works/624573/
+  - title: Haken no Nakano-san wa Moto AV Joyuu ~Office de Dokidoki Sex Hen~
+    author: sumiya
+    cover: /covers/631695.jpg
+    rating: 4.1
+    date: '2026-02-25'
+    code: 631695
+    url: /works/631695/
+  - title: Have a nice day.
+    author: owari-ningen
+    cover: /covers/632967.jpg
+    rating: 4.1
+    date: '2026-02-26'
+    code: 632967
+    url: /works/632967/
   - title: Curiosity and the Cost of Innocence
     author: hoshi-to-lucky
     cover: /covers/637110.jpg

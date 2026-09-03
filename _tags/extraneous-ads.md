@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "extraneous ads"
-work_count: 10
+work_count: 11
 works:
   - title: Tomodachi, Osananajimi mo Kaa-san mo Netorareru
     author: sink
@@ -39,6 +39,13 @@ works:
     date: '2026-04-18'
     code: 549597
     url: /works/549597/
+  - title: Yumemiru Idol Ikuseiron
+    author: kakino-nashiko
+    cover: /covers/631704.jpg
+    rating: 4.5
+    date: '2026-02-25'
+    code: 631704
+    url: /works/631704/
   - title: 'Portio switch CASE: Natsumi'
     author: bang-you-didori
     cover: /covers/634677.jpg

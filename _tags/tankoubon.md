@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "tankoubon"
-work_count: 42
+work_count: 43
 works:
   - title: Kaisha de Iroiro | Gettin' Busy at the Office
     author: hara-shigeyuki
@@ -59,6 +59,13 @@ works:
     date: '2026-04-23'
     code: 548852
     url: /works/548852/
+  - title: Michikake - Waxing and Waning
+    author: momono-yuuca
+    cover: /covers/574060.jpg
+    rating: 4.9
+    date: '2026-03-03'
+    code: 574060
+    url: /works/574060/
   - title: Mesu Etsu Toiki Nemoto made Fukaku…
     author: drill-murata
     cover: /covers/612957.jpg

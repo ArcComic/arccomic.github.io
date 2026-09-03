@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "first person perspective"
-work_count: 6
+work_count: 7
 works:
   - title: Uwa, Mesugaki Tsuyoi! | Crap, This Mesugaki's Too Powerful!
     author: poncocchan
@@ -17,6 +17,15 @@ works:
     date: '2026-07-16'
     code: 555816
     url: /works/555816/
+  - title: 'Bijutsubu Harem Katsudou Nisshi ~Senpai no Slump Kaishou ni Kyouryoku shitara,
+      Ikioi de 3P suru Koto ni Natta Hanashi~ | Art Club Harem Activity Log: How Helping
+      My Senior Get Over Her Slump Led to a Threesome in the Heat of the Moment'
+    author: momokumo
+    cover: /covers/632523.jpg
+    rating: 4.3
+    date: '2026-02-26'
+    code: 632523
+    url: /works/632523/
   - title: Yarinuki Gal
     author: uenosuke
     cover: /covers/645537.jpg

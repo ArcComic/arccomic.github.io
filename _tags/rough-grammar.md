@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "rough grammar"
-work_count: 3
+work_count: 5
 works:
+  - title: Discovery
+    author: momono-yuuca
+    cover: /covers/445018.jpg
+    rating: 4.9
+    date: '2026-03-03'
+    code: 445018
+    url: /works/445018/
   - title: Kinpatsu Chounyuu Gal ni Gyaku Deriheru Atsukai Sarete Iru Ore no Hanashi
     author: uni-toshiki
     cover: /covers/502694.jpg
@@ -17,6 +24,13 @@ works:
     date: '2026-08-18'
     code: 508818
     url: /works/508818/
+  - title: '"Yoyaku Shimasu ka? Asashio no Onaka"'
+    author: ootsuka-kotora
+    cover: /covers/509474.jpg
+    rating: 4.9
+    date: '2026-03-03'
+    code: 509474
+    url: /works/509474/
   - title: All Night Long
     author: takasugi-kou
     cover: /covers/662057.jpg

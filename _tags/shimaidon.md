@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "shimaidon"
-work_count: 10
+work_count: 12
 works:
   - title: Zenin Mukuwarenai Harem | A Harem Where No One Is Reciprocated
     author: group
@@ -10,6 +10,20 @@ works:
     date: '2026-04-23'
     code: 610041
     url: /works/610041/
+  - title: 'Gal to Meccha Namahame Nakadashi Ecchi Suru Hanashi #5'
+    author: pistonring-nishizawa
+    cover: /covers/617805.jpg
+    rating: 4.8
+    date: '2026-03-04'
+    code: 617805
+    url: /works/617805/
+  - title: Amoral Island
+    author: alp
+    cover: /covers/633453.jpg
+    rating: 4.8
+    date: '2026-03-02'
+    code: 633453
+    url: /works/633453/
   - title: Jimoto no Dekai Gal 2
     author: ueno-meguru
     cover: /covers/634593.jpg

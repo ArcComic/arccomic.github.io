@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "harem"
-work_count: 17
+work_count: 18
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -32,6 +32,13 @@ works:
     date: '2026-08-20'
     code: 537794
     url: /works/537794/
+  - title: Amoral Island
+    author: alp
+    cover: /covers/633453.jpg
+    rating: 4.8
+    date: '2026-03-02'
+    code: 633453
+    url: /works/633453/
   - title: Chinpo ni Katenai Onna-tachi
     author: oobayashi-mori
     cover: /covers/638359.jpg

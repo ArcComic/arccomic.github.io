@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "virginity"
-work_count: 74
+work_count: 75
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -310,6 +310,14 @@ works:
     date: '2026-05-26'
     code: 631036
     url: /works/631036/
+  - title: Tower Residence Setsuguka Taiouchuu | Tower Residence Service Department
+      Now Serving
+    author: tomohiro-kai
+    cover: /covers/633842.jpg
+    rating: 4.1
+    date: '2026-03-02'
+    code: 633842
+    url: /works/633842/
   - title: Chijo Monogatari Bakunyuu Chijukujo to Doutei-kun
     author: enma
     cover: /covers/635174.jpg

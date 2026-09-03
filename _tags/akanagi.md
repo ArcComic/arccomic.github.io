@@ -1,0 +1,13 @@
+---
+layout: tag
+tag_name: "akanagi"
+work_count: 1
+works:
+  - title: Netorare jk Osananajimi Suieibu 3
+    author: aikawa-tatsuki
+    cover: /covers/563342.jpg
+    rating: 4.2
+    date: '2026-03-02'
+    code: 563342
+    url: /works/563342/
+---

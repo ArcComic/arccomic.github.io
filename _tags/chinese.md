@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "chinese"
-work_count: 34
+work_count: 41
 works:
   - title: Netorare Ibe Kiba Shizuka
     author: terasu-mc
@@ -110,6 +110,13 @@ works:
     date: '2026-04-18'
     code: 549597
     url: /works/549597/
+  - title: Netorare jk Osananajimi Suieibu 3
+    author: aikawa-tatsuki
+    cover: /covers/563342.jpg
+    rating: 4.2
+    date: '2026-03-02'
+    code: 563342
+    url: /works/563342/
   - title: Cocoa-chan no Jiraikei Chuuihou
     author: uni-toshiki
     cover: /covers/568923.jpg
@@ -167,6 +174,49 @@ works:
     date: '2026-04-23'
     code: 606276
     url: /works/606276/
+  - title: 人質 〜カノジョはヒトジチ〜
+    author: nokenya
+    cover: /covers/631651.jpg
+    rating: 4.2
+    date: '2026-03-03'
+    code: 631651
+    url: /works/631651/
+  - title: Boku no Kanojo wa Midasareru ~Ryokan Hen~ - I'm just here for a little bit
+      of stimulation. | 深陷誘惑的女友 旅館篇
+    author: mintice
+    cover: /covers/631662.jpg
+    rating: 4.2
+    date: '2026-03-03'
+    code: 631662
+    url: /works/631662/
+  - title: Kajitsu 7
+    author: ken-1
+    cover: /covers/631665.jpg
+    rating: 4.5
+    date: '2026-03-03'
+    code: 631665
+    url: /works/631665/
+  - title: Pakokatsu Oji-san to Kaede-chan 3
+    author: nizigensan
+    cover: /covers/631703.jpg
+    rating: 4.0
+    date: '2026-02-25'
+    code: 631703
+    url: /works/631703/
+  - title: Yumemiru Idol Ikuseiron
+    author: kakino-nashiko
+    cover: /covers/631704.jpg
+    rating: 4.5
+    date: '2026-02-25'
+    code: 631704
+    url: /works/631704/
+  - title: Erufu (♀) no Bokensha ga Yadoya no Shujin ni Yobai&Tanetsuke Sareru Ohanashi
+    author: unknown
+    cover: /covers/631719.jpg
+    rating: 4.8
+    date: '2026-02-25'
+    code: 631719
+    url: /works/631719/
   - title: Ecchi na Omise ni Denwa shitara Oshiego ga Detekita Hanashi
     author: akahito
     cover: /covers/634144.jpg

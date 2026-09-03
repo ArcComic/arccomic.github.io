@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "japanese"
-work_count: 32
+work_count: 38
 works:
   - title: Hitozuma Hyakka
     author: hase-tsubura
@@ -73,6 +73,13 @@ works:
     date: '2026-04-16'
     code: 482859
     url: /works/482859/
+  - title: Risato
+    author: unknown
+    cover: /covers/484852.jpg
+    rating: 4.5
+    date: '2026-02-28'
+    code: 484852
+    url: /works/484852/
   - title: Tsuma wa NTR reta gatte iru. 5
     author: jill
     cover: /covers/531759.jpg
@@ -108,6 +115,20 @@ works:
     date: '2026-04-23'
     code: 548852
     url: /works/548852/
+  - title: Michikake - Waxing and Waning
+    author: momono-yuuca
+    cover: /covers/574060.jpg
+    rating: 4.9
+    date: '2026-03-03'
+    code: 574060
+    url: /works/574060/
+  - title: Zero Kyori no Manazashi
+    author: momoko
+    cover: /covers/578371.jpg
+    rating: 4.7
+    date: '2026-02-26'
+    code: 578371
+    url: /works/578371/
   - title: Mama ga Hirottekita Homeless Jiji☆
     author: rafuro
     cover: /covers/593017.jpg
@@ -115,6 +136,14 @@ works:
     date: '2026-03-08'
     code: 593017
     url: /works/593017/
+  - title: Hajimete no DomiSub ~Match App de Mitsuketa Goshujin-sama ni Jinsei Bukkowashite
+      Moraimasu~
+    author: nemui-neru
+    cover: /covers/597754.jpg
+    rating: 4.0
+    date: '2026-02-25'
+    code: 597754
+    url: /works/597754/
   - title: Hitozuma Takuhaibin 1+2
     author: unknown
     cover: /covers/599910.jpg
@@ -129,6 +158,21 @@ works:
     date: '2026-04-17'
     code: 612957
     url: /works/612957/
+  - title: Haken no Nakano-san wa Moto AV Joyuu ~Office de Dokidoki Sex Hen~
+    author: sumiya
+    cover: /covers/631695.jpg
+    rating: 4.1
+    date: '2026-02-25'
+    code: 631695
+    url: /works/631695/
+  - title: Kareshi ni Betabore Chuu no Gal Senpai ga, Ore to Tsukiau made - Be my girlfriend!
+      Rio-senpai!
+    author: unknown
+    cover: /covers/632528.jpg
+    rating: 4.9
+    date: '2026-02-26'
+    code: 632528
+    url: /works/632528/
   - title: Seishokuki Aliens Meet Girls Vol. 4
     author: alto-seneka
     cover: /covers/634489.jpg

@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "aunt"
-work_count: 7
+work_count: 9
 works:
+  - title: Oppai na Natsuyasumi 2 | The Summer Break of Boobs 2
+    author: higashino-mikan
+    cover: /covers/292454.jpg
+    rating: 4.9
+    date: '2026-03-04'
+    code: 292454
+    url: /works/292454/
   - title: Soubo Soukan | Twin Mother Incest Ch. 1
     author: nanao-yukiji
     cover: /covers/356516.jpg
@@ -10,6 +17,13 @@ works:
     date: '2026-04-23'
     code: 356516
     url: /works/356516/
+  - title: Oppai na Natsuyasumi Soushuuhen | The Summer Break of Boobs Complete
+    author: higashino-mikan
+    cover: /covers/508649.jpg
+    rating: 4.3
+    date: '2026-03-04'
+    code: 508649
+    url: /works/508649/
   - title: Kyoushi no Oba wa Himitsu no Bakunyuu Ero Cos Layer ~Iinari Gyaku Bunny &
       Sister Cos de Keiren Soku Iki Nakadashi Netori~ | My Teacher Aunt Is Secretly
       A Buxom Erotic Cosplayer

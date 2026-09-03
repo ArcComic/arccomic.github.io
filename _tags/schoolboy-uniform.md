@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "schoolboy uniform"
-work_count: 40
+work_count: 42
 works:
   - title: Mukuchi na Tosho Iin to Sex Zuke.
     author: yuzuha
@@ -61,6 +61,20 @@ works:
     date: '2026-08-23'
     code: 531967
     url: /works/531967/
+  - title: Zoku Kunikida Senpai no Kakushigoto | Kunikida Senpai's Secret ・Continued
+    author: momokumo
+    cover: /covers/533325.jpg
+    rating: 4.6
+    date: '2026-02-26'
+    code: 533325
+    url: /works/533325/
+  - title: Zero Kyori no Manazashi
+    author: momoko
+    cover: /covers/578371.jpg
+    rating: 4.7
+    date: '2026-02-26'
+    code: 578371
+    url: /works/578371/
   - title: ゼロ距離のまなざし | 零距离的眼神
     author: momoko
     cover: /covers/579493.jpg

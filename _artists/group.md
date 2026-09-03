@@ -1,7 +1,7 @@
 ---
 layout: artist
 artist_name: "group"
-work_count: 16
+work_count: 17
 works:
   - title: Itabasami na Wakachi Ai 4 | Love Divided Between a Rock and a Hard Place
       4
@@ -43,6 +43,12 @@ works:
     date: '2026-04-23'
     code: 610041
     url: /works/610041/
+  - title: Daddy's Forgotten Life Purpose
+    cover: /covers/631630.jpg
+    rating: 4.3
+    date: '2026-03-03'
+    code: 631630
+    url: /works/631630/
   - title: 橘さん家ノ脅迫NTR事情
     cover: /covers/634198.jpg
     rating: 5.0

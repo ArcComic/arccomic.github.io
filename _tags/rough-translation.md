@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "rough translation"
-work_count: 297
+work_count: 315
 works:
   - title: Watashi no Karada, Okashi Shimasu. Bunny Girl Edition
     author: nectar
@@ -18,6 +18,27 @@ works:
     date: '2026-07-08'
     code: 444819
     url: /works/444819/
+  - title: Discovery
+    author: momono-yuuca
+    cover: /covers/445018.jpg
+    rating: 4.9
+    date: '2026-03-03'
+    code: 445018
+    url: /works/445018/
+  - title: Ano Hi ni Modotte Mouichido
+    author: nekome-koi
+    cover: /covers/447900.jpg
+    rating: 4.4
+    date: '2026-03-03'
+    code: 447900
+    url: /works/447900/
+  - title: Haha ⇒ umi ⇒ Nanpa ⇒ Rankou ⇒ Nikuana. Haha, Ochiru.
+    author: rin
+    cover: /covers/455844.jpg
+    rating: 4.8
+    date: '2026-03-02'
+    code: 455844
+    url: /works/455844/
   - title: Kinpatsu Chounyuu Gal ni Gyaku Deriheru Atsukai Sarete Iru Ore no Hanashi
     author: uni-toshiki
     cover: /covers/502694.jpg
@@ -32,6 +53,13 @@ works:
     date: '2026-08-18'
     code: 508818
     url: /works/508818/
+  - title: '"Yoyaku Shimasu ka? Asashio no Onaka"'
+    author: ootsuka-kotora
+    cover: /covers/509474.jpg
+    rating: 4.9
+    date: '2026-03-03'
+    code: 509474
+    url: /works/509474/
   - title: Gibo-san wa Boku no Mono 7
     author: c-kyuu
     cover: /covers/511503.jpg
@@ -252,6 +280,13 @@ works:
     date: '2026-05-05'
     code: 558039
     url: /works/558039/
+  - title: Netorare jk Osananajimi Suieibu 3
+    author: aikawa-tatsuki
+    cover: /covers/563342.jpg
+    rating: 4.2
+    date: '2026-03-02'
+    code: 563342
+    url: /works/563342/
   - title: I'll cut my hair off
     author: umidori-project
     cover: /covers/564042.jpg
@@ -309,6 +344,14 @@ works:
     date: '2026-07-17'
     code: 581704
     url: /works/581704/
+  - title: ENG-Chiune_Kimodebu Sugite Kivotos o Horoboshita Sensei ga Bessekaisen no
+      Yuuka o NTR Ryoujoku suru Hon
+    author: chiune
+    cover: /covers/583131.jpg
+    rating: 4.2
+    date: '2026-03-02'
+    code: 583131
+    url: /works/583131/
   - title: Meshitaki san-nen, nigiri ichi-nen | Three Years to Master Rice, One Year
       to Master Nigiri
     author: polier
@@ -388,6 +431,14 @@ works:
     date: '2026-03-09'
     code: 598144
     url: /works/598144/
+  - title: Metsuki no Warui Kidaruge na Kouhai ni Shiboritorareru | Squeezed Up By My
+      Junior Girl Who Is Gloomy
+    author: oburigakko
+    cover: /covers/603756.jpg
+    rating: 4.3
+    date: '2026-03-02'
+    code: 603756
+    url: /works/603756/
   - title: Kouhai Otaku Tomodachi JK ga Kawai Sugirumon de!
     author: niji-teru
     cover: /covers/606719.jpg
@@ -416,6 +467,13 @@ works:
     date: '2026-04-21'
     code: 609650
     url: /works/609650/
+  - title: My Wife, On the Other Side of The Peep Room…
+    author: nekome-koi
+    cover: /covers/609714.jpg
+    rating: 4.2
+    date: '2026-03-03'
+    code: 609714
+    url: /works/609714/
   - title: Seishun Soushitsu
     author: pinkjoe
     cover: /covers/610017.jpg
@@ -473,6 +531,13 @@ works:
     date: '2026-04-27'
     code: 616533
     url: /works/616533/
+  - title: 'Gal to Meccha Namahame Nakadashi Ecchi Suru Hanashi #5'
+    author: pistonring-nishizawa
+    cover: /covers/617805.jpg
+    rating: 4.8
+    date: '2026-03-04'
+    code: 617805
+    url: /works/617805/
   - title: Majime na Iinchou no Kanojo ga Sex ni Hamatta Riyuu
     author: furaimai
     cover: /covers/618562.jpg
@@ -516,6 +581,34 @@ works:
     date: '2026-04-13'
     code: 630903
     url: /works/630903/
+  - title: 人質 〜カノジョはヒトジチ〜
+    author: nokenya
+    cover: /covers/631651.jpg
+    rating: 4.2
+    date: '2026-03-03'
+    code: 631651
+    url: /works/631651/
+  - title: Gusai, Saikyouiku. | Dumb wife, re-education.
+    author: ushio-kiyoshi
+    cover: /covers/631677.jpg
+    rating: 4.8
+    date: '2026-03-03'
+    code: 631677
+    url: /works/631677/
+  - title: Pakokatsu Oji-san to Kaede-chan 3
+    author: nizigensan
+    cover: /covers/631703.jpg
+    rating: 4.0
+    date: '2026-02-25'
+    code: 631703
+    url: /works/631703/
+  - title: Erufu (♀) no Bokensha ga Yadoya no Shujin ni Yobai&Tanetsuke Sareru Ohanashi
+    author: unknown
+    cover: /covers/631719.jpg
+    rating: 4.8
+    date: '2026-02-25'
+    code: 631719
+    url: /works/631719/
   - title: Aitsu, Kotowarenai kara.. Remake-ban no Tsuzuki dewa Arimasu ga, Konsaku
       wa Yakinaoshi ja Nai yo. Settei Igai wa Sinsaku da yo. Sonna Kanji no Vol. 2 desu
     author: haruharudo
@@ -532,6 +625,28 @@ works:
     date: '2026-08-20'
     code: 632132
     url: /works/632132/
+  - title: Haha ni Muketa Seiyoku
+    author: maccha-neji
+    cover: /covers/632534.jpg
+    rating: 4.1
+    date: '2026-03-04'
+    code: 632534
+    url: /works/632534/
+  - title: Rikujoubu no Boyish na Osananajimi ga suru Dare ni mo Ienai Koto | The Secret
+      Activity of My Boyish Childhood Friend from the Track Team
+    author: harufumi
+    cover: /covers/632761.jpg
+    rating: 4.7
+    date: '2026-02-26'
+    code: 632761
+    url: /works/632761/
+  - title: moderately risky 2
+    author: borikori
+    cover: /covers/632800.jpg
+    rating: 4.3
+    date: '2026-03-03'
+    code: 632800
+    url: /works/632800/
   - title: Kareshi ni Betabore Chuu no Gal Senpai ga, Ore to Tsukiau made - Be my girlfriend!
       Rio-senpai! | Being Clingy with Your Boyfriend... Kyaru, Senpai Why Not Date Me
       Next?
@@ -549,6 +664,13 @@ works:
     date: '2026-07-09'
     code: 633938
     url: /works/633938/
+  - title: The Big-Breasted Lady at the Delivery Destination Is Way Too Lewd
+    author: nishibi-mitsuba
+    cover: /covers/634156.jpg
+    rating: 4.9
+    date: '2026-03-03'
+    code: 634156
+    url: /works/634156/
   - title: 橘さん家ノ脅迫NTR事情
     author: group
     cover: /covers/634198.jpg
@@ -556,6 +678,14 @@ works:
     date: '2026-03-07'
     code: 634198
     url: /works/634198/
+  - title: Akogare no Model Jimusho ni Haitta Kekka… | The result of joining the modeling
+      agency I’ve always admired...
+    author: zarameccho
+    cover: /covers/634454.jpg
+    rating: 4.7
+    date: '2026-03-04'
+    code: 634454
+    url: /works/634454/
   - title: Namaiki JK mo, Ossan Chinpo no Mae de wa Muryoku desu.
     author: unknown
     cover: /covers/634472.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "anal"
-work_count: 80
+work_count: 82
 works:
   - title: Hitozuma Hyakka
     author: hase-tsubura
@@ -106,6 +106,13 @@ works:
     date: '2026-07-11'
     code: 531966
     url: /works/531966/
+  - title: Zoku Kunikida Senpai no Kakushigoto | Kunikida Senpai's Secret ・Continued
+    author: momokumo
+    cover: /covers/533325.jpg
+    rating: 4.6
+    date: '2026-02-26'
+    code: 533325
+    url: /works/533325/
   - title: Netorare x Off-Pako
     author: group
     cover: /covers/534663.jpg
@@ -270,6 +277,14 @@ works:
     date: '2026-07-09'
     code: 633938
     url: /works/633938/
+  - title: Akogare no Model Jimusho ni Haitta Kekka… | The result of joining the modeling
+      agency I’ve always admired...
+    author: zarameccho
+    cover: /covers/634454.jpg
+    rating: 4.7
+    date: '2026-03-04'
+    code: 634454
+    url: /works/634454/
   - title: 'GNO: Girl''s Night Out - Issue 02'
     author: uselessbegging
     cover: /covers/634464.jpg

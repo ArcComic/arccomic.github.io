@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "dark skinned female"
-work_count: 7
+work_count: 8
 works:
   - title: Boku no Toshiue no Tomodachi | My Older Friend
     author: buta
@@ -10,6 +10,14 @@ works:
     date: '2026-05-26'
     code: 631036
     url: /works/631036/
+  - title: Rikujoubu no Boyish na Osananajimi ga suru Dare ni mo Ienai Koto | The Secret
+      Activity of My Boyish Childhood Friend from the Track Team
+    author: harufumi
+    cover: /covers/632761.jpg
+    rating: 4.7
+    date: '2026-02-26'
+    code: 632761
+    url: /works/632761/
   - title: BUTA - 『You did a great job』
     author: buta
     cover: /covers/639772.jpg

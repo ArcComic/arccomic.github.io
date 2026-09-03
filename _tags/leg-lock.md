@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "leg lock"
-work_count: 47
+work_count: 50
 works:
   - title: My Care Lady Ch. 1
     author: sugi-g
@@ -123,6 +123,13 @@ works:
     date: '2026-04-23'
     code: 534640
     url: /works/534640/
+  - title: Pakokatsu Oji-san to Kaede-chan (1+2+3) | Kaede and The Sugar Daddy
+    author: nizigensan
+    cover: /covers/543086.jpg
+    rating: 4.9
+    date: '2026-02-25'
+    code: 543086
+    url: /works/543086/
   - title: Saikai shita Osananajimi to Issen o Koecchau Hanashi | I Reunited With My
       Longtime Friend and Crossed the Line
     author: satsuki-usa
@@ -223,6 +230,22 @@ works:
     date: '2026-05-26'
     code: 631036
     url: /works/631036/
+  - title: Rikujoubu no Boyish na Osananajimi ga suru Dare ni mo Ienai Koto | The Secret
+      Activity of My Boyish Childhood Friend from the Track Team
+    author: harufumi
+    cover: /covers/632761.jpg
+    rating: 4.7
+    date: '2026-02-26'
+    code: 632761
+    url: /works/632761/
+  - title: 2-nen C-gumi Gakuen Oppabu no Cast ni Imouto ga Ita | My Little Sister Was
+      a Hostess at Class 2-C's School Festival Boobs Bar
+    author: bunapi-397-yen
+    cover: /covers/634137.jpg
+    rating: 4.2
+    date: '2026-03-03'
+    code: 634137
+    url: /works/634137/
   - title: Chijo Monogatari Bakunyuu Chijukujo to Doutei-kun
     author: enma
     cover: /covers/635174.jpg

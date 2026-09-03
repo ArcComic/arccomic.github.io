@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "voyeurism"
-work_count: 26
+work_count: 28
 works:
   - title: Boku no Kazoku o Sarashimasu Ch. 3
     author: tanaka-aji
@@ -46,6 +46,13 @@ works:
     date: '2026-04-25'
     code: 388099
     url: /works/388099/
+  - title: Nigiyaka na Rinjin | Lively Neighbors
+    author: syuuen
+    cover: /covers/415060.jpg
+    rating: 4.1
+    date: '2026-02-28'
+    code: 415060
+    url: /works/415060/
   - title: Seisozuma Netorase...
     author: maccha-neji
     cover: /covers/415906.jpg
@@ -143,6 +150,15 @@ works:
     date: '2026-07-17'
     code: 632056
     url: /works/632056/
+  - title: 'Bijutsubu Harem Katsudou Nisshi ~Senpai no Slump Kaishou ni Kyouryoku shitara,
+      Ikioi de 3P suru Koto ni Natta Hanashi~ | Art Club Harem Activity Log: How Helping
+      My Senior Get Over Her Slump Led to a Threesome in the Heat of the Moment'
+    author: momokumo
+    cover: /covers/632523.jpg
+    rating: 4.3
+    date: '2026-02-26'
+    code: 632523
+    url: /works/632523/
   - title: Boshi Futari Gurashi Dai Go Shou 5 Souai
     author: fuwatoro-opanchu-cake
     cover: /covers/634207.jpg

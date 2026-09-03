@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "soushuuhen"
-work_count: 6
+work_count: 7
 works:
   - title: NTR Anniversary + ) [Syukurin] Mitsuha ~Netorare~ (Kimi no Na wa.) [English]
       [Colorized] by Mikaku
@@ -19,6 +19,13 @@ works:
     date: '2026-04-27'
     code: 416883
     url: /works/416883/
+  - title: Oppai na Natsuyasumi Soushuuhen | The Summer Break of Boobs Complete
+    author: higashino-mikan
+    cover: /covers/508649.jpg
+    rating: 4.3
+    date: '2026-03-04'
+    code: 508649
+    url: /works/508649/
   - title: Mitsuha ~Netorare~ 10 (Your Name After Story) True Ending
     author: syukurin
     cover: /covers/643592.jpg

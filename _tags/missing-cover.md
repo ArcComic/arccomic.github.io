@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "missing cover"
-work_count: 3
+work_count: 4
 works:
   - title: Imouto wa Mesu Orc 7
     author: muneshiro
@@ -19,6 +19,14 @@ works:
     date: '2026-04-25'
     code: 593112
     url: /works/593112/
+  - title: Hajimete no DomiSub ~Match App de Mitsuketa Goshujin-sama ni Jinsei Bukkowashite
+      Moraimasu~
+    author: nemui-neru
+    cover: /covers/597754.jpg
+    rating: 4.0
+    date: '2026-02-25'
+    code: 597754
+    url: /works/597754/
   - title: My Teacher Is So Hot That I Might Repeat Kindergarten !!
     author: tamano-kedama
     cover: /covers/674709.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "masked face"
-work_count: 7
+work_count: 8
 works:
   - title: Eroi Koto Igai de Toki o Tomete wa Dame desu yo 2
     author: ohkura-kazuya
@@ -17,6 +17,13 @@ works:
     date: '2026-03-07'
     code: 620818
     url: /works/620818/
+  - title: 人質 〜カノジョはヒトジチ〜
+    author: nokenya
+    cover: /covers/631651.jpg
+    rating: 4.2
+    date: '2026-03-03'
+    code: 631651
+    url: /works/631651/
   - title: Shinyuu Tatakitsubushi Kyousou Shiiku Seikatsu | A Life in Captivity The
       Competition to Break My Best Friend
     author: group
