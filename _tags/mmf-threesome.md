@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "mmf threesome"
-work_count: 5
+work_count: 6
 works:
   - title: Bocchi de Shinda Ore ga Bishoujo Nurse ni Natta Hanashi | The Story of How
       I Died Alone and Became a Sexy Nurse
@@ -25,6 +25,13 @@ works:
     date: '2026-08-31'
     code: 595788
     url: /works/595788/
+  - title: Akogare no Hito wa Mou Owari! 3
+    author: group
+    cover: /covers/642586.jpg
+    rating: 5.0
+    date: '2026-08-24'
+    code: 642586
+    url: /works/642586/
   - title: Karin-chan no Himitsu Kichi Matome
     author: konnyaku
     cover: /covers/676197.jpg

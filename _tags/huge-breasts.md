@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "huge breasts"
-work_count: 3
+work_count: 6
 works:
   - title: Kyoushi to Mama to Koibito no Kao
     author: mifune-seijirou
@@ -18,6 +18,29 @@ works:
     date: '2026-08-25'
     code: 611978
     url: /works/611978/
+  - title: Shitate ni wa Denai kedo Chinko ni wa Yowai Gyaru-chan to Kyokon Otaku! |
+      A gal who doesn't act submissive but is weak for a big cock, and a huge-dicked
+      otaku.
+    author: ohkami-ryosuke
+    cover: /covers/674728.jpg
+    rating: 4.6
+    date: '2026-08-22'
+    code: 674728
+    url: /works/674728/
+  - title: Single Mother Aoki-san no Kakeijutsu｜Single Mother Aoki-san's Budgeting Hacks
+    author: fujinoe13b
+    cover: /covers/674927.jpg
+    rating: 4.6
+    date: '2026-08-22'
+    code: 674927
+    url: /works/674927/
+  - title: Ichiryuu Sennyuu Sousakan Haiboku | Ryosen Infiltration Agent Defeated
+    author: bloiler-yachou
+    cover: /covers/675048.jpg
+    rating: 4.6
+    date: '2026-08-23'
+    code: 675048
+    url: /works/675048/
   - title: Totoki Airi to Hitobanjuu Kozukuri Sex Suru Hon | A Book About Having Baby-Making
       Sex with Totoki Airi All Night Long
     author: mukae

@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "ahegao"
-work_count: 11
+work_count: 17
 works:
+  - title: Shiraishi-san Wa Yokkyu Fuman | Shiraishi-san's Frustrated
+    author: carburetor
+    cover: /covers/392617.jpg
+    rating: 4.1
+    date: '2026-08-24'
+    code: 392617
+    url: /works/392617/
   - title: Bocchi de Shinda Ore ga Bishoujo Nurse ni Natta Hanashi | The Story of How
       I Died Alone and Became a Sexy Nurse
     author: testame
@@ -25,6 +32,46 @@ works:
     date: '2026-08-25'
     code: 592307
     url: /works/592307/
+  - title: Noa-chan to Ichaicha suru Hon
+    author: remora
+    cover: /covers/635512.jpg
+    rating: 4.4
+    date: '2026-08-22'
+    code: 635512
+    url: /works/635512/
+  - title: Igyou Koubi Kairaku Jigoku 1 + 2
+    author: allegro
+    cover: /covers/668880.jpg
+    rating: 4.9
+    date: '2026-08-23'
+    code: 668880
+    url: /works/668880/
+  - title: Shitate ni wa Denai kedo Chinko ni wa Yowai Gyaru-chan to Kyokon Otaku! |
+      A gal who doesn't act submissive but is weak for a big cock, and a huge-dicked
+      otaku.
+    author: ohkami-ryosuke
+    cover: /covers/674728.jpg
+    rating: 4.6
+    date: '2026-08-22'
+    code: 674728
+    url: /works/674728/
+  - title: Seiso Celeb na Hitozuma no Honshou o Saimin de Mezame Sasete Mitara Hametsu
+      Ganbou Mochi no Inran Bitch Datta | When I used hypnosis to awaken the true nature
+      of a chaste, upper-class housewife...She turned out to be a self- destructive,
+      slutty bitch
+    author: otabe-sakura
+    cover: /covers/674869.jpg
+    rating: 4.9
+    date: '2026-08-22'
+    code: 674869
+    url: /works/674869/
+  - title: Ichiryuu Sennyuu Sousakan Haiboku | Ryosen Infiltration Agent Defeated
+    author: bloiler-yachou
+    cover: /covers/675048.jpg
+    rating: 4.6
+    date: '2026-08-23'
+    code: 675048
+    url: /works/675048/
   - title: Mesu no Ie III ~Oyako wa Midare Aisareru~
     author: ame-arare
     cover: /covers/675981.jpg

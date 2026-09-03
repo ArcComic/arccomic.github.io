@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "halo"
-work_count: 2
+work_count: 3
 works:
+  - title: Noa-chan to Ichaicha suru Hon
+    author: remora
+    cover: /covers/635512.jpg
+    rating: 4.4
+    date: '2026-08-22'
+    code: 635512
+    url: /works/635512/
   - title: Sensei!! I Told You Not To Come Again Didn't I !!
     author: nakakazu
     cover: /covers/676149.jpg

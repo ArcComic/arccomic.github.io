@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "beauty mark"
-work_count: 6
+work_count: 9
 works:
   - title: Hitozuma Volley-bu no Asedaku SEX ~Shower Abinagara Micchaku Shichau? 1-2
       | Married Women's Volleyball Club Sweaty Sex - We're Being Glued Together While
@@ -12,6 +12,13 @@ works:
     date: '2026-08-29'
     code: 511316
     url: /works/511316/
+  - title: Gal to no Asobikata | How to Have Fun With Gyarus!
+    author: buta
+    cover: /covers/531967.jpg
+    rating: 4.4
+    date: '2026-08-23'
+    code: 531967
+    url: /works/531967/
   - title: Hayato-sensei no Mesu-ka Karute Daigaku-hen | Dr. Hayato's Feminization Medical
       Record ~University Edition~
     author: testame
@@ -27,6 +34,21 @@ works:
     date: '2026-08-25'
     code: 592307
     url: /works/592307/
+  - title: Igyou Koubi Kairaku Jigoku 1 + 2
+    author: allegro
+    cover: /covers/668880.jpg
+    rating: 4.9
+    date: '2026-08-23'
+    code: 668880
+    url: /works/668880/
+  - title: Ano Hi, Sunao ni Suki to Ieta nara - If only I could have honestly said that
+      I loved you that day.
+    author: kazuwo-daisuke
+    cover: /covers/674830.jpg
+    rating: 4.1
+    date: '2026-08-22'
+    code: 674830
+    url: /works/674830/
   - title: Mesu no Ie III ~Oyako wa Midare Aisareru~
     author: ame-arare
     cover: /covers/675981.jpg

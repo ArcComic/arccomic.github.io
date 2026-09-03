@@ -1,8 +1,23 @@
 ---
 layout: tag
 tag_name: "hairy"
-work_count: 5
+work_count: 9
 works:
+  - title: Gal to no Asobikata | How to Have Fun With Gyarus!
+    author: buta
+    cover: /covers/531967.jpg
+    rating: 4.4
+    date: '2026-08-23'
+    code: 531967
+    url: /works/531967/
+  - title: Ore wa Yome ni Sakaraenai... Seiheki o Nigirareteiru | I Can't Say No To
+      My Wife... She's Got Me By The Balls!
+    author: inu
+    cover: /covers/550948.jpg
+    rating: 4.0
+    date: '2026-08-22'
+    code: 550948
+    url: /works/550948/
   - title: Kyoushi to Mama to Koibito no Kao
     author: mifune-seijirou
     cover: /covers/592307.jpg
@@ -26,6 +41,20 @@ works:
     date: '2026-08-29'
     code: 634450
     url: /works/634450/
+  - title: Igyou Koubi Kairaku Jigoku 1 + 2
+    author: allegro
+    cover: /covers/668880.jpg
+    rating: 4.9
+    date: '2026-08-23'
+    code: 668880
+    url: /works/668880/
+  - title: Single Mother Aoki-san no Kakeijutsu｜Single Mother Aoki-san's Budgeting Hacks
+    author: fujinoe13b
+    cover: /covers/674927.jpg
+    rating: 4.6
+    date: '2026-08-22'
+    code: 674927
+    url: /works/674927/
   - title: Mesu no Ie III ~Oyako wa Midare Aisareru~
     author: ame-arare
     cover: /covers/675981.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "milf"
-work_count: 22
+work_count: 35
 works:
   - title: Saikin, Musuko no Yousu ga Hen nan desu | Lately my son has been acting Strangly
     author: matsumoto-jikyuuryoku
@@ -10,6 +10,28 @@ works:
     date: '2026-08-24'
     code: 342639
     url: /works/342639/
+  - title: Shiraishi-san Wa Yokkyu Fuman | Shiraishi-san's Frustrated
+    author: carburetor
+    cover: /covers/392617.jpg
+    rating: 4.1
+    date: '2026-08-24'
+    code: 392617
+    url: /works/392617/
+  - title: Kaa-san ni wa Ore no Ko o Unde Morau | My mother is going to have my baby
+    author: matsumoto-jikyuuryoku
+    cover: /covers/444152.jpg
+    rating: 4.4
+    date: '2026-08-24'
+    code: 444152
+    url: /works/444152/
+  - title: Kaa-san ni Kokuhaku Shitara xxxx Made Sasete Kureta | When I Confessed to
+      My Mother, She Let Me Do XXXX
+    author: carburetor
+    cover: /covers/508845.jpg
+    rating: 4.1
+    date: '2026-08-24'
+    code: 508845
+    url: /works/508845/
   - title: Hitozuma Volley-bu no Asedaku SEX ~Shower Abinagara Micchaku Shichau? 1-2
       | Married Women's Volleyball Club Sweaty Sex - We're Being Glued Together While
       Taking A Shower? 1-2
@@ -52,6 +74,13 @@ works:
     date: '2026-08-29'
     code: 544324
     url: /works/544324/
+  - title: Watashi sae Gaman Sureba...
+    author: hatakeyama-tohya
+    cover: /covers/553061.jpg
+    rating: 4.6
+    date: '2026-08-24'
+    code: 553061
+    url: /works/553061/
   - title: Tennen Kaa-san ga Ero Kawai Sugiru node, Saimin Onaho Sex Shitatta! | My
       Airheaded Mom Was Too Adorably Sexy, So I Had Hypnotized Onahole Sex with Her!
     author: ginen
@@ -119,6 +148,13 @@ works:
     date: '2026-08-25'
     code: 637847
     url: /works/637847/
+  - title: Akogare no Hito wa Mou Owari! 2
+    author: group
+    cover: /covers/642585.jpg
+    rating: 4.0
+    date: '2026-08-24'
+    code: 642585
+    url: /works/642585/
   - title: Anta, Nandetatten no?
     author: daidai-shikibu
     cover: /covers/642770.jpg
@@ -140,6 +176,20 @@ works:
     date: '2026-08-25'
     code: 654373
     url: /works/654373/
+  - title: Mama ga Bakunyuu de Yokatta
+    author: ameto-yuki
+    cover: /covers/654689.jpg
+    rating: 4.1
+    date: '2026-08-24'
+    code: 654689
+    url: /works/654689/
+  - title: Haha to Osake Nondara erai Kotoninarimashita
+    author: matsumoto-jikyuuryoku
+    cover: /covers/655291.jpg
+    rating: 4.9
+    date: '2026-08-24'
+    code: 655291
+    url: /works/655291/
   - title: Gomen, Kaa-san Otonashiiku Shite
     author: daidai-shikibu
     cover: /covers/656143.jpg
@@ -147,6 +197,35 @@ works:
     date: '2026-08-25'
     code: 656143
     url: /works/656143/
+  - title: Okaasan nara Daijyoubu Da Kara
+    author: daidai-shikibu
+    cover: /covers/658826.jpg
+    rating: 5.0
+    date: '2026-08-24'
+    code: 658826
+    url: /works/658826/
+  - title: Mama ga Inemuri shi tetanode
+    author: unknown
+    cover: /covers/659164.jpg
+    rating: 4.0
+    date: '2026-08-24'
+    code: 659164
+    url: /works/659164/
+  - title: Super de Genki ni Hataraku Hahaoya ga Hikikomori Musuko ni Tanetsuke Saremakutteita
+      Hanashi
+    author: daidai-shikibu
+    cover: /covers/666532.jpg
+    rating: 4.0
+    date: '2026-08-24'
+    code: 666532
+    url: /works/666532/
+  - title: Igyou Koubi Kairaku Jigoku 1 + 2
+    author: allegro
+    cover: /covers/668880.jpg
+    rating: 4.9
+    date: '2026-08-23'
+    code: 668880
+    url: /works/668880/
   - title: Boku-tachi Mama to Yattemasu
     author: ameto-yuki
     cover: /covers/672450.jpg
@@ -154,6 +233,23 @@ works:
     date: '2026-08-25'
     code: 672450
     url: /works/672450/
+  - title: Seiso Celeb na Hitozuma no Honshou o Saimin de Mezame Sasete Mitara Hametsu
+      Ganbou Mochi no Inran Bitch Datta | When I used hypnosis to awaken the true nature
+      of a chaste, upper-class housewife...She turned out to be a self- destructive,
+      slutty bitch
+    author: otabe-sakura
+    cover: /covers/674869.jpg
+    rating: 4.9
+    date: '2026-08-22'
+    code: 674869
+    url: /works/674869/
+  - title: Single Mother Aoki-san no Kakeijutsu｜Single Mother Aoki-san's Budgeting Hacks
+    author: fujinoe13b
+    cover: /covers/674927.jpg
+    rating: 4.6
+    date: '2026-08-22'
+    code: 674927
+    url: /works/674927/
   - title: Mesu no Ie III ~Oyako wa Midare Aisareru~
     author: ame-arare
     cover: /covers/675981.jpg

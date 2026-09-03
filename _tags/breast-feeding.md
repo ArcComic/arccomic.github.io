@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "breast feeding"
-work_count: 8
+work_count: 9
 works:
   - title: Hitozuma Volley-bu no Asedaku SEX ~Shower Abinagara Micchaku Shichau? 1-2
       | Married Women's Volleyball Club Sweaty Sex - We're Being Glued Together While
@@ -53,6 +53,13 @@ works:
     date: '2026-08-29'
     code: 660399
     url: /works/660399/
+  - title: Igyou Koubi Kairaku Jigoku 1 + 2
+    author: allegro
+    cover: /covers/668880.jpg
+    rating: 4.9
+    date: '2026-08-23'
+    code: 668880
+    url: /works/668880/
   - title: Osananajimi ga Joukyo-chuu ni Osananajimi no Chichi to Daita | While My Childhood
       Friend Was Away in Tokyo I Slept With His Dad
     author: mokuyama-hito

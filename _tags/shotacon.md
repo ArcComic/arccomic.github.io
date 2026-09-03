@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "shotacon"
-work_count: 9
+work_count: 12
 works:
   - title: Saikin, Musuko no Yousu ga Hen nan desu | Lately my son has been acting Strangly
     author: matsumoto-jikyuuryoku
@@ -10,6 +10,13 @@ works:
     date: '2026-08-24'
     code: 342639
     url: /works/342639/
+  - title: Toaru Mura no Fudeoroshi Jijou | *séh₂ swédʰh₁eh₂ weyḱósyo
+    author: nora-higuma
+    cover: /covers/505779.jpg
+    rating: 4.5
+    date: '2026-08-23'
+    code: 505779
+    url: /works/505779/
   - title: Kyoushi to Mama to Koibito no Kao
     author: mifune-seijirou
     cover: /covers/592307.jpg
@@ -47,6 +54,20 @@ works:
     date: '2026-08-25'
     code: 672450
     url: /works/672450/
+  - title: Onii-san Zako sugite Ukeru~ | Big Brother, you're so pathetic, it's hilarious~
+    author: puritei
+    cover: /covers/674568.jpg
+    rating: 4.9
+    date: '2026-08-21'
+    code: 674568
+    url: /works/674568/
+  - title: Single Mother Aoki-san no Kakeijutsu｜Single Mother Aoki-san's Budgeting Hacks
+    author: fujinoe13b
+    cover: /covers/674927.jpg
+    rating: 4.6
+    date: '2026-08-22'
+    code: 674927
+    url: /works/674927/
   - title: Karin-chan no Himitsu Kichi Matome
     author: konnyaku
     cover: /covers/676197.jpg

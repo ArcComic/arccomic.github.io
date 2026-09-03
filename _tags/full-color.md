@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "full color"
-work_count: 16
+work_count: 31
 works:
   - title: Saikin, Musuko no Yousu ga Hen nan desu | Lately my son has been acting Strangly
     author: matsumoto-jikyuuryoku
@@ -10,6 +10,42 @@ works:
     date: '2026-08-24'
     code: 342639
     url: /works/342639/
+  - title: Dakara Ore wa Kanojo o Netori Tsuzuketa.
+    author: minamihama-yoriko
+    cover: /covers/375962.jpg
+    rating: 5.0
+    date: '2026-08-23'
+    code: 375962
+    url: /works/375962/
+  - title: Shiraishi-san Wa Yokkyu Fuman | Shiraishi-san's Frustrated
+    author: carburetor
+    cover: /covers/392617.jpg
+    rating: 4.1
+    date: '2026-08-24'
+    code: 392617
+    url: /works/392617/
+  - title: Kaa-san ni wa Ore no Ko o Unde Morau | My mother is going to have my baby
+    author: matsumoto-jikyuuryoku
+    cover: /covers/444152.jpg
+    rating: 4.4
+    date: '2026-08-24'
+    code: 444152
+    url: /works/444152/
+  - title: Toaru Mura no Fudeoroshi Jijou | *séh₂ swédʰh₁eh₂ weyḱósyo
+    author: nora-higuma
+    cover: /covers/505779.jpg
+    rating: 4.5
+    date: '2026-08-23'
+    code: 505779
+    url: /works/505779/
+  - title: Kaa-san ni Kokuhaku Shitara xxxx Made Sasete Kureta | When I Confessed to
+      My Mother, She Let Me Do XXXX
+    author: carburetor
+    cover: /covers/508845.jpg
+    rating: 4.1
+    date: '2026-08-24'
+    code: 508845
+    url: /works/508845/
   - title: Hitozuma Volley-bu no Asedaku SEX ~Shower Abinagara Micchaku Shichau? 1-2
       | Married Women's Volleyball Club Sweaty Sex - We're Being Glued Together While
       Taking A Shower? 1-2
@@ -57,6 +93,20 @@ works:
     date: '2026-08-29'
     code: 618087
     url: /works/618087/
+  - title: Akogare no Hito wa Mou Owari! 2
+    author: group
+    cover: /covers/642585.jpg
+    rating: 4.0
+    date: '2026-08-24'
+    code: 642585
+    url: /works/642585/
+  - title: Akogare no Hito wa Mou Owari! 3
+    author: group
+    cover: /covers/642586.jpg
+    rating: 5.0
+    date: '2026-08-24'
+    code: 642586
+    url: /works/642586/
   - title: Anta, Nandetatten no?
     author: daidai-shikibu
     cover: /covers/642770.jpg
@@ -85,6 +135,20 @@ works:
     date: '2026-08-25'
     code: 654373
     url: /works/654373/
+  - title: Himaten NTR 19P
+    author: terasu-mc
+    cover: /covers/654484.jpg
+    rating: 4.0
+    date: '2026-08-22'
+    code: 654484
+    url: /works/654484/
+  - title: Mama ga Bakunyuu de Yokatta
+    author: ameto-yuki
+    cover: /covers/654689.jpg
+    rating: 4.1
+    date: '2026-08-24'
+    code: 654689
+    url: /works/654689/
   - title: boku no haha ga saikon si nai riyuu（ wake）
     author: daidai-shikibu
     cover: /covers/655205.jpg
@@ -92,6 +156,34 @@ works:
     date: '2026-08-25'
     code: 655205
     url: /works/655205/
+  - title: Haha to Osake Nondara erai Kotoninarimashita
+    author: matsumoto-jikyuuryoku
+    cover: /covers/655291.jpg
+    rating: 4.9
+    date: '2026-08-24'
+    code: 655291
+    url: /works/655291/
+  - title: Haha Ana ni Irazumba
+    author: unknown
+    cover: /covers/657981.jpg
+    rating: 4.5
+    date: '2026-08-24'
+    code: 657981
+    url: /works/657981/
+  - title: Okaasan nara Daijyoubu Da Kara
+    author: daidai-shikibu
+    cover: /covers/658826.jpg
+    rating: 5.0
+    date: '2026-08-24'
+    code: 658826
+    url: /works/658826/
+  - title: Mama ga Inemuri shi tetanode
+    author: unknown
+    cover: /covers/659164.jpg
+    rating: 4.0
+    date: '2026-08-24'
+    code: 659164
+    url: /works/659164/
   - title: Niizuma Nanaka no Roshutsu Office
     author: fukurou-naru-tori
     cover: /covers/668605.jpg
@@ -99,6 +191,23 @@ works:
     date: '2026-08-28'
     code: 668605
     url: /works/668605/
+  - title: Inokori seibutsu-shitsu | Detention in the Biology Lab
+    author: hiiragi-popura
+    cover: /covers/674463.jpg
+    rating: 4.6
+    date: '2026-08-21'
+    code: 674463
+    url: /works/674463/
+  - title: Seiso Celeb na Hitozuma no Honshou o Saimin de Mezame Sasete Mitara Hametsu
+      Ganbou Mochi no Inran Bitch Datta | When I used hypnosis to awaken the true nature
+      of a chaste, upper-class housewife...She turned out to be a self- destructive,
+      slutty bitch
+    author: otabe-sakura
+    cover: /covers/674869.jpg
+    rating: 4.9
+    date: '2026-08-22'
+    code: 674869
+    url: /works/674869/
   - title: Aoi-chan to Himitsu no Seikatsu Shidou 1-19
     author: konnyaku
     cover: /covers/676196.jpg

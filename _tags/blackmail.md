@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "blackmail"
-work_count: 5
+work_count: 7
 works:
   - title: Kyoushi no Oba wa Himitsu no Bakunyuu Ero Cos Layer ~Iinari Gyaku Bunny &
       Sister Cos de Keiren Soku Iki Nakadashi Netori~ | My Teacher Aunt Is Secretly
@@ -36,6 +36,23 @@ works:
     date: '2026-08-28'
     code: 652651
     url: /works/652651/
+  - title: Onii-san Zako sugite Ukeru~ | Big Brother, you're so pathetic, it's hilarious~
+    author: puritei
+    cover: /covers/674568.jpg
+    rating: 4.9
+    date: '2026-08-21'
+    code: 674568
+    url: /works/674568/
+  - title: Seiso Celeb na Hitozuma no Honshou o Saimin de Mezame Sasete Mitara Hametsu
+      Ganbou Mochi no Inran Bitch Datta | When I used hypnosis to awaken the true nature
+      of a chaste, upper-class housewife...She turned out to be a self- destructive,
+      slutty bitch
+    author: otabe-sakura
+    cover: /covers/674869.jpg
+    rating: 4.9
+    date: '2026-08-22'
+    code: 674869
+    url: /works/674869/
   - title: Aoi-chan to Himitsu no Seikatsu Shidou 1-19
     author: konnyaku
     cover: /covers/676196.jpg

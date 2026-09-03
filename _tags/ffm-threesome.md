@@ -1,8 +1,22 @@
 ---
 layout: tag
 tag_name: "ffm threesome"
-work_count: 5
+work_count: 7
 works:
+  - title: Akogare no Hito wa Mou Owari! 2
+    author: group
+    cover: /covers/642585.jpg
+    rating: 4.0
+    date: '2026-08-24'
+    code: 642585
+    url: /works/642585/
+  - title: Chibikko Nurunuru Harem Seikatsu
+    author: ippon-lolicon-trap
+    cover: /covers/674984.jpg
+    rating: 4.2
+    date: '2026-08-23'
+    code: 674984
+    url: /works/674984/
   - title: Mesu no Ie III ~Oyako wa Midare Aisareru~
     author: ame-arare
     cover: /covers/675981.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "multi-work series"
-work_count: 16
+work_count: 26
 works:
   - title: Hitozuma Volley-bu no Asedaku SEX ~Shower Abinagara Micchaku Shichau? 1-2
       | Married Women's Volleyball Club Sweaty Sex - We're Being Glued Together While
@@ -53,6 +53,34 @@ works:
     date: '2026-08-29'
     code: 618087
     url: /works/618087/
+  - title: Akogare no Hito wa Mou Owari! 2
+    author: group
+    cover: /covers/642585.jpg
+    rating: 4.0
+    date: '2026-08-24'
+    code: 642585
+    url: /works/642585/
+  - title: Akogare no Hito wa Mou Owari! 3
+    author: group
+    cover: /covers/642586.jpg
+    rating: 5.0
+    date: '2026-08-24'
+    code: 642586
+    url: /works/642586/
+  - title: Akogare no Hito wa Mou Owari! Daigakusei - Lisa Hen
+    author: orange-mimosa
+    cover: /covers/642588.jpg
+    rating: 4.4
+    date: '2026-08-24'
+    code: 642588
+    url: /works/642588/
+  - title: Make Love Rank match!!③
+    author: napo
+    cover: /covers/659484.jpg
+    rating: 4.5
+    date: '2026-08-22'
+    code: 659484
+    url: /works/659484/
   - title: Niizuma Nanaka no Roshutsu Office
     author: fukurou-naru-tori
     cover: /covers/668605.jpg
@@ -60,6 +88,53 @@ works:
     date: '2026-08-28'
     code: 668605
     url: /works/668605/
+  - title: Saotsuki Honey to Doukyo Seikatsu Ch. 6
+    author: hontoku
+    cover: /covers/674763.jpg
+    rating: 4.9
+    date: '2026-08-22'
+    code: 674763
+    url: /works/674763/
+  - title: Ano Hi, Sunao ni Suki to Ieta nara - If only I could have honestly said that
+      I loved you that day.
+    author: kazuwo-daisuke
+    cover: /covers/674830.jpg
+    rating: 4.1
+    date: '2026-08-22'
+    code: 674830
+    url: /works/674830/
+  - title: Seiso Celeb na Hitozuma no Honshou o Saimin de Mezame Sasete Mitara Hametsu
+      Ganbou Mochi no Inran Bitch Datta | When I used hypnosis to awaken the true nature
+      of a chaste, upper-class housewife...She turned out to be a self- destructive,
+      slutty bitch
+    author: otabe-sakura
+    cover: /covers/674869.jpg
+    rating: 4.9
+    date: '2026-08-22'
+    code: 674869
+    url: /works/674869/
+  - title: 'Hanshoku Chuudoku Hourou Hen | Breeding Addiction : Wandering Foxian Arc'
+    author: sekihaku-keu
+    cover: /covers/674899.jpg
+    rating: 4.4
+    date: '2026-08-22'
+    code: 674899
+    url: /works/674899/
+  - title: Kawaii kedo Seikaku Warui kara Ijimechao! Nichijyou Bukkowashi Satsueikai
+      Hen
+    author: dancyo
+    cover: /covers/674973.jpg
+    rating: 5.0
+    date: '2026-08-23'
+    code: 674973
+    url: /works/674973/
+  - title: Ichiryuu Sennyuu Sousakan Haiboku | Ryosen Infiltration Agent Defeated
+    author: bloiler-yachou
+    cover: /covers/675048.jpg
+    rating: 4.6
+    date: '2026-08-23'
+    code: 675048
+    url: /works/675048/
   - title: Mesu no Ie III ~Oyako wa Midare Aisareru~
     author: ame-arare
     cover: /covers/675981.jpg

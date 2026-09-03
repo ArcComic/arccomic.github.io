@@ -1,7 +1,7 @@
 ---
 layout: artist
 artist_name: "daidai-shikibu"
-work_count: 5
+work_count: 7
 works:
   - title: Anta, Nandetatten no?
     cover: /covers/642770.jpg
@@ -33,4 +33,17 @@ works:
     date: '2026-08-25'
     code: 656143
     url: /works/656143/
+  - title: Okaasan nara Daijyoubu Da Kara
+    cover: /covers/658826.jpg
+    rating: 5.0
+    date: '2026-08-24'
+    code: 658826
+    url: /works/658826/
+  - title: Super de Genki ni Hataraku Hahaoya ga Hikikomori Musuko ni Tanetsuke Saremakutteita
+      Hanashi
+    cover: /covers/666532.jpg
+    rating: 4.0
+    date: '2026-08-24'
+    code: 666532
+    url: /works/666532/
 ---

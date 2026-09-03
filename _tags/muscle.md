@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "muscle"
-work_count: 7
+work_count: 12
 works:
   - title: '"Sex no Benkyou Shiyokka?" Kareshi ga Iru no ni Itoko kara Shojo wo Ubaware
       Zecchou Shidou 1-5 | Let''s Learn About Sex: Your Cousin Will Take Your Virginity
@@ -12,6 +12,14 @@ works:
     date: '2026-08-29'
     code: 534388
     url: /works/534388/
+  - title: Ore ga Hoshikatta Mono wa Kin Medal Yori Namami Onaho Datta no Kamoshirenai｜Maybe
+      what I Wanted was a Flesh and Blood Masturbator Rather than a Gold Medal
+    author: carburetor
+    cover: /covers/584934.jpg
+    rating: 4.5
+    date: '2026-08-24'
+    code: 584934
+    url: /works/584934/
   - title: Futari de Watashi o Ikasenaide...! ~Kurayami, Majiwaru Kyoudai Futon~  |
       My 2 Step-Brothers are Ganging Up on Me!  Vol.1
     author: ma-yu
@@ -29,6 +37,34 @@ works:
     date: '2026-08-29'
     code: 634450
     url: /works/634450/
+  - title: Noa-chan to Ichaicha suru Hon
+    author: remora
+    cover: /covers/635512.jpg
+    rating: 4.4
+    date: '2026-08-22'
+    code: 635512
+    url: /works/635512/
+  - title: Akogare no Hito wa Mou Owari! 3
+    author: group
+    cover: /covers/642586.jpg
+    rating: 5.0
+    date: '2026-08-24'
+    code: 642586
+    url: /works/642586/
+  - title: Akogare no Hito wa Mou Owari! Daigakusei - Lisa Hen
+    author: orange-mimosa
+    cover: /covers/642588.jpg
+    rating: 4.4
+    date: '2026-08-24'
+    code: 642588
+    url: /works/642588/
+  - title: Chibikko Nurunuru Harem Seikatsu
+    author: ippon-lolicon-trap
+    cover: /covers/674984.jpg
+    rating: 4.2
+    date: '2026-08-23'
+    code: 674984
+    url: /works/674984/
   - title: Mesu no Ie III ~Oyako wa Midare Aisareru~
     author: ame-arare
     cover: /covers/675981.jpg

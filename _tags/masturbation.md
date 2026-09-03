@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "masturbation"
-work_count: 6
+work_count: 8
 works:
   - title: Bocchi de Shinda Ore ga Bishoujo Nurse ni Natta Hanashi | The Story of How
       I Died Alone and Became a Sexy Nurse
@@ -36,6 +36,22 @@ works:
     date: '2026-08-25'
     code: 563890
     url: /works/563890/
+  - title: Inokori seibutsu-shitsu | Detention in the Biology Lab
+    author: hiiragi-popura
+    cover: /covers/674463.jpg
+    rating: 4.6
+    date: '2026-08-21'
+    code: 674463
+    url: /works/674463/
+  - title: Shitate ni wa Denai kedo Chinko ni wa Yowai Gyaru-chan to Kyokon Otaku! |
+      A gal who doesn't act submissive but is weak for a big cock, and a huge-dicked
+      otaku.
+    author: ohkami-ryosuke
+    cover: /covers/674728.jpg
+    rating: 4.6
+    date: '2026-08-22'
+    code: 674728
+    url: /works/674728/
   - title: Osananajimi ga Joukyo-chuu ni Osananajimi no Chichi to Daita | While My Childhood
       Friend Was Away in Tokyo I Slept With His Dad
     author: mokuyama-hito

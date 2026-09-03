@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "niece"
-work_count: 3
+work_count: 4
 works:
+  - title: Chibikko Nurunuru Harem Seikatsu
+    author: ippon-lolicon-trap
+    cover: /covers/674984.jpg
+    rating: 4.2
+    date: '2026-08-23'
+    code: 674984
+    url: /works/674984/
   - title: Mesu no Ie III ~Oyako wa Midare Aisareru~
     author: ame-arare
     cover: /covers/675981.jpg

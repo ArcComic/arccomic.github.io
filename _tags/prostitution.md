@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "prostitution"
-work_count: 3
+work_count: 4
 works:
   - title: Uwa, Mesugaki Tsuyoi! | Crap, This Mesugaki's Too Powerful!
     author: poncocchan
@@ -18,6 +18,13 @@ works:
     date: '2026-08-29'
     code: 589969
     url: /works/589969/
+  - title: Single Mother Aoki-san no Kakeijutsu｜Single Mother Aoki-san's Budgeting Hacks
+    author: fujinoe13b
+    cover: /covers/674927.jpg
+    rating: 4.6
+    date: '2026-08-22'
+    code: 674927
+    url: /works/674927/
   - title: Sensei!! I Told You Not To Come Again Didn't I !!
     author: nakakazu
     cover: /covers/676149.jpg

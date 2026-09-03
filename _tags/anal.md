@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "anal"
-work_count: 6
+work_count: 14
 works:
   - title: Bitch Mama no Kekkon Riyuu
     author: aoyama-akira
@@ -25,6 +25,62 @@ works:
     date: '2026-08-31'
     code: 556767
     url: /works/556767/
+  - title: Naisho no An-chan
+    author: seto-ryouko
+    cover: /covers/627126.jpg
+    rating: 4.6
+    date: '2026-08-22'
+    code: 627126
+    url: /works/627126/
+  - title: Akogare no Hito wa Mou Owari! 3
+    author: group
+    cover: /covers/642586.jpg
+    rating: 5.0
+    date: '2026-08-24'
+    code: 642586
+    url: /works/642586/
+  - title: Igyou Koubi Kairaku Jigoku 1 + 2
+    author: allegro
+    cover: /covers/668880.jpg
+    rating: 4.9
+    date: '2026-08-23'
+    code: 668880
+    url: /works/668880/
+  - title: Saotsuki Honey to Doukyo Seikatsu Ch. 6
+    author: hontoku
+    cover: /covers/674763.jpg
+    rating: 4.9
+    date: '2026-08-22'
+    code: 674763
+    url: /works/674763/
+  - title: Midnight Lilies Full Release
+    author: landacdeus
+    cover: /covers/674863.jpg
+    rating: 4.4
+    date: '2026-08-22'
+    code: 674863
+    url: /works/674863/
+  - title: Josō Kyanpasu Hora re Raifu u~izu Yarichin
+    author: brother-pierrot
+    cover: /covers/674945.jpg
+    rating: 4.9
+    date: '2026-08-22'
+    code: 674945
+    url: /works/674945/
+  - title: Otokonoko Dorei - "OTOKONO-ko" Slave
+    author: wakamiya-santa-gekka-saeki
+    cover: /covers/674960.jpg
+    rating: 4.1
+    date: '2026-08-23'
+    code: 674960
+    url: /works/674960/
+  - title: Ichiryuu Sennyuu Sousakan Haiboku | Ryosen Infiltration Agent Defeated
+    author: bloiler-yachou
+    cover: /covers/675048.jpg
+    rating: 4.6
+    date: '2026-08-23'
+    code: 675048
+    url: /works/675048/
   - title: Karin-chan no Himitsu Kichi Matome
     author: konnyaku
     cover: /covers/676197.jpg

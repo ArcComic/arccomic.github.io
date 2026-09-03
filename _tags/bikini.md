@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bikini"
-work_count: 5
+work_count: 6
 works:
   - title: Bocchi de Shinda Ore ga Bishoujo Nurse ni Natta Hanashi | The Story of How
       I Died Alone and Became a Sexy Nurse
@@ -27,6 +27,13 @@ works:
     date: '2026-08-29'
     code: 618087
     url: /works/618087/
+  - title: Akogare no Hito wa Mou Owari! Daigakusei - Lisa Hen
+    author: orange-mimosa
+    cover: /covers/642588.jpg
+    rating: 4.4
+    date: '2026-08-24'
+    code: 642588
+    url: /works/642588/
   - title: Imouto ga Ore no Kanojo!? 2-haku 3-ka no Ecchi na Kankei | My Sister is My
       Girlfriend!? Sexual Relationship for Two Nights and Three Days
     author: katagiri-kaneharu

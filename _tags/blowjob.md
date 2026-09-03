@@ -1,8 +1,16 @@
 ---
 layout: tag
 tag_name: "blowjob"
-work_count: 20
+work_count: 36
 works:
+  - title: Homestay-chu no Doitsu Musume ga Issho ni Furo ni Haitte Kuru Wake | The
+      Reason Why a German Girl Takes a Bath Together With Me on Her Homestay
+    author: gentsuki
+    cover: /covers/344851.jpg
+    rating: 4.8
+    date: '2026-08-22'
+    code: 344851
+    url: /works/344851/
   - title: Bocchi de Shinda Ore ga Bishoujo Nurse ni Natta Hanashi | The Story of How
       I Died Alone and Became a Sexy Nurse
     author: testame
@@ -11,6 +19,13 @@ works:
     date: '2026-08-31'
     code: 494172
     url: /works/494172/
+  - title: Toaru Mura no Fudeoroshi Jijou | *séh₂ swédʰh₁eh₂ weyḱósyo
+    author: nora-higuma
+    cover: /covers/505779.jpg
+    rating: 4.5
+    date: '2026-08-23'
+    code: 505779
+    url: /works/505779/
   - title: Hitozuma Volley-bu no Asedaku SEX ~Shower Abinagara Micchaku Shichau? 1-2
       | Married Women's Volleyball Club Sweaty Sex - We're Being Glued Together While
       Taking A Shower? 1-2
@@ -36,6 +51,14 @@ works:
     date: '2026-08-31'
     code: 550359
     url: /works/550359/
+  - title: Ore wa Yome ni Sakaraenai... Seiheki o Nigirareteiru | I Can't Say No To
+      My Wife... She's Got Me By The Balls!
+    author: inu
+    cover: /covers/550948.jpg
+    rating: 4.0
+    date: '2026-08-22'
+    code: 550948
+    url: /works/550948/
   - title: Tennen Kaa-san ga Ero Kawai Sugiru node, Saimin Onaho Sex Shitatta! | My
       Airheaded Mom Was Too Adorably Sexy, So I Had Hypnotized Onahole Sex with Her!
     author: ginen
@@ -44,6 +67,14 @@ works:
     date: '2026-08-25'
     code: 563890
     url: /works/563890/
+  - title: Ore ga Hoshikatta Mono wa Kin Medal Yori Namami Onaho Datta no Kamoshirenai｜Maybe
+      what I Wanted was a Flesh and Blood Masturbator Rather than a Gold Medal
+    author: carburetor
+    cover: /covers/584934.jpg
+    rating: 4.5
+    date: '2026-08-24'
+    code: 584934
+    url: /works/584934/
   - title: Kyoushi to Mama to Koibito no Kao
     author: mifune-seijirou
     cover: /covers/592307.jpg
@@ -72,6 +103,41 @@ works:
     date: '2026-08-25'
     code: 616367
     url: /works/616367/
+  - title: Noa-chan to Ichaicha suru Hon
+    author: remora
+    cover: /covers/635512.jpg
+    rating: 4.4
+    date: '2026-08-22'
+    code: 635512
+    url: /works/635512/
+  - title: Akogare no Hito wa Mou Owari! 2
+    author: group
+    cover: /covers/642585.jpg
+    rating: 4.0
+    date: '2026-08-24'
+    code: 642585
+    url: /works/642585/
+  - title: Akogare no Hito wa Mou Owari! 3
+    author: group
+    cover: /covers/642586.jpg
+    rating: 5.0
+    date: '2026-08-24'
+    code: 642586
+    url: /works/642586/
+  - title: Akogare no Hito wa Mou Owari! Daigakusei - Lisa Hen
+    author: orange-mimosa
+    cover: /covers/642588.jpg
+    rating: 4.4
+    date: '2026-08-24'
+    code: 642588
+    url: /works/642588/
+  - title: Make Love Rank match!!③
+    author: napo
+    cover: /covers/659484.jpg
+    rating: 4.5
+    date: '2026-08-22'
+    code: 659484
+    url: /works/659484/
   - title: Niizuma Nanaka no Roshutsu Office
     author: fukurou-naru-tori
     cover: /covers/668605.jpg
@@ -87,6 +153,61 @@ works:
     date: '2026-08-31'
     code: 669505
     url: /works/669505/
+  - title: Shitate ni wa Denai kedo Chinko ni wa Yowai Gyaru-chan to Kyokon Otaku! |
+      A gal who doesn't act submissive but is weak for a big cock, and a huge-dicked
+      otaku.
+    author: ohkami-ryosuke
+    cover: /covers/674728.jpg
+    rating: 4.6
+    date: '2026-08-22'
+    code: 674728
+    url: /works/674728/
+  - title: Saotsuki Honey to Doukyo Seikatsu Ch. 6
+    author: hontoku
+    cover: /covers/674763.jpg
+    rating: 4.9
+    date: '2026-08-22'
+    code: 674763
+    url: /works/674763/
+  - title: Ano Hi, Sunao ni Suki to Ieta nara - If only I could have honestly said that
+      I loved you that day.
+    author: kazuwo-daisuke
+    cover: /covers/674830.jpg
+    rating: 4.1
+    date: '2026-08-22'
+    code: 674830
+    url: /works/674830/
+  - title: Mayu dake no Mono ni...
+    author: tomekichi
+    cover: /covers/674866.jpg
+    rating: 4.8
+    date: '2026-08-22'
+    code: 674866
+    url: /works/674866/
+  - title: Seiso Celeb na Hitozuma no Honshou o Saimin de Mezame Sasete Mitara Hametsu
+      Ganbou Mochi no Inran Bitch Datta | When I used hypnosis to awaken the true nature
+      of a chaste, upper-class housewife...She turned out to be a self- destructive,
+      slutty bitch
+    author: otabe-sakura
+    cover: /covers/674869.jpg
+    rating: 4.9
+    date: '2026-08-22'
+    code: 674869
+    url: /works/674869/
+  - title: Single Mother Aoki-san no Kakeijutsu｜Single Mother Aoki-san's Budgeting Hacks
+    author: fujinoe13b
+    cover: /covers/674927.jpg
+    rating: 4.6
+    date: '2026-08-22'
+    code: 674927
+    url: /works/674927/
+  - title: Josō Kyanpasu Hora re Raifu u~izu Yarichin
+    author: brother-pierrot
+    cover: /covers/674945.jpg
+    rating: 4.9
+    date: '2026-08-22'
+    code: 674945
+    url: /works/674945/
   - title: Osananajimi ga Joukyo-chuu ni Osananajimi no Chichi to Daita | While My Childhood
       Friend Was Away in Tokyo I Slept With His Dad
     author: mokuyama-hito

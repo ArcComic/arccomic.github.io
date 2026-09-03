@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "schoolgirl uniform"
-work_count: 11
+work_count: 17
 works:
+  - title: Gal to no Asobikata | How to Have Fun With Gyarus!
+    author: buta
+    cover: /covers/531967.jpg
+    rating: 4.4
+    date: '2026-08-23'
+    code: 531967
+    url: /works/531967/
   - title: '"Sex no Benkyou Shiyokka?" Kareshi ga Iru no ni Itoko kara Shojo wo Ubaware
       Zecchou Shidou 1-5 | Let''s Learn About Sex: Your Cousin Will Take Your Virginity
       and Teach You How to Come 1-5'
@@ -20,6 +27,14 @@ works:
     date: '2026-08-31'
     code: 556767
     url: /works/556767/
+  - title: Ore ga Hoshikatta Mono wa Kin Medal Yori Namami Onaho Datta no Kamoshirenai｜Maybe
+      what I Wanted was a Flesh and Blood Masturbator Rather than a Gold Medal
+    author: carburetor
+    cover: /covers/584934.jpg
+    rating: 4.5
+    date: '2026-08-24'
+    code: 584934
+    url: /works/584934/
   - title: Pashiri no Shita Teku, Yabaitte... ~ Ebi Sori Iki Suru Namaiki Gyaru | Bullied
       Boy's Tongue Revenge Vol.1-4
     author: takayamanon
@@ -35,6 +50,37 @@ works:
     date: '2026-08-28'
     code: 652651
     url: /works/652651/
+  - title: Inokori seibutsu-shitsu | Detention in the Biology Lab
+    author: hiiragi-popura
+    cover: /covers/674463.jpg
+    rating: 4.6
+    date: '2026-08-21'
+    code: 674463
+    url: /works/674463/
+  - title: Onii-san Zako sugite Ukeru~ | Big Brother, you're so pathetic, it's hilarious~
+    author: puritei
+    cover: /covers/674568.jpg
+    rating: 4.9
+    date: '2026-08-21'
+    code: 674568
+    url: /works/674568/
+  - title: Shitate ni wa Denai kedo Chinko ni wa Yowai Gyaru-chan to Kyokon Otaku! |
+      A gal who doesn't act submissive but is weak for a big cock, and a huge-dicked
+      otaku.
+    author: ohkami-ryosuke
+    cover: /covers/674728.jpg
+    rating: 4.6
+    date: '2026-08-22'
+    code: 674728
+    url: /works/674728/
+  - title: Ano Hi, Sunao ni Suki to Ieta nara - If only I could have honestly said that
+      I loved you that day.
+    author: kazuwo-daisuke
+    cover: /covers/674830.jpg
+    rating: 4.1
+    date: '2026-08-22'
+    code: 674830
+    url: /works/674830/
   - title: Osananajimi ga Joukyo-chuu ni Osananajimi no Chichi to Daita | While My Childhood
       Friend Was Away in Tokyo I Slept With His Dad
     author: mokuyama-hito

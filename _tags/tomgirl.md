@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "tomgirl"
-work_count: 3
+work_count: 6
 works:
   - title: Hayato-sensei no Mesu-ka Karute Daigaku-hen | Dr. Hayato's Feminization Medical
       Record ~University Edition~
@@ -11,6 +11,27 @@ works:
     date: '2026-08-31'
     code: 556767
     url: /works/556767/
+  - title: Naisho no An-chan
+    author: seto-ryouko
+    cover: /covers/627126.jpg
+    rating: 4.6
+    date: '2026-08-22'
+    code: 627126
+    url: /works/627126/
+  - title: Josō Kyanpasu Hora re Raifu u~izu Yarichin
+    author: brother-pierrot
+    cover: /covers/674945.jpg
+    rating: 4.9
+    date: '2026-08-22'
+    code: 674945
+    url: /works/674945/
+  - title: Otokonoko Dorei - "OTOKONO-ko" Slave
+    author: wakamiya-santa-gekka-saeki
+    cover: /covers/674960.jpg
+    rating: 4.1
+    date: '2026-08-23'
+    code: 674960
+    url: /works/674960/
   - title: Otona no Asobi wo Manabitai | I Wanna Learn How Adults Have Fun!
     author: jairou-xil
     cover: /covers/676325.jpg

@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "nipple stimulation"
-work_count: 7
+work_count: 15
 works:
+  - title: Chikubi Kando Chousa, Hajimemasu
+    author: nanahamu
+    cover: /covers/528009.jpg
+    rating: 4.1
+    date: '2026-08-24'
+    code: 528009
+    url: /works/528009/
   - title: Uwa, Mesugaki Tsuyoi! | Crap, This Mesugaki's Too Powerful!
     author: poncocchan
     cover: /covers/550359.jpg
@@ -10,6 +17,14 @@ works:
     date: '2026-08-31'
     code: 550359
     url: /works/550359/
+  - title: Ore ga Hoshikatta Mono wa Kin Medal Yori Namami Onaho Datta no Kamoshirenai｜Maybe
+      what I Wanted was a Flesh and Blood Masturbator Rather than a Gold Medal
+    author: carburetor
+    cover: /covers/584934.jpg
+    rating: 4.5
+    date: '2026-08-24'
+    code: 584934
+    url: /works/584934/
   - title: Pashiri no Shita Teku, Yabaitte... ~ Ebi Sori Iki Suru Namaiki Gyaru | Bullied
       Boy's Tongue Revenge Vol.1-4
     author: takayamanon
@@ -18,6 +33,50 @@ works:
     date: '2026-08-29'
     code: 589969
     url: /works/589969/
+  - title: Senpai to no Ecchi na Douga de Kasegu Hanashi | The Story of Earning Money
+      with a Video of Steamy French Kissing with my Senpai
+    author: mmchair
+    cover: /covers/652912.jpg
+    rating: 4.9
+    date: '2026-08-22'
+    code: 652912
+    url: /works/652912/
+  - title: Make Love Rank match!!③
+    author: napo
+    cover: /covers/659484.jpg
+    rating: 4.5
+    date: '2026-08-22'
+    code: 659484
+    url: /works/659484/
+  - title: Igyou Koubi Kairaku Jigoku 1 + 2
+    author: allegro
+    cover: /covers/668880.jpg
+    rating: 4.9
+    date: '2026-08-23'
+    code: 668880
+    url: /works/668880/
+  - title: Ano Hi, Sunao ni Suki to Ieta nara - If only I could have honestly said that
+      I loved you that day.
+    author: kazuwo-daisuke
+    cover: /covers/674830.jpg
+    rating: 4.1
+    date: '2026-08-22'
+    code: 674830
+    url: /works/674830/
+  - title: 'Hanshoku Chuudoku Hourou Hen | Breeding Addiction : Wandering Foxian Arc'
+    author: sekihaku-keu
+    cover: /covers/674899.jpg
+    rating: 4.4
+    date: '2026-08-22'
+    code: 674899
+    url: /works/674899/
+  - title: Ichiryuu Sennyuu Sousakan Haiboku | Ryosen Infiltration Agent Defeated
+    author: bloiler-yachou
+    cover: /covers/675048.jpg
+    rating: 4.6
+    date: '2026-08-23'
+    code: 675048
+    url: /works/675048/
   - title: Osananajimi ga Joukyo-chuu ni Osananajimi no Chichi to Daita | While My Childhood
       Friend Was Away in Tokyo I Slept With His Dad
     author: mokuyama-hito

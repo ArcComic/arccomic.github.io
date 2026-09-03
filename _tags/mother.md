@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "mother"
-work_count: 17
+work_count: 28
 works:
   - title: Saikin, Musuko no Yousu ga Hen nan desu | Lately my son has been acting Strangly
     author: matsumoto-jikyuuryoku
@@ -10,6 +10,21 @@ works:
     date: '2026-08-24'
     code: 342639
     url: /works/342639/
+  - title: Kaa-san ni wa Ore no Ko o Unde Morau | My mother is going to have my baby
+    author: matsumoto-jikyuuryoku
+    cover: /covers/444152.jpg
+    rating: 4.4
+    date: '2026-08-24'
+    code: 444152
+    url: /works/444152/
+  - title: Kaa-san ni Kokuhaku Shitara xxxx Made Sasete Kureta | When I Confessed to
+      My Mother, She Let Me Do XXXX
+    author: carburetor
+    cover: /covers/508845.jpg
+    rating: 4.1
+    date: '2026-08-24'
+    code: 508845
+    url: /works/508845/
   - title: Bitch Mama no Kekkon Riyuu
     author: aoyama-akira
     cover: /covers/512473.jpg
@@ -26,6 +41,13 @@ works:
     date: '2026-08-25'
     code: 537490
     url: /works/537490/
+  - title: Watashi sae Gaman Sureba...
+    author: hatakeyama-tohya
+    cover: /covers/553061.jpg
+    rating: 4.6
+    date: '2026-08-24'
+    code: 553061
+    url: /works/553061/
   - title: Tennen Kaa-san ga Ero Kawai Sugiru node, Saimin Onaho Sex Shitatta! | My
       Airheaded Mom Was Too Adorably Sexy, So I Had Hypnotized Onahole Sex with Her!
     author: ginen
@@ -92,6 +114,13 @@ works:
     date: '2026-08-25'
     code: 654373
     url: /works/654373/
+  - title: Mama ga Bakunyuu de Yokatta
+    author: ameto-yuki
+    cover: /covers/654689.jpg
+    rating: 4.1
+    date: '2026-08-24'
+    code: 654689
+    url: /works/654689/
   - title: boku no haha ga saikon si nai riyuu（ wake）
     author: daidai-shikibu
     cover: /covers/655205.jpg
@@ -99,6 +128,20 @@ works:
     date: '2026-08-25'
     code: 655205
     url: /works/655205/
+  - title: Haha to Osake Nondara erai Kotoninarimashita
+    author: matsumoto-jikyuuryoku
+    cover: /covers/655291.jpg
+    rating: 4.9
+    date: '2026-08-24'
+    code: 655291
+    url: /works/655291/
+  - title: Zessan Haishinchuu Gibo Nikubenki Keikaku! Ch.1-5
+    author: maki-daikichi
+    cover: /covers/656140.jpg
+    rating: 4.2
+    date: '2026-08-22'
+    code: 656140
+    url: /works/656140/
   - title: Gomen, Kaa-san Otonashiiku Shite
     author: daidai-shikibu
     cover: /covers/656143.jpg
@@ -113,6 +156,42 @@ works:
     date: '2026-08-25'
     code: 656146
     url: /works/656146/
+  - title: Haha Ana ni Irazumba
+    author: unknown
+    cover: /covers/657981.jpg
+    rating: 4.5
+    date: '2026-08-24'
+    code: 657981
+    url: /works/657981/
+  - title: Okaasan nara Daijyoubu Da Kara
+    author: daidai-shikibu
+    cover: /covers/658826.jpg
+    rating: 5.0
+    date: '2026-08-24'
+    code: 658826
+    url: /works/658826/
+  - title: Mama ga Inemuri shi tetanode
+    author: unknown
+    cover: /covers/659164.jpg
+    rating: 4.0
+    date: '2026-08-24'
+    code: 659164
+    url: /works/659164/
+  - title: Super de Genki ni Hataraku Hahaoya ga Hikikomori Musuko ni Tanetsuke Saremakutteita
+      Hanashi
+    author: daidai-shikibu
+    cover: /covers/666532.jpg
+    rating: 4.0
+    date: '2026-08-24'
+    code: 666532
+    url: /works/666532/
+  - title: Igyou Koubi Kairaku Jigoku 1 + 2
+    author: allegro
+    cover: /covers/668880.jpg
+    rating: 4.9
+    date: '2026-08-23'
+    code: 668880
+    url: /works/668880/
   - title: Boku-tachi Mama to Yattemasu
     author: ameto-yuki
     cover: /covers/672450.jpg

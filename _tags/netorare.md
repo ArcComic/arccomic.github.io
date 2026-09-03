@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "netorare"
-work_count: 17
+work_count: 25
 works:
   - title: Niizuma Nanaka no Roshutsu Satsuei
     author: fukurou-naru-tori
@@ -74,6 +74,27 @@ works:
     date: '2026-08-25'
     code: 637847
     url: /works/637847/
+  - title: Akogare no Hito wa Mou Owari! 2
+    author: group
+    cover: /covers/642585.jpg
+    rating: 4.0
+    date: '2026-08-24'
+    code: 642585
+    url: /works/642585/
+  - title: Akogare no Hito wa Mou Owari! 3
+    author: group
+    cover: /covers/642586.jpg
+    rating: 5.0
+    date: '2026-08-24'
+    code: 642586
+    url: /works/642586/
+  - title: Akogare no Hito wa Mou Owari! Daigakusei - Lisa Hen
+    author: orange-mimosa
+    cover: /covers/642588.jpg
+    rating: 4.4
+    date: '2026-08-24'
+    code: 642588
+    url: /works/642588/
   - title: Majime na Salaryman ga JK Chijo ni Otosareru Hanashi
     author: hamo
     cover: /covers/652651.jpg
@@ -81,6 +102,20 @@ works:
     date: '2026-08-28'
     code: 652651
     url: /works/652651/
+  - title: Himaten NTR 19P
+    author: terasu-mc
+    cover: /covers/654484.jpg
+    rating: 4.0
+    date: '2026-08-22'
+    code: 654484
+    url: /works/654484/
+  - title: Zessan Haishinchuu Gibo Nikubenki Keikaku! Ch.1-5
+    author: maki-daikichi
+    cover: /covers/656140.jpg
+    rating: 4.2
+    date: '2026-08-22'
+    code: 656140
+    url: /works/656140/
   - title: Haha Ochi Nikki ~Ureta Jitsubo no Nama Manko o Seishori Benjo ni Otosu made
     author: unknown
     cover: /covers/656146.jpg
@@ -95,6 +130,13 @@ works:
     date: '2026-08-28'
     code: 668605
     url: /works/668605/
+  - title: Igyou Koubi Kairaku Jigoku 1 + 2
+    author: allegro
+    cover: /covers/668880.jpg
+    rating: 4.9
+    date: '2026-08-23'
+    code: 668880
+    url: /works/668880/
   - title: Boku-tachi Mama to Yattemasu
     author: ameto-yuki
     cover: /covers/672450.jpg
@@ -102,6 +144,21 @@ works:
     date: '2026-08-25'
     code: 672450
     url: /works/672450/
+  - title: Ano Hi, Sunao ni Suki to Ieta nara - If only I could have honestly said that
+      I loved you that day.
+    author: kazuwo-daisuke
+    cover: /covers/674830.jpg
+    rating: 4.1
+    date: '2026-08-22'
+    code: 674830
+    url: /works/674830/
+  - title: Boku no Mizugi ga Kakusarete | My swimsuit was stolen
+    author: niki
+    cover: /covers/674922.jpg
+    rating: 4.2
+    date: '2026-08-22'
+    code: 674922
+    url: /works/674922/
   - title: Mesu no Ie III ~Oyako wa Midare Aisareru~
     author: ame-arare
     cover: /covers/675981.jpg

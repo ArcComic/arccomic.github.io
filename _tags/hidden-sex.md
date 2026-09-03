@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "hidden sex"
-work_count: 6
+work_count: 7
 works:
   - title: Hitozuma Volley-bu no Asedaku SEX ~Shower Abinagara Micchaku Shichau? 1-2
       | Married Women's Volleyball Club Sweaty Sex - We're Being Glued Together While
@@ -45,6 +45,13 @@ works:
     date: '2026-08-29'
     code: 618087
     url: /works/618087/
+  - title: Akogare no Hito wa Mou Owari! 2
+    author: group
+    cover: /covers/642585.jpg
+    rating: 4.0
+    date: '2026-08-24'
+    code: 642585
+    url: /works/642585/
   - title: Konyakusha no Imouto wa Kao SSR, Seikaku Saiaku Jigoku no Ero Dance Onna.
       2 | My Fiancée's Younger Sister is a SSR Influencer with a Terrible Personality
       and is a Hellish Erotic Dancer. 2

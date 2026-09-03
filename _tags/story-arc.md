@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "story arc"
-work_count: 5
+work_count: 7
 works:
   - title: '"Sex no Benkyou Shiyokka?" Kareshi ga Iru no ni Itoko kara Shojo wo Ubaware
       Zecchou Shidou 1-5 | Let''s Learn About Sex: Your Cousin Will Take Your Virginity
@@ -36,6 +36,21 @@ works:
     date: '2026-08-29'
     code: 660399
     url: /works/660399/
+  - title: Ano Hi, Sunao ni Suki to Ieta nara - If only I could have honestly said that
+      I loved you that day.
+    author: kazuwo-daisuke
+    cover: /covers/674830.jpg
+    rating: 4.1
+    date: '2026-08-22'
+    code: 674830
+    url: /works/674830/
+  - title: Chibikko Nurunuru Harem Seikatsu
+    author: ippon-lolicon-trap
+    cover: /covers/674984.jpg
+    rating: 4.2
+    date: '2026-08-23'
+    code: 674984
+    url: /works/674984/
   - title: Irodori Kazoku
     author: sugi-g
     cover: /covers/676658.jpg

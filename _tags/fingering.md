@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "fingering"
-work_count: 6
+work_count: 10
 works:
   - title: Bocchi de Shinda Ore ga Bishoujo Nurse ni Natta Hanashi | The Story of How
       I Died Alone and Became a Sexy Nurse
@@ -28,6 +28,14 @@ works:
     date: '2026-08-29'
     code: 544324
     url: /works/544324/
+  - title: Ore ga Hoshikatta Mono wa Kin Medal Yori Namami Onaho Datta no Kamoshirenai｜Maybe
+      what I Wanted was a Flesh and Blood Masturbator Rather than a Gold Medal
+    author: carburetor
+    cover: /covers/584934.jpg
+    rating: 4.5
+    date: '2026-08-24'
+    code: 584934
+    url: /works/584934/
   - title: Pashiri no Shita Teku, Yabaitte... ~ Ebi Sori Iki Suru Namaiki Gyaru | Bullied
       Boy's Tongue Revenge Vol.1-4
     author: takayamanon
@@ -44,6 +52,20 @@ works:
     date: '2026-08-29'
     code: 618087
     url: /works/618087/
+  - title: BUTA - 『You did a great job』
+    author: buta
+    cover: /covers/639772.jpg
+    rating: 4.1
+    date: '2026-08-23'
+    code: 639772
+    url: /works/639772/
+  - title: Make Love Rank match!!③
+    author: napo
+    cover: /covers/659484.jpg
+    rating: 4.5
+    date: '2026-08-22'
+    code: 659484
+    url: /works/659484/
   - title: Imouto ga Ore no Kanojo!? 2-haku 3-ka no Ecchi na Kankei | My Sister is My
       Girlfriend!? Sexual Relationship for Two Nights and Three Days
     author: katagiri-kaneharu
@@ -52,4 +74,12 @@ works:
     date: '2026-08-29'
     code: 660399
     url: /works/660399/
+  - title: Ano Hi, Sunao ni Suki to Ieta nara - If only I could have honestly said that
+      I loved you that day.
+    author: kazuwo-daisuke
+    cover: /covers/674830.jpg
+    rating: 4.1
+    date: '2026-08-22'
+    code: 674830
+    url: /works/674830/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "group"
-work_count: 12
+work_count: 16
 works:
   - title: Bocchi de Shinda Ore ga Bishoujo Nurse ni Natta Hanashi | The Story of How
       I Died Alone and Became a Sexy Nurse
@@ -18,6 +18,34 @@ works:
     date: '2026-08-25'
     code: 512473
     url: /works/512473/
+  - title: Akogare no Hito wa Mou Owari! 2
+    author: group
+    cover: /covers/642585.jpg
+    rating: 4.0
+    date: '2026-08-24'
+    code: 642585
+    url: /works/642585/
+  - title: Akogare no Hito wa Mou Owari! 3
+    author: group
+    cover: /covers/642586.jpg
+    rating: 5.0
+    date: '2026-08-24'
+    code: 642586
+    url: /works/642586/
+  - title: Chibikko Nurunuru Harem Seikatsu
+    author: ippon-lolicon-trap
+    cover: /covers/674984.jpg
+    rating: 4.2
+    date: '2026-08-23'
+    code: 674984
+    url: /works/674984/
+  - title: Ichiryuu Sennyuu Sousakan Haiboku | Ryosen Infiltration Agent Defeated
+    author: bloiler-yachou
+    cover: /covers/675048.jpg
+    rating: 4.6
+    date: '2026-08-23'
+    code: 675048
+    url: /works/675048/
   - title: Mesu no Ie III ~Oyako wa Midare Aisareru~
     author: ame-arare
     cover: /covers/675981.jpg

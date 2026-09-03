@@ -1,8 +1,16 @@
 ---
 layout: tag
 tag_name: "drugs"
-work_count: 1
+work_count: 3
 works:
+  - title: Ore ga Hoshikatta Mono wa Kin Medal Yori Namami Onaho Datta no Kamoshirenai｜Maybe
+      what I Wanted was a Flesh and Blood Masturbator Rather than a Gold Medal
+    author: carburetor
+    cover: /covers/584934.jpg
+    rating: 4.5
+    date: '2026-08-24'
+    code: 584934
+    url: /works/584934/
   - title: Kanojo ga Kami o Someta Wake ~Kataomoi no Seiso Kurokami Ojou-sama ga Boku
       no Shiranai Tokoro de Otoko no Aji o Oboeru Hanashi~ | The Real Reason She Changed
       Her Hair
@@ -12,4 +20,11 @@ works:
     date: '2026-08-29'
     code: 634450
     url: /works/634450/
+  - title: Ichiryuu Sennyuu Sousakan Haiboku | Ryosen Infiltration Agent Defeated
+    author: bloiler-yachou
+    cover: /covers/675048.jpg
+    rating: 4.6
+    date: '2026-08-23'
+    code: 675048
+    url: /works/675048/
 ---

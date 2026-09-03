@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sister"
-work_count: 8
+work_count: 10
 works:
   - title: Tsuma ni Ani to Kozukuri Shite Moraimashita
     author: furaimai
@@ -18,6 +18,13 @@ works:
     date: '2026-08-29'
     code: 618087
     url: /works/618087/
+  - title: Akogare no Hito wa Mou Owari! 2
+    author: group
+    cover: /covers/642585.jpg
+    rating: 4.0
+    date: '2026-08-24'
+    code: 642585
+    url: /works/642585/
   - title: Imouto ga Ore no Kanojo!? 2-haku 3-ka no Ecchi na Kankei | My Sister is My
       Girlfriend!? Sexual Relationship for Two Nights and Three Days
     author: katagiri-kaneharu
@@ -26,6 +33,13 @@ works:
     date: '2026-08-29'
     code: 660399
     url: /works/660399/
+  - title: Onii-san Zako sugite Ukeru~ | Big Brother, you're so pathetic, it's hilarious~
+    author: puritei
+    cover: /covers/674568.jpg
+    rating: 4.9
+    date: '2026-08-21'
+    code: 674568
+    url: /works/674568/
   - title: Mesu no Ie III ~Oyako wa Midare Aisareru~
     author: ame-arare
     cover: /covers/675981.jpg

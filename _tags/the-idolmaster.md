@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "the idolmaster"
-work_count: 5
+work_count: 6
 works:
+  - title: Mayu dake no Mono ni...
+    author: tomekichi
+    cover: /covers/674866.jpg
+    rating: 4.8
+    date: '2026-08-22'
+    code: 674866
+    url: /works/674866/
   - title: Onii-chan... Momoko, AV Joyuu datte Dekiru yo? | Momoko... Could Even be
       a Porn Star, You Know?
     author: yurarin

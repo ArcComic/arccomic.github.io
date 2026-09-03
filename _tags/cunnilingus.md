@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "cunnilingus"
-work_count: 5
+work_count: 6
 works:
   - title: '"Sex no Benkyou Shiyokka?" Kareshi ga Iru no ni Itoko kara Shojo wo Ubaware
       Zecchou Shidou 1-5 | Let''s Learn About Sex: Your Cousin Will Take Your Virginity
@@ -28,6 +28,13 @@ works:
     date: '2026-08-29'
     code: 660399
     url: /works/660399/
+  - title: Chibikko Nurunuru Harem Seikatsu
+    author: ippon-lolicon-trap
+    cover: /covers/674984.jpg
+    rating: 4.2
+    date: '2026-08-23'
+    code: 674984
+    url: /works/674984/
   - title: Sensei!! I Told You Not To Come Again Didn't I !!
     author: nakakazu
     cover: /covers/676149.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "inseki"
-work_count: 8
+work_count: 9
 works:
   - title: Bitch Mama no Kekkon Riyuu
     author: aoyama-akira
@@ -39,6 +39,13 @@ works:
     date: '2026-08-29'
     code: 618087
     url: /works/618087/
+  - title: Zessan Haishinchuu Gibo Nikubenki Keikaku! Ch.1-5
+    author: maki-daikichi
+    cover: /covers/656140.jpg
+    rating: 4.2
+    date: '2026-08-22'
+    code: 656140
+    url: /works/656140/
   - title: Imouto ga Ore no Kanojo!? 2-haku 3-ka no Ecchi na Kankei | My Sister is My
       Girlfriend!? Sexual Relationship for Two Nights and Three Days
     author: katagiri-kaneharu

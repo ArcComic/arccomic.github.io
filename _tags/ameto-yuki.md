@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "ameto yuki"
-work_count: 3
+work_count: 4
 works:
   - &id001
     title: Sono Gal Mama wa Koubi Suru | This Gyaru Mom is Having Sex.
@@ -12,6 +12,13 @@ works:
     code: 608648
     url: /works/608648/
   - *id001
+  - title: Mama ga Bakunyuu de Yokatta
+    author: ameto-yuki
+    cover: /covers/654689.jpg
+    rating: 4.1
+    date: '2026-08-24'
+    code: 654689
+    url: /works/654689/
   - title: Boku-tachi Mama to Yattemasu
     author: ameto-yuki
     cover: /covers/672450.jpg

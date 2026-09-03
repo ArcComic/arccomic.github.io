@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "cheating"
-work_count: 18
+work_count: 24
 works:
   - title: Saikin, Musuko no Yousu ga Hen nan desu | Lately my son has been acting Strangly
     author: matsumoto-jikyuuryoku
@@ -10,6 +10,20 @@ works:
     date: '2026-08-24'
     code: 342639
     url: /works/342639/
+  - title: Dakara Ore wa Kanojo o Netori Tsuzuketa.
+    author: minamihama-yoriko
+    cover: /covers/375962.jpg
+    rating: 5.0
+    date: '2026-08-23'
+    code: 375962
+    url: /works/375962/
+  - title: Shiraishi-san Wa Yokkyu Fuman | Shiraishi-san's Frustrated
+    author: carburetor
+    cover: /covers/392617.jpg
+    rating: 4.1
+    date: '2026-08-24'
+    code: 392617
+    url: /works/392617/
   - title: Hitozuma Volley-bu no Asedaku SEX ~Shower Abinagara Micchaku Shichau? 1-2
       | Married Women's Volleyball Club Sweaty Sex - We're Being Glued Together While
       Taking A Shower? 1-2
@@ -97,6 +111,20 @@ works:
     date: '2026-08-28'
     code: 652651
     url: /works/652651/
+  - title: Himaten NTR 19P
+    author: terasu-mc
+    cover: /covers/654484.jpg
+    rating: 4.0
+    date: '2026-08-22'
+    code: 654484
+    url: /works/654484/
+  - title: Mama ga Bakunyuu de Yokatta
+    author: ameto-yuki
+    cover: /covers/654689.jpg
+    rating: 4.1
+    date: '2026-08-24'
+    code: 654689
+    url: /works/654689/
   - title: Niizuma Nanaka no Roshutsu Office
     author: fukurou-naru-tori
     cover: /covers/668605.jpg
@@ -111,6 +139,23 @@ works:
     date: '2026-08-25'
     code: 672450
     url: /works/672450/
+  - title: Seiso Celeb na Hitozuma no Honshou o Saimin de Mezame Sasete Mitara Hametsu
+      Ganbou Mochi no Inran Bitch Datta | When I used hypnosis to awaken the true nature
+      of a chaste, upper-class housewife...She turned out to be a self- destructive,
+      slutty bitch
+    author: otabe-sakura
+    cover: /covers/674869.jpg
+    rating: 4.9
+    date: '2026-08-22'
+    code: 674869
+    url: /works/674869/
+  - title: Boku no Mizugi ga Kakusarete | My swimsuit was stolen
+    author: niki
+    cover: /covers/674922.jpg
+    rating: 4.2
+    date: '2026-08-22'
+    code: 674922
+    url: /works/674922/
   - title: Konyakusha no Imouto wa Kao SSR, Seikaku Saiaku Jigoku no Ero Dance Onna.
       2 | My Fiancée's Younger Sister is a SSR Influencer with a Terrible Personality
       and is a Hellish Erotic Dancer. 2

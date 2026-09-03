@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "painted nails"
-work_count: 4
+work_count: 5
 works:
   - title: Bitch Mama no Kekkon Riyuu
     author: aoyama-akira
@@ -10,6 +10,13 @@ works:
     date: '2026-08-25'
     code: 512473
     url: /works/512473/
+  - title: Gal to no Asobikata | How to Have Fun With Gyarus!
+    author: buta
+    cover: /covers/531967.jpg
+    rating: 4.4
+    date: '2026-08-23'
+    code: 531967
+    url: /works/531967/
   - title: Uwa, Mesugaki Tsuyoi! | Crap, This Mesugaki's Too Powerful!
     author: poncocchan
     cover: /covers/550359.jpg

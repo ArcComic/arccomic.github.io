@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "rape"
-work_count: 13
+work_count: 20
 works:
   - title: '"Sex no Benkyou Shiyokka?" Kareshi ga Iru no ni Itoko kara Shojo wo Ubaware
       Zecchou Shidou 1-5 | Let''s Learn About Sex: Your Cousin Will Take Your Virginity
@@ -20,6 +20,14 @@ works:
     date: '2026-08-25'
     code: 563890
     url: /works/563890/
+  - title: Ore ga Hoshikatta Mono wa Kin Medal Yori Namami Onaho Datta no Kamoshirenai｜Maybe
+      what I Wanted was a Flesh and Blood Masturbator Rather than a Gold Medal
+    author: carburetor
+    cover: /covers/584934.jpg
+    rating: 4.5
+    date: '2026-08-24'
+    code: 584934
+    url: /works/584934/
   - title: Ottori Itome no Oba o Odoshite Hamete Iinari Onaho-ka Keikaku | Gentle Slit-Eyed
       Aunty Blackmail & Obedient Fuckhole Training Project
     author: ginen
@@ -66,6 +74,20 @@ works:
     date: '2026-08-25'
     code: 654373
     url: /works/654373/
+  - title: Haha to Osake Nondara erai Kotoninarimashita
+    author: matsumoto-jikyuuryoku
+    cover: /covers/655291.jpg
+    rating: 4.9
+    date: '2026-08-24'
+    code: 655291
+    url: /works/655291/
+  - title: Zessan Haishinchuu Gibo Nikubenki Keikaku! Ch.1-5
+    author: maki-daikichi
+    cover: /covers/656140.jpg
+    rating: 4.2
+    date: '2026-08-22'
+    code: 656140
+    url: /works/656140/
   - title: Gomen, Kaa-san Otonashiiku Shite
     author: daidai-shikibu
     cover: /covers/656143.jpg
@@ -80,6 +102,21 @@ works:
     date: '2026-08-25'
     code: 656146
     url: /works/656146/
+  - title: Haha Ana ni Irazumba
+    author: unknown
+    cover: /covers/657981.jpg
+    rating: 4.5
+    date: '2026-08-24'
+    code: 657981
+    url: /works/657981/
+  - title: Super de Genki ni Hataraku Hahaoya ga Hikikomori Musuko ni Tanetsuke Saremakutteita
+      Hanashi
+    author: daidai-shikibu
+    cover: /covers/666532.jpg
+    rating: 4.0
+    date: '2026-08-24'
+    code: 666532
+    url: /works/666532/
   - title: Boku-tachi Mama to Yattemasu
     author: ameto-yuki
     cover: /covers/672450.jpg
@@ -87,6 +124,20 @@ works:
     date: '2026-08-25'
     code: 672450
     url: /works/672450/
+  - title: Hakkyou Suru Koi ~Imouto no Shinyuu o Boko Shite Rape~
+    author: akiboshigai
+    cover: /covers/674948.jpg
+    rating: 4.7
+    date: '2026-08-22'
+    code: 674948
+    url: /works/674948/
+  - title: Ichiryuu Sennyuu Sousakan Haiboku | Ryosen Infiltration Agent Defeated
+    author: bloiler-yachou
+    cover: /covers/675048.jpg
+    rating: 4.6
+    date: '2026-08-23'
+    code: 675048
+    url: /works/675048/
   - title: Junai Kanjou
     author: unknown
     cover: /covers/676189.jpg

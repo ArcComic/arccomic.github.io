@@ -1,8 +1,23 @@
 ---
 layout: tag
 tag_name: "no penetration"
-work_count: 2
+work_count: 4
 works:
+  - title: Chikubi Kando Chousa, Hajimemasu
+    author: nanahamu
+    cover: /covers/528009.jpg
+    rating: 4.1
+    date: '2026-08-24'
+    code: 528009
+    url: /works/528009/
+  - title: Senpai to no Ecchi na Douga de Kasegu Hanashi | The Story of Earning Money
+      with a Video of Steamy French Kissing with my Senpai
+    author: mmchair
+    cover: /covers/652912.jpg
+    rating: 4.9
+    date: '2026-08-22'
+    code: 652912
+    url: /works/652912/
   - title: Niizuma Nanaka no Roshutsu Office
     author: fukurou-naru-tori
     cover: /covers/668605.jpg
