@@ -46,7 +46,7 @@ works:
     code: 655205
     url: /works/655205/
   - title: Gomen, Kaa-san Otonashiiku Shite
-    cover: /covers/656143.jpg
+    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/656143.jpg
     rating: 4.9
     date: '2026-08-25'
     code: 656143

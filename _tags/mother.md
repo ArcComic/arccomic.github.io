@@ -247,7 +247,7 @@ works:
     url: /works/555792/
   - title: Nakayoku no Yu e Youkoso Ch. 2 & 3
     author: enomoto-heights
-    cover: /covers/555849.jpg
+    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/555849.jpg
     rating: 4.5
     date: '2026-04-30'
     code: 555849
@@ -562,7 +562,7 @@ works:
     url: /works/656140/
   - title: Gomen, Kaa-san Otonashiiku Shite
     author: daidai-shikibu
-    cover: /covers/656143.jpg
+    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/656143.jpg
     rating: 4.9
     date: '2026-08-25'
     code: 656143
@@ -679,7 +679,7 @@ works:
     url: /works/666532/
   - title: Igyou Koubi Kairaku Jigoku 1 + 2
     author: allegro
-    cover: /covers/668880.jpg
+    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/668880.jpg
     rating: 4.9
     date: '2026-08-23'
     code: 668880

@@ -6,7 +6,7 @@ works:
   - title: Boku no Netorase Seiheki ni Tsukiatte kureru Kanojo | A Girlfriend Who Plays
       Along with My Cuckold Fetish
     author: terasu-mc
-    cover: /covers/441036.jpg
+    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/441036.jpg
     rating: 4.8
     date: '2026-04-25'
     code: 441036
@@ -49,7 +49,7 @@ works:
     url: /works/613739/
   - title: Tsuma ni Ani to Kozukuri Shite Moraimashita
     author: furaimai
-    cover: /covers/616367.jpg
+    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/616367.jpg
     rating: 4.2
     date: '2026-08-25'
     code: 616367
@@ -110,7 +110,7 @@ works:
     url: /works/664249/
   - title: Miya-chan no Kyuuin Life! - Chapter 12
     author: furumoto-takeru
-    cover: /covers/664766.jpg
+    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/664766.jpg
     rating: 4.2
     date: '2026-07-17'
     code: 664766

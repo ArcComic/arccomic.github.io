@@ -276,7 +276,7 @@ works:
   - title: Boku no Netorase Seiheki ni Tsukiatte kureru Kanojo | A Girlfriend Who Plays
       Along with My Cuckold Fetish
     author: terasu-mc
-    cover: /covers/441036.jpg
+    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/441036.jpg
     rating: 4.8
     date: '2026-04-25'
     code: 441036
@@ -501,7 +501,7 @@ works:
   - title: Moto Mahou Shoujo no Hikikomori Seikatsu | The NEET Life of a Former Magical
       Girl
     author: zhen-lu
-    cover: /covers/506303.jpg
+    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/506303.jpg
     rating: 4.4
     date: '2026-04-23'
     code: 506303
@@ -669,7 +669,7 @@ works:
     url: /works/531313/
   - title: Hatsutaiken no Susume | Recommendation for the First Time Experience
     author: mojarin
-    cover: /covers/532651.jpg
+    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/532651.jpg
     rating: 4.0
     date: '2026-04-27'
     code: 532651
@@ -700,7 +700,7 @@ works:
   - title: Taido mo Karada mo Zenbu deka I Segawa-san no Gachi koi Taisho ni Narimashita
       | I’ve Become The Target of His Affection!
     author: the-waidan
-    cover: /covers/534823.jpg
+    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/534823.jpg
     rating: 4.7
     date: '2026-05-03'
     code: 534823
@@ -991,7 +991,7 @@ works:
     url: /works/586028/
   - title: Himitsu Koueki + Kake
     author: tsukumo-nikyu
-    cover: /covers/586316.jpg
+    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/586316.jpg
     rating: 4.9
     date: '2026-08-22'
     code: 586316
@@ -1220,7 +1220,7 @@ works:
     url: /works/616358/
   - title: Tsuma ni Ani to Kozukuri Shite Moraimashita
     author: furaimai
-    cover: /covers/616367.jpg
+    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/616367.jpg
     rating: 4.2
     date: '2026-08-25'
     code: 616367
@@ -1845,7 +1845,7 @@ works:
   - title: 'YariCir Shingakki ni Boku no Heya wa Minna no Tamariba (Omake Ver.) - Fuck
       Club: New Term! My Room''s A Hangout Spot For Everyone'
     author: purumetal
-    cover: /covers/645507.jpg
+    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/645507.jpg
     rating: 4.2
     date: '2026-04-23'
     code: 645507
@@ -1999,7 +1999,7 @@ works:
   - title: Na mo Naki Dousei Couple no Sex ga Ichiban Eroi yo ne | Sex Between Gloomy
       Types is the Hottest, Ain't It? Epilogue
     author: doji-ro
-    cover: /covers/646986.jpg
+    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/646986.jpg
     rating: 4.2
     date: '2026-04-30'
     code: 646986
@@ -2013,7 +2013,7 @@ works:
     url: /works/647315/
   - title: 'Library Girlfriend: Descent into Depravity'
     author: ame-arare
-    cover: /covers/647334.jpg
+    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/647334.jpg
     rating: 4.6
     date: '2026-05-01'
     code: 647334
@@ -2056,7 +2056,7 @@ works:
     url: /works/647809/
   - title: My Annoying Little Cousin Stole My First Time
     author: karube-guri
-    cover: /covers/647853.jpg
+    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/647853.jpg
     rating: 4.7
     date: '2026-05-07'
     code: 647853
@@ -2140,7 +2140,7 @@ works:
   - title: You're My Doggy... Right? ~Pamper Loving Boyfriend Becomes A Wild Sadist
       Hound~
     author: the-waidan
-    cover: /covers/649029.jpg
+    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/649029.jpg
     rating: 4.9
     date: '2026-05-10'
     code: 649029
@@ -2154,7 +2154,7 @@ works:
     url: /works/649033/
   - title: I Want To Take Hikaru Narumi's First Time
     author: concontochu
-    cover: /covers/649039.jpg
+    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/649039.jpg
     rating: 4.6
     date: '2026-05-10'
     code: 649039
@@ -2300,7 +2300,7 @@ works:
     url: /works/652651/
   - title: My Impertinent and Curt Kouhai Becomes Surprisingly Clingy???
     author: buki
-    cover: /covers/652667.jpg
+    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/652667.jpg
     rating: 4.4
     date: '2026-05-26'
     code: 652667
@@ -2330,7 +2330,7 @@ works:
     url: /works/655498/
   - title: Tonari no Ayane-san Soushuuhen | My Neighbor Ayane Anthology
     author: herio
-    cover: /covers/656319.jpg
+    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/656319.jpg
     rating: 4.8
     date: '2026-08-18'
     code: 656319
@@ -2853,7 +2853,7 @@ works:
     url: /works/674701/
   - title: Hitoe-san no warui kuse | Hitoe's Bad Habit
     author: jirou
-    cover: /covers/674702.jpg
+    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/674702.jpg
     rating: 4.5
     date: '2026-08-21'
     code: 674702
@@ -2918,7 +2918,7 @@ works:
     url: /works/674984/
   - title: Mesu no Ie III ~Oyako wa Midare Aisareru~
     author: ame-arare
-    cover: /covers/675981.jpg
+    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/675981.jpg
     rating: 4.4
     date: '2026-08-28'
     code: 675981

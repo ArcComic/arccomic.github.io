@@ -21,7 +21,7 @@ works:
     url: /works/605410/
   - title: Naisho no An-chan
     author: seto-ryouko
-    cover: /covers/627126.jpg
+    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/627126.jpg
     rating: 4.6
     date: '2026-08-22'
     code: 627126
@@ -57,7 +57,7 @@ works:
     url: /works/674587/
   - title: Josō Kyanpasu Hora re Raifu u~izu Yarichin
     author: brother-pierrot
-    cover: /covers/674945.jpg
+    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/674945.jpg
     rating: 4.9
     date: '2026-08-22'
     code: 674945
@@ -71,7 +71,7 @@ works:
     url: /works/674960/
   - title: Otona no Asobi wo Manabitai | I Wanna Learn How Adults Have Fun!
     author: jairou-xil
-    cover: /covers/676325.jpg
+    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/676325.jpg
     rating: 4.5
     date: '2026-08-29'
     code: 676325

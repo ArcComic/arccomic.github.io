@@ -5,7 +5,7 @@ work_count: 3
 works:
   - title: Moto Mahou Shoujo no Hikikomori Seikatsu | The NEET Life of a Former Magical
       Girl
-    cover: /covers/506303.jpg
+    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/506303.jpg
     rating: 4.4
     date: '2026-04-23'
     code: 506303

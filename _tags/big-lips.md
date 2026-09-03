@@ -19,7 +19,7 @@ works:
     url: /works/414892/
   - title: Hitoe-san no warui kuse | Hitoe's Bad Habit
     author: jirou
-    cover: /covers/674702.jpg
+    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/674702.jpg
     rating: 4.5
     date: '2026-08-21'
     code: 674702

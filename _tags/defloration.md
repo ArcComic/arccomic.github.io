@@ -195,7 +195,7 @@ works:
     url: /works/516164/
   - title: Hatsutaiken no Susume | Recommendation for the First Time Experience
     author: mojarin
-    cover: /covers/532651.jpg
+    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/532651.jpg
     rating: 4.0
     date: '2026-04-27'
     code: 532651
@@ -304,7 +304,7 @@ works:
     url: /works/584934/
   - title: Himitsu Koueki + Kake
     author: tsukumo-nikyu
-    cover: /covers/586316.jpg
+    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/586316.jpg
     rating: 4.9
     date: '2026-08-22'
     code: 586316
@@ -509,7 +509,7 @@ works:
     url: /works/639514/
   - title: BUTA - 『You did a great job』
     author: buta
-    cover: /covers/639772.jpg
+    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/639772.jpg
     rating: 4.1
     date: '2026-08-23'
     code: 639772
@@ -618,7 +618,7 @@ works:
     url: /works/646922/
   - title: 'Library Girlfriend: Descent into Depravity'
     author: ame-arare
-    cover: /covers/647334.jpg
+    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/647334.jpg
     rating: 4.6
     date: '2026-05-01'
     code: 647334
@@ -885,7 +885,7 @@ works:
     url: /works/674866/
   - title: Hakkyou Suru Koi ~Imouto no Shinyuu o Boko Shite Rape~
     author: akiboshigai
-    cover: /covers/674948.jpg
+    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/674948.jpg
     rating: 4.7
     date: '2026-08-22'
     code: 674948

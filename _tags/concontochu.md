@@ -12,7 +12,7 @@ works:
     url: /works/588066/
   - title: I Want To Take Hikaru Narumi's First Time
     author: concontochu
-    cover: /covers/649039.jpg
+    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/649039.jpg
     rating: 4.6
     date: '2026-05-10'
     code: 649039

@@ -175,7 +175,7 @@ works:
     url: /works/586028/
   - title: Himitsu Koueki + Kake
     author: tsukumo-nikyu
-    cover: /covers/586316.jpg
+    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/586316.jpg
     rating: 4.9
     date: '2026-08-22'
     code: 586316
@@ -329,7 +329,7 @@ works:
     url: /works/652790/
   - title: Tonari no Ayane-san Soushuuhen | My Neighbor Ayane Anthology
     author: herio
-    cover: /covers/656319.jpg
+    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/656319.jpg
     rating: 4.8
     date: '2026-08-18'
     code: 656319

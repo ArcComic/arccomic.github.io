@@ -5,7 +5,7 @@ work_count: 1
 works:
   - title: Naisho no An-chan
     author: seto-ryouko
-    cover: /covers/627126.jpg
+    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/627126.jpg
     rating: 4.6
     date: '2026-08-22'
     code: 627126

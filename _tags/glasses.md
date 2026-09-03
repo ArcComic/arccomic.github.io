@@ -281,7 +281,7 @@ works:
     url: /works/525085/
   - title: Rossia kei Hitozuma to Doutei kun no Himitsu no Kankei
     author: kibi-anmitsu
-    cover: /covers/530293.jpg
+    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/530293.jpg
     rating: 4.7
     date: '2026-05-20'
     code: 530293
@@ -395,7 +395,7 @@ works:
     url: /works/578147/
   - title: Himitsu Koueki + Kake
     author: tsukumo-nikyu
-    cover: /covers/586316.jpg
+    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/586316.jpg
     rating: 4.9
     date: '2026-08-22'
     code: 586316
@@ -534,7 +534,7 @@ works:
     url: /works/635795/
   - title: BUTA - 『You did a great job』
     author: buta
-    cover: /covers/639772.jpg
+    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/639772.jpg
     rating: 4.1
     date: '2026-08-23'
     code: 639772
@@ -603,7 +603,7 @@ works:
   - title: 'YariCir Shingakki ni Boku no Heya wa Minna no Tamariba (Omake Ver.) - Fuck
       Club: New Term! My Room''s A Hangout Spot For Everyone'
     author: purumetal
-    cover: /covers/645507.jpg
+    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/645507.jpg
     rating: 4.2
     date: '2026-04-23'
     code: 645507
@@ -743,7 +743,7 @@ works:
     url: /works/652218/
   - title: Tonari no Ayane-san Soushuuhen | My Neighbor Ayane Anthology
     author: herio
-    cover: /covers/656319.jpg
+    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/656319.jpg
     rating: 4.8
     date: '2026-08-18'
     code: 656319

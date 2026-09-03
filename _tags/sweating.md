@@ -425,7 +425,7 @@ works:
   - title: Na mo Naki Dousei Couple no Sex ga Ichiban Eroi yo ne | Sex Between Gloomy
       Types is the Hottest, Ain't It? Epilogue
     author: doji-ro
-    cover: /covers/646986.jpg
+    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/646986.jpg
     rating: 4.2
     date: '2026-04-30'
     code: 646986
@@ -439,7 +439,7 @@ works:
     url: /works/647270/
   - title: 'Library Girlfriend: Descent into Depravity'
     author: ame-arare
-    cover: /covers/647334.jpg
+    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/647334.jpg
     rating: 4.6
     date: '2026-05-01'
     code: 647334
@@ -489,7 +489,7 @@ works:
   - title: You're My Doggy... Right? ~Pamper Loving Boyfriend Becomes A Wild Sadist
       Hound~
     author: the-waidan
-    cover: /covers/649029.jpg
+    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/649029.jpg
     rating: 4.9
     date: '2026-05-10'
     code: 649029
@@ -503,14 +503,14 @@ works:
     url: /works/649033/
   - title: I Want To Take Hikaru Narumi's First Time
     author: concontochu
-    cover: /covers/649039.jpg
+    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/649039.jpg
     rating: 4.6
     date: '2026-05-10'
     code: 649039
     url: /works/649039/
   - title: Haijoku Underground
     author: dpc-deinoji
-    cover: /covers/649068.jpg
+    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/649068.jpg
     rating: 4.2
     date: '2026-05-10'
     code: 649068
@@ -562,14 +562,14 @@ works:
     url: /works/652632/
   - title: My Impertinent and Curt Kouhai Becomes Surprisingly Clingy???
     author: buki
-    cover: /covers/652667.jpg
+    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/652667.jpg
     rating: 4.4
     date: '2026-05-26'
     code: 652667
     url: /works/652667/
   - title: Tonari no Ayane-san Soushuuhen | My Neighbor Ayane Anthology
     author: herio
-    cover: /covers/656319.jpg
+    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/656319.jpg
     rating: 4.8
     date: '2026-08-18'
     code: 656319

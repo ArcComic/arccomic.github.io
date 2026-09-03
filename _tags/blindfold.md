@@ -72,7 +72,7 @@ works:
   - title: 'YariCir Shingakki ni Boku no Heya wa Minna no Tamariba (Omake Ver.) - Fuck
       Club: New Term! My Room''s A Hangout Spot For Everyone'
     author: purumetal
-    cover: /covers/645507.jpg
+    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/645507.jpg
     rating: 4.2
     date: '2026-04-23'
     code: 645507
@@ -115,7 +115,7 @@ works:
     url: /works/674587/
   - title: Midnight Lilies Full Release
     author: landacdeus
-    cover: /covers/674863.jpg
+    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/674863.jpg
     rating: 4.4
     date: '2026-08-22'
     code: 674863

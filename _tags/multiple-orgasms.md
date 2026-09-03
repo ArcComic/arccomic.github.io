@@ -80,7 +80,7 @@ works:
   - title: Taido mo Karada mo Zenbu deka I Segawa-san no Gachi koi Taisho ni Narimashita
       | I’ve Become The Target of His Affection!
     author: the-waidan
-    cover: /covers/534823.jpg
+    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/534823.jpg
     rating: 4.7
     date: '2026-05-03'
     code: 534823
@@ -254,7 +254,7 @@ works:
   - title: 'YariCir Shingakki ni Boku no Heya wa Minna no Tamariba (Omake Ver.) - Fuck
       Club: New Term! My Room''s A Hangout Spot For Everyone'
     author: purumetal
-    cover: /covers/645507.jpg
+    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/645507.jpg
     rating: 4.2
     date: '2026-04-23'
     code: 645507
@@ -277,7 +277,7 @@ works:
   - title: Na mo Naki Dousei Couple no Sex ga Ichiban Eroi yo ne | Sex Between Gloomy
       Types is the Hottest, Ain't It? Epilogue
     author: doji-ro
-    cover: /covers/646986.jpg
+    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/646986.jpg
     rating: 4.2
     date: '2026-04-30'
     code: 646986
@@ -298,7 +298,7 @@ works:
     url: /works/647620/
   - title: My Annoying Little Cousin Stole My First Time
     author: karube-guri
-    cover: /covers/647853.jpg
+    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/647853.jpg
     rating: 4.7
     date: '2026-05-07'
     code: 647853
@@ -314,7 +314,7 @@ works:
   - title: You're My Doggy... Right? ~Pamper Loving Boyfriend Becomes A Wild Sadist
       Hound~
     author: the-waidan
-    cover: /covers/649029.jpg
+    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/649029.jpg
     rating: 4.9
     date: '2026-05-10'
     code: 649029
@@ -328,7 +328,7 @@ works:
     url: /works/649033/
   - title: I Want To Take Hikaru Narumi's First Time
     author: concontochu
-    cover: /covers/649039.jpg
+    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/649039.jpg
     rating: 4.6
     date: '2026-05-10'
     code: 649039
@@ -379,7 +379,7 @@ works:
     url: /works/652244/
   - title: My Impertinent and Curt Kouhai Becomes Surprisingly Clingy???
     author: buki
-    cover: /covers/652667.jpg
+    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/652667.jpg
     rating: 4.4
     date: '2026-05-26'
     code: 652667
@@ -394,7 +394,7 @@ works:
     url: /works/652790/
   - title: Tonari no Ayane-san Soushuuhen | My Neighbor Ayane Anthology
     author: herio
-    cover: /covers/656319.jpg
+    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/656319.jpg
     rating: 4.8
     date: '2026-08-18'
     code: 656319

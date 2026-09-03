@@ -59,7 +59,7 @@ works:
     url: /works/646969/
   - title: My Impertinent and Curt Kouhai Becomes Surprisingly Clingy???
     author: buki
-    cover: /covers/652667.jpg
+    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/652667.jpg
     rating: 4.4
     date: '2026-05-26'
     code: 652667

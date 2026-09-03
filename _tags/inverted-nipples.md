@@ -58,7 +58,7 @@ works:
     url: /works/606166/
   - title: BUTA - 『You did a great job』
     author: buta
-    cover: /covers/639772.jpg
+    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/639772.jpg
     rating: 4.1
     date: '2026-08-23'
     code: 639772
@@ -123,7 +123,7 @@ works:
     url: /works/664429/
   - title: nekonimatatabi
     author: yuzuto-sen
-    cover: /covers/674592.jpg
+    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/674592.jpg
     rating: 4.0
     date: '2026-08-21'
     code: 674592

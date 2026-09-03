@@ -86,7 +86,7 @@ works:
   - title: Inemuri-chou no Onna Joushi ni Kossori Sounyuu ( ※ Netafuri Shinagara Ittemashita)
       1-3 | Stealthily Fucking My Dozing Boss (She Came While Pretending to Sleep) 1-3
     author: nanakusa-amane
-    cover: /covers/509049.jpg
+    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/509049.jpg
     rating: 4.1
     date: '2026-04-23'
     code: 509049
@@ -188,7 +188,7 @@ works:
     url: /works/548852/
   - title: Nakayoku no Yu e Youkoso Ch. 2 & 3
     author: enomoto-heights
-    cover: /covers/555849.jpg
+    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/555849.jpg
     rating: 4.5
     date: '2026-04-30'
     code: 555849
@@ -426,7 +426,7 @@ works:
     url: /works/639514/
   - title: BUTA - 『You did a great job』
     author: buta
-    cover: /covers/639772.jpg
+    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/639772.jpg
     rating: 4.1
     date: '2026-08-23'
     code: 639772
@@ -476,7 +476,7 @@ works:
     url: /works/647620/
   - title: My Annoying Little Cousin Stole My First Time
     author: karube-guri
-    cover: /covers/647853.jpg
+    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/647853.jpg
     rating: 4.7
     date: '2026-05-07'
     code: 647853
@@ -507,14 +507,14 @@ works:
   - title: You're My Doggy... Right? ~Pamper Loving Boyfriend Becomes A Wild Sadist
       Hound~
     author: the-waidan
-    cover: /covers/649029.jpg
+    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/649029.jpg
     rating: 4.9
     date: '2026-05-10'
     code: 649029
     url: /works/649029/
   - title: I Want To Take Hikaru Narumi's First Time
     author: concontochu
-    cover: /covers/649039.jpg
+    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/649039.jpg
     rating: 4.6
     date: '2026-05-10'
     code: 649039
@@ -550,7 +550,7 @@ works:
     url: /works/652244/
   - title: My Impertinent and Curt Kouhai Becomes Surprisingly Clingy???
     author: buki
-    cover: /covers/652667.jpg
+    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/652667.jpg
     rating: 4.4
     date: '2026-05-26'
     code: 652667
@@ -564,7 +564,7 @@ works:
     url: /works/652801/
   - title: Tonari no Ayane-san Soushuuhen | My Neighbor Ayane Anthology
     author: herio
-    cover: /covers/656319.jpg
+    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/656319.jpg
     rating: 4.8
     date: '2026-08-18'
     code: 656319
@@ -652,7 +652,7 @@ works:
     url: /works/664742/
   - title: Miya-chan no Kyuuin Life! - Chapter 12
     author: furumoto-takeru
-    cover: /covers/664766.jpg
+    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/664766.jpg
     rating: 4.2
     date: '2026-07-17'
     code: 664766

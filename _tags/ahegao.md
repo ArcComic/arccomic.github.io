@@ -181,7 +181,7 @@ works:
   - title: Moto Mahou Shoujo no Hikikomori Seikatsu | The NEET Life of a Former Magical
       Girl
     author: zhen-lu
-    cover: /covers/506303.jpg
+    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/506303.jpg
     rating: 4.4
     date: '2026-04-23'
     code: 506303
@@ -735,7 +735,7 @@ works:
     url: /works/647315/
   - title: 'Library Girlfriend: Descent into Depravity'
     author: ame-arare
-    cover: /covers/647334.jpg
+    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/647334.jpg
     rating: 4.6
     date: '2026-05-01'
     code: 647334
@@ -750,7 +750,7 @@ works:
     url: /works/647809/
   - title: My Annoying Little Cousin Stole My First Time
     author: karube-guri
-    cover: /covers/647853.jpg
+    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/647853.jpg
     rating: 4.7
     date: '2026-05-07'
     code: 647853
@@ -802,7 +802,7 @@ works:
   - title: You're My Doggy... Right? ~Pamper Loving Boyfriend Becomes A Wild Sadist
       Hound~
     author: the-waidan
-    cover: /covers/649029.jpg
+    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/649029.jpg
     rating: 4.9
     date: '2026-05-10'
     code: 649029
@@ -816,7 +816,7 @@ works:
     url: /works/649033/
   - title: I Want To Take Hikaru Narumi's First Time
     author: concontochu
-    cover: /covers/649039.jpg
+    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/649039.jpg
     rating: 4.6
     date: '2026-05-10'
     code: 649039
@@ -927,7 +927,7 @@ works:
     url: /works/655498/
   - title: Tonari no Ayane-san Soushuuhen | My Neighbor Ayane Anthology
     author: herio
-    cover: /covers/656319.jpg
+    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/656319.jpg
     rating: 4.8
     date: '2026-08-18'
     code: 656319
@@ -1107,7 +1107,7 @@ works:
     url: /works/668867/
   - title: Igyou Koubi Kairaku Jigoku 1 + 2
     author: allegro
-    cover: /covers/668880.jpg
+    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/668880.jpg
     rating: 4.9
     date: '2026-08-23'
     code: 668880
@@ -1130,7 +1130,7 @@ works:
     url: /works/674639/
   - title: Hitoe-san no warui kuse | Hitoe's Bad Habit
     author: jirou
-    cover: /covers/674702.jpg
+    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/674702.jpg
     rating: 4.5
     date: '2026-08-21'
     code: 674702
@@ -1163,7 +1163,7 @@ works:
     url: /works/675048/
   - title: Mesu no Ie III ~Oyako wa Midare Aisareru~
     author: ame-arare
-    cover: /covers/675981.jpg
+    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/675981.jpg
     rating: 4.4
     date: '2026-08-28'
     code: 675981

@@ -5,7 +5,7 @@ work_count: 316
 works:
   - title: Watashi no Karada, Okashi Shimasu. Bunny Girl Edition
     author: nectar
-    cover: /covers/441339.jpg
+    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/441339.jpg
     rating: 4.5
     date: '2026-05-10'
     code: 441339
@@ -518,7 +518,7 @@ works:
     url: /works/616170/
   - title: Tsuma ni Ani to Kozukuri Shite Moraimashita
     author: furaimai
-    cover: /covers/616367.jpg
+    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/616367.jpg
     rating: 4.2
     date: '2026-08-25'
     code: 616367
@@ -554,7 +554,7 @@ works:
     url: /works/624694/
   - title: Naisho no An-chan
     author: seto-ryouko
-    cover: /covers/627126.jpg
+    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/627126.jpg
     rating: 4.6
     date: '2026-08-22'
     code: 627126
@@ -569,7 +569,7 @@ works:
     url: /works/627182/
   - title: A tsundere girl who loves dick cheese and speaks Kansai dialect
     author: yuuki-fuumi
-    cover: /covers/630901.jpg
+    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/630901.jpg
     rating: 4.6
     date: '2026-07-06'
     code: 630901
@@ -962,7 +962,7 @@ works:
   - title: Na mo Naki Dousei Couple no Sex ga Ichiban Eroi yo ne | Sex Between Gloomy
       Types is the Hottest, Ain't It? Epilogue
     author: doji-ro
-    cover: /covers/646986.jpg
+    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/646986.jpg
     rating: 4.2
     date: '2026-04-30'
     code: 646986
@@ -976,7 +976,7 @@ works:
     url: /works/647315/
   - title: 'Library Girlfriend: Descent into Depravity'
     author: ame-arare
-    cover: /covers/647334.jpg
+    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/647334.jpg
     rating: 4.6
     date: '2026-05-01'
     code: 647334
@@ -1013,7 +1013,7 @@ works:
     url: /works/647809/
   - title: My Annoying Little Cousin Stole My First Time
     author: karube-guri
-    cover: /covers/647853.jpg
+    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/647853.jpg
     rating: 4.7
     date: '2026-05-07'
     code: 647853
@@ -1093,7 +1093,7 @@ works:
     url: /works/648800/
   - title: Haijoku Underground
     author: dpc-deinoji
-    cover: /covers/649068.jpg
+    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/649068.jpg
     rating: 4.2
     date: '2026-05-10'
     code: 649068
@@ -1158,7 +1158,7 @@ works:
     url: /works/651442/
   - title: M Ko
     author: takaku-tubby-shirono-mahiro
-    cover: /covers/651489.jpg
+    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/651489.jpg
     rating: 4.4
     date: '2026-05-21'
     code: 651489
@@ -1271,7 +1271,7 @@ works:
     url: /works/655291/
   - title: Karada ga Binkan Sugiru Watashi wa Itoko ni Itazura sarete mo Teikoudekinai!
     author: romomata
-    cover: /covers/655421.jpg
+    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/655421.jpg
     rating: 5.0
     date: '2026-08-21'
     code: 655421
@@ -1314,7 +1314,7 @@ works:
     url: /works/656140/
   - title: Gomen, Kaa-san Otonashiiku Shite
     author: daidai-shikibu
-    cover: /covers/656143.jpg
+    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/656143.jpg
     rating: 4.9
     date: '2026-08-25'
     code: 656143
@@ -1804,7 +1804,7 @@ works:
     url: /works/664798/
   - title: Mukatsuku Juumai no Kuchimanko ni Kounai Shasei suru Hanashi.
     author: karube-guri
-    cover: /covers/664820.jpg
+    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/664820.jpg
     rating: 5.0
     date: '2026-07-16'
     code: 664820
@@ -1892,7 +1892,7 @@ works:
     url: /works/673774/
   - title: Pawahara Onna Joshi, Yowami wo Nigirarete Zenra Dogeza de Fukujuu S
     author: miyamoto-muga
-    cover: /covers/673775.jpg
+    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/673775.jpg
     rating: 4.6
     date: '2026-08-18'
     code: 673775
@@ -2000,7 +2000,7 @@ works:
     url: /works/674587/
   - title: nekonimatatabi
     author: yuzuto-sen
-    cover: /covers/674592.jpg
+    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/674592.jpg
     rating: 4.0
     date: '2026-08-21'
     code: 674592
@@ -2114,14 +2114,14 @@ works:
     url: /works/674922/
   - title: Josō Kyanpasu Hora re Raifu u~izu Yarichin
     author: brother-pierrot
-    cover: /covers/674945.jpg
+    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/674945.jpg
     rating: 4.9
     date: '2026-08-22'
     code: 674945
     url: /works/674945/
   - title: Hakkyou Suru Koi ~Imouto no Shinyuu o Boko Shite Rape~
     author: akiboshigai
-    cover: /covers/674948.jpg
+    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/674948.jpg
     rating: 4.7
     date: '2026-08-22'
     code: 674948
@@ -2164,7 +2164,7 @@ works:
     url: /works/674984/
   - title: Mesu no Ie III ~Oyako wa Midare Aisareru~
     author: ame-arare
-    cover: /covers/675981.jpg
+    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/675981.jpg
     rating: 4.4
     date: '2026-08-28'
     code: 675981

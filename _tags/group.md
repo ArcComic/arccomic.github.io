@@ -198,7 +198,7 @@ works:
     url: /works/543494/
   - title: Nakayoku no Yu e Youkoso Ch. 2 & 3
     author: enomoto-heights
-    cover: /covers/555849.jpg
+    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/555849.jpg
     rating: 4.5
     date: '2026-04-30'
     code: 555849
@@ -440,7 +440,7 @@ works:
   - title: 'YariCir Shingakki ni Boku no Heya wa Minna no Tamariba (Omake Ver.) - Fuck
       Club: New Term! My Room''s A Hangout Spot For Everyone'
     author: purumetal
-    cover: /covers/645507.jpg
+    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/645507.jpg
     rating: 4.2
     date: '2026-04-23'
     code: 645507
@@ -543,7 +543,7 @@ works:
     url: /works/648800/
   - title: Haijoku Underground
     author: dpc-deinoji
-    cover: /covers/649068.jpg
+    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/649068.jpg
     rating: 4.2
     date: '2026-05-10'
     code: 649068
@@ -783,7 +783,7 @@ works:
     url: /works/675048/
   - title: Mesu no Ie III ~Oyako wa Midare Aisareru~
     author: ame-arare
-    cover: /covers/675981.jpg
+    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/675981.jpg
     rating: 4.4
     date: '2026-08-28'
     code: 675981
@@ -804,7 +804,7 @@ works:
     url: /works/676197/
   - title: Otona no Asobi wo Manabitai | I Wanna Learn How Adults Have Fun!
     author: jairou-xil
-    cover: /covers/676325.jpg
+    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/676325.jpg
     rating: 4.5
     date: '2026-08-29'
     code: 676325

@@ -120,7 +120,7 @@ works:
   - title: Inemuri-chou no Onna Joushi ni Kossori Sounyuu ( ※ Netafuri Shinagara Ittemashita)
       1-3 | Stealthily Fucking My Dozing Boss (She Came While Pretending to Sleep) 1-3
     author: nanakusa-amane
-    cover: /covers/509049.jpg
+    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/509049.jpg
     rating: 4.1
     date: '2026-04-23'
     code: 509049
@@ -326,7 +326,7 @@ works:
     url: /works/664191/
   - title: Miya-chan no Kyuuin Life! - Chapter 12
     author: furumoto-takeru
-    cover: /covers/664766.jpg
+    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/664766.jpg
     rating: 4.2
     date: '2026-07-17'
     code: 664766
@@ -362,7 +362,7 @@ works:
     url: /works/674587/
   - title: nekonimatatabi
     author: yuzuto-sen
-    cover: /covers/674592.jpg
+    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/674592.jpg
     rating: 4.0
     date: '2026-08-21'
     code: 674592
@@ -376,7 +376,7 @@ works:
     url: /works/674950/
   - title: Otona no Asobi wo Manabitai | I Wanna Learn How Adults Have Fun!
     author: jairou-xil
-    cover: /covers/676325.jpg
+    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/676325.jpg
     rating: 4.5
     date: '2026-08-29'
     code: 676325

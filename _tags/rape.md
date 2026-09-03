@@ -384,7 +384,7 @@ works:
   - title: Ottori Itome no Oba o Odoshite Hamete Iinari Onaho-ka Keikaku | Gentle Slit-Eyed
       Aunty Blackmail & Obedient Fuckhole Training Project
     author: ginen
-    cover: /covers/611978.jpg
+    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/611978.jpg
     rating: 4.0
     date: '2026-08-25'
     code: 611978
@@ -594,7 +594,7 @@ works:
     url: /works/647315/
   - title: 'Library Girlfriend: Descent into Depravity'
     author: ame-arare
-    cover: /covers/647334.jpg
+    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/647334.jpg
     rating: 4.6
     date: '2026-05-01'
     code: 647334
@@ -623,7 +623,7 @@ works:
     url: /works/648093/
   - title: Haijoku Underground
     author: dpc-deinoji
-    cover: /covers/649068.jpg
+    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/649068.jpg
     rating: 4.2
     date: '2026-05-10'
     code: 649068
@@ -694,7 +694,7 @@ works:
     url: /works/655291/
   - title: Karada ga Binkan Sugiru Watashi wa Itoko ni Itazura sarete mo Teikoudekinai!
     author: romomata
-    cover: /covers/655421.jpg
+    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/655421.jpg
     rating: 5.0
     date: '2026-08-21'
     code: 655421
@@ -722,7 +722,7 @@ works:
     url: /works/656140/
   - title: Gomen, Kaa-san Otonashiiku Shite
     author: daidai-shikibu
-    cover: /covers/656143.jpg
+    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/656143.jpg
     rating: 4.9
     date: '2026-08-25'
     code: 656143
@@ -930,7 +930,7 @@ works:
     url: /works/674701/
   - title: Hakkyou Suru Koi ~Imouto no Shinyuu o Boko Shite Rape~
     author: akiboshigai
-    cover: /covers/674948.jpg
+    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/674948.jpg
     rating: 4.7
     date: '2026-08-22'
     code: 674948

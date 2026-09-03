@@ -12,7 +12,7 @@ works:
     url: /works/441114/
   - title: Gal to no Asobikata | How to Have Fun With Gyarus!
     author: buta
-    cover: /covers/531967.jpg
+    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/531967.jpg
     rating: 4.4
     date: '2026-08-23'
     code: 531967
@@ -26,7 +26,7 @@ works:
     url: /works/631036/
   - title: BUTA - 『You did a great job』
     author: buta
-    cover: /covers/639772.jpg
+    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/639772.jpg
     rating: 4.1
     date: '2026-08-23'
     code: 639772

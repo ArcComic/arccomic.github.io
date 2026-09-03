@@ -28,7 +28,7 @@ works:
     url: /works/527621/
   - title: Rossia kei Hitozuma to Doutei kun no Himitsu no Kankei
     author: kibi-anmitsu
-    cover: /covers/530293.jpg
+    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/530293.jpg
     rating: 4.7
     date: '2026-05-20'
     code: 530293
@@ -50,7 +50,7 @@ works:
     url: /works/584934/
   - title: Tsuma ni Ani to Kozukuri Shite Moraimashita
     author: furaimai
-    cover: /covers/616367.jpg
+    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/616367.jpg
     rating: 4.2
     date: '2026-08-25'
     code: 616367
@@ -79,14 +79,14 @@ works:
     url: /works/618562/
   - title: Naisho no An-chan
     author: seto-ryouko
-    cover: /covers/627126.jpg
+    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/627126.jpg
     rating: 4.6
     date: '2026-08-22'
     code: 627126
     url: /works/627126/
   - title: A tsundere girl who loves dick cheese and speaks Kansai dialect
     author: yuuki-fuumi
-    cover: /covers/630901.jpg
+    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/630901.jpg
     rating: 4.6
     date: '2026-07-06'
     code: 630901
@@ -312,7 +312,7 @@ works:
     url: /works/655291/
   - title: Karada ga Binkan Sugiru Watashi wa Itoko ni Itazura sarete mo Teikoudekinai!
     author: romomata
-    cover: /covers/655421.jpg
+    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/655421.jpg
     rating: 5.0
     date: '2026-08-21'
     code: 655421
@@ -347,7 +347,7 @@ works:
     url: /works/656140/
   - title: Gomen, Kaa-san Otonashiiku Shite
     author: daidai-shikibu
-    cover: /covers/656143.jpg
+    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/656143.jpg
     rating: 4.9
     date: '2026-08-25'
     code: 656143
@@ -541,7 +541,7 @@ works:
     url: /works/673774/
   - title: Pawahara Onna Joshi, Yowami wo Nigirarete Zenra Dogeza de Fukujuu S
     author: miyamoto-muga
-    cover: /covers/673775.jpg
+    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/673775.jpg
     rating: 4.6
     date: '2026-08-18'
     code: 673775
@@ -616,14 +616,14 @@ works:
     url: /works/674701/
   - title: Josō Kyanpasu Hora re Raifu u~izu Yarichin
     author: brother-pierrot
-    cover: /covers/674945.jpg
+    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/674945.jpg
     rating: 4.9
     date: '2026-08-22'
     code: 674945
     url: /works/674945/
   - title: Hakkyou Suru Koi ~Imouto no Shinyuu o Boko Shite Rape~
     author: akiboshigai
-    cover: /covers/674948.jpg
+    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/674948.jpg
     rating: 4.7
     date: '2026-08-22'
     code: 674948

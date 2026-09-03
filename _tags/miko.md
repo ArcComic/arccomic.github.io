@@ -5,7 +5,7 @@ work_count: 3
 works:
   - title: Igyou Koubi Kairaku Jigoku 1 + 2
     author: allegro
-    cover: /covers/668880.jpg
+    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/668880.jpg
     rating: 4.9
     date: '2026-08-23'
     code: 668880

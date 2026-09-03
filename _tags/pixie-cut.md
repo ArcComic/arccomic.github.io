@@ -62,7 +62,7 @@ works:
     url: /works/561787/
   - title: Himitsu Koueki + Kake
     author: tsukumo-nikyu
-    cover: /covers/586316.jpg
+    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/586316.jpg
     rating: 4.9
     date: '2026-08-22'
     code: 586316
@@ -135,7 +135,7 @@ works:
     url: /works/651338/
   - title: My Impertinent and Curt Kouhai Becomes Surprisingly Clingy???
     author: buki
-    cover: /covers/652667.jpg
+    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/652667.jpg
     rating: 4.4
     date: '2026-05-26'
     code: 652667

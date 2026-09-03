@@ -26,7 +26,7 @@ works:
     url: /works/620818/
   - title: Hakkyou Suru Koi ~Imouto no Shinyuu o Boko Shite Rape~
     author: akiboshigai
-    cover: /covers/674948.jpg
+    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/674948.jpg
     rating: 4.7
     date: '2026-08-22'
     code: 674948

@@ -130,7 +130,7 @@ works:
   - title: 'YariCir Shingakki ni Boku no Heya wa Minna no Tamariba (Omake Ver.) - Fuck
       Club: New Term! My Room''s A Hangout Spot For Everyone'
     author: purumetal
-    cover: /covers/645507.jpg
+    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/645507.jpg
     rating: 4.2
     date: '2026-04-23'
     code: 645507
@@ -200,7 +200,7 @@ works:
     url: /works/648550/
   - title: Haijoku Underground
     author: dpc-deinoji
-    cover: /covers/649068.jpg
+    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/649068.jpg
     rating: 4.2
     date: '2026-05-10'
     code: 649068
@@ -223,7 +223,7 @@ works:
     url: /works/651303/
   - title: M Ko
     author: takaku-tubby-shirono-mahiro
-    cover: /covers/651489.jpg
+    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/651489.jpg
     rating: 4.4
     date: '2026-05-21'
     code: 651489
@@ -282,14 +282,14 @@ works:
     url: /works/674701/
   - title: Midnight Lilies Full Release
     author: landacdeus
-    cover: /covers/674863.jpg
+    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/674863.jpg
     rating: 4.4
     date: '2026-08-22'
     code: 674863
     url: /works/674863/
   - title: Hakkyou Suru Koi ~Imouto no Shinyuu o Boko Shite Rape~
     author: akiboshigai
-    cover: /covers/674948.jpg
+    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/674948.jpg
     rating: 4.7
     date: '2026-08-22'
     code: 674948

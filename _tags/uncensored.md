@@ -54,7 +54,7 @@ works:
     url: /works/484860/
   - title: Mimikyu Myth 2
     author: meowwithme
-    cover: /covers/500102.jpg
+    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/500102.jpg
     rating: 4.5
     date: '2026-05-03'
     code: 500102
@@ -69,7 +69,7 @@ works:
   - title: Moto Mahou Shoujo no Hikikomori Seikatsu | The NEET Life of a Former Magical
       Girl
     author: zhen-lu
-    cover: /covers/506303.jpg
+    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/506303.jpg
     rating: 4.4
     date: '2026-04-23'
     code: 506303
@@ -351,7 +351,7 @@ works:
     url: /works/647270/
   - title: My Annoying Little Cousin Stole My First Time
     author: karube-guri
-    cover: /covers/647853.jpg
+    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/647853.jpg
     rating: 4.7
     date: '2026-05-07'
     code: 647853
@@ -401,7 +401,7 @@ works:
     url: /works/656140/
   - title: Tonari no Ayane-san Soushuuhen | My Neighbor Ayane Anthology
     author: herio
-    cover: /covers/656319.jpg
+    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/656319.jpg
     rating: 4.8
     date: '2026-08-18'
     code: 656319
@@ -479,7 +479,7 @@ works:
     url: /works/674710/
   - title: Midnight Lilies Full Release
     author: landacdeus
-    cover: /covers/674863.jpg
+    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/674863.jpg
     rating: 4.4
     date: '2026-08-22'
     code: 674863

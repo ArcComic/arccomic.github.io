@@ -12,7 +12,7 @@ works:
     url: /works/599514/
   - title: A tsundere girl who loves dick cheese and speaks Kansai dialect
     author: yuuki-fuumi
-    cover: /covers/630901.jpg
+    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/630901.jpg
     rating: 4.6
     date: '2026-07-06'
     code: 630901

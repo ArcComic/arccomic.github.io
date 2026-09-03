@@ -20,7 +20,7 @@ works:
     url: /works/616358/
   - title: M Ko
     author: takaku-tubby-shirono-mahiro
-    cover: /covers/651489.jpg
+    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/651489.jpg
     rating: 4.4
     date: '2026-05-21'
     code: 651489
