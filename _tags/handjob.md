@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "handjob"
-work_count: 18
+work_count: 19
 works:
   - title: Yuri no o saifu ni shite agemasu ne, Senpai | I'll turn you into Yuri's wallet,
       Senpai
@@ -71,6 +71,14 @@ works:
     date: '2026-08-22'
     code: 652912
     url: /works/652912/
+  - title: Boshi Jouji ~Daisuki na Okaa-san to Konya Majiwaru~ - MOTHER AND SON LOVE
+      AFFAIR | A Mother's Love ~Tonight I Become One With The Mom I Love~ Part 2
+    author: shiono-kou
+    cover: /covers/662142.jpg
+    rating: 4.4
+    date: '2026-07-08'
+    code: 662142
+    url: /works/662142/
   - title: Gal to Otaku no Idenshi Aishou Batsugun H | The Superb Genetic Compatibility
       Between a Gyaru and an Otaku
     author: joucho

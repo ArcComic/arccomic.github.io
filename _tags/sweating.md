@@ -1,8 +1,22 @@
 ---
 layout: tag
 tag_name: "sweating"
-work_count: 19
+work_count: 23
 works:
+  - title: CHOCO x LOVE
+    author: highlow
+    cover: /covers/317673.jpg
+    rating: 4.4
+    date: '2026-07-09'
+    code: 317673
+    url: /works/317673/
+  - title: Yurikago
+    author: neko-samurai
+    cover: /covers/398305.jpg
+    rating: 5.0
+    date: '2026-07-10'
+    code: 398305
+    url: /works/398305/
   - title: Konoe no Kyuujitsu | Konoe's Day Off
     author: alp
     cover: /covers/479447.jpg
@@ -41,6 +55,15 @@ works:
     date: '2026-07-16'
     code: 605410
     url: /works/605410/
+  - title: Kareshi ni Betabore Chuu no Gal Senpai ga, Ore to Tsukiau made - Be my girlfriend!
+      Rio-senpai! | Being Clingy with Your Boyfriend... Kyaru, Senpai Why Not Date Me
+      Next?
+    author: butter-drip
+    cover: /covers/633278.jpg
+    rating: 4.4
+    date: '2026-07-10'
+    code: 633278
+    url: /works/633278/
   - title: Manatsu no Refrain | Midsummer's Refrain
     author: gen
     cover: /covers/639514.jpg
@@ -62,6 +85,13 @@ works:
     date: '2026-08-22'
     code: 659484
     url: /works/659484/
+  - title: Seiyoku Tsuyosugi GalKano Mama
+    author: naporitan
+    cover: /covers/662525.jpg
+    rating: 4.2
+    date: '2026-07-09'
+    code: 662525
+    url: /works/662525/
   - title: Ohogoe wo Hiteishita Hitozuma ga Otosareru Hanashi | The Married Woman Who
       Denied Her Crazy Moans Was Defeated
     author: hikitogu

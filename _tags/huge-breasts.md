@@ -1,8 +1,16 @@
 ---
 layout: tag
 tag_name: "huge breasts"
-work_count: 11
+work_count: 14
 works:
+  - title: Ane no Tomodachi to SeFri ni Natta | My Big Sister's Friends And I Became
+      Sex Friends
+    author: rinrikoko
+    cover: /covers/538553.jpg
+    rating: 4.8
+    date: '2026-07-11'
+    code: 538553
+    url: /works/538553/
   - title: Kyoushi to Mama to Koibito no Kao
     author: mifune-seijirou
     cover: /covers/592307.jpg
@@ -18,6 +26,13 @@ works:
     date: '2026-08-25'
     code: 611978
     url: /works/611978/
+  - title: Musume no Kawari ni | Instead of My Daughter
+    author: nanao-yukiji
+    cover: /covers/651309.jpg
+    rating: 4.1
+    date: '2026-07-11'
+    code: 651309
+    url: /works/651309/
   - title: Tonari no Ayane-san Soushuuhen | My Neighbor Ayane Anthology
     author: herio
     cover: /covers/656319.jpg
@@ -25,6 +40,13 @@ works:
     date: '2026-08-18'
     code: 656319
     url: /works/656319/
+  - title: Kareshi no Tame ni Nugimasu. - I'll take it off for my boyfriend.
+    author: mitsuki
+    cover: /covers/662890.jpg
+    rating: 4.7
+    date: '2026-07-10'
+    code: 662890
+    url: /works/662890/
   - title: Gal to Otaku no Idenshi Aishou Batsugun H | The Superb Genetic Compatibility
       Between a Gyaru and an Otaku
     author: joucho

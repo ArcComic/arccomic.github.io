@@ -1,8 +1,36 @@
 ---
 layout: tag
 tag_name: "sister"
-work_count: 14
+work_count: 20
 works:
+  - title: Imouto no Nukumori | A Little Sister's warmth
+    author: kinomoto-anzu
+    cover: /covers/407959.jpg
+    rating: 4.5
+    date: '2026-07-10'
+    code: 407959
+    url: /works/407959/
+  - title: Neteru Onii-chan no Are o Kariru Hanashi
+    author: tiger
+    cover: /covers/476399.jpg
+    rating: 4.9
+    date: '2026-07-10'
+    code: 476399
+    url: /works/476399/
+  - title: Aka-chan Tsukuri no Yoshuu | Preview Lesson About Babymaking
+    author: highlow
+    cover: /covers/555216.jpg
+    rating: 4.2
+    date: '2026-07-09'
+    code: 555216
+    url: /works/555216/
+  - title: Kanojo no Bad Luck ~Oya no Saikon, Dekita Gikei wa Seijuu Datta~
+    author: yokoshima
+    cover: /covers/608868.jpg
+    rating: 4.7
+    date: '2026-07-10'
+    code: 608868
+    url: /works/608868/
   - title: Tsuma ni Ani to Kozukuri Shite Moraimashita
     author: furaimai
     cover: /covers/616367.jpg
@@ -32,6 +60,13 @@ works:
     date: '2026-08-24'
     code: 642585
     url: /works/642585/
+  - title: Akogare no Oppai wa Ane no Aji
+    author: emine-kendama
+    cover: /covers/657256.jpg
+    rating: 5.0
+    date: '2026-07-09'
+    code: 657256
+    url: /works/657256/
   - title: Imouto ga Ore no Kanojo!? 2-haku 3-ka no Ecchi na Kankei | My Sister is My
       Girlfriend!? Sexual Relationship for Two Nights and Three Days
     author: katagiri-kaneharu
@@ -40,6 +75,13 @@ works:
     date: '2026-08-29'
     code: 660399
     url: /works/660399/
+  - title: Kimi wa Midara na Ohimesama | Your Own Lewd Princess
+    author: aoyama-kiiro
+    cover: /covers/662891.jpg
+    rating: 4.7
+    date: '2026-07-10'
+    code: 662891
+    url: /works/662891/
   - title: My Big brother
     author: momoyama-hato
     cover: /covers/664926.jpg

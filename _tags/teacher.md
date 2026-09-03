@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "teacher"
-work_count: 21
+work_count: 27
 works:
+  - title: Majimeni Yarimasu (Seitokaichou) Ch. 1-3
+    author: ikumo-taisuke
+    cover: /covers/346416.jpg
+    rating: 4.4
+    date: '2026-07-08'
+    code: 346416
+    url: /works/346416/
   - title: Megane Loli Choukyou Jugyou!! ~Otonashii Megane Lolikko ni Muriyari Dekachin
       Sounyuu~ | The Loli In Glasses' Training Lesson!! ~Force Fucking a Timid Glasses
       Wearing Loli With My Big Cock~ Ch. 1-5
@@ -20,6 +27,13 @@ works:
     date: '2026-08-18'
     code: 504436
     url: /works/504436/
+  - title: Yumemiru Shoujo - The Girl Who Dreams
+    author: fuuga
+    cover: /covers/50476.jpg
+    rating: 5.0
+    date: '2026-07-08'
+    code: 50476
+    url: /works/50476/
   - title: Koibito no Furi Shite Tara, Iki Goe ga…. Yukata Sugata no Kyonyuu Oneesan
       ni, Tamarazu Sounyuu 1 I Can’t Stop Myself From Penetrating My Big Boobed Older
       Female Cousin 1
@@ -97,6 +111,36 @@ works:
     date: '2026-07-16'
     code: 655498
     url: /works/655498/
+  - title: Jinin ’Futsuu’ Dekachichi Inkya J◯ no Maso Mesu ga Nagga〜i Chinpo de Shuuryou
+      Made♡
+    author: amrita
+    cover: /covers/661954.jpg
+    rating: 4.7
+    date: '2026-07-09'
+    code: 661954
+    url: /works/661954/
+  - title: Eightman sensei no okagede kanojo ga dekimashita! (4) | Thanks to Eightman-sensei,
+      I Got a Girlfriend!
+    author: eightman
+    cover: /covers/662329.jpg
+    rating: 4.6
+    date: '2026-07-08'
+    code: 662329
+    url: /works/662329/
+  - title: Akogare no Ano Hito wa | The Person I Admire
+    author: minami-chisato-arisawa-tsukasa
+    cover: /covers/662657.jpg
+    rating: 4.6
+    date: '2026-07-09'
+    code: 662657
+    url: /works/662657/
+  - title: Anal Hame Shitai Jukujo Shiri | This MILF Wants Anal Sex
+    author: bonske
+    cover: /covers/662658.jpg
+    rating: 4.7
+    date: '2026-07-09'
+    code: 662658
+    url: /works/662658/
   - title: Y-kun
     author: kireina-mochi
     cover: /covers/663130.jpg

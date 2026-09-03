@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big penis"
-work_count: 36
+work_count: 45
 works:
   - title: Netorare Ibe Kiba Shizuka | The Netorare of Kiba Shizuka
     author: terasu-mc
@@ -10,6 +10,20 @@ works:
     date: '2026-07-16'
     code: 288292
     url: /works/288292/
+  - title: Majimeni Yarimasu (Seitokaichou) Ch. 1-3
+    author: ikumo-taisuke
+    cover: /covers/346416.jpg
+    rating: 4.4
+    date: '2026-07-08'
+    code: 346416
+    url: /works/346416/
+  - title: Yurikago
+    author: neko-samurai
+    cover: /covers/398305.jpg
+    rating: 5.0
+    date: '2026-07-10'
+    code: 398305
+    url: /works/398305/
   - title: Musume no Kareshi ni Ochiru Okaa-san. 2 | A Mother Who Falls For Her Daughter's
       Boyfriend 2
     author: sinori
@@ -32,6 +46,14 @@ works:
     date: '2026-07-11'
     code: 501709
     url: /works/501709/
+  - title: Ane no Tomodachi to SeFri ni Natta | My Big Sister's Friends And I Became
+      Sex Friends
+    author: rinrikoko
+    cover: /covers/538553.jpg
+    rating: 4.8
+    date: '2026-07-11'
+    code: 538553
+    url: /works/538553/
   - title: Uwa, Mesugaki Tsuyoi! | Crap, This Mesugaki's Too Powerful!
     author: poncocchan
     cover: /covers/550359.jpg
@@ -111,6 +133,51 @@ works:
     date: '2026-07-17'
     code: 648073
     url: /works/648073/
+  - title: Musume no Kawari ni | Instead of My Daughter
+    author: nanao-yukiji
+    cover: /covers/651309.jpg
+    rating: 4.1
+    date: '2026-07-11'
+    code: 651309
+    url: /works/651309/
+  - title: Jinin ’Futsuu’ Dekachichi Inkya J◯ no Maso Mesu ga Nagga〜i Chinpo de Shuuryou
+      Made♡
+    author: amrita
+    cover: /covers/661954.jpg
+    rating: 4.7
+    date: '2026-07-09'
+    code: 661954
+    url: /works/661954/
+  - title: Boshi Jouji ~Daisuki na Okaa-san to Konya Majiwaru~ - MOTHER AND SON LOVE
+      AFFAIR | A Mother's Love ~Tonight I Become One With The Mom I Love~ Part 2
+    author: shiono-kou
+    cover: /covers/662142.jpg
+    rating: 4.4
+    date: '2026-07-08'
+    code: 662142
+    url: /works/662142/
+  - title: Eightman sensei no okagede kanojo ga dekimashita! (4) | Thanks to Eightman-sensei,
+      I Got a Girlfriend!
+    author: eightman
+    cover: /covers/662329.jpg
+    rating: 4.6
+    date: '2026-07-08'
+    code: 662329
+    url: /works/662329/
+  - title: Kyonyuu na Gibo, Nyuuyoku Chuu
+    author: ma-kurou-madou
+    cover: /covers/662334.jpg
+    rating: 4.4
+    date: '2026-07-08'
+    code: 662334
+    url: /works/662334/
+  - title: Kareshi no Tame ni Nugimasu. - I'll take it off for my boyfriend.
+    author: mitsuki
+    cover: /covers/662890.jpg
+    rating: 4.7
+    date: '2026-07-10'
+    code: 662890
+    url: /works/662890/
   - title: Y-kun
     author: kireina-mochi
     cover: /covers/663130.jpg

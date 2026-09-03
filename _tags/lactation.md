@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "lactation"
-work_count: 5
+work_count: 6
 works:
   - title: Imouto Oppai de Sukusuku Seikatsu
     author: asaomi-shimura
@@ -17,6 +17,13 @@ works:
     date: '2026-07-13'
     code: 648800
     url: /works/648800/
+  - title: Sister Sara to Madara-Chan
+    author: ohno-kanae
+    cover: /covers/662208.jpg
+    rating: 4.1
+    date: '2026-07-08'
+    code: 662208
+    url: /works/662208/
   - title: Onee-chan Tensei! Junyuu Isekai Seikatsu | Reincarnated Big Sister! Breastfeeding
       Sex Life in Another World
     author: mokuyama-hito

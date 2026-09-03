@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "urination"
-work_count: 11
+work_count: 13
 works:
   - title: Midara na Sensei wa Kirai desu ka? ~Sakura Aimi no Baai~ | Do you hate lewd
       teachers? ~The Case of Sakura Aimi~
@@ -18,6 +18,13 @@ works:
     date: '2026-08-18'
     code: 521812
     url: /works/521812/
+  - title: Rena
+    author: shinjima-saki
+    cover: /covers/537476.jpg
+    rating: 4.2
+    date: '2026-07-09'
+    code: 537476
+    url: /works/537476/
   - title: Ore wa Yome ni Sakaraenai... Seiheki o Nigirareteiru | I Can't Say No To
       My Wife... She's Got Me By The Balls!
     author: inu
@@ -41,6 +48,14 @@ works:
     date: '2026-08-19'
     code: 569375
     url: /works/569375/
+  - title: Tada Sex Shitakatta dake nano ni SNS de Deatta Bimajo ga Scatolo Mania de,
+      Boku wa... 1
+    author: bonske
+    cover: /covers/633938.jpg
+    rating: 4.0
+    date: '2026-07-09'
+    code: 633938
+    url: /works/633938/
   - title: Onsen Haitte tara Joseito-tachi ga Osotte Kita | My Students Jumped Me When
       I Got in the Hot Spring
     author: hamo

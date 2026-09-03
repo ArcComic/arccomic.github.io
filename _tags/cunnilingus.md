@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "cunnilingus"
-work_count: 22
+work_count: 25
 works:
   - title: Gekkoutou no Yume - Nyotaika Douwa ~Danshi Kinsei no Tou~
     author: mugen-no-sudadokei
@@ -81,6 +81,29 @@ works:
     date: '2026-08-29'
     code: 660399
     url: /works/660399/
+  - title: Boshi Jouji ~Daisuki na Okaa-san to Konya Majiwaru~ - MOTHER AND SON LOVE
+      AFFAIR | A Mother's Love ~Tonight I Become One With The Mom I Love~ Part 2
+    author: shiono-kou
+    cover: /covers/662142.jpg
+    rating: 4.4
+    date: '2026-07-08'
+    code: 662142
+    url: /works/662142/
+  - title: Yu-chan wa Pantsu o Shishu shitai! | Yu-chan Wants to Protect Her Panties
+      at All Costs!
+    author: meoppap
+    cover: /covers/662150.jpg
+    rating: 4.1
+    date: '2026-07-08'
+    code: 662150
+    url: /works/662150/
+  - title: A late night visit leads to a mother and son's marital sex life together
+    author: fuwatoro-opanchu-cake
+    cover: /covers/663195.jpg
+    rating: 4.1
+    date: '2026-07-11'
+    code: 663195
+    url: /works/663195/
   - title: The Delinquent Gyaru That I Fantasize About Found Out! | Furyou Gal de Ero
       Mousou Shitetara Honnin ni Bareta Ken
     author: dynamite-moca

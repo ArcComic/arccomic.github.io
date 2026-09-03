@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "mouth mask"
-work_count: 6
+work_count: 7
 works:
   - title: Imouto Oppai de Sukusuku Seikatsu
     author: asaomi-shimura
@@ -17,6 +17,14 @@ works:
     date: '2026-07-13'
     code: 648800
     url: /works/648800/
+  - title: Jinin ’Futsuu’ Dekachichi Inkya J◯ no Maso Mesu ga Nagga〜i Chinpo de Shuuryou
+      Made♡
+    author: amrita
+    cover: /covers/661954.jpg
+    rating: 4.7
+    date: '2026-07-09'
+    code: 661954
+    url: /works/661954/
   - title: Metal Girl Ie Onanie
     author: ishimura-ishimiso
     cover: /covers/663142.jpg

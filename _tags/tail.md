@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "tail"
-work_count: 8
+work_count: 9
 works:
+  - title: CHOCO x LOVE
+    author: highlow
+    cover: /covers/317673.jpg
+    rating: 4.4
+    date: '2026-07-09'
+    code: 317673
+    url: /works/317673/
   - title: Shirayuki Mishiro & Enomiya Milk Saimin Sakunyuu Play Hon Matome
     author: rurimaru
     cover: /covers/648800.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "hidden sex"
-work_count: 20
+work_count: 23
 works:
   - title: Megane Loli Choukyou Jugyou!! ~Otonashii Megane Lolikko ni Muriyari Dekachin
       Sounyuu~ | The Loli In Glasses' Training Lesson!! ~Force Fucking a Timid Glasses
@@ -53,6 +53,14 @@ works:
     date: '2026-08-29'
     code: 534388
     url: /works/534388/
+  - title: Ane no Tomodachi to SeFri ni Natta | My Big Sister's Friends And I Became
+      Sex Friends
+    author: rinrikoko
+    cover: /covers/538553.jpg
+    rating: 4.8
+    date: '2026-07-11'
+    code: 538553
+    url: /works/538553/
   - title: Kekkon 3-Nen Me no Tsuma wa, Shain Ryokou Chuu ni Otto no Yoko de Netorareru!
       1 | Netorare With a Busty Wife on a Company Trip 1
     author: aoi-shou
@@ -114,6 +122,21 @@ works:
     date: '2026-08-24'
     code: 642585
     url: /works/642585/
+  - title: Musume no Kawari ni | Instead of My Daughter
+    author: nanao-yukiji
+    cover: /covers/651309.jpg
+    rating: 4.1
+    date: '2026-07-11'
+    code: 651309
+    url: /works/651309/
+  - title: Jinin ’Futsuu’ Dekachichi Inkya J◯ no Maso Mesu ga Nagga〜i Chinpo de Shuuryou
+      Made♡
+    author: amrita
+    cover: /covers/661954.jpg
+    rating: 4.7
+    date: '2026-07-09'
+    code: 661954
+    url: /works/661954/
   - title: Houkago Instant XXX CHAPTER 11
     author: unknown
     cover: /covers/663654.jpg

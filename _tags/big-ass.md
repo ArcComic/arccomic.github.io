@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "big ass"
-work_count: 26
+work_count: 32
 works:
+  - title: Yurikago
+    author: neko-samurai
+    cover: /covers/398305.jpg
+    rating: 5.0
+    date: '2026-07-10'
+    code: 398305
+    url: /works/398305/
   - title: Obedience Part 1
     author: laliberte
     cover: /covers/501709.jpg
@@ -54,6 +61,15 @@ works:
     date: '2026-08-21'
     code: 593575
     url: /works/593575/
+  - title: Kareshi ni Betabore Chuu no Gal Senpai ga, Ore to Tsukiau made - Be my girlfriend!
+      Rio-senpai! | Being Clingy with Your Boyfriend... Kyaru, Senpai Why Not Date Me
+      Next?
+    author: butter-drip
+    cover: /covers/633278.jpg
+    rating: 4.4
+    date: '2026-07-10'
+    code: 633278
+    url: /works/633278/
   - title: Onsen Haitte tara Joseito-tachi ga Osotte Kita | My Students Jumped Me When
       I Got in the Hot Spring
     author: hamo
@@ -69,6 +85,35 @@ works:
     date: '2026-08-20'
     code: 642584
     url: /works/642584/
+  - title: Musume no Kawari ni | Instead of My Daughter
+    author: nanao-yukiji
+    cover: /covers/651309.jpg
+    rating: 4.1
+    date: '2026-07-11'
+    code: 651309
+    url: /works/651309/
+  - title: Boshi Jouji ~Daisuki na Okaa-san to Konya Majiwaru~ - MOTHER AND SON LOVE
+      AFFAIR | A Mother's Love ~Tonight I Become One With The Mom I Love~ Part 2
+    author: shiono-kou
+    cover: /covers/662142.jpg
+    rating: 4.4
+    date: '2026-07-08'
+    code: 662142
+    url: /works/662142/
+  - title: Ketsusenryaku | The Ass Strategy
+    author: ariga-tou
+    cover: /covers/662370.jpg
+    rating: 4.3
+    date: '2026-07-08'
+    code: 662370
+    url: /works/662370/
+  - title: Kareshi no Tame ni Nugimasu. - I'll take it off for my boyfriend.
+    author: mitsuki
+    cover: /covers/662890.jpg
+    rating: 4.7
+    date: '2026-07-10'
+    code: 662890
+    url: /works/662890/
   - title: Gal to Otaku no Idenshi Aishou Batsugun H | The Superb Genetic Compatibility
       Between a Gyaru and an Otaku
     author: joucho

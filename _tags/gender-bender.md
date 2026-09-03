@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "gender bender"
-work_count: 8
+work_count: 10
 works:
   - title: Gekkoutou no Yume - Nyotaika Douwa ~Danshi Kinsei no Tou~
     author: mugen-no-sudadokei
@@ -18,6 +18,21 @@ works:
     date: '2026-08-31'
     code: 494172
     url: /works/494172/
+  - title: How the Gloomy Me Took Charge of my Own Life by Becoming a Hostess
+    author: shikabanekamo
+    cover: /covers/656419.jpg
+    rating: 4.2
+    date: '2026-07-08'
+    code: 656419
+    url: /works/656419/
+  - title: 'Hyoui AV AV Joyuu no Karada o Sukihoudai Suru Hanashi | Possession AV: A
+      story about doing whatever you want with a porn star''s body'
+    author: ame-no-machi
+    cover: /covers/662184.jpg
+    rating: 4.4
+    date: '2026-07-08'
+    code: 662184
+    url: /works/662184/
   - title: When All Men Become Women
     author: shikabanekamo
     cover: /covers/664193.jpg

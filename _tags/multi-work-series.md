@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "multi-work series"
-work_count: 58
+work_count: 64
 works:
   - title: Tonari no Ayane-san Desaki Battari Hen
     author: herio
@@ -10,6 +10,13 @@ works:
     date: '2026-08-18'
     code: 432356
     url: /works/432356/
+  - title: Tempt & Throb
+    author: mushihara
+    cover: /covers/468655.jpg
+    rating: 4.8
+    date: '2026-07-10'
+    code: 468655
+    url: /works/468655/
   - title: Asunama 9
     author: ken-1
     cover: /covers/477784.jpg
@@ -49,6 +56,13 @@ works:
     date: '2026-08-29'
     code: 511316
     url: /works/511316/
+  - title: This Woman’s Body Tells Lies
+    author: ichihara-kazuma
+    cover: /covers/527621.jpg
+    rating: 4.1
+    date: '2026-07-08'
+    code: 527621
+    url: /works/527621/
   - title: '"Sex no Benkyou Shiyokka?" Kareshi ga Iru no ni Itoko kara Shojo wo Ubaware
       Zecchou Shidou 1-5 | Let''s Learn About Sex: Your Cousin Will Take Your Virginity
       and Teach You How to Come 1-5'
@@ -74,6 +88,14 @@ works:
     date: '2026-07-11'
     code: 538063
     url: /works/538063/
+  - title: Ane no Tomodachi to SeFri ni Natta | My Big Sister's Friends And I Became
+      Sex Friends
+    author: rinrikoko
+    cover: /covers/538553.jpg
+    rating: 4.8
+    date: '2026-07-11'
+    code: 538553
+    url: /works/538553/
   - title: Kekkon 3-Nen Me no Tsuma wa, Shain Ryokou Chuu ni Otto no Yoko de Netorareru!
       1 | Netorare With a Busty Wife on a Company Trip 1
     author: aoi-shou
@@ -193,6 +215,29 @@ works:
     date: '2026-08-22'
     code: 659484
     url: /works/659484/
+  - title: Boshi Jouji ~Daisuki na Okaa-san to Konya Majiwaru~ - MOTHER AND SON LOVE
+      AFFAIR | A Mother's Love ~Tonight I Become One With The Mom I Love~ Part 2
+    author: shiono-kou
+    cover: /covers/662142.jpg
+    rating: 4.4
+    date: '2026-07-08'
+    code: 662142
+    url: /works/662142/
+  - title: Kyonyuu na Gibo, Nyuuyoku Chuu
+    author: ma-kurou-madou
+    cover: /covers/662334.jpg
+    rating: 4.4
+    date: '2026-07-08'
+    code: 662334
+    url: /works/662334/
+  - title: Kimi no Mae de Kimi Igai o Daku Ch. 29 | Having Sex with Someone Else in
+      Front of You 29
+    author: nakao
+    cover: /covers/662343.jpg
+    rating: 4.0
+    date: '2026-07-08'
+    code: 662343
+    url: /works/662343/
   - title: Hahaoya to Sex Shita Kibun wa Dou? | How Does it Feel to have Sex with your
       Mom?
     author: temperature

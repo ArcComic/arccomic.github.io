@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "inseki"
-work_count: 16
+work_count: 19
 works:
   - title: Gibo-san wa Boku no Mono 7
     author: c-kyuu
@@ -45,6 +45,13 @@ works:
     date: '2026-08-25'
     code: 608648
     url: /works/608648/
+  - title: Kanojo no Bad Luck ~Oya no Saikon, Dekita Gikei wa Seijuu Datta~
+    author: yokoshima
+    cover: /covers/608868.jpg
+    rating: 4.7
+    date: '2026-07-10'
+    code: 608868
+    url: /works/608868/
   - title: Tsuma ni Ani to Kozukuri Shite Moraimashita
     author: furaimai
     cover: /covers/616367.jpg
@@ -67,6 +74,13 @@ works:
     date: '2026-08-22'
     code: 656140
     url: /works/656140/
+  - title: Akogare no Oppai wa Ane no Aji
+    author: emine-kendama
+    cover: /covers/657256.jpg
+    rating: 5.0
+    date: '2026-07-09'
+    code: 657256
+    url: /works/657256/
   - title: Imouto ga Ore no Kanojo!? 2-haku 3-ka no Ecchi na Kankei | My Sister is My
       Girlfriend!? Sexual Relationship for Two Nights and Three Days
     author: katagiri-kaneharu
@@ -75,6 +89,13 @@ works:
     date: '2026-08-29'
     code: 660399
     url: /works/660399/
+  - title: Kyonyuu na Gibo, Nyuuyoku Chuu
+    author: ma-kurou-madou
+    cover: /covers/662334.jpg
+    rating: 4.4
+    date: '2026-07-08'
+    code: 662334
+    url: /works/662334/
   - title: Hontou no Shinkon Seikatsu wa, Oji-san no Ie de Hajimattemasu | My real life
       as a newlywed has begun at the Oji-san's house.
     author: damda

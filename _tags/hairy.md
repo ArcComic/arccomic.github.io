@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "hairy"
-work_count: 38
+work_count: 44
 works:
   - title: Tonari no Ayane-san Desaki Battari Hen
     author: herio
@@ -24,6 +24,14 @@ works:
     date: '2026-08-23'
     code: 531967
     url: /works/531967/
+  - title: Ane no Tomodachi to SeFri ni Natta | My Big Sister's Friends And I Became
+      Sex Friends
+    author: rinrikoko
+    cover: /covers/538553.jpg
+    rating: 4.8
+    date: '2026-07-11'
+    code: 538553
+    url: /works/538553/
   - title: Okaa-san Itadakimasu. 3
     author: andoryu
     cover: /covers/544477.jpg
@@ -82,6 +90,13 @@ works:
     date: '2026-08-25'
     code: 595108
     url: /works/595108/
+  - title: Kanojo no Bad Luck ~Oya no Saikon, Dekita Gikei wa Seijuu Datta~
+    author: yokoshima
+    cover: /covers/608868.jpg
+    rating: 4.7
+    date: '2026-07-10'
+    code: 608868
+    url: /works/608868/
   - title: Tomodachi ga Tsuretekita Oba-san 1
     author: exit-up
     cover: /covers/615538.jpg
@@ -96,6 +111,14 @@ works:
     date: '2026-07-15'
     code: 616358
     url: /works/616358/
+  - title: Tada Sex Shitakatta dake nano ni SNS de Deatta Bimajo ga Scatolo Mania de,
+      Boku wa... 1
+    author: bonske
+    cover: /covers/633938.jpg
+    rating: 4.0
+    date: '2026-07-09'
+    code: 633938
+    url: /works/633938/
   - title: Kanojo ga Kami o Someta Wake ~Kataomoi no Seiso Kurokami Ojou-sama ga Boku
       no Shiranai Tokoro de Otoko no Aji o Oboeru Hanashi~ | The Real Reason She Changed
       Her Hair
@@ -113,6 +136,13 @@ works:
     date: '2026-08-20'
     code: 639463
     url: /works/639463/
+  - title: Musume no Kawari ni | Instead of My Daughter
+    author: nanao-yukiji
+    cover: /covers/651309.jpg
+    rating: 4.1
+    date: '2026-07-11'
+    code: 651309
+    url: /works/651309/
   - title: A story about a shy childhood friend who can’t say no and ends up being put
       in charge of handling sexual needs.
     author: sakurayu-hal
@@ -128,6 +158,13 @@ works:
     date: '2026-08-18'
     code: 656319
     url: /works/656319/
+  - title: How the Gloomy Me Took Charge of my Own Life by Becoming a Hostess
+    author: shikabanekamo
+    cover: /covers/656419.jpg
+    rating: 4.2
+    date: '2026-07-08'
+    code: 656419
+    url: /works/656419/
   - title: Ohogoe wo Hiteishita Hitozuma ga Otosareru Hanashi | The Married Woman Who
       Denied Her Crazy Moans Was Defeated
     author: hikitogu
@@ -136,6 +173,13 @@ works:
     date: '2026-07-11'
     code: 663171
     url: /works/663171/
+  - title: A late night visit leads to a mother and son's marital sex life together
+    author: fuwatoro-opanchu-cake
+    cover: /covers/663195.jpg
+    rating: 4.1
+    date: '2026-07-11'
+    code: 663195
+    url: /works/663195/
   - title: Boku ni Yuuki ga Atta nara | If only I had the courage
     author: kamakiri-akagi-ryouichi
     cover: /covers/663672.jpg

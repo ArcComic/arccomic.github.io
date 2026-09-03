@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "pixie cut"
-work_count: 15
+work_count: 17
 works:
   - title: Doushia (Terasu MC)] Dorei Gazoku
     author: terasu-mc
@@ -24,6 +24,14 @@ works:
     date: '2026-08-19'
     code: 534808
     url: /works/534808/
+  - title: Ane no Tomodachi to SeFri ni Natta | My Big Sister's Friends And I Became
+      Sex Friends
+    author: rinrikoko
+    cover: /covers/538553.jpg
+    rating: 4.8
+    date: '2026-07-11'
+    code: 538553
+    url: /works/538553/
   - title: Iiwa Watashi no Karada Suki ni Shite Ch.1-2
     author: shunjou-shuusuke
     cover: /covers/561787.jpg
@@ -53,6 +61,13 @@ works:
     date: '2026-08-22'
     code: 652912
     url: /works/652912/
+  - title: Roshutsukyou no Hitozuma, Get daze! | Yeah! I Caught An Exhibitionist Wife!!
+    author: oberon
+    cover: /covers/663194.jpg
+    rating: 4.4
+    date: '2026-07-11'
+    code: 663194
+    url: /works/663194/
   - title: Shinseki no Ko to Otokoyu Haittara Onnanoko datta *Jikotte Sounyuu
     author: unknown
     cover: /covers/664170.jpg

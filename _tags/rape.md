@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "rape"
-work_count: 48
+work_count: 57
 works:
   - title: Megane Loli Choukyou Jugyou!! ~Otonashii Megane Lolikko ni Muriyari Dekachin
       Sounyuu~ | The Loli In Glasses' Training Lesson!! ~Force Fucking a Timid Glasses
@@ -12,6 +12,13 @@ works:
     date: '2026-07-13'
     code: 358168
     url: /works/358168/
+  - title: Imouto no Nukumori | A Little Sister's warmth
+    author: kinomoto-anzu
+    cover: /covers/407959.jpg
+    rating: 4.5
+    date: '2026-07-10'
+    code: 407959
+    url: /works/407959/
   - title: Musume no Kareshi ni Ochiru Okaa-san. 2 | A Mother Who Falls For Her Daughter's
       Boyfriend 2
     author: sinori
@@ -20,6 +27,20 @@ works:
     date: '2026-07-16'
     code: 434993
     url: /works/434993/
+  - title: Neteru Onii-chan no Are o Kariru Hanashi
+    author: tiger
+    cover: /covers/476399.jpg
+    rating: 4.9
+    date: '2026-07-10'
+    code: 476399
+    url: /works/476399/
+  - title: Yumemiru Shoujo - The Girl Who Dreams
+    author: fuuga
+    cover: /covers/50476.jpg
+    rating: 5.0
+    date: '2026-07-08'
+    code: 50476
+    url: /works/50476/
   - title: My Friends Mom Is My Toy
     author: exit-up
     cover: /covers/521812.jpg
@@ -82,6 +103,13 @@ works:
     date: '2026-07-13'
     code: 598010
     url: /works/598010/
+  - title: Kanojo no Bad Luck ~Oya no Saikon, Dekita Gikei wa Seijuu Datta~
+    author: yokoshima
+    cover: /covers/608868.jpg
+    rating: 4.7
+    date: '2026-07-10'
+    code: 608868
+    url: /works/608868/
   - title: Ottori Itome no Oba o Odoshite Hamete Iinari Onaho-ka Keikaku | Gentle Slit-Eyed
       Aunty Blackmail & Obedient Fuckhole Training Project
     author: ginen
@@ -105,6 +133,15 @@ works:
     date: '2026-08-29'
     code: 618087
     url: /works/618087/
+  - title: Kareshi ni Betabore Chuu no Gal Senpai ga, Ore to Tsukiau made - Be my girlfriend!
+      Rio-senpai! | Being Clingy with Your Boyfriend... Kyaru, Senpai Why Not Date Me
+      Next?
+    author: butter-drip
+    cover: /covers/633278.jpg
+    rating: 4.4
+    date: '2026-07-10'
+    code: 633278
+    url: /works/633278/
   - title: Kanojo ga Kami o Someta Wake ~Kataomoi no Seiso Kurokami Ojou-sama ga Boku
       no Shiranai Tokoro de Otoko no Aji o Oboeru Hanashi~ | The Real Reason She Changed
       Her Hair
@@ -205,6 +242,34 @@ works:
     date: '2026-08-24'
     code: 657981
     url: /works/657981/
+  - title: Sister Sara to Madara-Chan
+    author: ohno-kanae
+    cover: /covers/662208.jpg
+    rating: 4.1
+    date: '2026-07-08'
+    code: 662208
+    url: /works/662208/
+  - title: Kyonyuu na Gibo, Nyuuyoku Chuu
+    author: ma-kurou-madou
+    cover: /covers/662334.jpg
+    rating: 4.4
+    date: '2026-07-08'
+    code: 662334
+    url: /works/662334/
+  - title: Ketsusenryaku | The Ass Strategy
+    author: ariga-tou
+    cover: /covers/662370.jpg
+    rating: 4.3
+    date: '2026-07-08'
+    code: 662370
+    url: /works/662370/
+  - title: Shoujo Baishun Shima | Girl Prostitution Island
+    author: nada-shio
+    cover: /covers/662647.jpg
+    rating: 4.7
+    date: '2026-07-09'
+    code: 662647
+    url: /works/662647/
   - title: Kyouiku Mama Musuko no Chinpo ni Kyouiku Sareru
     author: himegoto-jukujo
     cover: /covers/663622.jpg

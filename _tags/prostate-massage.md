@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "prostate massage"
-work_count: 6
+work_count: 7
 works:
   - title: Yuri no o saifu ni shite agemasu ne, Senpai | I'll turn you into Yuri's wallet,
       Senpai
@@ -34,6 +34,13 @@ works:
     date: '2026-08-22'
     code: 550948
     url: /works/550948/
+  - title: Ketsusenryaku | The Ass Strategy
+    author: ariga-tou
+    cover: /covers/662370.jpg
+    rating: 4.3
+    date: '2026-07-08'
+    code: 662370
+    url: /works/662370/
   - title: Welcome to the Weak Masochist Volleyball Club
     author: hagakure-kurage
     cover: /covers/664758.jpg

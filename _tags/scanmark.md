@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "scanmark"
-work_count: 59
+work_count: 67
 works:
+  - title: This Woman’s Body Tells Lies
+    author: ichihara-kazuma
+    cover: /covers/527621.jpg
+    rating: 4.1
+    date: '2026-07-08'
+    code: 527621
+    url: /works/527621/
   - title: Ore ga Hoshikatta Mono wa Kin Medal Yori Namami Onaho Datta no Kamoshirenai｜Maybe
       what I Wanted was a Flesh and Blood Masturbator Rather than a Gold Medal
     author: carburetor
@@ -33,6 +40,14 @@ works:
     date: '2026-08-20'
     code: 632132
     url: /works/632132/
+  - title: Tada Sex Shitakatta dake nano ni SNS de Deatta Bimajo ga Scatolo Mania de,
+      Boku wa... 1
+    author: bonske
+    cover: /covers/633938.jpg
+    rating: 4.0
+    date: '2026-07-09'
+    code: 633938
+    url: /works/633938/
   - title: Imouto Oppai de Sukusuku Seikatsu
     author: asaomi-shimura
     cover: /covers/636802.jpg
@@ -217,6 +232,50 @@ works:
     date: '2026-08-21'
     code: 661796
     url: /works/661796/
+  - title: Jinin ’Futsuu’ Dekachichi Inkya J◯ no Maso Mesu ga Nagga〜i Chinpo de Shuuryou
+      Made♡
+    author: amrita
+    cover: /covers/661954.jpg
+    rating: 4.7
+    date: '2026-07-09'
+    code: 661954
+    url: /works/661954/
+  - title: 'Sanae no Kiken na Kami Asobi | Sanae in Danger: Playing with the Gods'
+    author: hozmi
+    cover: /covers/662200.jpg
+    rating: 4.2
+    date: '2026-07-08'
+    code: 662200
+    url: /works/662200/
+  - title: L-cup Housewife Onahole Slave Kanae (39) ~A Week of Being Driven Wild by
+      Another Man's Cock~
+    author: unknown
+    cover: /covers/662202.jpg
+    rating: 4.3
+    date: '2026-07-08'
+    code: 662202
+    url: /works/662202/
+  - title: Shiori no Nai Akumu
+    author: unknown
+    cover: /covers/662203.jpg
+    rating: 4.6
+    date: '2026-07-08'
+    code: 662203
+    url: /works/662203/
+  - title: Sister Sara to Madara-Chan
+    author: ohno-kanae
+    cover: /covers/662208.jpg
+    rating: 4.1
+    date: '2026-07-08'
+    code: 662208
+    url: /works/662208/
+  - title: Joukyou, Saikai, Sex Akogare no Haru-nee
+    author: unknown
+    cover: /covers/662871.jpg
+    rating: 4.1
+    date: '2026-07-10'
+    code: 662871
+    url: /works/662871/
   - title: Metal Girl Ie Onanie
     author: ishimura-ishimiso
     cover: /covers/663142.jpg

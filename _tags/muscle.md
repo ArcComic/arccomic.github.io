@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "muscle"
-work_count: 19
+work_count: 20
 works:
   - title: Netorare Ibe Kiba Shizuka | The Netorare of Kiba Shizuka
     author: terasu-mc
@@ -81,6 +81,13 @@ works:
     date: '2026-08-24'
     code: 642588
     url: /works/642588/
+  - title: Pure Delight A Front-Row Seat
+    author: daikanki
+    cover: /covers/662550.jpg
+    rating: 4.6
+    date: '2026-07-09'
+    code: 662550
+    url: /works/662550/
   - title: Boku ni Yuuki ga Atta nara | If only I had the courage
     author: kamakiri-akagi-ryouichi
     cover: /covers/663672.jpg

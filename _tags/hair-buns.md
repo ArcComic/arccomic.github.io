@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "hair buns"
-work_count: 3
+work_count: 5
 works:
   - title: Shiraishi-san Wa Yokkyu Fuman | Shiraishi-san's Frustrated
     author: carburetor
@@ -19,6 +19,21 @@ works:
     date: '2026-08-20'
     code: 510022
     url: /works/510022/
+  - title: Yu-chan wa Pantsu o Shishu shitai! | Yu-chan Wants to Protect Her Panties
+      at All Costs!
+    author: meoppap
+    cover: /covers/662150.jpg
+    rating: 4.1
+    date: '2026-07-08'
+    code: 662150
+    url: /works/662150/
+  - title: Yurui Ko
+    author: sena-monaco
+    cover: /covers/662356.jpg
+    rating: 4.3
+    date: '2026-07-08'
+    code: 662356
+    url: /works/662356/
   - title: Ryuu no Gekirin
     author: p-n
     cover: /covers/664626.jpg

@@ -1,8 +1,22 @@
 ---
 layout: tag
 tag_name: "tankoubon"
-work_count: 9
+work_count: 12
 works:
+  - title: CHOCO x LOVE
+    author: highlow
+    cover: /covers/317673.jpg
+    rating: 4.4
+    date: '2026-07-09'
+    code: 317673
+    url: /works/317673/
+  - title: Yumemiru Shoujo - The Girl Who Dreams
+    author: fuuga
+    cover: /covers/50476.jpg
+    rating: 5.0
+    date: '2026-07-08'
+    code: 50476
+    url: /works/50476/
   - title: Tonari no Ayane-san Soushuuhen | My Neighbor Ayane Anthology
     author: herio
     cover: /covers/656319.jpg
@@ -10,6 +24,13 @@ works:
     date: '2026-08-18'
     code: 656319
     url: /works/656319/
+  - title: Ketsusenryaku | The Ass Strategy
+    author: ariga-tou
+    cover: /covers/662370.jpg
+    rating: 4.3
+    date: '2026-07-08'
+    code: 662370
+    url: /works/662370/
   - title: 'Seifukusha ~Yami ni Ochiru Hitozuma-tachi~ | Sexploiter: Housewives Falling
       Into Darkness'
     author: hoshino-ryuichi

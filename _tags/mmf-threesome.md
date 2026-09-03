@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "mmf threesome"
-work_count: 10
+work_count: 11
 works:
   - title: Bocchi de Shinda Ore ga Bishoujo Nurse ni Natta Hanashi | The Story of How
       I Died Alone and Became a Sexy Nurse
@@ -47,6 +47,13 @@ works:
     date: '2026-07-16'
     code: 655498
     url: /works/655498/
+  - title: Akogare no Ano Hito wa | The Person I Admire
+    author: minami-chisato-arisawa-tsukasa
+    cover: /covers/662657.jpg
+    rating: 4.6
+    date: '2026-07-09'
+    code: 662657
+    url: /works/662657/
   - title: Natsu Loli Ism Ch. 1-4
     author: molokonomi-hiraya-nobori
     cover: /covers/663056.jpg

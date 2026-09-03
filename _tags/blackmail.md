@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "blackmail"
-work_count: 26
+work_count: 32
 works:
   - title: Netorare Ibe Kiba Shizuka | The Netorare of Kiba Shizuka
     author: terasu-mc
@@ -10,6 +10,13 @@ works:
     date: '2026-07-16'
     code: 288292
     url: /works/288292/
+  - title: Yurikago
+    author: neko-samurai
+    cover: /covers/398305.jpg
+    rating: 5.0
+    date: '2026-07-10'
+    code: 398305
+    url: /works/398305/
   - title: Musume no Kareshi ni Ochiru Okaa-san. 2 | A Mother Who Falls For Her Daughter's
       Boyfriend 2
     author: sinori
@@ -95,6 +102,13 @@ works:
     date: '2026-08-29'
     code: 634450
     url: /works/634450/
+  - title: Musume no Kawari ni | Instead of My Daughter
+    author: nanao-yukiji
+    cover: /covers/651309.jpg
+    rating: 4.1
+    date: '2026-07-11'
+    code: 651309
+    url: /works/651309/
   - title: Majime na Salaryman ga JK Chijo ni Otosareru Hanashi
     author: hamo
     cover: /covers/652651.jpg
@@ -109,6 +123,36 @@ works:
     date: '2026-08-21'
     code: 654114
     url: /works/654114/
+  - title: Jinin ’Futsuu’ Dekachichi Inkya J◯ no Maso Mesu ga Nagga〜i Chinpo de Shuuryou
+      Made♡
+    author: amrita
+    cover: /covers/661954.jpg
+    rating: 4.7
+    date: '2026-07-09'
+    code: 661954
+    url: /works/661954/
+  - title: L-cup Housewife Onahole Slave Kanae (39) ~A Week of Being Driven Wild by
+      Another Man's Cock~
+    author: unknown
+    cover: /covers/662202.jpg
+    rating: 4.3
+    date: '2026-07-08'
+    code: 662202
+    url: /works/662202/
+  - title: Ketsusenryaku | The Ass Strategy
+    author: ariga-tou
+    cover: /covers/662370.jpg
+    rating: 4.3
+    date: '2026-07-08'
+    code: 662370
+    url: /works/662370/
+  - title: Kareshi no Tame ni Nugimasu. - I'll take it off for my boyfriend.
+    author: mitsuki
+    cover: /covers/662890.jpg
+    rating: 4.7
+    date: '2026-07-10'
+    code: 662890
+    url: /works/662890/
   - title: Hontou no Shinkon Seikatsu wa, Oji-san no Ie de Hajimattemasu | My real life
       as a newlywed has begun at the Oji-san's house.
     author: damda

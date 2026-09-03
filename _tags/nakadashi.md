@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "nakadashi"
-work_count: 113
+work_count: 135
 works:
+  - title: CHOCO x LOVE
+    author: highlow
+    cover: /covers/317673.jpg
+    rating: 4.4
+    date: '2026-07-09'
+    code: 317673
+    url: /works/317673/
   - title: Sokukan Delivery
     author: ice
     cover: /covers/332781.jpg
@@ -26,6 +33,13 @@ works:
     date: '2026-07-13'
     code: 358168
     url: /works/358168/
+  - title: Imouto no Nukumori | A Little Sister's warmth
+    author: kinomoto-anzu
+    cover: /covers/407959.jpg
+    rating: 4.5
+    date: '2026-07-10'
+    code: 407959
+    url: /works/407959/
   - title: Tonari no Ayane-san Desaki Battari Hen
     author: herio
     cover: /covers/432356.jpg
@@ -47,6 +61,13 @@ works:
     date: '2026-08-24'
     code: 444152
     url: /works/444152/
+  - title: Neteru Onii-chan no Are o Kariru Hanashi
+    author: tiger
+    cover: /covers/476399.jpg
+    rating: 4.9
+    date: '2026-07-10'
+    code: 476399
+    url: /works/476399/
   - title: Asunama 9
     author: ken-1
     cover: /covers/477784.jpg
@@ -195,6 +216,21 @@ works:
     date: '2026-08-20'
     code: 537794
     url: /works/537794/
+  - title: Ane no Tomodachi to SeFri ni Natta | My Big Sister's Friends And I Became
+      Sex Friends
+    author: rinrikoko
+    cover: /covers/538553.jpg
+    rating: 4.8
+    date: '2026-07-11'
+    code: 538553
+    url: /works/538553/
+  - title: Choukyou Zumi Hitozuma OL wa Joushi ni Dakare Futatabi Ochiru
+    author: toono-suika
+    cover: /covers/550164.jpg
+    rating: 4.0
+    date: '2026-07-10'
+    code: 550164
+    url: /works/550164/
   - title: Uwa, Mesugaki Tsuyoi! | Crap, This Mesugaki's Too Powerful!
     author: poncocchan
     cover: /covers/550359.jpg
@@ -291,6 +327,13 @@ works:
     date: '2026-07-16'
     code: 605410
     url: /works/605410/
+  - title: Kanojo no Bad Luck ~Oya no Saikon, Dekita Gikei wa Seijuu Datta~
+    author: yokoshima
+    cover: /covers/608868.jpg
+    rating: 4.7
+    date: '2026-07-10'
+    code: 608868
+    url: /works/608868/
   - title: Tomodachi ga Tsuretekita Oba-san 1
     author: exit-up
     cover: /covers/615538.jpg
@@ -326,6 +369,15 @@ works:
     date: '2026-08-18'
     code: 619648
     url: /works/619648/
+  - title: Kareshi ni Betabore Chuu no Gal Senpai ga, Ore to Tsukiau made - Be my girlfriend!
+      Rio-senpai! | Being Clingy with Your Boyfriend... Kyaru, Senpai Why Not Date Me
+      Next?
+    author: butter-drip
+    cover: /covers/633278.jpg
+    rating: 4.4
+    date: '2026-07-10'
+    code: 633278
+    url: /works/633278/
   - title: Oneesan no Chitsu-nai ni Shiroi Oshikko to Kiiroi Oshikko
     author: mosaic-book
     cover: /covers/636807.jpg
@@ -376,6 +428,13 @@ works:
     date: '2026-08-24'
     code: 642588
     url: /works/642588/
+  - title: Musume no Kawari ni | Instead of My Daughter
+    author: nanao-yukiji
+    cover: /covers/651309.jpg
+    rating: 4.1
+    date: '2026-07-11'
+    code: 651309
+    url: /works/651309/
   - title: Majime na Salaryman ga JK Chijo ni Otosareru Hanashi
     author: hamo
     cover: /covers/652651.jpg
@@ -398,6 +457,13 @@ works:
     date: '2026-08-18'
     code: 656319
     url: /works/656319/
+  - title: Josou Gyakunan Debusen Ketsuhame Tokoroten
+    author: bonske
+    cover: /covers/656753.jpg
+    rating: 4.7
+    date: '2026-07-09'
+    code: 656753
+    url: /works/656753/
   - title: Make Love Rank match!!③
     author: napo
     cover: /covers/659484.jpg
@@ -405,6 +471,100 @@ works:
     date: '2026-08-22'
     code: 659484
     url: /works/659484/
+  - title: Jinin ’Futsuu’ Dekachichi Inkya J◯ no Maso Mesu ga Nagga〜i Chinpo de Shuuryou
+      Made♡
+    author: amrita
+    cover: /covers/661954.jpg
+    rating: 4.7
+    date: '2026-07-09'
+    code: 661954
+    url: /works/661954/
+  - title: Boshi Jouji ~Daisuki na Okaa-san to Konya Majiwaru~ - MOTHER AND SON LOVE
+      AFFAIR | A Mother's Love ~Tonight I Become One With The Mom I Love~ Part 2
+    author: shiono-kou
+    cover: /covers/662142.jpg
+    rating: 4.4
+    date: '2026-07-08'
+    code: 662142
+    url: /works/662142/
+  - title: 'Sanae no Kiken na Kami Asobi | Sanae in Danger: Playing with the Gods'
+    author: hozmi
+    cover: /covers/662200.jpg
+    rating: 4.2
+    date: '2026-07-08'
+    code: 662200
+    url: /works/662200/
+  - title: Sister Sara to Madara-Chan
+    author: ohno-kanae
+    cover: /covers/662208.jpg
+    rating: 4.1
+    date: '2026-07-08'
+    code: 662208
+    url: /works/662208/
+  - title: Eightman sensei no okagede kanojo ga dekimashita! (4) | Thanks to Eightman-sensei,
+      I Got a Girlfriend!
+    author: eightman
+    cover: /covers/662329.jpg
+    rating: 4.6
+    date: '2026-07-08'
+    code: 662329
+    url: /works/662329/
+  - title: Kyonyuu na Gibo, Nyuuyoku Chuu
+    author: ma-kurou-madou
+    cover: /covers/662334.jpg
+    rating: 4.4
+    date: '2026-07-08'
+    code: 662334
+    url: /works/662334/
+  - title: Ketsusenryaku | The Ass Strategy
+    author: ariga-tou
+    cover: /covers/662370.jpg
+    rating: 4.3
+    date: '2026-07-08'
+    code: 662370
+    url: /works/662370/
+  - title: Akogare no Ano Hito wa | The Person I Admire
+    author: minami-chisato-arisawa-tsukasa
+    cover: /covers/662657.jpg
+    rating: 4.6
+    date: '2026-07-09'
+    code: 662657
+    url: /works/662657/
+  - title: Joukyou, Saikai, Sex Akogare no Haru-nee
+    author: unknown
+    cover: /covers/662871.jpg
+    rating: 4.1
+    date: '2026-07-10'
+    code: 662871
+    url: /works/662871/
+  - title: Fallen 2
+    author: unknown
+    cover: /covers/662873.jpg
+    rating: 4.9
+    date: '2026-07-10'
+    code: 662873
+    url: /works/662873/
+  - title: Buck-Chichi! | Gambling! Volume 2
+    author: lime
+    cover: /covers/662877.jpg
+    rating: 4.9
+    date: '2026-07-10'
+    code: 662877
+    url: /works/662877/
+  - title: Kareshi no Tame ni Nugimasu. - I'll take it off for my boyfriend.
+    author: mitsuki
+    cover: /covers/662890.jpg
+    rating: 4.7
+    date: '2026-07-10'
+    code: 662890
+    url: /works/662890/
+  - title: Kimi wa Midara na Ohimesama | Your Own Lewd Princess
+    author: aoyama-kiiro
+    cover: /covers/662891.jpg
+    rating: 4.7
+    date: '2026-07-10'
+    code: 662891
+    url: /works/662891/
   - title: Hontou no Shinkon Seikatsu wa, Oji-san no Ie de Hajimattemasu | My real life
       as a newlywed has begun at the Oji-san's house.
     author: damda

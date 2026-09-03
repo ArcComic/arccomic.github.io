@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "mosaic censorship"
-work_count: 71
+work_count: 79
 works:
   - title: Yuri no o saifu ni shite agemasu ne, Senpai | I'll turn you into Yuri's wallet,
       Senpai
@@ -93,6 +93,13 @@ works:
     date: '2026-08-18'
     code: 504436
     url: /works/504436/
+  - title: Pirin The Prostitute
+    author: arukaniko
+    cover: /covers/505174.jpg
+    rating: 4.5
+    date: '2026-07-08'
+    code: 505174
+    url: /works/505174/
   - title: Toaru Mura no Fudeoroshi Jijou | *séh₂ swédʰh₁eh₂ weyḱósyo
     author: nora-higuma
     cover: /covers/505779.jpg
@@ -166,6 +173,13 @@ works:
     date: '2026-07-17'
     code: 545823
     url: /works/545823/
+  - title: Aka-chan Tsukuri no Yoshuu | Preview Lesson About Babymaking
+    author: highlow
+    cover: /covers/555216.jpg
+    rating: 4.2
+    date: '2026-07-09'
+    code: 555216
+    url: /works/555216/
   - title: Hayato-sensei no Mesu-ka Karute Daigaku-hen | Dr. Hayato's Feminization Medical
       Record ~University Edition~
     author: testame
@@ -249,6 +263,14 @@ works:
     date: '2026-07-17'
     code: 632056
     url: /works/632056/
+  - title: Tada Sex Shitakatta dake nano ni SNS de Deatta Bimajo ga Scatolo Mania de,
+      Boku wa... 1
+    author: bonske
+    cover: /covers/633938.jpg
+    rating: 4.0
+    date: '2026-07-09'
+    code: 633938
+    url: /works/633938/
   - title: Akogare no Hito wa Mou Owari!
     author: orange-mimosa
     cover: /covers/642584.jpg
@@ -326,6 +348,13 @@ works:
     date: '2026-08-25'
     code: 656143
     url: /works/656143/
+  - title: How the Gloomy Me Took Charge of my Own Life by Becoming a Hostess
+    author: shikabanekamo
+    cover: /covers/656419.jpg
+    rating: 4.2
+    date: '2026-07-08'
+    code: 656419
+    url: /works/656419/
   - title: 'Fukushū Yami Baito "Watashi no Moto Tsuma o Ninshin Sasete Hoshī" | My Part-Time
       Job Is Getting Revenge: Get My Ex-Wife Pregnant'
     author: chotto-b-sen
@@ -341,6 +370,27 @@ works:
     date: '2026-08-21'
     code: 661796
     url: /works/661796/
+  - title: Suki na Joshi ga Hentai Yuujin ni Kuwareta
+    author: kemusi-no-bansan-kai
+    cover: /covers/662215.jpg
+    rating: 4.4
+    date: '2026-07-08'
+    code: 662215
+    url: /works/662215/
+  - title: Anal Hame Shitai Jukujo Shiri | This MILF Wants Anal Sex
+    author: bonske
+    cover: /covers/662658.jpg
+    rating: 4.7
+    date: '2026-07-09'
+    code: 662658
+    url: /works/662658/
+  - title: Buck-Chichi! | Gambling! Volume 2
+    author: lime
+    cover: /covers/662877.jpg
+    rating: 4.9
+    date: '2026-07-10'
+    code: 662877
+    url: /works/662877/
   - title: Hahaoya to Sex Shita Kibun wa Dou? | How Does it Feel to have Sex with your
       Mom?
     author: temperature
@@ -349,6 +399,13 @@ works:
     date: '2026-07-11'
     code: 663192
     url: /works/663192/
+  - title: A late night visit leads to a mother and son's marital sex life together
+    author: fuwatoro-opanchu-cake
+    cover: /covers/663195.jpg
+    rating: 4.1
+    date: '2026-07-11'
+    code: 663195
+    url: /works/663195/
   - title: Under The Table
     author: tsuttsu
     cover: /covers/663765.jpg

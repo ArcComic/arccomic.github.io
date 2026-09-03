@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "femdom"
-work_count: 26
+work_count: 30
 works:
+  - title: Life with Married Women Just Like a Manga 2 - Ch. 1-5
+    author: hidemaru
+    cover: /covers/116138.jpg
+    rating: 4.8
+    date: '2026-07-08'
+    code: 116138
+    url: /works/116138/
   - title: Yuri no o saifu ni shite agemasu ne, Senpai | I'll turn you into Yuri's wallet,
       Senpai
     author: doskoinpo
@@ -11,6 +18,20 @@ works:
     date: '2026-07-17'
     code: 289523
     url: /works/289523/
+  - title: CHOCO x LOVE
+    author: highlow
+    cover: /covers/317673.jpg
+    rating: 4.4
+    date: '2026-07-09'
+    code: 317673
+    url: /works/317673/
+  - title: Majimeni Yarimasu (Seitokaichou) Ch. 1-3
+    author: ikumo-taisuke
+    cover: /covers/346416.jpg
+    rating: 4.4
+    date: '2026-07-08'
+    code: 346416
+    url: /works/346416/
   - title: Shiraishi-san Wa Yokkyu Fuman | Shiraishi-san's Frustrated
     author: carburetor
     cover: /covers/392617.jpg
@@ -108,6 +129,13 @@ works:
     date: '2026-08-21'
     code: 661796
     url: /works/661796/
+  - title: Ketsusenryaku | The Ass Strategy
+    author: ariga-tou
+    cover: /covers/662370.jpg
+    rating: 4.3
+    date: '2026-07-08'
+    code: 662370
+    url: /works/662370/
   - title: Gal to Otaku no Idenshi Aishou Batsugun H | The Superb Genetic Compatibility
       Between a Gyaru and an Otaku
     author: joucho

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "moral degeneration"
-work_count: 7
+work_count: 8
 works:
   - title: Metamorphosis
     author: shindol
@@ -19,6 +19,14 @@ works:
     date: '2026-08-29'
     code: 634450
     url: /works/634450/
+  - title: Jinin ’Futsuu’ Dekachichi Inkya J◯ no Maso Mesu ga Nagga〜i Chinpo de Shuuryou
+      Made♡
+    author: amrita
+    cover: /covers/661954.jpg
+    rating: 4.7
+    date: '2026-07-09'
+    code: 661954
+    url: /works/661954/
   - title: Till Dick Do Us Part
     author: ratatatat74-mr-skull
     cover: /covers/664249.jpg

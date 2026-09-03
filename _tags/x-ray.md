@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "x-ray"
-work_count: 35
+work_count: 50
 works:
+  - title: Imouto no Nukumori | A Little Sister's warmth
+    author: kinomoto-anzu
+    cover: /covers/407959.jpg
+    rating: 4.5
+    date: '2026-07-10'
+    code: 407959
+    url: /works/407959/
   - title: Tonari no Ayane-san Desaki Battari Hen
     author: herio
     cover: /covers/432356.jpg
@@ -10,6 +17,13 @@ works:
     date: '2026-08-18'
     code: 432356
     url: /works/432356/
+  - title: Neteru Onii-chan no Are o Kariru Hanashi
+    author: tiger
+    cover: /covers/476399.jpg
+    rating: 4.9
+    date: '2026-07-10'
+    code: 476399
+    url: /works/476399/
   - title: Bocchi de Shinda Ore ga Bishoujo Nurse ni Natta Hanashi | The Story of How
       I Died Alone and Became a Sexy Nurse
     author: testame
@@ -25,6 +39,21 @@ works:
     date: '2026-07-11'
     code: 501709
     url: /works/501709/
+  - title: Ane no Tomodachi to SeFri ni Natta | My Big Sister's Friends And I Became
+      Sex Friends
+    author: rinrikoko
+    cover: /covers/538553.jpg
+    rating: 4.8
+    date: '2026-07-11'
+    code: 538553
+    url: /works/538553/
+  - title: Choukyou Zumi Hitozuma OL wa Joushi ni Dakare Futatabi Ochiru
+    author: toono-suika
+    cover: /covers/550164.jpg
+    rating: 4.0
+    date: '2026-07-10'
+    code: 550164
+    url: /works/550164/
   - title: Uwa, Mesugaki Tsuyoi! | Crap, This Mesugaki's Too Powerful!
     author: poncocchan
     cover: /covers/550359.jpg
@@ -63,6 +92,22 @@ works:
     date: '2026-08-22'
     code: 586316
     url: /works/586316/
+  - title: Kanojo no Bad Luck ~Oya no Saikon, Dekita Gikei wa Seijuu Datta~
+    author: yokoshima
+    cover: /covers/608868.jpg
+    rating: 4.7
+    date: '2026-07-10'
+    code: 608868
+    url: /works/608868/
+  - title: Kareshi ni Betabore Chuu no Gal Senpai ga, Ore to Tsukiau made - Be my girlfriend!
+      Rio-senpai! | Being Clingy with Your Boyfriend... Kyaru, Senpai Why Not Date Me
+      Next?
+    author: butter-drip
+    cover: /covers/633278.jpg
+    rating: 4.4
+    date: '2026-07-10'
+    code: 633278
+    url: /works/633278/
   - title: Imouto Oppai de Sukusuku Seikatsu
     author: asaomi-shimura
     cover: /covers/636802.jpg
@@ -92,6 +137,69 @@ works:
     date: '2026-08-22'
     code: 659484
     url: /works/659484/
+  - title: 'Sanae no Kiken na Kami Asobi | Sanae in Danger: Playing with the Gods'
+    author: hozmi
+    cover: /covers/662200.jpg
+    rating: 4.2
+    date: '2026-07-08'
+    code: 662200
+    url: /works/662200/
+  - title: Sister Sara to Madara-Chan
+    author: ohno-kanae
+    cover: /covers/662208.jpg
+    rating: 4.1
+    date: '2026-07-08'
+    code: 662208
+    url: /works/662208/
+  - title: Ketsusenryaku | The Ass Strategy
+    author: ariga-tou
+    cover: /covers/662370.jpg
+    rating: 4.3
+    date: '2026-07-08'
+    code: 662370
+    url: /works/662370/
+  - title: Shoujo Baishun Shima | Girl Prostitution Island
+    author: nada-shio
+    cover: /covers/662647.jpg
+    rating: 4.7
+    date: '2026-07-09'
+    code: 662647
+    url: /works/662647/
+  - title: Joukyou, Saikai, Sex Akogare no Haru-nee
+    author: unknown
+    cover: /covers/662871.jpg
+    rating: 4.1
+    date: '2026-07-10'
+    code: 662871
+    url: /works/662871/
+  - title: Fallen 2
+    author: unknown
+    cover: /covers/662873.jpg
+    rating: 4.9
+    date: '2026-07-10'
+    code: 662873
+    url: /works/662873/
+  - title: Buck-Chichi! | Gambling! Volume 2
+    author: lime
+    cover: /covers/662877.jpg
+    rating: 4.9
+    date: '2026-07-10'
+    code: 662877
+    url: /works/662877/
+  - title: Kareshi no Tame ni Nugimasu. - I'll take it off for my boyfriend.
+    author: mitsuki
+    cover: /covers/662890.jpg
+    rating: 4.7
+    date: '2026-07-10'
+    code: 662890
+    url: /works/662890/
+  - title: Kimi wa Midara na Ohimesama | Your Own Lewd Princess
+    author: aoyama-kiiro
+    cover: /covers/662891.jpg
+    rating: 4.7
+    date: '2026-07-10'
+    code: 662891
+    url: /works/662891/
   - title: Hontou no Shinkon Seikatsu wa, Oji-san no Ie de Hajimattemasu | My real life
       as a newlywed has begun at the Oji-san's house.
     author: damda

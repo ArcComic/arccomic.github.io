@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "ffm threesome"
-work_count: 20
+work_count: 24
 works:
+  - title: CHOCO x LOVE
+    author: highlow
+    cover: /covers/317673.jpg
+    rating: 4.4
+    date: '2026-07-09'
+    code: 317673
+    url: /works/317673/
   - title: Dansei ga Kyokutan ni Sukunai Kono Sekai de wa, Seishi wa Kichou na Shigen
       desu. Sono 2 | In a World Where Men Are Scarce, Sperm Is a Precious Resource 2
     author: group
@@ -33,6 +40,27 @@ works:
     date: '2026-07-13'
     code: 648800
     url: /works/648800/
+  - title: Akogare no Oppai wa Ane no Aji
+    author: emine-kendama
+    cover: /covers/657256.jpg
+    rating: 5.0
+    date: '2026-07-09'
+    code: 657256
+    url: /works/657256/
+  - title: Ketsusenryaku | The Ass Strategy
+    author: ariga-tou
+    cover: /covers/662370.jpg
+    rating: 4.3
+    date: '2026-07-08'
+    code: 662370
+    url: /works/662370/
+  - title: Shoujo Baishun Shima | Girl Prostitution Island
+    author: nada-shio
+    cover: /covers/662647.jpg
+    rating: 4.7
+    date: '2026-07-09'
+    code: 662647
+    url: /works/662647/
   - title: Natsu Loli Ism Ch. 1-4
     author: molokonomi-hiraya-nobori
     cover: /covers/663056.jpg

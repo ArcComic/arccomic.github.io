@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "makeup"
-work_count: 4
+work_count: 5
 works:
   - title: Kanojo no Kawaii Mieppari | My Cute Gyaru Girlfriend Is a Total Poser
     author: buta
@@ -17,6 +17,13 @@ works:
     date: '2026-08-23'
     code: 531967
     url: /works/531967/
+  - title: How the Gloomy Me Took Charge of my Own Life by Becoming a Hostess
+    author: shikabanekamo
+    cover: /covers/656419.jpg
+    rating: 4.2
+    date: '2026-07-08'
+    code: 656419
+    url: /works/656419/
   - title: Niihama Yui Husband Exclusive Re-debut
     author: buta
     cover: /covers/674199.jpg

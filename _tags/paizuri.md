@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "paizuri"
-work_count: 39
+work_count: 43
 works:
+  - title: CHOCO x LOVE
+    author: highlow
+    cover: /covers/317673.jpg
+    rating: 4.4
+    date: '2026-07-09'
+    code: 317673
+    url: /works/317673/
   - title: Saikin, Musuko no Yousu ga Hen nan desu | Lately my son has been acting Strangly
     author: matsumoto-jikyuuryoku
     cover: /covers/342639.jpg
@@ -108,6 +115,13 @@ works:
     date: '2026-08-18'
     code: 656319
     url: /works/656319/
+  - title: Akogare no Oppai wa Ane no Aji
+    author: emine-kendama
+    cover: /covers/657256.jpg
+    rating: 5.0
+    date: '2026-07-09'
+    code: 657256
+    url: /works/657256/
   - title: Make Love Rank match!!③
     author: napo
     cover: /covers/659484.jpg
@@ -115,6 +129,21 @@ works:
     date: '2026-08-22'
     code: 659484
     url: /works/659484/
+  - title: Jinin ’Futsuu’ Dekachichi Inkya J◯ no Maso Mesu ga Nagga〜i Chinpo de Shuuryou
+      Made♡
+    author: amrita
+    cover: /covers/661954.jpg
+    rating: 4.7
+    date: '2026-07-09'
+    code: 661954
+    url: /works/661954/
+  - title: Ketsusenryaku | The Ass Strategy
+    author: ariga-tou
+    cover: /covers/662370.jpg
+    rating: 4.3
+    date: '2026-07-08'
+    code: 662370
+    url: /works/662370/
   - title: Gal to Otaku no Idenshi Aishou Batsugun H | The Superb Genetic Compatibility
       Between a Gyaru and an Otaku
     author: joucho

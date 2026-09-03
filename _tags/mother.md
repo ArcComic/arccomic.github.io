@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "mother"
-work_count: 50
+work_count: 53
 works:
   - title: Saikin, Musuko no Yousu ga Hen nan desu | Lately my son has been acting Strangly
     author: matsumoto-jikyuuryoku
@@ -271,6 +271,21 @@ works:
     date: '2026-08-24'
     code: 659164
     url: /works/659164/
+  - title: Boshi Jouji ~Daisuki na Okaa-san to Konya Majiwaru~ - MOTHER AND SON LOVE
+      AFFAIR | A Mother's Love ~Tonight I Become One With The Mom I Love~ Part 2
+    author: shiono-kou
+    cover: /covers/662142.jpg
+    rating: 4.4
+    date: '2026-07-08'
+    code: 662142
+    url: /works/662142/
+  - title: Kyonyuu na Gibo, Nyuuyoku Chuu
+    author: ma-kurou-madou
+    cover: /covers/662334.jpg
+    rating: 4.4
+    date: '2026-07-08'
+    code: 662334
+    url: /works/662334/
   - title: Hahaoya to Sex Shita Kibun wa Dou? | How Does it Feel to have Sex with your
       Mom?
     author: temperature
@@ -279,6 +294,13 @@ works:
     date: '2026-07-11'
     code: 663192
     url: /works/663192/
+  - title: A late night visit leads to a mother and son's marital sex life together
+    author: fuwatoro-opanchu-cake
+    cover: /covers/663195.jpg
+    rating: 4.1
+    date: '2026-07-11'
+    code: 663195
+    url: /works/663195/
   - title: Kyouiku Mama Musuko no Chinpo ni Kyouiku Sareru
     author: himegoto-jukujo
     cover: /covers/663622.jpg

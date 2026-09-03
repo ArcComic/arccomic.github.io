@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "anal"
-work_count: 27
+work_count: 34
 works:
   - title: Yuri no o saifu ni shite agemasu ne, Senpai | I'll turn you into Yuri's wallet,
       Senpai
@@ -20,6 +20,13 @@ works:
     date: '2026-07-13'
     code: 358168
     url: /works/358168/
+  - title: Yumemiru Shoujo - The Girl Who Dreams
+    author: fuuga
+    cover: /covers/50476.jpg
+    rating: 5.0
+    date: '2026-07-08'
+    code: 50476
+    url: /works/50476/
   - title: Bitch Mama no Kekkon Riyuu
     author: aoyama-akira
     cover: /covers/512473.jpg
@@ -41,6 +48,13 @@ works:
     date: '2026-07-11'
     code: 531966
     url: /works/531966/
+  - title: Rena
+    author: shinjima-saki
+    cover: /covers/537476.jpg
+    rating: 4.2
+    date: '2026-07-09'
+    code: 537476
+    url: /works/537476/
   - title: Imouto wa Mesu Orc 7
     author: muneshiro
     cover: /covers/547393.jpg
@@ -71,6 +85,14 @@ works:
     date: '2026-08-22'
     code: 627126
     url: /works/627126/
+  - title: Tada Sex Shitakatta dake nano ni SNS de Deatta Bimajo ga Scatolo Mania de,
+      Boku wa... 1
+    author: bonske
+    cover: /covers/633938.jpg
+    rating: 4.0
+    date: '2026-07-09'
+    code: 633938
+    url: /works/633938/
   - title: Akogare no Hito wa Mou Owari! 3
     author: group
     cover: /covers/642586.jpg
@@ -78,6 +100,35 @@ works:
     date: '2026-08-24'
     code: 642586
     url: /works/642586/
+  - title: Josou Gyakunan Debusen Ketsuhame Tokoroten
+    author: bonske
+    cover: /covers/656753.jpg
+    rating: 4.7
+    date: '2026-07-09'
+    code: 656753
+    url: /works/656753/
+  - title: Jinin ’Futsuu’ Dekachichi Inkya J◯ no Maso Mesu ga Nagga〜i Chinpo de Shuuryou
+      Made♡
+    author: amrita
+    cover: /covers/661954.jpg
+    rating: 4.7
+    date: '2026-07-09'
+    code: 661954
+    url: /works/661954/
+  - title: Ketsusenryaku | The Ass Strategy
+    author: ariga-tou
+    cover: /covers/662370.jpg
+    rating: 4.3
+    date: '2026-07-08'
+    code: 662370
+    url: /works/662370/
+  - title: Anal Hame Shitai Jukujo Shiri | This MILF Wants Anal Sex
+    author: bonske
+    cover: /covers/662658.jpg
+    rating: 4.7
+    date: '2026-07-09'
+    code: 662658
+    url: /works/662658/
   - title: Metal Girl Ie Onanie
     author: ishimura-ishimiso
     cover: /covers/663142.jpg

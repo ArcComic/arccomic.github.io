@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "dark skin"
-work_count: 19
+work_count: 24
 works:
   - title: Netorare Ibe Kiba Shizuka | The Netorare of Kiba Shizuka
     author: terasu-mc
@@ -17,6 +17,13 @@ works:
     date: '2026-07-17'
     code: 300943
     url: /works/300943/
+  - title: CHOCO x LOVE
+    author: highlow
+    cover: /covers/317673.jpg
+    rating: 4.4
+    date: '2026-07-09'
+    code: 317673
+    url: /works/317673/
   - title: Musume no Kareshi ni Ochiru Okaa-san. 2 | A Mother Who Falls For Her Daughter's
       Boyfriend 2
     author: sinori
@@ -53,6 +60,13 @@ works:
     date: '2026-08-23'
     code: 531967
     url: /works/531967/
+  - title: Aka-chan Tsukuri no Yoshuu | Preview Lesson About Babymaking
+    author: highlow
+    cover: /covers/555216.jpg
+    rating: 4.2
+    date: '2026-07-09'
+    code: 555216
+    url: /works/555216/
   - title: + (SEIKO AYASE VARIOUS) +
     author: st-mya
     cover: /covers/555816.jpg
@@ -97,6 +111,27 @@ works:
     date: '2026-08-24'
     code: 642588
     url: /works/642588/
+  - title: Kyonyuu na Gibo, Nyuuyoku Chuu
+    author: ma-kurou-madou
+    cover: /covers/662334.jpg
+    rating: 4.4
+    date: '2026-07-08'
+    code: 662334
+    url: /works/662334/
+  - title: Seiyoku Tsuyosugi GalKano Mama
+    author: naporitan
+    cover: /covers/662525.jpg
+    rating: 4.2
+    date: '2026-07-09'
+    code: 662525
+    url: /works/662525/
+  - title: Shoujo Baishun Shima | Girl Prostitution Island
+    author: nada-shio
+    cover: /covers/662647.jpg
+    rating: 4.7
+    date: '2026-07-09'
+    code: 662647
+    url: /works/662647/
   - title: Boku ni Yuuki ga Atta nara | If only I had the courage
     author: kamakiri-akagi-ryouichi
     cover: /covers/663672.jpg

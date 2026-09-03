@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "prostitution"
-work_count: 12
+work_count: 14
 works:
   - title: Yuri no o saifu ni shite agemasu ne, Senpai | I'll turn you into Yuri's wallet,
       Senpai
@@ -18,6 +18,13 @@ works:
     date: '2026-07-17'
     code: 477784
     url: /works/477784/
+  - title: Pirin The Prostitute
+    author: arukaniko
+    cover: /covers/505174.jpg
+    rating: 4.5
+    date: '2026-07-08'
+    code: 505174
+    url: /works/505174/
   - title: Uwa, Mesugaki Tsuyoi! | Crap, This Mesugaki's Too Powerful!
     author: poncocchan
     cover: /covers/550359.jpg
@@ -56,6 +63,13 @@ works:
     date: '2026-07-17'
     code: 658578
     url: /works/658578/
+  - title: Shoujo Baishun Shima | Girl Prostitution Island
+    author: nada-shio
+    cover: /covers/662647.jpg
+    rating: 4.7
+    date: '2026-07-09'
+    code: 662647
+    url: /works/662647/
   - title: Gohoubi wa Karada de. ~Ero-sugi Fukuri Kousei wa Seishori-ka no Oshigoto~
       (2) | The Reward is the Body ~The Overly Lewd Employee Benefits of the Service
       Department~

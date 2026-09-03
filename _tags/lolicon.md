@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "lolicon"
-work_count: 31
+work_count: 37
 works:
   - title: Megane Loli Choukyou Jugyou!! ~Otonashii Megane Lolikko ni Muriyari Dekachin
       Sounyuu~ | The Loli In Glasses' Training Lesson!! ~Force Fucking a Timid Glasses
@@ -12,6 +12,27 @@ works:
     date: '2026-07-13'
     code: 358168
     url: /works/358168/
+  - title: Imouto no Nukumori | A Little Sister's warmth
+    author: kinomoto-anzu
+    cover: /covers/407959.jpg
+    rating: 4.5
+    date: '2026-07-10'
+    code: 407959
+    url: /works/407959/
+  - title: Neteru Onii-chan no Are o Kariru Hanashi
+    author: tiger
+    cover: /covers/476399.jpg
+    rating: 4.9
+    date: '2026-07-10'
+    code: 476399
+    url: /works/476399/
+  - title: Rena
+    author: shinjima-saki
+    cover: /covers/537476.jpg
+    rating: 4.2
+    date: '2026-07-09'
+    code: 537476
+    url: /works/537476/
   - title: Uwa, Mesugaki Tsuyoi! | Crap, This Mesugaki's Too Powerful!
     author: poncocchan
     cover: /covers/550359.jpg
@@ -19,6 +40,27 @@ works:
     date: '2026-08-31'
     code: 550359
     url: /works/550359/
+  - title: Aka-chan Tsukuri no Yoshuu | Preview Lesson About Babymaking
+    author: highlow
+    cover: /covers/555216.jpg
+    rating: 4.2
+    date: '2026-07-09'
+    code: 555216
+    url: /works/555216/
+  - title: Shiori no Nai Akumu
+    author: unknown
+    cover: /covers/662203.jpg
+    rating: 4.6
+    date: '2026-07-08'
+    code: 662203
+    url: /works/662203/
+  - title: Shoujo Baishun Shima | Girl Prostitution Island
+    author: nada-shio
+    cover: /covers/662647.jpg
+    rating: 4.7
+    date: '2026-07-09'
+    code: 662647
+    url: /works/662647/
   - title: Natsu Loli Ism Ch. 1-4
     author: molokonomi-hiraya-nobori
     cover: /covers/663056.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "deepthroat"
-work_count: 12
+work_count: 14
 works:
   - title: Dansei ga Kyokutan ni Sukunai Kono Sekai de wa, Seishi wa Kichou na Shigen
       desu. Sono 2 | In a World Where Men Are Scarce, Sperm Is a Precious Resource 2
@@ -33,6 +33,22 @@ works:
     date: '2026-07-16'
     code: 655498
     url: /works/655498/
+  - title: Jinin ’Futsuu’ Dekachichi Inkya J◯ no Maso Mesu ga Nagga〜i Chinpo de Shuuryou
+      Made♡
+    author: amrita
+    cover: /covers/661954.jpg
+    rating: 4.7
+    date: '2026-07-09'
+    code: 661954
+    url: /works/661954/
+  - title: Eightman sensei no okagede kanojo ga dekimashita! (4) | Thanks to Eightman-sensei,
+      I Got a Girlfriend!
+    author: eightman
+    cover: /covers/662329.jpg
+    rating: 4.6
+    date: '2026-07-08'
+    code: 662329
+    url: /works/662329/
   - title: Metal Girl Ie Onanie
     author: ishimura-ishimiso
     cover: /covers/663142.jpg

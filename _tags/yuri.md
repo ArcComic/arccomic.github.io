@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "yuri"
-work_count: 18
+work_count: 20
 works:
   - title: Gekkoutou no Yume - Nyotaika Douwa ~Danshi Kinsei no Tou~
     author: mugen-no-sudadokei
@@ -42,6 +42,22 @@ works:
     date: '2026-08-20'
     code: 632132
     url: /works/632132/
+  - title: Yu-chan wa Pantsu o Shishu shitai! | Yu-chan Wants to Protect Her Panties
+      at All Costs!
+    author: meoppap
+    cover: /covers/662150.jpg
+    rating: 4.1
+    date: '2026-07-08'
+    code: 662150
+    url: /works/662150/
+  - title: 'Hyoui AV AV Joyuu no Karada o Sukihoudai Suru Hanashi | Possession AV: A
+      story about doing whatever you want with a porn star''s body'
+    author: ame-no-machi
+    cover: /covers/662184.jpg
+    rating: 4.4
+    date: '2026-07-08'
+    code: 662184
+    url: /works/662184/
   - title: Natsu Loli Ism Ch. 1-4
     author: molokonomi-hiraya-nobori
     cover: /covers/663056.jpg

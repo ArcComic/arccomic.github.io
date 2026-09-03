@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "lingerie"
-work_count: 10
+work_count: 14
 works:
+  - title: CHOCO x LOVE
+    author: highlow
+    cover: /covers/317673.jpg
+    rating: 4.4
+    date: '2026-07-09'
+    code: 317673
+    url: /works/317673/
   - title: Asunama 9
     author: ken-1
     cover: /covers/477784.jpg
@@ -32,6 +39,27 @@ works:
     date: '2026-08-19'
     code: 638178
     url: /works/638178/
+  - title: Josou Gyakunan Debusen Ketsuhame Tokoroten
+    author: bonske
+    cover: /covers/656753.jpg
+    rating: 4.7
+    date: '2026-07-09'
+    code: 656753
+    url: /works/656753/
+  - title: Seiyoku Tsuyosugi GalKano Mama
+    author: naporitan
+    cover: /covers/662525.jpg
+    rating: 4.2
+    date: '2026-07-09'
+    code: 662525
+    url: /works/662525/
+  - title: Anal Hame Shitai Jukujo Shiri | This MILF Wants Anal Sex
+    author: bonske
+    cover: /covers/662658.jpg
+    rating: 4.7
+    date: '2026-07-09'
+    code: 662658
+    url: /works/662658/
   - title: My Genius Senpai Girlfriend Swapped Bodies with a Gal!
     author: kuratsuka-riko
     cover: /covers/664584.jpg

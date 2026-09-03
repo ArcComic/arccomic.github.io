@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "kissing"
-work_count: 53
+work_count: 60
 works:
   - title: Shiraishi-san Wa Yokkyu Fuman | Shiraishi-san's Frustrated
     author: carburetor
@@ -10,6 +10,13 @@ works:
     date: '2026-08-24'
     code: 392617
     url: /works/392617/
+  - title: Yurikago
+    author: neko-samurai
+    cover: /covers/398305.jpg
+    rating: 5.0
+    date: '2026-07-10'
+    code: 398305
+    url: /works/398305/
   - title: Tonari no Ayane-san Desaki Battari Hen
     author: herio
     cover: /covers/432356.jpg
@@ -63,6 +70,13 @@ works:
     date: '2026-08-20'
     code: 510022
     url: /works/510022/
+  - title: This Woman’s Body Tells Lies
+    author: ichihara-kazuma
+    cover: /covers/527621.jpg
+    rating: 4.1
+    date: '2026-07-08'
+    code: 527621
+    url: /works/527621/
   - title: Gal to no Asobikata | How to Have Fun With Gyarus!
     author: buta
     cover: /covers/531967.jpg
@@ -87,6 +101,14 @@ works:
     date: '2026-07-11'
     code: 538063
     url: /works/538063/
+  - title: Ane no Tomodachi to SeFri ni Natta | My Big Sister's Friends And I Became
+      Sex Friends
+    author: rinrikoko
+    cover: /covers/538553.jpg
+    rating: 4.8
+    date: '2026-07-11'
+    code: 538553
+    url: /works/538553/
   - title: Pashiri no Shita Teku, Yabaitte... ~ Ebi Sori Iki Suru Namaiki Gyaru | Bullied
       Boy's Tongue Revenge Vol.1-4
     author: takayamanon
@@ -146,6 +168,15 @@ works:
     date: '2026-08-18'
     code: 619648
     url: /works/619648/
+  - title: Kareshi ni Betabore Chuu no Gal Senpai ga, Ore to Tsukiau made - Be my girlfriend!
+      Rio-senpai! | Being Clingy with Your Boyfriend... Kyaru, Senpai Why Not Date Me
+      Next?
+    author: butter-drip
+    cover: /covers/633278.jpg
+    rating: 4.4
+    date: '2026-07-10'
+    code: 633278
+    url: /works/633278/
   - title: Noa-chan to Ichaicha suru Hon
     author: remora
     cover: /covers/635512.jpg
@@ -203,6 +234,28 @@ works:
     date: '2026-08-22'
     code: 659484
     url: /works/659484/
+  - title: Yu-chan wa Pantsu o Shishu shitai! | Yu-chan Wants to Protect Her Panties
+      at All Costs!
+    author: meoppap
+    cover: /covers/662150.jpg
+    rating: 4.1
+    date: '2026-07-08'
+    code: 662150
+    url: /works/662150/
+  - title: Buck-Chichi! | Gambling! Volume 2
+    author: lime
+    cover: /covers/662877.jpg
+    rating: 4.9
+    date: '2026-07-10'
+    code: 662877
+    url: /works/662877/
+  - title: Kareshi no Tame ni Nugimasu. - I'll take it off for my boyfriend.
+    author: mitsuki
+    cover: /covers/662890.jpg
+    rating: 4.7
+    date: '2026-07-10'
+    code: 662890
+    url: /works/662890/
   - title: Natsu Loli Ism Ch. 1-4
     author: molokonomi-hiraya-nobori
     cover: /covers/663056.jpg

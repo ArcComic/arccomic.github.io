@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole male"
-work_count: 142
+work_count: 163
 works:
   - title: Netorare Ibe Kiba Shizuka | The Netorare of Kiba Shizuka
     author: terasu-mc
@@ -46,6 +46,13 @@ works:
     date: '2026-07-13'
     code: 346126
     url: /works/346126/
+  - title: Majimeni Yarimasu (Seitokaichou) Ch. 1-3
+    author: ikumo-taisuke
+    cover: /covers/346416.jpg
+    rating: 4.4
+    date: '2026-07-08'
+    code: 346416
+    url: /works/346416/
   - title: Shiraishi-san Wa Yokkyu Fuman | Shiraishi-san's Frustrated
     author: carburetor
     cover: /covers/392617.jpg
@@ -53,6 +60,13 @@ works:
     date: '2026-08-24'
     code: 392617
     url: /works/392617/
+  - title: Imouto no Nukumori | A Little Sister's warmth
+    author: kinomoto-anzu
+    cover: /covers/407959.jpg
+    rating: 4.5
+    date: '2026-07-10'
+    code: 407959
+    url: /works/407959/
   - title: Tonari no Ayane-san Desaki Battari Hen
     author: herio
     cover: /covers/432356.jpg
@@ -74,6 +88,13 @@ works:
     date: '2026-08-24'
     code: 444152
     url: /works/444152/
+  - title: Neteru Onii-chan no Are o Kariru Hanashi
+    author: tiger
+    cover: /covers/476399.jpg
+    rating: 4.9
+    date: '2026-07-10'
+    code: 476399
+    url: /works/476399/
   - title: Konoe no Kyuujitsu | Konoe's Day Off
     author: alp
     cover: /covers/479447.jpg
@@ -167,6 +188,14 @@ works:
     date: '2026-08-20'
     code: 537794
     url: /works/537794/
+  - title: Ane no Tomodachi to SeFri ni Natta | My Big Sister's Friends And I Became
+      Sex Friends
+    author: rinrikoko
+    cover: /covers/538553.jpg
+    rating: 4.8
+    date: '2026-07-11'
+    code: 538553
+    url: /works/538553/
   - title: Uwa, Mesugaki Tsuyoi! | Crap, This Mesugaki's Too Powerful!
     author: poncocchan
     cover: /covers/550359.jpg
@@ -182,6 +211,13 @@ works:
     date: '2026-08-22'
     code: 550948
     url: /works/550948/
+  - title: Aka-chan Tsukuri no Yoshuu | Preview Lesson About Babymaking
+    author: highlow
+    cover: /covers/555216.jpg
+    rating: 4.2
+    date: '2026-07-09'
+    code: 555216
+    url: /works/555216/
   - title: Saikai shita Osananajimi to Issen o Koecchau Hanashi | I Reunited With My
       Longtime Friend and Crossed the Line
     author: satsuki-usa
@@ -264,6 +300,13 @@ works:
     date: '2026-07-13'
     code: 606725
     url: /works/606725/
+  - title: Kanojo no Bad Luck ~Oya no Saikon, Dekita Gikei wa Seijuu Datta~
+    author: yokoshima
+    cover: /covers/608868.jpg
+    rating: 4.7
+    date: '2026-07-10'
+    code: 608868
+    url: /works/608868/
   - title: Caught in the Act
     author: unknown
     cover: /covers/617511.jpg
@@ -278,6 +321,23 @@ works:
     date: '2026-08-18'
     code: 619648
     url: /works/619648/
+  - title: Kareshi ni Betabore Chuu no Gal Senpai ga, Ore to Tsukiau made - Be my girlfriend!
+      Rio-senpai! | Being Clingy with Your Boyfriend... Kyaru, Senpai Why Not Date Me
+      Next?
+    author: butter-drip
+    cover: /covers/633278.jpg
+    rating: 4.4
+    date: '2026-07-10'
+    code: 633278
+    url: /works/633278/
+  - title: Tada Sex Shitakatta dake nano ni SNS de Deatta Bimajo ga Scatolo Mania de,
+      Boku wa... 1
+    author: bonske
+    cover: /covers/633938.jpg
+    rating: 4.0
+    date: '2026-07-09'
+    code: 633938
+    url: /works/633938/
   - title: Kanojo ga Kami o Someta Wake ~Kataomoi no Seiso Kurokami Ojou-sama ga Boku
       no Shiranai Tokoro de Otoko no Aji o Oboeru Hanashi~ | The Real Reason She Changed
       Her Hair
@@ -372,6 +432,13 @@ works:
     date: '2026-08-25'
     code: 643932
     url: /works/643932/
+  - title: Musume no Kawari ni | Instead of My Daughter
+    author: nanao-yukiji
+    cover: /covers/651309.jpg
+    rating: 4.1
+    date: '2026-07-11'
+    code: 651309
+    url: /works/651309/
   - title: Senpai to no Ecchi na Douga de Kasegu Hanashi | The Story of Earning Money
       with a Video of Steamy French Kissing with my Senpai
     author: mmchair
@@ -415,6 +482,13 @@ works:
     date: '2026-08-18'
     code: 656319
     url: /works/656319/
+  - title: How the Gloomy Me Took Charge of my Own Life by Becoming a Hostess
+    author: shikabanekamo
+    cover: /covers/656419.jpg
+    rating: 4.2
+    date: '2026-07-08'
+    code: 656419
+    url: /works/656419/
   - title: Hirusagari no Otetsudai
     author: mogiki-hayami
     cover: /covers/656686.jpg
@@ -466,6 +540,72 @@ works:
     date: '2026-08-21'
     code: 661796
     url: /works/661796/
+  - title: Jinin ’Futsuu’ Dekachichi Inkya J◯ no Maso Mesu ga Nagga〜i Chinpo de Shuuryou
+      Made♡
+    author: amrita
+    cover: /covers/661954.jpg
+    rating: 4.7
+    date: '2026-07-09'
+    code: 661954
+    url: /works/661954/
+  - title: Boshi Jouji ~Daisuki na Okaa-san to Konya Majiwaru~ - MOTHER AND SON LOVE
+      AFFAIR | A Mother's Love ~Tonight I Become One With The Mom I Love~ Part 2
+    author: shiono-kou
+    cover: /covers/662142.jpg
+    rating: 4.4
+    date: '2026-07-08'
+    code: 662142
+    url: /works/662142/
+  - title: Eightman sensei no okagede kanojo ga dekimashita! (4) | Thanks to Eightman-sensei,
+      I Got a Girlfriend!
+    author: eightman
+    cover: /covers/662329.jpg
+    rating: 4.6
+    date: '2026-07-08'
+    code: 662329
+    url: /works/662329/
+  - title: Kyonyuu na Gibo, Nyuuyoku Chuu
+    author: ma-kurou-madou
+    cover: /covers/662334.jpg
+    rating: 4.4
+    date: '2026-07-08'
+    code: 662334
+    url: /works/662334/
+  - title: Ketsusenryaku | The Ass Strategy
+    author: ariga-tou
+    cover: /covers/662370.jpg
+    rating: 4.3
+    date: '2026-07-08'
+    code: 662370
+    url: /works/662370/
+  - title: Seiyoku Tsuyosugi GalKano Mama
+    author: naporitan
+    cover: /covers/662525.jpg
+    rating: 4.2
+    date: '2026-07-09'
+    code: 662525
+    url: /works/662525/
+  - title: Joukyou, Saikai, Sex Akogare no Haru-nee
+    author: unknown
+    cover: /covers/662871.jpg
+    rating: 4.1
+    date: '2026-07-10'
+    code: 662871
+    url: /works/662871/
+  - title: Fallen 2
+    author: unknown
+    cover: /covers/662873.jpg
+    rating: 4.9
+    date: '2026-07-10'
+    code: 662873
+    url: /works/662873/
+  - title: Kimi wa Midara na Ohimesama | Your Own Lewd Princess
+    author: aoyama-kiiro
+    cover: /covers/662891.jpg
+    rating: 4.7
+    date: '2026-07-10'
+    code: 662891
+    url: /works/662891/
   - title: Hontou no Shinkon Seikatsu wa, Oji-san no Ie de Hajimattemasu | My real life
       as a newlywed has begun at the Oji-san's house.
     author: damda
@@ -489,6 +629,20 @@ works:
     date: '2026-07-11'
     code: 663192
     url: /works/663192/
+  - title: Roshutsukyou no Hitozuma, Get daze! | Yeah! I Caught An Exhibitionist Wife!!
+    author: oberon
+    cover: /covers/663194.jpg
+    rating: 4.4
+    date: '2026-07-11'
+    code: 663194
+    url: /works/663194/
+  - title: A late night visit leads to a mother and son's marital sex life together
+    author: fuwatoro-opanchu-cake
+    cover: /covers/663195.jpg
+    rating: 4.1
+    date: '2026-07-11'
+    code: 663195
+    url: /works/663195/
   - title: Gal to Otaku no Idenshi Aishou Batsugun H | The Superb Genetic Compatibility
       Between a Gyaru and an Otaku
     author: joucho

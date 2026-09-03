@@ -1,8 +1,22 @@
 ---
 layout: tag
 tag_name: "glasses"
-work_count: 49
+work_count: 58
 works:
+  - title: Life with Married Women Just Like a Manga 2 - Ch. 1-5
+    author: hidemaru
+    cover: /covers/116138.jpg
+    rating: 4.8
+    date: '2026-07-08'
+    code: 116138
+    url: /works/116138/
+  - title: Majimeni Yarimasu (Seitokaichou) Ch. 1-3
+    author: ikumo-taisuke
+    cover: /covers/346416.jpg
+    rating: 4.4
+    date: '2026-07-08'
+    code: 346416
+    url: /works/346416/
   - title: Megane Loli Choukyou Jugyou!! ~Otonashii Megane Lolikko ni Muriyari Dekachin
       Sounyuu~ | The Loli In Glasses' Training Lesson!! ~Force Fucking a Timid Glasses
       Wearing Loli With My Big Cock~ Ch. 1-5
@@ -27,6 +41,13 @@ works:
     date: '2026-08-31'
     code: 494172
     url: /works/494172/
+  - title: Yumemiru Shoujo - The Girl Who Dreams
+    author: fuuga
+    cover: /covers/50476.jpg
+    rating: 5.0
+    date: '2026-07-08'
+    code: 50476
+    url: /works/50476/
   - title: Haha ga Aitsu no Omocha ni Ochiru made ~Naomi 1
     author: karukiya
     cover: /covers/511662.jpg
@@ -123,6 +144,49 @@ works:
     date: '2026-08-18'
     code: 656319
     url: /works/656319/
+  - title: Josou Gyakunan Debusen Ketsuhame Tokoroten
+    author: bonske
+    cover: /covers/656753.jpg
+    rating: 4.7
+    date: '2026-07-09'
+    code: 656753
+    url: /works/656753/
+  - title: Akogare no Oppai wa Ane no Aji
+    author: emine-kendama
+    cover: /covers/657256.jpg
+    rating: 5.0
+    date: '2026-07-09'
+    code: 657256
+    url: /works/657256/
+  - title: Shiori no Nai Akumu
+    author: unknown
+    cover: /covers/662203.jpg
+    rating: 4.6
+    date: '2026-07-08'
+    code: 662203
+    url: /works/662203/
+  - title: Eightman sensei no okagede kanojo ga dekimashita! (4) | Thanks to Eightman-sensei,
+      I Got a Girlfriend!
+    author: eightman
+    cover: /covers/662329.jpg
+    rating: 4.6
+    date: '2026-07-08'
+    code: 662329
+    url: /works/662329/
+  - title: Ketsusenryaku | The Ass Strategy
+    author: ariga-tou
+    cover: /covers/662370.jpg
+    rating: 4.3
+    date: '2026-07-08'
+    code: 662370
+    url: /works/662370/
+  - title: Anal Hame Shitai Jukujo Shiri | This MILF Wants Anal Sex
+    author: bonske
+    cover: /covers/662658.jpg
+    rating: 4.7
+    date: '2026-07-09'
+    code: 662658
+    url: /works/662658/
   - title: Natsu Loli Ism Ch. 1-4
     author: molokonomi-hiraya-nobori
     cover: /covers/663056.jpg

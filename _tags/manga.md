@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "manga"
-work_count: 59
+work_count: 70
 works:
+  - title: Life with Married Women Just Like a Manga 2 - Ch. 1-5
+    author: hidemaru
+    cover: /covers/116138.jpg
+    rating: 4.8
+    date: '2026-07-08'
+    code: 116138
+    url: /works/116138/
   - title: HUNDRED GAME Ch. 1-3
     author: kuon-michiyoshi
     cover: /covers/142561.jpg
@@ -10,6 +17,13 @@ works:
     date: '2026-08-19'
     code: 142561
     url: /works/142561/
+  - title: CHOCO x LOVE
+    author: highlow
+    cover: /covers/317673.jpg
+    rating: 4.4
+    date: '2026-07-09'
+    code: 317673
+    url: /works/317673/
   - title: Sokukan Delivery
     author: ice
     cover: /covers/332781.jpg
@@ -24,6 +38,13 @@ works:
     date: '2026-07-13'
     code: 346126
     url: /works/346126/
+  - title: Majimeni Yarimasu (Seitokaichou) Ch. 1-3
+    author: ikumo-taisuke
+    cover: /covers/346416.jpg
+    rating: 4.4
+    date: '2026-07-08'
+    code: 346416
+    url: /works/346416/
   - title: Megane Loli Choukyou Jugyou!! ~Otonashii Megane Lolikko ni Muriyari Dekachin
       Sounyuu~ | The Loli In Glasses' Training Lesson!! ~Force Fucking a Timid Glasses
       Wearing Loli With My Big Cock~ Ch. 1-5
@@ -33,6 +54,13 @@ works:
     date: '2026-07-13'
     code: 358168
     url: /works/358168/
+  - title: Imouto no Nukumori | A Little Sister's warmth
+    author: kinomoto-anzu
+    cover: /covers/407959.jpg
+    rating: 4.5
+    date: '2026-07-10'
+    code: 407959
+    url: /works/407959/
   - title: Kanojo no Kawaii Mieppari | My Cute Gyaru Girlfriend Is a Total Poser
     author: buta
     cover: /covers/441114.jpg
@@ -47,6 +75,13 @@ works:
     date: '2026-07-17'
     code: 498679
     url: /works/498679/
+  - title: Yumemiru Shoujo - The Girl Who Dreams
+    author: fuuga
+    cover: /covers/50476.jpg
+    rating: 5.0
+    date: '2026-07-08'
+    code: 50476
+    url: /works/50476/
   - title: Koibito no Furi Shite Tara, Iki Goe ga…. Yukata Sugata no Kyonyuu Oneesan
       ni, Tamarazu Sounyuu 1 I Can’t Stop Myself From Penetrating My Big Boobed Older
       Female Cousin 1
@@ -118,6 +153,13 @@ works:
     date: '2026-08-29'
     code: 544324
     url: /works/544324/
+  - title: Aka-chan Tsukuri no Yoshuu | Preview Lesson About Babymaking
+    author: highlow
+    cover: /covers/555216.jpg
+    rating: 4.2
+    date: '2026-07-09'
+    code: 555216
+    url: /works/555216/
   - title: Iiwa Watashi no Karada Suki ni Shite Ch.1-2
     author: shunjou-shuusuke
     cover: /covers/561787.jpg
@@ -183,6 +225,13 @@ works:
     date: '2026-08-22'
     code: 656140
     url: /works/656140/
+  - title: How the Gloomy Me Took Charge of my Own Life by Becoming a Hostess
+    author: shikabanekamo
+    cover: /covers/656419.jpg
+    rating: 4.2
+    date: '2026-07-08'
+    code: 656419
+    url: /works/656419/
   - title: Hirusagari no Otetsudai
     author: mogiki-hayami
     cover: /covers/656686.jpg
@@ -198,6 +247,36 @@ works:
     date: '2026-08-29'
     code: 660399
     url: /works/660399/
+  - title: Eightman sensei no okagede kanojo ga dekimashita! (4) | Thanks to Eightman-sensei,
+      I Got a Girlfriend!
+    author: eightman
+    cover: /covers/662329.jpg
+    rating: 4.6
+    date: '2026-07-08'
+    code: 662329
+    url: /works/662329/
+  - title: Kimi no Mae de Kimi Igai o Daku Ch. 29 | Having Sex with Someone Else in
+      Front of You 29
+    author: nakao
+    cover: /covers/662343.jpg
+    rating: 4.0
+    date: '2026-07-08'
+    code: 662343
+    url: /works/662343/
+  - title: Ketsusenryaku | The Ass Strategy
+    author: ariga-tou
+    cover: /covers/662370.jpg
+    rating: 4.3
+    date: '2026-07-08'
+    code: 662370
+    url: /works/662370/
+  - title: Kimi wa Midara na Ohimesama | Your Own Lewd Princess
+    author: aoyama-kiiro
+    cover: /covers/662891.jpg
+    rating: 4.7
+    date: '2026-07-10'
+    code: 662891
+    url: /works/662891/
   - title: Natsu Loli Ism Ch. 1-4
     author: molokonomi-hiraya-nobori
     cover: /covers/663056.jpg

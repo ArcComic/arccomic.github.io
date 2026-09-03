@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "ponytail"
-work_count: 22
+work_count: 26
 works:
+  - title: CHOCO x LOVE
+    author: highlow
+    cover: /covers/317673.jpg
+    rating: 4.4
+    date: '2026-07-09'
+    code: 317673
+    url: /works/317673/
   - title: Bitch Mama no Kekkon Riyuu
     author: aoyama-akira
     cover: /covers/512473.jpg
@@ -71,6 +78,13 @@ works:
     date: '2026-08-20'
     code: 639463
     url: /works/639463/
+  - title: Musume no Kawari ni | Instead of My Daughter
+    author: nanao-yukiji
+    cover: /covers/651309.jpg
+    rating: 4.1
+    date: '2026-07-11'
+    code: 651309
+    url: /works/651309/
   - title: Karada ga Binkan Sugiru Watashi wa Itoko ni Itazura sarete mo Teikoudekinai!
     author: romomata
     cover: /covers/655421.jpg
@@ -85,6 +99,21 @@ works:
     date: '2026-08-18'
     code: 656319
     url: /works/656319/
+  - title: 'Hyoui AV AV Joyuu no Karada o Sukihoudai Suru Hanashi | Possession AV: A
+      story about doing whatever you want with a porn star''s body'
+    author: ame-no-machi
+    cover: /covers/662184.jpg
+    rating: 4.4
+    date: '2026-07-08'
+    code: 662184
+    url: /works/662184/
+  - title: Anal Hame Shitai Jukujo Shiri | This MILF Wants Anal Sex
+    author: bonske
+    cover: /covers/662658.jpg
+    rating: 4.7
+    date: '2026-07-09'
+    code: 662658
+    url: /works/662658/
   - title: Natsu Loli Ism Ch. 1-4
     author: molokonomi-hiraya-nobori
     cover: /covers/663056.jpg

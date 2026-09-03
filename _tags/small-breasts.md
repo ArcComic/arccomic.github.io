@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "small breasts"
-work_count: 4
+work_count: 5
 works:
   - title: Hokenshitsu no Futon no Naka de Satori Sedai JK to Naisho H!
     author: niji-teru
@@ -10,6 +10,13 @@ works:
     date: '2026-07-13'
     code: 606725
     url: /works/606725/
+  - title: Shoujo Baishun Shima | Girl Prostitution Island
+    author: nada-shio
+    cover: /covers/662647.jpg
+    rating: 4.7
+    date: '2026-07-09'
+    code: 662647
+    url: /works/662647/
   - title: Kazano Hiori ni Warui Koto o Suru Hanashi (Zenpen) | The Story of Doing Bad
       Things to Kazeno Hikari
     author: dokuneko-noil

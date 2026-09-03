@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "netorare"
-work_count: 80
+work_count: 95
 works:
   - title: Netorare Ibe Kiba Shizuka | The Netorare of Kiba Shizuka
     author: terasu-mc
@@ -17,6 +17,13 @@ works:
     date: '2026-07-17'
     code: 300943
     url: /works/300943/
+  - title: Yurikago
+    author: neko-samurai
+    cover: /covers/398305.jpg
+    rating: 5.0
+    date: '2026-07-10'
+    code: 398305
+    url: /works/398305/
   - title: Doushia (Terasu MC)] Dorei Gazoku
     author: terasu-mc
     cover: /covers/427676.jpg
@@ -157,6 +164,13 @@ works:
     date: '2026-07-15'
     code: 544477
     url: /works/544477/
+  - title: Choukyou Zumi Hitozuma OL wa Joushi ni Dakare Futatabi Ochiru
+    author: toono-suika
+    cover: /covers/550164.jpg
+    rating: 4.0
+    date: '2026-07-10'
+    code: 550164
+    url: /works/550164/
   - title: + (SEIKO AYASE VARIOUS) +
     author: st-mya
     cover: /covers/555816.jpg
@@ -200,6 +214,13 @@ works:
     date: '2026-08-21'
     code: 593575
     url: /works/593575/
+  - title: Kanojo no Bad Luck ~Oya no Saikon, Dekita Gikei wa Seijuu Datta~
+    author: yokoshima
+    cover: /covers/608868.jpg
+    rating: 4.7
+    date: '2026-07-10'
+    code: 608868
+    url: /works/608868/
   - title: Ottori Itome no Oba o Odoshite Hamete Iinari Onaho-ka Keikaku | Gentle Slit-Eyed
       Aunty Blackmail & Obedient Fuckhole Training Project
     author: ginen
@@ -237,6 +258,15 @@ works:
     date: '2026-07-17'
     code: 632056
     url: /works/632056/
+  - title: Kareshi ni Betabore Chuu no Gal Senpai ga, Ore to Tsukiau made - Be my girlfriend!
+      Rio-senpai! | Being Clingy with Your Boyfriend... Kyaru, Senpai Why Not Date Me
+      Next?
+    author: butter-drip
+    cover: /covers/633278.jpg
+    rating: 4.4
+    date: '2026-07-10'
+    code: 633278
+    url: /works/633278/
   - title: Kanojo ga Kami o Someta Wake ~Kataomoi no Seiso Kurokami Ojou-sama ga Boku
       no Shiranai Tokoro de Otoko no Aji o Oboeru Hanashi~ | The Real Reason She Changed
       Her Hair
@@ -297,6 +327,13 @@ works:
     date: '2026-07-17'
     code: 648073
     url: /works/648073/
+  - title: Musume no Kawari ni | Instead of My Daughter
+    author: nanao-yukiji
+    cover: /covers/651309.jpg
+    rating: 4.1
+    date: '2026-07-11'
+    code: 651309
+    url: /works/651309/
   - title: Majime na Salaryman ga JK Chijo ni Otosareru Hanashi
     author: hamo
     cover: /covers/652651.jpg
@@ -333,6 +370,77 @@ works:
     date: '2026-08-25'
     code: 656146
     url: /works/656146/
+  - title: Akogare no Oppai wa Ane no Aji
+    author: emine-kendama
+    cover: /covers/657256.jpg
+    rating: 5.0
+    date: '2026-07-09'
+    code: 657256
+    url: /works/657256/
+  - title: Warui Ko | Bad Girl
+    author: arai-kei
+    cover: /covers/658005.jpg
+    rating: 4.6
+    date: '2026-07-09'
+    code: 658005
+    url: /works/658005/
+  - title: Seiyoku Mamire no Tsumamigoro - My Wife is a Lustructor
+    author: emine-kendama
+    cover: /covers/661349.jpg
+    rating: 4.1
+    date: '2026-07-09'
+    code: 661349
+    url: /works/661349/
+  - title: L-cup Housewife Onahole Slave Kanae (39) ~A Week of Being Driven Wild by
+      Another Man's Cock~
+    author: unknown
+    cover: /covers/662202.jpg
+    rating: 4.3
+    date: '2026-07-08'
+    code: 662202
+    url: /works/662202/
+  - title: Suki na Joshi ga Hentai Yuujin ni Kuwareta
+    author: kemusi-no-bansan-kai
+    cover: /covers/662215.jpg
+    rating: 4.4
+    date: '2026-07-08'
+    code: 662215
+    url: /works/662215/
+  - title: Kyonyuu na Gibo, Nyuuyoku Chuu
+    author: ma-kurou-madou
+    cover: /covers/662334.jpg
+    rating: 4.4
+    date: '2026-07-08'
+    code: 662334
+    url: /works/662334/
+  - title: Pure Delight A Front-Row Seat
+    author: daikanki
+    cover: /covers/662550.jpg
+    rating: 4.6
+    date: '2026-07-09'
+    code: 662550
+    url: /works/662550/
+  - title: Akogare no Ano Hito wa | The Person I Admire
+    author: minami-chisato-arisawa-tsukasa
+    cover: /covers/662657.jpg
+    rating: 4.6
+    date: '2026-07-09'
+    code: 662657
+    url: /works/662657/
+  - title: Joukyou, Saikai, Sex Akogare no Haru-nee
+    author: unknown
+    cover: /covers/662871.jpg
+    rating: 4.1
+    date: '2026-07-10'
+    code: 662871
+    url: /works/662871/
+  - title: Kareshi no Tame ni Nugimasu. - I'll take it off for my boyfriend.
+    author: mitsuki
+    cover: /covers/662890.jpg
+    rating: 4.7
+    date: '2026-07-10'
+    code: 662890
+    url: /works/662890/
   - title: Hontou no Shinkon Seikatsu wa, Oji-san no Ie de Hajimattemasu | My real life
       as a newlywed has begun at the Oji-san's house.
     author: damda

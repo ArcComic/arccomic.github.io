@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "double penetration"
-work_count: 8
+work_count: 10
 works:
   - title: Bitch Mama no Kekkon Riyuu
     author: aoyama-akira
@@ -10,6 +10,13 @@ works:
     date: '2026-08-25'
     code: 512473
     url: /works/512473/
+  - title: Rena
+    author: shinjima-saki
+    cover: /covers/537476.jpg
+    rating: 4.2
+    date: '2026-07-09'
+    code: 537476
+    url: /works/537476/
   - title: Wakazuma Arijigoku
     author: sunagawa-tara
     cover: /covers/595788.jpg
@@ -31,6 +38,13 @@ works:
     date: '2026-08-24'
     code: 642586
     url: /works/642586/
+  - title: Shoujo Baishun Shima | Girl Prostitution Island
+    author: nada-shio
+    cover: /covers/662647.jpg
+    rating: 4.7
+    date: '2026-07-09'
+    code: 662647
+    url: /works/662647/
   - title: Igyou Koubi Kairaku Jigoku 1 + 2
     author: allegro
     cover: /covers/668880.jpg

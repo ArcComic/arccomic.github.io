@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "impregnation"
-work_count: 18
+work_count: 21
 works:
+  - title: Yurikago
+    author: neko-samurai
+    cover: /covers/398305.jpg
+    rating: 5.0
+    date: '2026-07-10'
+    code: 398305
+    url: /works/398305/
   - title: Doushia (Terasu MC)] Dorei Gazoku
     author: terasu-mc
     cover: /covers/427676.jpg
@@ -47,6 +54,14 @@ works:
     date: '2026-07-17'
     code: 658578
     url: /works/658578/
+  - title: Jinin ’Futsuu’ Dekachichi Inkya J◯ no Maso Mesu ga Nagga〜i Chinpo de Shuuryou
+      Made♡
+    author: amrita
+    cover: /covers/661954.jpg
+    rating: 4.7
+    date: '2026-07-09'
+    code: 661954
+    url: /works/661954/
   - title: Hontou no Shinkon Seikatsu wa, Oji-san no Ie de Hajimattemasu | My real life
       as a newlywed has begun at the Oji-san's house.
     author: damda
@@ -55,6 +70,13 @@ works:
     date: '2026-07-11'
     code: 663089
     url: /works/663089/
+  - title: Roshutsukyou no Hitozuma, Get daze! | Yeah! I Caught An Exhibitionist Wife!!
+    author: oberon
+    cover: /covers/663194.jpg
+    rating: 4.4
+    date: '2026-07-11'
+    code: 663194
+    url: /works/663194/
   - title: Night of Feather and Ink
     author: brulee
     cover: /covers/664914.jpg

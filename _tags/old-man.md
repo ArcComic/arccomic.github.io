@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "old man"
-work_count: 5
+work_count: 7
 works:
+  - title: Choukyou Zumi Hitozuma OL wa Joushi ni Dakare Futatabi Ochiru
+    author: toono-suika
+    cover: /covers/550164.jpg
+    rating: 4.0
+    date: '2026-07-10'
+    code: 550164
+    url: /works/550164/
   - title: Metamorphosis
     author: shindol
     cover: /covers/616358.jpg
@@ -10,6 +17,13 @@ works:
     date: '2026-07-15'
     code: 616358
     url: /works/616358/
+  - title: How the Gloomy Me Took Charge of my Own Life by Becoming a Hostess
+    author: shikabanekamo
+    cover: /covers/656419.jpg
+    rating: 4.2
+    date: '2026-07-08'
+    code: 656419
+    url: /works/656419/
   - title: Hontou no Shinkon Seikatsu wa, Oji-san no Ie de Hajimattemasu | My real life
       as a newlywed has begun at the Oji-san's house.
     author: damda

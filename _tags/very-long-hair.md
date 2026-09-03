@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "very long hair"
-work_count: 11
+work_count: 12
 works:
+  - title: Fallen 2
+    author: unknown
+    cover: /covers/662873.jpg
+    rating: 4.9
+    date: '2026-07-10'
+    code: 662873
+    url: /works/662873/
   - title: It was supposed to be a story about two people who loved each other but her
       best friend stole his virginity
     author: meisuke

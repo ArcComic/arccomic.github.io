@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "schoolgirl uniform"
-work_count: 51
+work_count: 57
 works:
   - title: Yuri no o saifu ni shite agemasu ne, Senpai | I'll turn you into Yuri's wallet,
       Senpai
@@ -11,6 +11,13 @@ works:
     date: '2026-07-17'
     code: 289523
     url: /works/289523/
+  - title: CHOCO x LOVE
+    author: highlow
+    cover: /covers/317673.jpg
+    rating: 4.4
+    date: '2026-07-09'
+    code: 317673
+    url: /works/317673/
   - title: Kanojo Face | Girlfriend Face
     author: mashiro-shirako
     cover: /covers/346126.jpg
@@ -18,6 +25,13 @@ works:
     date: '2026-07-13'
     code: 346126
     url: /works/346126/
+  - title: Majimeni Yarimasu (Seitokaichou) Ch. 1-3
+    author: ikumo-taisuke
+    cover: /covers/346416.jpg
+    rating: 4.4
+    date: '2026-07-08'
+    code: 346416
+    url: /works/346416/
   - title: Ashizeme Kanojo _0 | girlfriend who likes to torture with her feet _0
     author: kaoinshou-zero
     cover: /covers/430672.jpg
@@ -139,6 +153,35 @@ works:
     date: '2026-07-16'
     code: 655498
     url: /works/655498/
+  - title: Warui Ko | Bad Girl
+    author: arai-kei
+    cover: /covers/658005.jpg
+    rating: 4.6
+    date: '2026-07-09'
+    code: 658005
+    url: /works/658005/
+  - title: Jinin ’Futsuu’ Dekachichi Inkya J◯ no Maso Mesu ga Nagga〜i Chinpo de Shuuryou
+      Made♡
+    author: amrita
+    cover: /covers/661954.jpg
+    rating: 4.7
+    date: '2026-07-09'
+    code: 661954
+    url: /works/661954/
+  - title: Shiori no Nai Akumu
+    author: unknown
+    cover: /covers/662203.jpg
+    rating: 4.6
+    date: '2026-07-08'
+    code: 662203
+    url: /works/662203/
+  - title: Suki na Joshi ga Hentai Yuujin ni Kuwareta
+    author: kemusi-no-bansan-kai
+    cover: /covers/662215.jpg
+    rating: 4.4
+    date: '2026-07-08'
+    code: 662215
+    url: /works/662215/
   - title: Gal to Otaku no Idenshi Aishou Batsugun H | The Superb Genetic Compatibility
       Between a Gyaru and an Otaku
     author: joucho

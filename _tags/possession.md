@@ -1,8 +1,16 @@
 ---
 layout: tag
 tag_name: "possession"
-work_count: 4
+work_count: 6
 works:
+  - title: Hyoui Suru nara Kanemochi no Bakunyuu Babaa ni Kagiru! | If you want to be
+      possessed, it must be a rich hag with big tits!
+    author: like-a-moon
+    cover: /covers/444819.jpg
+    rating: 4.8
+    date: '2026-07-08'
+    code: 444819
+    url: /works/444819/
   - title: Bocchi de Shinda Ore ga Bishoujo Nurse ni Natta Hanashi | The Story of How
       I Died Alone and Became a Sexy Nurse
     author: testame
@@ -11,6 +19,14 @@ works:
     date: '2026-08-31'
     code: 494172
     url: /works/494172/
+  - title: 'Hyoui AV AV Joyuu no Karada o Sukihoudai Suru Hanashi | Possession AV: A
+      story about doing whatever you want with a porn star''s body'
+    author: ame-no-machi
+    cover: /covers/662184.jpg
+    rating: 4.4
+    date: '2026-07-08'
+    code: 662184
+    url: /works/662184/
   - title: Inokori seibutsu-shitsu | Detention in the Biology Lab
     author: hiiragi-popura
     cover: /covers/674463.jpg

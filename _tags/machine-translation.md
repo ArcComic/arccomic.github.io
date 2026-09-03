@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "machine translation"
-work_count: 3
+work_count: 4
 works:
+  - title: Seiyoku Tsuyosugi GalKano Mama
+    author: naporitan
+    cover: /covers/662525.jpg
+    rating: 4.2
+    date: '2026-07-09'
+    code: 662525
+    url: /works/662525/
   - title: It was supposed to be a story about two people who loved each other but her
       best friend stole his virginity
     author: meisuke

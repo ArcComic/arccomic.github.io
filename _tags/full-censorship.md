@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "full censorship"
-work_count: 24
+work_count: 26
 works:
+  - title: Life with Married Women Just Like a Manga 2 - Ch. 1-5
+    author: hidemaru
+    cover: /covers/116138.jpg
+    rating: 4.8
+    date: '2026-07-08'
+    code: 116138
+    url: /works/116138/
   - title: HUNDRED GAME Ch. 1-3
     author: kuon-michiyoshi
     cover: /covers/142561.jpg
@@ -17,6 +24,13 @@ works:
     date: '2026-08-20'
     code: 332781
     url: /works/332781/
+  - title: Tempt & Throb
+    author: mushihara
+    cover: /covers/468655.jpg
+    rating: 4.8
+    date: '2026-07-10'
+    code: 468655
+    url: /works/468655/
   - title: Tan to Tan | Unique and Us
     author: mushihara
     cover: /covers/499536.jpg

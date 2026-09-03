@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "story arc"
-work_count: 18
+work_count: 29
 works:
+  - title: Life with Married Women Just Like a Manga 2 - Ch. 1-5
+    author: hidemaru
+    cover: /covers/116138.jpg
+    rating: 4.8
+    date: '2026-07-08'
+    code: 116138
+    url: /works/116138/
   - title: HUNDRED GAME Ch. 1-3
     author: kuon-michiyoshi
     cover: /covers/142561.jpg
@@ -10,6 +17,34 @@ works:
     date: '2026-08-19'
     code: 142561
     url: /works/142561/
+  - title: Majimeni Yarimasu (Seitokaichou) Ch. 1-3
+    author: ikumo-taisuke
+    cover: /covers/346416.jpg
+    rating: 4.4
+    date: '2026-07-08'
+    code: 346416
+    url: /works/346416/
+  - title: Yurikago
+    author: neko-samurai
+    cover: /covers/398305.jpg
+    rating: 5.0
+    date: '2026-07-10'
+    code: 398305
+    url: /works/398305/
+  - title: Yumemiru Shoujo - The Girl Who Dreams
+    author: fuuga
+    cover: /covers/50476.jpg
+    rating: 5.0
+    date: '2026-07-08'
+    code: 50476
+    url: /works/50476/
+  - title: This Woman’s Body Tells Lies
+    author: ichihara-kazuma
+    cover: /covers/527621.jpg
+    rating: 4.1
+    date: '2026-07-08'
+    code: 527621
+    url: /works/527621/
   - title: '"Sex no Benkyou Shiyokka?" Kareshi ga Iru no ni Itoko kara Shojo wo Ubaware
       Zecchou Shidou 1-5 | Let''s Learn About Sex: Your Cousin Will Take Your Virginity
       and Teach You How to Come 1-5'
@@ -19,6 +54,14 @@ works:
     date: '2026-08-29'
     code: 534388
     url: /works/534388/
+  - title: Ane no Tomodachi to SeFri ni Natta | My Big Sister's Friends And I Became
+      Sex Friends
+    author: rinrikoko
+    cover: /covers/538553.jpg
+    rating: 4.8
+    date: '2026-07-11'
+    code: 538553
+    url: /works/538553/
   - title: Iiwa Watashi no Karada Suki ni Shite Ch.1-2
     author: shunjou-shuusuke
     cover: /covers/561787.jpg
@@ -56,6 +99,20 @@ works:
     date: '2026-08-18'
     code: 656319
     url: /works/656319/
+  - title: Akogare no Oppai wa Ane no Aji
+    author: emine-kendama
+    cover: /covers/657256.jpg
+    rating: 5.0
+    date: '2026-07-09'
+    code: 657256
+    url: /works/657256/
+  - title: Warui Ko | Bad Girl
+    author: arai-kei
+    cover: /covers/658005.jpg
+    rating: 4.6
+    date: '2026-07-09'
+    code: 658005
+    url: /works/658005/
   - title: Imouto ga Ore no Kanojo!? 2-haku 3-ka no Ecchi na Kankei | My Sister is My
       Girlfriend!? Sexual Relationship for Two Nights and Three Days
     author: katagiri-kaneharu
@@ -64,6 +121,28 @@ works:
     date: '2026-08-29'
     code: 660399
     url: /works/660399/
+  - title: Boshi Jouji ~Daisuki na Okaa-san to Konya Majiwaru~ - MOTHER AND SON LOVE
+      AFFAIR | A Mother's Love ~Tonight I Become One With The Mom I Love~ Part 2
+    author: shiono-kou
+    cover: /covers/662142.jpg
+    rating: 4.4
+    date: '2026-07-08'
+    code: 662142
+    url: /works/662142/
+  - title: Ketsusenryaku | The Ass Strategy
+    author: ariga-tou
+    cover: /covers/662370.jpg
+    rating: 4.3
+    date: '2026-07-08'
+    code: 662370
+    url: /works/662370/
+  - title: Shoujo Baishun Shima | Girl Prostitution Island
+    author: nada-shio
+    cover: /covers/662647.jpg
+    rating: 4.7
+    date: '2026-07-09'
+    code: 662647
+    url: /works/662647/
   - title: Boku ni Yuuki ga Atta nara | If only I had the courage
     author: kamakiri-akagi-ryouichi
     cover: /covers/663672.jpg

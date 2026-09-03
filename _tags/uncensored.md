@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "uncensored"
-work_count: 21
+work_count: 22
 works:
   - title: Konoe no Kyuujitsu | Konoe's Day Off
     author: alp
@@ -67,6 +67,13 @@ works:
     date: '2026-08-18'
     code: 656319
     url: /works/656319/
+  - title: Warui Ko | Bad Girl
+    author: arai-kei
+    cover: /covers/658005.jpg
+    rating: 4.6
+    date: '2026-07-09'
+    code: 658005
+    url: /works/658005/
   - title: Natsu Loli Ism Ch. 1-4
     author: molokonomi-hiraya-nobori
     cover: /covers/663056.jpg

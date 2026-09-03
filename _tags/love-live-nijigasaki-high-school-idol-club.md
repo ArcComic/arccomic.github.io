@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "love live nijigasaki high school idol club"
-work_count: 2
+work_count: 3
 works:
   - title: Konoe no Kyuujitsu | Konoe's Day Off
     author: alp
@@ -10,6 +10,14 @@ works:
     date: '2026-08-18'
     code: 479447
     url: /works/479447/
+  - title: Yu-chan wa Pantsu o Shishu shitai! | Yu-chan Wants to Protect Her Panties
+      at All Costs!
+    author: meoppap
+    cover: /covers/662150.jpg
+    rating: 4.1
+    date: '2026-07-08'
+    code: 662150
+    url: /works/662150/
   - title: 'Hyakka Yuran - Sakura | Encyclopedia: Yu-Chan''s Cherry Blossoms'
     author: ueto-seri-ueto-ruri
     cover: /covers/664642.jpg

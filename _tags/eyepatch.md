@@ -1,0 +1,13 @@
+---
+layout: tag
+tag_name: "eyepatch"
+work_count: 1
+works:
+  - title: Shoujo Baishun Shima | Girl Prostitution Island
+    author: nada-shio
+    cover: /covers/662647.jpg
+    rating: 4.7
+    date: '2026-07-09'
+    code: 662647
+    url: /works/662647/
+---

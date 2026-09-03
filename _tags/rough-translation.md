@@ -1,8 +1,16 @@
 ---
 layout: tag
 tag_name: "rough translation"
-work_count: 157
+work_count: 176
 works:
+  - title: Hyoui Suru nara Kanemochi no Bakunyuu Babaa ni Kagiru! | If you want to be
+      possessed, it must be a rich hag with big tits!
+    author: like-a-moon
+    cover: /covers/444819.jpg
+    rating: 4.8
+    date: '2026-07-08'
+    code: 444819
+    url: /works/444819/
   - title: Hiro-kun no Mama Wa Boku no Dorei 2 | Hiro-kun Mama Is My Sex Slave 2
     author: exit-up
     cover: /covers/508818.jpg
@@ -128,6 +136,13 @@ works:
     date: '2026-07-17'
     code: 547393
     url: /works/547393/
+  - title: Choukyou Zumi Hitozuma OL wa Joushi ni Dakare Futatabi Ochiru
+    author: toono-suika
+    cover: /covers/550164.jpg
+    rating: 4.0
+    date: '2026-07-10'
+    code: 550164
+    url: /works/550164/
   - title: Watashi sae Gaman Sureba...
     author: hatakeyama-tohya
     cover: /covers/553061.jpg
@@ -214,6 +229,13 @@ works:
     date: '2026-07-13'
     code: 606725
     url: /works/606725/
+  - title: Kanojo no Bad Luck ~Oya no Saikon, Dekita Gikei wa Seijuu Datta~
+    author: yokoshima
+    cover: /covers/608868.jpg
+    rating: 4.7
+    date: '2026-07-10'
+    code: 608868
+    url: /works/608868/
   - title: Fuufu Koukan Matching Appli ~DQN na Hitozuma ni Nakadashi Houshi~
     author: hachi-mega
     cover: /covers/613739.jpg
@@ -258,6 +280,23 @@ works:
     date: '2026-08-20'
     code: 632132
     url: /works/632132/
+  - title: Kareshi ni Betabore Chuu no Gal Senpai ga, Ore to Tsukiau made - Be my girlfriend!
+      Rio-senpai! | Being Clingy with Your Boyfriend... Kyaru, Senpai Why Not Date Me
+      Next?
+    author: butter-drip
+    cover: /covers/633278.jpg
+    rating: 4.4
+    date: '2026-07-10'
+    code: 633278
+    url: /works/633278/
+  - title: Tada Sex Shitakatta dake nano ni SNS de Deatta Bimajo ga Scatolo Mania de,
+      Boku wa... 1
+    author: bonske
+    cover: /covers/633938.jpg
+    rating: 4.0
+    date: '2026-07-09'
+    code: 633938
+    url: /works/633938/
   - title: Imouto Oppai de Sukusuku Seikatsu
     author: asaomi-shimura
     cover: /covers/636802.jpg
@@ -457,6 +496,13 @@ works:
     date: '2026-08-21'
     code: 656686
     url: /works/656686/
+  - title: Akogare no Oppai wa Ane no Aji
+    author: emine-kendama
+    cover: /covers/657256.jpg
+    rating: 5.0
+    date: '2026-07-09'
+    code: 657256
+    url: /works/657256/
   - title: Haha Ana ni Irazumba
     author: unknown
     cover: /covers/657981.jpg
@@ -464,6 +510,13 @@ works:
     date: '2026-08-24'
     code: 657981
     url: /works/657981/
+  - title: Warui Ko | Bad Girl
+    author: arai-kei
+    cover: /covers/658005.jpg
+    rating: 4.6
+    date: '2026-07-09'
+    code: 658005
+    url: /works/658005/
   - title: Okaasan nara Daijyoubu Da Kara
     author: daidai-shikibu
     cover: /covers/658826.jpg
@@ -492,6 +545,93 @@ works:
     date: '2026-08-21'
     code: 661796
     url: /works/661796/
+  - title: Jinin ’Futsuu’ Dekachichi Inkya J◯ no Maso Mesu ga Nagga〜i Chinpo de Shuuryou
+      Made♡
+    author: amrita
+    cover: /covers/661954.jpg
+    rating: 4.7
+    date: '2026-07-09'
+    code: 661954
+    url: /works/661954/
+  - title: 'Hyoui AV AV Joyuu no Karada o Sukihoudai Suru Hanashi | Possession AV: A
+      story about doing whatever you want with a porn star''s body'
+    author: ame-no-machi
+    cover: /covers/662184.jpg
+    rating: 4.4
+    date: '2026-07-08'
+    code: 662184
+    url: /works/662184/
+  - title: 'Sanae no Kiken na Kami Asobi | Sanae in Danger: Playing with the Gods'
+    author: hozmi
+    cover: /covers/662200.jpg
+    rating: 4.2
+    date: '2026-07-08'
+    code: 662200
+    url: /works/662200/
+  - title: L-cup Housewife Onahole Slave Kanae (39) ~A Week of Being Driven Wild by
+      Another Man's Cock~
+    author: unknown
+    cover: /covers/662202.jpg
+    rating: 4.3
+    date: '2026-07-08'
+    code: 662202
+    url: /works/662202/
+  - title: Shiori no Nai Akumu
+    author: unknown
+    cover: /covers/662203.jpg
+    rating: 4.6
+    date: '2026-07-08'
+    code: 662203
+    url: /works/662203/
+  - title: Sister Sara to Madara-Chan
+    author: ohno-kanae
+    cover: /covers/662208.jpg
+    rating: 4.1
+    date: '2026-07-08'
+    code: 662208
+    url: /works/662208/
+  - title: Suki na Joshi ga Hentai Yuujin ni Kuwareta
+    author: kemusi-no-bansan-kai
+    cover: /covers/662215.jpg
+    rating: 4.4
+    date: '2026-07-08'
+    code: 662215
+    url: /works/662215/
+  - title: Yurui Ko
+    author: sena-monaco
+    cover: /covers/662356.jpg
+    rating: 4.3
+    date: '2026-07-08'
+    code: 662356
+    url: /works/662356/
+  - title: Seiyoku Tsuyosugi GalKano Mama
+    author: naporitan
+    cover: /covers/662525.jpg
+    rating: 4.2
+    date: '2026-07-09'
+    code: 662525
+    url: /works/662525/
+  - title: Pure Delight A Front-Row Seat
+    author: daikanki
+    cover: /covers/662550.jpg
+    rating: 4.6
+    date: '2026-07-09'
+    code: 662550
+    url: /works/662550/
+  - title: Joukyou, Saikai, Sex Akogare no Haru-nee
+    author: unknown
+    cover: /covers/662871.jpg
+    rating: 4.1
+    date: '2026-07-10'
+    code: 662871
+    url: /works/662871/
+  - title: Fallen 2
+    author: unknown
+    cover: /covers/662873.jpg
+    rating: 4.9
+    date: '2026-07-10'
+    code: 662873
+    url: /works/662873/
   - title: Hontou no Shinkon Seikatsu wa, Oji-san no Ie de Hajimattemasu | My real life
       as a newlywed has begun at the Oji-san's house.
     author: damda

@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "shemale"
-work_count: 2
+work_count: 3
 works:
+  - title: Pirin The Prostitute
+    author: arukaniko
+    cover: /covers/505174.jpg
+    rating: 4.5
+    date: '2026-07-08'
+    code: 505174
+    url: /works/505174/
   - title: Saotsuki Honey to Doukyo Seikatsu Ch. 6
     author: hontoku
     cover: /covers/674763.jpg

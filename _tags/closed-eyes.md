@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "closed eyes"
-work_count: 3
+work_count: 4
 works:
   - title: Sokukan Delivery
     author: ice
@@ -10,6 +10,13 @@ works:
     date: '2026-08-20'
     code: 332781
     url: /works/332781/
+  - title: Yurikago
+    author: neko-samurai
+    cover: /covers/398305.jpg
+    rating: 5.0
+    date: '2026-07-10'
+    code: 398305
+    url: /works/398305/
   - title: Kichiku Kyoushi ni Otosareta Boku no Seitokaichou Part.3
     author: norakuro-nero
     cover: /covers/557452.jpg

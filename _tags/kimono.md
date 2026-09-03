@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "kimono"
-work_count: 6
+work_count: 9
 works:
+  - title: CHOCO x LOVE
+    author: highlow
+    cover: /covers/317673.jpg
+    rating: 4.4
+    date: '2026-07-09'
+    code: 317673
+    url: /works/317673/
   - title: Koibito no Furi Shite Tara, Iki Goe ga…. Yukata Sugata no Kyonyuu Oneesan
       ni, Tamarazu Sounyuu 1 I Can’t Stop Myself From Penetrating My Big Boobed Older
       Female Cousin 1
@@ -36,6 +43,20 @@ works:
     date: '2026-08-29'
     code: 660399
     url: /works/660399/
+  - title: Seiyoku Mamire no Tsumamigoro - My Wife is a Lustructor
+    author: emine-kendama
+    cover: /covers/661349.jpg
+    rating: 4.1
+    date: '2026-07-09'
+    code: 661349
+    url: /works/661349/
+  - title: Shoujo Baishun Shima | Girl Prostitution Island
+    author: nada-shio
+    cover: /covers/662647.jpg
+    rating: 4.7
+    date: '2026-07-09'
+    code: 662647
+    url: /works/662647/
   - title: Nayotake Kaguya no Himegoto
     author: yukino-minato
     cover: /covers/673992.jpg

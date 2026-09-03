@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "shotacon"
-work_count: 31
+work_count: 34
 works:
+  - title: CHOCO x LOVE
+    author: highlow
+    cover: /covers/317673.jpg
+    rating: 4.4
+    date: '2026-07-09'
+    code: 317673
+    url: /works/317673/
   - title: Saikin, Musuko no Yousu ga Hen nan desu | Lately my son has been acting Strangly
     author: matsumoto-jikyuuryoku
     cover: /covers/342639.jpg
@@ -104,6 +111,13 @@ works:
     date: '2026-07-17'
     code: 648073
     url: /works/648073/
+  - title: Musume no Kawari ni | Instead of My Daughter
+    author: nanao-yukiji
+    cover: /covers/651309.jpg
+    rating: 4.1
+    date: '2026-07-11'
+    code: 651309
+    url: /works/651309/
   - title: Karada ga Binkan Sugiru Watashi wa Itoko ni Itazura sarete mo Teikoudekinai!
     author: romomata
     cover: /covers/655421.jpg
@@ -111,6 +125,13 @@ works:
     date: '2026-08-21'
     code: 655421
     url: /works/655421/
+  - title: Akogare no Oppai wa Ane no Aji
+    author: emine-kendama
+    cover: /covers/657256.jpg
+    rating: 5.0
+    date: '2026-07-09'
+    code: 657256
+    url: /works/657256/
   - title: Shokushu Flower Shop no Onee-san
     author: dozamura
     cover: /covers/661796.jpg
