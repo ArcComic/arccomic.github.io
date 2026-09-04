@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "domination loss"
-work_count: 19
+work_count: 21
 works:
   - title: My Only Princess
     author: mackgee
@@ -48,6 +48,13 @@ works:
     date: '2026-04-17'
     code: 567843
     url: /works/567843/
+  - title: Keep Your Eyes
+    author: ouji-hiyoko
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/578020.jpg
+    rating: 4.7
+    date: '2026-09-04'
+    code: 578020
+    url: /works/578020/
   - title: Motokano-tachi to Ya Re Naoshi!? CHAPTER 2
     author: shinonome-ryu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/598175.jpg
@@ -100,6 +107,13 @@ works:
     date: '2026-05-03'
     code: 647619
     url: /works/647619/
+  - title: Alcoholic Libido
+    author: osaki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/647692.jpg
+    rating: 0.0
+    date: '2026-09-04'
+    code: 647692
+    url: /works/647692/
   - title: If I Have a Chance, I Want to Warp My Boyfriend's Fetishes! ~Lovey-dovey
       Trip to the Hotsprings~
     author: meeko

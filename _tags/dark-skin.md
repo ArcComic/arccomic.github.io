@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "dark skin"
-work_count: 73
+work_count: 78
 works:
   - title: GalPa!
     author: sakagami-umi
@@ -52,6 +52,14 @@ works:
     date: '2026-04-12'
     code: 328805
     url: /works/328805/
+  - title: Gal to InCha no Kousai Shuukan. | A Week-Long Relation Between a Gyaru and
+      an Introvert.
+    author: tamabi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/347653.jpg
+    rating: 0.0
+    date: '2026-09-04'
+    code: 347653
+    url: /works/347653/
   - title: LOOK LIKE
     author: terasu-mc
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/388099.jpg
@@ -199,6 +207,13 @@ works:
     date: '2026-03-09'
     code: 569575
     url: /works/569575/
+  - title: Her Predicaments
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/586417.jpg
+    rating: 0.0
+    date: '2026-09-04'
+    code: 586417
+    url: /works/586417/
   - title: Mesu no Ie II ~Tsuma wa Midare Ubareru~
     author: ame-arare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/591112.jpg
@@ -507,6 +522,13 @@ works:
     date: '2026-07-16'
     code: 664424
     url: /works/664424/
+  - title: Black Kigyou No Kamin Shitsu Ga Yari Beya Ni Natteta Hanashi
+    author: oshima-aki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/668297.jpg
+    rating: 0.0
+    date: '2026-09-04'
+    code: 668297
+    url: /works/668297/
   - title: Azanaharu Kanojo no Shikiroku | Color Records of a Girlfriend in Entanglement
     author: allegro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/669452.jpg
@@ -514,6 +536,14 @@ works:
     date: '2026-08-20'
     code: 669452
     url: /works/669452/
+  - title: Totsuzen Ane ga Dekita Hanashi 4 | The Story of How I Suddenly Got Older
+      Sisters 4
+    author: oshima-aki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/669459.jpg
+    rating: 0.0
+    date: '2026-09-04'
+    code: 669459
+    url: /works/669459/
   - title: Watashi no Kareshi to Motokare o Shoukai shimasu
     author: hone
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673774.jpg
@@ -535,4 +565,11 @@ works:
     date: '2026-08-28'
     code: 676193
     url: /works/676193/
+  - title: My childhood friend, the “black gal,” who's surprisingly easy to sway
+    author: zarameccho
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/677418.jpg
+    rating: 0.0
+    date: '2026-09-04'
+    code: 677418
+    url: /works/677418/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "defloration"
-work_count: 123
+work_count: 126
 works:
   - title: Love Approach
     author: hanafuda-sakurano
@@ -375,6 +375,13 @@ works:
     date: '2026-07-15'
     code: 616358
     url: /works/616358/
+  - title: Kimiha Bokuno Keikokuno Bijyo | You're the Woman of my Dreams
+    author: yasson-yoshiyuki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/618098.jpg
+    rating: 0.0
+    date: '2026-09-04'
+    code: 618098
+    url: /works/618098/
   - title: Majime na Iinchou no Kanojo ga Sex ni Hamatta Riyuu
     author: furaimai
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/618562.jpg
@@ -397,6 +404,15 @@ works:
     date: '2026-03-03'
     code: 620755
     url: /works/620755/
+  - title: Seishun o Yarinaosu nara Kondo koso Suki datta Doukyuusei to Tsukiatte Zettai
+      Yarimakuritai. | If I'm Reliving My Life, This Time I Wanna Get With The Girl
+      I Loved Back Then
+    author: akadashi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/625933.jpg
+    rating: 0.0
+    date: '2026-09-04'
+    code: 625933
+    url: /works/625933/
   - title: Dansei Idol ni Okasareru Hanashi
     author: ema
     cover: /covers/630903.jpg
@@ -912,4 +928,11 @@ works:
     date: '2026-08-28'
     code: 676197
     url: /works/676197/
+  - title: My childhood friend, the “black gal,” who's surprisingly easy to sway
+    author: zarameccho
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/677418.jpg
+    rating: 0.0
+    date: '2026-09-04'
+    code: 677418
+    url: /works/677418/
 ---

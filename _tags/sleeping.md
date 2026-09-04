@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sleeping"
-work_count: 39
+work_count: 40
 works:
   - title: Netemo Sametemo | Be it Sleeping or Awake
     author: takasugi-kou
@@ -281,6 +281,13 @@ works:
     date: '2026-08-24'
     code: 666532
     url: /works/666532/
+  - title: Black Kigyou No Kamin Shitsu Ga Yari Beya Ni Natteta Hanashi
+    author: oshima-aki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/668297.jpg
+    rating: 0.0
+    date: '2026-09-04'
+    code: 668297
+    url: /works/668297/
   - title: Boku-tachi Mama to Yattemasu
     author: ameto-yuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/672450.jpg

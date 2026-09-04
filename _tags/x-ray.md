@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "x-ray"
-work_count: 160
+work_count: 164
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -275,6 +275,13 @@ works:
     date: '2026-03-04'
     code: 573414
     url: /works/573414/
+  - title: Keep Your Eyes
+    author: ouji-hiyoko
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/578020.jpg
+    rating: 4.7
+    date: '2026-09-04'
+    code: 578020
+    url: /works/578020/
   - title: Nanami-chan can’t resist after a date! Cafe, Cinema, Love hotel~
     author: a2me
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/579819.jpg
@@ -436,6 +443,15 @@ works:
     date: '2026-04-27'
     code: 618562
     url: /works/618562/
+  - title: Seishun o Yarinaosu nara Kondo koso Suki datta Doukyuusei to Tsukiatte Zettai
+      Yarimakuritai. | If I'm Reliving My Life, This Time I Wanna Get With The Girl
+      I Loved Back Then
+    author: akadashi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/625933.jpg
+    rating: 0.0
+    date: '2026-09-04'
+    code: 625933
+    url: /works/625933/
   - title: Dansei Idol ni Okasareru Hanashi
     author: ema
     cover: /covers/630903.jpg
@@ -1122,6 +1138,14 @@ works:
     date: '2026-08-19'
     code: 668867
     url: /works/668867/
+  - title: Totsuzen Ane ga Dekita Hanashi 4 | The Story of How I Suddenly Got Older
+      Sisters 4
+    author: oshima-aki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/669459.jpg
+    rating: 0.0
+    date: '2026-09-04'
+    code: 669459
+    url: /works/669459/
   - title: Tenshi Hirotta kara Haramaseru ~Ojii-san Senyou Botebara Onaho ni Naru made
       no Kiroku~ | I Met an Angel, and then I Knocked Her Up ~A Record of Becoming Oji-san’s
       Personal Preggo Belly Onahole~
@@ -1190,4 +1214,13 @@ works:
     date: '2026-08-28'
     code: 676013
     url: /works/676013/
+  - title: Nijigen Otaku no Ore ga Tenkou Shite Kita Kyonyuu Idol ni Otosareru made
+      - A 2D Otaku Falls for the Curvy Idol Transfer Student | How I, a 2D-Obsessed
+      Otaku, Fell for the Busty Idol Who Transferred to My School
+    author: manno
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/677731.jpg
+    rating: 0.0
+    date: '2026-09-04'
+    code: 677731
+    url: /works/677731/
 ---

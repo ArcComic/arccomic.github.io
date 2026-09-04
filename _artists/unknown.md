@@ -1,7 +1,7 @@
 ---
 layout: artist
 artist_name: "unknown"
-work_count: 39
+work_count: 40
 works:
   - title: Risato
     cover: /covers/484852.jpg
@@ -21,6 +21,12 @@ works:
     date: '2026-03-09'
     code: 569575
     url: /works/569575/
+  - title: Her Predicaments
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/586417.jpg
+    rating: 0.0
+    date: '2026-09-04'
+    code: 586417
+    url: /works/586417/
   - title: Hitozuma Takuhaibin 1+2
     cover: /covers/599910.jpg
     rating: 4.2

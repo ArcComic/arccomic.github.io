@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "hairy"
-work_count: 147
+work_count: 150
 works:
   - title: Adoration
     author: kishizuka-kenji
@@ -98,6 +98,13 @@ works:
     date: '2026-04-30'
     code: 392475
     url: /works/392475/
+  - title: Rakki Taishyaku
+    author: fushoku
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/407561.jpg
+    rating: 4.8
+    date: '2026-09-04'
+    code: 407561
+    url: /works/407561/
   - title: Yasashii Oba-san Yarashii Oba-san | Kind Lady, Dirty Lady Ch. 1-3
     author: hidemaru
     cover: /covers/421874.jpg
@@ -339,6 +346,13 @@ works:
     date: '2026-07-06'
     code: 543494
     url: /works/543494/
+  - title: Tooriame | Passing Rain
+    author: osaki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/544274.jpg
+    rating: 0.0
+    date: '2026-09-04'
+    code: 544274
+    url: /works/544274/
   - title: Okaa-san Itadakimasu. 3
     author: andoryu
     cover: /covers/544477.jpg
@@ -450,6 +464,13 @@ works:
     date: '2026-04-27'
     code: 586028
     url: /works/586028/
+  - title: Her Predicaments
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/586417.jpg
+    rating: 0.0
+    date: '2026-09-04'
+    code: 586417
+    url: /works/586417/
   - title: Chijo Monogatari Henshitsusha (Onna) Shutsubotsu Chuu
     author: enma
     cover: /covers/588713.jpg

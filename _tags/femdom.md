@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "femdom"
-work_count: 83
+work_count: 85
 works:
   - title: Life with Married Women Just Like a Manga 2 - Ch. 1-5
     author: hidemaru
@@ -193,6 +193,13 @@ works:
     date: '2026-03-09'
     code: 569575
     url: /works/569575/
+  - title: Keep Your Eyes
+    author: ouji-hiyoko
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/578020.jpg
+    rating: 4.7
+    date: '2026-09-04'
+    code: 578020
+    url: /works/578020/
   - title: Chijo Monogatari Henshitsusha (Onna) Shutsubotsu Chuu
     author: enma
     cover: /covers/588713.jpg
@@ -416,6 +423,13 @@ works:
     date: '2026-05-03'
     code: 647619
     url: /works/647619/
+  - title: Alcoholic Libido
+    author: osaki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/647692.jpg
+    rating: 0.0
+    date: '2026-09-04'
+    code: 647692
+    url: /works/647692/
   - title: If I Have a Chance, I Want to Warp My Boyfriend's Fetishes! ~Lovey-dovey
       Trip to the Hotsprings~
     author: meeko

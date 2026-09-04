@@ -1,8 +1,22 @@
 ---
 layout: tag
 tag_name: "small breasts"
-work_count: 19
+work_count: 26
 works:
+  - title: FLUFFY LAUGH GIRL
+    author: shibasaki-syouzi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/210672.jpg
+    rating: 4.7
+    date: '2026-09-04'
+    code: 210672
+    url: /works/210672/
+  - title: Kimi to Itami wo Wakachi "AI" tai | I Want to Share Your Pain
+    author: betty
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/294902.jpg
+    rating: 0.0
+    date: '2026-09-04'
+    code: 294902
+    url: /works/294902/
   - title: Rako Slip!
     author: bujidearu
     cover: /covers/393984.jpg
@@ -10,6 +24,13 @@ works:
     date: '2026-02-26'
     code: 393984
     url: /works/393984/
+  - title: Hon no Mori no Ouji-sama | Prince of the Book Forest
+    author: shibasaki-syouzi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/464782.jpg
+    rating: 0.0
+    date: '2026-09-04'
+    code: 464782
+    url: /works/464782/
   - title: Pakokatsu Oji-san to Kaede-chan (1+2+3) | Kaede and The Sugar Daddy
     author: nizigensan
     cover: /covers/543086.jpg
@@ -17,6 +38,13 @@ works:
     date: '2026-02-25'
     code: 543086
     url: /works/543086/
+  - title: Her Predicaments
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/586417.jpg
+    rating: 0.0
+    date: '2026-09-04'
+    code: 586417
+    url: /works/586417/
   - title: Hokenshitsu no Futon no Naka de Satori Sedai JK to Naisho H!
     author: niji-teru
     cover: /covers/606725.jpg
@@ -24,6 +52,22 @@ works:
     date: '2026-07-13'
     code: 606725
     url: /works/606725/
+  - title: Kimiha Bokuno Keikokuno Bijyo | You're the Woman of my Dreams
+    author: yasson-yoshiyuki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/618098.jpg
+    rating: 0.0
+    date: '2026-09-04'
+    code: 618098
+    url: /works/618098/
+  - title: Seishun o Yarinaosu nara Kondo koso Suki datta Doukyuusei to Tsukiatte Zettai
+      Yarimakuritai. | If I'm Reliving My Life, This Time I Wanna Get With The Girl
+      I Loved Back Then
+    author: akadashi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/625933.jpg
+    rating: 0.0
+    date: '2026-09-04'
+    code: 625933
+    url: /works/625933/
   - title: Honeori! Osewa Girl♡ | SK8er Girl Lends Me a Hand!
     author: kyaradain
     cover: /covers/634609.jpg
@@ -93,6 +137,13 @@ works:
     date: '2026-05-10'
     code: 649114
     url: /works/649114/
+  - title: Kawaii Hito | Cute People
+    author: shibasaki-syouzi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651854.jpg
+    rating: 0.0
+    date: '2026-09-04'
+    code: 651854
+    url: /works/651854/
   - title: REMIND ME & Beautiful Days Without You
     author: 3e
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/652639.jpg

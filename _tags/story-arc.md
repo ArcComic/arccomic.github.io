@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "story arc"
-work_count: 112
+work_count: 114
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -66,6 +66,14 @@ works:
     date: '2026-07-08'
     code: 346416
     url: /works/346416/
+  - title: Gal to InCha no Kousai Shuukan. | A Week-Long Relation Between a Gyaru and
+      an Introvert.
+    author: tamabi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/347653.jpg
+    rating: 0.0
+    date: '2026-09-04'
+    code: 347653
+    url: /works/347653/
   - title: Hito no Tsuma | Someone's Wife
     author: yumi-ichirou
     cover: /covers/349247.jpg
@@ -822,6 +830,13 @@ works:
     date: '2026-08-31'
     code: 676658
     url: /works/676658/
+  - title: My childhood friend, the “black gal,” who's surprisingly easy to sway
+    author: zarameccho
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/677418.jpg
+    rating: 0.0
+    date: '2026-09-04'
+    code: 677418
+    url: /works/677418/
   - title: Hottokenaino
     author: hara-shigeyuki
     cover: /covers/77864.jpg

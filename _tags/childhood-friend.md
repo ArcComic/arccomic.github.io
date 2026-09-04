@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "childhood friend"
-work_count: 10
+work_count: 12
 works:
   - title: Koi no Susumekata | How to Advance Your Love
     author: danimaru
@@ -25,6 +25,15 @@ works:
     date: '2026-04-27'
     code: 587827
     url: /works/587827/
+  - title: Seishun o Yarinaosu nara Kondo koso Suki datta Doukyuusei to Tsukiatte Zettai
+      Yarimakuritai. | If I'm Reliving My Life, This Time I Wanna Get With The Girl
+      I Loved Back Then
+    author: akadashi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/625933.jpg
+    rating: 0.0
+    date: '2026-09-04'
+    code: 625933
+    url: /works/625933/
   - title: Mujikaku na Osananajimi to Kyoumi Honi de Yatte Mitara | What Happens When
       You Sleep With Your Oblivious Childhood Friend Just Out of Curiosity Part 1
     author: gen
@@ -79,4 +88,11 @@ works:
     date: '2026-07-15'
     code: 664027
     url: /works/664027/
+  - title: My childhood friend, the “black gal,” who's surprisingly easy to sway
+    author: zarameccho
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/677418.jpg
+    rating: 0.0
+    date: '2026-09-04'
+    code: 677418
+    url: /works/677418/
 ---

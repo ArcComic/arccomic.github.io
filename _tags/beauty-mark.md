@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "beauty mark"
-work_count: 97
+work_count: 100
 works:
   - title: Uragiri no Ai wa Mitsu no Aji | Treacherous Love Tastes Like Honey
     author: cuzukago
@@ -300,6 +300,13 @@ works:
     date: '2026-04-21'
     code: 579493
     url: /works/579493/
+  - title: Her Predicaments
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/586417.jpg
+    rating: 0.0
+    date: '2026-09-04'
+    code: 586417
+    url: /works/586417/
   - title: Suki nano wa Anata dake... 3
     author: end
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/586634.jpg
@@ -523,6 +530,13 @@ works:
     date: '2026-05-01'
     code: 647334
     url: /works/647334/
+  - title: Alcoholic Libido
+    author: osaki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/647692.jpg
+    rating: 0.0
+    date: '2026-09-04'
+    code: 647692
+    url: /works/647692/
   - title: Otaku ni Yasashii Gal wa Aitsu no Kanojo | A Gal Who's Kind to Otaku Is That
       Guy's Girlfriend
     author: yamamoto
@@ -721,4 +735,11 @@ works:
     date: '2026-08-29'
     code: 676320
     url: /works/676320/
+  - title: My childhood friend, the “black gal,” who's surprisingly easy to sway
+    author: zarameccho
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/677418.jpg
+    rating: 0.0
+    date: '2026-09-04'
+    code: 677418
+    url: /works/677418/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "glasses"
-work_count: 143
+work_count: 145
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -94,6 +94,14 @@ works:
     date: '2026-07-08'
     code: 346416
     url: /works/346416/
+  - title: Gal to InCha no Kousai Shuukan. | A Week-Long Relation Between a Gyaru and
+      an Introvert.
+    author: tamabi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/347653.jpg
+    rating: 0.0
+    date: '2026-09-04'
+    code: 347653
+    url: /works/347653/
   - title: Megane Loli Choukyou Jugyou!! ~Otonashii Megane Lolikko ni Muriyari Dekachin
       Sounyuu~ | The Loli In Glasses' Training Lesson!! ~Force Fucking a Timid Glasses
       Wearing Loli With My Big Cock~ Ch. 1-5
@@ -400,6 +408,13 @@ works:
     date: '2026-08-22'
     code: 586316
     url: /works/586316/
+  - title: Her Predicaments
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/586417.jpg
+    rating: 0.0
+    date: '2026-09-04'
+    code: 586417
+    url: /works/586417/
   - title: Kyoushi to Mama to Koibito no Kao
     author: mifune-seijirou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/592307.jpg

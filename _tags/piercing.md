@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "piercing"
-work_count: 21
+work_count: 22
 works:
   - title: Doushia (Terasu MC)] Dorei Gazoku
     author: terasu-mc
@@ -121,6 +121,14 @@ works:
     date: '2026-07-16'
     code: 664845
     url: /works/664845/
+  - title: Totsuzen Ane ga Dekita Hanashi 4 | The Story of How I Suddenly Got Older
+      Sisters 4
+    author: oshima-aki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/669459.jpg
+    rating: 0.0
+    date: '2026-09-04'
+    code: 669459
+    url: /works/669459/
   - title: Jirashite Jirashite Jirashite Jirashite Pierce | Tease Me, Tease Me, Tease
       Me Teasing Piercing
     author: chi-ra-rhyzhm

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sunglasses"
-work_count: 4
+work_count: 5
 works:
   - title: Tsuma wo Yariman ni Shimasu Shakkin no Tame desu kara.
     author: pietoro
@@ -10,6 +10,13 @@ works:
     date: '2026-04-12'
     code: 293478
     url: /works/293478/
+  - title: Keep Your Eyes
+    author: ouji-hiyoko
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/578020.jpg
+    rating: 4.7
+    date: '2026-09-04'
+    code: 578020
+    url: /works/578020/
   - title: Chijo Monogatari Henshitsusha (Onna) Shutsubotsu Chuu
     author: enma
     cover: /covers/588713.jpg

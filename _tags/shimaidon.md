@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "shimaidon"
-work_count: 12
+work_count: 13
 works:
   - title: Zenin Mukuwarenai Harem | A Harem Where No One Is Reciprocated
     author: group
@@ -76,6 +76,14 @@ works:
     date: '2026-07-07'
     code: 661909
     url: /works/661909/
+  - title: Totsuzen Ane ga Dekita Hanashi 4 | The Story of How I Suddenly Got Older
+      Sisters 4
+    author: oshima-aki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/669459.jpg
+    rating: 0.0
+    date: '2026-09-04'
+    code: 669459
+    url: /works/669459/
   - title: Chibikko Nurunuru Harem Seikatsu
     author: ippon-lolicon-trap
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/674984.jpg

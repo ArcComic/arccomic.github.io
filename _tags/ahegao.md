@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "ahegao"
-work_count: 164
+work_count: 168
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -275,6 +275,13 @@ works:
     date: '2026-02-25'
     code: 543086
     url: /works/543086/
+  - title: Tooriame | Passing Rain
+    author: osaki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/544274.jpg
+    rating: 0.0
+    date: '2026-09-04'
+    code: 544274
+    url: /works/544274/
   - title: Hina-chan wa Papa ga Hoshikatta. | Hina-chan Wanted A Daddy
     author: ojo
     cover: /covers/544368.jpg
@@ -740,6 +747,13 @@ works:
     date: '2026-05-01'
     code: 647334
     url: /works/647334/
+  - title: Alcoholic Libido
+    author: osaki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/647692.jpg
+    rating: 0.0
+    date: '2026-09-04'
+    code: 647692
+    url: /works/647692/
   - title: Otaku ni Yasashii Gal wa Aitsu no Kanojo | A Gal Who's Kind to Otaku Is That
       Guy's Girlfriend
     author: yamamoto
@@ -1112,6 +1126,14 @@ works:
     date: '2026-08-23'
     code: 668880
     url: /works/668880/
+  - title: Totsuzen Ane ga Dekita Hanashi 4 | The Story of How I Suddenly Got Older
+      Sisters 4
+    author: oshima-aki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/669459.jpg
+    rating: 0.0
+    date: '2026-09-04'
+    code: 669459
+    url: /works/669459/
   - title: Tenshi Hirotta kara Haramaseru ~Ojii-san Senyou Botebara Onaho ni Naru made
       no Kiroku~ | I Met an Angel, and then I Knocked Her Up ~A Record of Becoming Oji-san’s
       Personal Preggo Belly Onahole~
@@ -1220,6 +1242,15 @@ works:
     date: '2026-08-31'
     code: 677234
     url: /works/677234/
+  - title: Nijigen Otaku no Ore ga Tenkou Shite Kita Kyonyuu Idol ni Otosareru made
+      - A 2D Otaku Falls for the Curvy Idol Transfer Student | How I, a 2D-Obsessed
+      Otaku, Fell for the Busty Idol Who Transferred to My School
+    author: manno
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/677731.jpg
+    rating: 0.0
+    date: '2026-09-04'
+    code: 677731
+    url: /works/677731/
   - title: Inin Keiyaku | Lewd Pregnancy Contract
     author: yoshiura-kazuya
     cover: /covers/83595.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "multi-work series"
-work_count: 201
+work_count: 203
 works:
   - title: Oppai na Natsuyasumi 2 | The Summer Break of Boobs 2
     author: higashino-mikan
@@ -1332,6 +1332,14 @@ works:
     date: '2026-08-19'
     code: 668867
     url: /works/668867/
+  - title: Totsuzen Ane ga Dekita Hanashi 4 | The Story of How I Suddenly Got Older
+      Sisters 4
+    author: oshima-aki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/669459.jpg
+    rating: 0.0
+    date: '2026-09-04'
+    code: 669459
+    url: /works/669459/
   - title: Haburare Zukai no Isekai Boukentan (The Adventure of a Rune Master) 07
     author: hara-tsumoi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673771.jpg
@@ -1504,4 +1512,12 @@ works:
     date: '2026-08-29'
     code: 676458
     url: /works/676458/
+  - title: My Girlfriend Was Stolen by a Cool Girl Who Dresses Like a Guy, So I Taught
+      Her a Lesson 3
+    author: kurukuru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/677732.jpg
+    rating: 0.0
+    date: '2026-09-04'
+    code: 677732
+    url: /works/677732/
 ---

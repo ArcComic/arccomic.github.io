@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "mosaic censorship"
-work_count: 176
+work_count: 180
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -134,6 +134,13 @@ works:
     date: '2026-02-26'
     code: 393984
     url: /works/393984/
+  - title: Rakki Taishyaku
+    author: fushoku
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/407561.jpg
+    rating: 4.8
+    date: '2026-09-04'
+    code: 407561
+    url: /works/407561/
   - title: Kaisha no Iki Okure BBA Haramaseta | [Tragic News] I Knocked Up The Old Maid
       From My Office
     author: special-g
@@ -210,6 +217,13 @@ works:
     date: '2026-07-16'
     code: 464371
     url: /works/464371/
+  - title: Hon no Mori no Ouji-sama | Prince of the Book Forest
+    author: shibasaki-syouzi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/464782.jpg
+    rating: 0.0
+    date: '2026-09-04'
+    code: 464782
+    url: /works/464782/
   - title: Yarareru kanojo - Hitozumajoushi ManaNTR -
     author: tokyo-gunjo
     cover: /covers/465602.jpg
@@ -534,6 +548,13 @@ works:
     date: '2026-07-17'
     code: 582290
     url: /works/582290/
+  - title: Her Predicaments
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/586417.jpg
+    rating: 0.0
+    date: '2026-09-04'
+    code: 586417
+    url: /works/586417/
   - title: Suki nano wa Anata dake... 3
     author: end
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/586634.jpg
@@ -996,6 +1017,13 @@ works:
     date: '2026-05-20'
     code: 651197
     url: /works/651197/
+  - title: Kawaii Hito | Cute People
+    author: shibasaki-syouzi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651854.jpg
+    rating: 0.0
+    date: '2026-09-04'
+    code: 651854
+    url: /works/651854/
   - title: Kaa-san no Nude Model o Shite Itara, Kaa-san no Panchira Mite Bokki Shite
       Shimai, Soshite...... | I was acting as a nude model for my mom, but then... I
       caught a glimpse of her panties, got a boner, and well...

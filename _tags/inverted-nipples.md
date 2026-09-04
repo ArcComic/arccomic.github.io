@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "inverted nipples"
-work_count: 18
+work_count: 19
 works:
   - title: Kaisha no Iki Okure BBA Haramaseta | [Tragic News] I Knocked Up The Old Maid
       From My Office
@@ -136,4 +136,12 @@ works:
     date: '2026-08-22'
     code: 674830
     url: /works/674830/
+  - title: My Girlfriend Was Stolen by a Cool Girl Who Dresses Like a Guy, So I Taught
+      Her a Lesson 3
+    author: kurukuru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/677732.jpg
+    rating: 0.0
+    date: '2026-09-04'
+    code: 677732
+    url: /works/677732/
 ---

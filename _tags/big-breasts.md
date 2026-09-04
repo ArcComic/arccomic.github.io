@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big breasts"
-work_count: 548
+work_count: 555
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -1196,6 +1196,13 @@ works:
     date: '2026-04-15'
     code: 577221
     url: /works/577221/
+  - title: Keep Your Eyes
+    author: ouji-hiyoko
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/578020.jpg
+    rating: 4.7
+    date: '2026-09-04'
+    code: 578020
+    url: /works/578020/
   - title: Boku no Kaa-chan ga Hikikomori Neet Debu Aniki no Seishori Onaho ni Natteita
       Hanashi | My Mother is My Fat Shut-in Older NEET Brother's Sex Relief Onahole
     author: tarobaumu
@@ -2483,6 +2490,13 @@ works:
     date: '2026-05-03'
     code: 647620
     url: /works/647620/
+  - title: Alcoholic Libido
+    author: osaki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/647692.jpg
+    rating: 0.0
+    date: '2026-09-04'
+    code: 647692
+    url: /works/647692/
   - title: Amanatsu - Sweet Rainy Girly Summer
     author: sugaishi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/647740.jpg
@@ -3601,6 +3615,13 @@ works:
     date: '2026-08-24'
     code: 666532
     url: /works/666532/
+  - title: Black Kigyou No Kamin Shitsu Ga Yari Beya Ni Natteta Hanashi
+    author: oshima-aki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/668297.jpg
+    rating: 0.0
+    date: '2026-09-04'
+    code: 668297
+    url: /works/668297/
   - title: Gohoubi wa Karada de. ~Ero-sugi Fukuri Kousei wa Seishori-ka no Oshigoto~
       (2) | The Reward is the Body ~The Overly Lewd Employee Benefits of the Service
       Department~
@@ -3624,6 +3645,14 @@ works:
     date: '2026-08-20'
     code: 669452
     url: /works/669452/
+  - title: Totsuzen Ane ga Dekita Hanashi 4 | The Story of How I Suddenly Got Older
+      Sisters 4
+    author: oshima-aki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/669459.jpg
+    rating: 0.0
+    date: '2026-09-04'
+    code: 669459
+    url: /works/669459/
   - title: Soen ni Natteta Osananajimi ga Okuchi Onaho Gayoi Shite Kuru Mikkakan | Three
       Days Treating My Estranged Friend As An Oral Fuckhole
     author: poncocchan
@@ -4030,6 +4059,30 @@ works:
     date: '2026-08-31'
     code: 677234
     url: /works/677234/
+  - title: My childhood friend, the “black gal,” who's surprisingly easy to sway
+    author: zarameccho
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/677418.jpg
+    rating: 0.0
+    date: '2026-09-04'
+    code: 677418
+    url: /works/677418/
+  - title: Nijigen Otaku no Ore ga Tenkou Shite Kita Kyonyuu Idol ni Otosareru made
+      - A 2D Otaku Falls for the Curvy Idol Transfer Student | How I, a 2D-Obsessed
+      Otaku, Fell for the Busty Idol Who Transferred to My School
+    author: manno
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/677731.jpg
+    rating: 0.0
+    date: '2026-09-04'
+    code: 677731
+    url: /works/677731/
+  - title: My Girlfriend Was Stolen by a Cool Girl Who Dresses Like a Guy, So I Taught
+      Her a Lesson 3
+    author: kurukuru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/677732.jpg
+    rating: 0.0
+    date: '2026-09-04'
+    code: 677732
+    url: /works/677732/
   - title: Hottokenaino
     author: hara-shigeyuki
     cover: /covers/77864.jpg

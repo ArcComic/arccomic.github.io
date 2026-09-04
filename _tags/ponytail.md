@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "ponytail"
-work_count: 84
+work_count: 86
 works:
   - title: Boku no Kazoku o Sarashimasu Ch. 3
     author: tanaka-aji
@@ -230,6 +230,15 @@ works:
     date: '2026-04-27'
     code: 616533
     url: /works/616533/
+  - title: Seishun o Yarinaosu nara Kondo koso Suki datta Doukyuusei to Tsukiatte Zettai
+      Yarimakuritai. | If I'm Reliving My Life, This Time I Wanna Get With The Girl
+      I Loved Back Then
+    author: akadashi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/625933.jpg
+    rating: 0.0
+    date: '2026-09-04'
+    code: 625933
+    url: /works/625933/
   - title: 'Taihai Tsuma: Taihaikei Hitotsuma o Yachin Kawari ni Koki Tsukaeru Hanashi
       | Slutty Wife!'
     author: kametaro
@@ -471,6 +480,13 @@ works:
     date: '2026-05-21'
     code: 651442
     url: /works/651442/
+  - title: Kawaii Hito | Cute People
+    author: shibasaki-syouzi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651854.jpg
+    rating: 0.0
+    date: '2026-09-04'
+    code: 651854
+    url: /works/651854/
   - title: Kyonyuu no Tomodachi to Tsukiau made no Hanashi | Maybe We'll Start Dating
       Someday
     author: fuguta-ke

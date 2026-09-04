@@ -1,8 +1,22 @@
 ---
 layout: tag
 tag_name: "schoolboy uniform"
-work_count: 42
+work_count: 47
 works:
+  - title: FLUFFY LAUGH GIRL
+    author: shibasaki-syouzi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/210672.jpg
+    rating: 4.7
+    date: '2026-09-04'
+    code: 210672
+    url: /works/210672/
+  - title: Kimi to Itami wo Wakachi "AI" tai | I Want to Share Your Pain
+    author: betty
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/294902.jpg
+    rating: 0.0
+    date: '2026-09-04'
+    code: 294902
+    url: /works/294902/
   - title: Mukuchi na Tosho Iin to Sex Zuke.
     author: yuzuha
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/321298.jpg
@@ -24,6 +38,14 @@ works:
     date: '2026-07-13'
     code: 346126
     url: /works/346126/
+  - title: Gal to InCha no Kousai Shuukan. | A Week-Long Relation Between a Gyaru and
+      an Introvert.
+    author: tamabi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/347653.jpg
+    rating: 0.0
+    date: '2026-09-04'
+    code: 347653
+    url: /works/347653/
   - title: Koi no Susumekata | How to Advance Your Love
     author: danimaru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/425528.jpg
@@ -104,6 +126,13 @@ works:
     date: '2026-08-29'
     code: 589969
     url: /works/589969/
+  - title: Kimiha Bokuno Keikokuno Bijyo | You're the Woman of my Dreams
+    author: yasson-yoshiyuki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/618098.jpg
+    rating: 0.0
+    date: '2026-09-04'
+    code: 618098
+    url: /works/618098/
   - title: Majime na Iinchou no Kanojo ga Sex ni Hamatta Riyuu
     author: furaimai
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/618562.jpg
@@ -111,6 +140,15 @@ works:
     date: '2026-04-27'
     code: 618562
     url: /works/618562/
+  - title: Seishun o Yarinaosu nara Kondo koso Suki datta Doukyuusei to Tsukiatte Zettai
+      Yarimakuritai. | If I'm Reliving My Life, This Time I Wanna Get With The Girl
+      I Loved Back Then
+    author: akadashi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/625933.jpg
+    rating: 0.0
+    date: '2026-09-04'
+    code: 625933
+    url: /works/625933/
   - title: Koukan Nikki ー School Whore Diaries
     author: henkuma
     cover: /covers/634328.jpg

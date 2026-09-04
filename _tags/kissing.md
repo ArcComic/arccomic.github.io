@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "kissing"
-work_count: 179
+work_count: 188
 works:
+  - title: FLUFFY LAUGH GIRL
+    author: shibasaki-syouzi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/210672.jpg
+    rating: 4.7
+    date: '2026-09-04'
+    code: 210672
+    url: /works/210672/
   - title: Kono Furin wa Otto no Tame "Anata, Yurushite…." To, Netorareru Tsuma | 這場外遇是為了老公「親愛的，原諒我…」這樣說著，為老公戴綠帽的妻子
     author: korosuke
     cover: /covers/328805.jpg
@@ -38,6 +45,13 @@ works:
     date: '2026-07-10'
     code: 398305
     url: /works/398305/
+  - title: Rakki Taishyaku
+    author: fushoku
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/407561.jpg
+    rating: 4.8
+    date: '2026-09-04'
+    code: 407561
+    url: /works/407561/
   - title: Kaisha no Iki Okure BBA Haramaseta | [Tragic News] I Knocked Up The Old Maid
       From My Office
     author: special-g
@@ -113,6 +127,13 @@ works:
     date: '2026-04-25'
     code: 463298
     url: /works/463298/
+  - title: Hon no Mori no Ouji-sama | Prince of the Book Forest
+    author: shibasaki-syouzi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/464782.jpg
+    rating: 0.0
+    date: '2026-09-04'
+    code: 464782
+    url: /works/464782/
   - title: Asunama 9
     author: ken-1
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/477784.jpg
@@ -384,6 +405,13 @@ works:
     date: '2026-03-03'
     code: 574060
     url: /works/574060/
+  - title: Keep Your Eyes
+    author: ouji-hiyoko
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/578020.jpg
+    rating: 4.7
+    date: '2026-09-04'
+    code: 578020
+    url: /works/578020/
   - title: Boku no Kaa-chan ga Hikikomori Neet Debu Aniki no Seishori Onaho ni Natteita
       Hanashi | My Mother is My Fat Shut-in Older NEET Brother's Sex Relief Onahole
     author: tarobaumu
@@ -604,6 +632,15 @@ works:
     date: '2026-05-26'
     code: 624573
     url: /works/624573/
+  - title: Seishun o Yarinaosu nara Kondo koso Suki datta Doukyuusei to Tsukiatte Zettai
+      Yarimakuritai. | If I'm Reliving My Life, This Time I Wanna Get With The Girl
+      I Loved Back Then
+    author: akadashi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/625933.jpg
+    rating: 0.0
+    date: '2026-09-04'
+    code: 625933
+    url: /works/625933/
   - title: Boku no Toshiue no Tomodachi | My Older Friend
     author: buta
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/631036.jpg
@@ -945,6 +982,13 @@ works:
     date: '2026-05-03'
     code: 647382
     url: /works/647382/
+  - title: Alcoholic Libido
+    author: osaki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/647692.jpg
+    rating: 0.0
+    date: '2026-09-04'
+    code: 647692
+    url: /works/647692/
   - title: Amanatsu - Sweet Rainy Girly Summer
     author: sugaishi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/647740.jpg
@@ -1046,6 +1090,13 @@ works:
     date: '2026-05-21'
     code: 651499
     url: /works/651499/
+  - title: Kawaii Hito | Cute People
+    author: shibasaki-syouzi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651854.jpg
+    rating: 0.0
+    date: '2026-09-04'
+    code: 651854
+    url: /works/651854/
   - title: Kyonyuu Kanojo ni Hitasura Shibori Toraremakuru Hanashi | Squeeze Until Empty
     author: fuguta-ke
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/652218.jpg
@@ -1253,6 +1304,14 @@ works:
     date: '2026-08-20'
     code: 669452
     url: /works/669452/
+  - title: Totsuzen Ane ga Dekita Hanashi 4 | The Story of How I Suddenly Got Older
+      Sisters 4
+    author: oshima-aki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/669459.jpg
+    rating: 0.0
+    date: '2026-09-04'
+    code: 669459
+    url: /works/669459/
   - title: Nuite Moraimakuri Nyuuin Seikatsu ~Tasuketa Cool-Gyaru wa Jitsu wa Sukebe
       deshita~
     author: gujira
@@ -1337,4 +1396,13 @@ works:
     date: '2026-08-29'
     code: 676320
     url: /works/676320/
+  - title: Nijigen Otaku no Ore ga Tenkou Shite Kita Kyonyuu Idol ni Otosareru made
+      - A 2D Otaku Falls for the Curvy Idol Transfer Student | How I, a 2D-Obsessed
+      Otaku, Fell for the Busty Idol Who Transferred to My School
+    author: manno
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/677731.jpg
+    rating: 0.0
+    date: '2026-09-04'
+    code: 677731
+    url: /works/677731/
 ---

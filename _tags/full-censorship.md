@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "full censorship"
-work_count: 53
+work_count: 56
 works:
   - title: Kaisha de Iroiro | Gettin' Busy at the Office
     author: hara-shigeyuki
@@ -223,6 +223,13 @@ works:
     date: '2026-07-11'
     code: 538063
     url: /works/538063/
+  - title: Tooriame | Passing Rain
+    author: osaki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/544274.jpg
+    rating: 0.0
+    date: '2026-09-04'
+    code: 544274
+    url: /works/544274/
   - title: Kanrakugai ~Neon Kagayaku Uragawa de~ 3
     author: oobayashi-mori
     cover: /covers/549597.jpg
@@ -244,6 +251,13 @@ works:
     date: '2026-03-04'
     code: 568923
     url: /works/568923/
+  - title: Keep Your Eyes
+    author: ouji-hiyoko
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/578020.jpg
+    rating: 4.7
+    date: '2026-09-04'
+    code: 578020
+    url: /works/578020/
   - title: Mamami Numa | Addicted to Her Motherly Vibes
     author: ruruepa
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/619648.jpg
@@ -279,6 +293,13 @@ works:
     date: '2026-04-24'
     code: 645566
     url: /works/645566/
+  - title: Alcoholic Libido
+    author: osaki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/647692.jpg
+    rating: 0.0
+    date: '2026-09-04'
+    code: 647692
+    url: /works/647692/
   - title: Sankaku comic vol. 3 Ayano
     author: mko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/652836.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "kimono"
-work_count: 24
+work_count: 26
 works:
   - title: Hitozuma Hyakka
     author: hase-tsubura
@@ -95,6 +95,15 @@ works:
     date: '2026-04-27'
     code: 616533
     url: /works/616533/
+  - title: Seishun o Yarinaosu nara Kondo koso Suki datta Doukyuusei to Tsukiatte Zettai
+      Yarimakuritai. | If I'm Reliving My Life, This Time I Wanna Get With The Girl
+      I Loved Back Then
+    author: akadashi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/625933.jpg
+    rating: 0.0
+    date: '2026-09-04'
+    code: 625933
+    url: /works/625933/
   - title: Kajitsu 7
     author: ken-1
     cover: /covers/631665.jpg
@@ -169,6 +178,14 @@ works:
     date: '2026-07-09'
     code: 662647
     url: /works/662647/
+  - title: Totsuzen Ane ga Dekita Hanashi 4 | The Story of How I Suddenly Got Older
+      Sisters 4
+    author: oshima-aki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/669459.jpg
+    rating: 0.0
+    date: '2026-09-04'
+    code: 669459
+    url: /works/669459/
   - title: Nayotake Kaguya no Himegoto
     author: yukino-minato
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673992.jpg

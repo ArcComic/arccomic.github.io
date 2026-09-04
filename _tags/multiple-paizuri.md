@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "multiple paizuri"
-work_count: 7
+work_count: 8
 works:
   - title: Mesu Etsu Toiki Nemoto made Fukaku…
     author: drill-murata
@@ -47,6 +47,14 @@ works:
     date: '2026-07-07'
     code: 661909
     url: /works/661909/
+  - title: Totsuzen Ane ga Dekita Hanashi 4 | The Story of How I Suddenly Got Older
+      Sisters 4
+    author: oshima-aki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/669459.jpg
+    rating: 0.0
+    date: '2026-09-04'
+    code: 669459
+    url: /works/669459/
   - title: WSS ~Watashi ga Sakini Sukidatta no ni~ - Even Though I Loved Him First
     author: asanagi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/674639.jpg

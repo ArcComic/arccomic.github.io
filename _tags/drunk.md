@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "drunk"
-work_count: 26
+work_count: 27
 works:
   - title: HUNDRED GAME Ch. 1-3
     author: kuon-michiyoshi
@@ -147,6 +147,13 @@ works:
     date: '2026-03-04'
     code: 634383
     url: /works/634383/
+  - title: Alcoholic Libido
+    author: osaki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/647692.jpg
+    rating: 0.0
+    date: '2026-09-04'
+    code: 647692
+    url: /works/647692/
   - title: Boku to Aitsu to Ano Ko to Kanojo. - Me, Him, the Girl and Her
     author: kameyama-cola
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/648093.jpg

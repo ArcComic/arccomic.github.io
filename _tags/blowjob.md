@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "blowjob"
-work_count: 333
+work_count: 339
 works:
   - title: Love Approach
     author: hanafuda-sakurano
@@ -774,6 +774,13 @@ works:
     date: '2026-08-24'
     code: 584934
     url: /works/584934/
+  - title: Her Predicaments
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/586417.jpg
+    rating: 0.0
+    date: '2026-09-04'
+    code: 586417
+    url: /works/586417/
   - title: Motto, Shitemitai. - I want to do it more.
     author: danimaru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/587724.jpg
@@ -1670,6 +1677,13 @@ works:
     date: '2026-05-03'
     code: 647620
     url: /works/647620/
+  - title: Alcoholic Libido
+    author: osaki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/647692.jpg
+    rating: 0.0
+    date: '2026-09-04'
+    code: 647692
+    url: /works/647692/
   - title: Otaku ni Yasashii Gal wa Aitsu no Kanojo | A Gal Who's Kind to Otaku Is That
       Guy's Girlfriend
     author: yamamoto
@@ -1861,6 +1875,13 @@ works:
     date: '2026-05-21'
     code: 651499
     url: /works/651499/
+  - title: Kawaii Hito | Cute People
+    author: shibasaki-syouzi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651854.jpg
+    rating: 0.0
+    date: '2026-09-04'
+    code: 651854
+    url: /works/651854/
   - title: Kyonyuu Kanojo ni Hitasura Shibori Toraremakuru Hanashi | Squeeze Until Empty
     author: fuguta-ke
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/652218.jpg
@@ -2203,6 +2224,14 @@ works:
     date: '2026-08-19'
     code: 668867
     url: /works/668867/
+  - title: Totsuzen Ane ga Dekita Hanashi 4 | The Story of How I Suddenly Got Older
+      Sisters 4
+    author: oshima-aki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/669459.jpg
+    rating: 0.0
+    date: '2026-09-04'
+    code: 669459
+    url: /works/669459/
   - title: Soen ni Natteta Osananajimi ga Okuchi Onaho Gayoi Shite Kuru Mikkakan | Three
       Days Treating My Estranged Friend As An Oral Fuckhole
     author: poncocchan
@@ -2461,6 +2490,22 @@ works:
     date: '2026-08-31'
     code: 677234
     url: /works/677234/
+  - title: My childhood friend, the “black gal,” who's surprisingly easy to sway
+    author: zarameccho
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/677418.jpg
+    rating: 0.0
+    date: '2026-09-04'
+    code: 677418
+    url: /works/677418/
+  - title: Nijigen Otaku no Ore ga Tenkou Shite Kita Kyonyuu Idol ni Otosareru made
+      - A 2D Otaku Falls for the Curvy Idol Transfer Student | How I, a 2D-Obsessed
+      Otaku, Fell for the Busty Idol Who Transferred to My School
+    author: manno
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/677731.jpg
+    rating: 0.0
+    date: '2026-09-04'
+    code: 677731
+    url: /works/677731/
   - title: Jokyoushi - Hot For Teachers | Female Teachers
     author: drill-murata
     cover: /covers/81375.jpg

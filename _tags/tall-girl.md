@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "tall girl"
-work_count: 13
+work_count: 14
 works:
   - title: Oppai na Natsuyasumi 2 | The Summer Break of Boobs 2
     author: higashino-mikan
@@ -17,6 +17,13 @@ works:
     date: '2026-04-27'
     code: 425528
     url: /works/425528/
+  - title: Kimiha Bokuno Keikokuno Bijyo | You're the Woman of my Dreams
+    author: yasson-yoshiyuki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/618098.jpg
+    rating: 0.0
+    date: '2026-09-04'
+    code: 618098
+    url: /works/618098/
   - title: Jimoto no Dekai Gal
     author: ueno-meguru
     cover: /covers/634592.jpg

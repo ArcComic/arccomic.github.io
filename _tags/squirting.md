@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "squirting"
-work_count: 71
+work_count: 74
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -78,6 +78,13 @@ works:
     date: '2026-05-10'
     code: 540125
     url: /works/540125/
+  - title: Tooriame | Passing Rain
+    author: osaki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/544274.jpg
+    rating: 0.0
+    date: '2026-09-04'
+    code: 544274
+    url: /works/544274/
   - title: Ero Cos OL to Jiraikei Joshi ~Iki Nuresaseru Moto Kare no Amai Koshi Zukai~
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/548852.jpg
@@ -152,6 +159,13 @@ works:
     date: '2026-04-23'
     code: 584579
     url: /works/584579/
+  - title: Her Predicaments
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/586417.jpg
+    rating: 0.0
+    date: '2026-09-04'
+    code: 586417
+    url: /works/586417/
   - title: Kyoya, My Childhood Friend Rapes Me In My Dream...
     author: danimaru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/587827.jpg
@@ -354,6 +368,13 @@ works:
     date: '2026-04-30'
     code: 646967
     url: /works/646967/
+  - title: Alcoholic Libido
+    author: osaki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/647692.jpg
+    rating: 0.0
+    date: '2026-09-04'
+    code: 647692
+    url: /works/647692/
   - title: Boku to Aitsu to Ano Ko to Kanojo. - Me, Him, the Girl and Her
     author: kameyama-cola
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/648093.jpg

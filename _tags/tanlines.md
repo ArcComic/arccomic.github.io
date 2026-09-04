@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "tanlines"
-work_count: 15
+work_count: 16
 works:
   - title: CHOCO x LOVE
     author: highlow
@@ -84,6 +84,13 @@ works:
     date: '2026-07-11'
     code: 663056
     url: /works/663056/
+  - title: Black Kigyou No Kamin Shitsu Ga Yari Beya Ni Natteta Hanashi
+    author: oshima-aki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/668297.jpg
+    rating: 0.0
+    date: '2026-09-04'
+    code: 668297
+    url: /works/668297/
   - title: Anokotachi no Jijou - 〇〇chanchi no Jijou Soushuuhen
     author: yukino-minato
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673985.jpg

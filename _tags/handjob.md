@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "handjob"
-work_count: 60
+work_count: 61
 works:
   - title: Yuri no o saifu ni shite agemasu ne, Senpai | I'll turn you into Yuri's wallet,
       Senpai
@@ -125,6 +125,13 @@ works:
     date: '2026-04-17'
     code: 566835
     url: /works/566835/
+  - title: Keep Your Eyes
+    author: ouji-hiyoko
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/578020.jpg
+    rating: 4.7
+    date: '2026-09-04'
+    code: 578020
+    url: /works/578020/
   - title: Astrantia
     author: kyougoku-shin
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/598156.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "group"
-work_count: 116
+work_count: 117
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -717,6 +717,14 @@ works:
     date: '2026-07-17'
     code: 664937
     url: /works/664937/
+  - title: Totsuzen Ane ga Dekita Hanashi 4 | The Story of How I Suddenly Got Older
+      Sisters 4
+    author: oshima-aki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/669459.jpg
+    rating: 0.0
+    date: '2026-09-04'
+    code: 669459
+    url: /works/669459/
   - title: 'Breeding License: The “Picking Up Girls on the Beach and Having Wild Sex”
       Edition'
     author: minamihama-yoriko

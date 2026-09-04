@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole female"
-work_count: 466
+work_count: 480
 works:
   - title: Adoration
     author: kishizuka-kenji
@@ -38,6 +38,13 @@ works:
     date: '2026-02-26'
     code: 179531
     url: /works/179531/
+  - title: FLUFFY LAUGH GIRL
+    author: shibasaki-syouzi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/210672.jpg
+    rating: 4.7
+    date: '2026-09-04'
+    code: 210672
+    url: /works/210672/
   - title: Natsu dake Koibito - Summer only Lover [English] =Forbidden Fetish + Ser
       Maggot=
     author: yoshiura-kazuya
@@ -89,6 +96,13 @@ works:
     date: '2026-03-04'
     code: 292454
     url: /works/292454/
+  - title: Kimi to Itami wo Wakachi "AI" tai | I Want to Share Your Pain
+    author: betty
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/294902.jpg
+    rating: 0.0
+    date: '2026-09-04'
+    code: 294902
+    url: /works/294902/
   - title: Maid no Oshigoto. II | Maid's Work II
     author: alexi-laiho
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/296282.jpg
@@ -190,6 +204,14 @@ works:
     date: '2026-07-13'
     code: 346126
     url: /works/346126/
+  - title: Gal to InCha no Kousai Shuukan. | A Week-Long Relation Between a Gyaru and
+      an Introvert.
+    author: tamabi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/347653.jpg
+    rating: 0.0
+    date: '2026-09-04'
+    code: 347653
+    url: /works/347653/
   - title: Ayamachi no Rensa
     author: pororivista
     cover: /covers/351868.jpg
@@ -284,6 +306,13 @@ works:
     date: '2026-04-19'
     code: 398854
     url: /works/398854/
+  - title: Rakki Taishyaku
+    author: fushoku
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/407561.jpg
+    rating: 4.8
+    date: '2026-09-04'
+    code: 407561
+    url: /works/407561/
   - title: Imouto no Nukumori | A Little Sister's warmth
     author: kinomoto-anzu
     cover: /covers/407959.jpg
@@ -498,6 +527,13 @@ works:
     date: '2026-04-25'
     code: 463298
     url: /works/463298/
+  - title: Hon no Mori no Ouji-sama | Prince of the Book Forest
+    author: shibasaki-syouzi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/464782.jpg
+    rating: 0.0
+    date: '2026-09-04'
+    code: 464782
+    url: /works/464782/
   - title: Tempt & Throb
     author: mushihara
     cover: /covers/468655.jpg
@@ -916,6 +952,13 @@ works:
     date: '2026-05-05'
     code: 543358
     url: /works/543358/
+  - title: Tooriame | Passing Rain
+    author: osaki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/544274.jpg
+    rating: 0.0
+    date: '2026-09-04'
+    code: 544274
+    url: /works/544274/
   - title: Hina-chan wa Papa ga Hoshikatta. | Hina-chan Wanted A Daddy
     author: ojo
     cover: /covers/544368.jpg
@@ -1154,6 +1197,13 @@ works:
     date: '2026-04-15'
     code: 577221
     url: /works/577221/
+  - title: Keep Your Eyes
+    author: ouji-hiyoko
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/578020.jpg
+    rating: 4.7
+    date: '2026-09-04'
+    code: 578020
+    url: /works/578020/
   - title: Boku no Kaa-chan ga Hikikomori Neet Debu Aniki no Seishori Onaho ni Natteita
       Hanashi | My Mother is My Fat Shut-in Older NEET Brother's Sex Relief Onahole
     author: tarobaumu
@@ -1264,6 +1314,13 @@ works:
     date: '2026-08-22'
     code: 586316
     url: /works/586316/
+  - title: Her Predicaments
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/586417.jpg
+    rating: 0.0
+    date: '2026-09-04'
+    code: 586417
+    url: /works/586417/
   - title: Suki nano wa Anata dake... 3
     author: end
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/586634.jpg
@@ -1572,6 +1629,13 @@ works:
     date: '2026-07-16'
     code: 617511
     url: /works/617511/
+  - title: Kimiha Bokuno Keikokuno Bijyo | You're the Woman of my Dreams
+    author: yasson-yoshiyuki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/618098.jpg
+    rating: 0.0
+    date: '2026-09-04'
+    code: 618098
+    url: /works/618098/
   - title: Fuyu-san wa Sotsugyou Shitai | Fuyu-san Wants to Lose Her V-Card
     author: kurihara-kenshirou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/619405.jpg
@@ -1601,6 +1665,15 @@ works:
     date: '2026-05-26'
     code: 622857
     url: /works/622857/
+  - title: Seishun o Yarinaosu nara Kondo koso Suki datta Doukyuusei to Tsukiatte Zettai
+      Yarimakuritai. | If I'm Reliving My Life, This Time I Wanna Get With The Girl
+      I Loved Back Then
+    author: akadashi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/625933.jpg
+    rating: 0.0
+    date: '2026-09-04'
+    code: 625933
+    url: /works/625933/
   - title: 'Taihai Tsuma: Taihaikei Hitotsuma o Yachin Kawari ni Koki Tsukaeru Hanashi
       | Slutty Wife!'
     author: kametaro
@@ -2316,6 +2389,13 @@ works:
     date: '2026-05-03'
     code: 647645
     url: /works/647645/
+  - title: Alcoholic Libido
+    author: osaki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/647692.jpg
+    rating: 0.0
+    date: '2026-09-04'
+    code: 647692
+    url: /works/647692/
   - title: Amanatsu - Sweet Rainy Girly Summer
     author: sugaishi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/647740.jpg
@@ -2506,6 +2586,13 @@ works:
     date: '2026-05-21'
     code: 651499
     url: /works/651499/
+  - title: Kawaii Hito | Cute People
+    author: shibasaki-syouzi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651854.jpg
+    rating: 0.0
+    date: '2026-09-04'
+    code: 651854
+    url: /works/651854/
   - title: Kyonyuu Kanojo ni Hitasura Shibori Toraremakuru Hanashi | Squeeze Until Empty
     author: fuguta-ke
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/652218.jpg
@@ -3438,4 +3525,20 @@ works:
     date: '2026-08-31'
     code: 677257
     url: /works/677257/
+  - title: My childhood friend, the “black gal,” who's surprisingly easy to sway
+    author: zarameccho
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/677418.jpg
+    rating: 0.0
+    date: '2026-09-04'
+    code: 677418
+    url: /works/677418/
+  - title: Nijigen Otaku no Ore ga Tenkou Shite Kita Kyonyuu Idol ni Otosareru made
+      - A 2D Otaku Falls for the Curvy Idol Transfer Student | How I, a 2D-Obsessed
+      Otaku, Fell for the Busty Idol Who Transferred to My School
+    author: manno
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/677731.jpg
+    rating: 0.0
+    date: '2026-09-04'
+    code: 677731
+    url: /works/677731/
 ---

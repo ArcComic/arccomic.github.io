@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "condom"
-work_count: 102
+work_count: 111
 works:
   - title: Kaisha de Iroiro | Gettin' Busy at the Office
     author: hara-shigeyuki
@@ -10,6 +10,13 @@ works:
     date: '2026-04-19'
     code: 110835
     url: /works/110835/
+  - title: FLUFFY LAUGH GIRL
+    author: shibasaki-syouzi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/210672.jpg
+    rating: 4.7
+    date: '2026-09-04'
+    code: 210672
+    url: /works/210672/
   - title: Kizashi
     author: yoshiura-kazuya
     cover: /covers/226386.jpg
@@ -74,6 +81,14 @@ works:
     date: '2026-07-13'
     code: 346126
     url: /works/346126/
+  - title: Gal to InCha no Kousai Shuukan. | A Week-Long Relation Between a Gyaru and
+      an Introvert.
+    author: tamabi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/347653.jpg
+    rating: 0.0
+    date: '2026-09-04'
+    code: 347653
+    url: /works/347653/
   - title: ERIKA Vol. 2
     author: hankotsu-max
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/353025.jpg
@@ -103,6 +118,13 @@ works:
     date: '2026-07-10'
     code: 398305
     url: /works/398305/
+  - title: Rakki Taishyaku
+    author: fushoku
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/407561.jpg
+    rating: 4.8
+    date: '2026-09-04'
+    code: 407561
+    url: /works/407561/
   - title: Kaisha no Iki Okure BBA Haramaseta | [Tragic News] I Knocked Up The Old Maid
       From My Office
     author: special-g
@@ -171,6 +193,13 @@ works:
     date: '2026-04-19'
     code: 460565
     url: /works/460565/
+  - title: Hon no Mori no Ouji-sama | Prince of the Book Forest
+    author: shibasaki-syouzi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/464782.jpg
+    rating: 0.0
+    date: '2026-09-04'
+    code: 464782
+    url: /works/464782/
   - title: Kanojo wa Boku no Taieki de Ugoiteiru Phase. 05 [English] =NSS=
     author: nagareboshi
     cover: /covers/470025.jpg
@@ -253,6 +282,13 @@ works:
     date: '2026-02-25'
     code: 543086
     url: /works/543086/
+  - title: Tooriame | Passing Rain
+    author: osaki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/544274.jpg
+    rating: 0.0
+    date: '2026-09-04'
+    code: 544274
+    url: /works/544274/
   - title: Choukyou Zumi Hitozuma OL wa Joushi ni Dakare Futatabi Ochiru
     author: toono-suika
     cover: /covers/550164.jpg
@@ -356,6 +392,13 @@ works:
     date: '2026-02-26'
     code: 615775
     url: /works/615775/
+  - title: Kimiha Bokuno Keikokuno Bijyo | You're the Woman of my Dreams
+    author: yasson-yoshiyuki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/618098.jpg
+    rating: 0.0
+    date: '2026-09-04'
+    code: 618098
+    url: /works/618098/
   - title: Majime na Iinchou no Kanojo ga Sex ni Hamatta Riyuu
     author: furaimai
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/618562.jpg
@@ -370,6 +413,15 @@ works:
     date: '2026-04-27'
     code: 619405
     url: /works/619405/
+  - title: Seishun o Yarinaosu nara Kondo koso Suki datta Doukyuusei to Tsukiatte Zettai
+      Yarimakuritai. | If I'm Reliving My Life, This Time I Wanna Get With The Girl
+      I Loved Back Then
+    author: akadashi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/625933.jpg
+    rating: 0.0
+    date: '2026-09-04'
+    code: 625933
+    url: /works/625933/
   - title: Rikujoubu no Boyish na Osananajimi ga suru Dare ni mo Ienai Koto | The Secret
       Activity of My Boyish Childhood Friend from the Track Team
     author: harufumi
@@ -597,6 +649,13 @@ works:
     date: '2026-07-11'
     code: 651309
     url: /works/651309/
+  - title: Kawaii Hito | Cute People
+    author: shibasaki-syouzi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651854.jpg
+    rating: 0.0
+    date: '2026-09-04'
+    code: 651854
+    url: /works/651854/
   - title: My Impertinent and Curt Kouhai Becomes Surprisingly Clingy???
     author: buki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/652667.jpg
@@ -754,4 +813,11 @@ works:
     date: '2026-08-31'
     code: 676658
     url: /works/676658/
+  - title: My childhood friend, the “black gal,” who's surprisingly easy to sway
+    author: zarameccho
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/677418.jpg
+    rating: 0.0
+    date: '2026-09-04'
+    code: 677418
+    url: /works/677418/
 ---

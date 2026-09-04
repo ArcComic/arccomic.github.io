@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "paizuri"
-work_count: 118
+work_count: 121
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -541,6 +541,13 @@ works:
     date: '2026-05-03'
     code: 647382
     url: /works/647382/
+  - title: Alcoholic Libido
+    author: osaki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/647692.jpg
+    rating: 0.0
+    date: '2026-09-04'
+    code: 647692
+    url: /works/647692/
   - title: nenene 1 - 5
     author: kantori
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/647876.jpg
@@ -769,6 +776,14 @@ works:
     date: '2026-08-19'
     code: 668867
     url: /works/668867/
+  - title: Totsuzen Ane ga Dekita Hanashi 4 | The Story of How I Suddenly Got Older
+      Sisters 4
+    author: oshima-aki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/669459.jpg
+    rating: 0.0
+    date: '2026-09-04'
+    code: 669459
+    url: /works/669459/
   - title: Nuite Moraimakuri Nyuuin Seikatsu ~Tasuketa Cool-Gyaru wa Jitsu wa Sukebe
       deshita~
     author: gujira
@@ -887,4 +902,11 @@ works:
     date: '2026-08-31'
     code: 677234
     url: /works/677234/
+  - title: My childhood friend, the “black gal,” who's surprisingly easy to sway
+    author: zarameccho
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/677418.jpg
+    rating: 0.0
+    date: '2026-09-04'
+    code: 677418
+    url: /works/677418/
 ---

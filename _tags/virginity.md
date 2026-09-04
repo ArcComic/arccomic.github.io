@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "virginity"
-work_count: 75
+work_count: 79
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -69,6 +69,14 @@ works:
     date: '2026-07-13'
     code: 346126
     url: /works/346126/
+  - title: Gal to InCha no Kousai Shuukan. | A Week-Long Relation Between a Gyaru and
+      an Introvert.
+    author: tamabi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/347653.jpg
+    rating: 0.0
+    date: '2026-09-04'
+    code: 347653
+    url: /works/347653/
   - title: Toshishita Chin Kui Obasan
     author: maccha-neji
     cover: /covers/387637.jpg
@@ -288,6 +296,13 @@ works:
     date: '2026-07-17'
     code: 615538
     url: /works/615538/
+  - title: Kimiha Bokuno Keikokuno Bijyo | You're the Woman of my Dreams
+    author: yasson-yoshiyuki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/618098.jpg
+    rating: 0.0
+    date: '2026-09-04'
+    code: 618098
+    url: /works/618098/
   - title: Fuyu-san wa Sotsugyou Shitai | Fuyu-san Wants to Lose Her V-Card
     author: kurihara-kenshirou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/619405.jpg
@@ -303,6 +318,15 @@ works:
     date: '2026-05-26'
     code: 624573
     url: /works/624573/
+  - title: Seishun o Yarinaosu nara Kondo koso Suki datta Doukyuusei to Tsukiatte Zettai
+      Yarimakuritai. | If I'm Reliving My Life, This Time I Wanna Get With The Girl
+      I Loved Back Then
+    author: akadashi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/625933.jpg
+    rating: 0.0
+    date: '2026-09-04'
+    code: 625933
+    url: /works/625933/
   - title: Boku no Toshiue no Tomodachi | My Older Friend
     author: buta
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/631036.jpg
@@ -556,4 +580,11 @@ works:
     date: '2026-08-29'
     code: 676325
     url: /works/676325/
+  - title: My childhood friend, the “black gal,” who's surprisingly easy to sway
+    author: zarameccho
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/677418.jpg
+    rating: 0.0
+    date: '2026-09-04'
+    code: 677418
+    url: /works/677418/
 ---

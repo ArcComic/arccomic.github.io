@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "manga"
-work_count: 195
+work_count: 204
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -122,6 +122,13 @@ works:
     date: '2026-04-25'
     code: 289094
     url: /works/289094/
+  - title: Kimi to Itami wo Wakachi "AI" tai | I Want to Share Your Pain
+    author: betty
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/294902.jpg
+    rating: 0.0
+    date: '2026-09-04'
+    code: 294902
+    url: /works/294902/
   - title: Boku no Kazoku o Sarashimasu Ch. 3
     author: tanaka-aji
     cover: /covers/297068.jpg
@@ -245,6 +252,13 @@ works:
     date: '2026-04-19'
     code: 398854
     url: /works/398854/
+  - title: Rakki Taishyaku
+    author: fushoku
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/407561.jpg
+    rating: 4.8
+    date: '2026-09-04'
+    code: 407561
+    url: /works/407561/
   - title: Imouto no Nukumori | A Little Sister's warmth
     author: kinomoto-anzu
     cover: /covers/407959.jpg
@@ -358,6 +372,13 @@ works:
     date: '2026-04-19'
     code: 460565
     url: /works/460565/
+  - title: Hon no Mori no Ouji-sama | Prince of the Book Forest
+    author: shibasaki-syouzi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/464782.jpg
+    rating: 0.0
+    date: '2026-09-04'
+    code: 464782
+    url: /works/464782/
   - title: Meguri Ai | Fateful Encounter  (COMIC Anthurium 2023-12) [English] =NSS=
     author: nagareboshi
     cover: /covers/485905.jpg
@@ -586,6 +607,13 @@ works:
     date: '2026-04-19'
     code: 541631
     url: /works/541631/
+  - title: Tooriame | Passing Rain
+    author: osaki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/544274.jpg
+    rating: 0.0
+    date: '2026-09-04'
+    code: 544274
+    url: /works/544274/
   - title: Kekkon 3-Nen Me no Tsuma wa, Shain Ryokou Chuu ni Otto no Yoko de Netorareru!
       1 | Netorare With a Busty Wife on a Company Trip 1
     author: aoi-shou
@@ -657,6 +685,13 @@ works:
     date: '2026-04-27'
     code: 576910
     url: /works/576910/
+  - title: Keep Your Eyes
+    author: ouji-hiyoko
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/578020.jpg
+    rating: 4.7
+    date: '2026-09-04'
+    code: 578020
+    url: /works/578020/
   - title: Nanami-chan can’t resist after a date! Cafe, Cinema, Love hotel~
     author: a2me
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/579819.jpg
@@ -685,6 +720,13 @@ works:
     date: '2026-08-22'
     code: 586316
     url: /works/586316/
+  - title: Her Predicaments
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/586417.jpg
+    rating: 0.0
+    date: '2026-09-04'
+    code: 586417
+    url: /works/586417/
   - title: Pashiri no Shita Teku, Yabaitte... ~ Ebi Sori Iki Suru Namaiki Gyaru | Bullied
       Boy's Tongue Revenge Vol.1-4
     author: takayamanon
@@ -752,6 +794,13 @@ works:
     date: '2026-08-29'
     code: 618087
     url: /works/618087/
+  - title: Kimiha Bokuno Keikokuno Bijyo | You're the Woman of my Dreams
+    author: yasson-yoshiyuki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/618098.jpg
+    rating: 0.0
+    date: '2026-09-04'
+    code: 618098
+    url: /works/618098/
   - title: Fuyu-san wa Sotsugyou Shitai | Fuyu-san Wants to Lose Her V-Card
     author: kurihara-kenshirou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/619405.jpg
@@ -930,6 +979,13 @@ works:
     date: '2026-05-01'
     code: 647341
     url: /works/647341/
+  - title: Alcoholic Libido
+    author: osaki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/647692.jpg
+    rating: 0.0
+    date: '2026-09-04'
+    code: 647692
+    url: /works/647692/
   - title: Ueno-kun wa Kaihatsu-zumi Dai 77 wa | Ueno-kun Has Been Developed Chapter
       77
     author: nakaura
@@ -953,6 +1009,13 @@ works:
     date: '2026-05-21'
     code: 651489
     url: /works/651489/
+  - title: Kawaii Hito | Cute People
+    author: shibasaki-syouzi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651854.jpg
+    rating: 0.0
+    date: '2026-09-04'
+    code: 651854
+    url: /works/651854/
   - title: Gibo o , Densha de ... | My Stepmother on The Train...
     author: gonza
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/652801.jpg

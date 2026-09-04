@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "rough translation"
-work_count: 316
+work_count: 320
 works:
   - title: Watashi no Karada, Okashi Shimasu. Bunny Girl Edition
     author: nectar
@@ -1838,6 +1838,13 @@ works:
     date: '2026-08-24'
     code: 666532
     url: /works/666532/
+  - title: Black Kigyou No Kamin Shitsu Ga Yari Beya Ni Natteta Hanashi
+    author: oshima-aki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/668297.jpg
+    rating: 0.0
+    date: '2026-09-04'
+    code: 668297
+    url: /works/668297/
   - title: Azanaharu Kanojo no Shikiroku | Color Records of a Girlfriend in Entanglement
     author: allegro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/669452.jpg
@@ -2297,4 +2304,28 @@ works:
     date: '2026-08-31'
     code: 677247
     url: /works/677247/
+  - title: My childhood friend, the “black gal,” who's surprisingly easy to sway
+    author: zarameccho
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/677418.jpg
+    rating: 0.0
+    date: '2026-09-04'
+    code: 677418
+    url: /works/677418/
+  - title: Nijigen Otaku no Ore ga Tenkou Shite Kita Kyonyuu Idol ni Otosareru made
+      - A 2D Otaku Falls for the Curvy Idol Transfer Student | How I, a 2D-Obsessed
+      Otaku, Fell for the Busty Idol Who Transferred to My School
+    author: manno
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/677731.jpg
+    rating: 0.0
+    date: '2026-09-04'
+    code: 677731
+    url: /works/677731/
+  - title: My Girlfriend Was Stolen by a Cool Girl Who Dresses Like a Guy, So I Taught
+      Her a Lesson 3
+    author: kurukuru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/677732.jpg
+    rating: 0.0
+    date: '2026-09-04'
+    code: 677732
+    url: /works/677732/
 ---

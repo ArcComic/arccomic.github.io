@@ -1,8 +1,22 @@
 ---
 layout: tag
 tag_name: "wholesome"
-work_count: 71
+work_count: 84
 works:
+  - title: FLUFFY LAUGH GIRL
+    author: shibasaki-syouzi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/210672.jpg
+    rating: 4.7
+    date: '2026-09-04'
+    code: 210672
+    url: /works/210672/
+  - title: Kimi to Itami wo Wakachi "AI" tai | I Want to Share Your Pain
+    author: betty
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/294902.jpg
+    rating: 0.0
+    date: '2026-09-04'
+    code: 294902
+    url: /works/294902/
   - title: Homestay-chu no Doitsu Musume ga Issho ni Furo ni Haitte Kuru Wake | The
       Reason Why a German Girl Takes a Bath Together With Me on Her Homestay
     author: gentsuki
@@ -18,6 +32,14 @@ works:
     date: '2026-07-13'
     code: 346126
     url: /works/346126/
+  - title: Gal to InCha no Kousai Shuukan. | A Week-Long Relation Between a Gyaru and
+      an Introvert.
+    author: tamabi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/347653.jpg
+    rating: 0.0
+    date: '2026-09-04'
+    code: 347653
+    url: /works/347653/
   - title: Kono Koi ni Kiduite
     author: danimaru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/357965.jpg
@@ -25,6 +47,13 @@ works:
     date: '2026-04-27'
     code: 357965
     url: /works/357965/
+  - title: Rakki Taishyaku
+    author: fushoku
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/407561.jpg
+    rating: 4.8
+    date: '2026-09-04'
+    code: 407561
+    url: /works/407561/
   - title: Kaisha no Iki Okure BBA Haramaseta | [Tragic News] I Knocked Up The Old Maid
       From My Office
     author: special-g
@@ -75,6 +104,13 @@ works:
     date: '2026-04-27'
     code: 452482
     url: /works/452482/
+  - title: Hon no Mori no Ouji-sama | Prince of the Book Forest
+    author: shibasaki-syouzi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/464782.jpg
+    rating: 0.0
+    date: '2026-09-04'
+    code: 464782
+    url: /works/464782/
   - title: Konoe no Kyuujitsu | Konoe's Day Off
     author: alp
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/479447.jpg
@@ -157,6 +193,13 @@ works:
     date: '2026-04-17'
     code: 566835
     url: /works/566835/
+  - title: Keep Your Eyes
+    author: ouji-hiyoko
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/578020.jpg
+    rating: 4.7
+    date: '2026-09-04'
+    code: 578020
+    url: /works/578020/
   - title: Nanami-chan can’t resist after a date! Cafe, Cinema, Love hotel~
     author: a2me
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/579819.jpg
@@ -199,6 +242,13 @@ works:
     date: '2026-08-22'
     code: 586316
     url: /works/586316/
+  - title: Her Predicaments
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/586417.jpg
+    rating: 0.0
+    date: '2026-09-04'
+    code: 586417
+    url: /works/586417/
   - title: Motto, Shitemitai. - I want to do it more.
     author: danimaru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/587724.jpg
@@ -252,6 +302,13 @@ works:
     date: '2026-02-26'
     code: 610539
     url: /works/610539/
+  - title: Kimiha Bokuno Keikokuno Bijyo | You're the Woman of my Dreams
+    author: yasson-yoshiyuki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/618098.jpg
+    rating: 0.0
+    date: '2026-09-04'
+    code: 618098
+    url: /works/618098/
   - title: Muramata-san no Aijou Ch. 6
     author: igumox
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/622857.jpg
@@ -267,6 +324,15 @@ works:
     date: '2026-05-26'
     code: 624573
     url: /works/624573/
+  - title: Seishun o Yarinaosu nara Kondo koso Suki datta Doukyuusei to Tsukiatte Zettai
+      Yarimakuritai. | If I'm Reliving My Life, This Time I Wanna Get With The Girl
+      I Loved Back Then
+    author: akadashi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/625933.jpg
+    rating: 0.0
+    date: '2026-09-04'
+    code: 625933
+    url: /works/625933/
   - title: Boku no Toshiue no Tomodachi | My Older Friend
     author: buta
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/631036.jpg
@@ -373,6 +439,13 @@ works:
     date: '2026-04-30'
     code: 646986
     url: /works/646986/
+  - title: Alcoholic Libido
+    author: osaki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/647692.jpg
+    rating: 0.0
+    date: '2026-09-04'
+    code: 647692
+    url: /works/647692/
   - title: Trop 1 ~ Onabare Hitozuma no Sango Shojo o Itadakimasu~ | Trop 1 ~ I'll Take
       the Post-Birth Virginity of a Married Woman Whose Masturbation Was Exposed~
     author: higashide-irodori
@@ -409,6 +482,13 @@ works:
     date: '2026-05-21'
     code: 651499
     url: /works/651499/
+  - title: Kawaii Hito | Cute People
+    author: shibasaki-syouzi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651854.jpg
+    rating: 0.0
+    date: '2026-09-04'
+    code: 651854
+    url: /works/651854/
   - title: Kyonyuu Kanojo ni Hitasura Shibori Toraremakuru Hanashi | Squeeze Until Empty
     author: fuguta-ke
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/652218.jpg
@@ -499,6 +579,14 @@ works:
     date: '2026-07-17'
     code: 664783
     url: /works/664783/
+  - title: Totsuzen Ane ga Dekita Hanashi 4 | The Story of How I Suddenly Got Older
+      Sisters 4
+    author: oshima-aki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/669459.jpg
+    rating: 0.0
+    date: '2026-09-04'
+    code: 669459
+    url: /works/669459/
   - title: Nuite Moraimakuri Nyuuin Seikatsu ~Tasuketa Cool-Gyaru wa Jitsu wa Sukebe
       deshita~
     author: gujira
@@ -530,4 +618,11 @@ works:
     date: '2026-08-22'
     code: 674728
     url: /works/674728/
+  - title: My childhood friend, the “black gal,” who's surprisingly easy to sway
+    author: zarameccho
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/677418.jpg
+    rating: 0.0
+    date: '2026-09-04'
+    code: 677418
+    url: /works/677418/
 ---

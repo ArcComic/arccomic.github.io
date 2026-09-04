@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "tomboy"
-work_count: 24
+work_count: 26
 works:
   - title: Kizashi
     author: yoshiura-kazuya
@@ -10,6 +10,13 @@ works:
     date: '2026-03-09'
     code: 226386
     url: /works/226386/
+  - title: Rakki Taishyaku
+    author: fushoku
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/407561.jpg
+    rating: 4.8
+    date: '2026-09-04'
+    code: 407561
+    url: /works/407561/
   - title: Seiten no Hekireki | TS Thunderclap
     author: regdic
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/415057.jpg
@@ -45,6 +52,13 @@ works:
     date: '2026-07-11'
     code: 501709
     url: /works/501709/
+  - title: Tooriame | Passing Rain
+    author: osaki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/544274.jpg
+    rating: 0.0
+    date: '2026-09-04'
+    code: 544274
+    url: /works/544274/
   - title: Saikai shita Osananajimi to Issen o Koecchau Hanashi | I Reunited With My
       Longtime Friend and Crossed the Line
     author: satsuki-usa

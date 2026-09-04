@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "twintails"
-work_count: 70
+work_count: 72
 works:
   - title: Sensei wa Shougakusei ga Suki | Sensei Loves Elementary Schoolers
     author: fuyuno-mikan
@@ -429,6 +429,14 @@ works:
     date: '2026-07-16'
     code: 664820
     url: /works/664820/
+  - title: Totsuzen Ane ga Dekita Hanashi 4 | The Story of How I Suddenly Got Older
+      Sisters 4
+    author: oshima-aki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/669459.jpg
+    rating: 0.0
+    date: '2026-09-04'
+    code: 669459
+    url: /works/669459/
   - title: Everyone's Kissing Club - Chapter 1-29
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/674286.jpg
@@ -517,4 +525,13 @@ works:
     date: '2026-08-29'
     code: 676439
     url: /works/676439/
+  - title: Nijigen Otaku no Ore ga Tenkou Shite Kita Kyonyuu Idol ni Otosareru made
+      - A 2D Otaku Falls for the Curvy Idol Transfer Student | How I, a 2D-Obsessed
+      Otaku, Fell for the Busty Idol Who Transferred to My School
+    author: manno
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/677731.jpg
+    rating: 0.0
+    date: '2026-09-04'
+    code: 677731
+    url: /works/677731/
 ---

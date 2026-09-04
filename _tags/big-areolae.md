@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big areolae"
-work_count: 43
+work_count: 48
 works:
   - title: Kanojo no Kawaii Mieppari | My Cute Gyaru Girlfriend Is a Total Poser
     author: buta
@@ -184,6 +184,13 @@ works:
     date: '2026-04-30'
     code: 646904
     url: /works/646904/
+  - title: Alcoholic Libido
+    author: osaki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/647692.jpg
+    rating: 0.0
+    date: '2026-09-04'
+    code: 647692
+    url: /works/647692/
   - title: The Story Of Being Used For Sexual Release By My Annoying Childhood Friend
       And Cousin's Pussy
     author: karube-guri
@@ -279,6 +286,13 @@ works:
     date: '2026-07-17'
     code: 664798
     url: /works/664798/
+  - title: Black Kigyou No Kamin Shitsu Ga Yari Beya Ni Natteta Hanashi
+    author: oshima-aki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/668297.jpg
+    rating: 0.0
+    date: '2026-09-04'
+    code: 668297
+    url: /works/668297/
   - title: Igyou Koubi Kairaku Jigoku 1 + 2
     author: allegro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/668880.jpg
@@ -325,4 +339,28 @@ works:
     date: '2026-08-29'
     code: 676439
     url: /works/676439/
+  - title: My childhood friend, the “black gal,” who's surprisingly easy to sway
+    author: zarameccho
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/677418.jpg
+    rating: 0.0
+    date: '2026-09-04'
+    code: 677418
+    url: /works/677418/
+  - title: Nijigen Otaku no Ore ga Tenkou Shite Kita Kyonyuu Idol ni Otosareru made
+      - A 2D Otaku Falls for the Curvy Idol Transfer Student | How I, a 2D-Obsessed
+      Otaku, Fell for the Busty Idol Who Transferred to My School
+    author: manno
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/677731.jpg
+    rating: 0.0
+    date: '2026-09-04'
+    code: 677731
+    url: /works/677731/
+  - title: My Girlfriend Was Stolen by a Cool Girl Who Dresses Like a Guy, So I Taught
+      Her a Lesson 3
+    author: kurukuru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/677732.jpg
+    rating: 0.0
+    date: '2026-09-04'
+    code: 677732
+    url: /works/677732/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "voyeurism"
-work_count: 28
+work_count: 29
 works:
   - title: Boku no Kazoku o Sarashimasu Ch. 3
     author: tanaka-aji
@@ -202,6 +202,14 @@ works:
     date: '2026-05-26'
     code: 652606
     url: /works/652606/
+  - title: Totsuzen Ane ga Dekita Hanashi 4 | The Story of How I Suddenly Got Older
+      Sisters 4
+    author: oshima-aki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/669459.jpg
+    rating: 0.0
+    date: '2026-09-04'
+    code: 669459
+    url: /works/669459/
   - title: ENG AI Translated [Hanpatsu Zokusei] Mayu-chan EP 1 - 4
     author: hanpatsu-zokusei-mejikara-scene
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673485.jpg
