@@ -725,7 +725,7 @@ PAGINATION_JS = """
 
 # ============== HOMEPAGE (index.html) ==============
 INDEX_HTML_PATH = os.path.join(WORK_DIR, "index.html")
-INDEX_HTML_VERSION = 8  # bump when the template below changes materially
+INDEX_HTML_VERSION = 9  # bump when the template below changes materially
 
 INDEX_HTML_TEMPLATE = f"""---
 # No 'layout:' key here on purpose — index.html is a complete, self-contained
@@ -929,10 +929,12 @@ INDEX_HTML_TEMPLATE = f"""---
                 ✨ Browse Artists →
             </a>
         </div>
-        <h2 class="section-title">
-            🔥 Popular Today <span class="badge">TOP 4</span>
-        </h2>
-        <div class="popular-grid" id="popularGrid"></div>
+        <div id="popularSection">
+            <h2 class="section-title">
+                🔥 Popular Today <span class="badge">TOP 4</span>
+            </h2>
+            <div class="popular-grid" id="popularGrid"></div>
+        </div>
         <h2 class="section-title">📚 Latest Upload</h2>
         <div class="toolbar">
             <select id="sortSelect">
@@ -1052,6 +1054,10 @@ INDEX_HTML_TEMPLATE = f"""---
             // Filters section defaults to Most Recent when no explicit sort chosen
             const effectiveSort = sortMode || (isFilterPanelOpen() ? 'recent' : '');
             list = applySort(list, effectiveSort);
+
+            // Popular Today is a homepage-only feature — hide it entirely
+            // once the user pages past page 1.
+            document.getElementById('popularSection').style.display = (page === 1) ? '' : 'none';
 
             const noResults = document.getElementById('noResults');
             const grid = document.getElementById('worksGrid');

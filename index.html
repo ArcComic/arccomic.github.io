@@ -7,7 +7,9 @@
 # The empty front matter block below is still required so Jekyll processes
 # the Liquid tags (site.google_verification, site.works, etc.) in this file.
 ---
-<!-- arc-comic-index-version: 8 -->
+<!-- arc-comic-index-version: 9 -->
+<!-- v9: Popular Today section now hidden on page 2+ (homepage-only spotlight) -->
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -201,10 +203,12 @@
                 ✨ Browse Artists →
             </a>
         </div>
-        <h2 class="section-title">
-            🔥 Popular Today <span class="badge">TOP 4</span>
-        </h2>
-        <div class="popular-grid" id="popularGrid"></div>
+        <div id="popularSection">
+            <h2 class="section-title">
+                🔥 Popular Today <span class="badge">TOP 4</span>
+            </h2>
+            <div class="popular-grid" id="popularGrid"></div>
+        </div>
         <h2 class="section-title">📚 Latest Upload</h2>
         <div class="toolbar">
             <select id="sortSelect">
@@ -356,6 +360,13 @@
             // Filters section defaults to Most Recent when no explicit sort chosen
             const effectiveSort = sortMode || (isFilterPanelOpen() ? 'recent' : '');
             list = applySort(list, effectiveSort);
+
+            // Popular Today is a homepage-only feature — hide it entirely
+            // once the user pages past page 1, so page 2+ is just the
+            // plain comic list (matches how a real paginated page should
+            // look, and keeps "Popular Today" meaningful as a front-page
+            // spotlight rather than repeating on every page).
+            document.getElementById('popularSection').style.display = (page === 1) ? '' : 'none';
 
             const noResults = document.getElementById('noResults');
             const grid = document.getElementById('worksGrid');
