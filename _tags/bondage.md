@@ -26,7 +26,7 @@ works:
     url: /works/471387/
   - title: 1 Once iku goto ni penalty 1 manen oshioki papakatsu jyoshi
     author: crimson
-    cover: /covers/503556.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/503556.jpg
     rating: 4.2
     date: '2026-04-27'
     code: 503556
@@ -41,7 +41,7 @@ works:
     url: /works/504221/
   - title: My Friends Mom Is My Toy
     author: exit-up
-    cover: /covers/521812.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/521812.jpg
     rating: 4.4
     date: '2026-08-18'
     code: 521812
@@ -49,14 +49,14 @@ works:
   - title: Ossan Kirai no Hitozuma Kyoushi ga Nikubenki ni Ochiru Hanashi | Story About
       an Old Man Hating Married Teacher Falling Into Being a Meat Toilet
     author: chinpan
-    cover: /covers/562615.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/562615.jpg
     rating: 4.5
     date: '2026-04-25'
     code: 562615
     url: /works/562615/
   - title: Tawawa de Akarui Yakyuubu Manager ga Inshitsu na Kyoushi no Wana ni... Kanketsuhen
     author: ohkura-kazuya
-    cover: /covers/566052.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/566052.jpg
     rating: 4.7
     date: '2026-04-30'
     code: 566052
@@ -80,14 +80,14 @@ works:
   - title: Cool na Niizuma to no Shinkon Seikatsu wa Amari ni mo... Yarashikatta  |
       Our Kinky Newlywed Life Vol. 1-3
     author: nanakusa-amane
-    cover: /covers/603122.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/603122.jpg
     rating: 4.6
     date: '2026-04-23'
     code: 603122
     url: /works/603122/
   - title: Eroi Koto Igai de Toki o Tomete wa Dame desu yo 2
     author: ohkura-kazuya
-    cover: /covers/615835.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/615835.jpg
     rating: 4.9
     date: '2026-04-30'
     code: 615835
@@ -130,7 +130,7 @@ works:
   - title: 'YariCir Shingakki ni Boku no Heya wa Minna no Tamariba (Omake Ver.) - Fuck
       Club: New Term! My Room''s A Hangout Spot For Everyone'
     author: purumetal
-    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/645507.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/645507.jpg
     rating: 4.2
     date: '2026-04-23'
     code: 645507
@@ -146,21 +146,21 @@ works:
       Ichiban Sukebe na Etou-san - Eto-san is the cutest, has the biggest tits, is the
       most masturbatory target, and is the most naughty in the school. | 在校內最可愛、胸部最大、最常被當做性幻想對象、最淫蕩的江藤同學
     author: kuba-yodomu
-    cover: /covers/645649.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/645649.jpg
     rating: 4.1
     date: '2026-04-23'
     code: 645649
     url: /works/645649/
   - title: Otonari no Downer Oyako ni Shiboritorareru Hanashi
     author: gamogamo
-    cover: /covers/645896.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/645896.jpg
     rating: 4.3
     date: '2026-04-25'
     code: 645896
     url: /works/645896/
   - title: Anal Toilet Training
     author: goma-gorilla
-    cover: /covers/647315.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/647315.jpg
     rating: 4.1
     date: '2026-05-01'
     code: 647315
@@ -169,7 +169,7 @@ works:
       ni sarete Zenritsusen o Ijirarete Nandomo Nandomo Mesuikishite Choukyou sareru
       Ohanashi~
     author: sankaku-noel
-    cover: /covers/647608.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/647608.jpg
     rating: 4.6
     date: '2026-05-03'
     code: 647608
@@ -177,7 +177,7 @@ works:
   - title: Otaku ni Yasashii Gal wa Aitsu no Kanojo | A Gal Who's Kind to Otaku Is That
       Guy's Girlfriend
     author: yamamoto
-    cover: /covers/647809.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/647809.jpg
     rating: 4.9
     date: '2026-05-04'
     code: 647809
@@ -185,7 +185,7 @@ works:
   - title: If I Have a Chance, I Want to Warp My Boyfriend's Fetishes! ~Lovey-dovey
       Trip to the Hotsprings~
     author: meeko
-    cover: /covers/648042.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/648042.jpg
     rating: 4.5
     date: '2026-05-05'
     code: 648042
@@ -193,14 +193,14 @@ works:
   - title: Noraneko Shoujo to no Kurashikata Ch. 33-49 | How to Live with a Stray Cat
       Girl Ch. 33-49
     author: shiina
-    cover: /covers/648550.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/648550.jpg
     rating: 4.8
     date: '2026-05-07'
     code: 648550
     url: /works/648550/
   - title: Haijoku Underground
     author: dpc-deinoji
-    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/649068.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/649068.jpg
     rating: 4.2
     date: '2026-05-10'
     code: 649068
@@ -208,7 +208,7 @@ works:
   - title: Reibaishi Mikoto 2 Kairaku ni Zanpai su... Hentai Jijii to no Seikou no Gishiki
       de Ikikuruwasareru Shoujo no Karada
     author: sawacream
-    cover: /covers/649125.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/649125.jpg
     rating: 4.6
     date: '2026-05-10'
     code: 649125
@@ -216,21 +216,21 @@ works:
   - title: 'Namaiki Gal o Succubus ni Shite Oshioki Shitatta Ken 4  | Turning a Bratty
       Gal into a Succubus for Punishment #4'
     author: takurowo
-    cover: /covers/651303.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651303.jpg
     rating: 4.5
     date: '2026-05-20'
     code: 651303
     url: /works/651303/
   - title: M Ko
     author: takaku-tubby-shirono-mahiro
-    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/651489.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651489.jpg
     rating: 4.4
     date: '2026-05-21'
     code: 651489
     url: /works/651489/
   - title: Kinshin Choukyou Ane Dorei
     author: yamamoto-yoshifumi
-    cover: /covers/655423.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/655423.jpg
     rating: 4.8
     date: '2026-07-07'
     code: 655423
@@ -238,14 +238,14 @@ works:
   - title: Shinyuu Tatakitsubushi Kyousou Shiiku Seikatsu | A Life in Captivity The
       Competition to Break My Best Friend
     author: group
-    cover: /covers/661586.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/661586.jpg
     rating: 4.5
     date: '2026-07-06'
     code: 661586
     url: /works/661586/
   - title: All Night Long
     author: takasugi-kou
-    cover: /covers/662057.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662057.jpg
     rating: 4.7
     date: '2026-07-07'
     code: 662057
@@ -268,56 +268,56 @@ works:
   - title: 'Seifukusha ~Yami ni Ochiru Hitozuma-tachi~ | Sexploiter: Housewives Falling
       Into Darkness'
     author: hoshino-ryuichi
-    cover: /covers/664937.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/664937.jpg
     rating: 4.2
     date: '2026-07-17'
     code: 664937
     url: /works/664937/
   - title: Bitch Girls
     author: itou
-    cover: /covers/674701.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/674701.jpg
     rating: 4.9
     date: '2026-08-21'
     code: 674701
     url: /works/674701/
   - title: Midnight Lilies Full Release
     author: landacdeus
-    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/674863.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/674863.jpg
     rating: 4.4
     date: '2026-08-22'
     code: 674863
     url: /works/674863/
   - title: Hakkyou Suru Koi ~Imouto no Shinyuu o Boko Shite Rape~
     author: akiboshigai
-    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/674948.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/674948.jpg
     rating: 4.7
     date: '2026-08-22'
     code: 674948
     url: /works/674948/
   - title: Otokonoko Dorei - "OTOKONO-ko" Slave
     author: wakamiya-santa-gekka-saeki
-    cover: /covers/674960.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/674960.jpg
     rating: 4.1
     date: '2026-08-23'
     code: 674960
     url: /works/674960/
   - title: 'Katechou! #1'
     author: shinkaida-tetsuyarou
-    cover: /covers/674974.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/674974.jpg
     rating: 4.0
     date: '2026-08-23'
     code: 674974
     url: /works/674974/
   - title: Ichiryuu Sennyuu Sousakan Haiboku | Ryosen Infiltration Agent Defeated
     author: bloiler-yachou
-    cover: /covers/675048.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/675048.jpg
     rating: 4.6
     date: '2026-08-23'
     code: 675048
     url: /works/675048/
   - title: Stoic Diary
     author: twilight
-    cover: /covers/676397.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/676397.jpg
     rating: 4.8
     date: '2026-08-29'
     code: 676397

@@ -6,7 +6,7 @@ works:
   - title: Yuri no o saifu ni shite agemasu ne, Senpai | I'll turn you into Yuri's wallet,
       Senpai
     author: doskoinpo
-    cover: /covers/289523.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/289523.jpg
     rating: 4.6
     date: '2026-07-17'
     code: 289523
@@ -14,7 +14,7 @@ works:
   - title: Onna Shachou to Koibito ni Naru Houhou | How To Become Lover's With A Female
       CEO
     author: fan
-    cover: /covers/600237.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/600237.jpg
     rating: 4.3
     date: '2026-05-20'
     code: 600237

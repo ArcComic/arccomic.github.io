@@ -26,14 +26,14 @@ works:
     url: /works/484852/
   - title: Nakayoku no Yu e Youkoso Ch. 2 & 3
     author: enomoto-heights
-    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/555849.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/555849.jpg
     rating: 4.5
     date: '2026-04-30'
     code: 555849
     url: /works/555849/
   - title: Sinful Lust 4
     author: zetto
-    cover: /covers/593064.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/593064.jpg
     rating: 4.5
     date: '2026-04-23'
     code: 593064
@@ -48,7 +48,7 @@ works:
   - title: Boku ga Shiranakatta Mama to Jii-chan no Koto | Things I didn't Know Between
       Mom And Grandpa
     author: urakan
-    cover: /covers/640543.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/640543.jpg
     rating: 4.0
     date: '2026-04-23'
     code: 640543
@@ -64,7 +64,7 @@ works:
   - title: Inaka ni Sumu Dosukebe Gifu to Kosodate Yome | A Perverted Father-in-Law
       Living in the Countryside and His Daughter-in-Law Raising Children
     author: onodera
-    cover: /covers/648110.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/648110.jpg
     rating: 4.2
     date: '2026-05-05'
     code: 648110
@@ -72,7 +72,7 @@ works:
   - title: Mama no Saikon Aite wa Papakatsu no Papa | Mom's new husband is my sugar
       daddy
     author: shiro-marimo
-    cover: /covers/648384.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/648384.jpg
     rating: 4.5
     date: '2026-05-07'
     code: 648384
@@ -94,14 +94,14 @@ works:
     url: /works/663089/
   - title: Nayotake Kaguya no Himegoto
     author: yukino-minato
-    cover: /covers/673992.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673992.jpg
     rating: 4.4
     date: '2026-08-19'
     code: 673992
     url: /works/673992/
   - title: Boku no Katei wa Kuruimashita | My family has gone crazy
     author: torimomo
-    cover: /covers/674719.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/674719.jpg
     rating: 4.8
     date: '2026-08-21'
     code: 674719

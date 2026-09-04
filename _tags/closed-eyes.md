@@ -5,7 +5,7 @@ work_count: 4
 works:
   - title: Sokukan Delivery
     author: ice
-    cover: /covers/332781.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/332781.jpg
     rating: 4.2
     date: '2026-08-20'
     code: 332781
@@ -19,7 +19,7 @@ works:
     url: /works/398305/
   - title: Kichiku Kyoushi ni Otosareta Boku no Seitokaichou Part.3
     author: norakuro-nero
-    cover: /covers/557452.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/557452.jpg
     rating: 4.0
     date: '2026-08-20'
     code: 557452
@@ -27,7 +27,7 @@ works:
   - title: Ottori Itome no Oba o Odoshite Hamete Iinari Onaho-ka Keikaku | Gentle Slit-Eyed
       Aunty Blackmail & Obedient Fuckhole Training Project
     author: ginen
-    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/611978.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/611978.jpg
     rating: 4.0
     date: '2026-08-25'
     code: 611978

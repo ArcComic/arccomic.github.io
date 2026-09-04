@@ -12,7 +12,7 @@ works:
     url: /works/292454/
   - title: Koi no Susumekata | How to Advance Your Love
     author: danimaru
-    cover: /covers/425528.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/425528.jpg
     rating: 4.6
     date: '2026-04-27'
     code: 425528
@@ -48,21 +48,21 @@ works:
     url: /works/644924/
   - title: Saya-nee-chan ga Yondemasu | Saya-nee is Calling Me
     author: tokiwa-midori
-    cover: /covers/647382.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/647382.jpg
     rating: 4.7
     date: '2026-05-03'
     code: 647382
     url: /works/647382/
   - title: Boku no Onee-chan wa Sekai de Ichiban Tsuyokute kakkoiin da.
     author: riboshika
-    cover: /covers/648551.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/648551.jpg
     rating: 4.2
     date: '2026-05-07'
     code: 648551
     url: /works/648551/
   - title: Kisei Goblin | Parasitic Goblin
     author: poriuretan
-    cover: /covers/652632.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/652632.jpg
     rating: 4.5
     date: '2026-05-26'
     code: 652632
@@ -70,7 +70,7 @@ works:
   - title: Love wa Gal kara Hajimaru Unmei | Love is a Destiny That Begins with a Gal
       ch.1-5
     author: nusmusbim
-    cover: /covers/661909.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/661909.jpg
     rating: 4.1
     date: '2026-07-07'
     code: 661909
@@ -84,14 +84,14 @@ works:
     url: /works/663598/
   - title: Welcome to the Weak Masochist Volleyball Club
     author: hagakure-kurage
-    cover: /covers/664758.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/664758.jpg
     rating: 5.0
     date: '2026-07-17'
     code: 664758
     url: /works/664758/
   - title: nekonimatatabi
     author: yuzuto-sen
-    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/674592.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/674592.jpg
     rating: 4.0
     date: '2026-08-21'
     code: 674592

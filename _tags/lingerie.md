@@ -5,7 +5,7 @@ work_count: 51
 works:
   - title: My Care Lady Ch. 1
     author: sugi-g
-    cover: /covers/139537.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/139537.jpg
     rating: 4.7
     date: '2026-04-27'
     code: 139537
@@ -92,7 +92,7 @@ works:
     url: /works/453749/
   - title: Asunama 9
     author: ken-1
-    cover: /covers/477784.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/477784.jpg
     rating: 4.1
     date: '2026-07-17'
     code: 477784
@@ -115,7 +115,7 @@ works:
   - title: Moto Mahou Shoujo no Hikikomori Seikatsu | The NEET Life of a Former Magical
       Girl
     author: zhen-lu
-    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/506303.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/506303.jpg
     rating: 4.4
     date: '2026-04-23'
     code: 506303
@@ -137,7 +137,7 @@ works:
     url: /works/531313/
   - title: Mother's Scent 1-4
     author: midnight
-    cover: /covers/532417.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/532417.jpg
     rating: 4.2
     date: '2026-05-26'
     code: 532417
@@ -151,7 +151,7 @@ works:
     url: /works/536072/
   - title: Oshioki no Jikan - Punishment time
     author: syoukaki
-    cover: /covers/540125.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/540125.jpg
     rating: 4.1
     date: '2026-05-10'
     code: 540125
@@ -159,7 +159,7 @@ works:
   - title: Hayato-sensei no Mesu-ka Karute Daigaku-hen | Dr. Hayato's Feminization Medical
       Record ~University Edition~
     author: testame
-    cover: /covers/556767.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/556767.jpg
     rating: 4.2
     date: '2026-08-31'
     code: 556767
@@ -167,7 +167,7 @@ works:
   - title: Ojou-sama Sodachi no Namaiki Celeb Zuma o Kitanai Ossan Chinpo de Wakaraseru
       | Cocky Rich Bitch Glam-Wife Gets Taught A Lesson With Dirty Old Man Dick
     author: chinpan
-    cover: /covers/559088.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/559088.jpg
     rating: 4.6
     date: '2026-04-25'
     code: 559088
@@ -190,7 +190,7 @@ works:
   - title: Boku no Kaa-chan ga Hikikomori Neet Debu Aniki no Seishori Onaho ni Natteita
       Hanashi | My Mother is My Fat Shut-in Older NEET Brother's Sex Relief Onahole
     author: tarobaumu
-    cover: /covers/578147.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/578147.jpg
     rating: 4.3
     date: '2026-05-05'
     code: 578147
@@ -220,7 +220,7 @@ works:
     url: /works/593456/
   - title: Sono Gal Mama wa Koubi Suru | This Gyaru Mom is Having Sex.
     author: ameto-yuki
-    cover: /covers/608648.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/608648.jpg
     rating: 4.3
     date: '2026-08-25'
     code: 608648
@@ -235,7 +235,7 @@ works:
   - title: Igumox - Muramata-san no Himitsu & Aijou - Muramata-san's Secret & Affection
       COMPLETE
     author: igumox
-    cover: /covers/624573.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/624573.jpg
     rating: 4.2
     date: '2026-05-26'
     code: 624573
@@ -270,7 +270,7 @@ works:
     url: /works/635794/
   - title: The Story of Becoming the Husband of a Rich, Yandere Daughter
     author: kaisendoh
-    cover: /covers/638178.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638178.jpg
     rating: 4.9
     date: '2026-08-19'
     code: 638178
@@ -279,28 +279,28 @@ works:
       Ichiban Sukebe na Etou-san - Eto-san is the cutest, has the biggest tits, is the
       most masturbatory target, and is the most naughty in the school. | 在校內最可愛、胸部最大、最常被當做性幻想對象、最淫蕩的江藤同學
     author: kuba-yodomu
-    cover: /covers/645649.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/645649.jpg
     rating: 4.1
     date: '2026-04-23'
     code: 645649
     url: /works/645649/
   - title: If I Have a Chance, I Want to Warp My Boyfriend's Fetishes!
     author: meeko
-    cover: /covers/647619.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/647619.jpg
     rating: 4.6
     date: '2026-05-03'
     code: 647619
     url: /works/647619/
   - title: Amanatsu - Sweet Rainy Girly Summer
     author: sugaishi
-    cover: /covers/647740.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/647740.jpg
     rating: 4.3
     date: '2026-05-04'
     code: 647740
     url: /works/647740/
   - title: REMIND ME & Beautiful Days Without You
     author: 3e
-    cover: /covers/652639.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/652639.jpg
     rating: 4.8
     date: '2026-05-26'
     code: 652639
@@ -315,7 +315,7 @@ works:
   - title: Kasshoku Oneesan no Fudeoroshi Ver. 6 | Brown Lady Takes His First Time Ver.
       6
     author: ahugan-sugita
-    cover: /covers/662114.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662114.jpg
     rating: 4.7
     date: '2026-07-07'
     code: 662114
@@ -336,35 +336,35 @@ works:
     url: /works/662658/
   - title: My Genius Senpai Girlfriend Swapped Bodies with a Gal!
     author: kuratsuka-riko
-    cover: /covers/664584.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/664584.jpg
     rating: 4.1
     date: '2026-07-16'
     code: 664584
     url: /works/664584/
   - title: Chijo Tsuma no Tawamure ~Zenpen~ _ My Boss Has a Slutty Wife Part 1
     author: hikitogu
-    cover: /covers/664679.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/664679.jpg
     rating: 4.0
     date: '2026-07-16'
     code: 664679
     url: /works/664679/
   - title: Osananajimi Kanojo, Netorare Choukyou
     author: naporitan
-    cover: /covers/664798.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/664798.jpg
     rating: 4.5
     date: '2026-07-17'
     code: 664798
     url: /works/664798/
   - title: Azanaharu Kanojo no Shikiroku | Color Records of a Girlfriend in Entanglement
     author: allegro
-    cover: /covers/669452.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/669452.jpg
     rating: 4.7
     date: '2026-08-20'
     code: 669452
     url: /works/669452/
   - title: Mesu no Ie III ~Oyako wa Midare Aisareru~
     author: ame-arare
-    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/675981.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/675981.jpg
     rating: 4.4
     date: '2026-08-28'
     code: 675981
@@ -373,7 +373,7 @@ works:
       2 | My Fiancée's Younger Sister is a SSR Influencer with a Terrible Personality
       and is a Hellish Erotic Dancer. 2
     author: indo-curry-in-ka-of-the-dead
-    cover: /covers/676320.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/676320.jpg
     rating: 4.2
     date: '2026-08-29'
     code: 676320

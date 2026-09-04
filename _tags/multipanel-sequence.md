@@ -6,7 +6,7 @@ works:
   - title: Onee-chan ga Ecchi na Koto bakka Suru kara... | My older sister only does
       obscene things...
     author: danimaru
-    cover: /covers/337171.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/337171.jpg
     rating: 4.5
     date: '2026-04-27'
     code: 337171
@@ -20,7 +20,7 @@ works:
     url: /works/387637/
   - title: Sukina Hito, Sukina Koto
     author: ebi-fry-teishoku
-    cover: /covers/452482.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/452482.jpg
     rating: 4.8
     date: '2026-04-27'
     code: 452482
@@ -35,7 +35,7 @@ works:
     url: /works/531313/
   - title: Youka-go Tsuma no Haha o Daku | Eight Days With My Wife's Mother
     author: jagaimo
-    cover: /covers/534808.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/534808.jpg
     rating: 4.3
     date: '2026-08-19'
     code: 534808
@@ -58,7 +58,7 @@ works:
   - title: 'Taihai Tsuma: Taihaikei Hitotsuma o Yachin Kawari ni Koki Tsukaeru Hanashi
       | Slutty Wife!'
     author: kametaro
-    cover: /covers/629368.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/629368.jpg
     rating: 4.4
     date: '2026-04-30'
     code: 629368
@@ -73,7 +73,7 @@ works:
   - title: Imouto Haramasenai to Derarenai Shima 2 | You Must Breed Your Sister to Leave
       This Island 2!
     author: airandou
-    cover: /covers/648414.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/648414.jpg
     rating: 4.2
     date: '2026-05-07'
     code: 648414
@@ -81,7 +81,7 @@ works:
   - title: Nuite Moraimakuri Nyuuin Seikatsu ~Tasuketa Cool-Gyaru wa Jitsu wa Sukebe
       deshita~
     author: gujira
-    cover: /covers/673508.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673508.jpg
     rating: 4.2
     date: '2026-08-18'
     code: 673508

@@ -6,7 +6,7 @@ works:
   - title: Yuri no o saifu ni shite agemasu ne, Senpai | I'll turn you into Yuri's wallet,
       Senpai
     author: doskoinpo
-    cover: /covers/289523.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/289523.jpg
     rating: 4.6
     date: '2026-07-17'
     code: 289523
@@ -21,14 +21,14 @@ works:
     url: /works/361032/
   - title: Suki Araba Kareshi no Seiheki o Yugametai! ~Kimi no Aegi ga Mada Tarinai~
     author: meeko
-    cover: /covers/376189.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/376189.jpg
     rating: 4.8
     date: '2026-05-03'
     code: 376189
     url: /works/376189/
   - title: Ashizeme Kanojo _0 | girlfriend who likes to torture with her feet _0
     author: kaoinshou-zero
-    cover: /covers/430672.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/430672.jpg
     rating: 4.9
     date: '2026-07-17'
     code: 430672
@@ -36,7 +36,7 @@ works:
   - title: Bocchi de Shinda Ore ga Bishoujo Nurse ni Natta Hanashi | The Story of How
       I Died Alone and Became a Sexy Nurse
     author: testame
-    cover: /covers/494172.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/494172.jpg
     rating: 4.4
     date: '2026-08-31'
     code: 494172
@@ -44,7 +44,7 @@ works:
   - title: Ore wa Yome ni Sakaraenai... Seiheki o Nigirareteiru | I Can't Say No To
       My Wife... She's Got Me By The Balls!
     author: inu
-    cover: /covers/550948.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/550948.jpg
     rating: 4.0
     date: '2026-08-22'
     code: 550948
@@ -60,14 +60,14 @@ works:
       ni sarete Zenritsusen o Ijirarete Nandomo Nandomo Mesuikishite Choukyou sareru
       Ohanashi~
     author: sankaku-noel
-    cover: /covers/647608.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/647608.jpg
     rating: 4.6
     date: '2026-05-03'
     code: 647608
     url: /works/647608/
   - title: If I Have a Chance, I Want to Warp My Boyfriend's Fetishes!
     author: meeko
-    cover: /covers/647619.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/647619.jpg
     rating: 4.6
     date: '2026-05-03'
     code: 647619
@@ -81,14 +81,14 @@ works:
     url: /works/662370/
   - title: Welcome to the Weak Masochist Volleyball Club
     author: hagakure-kurage
-    cover: /covers/664758.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/664758.jpg
     rating: 5.0
     date: '2026-07-17'
     code: 664758
     url: /works/664758/
   - title: Sensei!! I Told You Not To Come Again Didn't I !!
     author: nakakazu
-    cover: /covers/676149.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/676149.jpg
     rating: 4.2
     date: '2026-08-28'
     code: 676149

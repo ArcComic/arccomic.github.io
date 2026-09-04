@@ -11,7 +11,7 @@ works:
     url: /works/535875/
   - title: Noraneko Shoujo to no Kurashikata Ch. 33-49 | How to Live with a Stray Cat
       Girl Ch. 33-49
-    cover: /covers/648550.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/648550.jpg
     rating: 4.8
     date: '2026-05-07'
     code: 648550

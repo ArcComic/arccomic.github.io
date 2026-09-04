@@ -34,14 +34,14 @@ works:
   - title: TomoKano Kaa-chan II ~Jitaku, Musuko no Tomodachi ni Ochita Natsu~ | My Mom
       Is My Friend's Girlfriend 2
     author: tarobaumu
-    cover: /covers/419017.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/419017.jpg
     rating: 4.0
     date: '2026-05-05'
     code: 419017
     url: /works/419017/
   - title: Rossia kei Hitozuma to Doutei kun no Himitsu no Kankei
     author: kibi-anmitsu
-    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/530293.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/530293.jpg
     rating: 4.7
     date: '2026-05-20'
     code: 530293
@@ -55,28 +55,28 @@ works:
     url: /works/544993/
   - title: + (SEIKO AYASE VARIOUS) +
     author: st-mya
-    cover: /covers/555816.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/555816.jpg
     rating: 4.7
     date: '2026-07-16'
     code: 555816
     url: /works/555816/
   - title: Kyoushi to Mama to Koibito no Kao
     author: mifune-seijirou
-    cover: /covers/592307.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/592307.jpg
     rating: 4.5
     date: '2026-08-25'
     code: 592307
     url: /works/592307/
   - title: Yuujin no Haha wa Dekachin ni Yowai | My Friend's Mom is Weak to a Huge Cock
     author: shimofuri
-    cover: /covers/593575.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/593575.jpg
     rating: 4.4
     date: '2026-08-21'
     code: 593575
     url: /works/593575/
   - title: Mamami Numa | Addicted to Her Motherly Vibes
     author: ruruepa
-    cover: /covers/619648.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/619648.jpg
     rating: 5.0
     date: '2026-08-18'
     code: 619648
@@ -99,7 +99,7 @@ works:
     url: /works/643512/
   - title: Ikenie no Haha 2
     author: group
-    cover: /covers/645676.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/645676.jpg
     rating: 4.1
     date: '2026-04-23'
     code: 645676
@@ -107,21 +107,21 @@ works:
   - title: Okaa-san ni wa Kore Gurai shika Dekinai kara... 2 | For Mom the Only Option
       Left is... 2
     author: muchipan
-    cover: /covers/646904.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/646904.jpg
     rating: 4.2
     date: '2026-04-30'
     code: 646904
     url: /works/646904/
   - title: A Mother Who Had Sex With Her Daughter's Boyfriend
     author: cammy
-    cover: /covers/673900.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673900.jpg
     rating: 4.6
     date: '2026-08-19'
     code: 673900
     url: /works/673900/
   - title: My Teacher Is So Hot That I Might Repeat Kindergarten !!
     author: tamano-kedama
-    cover: /covers/674709.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/674709.jpg
     rating: 4.4
     date: '2026-08-21'
     code: 674709

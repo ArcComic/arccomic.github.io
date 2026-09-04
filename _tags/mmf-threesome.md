@@ -35,14 +35,14 @@ works:
   - title: Bocchi de Shinda Ore ga Bishoujo Nurse ni Natta Hanashi | The Story of How
       I Died Alone and Became a Sexy Nurse
     author: testame
-    cover: /covers/494172.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/494172.jpg
     rating: 4.4
     date: '2026-08-31'
     code: 494172
     url: /works/494172/
   - title: Bitch Mama no Kekkon Riyuu
     author: aoyama-akira
-    cover: /covers/512473.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/512473.jpg
     rating: 4.6
     date: '2026-08-25'
     code: 512473
@@ -50,14 +50,14 @@ works:
   - title: Ossan Kirai no Hitozuma Kyoushi ga Nikubenki ni Ochiru Hanashi | Story About
       an Old Man Hating Married Teacher Falling Into Being a Meat Toilet
     author: chinpan
-    cover: /covers/562615.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/562615.jpg
     rating: 4.5
     date: '2026-04-25'
     code: 562615
     url: /works/562615/
   - title: Wakazuma Arijigoku
     author: sunagawa-tara
-    cover: /covers/595788.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/595788.jpg
     rating: 4.7
     date: '2026-08-31'
     code: 595788
@@ -85,7 +85,7 @@ works:
     url: /works/635801/
   - title: Akogare no Hito wa Mou Owari! 3
     author: group
-    cover: /covers/642586.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642586.jpg
     rating: 5.0
     date: '2026-08-24'
     code: 642586
@@ -107,35 +107,35 @@ works:
   - title: Succubus Seitokai Shiko Shiko Shikkoubu 2 NOA ver. | Succubus Student Council
       Milking Club 2 Version NOA
     author: michiking
-    cover: /covers/645520.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/645520.jpg
     rating: 4.8
     date: '2026-04-23'
     code: 645520
     url: /works/645520/
   - title: Ikenie no Haha 2
     author: group
-    cover: /covers/645676.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/645676.jpg
     rating: 4.1
     date: '2026-04-23'
     code: 645676
     url: /works/645676/
   - title: Onna Tomodachi no Uwaki Kokuhaku 2 | My Friend Confessed to Cheating 2
     author: dekamatsu
-    cover: /covers/647270.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/647270.jpg
     rating: 4.7
     date: '2026-05-01'
     code: 647270
     url: /works/647270/
   - title: Good Teachers
     author: nodo
-    cover: /covers/648310.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/648310.jpg
     rating: 4.9
     date: '2026-05-07'
     code: 648310
     url: /works/648310/
   - title: Haijoku Underground
     author: dpc-deinoji
-    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/649068.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/649068.jpg
     rating: 4.2
     date: '2026-05-10'
     code: 649068
@@ -143,7 +143,7 @@ works:
   - title: A story about a shy childhood friend who can’t say no and ends up being put
       in charge of handling sexual needs.
     author: sakurayu-hal
-    cover: /covers/655498.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/655498.jpg
     rating: 4.4
     date: '2026-07-16'
     code: 655498
@@ -172,14 +172,14 @@ works:
     url: /works/663605/
   - title: Karin-chan no Himitsu Kichi Matome
     author: konnyaku
-    cover: /covers/676197.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/676197.jpg
     rating: 4.7
     date: '2026-08-28'
     code: 676197
     url: /works/676197/
   - title: Otona no Asobi wo Manabitai | I Wanna Learn How Adults Have Fun!
     author: jairou-xil
-    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/676325.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/676325.jpg
     rating: 4.5
     date: '2026-08-29'
     code: 676325

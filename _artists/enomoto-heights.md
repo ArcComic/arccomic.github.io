@@ -4,7 +4,7 @@ artist_name: "enomoto-heights"
 work_count: 1
 works:
   - title: Nakayoku no Yu e Youkoso Ch. 2 & 3
-    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/555849.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/555849.jpg
     rating: 4.5
     date: '2026-04-30'
     code: 555849

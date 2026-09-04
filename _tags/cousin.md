@@ -7,7 +7,7 @@ works:
       ni, Tamarazu Sounyuu 1 I Can’t Stop Myself From Penetrating My Big Boobed Older
       Female Cousin 1
     author: takayamanon
-    cover: /covers/510022.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/510022.jpg
     rating: 4.7
     date: '2026-08-20'
     code: 510022
@@ -16,7 +16,7 @@ works:
       Zecchou Shidou 1-5 | Let''s Learn About Sex: Your Cousin Will Take Your Virginity
       and Teach You How to Come 1-5'
     author: gento
-    cover: /covers/534388.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/534388.jpg
     rating: 4.1
     date: '2026-08-29'
     code: 534388
@@ -37,14 +37,14 @@ works:
     url: /works/644495/
   - title: Saya-nee-chan ga Yondemasu | Saya-nee is Calling Me
     author: tokiwa-midori
-    cover: /covers/647382.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/647382.jpg
     rating: 4.7
     date: '2026-05-03'
     code: 647382
     url: /works/647382/
   - title: My Annoying Little Cousin Stole My First Time
     author: karube-guri
-    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/647853.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/647853.jpg
     rating: 4.7
     date: '2026-05-07'
     code: 647853
@@ -52,21 +52,21 @@ works:
   - title: The Story Of Being Used For Sexual Release By My Annoying Childhood Friend
       And Cousin's Pussy
     author: karube-guri
-    cover: /covers/648522.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/648522.jpg
     rating: 4.2
     date: '2026-05-07'
     code: 648522
     url: /works/648522/
   - title: Karada ga Binkan Sugiru Watashi wa Itoko ni Itazura sarete mo Teikoudekinai!
     author: romomata
-    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/655421.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/655421.jpg
     rating: 5.0
     date: '2026-08-21'
     code: 655421
     url: /works/655421/
   - title: Mukatsuku Juumai no Kuchimanko ni Kounai Shasei suru Hanashi.
     author: karube-guri
-    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/664820.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/664820.jpg
     rating: 5.0
     date: '2026-07-16'
     code: 664820

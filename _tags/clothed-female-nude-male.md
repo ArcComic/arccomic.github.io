@@ -6,14 +6,14 @@ works:
   - title: Yuri no o saifu ni shite agemasu ne, Senpai | I'll turn you into Yuri's wallet,
       Senpai
     author: doskoinpo
-    cover: /covers/289523.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/289523.jpg
     rating: 4.6
     date: '2026-07-17'
     code: 289523
     url: /works/289523/
   - title: Suki Araba Kareshi no Seiheki o Yugametai! ~Kimi no Aegi ga Mada Tarinai~
     author: meeko
-    cover: /covers/376189.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/376189.jpg
     rating: 4.8
     date: '2026-05-03'
     code: 376189
@@ -27,7 +27,7 @@ works:
     url: /works/387637/
   - title: Ashizeme Kanojo _0 | girlfriend who likes to torture with her feet _0
     author: kaoinshou-zero
-    cover: /covers/430672.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/430672.jpg
     rating: 4.9
     date: '2026-07-17'
     code: 430672
@@ -41,35 +41,35 @@ works:
     url: /works/531966/
   - title: Akumu Revenge 2 | Nightmare Revenge 2
     author: coupe
-    cover: /covers/645884.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/645884.jpg
     rating: 4.7
     date: '2026-04-25'
     code: 645884
     url: /works/645884/
   - title: Sex Between Gloomy Types is the Hottest, Ain't It?
     author: doji-ro
-    cover: /covers/646757.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/646757.jpg
     rating: 4.5
     date: '2026-05-01'
     code: 646757
     url: /works/646757/
   - title: If I Have a Chance, I Want to Warp My Boyfriend's Fetishes!
     author: meeko
-    cover: /covers/647619.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/647619.jpg
     rating: 4.6
     date: '2026-05-03'
     code: 647619
     url: /works/647619/
   - title: High-garden Lowlife
     author: sei
-    cover: /covers/648102.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/648102.jpg
     rating: 4.2
     date: '2026-05-05'
     code: 648102
     url: /works/648102/
   - title: Welcome to the Weak Masochist Volleyball Club
     author: hagakure-kurage
-    cover: /covers/664758.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/664758.jpg
     rating: 5.0
     date: '2026-07-17'
     code: 664758

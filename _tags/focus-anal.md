@@ -12,14 +12,14 @@ works:
     url: /works/579976/
   - title: Anal Toilet Training
     author: goma-gorilla
-    cover: /covers/647315.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/647315.jpg
     rating: 4.1
     date: '2026-05-01'
     code: 647315
     url: /works/647315/
   - title: Half Gimai to no Amai Nichijou to Noumitsu Sex 3
     author: sanbalkin
-    cover: /covers/648460.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/648460.jpg
     rating: 4.9
     date: '2026-05-07'
     code: 648460

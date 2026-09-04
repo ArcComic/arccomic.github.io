@@ -6,7 +6,7 @@ works:
   - title: Onee-chan ga Ecchi na Koto bakka Suru kara... | My older sister only does
       obscene things...
     author: danimaru
-    cover: /covers/337171.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/337171.jpg
     rating: 4.5
     date: '2026-04-27'
     code: 337171
@@ -14,7 +14,7 @@ works:
   - title: Itabasami na Wakachi Ai 4 | Love Divided Between a Rock and a Hard Place
       4
     author: group
-    cover: /covers/448503.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/448503.jpg
     rating: 5.0
     date: '2026-04-23'
     code: 448503
@@ -38,7 +38,7 @@ works:
       2 | My Fiancée's Younger Sister is a SSR Influencer with a Terrible Personality
       and is a Hellish Erotic Dancer. 2
     author: indo-curry-in-ka-of-the-dead
-    cover: /covers/676320.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/676320.jpg
     rating: 4.2
     date: '2026-08-29'
     code: 676320

@@ -5,7 +5,7 @@ work_count: 4
 works:
   - title: Imouto wa Mesu Orc 7
     author: muneshiro
-    cover: /covers/547393.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/547393.jpg
     rating: 4.3
     date: '2026-07-17'
     code: 547393
@@ -14,7 +14,7 @@ works:
       suru made Renzoku Nou Iki | TOROHAME ~First Time Portio Kiss... Consecutive Braingasm
       Until You Faint~
     author: yamamoto-tomomitsu
-    cover: /covers/593112.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/593112.jpg
     rating: 4.3
     date: '2026-04-25'
     code: 593112
@@ -29,7 +29,7 @@ works:
     url: /works/597754/
   - title: My Teacher Is So Hot That I Might Repeat Kindergarten !!
     author: tamano-kedama
-    cover: /covers/674709.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/674709.jpg
     rating: 4.4
     date: '2026-08-21'
     code: 674709

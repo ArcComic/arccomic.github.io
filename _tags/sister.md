@@ -6,7 +6,7 @@ works:
   - title: Onee-chan ga Ecchi na Koto bakka Suru kara... | My older sister only does
       obscene things...
     author: danimaru
-    cover: /covers/337171.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/337171.jpg
     rating: 4.5
     date: '2026-04-27'
     code: 337171
@@ -43,7 +43,7 @@ works:
     url: /works/555216/
   - title: Boku no Kaa-chan 2 | My Mom 2
     author: cammy
-    cover: /covers/579339.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/579339.jpg
     rating: 4.9
     date: '2026-04-25'
     code: 579339
@@ -57,7 +57,7 @@ works:
     url: /works/589010/
   - title: Mesu no Ie II ~Tsuma wa Midare Ubareru~
     author: ame-arare
-    cover: /covers/591112.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/591112.jpg
     rating: 4.3
     date: '2026-05-01'
     code: 591112
@@ -86,7 +86,7 @@ works:
     url: /works/612957/
   - title: Tsuma ni Ani to Kozukuri Shite Moraimashita
     author: furaimai
-    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/616367.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/616367.jpg
     rating: 4.2
     date: '2026-08-25'
     code: 616367
@@ -94,7 +94,7 @@ works:
   - title: Futari de Watashi o Ikasenaide...! ~Kurayami, Majiwaru Kyoudai Futon~  |
       My 2 Step-Brothers are Ganging Up on Me!  Vol.1
     author: ma-yu
-    cover: /covers/618087.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/618087.jpg
     rating: 4.3
     date: '2026-08-29'
     code: 618087
@@ -130,7 +130,7 @@ works:
     url: /works/636802/
   - title: Akogare no Hito wa Mou Owari! 2
     author: group
-    cover: /covers/642585.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642585.jpg
     rating: 4.0
     date: '2026-08-24'
     code: 642585
@@ -160,14 +160,14 @@ works:
   - title: Tsuma no Tame ni Tameta Kozukuri Seishi o Gimai no JK Manko ni Nagashikondeshimatta
       Boku.
     author: junsei-chuurenpoutou
-    cover: /covers/645908.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/645908.jpg
     rating: 4.2
     date: '2026-04-25'
     code: 645908
     url: /works/645908/
   - title: Kimagure Onee-chan 2 | Whimsical Onee-chan 2
     author: toushiki-yubune
-    cover: /covers/647341.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/647341.jpg
     rating: 4.1
     date: '2026-05-01'
     code: 647341
@@ -175,35 +175,35 @@ works:
   - title: Imouto Haramasenai to Derarenai Shima 2 | You Must Breed Your Sister to Leave
       This Island 2!
     author: airandou
-    cover: /covers/648414.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/648414.jpg
     rating: 4.2
     date: '2026-05-07'
     code: 648414
     url: /works/648414/
   - title: Half Gimai to no Amai Nichijou to Noumitsu Sex 3
     author: sanbalkin
-    cover: /covers/648460.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/648460.jpg
     rating: 4.9
     date: '2026-05-07'
     code: 648460
     url: /works/648460/
   - title: Kinshin Choukyou Ane Dorei
     author: yamamoto-yoshifumi
-    cover: /covers/655423.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/655423.jpg
     rating: 4.8
     date: '2026-07-07'
     code: 655423
     url: /works/655423/
   - title: Kyoudai Yuugi | Sibling Game
     author: takei-masaki
-    cover: /covers/655441.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/655441.jpg
     rating: 4.3
     date: '2026-07-07'
     code: 655441
     url: /works/655441/
   - title: Ero Sugiru Imouto to Fukinshin na Ore
     author: hazuki-kaoru
-    cover: /covers/657207.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/657207.jpg
     rating: 4.5
     date: '2026-07-07'
     code: 657207
@@ -218,7 +218,7 @@ works:
   - title: Imouto ga Ore no Kanojo!? 2-haku 3-ka no Ecchi na Kankei | My Sister is My
       Girlfriend!? Sexual Relationship for Two Nights and Three Days
     author: katagiri-kaneharu
-    cover: /covers/660399.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/660399.jpg
     rating: 4.2
     date: '2026-08-29'
     code: 660399
@@ -226,14 +226,14 @@ works:
   - title: Ane to Otouto wa 30-Nichi go ni Sex Suru. | The Big Sister and Her Little
       Brother Will Have Sex in 30 Days
     author: shamidou-maichimonji
-    cover: /covers/661139.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/661139.jpg
     rating: 4.3
     date: '2026-07-05'
     code: 661139
     url: /works/661139/
   - title: Tsuntsun
     author: onizuka-naoshi
-    cover: /covers/661935.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/661935.jpg
     rating: 4.4
     date: '2026-07-07'
     code: 661935
@@ -247,42 +247,42 @@ works:
     url: /works/662891/
   - title: My Big brother
     author: momoyama-hato
-    cover: /covers/664926.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/664926.jpg
     rating: 4.8
     date: '2026-07-17'
     code: 664926
     url: /works/664926/
   - title: ENG AI Translated [Hanpatsu Zokusei] Mayu-chan EP 1 - 4
     author: hanpatsu-zokusei-mejikara-scene
-    cover: /covers/673485.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673485.jpg
     rating: 4.4
     date: '2026-08-17'
     code: 673485
     url: /works/673485/
   - title: Onii-san Zako sugite Ukeru~ | Big Brother, you're so pathetic, it's hilarious~
     author: puritei
-    cover: /covers/674568.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/674568.jpg
     rating: 4.9
     date: '2026-08-21'
     code: 674568
     url: /works/674568/
   - title: Boku no Katei wa Kuruimashita | My family has gone crazy
     author: torimomo
-    cover: /covers/674719.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/674719.jpg
     rating: 4.8
     date: '2026-08-21'
     code: 674719
     url: /works/674719/
   - title: Mesu no Ie III ~Oyako wa Midare Aisareru~
     author: ame-arare
-    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/675981.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/675981.jpg
     rating: 4.4
     date: '2026-08-28'
     code: 675981
     url: /works/675981/
   - title: Otona no Asobi wo Manabitai | I Wanna Learn How Adults Have Fun!
     author: jairou-xil
-    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/676325.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/676325.jpg
     rating: 4.5
     date: '2026-08-29'
     code: 676325
@@ -290,21 +290,21 @@ works:
   - title: 'Sister Contrast 2: Muttsuri Onee-chan to Henai Koubi | Sister contrast 2:
       My Sultry Sister Want To Be Breeded.'
     author: 92m
-    cover: /covers/676458.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/676458.jpg
     rating: 4.4
     date: '2026-08-29'
     code: 676458
     url: /works/676458/
   - title: Irodori Kazoku
     author: sugi-g
-    cover: /covers/676658.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/676658.jpg
     rating: 4.7
     date: '2026-08-31'
     code: 676658
     url: /works/676658/
   - title: Ani ga Inma ni Natta node
     author: dobato
-    cover: /covers/677079.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/677079.jpg
     rating: 4.5
     date: '2026-08-31'
     code: 677079

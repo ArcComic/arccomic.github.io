@@ -5,7 +5,7 @@ work_count: 10
 works:
   - title: Koi no Susumekata | How to Advance Your Love
     author: danimaru
-    cover: /covers/425528.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/425528.jpg
     rating: 4.6
     date: '2026-04-27'
     code: 425528
@@ -13,14 +13,14 @@ works:
   - title: Saikai shita Osananajimi to Issen o Koecchau Hanashi | I Reunited With My
       Longtime Friend and Crossed the Line
     author: satsuki-usa
-    cover: /covers/560097.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/560097.jpg
     rating: 4.1
     date: '2026-08-18'
     code: 560097
     url: /works/560097/
   - title: Kyoya, My Childhood Friend Rapes Me In My Dream...
     author: danimaru
-    cover: /covers/587827.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/587827.jpg
     rating: 4.6
     date: '2026-04-27'
     code: 587827
@@ -28,21 +28,21 @@ works:
   - title: Mujikaku na Osananajimi to Kyoumi Honi de Yatte Mitara | What Happens When
       You Sleep With Your Oblivious Childhood Friend Just Out of Curiosity Part 1
     author: gen
-    cover: /covers/646385.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/646385.jpg
     rating: 4.9
     date: '2026-04-27'
     code: 646385
     url: /works/646385/
   - title: Boku no kanojo | My Girlfriend
     author: fuguta-ke
-    cover: /covers/651346.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651346.jpg
     rating: 4.3
     date: '2026-05-20'
     code: 651346
     url: /works/651346/
   - title: Kimi ga Haramu made Genkai Toppa Sex | Limit Breaking Sex until you're Pregnant
     author: yoshio-ereki-toneridan
-    cover: /covers/651499.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651499.jpg
     rating: 5.0
     date: '2026-05-21'
     code: 651499
@@ -50,7 +50,7 @@ works:
   - title: Kyonyuu no Tomodachi to Tsukiau made no Hanashi | Maybe We'll Start Dating
       Someday
     author: fuguta-ke
-    cover: /covers/652244.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/652244.jpg
     rating: 5.0
     date: '2026-05-26'
     code: 652244
@@ -58,7 +58,7 @@ works:
   - title: Onna Tomodachi to Omotteitara Mesu Deshita | I Thought She Was Just a Friend,
       Turned Out She Was a Woman
     author: ippan-seijin
-    cover: /covers/660869.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/660869.jpg
     rating: 4.4
     date: '2026-07-05'
     code: 660869

@@ -12,7 +12,7 @@ works:
     url: /works/531966/
   - title: Natchan wa ne -My Girl is M!
     author: mojarin
-    cover: /covers/576910.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/576910.jpg
     rating: 4.3
     date: '2026-04-27'
     code: 576910
@@ -33,7 +33,7 @@ works:
     url: /works/643375/
   - title: Oji Saimin Soushuuhen | Hypnotized Uncle Compilation Edition
     author: tokomaya-keita
-    cover: /covers/645612.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/645612.jpg
     rating: 5.0
     date: '2026-04-24'
     code: 645612
@@ -41,7 +41,7 @@ works:
   - title: Otaku ni Yasashii Gal wa Aitsu no Kanojo | A Gal Who's Kind to Otaku Is That
       Guy's Girlfriend
     author: yamamoto
-    cover: /covers/647809.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/647809.jpg
     rating: 4.9
     date: '2026-05-04'
     code: 647809
@@ -49,7 +49,7 @@ works:
   - title: Imouto Haramasenai to Derarenai Shima 2 | You Must Breed Your Sister to Leave
       This Island 2!
     author: airandou
-    cover: /covers/648414.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/648414.jpg
     rating: 4.2
     date: '2026-05-07'
     code: 648414
@@ -57,7 +57,7 @@ works:
   - title: 'Jirai Inu-kei Kanojo #Kimi to Tsunagaritai Jirai de Inukei de Juujun na
       Kimi dake no Pet | Jirai-kei Puppy Girlfriend'
     author: shimofuji-jun
-    cover: /covers/661367.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/661367.jpg
     rating: 4.8
     date: '2026-07-05'
     code: 661367

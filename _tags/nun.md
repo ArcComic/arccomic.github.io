@@ -13,14 +13,14 @@ works:
     url: /works/566835/
   - title: Anal Toilet Training
     author: goma-gorilla
-    cover: /covers/647315.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/647315.jpg
     rating: 4.1
     date: '2026-05-01'
     code: 647315
     url: /works/647315/
   - title: Kisei Goblin | Parasitic Goblin
     author: poriuretan
-    cover: /covers/652632.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/652632.jpg
     rating: 4.5
     date: '2026-05-26'
     code: 652632
@@ -34,7 +34,7 @@ works:
     url: /works/662208/
   - title: Sensei Senyou Himitsu no Kokkai
     author: hetaren
-    cover: /covers/677234.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/677234.jpg
     rating: 4.2
     date: '2026-08-31'
     code: 677234

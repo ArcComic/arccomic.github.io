@@ -35,14 +35,14 @@ works:
   - title: Onee-chan ga Ecchi na Koto bakka Suru kara... | My older sister only does
       obscene things...
     author: danimaru
-    cover: /covers/337171.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/337171.jpg
     rating: 4.5
     date: '2026-04-27'
     code: 337171
     url: /works/337171/
   - title: Saikin, Musuko no Yousu ga Hen nan desu | Lately my son has been acting Strangly
     author: matsumoto-jikyuuryoku
-    cover: /covers/342639.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/342639.jpg
     rating: 4.9
     date: '2026-08-24'
     code: 342639
@@ -71,7 +71,7 @@ works:
     url: /works/361032/
   - title: LOOK LIKE
     author: terasu-mc
-    cover: /covers/388099.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/388099.jpg
     rating: 4.5
     date: '2026-04-25'
     code: 388099
@@ -101,7 +101,7 @@ works:
     url: /works/443909/
   - title: Kaa-san ni wa Ore no Ko o Unde Morau | My mother is going to have my baby
     author: matsumoto-jikyuuryoku
-    cover: /covers/444152.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/444152.jpg
     rating: 4.4
     date: '2026-08-24'
     code: 444152
@@ -166,7 +166,7 @@ works:
   - title: Kaa-san ni Kokuhaku Shitara xxxx Made Sasete Kureta | When I Confessed to
       My Mother, She Let Me Do XXXX
     author: carburetor
-    cover: /covers/508845.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/508845.jpg
     rating: 4.1
     date: '2026-08-24'
     code: 508845
@@ -175,21 +175,21 @@ works:
       ni, Tamarazu Sounyuu 1 I Can’t Stop Myself From Penetrating My Big Boobed Older
       Female Cousin 1
     author: takayamanon
-    cover: /covers/510022.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/510022.jpg
     rating: 4.7
     date: '2026-08-20'
     code: 510022
     url: /works/510022/
   - title: Gibo-san wa Boku no Mono 7
     author: c-kyuu
-    cover: /covers/511503.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/511503.jpg
     rating: 4.4
     date: '2026-08-19'
     code: 511503
     url: /works/511503/
   - title: Bitch Mama no Kekkon Riyuu
     author: aoyama-akira
-    cover: /covers/512473.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/512473.jpg
     rating: 4.6
     date: '2026-08-25'
     code: 512473
@@ -198,7 +198,7 @@ works:
       Sister Cos de Keiren Soku Iki Nakadashi Netori~ | My Teacher Aunt Is Secretly
       A Buxom Erotic Cosplayer
     author: ginen
-    cover: /covers/518387.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/518387.jpg
     rating: 4.7
     date: '2026-08-25'
     code: 518387
@@ -221,14 +221,14 @@ works:
       Zecchou Shidou 1-5 | Let''s Learn About Sex: Your Cousin Will Take Your Virginity
       and Teach You How to Come 1-5'
     author: gento
-    cover: /covers/534388.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/534388.jpg
     rating: 4.1
     date: '2026-08-29'
     code: 534388
     url: /works/534388/
   - title: Youka-go Tsuma no Haha o Daku | Eight Days With My Wife's Mother
     author: jagaimo
-    cover: /covers/534808.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/534808.jpg
     rating: 4.3
     date: '2026-08-19'
     code: 534808
@@ -244,7 +244,7 @@ works:
       de Iyasareru~ | Reverting to the Womb: As a NEET, I''m Healed by Making Sweet,
       Creamy Love with My Busty Mother'
     author: ginen
-    cover: /covers/537490.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/537490.jpg
     rating: 4.1
     date: '2026-08-25'
     code: 537490
@@ -252,7 +252,7 @@ works:
   - title: Kaa-san to Shitai Koto ~ Zetsurin Musuko to no Seikatsu Kaisou Hen | What
       I want to do with My Mother ~ Sex Life with My Son Who Has...
     author: saimon-k
-    cover: /covers/543358.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/543358.jpg
     rating: 4.6
     date: '2026-05-05'
     code: 543358
@@ -267,14 +267,14 @@ works:
   - title: Jinsei Hametsu JC ~Watashi no Jinsei, Doushite Kounacchattan daro?~ | Middle
       Schooler's Life Ruined - How Did My Life Turn Out Like This [English] =TB=
     author: circle-hitori
-    cover: /covers/545823.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/545823.jpg
     rating: 4.5
     date: '2026-07-17'
     code: 545823
     url: /works/545823/
   - title: Atashi ga Nuite Ageyo kka?
     author: malcorond
-    cover: /covers/547250.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/547250.jpg
     rating: 4.1
     date: '2026-07-07'
     code: 547250
@@ -282,7 +282,7 @@ works:
   - title: DeliHeal Kaa-chan 3 ~Having Sex with My Favorite Kaa-chan and Having a Half-Cohabitation
       Life~
     author: tarobaumu
-    cover: /covers/550823.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/550823.jpg
     rating: 4.3
     date: '2026-05-05'
     code: 550823
@@ -296,7 +296,7 @@ works:
     url: /works/551186/
   - title: Watashi sae Gaman Sureba...
     author: hatakeyama-tohya
-    cover: /covers/553061.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/553061.jpg
     rating: 4.6
     date: '2026-08-24'
     code: 553061
@@ -310,7 +310,7 @@ works:
     url: /works/555216/
   - title: Boku no Kaa-chan | My Mom
     author: cammy
-    cover: /covers/555792.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/555792.jpg
     rating: 4.1
     date: '2026-04-25'
     code: 555792
@@ -324,14 +324,14 @@ works:
     url: /works/556895/
   - title: Boshi Soukan Senmon-shi "Suteki na Okaa-san" Vol. 3
     author: kaiko
-    cover: /covers/558039.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/558039.jpg
     rating: 4.1
     date: '2026-05-05'
     code: 558039
     url: /works/558039/
   - title: Iiwa Watashi no Karada Suki ni Shite Ch.1-2
     author: shunjou-shuusuke
-    cover: /covers/561787.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/561787.jpg
     rating: 4.5
     date: '2026-07-16'
     code: 561787
@@ -339,7 +339,7 @@ works:
   - title: Tennen Kaa-san ga Ero Kawai Sugiru node, Saimin Onaho Sex Shitatta! | My
       Airheaded Mom Was Too Adorably Sexy, So I Had Hypnotized Onahole Sex with Her!
     author: ginen
-    cover: /covers/563890.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/563890.jpg
     rating: 4.6
     date: '2026-08-25'
     code: 563890
@@ -347,14 +347,14 @@ works:
   - title: Boku no Kaa-chan ga Hikikomori Neet Debu Aniki no Seishori Onaho ni Natteita
       Hanashi | My Mother is My Fat Shut-in Older NEET Brother's Sex Relief Onahole
     author: tarobaumu
-    cover: /covers/578147.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/578147.jpg
     rating: 4.3
     date: '2026-05-05'
     code: 578147
     url: /works/578147/
   - title: Boku no Kaa-chan 2 | My Mom 2
     author: cammy
-    cover: /covers/579339.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/579339.jpg
     rating: 4.9
     date: '2026-04-25'
     code: 579339
@@ -368,21 +368,21 @@ works:
     url: /works/589010/
   - title: Mesu no Ie II ~Tsuma wa Midare Ubareru~
     author: ame-arare
-    cover: /covers/591112.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/591112.jpg
     rating: 4.3
     date: '2026-05-01'
     code: 591112
     url: /works/591112/
   - title: Kyoushi to Mama to Koibito no Kao
     author: mifune-seijirou
-    cover: /covers/592307.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/592307.jpg
     rating: 4.5
     date: '2026-08-25'
     code: 592307
     url: /works/592307/
   - title: Sinful Lust 4
     author: zetto
-    cover: /covers/593064.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/593064.jpg
     rating: 4.5
     date: '2026-04-23'
     code: 593064
@@ -397,14 +397,14 @@ works:
     url: /works/593456/
   - title: Zutto Akogare datta Dokyuusei no Mama to Yareta Hanashi Kuronuri ver
     author: chinpan
-    cover: /covers/593677.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/593677.jpg
     rating: 4.3
     date: '2026-04-25'
     code: 593677
     url: /works/593677/
   - title: Nagachichi Haha no Naedoko
     author: ginen
-    cover: /covers/595108.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/595108.jpg
     rating: 4.3
     date: '2026-08-25'
     code: 595108
@@ -425,7 +425,7 @@ works:
     url: /works/599514/
   - title: Sono Gal Mama wa Koubi Suru | This Gyaru Mom is Having Sex.
     author: ameto-yuki
-    cover: /covers/608648.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/608648.jpg
     rating: 4.3
     date: '2026-08-25'
     code: 608648
@@ -440,7 +440,7 @@ works:
   - title: Ottori Itome no Oba o Odoshite Hamete Iinari Onaho-ka Keikaku | Gentle Slit-Eyed
       Aunty Blackmail & Obedient Fuckhole Training Project
     author: ginen
-    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/611978.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/611978.jpg
     rating: 4.0
     date: '2026-08-25'
     code: 611978
@@ -475,7 +475,7 @@ works:
     url: /works/616358/
   - title: Tsuma ni Ani to Kozukuri Shite Moraimashita
     author: furaimai
-    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/616367.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/616367.jpg
     rating: 4.2
     date: '2026-08-25'
     code: 616367
@@ -483,7 +483,7 @@ works:
   - title: Futari de Watashi o Ikasenaide...! ~Kurayami, Majiwaru Kyoudai Futon~  |
       My 2 Step-Brothers are Ganging Up on Me!  Vol.1
     author: ma-yu
-    cover: /covers/618087.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/618087.jpg
     rating: 4.3
     date: '2026-08-29'
     code: 618087
@@ -574,7 +574,7 @@ works:
       Mama ni Dekiai sareru~ | Mother, the Monster ~I was raised as a masochistic baby
       and am doted on by my kind mother~
     author: ginen
-    cover: /covers/637131.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/637131.jpg
     rating: 4.4
     date: '2026-08-25'
     code: 637131
@@ -589,14 +589,14 @@ works:
   - title: Boku ga Shiranakatta Mama to Jii-chan no Koto | Things I didn't Know Between
       Mom And Grandpa
     author: urakan
-    cover: /covers/640543.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/640543.jpg
     rating: 4.0
     date: '2026-04-23'
     code: 640543
     url: /works/640543/
   - title: Anta, Nandetatten no?
     author: daidai-shikibu
-    cover: /covers/642770.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642770.jpg
     rating: 4.3
     date: '2026-08-25'
     code: 642770
@@ -617,14 +617,14 @@ works:
     url: /works/643931/
   - title: Oyagakari no Haha
     author: daidai-shikibu
-    cover: /covers/643932.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/643932.jpg
     rating: 4.2
     date: '2026-08-25'
     code: 643932
     url: /works/643932/
   - title: Oyasumi Kaa-san
     author: daidai-shikibu
-    cover: /covers/643933.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/643933.jpg
     rating: 4.5
     date: '2026-08-25'
     code: 643933
@@ -661,7 +661,7 @@ works:
     url: /works/645383/
   - title: Oji Saimin Soushuuhen | Hypnotized Uncle Compilation Edition
     author: tokomaya-keita
-    cover: /covers/645612.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/645612.jpg
     rating: 5.0
     date: '2026-04-24'
     code: 645612
@@ -669,7 +669,7 @@ works:
   - title: 'Moto Mahou Shoujo no Kazoku Banashi Tsuki 2 | Former Magical Girl''s Family
       Story: Tsuki 2'
     author: zhen-lu
-    cover: /covers/645646.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/645646.jpg
     rating: 4.1
     date: '2026-04-23'
     code: 645646
@@ -677,7 +677,7 @@ works:
   - title: Tsuma no Tame ni Tameta Kozukuri Seishi o Gimai no JK Manko ni Nagashikondeshimatta
       Boku.
     author: junsei-chuurenpoutou
-    cover: /covers/645908.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/645908.jpg
     rating: 4.2
     date: '2026-04-25'
     code: 645908
@@ -685,35 +685,35 @@ works:
   - title: Okaa-san ni wa Kore Gurai shika Dekinai kara... 2 | For Mom the Only Option
       Left is... 2
     author: muchipan
-    cover: /covers/646904.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/646904.jpg
     rating: 4.2
     date: '2026-04-30'
     code: 646904
     url: /works/646904/
   - title: Kimagure Onee-chan 2 | Whimsical Onee-chan 2
     author: toushiki-yubune
-    cover: /covers/647341.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/647341.jpg
     rating: 4.1
     date: '2026-05-01'
     code: 647341
     url: /works/647341/
   - title: Saya-nee-chan ga Yondemasu | Saya-nee is Calling Me
     author: tokiwa-midori
-    cover: /covers/647382.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/647382.jpg
     rating: 4.7
     date: '2026-05-03'
     code: 647382
     url: /works/647382/
   - title: My Annoying Little Cousin Stole My First Time
     author: karube-guri
-    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/647853.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/647853.jpg
     rating: 4.7
     date: '2026-05-07'
     code: 647853
     url: /works/647853/
   - title: My Brother Stole My Mother
     author: momoziri-hustle-dou
-    cover: /covers/648073.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/648073.jpg
     rating: 4.4
     date: '2026-07-17'
     code: 648073
@@ -721,7 +721,7 @@ works:
   - title: Inaka ni Sumu Dosukebe Gifu to Kosodate Yome | A Perverted Father-in-Law
       Living in the Countryside and His Daughter-in-Law Raising Children
     author: onodera
-    cover: /covers/648110.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/648110.jpg
     rating: 4.2
     date: '2026-05-05'
     code: 648110
@@ -729,7 +729,7 @@ works:
   - title: Mama no Saikon Aite wa Papakatsu no Papa | Mom's new husband is my sugar
       daddy
     author: shiro-marimo
-    cover: /covers/648384.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/648384.jpg
     rating: 4.5
     date: '2026-05-07'
     code: 648384
@@ -737,14 +737,14 @@ works:
   - title: Imouto Haramasenai to Derarenai Shima 2 | You Must Breed Your Sister to Leave
       This Island 2!
     author: airandou
-    cover: /covers/648414.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/648414.jpg
     rating: 4.2
     date: '2026-05-07'
     code: 648414
     url: /works/648414/
   - title: Half Gimai to no Amai Nichijou to Noumitsu Sex 3
     author: sanbalkin
-    cover: /covers/648460.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/648460.jpg
     rating: 4.9
     date: '2026-05-07'
     code: 648460
@@ -752,7 +752,7 @@ works:
   - title: The Story Of Being Used For Sexual Release By My Annoying Childhood Friend
       And Cousin's Pussy
     author: karube-guri
-    cover: /covers/648522.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/648522.jpg
     rating: 4.2
     date: '2026-05-07'
     code: 648522
@@ -761,140 +761,140 @@ works:
       Shimai, Soshite...... | I was acting as a nude model for my mom, but then... I
       caught a glimpse of her panties, got a boner, and well...
     author: polbockle
-    cover: /covers/652625.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/652625.jpg
     rating: 4.9
     date: '2026-05-26'
     code: 652625
     url: /works/652625/
   - title: Gibo o , Densha de ... | My Stepmother on The Train...
     author: gonza
-    cover: /covers/652801.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/652801.jpg
     rating: 4.4
     date: '2026-05-27'
     code: 652801
     url: /works/652801/
   - title: Haha no Himitsu o Shitte
     author: unknown
-    cover: /covers/654114.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654114.jpg
     rating: 4.4
     date: '2026-08-21'
     code: 654114
     url: /works/654114/
   - title: Okaa-san ni Chuu Shinasai
     author: kuruto
-    cover: /covers/654253.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654253.jpg
     rating: 4.1
     date: '2026-07-07'
     code: 654253
     url: /works/654253/
   - title: Provoking Men Part 1
     author: pororivista
-    cover: /covers/654373.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654373.jpg
     rating: 4.8
     date: '2026-08-25'
     code: 654373
     url: /works/654373/
   - title: Mama ga Bakunyuu de Yokatta
     author: ameto-yuki
-    cover: /covers/654689.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654689.jpg
     rating: 4.1
     date: '2026-08-24'
     code: 654689
     url: /works/654689/
   - title: Boshi Soukan no Hajimari
     author: kuruto
-    cover: /covers/655202.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/655202.jpg
     rating: 4.6
     date: '2026-07-07'
     code: 655202
     url: /works/655202/
   - title: boku no haha ga saikon si nai riyuu（ wake）
     author: daidai-shikibu
-    cover: /covers/655205.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/655205.jpg
     rating: 4.9
     date: '2026-08-25'
     code: 655205
     url: /works/655205/
   - title: Haha to Osake Nondara erai Kotoninarimashita
     author: matsumoto-jikyuuryoku
-    cover: /covers/655291.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/655291.jpg
     rating: 4.9
     date: '2026-08-24'
     code: 655291
     url: /works/655291/
   - title: Karada ga Binkan Sugiru Watashi wa Itoko ni Itazura sarete mo Teikoudekinai!
     author: romomata
-    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/655421.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/655421.jpg
     rating: 5.0
     date: '2026-08-21'
     code: 655421
     url: /works/655421/
   - title: Kinshin Choukyou Ane Dorei
     author: yamamoto-yoshifumi
-    cover: /covers/655423.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/655423.jpg
     rating: 4.8
     date: '2026-07-07'
     code: 655423
     url: /works/655423/
   - title: Kyoudai Yuugi | Sibling Game
     author: takei-masaki
-    cover: /covers/655441.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/655441.jpg
     rating: 4.3
     date: '2026-07-07'
     code: 655441
     url: /works/655441/
   - title: Jitsubo Kan ~Gifu no Inai Suki ni Jitsu no Haha o Muriyari Okashite Haramaeta
     author: louis-and-visee
-    cover: /covers/656034.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/656034.jpg
     rating: 4.6
     date: '2026-08-21'
     code: 656034
     url: /works/656034/
   - title: Zessan Haishinchuu Gibo Nikubenki Keikaku! Ch.1-5
     author: maki-daikichi
-    cover: /covers/656140.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/656140.jpg
     rating: 4.2
     date: '2026-08-22'
     code: 656140
     url: /works/656140/
   - title: Gomen, Kaa-san Otonashiiku Shite
     author: daidai-shikibu
-    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/656143.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/656143.jpg
     rating: 4.9
     date: '2026-08-25'
     code: 656143
     url: /works/656143/
   - title: Haha Ochi Nikki ~Ureta Jitsubo no Nama Manko o Seishori Benjo ni Otosu made
     author: unknown
-    cover: /covers/656146.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/656146.jpg
     rating: 4.6
     date: '2026-08-25'
     code: 656146
     url: /works/656146/
   - title: Haha to Sake to Musuko 1-2 | MOTHER, ALCOHOL, AND SON 1-2
     author: mankai-beesuke
-    cover: /covers/656206.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/656206.jpg
     rating: 4.5
     date: '2026-07-07'
     code: 656206
     url: /works/656206/
   - title: Kaa-san o Oshitaoshita Hi
     author: daidai-shikibu
-    cover: /covers/656615.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/656615.jpg
     rating: 4.2
     date: '2026-08-21'
     code: 656615
     url: /works/656615/
   - title: Hirusagari no Otetsudai
     author: mogiki-hayami
-    cover: /covers/656686.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/656686.jpg
     rating: 4.4
     date: '2026-08-21'
     code: 656686
     url: /works/656686/
   - title: Ero Sugiru Imouto to Fukinshin na Ore
     author: hazuki-kaoru
-    cover: /covers/657207.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/657207.jpg
     rating: 4.5
     date: '2026-07-07'
     code: 657207
@@ -908,21 +908,21 @@ works:
     url: /works/657256/
   - title: Haha Ana ni Irazumba
     author: unknown
-    cover: /covers/657981.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/657981.jpg
     rating: 4.5
     date: '2026-08-24'
     code: 657981
     url: /works/657981/
   - title: Okaasan nara Daijyoubu Da Kara
     author: daidai-shikibu
-    cover: /covers/658826.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/658826.jpg
     rating: 5.0
     date: '2026-08-24'
     code: 658826
     url: /works/658826/
   - title: Mama ga Inemuri shi tetanode
     author: unknown
-    cover: /covers/659164.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/659164.jpg
     rating: 4.0
     date: '2026-08-24'
     code: 659164
@@ -930,7 +930,7 @@ works:
   - title: Imouto ga Ore no Kanojo!? 2-haku 3-ka no Ecchi na Kankei | My Sister is My
       Girlfriend!? Sexual Relationship for Two Nights and Three Days
     author: katagiri-kaneharu
-    cover: /covers/660399.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/660399.jpg
     rating: 4.2
     date: '2026-08-29'
     code: 660399
@@ -938,7 +938,7 @@ works:
   - title: Ane to Otouto wa 30-Nichi go ni Sex Suru. | The Big Sister and Her Little
       Brother Will Have Sex in 30 Days
     author: shamidou-maichimonji
-    cover: /covers/661139.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/661139.jpg
     rating: 4.3
     date: '2026-07-05'
     code: 661139
@@ -946,14 +946,14 @@ works:
   - title: Love wa Gal kara Hajimaru Unmei | Love is a Destiny That Begins with a Gal
       ch.1-5
     author: nusmusbim
-    cover: /covers/661909.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/661909.jpg
     rating: 4.1
     date: '2026-07-07'
     code: 661909
     url: /works/661909/
   - title: Tsuntsun
     author: onizuka-naoshi
-    cover: /covers/661935.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/661935.jpg
     rating: 4.4
     date: '2026-07-07'
     code: 661935
@@ -1055,7 +1055,7 @@ works:
     url: /works/664284/
   - title: Mukatsuku Juumai no Kuchimanko ni Kounai Shasei suru Hanashi.
     author: karube-guri
-    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/664820.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/664820.jpg
     rating: 5.0
     date: '2026-07-16'
     code: 664820
@@ -1063,14 +1063,14 @@ works:
   - title: Giri no Oyako ga Doukyou Shitereba Kitto kou | If a stepmother and her stepson
       lived together, it would be something like this.
     author: shimipan
-    cover: /covers/664831.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/664831.jpg
     rating: 4.9
     date: '2026-07-16'
     code: 664831
     url: /works/664831/
   - title: My Big brother
     author: momoyama-hato
-    cover: /covers/664926.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/664926.jpg
     rating: 4.8
     date: '2026-07-17'
     code: 664926
@@ -1078,42 +1078,42 @@ works:
   - title: Super de Genki ni Hataraku Hahaoya ga Hikikomori Musuko ni Tanetsuke Saremakutteita
       Hanashi
     author: daidai-shikibu
-    cover: /covers/666532.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/666532.jpg
     rating: 4.0
     date: '2026-08-24'
     code: 666532
     url: /works/666532/
   - title: Boku-tachi Mama to Yattemasu
     author: ameto-yuki
-    cover: /covers/672450.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/672450.jpg
     rating: 4.5
     date: '2026-08-25'
     code: 672450
     url: /works/672450/
   - title: Summer, The Countryside, Tatami and Futon, Mother
     author: takatsu-takatsu-keita
-    cover: /covers/673862.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673862.jpg
     rating: 4.5
     date: '2026-08-19'
     code: 673862
     url: /works/673862/
   - title: Nayotake Kaguya no Himegoto
     author: yukino-minato
-    cover: /covers/673992.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673992.jpg
     rating: 4.4
     date: '2026-08-19'
     code: 673992
     url: /works/673992/
   - title: Onii-san Zako sugite Ukeru~ | Big Brother, you're so pathetic, it's hilarious~
     author: puritei
-    cover: /covers/674568.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/674568.jpg
     rating: 4.9
     date: '2026-08-21'
     code: 674568
     url: /works/674568/
   - title: WSS ~Watashi ga Sakini Sukidatta no ni~ - Even Though I Loved Him First
     author: asanagi
-    cover: /covers/674639.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/674639.jpg
     rating: 4.6
     date: '2026-08-21'
     code: 674639
@@ -1122,49 +1122,49 @@ works:
       | A story about how, despite being all lovey-dovey with my mom, she's having wild
       sex with my teacher.
     author: smells-like
-    cover: /covers/674663.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/674663.jpg
     rating: 4.7
     date: '2026-08-21'
     code: 674663
     url: /works/674663/
   - title: Boku no Katei wa Kuruimashita | My family has gone crazy
     author: torimomo
-    cover: /covers/674719.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/674719.jpg
     rating: 4.8
     date: '2026-08-21'
     code: 674719
     url: /works/674719/
   - title: Akan de! Nishi Kyoudai
     author: hamachi
-    cover: /covers/674950.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/674950.jpg
     rating: 4.4
     date: '2026-08-22'
     code: 674950
     url: /works/674950/
   - title: Chibikko Nurunuru Harem Seikatsu
     author: ippon-lolicon-trap
-    cover: /covers/674984.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/674984.jpg
     rating: 4.2
     date: '2026-08-23'
     code: 674984
     url: /works/674984/
   - title: Mesu no Ie III ~Oyako wa Midare Aisareru~
     author: ame-arare
-    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/675981.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/675981.jpg
     rating: 4.4
     date: '2026-08-28'
     code: 675981
     url: /works/675981/
   - title: Meikko na Syoujo no Ehon 3
     author: malcorond
-    cover: /covers/676181.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/676181.jpg
     rating: 4.5
     date: '2026-08-28'
     code: 676181
     url: /works/676181/
   - title: Otona no Asobi wo Manabitai | I Wanna Learn How Adults Have Fun!
     author: jairou-xil
-    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/676325.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/676325.jpg
     rating: 4.5
     date: '2026-08-29'
     code: 676325
@@ -1172,21 +1172,21 @@ works:
   - title: 'Sister Contrast 2: Muttsuri Onee-chan to Henai Koubi | Sister contrast 2:
       My Sultry Sister Want To Be Breeded.'
     author: 92m
-    cover: /covers/676458.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/676458.jpg
     rating: 4.4
     date: '2026-08-29'
     code: 676458
     url: /works/676458/
   - title: Irodori Kazoku
     author: sugi-g
-    cover: /covers/676658.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/676658.jpg
     rating: 4.7
     date: '2026-08-31'
     code: 676658
     url: /works/676658/
   - title: Ani ga Inma ni Natta node
     author: dobato
-    cover: /covers/677079.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/677079.jpg
     rating: 4.5
     date: '2026-08-31'
     code: 677079

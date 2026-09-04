@@ -6,7 +6,7 @@ works:
   - title: Onna Shachou to Koibito ni Naru Houhou | How To Become Lover's With A Female
       CEO
     author: fan
-    cover: /covers/600237.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/600237.jpg
     rating: 4.3
     date: '2026-05-20'
     code: 600237
@@ -20,7 +20,7 @@ works:
     url: /works/634464/
   - title: Igyou Koubi Kairaku Jigoku 1 + 2
     author: allegro
-    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/668880.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/668880.jpg
     rating: 4.9
     date: '2026-08-23'
     code: 668880

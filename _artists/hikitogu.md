@@ -18,7 +18,7 @@ works:
     code: 663171
     url: /works/663171/
   - title: Chijo Tsuma no Tawamure ~Zenpen~ _ My Boss Has a Slutty Wife Part 1
-    cover: /covers/664679.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/664679.jpg
     rating: 4.0
     date: '2026-07-16'
     code: 664679

@@ -36,14 +36,14 @@ works:
     url: /works/443909/
   - title: Gibo-san wa Boku no Mono 7
     author: c-kyuu
-    cover: /covers/511503.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/511503.jpg
     rating: 4.4
     date: '2026-08-19'
     code: 511503
     url: /works/511503/
   - title: Bitch Mama no Kekkon Riyuu
     author: aoyama-akira
-    cover: /covers/512473.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/512473.jpg
     rating: 4.6
     date: '2026-08-25'
     code: 512473
@@ -57,7 +57,7 @@ works:
     url: /works/527171/
   - title: Youka-go Tsuma no Haha o Daku | Eight Days With My Wife's Mother
     author: jagaimo
-    cover: /covers/534808.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/534808.jpg
     rating: 4.3
     date: '2026-08-19'
     code: 534808
@@ -71,7 +71,7 @@ works:
     url: /works/556895/
   - title: Iiwa Watashi no Karada Suki ni Shite Ch.1-2
     author: shunjou-shuusuke
-    cover: /covers/561787.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/561787.jpg
     rating: 4.5
     date: '2026-07-16'
     code: 561787
@@ -85,21 +85,21 @@ works:
     url: /works/589010/
   - title: Mesu no Ie II ~Tsuma wa Midare Ubareru~
     author: ame-arare
-    cover: /covers/591112.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/591112.jpg
     rating: 4.3
     date: '2026-05-01'
     code: 591112
     url: /works/591112/
   - title: Kyoushi to Mama to Koibito no Kao
     author: mifune-seijirou
-    cover: /covers/592307.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/592307.jpg
     rating: 4.5
     date: '2026-08-25'
     code: 592307
     url: /works/592307/
   - title: Sinful Lust 4
     author: zetto
-    cover: /covers/593064.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/593064.jpg
     rating: 4.5
     date: '2026-04-23'
     code: 593064
@@ -121,7 +121,7 @@ works:
     url: /works/598144/
   - title: Sono Gal Mama wa Koubi Suru | This Gyaru Mom is Having Sex.
     author: ameto-yuki
-    cover: /covers/608648.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/608648.jpg
     rating: 4.3
     date: '2026-08-25'
     code: 608648
@@ -142,7 +142,7 @@ works:
     url: /works/612957/
   - title: Tsuma ni Ani to Kozukuri Shite Moraimashita
     author: furaimai
-    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/616367.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/616367.jpg
     rating: 4.2
     date: '2026-08-25'
     code: 616367
@@ -150,7 +150,7 @@ works:
   - title: Futari de Watashi o Ikasenaide...! ~Kurayami, Majiwaru Kyoudai Futon~  |
       My 2 Step-Brothers are Ganging Up on Me!  Vol.1
     author: ma-yu
-    cover: /covers/618087.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/618087.jpg
     rating: 4.3
     date: '2026-08-29'
     code: 618087
@@ -158,7 +158,7 @@ works:
   - title: Boku ga Shiranakatta Mama to Jii-chan no Koto | Things I didn't Know Between
       Mom And Grandpa
     author: urakan
-    cover: /covers/640543.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/640543.jpg
     rating: 4.0
     date: '2026-04-23'
     code: 640543
@@ -189,7 +189,7 @@ works:
   - title: 'Moto Mahou Shoujo no Kazoku Banashi Tsuki 2 | Former Magical Girl''s Family
       Story: Tsuki 2'
     author: zhen-lu
-    cover: /covers/645646.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/645646.jpg
     rating: 4.1
     date: '2026-04-23'
     code: 645646
@@ -197,7 +197,7 @@ works:
   - title: Tsuma no Tame ni Tameta Kozukuri Seishi o Gimai no JK Manko ni Nagashikondeshimatta
       Boku.
     author: junsei-chuurenpoutou
-    cover: /covers/645908.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/645908.jpg
     rating: 4.2
     date: '2026-04-25'
     code: 645908
@@ -205,7 +205,7 @@ works:
   - title: Inaka ni Sumu Dosukebe Gifu to Kosodate Yome | A Perverted Father-in-Law
       Living in the Countryside and His Daughter-in-Law Raising Children
     author: onodera
-    cover: /covers/648110.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/648110.jpg
     rating: 4.2
     date: '2026-05-05'
     code: 648110
@@ -213,28 +213,28 @@ works:
   - title: Mama no Saikon Aite wa Papakatsu no Papa | Mom's new husband is my sugar
       daddy
     author: shiro-marimo
-    cover: /covers/648384.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/648384.jpg
     rating: 4.5
     date: '2026-05-07'
     code: 648384
     url: /works/648384/
   - title: Half Gimai to no Amai Nichijou to Noumitsu Sex 3
     author: sanbalkin
-    cover: /covers/648460.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/648460.jpg
     rating: 4.9
     date: '2026-05-07'
     code: 648460
     url: /works/648460/
   - title: Gibo o , Densha de ... | My Stepmother on The Train...
     author: gonza
-    cover: /covers/652801.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/652801.jpg
     rating: 4.4
     date: '2026-05-27'
     code: 652801
     url: /works/652801/
   - title: Zessan Haishinchuu Gibo Nikubenki Keikaku! Ch.1-5
     author: maki-daikichi
-    cover: /covers/656140.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/656140.jpg
     rating: 4.2
     date: '2026-08-22'
     code: 656140
@@ -249,7 +249,7 @@ works:
   - title: Imouto ga Ore no Kanojo!? 2-haku 3-ka no Ecchi na Kankei | My Sister is My
       Girlfriend!? Sexual Relationship for Two Nights and Three Days
     author: katagiri-kaneharu
-    cover: /covers/660399.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/660399.jpg
     rating: 4.2
     date: '2026-08-29'
     code: 660399
@@ -272,35 +272,35 @@ works:
   - title: Giri no Oyako ga Doukyou Shitereba Kitto kou | If a stepmother and her stepson
       lived together, it would be something like this.
     author: shimipan
-    cover: /covers/664831.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/664831.jpg
     rating: 4.9
     date: '2026-07-16'
     code: 664831
     url: /works/664831/
   - title: Nayotake Kaguya no Himegoto
     author: yukino-minato
-    cover: /covers/673992.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673992.jpg
     rating: 4.4
     date: '2026-08-19'
     code: 673992
     url: /works/673992/
   - title: Boku no Katei wa Kuruimashita | My family has gone crazy
     author: torimomo
-    cover: /covers/674719.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/674719.jpg
     rating: 4.8
     date: '2026-08-21'
     code: 674719
     url: /works/674719/
   - title: Mesu no Ie III ~Oyako wa Midare Aisareru~
     author: ame-arare
-    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/675981.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/675981.jpg
     rating: 4.4
     date: '2026-08-28'
     code: 675981
     url: /works/675981/
   - title: Irodori Kazoku
     author: sugi-g
-    cover: /covers/676658.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/676658.jpg
     rating: 4.7
     date: '2026-08-31'
     code: 676658

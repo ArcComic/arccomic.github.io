@@ -12,28 +12,28 @@ works:
     url: /works/634464/
   - title: Shameimaru Aya no sennyuu! Shokushu esute
     author: unknown
-    cover: /covers/661890.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/661890.jpg
     rating: 4.3
     date: '2026-07-07'
     code: 661890
     url: /works/661890/
   - title: 'Hyakka Yuran - Sakura | Encyclopedia: Yu-Chan''s Cherry Blossoms'
     author: ueto-seri-ueto-ruri
-    cover: /covers/664642.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/664642.jpg
     rating: 4.4
     date: '2026-07-16'
     code: 664642
     url: /works/664642/
   - title: Midnight Lilies Full Release
     author: landacdeus
-    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/674863.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/674863.jpg
     rating: 4.4
     date: '2026-08-22'
     code: 674863
     url: /works/674863/
   - title: Stoic Diary
     author: twilight
-    cover: /covers/676397.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/676397.jpg
     rating: 4.8
     date: '2026-08-29'
     code: 676397

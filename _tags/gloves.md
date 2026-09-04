@@ -6,7 +6,7 @@ works:
   - title: Yuri no o saifu ni shite agemasu ne, Senpai | I'll turn you into Yuri's wallet,
       Senpai
     author: doskoinpo
-    cover: /covers/289523.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/289523.jpg
     rating: 4.6
     date: '2026-07-17'
     code: 289523
@@ -29,7 +29,7 @@ works:
   - title: Moto Mahou Shoujo no Hikikomori Seikatsu | The NEET Life of a Former Magical
       Girl
     author: zhen-lu
-    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/506303.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/506303.jpg
     rating: 4.4
     date: '2026-04-23'
     code: 506303
@@ -43,7 +43,7 @@ works:
     url: /works/531966/
   - title: Kichiku Kyoushi ni Otosareta Boku no Seitokaichou Part.3
     author: norakuro-nero
-    cover: /covers/557452.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/557452.jpg
     rating: 4.0
     date: '2026-08-20'
     code: 557452
@@ -57,7 +57,7 @@ works:
     url: /works/635266/
   - title: Noa-chan to Ichaicha suru Hon
     author: remora
-    cover: /covers/635512.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/635512.jpg
     rating: 4.4
     date: '2026-08-22'
     code: 635512
@@ -79,14 +79,14 @@ works:
   - title: Imouto Haramasenai to Derarenai Shima 2 | You Must Breed Your Sister to Leave
       This Island 2!
     author: airandou
-    cover: /covers/648414.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/648414.jpg
     rating: 4.2
     date: '2026-05-07'
     code: 648414
     url: /works/648414/
   - title: Oshiego no Gal o Kau
     author: mitsudoue
-    cover: /covers/651197.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651197.jpg
     rating: 4.0
     date: '2026-05-20'
     code: 651197
@@ -94,7 +94,7 @@ works:
   - title: Kasshoku Oneesan no Fudeoroshi Ver. 6 | Brown Lady Takes His First Time Ver.
       6
     author: ahugan-sugita
-    cover: /covers/662114.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662114.jpg
     rating: 4.7
     date: '2026-07-07'
     code: 662114
@@ -108,7 +108,7 @@ works:
     url: /works/663142/
   - title: Osananajimi Kanojo, Netorare Choukyou
     author: naporitan
-    cover: /covers/664798.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/664798.jpg
     rating: 4.5
     date: '2026-07-17'
     code: 664798

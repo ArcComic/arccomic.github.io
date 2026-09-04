@@ -5,7 +5,7 @@ work_count: 43
 works:
   - title: Kanojo no Kawaii Mieppari | My Cute Gyaru Girlfriend Is a Total Poser
     author: buta
-    cover: /covers/441114.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/441114.jpg
     rating: 4.2
     date: '2026-08-23'
     code: 441114
@@ -21,21 +21,21 @@ works:
       Sister Cos de Keiren Soku Iki Nakadashi Netori~ | My Teacher Aunt Is Secretly
       A Buxom Erotic Cosplayer
     author: ginen
-    cover: /covers/518387.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/518387.jpg
     rating: 4.7
     date: '2026-08-25'
     code: 518387
     url: /works/518387/
   - title: Rossia kei Hitozuma to Doutei kun no Himitsu no Kankei
     author: kibi-anmitsu
-    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/530293.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/530293.jpg
     rating: 4.7
     date: '2026-05-20'
     code: 530293
     url: /works/530293/
   - title: Gal to no Asobikata | How to Have Fun With Gyarus!
     author: buta
-    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/531967.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/531967.jpg
     rating: 4.4
     date: '2026-08-23'
     code: 531967
@@ -57,7 +57,7 @@ works:
     url: /works/544477/
   - title: Gokinjo Trouble ni wa Gochuui o | Watch Out For Trouble in Your Neighborhood
     author: hotate-chan
-    cover: /covers/553426.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/553426.jpg
     rating: 4.0
     date: '2026-05-05'
     code: 553426
@@ -73,14 +73,14 @@ works:
   - title: 'Moto Mahou Shoujo no Shigoto Hanashi Ao Zenjitsutan | Former Magical Girl
       Blue''s Work: The Prequel'
     author: zhen-lu
-    cover: /covers/584579.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/584579.jpg
     rating: 4.3
     date: '2026-04-23'
     code: 584579
     url: /works/584579/
   - title: Kyoushi to Mama to Koibito no Kao
     author: mifune-seijirou
-    cover: /covers/592307.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/592307.jpg
     rating: 4.5
     date: '2026-08-25'
     code: 592307
@@ -88,7 +88,7 @@ works:
   - title: Onna Shachou to Koibito ni Naru Houhou | How To Become Lover's With A Female
       CEO
     author: fan
-    cover: /covers/600237.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/600237.jpg
     rating: 4.3
     date: '2026-05-20'
     code: 600237
@@ -96,14 +96,14 @@ works:
   - title: 'Taihai Tsuma: Taihaikei Hitotsuma o Yachin Kawari ni Koki Tsukaeru Hanashi
       | Slutty Wife!'
     author: kametaro
-    cover: /covers/629368.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/629368.jpg
     rating: 4.4
     date: '2026-04-30'
     code: 629368
     url: /works/629368/
   - title: Boku no Toshiue no Tomodachi | My Older Friend
     author: buta
-    cover: /covers/631036.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/631036.jpg
     rating: 4.4
     date: '2026-05-26'
     code: 631036
@@ -119,14 +119,14 @@ works:
   - title: Onsen Haitte tara Joseito-tachi ga Osotte Kita | My Students Jumped Me When
       I Got in the Hot Spring
     author: hamo
-    cover: /covers/639463.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/639463.jpg
     rating: 4.7
     date: '2026-08-20'
     code: 639463
     url: /works/639463/
   - title: BUTA - 『You did a great job』
     author: buta
-    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/639772.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/639772.jpg
     rating: 4.1
     date: '2026-08-23'
     code: 639772
@@ -134,7 +134,7 @@ works:
   - title: The story of how a busty, older teacher girlfriend gets seduced and cheated
       on by the principal with a huge penis.
     author: munioni
-    cover: /covers/644296.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/644296.jpg
     rating: 4.4
     date: '2026-07-06'
     code: 644296
@@ -171,7 +171,7 @@ works:
     url: /works/645743/
   - title: Inaka ja Kore ga Joushiki dakara! | This Is Just How Things Are in the Countryside!
     author: chilt
-    cover: /covers/646146.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/646146.jpg
     rating: 4.1
     date: '2026-04-27'
     code: 646146
@@ -179,7 +179,7 @@ works:
   - title: Okaa-san ni wa Kore Gurai shika Dekinai kara... 2 | For Mom the Only Option
       Left is... 2
     author: muchipan
-    cover: /covers/646904.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/646904.jpg
     rating: 4.2
     date: '2026-04-30'
     code: 646904
@@ -187,14 +187,14 @@ works:
   - title: The Story Of Being Used For Sexual Release By My Annoying Childhood Friend
       And Cousin's Pussy
     author: karube-guri
-    cover: /covers/648522.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/648522.jpg
     rating: 4.2
     date: '2026-05-07'
     code: 648522
     url: /works/648522/
   - title: Oshiego no Gal o Kau
     author: mitsudoue
-    cover: /covers/651197.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651197.jpg
     rating: 4.0
     date: '2026-05-20'
     code: 651197
@@ -208,21 +208,21 @@ works:
     url: /works/651309/
   - title: Kyonyiu kanojo ni hitasura shibori toraremakuru hanashi | Squeeze Until Empty
     author: fuguta-ke
-    cover: /covers/651343.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651343.jpg
     rating: 4.3
     date: '2026-05-20'
     code: 651343
     url: /works/651343/
   - title: Boku no kanojo | My Girlfriend
     author: fuguta-ke
-    cover: /covers/651346.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651346.jpg
     rating: 4.3
     date: '2026-05-20'
     code: 651346
     url: /works/651346/
   - title: Kyonyuu Kanojo ni Hitasura Shibori Toraremakuru Hanashi | Squeeze Until Empty
     author: fuguta-ke
-    cover: /covers/652218.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/652218.jpg
     rating: 4.8
     date: '2026-05-26'
     code: 652218
@@ -230,21 +230,21 @@ works:
   - title: Kyonyuu no Tomodachi to Tsukiau made no Hanashi | Maybe We'll Start Dating
       Someday
     author: fuguta-ke
-    cover: /covers/652244.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/652244.jpg
     rating: 5.0
     date: '2026-05-26'
     code: 652244
     url: /works/652244/
   - title: Kisei Goblin | Parasitic Goblin
     author: poriuretan
-    cover: /covers/652632.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/652632.jpg
     rating: 4.5
     date: '2026-05-26'
     code: 652632
     url: /works/652632/
   - title: Tonari no Ayane-san Soushuuhen | My Neighbor Ayane Anthology
     author: herio
-    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/656319.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/656319.jpg
     rating: 4.8
     date: '2026-08-18'
     code: 656319
@@ -252,7 +252,7 @@ works:
   - title: Ane to Otouto wa 30-Nichi go ni Sex Suru. | The Big Sister and Her Little
       Brother Will Have Sex in 30 Days
     author: shamidou-maichimonji
-    cover: /covers/661139.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/661139.jpg
     rating: 4.3
     date: '2026-07-05'
     code: 661139
@@ -260,42 +260,42 @@ works:
   - title: Love wa Gal kara Hajimaru Unmei | Love is a Destiny That Begins with a Gal
       ch.1-5
     author: nusmusbim
-    cover: /covers/661909.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/661909.jpg
     rating: 4.1
     date: '2026-07-07'
     code: 661909
     url: /works/661909/
   - title: Yume no Naka de
     author: taji
-    cover: /covers/664429.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/664429.jpg
     rating: 5.0
     date: '2026-07-16'
     code: 664429
     url: /works/664429/
   - title: Osananajimi Kanojo, Netorare Choukyou
     author: naporitan
-    cover: /covers/664798.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/664798.jpg
     rating: 4.5
     date: '2026-07-17'
     code: 664798
     url: /works/664798/
   - title: Igyou Koubi Kairaku Jigoku 1 + 2
     author: allegro
-    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/668880.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/668880.jpg
     rating: 4.9
     date: '2026-08-23'
     code: 668880
     url: /works/668880/
   - title: nekonimatatabi
     author: yuzuto-sen
-    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/674592.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/674592.jpg
     rating: 4.0
     date: '2026-08-21'
     code: 674592
     url: /works/674592/
   - title: Single Mother Aoki-san no Kakeijutsu｜Single Mother Aoki-san's Budgeting Hacks
     author: fujinoe13b
-    cover: /covers/674927.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/674927.jpg
     rating: 4.6
     date: '2026-08-22'
     code: 674927
@@ -303,7 +303,7 @@ works:
   - title: Osananajimi ga Joukyo-chuu ni Osananajimi no Chichi to Daita | While My Childhood
       Friend Was Away in Tokyo I Slept With His Dad
     author: mokuyama-hito
-    cover: /covers/676013.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/676013.jpg
     rating: 4.8
     date: '2026-08-28'
     code: 676013
@@ -312,7 +312,7 @@ works:
       2 | My Fiancée's Younger Sister is a SSR Influencer with a Terrible Personality
       and is a Hellish Erotic Dancer. 2
     author: indo-curry-in-ka-of-the-dead
-    cover: /covers/676320.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/676320.jpg
     rating: 4.2
     date: '2026-08-29'
     code: 676320
@@ -320,7 +320,7 @@ works:
   - title: Totoki Airi to Hitobanjuu Kozukuri Sex Suru Hon | A Book About Having Baby-Making
       Sex with Totoki Airi All Night Long
     author: mukae
-    cover: /covers/676439.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/676439.jpg
     rating: 4.8
     date: '2026-08-29'
     code: 676439

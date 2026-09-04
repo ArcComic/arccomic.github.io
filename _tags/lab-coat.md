@@ -19,14 +19,14 @@ works:
     url: /works/644707/
   - title: Jill's Rehabilitation
     author: sawao
-    cover: /covers/651296.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651296.jpg
     rating: 4.8
     date: '2026-05-20'
     code: 651296
     url: /works/651296/
   - title: DRUG MONSTER
     author: nagisano-usagi
-    cover: /covers/651298.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651298.jpg
     rating: 4.8
     date: '2026-05-20'
     code: 651298

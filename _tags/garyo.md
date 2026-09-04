@@ -6,7 +6,7 @@ works:
   - title: Ippai Kocho Kocho Shite Ageru kara Oshio Ippai Pyu Pyu Shite! | I'll tickle
       you a lot, so you'll squirt lots of cum!
     author: garyo
-    cover: /covers/632132.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/632132.jpg
     rating: 4.5
     date: '2026-08-20'
     code: 632132

@@ -5,7 +5,7 @@ work_count: 3
 works:
   - title: Sokukan Delivery
     author: ice
-    cover: /covers/332781.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/332781.jpg
     rating: 4.2
     date: '2026-08-20'
     code: 332781
@@ -19,7 +19,7 @@ works:
     url: /works/414892/
   - title: Hitoe-san no warui kuse | Hitoe's Bad Habit
     author: jirou
-    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/674702.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/674702.jpg
     rating: 4.5
     date: '2026-08-21'
     code: 674702

@@ -21,14 +21,14 @@ works:
   - title: Ore wa Yome ni Sakaraenai... Seiheki o Nigirareteiru | I Can't Say No To
       My Wife... She's Got Me By The Balls!
     author: inu
-    cover: /covers/550948.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/550948.jpg
     rating: 4.0
     date: '2026-08-22'
     code: 550948
     url: /works/550948/
   - title: + (SEIKO AYASE VARIOUS) +
     author: st-mya
-    cover: /covers/555816.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/555816.jpg
     rating: 4.7
     date: '2026-07-16'
     code: 555816
@@ -36,7 +36,7 @@ works:
   - title: Boku no Kaa-chan ga Hikikomori Neet Debu Aniki no Seishori Onaho ni Natteita
       Hanashi | My Mother is My Fat Shut-in Older NEET Brother's Sex Relief Onahole
     author: tarobaumu
-    cover: /covers/578147.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/578147.jpg
     rating: 4.3
     date: '2026-05-05'
     code: 578147
@@ -44,7 +44,7 @@ works:
   - title: Otoko no Ko otodokeshimasu! ~Itsumo kuru Haitatsuin-san ga masaka no Otoko
       no Ko dattakedo mayowazu hameta~
     author: mitsujirou
-    cover: /covers/605410.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/605410.jpg
     rating: 4.9
     date: '2026-07-16'
     code: 605410
@@ -52,7 +52,7 @@ works:
   - title: The Story of How My Brain Was Destroyed After Dating Someone Who Would Grant
       Any Request
     author: jakky
-    cover: /covers/627182.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/627182.jpg
     rating: 4.9
     date: '2026-05-26'
     code: 627182
@@ -87,7 +87,7 @@ works:
     url: /works/644924/
   - title: Oji Saimin Soushuuhen | Hypnotized Uncle Compilation Edition
     author: tokomaya-keita
-    cover: /covers/645612.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/645612.jpg
     rating: 5.0
     date: '2026-04-24'
     code: 645612
@@ -96,7 +96,7 @@ works:
       Ichiban Sukebe na Etou-san - Eto-san is the cutest, has the biggest tits, is the
       most masturbatory target, and is the most naughty in the school. | 在校內最可愛、胸部最大、最常被當做性幻想對象、最淫蕩的江藤同學
     author: kuba-yodomu
-    cover: /covers/645649.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/645649.jpg
     rating: 4.1
     date: '2026-04-23'
     code: 645649
@@ -104,7 +104,7 @@ works:
   - title: Momoiro Kikyou Boku no Hajimete wa Toshiue Bakunyuu Soap-jou｜Pink Bellflower∶
       My First Experience with an Older Busty Soapland Lady
     author: enma
-    cover: /covers/646870.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/646870.jpg
     rating: 4.8
     date: '2026-04-30'
     code: 646870
@@ -112,21 +112,21 @@ works:
   - title: If I Have a Chance, I Want to Warp My Boyfriend's Fetishes! ~Lovey-dovey
       Trip to the Hotsprings~
     author: meeko
-    cover: /covers/648042.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/648042.jpg
     rating: 4.5
     date: '2026-05-05'
     code: 648042
     url: /works/648042/
   - title: Boku to Aitsu to Ano Ko to Kanojo. - Me, Him, the Girl and Her
     author: kameyama-cola
-    cover: /covers/648093.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/648093.jpg
     rating: 4.7
     date: '2026-05-05'
     code: 648093
     url: /works/648093/
   - title: Half Gimai to no Amai Nichijou to Noumitsu Sex 3
     author: sanbalkin
-    cover: /covers/648460.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/648460.jpg
     rating: 4.9
     date: '2026-05-07'
     code: 648460
@@ -134,28 +134,28 @@ works:
   - title: Netorase Club 2 Anal Name no Tensai to Fellatio no Tensai | Netorase Club
       2 The Genius of Rimjob and The Genius of Blowjob
     author: oosawara-sadao
-    cover: /covers/649114.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/649114.jpg
     rating: 4.9
     date: '2026-05-10'
     code: 649114
     url: /works/649114/
   - title: Kyonyiu kanojo ni hitasura shibori toraremakuru hanashi | Squeeze Until Empty
     author: fuguta-ke
-    cover: /covers/651343.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651343.jpg
     rating: 4.3
     date: '2026-05-20'
     code: 651343
     url: /works/651343/
   - title: Kyonyuu Kanojo ni Hitasura Shibori Toraremakuru Hanashi | Squeeze Until Empty
     author: fuguta-ke
-    cover: /covers/652218.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/652218.jpg
     rating: 4.8
     date: '2026-05-26'
     code: 652218
     url: /works/652218/
   - title: REMIND ME & Beautiful Days Without You
     author: 3e
-    cover: /covers/652639.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/652639.jpg
     rating: 4.8
     date: '2026-05-26'
     code: 652639
@@ -163,7 +163,7 @@ works:
   - title: Shinyuu Tatakitsubushi Kyousou Shiiku Seikatsu | A Life in Captivity The
       Competition to Break My Best Friend
     author: group
-    cover: /covers/661586.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/661586.jpg
     rating: 4.5
     date: '2026-07-06'
     code: 661586
@@ -202,14 +202,14 @@ works:
   - title: 'Seifukusha ~Yami ni Ochiru Hitozuma-tachi~ | Sexploiter: Housewives Falling
       Into Darkness'
     author: hoshino-ryuichi
-    cover: /covers/664937.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/664937.jpg
     rating: 4.2
     date: '2026-07-17'
     code: 664937
     url: /works/664937/
   - title: Saotsuki Honey to Doukyo Seikatsu Ch. 6
     author: hontoku
-    cover: /covers/674763.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/674763.jpg
     rating: 4.9
     date: '2026-08-22'
     code: 674763

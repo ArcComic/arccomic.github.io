@@ -5,7 +5,7 @@ work_count: 4
 works:
   - title: Tonari no Ayane-san Desaki Battari Hen
     author: herio
-    cover: /covers/432356.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/432356.jpg
     rating: 4.6
     date: '2026-08-18'
     code: 432356
@@ -20,14 +20,14 @@ works:
     url: /works/635984/
   - title: Tonari no Ayane-san Soushuuhen | My Neighbor Ayane Anthology
     author: herio
-    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/656319.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/656319.jpg
     rating: 4.8
     date: '2026-08-18'
     code: 656319
     url: /works/656319/
   - title: Tonari no Ayane-san Ryokan de Shippori Hen
     author: herio
-    cover: /covers/674614.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/674614.jpg
     rating: 4.1
     date: '2026-08-21'
     code: 674614

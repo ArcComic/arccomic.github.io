@@ -28,7 +28,7 @@ works:
   - title: Kaa-san to Shitai Koto ~ Zetsurin Musuko to no Seikatsu Kaisou Hen | What
       I want to do with My Mother ~ Sex Life with My Son Who Has...
     author: saimon-k
-    cover: /covers/543358.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/543358.jpg
     rating: 4.6
     date: '2026-05-05'
     code: 543358
@@ -36,7 +36,7 @@ works:
   - title: Jinsei Hametsu JC ~Watashi no Jinsei, Doushite Kounacchattan daro?~ | Middle
       Schooler's Life Ruined - How Did My Life Turn Out Like This [English] =TB=
     author: circle-hitori
-    cover: /covers/545823.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/545823.jpg
     rating: 4.5
     date: '2026-07-17'
     code: 545823
@@ -44,14 +44,14 @@ works:
   - title: Ojou-sama Sodachi no Namaiki Celeb Zuma o Kitanai Ossan Chinpo de Wakaraseru
       | Cocky Rich Bitch Glam-Wife Gets Taught A Lesson With Dirty Old Man Dick
     author: chinpan
-    cover: /covers/559088.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/559088.jpg
     rating: 4.6
     date: '2026-04-25'
     code: 559088
     url: /works/559088/
   - title: Tawawa de Akarui Yakyuubu Manager ga Inshitsu na Kyoushi no Wana ni... Kanketsuhen
     author: ohkura-kazuya
-    cover: /covers/566052.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/566052.jpg
     rating: 4.7
     date: '2026-04-30'
     code: 566052
@@ -101,7 +101,7 @@ works:
     url: /works/635266/
   - title: Breeding Mother 1-4
     author: saimon-k
-    cover: /covers/638218.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638218.jpg
     rating: 4.4
     date: '2026-05-05'
     code: 638218
@@ -115,14 +115,14 @@ works:
     url: /works/638359/
   - title: Mitsuha ~Netorare~ 10 (Your Name After Story) True Ending
     author: syukurin
-    cover: /covers/643592.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/643592.jpg
     rating: 4.0
     date: '2026-04-27'
     code: 643592
     url: /works/643592/
   - title: Riho NTR ~Ordered By My Husband to Get Fucked By His Colleague~
     author: yamamoto-tomomitsu
-    cover: /covers/647620.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/647620.jpg
     rating: 4.4
     date: '2026-05-03'
     code: 647620
@@ -130,7 +130,7 @@ works:
   - title: Imouto Haramasenai to Derarenai Shima 2 | You Must Breed Your Sister to Leave
       This Island 2!
     author: airandou
-    cover: /covers/648414.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/648414.jpg
     rating: 4.2
     date: '2026-05-07'
     code: 648414
@@ -138,7 +138,7 @@ works:
   - title: Love wa Gal kara Hajimaru Unmei | Love is a Destiny That Begins with a Gal
       ch.1-5
     author: nusmusbim
-    cover: /covers/661909.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/661909.jpg
     rating: 4.1
     date: '2026-07-07'
     code: 661909
@@ -146,35 +146,35 @@ works:
   - title: 'Seifukusha ~Yami ni Ochiru Hitozuma-tachi~ | Sexploiter: Housewives Falling
       Into Darkness'
     author: hoshino-ryuichi
-    cover: /covers/664937.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/664937.jpg
     rating: 4.2
     date: '2026-07-17'
     code: 664937
     url: /works/664937/
   - title: Igyou Koubi Kairaku Jigoku 1 + 2
     author: allegro
-    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/668880.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/668880.jpg
     rating: 4.9
     date: '2026-08-23'
     code: 668880
     url: /works/668880/
   - title: A Mother Who Had Sex With Her Daughter's Boyfriend
     author: cammy
-    cover: /covers/673900.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673900.jpg
     rating: 4.6
     date: '2026-08-19'
     code: 673900
     url: /works/673900/
   - title: Anokotachi no Jijou - 〇〇chanchi no Jijou Soushuuhen
     author: yukino-minato
-    cover: /covers/673985.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673985.jpg
     rating: 4.8
     date: '2026-08-19'
     code: 673985
     url: /works/673985/
   - title: 'Hanshoku Chuudoku Hourou Hen | Breeding Addiction : Wandering Foxian Arc'
     author: sekihaku-keu
-    cover: /covers/674899.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/674899.jpg
     rating: 4.4
     date: '2026-08-22'
     code: 674899

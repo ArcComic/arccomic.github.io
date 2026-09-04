@@ -27,7 +27,7 @@ works:
   - title: Boku no Kaa-chan ga Hikikomori Neet Debu Aniki no Seishori Onaho ni Natteita
       Hanashi | My Mother is My Fat Shut-in Older NEET Brother's Sex Relief Onahole
     author: tarobaumu
-    cover: /covers/578147.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/578147.jpg
     rating: 4.3
     date: '2026-05-05'
     code: 578147
@@ -49,21 +49,21 @@ works:
   - title: Otaku ni Yasashii Gal wa Aitsu no Kanojo | A Gal Who's Kind to Otaku Is That
       Guy's Girlfriend
     author: yamamoto
-    cover: /covers/647809.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/647809.jpg
     rating: 4.9
     date: '2026-05-04'
     code: 647809
     url: /works/647809/
   - title: Oshiego no Gal o Kau
     author: mitsudoue
-    cover: /covers/651197.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651197.jpg
     rating: 4.0
     date: '2026-05-20'
     code: 651197
     url: /works/651197/
   - title: M Ko
     author: takaku-tubby-shirono-mahiro
-    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/651489.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651489.jpg
     rating: 4.4
     date: '2026-05-21'
     code: 651489
@@ -77,7 +77,7 @@ works:
     url: /works/662890/
   - title: WSS ~Watashi ga Sakini Sukidatta no ni~ - Even Though I Loved Him First
     author: asanagi
-    cover: /covers/674639.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/674639.jpg
     rating: 4.6
     date: '2026-08-21'
     code: 674639

@@ -43,7 +43,7 @@ works:
       ni, Tamarazu Sounyuu 1 I Can’t Stop Myself From Penetrating My Big Boobed Older
       Female Cousin 1
     author: takayamanon
-    cover: /covers/510022.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/510022.jpg
     rating: 4.7
     date: '2026-08-20'
     code: 510022
@@ -58,7 +58,7 @@ works:
   - title: Kekkon 3-Nen Me no Tsuma wa, Shain Ryokou Chuu ni Otto no Yoko de Netorareru!
       1 | Netorare With a Busty Wife on a Company Trip 1
     author: aoi-shou
-    cover: /covers/544324.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/544324.jpg
     rating: 4.2
     date: '2026-08-29'
     code: 544324
@@ -66,7 +66,7 @@ works:
   - title: Houkai Kazoku -Hahaoya ga Yakuza to no Sex ni Hamatta Hanashi- | Broken Family
       - A Story About a Mother Who Became Addicted to Sex With a Yakuza
     author: watsondou
-    cover: /covers/557052.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/557052.jpg
     rating: 4.4
     date: '2026-05-07'
     code: 557052
@@ -74,7 +74,7 @@ works:
   - title: Pashiri no Shita Teku, Yabaitte... ~ Ebi Sori Iki Suru Namaiki Gyaru | Bullied
       Boy's Tongue Revenge Vol.1-4
     author: takayamanon
-    cover: /covers/589969.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/589969.jpg
     rating: 4.3
     date: '2026-08-29'
     code: 589969
@@ -82,7 +82,7 @@ works:
   - title: Cool na Niizuma to no Shinkon Seikatsu wa Amari ni mo... Yarashikatta  |
       Our Kinky Newlywed Life Vol. 1-3
     author: nanakusa-amane
-    cover: /covers/603122.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/603122.jpg
     rating: 4.6
     date: '2026-04-23'
     code: 603122
@@ -90,7 +90,7 @@ works:
   - title: Nigate na Aitsu ni Benkyou o Oshieru Koto ni Natte... | I Ended Up Teaching
       That Guy I Hate...
     author: furaimai
-    cover: /covers/616533.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/616533.jpg
     rating: 4.6
     date: '2026-04-27'
     code: 616533
@@ -112,7 +112,7 @@ works:
   - title: If I Have a Chance, I Want to Warp My Boyfriend's Fetishes! ~Lovey-dovey
       Trip to the Hotsprings~
     author: meeko
-    cover: /covers/648042.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/648042.jpg
     rating: 4.5
     date: '2026-05-05'
     code: 648042
@@ -120,14 +120,14 @@ works:
   - title: Noraneko Shoujo to no Kurashikata Ch. 33-49 | How to Live with a Stray Cat
       Girl Ch. 33-49
     author: shiina
-    cover: /covers/648550.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/648550.jpg
     rating: 4.8
     date: '2026-05-07'
     code: 648550
     url: /works/648550/
   - title: Ally-san wa Doko Demo Ikitai!! 3
     author: inukami-inoji
-    cover: /covers/650926.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/650926.jpg
     rating: 4.9
     date: '2026-05-20'
     code: 650926
@@ -135,7 +135,7 @@ works:
   - title: Kyonyuu no Tomodachi to Tsukiau made no Hanashi | Maybe We'll Start Dating
       Someday
     author: fuguta-ke
-    cover: /covers/652244.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/652244.jpg
     rating: 5.0
     date: '2026-05-26'
     code: 652244
@@ -143,7 +143,7 @@ works:
   - title: Imouto ga Ore no Kanojo!? 2-haku 3-ka no Ecchi na Kankei | My Sister is My
       Girlfriend!? Sexual Relationship for Two Nights and Three Days
     author: katagiri-kaneharu
-    cover: /covers/660399.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/660399.jpg
     rating: 4.2
     date: '2026-08-29'
     code: 660399
@@ -157,7 +157,7 @@ works:
     url: /works/661349/
   - title: Cinderella Fit
     author: shirosuzu
-    cover: /covers/661596.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/661596.jpg
     rating: 4.1
     date: '2026-07-06'
     code: 661596
@@ -171,14 +171,14 @@ works:
     url: /works/662647/
   - title: Nayotake Kaguya no Himegoto
     author: yukino-minato
-    cover: /covers/673992.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673992.jpg
     rating: 4.4
     date: '2026-08-19'
     code: 673992
     url: /works/673992/
   - title: Tonari no Ayane-san Ryokan de Shippori Hen
     author: herio
-    cover: /covers/674614.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/674614.jpg
     rating: 4.1
     date: '2026-08-21'
     code: 674614

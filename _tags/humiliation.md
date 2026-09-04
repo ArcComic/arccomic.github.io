@@ -20,21 +20,21 @@ works:
   - title: Ossan Kirai no Hitozuma Kyoushi ga Nikubenki ni Ochiru Hanashi | Story About
       an Old Man Hating Married Teacher Falling Into Being a Meat Toilet
     author: chinpan
-    cover: /covers/562615.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/562615.jpg
     rating: 4.5
     date: '2026-04-25'
     code: 562615
     url: /works/562615/
   - title: I'll cut my hair off
     author: umidori-project
-    cover: /covers/564042.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/564042.jpg
     rating: 5.0
     date: '2026-07-17'
     code: 564042
     url: /works/564042/
   - title: Ikenie no Haha 2
     author: group
-    cover: /covers/645676.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/645676.jpg
     rating: 4.1
     date: '2026-04-23'
     code: 645676
@@ -43,14 +43,14 @@ works:
       ni sarete Zenritsusen o Ijirarete Nandomo Nandomo Mesuikishite Choukyou sareru
       Ohanashi~
     author: sankaku-noel
-    cover: /covers/647608.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/647608.jpg
     rating: 4.6
     date: '2026-05-03'
     code: 647608
     url: /works/647608/
   - title: He's being held by her father
     author: unknown
-    cover: /covers/647938.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/647938.jpg
     rating: 4.3
     date: '2026-05-05'
     code: 647938
@@ -58,7 +58,7 @@ works:
   - title: Shinyuu Tatakitsubushi Kyousou Shiiku Seikatsu | A Life in Captivity The
       Competition to Break My Best Friend
     author: group
-    cover: /covers/661586.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/661586.jpg
     rating: 4.5
     date: '2026-07-06'
     code: 661586
@@ -73,7 +73,7 @@ works:
     url: /works/661954/
   - title: All Night Long
     author: takasugi-kou
-    cover: /covers/662057.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662057.jpg
     rating: 4.7
     date: '2026-07-07'
     code: 662057
@@ -101,21 +101,21 @@ works:
     url: /works/664249/
   - title: Welcome to the Weak Masochist Volleyball Club
     author: hagakure-kurage
-    cover: /covers/664758.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/664758.jpg
     rating: 5.0
     date: '2026-07-17'
     code: 664758
     url: /works/664758/
   - title: My Girlfriend's Older Sister Turned Me Into Her Masochist Foot Pet
     author: yoko-momo
-    cover: /covers/664853.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/664853.jpg
     rating: 4.3
     date: '2026-07-16'
     code: 664853
     url: /works/664853/
   - title: Onii-san Zako sugite Ukeru~ | Big Brother, you're so pathetic, it's hilarious~
     author: puritei
-    cover: /covers/674568.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/674568.jpg
     rating: 4.9
     date: '2026-08-21'
     code: 674568
@@ -123,7 +123,7 @@ works:
   - title: Kawaii kedo Seikaku Warui kara Ijimechao! Nichijyou Bukkowashi Satsueikai
       Hen
     author: dancyo
-    cover: /covers/674973.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/674973.jpg
     rating: 5.0
     date: '2026-08-23'
     code: 674973

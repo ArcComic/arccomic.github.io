@@ -61,14 +61,14 @@ works:
     url: /works/631651/
   - title: A story about a JK popular actress that gets NTR'd by a photographer boss
     author: suji-kaminari
-    cover: /covers/651381.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651381.jpg
     rating: 4.6
     date: '2026-05-20'
     code: 651381
     url: /works/651381/
   - title: Miyoku no Shiro -An Incarnating Ravish- | 魅欲之城
     author: tokupyon
-    cover: /covers/664770.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/664770.jpg
     rating: 4.7
     date: '2026-07-17'
     code: 664770

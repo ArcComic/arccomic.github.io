@@ -12,7 +12,7 @@ works:
     url: /works/579976/
   - title: Eroi Koto Igai de Toki o Tomete wa Dame desu yo 2
     author: ohkura-kazuya
-    cover: /covers/615835.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/615835.jpg
     rating: 4.9
     date: '2026-04-30'
     code: 615835
@@ -20,14 +20,14 @@ works:
   - title: 'Seifukusha ~Yami ni Ochiru Hitozuma-tachi~ | Sexploiter: Housewives Falling
       Into Darkness'
     author: hoshino-ryuichi
-    cover: /covers/664937.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/664937.jpg
     rating: 4.2
     date: '2026-07-17'
     code: 664937
     url: /works/664937/
   - title: Otokonoko Dorei - "OTOKONO-ko" Slave
     author: wakamiya-santa-gekka-saeki
-    cover: /covers/674960.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/674960.jpg
     rating: 4.1
     date: '2026-08-23'
     code: 674960

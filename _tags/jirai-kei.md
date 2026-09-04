@@ -6,7 +6,7 @@ works:
   - title: 'Jirai Inu-kei Kanojo #Kimi to Tsunagaritai Jirai de Inukei de Juujun na
       Kimi dake no Pet | Jirai-kei Puppy Girlfriend'
     author: shimofuji-jun
-    cover: /covers/661367.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/661367.jpg
     rating: 4.8
     date: '2026-07-05'
     code: 661367

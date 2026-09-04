@@ -19,7 +19,7 @@ works:
     url: /works/645525/
   - title: Anal Toilet Training
     author: goma-gorilla
-    cover: /covers/647315.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/647315.jpg
     rating: 4.1
     date: '2026-05-01'
     code: 647315
@@ -27,7 +27,7 @@ works:
   - title: Shinyuu Tatakitsubushi Kyousou Shiiku Seikatsu | A Life in Captivity The
       Competition to Break My Best Friend
     author: group
-    cover: /covers/661586.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/661586.jpg
     rating: 4.5
     date: '2026-07-06'
     code: 661586
@@ -49,28 +49,28 @@ works:
   - title: 'Seifukusha ~Yami ni Ochiru Hitozuma-tachi~ | Sexploiter: Housewives Falling
       Into Darkness'
     author: hoshino-ryuichi
-    cover: /covers/664937.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/664937.jpg
     rating: 4.2
     date: '2026-07-17'
     code: 664937
     url: /works/664937/
   - title: Midnight Lilies Full Release
     author: landacdeus
-    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/674863.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/674863.jpg
     rating: 4.4
     date: '2026-08-22'
     code: 674863
     url: /works/674863/
   - title: Otokonoko Dorei - "OTOKONO-ko" Slave
     author: wakamiya-santa-gekka-saeki
-    cover: /covers/674960.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/674960.jpg
     rating: 4.1
     date: '2026-08-23'
     code: 674960
     url: /works/674960/
   - title: 'Katechou! #1'
     author: shinkaida-tetsuyarou
-    cover: /covers/674974.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/674974.jpg
     rating: 4.0
     date: '2026-08-23'
     code: 674974

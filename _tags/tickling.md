@@ -5,7 +5,7 @@ work_count: 4
 works:
   - title: Tawawa de Akarui Yakyuubu Manager ga Inshitsu na Kyoushi no Wana ni... Kanketsuhen
     author: ohkura-kazuya
-    cover: /covers/566052.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/566052.jpg
     rating: 4.7
     date: '2026-04-30'
     code: 566052
@@ -13,7 +13,7 @@ works:
   - title: Ippai Kocho Kocho Shite Ageru kara Oshio Ippai Pyu Pyu Shite! | I'll tickle
       you a lot, so you'll squirt lots of cum!
     author: garyo
-    cover: /covers/632132.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/632132.jpg
     rating: 4.5
     date: '2026-08-20'
     code: 632132
@@ -28,7 +28,7 @@ works:
   - title: Reibaishi Mikoto 2 Kairaku ni Zanpai su... Hentai Jijii to no Seikou no Gishiki
       de Ikikuruwasareru Shoujo no Karada
     author: sawacream
-    cover: /covers/649125.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/649125.jpg
     rating: 4.6
     date: '2026-05-10'
     code: 649125

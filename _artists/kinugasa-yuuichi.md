@@ -12,7 +12,7 @@ works:
   - title: Minpaku ~Ojou-sama-tachi wa Minpaku Keieisha no Wana ni Ochiru~ | Sleeping
       in the Bed and Breakfast - Young ladies fall into the trap of a private lodging
       manager
-    cover: /covers/543494.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/543494.jpg
     rating: 4.1
     date: '2026-07-06'
     code: 543494

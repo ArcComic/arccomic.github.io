@@ -5,21 +5,21 @@ work_count: 29
 works:
   - title: Koi no Susumekata | How to Advance Your Love
     author: danimaru
-    cover: /covers/425528.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/425528.jpg
     rating: 4.6
     date: '2026-04-27'
     code: 425528
     url: /works/425528/
   - title: Oshioki no Jikan - Punishment time
     author: syoukaki
-    cover: /covers/540125.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/540125.jpg
     rating: 4.1
     date: '2026-05-10'
     code: 540125
     url: /works/540125/
   - title: Girlfriend Revenge
     author: meowwithme
-    cover: /covers/540880.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/540880.jpg
     rating: 4.5
     date: '2026-05-03'
     code: 540880
@@ -41,7 +41,7 @@ works:
     url: /works/592744/
   - title: Astrantia
     author: kyougoku-shin
-    cover: /covers/598156.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/598156.jpg
     rating: 4.3
     date: '2026-05-10'
     code: 598156
@@ -93,7 +93,7 @@ works:
     url: /works/645383/
   - title: Oji Saimin Soushuuhen | Hypnotized Uncle Compilation Edition
     author: tokomaya-keita
-    cover: /covers/645612.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/645612.jpg
     rating: 5.0
     date: '2026-04-24'
     code: 645612
@@ -101,7 +101,7 @@ works:
   - title: Mama no Saikon Aite wa Papakatsu no Papa | Mom's new husband is my sugar
       daddy
     author: shiro-marimo
-    cover: /covers/648384.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/648384.jpg
     rating: 4.5
     date: '2026-05-07'
     code: 648384
@@ -109,14 +109,14 @@ works:
   - title: Reibaishi Mikoto 2 Kairaku ni Zanpai su... Hentai Jijii to no Seikou no Gishiki
       de Ikikuruwasareru Shoujo no Karada
     author: sawacream
-    cover: /covers/649125.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/649125.jpg
     rating: 4.6
     date: '2026-05-10'
     code: 649125
     url: /works/649125/
   - title: Oshiego no Gal o Kau
     author: mitsudoue
-    cover: /covers/651197.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651197.jpg
     rating: 4.0
     date: '2026-05-20'
     code: 651197
@@ -124,7 +124,7 @@ works:
   - title: 'Namaiki Gal o Succubus ni Shite Oshioki Shitatta Ken 4  | Turning a Bratty
       Gal into a Succubus for Punishment #4'
     author: takurowo
-    cover: /covers/651303.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651303.jpg
     rating: 4.5
     date: '2026-05-20'
     code: 651303
@@ -146,14 +146,14 @@ works:
     url: /works/664188/
   - title: Yume no Naka de
     author: taji
-    cover: /covers/664429.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/664429.jpg
     rating: 5.0
     date: '2026-07-16'
     code: 664429
     url: /works/664429/
   - title: Niizuma Nanaka no Roshutsu Office
     author: fukurou-naru-tori
-    cover: /covers/668605.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/668605.jpg
     rating: 4.6
     date: '2026-08-28'
     code: 668605
@@ -162,21 +162,21 @@ works:
       no Kiroku~ | I Met an Angel, and then I Knocked Her Up ~A Record of Becoming Oji-san’s
       Personal Preggo Belly Onahole~
     author: a-shika
-    cover: /covers/674608.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/674608.jpg
     rating: 4.1
     date: '2026-08-21'
     code: 674608
     url: /works/674608/
   - title: WSS ~Watashi ga Sakini Sukidatta no ni~ - Even Though I Loved Him First
     author: asanagi
-    cover: /covers/674639.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/674639.jpg
     rating: 4.6
     date: '2026-08-21'
     code: 674639
     url: /works/674639/
   - title: My Teacher Is So Hot That I Might Repeat Kindergarten !!
     author: tamano-kedama
-    cover: /covers/674709.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/674709.jpg
     rating: 4.4
     date: '2026-08-21'
     code: 674709
@@ -185,21 +185,21 @@ works:
       A gal who doesn't act submissive but is weak for a big cock, and a huge-dicked
       otaku.
     author: ohkami-ryosuke
-    cover: /covers/674728.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/674728.jpg
     rating: 4.6
     date: '2026-08-22'
     code: 674728
     url: /works/674728/
   - title: Saotsuki Honey to Doukyo Seikatsu Ch. 6
     author: hontoku
-    cover: /covers/674763.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/674763.jpg
     rating: 4.9
     date: '2026-08-22'
     code: 674763
     url: /works/674763/
   - title: Midnight Lilies Full Release
     author: landacdeus
-    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/674863.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/674863.jpg
     rating: 4.4
     date: '2026-08-22'
     code: 674863
@@ -209,14 +209,14 @@ works:
       of a chaste, upper-class housewife...She turned out to be a self- destructive,
       slutty bitch
     author: otabe-sakura
-    cover: /covers/674869.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/674869.jpg
     rating: 4.9
     date: '2026-08-22'
     code: 674869
     url: /works/674869/
   - title: Chibikko Nurunuru Harem Seikatsu
     author: ippon-lolicon-trap
-    cover: /covers/674984.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/674984.jpg
     rating: 4.2
     date: '2026-08-23'
     code: 674984

@@ -27,7 +27,7 @@ works:
   - title: Dansei ga Kyokutan ni Sukunai Kono Sekai de wa, Seishi wa Kichou na Shigen
       desu. Sono 2 | In a World Where Men Are Scarce, Sperm Is a Precious Resource 2
     author: group
-    cover: /covers/537794.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/537794.jpg
     rating: 5.0
     date: '2026-08-20'
     code: 537794
@@ -49,7 +49,7 @@ works:
   - title: Onsen Haitte tara Joseito-tachi ga Osotte Kita | My Students Jumped Me When
       I Got in the Hot Spring
     author: hamo
-    cover: /covers/639463.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/639463.jpg
     rating: 4.7
     date: '2026-08-20'
     code: 639463
@@ -57,28 +57,28 @@ works:
   - title: 'YariCir Shingakki ni Boku no Heya wa Minna no Tamariba (Omake Ver.) - Fuck
       Club: New Term! My Room''s A Hangout Spot For Everyone'
     author: purumetal
-    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/645507.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/645507.jpg
     rating: 4.2
     date: '2026-04-23'
     code: 645507
     url: /works/645507/
   - title: M Ko
     author: takaku-tubby-shirono-mahiro
-    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/651489.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651489.jpg
     rating: 4.4
     date: '2026-05-21'
     code: 651489
     url: /works/651489/
   - title: Atashi no Hou ga Tsuyoi Hazudattanoni!
     author: group
-    cover: /covers/652605.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/652605.jpg
     rating: 4.0
     date: '2026-05-26'
     code: 652605
     url: /works/652605/
   - title: Meshibe no Nomikomi yuku Hate ni Meshibe no Sakihokoru Shima de 2
     author: saigado-ishoku-dougen
-    cover: /covers/661590.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/661590.jpg
     rating: 4.3
     date: '2026-07-06'
     code: 661590
@@ -86,14 +86,14 @@ works:
   - title: Meshibe no Sakihokoru Shima de - On the island where pistils are in full
       bloom
     author: saigado-ishoku-dougen
-    cover: /covers/661591.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/661591.jpg
     rating: 4.4
     date: '2026-07-06'
     code: 661591
     url: /works/661591/
   - title: Oretoku Shuugakuryokou ~Otoko wa Jyosou shita Ore dake!! Ch 1-29
     author: okumori-boy
-    cover: /covers/661664.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/661664.jpg
     rating: 4.1
     date: '2026-07-06'
     code: 661664
@@ -115,14 +115,14 @@ works:
     url: /works/664188/
   - title: Chibikko Nurunuru Harem Seikatsu
     author: ippon-lolicon-trap
-    cover: /covers/674984.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/674984.jpg
     rating: 4.2
     date: '2026-08-23'
     code: 674984
     url: /works/674984/
   - title: Karin-chan no Himitsu Kichi Matome
     author: konnyaku
-    cover: /covers/676197.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/676197.jpg
     rating: 4.7
     date: '2026-08-28'
     code: 676197

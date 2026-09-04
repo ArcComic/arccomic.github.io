@@ -8,7 +8,7 @@ works:
       | You Said It'd Just Be Grinding... But You Ended up Slipping It In. Now I'm Just
       the Top Student's Toy 3.
     author: tsukuyomi
-    cover: /covers/642748.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642748.jpg
     rating: 4.4
     date: '2026-07-06'
     code: 642748

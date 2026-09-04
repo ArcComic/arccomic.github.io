@@ -5,14 +5,14 @@ work_count: 7
 works:
   - title: 'Jujutsu Kaisen: Mahito Mayhem'
     author: mayitgu
-    cover: /covers/524761.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/524761.jpg
     rating: 4.1
     date: '2026-05-03'
     code: 524761
     url: /works/524761/
   - title: Beit Saki no Majime na Kouhai ga... | A Serious Part-Time Kouhai
     author: kusayarou
-    cover: /covers/536423.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/536423.jpg
     rating: 4.5
     date: '2026-05-07'
     code: 536423
@@ -26,28 +26,28 @@ works:
     url: /works/616358/
   - title: Inaka ja Kore ga Joushiki dakara! | This Is Just How Things Are in the Countryside!
     author: chilt
-    cover: /covers/646146.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/646146.jpg
     rating: 4.1
     date: '2026-04-27'
     code: 646146
     url: /works/646146/
   - title: Venom Invasion VII 【Part 1】
     author: blackftos
-    cover: /covers/647563.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/647563.jpg
     rating: 4.9
     date: '2026-05-03'
     code: 647563
     url: /works/647563/
   - title: Miyoku no Shiro -An Incarnating Ravish- | 魅欲之城
     author: tokupyon
-    cover: /covers/664770.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/664770.jpg
     rating: 4.7
     date: '2026-07-17'
     code: 664770
     url: /works/664770/
   - title: Igyou Koubi Kairaku Jigoku 1 + 2
     author: allegro
-    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/668880.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/668880.jpg
     rating: 4.9
     date: '2026-08-23'
     code: 668880

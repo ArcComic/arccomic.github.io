@@ -20,7 +20,7 @@ works:
   - title: Nigate na Aitsu ni Benkyou o Oshieru Koto ni Natte... | I Ended Up Teaching
       That Guy I Hate...
     author: furaimai
-    cover: /covers/616533.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/616533.jpg
     rating: 4.6
     date: '2026-04-27'
     code: 616533
@@ -35,21 +35,21 @@ works:
     url: /works/632761/
   - title: Inaka ja Kore ga Joushiki dakara! | This Is Just How Things Are in the Countryside!
     author: chilt
-    cover: /covers/646146.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/646146.jpg
     rating: 4.1
     date: '2026-04-27'
     code: 646146
     url: /works/646146/
   - title: Good Teachers
     author: nodo
-    cover: /covers/648310.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/648310.jpg
     rating: 4.9
     date: '2026-05-07'
     code: 648310
     url: /works/648310/
   - title: Seishidouin no Oshigoto Soushuuhen1 | Sex Instructor Compilation Vol. 1
     author: malcorond
-    cover: /covers/653978.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/653978.jpg
     rating: 4.8
     date: '2026-07-07'
     code: 653978
@@ -57,7 +57,7 @@ works:
   - title: Onna Tomodachi to Omotteitara Mesu Deshita | I Thought She Was Just a Friend,
       Turned Out She Was a Woman
     author: ippan-seijin
-    cover: /covers/660869.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/660869.jpg
     rating: 4.4
     date: '2026-07-05'
     code: 660869
@@ -65,7 +65,7 @@ works:
   - title: Seishidouin no Oshigoto 4 Kohen Rippana Benki ni Sodatta node Daimanzoku
       de Shidou wo Oeta + C101 Omake
     author: malcorond
-    cover: /covers/661951.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/661951.jpg
     rating: 4.5
     date: '2026-07-07'
     code: 661951
@@ -86,28 +86,28 @@ works:
     url: /works/663056/
   - title: Anokotachi no Jijou - 〇〇chanchi no Jijou Soushuuhen
     author: yukino-minato
-    cover: /covers/673985.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673985.jpg
     rating: 4.8
     date: '2026-08-19'
     code: 673985
     url: /works/673985/
   - title: Meikko na Syoujo no Ehon 3
     author: malcorond
-    cover: /covers/676181.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/676181.jpg
     rating: 4.5
     date: '2026-08-28'
     code: 676181
     url: /works/676181/
   - title: Meikko na Syoujo no Ehon 5 -Kouhen-
     author: malcorond
-    cover: /covers/676182.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/676182.jpg
     rating: 4.1
     date: '2026-08-28'
     code: 676182
     url: /works/676182/
   - title: Meikko na Syoujo no Ehon 5 -Zenpen-
     author: malcorond
-    cover: /covers/676183.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/676183.jpg
     rating: 4.0
     date: '2026-08-28'
     code: 676183

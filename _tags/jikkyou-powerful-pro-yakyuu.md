@@ -12,7 +12,7 @@ works:
     url: /works/275108/
   - title: Netorare Ibe Kiba Shizuka | The Netorare of Kiba Shizuka
     author: terasu-mc
-    cover: /covers/288292.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/288292.jpg
     rating: 4.0
     date: '2026-07-16'
     code: 288292

@@ -27,7 +27,7 @@ works:
   - title: Onna Shachou to Koibito ni Naru Houhou | How To Become Lover's With A Female
       CEO
     author: fan
-    cover: /covers/600237.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/600237.jpg
     rating: 4.3
     date: '2026-05-20'
     code: 600237
@@ -42,14 +42,14 @@ works:
     url: /works/633938/
   - title: Makocchi and Riori
     author: yudoufu
-    cover: /covers/664742.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/664742.jpg
     rating: 4.8
     date: '2026-07-17'
     code: 664742
     url: /works/664742/
   - title: Bitch Girls
     author: itou
-    cover: /covers/674701.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/674701.jpg
     rating: 4.9
     date: '2026-08-21'
     code: 674701

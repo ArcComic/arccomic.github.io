@@ -55,7 +55,7 @@ works:
     url: /works/414892/
   - title: Watashi no Karada, Okashi Shimasu. Bunny Girl Edition
     author: nectar
-    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/441339.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/441339.jpg
     rating: 4.5
     date: '2026-05-10'
     code: 441339
@@ -76,7 +76,7 @@ works:
     url: /works/453749/
   - title: Shuuden Deisui Anken
     author: uds
-    cover: /covers/525085.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/525085.jpg
     rating: 4.8
     date: '2026-08-19'
     code: 525085
@@ -97,7 +97,7 @@ works:
     url: /works/533325/
   - title: Oshioki no Jikan - Punishment time
     author: syoukaki
-    cover: /covers/540125.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/540125.jpg
     rating: 4.1
     date: '2026-05-10'
     code: 540125
@@ -140,7 +140,7 @@ works:
     url: /works/593017/
   - title: Astrantia
     author: kyougoku-shin
-    cover: /covers/598156.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/598156.jpg
     rating: 4.3
     date: '2026-05-10'
     code: 598156
@@ -176,14 +176,14 @@ works:
     url: /works/635174/
   - title: Venom Invasion VII 【Part 1】
     author: blackftos
-    cover: /covers/647563.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/647563.jpg
     rating: 4.9
     date: '2026-05-03'
     code: 647563
     url: /works/647563/
   - title: If I Have a Chance, I Want to Warp My Boyfriend's Fetishes!
     author: meeko
-    cover: /covers/647619.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/647619.jpg
     rating: 4.6
     date: '2026-05-03'
     code: 647619
@@ -191,7 +191,7 @@ works:
   - title: Otaku ni Yasashii Gal wa Aitsu no Kanojo | A Gal Who's Kind to Otaku Is That
       Guy's Girlfriend
     author: yamamoto
-    cover: /covers/647809.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/647809.jpg
     rating: 4.9
     date: '2026-05-04'
     code: 647809
@@ -199,14 +199,14 @@ works:
   - title: You're My Doggy... Right? ~Pamper Loving Boyfriend Becomes A Wild Sadist
       Hound~
     author: the-waidan
-    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/649029.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/649029.jpg
     rating: 4.9
     date: '2026-05-10'
     code: 649029
     url: /works/649029/
   - title: vtUber Eats
     author: kame-burning
-    cover: /covers/649107.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/649107.jpg
     rating: 4.3
     date: '2026-05-10'
     code: 649107
@@ -214,21 +214,21 @@ works:
   - title: 'Namaiki Gal o Succubus ni Shite Oshioki Shitatta Ken 4  | Turning a Bratty
       Gal into a Succubus for Punishment #4'
     author: takurowo
-    cover: /covers/651303.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651303.jpg
     rating: 4.5
     date: '2026-05-20'
     code: 651303
     url: /works/651303/
   - title: Kimi ga Haramu made Genkai Toppa Sex | Limit Breaking Sex until you're Pregnant
     author: yoshio-ereki-toneridan
-    cover: /covers/651499.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651499.jpg
     rating: 5.0
     date: '2026-05-21'
     code: 651499
     url: /works/651499/
   - title: Haha Ochi Nikki ~Ureta Jitsubo no Nama Manko o Seishori Benjo ni Otosu made
     author: unknown
-    cover: /covers/656146.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/656146.jpg
     rating: 4.6
     date: '2026-08-25'
     code: 656146
@@ -242,21 +242,21 @@ works:
     url: /works/662658/
   - title: Makocchi and Riori
     author: yudoufu
-    cover: /covers/664742.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/664742.jpg
     rating: 4.8
     date: '2026-07-17'
     code: 664742
     url: /works/664742/
   - title: Boku-tachi Mama to Yattemasu
     author: ameto-yuki
-    cover: /covers/672450.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/672450.jpg
     rating: 4.5
     date: '2026-08-25'
     code: 672450
     url: /works/672450/
   - title: Nomi Tomo to! | Drinking Buddies!
     author: poncocchan
-    cover: /covers/674704.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/674704.jpg
     rating: 4.5
     date: '2026-08-21'
     code: 674704

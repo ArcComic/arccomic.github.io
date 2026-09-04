@@ -4,7 +4,7 @@ artist_name: "ken-1"
 work_count: 2
 works:
   - title: Asunama 9
-    cover: /covers/477784.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/477784.jpg
     rating: 4.1
     date: '2026-07-17'
     code: 477784

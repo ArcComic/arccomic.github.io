@@ -5,7 +5,7 @@ work_count: 19
 works:
   - title: Asuna-san ga Agil ni Netorareru Ohanashi
     author: fujimiya-siryu
-    cover: /covers/300943.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/300943.jpg
     rating: 4.3
     date: '2026-07-17'
     code: 300943
@@ -49,14 +49,14 @@ works:
   - title: Houkai Kazoku -Hahaoya ga Yakuza to no Sex ni Hamatta Hanashi- | Broken Family
       - A Story About a Mother Who Became Addicted to Sex With a Yakuza
     author: watsondou
-    cover: /covers/557052.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/557052.jpg
     rating: 4.4
     date: '2026-05-07'
     code: 557052
     url: /works/557052/
   - title: Mesu no Ie II ~Tsuma wa Midare Ubareru~
     author: ame-arare
-    cover: /covers/591112.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/591112.jpg
     rating: 4.3
     date: '2026-05-01'
     code: 591112
@@ -64,7 +64,7 @@ works:
   - title: Houkai Kazoku 2 -Hahaoya ga Yakuza to no Sex ni Hamatta Hanashi- | Broken
       Family 2 - The story of a mother who got hooked on sex with the Yakuza
     author: watsondou
-    cover: /covers/596598.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/596598.jpg
     rating: 5.0
     date: '2026-05-07'
     code: 596598
@@ -72,7 +72,7 @@ works:
   - title: Otoko no Ko otodokeshimasu! ~Itsumo kuru Haitatsuin-san ga masaka no Otoko
       no Ko dattakedo mayowazu hameta~
     author: mitsujirou
-    cover: /covers/605410.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/605410.jpg
     rating: 4.9
     date: '2026-07-16'
     code: 605410
@@ -117,7 +117,7 @@ works:
     url: /works/644309/
   - title: Watashi wa Tsuma de Haha de, Tada no Mesu 3
     author: kakyuu-bushi
-    cover: /covers/652606.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/652606.jpg
     rating: 4.1
     date: '2026-05-26'
     code: 652606
@@ -132,14 +132,14 @@ works:
   - title: Otokonoko Otodoke Shimasu! 2 ~Itsumo kuru Haitatsuin-san ga Masaka no Otokonoko
       datta kedo Mayowazu Hameta~
     author: mitsujirou
-    cover: /covers/664672.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/664672.jpg
     rating: 4.4
     date: '2026-07-16'
     code: 664672
     url: /works/664672/
   - title: Miyoku no Shiro -An Incarnating Ravish- | 魅欲之城
     author: tokupyon
-    cover: /covers/664770.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/664770.jpg
     rating: 4.7
     date: '2026-07-17'
     code: 664770

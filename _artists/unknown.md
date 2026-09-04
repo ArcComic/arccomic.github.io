@@ -10,7 +10,7 @@ works:
     code: 484852
     url: /works/484852/
   - title: Ero Cos OL to Jiraikei Joshi ~Iki Nuresaseru Moto Kare no Amai Koshi Zukai~
-    cover: /covers/548852.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/548852.jpg
     rating: 4.3
     date: '2026-04-23'
     code: 548852
@@ -28,7 +28,7 @@ works:
     code: 599910
     url: /works/599910/
   - title: Caught in the Act
-    cover: /covers/617511.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/617511.jpg
     rating: 4.7
     date: '2026-07-16'
     code: 617511
@@ -109,74 +109,74 @@ works:
     code: 645525
     url: /works/645525/
   - title: How I, a fighting gamer, became the heroine of a cosplay AV
-    cover: /covers/645566.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/645566.jpg
     rating: 4.3
     date: '2026-04-24'
     code: 645566
     url: /works/645566/
   - title: Papa to Mama no Rusu ni Okute na Kareshi-kun o Wagaya ni Shoutai Shitemita
       Kekka | I invited my shy boyfriend to my house while my parents were away
-    cover: /covers/646111.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/646111.jpg
     rating: 4.9
     date: '2026-04-27'
     code: 646111
     url: /works/646111/
   - title: Houchiko Hirotte LesSe Suru
-    cover: /covers/646967.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/646967.jpg
     rating: 4.2
     date: '2026-04-30'
     code: 646967
     url: /works/646967/
   - title: He's being held by her father
-    cover: /covers/647938.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/647938.jpg
     rating: 4.3
     date: '2026-05-05'
     code: 647938
     url: /works/647938/
   - title: Kiraware H ~Boku o Kirai na Kimi ga Suki~ Momoka Hen
-    cover: /covers/652788.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/652788.jpg
     rating: 4.7
     date: '2026-05-27'
     code: 652788
     url: /works/652788/
   - title: Haha no Himitsu o Shitte
-    cover: /covers/654114.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654114.jpg
     rating: 4.4
     date: '2026-08-21'
     code: 654114
     url: /works/654114/
   - title: Haha Ochi Nikki ~Ureta Jitsubo no Nama Manko o Seishori Benjo ni Otosu made
-    cover: /covers/656146.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/656146.jpg
     rating: 4.6
     date: '2026-08-25'
     code: 656146
     url: /works/656146/
   - title: Haha Ana ni Irazumba
-    cover: /covers/657981.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/657981.jpg
     rating: 4.5
     date: '2026-08-24'
     code: 657981
     url: /works/657981/
   - title: Mama ga Inemuri shi tetanode
-    cover: /covers/659164.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/659164.jpg
     rating: 4.0
     date: '2026-08-24'
     code: 659164
     url: /works/659164/
   - title: 1R, Futari, 365 Nichi | 1 Room, 2 People, 365 Days
-    cover: /covers/661855.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/661855.jpg
     rating: 4.8
     date: '2026-07-07'
     code: 661855
     url: /works/661855/
   - title: Shameimaru Aya no sennyuu! Shokushu esute
-    cover: /covers/661890.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/661890.jpg
     rating: 4.3
     date: '2026-07-07'
     code: 661890
     url: /works/661890/
   - title: Otoko mo Onna mo Eroi Me ni Au ~Futari Matomete Slime Ecchi~
-    cover: /covers/661906.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/661906.jpg
     rating: 4.9
     date: '2026-07-07'
     code: 661906
@@ -239,7 +239,7 @@ works:
     code: 664299
     url: /works/664299/
   - title: Junai Kanjou
-    cover: /covers/676189.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/676189.jpg
     rating: 4.2
     date: '2026-08-28'
     code: 676189

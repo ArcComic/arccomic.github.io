@@ -49,7 +49,7 @@ works:
     url: /works/643511/
   - title: Sex Between Gloomy Types is the Hottest, Ain't It?
     author: doji-ro
-    cover: /covers/646757.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/646757.jpg
     rating: 4.5
     date: '2026-05-01'
     code: 646757
@@ -57,7 +57,7 @@ works:
   - title: Na mo Naki Dousei Couple no Sex ga Ichiban Eroi yo ne | Sex Between Gloomy
       Types is the Hottest, Ain't It? Epilogue
     author: doji-ro
-    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/646986.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/646986.jpg
     rating: 4.2
     date: '2026-04-30'
     code: 646986
@@ -65,7 +65,7 @@ works:
   - title: Imouto Haramasenai to Derarenai Shima 2 | You Must Breed Your Sister to Leave
       This Island 2!
     author: airandou
-    cover: /covers/648414.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/648414.jpg
     rating: 4.2
     date: '2026-05-07'
     code: 648414
@@ -73,14 +73,14 @@ works:
   - title: Noraneko Shoujo to no Kurashikata Ch. 33-49 | How to Live with a Stray Cat
       Girl Ch. 33-49
     author: shiina
-    cover: /covers/648550.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/648550.jpg
     rating: 4.8
     date: '2026-05-07'
     code: 648550
     url: /works/648550/
   - title: vtUber Eats
     author: kame-burning
-    cover: /covers/649107.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/649107.jpg
     rating: 4.3
     date: '2026-05-10'
     code: 649107
@@ -88,14 +88,14 @@ works:
   - title: Netorase Club 2 Anal Name no Tensai to Fellatio no Tensai | Netorase Club
       2 The Genius of Rimjob and The Genius of Blowjob
     author: oosawara-sadao
-    cover: /covers/649114.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/649114.jpg
     rating: 4.9
     date: '2026-05-10'
     code: 649114
     url: /works/649114/
   - title: REMIND ME & Beautiful Days Without You
     author: 3e
-    cover: /covers/652639.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/652639.jpg
     rating: 4.8
     date: '2026-05-26'
     code: 652639
@@ -103,14 +103,14 @@ works:
   - title: Genkai New Town no Inei Genkai New Town wa Mitsu no Aji 2 - The shadow of
       marginal new town
     author: saigado-ishoku-dougen
-    cover: /covers/661585.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/661585.jpg
     rating: 4.3
     date: '2026-07-06'
     code: 661585
     url: /works/661585/
   - title: Cinderella Fit
     author: shirosuzu
-    cover: /covers/661596.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/661596.jpg
     rating: 4.1
     date: '2026-07-06'
     code: 661596
@@ -125,14 +125,14 @@ works:
   - title: Kazano Hiori ni Warui Koto o Suru Hanashi (Zenpen) | The Story of Doing Bad
       Things to Kazeno Hikari
     author: dokuneko-noil
-    cover: /covers/664447.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/664447.jpg
     rating: 4.9
     date: '2026-07-16'
     code: 664447
     url: /works/664447/
   - title: Ryuu no Gekirin
     author: p-n
-    cover: /covers/664626.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/664626.jpg
     rating: 4.5
     date: '2026-07-16'
     code: 664626
@@ -141,7 +141,7 @@ works:
       Chinpo ni Kusozako Make Acme Kimechaimashitaa~ | Instant Fall via Hypnosis Magic❤
       Cheeky Witch Koko-chan ~A Genius Elite, Yet...❤ Monster
     author: yonketa
-    cover: /covers/673561.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673561.jpg
     rating: 5.0
     date: '2026-08-18'
     code: 673561

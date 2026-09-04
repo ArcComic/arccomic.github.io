@@ -26,28 +26,28 @@ works:
     url: /works/508649/
   - title: Boku no Toshiue no Tomodachi | My Older Friend
     author: buta
-    cover: /covers/631036.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/631036.jpg
     rating: 4.4
     date: '2026-05-26'
     code: 631036
     url: /works/631036/
   - title: Atashi no Hou ga Tsuyoi Hazudattanoni!
     author: group
-    cover: /covers/652605.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/652605.jpg
     rating: 4.0
     date: '2026-05-26'
     code: 652605
     url: /works/652605/
   - title: Gibo o , Densha de ... | My Stepmother on The Train...
     author: gonza
-    cover: /covers/652801.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/652801.jpg
     rating: 4.4
     date: '2026-05-27'
     code: 652801
     url: /works/652801/
   - title: Even though I was supposed to sing that love first!
     author: densuke
-    cover: /covers/662094.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662094.jpg
     rating: 4.4
     date: '2026-07-07'
     code: 662094

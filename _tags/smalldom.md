@@ -5,14 +5,14 @@ work_count: 19
 works:
   - title: Uwa, Mesugaki Tsuyoi! | Crap, This Mesugaki's Too Powerful!
     author: poncocchan
-    cover: /covers/550359.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/550359.jpg
     rating: 4.6
     date: '2026-08-31'
     code: 550359
     url: /works/550359/
   - title: Doukyuusei no Kyouiku Mama ni Hitomebore!
     author: chotto-b-sen
-    cover: /covers/581704.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/581704.jpg
     rating: 4.8
     date: '2026-07-17'
     code: 581704
@@ -20,7 +20,7 @@ works:
   - title: Aitsu, Kotowarenai kara.. Remake-ban no Tsuzuki dewa Arimasu ga, Konsaku
       wa Yakinaoshi ja Nai yo. Settei Igai wa Sinsaku da yo. Sonna Kanji no Vol. 2 desu
     author: haruharudo
-    cover: /covers/632056.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/632056.jpg
     rating: 4.1
     date: '2026-07-17'
     code: 632056
@@ -49,28 +49,28 @@ works:
     url: /works/644309/
   - title: Oji Saimin Soushuuhen | Hypnotized Uncle Compilation Edition
     author: tokomaya-keita
-    cover: /covers/645612.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/645612.jpg
     rating: 5.0
     date: '2026-04-24'
     code: 645612
     url: /works/645612/
   - title: Inaka ja Kore ga Joushiki dakara! | This Is Just How Things Are in the Countryside!
     author: chilt
-    cover: /covers/646146.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/646146.jpg
     rating: 4.1
     date: '2026-04-27'
     code: 646146
     url: /works/646146/
   - title: My Brother Stole My Mother
     author: momoziri-hustle-dou
-    cover: /covers/648073.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/648073.jpg
     rating: 4.4
     date: '2026-07-17'
     code: 648073
     url: /works/648073/
   - title: Murasaki no Syoumei | Purple Illumination
     author: '3104'
-    cover: /covers/648461.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/648461.jpg
     rating: 4.1
     date: '2026-05-07'
     code: 648461
@@ -84,28 +84,28 @@ works:
     url: /works/651309/
   - title: Atashi no Hou ga Tsuyoi Hazudattanoni!
     author: group
-    cover: /covers/652605.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/652605.jpg
     rating: 4.0
     date: '2026-05-26'
     code: 652605
     url: /works/652605/
   - title: Kisei Goblin | Parasitic Goblin
     author: poriuretan
-    cover: /covers/652632.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/652632.jpg
     rating: 4.5
     date: '2026-05-26'
     code: 652632
     url: /works/652632/
   - title: Karada ga Binkan Sugiru Watashi wa Itoko ni Itazura sarete mo Teikoudekinai!
     author: romomata
-    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/655421.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/655421.jpg
     rating: 5.0
     date: '2026-08-21'
     code: 655421
     url: /works/655421/
   - title: Murasaki no Shoumei ~Kuroi Muchuu~ | Purple Illumination ~Dark Trance~
     author: '3104'
-    cover: /covers/660867.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/660867.jpg
     rating: 4.1
     date: '2026-07-06'
     code: 660867
@@ -119,7 +119,7 @@ works:
     url: /works/663130/
   - title: Kaho-chan wa Oshioki Shitai
     author: serakichi
-    cover: /covers/674298.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/674298.jpg
     rating: 4.1
     date: '2026-08-20'
     code: 674298
@@ -127,7 +127,7 @@ works:
   - title: Mama-san Tennis Gasshuku ni Tsuiteitta Ero Kyoudai | Horny Brothers Tag Along
       on a Moms' Tennis Camp
     author: toshiue-onee-san-tengoku
-    cover: /covers/674656.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/674656.jpg
     rating: 4.1
     date: '2026-08-21'
     code: 674656
@@ -135,7 +135,7 @@ works:
   - title: Yopparai Nee-chan no Jinsei ga Kouten suru Koudou Henyou | Behavioral Transformation
       That Turns the Life of a Drunk Lady Around
     author: toshiue-onee-san-tengoku
-    cover: /covers/674658.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/674658.jpg
     rating: 4.3
     date: '2026-08-21'
     code: 674658

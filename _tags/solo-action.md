@@ -12,7 +12,7 @@ works:
     url: /works/579976/
   - title: If I Have a Chance, I Want to Warp My Boyfriend's Fetishes!
     author: meeko
-    cover: /covers/647619.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/647619.jpg
     rating: 4.6
     date: '2026-05-03'
     code: 647619
@@ -26,7 +26,7 @@ works:
     url: /works/663142/
   - title: Nani ga Haeta Hajime | Hajime Grew a Dick!
     author: hyouga
-    cover: /covers/664845.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/664845.jpg
     rating: 4.1
     date: '2026-07-16'
     code: 664845

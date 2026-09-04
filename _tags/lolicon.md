@@ -5,7 +5,7 @@ work_count: 59
 works:
   - title: Sensei wa Shougakusei ga Suki | Sensei Loves Elementary Schoolers
     author: fuyuno-mikan
-    cover: /covers/289094.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/289094.jpg
     rating: 4.4
     date: '2026-04-25'
     code: 289094
@@ -64,7 +64,7 @@ works:
     url: /works/537476/
   - title: Uwa, Mesugaki Tsuyoi! | Crap, This Mesugaki's Too Powerful!
     author: poncocchan
-    cover: /covers/550359.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/550359.jpg
     rating: 4.6
     date: '2026-08-31'
     code: 550359
@@ -86,7 +86,7 @@ works:
   - title: Meshitaki san-nen, nigiri ichi-nen | Three Years to Master Rice, One Year
       to Master Nigiri
     author: polier
-    cover: /covers/583391.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/583391.jpg
     rating: 4.6
     date: '2026-07-07'
     code: 583391
@@ -152,7 +152,7 @@ works:
     url: /works/644495/
   - title: Oji Saimin Soushuuhen | Hypnotized Uncle Compilation Edition
     author: tokomaya-keita
-    cover: /covers/645612.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/645612.jpg
     rating: 5.0
     date: '2026-04-24'
     code: 645612
@@ -160,14 +160,14 @@ works:
   - title: Onanie Daisuki Honoka-chan wa Katekyo Chinpo o Benkyou Shitai! | Professional
       Shliker Honoka-san Wanna Study Up On Her Tutor's Cock!
     author: henreader
-    cover: /covers/645677.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/645677.jpg
     rating: 4.9
     date: '2026-04-25'
     code: 645677
     url: /works/645677/
   - title: Houchiko Hirotte LesSe Suru
     author: unknown
-    cover: /covers/646967.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/646967.jpg
     rating: 4.2
     date: '2026-04-30'
     code: 646967
@@ -175,28 +175,28 @@ works:
   - title: Netorase Club 2 Anal Name no Tensai to Fellatio no Tensai | Netorase Club
       2 The Genius of Rimjob and The Genius of Blowjob
     author: oosawara-sadao
-    cover: /covers/649114.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/649114.jpg
     rating: 4.9
     date: '2026-05-10'
     code: 649114
     url: /works/649114/
   - title: Seishidouin no Oshigoto Soushuuhen1 | Sex Instructor Compilation Vol. 1
     author: malcorond
-    cover: /covers/653978.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/653978.jpg
     rating: 4.8
     date: '2026-07-07'
     code: 653978
     url: /works/653978/
   - title: Shoujo Osotte Mita ~Ooame ga Warui n janai~
     author: yoko-juusuke
-    cover: /covers/661894.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/661894.jpg
     rating: 5.0
     date: '2026-07-07'
     code: 661894
     url: /works/661894/
   - title: Tsuntsun
     author: onizuka-naoshi
-    cover: /covers/661935.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/661935.jpg
     rating: 4.4
     date: '2026-07-07'
     code: 661935
@@ -204,7 +204,7 @@ works:
   - title: Seishidouin no Oshigoto 4 Kohen Rippana Benki ni Sodatta node Daimanzoku
       de Shidou wo Oeta + C101 Omake
     author: malcorond
-    cover: /covers/661951.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/661951.jpg
     rating: 4.5
     date: '2026-07-07'
     code: 661951
@@ -246,35 +246,35 @@ works:
     url: /works/664170/
   - title: Ryuu no Gekirin
     author: p-n
-    cover: /covers/664626.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/664626.jpg
     rating: 4.5
     date: '2026-07-16'
     code: 664626
     url: /works/664626/
   - title: Mesugaki ni Saikyouiku o!! | Re-Educating A Smug-Brat!!
     author: type-yamada
-    cover: /covers/664631.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/664631.jpg
     rating: 4.3
     date: '2026-07-16'
     code: 664631
     url: /works/664631/
   - title: Makocchi and Riori
     author: yudoufu
-    cover: /covers/664742.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/664742.jpg
     rating: 4.8
     date: '2026-07-17'
     code: 664742
     url: /works/664742/
   - title: Miya-chan no Kyuuin Life! - Chapter 12
     author: furumoto-takeru
-    cover: https://f83ba62681a6ba5b8ab376aaa1c250df.r2.cloudflarestorage.com/covers/664766.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/664766.jpg
     rating: 4.2
     date: '2026-07-17'
     code: 664766
     url: /works/664766/
   - title: My Big brother
     author: momoyama-hato
-    cover: /covers/664926.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/664926.jpg
     rating: 4.8
     date: '2026-07-17'
     code: 664926
@@ -283,49 +283,49 @@ works:
       Chinpo ni Kusozako Make Acme Kimechaimashitaa~ | Instant Fall via Hypnosis Magic❤
       Cheeky Witch Koko-chan ~A Genius Elite, Yet...❤ Monster
     author: yonketa
-    cover: /covers/673561.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673561.jpg
     rating: 5.0
     date: '2026-08-18'
     code: 673561
     url: /works/673561/
   - title: Jitaku ni Shinnyuu Sareta Onnanoko ~Shojo Soushitsu Nakadashi Rape~
     author: usagi-no-yume
-    cover: /covers/673983.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673983.jpg
     rating: 4.8
     date: '2026-08-19'
     code: 673983
     url: /works/673983/
   - title: Anokotachi no Jijou - 〇〇chanchi no Jijou Soushuuhen
     author: yukino-minato
-    cover: /covers/673985.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673985.jpg
     rating: 4.8
     date: '2026-08-19'
     code: 673985
     url: /works/673985/
   - title: Island of the Mist God - Complet Edition
     author: noraneko-no-tama
-    cover: /covers/673986.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673986.jpg
     rating: 4.9
     date: '2026-08-19'
     code: 673986
     url: /works/673986/
   - title: Nayotake Kaguya no Himegoto
     author: yukino-minato
-    cover: /covers/673992.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673992.jpg
     rating: 4.4
     date: '2026-08-19'
     code: 673992
     url: /works/673992/
   - title: Tonari no Ko | The Girl Next Door
     author: oyabe-ryo-isurugi-ryo
-    cover: /covers/674496.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/674496.jpg
     rating: 4.6
     date: '2026-08-21'
     code: 674496
     url: /works/674496/
   - title: Onii-san Zako sugite Ukeru~ | Big Brother, you're so pathetic, it's hilarious~
     author: puritei
-    cover: /covers/674568.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/674568.jpg
     rating: 4.9
     date: '2026-08-21'
     code: 674568
@@ -333,28 +333,28 @@ works:
   - title: Jirashite Jirashite Jirashite Jirashite Pierce | Tease Me, Tease Me, Tease
       Me Teasing Piercing
     author: chi-ra-rhyzhm
-    cover: /covers/674569.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/674569.jpg
     rating: 5.0
     date: '2026-08-21'
     code: 674569
     url: /works/674569/
   - title: Ayano-chan wa Mashou Tenkousei
     author: nedia
-    cover: /covers/674684.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/674684.jpg
     rating: 4.2
     date: '2026-08-21'
     code: 674684
     url: /works/674684/
   - title: Bitch Girls
     author: itou
-    cover: /covers/674701.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/674701.jpg
     rating: 4.9
     date: '2026-08-21'
     code: 674701
     url: /works/674701/
   - title: My Teacher Is So Hot That I Might Repeat Kindergarten !!
     author: tamano-kedama
-    cover: /covers/674709.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/674709.jpg
     rating: 4.4
     date: '2026-08-21'
     code: 674709
@@ -362,56 +362,56 @@ works:
   - title: Kawaii kedo Seikaku Warui kara Ijimechao! Nichijyou Bukkowashi Satsueikai
       Hen
     author: dancyo
-    cover: /covers/674973.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/674973.jpg
     rating: 5.0
     date: '2026-08-23'
     code: 674973
     url: /works/674973/
   - title: 'Katechou! #1'
     author: shinkaida-tetsuyarou
-    cover: /covers/674974.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/674974.jpg
     rating: 4.0
     date: '2026-08-23'
     code: 674974
     url: /works/674974/
   - title: Chibikko Nurunuru Harem Seikatsu
     author: ippon-lolicon-trap
-    cover: /covers/674984.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/674984.jpg
     rating: 4.2
     date: '2026-08-23'
     code: 674984
     url: /works/674984/
   - title: Meikko na Syoujo no Ehon 3
     author: malcorond
-    cover: /covers/676181.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/676181.jpg
     rating: 4.5
     date: '2026-08-28'
     code: 676181
     url: /works/676181/
   - title: Meikko na Syoujo no Ehon 5 -Kouhen-
     author: malcorond
-    cover: /covers/676182.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/676182.jpg
     rating: 4.1
     date: '2026-08-28'
     code: 676182
     url: /works/676182/
   - title: Meikko na Syoujo no Ehon 5 -Zenpen-
     author: malcorond
-    cover: /covers/676183.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/676183.jpg
     rating: 4.0
     date: '2026-08-28'
     code: 676183
     url: /works/676183/
   - title: Aoi-chan to Himitsu no Seikatsu Shidou 1-19
     author: konnyaku
-    cover: /covers/676196.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/676196.jpg
     rating: 4.2
     date: '2026-08-28'
     code: 676196
     url: /works/676196/
   - title: Karin-chan no Himitsu Kichi Matome
     author: konnyaku
-    cover: /covers/676197.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/676197.jpg
     rating: 4.7
     date: '2026-08-28'
     code: 676197
@@ -419,14 +419,14 @@ works:
   - title: Onii-chan... Momoko, AV Joyuu datte Dekiru yo? | Momoko... Could Even be
       a Porn Star, You Know?
     author: yurarin
-    cover: /covers/676201.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/676201.jpg
     rating: 4.0
     date: '2026-08-28'
     code: 676201
     url: /works/676201/
   - title: Ani ga Inma ni Natta node
     author: dobato
-    cover: /covers/677079.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/677079.jpg
     rating: 4.5
     date: '2026-08-31'
     code: 677079
