@@ -259,14 +259,14 @@ def ensure_jekyll_works_collection():
     return changed
 
 POST_LAYOUT_PATH = os.path.join(WORK_DIR, "_layouts", "post.html")
-POST_LAYOUT_VERSION = 7  # bump when the template below changes materially
+POST_LAYOUT_VERSION = 8  # bump when the template below changes materially
 
-# Two separate Mondiad zones: a Banner zone for the main reading-page slot,
-# and a Native zone for the Similar Comics card (Native blends into content
-# grids, which is what that placement needs — Banner expects a fixed
-# rectangular slot and looks out of place mixed into thumbnail cards).
+# Native ads (Mondiad "Native" zone type) were removed sitewide — they
+# render as in-flow content the network fully controls, and were both
+# breaking grid layouts on load and misleading readers by visually
+# impersonating a real comic card. Banner is the only ad format used now:
+# a fixed rectangular slot that looks like an ad, styled by us, sized by us.
 BANNER_AD_ZONE_ID = "6682c345-631e-456b-82ef-cc3bd9dbb29a"
-NATIVE_AD_ZONE_ID = "46474a49-ec2d-4f56-b270-26751ac9202a"
 
 POST_LAYOUT_TEMPLATE = f"""<!-- arc-comic-layout-version: {POST_LAYOUT_VERSION} -->
 <!DOCTYPE html>
@@ -277,7 +277,6 @@ POST_LAYOUT_TEMPLATE = f"""<!-- arc-comic-layout-version: {POST_LAYOUT_VERSION} 
     <title>{{{{ page.title }}}} - Arc Comic</title>
     <meta name="description" content="{{{{ page.title }}}} by {{{{ page.author }}}} - Arc Comic">
     <script async src="https://ss.mrmnd.com/banner.js"></script>
-    <script async src="https://ss.mrmnd.com/native.js"></script>
     <style>
         :root {{
             --bg: #0f0f13; --bg-card: #1a1a24; --bg-elevated: #222230;
@@ -375,14 +374,6 @@ POST_LAYOUT_TEMPLATE = f"""<!-- arc-comic-layout-version: {POST_LAYOUT_VERSION} 
         .similar-info {{ padding: 10px; }}
         .similar-info-title {{ font-size: 13px; font-weight: 700; line-height: 1.3;
             display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }}
-        .similar-ad-card {{
-            background: var(--bg-elevated); border: 1px solid var(--border); border-radius: 12px;
-            min-height: 180px; max-height: 260px; overflow: hidden;
-            display: flex; justify-content: center; align-items: center;
-        }}
-        .similar-ad-card > * {{ max-width: 100% !important; max-height: 100% !important;
-            width: auto !important; height: auto !important; }}
-        .similar-ad-card img, .similar-ad-card iframe {{ object-fit: cover; }}
         .mini-search {{ display: flex; gap: 8px; margin-bottom: 20px; }}
         .mini-search input {{
             flex: 1; padding: 10px 14px; background: var(--bg-card); border: 1px solid var(--border);
@@ -493,13 +484,12 @@ POST_LAYOUT_TEMPLATE = f"""<!-- arc-comic-layout-version: {POST_LAYOUT_VERSION} 
                                 <div class="similar-info-title">{{{{ work.title }}}}</div>
                             </div>
                         </a>
-                        {{% if shown_count == 2 %}}
-                        <div class="similar-ad-card" data-mndazid="{NATIVE_AD_ZONE_ID}"></div>
-                        {{% endif %}}
                     {{% endunless %}}
                 {{% endfor %}}
             </div>
         </div>
+
+        <div class="ad-slot" data-mndbanid="{BANNER_AD_ZONE_ID}"></div>
 
         {{% include follow_us.html %}}
     </div>
@@ -819,25 +809,11 @@ PAGINATION_JS = """
             html += mk(total);
             return html;
         }
-
-        // Mondiad's native.js only scans the DOM for data-mndazid slots once,
-        // when it first loads in <head>. Ad cards on this page are injected
-        // later via innerHTML (after sort/filter/page-change), so that one-time
-        // scan never sees them and the slot stays empty. Re-appending a fresh
-        // <script src="native.js"> after every grid re-render forces a new scan
-        // against the current DOM, so newly-injected ad slots actually get
-        // picked up. Safe to call even when no ad card was inserted this render.
-        function rescanNativeAds() {
-            const s = document.createElement('script');
-            s.async = true;
-            s.src = 'https://ss.mrmnd.com/native.js';
-            document.body.appendChild(s);
-        }
 """
 
 # ============== HOMEPAGE (index.html) ==============
 INDEX_HTML_PATH = os.path.join(WORK_DIR, "index.html")
-INDEX_HTML_VERSION = 12  # bump when the template below changes materially
+INDEX_HTML_VERSION = 14  # bump when the template below changes materially
 
 INDEX_HTML_TEMPLATE = f"""---
 # No 'layout:' key here on purpose — index.html is a complete, self-contained
@@ -860,7 +836,6 @@ INDEX_HTML_TEMPLATE = f"""---
     {{% endif %}}
     <title>✨ Arc Comic — Manga & Doujinshi Gallery</title>
     <meta name="description" content="Arc Comic — Curated manga and doujinshi gallery">
-    <script async src="https://ss.mrmnd.com/native.js"></script>
     <style>
         :root {{
             --bg: #0f0f13; --bg-card: #1a1a24; --bg-elevated: #222230;
@@ -985,30 +960,6 @@ INDEX_HTML_TEMPLATE = f"""---
         .work-card .info .meta {{
             font-size: 11px; color: var(--text-muted); margin-top: 3px;
         }}
-        .grid-ad-card {{
-            background: var(--bg-elevated); border-radius: 12px;
-            border: 1px solid var(--border); overflow: hidden;
-            width: 100%; padding-top: 140%; position: relative;
-        }}
-        /* Mondiad injects its creative as a direct child of this box (an
-           <a>/<img>/<div>, whichever the served ad uses) — without
-           forcing it absolute + full-size like .work-card .cover img
-           does for real covers, the injected content renders in-flow at
-           its own natural size and can overflow past the 140% aspect
-           box, which is what was breaking the tags/search/artist grids. */
-        .grid-ad-card > *:not(.info) {{
-            position: absolute !important; top: 0 !important; left: 0 !important;
-            width: 100% !important; height: 100% !important;
-            max-width: 100% !important; max-height: 100% !important;
-            object-fit: cover !important; margin: 0 !important;
-        }}
-        .grid-ad-card .info {{
-            position: absolute; left: 0; right: 0; bottom: 0; padding: 10px;
-        }}
-        .grid-ad-card .info h3 {{
-            font-size: 11px; font-weight: 600; color: var(--text-muted);
-            text-transform: uppercase; letter-spacing: 0.5px; margin: 0;
-        }}
         .no-results {{ text-align: center; padding: 60px 20px; color: var(--text-muted); }}
         .pagination {{
             display: flex; justify-content: center; gap: 8px; flex-wrap: wrap;
@@ -1119,7 +1070,7 @@ INDEX_HTML_TEMPLATE = f"""---
             }}{{% unless forloop.last %}},{{% endunless %}}
             {{% endfor %}}
         ];
-        const POSTS_PER_PAGE = {{{{ site.paginate | default: 15 }}}};
+        const POSTS_PER_PAGE = {{{{ site.paginate | default: 16 }}}};
 
         function applyFilters(list) {{
             const fullColorOnly = document.getElementById('filterFullColor').checked;
@@ -1147,7 +1098,12 @@ INDEX_HTML_TEMPLATE = f"""---
                     // a real view-window metric is tracked server-side.
                     return sorted.sort((a,b) => parseFloat(b.rating) - parseFloat(a.rating));
                 default:
-                    return sorted; // Default: whatever order the collection provides
+                    // "Sort: Default" (empty value) should behave the same
+                    // as explicitly picking Most Recent, not pass the
+                    // collection through in Jekyll's own (non-chronological)
+                    // iteration order — that was the "not most recent by
+                    // default" bug.
+                    return sorted.sort((a,b) => new Date(b.date) - new Date(a.date));
             }}
         }}
 
@@ -1161,22 +1117,13 @@ INDEX_HTML_TEMPLATE = f"""---
             `).join('');
         }}
 
-        function buildWorkCardsWithAd(pageWorks, isFirstPage) {{
-            const cards = pageWorks.map(w => `
+        function buildWorkCards(pageWorks) {{
+            return pageWorks.map(w => `
                 <a href="${{w.url}}" class="work-card">
                     <div class="cover"><img src="${{w.cover}}" alt="${{w.title}}"></div>
                     <div class="info"><h3>${{w.title}}</h3><div class="meta">${{w.author}} • ⭐ ${{w.rating}}</div></div>
                 </a>
-            `);
-            // Native ad only on page 2+ (never the homepage's first
-            // impression), inserted at a random position each time the
-            // page renders so it doesn't always land in the same spot.
-            if (!isFirstPage && cards.length > 1) {{
-                const adCard = `<div class="grid-ad-card" data-mndazid="{NATIVE_AD_ZONE_ID}"><div class="info"><h3>Sponsored</h3></div></div>`;
-                const pos = 1 + Math.floor(Math.random() * cards.length);
-                cards.splice(pos, 0, adCard);
-            }}
-            return cards.join('');
+            `).join('');
         }}
 
         function renderWorks(page = 1) {{
@@ -1202,8 +1149,7 @@ INDEX_HTML_TEMPLATE = f"""---
 
             const start = (page - 1) * POSTS_PER_PAGE;
             const pageWorks = list.slice(start, start + POSTS_PER_PAGE);
-            grid.innerHTML = buildWorkCardsWithAd(pageWorks, page === 1);
-            rescanNativeAds();
+            grid.innerHTML = buildWorkCards(pageWorks);
             const total = Math.ceil(list.length / POSTS_PER_PAGE);
             document.getElementById('pagination').innerHTML = buildPaginationHtml(page, total, 'renderWorks');
         }}
@@ -1314,7 +1260,7 @@ def ensure_index_html():
 # ============== TAG SYSTEM (Stage 3) ==============
 TAGS_DIR = os.path.join(WORK_DIR, "_tags")
 TAG_LAYOUT_PATH = os.path.join(WORK_DIR, "_layouts", "tag.html")
-TAG_LAYOUT_VERSION = 5
+TAG_LAYOUT_VERSION = 7
 TAGS_INDEX_PATH = os.path.join(WORK_DIR, "tags", "index.html")
 TAGS_INDEX_VERSION = 1
 
@@ -1327,7 +1273,6 @@ TAG_LAYOUT_TEMPLATE = f"""<!-- arc-comic-layout-version: {TAG_LAYOUT_VERSION} --
     <link rel="icon" type="image/svg+xml" href="/favicon.svg">
     <title>{{{{ page.tag_name }}}} Comics - Arc Comic</title>
     <meta name="description" content="Browse {{{{ page.tag_name }}}} manga and doujinshi on Arc Comic">
-    <script async src="https://ss.mrmnd.com/native.js"></script>
     <style>
         :root {{
             --bg: #0f0f13; --bg-card: #1a1a24; --bg-elevated: #222230;
@@ -1336,7 +1281,8 @@ TAG_LAYOUT_TEMPLATE = f"""<!-- arc-comic-layout-version: {TAG_LAYOUT_VERSION} --
         * {{ margin: 0; padding: 0; box-sizing: border-box; }}
         body {{ font-family: 'Segoe UI', system-ui, sans-serif; background: var(--bg); color: var(--text); min-height: 100vh; }}
         .container {{ max-width: 1200px; margin: 0 auto; padding: 24px; }}
-        .logo-link {{ display: inline-flex; text-decoration: none; color: var(--accent); font-weight: 800; font-size: 18px; margin-bottom: 16px; }}
+        .logo-link {{ display: inline-flex; text-decoration: none; color: var(--accent); font-weight: 800; font-size: 18px; }}
+        .tagline {{ color: var(--text-muted); font-size: 12px; margin: 4px 0 16px; text-align: left; }}
         .breadcrumb {{ color: var(--text-muted); font-size: 14px; margin-bottom: 20px; }}
         .breadcrumb a {{ color: var(--accent); text-decoration: none; }}
         h1 {{ font-size: 28px; font-weight: 800; margin-bottom: 8px; }}
@@ -1357,10 +1303,14 @@ TAG_LAYOUT_TEMPLATE = f"""<!-- arc-comic-layout-version: {TAG_LAYOUT_VERSION} --
         .work-card .info {{ padding: 10px; }}
         .work-card .info h3 {{ font-size: 13px; font-weight: 600; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }}
         .work-card .info .meta {{ font-size: 11px; color: var(--text-muted); margin-top: 3px; }}
-        .grid-ad-card {{ background: var(--bg-elevated); border-radius: 12px; border: 1px solid var(--border); overflow: hidden; width: 100%; padding-top: 140%; position: relative; }}
-        .grid-ad-card > *:not(.info) {{ position: absolute !important; top: 0 !important; left: 0 !important; width: 100% !important; height: 100% !important; max-width: 100% !important; max-height: 100% !important; object-fit: cover !important; margin: 0 !important; }}
-        .grid-ad-card .info {{ position: absolute; left: 0; right: 0; bottom: 0; padding: 10px; }}
-        .grid-ad-card .info h3 {{ font-size: 11px; font-weight: 600; color: var(--text-muted); text-transform: uppercase; letter-spacing: 0.5px; margin: 0; }}
+        .ad-slot {{
+            margin: 20px 0; display: flex; justify-content: center; align-items: center;
+            min-height: 100px; max-height: 300px; width: 100%;
+            background: var(--bg-card); border-radius: 12px; border: 1px solid var(--border); overflow: hidden;
+        }}
+        .ad-slot > * {{ max-width: 100% !important; max-height: 100% !important;
+            width: auto !important; height: auto !important; }}
+        .ad-slot img, .ad-slot iframe {{ object-fit: contain; }}
         .pagination {{ display: flex; justify-content: center; gap: 8px; flex-wrap: wrap; margin-top: 30px; padding-top: 20px; border-top: 1px solid var(--border); }}
         .pagination a, .pagination span {{ padding: 8px 14px; border-radius: 8px; font-size: 14px; font-weight: 600; text-decoration: none; }}
         .pagination a {{ background: var(--bg-card); color: var(--text); border: 1px solid var(--border); }}
@@ -1373,7 +1323,9 @@ TAG_LAYOUT_TEMPLATE = f"""<!-- arc-comic-layout-version: {TAG_LAYOUT_VERSION} --
 <body>
     <div class="container">
         <a href="/" class="logo-link">✨ Arc Comic</a>
+        <div class="tagline">{{{{ site.data.site_meta.tagline_html }}}}</div>
         <div class="breadcrumb"><a href="/">Home</a> › <a href="/tags/">Tags</a> › {{{{ page.tag_name }}}}</div>
+        <div class="ad-slot" id="topAdSlot" data-mndbanid="{BANNER_AD_ZONE_ID}" style="display:none;"></div>
         <h1>💥 {{{{ page.tag_name }}}}</h1>
         <div class="count">{{{{ page.work_count }}}} comic{{% if page.work_count != 1 %}}s{{% endif %}}</div>
         <div class="toolbar">
@@ -1385,6 +1337,7 @@ TAG_LAYOUT_TEMPLATE = f"""<!-- arc-comic-layout-version: {TAG_LAYOUT_VERSION} --
         </div>
         <div class="works-grid" id="worksGrid"></div>
         <div class="pagination" id="pagination"></div>
+        <div class="ad-slot" id="bottomAdSlot" data-mndbanid="{BANNER_AD_ZONE_ID}" style="display:none;"></div>
         {{% include follow_us.html %}}
     </div>
     <script>
@@ -1395,32 +1348,32 @@ TAG_LAYOUT_TEMPLATE = f"""<!-- arc-comic-layout-version: {TAG_LAYOUT_VERSION} --
                rating: "{{{{ w.rating }}}}", date: "{{{{ w.date }}}}", url: "{{{{ w.url }}}}" }}{{% unless forloop.last %}},{{% endunless %}}
             {{% endfor %}}
         ];
-        const PER_PAGE = 15;
-        function buildCardsWithAd(pageWorks, isFirstPage) {{
-            const cards = pageWorks.map(w => `
+        const PER_PAGE = 16;
+        function buildCards(pageWorks) {{
+            return pageWorks.map(w => `
                 <a href="${{w.url}}" class="work-card">
                     <div class="cover"><img src="${{w.cover}}" alt="${{w.title}}"></div>
                     <div class="info"><h3>${{w.title}}</h3><div class="meta">${{w.author}} • ⭐ ${{w.rating}}</div></div>
                 </a>
-            `);
-            if (!isFirstPage && cards.length > 1) {{
-                const adCard = `<div class="grid-ad-card" data-mndazid="{NATIVE_AD_ZONE_ID}"><div class="info"><h3>Sponsored</h3></div></div>`;
-                cards.splice(1 + Math.floor(Math.random() * cards.length), 0, adCard);
-            }}
-            return cards.join('');
+            `).join('');
         }}
         function render(page) {{
             page = page || 1;
             const mode = document.getElementById('sortSelect').value;
             let sorted = [...works];
-            if (mode === 'recent') sorted.sort((a,b) => new Date(b.date) - new Date(a.date));
-            else if (mode === 'oldest') sorted.sort((a,b) => new Date(a.date) - new Date(b.date));
+            if (mode === 'oldest') sorted.sort((a,b) => new Date(a.date) - new Date(b.date));
             else if (mode === 'rating') sorted.sort((a,b) => parseFloat(b.rating) - parseFloat(a.rating));
+            else sorted.sort((a,b) => new Date(b.date) - new Date(a.date)); // recent (default)
 
             const start = (page - 1) * PER_PAGE;
             const pageWorks = sorted.slice(start, start + PER_PAGE);
-            document.getElementById('worksGrid').innerHTML = buildCardsWithAd(pageWorks, page === 1);
-            rescanNativeAds();
+            document.getElementById('worksGrid').innerHTML = buildCards(pageWorks);
+
+            // Banner ads only from page 2 onward — never on the first
+            // screen someone lands on for this tag.
+            const showAds = page > 1;
+            document.getElementById('topAdSlot').style.display = showAds ? '' : 'none';
+            document.getElementById('bottomAdSlot').style.display = showAds ? '' : 'none';
 
             const total = Math.ceil(sorted.length / PER_PAGE);
             document.getElementById('pagination').innerHTML = buildPaginationHtml(page, total, 'render');
@@ -1455,7 +1408,7 @@ def slugify(text):
 
 # ============== SEARCH RESULTS PAGE ==============
 SEARCH_PAGE_PATH = os.path.join(WORK_DIR, "search", "index.html")
-SEARCH_PAGE_VERSION = 6
+SEARCH_PAGE_VERSION = 8
 
 SEARCH_PAGE_TEMPLATE = f"""---
 ---
@@ -1468,7 +1421,6 @@ SEARCH_PAGE_TEMPLATE = f"""---
     <link rel="icon" type="image/svg+xml" href="/favicon.svg">
     <title id="pageTitle">Search - Arc Comic</title>
     <meta name="description" content="Search manga and doujinshi on Arc Comic">
-    <script async src="https://ss.mrmnd.com/native.js"></script>
     <style>
         :root {{
             --bg: #0f0f13; --bg-card: #1a1a24; --bg-elevated: #222230;
@@ -1484,6 +1436,7 @@ SEARCH_PAGE_TEMPLATE = f"""---
             background: linear-gradient(135deg, var(--accent), #f97316);
             -webkit-background-clip: text; -webkit-text-fill-color: transparent;
         }}
+        .tagline {{ color: var(--text-muted); font-size: 12px; margin-top: 4px; text-align: center; }}
         .search-box {{ max-width: 500px; margin: 20px auto 0; display: flex; gap: 8px; position: relative; }}
         .search-box input {{
             flex: 1; padding: 14px 20px 14px 48px; background: var(--bg-card); border: 1px solid var(--border);
@@ -1505,10 +1458,14 @@ SEARCH_PAGE_TEMPLATE = f"""---
         .work-card .info {{ padding: 10px; }}
         .work-card .info h3 {{ font-size: 13px; font-weight: 600; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }}
         .work-card .info .meta {{ font-size: 11px; color: var(--text-muted); margin-top: 3px; }}
-        .grid-ad-card {{ background: var(--bg-elevated); border-radius: 12px; border: 1px solid var(--border); overflow: hidden; width: 100%; padding-top: 140%; position: relative; }}
-        .grid-ad-card > *:not(.info) {{ position: absolute !important; top: 0 !important; left: 0 !important; width: 100% !important; height: 100% !important; max-width: 100% !important; max-height: 100% !important; object-fit: cover !important; margin: 0 !important; }}
-        .grid-ad-card .info {{ position: absolute; left: 0; right: 0; bottom: 0; padding: 10px; }}
-        .grid-ad-card .info h3 {{ font-size: 11px; font-weight: 600; color: var(--text-muted); text-transform: uppercase; letter-spacing: 0.5px; margin: 0; }}
+        .ad-slot {{
+            margin: 20px 0; display: flex; justify-content: center; align-items: center;
+            min-height: 100px; max-height: 300px; width: 100%;
+            background: var(--bg-card); border-radius: 12px; border: 1px solid var(--border); overflow: hidden;
+        }}
+        .ad-slot > * {{ max-width: 100% !important; max-height: 100% !important;
+            width: auto !important; height: auto !important; }}
+        .ad-slot img, .ad-slot iframe {{ object-fit: contain; }}
         .no-results {{ text-align: center; padding: 60px 20px; color: var(--text-muted); }}
         .pagination {{ display: flex; justify-content: center; gap: 8px; flex-wrap: wrap; margin-top: 30px; padding-top: 20px; border-top: 1px solid var(--border); }}
         .pagination a, .pagination span {{ padding: 8px 14px; border-radius: 8px; font-size: 14px; font-weight: 600; text-decoration: none; }}
@@ -1523,16 +1480,19 @@ SEARCH_PAGE_TEMPLATE = f"""---
     <div class="container">
         <div class="header">
             <a href="/" class="logo-link"><h1>✨ Arc Comic</h1></a>
+            <div class="tagline">{{{{ site.data.site_meta.tagline_html }}}}</div>
             <div class="search-box">
                 <span class="search-icon">🔍</span>
                 <input type="text" placeholder="Search by title, author, or tag..." id="searchInput">
                 <button id="searchBtn">Search</button>
             </div>
         </div>
+        <div class="ad-slot" id="topAdSlot" data-mndbanid="{BANNER_AD_ZONE_ID}" style="display:none;"></div>
         <h2 class="results-title" id="resultsTitle">Search Results</h2>
         <div class="works-grid" id="worksGrid"></div>
         <div class="no-results" id="noResults" style="display:none;">No comics match your search.</div>
         <div class="pagination" id="pagination"></div>
+        <div class="ad-slot" id="bottomAdSlot" data-mndbanid="{BANNER_AD_ZONE_ID}" style="display:none;"></div>
         {{% include follow_us.html %}}
     </div>
     <script>
@@ -1546,37 +1506,38 @@ SEARCH_PAGE_TEMPLATE = f"""---
                 rating: "{{{{ post.rating }}}}",
                 tags: {{{{ post.tags | jsonify }}}},
                 code: "{{{{ post.code }}}}",
+                date: "{{{{ post.date }}}}",
                 url: "{{{{ post.url }}}}"
             }}{{% unless forloop.last %}},{{% endunless %}}
             {{% endfor %}}
         ];
-        const PER_PAGE = 15;
+        const PER_PAGE = 16;
         let currentResults = [];
 
         function getQueryParam(name) {{
             return new URLSearchParams(window.location.search).get(name) || "";
         }}
 
-        function buildCardsWithAd(pageWorks, isFirstPage) {{
-            const cards = pageWorks.map(w => `
+        function buildCards(pageWorks) {{
+            return pageWorks.map(w => `
                 <a href="${{w.url}}" class="work-card">
                     <div class="cover"><img src="${{w.cover}}" alt="${{w.title}}"></div>
                     <div class="info"><h3>${{w.title}}</h3><div class="meta">${{w.author}} • ⭐ ${{w.rating}}</div></div>
                 </a>
-            `);
-            if (!isFirstPage && cards.length > 1) {{
-                const adCard = `<div class="grid-ad-card" data-mndazid="{NATIVE_AD_ZONE_ID}"><div class="info"><h3>Sponsored</h3></div></div>`;
-                cards.splice(1 + Math.floor(Math.random() * cards.length), 0, adCard);
-            }}
-            return cards.join('');
+            `).join('');
         }}
 
         function renderPage(page) {{
             page = page || 1;
             const start = (page - 1) * PER_PAGE;
             const pageWorks = currentResults.slice(start, start + PER_PAGE);
-            document.getElementById('worksGrid').innerHTML = buildCardsWithAd(pageWorks, page === 1);
-            rescanNativeAds();
+            document.getElementById('worksGrid').innerHTML = buildCards(pageWorks);
+
+            // Banner ads only from page 2 onward, never on the first
+            // screen of results.
+            const showAds = page > 1;
+            document.getElementById('topAdSlot').style.display = showAds ? '' : 'none';
+            document.getElementById('bottomAdSlot').style.display = showAds ? '' : 'none';
 
             const total = Math.ceil(currentResults.length / PER_PAGE);
             document.getElementById('pagination').innerHTML = buildPaginationHtml(page, total, 'renderPage');
@@ -1592,23 +1553,28 @@ SEARCH_PAGE_TEMPLATE = f"""---
             if (!q) {{
                 document.getElementById('worksGrid').innerHTML = '';
                 document.getElementById('pagination').innerHTML = '';
+                document.getElementById('topAdSlot').style.display = 'none';
+                document.getElementById('bottomAdSlot').style.display = 'none';
                 document.getElementById('noResults').style.display = 'block';
                 document.getElementById('noResults').textContent = 'Type something in the search box above.';
                 return;
             }}
 
+            // Sort most-recent-first by default, same as every other grid page.
             const query = q.toLowerCase();
             currentResults = works.filter(w =>
                 w.title.toLowerCase().includes(query) ||
                 w.author.toLowerCase().includes(query) ||
                 (w.code || '').toLowerCase().includes(query) ||
                 (w.tags || []).some(t => t.toLowerCase().includes(query))
-            );
+            ).sort((a, b) => new Date(b.date) - new Date(a.date));
 
             const noResults = document.getElementById('noResults');
             if (currentResults.length === 0) {{
                 document.getElementById('worksGrid').innerHTML = '';
                 document.getElementById('pagination').innerHTML = '';
+                document.getElementById('topAdSlot').style.display = 'none';
+                document.getElementById('bottomAdSlot').style.display = 'none';
                 noResults.style.display = 'block';
                 noResults.textContent = 'No comics match your search.';
             }} else {{
@@ -1815,7 +1781,7 @@ def _write_tags_index(tag_map):
 # index, regenerated together with tags after every batch flush/delete.
 ARTISTS_DIR = os.path.join(WORK_DIR, "_artists")
 ARTIST_LAYOUT_PATH = os.path.join(WORK_DIR, "_layouts", "artist.html")
-ARTIST_LAYOUT_VERSION = 4
+ARTIST_LAYOUT_VERSION = 6
 ARTISTS_INDEX_PATH = os.path.join(WORK_DIR, "artists", "index.html")
 ARTISTS_INDEX_VERSION = 1
 
@@ -1828,7 +1794,6 @@ ARTIST_LAYOUT_TEMPLATE = f"""<!-- arc-comic-layout-version: {ARTIST_LAYOUT_VERSI
     <link rel="icon" type="image/svg+xml" href="/favicon.svg">
     <title>{{{{ page.artist_name }}}} - Arc Comic</title>
     <meta name="description" content="Browse all manga and doujinshi by {{{{ page.artist_name }}}} on Arc Comic">
-    <script async src="https://ss.mrmnd.com/native.js"></script>
     <style>
         :root {{
             --bg: #0f0f13; --bg-card: #1a1a24; --bg-elevated: #222230;
@@ -1837,7 +1802,8 @@ ARTIST_LAYOUT_TEMPLATE = f"""<!-- arc-comic-layout-version: {ARTIST_LAYOUT_VERSI
         * {{ margin: 0; padding: 0; box-sizing: border-box; }}
         body {{ font-family: 'Segoe UI', system-ui, sans-serif; background: var(--bg); color: var(--text); min-height: 100vh; }}
         .container {{ max-width: 1200px; margin: 0 auto; padding: 24px; }}
-        .logo-link {{ display: inline-flex; text-decoration: none; color: var(--accent); font-weight: 800; font-size: 18px; margin-bottom: 16px; }}
+        .logo-link {{ display: inline-flex; text-decoration: none; color: var(--accent); font-weight: 800; font-size: 18px; }}
+        .tagline {{ color: var(--text-muted); font-size: 12px; margin: 4px 0 16px; text-align: left; }}
         .breadcrumb {{ color: var(--text-muted); font-size: 14px; margin-bottom: 20px; }}
         .breadcrumb a {{ color: var(--accent); text-decoration: none; }}
         h1 {{ font-size: 28px; font-weight: 800; margin-bottom: 8px; }}
@@ -1858,10 +1824,14 @@ ARTIST_LAYOUT_TEMPLATE = f"""<!-- arc-comic-layout-version: {ARTIST_LAYOUT_VERSI
         .work-card .info {{ padding: 10px; }}
         .work-card .info h3 {{ font-size: 13px; font-weight: 600; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }}
         .work-card .info .meta {{ font-size: 11px; color: var(--text-muted); margin-top: 3px; }}
-        .grid-ad-card {{ background: var(--bg-elevated); border-radius: 12px; border: 1px solid var(--border); overflow: hidden; width: 100%; padding-top: 140%; position: relative; }}
-        .grid-ad-card > *:not(.info) {{ position: absolute !important; top: 0 !important; left: 0 !important; width: 100% !important; height: 100% !important; max-width: 100% !important; max-height: 100% !important; object-fit: cover !important; margin: 0 !important; }}
-        .grid-ad-card .info {{ position: absolute; left: 0; right: 0; bottom: 0; padding: 10px; }}
-        .grid-ad-card .info h3 {{ font-size: 11px; font-weight: 600; color: var(--text-muted); text-transform: uppercase; letter-spacing: 0.5px; margin: 0; }}
+        .ad-slot {{
+            margin: 20px 0; display: flex; justify-content: center; align-items: center;
+            min-height: 100px; max-height: 300px; width: 100%;
+            background: var(--bg-card); border-radius: 12px; border: 1px solid var(--border); overflow: hidden;
+        }}
+        .ad-slot > * {{ max-width: 100% !important; max-height: 100% !important;
+            width: auto !important; height: auto !important; }}
+        .ad-slot img, .ad-slot iframe {{ object-fit: contain; }}
         .pagination {{ display: flex; justify-content: center; gap: 8px; flex-wrap: wrap; margin-top: 30px; padding-top: 20px; border-top: 1px solid var(--border); }}
         .pagination a, .pagination span {{ padding: 8px 14px; border-radius: 8px; font-size: 14px; font-weight: 600; text-decoration: none; }}
         .pagination a {{ background: var(--bg-card); color: var(--text); border: 1px solid var(--border); }}
@@ -1874,7 +1844,9 @@ ARTIST_LAYOUT_TEMPLATE = f"""<!-- arc-comic-layout-version: {ARTIST_LAYOUT_VERSI
 <body>
     <div class="container">
         <a href="/" class="logo-link">✨ Arc Comic</a>
+        <div class="tagline">{{{{ site.data.site_meta.tagline_html }}}}</div>
         <div class="breadcrumb"><a href="/">Home</a> › <a href="/artists/">Artists</a> › {{{{ page.artist_name }}}}</div>
+        <div class="ad-slot" id="topAdSlot" data-mndbanid="{BANNER_AD_ZONE_ID}" style="display:none;"></div>
         <h1>✨ {{{{ page.artist_name }}}}</h1>
         <div class="count">{{{{ page.work_count }}}} comic{{% if page.work_count != 1 %}}s{{% endif %}}</div>
         <div class="toolbar">
@@ -1886,6 +1858,7 @@ ARTIST_LAYOUT_TEMPLATE = f"""<!-- arc-comic-layout-version: {ARTIST_LAYOUT_VERSI
         </div>
         <div class="works-grid" id="worksGrid"></div>
         <div class="pagination" id="pagination"></div>
+        <div class="ad-slot" id="bottomAdSlot" data-mndbanid="{BANNER_AD_ZONE_ID}" style="display:none;"></div>
         {{% include follow_us.html %}}
     </div>
     <script>
@@ -1896,32 +1869,30 @@ ARTIST_LAYOUT_TEMPLATE = f"""<!-- arc-comic-layout-version: {ARTIST_LAYOUT_VERSI
                rating: "{{{{ w.rating }}}}", date: "{{{{ w.date }}}}", url: "{{{{ w.url }}}}" }}{{% unless forloop.last %}},{{% endunless %}}
             {{% endfor %}}
         ];
-        const PER_PAGE = 15;
-        function buildCardsWithAd(pageWorks, isFirstPage) {{
-            const cards = pageWorks.map(w => `
+        const PER_PAGE = 16;
+        function buildCards(pageWorks) {{
+            return pageWorks.map(w => `
                 <a href="${{w.url}}" class="work-card">
                     <div class="cover"><img src="${{w.cover}}" alt="${{w.title}}"></div>
                     <div class="info"><h3>${{w.title}}</h3><div class="meta">⭐ ${{w.rating}}</div></div>
                 </a>
-            `);
-            if (!isFirstPage && cards.length > 1) {{
-                const adCard = `<div class="grid-ad-card" data-mndazid="{NATIVE_AD_ZONE_ID}"><div class="info"><h3>Sponsored</h3></div></div>`;
-                cards.splice(1 + Math.floor(Math.random() * cards.length), 0, adCard);
-            }}
-            return cards.join('');
+            `).join('');
         }}
         function render(page) {{
             page = page || 1;
             const mode = document.getElementById('sortSelect').value;
             let sorted = [...works];
-            if (mode === 'recent') sorted.sort((a,b) => new Date(b.date) - new Date(a.date));
-            else if (mode === 'oldest') sorted.sort((a,b) => new Date(a.date) - new Date(b.date));
+            if (mode === 'oldest') sorted.sort((a,b) => new Date(a.date) - new Date(b.date));
             else if (mode === 'rating') sorted.sort((a,b) => parseFloat(b.rating) - parseFloat(a.rating));
+            else sorted.sort((a,b) => new Date(b.date) - new Date(a.date)); // recent (default)
 
             const start = (page - 1) * PER_PAGE;
             const pageWorks = sorted.slice(start, start + PER_PAGE);
-            document.getElementById('worksGrid').innerHTML = buildCardsWithAd(pageWorks, page === 1);
-            rescanNativeAds();
+            document.getElementById('worksGrid').innerHTML = buildCards(pageWorks);
+
+            const showAds = page > 1;
+            document.getElementById('topAdSlot').style.display = showAds ? '' : 'none';
+            document.getElementById('bottomAdSlot').style.display = showAds ? '' : 'none';
 
             const total = Math.ceil(sorted.length / PER_PAGE);
             document.getElementById('pagination').innerHTML = buildPaginationHtml(page, total, 'render');

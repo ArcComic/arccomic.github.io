@@ -1,4 +1,4 @@
-<!-- arc-comic-layout-version: 7 -->
+<!-- arc-comic-layout-version: 8 -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -7,7 +7,6 @@
     <title>{{ page.title }} - Arc Comic</title>
     <meta name="description" content="{{ page.title }} by {{ page.author }} - Arc Comic">
     <script async src="https://ss.mrmnd.com/banner.js"></script>
-    <script async src="https://ss.mrmnd.com/native.js"></script>
     <style>
         :root {
             --bg: #0f0f13; --bg-card: #1a1a24; --bg-elevated: #222230;
@@ -105,14 +104,6 @@
         .similar-info { padding: 10px; }
         .similar-info-title { font-size: 13px; font-weight: 700; line-height: 1.3;
             display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
-        .similar-ad-card {
-            background: var(--bg-elevated); border: 1px solid var(--border); border-radius: 12px;
-            min-height: 180px; max-height: 260px; overflow: hidden;
-            display: flex; justify-content: center; align-items: center;
-        }
-        .similar-ad-card > * { max-width: 100% !important; max-height: 100% !important;
-            width: auto !important; height: auto !important; }
-        .similar-ad-card img, .similar-ad-card iframe { object-fit: cover; }
         .mini-search { display: flex; gap: 8px; margin-bottom: 20px; }
         .mini-search input {
             flex: 1; padding: 10px 14px; background: var(--bg-card); border: 1px solid var(--border);
@@ -223,13 +214,12 @@
                                 <div class="similar-info-title">{{ work.title }}</div>
                             </div>
                         </a>
-                        {% if shown_count == 2 %}
-                        <div class="similar-ad-card" data-mndazid="46474a49-ec2d-4f56-b270-26751ac9202a"></div>
-                        {% endif %}
                     {% endunless %}
                 {% endfor %}
             </div>
         </div>
+
+        <div class="ad-slot" data-mndbanid="6682c345-631e-456b-82ef-cc3bd9dbb29a"></div>
 
         {% include follow_us.html %}
     </div>

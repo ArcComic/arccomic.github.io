@@ -1,6 +1,6 @@
 ---
 ---
-<!-- arc-comic-index-version: 6 -->
+<!-- arc-comic-index-version: 8 -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -9,7 +9,6 @@
     <link rel="icon" type="image/svg+xml" href="/favicon.svg">
     <title id="pageTitle">Search - Arc Comic</title>
     <meta name="description" content="Search manga and doujinshi on Arc Comic">
-    <script async src="https://ss.mrmnd.com/native.js"></script>
     <style>
         :root {
             --bg: #0f0f13; --bg-card: #1a1a24; --bg-elevated: #222230;
@@ -25,6 +24,7 @@
             background: linear-gradient(135deg, var(--accent), #f97316);
             -webkit-background-clip: text; -webkit-text-fill-color: transparent;
         }
+        .tagline { color: var(--text-muted); font-size: 12px; margin-top: 4px; text-align: center; }
         .search-box { max-width: 500px; margin: 20px auto 0; display: flex; gap: 8px; position: relative; }
         .search-box input {
             flex: 1; padding: 14px 20px 14px 48px; background: var(--bg-card); border: 1px solid var(--border);
@@ -46,10 +46,14 @@
         .work-card .info { padding: 10px; }
         .work-card .info h3 { font-size: 13px; font-weight: 600; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
         .work-card .info .meta { font-size: 11px; color: var(--text-muted); margin-top: 3px; }
-        .grid-ad-card { background: var(--bg-elevated); border-radius: 12px; border: 1px solid var(--border); overflow: hidden; width: 100%; padding-top: 140%; position: relative; }
-        .grid-ad-card > *:not(.info) { position: absolute !important; top: 0 !important; left: 0 !important; width: 100% !important; height: 100% !important; max-width: 100% !important; max-height: 100% !important; object-fit: cover !important; margin: 0 !important; }
-        .grid-ad-card .info { position: absolute; left: 0; right: 0; bottom: 0; padding: 10px; }
-        .grid-ad-card .info h3 { font-size: 11px; font-weight: 600; color: var(--text-muted); text-transform: uppercase; letter-spacing: 0.5px; margin: 0; }
+        .ad-slot {
+            margin: 20px 0; display: flex; justify-content: center; align-items: center;
+            min-height: 100px; max-height: 300px; width: 100%;
+            background: var(--bg-card); border-radius: 12px; border: 1px solid var(--border); overflow: hidden;
+        }
+        .ad-slot > * { max-width: 100% !important; max-height: 100% !important;
+            width: auto !important; height: auto !important; }
+        .ad-slot img, .ad-slot iframe { object-fit: contain; }
         .no-results { text-align: center; padding: 60px 20px; color: var(--text-muted); }
         .pagination { display: flex; justify-content: center; gap: 8px; flex-wrap: wrap; margin-top: 30px; padding-top: 20px; border-top: 1px solid var(--border); }
         .pagination a, .pagination span { padding: 8px 14px; border-radius: 8px; font-size: 14px; font-weight: 600; text-decoration: none; }
@@ -64,16 +68,19 @@
     <div class="container">
         <div class="header">
             <a href="/" class="logo-link"><h1>✨ Arc Comic</h1></a>
+            <div class="tagline">{{ site.data.site_meta.tagline_html }}</div>
             <div class="search-box">
                 <span class="search-icon">🔍</span>
                 <input type="text" placeholder="Search by title, author, or tag..." id="searchInput">
                 <button id="searchBtn">Search</button>
             </div>
         </div>
+        <div class="ad-slot" id="topAdSlot" data-mndbanid="6682c345-631e-456b-82ef-cc3bd9dbb29a" style="display:none;"></div>
         <h2 class="results-title" id="resultsTitle">Search Results</h2>
         <div class="works-grid" id="worksGrid"></div>
         <div class="no-results" id="noResults" style="display:none;">No comics match your search.</div>
         <div class="pagination" id="pagination"></div>
+        <div class="ad-slot" id="bottomAdSlot" data-mndbanid="6682c345-631e-456b-82ef-cc3bd9dbb29a" style="display:none;"></div>
         {% include follow_us.html %}
     </div>
     <script>
@@ -110,20 +117,6 @@
             return html;
         }
 
-        // Mondiad's native.js only scans the DOM for data-mndazid slots once,
-        // when it first loads in <head>. Ad cards on this page are injected
-        // later via innerHTML (after sort/filter/page-change), so that one-time
-        // scan never sees them and the slot stays empty. Re-appending a fresh
-        // <script src="native.js"> after every grid re-render forces a new scan
-        // against the current DOM, so newly-injected ad slots actually get
-        // picked up. Safe to call even when no ad card was inserted this render.
-        function rescanNativeAds() {
-            const s = document.createElement('script');
-            s.async = true;
-            s.src = 'https://ss.mrmnd.com/native.js';
-            document.body.appendChild(s);
-        }
-
         const works = [
             {% for post in site.works %}
             {
@@ -133,37 +126,38 @@
                 rating: "{{ post.rating }}",
                 tags: {{ post.tags | jsonify }},
                 code: "{{ post.code }}",
+                date: "{{ post.date }}",
                 url: "{{ post.url }}"
             }{% unless forloop.last %},{% endunless %}
             {% endfor %}
         ];
-        const PER_PAGE = 15;
+        const PER_PAGE = 16;
         let currentResults = [];
 
         function getQueryParam(name) {
             return new URLSearchParams(window.location.search).get(name) || "";
         }
 
-        function buildCardsWithAd(pageWorks, isFirstPage) {
-            const cards = pageWorks.map(w => `
+        function buildCards(pageWorks) {
+            return pageWorks.map(w => `
                 <a href="${w.url}" class="work-card">
                     <div class="cover"><img src="${w.cover}" alt="${w.title}"></div>
                     <div class="info"><h3>${w.title}</h3><div class="meta">${w.author} • ⭐ ${w.rating}</div></div>
                 </a>
-            `);
-            if (!isFirstPage && cards.length > 1) {
-                const adCard = `<div class="grid-ad-card" data-mndazid="46474a49-ec2d-4f56-b270-26751ac9202a"><div class="info"><h3>Sponsored</h3></div></div>`;
-                cards.splice(1 + Math.floor(Math.random() * cards.length), 0, adCard);
-            }
-            return cards.join('');
+            `).join('');
         }
 
         function renderPage(page) {
             page = page || 1;
             const start = (page - 1) * PER_PAGE;
             const pageWorks = currentResults.slice(start, start + PER_PAGE);
-            document.getElementById('worksGrid').innerHTML = buildCardsWithAd(pageWorks, page === 1);
-            rescanNativeAds();
+            document.getElementById('worksGrid').innerHTML = buildCards(pageWorks);
+
+            // Banner ads only from page 2 onward, never on the first
+            // screen of results.
+            const showAds = page > 1;
+            document.getElementById('topAdSlot').style.display = showAds ? '' : 'none';
+            document.getElementById('bottomAdSlot').style.display = showAds ? '' : 'none';
 
             const total = Math.ceil(currentResults.length / PER_PAGE);
             document.getElementById('pagination').innerHTML = buildPaginationHtml(page, total, 'renderPage');
@@ -179,23 +173,28 @@
             if (!q) {
                 document.getElementById('worksGrid').innerHTML = '';
                 document.getElementById('pagination').innerHTML = '';
+                document.getElementById('topAdSlot').style.display = 'none';
+                document.getElementById('bottomAdSlot').style.display = 'none';
                 document.getElementById('noResults').style.display = 'block';
                 document.getElementById('noResults').textContent = 'Type something in the search box above.';
                 return;
             }
 
+            // Sort most-recent-first by default, same as every other grid page.
             const query = q.toLowerCase();
             currentResults = works.filter(w =>
                 w.title.toLowerCase().includes(query) ||
                 w.author.toLowerCase().includes(query) ||
                 (w.code || '').toLowerCase().includes(query) ||
                 (w.tags || []).some(t => t.toLowerCase().includes(query))
-            );
+            ).sort((a, b) => new Date(b.date) - new Date(a.date));
 
             const noResults = document.getElementById('noResults');
             if (currentResults.length === 0) {
                 document.getElementById('worksGrid').innerHTML = '';
                 document.getElementById('pagination').innerHTML = '';
+                document.getElementById('topAdSlot').style.display = 'none';
+                document.getElementById('bottomAdSlot').style.display = 'none';
                 noResults.style.display = 'block';
                 noResults.textContent = 'No comics match your search.';
             } else {

@@ -7,7 +7,7 @@
 # The empty front matter block below is still required so Jekyll processes
 # the Liquid tags (site.google_verification, site.works, etc.) in this file.
 ---
-<!-- arc-comic-index-version: 12 -->
+<!-- arc-comic-index-version: 14 -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -19,7 +19,6 @@
     {% endif %}
     <title>✨ Arc Comic — Manga & Doujinshi Gallery</title>
     <meta name="description" content="Arc Comic — Curated manga and doujinshi gallery">
-    <script async src="https://ss.mrmnd.com/native.js"></script>
     <style>
         :root {
             --bg: #0f0f13; --bg-card: #1a1a24; --bg-elevated: #222230;
@@ -143,30 +142,6 @@
         }
         .work-card .info .meta {
             font-size: 11px; color: var(--text-muted); margin-top: 3px;
-        }
-        .grid-ad-card {
-            background: var(--bg-elevated); border-radius: 12px;
-            border: 1px solid var(--border); overflow: hidden;
-            width: 100%; padding-top: 140%; position: relative;
-        }
-        /* Mondiad injects its creative as a direct child of this box (an
-           <a>/<img>/<div>, whichever the served ad uses) — without
-           forcing it absolute + full-size like .work-card .cover img
-           does for real covers, the injected content renders in-flow at
-           its own natural size and can overflow past the 140% aspect
-           box, which is what was breaking the tags/search/artist grids. */
-        .grid-ad-card > *:not(.info) {
-            position: absolute !important; top: 0 !important; left: 0 !important;
-            width: 100% !important; height: 100% !important;
-            max-width: 100% !important; max-height: 100% !important;
-            object-fit: cover !important; margin: 0 !important;
-        }
-        .grid-ad-card .info {
-            position: absolute; left: 0; right: 0; bottom: 0; padding: 10px;
-        }
-        .grid-ad-card .info h3 {
-            font-size: 11px; font-weight: 600; color: var(--text-muted);
-            text-transform: uppercase; letter-spacing: 0.5px; margin: 0;
         }
         .no-results { text-align: center; padding: 60px 20px; color: var(--text-muted); }
         .pagination {
@@ -294,20 +269,6 @@
             return html;
         }
 
-        // Mondiad's native.js only scans the DOM for data-mndazid slots once,
-        // when it first loads in <head>. Ad cards on this page are injected
-        // later via innerHTML (after sort/filter/page-change), so that one-time
-        // scan never sees them and the slot stays empty. Re-appending a fresh
-        // <script src="native.js"> after every grid re-render forces a new scan
-        // against the current DOM, so newly-injected ad slots actually get
-        // picked up. Safe to call even when no ad card was inserted this render.
-        function rescanNativeAds() {
-            const s = document.createElement('script');
-            s.async = true;
-            s.src = 'https://ss.mrmnd.com/native.js';
-            document.body.appendChild(s);
-        }
-
         const works = [
             {% for post in site.works %}
             {
@@ -324,7 +285,7 @@
             }{% unless forloop.last %},{% endunless %}
             {% endfor %}
         ];
-        const POSTS_PER_PAGE = {{ site.paginate | default: 15 }};
+        const POSTS_PER_PAGE = {{ site.paginate | default: 16 }};
 
         function applyFilters(list) {
             const fullColorOnly = document.getElementById('filterFullColor').checked;
@@ -352,7 +313,12 @@
                     // a real view-window metric is tracked server-side.
                     return sorted.sort((a,b) => parseFloat(b.rating) - parseFloat(a.rating));
                 default:
-                    return sorted; // Default: whatever order the collection provides
+                    // "Sort: Default" (empty value) should behave the same
+                    // as explicitly picking Most Recent, not pass the
+                    // collection through in Jekyll's own (non-chronological)
+                    // iteration order — that was the "not most recent by
+                    // default" bug.
+                    return sorted.sort((a,b) => new Date(b.date) - new Date(a.date));
             }
         }
 
@@ -366,22 +332,13 @@
             `).join('');
         }
 
-        function buildWorkCardsWithAd(pageWorks, isFirstPage) {
-            const cards = pageWorks.map(w => `
+        function buildWorkCards(pageWorks) {
+            return pageWorks.map(w => `
                 <a href="${w.url}" class="work-card">
                     <div class="cover"><img src="${w.cover}" alt="${w.title}"></div>
                     <div class="info"><h3>${w.title}</h3><div class="meta">${w.author} • ⭐ ${w.rating}</div></div>
                 </a>
-            `);
-            // Native ad only on page 2+ (never the homepage's first
-            // impression), inserted at a random position each time the
-            // page renders so it doesn't always land in the same spot.
-            if (!isFirstPage && cards.length > 1) {
-                const adCard = `<div class="grid-ad-card" data-mndazid="46474a49-ec2d-4f56-b270-26751ac9202a"><div class="info"><h3>Sponsored</h3></div></div>`;
-                const pos = 1 + Math.floor(Math.random() * cards.length);
-                cards.splice(pos, 0, adCard);
-            }
-            return cards.join('');
+            `).join('');
         }
 
         function renderWorks(page = 1) {
@@ -407,8 +364,7 @@
 
             const start = (page - 1) * POSTS_PER_PAGE;
             const pageWorks = list.slice(start, start + POSTS_PER_PAGE);
-            grid.innerHTML = buildWorkCardsWithAd(pageWorks, page === 1);
-            rescanNativeAds();
+            grid.innerHTML = buildWorkCards(pageWorks);
             const total = Math.ceil(list.length / POSTS_PER_PAGE);
             document.getElementById('pagination').innerHTML = buildPaginationHtml(page, total, 'renderWorks');
         }

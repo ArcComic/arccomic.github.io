@@ -1,7 +1,5 @@
-🔧 _layouts/post.html updated to v7 (clean layout, no emoji tags, proper Yes/No labels)
-🔧 index.html updated to v12 (favicon, sort/filter toolbar, Latest Upload, working search)
-🔧 _layouts/tag.html updated to v5
-🔧 _layouts/artist.html updated to v4
-🔧 search/index.html updated to v6
-🔧 Regenerated 1464 tag pages
-🔧 Regenerated 565 artist pages
+🔧 _layouts/post.html updated to v8 (clean layout, no emoji tags, proper Yes/No labels)
+🔧 index.html updated to v14 (favicon, sort/filter toolbar, Latest Upload, working search)
+🔧 _layouts/tag.html updated to v7
+🔧 _layouts/artist.html updated to v6
+🔧 search/index.html updated to v8
