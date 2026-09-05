@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "ponytail"
-work_count: 88
+work_count: 90
 works:
   - title: Boku no Kazoku o Sarashimasu Ch. 3
     author: tanaka-aji
@@ -524,6 +524,14 @@ works:
     date: '2026-08-18'
     code: 656319
     url: /works/656319/
+  - title: Nige Chin Complex ~Aza to Kyonyuu Joshi no Chouhatsu ni Bokki Kakushi Nigeta
+      Zako ww~
+    author: kakun
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/660471.jpg
+    rating: 0.0
+    date: '2026-09-05'
+    code: 660471
+    url: /works/660471/
   - title: Meshibe no Sakihokoru Shima de - On the island where pistils are in full
       bloom
     author: saigado-ishoku-dougen
@@ -656,4 +664,11 @@ works:
     date: '2026-08-22'
     code: 674927
     url: /works/674927/
+  - title: Majime na Doukyuusei ga Love Love Namahame Sex o suru made
+    author: takeyuu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678718.jpg
+    rating: 0.0
+    date: '2026-09-05'
+    code: 678718
+    url: /works/678718/
 ---

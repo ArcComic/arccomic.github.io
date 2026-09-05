@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "tankoubon"
-work_count: 43
+work_count: 44
 works:
   - title: Kaisha de Iroiro | Gettin' Busy at the Office
     author: hara-shigeyuki
@@ -298,6 +298,13 @@ works:
     date: '2026-08-31'
     code: 676658
     url: /works/676658/
+  - title: Moshimo Kemono de Kanjitara
+    author: chikiko
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678664.jpg
+    rating: 0.0
+    date: '2026-09-05'
+    code: 678664
+    url: /works/678664/
   - title: Hottokenaino
     author: hara-shigeyuki
     cover: /covers/77864.jpg

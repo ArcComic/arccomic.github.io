@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "drugs"
-work_count: 20
+work_count: 21
 works:
   - title: NTR Anniversary + ) [Syukurin] Mitsuha ~Netorare~ (Kimi no Na wa.) [English]
       [Colorized] by Mikaku
@@ -146,6 +146,14 @@ works:
     date: '2026-08-23'
     code: 675048
     url: /works/675048/
+  - title: 'Drowing in LUST: I Was Drugged By My Shameless Junior | Indeki ~Hikyou na
+      Kouhai ni Oboresaserareta Watashi~'
+    author: mittsuman
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678720.jpg
+    rating: 0.0
+    date: '2026-09-05'
+    code: 678720
+    url: /works/678720/
   - title: Inin Keiyaku | Lewd Pregnancy Contract
     author: yoshiura-kazuya
     cover: /covers/83595.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "incest"
-work_count: 168
+work_count: 169
 works:
   - title: Kindan no Hatemitsu
     author: ryuuta
@@ -352,6 +352,15 @@ works:
     date: '2026-08-25'
     code: 563890
     url: /works/563890/
+  - title: Kimottama Kaa-chan to Kenka Bakari no Neet no Ore ga Kaa-san ni Nakadashi
+      shite kara Nakayoku natta Hanashi - A story about How I, A NEET Who Always Fought
+      with My Gutsy Mother,
+    author: kuruto
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/575674.jpg
+    rating: 0.0
+    date: '2026-09-05'
+    code: 575674
+    url: /works/575674/
   - title: Boku no Kaa-chan ga Hikikomori Neet Debu Aniki no Seishori Onaho ni Natteita
       Hanashi | My Mother is My Fat Shut-in Older NEET Brother's Sex Relief Onahole
     author: tarobaumu

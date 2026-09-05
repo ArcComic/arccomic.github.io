@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole male"
-work_count: 462
+work_count: 463
 works:
   - title: Adoration
     author: kishizuka-kenji
@@ -961,6 +961,15 @@ works:
     date: '2026-03-04'
     code: 573414
     url: /works/573414/
+  - title: Kimottama Kaa-chan to Kenka Bakari no Neet no Ore ga Kaa-san ni Nakadashi
+      shite kara Nakayoku natta Hanashi - A story about How I, A NEET Who Always Fought
+      with My Gutsy Mother,
+    author: kuruto
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/575674.jpg
+    rating: 0.0
+    date: '2026-09-05'
+    code: 575674
+    url: /works/575674/
   - title: Re. Bishoujo Seitokaichou o Seibyou Mochi no Owakon Onna ni Otosu Hanashi
     author: kyouan
     cover: /covers/576288.jpg

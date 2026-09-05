@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "group"
-work_count: 117
+work_count: 118
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -860,4 +860,11 @@ works:
     date: '2026-08-31'
     code: 677234
     url: /works/677234/
+  - title: Akumu Revenge 3 | Nightmare Revenge 3
+    author: coupe
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678643.jpg
+    rating: 0.0
+    date: '2026-09-05'
+    code: 678643
+    url: /works/678643/
 ---

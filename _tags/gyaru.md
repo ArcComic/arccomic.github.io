@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "gyaru"
-work_count: 66
+work_count: 67
 works:
   - title: GalPa!
     author: sakagami-umi
@@ -493,4 +493,12 @@ works:
     date: '2026-09-05'
     code: 678678
     url: /works/678678/
+  - title: I, An Injured Person, Will Become Momiji-San's Dog!! - Keganin no Boku Momiji-san
+      no Inu ni Naru!
+    author: darunekohanten
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678713.jpg
+    rating: 0.0
+    date: '2026-09-05'
+    code: 678713
+    url: /works/678713/
 ---

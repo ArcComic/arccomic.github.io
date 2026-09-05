@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "translated"
-work_count: 807
+work_count: 817
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -1142,6 +1142,14 @@ works:
     date: '2026-07-13'
     code: 514183
     url: /works/514183/
+  - title: My part-time coworker ran away from home and came to work here, but she was
+      too sexy...
+    author: yamakonbu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/515799.jpg
+    rating: 0.0
+    date: '2026-09-05'
+    code: 515799
+    url: /works/515799/
   - title: Nee, Shite Zenpen
     author: chiba-toshirou
     cover: /covers/515857.jpg
@@ -1827,6 +1835,15 @@ works:
     date: '2026-03-04'
     code: 573414
     url: /works/573414/
+  - title: Kimottama Kaa-chan to Kenka Bakari no Neet no Ore ga Kaa-san ni Nakadashi
+      shite kara Nakayoku natta Hanashi - A story about How I, A NEET Who Always Fought
+      with My Gutsy Mother,
+    author: kuruto
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/575674.jpg
+    rating: 0.0
+    date: '2026-09-05'
+    code: 575674
+    url: /works/575674/
   - title: Special EXtra FRIEND SeFrie Tsuma Yukari Vol.02 RE
     author: allegro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/575784.jpg
@@ -4257,6 +4274,14 @@ works:
     date: '2026-08-29'
     code: 660399
     url: /works/660399/
+  - title: Nige Chin Complex ~Aza to Kyonyuu Joshi no Chouhatsu ni Bokki Kakushi Nigeta
+      Zako ww~
+    author: kakun
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/660471.jpg
+    rating: 0.0
+    date: '2026-09-05'
+    code: 660471
+    url: /works/660471/
   - title: Murasaki no Shoumei ~Kuroi Muchuu~ | Purple Illumination ~Dark Trance~
     author: '3104'
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/660867.jpg
@@ -5903,6 +5928,29 @@ works:
     date: '2026-09-05'
     code: 678354
     url: /works/678354/
+  - title: Akumu Revenge 3 | Nightmare Revenge 3
+    author: coupe
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678643.jpg
+    rating: 0.0
+    date: '2026-09-05'
+    code: 678643
+    url: /works/678643/
+  - title: Motoyan Hitozuma Taiiku Kyoushi, Onsen Ryokan nite Kyouei Mizugi de Ochiru
+      | Former delinquent housewife PE teacher, falls in a hot spring inn while wearing
+      a competitive swimsuit
+    author: shiro-maru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678648.jpg
+    rating: 0.0
+    date: '2026-09-05'
+    code: 678648
+    url: /works/678648/
+  - title: Moshimo Kemono de Kanjitara
+    author: chikiko
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678664.jpg
+    rating: 0.0
+    date: '2026-09-05'
+    code: 678664
+    url: /works/678664/
   - title: Kuro Gal JK de Shasei Shitai
     author: fujinoe13b
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678678.jpg
@@ -5910,6 +5958,37 @@ works:
     date: '2026-09-05'
     code: 678678
     url: /works/678678/
+  - title: I, An Injured Person, Will Become Momiji-San's Dog!! - Keganin no Boku Momiji-san
+      no Inu ni Naru!
+    author: darunekohanten
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678713.jpg
+    rating: 0.0
+    date: '2026-09-05'
+    code: 678713
+    url: /works/678713/
+  - title: Why I Can't Resist My Swimmer Girlfriend's Temptations - Ore ga Suieibu Ace
+      no Yuuwaku o Kobamenai Riyuu
+    author: chacharan
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678715.jpg
+    rating: 0.0
+    date: '2026-09-05'
+    code: 678715
+    url: /works/678715/
+  - title: Majime na Doukyuusei ga Love Love Namahame Sex o suru made
+    author: takeyuu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678718.jpg
+    rating: 0.0
+    date: '2026-09-05'
+    code: 678718
+    url: /works/678718/
+  - title: 'Drowing in LUST: I Was Drugged By My Shameless Junior | Indeki ~Hikyou na
+      Kouhai ni Oboresaserareta Watashi~'
+    author: mittsuman
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678720.jpg
+    rating: 0.0
+    date: '2026-09-05'
+    code: 678720
+    url: /works/678720/
   - title: Hottokenaino
     author: hara-shigeyuki
     cover: /covers/77864.jpg

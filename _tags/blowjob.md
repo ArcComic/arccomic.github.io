@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "blowjob"
-work_count: 342
+work_count: 346
 works:
   - title: Love Approach
     author: hanafuda-sakurano
@@ -722,6 +722,15 @@ works:
     date: '2026-03-03'
     code: 574060
     url: /works/574060/
+  - title: Kimottama Kaa-chan to Kenka Bakari no Neet no Ore ga Kaa-san ni Nakadashi
+      shite kara Nakayoku natta Hanashi - A story about How I, A NEET Who Always Fought
+      with My Gutsy Mother,
+    author: kuruto
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/575674.jpg
+    rating: 0.0
+    date: '2026-09-05'
+    code: 575674
+    url: /works/575674/
   - title: Saimin ♥ Saimin | Hypno ♥ Hypno
     author: minamida-usuke
     cover: /covers/576398.jpg
@@ -2528,6 +2537,29 @@ works:
     date: '2026-09-04'
     code: 677731
     url: /works/677731/
+  - title: I, An Injured Person, Will Become Momiji-San's Dog!! - Keganin no Boku Momiji-san
+      no Inu ni Naru!
+    author: darunekohanten
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678713.jpg
+    rating: 0.0
+    date: '2026-09-05'
+    code: 678713
+    url: /works/678713/
+  - title: Majime na Doukyuusei ga Love Love Namahame Sex o suru made
+    author: takeyuu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678718.jpg
+    rating: 0.0
+    date: '2026-09-05'
+    code: 678718
+    url: /works/678718/
+  - title: 'Drowing in LUST: I Was Drugged By My Shameless Junior | Indeki ~Hikyou na
+      Kouhai ni Oboresaserareta Watashi~'
+    author: mittsuman
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678720.jpg
+    rating: 0.0
+    date: '2026-09-05'
+    code: 678720
+    url: /works/678720/
   - title: Jokyoushi - Hot For Teachers | Female Teachers
     author: drill-murata
     cover: /covers/81375.jpg

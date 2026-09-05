@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "schoolgirl uniform"
-work_count: 168
+work_count: 172
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -170,6 +170,14 @@ works:
     date: '2026-04-19'
     code: 512715
     url: /works/512715/
+  - title: My part-time coworker ran away from home and came to work here, but she was
+      too sexy...
+    author: yamakonbu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/515799.jpg
+    rating: 0.0
+    date: '2026-09-05'
+    code: 515799
+    url: /works/515799/
   - title: IKUu!! Zenkou Seito no Mae de Koukai Zecchou-saserareta JK no Matsuro 1 |
       Cumming in Front of the Entire Student Body 1
     author: ouma
@@ -904,6 +912,14 @@ works:
     date: '2026-07-09'
     code: 658005
     url: /works/658005/
+  - title: Nige Chin Complex ~Aza to Kyonyuu Joshi no Chouhatsu ni Bokki Kakushi Nigeta
+      Zako ww~
+    author: kakun
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/660471.jpg
+    rating: 0.0
+    date: '2026-09-05'
+    code: 660471
+    url: /works/660471/
   - title: Shinyuu Tatakitsubushi Kyousou Shiiku Seikatsu | A Life in Captivity The
       Competition to Break My Best Friend
     author: group
@@ -1250,4 +1266,19 @@ works:
     date: '2026-09-05'
     code: 678678
     url: /works/678678/
+  - title: Why I Can't Resist My Swimmer Girlfriend's Temptations - Ore ga Suieibu Ace
+      no Yuuwaku o Kobamenai Riyuu
+    author: chacharan
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678715.jpg
+    rating: 0.0
+    date: '2026-09-05'
+    code: 678715
+    url: /works/678715/
+  - title: Majime na Doukyuusei ga Love Love Namahame Sex o suru made
+    author: takeyuu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678718.jpg
+    rating: 0.0
+    date: '2026-09-05'
+    code: 678718
+    url: /works/678718/
 ---

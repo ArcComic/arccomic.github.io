@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "scanmark"
-work_count: 96
+work_count: 97
 works:
   - title: NTR Anniversary + ) [Syukurin] Mitsuha ~Netorare~ (Kimi no Na wa.) [English]
       [Colorized] by Mikaku
@@ -699,4 +699,11 @@ works:
     date: '2026-08-31'
     code: 677247
     url: /works/677247/
+  - title: Moshimo Kemono de Kanjitara
+    author: chikiko
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678664.jpg
+    rating: 0.0
+    date: '2026-09-05'
+    code: 678664
+    url: /works/678664/
 ---

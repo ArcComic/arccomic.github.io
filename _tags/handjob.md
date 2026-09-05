@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "handjob"
-work_count: 64
+work_count: 65
 works:
   - title: Yuri no o saifu ni shite agemasu ne, Senpai | I'll turn you into Yuri's wallet,
       Senpai
@@ -133,6 +133,15 @@ works:
     date: '2026-04-17'
     code: 566835
     url: /works/566835/
+  - title: Kimottama Kaa-chan to Kenka Bakari no Neet no Ore ga Kaa-san ni Nakadashi
+      shite kara Nakayoku natta Hanashi - A story about How I, A NEET Who Always Fought
+      with My Gutsy Mother,
+    author: kuruto
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/575674.jpg
+    rating: 0.0
+    date: '2026-09-05'
+    code: 575674
+    url: /works/575674/
   - title: Keep Your Eyes
     author: ouji-hiyoko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/578020.jpg

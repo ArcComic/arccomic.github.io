@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sweating"
-work_count: 95
+work_count: 96
 works:
   - title: Kaisha de Iroiro | Gettin' Busy at the Office
     author: hara-shigeyuki
@@ -710,4 +710,11 @@ works:
     date: '2026-08-22'
     code: 674763
     url: /works/674763/
+  - title: Akumu Revenge 3 | Nightmare Revenge 3
+    author: coupe
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678643.jpg
+    rating: 0.0
+    date: '2026-09-05'
+    code: 678643
+    url: /works/678643/
 ---

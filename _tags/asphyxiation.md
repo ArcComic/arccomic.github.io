@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "asphyxiation"
-work_count: 11
+work_count: 12
 works:
   - title: The Last Flight
     author: mr-kurz
@@ -17,6 +17,14 @@ works:
     date: '2026-03-07'
     code: 446018
     url: /works/446018/
+  - title: My part-time coworker ran away from home and came to work here, but she was
+      too sexy...
+    author: yamakonbu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/515799.jpg
+    rating: 0.0
+    date: '2026-09-05'
+    code: 515799
+    url: /works/515799/
   - title: Shut-less
     author: mr-hokke
     cover: /covers/531966.jpg

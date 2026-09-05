@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bondage"
-work_count: 43
+work_count: 44
 works:
   - title: CHOCO x LOVE
     author: highlow
@@ -322,4 +322,12 @@ works:
     date: '2026-08-29'
     code: 676397
     url: /works/676397/
+  - title: 'Drowing in LUST: I Was Drugged By My Shameless Junior | Indeki ~Hikyou na
+      Kouhai ni Oboresaserareta Watashi~'
+    author: mittsuman
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678720.jpg
+    rating: 0.0
+    date: '2026-09-05'
+    code: 678720
+    url: /works/678720/
 ---

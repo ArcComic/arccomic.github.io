@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "nakadashi"
-work_count: 415
+work_count: 420
 works:
   - title: Adoration
     author: kishizuka-kenji
@@ -592,6 +592,14 @@ works:
     date: '2026-07-13'
     code: 514183
     url: /works/514183/
+  - title: My part-time coworker ran away from home and came to work here, but she was
+      too sexy...
+    author: yamakonbu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/515799.jpg
+    rating: 0.0
+    date: '2026-09-05'
+    code: 515799
+    url: /works/515799/
   - title: Watashi wa Kakerareteru kara... | I've been hypnotized, so...
     author: kiraku
     cover: /covers/516164.jpg
@@ -914,6 +922,15 @@ works:
     date: '2026-04-19'
     code: 569195
     url: /works/569195/
+  - title: Kimottama Kaa-chan to Kenka Bakari no Neet no Ore ga Kaa-san ni Nakadashi
+      shite kara Nakayoku natta Hanashi - A story about How I, A NEET Who Always Fought
+      with My Gutsy Mother,
+    author: kuruto
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/575674.jpg
+    rating: 0.0
+    date: '2026-09-05'
+    code: 575674
+    url: /works/575674/
   - title: Saimin ♥ Saimin | Hypno ♥ Hypno
     author: minamida-usuke
     cover: /covers/576398.jpg
@@ -3065,6 +3082,30 @@ works:
     date: '2026-09-05'
     code: 678354
     url: /works/678354/
+  - title: I, An Injured Person, Will Become Momiji-San's Dog!! - Keganin no Boku Momiji-san
+      no Inu ni Naru!
+    author: darunekohanten
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678713.jpg
+    rating: 0.0
+    date: '2026-09-05'
+    code: 678713
+    url: /works/678713/
+  - title: Why I Can't Resist My Swimmer Girlfriend's Temptations - Ore ga Suieibu Ace
+      no Yuuwaku o Kobamenai Riyuu
+    author: chacharan
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678715.jpg
+    rating: 0.0
+    date: '2026-09-05'
+    code: 678715
+    url: /works/678715/
+  - title: 'Drowing in LUST: I Was Drugged By My Shameless Junior | Indeki ~Hikyou na
+      Kouhai ni Oboresaserareta Watashi~'
+    author: mittsuman
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678720.jpg
+    rating: 0.0
+    date: '2026-09-05'
+    code: 678720
+    url: /works/678720/
   - title: Inin Keiyaku | Lewd Pregnancy Contract
     author: yoshiura-kazuya
     cover: /covers/83595.jpg
