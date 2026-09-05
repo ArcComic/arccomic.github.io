@@ -1,6 +1,6 @@
 ---
 ---
-<!-- arc-comic-index-version: 10 -->
+<!-- arc-comic-index-version: 11 -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -158,10 +158,18 @@
         // the containers back out for the no-results/empty-query cases so
         // a later injectAdsIfNeeded() call creates a genuinely new element
         // rather than assuming one from an earlier search is still valid.
+        // Also re-trigger banner.js itself via a freshly-appended <script>
+        // tag each time: its async <head> scan can fire before a visitor
+        // ever reaches page 2, and there's no documented reveal/refresh
+        // API, so a div injected afterward would otherwise still be missed.
         function injectAdsIfNeeded() {
             const slotHtml = '<div class="ad-slot" data-mndbanid="6682c345-631e-456b-82ef-cc3bd9dbb29a"></div>';
             document.getElementById('topAdContainer').innerHTML = slotHtml;
             document.getElementById('bottomAdContainer').innerHTML = slotHtml;
+            const s = document.createElement('script');
+            s.async = true;
+            s.src = 'https://ss.mrmnd.com/banner.js';
+            document.body.appendChild(s);
         }
         function clearAds() {
             document.getElementById('topAdContainer').innerHTML = '';

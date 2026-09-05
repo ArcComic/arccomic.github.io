@@ -1,96 +1,6 @@
 {
-  "total_posts": 548,
+  "total_posts": 549,
   "posts": [
-    {
-      "code": "563342",
-      "title": "Netorare jk Osananajimi Suieibu 3",
-      "success": true,
-      "time": "2026-09-03 19:10:51",
-      "error": null,
-      "google_pinged": true,
-      "indexnow_pinged": true,
-      "post_url": "https://arccomic.github.io/works/563342/"
-    },
-    {
-      "code": "603756",
-      "title": "Metsuki no Warui Kidaruge na Kouhai ni Shiboritorareru | Squeezed Up By My Junior Girl Who Is Gloomy",
-      "success": true,
-      "time": "2026-09-03 19:10:51",
-      "error": null,
-      "google_pinged": true,
-      "indexnow_pinged": true,
-      "post_url": "https://arccomic.github.io/works/603756/"
-    },
-    {
-      "code": "455844",
-      "title": "Haha \u21d2 umi \u21d2 Nanpa \u21d2 Rankou \u21d2 Nikuana. Haha, Ochiru.",
-      "success": true,
-      "time": "2026-09-03 19:10:51",
-      "error": null,
-      "google_pinged": true,
-      "indexnow_pinged": true,
-      "post_url": "https://arccomic.github.io/works/455844/"
-    },
-    {
-      "code": "484852",
-      "title": "Risato",
-      "success": true,
-      "time": "2026-09-03 19:10:51",
-      "error": null,
-      "google_pinged": true,
-      "indexnow_pinged": true,
-      "post_url": "https://arccomic.github.io/works/484852/"
-    },
-    {
-      "code": "265933",
-      "title": "Tsuma no Imouto no Danna ga Ie ni Kiteiruyoudesu | My Sister-In-Law's Husband is Over",
-      "success": true,
-      "time": "2026-09-03 19:10:51",
-      "error": null,
-      "google_pinged": true,
-      "indexnow_pinged": true,
-      "post_url": "https://arccomic.github.io/works/265933/"
-    },
-    {
-      "code": "415060",
-      "title": "Nigiyaka na Rinjin | Lively Neighbors",
-      "success": true,
-      "time": "2026-09-03 19:10:51",
-      "error": null,
-      "google_pinged": true,
-      "indexnow_pinged": true,
-      "post_url": "https://arccomic.github.io/works/415060/"
-    },
-    {
-      "code": "429669",
-      "title": "Hikage | Shade",
-      "success": true,
-      "time": "2026-09-03 19:10:51",
-      "error": null,
-      "google_pinged": true,
-      "indexnow_pinged": true,
-      "post_url": "https://arccomic.github.io/works/429669/"
-    },
-    {
-      "code": "615775",
-      "title": "Rikujoubu no Bokukko Doukyuusei ga Chuunen Komon ni Mesu ni Sareru Ichibu Shijuu",
-      "success": true,
-      "time": "2026-09-03 19:10:51",
-      "error": null,
-      "google_pinged": true,
-      "indexnow_pinged": true,
-      "post_url": "https://arccomic.github.io/works/615775/"
-    },
-    {
-      "code": "179531",
-      "title": "Another Produce -Kaede Takagaki-",
-      "success": true,
-      "time": "2026-09-03 19:10:51",
-      "error": null,
-      "google_pinged": true,
-      "indexnow_pinged": true,
-      "post_url": "https://arccomic.github.io/works/179531/"
-    },
     {
       "code": "632967",
       "title": "Have a nice day.",
@@ -500,8 +410,98 @@
       "google_pinged": true,
       "indexnow_pinged": true,
       "post_url": "https://arccomic.github.io/works/347653/"
+    },
+    {
+      "code": "642023",
+      "title": "Haruna wa Kyou kara Sachiko ni Narimashita.",
+      "success": false,
+      "time": "2026-09-05 19:19:32",
+      "error": "Git push failed: fatal: unable to access 'https://github.com/ArcComic/arccomic.github.io.git/': Could not resolve host: github.com",
+      "google_pinged": true,
+      "indexnow_pinged": false,
+      "post_url": "https://arccomic.github.io/works/642023/"
+    },
+    {
+      "code": "662945",
+      "title": "Yokkyuu Fuman na Musuko no Tsuma wa Gifu no Chinpo de Mesu ni Naru",
+      "success": false,
+      "time": "2026-09-05 19:19:32",
+      "error": "Git push failed: fatal: unable to access 'https://github.com/ArcComic/arccomic.github.io.git/': Could not resolve host: github.com",
+      "google_pinged": true,
+      "indexnow_pinged": false,
+      "post_url": "https://arccomic.github.io/works/662945/"
+    },
+    {
+      "code": "678354",
+      "title": "Gamers!",
+      "success": false,
+      "time": "2026-09-05 19:19:32",
+      "error": "Git push failed: fatal: unable to access 'https://github.com/ArcComic/arccomic.github.io.git/': Could not resolve host: github.com",
+      "google_pinged": true,
+      "indexnow_pinged": false,
+      "post_url": "https://arccomic.github.io/works/678354/"
+    },
+    {
+      "code": "363219",
+      "title": "Okki na Saori-chan wa Bukiyou ni Eroi",
+      "success": false,
+      "time": "2026-09-05 19:19:32",
+      "error": "Git push failed: fatal: unable to access 'https://github.com/ArcComic/arccomic.github.io.git/': Could not resolve host: github.com",
+      "google_pinged": true,
+      "indexnow_pinged": false,
+      "post_url": "https://arccomic.github.io/works/363219/"
+    },
+    {
+      "code": "676528",
+      "title": "Shounen wa, Onee-chan ni Idakare Natsu | A Boy Embraced by His Older Sister: Summer",
+      "success": false,
+      "time": "2026-09-05 19:19:32",
+      "error": "Git push failed: fatal: unable to access 'https://github.com/ArcComic/arccomic.github.io.git/': Could not resolve host: github.com",
+      "google_pinged": true,
+      "indexnow_pinged": false,
+      "post_url": "https://arccomic.github.io/works/676528/"
+    },
+    {
+      "code": "637940",
+      "title": "Atarimae Sex ~Ane to Otouto no Nichijou~ | Natural Sex ~The Daily Life of an Older Sister and Younger Brother~",
+      "success": false,
+      "time": "2026-09-05 19:19:32",
+      "error": "Git push failed: fatal: unable to access 'https://github.com/ArcComic/arccomic.github.io.git/': Could not resolve host: github.com",
+      "google_pinged": true,
+      "indexnow_pinged": false,
+      "post_url": "https://arccomic.github.io/works/637940/"
+    },
+    {
+      "code": "405606",
+      "title": "Natsuyasumi~Boku to oneechan no inaka de hatsutaiken~ |Summer Vacation~My first time with Oneechan in the countryside",
+      "success": false,
+      "time": "2026-09-05 19:19:32",
+      "error": "Git push failed: fatal: unable to access 'https://github.com/ArcComic/arccomic.github.io.git/': Could not resolve host: github.com",
+      "google_pinged": true,
+      "indexnow_pinged": false,
+      "post_url": "https://arccomic.github.io/works/405606/"
+    },
+    {
+      "code": "678678",
+      "title": "Kuro Gal JK de Shasei Shitai",
+      "success": false,
+      "time": "2026-09-05 19:19:32",
+      "error": "Git push failed: fatal: unable to access 'https://github.com/ArcComic/arccomic.github.io.git/': Could not resolve host: github.com",
+      "google_pinged": true,
+      "indexnow_pinged": false,
+      "post_url": "https://arccomic.github.io/works/678678/"
+    },
+    {
+      "code": "542190",
+      "title": "Ally-san wa doko demo ikitai!! 2",
+      "success": true,
+      "time": "2026-09-05 20:23:10",
+      "error": null,
+      "google_pinged": true,
+      "indexnow_pinged": true,
+      "post_url": "https://arccomic.github.io/works/542190/"
     }
   ],
-  "last_error": "Timed out",
-  "last_error_time": "2026-09-04 19:02:41"
+  "last_error": "Git push failed: fatal: unable to access 'https://github.com/ArcComic/arccomic.github.io.git/': Could not resolve host: github.com",
+  "last_error_time": "2026-09-05 19:19:32"
 }

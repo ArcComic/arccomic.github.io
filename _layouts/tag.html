@@ -1,4 +1,4 @@
-<!-- arc-comic-layout-version: 9 -->
+<!-- arc-comic-layout-version: 10 -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -135,6 +135,13 @@
         // where it might start hidden — build and insert a brand-new one
         // via JS only at the exact moment ads should actually show, so
         // banner.js's scan always sees a fresh, already-visible element.
+        // Also: banner.js is an async <head> script, so its one-time scan
+        // can fire before a visitor ever reaches page 2 — a div injected
+        // after that scan already ran would still be missed even though
+        // it's visible. Since there's no documented reveal/refresh API,
+        // we re-trigger the scan ourselves by appending a brand-new
+        // <script src="banner.js"> element, which always re-executes
+        // fresh against the current DOM.
         let adsInjected = false;
         function injectAdsIfNeeded() {
             if (adsInjected) return;
@@ -142,6 +149,10 @@
             const slotHtml = '<div class="ad-slot" data-mndbanid="6682c345-631e-456b-82ef-cc3bd9dbb29a"></div>';
             document.getElementById('topAdContainer').innerHTML = slotHtml;
             document.getElementById('bottomAdContainer').innerHTML = slotHtml;
+            const s = document.createElement('script');
+            s.async = true;
+            s.src = 'https://ss.mrmnd.com/banner.js';
+            document.body.appendChild(s);
         }
         function render(page) {
             page = page || 1;

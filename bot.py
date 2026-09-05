@@ -1293,7 +1293,7 @@ def ensure_index_html():
 # ============== TAG SYSTEM (Stage 3) ==============
 TAGS_DIR = os.path.join(WORK_DIR, "_tags")
 TAG_LAYOUT_PATH = os.path.join(WORK_DIR, "_layouts", "tag.html")
-TAG_LAYOUT_VERSION = 9
+TAG_LAYOUT_VERSION = 10
 TAGS_INDEX_PATH = os.path.join(WORK_DIR, "tags", "index.html")
 TAGS_INDEX_VERSION = 1
 
@@ -1402,6 +1402,13 @@ TAG_LAYOUT_TEMPLATE = f"""<!-- arc-comic-layout-version: {TAG_LAYOUT_VERSION} --
         // where it might start hidden — build and insert a brand-new one
         // via JS only at the exact moment ads should actually show, so
         // banner.js's scan always sees a fresh, already-visible element.
+        // Also: banner.js is an async <head> script, so its one-time scan
+        // can fire before a visitor ever reaches page 2 — a div injected
+        // after that scan already ran would still be missed even though
+        // it's visible. Since there's no documented reveal/refresh API,
+        // we re-trigger the scan ourselves by appending a brand-new
+        // <script src="banner.js"> element, which always re-executes
+        // fresh against the current DOM.
         let adsInjected = false;
         function injectAdsIfNeeded() {{
             if (adsInjected) return;
@@ -1409,6 +1416,10 @@ TAG_LAYOUT_TEMPLATE = f"""<!-- arc-comic-layout-version: {TAG_LAYOUT_VERSION} --
             const slotHtml = '<div class="ad-slot" data-mndbanid="{BANNER_AD_ZONE_ID}"></div>';
             document.getElementById('topAdContainer').innerHTML = slotHtml;
             document.getElementById('bottomAdContainer').innerHTML = slotHtml;
+            const s = document.createElement('script');
+            s.async = true;
+            s.src = 'https://ss.mrmnd.com/banner.js';
+            document.body.appendChild(s);
         }}
         function render(page) {{
             page = page || 1;
@@ -1462,7 +1473,7 @@ def slugify(text):
 
 # ============== SEARCH RESULTS PAGE ==============
 SEARCH_PAGE_PATH = os.path.join(WORK_DIR, "search", "index.html")
-SEARCH_PAGE_VERSION = 10
+SEARCH_PAGE_VERSION = 11
 
 SEARCH_PAGE_TEMPLATE = f"""---
 ---
@@ -1592,10 +1603,18 @@ SEARCH_PAGE_TEMPLATE = f"""---
         // the containers back out for the no-results/empty-query cases so
         // a later injectAdsIfNeeded() call creates a genuinely new element
         // rather than assuming one from an earlier search is still valid.
+        // Also re-trigger banner.js itself via a freshly-appended <script>
+        // tag each time: its async <head> scan can fire before a visitor
+        // ever reaches page 2, and there's no documented reveal/refresh
+        // API, so a div injected afterward would otherwise still be missed.
         function injectAdsIfNeeded() {{
             const slotHtml = '<div class="ad-slot" data-mndbanid="{BANNER_AD_ZONE_ID}"></div>';
             document.getElementById('topAdContainer').innerHTML = slotHtml;
             document.getElementById('bottomAdContainer').innerHTML = slotHtml;
+            const s = document.createElement('script');
+            s.async = true;
+            s.src = 'https://ss.mrmnd.com/banner.js';
+            document.body.appendChild(s);
         }}
         function clearAds() {{
             document.getElementById('topAdContainer').innerHTML = '';
@@ -1853,7 +1872,7 @@ def _write_tags_index(tag_map):
 # index, regenerated together with tags after every batch flush/delete.
 ARTISTS_DIR = os.path.join(WORK_DIR, "_artists")
 ARTIST_LAYOUT_PATH = os.path.join(WORK_DIR, "_layouts", "artist.html")
-ARTIST_LAYOUT_VERSION = 8
+ARTIST_LAYOUT_VERSION = 9
 ARTISTS_INDEX_PATH = os.path.join(WORK_DIR, "artists", "index.html")
 ARTISTS_INDEX_VERSION = 1
 
@@ -1955,7 +1974,9 @@ ARTIST_LAYOUT_TEMPLATE = f"""<!-- arc-comic-layout-version: {ARTIST_LAYOUT_VERSI
         // [data-mndbanid] elements visible in the DOM at its initial scan,
         // so a slot that starts display:none and is revealed later never
         // gets filled. Fix: inject a fresh [data-mndbanid] div via JS only
-        // once ads should actually show.
+        // once ads should actually show. Also re-trigger banner.js itself
+        // via a freshly-appended <script> tag, since its async <head> scan
+        // can fire before page 2 is ever reached and there's no reveal API.
         let adsInjected = false;
         function injectAdsIfNeeded() {{
             if (adsInjected) return;
@@ -1963,6 +1984,10 @@ ARTIST_LAYOUT_TEMPLATE = f"""<!-- arc-comic-layout-version: {ARTIST_LAYOUT_VERSI
             const slotHtml = '<div class="ad-slot" data-mndbanid="{BANNER_AD_ZONE_ID}"></div>';
             document.getElementById('topAdContainer').innerHTML = slotHtml;
             document.getElementById('bottomAdContainer').innerHTML = slotHtml;
+            const s = document.createElement('script');
+            s.async = true;
+            s.src = 'https://ss.mrmnd.com/banner.js';
+            document.body.appendChild(s);
         }}
         function render(page) {{
             page = page || 1;

@@ -1,4 +1,4 @@
-<!-- arc-comic-layout-version: 8 -->
+<!-- arc-comic-layout-version: 9 -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -128,7 +128,9 @@
         // [data-mndbanid] elements visible in the DOM at its initial scan,
         // so a slot that starts display:none and is revealed later never
         // gets filled. Fix: inject a fresh [data-mndbanid] div via JS only
-        // once ads should actually show.
+        // once ads should actually show. Also re-trigger banner.js itself
+        // via a freshly-appended <script> tag, since its async <head> scan
+        // can fire before page 2 is ever reached and there's no reveal API.
         let adsInjected = false;
         function injectAdsIfNeeded() {
             if (adsInjected) return;
@@ -136,6 +138,10 @@
             const slotHtml = '<div class="ad-slot" data-mndbanid="6682c345-631e-456b-82ef-cc3bd9dbb29a"></div>';
             document.getElementById('topAdContainer').innerHTML = slotHtml;
             document.getElementById('bottomAdContainer').innerHTML = slotHtml;
+            const s = document.createElement('script');
+            s.async = true;
+            s.src = 'https://ss.mrmnd.com/banner.js';
+            document.body.appendChild(s);
         }
         function render(page) {
             page = page || 1;
