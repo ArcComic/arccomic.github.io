@@ -8,6 +8,8 @@ import os
 import sys
 import json
 import re
+import html
+import unicodedata
 import time
 import atexit
 import hashlib
@@ -545,6 +547,87 @@ def ensure_post_layout():
           f"(clean layout, no emoji tags, proper Yes/No labels)")
     return True
 
+# ============== SITE TAGLINE ("site_meta") — dashboard-editable, sponsorable ==============
+# Lives in _data/ like social_links.json, so Jekyll reads it directly at build
+# time via site.data.site_meta — no Python string-substitution into the big
+# INDEX_HTML_TEMPLATE f-string is needed, and it self-heals the same way
+# everything else in this file does (see ensure_site_meta below).
+SITE_META_FILE = os.path.join(WORK_DIR, "_data", "site_meta.json")
+
+DEFAULT_TAGLINE = "Art & Story — only 4🌟 Manga & Doujinshi Gallery"
+DEFAULT_SITE_META = {"tagline": DEFAULT_TAGLINE}
+
+# Sponsor-link mini-syntax: (linktext:url) anywhere inside the tagline becomes
+# a clickable link, e.g. "Sponsored by (MangaHost:https://example.com) this week"
+# renders "Sponsored by MangaHost this week" with "MangaHost" as a link.
+# Only http:// and https:// URLs are accepted — anything else (javascript:,
+# data:, etc.) is left as plain literal text instead of becoming a link, since
+# this text is typed into the dashboard by Master and could in principle be
+# copy-pasted from anywhere.
+TAGLINE_LINK_PATTERN = re.compile(r"\(([^():]+):(https?://[^\s()]+)\)")
+
+def render_tagline_html(raw_text):
+    """Turns 'text (linktext:https://url) more text' into safe HTML with a
+    real <a> tag for the (linktext:url) part, and the rest HTML-escaped.
+    Any (linktext:url)-shaped chunk with a non-http(s) URL is left as literal
+    text rather than becoming a link."""
+    parts = []
+    last_end = 0
+    for m in TAGLINE_LINK_PATTERN.finditer(raw_text):
+        parts.append(html.escape(raw_text[last_end:m.start()]))
+        link_text, url = m.group(1), m.group(2)
+        parts.append(
+            f'<a href="{html.escape(url, quote=True)}" target="_blank" '
+            f'rel="sponsored noopener noreferrer">{html.escape(link_text)}</a>'
+        )
+        last_end = m.end()
+    parts.append(html.escape(raw_text[last_end:]))
+    return "".join(parts)
+
+def load_site_meta():
+    meta = None
+    if os.path.exists(SITE_META_FILE):
+        try:
+            with open(SITE_META_FILE, 'r', encoding='utf-8') as f:
+                meta = json.load(f)
+        except Exception:
+            # Corrupted file (bad JSON, truncated write, etc.) — fall back
+            # to defaults instead of crashing, same reasoning as the Jekyll
+            # front-matter self-heal checks elsewhere in this file.
+            meta = None
+    if not isinstance(meta, dict):
+        meta = dict(DEFAULT_SITE_META)
+    if "tagline" not in meta or not str(meta["tagline"]).strip():
+        meta["tagline"] = DEFAULT_TAGLINE
+    return meta
+
+def save_site_meta(meta):
+    os.makedirs(os.path.dirname(SITE_META_FILE), exist_ok=True)
+    tagline = str(meta.get("tagline", "")).strip() or DEFAULT_TAGLINE
+    data = {
+        "tagline": tagline,
+        "tagline_html": render_tagline_html(tagline),
+    }
+    with open(SITE_META_FILE, 'w', encoding='utf-8') as f:
+        json.dump(data, f, indent=2)
+    return data
+
+def ensure_site_meta():
+    """Self-healing: makes sure _data/site_meta.json exists with a valid
+    tagline_html field even if the file was never created or got corrupted,
+    same reasoning as ensure_follow_us_include()'s use of social_links.json."""
+    if os.path.exists(SITE_META_FILE):
+        try:
+            with open(SITE_META_FILE, 'r', encoding='utf-8') as f:
+                meta = json.load(f)
+            if meta.get("tagline") and meta.get("tagline_html"):
+                return False  # already fine
+        except Exception:
+            pass
+    save_site_meta(load_site_meta())
+    print("🔧 _data/site_meta.json created/repaired with default tagline")
+    return True
+
 # ============== SOCIAL LINKS ("Follow Us") ==============
 def load_social_links():
     if os.path.exists(SOCIAL_LINKS_FILE):
@@ -721,11 +804,25 @@ PAGINATION_JS = """
             html += mk(total);
             return html;
         }
+
+        // Mondiad's native.js only scans the DOM for data-mndazid slots once,
+        // when it first loads in <head>. Ad cards on this page are injected
+        // later via innerHTML (after sort/filter/page-change), so that one-time
+        // scan never sees them and the slot stays empty. Re-appending a fresh
+        // <script src="native.js"> after every grid re-render forces a new scan
+        // against the current DOM, so newly-injected ad slots actually get
+        // picked up. Safe to call even when no ad card was inserted this render.
+        function rescanNativeAds() {
+            const s = document.createElement('script');
+            s.async = true;
+            s.src = 'https://ss.mrmnd.com/native.js';
+            document.body.appendChild(s);
+        }
 """
 
 # ============== HOMEPAGE (index.html) ==============
 INDEX_HTML_PATH = os.path.join(WORK_DIR, "index.html")
-INDEX_HTML_VERSION = 9  # bump when the template below changes materially
+INDEX_HTML_VERSION = 11  # bump when the template below changes materially
 
 INDEX_HTML_TEMPLATE = f"""---
 # No 'layout:' key here on purpose — index.html is a complete, self-contained
@@ -874,9 +971,16 @@ INDEX_HTML_TEMPLATE = f"""---
             font-size: 11px; color: var(--text-muted); margin-top: 3px;
         }}
         .grid-ad-card {{
-            background: var(--bg-card); border-radius: 12px;
-            border: 1px dashed var(--border); overflow: hidden;
+            background: var(--bg-elevated); border-radius: 12px;
+            border: 1px solid var(--border); overflow: hidden;
             width: 100%; padding-top: 140%; position: relative;
+        }}
+        .grid-ad-card .info {{
+            position: absolute; left: 0; right: 0; bottom: 0; padding: 10px;
+        }}
+        .grid-ad-card .info h3 {{
+            font-size: 11px; font-weight: 600; color: var(--text-muted);
+            text-transform: uppercase; letter-spacing: 0.5px; margin: 0;
         }}
         .no-results {{ text-align: center; padding: 60px 20px; color: var(--text-muted); }}
         .pagination {{
@@ -914,7 +1018,7 @@ INDEX_HTML_TEMPLATE = f"""---
     <div class="container">
         <div class="header">
             <a href="/" class="logo-link"><h1>✨ Arc Comic</h1></a>
-            <p>Art & Story — Curated Manga & Doujinshi Gallery</p>
+            <p>{{{{ site.data.site_meta.tagline_html }}}}</p>
         </div>
         <div class="search-box">
             <span class="search-icon">🔍</span>
@@ -1041,7 +1145,7 @@ INDEX_HTML_TEMPLATE = f"""---
             // impression), inserted at a random position each time the
             // page renders so it doesn't always land in the same spot.
             if (!isFirstPage && cards.length > 1) {{
-                const adCard = `<div class="grid-ad-card" data-mndazid="{NATIVE_AD_ZONE_ID}"></div>`;
+                const adCard = `<div class="grid-ad-card" data-mndazid="{NATIVE_AD_ZONE_ID}"><div class="info"><h3>Sponsored</h3></div></div>`;
                 const pos = 1 + Math.floor(Math.random() * cards.length);
                 cards.splice(pos, 0, adCard);
             }}
@@ -1072,6 +1176,7 @@ INDEX_HTML_TEMPLATE = f"""---
             const start = (page - 1) * POSTS_PER_PAGE;
             const pageWorks = list.slice(start, start + POSTS_PER_PAGE);
             grid.innerHTML = buildWorkCardsWithAd(pageWorks, page === 1);
+            rescanNativeAds();
             const total = Math.ceil(list.length / POSTS_PER_PAGE);
             document.getElementById('pagination').innerHTML = buildPaginationHtml(page, total, 'renderWorks');
         }}
@@ -1182,7 +1287,7 @@ def ensure_index_html():
 # ============== TAG SYSTEM (Stage 3) ==============
 TAGS_DIR = os.path.join(WORK_DIR, "_tags")
 TAG_LAYOUT_PATH = os.path.join(WORK_DIR, "_layouts", "tag.html")
-TAG_LAYOUT_VERSION = 3
+TAG_LAYOUT_VERSION = 4
 TAGS_INDEX_PATH = os.path.join(WORK_DIR, "tags", "index.html")
 TAGS_INDEX_VERSION = 1
 
@@ -1225,7 +1330,9 @@ TAG_LAYOUT_TEMPLATE = f"""<!-- arc-comic-layout-version: {TAG_LAYOUT_VERSION} --
         .work-card .info {{ padding: 10px; }}
         .work-card .info h3 {{ font-size: 13px; font-weight: 600; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }}
         .work-card .info .meta {{ font-size: 11px; color: var(--text-muted); margin-top: 3px; }}
-        .grid-ad-card {{ background: var(--bg-card); border-radius: 12px; border: 1px dashed var(--border); overflow: hidden; width: 100%; padding-top: 140%; position: relative; }}
+        .grid-ad-card {{ background: var(--bg-elevated); border-radius: 12px; border: 1px solid var(--border); overflow: hidden; width: 100%; padding-top: 140%; position: relative; }}
+        .grid-ad-card .info {{ position: absolute; left: 0; right: 0; bottom: 0; padding: 10px; }}
+        .grid-ad-card .info h3 {{ font-size: 11px; font-weight: 600; color: var(--text-muted); text-transform: uppercase; letter-spacing: 0.5px; margin: 0; }}
         .pagination {{ display: flex; justify-content: center; gap: 8px; flex-wrap: wrap; margin-top: 30px; padding-top: 20px; border-top: 1px solid var(--border); }}
         .pagination a, .pagination span {{ padding: 8px 14px; border-radius: 8px; font-size: 14px; font-weight: 600; text-decoration: none; }}
         .pagination a {{ background: var(--bg-card); color: var(--text); border: 1px solid var(--border); }}
@@ -1269,7 +1376,7 @@ TAG_LAYOUT_TEMPLATE = f"""<!-- arc-comic-layout-version: {TAG_LAYOUT_VERSION} --
                 </a>
             `);
             if (!isFirstPage && cards.length > 1) {{
-                const adCard = `<div class="grid-ad-card" data-mndazid="{NATIVE_AD_ZONE_ID}"></div>`;
+                const adCard = `<div class="grid-ad-card" data-mndazid="{NATIVE_AD_ZONE_ID}"><div class="info"><h3>Sponsored</h3></div></div>`;
                 cards.splice(1 + Math.floor(Math.random() * cards.length), 0, adCard);
             }}
             return cards.join('');
@@ -1285,6 +1392,7 @@ TAG_LAYOUT_TEMPLATE = f"""<!-- arc-comic-layout-version: {TAG_LAYOUT_VERSION} --
             const start = (page - 1) * PER_PAGE;
             const pageWorks = sorted.slice(start, start + PER_PAGE);
             document.getElementById('worksGrid').innerHTML = buildCardsWithAd(pageWorks, page === 1);
+            rescanNativeAds();
 
             const total = Math.ceil(sorted.length / PER_PAGE);
             document.getElementById('pagination').innerHTML = buildPaginationHtml(page, total, 'render');
@@ -1319,7 +1427,7 @@ def slugify(text):
 
 # ============== SEARCH RESULTS PAGE ==============
 SEARCH_PAGE_PATH = os.path.join(WORK_DIR, "search", "index.html")
-SEARCH_PAGE_VERSION = 3
+SEARCH_PAGE_VERSION = 5
 
 SEARCH_PAGE_TEMPLATE = f"""---
 ---
@@ -1369,7 +1477,9 @@ SEARCH_PAGE_TEMPLATE = f"""---
         .work-card .info {{ padding: 10px; }}
         .work-card .info h3 {{ font-size: 13px; font-weight: 600; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }}
         .work-card .info .meta {{ font-size: 11px; color: var(--text-muted); margin-top: 3px; }}
-        .grid-ad-card {{ background: var(--bg-card); border-radius: 12px; border: 1px dashed var(--border); overflow: hidden; width: 100%; padding-top: 140%; position: relative; }}
+        .grid-ad-card {{ background: var(--bg-elevated); border-radius: 12px; border: 1px solid var(--border); overflow: hidden; width: 100%; padding-top: 140%; position: relative; }}
+        .grid-ad-card .info {{ position: absolute; left: 0; right: 0; bottom: 0; padding: 10px; }}
+        .grid-ad-card .info h3 {{ font-size: 11px; font-weight: 600; color: var(--text-muted); text-transform: uppercase; letter-spacing: 0.5px; margin: 0; }}
         .no-results {{ text-align: center; padding: 60px 20px; color: var(--text-muted); }}
         .pagination {{ display: flex; justify-content: center; gap: 8px; flex-wrap: wrap; margin-top: 30px; padding-top: 20px; border-top: 1px solid var(--border); }}
         .pagination a, .pagination span {{ padding: 8px 14px; border-radius: 8px; font-size: 14px; font-weight: 600; text-decoration: none; }}
@@ -1406,6 +1516,7 @@ SEARCH_PAGE_TEMPLATE = f"""---
                 cover: "{{{{ post.cover }}}}",
                 rating: "{{{{ post.rating }}}}",
                 tags: {{{{ post.tags | jsonify }}}},
+                code: "{{{{ post.code }}}}",
                 url: "{{{{ post.url }}}}"
             }}{{% unless forloop.last %}},{{% endunless %}}
             {{% endfor %}}
@@ -1425,7 +1536,7 @@ SEARCH_PAGE_TEMPLATE = f"""---
                 </a>
             `);
             if (!isFirstPage && cards.length > 1) {{
-                const adCard = `<div class="grid-ad-card" data-mndazid="{NATIVE_AD_ZONE_ID}"></div>`;
+                const adCard = `<div class="grid-ad-card" data-mndazid="{NATIVE_AD_ZONE_ID}"><div class="info"><h3>Sponsored</h3></div></div>`;
                 cards.splice(1 + Math.floor(Math.random() * cards.length), 0, adCard);
             }}
             return cards.join('');
@@ -1436,6 +1547,7 @@ SEARCH_PAGE_TEMPLATE = f"""---
             const start = (page - 1) * PER_PAGE;
             const pageWorks = currentResults.slice(start, start + PER_PAGE);
             document.getElementById('worksGrid').innerHTML = buildCardsWithAd(pageWorks, page === 1);
+            rescanNativeAds();
 
             const total = Math.ceil(currentResults.length / PER_PAGE);
             document.getElementById('pagination').innerHTML = buildPaginationHtml(page, total, 'renderPage');
@@ -1460,6 +1572,7 @@ SEARCH_PAGE_TEMPLATE = f"""---
             currentResults = works.filter(w =>
                 w.title.toLowerCase().includes(query) ||
                 w.author.toLowerCase().includes(query) ||
+                (w.code || '').toLowerCase().includes(query) ||
                 (w.tags || []).some(t => t.toLowerCase().includes(query))
             );
 
@@ -1673,7 +1786,7 @@ def _write_tags_index(tag_map):
 # index, regenerated together with tags after every batch flush/delete.
 ARTISTS_DIR = os.path.join(WORK_DIR, "_artists")
 ARTIST_LAYOUT_PATH = os.path.join(WORK_DIR, "_layouts", "artist.html")
-ARTIST_LAYOUT_VERSION = 2
+ARTIST_LAYOUT_VERSION = 3
 ARTISTS_INDEX_PATH = os.path.join(WORK_DIR, "artists", "index.html")
 ARTISTS_INDEX_VERSION = 1
 
@@ -1716,7 +1829,9 @@ ARTIST_LAYOUT_TEMPLATE = f"""<!-- arc-comic-layout-version: {ARTIST_LAYOUT_VERSI
         .work-card .info {{ padding: 10px; }}
         .work-card .info h3 {{ font-size: 13px; font-weight: 600; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }}
         .work-card .info .meta {{ font-size: 11px; color: var(--text-muted); margin-top: 3px; }}
-        .grid-ad-card {{ background: var(--bg-card); border-radius: 12px; border: 1px dashed var(--border); overflow: hidden; width: 100%; padding-top: 140%; position: relative; }}
+        .grid-ad-card {{ background: var(--bg-elevated); border-radius: 12px; border: 1px solid var(--border); overflow: hidden; width: 100%; padding-top: 140%; position: relative; }}
+        .grid-ad-card .info {{ position: absolute; left: 0; right: 0; bottom: 0; padding: 10px; }}
+        .grid-ad-card .info h3 {{ font-size: 11px; font-weight: 600; color: var(--text-muted); text-transform: uppercase; letter-spacing: 0.5px; margin: 0; }}
         .pagination {{ display: flex; justify-content: center; gap: 8px; flex-wrap: wrap; margin-top: 30px; padding-top: 20px; border-top: 1px solid var(--border); }}
         .pagination a, .pagination span {{ padding: 8px 14px; border-radius: 8px; font-size: 14px; font-weight: 600; text-decoration: none; }}
         .pagination a {{ background: var(--bg-card); color: var(--text); border: 1px solid var(--border); }}
@@ -1760,7 +1875,7 @@ ARTIST_LAYOUT_TEMPLATE = f"""<!-- arc-comic-layout-version: {ARTIST_LAYOUT_VERSI
                 </a>
             `);
             if (!isFirstPage && cards.length > 1) {{
-                const adCard = `<div class="grid-ad-card" data-mndazid="{NATIVE_AD_ZONE_ID}"></div>`;
+                const adCard = `<div class="grid-ad-card" data-mndazid="{NATIVE_AD_ZONE_ID}"><div class="info"><h3>Sponsored</h3></div></div>`;
                 cards.splice(1 + Math.floor(Math.random() * cards.length), 0, adCard);
             }}
             return cards.join('');
@@ -1776,6 +1891,7 @@ ARTIST_LAYOUT_TEMPLATE = f"""<!-- arc-comic-layout-version: {ARTIST_LAYOUT_VERSI
             const start = (page - 1) * PER_PAGE;
             const pageWorks = sorted.slice(start, start + PER_PAGE);
             document.getElementById('worksGrid').innerHTML = buildCardsWithAd(pageWorks, page === 1);
+            rescanNativeAds();
 
             const total = Math.ceil(sorted.length / PER_PAGE);
             document.getElementById('pagination').innerHTML = buildPaginationHtml(page, total, 'render');
@@ -2258,6 +2374,40 @@ def generate_md(code, title, author, categories, full_color, cheating,
     ]
     return "\n".join(md_lines)
 
+def patch_work_rating(code, new_rating):
+    """Repairs just the rating on an already-published .md file, in
+    place, without touching any other field. Used by the dashboard's
+    one-click 'Fix Rating' button for posts that got stuck at 0.0 from
+    the bold-label/monospace-value parsing bug (fixed in normalize_text/
+    parse_post_fields going forward, but that fix can't retroactively
+    correct files that already got the wrong value written to disk).
+    Returns True if a change was made, False if the file didn't exist or
+    already had this rating."""
+    md_path = os.path.join(WORKS_DIR, f"{code}.md")
+    if not os.path.exists(md_path):
+        return False, "File not found"
+    with open(md_path, 'r', encoding='utf-8') as f:
+        content = f.read()
+
+    new_content = re.sub(
+        r"^rating:\s*[\d.]+\s*$", f"rating: {new_rating}",
+        content, count=1, flags=re.MULTILINE
+    )
+    # Also fix the human-readable "**Rating:** ⭐ X" line in the post body
+    # so the two don't disagree if anyone opens the raw file.
+    new_content = re.sub(
+        r"(\*\*Rating:\*\*\s*⭐\s*)[\d.]+",
+        rf"\g<1>{new_rating}",
+        new_content
+    )
+
+    if new_content == content:
+        return False, "Rating already correct or field not found"
+
+    with open(md_path, 'w', encoding='utf-8') as f:
+        f.write(new_content)
+    return True, None
+
 # ============== STATS TRACKING ==============
 def load_stats():
     if os.path.exists(STATS_FILE):
@@ -2515,21 +2665,21 @@ def git_push(cfg, code, title, batch_paths=None):
 def normalize_text(text):
     """Collapse Telegram's non-breaking spaces and other invisible
     formatting-boundary characters (which appear when mixing bold and
-    monospace styles) down to plain ASCII spaces. Also strips visible
-    Markdown syntax (**bold**, __bold__, `code`) as a safety net —
-    Telethon's client is set to parse_mode=None so this shouldn't
-    normally be needed (see Bug 11), but this keeps the parser robust
-    even if that ever regresses or a message somehow contains literal
-    markdown source."""
-    replacements = {
-        "\xa0": " ",   # non-breaking space
-        "\u200b": "",  # zero-width space
-        "\u200c": "",  # zero-width non-joiner
-        "\u200d": "",  # zero-width joiner
-        "\ufeff": "",  # BOM / zero-width no-break space
-    }
-    for bad, good in replacements.items():
-        text = text.replace(bad, good)
+    monospace styles, e.g. a bold label right before a monospace value —
+    see the Rating-showing-as-0.0 bug) down to plain ASCII spaces or
+    nothing. Also strips visible Markdown syntax (**bold**, __bold__,
+    `code`) as a safety net — Telethon's client is set to parse_mode=None
+    so this shouldn't normally be needed (see Bug 11), but this keeps the
+    parser robust even if that ever regresses or a message somehow
+    contains literal markdown source.
+
+    Rather than list specific zero-width characters one at a time (which
+    only ever covers the ones we've already noticed break something),
+    this strips the whole Unicode "format" category (Cf) — bidi marks,
+    joiners, and other invisible formatting-boundary characters all live
+    in that category, so this catches variants we haven't seen yet too."""
+    text = text.replace("\xa0", " ")  # non-breaking space -> real space
+    text = "".join(ch for ch in text if unicodedata.category(ch) != "Cf")
     text = re.sub(r'\*\*(.+?)\*\*', r'\1', text)  # **bold**
     text = re.sub(r'__(.+?)__', r'\1', text)      # __bold__
     text = re.sub(r'`(.+?)`', r'\1', text)        # `code`
@@ -3084,6 +3234,31 @@ def _telethon_worker_loop():
                         still_missing.append(code)
                     await _asyncio.sleep(2)
                 return {"status": "ok", "recovered": recovered, "still_missing": still_missing}
+
+            elif action == "fix_rating":
+                # One-click dashboard repair for posts affected by the
+                # bold-label/monospace-value parsing bug (rating stuck at
+                # 0.0 even though the original post had a real rating).
+                # Re-locates the original Telegram post by its code and
+                # re-runs the now-fixed parser against it, then reports
+                # back the correct rating for the caller to write into
+                # the .md file — this job only reads from Telegram, it
+                # doesn't touch any files itself, matching how the rest
+                # of this worker stays file-I/O-free.
+                c = await ensure_client(job["api_id"], job["api_hash"])
+                code = job["code"]
+                channel = job["channel"]
+                target_message = None
+                async for message in c.iter_messages(channel, search=f"Code: {code}", limit=5):
+                    fields = parse_post_fields(message.text or message.message or "")
+                    if fields and fields["code"] == code:
+                        target_message = message
+                        break
+                if not target_message:
+                    return {"status": "error",
+                            "message": f"Could not find the original Telegram post for code {code}"}
+                fields = parse_post_fields(target_message.text or target_message.message or "")
+                return {"status": "ok", "code": code, "rating": fields["rating"]}
 
             return {"status": "error", "message": f"Unknown action: {action}"}
 
@@ -3852,6 +4027,27 @@ DASHBOARD_HTML = """
         </div>
 
         <div class="card">
+            <h2>🏷️ Homepage Tagline</h2>
+            <p style="color:#8888a0;font-size:13px;margin-bottom:10px;">
+                Shown under the logo on the homepage. Can be used for a paid sponsor shoutout.
+            </p>
+            <p style="color:#8888a0;font-size:12px;margin-bottom:10px;line-height:1.5;background:#1a1a24;border:1px solid #2a2a3a;border-radius:8px;padding:10px;">
+                💡 Want a clickable link inside the text? Wrap it like
+                <code style="color:#f59e0b;">(linktext:https://example.com)</code> —
+                e.g. typing <code style="color:#f59e0b;">Sponsored by (MangaHost:https://mangahost.com) this week</code>
+                will show as "Sponsored by <u>MangaHost</u> this week" with MangaHost as a real clickable link.
+                Only <code style="color:#f59e0b;">https://</code> or <code style="color:#f59e0b;">http://</code> links work this way.
+            </p>
+            <textarea id="taglineInput" rows="2" style="width:100%;background:#1a1a24;color:#fff;border:1px solid #2a2a3a;border-radius:8px;padding:10px;font-size:14px;box-sizing:border-box;resize:vertical;"></textarea>
+            <div style="margin-top:10px;font-size:12px;color:#8888a0;">Preview:</div>
+            <div id="taglinePreview" style="margin-top:4px;padding:10px;background:#1a1a24;border:1px solid #2a2a3a;border-radius:8px;font-size:14px;min-height:20px;"></div>
+            <button id="saveTaglineBtn" type="button" style="width:100%;background:#f59e0b;color:#000;border:none;padding:12px;border-radius:10px;font-weight:700;font-size:13px;cursor:pointer;margin-top:10px;">
+                💾 Save Tagline
+            </button>
+            <div class="status" id="taglineStatus"></div>
+        </div>
+
+        <div class="card">
             <h2>🔗 Follow Us Links</h2>
             <p style="color:#8888a0;font-size:13px;margin-bottom:14px;">
                 Shown on every page of the site. Add, edit, reorder, or remove platforms anytime.
@@ -3895,6 +4091,10 @@ DASHBOARD_HTML = """
                         {% if post.post_url %}
                         <a href="{{ post.post_url }}" target="_blank" style="font-size:11px;color:#f59e0b;text-decoration:none;margin-left:auto;">View →</a>
                         {% endif %}
+                        <button class="fix-rating-btn" data-code="{{ post.code }}"
+                                style="background:none;border:1px solid #f59e0b;color:#f59e0b;border-radius:6px;padding:2px 8px;font-size:11px;cursor:pointer;">
+                            🔧 Fix Rating
+                        </button>
                         <button class="delete-btn" data-code="{{ post.code }}" data-time="{{ post.time }}"
                                 style="background:none;border:1px solid #ef4444;color:#ef4444;border-radius:6px;padding:2px 8px;font-size:11px;cursor:pointer;{{ '' if post.post_url else 'margin-left:auto;' }}">
                             Delete
@@ -4202,6 +4402,86 @@ DASHBOARD_HTML = """
             });
         }
 
+        // ---- Homepage tagline ----
+        function escapeHtml(s) {
+            const d = document.createElement('div');
+            d.textContent = s;
+            return d.innerHTML;
+        }
+        function renderTaglinePreview(raw) {
+            // Avoid a backslash-heavy regex literal inside this Python
+            // triple-quoted string (backslash-escaping bugs there are easy
+            // to introduce and hard to spot). Scans for "(...:http...)"
+            // segments manually instead of via RegExp.
+            let out = '';
+            let i = 0;
+            while (i < raw.length) {
+                if (raw[i] === '(') {
+                    const close = raw.indexOf(')', i);
+                    const colon = close === -1 ? -1 : raw.indexOf(':', i);
+                    if (close !== -1 && colon !== -1 && colon < close) {
+                        const linkText = raw.slice(i + 1, colon);
+                        const url = raw.slice(colon + 1, close);
+                        const isHttp = url.indexOf('http://') === 0 || url.indexOf('https://') === 0;
+                        const noNestedParens = linkText.indexOf('(') === -1 && linkText.indexOf(')') === -1
+                            && url.indexOf('(') === -1 && url.indexOf(')') === -1;
+                        if (isHttp && noNestedParens && linkText.length > 0) {
+                            out += `<a href="${escapeHtml(url)}" target="_blank" rel="sponsored noopener noreferrer" style="color:#f59e0b;">${escapeHtml(linkText)}</a>`;
+                            i = close + 1;
+                            continue;
+                        }
+                    }
+                }
+                out += escapeHtml(raw[i]);
+                i++;
+            }
+            return out;
+        }
+        const taglineInput = document.getElementById('taglineInput');
+        const taglinePreview = document.getElementById('taglinePreview');
+        if (taglineInput && taglinePreview) {
+            taglineInput.addEventListener('input', () => {
+                taglinePreview.innerHTML = renderTaglinePreview(taglineInput.value) || '<span style="color:#8888a0;">(empty)</span>';
+            });
+        }
+        async function loadSiteMeta() {
+            try {
+                const res = await fetch('/api/site_meta');
+                const data = await res.json();
+                if (taglineInput) {
+                    taglineInput.value = data.tagline || '';
+                    taglinePreview.innerHTML = renderTaglinePreview(taglineInput.value) || '<span style="color:#8888a0;">(empty)</span>';
+                }
+            } catch (e) { /* dashboard offline */ }
+        }
+        loadSiteMeta();
+
+        const saveTaglineBtn = document.getElementById('saveTaglineBtn');
+        if (saveTaglineBtn) {
+            saveTaglineBtn.addEventListener('click', async () => {
+                saveTaglineBtn.disabled = true;
+                saveTaglineBtn.textContent = 'Saving...';
+                const statusEl = document.getElementById('taglineStatus');
+                try {
+                    const res = await fetch('/api/site_meta', {
+                        method: 'POST',
+                        headers: { 'Content-Type': 'application/json' },
+                        body: JSON.stringify({ tagline: taglineInput.value })
+                    });
+                    const data = await res.json();
+                    statusEl.className = data.status === 'ok' ? 'status success' : 'status error';
+                    statusEl.textContent = data.status === 'ok'
+                        ? '✅ Saved and pushed live'
+                        : '⚠️ Saved locally, but push failed: ' + (data.error || 'unknown error');
+                } catch (e) {
+                    statusEl.className = 'status error';
+                    statusEl.textContent = '❌ Error: ' + e.message;
+                }
+                saveTaglineBtn.disabled = false;
+                saveTaglineBtn.textContent = '💾 Save Tagline';
+            });
+        }
+
         // ---- Follow Us links management ----
         const ICON_OPTIONS = ['telegram', 'youtube', 'facebook', 'twitter', 'website'];
         let socialLinks = [];
@@ -4312,6 +4592,47 @@ DASHBOARD_HTML = """
                 }
             });
         }
+
+        // Fix Rating buttons: re-pull the real rating from the original
+        // Telegram post (using the fixed parser) and patch just that
+        // field on the live site — for posts stuck showing ⭐0.0.
+        document.querySelectorAll('.fix-rating-btn').forEach(btn => {
+            btn.addEventListener('click', async () => {
+                const code = btn.dataset.code;
+                const originalText = btn.textContent;
+                btn.textContent = '...';
+                btn.disabled = true;
+                try {
+                    const res = await fetch('/api/fix_rating', {
+                        method: 'POST',
+                        headers: {'Content-Type': 'application/json'},
+                        body: JSON.stringify({ code })
+                    });
+                    const data = await res.json();
+                    if (data.status === 'ok' && data.changed) {
+                        btn.textContent = `✅ Now ${data.rating}`;
+                        btn.style.borderColor = '#22c55e';
+                        btn.style.color = '#22c55e';
+                    } else if (data.status === 'ok' && !data.changed) {
+                        btn.textContent = `✓ Already ${data.rating}`;
+                        btn.disabled = false;
+                        setTimeout(() => { btn.textContent = originalText; }, 2500);
+                    } else if (data.status === 'saved_but_push_failed') {
+                        btn.textContent = '⚠️ Push failed';
+                        btn.disabled = false;
+                    } else {
+                        btn.textContent = '❌ Failed';
+                        btn.disabled = false;
+                        console.error('Fix rating failed:', data.message || data.error);
+                        setTimeout(() => { btn.textContent = originalText; }, 2500);
+                    }
+                } catch (e) {
+                    btn.textContent = '❌ Error';
+                    btn.disabled = false;
+                    setTimeout(() => { btn.textContent = originalText; }, 2500);
+                }
+            });
+        });
 
         // Delete-post buttons: remove a post's files and history entry
         document.querySelectorAll('.delete-btn').forEach(btn => {
@@ -4455,6 +4776,33 @@ def api_delete_post():
 @app.route("/api/social_links", methods=["GET"])
 def api_get_social_links():
     return jsonify(load_social_links())
+
+@app.route("/api/site_meta", methods=["GET"])
+def api_get_site_meta():
+    return jsonify(load_site_meta())
+
+@app.route("/api/site_meta", methods=["POST"])
+def api_save_site_meta():
+    """Saves the homepage tagline and pushes it live immediately — used for
+    the sponsor-of-the-week text under the logo. Supports an inline
+    (linktext:https://url) mini-syntax that becomes a real clickable link;
+    everything else in the text is shown as plain text."""
+    data = request.get_json()
+    tagline = str(data.get("tagline", "")).strip()
+    if not tagline:
+        return jsonify({"status": "error", "error": "Tagline can't be empty"}), 400
+
+    saved = save_site_meta({"tagline": tagline})
+
+    cfg = load_config()
+    pushed, err = git_push(cfg, "meta", "Update homepage tagline",
+                            batch_paths=[os.path.join("_data", "site_meta.json")])
+    return jsonify({
+        "status": "ok" if pushed else "saved_but_push_failed",
+        "error": err,
+        "tagline": saved["tagline"],
+        "preview_html": saved["tagline_html"],
+    })
 
 @app.route("/api/social_links", methods=["POST"])
 def api_save_social_links():
@@ -4619,6 +4967,58 @@ def api_r2_migrate_status():
             "last_result": _r2_migration_last_result,
         })
 
+@app.route("/api/fix_rating", methods=["POST"])
+def api_fix_rating():
+    """One-click dashboard repair for a single comic stuck showing ⭐0.0
+    due to the bold-label/monospace-value parsing bug. Re-fetches that
+    comic's original Telegram post, re-runs the (now-fixed) parser
+    against it, patches just the rating field in its .md file, and
+    pushes the fix live immediately."""
+    data = request.get_json() or {}
+    code = str(data.get("code", "")).strip()
+    if not code:
+        return jsonify({"status": "error", "message": "No code provided"}), 400
+
+    cfg = load_config()
+    api_id = cfg.get("telegram_api_id", "")
+    api_hash = cfg.get("telegram_api_hash", "")
+    channel = cfg.get("channel_username", "@ArcComic")
+
+    if not (api_id and api_hash):
+        return jsonify({"status": "error",
+                         "message": "Telegram API ID and API Hash required (settings)."}), 400
+    if not is_telethon_authorized(api_id, api_hash):
+        return jsonify({"status": "error",
+                         "message": "Not logged in yet. Use 'Login to Telegram' below first."}), 400
+
+    try:
+        result = _telethon_call("fix_rating", api_id=api_id, api_hash=api_hash,
+                                 code=code, channel=channel, timeout=60)
+    except TimeoutError as e:
+        return jsonify({"status": "error", "message": str(e)}), 504
+
+    if result.get("status") != "ok":
+        return jsonify(result), 400
+
+    new_rating = result["rating"]
+    changed, err = patch_work_rating(code, new_rating)
+    if not changed and err not in (None, "Rating already correct or field not found"):
+        return jsonify({"status": "error", "message": err}), 400
+
+    if not changed:
+        return jsonify({"status": "ok", "rating": new_rating, "changed": False,
+                         "message": f"Rating is already {new_rating} — nothing to push."})
+
+    cfg = load_config()
+    pushed, push_err = git_push(cfg, code, f"Fix rating for #{code}",
+                                 batch_paths=[os.path.join("_works", f"{code}.md")])
+    return jsonify({
+        "status": "ok" if pushed else "saved_but_push_failed",
+        "error": push_err,
+        "rating": new_rating,
+        "changed": True,
+    })
+
 @app.route("/api/backlog/recover_covers", methods=["POST"])
 def api_backlog_recover_covers():
     """Repair endpoint for the cover-deletion bug: re-fetches any cover
@@ -4777,6 +5177,8 @@ if __name__ == "__main__":
         if ensure_post_layout():
             needs_push = True
         if ensure_follow_us_include():
+            needs_push = True
+        if ensure_site_meta():
             needs_push = True
         if ensure_favicon():
             needs_push = True

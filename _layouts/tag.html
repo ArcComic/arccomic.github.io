@@ -1,4 +1,4 @@
-<!-- arc-comic-layout-version: 3 -->
+<!-- arc-comic-layout-version: 4 -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -37,7 +37,9 @@
         .work-card .info { padding: 10px; }
         .work-card .info h3 { font-size: 13px; font-weight: 600; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
         .work-card .info .meta { font-size: 11px; color: var(--text-muted); margin-top: 3px; }
-        .grid-ad-card { background: var(--bg-card); border-radius: 12px; border: 1px dashed var(--border); overflow: hidden; width: 100%; padding-top: 140%; position: relative; }
+        .grid-ad-card { background: var(--bg-elevated); border-radius: 12px; border: 1px solid var(--border); overflow: hidden; width: 100%; padding-top: 140%; position: relative; }
+        .grid-ad-card .info { position: absolute; left: 0; right: 0; bottom: 0; padding: 10px; }
+        .grid-ad-card .info h3 { font-size: 11px; font-weight: 600; color: var(--text-muted); text-transform: uppercase; letter-spacing: 0.5px; margin: 0; }
         .pagination { display: flex; justify-content: center; gap: 8px; flex-wrap: wrap; margin-top: 30px; padding-top: 20px; border-top: 1px solid var(--border); }
         .pagination a, .pagination span { padding: 8px 14px; border-radius: 8px; font-size: 14px; font-weight: 600; text-decoration: none; }
         .pagination a { background: var(--bg-card); color: var(--text); border: 1px solid var(--border); }
@@ -98,6 +100,20 @@
             return html;
         }
 
+        // Mondiad's native.js only scans the DOM for data-mndazid slots once,
+        // when it first loads in <head>. Ad cards on this page are injected
+        // later via innerHTML (after sort/filter/page-change), so that one-time
+        // scan never sees them and the slot stays empty. Re-appending a fresh
+        // <script src="native.js"> after every grid re-render forces a new scan
+        // against the current DOM, so newly-injected ad slots actually get
+        // picked up. Safe to call even when no ad card was inserted this render.
+        function rescanNativeAds() {
+            const s = document.createElement('script');
+            s.async = true;
+            s.src = 'https://ss.mrmnd.com/native.js';
+            document.body.appendChild(s);
+        }
+
         const works = [
             {% for w in page.works %}
             { title: "{{ w.title | escape }}", author: "{{ w.author }}", cover: "{{ w.cover }}",
@@ -113,7 +129,7 @@
                 </a>
             `);
             if (!isFirstPage && cards.length > 1) {
-                const adCard = `<div class="grid-ad-card" data-mndazid="46474a49-ec2d-4f56-b270-26751ac9202a"></div>`;
+                const adCard = `<div class="grid-ad-card" data-mndazid="46474a49-ec2d-4f56-b270-26751ac9202a"><div class="info"><h3>Sponsored</h3></div></div>`;
                 cards.splice(1 + Math.floor(Math.random() * cards.length), 0, adCard);
             }
             return cards.join('');
@@ -129,6 +145,7 @@
             const start = (page - 1) * PER_PAGE;
             const pageWorks = sorted.slice(start, start + PER_PAGE);
             document.getElementById('worksGrid').innerHTML = buildCardsWithAd(pageWorks, page === 1);
+            rescanNativeAds();
 
             const total = Math.ceil(sorted.length / PER_PAGE);
             document.getElementById('pagination').innerHTML = buildPaginationHtml(page, total, 'render');

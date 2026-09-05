@@ -7,13 +7,10 @@
 # The empty front matter block below is still required so Jekyll processes
 # the Liquid tags (site.google_verification, site.works, etc.) in this file.
 ---
-<!-- arc-comic-index-version: 9 -->
-<!-- v9: Popular Today section now hidden on page 2+ (homepage-only spotlight) -->
-
+<!-- arc-comic-index-version: 11 -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta name="google-site-verification" content="bAtYBhcedRXcE__MG2ZDG3X57Mlqv74DCuQjrOxFWs0" />
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -148,9 +145,16 @@
             font-size: 11px; color: var(--text-muted); margin-top: 3px;
         }
         .grid-ad-card {
-            background: var(--bg-card); border-radius: 12px;
-            border: 1px dashed var(--border); overflow: hidden;
+            background: var(--bg-elevated); border-radius: 12px;
+            border: 1px solid var(--border); overflow: hidden;
             width: 100%; padding-top: 140%; position: relative;
+        }
+        .grid-ad-card .info {
+            position: absolute; left: 0; right: 0; bottom: 0; padding: 10px;
+        }
+        .grid-ad-card .info h3 {
+            font-size: 11px; font-weight: 600; color: var(--text-muted);
+            text-transform: uppercase; letter-spacing: 0.5px; margin: 0;
         }
         .no-results { text-align: center; padding: 60px 20px; color: var(--text-muted); }
         .pagination {
@@ -188,7 +192,7 @@
     <div class="container">
         <div class="header">
             <a href="/" class="logo-link"><h1>✨ Arc Comic</h1></a>
-            <p>Art & Story — Curated Manga & Doujinshi Gallery</p>
+            <p>{{ site.data.site_meta.tagline_html }}</p>
         </div>
         <div class="search-box">
             <span class="search-icon">🔍</span>
@@ -278,6 +282,20 @@
             return html;
         }
 
+        // Mondiad's native.js only scans the DOM for data-mndazid slots once,
+        // when it first loads in <head>. Ad cards on this page are injected
+        // later via innerHTML (after sort/filter/page-change), so that one-time
+        // scan never sees them and the slot stays empty. Re-appending a fresh
+        // <script src="native.js"> after every grid re-render forces a new scan
+        // against the current DOM, so newly-injected ad slots actually get
+        // picked up. Safe to call even when no ad card was inserted this render.
+        function rescanNativeAds() {
+            const s = document.createElement('script');
+            s.async = true;
+            s.src = 'https://ss.mrmnd.com/native.js';
+            document.body.appendChild(s);
+        }
+
         const works = [
             {% for post in site.works %}
             {
@@ -347,7 +365,7 @@
             // impression), inserted at a random position each time the
             // page renders so it doesn't always land in the same spot.
             if (!isFirstPage && cards.length > 1) {
-                const adCard = `<div class="grid-ad-card" data-mndazid="46474a49-ec2d-4f56-b270-26751ac9202a"></div>`;
+                const adCard = `<div class="grid-ad-card" data-mndazid="46474a49-ec2d-4f56-b270-26751ac9202a"><div class="info"><h3>Sponsored</h3></div></div>`;
                 const pos = 1 + Math.floor(Math.random() * cards.length);
                 cards.splice(pos, 0, adCard);
             }
@@ -362,10 +380,7 @@
             list = applySort(list, effectiveSort);
 
             // Popular Today is a homepage-only feature — hide it entirely
-            // once the user pages past page 1, so page 2+ is just the
-            // plain comic list (matches how a real paginated page should
-            // look, and keeps "Popular Today" meaningful as a front-page
-            // spotlight rather than repeating on every page).
+            // once the user pages past page 1.
             document.getElementById('popularSection').style.display = (page === 1) ? '' : 'none';
 
             const noResults = document.getElementById('noResults');
@@ -381,6 +396,7 @@
             const start = (page - 1) * POSTS_PER_PAGE;
             const pageWorks = list.slice(start, start + POSTS_PER_PAGE);
             grid.innerHTML = buildWorkCardsWithAd(pageWorks, page === 1);
+            rescanNativeAds();
             const total = Math.ceil(list.length / POSTS_PER_PAGE);
             document.getElementById('pagination').innerHTML = buildPaginationHtml(page, total, 'renderWorks');
         }
