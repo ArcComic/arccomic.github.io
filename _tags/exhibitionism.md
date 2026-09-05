@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "exhibitionism"
-work_count: 41
+work_count: 42
 works:
   - title: Seisozuma Netorase...
     author: maccha-neji
@@ -48,6 +48,13 @@ works:
     date: '2026-08-28'
     code: 520363
     url: /works/520363/
+  - title: Ally-san wa doko demo ikitai!! 2
+    author: inukami-inoji
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/542190.jpg
+    rating: 4.4
+    date: '2026-09-04'
+    code: 542190
+    url: /works/542190/
   - title: Boku no Kaa-chan | My Mom
     author: cammy
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/555792.jpg

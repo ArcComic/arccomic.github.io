@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "cunnilingus"
-work_count: 95
+work_count: 96
 works:
   - title: Love Approach
     author: hanafuda-sakurano
@@ -202,6 +202,13 @@ works:
     date: '2026-07-11'
     code: 538063
     url: /works/538063/
+  - title: Ally-san wa doko demo ikitai!! 2
+    author: inukami-inoji
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/542190.jpg
+    rating: 4.4
+    date: '2026-09-04'
+    code: 542190
+    url: /works/542190/
   - title: Pakokatsu Oji-san to Kaede-chan (1+2+3) | Kaede and The Sugar Daddy
     author: nizigensan
     cover: /covers/543086.jpg

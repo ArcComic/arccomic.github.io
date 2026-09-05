@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole male"
-work_count: 461
+work_count: 462
 works:
   - title: Adoration
     author: kishizuka-kenji
@@ -208,7 +208,7 @@ works:
   - title: Okki na Saori-chan wa Bukiyou ni Eroi
     author: aramaki-echizen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/363219.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-05'
     code: 363219
     url: /works/363219/
@@ -253,7 +253,7 @@ works:
       first time with Oneechan in the countryside
     author: survival-knife
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/405606.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-05'
     code: 405606
     url: /works/405606/
@@ -758,6 +758,13 @@ works:
     date: '2026-05-10'
     code: 540125
     url: /works/540125/
+  - title: Ally-san wa doko demo ikitai!! 2
+    author: inukami-inoji
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/542190.jpg
+    rating: 4.4
+    date: '2026-09-04'
+    code: 542190
+    url: /works/542190/
   - title: Pakokatsu Oji-san to Kaede-chan (1+2+3) | Kaede and The Sugar Daddy
     author: nizigensan
     cover: /covers/543086.jpg
@@ -1714,7 +1721,7 @@ works:
       an Older Sister and Younger Brother~
     author: mochichimaru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/637940.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-05'
     code: 637940
     url: /works/637940/
@@ -1778,7 +1785,7 @@ works:
   - title: Haruna wa Kyou kara Sachiko ni Narimashita.
     author: mashumarodan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642023.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-05'
     code: 642023
     url: /works/642023/
@@ -2768,7 +2775,7 @@ works:
   - title: Yokkyuu Fuman na Musuko no Tsuma wa Gifu no Chinpo de Mesu ni Naru
     author: carburetor
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662945.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-05'
     code: 662945
     url: /works/662945/
@@ -3349,7 +3356,7 @@ works:
       Summer'
     author: sakayama-shinta
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/676528.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-05'
     code: 676528
     url: /works/676528/
@@ -3400,14 +3407,14 @@ works:
   - title: Gamers!
     author: ramanda
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678354.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-05'
     code: 678354
     url: /works/678354/
   - title: Kuro Gal JK de Shasei Shitai
     author: fujinoe13b
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678678.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-05'
     code: 678678
     url: /works/678678/

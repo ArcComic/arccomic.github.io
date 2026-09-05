@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "dark skin"
-work_count: 79
+work_count: 80
 works:
   - title: GalPa!
     author: sakagami-umi
@@ -178,6 +178,13 @@ works:
     date: '2026-08-23'
     code: 531967
     url: /works/531967/
+  - title: Ally-san wa doko demo ikitai!! 2
+    author: inukami-inoji
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/542190.jpg
+    rating: 4.4
+    date: '2026-09-04'
+    code: 542190
+    url: /works/542190/
   - title: Aka-chan Tsukuri no Yoshuu | Preview Lesson About Babymaking
     author: highlow
     cover: /covers/555216.jpg
@@ -575,7 +582,7 @@ works:
   - title: Kuro Gal JK de Shasei Shitai
     author: fujinoe13b
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678678.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-05'
     code: 678678
     url: /works/678678/

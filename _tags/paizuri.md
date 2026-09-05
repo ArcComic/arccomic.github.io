@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "paizuri"
-work_count: 123
+work_count: 124
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -109,6 +109,13 @@ works:
     date: '2026-04-23'
     code: 534641
     url: /works/534641/
+  - title: Ally-san wa doko demo ikitai!! 2
+    author: inukami-inoji
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/542190.jpg
+    rating: 4.4
+    date: '2026-09-04'
+    code: 542190
+    url: /works/542190/
   - title: Kaa-san to Shitai Koto ~ Zetsurin Musuko to no Seikatsu Kaisou Hen | What
       I want to do with My Mother ~ Sex Life with My Son Who Has...
     author: saimon-k
@@ -715,7 +722,7 @@ works:
   - title: Yokkyuu Fuman na Musuko no Tsuma wa Gifu no Chinpo de Mesu ni Naru
     author: carburetor
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662945.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-05'
     code: 662945
     url: /works/662945/
@@ -919,7 +926,7 @@ works:
   - title: Gamers!
     author: ramanda
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678354.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-05'
     code: 678354
     url: /works/678354/

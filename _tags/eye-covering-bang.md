@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "eye-covering bang"
-work_count: 24
+work_count: 25
 works:
   - title: 'Portio Switch CASE: Varicata Portio | Cervix Switch CASE - Extra-hard Cervix'
     author: bang-you-didori
@@ -33,6 +33,13 @@ works:
     date: '2026-04-23'
     code: 534640
     url: /works/534640/
+  - title: Ally-san wa doko demo ikitai!! 2
+    author: inukami-inoji
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/542190.jpg
+    rating: 4.4
+    date: '2026-09-04'
+    code: 542190
+    url: /works/542190/
   - title: Saimin ♥ Saimin | Hypno ♥ Hypno
     author: minamida-usuke
     cover: /covers/576398.jpg

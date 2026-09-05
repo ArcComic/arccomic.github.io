@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "dark skinned female"
-work_count: 12
+work_count: 13
 works:
   - title: Gal to InCha no Kousai Shuukan. | A Week-Long Relation Between a Gyaru and
       an Introvert.
@@ -11,6 +11,13 @@ works:
     date: '2026-09-04'
     code: 347653
     url: /works/347653/
+  - title: Ally-san wa doko demo ikitai!! 2
+    author: inukami-inoji
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/542190.jpg
+    rating: 4.4
+    date: '2026-09-04'
+    code: 542190
+    url: /works/542190/
   - title: Her Predicaments
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/586417.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "wholesome"
-work_count: 85
+work_count: 86
 works:
   - title: FLUFFY LAUGH GIRL
     author: shibasaki-syouzi
@@ -162,6 +162,13 @@ works:
     date: '2026-07-11'
     code: 538553
     url: /works/538553/
+  - title: Ally-san wa doko demo ikitai!! 2
+    author: inukami-inoji
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/542190.jpg
+    rating: 4.4
+    date: '2026-09-04'
+    code: 542190
+    url: /works/542190/
   - title: Ore wa Yome ni Sakaraenai... Seiheki o Nigirareteiru | I Can't Say No To
       My Wife... She's Got Me By The Balls!
     author: inu
@@ -628,7 +635,7 @@ works:
   - title: Gamers!
     author: ramanda
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678354.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-05'
     code: 678354
     url: /works/678354/

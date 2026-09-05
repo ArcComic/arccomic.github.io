@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "masturbation"
-work_count: 71
+work_count: 72
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -128,6 +128,13 @@ works:
     date: '2026-03-09'
     code: 535875
     url: /works/535875/
+  - title: Ally-san wa doko demo ikitai!! 2
+    author: inukami-inoji
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/542190.jpg
+    rating: 4.4
+    date: '2026-09-04'
+    code: 542190
+    url: /works/542190/
   - title: Nakayoku no Yu e Youkoso Ch. 2 & 3
     author: enomoto-heights
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/555849.jpg
@@ -529,7 +536,7 @@ works:
   - title: Gamers!
     author: ramanda
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678354.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-05'
     code: 678354
     url: /works/678354/

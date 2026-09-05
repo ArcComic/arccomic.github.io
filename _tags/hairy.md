@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "hairy"
-work_count: 153
+work_count: 154
 works:
   - title: Adoration
     author: kishizuka-kenji
@@ -85,7 +85,7 @@ works:
   - title: Okki na Saori-chan wa Bukiyou ni Eroi
     author: aramaki-echizen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/363219.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-05'
     code: 363219
     url: /works/363219/
@@ -337,6 +337,13 @@ works:
     date: '2026-04-19'
     code: 541631
     url: /works/541631/
+  - title: Ally-san wa doko demo ikitai!! 2
+    author: inukami-inoji
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/542190.jpg
+    rating: 4.4
+    date: '2026-09-04'
+    code: 542190
+    url: /works/542190/
   - title: Pakokatsu Oji-san to Kaede-chan (1+2+3) | Kaede and The Sugar Daddy
     author: nizigensan
     cover: /covers/543086.jpg
@@ -1119,14 +1126,14 @@ works:
   - title: Gamers!
     author: ramanda
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678354.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-05'
     code: 678354
     url: /works/678354/
   - title: Kuro Gal JK de Shasei Shitai
     author: fujinoe13b
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678678.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-05'
     code: 678678
     url: /works/678678/

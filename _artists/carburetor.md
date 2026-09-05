@@ -25,7 +25,7 @@ works:
     url: /works/584934/
   - title: Yokkyuu Fuman na Musuko no Tsuma wa Gifu no Chinpo de Mesu ni Naru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662945.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-05'
     code: 662945
     url: /works/662945/

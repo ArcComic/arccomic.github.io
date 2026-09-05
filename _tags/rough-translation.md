@@ -734,7 +734,7 @@ works:
       an Older Sister and Younger Brother~
     author: mochichimaru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/637940.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-05'
     code: 637940
     url: /works/637940/
@@ -776,7 +776,7 @@ works:
   - title: Haruna wa Kyou kara Sachiko ni Narimashita.
     author: mashumarodan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642023.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-05'
     code: 642023
     url: /works/642023/
@@ -1666,7 +1666,7 @@ works:
   - title: Yokkyuu Fuman na Musuko no Tsuma wa Gifu no Chinpo de Mesu ni Naru
     author: carburetor
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662945.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-05'
     code: 662945
     url: /works/662945/
@@ -2302,7 +2302,7 @@ works:
       Summer'
     author: sakayama-shinta
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/676528.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-05'
     code: 676528
     url: /works/676528/
@@ -2361,7 +2361,7 @@ works:
   - title: Kuro Gal JK de Shasei Shitai
     author: fujinoe13b
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678678.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-05'
     code: 678678
     url: /works/678678/

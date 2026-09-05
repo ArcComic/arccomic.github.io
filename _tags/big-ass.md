@@ -50,7 +50,7 @@ works:
   - title: Okki na Saori-chan wa Bukiyou ni Eroi
     author: aramaki-echizen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/363219.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-05'
     code: 363219
     url: /works/363219/
@@ -821,7 +821,7 @@ works:
       Summer'
     author: sakayama-shinta
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/676528.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-05'
     code: 676528
     url: /works/676528/
@@ -837,14 +837,14 @@ works:
   - title: Gamers!
     author: ramanda
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678354.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-05'
     code: 678354
     url: /works/678354/
   - title: Kuro Gal JK de Shasei Shitai
     author: fujinoe13b
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678678.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-05'
     code: 678678
     url: /works/678678/
