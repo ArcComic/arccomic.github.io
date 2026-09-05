@@ -24,14 +24,14 @@
     "icon": "telegram",
     "label": "Arc Comics Bot",
     "platform": "",
-    "sublabel": "Convert nhentai Codes into Link in One Click",
+    "sublabel": "Convert adult manga Codes into Link in One Click",
     "url": "https://t.me/ArcComicbot"
   },
   {
-    "platform": "",
+    "icon": "telegram",
     "label": "InsideAds - Monetization Platform",
+    "platform": "",
     "sublabel": "Monetize Telegram & Instagram 1M Creator Joined Already",
-    "url": "https://t.me/InsideAds_bot/open?startapp=r_5083713667",
-    "icon": "telegram"
+    "url": "https://t.me/InsideAds_bot/open?startapp=r_5083713667"
   }
 ]
