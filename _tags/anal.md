@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "anal"
-work_count: 82
+work_count: 83
 works:
   - title: Hitozuma Hyakka
     author: hase-tsubura
@@ -601,6 +601,13 @@ works:
     date: '2026-08-31'
     code: 676658
     url: /works/676658/
+  - title: Gamers!
+    author: ramanda
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678354.jpg
+    rating: 0.0
+    date: '2026-09-05'
+    code: 678354
+    url: /works/678354/
   - title: Jokyoushi - Hot For Teachers | Female Teachers
     author: drill-murata
     cover: /covers/81375.jpg

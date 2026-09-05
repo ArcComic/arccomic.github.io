@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "hairy"
-work_count: 150
+work_count: 153
 works:
   - title: Adoration
     author: kishizuka-kenji
@@ -82,6 +82,13 @@ works:
     date: '2026-04-17'
     code: 359864
     url: /works/359864/
+  - title: Okki na Saori-chan wa Bukiyou ni Eroi
+    author: aramaki-echizen
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/363219.jpg
+    rating: 0.0
+    date: '2026-09-05'
+    code: 363219
+    url: /works/363219/
   - title: Toshishita Chin Kui Obasan
     author: maccha-neji
     cover: /covers/387637.jpg
@@ -1109,4 +1116,18 @@ works:
     date: '2026-08-28'
     code: 676149
     url: /works/676149/
+  - title: Gamers!
+    author: ramanda
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678354.jpg
+    rating: 0.0
+    date: '2026-09-05'
+    code: 678354
+    url: /works/678354/
+  - title: Kuro Gal JK de Shasei Shitai
+    author: fujinoe13b
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678678.jpg
+    rating: 0.0
+    date: '2026-09-05'
+    code: 678678
+    url: /works/678678/
 ---

@@ -1,8 +1,16 @@
 ---
 layout: tag
 tag_name: "cousin"
-work_count: 10
+work_count: 12
 works:
+  - title: Natsuyasumi~Boku to oneechan no inaka de hatsutaiken~ |Summer Vacation~My
+      first time with Oneechan in the countryside
+    author: survival-knife
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/405606.jpg
+    rating: 0.0
+    date: '2026-09-05'
+    code: 405606
+    url: /works/405606/
   - title: Koibito no Furi Shite Tara, Iki Goe ga…. Yukata Sugata no Kyonyuu Oneesan
       ni, Tamarazu Sounyuu 1 I Can’t Stop Myself From Penetrating My Big Boobed Older
       Female Cousin 1
@@ -79,4 +87,12 @@ works:
     date: '2026-09-04'
     code: 669459
     url: /works/669459/
+  - title: 'Shounen wa, Onee-chan ni Idakare Natsu | A Boy Embraced by His Older Sister:
+      Summer'
+    author: sakayama-shinta
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/676528.jpg
+    rating: 0.0
+    date: '2026-09-05'
+    code: 676528
+    url: /works/676528/
 ---

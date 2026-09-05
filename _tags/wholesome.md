@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "wholesome"
-work_count: 84
+work_count: 85
 works:
   - title: FLUFFY LAUGH GIRL
     author: shibasaki-syouzi
@@ -625,4 +625,11 @@ works:
     date: '2026-09-04'
     code: 677418
     url: /works/677418/
+  - title: Gamers!
+    author: ramanda
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678354.jpg
+    rating: 0.0
+    date: '2026-09-05'
+    code: 678354
+    url: /works/678354/
 ---

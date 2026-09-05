@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sister"
-work_count: 42
+work_count: 43
 works:
   - title: Onee-chan ga Ecchi na Koto bakka Suru kara... | My older sister only does
       obscene things...
@@ -128,6 +128,14 @@ works:
     date: '2026-07-13'
     code: 636802
     url: /works/636802/
+  - title: Atarimae Sex ~Ane to Otouto no Nichijou~ | Natural Sex ~The Daily Life of
+      an Older Sister and Younger Brother~
+    author: mochichimaru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/637940.jpg
+    rating: 0.0
+    date: '2026-09-05'
+    code: 637940
+    url: /works/637940/
   - title: Akogare no Hito wa Mou Owari! 2
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642585.jpg

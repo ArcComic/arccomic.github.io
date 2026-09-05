@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "full color"
-work_count: 136
+work_count: 137
 works:
   - title: Tsuma wo Yariman ni Shimasu Shakkin no Tame desu kara.
     author: pietoro
@@ -863,6 +863,13 @@ works:
     date: '2026-07-06'
     code: 661664
     url: /works/661664/
+  - title: Yokkyuu Fuman na Musuko no Tsuma wa Gifu no Chinpo de Mesu ni Naru
+    author: carburetor
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662945.jpg
+    rating: 0.0
+    date: '2026-09-05'
+    code: 662945
+    url: /works/662945/
   - title: Hahaoya to Sex Shita Kibun wa Dou? | How Does it Feel to have Sex with your
       Mom?
     author: temperature

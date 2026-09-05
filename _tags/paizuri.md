@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "paizuri"
-work_count: 121
+work_count: 123
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -712,6 +712,13 @@ works:
     date: '2026-07-08'
     code: 662370
     url: /works/662370/
+  - title: Yokkyuu Fuman na Musuko no Tsuma wa Gifu no Chinpo de Mesu ni Naru
+    author: carburetor
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662945.jpg
+    rating: 0.0
+    date: '2026-09-05'
+    code: 662945
+    url: /works/662945/
   - title: Gal to Otaku no Idenshi Aishou Batsugun H | The Superb Genetic Compatibility
       Between a Gyaru and an Otaku
     author: joucho
@@ -909,4 +916,11 @@ works:
     date: '2026-09-04'
     code: 677418
     url: /works/677418/
+  - title: Gamers!
+    author: ramanda
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678354.jpg
+    rating: 0.0
+    date: '2026-09-05'
+    code: 678354
+    url: /works/678354/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "shotacon"
-work_count: 74
+work_count: 77
 works:
   - title: Hitozuma Hyakka
     author: hase-tsubura
@@ -83,6 +83,14 @@ works:
     date: '2026-04-30'
     code: 392475
     url: /works/392475/
+  - title: Natsuyasumi~Boku to oneechan no inaka de hatsutaiken~ |Summer Vacation~My
+      first time with Oneechan in the countryside
+    author: survival-knife
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/405606.jpg
+    rating: 0.0
+    date: '2026-09-05'
+    code: 405606
+    url: /works/405606/
   - title: Tonari no Onee-san no Shitagi o Nusundara Kiseki ga Okita Hanashi o Shiyou
       |  Let’s Talk About the Story of A Miracle that Happened When I Stole the Underwear
       of the Lady Next Door
@@ -286,6 +294,14 @@ works:
     date: '2026-08-25'
     code: 637847
     url: /works/637847/
+  - title: Atarimae Sex ~Ane to Otouto no Nichijou~ | Natural Sex ~The Daily Life of
+      an Older Sister and Younger Brother~
+    author: mochichimaru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/637940.jpg
+    rating: 0.0
+    date: '2026-09-05'
+    code: 637940
+    url: /works/637940/
   - title: Sawatte Mitai? | Do You Wanna Touch?
     author: rondonko
     cover: /covers/644309.jpg
@@ -536,6 +552,14 @@ works:
     date: '2026-08-29'
     code: 676458
     url: /works/676458/
+  - title: 'Shounen wa, Onee-chan ni Idakare Natsu | A Boy Embraced by His Older Sister:
+      Summer'
+    author: sakayama-shinta
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/676528.jpg
+    rating: 0.0
+    date: '2026-09-05'
+    code: 676528
+    url: /works/676528/
   - title: Jokyoushi - Hot For Teachers | Female Teachers
     author: drill-murata
     cover: /covers/81375.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "mosaic censorship"
-work_count: 180
+work_count: 181
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -1126,6 +1126,13 @@ works:
     date: '2026-07-10'
     code: 662877
     url: /works/662877/
+  - title: Yokkyuu Fuman na Musuko no Tsuma wa Gifu no Chinpo de Mesu ni Naru
+    author: carburetor
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662945.jpg
+    rating: 0.0
+    date: '2026-09-05'
+    code: 662945
+    url: /works/662945/
   - title: Hahaoya to Sex Shita Kibun wa Dou? | How Does it Feel to have Sex with your
       Mom?
     author: temperature

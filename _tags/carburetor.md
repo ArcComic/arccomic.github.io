@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "carburetor"
-work_count: 3
+work_count: 4
 works:
   - title: Shiraishi-san Wa Yokkyu Fuman | Shiraishi-san's Frustrated
     author: carburetor
@@ -26,4 +26,11 @@ works:
     date: '2026-08-24'
     code: 584934
     url: /works/584934/
+  - title: Yokkyuu Fuman na Musuko no Tsuma wa Gifu no Chinpo de Mesu ni Naru
+    author: carburetor
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662945.jpg
+    rating: 0.0
+    date: '2026-09-05'
+    code: 662945
+    url: /works/662945/
 ---

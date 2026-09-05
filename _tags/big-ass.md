@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big ass"
-work_count: 111
+work_count: 115
 works:
   - title: My Care Lady Ch. 1
     author: sugi-g
@@ -47,6 +47,13 @@ works:
     date: '2026-04-27'
     code: 357965
     url: /works/357965/
+  - title: Okki na Saori-chan wa Bukiyou ni Eroi
+    author: aramaki-echizen
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/363219.jpg
+    rating: 0.0
+    date: '2026-09-05'
+    code: 363219
+    url: /works/363219/
   - title: Toshishita Chin Kui Obasan
     author: maccha-neji
     cover: /covers/387637.jpg
@@ -810,6 +817,14 @@ works:
     date: '2026-08-29'
     code: 676439
     url: /works/676439/
+  - title: 'Shounen wa, Onee-chan ni Idakare Natsu | A Boy Embraced by His Older Sister:
+      Summer'
+    author: sakayama-shinta
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/676528.jpg
+    rating: 0.0
+    date: '2026-09-05'
+    code: 676528
+    url: /works/676528/
   - title: Nijigen Otaku no Ore ga Tenkou Shite Kita Kyonyuu Idol ni Otosareru made
       - A 2D Otaku Falls for the Curvy Idol Transfer Student | How I, a 2D-Obsessed
       Otaku, Fell for the Busty Idol Who Transferred to My School
@@ -819,6 +834,20 @@ works:
     date: '2026-09-04'
     code: 677731
     url: /works/677731/
+  - title: Gamers!
+    author: ramanda
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678354.jpg
+    rating: 0.0
+    date: '2026-09-05'
+    code: 678354
+    url: /works/678354/
+  - title: Kuro Gal JK de Shasei Shitai
+    author: fujinoe13b
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678678.jpg
+    rating: 0.0
+    date: '2026-09-05'
+    code: 678678
+    url: /works/678678/
   - title: Inin Keiyaku | Lewd Pregnancy Contract
     author: yoshiura-kazuya
     cover: /covers/83595.jpg

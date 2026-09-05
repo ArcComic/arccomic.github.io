@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "schoolgirl uniform"
-work_count: 166
+work_count: 168
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -68,6 +68,13 @@ works:
     date: '2026-09-04'
     code: 347653
     url: /works/347653/
+  - title: Okki na Saori-chan wa Bukiyou ni Eroi
+    author: aramaki-echizen
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/363219.jpg
+    rating: 0.0
+    date: '2026-09-05'
+    code: 363219
+    url: /works/363219/
   - title: NTR Anniversary + ) [Syukurin] Mitsuha ~Netorare~ (Kimi no Na wa.) [English]
       [Colorized] by Mikaku
     author: arakure
@@ -1236,4 +1243,11 @@ works:
     date: '2026-09-04'
     code: 677731
     url: /works/677731/
+  - title: Kuro Gal JK de Shasei Shitai
+    author: fujinoe13b
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678678.jpg
+    rating: 0.0
+    date: '2026-09-05'
+    code: 678678
+    url: /works/678678/
 ---

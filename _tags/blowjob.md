@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "blowjob"
-work_count: 339
+work_count: 342
 works:
   - title: Love Approach
     author: hanafuda-sakurano
@@ -150,6 +150,14 @@ works:
     date: '2026-04-30'
     code: 392475
     url: /works/392475/
+  - title: Natsuyasumi~Boku to oneechan no inaka de hatsutaiken~ |Summer Vacation~My
+      first time with Oneechan in the countryside
+    author: survival-knife
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/405606.jpg
+    rating: 0.0
+    date: '2026-09-05'
+    code: 405606
+    url: /works/405606/
   - title: The Last Flight
     author: mr-kurz
     cover: /covers/408822.jpg
@@ -1377,6 +1385,13 @@ works:
     date: '2026-08-19'
     code: 641362
     url: /works/641362/
+  - title: Haruna wa Kyou kara Sachiko ni Narimashita.
+    author: mashumarodan
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642023.jpg
+    rating: 0.0
+    date: '2026-09-05'
+    code: 642023
+    url: /works/642023/
   - title: Akogare no Hito wa Mou Owari!
     author: orange-mimosa
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642584.jpg
@@ -2083,6 +2098,13 @@ works:
     date: '2026-07-10'
     code: 662890
     url: /works/662890/
+  - title: Yokkyuu Fuman na Musuko no Tsuma wa Gifu no Chinpo de Mesu ni Naru
+    author: carburetor
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662945.jpg
+    rating: 0.0
+    date: '2026-09-05'
+    code: 662945
+    url: /works/662945/
   - title: Hontou no Shinkon Seikatsu wa, Oji-san no Ie de Hajimattemasu | My real life
       as a newlywed has begun at the Oji-san's house.
     author: damda

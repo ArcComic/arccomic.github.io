@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "femdom"
-work_count: 85
+work_count: 86
 works:
   - title: Life with Married Women Just Like a Manga 2 - Ch. 1-5
     author: hidemaru
@@ -60,6 +60,13 @@ works:
     date: '2026-04-27'
     code: 357965
     url: /works/357965/
+  - title: Okki na Saori-chan wa Bukiyou ni Eroi
+    author: aramaki-echizen
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/363219.jpg
+    rating: 0.0
+    date: '2026-09-05'
+    code: 363219
+    url: /works/363219/
   - title: Suki Araba Kareshi no Seiheki o Yugametai! ~Kimi no Aegi ga Mada Tarinai~
     author: meeko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/376189.jpg

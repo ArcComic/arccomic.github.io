@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "incest"
-work_count: 163
+work_count: 168
 works:
   - title: Kindan no Hatemitsu
     author: ryuuta
@@ -76,6 +76,14 @@ works:
     date: '2026-04-25'
     code: 388099
     url: /works/388099/
+  - title: Natsuyasumi~Boku to oneechan no inaka de hatsutaiken~ |Summer Vacation~My
+      first time with Oneechan in the countryside
+    author: survival-knife
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/405606.jpg
+    rating: 0.0
+    date: '2026-09-05'
+    code: 405606
+    url: /works/405606/
   - title: Imouto no Nukumori | A Little Sister's warmth
     author: kinomoto-anzu
     cover: /covers/407959.jpg
@@ -579,6 +587,14 @@ works:
     date: '2026-08-25'
     code: 637131
     url: /works/637131/
+  - title: Atarimae Sex ~Ane to Otouto no Nichijou~ | Natural Sex ~The Daily Life of
+      an Older Sister and Younger Brother~
+    author: mochichimaru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/637940.jpg
+    rating: 0.0
+    date: '2026-09-05'
+    code: 637940
+    url: /works/637940/
   - title: Kaa-san to Sex Shita Mikkakan | Three Days of Sex with My Mom
     author: unknown
     cover: /covers/639194.jpg
@@ -594,6 +610,13 @@ works:
     date: '2026-04-23'
     code: 640543
     url: /works/640543/
+  - title: Haruna wa Kyou kara Sachiko ni Narimashita.
+    author: mashumarodan
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642023.jpg
+    rating: 0.0
+    date: '2026-09-05'
+    code: 642023
+    url: /works/642023/
   - title: Anta, Nandetatten no?
     author: daidai-shikibu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642770.jpg
@@ -980,6 +1003,13 @@ works:
     date: '2026-07-10'
     code: 662891
     url: /works/662891/
+  - title: Yokkyuu Fuman na Musuko no Tsuma wa Gifu no Chinpo de Mesu ni Naru
+    author: carburetor
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662945.jpg
+    rating: 0.0
+    date: '2026-09-05'
+    code: 662945
+    url: /works/662945/
   - title: Natsu Loli Ism Ch. 1-4
     author: molokonomi-hiraya-nobori
     cover: /covers/663056.jpg
@@ -1185,6 +1215,14 @@ works:
     date: '2026-08-29'
     code: 676458
     url: /works/676458/
+  - title: 'Shounen wa, Onee-chan ni Idakare Natsu | A Boy Embraced by His Older Sister:
+      Summer'
+    author: sakayama-shinta
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/676528.jpg
+    rating: 0.0
+    date: '2026-09-05'
+    code: 676528
+    url: /works/676528/
   - title: Irodori Kazoku
     author: sugi-g
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/676658.jpg

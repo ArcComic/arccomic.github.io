@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "schoolboy uniform"
-work_count: 47
+work_count: 48
 works:
   - title: FLUFFY LAUGH GIRL
     author: shibasaki-syouzi
@@ -46,6 +46,13 @@ works:
     date: '2026-09-04'
     code: 347653
     url: /works/347653/
+  - title: Okki na Saori-chan wa Bukiyou ni Eroi
+    author: aramaki-echizen
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/363219.jpg
+    rating: 0.0
+    date: '2026-09-05'
+    code: 363219
+    url: /works/363219/
   - title: Koi no Susumekata | How to Advance Your Love
     author: danimaru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/425528.jpg

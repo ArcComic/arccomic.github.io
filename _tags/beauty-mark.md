@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "beauty mark"
-work_count: 100
+work_count: 103
 works:
   - title: Uragiri no Ai wa Mitsu no Aji | Treacherous Love Tastes Like Honey
     author: cuzukago
@@ -46,6 +46,13 @@ works:
     date: '2026-04-13'
     code: 351868
     url: /works/351868/
+  - title: Okki na Saori-chan wa Bukiyou ni Eroi
+    author: aramaki-echizen
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/363219.jpg
+    rating: 0.0
+    date: '2026-09-05'
+    code: 363219
+    url: /works/363219/
   - title: Yurikago
     author: neko-samurai
     cover: /covers/398305.jpg
@@ -742,4 +749,18 @@ works:
     date: '2026-09-04'
     code: 677418
     url: /works/677418/
+  - title: Gamers!
+    author: ramanda
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678354.jpg
+    rating: 0.0
+    date: '2026-09-05'
+    code: 678354
+    url: /works/678354/
+  - title: Kuro Gal JK de Shasei Shitai
+    author: fujinoe13b
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678678.jpg
+    rating: 0.0
+    date: '2026-09-05'
+    code: 678678
+    url: /works/678678/
 ---

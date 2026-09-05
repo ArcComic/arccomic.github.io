@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "full censorship"
-work_count: 56
+work_count: 57
 works:
   - title: Kaisha de Iroiro | Gettin' Busy at the Office
     author: hara-shigeyuki
@@ -409,6 +409,13 @@ works:
     date: '2026-08-29'
     code: 676328
     url: /works/676328/
+  - title: Gamers!
+    author: ramanda
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678354.jpg
+    rating: 0.0
+    date: '2026-09-05'
+    code: 678354
+    url: /works/678354/
   - title: Hottokenaino
     author: hara-shigeyuki
     cover: /covers/77864.jpg

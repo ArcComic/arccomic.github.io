@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "scanmark"
-work_count: 94
+work_count: 96
 works:
   - title: NTR Anniversary + ) [Syukurin] Mitsuha ~Netorare~ (Kimi no Na wa.) [English]
       [Colorized] by Mikaku
@@ -179,6 +179,13 @@ works:
     date: '2026-08-19'
     code: 641362
     url: /works/641362/
+  - title: Haruna wa Kyou kara Sachiko ni Narimashita.
+    author: mashumarodan
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642023.jpg
+    rating: 0.0
+    date: '2026-09-05'
+    code: 642023
+    url: /works/642023/
   - title: Akogare no Hito wa Mou Owari!
     author: orange-mimosa
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642584.jpg
@@ -474,6 +481,13 @@ works:
     date: '2026-07-10'
     code: 662871
     url: /works/662871/
+  - title: Yokkyuu Fuman na Musuko no Tsuma wa Gifu no Chinpo de Mesu ni Naru
+    author: carburetor
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662945.jpg
+    rating: 0.0
+    date: '2026-09-05'
+    code: 662945
+    url: /works/662945/
   - title: Metal Girl Ie Onanie
     author: ishimura-ishimiso
     cover: /covers/663142.jpg

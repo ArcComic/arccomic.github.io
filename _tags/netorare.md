@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "netorare"
-work_count: 221
+work_count: 222
 works:
   - title: Hitozuma Hyakka
     author: hase-tsubura
@@ -961,6 +961,13 @@ works:
     date: '2026-04-23'
     code: 640543
     url: /works/640543/
+  - title: Haruna wa Kyou kara Sachiko ni Narimashita.
+    author: mashumarodan
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642023.jpg
+    rating: 0.0
+    date: '2026-09-05'
+    code: 642023
+    url: /works/642023/
   - title: Akogare no Hito wa Mou Owari!
     author: orange-mimosa
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642584.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "daughter"
-work_count: 14
+work_count: 16
 works:
   - title: Kindan no Hatemitsu
     author: ryuuta
@@ -53,6 +53,13 @@ works:
     date: '2026-04-23'
     code: 640543
     url: /works/640543/
+  - title: Haruna wa Kyou kara Sachiko ni Narimashita.
+    author: mashumarodan
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642023.jpg
+    rating: 0.0
+    date: '2026-09-05'
+    code: 642023
+    url: /works/642023/
   - title: 'Otto no Shakkin Nakadashi Hensai Gifu ni Mi o Uru Komochi Tsuma | My Husband’s
       Debt: A Wife Sells Herself to Her Father-in-Law as Creampie Repayment'
     author: onodera
@@ -77,6 +84,13 @@ works:
     date: '2026-05-07'
     code: 648384
     url: /works/648384/
+  - title: Yokkyuu Fuman na Musuko no Tsuma wa Gifu no Chinpo de Mesu ni Naru
+    author: carburetor
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662945.jpg
+    rating: 0.0
+    date: '2026-09-05'
+    code: 662945
+    url: /works/662945/
   - title: Natsu Loli Ism Ch. 1-4
     author: molokonomi-hiraya-nobori
     cover: /covers/663056.jpg

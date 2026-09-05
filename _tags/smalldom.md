@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "smalldom"
-work_count: 19
+work_count: 20
 works:
   - title: Uwa, Mesugaki Tsuyoi! | Crap, This Mesugaki's Too Powerful!
     author: poncocchan
@@ -140,4 +140,12 @@ works:
     date: '2026-08-21'
     code: 674658
     url: /works/674658/
+  - title: 'Shounen wa, Onee-chan ni Idakare Natsu | A Boy Embraced by His Older Sister:
+      Summer'
+    author: sakayama-shinta
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/676528.jpg
+    rating: 0.0
+    date: '2026-09-05'
+    code: 676528
+    url: /works/676528/
 ---

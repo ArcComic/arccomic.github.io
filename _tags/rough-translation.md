@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "rough translation"
-work_count: 320
+work_count: 325
 works:
   - title: Watashi no Karada, Okashi Shimasu. Bunny Girl Edition
     author: nectar
@@ -730,6 +730,14 @@ works:
     date: '2026-08-25'
     code: 637847
     url: /works/637847/
+  - title: Atarimae Sex ~Ane to Otouto no Nichijou~ | Natural Sex ~The Daily Life of
+      an Older Sister and Younger Brother~
+    author: mochichimaru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/637940.jpg
+    rating: 0.0
+    date: '2026-09-05'
+    code: 637940
+    url: /works/637940/
   - title: The Story of Becoming the Husband of a Rich, Yandere Daughter
     author: kaisendoh
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638178.jpg
@@ -765,6 +773,13 @@ works:
     date: '2026-08-19'
     code: 641362
     url: /works/641362/
+  - title: Haruna wa Kyou kara Sachiko ni Narimashita.
+    author: mashumarodan
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642023.jpg
+    rating: 0.0
+    date: '2026-09-05'
+    code: 642023
+    url: /works/642023/
   - title: Akogare no Hito wa Mou Owari!
     author: orange-mimosa
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642584.jpg
@@ -1648,6 +1663,13 @@ works:
     date: '2026-07-10'
     code: 662873
     url: /works/662873/
+  - title: Yokkyuu Fuman na Musuko no Tsuma wa Gifu no Chinpo de Mesu ni Naru
+    author: carburetor
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662945.jpg
+    rating: 0.0
+    date: '2026-09-05'
+    code: 662945
+    url: /works/662945/
   - title: Hontou no Shinkon Seikatsu wa, Oji-san no Ie de Hajimattemasu | My real life
       as a newlywed has begun at the Oji-san's house.
     author: damda
@@ -2276,6 +2298,14 @@ works:
     date: '2026-08-29'
     code: 676397
     url: /works/676397/
+  - title: 'Shounen wa, Onee-chan ni Idakare Natsu | A Boy Embraced by His Older Sister:
+      Summer'
+    author: sakayama-shinta
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/676528.jpg
+    rating: 0.0
+    date: '2026-09-05'
+    code: 676528
+    url: /works/676528/
   - title: Irodori Kazoku
     author: sugi-g
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/676658.jpg
@@ -2328,4 +2358,11 @@ works:
     date: '2026-09-04'
     code: 677732
     url: /works/677732/
+  - title: Kuro Gal JK de Shasei Shitai
+    author: fujinoe13b
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678678.jpg
+    rating: 0.0
+    date: '2026-09-05'
+    code: 678678
+    url: /works/678678/
 ---

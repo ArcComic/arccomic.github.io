@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "english"
-work_count: 797
+work_count: 805
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -363,6 +363,13 @@ works:
     date: '2026-03-09'
     code: 361032
     url: /works/361032/
+  - title: Okki na Saori-chan wa Bukiyou ni Eroi
+    author: aramaki-echizen
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/363219.jpg
+    rating: 0.0
+    date: '2026-09-05'
+    code: 363219
+    url: /works/363219/
   - title: Kurata Akiko no Kokuhaku 2 - Confession of Akiko kurata Epsode 2
     author: ootsuka-mahiro
     cover: /covers/369382.jpg
@@ -436,6 +443,14 @@ works:
     date: '2026-04-19'
     code: 398854
     url: /works/398854/
+  - title: Natsuyasumi~Boku to oneechan no inaka de hatsutaiken~ |Summer Vacation~My
+      first time with Oneechan in the countryside
+    author: survival-knife
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/405606.jpg
+    rating: 0.0
+    date: '2026-09-05'
+    code: 405606
+    url: /works/405606/
   - title: Rakki Taishyaku
     author: fushoku
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/407561.jpg
@@ -2876,6 +2891,14 @@ works:
     date: '2026-08-25'
     code: 637847
     url: /works/637847/
+  - title: Atarimae Sex ~Ane to Otouto no Nichijou~ | Natural Sex ~The Daily Life of
+      an Older Sister and Younger Brother~
+    author: mochichimaru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/637940.jpg
+    rating: 0.0
+    date: '2026-09-05'
+    code: 637940
+    url: /works/637940/
   - title: The Story of Becoming the Husband of a Rich, Yandere Daughter
     author: kaisendoh
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638178.jpg
@@ -2941,6 +2964,13 @@ works:
     date: '2026-08-19'
     code: 641362
     url: /works/641362/
+  - title: Haruna wa Kyou kara Sachiko ni Narimashita.
+    author: mashumarodan
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642023.jpg
+    rating: 0.0
+    date: '2026-09-05'
+    code: 642023
+    url: /works/642023/
   - title: Akogare no Hito wa Mou Owari!
     author: orange-mimosa
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642584.jpg
@@ -4608,6 +4638,13 @@ works:
     date: '2026-07-10'
     code: 662891
     url: /works/662891/
+  - title: Yokkyuu Fuman na Musuko no Tsuma wa Gifu no Chinpo de Mesu ni Naru
+    author: carburetor
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662945.jpg
+    rating: 0.0
+    date: '2026-09-05'
+    code: 662945
+    url: /works/662945/
   - title: Natsu Loli Ism Ch. 1-4
     author: molokonomi-hiraya-nobori
     cover: /covers/663056.jpg
@@ -5763,6 +5800,14 @@ works:
     date: '2026-08-29'
     code: 676458
     url: /works/676458/
+  - title: 'Shounen wa, Onee-chan ni Idakare Natsu | A Boy Embraced by His Older Sister:
+      Summer'
+    author: sakayama-shinta
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/676528.jpg
+    rating: 0.0
+    date: '2026-09-05'
+    code: 676528
+    url: /works/676528/
   - title: Possession Golf
     author: rim
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/676589.jpg
@@ -5836,6 +5881,20 @@ works:
     date: '2026-09-04'
     code: 677732
     url: /works/677732/
+  - title: Gamers!
+    author: ramanda
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678354.jpg
+    rating: 0.0
+    date: '2026-09-05'
+    code: 678354
+    url: /works/678354/
+  - title: Kuro Gal JK de Shasei Shitai
+    author: fujinoe13b
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678678.jpg
+    rating: 0.0
+    date: '2026-09-05'
+    code: 678678
+    url: /works/678678/
   - title: Hottokenaino
     author: hara-shigeyuki
     cover: /covers/77864.jpg
