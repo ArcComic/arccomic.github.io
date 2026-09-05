@@ -1,4 +1,4 @@
-<!-- arc-comic-layout-version: 8 -->
+<!-- arc-comic-layout-version: 9 -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -60,7 +60,7 @@
         <a href="/" class="logo-link">✨ Arc Comic</a>
         <div class="tagline">{{ site.data.site_meta.tagline_html }}</div>
         <div class="breadcrumb"><a href="/">Home</a> › <a href="/tags/">Tags</a> › {{ page.tag_name }}</div>
-        <div class="ad-slot" id="topAdSlot" data-mndbanid="6682c345-631e-456b-82ef-cc3bd9dbb29a" style="display:none;"></div>
+        <div class="ad-slot-container" id="topAdContainer"></div>
         <h1>💥 {{ page.tag_name }}</h1>
         <div class="count">{{ page.work_count }} comic{% if page.work_count != 1 %}s{% endif %}</div>
         <div class="toolbar">
@@ -72,7 +72,7 @@
         </div>
         <div class="works-grid" id="worksGrid"></div>
         <div class="pagination" id="pagination"></div>
-        <div class="ad-slot" id="bottomAdSlot" data-mndbanid="6682c345-631e-456b-82ef-cc3bd9dbb29a" style="display:none;"></div>
+        <div class="ad-slot-container" id="bottomAdContainer"></div>
         {% include follow_us.html %}
     </div>
     <script>
@@ -124,6 +124,25 @@
                 </a>
             `).join('');
         }
+        // Mondiad's banner.js only scans/fills [data-mndbanid] elements that
+        // are already present and visible in the DOM at the moment it runs
+        // its scan (matching Mondiad's own documented static-placement
+        // snippet — there is no reveal/refresh API). A slot that starts as
+        // display:none and gets un-hidden later is never picked up, which
+        // was silently breaking ads on every page but the reading page
+        // (that page's slot is visible from initial load, so it worked).
+        // Fix: never pre-render the [data-mndbanid] div at all on pages
+        // where it might start hidden — build and insert a brand-new one
+        // via JS only at the exact moment ads should actually show, so
+        // banner.js's scan always sees a fresh, already-visible element.
+        let adsInjected = false;
+        function injectAdsIfNeeded() {
+            if (adsInjected) return;
+            adsInjected = true;
+            const slotHtml = '<div class="ad-slot" data-mndbanid="6682c345-631e-456b-82ef-cc3bd9dbb29a"></div>';
+            document.getElementById('topAdContainer').innerHTML = slotHtml;
+            document.getElementById('bottomAdContainer').innerHTML = slotHtml;
+        }
         function render(page) {
             page = page || 1;
             const mode = document.getElementById('sortSelect').value;
@@ -137,10 +156,11 @@
             document.getElementById('worksGrid').innerHTML = buildCards(pageWorks);
 
             // Banner ads only from page 2 onward — never on the first
-            // screen someone lands on for this tag.
-            const showAds = page > 1;
-            document.getElementById('topAdSlot').style.display = showAds ? '' : 'none';
-            document.getElementById('bottomAdSlot').style.display = showAds ? '' : 'none';
+            // screen someone lands on for this tag. Once injected, the
+            // slots are left in place (Mondiad ad zones aren't meant to be
+            // torn down/rebuilt repeatedly) — they just won't have been
+            // created yet if the visitor never left page 1.
+            if (page > 1) injectAdsIfNeeded();
 
             const total = Math.ceil(sorted.length / PER_PAGE);
             document.getElementById('pagination').innerHTML = buildPaginationHtml(page, total, 'render');

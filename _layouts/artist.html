@@ -1,4 +1,4 @@
-<!-- arc-comic-layout-version: 7 -->
+<!-- arc-comic-layout-version: 8 -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -60,7 +60,7 @@
         <a href="/" class="logo-link">✨ Arc Comic</a>
         <div class="tagline">{{ site.data.site_meta.tagline_html }}</div>
         <div class="breadcrumb"><a href="/">Home</a> › <a href="/artists/">Artists</a> › {{ page.artist_name }}</div>
-        <div class="ad-slot" id="topAdSlot" data-mndbanid="6682c345-631e-456b-82ef-cc3bd9dbb29a" style="display:none;"></div>
+        <div class="ad-slot-container" id="topAdContainer"></div>
         <h1>✨ {{ page.artist_name }}</h1>
         <div class="count">{{ page.work_count }} comic{% if page.work_count != 1 %}s{% endif %}</div>
         <div class="toolbar">
@@ -72,7 +72,7 @@
         </div>
         <div class="works-grid" id="worksGrid"></div>
         <div class="pagination" id="pagination"></div>
-        <div class="ad-slot" id="bottomAdSlot" data-mndbanid="6682c345-631e-456b-82ef-cc3bd9dbb29a" style="display:none;"></div>
+        <div class="ad-slot-container" id="bottomAdContainer"></div>
         {% include follow_us.html %}
     </div>
     <script>
@@ -124,6 +124,19 @@
                 </a>
             `).join('');
         }
+        // See tag.html's identical comment: Mondiad's banner.js only fills
+        // [data-mndbanid] elements visible in the DOM at its initial scan,
+        // so a slot that starts display:none and is revealed later never
+        // gets filled. Fix: inject a fresh [data-mndbanid] div via JS only
+        // once ads should actually show.
+        let adsInjected = false;
+        function injectAdsIfNeeded() {
+            if (adsInjected) return;
+            adsInjected = true;
+            const slotHtml = '<div class="ad-slot" data-mndbanid="6682c345-631e-456b-82ef-cc3bd9dbb29a"></div>';
+            document.getElementById('topAdContainer').innerHTML = slotHtml;
+            document.getElementById('bottomAdContainer').innerHTML = slotHtml;
+        }
         function render(page) {
             page = page || 1;
             const mode = document.getElementById('sortSelect').value;
@@ -136,9 +149,7 @@
             const pageWorks = sorted.slice(start, start + PER_PAGE);
             document.getElementById('worksGrid').innerHTML = buildCards(pageWorks);
 
-            const showAds = page > 1;
-            document.getElementById('topAdSlot').style.display = showAds ? '' : 'none';
-            document.getElementById('bottomAdSlot').style.display = showAds ? '' : 'none';
+            if (page > 1) injectAdsIfNeeded();
 
             const total = Math.ceil(sorted.length / PER_PAGE);
             document.getElementById('pagination').innerHTML = buildPaginationHtml(page, total, 'render');

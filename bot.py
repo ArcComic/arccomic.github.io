@@ -1293,7 +1293,7 @@ def ensure_index_html():
 # ============== TAG SYSTEM (Stage 3) ==============
 TAGS_DIR = os.path.join(WORK_DIR, "_tags")
 TAG_LAYOUT_PATH = os.path.join(WORK_DIR, "_layouts", "tag.html")
-TAG_LAYOUT_VERSION = 8
+TAG_LAYOUT_VERSION = 9
 TAGS_INDEX_PATH = os.path.join(WORK_DIR, "tags", "index.html")
 TAGS_INDEX_VERSION = 1
 
@@ -1359,7 +1359,7 @@ TAG_LAYOUT_TEMPLATE = f"""<!-- arc-comic-layout-version: {TAG_LAYOUT_VERSION} --
         <a href="/" class="logo-link">✨ Arc Comic</a>
         <div class="tagline">{{{{ site.data.site_meta.tagline_html }}}}</div>
         <div class="breadcrumb"><a href="/">Home</a> › <a href="/tags/">Tags</a> › {{{{ page.tag_name }}}}</div>
-        <div class="ad-slot" id="topAdSlot" data-mndbanid="{BANNER_AD_ZONE_ID}" style="display:none;"></div>
+        <div class="ad-slot-container" id="topAdContainer"></div>
         <h1>💥 {{{{ page.tag_name }}}}</h1>
         <div class="count">{{{{ page.work_count }}}} comic{{% if page.work_count != 1 %}}s{{% endif %}}</div>
         <div class="toolbar">
@@ -1371,7 +1371,7 @@ TAG_LAYOUT_TEMPLATE = f"""<!-- arc-comic-layout-version: {TAG_LAYOUT_VERSION} --
         </div>
         <div class="works-grid" id="worksGrid"></div>
         <div class="pagination" id="pagination"></div>
-        <div class="ad-slot" id="bottomAdSlot" data-mndbanid="{BANNER_AD_ZONE_ID}" style="display:none;"></div>
+        <div class="ad-slot-container" id="bottomAdContainer"></div>
         {{% include follow_us.html %}}
     </div>
     <script>
@@ -1391,6 +1391,25 @@ TAG_LAYOUT_TEMPLATE = f"""<!-- arc-comic-layout-version: {TAG_LAYOUT_VERSION} --
                 </a>
             `).join('');
         }}
+        // Mondiad's banner.js only scans/fills [data-mndbanid] elements that
+        // are already present and visible in the DOM at the moment it runs
+        // its scan (matching Mondiad's own documented static-placement
+        // snippet — there is no reveal/refresh API). A slot that starts as
+        // display:none and gets un-hidden later is never picked up, which
+        // was silently breaking ads on every page but the reading page
+        // (that page's slot is visible from initial load, so it worked).
+        // Fix: never pre-render the [data-mndbanid] div at all on pages
+        // where it might start hidden — build and insert a brand-new one
+        // via JS only at the exact moment ads should actually show, so
+        // banner.js's scan always sees a fresh, already-visible element.
+        let adsInjected = false;
+        function injectAdsIfNeeded() {{
+            if (adsInjected) return;
+            adsInjected = true;
+            const slotHtml = '<div class="ad-slot" data-mndbanid="{BANNER_AD_ZONE_ID}"></div>';
+            document.getElementById('topAdContainer').innerHTML = slotHtml;
+            document.getElementById('bottomAdContainer').innerHTML = slotHtml;
+        }}
         function render(page) {{
             page = page || 1;
             const mode = document.getElementById('sortSelect').value;
@@ -1404,10 +1423,11 @@ TAG_LAYOUT_TEMPLATE = f"""<!-- arc-comic-layout-version: {TAG_LAYOUT_VERSION} --
             document.getElementById('worksGrid').innerHTML = buildCards(pageWorks);
 
             // Banner ads only from page 2 onward — never on the first
-            // screen someone lands on for this tag.
-            const showAds = page > 1;
-            document.getElementById('topAdSlot').style.display = showAds ? '' : 'none';
-            document.getElementById('bottomAdSlot').style.display = showAds ? '' : 'none';
+            // screen someone lands on for this tag. Once injected, the
+            // slots are left in place (Mondiad ad zones aren't meant to be
+            // torn down/rebuilt repeatedly) — they just won't have been
+            // created yet if the visitor never left page 1.
+            if (page > 1) injectAdsIfNeeded();
 
             const total = Math.ceil(sorted.length / PER_PAGE);
             document.getElementById('pagination').innerHTML = buildPaginationHtml(page, total, 'render');
@@ -1442,7 +1462,7 @@ def slugify(text):
 
 # ============== SEARCH RESULTS PAGE ==============
 SEARCH_PAGE_PATH = os.path.join(WORK_DIR, "search", "index.html")
-SEARCH_PAGE_VERSION = 9
+SEARCH_PAGE_VERSION = 10
 
 SEARCH_PAGE_TEMPLATE = f"""---
 ---
@@ -1522,12 +1542,12 @@ SEARCH_PAGE_TEMPLATE = f"""---
                 <button id="searchBtn">Search</button>
             </div>
         </div>
-        <div class="ad-slot" id="topAdSlot" data-mndbanid="{BANNER_AD_ZONE_ID}" style="display:none;"></div>
+        <div class="ad-slot-container" id="topAdContainer"></div>
         <h2 class="results-title" id="resultsTitle">Search Results</h2>
         <div class="works-grid" id="worksGrid"></div>
         <div class="no-results" id="noResults" style="display:none;">No comics match your search.</div>
         <div class="pagination" id="pagination"></div>
-        <div class="ad-slot" id="bottomAdSlot" data-mndbanid="{BANNER_AD_ZONE_ID}" style="display:none;"></div>
+        <div class="ad-slot-container" id="bottomAdContainer"></div>
         {{% include follow_us.html %}}
     </div>
     <script>
@@ -1562,6 +1582,26 @@ SEARCH_PAGE_TEMPLATE = f"""---
             `).join('');
         }}
 
+        // Mondiad's banner.js only scans/fills [data-mndbanid] elements
+        // already present and visible in the DOM at the moment it runs its
+        // scan (matching Mondiad's own documented static-placement snippet
+        // — there is no reveal/refresh API). A slot that starts hidden and
+        // gets un-hidden later is never picked up. Fix: never pre-render
+        // the [data-mndbanid] div — build and insert a fresh one via JS
+        // only at the moment ads should actually show. clearAds() empties
+        // the containers back out for the no-results/empty-query cases so
+        // a later injectAdsIfNeeded() call creates a genuinely new element
+        // rather than assuming one from an earlier search is still valid.
+        function injectAdsIfNeeded() {{
+            const slotHtml = '<div class="ad-slot" data-mndbanid="{BANNER_AD_ZONE_ID}"></div>';
+            document.getElementById('topAdContainer').innerHTML = slotHtml;
+            document.getElementById('bottomAdContainer').innerHTML = slotHtml;
+        }}
+        function clearAds() {{
+            document.getElementById('topAdContainer').innerHTML = '';
+            document.getElementById('bottomAdContainer').innerHTML = '';
+        }}
+
         function renderPage(page) {{
             page = page || 1;
             const start = (page - 1) * PER_PAGE;
@@ -1570,9 +1610,7 @@ SEARCH_PAGE_TEMPLATE = f"""---
 
             // Banner ads only from page 2 onward, never on the first
             // screen of results.
-            const showAds = page > 1;
-            document.getElementById('topAdSlot').style.display = showAds ? '' : 'none';
-            document.getElementById('bottomAdSlot').style.display = showAds ? '' : 'none';
+            if (page > 1) injectAdsIfNeeded(); else clearAds();
 
             const total = Math.ceil(currentResults.length / PER_PAGE);
             document.getElementById('pagination').innerHTML = buildPaginationHtml(page, total, 'renderPage');
@@ -1588,8 +1626,7 @@ SEARCH_PAGE_TEMPLATE = f"""---
             if (!q) {{
                 document.getElementById('worksGrid').innerHTML = '';
                 document.getElementById('pagination').innerHTML = '';
-                document.getElementById('topAdSlot').style.display = 'none';
-                document.getElementById('bottomAdSlot').style.display = 'none';
+                clearAds();
                 document.getElementById('noResults').style.display = 'block';
                 document.getElementById('noResults').textContent = 'Type something in the search box above.';
                 return;
@@ -1608,8 +1645,7 @@ SEARCH_PAGE_TEMPLATE = f"""---
             if (currentResults.length === 0) {{
                 document.getElementById('worksGrid').innerHTML = '';
                 document.getElementById('pagination').innerHTML = '';
-                document.getElementById('topAdSlot').style.display = 'none';
-                document.getElementById('bottomAdSlot').style.display = 'none';
+                clearAds();
                 noResults.style.display = 'block';
                 noResults.textContent = 'No comics match your search.';
             }} else {{
@@ -1617,6 +1653,7 @@ SEARCH_PAGE_TEMPLATE = f"""---
                 renderPage(1);
             }}
         }}
+
 
         function goSearch() {{
             const q = document.getElementById('searchInput').value.trim();
@@ -1816,7 +1853,7 @@ def _write_tags_index(tag_map):
 # index, regenerated together with tags after every batch flush/delete.
 ARTISTS_DIR = os.path.join(WORK_DIR, "_artists")
 ARTIST_LAYOUT_PATH = os.path.join(WORK_DIR, "_layouts", "artist.html")
-ARTIST_LAYOUT_VERSION = 7
+ARTIST_LAYOUT_VERSION = 8
 ARTISTS_INDEX_PATH = os.path.join(WORK_DIR, "artists", "index.html")
 ARTISTS_INDEX_VERSION = 1
 
@@ -1882,7 +1919,7 @@ ARTIST_LAYOUT_TEMPLATE = f"""<!-- arc-comic-layout-version: {ARTIST_LAYOUT_VERSI
         <a href="/" class="logo-link">✨ Arc Comic</a>
         <div class="tagline">{{{{ site.data.site_meta.tagline_html }}}}</div>
         <div class="breadcrumb"><a href="/">Home</a> › <a href="/artists/">Artists</a> › {{{{ page.artist_name }}}}</div>
-        <div class="ad-slot" id="topAdSlot" data-mndbanid="{BANNER_AD_ZONE_ID}" style="display:none;"></div>
+        <div class="ad-slot-container" id="topAdContainer"></div>
         <h1>✨ {{{{ page.artist_name }}}}</h1>
         <div class="count">{{{{ page.work_count }}}} comic{{% if page.work_count != 1 %}}s{{% endif %}}</div>
         <div class="toolbar">
@@ -1894,7 +1931,7 @@ ARTIST_LAYOUT_TEMPLATE = f"""<!-- arc-comic-layout-version: {ARTIST_LAYOUT_VERSI
         </div>
         <div class="works-grid" id="worksGrid"></div>
         <div class="pagination" id="pagination"></div>
-        <div class="ad-slot" id="bottomAdSlot" data-mndbanid="{BANNER_AD_ZONE_ID}" style="display:none;"></div>
+        <div class="ad-slot-container" id="bottomAdContainer"></div>
         {{% include follow_us.html %}}
     </div>
     <script>
@@ -1914,6 +1951,19 @@ ARTIST_LAYOUT_TEMPLATE = f"""<!-- arc-comic-layout-version: {ARTIST_LAYOUT_VERSI
                 </a>
             `).join('');
         }}
+        // See tag.html's identical comment: Mondiad's banner.js only fills
+        // [data-mndbanid] elements visible in the DOM at its initial scan,
+        // so a slot that starts display:none and is revealed later never
+        // gets filled. Fix: inject a fresh [data-mndbanid] div via JS only
+        // once ads should actually show.
+        let adsInjected = false;
+        function injectAdsIfNeeded() {{
+            if (adsInjected) return;
+            adsInjected = true;
+            const slotHtml = '<div class="ad-slot" data-mndbanid="{BANNER_AD_ZONE_ID}"></div>';
+            document.getElementById('topAdContainer').innerHTML = slotHtml;
+            document.getElementById('bottomAdContainer').innerHTML = slotHtml;
+        }}
         function render(page) {{
             page = page || 1;
             const mode = document.getElementById('sortSelect').value;
@@ -1926,9 +1976,7 @@ ARTIST_LAYOUT_TEMPLATE = f"""<!-- arc-comic-layout-version: {ARTIST_LAYOUT_VERSI
             const pageWorks = sorted.slice(start, start + PER_PAGE);
             document.getElementById('worksGrid').innerHTML = buildCards(pageWorks);
 
-            const showAds = page > 1;
-            document.getElementById('topAdSlot').style.display = showAds ? '' : 'none';
-            document.getElementById('bottomAdSlot').style.display = showAds ? '' : 'none';
+            if (page > 1) injectAdsIfNeeded();
 
             const total = Math.ceil(sorted.length / PER_PAGE);
             document.getElementById('pagination').innerHTML = buildPaginationHtml(page, total, 'render');

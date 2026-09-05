@@ -1,6 +1,6 @@
 ---
 ---
-<!-- arc-comic-index-version: 9 -->
+<!-- arc-comic-index-version: 10 -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -76,12 +76,12 @@
                 <button id="searchBtn">Search</button>
             </div>
         </div>
-        <div class="ad-slot" id="topAdSlot" data-mndbanid="6682c345-631e-456b-82ef-cc3bd9dbb29a" style="display:none;"></div>
+        <div class="ad-slot-container" id="topAdContainer"></div>
         <h2 class="results-title" id="resultsTitle">Search Results</h2>
         <div class="works-grid" id="worksGrid"></div>
         <div class="no-results" id="noResults" style="display:none;">No comics match your search.</div>
         <div class="pagination" id="pagination"></div>
-        <div class="ad-slot" id="bottomAdSlot" data-mndbanid="6682c345-631e-456b-82ef-cc3bd9dbb29a" style="display:none;"></div>
+        <div class="ad-slot-container" id="bottomAdContainer"></div>
         {% include follow_us.html %}
     </div>
     <script>
@@ -148,6 +148,26 @@
             `).join('');
         }
 
+        // Mondiad's banner.js only scans/fills [data-mndbanid] elements
+        // already present and visible in the DOM at the moment it runs its
+        // scan (matching Mondiad's own documented static-placement snippet
+        // — there is no reveal/refresh API). A slot that starts hidden and
+        // gets un-hidden later is never picked up. Fix: never pre-render
+        // the [data-mndbanid] div — build and insert a fresh one via JS
+        // only at the moment ads should actually show. clearAds() empties
+        // the containers back out for the no-results/empty-query cases so
+        // a later injectAdsIfNeeded() call creates a genuinely new element
+        // rather than assuming one from an earlier search is still valid.
+        function injectAdsIfNeeded() {
+            const slotHtml = '<div class="ad-slot" data-mndbanid="6682c345-631e-456b-82ef-cc3bd9dbb29a"></div>';
+            document.getElementById('topAdContainer').innerHTML = slotHtml;
+            document.getElementById('bottomAdContainer').innerHTML = slotHtml;
+        }
+        function clearAds() {
+            document.getElementById('topAdContainer').innerHTML = '';
+            document.getElementById('bottomAdContainer').innerHTML = '';
+        }
+
         function renderPage(page) {
             page = page || 1;
             const start = (page - 1) * PER_PAGE;
@@ -156,9 +176,7 @@
 
             // Banner ads only from page 2 onward, never on the first
             // screen of results.
-            const showAds = page > 1;
-            document.getElementById('topAdSlot').style.display = showAds ? '' : 'none';
-            document.getElementById('bottomAdSlot').style.display = showAds ? '' : 'none';
+            if (page > 1) injectAdsIfNeeded(); else clearAds();
 
             const total = Math.ceil(currentResults.length / PER_PAGE);
             document.getElementById('pagination').innerHTML = buildPaginationHtml(page, total, 'renderPage');
@@ -174,8 +192,7 @@
             if (!q) {
                 document.getElementById('worksGrid').innerHTML = '';
                 document.getElementById('pagination').innerHTML = '';
-                document.getElementById('topAdSlot').style.display = 'none';
-                document.getElementById('bottomAdSlot').style.display = 'none';
+                clearAds();
                 document.getElementById('noResults').style.display = 'block';
                 document.getElementById('noResults').textContent = 'Type something in the search box above.';
                 return;
@@ -194,8 +211,7 @@
             if (currentResults.length === 0) {
                 document.getElementById('worksGrid').innerHTML = '';
                 document.getElementById('pagination').innerHTML = '';
-                document.getElementById('topAdSlot').style.display = 'none';
-                document.getElementById('bottomAdSlot').style.display = 'none';
+                clearAds();
                 noResults.style.display = 'block';
                 noResults.textContent = 'No comics match your search.';
             } else {
@@ -203,6 +219,7 @@
                 renderPage(1);
             }
         }
+
 
         function goSearch() {
             const q = document.getElementById('searchInput').value.trim();

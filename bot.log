@@ -1,5 +1,3 @@
-🔧 _layouts/post.html updated to v9 (clean layout, no emoji tags, proper Yes/No labels)
-🔧 _data/site_meta.json created/repaired with default tagline/join notice
-🔧 _layouts/tag.html updated to v8
-🔧 _layouts/artist.html updated to v7
-🔧 search/index.html updated to v9
+🔧 _layouts/tag.html updated to v9
+🔧 _layouts/artist.html updated to v8
+🔧 search/index.html updated to v10
