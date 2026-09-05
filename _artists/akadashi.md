@@ -7,7 +7,7 @@ works:
       Yarimakuritai. | If I'm Reliving My Life, This Time I Wanna Get With The Girl
       I Loved Back Then
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/625933.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-04'
     code: 625933
     url: /works/625933/

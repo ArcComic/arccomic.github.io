@@ -1,4 +1,4 @@
-<!-- arc-comic-layout-version: 6 -->
+<!-- arc-comic-layout-version: 7 -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -64,10 +64,21 @@
         }
         .tag:hover { border-color: var(--accent); color: var(--accent); }
         .ad-slot {
-            margin: 24px 0; display: flex; justify-content: center; min-height: 250px;
-            align-items: center; background: var(--bg-card); border-radius: 12px;
-            border: 1px dashed var(--border);
+            margin: 24px 0; display: flex; justify-content: center; align-items: center;
+            min-height: 100px; max-height: 300px; width: 100%;
+            background: var(--bg-card); border-radius: 12px;
+            border: 1px solid var(--border); overflow: hidden;
         }
+        /* Mondiad's injected creative can be an <img>, <iframe>, or nested
+           <div>s depending on the ad served — without this, a large raw
+           image creative (e.g. a "claim your reward" banner) renders at
+           its native pixel size and blows the slot out, breaking the
+           whole page's layout around it. Forcing every possible child to
+           respect the slot's own box keeps this contained no matter what
+           creative gets served. */
+        .ad-slot > * { max-width: 100% !important; max-height: 100% !important;
+            width: auto !important; height: auto !important; }
+        .ad-slot img, .ad-slot iframe { object-fit: contain; }
         .read-btn {
             display: flex; align-items: center; justify-content: center; gap: 10px;
             text-align: center; background: var(--accent);
@@ -95,9 +106,13 @@
         .similar-info-title { font-size: 13px; font-weight: 700; line-height: 1.3;
             display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
         .similar-ad-card {
-            background: var(--bg-card); border: 1px dashed var(--border); border-radius: 12px;
-            min-height: 180px; overflow: hidden;
+            background: var(--bg-elevated); border: 1px solid var(--border); border-radius: 12px;
+            min-height: 180px; max-height: 260px; overflow: hidden;
+            display: flex; justify-content: center; align-items: center;
         }
+        .similar-ad-card > * { max-width: 100% !important; max-height: 100% !important;
+            width: auto !important; height: auto !important; }
+        .similar-ad-card img, .similar-ad-card iframe { object-fit: cover; }
         .mini-search { display: flex; gap: 8px; margin-bottom: 20px; }
         .mini-search input {
             flex: 1; padding: 10px 14px; background: var(--bg-card); border: 1px solid var(--border);

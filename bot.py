@@ -259,7 +259,7 @@ def ensure_jekyll_works_collection():
     return changed
 
 POST_LAYOUT_PATH = os.path.join(WORK_DIR, "_layouts", "post.html")
-POST_LAYOUT_VERSION = 6  # bump when the template below changes materially
+POST_LAYOUT_VERSION = 7  # bump when the template below changes materially
 
 # Two separate Mondiad zones: a Banner zone for the main reading-page slot,
 # and a Native zone for the Similar Comics card (Native blends into content
@@ -334,10 +334,21 @@ POST_LAYOUT_TEMPLATE = f"""<!-- arc-comic-layout-version: {POST_LAYOUT_VERSION} 
         }}
         .tag:hover {{ border-color: var(--accent); color: var(--accent); }}
         .ad-slot {{
-            margin: 24px 0; display: flex; justify-content: center; min-height: 250px;
-            align-items: center; background: var(--bg-card); border-radius: 12px;
-            border: 1px dashed var(--border);
+            margin: 24px 0; display: flex; justify-content: center; align-items: center;
+            min-height: 100px; max-height: 300px; width: 100%;
+            background: var(--bg-card); border-radius: 12px;
+            border: 1px solid var(--border); overflow: hidden;
         }}
+        /* Mondiad's injected creative can be an <img>, <iframe>, or nested
+           <div>s depending on the ad served — without this, a large raw
+           image creative (e.g. a "claim your reward" banner) renders at
+           its native pixel size and blows the slot out, breaking the
+           whole page's layout around it. Forcing every possible child to
+           respect the slot's own box keeps this contained no matter what
+           creative gets served. */
+        .ad-slot > * {{ max-width: 100% !important; max-height: 100% !important;
+            width: auto !important; height: auto !important; }}
+        .ad-slot img, .ad-slot iframe {{ object-fit: contain; }}
         .read-btn {{
             display: flex; align-items: center; justify-content: center; gap: 10px;
             text-align: center; background: var(--accent);
@@ -365,9 +376,13 @@ POST_LAYOUT_TEMPLATE = f"""<!-- arc-comic-layout-version: {POST_LAYOUT_VERSION} 
         .similar-info-title {{ font-size: 13px; font-weight: 700; line-height: 1.3;
             display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }}
         .similar-ad-card {{
-            background: var(--bg-card); border: 1px dashed var(--border); border-radius: 12px;
-            min-height: 180px; overflow: hidden;
+            background: var(--bg-elevated); border: 1px solid var(--border); border-radius: 12px;
+            min-height: 180px; max-height: 260px; overflow: hidden;
+            display: flex; justify-content: center; align-items: center;
         }}
+        .similar-ad-card > * {{ max-width: 100% !important; max-height: 100% !important;
+            width: auto !important; height: auto !important; }}
+        .similar-ad-card img, .similar-ad-card iframe {{ object-fit: cover; }}
         .mini-search {{ display: flex; gap: 8px; margin-bottom: 20px; }}
         .mini-search input {{
             flex: 1; padding: 10px 14px; background: var(--bg-card); border: 1px solid var(--border);
@@ -822,7 +837,7 @@ PAGINATION_JS = """
 
 # ============== HOMEPAGE (index.html) ==============
 INDEX_HTML_PATH = os.path.join(WORK_DIR, "index.html")
-INDEX_HTML_VERSION = 11  # bump when the template below changes materially
+INDEX_HTML_VERSION = 12  # bump when the template below changes materially
 
 INDEX_HTML_TEMPLATE = f"""---
 # No 'layout:' key here on purpose — index.html is a complete, self-contained
@@ -974,6 +989,18 @@ INDEX_HTML_TEMPLATE = f"""---
             background: var(--bg-elevated); border-radius: 12px;
             border: 1px solid var(--border); overflow: hidden;
             width: 100%; padding-top: 140%; position: relative;
+        }}
+        /* Mondiad injects its creative as a direct child of this box (an
+           <a>/<img>/<div>, whichever the served ad uses) — without
+           forcing it absolute + full-size like .work-card .cover img
+           does for real covers, the injected content renders in-flow at
+           its own natural size and can overflow past the 140% aspect
+           box, which is what was breaking the tags/search/artist grids. */
+        .grid-ad-card > *:not(.info) {{
+            position: absolute !important; top: 0 !important; left: 0 !important;
+            width: 100% !important; height: 100% !important;
+            max-width: 100% !important; max-height: 100% !important;
+            object-fit: cover !important; margin: 0 !important;
         }}
         .grid-ad-card .info {{
             position: absolute; left: 0; right: 0; bottom: 0; padding: 10px;
@@ -1287,7 +1314,7 @@ def ensure_index_html():
 # ============== TAG SYSTEM (Stage 3) ==============
 TAGS_DIR = os.path.join(WORK_DIR, "_tags")
 TAG_LAYOUT_PATH = os.path.join(WORK_DIR, "_layouts", "tag.html")
-TAG_LAYOUT_VERSION = 4
+TAG_LAYOUT_VERSION = 5
 TAGS_INDEX_PATH = os.path.join(WORK_DIR, "tags", "index.html")
 TAGS_INDEX_VERSION = 1
 
@@ -1331,6 +1358,7 @@ TAG_LAYOUT_TEMPLATE = f"""<!-- arc-comic-layout-version: {TAG_LAYOUT_VERSION} --
         .work-card .info h3 {{ font-size: 13px; font-weight: 600; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }}
         .work-card .info .meta {{ font-size: 11px; color: var(--text-muted); margin-top: 3px; }}
         .grid-ad-card {{ background: var(--bg-elevated); border-radius: 12px; border: 1px solid var(--border); overflow: hidden; width: 100%; padding-top: 140%; position: relative; }}
+        .grid-ad-card > *:not(.info) {{ position: absolute !important; top: 0 !important; left: 0 !important; width: 100% !important; height: 100% !important; max-width: 100% !important; max-height: 100% !important; object-fit: cover !important; margin: 0 !important; }}
         .grid-ad-card .info {{ position: absolute; left: 0; right: 0; bottom: 0; padding: 10px; }}
         .grid-ad-card .info h3 {{ font-size: 11px; font-weight: 600; color: var(--text-muted); text-transform: uppercase; letter-spacing: 0.5px; margin: 0; }}
         .pagination {{ display: flex; justify-content: center; gap: 8px; flex-wrap: wrap; margin-top: 30px; padding-top: 20px; border-top: 1px solid var(--border); }}
@@ -1427,7 +1455,7 @@ def slugify(text):
 
 # ============== SEARCH RESULTS PAGE ==============
 SEARCH_PAGE_PATH = os.path.join(WORK_DIR, "search", "index.html")
-SEARCH_PAGE_VERSION = 5
+SEARCH_PAGE_VERSION = 6
 
 SEARCH_PAGE_TEMPLATE = f"""---
 ---
@@ -1478,6 +1506,7 @@ SEARCH_PAGE_TEMPLATE = f"""---
         .work-card .info h3 {{ font-size: 13px; font-weight: 600; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }}
         .work-card .info .meta {{ font-size: 11px; color: var(--text-muted); margin-top: 3px; }}
         .grid-ad-card {{ background: var(--bg-elevated); border-radius: 12px; border: 1px solid var(--border); overflow: hidden; width: 100%; padding-top: 140%; position: relative; }}
+        .grid-ad-card > *:not(.info) {{ position: absolute !important; top: 0 !important; left: 0 !important; width: 100% !important; height: 100% !important; max-width: 100% !important; max-height: 100% !important; object-fit: cover !important; margin: 0 !important; }}
         .grid-ad-card .info {{ position: absolute; left: 0; right: 0; bottom: 0; padding: 10px; }}
         .grid-ad-card .info h3 {{ font-size: 11px; font-weight: 600; color: var(--text-muted); text-transform: uppercase; letter-spacing: 0.5px; margin: 0; }}
         .no-results {{ text-align: center; padding: 60px 20px; color: var(--text-muted); }}
@@ -1786,7 +1815,7 @@ def _write_tags_index(tag_map):
 # index, regenerated together with tags after every batch flush/delete.
 ARTISTS_DIR = os.path.join(WORK_DIR, "_artists")
 ARTIST_LAYOUT_PATH = os.path.join(WORK_DIR, "_layouts", "artist.html")
-ARTIST_LAYOUT_VERSION = 3
+ARTIST_LAYOUT_VERSION = 4
 ARTISTS_INDEX_PATH = os.path.join(WORK_DIR, "artists", "index.html")
 ARTISTS_INDEX_VERSION = 1
 
@@ -1830,6 +1859,7 @@ ARTIST_LAYOUT_TEMPLATE = f"""<!-- arc-comic-layout-version: {ARTIST_LAYOUT_VERSI
         .work-card .info h3 {{ font-size: 13px; font-weight: 600; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }}
         .work-card .info .meta {{ font-size: 11px; color: var(--text-muted); margin-top: 3px; }}
         .grid-ad-card {{ background: var(--bg-elevated); border-radius: 12px; border: 1px solid var(--border); overflow: hidden; width: 100%; padding-top: 140%; position: relative; }}
+        .grid-ad-card > *:not(.info) {{ position: absolute !important; top: 0 !important; left: 0 !important; width: 100% !important; height: 100% !important; max-width: 100% !important; max-height: 100% !important; object-fit: cover !important; margin: 0 !important; }}
         .grid-ad-card .info {{ position: absolute; left: 0; right: 0; bottom: 0; padding: 10px; }}
         .grid-ad-card .info h3 {{ font-size: 11px; font-weight: 600; color: var(--text-muted); text-transform: uppercase; letter-spacing: 0.5px; margin: 0; }}
         .pagination {{ display: flex; justify-content: center; gap: 8px; flex-wrap: wrap; margin-top: 30px; padding-top: 20px; border-top: 1px solid var(--border); }}

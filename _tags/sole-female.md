@@ -208,7 +208,7 @@ works:
       an Introvert.
     author: tamabi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/347653.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-04'
     code: 347653
     url: /works/347653/
@@ -530,7 +530,7 @@ works:
   - title: Hon no Mori no Ouji-sama | Prince of the Book Forest
     author: shibasaki-syouzi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/464782.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-09-04'
     code: 464782
     url: /works/464782/
@@ -1632,7 +1632,7 @@ works:
   - title: Kimiha Bokuno Keikokuno Bijyo | You're the Woman of my Dreams
     author: yasson-yoshiyuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/618098.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-09-04'
     code: 618098
     url: /works/618098/
@@ -1670,7 +1670,7 @@ works:
       I Loved Back Then
     author: akadashi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/625933.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-04'
     code: 625933
     url: /works/625933/

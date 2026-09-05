@@ -7,7 +7,7 @@
 # The empty front matter block below is still required so Jekyll processes
 # the Liquid tags (site.google_verification, site.works, etc.) in this file.
 ---
-<!-- arc-comic-index-version: 11 -->
+<!-- arc-comic-index-version: 12 -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -148,6 +148,18 @@
             background: var(--bg-elevated); border-radius: 12px;
             border: 1px solid var(--border); overflow: hidden;
             width: 100%; padding-top: 140%; position: relative;
+        }
+        /* Mondiad injects its creative as a direct child of this box (an
+           <a>/<img>/<div>, whichever the served ad uses) — without
+           forcing it absolute + full-size like .work-card .cover img
+           does for real covers, the injected content renders in-flow at
+           its own natural size and can overflow past the 140% aspect
+           box, which is what was breaking the tags/search/artist grids. */
+        .grid-ad-card > *:not(.info) {
+            position: absolute !important; top: 0 !important; left: 0 !important;
+            width: 100% !important; height: 100% !important;
+            max-width: 100% !important; max-height: 100% !important;
+            object-fit: cover !important; margin: 0 !important;
         }
         .grid-ad-card .info {
             position: absolute; left: 0; right: 0; bottom: 0; padding: 10px;
