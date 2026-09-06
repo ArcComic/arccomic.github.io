@@ -5,7 +5,7 @@ work_count: 2
 works:
   - title: Onee-chan Tensei! Junyuu Isekai Seikatsu | Reincarnated Big Sister! Breastfeeding
       Sex Life in Another World
-    cover: /covers/663517.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/663517.jpg
     rating: 4.4
     date: '2026-07-13'
     code: 663517

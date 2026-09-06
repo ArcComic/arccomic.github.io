@@ -36,7 +36,7 @@ works:
   - title: Midara na Sensei wa Kirai desu ka? ~Sakura Aimi no Baai~ | Do you hate lewd
       teachers? ~The Case of Sakura Aimi~
     author: macho
-    cover: /covers/514183.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/514183.jpg
     rating: 4.6
     date: '2026-07-13'
     code: 514183
@@ -50,7 +50,7 @@ works:
     url: /works/521812/
   - title: Rena
     author: shinjima-saki
-    cover: /covers/537476.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/537476.jpg
     rating: 4.2
     date: '2026-07-09'
     code: 537476
@@ -65,7 +65,7 @@ works:
     url: /works/550948/
   - title: Walking back home in the winter with my childhood friend
     author: shimetsuki-tanki
-    cover: /covers/565301.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/565301.jpg
     rating: 4.6
     date: '2026-07-13'
     code: 565301
@@ -80,7 +80,7 @@ works:
   - title: Konki Girigiri Sister, Semete Shojo wo Sutetai | If I Can't Be Married At
       Least Let Me Quit Being a Virgin
     author: torii-yoshitsuna
-    cover: /covers/566835.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/566835.jpg
     rating: 4.5
     date: '2026-04-17'
     code: 566835
@@ -95,14 +95,14 @@ works:
     url: /works/569375/
   - title: Chorozako Kanojo no Aina-chan -Mucchiri Gal to Ichalove H suru Hanashi-
     author: tokyo-gunjo
-    cover: /covers/580427.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/580427.jpg
     rating: 4.6
     date: '2026-04-19'
     code: 580427
     url: /works/580427/
   - title: Chijo Monogatari Henshitsusha (Onna) Shutsubotsu Chuu
     author: enma
-    cover: /covers/588713.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/588713.jpg
     rating: 4.9
     date: '2026-03-07'
     code: 588713
@@ -110,7 +110,7 @@ works:
   - title: Tada Sex Shitakatta dake nano ni SNS de Deatta Bimajo ga Scatolo Mania de,
       Boku wa... 1
     author: bonske
-    cover: /covers/633938.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/633938.jpg
     rating: 4.0
     date: '2026-07-09'
     code: 633938
@@ -193,7 +193,7 @@ works:
     url: /works/661586/
   - title: Under The Table
     author: tsuttsu
-    cover: /covers/663765.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/663765.jpg
     rating: 5.0
     date: '2026-07-13'
     code: 663765

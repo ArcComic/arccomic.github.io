@@ -34,14 +34,14 @@ works:
   - title: Mama Moe ~Haha o Bikou shite mita Ken~ | Mama Moe ~That Time When I Followed
       My Mom~
     author: hara-shigeyuki
-    cover: /covers/504221.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/504221.jpg
     rating: 4.9
     date: '2026-04-19'
     code: 504221
     url: /works/504221/
   - title: Automatic Romantic
     author: naganeko
-    cover: /covers/556036.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/556036.jpg
     rating: 5.0
     date: '2026-04-19'
     code: 556036
@@ -49,14 +49,14 @@ works:
   - title: Konki Girigiri Sister, Semete Shojo wo Sutetai | If I Can't Be Married At
       Least Let Me Quit Being a Virgin
     author: torii-yoshitsuna
-    cover: /covers/566835.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/566835.jpg
     rating: 4.5
     date: '2026-04-17'
     code: 566835
     url: /works/566835/
   - title: Moteki na Oku-sama
     author: hara-shigeyuki
-    cover: /covers/569195.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/569195.jpg
     rating: 4.5
     date: '2026-04-19'
     code: 569195
@@ -64,7 +64,7 @@ works:
   - title: Tannin no Meido ni Nacchatta KURO GAL 2 | The Black Gal Who Became The Homeroom
       Teacher's Maid 2
     author: ootsuka-kotora
-    cover: /covers/611701.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/611701.jpg
     rating: 4.6
     date: '2026-03-03'
     code: 611701
@@ -78,7 +78,7 @@ works:
     url: /works/643592/
   - title: PowerHara Onna Joushi to Shachiku-kun 4
     author: kurosu-gatari
-    cover: /covers/645264.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/645264.jpg
     rating: 4.6
     date: '2026-04-21'
     code: 645264
@@ -101,7 +101,7 @@ works:
     url: /works/662114/
   - title: Anal Hame Shitai Jukujo Shiri | This MILF Wants Anal Sex
     author: bonske
-    cover: /covers/662658.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662658.jpg
     rating: 4.7
     date: '2026-07-09'
     code: 662658
@@ -137,7 +137,7 @@ works:
     url: /works/675981/
   - title: Jokyoushi - Hot For Teachers | Female Teachers
     author: drill-murata
-    cover: /covers/81375.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/81375.jpg
     rating: 4.9
     date: '2026-04-18'
     code: 81375

@@ -21,7 +21,7 @@ works:
     url: /works/448503/
   - title: Seiyoku Tsuyosugi GalKano Mama
     author: naporitan
-    cover: /covers/662525.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662525.jpg
     rating: 4.2
     date: '2026-07-09'
     code: 662525
@@ -29,7 +29,7 @@ works:
   - title: It was supposed to be a story about two people who loved each other but her
       best friend stole his virginity
     author: meisuke
-    cover: /covers/664188.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/664188.jpg
     rating: 4.6
     date: '2026-07-15'
     code: 664188

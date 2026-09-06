@@ -27,14 +27,14 @@ works:
     url: /works/432301/
   - title: Kanojo wa Boku no Taieki de Ugoiteiru Phase. 05 [English] =NSS=
     author: nagareboshi
-    cover: /covers/470025.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/470025.jpg
     rating: 4.0
     date: '2026-04-15'
     code: 470025
     url: /works/470025/
   - title: Do-S Yankee JK to Do-M Hentai Teacher
     author: naganeko
-    cover: /covers/512715.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/512715.jpg
     rating: 4.3
     date: '2026-04-19'
     code: 512715
@@ -48,7 +48,7 @@ works:
     url: /works/530476/
   - title: Shut-less
     author: mr-hokke
-    cover: /covers/531966.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/531966.jpg
     rating: 4.3
     date: '2026-07-11'
     code: 531966
@@ -63,7 +63,7 @@ works:
     url: /works/537794/
   - title: Pakokatsu Oji-san to Kaede-chan (1+2+3) | Kaede and The Sugar Daddy
     author: nizigensan
-    cover: /covers/543086.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/543086.jpg
     rating: 4.9
     date: '2026-02-25'
     code: 543086
@@ -77,7 +77,7 @@ works:
     url: /works/550359/
   - title: Automatic Romantic
     author: naganeko
-    cover: /covers/556036.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/556036.jpg
     rating: 5.0
     date: '2026-04-19'
     code: 556036
@@ -113,7 +113,7 @@ works:
     url: /works/566052/
   - title: Michikake - Waxing and Waning
     author: momono-yuuca
-    cover: /covers/574060.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/574060.jpg
     rating: 4.9
     date: '2026-03-03'
     code: 574060
@@ -134,7 +134,7 @@ works:
     url: /works/606166/
   - title: My Wife, On the Other Side of The Peep Room…
     author: nekome-koi
-    cover: /covers/609714.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/609714.jpg
     rating: 4.2
     date: '2026-03-03'
     code: 609714
@@ -150,28 +150,28 @@ works:
       Sareteiru Ore no Hanashi | The Story of How I’m Treated Like a Living Dildo by
       a Big-Titted Rich Gyaru Who Has No Interest in Being Lovey-Dovey
     author: uni-toshiki
-    cover: /covers/610539.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/610539.jpg
     rating: 4.0
     date: '2026-02-26'
     code: 610539
     url: /works/610539/
   - title: Mesu Etsu Toiki Nemoto made Fukaku…
     author: drill-murata
-    cover: /covers/612957.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/612957.jpg
     rating: 4.2
     date: '2026-04-17'
     code: 612957
     url: /works/612957/
   - title: Pakokatsu Oji-san to Kaede-chan 3
     author: nizigensan
-    cover: /covers/631703.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/631703.jpg
     rating: 4.0
     date: '2026-02-25'
     code: 631703
     url: /works/631703/
   - title: 橘さん家ノ脅迫NTR事情
     author: group
-    cover: /covers/634198.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/634198.jpg
     rating: 5.0
     date: '2026-03-07'
     code: 634198
@@ -187,7 +187,7 @@ works:
     url: /works/634450/
   - title: Imouto Haramasenai to Derarenai Shima 2
     author: airandou
-    cover: /covers/643375.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/643375.jpg
     rating: 4.4
     date: '2026-04-12'
     code: 643375
@@ -277,14 +277,14 @@ works:
   - title: It was supposed to be a story about two people who loved each other but her
       best friend stole his virginity
     author: meisuke
-    cover: /covers/664188.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/664188.jpg
     rating: 4.6
     date: '2026-07-15'
     code: 664188
     url: /works/664188/
   - title: Till Dick Do Us Part
     author: ratatatat74-mr-skull
-    cover: /covers/664249.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/664249.jpg
     rating: 4.9
     date: '2026-07-15'
     code: 664249
@@ -338,7 +338,7 @@ works:
       no Inu ni Naru!
     author: darunekohanten
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678713.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-05'
     code: 678713
     url: /works/678713/

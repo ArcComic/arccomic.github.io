@@ -19,7 +19,7 @@ works:
     url: /works/388099/
   - title: Yarareru kanojo - Hitozumajoushi ManaNTR -
     author: tokyo-gunjo
-    cover: /covers/465602.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/465602.jpg
     rating: 4.7
     date: '2026-04-19'
     code: 465602
@@ -27,7 +27,7 @@ works:
   - title: Mama Moe ~Haha o Bikou shite mita Ken~ | Mama Moe ~That Time When I Followed
       My Mom~
     author: hara-shigeyuki
-    cover: /covers/504221.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/504221.jpg
     rating: 4.9
     date: '2026-04-19'
     code: 504221
@@ -41,7 +41,7 @@ works:
     url: /works/566052/
   - title: Chorozako Kanojo no Aina-chan -Mucchiri Gal to Ichalove H suru Hanashi-
     author: tokyo-gunjo
-    cover: /covers/580427.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/580427.jpg
     rating: 4.6
     date: '2026-04-19'
     code: 580427
@@ -63,7 +63,7 @@ works:
     url: /works/621185/
   - title: Koukan Nikki ー School Whore Diaries
     author: henkuma
-    cover: /covers/634328.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/634328.jpg
     rating: 4.8
     date: '2026-03-07'
     code: 634328
@@ -71,7 +71,7 @@ works:
   - title: LeveChi na Swapping 3 ~Honrosareru Fuufu Hen~ | Swapping on a Whole New Level
       3 ~The Couple At The Mercy Of Others~
     author: hikitogu
-    cover: /covers/643397.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/643397.jpg
     rating: 5.0
     date: '2026-04-12'
     code: 643397
@@ -101,7 +101,7 @@ works:
     url: /works/648550/
   - title: Till Dick Do Us Part
     author: ratatatat74-mr-skull
-    cover: /covers/664249.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/664249.jpg
     rating: 4.9
     date: '2026-07-15'
     code: 664249
@@ -129,7 +129,7 @@ works:
     url: /works/674863/
   - title: Inin Keiyaku | Lewd Pregnancy Contract
     author: yoshiura-kazuya
-    cover: /covers/83595.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/83595.jpg
     rating: 4.2
     date: '2026-03-11'
     code: 83595

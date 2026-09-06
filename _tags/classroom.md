@@ -21,7 +21,7 @@ works:
     url: /works/625933/
   - title: Manatsu no Refrain | Midsummer's Refrain
     author: gen
-    cover: /covers/639514.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/639514.jpg
     rating: 4.1
     date: '2026-07-13'
     code: 639514
@@ -50,7 +50,7 @@ works:
     url: /works/655498/
   - title: Self Help 2
     author: maeshima-ryou
-    cover: /covers/663655.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/663655.jpg
     rating: 4.9
     date: '2026-07-13'
     code: 663655
@@ -59,7 +59,7 @@ works:
       the Queen Bee Part 1
     author: gar
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673207.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-06'
     code: 673207
     url: /works/673207/

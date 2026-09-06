@@ -55,7 +55,7 @@ works:
       Sareteiru Ore no Hanashi | The Story of How I’m Treated Like a Living Dildo by
       a Big-Titted Rich Gyaru Who Has No Interest in Being Lovey-Dovey
     author: uni-toshiki
-    cover: /covers/610539.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/610539.jpg
     rating: 4.0
     date: '2026-02-26'
     code: 610539
@@ -77,7 +77,7 @@ works:
     url: /works/629368/
   - title: Mishiranu Boshi ni Yaritai Houdai
     author: tonda
-    cover: /covers/635363.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/635363.jpg
     rating: 4.6
     date: '2026-03-07'
     code: 635363
@@ -85,7 +85,7 @@ works:
   - title: 'Hanketsu, Hikokunin wa Watashi no Dildo Kei ni Shosuru | Verdict: The defendant
       is sentenced to my dildo punishment.'
     author: chotto-b-sen
-    cover: /covers/645743.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/645743.jpg
     rating: 4.2
     date: '2026-04-25'
     code: 645743

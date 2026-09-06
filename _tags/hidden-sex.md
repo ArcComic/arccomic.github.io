@@ -61,7 +61,7 @@ works:
   - title: Midara na Sensei wa Kirai desu ka? ~Sakura Aimi no Baai~ | Do you hate lewd
       teachers? ~The Case of Sakura Aimi~
     author: macho
-    cover: /covers/514183.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/514183.jpg
     rating: 4.6
     date: '2026-07-13'
     code: 514183
@@ -93,7 +93,7 @@ works:
   - title: Ane no Tomodachi to SeFri ni Natta | My Big Sister's Friends And I Became
       Sex Friends
     author: rinrikoko
-    cover: /covers/538553.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/538553.jpg
     rating: 4.8
     date: '2026-07-11'
     code: 538553
@@ -138,7 +138,7 @@ works:
     url: /works/562615/
   - title: My AR glasses can see various stats about my foster sister?!
     author: pz-x
-    cover: /covers/589010.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/589010.jpg
     rating: 4.5
     date: '2026-04-15'
     code: 589010
@@ -154,7 +154,7 @@ works:
   - title: '"Yasashii Dake no Otoko" to Tsuma ni Sute Raretanode... | My Wife Left Me
       Because I was "Too Gentle"...'
     author: special-g
-    cover: /covers/593456.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/593456.jpg
     rating: 4.4
     date: '2026-03-05'
     code: 593456
@@ -168,14 +168,14 @@ works:
     url: /works/593575/
   - title: Kouen no Oji-san-tachi ni Moteasobaretai
     author: group
-    cover: /covers/598010.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/598010.jpg
     rating: 5.0
     date: '2026-07-13'
     code: 598010
     url: /works/598010/
   - title: Hokenshitsu no Futon no Naka de Satori Sedai JK to Naisho H!
     author: niji-teru
-    cover: /covers/606725.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/606725.jpg
     rating: 4.6
     date: '2026-07-13'
     code: 606725
@@ -192,7 +192,7 @@ works:
       Kouhai ni Kikarete shimatte ita Hanashi~ | Workplace Rendezvous ~Caught Masturbating
       in the Company Restroom by My Subordinate~
     author: sato
-    cover: /covers/617492.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/617492.jpg
     rating: 4.4
     date: '2026-07-11'
     code: 617492
@@ -208,14 +208,14 @@ works:
   - title: Boku no Daisuki na Kaa-san to Omou Zonbun Sex Dekiru Hi 3 | My Fabulous Fuck
       Day with My Amazing Mommy 3
     author: higehurai
-    cover: /covers/631501.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/631501.jpg
     rating: 4.1
     date: '2026-03-05'
     code: 631501
     url: /works/631501/
   - title: 'GNO: Girl''s Night Out - Issue 02'
     author: uselessbegging
-    cover: /covers/634464.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/634464.jpg
     rating: 4.0
     date: '2026-03-07'
     code: 634464
@@ -260,7 +260,7 @@ works:
     url: /works/649039/
   - title: Musume no Kawari ni | Instead of My Daughter
     author: nanao-yukiji
-    cover: /covers/651309.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651309.jpg
     rating: 4.1
     date: '2026-07-11'
     code: 651309
@@ -290,28 +290,28 @@ works:
   - title: Jinin ’Futsuu’ Dekachichi Inkya J◯ no Maso Mesu ga Nagga〜i Chinpo de Shuuryou
       Made♡
     author: amrita
-    cover: /covers/661954.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/661954.jpg
     rating: 4.7
     date: '2026-07-09'
     code: 661954
     url: /works/661954/
   - title: Houkago Instant XXX CHAPTER 11
     author: unknown
-    cover: /covers/663654.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/663654.jpg
     rating: 4.3
     date: '2026-07-13'
     code: 663654
     url: /works/663654/
   - title: Boku ni Yuuki ga Atta nara | If only I had the courage
     author: kamakiri-akagi-ryouichi
-    cover: /covers/663672.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/663672.jpg
     rating: 4.1
     date: '2026-07-13'
     code: 663672
     url: /works/663672/
   - title: Under The Table
     author: tsuttsu
-    cover: /covers/663765.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/663765.jpg
     rating: 5.0
     date: '2026-07-13'
     code: 663765

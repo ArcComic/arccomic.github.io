@@ -33,7 +33,7 @@ works:
     url: /works/432513/
   - title: Obedience Part 1
     author: laliberte
-    cover: /covers/501709.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/501709.jpg
     rating: 4.5
     date: '2026-07-11'
     code: 501709
@@ -41,7 +41,7 @@ works:
   - title: '"Koko Ijirareru no Sukidatta yona?" Rinjin wa, Hitozuma no Moto SeFri 1-2
       | My Neighbor Was My Former Sex Friend 1-2'
     author: icelatte
-    cover: /covers/538063.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/538063.jpg
     rating: 4.1
     date: '2026-07-11'
     code: 538063
@@ -80,14 +80,14 @@ works:
   - title: Rikujoubu no Bokukko Doukyuusei ga Chuunen Komon ni Mesu ni Sareru Ichibu
       Shijuu
     author: marushin
-    cover: /covers/615775.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/615775.jpg
     rating: 4.8
     date: '2026-02-26'
     code: 615775
     url: /works/615775/
   - title: Erufu (♀) no Bokensha ga Yadoya no Shujin ni Yobai&Tanetsuke Sareru Ohanashi
     author: unknown
-    cover: /covers/631719.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/631719.jpg
     rating: 4.8
     date: '2026-02-25'
     code: 631719
@@ -95,7 +95,7 @@ works:
   - title: LeveChi na Swapping 3 ~Honrosareru Fuufu Hen~ | Swapping on a Whole New Level
       3 ~The Couple At The Mercy Of Others~
     author: hikitogu
-    cover: /covers/643397.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/643397.jpg
     rating: 5.0
     date: '2026-04-12'
     code: 643397
@@ -103,14 +103,14 @@ works:
   - title: 'Otto no Shakkin Nakadashi Hensai Gifu ni Mi o Uru Komochi Tsuma | My Husband’s
       Debt: A Wife Sells Herself to Her Father-in-Law as Creampie Repayment'
     author: onodera
-    cover: /covers/644028.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/644028.jpg
     rating: 4.0
     date: '2026-04-15'
     code: 644028
     url: /works/644028/
   - title: Sawatte Mitai? | Do You Wanna Touch?
     author: rondonko
-    cover: /covers/644309.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/644309.jpg
     rating: 4.1
     date: '2026-04-17'
     code: 644309
@@ -124,7 +124,7 @@ works:
     url: /works/652606/
   - title: Boku ni Yuuki ga Atta nara | If only I had the courage
     author: kamakiri-akagi-ryouichi
-    cover: /covers/663672.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/663672.jpg
     rating: 4.1
     date: '2026-07-13'
     code: 663672

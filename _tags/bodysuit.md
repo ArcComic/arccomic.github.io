@@ -19,7 +19,7 @@ works:
     url: /works/675048/
   - title: Hottokenaino
     author: hara-shigeyuki
-    cover: /covers/77864.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/77864.jpg
     rating: 4.6
     date: '2026-04-19'
     code: 77864

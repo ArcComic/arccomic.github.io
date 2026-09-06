@@ -34,7 +34,7 @@ works:
     url: /works/302117/
   - title: Inin Keiyaku | Lewd Pregnancy Contract
     author: yoshiura-kazuya
-    cover: /covers/83595.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/83595.jpg
     rating: 4.2
     date: '2026-03-11'
     code: 83595

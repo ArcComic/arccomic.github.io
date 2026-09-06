@@ -13,7 +13,7 @@ works:
   - title: Konki Girigiri Sister, Semete Shojo wo Sutetai | If I Can't Be Married At
       Least Let Me Quit Being a Virgin
     author: torii-yoshitsuna
-    cover: /covers/566835.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/566835.jpg
     rating: 4.5
     date: '2026-04-17'
     code: 566835
@@ -22,7 +22,7 @@ works:
       Ikioi de 3P suru Koto ni Natta Hanashi~ | Art Club Harem Activity Log: How Helping
       My Senior Get Over Her Slump Led to a Threesome in the Heat of the Moment'
     author: momokumo
-    cover: /covers/632523.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/632523.jpg
     rating: 4.3
     date: '2026-02-26'
     code: 632523

@@ -41,14 +41,14 @@ works:
     url: /works/529335/
   - title: Keitai de Muchimuchi na Chounyuu JD ni Chinpo o Shigoki Agete Morau Hanashi
     author: yosyo
-    cover: /covers/531191.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/531191.jpg
     rating: 4.4
     date: '2026-03-07'
     code: 531191
     url: /works/531191/
   - title: Ijime Bokumetsu Swapping
     author: ere-2-earo
-    cover: /covers/536072.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/536072.jpg
     rating: 4.7
     date: '2026-04-19'
     code: 536072
@@ -62,14 +62,14 @@ works:
     url: /works/558039/
   - title: Chijo Monogatari Henshitsusha (Onna) Shutsubotsu Chuu
     author: enma
-    cover: /covers/588713.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/588713.jpg
     rating: 4.9
     date: '2026-03-07'
     code: 588713
     url: /works/588713/
   - title: Alola no Yoru no Sugata Soushuuhen | Aloha Night Compilation
     author: kurosu-gatari
-    cover: /covers/609650.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/609650.jpg
     rating: 4.5
     date: '2026-04-21'
     code: 609650
@@ -77,13 +77,13 @@ works:
   - title: Seishun Soushitsu
     author: pinkjoe
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/610017.jpg
-    rating: 4.7
+    rating: 4.9
     date: '2026-05-07'
     code: 610017
     url: /works/610017/
   - title: Chijo Monogatari Bakunyuu Chijukujo to Doutei-kun
     author: enma
-    cover: /covers/635174.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/635174.jpg
     rating: 4.6
     date: '2026-03-07'
     code: 635174
@@ -112,7 +112,7 @@ works:
     url: /works/648093/
   - title: Musume no Kawari ni | Instead of My Daughter
     author: nanao-yukiji
-    cover: /covers/651309.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651309.jpg
     rating: 4.1
     date: '2026-07-11'
     code: 651309
@@ -129,7 +129,7 @@ works:
   - title: Repetitive Practice Mama! The Story of Recieving Sex Ed From an Extremely
       Strict Mother
     author: unknown
-    cover: /covers/664191.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/664191.jpg
     rating: 4.3
     date: '2026-07-15'
     code: 664191

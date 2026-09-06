@@ -108,14 +108,14 @@ works:
     url: /works/460565/
   - title: Yarareru kanojo - Hitozumajoushi ManaNTR -
     author: tokyo-gunjo
-    cover: /covers/465602.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/465602.jpg
     rating: 4.7
     date: '2026-04-19'
     code: 465602
     url: /works/465602/
   - title: Kanojo wa Boku no Taieki de Ugoiteiru Phase. 05 [English] =NSS=
     author: nagareboshi
-    cover: /covers/470025.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/470025.jpg
     rating: 4.0
     date: '2026-04-15'
     code: 470025
@@ -146,28 +146,28 @@ works:
       2 | I Was Confessed To By A Plain Busty Stalker Girl, So I Fucked Her Like Crazy
       2
     author: group
-    cover: /covers/534641.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/534641.jpg
     rating: 4.1
     date: '2026-04-23'
     code: 534641
     url: /works/534641/
   - title: Netorare x Off-Pako
     author: group
-    cover: /covers/534663.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/534663.jpg
     rating: 4.2
     date: '2026-04-19'
     code: 534663
     url: /works/534663/
   - title: Ijime Bokumetsu Swapping
     author: ere-2-earo
-    cover: /covers/536072.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/536072.jpg
     rating: 4.7
     date: '2026-04-19'
     code: 536072
     url: /works/536072/
   - title: Rena
     author: shinjima-saki
-    cover: /covers/537476.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/537476.jpg
     rating: 4.2
     date: '2026-07-09'
     code: 537476
@@ -182,7 +182,7 @@ works:
     url: /works/537794/
   - title: Pakokatsu Oji-san to Kaede-chan (1+2+3) | Kaede and The Sugar Daddy
     author: nizigensan
-    cover: /covers/543086.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/543086.jpg
     rating: 4.9
     date: '2026-02-25'
     code: 543086
@@ -214,21 +214,21 @@ works:
   - title: '"Yasashii Dake no Otoko" to Tsuma ni Sute Raretanode... | My Wife Left Me
       Because I was "Too Gentle"...'
     author: special-g
-    cover: /covers/593456.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/593456.jpg
     rating: 4.4
     date: '2026-03-05'
     code: 593456
     url: /works/593456/
   - title: Kouen no Oji-san-tachi ni Moteasobaretai
     author: group
-    cover: /covers/598010.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/598010.jpg
     rating: 5.0
     date: '2026-07-13'
     code: 598010
     url: /works/598010/
   - title: Alola no Yoru no Sugata Soushuuhen | Aloha Night Compilation
     author: kurosu-gatari
-    cover: /covers/609650.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/609650.jpg
     rating: 4.5
     date: '2026-04-21'
     code: 609650
@@ -242,14 +242,14 @@ works:
     url: /works/610041/
   - title: Mesu Etsu Toiki Nemoto made Fukaku…
     author: drill-murata
-    cover: /covers/612957.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/612957.jpg
     rating: 4.2
     date: '2026-04-17'
     code: 612957
     url: /works/612957/
   - title: 'Gal to Meccha Namahame Nakadashi Ecchi Suru Hanashi #5'
     author: pistonring-nishizawa
-    cover: /covers/617805.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/617805.jpg
     rating: 4.8
     date: '2026-03-04'
     code: 617805
@@ -264,7 +264,7 @@ works:
     url: /works/628865/
   - title: Daddy's Forgotten Life Purpose
     author: group
-    cover: /covers/631630.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/631630.jpg
     rating: 4.3
     date: '2026-03-03'
     code: 631630
@@ -272,14 +272,14 @@ works:
   - title: Boku no Kanojo wa Midasareru ~Ryokan Hen~ - I'm just here for a little bit
       of stimulation. | 深陷誘惑的女友 旅館篇
     author: mintice
-    cover: /covers/631662.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/631662.jpg
     rating: 4.2
     date: '2026-03-03'
     code: 631662
     url: /works/631662/
   - title: Pakokatsu Oji-san to Kaede-chan 3
     author: nizigensan
-    cover: /covers/631703.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/631703.jpg
     rating: 4.0
     date: '2026-02-25'
     code: 631703
@@ -288,28 +288,28 @@ works:
       Ikioi de 3P suru Koto ni Natta Hanashi~ | Art Club Harem Activity Log: How Helping
       My Senior Get Over Her Slump Led to a Threesome in the Heat of the Moment'
     author: momokumo
-    cover: /covers/632523.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/632523.jpg
     rating: 4.3
     date: '2026-02-26'
     code: 632523
     url: /works/632523/
   - title: Amoral Island
     author: alp
-    cover: /covers/633453.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/633453.jpg
     rating: 4.8
     date: '2026-03-02'
     code: 633453
     url: /works/633453/
   - title: Hotai no Jikan ~Minna no Mae de Sensei to xxx o Shimasu~
     author: mochizaki-panko
-    cover: /covers/634185.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/634185.jpg
     rating: 4.5
     date: '2026-03-05'
     code: 634185
     url: /works/634185/
   - title: 橘さん家ノ脅迫NTR事情
     author: group
-    cover: /covers/634198.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/634198.jpg
     rating: 5.0
     date: '2026-03-07'
     code: 634198
@@ -317,21 +317,21 @@ works:
   - title: Akogare no Model Jimusho ni Haitta Kekka… | The result of joining the modeling
       agency I’ve always admired...
     author: zarameccho
-    cover: /covers/634454.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/634454.jpg
     rating: 4.7
     date: '2026-03-04'
     code: 634454
     url: /works/634454/
   - title: 'GNO: Girl''s Night Out - Issue 02'
     author: uselessbegging
-    cover: /covers/634464.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/634464.jpg
     rating: 4.0
     date: '2026-03-07'
     code: 634464
     url: /works/634464/
   - title: Jimoto no Dekai Gal 2
     author: ueno-meguru
-    cover: /covers/634593.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/634593.jpg
     rating: 4.9
     date: '2026-03-07'
     code: 634593
@@ -339,21 +339,21 @@ works:
   - title: Sex Shinai to Derarenai Hotel 2 | The hotel you can't leave without having
       sex 2
     author: jeattle
-    cover: /covers/635068.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/635068.jpg
     rating: 5.0
     date: '2026-04-18'
     code: 635068
     url: /works/635068/
   - title: Onee-san to Shiyo? ~Echinpo Card de Yaritai Houdai~
     author: minato-yuu
-    cover: /covers/635801.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/635801.jpg
     rating: 4.6
     date: '2026-03-09'
     code: 635801
     url: /works/635801/
   - title: Chinpo ni Katenai Onna-tachi
     author: oobayashi-mori
-    cover: /covers/638359.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638359.jpg
     rating: 4.3
     date: '2026-04-19'
     code: 638359
@@ -382,49 +382,49 @@ works:
     url: /works/642586/
   - title: My Childhood Friend Twins Become Another Man’s Onahole 1-3
     author: unknown
-    cover: /covers/643193.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/643193.jpg
     rating: 4.7
     date: '2026-04-11'
     code: 643193
     url: /works/643193/
   - title: Imouto Haramasenai to Derarenai Shima 2
     author: airandou
-    cover: /covers/643375.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/643375.jpg
     rating: 4.4
     date: '2026-04-12'
     code: 643375
     url: /works/643375/
   - title: Prefab
     author: lioreo
-    cover: /covers/643975.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/643975.jpg
     rating: 4.6
     date: '2026-04-15'
     code: 643975
     url: /works/643975/
   - title: Sawatte Mitai? | Do You Wanna Touch?
     author: rondonko
-    cover: /covers/644309.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/644309.jpg
     rating: 4.1
     date: '2026-04-17'
     code: 644309
     url: /works/644309/
   - title: Daisuki Datta Onii-chan | My Once Beloved Older Cousin
     author: minakami-riku
-    cover: /covers/644495.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/644495.jpg
     rating: 5.0
     date: '2026-04-17'
     code: 644495
     url: /works/644495/
   - title: DOLLS 2
     author: crimson-carmine
-    cover: /covers/644707.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/644707.jpg
     rating: 4.0
     date: '2026-04-19'
     code: 644707
     url: /works/644707/
   - title: Ecchi na Onee-san-tachi ni Onsenyado de Hokakusareta Ken
     author: ishigaki-takashi
-    cover: /covers/644924.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/644924.jpg
     rating: 4.9
     date: '2026-04-21'
     code: 644924
@@ -432,7 +432,7 @@ works:
   - title: Ane Mama ~ Atarashii Onee-chan to Mama wa Ore no Sex Friend ni Narimashita.
       ~
     author: group
-    cover: /covers/645383.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/645383.jpg
     rating: 4.3
     date: '2026-04-23'
     code: 645383
@@ -536,7 +536,7 @@ works:
     url: /works/648522/
   - title: Shirayuki Mishiro & Enomiya Milk Saimin Sakunyuu Play Hon Matome
     author: rurimaru
-    cover: /covers/648800.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/648800.jpg
     rating: 4.0
     date: '2026-07-13'
     code: 648800
@@ -647,28 +647,28 @@ works:
     url: /works/662094/
   - title: Ketsusenryaku | The Ass Strategy
     author: ariga-tou
-    cover: /covers/662370.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662370.jpg
     rating: 4.3
     date: '2026-07-08'
     code: 662370
     url: /works/662370/
   - title: Shoujo Baishun Shima | Girl Prostitution Island
     author: nada-shio
-    cover: /covers/662647.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662647.jpg
     rating: 4.7
     date: '2026-07-09'
     code: 662647
     url: /works/662647/
   - title: Natsu Loli Ism Ch. 1-4
     author: molokonomi-hiraya-nobori
-    cover: /covers/663056.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/663056.jpg
     rating: 4.8
     date: '2026-07-11'
     code: 663056
     url: /works/663056/
   - title: Y-kun
     author: kireina-mochi
-    cover: /covers/663130.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/663130.jpg
     rating: 4.3
     date: '2026-07-11'
     code: 663130
@@ -676,14 +676,14 @@ works:
   - title: It was supposed to be a story about two people who loved each other but her
       best friend stole his virginity
     author: meisuke
-    cover: /covers/664188.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/664188.jpg
     rating: 4.6
     date: '2026-07-15'
     code: 664188
     url: /works/664188/
   - title: When All Men Become Women
     author: shikabanekamo
-    cover: /covers/664193.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/664193.jpg
     rating: 5.0
     date: '2026-07-15'
     code: 664193
@@ -863,7 +863,7 @@ works:
   - title: Akumu Revenge 3 | Nightmare Revenge 3
     author: coupe
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678643.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-05'
     code: 678643
     url: /works/678643/

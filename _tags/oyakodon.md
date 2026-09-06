@@ -20,7 +20,7 @@ works:
   - title: '"Yasashii Dake no Otoko" to Tsuma ni Sute Raretanode... | My Wife Left Me
       Because I was "Too Gentle"...'
     author: special-g
-    cover: /covers/593456.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/593456.jpg
     rating: 4.4
     date: '2026-03-05'
     code: 593456
@@ -34,21 +34,21 @@ works:
     url: /works/608648/
   - title: Alola no Yoru no Sugata Soushuuhen | Aloha Night Compilation
     author: kurosu-gatari
-    cover: /covers/609650.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/609650.jpg
     rating: 4.5
     date: '2026-04-21'
     code: 609650
     url: /works/609650/
   - title: 橘さん家ノ脅迫NTR事情
     author: group
-    cover: /covers/634198.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/634198.jpg
     rating: 5.0
     date: '2026-03-07'
     code: 634198
     url: /works/634198/
   - title: Mishiranu Boshi ni Yaritai Houdai
     author: tonda
-    cover: /covers/635363.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/635363.jpg
     rating: 4.6
     date: '2026-03-07'
     code: 635363
@@ -56,7 +56,7 @@ works:
   - title: Ane Mama ~ Atarashii Onee-chan to Mama wa Ore no Sex Friend ni Narimashita.
       ~
     author: group
-    cover: /covers/645383.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/645383.jpg
     rating: 4.3
     date: '2026-04-23'
     code: 645383
@@ -115,7 +115,7 @@ works:
   - title: Akumu Revenge 3 | Nightmare Revenge 3
     author: coupe
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678643.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-05'
     code: 678643
     url: /works/678643/

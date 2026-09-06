@@ -6,7 +6,7 @@ works:
   - title: Ane no Tomodachi to SeFri ni Natta | My Big Sister's Friends And I Became
       Sex Friends
     author: rinrikoko
-    cover: /covers/538553.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/538553.jpg
     rating: 4.8
     date: '2026-07-11'
     code: 538553

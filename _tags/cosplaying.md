@@ -1,11 +1,11 @@
 ---
 layout: tag
 tag_name: "cosplaying"
-work_count: 9
+work_count: 10
 works:
   - title: 'Sono Koi wa Color Code #F88CB0 | That Love is Color Code #F88CB0'
     author: chiba-toshirou
-    cover: /covers/481441.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/481441.jpg
     rating: 4.8
     date: '2026-04-17'
     code: 481441
@@ -57,6 +57,14 @@ works:
     date: '2026-05-26'
     code: 652218
     url: /works/652218/
+  - title: Totsuzen Ane ga Dekita Hanashi 4 | The Story of How I Suddenly Got Older
+      Sisters 4
+    author: oshima-aki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/669459.jpg
+    rating: 4.4
+    date: '2026-09-04'
+    code: 669459
+    url: /works/669459/
   - title: Nuite Moraimakuri Nyuuin Seikatsu ~Tasuketa Cool-Gyaru wa Jitsu wa Sukebe
       deshita~
     author: gujira

@@ -19,7 +19,7 @@ works:
     url: /works/429669/
   - title: Risato
     author: unknown
-    cover: /covers/484852.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/484852.jpg
     rating: 4.5
     date: '2026-02-28'
     code: 484852
@@ -40,7 +40,7 @@ works:
     url: /works/593064/
   - title: Kaya-nee and the Old Man Memories
     author: kon-kit
-    cover: /covers/598144.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/598144.jpg
     rating: 4.3
     date: '2026-03-09'
     code: 598144
@@ -63,7 +63,7 @@ works:
   - title: 'Otto no Shakkin Nakadashi Hensai Gifu ni Mi o Uru Komochi Tsuma | My Husband’s
       Debt: A Wife Sells Herself to Her Father-in-Law as Creampie Repayment'
     author: onodera
-    cover: /covers/644028.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/644028.jpg
     rating: 4.0
     date: '2026-04-15'
     code: 644028
@@ -93,7 +93,7 @@ works:
     url: /works/662945/
   - title: Natsu Loli Ism Ch. 1-4
     author: molokonomi-hiraya-nobori
-    cover: /covers/663056.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/663056.jpg
     rating: 4.8
     date: '2026-07-11'
     code: 663056
@@ -101,7 +101,7 @@ works:
   - title: Hontou no Shinkon Seikatsu wa, Oji-san no Ie de Hajimattemasu | My real life
       as a newlywed has begun at the Oji-san's house.
     author: damda
-    cover: /covers/663089.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/663089.jpg
     rating: 4.6
     date: '2026-07-11'
     code: 663089

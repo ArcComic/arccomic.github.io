@@ -7,7 +7,7 @@ works:
       Zako ww~
     author: kakun
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/660471.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-05'
     code: 660471
     url: /works/660471/

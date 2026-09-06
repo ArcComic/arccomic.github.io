@@ -34,7 +34,7 @@ works:
     url: /works/446716/
   - title: Oppai na Natsuyasumi Soushuuhen | The Summer Break of Boobs Complete
     author: higashino-mikan
-    cover: /covers/508649.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/508649.jpg
     rating: 4.3
     date: '2026-03-04'
     code: 508649
@@ -50,7 +50,7 @@ works:
     url: /works/510022/
   - title: Pakokatsu Oji-san to Kaede-chan (1+2+3) | Kaede and The Sugar Daddy
     author: nizigensan
-    cover: /covers/543086.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/543086.jpg
     rating: 4.9
     date: '2026-02-25'
     code: 543086
@@ -106,14 +106,14 @@ works:
     url: /works/625933/
   - title: Kajitsu 7
     author: ken-1
-    cover: /covers/631665.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/631665.jpg
     rating: 4.5
     date: '2026-03-03'
     code: 631665
     url: /works/631665/
   - title: Ecchi na Onee-san-tachi ni Onsenyado de Hokakusareta Ken
     author: ishigaki-takashi
-    cover: /covers/644924.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/644924.jpg
     rating: 4.9
     date: '2026-04-21'
     code: 644924
@@ -137,7 +137,7 @@ works:
   - title: Ally-san wa Doko Demo Ikitai!! 3
     author: inukami-inoji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/650926.jpg
-    rating: 4.9
+    rating: 4.7
     date: '2026-05-20'
     code: 650926
     url: /works/650926/
@@ -159,7 +159,7 @@ works:
     url: /works/660399/
   - title: Seiyoku Mamire no Tsumamigoro - My Wife is a Lustructor
     author: emine-kendama
-    cover: /covers/661349.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/661349.jpg
     rating: 4.1
     date: '2026-07-09'
     code: 661349
@@ -173,7 +173,7 @@ works:
     url: /works/661596/
   - title: Shoujo Baishun Shima | Girl Prostitution Island
     author: nada-shio
-    cover: /covers/662647.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662647.jpg
     rating: 4.7
     date: '2026-07-09'
     code: 662647

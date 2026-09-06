@@ -13,14 +13,14 @@ works:
     url: /works/448503/
   - title: Saimin ♥ Saimin | Hypno ♥ Hypno
     author: minamida-usuke
-    cover: /covers/576398.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/576398.jpg
     rating: 4.1
     date: '2026-04-23'
     code: 576398
     url: /works/576398/
   - title: Chijo Monogatari Henshitsusha (Onna) Shutsubotsu Chuu
     author: enma
-    cover: /covers/588713.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/588713.jpg
     rating: 4.9
     date: '2026-03-07'
     code: 588713

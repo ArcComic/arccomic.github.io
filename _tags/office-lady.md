@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "office lady"
-work_count: 16
+work_count: 17
 works:
   - title: Sei no Kenryoku | The Power of Sex
     author: tomohiro-kai
@@ -70,7 +70,7 @@ works:
   - title: 'Buka ni #UraAcc o Shiraretara | If My Subordinate Finds Out About My Secret
       Alt Account'
     author: gar
-    cover: /covers/557689.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/557689.jpg
     rating: 4.2
     date: '2026-04-23'
     code: 557689
@@ -79,13 +79,13 @@ works:
       Vaginally By My Junior
     author: tarara
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/567355.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-06'
     code: 567355
     url: /works/567355/
   - title: Saimin ♥ Saimin | Hypno ♥ Hypno
     author: minamida-usuke
-    cover: /covers/576398.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/576398.jpg
     rating: 4.1
     date: '2026-04-23'
     code: 576398
@@ -93,7 +93,7 @@ works:
   - title: Ain't No Stoppin' Us Now
     author: jagayamatarawo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/589313.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-06'
     code: 589313
     url: /works/589313/
@@ -105,18 +105,25 @@ works:
     date: '2026-05-26'
     code: 624573
     url: /works/624573/
+  - title: My Tall, Stacked, Virgin Boss 1
+    author: yunamaro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654603.jpg
+    rating: 4.7
+    date: '2026-09-06'
+    code: 654603
+    url: /works/654603/
   - title: Gohoubi wa Karada de. ~Ero-sugi Fukuri Kousei wa Seishori-ka no Oshigoto~
       (2) | The Reward is the Body ~The Overly Lewd Employee Benefits of the Service
       Department~
     author: c-kyuu
-    cover: /covers/664027.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/664027.jpg
     rating: 4.9
     date: '2026-07-15'
     code: 664027
     url: /works/664027/
   - title: KAWAKAMI FROM THE SEXUAL RELIEF DIVISION
     author: carpsukidayo
-    cover: /covers/664460.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/664460.jpg
     rating: 5.0
     date: '2026-07-16'
     code: 664460

@@ -12,7 +12,7 @@ works:
     url: /works/427676/
   - title: 'Sono Koi wa Color Code #F88CB0 | That Love is Color Code #F88CB0'
     author: chiba-toshirou
-    cover: /covers/481441.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/481441.jpg
     rating: 4.8
     date: '2026-04-17'
     code: 481441
@@ -27,14 +27,14 @@ works:
     url: /works/600237/
   - title: Metamorphosis
     author: shindol
-    cover: /covers/616358.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/616358.jpg
     rating: 4.6
     date: '2026-07-15'
     code: 616358
     url: /works/616358/
   - title: 'Ace Attorney: No Escape'
     author: mr-kurz
-    cover: /covers/620818.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/620818.jpg
     rating: 4.3
     date: '2026-03-07'
     code: 620818
@@ -48,7 +48,7 @@ works:
     url: /works/631036/
   - title: moderately risky 2
     author: borikori
-    cover: /covers/632800.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/632800.jpg
     rating: 4.3
     date: '2026-03-03'
     code: 632800
@@ -64,7 +64,7 @@ works:
     url: /works/634450/
   - title: 'GNO: Girl''s Night Out - Issue 02'
     author: uselessbegging
-    cover: /covers/634464.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/634464.jpg
     rating: 4.0
     date: '2026-03-07'
     code: 634464
@@ -78,7 +78,7 @@ works:
     url: /works/639772/
   - title: My Childhood Friend Twins Become Another Man’s Onahole 1-3
     author: unknown
-    cover: /covers/643193.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/643193.jpg
     rating: 4.7
     date: '2026-04-11'
     code: 643193

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "gender change"
-work_count: 7
+work_count: 6
 works:
   - title: Seiten no Hekireki | TS Thunderclap
     author: regdic
@@ -47,11 +47,4 @@ works:
     date: '2026-05-03'
     code: 524761
     url: /works/524761/
-  - title: Holy Bitch 1
-    author: testame
-    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/677230.jpg
-    rating: 4.7
-    date: '2026-08-31'
-    code: 677230
-    url: /works/677230/
 ---

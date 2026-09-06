@@ -20,7 +20,7 @@ works:
     url: /works/555849/
   - title: Honeori! Osewa Girl♡ | SK8er Girl Lends Me a Hand!
     author: kyaradain
-    cover: /covers/634609.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/634609.jpg
     rating: 4.5
     date: '2026-03-05'
     code: 634609
@@ -69,7 +69,7 @@ works:
       Otaku, Fell for the Busty Idol Who Transferred to My School
     author: manno
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/677731.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-04'
     code: 677731
     url: /works/677731/

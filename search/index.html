@@ -1,6 +1,6 @@
 ---
 ---
-<!-- arc-comic-index-version: 11 -->
+<!-- arc-comic-index-version: 12 -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -34,8 +34,16 @@
         .search-box input:focus { border-color: var(--accent); }
         .search-box .search-icon { position: absolute; left: 16px; top: 50%; transform: translateY(-50%); font-size: 18px; }
         .search-box button { background: var(--accent); color: #000; border: none; border-radius: 12px; padding: 0 22px; font-weight: 700; font-size: 14px; cursor: pointer; }
-        .results-title { font-size: 20px; font-weight: 700; margin-bottom: 20px; }
+        .results-title { font-size: 20px; font-weight: 700; margin-bottom: 0; }
         .results-title span { color: var(--accent); }
+        .toolbar { display: flex; justify-content: flex-end; margin-bottom: 20px; }
+        .toolbar select {
+            background: var(--bg-card); color: var(--text); border: 1px solid var(--border);
+            border-radius: 10px; padding: 10px 14px; font-size: 13px; cursor: pointer;
+        }
+        .results-header { display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 12px; margin-bottom: 20px; }
+        .results-header .results-title { margin-bottom: 0; }
+        .results-header .toolbar { margin-bottom: 0; }
         .works-grid { display: grid; grid-template-columns: repeat(5, 1fr); gap: 16px; }
         .work-card {
             background: var(--bg-card); border-radius: 12px; border: 1px solid var(--border);
@@ -48,13 +56,15 @@
         .work-card .info h3 { font-size: 13px; font-weight: 600; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
         .work-card .info .meta { font-size: 11px; color: var(--text-muted); margin-top: 3px; }
         .ad-slot {
-            margin: 20px 0; display: flex; justify-content: center; align-items: center;
-            min-height: 100px; max-height: 300px; width: 100%;
-            background: var(--bg-card); border-radius: 12px; border: 1px solid var(--border); overflow: hidden;
+            margin: 20px auto; display: flex; justify-content: center; align-items: center;
+            width: 100%; max-width: 336px; min-height: 50px;
         }
-        .ad-slot > * { max-width: 100% !important; max-height: 100% !important;
-            width: auto !important; height: auto !important; }
-        .ad-slot img, .ad-slot iframe { object-fit: contain; }
+        /* Banner creatives are served at fixed sizes by Mondiad — this
+           slot must not resize/crop them (policy risk), so it just gives
+           the ad room and centers it rather than constraining its child.
+           max-width is a layout hint matching a common Banner size; match
+           it to this zone's actual configured size in Mondiad's dashboard
+           if that differs, instead of forcing it with CSS again. */
         .no-results { text-align: center; padding: 60px 20px; color: var(--text-muted); }
         .pagination { display: flex; justify-content: center; gap: 8px; flex-wrap: wrap; margin-top: 30px; padding-top: 20px; border-top: 1px solid var(--border); }
         .pagination a, .pagination span { padding: 8px 14px; border-radius: 8px; font-size: 14px; font-weight: 600; text-decoration: none; }
@@ -62,6 +72,7 @@
         .pagination a:hover { background: var(--accent); color: #000; }
         .pagination span { background: var(--accent); color: #000; }
         .pagination-ellipsis { padding: 8px 6px; color: var(--text-muted); font-weight: 600; user-select: none; }
+        .footer { text-align: center; padding: 30px 0 10px; color: var(--text-muted); font-size: 13px; }
         @media (max-width: 768px) { .works-grid { grid-template-columns: repeat(2, 1fr); } }
     </style>
 </head>
@@ -77,12 +88,24 @@
             </div>
         </div>
         <div class="ad-slot-container" id="topAdContainer"></div>
-        <h2 class="results-title" id="resultsTitle">Search Results</h2>
+        <div class="results-header">
+            <h2 class="results-title" id="resultsTitle">Search Results</h2>
+            <div class="toolbar" id="sortToolbar" style="display:none;">
+                <select id="sortSelect">
+                    <option value="recent">Most Recent</option>
+                    <option value="oldest">Oldest</option>
+                    <option value="rating">Highest Rated</option>
+                </select>
+            </div>
+        </div>
         <div class="works-grid" id="worksGrid"></div>
         <div class="no-results" id="noResults" style="display:none;">No comics match your search.</div>
         <div class="pagination" id="pagination"></div>
         <div class="ad-slot-container" id="bottomAdContainer"></div>
         {% include follow_us.html %}
+        <div class="footer">
+            <p>{{ site.data.site_meta.footer_html }}</p>
+        </div>
     </div>
     <script>
         
@@ -176,6 +199,15 @@
             document.getElementById('bottomAdContainer').innerHTML = '';
         }
 
+        function applySort(list) {
+            const mode = document.getElementById('sortSelect').value;
+            const sorted = [...list];
+            if (mode === 'oldest') sorted.sort((a, b) => new Date(a.date) - new Date(b.date));
+            else if (mode === 'rating') sorted.sort((a, b) => parseFloat(b.rating) - parseFloat(a.rating));
+            else sorted.sort((a, b) => new Date(b.date) - new Date(a.date)); // recent (default)
+            return sorted;
+        }
+
         function renderPage(page) {
             page = page || 1;
             const start = (page - 1) * PER_PAGE;
@@ -201,29 +233,36 @@
                 document.getElementById('worksGrid').innerHTML = '';
                 document.getElementById('pagination').innerHTML = '';
                 clearAds();
+                document.getElementById('sortToolbar').style.display = 'none';
                 document.getElementById('noResults').style.display = 'block';
                 document.getElementById('noResults').textContent = 'Type something in the search box above.';
                 return;
             }
 
-            // Sort most-recent-first by default, same as every other grid page.
             const query = q.toLowerCase();
-            currentResults = works.filter(w =>
+            const matches = works.filter(w =>
                 w.title.toLowerCase().includes(query) ||
                 w.author.toLowerCase().includes(query) ||
                 (w.code || '').toLowerCase().includes(query) ||
                 (w.tags || []).some(t => t.toLowerCase().includes(query))
-            ).sort((a, b) => new Date(b.date) - new Date(a.date));
+            );
+            // Sorting is applied on top of the matched set, using whatever
+            // the sort dropdown is currently set to — lets someone search
+            // then sort those results (e.g. by rating) for a better fit,
+            // rather than always locking search results to recency.
+            currentResults = applySort(matches);
 
             const noResults = document.getElementById('noResults');
             if (currentResults.length === 0) {
                 document.getElementById('worksGrid').innerHTML = '';
                 document.getElementById('pagination').innerHTML = '';
                 clearAds();
+                document.getElementById('sortToolbar').style.display = 'none';
                 noResults.style.display = 'block';
                 noResults.textContent = 'No comics match your search.';
             } else {
                 noResults.style.display = 'none';
+                document.getElementById('sortToolbar').style.display = 'flex';
                 renderPage(1);
             }
         }
@@ -236,6 +275,10 @@
         document.getElementById('searchBtn').addEventListener('click', goSearch);
         document.getElementById('searchInput').addEventListener('keydown', function(e) {
             if (e.key === 'Enter') goSearch();
+        });
+        document.getElementById('sortSelect').addEventListener('change', function() {
+            currentResults = applySort(currentResults);
+            renderPage(1);
         });
 
         runSearch(getQueryParam('q'));

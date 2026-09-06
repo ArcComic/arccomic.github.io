@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "gymshorts"
-work_count: 8
+work_count: 9
 works:
   - title: Suki Araba Kareshi no Seiheki o Yugametai! ~Kimi no Aegi ga Mada Tarinai~
     author: meeko
@@ -29,15 +29,22 @@ works:
   - title: Rikujoubu no Bokukko Doukyuusei ga Chuunen Komon ni Mesu ni Sareru Ichibu
       Shijuu
     author: marushin
-    cover: /covers/615775.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/615775.jpg
     rating: 4.8
     date: '2026-02-26'
     code: 615775
     url: /works/615775/
+  - title: Boku no Toshiue no Tomodachi | My Older Friend
+    author: buta
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/631036.jpg
+    rating: 4.4
+    date: '2026-05-26'
+    code: 631036
+    url: /works/631036/
   - title: Sewayaki na Kyonyuu Gakkyuu Iinchou Sono 1-20 | The Kind and Caring Busty
       Class Rep Ch.1-20
     author: makosho
-    cover: /covers/635514.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/635514.jpg
     rating: 4.1
     date: '2026-03-08'
     code: 635514

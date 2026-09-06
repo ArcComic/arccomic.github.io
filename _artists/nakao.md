@@ -12,7 +12,7 @@ works:
     url: /works/661565/
   - title: Kimi no Mae de Kimi Igai o Daku Ch. 29 | Having Sex with Someone Else in
       Front of You 29
-    cover: /covers/662343.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662343.jpg
     rating: 4.0
     date: '2026-07-08'
     code: 662343

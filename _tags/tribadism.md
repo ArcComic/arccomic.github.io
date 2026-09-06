@@ -12,7 +12,7 @@ works:
     url: /works/387365/
   - title: Celestial Doll 1-5
     author: mr-kurz
-    cover: /covers/595353.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/595353.jpg
     rating: 5.0
     date: '2026-04-21'
     code: 595353
@@ -21,7 +21,7 @@ works:
       Kouhai ni Kikarete shimatte ita Hanashi~ | Workplace Rendezvous ~Caught Masturbating
       in the Company Restroom by My Subordinate~
     author: sato
-    cover: /covers/617492.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/617492.jpg
     rating: 4.4
     date: '2026-07-11'
     code: 617492

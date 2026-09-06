@@ -64,21 +64,21 @@ works:
     url: /works/452482/
   - title: 'Sono Koi wa Color Code #F88CB0 | That Love is Color Code #F88CB0'
     author: chiba-toshirou
-    cover: /covers/481441.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/481441.jpg
     rating: 4.8
     date: '2026-04-17'
     code: 481441
     url: /works/481441/
   - title: Kinpatsu Chounyuu Gal ni Gyaku Deriheru Atsukai Sarete Iru Ore no Hanashi
     author: uni-toshiki
-    cover: /covers/502694.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/502694.jpg
     rating: 4.2
     date: '2026-03-04'
     code: 502694
     url: /works/502694/
   - title: Do-S Yankee JK to Do-M Hentai Teacher
     author: naganeko
-    cover: /covers/512715.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/512715.jpg
     rating: 4.3
     date: '2026-04-19'
     code: 512715
@@ -99,14 +99,14 @@ works:
     url: /works/536423/
   - title: Kanrakugai ~Neon Kagayaku Uragawa de~ 3
     author: oobayashi-mori
-    cover: /covers/549597.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/549597.jpg
     rating: 4.9
     date: '2026-04-18'
     code: 549597
     url: /works/549597/
   - title: Chorozako Kanojo no Aina-chan -Mucchiri Gal to Ichalove H suru Hanashi-
     author: tokyo-gunjo
-    cover: /covers/580427.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/580427.jpg
     rating: 4.6
     date: '2026-04-19'
     code: 580427
@@ -136,7 +136,7 @@ works:
       Sareteiru Ore no Hanashi | The Story of How I’m Treated Like a Living Dildo by
       a Big-Titted Rich Gyaru Who Has No Interest in Being Lovey-Dovey
     author: uni-toshiki
-    cover: /covers/610539.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/610539.jpg
     rating: 4.0
     date: '2026-02-26'
     code: 610539
@@ -144,7 +144,7 @@ works:
   - title: Tannin no Meido ni Nacchatta KURO GAL 2 | The Black Gal Who Became The Homeroom
       Teacher's Maid 2
     author: ootsuka-kotora
-    cover: /covers/611701.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/611701.jpg
     rating: 4.6
     date: '2026-03-03'
     code: 611701
@@ -158,7 +158,7 @@ works:
     url: /works/613739/
   - title: 'Gal to Meccha Namahame Nakadashi Ecchi Suru Hanashi #5'
     author: pistonring-nishizawa
-    cover: /covers/617805.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/617805.jpg
     rating: 4.8
     date: '2026-03-04'
     code: 617805
@@ -173,7 +173,7 @@ works:
   - title: Kareshi ni Betabore Chuu no Gal Senpai ga, Ore to Tsukiau made - Be my girlfriend!
       Rio-senpai!
     author: unknown
-    cover: /covers/632528.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/632528.jpg
     rating: 4.9
     date: '2026-02-26'
     code: 632528
@@ -181,14 +181,14 @@ works:
   - title: Rikujoubu no Boyish na Osananajimi ga suru Dare ni mo Ienai Koto | The Secret
       Activity of My Boyish Childhood Friend from the Track Team
     author: harufumi
-    cover: /covers/632761.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/632761.jpg
     rating: 4.7
     date: '2026-02-26'
     code: 632761
     url: /works/632761/
   - title: moderately risky 2
     author: borikori
-    cover: /covers/632800.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/632800.jpg
     rating: 4.3
     date: '2026-03-03'
     code: 632800
@@ -205,21 +205,21 @@ works:
   - title: Akogare no Model Jimusho ni Haitta Kekka… | The result of joining the modeling
       agency I’ve always admired...
     author: zarameccho
-    cover: /covers/634454.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/634454.jpg
     rating: 4.7
     date: '2026-03-04'
     code: 634454
     url: /works/634454/
   - title: Jimoto no Dekai Gal
     author: ueno-meguru
-    cover: /covers/634592.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/634592.jpg
     rating: 4.1
     date: '2026-03-05'
     code: 634592
     url: /works/634592/
   - title: Jimoto no Dekai Gal 2
     author: ueno-meguru
-    cover: /covers/634593.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/634593.jpg
     rating: 4.9
     date: '2026-03-07'
     code: 634593
@@ -227,14 +227,14 @@ works:
   - title: Sex Shinai to Derarenai Hotel 2 | The hotel you can't leave without having
       sex 2
     author: jeattle
-    cover: /covers/635068.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/635068.jpg
     rating: 5.0
     date: '2026-04-18'
     code: 635068
     url: /works/635068/
   - title: Imouto Oppai de Sukusuku Seikatsu
     author: asaomi-shimura
-    cover: /covers/636802.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/636802.jpg
     rating: 4.6
     date: '2026-07-13'
     code: 636802
@@ -249,7 +249,7 @@ works:
   - title: Ane Mama ~ Atarashii Onee-chan to Mama wa Ore no Sex Friend ni Narimashita.
       ~
     author: group
-    cover: /covers/645383.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/645383.jpg
     rating: 4.3
     date: '2026-04-23'
     code: 645383
@@ -264,7 +264,7 @@ works:
     url: /works/645507/
   - title: Yarinuki Gal
     author: uenosuke
-    cover: /covers/645537.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/645537.jpg
     rating: 4.3
     date: '2026-04-23'
     code: 645537
@@ -317,7 +317,7 @@ works:
   - title: Ally-san wa Doko Demo Ikitai!! 3
     author: inukami-inoji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/650926.jpg
-    rating: 4.9
+    rating: 4.7
     date: '2026-05-20'
     code: 650926
     url: /works/650926/
@@ -337,7 +337,7 @@ works:
     url: /works/651499/
   - title: Akogare no Oppai wa Ane no Aji
     author: emine-kendama
-    cover: /covers/657256.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/657256.jpg
     rating: 5.0
     date: '2026-07-09'
     code: 657256
@@ -374,7 +374,7 @@ works:
     url: /works/661909/
   - title: Seiyoku Tsuyosugi GalKano Mama
     author: naporitan
-    cover: /covers/662525.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662525.jpg
     rating: 4.2
     date: '2026-07-09'
     code: 662525
@@ -382,7 +382,7 @@ works:
   - title: The Delinquent Gyaru That I Fantasize About Found Out! | Furyou Gal de Ero
       Mousou Shitetara Honnin ni Bareta Ken
     author: dynamite-moca
-    cover: /covers/663389.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/663389.jpg
     rating: 4.1
     date: '2026-07-13'
     code: 663389
@@ -390,7 +390,7 @@ works:
   - title: It was supposed to be a story about two people who loved each other but her
       best friend stole his virginity
     author: meisuke
-    cover: /covers/664188.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/664188.jpg
     rating: 4.6
     date: '2026-07-15'
     code: 664188
@@ -473,7 +473,7 @@ works:
   - title: My childhood friend, the “black gal,” who's surprisingly easy to sway
     author: zarameccho
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/677418.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-04'
     code: 677418
     url: /works/677418/
@@ -482,7 +482,7 @@ works:
       Otaku, Fell for the Busty Idol Who Transferred to My School
     author: manno
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/677731.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-04'
     code: 677731
     url: /works/677731/
@@ -497,7 +497,7 @@ works:
       no Inu ni Naru!
     author: darunekohanten
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678713.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-05'
     code: 678713
     url: /works/678713/

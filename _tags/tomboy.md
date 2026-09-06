@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "tomboy"
-work_count: 26
+work_count: 27
 works:
   - title: Kizashi
     author: yoshiura-kazuya
@@ -47,7 +47,7 @@ works:
     url: /works/452141/
   - title: Obedience Part 1
     author: laliberte
-    cover: /covers/501709.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/501709.jpg
     rating: 4.5
     date: '2026-07-11'
     code: 501709
@@ -77,7 +77,7 @@ works:
   - title: Rikujoubu no Bokukko Doukyuusei ga Chuunen Komon ni Mesu ni Sareru Ichibu
       Shijuu
     author: marushin
-    cover: /covers/615775.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/615775.jpg
     rating: 4.8
     date: '2026-02-26'
     code: 615775
@@ -85,14 +85,14 @@ works:
   - title: Rikujoubu no Boyish na Osananajimi ga suru Dare ni mo Ienai Koto | The Secret
       Activity of My Boyish Childhood Friend from the Track Team
     author: harufumi
-    cover: /covers/632761.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/632761.jpg
     rating: 4.7
     date: '2026-02-26'
     code: 632761
     url: /works/632761/
   - title: Honeori! Osewa Girl♡ | SK8er Girl Lends Me a Hand!
     author: kyaradain
-    cover: /covers/634609.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/634609.jpg
     rating: 4.5
     date: '2026-03-05'
     code: 634609
@@ -100,7 +100,7 @@ works:
   - title: Kasshoku Buaisou Yakyuu-bu Manager no Yowami Nigitta | I Found the Grumpy,
       Brown-Skinned Baseball Manager's Weakness
     author: kitano-onsen
-    cover: /covers/644931.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/644931.jpg
     rating: 5.0
     date: '2026-04-21'
     code: 644931
@@ -108,7 +108,7 @@ works:
   - title: 'Hanketsu, Hikokunin wa Watashi no Dildo Kei ni Shosuru | Verdict: The defendant
       is sentenced to my dildo punishment.'
     author: chotto-b-sen
-    cover: /covers/645743.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/645743.jpg
     rating: 4.2
     date: '2026-04-25'
     code: 645743
@@ -159,21 +159,21 @@ works:
     url: /works/660869/
   - title: Ketsusenryaku | The Ass Strategy
     author: ariga-tou
-    cover: /covers/662370.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662370.jpg
     rating: 4.3
     date: '2026-07-08'
     code: 662370
     url: /works/662370/
   - title: Boku ni Yuuki ga Atta nara | If only I had the courage
     author: kamakiri-akagi-ryouichi
-    cover: /covers/663672.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/663672.jpg
     rating: 4.1
     date: '2026-07-13'
     code: 663672
     url: /works/663672/
   - title: Shinseki no Ko to Otokoyu Haittara Onnanoko datta *Jikotte Sounyuu
     author: unknown
-    cover: /covers/664170.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/664170.jpg
     rating: 4.5
     date: '2026-07-15'
     code: 664170
@@ -192,4 +192,12 @@ works:
     date: '2026-08-29'
     code: 676425
     url: /works/676425/
+  - title: My Girlfriend Was Stolen by a Cool Girl Who Dresses Like a Guy, So I Taught
+      Her a Lesson 3
+    author: kurukuru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/677732.jpg
+    rating: 4.9
+    date: '2026-09-04'
+    code: 677732
+    url: /works/677732/
 ---

@@ -41,7 +41,7 @@ works:
     url: /works/455844/
   - title: Kinpatsu Chounyuu Gal ni Gyaku Deriheru Atsukai Sarete Iru Ore no Hanashi
     author: uni-toshiki
-    cover: /covers/502694.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/502694.jpg
     rating: 4.2
     date: '2026-03-04'
     code: 502694
@@ -55,7 +55,7 @@ works:
     url: /works/508818/
   - title: '"Yoyaku Shimasu ka? Asashio no Onaka"'
     author: ootsuka-kotora
-    cover: /covers/509474.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/509474.jpg
     rating: 4.9
     date: '2026-03-03'
     code: 509474
@@ -92,7 +92,7 @@ works:
   - title: Midara na Sensei wa Kirai desu ka? ~Sakura Aimi no Baai~ | Do you hate lewd
       teachers? ~The Case of Sakura Aimi~
     author: macho
-    cover: /covers/514183.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/514183.jpg
     rating: 4.6
     date: '2026-07-13'
     code: 514183
@@ -101,7 +101,7 @@ works:
       too sexy...
     author: yamakonbu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/515799.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-09-05'
     code: 515799
     url: /works/515799/
@@ -122,7 +122,7 @@ works:
     url: /works/518161/
   - title: Uchi no Musuko ga Uma sugite | My Son Is Too Clever
     author: yuriko-club
-    cover: /covers/519274.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/519274.jpg
     rating: 4.1
     date: '2026-04-15'
     code: 519274
@@ -150,7 +150,7 @@ works:
     url: /works/525085/
   - title: Haha Netori
     author: aoi-hitori
-    cover: /covers/527171.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/527171.jpg
     rating: 4.4
     date: '2026-04-16'
     code: 527171
@@ -164,7 +164,7 @@ works:
     url: /works/530728/
   - title: Keitai de Muchimuchi na Chounyuu JD ni Chinpo o Shigoki Agete Morau Hanashi
     author: yosyo
-    cover: /covers/531191.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/531191.jpg
     rating: 4.4
     date: '2026-03-07'
     code: 531191
@@ -195,7 +195,7 @@ works:
     url: /works/537794/
   - title: Extra Virgin Mama
     author: hara-shigeyuki
-    cover: /covers/541631.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/541631.jpg
     rating: 4.8
     date: '2026-04-19'
     code: 541631
@@ -219,7 +219,7 @@ works:
     url: /works/543494/
   - title: Okaa-san Itadakimasu. 3
     author: andoryu
-    cover: /covers/544477.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/544477.jpg
     rating: 4.2
     date: '2026-07-15'
     code: 544477
@@ -233,7 +233,7 @@ works:
     url: /works/547393/
   - title: Choukyou Zumi Hitozuma OL wa Joushi ni Dakare Futatabi Ochiru
     author: toono-suika
-    cover: /covers/550164.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/550164.jpg
     rating: 4.0
     date: '2026-07-10'
     code: 550164
@@ -248,7 +248,7 @@ works:
     url: /works/550823/
   - title: Oni no Kyouiku Mama ga Musuko to Amaama SEX made
     author: yuriko-club
-    cover: /covers/551186.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/551186.jpg
     rating: 4.2
     date: '2026-04-15'
     code: 551186
@@ -269,8 +269,8 @@ works:
     url: /works/553426/
   - title: '- YOINOAYAMACHI - Part.1'
     author: sashimi
-    cover: /covers/556895.jpg
-    rating: 4.6
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/556895.jpg
+    rating: 4.0
     date: '2026-03-09'
     code: 556895
     url: /works/556895/
@@ -290,7 +290,7 @@ works:
     url: /works/558039/
   - title: Netorare jk Osananajimi Suieibu 3
     author: aikawa-tatsuki
-    cover: /covers/563342.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/563342.jpg
     rating: 4.2
     date: '2026-03-02'
     code: 563342
@@ -312,14 +312,14 @@ works:
     url: /works/569375/
   - title: Natsudashi kasshoku bijōfu hori ni ikko | 興起適逢烈夏至 相尋佳郎正當時
     author: unknown
-    cover: /covers/569575.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/569575.jpg
     rating: 4.1
     date: '2026-03-09'
     code: 569575
     url: /works/569575/
   - title: Hitozuma Netorare Sugano Hinako Hen
     author: nerumesian
-    cover: /covers/570215.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/570215.jpg
     rating: 4.9
     date: '2026-04-13'
     code: 570215
@@ -329,7 +329,7 @@ works:
       with My Gutsy Mother,
     author: kuruto
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/575674.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-05'
     code: 575674
     url: /works/575674/
@@ -349,7 +349,7 @@ works:
     url: /works/578583/
   - title: Kugisaki Anal Otoshi
     author: ishigaki-takashi
-    cover: /covers/579976.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/579976.jpg
     rating: 4.7
     date: '2026-04-21'
     code: 579976
@@ -364,7 +364,7 @@ works:
   - title: ENG-Chiune_Kimodebu Sugite Kivotos o Horoboshita Sensei ga Bessekaisen no
       Yuuka o NTR Ryoujoku suru Hon
     author: chiune
-    cover: /covers/583131.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/583131.jpg
     rating: 4.2
     date: '2026-03-02'
     code: 583131
@@ -408,21 +408,21 @@ works:
     url: /works/587724/
   - title: Undercover at the Onsen
     author: yumoteliuce
-    cover: /covers/588862.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/588862.jpg
     rating: 4.2
     date: '2026-03-09'
     code: 588862
     url: /works/588862/
   - title: My AR glasses can see various stats about my foster sister?!
     author: pz-x
-    cover: /covers/589010.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/589010.jpg
     rating: 4.5
     date: '2026-04-15'
     code: 589010
     url: /works/589010/
   - title: 母さんはホームヘルパー〜部屋の片付けから性欲処理まで
     author: '41'
-    cover: /covers/592285.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/592285.jpg
     rating: 4.1
     date: '2026-03-09'
     code: 592285
@@ -443,7 +443,7 @@ works:
     url: /works/595788/
   - title: Kaya-nee and the Old Man Memories
     author: kon-kit
-    cover: /covers/598144.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/598144.jpg
     rating: 4.3
     date: '2026-03-09'
     code: 598144
@@ -451,7 +451,7 @@ works:
   - title: Metsuki no Warui Kidaruge na Kouhai ni Shiboritorareru | Squeezed Up By My
       Junior Girl Who Is Gloomy
     author: oburigakko
-    cover: /covers/603756.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/603756.jpg
     rating: 4.3
     date: '2026-03-02'
     code: 603756
@@ -465,28 +465,28 @@ works:
     url: /works/606719/
   - title: Hokenshitsu no Futon no Naka de Satori Sedai JK to Naisho H!
     author: niji-teru
-    cover: /covers/606725.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/606725.jpg
     rating: 4.6
     date: '2026-07-13'
     code: 606725
     url: /works/606725/
   - title: Kanojo no Bad Luck ~Oya no Saikon, Dekita Gikei wa Seijuu Datta~
     author: yokoshima
-    cover: /covers/608868.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/608868.jpg
     rating: 4.7
     date: '2026-07-10'
     code: 608868
     url: /works/608868/
   - title: Alola no Yoru no Sugata Soushuuhen | Aloha Night Compilation
     author: kurosu-gatari
-    cover: /covers/609650.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/609650.jpg
     rating: 4.5
     date: '2026-04-21'
     code: 609650
     url: /works/609650/
   - title: My Wife, On the Other Side of The Peep Room…
     author: nekome-koi
-    cover: /covers/609714.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/609714.jpg
     rating: 4.2
     date: '2026-03-03'
     code: 609714
@@ -494,13 +494,13 @@ works:
   - title: Seishun Soushitsu
     author: pinkjoe
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/610017.jpg
-    rating: 4.7
+    rating: 4.9
     date: '2026-05-07'
     code: 610017
     url: /works/610017/
   - title: Dasuru Haha Musuko ni Nandomo Irerarete
     author: daidai-shikibu
-    cover: /covers/612083.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/612083.jpg
     rating: 4.9
     date: '2026-04-14'
     code: 612083
@@ -528,7 +528,7 @@ works:
     url: /works/615835/
   - title: 'Mother and Child Living Together Chapter 2 : Puberty'
     author: fuwatoro-opanchu-cake
-    cover: /covers/616170.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/616170.jpg
     rating: 4.6
     date: '2026-04-14'
     code: 616170
@@ -550,7 +550,7 @@ works:
     url: /works/616533/
   - title: 'Gal to Meccha Namahame Nakadashi Ecchi Suru Hanashi #5'
     author: pistonring-nishizawa
-    cover: /covers/617805.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/617805.jpg
     rating: 4.8
     date: '2026-03-04'
     code: 617805
@@ -564,7 +564,7 @@ works:
     url: /works/618562/
   - title: 女孩們的玩具初體驗 | Girl's First Experience With Toys
     author: muzi
-    cover: /covers/624694.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/624694.jpg
     rating: 4.8
     date: '2026-03-04'
     code: 624694
@@ -593,35 +593,35 @@ works:
     url: /works/630901/
   - title: Dansei Idol ni Okasareru Hanashi
     author: ema
-    cover: /covers/630903.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/630903.jpg
     rating: 4.3
     date: '2026-04-13'
     code: 630903
     url: /works/630903/
   - title: 人質 〜カノジョはヒトジチ〜
     author: nokenya
-    cover: /covers/631651.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/631651.jpg
     rating: 4.2
     date: '2026-03-03'
     code: 631651
     url: /works/631651/
   - title: Gusai, Saikyouiku. | Dumb wife, re-education.
     author: ushio-kiyoshi
-    cover: /covers/631677.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/631677.jpg
     rating: 4.8
     date: '2026-03-03'
     code: 631677
     url: /works/631677/
   - title: Pakokatsu Oji-san to Kaede-chan 3
     author: nizigensan
-    cover: /covers/631703.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/631703.jpg
     rating: 4.0
     date: '2026-02-25'
     code: 631703
     url: /works/631703/
   - title: Erufu (♀) no Bokensha ga Yadoya no Shujin ni Yobai&Tanetsuke Sareru Ohanashi
     author: unknown
-    cover: /covers/631719.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/631719.jpg
     rating: 4.8
     date: '2026-02-25'
     code: 631719
@@ -644,7 +644,7 @@ works:
     url: /works/632132/
   - title: Haha ni Muketa Seiyoku
     author: maccha-neji
-    cover: /covers/632534.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/632534.jpg
     rating: 4.1
     date: '2026-03-04'
     code: 632534
@@ -652,14 +652,14 @@ works:
   - title: Rikujoubu no Boyish na Osananajimi ga suru Dare ni mo Ienai Koto | The Secret
       Activity of My Boyish Childhood Friend from the Track Team
     author: harufumi
-    cover: /covers/632761.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/632761.jpg
     rating: 4.7
     date: '2026-02-26'
     code: 632761
     url: /works/632761/
   - title: moderately risky 2
     author: borikori
-    cover: /covers/632800.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/632800.jpg
     rating: 4.3
     date: '2026-03-03'
     code: 632800
@@ -668,7 +668,7 @@ works:
       Rio-senpai! | Being Clingy with Your Boyfriend... Kyaru, Senpai Why Not Date Me
       Next?
     author: butter-drip
-    cover: /covers/633278.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/633278.jpg
     rating: 4.4
     date: '2026-07-10'
     code: 633278
@@ -676,21 +676,21 @@ works:
   - title: Tada Sex Shitakatta dake nano ni SNS de Deatta Bimajo ga Scatolo Mania de,
       Boku wa... 1
     author: bonske
-    cover: /covers/633938.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/633938.jpg
     rating: 4.0
     date: '2026-07-09'
     code: 633938
     url: /works/633938/
   - title: The Big-Breasted Lady at the Delivery Destination Is Way Too Lewd
     author: nishibi-mitsuba
-    cover: /covers/634156.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/634156.jpg
     rating: 4.9
     date: '2026-03-03'
     code: 634156
     url: /works/634156/
   - title: 橘さん家ノ脅迫NTR事情
     author: group
-    cover: /covers/634198.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/634198.jpg
     rating: 5.0
     date: '2026-03-07'
     code: 634198
@@ -698,35 +698,35 @@ works:
   - title: Akogare no Model Jimusho ni Haitta Kekka… | The result of joining the modeling
       agency I’ve always admired...
     author: zarameccho
-    cover: /covers/634454.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/634454.jpg
     rating: 4.7
     date: '2026-03-04'
     code: 634454
     url: /works/634454/
   - title: Namaiki JK mo, Ossan Chinpo no Mae de wa Muryoku desu.
     author: unknown
-    cover: /covers/634472.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/634472.jpg
     rating: 4.2
     date: '2026-03-04'
     code: 634472
     url: /works/634472/
   - title: Naku Hodo Kimochi Ii Rape shite Ageru
     author: yo-jin
-    cover: /covers/635241.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/635241.jpg
     rating: 4.2
     date: '2026-03-07'
     code: 635241
     url: /works/635241/
   - title: Imouto Oppai de Sukusuku Seikatsu
     author: asaomi-shimura
-    cover: /covers/636802.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/636802.jpg
     rating: 4.6
     date: '2026-07-13'
     code: 636802
     url: /works/636802/
   - title: Oneesan no Chitsu-nai ni Shiroi Oshikko to Kiiroi Oshikko
     author: mosaic-book
-    cover: /covers/636807.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/636807.jpg
     rating: 5.0
     date: '2026-07-13'
     code: 636807
@@ -771,14 +771,14 @@ works:
     url: /works/638218/
   - title: Chinpo ni Katenai Onna-tachi
     author: oobayashi-mori
-    cover: /covers/638359.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638359.jpg
     rating: 4.3
     date: '2026-04-19'
     code: 638359
     url: /works/638359/
   - title: Kaa-san to Sex Shita Mikkakan | Three Days of Sex with My Mom
     author: unknown
-    cover: /covers/639194.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/639194.jpg
     rating: 4.3
     date: '2026-04-15'
     code: 639194
@@ -843,7 +843,7 @@ works:
     url: /works/642770/
   - title: My Childhood Friend Twins Become Another Man’s Onahole 1-3
     author: unknown
-    cover: /covers/643193.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/643193.jpg
     rating: 4.7
     date: '2026-04-11'
     code: 643193
@@ -851,7 +851,7 @@ works:
   - title: Misuzu no Oheya kara Hitoban Nigerarenai Hon  | The Book Where You Can't
       Escape Misuzu's Room All Night Long.
     author: cure-slum
-    cover: /covers/643235.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/643235.jpg
     rating: 4.8
     date: '2026-04-14'
     code: 643235
@@ -860,7 +860,7 @@ works:
       Seiganku ni natta Riyuu~ | My Cashier Girlfriend ~The Reason I, Who Was Working
       for My Boyfriend’s Sake, Became the Store Manager’s Sex Toy~
     author: mashumarodan
-    cover: /covers/643511.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/643511.jpg
     rating: 4.3
     date: '2026-04-12'
     code: 643511
@@ -874,14 +874,14 @@ works:
     url: /works/643592/
   - title: Teikou Suru hodo Nurete Shimau | The more I resist, the wetter I get
     author: tianoblue
-    cover: /covers/643633.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/643633.jpg
     rating: 4.9
     date: '2026-04-13'
     code: 643633
     url: /works/643633/
   - title: Hataya Misuzu no P Ikusei Nisshi | Misuzu Hataya Training Diary
     author: unknown
-    cover: /covers/643807.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/643807.jpg
     rating: 4.5
     date: '2026-04-14'
     code: 643807
@@ -889,14 +889,14 @@ works:
   - title: Tantou Idol ga Totsuzen Heya ni Arawareta Ken | The Case Where My Assigned
       Idol Misuzu Suddenly Appeared in My Room
     author: unknown
-    cover: /covers/643808.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/643808.jpg
     rating: 4.1
     date: '2026-04-14'
     code: 643808
     url: /works/643808/
   - title: Ijimerare Musume to ijirikko ~ ore shika shiranaiyarashii karada
     author: unknown
-    cover: /covers/644176.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/644176.jpg
     rating: 4.4
     date: '2026-04-16'
     code: 644176
@@ -911,7 +911,7 @@ works:
     url: /works/644296/
   - title: Kimiha Zurui | You're being unfair
     author: nomura-teruya
-    cover: /covers/644888.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/644888.jpg
     rating: 4.3
     date: '2026-04-19'
     code: 644888
@@ -919,7 +919,7 @@ works:
   - title: DeliHeal Yondara Moto Doukyuusei ga Kita 2 |  I Called an Escort and My Former
       Classmate Showed Up 2
     author: unknown
-    cover: /covers/645136.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/645136.jpg
     rating: 4.1
     date: '2026-04-21'
     code: 645136
@@ -927,14 +927,14 @@ works:
   - title: Ane Mama ~ Atarashii Onee-chan to Mama wa Ore no Sex Friend ni Narimashita.
       ~
     author: group
-    cover: /covers/645383.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/645383.jpg
     rating: 4.3
     date: '2026-04-23'
     code: 645383
     url: /works/645383/
   - title: Yarinuki Gal
     author: uenosuke
-    cover: /covers/645537.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/645537.jpg
     rating: 4.3
     date: '2026-04-23'
     code: 645537
@@ -956,7 +956,7 @@ works:
   - title: 'Hanketsu, Hikokunin wa Watashi no Dildo Kei ni Shosuru | Verdict: The defendant
       is sentenced to my dildo punishment.'
     author: chotto-b-sen
-    cover: /covers/645743.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/645743.jpg
     rating: 4.2
     date: '2026-04-25'
     code: 645743
@@ -1118,7 +1118,7 @@ works:
     url: /works/648522/
   - title: Shirayuki Mishiro & Enomiya Milk Saimin Sakunyuu Play Hon Matome
     author: rurimaru
-    cover: /covers/648800.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/648800.jpg
     rating: 4.0
     date: '2026-07-13'
     code: 648800
@@ -1388,7 +1388,7 @@ works:
     url: /works/657207/
   - title: Akogare no Oppai wa Ane no Aji
     author: emine-kendama
-    cover: /covers/657256.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/657256.jpg
     rating: 5.0
     date: '2026-07-09'
     code: 657256
@@ -1402,7 +1402,7 @@ works:
     url: /works/657981/
   - title: Warui Ko | Bad Girl
     author: arai-kei
-    cover: /covers/658005.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/658005.jpg
     rating: 4.6
     date: '2026-07-09'
     code: 658005
@@ -1432,7 +1432,7 @@ works:
       Zako ww~
     author: kakun
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/660471.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-05'
     code: 660471
     url: /works/660471/
@@ -1597,7 +1597,7 @@ works:
   - title: Jinin ’Futsuu’ Dekachichi Inkya J◯ no Maso Mesu ga Nagga〜i Chinpo de Shuuryou
       Made♡
     author: amrita
-    cover: /covers/661954.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/661954.jpg
     rating: 4.7
     date: '2026-07-09'
     code: 661954
@@ -1612,14 +1612,14 @@ works:
   - title: 'Hyoui AV AV Joyuu no Karada o Sukihoudai Suru Hanashi | Possession AV: A
       story about doing whatever you want with a porn star''s body'
     author: ame-no-machi
-    cover: /covers/662184.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662184.jpg
     rating: 4.4
     date: '2026-07-08'
     code: 662184
     url: /works/662184/
   - title: 'Sanae no Kiken na Kami Asobi | Sanae in Danger: Playing with the Gods'
     author: hozmi
-    cover: /covers/662200.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662200.jpg
     rating: 4.2
     date: '2026-07-08'
     code: 662200
@@ -1627,63 +1627,63 @@ works:
   - title: L-cup Housewife Onahole Slave Kanae (39) ~A Week of Being Driven Wild by
       Another Man's Cock~
     author: unknown
-    cover: /covers/662202.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662202.jpg
     rating: 4.3
     date: '2026-07-08'
     code: 662202
     url: /works/662202/
   - title: Shiori no Nai Akumu
     author: unknown
-    cover: /covers/662203.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662203.jpg
     rating: 4.6
     date: '2026-07-08'
     code: 662203
     url: /works/662203/
   - title: Sister Sara to Madara-Chan
     author: ohno-kanae
-    cover: /covers/662208.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662208.jpg
     rating: 4.1
     date: '2026-07-08'
     code: 662208
     url: /works/662208/
   - title: Suki na Joshi ga Hentai Yuujin ni Kuwareta
     author: kemusi-no-bansan-kai
-    cover: /covers/662215.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662215.jpg
     rating: 4.4
     date: '2026-07-08'
     code: 662215
     url: /works/662215/
   - title: Yurui Ko
     author: sena-monaco
-    cover: /covers/662356.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662356.jpg
     rating: 4.3
     date: '2026-07-08'
     code: 662356
     url: /works/662356/
   - title: Seiyoku Tsuyosugi GalKano Mama
     author: naporitan
-    cover: /covers/662525.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662525.jpg
     rating: 4.2
     date: '2026-07-09'
     code: 662525
     url: /works/662525/
   - title: Pure Delight A Front-Row Seat
     author: daikanki
-    cover: /covers/662550.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662550.jpg
     rating: 4.6
     date: '2026-07-09'
     code: 662550
     url: /works/662550/
   - title: Joukyou, Saikai, Sex Akogare no Haru-nee
     author: unknown
-    cover: /covers/662871.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662871.jpg
     rating: 4.1
     date: '2026-07-10'
     code: 662871
     url: /works/662871/
   - title: Fallen 2
     author: unknown
-    cover: /covers/662873.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662873.jpg
     rating: 4.9
     date: '2026-07-10'
     code: 662873
@@ -1698,21 +1698,21 @@ works:
   - title: Hontou no Shinkon Seikatsu wa, Oji-san no Ie de Hajimattemasu | My real life
       as a newlywed has begun at the Oji-san's house.
     author: damda
-    cover: /covers/663089.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/663089.jpg
     rating: 4.6
     date: '2026-07-11'
     code: 663089
     url: /works/663089/
   - title: Y-kun
     author: kireina-mochi
-    cover: /covers/663130.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/663130.jpg
     rating: 4.3
     date: '2026-07-11'
     code: 663130
     url: /works/663130/
   - title: Metal Girl Ie Onanie
     author: ishimura-ishimiso
-    cover: /covers/663142.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/663142.jpg
     rating: 4.3
     date: '2026-07-11'
     code: 663142
@@ -1720,42 +1720,42 @@ works:
   - title: 12-Nenkan Chinpo Tachishiteta Shin Mama ga Musuko no Dōkyūsei ni Netorare
       Tanetsuke Oho Akume de Mesu no Yorokobi ni Ochita Hi
     author: unknown
-    cover: /covers/663605.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/663605.jpg
     rating: 4.6
     date: '2026-07-13'
     code: 663605
     url: /works/663605/
   - title: Kyouiku Mama Musuko no Chinpo ni Kyouiku Sareru
     author: himegoto-jukujo
-    cover: /covers/663622.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/663622.jpg
     rating: 4.7
     date: '2026-07-13'
     code: 663622
     url: /works/663622/
   - title: Boku ni Yuuki ga Atta nara | If only I had the courage
     author: kamakiri-akagi-ryouichi
-    cover: /covers/663672.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/663672.jpg
     rating: 4.1
     date: '2026-07-13'
     code: 663672
     url: /works/663672/
   - title: '] Ore no Onna'
     author: amanagi-seiji
-    cover: /covers/663681.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/663681.jpg
     rating: 4.6
     date: '2026-07-13'
     code: 663681
     url: /works/663681/
   - title: Inuzuka-san and her Unusual Hobbies
     author: carpsukidayo
-    cover: /covers/664022.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/664022.jpg
     rating: 4.7
     date: '2026-07-16'
     code: 664022
     url: /works/664022/
   - title: Shinseki no Ko to Otokoyu Haittara Onnanoko datta *Jikotte Sounyuu
     author: unknown
-    cover: /covers/664170.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/664170.jpg
     rating: 4.5
     date: '2026-07-15'
     code: 664170
@@ -1763,7 +1763,7 @@ works:
   - title: It was supposed to be a story about two people who loved each other but her
       best friend stole his virginity
     author: meisuke
-    cover: /covers/664188.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/664188.jpg
     rating: 4.6
     date: '2026-07-15'
     code: 664188
@@ -1771,7 +1771,7 @@ works:
   - title: Repetitive Practice Mama! The Story of Recieving Sex Ed From an Extremely
       Strict Mother
     author: unknown
-    cover: /covers/664191.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/664191.jpg
     rating: 4.3
     date: '2026-07-15'
     code: 664191
@@ -1780,7 +1780,7 @@ works:
       Asedaku Netori Sex | Sweat-Drenched NTR: A Sultry Month Transforming a Prim and
       Proper Wife into a Lustful Woman'
     author: kinengusa
-    cover: /covers/664392.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/664392.jpg
     rating: 4.8
     date: '2026-07-15'
     code: 664392
@@ -1802,7 +1802,7 @@ works:
     url: /works/664447/
   - title: KAWAKAMI FROM THE SEXUAL RELIEF DIVISION
     author: carpsukidayo
-    cover: /covers/664460.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/664460.jpg
     rating: 5.0
     date: '2026-07-16'
     code: 664460
@@ -2302,7 +2302,7 @@ works:
     date: '2026-08-31'
     code: 676326
     url: /works/676326/
-  - title: Yurishita 2 THE IDOLMï¼ STER GIRLS LOVE!
+  - title: Yurishita 2 THE IDOLM＠STER GIRLS LOVE!
     author: houki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/676327.jpg
     rating: 4.2
@@ -2362,7 +2362,7 @@ works:
   - title: My childhood friend, the “black gal,” who's surprisingly easy to sway
     author: zarameccho
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/677418.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-04'
     code: 677418
     url: /works/677418/
@@ -2371,7 +2371,7 @@ works:
       Otaku, Fell for the Busty Idol Who Transferred to My School
     author: manno
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/677731.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-04'
     code: 677731
     url: /works/677731/
@@ -2379,7 +2379,7 @@ works:
       Her a Lesson 3
     author: kurukuru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/677732.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-04'
     code: 677732
     url: /works/677732/
@@ -2388,14 +2388,14 @@ works:
       a competitive swimsuit
     author: shiro-maru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678648.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-05'
     code: 678648
     url: /works/678648/
   - title: Moshimo Kemono de Kanjitara
     author: chikiko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678664.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-05'
     code: 678664
     url: /works/678664/
@@ -2410,22 +2410,22 @@ works:
       no Inu ni Naru!
     author: darunekohanten
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678713.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-05'
     code: 678713
     url: /works/678713/
   - title: Why I Can't Resist My Swimmer Girlfriend's Temptations - Ore ga Suieibu Ace
       no Yuuwaku o Kobamenai Riyuu
     author: chacharan
-    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678715.jpg
-    rating: 0.0
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.devhttps://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678715.jpg
+    rating: 4.4
     date: '2026-09-05'
     code: 678715
     url: /works/678715/
   - title: Majime na Doukyuusei ga Love Love Namahame Sex o suru made
     author: takeyuu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678718.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-05'
     code: 678718
     url: /works/678718/
@@ -2433,7 +2433,7 @@ works:
       Kouhai ni Oboresaserareta Watashi~'
     author: mittsuman
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678720.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-05'
     code: 678720
     url: /works/678720/
@@ -2442,7 +2442,7 @@ works:
       her
     author: kurihara-kenshirou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678913.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-06'
     code: 678913
     url: /works/678913/

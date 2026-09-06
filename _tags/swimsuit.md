@@ -42,7 +42,7 @@ works:
   - title: Jibun ni dake Atari ga Tsuyoi Seito ni Saiminjutsu o Kaketa Hanashi | A story
       of how I hypnotized a student who was only mean to me.
     author: akahito
-    cover: /covers/580323.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/580323.jpg
     rating: 4.8
     date: '2026-03-04'
     code: 580323
@@ -58,7 +58,7 @@ works:
   - title: '"Yasashii Dake no Otoko" to Tsuma ni Sute Raretanode... | My Wife Left Me
       Because I was "Too Gentle"...'
     author: special-g
-    cover: /covers/593456.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/593456.jpg
     rating: 4.4
     date: '2026-03-05'
     code: 593456
@@ -66,7 +66,7 @@ works:
   - title: Metsuki no Warui Kidaruge na Kouhai ni Shiboritorareru | Squeezed Up By My
       Junior Girl Who Is Gloomy
     author: oburigakko
-    cover: /covers/603756.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/603756.jpg
     rating: 4.3
     date: '2026-03-02'
     code: 603756
@@ -74,14 +74,14 @@ works:
   - title: Rikujoubu no Bokukko Doukyuusei ga Chuunen Komon ni Mesu ni Sareru Ichibu
       Shijuu
     author: marushin
-    cover: /covers/615775.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/615775.jpg
     rating: 4.8
     date: '2026-02-26'
     code: 615775
     url: /works/615775/
   - title: Koukan Nikki ー School Whore Diaries
     author: henkuma
-    cover: /covers/634328.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/634328.jpg
     rating: 4.8
     date: '2026-03-07'
     code: 634328
@@ -89,7 +89,7 @@ works:
   - title: Sex Shinai to Derarenai Hotel 2 | The hotel you can't leave without having
       sex 2
     author: jeattle
-    cover: /covers/635068.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/635068.jpg
     rating: 5.0
     date: '2026-04-18'
     code: 635068
@@ -97,14 +97,14 @@ works:
   - title: Sewayaki na Kyonyuu Gakkyuu Iinchou Sono 1-20 | The Kind and Caring Busty
       Class Rep Ch.1-20
     author: makosho
-    cover: /covers/635514.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/635514.jpg
     rating: 4.1
     date: '2026-03-08'
     code: 635514
     url: /works/635514/
   - title: Osananajimi de Koibito no Kanojo to Shitai Koto Zenbu 2
     author: takashina-asahi
-    cover: /covers/635794.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/635794.jpg
     rating: 4.4
     date: '2026-03-09'
     code: 635794
@@ -173,7 +173,7 @@ works:
   - title: Ally-san wa Doko Demo Ikitai!! 3
     author: inukami-inoji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/650926.jpg
-    rating: 4.9
+    rating: 4.7
     date: '2026-05-20'
     code: 650926
     url: /works/650926/
@@ -216,14 +216,14 @@ works:
     url: /works/661935/
   - title: Buck-Chichi! | Gambling! Volume 2
     author: lime
-    cover: /covers/662877.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662877.jpg
     rating: 4.9
     date: '2026-07-10'
     code: 662877
     url: /works/662877/
   - title: Natsu Loli Ism Ch. 1-4
     author: molokonomi-hiraya-nobori
-    cover: /covers/663056.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/663056.jpg
     rating: 4.8
     date: '2026-07-11'
     code: 663056
@@ -278,7 +278,7 @@ works:
       Her a Lesson 3
     author: kurukuru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/677732.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-04'
     code: 677732
     url: /works/677732/
@@ -287,15 +287,15 @@ works:
       a competitive swimsuit
     author: shiro-maru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678648.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-05'
     code: 678648
     url: /works/678648/
   - title: Why I Can't Resist My Swimmer Girlfriend's Temptations - Ore ga Suieibu Ace
       no Yuuwaku o Kobamenai Riyuu
     author: chacharan
-    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678715.jpg
-    rating: 0.0
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.devhttps://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678715.jpg
+    rating: 4.4
     date: '2026-09-05'
     code: 678715
     url: /works/678715/
@@ -303,7 +303,7 @@ works:
       Kouhai ni Oboresaserareta Watashi~'
     author: mittsuman
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678720.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-05'
     code: 678720
     url: /works/678720/

@@ -36,7 +36,7 @@ works:
     url: /works/506303/
   - title: Shut-less
     author: mr-hokke
-    cover: /covers/531966.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/531966.jpg
     rating: 4.3
     date: '2026-07-11'
     code: 531966
@@ -50,7 +50,7 @@ works:
     url: /works/557452/
   - title: Siblings Shouldn't Do It! | Kyoudai de Shitara Ikemasen
     author: fence-14
-    cover: /covers/635266.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/635266.jpg
     rating: 4.7
     date: '2026-03-07'
     code: 635266
@@ -64,14 +64,14 @@ works:
     url: /works/635512/
   - title: Imouto Haramasenai to Derarenai Shima 2
     author: airandou
-    cover: /covers/643375.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/643375.jpg
     rating: 4.4
     date: '2026-04-12'
     code: 643375
     url: /works/643375/
   - title: PowerHara Onna Joushi to Shachiku-kun 4
     author: kurosu-gatari
-    cover: /covers/645264.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/645264.jpg
     rating: 4.6
     date: '2026-04-21'
     code: 645264
@@ -101,7 +101,7 @@ works:
     url: /works/662114/
   - title: Metal Girl Ie Onanie
     author: ishimura-ishimiso
-    cover: /covers/663142.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/663142.jpg
     rating: 4.3
     date: '2026-07-11'
     code: 663142

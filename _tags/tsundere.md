@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "tsundere"
-work_count: 13
+work_count: 15
 works:
   - title: Madamada, Shitemitai. - I still want to try.
     author: danimaru
@@ -21,7 +21,7 @@ works:
       Sareteiru Ore no Hanashi | The Story of How I’m Treated Like a Living Dildo by
       a Big-Titted Rich Gyaru Who Has No Interest in Being Lovey-Dovey
     author: uni-toshiki
-    cover: /covers/610539.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/610539.jpg
     rating: 4.0
     date: '2026-02-26'
     code: 610539
@@ -40,9 +40,16 @@ works:
     date: '2026-05-26'
     code: 631036
     url: /works/631036/
+  - title: Honeori! Osewa Girl♡ | SK8er Girl Lends Me a Hand!
+    author: kyaradain
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/634609.jpg
+    rating: 4.5
+    date: '2026-03-05'
+    code: 634609
+    url: /works/634609/
   - title: Siblings Shouldn't Do It! | Kyoudai de Shitara Ikemasen
     author: fence-14
-    cover: /covers/635266.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/635266.jpg
     rating: 4.7
     date: '2026-03-07'
     code: 635266
@@ -95,9 +102,16 @@ works:
   - title: The Delinquent Gyaru That I Fantasize About Found Out! | Furyou Gal de Ero
       Mousou Shitetara Honnin ni Bareta Ken
     author: dynamite-moca
-    cover: /covers/663389.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/663389.jpg
     rating: 4.1
     date: '2026-07-13'
     code: 663389
     url: /works/663389/
+  - title: Maou Hime wa Koui ga Jakuten | The Demon Lord Princess is Weak to Affection
+    author: monchan-rev3
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/674710.jpg
+    rating: 5.0
+    date: '2026-08-21'
+    code: 674710
+    url: /works/674710/
 ---

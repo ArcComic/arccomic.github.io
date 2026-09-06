@@ -55,14 +55,14 @@ works:
     url: /works/455844/
   - title: Minpaku ~Ojou-sama-tachi wa Minpaku Keieisha no Wana ni Ochiru~
     author: kinugasa-yuuichi
-    cover: /covers/478446.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/478446.jpg
     rating: 4.7
     date: '2026-04-14'
     code: 478446
     url: /works/478446/
   - title: Ijime no Daishou wa Hahaoya no Karada de.
     author: daidai-shikibu
-    cover: /covers/482859.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/482859.jpg
     rating: 4.1
     date: '2026-04-16'
     code: 482859
@@ -70,7 +70,7 @@ works:
   - title: Boku no Chuugoku Bijin Slender Kyonyuu Tsuma ga Camera Model de Nugasarete
       Yarichin Tomo ni Netorareta Ken
     author: mitoreiyu
-    cover: /covers/492657.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/492657.jpg
     rating: 4.1
     date: '2026-04-12'
     code: 492657
@@ -78,7 +78,7 @@ works:
   - title: Chijoku Zuma ~Konna ni Nurasaretara Mou Gaman Dekinai... 1 | Disgraceful
       Wife - I Can't Stand It Anymore When I Get This Wet... 1
     author: pink-taro
-    cover: /covers/519421.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/519421.jpg
     rating: 4.9
     date: '2026-02-25'
     code: 519421
@@ -117,7 +117,7 @@ works:
     url: /works/562615/
   - title: My AR glasses can see various stats about my foster sister?!
     author: pz-x
-    cover: /covers/589010.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/589010.jpg
     rating: 4.5
     date: '2026-04-15'
     code: 589010
@@ -134,7 +134,7 @@ works:
       Mother and Rebellious Me'
     author: europia
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/594382.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-06'
     code: 594382
     url: /works/594382/
@@ -148,14 +148,14 @@ works:
     url: /works/596598/
   - title: Kanojo no Bad Luck ~Oya no Saikon, Dekita Gikei wa Seijuu Datta~
     author: yokoshima
-    cover: /covers/608868.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/608868.jpg
     rating: 4.7
     date: '2026-07-10'
     code: 608868
     url: /works/608868/
   - title: Mesu Etsu Toiki Nemoto made Fukaku…
     author: drill-murata
-    cover: /covers/612957.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/612957.jpg
     rating: 4.2
     date: '2026-04-17'
     code: 612957
@@ -170,7 +170,7 @@ works:
   - title: Amatori-san to Ningensei Gomikuzu Chuunen ga Suyasuya Ecchi suru Manga |
       A Middle-Aged Piece of Human Trash Fucks Miss Amatori in Her Sleep
     author: saishow
-    cover: /covers/620755.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/620755.jpg
     rating: 4.8
     date: '2026-03-03'
     code: 620755
@@ -178,7 +178,7 @@ works:
   - title: Boku no Daisuki na Kaa-san to Omou Zonbun Sex Dekiru Hi 3 | My Fabulous Fuck
       Day with My Amazing Mommy 3
     author: higehurai
-    cover: /covers/631501.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/631501.jpg
     rating: 4.1
     date: '2026-03-05'
     code: 631501
@@ -186,7 +186,7 @@ works:
   - title: Boku no Daisuki na Kaa-san to Omou Zonbun Sex Dekiru Hi 4 | My Fabulous Fuck
       Day with My Amazing Mommy 4
     author: higehurai
-    cover: /covers/634178.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/634178.jpg
     rating: 5.0
     date: '2026-03-05'
     code: 634178
@@ -200,14 +200,14 @@ works:
     url: /works/642584/
   - title: My Childhood Friend Twins Become Another Man’s Onahole 1-3
     author: unknown
-    cover: /covers/643193.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/643193.jpg
     rating: 4.7
     date: '2026-04-11'
     code: 643193
     url: /works/643193/
   - title: Imouto Haramasenai to Derarenai Shima 2
     author: airandou
-    cover: /covers/643375.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/643375.jpg
     rating: 4.4
     date: '2026-04-12'
     code: 643375
@@ -222,7 +222,7 @@ works:
     url: /works/644296/
   - title: Daisuki Datta Onii-chan | My Once Beloved Older Cousin
     author: minakami-riku
-    cover: /covers/644495.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/644495.jpg
     rating: 5.0
     date: '2026-04-17'
     code: 644495
@@ -277,7 +277,7 @@ works:
     url: /works/648414/
   - title: Shirayuki Mishiro & Enomiya Milk Saimin Sakunyuu Play Hon Matome
     author: rurimaru
-    cover: /covers/648800.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/648800.jpg
     rating: 4.0
     date: '2026-07-13'
     code: 648800
@@ -338,7 +338,7 @@ works:
   - title: Jinin ’Futsuu’ Dekachichi Inkya J◯ no Maso Mesu ga Nagga〜i Chinpo de Shuuryou
       Made♡
     author: amrita
-    cover: /covers/661954.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/661954.jpg
     rating: 4.7
     date: '2026-07-09'
     code: 661954
@@ -346,42 +346,42 @@ works:
   - title: 'Hyoui AV AV Joyuu no Karada o Sukihoudai Suru Hanashi | Possession AV: A
       story about doing whatever you want with a porn star''s body'
     author: ame-no-machi
-    cover: /covers/662184.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662184.jpg
     rating: 4.4
     date: '2026-07-08'
     code: 662184
     url: /works/662184/
   - title: Buck-Chichi! | Gambling! Volume 2
     author: lime
-    cover: /covers/662877.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662877.jpg
     rating: 4.9
     date: '2026-07-10'
     code: 662877
     url: /works/662877/
   - title: Natsu Loli Ism Ch. 1-4
     author: molokonomi-hiraya-nobori
-    cover: /covers/663056.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/663056.jpg
     rating: 4.8
     date: '2026-07-11'
     code: 663056
     url: /works/663056/
   - title: Y-kun
     author: kireina-mochi
-    cover: /covers/663130.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/663130.jpg
     rating: 4.3
     date: '2026-07-11'
     code: 663130
     url: /works/663130/
   - title: Boku ni Yuuki ga Atta nara | If only I had the courage
     author: kamakiri-akagi-ryouichi
-    cover: /covers/663672.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/663672.jpg
     rating: 4.1
     date: '2026-07-13'
     code: 663672
     url: /works/663672/
   - title: Till Dick Do Us Part
     author: ratatatat74-mr-skull
-    cover: /covers/664249.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/664249.jpg
     rating: 4.9
     date: '2026-07-15'
     code: 664249

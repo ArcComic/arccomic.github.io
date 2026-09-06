@@ -5,7 +5,7 @@ work_count: 8
 works:
   - title: 'GNO: Girl''s Night Out - Issue 02'
     author: uselessbegging
-    cover: /covers/634464.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/634464.jpg
     rating: 4.0
     date: '2026-03-07'
     code: 634464
@@ -21,7 +21,7 @@ works:
     url: /works/645649/
   - title: Josou Gyakunan Debusen Ketsuhame Tokoroten
     author: bonske
-    cover: /covers/656753.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/656753.jpg
     rating: 4.7
     date: '2026-07-09'
     code: 656753
@@ -30,7 +30,7 @@ works:
       (2) | The Reward is the Body ~The Overly Lewd Employee Benefits of the Service
       Department~
     author: c-kyuu
-    cover: /covers/664027.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/664027.jpg
     rating: 4.9
     date: '2026-07-15'
     code: 664027

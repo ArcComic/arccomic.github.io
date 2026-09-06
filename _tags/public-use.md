@@ -21,7 +21,7 @@ works:
     url: /works/537794/
   - title: Onee-san to Shiyo? ~Echinpo Card de Yaritai Houdai~
     author: minato-yuu
-    cover: /covers/635801.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/635801.jpg
     rating: 4.6
     date: '2026-03-09'
     code: 635801
@@ -43,7 +43,7 @@ works:
     url: /works/655498/
   - title: KAWAKAMI FROM THE SEXUAL RELIEF DIVISION
     author: carpsukidayo
-    cover: /covers/664460.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/664460.jpg
     rating: 5.0
     date: '2026-07-16'
     code: 664460

@@ -26,21 +26,21 @@ works:
     url: /works/512473/
   - title: Netorare x Off-Pako
     author: group
-    cover: /covers/534663.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/534663.jpg
     rating: 4.2
     date: '2026-04-19'
     code: 534663
     url: /works/534663/
   - title: Rena
     author: shinjima-saki
-    cover: /covers/537476.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/537476.jpg
     rating: 4.2
     date: '2026-07-09'
     code: 537476
     url: /works/537476/
   - title: Hina-chan wa Papa ga Hoshikatta. | Hina-chan Wanted A Daddy
     author: ojo
-    cover: /covers/544368.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/544368.jpg
     rating: 5.0
     date: '2026-04-12'
     code: 544368
@@ -62,21 +62,21 @@ works:
     url: /works/595788/
   - title: Alola no Yoru no Sugata Soushuuhen | Aloha Night Compilation
     author: kurosu-gatari
-    cover: /covers/609650.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/609650.jpg
     rating: 4.5
     date: '2026-04-21'
     code: 609650
     url: /works/609650/
   - title: Mesu Etsu Toiki Nemoto made Fukaku…
     author: drill-murata
-    cover: /covers/612957.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/612957.jpg
     rating: 4.2
     date: '2026-04-17'
     code: 612957
     url: /works/612957/
   - title: Metamorphosis
     author: shindol
-    cover: /covers/616358.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/616358.jpg
     rating: 4.6
     date: '2026-07-15'
     code: 616358
@@ -119,7 +119,7 @@ works:
     url: /works/661909/
   - title: Shoujo Baishun Shima | Girl Prostitution Island
     author: nada-shio
-    cover: /covers/662647.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662647.jpg
     rating: 4.7
     date: '2026-07-09'
     code: 662647
@@ -154,7 +154,7 @@ works:
     url: /works/676325/
   - title: Hottokenaino
     author: hara-shigeyuki
-    cover: /covers/77864.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/77864.jpg
     rating: 4.6
     date: '2026-04-19'
     code: 77864

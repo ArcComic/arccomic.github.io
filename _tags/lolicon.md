@@ -36,28 +36,28 @@ works:
   - title: Seiso na Imouto no Tomodachi wa Mesugaki deshita | My Pure and Innocent Little
       Sister Became Friends With a Mesugaki
     author: kagono-tori
-    cover: /covers/475867.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/475867.jpg
     rating: 4.4
     date: '2026-02-26'
     code: 475867
     url: /works/475867/
   - title: Neteru Onii-chan no Are o Kariru Hanashi
     author: tiger
-    cover: /covers/476399.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/476399.jpg
     rating: 4.9
     date: '2026-07-10'
     code: 476399
     url: /works/476399/
   - title: '"Yoyaku Shimasu ka? Asashio no Onaka"'
     author: ootsuka-kotora
-    cover: /covers/509474.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/509474.jpg
     rating: 4.9
     date: '2026-03-03'
     code: 509474
     url: /works/509474/
   - title: Rena
     author: shinjima-saki
-    cover: /covers/537476.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/537476.jpg
     rating: 4.2
     date: '2026-07-09'
     code: 537476
@@ -71,14 +71,14 @@ works:
     url: /works/550359/
   - title: Aka-chan Tsukuri no Yoshuu | Preview Lesson About Babymaking
     author: highlow
-    cover: /covers/555216.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/555216.jpg
     rating: 4.2
     date: '2026-07-09'
     code: 555216
     url: /works/555216/
   - title: Namima no Pōtorēto | Portrait of a Wave
     author: torii-yoshitsuna
-    cover: /covers/580379.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/580379.jpg
     rating: 4.0
     date: '2026-04-16'
     code: 580379
@@ -93,7 +93,7 @@ works:
     url: /works/583391/
   - title: Alola no Yoru no Sugata Soushuuhen | Aloha Night Compilation
     author: kurosu-gatari
-    cover: /covers/609650.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/609650.jpg
     rating: 4.5
     date: '2026-04-21'
     code: 609650
@@ -101,28 +101,28 @@ works:
   - title: Amatori-san to Ningensei Gomikuzu Chuunen ga Suyasuya Ecchi suru Manga |
       A Middle-Aged Piece of Human Trash Fucks Miss Amatori in Her Sleep
     author: saishow
-    cover: /covers/620755.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/620755.jpg
     rating: 4.8
     date: '2026-03-03'
     code: 620755
     url: /works/620755/
   - title: Hotai no Jikan ~Minna no Mae de Sensei to xxx o Shimasu~
     author: mochizaki-panko
-    cover: /covers/634185.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/634185.jpg
     rating: 4.5
     date: '2026-03-05'
     code: 634185
     url: /works/634185/
   - title: Honeori! Osewa Girl♡ | SK8er Girl Lends Me a Hand!
     author: kyaradain
-    cover: /covers/634609.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/634609.jpg
     rating: 4.5
     date: '2026-03-05'
     code: 634609
     url: /works/634609/
   - title: Mishiranu Boshi ni Yaritai Houdai
     author: tonda
-    cover: /covers/635363.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/635363.jpg
     rating: 4.6
     date: '2026-03-07'
     code: 635363
@@ -131,21 +131,21 @@ works:
       And Ended Up Having Sweet Sex | Namaiki Kusogaki js no Onanie Nozoitara Amaama
       Sex Dekita Hanashi
     author: yonketa
-    cover: /covers/643682.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/643682.jpg
     rating: 4.5
     date: '2026-04-13'
     code: 643682
     url: /works/643682/
   - title: Sawatte Mitai? | Do You Wanna Touch?
     author: rondonko
-    cover: /covers/644309.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/644309.jpg
     rating: 4.1
     date: '2026-04-17'
     code: 644309
     url: /works/644309/
   - title: Daisuki Datta Onii-chan | My Once Beloved Older Cousin
     author: minakami-riku
-    cover: /covers/644495.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/644495.jpg
     rating: 5.0
     date: '2026-04-17'
     code: 644495
@@ -211,35 +211,35 @@ works:
     url: /works/661951/
   - title: Shiori no Nai Akumu
     author: unknown
-    cover: /covers/662203.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662203.jpg
     rating: 4.6
     date: '2026-07-08'
     code: 662203
     url: /works/662203/
   - title: Shoujo Baishun Shima | Girl Prostitution Island
     author: nada-shio
-    cover: /covers/662647.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662647.jpg
     rating: 4.7
     date: '2026-07-09'
     code: 662647
     url: /works/662647/
   - title: Natsu Loli Ism Ch. 1-4
     author: molokonomi-hiraya-nobori
-    cover: /covers/663056.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/663056.jpg
     rating: 4.8
     date: '2026-07-11'
     code: 663056
     url: /works/663056/
   - title: Self Help 2
     author: maeshima-ryou
-    cover: /covers/663655.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/663655.jpg
     rating: 4.9
     date: '2026-07-13'
     code: 663655
     url: /works/663655/
   - title: Shinseki no Ko to Otokoyu Haittara Onnanoko datta *Jikotte Sounyuu
     author: unknown
-    cover: /covers/664170.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/664170.jpg
     rating: 4.5
     date: '2026-07-15'
     code: 664170

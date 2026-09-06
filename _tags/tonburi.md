@@ -10,7 +10,7 @@ works:
     date: '2026-08-31'
     code: 676326
     url: /works/676326/
-  - title: Yurishita 2 THE IDOLMï¼ STER GIRLS LOVE!
+  - title: Yurishita 2 THE IDOLM＠STER GIRLS LOVE!
     author: houki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/676327.jpg
     rating: 4.2

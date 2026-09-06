@@ -14,7 +14,7 @@ works:
   - title: Chijoku Zuma ~Konna ni Nurasaretara Mou Gaman Dekinai... 1 | Disgraceful
       Wife - I Can't Stand It Anymore When I Get This Wet... 1
     author: pink-taro
-    cover: /covers/519421.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/519421.jpg
     rating: 4.9
     date: '2026-02-25'
     code: 519421
@@ -30,7 +30,7 @@ works:
     url: /works/534388/
   - title: Hokenshitsu no Futon no Naka de Satori Sedai JK to Naisho H!
     author: niji-teru
-    cover: /covers/606725.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/606725.jpg
     rating: 4.6
     date: '2026-07-13'
     code: 606725
@@ -45,7 +45,7 @@ works:
     url: /works/618087/
   - title: Chijo Monogatari Bakunyuu Chijukujo to Doutei-kun
     author: enma
-    cover: /covers/635174.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/635174.jpg
     rating: 4.6
     date: '2026-03-07'
     code: 635174
@@ -81,7 +81,7 @@ works:
     url: /works/662094/
   - title: Boku ni Yuuki ga Atta nara | If only I had the courage
     author: kamakiri-akagi-ryouichi
-    cover: /covers/663672.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/663672.jpg
     rating: 4.1
     date: '2026-07-13'
     code: 663672

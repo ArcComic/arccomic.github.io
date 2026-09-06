@@ -5,7 +5,7 @@ work_count: 6
 works:
   - title: Kugisaki Anal Otoshi
     author: ishigaki-takashi
-    cover: /covers/579976.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/579976.jpg
     rating: 4.7
     date: '2026-04-21'
     code: 579976
@@ -26,21 +26,21 @@ works:
     url: /works/648460/
   - title: Ketsusenryaku | The Ass Strategy
     author: ariga-tou
-    cover: /covers/662370.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662370.jpg
     rating: 4.3
     date: '2026-07-08'
     code: 662370
     url: /works/662370/
   - title: Anal Hame Shitai Jukujo Shiri | This MILF Wants Anal Sex
     author: bonske
-    cover: /covers/662658.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662658.jpg
     rating: 4.7
     date: '2026-07-09'
     code: 662658
     url: /works/662658/
   - title: Metal Girl Ie Onanie
     author: ishimura-ishimiso
-    cover: /covers/663142.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/663142.jpg
     rating: 4.3
     date: '2026-07-11'
     code: 663142

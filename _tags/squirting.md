@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "squirting"
-work_count: 76
+work_count: 77
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -34,7 +34,7 @@ works:
     url: /works/455844/
   - title: Yarareru kanojo - Hitozumajoushi ManaNTR -
     author: tokyo-gunjo
-    cover: /covers/465602.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/465602.jpg
     rating: 4.7
     date: '2026-04-19'
     code: 465602
@@ -101,7 +101,7 @@ works:
     url: /works/555849/
   - title: Automatic Romantic
     author: naganeko
-    cover: /covers/556036.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/556036.jpg
     rating: 5.0
     date: '2026-04-19'
     code: 556036
@@ -124,7 +124,7 @@ works:
   - title: Konki Girigiri Sister, Semete Shojo wo Sutetai | If I Can't Be Married At
       Least Let Me Quit Being a Virgin
     author: torii-yoshitsuna
-    cover: /covers/566835.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/566835.jpg
     rating: 4.5
     date: '2026-04-17'
     code: 566835
@@ -133,7 +133,7 @@ works:
       Vaginally By My Junior
     author: tarara
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/567355.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-06'
     code: 567355
     url: /works/567355/
@@ -154,7 +154,7 @@ works:
     url: /works/579819/
   - title: Chorozako Kanojo no Aina-chan -Mucchiri Gal to Ichalove H suru Hanashi-
     author: tokyo-gunjo
-    cover: /covers/580427.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/580427.jpg
     rating: 4.6
     date: '2026-04-19'
     code: 580427
@@ -183,7 +183,7 @@ works:
     url: /works/587827/
   - title: My AR glasses can see various stats about my foster sister?!
     author: pz-x
-    cover: /covers/589010.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/589010.jpg
     rating: 4.5
     date: '2026-04-15'
     code: 589010
@@ -213,14 +213,14 @@ works:
     url: /works/593575/
   - title: Celestial Doll 1-5
     author: mr-kurz
-    cover: /covers/595353.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/595353.jpg
     rating: 5.0
     date: '2026-04-21'
     code: 595353
     url: /works/595353/
   - title: Shounen yo, Watashi o Idake. 少年,抱住我
     author: torii-yoshitsuna
-    cover: /covers/599514.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/599514.jpg
     rating: 4.7
     date: '2026-04-16'
     code: 599514
@@ -256,7 +256,7 @@ works:
     url: /works/627182/
   - title: Yumemiru Idol Ikuseiron
     author: kakino-nashiko
-    cover: /covers/631704.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/631704.jpg
     rating: 4.5
     date: '2026-02-25'
     code: 631704
@@ -273,7 +273,7 @@ works:
       Ikioi de 3P suru Koto ni Natta Hanashi~ | Art Club Harem Activity Log: How Helping
       My Senior Get Over Her Slump Led to a Threesome in the Heat of the Moment'
     author: momokumo
-    cover: /covers/632523.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/632523.jpg
     rating: 4.3
     date: '2026-02-26'
     code: 632523
@@ -281,7 +281,7 @@ works:
   - title: Rikujoubu no Boyish na Osananajimi ga suru Dare ni mo Ienai Koto | The Secret
       Activity of My Boyish Childhood Friend from the Track Team
     author: harufumi
-    cover: /covers/632761.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/632761.jpg
     rating: 4.7
     date: '2026-02-26'
     code: 632761
@@ -290,7 +290,7 @@ works:
       wa Nannimo Shiranai!! Sono 2 | | Shizuka Tachibana, the Housewife Who Collects
       My Sperm Donations, Doesn’t Know a Damn Thing!! Chapter 2
     author: date-roku
-    cover: /covers/636122.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/636122.jpg
     rating: 4.5
     date: '2026-03-11'
     code: 636122
@@ -326,14 +326,14 @@ works:
     url: /works/642793/
   - title: Imouto Haramasenai to Derarenai Shima 2
     author: airandou
-    cover: /covers/643375.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/643375.jpg
     rating: 4.4
     date: '2026-04-12'
     code: 643375
     url: /works/643375/
   - title: DeliHeal Yondara Moto Doukyuusei ga Kita ~Polynesian Sex  6-kame~
     author: tatsuwaipu
-    cover: /covers/643512.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/643512.jpg
     rating: 4.2
     date: '2026-04-12'
     code: 643512
@@ -458,6 +458,14 @@ works:
     date: '2026-05-26'
     code: 652244
     url: /works/652244/
+  - title: Muchi Muchi Tennen Joshidaisei no Dosukebe Jorei Taikenroku | The Chunky,
+      Defenseless, Airheaded University Girl Get's A Crash Course In Perverted Exorcisms!
+    author: inamimi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/652471.jpg
+    rating: 4.1
+    date: '2026-05-26'
+    code: 652471
+    url: /works/652471/
   - title: Kisei Goblin | Parasitic Goblin
     author: poriuretan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/652632.jpg
@@ -497,7 +505,7 @@ works:
     url: /works/660869/
   - title: Sister Sara to Madara-Chan
     author: ohno-kanae
-    cover: /covers/662208.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662208.jpg
     rating: 4.1
     date: '2026-07-08'
     code: 662208
@@ -505,14 +513,14 @@ works:
   - title: Eightman sensei no okagede kanojo ga dekimashita! (4) | Thanks to Eightman-sensei,
       I Got a Girlfriend!
     author: eightman
-    cover: /covers/662329.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662329.jpg
     rating: 4.6
     date: '2026-07-08'
     code: 662329
     url: /works/662329/
   - title: Boku ni Yuuki ga Atta nara | If only I had the courage
     author: kamakiri-akagi-ryouichi
-    cover: /covers/663672.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/663672.jpg
     rating: 4.1
     date: '2026-07-13'
     code: 663672
@@ -520,7 +528,7 @@ works:
   - title: Repetitive Practice Mama! The Story of Recieving Sex Ed From an Extremely
       Strict Mother
     author: unknown
-    cover: /covers/664191.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/664191.jpg
     rating: 4.3
     date: '2026-07-15'
     code: 664191

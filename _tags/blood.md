@@ -19,7 +19,7 @@ works:
     url: /works/408819/
   - title: 'Ace Attorney: No Escape'
     author: mr-kurz
-    cover: /covers/620818.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/620818.jpg
     rating: 4.3
     date: '2026-03-07'
     code: 620818

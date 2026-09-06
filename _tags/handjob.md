@@ -74,14 +74,14 @@ works:
     url: /works/504436/
   - title: Deisui Chijo Mama | My Mom Gets Drunk and Molests Me
     author: yuriko-club
-    cover: /covers/508549.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/508549.jpg
     rating: 4.5
     date: '2026-04-15'
     code: 508549
     url: /works/508549/
   - title: Oppai na Natsuyasumi Soushuuhen | The Summer Break of Boobs Complete
     author: higashino-mikan
-    cover: /covers/508649.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/508649.jpg
     rating: 4.3
     date: '2026-03-04'
     code: 508649
@@ -97,7 +97,7 @@ works:
   - title: Yamazaki Makie (3●-sai), Musume no Kareshi to SeFri ni Naru | Yamazaki Makie
       (3X Years Old), Becoming Fuck Buddies with her Daughter's Boyfriend
     author: ryuuta
-    cover: /covers/531313.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/531313.jpg
     rating: 4.4
     date: '2026-04-19'
     code: 531313
@@ -120,7 +120,7 @@ works:
   - title: Futari no Ouchi Iede Musume to Doutei-kun no Torokeru Natsu | The Melty Summer
       of a Runaway Gal and a Virgin Guy
     author: akahito
-    cover: /covers/553903.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/553903.jpg
     rating: 4.6
     date: '2026-03-04'
     code: 553903
@@ -128,7 +128,7 @@ works:
   - title: Konki Girigiri Sister, Semete Shojo wo Sutetai | If I Can't Be Married At
       Least Let Me Quit Being a Virgin
     author: torii-yoshitsuna
-    cover: /covers/566835.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/566835.jpg
     rating: 4.5
     date: '2026-04-17'
     code: 566835
@@ -138,7 +138,7 @@ works:
       with My Gutsy Mother,
     author: kuruto
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/575674.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-05'
     code: 575674
     url: /works/575674/
@@ -158,7 +158,7 @@ works:
     url: /works/598156/
   - title: Hitozuma Takuhaibin 1+2
     author: unknown
-    cover: /covers/599910.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/599910.jpg
     rating: 4.2
     date: '2026-04-23'
     code: 599910
@@ -166,7 +166,7 @@ works:
   - title: Kawaisugiru Tomodachi no Okaa-san to Kossori Tsukiacchatta Hanashi | I Secretly
       Dated My Friend's Cute Mother
     author: yuriko-club
-    cover: /covers/612887.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/612887.jpg
     rating: 4.8
     date: '2026-04-15'
     code: 612887
@@ -189,7 +189,7 @@ works:
   - title: Tower Residence Setsuguka Taiouchuu | Tower Residence Service Department
       Now Serving
     author: tomohiro-kai
-    cover: /covers/633842.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/633842.jpg
     rating: 4.1
     date: '2026-03-02'
     code: 633842
@@ -197,21 +197,21 @@ works:
   - title: Boku no Daisuki na Kaa-san to Omou Zonbun Sex Dekiru Hi 4 | My Fabulous Fuck
       Day with My Amazing Mommy 4
     author: higehurai
-    cover: /covers/634178.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/634178.jpg
     rating: 5.0
     date: '2026-03-05'
     code: 634178
     url: /works/634178/
   - title: Honeori! Osewa Girl♡ | SK8er Girl Lends Me a Hand!
     author: kyaradain
-    cover: /covers/634609.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/634609.jpg
     rating: 4.5
     date: '2026-03-05'
     code: 634609
     url: /works/634609/
   - title: Chijo Monogatari Bakunyuu Chijukujo to Doutei-kun
     author: enma
-    cover: /covers/635174.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/635174.jpg
     rating: 4.6
     date: '2026-03-07'
     code: 635174
@@ -219,14 +219,14 @@ works:
   - title: Sewayaki na Kyonyuu Gakkyuu Iinchou Sono 1-20 | The Kind and Caring Busty
       Class Rep Ch.1-20
     author: makosho
-    cover: /covers/635514.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/635514.jpg
     rating: 4.1
     date: '2026-03-08'
     code: 635514
     url: /works/635514/
   - title: Onee-san to Shiyo? ~Echinpo Card de Yaritai Houdai~
     author: minato-yuu
-    cover: /covers/635801.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/635801.jpg
     rating: 4.6
     date: '2026-03-09'
     code: 635801
@@ -242,21 +242,21 @@ works:
   - title: Misuzu no Oheya kara Hitoban Nigerarenai Hon  | The Book Where You Can't
       Escape Misuzu's Room All Night Long.
     author: cure-slum
-    cover: /covers/643235.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/643235.jpg
     rating: 4.8
     date: '2026-04-14'
     code: 643235
     url: /works/643235/
   - title: DeliHeal Yondara Moto Doukyuusei ga Kita ~Polynesian Sex  6-kame~
     author: tatsuwaipu
-    cover: /covers/643512.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/643512.jpg
     rating: 4.2
     date: '2026-04-12'
     code: 643512
     url: /works/643512/
   - title: Kimiha Zurui | You're being unfair
     author: nomura-teruya
-    cover: /covers/644888.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/644888.jpg
     rating: 4.3
     date: '2026-04-19'
     code: 644888
@@ -271,7 +271,7 @@ works:
     url: /works/645507/
   - title: Yarinuki Gal
     author: uenosuke
-    cover: /covers/645537.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/645537.jpg
     rating: 4.3
     date: '2026-04-23'
     code: 645537
@@ -418,7 +418,7 @@ works:
   - title: Boshi Jouji ~Daisuki na Okaa-san to Konya Majiwaru~ - MOTHER AND SON LOVE
       AFFAIR | A Mother's Love ~Tonight I Become One With The Mom I Love~ Part 2
     author: shiono-kou
-    cover: /covers/662142.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662142.jpg
     rating: 4.4
     date: '2026-07-08'
     code: 662142
@@ -426,14 +426,14 @@ works:
   - title: Gal to Otaku no Idenshi Aishou Batsugun H | The Superb Genetic Compatibility
       Between a Gyaru and an Otaku
     author: joucho
-    cover: /covers/663287.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/663287.jpg
     rating: 4.7
     date: '2026-07-11'
     code: 663287
     url: /works/663287/
   - title: Till Dick Do Us Part
     author: ratatatat74-mr-skull
-    cover: /covers/664249.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/664249.jpg
     rating: 4.9
     date: '2026-07-15'
     code: 664249
@@ -500,7 +500,7 @@ works:
   - title: How I Ended Up Sharing My Four-and-a-Half-Mat Room with My Mom 1+2
     author: europia
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678916.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-06'
     code: 678916
     url: /works/678916/

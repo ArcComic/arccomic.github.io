@@ -52,7 +52,7 @@ works:
       no Naka o Midashiteru~ | Senpai, I Don't Know About That - His Fingers That Were
       Accompaniment are now Disturbing my Vagina
     author: uruh-aqua
-    cover: /covers/507473.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/507473.jpg
     rating: 4.3
     date: '2026-04-15'
     code: 507473
@@ -66,7 +66,7 @@ works:
     url: /works/508534/
   - title: Oppai na Natsuyasumi Soushuuhen | The Summer Break of Boobs Complete
     author: higashino-mikan
-    cover: /covers/508649.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/508649.jpg
     rating: 4.3
     date: '2026-03-04'
     code: 508649
@@ -124,7 +124,7 @@ works:
     url: /works/544324/
   - title: My Thousand Days With Mentor Tsuji
     author: concontochu
-    cover: /covers/588066.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/588066.jpg
     rating: 4.3
     date: '2026-04-15'
     code: 588066
@@ -139,7 +139,7 @@ works:
     url: /works/589969/
   - title: Alola no Yoru no Sugata Soushuuhen | Aloha Night Compilation
     author: kurosu-gatari
-    cover: /covers/609650.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/609650.jpg
     rating: 4.5
     date: '2026-04-21'
     code: 609650
@@ -154,7 +154,7 @@ works:
   - title: Kawaisugiru Tomodachi no Okaa-san to Kossori Tsukiacchatta Hanashi | I Secretly
       Dated My Friend's Cute Mother
     author: yuriko-club
-    cover: /covers/612887.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/612887.jpg
     rating: 4.8
     date: '2026-04-15'
     code: 612887
@@ -177,14 +177,14 @@ works:
   - title: Boku no Daisuki na Kaa-san to Omou Zonbun Sex Dekiru Hi 4 | My Fabulous Fuck
       Day with My Amazing Mommy 4
     author: higehurai
-    cover: /covers/634178.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/634178.jpg
     rating: 5.0
     date: '2026-03-05'
     code: 634178
     url: /works/634178/
   - title: Koukan Nikki ー School Whore Diaries
     author: henkuma
-    cover: /covers/634328.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/634328.jpg
     rating: 4.8
     date: '2026-03-07'
     code: 634328
@@ -192,7 +192,7 @@ works:
   - title: The story of how I ended up living with my mom in a four-and-a-half tatami
       room 1.
     author: europia
-    cover: /covers/634383.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/634383.jpg
     rating: 4.5
     date: '2026-03-04'
     code: 634383
@@ -200,14 +200,14 @@ works:
   - title: Boku no Mama wa Otouto no Mae de dake Dosukebe ni Naru｜My Mom Turns Into
       a Slut for My Little Brother, and Him Alone
     author: asahina-hikage
-    cover: /covers/634591.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/634591.jpg
     rating: 4.9
     date: '2026-03-05'
     code: 634591
     url: /works/634591/
   - title: Jimoto no Dekai Gal
     author: ueno-meguru
-    cover: /covers/634592.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/634592.jpg
     rating: 4.1
     date: '2026-03-05'
     code: 634592
@@ -215,14 +215,14 @@ works:
   - title: Yojouhan no Femme Fatale - One-Room Femme Fatale | The Devilishness of a
       Small Room
     author: herio
-    cover: /covers/635984.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/635984.jpg
     rating: 4.4
     date: '2026-03-11'
     code: 635984
     url: /works/635984/
   - title: Imouto Oppai de Sukusuku Seikatsu
     author: asaomi-shimura
-    cover: /covers/636802.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/636802.jpg
     rating: 4.6
     date: '2026-07-13'
     code: 636802
@@ -275,7 +275,7 @@ works:
     url: /works/647620/
   - title: Shirayuki Mishiro & Enomiya Milk Saimin Sakunyuu Play Hon Matome
     author: rurimaru
-    cover: /covers/648800.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/648800.jpg
     rating: 4.0
     date: '2026-07-13'
     code: 648800
@@ -327,7 +327,7 @@ works:
   - title: Onee-chan Tensei! Junyuu Isekai Seikatsu | Reincarnated Big Sister! Breastfeeding
       Sex Life in Another World
     author: mokuyama-hito
-    cover: /covers/663517.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/663517.jpg
     rating: 4.4
     date: '2026-07-13'
     code: 663517

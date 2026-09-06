@@ -5,7 +5,7 @@ work_count: 2
 works:
   - title: Haken no Nakano-san wa Moto AV Joyuu ~Office de Dokidoki Sex Hen~
     author: sumiya
-    cover: /covers/631695.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/631695.jpg
     rating: 4.1
     date: '2026-02-25'
     code: 631695

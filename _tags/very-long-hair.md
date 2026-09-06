@@ -27,14 +27,14 @@ works:
   - title: Gouriteki na Sei no Hassan ni Tsuite Aratame Chikubi Karikari Iraira Manko
       | —关于如何合理地释放性欲—仔细调查乳头为何变硬与饥渴难耐的小穴
     author: kito-sakeru
-    cover: /covers/592168.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/592168.jpg
     rating: 4.2
     date: '2026-04-16'
     code: 592168
     url: /works/592168/
   - title: Rio no Gouri wa Ikioi de Ose | 順勢推倒莉央的理性
     author: ijou
-    cover: /covers/592744.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/592744.jpg
     rating: 5.0
     date: '2026-04-16'
     code: 592744
@@ -48,21 +48,21 @@ works:
     url: /works/598156/
   - title: Gusai, Saikyouiku. | Dumb wife, re-education.
     author: ushio-kiyoshi
-    cover: /covers/631677.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/631677.jpg
     rating: 4.8
     date: '2026-03-03'
     code: 631677
     url: /works/631677/
   - title: Amoral Island
     author: alp
-    cover: /covers/633453.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/633453.jpg
     rating: 4.8
     date: '2026-03-02'
     code: 633453
     url: /works/633453/
   - title: Opportunity for Zaychik
     author: eggutarto-sunnyside524
-    cover: /covers/634157.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/634157.jpg
     rating: 4.9
     date: '2026-03-04'
     code: 634157
@@ -71,14 +71,14 @@ works:
       And Ended Up Having Sweet Sex | Namaiki Kusogaki js no Onanie Nozoitara Amaama
       Sex Dekita Hanashi
     author: yonketa
-    cover: /covers/643682.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/643682.jpg
     rating: 4.5
     date: '2026-04-13'
     code: 643682
     url: /works/643682/
   - title: Tsukatsuki Rio no Maid Seikatsu
     author: prime
-    cover: /covers/644300.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/644300.jpg
     rating: 4.1
     date: '2026-04-16'
     code: 644300
@@ -86,7 +86,7 @@ works:
   - title: Ane Mama ~ Atarashii Onee-chan to Mama wa Ore no Sex Friend ni Narimashita.
       ~
     author: group
-    cover: /covers/645383.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/645383.jpg
     rating: 4.3
     date: '2026-04-23'
     code: 645383
@@ -131,7 +131,7 @@ works:
     url: /works/651303/
   - title: Fallen 2
     author: unknown
-    cover: /covers/662873.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662873.jpg
     rating: 4.9
     date: '2026-07-10'
     code: 662873
@@ -139,7 +139,7 @@ works:
   - title: It was supposed to be a story about two people who loved each other but her
       best friend stole his virginity
     author: meisuke
-    cover: /covers/664188.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/664188.jpg
     rating: 4.6
     date: '2026-07-15'
     code: 664188
@@ -234,7 +234,7 @@ works:
       Otaku, Fell for the Busty Idol Who Transferred to My School
     author: manno
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/677731.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-04'
     code: 677731
     url: /works/677731/

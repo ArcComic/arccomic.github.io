@@ -21,13 +21,13 @@ works:
       too sexy...
     author: yamakonbu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/515799.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-09-05'
     code: 515799
     url: /works/515799/
   - title: Shut-less
     author: mr-hokke
-    cover: /covers/531966.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/531966.jpg
     rating: 4.3
     date: '2026-07-11'
     code: 531966
@@ -42,14 +42,14 @@ works:
     url: /works/578147/
   - title: 'Ace Attorney: No Escape'
     author: mr-kurz
-    cover: /covers/620818.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/620818.jpg
     rating: 4.3
     date: '2026-03-07'
     code: 620818
     url: /works/620818/
   - title: Kunoichi o shikan shi makuru manga
     author: unknown
-    cover: /covers/623910.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/623910.jpg
     rating: 4.7
     date: '2026-04-19'
     code: 623910
@@ -78,7 +78,7 @@ works:
     url: /works/651489/
   - title: Kareshi no Tame ni Nugimasu. - I'll take it off for my boyfriend.
     author: mitsuki
-    cover: /covers/662890.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662890.jpg
     rating: 4.7
     date: '2026-07-10'
     code: 662890

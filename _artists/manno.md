@@ -7,7 +7,7 @@ works:
       - A 2D Otaku Falls for the Curvy Idol Transfer Student | How I, a 2D-Obsessed
       Otaku, Fell for the Busty Idol Who Transferred to My School
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/677731.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-04'
     code: 677731
     url: /works/677731/

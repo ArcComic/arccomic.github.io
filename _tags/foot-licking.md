@@ -5,14 +5,14 @@ work_count: 5
 works:
   - title: Do-S Yankee JK to Do-M Hentai Teacher
     author: naganeko
-    cover: /covers/512715.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/512715.jpg
     rating: 4.3
     date: '2026-04-19'
     code: 512715
     url: /works/512715/
   - title: Celestial Doll 1-5
     author: mr-kurz
-    cover: /covers/595353.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/595353.jpg
     rating: 5.0
     date: '2026-04-21'
     code: 595353

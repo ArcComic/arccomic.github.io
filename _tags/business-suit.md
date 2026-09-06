@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "business suit"
-work_count: 59
+work_count: 60
 works:
   - title: Kaisha de Iroiro | Gettin' Busy at the Office
     author: hara-shigeyuki
@@ -167,7 +167,7 @@ works:
     url: /works/484860/
   - title: Meguri Ai | Fateful Encounter  (COMIC Anthurium 2023-12) [English] =NSS=
     author: nagareboshi
-    cover: /covers/485905.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/485905.jpg
     rating: 4.7
     date: '2026-04-15'
     code: 485905
@@ -175,7 +175,7 @@ works:
   - title: Boku no Chuugoku Bijin Slender Kyonyuu Tsuma ga Camera Model de Nugasarete
       Yarichin Tomo ni Netorareta Ken
     author: mitoreiyu
-    cover: /covers/492657.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/492657.jpg
     rating: 4.1
     date: '2026-04-12'
     code: 492657
@@ -198,14 +198,14 @@ works:
   - title: Yamazaki Makie (3●-sai), Musume no Kareshi to SeFri ni Naru | Yamazaki Makie
       (3X Years Old), Becoming Fuck Buddies with her Daughter's Boyfriend
     author: ryuuta
-    cover: /covers/531313.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/531313.jpg
     rating: 4.4
     date: '2026-04-19'
     code: 531313
     url: /works/531313/
   - title: Shut-less
     author: mr-hokke
-    cover: /covers/531966.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/531966.jpg
     rating: 4.3
     date: '2026-07-11'
     code: 531966
@@ -227,7 +227,7 @@ works:
     url: /works/537760/
   - title: Automatic Romantic
     author: naganeko
-    cover: /covers/556036.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/556036.jpg
     rating: 5.0
     date: '2026-04-19'
     code: 556036
@@ -235,7 +235,7 @@ works:
   - title: 'Buka ni #UraAcc o Shiraretara | If My Subordinate Finds Out About My Secret
       Alt Account'
     author: gar
-    cover: /covers/557689.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/557689.jpg
     rating: 4.2
     date: '2026-04-23'
     code: 557689
@@ -251,7 +251,7 @@ works:
   - title: Konki Girigiri Sister, Semete Shojo wo Sutetai | If I Can't Be Married At
       Least Let Me Quit Being a Virgin
     author: torii-yoshitsuna
-    cover: /covers/566835.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/566835.jpg
     rating: 4.5
     date: '2026-04-17'
     code: 566835
@@ -260,13 +260,13 @@ works:
       Vaginally By My Junior
     author: tarara
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/567355.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-06'
     code: 567355
     url: /works/567355/
   - title: Moteki na Oku-sama
     author: hara-shigeyuki
-    cover: /covers/569195.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/569195.jpg
     rating: 4.5
     date: '2026-04-19'
     code: 569195
@@ -282,14 +282,14 @@ works:
   - title: Kyonyuu Kaa-san ga Boku no Me mo Mae de Oji-san no Namachin de Ikimakutta
       Hanashi
     author: hoshiduki-melon
-    cover: /covers/569731.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/569731.jpg
     rating: 4.5
     date: '2026-04-23'
     code: 569731
     url: /works/569731/
   - title: Saimin ♥ Saimin | Hypno ♥ Hypno
     author: minamida-usuke
-    cover: /covers/576398.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/576398.jpg
     rating: 4.1
     date: '2026-04-23'
     code: 576398
@@ -297,7 +297,7 @@ works:
   - title: Ain't No Stoppin' Us Now
     author: jagayamatarawo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/589313.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-06'
     code: 589313
     url: /works/589313/
@@ -328,7 +328,7 @@ works:
       Kouhai ni Kikarete shimatte ita Hanashi~ | Workplace Rendezvous ~Caught Masturbating
       in the Company Restroom by My Subordinate~
     author: sato
-    cover: /covers/617492.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/617492.jpg
     rating: 4.4
     date: '2026-07-11'
     code: 617492
@@ -343,14 +343,14 @@ works:
     url: /works/624573/
   - title: Haken no Nakano-san wa Moto AV Joyuu ~Office de Dokidoki Sex Hen~
     author: sumiya
-    cover: /covers/631695.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/631695.jpg
     rating: 4.1
     date: '2026-02-25'
     code: 631695
     url: /works/631695/
   - title: Have a nice day.
     author: owari-ningen
-    cover: /covers/632967.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/632967.jpg
     rating: 4.1
     date: '2026-02-26'
     code: 632967
@@ -378,7 +378,7 @@ works:
     url: /works/641362/
   - title: Yamazaki Makie (3● years old), Teaching How to Use a Condom
     author: ryuuta
-    cover: /covers/645549.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/645549.jpg
     rating: 4.9
     date: '2026-04-23'
     code: 645549
@@ -405,6 +405,13 @@ works:
     date: '2026-05-26'
     code: 652667
     url: /works/652667/
+  - title: My Tall, Stacked, Virgin Boss 1
+    author: yunamaro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654603.jpg
+    rating: 4.7
+    date: '2026-09-06'
+    code: 654603
+    url: /works/654603/
   - title: All Night Long
     author: takasugi-kou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662057.jpg
@@ -414,7 +421,7 @@ works:
     url: /works/662057/
   - title: Metal Girl Ie Onanie
     author: ishimura-ishimiso
-    cover: /covers/663142.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/663142.jpg
     rating: 4.3
     date: '2026-07-11'
     code: 663142
@@ -430,7 +437,7 @@ works:
     url: /works/668867/
   - title: Hottokenaino
     author: hara-shigeyuki
-    cover: /covers/77864.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/77864.jpg
     rating: 4.6
     date: '2026-04-19'
     code: 77864

@@ -1,4 +1,4 @@
-<!-- arc-comic-layout-version: 9 -->
+<!-- arc-comic-layout-version: 11 -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -63,21 +63,22 @@
         }
         .tag:hover { border-color: var(--accent); color: var(--accent); }
         .ad-slot {
-            margin: 24px 0; display: flex; justify-content: center; align-items: center;
-            min-height: 100px; max-height: 300px; width: 100%;
-            background: var(--bg-card); border-radius: 12px;
-            border: 1px solid var(--border); overflow: hidden;
+            margin: 24px auto; display: flex; justify-content: center; align-items: center;
+            width: 100%; max-width: 336px; min-height: 50px;
         }
-        /* Mondiad's injected creative can be an <img>, <iframe>, or nested
-           <div>s depending on the ad served — without this, a large raw
-           image creative (e.g. a "claim your reward" banner) renders at
-           its native pixel size and blows the slot out, breaking the
-           whole page's layout around it. Forcing every possible child to
-           respect the slot's own box keeps this contained no matter what
-           creative gets served. */
-        .ad-slot > * { max-width: 100% !important; max-height: 100% !important;
-            width: auto !important; height: auto !important; }
-        .ad-slot img, .ad-slot iframe { object-fit: contain; }
+        /* Bug 19 moved this site to Banner-format ads specifically because
+           Native ads let Mondiad's script inject arbitrary markup that had
+           to be fought with !important overrides — cropping/rescaling the
+           served creative. Doing that to a Banner creative is the same
+           mistake in reverse: Banner ads are served at fixed, standard
+           sizes, and forcibly resizing or clipping them is exactly the
+           kind of interference ad networks flag for policy violations.
+           So this slot no longer constrains its child at all — it just
+           gives the ad room to render at whatever size Mondiad actually
+           serves and centers it. max-width here is a common Banner size
+           as a layout hint only; if Mondiad's dashboard is configured for
+           a different creative size for this zone, adjust this to match
+           rather than fighting it with CSS transforms again. */
         .read-btn {
             display: flex; align-items: center; justify-content: center; gap: 10px;
             text-align: center; background: var(--accent);
@@ -125,6 +126,10 @@
         .mini-search button {
             background: var(--accent); color: #000; border: none; border-radius: 10px;
             padding: 0 16px; font-weight: 700; font-size: 13px; cursor: pointer;
+        }
+        .footer {
+            text-align: center; padding: 30px 0 10px;
+            color: var(--text-muted); font-size: 13px;
         }
     </style>
 </head>
@@ -242,6 +247,9 @@
         <div class="ad-slot" data-mndbanid="6682c345-631e-456b-82ef-cc3bd9dbb29a"></div>
 
         {% include follow_us.html %}
+        <div class="footer">
+            <p>{{ site.data.site_meta.footer_html }}</p>
+        </div>
     </div>
 
     <script>

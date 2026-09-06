@@ -5,7 +5,7 @@ work_count: 8
 works:
   - title: Shut-less
     author: mr-hokke
-    cover: /covers/531966.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/531966.jpg
     rating: 4.3
     date: '2026-07-11'
     code: 531966
@@ -26,7 +26,7 @@ works:
     url: /works/631036/
   - title: Oneesan no Chitsu-nai ni Shiroi Oshikko to Kiiroi Oshikko
     author: mosaic-book
-    cover: /covers/636807.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/636807.jpg
     rating: 5.0
     date: '2026-07-13'
     code: 636807
@@ -55,7 +55,7 @@ works:
     url: /works/648102/
   - title: Till Dick Do Us Part
     author: ratatatat74-mr-skull
-    cover: /covers/664249.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/664249.jpg
     rating: 4.9
     date: '2026-07-15'
     code: 664249

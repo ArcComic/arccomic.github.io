@@ -7,7 +7,7 @@ works:
       no Naka o Midashiteru~ | Senpai, I Don't Know About That - His Fingers That Were
       Accompaniment are now Disturbing my Vagina
     author: uruh-aqua
-    cover: /covers/507473.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/507473.jpg
     rating: 4.3
     date: '2026-04-15'
     code: 507473
@@ -49,14 +49,14 @@ works:
       Kouhai ni Kikarete shimatte ita Hanashi~ | Workplace Rendezvous ~Caught Masturbating
       in the Company Restroom by My Subordinate~
     author: sato
-    cover: /covers/617492.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/617492.jpg
     rating: 4.4
     date: '2026-07-11'
     code: 617492
     url: /works/617492/
   - title: 女孩們的玩具初體驗 | Girl's First Experience With Toys
     author: muzi
-    cover: /covers/624694.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/624694.jpg
     rating: 4.8
     date: '2026-03-04'
     code: 624694
@@ -115,7 +115,7 @@ works:
     url: /works/651442/
   - title: Boku ni Yuuki ga Atta nara | If only I had the courage
     author: kamakiri-akagi-ryouichi
-    cover: /covers/663672.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/663672.jpg
     rating: 4.1
     date: '2026-07-13'
     code: 663672

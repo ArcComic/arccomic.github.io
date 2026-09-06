@@ -105,28 +105,28 @@ works:
     url: /works/425528/
   - title: Tempt & Throb
     author: mushihara
-    cover: /covers/468655.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/468655.jpg
     rating: 4.8
     date: '2026-07-10'
     code: 468655
     url: /works/468655/
   - title: Meguri Ai | Fateful Encounter  (COMIC Anthurium 2023-12) [English] =NSS=
     author: nagareboshi
-    cover: /covers/485905.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/485905.jpg
     rating: 4.7
     date: '2026-04-15'
     code: 485905
     url: /works/485905/
   - title: Syuju - Kankei
     author: 810eru
-    cover: /covers/489004.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/489004.jpg
     rating: 4.6
     date: '2026-04-17'
     code: 489004
     url: /works/489004/
   - title: Tan to Tan | Unique and Us
     author: mushihara
-    cover: /covers/499536.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/499536.jpg
     rating: 4.6
     date: '2026-07-11'
     code: 499536
@@ -191,7 +191,7 @@ works:
     url: /works/512473/
   - title: Nee, Shite Zenpen
     author: chiba-toshirou
-    cover: /covers/515857.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/515857.jpg
     rating: 4.9
     date: '2026-04-18'
     code: 515857
@@ -206,7 +206,7 @@ works:
     url: /works/518608/
   - title: ねぇ、して 後編
     author: chiba-toshirou
-    cover: /covers/518953.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/518953.jpg
     rating: 4.3
     date: '2026-04-17'
     code: 518953
@@ -239,7 +239,7 @@ works:
   - title: '"Koko Ijirareru no Sukidatta yona?" Rinjin wa, Hitozuma no Moto SeFri 1-2
       | My Neighbor Was My Former Sex Friend 1-2'
     author: icelatte
-    cover: /covers/538063.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/538063.jpg
     rating: 4.1
     date: '2026-07-11'
     code: 538063
@@ -253,7 +253,7 @@ works:
     url: /works/544274/
   - title: Kanrakugai ~Neon Kagayaku Uragawa de~ 3
     author: oobayashi-mori
-    cover: /covers/549597.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/549597.jpg
     rating: 4.9
     date: '2026-04-18'
     code: 549597
@@ -267,7 +267,7 @@ works:
     url: /works/561787/
   - title: Cocoa-chan no Jiraikei Chuuihou
     author: uni-toshiki
-    cover: /covers/568923.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/568923.jpg
     rating: 4.3
     date: '2026-03-04'
     code: 568923
@@ -288,21 +288,21 @@ works:
     url: /works/619648/
   - title: Yumemiru Idol Ikuseiron
     author: kakino-nashiko
-    cover: /covers/631704.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/631704.jpg
     rating: 4.5
     date: '2026-02-25'
     code: 631704
     url: /works/631704/
   - title: 'GNO: Girl''s Night Out - Issue 02'
     author: uselessbegging
-    cover: /covers/634464.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/634464.jpg
     rating: 4.0
     date: '2026-03-07'
     code: 634464
     url: /works/634464/
   - title: Ijimerare Musume to ijirikko ~ ore shika shiranaiyarashii karada
     author: unknown
-    cover: /covers/644176.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/644176.jpg
     rating: 4.4
     date: '2026-04-16'
     code: 644176
@@ -346,14 +346,14 @@ works:
   - title: Onee-chan Tensei! Junyuu Isekai Seikatsu | Reincarnated Big Sister! Breastfeeding
       Sex Life in Another World
     author: mokuyama-hito
-    cover: /covers/663517.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/663517.jpg
     rating: 4.4
     date: '2026-07-13'
     code: 663517
     url: /works/663517/
   - title: Houkago Instant XXX CHAPTER 11
     author: unknown
-    cover: /covers/663654.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/663654.jpg
     rating: 4.3
     date: '2026-07-13'
     code: 663654
@@ -361,7 +361,7 @@ works:
   - title: Repetitive Practice Mama! The Story of Recieving Sex Ed From an Extremely
       Strict Mother
     author: unknown
-    cover: /covers/664191.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/664191.jpg
     rating: 4.3
     date: '2026-07-15'
     code: 664191
@@ -439,7 +439,7 @@ works:
     url: /works/678354/
   - title: Hottokenaino
     author: hara-shigeyuki
-    cover: /covers/77864.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/77864.jpg
     rating: 4.6
     date: '2026-04-19'
     code: 77864

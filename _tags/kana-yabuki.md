@@ -3,7 +3,7 @@ layout: tag
 tag_name: "kana yabuki"
 work_count: 2
 works:
-  - title: Yurishita 2 THE IDOLMï¼ STER GIRLS LOVE!
+  - title: Yurishita 2 THE IDOLM＠STER GIRLS LOVE!
     author: houki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/676327.jpg
     rating: 4.2

@@ -5,7 +5,7 @@ work_count: 5
 works:
   - title: 'Mother and Child Living Together Chapter 2 : Puberty'
     author: fuwatoro-opanchu-cake
-    cover: /covers/616170.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/616170.jpg
     rating: 4.6
     date: '2026-04-14'
     code: 616170
@@ -19,7 +19,7 @@ works:
     url: /works/630901/
   - title: Ecchi na Onee-san-tachi ni Onsenyado de Hokakusareta Ken
     author: ishigaki-takashi
-    cover: /covers/644924.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/644924.jpg
     rating: 4.9
     date: '2026-04-21'
     code: 644924

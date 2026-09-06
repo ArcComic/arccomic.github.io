@@ -10,7 +10,7 @@ works:
     code: 477784
     url: /works/477784/
   - title: Kajitsu 7
-    cover: /covers/631665.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/631665.jpg
     rating: 4.5
     date: '2026-03-03'
     code: 631665

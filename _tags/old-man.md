@@ -47,14 +47,14 @@ works:
     url: /works/453749/
   - title: Minpaku ~Ojou-sama-tachi wa Minpaku Keieisha no Wana ni Ochiru~
     author: kinugasa-yuuichi
-    cover: /covers/478446.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/478446.jpg
     rating: 4.7
     date: '2026-04-14'
     code: 478446
     url: /works/478446/
   - title: Haha Netori
     author: aoi-hitori
-    cover: /covers/527171.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/527171.jpg
     rating: 4.4
     date: '2026-04-16'
     code: 527171
@@ -70,15 +70,15 @@ works:
     url: /works/543494/
   - title: Choukyou Zumi Hitozuma OL wa Joushi ni Dakare Futatabi Ochiru
     author: toono-suika
-    cover: /covers/550164.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/550164.jpg
     rating: 4.0
     date: '2026-07-10'
     code: 550164
     url: /works/550164/
   - title: '- YOINOAYAMACHI - Part.1'
     author: sashimi
-    cover: /covers/556895.jpg
-    rating: 4.6
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/556895.jpg
+    rating: 4.0
     date: '2026-03-09'
     code: 556895
     url: /works/556895/
@@ -99,21 +99,21 @@ works:
     url: /works/566052/
   - title: Undercover at the Onsen
     author: yumoteliuce
-    cover: /covers/588862.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/588862.jpg
     rating: 4.2
     date: '2026-03-09'
     code: 588862
     url: /works/588862/
   - title: 母さんはホームヘルパー〜部屋の片付けから性欲処理まで
     author: '41'
-    cover: /covers/592285.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/592285.jpg
     rating: 4.1
     date: '2026-03-09'
     code: 592285
     url: /works/592285/
   - title: Mama ga Hirottekita Homeless Jiji☆
     author: rafuro
-    cover: /covers/593017.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/593017.jpg
     rating: 4.4
     date: '2026-03-08'
     code: 593017
@@ -127,21 +127,21 @@ works:
     url: /works/593064/
   - title: Kaya-nee and the Old Man Memories
     author: kon-kit
-    cover: /covers/598144.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/598144.jpg
     rating: 4.3
     date: '2026-03-09'
     code: 598144
     url: /works/598144/
   - title: Metamorphosis
     author: shindol
-    cover: /covers/616358.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/616358.jpg
     rating: 4.6
     date: '2026-07-15'
     code: 616358
     url: /works/616358/
   - title: Have a nice day.
     author: owari-ningen
-    cover: /covers/632967.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/632967.jpg
     rating: 4.1
     date: '2026-02-26'
     code: 632967
@@ -215,7 +215,7 @@ works:
     url: /works/652639/
   - title: How the Gloomy Me Took Charge of my Own Life by Becoming a Hostess
     author: shikabanekamo
-    cover: /covers/656419.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/656419.jpg
     rating: 4.2
     date: '2026-07-08'
     code: 656419
@@ -230,14 +230,14 @@ works:
   - title: Hontou no Shinkon Seikatsu wa, Oji-san no Ie de Hajimattemasu | My real life
       as a newlywed has begun at the Oji-san's house.
     author: damda
-    cover: /covers/663089.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/663089.jpg
     rating: 4.6
     date: '2026-07-11'
     code: 663089
     url: /works/663089/
   - title: Metamorphosis Chapter 3
     author: shindol
-    cover: /covers/664216.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/664216.jpg
     rating: 4.3
     date: '2026-07-15'
     code: 664216

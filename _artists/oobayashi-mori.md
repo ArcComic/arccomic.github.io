@@ -10,13 +10,13 @@ works:
     code: 453749
     url: /works/453749/
   - title: Kanrakugai ~Neon Kagayaku Uragawa de~ 3
-    cover: /covers/549597.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/549597.jpg
     rating: 4.9
     date: '2026-04-18'
     code: 549597
     url: /works/549597/
   - title: Chinpo ni Katenai Onna-tachi
-    cover: /covers/638359.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638359.jpg
     rating: 4.3
     date: '2026-04-19'
     code: 638359

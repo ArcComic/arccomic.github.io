@@ -4,13 +4,13 @@ artist_name: "uni-toshiki"
 work_count: 3
 works:
   - title: Kinpatsu Chounyuu Gal ni Gyaku Deriheru Atsukai Sarete Iru Ore no Hanashi
-    cover: /covers/502694.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/502694.jpg
     rating: 4.2
     date: '2026-03-04'
     code: 502694
     url: /works/502694/
   - title: Cocoa-chan no Jiraikei Chuuihou
-    cover: /covers/568923.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/568923.jpg
     rating: 4.3
     date: '2026-03-04'
     code: 568923
@@ -18,7 +18,7 @@ works:
   - title: Mattaku Icha Love suru Ki no Nai Kyonyuu Reijou Gal ni Niku Dildo Atsukai
       Sareteiru Ore no Hanashi | The Story of How I’m Treated Like a Living Dildo by
       a Big-Titted Rich Gyaru Who Has No Interest in Being Lovey-Dovey
-    cover: /covers/610539.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/610539.jpg
     rating: 4.0
     date: '2026-02-26'
     code: 610539

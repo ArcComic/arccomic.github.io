@@ -13,7 +13,7 @@ works:
     url: /works/512270/
   - title: Suki na Joshi ga Hentai Yuujin ni Kuwareta
     author: kemusi-no-bansan-kai
-    cover: /covers/662215.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662215.jpg
     rating: 4.4
     date: '2026-07-08'
     code: 662215

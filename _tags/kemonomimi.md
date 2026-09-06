@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "kemonomimi"
-work_count: 17
+work_count: 16
 works:
   - title: CHOCO x LOVE
     author: highlow
@@ -36,7 +36,7 @@ works:
     url: /works/557452/
   - title: Imouto Haramasenai to Derarenai Shima 2
     author: airandou
-    cover: /covers/643375.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/643375.jpg
     rating: 4.4
     date: '2026-04-12'
     code: 643375
@@ -58,7 +58,7 @@ works:
     url: /works/648414/
   - title: Shirayuki Mishiro & Enomiya Milk Saimin Sakunyuu Play Hon Matome
     author: rurimaru
-    cover: /covers/648800.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/648800.jpg
     rating: 4.0
     date: '2026-07-13'
     code: 648800
@@ -70,24 +70,17 @@ works:
     date: '2026-05-10'
     code: 649111
     url: /works/649111/
-  - title: Kyonyuu Kanojo ni Hitasura Shibori Toraremakuru Hanashi | Squeeze Until Empty
-    author: fuguta-ke
-    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/652218.jpg
-    rating: 4.8
-    date: '2026-05-26'
-    code: 652218
-    url: /works/652218/
   - title: Onee-chan Tensei! Junyuu Isekai Seikatsu | Reincarnated Big Sister! Breastfeeding
       Sex Life in Another World
     author: mokuyama-hito
-    cover: /covers/663517.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/663517.jpg
     rating: 4.4
     date: '2026-07-13'
     code: 663517
     url: /works/663517/
   - title: Himitsu | Secrets
     author: unknown
-    cover: /covers/664299.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/664299.jpg
     rating: 4.4
     date: '2026-07-15'
     code: 664299

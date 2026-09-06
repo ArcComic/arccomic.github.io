@@ -13,7 +13,7 @@ works:
       to be a tall woman who was unfriendly but would let me do whatever I wanted to
       her
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678913.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-06'
     code: 678913
     url: /works/678913/

@@ -7,7 +7,7 @@ works:
       shite kara Nakayoku natta Hanashi - A story about How I, A NEET Who Always Fought
       with My Gutsy Mother,
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/575674.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-05'
     code: 575674
     url: /works/575674/

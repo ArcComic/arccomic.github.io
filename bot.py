@@ -265,7 +265,7 @@ def ensure_jekyll_works_collection():
     return changed
 
 POST_LAYOUT_PATH = os.path.join(WORK_DIR, "_layouts", "post.html")
-POST_LAYOUT_VERSION = 9  # bump when the template below changes materially
+POST_LAYOUT_VERSION = 11  # bump when the template below changes materially
 
 # Native ads (Mondiad "Native" zone type) were removed sitewide — they
 # render as in-flow content the network fully controls, and were both
@@ -403,6 +403,10 @@ POST_LAYOUT_TEMPLATE = f"""<!-- arc-comic-layout-version: {POST_LAYOUT_VERSION} 
             background: var(--accent); color: #000; border: none; border-radius: 10px;
             padding: 0 16px; font-weight: 700; font-size: 13px; cursor: pointer;
         }}
+        .footer {{
+            text-align: center; padding: 30px 0 10px;
+            color: var(--text-muted); font-size: 13px;
+        }}
     </style>
 </head>
 <body>
@@ -519,6 +523,9 @@ POST_LAYOUT_TEMPLATE = f"""<!-- arc-comic-layout-version: {POST_LAYOUT_VERSION} 
         <div class="ad-slot" data-mndbanid="{BANNER_AD_ZONE_ID}"></div>
 
         {{% include follow_us.html %}}
+        <div class="footer">
+            <p>{{{{ site.data.site_meta.footer_html }}}}</p>
+        </div>
     </div>
 
     <script>
@@ -593,7 +600,11 @@ DEFAULT_TAGLINE = "Art & Story — only 4🌟 Manga & Doujinshi Gallery"
 # the same (linktext:url) mini-syntax as the homepage tagline, e.g. so Master
 # can link the actual channel(s) to join without hand-editing any template.
 DEFAULT_JOIN_NOTICE = "(Join Mandatory Telegram channels to Activate Bot first time)"
-DEFAULT_SITE_META = {"tagline": DEFAULT_TAGLINE, "join_notice": DEFAULT_JOIN_NOTICE}
+# Footer text shown at the very bottom of every page (post/tag/artist/search/
+# homepage) — dashboard-editable the same way as the tagline, same
+# (linktext:url) sponsor-link mini-syntax supported.
+DEFAULT_FOOTER = "Daily updates"
+DEFAULT_SITE_META = {"tagline": DEFAULT_TAGLINE, "join_notice": DEFAULT_JOIN_NOTICE, "footer": DEFAULT_FOOTER}
 
 # Sponsor-link mini-syntax: (linktext:url) anywhere inside the tagline becomes
 # a clickable link, e.g. "Sponsored by (MangaHost:https://example.com) this week"
@@ -639,17 +650,22 @@ def load_site_meta():
         meta["tagline"] = DEFAULT_TAGLINE
     if "join_notice" not in meta or not str(meta["join_notice"]).strip():
         meta["join_notice"] = DEFAULT_JOIN_NOTICE
+    if "footer" not in meta or not str(meta["footer"]).strip():
+        meta["footer"] = DEFAULT_FOOTER
     return meta
 
 def save_site_meta(meta):
     os.makedirs(os.path.dirname(SITE_META_FILE), exist_ok=True)
     tagline = str(meta.get("tagline", "")).strip() or DEFAULT_TAGLINE
     join_notice = str(meta.get("join_notice", "")).strip() or DEFAULT_JOIN_NOTICE
+    footer = str(meta.get("footer", "")).strip() or DEFAULT_FOOTER
     data = {
         "tagline": tagline,
         "tagline_html": render_tagline_html(tagline),
         "join_notice": join_notice,
         "join_notice_html": render_tagline_html(join_notice),
+        "footer": footer,
+        "footer_html": render_tagline_html(footer),
     }
     with open(SITE_META_FILE, 'w', encoding='utf-8') as f:
         json.dump(data, f, indent=2)
@@ -657,20 +673,21 @@ def save_site_meta(meta):
 
 def ensure_site_meta():
     """Self-healing: makes sure _data/site_meta.json exists with valid
-    tagline_html and join_notice_html fields even if the file was never
-    created or got corrupted, same reasoning as ensure_follow_us_include()'s
-    use of social_links.json."""
+    tagline_html, join_notice_html, and footer_html fields even if the file
+    was never created or got corrupted, same reasoning as
+    ensure_follow_us_include()'s use of social_links.json."""
     if os.path.exists(SITE_META_FILE):
         try:
             with open(SITE_META_FILE, 'r', encoding='utf-8') as f:
                 meta = json.load(f)
             if meta.get("tagline") and meta.get("tagline_html") \
-                    and meta.get("join_notice") and meta.get("join_notice_html"):
+                    and meta.get("join_notice") and meta.get("join_notice_html") \
+                    and meta.get("footer") and meta.get("footer_html"):
                 return False  # already fine
         except Exception:
             pass
     save_site_meta(load_site_meta())
-    print("🔧 _data/site_meta.json created/repaired with default tagline/join notice")
+    print("🔧 _data/site_meta.json created/repaired with default tagline/join notice/footer")
     return True
 
 # ============== SOCIAL LINKS ("Follow Us") ==============
@@ -853,7 +870,7 @@ PAGINATION_JS = """
 
 # ============== HOMEPAGE (index.html) ==============
 INDEX_HTML_PATH = os.path.join(WORK_DIR, "index.html")
-INDEX_HTML_VERSION = 14  # bump when the template below changes materially
+INDEX_HTML_VERSION = 15  # bump when the template below changes materially
 
 INDEX_HTML_TEMPLATE = f"""---
 # No 'layout:' key here on purpose — index.html is a complete, self-contained
@@ -1089,7 +1106,7 @@ INDEX_HTML_TEMPLATE = f"""---
         <div class="pagination" id="pagination"></div>
         {{% include follow_us.html %}}
         <div class="footer">
-            <p style="margin-top:8px">Daily updates</p>
+            <p style="margin-top:8px">{{{{ site.data.site_meta.footer_html }}}}</p>
         </div>
     </div>
     <script>
@@ -1300,7 +1317,7 @@ def ensure_index_html():
 # ============== TAG SYSTEM (Stage 3) ==============
 TAGS_DIR = os.path.join(WORK_DIR, "_tags")
 TAG_LAYOUT_PATH = os.path.join(WORK_DIR, "_layouts", "tag.html")
-TAG_LAYOUT_VERSION = 10
+TAG_LAYOUT_VERSION = 11
 TAGS_INDEX_PATH = os.path.join(WORK_DIR, "tags", "index.html")
 TAGS_INDEX_VERSION = 1
 
@@ -1324,6 +1341,16 @@ TAG_LAYOUT_TEMPLATE = f"""<!-- arc-comic-layout-version: {TAG_LAYOUT_VERSION} --
         .container {{ max-width: 1200px; margin: 0 auto; padding: 24px; }}
         .logo-link {{ display: inline-flex; text-decoration: none; color: var(--accent); font-weight: 800; font-size: 18px; }}
         .tagline {{ color: var(--text-muted); font-size: 12px; margin: 4px 0 16px; text-align: left; }}
+        .mini-search {{ display: flex; gap: 8px; margin-bottom: 20px; }}
+        .mini-search input {{
+            flex: 1; padding: 10px 14px; background: var(--bg-card); border: 1px solid var(--border);
+            border-radius: 10px; color: var(--text); font-size: 13px; outline: none;
+        }}
+        .mini-search input:focus {{ border-color: var(--accent); }}
+        .mini-search button {{
+            background: var(--accent); color: #000; border: none; border-radius: 10px;
+            padding: 0 16px; font-weight: 700; font-size: 13px; cursor: pointer;
+        }}
         .breadcrumb {{ color: var(--text-muted); font-size: 14px; margin-bottom: 20px; }}
         .breadcrumb a {{ color: var(--accent); text-decoration: none; }}
         h1 {{ font-size: 28px; font-weight: 800; margin-bottom: 8px; }}
@@ -1360,6 +1387,7 @@ TAG_LAYOUT_TEMPLATE = f"""<!-- arc-comic-layout-version: {TAG_LAYOUT_VERSION} --
         .pagination a:hover {{ background: var(--accent); color: #000; }}
         .pagination span {{ background: var(--accent); color: #000; }}
         .pagination-ellipsis {{ padding: 8px 6px; color: var(--text-muted); font-weight: 600; user-select: none; }}
+        .footer {{ text-align: center; padding: 30px 0 10px; color: var(--text-muted); font-size: 13px; }}
         @media (max-width: 768px) {{ .works-grid {{ grid-template-columns: repeat(2, 1fr); }} }}
     </style>
 </head>
@@ -1367,6 +1395,10 @@ TAG_LAYOUT_TEMPLATE = f"""<!-- arc-comic-layout-version: {TAG_LAYOUT_VERSION} --
     <div class="container">
         <a href="/" class="logo-link">✨ Arc Comic</a>
         <div class="tagline">{{{{ site.data.site_meta.tagline_html }}}}</div>
+        <div class="mini-search">
+            <input type="text" placeholder="Search comics..." id="miniSearchInput">
+            <button id="miniSearchBtn">🔍</button>
+        </div>
         <div class="breadcrumb"><a href="/">Home</a> › <a href="/tags/">Tags</a> › {{{{ page.tag_name }}}}</div>
         <div class="ad-slot-container" id="topAdContainer"></div>
         <h1>💥 {{{{ page.tag_name }}}}</h1>
@@ -1382,6 +1414,9 @@ TAG_LAYOUT_TEMPLATE = f"""<!-- arc-comic-layout-version: {TAG_LAYOUT_VERSION} --
         <div class="pagination" id="pagination"></div>
         <div class="ad-slot-container" id="bottomAdContainer"></div>
         {{% include follow_us.html %}}
+        <div class="footer">
+            <p>{{{{ site.data.site_meta.footer_html }}}}</p>
+        </div>
     </div>
     <script>
         {PAGINATION_JS}
@@ -1454,6 +1489,15 @@ TAG_LAYOUT_TEMPLATE = f"""<!-- arc-comic-layout-version: {TAG_LAYOUT_VERSION} --
         }}
         document.getElementById('sortSelect').addEventListener('change', () => render(1));
         render(1);
+
+        function goMiniSearch() {{
+            var q = document.getElementById('miniSearchInput').value.trim();
+            if (q) window.location.href = '/search/?q=' + encodeURIComponent(q);
+        }}
+        document.getElementById('miniSearchBtn').addEventListener('click', goMiniSearch);
+        document.getElementById('miniSearchInput').addEventListener('keydown', function(e) {{
+            if (e.key === 'Enter') goMiniSearch();
+        }});
     </script>
 </body>
 </html>
@@ -1482,7 +1526,7 @@ def slugify(text):
 
 # ============== SEARCH RESULTS PAGE ==============
 SEARCH_PAGE_PATH = os.path.join(WORK_DIR, "search", "index.html")
-SEARCH_PAGE_VERSION = 11
+SEARCH_PAGE_VERSION = 12
 
 SEARCH_PAGE_TEMPLATE = f"""---
 ---
@@ -1520,8 +1564,16 @@ SEARCH_PAGE_TEMPLATE = f"""---
         .search-box input:focus {{ border-color: var(--accent); }}
         .search-box .search-icon {{ position: absolute; left: 16px; top: 50%; transform: translateY(-50%); font-size: 18px; }}
         .search-box button {{ background: var(--accent); color: #000; border: none; border-radius: 12px; padding: 0 22px; font-weight: 700; font-size: 14px; cursor: pointer; }}
-        .results-title {{ font-size: 20px; font-weight: 700; margin-bottom: 20px; }}
+        .results-title {{ font-size: 20px; font-weight: 700; margin-bottom: 0; }}
         .results-title span {{ color: var(--accent); }}
+        .toolbar {{ display: flex; justify-content: flex-end; margin-bottom: 20px; }}
+        .toolbar select {{
+            background: var(--bg-card); color: var(--text); border: 1px solid var(--border);
+            border-radius: 10px; padding: 10px 14px; font-size: 13px; cursor: pointer;
+        }}
+        .results-header {{ display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 12px; margin-bottom: 20px; }}
+        .results-header .results-title {{ margin-bottom: 0; }}
+        .results-header .toolbar {{ margin-bottom: 0; }}
         .works-grid {{ display: grid; grid-template-columns: repeat(5, 1fr); gap: 16px; }}
         .work-card {{
             background: var(--bg-card); border-radius: 12px; border: 1px solid var(--border);
@@ -1550,6 +1602,7 @@ SEARCH_PAGE_TEMPLATE = f"""---
         .pagination a:hover {{ background: var(--accent); color: #000; }}
         .pagination span {{ background: var(--accent); color: #000; }}
         .pagination-ellipsis {{ padding: 8px 6px; color: var(--text-muted); font-weight: 600; user-select: none; }}
+        .footer {{ text-align: center; padding: 30px 0 10px; color: var(--text-muted); font-size: 13px; }}
         @media (max-width: 768px) {{ .works-grid {{ grid-template-columns: repeat(2, 1fr); }} }}
     </style>
 </head>
@@ -1565,12 +1618,24 @@ SEARCH_PAGE_TEMPLATE = f"""---
             </div>
         </div>
         <div class="ad-slot-container" id="topAdContainer"></div>
-        <h2 class="results-title" id="resultsTitle">Search Results</h2>
+        <div class="results-header">
+            <h2 class="results-title" id="resultsTitle">Search Results</h2>
+            <div class="toolbar" id="sortToolbar" style="display:none;">
+                <select id="sortSelect">
+                    <option value="recent">Most Recent</option>
+                    <option value="oldest">Oldest</option>
+                    <option value="rating">Highest Rated</option>
+                </select>
+            </div>
+        </div>
         <div class="works-grid" id="worksGrid"></div>
         <div class="no-results" id="noResults" style="display:none;">No comics match your search.</div>
         <div class="pagination" id="pagination"></div>
         <div class="ad-slot-container" id="bottomAdContainer"></div>
         {{% include follow_us.html %}}
+        <div class="footer">
+            <p>{{{{ site.data.site_meta.footer_html }}}}</p>
+        </div>
     </div>
     <script>
         {PAGINATION_JS}
@@ -1632,6 +1697,15 @@ SEARCH_PAGE_TEMPLATE = f"""---
             document.getElementById('bottomAdContainer').innerHTML = '';
         }}
 
+        function applySort(list) {{
+            const mode = document.getElementById('sortSelect').value;
+            const sorted = [...list];
+            if (mode === 'oldest') sorted.sort((a, b) => new Date(a.date) - new Date(b.date));
+            else if (mode === 'rating') sorted.sort((a, b) => parseFloat(b.rating) - parseFloat(a.rating));
+            else sorted.sort((a, b) => new Date(b.date) - new Date(a.date)); // recent (default)
+            return sorted;
+        }}
+
         function renderPage(page) {{
             page = page || 1;
             const start = (page - 1) * PER_PAGE;
@@ -1657,29 +1731,36 @@ SEARCH_PAGE_TEMPLATE = f"""---
                 document.getElementById('worksGrid').innerHTML = '';
                 document.getElementById('pagination').innerHTML = '';
                 clearAds();
+                document.getElementById('sortToolbar').style.display = 'none';
                 document.getElementById('noResults').style.display = 'block';
                 document.getElementById('noResults').textContent = 'Type something in the search box above.';
                 return;
             }}
 
-            // Sort most-recent-first by default, same as every other grid page.
             const query = q.toLowerCase();
-            currentResults = works.filter(w =>
+            const matches = works.filter(w =>
                 w.title.toLowerCase().includes(query) ||
                 w.author.toLowerCase().includes(query) ||
                 (w.code || '').toLowerCase().includes(query) ||
                 (w.tags || []).some(t => t.toLowerCase().includes(query))
-            ).sort((a, b) => new Date(b.date) - new Date(a.date));
+            );
+            // Sorting is applied on top of the matched set, using whatever
+            // the sort dropdown is currently set to — lets someone search
+            // then sort those results (e.g. by rating) for a better fit,
+            // rather than always locking search results to recency.
+            currentResults = applySort(matches);
 
             const noResults = document.getElementById('noResults');
             if (currentResults.length === 0) {{
                 document.getElementById('worksGrid').innerHTML = '';
                 document.getElementById('pagination').innerHTML = '';
                 clearAds();
+                document.getElementById('sortToolbar').style.display = 'none';
                 noResults.style.display = 'block';
                 noResults.textContent = 'No comics match your search.';
             }} else {{
                 noResults.style.display = 'none';
+                document.getElementById('sortToolbar').style.display = 'flex';
                 renderPage(1);
             }}
         }}
@@ -1692,6 +1773,10 @@ SEARCH_PAGE_TEMPLATE = f"""---
         document.getElementById('searchBtn').addEventListener('click', goSearch);
         document.getElementById('searchInput').addEventListener('keydown', function(e) {{
             if (e.key === 'Enter') goSearch();
+        }});
+        document.getElementById('sortSelect').addEventListener('change', function() {{
+            currentResults = applySort(currentResults);
+            renderPage(1);
         }});
 
         runSearch(getQueryParam('q'));
@@ -1883,7 +1968,7 @@ def _write_tags_index(tag_map):
 # index, regenerated together with tags after every batch flush/delete.
 ARTISTS_DIR = os.path.join(WORK_DIR, "_artists")
 ARTIST_LAYOUT_PATH = os.path.join(WORK_DIR, "_layouts", "artist.html")
-ARTIST_LAYOUT_VERSION = 9
+ARTIST_LAYOUT_VERSION = 10
 ARTISTS_INDEX_PATH = os.path.join(WORK_DIR, "artists", "index.html")
 ARTISTS_INDEX_VERSION = 1
 
@@ -1907,6 +1992,16 @@ ARTIST_LAYOUT_TEMPLATE = f"""<!-- arc-comic-layout-version: {ARTIST_LAYOUT_VERSI
         .container {{ max-width: 1200px; margin: 0 auto; padding: 24px; }}
         .logo-link {{ display: inline-flex; text-decoration: none; color: var(--accent); font-weight: 800; font-size: 18px; }}
         .tagline {{ color: var(--text-muted); font-size: 12px; margin: 4px 0 16px; text-align: left; }}
+        .mini-search {{ display: flex; gap: 8px; margin-bottom: 20px; }}
+        .mini-search input {{
+            flex: 1; padding: 10px 14px; background: var(--bg-card); border: 1px solid var(--border);
+            border-radius: 10px; color: var(--text); font-size: 13px; outline: none;
+        }}
+        .mini-search input:focus {{ border-color: var(--accent); }}
+        .mini-search button {{
+            background: var(--accent); color: #000; border: none; border-radius: 10px;
+            padding: 0 16px; font-weight: 700; font-size: 13px; cursor: pointer;
+        }}
         .breadcrumb {{ color: var(--text-muted); font-size: 14px; margin-bottom: 20px; }}
         .breadcrumb a {{ color: var(--accent); text-decoration: none; }}
         h1 {{ font-size: 28px; font-weight: 800; margin-bottom: 8px; }}
@@ -1943,6 +2038,7 @@ ARTIST_LAYOUT_TEMPLATE = f"""<!-- arc-comic-layout-version: {ARTIST_LAYOUT_VERSI
         .pagination a:hover {{ background: var(--accent); color: #000; }}
         .pagination span {{ background: var(--accent); color: #000; }}
         .pagination-ellipsis {{ padding: 8px 6px; color: var(--text-muted); font-weight: 600; user-select: none; }}
+        .footer {{ text-align: center; padding: 30px 0 10px; color: var(--text-muted); font-size: 13px; }}
         @media (max-width: 768px) {{ .works-grid {{ grid-template-columns: repeat(2, 1fr); }} }}
     </style>
 </head>
@@ -1950,6 +2046,10 @@ ARTIST_LAYOUT_TEMPLATE = f"""<!-- arc-comic-layout-version: {ARTIST_LAYOUT_VERSI
     <div class="container">
         <a href="/" class="logo-link">✨ Arc Comic</a>
         <div class="tagline">{{{{ site.data.site_meta.tagline_html }}}}</div>
+        <div class="mini-search">
+            <input type="text" placeholder="Search comics..." id="miniSearchInput">
+            <button id="miniSearchBtn">🔍</button>
+        </div>
         <div class="breadcrumb"><a href="/">Home</a> › <a href="/artists/">Artists</a> › {{{{ page.artist_name }}}}</div>
         <div class="ad-slot-container" id="topAdContainer"></div>
         <h1>✨ {{{{ page.artist_name }}}}</h1>
@@ -1965,6 +2065,9 @@ ARTIST_LAYOUT_TEMPLATE = f"""<!-- arc-comic-layout-version: {ARTIST_LAYOUT_VERSI
         <div class="pagination" id="pagination"></div>
         <div class="ad-slot-container" id="bottomAdContainer"></div>
         {{% include follow_us.html %}}
+        <div class="footer">
+            <p>{{{{ site.data.site_meta.footer_html }}}}</p>
+        </div>
     </div>
     <script>
         {PAGINATION_JS}
@@ -2021,6 +2124,15 @@ ARTIST_LAYOUT_TEMPLATE = f"""<!-- arc-comic-layout-version: {ARTIST_LAYOUT_VERSI
         }}
         document.getElementById('sortSelect').addEventListener('change', () => render(1));
         render(1);
+
+        function goMiniSearch() {{
+            var q = document.getElementById('miniSearchInput').value.trim();
+            if (q) window.location.href = '/search/?q=' + encodeURIComponent(q);
+        }}
+        document.getElementById('miniSearchBtn').addEventListener('click', goMiniSearch);
+        document.getElementById('miniSearchInput').addEventListener('keydown', function(e) {{
+            if (e.key === 'Enter') goMiniSearch();
+        }});
     </script>
 </body>
 </html>
@@ -2840,7 +2952,7 @@ def record_post(code, title, success, error=None, google_pinged=False, indexnow_
         "code": code,
         "title": title,
         "success": success,
-        "time": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
+        "time": datetime.now().strftime("%Y-%m-%d %I:%M:%S %p"),
         "error": error,
         "google_pinged": google_pinged,
         "indexnow_pinged": indexnow_pinged,
@@ -4764,6 +4876,25 @@ DASHBOARD_HTML = """
         </div>
 
         <div class="card">
+            <h2>🦶 Site Footer Text</h2>
+            <p style="color:#8888a0;font-size:13px;margin-bottom:10px;">
+                Shown at the bottom of every page — homepage, comic pages, tag pages, artist pages, and search.
+            </p>
+            <p style="color:#8888a0;font-size:12px;margin-bottom:10px;line-height:1.5;background:#1a1a24;border:1px solid #2a2a3a;border-radius:8px;padding:10px;">
+                💡 Same link syntax as the tagline above — wrap a link like
+                <code style="color:#f59e0b;">(linktext:https://example.com)</code>.
+                Only <code style="color:#f59e0b;">https://</code> or <code style="color:#f59e0b;">http://</code> links work this way.
+            </p>
+            <textarea id="footerInput" rows="2" style="width:100%;background:#1a1a24;color:#fff;border:1px solid #2a2a3a;border-radius:8px;padding:10px;font-size:14px;box-sizing:border-box;resize:vertical;"></textarea>
+            <div style="margin-top:10px;font-size:12px;color:#8888a0;">Preview:</div>
+            <div id="footerPreview" style="margin-top:4px;padding:10px;background:#1a1a24;border:1px solid #2a2a3a;border-radius:8px;font-size:14px;min-height:20px;"></div>
+            <button id="saveFooterBtn" type="button" style="width:100%;background:#f59e0b;color:#000;border:none;padding:12px;border-radius:10px;font-weight:700;font-size:13px;cursor:pointer;margin-top:10px;">
+                💾 Save Footer Text
+            </button>
+            <div class="status" id="footerStatus"></div>
+        </div>
+
+        <div class="card">
             <h2>🔗 Follow Us Links</h2>
             <p style="color:#8888a0;font-size:13px;margin-bottom:14px;">
                 Shown on every page of the site. Add, edit, reorder, or remove platforms anytime.
@@ -5268,6 +5399,13 @@ DASHBOARD_HTML = """
                 joinNoticePreview.innerHTML = renderTaglinePreview(joinNoticeInput.value) || '<span style="color:#8888a0;">(empty)</span>';
             });
         }
+        const footerInput = document.getElementById('footerInput');
+        const footerPreview = document.getElementById('footerPreview');
+        if (footerInput && footerPreview) {
+            footerInput.addEventListener('input', () => {
+                footerPreview.innerHTML = renderTaglinePreview(footerInput.value) || '<span style="color:#8888a0;">(empty)</span>';
+            });
+        }
         async function loadSiteMeta() {
             try {
                 const res = await fetch('/api/site_meta');
@@ -5279,6 +5417,10 @@ DASHBOARD_HTML = """
                 if (joinNoticeInput) {
                     joinNoticeInput.value = data.join_notice || '';
                     joinNoticePreview.innerHTML = renderTaglinePreview(joinNoticeInput.value) || '<span style="color:#8888a0;">(empty)</span>';
+                }
+                if (footerInput) {
+                    footerInput.value = data.footer || '';
+                    footerPreview.innerHTML = renderTaglinePreview(footerInput.value) || '<span style="color:#8888a0;">(empty)</span>';
                 }
             } catch (e) { /* dashboard offline */ }
         }
@@ -5333,6 +5475,32 @@ DASHBOARD_HTML = """
                 }
                 saveJoinNoticeBtn.disabled = false;
                 saveJoinNoticeBtn.textContent = '💾 Save Join Notice';
+            });
+        }
+
+        const saveFooterBtn = document.getElementById('saveFooterBtn');
+        if (saveFooterBtn) {
+            saveFooterBtn.addEventListener('click', async () => {
+                saveFooterBtn.disabled = true;
+                saveFooterBtn.textContent = 'Saving...';
+                const statusEl = document.getElementById('footerStatus');
+                try {
+                    const res = await fetch('/api/site_meta', {
+                        method: 'POST',
+                        headers: { 'Content-Type': 'application/json' },
+                        body: JSON.stringify({ footer: footerInput.value })
+                    });
+                    const data = await res.json();
+                    statusEl.className = data.status === 'ok' ? 'status success' : 'status error';
+                    statusEl.textContent = data.status === 'ok'
+                        ? '✅ Saved and pushed live'
+                        : '⚠️ Saved locally, but push failed: ' + (data.error || 'unknown error');
+                } catch (e) {
+                    statusEl.className = 'status error';
+                    statusEl.textContent = '❌ Error: ' + e.message;
+                }
+                saveFooterBtn.disabled = false;
+                saveFooterBtn.textContent = '💾 Save Footer Text';
             });
         }
 
@@ -5637,26 +5805,29 @@ def api_get_site_meta():
 
 @app.route("/api/site_meta", methods=["POST"])
 def api_save_site_meta():
-    """Saves the homepage tagline and/or the reading-page join notice and
-    pushes them live immediately. Both support the same inline
-    (linktext:https://url) mini-syntax that becomes a real clickable link;
-    everything else in the text is shown as plain text. Either field can be
-    sent alone — whichever is omitted keeps its current saved value, so the
-    dashboard's two separate save buttons don't clobber each other."""
+    """Saves the homepage tagline, the reading-page join notice, and/or the
+    sitewide footer text, and pushes them live immediately. All three support
+    the same inline (linktext:https://url) mini-syntax that becomes a real
+    clickable link; everything else in the text is shown as plain text. Any
+    field can be sent alone — whichever is omitted keeps its current saved
+    value, so the dashboard's separate save buttons don't clobber each other."""
     data = request.get_json()
     current = load_site_meta()
 
     tagline = str(data.get("tagline", current["tagline"])).strip()
     join_notice = str(data.get("join_notice", current["join_notice"])).strip()
+    footer = str(data.get("footer", current["footer"])).strip()
     if not tagline:
         return jsonify({"status": "error", "error": "Tagline can't be empty"}), 400
     if not join_notice:
         return jsonify({"status": "error", "error": "Join notice can't be empty"}), 400
+    if not footer:
+        return jsonify({"status": "error", "error": "Footer text can't be empty"}), 400
 
-    saved = save_site_meta({"tagline": tagline, "join_notice": join_notice})
+    saved = save_site_meta({"tagline": tagline, "join_notice": join_notice, "footer": footer})
 
     cfg = load_config()
-    pushed, err = git_push(cfg, "meta", "Update site tagline/join notice",
+    pushed, err = git_push(cfg, "meta", "Update site tagline/join notice/footer",
                             batch_paths=[os.path.join("_data", "site_meta.json")])
     return jsonify({
         "status": "ok" if pushed else "saved_but_push_failed",
@@ -5665,6 +5836,8 @@ def api_save_site_meta():
         "preview_html": saved["tagline_html"],
         "join_notice": saved["join_notice"],
         "join_notice_preview_html": saved["join_notice_html"],
+        "footer": saved["footer"],
+        "footer_preview_html": saved["footer_html"],
     })
 
 @app.route("/api/social_links", methods=["POST"])

@@ -12,7 +12,7 @@ works:
     url: /works/445018/
   - title: Kinpatsu Chounyuu Gal ni Gyaku Deriheru Atsukai Sarete Iru Ore no Hanashi
     author: uni-toshiki
-    cover: /covers/502694.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/502694.jpg
     rating: 4.2
     date: '2026-03-04'
     code: 502694
@@ -26,7 +26,7 @@ works:
     url: /works/508818/
   - title: '"Yoyaku Shimasu ka? Asashio no Onaka"'
     author: ootsuka-kotora
-    cover: /covers/509474.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/509474.jpg
     rating: 4.9
     date: '2026-03-03'
     code: 509474

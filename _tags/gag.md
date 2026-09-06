@@ -5,14 +5,14 @@ work_count: 10
 works:
   - title: FORBIDDEN RAIN KOBO KANAERU 2
     author: clef
-    cover: /covers/637709.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/637709.jpg
     rating: 4.6
     date: '2026-07-16'
     code: 637709
     url: /works/637709/
   - title: 撞破秘密后，我成了上司的“专属藏品
     author: unknown
-    cover: /covers/645525.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/645525.jpg
     rating: 4.6
     date: '2026-04-23'
     code: 645525
@@ -34,14 +34,14 @@ works:
     url: /works/661586/
   - title: Metal Girl Ie Onanie
     author: ishimura-ishimiso
-    cover: /covers/663142.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/663142.jpg
     rating: 4.3
     date: '2026-07-11'
     code: 663142
     url: /works/663142/
   - title: KAWAKAMI FROM THE SEXUAL RELIEF DIVISION
     author: carpsukidayo
-    cover: /covers/664460.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/664460.jpg
     rating: 5.0
     date: '2026-07-16'
     code: 664460

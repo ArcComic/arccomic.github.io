@@ -12,7 +12,7 @@ works:
     url: /works/482454/
   - title: Cheeky and Charming
     author: ono-kenuji
-    cover: /covers/663598.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/663598.jpg
     rating: 4.1
     date: '2026-07-13'
     code: 663598

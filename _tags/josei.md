@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "josei"
-work_count: 14
+work_count: 15
 works:
   - title: Onozomi deshitara Saimin wo ~Maki-san Himitsu no Renai Therapy~ | If you
       wish, hypnosis ~Maki-san's secret love therapy~
@@ -15,7 +15,7 @@ works:
       no Naka o Midashiteru~ | Senpai, I Don't Know About That - His Fingers That Were
       Accompaniment are now Disturbing my Vagina
     author: uruh-aqua
-    cover: /covers/507473.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/507473.jpg
     rating: 4.3
     date: '2026-04-15'
     code: 507473
@@ -31,7 +31,7 @@ works:
   - title: Konki Girigiri Sister, Semete Shojo wo Sutetai | If I Can't Be Married At
       Least Let Me Quit Being a Virgin
     author: torii-yoshitsuna
-    cover: /covers/566835.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/566835.jpg
     rating: 4.5
     date: '2026-04-17'
     code: 566835
@@ -45,7 +45,7 @@ works:
     url: /works/587827/
   - title: My Thousand Days With Mentor Tsuji
     author: concontochu
-    cover: /covers/588066.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/588066.jpg
     rating: 4.3
     date: '2026-04-15'
     code: 588066
@@ -88,6 +88,14 @@ works:
     date: '2026-05-03'
     code: 647620
     url: /works/647620/
+  - title: You're My Doggy... Right? ~Pamper Loving Boyfriend Becomes A Wild Sadist
+      Hound~
+    author: the-waidan
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/649029.jpg
+    rating: 4.9
+    date: '2026-05-10'
+    code: 649029
+    url: /works/649029/
   - title: The Obsessive Desires That My Silent Boyfriend's Body Reveals
     author: the-waidan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/649033.jpg

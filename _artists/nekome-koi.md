@@ -10,7 +10,7 @@ works:
     code: 447900
     url: /works/447900/
   - title: My Wife, On the Other Side of The Peep Room…
-    cover: /covers/609714.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/609714.jpg
     rating: 4.2
     date: '2026-03-03'
     code: 609714

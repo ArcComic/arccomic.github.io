@@ -14,7 +14,7 @@ works:
   - title: Ueno-kun wa Kaihatsu-zumi Dai 87 wa | Ueno-kun Has Been Developed Chapter
       87
     author: nakaura
-    cover: /covers/664350.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/664350.jpg
     rating: 4.1
     date: '2026-07-15'
     code: 664350

@@ -4,13 +4,13 @@ artist_name: "enma"
 work_count: 3
 works:
   - title: Chijo Monogatari Henshitsusha (Onna) Shutsubotsu Chuu
-    cover: /covers/588713.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/588713.jpg
     rating: 4.9
     date: '2026-03-07'
     code: 588713
     url: /works/588713/
   - title: Chijo Monogatari Bakunyuu Chijukujo to Doutei-kun
-    cover: /covers/635174.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/635174.jpg
     rating: 4.6
     date: '2026-03-07'
     code: 635174

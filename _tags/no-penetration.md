@@ -19,7 +19,7 @@ works:
     url: /works/588660/
   - title: 'Mother and Child Living Together Chapter 2 : Puberty'
     author: fuwatoro-opanchu-cake
-    cover: /covers/616170.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/616170.jpg
     rating: 4.6
     date: '2026-04-14'
     code: 616170
@@ -48,7 +48,7 @@ works:
     url: /works/652912/
   - title: Inuzuka-san and her Unusual Hobbies
     author: carpsukidayo
-    cover: /covers/664022.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/664022.jpg
     rating: 4.7
     date: '2026-07-16'
     code: 664022
