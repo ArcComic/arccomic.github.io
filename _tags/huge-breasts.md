@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "huge breasts"
-work_count: 42
+work_count: 44
 works:
   - title: Soubo Soukan | Twin Mother Incest Ch. 1
     author: nanao-yukiji
@@ -10,6 +10,13 @@ works:
     date: '2026-04-23'
     code: 356516
     url: /works/356516/
+  - title: Shirotaegiku | Dusty miller
+    author: hiroya
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/370164.jpg
+    rating: 0.0
+    date: '2026-09-06'
+    code: 370164
+    url: /works/370164/
   - title: LOOK LIKE
     author: terasu-mc
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/388099.jpg
@@ -316,4 +323,13 @@ works:
     date: '2026-08-29'
     code: 676439
     url: /works/676439/
+  - title: The story of how the person I thought was a man on social media turned out
+      to be a tall woman who was unfriendly but would let me do whatever I wanted to
+      her
+    author: kurihara-kenshirou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678913.jpg
+    rating: 0.0
+    date: '2026-09-06'
+    code: 678913
+    url: /works/678913/
 ---

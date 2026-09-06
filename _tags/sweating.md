@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sweating"
-work_count: 96
+work_count: 99
 works:
   - title: Kaisha de Iroiro | Gettin' Busy at the Office
     author: hara-shigeyuki
@@ -76,6 +76,13 @@ works:
     date: '2026-04-23'
     code: 356516
     url: /works/356516/
+  - title: Shirotaegiku | Dusty miller
+    author: hiroya
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/370164.jpg
+    rating: 0.0
+    date: '2026-09-06'
+    code: 370164
+    url: /works/370164/
   - title: Yurikago
     author: neko-samurai
     cover: /covers/398305.jpg
@@ -179,6 +186,14 @@ works:
     date: '2026-04-25'
     code: 562615
     url: /works/562615/
+  - title: Kouhai Joshi ni Nakaiki o Oshiete Morau Hanashi | Getting Taught How To Climax
+      Vaginally By My Junior
+    author: tarara
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/567355.jpg
+    rating: 0.0
+    date: '2026-09-06'
+    code: 567355
+    url: /works/567355/
   - title: Adult Game mo Ganbaru zoi | I'll Do My Best, Even if I'm Working on an Adult
       Game
     author: ootsuka-kotora
@@ -201,6 +216,15 @@ works:
     date: '2026-03-07'
     code: 588713
     url: /works/588713/
+  - title: 'Kaa-chan to Sex Shinai to Derarenai Heya ~Kuchiurusai Haha to Hankouki no
+      Ore~ | A Room I Can''t Leave Without Having Incestuous Sex With My Mom: My Nagging
+      Mother and Rebellious Me'
+    author: europia
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/594382.jpg
+    rating: 0.0
+    date: '2026-09-06'
+    code: 594382
+    url: /works/594382/
   - title: Shounen yo, Watashi o Idake. 少年,抱住我
     author: torii-yoshitsuna
     cover: /covers/599514.jpg

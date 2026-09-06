@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "glasses"
-work_count: 145
+work_count: 147
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -111,6 +111,13 @@ works:
     date: '2026-07-13'
     code: 358168
     url: /works/358168/
+  - title: Tonari no Heya no OL-san | OL-san Next Door
+    author: kagami
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/396089.jpg
+    rating: 0.0
+    date: '2026-09-06'
+    code: 396089
+    url: /works/396089/
   - title: Kaisha no Iki Okure BBA Haramaseta | [Tragic News] I Knocked Up The Old Maid
       From My Office
     author: special-g
@@ -126,6 +133,13 @@ works:
     date: '2026-03-05'
     code: 414892
     url: /works/414892/
+  - title: Mirai ni Narenakatta Ano Hi kara | Beyond The Unfulfilled Future
+    author: tamabi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/417221.jpg
+    rating: 0.0
+    date: '2026-09-06'
+    code: 417221
+    url: /works/417221/
   - title: Utakata 2 ~Uraaka DoM Haken OL Onaho Choukyou~ | An Office Lady's Behind
       The Scenes Masochistic Onahole Training 2
     author: yuzuri-ai

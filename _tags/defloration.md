@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "defloration"
-work_count: 129
+work_count: 132
 works:
   - title: Love Approach
     author: hanafuda-sakurano
@@ -54,6 +54,13 @@ works:
     date: '2026-07-13'
     code: 346126
     url: /works/346126/
+  - title: Adlescence 06 Nozomi [English] =NSS=
+    author: aoten
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/349379.jpg
+    rating: 0.0
+    date: '2026-09-06'
+    code: 349379
+    url: /works/349379/
   - title: ERIKA Vol. 2
     author: hankotsu-max
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/353025.jpg
@@ -84,6 +91,13 @@ works:
     date: '2026-09-05'
     code: 363219
     url: /works/363219/
+  - title: Osananajimi wa Otona no Onna | My Childhood Friend is an Adult Woman
+    author: mashu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/383468.jpg
+    rating: 0.0
+    date: '2026-09-06'
+    code: 383468
+    url: /works/383468/
   - title: Rako Slip!
     author: bujidearu
     cover: /covers/393984.jpg
@@ -957,4 +971,13 @@ works:
     date: '2026-09-05'
     code: 678354
     url: /works/678354/
+  - title: The story of how the person I thought was a man on social media turned out
+      to be a tall woman who was unfriendly but would let me do whatever I wanted to
+      her
+    author: kurihara-kenshirou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678913.jpg
+    rating: 0.0
+    date: '2026-09-06'
+    code: 678913
+    url: /works/678913/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "mosaic censorship"
-work_count: 182
+work_count: 183
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -576,6 +576,13 @@ works:
     date: '2026-04-15'
     code: 589010
     url: /works/589010/
+  - title: Ain't No Stoppin' Us Now
+    author: jagayamatarawo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/589313.jpg
+    rating: 0.0
+    date: '2026-09-06'
+    code: 589313
+    url: /works/589313/
   - title: '"Yasashii Dake no Otoko" to Tsuma ni Sute Raretanode... | My Wife Left Me
       Because I was "Too Gentle"...'
     author: special-g

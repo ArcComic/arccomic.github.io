@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "condom"
-work_count: 114
+work_count: 120
 works:
   - title: Kaisha de Iroiro | Gettin' Busy at the Office
     author: hara-shigeyuki
@@ -38,6 +38,13 @@ works:
     date: '2026-04-16'
     code: 275108
     url: /works/275108/
+  - title: Okatai Onna to Iwanaide | Don't call me an Old Maid!
+    author: herio
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/276396.jpg
+    rating: 0.0
+    date: '2026-09-06'
+    code: 276396
+    url: /works/276396/
   - title: Netorare Ibe Kiba Shizuka | The Netorare of Kiba Shizuka
     author: terasu-mc
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/288292.jpg
@@ -104,6 +111,13 @@ works:
     date: '2026-03-09'
     code: 361032
     url: /works/361032/
+  - title: Shokuba no Senpai
+    author: mikuni-mizuki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/363218.jpg
+    rating: 0.0
+    date: '2026-09-06'
+    code: 363218
+    url: /works/363218/
   - title: Okki na Saori-chan wa Bukiyou ni Eroi
     author: aramaki-echizen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/363219.jpg
@@ -111,6 +125,13 @@ works:
     date: '2026-09-05'
     code: 363219
     url: /works/363219/
+  - title: Shirotaegiku | Dusty miller
+    author: hiroya
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/370164.jpg
+    rating: 0.0
+    date: '2026-09-06'
+    code: 370164
+    url: /works/370164/
   - title: Shiraishi-san Wa Yokkyu Fuman | Shiraishi-san's Frustrated
     author: carburetor
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/392617.jpg
@@ -148,6 +169,13 @@ works:
     date: '2026-04-27'
     code: 416883
     url: /works/416883/
+  - title: Mirai ni Narenakatta Ano Hi kara | Beyond The Unfulfilled Future
+    author: tamabi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/417221.jpg
+    rating: 0.0
+    date: '2026-09-06'
+    code: 417221
+    url: /works/417221/
   - title: TomoKano Kaa-chan II ~Jitaku, Musuko no Tomodachi ni Ochita Natsu~ | My Mom
       Is My Friend's Girlfriend 2
     author: tarobaumu
@@ -796,6 +824,14 @@ works:
     date: '2026-08-19'
     code: 671657
     url: /works/671657/
+  - title: Ichigun Joshi no Otoshikata "Zenpen" - Corrupting the Queen Bee | Corrupting
+      the Queen Bee Part 1
+    author: gar
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673207.jpg
+    rating: 0.0
+    date: '2026-09-06'
+    code: 673207
+    url: /works/673207/
   - title: Chinmai Iinchou wa Ore ni dake Himitsu o Misete Kureru
     author: muku
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673952.jpg
@@ -841,4 +877,13 @@ works:
     date: '2026-09-05'
     code: 678678
     url: /works/678678/
+  - title: The story of how the person I thought was a man on social media turned out
+      to be a tall woman who was unfriendly but would let me do whatever I wanted to
+      her
+    author: kurihara-kenshirou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678913.jpg
+    rating: 0.0
+    date: '2026-09-06'
+    code: 678913
+    url: /works/678913/
 ---

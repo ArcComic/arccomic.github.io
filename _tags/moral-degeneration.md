@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "moral degeneration"
-work_count: 22
+work_count: 23
 works:
   - title: Beit Saki no Majime na Kouhai ga... | A Serious Part-Time Kouhai
     author: kusayarou
@@ -39,6 +39,15 @@ works:
     date: '2026-04-15'
     code: 589010
     url: /works/589010/
+  - title: 'Kaa-chan to Sex Shinai to Derarenai Heya ~Kuchiurusai Haha to Hankouki no
+      Ore~ | A Room I Can''t Leave Without Having Incestuous Sex With My Mom: My Nagging
+      Mother and Rebellious Me'
+    author: europia
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/594382.jpg
+    rating: 0.0
+    date: '2026-09-06'
+    code: 594382
+    url: /works/594382/
   - title: Seishun Soushitsu
     author: pinkjoe
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/610017.jpg

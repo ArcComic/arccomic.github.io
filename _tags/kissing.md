@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "kissing"
-work_count: 190
+work_count: 195
 works:
   - title: FLUFFY LAUGH GIRL
     author: shibasaki-syouzi
@@ -24,6 +24,13 @@ works:
     date: '2026-04-13'
     code: 369382
     url: /works/369382/
+  - title: Shirotaegiku | Dusty miller
+    author: hiroya
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/370164.jpg
+    rating: 0.0
+    date: '2026-09-06'
+    code: 370164
+    url: /works/370164/
   - title: Toshishita Chin Kui Obasan
     author: maccha-neji
     cover: /covers/387637.jpg
@@ -38,6 +45,13 @@ works:
     date: '2026-08-24'
     code: 392617
     url: /works/392617/
+  - title: Tonari no Heya no OL-san | OL-san Next Door
+    author: kagami
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/396089.jpg
+    rating: 0.0
+    date: '2026-09-06'
+    code: 396089
+    url: /works/396089/
   - title: Yurikago
     author: neko-samurai
     cover: /covers/398305.jpg
@@ -469,6 +483,13 @@ works:
     date: '2026-04-15'
     code: 588066
     url: /works/588066/
+  - title: Ain't No Stoppin' Us Now
+    author: jagayamatarawo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/589313.jpg
+    rating: 0.0
+    date: '2026-09-06'
+    code: 589313
+    url: /works/589313/
   - title: Pashiri no Shita Teku, Yabaitte... ~ Ebi Sori Iki Suru Namaiki Gyaru | Bullied
       Boy's Tongue Revenge Vol.1-4
     author: takayamanon
@@ -506,6 +527,15 @@ works:
     date: '2026-04-25'
     code: 593677
     url: /works/593677/
+  - title: 'Kaa-chan to Sex Shinai to Derarenai Heya ~Kuchiurusai Haha to Hankouki no
+      Ore~ | A Room I Can''t Leave Without Having Incestuous Sex With My Mom: My Nagging
+      Mother and Rebellious Me'
+    author: europia
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/594382.jpg
+    rating: 0.0
+    date: '2026-09-06'
+    code: 594382
+    url: /works/594382/
   - title: Nagachichi Haha no Naedoko
     author: ginen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/595108.jpg
@@ -1421,4 +1451,13 @@ works:
     date: '2026-09-05'
     code: 678720
     url: /works/678720/
+  - title: The story of how the person I thought was a man on social media turned out
+      to be a tall woman who was unfriendly but would let me do whatever I wanted to
+      her
+    author: kurihara-kenshirou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678913.jpg
+    rating: 0.0
+    date: '2026-09-06'
+    code: 678913
+    url: /works/678913/
 ---

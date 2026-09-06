@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "ahegao"
-work_count: 168
+work_count: 170
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -25,6 +25,13 @@ works:
     date: '2026-02-28'
     code: 265933
     url: /works/265933/
+  - title: Okatai Onna to Iwanaide | Don't call me an Old Maid!
+    author: herio
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/276396.jpg
+    rating: 0.0
+    date: '2026-09-06'
+    code: 276396
+    url: /works/276396/
   - title: Yuri no o saifu ni shite agemasu ne, Senpai | I'll turn you into Yuri's wallet,
       Senpai
     author: doskoinpo
@@ -1251,6 +1258,15 @@ works:
     date: '2026-09-04'
     code: 677731
     url: /works/677731/
+  - title: The story of how the person I thought was a man on social media turned out
+      to be a tall woman who was unfriendly but would let me do whatever I wanted to
+      her
+    author: kurihara-kenshirou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678913.jpg
+    rating: 0.0
+    date: '2026-09-06'
+    code: 678913
+    url: /works/678913/
   - title: Inin Keiyaku | Lewd Pregnancy Contract
     author: yoshiura-kazuya
     cover: /covers/83595.jpg

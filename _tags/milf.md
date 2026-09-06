@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "milf"
-work_count: 261
+work_count: 264
 works:
   - title: Life with Married Women Just Like a Manga 2 - Ch. 1-5
     author: hidemaru
@@ -210,6 +210,13 @@ works:
     date: '2026-04-13'
     code: 369382
     url: /works/369382/
+  - title: Shirotaegiku | Dusty miller
+    author: hiroya
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/370164.jpg
+    rating: 0.0
+    date: '2026-09-06'
+    code: 370164
+    url: /works/370164/
   - title: Toshishita Chin Kui Obasan
     author: maccha-neji
     cover: /covers/387637.jpg
@@ -994,6 +1001,15 @@ works:
     date: '2026-04-25'
     code: 593754
     url: /works/593754/
+  - title: 'Kaa-chan to Sex Shinai to Derarenai Heya ~Kuchiurusai Haha to Hankouki no
+      Ore~ | A Room I Can''t Leave Without Having Incestuous Sex With My Mom: My Nagging
+      Mother and Rebellious Me'
+    author: europia
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/594382.jpg
+    rating: 0.0
+    date: '2026-09-06'
+    code: 594382
+    url: /works/594382/
   - title: Nagachichi Haha no Naedoko
     author: ginen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/595108.jpg
@@ -1905,6 +1921,13 @@ works:
     date: '2026-09-05'
     code: 678643
     url: /works/678643/
+  - title: How I Ended Up Sharing My Four-and-a-Half-Mat Room with My Mom 1+2
+    author: europia
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678916.jpg
+    rating: 0.0
+    date: '2026-09-06'
+    code: 678916
+    url: /works/678916/
   - title: Jokyoushi - Hot For Teachers | Female Teachers
     author: drill-murata
     cover: /covers/81375.jpg

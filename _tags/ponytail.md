@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "ponytail"
-work_count: 90
+work_count: 92
 works:
   - title: Boku no Kazoku o Sarashimasu Ch. 3
     author: tanaka-aji
@@ -148,6 +148,14 @@ works:
     date: '2026-04-30'
     code: 555849
     url: /works/555849/
+  - title: Kouhai Joshi ni Nakaiki o Oshiete Morau Hanashi | Getting Taught How To Climax
+      Vaginally By My Junior
+    author: tarara
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/567355.jpg
+    rating: 0.0
+    date: '2026-09-06'
+    code: 567355
+    url: /works/567355/
   - title: Kou demo Shinakya Akigumo-san 25-sai ga Teitoku to Hameru Kikai Isshou Konai
       desho | If She Doesn’t Do This, 25-Year-Old Akigumo-san Will Never Get the Chance
       to Fuck the Admiral, Right?
@@ -185,6 +193,13 @@ works:
     date: '2026-04-15'
     code: 589010
     url: /works/589010/
+  - title: Ain't No Stoppin' Us Now
+    author: jagayamatarawo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/589313.jpg
+    rating: 0.0
+    date: '2026-09-06'
+    code: 589313
+    url: /works/589313/
   - title: '"Yasashii Dake no Otoko" to Tsuma ni Sute Raretanode... | My Wife Left Me
       Because I was "Too Gentle"...'
     author: special-g

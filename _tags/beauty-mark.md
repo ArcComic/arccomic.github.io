@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "beauty mark"
-work_count: 103
+work_count: 107
 works:
   - title: Uragiri no Ai wa Mitsu no Aji | Treacherous Love Tastes Like Honey
     author: cuzukago
@@ -68,6 +68,13 @@ works:
     date: '2026-03-05'
     code: 409929
     url: /works/409929/
+  - title: Mirai ni Narenakatta Ano Hi kara | Beyond The Unfulfilled Future
+    author: tamabi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/417221.jpg
+    rating: 0.0
+    date: '2026-09-06'
+    code: 417221
+    url: /works/417221/
   - title: TomoKano Kaa-chan II ~Jitaku, Musuko no Tomodachi ni Ochita Natsu~ | My Mom
       Is My Friend's Girlfriend 2
     author: tarobaumu
@@ -321,6 +328,13 @@ works:
     date: '2026-05-10'
     code: 586634
     url: /works/586634/
+  - title: Ain't No Stoppin' Us Now
+    author: jagayamatarawo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/589313.jpg
+    rating: 0.0
+    date: '2026-09-06'
+    code: 589313
+    url: /works/589313/
   - title: Mesu no Ie II ~Tsuma wa Midare Ubareru~
     author: ame-arare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/591112.jpg
@@ -343,6 +357,15 @@ works:
     date: '2026-03-05'
     code: 593456
     url: /works/593456/
+  - title: 'Kaa-chan to Sex Shinai to Derarenai Heya ~Kuchiurusai Haha to Hankouki no
+      Ore~ | A Room I Can''t Leave Without Having Incestuous Sex With My Mom: My Nagging
+      Mother and Rebellious Me'
+    author: europia
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/594382.jpg
+    rating: 0.0
+    date: '2026-09-06'
+    code: 594382
+    url: /works/594382/
   - title: Hitoban Tomete yo, Otaku-kun | Let Me Stay For the Night, Otaku-kun
     author: danimaru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/606166.jpg
@@ -763,4 +786,11 @@ works:
     date: '2026-09-05'
     code: 678678
     url: /works/678678/
+  - title: How I Ended Up Sharing My Four-and-a-Half-Mat Room with My Mom 1+2
+    author: europia
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678916.jpg
+    rating: 0.0
+    date: '2026-09-06'
+    code: 678916
+    url: /works/678916/
 ---

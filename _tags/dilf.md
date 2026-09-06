@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "dilf"
-work_count: 107
+work_count: 109
 works:
   - title: Adoration
     author: kishizuka-kenji
@@ -81,6 +81,13 @@ works:
     date: '2026-04-19'
     code: 342500
     url: /works/342500/
+  - title: Adlescence 06 Nozomi [English] =NSS=
+    author: aoten
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/349379.jpg
+    rating: 0.0
+    date: '2026-09-06'
+    code: 349379
+    url: /works/349379/
   - title: Kagesawa Mura no Akai Kagi tada <hottan>
     author: chiba-shuusaku
     cover: /covers/359864.jpg
@@ -728,6 +735,14 @@ works:
     date: '2026-07-15'
     code: 664216
     url: /works/664216/
+  - title: Ichigun Joshi no Otoshikata "Zenpen" - Corrupting the Queen Bee | Corrupting
+      the Queen Bee Part 1
+    author: gar
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673207.jpg
+    rating: 0.0
+    date: '2026-09-06'
+    code: 673207
+    url: /works/673207/
   - title: 'Married Woman Club: Glass Slippers'
     author: kuroiwa-menou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673944.jpg

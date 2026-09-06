@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "nakadashi"
-work_count: 420
+work_count: 425
 works:
   - title: Adoration
     author: kishizuka-kenji
@@ -38,6 +38,13 @@ works:
     date: '2026-02-26'
     code: 179531
     url: /works/179531/
+  - title: Sei no Kenryoku | The Power of Sex
+    author: tomohiro-kai
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/196238.jpg
+    rating: 0.0
+    date: '2026-09-06'
+    code: 196238
+    url: /works/196238/
   - title: GalPa!
     author: sakagami-umi
     cover: /covers/208522.jpg
@@ -168,6 +175,13 @@ works:
     date: '2026-04-13'
     code: 369382
     url: /works/369382/
+  - title: Shirotaegiku | Dusty miller
+    author: hiroya
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/370164.jpg
+    rating: 0.0
+    date: '2026-09-06'
+    code: 370164
+    url: /works/370164/
   - title: Toshishita Chin Kui Obasan
     author: maccha-neji
     cover: /covers/387637.jpg
@@ -191,6 +205,13 @@ works:
     date: '2026-02-26'
     code: 393984
     url: /works/393984/
+  - title: Tonari no Heya no OL-san | OL-san Next Door
+    author: kagami
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/396089.jpg
+    rating: 0.0
+    date: '2026-09-06'
+    code: 396089
+    url: /works/396089/
   - title: Netorase ~Tsuma no Ichiban Kirei na Hi~ | Netorase - My wife's most beautiful
       day
     author: sakagami-umi
@@ -1136,6 +1157,15 @@ works:
     date: '2026-04-25'
     code: 593754
     url: /works/593754/
+  - title: 'Kaa-chan to Sex Shinai to Derarenai Heya ~Kuchiurusai Haha to Hankouki no
+      Ore~ | A Room I Can''t Leave Without Having Incestuous Sex With My Mom: My Nagging
+      Mother and Rebellious Me'
+    author: europia
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/594382.jpg
+    rating: 0.0
+    date: '2026-09-06'
+    code: 594382
+    url: /works/594382/
   - title: Nagachichi Haha no Naedoko
     author: ginen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/595108.jpg
@@ -3106,6 +3136,15 @@ works:
     date: '2026-09-05'
     code: 678720
     url: /works/678720/
+  - title: The story of how the person I thought was a man on social media turned out
+      to be a tall woman who was unfriendly but would let me do whatever I wanted to
+      her
+    author: kurihara-kenshirou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678913.jpg
+    rating: 0.0
+    date: '2026-09-06'
+    code: 678913
+    url: /works/678913/
   - title: Inin Keiyaku | Lewd Pregnancy Contract
     author: yoshiura-kazuya
     cover: /covers/83595.jpg

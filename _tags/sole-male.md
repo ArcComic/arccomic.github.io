@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole male"
-work_count: 463
+work_count: 474
 works:
   - title: Adoration
     author: kishizuka-kenji
@@ -24,6 +24,13 @@ works:
     date: '2026-04-17'
     code: 162047
     url: /works/162047/
+  - title: Sei no Kenryoku | The Power of Sex
+    author: tomohiro-kai
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/196238.jpg
+    rating: 0.0
+    date: '2026-09-06'
+    code: 196238
+    url: /works/196238/
   - title: FLUFFY LAUGH GIRL
     author: shibasaki-syouzi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/210672.jpg
@@ -54,6 +61,13 @@ works:
     date: '2026-04-13'
     code: 272352
     url: /works/272352/
+  - title: Okatai Onna to Iwanaide | Don't call me an Old Maid!
+    author: herio
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/276396.jpg
+    rating: 0.0
+    date: '2026-09-06'
+    code: 276396
+    url: /works/276396/
   - title: Netorare Ibe Kiba Shizuka | The Netorare of Kiba Shizuka
     author: terasu-mc
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/288292.jpg
@@ -205,6 +219,13 @@ works:
     date: '2026-04-27'
     code: 357965
     url: /works/357965/
+  - title: Shokuba no Senpai
+    author: mikuni-mizuki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/363218.jpg
+    rating: 0.0
+    date: '2026-09-06'
+    code: 363218
+    url: /works/363218/
   - title: Okki na Saori-chan wa Bukiyou ni Eroi
     author: aramaki-echizen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/363219.jpg
@@ -212,6 +233,13 @@ works:
     date: '2026-09-05'
     code: 363219
     url: /works/363219/
+  - title: Shirotaegiku | Dusty miller
+    author: hiroya
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/370164.jpg
+    rating: 0.0
+    date: '2026-09-06'
+    code: 370164
+    url: /works/370164/
   - title: Suki Araba Kareshi no Seiheki o Yugametai! ~Kimi no Aegi ga Mada Tarinai~
     author: meeko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/376189.jpg
@@ -219,6 +247,13 @@ works:
     date: '2026-05-03'
     code: 376189
     url: /works/376189/
+  - title: Osananajimi wa Otona no Onna | My Childhood Friend is an Adult Woman
+    author: mashu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/383468.jpg
+    rating: 0.0
+    date: '2026-09-06'
+    code: 383468
+    url: /works/383468/
   - title: Toshishita Chin Kui Obasan
     author: maccha-neji
     cover: /covers/387637.jpg
@@ -249,6 +284,13 @@ works:
     date: '2026-02-26'
     code: 393984
     url: /works/393984/
+  - title: Tonari no Heya no OL-san | OL-san Next Door
+    author: kagami
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/396089.jpg
+    rating: 0.0
+    date: '2026-09-06'
+    code: 396089
+    url: /works/396089/
   - title: Natsuyasumi~Boku to oneechan no inaka de hatsutaiken~ |Summer Vacation~My
       first time with Oneechan in the countryside
     author: survival-knife
@@ -309,6 +351,13 @@ works:
     date: '2026-04-27'
     code: 416883
     url: /works/416883/
+  - title: Mirai ni Narenakatta Ano Hi kara | Beyond The Unfulfilled Future
+    author: tamabi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/417221.jpg
+    rating: 0.0
+    date: '2026-09-06'
+    code: 417221
+    url: /works/417221/
   - title: Gojou-kun no Koto ga Daishuki Sugite Yona Yona Hakadotte Ita Koto ga Bareta
       Ken
     author: naganeko
@@ -1143,6 +1192,13 @@ works:
     date: '2026-04-15'
     code: 589010
     url: /works/589010/
+  - title: Ain't No Stoppin' Us Now
+    author: jagayamatarawo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/589313.jpg
+    rating: 0.0
+    date: '2026-09-06'
+    code: 589313
+    url: /works/589313/
   - title: Pashiri no Shita Teku, Yabaitte... ~ Ebi Sori Iki Suru Namaiki Gyaru | Bullied
       Boy's Tongue Revenge Vol.1-4
     author: takayamanon
@@ -1203,6 +1259,15 @@ works:
     date: '2026-04-25'
     code: 593754
     url: /works/593754/
+  - title: 'Kaa-chan to Sex Shinai to Derarenai Heya ~Kuchiurusai Haha to Hankouki no
+      Ore~ | A Room I Can''t Leave Without Having Incestuous Sex With My Mom: My Nagging
+      Mother and Rebellious Me'
+    author: europia
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/594382.jpg
+    rating: 0.0
+    date: '2026-09-06'
+    code: 594382
+    url: /works/594382/
   - title: Nagachichi Haha no Naedoko
     author: ginen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/595108.jpg
@@ -3427,4 +3492,20 @@ works:
     date: '2026-09-05'
     code: 678678
     url: /works/678678/
+  - title: The story of how the person I thought was a man on social media turned out
+      to be a tall woman who was unfriendly but would let me do whatever I wanted to
+      her
+    author: kurihara-kenshirou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678913.jpg
+    rating: 0.0
+    date: '2026-09-06'
+    code: 678913
+    url: /works/678913/
+  - title: How I Ended Up Sharing My Four-and-a-Half-Mat Room with My Mom 1+2
+    author: europia
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678916.jpg
+    rating: 0.0
+    date: '2026-09-06'
+    code: 678916
+    url: /works/678916/
 ---

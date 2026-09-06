@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "multi-work series"
-work_count: 206
+work_count: 209
 works:
   - title: Oppai na Natsuyasumi 2 | The Summer Break of Boobs 2
     author: higashino-mikan
@@ -38,6 +38,13 @@ works:
     date: '2026-04-23'
     code: 342540
     url: /works/342540/
+  - title: Adlescence 06 Nozomi [English] =NSS=
+    author: aoten
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/349379.jpg
+    rating: 0.0
+    date: '2026-09-06'
+    code: 349379
+    url: /works/349379/
   - title: ERIKA Vol. 2
     author: hankotsu-max
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/353025.jpg
@@ -578,6 +585,15 @@ works:
     date: '2026-04-23'
     code: 593064
     url: /works/593064/
+  - title: 'Kaa-chan to Sex Shinai to Derarenai Heya ~Kuchiurusai Haha to Hankouki no
+      Ore~ | A Room I Can''t Leave Without Having Incestuous Sex With My Mom: My Nagging
+      Mother and Rebellious Me'
+    author: europia
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/594382.jpg
+    rating: 0.0
+    date: '2026-09-06'
+    code: 594382
+    url: /works/594382/
   - title: Houkai Kazoku 2 -Hahaoya ga Yakuza to no Sex ni Hamatta Hanashi- | Broken
       Family 2 - The story of a mother who got hooked on sex with the Yakuza
     author: watsondou
@@ -1347,6 +1363,14 @@ works:
     date: '2026-09-04'
     code: 669459
     url: /works/669459/
+  - title: Ichigun Joshi no Otoshikata "Zenpen" - Corrupting the Queen Bee | Corrupting
+      the Queen Bee Part 1
+    author: gar
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673207.jpg
+    rating: 0.0
+    date: '2026-09-06'
+    code: 673207
+    url: /works/673207/
   - title: Haburare Zukai no Isekai Boukentan (The Adventure of a Rune Master) 07
     author: hara-tsumoi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673771.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "teacher"
-work_count: 55
+work_count: 58
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -10,6 +10,13 @@ works:
     date: '2026-04-17'
     code: 103680
     url: /works/103680/
+  - title: Sei no Kenryoku | The Power of Sex
+    author: tomohiro-kai
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/196238.jpg
+    rating: 0.0
+    date: '2026-09-06'
+    code: 196238
+    url: /works/196238/
   - title: Sensei wa Shougakusei ga Suki | Sensei Loves Elementary Schoolers
     author: fuyuno-mikan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/289094.jpg
@@ -31,6 +38,13 @@ works:
     date: '2026-07-08'
     code: 346416
     url: /works/346416/
+  - title: Adlescence 06 Nozomi [English] =NSS=
+    author: aoten
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/349379.jpg
+    rating: 0.0
+    date: '2026-09-06'
+    code: 349379
+    url: /works/349379/
   - title: Megane Loli Choukyou Jugyou!! ~Otonashii Megane Lolikko ni Muriyari Dekachin
       Sounyuu~ | The Loli In Glasses' Training Lesson!! ~Force Fucking a Timid Glasses
       Wearing Loli With My Big Cock~ Ch. 1-5
@@ -360,6 +374,14 @@ works:
     date: '2026-07-16'
     code: 664626
     url: /works/664626/
+  - title: Ichigun Joshi no Otoshikata "Zenpen" - Corrupting the Queen Bee | Corrupting
+      the Queen Bee Part 1
+    author: gar
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673207.jpg
+    rating: 0.0
+    date: '2026-09-06'
+    code: 673207
+    url: /works/673207/
   - title: 'Breeding License: ~Am I, the Unpopular Guy, the One with the Strongest Genes?!~'
     author: minamihama-yoriko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/674009.jpg

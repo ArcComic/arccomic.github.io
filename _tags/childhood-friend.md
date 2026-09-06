@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "childhood friend"
-work_count: 12
+work_count: 13
 works:
+  - title: Osananajimi wa Otona no Onna | My Childhood Friend is an Adult Woman
+    author: mashu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/383468.jpg
+    rating: 0.0
+    date: '2026-09-06'
+    code: 383468
+    url: /works/383468/
   - title: Koi no Susumekata | How to Advance Your Love
     author: danimaru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/425528.jpg

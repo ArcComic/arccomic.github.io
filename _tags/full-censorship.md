@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "full censorship"
-work_count: 57
+work_count: 60
 works:
   - title: Kaisha de Iroiro | Gettin' Busy at the Office
     author: hara-shigeyuki
@@ -38,6 +38,13 @@ works:
     date: '2026-04-17'
     code: 161690
     url: /works/161690/
+  - title: Sei no Kenryoku | The Power of Sex
+    author: tomohiro-kai
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/196238.jpg
+    rating: 0.0
+    date: '2026-09-06'
+    code: 196238
+    url: /works/196238/
   - title: Single Mother to Issho ni - Boku no Mamakatsu! 1 | Together with a single
       mother - My sugarmama! 1
     author: azukiko
@@ -60,6 +67,20 @@ works:
     date: '2026-08-20'
     code: 332781
     url: /works/332781/
+  - title: Osananajimi wa Otona no Onna | My Childhood Friend is an Adult Woman
+    author: mashu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/383468.jpg
+    rating: 0.0
+    date: '2026-09-06'
+    code: 383468
+    url: /works/383468/
+  - title: Mirai ni Narenakatta Ano Hi kara | Beyond The Unfulfilled Future
+    author: tamabi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/417221.jpg
+    rating: 0.0
+    date: '2026-09-06'
+    code: 417221
+    url: /works/417221/
   - title: Gojou-kun no Koto ga Daishuki Sugite Yona Yona Hakadotte Ita Koto ga Bareta
       Ken
     author: naganeko

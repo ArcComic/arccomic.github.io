@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "stockings"
-work_count: 126
+work_count: 128
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -110,6 +110,13 @@ works:
     date: '2026-03-09'
     code: 361032
     url: /works/361032/
+  - title: Shirotaegiku | Dusty miller
+    author: hiroya
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/370164.jpg
+    rating: 0.0
+    date: '2026-09-06'
+    code: 370164
+    url: /works/370164/
   - title: Dirty Deeds Done Dirt Cheap
     author: mr-kurz
     cover: /covers/408819.jpg
@@ -919,6 +926,15 @@ works:
     date: '2026-08-31'
     code: 677234
     url: /works/677234/
+  - title: The story of how the person I thought was a man on social media turned out
+      to be a tall woman who was unfriendly but would let me do whatever I wanted to
+      her
+    author: kurihara-kenshirou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678913.jpg
+    rating: 0.0
+    date: '2026-09-06'
+    code: 678913
+    url: /works/678913/
   - title: Jokyoushi - Hot For Teachers | Female Teachers
     author: drill-murata
     cover: /covers/81375.jpg

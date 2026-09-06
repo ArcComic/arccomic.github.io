@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "handjob"
-work_count: 65
+work_count: 66
 works:
   - title: Yuri no o saifu ni shite agemasu ne, Senpai | I'll turn you into Yuri's wallet,
       Senpai
@@ -497,4 +497,11 @@ works:
     date: '2026-09-05'
     code: 676528
     url: /works/676528/
+  - title: How I Ended Up Sharing My Four-and-a-Half-Mat Room with My Mom 1+2
+    author: europia
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678916.jpg
+    rating: 0.0
+    date: '2026-09-06'
+    code: 678916
+    url: /works/678916/
 ---

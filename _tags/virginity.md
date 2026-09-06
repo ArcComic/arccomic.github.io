@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "virginity"
-work_count: 84
+work_count: 87
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -24,6 +24,13 @@ works:
     date: '2026-04-27'
     code: 158990
     url: /works/158990/
+  - title: Sei no Kenryoku | The Power of Sex
+    author: tomohiro-kai
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/196238.jpg
+    rating: 0.0
+    date: '2026-09-06'
+    code: 196238
+    url: /works/196238/
   - title: GalPa!
     author: sakagami-umi
     cover: /covers/208522.jpg
@@ -84,6 +91,13 @@ works:
     date: '2026-09-05'
     code: 363219
     url: /works/363219/
+  - title: Osananajimi wa Otona no Onna | My Childhood Friend is an Adult Woman
+    author: mashu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/383468.jpg
+    rating: 0.0
+    date: '2026-09-06'
+    code: 383468
+    url: /works/383468/
   - title: Toshishita Chin Kui Obasan
     author: maccha-neji
     cover: /covers/387637.jpg
@@ -625,4 +639,13 @@ works:
     date: '2026-09-05'
     code: 678354
     url: /works/678354/
+  - title: The story of how the person I thought was a man on social media turned out
+      to be a tall woman who was unfriendly but would let me do whatever I wanted to
+      her
+    author: kurihara-kenshirou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678913.jpg
+    rating: 0.0
+    date: '2026-09-06'
+    code: 678913
+    url: /works/678913/
 ---

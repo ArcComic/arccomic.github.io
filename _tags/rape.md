@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "rape"
-work_count: 132
+work_count: 134
 works:
   - title: Tsuma no Imouto no Danna ga Ie ni Kiteiruyoudesu | My Sister-In-Law's Husband
       is Over
@@ -39,6 +39,13 @@ works:
     date: '2026-04-17'
     code: 349247
     url: /works/349247/
+  - title: Adlescence 06 Nozomi [English] =NSS=
+    author: aoten
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/349379.jpg
+    rating: 0.0
+    date: '2026-09-06'
+    code: 349379
+    url: /works/349379/
   - title: Ayamachi no Rensa
     author: pororivista
     cover: /covers/351868.jpg
@@ -899,6 +906,14 @@ works:
     date: '2026-08-25'
     code: 672450
     url: /works/672450/
+  - title: Ichigun Joshi no Otoshikata "Zenpen" - Corrupting the Queen Bee | Corrupting
+      the Queen Bee Part 1
+    author: gar
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673207.jpg
+    rating: 0.0
+    date: '2026-09-06'
+    code: 673207
+    url: /works/673207/
   - title: Jitaku ni Shinnyuu Sareta Onnanoko ~Shojo Soushitsu Nakadashi Rape~
     author: usagi-no-yume
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673983.jpg

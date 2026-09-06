@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "hairy"
-work_count: 154
+work_count: 158
 works:
   - title: Adoration
     author: kishizuka-kenji
@@ -89,6 +89,13 @@ works:
     date: '2026-09-05'
     code: 363219
     url: /works/363219/
+  - title: Shirotaegiku | Dusty miller
+    author: hiroya
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/370164.jpg
+    rating: 0.0
+    date: '2026-09-06'
+    code: 370164
+    url: /works/370164/
   - title: Toshishita Chin Kui Obasan
     author: maccha-neji
     cover: /covers/387637.jpg
@@ -442,6 +449,14 @@ works:
     date: '2026-04-17'
     code: 566835
     url: /works/566835/
+  - title: Kouhai Joshi ni Nakaiki o Oshiete Morau Hanashi | Getting Taught How To Climax
+      Vaginally By My Junior
+    author: tarara
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/567355.jpg
+    rating: 0.0
+    date: '2026-09-06'
+    code: 567355
+    url: /works/567355/
   - title: Ninshiki Kaihen Saimin Time Card + Joushiki Kaihen Saimin Time Card | Common
       Sense Altering Hypnosis Time Card 1+2
     author: pomi-sword
@@ -492,6 +507,13 @@ works:
     date: '2026-03-07'
     code: 588713
     url: /works/588713/
+  - title: Ain't No Stoppin' Us Now
+    author: jagayamatarawo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/589313.jpg
+    rating: 0.0
+    date: '2026-09-06'
+    code: 589313
+    url: /works/589313/
   - title: Mesu no Ie II ~Tsuma wa Midare Ubareru~
     author: ame-arare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/591112.jpg
@@ -1137,4 +1159,11 @@ works:
     date: '2026-09-05'
     code: 678678
     url: /works/678678/
+  - title: How I Ended Up Sharing My Four-and-a-Half-Mat Room with My Mom 1+2
+    author: europia
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678916.jpg
+    rating: 0.0
+    date: '2026-09-06'
+    code: 678916
+    url: /works/678916/
 ---

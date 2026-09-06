@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "females only"
-work_count: 18
+work_count: 19
 works:
   - title: Walking back home in the winter with my childhood friend
     author: shimetsuki-tanki
@@ -10,6 +10,14 @@ works:
     date: '2026-07-13'
     code: 565301
     url: /works/565301/
+  - title: Kouhai Joshi ni Nakaiki o Oshiete Morau Hanashi | Getting Taught How To Climax
+      Vaginally By My Junior
+    author: tarara
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/567355.jpg
+    rating: 0.0
+    date: '2026-09-06'
+    code: 567355
+    url: /works/567355/
   - title: Celestial Doll 1-5
     author: mr-kurz
     cover: /covers/595353.jpg
