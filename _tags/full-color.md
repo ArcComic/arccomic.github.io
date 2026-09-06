@@ -5,21 +5,21 @@ work_count: 137
 works:
   - title: Tsuma wo Yariman ni Shimasu Shakkin no Tame desu kara.
     author: pietoro
-    cover: /covers/293478.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/293478.jpg
     rating: 4.0
     date: '2026-04-12'
     code: 293478
     url: /works/293478/
   - title: Kono Furin wa Otto no Tame "Anata, Yurushite…." To, Netorareru Tsuma | 這場外遇是為了老公「親愛的，原諒我…」這樣說著，為老公戴綠帽的妻子
     author: korosuke
-    cover: /covers/328805.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/328805.jpg
     rating: 5.0
     date: '2026-04-12'
     code: 328805
     url: /works/328805/
   - title: My Only Princess
     author: mackgee
-    cover: /covers/335960.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/335960.jpg
     rating: 4.8
     date: '2026-04-17'
     code: 335960
@@ -33,7 +33,7 @@ works:
     url: /works/342639/
   - title: Ayamachi no Rensa
     author: pororivista
-    cover: /covers/351868.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/351868.jpg
     rating: 4.2
     date: '2026-04-13'
     code: 351868
@@ -55,7 +55,7 @@ works:
   - title: Kaisha no Iki Okure BBA Haramaseta | [Tragic News] I Knocked Up The Old Maid
       From My Office
     author: special-g
-    cover: /covers/409929.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/409929.jpg
     rating: 4.4
     date: '2026-03-05'
     code: 409929
@@ -70,7 +70,7 @@ works:
     url: /works/414206/
   - title: Hito o Dame ni Suru Choi Busu ~Kao 40-ten, Karada 120-ten no Kanojo~
     author: special-g
-    cover: /covers/414892.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/414892.jpg
     rating: 4.0
     date: '2026-03-05'
     code: 414892
@@ -99,7 +99,7 @@ works:
     url: /works/430672/
   - title: Mesu Kagura -Fate Hen 1-
     author: ishigaki-takashi
-    cover: /covers/431558.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/431558.jpg
     rating: 4.4
     date: '2026-04-21'
     code: 431558
@@ -123,7 +123,7 @@ works:
       |  Let’s Talk About the Story of A Miracle that Happened When I Stole the Underwear
       of the Lady Next Door
     author: special-g
-    cover: /covers/443909.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/443909.jpg
     rating: 4.3
     date: '2026-03-05'
     code: 443909

@@ -12,14 +12,14 @@ works:
     url: /works/158990/
   - title: Hanamizuki
     author: orikuchi
-    cover: /covers/162047.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/162047.jpg
     rating: 4.1
     date: '2026-04-17'
     code: 162047
     url: /works/162047/
   - title: GalPa!
     author: sakagami-umi
-    cover: /covers/208522.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/208522.jpg
     rating: 4.4
     date: '2026-03-07'
     code: 208522
@@ -49,7 +49,7 @@ works:
     url: /works/344851/
   - title: Kanojo Face | Girlfriend Face
     author: mashiro-shirako
-    cover: /covers/346126.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/346126.jpg
     rating: 4.2
     date: '2026-07-13'
     code: 346126
@@ -57,7 +57,7 @@ works:
   - title: Adlescence 06 Nozomi [English] =NSS=
     author: aoten
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/349379.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-06'
     code: 349379
     url: /works/349379/
@@ -79,7 +79,7 @@ works:
       Sounyuu~ | The Loli In Glasses' Training Lesson!! ~Force Fucking a Timid Glasses
       Wearing Loli With My Big Cock~ Ch. 1-5
     author: sakamata-nerimono
-    cover: /covers/358168.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/358168.jpg
     rating: 4.7
     date: '2026-07-13'
     code: 358168
@@ -94,20 +94,20 @@ works:
   - title: Osananajimi wa Otona no Onna | My Childhood Friend is an Adult Woman
     author: mashu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/383468.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-09-06'
     code: 383468
     url: /works/383468/
   - title: Rako Slip!
     author: bujidearu
-    cover: /covers/393984.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/393984.jpg
     rating: 4.4
     date: '2026-02-26'
     code: 393984
     url: /works/393984/
   - title: Imouto no Nukumori | A Little Sister's warmth
     author: kinomoto-anzu
-    cover: /covers/407959.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/407959.jpg
     rating: 4.5
     date: '2026-07-10'
     code: 407959
@@ -115,7 +115,7 @@ works:
   - title: Kaisha no Iki Okure BBA Haramaseta | [Tragic News] I Knocked Up The Old Maid
       From My Office
     author: special-g
-    cover: /covers/409929.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/409929.jpg
     rating: 4.4
     date: '2026-03-05'
     code: 409929
@@ -130,7 +130,7 @@ works:
     url: /works/414206/
   - title: Hito o Dame ni Suru Choi Busu ~Kao 40-ten, Karada 120-ten no Kanojo~
     author: special-g
-    cover: /covers/414892.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/414892.jpg
     rating: 4.0
     date: '2026-03-05'
     code: 414892
@@ -152,7 +152,7 @@ works:
     url: /works/425528/
   - title: Hatsujouki | Cherry Season
     author: nagareboshi
-    cover: /covers/426769.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/426769.jpg
     rating: 4.6
     date: '2026-04-15'
     code: 426769
@@ -160,7 +160,7 @@ works:
   - title: Gal ni Houkago Oppai Sawatte ku? te Sasowareru Hanashi | That Time Gyarus
       Asked Me to Grope their Tits After Class
     author: ono-hiroki
-    cover: /covers/431578.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/431578.jpg
     rating: 4.1
     date: '2026-03-07'
     code: 431578
@@ -174,7 +174,7 @@ works:
     url: /works/441114/
   - title: Ano Hi ni Modotte Mouichido
     author: nekome-koi
-    cover: /covers/447900.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/447900.jpg
     rating: 4.4
     date: '2026-03-03'
     code: 447900

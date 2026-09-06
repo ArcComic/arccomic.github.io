@@ -5,7 +5,7 @@ work_count: 167
 works:
   - title: Hanamizuki
     author: orikuchi
-    cover: /covers/162047.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/162047.jpg
     rating: 4.1
     date: '2026-04-17'
     code: 162047
@@ -13,14 +13,14 @@ works:
   - title: Tsuma no Imouto no Danna ga Ie ni Kiteiruyoudesu | My Sister-In-Law's Husband
       is Over
     author: arakure
-    cover: /covers/265933.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/265933.jpg
     rating: 4.0
     date: '2026-02-28'
     code: 265933
     url: /works/265933/
   - title: Tsumareta Ikoku no Hana II
     author: darabuchi
-    cover: /covers/315693.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/315693.jpg
     rating: 4.1
     date: '2026-03-04'
     code: 315693
@@ -28,34 +28,34 @@ works:
   - title: Shirotaegiku | Dusty miller
     author: hiroya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/370164.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-06'
     code: 370164
     url: /works/370164/
   - title: Toshishita Chin Kui Obasan
     author: maccha-neji
-    cover: /covers/387637.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/387637.jpg
     rating: 4.0
     date: '2026-04-19'
     code: 387637
     url: /works/387637/
   - title: Imouto no Nukumori | A Little Sister's warmth
     author: kinomoto-anzu
-    cover: /covers/407959.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/407959.jpg
     rating: 4.5
     date: '2026-07-10'
     code: 407959
     url: /works/407959/
   - title: Hatsujouki | Cherry Season
     author: nagareboshi
-    cover: /covers/426769.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/426769.jpg
     rating: 4.6
     date: '2026-04-15'
     code: 426769
     url: /works/426769/
   - title: Mesu Kagura -Fate Hen 1-
     author: ishigaki-takashi
-    cover: /covers/431558.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/431558.jpg
     rating: 4.4
     date: '2026-04-21'
     code: 431558
@@ -63,7 +63,7 @@ works:
   - title: Gal ni Houkago Oppai Sawatte ku? te Sasowareru Hanashi | That Time Gyarus
       Asked Me to Grope their Tits After Class
     author: ono-hiroki
-    cover: /covers/431578.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/431578.jpg
     rating: 4.1
     date: '2026-03-07'
     code: 431578
@@ -77,28 +77,28 @@ works:
     url: /works/432356/
   - title: Discovery
     author: momono-yuuca
-    cover: /covers/445018.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/445018.jpg
     rating: 4.9
     date: '2026-03-03'
     code: 445018
     url: /works/445018/
   - title: Ladies Night
     author: mr-kurz
-    cover: /covers/446018.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/446018.jpg
     rating: 4.9
     date: '2026-03-07'
     code: 446018
     url: /works/446018/
   - title: Tsumaduki | With a Wife
     author: ryuuta
-    cover: /covers/446716.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/446716.jpg
     rating: 4.4
     date: '2026-04-19'
     code: 446716
     url: /works/446716/
   - title: Haha ⇒ umi ⇒ Nanpa ⇒ Rankou ⇒ Nikuana. Haha, Ochiru.
     author: rin
-    cover: /covers/455844.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/455844.jpg
     rating: 4.8
     date: '2026-03-02'
     code: 455844

@@ -5,28 +5,28 @@ work_count: 29
 works:
   - title: Boku no Kazoku o Sarashimasu Ch. 3
     author: tanaka-aji
-    cover: /covers/297068.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/297068.jpg
     rating: 4.2
     date: '2026-04-16'
     code: 297068
     url: /works/297068/
   - title: Kono Furin wa Otto no Tame "Anata, Yurushite…." To, Netorareru Tsuma | 這場外遇是為了老公「親愛的，原諒我…」這樣說著，為老公戴綠帽的妻子
     author: korosuke
-    cover: /covers/328805.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/328805.jpg
     rating: 5.0
     date: '2026-04-12'
     code: 328805
     url: /works/328805/
   - title: Tonight, my wife is being exposed and...
     author: mon-mon
-    cover: /covers/329551.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/329551.jpg
     rating: 4.8
     date: '2026-04-23'
     code: 329551
     url: /works/329551/
   - title: Soubo Soukan | Twin Mother Incest Ch. 1
     author: nanao-yukiji
-    cover: /covers/356516.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/356516.jpg
     rating: 4.0
     date: '2026-04-23'
     code: 356516
@@ -34,7 +34,7 @@ works:
   - title: Iro no Ie -Hitozuma ga Sex Suru Hon II- | Erotic House - Married Women Sex
       Book 2
     author: miho-rei
-    cover: /covers/361032.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/361032.jpg
     rating: 4.5
     date: '2026-03-09'
     code: 361032
@@ -48,21 +48,21 @@ works:
     url: /works/388099/
   - title: Nigiyaka na Rinjin | Lively Neighbors
     author: syuuen
-    cover: /covers/415060.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/415060.jpg
     rating: 4.1
     date: '2026-02-28'
     code: 415060
     url: /works/415060/
   - title: Seisozuma Netorase...
     author: maccha-neji
-    cover: /covers/415906.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/415906.jpg
     rating: 4.3
     date: '2026-04-12'
     code: 415906
     url: /works/415906/
   - title: netoraretekite, ii desu yo.
     author: nt-robo
-    cover: /covers/432513.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/432513.jpg
     rating: 4.9
     date: '2026-04-12'
     code: 432513

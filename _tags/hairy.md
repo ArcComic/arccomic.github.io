@@ -12,14 +12,14 @@ works:
     url: /works/112455/
   - title: Hanamizuki
     author: orikuchi
-    cover: /covers/162047.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/162047.jpg
     rating: 4.1
     date: '2026-04-17'
     code: 162047
     url: /works/162047/
   - title: Hitozuma Hyakka
     author: hase-tsubura
-    cover: /covers/190410.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/190410.jpg
     rating: 4.1
     date: '2026-04-19'
     code: 190410
@@ -27,14 +27,14 @@ works:
   - title: Natsu dake Koibito - Summer only Lover [English] =Forbidden Fetish + Ser
       Maggot=
     author: yoshiura-kazuya
-    cover: /covers/237456.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/237456.jpg
     rating: 4.9
     date: '2026-03-11'
     code: 237456
     url: /works/237456/
   - title: Netemo Sametemo | Be it Sleeping or Awake
     author: takasugi-kou
-    cover: /covers/272352.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/272352.jpg
     rating: 4.3
     date: '2026-04-13'
     code: 272352
@@ -48,14 +48,14 @@ works:
     url: /works/296282/
   - title: Boku no Kazoku o Sarashimasu Ch. 3
     author: tanaka-aji
-    cover: /covers/297068.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/297068.jpg
     rating: 4.2
     date: '2026-04-16'
     code: 297068
     url: /works/297068/
   - title: Sakura Shunin wa Dekiru Hito
     author: yoshiura-kazuya
-    cover: /covers/302117.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/302117.jpg
     rating: 4.1
     date: '2026-03-09'
     code: 302117
@@ -63,7 +63,7 @@ works:
   - title: Single Mother to Issho ni - Boku no Mamakatsu! 1 | Together with a single
       mother - My sugarmama! 1
     author: azukiko
-    cover: /covers/304548.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/304548.jpg
     rating: 4.7
     date: '2026-04-16'
     code: 304548
@@ -77,7 +77,7 @@ works:
     url: /works/353025/
   - title: Kagesawa Mura no Akai Kagi tada <hottan>
     author: chiba-shuusaku
-    cover: /covers/359864.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/359864.jpg
     rating: 4.7
     date: '2026-04-17'
     code: 359864
@@ -92,13 +92,13 @@ works:
   - title: Shirotaegiku | Dusty miller
     author: hiroya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/370164.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-06'
     code: 370164
     url: /works/370164/
   - title: Toshishita Chin Kui Obasan
     author: maccha-neji
-    cover: /covers/387637.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/387637.jpg
     rating: 4.0
     date: '2026-04-19'
     code: 387637
@@ -121,7 +121,7 @@ works:
     url: /works/407561/
   - title: Yasashii Oba-san Yarashii Oba-san | Kind Lady, Dirty Lady Ch. 1-3
     author: hidemaru
-    cover: /covers/421874.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/421874.jpg
     rating: 4.6
     date: '2026-04-16'
     code: 421874
@@ -135,7 +135,7 @@ works:
     url: /works/425528/
   - title: Hatsujouki | Cherry Season
     author: nagareboshi
-    cover: /covers/426769.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/426769.jpg
     rating: 4.6
     date: '2026-04-15'
     code: 426769
@@ -149,28 +149,28 @@ works:
     url: /works/432356/
   - title: Tsumaduki | With a Wife
     author: ryuuta
-    cover: /covers/446716.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/446716.jpg
     rating: 4.4
     date: '2026-04-19'
     code: 446716
     url: /works/446716/
   - title: Haha ⇒ umi ⇒ Nanpa ⇒ Rankou ⇒ Nikuana. Haha, Ochiru.
     author: rin
-    cover: /covers/455844.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/455844.jpg
     rating: 4.8
     date: '2026-03-02'
     code: 455844
     url: /works/455844/
   - title: Provoking Men 1-8
     author: pororivista
-    cover: /covers/458903.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/458903.jpg
     rating: 4.5
     date: '2026-04-13'
     code: 458903
     url: /works/458903/
   - title: Tomodachi, Osananajimi mo Kaa-san mo Netorareru
     author: sink
-    cover: /covers/460565.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/460565.jpg
     rating: 4.2
     date: '2026-04-19'
     code: 460565

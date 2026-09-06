@@ -5,7 +5,7 @@ work_count: 87
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
-    cover: /covers/103680.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/103680.jpg
     rating: 4.6
     date: '2026-04-17'
     code: 103680
@@ -27,20 +27,20 @@ works:
   - title: Sei no Kenryoku | The Power of Sex
     author: tomohiro-kai
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/196238.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-06'
     code: 196238
     url: /works/196238/
   - title: GalPa!
     author: sakagami-umi
-    cover: /covers/208522.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/208522.jpg
     rating: 4.4
     date: '2026-03-07'
     code: 208522
     url: /works/208522/
   - title: Netemo Sametemo | Be it Sleeping or Awake
     author: takasugi-kou
-    cover: /covers/272352.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/272352.jpg
     rating: 4.3
     date: '2026-04-13'
     code: 272352
@@ -48,7 +48,7 @@ works:
   - title: Single Mother to Issho ni - Boku no Mamakatsu! 1 | Together with a single
       mother - My sugarmama! 1
     author: azukiko
-    cover: /covers/304548.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/304548.jpg
     rating: 4.7
     date: '2026-04-16'
     code: 304548
@@ -71,7 +71,7 @@ works:
     url: /works/344851/
   - title: Kanojo Face | Girlfriend Face
     author: mashiro-shirako
-    cover: /covers/346126.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/346126.jpg
     rating: 4.2
     date: '2026-07-13'
     code: 346126
@@ -94,13 +94,13 @@ works:
   - title: Osananajimi wa Otona no Onna | My Childhood Friend is an Adult Woman
     author: mashu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/383468.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-09-06'
     code: 383468
     url: /works/383468/
   - title: Toshishita Chin Kui Obasan
     author: maccha-neji
-    cover: /covers/387637.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/387637.jpg
     rating: 4.0
     date: '2026-04-19'
     code: 387637
@@ -115,14 +115,14 @@ works:
     url: /works/405606/
   - title: Yasashii Oba-san Yarashii Oba-san | Kind Lady, Dirty Lady Ch. 1-3
     author: hidemaru
-    cover: /covers/421874.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/421874.jpg
     rating: 4.6
     date: '2026-04-16'
     code: 421874
     url: /works/421874/
   - title: Hatsujouki | Cherry Season
     author: nagareboshi
-    cover: /covers/426769.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/426769.jpg
     rating: 4.6
     date: '2026-04-15'
     code: 426769
@@ -130,7 +130,7 @@ works:
   - title: Gal ni Houkago Oppai Sawatte ku? te Sasowareru Hanashi | That Time Gyarus
       Asked Me to Grope their Tits After Class
     author: ono-hiroki
-    cover: /covers/431578.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/431578.jpg
     rating: 4.1
     date: '2026-03-07'
     code: 431578
@@ -146,7 +146,7 @@ works:
       |  Let’s Talk About the Story of A Miracle that Happened When I Stole the Underwear
       of the Lady Next Door
     author: special-g
-    cover: /covers/443909.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/443909.jpg
     rating: 4.3
     date: '2026-03-05'
     code: 443909

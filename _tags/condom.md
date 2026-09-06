@@ -5,7 +5,7 @@ work_count: 120
 works:
   - title: Kaisha de Iroiro | Gettin' Busy at the Office
     author: hara-shigeyuki
-    cover: /covers/110835.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/110835.jpg
     rating: 4.7
     date: '2026-04-19'
     code: 110835
@@ -19,21 +19,21 @@ works:
     url: /works/210672/
   - title: Kizashi
     author: yoshiura-kazuya
-    cover: /covers/226386.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/226386.jpg
     rating: 4.7
     date: '2026-03-09'
     code: 226386
     url: /works/226386/
   - title: Overwrite
     author: ojo
-    cover: /covers/240721.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/240721.jpg
     rating: 4.9
     date: '2026-04-12'
     code: 240721
     url: /works/240721/
   - title: Netorare Ibe Kiba Shizuka
     author: terasu-mc
-    cover: /covers/275108.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/275108.jpg
     rating: 5.0
     date: '2026-04-16'
     code: 275108
@@ -41,7 +41,7 @@ works:
   - title: Okatai Onna to Iwanaide | Don't call me an Old Maid!
     author: herio
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/276396.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-06'
     code: 276396
     url: /works/276396/
@@ -61,7 +61,7 @@ works:
     url: /works/296282/
   - title: Sakura Shunin wa Dekiru Hito
     author: yoshiura-kazuya
-    cover: /covers/302117.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/302117.jpg
     rating: 4.1
     date: '2026-03-09'
     code: 302117
@@ -83,7 +83,7 @@ works:
     url: /works/337171/
   - title: Kanojo Face | Girlfriend Face
     author: mashiro-shirako
-    cover: /covers/346126.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/346126.jpg
     rating: 4.2
     date: '2026-07-13'
     code: 346126
@@ -106,7 +106,7 @@ works:
   - title: Iro no Ie -Hitozuma ga Sex Suru Hon II- | Erotic House - Married Women Sex
       Book 2
     author: miho-rei
-    cover: /covers/361032.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/361032.jpg
     rating: 4.5
     date: '2026-03-09'
     code: 361032
@@ -114,7 +114,7 @@ works:
   - title: Shokuba no Senpai
     author: mikuni-mizuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/363218.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-06'
     code: 363218
     url: /works/363218/
@@ -128,7 +128,7 @@ works:
   - title: Shirotaegiku | Dusty miller
     author: hiroya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/370164.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-06'
     code: 370164
     url: /works/370164/
@@ -141,7 +141,7 @@ works:
     url: /works/392617/
   - title: Yurikago
     author: neko-samurai
-    cover: /covers/398305.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/398305.jpg
     rating: 5.0
     date: '2026-07-10'
     code: 398305
@@ -156,7 +156,7 @@ works:
   - title: Kaisha no Iki Okure BBA Haramaseta | [Tragic News] I Knocked Up The Old Maid
       From My Office
     author: special-g
-    cover: /covers/409929.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/409929.jpg
     rating: 4.4
     date: '2026-03-05'
     code: 409929
@@ -172,7 +172,7 @@ works:
   - title: Mirai ni Narenakatta Ano Hi kara | Beyond The Unfulfilled Future
     author: tamabi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/417221.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-06'
     code: 417221
     url: /works/417221/
@@ -186,14 +186,14 @@ works:
     url: /works/419017/
   - title: Hatsujouki | Cherry Season
     author: nagareboshi
-    cover: /covers/426769.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/426769.jpg
     rating: 4.6
     date: '2026-04-15'
     code: 426769
     url: /works/426769/
   - title: Doushia (Terasu MC)] Dorei Gazoku
     author: terasu-mc
-    cover: /covers/427676.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/427676.jpg
     rating: 4.6
     date: '2026-07-15'
     code: 427676
@@ -223,7 +223,7 @@ works:
     url: /works/452482/
   - title: Tomodachi, Osananajimi mo Kaa-san mo Netorareru
     author: sink
-    cover: /covers/460565.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/460565.jpg
     rating: 4.2
     date: '2026-04-19'
     code: 460565

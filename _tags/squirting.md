@@ -5,7 +5,7 @@ work_count: 76
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
-    cover: /covers/103680.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/103680.jpg
     rating: 4.6
     date: '2026-04-17'
     code: 103680
@@ -13,21 +13,21 @@ works:
   - title: Single Mother to Issho ni - Boku no Mamakatsu! 1 | Together with a single
       mother - My sugarmama! 1
     author: azukiko
-    cover: /covers/304548.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/304548.jpg
     rating: 4.7
     date: '2026-04-16'
     code: 304548
     url: /works/304548/
   - title: Majimeni Yarimasu (Seitokaichou) Ch. 1-3
     author: ikumo-taisuke
-    cover: /covers/346416.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/346416.jpg
     rating: 4.4
     date: '2026-07-08'
     code: 346416
     url: /works/346416/
   - title: Haha ⇒ umi ⇒ Nanpa ⇒ Rankou ⇒ Nikuana. Haha, Ochiru.
     author: rin
-    cover: /covers/455844.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/455844.jpg
     rating: 4.8
     date: '2026-03-02'
     code: 455844

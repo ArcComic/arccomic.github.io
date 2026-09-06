@@ -12,7 +12,7 @@ works:
     url: /works/139537/
   - title: Hustle! Danchizuma Ch. 1-18 END
     author: hidemaru
-    cover: /covers/161690.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/161690.jpg
     rating: 4.9
     date: '2026-04-17'
     code: 161690
@@ -20,7 +20,7 @@ works:
   - title: Single Mother to Issho ni - Boku no Mamakatsu! 1 | Together with a single
       mother - My sugarmama! 1
     author: azukiko
-    cover: /covers/304548.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/304548.jpg
     rating: 4.7
     date: '2026-04-16'
     code: 304548
@@ -35,7 +35,7 @@ works:
     url: /works/337171/
   - title: Soubo Soukan | Twin Mother Incest Ch. 1
     author: nanao-yukiji
-    cover: /covers/356516.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/356516.jpg
     rating: 4.0
     date: '2026-04-23'
     code: 356516
@@ -57,34 +57,34 @@ works:
   - title: Shirotaegiku | Dusty miller
     author: hiroya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/370164.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-06'
     code: 370164
     url: /works/370164/
   - title: Toshishita Chin Kui Obasan
     author: maccha-neji
-    cover: /covers/387637.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/387637.jpg
     rating: 4.0
     date: '2026-04-19'
     code: 387637
     url: /works/387637/
   - title: Yurikago
     author: neko-samurai
-    cover: /covers/398305.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/398305.jpg
     rating: 5.0
     date: '2026-07-10'
     code: 398305
     url: /works/398305/
   - title: Hito o Dame ni Suru Choi Busu ~Kao 40-ten, Karada 120-ten no Kanojo~
     author: special-g
-    cover: /covers/414892.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/414892.jpg
     rating: 4.0
     date: '2026-03-05'
     code: 414892
     url: /works/414892/
   - title: Yasashii Oba-san Yarashii Oba-san | Kind Lady, Dirty Lady Ch. 1-3
     author: hidemaru
-    cover: /covers/421874.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/421874.jpg
     rating: 4.6
     date: '2026-04-16'
     code: 421874
@@ -99,7 +99,7 @@ works:
     url: /works/448503/
   - title: Haha ⇒ umi ⇒ Nanpa ⇒ Rankou ⇒ Nikuana. Haha, Ochiru.
     author: rin
-    cover: /covers/455844.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/455844.jpg
     rating: 4.8
     date: '2026-03-02'
     code: 455844

@@ -14,14 +14,14 @@ works:
       Sounyuu~ | The Loli In Glasses' Training Lesson!! ~Force Fucking a Timid Glasses
       Wearing Loli With My Big Cock~ Ch. 1-5
     author: sakamata-nerimono
-    cover: /covers/358168.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/358168.jpg
     rating: 4.7
     date: '2026-07-13'
     code: 358168
     url: /works/358168/
   - title: 'Portio Switch CASE: Varicata Portio | Cervix Switch CASE - Extra-hard Cervix'
     author: bang-you-didori
-    cover: /covers/452141.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/452141.jpg
     rating: 4.4
     date: '2026-03-07'
     code: 452141

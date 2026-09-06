@@ -12,14 +12,14 @@ works:
     url: /works/210672/
   - title: Kono Furin wa Otto no Tame "Anata, Yurushite…." To, Netorareru Tsuma | 這場外遇是為了老公「親愛的，原諒我…」這樣說著，為老公戴綠帽的妻子
     author: korosuke
-    cover: /covers/328805.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/328805.jpg
     rating: 5.0
     date: '2026-04-12'
     code: 328805
     url: /works/328805/
   - title: Kurata Akiko no Kokuhaku 2 - Confession of Akiko kurata Epsode 2
     author: ootsuka-mahiro
-    cover: /covers/369382.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/369382.jpg
     rating: 5.0
     date: '2026-04-13'
     code: 369382
@@ -27,13 +27,13 @@ works:
   - title: Shirotaegiku | Dusty miller
     author: hiroya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/370164.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-06'
     code: 370164
     url: /works/370164/
   - title: Toshishita Chin Kui Obasan
     author: maccha-neji
-    cover: /covers/387637.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/387637.jpg
     rating: 4.0
     date: '2026-04-19'
     code: 387637
@@ -48,13 +48,13 @@ works:
   - title: Tonari no Heya no OL-san | OL-san Next Door
     author: kagami
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/396089.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-09-06'
     code: 396089
     url: /works/396089/
   - title: Yurikago
     author: neko-samurai
-    cover: /covers/398305.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/398305.jpg
     rating: 5.0
     date: '2026-07-10'
     code: 398305
@@ -69,7 +69,7 @@ works:
   - title: Kaisha no Iki Okure BBA Haramaseta | [Tragic News] I Knocked Up The Old Maid
       From My Office
     author: special-g
-    cover: /covers/409929.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/409929.jpg
     rating: 4.4
     date: '2026-03-05'
     code: 409929
@@ -83,7 +83,7 @@ works:
     url: /works/425528/
   - title: Hatsujouki | Cherry Season
     author: nagareboshi
-    cover: /covers/426769.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/426769.jpg
     rating: 4.6
     date: '2026-04-15'
     code: 426769
@@ -113,14 +113,14 @@ works:
       |  Let’s Talk About the Story of A Miracle that Happened When I Stole the Underwear
       of the Lady Next Door
     author: special-g
-    cover: /covers/443909.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/443909.jpg
     rating: 4.3
     date: '2026-03-05'
     code: 443909
     url: /works/443909/
   - title: Tsumaduki | With a Wife
     author: ryuuta
-    cover: /covers/446716.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/446716.jpg
     rating: 4.4
     date: '2026-04-19'
     code: 446716

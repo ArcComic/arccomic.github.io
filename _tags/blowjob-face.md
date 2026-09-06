@@ -5,7 +5,7 @@ work_count: 35
 works:
   - title: Tsuma wo Yariman ni Shimasu Shakkin no Tame desu kara.
     author: pietoro
-    cover: /covers/293478.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/293478.jpg
     rating: 4.0
     date: '2026-04-12'
     code: 293478
@@ -13,7 +13,7 @@ works:
   - title: Iro no Ie -Hitozuma ga Sex Suru Hon II- | Erotic House - Married Women Sex
       Book 2
     author: miho-rei
-    cover: /covers/361032.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/361032.jpg
     rating: 4.5
     date: '2026-03-09'
     code: 361032
@@ -22,7 +22,7 @@ works:
       |  Let’s Talk About the Story of A Miracle that Happened When I Stole the Underwear
       of the Lady Next Door
     author: special-g
-    cover: /covers/443909.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/443909.jpg
     rating: 4.3
     date: '2026-03-05'
     code: 443909

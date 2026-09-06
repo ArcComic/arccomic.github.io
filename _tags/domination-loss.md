@@ -5,14 +5,14 @@ work_count: 21
 works:
   - title: My Only Princess
     author: mackgee
-    cover: /covers/335960.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/335960.jpg
     rating: 4.8
     date: '2026-04-17'
     code: 335960
     url: /works/335960/
   - title: Rako Slip!
     author: bujidearu
-    cover: /covers/393984.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/393984.jpg
     rating: 4.4
     date: '2026-02-26'
     code: 393984

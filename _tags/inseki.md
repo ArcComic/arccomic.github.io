@@ -5,7 +5,7 @@ work_count: 43
 works:
   - title: Kindan no Hatemitsu
     author: ryuuta
-    cover: /covers/163039.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/163039.jpg
     rating: 4.1
     date: '2026-04-19'
     code: 163039
@@ -13,14 +13,14 @@ works:
   - title: Tsuma no Imouto no Danna ga Ie ni Kiteiruyoudesu | My Sister-In-Law's Husband
       is Over
     author: arakure
-    cover: /covers/265933.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/265933.jpg
     rating: 4.0
     date: '2026-02-28'
     code: 265933
     url: /works/265933/
   - title: Hikage | Shade
     author: syuuen
-    cover: /covers/429669.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/429669.jpg
     rating: 4.8
     date: '2026-02-28'
     code: 429669
@@ -29,7 +29,7 @@ works:
       |  Let’s Talk About the Story of A Miracle that Happened When I Stole the Underwear
       of the Lady Next Door
     author: special-g
-    cover: /covers/443909.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/443909.jpg
     rating: 4.3
     date: '2026-03-05'
     code: 443909

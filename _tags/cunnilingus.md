@@ -13,13 +13,13 @@ works:
   - title: Okatai Onna to Iwanaide | Don't call me an Old Maid!
     author: herio
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/276396.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-06'
     code: 276396
     url: /works/276396/
   - title: Oppai na Natsuyasumi 2 | The Summer Break of Boobs 2
     author: higashino-mikan
-    cover: /covers/292454.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/292454.jpg
     rating: 4.9
     date: '2026-03-04'
     code: 292454
@@ -34,14 +34,14 @@ works:
   - title: Single Mother to Issho ni - Boku no Mamakatsu! 1 | Together with a single
       mother - My sugarmama! 1
     author: azukiko
-    cover: /covers/304548.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/304548.jpg
     rating: 4.7
     date: '2026-04-16'
     code: 304548
     url: /works/304548/
   - title: Kono Furin wa Otto no Tame "Anata, Yurushite…." To, Netorareru Tsuma | 這場外遇是為了老公「親愛的，原諒我…」這樣說著，為老公戴綠帽的妻子
     author: korosuke
-    cover: /covers/328805.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/328805.jpg
     rating: 5.0
     date: '2026-04-12'
     code: 328805
@@ -86,35 +86,35 @@ works:
     url: /works/416883/
   - title: Hikage | Shade
     author: syuuen
-    cover: /covers/429669.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/429669.jpg
     rating: 4.8
     date: '2026-02-28'
     code: 429669
     url: /works/429669/
   - title: Discovery
     author: momono-yuuca
-    cover: /covers/445018.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/445018.jpg
     rating: 4.9
     date: '2026-03-03'
     code: 445018
     url: /works/445018/
   - title: Ladies Night
     author: mr-kurz
-    cover: /covers/446018.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/446018.jpg
     rating: 4.9
     date: '2026-03-07'
     code: 446018
     url: /works/446018/
   - title: Tsumaduki | With a Wife
     author: ryuuta
-    cover: /covers/446716.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/446716.jpg
     rating: 4.4
     date: '2026-04-19'
     code: 446716
     url: /works/446716/
   - title: Ano Hi ni Modotte Mouichido
     author: nekome-koi
-    cover: /covers/447900.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/447900.jpg
     rating: 4.4
     date: '2026-03-03'
     code: 447900

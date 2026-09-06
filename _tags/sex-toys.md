@@ -12,14 +12,14 @@ works:
     url: /works/311755/
   - title: Ryoujoku Gakuen
     author: motchie
-    cover: /covers/332375.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/332375.jpg
     rating: 4.0
     date: '2026-04-17'
     code: 332375
     url: /works/332375/
   - title: Yokkyuu Fuman na Danchizuma wa Ikenai Kairaku ni Oboreru
     author: yanagawa-rio
-    cover: /covers/342500.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/342500.jpg
     rating: 4.8
     date: '2026-04-19'
     code: 342500
@@ -34,7 +34,7 @@ works:
   - title: Gojou-kun no Koto ga Daishuki Sugite Yona Yona Hakadotte Ita Koto ga Bareta
       Ken
     author: naganeko
-    cover: /covers/419235.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/419235.jpg
     rating: 4.0
     date: '2026-04-19'
     code: 419235
@@ -42,14 +42,14 @@ works:
   - title: Utakata 2 ~Uraaka DoM Haken OL Onaho Choukyou~ | An Office Lady's Behind
       The Scenes Masochistic Onahole Training 2
     author: yuzuri-ai
-    cover: /covers/432301.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/432301.jpg
     rating: 4.1
     date: '2026-04-13'
     code: 432301
     url: /works/432301/
   - title: Jimihen!! ~Jimiko o Kaechau Junisei Kouyuu~
     author: iburo
-    cover: /covers/460264.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/460264.jpg
     rating: 4.2
     date: '2026-03-09'
     code: 460264

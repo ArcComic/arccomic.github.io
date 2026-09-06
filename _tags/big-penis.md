@@ -6,7 +6,7 @@ works:
   - title: Tsuma no Imouto no Danna ga Ie ni Kiteiruyoudesu | My Sister-In-Law's Husband
       is Over
     author: arakure
-    cover: /covers/265933.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/265933.jpg
     rating: 4.0
     date: '2026-02-28'
     code: 265933
@@ -20,7 +20,7 @@ works:
     url: /works/288292/
   - title: Majimeni Yarimasu (Seitokaichou) Ch. 1-3
     author: ikumo-taisuke
-    cover: /covers/346416.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/346416.jpg
     rating: 4.4
     date: '2026-07-08'
     code: 346416
@@ -28,7 +28,7 @@ works:
   - title: Iro no Ie -Hitozuma ga Sex Suru Hon II- | Erotic House - Married Women Sex
       Book 2
     author: miho-rei
-    cover: /covers/361032.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/361032.jpg
     rating: 4.5
     date: '2026-03-09'
     code: 361032
@@ -42,14 +42,14 @@ works:
     url: /works/388099/
   - title: Rako Slip!
     author: bujidearu
-    cover: /covers/393984.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/393984.jpg
     rating: 4.4
     date: '2026-02-26'
     code: 393984
     url: /works/393984/
   - title: Yurikago
     author: neko-samurai
-    cover: /covers/398305.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/398305.jpg
     rating: 5.0
     date: '2026-07-10'
     code: 398305
@@ -72,7 +72,7 @@ works:
     url: /works/416883/
   - title: netoraretekite, ii desu yo.
     author: nt-robo
-    cover: /covers/432513.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/432513.jpg
     rating: 4.9
     date: '2026-04-12'
     code: 432513

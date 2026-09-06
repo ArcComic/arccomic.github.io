@@ -5,14 +5,14 @@ work_count: 16
 works:
   - title: Kagesawa Mura no Akai Kagi tada <hottan>
     author: chiba-shuusaku
-    cover: /covers/359864.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/359864.jpg
     rating: 4.7
     date: '2026-04-17'
     code: 359864
     url: /works/359864/
   - title: Kurata Akiko no Kokuhaku 2 - Confession of Akiko kurata Epsode 2
     author: ootsuka-mahiro
-    cover: /covers/369382.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/369382.jpg
     rating: 5.0
     date: '2026-04-13'
     code: 369382
@@ -35,7 +35,7 @@ works:
     url: /works/416883/
   - title: Provoking Men 1-8
     author: pororivista
-    cover: /covers/458903.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/458903.jpg
     rating: 4.5
     date: '2026-04-13'
     code: 458903

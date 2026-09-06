@@ -5,14 +5,14 @@ work_count: 67
 works:
   - title: GalPa!
     author: sakagami-umi
-    cover: /covers/208522.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/208522.jpg
     rating: 4.4
     date: '2026-03-07'
     code: 208522
     url: /works/208522/
   - title: CHOCO x LOVE
     author: highlow
-    cover: /covers/317673.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/317673.jpg
     rating: 4.4
     date: '2026-07-09'
     code: 317673
@@ -28,14 +28,14 @@ works:
   - title: Gojou-kun no Koto ga Daishuki Sugite Yona Yona Hakadotte Ita Koto ga Bareta
       Ken
     author: naganeko
-    cover: /covers/419235.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/419235.jpg
     rating: 4.0
     date: '2026-04-19'
     code: 419235
     url: /works/419235/
   - title: Hatsujouki | Cherry Season
     author: nagareboshi
-    cover: /covers/426769.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/426769.jpg
     rating: 4.6
     date: '2026-04-15'
     code: 426769
@@ -43,7 +43,7 @@ works:
   - title: Gal ni Houkago Oppai Sawatte ku? te Sasowareru Hanashi | That Time Gyarus
       Asked Me to Grope their Tits After Class
     author: ono-hiroki
-    cover: /covers/431578.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/431578.jpg
     rating: 4.1
     date: '2026-03-07'
     code: 431578

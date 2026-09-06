@@ -5,14 +5,14 @@ work_count: 170
 works:
   - title: Hanamizuki
     author: orikuchi
-    cover: /covers/162047.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/162047.jpg
     rating: 4.1
     date: '2026-04-17'
     code: 162047
     url: /works/162047/
   - title: Kizashi
     author: yoshiura-kazuya
-    cover: /covers/226386.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/226386.jpg
     rating: 4.7
     date: '2026-03-09'
     code: 226386
@@ -20,7 +20,7 @@ works:
   - title: Tsuma no Imouto no Danna ga Ie ni Kiteiruyoudesu | My Sister-In-Law's Husband
       is Over
     author: arakure
-    cover: /covers/265933.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/265933.jpg
     rating: 4.0
     date: '2026-02-28'
     code: 265933
@@ -28,7 +28,7 @@ works:
   - title: Okatai Onna to Iwanaide | Don't call me an Old Maid!
     author: herio
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/276396.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-06'
     code: 276396
     url: /works/276396/
@@ -49,7 +49,7 @@ works:
     url: /works/300943/
   - title: Ryoujoku Gakuen
     author: motchie
-    cover: /covers/332375.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/332375.jpg
     rating: 4.0
     date: '2026-04-17'
     code: 332375
@@ -58,14 +58,14 @@ works:
       Sounyuu~ | The Loli In Glasses' Training Lesson!! ~Force Fucking a Timid Glasses
       Wearing Loli With My Big Cock~ Ch. 1-5
     author: sakamata-nerimono
-    cover: /covers/358168.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/358168.jpg
     rating: 4.7
     date: '2026-07-13'
     code: 358168
     url: /works/358168/
   - title: Toshishita Chin Kui Obasan
     author: maccha-neji
-    cover: /covers/387637.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/387637.jpg
     rating: 4.0
     date: '2026-04-19'
     code: 387637
@@ -79,21 +79,21 @@ works:
     url: /works/392617/
   - title: Rako Slip!
     author: bujidearu
-    cover: /covers/393984.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/393984.jpg
     rating: 4.4
     date: '2026-02-26'
     code: 393984
     url: /works/393984/
   - title: Seisozuma Netorase...
     author: maccha-neji
-    cover: /covers/415906.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/415906.jpg
     rating: 4.3
     date: '2026-04-12'
     code: 415906
     url: /works/415906/
   - title: Mesu Kagura -Fate Hen 1-
     author: ishigaki-takashi
-    cover: /covers/431558.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/431558.jpg
     rating: 4.4
     date: '2026-04-21'
     code: 431558
@@ -101,42 +101,42 @@ works:
   - title: Utakata 2 ~Uraaka DoM Haken OL Onaho Choukyou~ | An Office Lady's Behind
       The Scenes Masochistic Onahole Training 2
     author: yuzuri-ai
-    cover: /covers/432301.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/432301.jpg
     rating: 4.1
     date: '2026-04-13'
     code: 432301
     url: /works/432301/
   - title: netoraretekite, ii desu yo.
     author: nt-robo
-    cover: /covers/432513.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/432513.jpg
     rating: 4.9
     date: '2026-04-12'
     code: 432513
     url: /works/432513/
   - title: Discovery
     author: momono-yuuca
-    cover: /covers/445018.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/445018.jpg
     rating: 4.9
     date: '2026-03-03'
     code: 445018
     url: /works/445018/
   - title: Ano Hi ni Modotte Mouichido
     author: nekome-koi
-    cover: /covers/447900.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/447900.jpg
     rating: 4.4
     date: '2026-03-03'
     code: 447900
     url: /works/447900/
   - title: Haha ⇒ umi ⇒ Nanpa ⇒ Rankou ⇒ Nikuana. Haha, Ochiru.
     author: rin
-    cover: /covers/455844.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/455844.jpg
     rating: 4.8
     date: '2026-03-02'
     code: 455844
     url: /works/455844/
   - title: Tomodachi, Osananajimi mo Kaa-san mo Netorareru
     author: sink
-    cover: /covers/460565.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/460565.jpg
     rating: 4.2
     date: '2026-04-19'
     code: 460565

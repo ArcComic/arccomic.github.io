@@ -7,7 +7,7 @@ works:
       Sounyuu~ | The Loli In Glasses' Training Lesson!! ~Force Fucking a Timid Glasses
       Wearing Loli With My Big Cock~ Ch. 1-5
     author: sakamata-nerimono
-    cover: /covers/358168.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/358168.jpg
     rating: 4.7
     date: '2026-07-13'
     code: 358168
@@ -22,7 +22,7 @@ works:
   - title: Kaisha no Iki Okure BBA Haramaseta | [Tragic News] I Knocked Up The Old Maid
       From My Office
     author: special-g
-    cover: /covers/409929.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/409929.jpg
     rating: 4.4
     date: '2026-03-05'
     code: 409929

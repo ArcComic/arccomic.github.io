@@ -5,7 +5,7 @@ work_count: 19
 works:
   - title: Kaisha de Iroiro | Gettin' Busy at the Office
     author: hara-shigeyuki
-    cover: /covers/110835.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/110835.jpg
     rating: 4.7
     date: '2026-04-19'
     code: 110835
@@ -19,7 +19,7 @@ works:
     url: /works/296282/
   - title: Yokkyuu Fuman na Danchizuma wa Ikenai Kairaku ni Oboreru
     author: yanagawa-rio
-    cover: /covers/342500.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/342500.jpg
     rating: 4.8
     date: '2026-04-19'
     code: 342500
@@ -27,7 +27,7 @@ works:
   - title: Shirotaegiku | Dusty miller
     author: hiroya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/370164.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-06'
     code: 370164
     url: /works/370164/

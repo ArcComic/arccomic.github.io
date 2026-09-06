@@ -5,49 +5,49 @@ work_count: 41
 works:
   - title: Netorare Ibe Kiba Shizuka
     author: terasu-mc
-    cover: /covers/275108.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/275108.jpg
     rating: 5.0
     date: '2026-04-16'
     code: 275108
     url: /works/275108/
   - title: Sakura Shunin wa Dekiru Hito
     author: yoshiura-kazuya
-    cover: /covers/302117.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/302117.jpg
     rating: 4.1
     date: '2026-03-09'
     code: 302117
     url: /works/302117/
   - title: Kono Furin wa Otto no Tame "Anata, Yurushite…." To, Netorareru Tsuma | 這場外遇是為了老公「親愛的，原諒我…」這樣說著，為老公戴綠帽的妻子
     author: korosuke
-    cover: /covers/328805.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/328805.jpg
     rating: 5.0
     date: '2026-04-12'
     code: 328805
     url: /works/328805/
   - title: Yokkyuu Fuman na Danchizuma wa Ikenai Kairaku ni Oboreru
     author: yanagawa-rio
-    cover: /covers/342500.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/342500.jpg
     rating: 4.8
     date: '2026-04-19'
     code: 342500
     url: /works/342500/
   - title: Dirty Deeds Done Dirt Cheap
     author: mr-kurz
-    cover: /covers/408819.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/408819.jpg
     rating: 4.7
     date: '2026-04-19'
     code: 408819
     url: /works/408819/
   - title: VS Dekachin Ojisan
     author: bang-you-didori
-    cover: /covers/453969.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/453969.jpg
     rating: 4.5
     date: '2026-03-07'
     code: 453969
     url: /works/453969/
   - title: Provoking Men 1-8
     author: pororivista
-    cover: /covers/458903.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/458903.jpg
     rating: 4.5
     date: '2026-04-13'
     code: 458903

@@ -5,7 +5,7 @@ work_count: 26
 works:
   - title: Kizashi
     author: yoshiura-kazuya
-    cover: /covers/226386.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/226386.jpg
     rating: 4.7
     date: '2026-03-09'
     code: 226386
@@ -26,7 +26,7 @@ works:
     url: /works/415057/
   - title: Doushia (Terasu MC)] Dorei Gazoku
     author: terasu-mc
-    cover: /covers/427676.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/427676.jpg
     rating: 4.6
     date: '2026-07-15'
     code: 427676
@@ -40,7 +40,7 @@ works:
     url: /works/428415/
   - title: 'Portio Switch CASE: Varicata Portio | Cervix Switch CASE - Extra-hard Cervix'
     author: bang-you-didori
-    cover: /covers/452141.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/452141.jpg
     rating: 4.4
     date: '2026-03-07'
     code: 452141

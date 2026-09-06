@@ -18,7 +18,7 @@ import subprocess
 import threading
 import functools
 import requests
-from datetime import datetime
+from datetime import datetime, timezone
 from bs4 import BeautifulSoup
 from telegram import Update
 from telegram.ext import Application, MessageHandler, filters, ContextTypes
@@ -74,6 +74,12 @@ os.makedirs(SECRETS_DIR, exist_ok=True)
 # Scan state lives outside the repo — it's operational bookkeeping, not
 # something that needs to be in git history.
 BACKLOG_FILE = os.path.join(SECRETS_DIR, "backlog_scan.json")
+
+# Health check state (verified-clean skip list + report log) lives here
+# for the same reason — operational bookkeeping, not repo content.
+HEALTH_CHECK_FILE = os.path.join(SECRETS_DIR, "health_check.json")
+HEALTH_CHECK_INTERVAL_SECONDS = 6 * 60 * 60  # 6 hours
+HEALTH_CHECK_REPORT_LIMIT = 200  # keep the report log from growing forever
 
 DEFAULT_SECRETS = {
     "telegram_bot_token": "",
@@ -333,21 +339,22 @@ POST_LAYOUT_TEMPLATE = f"""<!-- arc-comic-layout-version: {POST_LAYOUT_VERSION} 
         }}
         .tag:hover {{ border-color: var(--accent); color: var(--accent); }}
         .ad-slot {{
-            margin: 24px 0; display: flex; justify-content: center; align-items: center;
-            min-height: 100px; max-height: 300px; width: 100%;
-            background: var(--bg-card); border-radius: 12px;
-            border: 1px solid var(--border); overflow: hidden;
+            margin: 24px auto; display: flex; justify-content: center; align-items: center;
+            width: 100%; max-width: 336px; min-height: 50px;
         }}
-        /* Mondiad's injected creative can be an <img>, <iframe>, or nested
-           <div>s depending on the ad served — without this, a large raw
-           image creative (e.g. a "claim your reward" banner) renders at
-           its native pixel size and blows the slot out, breaking the
-           whole page's layout around it. Forcing every possible child to
-           respect the slot's own box keeps this contained no matter what
-           creative gets served. */
-        .ad-slot > * {{ max-width: 100% !important; max-height: 100% !important;
-            width: auto !important; height: auto !important; }}
-        .ad-slot img, .ad-slot iframe {{ object-fit: contain; }}
+        /* Bug 19 moved this site to Banner-format ads specifically because
+           Native ads let Mondiad's script inject arbitrary markup that had
+           to be fought with !important overrides — cropping/rescaling the
+           served creative. Doing that to a Banner creative is the same
+           mistake in reverse: Banner ads are served at fixed, standard
+           sizes, and forcibly resizing or clipping them is exactly the
+           kind of interference ad networks flag for policy violations.
+           So this slot no longer constrains its child at all — it just
+           gives the ad room to render at whatever size Mondiad actually
+           serves and centers it. max-width here is a common Banner size
+           as a layout hint only; if Mondiad's dashboard is configured for
+           a different creative size for this zone, adjust this to match
+           rather than fighting it with CSS transforms again. */
         .read-btn {{
             display: flex; align-items: center; justify-content: center; gap: 10px;
             text-align: center; background: var(--accent);
@@ -1338,13 +1345,15 @@ TAG_LAYOUT_TEMPLATE = f"""<!-- arc-comic-layout-version: {TAG_LAYOUT_VERSION} --
         .work-card .info h3 {{ font-size: 13px; font-weight: 600; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }}
         .work-card .info .meta {{ font-size: 11px; color: var(--text-muted); margin-top: 3px; }}
         .ad-slot {{
-            margin: 20px 0; display: flex; justify-content: center; align-items: center;
-            min-height: 100px; max-height: 300px; width: 100%;
-            background: var(--bg-card); border-radius: 12px; border: 1px solid var(--border); overflow: hidden;
+            margin: 20px auto; display: flex; justify-content: center; align-items: center;
+            width: 100%; max-width: 336px; min-height: 50px;
         }}
-        .ad-slot > * {{ max-width: 100% !important; max-height: 100% !important;
-            width: auto !important; height: auto !important; }}
-        .ad-slot img, .ad-slot iframe {{ object-fit: contain; }}
+        /* Banner creatives are served at fixed sizes by Mondiad — this
+           slot must not resize/crop them (policy risk), so it just gives
+           the ad room and centers it rather than constraining its child.
+           max-width is a layout hint matching a common Banner size; match
+           it to this zone's actual configured size in Mondiad's dashboard
+           if that differs, instead of forcing it with CSS again. */
         .pagination {{ display: flex; justify-content: center; gap: 8px; flex-wrap: wrap; margin-top: 30px; padding-top: 20px; border-top: 1px solid var(--border); }}
         .pagination a, .pagination span {{ padding: 8px 14px; border-radius: 8px; font-size: 14px; font-weight: 600; text-decoration: none; }}
         .pagination a {{ background: var(--bg-card); color: var(--text); border: 1px solid var(--border); }}
@@ -1525,13 +1534,15 @@ SEARCH_PAGE_TEMPLATE = f"""---
         .work-card .info h3 {{ font-size: 13px; font-weight: 600; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }}
         .work-card .info .meta {{ font-size: 11px; color: var(--text-muted); margin-top: 3px; }}
         .ad-slot {{
-            margin: 20px 0; display: flex; justify-content: center; align-items: center;
-            min-height: 100px; max-height: 300px; width: 100%;
-            background: var(--bg-card); border-radius: 12px; border: 1px solid var(--border); overflow: hidden;
+            margin: 20px auto; display: flex; justify-content: center; align-items: center;
+            width: 100%; max-width: 336px; min-height: 50px;
         }}
-        .ad-slot > * {{ max-width: 100% !important; max-height: 100% !important;
-            width: auto !important; height: auto !important; }}
-        .ad-slot img, .ad-slot iframe {{ object-fit: contain; }}
+        /* Banner creatives are served at fixed sizes by Mondiad — this
+           slot must not resize/crop them (policy risk), so it just gives
+           the ad room and centers it rather than constraining its child.
+           max-width is a layout hint matching a common Banner size; match
+           it to this zone's actual configured size in Mondiad's dashboard
+           if that differs, instead of forcing it with CSS again. */
         .no-results {{ text-align: center; padding: 60px 20px; color: var(--text-muted); }}
         .pagination {{ display: flex; justify-content: center; gap: 8px; flex-wrap: wrap; margin-top: 30px; padding-top: 20px; border-top: 1px solid var(--border); }}
         .pagination a, .pagination span {{ padding: 8px 14px; border-radius: 8px; font-size: 14px; font-weight: 600; text-decoration: none; }}
@@ -1917,13 +1928,15 @@ ARTIST_LAYOUT_TEMPLATE = f"""<!-- arc-comic-layout-version: {ARTIST_LAYOUT_VERSI
         .work-card .info h3 {{ font-size: 13px; font-weight: 600; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }}
         .work-card .info .meta {{ font-size: 11px; color: var(--text-muted); margin-top: 3px; }}
         .ad-slot {{
-            margin: 20px 0; display: flex; justify-content: center; align-items: center;
-            min-height: 100px; max-height: 300px; width: 100%;
-            background: var(--bg-card); border-radius: 12px; border: 1px solid var(--border); overflow: hidden;
+            margin: 20px auto; display: flex; justify-content: center; align-items: center;
+            width: 100%; max-width: 336px; min-height: 50px;
         }}
-        .ad-slot > * {{ max-width: 100% !important; max-height: 100% !important;
-            width: auto !important; height: auto !important; }}
-        .ad-slot img, .ad-slot iframe {{ object-fit: contain; }}
+        /* Banner creatives are served at fixed sizes by Mondiad — this
+           slot must not resize/crop them (policy risk), so it just gives
+           the ad room and centers it rather than constraining its child.
+           max-width is a layout hint matching a common Banner size; match
+           it to this zone's actual configured size in Mondiad's dashboard
+           if that differs, instead of forcing it with CSS again. */
         .pagination {{ display: flex; justify-content: center; gap: 8px; flex-wrap: wrap; margin-top: 30px; padding-top: 20px; border-top: 1px solid var(--border); }}
         .pagination a, .pagination span {{ padding: 8px 14px; border-radius: 8px; font-size: 14px; font-weight: 600; text-decoration: none; }}
         .pagination a {{ background: var(--bg-card); color: var(--text); border: 1px solid var(--border); }}
@@ -2517,6 +2530,296 @@ def patch_work_rating(code, new_rating):
     with open(md_path, 'w', encoding='utf-8') as f:
         f.write(new_content)
     return True, None
+
+def read_work_front_matter(code):
+    """Reads a single work's YAML front matter as a dict, or None if the
+    file doesn't exist or can't be parsed. Used by the health check to
+    compare what's currently on disk against freshly re-derived values."""
+    md_path = os.path.join(WORKS_DIR, f"{code}.md")
+    if not os.path.exists(md_path):
+        return None
+    with open(md_path, 'r', encoding='utf-8') as f:
+        content = f.read()
+    try:
+        front = yaml.safe_load(content.split("---")[1])
+    except Exception:
+        return None
+    return front or None
+
+# Scalar (single-value) fields the health check can safely re-patch in
+# place via a targeted regex, same technique as patch_work_rating above.
+# "code" is deliberately excluded — it's the file's own identity (its
+# filename IS the code), so a mismatch there gets flagged for a human to
+# look at, never auto-rewritten. "title" and "tags" are excluded too —
+# those come from nhentai, not Telegram, and tags is a YAML list, not a
+# scalar — both go through the separate, full-regen path in
+# apply_health_check_fixes() instead.
+HEALTH_CHECK_SCALAR_FIELDS = {
+    "author": ("author", r'^author:\s*"?.*?"?\s*$', 'author: "{value}"'),
+    "categories": ("categories", r'^categories:\s*\[.*?\]\s*$', 'categories: ["{value}"]'),
+    "language": ("language", r'^language:\s*"?.*?"?\s*$', 'language: "{value}"'),
+    "rating": ("rating", r"^rating:\s*[\d.]+\s*$", "rating: {value}"),
+}
+
+def patch_work_scalar_field(code, field_key, new_value):
+    """Generalized version of patch_work_rating for any single-value
+    front-matter field (author, categories, language, rating). Patches
+    only that one YAML line via targeted regex — never a full file
+    rewrite — same discipline as patch_work_rating. Returns (changed,
+    error)."""
+    if field_key not in HEALTH_CHECK_SCALAR_FIELDS:
+        return False, f"Unsupported field: {field_key}"
+    _, yaml_pattern, yaml_template = HEALTH_CHECK_SCALAR_FIELDS[field_key]
+    md_path = os.path.join(WORKS_DIR, f"{code}.md")
+    if not os.path.exists(md_path):
+        return False, "File not found"
+    with open(md_path, 'r', encoding='utf-8') as f:
+        content = f.read()
+
+    new_line = yaml_template.format(value=new_value)
+    new_content = re.sub(yaml_pattern, new_line, content, count=1, flags=re.MULTILINE)
+
+    if field_key == "rating":
+        new_content = re.sub(
+            r"(\*\*Rating:\*\*\s*⭐\s*)[\d.]+", rf"\g<1>{new_value}", new_content
+        )
+    elif field_key == "author":
+        new_content = re.sub(
+            r"(\*\*Author:\*\*\s*).*?(\s*\|)", rf"\g<1>{new_value}\g<2>", new_content
+        )
+    elif field_key == "language":
+        new_content = re.sub(
+            r"(\*\*Language:\*\*\s*).*?(\s{2,}$)", rf"\g<1>{new_value.title()}\g<2>",
+            new_content, flags=re.MULTILINE
+        )
+
+    if new_content == content:
+        return False, "Already correct or field not found"
+
+    with open(md_path, 'w', encoding='utf-8') as f:
+        f.write(new_content)
+    return True, None
+
+def patch_work_title_and_tags(code, title, tags):
+    """Full-body rewrite for title/tags specifically, since these live in
+    multiple places in the file (YAML front matter, the H1, the Tags
+    line) and tags is a YAML list rather than a scalar — a targeted
+    single-line regex isn't reliable here the way it is for
+    patch_work_scalar_field. Reuses generate_md() itself so the rewritten
+    file is byte-for-byte what a fresh post would produce, just with the
+    other fields (rating, cover, telegram_post, date, views) preserved
+    from the existing file rather than reset."""
+    md_path = os.path.join(WORKS_DIR, f"{code}.md")
+    front = read_work_front_matter(code)
+    if front is None:
+        return False, "File not found or unparseable"
+
+    views_line_match = re.search(r"^views:\s*(\d+)\s*$",
+                                  open(md_path, 'r', encoding='utf-8').read(), re.MULTILINE)
+    new_content = generate_md(
+        code=code, title=title, author=front.get("author", ""),
+        categories=(front.get("categories") or [""])[0], full_color="yes" if front.get("full_color") else "no",
+        cheating="yes" if front.get("ntr") else "no", language=front.get("language", "english"),
+        rating=front.get("rating", "0.0"), tags=tags, cover_path=None,
+        telegram_post_url=front.get("telegram_post", ""), date_str=front.get("date", "")
+    )
+    # generate_md() always writes "views: 0" — restore the real view count.
+    if views_line_match:
+        new_content = re.sub(r"^views:\s*0\s*$", f"views: {views_line_match.group(1)}",
+                              new_content, count=1, flags=re.MULTILINE)
+
+    with open(md_path, 'r', encoding='utf-8') as f:
+        old_content = f.read()
+    if new_content == old_content:
+        return False, "Already correct"
+
+    with open(md_path, 'w', encoding='utf-8') as f:
+        f.write(new_content)
+    return True, None
+
+SITE_URL = "https://arccomic.github.io"
+
+def check_cover_status(code, front, r2_configured, r2_codes):
+    """Checks one comic's cover across all three tiers and returns a dict
+    describing what's true right now:
+      - on_disk: local COVERS_DIR/<code>.jpg exists
+      - on_r2: code is in R2's actual object listing (list_covers) —
+        this is the real "does Cloudflare have it" answer, not an
+        assumption based on the .md pointing at an R2 URL
+      - reachable_live: HEAD request against whatever URL the .md
+        cover field ACTUALLY points at (R2 public URL if migrated,
+        GitHub Pages /covers/<code>.jpg otherwise) returns 200 — this
+        is what a real visitor's browser would experience
+    r2_codes is list_covers(cfg) computed ONCE per health check run by
+    the caller (a single R2 listing call), not per-comic — checking R2
+    membership per-comic would be one API call per comic, needlessly
+    slow and costly for 800+ comics.
+    """
+    local_cover = os.path.join(COVERS_DIR, f"{code}.jpg")
+    on_disk = os.path.exists(local_cover)
+    on_r2 = r2_configured and (code in r2_codes)
+
+    cover_field = (front or {}).get("cover", "")
+    reachable_live = False
+    if cover_field:
+        check_url = cover_field if cover_field.startswith("http") else f"{SITE_URL}{cover_field}"
+        try:
+            resp = requests.head(check_url, timeout=10, allow_redirects=True)
+            reachable_live = (resp.status_code == 200)
+        except Exception:
+            reachable_live = False
+
+    return {"on_disk": on_disk, "on_r2": on_r2, "reachable_live": reachable_live,
+            "cover_field": cover_field}
+
+def check_and_fix_one_work(code, telethon_available, api_id, api_hash, channel,
+                            r2_configured, r2_codes):
+    """Checks a single comic against its Telegram source (author,
+    categories, full_color, cheating, language, rating) and its nhentai
+    source (title, tags), fixes anything that's safely auto-fixable, and
+    returns a report entry dict. Never touches the 'code' field itself —
+    a code mismatch is flagged only, since that's the file's own identity
+    and rewriting it would effectively rename/duplicate the comic.
+
+    telethon_available=False skips the Telegram-side checks entirely
+    (title/tags via nhentai still run) — used when the bot isn't logged
+    into Telethon, so the health check degrades gracefully instead of
+    failing outright.
+
+    Returns an extra "needs_cover_recovery" bool: True when the cover is
+    missing from disk, R2, AND the live site all at once — that tier
+    can't be fixed here (it needs a Telegram re-fetch, which the caller
+    batches across all such comics in one paced pass, same as the
+    existing manual 'Recover Covers' tool) so this function only flags
+    it and moves on.
+    """
+    front = read_work_front_matter(code)
+    if front is None:
+        return {"code": code, "title": None, "issues": ["file missing or unparseable"],
+                "fixed": [], "status": "error", "needs_cover_recovery": False}
+
+    issues = []
+    fixed = []
+    needs_cover_recovery = False
+    title = front.get("title", "")
+
+    # --- Cover: verify it actually exists where the site depends on it,
+    # and where you specifically asked to confirm — Cloudflare R2. ---
+    cfg = load_config()
+    cover_status = check_cover_status(code, front, r2_configured, r2_codes)
+    if r2_configured:
+        if cover_status["on_disk"] and not cover_status["on_r2"]:
+            # Present locally but never made it to R2 — this is the
+            # "upload it there" case, using the same upload_cover() the
+            # normal posting flow and run_r2_migration() already use.
+            issues.append("cover: on disk but missing from Cloudflare R2")
+            local_cover = os.path.join(COVERS_DIR, f"{code}.jpg")
+            r2_url = r2_upload.upload_cover(cfg, local_cover, code)
+            if r2_url:
+                md_path = os.path.join(WORKS_DIR, f"{code}.md")
+                with open(md_path, "r", encoding="utf-8") as f:
+                    content = f.read()
+                old_local = f"/covers/{code}.jpg"
+                new_content = content.replace(old_local, r2_url) if old_local in content else content
+                if new_content != content:
+                    with open(md_path, "w", encoding="utf-8") as f:
+                        f.write(new_content)
+                try:
+                    os.remove(local_cover)
+                except Exception:
+                    pass
+                fixed.append("cover")
+        elif not cover_status["on_disk"] and not cover_status["on_r2"]:
+            # Gone from disk AND from R2. If it's still reachable live
+            # (e.g. GitHub Pages still has the old /covers/ file even
+            # though it predates R2 migration), that's fine as-is — no
+            # action needed, matches find_codes_missing_covers()'s own
+            # "still fine on GitHub, don't touch" rule. Only truly gone
+            # everywhere gets flagged for a Telegram re-fetch.
+            if not cover_status["reachable_live"]:
+                issues.append("cover: missing from disk, R2, AND the live site")
+                needs_cover_recovery = True
+    else:
+        # R2 isn't configured at all — the only thing worth checking is
+        # whether the cover is missing from BOTH disk and the live site,
+        # same bar find_codes_missing_covers() already uses.
+        if not cover_status["on_disk"] and not cover_status["reachable_live"]:
+            issues.append("cover: missing from disk and the live site (R2 not configured)")
+            needs_cover_recovery = True
+
+    # --- Telegram-sourced scalar fields ---
+    if telethon_available:
+        try:
+            result = _telethon_call("verify_fields", api_id=api_id, api_hash=api_hash,
+                                     code=code, channel=channel, timeout=60)
+        except TimeoutError as e:
+            result = {"status": "error", "message": str(e)}
+
+        if result.get("status") == "ok":
+            tg_fields = result["fields"]
+            if tg_fields["code"] != str(front.get("code", "")):
+                issues.append(f"code mismatch: site has {front.get('code')}, "
+                               f"Telegram post says {tg_fields['code']} (not auto-fixed)")
+            for key in ("author", "rating", "language"):
+                site_val = str(front.get(key, "")).strip()
+                tg_val = str(tg_fields.get(key, "")).strip()
+                if site_val != tg_val:
+                    issues.append(f"{key}: site had '{site_val}', Telegram says '{tg_val}'")
+                    changed, err = patch_work_scalar_field(code, key, tg_val)
+                    if changed:
+                        fixed.append(key)
+            site_categories = (front.get("categories") or [""])[0]
+            tg_categories = tg_fields.get("categories", "")
+            if site_categories != tg_categories:
+                issues.append(f"categories: site had '{site_categories}', Telegram says '{tg_categories}'")
+                changed, err = patch_work_scalar_field(code, "categories", tg_categories)
+                if changed:
+                    fixed.append("categories")
+            site_fc = "yes" if front.get("full_color") else "no"
+            if site_fc != tg_fields.get("full_color", "no"):
+                issues.append(f"full_color: site had '{site_fc}', Telegram says '{tg_fields.get('full_color')}'")
+                # full_color/ntr are booleans derived at generate time, not
+                # simple scalars in the YAML — flagged, not auto-fixed, to
+                # avoid a partial rewrite that could desync the body labels.
+            site_ntr = "yes" if front.get("ntr") else "no"
+            if site_ntr != tg_fields.get("cheating", "no"):
+                issues.append(f"ntr/cheating: site had '{site_ntr}', Telegram says '{tg_fields.get('cheating')}'")
+        elif "Could not find" not in result.get("message", ""):
+            issues.append(f"Telegram check failed: {result.get('message', 'unknown error')}")
+
+    # --- nhentai-sourced title/tags ---
+    try:
+        fresh_title, fresh_tags = scrape_site(code)
+        site_tags = front.get("tags") or []
+        if fresh_title and fresh_title != title and not fresh_title.startswith("Work "):
+            issues.append(f"title: site had '{title}', nhentai says '{fresh_title}'")
+        if fresh_tags and set(fresh_tags) != set(site_tags):
+            issues.append(f"tags: site had {len(site_tags)} tag(s), nhentai has {len(fresh_tags)}")
+        if (fresh_title and fresh_title != title and not fresh_title.startswith("Work ")) or \
+           (fresh_tags and set(fresh_tags) != set(site_tags)):
+            changed, err = patch_work_title_and_tags(
+                code, fresh_title if fresh_title and not fresh_title.startswith("Work ") else title,
+                fresh_tags if fresh_tags else site_tags
+            )
+            if changed:
+                fixed.append("title/tags")
+    except Exception as e:
+        issues.append(f"nhentai check failed: {e}")
+
+    if not issues:
+        status = "clean"
+    elif needs_cover_recovery:
+        status = "flagged"  # cover recovery happens in a separate batched pass
+    elif set(fixed) >= {i.split(":")[0].strip() for i in issues if ":" in i and "not auto-fixed" not in i} and \
+         not any("not auto-fixed" in i or "failed" in i for i in issues):
+        status = "fixed"
+    else:
+        status = "flagged"
+
+    return {
+        "code": code, "title": title, "issues": issues, "fixed": fixed, "status": status,
+        "needs_cover_recovery": needs_cover_recovery,
+    }
 
 # ============== STATS TRACKING ==============
 def load_stats():
@@ -3147,6 +3450,26 @@ def save_backlog_state(state):
     with open(BACKLOG_FILE, 'w') as f:
         json.dump(state, f, indent=2)
 
+def load_health_check_state():
+    if os.path.exists(HEALTH_CHECK_FILE):
+        with open(HEALTH_CHECK_FILE, 'r') as f:
+            return json.load(f)
+    return {
+        "status": "idle",  # idle | running
+        "verified_codes": [],   # codes confirmed clean or already fixed — skipped on future runs
+        "last_run_time": None,
+        "last_run_duration_seconds": None,
+        "is_first_run_done": False,  # first run checks all 800+ existing posts; later runs only new ones
+        "report": [],  # newest first: {"time", "code", "title", "issues": [...], "fixed": [...], "status": "clean"|"fixed"|"flagged"|"error"}
+    }
+
+def save_health_check_state(state):
+    # Cap the report log so this file doesn't grow forever across years
+    # of 6-hourly runs — keep the most recent entries only.
+    state["report"] = state.get("report", [])[:HEALTH_CHECK_REPORT_LIMIT]
+    with open(HEALTH_CHECK_FILE, 'w') as f:
+        json.dump(state, f, indent=2)
+
 # Telethon's client is bound to whichever asyncio event loop it was
 # connected on. Flask can (and does) service different requests on
 # different worker threads, each with its own event loop — so a client
@@ -3369,6 +3692,29 @@ def _telethon_worker_loop():
                             "message": f"Could not find the original Telegram post for code {code}"}
                 fields = parse_post_fields(target_message.text or target_message.message or "")
                 return {"status": "ok", "code": code, "rating": fields["rating"]}
+
+            elif action == "verify_fields":
+                # Health check's Telegram-side verification: re-locates a
+                # comic's original post by code (same proven pattern as
+                # fix_rating above) and returns ALL re-parsed fields, not
+                # just rating, so the caller can compare every
+                # Telegram-sourced field (author, categories, full_color,
+                # cheating, language, rating) against what's currently on
+                # disk. Read-only, same as fix_rating — never touches files.
+                c = await ensure_client(job["api_id"], job["api_hash"])
+                code = job["code"]
+                channel = job["channel"]
+                target_message = None
+                async for message in c.iter_messages(channel, search=f"Code: {code}", limit=5):
+                    fields = parse_post_fields(message.text or message.message or "")
+                    if fields and fields["code"] == code:
+                        target_message = message
+                        break
+                if not target_message:
+                    return {"status": "error",
+                            "message": f"Could not find the original Telegram post for code {code}"}
+                fields = parse_post_fields(target_message.text or target_message.message or "")
+                return {"status": "ok", "code": code, "fields": fields}
 
             return {"status": "error", "message": f"Unknown action: {action}"}
 
@@ -3694,6 +4040,218 @@ def stop_autobacklog():
 
 def is_autobacklog_running():
     return bool(_autobacklog_thread and _autobacklog_thread.is_alive())
+
+
+# ============== HEALTH CHECK (runs every 6 hours) ==============
+# First run (is_first_run_done == False) checks every comic on the site,
+# since verified_codes starts empty — this is the intended one-time full
+# backfill across all 800+ existing posts. Every run after that only
+# checks codes not already in verified_codes, i.e. comics posted since
+# the last successful check — a clean or fixed comic is added to that
+# list and never re-checked again, so steady-state runs stay fast no
+# matter how large the site grows.
+_health_check_thread = None
+_health_check_lock = threading.Lock()
+_health_check_stop = threading.Event()
+
+def _run_health_check_once():
+    state = load_health_check_state()
+    state["status"] = "running"
+    save_health_check_state(state)
+    start_time = time.time()
+
+    cfg = load_config()
+    api_id = cfg.get("telegram_api_id", "")
+    api_hash = cfg.get("telegram_api_hash", "")
+    channel = cfg.get("channel_username", "@ArcComic")
+    telethon_available = bool(api_id and api_hash) and is_telethon_authorized(api_id, api_hash)
+    if not telethon_available:
+        print("🩺 Health check: Telethon not logged in — checking title/tags "
+              "(nhentai) and disk/live cover status only this run, skipping "
+              "author/rating/language/categories checks and cover re-fetch")
+
+    # R2 membership is checked ONCE per run via list_covers() (one API
+    # call) rather than once per comic — this IS the "does Cloudflare
+    # actually have this cover" check you asked for, done for real
+    # against the bucket instead of assumed from the .md file.
+    r2_configured = r2_upload.is_configured(cfg)
+    r2_codes = r2_upload.list_covers(cfg) if r2_configured else set()
+    if r2_configured:
+        print(f"🩺 Health check: R2 configured, {len(r2_codes)} cover(s) confirmed present there")
+    else:
+        print("🩺 Health check: R2 not configured — skipping R2 upload checks, "
+              "falling back to disk/live-site-only cover checks")
+
+    verified = set(state.get("verified_codes", []))
+    all_codes = sorted(
+        fname[:-3] for fname in os.listdir(WORKS_DIR) if fname.endswith(".md")
+    ) if os.path.isdir(WORKS_DIR) else []
+    to_check = [c for c in all_codes if c not in verified]
+
+    print(f"🩺 Health check starting: {len(to_check)} comic(s) to check "
+          f"({'first full run' if not state.get('is_first_run_done') else 'new posts only'})")
+
+    fixed_paths = []
+    new_report_entries = []
+    cover_recovery_needed = []
+    for code in to_check:
+        if _health_check_stop.is_set():
+            break
+        try:
+            entry = check_and_fix_one_work(code, telethon_available, api_id, api_hash, channel,
+                                            r2_configured, r2_codes)
+        except Exception as e:
+            entry = {"code": code, "title": None, "issues": [f"health check crashed: {e}"],
+                      "fixed": [], "status": "error", "needs_cover_recovery": False}
+        entry["time"] = datetime.now(timezone.utc).isoformat()
+
+        if entry.pop("needs_cover_recovery", False) and telethon_available:
+            cover_recovery_needed.append(code)
+            # Leave this code off the skip list for now — it'll be
+            # re-marked clean/flagged after the batched recovery pass
+            # below actually attempts the fetch, so its report entry
+            # reflects the real outcome, not a guess made before trying.
+        elif entry["status"] in ("clean", "fixed"):
+            verified.add(code)
+        new_report_entries.append(entry)
+
+        if entry["fixed"]:
+            fixed_paths.append(os.path.join("_works", f"{code}.md"))
+
+        # Same nhentai-friendly pacing used everywhere else in this
+        # codebase (process_backlog_batch, run_r2_migration) — every
+        # check_and_fix_one_work() call above does a live scrape_site()
+        # hit against nhentai for title/tags, so back-to-back with no
+        # pause across hundreds of comics risks a rate-limit or IP block.
+        time.sleep(2)
+
+        if len(new_report_entries) % 25 == 0:
+            print(f"🩺 Health check progress: {len(new_report_entries)}/{len(to_check)} checked")
+
+    # Batched cover recovery pass: re-fetch from the original Telegram
+    # post for every comic whose cover is gone from disk, R2, AND the
+    # live site all at once. Same chunked/paced approach as the existing
+    # manual 'Recover Covers' dashboard tool (run_cover_recovery), reused
+    # here directly via the same "recover_covers" Telethon action rather
+    # than a second implementation of the same download logic.
+    if cover_recovery_needed and not _health_check_stop.is_set():
+        print(f"🩺 Health check: attempting Telegram re-fetch for "
+              f"{len(cover_recovery_needed)} comic(s) missing everywhere")
+        all_recovered, all_still_missing = [], []
+        for i in range(0, len(cover_recovery_needed), SCAN_BATCH_SIZE):
+            chunk = cover_recovery_needed[i:i + SCAN_BATCH_SIZE]
+            chunk_timeout = max(180, len(chunk) * 8)
+            try:
+                result = _telethon_call("recover_covers", timeout=chunk_timeout,
+                                         api_id=api_id, api_hash=api_hash,
+                                         channel=channel, codes=chunk)
+            except Exception as e:
+                print(f"❌ Health check cover recovery chunk failed: {e}")
+                all_still_missing.extend(chunk)
+                continue
+            if result.get("status") != "ok":
+                all_still_missing.extend(chunk)
+                continue
+            all_recovered.extend(result.get("recovered", []))
+            all_still_missing.extend(result.get("still_missing", []))
+
+        # Recovered covers now sit on disk — upload straight to R2 (if
+        # configured) so they don't linger as a local-only copy that a
+        # later run would just flag as "on disk but missing from R2"
+        # all over again, then mark those comics verified either way.
+        for code in all_recovered:
+            if r2_configured:
+                local_cover = os.path.join(COVERS_DIR, f"{code}.jpg")
+                r2_url = r2_upload.upload_cover(cfg, local_cover, code)
+                if r2_url:
+                    md_path = os.path.join(WORKS_DIR, f"{code}.md")
+                    with open(md_path, "r", encoding="utf-8") as f:
+                        content = f.read()
+                    new_content = content.replace(f"/covers/{code}.jpg", r2_url)
+                    if new_content != content:
+                        with open(md_path, "w", encoding="utf-8") as f:
+                            f.write(new_content)
+                    try:
+                        os.remove(local_cover)
+                    except Exception:
+                        pass
+                    fixed_paths.append(os.path.join("_works", f"{code}.md"))
+                else:
+                    fixed_paths.append(os.path.join("covers", f"{code}.jpg"))
+            else:
+                fixed_paths.append(os.path.join("covers", f"{code}.jpg"))
+            verified.add(code)
+            for e in new_report_entries:
+                if e["code"] == code:
+                    e["fixed"].append("cover (re-fetched from Telegram)")
+                    e["status"] = "fixed"
+        for code in all_still_missing:
+            for e in new_report_entries:
+                if e["code"] == code:
+                    e["issues"].append("cover recovery attempted but failed — will retry next run")
+                    e["status"] = "flagged"
+
+    # Regenerate tag/artist pages once at the end if any title/tags fixes
+    # landed, then one single batched push for everything this run
+    # touched — matches the batching discipline used everywhere else in
+    # this codebase (see PENDING_TIMEOUT_SECONDS/_flush_pending_queue_sync).
+    if fixed_paths:
+        if regenerate_tag_pages():
+            fixed_paths.append(os.path.join("_tags", "*"))
+        if regenerate_artist_pages():
+            fixed_paths.append(os.path.join("_artists", "*"))
+        pushed, push_err = git_push(
+            cfg, "health-check", f"Health check: auto-fix {len(fixed_paths)} file(s)",
+            batch_paths=[p for p in fixed_paths if "*" not in p] or None
+        )
+        if not pushed:
+            print(f"⚠️ Health check: fixes saved locally but push failed: {push_err}")
+
+    state = load_health_check_state()
+    state["status"] = "idle"
+    state["verified_codes"] = sorted(verified)
+    state["last_run_time"] = datetime.now(timezone.utc).isoformat()
+    state["last_run_duration_seconds"] = round(time.time() - start_time, 1)
+    state["is_first_run_done"] = True
+    state["report"] = new_report_entries + state.get("report", [])
+    save_health_check_state(state)
+
+    clean_ct = sum(1 for e in new_report_entries if e["status"] == "clean")
+    fixed_ct = sum(1 for e in new_report_entries if e["status"] == "fixed")
+    flagged_ct = sum(1 for e in new_report_entries if e["status"] in ("flagged", "error"))
+    print(f"🩺 Health check finished: {clean_ct} clean, {fixed_ct} fixed, "
+          f"{flagged_ct} flagged/error, {len(new_report_entries)} total checked")
+
+def _health_check_loop():
+    # Run once immediately on startup (covers the "just deployed, do the
+    # full 800+ backfill now" case), then every HEALTH_CHECK_INTERVAL_SECONDS.
+    while not _health_check_stop.is_set():
+        try:
+            _run_health_check_once()
+        except Exception as e:
+            print(f"⚠️ Health check run crashed: {e}")
+            state = load_health_check_state()
+            state["status"] = "idle"
+            save_health_check_state(state)
+        _health_check_stop.wait(HEALTH_CHECK_INTERVAL_SECONDS)
+
+def start_health_check_loop():
+    global _health_check_thread
+    with _health_check_lock:
+        if _health_check_thread and _health_check_thread.is_alive():
+            return False
+        _health_check_stop.clear()
+        _health_check_thread = threading.Thread(target=_health_check_loop, daemon=True)
+        _health_check_thread.start()
+        return True
+
+def trigger_health_check_now():
+    """Manual 'Run Now' from the dashboard — runs one pass immediately in
+    its own thread without disturbing the regular 6-hour schedule."""
+    if load_health_check_state().get("status") == "running":
+        return False
+    threading.Thread(target=_run_health_check_once, daemon=True).start()
+    return True
 
 
 async def handle_channel_post(update: Update, context: ContextTypes.DEFAULT_TYPE):
@@ -4137,6 +4695,34 @@ DASHBOARD_HTML = """
         </div>
 
         <div class="card">
+            <h2>🩺 Health Check</h2>
+            <p style="color:#8888a0;font-size:13px;margin-bottom:14px;">
+                Runs automatically every 6 hours. Checks each comic's rating, author, categories,
+                language, and NTR/full-color flags against the original Telegram post, its
+                title/tags against nhentai, and its cover across disk, Cloudflare R2, and the live
+                site. Auto-fixes what it safely can (including uploading a cover to R2 if it's only
+                on disk, or re-fetching from Telegram if it's gone everywhere) and pushes once;
+                anything it can't safely auto-fix (like a code mismatch) is flagged here for you to
+                check manually. First run checks every comic on the site — later runs only check
+                newly posted ones.
+            </p>
+            <div id="healthCheckStatusBox" style="font-size:13px;color:#8888a0;margin-bottom:14px;">
+                Status: <strong id="hcStatusText">idle</strong><br>
+                Cloudflare R2: <strong id="hcR2Status">checking...</strong><br>
+                Last run: <strong id="hcLastRun">never</strong><br>
+                Checked so far: <strong id="hcVerifiedCount">0</strong> / <strong id="hcTotalCount">0</strong> comics<br>
+                Last 50 checked: <strong id="hcCleanCount" style="color:#22c55e;">0</strong> clean,
+                <strong id="hcFixedCount" style="color:#f59e0b;">0</strong> auto-fixed,
+                <strong id="hcFlaggedCount" style="color:#ef4444;">0</strong> flagged
+            </div>
+            <button id="hcRunNowBtn" style="width:100%;background:#2a2a3a;color:#f59e0b;border:1px solid #f59e0b;padding:12px;border-radius:10px;font-weight:700;font-size:13px;cursor:pointer;">
+                🔍 Run Health Check Now
+            </button>
+            <div class="status" id="hcActionStatus"></div>
+            <div id="hcReportList" style="margin-top:14px;max-height:400px;overflow-y:auto;"></div>
+        </div>
+
+        <div class="card">
             <h2>🏷️ Homepage Tagline</h2>
             <p style="color:#8888a0;font-size:13px;margin-bottom:10px;">
                 Shown under the logo on the homepage. Can be used for a paid sponsor shoutout.
@@ -4462,6 +5048,107 @@ DASHBOARD_HTML = """
         refreshBacklogStatus();
         setInterval(refreshBacklogStatus, 8000);
 
+        function renderHealthCheckReport(report) {
+            const listEl = document.getElementById('hcReportList');
+            if (!listEl) return;
+            if (!report || report.length === 0) {
+                listEl.innerHTML = '<p style="color:#8888a0;font-size:12px;">No checks run yet.</p>';
+                return;
+            }
+            const statusColors = { clean: '#22c55e', fixed: '#f59e0b', flagged: '#ef4444', error: '#ef4444' };
+            const statusLabels = { clean: '✅ clean', fixed: '🔧 auto-fixed', flagged: '⚠️ flagged', error: '❌ error' };
+            listEl.innerHTML = report.map(function(entry) {
+                const color = statusColors[entry.status] || '#8888a0';
+                const label = statusLabels[entry.status] || entry.status;
+                const timeStr = entry.time ? new Date(entry.time).toLocaleString() : '';
+                const issuesHtml = (entry.issues && entry.issues.length)
+                    ? '<ul style="margin:6px 0 0 18px;padding:0;color:#c8c8d0;">' +
+                      entry.issues.map(function(i) { return '<li>' + escapeHtml(i) + '</li>'; }).join('') +
+                      '</ul>'
+                    : '';
+                const fixedHtml = (entry.fixed && entry.fixed.length)
+                    ? '<div style="color:#22c55e;font-size:11px;margin-top:4px;">Fixed: ' +
+                      escapeHtml(entry.fixed.join(', ')) + '</div>'
+                    : '';
+                return '<div style="padding:10px 0;border-bottom:1px solid #2a2a3a;font-size:12px;">' +
+                    '<div style="display:flex;justify-content:space-between;">' +
+                    '<strong style="color:#e2e2e8;">#' + escapeHtml(entry.code) +
+                    (entry.title ? ' — ' + escapeHtml(entry.title) : '') + '</strong>' +
+                    '<span style="color:' + color + ';white-space:nowrap;margin-left:8px;">' + label + '</span>' +
+                    '</div>' +
+                    '<div style="color:#666677;font-size:11px;margin-top:2px;">' + escapeHtml(timeStr) + '</div>' +
+                    issuesHtml + fixedHtml +
+                    '</div>';
+            }).join('');
+        }
+
+        async function refreshHealthCheckStatus() {
+            try {
+                const res = await fetch('/api/health_check/status');
+                const s = await res.json();
+                const statusText = document.getElementById('hcStatusText');
+                if (statusText) statusText.textContent = s.status;
+                const r2El = document.getElementById('hcR2Status');
+                if (r2El) {
+                    r2El.textContent = s.r2_configured ? '✅ configured' : '⚠️ not configured (covers stay local/GitHub only)';
+                    r2El.style.color = s.r2_configured ? '#22c55e' : '#f59e0b';
+                }
+                const lastRunEl = document.getElementById('hcLastRun');
+                if (lastRunEl) {
+                    lastRunEl.textContent = s.last_run_time
+                        ? new Date(s.last_run_time).toLocaleString() +
+                          (s.last_run_duration_seconds ? ' (' + s.last_run_duration_seconds + 's)' : '')
+                        : 'never';
+                }
+                const verifiedEl = document.getElementById('hcVerifiedCount');
+                if (verifiedEl) verifiedEl.textContent = s.verified_count;
+                const totalEl = document.getElementById('hcTotalCount');
+                if (totalEl) totalEl.textContent = s.total_works;
+                const cleanEl = document.getElementById('hcCleanCount');
+                if (cleanEl) cleanEl.textContent = s.recent_clean;
+                const fixedEl = document.getElementById('hcFixedCount');
+                if (fixedEl) fixedEl.textContent = s.recent_fixed;
+                const flaggedEl = document.getElementById('hcFlaggedCount');
+                if (flaggedEl) flaggedEl.textContent = s.recent_flagged;
+                renderHealthCheckReport(s.report);
+
+                const runBtn = document.getElementById('hcRunNowBtn');
+                if (runBtn && !runBtn.dataset.busy) {
+                    if (s.status === 'running') {
+                        runBtn.textContent = '🔄 Running...';
+                        runBtn.disabled = true;
+                    } else {
+                        runBtn.textContent = '🔍 Run Health Check Now';
+                        runBtn.disabled = false;
+                    }
+                }
+            } catch (e) { /* dashboard offline */ }
+        }
+        refreshHealthCheckStatus();
+        setInterval(refreshHealthCheckStatus, 8000);
+
+        const hcRunNowBtn = document.getElementById('hcRunNowBtn');
+        if (hcRunNowBtn) {
+            hcRunNowBtn.addEventListener('click', async function() {
+                const statusEl = document.getElementById('hcActionStatus');
+                hcRunNowBtn.dataset.busy = '1';
+                hcRunNowBtn.disabled = true;
+                hcRunNowBtn.textContent = '🔄 Starting...';
+                try {
+                    const res = await fetch('/api/health_check/run_now', { method: 'POST' });
+                    const data = await res.json();
+                    if (statusEl) {
+                        statusEl.textContent = data.message;
+                        statusEl.style.color = data.status === 'ok' ? '#22c55e' : '#f59e0b';
+                    }
+                } catch (e) {
+                    if (statusEl) { statusEl.textContent = 'Request failed'; statusEl.style.color = '#ef4444'; }
+                }
+                delete hcRunNowBtn.dataset.busy;
+                refreshHealthCheckStatus();
+            });
+        }
+
         const startScanBtn = document.getElementById('startScanBtn');
         if (startScanBtn) {
             startScanBtn.addEventListener('click', async () => {
@@ -4535,7 +5222,7 @@ DASHBOARD_HTML = """
         // ---- Homepage tagline ----
         function escapeHtml(s) {
             const d = document.createElement('div');
-            d.textContent = s;
+            d.textContent = s == null ? '' : s;
             return d.innerHTML;
         }
         function renderTaglinePreview(raw) {
@@ -5254,6 +5941,32 @@ def api_backlog_auto_process_stop():
     stop_autobacklog()
     return jsonify({"status": "ok", "message": "Auto-processing will stop after the current batch"})
 
+@app.route("/api/health_check/status")
+def api_health_check_status():
+    state = load_health_check_state()
+    report = state.get("report", [])
+    cfg = load_config()
+    return jsonify({
+        "status": state.get("status", "idle"),
+        "last_run_time": state.get("last_run_time"),
+        "last_run_duration_seconds": state.get("last_run_duration_seconds"),
+        "is_first_run_done": state.get("is_first_run_done", False),
+        "verified_count": len(state.get("verified_codes", [])),
+        "total_works": len([f for f in os.listdir(WORKS_DIR) if f.endswith(".md")])
+                       if os.path.isdir(WORKS_DIR) else 0,
+        "recent_clean": sum(1 for e in report[:50] if e["status"] == "clean"),
+        "recent_fixed": sum(1 for e in report[:50] if e["status"] == "fixed"),
+        "recent_flagged": sum(1 for e in report[:50] if e["status"] in ("flagged", "error")),
+        "r2_configured": r2_upload.is_configured(cfg),
+        "report": report[:50],
+    })
+
+@app.route("/api/health_check/run_now", methods=["POST"])
+def api_health_check_run_now():
+    started = trigger_health_check_now()
+    return jsonify({"status": "ok" if started else "already_running",
+                     "message": "Health check started" if started else "A health check is already running"})
+
 # ============== MAIN ==============
 BOT_HEALTH = {"status": "starting", "last_update": None, "restart_count": 0}
 
@@ -5382,6 +6095,12 @@ if __name__ == "__main__":
             git_push(cfg, "config", "Auto-fix site templates and homepage")
     except Exception as e:
         print(f"⚠️ Jekyll auto-fix skipped: {e}")
+
+    # Health check runs on its own schedule regardless of --bot-only,
+    # since it's Flask/dashboard-independent bookkeeping (reads/patches
+    # files and pushes to git directly) — same reasoning as why the
+    # Telethon worker thread is separate from the Flask process.
+    start_health_check_loop()
 
     if len(sys.argv) > 1 and sys.argv[1] == "--bot-only":
         run_bot()

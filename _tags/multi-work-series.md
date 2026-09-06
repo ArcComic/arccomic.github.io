@@ -5,7 +5,7 @@ work_count: 209
 works:
   - title: Oppai na Natsuyasumi 2 | The Summer Break of Boobs 2
     author: higashino-mikan
-    cover: /covers/292454.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/292454.jpg
     rating: 4.9
     date: '2026-03-04'
     code: 292454
@@ -26,7 +26,7 @@ works:
     url: /works/311755/
   - title: Tsumareta Ikoku no Hana II
     author: darabuchi
-    cover: /covers/315693.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/315693.jpg
     rating: 4.1
     date: '2026-03-04'
     code: 315693
@@ -41,7 +41,7 @@ works:
   - title: Adlescence 06 Nozomi [English] =NSS=
     author: aoten
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/349379.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-06'
     code: 349379
     url: /works/349379/
@@ -61,14 +61,14 @@ works:
     url: /works/357965/
   - title: Kagesawa Mura no Akai Kagi tada <hottan>
     author: chiba-shuusaku
-    cover: /covers/359864.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/359864.jpg
     rating: 4.7
     date: '2026-04-17'
     code: 359864
     url: /works/359864/
   - title: Kurata Akiko no Kokuhaku 2 - Confession of Akiko kurata Epsode 2
     author: ootsuka-mahiro
-    cover: /covers/369382.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/369382.jpg
     rating: 5.0
     date: '2026-04-13'
     code: 369382
@@ -106,7 +106,7 @@ works:
     url: /works/419017/
   - title: Mesu Kagura -Fate Hen 1-
     author: ishigaki-takashi
-    cover: /covers/431558.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/431558.jpg
     rating: 4.4
     date: '2026-04-21'
     code: 431558
@@ -114,7 +114,7 @@ works:
   - title: Utakata 2 ~Uraaka DoM Haken OL Onaho Choukyou~ | An Office Lady's Behind
       The Scenes Masochistic Onahole Training 2
     author: yuzuri-ai
-    cover: /covers/432301.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/432301.jpg
     rating: 4.1
     date: '2026-04-13'
     code: 432301
@@ -143,14 +143,14 @@ works:
     url: /works/448503/
   - title: 'Portio Switch CASE: Varicata Portio | Cervix Switch CASE - Extra-hard Cervix'
     author: bang-you-didori
-    cover: /covers/452141.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/452141.jpg
     rating: 4.4
     date: '2026-03-07'
     code: 452141
     url: /works/452141/
   - title: Jimihen!! ~Jimiko o Kaechau Junisei Kouyuu~
     author: iburo
-    cover: /covers/460264.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/460264.jpg
     rating: 4.2
     date: '2026-03-09'
     code: 460264

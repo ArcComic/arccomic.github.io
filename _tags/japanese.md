@@ -5,42 +5,42 @@ work_count: 38
 works:
   - title: Hitozuma Hyakka
     author: hase-tsubura
-    cover: /covers/190410.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/190410.jpg
     rating: 4.1
     date: '2026-04-19'
     code: 190410
     url: /works/190410/
   - title: Tsuma wo Yariman ni Shimasu Shakkin no Tame desu kara.
     author: pietoro
-    cover: /covers/293478.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/293478.jpg
     rating: 4.0
     date: '2026-04-12'
     code: 293478
     url: /works/293478/
   - title: Ayamachi no Rensa
     author: pororivista
-    cover: /covers/351868.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/351868.jpg
     rating: 4.2
     date: '2026-04-13'
     code: 351868
     url: /works/351868/
   - title: Kagesawa Mura no Akai Kagi tada <hottan>
     author: chiba-shuusaku
-    cover: /covers/359864.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/359864.jpg
     rating: 4.7
     date: '2026-04-17'
     code: 359864
     url: /works/359864/
   - title: Toshishita Chin Kui Obasan
     author: maccha-neji
-    cover: /covers/387637.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/387637.jpg
     rating: 4.0
     date: '2026-04-19'
     code: 387637
     url: /works/387637/
   - title: Jimihen!! ~Jimiko o Kaechau Junisei Kouyuu~
     author: iburo
-    cover: /covers/460264.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/460264.jpg
     rating: 4.2
     date: '2026-03-09'
     code: 460264

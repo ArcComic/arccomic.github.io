@@ -13,21 +13,21 @@ works:
   - title: Natsu dake Koibito - Summer only Lover [English] =Forbidden Fetish + Ser
       Maggot=
     author: yoshiura-kazuya
-    cover: /covers/237456.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/237456.jpg
     rating: 4.9
     date: '2026-03-11'
     code: 237456
     url: /works/237456/
   - title: Uragiri no Ai wa Mitsu no Aji | Treacherous Love Tastes Like Honey
     author: cuzukago
-    cover: /covers/244812.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/244812.jpg
     rating: 4.6
     date: '2026-04-19'
     code: 244812
     url: /works/244812/
   - title: Hito o Dame ni Suru Choi Busu ~Kao 40-ten, Karada 120-ten no Kanojo~
     author: special-g
-    cover: /covers/414892.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/414892.jpg
     rating: 4.0
     date: '2026-03-05'
     code: 414892

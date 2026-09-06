@@ -5,14 +5,14 @@ work_count: 41
 works:
   - title: Overwrite
     author: ojo
-    cover: /covers/240721.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/240721.jpg
     rating: 4.9
     date: '2026-04-12'
     code: 240721
     url: /works/240721/
   - title: Tsuma wo Yariman ni Shimasu Shakkin no Tame desu kara.
     author: pietoro
-    cover: /covers/293478.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/293478.jpg
     rating: 4.0
     date: '2026-04-12'
     code: 293478
@@ -26,21 +26,21 @@ works:
     url: /works/300943/
   - title: Tsumareta Ikoku no Hana II
     author: darabuchi
-    cover: /covers/315693.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/315693.jpg
     rating: 4.1
     date: '2026-03-04'
     code: 315693
     url: /works/315693/
   - title: Hikage | Shade
     author: syuuen
-    cover: /covers/429669.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/429669.jpg
     rating: 4.8
     date: '2026-02-28'
     code: 429669
     url: /works/429669/
   - title: Yofukashi no Tsuma ~Murakami Kozue~ | Late-Night Wife ~Murakami Kozue~
     author: oobayashi-mori
-    cover: /covers/453749.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/453749.jpg
     rating: 4.1
     date: '2026-04-19'
     code: 453749

@@ -5,14 +5,14 @@ work_count: 3
 works:
   - title: Ayamachi no Rensa
     author: pororivista
-    cover: /covers/351868.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/351868.jpg
     rating: 4.2
     date: '2026-04-13'
     code: 351868
     url: /works/351868/
   - title: Provoking Men 1-8
     author: pororivista
-    cover: /covers/458903.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/458903.jpg
     rating: 4.5
     date: '2026-04-13'
     code: 458903

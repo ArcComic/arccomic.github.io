@@ -14,21 +14,21 @@ works:
       Sounyuu~ | The Loli In Glasses' Training Lesson!! ~Force Fucking a Timid Glasses
       Wearing Loli With My Big Cock~ Ch. 1-5
     author: sakamata-nerimono
-    cover: /covers/358168.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/358168.jpg
     rating: 4.7
     date: '2026-07-13'
     code: 358168
     url: /works/358168/
   - title: Rako Slip!
     author: bujidearu
-    cover: /covers/393984.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/393984.jpg
     rating: 4.4
     date: '2026-02-26'
     code: 393984
     url: /works/393984/
   - title: Imouto no Nukumori | A Little Sister's warmth
     author: kinomoto-anzu
-    cover: /covers/407959.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/407959.jpg
     rating: 4.5
     date: '2026-07-10'
     code: 407959

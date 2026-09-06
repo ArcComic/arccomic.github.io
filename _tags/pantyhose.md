@@ -5,14 +5,14 @@ work_count: 39
 works:
   - title: Life with Married Women Just Like a Manga 2 - Ch. 1-5
     author: hidemaru
-    cover: /covers/116138.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/116138.jpg
     rating: 4.8
     date: '2026-07-08'
     code: 116138
     url: /works/116138/
   - title: Hitozuma Hyakka
     author: hase-tsubura
-    cover: /covers/190410.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/190410.jpg
     rating: 4.1
     date: '2026-04-19'
     code: 190410
@@ -20,27 +20,27 @@ works:
   - title: Okatai Onna to Iwanaide | Don't call me an Old Maid!
     author: herio
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/276396.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-06'
     code: 276396
     url: /works/276396/
   - title: Tsuma wo Yariman ni Shimasu Shakkin no Tame desu kara.
     author: pietoro
-    cover: /covers/293478.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/293478.jpg
     rating: 4.0
     date: '2026-04-12'
     code: 293478
     url: /works/293478/
   - title: Majimeni Yarimasu (Seitokaichou) Ch. 1-3
     author: ikumo-taisuke
-    cover: /covers/346416.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/346416.jpg
     rating: 4.4
     date: '2026-07-08'
     code: 346416
     url: /works/346416/
   - title: The Last Flight
     author: mr-kurz
-    cover: /covers/408822.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/408822.jpg
     rating: 4.6
     date: '2026-03-09'
     code: 408822
@@ -48,14 +48,14 @@ works:
   - title: Kaisha no Iki Okure BBA Haramaseta | [Tragic News] I Knocked Up The Old Maid
       From My Office
     author: special-g
-    cover: /covers/409929.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/409929.jpg
     rating: 4.4
     date: '2026-03-05'
     code: 409929
     url: /works/409929/
   - title: Hito o Dame ni Suru Choi Busu ~Kao 40-ten, Karada 120-ten no Kanojo~
     author: special-g
-    cover: /covers/414892.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/414892.jpg
     rating: 4.0
     date: '2026-03-05'
     code: 414892
@@ -69,14 +69,14 @@ works:
     url: /works/441339/
   - title: Ladies Night
     author: mr-kurz
-    cover: /covers/446018.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/446018.jpg
     rating: 4.9
     date: '2026-03-07'
     code: 446018
     url: /works/446018/
   - title: Yofukashi no Tsuma ~Murakami Kozue~ | Late-Night Wife ~Murakami Kozue~
     author: oobayashi-mori
-    cover: /covers/453749.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/453749.jpg
     rating: 4.1
     date: '2026-04-19'
     code: 453749

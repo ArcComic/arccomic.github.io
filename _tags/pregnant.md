@@ -5,7 +5,7 @@ work_count: 24
 works:
   - title: Uragiri no Ai wa Mitsu no Aji | Treacherous Love Tastes Like Honey
     author: cuzukago
-    cover: /covers/244812.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/244812.jpg
     rating: 4.6
     date: '2026-04-19'
     code: 244812
@@ -13,14 +13,14 @@ works:
   - title: Netorase ~Tsuma no Ichiban Kirei na Hi~ | Netorase - My wife's most beautiful
       day
     author: sakagami-umi
-    cover: /covers/398854.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/398854.jpg
     rating: 4.6
     date: '2026-04-19'
     code: 398854
     url: /works/398854/
   - title: Yofukashi no Tsuma ~Murakami Kozue~ | Late-Night Wife ~Murakami Kozue~
     author: oobayashi-mori
-    cover: /covers/453749.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/453749.jpg
     rating: 4.1
     date: '2026-04-19'
     code: 453749

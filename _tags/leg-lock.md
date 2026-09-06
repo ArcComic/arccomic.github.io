@@ -12,7 +12,7 @@ works:
     url: /works/139537/
   - title: Hanamizuki
     author: orikuchi
-    cover: /covers/162047.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/162047.jpg
     rating: 4.1
     date: '2026-04-17'
     code: 162047
@@ -45,7 +45,7 @@ works:
       |  Let’s Talk About the Story of A Miracle that Happened When I Stole the Underwear
       of the Lady Next Door
     author: special-g
-    cover: /covers/443909.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/443909.jpg
     rating: 4.3
     date: '2026-03-05'
     code: 443909

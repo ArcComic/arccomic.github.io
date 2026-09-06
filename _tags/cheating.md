@@ -5,21 +5,21 @@ work_count: 202
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
-    cover: /covers/103680.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/103680.jpg
     rating: 4.6
     date: '2026-04-17'
     code: 103680
     url: /works/103680/
   - title: Kaisha de Iroiro | Gettin' Busy at the Office
     author: hara-shigeyuki
-    cover: /covers/110835.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/110835.jpg
     rating: 4.7
     date: '2026-04-19'
     code: 110835
     url: /works/110835/
   - title: Life with Married Women Just Like a Manga 2 - Ch. 1-5
     author: hidemaru
-    cover: /covers/116138.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/116138.jpg
     rating: 4.8
     date: '2026-07-08'
     code: 116138
@@ -33,28 +33,28 @@ works:
     url: /works/142561/
   - title: Hustle! Danchizuma Ch. 1-18 END
     author: hidemaru
-    cover: /covers/161690.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/161690.jpg
     rating: 4.9
     date: '2026-04-17'
     code: 161690
     url: /works/161690/
   - title: Kindan no Hatemitsu
     author: ryuuta
-    cover: /covers/163039.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/163039.jpg
     rating: 4.1
     date: '2026-04-19'
     code: 163039
     url: /works/163039/
   - title: Hitozuma Hyakka
     author: hase-tsubura
-    cover: /covers/190410.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/190410.jpg
     rating: 4.1
     date: '2026-04-19'
     code: 190410
     url: /works/190410/
   - title: Kizashi
     author: yoshiura-kazuya
-    cover: /covers/226386.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/226386.jpg
     rating: 4.7
     date: '2026-03-09'
     code: 226386
@@ -62,14 +62,14 @@ works:
   - title: Natsu dake Koibito - Summer only Lover [English] =Forbidden Fetish + Ser
       Maggot=
     author: yoshiura-kazuya
-    cover: /covers/237456.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/237456.jpg
     rating: 4.9
     date: '2026-03-11'
     code: 237456
     url: /works/237456/
   - title: Overwrite
     author: ojo
-    cover: /covers/240721.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/240721.jpg
     rating: 4.9
     date: '2026-04-12'
     code: 240721
@@ -77,7 +77,7 @@ works:
   - title: Tsuma no Imouto no Danna ga Ie ni Kiteiruyoudesu | My Sister-In-Law's Husband
       is Over
     author: arakure
-    cover: /covers/265933.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/265933.jpg
     rating: 4.0
     date: '2026-02-28'
     code: 265933
@@ -91,21 +91,21 @@ works:
     url: /works/288292/
   - title: Oppai na Natsuyasumi 2 | The Summer Break of Boobs 2
     author: higashino-mikan
-    cover: /covers/292454.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/292454.jpg
     rating: 4.9
     date: '2026-03-04'
     code: 292454
     url: /works/292454/
   - title: Tsuma wo Yariman ni Shimasu Shakkin no Tame desu kara.
     author: pietoro
-    cover: /covers/293478.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/293478.jpg
     rating: 4.0
     date: '2026-04-12'
     code: 293478
     url: /works/293478/
   - title: Boku no Kazoku o Sarashimasu Ch. 3
     author: tanaka-aji
-    cover: /covers/297068.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/297068.jpg
     rating: 4.2
     date: '2026-04-16'
     code: 297068
@@ -126,21 +126,21 @@ works:
     url: /works/311755/
   - title: CHOCO x LOVE
     author: highlow
-    cover: /covers/317673.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/317673.jpg
     rating: 4.4
     date: '2026-07-09'
     code: 317673
     url: /works/317673/
   - title: Kono Furin wa Otto no Tame "Anata, Yurushite…." To, Netorareru Tsuma | 這場外遇是為了老公「親愛的，原諒我…」這樣說著，為老公戴綠帽的妻子
     author: korosuke
-    cover: /covers/328805.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/328805.jpg
     rating: 5.0
     date: '2026-04-12'
     code: 328805
     url: /works/328805/
   - title: Tonight, my wife is being exposed and...
     author: mon-mon
-    cover: /covers/329551.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/329551.jpg
     rating: 4.8
     date: '2026-04-23'
     code: 329551
@@ -169,21 +169,21 @@ works:
     url: /works/342639/
   - title: Majimeni Yarimasu (Seitokaichou) Ch. 1-3
     author: ikumo-taisuke
-    cover: /covers/346416.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/346416.jpg
     rating: 4.4
     date: '2026-07-08'
     code: 346416
     url: /works/346416/
   - title: Hito no Tsuma | Someone's Wife
     author: yumi-ichirou
-    cover: /covers/349247.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/349247.jpg
     rating: 4.5
     date: '2026-04-17'
     code: 349247
     url: /works/349247/
   - title: Ayamachi no Rensa
     author: pororivista
-    cover: /covers/351868.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/351868.jpg
     rating: 4.2
     date: '2026-04-13'
     code: 351868
@@ -198,14 +198,14 @@ works:
   - title: Iro no Ie -Hitozuma ga Sex Suru Hon II- | Erotic House - Married Women Sex
       Book 2
     author: miho-rei
-    cover: /covers/361032.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/361032.jpg
     rating: 4.5
     date: '2026-03-09'
     code: 361032
     url: /works/361032/
   - title: Kurata Akiko no Kokuhaku 2 - Confession of Akiko kurata Epsode 2
     author: ootsuka-mahiro
-    cover: /covers/369382.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/369382.jpg
     rating: 5.0
     date: '2026-04-13'
     code: 369382
@@ -226,7 +226,7 @@ works:
     url: /works/392617/
   - title: Yurikago
     author: neko-samurai
-    cover: /covers/398305.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/398305.jpg
     rating: 5.0
     date: '2026-07-10'
     code: 398305
@@ -234,7 +234,7 @@ works:
   - title: Kaisha no Iki Okure BBA Haramaseta | [Tragic News] I Knocked Up The Old Maid
       From My Office
     author: special-g
-    cover: /covers/409929.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/409929.jpg
     rating: 4.4
     date: '2026-03-05'
     code: 409929
@@ -249,14 +249,14 @@ works:
     url: /works/414206/
   - title: Nigiyaka na Rinjin | Lively Neighbors
     author: syuuen
-    cover: /covers/415060.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/415060.jpg
     rating: 4.1
     date: '2026-02-28'
     code: 415060
     url: /works/415060/
   - title: Seisozuma Netorase...
     author: maccha-neji
-    cover: /covers/415906.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/415906.jpg
     rating: 4.3
     date: '2026-04-12'
     code: 415906
@@ -271,7 +271,7 @@ works:
     url: /works/416883/
   - title: Hikage | Shade
     author: syuuen
-    cover: /covers/429669.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/429669.jpg
     rating: 4.8
     date: '2026-02-28'
     code: 429669
@@ -279,14 +279,14 @@ works:
   - title: Utakata 2 ~Uraaka DoM Haken OL Onaho Choukyou~ | An Office Lady's Behind
       The Scenes Masochistic Onahole Training 2
     author: yuzuri-ai
-    cover: /covers/432301.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/432301.jpg
     rating: 4.1
     date: '2026-04-13'
     code: 432301
     url: /works/432301/
   - title: netoraretekite, ii desu yo.
     author: nt-robo
-    cover: /covers/432513.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/432513.jpg
     rating: 4.9
     date: '2026-04-12'
     code: 432513
@@ -310,42 +310,42 @@ works:
       |  Let’s Talk About the Story of A Miracle that Happened When I Stole the Underwear
       of the Lady Next Door
     author: special-g
-    cover: /covers/443909.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/443909.jpg
     rating: 4.3
     date: '2026-03-05'
     code: 443909
     url: /works/443909/
   - title: Tsumaduki | With a Wife
     author: ryuuta
-    cover: /covers/446716.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/446716.jpg
     rating: 4.4
     date: '2026-04-19'
     code: 446716
     url: /works/446716/
   - title: Yofukashi no Tsuma ~Murakami Kozue~ | Late-Night Wife ~Murakami Kozue~
     author: oobayashi-mori
-    cover: /covers/453749.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/453749.jpg
     rating: 4.1
     date: '2026-04-19'
     code: 453749
     url: /works/453749/
   - title: Haha ⇒ umi ⇒ Nanpa ⇒ Rankou ⇒ Nikuana. Haha, Ochiru.
     author: rin
-    cover: /covers/455844.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/455844.jpg
     rating: 4.8
     date: '2026-03-02'
     code: 455844
     url: /works/455844/
   - title: Provoking Men 1-8
     author: pororivista
-    cover: /covers/458903.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/458903.jpg
     rating: 4.5
     date: '2026-04-13'
     code: 458903
     url: /works/458903/
   - title: Tomodachi, Osananajimi mo Kaa-san mo Netorareru
     author: sink
-    cover: /covers/460565.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/460565.jpg
     rating: 4.2
     date: '2026-04-19'
     code: 460565

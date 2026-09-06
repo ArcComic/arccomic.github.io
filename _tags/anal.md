@@ -5,21 +5,21 @@ work_count: 83
 works:
   - title: Hitozuma Hyakka
     author: hase-tsubura
-    cover: /covers/190410.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/190410.jpg
     rating: 4.1
     date: '2026-04-19'
     code: 190410
     url: /works/190410/
   - title: Kizashi
     author: yoshiura-kazuya
-    cover: /covers/226386.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/226386.jpg
     rating: 4.7
     date: '2026-03-09'
     code: 226386
     url: /works/226386/
   - title: Uragiri no Ai wa Mitsu no Aji | Treacherous Love Tastes Like Honey
     author: cuzukago
-    cover: /covers/244812.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/244812.jpg
     rating: 4.6
     date: '2026-04-19'
     code: 244812
@@ -34,7 +34,7 @@ works:
     url: /works/289523/
   - title: Ryoujoku Gakuen
     author: motchie
-    cover: /covers/332375.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/332375.jpg
     rating: 4.0
     date: '2026-04-17'
     code: 332375
@@ -43,7 +43,7 @@ works:
       Sounyuu~ | The Loli In Glasses' Training Lesson!! ~Force Fucking a Timid Glasses
       Wearing Loli With My Big Cock~ Ch. 1-5
     author: sakamata-nerimono
-    cover: /covers/358168.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/358168.jpg
     rating: 4.7
     date: '2026-07-13'
     code: 358168
@@ -51,7 +51,7 @@ works:
   - title: Iro no Ie -Hitozuma ga Sex Suru Hon II- | Erotic House - Married Women Sex
       Book 2
     author: miho-rei
-    cover: /covers/361032.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/361032.jpg
     rating: 4.5
     date: '2026-03-09'
     code: 361032
@@ -66,14 +66,14 @@ works:
   - title: Utakata 2 ~Uraaka DoM Haken OL Onaho Choukyou~ | An Office Lady's Behind
       The Scenes Masochistic Onahole Training 2
     author: yuzuri-ai
-    cover: /covers/432301.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/432301.jpg
     rating: 4.1
     date: '2026-04-13'
     code: 432301
     url: /works/432301/
   - title: VS Dekachin Ojisan
     author: bang-you-didori
-    cover: /covers/453969.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/453969.jpg
     rating: 4.5
     date: '2026-03-07'
     code: 453969

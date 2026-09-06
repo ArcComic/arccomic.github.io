@@ -5,14 +5,14 @@ work_count: 128
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
-    cover: /covers/103680.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/103680.jpg
     rating: 4.6
     date: '2026-04-17'
     code: 103680
     url: /works/103680/
   - title: Kaisha de Iroiro | Gettin' Busy at the Office
     author: hara-shigeyuki
-    cover: /covers/110835.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/110835.jpg
     rating: 4.7
     date: '2026-04-19'
     code: 110835
@@ -26,14 +26,14 @@ works:
     url: /works/142561/
   - title: Hanamizuki
     author: orikuchi
-    cover: /covers/162047.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/162047.jpg
     rating: 4.1
     date: '2026-04-17'
     code: 162047
     url: /works/162047/
   - title: Hitozuma Hyakka
     author: hase-tsubura
-    cover: /covers/190410.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/190410.jpg
     rating: 4.1
     date: '2026-04-19'
     code: 190410
@@ -62,21 +62,21 @@ works:
     url: /works/311755/
   - title: CHOCO x LOVE
     author: highlow
-    cover: /covers/317673.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/317673.jpg
     rating: 4.4
     date: '2026-07-09'
     code: 317673
     url: /works/317673/
   - title: Tonight, my wife is being exposed and...
     author: mon-mon
-    cover: /covers/329551.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/329551.jpg
     rating: 4.8
     date: '2026-04-23'
     code: 329551
     url: /works/329551/
   - title: Ryoujoku Gakuen
     author: motchie
-    cover: /covers/332375.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/332375.jpg
     rating: 4.0
     date: '2026-04-17'
     code: 332375
@@ -90,7 +90,7 @@ works:
     url: /works/332781/
   - title: Yokkyuu Fuman na Danchizuma wa Ikenai Kairaku ni Oboreru
     author: yanagawa-rio
-    cover: /covers/342500.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/342500.jpg
     rating: 4.8
     date: '2026-04-19'
     code: 342500
@@ -105,7 +105,7 @@ works:
   - title: Iro no Ie -Hitozuma ga Sex Suru Hon II- | Erotic House - Married Women Sex
       Book 2
     author: miho-rei
-    cover: /covers/361032.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/361032.jpg
     rating: 4.5
     date: '2026-03-09'
     code: 361032
@@ -113,13 +113,13 @@ works:
   - title: Shirotaegiku | Dusty miller
     author: hiroya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/370164.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-06'
     code: 370164
     url: /works/370164/
   - title: Dirty Deeds Done Dirt Cheap
     author: mr-kurz
-    cover: /covers/408819.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/408819.jpg
     rating: 4.7
     date: '2026-04-19'
     code: 408819
@@ -134,14 +134,14 @@ works:
   - title: Utakata 2 ~Uraaka DoM Haken OL Onaho Choukyou~ | An Office Lady's Behind
       The Scenes Masochistic Onahole Training 2
     author: yuzuri-ai
-    cover: /covers/432301.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/432301.jpg
     rating: 4.1
     date: '2026-04-13'
     code: 432301
     url: /works/432301/
   - title: Ladies Night
     author: mr-kurz
-    cover: /covers/446018.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/446018.jpg
     rating: 4.9
     date: '2026-03-07'
     code: 446018
@@ -156,7 +156,7 @@ works:
     url: /works/448503/
   - title: VS Dekachin Ojisan
     author: bang-you-didori
-    cover: /covers/453969.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/453969.jpg
     rating: 4.5
     date: '2026-03-07'
     code: 453969

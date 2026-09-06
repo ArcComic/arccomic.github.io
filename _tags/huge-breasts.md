@@ -5,7 +5,7 @@ work_count: 44
 works:
   - title: Soubo Soukan | Twin Mother Incest Ch. 1
     author: nanao-yukiji
-    cover: /covers/356516.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/356516.jpg
     rating: 4.0
     date: '2026-04-23'
     code: 356516
@@ -13,7 +13,7 @@ works:
   - title: Shirotaegiku | Dusty miller
     author: hiroya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/370164.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-06'
     code: 370164
     url: /works/370164/

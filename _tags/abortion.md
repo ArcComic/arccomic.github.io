@@ -5,7 +5,7 @@ work_count: 2
 works:
   - title: Hito no Tsuma | Someone's Wife
     author: yumi-ichirou
-    cover: /covers/349247.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/349247.jpg
     rating: 4.5
     date: '2026-04-17'
     code: 349247

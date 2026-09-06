@@ -5,14 +5,14 @@ work_count: 12
 works:
   - title: The Last Flight
     author: mr-kurz
-    cover: /covers/408822.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/408822.jpg
     rating: 4.6
     date: '2026-03-09'
     code: 408822
     url: /works/408822/
   - title: Ladies Night
     author: mr-kurz
-    cover: /covers/446018.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/446018.jpg
     rating: 4.9
     date: '2026-03-07'
     code: 446018

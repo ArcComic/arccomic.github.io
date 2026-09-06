@@ -4,7 +4,7 @@ artist_name: "terasu-mc"
 work_count: 6
 works:
   - title: Netorare Ibe Kiba Shizuka
-    cover: /covers/275108.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/275108.jpg
     rating: 5.0
     date: '2026-04-16'
     code: 275108
@@ -22,7 +22,7 @@ works:
     code: 388099
     url: /works/388099/
   - title: Doushia (Terasu MC)] Dorei Gazoku
-    cover: /covers/427676.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/427676.jpg
     rating: 4.6
     date: '2026-07-15'
     code: 427676

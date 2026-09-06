@@ -5,7 +5,7 @@ work_count: 4
 works:
   - title: Doushia (Terasu MC)] Dorei Gazoku
     author: terasu-mc
-    cover: /covers/427676.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/427676.jpg
     rating: 4.6
     date: '2026-07-15'
     code: 427676
