@@ -1,6 +1,6 @@
 ---
 ---
-<!-- arc-comic-index-version: 12 -->
+<!-- arc-comic-index-version: 13 -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -36,14 +36,21 @@
         .search-box button { background: var(--accent); color: #000; border: none; border-radius: 12px; padding: 0 22px; font-weight: 700; font-size: 14px; cursor: pointer; }
         .results-title { font-size: 20px; font-weight: 700; margin-bottom: 0; }
         .results-title span { color: var(--accent); }
-        .toolbar { display: flex; justify-content: flex-end; margin-bottom: 20px; }
+        .toolbar { display: flex; gap: 10px; margin-bottom: 20px; flex-wrap: wrap; }
         .toolbar select {
             background: var(--bg-card); color: var(--text); border: 1px solid var(--border);
             border-radius: 10px; padding: 10px 14px; font-size: 13px; cursor: pointer;
         }
-        .results-header { display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 12px; margin-bottom: 20px; }
+        .filter-panel {
+            background: var(--bg-card); border: 1px solid var(--border); border-radius: 12px;
+            padding: 16px; margin-bottom: 20px; display: none; gap: 20px; flex-wrap: wrap;
+        }
+        .filter-panel.open { display: flex; }
+        .filter-group { display: flex; flex-direction: column; gap: 8px; }
+        .filter-group-label { font-size: 11px; color: var(--text-muted); text-transform: uppercase; letter-spacing: 0.5px; }
+        .filter-option { display: flex; align-items: center; gap: 6px; font-size: 13px; }
+        .results-header { display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 12px; margin-bottom: 12px; }
         .results-header .results-title { margin-bottom: 0; }
-        .results-header .toolbar { margin-bottom: 0; }
         .works-grid { display: grid; grid-template-columns: repeat(5, 1fr); gap: 16px; }
         .work-card {
             background: var(--bg-card); border-radius: 12px; border: 1px solid var(--border);
@@ -94,8 +101,26 @@
                 <select id="sortSelect">
                     <option value="recent">Most Recent</option>
                     <option value="oldest">Oldest</option>
-                    <option value="rating">Highest Rated</option>
+                    <option value="popular_today">Most Popular Today</option>
+                    <option value="popular_weekly">Most Popular This Week</option>
+                    <option value="popular_monthly">Most Popular This Month</option>
+                    <option value="popular_yearly">Most Popular This Year</option>
                 </select>
+                <button id="filterToggleBtn" style="background:var(--bg-card);color:var(--text);border:1px solid var(--border);border-radius:10px;padding:10px 14px;font-size:13px;cursor:pointer;">
+                    ⚙️ Filters
+                </button>
+            </div>
+        </div>
+        <div class="filter-panel" id="filterPanel">
+            <div class="filter-group">
+                <div class="filter-group-label">Full Color</div>
+                <label class="filter-option"><input type="checkbox" id="filterFullColor"> Full Color Only</label>
+            </div>
+            <div class="filter-group">
+                <div class="filter-group-label">NTR</div>
+                <label class="filter-option"><input type="radio" name="ntrFilter" value="" checked> Any</label>
+                <label class="filter-option"><input type="radio" name="ntrFilter" value="yes"> NTR Yes</label>
+                <label class="filter-option"><input type="radio" name="ntrFilter" value="no"> NTR No</label>
             </div>
         </div>
         <div class="works-grid" id="worksGrid"></div>
@@ -151,12 +176,15 @@
                 tags: {{ post.tags | jsonify }},
                 code: "{{ post.code }}",
                 date: "{{ post.date }}",
+                fullColor: {{ post.full_color | default: false }},
+                ntr: {{ post.ntr | default: false }},
                 url: "{{ post.url }}"
             }{% unless forloop.last %},{% endunless %}
             {% endfor %}
         ];
         const PER_PAGE = 16;
         let currentResults = [];
+        let lastMatches = [];
 
         function getQueryParam(name) {
             return new URLSearchParams(window.location.search).get(name) || "";
@@ -177,14 +205,15 @@
         // — there is no reveal/refresh API). A slot that starts hidden and
         // gets un-hidden later is never picked up. Fix: never pre-render
         // the [data-mndbanid] div — build and insert a fresh one via JS
-        // only at the moment ads should actually show. clearAds() empties
-        // the containers back out for the no-results/empty-query cases so
-        // a later injectAdsIfNeeded() call creates a genuinely new element
-        // rather than assuming one from an earlier search is still valid.
+        // only once real results exist. clearAds() empties the containers
+        // back out for the no-results/empty-query cases so a later
+        // injectAdsIfNeeded() call creates a genuinely new element rather
+        // than assuming one from an earlier search is still valid.
         // Also re-trigger banner.js itself via a freshly-appended <script>
-        // tag each time: its async <head> scan can fire before a visitor
-        // ever reaches page 2, and there's no documented reveal/refresh
-        // API, so a div injected afterward would otherwise still be missed.
+        // tag each time: its async <head> scan can fire before the JS
+        // grid/ad slots exist yet, and there's no documented reveal/
+        // refresh API, so a div injected afterward would otherwise still
+        // be missed.
         function injectAdsIfNeeded() {
             const slotHtml = '<div class="ad-slot" data-mndbanid="6682c345-631e-456b-82ef-cc3bd9dbb29a"></div>';
             document.getElementById('topAdContainer').innerHTML = slotHtml;
@@ -199,13 +228,34 @@
             document.getElementById('bottomAdContainer').innerHTML = '';
         }
 
+        function applyFilters(list) {
+            const fullColorOnly = document.getElementById('filterFullColor').checked;
+            const ntrValue = document.querySelector('input[name="ntrFilter"]:checked').value;
+            return list.filter(w => {
+                if (fullColorOnly && !w.fullColor) return false;
+                if (ntrValue === 'yes' && !w.ntr) return false;
+                if (ntrValue === 'no' && w.ntr) return false;
+                return true;
+            });
+        }
+
         function applySort(list) {
             const mode = document.getElementById('sortSelect').value;
             const sorted = [...list];
-            if (mode === 'oldest') sorted.sort((a, b) => new Date(a.date) - new Date(b.date));
-            else if (mode === 'rating') sorted.sort((a, b) => parseFloat(b.rating) - parseFloat(a.rating));
-            else sorted.sort((a, b) => new Date(b.date) - new Date(a.date)); // recent (default)
-            return sorted;
+            switch (mode) {
+                case 'oldest':
+                    return sorted.sort((a, b) => new Date(a.date) - new Date(b.date));
+                case 'popular_today':
+                case 'popular_weekly':
+                case 'popular_monthly':
+                case 'popular_yearly':
+                    // Rating is the best available popularity proxy until a
+                    // real view-window metric is tracked server-side — same
+                    // stand-in the homepage's identical sort options use.
+                    return sorted.sort((a, b) => parseFloat(b.rating) - parseFloat(a.rating));
+                default: // 'recent'
+                    return sorted.sort((a, b) => new Date(b.date) - new Date(a.date));
+            }
         }
 
         function renderPage(page) {
@@ -214,12 +264,16 @@
             const pageWorks = currentResults.slice(start, start + PER_PAGE);
             document.getElementById('worksGrid').innerHTML = buildCards(pageWorks);
 
-            // Banner ads only from page 2 onward, never on the first
-            // screen of results.
-            if (page > 1) injectAdsIfNeeded(); else clearAds();
+            // Ads show from page 1 onward here (the homepage stays ad-free
+            // — that split is intentional).
+            injectAdsIfNeeded();
 
             const total = Math.ceil(currentResults.length / PER_PAGE);
             document.getElementById('pagination').innerHTML = buildPaginationHtml(page, total, 'renderPage');
+        }
+
+        function recomputeResults() {
+            currentResults = applySort(applyFilters(lastMatches));
         }
 
         function runSearch(q) {
@@ -234,37 +288,38 @@
                 document.getElementById('pagination').innerHTML = '';
                 clearAds();
                 document.getElementById('sortToolbar').style.display = 'none';
+                document.getElementById('filterPanel').classList.remove('open');
                 document.getElementById('noResults').style.display = 'block';
                 document.getElementById('noResults').textContent = 'Type something in the search box above.';
                 return;
             }
 
             const query = q.toLowerCase();
-            const matches = works.filter(w =>
+            lastMatches = works.filter(w =>
                 w.title.toLowerCase().includes(query) ||
                 w.author.toLowerCase().includes(query) ||
                 (w.code || '').toLowerCase().includes(query) ||
                 (w.tags || []).some(t => t.toLowerCase().includes(query))
             );
-            // Sorting is applied on top of the matched set, using whatever
-            // the sort dropdown is currently set to — lets someone search
-            // then sort those results (e.g. by rating) for a better fit,
-            // rather than always locking search results to recency.
-            currentResults = applySort(matches);
+            // Sort/filters are applied on top of the matched set, same as
+            // the sort dropdown's own change handler — lets someone search
+            // then sort/filter those results (e.g. by rating, Full Color
+            // only) for a better fit, rather than always locking search
+            // results to plain recency with no way to narrow them further.
+            recomputeResults();
 
             const noResults = document.getElementById('noResults');
             if (currentResults.length === 0) {
                 document.getElementById('worksGrid').innerHTML = '';
                 document.getElementById('pagination').innerHTML = '';
                 clearAds();
-                document.getElementById('sortToolbar').style.display = 'none';
                 noResults.style.display = 'block';
-                noResults.textContent = 'No comics match your search.';
+                noResults.textContent = 'No comics match your search or filters.';
             } else {
                 noResults.style.display = 'none';
-                document.getElementById('sortToolbar').style.display = 'flex';
                 renderPage(1);
             }
+            document.getElementById('sortToolbar').style.display = 'flex';
         }
 
 
@@ -277,8 +332,21 @@
             if (e.key === 'Enter') goSearch();
         });
         document.getElementById('sortSelect').addEventListener('change', function() {
-            currentResults = applySort(currentResults);
+            recomputeResults();
             renderPage(1);
+        });
+        document.getElementById('filterToggleBtn').addEventListener('click', () => {
+            document.getElementById('filterPanel').classList.toggle('open');
+        });
+        document.getElementById('filterFullColor').addEventListener('change', function() {
+            recomputeResults();
+            renderPage(1);
+        });
+        document.querySelectorAll('input[name="ntrFilter"]').forEach(el => {
+            el.addEventListener('change', function() {
+                recomputeResults();
+                renderPage(1);
+            });
         });
 
         runSearch(getQueryParam('q'));

@@ -870,7 +870,7 @@ PAGINATION_JS = """
 
 # ============== HOMEPAGE (index.html) ==============
 INDEX_HTML_PATH = os.path.join(WORK_DIR, "index.html")
-INDEX_HTML_VERSION = 15  # bump when the template below changes materially
+INDEX_HTML_VERSION = 16  # bump when the template below changes materially
 
 INDEX_HTML_TEMPLATE = f"""---
 # No 'layout:' key here on purpose — index.html is a complete, self-contained
@@ -893,6 +893,7 @@ INDEX_HTML_TEMPLATE = f"""---
     {{% endif %}}
     <title>✨ Arc Comic — Manga & Doujinshi Gallery</title>
     <meta name="description" content="Arc Comic — Curated manga and doujinshi gallery">
+    <script async src="https://ss.mrmnd.com/banner.js"></script>
     <style>
         :root {{
             --bg: #0f0f13; --bg-card: #1a1a24; --bg-elevated: #222230;
@@ -1038,6 +1039,16 @@ INDEX_HTML_TEMPLATE = f"""---
             padding: 8px 6px; color: var(--text-muted);
             font-weight: 600; user-select: none;
         }}
+        .ad-slot {{
+            margin: 20px auto; display: flex; justify-content: center; align-items: center;
+            width: 100%; max-width: 336px; min-height: 50px;
+        }}
+        /* Banner creatives are served at fixed sizes by Mondiad — this
+           slot must not resize/crop them (policy risk), so it just gives
+           the ad room and centers it rather than constraining its child.
+           max-width is a layout hint matching a common Banner size; match
+           it to this zone's actual configured size in Mondiad's dashboard
+           if that differs, instead of forcing it with CSS again. */
         .footer {{
             text-align: center; padding: 30px;
             color: var(--text-muted); font-size: 13px;
@@ -1104,6 +1115,7 @@ INDEX_HTML_TEMPLATE = f"""---
         <div class="works-grid" id="worksGrid"></div>
         <div class="no-results" id="noResults" style="display:none;">No comics match your search or filters.</div>
         <div class="pagination" id="pagination"></div>
+        <div class="ad-slot-container" id="bottomAdContainer"></div>
         {{% include follow_us.html %}}
         <div class="footer">
             <p style="margin-top:8px">{{{{ site.data.site_meta.footer_html }}}}</p>
@@ -1183,6 +1195,23 @@ INDEX_HTML_TEMPLATE = f"""---
             `).join('');
         }}
 
+        // Homepage stays ad-free on page 1 (by design — this is the only
+        // page where that's true; tag/artist/search show ads from page 1).
+        // Mondiad's banner.js only scans/fills [data-mndbanid] elements
+        // already visible in the DOM at its one-time scan, so the slot is
+        // never pre-rendered — it's built fresh via JS only once page 2+
+        // is actually reached, same pattern as tag/artist/search use.
+        function injectAdsIfNeeded() {{
+            const slotHtml = '<div class="ad-slot" data-mndbanid="{BANNER_AD_ZONE_ID}"></div>';
+            document.getElementById('bottomAdContainer').innerHTML = slotHtml;
+            const s = document.createElement('script');
+            s.async = true;
+            s.src = 'https://ss.mrmnd.com/banner.js';
+            document.body.appendChild(s);
+        }}
+        function clearAds() {{
+            document.getElementById('bottomAdContainer').innerHTML = '';
+        }}
         function renderWorks(page = 1) {{
             const sortMode = document.getElementById('sortSelect').value;
             let list = applyFilters(works);
@@ -1200,6 +1229,7 @@ INDEX_HTML_TEMPLATE = f"""---
                 grid.innerHTML = '';
                 noResults.style.display = 'block';
                 document.getElementById('pagination').innerHTML = '';
+                clearAds();
                 return;
             }}
             noResults.style.display = 'none';
@@ -1207,6 +1237,11 @@ INDEX_HTML_TEMPLATE = f"""---
             const start = (page - 1) * POSTS_PER_PAGE;
             const pageWorks = list.slice(start, start + POSTS_PER_PAGE);
             grid.innerHTML = buildWorkCards(pageWorks);
+
+            // Bottom ad only, and only from page 2 onward — homepage stays
+            // fully ad-free on page 1.
+            if (page > 1) injectAdsIfNeeded(); else clearAds();
+
             const total = Math.ceil(list.length / POSTS_PER_PAGE);
             document.getElementById('pagination').innerHTML = buildPaginationHtml(page, total, 'renderWorks');
         }}
@@ -1317,7 +1352,7 @@ def ensure_index_html():
 # ============== TAG SYSTEM (Stage 3) ==============
 TAGS_DIR = os.path.join(WORK_DIR, "_tags")
 TAG_LAYOUT_PATH = os.path.join(WORK_DIR, "_layouts", "tag.html")
-TAG_LAYOUT_VERSION = 11
+TAG_LAYOUT_VERSION = 12
 TAGS_INDEX_PATH = os.path.join(WORK_DIR, "tags", "index.html")
 TAGS_INDEX_VERSION = 1
 
@@ -1442,15 +1477,14 @@ TAG_LAYOUT_TEMPLATE = f"""<!-- arc-comic-layout-version: {TAG_LAYOUT_VERSION} --
         // display:none and gets un-hidden later is never picked up, which
         // was silently breaking ads on every page but the reading page
         // (that page's slot is visible from initial load, so it worked).
-        // Fix: never pre-render the [data-mndbanid] div at all on pages
-        // where it might start hidden — build and insert a brand-new one
-        // via JS only at the exact moment ads should actually show, so
+        // Fix: never pre-render the [data-mndbanid] div at all — build and
+        // insert a brand-new one via JS right after the first render, so
         // banner.js's scan always sees a fresh, already-visible element.
         // Also: banner.js is an async <head> script, so its one-time scan
-        // can fire before a visitor ever reaches page 2 — a div injected
-        // after that scan already ran would still be missed even though
-        // it's visible. Since there's no documented reveal/refresh API,
-        // we re-trigger the scan ourselves by appending a brand-new
+        // can fire before the JS-built grid/ad slots exist yet — a div
+        // injected after that scan already ran would still be missed even
+        // though it's visible. Since there's no documented reveal/refresh
+        // API, we re-trigger the scan ourselves by appending a brand-new
         // <script src="banner.js"> element, which always re-executes
         // fresh against the current DOM.
         let adsInjected = false;
@@ -1477,12 +1511,13 @@ TAG_LAYOUT_TEMPLATE = f"""<!-- arc-comic-layout-version: {TAG_LAYOUT_VERSION} --
             const pageWorks = sorted.slice(start, start + PER_PAGE);
             document.getElementById('worksGrid').innerHTML = buildCards(pageWorks);
 
-            // Banner ads only from page 2 onward — never on the first
-            // screen someone lands on for this tag. Once injected, the
-            // slots are left in place (Mondiad ad zones aren't meant to be
-            // torn down/rebuilt repeatedly) — they just won't have been
-            // created yet if the visitor never left page 1.
-            if (page > 1) injectAdsIfNeeded();
+            // Ads now show from page 1 onward (tag/artist/search pages carry
+            // ads; the homepage stays ad-free — that split is intentional).
+            // Still injected via JS rather than pre-rendered in the Liquid
+            // template, since Mondiad's banner.js only picks up
+            // [data-mndbanid] elements already visible in the DOM at its
+            // scan time, and this grid itself is JS-rendered.
+            injectAdsIfNeeded();
 
             const total = Math.ceil(sorted.length / PER_PAGE);
             document.getElementById('pagination').innerHTML = buildPaginationHtml(page, total, 'render');
@@ -1526,7 +1561,7 @@ def slugify(text):
 
 # ============== SEARCH RESULTS PAGE ==============
 SEARCH_PAGE_PATH = os.path.join(WORK_DIR, "search", "index.html")
-SEARCH_PAGE_VERSION = 12
+SEARCH_PAGE_VERSION = 13
 
 SEARCH_PAGE_TEMPLATE = f"""---
 ---
@@ -1566,14 +1601,21 @@ SEARCH_PAGE_TEMPLATE = f"""---
         .search-box button {{ background: var(--accent); color: #000; border: none; border-radius: 12px; padding: 0 22px; font-weight: 700; font-size: 14px; cursor: pointer; }}
         .results-title {{ font-size: 20px; font-weight: 700; margin-bottom: 0; }}
         .results-title span {{ color: var(--accent); }}
-        .toolbar {{ display: flex; justify-content: flex-end; margin-bottom: 20px; }}
+        .toolbar {{ display: flex; gap: 10px; margin-bottom: 20px; flex-wrap: wrap; }}
         .toolbar select {{
             background: var(--bg-card); color: var(--text); border: 1px solid var(--border);
             border-radius: 10px; padding: 10px 14px; font-size: 13px; cursor: pointer;
         }}
-        .results-header {{ display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 12px; margin-bottom: 20px; }}
+        .filter-panel {{
+            background: var(--bg-card); border: 1px solid var(--border); border-radius: 12px;
+            padding: 16px; margin-bottom: 20px; display: none; gap: 20px; flex-wrap: wrap;
+        }}
+        .filter-panel.open {{ display: flex; }}
+        .filter-group {{ display: flex; flex-direction: column; gap: 8px; }}
+        .filter-group-label {{ font-size: 11px; color: var(--text-muted); text-transform: uppercase; letter-spacing: 0.5px; }}
+        .filter-option {{ display: flex; align-items: center; gap: 6px; font-size: 13px; }}
+        .results-header {{ display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 12px; margin-bottom: 12px; }}
         .results-header .results-title {{ margin-bottom: 0; }}
-        .results-header .toolbar {{ margin-bottom: 0; }}
         .works-grid {{ display: grid; grid-template-columns: repeat(5, 1fr); gap: 16px; }}
         .work-card {{
             background: var(--bg-card); border-radius: 12px; border: 1px solid var(--border);
@@ -1624,8 +1666,26 @@ SEARCH_PAGE_TEMPLATE = f"""---
                 <select id="sortSelect">
                     <option value="recent">Most Recent</option>
                     <option value="oldest">Oldest</option>
-                    <option value="rating">Highest Rated</option>
+                    <option value="popular_today">Most Popular Today</option>
+                    <option value="popular_weekly">Most Popular This Week</option>
+                    <option value="popular_monthly">Most Popular This Month</option>
+                    <option value="popular_yearly">Most Popular This Year</option>
                 </select>
+                <button id="filterToggleBtn" style="background:var(--bg-card);color:var(--text);border:1px solid var(--border);border-radius:10px;padding:10px 14px;font-size:13px;cursor:pointer;">
+                    ⚙️ Filters
+                </button>
+            </div>
+        </div>
+        <div class="filter-panel" id="filterPanel">
+            <div class="filter-group">
+                <div class="filter-group-label">Full Color</div>
+                <label class="filter-option"><input type="checkbox" id="filterFullColor"> Full Color Only</label>
+            </div>
+            <div class="filter-group">
+                <div class="filter-group-label">NTR</div>
+                <label class="filter-option"><input type="radio" name="ntrFilter" value="" checked> Any</label>
+                <label class="filter-option"><input type="radio" name="ntrFilter" value="yes"> NTR Yes</label>
+                <label class="filter-option"><input type="radio" name="ntrFilter" value="no"> NTR No</label>
             </div>
         </div>
         <div class="works-grid" id="worksGrid"></div>
@@ -1649,12 +1709,15 @@ SEARCH_PAGE_TEMPLATE = f"""---
                 tags: {{{{ post.tags | jsonify }}}},
                 code: "{{{{ post.code }}}}",
                 date: "{{{{ post.date }}}}",
+                fullColor: {{{{ post.full_color | default: false }}}},
+                ntr: {{{{ post.ntr | default: false }}}},
                 url: "{{{{ post.url }}}}"
             }}{{% unless forloop.last %}},{{% endunless %}}
             {{% endfor %}}
         ];
         const PER_PAGE = 16;
         let currentResults = [];
+        let lastMatches = [];
 
         function getQueryParam(name) {{
             return new URLSearchParams(window.location.search).get(name) || "";
@@ -1675,14 +1738,15 @@ SEARCH_PAGE_TEMPLATE = f"""---
         // — there is no reveal/refresh API). A slot that starts hidden and
         // gets un-hidden later is never picked up. Fix: never pre-render
         // the [data-mndbanid] div — build and insert a fresh one via JS
-        // only at the moment ads should actually show. clearAds() empties
-        // the containers back out for the no-results/empty-query cases so
-        // a later injectAdsIfNeeded() call creates a genuinely new element
-        // rather than assuming one from an earlier search is still valid.
+        // only once real results exist. clearAds() empties the containers
+        // back out for the no-results/empty-query cases so a later
+        // injectAdsIfNeeded() call creates a genuinely new element rather
+        // than assuming one from an earlier search is still valid.
         // Also re-trigger banner.js itself via a freshly-appended <script>
-        // tag each time: its async <head> scan can fire before a visitor
-        // ever reaches page 2, and there's no documented reveal/refresh
-        // API, so a div injected afterward would otherwise still be missed.
+        // tag each time: its async <head> scan can fire before the JS
+        // grid/ad slots exist yet, and there's no documented reveal/
+        // refresh API, so a div injected afterward would otherwise still
+        // be missed.
         function injectAdsIfNeeded() {{
             const slotHtml = '<div class="ad-slot" data-mndbanid="{BANNER_AD_ZONE_ID}"></div>';
             document.getElementById('topAdContainer').innerHTML = slotHtml;
@@ -1697,13 +1761,34 @@ SEARCH_PAGE_TEMPLATE = f"""---
             document.getElementById('bottomAdContainer').innerHTML = '';
         }}
 
+        function applyFilters(list) {{
+            const fullColorOnly = document.getElementById('filterFullColor').checked;
+            const ntrValue = document.querySelector('input[name="ntrFilter"]:checked').value;
+            return list.filter(w => {{
+                if (fullColorOnly && !w.fullColor) return false;
+                if (ntrValue === 'yes' && !w.ntr) return false;
+                if (ntrValue === 'no' && w.ntr) return false;
+                return true;
+            }});
+        }}
+
         function applySort(list) {{
             const mode = document.getElementById('sortSelect').value;
             const sorted = [...list];
-            if (mode === 'oldest') sorted.sort((a, b) => new Date(a.date) - new Date(b.date));
-            else if (mode === 'rating') sorted.sort((a, b) => parseFloat(b.rating) - parseFloat(a.rating));
-            else sorted.sort((a, b) => new Date(b.date) - new Date(a.date)); // recent (default)
-            return sorted;
+            switch (mode) {{
+                case 'oldest':
+                    return sorted.sort((a, b) => new Date(a.date) - new Date(b.date));
+                case 'popular_today':
+                case 'popular_weekly':
+                case 'popular_monthly':
+                case 'popular_yearly':
+                    // Rating is the best available popularity proxy until a
+                    // real view-window metric is tracked server-side — same
+                    // stand-in the homepage's identical sort options use.
+                    return sorted.sort((a, b) => parseFloat(b.rating) - parseFloat(a.rating));
+                default: // 'recent'
+                    return sorted.sort((a, b) => new Date(b.date) - new Date(a.date));
+            }}
         }}
 
         function renderPage(page) {{
@@ -1712,12 +1797,16 @@ SEARCH_PAGE_TEMPLATE = f"""---
             const pageWorks = currentResults.slice(start, start + PER_PAGE);
             document.getElementById('worksGrid').innerHTML = buildCards(pageWorks);
 
-            // Banner ads only from page 2 onward, never on the first
-            // screen of results.
-            if (page > 1) injectAdsIfNeeded(); else clearAds();
+            // Ads show from page 1 onward here (the homepage stays ad-free
+            // — that split is intentional).
+            injectAdsIfNeeded();
 
             const total = Math.ceil(currentResults.length / PER_PAGE);
             document.getElementById('pagination').innerHTML = buildPaginationHtml(page, total, 'renderPage');
+        }}
+
+        function recomputeResults() {{
+            currentResults = applySort(applyFilters(lastMatches));
         }}
 
         function runSearch(q) {{
@@ -1732,37 +1821,38 @@ SEARCH_PAGE_TEMPLATE = f"""---
                 document.getElementById('pagination').innerHTML = '';
                 clearAds();
                 document.getElementById('sortToolbar').style.display = 'none';
+                document.getElementById('filterPanel').classList.remove('open');
                 document.getElementById('noResults').style.display = 'block';
                 document.getElementById('noResults').textContent = 'Type something in the search box above.';
                 return;
             }}
 
             const query = q.toLowerCase();
-            const matches = works.filter(w =>
+            lastMatches = works.filter(w =>
                 w.title.toLowerCase().includes(query) ||
                 w.author.toLowerCase().includes(query) ||
                 (w.code || '').toLowerCase().includes(query) ||
                 (w.tags || []).some(t => t.toLowerCase().includes(query))
             );
-            // Sorting is applied on top of the matched set, using whatever
-            // the sort dropdown is currently set to — lets someone search
-            // then sort those results (e.g. by rating) for a better fit,
-            // rather than always locking search results to recency.
-            currentResults = applySort(matches);
+            // Sort/filters are applied on top of the matched set, same as
+            // the sort dropdown's own change handler — lets someone search
+            // then sort/filter those results (e.g. by rating, Full Color
+            // only) for a better fit, rather than always locking search
+            // results to plain recency with no way to narrow them further.
+            recomputeResults();
 
             const noResults = document.getElementById('noResults');
             if (currentResults.length === 0) {{
                 document.getElementById('worksGrid').innerHTML = '';
                 document.getElementById('pagination').innerHTML = '';
                 clearAds();
-                document.getElementById('sortToolbar').style.display = 'none';
                 noResults.style.display = 'block';
-                noResults.textContent = 'No comics match your search.';
+                noResults.textContent = 'No comics match your search or filters.';
             }} else {{
                 noResults.style.display = 'none';
-                document.getElementById('sortToolbar').style.display = 'flex';
                 renderPage(1);
             }}
+            document.getElementById('sortToolbar').style.display = 'flex';
         }}
 
 
@@ -1775,8 +1865,21 @@ SEARCH_PAGE_TEMPLATE = f"""---
             if (e.key === 'Enter') goSearch();
         }});
         document.getElementById('sortSelect').addEventListener('change', function() {{
-            currentResults = applySort(currentResults);
+            recomputeResults();
             renderPage(1);
+        }});
+        document.getElementById('filterToggleBtn').addEventListener('click', () => {{
+            document.getElementById('filterPanel').classList.toggle('open');
+        }});
+        document.getElementById('filterFullColor').addEventListener('change', function() {{
+            recomputeResults();
+            renderPage(1);
+        }});
+        document.querySelectorAll('input[name="ntrFilter"]').forEach(el => {{
+            el.addEventListener('change', function() {{
+                recomputeResults();
+                renderPage(1);
+            }});
         }});
 
         runSearch(getQueryParam('q'));
@@ -1968,7 +2071,7 @@ def _write_tags_index(tag_map):
 # index, regenerated together with tags after every batch flush/delete.
 ARTISTS_DIR = os.path.join(WORK_DIR, "_artists")
 ARTIST_LAYOUT_PATH = os.path.join(WORK_DIR, "_layouts", "artist.html")
-ARTIST_LAYOUT_VERSION = 10
+ARTIST_LAYOUT_VERSION = 11
 ARTISTS_INDEX_PATH = os.path.join(WORK_DIR, "artists", "index.html")
 ARTISTS_INDEX_VERSION = 1
 
@@ -2088,11 +2191,10 @@ ARTIST_LAYOUT_TEMPLATE = f"""<!-- arc-comic-layout-version: {ARTIST_LAYOUT_VERSI
         }}
         // See tag.html's identical comment: Mondiad's banner.js only fills
         // [data-mndbanid] elements visible in the DOM at its initial scan,
-        // so a slot that starts display:none and is revealed later never
-        // gets filled. Fix: inject a fresh [data-mndbanid] div via JS only
-        // once ads should actually show. Also re-trigger banner.js itself
-        // via a freshly-appended <script> tag, since its async <head> scan
-        // can fire before page 2 is ever reached and there's no reveal API.
+        // so a slot pre-rendered before the JS grid exists never gets
+        // filled. Fix: inject a fresh [data-mndbanid] div via JS right
+        // after the first render, plus re-trigger banner.js itself via a
+        // freshly-appended <script> tag so its scan always sees it.
         let adsInjected = false;
         function injectAdsIfNeeded() {{
             if (adsInjected) return;
@@ -2117,7 +2219,9 @@ ARTIST_LAYOUT_TEMPLATE = f"""<!-- arc-comic-layout-version: {ARTIST_LAYOUT_VERSI
             const pageWorks = sorted.slice(start, start + PER_PAGE);
             document.getElementById('worksGrid').innerHTML = buildCards(pageWorks);
 
-            if (page > 1) injectAdsIfNeeded();
+            // Ads show from page 1 onward here (the homepage stays ad-free
+            // — that split is intentional).
+            injectAdsIfNeeded();
 
             const total = Math.ceil(sorted.length / PER_PAGE);
             document.getElementById('pagination').innerHTML = buildPaginationHtml(page, total, 'render');

@@ -7,7 +7,7 @@
 # The empty front matter block below is still required so Jekyll processes
 # the Liquid tags (site.google_verification, site.works, etc.) in this file.
 ---
-<!-- arc-comic-index-version: 15 -->
+<!-- arc-comic-index-version: 16 -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -19,6 +19,7 @@
     {% endif %}
     <title>✨ Arc Comic — Manga & Doujinshi Gallery</title>
     <meta name="description" content="Arc Comic — Curated manga and doujinshi gallery">
+    <script async src="https://ss.mrmnd.com/banner.js"></script>
     <style>
         :root {
             --bg: #0f0f13; --bg-card: #1a1a24; --bg-elevated: #222230;
@@ -164,6 +165,16 @@
             padding: 8px 6px; color: var(--text-muted);
             font-weight: 600; user-select: none;
         }
+        .ad-slot {
+            margin: 20px auto; display: flex; justify-content: center; align-items: center;
+            width: 100%; max-width: 336px; min-height: 50px;
+        }
+        /* Banner creatives are served at fixed sizes by Mondiad — this
+           slot must not resize/crop them (policy risk), so it just gives
+           the ad room and centers it rather than constraining its child.
+           max-width is a layout hint matching a common Banner size; match
+           it to this zone's actual configured size in Mondiad's dashboard
+           if that differs, instead of forcing it with CSS again. */
         .footer {
             text-align: center; padding: 30px;
             color: var(--text-muted); font-size: 13px;
@@ -230,6 +241,7 @@
         <div class="works-grid" id="worksGrid"></div>
         <div class="no-results" id="noResults" style="display:none;">No comics match your search or filters.</div>
         <div class="pagination" id="pagination"></div>
+        <div class="ad-slot-container" id="bottomAdContainer"></div>
         {% include follow_us.html %}
         <div class="footer">
             <p style="margin-top:8px">{{ site.data.site_meta.footer_html }}</p>
@@ -341,6 +353,23 @@
             `).join('');
         }
 
+        // Homepage stays ad-free on page 1 (by design — this is the only
+        // page where that's true; tag/artist/search show ads from page 1).
+        // Mondiad's banner.js only scans/fills [data-mndbanid] elements
+        // already visible in the DOM at its one-time scan, so the slot is
+        // never pre-rendered — it's built fresh via JS only once page 2+
+        // is actually reached, same pattern as tag/artist/search use.
+        function injectAdsIfNeeded() {
+            const slotHtml = '<div class="ad-slot" data-mndbanid="6682c345-631e-456b-82ef-cc3bd9dbb29a"></div>';
+            document.getElementById('bottomAdContainer').innerHTML = slotHtml;
+            const s = document.createElement('script');
+            s.async = true;
+            s.src = 'https://ss.mrmnd.com/banner.js';
+            document.body.appendChild(s);
+        }
+        function clearAds() {
+            document.getElementById('bottomAdContainer').innerHTML = '';
+        }
         function renderWorks(page = 1) {
             const sortMode = document.getElementById('sortSelect').value;
             let list = applyFilters(works);
@@ -358,6 +387,7 @@
                 grid.innerHTML = '';
                 noResults.style.display = 'block';
                 document.getElementById('pagination').innerHTML = '';
+                clearAds();
                 return;
             }
             noResults.style.display = 'none';
@@ -365,6 +395,11 @@
             const start = (page - 1) * POSTS_PER_PAGE;
             const pageWorks = list.slice(start, start + POSTS_PER_PAGE);
             grid.innerHTML = buildWorkCards(pageWorks);
+
+            // Bottom ad only, and only from page 2 onward — homepage stays
+            // fully ad-free on page 1.
+            if (page > 1) injectAdsIfNeeded(); else clearAds();
+
             const total = Math.ceil(list.length / POSTS_PER_PAGE);
             document.getElementById('pagination').innerHTML = buildPaginationHtml(page, total, 'renderWorks');
         }

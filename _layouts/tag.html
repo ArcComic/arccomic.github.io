@@ -1,4 +1,4 @@
-<!-- arc-comic-layout-version: 11 -->
+<!-- arc-comic-layout-version: 12 -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -151,15 +151,14 @@
         // display:none and gets un-hidden later is never picked up, which
         // was silently breaking ads on every page but the reading page
         // (that page's slot is visible from initial load, so it worked).
-        // Fix: never pre-render the [data-mndbanid] div at all on pages
-        // where it might start hidden — build and insert a brand-new one
-        // via JS only at the exact moment ads should actually show, so
+        // Fix: never pre-render the [data-mndbanid] div at all — build and
+        // insert a brand-new one via JS right after the first render, so
         // banner.js's scan always sees a fresh, already-visible element.
         // Also: banner.js is an async <head> script, so its one-time scan
-        // can fire before a visitor ever reaches page 2 — a div injected
-        // after that scan already ran would still be missed even though
-        // it's visible. Since there's no documented reveal/refresh API,
-        // we re-trigger the scan ourselves by appending a brand-new
+        // can fire before the JS-built grid/ad slots exist yet — a div
+        // injected after that scan already ran would still be missed even
+        // though it's visible. Since there's no documented reveal/refresh
+        // API, we re-trigger the scan ourselves by appending a brand-new
         // <script src="banner.js"> element, which always re-executes
         // fresh against the current DOM.
         let adsInjected = false;
@@ -186,12 +185,13 @@
             const pageWorks = sorted.slice(start, start + PER_PAGE);
             document.getElementById('worksGrid').innerHTML = buildCards(pageWorks);
 
-            // Banner ads only from page 2 onward — never on the first
-            // screen someone lands on for this tag. Once injected, the
-            // slots are left in place (Mondiad ad zones aren't meant to be
-            // torn down/rebuilt repeatedly) — they just won't have been
-            // created yet if the visitor never left page 1.
-            if (page > 1) injectAdsIfNeeded();
+            // Ads now show from page 1 onward (tag/artist/search pages carry
+            // ads; the homepage stays ad-free — that split is intentional).
+            // Still injected via JS rather than pre-rendered in the Liquid
+            // template, since Mondiad's banner.js only picks up
+            // [data-mndbanid] elements already visible in the DOM at its
+            // scan time, and this grid itself is JS-rendered.
+            injectAdsIfNeeded();
 
             const total = Math.ceil(sorted.length / PER_PAGE);
             document.getElementById('pagination').innerHTML = buildPaginationHtml(page, total, 'render');

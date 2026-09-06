@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "hotpants"
-work_count: 11
+work_count: 12
 works:
   - title: Uwa, Mesugaki Tsuyoi! | Crap, This Mesugaki's Too Powerful!
     author: poncocchan
@@ -87,4 +87,11 @@ works:
     date: '2026-08-21'
     code: 674658
     url: /works/674658/
+  - title: Gamers!
+    author: ramanda
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678354.jpg
+    rating: 4.4
+    date: '2026-09-05'
+    code: 678354
+    url: /works/678354/
 ---

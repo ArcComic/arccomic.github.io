@@ -1,4 +1,4 @@
-<!-- arc-comic-layout-version: 10 -->
+<!-- arc-comic-layout-version: 11 -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -146,11 +146,10 @@
         }
         // See tag.html's identical comment: Mondiad's banner.js only fills
         // [data-mndbanid] elements visible in the DOM at its initial scan,
-        // so a slot that starts display:none and is revealed later never
-        // gets filled. Fix: inject a fresh [data-mndbanid] div via JS only
-        // once ads should actually show. Also re-trigger banner.js itself
-        // via a freshly-appended <script> tag, since its async <head> scan
-        // can fire before page 2 is ever reached and there's no reveal API.
+        // so a slot pre-rendered before the JS grid exists never gets
+        // filled. Fix: inject a fresh [data-mndbanid] div via JS right
+        // after the first render, plus re-trigger banner.js itself via a
+        // freshly-appended <script> tag so its scan always sees it.
         let adsInjected = false;
         function injectAdsIfNeeded() {
             if (adsInjected) return;
@@ -175,7 +174,9 @@
             const pageWorks = sorted.slice(start, start + PER_PAGE);
             document.getElementById('worksGrid').innerHTML = buildCards(pageWorks);
 
-            if (page > 1) injectAdsIfNeeded();
+            // Ads show from page 1 onward here (the homepage stays ad-free
+            // — that split is intentional).
+            injectAdsIfNeeded();
 
             const total = Math.ceil(sorted.length / PER_PAGE);
             document.getElementById('pagination').innerHTML = buildPaginationHtml(page, total, 'render');
