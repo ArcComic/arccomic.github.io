@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "exhibitionism"
-work_count: 42
+work_count: 45
 works:
   - title: Seisozuma Netorase...
     author: maccha-neji
@@ -19,6 +19,15 @@ works:
     date: '2026-03-05'
     code: 443909
     url: /works/443909/
+  - title: Anoko wa Boku ga Suki ja Nai Boku dake ga Kizuiteta Hazu no Loli Kyonyuu
+      Jimikei Bungaku Shoujo | She Doesn't Like Me ~ I thought I was the only one~ Plain
+      Busty Bookworm Girl
+    author: nada-shio
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/482560.jpg
+    rating: 0.0
+    date: '2026-09-07'
+    code: 482560
+    url: /works/482560/
   - title: Ame no Hi wa, Honnori Chikubi
     author: hoshi-to-lucky
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/484860.jpg
@@ -262,6 +271,13 @@ works:
     date: '2026-05-27'
     code: 652801
     url: /works/652801/
+  - title: Toshoshitsu no Kedamono-tachi | Library Beasts
+    author: ohno-kanae
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654638.jpg
+    rating: 0.0
+    date: '2026-09-07'
+    code: 654638
+    url: /works/654638/
   - title: Josou Gyakunan Debusen Ketsuhame Tokoroten
     author: bonske
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/656753.jpg
@@ -313,4 +329,11 @@ works:
     date: '2026-08-28'
     code: 676189
     url: /works/676189/
+  - title: Okasaretai Kanojo - She wants fucked
+    author: itaba-hiroshi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679198.jpg
+    rating: 0.0
+    date: '2026-09-07'
+    code: 679198
+    url: /works/679198/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "hairy"
-work_count: 159
+work_count: 161
 works:
   - title: Adoration
     author: kishizuka-kenji
@@ -946,6 +946,13 @@ works:
     date: '2026-09-06'
     code: 654603
     url: /works/654603/
+  - title: Toshoshitsu no Kedamono-tachi | Library Beasts
+    author: ohno-kanae
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654638.jpg
+    rating: 0.0
+    date: '2026-09-07'
+    code: 654638
+    url: /works/654638/
   - title: A story about a shy childhood friend who can’t say no and ends up being put
       in charge of handling sexual needs.
     author: sakurayu-hal
@@ -1058,6 +1065,14 @@ works:
     date: '2026-08-23'
     code: 668880
     url: /works/668880/
+  - title: My GF (ghost friend) caught me jerking off and now she's bouncing on it CRAZY
+      STYLE
+    author: ricegnat
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/669254.jpg
+    rating: 0.0
+    date: '2026-09-07'
+    code: 669254
+    url: /works/669254/
   - title: Friend With Benefit With My Friends Mom
     author: cammy
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/671657.jpg

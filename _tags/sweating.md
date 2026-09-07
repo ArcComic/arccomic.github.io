@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sweating"
-work_count: 99
+work_count: 102
 works:
   - title: Kaisha de Iroiro | Gettin' Busy at the Office
     author: hara-shigeyuki
@@ -225,6 +225,13 @@ works:
     date: '2026-09-06'
     code: 594382
     url: /works/594382/
+  - title: SHAMAN'S SPECIAL SERVICE
+    author: raikko9
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/597388.jpg
+    rating: 0.0
+    date: '2026-09-07'
+    code: 597388
+    url: /works/597388/
   - title: Shounen yo, Watashi o Idake. 少年,抱住我
     author: torii-yoshitsuna
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/599514.jpg
@@ -607,6 +614,13 @@ works:
     date: '2026-05-26'
     code: 652667
     url: /works/652667/
+  - title: Toshoshitsu no Kedamono-tachi | Library Beasts
+    author: ohno-kanae
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654638.jpg
+    rating: 0.0
+    date: '2026-09-07'
+    code: 654638
+    url: /works/654638/
   - title: Tonari no Ayane-san Soushuuhen | My Neighbor Ayane Anthology
     author: herio
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/656319.jpg
@@ -741,4 +755,11 @@ works:
     date: '2026-09-05'
     code: 678643
     url: /works/678643/
+  - title: Katei Kyoushi no Hitsuyou na | What a Private Tutor Needs
+    author: aya-shachou-ayashi-yachiyo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679215.jpg
+    rating: 0.0
+    date: '2026-09-07'
+    code: 679215
+    url: /works/679215/
 ---

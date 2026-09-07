@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "blowjob face"
-work_count: 36
+work_count: 37
 works:
   - title: Tsuma wo Yariman ni Shimasu Shakkin no Tame desu kara.
     author: pietoro
@@ -273,4 +273,12 @@ works:
     date: '2026-09-04'
     code: 677418
     url: /works/677418/
+  - title: I'll turn a divorced woman and a nagging housewife into ripe, voluptuous
+      sex toys with their complicated pasts
+    author: gagarin-kichi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678909.jpg
+    rating: 0.0
+    date: '2026-09-07'
+    code: 678909
+    url: /works/678909/
 ---

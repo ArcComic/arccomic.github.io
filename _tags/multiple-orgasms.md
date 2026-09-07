@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "multiple orgasms"
-work_count: 62
+work_count: 70
 works:
   - title: Rako Slip!
     author: bujidearu
@@ -93,6 +93,14 @@ works:
     date: '2026-07-11'
     code: 538553
     url: /works/538553/
+  - title: Jimime na Kurokami Elf-chan ga Ecchi na Massage-ten de Seikantai Kaihatsu
+      Sarechau Ohanashi | A Plain Jane Elf's Sexy Adventure at a Massage Clinic
+    author: akane
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/542073.jpg
+    rating: 0.0
+    date: '2026-09-07'
+    code: 542073
+    url: /works/542073/
   - title: Ikemen Douki ni Otosareru Hanashi~ Ikitakunaoni Kyousei Zecchou?!
     author: hoshina-mimiwo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/560643.jpg
@@ -146,6 +154,13 @@ works:
     date: '2026-04-25'
     code: 593112
     url: /works/593112/
+  - title: SHAMAN'S SPECIAL SERVICE
+    author: raikko9
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/597388.jpg
+    rating: 0.0
+    date: '2026-09-07'
+    code: 597388
+    url: /works/597388/
   - title: Zenin Mukuwarenai Harem | A Harem Where No One Is Reciprocated
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/610041.jpg
@@ -392,6 +407,13 @@ works:
     date: '2026-05-27'
     code: 652790
     url: /works/652790/
+  - title: Toshoshitsu no Kedamono-tachi | Library Beasts
+    author: ohno-kanae
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654638.jpg
+    rating: 0.0
+    date: '2026-09-07'
+    code: 654638
+    url: /works/654638/
   - title: Tonari no Ayane-san Soushuuhen | My Neighbor Ayane Anthology
     author: herio
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/656319.jpg
@@ -421,6 +443,13 @@ works:
     date: '2026-07-07'
     code: 661890
     url: /works/661890/
+  - title: Zecchou Kenchi Appli ~Nariyamanai Netorare Tsuuchi~
+    author: sora-paprika
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662766.jpg
+    rating: 0.0
+    date: '2026-09-07'
+    code: 662766
+    url: /works/662766/
   - title: Tsuretette | Ghosts Boy Meets Girl
     author: kidoban
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/663745.jpg
@@ -436,6 +465,14 @@ works:
     date: '2026-07-15'
     code: 664191
     url: /works/664191/
+  - title: My GF (ghost friend) caught me jerking off and now she's bouncing on it CRAZY
+      STYLE
+    author: ricegnat
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/669254.jpg
+    rating: 0.0
+    date: '2026-09-07'
+    code: 669254
+    url: /works/669254/
   - title: Soen ni Natteta Osananajimi ga Okuchi Onaho Gayoi Shite Kuru Mikkakan | Three
       Days Treating My Estranged Friend As An Oral Fuckhole
     author: poncocchan
@@ -444,6 +481,13 @@ works:
     date: '2026-08-31'
     code: 669505
     url: /works/669505/
+  - title: Hanamizuki Vol.4
+    author: rocinante
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/672835.jpg
+    rating: 0.0
+    date: '2026-09-07'
+    code: 672835
+    url: /works/672835/
   - title: Tenshi Hirotta kara Haramaseru ~Ojii-san Senyou Botebara Onaho ni Naru made
       no Kiroku~ | I Met an Angel, and then I Knocked Her Up ~A Record of Becoming Oji-san’s
       Personal Preggo Belly Onahole~
@@ -467,4 +511,18 @@ works:
     date: '2026-08-29'
     code: 676352
     url: /works/676352/
+  - title: Katei Kyoushi no Hitsuyou na | What a Private Tutor Needs
+    author: aya-shachou-ayashi-yachiyo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679215.jpg
+    rating: 0.0
+    date: '2026-09-07'
+    code: 679215
+    url: /works/679215/
+  - title: Enjo Kouhai 12
+    author: takunomi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679230.jpg
+    rating: 4.3
+    date: '2026-09-07'
+    code: 679230
+    url: /works/679230/
 ---

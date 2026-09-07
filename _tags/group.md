@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "group"
-work_count: 118
+work_count: 125
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -584,6 +584,13 @@ works:
     date: '2026-07-07'
     code: 653978
     url: /works/653978/
+  - title: Ore no kanojo wa kosupureiya
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654812.jpg
+    rating: 4.1
+    date: '2026-09-07'
+    code: 654812
+    url: /works/654812/
   - title: A story about a shy childhood friend who can’t say no and ends up being put
       in charge of handling sexual needs.
     author: sakurayu-hal
@@ -673,6 +680,13 @@ works:
     date: '2026-07-11'
     code: 663130
     url: /works/663130/
+  - title: Panpan Travelers Kochi Shuudan Rape Ryokou
+    author: raidon
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/663497.jpg
+    rating: 0.0
+    date: '2026-09-07'
+    code: 663497
+    url: /works/663497/
   - title: It was supposed to be a story about two people who loved each other but her
       best friend stole his virginity
     author: meisuke
@@ -867,4 +881,41 @@ works:
     date: '2026-09-05'
     code: 678643
     url: /works/678643/
+  - title: Aimai na Bokura 3 Kanojo wa Tabun, Korekara Mechakucha Sex Suru
+    author: tsukuyomi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678802.jpg
+    rating: 0.0
+    date: '2026-09-07'
+    code: 678802
+    url: /works/678802/
+  - title: I'll turn a divorced woman and a nagging housewife into ripe, voluptuous
+      sex toys with their complicated pasts
+    author: gagarin-kichi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678909.jpg
+    rating: 0.0
+    date: '2026-09-07'
+    code: 678909
+    url: /works/678909/
+  - title: Animator, Iede Shoujo o Hirou. - An Animator Gathers a Girl Who Has Run Away
+      From Home
+    author: itaba-hiroshi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679193.jpg
+    rating: 0.0
+    date: '2026-09-07'
+    code: 679193
+    url: /works/679193/
+  - title: Okasareta Hitozuma
+    author: itaba-hiroshi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679197.jpg
+    rating: 0.0
+    date: '2026-09-07'
+    code: 679197
+    url: /works/679197/
+  - title: Okasaretai Kanojo - She wants fucked
+    author: itaba-hiroshi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679198.jpg
+    rating: 0.0
+    date: '2026-09-07'
+    code: 679198
+    url: /works/679198/
 ---

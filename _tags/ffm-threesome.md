@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "ffm threesome"
-work_count: 71
+work_count: 73
 works:
   - title: Hustle! Danchizuma Ch. 1-18 END
     author: hidemaru
@@ -526,4 +526,19 @@ works:
     date: '2026-09-05'
     code: 678643
     url: /works/678643/
+  - title: Aimai na Bokura 3 Kanojo wa Tabun, Korekara Mechakucha Sex Suru
+    author: tsukuyomi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678802.jpg
+    rating: 0.0
+    date: '2026-09-07'
+    code: 678802
+    url: /works/678802/
+  - title: I'll turn a divorced woman and a nagging housewife into ripe, voluptuous
+      sex toys with their complicated pasts
+    author: gagarin-kichi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678909.jpg
+    rating: 0.0
+    date: '2026-09-07'
+    code: 678909
+    url: /works/678909/
 ---

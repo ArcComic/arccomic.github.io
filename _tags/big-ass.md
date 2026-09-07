@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big ass"
-work_count: 120
+work_count: 122
 works:
   - title: My Care Lady Ch. 1
     author: sugi-g
@@ -741,6 +741,13 @@ works:
     date: '2026-07-16'
     code: 664831
     url: /works/664831/
+  - title: Okoranaide Hoshikawa-san 3 | Hey, Hold your Horses, Hoshikawa-san! 3
+    author: raidon
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/667857.jpg
+    rating: 0.0
+    date: '2026-09-07'
+    code: 667857
+    url: /works/667857/
   - title: Gohoubi wa Karada de. ~Ero-sugi Fukuri Kousei wa Seishori-ka no Oshigoto~
       (2) | The Reward is the Body ~The Overly Lewd Employee Benefits of the Service
       Department~
@@ -878,6 +885,14 @@ works:
     date: '2026-09-05'
     code: 678678
     url: /works/678678/
+  - title: I'll turn a divorced woman and a nagging housewife into ripe, voluptuous
+      sex toys with their complicated pasts
+    author: gagarin-kichi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678909.jpg
+    rating: 0.0
+    date: '2026-09-07'
+    code: 678909
+    url: /works/678909/
   - title: The story of how the person I thought was a man on social media turned out
       to be a tall woman who was unfriendly but would let me do whatever I wanted to
       her

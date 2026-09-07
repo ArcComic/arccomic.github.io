@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "snuff"
-work_count: 10
+work_count: 11
 works:
   - title: Dirty Deeds Done Dirt Cheap
     author: mr-kurz
@@ -73,4 +73,11 @@ works:
     date: '2026-07-17'
     code: 664770
     url: /works/664770/
+  - title: Okasareta Hitozuma
+    author: itaba-hiroshi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679197.jpg
+    rating: 0.0
+    date: '2026-09-07'
+    code: 679197
+    url: /works/679197/
 ---

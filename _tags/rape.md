@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "rape"
-work_count: 135
+work_count: 137
 works:
   - title: Tsuma no Imouto no Danna ga Ie ni Kiteiruyoudesu | My Sister-In-Law's Husband
       is Over
@@ -819,6 +819,13 @@ works:
     date: '2026-07-09'
     code: 662647
     url: /works/662647/
+  - title: Panpan Travelers Kochi Shuudan Rape Ryokou
+    author: raidon
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/663497.jpg
+    rating: 0.0
+    date: '2026-09-07'
+    code: 663497
+    url: /works/663497/
   - title: Kyouiku Mama Musuko no Chinpo ni Kyouiku Sareru
     author: himegoto-jukujo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/663622.jpg
@@ -913,6 +920,13 @@ works:
     date: '2026-08-25'
     code: 672450
     url: /works/672450/
+  - title: Hanamizuki Vol.4
+    author: rocinante
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/672835.jpg
+    rating: 0.0
+    date: '2026-09-07'
+    code: 672835
+    url: /works/672835/
   - title: Ichigun Joshi no Otoshikata "Zenpen" - Corrupting the Queen Bee | Corrupting
       the Queen Bee Part 1
     author: gar

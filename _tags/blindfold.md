@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "blindfold"
-work_count: 18
+work_count: 19
 works:
   - title: Okki na Saori-chan wa Bukiyou ni Eroi
     author: aramaki-echizen
@@ -113,6 +113,13 @@ works:
     date: '2026-08-21'
     code: 672241
     url: /works/672241/
+  - title: Hanamizuki Vol.4
+    author: rocinante
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/672835.jpg
+    rating: 0.0
+    date: '2026-09-07'
+    code: 672835
+    url: /works/672835/
   - title: TS Kyoudai
     author: kagamino-mochiko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/674587.jpg

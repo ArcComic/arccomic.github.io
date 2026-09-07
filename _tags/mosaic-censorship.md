@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "mosaic censorship"
-work_count: 183
+work_count: 184
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -1274,6 +1274,13 @@ works:
     date: '2026-08-25'
     code: 672450
     url: /works/672450/
+  - title: Hanamizuki Vol.4
+    author: rocinante
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/672835.jpg
+    rating: 0.0
+    date: '2026-09-07'
+    code: 672835
+    url: /works/672835/
   - title: A Mother Who Had Sex With Her Daughter's Boyfriend
     author: cammy
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673900.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "multi-work series"
-work_count: 209
+work_count: 213
 works:
   - title: Oppai na Natsuyasumi 2 | The Summer Break of Boobs 2
     author: higashino-mikan
@@ -1279,6 +1279,13 @@ works:
     date: '2026-07-08'
     code: 662343
     url: /works/662343/
+  - title: Zecchou Kenchi Appli ~Nariyamanai Netorare Tsuuchi~
+    author: sora-paprika
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662766.jpg
+    rating: 0.0
+    date: '2026-09-07'
+    code: 662766
+    url: /works/662766/
   - title: Hahaoya to Sex Shita Kibun wa Dou? | How Does it Feel to have Sex with your
       Mom?
     author: temperature
@@ -1363,6 +1370,13 @@ works:
     date: '2026-09-04'
     code: 669459
     url: /works/669459/
+  - title: Hanamizuki Vol.4
+    author: rocinante
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/672835.jpg
+    rating: 0.0
+    date: '2026-09-07'
+    code: 672835
+    url: /works/672835/
   - title: Ichigun Joshi no Otoshikata "Zenpen" - Corrupting the Queen Bee | Corrupting
       the Queen Bee Part 1
     author: gar
@@ -1567,4 +1581,18 @@ works:
     date: '2026-09-05'
     code: 678648
     url: /works/678648/
+  - title: Aimai na Bokura 3 Kanojo wa Tabun, Korekara Mechakucha Sex Suru
+    author: tsukuyomi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678802.jpg
+    rating: 0.0
+    date: '2026-09-07'
+    code: 678802
+    url: /works/678802/
+  - title: Enjo Kouhai 12
+    author: takunomi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679230.jpg
+    rating: 4.3
+    date: '2026-09-07'
+    code: 679230
+    url: /works/679230/
 ---

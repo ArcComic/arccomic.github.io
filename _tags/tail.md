@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "tail"
-work_count: 11
+work_count: 12
 works:
   - title: CHOCO x LOVE
     author: highlow
@@ -46,6 +46,14 @@ works:
     date: '2026-07-16'
     code: 664590
     url: /works/664590/
+  - title: My GF (ghost friend) caught me jerking off and now she's bouncing on it CRAZY
+      STYLE
+    author: ricegnat
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/669254.jpg
+    rating: 0.0
+    date: '2026-09-07'
+    code: 669254
+    url: /works/669254/
   - title: Nayotake Kaguya no Himegoto
     author: yukino-minato
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673992.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "glasses"
-work_count: 147
+work_count: 153
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -212,6 +212,15 @@ works:
     date: '2026-04-14'
     code: 478446
     url: /works/478446/
+  - title: Anoko wa Boku ga Suki ja Nai Boku dake ga Kizuiteta Hazu no Loli Kyonyuu
+      Jimikei Bungaku Shoujo | She Doesn't Like Me ~ I thought I was the only one~ Plain
+      Busty Bookworm Girl
+    author: nada-shio
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/482560.jpg
+    rating: 0.0
+    date: '2026-09-07'
+    code: 482560
+    url: /works/482560/
   - title: Ame no Hi wa, Honnori Chikubi
     author: hoshi-to-lucky
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/484860.jpg
@@ -324,6 +333,14 @@ works:
     date: '2026-04-19'
     code: 534663
     url: /works/534663/
+  - title: Jimime na Kurokami Elf-chan ga Ecchi na Massage-ten de Seikantai Kaihatsu
+      Sarechau Ohanashi | A Plain Jane Elf's Sexy Adventure at a Massage Clinic
+    author: akane
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/542073.jpg
+    rating: 0.0
+    date: '2026-09-07'
+    code: 542073
+    url: /works/542073/
   - title: Minpaku ~Ojou-sama-tachi wa Minpaku Keieisha no Wana ni Ochiru~ | Sleeping
       in the Bed and Breakfast - Young ladies fall into the trap of a private lodging
       manager
@@ -770,6 +787,13 @@ works:
     date: '2026-05-26'
     code: 652218
     url: /works/652218/
+  - title: Toshoshitsu no Kedamono-tachi | Library Beasts
+    author: ohno-kanae
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654638.jpg
+    rating: 0.0
+    date: '2026-09-07'
+    code: 654638
+    url: /works/654638/
   - title: Tonari no Ayane-san Soushuuhen | My Neighbor Ayane Anthology
     author: herio
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/656319.jpg
@@ -944,6 +968,13 @@ works:
     date: '2026-08-20'
     code: 669452
     url: /works/669452/
+  - title: Hanamizuki Vol.4
+    author: rocinante
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/672835.jpg
+    rating: 0.0
+    date: '2026-09-07'
+    code: 672835
+    url: /works/672835/
   - title: ENG AI Translated [Hanpatsu Zokusei] Mayu-chan EP 1 - 4
     author: hanpatsu-zokusei-mejikara-scene
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673485.jpg
@@ -1072,6 +1103,21 @@ works:
     date: '2026-08-31'
     code: 677234
     url: /works/677234/
+  - title: I'll turn a divorced woman and a nagging housewife into ripe, voluptuous
+      sex toys with their complicated pasts
+    author: gagarin-kichi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678909.jpg
+    rating: 0.0
+    date: '2026-09-07'
+    code: 678909
+    url: /works/678909/
+  - title: Katei Kyoushi no Hitsuyou na | What a Private Tutor Needs
+    author: aya-shachou-ayashi-yachiyo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679215.jpg
+    rating: 0.0
+    date: '2026-09-07'
+    code: 679215
+    url: /works/679215/
   - title: Hottokenaino
     author: hara-shigeyuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/77864.jpg

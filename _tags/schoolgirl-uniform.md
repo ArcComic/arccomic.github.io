@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "schoolgirl uniform"
-work_count: 174
+work_count: 180
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -156,6 +156,15 @@ works:
     date: '2026-04-15'
     code: 471998
     url: /works/471998/
+  - title: Anoko wa Boku ga Suki ja Nai Boku dake ga Kizuiteta Hazu no Loli Kyonyuu
+      Jimikei Bungaku Shoujo | She Doesn't Like Me ~ I thought I was the only one~ Plain
+      Busty Bookworm Girl
+    author: nada-shio
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/482560.jpg
+    rating: 0.0
+    date: '2026-09-07'
+    code: 482560
+    url: /works/482560/
   - title: Risato
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/484852.jpg
@@ -897,6 +906,13 @@ works:
     date: '2026-07-07'
     code: 653978
     url: /works/653978/
+  - title: Toshoshitsu no Kedamono-tachi | Library Beasts
+    author: ohno-kanae
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654638.jpg
+    rating: 0.0
+    date: '2026-09-07'
+    code: 654638
+    url: /works/654638/
   - title: Karada ga Binkan Sugiru Watashi wa Itoko ni Itazura sarete mo Teikoudekinai!
     author: romomata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/655421.jpg
@@ -1095,6 +1111,13 @@ works:
     date: '2026-07-17'
     code: 664926
     url: /works/664926/
+  - title: Okoranaide Hoshikawa-san 3 | Hey, Hold your Horses, Hoshikawa-san! 3
+    author: raidon
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/667857.jpg
+    rating: 0.0
+    date: '2026-09-07'
+    code: 667857
+    url: /works/667857/
   - title: Ichigun Joshi no Otoshikata "Zenpen" - Corrupting the Queen Bee | Corrupting
       the Queen Bee Part 1
     author: gar
@@ -1296,4 +1319,26 @@ works:
     date: '2026-09-05'
     code: 678718
     url: /works/678718/
+  - title: Aimai na Bokura 3 Kanojo wa Tabun, Korekara Mechakucha Sex Suru
+    author: tsukuyomi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678802.jpg
+    rating: 0.0
+    date: '2026-09-07'
+    code: 678802
+    url: /works/678802/
+  - title: Kuro Gal no Ongaeshi -Shachiku Oji ga Kasshoku Kyonyuu Gal o Nanpa kara Tasuketara
+      Icha Love Junai Koubi shita Hanashi-
+    author: galvalume-kouhan
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679072.jpg
+    rating: 0.0
+    date: '2026-09-07'
+    code: 679072
+    url: /works/679072/
+  - title: Okasaretai Kanojo - She wants fucked
+    author: itaba-hiroshi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679198.jpg
+    rating: 0.0
+    date: '2026-09-07'
+    code: 679198
+    url: /works/679198/
 ---

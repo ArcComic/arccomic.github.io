@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole male"
-work_count: 475
+work_count: 482
 works:
   - title: Adoration
     author: kishizuka-kenji
@@ -807,6 +807,14 @@ works:
     date: '2026-05-10'
     code: 540125
     url: /works/540125/
+  - title: Jimime na Kurokami Elf-chan ga Ecchi na Massage-ten de Seikantai Kaihatsu
+      Sarechau Ohanashi | A Plain Jane Elf's Sexy Adventure at a Massage Clinic
+    author: akane
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/542073.jpg
+    rating: 0.0
+    date: '2026-09-07'
+    code: 542073
+    url: /works/542073/
   - title: Ally-san wa doko demo ikitai!! 2
     author: inukami-inoji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/542190.jpg
@@ -1275,6 +1283,13 @@ works:
     date: '2026-08-25'
     code: 595108
     url: /works/595108/
+  - title: SHAMAN'S SPECIAL SERVICE
+    author: raikko9
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/597388.jpg
+    rating: 0.0
+    date: '2026-09-07'
+    code: 597388
+    url: /works/597388/
   - title: Hajimete no DomiSub ~Match App de Mitsuketa Goshujin-sama ni Jinsei Bukkowashite
       Moraimasu~
     author: nemui-neru
@@ -2588,6 +2603,13 @@ works:
     date: '2026-09-06'
     code: 654603
     url: /works/654603/
+  - title: Toshoshitsu no Kedamono-tachi | Library Beasts
+    author: ohno-kanae
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654638.jpg
+    rating: 0.0
+    date: '2026-09-07'
+    code: 654638
+    url: /works/654638/
   - title: Haha to Osake Nondara erai Kotoninarimashita
     author: matsumoto-jikyuuryoku
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/655291.jpg
@@ -3499,6 +3521,14 @@ works:
     date: '2026-09-05'
     code: 678678
     url: /works/678678/
+  - title: I'll turn a divorced woman and a nagging housewife into ripe, voluptuous
+      sex toys with their complicated pasts
+    author: gagarin-kichi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678909.jpg
+    rating: 0.0
+    date: '2026-09-07'
+    code: 678909
+    url: /works/678909/
   - title: The story of how the person I thought was a man on social media turned out
       to be a tall woman who was unfriendly but would let me do whatever I wanted to
       her
@@ -3515,4 +3545,26 @@ works:
     date: '2026-09-06'
     code: 678916
     url: /works/678916/
+  - title: Kuro Gal no Ongaeshi -Shachiku Oji ga Kasshoku Kyonyuu Gal o Nanpa kara Tasuketara
+      Icha Love Junai Koubi shita Hanashi-
+    author: galvalume-kouhan
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679072.jpg
+    rating: 0.0
+    date: '2026-09-07'
+    code: 679072
+    url: /works/679072/
+  - title: Katei Kyoushi no Hitsuyou na | What a Private Tutor Needs
+    author: aya-shachou-ayashi-yachiyo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679215.jpg
+    rating: 0.0
+    date: '2026-09-07'
+    code: 679215
+    url: /works/679215/
+  - title: Enjo Kouhai 12
+    author: takunomi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679230.jpg
+    rating: 4.3
+    date: '2026-09-07'
+    code: 679230
+    url: /works/679230/
 ---

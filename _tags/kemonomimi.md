@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "kemonomimi"
-work_count: 16
+work_count: 18
 works:
   - title: CHOCO x LOVE
     author: highlow
@@ -92,6 +92,14 @@ works:
     date: '2026-07-16'
     code: 664642
     url: /works/664642/
+  - title: My GF (ghost friend) caught me jerking off and now she's bouncing on it CRAZY
+      STYLE
+    author: ricegnat
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/669254.jpg
+    rating: 0.0
+    date: '2026-09-07'
+    code: 669254
+    url: /works/669254/
   - title: Totsuzen Ane ga Dekita Hanashi 4 | The Story of How I Suddenly Got Older
       Sisters 4
     author: oshima-aki
@@ -121,4 +129,11 @@ works:
     date: '2026-08-22'
     code: 674950
     url: /works/674950/
+  - title: Katei Kyoushi no Hitsuyou na | What a Private Tutor Needs
+    author: aya-shachou-ayashi-yachiyo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679215.jpg
+    rating: 0.0
+    date: '2026-09-07'
+    code: 679215
+    url: /works/679215/
 ---

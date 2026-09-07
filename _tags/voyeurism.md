@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "voyeurism"
-work_count: 29
+work_count: 31
 works:
   - title: Boku no Kazoku o Sarashimasu Ch. 3
     author: tanaka-aji
@@ -74,6 +74,15 @@ works:
     date: '2026-04-13'
     code: 471387
     url: /works/471387/
+  - title: Anoko wa Boku ga Suki ja Nai Boku dake ga Kizuiteta Hazu no Loli Kyonyuu
+      Jimikei Bungaku Shoujo | She Doesn't Like Me ~ I thought I was the only one~ Plain
+      Busty Bookworm Girl
+    author: nada-shio
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/482560.jpg
+    rating: 0.0
+    date: '2026-09-07'
+    code: 482560
+    url: /works/482560/
   - title: Boku no Chuugoku Bijin Slender Kyonyuu Tsuma ga Camera Model de Nugasarete
       Yarichin Tomo ni Netorareta Ken
     author: mitoreiyu
@@ -202,6 +211,13 @@ works:
     date: '2026-05-26'
     code: 652606
     url: /works/652606/
+  - title: Toshoshitsu no Kedamono-tachi | Library Beasts
+    author: ohno-kanae
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654638.jpg
+    rating: 0.0
+    date: '2026-09-07'
+    code: 654638
+    url: /works/654638/
   - title: Totsuzen Ane ga Dekita Hanashi 4 | The Story of How I Suddenly Got Older
       Sisters 4
     author: oshima-aki

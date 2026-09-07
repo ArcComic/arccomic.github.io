@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "mmf threesome"
-work_count: 25
+work_count: 30
 works:
   - title: Hitozuma Hyakka
     author: hase-tsubura
@@ -140,6 +140,13 @@ works:
     date: '2026-05-10'
     code: 649068
     url: /works/649068/
+  - title: Ore no kanojo wa kosupureiya
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654812.jpg
+    rating: 4.1
+    date: '2026-09-07'
+    code: 654812
+    url: /works/654812/
   - title: A story about a shy childhood friend who can’t say no and ends up being put
       in charge of handling sexual needs.
     author: sakurayu-hal
@@ -162,6 +169,13 @@ works:
     date: '2026-07-11'
     code: 663056
     url: /works/663056/
+  - title: Panpan Travelers Kochi Shuudan Rape Ryokou
+    author: raidon
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/663497.jpg
+    rating: 0.0
+    date: '2026-09-07'
+    code: 663497
+    url: /works/663497/
   - title: 12-Nenkan Chinpo Tachishiteta Shin Mama ga Musuko no Dōkyūsei ni Netorare
       Tanetsuke Oho Akume de Mesu no Yorokobi ni Ochita Hi
     author: unknown
@@ -184,4 +198,26 @@ works:
     date: '2026-08-29'
     code: 676325
     url: /works/676325/
+  - title: Aimai na Bokura 3 Kanojo wa Tabun, Korekara Mechakucha Sex Suru
+    author: tsukuyomi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678802.jpg
+    rating: 0.0
+    date: '2026-09-07'
+    code: 678802
+    url: /works/678802/
+  - title: Animator, Iede Shoujo o Hirou. - An Animator Gathers a Girl Who Has Run Away
+      From Home
+    author: itaba-hiroshi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679193.jpg
+    rating: 0.0
+    date: '2026-09-07'
+    code: 679193
+    url: /works/679193/
+  - title: Okasaretai Kanojo - She wants fucked
+    author: itaba-hiroshi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679198.jpg
+    rating: 0.0
+    date: '2026-09-07'
+    code: 679198
+    url: /works/679198/
 ---

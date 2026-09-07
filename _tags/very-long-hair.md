@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "very long hair"
-work_count: 31
+work_count: 35
 works:
   - title: Koi no Susumekata | How to Advance Your Love
     author: danimaru
@@ -39,6 +39,13 @@ works:
     date: '2026-04-16'
     code: 592744
     url: /works/592744/
+  - title: SHAMAN'S SPECIAL SERVICE
+    author: raikko9
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/597388.jpg
+    rating: 0.0
+    date: '2026-09-07'
+    code: 597388
+    url: /works/597388/
   - title: Astrantia
     author: kyougoku-shin
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/598156.jpg
@@ -129,6 +136,13 @@ works:
     date: '2026-05-20'
     code: 651303
     url: /works/651303/
+  - title: Toshoshitsu no Kedamono-tachi | Library Beasts
+    author: ohno-kanae
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654638.jpg
+    rating: 0.0
+    date: '2026-09-07'
+    code: 654638
+    url: /works/654638/
   - title: Fallen 2
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662873.jpg
@@ -158,6 +172,14 @@ works:
     date: '2026-08-28'
     code: 668605
     url: /works/668605/
+  - title: My GF (ghost friend) caught me jerking off and now she's bouncing on it CRAZY
+      STYLE
+    author: ricegnat
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/669254.jpg
+    rating: 0.0
+    date: '2026-09-07'
+    code: 669254
+    url: /works/669254/
   - title: Totsuzen Ane ga Dekita Hanashi 4 | The Story of How I Suddenly Got Older
       Sisters 4
     author: oshima-aki
@@ -238,4 +260,11 @@ works:
     date: '2026-09-04'
     code: 677731
     url: /works/677731/
+  - title: Katei Kyoushi no Hitsuyou na | What a Private Tutor Needs
+    author: aya-shachou-ayashi-yachiyo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679215.jpg
+    rating: 0.0
+    date: '2026-09-07'
+    code: 679215
+    url: /works/679215/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "masturbation"
-work_count: 73
+work_count: 75
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -479,6 +479,14 @@ works:
     date: '2026-07-16'
     code: 664845
     url: /works/664845/
+  - title: My GF (ghost friend) caught me jerking off and now she's bouncing on it CRAZY
+      STYLE
+    author: ricegnat
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/669254.jpg
+    rating: 0.0
+    date: '2026-09-07'
+    code: 669254
+    url: /works/669254/
   - title: Totsuzen Ane ga Dekita Hanashi 4 | The Story of How I Suddenly Got Older
       Sisters 4
     author: oshima-aki
@@ -547,4 +555,12 @@ works:
     date: '2026-09-05'
     code: 678354
     url: /works/678354/
+  - title: '108P! ~1-nengo ni Zettai 108P Suru Hanashi~ (108P!: A Promise to 108P in
+      a Year) 01'
+    author: en
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679225.jpg
+    rating: 0.0
+    date: '2026-09-07'
+    code: 679225
+    url: /works/679225/
 ---

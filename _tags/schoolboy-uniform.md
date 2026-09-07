@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "schoolboy uniform"
-work_count: 48
+work_count: 52
 works:
   - title: FLUFFY LAUGH GIRL
     author: shibasaki-syouzi
@@ -83,6 +83,15 @@ works:
     date: '2026-04-23'
     code: 448503
     url: /works/448503/
+  - title: Anoko wa Boku ga Suki ja Nai Boku dake ga Kizuiteta Hazu no Loli Kyonyuu
+      Jimikei Bungaku Shoujo | She Doesn't Like Me ~ I thought I was the only one~ Plain
+      Busty Bookworm Girl
+    author: nada-shio
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/482560.jpg
+    rating: 0.0
+    date: '2026-09-07'
+    code: 482560
+    url: /works/482560/
   - title: Gal to no Asobikata | How to Have Fun With Gyarus!
     author: buta
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/531967.jpg
@@ -245,6 +254,13 @@ works:
     date: '2026-05-26'
     code: 652244
     url: /works/652244/
+  - title: Toshoshitsu no Kedamono-tachi | Library Beasts
+    author: ohno-kanae
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654638.jpg
+    rating: 0.0
+    date: '2026-09-07'
+    code: 654638
+    url: /works/654638/
   - title: A story about a shy childhood friend who can’t say no and ends up being put
       in charge of handling sexual needs.
     author: sakurayu-hal
@@ -349,6 +365,20 @@ works:
     date: '2026-08-31'
     code: 677230
     url: /works/677230/
+  - title: Aimai na Bokura 3 Kanojo wa Tabun, Korekara Mechakucha Sex Suru
+    author: tsukuyomi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678802.jpg
+    rating: 0.0
+    date: '2026-09-07'
+    code: 678802
+    url: /works/678802/
+  - title: Okasaretai Kanojo - She wants fucked
+    author: itaba-hiroshi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679198.jpg
+    rating: 0.0
+    date: '2026-09-07'
+    code: 679198
+    url: /works/679198/
   - title: Jokyoushi - Hot For Teachers | Female Teachers
     author: drill-murata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/81375.jpg

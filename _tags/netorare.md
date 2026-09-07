@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "netorare"
-work_count: 224
+work_count: 232
 works:
   - title: Hitozuma Hyakka
     author: hase-tsubura
@@ -320,6 +320,15 @@ works:
     date: '2026-04-14'
     code: 478446
     url: /works/478446/
+  - title: Anoko wa Boku ga Suki ja Nai Boku dake ga Kizuiteta Hazu no Loli Kyonyuu
+      Jimikei Bungaku Shoujo | She Doesn't Like Me ~ I thought I was the only one~ Plain
+      Busty Bookworm Girl
+    author: nada-shio
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/482560.jpg
+    rating: 0.0
+    date: '2026-09-07'
+    code: 482560
+    url: /works/482560/
   - title: Ijime no Daishou wa Hahaoya no Karada de.
     author: daidai-shikibu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/482859.jpg
@@ -1249,6 +1258,13 @@ works:
     date: '2026-08-22'
     code: 654484
     url: /works/654484/
+  - title: Ore no kanojo wa kosupureiya
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654812.jpg
+    rating: 4.1
+    date: '2026-09-07'
+    code: 654812
+    url: /works/654812/
   - title: A story about a shy childhood friend who can’t say no and ends up being put
       in charge of handling sexual needs.
     author: sakurayu-hal
@@ -1364,6 +1380,13 @@ works:
     date: '2026-07-09'
     code: 662657
     url: /works/662657/
+  - title: Zecchou Kenchi Appli ~Nariyamanai Netorare Tsuuchi~
+    author: sora-paprika
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662766.jpg
+    rating: 0.0
+    date: '2026-09-07'
+    code: 662766
+    url: /works/662766/
   - title: Joukyou, Saikai, Sex Akogare no Haru-nee
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662871.jpg
@@ -1417,6 +1440,13 @@ works:
     date: '2026-07-11'
     code: 663287
     url: /works/663287/
+  - title: Panpan Travelers Kochi Shuudan Rape Ryokou
+    author: raidon
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/663497.jpg
+    rating: 0.0
+    date: '2026-09-07'
+    code: 663497
+    url: /works/663497/
   - title: 12-Nenkan Chinpo Tachishiteta Shin Mama ga Musuko no Dōkyūsei ni Netorare
       Tanetsuke Oho Akume de Mesu no Yorokobi ni Ochita Hi
     author: unknown
@@ -1519,6 +1549,13 @@ works:
     date: '2026-08-25'
     code: 672450
     url: /works/672450/
+  - title: Hanamizuki Vol.4
+    author: rocinante
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/672835.jpg
+    rating: 0.0
+    date: '2026-09-07'
+    code: 672835
+    url: /works/672835/
   - title: Ichigun Joshi no Otoshikata "Zenpen" - Corrupting the Queen Bee | Corrupting
       the Queen Bee Part 1
     author: gar
@@ -1646,6 +1683,28 @@ works:
     date: '2026-09-05'
     code: 678720
     url: /works/678720/
+  - title: Aimai na Bokura 3 Kanojo wa Tabun, Korekara Mechakucha Sex Suru
+    author: tsukuyomi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678802.jpg
+    rating: 0.0
+    date: '2026-09-07'
+    code: 678802
+    url: /works/678802/
+  - title: I'll turn a divorced woman and a nagging housewife into ripe, voluptuous
+      sex toys with their complicated pasts
+    author: gagarin-kichi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678909.jpg
+    rating: 0.0
+    date: '2026-09-07'
+    code: 678909
+    url: /works/678909/
+  - title: Okasareta Hitozuma
+    author: itaba-hiroshi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679197.jpg
+    rating: 0.0
+    date: '2026-09-07'
+    code: 679197
+    url: /works/679197/
   - title: Inin Keiyaku | Lewd Pregnancy Contract
     author: yoshiura-kazuya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/83595.jpg

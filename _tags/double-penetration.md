@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "double penetration"
-work_count: 22
+work_count: 23
 works:
   - title: Hitozuma Hyakka
     author: hase-tsubura
@@ -152,6 +152,13 @@ works:
     date: '2026-08-29'
     code: 676325
     url: /works/676325/
+  - title: Okasareta Hitozuma
+    author: itaba-hiroshi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679197.jpg
+    rating: 0.0
+    date: '2026-09-07'
+    code: 679197
+    url: /works/679197/
   - title: Hottokenaino
     author: hara-shigeyuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/77864.jpg

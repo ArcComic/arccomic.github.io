@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bisexual"
-work_count: 22
+work_count: 23
 works:
   - title: Gal ni Houkago Oppai Sawatte ku? te Sasowareru Hanashi | That Time Gyarus
       Asked Me to Grope their Tits After Class
@@ -167,4 +167,11 @@ works:
     date: '2026-08-29'
     code: 676425
     url: /works/676425/
+  - title: Aimai na Bokura 3 Kanojo wa Tabun, Korekara Mechakucha Sex Suru
+    author: tsukuyomi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678802.jpg
+    rating: 0.0
+    date: '2026-09-07'
+    code: 678802
+    url: /works/678802/
 ---

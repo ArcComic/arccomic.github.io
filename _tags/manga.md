@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "manga"
-work_count: 211
+work_count: 215
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -1505,6 +1505,36 @@ works:
     date: '2026-09-05'
     code: 678664
     url: /works/678664/
+  - title: Animator, Iede Shoujo o Hirou. - An Animator Gathers a Girl Who Has Run Away
+      From Home
+    author: itaba-hiroshi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679193.jpg
+    rating: 0.0
+    date: '2026-09-07'
+    code: 679193
+    url: /works/679193/
+  - title: Okasareta Hitozuma
+    author: itaba-hiroshi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679197.jpg
+    rating: 0.0
+    date: '2026-09-07'
+    code: 679197
+    url: /works/679197/
+  - title: Okasaretai Kanojo - She wants fucked
+    author: itaba-hiroshi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679198.jpg
+    rating: 0.0
+    date: '2026-09-07'
+    code: 679198
+    url: /works/679198/
+  - title: '108P! ~1-nengo ni Zettai 108P Suru Hanashi~ (108P!: A Promise to 108P in
+      a Year) 01'
+    author: en
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679225.jpg
+    rating: 0.0
+    date: '2026-09-07'
+    code: 679225
+    url: /works/679225/
   - title: Hottokenaino
     author: hara-shigeyuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/77864.jpg

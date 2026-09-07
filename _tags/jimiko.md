@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "jimiko"
-work_count: 8
+work_count: 11
 works:
   - title: Hito o Dame ni Suru Choi Busu ~Kao 40-ten, Karada 120-ten no Kanojo~
     author: special-g
@@ -10,6 +10,15 @@ works:
     date: '2026-03-05'
     code: 414892
     url: /works/414892/
+  - title: Anoko wa Boku ga Suki ja Nai Boku dake ga Kizuiteta Hazu no Loli Kyonyuu
+      Jimikei Bungaku Shoujo | She Doesn't Like Me ~ I thought I was the only one~ Plain
+      Busty Bookworm Girl
+    author: nada-shio
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/482560.jpg
+    rating: 0.0
+    date: '2026-09-07'
+    code: 482560
+    url: /works/482560/
   - title: Jimi Kyonyuu No Stalker Onna Ni Gokuhaku Saretanode Yarimakutte Mita Hanashi
       | I Was Confessed To By A Plain Busty Stalker Girl, So I Fucked Her Like Crazy
     author: hiyori-hamster
@@ -27,6 +36,14 @@ works:
     date: '2026-04-23'
     code: 534641
     url: /works/534641/
+  - title: Jimime na Kurokami Elf-chan ga Ecchi na Massage-ten de Seikantai Kaihatsu
+      Sarechau Ohanashi | A Plain Jane Elf's Sexy Adventure at a Massage Clinic
+    author: akane
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/542073.jpg
+    rating: 0.0
+    date: '2026-09-07'
+    code: 542073
+    url: /works/542073/
   - title: 'Sex with My Otaku Friend is Mind-blowing: Miyoshi''s Turn'
     author: alp
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/633834.jpg
@@ -64,4 +81,11 @@ works:
     date: '2026-04-30'
     code: 646986
     url: /works/646986/
+  - title: Toshoshitsu no Kedamono-tachi | Library Beasts
+    author: ohno-kanae
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654638.jpg
+    rating: 0.0
+    date: '2026-09-07'
+    code: 654638
+    url: /works/654638/
 ---

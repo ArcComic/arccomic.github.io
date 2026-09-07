@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "dark skin"
-work_count: 80
+work_count: 82
 works:
   - title: GalPa!
     author: sakagami-umi
@@ -147,6 +147,15 @@ works:
     date: '2026-07-16'
     code: 464371
     url: /works/464371/
+  - title: Anoko wa Boku ga Suki ja Nai Boku dake ga Kizuiteta Hazu no Loli Kyonyuu
+      Jimikei Bungaku Shoujo | She Doesn't Like Me ~ I thought I was the only one~ Plain
+      Busty Bookworm Girl
+    author: nada-shio
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/482560.jpg
+    rating: 0.0
+    date: '2026-09-07'
+    code: 482560
+    url: /works/482560/
   - title: Obedience Part 1
     author: laliberte
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/501709.jpg
@@ -586,4 +595,12 @@ works:
     date: '2026-09-05'
     code: 678678
     url: /works/678678/
+  - title: Kuro Gal no Ongaeshi -Shachiku Oji ga Kasshoku Kyonyuu Gal o Nanpa kara Tasuketara
+      Icha Love Junai Koubi shita Hanashi-
+    author: galvalume-kouhan
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679072.jpg
+    rating: 0.0
+    date: '2026-09-07'
+    code: 679072
+    url: /works/679072/
 ---

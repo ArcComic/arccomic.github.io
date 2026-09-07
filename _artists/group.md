@@ -1,7 +1,7 @@
 ---
 layout: artist
 artist_name: "group"
-work_count: 17
+work_count: 18
 works:
   - title: Itabasami na Wakachi Ai 4 | Love Divided Between a Rock and a Hard Place
       4
@@ -100,6 +100,12 @@ works:
     date: '2026-05-26'
     code: 652605
     url: /works/652605/
+  - title: Ore no kanojo wa kosupureiya
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654812.jpg
+    rating: 4.1
+    date: '2026-09-07'
+    code: 654812
+    url: /works/654812/
   - title: Shinyuu Tatakitsubushi Kyousou Shiiku Seikatsu | A Life in Captivity The
       Competition to Break My Best Friend
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/661586.jpg

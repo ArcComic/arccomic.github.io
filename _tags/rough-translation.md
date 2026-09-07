@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "rough translation"
-work_count: 335
+work_count: 347
 works:
   - title: Watashi no Karada, Okashi Shimasu. Bunny Girl Edition
     author: nectar
@@ -1280,6 +1280,13 @@ works:
     date: '2026-08-24'
     code: 654689
     url: /works/654689/
+  - title: Ore no kanojo wa kosupureiya
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654812.jpg
+    rating: 4.1
+    date: '2026-09-07'
+    code: 654812
+    url: /works/654812/
   - title: Boshi Soukan no Hajimari
     author: kuruto
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/655202.jpg
@@ -1674,6 +1681,13 @@ works:
     date: '2026-07-09'
     code: 662550
     url: /works/662550/
+  - title: Zecchou Kenchi Appli ~Nariyamanai Netorare Tsuuchi~
+    author: sora-paprika
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662766.jpg
+    rating: 0.0
+    date: '2026-09-07'
+    code: 662766
+    url: /works/662766/
   - title: Joukyou, Saikai, Sex Akogare no Haru-nee
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662871.jpg
@@ -1717,6 +1731,13 @@ works:
     date: '2026-07-11'
     code: 663142
     url: /works/663142/
+  - title: Panpan Travelers Kochi Shuudan Rape Ryokou
+    author: raidon
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/663497.jpg
+    rating: 0.0
+    date: '2026-09-07'
+    code: 663497
+    url: /works/663497/
   - title: 12-Nenkan Chinpo Tachishiteta Shin Mama ga Musuko no Dōkyūsei ni Netorare
       Tanetsuke Oho Akume de Mesu no Yorokobi ni Ochita Hi
     author: unknown
@@ -1885,6 +1906,13 @@ works:
     date: '2026-08-24'
     code: 666532
     url: /works/666532/
+  - title: Okoranaide Hoshikawa-san 3 | Hey, Hold your Horses, Hoshikawa-san! 3
+    author: raidon
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/667857.jpg
+    rating: 0.0
+    date: '2026-09-07'
+    code: 667857
+    url: /works/667857/
   - title: Black Kigyou No Kamin Shitsu Ga Yari Beya Ni Natteta Hanashi
     author: oshima-aki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/668297.jpg
@@ -1913,6 +1941,13 @@ works:
     date: '2026-08-25'
     code: 672450
     url: /works/672450/
+  - title: Hanamizuki Vol.4
+    author: rocinante
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/672835.jpg
+    rating: 0.0
+    date: '2026-09-07'
+    code: 672835
+    url: /works/672835/
   - title: ENG AI Translated [Hanpatsu Zokusei] Mayu-chan EP 1 - 4
     author: hanpatsu-zokusei-mejikara-scene
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673485.jpg
@@ -2437,6 +2472,21 @@ works:
     date: '2026-09-05'
     code: 678720
     url: /works/678720/
+  - title: Aimai na Bokura 3 Kanojo wa Tabun, Korekara Mechakucha Sex Suru
+    author: tsukuyomi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678802.jpg
+    rating: 0.0
+    date: '2026-09-07'
+    code: 678802
+    url: /works/678802/
+  - title: I'll turn a divorced woman and a nagging housewife into ripe, voluptuous
+      sex toys with their complicated pasts
+    author: gagarin-kichi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678909.jpg
+    rating: 0.0
+    date: '2026-09-07'
+    code: 678909
+    url: /works/678909/
   - title: The story of how the person I thought was a man on social media turned out
       to be a tall woman who was unfriendly but would let me do whatever I wanted to
       her
@@ -2446,4 +2496,41 @@ works:
     date: '2026-09-06'
     code: 678913
     url: /works/678913/
+  - title: Kuro Gal no Ongaeshi -Shachiku Oji ga Kasshoku Kyonyuu Gal o Nanpa kara Tasuketara
+      Icha Love Junai Koubi shita Hanashi-
+    author: galvalume-kouhan
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679072.jpg
+    rating: 0.0
+    date: '2026-09-07'
+    code: 679072
+    url: /works/679072/
+  - title: Animator, Iede Shoujo o Hirou. - An Animator Gathers a Girl Who Has Run Away
+      From Home
+    author: itaba-hiroshi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679193.jpg
+    rating: 0.0
+    date: '2026-09-07'
+    code: 679193
+    url: /works/679193/
+  - title: Okasareta Hitozuma
+    author: itaba-hiroshi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679197.jpg
+    rating: 0.0
+    date: '2026-09-07'
+    code: 679197
+    url: /works/679197/
+  - title: Okasaretai Kanojo - She wants fucked
+    author: itaba-hiroshi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679198.jpg
+    rating: 0.0
+    date: '2026-09-07'
+    code: 679198
+    url: /works/679198/
+  - title: Enjo Kouhai 12
+    author: takunomi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679230.jpg
+    rating: 4.3
+    date: '2026-09-07'
+    code: 679230
+    url: /works/679230/
 ---

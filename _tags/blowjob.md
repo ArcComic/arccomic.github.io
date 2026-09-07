@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "blowjob"
-work_count: 354
+work_count: 359
 works:
   - title: Love Approach
     author: hanafuda-sakurano
@@ -948,6 +948,13 @@ works:
     date: '2026-05-07'
     code: 596598
     url: /works/596598/
+  - title: SHAMAN'S SPECIAL SERVICE
+    author: raikko9
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/597388.jpg
+    rating: 0.0
+    date: '2026-09-07'
+    code: 597388
+    url: /works/597388/
   - title: Kouen no Oji-san-tachi ni Moteasobaretai
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/598010.jpg
@@ -2281,6 +2288,13 @@ works:
     date: '2026-07-17'
     code: 664937
     url: /works/664937/
+  - title: Okoranaide Hoshikawa-san 3 | Hey, Hold your Horses, Hoshikawa-san! 3
+    author: raidon
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/667857.jpg
+    rating: 0.0
+    date: '2026-09-07'
+    code: 667857
+    url: /works/667857/
   - title: Niizuma Nanaka no Roshutsu Office
     author: fukurou-naru-tori
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/668605.jpg
@@ -2297,6 +2311,14 @@ works:
     date: '2026-08-19'
     code: 668867
     url: /works/668867/
+  - title: My GF (ghost friend) caught me jerking off and now she's bouncing on it CRAZY
+      STYLE
+    author: ricegnat
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/669254.jpg
+    rating: 0.0
+    date: '2026-09-07'
+    code: 669254
+    url: /works/669254/
   - title: Totsuzen Ane ga Dekita Hanashi 4 | The Story of How I Suddenly Got Older
       Sisters 4
     author: oshima-aki
@@ -2610,6 +2632,21 @@ works:
     date: '2026-09-05'
     code: 678720
     url: /works/678720/
+  - title: Aimai na Bokura 3 Kanojo wa Tabun, Korekara Mechakucha Sex Suru
+    author: tsukuyomi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678802.jpg
+    rating: 0.0
+    date: '2026-09-07'
+    code: 678802
+    url: /works/678802/
+  - title: I'll turn a divorced woman and a nagging housewife into ripe, voluptuous
+      sex toys with their complicated pasts
+    author: gagarin-kichi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678909.jpg
+    rating: 0.0
+    date: '2026-09-07'
+    code: 678909
+    url: /works/678909/
   - title: The story of how the person I thought was a man on social media turned out
       to be a tall woman who was unfriendly but would let me do whatever I wanted to
       her

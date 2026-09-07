@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "inseki"
-work_count: 43
+work_count: 44
 works:
   - title: Kindan no Hatemitsu
     author: ryuuta
@@ -319,4 +319,11 @@ works:
     date: '2026-08-31'
     code: 676658
     url: /works/676658/
+  - title: Okasareta Hitozuma
+    author: itaba-hiroshi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679197.jpg
+    rating: 0.0
+    date: '2026-09-07'
+    code: 679197
+    url: /works/679197/
 ---

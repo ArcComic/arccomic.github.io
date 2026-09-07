@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "drugs"
-work_count: 21
+work_count: 23
 works:
   - title: NTR Anniversary + ) [Syukurin] Mitsuha ~Netorare~ (Kimi no Na wa.) [English]
       [Colorized] by Mikaku
@@ -34,6 +34,14 @@ works:
     date: '2026-05-01'
     code: 529365
     url: /works/529365/
+  - title: Jimime na Kurokami Elf-chan ga Ecchi na Massage-ten de Seikantai Kaihatsu
+      Sarechau Ohanashi | A Plain Jane Elf's Sexy Adventure at a Massage Clinic
+    author: akane
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/542073.jpg
+    rating: 0.0
+    date: '2026-09-07'
+    code: 542073
+    url: /works/542073/
   - title: Ikemen Douki ni Otosareru Hanashi~ Ikitakunaoni Kyousei Zecchou?!
     author: hoshina-mimiwo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/560643.jpg
@@ -154,6 +162,13 @@ works:
     date: '2026-09-05'
     code: 678720
     url: /works/678720/
+  - title: Okasareta Hitozuma
+    author: itaba-hiroshi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679197.jpg
+    rating: 0.0
+    date: '2026-09-07'
+    code: 679197
+    url: /works/679197/
   - title: Inin Keiyaku | Lewd Pregnancy Contract
     author: yoshiura-kazuya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/83595.jpg

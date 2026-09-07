@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "facesitting"
-work_count: 9
+work_count: 10
 works:
   - title: Yuri no o saifu ni shite agemasu ne, Senpai | I'll turn you into Yuri's wallet,
       Senpai
@@ -73,4 +73,11 @@ works:
     date: '2026-09-04'
     code: 677731
     url: /works/677731/
+  - title: Okasareta Hitozuma
+    author: itaba-hiroshi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679197.jpg
+    rating: 0.0
+    date: '2026-09-07'
+    code: 679197
+    url: /works/679197/
 ---

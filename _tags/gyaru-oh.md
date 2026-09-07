@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "gyaru-oh"
-work_count: 13
+work_count: 14
 works:
   - title: Netorare Ibe Kiba Shizuka
     author: terasu-mc
@@ -74,6 +74,13 @@ works:
     date: '2026-05-21'
     code: 651499
     url: /works/651499/
+  - title: Zecchou Kenchi Appli ~Nariyamanai Netorare Tsuuchi~
+    author: sora-paprika
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662766.jpg
+    rating: 0.0
+    date: '2026-09-07'
+    code: 662766
+    url: /works/662766/
   - title: Azanaharu Kanojo no Shikiroku | Color Records of a Girlfriend in Entanglement
     author: allegro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/669452.jpg

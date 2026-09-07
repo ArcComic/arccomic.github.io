@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "facial hair"
-work_count: 19
+work_count: 20
 works:
   - title: Asuna-san ga Agil ni Netorareru Ohanashi
     author: fujimiya-siryu
@@ -144,4 +144,11 @@ works:
     date: '2026-07-17'
     code: 664770
     url: /works/664770/
+  - title: Hanamizuki Vol.4
+    author: rocinante
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/672835.jpg
+    rating: 0.0
+    date: '2026-09-07'
+    code: 672835
+    url: /works/672835/
 ---

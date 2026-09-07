@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bondage"
-work_count: 45
+work_count: 47
 works:
   - title: CHOCO x LOVE
     author: highlow
@@ -280,6 +280,13 @@ works:
     date: '2026-07-17'
     code: 664937
     url: /works/664937/
+  - title: Hanamizuki Vol.4
+    author: rocinante
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/672835.jpg
+    rating: 0.0
+    date: '2026-09-07'
+    code: 672835
+    url: /works/672835/
   - title: Bitch Girls
     author: itou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/674701.jpg
@@ -337,4 +344,11 @@ works:
     date: '2026-09-05'
     code: 678720
     url: /works/678720/
+  - title: Okasareta Hitozuma
+    author: itaba-hiroshi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679197.jpg
+    rating: 0.0
+    date: '2026-09-07'
+    code: 679197
+    url: /works/679197/
 ---

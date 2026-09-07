@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "horns"
-work_count: 8
+work_count: 9
 works:
   - title: Kichiku Kyoushi ni Otosareta Boku no Seitokaichou Part.3
     author: norakuro-nero
@@ -60,4 +60,11 @@ works:
     date: '2026-08-22'
     code: 674863
     url: /works/674863/
+  - title: Enjo Kouhai 12
+    author: takunomi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679230.jpg
+    rating: 4.3
+    date: '2026-09-07'
+    code: 679230
+    url: /works/679230/
 ---
