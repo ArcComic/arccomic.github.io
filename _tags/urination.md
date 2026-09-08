@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "urination"
-work_count: 30
+work_count: 31
 works:
   - title: Boku no Kazoku o Sarashimasu Ch. 3
     author: tanaka-aji
@@ -55,6 +55,15 @@ works:
     date: '2026-07-09'
     code: 537476
     url: /works/537476/
+  - title: Wagaya no Housemaid Bridget Sei no Gohoushi ~Danro Souji kara Kozukuri made~
+      /  My Housemaid Bridget's Sexual Service ~ Everything From Fireplace Cleaning,
+      To Babymaking
+    author: onizuka-frill
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/548015.jpg
+    rating: 0.0
+    date: '2026-09-08'
+    code: 548015
+    url: /works/548015/
   - title: Ore wa Yome ni Sakaraenai... Seiheki o Nigirareteiru | I Can't Say No To
       My Wife... She's Got Me By The Balls!
     author: inu

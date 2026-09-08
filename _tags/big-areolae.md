@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big areolae"
-work_count: 52
+work_count: 54
 works:
   - title: Kanojo no Kawaii Mieppari | My Cute Gyaru Girlfriend Is a Total Poser
     author: buta
@@ -55,6 +55,15 @@ works:
     date: '2026-07-15'
     code: 544477
     url: /works/544477/
+  - title: Wagaya no Housemaid Bridget Sei no Gohoushi ~Danro Souji kara Kozukuri made~
+      /  My Housemaid Bridget's Sexual Service ~ Everything From Fireplace Cleaning,
+      To Babymaking
+    author: onizuka-frill
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/548015.jpg
+    rating: 0.0
+    date: '2026-09-08'
+    code: 548015
+    url: /works/548015/
   - title: Gokinjo Trouble ni wa Gochuui o | Watch Out For Trouble in Your Neighborhood
     author: hotate-chan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/553426.jpg
@@ -78,6 +87,15 @@ works:
     date: '2026-04-23'
     code: 584579
     url: /works/584579/
+  - title: Boku no Nurse Maid Isabella no Fudeoroshi ~Ochichi ga Goshomou nara Tanezuke
+      kudasaimashi~ | My Nursemaid Isabella's First Time ~ If You Desire, Please Impregnate
+      Me ~
+    author: onizuka-frill
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/589229.jpg
+    rating: 0.0
+    date: '2026-09-08'
+    code: 589229
+    url: /works/589229/
   - title: Kyoushi to Mama to Koibito no Kao
     author: mifune-seijirou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/592307.jpg
@@ -392,7 +410,7 @@ works:
       Icha Love Junai Koubi shita Hanashi-
     author: galvalume-kouhan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679072.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-07'
     code: 679072
     url: /works/679072/

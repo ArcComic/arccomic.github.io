@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "huge breasts"
-work_count: 48
+work_count: 50
 works:
   - title: Soubo Soukan | Twin Mother Incest Ch. 1
     author: nanao-yukiji
@@ -24,6 +24,13 @@ works:
     date: '2026-04-25'
     code: 388099
     url: /works/388099/
+  - title: Kaachan wa Ore no... | Mom is My...  Chapter 1-3
+    author: jirou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/415046.jpg
+    rating: 0.0
+    date: '2026-09-08'
+    code: 415046
+    url: /works/415046/
   - title: Keitai de Muchimuchi na Chounyuu JD ni Chinpo o Shigoki Agete Morau Hanashi
     author: yosyo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/531191.jpg
@@ -75,6 +82,13 @@ works:
     date: '2026-08-25'
     code: 611978
     url: /works/611978/
+  - title: Kyonyuu no Tomodachi to Tsukiau made no Hanashi Gojitsudan
+    author: fuguta-ke
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/616896.jpg
+    rating: 0.0
+    date: '2026-09-08'
+    code: 616896
+    url: /works/616896/
   - title: Fuyu-san wa Sotsugyou Shitai | Fuyu-san Wants to Lose Her V-Card
     author: kurihara-kenshirou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/619405.jpg
@@ -287,7 +301,7 @@ works:
   - title: Okoranaide Hoshikawa-san 3 | Hey, Hold your Horses, Hoshikawa-san! 3
     author: raidon
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/667857.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-07'
     code: 667857
     url: /works/667857/
@@ -348,7 +362,7 @@ works:
       sex toys with their complicated pasts
     author: gagarin-kichi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678909.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-09-07'
     code: 678909
     url: /works/678909/

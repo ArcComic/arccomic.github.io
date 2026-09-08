@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "gyaru"
-work_count: 68
+work_count: 69
 works:
   - title: GalPa!
     author: sakagami-umi
@@ -505,8 +505,15 @@ works:
       Icha Love Junai Koubi shita Hanashi-
     author: galvalume-kouhan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679072.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-07'
     code: 679072
     url: /works/679072/
+  - title: Dokidoki, Yada! | No Way! Stop Playing With My Heart!
+    author: ekakibit
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679368.jpg
+    rating: 0.0
+    date: '2026-09-08'
+    code: 679368
+    url: /works/679368/
 ---

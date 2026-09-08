@@ -1,8 +1,17 @@
 ---
 layout: tag
 tag_name: "piss drinking"
-work_count: 4
+work_count: 5
 works:
+  - title: Wagaya no Housemaid Bridget Sei no Gohoushi ~Danro Souji kara Kozukuri made~
+      /  My Housemaid Bridget's Sexual Service ~ Everything From Fireplace Cleaning,
+      To Babymaking
+    author: onizuka-frill
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/548015.jpg
+    rating: 0.0
+    date: '2026-09-08'
+    code: 548015
+    url: /works/548015/
   - title: Tada Sex Shitakatta dake nano ni SNS de Deatta Bimajo ga Scatolo Mania de,
       Boku wa... 1
     author: bonske

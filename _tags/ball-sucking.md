@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "ball sucking"
-work_count: 16
+work_count: 17
 works:
   - title: 'Kouen no Bench ni Suwatteru Kirei na Onee-san ga Boku ni "Ochinchin o Misete"
       to Itte Kuru no de... | A Pretty Onee-San, that''s sitting on a Bench in the Park...suddenly
@@ -122,4 +122,11 @@ works:
     date: '2026-08-23'
     code: 674984
     url: /works/674984/
+  - title: Dokidoki, Yada! | No Way! Stop Playing With My Heart!
+    author: ekakibit
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679368.jpg
+    rating: 0.0
+    date: '2026-09-08'
+    code: 679368
+    url: /works/679368/
 ---

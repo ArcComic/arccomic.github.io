@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "spanking"
-work_count: 3
+work_count: 4
 works:
   - title: You're My Doggy... Right? ~Pamper Loving Boyfriend Becomes A Wild Sadist
       Hound~
@@ -26,4 +26,12 @@ works:
     date: '2026-07-15'
     code: 664188
     url: /works/664188/
+  - title: 'Futago Maid no Clara to Cola: Sei no Mezame! | Awakening of Sex: Twin Maids
+      Clara and Cora'
+    author: onizuka-frill
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679488.jpg
+    rating: 0.0
+    date: '2026-09-08'
+    code: 679488
+    url: /works/679488/
 ---

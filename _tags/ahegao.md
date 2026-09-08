@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "ahegao"
-work_count: 175
+work_count: 178
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -296,6 +296,15 @@ works:
     date: '2026-04-12'
     code: 544368
     url: /works/544368/
+  - title: Wagaya no Housemaid Bridget Sei no Gohoushi ~Danro Souji kara Kozukuri made~
+      /  My Housemaid Bridget's Sexual Service ~ Everything From Fireplace Cleaning,
+      To Babymaking
+    author: onizuka-frill
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/548015.jpg
+    rating: 0.0
+    date: '2026-09-08'
+    code: 548015
+    url: /works/548015/
   - title: Gokinjo Trouble ni wa Gochuui o | Watch Out For Trouble in Your Neighborhood
     author: hotate-chan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/553426.jpg
@@ -1145,7 +1154,7 @@ works:
       STYLE
     author: ricegnat
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/669254.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-07'
     code: 669254
     url: /works/669254/
@@ -1287,24 +1296,39 @@ works:
       From Home
     author: itaba-hiroshi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679193.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-07'
     code: 679193
     url: /works/679193/
   - title: Okasareta Hitozuma
     author: itaba-hiroshi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679197.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-07'
     code: 679197
     url: /works/679197/
   - title: Katei Kyoushi no Hitsuyou na | What a Private Tutor Needs
     author: aya-shachou-ayashi-yachiyo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679215.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-07'
     code: 679215
     url: /works/679215/
+  - title: Homestay Saki no Mama-san ga Boku no Dekamara de Ikimakutta Hanashi | The
+      story of how the mom at my homestay came over and over on my huge cock
+    author: minegami-aya
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679358.jpg
+    rating: 0.0
+    date: '2026-09-08'
+    code: 679358
+    url: /works/679358/
+  - title: Dokidoki, Yada! | No Way! Stop Playing With My Heart!
+    author: ekakibit
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679368.jpg
+    rating: 0.0
+    date: '2026-09-08'
+    code: 679368
+    url: /works/679368/
   - title: Inin Keiyaku | Lewd Pregnancy Contract
     author: yoshiura-kazuya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/83595.jpg

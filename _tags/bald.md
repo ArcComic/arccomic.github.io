@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bald"
-work_count: 41
+work_count: 42
 works:
   - title: Overwrite
     author: ojo
@@ -305,4 +305,12 @@ works:
     date: '2026-08-21'
     code: 674608
     url: /works/674608/
+  - title: Homestay Saki no Mama-san ga Boku no Dekamara de Ikimakutta Hanashi | The
+      story of how the mom at my homestay came over and over on my huge cock
+    author: minegami-aya
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679358.jpg
+    rating: 0.0
+    date: '2026-09-08'
+    code: 679358
+    url: /works/679358/
 ---

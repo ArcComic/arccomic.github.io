@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "pixie cut"
-work_count: 31
+work_count: 32
 works:
   - title: Doushia (Terasu MC)] Dorei Gazoku
     author: terasu-mc
@@ -74,6 +74,13 @@ works:
     date: '2026-04-25'
     code: 593754
     url: /works/593754/
+  - title: Kyonyuu no Tomodachi to Tsukiau made no Hanashi Gojitsudan
+    author: fuguta-ke
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/616896.jpg
+    rating: 0.0
+    date: '2026-09-08'
+    code: 616896
+    url: /works/616896/
   - title: Rikujoubu no Boyish na Osananajimi ga suru Dare ni mo Ienai Koto | The Secret
       Activity of My Boyish Childhood Friend from the Track Team
     author: harufumi

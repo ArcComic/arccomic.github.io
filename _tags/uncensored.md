@@ -128,7 +128,7 @@ works:
       Sarechau Ohanashi | A Plain Jane Elf's Sexy Adventure at a Massage Clinic
     author: akane
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/542073.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-07'
     code: 542073
     url: /works/542073/
@@ -218,7 +218,7 @@ works:
   - title: SHAMAN'S SPECIAL SERVICE
     author: raikko9
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/597388.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-07'
     code: 597388
     url: /works/597388/
@@ -426,7 +426,7 @@ works:
   - title: Toshoshitsu no Kedamono-tachi | Library Beasts
     author: ohno-kanae
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654638.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-07'
     code: 654638
     url: /works/654638/
@@ -490,7 +490,7 @@ works:
       STYLE
     author: ricegnat
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/669254.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-07'
     code: 669254
     url: /works/669254/
@@ -557,7 +557,7 @@ works:
   - title: Katei Kyoushi no Hitsuyou na | What a Private Tutor Needs
     author: aya-shachou-ayashi-yachiyo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679215.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-07'
     code: 679215
     url: /works/679215/

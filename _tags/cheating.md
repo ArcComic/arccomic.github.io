@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "cheating"
-work_count: 203
+work_count: 205
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -247,6 +247,13 @@ works:
     date: '2026-04-27'
     code: 414206
     url: /works/414206/
+  - title: Kaachan wa Ore no... | Mom is My...  Chapter 1-3
+    author: jirou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/415046.jpg
+    rating: 0.0
+    date: '2026-09-08'
+    code: 415046
+    url: /works/415046/
   - title: Nigiyaka na Rinjin | Lively Neighbors
     author: syuuen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/415060.jpg
@@ -1360,7 +1367,7 @@ works:
   - title: Hanamizuki Vol.4
     author: rocinante
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/672835.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-07'
     code: 672835
     url: /works/672835/
@@ -1475,7 +1482,7 @@ works:
       sex toys with their complicated pasts
     author: gagarin-kichi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678909.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-09-07'
     code: 678909
     url: /works/678909/
@@ -1486,6 +1493,14 @@ works:
     date: '2026-09-06'
     code: 678916
     url: /works/678916/
+  - title: Homestay Saki no Mama-san ga Boku no Dekamara de Ikimakutta Hanashi | The
+      story of how the mom at my homestay came over and over on my huge cock
+    author: minegami-aya
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679358.jpg
+    rating: 0.0
+    date: '2026-09-08'
+    code: 679358
+    url: /works/679358/
   - title: Jokyoushi - Hot For Teachers | Female Teachers
     author: drill-murata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/81375.jpg

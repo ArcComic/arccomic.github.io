@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "milf"
-work_count: 267
+work_count: 272
 works:
   - title: Life with Married Women Just Like a Manga 2 - Ch. 1-5
     author: hidemaru
@@ -10,6 +10,13 @@ works:
     date: '2026-07-08'
     code: 116138
     url: /works/116138/
+  - title: Office Love Scramble Ch. 1
+    author: tohzai
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/131165.jpg
+    rating: 0.0
+    date: '2026-09-08'
+    code: 131165
+    url: /works/131165/
   - title: My Care Lady Ch. 1
     author: sugi-g
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/139537.jpg
@@ -89,6 +96,13 @@ works:
     date: '2026-04-13'
     code: 272352
     url: /works/272352/
+  - title: Hikki Mother Fucker
+    author: otochichi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/287208.jpg
+    rating: 0.0
+    date: '2026-09-08'
+    code: 287208
+    url: /works/287208/
   - title: Oppai na Natsuyasumi 2 | The Summer Break of Boobs 2
     author: higashino-mikan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/292454.jpg
@@ -262,6 +276,13 @@ works:
     date: '2026-04-27'
     code: 414206
     url: /works/414206/
+  - title: Kaachan wa Ore no... | Mom is My...  Chapter 1-3
+    author: jirou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/415046.jpg
+    rating: 0.0
+    date: '2026-09-08'
+    code: 415046
+    url: /works/415046/
   - title: Seisozuma Netorase...
     author: maccha-neji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/415906.jpg
@@ -951,6 +972,15 @@ works:
     date: '2026-03-07'
     code: 588713
     url: /works/588713/
+  - title: Boku no Nurse Maid Isabella no Fudeoroshi ~Ochichi ga Goshomou nara Tanezuke
+      kudasaimashi~ | My Nursemaid Isabella's First Time ~ If You Desire, Please Impregnate
+      Me ~
+    author: onizuka-frill
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/589229.jpg
+    rating: 0.0
+    date: '2026-09-08'
+    code: 589229
+    url: /works/589229/
   - title: 母さんはホームヘルパー〜部屋の片付けから性欲処理まで
     author: '41'
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/592285.jpg
@@ -1719,7 +1749,7 @@ works:
   - title: Panpan Travelers Kochi Shuudan Rape Ryokou
     author: raidon
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/663497.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-07'
     code: 663497
     url: /works/663497/
@@ -1932,7 +1962,7 @@ works:
       sex toys with their complicated pasts
     author: gagarin-kichi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678909.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-09-07'
     code: 678909
     url: /works/678909/
@@ -1946,10 +1976,18 @@ works:
   - title: Okasareta Hitozuma
     author: itaba-hiroshi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679197.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-07'
     code: 679197
     url: /works/679197/
+  - title: Homestay Saki no Mama-san ga Boku no Dekamara de Ikimakutta Hanashi | The
+      story of how the mom at my homestay came over and over on my huge cock
+    author: minegami-aya
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679358.jpg
+    rating: 0.0
+    date: '2026-09-08'
+    code: 679358
+    url: /works/679358/
   - title: Jokyoushi - Hot For Teachers | Female Teachers
     author: drill-murata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/81375.jpg

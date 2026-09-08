@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "garter belt"
-work_count: 19
+work_count: 21
 works:
   - title: Kaisha de Iroiro | Gettin' Busy at the Office
     author: hara-shigeyuki
@@ -10,6 +10,13 @@ works:
     date: '2026-04-19'
     code: 110835
     url: /works/110835/
+  - title: Office Love Scramble Ch. 1
+    author: tohzai
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/131165.jpg
+    rating: 0.0
+    date: '2026-09-08'
+    code: 131165
+    url: /works/131165/
   - title: Maid no Oshigoto. II | Maid's Work II
     author: alexi-laiho
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/296282.jpg
@@ -61,6 +68,15 @@ works:
     date: '2026-04-19'
     code: 569195
     url: /works/569195/
+  - title: Boku no Nurse Maid Isabella no Fudeoroshi ~Ochichi ga Goshomou nara Tanezuke
+      kudasaimashi~ | My Nursemaid Isabella's First Time ~ If You Desire, Please Impregnate
+      Me ~
+    author: onizuka-frill
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/589229.jpg
+    rating: 0.0
+    date: '2026-09-08'
+    code: 589229
+    url: /works/589229/
   - title: Tannin no Meido ni Nacchatta KURO GAL 2 | The Black Gal Who Became The Homeroom
       Teacher's Maid 2
     author: ootsuka-kotora

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big ass"
-work_count: 122
+work_count: 124
 works:
   - title: My Care Lady Ch. 1
     author: sugi-g
@@ -82,6 +82,13 @@ works:
     date: '2026-03-05'
     code: 414892
     url: /works/414892/
+  - title: Kaachan wa Ore no... | Mom is My...  Chapter 1-3
+    author: jirou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/415046.jpg
+    rating: 0.0
+    date: '2026-09-08'
+    code: 415046
+    url: /works/415046/
   - title: Yasashii Oba-san Yarashii Oba-san | Kind Lady, Dirty Lady Ch. 1-3
     author: hidemaru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/421874.jpg
@@ -213,6 +220,15 @@ works:
     date: '2026-05-03'
     code: 588660
     url: /works/588660/
+  - title: Boku no Nurse Maid Isabella no Fudeoroshi ~Ochichi ga Goshomou nara Tanezuke
+      kudasaimashi~ | My Nursemaid Isabella's First Time ~ If You Desire, Please Impregnate
+      Me ~
+    author: onizuka-frill
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/589229.jpg
+    rating: 0.0
+    date: '2026-09-08'
+    code: 589229
+    url: /works/589229/
   - title: Kyoushi to Mama to Koibito no Kao
     author: mifune-seijirou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/592307.jpg
@@ -744,7 +760,7 @@ works:
   - title: Okoranaide Hoshikawa-san 3 | Hey, Hold your Horses, Hoshikawa-san! 3
     author: raidon
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/667857.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-07'
     code: 667857
     url: /works/667857/
@@ -889,7 +905,7 @@ works:
       sex toys with their complicated pasts
     author: gagarin-kichi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678909.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-09-07'
     code: 678909
     url: /works/678909/

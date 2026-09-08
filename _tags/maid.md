@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "maid"
-work_count: 13
+work_count: 16
 works:
   - title: Maid no Oshigoto. II | Maid's Work II
     author: alexi-laiho
@@ -17,6 +17,15 @@ works:
     date: '2026-07-11'
     code: 501709
     url: /works/501709/
+  - title: Wagaya no Housemaid Bridget Sei no Gohoushi ~Danro Souji kara Kozukuri made~
+      /  My Housemaid Bridget's Sexual Service ~ Everything From Fireplace Cleaning,
+      To Babymaking
+    author: onizuka-frill
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/548015.jpg
+    rating: 0.0
+    date: '2026-09-08'
+    code: 548015
+    url: /works/548015/
   - title: Ero Cos OL to Jiraikei Joshi ~Iki Nuresaseru Moto Kare no Amai Koshi Zukai~
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/548852.jpg
@@ -24,6 +33,15 @@ works:
     date: '2026-04-23'
     code: 548852
     url: /works/548852/
+  - title: Boku no Nurse Maid Isabella no Fudeoroshi ~Ochichi ga Goshomou nara Tanezuke
+      kudasaimashi~ | My Nursemaid Isabella's First Time ~ If You Desire, Please Impregnate
+      Me ~
+    author: onizuka-frill
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/589229.jpg
+    rating: 0.0
+    date: '2026-09-08'
+    code: 589229
+    url: /works/589229/
   - title: Mesu no Ie II ~Tsuma wa Midare Ubareru~
     author: ame-arare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/591112.jpg
@@ -91,6 +109,14 @@ works:
     date: '2026-08-21'
     code: 674639
     url: /works/674639/
+  - title: 'Futago Maid no Clara to Cola: Sei no Mezame! | Awakening of Sex: Twin Maids
+      Clara and Cora'
+    author: onizuka-frill
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679488.jpg
+    rating: 0.0
+    date: '2026-09-08'
+    code: 679488
+    url: /works/679488/
   - title: Hottokenaino
     author: hara-shigeyuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/77864.jpg

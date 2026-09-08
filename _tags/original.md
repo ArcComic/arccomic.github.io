@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "original"
-work_count: 601
+work_count: 610
 works:
   - title: Natsu dake Koibito - Summer only Lover [English] =Forbidden Fetish + Ser
       Maggot=
@@ -467,6 +467,14 @@ works:
     date: '2026-04-25'
     code: 463298
     url: /works/463298/
+  - title: Onee-chan to Torokeru Kimochi SP 2 | The Melting Feeling with Onee-chan SP
+      2
+    author: sky
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/464903.jpg
+    rating: 0.0
+    date: '2026-09-08'
+    code: 464903
+    url: /works/464903/
   - title: Yarareru kanojo - Hitozumajoushi ManaNTR -
     author: tokyo-gunjo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/465602.jpg
@@ -544,7 +552,7 @@ works:
       Busty Bookworm Girl
     author: nada-shio
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/482560.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-07'
     code: 482560
     url: /works/482560/
@@ -931,7 +939,7 @@ works:
       Sarechau Ohanashi | A Plain Jane Elf's Sexy Adventure at a Massage Clinic
     author: akane
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/542073.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-07'
     code: 542073
     url: /works/542073/
@@ -1009,6 +1017,15 @@ works:
     date: '2026-07-17'
     code: 547393
     url: /works/547393/
+  - title: Wagaya no Housemaid Bridget Sei no Gohoushi ~Danro Souji kara Kozukuri made~
+      /  My Housemaid Bridget's Sexual Service ~ Everything From Fireplace Cleaning,
+      To Babymaking
+    author: onizuka-frill
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/548015.jpg
+    rating: 0.0
+    date: '2026-09-08'
+    code: 548015
+    url: /works/548015/
   - title: Choukyou Zumi Hitozuma OL wa Joushi ni Dakare Futatabi Ochiru
     author: toono-suika
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/550164.jpg
@@ -1401,6 +1418,15 @@ works:
     date: '2026-04-15'
     code: 589010
     url: /works/589010/
+  - title: Boku no Nurse Maid Isabella no Fudeoroshi ~Ochichi ga Goshomou nara Tanezuke
+      kudasaimashi~ | My Nursemaid Isabella's First Time ~ If You Desire, Please Impregnate
+      Me ~
+    author: onizuka-frill
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/589229.jpg
+    rating: 0.0
+    date: '2026-09-08'
+    code: 589229
+    url: /works/589229/
   - title: Mesu no Ie II ~Tsuma wa Midare Ubareru~
     author: ame-arare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/591112.jpg
@@ -1705,6 +1731,13 @@ works:
     date: '2026-04-27'
     code: 616533
     url: /works/616533/
+  - title: Kyonyuu no Tomodachi to Tsukiau made no Hanashi Gojitsudan
+    author: fuguta-ke
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/616896.jpg
+    rating: 0.0
+    date: '2026-09-08'
+    code: 616896
+    url: /works/616896/
   - title: Shanai no Himegoto ~Stress Kaishou ni Kaisha no Toilet de Onani shite itara,
       Kouhai ni Kikarete shimatte ita Hanashi~ | Workplace Rendezvous ~Caught Masturbating
       in the Company Restroom by My Subordinate~
@@ -3108,7 +3141,7 @@ works:
   - title: Toshoshitsu no Kedamono-tachi | Library Beasts
     author: ohno-kanae
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654638.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-07'
     code: 654638
     url: /works/654638/
@@ -3254,6 +3287,13 @@ works:
     date: '2026-08-22'
     code: 659484
     url: /works/659484/
+  - title: Chubby Nurse
+    author: herohero-tom
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/659643.jpg
+    rating: 0.0
+    date: '2026-09-08'
+    code: 659643
+    url: /works/659643/
   - title: Nige Chin Complex ~Aza to Kyonyuu Joshi no Chouhatsu ni Bokki Kakushi Nigeta
       Zako ww~
     author: kakun
@@ -3471,7 +3511,7 @@ works:
   - title: Zecchou Kenchi Appli ~Nariyamanai Netorare Tsuuchi~
     author: sora-paprika
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662766.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-07'
     code: 662766
     url: /works/662766/
@@ -3574,7 +3614,7 @@ works:
   - title: Panpan Travelers Kochi Shuudan Rape Ryokou
     author: raidon
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/663497.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-07'
     code: 663497
     url: /works/663497/
@@ -3770,7 +3810,7 @@ works:
   - title: Okoranaide Hoshikawa-san 3 | Hey, Hold your Horses, Hoshikawa-san! 3
     author: raidon
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/667857.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-07'
     code: 667857
     url: /works/667857/
@@ -3842,7 +3882,7 @@ works:
   - title: Hanamizuki Vol.4
     author: rocinante
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/672835.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-07'
     code: 672835
     url: /works/672835/
@@ -4400,7 +4440,7 @@ works:
   - title: Aimai na Bokura 3 Kanojo wa Tabun, Korekara Mechakucha Sex Suru
     author: tsukuyomi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678802.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-07'
     code: 678802
     url: /works/678802/
@@ -4408,7 +4448,7 @@ works:
       sex toys with their complicated pasts
     author: gagarin-kichi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678909.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-09-07'
     code: 678909
     url: /works/678909/
@@ -4432,14 +4472,14 @@ works:
       Icha Love Junai Koubi shita Hanashi-
     author: galvalume-kouhan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679072.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-07'
     code: 679072
     url: /works/679072/
   - title: Katei Kyoushi no Hitsuyou na | What a Private Tutor Needs
     author: aya-shachou-ayashi-yachiyo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679215.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-07'
     code: 679215
     url: /works/679215/
@@ -4450,4 +4490,34 @@ works:
     date: '2026-09-07'
     code: 679230
     url: /works/679230/
+  - title: Homestay Saki no Mama-san ga Boku no Dekamara de Ikimakutta Hanashi | The
+      story of how the mom at my homestay came over and over on my huge cock
+    author: minegami-aya
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679358.jpg
+    rating: 0.0
+    date: '2026-09-08'
+    code: 679358
+    url: /works/679358/
+  - title: 'Futago Maid no Clara to Cola: Sei no Mezame! | Awakening of Sex: Twin Maids
+      Clara and Cora'
+    author: onizuka-frill
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679488.jpg
+    rating: 0.0
+    date: '2026-09-08'
+    code: 679488
+    url: /works/679488/
+  - title: Okaa-san wa Musuko no Nakadashi Senyou Onahole Bangaihen
+    author: natsume-benkei
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679501.jpg
+    rating: 0.0
+    date: '2026-09-08'
+    code: 679501
+    url: /works/679501/
+  - title: Having Sex on the Day I Start Dating my Tomboyish Childhood Friend
+    author: fuguta-ke
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679504.jpg
+    rating: 0.0
+    date: '2026-09-08'
+    code: 679504
+    url: /works/679504/
 ---

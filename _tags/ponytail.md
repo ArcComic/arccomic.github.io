@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "ponytail"
-work_count: 93
+work_count: 96
 works:
+  - title: Hikki Mother Fucker
+    author: otochichi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/287208.jpg
+    rating: 0.0
+    date: '2026-09-08'
+    code: 287208
+    url: /works/287208/
   - title: Boku no Kazoku o Sarashimasu Ch. 3
     author: tanaka-aji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/297068.jpg
@@ -528,7 +535,7 @@ works:
   - title: Toshoshitsu no Kedamono-tachi | Library Beasts
     author: ohno-kanae
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654638.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-07'
     code: 654638
     url: /works/654638/
@@ -693,4 +700,19 @@ works:
     date: '2026-09-05'
     code: 678718
     url: /works/678718/
+  - title: Dokidoki, Yada! | No Way! Stop Playing With My Heart!
+    author: ekakibit
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679368.jpg
+    rating: 0.0
+    date: '2026-09-08'
+    code: 679368
+    url: /works/679368/
+  - title: 'Futago Maid no Clara to Cola: Sei no Mezame! | Awakening of Sex: Twin Maids
+      Clara and Cora'
+    author: onizuka-frill
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679488.jpg
+    rating: 0.0
+    date: '2026-09-08'
+    code: 679488
+    url: /works/679488/
 ---

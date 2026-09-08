@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "virginity"
-work_count: 89
+work_count: 92
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -10,6 +10,13 @@ works:
     date: '2026-04-17'
     code: 103680
     url: /works/103680/
+  - title: Office Love Scramble Ch. 1
+    author: tohzai
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/131165.jpg
+    rating: 0.0
+    date: '2026-09-08'
+    code: 131165
+    url: /works/131165/
   - title: My Care Lady Ch. 1
     author: sugi-g
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/139537.jpg
@@ -275,6 +282,15 @@ works:
     date: '2026-03-07'
     code: 588713
     url: /works/588713/
+  - title: Boku no Nurse Maid Isabella no Fudeoroshi ~Ochichi ga Goshomou nara Tanezuke
+      kudasaimashi~ | My Nursemaid Isabella's First Time ~ If You Desire, Please Impregnate
+      Me ~
+    author: onizuka-frill
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/589229.jpg
+    rating: 0.0
+    date: '2026-09-08'
+    code: 589229
+    url: /works/589229/
   - title: Pashiri no Shita Teku, Yabaitte... ~ Ebi Sori Iki Suru Namaiki Gyaru | Bullied
       Boy's Tongue Revenge Vol.1-4
     author: takayamanon
@@ -293,7 +309,7 @@ works:
   - title: SHAMAN'S SPECIAL SERVICE
     author: raikko9
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/597388.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-07'
     code: 597388
     url: /works/597388/
@@ -662,4 +678,11 @@ works:
     date: '2026-09-06'
     code: 678913
     url: /works/678913/
+  - title: Having Sex on the Day I Start Dating my Tomboyish Childhood Friend
+    author: fuguta-ke
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679504.jpg
+    rating: 0.0
+    date: '2026-09-08'
+    code: 679504
+    url: /works/679504/
 ---

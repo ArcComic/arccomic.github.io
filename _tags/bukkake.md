@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bukkake"
-work_count: 22
+work_count: 24
 works:
   - title: Little Blue Bird
     author: kidouchi-kon
@@ -34,6 +34,13 @@ works:
     date: '2026-04-25'
     code: 593112
     url: /works/593112/
+  - title: Kyonyuu no Tomodachi to Tsukiau made no Hanashi Gojitsudan
+    author: fuguta-ke
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/616896.jpg
+    rating: 0.0
+    date: '2026-09-08'
+    code: 616896
+    url: /works/616896/
   - title: A tsundere girl who loves dick cheese and speaks Kansai dialect
     author: yuuki-fuumi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/630901.jpg
@@ -153,7 +160,7 @@ works:
       STYLE
     author: ricegnat
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/669254.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-07'
     code: 669254
     url: /works/669254/
@@ -165,4 +172,11 @@ works:
     date: '2026-08-28'
     code: 676013
     url: /works/676013/
+  - title: Having Sex on the Day I Start Dating my Tomboyish Childhood Friend
+    author: fuguta-ke
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679504.jpg
+    rating: 0.0
+    date: '2026-09-08'
+    code: 679504
+    url: /works/679504/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "multi-work series"
-work_count: 213
+work_count: 215
 works:
   - title: Oppai na Natsuyasumi 2 | The Summer Break of Boobs 2
     author: higashino-mikan
@@ -155,6 +155,14 @@ works:
     date: '2026-03-09'
     code: 460264
     url: /works/460264/
+  - title: Onee-chan to Torokeru Kimochi SP 2 | The Melting Feeling with Onee-chan SP
+      2
+    author: sky
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/464903.jpg
+    rating: 0.0
+    date: '2026-09-08'
+    code: 464903
+    url: /works/464903/
   - title: Tempt & Throb
     author: mushihara
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/468655.jpg
@@ -668,6 +676,13 @@ works:
     date: '2026-04-14'
     code: 616170
     url: /works/616170/
+  - title: Kyonyuu no Tomodachi to Tsukiau made no Hanashi Gojitsudan
+    author: fuguta-ke
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/616896.jpg
+    rating: 0.0
+    date: '2026-09-08'
+    code: 616896
+    url: /works/616896/
   - title: Futari de Watashi o Ikasenaide...! ~Kurayami, Majiwaru Kyoudai Futon~  |
       My 2 Step-Brothers are Ganging Up on Me!  Vol.1
     author: ma-yu
@@ -1282,7 +1297,7 @@ works:
   - title: Zecchou Kenchi Appli ~Nariyamanai Netorare Tsuuchi~
     author: sora-paprika
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662766.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-07'
     code: 662766
     url: /works/662766/
@@ -1373,7 +1388,7 @@ works:
   - title: Hanamizuki Vol.4
     author: rocinante
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/672835.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-07'
     code: 672835
     url: /works/672835/
@@ -1584,7 +1599,7 @@ works:
   - title: Aimai na Bokura 3 Kanojo wa Tabun, Korekara Mechakucha Sex Suru
     author: tsukuyomi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678802.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-07'
     code: 678802
     url: /works/678802/

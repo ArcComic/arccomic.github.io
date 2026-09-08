@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "defloration"
-work_count: 135
+work_count: 137
 works:
   - title: Love Approach
     author: hanafuda-sakurano
@@ -775,7 +775,7 @@ works:
   - title: Toshoshitsu no Kedamono-tachi | Library Beasts
     author: ohno-kanae
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654638.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-07'
     code: 654638
     url: /works/654638/
@@ -997,8 +997,23 @@ works:
   - title: Katei Kyoushi no Hitsuyou na | What a Private Tutor Needs
     author: aya-shachou-ayashi-yachiyo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679215.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-07'
     code: 679215
     url: /works/679215/
+  - title: 'Futago Maid no Clara to Cola: Sei no Mezame! | Awakening of Sex: Twin Maids
+      Clara and Cora'
+    author: onizuka-frill
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679488.jpg
+    rating: 0.0
+    date: '2026-09-08'
+    code: 679488
+    url: /works/679488/
+  - title: Having Sex on the Day I Start Dating my Tomboyish Childhood Friend
+    author: fuguta-ke
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679504.jpg
+    rating: 0.0
+    date: '2026-09-08'
+    code: 679504
+    url: /works/679504/
 ---

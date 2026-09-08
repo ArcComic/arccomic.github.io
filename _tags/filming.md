@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "filming"
-work_count: 55
+work_count: 56
 works:
   - title: Netorare Ibe Kiba Shizuka | The Netorare of Kiba Shizuka
     author: terasu-mc
@@ -31,6 +31,13 @@ works:
     date: '2026-03-05'
     code: 414892
     url: /works/414892/
+  - title: Kaachan wa Ore no... | Mom is My...  Chapter 1-3
+    author: jirou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/415046.jpg
+    rating: 0.0
+    date: '2026-09-08'
+    code: 415046
+    url: /works/415046/
   - title: netoraretekite, ii desu yo.
     author: nt-robo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/432513.jpg

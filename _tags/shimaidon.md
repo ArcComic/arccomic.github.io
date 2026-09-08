@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "shimaidon"
-work_count: 13
+work_count: 14
 works:
   - title: Zenin Mukuwarenai Harem | A Harem Where No One Is Reciprocated
     author: group
@@ -99,4 +99,12 @@ works:
     date: '2026-08-29'
     code: 676458
     url: /works/676458/
+  - title: 'Futago Maid no Clara to Cola: Sei no Mezame! | Awakening of Sex: Twin Maids
+      Clara and Cora'
+    author: onizuka-frill
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679488.jpg
+    rating: 0.0
+    date: '2026-09-08'
+    code: 679488
+    url: /works/679488/
 ---

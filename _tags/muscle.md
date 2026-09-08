@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "muscle"
-work_count: 61
+work_count: 62
 works:
   - title: Netorare Ibe Kiba Shizuka
     author: terasu-mc
@@ -460,4 +460,12 @@ works:
     date: '2026-09-05'
     code: 678648
     url: /works/678648/
+  - title: Homestay Saki no Mama-san ga Boku no Dekamara de Ikimakutta Hanashi | The
+      story of how the mom at my homestay came over and over on my huge cock
+    author: minegami-aya
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679358.jpg
+    rating: 0.0
+    date: '2026-09-08'
+    code: 679358
+    url: /works/679358/
 ---

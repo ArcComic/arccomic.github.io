@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "stockings"
-work_count: 130
+work_count: 134
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -17,6 +17,13 @@ works:
     date: '2026-04-19'
     code: 110835
     url: /works/110835/
+  - title: Office Love Scramble Ch. 1
+    author: tohzai
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/131165.jpg
+    rating: 0.0
+    date: '2026-09-08'
+    code: 131165
+    url: /works/131165/
   - title: HUNDRED GAME Ch. 1-3
     author: kuon-michiyoshi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/142561.jpg
@@ -373,6 +380,15 @@ works:
     date: '2026-08-22'
     code: 586316
     url: /works/586316/
+  - title: Boku no Nurse Maid Isabella no Fudeoroshi ~Ochichi ga Goshomou nara Tanezuke
+      kudasaimashi~ | My Nursemaid Isabella's First Time ~ If You Desire, Please Impregnate
+      Me ~
+    author: onizuka-frill
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/589229.jpg
+    rating: 0.0
+    date: '2026-09-08'
+    code: 589229
+    url: /works/589229/
   - title: Kanojo wa Boku no Taieki de Ugoiteiru Final Phase - Her Body is Driven by
       My Love [English] =NSS=
     author: nagareboshi
@@ -939,17 +955,32 @@ works:
       From Home
     author: itaba-hiroshi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679193.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-07'
     code: 679193
     url: /works/679193/
   - title: Okasaretai Kanojo - She wants fucked
     author: itaba-hiroshi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679198.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-07'
     code: 679198
     url: /works/679198/
+  - title: 'Futago Maid no Clara to Cola: Sei no Mezame! | Awakening of Sex: Twin Maids
+      Clara and Cora'
+    author: onizuka-frill
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679488.jpg
+    rating: 0.0
+    date: '2026-09-08'
+    code: 679488
+    url: /works/679488/
+  - title: Okaa-san wa Musuko no Nakadashi Senyou Onahole Bangaihen
+    author: natsume-benkei
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679501.jpg
+    rating: 0.0
+    date: '2026-09-08'
+    code: 679501
+    url: /works/679501/
   - title: Jokyoushi - Hot For Teachers | Female Teachers
     author: drill-murata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/81375.jpg

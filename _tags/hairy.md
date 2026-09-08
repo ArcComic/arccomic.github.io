@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "hairy"
-work_count: 161
+work_count: 164
 works:
   - title: Adoration
     author: kishizuka-kenji
@@ -39,6 +39,13 @@ works:
     date: '2026-04-13'
     code: 272352
     url: /works/272352/
+  - title: Hikki Mother Fucker
+    author: otochichi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/287208.jpg
+    rating: 0.0
+    date: '2026-09-08'
+    code: 287208
+    url: /works/287208/
   - title: Maid no Oshigoto. II | Maid's Work II
     author: alexi-laiho
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/296282.jpg
@@ -119,6 +126,13 @@ works:
     date: '2026-09-04'
     code: 407561
     url: /works/407561/
+  - title: Kaachan wa Ore no... | Mom is My...  Chapter 1-3
+    author: jirou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/415046.jpg
+    rating: 0.0
+    date: '2026-09-08'
+    code: 415046
+    url: /works/415046/
   - title: Yasashii Oba-san Yarashii Oba-san | Kind Lady, Dirty Lady Ch. 1-3
     author: hidemaru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/421874.jpg
@@ -381,6 +395,15 @@ works:
     date: '2026-07-15'
     code: 544477
     url: /works/544477/
+  - title: Wagaya no Housemaid Bridget Sei no Gohoushi ~Danro Souji kara Kozukuri made~
+      /  My Housemaid Bridget's Sexual Service ~ Everything From Fireplace Cleaning,
+      To Babymaking
+    author: onizuka-frill
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/548015.jpg
+    rating: 0.0
+    date: '2026-09-08'
+    code: 548015
+    url: /works/548015/
   - title: DeliHeal Kaa-chan 3 ~Having Sex with My Favorite Kaa-chan and Having a Half-Cohabitation
       Life~
     author: tarobaumu
@@ -949,7 +972,7 @@ works:
   - title: Toshoshitsu no Kedamono-tachi | Library Beasts
     author: ohno-kanae
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654638.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-07'
     code: 654638
     url: /works/654638/
@@ -1069,7 +1092,7 @@ works:
       STYLE
     author: ricegnat
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/669254.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-07'
     code: 669254
     url: /works/669254/

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "incest"
-work_count: 171
+work_count: 175
 works:
   - title: Kindan no Hatemitsu
     author: ryuuta
@@ -25,6 +25,13 @@ works:
     date: '2026-04-13'
     code: 272352
     url: /works/272352/
+  - title: Hikki Mother Fucker
+    author: otochichi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/287208.jpg
+    rating: 0.0
+    date: '2026-09-08'
+    code: 287208
+    url: /works/287208/
   - title: Oppai na Natsuyasumi 2 | The Summer Break of Boobs 2
     author: higashino-mikan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/292454.jpg
@@ -91,6 +98,13 @@ works:
     date: '2026-07-10'
     code: 407959
     url: /works/407959/
+  - title: Kaachan wa Ore no... | Mom is My...  Chapter 1-3
+    author: jirou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/415046.jpg
+    rating: 0.0
+    date: '2026-09-08'
+    code: 415046
+    url: /works/415046/
   - title: Hikage | Shade
     author: syuuen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/429669.jpg
@@ -121,6 +135,14 @@ works:
     date: '2026-04-13'
     code: 458903
     url: /works/458903/
+  - title: Onee-chan to Torokeru Kimochi SP 2 | The Melting Feeling with Onee-chan SP
+      2
+    author: sky
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/464903.jpg
+    rating: 0.0
+    date: '2026-09-08'
+    code: 464903
+    url: /works/464903/
   - title: Musuko o Dokusen Suru Haha | The mother who monopolizes her son.
     author: yuriko-club
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/471998.jpg
@@ -1262,4 +1284,11 @@ works:
     date: '2026-09-06'
     code: 678916
     url: /works/678916/
+  - title: Okaa-san wa Musuko no Nakadashi Senyou Onahole Bangaihen
+    author: natsume-benkei
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679501.jpg
+    rating: 0.0
+    date: '2026-09-08'
+    code: 679501
+    url: /works/679501/
 ---

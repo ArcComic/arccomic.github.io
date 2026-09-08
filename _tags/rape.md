@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "rape"
-work_count: 137
+work_count: 139
 works:
+  - title: Office Love Scramble Ch. 1
+    author: tohzai
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/131165.jpg
+    rating: 0.0
+    date: '2026-09-08'
+    code: 131165
+    url: /works/131165/
   - title: Tsuma no Imouto no Danna ga Ie ni Kiteiruyoudesu | My Sister-In-Law's Husband
       is Over
     author: arakure
@@ -762,6 +769,13 @@ works:
     date: '2026-08-24'
     code: 657981
     url: /works/657981/
+  - title: Chubby Nurse
+    author: herohero-tom
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/659643.jpg
+    rating: 0.0
+    date: '2026-09-08'
+    code: 659643
+    url: /works/659643/
   - title: Shinyuu Tatakitsubushi Kyousou Shiiku Seikatsu | A Life in Captivity The
       Competition to Break My Best Friend
     author: group
@@ -822,7 +836,7 @@ works:
   - title: Panpan Travelers Kochi Shuudan Rape Ryokou
     author: raidon
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/663497.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-07'
     code: 663497
     url: /works/663497/
@@ -923,7 +937,7 @@ works:
   - title: Hanamizuki Vol.4
     author: rocinante
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/672835.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-07'
     code: 672835
     url: /works/672835/

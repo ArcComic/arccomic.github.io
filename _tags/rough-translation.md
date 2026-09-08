@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "rough translation"
-work_count: 347
+work_count: 350
 works:
   - title: Watashi no Karada, Okashi Shimasu. Bunny Girl Edition
     author: nectar
@@ -548,6 +548,13 @@ works:
     date: '2026-04-27'
     code: 616533
     url: /works/616533/
+  - title: Kyonyuu no Tomodachi to Tsukiau made no Hanashi Gojitsudan
+    author: fuguta-ke
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/616896.jpg
+    rating: 0.0
+    date: '2026-09-08'
+    code: 616896
+    url: /works/616896/
   - title: 'Gal to Meccha Namahame Nakadashi Ecchi Suru Hanashi #5'
     author: pistonring-nishizawa
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/617805.jpg
@@ -1684,7 +1691,7 @@ works:
   - title: Zecchou Kenchi Appli ~Nariyamanai Netorare Tsuuchi~
     author: sora-paprika
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662766.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-07'
     code: 662766
     url: /works/662766/
@@ -1734,7 +1741,7 @@ works:
   - title: Panpan Travelers Kochi Shuudan Rape Ryokou
     author: raidon
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/663497.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-07'
     code: 663497
     url: /works/663497/
@@ -1909,7 +1916,7 @@ works:
   - title: Okoranaide Hoshikawa-san 3 | Hey, Hold your Horses, Hoshikawa-san! 3
     author: raidon
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/667857.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-07'
     code: 667857
     url: /works/667857/
@@ -1944,7 +1951,7 @@ works:
   - title: Hanamizuki Vol.4
     author: rocinante
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/672835.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-07'
     code: 672835
     url: /works/672835/
@@ -2475,7 +2482,7 @@ works:
   - title: Aimai na Bokura 3 Kanojo wa Tabun, Korekara Mechakucha Sex Suru
     author: tsukuyomi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678802.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-07'
     code: 678802
     url: /works/678802/
@@ -2483,7 +2490,7 @@ works:
       sex toys with their complicated pasts
     author: gagarin-kichi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678909.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-09-07'
     code: 678909
     url: /works/678909/
@@ -2500,7 +2507,7 @@ works:
       Icha Love Junai Koubi shita Hanashi-
     author: galvalume-kouhan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679072.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-07'
     code: 679072
     url: /works/679072/
@@ -2508,21 +2515,21 @@ works:
       From Home
     author: itaba-hiroshi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679193.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-07'
     code: 679193
     url: /works/679193/
   - title: Okasareta Hitozuma
     author: itaba-hiroshi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679197.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-07'
     code: 679197
     url: /works/679197/
   - title: Okasaretai Kanojo - She wants fucked
     author: itaba-hiroshi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679198.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-07'
     code: 679198
     url: /works/679198/
@@ -2533,4 +2540,18 @@ works:
     date: '2026-09-07'
     code: 679230
     url: /works/679230/
+  - title: Okaa-san wa Musuko no Nakadashi Senyou Onahole Bangaihen
+    author: natsume-benkei
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679501.jpg
+    rating: 0.0
+    date: '2026-09-08'
+    code: 679501
+    url: /works/679501/
+  - title: Having Sex on the Day I Start Dating my Tomboyish Childhood Friend
+    author: fuguta-ke
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679504.jpg
+    rating: 0.0
+    date: '2026-09-08'
+    code: 679504
+    url: /works/679504/
 ---

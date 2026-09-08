@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bbw"
-work_count: 21
+work_count: 24
 works:
   - title: My Care Lady Ch. 1
     author: sugi-g
@@ -25,6 +25,13 @@ works:
     date: '2026-04-19'
     code: 244812
     url: /works/244812/
+  - title: Hikki Mother Fucker
+    author: otochichi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/287208.jpg
+    rating: 0.0
+    date: '2026-09-08'
+    code: 287208
+    url: /works/287208/
   - title: Hito o Dame ni Suru Choi Busu ~Kao 40-ten, Karada 120-ten no Kanojo~
     author: special-g
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/414892.jpg
@@ -32,6 +39,13 @@ works:
     date: '2026-03-05'
     code: 414892
     url: /works/414892/
+  - title: Kaachan wa Ore no... | Mom is My...  Chapter 1-3
+    author: jirou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/415046.jpg
+    rating: 0.0
+    date: '2026-09-08'
+    code: 415046
+    url: /works/415046/
   - title: Aoba's Weight Gain
     author: habutton
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/529335.jpg
@@ -126,6 +140,13 @@ works:
     date: '2026-05-26'
     code: 652625
     url: /works/652625/
+  - title: Chubby Nurse
+    author: herohero-tom
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/659643.jpg
+    rating: 0.0
+    date: '2026-09-08'
+    code: 659643
+    url: /works/659643/
   - title: Repetitive Practice Mama! The Story of Recieving Sex Ed From an Extremely
       Strict Mother
     author: unknown

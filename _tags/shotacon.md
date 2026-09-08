@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "shotacon"
-work_count: 77
+work_count: 79
 works:
   - title: Hitozuma Hyakka
     author: hase-tsubura
@@ -100,6 +100,14 @@ works:
     date: '2026-03-05'
     code: 443909
     url: /works/443909/
+  - title: Onee-chan to Torokeru Kimochi SP 2 | The Melting Feeling with Onee-chan SP
+      2
+    author: sky
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/464903.jpg
+    rating: 0.0
+    date: '2026-09-08'
+    code: 464903
+    url: /works/464903/
   - title: Toaru Mura no Fudeoroshi Jijou | *séh₂ swédʰh₁eh₂ weyḱósyo
     author: nora-higuma
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/505779.jpg
@@ -410,6 +418,13 @@ works:
     date: '2026-07-09'
     code: 657256
     url: /works/657256/
+  - title: Chubby Nurse
+    author: herohero-tom
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/659643.jpg
+    rating: 0.0
+    date: '2026-09-08'
+    code: 659643
+    url: /works/659643/
   - title: Murasaki no Shoumei ~Kuroi Muchuu~ | Purple Illumination ~Dark Trance~
     author: '3104'
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/660867.jpg

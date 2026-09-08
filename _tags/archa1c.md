@@ -8,7 +8,7 @@ works:
       Busty Bookworm Girl
     author: nada-shio
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/482560.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-07'
     code: 482560
     url: /works/482560/

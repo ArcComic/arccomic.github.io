@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "ssbbw"
-work_count: 2
+work_count: 3
 works:
   - title: Aoba's Weight Gain
     author: habutton
@@ -17,4 +17,11 @@ works:
     date: '2026-05-01'
     code: 647316
     url: /works/647316/
+  - title: Chubby Nurse
+    author: herohero-tom
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/659643.jpg
+    rating: 0.0
+    date: '2026-09-08'
+    code: 659643
+    url: /works/659643/
 ---

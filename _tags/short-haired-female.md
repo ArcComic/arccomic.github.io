@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "short-haired female"
-work_count: 19
+work_count: 20
 works:
   - title: Onee-chan ga Ecchi na Koto bakka Suru kara... | My older sister only does
       obscene things...
@@ -34,6 +34,14 @@ works:
     date: '2026-03-05'
     code: 409929
     url: /works/409929/
+  - title: Onee-chan to Torokeru Kimochi SP 2 | The Melting Feeling with Onee-chan SP
+      2
+    author: sky
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/464903.jpg
+    rating: 0.0
+    date: '2026-09-08'
+    code: 464903
+    url: /works/464903/
   - title: Youka-go Tsuma no Haha o Daku | Eight Days With My Wife's Mother
     author: jagaimo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/534808.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "masturbation"
-work_count: 75
+work_count: 76
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -218,6 +218,15 @@ works:
     date: '2026-04-15'
     code: 589010
     url: /works/589010/
+  - title: Boku no Nurse Maid Isabella no Fudeoroshi ~Ochichi ga Goshomou nara Tanezuke
+      kudasaimashi~ | My Nursemaid Isabella's First Time ~ If You Desire, Please Impregnate
+      Me ~
+    author: onizuka-frill
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/589229.jpg
+    rating: 0.0
+    date: '2026-09-08'
+    code: 589229
+    url: /works/589229/
   - title: Mesu no Ie II ~Tsuma wa Midare Ubareru~
     author: ame-arare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/591112.jpg
@@ -483,7 +492,7 @@ works:
       STYLE
     author: ricegnat
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/669254.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-07'
     code: 669254
     url: /works/669254/
@@ -559,7 +568,7 @@ works:
       a Year) 01'
     author: en
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679225.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-07'
     code: 679225
     url: /works/679225/

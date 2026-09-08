@@ -172,7 +172,7 @@ works:
   - title: Panpan Travelers Kochi Shuudan Rape Ryokou
     author: raidon
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/663497.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-07'
     code: 663497
     url: /works/663497/
@@ -201,7 +201,7 @@ works:
   - title: Aimai na Bokura 3 Kanojo wa Tabun, Korekara Mechakucha Sex Suru
     author: tsukuyomi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678802.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-07'
     code: 678802
     url: /works/678802/
@@ -209,14 +209,14 @@ works:
       From Home
     author: itaba-hiroshi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679193.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-07'
     code: 679193
     url: /works/679193/
   - title: Okasaretai Kanojo - She wants fucked
     author: itaba-hiroshi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679198.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-07'
     code: 679198
     url: /works/679198/

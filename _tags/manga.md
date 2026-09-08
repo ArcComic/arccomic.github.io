@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "manga"
-work_count: 215
+work_count: 218
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -31,6 +31,13 @@ works:
     date: '2026-07-08'
     code: 116138
     url: /works/116138/
+  - title: Office Love Scramble Ch. 1
+    author: tohzai
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/131165.jpg
+    rating: 0.0
+    date: '2026-09-08'
+    code: 131165
+    url: /works/131165/
   - title: Little Problem =LWB=
     author: yoshiura-kazuya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/136819.jpg
@@ -129,6 +136,13 @@ works:
     date: '2026-09-06'
     code: 276396
     url: /works/276396/
+  - title: Hikki Mother Fucker
+    author: otochichi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/287208.jpg
+    rating: 0.0
+    date: '2026-09-08'
+    code: 287208
+    url: /works/287208/
   - title: Sensei wa Shougakusei ga Suki | Sensei Loves Elementary Schoolers
     author: fuyuno-mikan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/289094.jpg
@@ -302,6 +316,13 @@ works:
     date: '2026-04-27'
     code: 414206
     url: /works/414206/
+  - title: Kaachan wa Ore no... | Mom is My...  Chapter 1-3
+    author: jirou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/415046.jpg
+    rating: 0.0
+    date: '2026-09-08'
+    code: 415046
+    url: /works/415046/
   - title: Seiten no Hekireki | TS Thunderclap
     author: regdic
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/415057.jpg
@@ -1509,21 +1530,21 @@ works:
       From Home
     author: itaba-hiroshi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679193.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-07'
     code: 679193
     url: /works/679193/
   - title: Okasareta Hitozuma
     author: itaba-hiroshi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679197.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-07'
     code: 679197
     url: /works/679197/
   - title: Okasaretai Kanojo - She wants fucked
     author: itaba-hiroshi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679198.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-07'
     code: 679198
     url: /works/679198/
@@ -1531,7 +1552,7 @@ works:
       a Year) 01'
     author: en
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679225.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-07'
     code: 679225
     url: /works/679225/
