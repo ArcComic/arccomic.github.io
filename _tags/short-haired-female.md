@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "short-haired female"
-work_count: 20
+work_count: 25
 works:
   - title: Onee-chan ga Ecchi na Koto bakka Suru kara... | My older sister only does
       obscene things...
@@ -26,6 +26,14 @@ works:
     date: '2026-04-27'
     code: 357965
     url: /works/357965/
+  - title: Mecha Eroi kedo Sasoi ni Nottara Hametsushisou na Ko | A Girl Who Is Very
+      Sexy But Will Ruin Me If I Ask Her Out
+    author: 7zu7
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/391732.jpg
+    rating: 4.9
+    date: '2026-09-09'
+    code: 391732
+    url: /works/391732/
   - title: Kaisha no Iki Okure BBA Haramaseta | [Tragic News] I Knocked Up The Old Maid
       From My Office
     author: special-g
@@ -38,10 +46,24 @@ works:
       2
     author: sky
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/464903.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-08'
     code: 464903
     url: /works/464903/
+  - title: Shizuka no Umi + Gojitsudan | Shizuka's Sea + Epilogue
+    author: arakure
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/507591.jpg
+    rating: 0.0
+    date: '2026-09-09'
+    code: 507591
+    url: /works/507591/
+  - title: Kawari wa Okaa-san | The Stand-in is Her Mom
+    author: etuzan-jakusui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/528470.jpg
+    rating: 0.0
+    date: '2026-09-09'
+    code: 528470
+    url: /works/528470/
   - title: Youka-go Tsuma no Haha o Daku | Eight Days With My Wife's Mother
     author: jagaimo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/534808.jpg
@@ -72,6 +94,14 @@ works:
     date: '2026-08-22'
     code: 586316
     url: /works/586316/
+  - title: Mechakucha Jiraippoi kedo Ne wa Yasashisouna Ko | Serious Land Mine Vibes
+      but Deep Down She Seems Sweet
+    author: 7zu7
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/604569.jpg
+    rating: 4.4
+    date: '2026-09-09'
+    code: 604569
+    url: /works/604569/
   - title: Zenin Mukuwarenai Harem | A Harem Where No One Is Reciprocated
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/610041.jpg
@@ -79,6 +109,14 @@ works:
     date: '2026-04-23'
     code: 610041
     url: /works/610041/
+  - title: Onna Tomodachi Futari to Perochuu suru Hanashi | A Story About Kissing 2
+      Female Friends
+    author: mmchair
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/614204.jpg
+    rating: 0.0
+    date: '2026-09-09'
+    code: 614204
+    url: /works/614204/
   - title: Igumox - Muramata-san no Himitsu & Aijou - Muramata-san's Secret & Affection
       COMPLETE
     author: igumox

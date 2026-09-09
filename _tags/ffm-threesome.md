@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "ffm threesome"
-work_count: 74
+work_count: 75
 works:
   - title: Hustle! Danchizuma Ch. 1-18 END
     author: hidemaru
@@ -114,6 +114,14 @@ works:
     date: '2026-04-17'
     code: 612957
     url: /works/612957/
+  - title: Onna Tomodachi Futari to Perochuu suru Hanashi | A Story About Kissing 2
+      Female Friends
+    author: mmchair
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/614204.jpg
+    rating: 0.0
+    date: '2026-09-09'
+    code: 614204
+    url: /works/614204/
   - title: 'Gal to Meccha Namahame Nakadashi Ecchi Suru Hanashi #5'
     author: pistonring-nishizawa
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/617805.jpg
@@ -545,7 +553,7 @@ works:
       Clara and Cora'
     author: onizuka-frill
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679488.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-08'
     code: 679488
     url: /works/679488/

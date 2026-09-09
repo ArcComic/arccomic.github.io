@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "scanmark"
-work_count: 102
+work_count: 103
 works:
   - title: NTR Anniversary + ) [Syukurin] Mitsuha ~Netorare~ (Kimi no Na wa.) [English]
       [Colorized] by Mikaku
@@ -66,7 +66,7 @@ works:
   - title: Kyonyuu no Tomodachi to Tsukiau made no Hanashi Gojitsudan
     author: fuguta-ke
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/616896.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-09-08'
     code: 616896
     url: /works/616896/
@@ -158,6 +158,13 @@ works:
     date: '2026-08-25'
     code: 637131
     url: /works/637131/
+  - title: Practice H with your mom!
+    author: natsume-benkei
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/637655.jpg
+    rating: 0.0
+    date: '2026-09-09'
+    code: 637655
+    url: /works/637655/
   - title: My gentle and kind friend's mom was a slut who devoured young boys' cocks.
     author: dekamatsu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/637847.jpg

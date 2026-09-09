@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "handjob"
-work_count: 66
+work_count: 69
 works:
   - title: Yuri no o saifu ni shite agemasu ne, Senpai | I'll turn you into Yuri's wallet,
       Senpai
@@ -163,6 +163,14 @@ works:
     date: '2026-04-23'
     code: 599910
     url: /works/599910/
+  - title: Mechakucha Jiraippoi kedo Ne wa Yasashisouna Ko | Serious Land Mine Vibes
+      but Deep Down She Seems Sweet
+    author: 7zu7
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/604569.jpg
+    rating: 4.4
+    date: '2026-09-09'
+    code: 604569
+    url: /works/604569/
   - title: Kawaisugiru Tomodachi no Okaa-san to Kossori Tsukiacchatta Hanashi | I Secretly
       Dated My Friend's Cute Mother
     author: yuriko-club
@@ -171,6 +179,14 @@ works:
     date: '2026-04-15'
     code: 612887
     url: /works/612887/
+  - title: Onna Tomodachi Futari to Perochuu suru Hanashi | A Story About Kissing 2
+      Female Friends
+    author: mmchair
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/614204.jpg
+    rating: 0.0
+    date: '2026-09-09'
+    code: 614204
+    url: /works/614204/
   - title: Mamami Numa | Addicted to Her Motherly Vibes
     author: ruruepa
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/619648.jpg
@@ -415,6 +431,13 @@ works:
     date: '2026-08-22'
     code: 652912
     url: /works/652912/
+  - title: 'Chinmake Kouman Okugata-sama | Haughty Housewives: Defeated by Dick'
+    author: minamida-usuke
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/657459.jpg
+    rating: 0.0
+    date: '2026-09-09'
+    code: 657459
+    url: /works/657459/
   - title: Boshi Jouji ~Daisuki na Okaa-san to Konya Majiwaru~ - MOTHER AND SON LOVE
       AFFAIR | A Mother's Love ~Tonight I Become One With The Mom I Love~ Part 2
     author: shiono-kou

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "mosaic censorship"
-work_count: 186
+work_count: 190
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -90,6 +90,14 @@ works:
     date: '2026-07-13'
     code: 358168
     url: /works/358168/
+  - title: Mainichi Okaa-san de Seiyoku Shori! Onaho Gawari no Hahaoya ni Tairyou Nakadashi
+      Hen | Mom Gets Me Off Every Day! Filling Mom With Cum
+    author: natsume-benkei
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/366731.jpg
+    rating: 0.0
+    date: '2026-09-09'
+    code: 366731
+    url: /works/366731/
   - title: Kurata Akiko no Kokuhaku 2 - Confession of Akiko kurata Epsode 2
     author: ootsuka-mahiro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/369382.jpg
@@ -159,7 +167,7 @@ works:
   - title: Kaachan wa Ore no... | Mom is My...  Chapter 1-3
     author: jirou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/415046.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-08'
     code: 415046
     url: /works/415046/
@@ -289,6 +297,13 @@ works:
     date: '2026-08-31'
     code: 494172
     url: /works/494172/
+  - title: Nyuuin-chuu no Muramura wa...
+    author: natsume-benkei
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/495599.jpg
+    rating: 0.0
+    date: '2026-09-09'
+    code: 495599
+    url: /works/495599/
   - title: 1 Once iku goto ni penalty 1 manen oshioki papakatsu jyoshi
     author: crimson
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/503556.jpg
@@ -590,6 +605,13 @@ works:
     date: '2026-09-06'
     code: 589313
     url: /works/589313/
+  - title: Nyuuin-chuu no Muramura wa Okaa-san de... 2
+    author: natsume-benkei
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/592039.jpg
+    rating: 0.0
+    date: '2026-09-09'
+    code: 592039
+    url: /works/592039/
   - title: '"Yasashii Dake no Otoko" to Tsuma ni Sute Raretanode... | My Wife Left Me
       Because I was "Too Gentle"...'
     author: special-g
@@ -827,6 +849,13 @@ works:
     date: '2026-03-11'
     code: 636122
     url: /works/636122/
+  - title: Practice H with your mom!
+    author: natsume-benkei
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/637655.jpg
+    rating: 0.0
+    date: '2026-09-09'
+    code: 637655
+    url: /works/637655/
   - title: Kaa-san to Sex Shita Mikkakan | Three Days of Sex with My Mom
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/639194.jpg
@@ -1114,7 +1143,7 @@ works:
   - title: Chubby Nurse
     author: herohero-tom
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/659643.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-08'
     code: 659643
     url: /works/659643/

@@ -59,7 +59,7 @@ works:
       Me ~
     author: onizuka-frill
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/589229.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-09-08'
     code: 589229
     url: /works/589229/

@@ -1,8 +1,16 @@
 ---
 layout: tag
 tag_name: "piercing"
-work_count: 22
+work_count: 23
 works:
+  - title: Mecha Eroi kedo Sasoi ni Nottara Hametsushisou na Ko | A Girl Who Is Very
+      Sexy But Will Ruin Me If I Ask Her Out
+    author: 7zu7
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/391732.jpg
+    rating: 4.9
+    date: '2026-09-09'
+    code: 391732
+    url: /works/391732/
   - title: Doushia (Terasu MC)] Dorei Gazoku
     author: terasu-mc
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/427676.jpg

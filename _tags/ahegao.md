@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "ahegao"
-work_count: 178
+work_count: 179
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -301,7 +301,7 @@ works:
       To Babymaking
     author: onizuka-frill
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/548015.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-08'
     code: 548015
     url: /works/548015/
@@ -969,6 +969,13 @@ works:
     date: '2026-07-09'
     code: 656753
     url: /works/656753/
+  - title: 'Chinmake Kouman Okugata-sama | Haughty Housewives: Defeated by Dick'
+    author: minamida-usuke
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/657459.jpg
+    rating: 0.0
+    date: '2026-09-09'
+    code: 657459
+    url: /works/657459/
   - title: Murasaki no Shoumei ~Kuroi Muchuu~ | Purple Illumination ~Dark Trance~
     author: '3104'
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/660867.jpg
@@ -1318,14 +1325,14 @@ works:
       story of how the mom at my homestay came over and over on my huge cock
     author: minegami-aya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679358.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-08'
     code: 679358
     url: /works/679358/
   - title: Dokidoki, Yada! | No Way! Stop Playing With My Heart!
     author: ekakibit
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679368.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-08'
     code: 679368
     url: /works/679368/

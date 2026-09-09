@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "prostitution"
-work_count: 37
+work_count: 38
 works:
   - title: Yuri no o saifu ni shite agemasu ne, Senpai | I'll turn you into Yuri's wallet,
       Senpai
@@ -128,6 +128,14 @@ works:
     date: '2026-08-29'
     code: 589969
     url: /works/589969/
+  - title: Mechakucha Jiraippoi kedo Ne wa Yasashisouna Ko | Serious Land Mine Vibes
+      but Deep Down She Seems Sweet
+    author: 7zu7
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/604569.jpg
+    rating: 4.4
+    date: '2026-09-09'
+    code: 604569
+    url: /works/604569/
   - title: Metamorphosis
     author: shindol
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/616358.jpg

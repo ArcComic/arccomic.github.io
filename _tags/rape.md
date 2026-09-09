@@ -1,12 +1,12 @@
 ---
 layout: tag
 tag_name: "rape"
-work_count: 139
+work_count: 140
 works:
   - title: Office Love Scramble Ch. 1
     author: tohzai
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/131165.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-08'
     code: 131165
     url: /works/131165/
@@ -228,6 +228,13 @@ works:
     date: '2026-07-08'
     code: 50476
     url: /works/50476/
+  - title: Shizuka no Umi + Gojitsudan | Shizuka's Sea + Epilogue
+    author: arakure
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/507591.jpg
+    rating: 0.0
+    date: '2026-09-09'
+    code: 507591
+    url: /works/507591/
   - title: Chijoku Zuma ~Konna ni Nurasaretara Mou Gaman Dekinai... 1 | Disgraceful
       Wife - I Can't Stand It Anymore When I Get This Wet... 1
     author: pink-taro
@@ -772,7 +779,7 @@ works:
   - title: Chubby Nurse
     author: herohero-tom
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/659643.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-08'
     code: 659643
     url: /works/659643/

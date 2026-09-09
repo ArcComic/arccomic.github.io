@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "multi-work series"
-work_count: 215
+work_count: 217
 works:
   - title: Oppai na Natsuyasumi 2 | The Summer Break of Boobs 2
     author: higashino-mikan
@@ -159,7 +159,7 @@ works:
       2
     author: sky
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/464903.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-08'
     code: 464903
     url: /works/464903/
@@ -586,6 +586,13 @@ works:
     date: '2026-04-15'
     code: 591649
     url: /works/591649/
+  - title: Nyuuin-chuu no Muramura wa Okaa-san de... 2
+    author: natsume-benkei
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/592039.jpg
+    rating: 0.0
+    date: '2026-09-09'
+    code: 592039
+    url: /works/592039/
   - title: Sinful Lust 4
     author: zetto
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/593064.jpg
@@ -625,6 +632,14 @@ works:
     date: '2026-04-23'
     code: 603122
     url: /works/603122/
+  - title: Mechakucha Jiraippoi kedo Ne wa Yasashisouna Ko | Serious Land Mine Vibes
+      but Deep Down She Seems Sweet
+    author: 7zu7
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/604569.jpg
+    rating: 4.4
+    date: '2026-09-09'
+    code: 604569
+    url: /works/604569/
   - title: Ichigun Joshi no Akaten Kaihi ni Kyouryoku Shitara... 1
     author: kishiwada-base
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/606276.jpg
@@ -679,7 +694,7 @@ works:
   - title: Kyonyuu no Tomodachi to Tsukiau made no Hanashi Gojitsudan
     author: fuguta-ke
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/616896.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-09-08'
     code: 616896
     url: /works/616896/

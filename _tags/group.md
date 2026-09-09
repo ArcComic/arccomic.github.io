@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "group"
-work_count: 126
+work_count: 128
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -247,6 +247,14 @@ works:
     date: '2026-04-17'
     code: 612957
     url: /works/612957/
+  - title: Onna Tomodachi Futari to Perochuu suru Hanashi | A Story About Kissing 2
+      Female Friends
+    author: mmchair
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/614204.jpg
+    rating: 0.0
+    date: '2026-09-09'
+    code: 614204
+    url: /works/614204/
   - title: 'Gal to Meccha Namahame Nakadashi Ecchi Suru Hanashi #5'
     author: pistonring-nishizawa
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/617805.jpg
@@ -599,6 +607,13 @@ works:
     date: '2026-07-16'
     code: 655498
     url: /works/655498/
+  - title: 'Chinmake Kouman Okugata-sama | Haughty Housewives: Defeated by Dick'
+    author: minamida-usuke
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/657459.jpg
+    rating: 0.0
+    date: '2026-09-09'
+    code: 657459
+    url: /works/657459/
   - title: Shinyuu Tatakitsubushi Kyousou Shiiku Seikatsu | A Life in Captivity The
       Competition to Break My Best Friend
     author: group
@@ -922,7 +937,7 @@ works:
       Clara and Cora'
     author: onizuka-frill
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679488.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-08'
     code: 679488
     url: /works/679488/

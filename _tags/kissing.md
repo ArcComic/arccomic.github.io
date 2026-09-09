@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "kissing"
-work_count: 197
+work_count: 200
 works:
   - title: FLUFFY LAUGH GIRL
     author: shibasaki-syouzi
@@ -38,6 +38,14 @@ works:
     date: '2026-04-19'
     code: 387637
     url: /works/387637/
+  - title: Mecha Eroi kedo Sasoi ni Nottara Hametsushisou na Ko | A Girl Who Is Very
+      Sexy But Will Ruin Me If I Ask Her Out
+    author: 7zu7
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/391732.jpg
+    rating: 4.9
+    date: '2026-09-09'
+    code: 391732
+    url: /works/391732/
   - title: Shiraishi-san Wa Yokkyu Fuman | Shiraishi-san's Frustrated
     author: carburetor
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/392617.jpg
@@ -505,6 +513,13 @@ works:
     date: '2026-05-01'
     code: 591112
     url: /works/591112/
+  - title: Nyuuin-chuu no Muramura wa Okaa-san de... 2
+    author: natsume-benkei
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/592039.jpg
+    rating: 0.0
+    date: '2026-09-09'
+    code: 592039
+    url: /works/592039/
   - title: Kyoushi to Mama to Koibito no Kao
     author: mifune-seijirou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/592307.jpg
@@ -579,6 +594,14 @@ works:
     date: '2026-04-23'
     code: 610041
     url: /works/610041/
+  - title: Onna Tomodachi Futari to Perochuu suru Hanashi | A Story About Kissing 2
+      Female Friends
+    author: mmchair
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/614204.jpg
+    rating: 0.0
+    date: '2026-09-09'
+    code: 614204
+    url: /works/614204/
   - title: Tomodachi ga Tsuretekita Oba-san 1
     author: exit-up
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/615538.jpg
@@ -1471,7 +1494,7 @@ works:
       Clara and Cora'
     author: onizuka-frill
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679488.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-08'
     code: 679488
     url: /works/679488/

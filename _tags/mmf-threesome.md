@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "mmf threesome"
-work_count: 30
+work_count: 31
 works:
   - title: Hitozuma Hyakka
     author: hase-tsubura
@@ -155,6 +155,13 @@ works:
     date: '2026-07-16'
     code: 655498
     url: /works/655498/
+  - title: 'Chinmake Kouman Okugata-sama | Haughty Housewives: Defeated by Dick'
+    author: minamida-usuke
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/657459.jpg
+    rating: 0.0
+    date: '2026-09-09'
+    code: 657459
+    url: /works/657459/
   - title: Akogare no Ano Hito wa | The Person I Admire
     author: minami-chisato-arisawa-tsukasa
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662657.jpg

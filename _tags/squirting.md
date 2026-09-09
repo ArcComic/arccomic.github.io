@@ -90,7 +90,7 @@ works:
       To Babymaking
     author: onizuka-frill
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/548015.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-08'
     code: 548015
     url: /works/548015/
@@ -251,7 +251,7 @@ works:
   - title: Kyonyuu no Tomodachi to Tsukiau made no Hanashi Gojitsudan
     author: fuguta-ke
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/616896.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-09-08'
     code: 616896
     url: /works/616896/
@@ -597,14 +597,14 @@ works:
       story of how the mom at my homestay came over and over on my huge cock
     author: minegami-aya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679358.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-08'
     code: 679358
     url: /works/679358/
   - title: Dokidoki, Yada! | No Way! Stop Playing With My Heart!
     author: ekakibit
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679368.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-08'
     code: 679368
     url: /works/679368/
@@ -612,14 +612,14 @@ works:
       Clara and Cora'
     author: onizuka-frill
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679488.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-08'
     code: 679488
     url: /works/679488/
   - title: Having Sex on the Day I Start Dating my Tomboyish Childhood Friend
     author: fuguta-ke
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679504.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-08'
     code: 679504
     url: /works/679504/

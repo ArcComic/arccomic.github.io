@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "x-ray"
-work_count: 171
+work_count: 173
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -186,6 +186,13 @@ works:
     date: '2026-03-04'
     code: 508649
     url: /works/508649/
+  - title: Kawari wa Okaa-san | The Stand-in is Her Mom
+    author: etuzan-jakusui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/528470.jpg
+    rating: 0.0
+    date: '2026-09-09'
+    code: 528470
+    url: /works/528470/
   - title: Keitai de Muchimuchi na Chounyuu JD ni Chinpo o Shigoki Agete Morau Hanashi
     author: yosyo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/531191.jpg
@@ -932,6 +939,13 @@ works:
     date: '2026-08-18'
     code: 656319
     url: /works/656319/
+  - title: 'Chinmake Kouman Okugata-sama | Haughty Housewives: Defeated by Dick'
+    author: minamida-usuke
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/657459.jpg
+    rating: 0.0
+    date: '2026-09-09'
+    code: 657459
+    url: /works/657459/
   - title: 'Fukushū Yami Baito "Watashi no Moto Tsuma o Ninshin Sasete Hoshī" | My Part-Time
       Job Is Getting Revenge: Get My Ex-Wife Pregnant'
     author: chotto-b-sen
@@ -1275,7 +1289,7 @@ works:
       story of how the mom at my homestay came over and over on my huge cock
     author: minegami-aya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679358.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-08'
     code: 679358
     url: /works/679358/

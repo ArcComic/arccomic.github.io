@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "hairy"
-work_count: 164
+work_count: 166
 works:
   - title: Adoration
     author: kishizuka-kenji
@@ -42,7 +42,7 @@ works:
   - title: Hikki Mother Fucker
     author: otochichi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/287208.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-08'
     code: 287208
     url: /works/287208/
@@ -129,7 +129,7 @@ works:
   - title: Kaachan wa Ore no... | Mom is My...  Chapter 1-3
     author: jirou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/415046.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-08'
     code: 415046
     url: /works/415046/
@@ -289,6 +289,13 @@ works:
     date: '2026-04-16'
     code: 527171
     url: /works/527171/
+  - title: Kawari wa Okaa-san | The Stand-in is Her Mom
+    author: etuzan-jakusui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/528470.jpg
+    rating: 0.0
+    date: '2026-09-09'
+    code: 528470
+    url: /works/528470/
   - title: Netorareru.~ Tsuma ga Ochi Yuku Hen'ai Kairaku no Hate ni...1-5 | NETORARERU,
       A Wife's Descent Into Sinful Pleasures 1-5
     author: yuuki-ryo
@@ -400,7 +407,7 @@ works:
       To Babymaking
     author: onizuka-frill
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/548015.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-08'
     code: 548015
     url: /works/548015/
@@ -998,6 +1005,13 @@ works:
     date: '2026-07-08'
     code: 656419
     url: /works/656419/
+  - title: 'Chinmake Kouman Okugata-sama | Haughty Housewives: Defeated by Dick'
+    author: minamida-usuke
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/657459.jpg
+    rating: 0.0
+    date: '2026-09-09'
+    code: 657459
+    url: /works/657459/
   - title: Onna Tomodachi to Omotteitara Mesu Deshita | I Thought She Was Just a Friend,
       Turned Out She Was a Woman
     author: ippan-seijin

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "tall man"
-work_count: 21
+work_count: 22
 works:
   - title: Kono Furin wa Otto no Tame "Anata, Yurushite…." To, Netorareru Tsuma | 這場外遇是為了老公「親愛的，原諒我…」這樣說著，為老公戴綠帽的妻子
     author: korosuke
@@ -32,6 +32,13 @@ works:
     date: '2026-05-03'
     code: 498051
     url: /works/498051/
+  - title: Kawari wa Okaa-san | The Stand-in is Her Mom
+    author: etuzan-jakusui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/528470.jpg
+    rating: 0.0
+    date: '2026-09-09'
+    code: 528470
+    url: /works/528470/
   - title: Taido mo Karada mo Zenbu deka I Segawa-san no Gachi koi Taisho ni Narimashita
       | I’ve Become The Target of His Affection!
     author: the-waidan

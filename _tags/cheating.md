@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "cheating"
-work_count: 205
+work_count: 211
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -203,6 +203,14 @@ works:
     date: '2026-03-09'
     code: 361032
     url: /works/361032/
+  - title: Mainichi Okaa-san de Seiyoku Shori! Onaho Gawari no Hahaoya ni Tairyou Nakadashi
+      Hen | Mom Gets Me Off Every Day! Filling Mom With Cum
+    author: natsume-benkei
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/366731.jpg
+    rating: 0.0
+    date: '2026-09-09'
+    code: 366731
+    url: /works/366731/
   - title: Kurata Akiko no Kokuhaku 2 - Confession of Akiko kurata Epsode 2
     author: ootsuka-mahiro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/369382.jpg
@@ -250,7 +258,7 @@ works:
   - title: Kaachan wa Ore no... | Mom is My...  Chapter 1-3
     author: jirou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/415046.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-08'
     code: 415046
     url: /works/415046/
@@ -402,6 +410,13 @@ works:
     date: '2026-04-19'
     code: 504221
     url: /works/504221/
+  - title: Shizuka no Umi + Gojitsudan | Shizuka's Sea + Epilogue
+    author: arakure
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/507591.jpg
+    rating: 0.0
+    date: '2026-09-09'
+    code: 507591
+    url: /works/507591/
   - title: Oppai na Natsuyasumi Soushuuhen | The Summer Break of Boobs Complete
     author: higashino-mikan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/508649.jpg
@@ -528,6 +543,13 @@ works:
     date: '2026-04-16'
     code: 527171
     url: /works/527171/
+  - title: Kawari wa Okaa-san | The Stand-in is Her Mom
+    author: etuzan-jakusui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/528470.jpg
+    rating: 0.0
+    date: '2026-09-09'
+    code: 528470
+    url: /works/528470/
   - title: Rossia kei Hitozuma to Doutei kun no Himitsu no Kankei
     author: kibi-anmitsu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/530293.jpg
@@ -763,6 +785,13 @@ works:
     date: '2026-05-01'
     code: 591112
     url: /works/591112/
+  - title: Nyuuin-chuu no Muramura wa Okaa-san de... 2
+    author: natsume-benkei
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/592039.jpg
+    rating: 0.0
+    date: '2026-09-09'
+    code: 592039
+    url: /works/592039/
   - title: Sinful Lust 4
     author: zetto
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/593064.jpg
@@ -954,6 +983,13 @@ works:
     date: '2026-08-25'
     code: 637131
     url: /works/637131/
+  - title: Practice H with your mom!
+    author: natsume-benkei
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/637655.jpg
+    rating: 0.0
+    date: '2026-09-09'
+    code: 637655
+    url: /works/637655/
   - title: My gentle and kind friend's mom was a slut who devoured young boys' cocks.
     author: dekamatsu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/637847.jpg
@@ -1190,6 +1226,13 @@ works:
     date: '2026-07-09'
     code: 657256
     url: /works/657256/
+  - title: 'Chinmake Kouman Okugata-sama | Haughty Housewives: Defeated by Dick'
+    author: minamida-usuke
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/657459.jpg
+    rating: 0.0
+    date: '2026-09-09'
+    code: 657459
+    url: /works/657459/
   - title: Warui Ko | Bad Girl
     author: arai-kei
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/658005.jpg
@@ -1497,7 +1540,7 @@ works:
       story of how the mom at my homestay came over and over on my huge cock
     author: minegami-aya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679358.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-08'
     code: 679358
     url: /works/679358/

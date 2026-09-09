@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "mouth mask"
-work_count: 13
+work_count: 14
 works:
   - title: Kanojo wa Boku no Taieki de Ugoiteiru Phase. 05 [English] =NSS=
     author: nagareboshi
@@ -17,6 +17,14 @@ works:
     date: '2026-04-21'
     code: 579976
     url: /works/579976/
+  - title: Mechakucha Jiraippoi kedo Ne wa Yasashisouna Ko | Serious Land Mine Vibes
+      but Deep Down She Seems Sweet
+    author: 7zu7
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/604569.jpg
+    rating: 4.4
+    date: '2026-09-09'
+    code: 604569
+    url: /works/604569/
   - title: Chijo Monogatari Bakunyuu Chijukujo to Doutei-kun
     author: enma
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/635174.jpg

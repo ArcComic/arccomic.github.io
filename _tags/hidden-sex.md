@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "hidden sex"
-work_count: 44
+work_count: 46
 works:
   - title: Megane Loli Choukyou Jugyou!! ~Otonashii Megane Lolikko ni Muriyari Dekachin
       Sounyuu~ | The Loli In Glasses' Training Lesson!! ~Force Fucking a Timid Glasses
@@ -35,6 +35,13 @@ works:
     date: '2026-07-16'
     code: 434993
     url: /works/434993/
+  - title: Nyuuin-chuu no Muramura wa...
+    author: natsume-benkei
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/495599.jpg
+    rating: 0.0
+    date: '2026-09-09'
+    code: 495599
+    url: /works/495599/
   - title: Little Blue Bird
     author: kidouchi-kon
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/508534.jpg
@@ -151,6 +158,13 @@ works:
     date: '2026-08-29'
     code: 589969
     url: /works/589969/
+  - title: Nyuuin-chuu no Muramura wa Okaa-san de... 2
+    author: natsume-benkei
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/592039.jpg
+    rating: 0.0
+    date: '2026-09-09'
+    code: 592039
+    url: /works/592039/
   - title: '"Yasashii Dake no Otoko" to Tsuma ni Sute Raretanode... | My Wife Left Me
       Because I was "Too Gentle"...'
     author: special-g

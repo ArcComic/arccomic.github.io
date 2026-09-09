@@ -6,7 +6,7 @@ works:
   - title: Hikki Mother Fucker
     author: otochichi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/287208.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-08'
     code: 287208
     url: /works/287208/

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "nakadashi"
-work_count: 447
+work_count: 452
 works:
   - title: Adoration
     author: kishizuka-kenji
@@ -77,7 +77,7 @@ works:
   - title: Hikki Mother Fucker
     author: otochichi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/287208.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-08'
     code: 287208
     url: /works/287208/
@@ -196,6 +196,14 @@ works:
     date: '2026-04-19'
     code: 387637
     url: /works/387637/
+  - title: Mecha Eroi kedo Sasoi ni Nottara Hametsushisou na Ko | A Girl Who Is Very
+      Sexy But Will Ruin Me If I Ask Her Out
+    author: 7zu7
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/391732.jpg
+    rating: 4.9
+    date: '2026-09-09'
+    code: 391732
+    url: /works/391732/
   - title: 'Kouen no Bench ni Suwatteru Kirei na Onee-san ga Boku ni "Ochinchin o Misete"
       to Itte Kuru no de... | A Pretty Onee-San, that''s sitting on a Bench in the Park...suddenly
       says to Me: [Show Me Your Dick].'
@@ -245,7 +253,7 @@ works:
   - title: Kaachan wa Ore no... | Mom is My...  Chapter 1-3
     author: jirou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/415046.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-08'
     code: 415046
     url: /works/415046/
@@ -557,6 +565,13 @@ works:
     date: '2026-04-23'
     code: 506303
     url: /works/506303/
+  - title: Shizuka no Umi + Gojitsudan | Shizuka's Sea + Epilogue
+    author: arakure
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/507591.jpg
+    rating: 0.0
+    date: '2026-09-09'
+    code: 507591
+    url: /works/507591/
   - title: Koi ni Naru made, | Until It Becomes Love
     author: danimaru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/507681.jpg
@@ -689,6 +704,13 @@ works:
     date: '2026-08-18'
     code: 521812
     url: /works/521812/
+  - title: Kawari wa Okaa-san | The Stand-in is Her Mom
+    author: etuzan-jakusui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/528470.jpg
+    rating: 0.0
+    date: '2026-09-09'
+    code: 528470
+    url: /works/528470/
   - title: Netorareru.~ Tsuma ga Ochi Yuku Hen'ai Kairaku no Hate ni...1-5 | NETORARERU,
       A Wife's Descent Into Sinful Pleasures 1-5
     author: yuuki-ryo
@@ -843,7 +865,7 @@ works:
       To Babymaking
     author: onizuka-frill
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/548015.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-08'
     code: 548015
     url: /works/548015/
@@ -1135,7 +1157,7 @@ works:
       Me ~
     author: onizuka-frill
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/589229.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-09-08'
     code: 589229
     url: /works/589229/
@@ -1154,6 +1176,13 @@ works:
     date: '2026-04-15'
     code: 591649
     url: /works/591649/
+  - title: Nyuuin-chuu no Muramura wa Okaa-san de... 2
+    author: natsume-benkei
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/592039.jpg
+    rating: 0.0
+    date: '2026-09-09'
+    code: 592039
+    url: /works/592039/
   - title: Kyoushi to Mama to Koibito no Kao
     author: mifune-seijirou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/592307.jpg
@@ -1367,7 +1396,7 @@ works:
   - title: Kyonyuu no Tomodachi to Tsukiau made no Hanashi Gojitsudan
     author: fuguta-ke
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/616896.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-09-08'
     code: 616896
     url: /works/616896/
@@ -2517,6 +2546,13 @@ works:
     date: '2026-07-09'
     code: 656753
     url: /works/656753/
+  - title: 'Chinmake Kouman Okugata-sama | Haughty Housewives: Defeated by Dick'
+    author: minamida-usuke
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/657459.jpg
+    rating: 0.0
+    date: '2026-09-09'
+    code: 657459
+    url: /works/657459/
   - title: Make Love Rank match!!③
     author: napo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/659484.jpg
@@ -3286,14 +3322,14 @@ works:
       story of how the mom at my homestay came over and over on my huge cock
     author: minegami-aya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679358.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-08'
     code: 679358
     url: /works/679358/
   - title: Dokidoki, Yada! | No Way! Stop Playing With My Heart!
     author: ekakibit
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679368.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-08'
     code: 679368
     url: /works/679368/
@@ -3301,14 +3337,14 @@ works:
       Clara and Cora'
     author: onizuka-frill
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679488.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-08'
     code: 679488
     url: /works/679488/
   - title: Having Sex on the Day I Start Dating my Tomboyish Childhood Friend
     author: fuguta-ke
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679504.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-08'
     code: 679504
     url: /works/679504/

@@ -1,12 +1,12 @@
 ---
 layout: tag
 tag_name: "blowjob"
-work_count: 366
+work_count: 368
 works:
   - title: Office Love Scramble Ch. 1
     author: tohzai
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/131165.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-08'
     code: 131165
     url: /works/131165/
@@ -210,7 +210,7 @@ works:
   - title: Kaachan wa Ore no... | Mom is My...  Chapter 1-3
     author: jirou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/415046.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-08'
     code: 415046
     url: /works/415046/
@@ -404,6 +404,13 @@ works:
     date: '2026-08-31'
     code: 494172
     url: /works/494172/
+  - title: Nyuuin-chuu no Muramura wa...
+    author: natsume-benkei
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/495599.jpg
+    rating: 0.0
+    date: '2026-09-09'
+    code: 495599
+    url: /works/495599/
   - title: Onozomi deshitara Saimin wo ~Maki-san Himitsu no Renai Therapy~ | If you
       wish, hypnosis ~Maki-san's secret love therapy~
     author: meeko
@@ -635,7 +642,7 @@ works:
       To Babymaking
     author: onizuka-frill
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/548015.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-08'
     code: 548015
     url: /works/548015/
@@ -896,7 +903,7 @@ works:
       Me ~
     author: onizuka-frill
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/589229.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-09-08'
     code: 589229
     url: /works/589229/
@@ -1143,7 +1150,7 @@ works:
   - title: Kyonyuu no Tomodachi to Tsukiau made no Hanashi Gojitsudan
     author: fuguta-ke
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/616896.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-09-08'
     code: 616896
     url: /works/616896/
@@ -2054,6 +2061,13 @@ works:
     date: '2026-07-09'
     code: 657256
     url: /works/657256/
+  - title: 'Chinmake Kouman Okugata-sama | Haughty Housewives: Defeated by Dick'
+    author: minamida-usuke
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/657459.jpg
+    rating: 0.0
+    date: '2026-09-09'
+    code: 657459
+    url: /works/657459/
   - title: Make Love Rank match!!③
     author: napo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/659484.jpg
@@ -2698,14 +2712,14 @@ works:
   - title: Dokidoki, Yada! | No Way! Stop Playing With My Heart!
     author: ekakibit
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679368.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-08'
     code: 679368
     url: /works/679368/
   - title: Having Sex on the Day I Start Dating my Tomboyish Childhood Friend
     author: fuguta-ke
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679504.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-08'
     code: 679504
     url: /works/679504/

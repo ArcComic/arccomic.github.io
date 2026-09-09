@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "wholesome"
-work_count: 95
+work_count: 98
 works:
   - title: FLUFFY LAUGH GIRL
     author: shibasaki-syouzi
@@ -61,6 +61,14 @@ works:
     date: '2026-09-06'
     code: 370164
     url: /works/370164/
+  - title: Mecha Eroi kedo Sasoi ni Nottara Hametsushisou na Ko | A Girl Who Is Very
+      Sexy But Will Ruin Me If I Ask Her Out
+    author: 7zu7
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/391732.jpg
+    rating: 4.9
+    date: '2026-09-09'
+    code: 391732
+    url: /works/391732/
   - title: Tonari no Heya no OL-san | OL-san Next Door
     author: kagami
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/396089.jpg
@@ -320,6 +328,14 @@ works:
     date: '2026-03-05'
     code: 593456
     url: /works/593456/
+  - title: Mechakucha Jiraippoi kedo Ne wa Yasashisouna Ko | Serious Land Mine Vibes
+      but Deep Down She Seems Sweet
+    author: 7zu7
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/604569.jpg
+    rating: 4.4
+    date: '2026-09-09'
+    code: 604569
+    url: /works/604569/
   - title: Otoko no Ko otodokeshimasu! ~Itsumo kuru Haitatsuin-san ga masaka no Otoko
       no Ko dattakedo mayowazu hameta~
     author: mitsujirou
@@ -351,6 +367,14 @@ works:
     date: '2026-02-26'
     code: 610539
     url: /works/610539/
+  - title: Onna Tomodachi Futari to Perochuu suru Hanashi | A Story About Kissing 2
+      Female Friends
+    author: mmchair
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/614204.jpg
+    rating: 0.0
+    date: '2026-09-09'
+    code: 614204
+    url: /works/614204/
   - title: Kimiha Bokuno Keikokuno Bijyo | You're the Woman of my Dreams
     author: yasson-yoshiyuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/618098.jpg

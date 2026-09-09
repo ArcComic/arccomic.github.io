@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "story arc"
-work_count: 119
+work_count: 121
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -343,6 +343,13 @@ works:
     date: '2026-04-15'
     code: 591649
     url: /works/591649/
+  - title: Nyuuin-chuu no Muramura wa Okaa-san de... 2
+    author: natsume-benkei
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/592039.jpg
+    rating: 0.0
+    date: '2026-09-09'
+    code: 592039
+    url: /works/592039/
   - title: '"Yasashii Dake no Otoko" to Tsuma ni Sute Raretanode... | My Wife Left Me
       Because I was "Too Gentle"...'
     author: special-g
@@ -488,6 +495,13 @@ works:
     date: '2026-03-11'
     code: 636122
     url: /works/636122/
+  - title: Practice H with your mom!
+    author: natsume-benkei
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/637655.jpg
+    rating: 0.0
+    date: '2026-09-09'
+    code: 637655
+    url: /works/637655/
   - title: Atarimae Sex ~Ane to Otouto no Nichijou~ | Natural Sex ~The Daily Life of
       an Older Sister and Younger Brother~
     author: mochichimaru

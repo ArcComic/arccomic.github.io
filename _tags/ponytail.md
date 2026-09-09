@@ -6,7 +6,7 @@ works:
   - title: Hikki Mother Fucker
     author: otochichi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/287208.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-08'
     code: 287208
     url: /works/287208/
@@ -703,7 +703,7 @@ works:
   - title: Dokidoki, Yada! | No Way! Stop Playing With My Heart!
     author: ekakibit
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679368.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-08'
     code: 679368
     url: /works/679368/
@@ -711,7 +711,7 @@ works:
       Clara and Cora'
     author: onizuka-frill
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679488.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-08'
     code: 679488
     url: /works/679488/

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "full color"
-work_count: 141
+work_count: 145
 works:
   - title: Tsuma wo Yariman ni Shimasu Shakkin no Tame desu kara.
     author: pietoro
@@ -38,6 +38,14 @@ works:
     date: '2026-04-13'
     code: 351868
     url: /works/351868/
+  - title: Mainichi Okaa-san de Seiyoku Shori! Onaho Gawari no Hahaoya ni Tairyou Nakadashi
+      Hen | Mom Gets Me Off Every Day! Filling Mom With Cum
+    author: natsume-benkei
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/366731.jpg
+    rating: 0.0
+    date: '2026-09-09'
+    code: 366731
+    url: /works/366731/
   - title: Dakara Ore wa Kanojo o Netori Tsuzuketa.
     author: minamihama-yoriko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/375962.jpg
@@ -186,6 +194,13 @@ works:
     date: '2026-04-12'
     code: 492657
     url: /works/492657/
+  - title: Nyuuin-chuu no Muramura wa...
+    author: natsume-benkei
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/495599.jpg
+    rating: 0.0
+    date: '2026-09-09'
+    code: 495599
+    url: /works/495599/
   - title: Mimikyu Myth 2
     author: meowwithme
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/500102.jpg
@@ -472,6 +487,13 @@ works:
     date: '2026-08-29'
     code: 589969
     url: /works/589969/
+  - title: Nyuuin-chuu no Muramura wa Okaa-san de... 2
+    author: natsume-benkei
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/592039.jpg
+    rating: 0.0
+    date: '2026-09-09'
+    code: 592039
+    url: /works/592039/
   - title: Sinful Lust 4
     author: zetto
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/593064.jpg
@@ -612,6 +634,13 @@ works:
     date: '2026-03-07'
     code: 635266
     url: /works/635266/
+  - title: Practice H with your mom!
+    author: natsume-benkei
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/637655.jpg
+    rating: 0.0
+    date: '2026-09-09'
+    code: 637655
+    url: /works/637655/
   - title: Kaa-san to Sex Shita Mikkakan | Three Days of Sex with My Mom
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/639194.jpg
@@ -1029,7 +1058,7 @@ works:
   - title: Okaa-san wa Musuko no Nakadashi Senyou Onahole Bangaihen
     author: natsume-benkei
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679501.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-08'
     code: 679501
     url: /works/679501/

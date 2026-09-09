@@ -1,13 +1,13 @@
 ---
 layout: tag
 tag_name: "no penetration"
-work_count: 17
+work_count: 18
 works:
   - title: Onee-chan to Torokeru Kimochi SP 2 | The Melting Feeling with Onee-chan SP
       2
     author: sky
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/464903.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-08'
     code: 464903
     url: /works/464903/
@@ -25,6 +25,14 @@ works:
     date: '2026-05-03'
     code: 588660
     url: /works/588660/
+  - title: Onna Tomodachi Futari to Perochuu suru Hanashi | A Story About Kissing 2
+      Female Friends
+    author: mmchair
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/614204.jpg
+    rating: 0.0
+    date: '2026-09-09'
+    code: 614204
+    url: /works/614204/
   - title: 'Mother and Child Living Together Chapter 2 : Puberty'
     author: fuwatoro-opanchu-cake
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/616170.jpg

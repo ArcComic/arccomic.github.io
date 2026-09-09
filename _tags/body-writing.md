@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "body writing"
-work_count: 6
+work_count: 7
 works:
   - title: IKUu!! Zenkou Seito no Mae de Koukai Zecchou-saserareta JK no Matsuro 1 |
       Cumming in Front of the Entire Student Body 1
@@ -47,4 +47,11 @@ works:
     date: '2026-05-20'
     code: 651197
     url: /works/651197/
+  - title: 'Chinmake Kouman Okugata-sama | Haughty Housewives: Defeated by Dick'
+    author: minamida-usuke
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/657459.jpg
+    rating: 0.0
+    date: '2026-09-09'
+    code: 657459
+    url: /works/657459/
 ---

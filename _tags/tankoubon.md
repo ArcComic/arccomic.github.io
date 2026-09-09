@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "tankoubon"
-work_count: 47
+work_count: 48
 works:
   - title: Kaisha de Iroiro | Gettin' Busy at the Office
     author: hara-shigeyuki
@@ -175,6 +175,13 @@ works:
     date: '2026-08-18'
     code: 656319
     url: /works/656319/
+  - title: 'Chinmake Kouman Okugata-sama | Haughty Housewives: Defeated by Dick'
+    author: minamida-usuke
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/657459.jpg
+    rating: 0.0
+    date: '2026-09-09'
+    code: 657459
+    url: /works/657459/
   - title: Genkai New Town no Inei Genkai New Town wa Mitsu no Aji 2 - The shadow of
       marginal new town
     author: saigado-ishoku-dougen

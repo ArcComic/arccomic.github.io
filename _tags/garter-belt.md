@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "garter belt"
-work_count: 21
+work_count: 22
 works:
   - title: Kaisha de Iroiro | Gettin' Busy at the Office
     author: hara-shigeyuki
@@ -13,7 +13,7 @@ works:
   - title: Office Love Scramble Ch. 1
     author: tohzai
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/131165.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-08'
     code: 131165
     url: /works/131165/
@@ -73,10 +73,17 @@ works:
       Me ~
     author: onizuka-frill
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/589229.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-09-08'
     code: 589229
     url: /works/589229/
+  - title: Nyuuin-chuu no Muramura wa Okaa-san de... 2
+    author: natsume-benkei
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/592039.jpg
+    rating: 0.0
+    date: '2026-09-09'
+    code: 592039
+    url: /works/592039/
   - title: Tannin no Meido ni Nacchatta KURO GAL 2 | The Black Gal Who Became The Homeroom
       Teacher's Maid 2
     author: ootsuka-kotora

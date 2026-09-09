@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "virginity"
-work_count: 92
+work_count: 93
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -13,7 +13,7 @@ works:
   - title: Office Love Scramble Ch. 1
     author: tohzai
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/131165.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-08'
     code: 131165
     url: /works/131165/
@@ -287,7 +287,7 @@ works:
       Me ~
     author: onizuka-frill
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/589229.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-09-08'
     code: 589229
     url: /works/589229/
@@ -564,6 +564,13 @@ works:
     date: '2026-09-06'
     code: 654603
     url: /works/654603/
+  - title: 'Chinmake Kouman Okugata-sama | Haughty Housewives: Defeated by Dick'
+    author: minamida-usuke
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/657459.jpg
+    rating: 0.0
+    date: '2026-09-09'
+    code: 657459
+    url: /works/657459/
   - title: Imouto ga Ore no Kanojo!? 2-haku 3-ka no Ecchi na Kankei | My Sister is My
       Girlfriend!? Sexual Relationship for Two Nights and Three Days
     author: katagiri-kaneharu
@@ -681,7 +688,7 @@ works:
   - title: Having Sex on the Day I Start Dating my Tomboyish Childhood Friend
     author: fuguta-ke
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679504.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-08'
     code: 679504
     url: /works/679504/

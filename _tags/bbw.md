@@ -28,7 +28,7 @@ works:
   - title: Hikki Mother Fucker
     author: otochichi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/287208.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-08'
     code: 287208
     url: /works/287208/
@@ -42,7 +42,7 @@ works:
   - title: Kaachan wa Ore no... | Mom is My...  Chapter 1-3
     author: jirou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/415046.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-08'
     code: 415046
     url: /works/415046/
@@ -143,7 +143,7 @@ works:
   - title: Chubby Nurse
     author: herohero-tom
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/659643.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-08'
     code: 659643
     url: /works/659643/
