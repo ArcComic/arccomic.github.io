@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "full censorship"
-work_count: 61
+work_count: 63
 works:
   - title: Kaisha de Iroiro | Gettin' Busy at the Office
     author: hara-shigeyuki
@@ -110,6 +110,13 @@ works:
     date: '2026-04-27'
     code: 425528
     url: /works/425528/
+  - title: Hypnotic Domination ~ The Fall of Tennis Club Ace ~
+    author: danchino
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/461537.jpg
+    rating: 4.8
+    date: '2026-09-09'
+    code: 461537
+    url: /works/461537/
   - title: Tempt & Throb
     author: mushihara
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/468655.jpg
@@ -444,6 +451,13 @@ works:
     date: '2026-09-05'
     code: 678354
     url: /works/678354/
+  - title: korette unmei? | Was This Destiny?
+    author: enokido
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679745.jpg
+    rating: 4.5
+    date: '2026-09-09'
+    code: 679745
+    url: /works/679745/
   - title: Hottokenaino
     author: hara-shigeyuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/77864.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "stockings"
-work_count: 135
+work_count: 136
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -400,7 +400,7 @@ works:
   - title: Nyuuin-chuu no Muramura wa Okaa-san de... 2
     author: natsume-benkei
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/592039.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-09'
     code: 592039
     url: /works/592039/
@@ -988,6 +988,13 @@ works:
     date: '2026-09-08'
     code: 679501
     url: /works/679501/
+  - title: nannal - Hahaoya Shikkaku ーMama wa Benjoー
+    author: nannal
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679774.jpg
+    rating: 4.3
+    date: '2026-09-09'
+    code: 679774
+    url: /works/679774/
   - title: Jokyoushi - Hot For Teachers | Female Teachers
     author: drill-murata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/81375.jpg

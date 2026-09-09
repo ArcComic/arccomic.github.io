@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "cheating"
-work_count: 211
+work_count: 216
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -207,7 +207,7 @@ works:
       Hen | Mom Gets Me Off Every Day! Filling Mom With Cum
     author: natsume-benkei
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/366731.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-09'
     code: 366731
     url: /works/366731/
@@ -413,7 +413,7 @@ works:
   - title: Shizuka no Umi + Gojitsudan | Shizuka's Sea + Epilogue
     author: arakure
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/507591.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-09'
     code: 507591
     url: /works/507591/
@@ -546,7 +546,7 @@ works:
   - title: Kawari wa Okaa-san | The Stand-in is Her Mom
     author: etuzan-jakusui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/528470.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-09'
     code: 528470
     url: /works/528470/
@@ -788,7 +788,7 @@ works:
   - title: Nyuuin-chuu no Muramura wa Okaa-san de... 2
     author: natsume-benkei
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/592039.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-09'
     code: 592039
     url: /works/592039/
@@ -904,6 +904,13 @@ works:
     date: '2026-03-05'
     code: 631501
     url: /works/631501/
+  - title: Futari Dake no Himitsu -Moshi Deliheal Yonde Musume ga Kichattara-
+    author: takuwan
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/631592.jpg
+    rating: 4.4
+    date: '2026-09-09'
+    code: 631592
+    url: /works/631592/
   - title: Kajitsu 7
     author: ken-1
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/631665.jpg
@@ -986,7 +993,7 @@ works:
   - title: Practice H with your mom!
     author: natsume-benkei
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/637655.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-09'
     code: 637655
     url: /works/637655/
@@ -1229,7 +1236,7 @@ works:
   - title: 'Chinmake Kouman Okugata-sama | Haughty Housewives: Defeated by Dick'
     author: minamida-usuke
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/657459.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-09'
     code: 657459
     url: /works/657459/
@@ -1544,6 +1551,35 @@ works:
     date: '2026-09-08'
     code: 679358
     url: /works/679358/
+  - title: Namashio Tadareta Shuukan | A Week of Depraved Raw Creampies
+    author: kawaraya
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679764.jpg
+    rating: 4.4
+    date: '2026-09-09'
+    code: 679764
+    url: /works/679764/
+  - title: fuuga - Kaa-san wa Saikou no Ona Pet ~Deka Nyuurin Mama Hen~
+    author: fuuga
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679770.jpg
+    rating: 4.8
+    date: '2026-09-09'
+    code: 679770
+    url: /works/679770/
+  - title: Boku no Aisuru Tsuma o Daite Kudasai 1 - 3
+    author: smells-like
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679771.jpg
+    rating: 4.6
+    date: '2026-09-09'
+    code: 679771
+    url: /works/679771/
+  - title: The Face I Show My Husband Is Different | Otto no Mae to wa Chigau Kao [English]
+      [Cookie Cruncher
+    author: jirou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679830.jpg
+    rating: 4.6
+    date: '2026-09-09'
+    code: 679830
+    url: /works/679830/
   - title: Jokyoushi - Hot For Teachers | Female Teachers
     author: drill-murata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/81375.jpg

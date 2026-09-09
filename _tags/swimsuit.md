@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "swimsuit"
-work_count: 40
+work_count: 41
 works:
   - title: Kizashi
     author: yoshiura-kazuya
@@ -79,6 +79,13 @@ works:
     date: '2026-02-26'
     code: 615775
     url: /works/615775/
+  - title: Oikko no Girlfriend o Wakaraseta Ken_关于外甥女朋友的教育方法_ 1-4
+    author: nanao-yukiji
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/620889.jpg
+    rating: 4.6
+    date: '2026-09-09'
+    code: 620889
+    url: /works/620889/
   - title: Koukan Nikki ー School Whore Diaries
     author: henkuma
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/634328.jpg

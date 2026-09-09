@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big breasts"
-work_count: 606
+work_count: 615
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -624,7 +624,7 @@ works:
   - title: Nyuuin-chuu no Muramura wa...
     author: natsume-benkei
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/495599.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-09'
     code: 495599
     url: /works/495599/
@@ -669,7 +669,7 @@ works:
   - title: Shizuka no Umi + Gojitsudan | Shizuka's Sea + Epilogue
     author: arakure
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/507591.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-09'
     code: 507591
     url: /works/507591/
@@ -853,7 +853,7 @@ works:
   - title: Kawari wa Okaa-san | The Stand-in is Her Mom
     author: etuzan-jakusui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/528470.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-09'
     code: 528470
     url: /works/528470/
@@ -1488,7 +1488,7 @@ works:
   - title: Nyuuin-chuu no Muramura wa Okaa-san de... 2
     author: natsume-benkei
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/592039.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-09'
     code: 592039
     url: /works/592039/
@@ -2193,7 +2193,7 @@ works:
   - title: Practice H with your mom!
     author: natsume-benkei
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/637655.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-09'
     code: 637655
     url: /works/637655/
@@ -2941,6 +2941,13 @@ works:
     date: '2026-05-21'
     code: 651499
     url: /works/651499/
+  - title: Tooi Kimi ni, Boku wa Todokanai | I can't reach you, far away.
+    author: futamine-kobito
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651967.jpg
+    rating: 4.3
+    date: '2026-09-09'
+    code: 651967
+    url: /works/651967/
   - title: Kyonyuu Kanojo ni Hitasura Shibori Toraremakuru Hanashi | Squeeze Until Empty
     author: fuguta-ke
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/652218.jpg
@@ -3202,7 +3209,7 @@ works:
   - title: 'Chinmake Kouman Okugata-sama | Haughty Housewives: Defeated by Dick'
     author: minamida-usuke
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/657459.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-09'
     code: 657459
     url: /works/657459/
@@ -4466,6 +4473,64 @@ works:
     date: '2026-09-08'
     code: 679504
     url: /works/679504/
+  - title: The Night She Trembled-The Reason Ichika Gave Her Body to a Scumbag Junior~
+      Part One
+    author: futamine-kobito
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679740.jpg
+    rating: 4.1
+    date: '2026-09-09'
+    code: 679740
+    url: /works/679740/
+  - title: korette unmei? | Was This Destiny?
+    author: enokido
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679745.jpg
+    rating: 4.5
+    date: '2026-09-09'
+    code: 679745
+    url: /works/679745/
+  - title: Namashio Tadareta Shuukan | A Week of Depraved Raw Creampies
+    author: kawaraya
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679764.jpg
+    rating: 4.4
+    date: '2026-09-09'
+    code: 679764
+    url: /works/679764/
+  - title: fuuga - Kaa-san wa Saikou no Ona Pet ~Deka Nyuurin Mama Hen~
+    author: fuuga
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679770.jpg
+    rating: 4.8
+    date: '2026-09-09'
+    code: 679770
+    url: /works/679770/
+  - title: Boku no Aisuru Tsuma o Daite Kudasai 1 - 3
+    author: smells-like
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679771.jpg
+    rating: 4.6
+    date: '2026-09-09'
+    code: 679771
+    url: /works/679771/
+  - title: nannal - Hahaoya Shikkaku ーMama wa Benjoー
+    author: nannal
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679774.jpg
+    rating: 4.3
+    date: '2026-09-09'
+    code: 679774
+    url: /works/679774/
+  - title: Hitozuma Onmyouji Sakuya 1 - 3
+    author: hoshino-ryuichi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679778.jpg
+    rating: 4.1
+    date: '2026-09-09'
+    code: 679778
+    url: /works/679778/
+  - title: The Face I Show My Husband Is Different | Otto no Mae to wa Chigau Kao [English]
+      [Cookie Cruncher
+    author: jirou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679830.jpg
+    rating: 4.6
+    date: '2026-09-09'
+    code: 679830
+    url: /works/679830/
   - title: Hottokenaino
     author: hara-shigeyuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/77864.jpg

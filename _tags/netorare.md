@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "netorare"
-work_count: 234
+work_count: 240
 works:
   - title: Hitozuma Hyakka
     author: hase-tsubura
@@ -369,7 +369,7 @@ works:
   - title: Shizuka no Umi + Gojitsudan | Shizuka's Sea + Epilogue
     author: arakure
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/507591.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-09'
     code: 507591
     url: /works/507591/
@@ -1237,6 +1237,13 @@ works:
     date: '2026-05-20'
     code: 651381
     url: /works/651381/
+  - title: Tooi Kimi ni, Boku wa Todokanai | I can't reach you, far away.
+    author: futamine-kobito
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651967.jpg
+    rating: 4.3
+    date: '2026-09-09'
+    code: 651967
+    url: /works/651967/
   - title: Watashi wa Tsuma de Haha de, Tada no Mesu 3
     author: kakyuu-bushi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/652606.jpg
@@ -1720,6 +1727,43 @@ works:
     date: '2026-09-08'
     code: 679358
     url: /works/679358/
+  - title: The Night She Trembled-The Reason Ichika Gave Her Body to a Scumbag Junior~
+      Part One
+    author: futamine-kobito
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679740.jpg
+    rating: 4.1
+    date: '2026-09-09'
+    code: 679740
+    url: /works/679740/
+  - title: Boku no Aisuru Tsuma o Daite Kudasai 1 - 3
+    author: smells-like
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679771.jpg
+    rating: 4.6
+    date: '2026-09-09'
+    code: 679771
+    url: /works/679771/
+  - title: nannal - Hahaoya Shikkaku ーMama wa Benjoー
+    author: nannal
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679774.jpg
+    rating: 4.3
+    date: '2026-09-09'
+    code: 679774
+    url: /works/679774/
+  - title: Hitozuma Onmyouji Sakuya 1 - 3
+    author: hoshino-ryuichi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679778.jpg
+    rating: 4.1
+    date: '2026-09-09'
+    code: 679778
+    url: /works/679778/
+  - title: The Face I Show My Husband Is Different | Otto no Mae to wa Chigau Kao [English]
+      [Cookie Cruncher
+    author: jirou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679830.jpg
+    rating: 4.6
+    date: '2026-09-09'
+    code: 679830
+    url: /works/679830/
   - title: Inin Keiyaku | Lewd Pregnancy Contract
     author: yoshiura-kazuya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/83595.jpg

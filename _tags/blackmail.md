@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "blackmail"
-work_count: 87
+work_count: 90
 works:
   - title: Another Produce -Kaede Takagaki-
     author: marushin
@@ -443,6 +443,13 @@ works:
     date: '2026-05-20'
     code: 651381
     url: /works/651381/
+  - title: Tooi Kimi ni, Boku wa Todokanai | I can't reach you, far away.
+    author: futamine-kobito
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651967.jpg
+    rating: 4.3
+    date: '2026-09-09'
+    code: 651967
+    url: /works/651967/
   - title: REMIND ME & Beautiful Days Without You
     author: 3e
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/652639.jpg
@@ -645,6 +652,21 @@ works:
     date: '2026-09-07'
     code: 678909
     url: /works/678909/
+  - title: The Night She Trembled-The Reason Ichika Gave Her Body to a Scumbag Junior~
+      Part One
+    author: futamine-kobito
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679740.jpg
+    rating: 4.1
+    date: '2026-09-09'
+    code: 679740
+    url: /works/679740/
+  - title: nannal - Hahaoya Shikkaku ーMama wa Benjoー
+    author: nannal
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679774.jpg
+    rating: 4.3
+    date: '2026-09-09'
+    code: 679774
+    url: /works/679774/
   - title: Inin Keiyaku | Lewd Pregnancy Contract
     author: yoshiura-kazuya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/83595.jpg

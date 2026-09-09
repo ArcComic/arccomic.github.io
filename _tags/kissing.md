@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "kissing"
-work_count: 200
+work_count: 202
 works:
   - title: FLUFFY LAUGH GIRL
     author: shibasaki-syouzi
@@ -141,6 +141,13 @@ works:
     date: '2026-04-23'
     code: 448503
     url: /works/448503/
+  - title: Hypnotic Domination ~ The Fall of Tennis Club Ace ~
+    author: danchino
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/461537.jpg
+    rating: 4.8
+    date: '2026-09-09'
+    code: 461537
+    url: /works/461537/
   - title: What would happen if you said "Let's have sex." while your teacher was scolding
       you?
     author: chotto-b-sen
@@ -516,7 +523,7 @@ works:
   - title: Nyuuin-chuu no Muramura wa Okaa-san de... 2
     author: natsume-benkei
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/592039.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-09'
     code: 592039
     url: /works/592039/
@@ -598,7 +605,7 @@ works:
       Female Friends
     author: mmchair
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/614204.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-09'
     code: 614204
     url: /works/614204/
@@ -1498,4 +1505,11 @@ works:
     date: '2026-09-08'
     code: 679488
     url: /works/679488/
+  - title: korette unmei? | Was This Destiny?
+    author: enokido
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679745.jpg
+    rating: 4.5
+    date: '2026-09-09'
+    code: 679745
+    url: /works/679745/
 ---

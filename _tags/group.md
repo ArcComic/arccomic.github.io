@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "group"
-work_count: 128
+work_count: 130
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -39,6 +39,13 @@ works:
     date: '2026-07-17'
     code: 289523
     url: /works/289523/
+  - title: Ayami Hypno
+    author: yasuhiro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/306363.jpg
+    rating: 4.4
+    date: '2026-09-09'
+    code: 306363
+    url: /works/306363/
   - title: CHOCO x LOVE
     author: highlow
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/317673.jpg
@@ -251,7 +258,7 @@ works:
       Female Friends
     author: mmchair
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/614204.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-09'
     code: 614204
     url: /works/614204/
@@ -571,6 +578,13 @@ works:
     date: '2026-05-20'
     code: 651197
     url: /works/651197/
+  - title: Tooi Kimi ni, Boku wa Todokanai | I can't reach you, far away.
+    author: futamine-kobito
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651967.jpg
+    rating: 4.3
+    date: '2026-09-09'
+    code: 651967
+    url: /works/651967/
   - title: Atashi no Hou ga Tsuyoi Hazudattanoni!
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/652605.jpg
@@ -610,7 +624,7 @@ works:
   - title: 'Chinmake Kouman Okugata-sama | Haughty Housewives: Defeated by Dick'
     author: minamida-usuke
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/657459.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-09'
     code: 657459
     url: /works/657459/

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "hairy"
-work_count: 166
+work_count: 168
 works:
   - title: Adoration
     author: kishizuka-kenji
@@ -292,7 +292,7 @@ works:
   - title: Kawari wa Okaa-san | The Stand-in is Her Mom
     author: etuzan-jakusui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/528470.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-09'
     code: 528470
     url: /works/528470/
@@ -1008,7 +1008,7 @@ works:
   - title: 'Chinmake Kouman Okugata-sama | Haughty Housewives: Defeated by Dick'
     author: minamida-usuke
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/657459.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-09'
     code: 657459
     url: /works/657459/
@@ -1225,4 +1225,19 @@ works:
     date: '2026-09-06'
     code: 678916
     url: /works/678916/
+  - title: Boku no Aisuru Tsuma o Daite Kudasai 1 - 3
+    author: smells-like
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679771.jpg
+    rating: 4.6
+    date: '2026-09-09'
+    code: 679771
+    url: /works/679771/
+  - title: The Face I Show My Husband Is Different | Otto no Mae to wa Chigau Kao [English]
+      [Cookie Cruncher
+    author: jirou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679830.jpg
+    rating: 4.6
+    date: '2026-09-09'
+    code: 679830
+    url: /works/679830/
 ---

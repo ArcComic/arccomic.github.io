@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bbm"
-work_count: 59
+work_count: 60
 works:
   - title: Kindan no Hatemitsu
     author: ryuuta
@@ -86,7 +86,7 @@ works:
   - title: Shizuka no Umi + Gojitsudan | Shizuka's Sea + Epilogue
     author: arakure
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/507591.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-09'
     code: 507591
     url: /works/507591/
@@ -437,4 +437,11 @@ works:
     date: '2026-08-28'
     code: 676182
     url: /works/676182/
+  - title: korette unmei? | Was This Destiny?
+    author: enokido
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679745.jpg
+    rating: 4.5
+    date: '2026-09-09'
+    code: 679745
+    url: /works/679745/
 ---

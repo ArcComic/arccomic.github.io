@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "dilf"
-work_count: 112
+work_count: 118
 works:
   - title: Adoration
     author: kishizuka-kenji
@@ -60,6 +60,13 @@ works:
     date: '2026-03-09'
     code: 302117
     url: /works/302117/
+  - title: Ayami Hypno
+    author: yasuhiro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/306363.jpg
+    rating: 4.4
+    date: '2026-09-09'
+    code: 306363
+    url: /works/306363/
   - title: Tsumareta Ikoku no Hana II
     author: darabuchi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/315693.jpg
@@ -160,6 +167,13 @@ works:
     date: '2026-03-07'
     code: 453969
     url: /works/453969/
+  - title: Hypnotic Domination ~ The Fall of Tennis Club Ace ~
+    author: danchino
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/461537.jpg
+    rating: 4.8
+    date: '2026-09-09'
+    code: 461537
+    url: /works/461537/
   - title: Kakine Tsuma II Daiichiwa | Wife on the Fence II - Chapter 1
     author: ntr-system
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/471387.jpg
@@ -213,7 +227,7 @@ works:
   - title: Shizuka no Umi + Gojitsudan | Shizuka's Sea + Epilogue
     author: arakure
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/507591.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-09'
     code: 507591
     url: /works/507591/
@@ -426,6 +440,20 @@ works:
     date: '2026-03-03'
     code: 620755
     url: /works/620755/
+  - title: Oikko no Girlfriend o Wakaraseta Ken_关于外甥女朋友的教育方法_ 1-4
+    author: nanao-yukiji
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/620889.jpg
+    rating: 4.6
+    date: '2026-09-09'
+    code: 620889
+    url: /works/620889/
+  - title: Futari Dake no Himitsu -Moshi Deliheal Yonde Musume ga Kichattara-
+    author: takuwan
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/631592.jpg
+    rating: 4.4
+    date: '2026-09-09'
+    code: 631592
+    url: /works/631592/
   - title: Daddy's Forgotten Life Purpose
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/631630.jpg
@@ -632,6 +660,13 @@ works:
     date: '2026-05-20'
     code: 651381
     url: /works/651381/
+  - title: Tooi Kimi ni, Boku wa Todokanai | I can't reach you, far away.
+    author: futamine-kobito
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651967.jpg
+    rating: 4.3
+    date: '2026-09-09'
+    code: 651967
+    url: /works/651967/
   - title: Muchi Muchi Tennen Joshidaisei no Dosukebe Jorei Taikenroku | The Chunky,
       Defenseless, Airheaded University Girl Get's A Crash Course In Perverted Exorcisms!
     author: inamimi
@@ -664,7 +699,7 @@ works:
   - title: 'Chinmake Kouman Okugata-sama | Haughty Housewives: Defeated by Dick'
     author: minamida-usuke
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/657459.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-09'
     code: 657459
     url: /works/657459/
@@ -816,4 +851,11 @@ works:
     date: '2026-09-07'
     code: 679197
     url: /works/679197/
+  - title: korette unmei? | Was This Destiny?
+    author: enokido
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679745.jpg
+    rating: 4.5
+    date: '2026-09-09'
+    code: 679745
+    url: /works/679745/
 ---

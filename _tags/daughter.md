@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "daughter"
-work_count: 16
+work_count: 17
 works:
   - title: Kindan no Hatemitsu
     author: ryuuta
@@ -45,6 +45,13 @@ works:
     date: '2026-03-09'
     code: 598144
     url: /works/598144/
+  - title: Futari Dake no Himitsu -Moshi Deliheal Yonde Musume ga Kichattara-
+    author: takuwan
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/631592.jpg
+    rating: 4.4
+    date: '2026-09-09'
+    code: 631592
+    url: /works/631592/
   - title: Boku ga Shiranakatta Mama to Jii-chan no Koto | Things I didn't Know Between
       Mom And Grandpa
     author: urakan

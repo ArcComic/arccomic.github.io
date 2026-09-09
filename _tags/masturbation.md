@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "masturbation"
-work_count: 76
+work_count: 77
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -17,6 +17,13 @@ works:
     date: '2026-03-09'
     code: 226386
     url: /works/226386/
+  - title: Ayami Hypno
+    author: yasuhiro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/306363.jpg
+    rating: 4.4
+    date: '2026-09-09'
+    code: 306363
+    url: /works/306363/
   - title: Itomusubi Vol. 2
     author: bekotarou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/311755.jpg

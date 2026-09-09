@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "rape"
-work_count: 140
+work_count: 145
 works:
   - title: Office Love Scramble Ch. 1
     author: tohzai
@@ -18,6 +18,13 @@ works:
     date: '2026-02-28'
     code: 265933
     url: /works/265933/
+  - title: Ayami Hypno
+    author: yasuhiro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/306363.jpg
+    rating: 4.4
+    date: '2026-09-09'
+    code: 306363
+    url: /works/306363/
   - title: Kono Furin wa Otto no Tame "Anata, Yurushite…." To, Netorareru Tsuma | 這場外遇是為了老公「親愛的，原諒我…」這樣說著，為老公戴綠帽的妻子
     author: korosuke
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/328805.jpg
@@ -157,6 +164,13 @@ works:
     date: '2026-04-19'
     code: 446716
     url: /works/446716/
+  - title: Kagura Hypno
+    author: yasuhiro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/457733.jpg
+    rating: 4.1
+    date: '2026-09-09'
+    code: 457733
+    url: /works/457733/
   - title: Provoking Men 1-8
     author: pororivista
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/458903.jpg
@@ -164,6 +178,13 @@ works:
     date: '2026-04-13'
     code: 458903
     url: /works/458903/
+  - title: Hypnotic Domination ~ The Fall of Tennis Club Ace ~
+    author: danchino
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/461537.jpg
+    rating: 4.8
+    date: '2026-09-09'
+    code: 461537
+    url: /works/461537/
   - title: Yarareru kanojo - Hitozumajoushi ManaNTR -
     author: tokyo-gunjo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/465602.jpg
@@ -231,7 +252,7 @@ works:
   - title: Shizuka no Umi + Gojitsudan | Shizuka's Sea + Epilogue
     author: arakure
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/507591.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-09'
     code: 507591
     url: /works/507591/
@@ -656,6 +677,13 @@ works:
     date: '2026-05-20'
     code: 651381
     url: /works/651381/
+  - title: Tooi Kimi ni, Boku wa Todokanai | I can't reach you, far away.
+    author: futamine-kobito
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651967.jpg
+    rating: 4.3
+    date: '2026-09-09'
+    code: 651967
+    url: /works/651967/
   - title: Kyonyuu no Tomodachi to Tsukiau made no Hanashi | Maybe We'll Start Dating
       Someday
     author: fuguta-ke
@@ -1022,4 +1050,12 @@ works:
     date: '2026-08-29'
     code: 676320
     url: /works/676320/
+  - title: The Night She Trembled-The Reason Ichika Gave Her Body to a Scumbag Junior~
+      Part One
+    author: futamine-kobito
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679740.jpg
+    rating: 4.1
+    date: '2026-09-09'
+    code: 679740
+    url: /works/679740/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "incest"
-work_count: 179
+work_count: 181
 works:
   - title: Kindan no Hatemitsu
     author: ryuuta
@@ -80,7 +80,7 @@ works:
       Hen | Mom Gets Me Off Every Day! Filling Mom With Cum
     author: natsume-benkei
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/366731.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-09'
     code: 366731
     url: /works/366731/
@@ -182,7 +182,7 @@ works:
   - title: Nyuuin-chuu no Muramura wa...
     author: natsume-benkei
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/495599.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-09'
     code: 495599
     url: /works/495599/
@@ -430,7 +430,7 @@ works:
   - title: Nyuuin-chuu no Muramura wa Okaa-san de... 2
     author: natsume-benkei
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/592039.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-09'
     code: 592039
     url: /works/592039/
@@ -566,6 +566,13 @@ works:
     date: '2026-03-05'
     code: 631501
     url: /works/631501/
+  - title: Futari Dake no Himitsu -Moshi Deliheal Yonde Musume ga Kichattara-
+    author: takuwan
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/631592.jpg
+    rating: 4.4
+    date: '2026-09-09'
+    code: 631592
+    url: /works/631592/
   - title: Haha ni Muketa Seiyoku
     author: maccha-neji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/632534.jpg
@@ -652,7 +659,7 @@ works:
   - title: Practice H with your mom!
     author: natsume-benkei
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/637655.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-09'
     code: 637655
     url: /works/637655/
@@ -1320,4 +1327,12 @@ works:
     date: '2026-09-08'
     code: 679501
     url: /works/679501/
+  - title: The Face I Show My Husband Is Different | Otto no Mae to wa Chigau Kao [English]
+      [Cookie Cruncher
+    author: jirou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679830.jpg
+    rating: 4.6
+    date: '2026-09-09'
+    code: 679830
+    url: /works/679830/
 ---

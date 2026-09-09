@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "schoolgirl uniform"
-work_count: 181
+work_count: 185
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -473,6 +473,13 @@ works:
     date: '2026-04-27'
     code: 618562
     url: /works/618562/
+  - title: Oikko no Girlfriend o Wakaraseta Ken_关于外甥女朋友的教育方法_ 1-4
+    author: nanao-yukiji
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/620889.jpg
+    rating: 4.6
+    date: '2026-09-09'
+    code: 620889
+    url: /works/620889/
   - title: Ima Kara Irerukedo, "Sakippo Dake" Dakara Sex Janai Yo.  | Just The Tip Inside
       is Not Sex Vol. 1-4
     author: ouma
@@ -855,6 +862,13 @@ works:
     date: '2026-09-04'
     code: 651854
     url: /works/651854/
+  - title: Tooi Kimi ni, Boku wa Todokanai | I can't reach you, far away.
+    author: futamine-kobito
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651967.jpg
+    rating: 4.3
+    date: '2026-09-09'
+    code: 651967
+    url: /works/651967/
   - title: Kyonyuu Kanojo ni Hitasura Shibori Toraremakuru Hanashi | Squeeze Until Empty
     author: fuguta-ke
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/652218.jpg
@@ -931,7 +945,7 @@ works:
   - title: 'Chinmake Kouman Okugata-sama | Haughty Housewives: Defeated by Dick'
     author: minamida-usuke
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/657459.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-09'
     code: 657459
     url: /works/657459/
@@ -1348,4 +1362,19 @@ works:
     date: '2026-09-07'
     code: 679198
     url: /works/679198/
+  - title: The Night She Trembled-The Reason Ichika Gave Her Body to a Scumbag Junior~
+      Part One
+    author: futamine-kobito
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679740.jpg
+    rating: 4.1
+    date: '2026-09-09'
+    code: 679740
+    url: /works/679740/
+  - title: korette unmei? | Was This Destiny?
+    author: enokido
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679745.jpg
+    rating: 4.5
+    date: '2026-09-09'
+    code: 679745
+    url: /works/679745/
 ---

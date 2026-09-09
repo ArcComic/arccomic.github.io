@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole male"
-work_count: 503
+work_count: 508
 works:
   - title: Adoration
     author: kishizuka-kenji
@@ -132,6 +132,13 @@ works:
     date: '2026-04-16'
     code: 304548
     url: /works/304548/
+  - title: Ayami Hypno
+    author: yasuhiro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/306363.jpg
+    rating: 4.4
+    date: '2026-09-09'
+    code: 306363
+    url: /works/306363/
   - title: Itomusubi Vol. 2
     author: bekotarou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/311755.jpg
@@ -244,7 +251,7 @@ works:
       Hen | Mom Gets Me Off Every Day! Filling Mom With Cum
     author: natsume-benkei
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/366731.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-09'
     code: 366731
     url: /works/366731/
@@ -485,6 +492,20 @@ works:
     date: '2026-04-19'
     code: 453749
     url: /works/453749/
+  - title: Kagura Hypno
+    author: yasuhiro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/457733.jpg
+    rating: 4.1
+    date: '2026-09-09'
+    code: 457733
+    url: /works/457733/
+  - title: Hypnotic Domination ~ The Fall of Tennis Club Ace ~
+    author: danchino
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/461537.jpg
+    rating: 4.8
+    date: '2026-09-09'
+    code: 461537
+    url: /works/461537/
   - title: What would happen if you said "Let's have sex." while your teacher was scolding
       you?
     author: chotto-b-sen
@@ -596,7 +617,7 @@ works:
   - title: Nyuuin-chuu no Muramura wa...
     author: natsume-benkei
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/495599.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-09'
     code: 495599
     url: /works/495599/
@@ -650,7 +671,7 @@ works:
   - title: Shizuka no Umi + Gojitsudan | Shizuka's Sea + Epilogue
     author: arakure
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/507591.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-09'
     code: 507591
     url: /works/507591/
@@ -741,7 +762,7 @@ works:
   - title: Kawari wa Okaa-san | The Stand-in is Her Mom
     author: etuzan-jakusui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/528470.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-09'
     code: 528470
     url: /works/528470/
@@ -1303,7 +1324,7 @@ works:
   - title: Nyuuin-chuu no Muramura wa Okaa-san de... 2
     author: natsume-benkei
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/592039.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-09'
     code: 592039
     url: /works/592039/
@@ -1513,7 +1534,7 @@ works:
       Female Friends
     author: mmchair
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/614204.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-09'
     code: 614204
     url: /works/614204/
@@ -1902,7 +1923,7 @@ works:
   - title: Practice H with your mom!
     author: natsume-benkei
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/637655.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-09'
     code: 637655
     url: /works/637655/
@@ -3725,4 +3746,18 @@ works:
     date: '2026-09-08'
     code: 679504
     url: /works/679504/
+  - title: korette unmei? | Was This Destiny?
+    author: enokido
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679745.jpg
+    rating: 4.5
+    date: '2026-09-09'
+    code: 679745
+    url: /works/679745/
+  - title: Namashio Tadareta Shuukan | A Week of Depraved Raw Creampies
+    author: kawaraya
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679764.jpg
+    rating: 4.4
+    date: '2026-09-09'
+    code: 679764
+    url: /works/679764/
 ---

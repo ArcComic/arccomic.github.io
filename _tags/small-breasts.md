@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "small breasts"
-work_count: 29
+work_count: 31
 works:
   - title: FLUFFY LAUGH GIRL
     author: shibasaki-syouzi
@@ -24,6 +24,20 @@ works:
     date: '2026-02-26'
     code: 393984
     url: /works/393984/
+  - title: Kagura Hypno
+    author: yasuhiro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/457733.jpg
+    rating: 4.1
+    date: '2026-09-09'
+    code: 457733
+    url: /works/457733/
+  - title: Hypnotic Domination ~ The Fall of Tennis Club Ace ~
+    author: danchino
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/461537.jpg
+    rating: 4.8
+    date: '2026-09-09'
+    code: 461537
+    url: /works/461537/
   - title: Hon no Mori no Ouji-sama | Prince of the Book Forest
     author: shibasaki-syouzi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/464782.jpg

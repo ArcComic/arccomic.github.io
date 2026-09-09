@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "teacher"
-work_count: 58
+work_count: 59
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -61,6 +61,13 @@ works:
     date: '2026-04-27'
     code: 452482
     url: /works/452482/
+  - title: Hypnotic Domination ~ The Fall of Tennis Club Ace ~
+    author: danchino
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/461537.jpg
+    rating: 4.8
+    date: '2026-09-09'
+    code: 461537
+    url: /works/461537/
   - title: What would happen if you said "Let's have sex." while your teacher was scolding
       you?
     author: chotto-b-sen

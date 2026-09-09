@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "squirting"
-work_count: 83
+work_count: 84
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -623,4 +623,12 @@ works:
     date: '2026-09-08'
     code: 679504
     url: /works/679504/
+  - title: The Night She Trembled-The Reason Ichika Gave Her Body to a Scumbag Junior~
+      Part One
+    author: futamine-kobito
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679740.jpg
+    rating: 4.1
+    date: '2026-09-09'
+    code: 679740
+    url: /works/679740/
 ---
