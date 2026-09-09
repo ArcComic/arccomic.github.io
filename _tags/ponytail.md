@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "ponytail"
-work_count: 96
+work_count: 104
 works:
   - title: Hikki Mother Fucker
     author: otochichi
@@ -90,6 +90,13 @@ works:
     date: '2026-04-27'
     code: 452482
     url: /works/452482/
+  - title: Hypnotic Domination ~ The Fall of Tennis Club Ace ~
+    author: danchino
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/461537.jpg
+    rating: 4.8
+    date: '2026-09-09'
+    code: 461537
+    url: /works/461537/
   - title: Little Blue Bird
     author: kidouchi-kon
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/508534.jpg
@@ -313,6 +320,13 @@ works:
     date: '2026-03-05'
     code: 634677
     url: /works/634677/
+  - title: Married Women Are At A Naughty Age 2
+    author: asagi-ryu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/635482.jpg
+    rating: 0.0
+    date: '2026-09-09'
+    code: 635482
+    url: /works/635482/
   - title: Noa-chan to Ichaicha suru Hon
     author: remora
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/635512.jpg
@@ -524,6 +538,13 @@ works:
     date: '2026-09-04'
     code: 651854
     url: /works/651854/
+  - title: Tooi Kimi ni, Boku wa Todokanai | I can't reach you, far away.
+    author: futamine-kobito
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651967.jpg
+    rating: 4.3
+    date: '2026-09-09'
+    code: 651967
+    url: /works/651967/
   - title: Kyonyuu no Tomodachi to Tsukiau made no Hanashi | Maybe We'll Start Dating
       Someday
     author: fuguta-ke
@@ -715,4 +736,40 @@ works:
     date: '2026-09-08'
     code: 679488
     url: /works/679488/
+  - title: korette unmei? | Was This Destiny?
+    author: enokido
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679745.jpg
+    rating: 4.5
+    date: '2026-09-09'
+    code: 679745
+    url: /works/679745/
+  - title: Namashio Tadareta Shuukan | A Week of Depraved Raw Creampies
+    author: kawaraya
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679764.jpg
+    rating: 4.4
+    date: '2026-09-09'
+    code: 679764
+    url: /works/679764/
+  - title: Hitozuma Onmyouji Sakuya 1 - 3
+    author: hoshino-ryuichi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679778.jpg
+    rating: 4.1
+    date: '2026-09-09'
+    code: 679778
+    url: /works/679778/
+  - title: When The Students Stare At You -- Seito-tachi ni Mitsumerareru to
+    author: romomata
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679853.jpg
+    rating: 0.0
+    date: '2026-09-09'
+    code: 679853
+    url: /works/679853/
+  - title: Hyoui AV AV Joyuu no Karada wo Sukihoudai Suru Hanashi | Possession Porn
+      ~A Story About Using Porn Actresses' Bodies as You Please~
+    author: ame-no-machi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679890.jpg
+    rating: 4.6
+    date: '2026-09-09'
+    code: 679890
+    url: /works/679890/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "schoolgirl uniform"
-work_count: 185
+work_count: 189
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -90,6 +90,13 @@ works:
     date: '2026-04-27'
     code: 414206
     url: /works/414206/
+  - title: Shuudan Jotaika Gyaru, Ochiru | Mass-Gender Bended Gyarus, Fall into Depravity
+    author: betty
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/414300.jpg
+    rating: 0.0
+    date: '2026-09-09'
+    code: 414300
+    url: /works/414300/
   - title: 'Misunderstanding Love Hotel Netorare [Arakure] & Kimi no na wa: After Story
       - Mitsuha ~Netorare~'
     author: arakure
@@ -927,6 +934,13 @@ works:
     date: '2026-09-07'
     code: 654638
     url: /works/654638/
+  - title: I, was sold to my mother's ex-fiancé
+    author: romomata
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/655077.jpg
+    rating: 0.0
+    date: '2026-09-09'
+    code: 655077
+    url: /works/655077/
   - title: Karada ga Binkan Sugiru Watashi wa Itoko ni Itazura sarete mo Teikoudekinai!
     author: romomata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/655421.jpg
@@ -1132,6 +1146,13 @@ works:
     date: '2026-07-17'
     code: 664926
     url: /works/664926/
+  - title: KORE HA ZENBU SENSEI NO SEIDESUKARA. + "Gouhou" deshitara... Daijoubu desu
+    author: tomo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/665716.jpg
+    rating: 0.0
+    date: '2026-09-09'
+    code: 665716
+    url: /works/665716/
   - title: Okoranaide Hoshikawa-san 3 | Hey, Hold your Horses, Hoshikawa-san! 3
     author: raidon
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/667857.jpg
@@ -1377,4 +1398,12 @@ works:
     date: '2026-09-09'
     code: 679745
     url: /works/679745/
+  - title: Boku o Ijimeteta Satou-kun o Kami Oshi Idol ni Kaete Otosu made | Until I
+      Turned Sato—Who Used to Bully Me—Into My Absolute Favorite Idol and Seduced Him
+    author: betty
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679861.jpg
+    rating: 0.0
+    date: '2026-09-09'
+    code: 679861
+    url: /works/679861/
 ---

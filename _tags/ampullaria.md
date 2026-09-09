@@ -1,0 +1,21 @@
+---
+layout: tag
+tag_name: "ampullaria"
+work_count: 2
+works:
+  - title: Apart no Otonari-san ga Yarasete Kureru Hanashi 4 | My Nextdoor Neighbor
+      Let Me Fuck Her 4
+    author: ki-51
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642727.jpg
+    rating: 0.0
+    date: '2026-09-09'
+    code: 642727
+    url: /works/642727/
+  - title: Matsuri to Hamakaze to | The Festival and Hamakaze
+    author: ki-51
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679066.jpg
+    rating: 0.0
+    date: '2026-09-09'
+    code: 679066
+    url: /works/679066/
+---

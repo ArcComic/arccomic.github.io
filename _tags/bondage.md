@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bondage"
-work_count: 48
+work_count: 49
 works:
   - title: CHOCO x LOVE
     author: highlow
@@ -358,4 +358,11 @@ works:
     date: '2026-09-07'
     code: 679197
     url: /works/679197/
+  - title: Mahou Shoujo Unicorn no Haiboku
+    author: rurimaru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679672.jpg
+    rating: 0.0
+    date: '2026-09-09'
+    code: 679672
+    url: /works/679672/
 ---

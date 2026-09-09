@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "netorare"
-work_count: 240
+work_count: 241
 works:
   - title: Hitozuma Hyakka
     author: hase-tsubura
@@ -946,6 +946,13 @@ works:
     date: '2026-03-05'
     code: 634591
     url: /works/634591/
+  - title: Married Women Are At A Naughty Age 2
+    author: asagi-ryu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/635482.jpg
+    rating: 0.0
+    date: '2026-09-09'
+    code: 635482
+    url: /works/635482/
   - title: Haha to iu Kaibutsu ~M Otoko Aka-chan toshite Sodate rareta Boku wa Yasashii
       Mama ni Dekiai sareru~ | Mother, the Monster ~I was raised as a masochistic baby
       and am doted on by my kind mother~

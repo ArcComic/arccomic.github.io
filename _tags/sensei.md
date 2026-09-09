@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sensei"
-work_count: 11
+work_count: 14
 works:
   - title: Oshioki no Jikan - Punishment time
     author: syoukaki
@@ -67,6 +67,13 @@ works:
     date: '2026-07-16'
     code: 664626
     url: /works/664626/
+  - title: KORE HA ZENBU SENSEI NO SEIDESUKARA. + "Gouhou" deshitara... Daijoubu desu
+    author: tomo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/665716.jpg
+    rating: 0.0
+    date: '2026-09-09'
+    code: 665716
+    url: /works/665716/
   - title: Sensei!! I Told You Not To Come Again Didn't I !!
     author: nakakazu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/676149.jpg
@@ -81,4 +88,18 @@ works:
     date: '2026-08-31'
     code: 677234
     url: /works/677234/
+  - title: Namashio Tadareta Shuukan | A Week of Depraved Raw Creampies
+    author: kawaraya
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679764.jpg
+    rating: 4.4
+    date: '2026-09-09'
+    code: 679764
+    url: /works/679764/
+  - title: Sensei no Kyuusoku | Sensei's Relaxation
+    author: uran
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679865.jpg
+    rating: 0.0
+    date: '2026-09-09'
+    code: 679865
+    url: /works/679865/
 ---

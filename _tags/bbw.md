@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bbw"
-work_count: 26
+work_count: 27
 works:
   - title: My Care Lady Ch. 1
     author: sugi-g
@@ -102,6 +102,14 @@ works:
     date: '2026-03-07'
     code: 635174
     url: /works/635174/
+  - title: Apart no Otonari-san ga Yarasete Kureru Hanashi 4 | My Nextdoor Neighbor
+      Let Me Fuck Her 4
+    author: ki-51
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642727.jpg
+    rating: 0.0
+    date: '2026-09-09'
+    code: 642727
+    url: /works/642727/
   - title: Okaa-san ni wa Kore Gurai shika Dekinai kara... 2 | For Mom the Only Option
       Left is... 2
     author: muchipan

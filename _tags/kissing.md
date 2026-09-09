@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "kissing"
-work_count: 202
+work_count: 206
 works:
   - title: FLUFFY LAUGH GIRL
     author: shibasaki-syouzi
@@ -828,6 +828,13 @@ works:
     date: '2026-03-07'
     code: 635266
     url: /works/635266/
+  - title: Married Women Are At A Naughty Age 2
+    author: asagi-ryu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/635482.jpg
+    rating: 0.0
+    date: '2026-09-09'
+    code: 635482
+    url: /works/635482/
   - title: Noa-chan to Ichaicha suru Hon
     author: remora
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/635512.jpg
@@ -903,6 +910,14 @@ works:
     date: '2026-08-24'
     code: 642586
     url: /works/642586/
+  - title: Apart no Otonari-san ga Yarasete Kureru Hanashi 4 | My Nextdoor Neighbor
+      Let Me Fuck Her 4
+    author: ki-51
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642727.jpg
+    rating: 0.0
+    date: '2026-09-09'
+    code: 642727
+    url: /works/642727/
   - title: Sumata dake tte Itta no ni… Nurutto Sounyuusarechatta Yuutousei no Omocha
       | You Said It'd Just Be Grinding... But You Ended up Slipping It In. Now I'm Just
       the Top Student's Toy 3.
@@ -1210,6 +1225,13 @@ works:
     date: '2026-09-06'
     code: 654603
     url: /works/654603/
+  - title: I, was sold to my mother's ex-fiancé
+    author: romomata
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/655077.jpg
+    rating: 0.0
+    date: '2026-09-09'
+    code: 655077
+    url: /works/655077/
   - title: Tonari no Ayane-san Soushuuhen | My Neighbor Ayane Anthology
     author: herio
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/656319.jpg
@@ -1505,6 +1527,13 @@ works:
     date: '2026-09-08'
     code: 679488
     url: /works/679488/
+  - title: Lazy First Lovemaking of the New Year
+    author: takeshisu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679604.jpg
+    rating: 0.0
+    date: '2026-09-09'
+    code: 679604
+    url: /works/679604/
   - title: korette unmei? | Was This Destiny?
     author: enokido
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679745.jpg

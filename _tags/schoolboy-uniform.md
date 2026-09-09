@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "schoolboy uniform"
-work_count: 53
+work_count: 55
 works:
   - title: FLUFFY LAUGH GIRL
     author: shibasaki-syouzi
@@ -53,6 +53,13 @@ works:
     date: '2026-09-05'
     code: 363219
     url: /works/363219/
+  - title: Shuudan Jotaika Gyaru, Ochiru | Mass-Gender Bended Gyarus, Fall into Depravity
+    author: betty
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/414300.jpg
+    rating: 0.0
+    date: '2026-09-09'
+    code: 414300
+    url: /works/414300/
   - title: Koi no Susumekata | How to Advance Your Love
     author: danimaru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/425528.jpg
@@ -386,6 +393,14 @@ works:
     date: '2026-09-07'
     code: 679198
     url: /works/679198/
+  - title: Boku o Ijimeteta Satou-kun o Kami Oshi Idol ni Kaete Otosu made | Until I
+      Turned Sato—Who Used to Bully Me—Into My Absolute Favorite Idol and Seduced Him
+    author: betty
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679861.jpg
+    rating: 0.0
+    date: '2026-09-09'
+    code: 679861
+    url: /works/679861/
   - title: Jokyoushi - Hot For Teachers | Female Teachers
     author: drill-murata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/81375.jpg

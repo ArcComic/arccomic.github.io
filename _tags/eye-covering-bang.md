@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "eye-covering bang"
-work_count: 27
+work_count: 30
 works:
   - title: 'Portio Switch CASE: Varicata Portio | Cervix Switch CASE - Extra-hard Cervix'
     author: bang-you-didori
@@ -17,6 +17,14 @@ works:
     date: '2026-04-19'
     code: 487275
     url: /works/487275/
+  - title: Onsen Yukata na Kashima-san to Hamakaze-san to. | Hamakaze and Kashima in
+      Hot Springs and Yukata
+    author: sarfata
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/489566.jpg
+    rating: 0.0
+    date: '2026-09-09'
+    code: 489566
+    url: /works/489566/
   - title: Moto Mahou Shoujo no Hikikomori Seikatsu | The NEET Life of a Former Magical
       Girl
     author: zhen-lu
@@ -204,4 +212,18 @@ works:
     date: '2026-09-05'
     code: 678648
     url: /works/678648/
+  - title: Matsuri to Hamakaze to | The Festival and Hamakaze
+    author: ki-51
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679066.jpg
+    rating: 0.0
+    date: '2026-09-09'
+    code: 679066
+    url: /works/679066/
+  - title: Boku no Aisuru Tsuma o Daite Kudasai 1 - 3
+    author: smells-like
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679771.jpg
+    rating: 4.6
+    date: '2026-09-09'
+    code: 679771
+    url: /works/679771/
 ---

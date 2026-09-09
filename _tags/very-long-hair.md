@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "very long hair"
-work_count: 35
+work_count: 36
 works:
   - title: Koi no Susumekata | How to Advance Your Love
     author: danimaru
@@ -267,4 +267,11 @@ works:
     date: '2026-09-07'
     code: 679215
     url: /works/679215/
+  - title: Namashio Tadareta Shuukan | A Week of Depraved Raw Creampies
+    author: kawaraya
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679764.jpg
+    rating: 4.4
+    date: '2026-09-09'
+    code: 679764
+    url: /works/679764/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "lactation"
-work_count: 20
+work_count: 21
 works:
   - title: Kaisha no Iki Okure BBA Haramaseta | [Tragic News] I Knocked Up The Old Maid
       From My Office
@@ -144,6 +144,13 @@ works:
     date: '2026-08-21'
     code: 674709
     url: /works/674709/
+  - title: fuuga - Kaa-san wa Saikou no Ona Pet ~Deka Nyuurin Mama Hen~
+    author: fuuga
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679770.jpg
+    rating: 4.8
+    date: '2026-09-09'
+    code: 679770
+    url: /works/679770/
   - title: Jokyoushi - Hot For Teachers | Female Teachers
     author: drill-murata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/81375.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "filming"
-work_count: 56
+work_count: 59
 works:
   - title: Netorare Ibe Kiba Shizuka | The Netorare of Kiba Shizuka
     author: terasu-mc
@@ -319,6 +319,13 @@ works:
     date: '2026-05-20'
     code: 651381
     url: /works/651381/
+  - title: Tooi Kimi ni, Boku wa Todokanai | I can't reach you, far away.
+    author: futamine-kobito
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651967.jpg
+    rating: 4.3
+    date: '2026-09-09'
+    code: 651967
+    url: /works/651967/
   - title: Watashi wa Tsuma de Haha de, Tada no Mesu 3
     author: kakyuu-bushi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/652606.jpg
@@ -422,4 +429,19 @@ works:
     date: '2026-08-29'
     code: 676425
     url: /works/676425/
+  - title: When The Students Stare At You -- Seito-tachi ni Mitsumerareru to
+    author: romomata
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679853.jpg
+    rating: 0.0
+    date: '2026-09-09'
+    code: 679853
+    url: /works/679853/
+  - title: Hyoui AV AV Joyuu no Karada wo Sukihoudai Suru Hanashi | Possession Porn
+      ~A Story About Using Porn Actresses' Bodies as You Please~
+    author: ame-no-machi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679890.jpg
+    rating: 4.6
+    date: '2026-09-09'
+    code: 679890
+    url: /works/679890/
 ---

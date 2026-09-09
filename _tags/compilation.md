@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "compilation"
-work_count: 12
+work_count: 14
 works:
   - title: NTR Anniversary + ) [Syukurin] Mitsuha ~Netorare~ (Kimi no Na wa.) [English]
       [Colorized] by Mikaku
@@ -90,4 +90,18 @@ works:
     date: '2026-08-23'
     code: 668880
     url: /works/668880/
+  - title: Boku no Aisuru Tsuma o Daite Kudasai 1 - 3
+    author: smells-like
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679771.jpg
+    rating: 4.6
+    date: '2026-09-09'
+    code: 679771
+    url: /works/679771/
+  - title: Hitozuma Onmyouji Sakuya 1 - 3
+    author: hoshino-ryuichi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679778.jpg
+    rating: 4.1
+    date: '2026-09-09'
+    code: 679778
+    url: /works/679778/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "urination"
-work_count: 31
+work_count: 33
 works:
   - title: Boku no Kazoku o Sarashimasu Ch. 3
     author: tanaka-aji
@@ -124,6 +124,13 @@ works:
     date: '2026-07-09'
     code: 633938
     url: /works/633938/
+  - title: Married Women Are At A Naughty Age 2
+    author: asagi-ryu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/635482.jpg
+    rating: 0.0
+    date: '2026-09-09'
+    code: 635482
+    url: /works/635482/
   - title: Atarimae Sex ~Ane to Otouto no Nichijou~ | Natural Sex ~The Daily Life of
       an Older Sister and Younger Brother~
     author: mochichimaru
@@ -235,4 +242,11 @@ works:
     date: '2026-08-21'
     code: 674701
     url: /works/674701/
+  - title: nannal - Hahaoya Shikkaku ーMama wa Benjoー
+    author: nannal
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679774.jpg
+    rating: 4.3
+    date: '2026-09-09'
+    code: 679774
+    url: /works/679774/
 ---

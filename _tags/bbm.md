@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bbm"
-work_count: 60
+work_count: 61
 works:
   - title: Kindan no Hatemitsu
     author: ryuuta
@@ -347,6 +347,13 @@ works:
     date: '2026-05-26'
     code: 652471
     url: /works/652471/
+  - title: I, was sold to my mother's ex-fiancé
+    author: romomata
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/655077.jpg
+    rating: 0.0
+    date: '2026-09-09'
+    code: 655077
+    url: /works/655077/
   - title: How the Gloomy Me Took Charge of my Own Life by Becoming a Hostess
     author: shikabanekamo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/656419.jpg

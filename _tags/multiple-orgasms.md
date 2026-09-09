@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "multiple orgasms"
-work_count: 70
+work_count: 71
 works:
   - title: Rako Slip!
     author: bujidearu
@@ -32,6 +32,13 @@ works:
     date: '2026-04-23'
     code: 448503
     url: /works/448503/
+  - title: Kagura Hypno
+    author: yasuhiro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/457733.jpg
+    rating: 4.1
+    date: '2026-09-09'
+    code: 457733
+    url: /works/457733/
   - title: Seiso na Imouto no Tomodachi wa Mesugaki deshita | My Pure and Innocent Little
       Sister Became Friends With a Mesugaki
     author: kagono-tori

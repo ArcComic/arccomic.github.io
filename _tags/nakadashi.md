@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "nakadashi"
-work_count: 457
+work_count: 464
 works:
   - title: Adoration
     author: kishizuka-kenji
@@ -525,6 +525,14 @@ works:
     date: '2026-04-17'
     code: 489004
     url: /works/489004/
+  - title: Onsen Yukata na Kashima-san to Hamakaze-san to. | Hamakaze and Kashima in
+      Hot Springs and Yukata
+    author: sarfata
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/489566.jpg
+    rating: 0.0
+    date: '2026-09-09'
+    code: 489566
+    url: /works/489566/
   - title: Boku no Chuugoku Bijin Slender Kyonyuu Tsuma ga Camera Model de Nugasarete
       Yarichin Tomo ni Netorareta Ken
     author: mitoreiyu
@@ -2545,6 +2553,13 @@ works:
     date: '2026-09-07'
     code: 654638
     url: /works/654638/
+  - title: I, was sold to my mother's ex-fiancé
+    author: romomata
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/655077.jpg
+    rating: 0.0
+    date: '2026-09-09'
+    code: 655077
+    url: /works/655077/
   - title: A story about a shy childhood friend who can’t say no and ends up being put
       in charge of handling sexual needs.
     author: sakurayu-hal
@@ -2964,6 +2979,13 @@ works:
     date: '2026-07-17'
     code: 664943
     url: /works/664943/
+  - title: KORE HA ZENBU SENSEI NO SEIDESUKARA. + "Gouhou" deshitara... Daijoubu desu
+    author: tomo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/665716.jpg
+    rating: 0.0
+    date: '2026-09-09'
+    code: 665716
+    url: /works/665716/
   - title: Okoranaide Hoshikawa-san 3 | Hey, Hold your Horses, Hoshikawa-san! 3
     author: raidon
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/667857.jpg
@@ -3369,6 +3391,20 @@ works:
     date: '2026-09-08'
     code: 679504
     url: /works/679504/
+  - title: Kaa-san ga Mujikaku ni Yuuwaku Shite Kuru
+    author: mattari-yufi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679634.jpg
+    rating: 0.0
+    date: '2026-09-09'
+    code: 679634
+    url: /works/679634/
+  - title: Mahou Shoujo Unicorn no Haiboku
+    author: rurimaru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679672.jpg
+    rating: 0.0
+    date: '2026-09-09'
+    code: 679672
+    url: /works/679672/
   - title: The Night She Trembled-The Reason Ichika Gave Her Body to a Scumbag Junior~
       Part One
     author: futamine-kobito
@@ -3384,6 +3420,20 @@ works:
     date: '2026-09-09'
     code: 679745
     url: /works/679745/
+  - title: Me, With My Student...? 1
+    author: asagi-ryu-amano-miki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679857.jpg
+    rating: 0.0
+    date: '2026-09-09'
+    code: 679857
+    url: /works/679857/
+  - title: Sensei no Kyuusoku | Sensei's Relaxation
+    author: uran
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679865.jpg
+    rating: 0.0
+    date: '2026-09-09'
+    code: 679865
+    url: /works/679865/
   - title: Inin Keiyaku | Lewd Pregnancy Contract
     author: yoshiura-kazuya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/83595.jpg

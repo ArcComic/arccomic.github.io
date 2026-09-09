@@ -1,7 +1,7 @@
 ---
 layout: artist
 artist_name: "chotto-b-sen"
-work_count: 6
+work_count: 7
 works:
   - title: What would happen if you said "Let's have sex." while your teacher was scolding
       you?
@@ -42,4 +42,11 @@ works:
     date: '2026-07-17'
     code: 658578
     url: /works/658578/
+  - title: The Truant Chick From My Yearbook Who I Never Met At School -- Sotsu Aru
+      ni Ita Menshiki no Nai Futoukou no Kimi ga.
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679856.jpg
+    rating: 0.0
+    date: '2026-09-09'
+    code: 679856
+    url: /works/679856/
 ---

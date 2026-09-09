@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sweating"
-work_count: 103
+work_count: 104
 works:
   - title: Kaisha de Iroiro | Gettin' Busy at the Office
     author: hara-shigeyuki
@@ -383,6 +383,14 @@ works:
     date: '2026-07-13'
     code: 639514
     url: /works/639514/
+  - title: Apart no Otonari-san ga Yarasete Kureru Hanashi 4 | My Nextdoor Neighbor
+      Let Me Fuck Her 4
+    author: ki-51
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642727.jpg
+    rating: 0.0
+    date: '2026-09-09'
+    code: 642727
+    url: /works/642727/
   - title: Because Ura Wants To Be More Than "Just An Acquaintance"
     author: the-waidan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642793.jpg

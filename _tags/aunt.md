@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "aunt"
-work_count: 9
+work_count: 10
 works:
   - title: Oppai na Natsuyasumi 2 | The Summer Break of Boobs 2
     author: higashino-mikan
@@ -69,4 +69,12 @@ works:
     date: '2026-08-31'
     code: 676658
     url: /works/676658/
+  - title: The Face I Show My Husband Is Different | Otto no Mae to wa Chigau Kao [English]
+      [Cookie Cruncher
+    author: jirou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679830.jpg
+    rating: 4.6
+    date: '2026-09-09'
+    code: 679830
+    url: /works/679830/
 ---

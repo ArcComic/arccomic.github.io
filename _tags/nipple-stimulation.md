@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "nipple stimulation"
-work_count: 78
+work_count: 80
 works:
+  - title: Hypnotic Domination ~ The Fall of Tennis Club Ace ~
+    author: danchino
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/461537.jpg
+    rating: 4.8
+    date: '2026-09-09'
+    code: 461537
+    url: /works/461537/
   - title: Obedience Part 1
     author: laliberte
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/501709.jpg
@@ -587,4 +594,11 @@ works:
     date: '2026-08-29'
     code: 676439
     url: /works/676439/
+  - title: Lazy First Lovemaking of the New Year
+    author: takeshisu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679604.jpg
+    rating: 0.0
+    date: '2026-09-09'
+    code: 679604
+    url: /works/679604/
 ---

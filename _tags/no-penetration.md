@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "no penetration"
-work_count: 18
+work_count: 19
 works:
   - title: Onee-chan to Torokeru Kimochi SP 2 | The Melting Feeling with Onee-chan SP
       2
@@ -29,7 +29,7 @@ works:
       Female Friends
     author: mmchair
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/614204.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-09'
     code: 614204
     url: /works/614204/
@@ -133,4 +133,12 @@ works:
     date: '2026-08-20'
     code: 674286
     url: /works/674286/
+  - title: Hyoui AV AV Joyuu no Karada wo Sukihoudai Suru Hanashi | Possession Porn
+      ~A Story About Using Porn Actresses' Bodies as You Please~
+    author: ame-no-machi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679890.jpg
+    rating: 4.6
+    date: '2026-09-09'
+    code: 679890
+    url: /works/679890/
 ---

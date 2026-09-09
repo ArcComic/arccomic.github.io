@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sister"
-work_count: 45
+work_count: 46
 works:
   - title: Onee-chan ga Ecchi na Koto bakka Suru kara... | My older sister only does
       obscene things...
@@ -332,4 +332,11 @@ works:
     date: '2026-09-07'
     code: 679197
     url: /works/679197/
+  - title: Tobira o Akete
+    author: okuoku
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679635.jpg
+    rating: 0.0
+    date: '2026-09-09'
+    code: 679635
+    url: /works/679635/
 ---

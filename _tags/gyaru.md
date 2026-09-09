@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "gyaru"
-work_count: 70
+work_count: 71
 works:
   - title: GalPa!
     author: sakagami-umi
@@ -25,6 +25,13 @@ works:
     date: '2026-09-04'
     code: 347653
     url: /works/347653/
+  - title: Shuudan Jotaika Gyaru, Ochiru | Mass-Gender Bended Gyarus, Fall into Depravity
+    author: betty
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/414300.jpg
+    rating: 0.0
+    date: '2026-09-09'
+    code: 414300
+    url: /works/414300/
   - title: Gojou-kun no Koto ga Daishuki Sugite Yona Yona Hakadotte Ita Koto ga Bareta
       Ken
     author: naganeko

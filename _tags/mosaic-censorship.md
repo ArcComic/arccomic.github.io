@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "mosaic censorship"
-work_count: 190
+work_count: 196
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -892,6 +892,14 @@ works:
     date: '2026-08-24'
     code: 642588
     url: /works/642588/
+  - title: Apart no Otonari-san ga Yarasete Kureru Hanashi 4 | My Nextdoor Neighbor
+      Let Me Fuck Her 4
+    author: ki-51
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642727.jpg
+    rating: 0.0
+    date: '2026-09-09'
+    code: 642727
+    url: /works/642727/
   - title: Anta, Nandetatten no?
     author: daidai-shikibu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642770.jpg
@@ -1104,6 +1112,13 @@ works:
     date: '2026-07-07'
     code: 654253
     url: /works/654253/
+  - title: I, was sold to my mother's ex-fiancé
+    author: romomata
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/655077.jpg
+    rating: 0.0
+    date: '2026-09-09'
+    code: 655077
+    url: /works/655077/
   - title: Haha to Osake Nondara erai Kotoninarimashita
     author: matsumoto-jikyuuryoku
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/655291.jpg
@@ -1390,4 +1405,33 @@ works:
     date: '2026-08-28'
     code: 676183
     url: /works/676183/
+  - title: Lazy First Lovemaking of the New Year
+    author: takeshisu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679604.jpg
+    rating: 0.0
+    date: '2026-09-09'
+    code: 679604
+    url: /works/679604/
+  - title: Kaa-san ga Mujikaku ni Yuuwaku Shite Kuru
+    author: mattari-yufi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679634.jpg
+    rating: 0.0
+    date: '2026-09-09'
+    code: 679634
+    url: /works/679634/
+  - title: When The Students Stare At You -- Seito-tachi ni Mitsumerareru to
+    author: romomata
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679853.jpg
+    rating: 0.0
+    date: '2026-09-09'
+    code: 679853
+    url: /works/679853/
+  - title: The Truant Chick From My Yearbook Who I Never Met At School -- Sotsu Aru
+      ni Ita Menshiki no Nai Futoukou no Kimi ga.
+    author: chotto-b-sen
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679856.jpg
+    rating: 0.0
+    date: '2026-09-09'
+    code: 679856
+    url: /works/679856/
 ---

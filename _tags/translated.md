@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "translated"
-work_count: 886
+work_count: 907
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -573,6 +573,13 @@ works:
     date: '2026-03-05'
     code: 409929
     url: /works/409929/
+  - title: Shuudan Jotaika Gyaru, Ochiru | Mass-Gender Bended Gyarus, Fall into Depravity
+    author: betty
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/414300.jpg
+    rating: 0.0
+    date: '2026-09-09'
+    code: 414300
+    url: /works/414300/
   - title: Hito o Dame ni Suru Choi Busu ~Kao 40-ten, Karada 120-ten no Kanojo~
     author: special-g
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/414892.jpg
@@ -3162,6 +3169,13 @@ works:
     date: '2026-03-07'
     code: 635363
     url: /works/635363/
+  - title: Married Women Are At A Naughty Age 2
+    author: asagi-ryu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/635482.jpg
+    rating: 0.0
+    date: '2026-09-09'
+    code: 635482
+    url: /works/635482/
   - title: Noa-chan to Ichaicha suru Hon
     author: remora
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/635512.jpg
@@ -3339,6 +3353,14 @@ works:
     date: '2026-08-24'
     code: 642588
     url: /works/642588/
+  - title: Apart no Otonari-san ga Yarasete Kureru Hanashi 4 | My Nextdoor Neighbor
+      Let Me Fuck Her 4
+    author: ki-51
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642727.jpg
+    rating: 0.0
+    date: '2026-09-09'
+    code: 642727
+    url: /works/642727/
   - title: Sumata dake tte Itta no ni… Nurutto Sounyuusarechatta Yuutousei no Omocha
       | You Said It'd Just Be Grinding... But You Ended up Slipping It In. Now I'm Just
       the Top Student's Toy 3.
@@ -4363,6 +4385,13 @@ works:
     date: '2026-09-07'
     code: 654812
     url: /works/654812/
+  - title: I, was sold to my mother's ex-fiancé
+    author: romomata
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/655077.jpg
+    rating: 0.0
+    date: '2026-09-09'
+    code: 655077
+    url: /works/655077/
   - title: Boshi Soukan no Hajimari
     author: kuruto
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/655202.jpg
@@ -5468,6 +5497,13 @@ works:
     date: '2026-07-17'
     code: 664943
     url: /works/664943/
+  - title: KORE HA ZENBU SENSEI NO SEIDESUKARA. + "Gouhou" deshitara... Daijoubu desu
+    author: tomo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/665716.jpg
+    rating: 0.0
+    date: '2026-09-09'
+    code: 665716
+    url: /works/665716/
   - title: Super de Genki ni Hataraku Hahaoya ga Hikikomori Musuko ni Tanetsuke Saremakutteita
       Hanashi
     author: daidai-shikibu
@@ -6344,6 +6380,13 @@ works:
     date: '2026-09-06'
     code: 678916
     url: /works/678916/
+  - title: Matsuri to Hamakaze to | The Festival and Hamakaze
+    author: ki-51
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679066.jpg
+    rating: 0.0
+    date: '2026-09-09'
+    code: 679066
+    url: /works/679066/
   - title: Kuro Gal no Ongaeshi -Shachiku Oji ga Kasshoku Kyonyuu Gal o Nanpa kara Tasuketara
       Icha Love Junai Koubi shita Hanashi-
     author: galvalume-kouhan
@@ -6440,6 +6483,71 @@ works:
     date: '2026-09-08'
     code: 679504
     url: /works/679504/
+  - title: Lazy First Lovemaking of the New Year
+    author: takeshisu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679604.jpg
+    rating: 0.0
+    date: '2026-09-09'
+    code: 679604
+    url: /works/679604/
+  - title: Futari ga Shiawase ni Natteiku Sugata o Miru Kurai nara Shinda Hou ga i.
+      1-3
+    author: sakayama-shinta-chakayama-tokoroten
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679620.jpg
+    rating: 0.0
+    date: '2026-09-09'
+    code: 679620
+    url: /works/679620/
+  - title: Kaa-san ga Mujikaku ni Yuuwaku Shite Kuru
+    author: mattari-yufi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679634.jpg
+    rating: 0.0
+    date: '2026-09-09'
+    code: 679634
+    url: /works/679634/
+  - title: Tobira o Akete
+    author: okuoku
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679635.jpg
+    rating: 0.0
+    date: '2026-09-09'
+    code: 679635
+    url: /works/679635/
+  - title: Sayonara Jingei Kirai Hen
+    author: tamu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679667.jpg
+    rating: 0.0
+    date: '2026-09-09'
+    code: 679667
+    url: /works/679667/
+  - title: Mahou Shoujo Unicorn no Haiboku
+    author: rurimaru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679672.jpg
+    rating: 0.0
+    date: '2026-09-09'
+    code: 679672
+    url: /works/679672/
+  - title: '108P! ~1-nengo ni Zettai 108P Suru Hanashi~ (108P!: A Promise to 108P in
+      a Year) 04'
+    author: en
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679678.jpg
+    rating: 0.0
+    date: '2026-09-09'
+    code: 679678
+    url: /works/679678/
+  - title: Shokkaku Shoushitsu Joshi 2 - "Ikite Iru Uchi ni... Ichido no Fureai ja Tarinai"
+    author: rongchuhan
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679694.jpg
+    rating: 0.0
+    date: '2026-09-09'
+    code: 679694
+    url: /works/679694/
+  - title: Marsh Viper
+    author: ami
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679699.jpg
+    rating: 0.0
+    date: '2026-09-09'
+    code: 679699
+    url: /works/679699/
   - title: The Night She Trembled-The Reason Ichika Gave Her Body to a Scumbag Junior~
       Part One
     author: futamine-kobito
@@ -6498,6 +6606,51 @@ works:
     date: '2026-09-09'
     code: 679830
     url: /works/679830/
+  - title: When The Students Stare At You -- Seito-tachi ni Mitsumerareru to
+    author: romomata
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679853.jpg
+    rating: 0.0
+    date: '2026-09-09'
+    code: 679853
+    url: /works/679853/
+  - title: The Truant Chick From My Yearbook Who I Never Met At School -- Sotsu Aru
+      ni Ita Menshiki no Nai Futoukou no Kimi ga.
+    author: chotto-b-sen
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679856.jpg
+    rating: 0.0
+    date: '2026-09-09'
+    code: 679856
+    url: /works/679856/
+  - title: Me, With My Student...? 1
+    author: asagi-ryu-amano-miki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679857.jpg
+    rating: 0.0
+    date: '2026-09-09'
+    code: 679857
+    url: /works/679857/
+  - title: Boku o Ijimeteta Satou-kun o Kami Oshi Idol ni Kaete Otosu made | Until I
+      Turned Sato—Who Used to Bully Me—Into My Absolute Favorite Idol and Seduced Him
+    author: betty
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679861.jpg
+    rating: 0.0
+    date: '2026-09-09'
+    code: 679861
+    url: /works/679861/
+  - title: Sensei no Kyuusoku | Sensei's Relaxation
+    author: uran
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679865.jpg
+    rating: 0.0
+    date: '2026-09-09'
+    code: 679865
+    url: /works/679865/
+  - title: Hyoui AV AV Joyuu no Karada wo Sukihoudai Suru Hanashi | Possession Porn
+      ~A Story About Using Porn Actresses' Bodies as You Please~
+    author: ame-no-machi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679890.jpg
+    rating: 4.6
+    date: '2026-09-09'
+    code: 679890
+    url: /works/679890/
   - title: Hottokenaino
     author: hara-shigeyuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/77864.jpg

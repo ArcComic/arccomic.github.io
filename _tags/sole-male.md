@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole male"
-work_count: 508
+work_count: 519
 works:
   - title: Adoration
     author: kishizuka-kenji
@@ -614,6 +614,14 @@ works:
     date: '2026-04-17'
     code: 489004
     url: /works/489004/
+  - title: Onsen Yukata na Kashima-san to Hamakaze-san to. | Hamakaze and Kashima in
+      Hot Springs and Yukata
+    author: sarfata
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/489566.jpg
+    rating: 0.0
+    date: '2026-09-09'
+    code: 489566
+    url: /works/489566/
   - title: Nyuuin-chuu no Muramura wa...
     author: natsume-benkei
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/495599.jpg
@@ -1860,6 +1868,13 @@ works:
     date: '2026-03-07'
     code: 635363
     url: /works/635363/
+  - title: Married Women Are At A Naughty Age 2
+    author: asagi-ryu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/635482.jpg
+    rating: 0.0
+    date: '2026-09-09'
+    code: 635482
+    url: /works/635482/
   - title: Noa-chan to Ichaicha suru Hon
     author: remora
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/635512.jpg
@@ -2020,6 +2035,14 @@ works:
     date: '2026-08-24'
     code: 642585
     url: /works/642585/
+  - title: Apart no Otonari-san ga Yarasete Kureru Hanashi 4 | My Nextdoor Neighbor
+      Let Me Fuck Her 4
+    author: ki-51
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642727.jpg
+    rating: 0.0
+    date: '2026-09-09'
+    code: 642727
+    url: /works/642727/
   - title: Sumata dake tte Itta no ni… Nurutto Sounyuusarechatta Yuutousei no Omocha
       | You Said It'd Just Be Grinding... But You Ended up Slipping It In. Now I'm Just
       the Top Student's Toy 3.
@@ -2738,6 +2761,13 @@ works:
     date: '2026-09-07'
     code: 654638
     url: /works/654638/
+  - title: I, was sold to my mother's ex-fiancé
+    author: romomata
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/655077.jpg
+    rating: 0.0
+    date: '2026-09-09'
+    code: 655077
+    url: /works/655077/
   - title: Haha to Osake Nondara erai Kotoninarimashita
     author: matsumoto-jikyuuryoku
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/655291.jpg
@@ -3244,6 +3274,13 @@ works:
     date: '2026-07-17'
     code: 664943
     url: /works/664943/
+  - title: KORE HA ZENBU SENSEI NO SEIDESUKARA. + "Gouhou" deshitara... Daijoubu desu
+    author: tomo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/665716.jpg
+    rating: 0.0
+    date: '2026-09-09'
+    code: 665716
+    url: /works/665716/
   - title: Super de Genki ni Hataraku Hahaoya ga Hikikomori Musuko ni Tanetsuke Saremakutteita
       Hanashi
     author: daidai-shikibu
@@ -3746,6 +3783,27 @@ works:
     date: '2026-09-08'
     code: 679504
     url: /works/679504/
+  - title: Kaa-san ga Mujikaku ni Yuuwaku Shite Kuru
+    author: mattari-yufi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679634.jpg
+    rating: 0.0
+    date: '2026-09-09'
+    code: 679634
+    url: /works/679634/
+  - title: Tobira o Akete
+    author: okuoku
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679635.jpg
+    rating: 0.0
+    date: '2026-09-09'
+    code: 679635
+    url: /works/679635/
+  - title: Shokkaku Shoushitsu Joshi 2 - "Ikite Iru Uchi ni... Ichido no Fureai ja Tarinai"
+    author: rongchuhan
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679694.jpg
+    rating: 0.0
+    date: '2026-09-09'
+    code: 679694
+    url: /works/679694/
   - title: korette unmei? | Was This Destiny?
     author: enokido
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679745.jpg
@@ -3760,4 +3818,26 @@ works:
     date: '2026-09-09'
     code: 679764
     url: /works/679764/
+  - title: Me, With My Student...? 1
+    author: asagi-ryu-amano-miki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679857.jpg
+    rating: 0.0
+    date: '2026-09-09'
+    code: 679857
+    url: /works/679857/
+  - title: Boku o Ijimeteta Satou-kun o Kami Oshi Idol ni Kaete Otosu made | Until I
+      Turned Sato—Who Used to Bully Me—Into My Absolute Favorite Idol and Seduced Him
+    author: betty
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679861.jpg
+    rating: 0.0
+    date: '2026-09-09'
+    code: 679861
+    url: /works/679861/
+  - title: Sensei no Kyuusoku | Sensei's Relaxation
+    author: uran
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679865.jpg
+    rating: 0.0
+    date: '2026-09-09'
+    code: 679865
+    url: /works/679865/
 ---

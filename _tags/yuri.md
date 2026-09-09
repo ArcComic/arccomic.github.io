@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "yuri"
-work_count: 31
+work_count: 33
 works:
   - title: Gekkoutou no Yume - Nyotaika Douwa ~Danshi Kinsei no Tou~
     author: mugen-no-sudadokei
@@ -228,4 +228,19 @@ works:
     date: '2026-08-29'
     code: 676397
     url: /works/676397/
+  - title: Lazy First Lovemaking of the New Year
+    author: takeshisu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679604.jpg
+    rating: 0.0
+    date: '2026-09-09'
+    code: 679604
+    url: /works/679604/
+  - title: Hyoui AV AV Joyuu no Karada wo Sukihoudai Suru Hanashi | Possession Porn
+      ~A Story About Using Porn Actresses' Bodies as You Please~
+    author: ame-no-machi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679890.jpg
+    rating: 4.6
+    date: '2026-09-09'
+    code: 679890
+    url: /works/679890/
 ---

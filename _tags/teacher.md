@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "teacher"
-work_count: 59
+work_count: 61
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -434,6 +434,20 @@ works:
     date: '2026-08-21'
     code: 674684
     url: /works/674684/
+  - title: When The Students Stare At You -- Seito-tachi ni Mitsumerareru to
+    author: romomata
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679853.jpg
+    rating: 0.0
+    date: '2026-09-09'
+    code: 679853
+    url: /works/679853/
+  - title: Me, With My Student...? 1
+    author: asagi-ryu-amano-miki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679857.jpg
+    rating: 0.0
+    date: '2026-09-09'
+    code: 679857
+    url: /works/679857/
   - title: Jokyoushi - Hot For Teachers | Female Teachers
     author: drill-murata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/81375.jpg

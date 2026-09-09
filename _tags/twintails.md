@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "twintails"
-work_count: 77
+work_count: 80
 works:
   - title: Sensei wa Shougakusei ga Suki | Sensei Loves Elementary Schoolers
     author: fuyuno-mikan
@@ -48,6 +48,14 @@ works:
     date: '2026-07-10'
     code: 476399
     url: /works/476399/
+  - title: Onsen Yukata na Kashima-san to Hamakaze-san to. | Hamakaze and Kashima in
+      Hot Springs and Yukata
+    author: sarfata
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/489566.jpg
+    rating: 0.0
+    date: '2026-09-09'
+    code: 489566
+    url: /works/489566/
   - title: Moto Mahou Shoujo no Hikikomori Seikatsu | The NEET Life of a Former Magical
       Girl
     author: zhen-lu
@@ -176,7 +184,7 @@ works:
       Female Friends
     author: mmchair
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/614204.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-09'
     code: 614204
     url: /works/614204/
@@ -320,6 +328,13 @@ works:
     date: '2026-05-21'
     code: 651499
     url: /works/651499/
+  - title: Tooi Kimi ni, Boku wa Todokanai | I can't reach you, far away.
+    author: futamine-kobito
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651967.jpg
+    rating: 4.3
+    date: '2026-09-09'
+    code: 651967
+    url: /works/651967/
   - title: A story about a shy childhood friend who can’t say no and ends up being put
       in charge of handling sexual needs.
     author: sakurayu-hal
@@ -331,7 +346,7 @@ works:
   - title: 'Chinmake Kouman Okugata-sama | Haughty Housewives: Defeated by Dick'
     author: minamida-usuke
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/657459.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-09'
     code: 657459
     url: /works/657459/
@@ -573,4 +588,11 @@ works:
     date: '2026-09-08'
     code: 679488
     url: /works/679488/
+  - title: Mahou Shoujo Unicorn no Haiboku
+    author: rurimaru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679672.jpg
+    rating: 0.0
+    date: '2026-09-09'
+    code: 679672
+    url: /works/679672/
 ---

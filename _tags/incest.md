@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "incest"
-work_count: 181
+work_count: 182
 works:
   - title: Kindan no Hatemitsu
     author: ryuuta
@@ -1327,6 +1327,13 @@ works:
     date: '2026-09-08'
     code: 679501
     url: /works/679501/
+  - title: Kaa-san ga Mujikaku ni Yuuwaku Shite Kuru
+    author: mattari-yufi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679634.jpg
+    rating: 0.0
+    date: '2026-09-09'
+    code: 679634
+    url: /works/679634/
   - title: The Face I Show My Husband Is Different | Otto no Mae to wa Chigau Kao [English]
       [Cookie Cruncher
     author: jirou

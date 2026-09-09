@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "kimono"
-work_count: 28
+work_count: 31
 works:
   - title: Hitozuma Hyakka
     author: hase-tsubura
@@ -32,6 +32,14 @@ works:
     date: '2026-04-19'
     code: 446716
     url: /works/446716/
+  - title: Onsen Yukata na Kashima-san to Hamakaze-san to. | Hamakaze and Kashima in
+      Hot Springs and Yukata
+    author: sarfata
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/489566.jpg
+    rating: 0.0
+    date: '2026-09-09'
+    code: 489566
+    url: /works/489566/
   - title: Oppai na Natsuyasumi Soushuuhen | The Summer Break of Boobs Complete
     author: higashino-mikan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/508649.jpg
@@ -118,6 +126,14 @@ works:
     date: '2026-03-03'
     code: 631665
     url: /works/631665/
+  - title: Apart no Otonari-san ga Yarasete Kureru Hanashi 4 | My Nextdoor Neighbor
+      Let Me Fuck Her 4
+    author: ki-51
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642727.jpg
+    rating: 0.0
+    date: '2026-09-09'
+    code: 642727
+    url: /works/642727/
   - title: Ecchi na Onee-san-tachi ni Onsenyado de Hokakusareta Ken
     author: ishigaki-takashi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/644924.jpg
@@ -207,6 +223,13 @@ works:
     date: '2026-08-21'
     code: 674614
     url: /works/674614/
+  - title: Matsuri to Hamakaze to | The Festival and Hamakaze
+    author: ki-51
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679066.jpg
+    rating: 0.0
+    date: '2026-09-09'
+    code: 679066
+    url: /works/679066/
   - title: Okasareta Hitozuma
     author: itaba-hiroshi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679197.jpg

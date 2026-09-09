@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "rape"
-work_count: 145
+work_count: 148
 works:
   - title: Office Love Scramble Ch. 1
     author: tohzai
@@ -734,6 +734,13 @@ works:
     date: '2026-08-25'
     code: 654373
     url: /works/654373/
+  - title: I, was sold to my mother's ex-fiancé
+    author: romomata
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/655077.jpg
+    rating: 0.0
+    date: '2026-09-09'
+    code: 655077
+    url: /works/655077/
   - title: Boshi Soukan no Hajimari
     author: kuruto
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/655202.jpg
@@ -1050,6 +1057,20 @@ works:
     date: '2026-08-29'
     code: 676320
     url: /works/676320/
+  - title: Kaa-san ga Mujikaku ni Yuuwaku Shite Kuru
+    author: mattari-yufi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679634.jpg
+    rating: 0.0
+    date: '2026-09-09'
+    code: 679634
+    url: /works/679634/
+  - title: Mahou Shoujo Unicorn no Haiboku
+    author: rurimaru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679672.jpg
+    rating: 0.0
+    date: '2026-09-09'
+    code: 679672
+    url: /works/679672/
   - title: The Night She Trembled-The Reason Ichika Gave Her Body to a Scumbag Junior~
       Part One
     author: futamine-kobito

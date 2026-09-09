@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "japanese"
-work_count: 38
+work_count: 39
 works:
   - title: Hitozuma Hyakka
     author: hase-tsubura
@@ -272,4 +272,12 @@ works:
     date: '2026-05-07'
     code: 648551
     url: /works/648551/
+  - title: '108P! ~1-nengo ni Zettai 108P Suru Hanashi~ (108P!: A Promise to 108P in
+      a Year) 04'
+    author: en
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679678.jpg
+    rating: 0.0
+    date: '2026-09-09'
+    code: 679678
+    url: /works/679678/
 ---

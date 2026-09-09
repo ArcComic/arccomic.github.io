@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "possession"
-work_count: 8
+work_count: 9
 works:
   - title: Hyoui Suru nara Kanemochi no Bakunyuu Babaa ni Kagiru! | If you want to be
       possessed, it must be a rich hag with big tits!
@@ -62,4 +62,12 @@ works:
     date: '2026-08-31'
     code: 677230
     url: /works/677230/
+  - title: Hyoui AV AV Joyuu no Karada wo Sukihoudai Suru Hanashi | Possession Porn
+      ~A Story About Using Porn Actresses' Bodies as You Please~
+    author: ame-no-machi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679890.jpg
+    rating: 4.6
+    date: '2026-09-09'
+    code: 679890
+    url: /works/679890/
 ---

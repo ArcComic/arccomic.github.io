@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "gyaru-oh"
-work_count: 14
+work_count: 15
 works:
   - title: Netorare Ibe Kiba Shizuka
     author: terasu-mc
@@ -102,4 +102,11 @@ works:
     date: '2026-08-28'
     code: 676193
     url: /works/676193/
+  - title: Boku no Aisuru Tsuma o Daite Kudasai 1 - 3
+    author: smells-like
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679771.jpg
+    rating: 4.6
+    date: '2026-09-09'
+    code: 679771
+    url: /works/679771/
 ---

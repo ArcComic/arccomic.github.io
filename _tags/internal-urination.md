@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "internal urination"
-work_count: 3
+work_count: 4
 works:
   - title: Rena
     author: shinjima-saki
@@ -24,4 +24,11 @@ works:
     date: '2026-07-13'
     code: 636807
     url: /works/636807/
+  - title: nannal - Hahaoya Shikkaku ーMama wa Benjoー
+    author: nannal
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679774.jpg
+    rating: 4.3
+    date: '2026-09-09'
+    code: 679774
+    url: /works/679774/
 ---
