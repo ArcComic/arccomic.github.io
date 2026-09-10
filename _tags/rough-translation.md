@@ -2593,42 +2593,42 @@ works:
       1-3
     author: sakayama-shinta-chakayama-tokoroten
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679620.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-09'
     code: 679620
     url: /works/679620/
   - title: Kaa-san ga Mujikaku ni Yuuwaku Shite Kuru
     author: mattari-yufi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679634.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-09-09'
     code: 679634
     url: /works/679634/
   - title: Tobira o Akete
     author: okuoku
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679635.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-09'
     code: 679635
     url: /works/679635/
   - title: Sayonara Jingei Kirai Hen
     author: tamu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679667.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-09'
     code: 679667
     url: /works/679667/
   - title: Mahou Shoujo Unicorn no Haiboku
     author: rurimaru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679672.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-09'
     code: 679672
     url: /works/679672/
   - title: Shokkaku Shoushitsu Joshi 2 - "Ikite Iru Uchi ni... Ichido no Fureai ja Tarinai"
     author: rongchuhan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679694.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-09'
     code: 679694
     url: /works/679694/
@@ -2664,7 +2664,7 @@ works:
       Turned Sato—Who Used to Bully Me—Into My Absolute Favorite Idol and Seduced Him
     author: betty
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679861.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-09'
     code: 679861
     url: /works/679861/

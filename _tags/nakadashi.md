@@ -529,7 +529,7 @@ works:
       Hot Springs and Yukata
     author: sarfata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/489566.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-09'
     code: 489566
     url: /works/489566/
@@ -2556,7 +2556,7 @@ works:
   - title: I, was sold to my mother's ex-fiancé
     author: romomata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/655077.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-09'
     code: 655077
     url: /works/655077/
@@ -2982,7 +2982,7 @@ works:
   - title: KORE HA ZENBU SENSEI NO SEIDESUKARA. + "Gouhou" deshitara... Daijoubu desu
     author: tomo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/665716.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-09'
     code: 665716
     url: /works/665716/
@@ -3394,14 +3394,14 @@ works:
   - title: Kaa-san ga Mujikaku ni Yuuwaku Shite Kuru
     author: mattari-yufi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679634.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-09-09'
     code: 679634
     url: /works/679634/
   - title: Mahou Shoujo Unicorn no Haiboku
     author: rurimaru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679672.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-09'
     code: 679672
     url: /works/679672/
@@ -3430,7 +3430,7 @@ works:
   - title: Sensei no Kyuusoku | Sensei's Relaxation
     author: uran
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679865.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-09'
     code: 679865
     url: /works/679865/

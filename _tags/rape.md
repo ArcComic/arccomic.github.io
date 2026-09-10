@@ -737,7 +737,7 @@ works:
   - title: I, was sold to my mother's ex-fiancé
     author: romomata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/655077.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-09'
     code: 655077
     url: /works/655077/
@@ -1060,14 +1060,14 @@ works:
   - title: Kaa-san ga Mujikaku ni Yuuwaku Shite Kuru
     author: mattari-yufi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679634.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-09-09'
     code: 679634
     url: /works/679634/
   - title: Mahou Shoujo Unicorn no Haiboku
     author: rurimaru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679672.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-09'
     code: 679672
     url: /works/679672/

@@ -577,7 +577,7 @@ works:
   - title: Shuudan Jotaika Gyaru, Ochiru | Mass-Gender Bended Gyarus, Fall into Depravity
     author: betty
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/414300.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-09'
     code: 414300
     url: /works/414300/
@@ -1029,7 +1029,7 @@ works:
       Hot Springs and Yukata
     author: sarfata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/489566.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-09'
     code: 489566
     url: /works/489566/
@@ -3110,7 +3110,7 @@ works:
   - title: Married Women Are At A Naughty Age 2
     author: asagi-ryu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/635482.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-09'
     code: 635482
     url: /works/635482/
@@ -3309,7 +3309,7 @@ works:
       Let Me Fuck Her 4
     author: ki-51
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642727.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-09'
     code: 642727
     url: /works/642727/
@@ -4360,7 +4360,7 @@ works:
   - title: I, was sold to my mother's ex-fiancé
     author: romomata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/655077.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-09'
     code: 655077
     url: /works/655077/
@@ -5500,7 +5500,7 @@ works:
   - title: KORE HA ZENBU SENSEI NO SEIDESUKARA. + "Gouhou" deshitara... Daijoubu desu
     author: tomo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/665716.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-09'
     code: 665716
     url: /works/665716/
@@ -6405,7 +6405,7 @@ works:
   - title: Matsuri to Hamakaze to | The Festival and Hamakaze
     author: ki-51
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679066.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-09'
     code: 679066
     url: /works/679066/
@@ -6508,7 +6508,7 @@ works:
   - title: Lazy First Lovemaking of the New Year
     author: takeshisu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679604.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-09'
     code: 679604
     url: /works/679604/
@@ -6516,35 +6516,35 @@ works:
       1-3
     author: sakayama-shinta-chakayama-tokoroten
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679620.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-09'
     code: 679620
     url: /works/679620/
   - title: Kaa-san ga Mujikaku ni Yuuwaku Shite Kuru
     author: mattari-yufi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679634.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-09-09'
     code: 679634
     url: /works/679634/
   - title: Tobira o Akete
     author: okuoku
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679635.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-09'
     code: 679635
     url: /works/679635/
   - title: Sayonara Jingei Kirai Hen
     author: tamu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679667.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-09'
     code: 679667
     url: /works/679667/
   - title: Mahou Shoujo Unicorn no Haiboku
     author: rurimaru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679672.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-09'
     code: 679672
     url: /works/679672/
@@ -6552,21 +6552,21 @@ works:
       a Year) 04'
     author: en
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679678.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-09'
     code: 679678
     url: /works/679678/
   - title: Shokkaku Shoushitsu Joshi 2 - "Ikite Iru Uchi ni... Ichido no Fureai ja Tarinai"
     author: rongchuhan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679694.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-09'
     code: 679694
     url: /works/679694/
   - title: Marsh Viper
     author: ami
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679699.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-09'
     code: 679699
     url: /works/679699/
@@ -6631,7 +6631,7 @@ works:
   - title: When The Students Stare At You -- Seito-tachi ni Mitsumerareru to
     author: romomata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679853.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-09'
     code: 679853
     url: /works/679853/
@@ -6639,7 +6639,7 @@ works:
       ni Ita Menshiki no Nai Futoukou no Kimi ga.
     author: chotto-b-sen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679856.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-09'
     code: 679856
     url: /works/679856/
@@ -6654,14 +6654,14 @@ works:
       Turned Sato—Who Used to Bully Me—Into My Absolute Favorite Idol and Seduced Him
     author: betty
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679861.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-09'
     code: 679861
     url: /works/679861/
   - title: Sensei no Kyuusoku | Sensei's Relaxation
     author: uran
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679865.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-09'
     code: 679865
     url: /works/679865/

@@ -1,4 +1,4 @@
-<!-- arc-comic-layout-version: 11 -->
+<!-- arc-comic-layout-version: 12 -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -208,38 +208,131 @@
             Read Now
         </a>
 
+        {% comment %}
+        Similar Comics — 6 slots total, built in priority tiers:
+          Slot 1:    best tag+title match among the SAME AUTHOR's other comics
+                     (if the author has no other comics on the site, this slot
+                     is simply absorbed into the match-pool tier below, so all
+                     6 slots come from tiers 2/3 instead)
+          Tier 2:    best tag+title match among the newest 100 comics
+                     site-wide, filling however many slots remain after tier 1
+          Tier 3:    most recent uploads site-wide — there's no real view or
+                     rating system on this site (rating is manual, views come
+                     from a free API), so "popular" isn't a real signal;
+                     recency is the honest fallback for any slots tier 1+2
+                     didn't fill
+          A running "shown_series" list (first word of title) is enforced
+          across every tier so multi-chapter series don't eat multiple slots,
+          same rule the old version had.
+        {% endcomment %}
         {% assign this_tags = page.tags %}
-        {% assign candidates = "" | split: "" %}
-        {% for work in site.works %}
-            {% if work.code != page.code %}
-                {% assign overlap = 0 %}
-                {% for t in work.tags %}
-                    {% if this_tags contains t %}{% assign overlap = overlap | plus: 1 %}{% endif %}
-                {% endfor %}
-                {% if overlap > 0 %}
-                    {% assign candidates = candidates | push: work %}
-                {% endif %}
+        {% assign this_title_words = page.title | split: " " %}
+        {% assign all_others = "" | split: "" %}
+        {% for w in site.works %}
+            {% if w.code != page.code %}{% assign all_others = all_others | push: w %}{% endif %}
+        {% endfor %}
+
+        {% assign shown_count = 0 %}
+        {% assign shown_series = "" | split: "," %}
+        {% assign shown_codes = "" | split: "," %}
+
+        {% assign author_candidates = all_others | where: "author", page.author %}
+        {% assign author_scored = "" | split: "" %}
+        {% for work in author_candidates %}
+            {% assign score = 0 %}
+            {% for t in work.tags %}
+                {% if this_tags contains t %}{% assign score = score | plus: 1 %}{% endif %}
+            {% endfor %}
+            {% assign work_title_words = work.title | split: " " %}
+            {% for wtw in work_title_words %}
+                {% if this_title_words contains wtw %}{% assign score = score | plus: 1 %}{% endif %}
+            {% endfor %}
+            {% assign padded_score = score | plus: 1000 %}
+            {% assign sortkey = padded_score | append: "|" | append: work.code %}
+            {% assign author_scored = author_scored | push: sortkey %}
+        {% endfor %}
+        {% assign author_scored = author_scored | sort | reverse %}
+        {% assign author_pick_code = "" %}
+        {% if author_scored.size > 0 %}
+            {% assign top = author_scored | first | split: "|" %}
+            {% assign author_pick_code = top | last %}
+        {% endif %}
+        {% assign author_pick = all_others | where: "code", author_pick_code | first %}
+
+        {% assign recent_100 = site.works | sort: "date" | reverse | slice: 0, 100 %}
+        {% assign recent_100_others = "" | split: "" %}
+        {% for w in recent_100 %}
+            {% if w.code != page.code %}{% assign recent_100_others = recent_100_others | push: w %}{% endif %}
+        {% endfor %}
+        {% assign match_scored = "" | split: "" %}
+        {% for work in recent_100_others %}
+            {% assign score = 0 %}
+            {% for t in work.tags %}
+                {% if this_tags contains t %}{% assign score = score | plus: 1 %}{% endif %}
+            {% endfor %}
+            {% assign work_title_words = work.title | split: " " %}
+            {% for wtw in work_title_words %}
+                {% if this_title_words contains wtw %}{% assign score = score | plus: 1 %}{% endif %}
+            {% endfor %}
+            {% if score > 0 %}
+                {% assign padded_score = score | plus: 1000 %}
+                {% assign sortkey = padded_score | append: "|" | append: work.code %}
+                {% assign match_scored = match_scored | push: sortkey %}
             {% endif %}
         {% endfor %}
+        {% assign match_scored = match_scored | sort | reverse %}
 
         <div class="similar-section">
             <div class="similar-title">📖 Similar Comics</div>
             <div class="similar-grid">
-                {% assign shown_count = 0 %}
-                {% assign shown_series = "" | split: "," %}
-                {% for work in candidates limit: 20 %}
-                    {% if shown_count >= 4 %}{% break %}{% endif %}
+                {% if author_pick %}
+                    {% assign base_title = author_pick.title | split: " " | first %}
+                    {% assign shown_series = shown_series | push: base_title %}
+                    {% assign shown_codes = shown_codes | push: author_pick.code %}
+                    {% assign shown_count = shown_count | plus: 1 %}
+                    <a href="/works/{{ author_pick.code }}/" class="similar-card">
+                        <img src="{{ author_pick.cover }}" alt="{{ author_pick.title }}" class="similar-cover">
+                        <div class="similar-info">
+                            <div class="similar-info-title">{{ author_pick.title }}</div>
+                        </div>
+                    </a>
+                {% endif %}
+
+                {% for entry in match_scored %}
+                    {% if shown_count >= 6 %}{% break %}{% endif %}
+                    {% assign parts = entry | split: "|" %}
+                    {% assign work_code = parts | last %}
+                    {% if shown_codes contains work_code %}{% continue %}{% endif %}
+                    {% assign work = recent_100_others | where: "code", work_code | first %}
                     {% assign base_title = work.title | split: " " | first %}
-                    {% unless shown_series contains base_title %}
-                        {% assign shown_series = shown_series | push: base_title %}
-                        {% assign shown_count = shown_count | plus: 1 %}
-                        <a href="/works/{{ work.code }}/" class="similar-card">
-                            <img src="{{ work.cover }}" alt="{{ work.title }}" class="similar-cover">
-                            <div class="similar-info">
-                                <div class="similar-info-title">{{ work.title }}</div>
-                            </div>
-                        </a>
-                    {% endunless %}
+                    {% if shown_series contains base_title %}{% continue %}{% endif %}
+                    {% assign shown_series = shown_series | push: base_title %}
+                    {% assign shown_codes = shown_codes | push: work.code %}
+                    {% assign shown_count = shown_count | plus: 1 %}
+                    <a href="/works/{{ work.code }}/" class="similar-card">
+                        <img src="{{ work.cover }}" alt="{{ work.title }}" class="similar-cover">
+                        <div class="similar-info">
+                            <div class="similar-info-title">{{ work.title }}</div>
+                        </div>
+                    </a>
+                {% endfor %}
+
+                {% assign newest = site.works | sort: "date" | reverse %}
+                {% for work in newest %}
+                    {% if shown_count >= 6 %}{% break %}{% endif %}
+                    {% if work.code == page.code %}{% continue %}{% endif %}
+                    {% if shown_codes contains work.code %}{% continue %}{% endif %}
+                    {% assign base_title = work.title | split: " " | first %}
+                    {% if shown_series contains base_title %}{% continue %}{% endif %}
+                    {% assign shown_series = shown_series | push: base_title %}
+                    {% assign shown_codes = shown_codes | push: work.code %}
+                    {% assign shown_count = shown_count | plus: 1 %}
+                    <a href="/works/{{ work.code }}/" class="similar-card">
+                        <img src="{{ work.cover }}" alt="{{ work.title }}" class="similar-cover">
+                        <div class="similar-info">
+                            <div class="similar-info-title">{{ work.title }}</div>
+                        </div>
+                    </a>
                 {% endfor %}
             </div>
         </div>

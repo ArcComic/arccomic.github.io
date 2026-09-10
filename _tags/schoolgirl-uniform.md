@@ -93,7 +93,7 @@ works:
   - title: Shuudan Jotaika Gyaru, Ochiru | Mass-Gender Bended Gyarus, Fall into Depravity
     author: betty
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/414300.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-09'
     code: 414300
     url: /works/414300/
@@ -937,7 +937,7 @@ works:
   - title: I, was sold to my mother's ex-fiancé
     author: romomata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/655077.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-09'
     code: 655077
     url: /works/655077/
@@ -1149,7 +1149,7 @@ works:
   - title: KORE HA ZENBU SENSEI NO SEIDESUKARA. + "Gouhou" deshitara... Daijoubu desu
     author: tomo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/665716.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-09'
     code: 665716
     url: /works/665716/
@@ -1402,7 +1402,7 @@ works:
       Turned Sato—Who Used to Bully Me—Into My Absolute Favorite Idol and Seduced Him
     author: betty
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679861.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-09'
     code: 679861
     url: /works/679861/

@@ -36,7 +36,7 @@ works:
       Hot Springs and Yukata
     author: sarfata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/489566.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-09'
     code: 489566
     url: /works/489566/
@@ -130,7 +130,7 @@ works:
       Let Me Fuck Her 4
     author: ki-51
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642727.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-09'
     code: 642727
     url: /works/642727/
@@ -226,7 +226,7 @@ works:
   - title: Matsuri to Hamakaze to | The Festival and Hamakaze
     author: ki-51
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679066.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-09'
     code: 679066
     url: /works/679066/

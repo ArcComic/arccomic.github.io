@@ -831,7 +831,7 @@ works:
   - title: Married Women Are At A Naughty Age 2
     author: asagi-ryu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/635482.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-09'
     code: 635482
     url: /works/635482/
@@ -914,7 +914,7 @@ works:
       Let Me Fuck Her 4
     author: ki-51
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642727.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-09'
     code: 642727
     url: /works/642727/
@@ -1228,7 +1228,7 @@ works:
   - title: I, was sold to my mother's ex-fiancé
     author: romomata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/655077.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-09'
     code: 655077
     url: /works/655077/
@@ -1530,7 +1530,7 @@ works:
   - title: Lazy First Lovemaking of the New Year
     author: takeshisu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679604.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-09'
     code: 679604
     url: /works/679604/
