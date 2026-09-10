@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "mosaic censorship"
-work_count: 196
+work_count: 199
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -1434,4 +1434,25 @@ works:
     date: '2026-09-09'
     code: 679856
     url: /works/679856/
+  - title: Kaneda did nothing wrong Vol.1
+    author: haruharudo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679977.jpg
+    rating: 0.0
+    date: '2026-09-10'
+    code: 679977
+    url: /works/679977/
+  - title: Gal-kei Joshi ni Kakikaerareta Ore | Rewritten as a Gyaru Girl
+    author: nomu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679992.jpg
+    rating: 0.0
+    date: '2026-09-10'
+    code: 679992
+    url: /works/679992/
+  - title: Succubus Club e Youkoso Soushuuhen | Welcome To The Succubus Sorority After
+    author: nomu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680088.jpg
+    rating: 0.0
+    date: '2026-09-10'
+    code: 680088
+    url: /works/680088/
 ---

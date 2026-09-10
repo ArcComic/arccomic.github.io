@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole dickgirl"
-work_count: 4
+work_count: 6
 works:
   - title: Tempt & Throb
     author: mushihara
@@ -25,6 +25,13 @@ works:
     date: '2026-09-07'
     code: 669254
     url: /works/669254/
+  - title: Uchi, Chinko Tsuiterunsu kedo Iissu ka? | I have a dick, is that okay?
+    author: yuuki-konefu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/669748.jpg
+    rating: 0.0
+    date: '2026-09-10'
+    code: 669748
+    url: /works/669748/
   - title: Saotsuki Honey to Doukyo Seikatsu Ch. 6
     author: hontoku
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/674763.jpg
@@ -32,4 +39,12 @@ works:
     date: '2026-08-22'
     code: 674763
     url: /works/674763/
+  - title: Downer-kei Arafour Newhalf to Shinkon-san-gokko | Playing Newlyweds With
+      A Gloomy Around-Forty Newhalf
+    author: yuuki-konefu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679961.jpg
+    rating: 0.0
+    date: '2026-09-10'
+    code: 679961
+    url: /works/679961/
 ---

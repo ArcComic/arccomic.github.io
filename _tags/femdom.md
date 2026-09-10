@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "femdom"
-work_count: 91
+work_count: 93
 works:
   - title: Life with Married Women Just Like a Manga 2 - Ch. 1-5
     author: hidemaru
@@ -660,6 +660,22 @@ works:
     date: '2026-09-07'
     code: 679197
     url: /works/679197/
+  - title: Having Intense, Romantic Raw Sex With A 8-foot Tall Woman I Met On A Dating
+      App
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679942.jpg
+    rating: 0.0
+    date: '2026-09-10'
+    code: 679942
+    url: /works/679942/
+  - title: Downer-kei Arafour Newhalf to Shinkon-san-gokko | Playing Newlyweds With
+      A Gloomy Around-Forty Newhalf
+    author: yuuki-konefu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679961.jpg
+    rating: 0.0
+    date: '2026-09-10'
+    code: 679961
+    url: /works/679961/
   - title: Jokyoushi - Hot For Teachers | Female Teachers
     author: drill-murata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/81375.jpg

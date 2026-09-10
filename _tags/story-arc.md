@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "story arc"
-work_count: 122
+work_count: 129
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -207,6 +207,15 @@ works:
     date: '2026-04-23'
     code: 509049
     url: /works/509049/
+  - title: Watashi, Gitei no Are de… Kanji teru!~ Aniki yori Dekakute Iidaro 1-3 | I'm
+      Feeling... My Brother-in-Law's Cock! 〜I'm Bigger Than My Brother's, Aren't I?
+      ch.1-3
+    author: sisei-tokei
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/511803.jpg
+    rating: 0.0
+    date: '2026-09-10'
+    code: 511803
+    url: /works/511803/
   - title: This Woman’s Body Tells Lies
     author: ichihara-kazuma
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/527621.jpg
@@ -222,6 +231,14 @@ works:
     date: '2026-05-01'
     code: 529365
     url: /works/529365/
+  - title: Netori Esthe de, Konya, Tsuma ga.... | I Can't Resist His Massage! Cheating
+      in Front of My Husband's Eyes Vol. 1-4
+    author: fight-fight-chiharu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/529791.jpg
+    rating: 0.0
+    date: '2026-09-10'
+    code: 529791
+    url: /works/529791/
   - title: '"Sex no Benkyou Shiyokka?" Kareshi ga Iru no ni Itoko kara Shojo wo Ubaware
       Zecchou Shidou 1-5 | Let''s Learn About Sex: Your Cousin Will Take Your Virginity
       and Teach You How to Come 1-5'
@@ -411,6 +428,14 @@ works:
     date: '2026-04-15'
     code: 612887
     url: /works/612887/
+  - title: Onnanoko ga Ochita Saki wa, Ore no Musuko no Sakippo deshita | What She Fell
+      On Was the Tip of My Dick Vol. 1-4
+    author: hatokonro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/613838.jpg
+    rating: 0.0
+    date: '2026-09-10'
+    code: 613838
+    url: /works/613838/
   - title: Rikujoubu no Bokukko Doukyuusei ga Chuunen Komon ni Mesu ni Sareru Ichibu
       Shijuu
     author: marushin
@@ -434,6 +459,13 @@ works:
     date: '2026-08-29'
     code: 618087
     url: /works/618087/
+  - title: The NTR Massage Vol. 1-2
+    author: kazutaro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/618088.jpg
+    rating: 0.0
+    date: '2026-09-10'
+    code: 618088
+    url: /works/618088/
   - title: Ima Kara Irerukedo, "Sakippo Dake" Dakara Sex Janai Yo.  | Just The Tip Inside
       is Not Sex Vol. 1-4
     author: ouma
@@ -580,6 +612,15 @@ works:
     date: '2026-04-23'
     code: 645649
     url: /works/645649/
+  - title: Maki wa Yasashii Otto no Tame ni Mayu wa Dekachin Otto no Tame ni Toukousha
+      Gonda Goukichi | Maki married to a gentle husband is corrupted by her neighbor
+      Gonda Gokichi
+    author: nantomo-san
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/645814.jpg
+    rating: 0.0
+    date: '2026-09-10'
+    code: 645814
+    url: /works/645814/
   - title: Sex Between Gloomy Types is the Hottest, Ain't It?
     author: doji-ro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/646757.jpg
@@ -895,6 +936,21 @@ works:
     date: '2026-09-09'
     code: 679771
     url: /works/679771/
+  - title: Having Intense, Romantic Raw Sex With A 8-foot Tall Woman I Met On A Dating
+      App
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679942.jpg
+    rating: 0.0
+    date: '2026-09-10'
+    code: 679942
+    url: /works/679942/
+  - title: Kaneda did nothing wrong Vol.1
+    author: haruharudo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679977.jpg
+    rating: 0.0
+    date: '2026-09-10'
+    code: 679977
+    url: /works/679977/
   - title: Hottokenaino
     author: hara-shigeyuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/77864.jpg

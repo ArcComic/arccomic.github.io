@@ -1,8 +1,15 @@
 ---
 layout: artist
 artist_name: "unknown"
-work_count: 40
+work_count: 42
 works:
+  - title: Yasashii Bakunyuu Kaa-san to Irekawacchatta Hankouki na Ore no Hanashi ~Episode
+      1~
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/420425.jpg
+    rating: 0.0
+    date: '2026-09-10'
+    code: 420425
+    url: /works/420425/
   - title: Risato
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/484852.jpg
     rating: 4.5
@@ -250,4 +257,11 @@ works:
     date: '2026-08-28'
     code: 676189
     url: /works/676189/
+  - title: Having Intense, Romantic Raw Sex With A 8-foot Tall Woman I Met On A Dating
+      App
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679942.jpg
+    rating: 0.0
+    date: '2026-09-10'
+    code: 679942
+    url: /works/679942/
 ---

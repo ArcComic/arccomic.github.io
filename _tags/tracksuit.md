@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "tracksuit"
-work_count: 6
+work_count: 7
 works:
   - title: Adlescence 06 Nozomi [English] =NSS=
     author: aoten
@@ -19,6 +19,13 @@ works:
     date: '2026-08-29'
     code: 511316
     url: /works/511316/
+  - title: Kannou no Triangle | Sensual Love Triangle
+    author: sena-youtarou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/538176.jpg
+    rating: 0.0
+    date: '2026-09-10'
+    code: 538176
+    url: /works/538176/
   - title: Hokenshitsu no Futon no Naka de Satori Sedai JK to Naisho H!
     author: niji-teru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/606725.jpg

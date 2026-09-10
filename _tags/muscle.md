@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "muscle"
-work_count: 64
+work_count: 66
 works:
   - title: Netorare Ibe Kiba Shizuka
     author: terasu-mc
@@ -82,6 +82,15 @@ works:
     date: '2026-05-01'
     code: 508534
     url: /works/508534/
+  - title: Watashi, Gitei no Are de… Kanji teru!~ Aniki yori Dekakute Iidaro 1-3 | I'm
+      Feeling... My Brother-in-Law's Cock! 〜I'm Bigger Than My Brother's, Aren't I?
+      ch.1-3
+    author: sisei-tokei
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/511803.jpg
+    rating: 0.0
+    date: '2026-09-10'
+    code: 511803
+    url: /works/511803/
   - title: Kawari wa Okaa-san | The Stand-in is Her Mom
     author: etuzan-jakusui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/528470.jpg
@@ -483,4 +492,12 @@ works:
     date: '2026-09-09'
     code: 679740
     url: /works/679740/
+  - title: Natsu, Inaka de Oji-san to ~Satogaeri~ | Summer in the Countryside with Ojisan
+      ~Homecoming~
+    author: pody
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679958.jpg
+    rating: 0.0
+    date: '2026-09-10'
+    code: 679958
+    url: /works/679958/
 ---

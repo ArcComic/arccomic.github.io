@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "nipple stimulation"
-work_count: 80
+work_count: 82
 works:
   - title: Hypnotic Domination ~ The Fall of Tennis Club Ace ~
     author: danchino
@@ -65,6 +65,15 @@ works:
     date: '2026-05-04'
     code: 510012
     url: /works/510012/
+  - title: Watashi, Gitei no Are de… Kanji teru!~ Aniki yori Dekakute Iidaro 1-3 | I'm
+      Feeling... My Brother-in-Law's Cock! 〜I'm Bigger Than My Brother's, Aren't I?
+      ch.1-3
+    author: sisei-tokei
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/511803.jpg
+    rating: 0.0
+    date: '2026-09-10'
+    code: 511803
+    url: /works/511803/
   - title: Chikubi Kando Chousa, Hajimemasu
     author: nanahamu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/528009.jpg
@@ -601,4 +610,12 @@ works:
     date: '2026-09-09'
     code: 679604
     url: /works/679604/
+  - title: Having Intense, Romantic Raw Sex With A 8-foot Tall Woman I Met On A Dating
+      App
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679942.jpg
+    rating: 0.0
+    date: '2026-09-10'
+    code: 679942
+    url: /works/679942/
 ---

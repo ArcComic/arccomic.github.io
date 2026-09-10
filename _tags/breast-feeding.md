@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "breast feeding"
-work_count: 47
+work_count: 50
 works:
   - title: Oppai na Natsuyasumi 2 | The Summer Break of Boobs 2
     author: higashino-mikan
@@ -97,6 +97,15 @@ works:
     date: '2026-08-29'
     code: 511316
     url: /works/511316/
+  - title: Watashi, Gitei no Are de… Kanji teru!~ Aniki yori Dekakute Iidaro 1-3 | I'm
+      Feeling... My Brother-in-Law's Cock! 〜I'm Bigger Than My Brother's, Aren't I?
+      ch.1-3
+    author: sisei-tokei
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/511803.jpg
+    rating: 0.0
+    date: '2026-09-10'
+    code: 511803
+    url: /works/511803/
   - title: Netorareru.~ Tsuma ga Ochi Yuku Hen'ai Kairaku no Hate ni...1-5 | NETORARERU,
       A Wife's Descent Into Sinful Pleasures 1-5
     author: yuuki-ryo
@@ -252,6 +261,15 @@ works:
     date: '2026-04-23'
     code: 645649
     url: /works/645649/
+  - title: Maki wa Yasashii Otto no Tame ni Mayu wa Dekachin Otto no Tame ni Toukousha
+      Gonda Goukichi | Maki married to a gentle husband is corrupted by her neighbor
+      Gonda Gokichi
+    author: nantomo-san
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/645814.jpg
+    rating: 0.0
+    date: '2026-09-10'
+    code: 645814
+    url: /works/645814/
   - title: Sex Between Gloomy Types is the Hottest, Ain't It?
     author: doji-ro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/646757.jpg
@@ -363,4 +381,12 @@ works:
     date: '2026-08-29'
     code: 676320
     url: /works/676320/
+  - title: Downer-kei Arafour Newhalf to Shinkon-san-gokko | Playing Newlyweds With
+      A Gloomy Around-Forty Newhalf
+    author: yuuki-konefu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679961.jpg
+    rating: 0.0
+    date: '2026-09-10'
+    code: 679961
+    url: /works/679961/
 ---

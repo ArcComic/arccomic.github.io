@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sweating"
-work_count: 104
+work_count: 109
 works:
   - title: Kaisha de Iroiro | Gettin' Busy at the Office
     author: hara-shigeyuki
@@ -17,6 +17,13 @@ works:
     date: '2026-05-04'
     code: 112455
     url: /works/112455/
+  - title: Natsu Jiru Ch. 1-2
+    author: sena-youtarou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/119757.jpg
+    rating: 0.0
+    date: '2026-09-10'
+    code: 119757
+    url: /works/119757/
   - title: Natsu dake Koibito - Summer only Lover [English] =Forbidden Fetish + Ser
       Maggot=
     author: yoshiura-kazuya
@@ -178,6 +185,15 @@ works:
     date: '2026-08-29'
     code: 511316
     url: /works/511316/
+  - title: Watashi, Gitei no Are de… Kanji teru!~ Aniki yori Dekakute Iidaro 1-3 | I'm
+      Feeling... My Brother-in-Law's Cock! 〜I'm Bigger Than My Brother's, Aren't I?
+      ch.1-3
+    author: sisei-tokei
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/511803.jpg
+    rating: 0.0
+    date: '2026-09-10'
+    code: 511803
+    url: /works/511803/
   - title: + (SEIKO AYASE VARIOUS) +
     author: st-mya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/555816.jpg
@@ -777,4 +793,27 @@ works:
     date: '2026-09-07'
     code: 679215
     url: /works/679215/
+  - title: Having Intense, Romantic Raw Sex With A 8-foot Tall Woman I Met On A Dating
+      App
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679942.jpg
+    rating: 0.0
+    date: '2026-09-10'
+    code: 679942
+    url: /works/679942/
+  - title: Natsu, Inaka de Oji-san to ~Satogaeri~ | Summer in the Countryside with Ojisan
+      ~Homecoming~
+    author: pody
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679958.jpg
+    rating: 0.0
+    date: '2026-09-10'
+    code: 679958
+    url: /works/679958/
+  - title: Kaneda did nothing wrong Vol.1
+    author: haruharudo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679977.jpg
+    rating: 0.0
+    date: '2026-09-10'
+    code: 679977
+    url: /works/679977/
 ---

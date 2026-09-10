@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "ouma"
-work_count: 5
+work_count: 6
 works:
   - title: IKUu!! Zenkou Seito no Mae de Koukai Zecchou-saserareta JK no Matsuro 1 |
       Cumming in Front of the Entire Student Body 1
@@ -27,6 +27,13 @@ works:
     date: '2026-05-04'
     code: 537760
     url: /works/537760/
+  - title: The Share House’s Secret Rule
+    author: ouma
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/546662.jpg
+    rating: 0.0
+    date: '2026-09-10'
+    code: 546662
+    url: /works/546662/
   - title: '"1 Funkan Dake Rete mo īyo … " Shea Hausu no Himitsu Rūru | The Share House''s
       Secret Rule Vol. 1-3'
     author: ouma

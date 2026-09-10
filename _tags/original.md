@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "original"
-work_count: 636
+work_count: 646
 works:
   - title: Natsu dake Koibito - Summer only Lover [English] =Forbidden Fetish + Ser
       Maggot=
@@ -645,6 +645,13 @@ works:
     date: '2026-07-11'
     code: 501709
     url: /works/501709/
+  - title: Tanin ni Naru Kusuri 6 | Medicine to Become Another Person 6
+    author: date
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/502197.jpg
+    rating: 0.0
+    date: '2026-09-10'
+    code: 502197
+    url: /works/502197/
   - title: 1 Once iku goto ni penalty 1 manen oshioki papakatsu jyoshi
     author: crimson
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/503556.jpg
@@ -1040,6 +1047,13 @@ works:
     date: '2026-07-17'
     code: 545823
     url: /works/545823/
+  - title: The Share House’s Secret Rule
+    author: ouma
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/546662.jpg
+    rating: 0.0
+    date: '2026-09-10'
+    code: 546662
+    url: /works/546662/
   - title: Atashi ga Nuite Ageyo kka?
     author: malcorond
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/547250.jpg
@@ -2654,6 +2668,15 @@ works:
     date: '2026-04-25'
     code: 645743
     url: /works/645743/
+  - title: Maki wa Yasashii Otto no Tame ni Mayu wa Dekachin Otto no Tame ni Toukousha
+      Gonda Goukichi | Maki married to a gentle husband is corrupted by her neighbor
+      Gonda Gokichi
+    author: nantomo-san
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/645814.jpg
+    rating: 0.0
+    date: '2026-09-10'
+    code: 645814
+    url: /works/645814/
   - title: Otonari no Downer Oyako ni Shiboritorareru Hanashi
     author: gamogamo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/645896.jpg
@@ -3947,6 +3970,13 @@ works:
     date: '2026-08-31'
     code: 669505
     url: /works/669505/
+  - title: Uchi, Chinko Tsuiterunsu kedo Iissu ka? | I have a dick, is that okay?
+    author: yuuki-konefu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/669748.jpg
+    rating: 0.0
+    date: '2026-09-10'
+    code: 669748
+    url: /works/669748/
   - title: Friend With Benefit With My Friends Mom
     author: cammy
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/671657.jpg
@@ -4712,4 +4742,49 @@ works:
     date: '2026-09-09'
     code: 679890
     url: /works/679890/
+  - title: Having Intense, Romantic Raw Sex With A 8-foot Tall Woman I Met On A Dating
+      App
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679942.jpg
+    rating: 0.0
+    date: '2026-09-10'
+    code: 679942
+    url: /works/679942/
+  - title: Natsu, Inaka de Oji-san to ~Satogaeri~ | Summer in the Countryside with Ojisan
+      ~Homecoming~
+    author: pody
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679958.jpg
+    rating: 0.0
+    date: '2026-09-10'
+    code: 679958
+    url: /works/679958/
+  - title: Downer-kei Arafour Newhalf to Shinkon-san-gokko | Playing Newlyweds With
+      A Gloomy Around-Forty Newhalf
+    author: yuuki-konefu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679961.jpg
+    rating: 0.0
+    date: '2026-09-10'
+    code: 679961
+    url: /works/679961/
+  - title: Kaneda did nothing wrong Vol.1
+    author: haruharudo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679977.jpg
+    rating: 0.0
+    date: '2026-09-10'
+    code: 679977
+    url: /works/679977/
+  - title: Gal-kei Joshi ni Kakikaerareta Ore | Rewritten as a Gyaru Girl
+    author: nomu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679992.jpg
+    rating: 0.0
+    date: '2026-09-10'
+    code: 679992
+    url: /works/679992/
+  - title: Succubus Club e Youkoso Soushuuhen | Welcome To The Succubus Sorority After
+    author: nomu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680088.jpg
+    rating: 0.0
+    date: '2026-09-10'
+    code: 680088
+    url: /works/680088/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bride"
-work_count: 7
+work_count: 8
 works:
   - title: Cool na Niizuma to no Shinkon Seikatsu wa Amari ni mo... Yarashikatta  |
       Our Kinky Newlywed Life Vol. 1-3
@@ -47,6 +47,14 @@ works:
     date: '2026-05-21'
     code: 651499
     url: /works/651499/
+  - title: Downer-kei Arafour Newhalf to Shinkon-san-gokko | Playing Newlyweds With
+      A Gloomy Around-Forty Newhalf
+    author: yuuki-konefu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679961.jpg
+    rating: 0.0
+    date: '2026-09-10'
+    code: 679961
+    url: /works/679961/
   - title: Inin Keiyaku | Lewd Pregnancy Contract
     author: yoshiura-kazuya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/83595.jpg

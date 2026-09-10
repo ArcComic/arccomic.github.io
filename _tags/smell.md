@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "smell"
-work_count: 13
+work_count: 14
 works:
+  - title: Natsu Jiru Ch. 1-2
+    author: sena-youtarou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/119757.jpg
+    rating: 0.0
+    date: '2026-09-10'
+    code: 119757
+    url: /works/119757/
   - title: Maid no Oshigoto. II | Maid's Work II
     author: alexi-laiho
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/296282.jpg

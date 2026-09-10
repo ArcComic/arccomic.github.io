@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "nakadashi"
-work_count: 464
+work_count: 468
 works:
   - title: Adoration
     author: kishizuka-kenji
@@ -1027,6 +1027,15 @@ works:
     date: '2026-04-19'
     code: 569195
     url: /works/569195/
+  - title: Hitozuma Volley-bu no Asedaku SEX ~Shower Abinagara Mitchaku Shichau? 5-6
+      | Married Women's Volleyball Club Sweaty Sex - We're Being Glued Together While
+      Taking A Shower? 5-6
+    author: kazutaro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/574158.jpg
+    rating: 0.0
+    date: '2026-09-10'
+    code: 574158
+    url: /works/574158/
   - title: Kimottama Kaa-chan to Kenka Bakari no Neet no Ore ga Kaa-san ni Nakadashi
       shite kara Nakayoku natta Hanashi - A story about How I, A NEET Who Always Fought
       with My Gutsy Mother,
@@ -3434,6 +3443,29 @@ works:
     date: '2026-09-09'
     code: 679865
     url: /works/679865/
+  - title: Having Intense, Romantic Raw Sex With A 8-foot Tall Woman I Met On A Dating
+      App
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679942.jpg
+    rating: 0.0
+    date: '2026-09-10'
+    code: 679942
+    url: /works/679942/
+  - title: Natsu, Inaka de Oji-san to ~Satogaeri~ | Summer in the Countryside with Ojisan
+      ~Homecoming~
+    author: pody
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679958.jpg
+    rating: 0.0
+    date: '2026-09-10'
+    code: 679958
+    url: /works/679958/
+  - title: Kaneda did nothing wrong Vol.1
+    author: haruharudo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679977.jpg
+    rating: 0.0
+    date: '2026-09-10'
+    code: 679977
+    url: /works/679977/
   - title: Inin Keiyaku | Lewd Pregnancy Contract
     author: yoshiura-kazuya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/83595.jpg

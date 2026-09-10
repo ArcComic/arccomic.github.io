@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "cheating"
-work_count: 217
+work_count: 220
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -550,6 +550,14 @@ works:
     date: '2026-09-09'
     code: 528470
     url: /works/528470/
+  - title: Netori Esthe de, Konya, Tsuma ga.... | I Can't Resist His Massage! Cheating
+      in Front of My Husband's Eyes Vol. 1-4
+    author: fight-fight-chiharu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/529791.jpg
+    rating: 0.0
+    date: '2026-09-10'
+    code: 529791
+    url: /works/529791/
   - title: Rossia kei Hitozuma to Doutei kun no Himitsu no Kankei
     author: kibi-anmitsu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/530293.jpg
@@ -888,6 +896,13 @@ works:
     date: '2026-04-27'
     code: 616533
     url: /works/616533/
+  - title: The NTR Massage Vol. 1-2
+    author: kazutaro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/618088.jpg
+    rating: 0.0
+    date: '2026-09-10'
+    code: 618088
+    url: /works/618088/
   - title: 'Taihai Tsuma: Taihaikei Hitotsuma o Yachin Kawari ni Koki Tsukaeru Hanashi
       | Slutty Wife!'
     author: kametaro
@@ -1071,6 +1086,15 @@ works:
     date: '2026-04-23'
     code: 645646
     url: /works/645646/
+  - title: Maki wa Yasashii Otto no Tame ni Mayu wa Dekachin Otto no Tame ni Toukousha
+      Gonda Goukichi | Maki married to a gentle husband is corrupted by her neighbor
+      Gonda Gokichi
+    author: nantomo-san
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/645814.jpg
+    rating: 0.0
+    date: '2026-09-10'
+    code: 645814
+    url: /works/645814/
   - title: Tsuma no Tame ni Tameta Kozukuri Seishi o Gimai no JK Manko ni Nagashikondeshimatta
       Boku.
     author: junsei-chuurenpoutou

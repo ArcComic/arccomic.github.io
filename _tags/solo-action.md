@@ -1,8 +1,16 @@
 ---
 layout: tag
 tag_name: "solo action"
-work_count: 4
+work_count: 5
 works:
+  - title: Yasashii Bakunyuu Kaa-san to Irekawacchatta Hankouki na Ore no Hanashi ~Episode
+      1~
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/420425.jpg
+    rating: 0.0
+    date: '2026-09-10'
+    code: 420425
+    url: /works/420425/
   - title: Kugisaki Anal Otoshi
     author: ishigaki-takashi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/579976.jpg

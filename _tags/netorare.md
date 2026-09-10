@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "netorare"
-work_count: 241
+work_count: 247
 works:
   - title: Hitozuma Hyakka
     author: hase-tsubura
@@ -401,6 +401,15 @@ works:
     date: '2026-08-18'
     code: 511662
     url: /works/511662/
+  - title: Watashi, Gitei no Are de… Kanji teru!~ Aniki yori Dekakute Iidaro 1-3 | I'm
+      Feeling... My Brother-in-Law's Cock! 〜I'm Bigger Than My Brother's, Aren't I?
+      ch.1-3
+    author: sisei-tokei
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/511803.jpg
+    rating: 0.0
+    date: '2026-09-10'
+    code: 511803
+    url: /works/511803/
   - title: Omae no Kaa-chan Kirei da na - Dakasero yo | Let Me Have Sex with Your Beautiful
       Mom
     author: kemusi-no-bansan-kai
@@ -468,6 +477,14 @@ works:
     date: '2026-05-01'
     code: 529365
     url: /works/529365/
+  - title: Netori Esthe de, Konya, Tsuma ga.... | I Can't Resist His Massage! Cheating
+      in Front of My Husband's Eyes Vol. 1-4
+    author: fight-fight-chiharu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/529791.jpg
+    rating: 0.0
+    date: '2026-09-10'
+    code: 529791
+    url: /works/529791/
   - title: DAME Ch 1-3
     author: zaki-zaraki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/530728.jpg
@@ -822,6 +839,13 @@ works:
     date: '2026-04-27'
     code: 616533
     url: /works/616533/
+  - title: The NTR Massage Vol. 1-2
+    author: kazutaro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/618088.jpg
+    rating: 0.0
+    date: '2026-09-10'
+    code: 618088
+    url: /works/618088/
   - title: Majime na Iinchou no Kanojo ga Sex ni Hamatta Riyuu
     author: furaimai
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/618562.jpg
@@ -1111,6 +1135,15 @@ works:
     date: '2026-04-23'
     code: 645676
     url: /works/645676/
+  - title: Maki wa Yasashii Otto no Tame ni Mayu wa Dekachin Otto no Tame ni Toukousha
+      Gonda Goukichi | Maki married to a gentle husband is corrupted by her neighbor
+      Gonda Gokichi
+    author: nantomo-san
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/645814.jpg
+    rating: 0.0
+    date: '2026-09-10'
+    code: 645814
+    url: /works/645814/
   - title: Tsuma no Tame ni Tameta Kozukuri Seishi o Gimai no JK Manko ni Nagashikondeshimatta
       Boku.
     author: junsei-chuurenpoutou
@@ -1771,6 +1804,21 @@ works:
     date: '2026-09-09'
     code: 679830
     url: /works/679830/
+  - title: Natsu, Inaka de Oji-san to ~Satogaeri~ | Summer in the Countryside with Ojisan
+      ~Homecoming~
+    author: pody
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679958.jpg
+    rating: 0.0
+    date: '2026-09-10'
+    code: 679958
+    url: /works/679958/
+  - title: Kaneda did nothing wrong Vol.1
+    author: haruharudo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679977.jpg
+    rating: 0.0
+    date: '2026-09-10'
+    code: 679977
+    url: /works/679977/
   - title: Inin Keiyaku | Lewd Pregnancy Contract
     author: yoshiura-kazuya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/83595.jpg

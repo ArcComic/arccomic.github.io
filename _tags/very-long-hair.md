@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "very long hair"
-work_count: 36
+work_count: 37
 works:
   - title: Koi no Susumekata | How to Advance Your Love
     author: danimaru
@@ -274,4 +274,12 @@ works:
     date: '2026-09-09'
     code: 679764
     url: /works/679764/
+  - title: Having Intense, Romantic Raw Sex With A 8-foot Tall Woman I Met On A Dating
+      App
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679942.jpg
+    rating: 0.0
+    date: '2026-09-10'
+    code: 679942
+    url: /works/679942/
 ---

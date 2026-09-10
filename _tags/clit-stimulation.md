@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "clit stimulation"
-work_count: 15
+work_count: 16
 works:
   - title: Senpai, Sonna no Shiranai desu ~Bansou shite ita Kare no Yubi wa Ima, Watashi
       no Naka o Midashiteru~ | Senpai, I Don't Know About That - His Fingers That Were
@@ -21,6 +21,15 @@ works:
     date: '2026-05-04'
     code: 510012
     url: /works/510012/
+  - title: Watashi, Gitei no Are de… Kanji teru!~ Aniki yori Dekakute Iidaro 1-3 | I'm
+      Feeling... My Brother-in-Law's Cock! 〜I'm Bigger Than My Brother's, Aren't I?
+      ch.1-3
+    author: sisei-tokei
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/511803.jpg
+    rating: 0.0
+    date: '2026-09-10'
+    code: 511803
+    url: /works/511803/
   - title: '"Sex no Benkyou Shiyokka?" Kareshi ga Iru no ni Itoko kara Shojo wo Ubaware
       Zecchou Shidou 1-5 | Let''s Learn About Sex: Your Cousin Will Take Your Virginity
       and Teach You How to Come 1-5'

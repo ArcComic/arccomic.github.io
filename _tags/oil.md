@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "oil"
-work_count: 5
+work_count: 6
 works:
   - title: Netori Ai SEX - Chara Otoko no Hentai Massage Osananajimi no Nettori Aibu
       1 | N.T.R. Sex Wars - Playboy's Depraved Massage VS. Childhood Friend's Sensual
@@ -12,6 +12,13 @@ works:
     date: '2026-05-04'
     code: 510012
     url: /works/510012/
+  - title: The NTR Massage Vol. 1-2
+    author: kazutaro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/618088.jpg
+    rating: 0.0
+    date: '2026-09-10'
+    code: 618088
+    url: /works/618088/
   - title: Astra-san to Ikinuki | Yao Astra and a Little R&R
     author: mame-denkyuu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/652502.jpg

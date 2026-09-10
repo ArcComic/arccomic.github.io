@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bisexual"
-work_count: 23
+work_count: 24
 works:
   - title: Gal ni Houkago Oppai Sawatte ku? te Sasowareru Hanashi | That Time Gyarus
       Asked Me to Grope their Tits After Class
@@ -19,6 +19,13 @@ works:
     date: '2026-08-20'
     code: 537794
     url: /works/537794/
+  - title: Kannou no Triangle | Sensual Love Triangle
+    author: sena-youtarou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/538176.jpg
+    rating: 0.0
+    date: '2026-09-10'
+    code: 538176
+    url: /works/538176/
   - title: Pakokatsu Oji-san to Kaede-chan (1+2+3) | Kaede and The Sugar Daddy
     author: nizigensan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/543086.jpg

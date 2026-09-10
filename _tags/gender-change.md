@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "gender change"
-work_count: 9
+work_count: 13
 works:
   - title: Shuudan Jotaika Gyaru, Ochiru | Mass-Gender Bended Gyarus, Fall into Depravity
     author: betty
@@ -17,6 +17,14 @@ works:
     date: '2026-05-03'
     code: 415057
     url: /works/415057/
+  - title: Yasashii Bakunyuu Kaa-san to Irekawacchatta Hankouki na Ore no Hanashi ~Episode
+      1~
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/420425.jpg
+    rating: 0.0
+    date: '2026-09-10'
+    code: 420425
+    url: /works/420425/
   - title: Watashi no Karada, Okashi Shimasu. Bunny Girl Edition
     author: nectar
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/441339.jpg
@@ -47,6 +55,13 @@ works:
     date: '2026-08-31'
     code: 494172
     url: /works/494172/
+  - title: Tanin ni Naru Kusuri 6 | Medicine to Become Another Person 6
+    author: date
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/502197.jpg
+    rating: 0.0
+    date: '2026-09-10'
+    code: 502197
+    url: /works/502197/
   - title: 'Jujutsu Kaisen: Mahito Mayhem'
     author: mayitgu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/524761.jpg
@@ -70,4 +85,18 @@ works:
     date: '2026-09-09'
     code: 679890
     url: /works/679890/
+  - title: Gal-kei Joshi ni Kakikaerareta Ore | Rewritten as a Gyaru Girl
+    author: nomu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679992.jpg
+    rating: 0.0
+    date: '2026-09-10'
+    code: 679992
+    url: /works/679992/
+  - title: Succubus Club e Youkoso Soushuuhen | Welcome To The Succubus Sorority After
+    author: nomu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680088.jpg
+    rating: 0.0
+    date: '2026-09-10'
+    code: 680088
+    url: /works/680088/
 ---

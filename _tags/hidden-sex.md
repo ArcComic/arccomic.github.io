@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "hidden sex"
-work_count: 47
+work_count: 49
 works:
   - title: Megane Loli Choukyou Jugyou!! ~Otonashii Megane Lolikko ni Muriyari Dekachin
       Sounyuu~ | The Loli In Glasses' Training Lesson!! ~Force Fucking a Timid Glasses
@@ -194,6 +194,14 @@ works:
     date: '2026-07-13'
     code: 606725
     url: /works/606725/
+  - title: Onnanoko ga Ochita Saki wa, Ore no Musuko no Sakippo deshita | What She Fell
+      On Was the Tip of My Dick Vol. 1-4
+    author: hatokonro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/613838.jpg
+    rating: 0.0
+    date: '2026-09-10'
+    code: 613838
+    url: /works/613838/
   - title: Nigate na Aitsu ni Benkyou o Oshieru Koto ni Natte... | I Ended Up Teaching
       That Guy I Hate...
     author: furaimai
@@ -362,4 +370,11 @@ works:
     date: '2026-09-09'
     code: 679740
     url: /works/679740/
+  - title: Kaneda did nothing wrong Vol.1
+    author: haruharudo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679977.jpg
+    rating: 0.0
+    date: '2026-09-10'
+    code: 679977
+    url: /works/679977/
 ---

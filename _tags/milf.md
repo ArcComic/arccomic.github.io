@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "milf"
-work_count: 285
+work_count: 287
 works:
   - title: Life with Married Women Just Like a Manga 2 - Ch. 1-5
     author: hidemaru
@@ -10,6 +10,13 @@ works:
     date: '2026-07-08'
     code: 116138
     url: /works/116138/
+  - title: Natsu Jiru Ch. 1-2
+    author: sena-youtarou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/119757.jpg
+    rating: 0.0
+    date: '2026-09-10'
+    code: 119757
+    url: /works/119757/
   - title: Office Love Scramble Ch. 1
     author: tohzai
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/131165.jpg
@@ -314,6 +321,14 @@ works:
     date: '2026-05-05'
     code: 419017
     url: /works/419017/
+  - title: Yasashii Bakunyuu Kaa-san to Irekawacchatta Hankouki na Ore no Hanashi ~Episode
+      1~
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/420425.jpg
+    rating: 0.0
+    date: '2026-09-10'
+    code: 420425
+    url: /works/420425/
   - title: Yasashii Oba-san Yarashii Oba-san | Kind Lady, Dirty Lady Ch. 1-3
     author: hidemaru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/421874.jpg

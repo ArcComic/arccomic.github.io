@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "masturbation"
-work_count: 78
+work_count: 80
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -89,6 +89,14 @@ works:
     date: '2026-04-19'
     code: 419235
     url: /works/419235/
+  - title: Yasashii Bakunyuu Kaa-san to Irekawacchatta Hankouki na Ore no Hanashi ~Episode
+      1~
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/420425.jpg
+    rating: 0.0
+    date: '2026-09-10'
+    code: 420425
+    url: /works/420425/
   - title: Boku no Chuugoku Bijin Slender Kyonyuu Tsuma ga Camera Model de Nugasarete
       Yarichin Tomo ni Netorareta Ken
     author: mitoreiyu
@@ -105,6 +113,13 @@ works:
     date: '2026-08-31'
     code: 494172
     url: /works/494172/
+  - title: Tanin ni Naru Kusuri 6 | Medicine to Become Another Person 6
+    author: date
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/502197.jpg
+    rating: 0.0
+    date: '2026-09-10'
+    code: 502197
+    url: /works/502197/
   - title: Little Blue Bird
     author: kidouchi-kon
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/508534.jpg

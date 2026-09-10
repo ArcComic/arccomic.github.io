@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "anal"
-work_count: 87
+work_count: 90
 works:
   - title: Hitozuma Hyakka
     author: hase-tsubura
@@ -344,6 +344,15 @@ works:
     date: '2026-04-23'
     code: 645649
     url: /works/645649/
+  - title: Maki wa Yasashii Otto no Tame ni Mayu wa Dekachin Otto no Tame ni Toukousha
+      Gonda Goukichi | Maki married to a gentle husband is corrupted by her neighbor
+      Gonda Gokichi
+    author: nantomo-san
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/645814.jpg
+    rating: 0.0
+    date: '2026-09-10'
+    code: 645814
+    url: /works/645814/
   - title: Natsu ga Owaru made Natsu no Owari Kanketsuhen
     author: mon-petit
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/646969.jpg
@@ -543,6 +552,13 @@ works:
     date: '2026-08-23'
     code: 668880
     url: /works/668880/
+  - title: Uchi, Chinko Tsuiterunsu kedo Iissu ka? | I have a dick, is that okay?
+    author: yuuki-konefu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/669748.jpg
+    rating: 0.0
+    date: '2026-09-10'
+    code: 669748
+    url: /works/669748/
   - title: Tenshi Hirotta kara Haramaseru ~Ojii-san Senyou Botebara Onaho ni Naru made
       no Kiroku~ | I Met an Angel, and then I Knocked Her Up ~A Record of Becoming Oji-san’s
       Personal Preggo Belly Onahole~
@@ -636,6 +652,14 @@ works:
     date: '2026-09-09'
     code: 679774
     url: /works/679774/
+  - title: Downer-kei Arafour Newhalf to Shinkon-san-gokko | Playing Newlyweds With
+      A Gloomy Around-Forty Newhalf
+    author: yuuki-konefu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679961.jpg
+    rating: 0.0
+    date: '2026-09-10'
+    code: 679961
+    url: /works/679961/
   - title: Jokyoushi - Hot For Teachers | Female Teachers
     author: drill-murata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/81375.jpg

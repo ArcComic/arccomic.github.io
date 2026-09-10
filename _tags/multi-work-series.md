@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "multi-work series"
-work_count: 220
+work_count: 230
 works:
   - title: Oppai na Natsuyasumi 2 | The Summer Break of Boobs 2
     author: higashino-mikan
@@ -205,6 +205,13 @@ works:
     date: '2026-05-03'
     code: 500102
     url: /works/500102/
+  - title: Tanin ni Naru Kusuri 6 | Medicine to Become Another Person 6
+    author: date
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/502197.jpg
+    rating: 0.0
+    date: '2026-09-10'
+    code: 502197
+    url: /works/502197/
   - title: Hiro-kun no Mama Wa Boku no Dorei 2 | Hiro-kun Mama Is My Sex Slave 2
     author: exit-up
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/508818.jpg
@@ -256,6 +263,15 @@ works:
     date: '2026-08-29'
     code: 511316
     url: /works/511316/
+  - title: Watashi, Gitei no Are de… Kanji teru!~ Aniki yori Dekakute Iidaro 1-3 | I'm
+      Feeling... My Brother-in-Law's Cock! 〜I'm Bigger Than My Brother's, Aren't I?
+      ch.1-3
+    author: sisei-tokei
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/511803.jpg
+    rating: 0.0
+    date: '2026-09-10'
+    code: 511803
+    url: /works/511803/
   - title: IKUu!! Zenkou Seito no Mae de Koukai Zecchou-saserareta JK no Matsuro 1 |
       Cumming in Front of the Entire Student Body 1
     author: ouma
@@ -302,6 +318,14 @@ works:
     date: '2026-05-01'
     code: 529365
     url: /works/529365/
+  - title: Netori Esthe de, Konya, Tsuma ga.... | I Can't Resist His Massage! Cheating
+      in Front of My Husband's Eyes Vol. 1-4
+    author: fight-fight-chiharu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/529791.jpg
+    rating: 0.0
+    date: '2026-09-10'
+    code: 529791
+    url: /works/529791/
   - title: Mother's Scent 1-4
     author: midnight
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/532417.jpg
@@ -418,6 +442,13 @@ works:
     date: '2026-04-13'
     code: 544993
     url: /works/544993/
+  - title: The Share House’s Secret Rule
+    author: ouma
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/546662.jpg
+    rating: 0.0
+    date: '2026-09-10'
+    code: 546662
+    url: /works/546662/
   - title: Imouto wa Mesu Orc 7
     author: muneshiro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/547393.jpg
@@ -491,6 +522,15 @@ works:
     date: '2026-04-23'
     code: 569731
     url: /works/569731/
+  - title: Hitozuma Volley-bu no Asedaku SEX ~Shower Abinagara Mitchaku Shichau? 5-6
+      | Married Women's Volleyball Club Sweaty Sex - We're Being Glued Together While
+      Taking A Shower? 5-6
+    author: kazutaro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/574158.jpg
+    rating: 0.0
+    date: '2026-09-10'
+    code: 574158
+    url: /works/574158/
   - title: Re. Bishoujo Seitokaichou o Seibyou Mochi no Owakon Onna ni Otosu Hanashi
     author: kyouan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/576288.jpg
@@ -677,6 +717,14 @@ works:
     date: '2026-03-03'
     code: 611701
     url: /works/611701/
+  - title: Onnanoko ga Ochita Saki wa, Ore no Musuko no Sakippo deshita | What She Fell
+      On Was the Tip of My Dick Vol. 1-4
+    author: hatokonro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/613838.jpg
+    rating: 0.0
+    date: '2026-09-10'
+    code: 613838
+    url: /works/613838/
   - title: Eroi Koto Igai de Toki o Tomete wa Dame desu yo 2
     author: ohkura-kazuya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/615835.jpg
@@ -706,6 +754,13 @@ works:
     date: '2026-08-29'
     code: 618087
     url: /works/618087/
+  - title: The NTR Massage Vol. 1-2
+    author: kazutaro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/618088.jpg
+    rating: 0.0
+    date: '2026-09-10'
+    code: 618088
+    url: /works/618088/
   - title: Ima Kara Irerukedo, "Sakippo Dake" Dakara Sex Janai Yo.  | Just The Tip Inside
       is Not Sex Vol. 1-4
     author: ouma
@@ -1648,4 +1703,26 @@ works:
     date: '2026-09-09'
     code: 679740
     url: /works/679740/
+  - title: Downer-kei Arafour Newhalf to Shinkon-san-gokko | Playing Newlyweds With
+      A Gloomy Around-Forty Newhalf
+    author: yuuki-konefu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679961.jpg
+    rating: 0.0
+    date: '2026-09-10'
+    code: 679961
+    url: /works/679961/
+  - title: Kaneda did nothing wrong Vol.1
+    author: haruharudo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679977.jpg
+    rating: 0.0
+    date: '2026-09-10'
+    code: 679977
+    url: /works/679977/
+  - title: Succubus Club e Youkoso Soushuuhen | Welcome To The Succubus Sorority After
+    author: nomu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680088.jpg
+    rating: 0.0
+    date: '2026-09-10'
+    code: 680088
+    url: /works/680088/
 ---

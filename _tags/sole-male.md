@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole male"
-work_count: 519
+work_count: 527
 works:
   - title: Adoration
     author: kishizuka-kenji
@@ -396,6 +396,14 @@ works:
     date: '2026-04-19'
     code: 419235
     url: /works/419235/
+  - title: Yasashii Bakunyuu Kaa-san to Irekawacchatta Hankouki na Ore no Hanashi ~Episode
+      1~
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/420425.jpg
+    rating: 0.0
+    date: '2026-09-10'
+    code: 420425
+    url: /works/420425/
   - title: Yasashii Oba-san Yarashii Oba-san | Kind Lady, Dirty Lady Ch. 1-3
     author: hidemaru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/421874.jpg
@@ -873,6 +881,13 @@ works:
     date: '2026-08-20'
     code: 537794
     url: /works/537794/
+  - title: Kannou no Triangle | Sensual Love Triangle
+    author: sena-youtarou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/538176.jpg
+    rating: 0.0
+    date: '2026-09-10'
+    code: 538176
+    url: /works/538176/
   - title: Ane no Tomodachi to SeFri ni Natta | My Big Sister's Friends And I Became
       Sex Friends
     author: rinrikoko
@@ -1538,6 +1553,14 @@ works:
     date: '2026-04-15'
     code: 612887
     url: /works/612887/
+  - title: Onnanoko ga Ochita Saki wa, Ore no Musuko no Sakippo deshita | What She Fell
+      On Was the Tip of My Dick Vol. 1-4
+    author: hatokonro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/613838.jpg
+    rating: 0.0
+    date: '2026-09-10'
+    code: 613838
+    url: /works/613838/
   - title: Onna Tomodachi Futari to Perochuu suru Hanashi | A Story About Kissing 2
       Female Friends
     author: mmchair
@@ -2296,6 +2319,15 @@ works:
     date: '2026-04-25'
     code: 645743
     url: /works/645743/
+  - title: Maki wa Yasashii Otto no Tame ni Mayu wa Dekachin Otto no Tame ni Toukousha
+      Gonda Goukichi | Maki married to a gentle husband is corrupted by her neighbor
+      Gonda Gokichi
+    author: nantomo-san
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/645814.jpg
+    rating: 0.0
+    date: '2026-09-10'
+    code: 645814
+    url: /works/645814/
   - title: Akumu Revenge 2 | Nightmare Revenge 2
     author: coupe
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/645884.jpg
@@ -3314,6 +3346,13 @@ works:
     date: '2026-08-31'
     code: 669505
     url: /works/669505/
+  - title: Uchi, Chinko Tsuiterunsu kedo Iissu ka? | I have a dick, is that okay?
+    author: yuuki-konefu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/669748.jpg
+    rating: 0.0
+    date: '2026-09-10'
+    code: 669748
+    url: /works/669748/
   - title: ENG AI Translated [Hanpatsu Zokusei] Mayu-chan EP 1 - 4
     author: hanpatsu-zokusei-mejikara-scene
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673485.jpg
@@ -3840,4 +3879,28 @@ works:
     date: '2026-09-09'
     code: 679865
     url: /works/679865/
+  - title: Having Intense, Romantic Raw Sex With A 8-foot Tall Woman I Met On A Dating
+      App
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679942.jpg
+    rating: 0.0
+    date: '2026-09-10'
+    code: 679942
+    url: /works/679942/
+  - title: Natsu, Inaka de Oji-san to ~Satogaeri~ | Summer in the Countryside with Ojisan
+      ~Homecoming~
+    author: pody
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679958.jpg
+    rating: 0.0
+    date: '2026-09-10'
+    code: 679958
+    url: /works/679958/
+  - title: Downer-kei Arafour Newhalf to Shinkon-san-gokko | Playing Newlyweds With
+      A Gloomy Around-Forty Newhalf
+    author: yuuki-konefu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679961.jpg
+    rating: 0.0
+    date: '2026-09-10'
+    code: 679961
+    url: /works/679961/
 ---

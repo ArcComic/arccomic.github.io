@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "rape"
-work_count: 148
+work_count: 149
 works:
   - title: Office Love Scramble Ch. 1
     author: tohzai
@@ -256,6 +256,15 @@ works:
     date: '2026-09-09'
     code: 507591
     url: /works/507591/
+  - title: Watashi, Gitei no Are de… Kanji teru!~ Aniki yori Dekakute Iidaro 1-3 | I'm
+      Feeling... My Brother-in-Law's Cock! 〜I'm Bigger Than My Brother's, Aren't I?
+      ch.1-3
+    author: sisei-tokei
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/511803.jpg
+    rating: 0.0
+    date: '2026-09-10'
+    code: 511803
+    url: /works/511803/
   - title: Chijoku Zuma ~Konna ni Nurasaretara Mou Gaman Dekinai... 1 | Disgraceful
       Wife - I Can't Stand It Anymore When I Get This Wet... 1
     author: pink-taro

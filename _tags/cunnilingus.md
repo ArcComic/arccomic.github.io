@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "cunnilingus"
-work_count: 99
+work_count: 102
 works:
   - title: Love Approach
     author: hanafuda-sakurano
@@ -185,6 +185,15 @@ works:
     date: '2026-04-23'
     code: 509071
     url: /works/509071/
+  - title: Watashi, Gitei no Are de… Kanji teru!~ Aniki yori Dekakute Iidaro 1-3 | I'm
+      Feeling... My Brother-in-Law's Cock! 〜I'm Bigger Than My Brother's, Aren't I?
+      ch.1-3
+    author: sisei-tokei
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/511803.jpg
+    rating: 0.0
+    date: '2026-09-10'
+    code: 511803
+    url: /works/511803/
   - title: Watashi wa Kakerareteru kara... | I've been hypnotized, so...
     author: kiraku
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/516164.jpg
@@ -446,6 +455,15 @@ works:
     date: '2026-04-25'
     code: 645677
     url: /works/645677/
+  - title: Maki wa Yasashii Otto no Tame ni Mayu wa Dekachin Otto no Tame ni Toukousha
+      Gonda Goukichi | Maki married to a gentle husband is corrupted by her neighbor
+      Gonda Gokichi
+    author: nantomo-san
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/645814.jpg
+    rating: 0.0
+    date: '2026-09-10'
+    code: 645814
+    url: /works/645814/
   - title: Sex Between Gloomy Types is the Hottest, Ain't It?
     author: doji-ro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/646757.jpg
@@ -732,4 +750,12 @@ works:
     date: '2026-09-05'
     code: 678713
     url: /works/678713/
+  - title: Natsu, Inaka de Oji-san to ~Satogaeri~ | Summer in the Countryside with Ojisan
+      ~Homecoming~
+    author: pody
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679958.jpg
+    rating: 0.0
+    date: '2026-09-10'
+    code: 679958
+    url: /works/679958/
 ---

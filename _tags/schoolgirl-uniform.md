@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "schoolgirl uniform"
-work_count: 189
+work_count: 190
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -1406,4 +1406,11 @@ works:
     date: '2026-09-09'
     code: 679861
     url: /works/679861/
+  - title: Kaneda did nothing wrong Vol.1
+    author: haruharudo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679977.jpg
+    rating: 0.0
+    date: '2026-09-10'
+    code: 679977
+    url: /works/679977/
 ---

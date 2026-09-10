@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bald"
-work_count: 45
+work_count: 47
 works:
   - title: Overwrite
     author: ojo
@@ -244,6 +244,15 @@ works:
     date: '2026-04-25'
     code: 645743
     url: /works/645743/
+  - title: Maki wa Yasashii Otto no Tame ni Mayu wa Dekachin Otto no Tame ni Toukousha
+      Gonda Goukichi | Maki married to a gentle husband is corrupted by her neighbor
+      Gonda Gokichi
+    author: nantomo-san
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/645814.jpg
+    rating: 0.0
+    date: '2026-09-10'
+    code: 645814
+    url: /works/645814/
   - title: Inaka ja Kore ga Joushiki dakara! | This Is Just How Things Are in the Countryside!
     author: chilt
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/646146.jpg
@@ -334,4 +343,12 @@ works:
     date: '2026-09-09'
     code: 679745
     url: /works/679745/
+  - title: Natsu, Inaka de Oji-san to ~Satogaeri~ | Summer in the Countryside with Ojisan
+      ~Homecoming~
+    author: pody
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679958.jpg
+    rating: 0.0
+    date: '2026-09-10'
+    code: 679958
+    url: /works/679958/
 ---

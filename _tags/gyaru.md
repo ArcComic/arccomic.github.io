@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "gyaru"
-work_count: 71
+work_count: 72
 works:
   - title: GalPa!
     author: sakagami-umi
@@ -531,4 +531,11 @@ works:
     date: '2026-09-08'
     code: 679368
     url: /works/679368/
+  - title: Gal-kei Joshi ni Kakikaerareta Ore | Rewritten as a Gyaru Girl
+    author: nomu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679992.jpg
+    rating: 0.0
+    date: '2026-09-10'
+    code: 679992
+    url: /works/679992/
 ---

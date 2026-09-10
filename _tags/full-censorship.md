@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "full censorship"
-work_count: 63
+work_count: 68
 works:
   - title: Kaisha de Iroiro | Gettin' Busy at the Office
     author: hara-shigeyuki
@@ -17,6 +17,13 @@ works:
     date: '2026-07-08'
     code: 116138
     url: /works/116138/
+  - title: Natsu Jiru Ch. 1-2
+    author: sena-youtarou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/119757.jpg
+    rating: 0.0
+    date: '2026-09-10'
+    code: 119757
+    url: /works/119757/
   - title: Office Love Scramble Ch. 1
     author: tohzai
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/131165.jpg
@@ -196,6 +203,15 @@ works:
     date: '2026-08-29'
     code: 511316
     url: /works/511316/
+  - title: Watashi, Gitei no Are de… Kanji teru!~ Aniki yori Dekakute Iidaro 1-3 | I'm
+      Feeling... My Brother-in-Law's Cock! 〜I'm Bigger Than My Brother's, Aren't I?
+      ch.1-3
+    author: sisei-tokei
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/511803.jpg
+    rating: 0.0
+    date: '2026-09-10'
+    code: 511803
+    url: /works/511803/
   - title: Bitch Mama no Kekkon Riyuu
     author: aoyama-akira
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/512473.jpg
@@ -265,6 +281,13 @@ works:
     date: '2026-09-04'
     code: 544274
     url: /works/544274/
+  - title: The Share House’s Secret Rule
+    author: ouma
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/546662.jpg
+    rating: 0.0
+    date: '2026-09-10'
+    code: 546662
+    url: /works/546662/
   - title: Kanrakugai ~Neon Kagayaku Uragawa de~ 3
     author: oobayashi-mori
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/549597.jpg
@@ -286,6 +309,15 @@ works:
     date: '2026-03-04'
     code: 568923
     url: /works/568923/
+  - title: Hitozuma Volley-bu no Asedaku SEX ~Shower Abinagara Mitchaku Shichau? 5-6
+      | Married Women's Volleyball Club Sweaty Sex - We're Being Glued Together While
+      Taking A Shower? 5-6
+    author: kazutaro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/574158.jpg
+    rating: 0.0
+    date: '2026-09-10'
+    code: 574158
+    url: /works/574158/
   - title: Keep Your Eyes
     author: ouji-hiyoko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/578020.jpg
@@ -458,6 +490,13 @@ works:
     date: '2026-09-09'
     code: 679745
     url: /works/679745/
+  - title: Gal-kei Joshi ni Kakikaerareta Ore | Rewritten as a Gyaru Girl
+    author: nomu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679992.jpg
+    rating: 0.0
+    date: '2026-09-10'
+    code: 679992
+    url: /works/679992/
   - title: Hottokenaino
     author: hara-shigeyuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/77864.jpg

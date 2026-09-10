@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "fingering"
-work_count: 102
+work_count: 107
 works:
   - title: Gekkoutou no Yume - Nyotaika Douwa ~Danshi Kinsei no Tou~
     author: mugen-no-sudadokei
@@ -109,6 +109,15 @@ works:
     date: '2026-08-20'
     code: 510022
     url: /works/510022/
+  - title: Watashi, Gitei no Are de… Kanji teru!~ Aniki yori Dekakute Iidaro 1-3 | I'm
+      Feeling... My Brother-in-Law's Cock! 〜I'm Bigger Than My Brother's, Aren't I?
+      ch.1-3
+    author: sisei-tokei
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/511803.jpg
+    rating: 0.0
+    date: '2026-09-10'
+    code: 511803
+    url: /works/511803/
   - title: IKUu!! Zenkou Seito no Mae de Koukai Zecchou-saserareta JK no Matsuro 1 |
       Cumming in Front of the Entire Student Body 1
     author: ouma
@@ -321,6 +330,14 @@ works:
     date: '2026-04-17'
     code: 612957
     url: /works/612957/
+  - title: Onnanoko ga Ochita Saki wa, Ore no Musuko no Sakippo deshita | What She Fell
+      On Was the Tip of My Dick Vol. 1-4
+    author: hatokonro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/613838.jpg
+    rating: 0.0
+    date: '2026-09-10'
+    code: 613838
+    url: /works/613838/
   - title: Futari de Watashi o Ikasenaide...! ~Kurayami, Majiwaru Kyoudai Futon~  |
       My 2 Step-Brothers are Ganging Up on Me!  Vol.1
     author: ma-yu
@@ -329,6 +346,13 @@ works:
     date: '2026-08-29'
     code: 618087
     url: /works/618087/
+  - title: The NTR Massage Vol. 1-2
+    author: kazutaro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/618088.jpg
+    rating: 0.0
+    date: '2026-09-10'
+    code: 618088
+    url: /works/618088/
   - title: Majime na Iinchou no Kanojo ga Sex ni Hamatta Riyuu
     author: furaimai
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/618562.jpg
@@ -764,4 +788,18 @@ works:
     date: '2026-09-09'
     code: 679604
     url: /works/679604/
+  - title: Kaneda did nothing wrong Vol.1
+    author: haruharudo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679977.jpg
+    rating: 0.0
+    date: '2026-09-10'
+    code: 679977
+    url: /works/679977/
+  - title: Succubus Club e Youkoso Soushuuhen | Welcome To The Succubus Sorority After
+    author: nomu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680088.jpg
+    rating: 0.0
+    date: '2026-09-10'
+    code: 680088
+    url: /works/680088/
 ---

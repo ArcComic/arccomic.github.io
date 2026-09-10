@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "incest"
-work_count: 183
+work_count: 185
 works:
   - title: Kindan no Hatemitsu
     author: ryuuta
@@ -113,6 +113,14 @@ works:
     date: '2026-09-08'
     code: 415046
     url: /works/415046/
+  - title: Yasashii Bakunyuu Kaa-san to Irekawacchatta Hankouki na Ore no Hanashi ~Episode
+      1~
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/420425.jpg
+    rating: 0.0
+    date: '2026-09-10'
+    code: 420425
+    url: /works/420425/
   - title: Hikage | Shade
     author: syuuen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/429669.jpg
@@ -232,6 +240,15 @@ works:
     date: '2026-08-19'
     code: 511503
     url: /works/511503/
+  - title: Watashi, Gitei no Are de… Kanji teru!~ Aniki yori Dekakute Iidaro 1-3 | I'm
+      Feeling... My Brother-in-Law's Cock! 〜I'm Bigger Than My Brother's, Aren't I?
+      ch.1-3
+    author: sisei-tokei
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/511803.jpg
+    rating: 0.0
+    date: '2026-09-10'
+    code: 511803
+    url: /works/511803/
   - title: Bitch Mama no Kekkon Riyuu
     author: aoyama-akira
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/512473.jpg

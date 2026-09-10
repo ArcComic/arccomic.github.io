@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "group"
-work_count: 131
+work_count: 136
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -150,6 +150,15 @@ works:
     date: '2026-05-01'
     code: 508534
     url: /works/508534/
+  - title: Watashi, Gitei no Are de… Kanji teru!~ Aniki yori Dekakute Iidaro 1-3 | I'm
+      Feeling... My Brother-in-Law's Cock! 〜I'm Bigger Than My Brother's, Aren't I?
+      ch.1-3
+    author: sisei-tokei
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/511803.jpg
+    rating: 0.0
+    date: '2026-09-10'
+    code: 511803
+    url: /works/511803/
   - title: Bitch Mama no Kekkon Riyuu
     author: aoyama-akira
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/512473.jpg
@@ -195,6 +204,13 @@ works:
     date: '2026-08-20'
     code: 537794
     url: /works/537794/
+  - title: Kannou no Triangle | Sensual Love Triangle
+    author: sena-youtarou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/538176.jpg
+    rating: 0.0
+    date: '2026-09-10'
+    code: 538176
+    url: /works/538176/
   - title: Pakokatsu Oji-san to Kaede-chan (1+2+3) | Kaede and The Sugar Daddy
     author: nizigensan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/543086.jpg
@@ -211,6 +227,13 @@ works:
     date: '2026-07-06'
     code: 543494
     url: /works/543494/
+  - title: The Share House’s Secret Rule
+    author: ouma
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/546662.jpg
+    rating: 0.0
+    date: '2026-09-10'
+    code: 546662
+    url: /works/546662/
   - title: Nakayoku no Yu e Youkoso Ch. 2 & 3
     author: enomoto-heights
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/555849.jpg
@@ -226,6 +249,15 @@ works:
     date: '2026-04-25'
     code: 562615
     url: /works/562615/
+  - title: Hitozuma Volley-bu no Asedaku SEX ~Shower Abinagara Mitchaku Shichau? 5-6
+      | Married Women's Volleyball Club Sweaty Sex - We're Being Glued Together While
+      Taking A Shower? 5-6
+    author: kazutaro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/574158.jpg
+    rating: 0.0
+    date: '2026-09-10'
+    code: 574158
+    url: /works/574158/
   - title: '"Yasashii Dake no Otoko" to Tsuma ni Sute Raretanode... | My Wife Left Me
       Because I was "Too Gentle"...'
     author: special-g
@@ -963,4 +995,11 @@ works:
     date: '2026-09-08'
     code: 679488
     url: /works/679488/
+  - title: Gal-kei Joshi ni Kakikaerareta Ore | Rewritten as a Gyaru Girl
+    author: nomu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679992.jpg
+    rating: 0.0
+    date: '2026-09-10'
+    code: 679992
+    url: /works/679992/
 ---

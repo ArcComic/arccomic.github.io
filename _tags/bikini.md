@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bikini"
-work_count: 47
+work_count: 49
 works:
   - title: Kizashi
     author: yoshiura-kazuya
@@ -70,6 +70,14 @@ works:
     date: '2026-03-04'
     code: 508649
     url: /works/508649/
+  - title: Netori Esthe de, Konya, Tsuma ga.... | I Can't Resist His Massage! Cheating
+      in Front of My Husband's Eyes Vol. 1-4
+    author: fight-fight-chiharu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/529791.jpg
+    rating: 0.0
+    date: '2026-09-10'
+    code: 529791
+    url: /works/529791/
   - title: + (SEIKO AYASE VARIOUS) +
     author: st-mya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/555816.jpg
@@ -359,4 +367,11 @@ works:
     date: '2026-09-08'
     code: 679358
     url: /works/679358/
+  - title: Succubus Club e Youkoso Soushuuhen | Welcome To The Succubus Sorority After
+    author: nomu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680088.jpg
+    rating: 0.0
+    date: '2026-09-10'
+    code: 680088
+    url: /works/680088/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "yuri"
-work_count: 33
+work_count: 35
 works:
   - title: Gekkoutou no Yume - Nyotaika Douwa ~Danshi Kinsei no Tou~
     author: mugen-no-sudadokei
@@ -25,6 +25,13 @@ works:
     date: '2026-08-31'
     code: 494172
     url: /works/494172/
+  - title: Tanin ni Naru Kusuri 6 | Medicine to Become Another Person 6
+    author: date
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/502197.jpg
+    rating: 0.0
+    date: '2026-09-10'
+    code: 502197
+    url: /works/502197/
   - title: Walking back home in the winter with my childhood friend
     author: shimetsuki-tanki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/565301.jpg
@@ -243,4 +250,11 @@ works:
     date: '2026-09-09'
     code: 679890
     url: /works/679890/
+  - title: Succubus Club e Youkoso Soushuuhen | Welcome To The Succubus Sorority After
+    author: nomu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680088.jpg
+    rating: 0.0
+    date: '2026-09-10'
+    code: 680088
+    url: /works/680088/
 ---

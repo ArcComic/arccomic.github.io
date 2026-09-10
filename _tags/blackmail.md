@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "blackmail"
-work_count: 92
+work_count: 93
 works:
   - title: Another Produce -Kaede Takagaki-
     author: marushin
@@ -407,6 +407,15 @@ works:
     date: '2026-04-23'
     code: 645676
     url: /works/645676/
+  - title: Maki wa Yasashii Otto no Tame ni Mayu wa Dekachin Otto no Tame ni Toukousha
+      Gonda Goukichi | Maki married to a gentle husband is corrupted by her neighbor
+      Gonda Gokichi
+    author: nantomo-san
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/645814.jpg
+    rating: 0.0
+    date: '2026-09-10'
+    code: 645814
+    url: /works/645814/
   - title: Hahaoya de Irarenaku Natta Watashi. | Why I Could No Longer Be A Mother
     author: sakurayu-hal
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/648099.jpg

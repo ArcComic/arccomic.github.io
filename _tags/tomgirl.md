@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "tomgirl"
-work_count: 11
+work_count: 12
 works:
   - title: Hayato-sensei no Mesu-ka Karute Daigaku-hen | Dr. Hayato's Feminization Medical
       Record ~University Edition~
@@ -83,4 +83,12 @@ works:
     date: '2026-08-31'
     code: 677247
     url: /works/677247/
+  - title: Downer-kei Arafour Newhalf to Shinkon-san-gokko | Playing Newlyweds With
+      A Gloomy Around-Forty Newhalf
+    author: yuuki-konefu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679961.jpg
+    rating: 0.0
+    date: '2026-09-10'
+    code: 679961
+    url: /works/679961/
 ---

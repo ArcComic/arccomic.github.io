@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "smalldom"
-work_count: 20
+work_count: 21
 works:
   - title: Uwa, Mesugaki Tsuyoi! | Crap, This Mesugaki's Too Powerful!
     author: poncocchan
@@ -148,4 +148,12 @@ works:
     date: '2026-09-05'
     code: 676528
     url: /works/676528/
+  - title: Having Intense, Romantic Raw Sex With A 8-foot Tall Woman I Met On A Dating
+      App
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679942.jpg
+    rating: 0.0
+    date: '2026-09-10'
+    code: 679942
+    url: /works/679942/
 ---

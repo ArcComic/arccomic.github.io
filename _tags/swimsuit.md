@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "swimsuit"
-work_count: 41
+work_count: 42
 works:
   - title: Kizashi
     author: yoshiura-kazuya
@@ -314,4 +314,11 @@ works:
     date: '2026-09-05'
     code: 678720
     url: /works/678720/
+  - title: Succubus Club e Youkoso Soushuuhen | Welcome To The Succubus Sorority After
+    author: nomu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680088.jpg
+    rating: 0.0
+    date: '2026-09-10'
+    code: 680088
+    url: /works/680088/
 ---

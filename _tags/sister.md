@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sister"
-work_count: 46
+work_count: 47
 works:
   - title: Onee-chan ga Ecchi na Koto bakka Suru kara... | My older sister only does
       obscene things...
@@ -42,6 +42,15 @@ works:
     date: '2026-07-10'
     code: 476399
     url: /works/476399/
+  - title: Watashi, Gitei no Are de… Kanji teru!~ Aniki yori Dekakute Iidaro 1-3 | I'm
+      Feeling... My Brother-in-Law's Cock! 〜I'm Bigger Than My Brother's, Aren't I?
+      ch.1-3
+    author: sisei-tokei
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/511803.jpg
+    rating: 0.0
+    date: '2026-09-10'
+    code: 511803
+    url: /works/511803/
   - title: Aka-chan Tsukuri no Yoshuu | Preview Lesson About Babymaking
     author: highlow
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/555216.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "anal intercourse"
-work_count: 49
+work_count: 51
 works:
   - title: Bitch Mama no Kekkon Riyuu
     author: aoyama-akira
@@ -300,6 +300,13 @@ works:
     date: '2026-08-23'
     code: 668880
     url: /works/668880/
+  - title: Uchi, Chinko Tsuiterunsu kedo Iissu ka? | I have a dick, is that okay?
+    author: yuuki-konefu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/669748.jpg
+    rating: 0.0
+    date: '2026-09-10'
+    code: 669748
+    url: /works/669748/
   - title: Tenshi Hirotta kara Haramaseru ~Ojii-san Senyou Botebara Onaho ni Naru made
       no Kiroku~ | I Met an Angel, and then I Knocked Her Up ~A Record of Becoming Oji-san’s
       Personal Preggo Belly Onahole~
@@ -365,4 +372,12 @@ works:
     date: '2026-08-31'
     code: 676658
     url: /works/676658/
+  - title: Downer-kei Arafour Newhalf to Shinkon-san-gokko | Playing Newlyweds With
+      A Gloomy Around-Forty Newhalf
+    author: yuuki-konefu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679961.jpg
+    rating: 0.0
+    date: '2026-09-10'
+    code: 679961
+    url: /works/679961/
 ---

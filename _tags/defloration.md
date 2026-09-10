@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "defloration"
-work_count: 141
+work_count: 142
 works:
   - title: Love Approach
     author: hanafuda-sakurano
@@ -246,6 +246,13 @@ works:
     date: '2026-08-20'
     code: 537794
     url: /works/537794/
+  - title: Kannou no Triangle | Sensual Love Triangle
+    author: sena-youtarou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/538176.jpg
+    rating: 0.0
+    date: '2026-09-10'
+    code: 538176
+    url: /works/538176/
   - title: Minpaku ~Ojou-sama-tachi wa Minpaku Keieisha no Wana ni Ochiru~ | Sleeping
       in the Bed and Breakfast - Young ladies fall into the trap of a private lodging
       manager

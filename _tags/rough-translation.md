@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "rough translation"
-work_count: 366
+work_count: 370
 works:
   - title: Watashi no Karada, Okashi Shimasu. Bunny Girl Edition
     author: nectar
@@ -193,6 +193,13 @@ works:
     date: '2026-08-20'
     code: 537794
     url: /works/537794/
+  - title: Kannou no Triangle | Sensual Love Triangle
+    author: sena-youtarou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/538176.jpg
+    rating: 0.0
+    date: '2026-09-10'
+    code: 538176
+    url: /works/538176/
   - title: Extra Virgin Mama
     author: hara-shigeyuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/541631.jpg
@@ -1969,6 +1976,13 @@ works:
     date: '2026-08-20'
     code: 669452
     url: /works/669452/
+  - title: Uchi, Chinko Tsuiterunsu kedo Iissu ka? | I have a dick, is that okay?
+    author: yuuki-konefu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/669748.jpg
+    rating: 0.0
+    date: '2026-09-10'
+    code: 669748
+    url: /works/669748/
   - title: Akogare Senpai ga NTR sareru Hon
     author: seinen-hormone
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/672241.jpg
@@ -2668,4 +2682,19 @@ works:
     date: '2026-09-09'
     code: 679861
     url: /works/679861/
+  - title: Having Intense, Romantic Raw Sex With A 8-foot Tall Woman I Met On A Dating
+      App
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679942.jpg
+    rating: 0.0
+    date: '2026-09-10'
+    code: 679942
+    url: /works/679942/
+  - title: Kaneda did nothing wrong Vol.1
+    author: haruharudo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679977.jpg
+    rating: 0.0
+    date: '2026-09-10'
+    code: 679977
+    url: /works/679977/
 ---

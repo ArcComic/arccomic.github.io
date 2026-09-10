@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "kemonomimi"
-work_count: 18
+work_count: 19
 works:
   - title: CHOCO x LOVE
     author: highlow
@@ -136,4 +136,11 @@ works:
     date: '2026-09-07'
     code: 679215
     url: /works/679215/
+  - title: Gal-kei Joshi ni Kakikaerareta Ore | Rewritten as a Gyaru Girl
+    author: nomu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679992.jpg
+    rating: 0.0
+    date: '2026-09-10'
+    code: 679992
+    url: /works/679992/
 ---

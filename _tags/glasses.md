@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "glasses"
-work_count: 159
+work_count: 161
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -17,6 +17,13 @@ works:
     date: '2026-07-08'
     code: 116138
     url: /works/116138/
+  - title: Natsu Jiru Ch. 1-2
+    author: sena-youtarou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/119757.jpg
+    rating: 0.0
+    date: '2026-09-10'
+    code: 119757
+    url: /works/119757/
   - title: My Care Lady Ch. 1
     author: sugi-g
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/139537.jpg
@@ -991,6 +998,13 @@ works:
     date: '2026-08-20'
     code: 669452
     url: /works/669452/
+  - title: Uchi, Chinko Tsuiterunsu kedo Iissu ka? | I have a dick, is that okay?
+    author: yuuki-konefu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/669748.jpg
+    rating: 0.0
+    date: '2026-09-10'
+    code: 669748
+    url: /works/669748/
   - title: Hanamizuki Vol.4
     author: rocinante
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/672835.jpg

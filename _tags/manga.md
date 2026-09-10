@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "manga"
-work_count: 228
+work_count: 235
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -31,6 +31,13 @@ works:
     date: '2026-07-08'
     code: 116138
     url: /works/116138/
+  - title: Natsu Jiru Ch. 1-2
+    author: sena-youtarou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/119757.jpg
+    rating: 0.0
+    date: '2026-09-10'
+    code: 119757
+    url: /works/119757/
   - title: Office Love Scramble Ch. 1
     author: tohzai
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/131165.jpg
@@ -543,6 +550,15 @@ works:
     date: '2026-08-19'
     code: 511503
     url: /works/511503/
+  - title: Watashi, Gitei no Are de… Kanji teru!~ Aniki yori Dekakute Iidaro 1-3 | I'm
+      Feeling... My Brother-in-Law's Cock! 〜I'm Bigger Than My Brother's, Aren't I?
+      ch.1-3
+    author: sisei-tokei
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/511803.jpg
+    rating: 0.0
+    date: '2026-09-10'
+    code: 511803
+    url: /works/511803/
   - title: Mother Love Sickness
     author: tsukino-jyogi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/512326.jpg
@@ -624,6 +640,14 @@ works:
     date: '2026-05-01'
     code: 529365
     url: /works/529365/
+  - title: Netori Esthe de, Konya, Tsuma ga.... | I Can't Resist His Massage! Cheating
+      in Front of My Husband's Eyes Vol. 1-4
+    author: fight-fight-chiharu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/529791.jpg
+    rating: 0.0
+    date: '2026-09-10'
+    code: 529791
+    url: /works/529791/
   - title: Gal to no Asobikata | How to Have Fun With Gyarus!
     author: buta
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/531967.jpg
@@ -670,6 +694,13 @@ works:
     date: '2026-07-11'
     code: 538063
     url: /works/538063/
+  - title: Kannou no Triangle | Sensual Love Triangle
+    author: sena-youtarou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/538176.jpg
+    rating: 0.0
+    date: '2026-09-10'
+    code: 538176
+    url: /works/538176/
   - title: Extra Virgin Mama
     author: hara-shigeyuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/541631.jpg
@@ -741,6 +772,15 @@ works:
     date: '2026-03-03'
     code: 574060
     url: /works/574060/
+  - title: Hitozuma Volley-bu no Asedaku SEX ~Shower Abinagara Mitchaku Shichau? 5-6
+      | Married Women's Volleyball Club Sweaty Sex - We're Being Glued Together While
+      Taking A Shower? 5-6
+    author: kazutaro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/574158.jpg
+    rating: 0.0
+    date: '2026-09-10'
+    code: 574158
+    url: /works/574158/
   - title: Saimin ♥ Saimin | Hypno ♥ Hypno
     author: minamida-usuke
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/576398.jpg
@@ -863,6 +903,14 @@ works:
     date: '2026-04-17'
     code: 612957
     url: /works/612957/
+  - title: Onnanoko ga Ochita Saki wa, Ore no Musuko no Sakippo deshita | What She Fell
+      On Was the Tip of My Dick Vol. 1-4
+    author: hatokonro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/613838.jpg
+    rating: 0.0
+    date: '2026-09-10'
+    code: 613838
+    url: /works/613838/
   - title: Futari de Watashi o Ikasenaide...! ~Kurayami, Majiwaru Kyoudai Futon~  |
       My 2 Step-Brothers are Ganging Up on Me!  Vol.1
     author: ma-yu
@@ -871,6 +919,13 @@ works:
     date: '2026-08-29'
     code: 618087
     url: /works/618087/
+  - title: The NTR Massage Vol. 1-2
+    author: kazutaro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/618088.jpg
+    rating: 0.0
+    date: '2026-09-10'
+    code: 618088
+    url: /works/618088/
   - title: Kimiha Bokuno Keikokuno Bijyo | You're the Woman of my Dreams
     author: yasson-yoshiyuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/618098.jpg

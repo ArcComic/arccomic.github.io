@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "possession"
-work_count: 9
+work_count: 10
 works:
   - title: Hyoui Suru nara Kanemochi no Bakunyuu Babaa ni Kagiru! | If you want to be
       possessed, it must be a rich hag with big tits!
@@ -19,6 +19,13 @@ works:
     date: '2026-08-31'
     code: 494172
     url: /works/494172/
+  - title: Tanin ni Naru Kusuri 6 | Medicine to Become Another Person 6
+    author: date
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/502197.jpg
+    rating: 0.0
+    date: '2026-09-10'
+    code: 502197
+    url: /works/502197/
   - title: Mother's Scent 1-4
     author: midnight
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/532417.jpg
