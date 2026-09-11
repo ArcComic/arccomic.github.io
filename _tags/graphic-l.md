@@ -6,7 +6,7 @@ works:
   - title: Soshite Kyou mo Moteasobareru
     author: erun
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/545896.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-11'
     code: 545896
     url: /works/545896/
@@ -14,7 +14,7 @@ works:
       3 ~Inn Edition~
     author: erun
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/643785.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-11'
     code: 643785
     url: /works/643785/
@@ -22,7 +22,7 @@ works:
       With Again 4 ~Camping In The Mountains! Cosplay Edition~
     author: erun
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679591.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-11'
     code: 679591
     url: /works/679591/

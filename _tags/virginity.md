@@ -205,7 +205,7 @@ works:
       \ Do With My Mom"
     author: kuruto
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/512938.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-11'
     code: 512938
     url: /works/512938/

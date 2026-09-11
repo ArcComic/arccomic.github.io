@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "smalldom"
-work_count: 21
+work_count: 23
 works:
   - title: Uwa, Mesugaki Tsuyoi! | Crap, This Mesugaki's Too Powerful!
     author: poncocchan
@@ -117,6 +117,21 @@ works:
     date: '2026-07-11'
     code: 663130
     url: /works/663130/
+  - title: Yome no Tsurego ni Otosareru Boku | I was Seduced by My Wife's Child from
+      a Previous Marriage
+    author: sabano-fudeoki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673271.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 673271
+    url: /works/673271/
+  - title: Onii-chan no Yowami o Gyutto | Squeezing my big brother's weak spot
+    author: ronrinri-ronri
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673288.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 673288
+    url: /works/673288/
   - title: Kaho-chan wa Oshioki Shitai
     author: serakichi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/674298.jpg

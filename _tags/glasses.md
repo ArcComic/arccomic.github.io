@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "glasses"
-work_count: 164
+work_count: 165
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -530,7 +530,7 @@ works:
   - title: Hikikomori Kyousei Shisetsu Hakutou no Ie
     author: shine-nabyss
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/626220.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-11'
     code: 626220
     url: /works/626220/
@@ -824,6 +824,14 @@ works:
     date: '2026-09-07'
     code: 654638
     url: /works/654638/
+  - title: Akogare datta Seiso na Onnanoko ga Jitsu wa Dosukebe datta Hanashi | The
+      Horny Truth About Hosokawa
+    author: momoiro-onsen
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654850.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 654850
+    url: /works/654850/
   - title: Tonari no Ayane-san Soushuuhen | My Neighbor Ayane Anthology
     author: herio
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/656319.jpg
@@ -835,7 +843,7 @@ works:
       with a Toxic Bitch who will Ruin Your Life is the Absolute Best!!
     author: alpha-beta
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/656460.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-11'
     code: 656460
     url: /works/656460/
@@ -1182,7 +1190,7 @@ works:
       With Again 4 ~Camping In The Mountains! Cosplay Edition~
     author: erun
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679591.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-11'
     code: 679591
     url: /works/679591/

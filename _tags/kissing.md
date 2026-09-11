@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "kissing"
-work_count: 217
+work_count: 218
 works:
   - title: FLUFFY LAUGH GIRL
     author: shibasaki-syouzi
@@ -438,7 +438,7 @@ works:
       The Poster Girl: Two Nights of Forbidden Passion between Mother and Son'
     author: murabito-c
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/577454.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-11'
     code: 577454
     url: /works/577454/
@@ -609,6 +609,14 @@ works:
     date: '2026-04-23'
     code: 610041
     url: /works/610041/
+  - title: TS Goods Panic ~Iritani Kyoudai no Baai~ | TS Goods Panic ~The Case of the
+      Iriya's Siblings~
+    author: regdic
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/611888.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 611888
+    url: /works/611888/
   - title: Onnanoko ga Ochita Saki wa, Ore no Musuko no Sakippo deshita | What She Fell
       On Was the Tip of My Dick Vol. 1-4
     author: hatokonro
@@ -1275,7 +1283,7 @@ works:
       My Tomboy Childhood Friend Matured Into a Proper Woman
     author: natsuzo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/656626.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-11'
     code: 656626
     url: /works/656626/
@@ -1570,7 +1578,7 @@ works:
   - title: Kamisama... Kodomo o kudasai | God... please give me a child
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679596.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-11'
     code: 679596
     url: /works/679596/
@@ -1591,7 +1599,7 @@ works:
   - title: Soredemo Ashita mo Kareshi ga ii - Chapter 1-16
     author: miike-kei
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679935.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-09-11'
     code: 679935
     url: /works/679935/

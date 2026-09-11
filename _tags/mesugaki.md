@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "mesugaki"
-work_count: 5
+work_count: 6
 works:
   - title: Seiso na Imouto no Tomodachi wa Mesugaki deshita | My Pure and Innocent Little
       Sister Became Friends With a Mesugaki
@@ -32,6 +32,13 @@ works:
     date: '2026-07-16'
     code: 664631
     url: /works/664631/
+  - title: Onii-chan no Yowami o Gyutto | Squeezing my big brother's weak spot
+    author: ronrinri-ronri
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673288.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 673288
+    url: /works/673288/
   - title: Onii-san Zako sugite Ukeru~ | Big Brother, you're so pathetic, it's hilarious~
     author: puritei
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/674568.jpg

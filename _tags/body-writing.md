@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "body writing"
-work_count: 7
+work_count: 8
 works:
   - title: IKUu!! Zenkou Seito no Mae de Koukai Zecchou-saserareta JK no Matsuro 1 |
       Cumming in Front of the Entire Student Body 1
@@ -54,4 +54,12 @@ works:
     date: '2026-09-09'
     code: 657459
     url: /works/657459/
+  - title: Ishiki Takai-kei Toshishita Kachou -Kanzen Kuppuku- TiPer Juushi no Onna
+      ga Owaranai Zangyou Sex de Songen
+    author: hachi-mega
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680311.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 680311
+    url: /works/680311/
 ---

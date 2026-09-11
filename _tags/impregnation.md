@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "impregnation"
-work_count: 85
+work_count: 86
 works:
   - title: Overwrite
     author: ojo
@@ -222,7 +222,7 @@ works:
       The Poster Girl: Two Nights of Forbidden Passion between Mother and Son'
     author: murabito-c
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/577454.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-11'
     code: 577454
     url: /works/577454/
@@ -251,7 +251,7 @@ works:
   - title: Kedamono no Ko wa Kedamono | The Child of a Beast is a Beast
     author: karashina-en
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/612063.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-11'
     code: 612063
     url: /works/612063/
@@ -482,11 +482,18 @@ works:
     date: '2026-05-26'
     code: 652639
     url: /works/652639/
+  - title: Boku no Kanojo wa Okaasan
+    author: momoiro-onsen
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654091.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 654091
+    url: /works/654091/
   - title: Mukashi Kara Otokoppoi Osananajimi mo Chanto Mesu ni Sodachimashita | Even
       My Tomboy Childhood Friend Matured Into a Proper Woman
     author: natsuzo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/656626.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-11'
     code: 656626
     url: /works/656626/
@@ -609,7 +616,7 @@ works:
   - title: Kamisama... Kodomo o kudasai | God... please give me a child
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679596.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-11'
     code: 679596
     url: /works/679596/
@@ -623,7 +630,7 @@ works:
   - title: Yariman no Namaiki Kouhai to Tsukiau made no Hanashi.
     author: tokyo-gunjo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680187.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-11'
     code: 680187
     url: /works/680187/

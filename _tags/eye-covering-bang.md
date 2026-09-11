@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "eye-covering bang"
-work_count: 32
+work_count: 33
 works:
   - title: 'Portio Switch CASE: Varicata Portio | Cervix Switch CASE - Extra-hard Cervix'
     author: bang-you-didori
@@ -174,11 +174,18 @@ works:
     date: '2026-05-26'
     code: 652218
     url: /works/652218/
+  - title: Boku no Kanojo wa Okaasan
+    author: momoiro-onsen
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654091.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 654091
+    url: /works/654091/
   - title: Coral no Megumi de Nyotaika Shita Senyuu to xxx Suru Hon | Blessings of the
       Coral
     author: ringo-club
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/656102.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-11'
     code: 656102
     url: /works/656102/

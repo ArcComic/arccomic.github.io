@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "gender morph"
-work_count: 16
+work_count: 18
 works:
   - title: Gekkoutou no Yume - Nyotaika Douwa ~Danshi Kinsei no Tou~
     author: mugen-no-sudadokei
@@ -13,7 +13,7 @@ works:
   - title: sequence irekaeru futari no karada
     author: iwashita
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/414040.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-09-11'
     code: 414040
     url: /works/414040/
@@ -59,6 +59,14 @@ works:
     date: '2026-05-03'
     code: 540880
     url: /works/540880/
+  - title: TS Goods Panic ~Iritani Kyoudai no Baai~ | TS Goods Panic ~The Case of the
+      Iriya's Siblings~
+    author: regdic
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/611888.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 611888
+    url: /works/611888/
   - title: How I, a fighting gamer, became the heroine of a cosplay AV
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/645566.jpg
@@ -116,4 +124,11 @@ works:
     date: '2026-09-10'
     code: 679992
     url: /works/679992/
+  - title: Naimonyo(?) Nedari
+    author: regdic
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680320.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 680320
+    url: /works/680320/
 ---

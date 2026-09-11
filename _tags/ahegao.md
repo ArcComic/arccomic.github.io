@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "ahegao"
-work_count: 189
+work_count: 190
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -234,7 +234,7 @@ works:
       Ol' Me 01
     author: kibi-anmitsu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/528308.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-11'
     code: 528308
     url: /works/528308/
@@ -464,10 +464,18 @@ works:
     date: '2026-03-02'
     code: 603756
     url: /works/603756/
+  - title: TS Goods Panic ~Iritani Kyoudai no Baai~ | TS Goods Panic ~The Case of the
+      Iriya's Siblings~
+    author: regdic
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/611888.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 611888
+    url: /works/611888/
   - title: Kedamono no Ko wa Kedamono | The Child of a Beast is a Beast
     author: karashina-en
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/612063.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-11'
     code: 612063
     url: /works/612063/
@@ -1005,7 +1013,7 @@ works:
       with a Toxic Bitch who will Ruin Your Life is the Absolute Best!!
     author: alpha-beta
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/656460.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-11'
     code: 656460
     url: /works/656460/
@@ -1387,14 +1395,14 @@ works:
       With Again 4 ~Camping In The Mountains! Cosplay Edition~
     author: erun
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679591.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-11'
     code: 679591
     url: /works/679591/
   - title: Kamisama... Kodomo o kudasai | God... please give me a child
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679596.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-11'
     code: 679596
     url: /works/679596/

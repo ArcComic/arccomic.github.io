@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "rough translation"
-work_count: 373
+work_count: 391
 works:
   - title: Watashi no Karada, Okashi Shimasu. Bunny Girl Edition
     author: nectar
@@ -512,10 +512,18 @@ works:
     date: '2026-05-07'
     code: 610017
     url: /works/610017/
+  - title: TS Goods Panic ~Iritani Kyoudai no Baai~ | TS Goods Panic ~The Case of the
+      Iriya's Siblings~
+    author: regdic
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/611888.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 611888
+    url: /works/611888/
   - title: Kedamono no Ko wa Kedamono | The Child of a Beast is a Beast
     author: karashina-en
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/612063.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-11'
     code: 612063
     url: /works/612063/
@@ -576,6 +584,13 @@ works:
     date: '2026-09-08'
     code: 616896
     url: /works/616896/
+  - title: Tatoeba Konna Million Theater Soushuuhen I
+    author: binsen
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/617600.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 617600
+    url: /works/617600/
   - title: 'Gal to Meccha Namahame Nakadashi Ecchi Suru Hanashi #5'
     author: pistonring-nishizawa
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/617805.jpg
@@ -604,6 +619,13 @@ works:
     date: '2026-03-04'
     code: 624694
     url: /works/624694/
+  - title: Koujoku Juurin
+    author: nbe
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/626580.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 626580
+    url: /works/626580/
   - title: Naisho no An-chan
     author: seto-ryouko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/627126.jpg
@@ -1301,6 +1323,13 @@ works:
     date: '2026-05-27'
     code: 652836
     url: /works/652836/
+  - title: Boku no Kanojo wa Okaasan
+    author: momoiro-onsen
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654091.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 654091
+    url: /works/654091/
   - title: Haha no Himitsu o Shitte
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654114.jpg
@@ -1393,6 +1422,13 @@ works:
     date: '2026-07-16'
     code: 655498
     url: /works/655498/
+  - title: Smile me tender
+    author: otsumoon
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/655514.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 655514
+    url: /works/655514/
   - title: Jitsubo Kan ~Gifu no Inai Suki ni Jitsu no Haha o Muriyari Okashite Haramaeta
     author: louis-and-visee
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/656034.jpg
@@ -1439,7 +1475,7 @@ works:
       My Tomboy Childhood Friend Matured Into a Proper Woman
     author: natsuzo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/656626.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-11'
     code: 656626
     url: /works/656626/
@@ -1464,6 +1500,20 @@ works:
     date: '2026-07-09'
     code: 657256
     url: /works/657256/
+  - title: Musuko no Onegai | My son's wish...
+    author: natsu-no-oyatsu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/657453.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 657453
+    url: /works/657453/
+  - title: Oba-san to Umi no Ie de
+    author: soba
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/657559.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 657559
+    url: /works/657559/
   - title: Haha Ana ni Irazumba
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/657981.jpg
@@ -1752,6 +1802,13 @@ works:
     date: '2026-09-07'
     code: 662766
     url: /works/662766/
+  - title: Seductive Life insurance saleswoman
+    author: haitoku-dou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662852.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 662852
+    url: /works/662852/
   - title: Joukyou, Saikai, Sex Akogare no Haru-nee
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662871.jpg
@@ -2019,6 +2076,21 @@ works:
     date: '2026-09-07'
     code: 672835
     url: /works/672835/
+  - title: Yome no Tsurego ni Otosareru Boku | I was Seduced by My Wife's Child from
+      a Previous Marriage
+    author: sabano-fudeoki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673271.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 673271
+    url: /works/673271/
+  - title: Onii-chan no Yowami o Gyutto | Squeezing my big brother's weak spot
+    author: ronrinri-ronri
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673288.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 673288
+    url: /works/673288/
   - title: ENG AI Translated [Hanpatsu Zokusei] Mayu-chan EP 1 - 4
     author: hanpatsu-zokusei-mejikara-scene
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673485.jpg
@@ -2715,8 +2787,66 @@ works:
   - title: Yariman no Namaiki Kouhai to Tsukiau made no Hanashi.
     author: tokyo-gunjo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680187.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-11'
     code: 680187
     url: /works/680187/
+  - title: Ishiki Takai-kei Toshishita Kachou -Kanzen Kuppuku- TiPer Juushi no Onna
+      ga Owaranai Zangyou Sex de Songen
+    author: hachi-mega
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680311.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 680311
+    url: /works/680311/
+  - title: Oman control
+    author: kijima-daisyarin-yoisho53
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680312.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 680312
+    url: /works/680312/
+  - title: My assertive senior housewife (36) at my part-time job hasn't been around
+      for a while..
+    author: higehurai
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680315.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 680315
+    url: /works/680315/
+  - title: Oni to Musume
+    author: sachie
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680317.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 680317
+    url: /works/680317/
+  - title: Panpan Travelers HIROSHIMA Shuudan Rape Ryokou Hen-MTL
+    author: raidon
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680318.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 680318
+    url: /works/680318/
+  - title: Naimonyo(?) Nedari
+    author: regdic
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680320.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 680320
+    url: /works/680320/
+  - title: Fucking slut ~Welcome to the training room~ MTL
+    author: mabo-nasu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680326.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 680326
+    url: /works/680326/
+  - title: Anna ~The Fate of a Former Idol~ MTL
+    author: mabo-nasu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680329.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 680329
+    url: /works/680329/
 ---

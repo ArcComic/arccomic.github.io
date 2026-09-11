@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "soushuuhen"
-work_count: 8
+work_count: 9
 works:
   - title: NTR Anniversary + ) [Syukurin] Mitsuha ~Netorare~ (Kimi no Na wa.) [English]
       [Colorized] by Mikaku
@@ -26,6 +26,13 @@ works:
     date: '2026-03-04'
     code: 508649
     url: /works/508649/
+  - title: Tatoeba Konna Million Theater Soushuuhen I
+    author: binsen
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/617600.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 617600
+    url: /works/617600/
   - title: Mitsuha ~Netorare~ 10 (Your Name After Story) True Ending
     author: syukurin
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/643592.jpg
@@ -44,7 +51,7 @@ works:
       Coral
     author: ringo-club
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/656102.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-11'
     code: 656102
     url: /works/656102/

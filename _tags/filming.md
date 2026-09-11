@@ -27,7 +27,7 @@ works:
   - title: Giragira no Beach
     author: shimantogawa
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/397251.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-11'
     code: 397251
     url: /works/397251/
@@ -109,7 +109,7 @@ works:
   - title: Soshite Kyou mo Moteasobareru
     author: erun
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/545896.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-11'
     code: 545896
     url: /works/545896/
@@ -477,7 +477,7 @@ works:
   - title: It's not Just Adultery - Chapter 1-16
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680219.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-10'
     code: 680219
     url: /works/680219/

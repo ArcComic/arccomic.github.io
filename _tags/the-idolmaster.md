@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "the idolmaster"
-work_count: 12
+work_count: 14
 works:
   - title: Another Produce -Kaede Takagaki-
     author: marushin
@@ -10,6 +10,13 @@ works:
     date: '2026-02-26'
     code: 179531
     url: /works/179531/
+  - title: Tatoeba Konna Million Theater Soushuuhen I
+    author: binsen
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/617600.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 617600
+    url: /works/617600/
   - title: Misuzu no Oheya kara Hitoban Nigerarenai Hon  | The Book Where You Can't
       Escape Misuzu's Room All Night Long.
     author: cure-slum
@@ -40,6 +47,13 @@ works:
     date: '2026-05-26'
     code: 652639
     url: /works/652639/
+  - title: Smile me tender
+    author: otsumoon
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/655514.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 655514
+    url: /works/655514/
   - title: Kazano Hiori ni Warui Koto o Suru Hanashi (Zenpen) | The Story of Doing Bad
       Things to Kazeno Hikari
     author: dokuneko-noil

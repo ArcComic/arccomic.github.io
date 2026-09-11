@@ -257,7 +257,7 @@ works:
   - title: Hikikomori Kyousei Shisetsu Hakutou no Ie
     author: shine-nabyss
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/626220.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-11'
     code: 626220
     url: /works/626220/
@@ -565,7 +565,7 @@ works:
   - title: Yariman no Namaiki Kouhai to Tsukiau made no Hanashi.
     author: tokyo-gunjo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680187.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-11'
     code: 680187
     url: /works/680187/

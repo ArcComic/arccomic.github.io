@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "blackmail"
-work_count: 94
+work_count: 96
 works:
   - title: Another Produce -Kaede Takagaki-
     author: marushin
@@ -255,7 +255,7 @@ works:
   - title: Soshite Kyou mo Moteasobareru
     author: erun
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/545896.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-11'
     code: 545896
     url: /works/545896/
@@ -613,6 +613,14 @@ works:
     date: '2026-09-06'
     code: 673207
     url: /works/673207/
+  - title: Yome no Tsurego ni Otosareru Boku | I was Seduced by My Wife's Child from
+      a Previous Marriage
+    author: sabano-fudeoki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673271.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 673271
+    url: /works/673271/
   - title: Pawahara Onna Joshi, Yowami wo Nigirarete Zenra Dogeza de Fukujuu S
     author: miyamoto-muga
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673775.jpg
@@ -698,6 +706,14 @@ works:
     date: '2026-09-09'
     code: 679861
     url: /works/679861/
+  - title: Ishiki Takai-kei Toshishita Kachou -Kanzen Kuppuku- TiPer Juushi no Onna
+      ga Owaranai Zangyou Sex de Songen
+    author: hachi-mega
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680311.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 680311
+    url: /works/680311/
   - title: Inin Keiyaku | Lewd Pregnancy Contract
     author: yoshiura-kazuya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/83595.jpg

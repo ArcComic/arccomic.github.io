@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "milf"
-work_count: 292
+work_count: 297
 works:
   - title: Life with Married Women Just Like a Manga 2 - Ch. 1-5
     author: hidemaru
@@ -603,7 +603,7 @@ works:
       \ Do With My Mom"
     author: kuruto
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/512938.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-11'
     code: 512938
     url: /works/512938/
@@ -678,7 +678,7 @@ works:
       Ol' Me 01
     author: kibi-anmitsu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/528308.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-11'
     code: 528308
     url: /works/528308/
@@ -980,7 +980,7 @@ works:
       The Poster Girl: Two Nights of Forbidden Passion between Mother and Son'
     author: murabito-c
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/577454.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-11'
     code: 577454
     url: /works/577454/
@@ -1119,7 +1119,7 @@ works:
   - title: Yuuhan no Ato wa Oba-chan to... | After Dinner, My Aunt and I...
     author: natsuzo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/594462.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-11'
     code: 594462
     url: /works/594462/
@@ -1177,7 +1177,7 @@ works:
   - title: Kedamono no Ko wa Kedamono | The Child of a Beast is a Beast
     author: karashina-en
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/612063.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-11'
     code: 612063
     url: /works/612063/
@@ -1632,6 +1632,13 @@ works:
     date: '2026-05-27'
     code: 652801
     url: /works/652801/
+  - title: Boku no Kanojo wa Okaasan
+    author: momoiro-onsen
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654091.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 654091
+    url: /works/654091/
   - title: Okaa-san ni Chuu Shinasai
     author: kuruto
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654253.jpg
@@ -1688,6 +1695,13 @@ works:
     date: '2026-07-09'
     code: 657256
     url: /works/657256/
+  - title: Musuko no Onegai | My son's wish...
+    author: natsu-no-oyatsu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/657453.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 657453
+    url: /works/657453/
   - title: 'Chinmake Kouman Okugata-sama | Haughty Housewives: Defeated by Dick'
     author: minamida-usuke
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/657459.jpg
@@ -1695,6 +1709,13 @@ works:
     date: '2026-09-09'
     code: 657459
     url: /works/657459/
+  - title: Oba-san to Umi no Ie de
+    author: soba
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/657559.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 657559
+    url: /works/657559/
   - title: 'Fukushū Yami Baito "Watashi no Moto Tsuma o Ninshin Sasete Hoshī" | My Part-Time
       Job Is Getting Revenge: Get My Ex-Wife Pregnant'
     author: chotto-b-sen
@@ -2135,6 +2156,21 @@ works:
     date: '2026-09-09'
     code: 679857
     url: /works/679857/
+  - title: My assertive senior housewife (36) at my part-time job hasn't been around
+      for a while..
+    author: higehurai
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680315.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 680315
+    url: /works/680315/
+  - title: Fucking slut ~Welcome to the training room~ MTL
+    author: mabo-nasu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680326.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 680326
+    url: /works/680326/
   - title: Jokyoushi - Hot For Teachers | Female Teachers
     author: drill-murata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/81375.jpg

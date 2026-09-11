@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "pixie cut"
-work_count: 39
+work_count: 40
 works:
   - title: Doushia (Terasu MC)] Dorei Gazoku
     author: terasu-mc
@@ -96,10 +96,18 @@ works:
     date: '2026-09-09'
     code: 604569
     url: /works/604569/
+  - title: TS Goods Panic ~Iritani Kyoudai no Baai~ | TS Goods Panic ~The Case of the
+      Iriya's Siblings~
+    author: regdic
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/611888.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 611888
+    url: /works/611888/
   - title: Kedamono no Ko wa Kedamono | The Child of a Beast is a Beast
     author: karashina-en
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/612063.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-11'
     code: 612063
     url: /works/612063/
@@ -196,7 +204,7 @@ works:
       My Tomboy Childhood Friend Matured Into a Proper Woman
     author: natsuzo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/656626.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-11'
     code: 656626
     url: /works/656626/

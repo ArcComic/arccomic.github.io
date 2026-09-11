@@ -1,12 +1,12 @@
 ---
 layout: tag
 tag_name: "gender change"
-work_count: 14
+work_count: 15
 works:
   - title: sequence irekaeru futari no karada
     author: iwashita
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/414040.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-09-11'
     code: 414040
     url: /works/414040/
@@ -106,4 +106,11 @@ works:
     date: '2026-09-10'
     code: 680088
     url: /works/680088/
+  - title: Naimonyo(?) Nedari
+    author: regdic
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680320.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 680320
+    url: /works/680320/
 ---

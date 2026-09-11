@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "blowjob"
-work_count: 391
+work_count: 392
 works:
   - title: Office Love Scramble Ch. 1
     author: tohzai
@@ -565,7 +565,7 @@ works:
       Ol' Me 01
     author: kibi-anmitsu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/528308.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-11'
     code: 528308
     url: /works/528308/
@@ -670,7 +670,7 @@ works:
   - title: Soshite Kyou mo Moteasobareru
     author: erun
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/545896.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-11'
     code: 545896
     url: /works/545896/
@@ -853,7 +853,7 @@ works:
       The Poster Girl: Two Nights of Forbidden Passion between Mother and Son'
     author: murabito-c
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/577454.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-11'
     code: 577454
     url: /works/577454/
@@ -1022,7 +1022,7 @@ works:
   - title: Yuuhan no Ato wa Oba-chan to... | After Dinner, My Aunt and I...
     author: natsuzo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/594462.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-11'
     code: 594462
     url: /works/594462/
@@ -1262,7 +1262,7 @@ works:
   - title: Hikikomori Kyousei Shisetsu Hakutou no Ie
     author: shine-nabyss
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/626220.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-11'
     code: 626220
     url: /works/626220/
@@ -1650,7 +1650,7 @@ works:
       3 ~Inn Edition~
     author: erun
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/643785.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-11'
     code: 643785
     url: /works/643785/
@@ -2150,7 +2150,7 @@ works:
       My Tomboy Childhood Friend Matured Into a Proper Woman
     author: natsuzo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/656626.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-11'
     code: 656626
     url: /works/656626/
@@ -2834,14 +2834,14 @@ works:
       With Again 4 ~Camping In The Mountains! Cosplay Edition~
     author: erun
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679591.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-11'
     code: 679591
     url: /works/679591/
   - title: Kamisama... Kodomo o kudasai | God... please give me a child
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679596.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-11'
     code: 679596
     url: /works/679596/
@@ -2871,7 +2871,7 @@ works:
   - title: Soredemo Ashita mo Kareshi ga ii - Chapter 1-16
     author: miike-kei
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679935.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-09-11'
     code: 679935
     url: /works/679935/
@@ -2894,10 +2894,17 @@ works:
   - title: Virgin Revenger 4
     author: crimson-carmine
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680162.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-11'
     code: 680162
     url: /works/680162/
+  - title: Panpan Travelers HIROSHIMA Shuudan Rape Ryokou Hen-MTL
+    author: raidon
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680318.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 680318
+    url: /works/680318/
   - title: Jokyoushi - Hot For Teachers | Female Teachers
     author: drill-murata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/81375.jpg

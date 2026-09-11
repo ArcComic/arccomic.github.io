@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole male"
-work_count: 537
+work_count: 544
 works:
   - title: Adoration
     author: kishizuka-kenji
@@ -749,7 +749,7 @@ works:
       \ Do With My Mom"
     author: kuruto
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/512938.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-11'
     code: 512938
     url: /works/512938/
@@ -788,7 +788,7 @@ works:
       Ol' Me 01
     author: kibi-anmitsu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/528308.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-11'
     code: 528308
     url: /works/528308/
@@ -1181,7 +1181,7 @@ works:
       The Poster Girl: Two Nights of Forbidden Passion between Mother and Son'
     author: murabito-c
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/577454.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-11'
     code: 577454
     url: /works/577454/
@@ -1425,7 +1425,7 @@ works:
   - title: Yuuhan no Ato wa Oba-chan to... | After Dinner, My Aunt and I...
     author: natsuzo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/594462.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-11'
     code: 594462
     url: /works/594462/
@@ -1570,6 +1570,14 @@ works:
     date: '2026-03-03'
     code: 611701
     url: /works/611701/
+  - title: TS Goods Panic ~Iritani Kyoudai no Baai~ | TS Goods Panic ~The Case of the
+      Iriya's Siblings~
+    author: regdic
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/611888.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 611888
+    url: /works/611888/
   - title: Dasuru Haha Musuko ni Nandomo Irerarete
     author: daidai-shikibu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/612083.jpg
@@ -1629,6 +1637,13 @@ works:
     date: '2026-07-16'
     code: 617511
     url: /works/617511/
+  - title: Tatoeba Konna Million Theater Soushuuhen I
+    author: binsen
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/617600.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 617600
+    url: /works/617600/
   - title: 'Gal to Meccha Namahame Nakadashi Ecchi Suru Hanashi #5'
     author: pistonring-nishizawa
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/617805.jpg
@@ -2825,6 +2840,14 @@ works:
     date: '2026-09-07'
     code: 654638
     url: /works/654638/
+  - title: Akogare datta Seiso na Onnanoko ga Jitsu wa Dosukebe datta Hanashi | The
+      Horny Truth About Hosokawa
+    author: momoiro-onsen
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654850.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 654850
+    url: /works/654850/
   - title: I, was sold to my mother's ex-fiancé
     author: romomata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/655077.jpg
@@ -2846,6 +2869,13 @@ works:
     date: '2026-08-21'
     code: 655421
     url: /works/655421/
+  - title: Smile me tender
+    author: otsumoon
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/655514.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 655514
+    url: /works/655514/
   - title: Gomen, Kaa-san Otonashiiku Shite
     author: daidai-shikibu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/656143.jpg
@@ -2878,7 +2908,7 @@ works:
       with a Toxic Bitch who will Ruin Your Life is the Absolute Best!!
     author: alpha-beta
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/656460.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-11'
     code: 656460
     url: /works/656460/
@@ -2886,7 +2916,7 @@ works:
       My Tomboy Childhood Friend Matured Into a Proper Woman
     author: natsuzo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/656626.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-11'
     code: 656626
     url: /works/656626/
@@ -2897,6 +2927,13 @@ works:
     date: '2026-08-21'
     code: 656686
     url: /works/656686/
+  - title: Musuko no Onegai | My son's wish...
+    author: natsu-no-oyatsu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/657453.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 657453
+    url: /works/657453/
   - title: Haha Ana ni Irazumba
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/657981.jpg
@@ -3401,6 +3438,14 @@ works:
     date: '2026-09-10'
     code: 669748
     url: /works/669748/
+  - title: Yome no Tsurego ni Otosareru Boku | I was Seduced by My Wife's Child from
+      a Previous Marriage
+    author: sabano-fudeoki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673271.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 673271
+    url: /works/673271/
   - title: ENG AI Translated [Hanpatsu Zokusei] Mayu-chan EP 1 - 4
     author: hanpatsu-zokusei-mejikara-scene
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673485.jpg
@@ -3873,7 +3918,7 @@ works:
   - title: Shiofuki wa Omorashi ni Hairimasu ka? | Does squirting count as wetting yourself?
     author: hoshina-meito
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679599.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-11'
     code: 679599
     url: /works/679599/
@@ -3961,22 +4006,30 @@ works:
   - title: Virgin Revenger 4
     author: crimson-carmine
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680162.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-11'
     code: 680162
     url: /works/680162/
   - title: My Femboy Boyfriend has a Fat Fetish
     author: rin
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680163.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-11'
     code: 680163
     url: /works/680163/
   - title: Yariman no Namaiki Kouhai to Tsukiau made no Hanashi.
     author: tokyo-gunjo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680187.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-11'
     code: 680187
     url: /works/680187/
+  - title: My assertive senior housewife (36) at my part-time job hasn't been around
+      for a while..
+    author: higehurai
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680315.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 680315
+    url: /works/680315/
 ---

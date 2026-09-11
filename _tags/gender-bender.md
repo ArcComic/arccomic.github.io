@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "gender bender"
-work_count: 22
+work_count: 23
 works:
   - title: Gekkoutou no Yume - Nyotaika Douwa ~Danshi Kinsei no Tou~
     author: mugen-no-sudadokei
@@ -53,6 +53,14 @@ works:
     date: '2026-05-03'
     code: 540880
     url: /works/540880/
+  - title: TS Goods Panic ~Iritani Kyoudai no Baai~ | TS Goods Panic ~The Case of the
+      Iriya's Siblings~
+    author: regdic
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/611888.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 611888
+    url: /works/611888/
   - title: How I, a fighting gamer, became the heroine of a cosplay AV
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/645566.jpg
@@ -85,7 +93,7 @@ works:
       Coral
     author: ringo-club
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/656102.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-11'
     code: 656102
     url: /works/656102/
@@ -156,7 +164,7 @@ works:
   - title: Shiofuki wa Omorashi ni Hairimasu ka? | Does squirting count as wetting yourself?
     author: hoshina-meito
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679599.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-11'
     code: 679599
     url: /works/679599/

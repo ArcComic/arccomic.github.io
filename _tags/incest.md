@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "incest"
-work_count: 190
+work_count: 196
 works:
   - title: Kindan no Hatemitsu
     author: ryuuta
@@ -260,7 +260,7 @@ works:
       \ Do With My Mom"
     author: kuruto
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/512938.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-11'
     code: 512938
     url: /works/512938/
@@ -427,7 +427,7 @@ works:
       The Poster Girl: Two Nights of Forbidden Passion between Mother and Son'
     author: murabito-c
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/577454.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-11'
     code: 577454
     url: /works/577454/
@@ -508,7 +508,7 @@ works:
   - title: Yuuhan no Ato wa Oba-chan to... | After Dinner, My Aunt and I...
     author: natsuzo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/594462.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-11'
     code: 594462
     url: /works/594462/
@@ -547,6 +547,14 @@ works:
     date: '2026-07-10'
     code: 608868
     url: /works/608868/
+  - title: TS Goods Panic ~Iritani Kyoudai no Baai~ | TS Goods Panic ~The Case of the
+      Iriya's Siblings~
+    author: regdic
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/611888.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 611888
+    url: /works/611888/
   - title: Ottori Itome no Oba o Odoshite Hamete Iinari Onaho-ka Keikaku | Gentle Slit-Eyed
       Aunty Blackmail & Obedient Fuckhole Training Project
     author: ginen
@@ -558,7 +566,7 @@ works:
   - title: Kedamono no Ko wa Kedamono | The Child of a Beast is a Beast
     author: karashina-en
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/612063.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-11'
     code: 612063
     url: /works/612063/
@@ -919,6 +927,13 @@ works:
     date: '2026-05-27'
     code: 652801
     url: /works/652801/
+  - title: Boku no Kanojo wa Okaasan
+    author: momoiro-onsen
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654091.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 654091
+    url: /works/654091/
   - title: Haha no Himitsu o Shitte
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654114.jpg
@@ -1052,6 +1067,20 @@ works:
     date: '2026-07-09'
     code: 657256
     url: /works/657256/
+  - title: Musuko no Onegai | My son's wish...
+    author: natsu-no-oyatsu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/657453.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 657453
+    url: /works/657453/
+  - title: Oba-san to Umi no Ie de
+    author: soba
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/657559.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 657559
+    url: /works/657559/
   - title: Haha Ana ni Irazumba
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/657981.jpg
@@ -1251,6 +1280,21 @@ works:
     date: '2026-08-25'
     code: 672450
     url: /works/672450/
+  - title: Yome no Tsurego ni Otosareru Boku | I was Seduced by My Wife's Child from
+      a Previous Marriage
+    author: sabano-fudeoki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673271.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 673271
+    url: /works/673271/
+  - title: Onii-chan no Yowami o Gyutto | Squeezing my big brother's weak spot
+    author: ronrinri-ronri
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673288.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 673288
+    url: /works/673288/
   - title: Summer, The Countryside, Tatami and Futon, Mother
     author: takatsu-takatsu-keita
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673862.jpg
@@ -1377,7 +1421,7 @@ works:
   - title: Shiofuki wa Omorashi ni Hairimasu ka? | Does squirting count as wetting yourself?
     author: hoshina-meito
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679599.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-11'
     code: 679599
     url: /works/679599/

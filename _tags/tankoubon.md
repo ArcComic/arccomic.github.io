@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "tankoubon"
-work_count: 50
+work_count: 51
 works:
   - title: Kaisha de Iroiro | Gettin' Busy at the Office
     author: hara-shigeyuki
@@ -348,6 +348,13 @@ works:
     date: '2026-09-07'
     code: 679198
     url: /works/679198/
+  - title: Oman control
+    author: kijima-daisyarin-yoisho53
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680312.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 680312
+    url: /works/680312/
   - title: Hottokenaino
     author: hara-shigeyuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/77864.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "cheating"
-work_count: 224
+work_count: 230
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -548,7 +548,7 @@ works:
       Ol' Me 01
     author: kibi-anmitsu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/528308.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-11'
     code: 528308
     url: /works/528308/
@@ -1068,7 +1068,7 @@ works:
       3 ~Inn Edition~
     author: erun
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/643785.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-11'
     code: 643785
     url: /works/643785/
@@ -1253,6 +1253,13 @@ works:
     date: '2026-08-28'
     code: 652651
     url: /works/652651/
+  - title: Boku no Kanojo wa Okaasan
+    author: momoiro-onsen
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654091.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 654091
+    url: /works/654091/
   - title: Himaten NTR 19P
     author: terasu-mc
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654484.jpg
@@ -1281,6 +1288,13 @@ works:
     date: '2026-07-09'
     code: 657256
     url: /works/657256/
+  - title: Musuko no Onegai | My son's wish...
+    author: natsu-no-oyatsu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/657453.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 657453
+    url: /works/657453/
   - title: 'Chinmake Kouman Okugata-sama | Haughty Housewives: Defeated by Dick'
     author: minamida-usuke
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/657459.jpg
@@ -1288,6 +1302,13 @@ works:
     date: '2026-09-09'
     code: 657459
     url: /works/657459/
+  - title: Oba-san to Umi no Ie de
+    author: soba
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/657559.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 657559
+    url: /works/657559/
   - title: Warui Ko | Bad Girl
     author: arai-kei
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/658005.jpg
@@ -1469,6 +1490,14 @@ works:
     date: '2026-09-07'
     code: 672835
     url: /works/672835/
+  - title: Yome no Tsurego ni Otosareru Boku | I was Seduced by My Wife's Child from
+      a Previous Marriage
+    author: sabano-fudeoki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673271.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 673271
+    url: /works/673271/
   - title: Summer, The Countryside, Tatami and Futon, Mother
     author: takatsu-takatsu-keita
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673862.jpg
@@ -1603,7 +1632,7 @@ works:
       With Again 4 ~Camping In The Mountains! Cosplay Edition~
     author: erun
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679591.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-11'
     code: 679591
     url: /works/679591/
@@ -1639,10 +1668,25 @@ works:
   - title: It's not Just Adultery - Chapter 1-16
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680219.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-10'
     code: 680219
     url: /works/680219/
+  - title: My assertive senior housewife (36) at my part-time job hasn't been around
+      for a while..
+    author: higehurai
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680315.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 680315
+    url: /works/680315/
+  - title: Fucking slut ~Welcome to the training room~ MTL
+    author: mabo-nasu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680326.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 680326
+    url: /works/680326/
   - title: Jokyoushi - Hot For Teachers | Female Teachers
     author: drill-murata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/81375.jpg

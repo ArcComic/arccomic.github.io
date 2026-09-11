@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sweating"
-work_count: 111
+work_count: 112
 works:
   - title: Kaisha de Iroiro | Gettin' Busy at the Office
     author: hara-shigeyuki
@@ -652,11 +652,19 @@ works:
     date: '2026-09-07'
     code: 654638
     url: /works/654638/
+  - title: Akogare datta Seiso na Onnanoko ga Jitsu wa Dosukebe datta Hanashi | The
+      Horny Truth About Hosokawa
+    author: momoiro-onsen
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654850.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 654850
+    url: /works/654850/
   - title: Coral no Megumi de Nyotaika Shita Senyuu to xxx Suru Hon | Blessings of the
       Coral
     author: ringo-club
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/656102.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-11'
     code: 656102
     url: /works/656102/
@@ -671,7 +679,7 @@ works:
       My Tomboy Childhood Friend Matured Into a Proper Woman
     author: natsuzo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/656626.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-11'
     code: 656626
     url: /works/656626/

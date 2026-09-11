@@ -445,7 +445,7 @@ works:
   - title: Soshite Kyou mo Moteasobareru
     author: erun
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/545896.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-11'
     code: 545896
     url: /works/545896/
@@ -779,7 +779,7 @@ works:
   - title: Hikikomori Kyousei Shisetsu Hakutou no Ie
     author: shine-nabyss
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/626220.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-11'
     code: 626220
     url: /works/626220/
@@ -1018,7 +1018,7 @@ works:
       3 ~Inn Edition~
     author: erun
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/643785.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-11'
     code: 643785
     url: /works/643785/
@@ -1714,7 +1714,7 @@ works:
       With Again 4 ~Camping In The Mountains! Cosplay Edition~
     author: erun
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679591.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-11'
     code: 679591
     url: /works/679591/
@@ -1736,7 +1736,7 @@ works:
   - title: Soredemo Ashita mo Kareshi ga ii - Chapter 1-16
     author: miike-kei
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679935.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-09-11'
     code: 679935
     url: /works/679935/
@@ -1765,14 +1765,14 @@ works:
   - title: Virgin Revenger 4
     author: crimson-carmine
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680162.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-11'
     code: 680162
     url: /works/680162/
   - title: It's not Just Adultery - Chapter 1-16
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680219.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-10'
     code: 680219
     url: /works/680219/

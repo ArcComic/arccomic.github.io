@@ -134,7 +134,7 @@ works:
   - title: sequence irekaeru futari no karada
     author: iwashita
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/414040.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-09-11'
     code: 414040
     url: /works/414040/
@@ -700,7 +700,7 @@ works:
       with a Toxic Bitch who will Ruin Your Life is the Absolute Best!!
     author: alpha-beta
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/656460.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-11'
     code: 656460
     url: /works/656460/
@@ -1006,7 +1006,7 @@ works:
   - title: Otokonoko Gal, Kaeriuchi ni Au | Turning The Tables On A Femboy
     author: mine-thrower
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679579.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-11'
     code: 679579
     url: /works/679579/
@@ -1014,7 +1014,7 @@ works:
       With Again 4 ~Camping In The Mountains! Cosplay Edition~
     author: erun
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679591.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-11'
     code: 679591
     url: /works/679591/

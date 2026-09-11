@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "producer"
-work_count: 7
+work_count: 8
 works:
   - title: Another Produce -Kaede Takagaki-
     author: marushin
@@ -40,6 +40,13 @@ works:
     date: '2026-05-26'
     code: 652639
     url: /works/652639/
+  - title: Smile me tender
+    author: otsumoon
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/655514.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 655514
+    url: /works/655514/
   - title: Mayu dake no Mono ni...
     author: tomekichi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/674866.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "humiliation"
-work_count: 17
+work_count: 18
 works:
   - title: Doushia (Terasu MC)] Dorei Gazoku
     author: terasu-mc
@@ -128,4 +128,12 @@ works:
     date: '2026-08-23'
     code: 674973
     url: /works/674973/
+  - title: Ishiki Takai-kei Toshishita Kachou -Kanzen Kuppuku- TiPer Juushi no Onna
+      ga Owaranai Zangyou Sex de Songen
+    author: hachi-mega
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680311.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 680311
+    url: /works/680311/
 ---

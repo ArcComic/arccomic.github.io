@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bondage"
-work_count: 51
+work_count: 53
 works:
   - title: CHOCO x LOVE
     author: highlow
@@ -116,10 +116,17 @@ works:
   - title: Hikikomori Kyousei Shisetsu Hakutou no Ie
     author: shine-nabyss
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/626220.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-11'
     code: 626220
     url: /works/626220/
+  - title: Koujoku Juurin
+    author: nbe
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/626580.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 626580
+    url: /works/626580/
   - title: Erufu (♀) no Bokensha ga Yadoya no Shujin ni Yobai&Tanetsuke Sareru Ohanashi
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/631719.jpg
@@ -301,6 +308,13 @@ works:
     date: '2026-09-07'
     code: 672835
     url: /works/672835/
+  - title: Onii-chan no Yowami o Gyutto | Squeezing my big brother's weak spot
+    author: ronrinri-ronri
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673288.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 673288
+    url: /works/673288/
   - title: Bitch Girls
     author: itou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/674701.jpg
@@ -375,7 +389,7 @@ works:
   - title: Virgin Revenger 4
     author: crimson-carmine
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680162.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-11'
     code: 680162
     url: /works/680162/

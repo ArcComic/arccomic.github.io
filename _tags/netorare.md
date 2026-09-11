@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "netorare"
-work_count: 253
+work_count: 254
 works:
   - title: Hitozuma Hyakka
     author: hase-tsubura
@@ -133,7 +133,7 @@ works:
   - title: Giragira no Beach
     author: shimantogawa
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/397251.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-11'
     code: 397251
     url: /works/397251/
@@ -593,7 +593,7 @@ works:
   - title: Soshite Kyou mo Moteasobareru
     author: erun
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/545896.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-11'
     code: 545896
     url: /works/545896/
@@ -1108,7 +1108,7 @@ works:
       3 ~Inn Edition~
     author: erun
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/643785.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-11'
     code: 643785
     url: /works/643785/
@@ -1793,7 +1793,7 @@ works:
       With Again 4 ~Camping In The Mountains! Cosplay Edition~
     author: erun
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679591.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-11'
     code: 679591
     url: /works/679591/
@@ -1837,7 +1837,7 @@ works:
   - title: Soredemo Ashita mo Kareshi ga ii - Chapter 1-16
     author: miike-kei
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679935.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-09-11'
     code: 679935
     url: /works/679935/
@@ -1859,10 +1859,17 @@ works:
   - title: It's not Just Adultery - Chapter 1-16
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680219.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-10'
     code: 680219
     url: /works/680219/
+  - title: Fucking slut ~Welcome to the training room~ MTL
+    author: mabo-nasu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680326.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 680326
+    url: /works/680326/
   - title: Inin Keiyaku | Lewd Pregnancy Contract
     author: yoshiura-kazuya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/83595.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "dickgirl on female"
-work_count: 6
+work_count: 7
 works:
   - title: Tempt & Throb
     author: mushihara
@@ -46,4 +46,11 @@ works:
     date: '2026-08-20'
     code: 674328
     url: /works/674328/
+  - title: Oni to Musume
+    author: sachie
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680317.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 680317
+    url: /works/680317/
 ---

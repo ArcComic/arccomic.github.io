@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "dark skin"
-work_count: 88
+work_count: 89
 works:
   - title: GalPa!
     author: sakagami-umi
@@ -490,7 +490,7 @@ works:
       My Tomboy Childhood Friend Matured Into a Proper Woman
     author: natsuzo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/656626.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-11'
     code: 656626
     url: /works/656626/
@@ -629,7 +629,7 @@ works:
   - title: Kamisama... Kodomo o kudasai | God... please give me a child
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679596.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-11'
     code: 679596
     url: /works/679596/
@@ -648,4 +648,12 @@ works:
     date: '2026-09-09'
     code: 679771
     url: /works/679771/
+  - title: Ishiki Takai-kei Toshishita Kachou -Kanzen Kuppuku- TiPer Juushi no Onna
+      ga Owaranai Zangyou Sex de Songen
+    author: hachi-mega
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680311.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 680311
+    url: /works/680311/
 ---

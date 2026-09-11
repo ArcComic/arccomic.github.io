@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "small breasts"
-work_count: 31
+work_count: 32
 works:
   - title: FLUFFY LAUGH GIRL
     author: shibasaki-syouzi
@@ -73,6 +73,13 @@ works:
     date: '2026-07-13'
     code: 606725
     url: /works/606725/
+  - title: Tatoeba Konna Million Theater Soushuuhen I
+    author: binsen
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/617600.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 617600
+    url: /works/617600/
   - title: Kimiha Bokuno Keikokuno Bijyo | You're the Woman of my Dreams
     author: yasson-yoshiyuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/618098.jpg

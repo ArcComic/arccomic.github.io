@@ -423,7 +423,7 @@ works:
   - title: Kedamono no Ko wa Kedamono | The Child of a Beast is a Beast
     author: karashina-en
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/612063.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-11'
     code: 612063
     url: /works/612063/
@@ -946,7 +946,7 @@ works:
   - title: Soredemo Ashita mo Kareshi ga ii - Chapter 1-16
     author: miike-kei
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679935.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-09-11'
     code: 679935
     url: /works/679935/
@@ -968,14 +968,14 @@ works:
   - title: Yariman no Namaiki Kouhai to Tsukiau made no Hanashi.
     author: tokyo-gunjo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680187.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-11'
     code: 680187
     url: /works/680187/
   - title: It's not Just Adultery - Chapter 1-16
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680219.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-10'
     code: 680219
     url: /works/680219/

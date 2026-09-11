@@ -51,14 +51,14 @@ works:
   - title: Otokonoko Gal, Kaeriuchi ni Au | Turning The Tables On A Femboy
     author: mine-thrower
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679579.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-11'
     code: 679579
     url: /works/679579/
   - title: Josou Kousei Class no Furyou Akugaki Danshi Seito-kun Josou Mesu Ochi Program
     author: nyakkuru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680171.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-11'
     code: 680171
     url: /works/680171/

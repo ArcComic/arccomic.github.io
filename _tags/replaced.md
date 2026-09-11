@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "replaced"
-work_count: 2
+work_count: 3
 works:
   - title: Junpaku Terrarium - Garden of Lovers
     author: sakuma-tsukasa
@@ -17,4 +17,12 @@ works:
     date: '2026-05-20'
     code: 651343
     url: /works/651343/
+  - title: Yome no Tsurego ni Otosareru Boku | I was Seduced by My Wife's Child from
+      a Previous Marriage
+    author: sabano-fudeoki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673271.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 673271
+    url: /works/673271/
 ---
