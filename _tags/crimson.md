@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "crimson"
-work_count: 4
+work_count: 5
 works:
   - &id001
     title: 1 Once iku goto ni penalty 1 manen oshioki papakatsu jyoshi
@@ -21,4 +21,11 @@ works:
     code: 644707
     url: /works/644707/
   - *id002
+  - title: Virgin Revenger 4
+    author: crimson-carmine
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680162.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 680162
+    url: /works/680162/
 ---

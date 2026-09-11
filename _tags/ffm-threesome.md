@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "ffm threesome"
-work_count: 81
+work_count: 82
 works:
   - title: Hustle! Danchizuma Ch. 1-18 END
     author: hidemaru
@@ -74,7 +74,7 @@ works:
       ch.1-3
     author: sisei-tokei
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/511803.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-10'
     code: 511803
     url: /works/511803/
@@ -98,7 +98,7 @@ works:
   - title: Kannou no Triangle | Sensual Love Triangle
     author: sena-youtarou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/538176.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-10'
     code: 538176
     url: /works/538176/
@@ -112,7 +112,7 @@ works:
   - title: The Share House’s Secret Rule
     author: ouma
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/546662.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-10'
     code: 546662
     url: /works/546662/
@@ -128,7 +128,7 @@ works:
       Taking A Shower? 5-6
     author: kazutaro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/574158.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-10'
     code: 574158
     url: /works/574158/
@@ -287,6 +287,14 @@ works:
     date: '2026-04-12'
     code: 643375
     url: /works/643375/
+  - title: Soshite Kyou mo Moteasobareru 3 ~Minshuku Hen~ | And Today, Toyed With Again
+      3 ~Inn Edition~
+    author: erun
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/643785.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 643785
+    url: /works/643785/
   - title: Ecchi na Onee-san-tachi ni Onsenyado de Hokakusareta Ken
     author: ishigaki-takashi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/644924.jpg
@@ -600,7 +608,7 @@ works:
   - title: Gal-kei Joshi ni Kakikaerareta Ore | Rewritten as a Gyaru Girl
     author: nomu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679992.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-10'
     code: 679992
     url: /works/679992/

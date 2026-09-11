@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "condom"
-work_count: 134
+work_count: 138
 works:
   - title: Kaisha de Iroiro | Gettin' Busy at the Office
     author: hara-shigeyuki
@@ -13,7 +13,7 @@ works:
   - title: Natsu Jiru Ch. 1-2
     author: sena-youtarou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/119757.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-10'
     code: 119757
     url: /works/119757/
@@ -401,6 +401,14 @@ works:
     date: '2026-04-25'
     code: 562615
     url: /works/562615/
+  - title: 'Kaa-san wa Kanbanmusume Nikuyoku ni Kogareta Boshi no Niya | My Mother -
+      The Poster Girl: Two Nights of Forbidden Passion between Mother and Son'
+    author: murabito-c
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/577454.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 577454
+    url: /works/577454/
   - title: ゼロ距離のまなざし | 零距离的眼神
     author: momoko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/579493.jpg
@@ -443,6 +451,13 @@ works:
     date: '2026-08-21'
     code: 593575
     url: /works/593575/
+  - title: Yuuhan no Ato wa Oba-chan to... | After Dinner, My Aunt and I...
+    author: natsuzo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/594462.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 594462
+    url: /works/594462/
   - title: Mechakucha Jiraippoi kedo Ne wa Yasashisouna Ko | Serious Land Mine Vibes
       but Deep Down She Seems Sweet
     author: 7zu7
@@ -465,6 +480,13 @@ works:
     date: '2026-04-23'
     code: 610041
     url: /works/610041/
+  - title: Kedamono no Ko wa Kedamono | The Child of a Beast is a Beast
+    author: karashina-en
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/612063.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 612063
+    url: /works/612063/
   - title: Rikujoubu no Bokukko Doukyuusei ga Chuunen Komon ni Mesu ni Sareru Ichibu
       Shijuu
     author: marushin
@@ -986,8 +1008,15 @@ works:
   - title: Kaneda did nothing wrong Vol.1
     author: haruharudo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679977.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-09-10'
     code: 679977
     url: /works/679977/
+  - title: Yariman no Namaiki Kouhai to Tsukiau made no Hanashi.
+    author: tokyo-gunjo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680187.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 680187
+    url: /works/680187/
 ---

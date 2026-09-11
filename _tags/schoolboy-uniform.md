@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "schoolboy uniform"
-work_count: 55
+work_count: 56
 works:
   - title: FLUFFY LAUGH GIRL
     author: shibasaki-syouzi
@@ -276,6 +276,14 @@ works:
     date: '2026-07-16'
     code: 655498
     url: /works/655498/
+  - title: Mukashi Kara Otokoppoi Osananajimi mo Chanto Mesu ni Sodachimashita | Even
+      My Tomboy Childhood Friend Matured Into a Proper Woman
+    author: natsuzo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/656626.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 656626
+    url: /works/656626/
   - title: 'Chinmake Kouman Okugata-sama | Haughty Housewives: Defeated by Dick'
     author: minamida-usuke
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/657459.jpg

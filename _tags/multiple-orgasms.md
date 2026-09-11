@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "multiple orgasms"
-work_count: 72
+work_count: 73
 works:
   - title: Rako Slip!
     author: bujidearu
@@ -206,6 +206,13 @@ works:
     date: '2026-05-26'
     code: 624573
     url: /works/624573/
+  - title: Hikikomori Kyousei Shisetsu Hakutou no Ie
+    author: shine-nabyss
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/626220.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 626220
+    url: /works/626220/
   - title: Kaisha de majimena Shizuno-san wa ie de otoko o katterurashii | Seems The
       Serious Office Worker Shizuno Keeps A Pet Guy At Home
     author: yuzuha
@@ -536,7 +543,7 @@ works:
       App
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679942.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-10'
     code: 679942
     url: /works/679942/

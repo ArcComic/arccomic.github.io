@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "twintails"
-work_count: 80
+work_count: 83
 works:
   - title: Sensei wa Shougakusei ga Suki | Sensei Loves Elementary Schoolers
     author: fuyuno-mikan
@@ -19,6 +19,13 @@ works:
     date: '2026-07-13'
     code: 358168
     url: /works/358168/
+  - title: sequence irekaeru futari no karada
+    author: iwashita
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/414040.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 414040
+    url: /works/414040/
   - title: Boku no Netorase Seiheki ni Tsukiatte kureru Kanojo | A Girlfriend Who Plays
       Along with My Cuckold Fetish
     author: terasu-mc
@@ -588,6 +595,21 @@ works:
     date: '2026-09-08'
     code: 679488
     url: /works/679488/
+  - title: Soshite Kyou mo Moteasobareru 4 ~Yama Camp! Cosplay Hen~ | And Today, Toyed
+      With Again 4 ~Camping In The Mountains! Cosplay Edition~
+    author: erun
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679591.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 679591
+    url: /works/679591/
+  - title: Shiofuki wa Omorashi ni Hairimasu ka? | Does squirting count as wetting yourself?
+    author: hoshina-meito
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679599.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 679599
+    url: /works/679599/
   - title: Mahou Shoujo Unicorn no Haiboku
     author: rurimaru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679672.jpg

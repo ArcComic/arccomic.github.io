@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sex toys"
-work_count: 75
+work_count: 77
 works:
   - title: Ayami Hypno
     author: yasuhiro
@@ -254,6 +254,13 @@ works:
     date: '2026-03-04'
     code: 624694
     url: /works/624694/
+  - title: Hikikomori Kyousei Shisetsu Hakutou no Ie
+    author: shine-nabyss
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/626220.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 626220
+    url: /works/626220/
   - title: 橘さん家ノ脅迫NTR事情
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/634198.jpg
@@ -318,7 +325,7 @@ works:
       Gonda Gokichi
     author: nantomo-san
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/645814.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-10'
     code: 645814
     url: /works/645814/
@@ -544,15 +551,22 @@ works:
       A Gloomy Around-Forty Newhalf
     author: yuuki-konefu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679961.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-10'
     code: 679961
     url: /works/679961/
   - title: Kaneda did nothing wrong Vol.1
     author: haruharudo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679977.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-09-10'
     code: 679977
     url: /works/679977/
+  - title: Yariman no Namaiki Kouhai to Tsukiau made no Hanashi.
+    author: tokyo-gunjo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680187.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 680187
+    url: /works/680187/
 ---

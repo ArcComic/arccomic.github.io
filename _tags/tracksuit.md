@@ -22,7 +22,7 @@ works:
   - title: Kannou no Triangle | Sensual Love Triangle
     author: sena-youtarou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/538176.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-10'
     code: 538176
     url: /works/538176/

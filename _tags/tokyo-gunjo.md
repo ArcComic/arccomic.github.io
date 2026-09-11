@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "tokyo gunjo"
-work_count: 8
+work_count: 10
 works:
   - &id001
     title: Yarareru kanojo - Hitozumajoushi ManaNTR -
@@ -44,4 +44,13 @@ works:
     code: 638929
     url: /works/638929/
   - *id003
+  - &id004
+    title: Yariman no Namaiki Kouhai to Tsukiau made no Hanashi.
+    author: tokyo-gunjo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680187.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 680187
+    url: /works/680187/
+  - *id004
 ---

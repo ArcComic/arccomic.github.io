@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "full color"
-work_count: 153
+work_count: 155
 works:
   - title: Tsuma wo Yariman ni Shimasu Shakkin no Tame desu kara.
     author: pietoro
@@ -299,7 +299,7 @@ works:
       ch.1-3
     author: sisei-tokei
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/511803.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-10'
     code: 511803
     url: /works/511803/
@@ -351,7 +351,7 @@ works:
       in Front of My Husband's Eyes Vol. 1-4
     author: fight-fight-chiharu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/529791.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-10'
     code: 529791
     url: /works/529791/
@@ -408,7 +408,7 @@ works:
   - title: The Share House’s Secret Rule
     author: ouma
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/546662.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-10'
     code: 546662
     url: /works/546662/
@@ -459,7 +459,7 @@ works:
       Taking A Shower? 5-6
     author: kazutaro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/574158.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-10'
     code: 574158
     url: /works/574158/
@@ -591,7 +591,7 @@ works:
       On Was the Tip of My Dick Vol. 1-4
     author: hatokonro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/613838.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-10'
     code: 613838
     url: /works/613838/
@@ -620,7 +620,7 @@ works:
   - title: The NTR Massage Vol. 1-2
     author: kazutaro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/618088.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-10'
     code: 618088
     url: /works/618088/
@@ -1110,6 +1110,20 @@ works:
     date: '2026-09-08'
     code: 679501
     url: /works/679501/
+  - title: Kamisama... Kodomo o kudasai | God... please give me a child
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679596.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 679596
+    url: /works/679596/
+  - title: Shiofuki wa Omorashi ni Hairimasu ka? | Does squirting count as wetting yourself?
+    author: hoshina-meito
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679599.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 679599
+    url: /works/679599/
   - title: The Truant Chick From My Yearbook Who I Never Met At School -- Sotsu Aru
       ni Ita Menshiki no Nai Futoukou no Kimi ga.
     author: chotto-b-sen
@@ -1121,7 +1135,7 @@ works:
   - title: Kaneda did nothing wrong Vol.1
     author: haruharudo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679977.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-09-10'
     code: 679977
     url: /works/679977/

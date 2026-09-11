@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "footjob"
-work_count: 13
+work_count: 14
 works:
   - title: Sei no Kenryoku | The Power of Sex
     author: tomohiro-kai
@@ -97,4 +97,11 @@ works:
     date: '2026-08-28'
     code: 676149
     url: /works/676149/
+  - title: Soredemo Ashita mo Kareshi ga ii - Chapter 1-16
+    author: miike-kei
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679935.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 679935
+    url: /works/679935/
 ---

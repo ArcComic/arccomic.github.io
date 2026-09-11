@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "exhibitionism"
-work_count: 49
+work_count: 51
 works:
+  - title: Giragira no Beach
+    author: shimantogawa
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/397251.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 397251
+    url: /works/397251/
   - title: Seisozuma Netorase...
     author: maccha-neji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/415906.jpg
@@ -195,7 +202,7 @@ works:
       Gonda Gokichi
     author: nantomo-san
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/645814.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-10'
     code: 645814
     url: /works/645814/
@@ -366,4 +373,12 @@ works:
     date: '2026-09-07'
     code: 679198
     url: /works/679198/
+  - title: Soshite Kyou mo Moteasobareru 4 ~Yama Camp! Cosplay Hen~ | And Today, Toyed
+      With Again 4 ~Camping In The Mountains! Cosplay Edition~
+    author: erun
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679591.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 679591
+    url: /works/679591/
 ---

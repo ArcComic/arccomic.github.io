@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "muscle"
-work_count: 66
+work_count: 67
 works:
   - title: Netorare Ibe Kiba Shizuka
     author: terasu-mc
@@ -87,7 +87,7 @@ works:
       ch.1-3
     author: sisei-tokei
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/511803.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-10'
     code: 511803
     url: /works/511803/
@@ -139,6 +139,13 @@ works:
     date: '2026-07-11'
     code: 538063
     url: /works/538063/
+  - title: Soshite Kyou mo Moteasobareru
+    author: erun
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/545896.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 545896
+    url: /works/545896/
   - title: Gokinjo Trouble ni wa Gochuui o | Watch Out For Trouble in Your Neighborhood
     author: hotate-chan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/553426.jpg
@@ -496,7 +503,7 @@ works:
       ~Homecoming~
     author: pody
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679958.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-10'
     code: 679958
     url: /works/679958/

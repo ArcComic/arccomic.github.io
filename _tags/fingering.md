@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "fingering"
-work_count: 107
+work_count: 111
 works:
   - title: Gekkoutou no Yume - Nyotaika Douwa ~Danshi Kinsei no Tou~
     author: mugen-no-sudadokei
@@ -114,7 +114,7 @@ works:
       ch.1-3
     author: sisei-tokei
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/511803.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-10'
     code: 511803
     url: /works/511803/
@@ -188,6 +188,13 @@ works:
     date: '2026-08-29'
     code: 544324
     url: /works/544324/
+  - title: Soshite Kyou mo Moteasobareru
+    author: erun
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/545896.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 545896
+    url: /works/545896/
   - title: Ero Cos OL to Jiraikei Joshi ~Iki Nuresaseru Moto Kare no Amai Koshi Zukai~
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/548852.jpg
@@ -334,7 +341,7 @@ works:
       On Was the Tip of My Dick Vol. 1-4
     author: hatokonro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/613838.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-10'
     code: 613838
     url: /works/613838/
@@ -349,7 +356,7 @@ works:
   - title: The NTR Massage Vol. 1-2
     author: kazutaro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/618088.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-10'
     code: 618088
     url: /works/618088/
@@ -374,6 +381,13 @@ works:
     date: '2026-03-04'
     code: 624694
     url: /works/624694/
+  - title: Hikikomori Kyousei Shisetsu Hakutou no Ie
+    author: shine-nabyss
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/626220.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 626220
+    url: /works/626220/
   - title: Succubus Seitokai Shiko Shiko Shikkoubu 3 | Succubus Student Council Milking
       Club 3
     author: michiking
@@ -788,18 +802,32 @@ works:
     date: '2026-09-09'
     code: 679604
     url: /works/679604/
+  - title: Soredemo Ashita mo Kareshi ga ii - Chapter 1-16
+    author: miike-kei
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679935.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 679935
+    url: /works/679935/
   - title: Kaneda did nothing wrong Vol.1
     author: haruharudo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679977.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-09-10'
     code: 679977
     url: /works/679977/
   - title: Succubus Club e Youkoso Soushuuhen | Welcome To The Succubus Sorority After
     author: nomu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680088.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-10'
     code: 680088
     url: /works/680088/
+  - title: Virgin Revenger 4
+    author: crimson-carmine
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680162.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 680162
+    url: /works/680162/
 ---

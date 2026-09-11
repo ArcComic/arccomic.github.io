@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "rimjob"
-work_count: 29
+work_count: 30
 works:
   - title: Hitozuma Hyakka
     author: hase-tsubura
@@ -49,6 +49,13 @@ works:
     date: '2026-07-16'
     code: 605410
     url: /works/605410/
+  - title: Kedamono no Ko wa Kedamono | The Child of a Beast is a Beast
+    author: karashina-en
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/612063.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 612063
+    url: /works/612063/
   - title: The Story of How My Brain Was Destroyed After Dating Someone Who Would Grant
       Any Request
     author: jakky

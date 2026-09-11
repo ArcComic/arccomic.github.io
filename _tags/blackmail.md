@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "blackmail"
-work_count: 93
+work_count: 94
 works:
   - title: Another Produce -Kaede Takagaki-
     author: marushin
@@ -252,6 +252,13 @@ works:
     date: '2026-07-06'
     code: 543494
     url: /works/543494/
+  - title: Soshite Kyou mo Moteasobareru
+    author: erun
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/545896.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 545896
+    url: /works/545896/
   - title: Gokinjo Trouble ni wa Gochuui o | Watch Out For Trouble in Your Neighborhood
     author: hotate-chan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/553426.jpg
@@ -412,7 +419,7 @@ works:
       Gonda Gokichi
     author: nantomo-san
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/645814.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-10'
     code: 645814
     url: /works/645814/

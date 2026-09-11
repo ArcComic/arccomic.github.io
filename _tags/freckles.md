@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "freckles"
-work_count: 7
+work_count: 8
 works:
   - title: Hitoban Tomete yo, Otaku-kun | Let Me Stay For the Night, Otaku-kun
     author: danimaru
@@ -17,6 +17,13 @@ works:
     date: '2026-04-21'
     code: 609650
     url: /works/609650/
+  - title: Hikikomori Kyousei Shisetsu Hakutou no Ie
+    author: shine-nabyss
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/626220.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 626220
+    url: /works/626220/
   - title: Sawatte Mitai? | Do You Wanna Touch?
     author: rondonko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/644309.jpg
@@ -49,7 +56,7 @@ works:
   - title: Kaneda did nothing wrong Vol.1
     author: haruharudo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679977.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-09-10'
     code: 679977
     url: /works/679977/

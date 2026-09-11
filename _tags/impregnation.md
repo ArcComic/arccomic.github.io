@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "impregnation"
-work_count: 80
+work_count: 85
 works:
   - title: Overwrite
     author: ojo
@@ -218,6 +218,14 @@ works:
     date: '2026-04-15'
     code: 577221
     url: /works/577221/
+  - title: 'Kaa-san wa Kanbanmusume Nikuyoku ni Kogareta Boshi no Niya | My Mother -
+      The Poster Girl: Two Nights of Forbidden Passion between Mother and Son'
+    author: murabito-c
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/577454.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 577454
+    url: /works/577454/
   - title: My AR glasses can see various stats about my foster sister?!
     author: pz-x
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/589010.jpg
@@ -240,6 +248,13 @@ works:
     date: '2026-03-05'
     code: 593456
     url: /works/593456/
+  - title: Kedamono no Ko wa Kedamono | The Child of a Beast is a Beast
+    author: karashina-en
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/612063.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 612063
+    url: /works/612063/
   - title: Metamorphosis
     author: shindol
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/616358.jpg
@@ -467,6 +482,14 @@ works:
     date: '2026-05-26'
     code: 652639
     url: /works/652639/
+  - title: Mukashi Kara Otokoppoi Osananajimi mo Chanto Mesu ni Sodachimashita | Even
+      My Tomboy Childhood Friend Matured Into a Proper Woman
+    author: natsuzo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/656626.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 656626
+    url: /works/656626/
   - title: 'Fukushū Yami Baito "Watashi no Moto Tsuma o Ninshin Sasete Hoshī" | My Part-Time
       Job Is Getting Revenge: Get My Ex-Wife Pregnant'
     author: chotto-b-sen
@@ -583,6 +606,13 @@ works:
     date: '2026-08-29'
     code: 676439
     url: /works/676439/
+  - title: Kamisama... Kodomo o kudasai | God... please give me a child
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679596.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 679596
+    url: /works/679596/
   - title: korette unmei? | Was This Destiny?
     author: enokido
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679745.jpg
@@ -590,6 +620,13 @@ works:
     date: '2026-09-09'
     code: 679745
     url: /works/679745/
+  - title: Yariman no Namaiki Kouhai to Tsukiau made no Hanashi.
+    author: tokyo-gunjo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680187.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 680187
+    url: /works/680187/
   - title: Inin Keiyaku | Lewd Pregnancy Contract
     author: yoshiura-kazuya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/83595.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "anal"
-work_count: 90
+work_count: 95
 works:
   - title: Hitozuma Hyakka
     author: hase-tsubura
@@ -134,6 +134,13 @@ works:
     date: '2026-07-09'
     code: 537476
     url: /works/537476/
+  - title: Soshite Kyou mo Moteasobareru
+    author: erun
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/545896.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 545896
+    url: /works/545896/
   - title: Imouto wa Mesu Orc 7
     author: muneshiro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/547393.jpg
@@ -313,6 +320,14 @@ works:
     date: '2026-08-24'
     code: 642586
     url: /works/642586/
+  - title: Soshite Kyou mo Moteasobareru 3 ~Minshuku Hen~ | And Today, Toyed With Again
+      3 ~Inn Edition~
+    author: erun
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/643785.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 643785
+    url: /works/643785/
   - title: PowerHara Onna Joushi to Shachiku-kun 4
     author: kurosu-gatari
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/645264.jpg
@@ -349,7 +364,7 @@ works:
       Gonda Gokichi
     author: nantomo-san
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/645814.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-10'
     code: 645814
     url: /works/645814/
@@ -555,7 +570,7 @@ works:
   - title: Uchi, Chinko Tsuiterunsu kedo Iissu ka? | I have a dick, is that okay?
     author: yuuki-konefu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/669748.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-10'
     code: 669748
     url: /works/669748/
@@ -645,6 +660,21 @@ works:
     date: '2026-09-05'
     code: 678354
     url: /works/678354/
+  - title: Otokonoko Gal, Kaeriuchi ni Au | Turning The Tables On A Femboy
+    author: mine-thrower
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679579.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 679579
+    url: /works/679579/
+  - title: Soshite Kyou mo Moteasobareru 4 ~Yama Camp! Cosplay Hen~ | And Today, Toyed
+      With Again 4 ~Camping In The Mountains! Cosplay Edition~
+    author: erun
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679591.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 679591
+    url: /works/679591/
   - title: nannal - Hahaoya Shikkaku ーMama wa Benjoー
     author: nannal
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679774.jpg
@@ -656,10 +686,17 @@ works:
       A Gloomy Around-Forty Newhalf
     author: yuuki-konefu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679961.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-10'
     code: 679961
     url: /works/679961/
+  - title: Josou Kousei Class no Furyou Akugaki Danshi Seito-kun Josou Mesu Ochi Program
+    author: nyakkuru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680171.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 680171
+    url: /works/680171/
   - title: Jokyoushi - Hot For Teachers | Female Teachers
     author: drill-murata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/81375.jpg

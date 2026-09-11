@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "exposed clothing"
-work_count: 11
+work_count: 12
 works:
   - title: Yofukashi no Tsuma ~Murakami Kozue~ | Late-Night Wife ~Murakami Kozue~
     author: oobayashi-mori
@@ -84,4 +84,12 @@ works:
     date: '2026-09-04'
     code: 669459
     url: /works/669459/
+  - title: Soshite Kyou mo Moteasobareru 4 ~Yama Camp! Cosplay Hen~ | And Today, Toyed
+      With Again 4 ~Camping In The Mountains! Cosplay Edition~
+    author: erun
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679591.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 679591
+    url: /works/679591/
 ---

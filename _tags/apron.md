@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "apron"
-work_count: 19
+work_count: 20
 works:
   - title: Life with Married Women Just Like a Manga 2 - Ch. 1-5
     author: hidemaru
@@ -44,7 +44,7 @@ works:
       ch.1-3
     author: sisei-tokei
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/511803.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-10'
     code: 511803
     url: /works/511803/
@@ -144,4 +144,11 @@ works:
     date: '2026-08-21'
     code: 674709
     url: /works/674709/
+  - title: Soredemo Ashita mo Kareshi ga ii - Chapter 1-16
+    author: miike-kei
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679935.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 679935
+    url: /works/679935/
 ---

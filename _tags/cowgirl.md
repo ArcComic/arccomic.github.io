@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "cowgirl"
-work_count: 13
+work_count: 14
 works:
   - title: Homestay-chu no Doitsu Musume ga Issho ni Furo ni Haitte Kuru Wake | The
       Reason Why a German Girl Takes a Bath Together With Me on Her Homestay
@@ -91,6 +91,14 @@ works:
     date: '2026-08-29'
     code: 676425
     url: /works/676425/
+  - title: Soshite Kyou mo Moteasobareru 4 ~Yama Camp! Cosplay Hen~ | And Today, Toyed
+      With Again 4 ~Camping In The Mountains! Cosplay Edition~
+    author: erun
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679591.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 679591
+    url: /works/679591/
   - title: nannal - Hahaoya Shikkaku ーMama wa Benjoー
     author: nannal
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679774.jpg

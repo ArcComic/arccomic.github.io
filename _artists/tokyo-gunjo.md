@@ -1,7 +1,7 @@
 ---
 layout: artist
 artist_name: "tokyo-gunjo"
-work_count: 4
+work_count: 5
 works:
   - title: Yarareru kanojo - Hitozumajoushi ManaNTR -
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/465602.jpg
@@ -27,4 +27,10 @@ works:
     date: '2026-04-19'
     code: 638929
     url: /works/638929/
+  - title: Yariman no Namaiki Kouhai to Tsukiau made no Hanashi.
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680187.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 680187
+    url: /works/680187/
 ---

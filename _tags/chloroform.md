@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "chloroform"
-work_count: 16
+work_count: 17
 works:
   - title: Kagesawa Mura no Akai Kagi tada <hottan>
     author: chiba-shuusaku
@@ -77,6 +77,13 @@ works:
     date: '2026-04-13'
     code: 544993
     url: /works/544993/
+  - title: Soshite Kyou mo Moteasobareru
+    author: erun
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/545896.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 545896
+    url: /works/545896/
   - title: Re. Bishoujo Seitokaichou o Seibyou Mochi no Owakon Onna ni Otosu Hanashi
     author: kyouan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/576288.jpg

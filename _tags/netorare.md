@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "netorare"
-work_count: 247
+work_count: 253
 works:
   - title: Hitozuma Hyakka
     author: hase-tsubura
@@ -130,6 +130,13 @@ works:
     date: '2026-04-25'
     code: 388099
     url: /works/388099/
+  - title: Giragira no Beach
+    author: shimantogawa
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/397251.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 397251
+    url: /works/397251/
   - title: Yurikago
     author: neko-samurai
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/398305.jpg
@@ -406,7 +413,7 @@ works:
       ch.1-3
     author: sisei-tokei
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/511803.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-10'
     code: 511803
     url: /works/511803/
@@ -481,7 +488,7 @@ works:
       in Front of My Husband's Eyes Vol. 1-4
     author: fight-fight-chiharu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/529791.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-10'
     code: 529791
     url: /works/529791/
@@ -583,6 +590,13 @@ works:
     date: '2026-07-15'
     code: 544477
     url: /works/544477/
+  - title: Soshite Kyou mo Moteasobareru
+    author: erun
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/545896.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 545896
+    url: /works/545896/
   - title: Choukyou Zumi Hitozuma OL wa Joushi ni Dakare Futatabi Ochiru
     author: toono-suika
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/550164.jpg
@@ -842,7 +856,7 @@ works:
   - title: The NTR Massage Vol. 1-2
     author: kazutaro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/618088.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-10'
     code: 618088
     url: /works/618088/
@@ -1090,6 +1104,14 @@ works:
     date: '2026-04-27'
     code: 643592
     url: /works/643592/
+  - title: Soshite Kyou mo Moteasobareru 3 ~Minshuku Hen~ | And Today, Toyed With Again
+      3 ~Inn Edition~
+    author: erun
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/643785.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 643785
+    url: /works/643785/
   - title: 'Otto no Shakkin Nakadashi Hensai Gifu ni Mi o Uru Komochi Tsuma | My Husband’s
       Debt: A Wife Sells Herself to Her Father-in-Law as Creampie Repayment'
     author: onodera
@@ -1140,7 +1162,7 @@ works:
       Gonda Gokichi
     author: nantomo-san
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/645814.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-10'
     code: 645814
     url: /works/645814/
@@ -1767,6 +1789,14 @@ works:
     date: '2026-09-08'
     code: 679358
     url: /works/679358/
+  - title: Soshite Kyou mo Moteasobareru 4 ~Yama Camp! Cosplay Hen~ | And Today, Toyed
+      With Again 4 ~Camping In The Mountains! Cosplay Edition~
+    author: erun
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679591.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 679591
+    url: /works/679591/
   - title: The Night She Trembled-The Reason Ichika Gave Her Body to a Scumbag Junior~
       Part One
     author: futamine-kobito
@@ -1804,21 +1834,35 @@ works:
     date: '2026-09-09'
     code: 679830
     url: /works/679830/
+  - title: Soredemo Ashita mo Kareshi ga ii - Chapter 1-16
+    author: miike-kei
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679935.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 679935
+    url: /works/679935/
   - title: Natsu, Inaka de Oji-san to ~Satogaeri~ | Summer in the Countryside with Ojisan
       ~Homecoming~
     author: pody
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679958.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-10'
     code: 679958
     url: /works/679958/
   - title: Kaneda did nothing wrong Vol.1
     author: haruharudo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679977.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-09-10'
     code: 679977
     url: /works/679977/
+  - title: It's not Just Adultery - Chapter 1-16
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680219.jpg
+    rating: 0.0
+    date: '2026-09-10'
+    code: 680219
+    url: /works/680219/
   - title: Inin Keiyaku | Lewd Pregnancy Contract
     author: yoshiura-kazuya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/83595.jpg

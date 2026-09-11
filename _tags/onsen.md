@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "onsen"
-work_count: 8
+work_count: 9
 works:
   - title: Boshi Futari Gurashi Dai Go Shou 5 Souai
     author: fuwatoro-opanchu-cake
@@ -25,6 +25,14 @@ works:
     date: '2026-08-20'
     code: 639463
     url: /works/639463/
+  - title: Soshite Kyou mo Moteasobareru 3 ~Minshuku Hen~ | And Today, Toyed With Again
+      3 ~Inn Edition~
+    author: erun
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/643785.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 643785
+    url: /works/643785/
   - title: Ecchi na Onee-san-tachi ni Onsenyado de Hokakusareta Ken
     author: ishigaki-takashi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/644924.jpg

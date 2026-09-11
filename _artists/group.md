@@ -1,7 +1,7 @@
 ---
 layout: artist
 artist_name: "group"
-work_count: 18
+work_count: 19
 works:
   - title: Itabasami na Wakachi Ai 4 | Love Divided Between a Rock and a Hard Place
       4
@@ -119,4 +119,10 @@ works:
     date: '2026-08-20'
     code: 674286
     url: /works/674286/
+  - title: Kamisama... Kodomo o kudasai | God... please give me a child
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679596.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 679596
+    url: /works/679596/
 ---

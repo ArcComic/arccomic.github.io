@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "cunnilingus"
-work_count: 102
+work_count: 104
 works:
   - title: Love Approach
     author: hanafuda-sakurano
@@ -190,7 +190,7 @@ works:
       ch.1-3
     author: sisei-tokei
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/511803.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-10'
     code: 511803
     url: /works/511803/
@@ -239,6 +239,13 @@ works:
     date: '2026-02-25'
     code: 543086
     url: /works/543086/
+  - title: Soshite Kyou mo Moteasobareru
+    author: erun
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/545896.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 545896
+    url: /works/545896/
   - title: Nakayoku no Yu e Youkoso Ch. 2 & 3
     author: enomoto-heights
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/555849.jpg
@@ -355,6 +362,13 @@ works:
     date: '2026-05-04'
     code: 608911
     url: /works/608911/
+  - title: Kedamono no Ko wa Kedamono | The Child of a Beast is a Beast
+    author: karashina-en
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/612063.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 612063
+    url: /works/612063/
   - title: Shanai no Himegoto ~Stress Kaishou ni Kaisha no Toilet de Onani shite itara,
       Kouhai ni Kikarete shimatte ita Hanashi~ | Workplace Rendezvous ~Caught Masturbating
       in the Company Restroom by My Subordinate~
@@ -460,7 +474,7 @@ works:
       Gonda Gokichi
     author: nantomo-san
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/645814.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-10'
     code: 645814
     url: /works/645814/
@@ -754,7 +768,7 @@ works:
       ~Homecoming~
     author: pody
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679958.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-10'
     code: 679958
     url: /works/679958/

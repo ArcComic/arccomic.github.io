@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "swinging"
-work_count: 20
+work_count: 22
 works:
   - title: Uragiri no Ai wa Mitsu no Aji | Treacherous Love Tastes Like Honey
     author: cuzukago
@@ -17,6 +17,13 @@ works:
     date: '2026-04-12'
     code: 328805
     url: /works/328805/
+  - title: Giragira no Beach
+    author: shimantogawa
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/397251.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 397251
+    url: /works/397251/
   - title: Netorase ~Tsuma no Ichiban Kirei na Hi~ | Netorase - My wife's most beautiful
       day
     author: sakagami-umi
@@ -153,4 +160,11 @@ works:
     date: '2026-08-28'
     code: 676183
     url: /works/676183/
+  - title: Soredemo Ashita mo Kareshi ga ii - Chapter 1-16
+    author: miike-kei
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679935.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 679935
+    url: /works/679935/
 ---

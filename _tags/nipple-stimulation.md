@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "nipple stimulation"
-work_count: 82
+work_count: 85
 works:
   - title: Hypnotic Domination ~ The Fall of Tennis Club Ace ~
     author: danchino
@@ -70,7 +70,7 @@ works:
       ch.1-3
     author: sisei-tokei
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/511803.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-10'
     code: 511803
     url: /works/511803/
@@ -199,6 +199,13 @@ works:
     date: '2026-04-23'
     code: 610041
     url: /works/610041/
+  - title: Kedamono no Ko wa Kedamono | The Child of a Beast is a Beast
+    author: karashina-en
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/612063.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 612063
+    url: /works/612063/
   - title: Kawaisugiru Tomodachi no Okaa-san to Kossori Tsukiacchatta Hanashi | I Secretly
       Dated My Friend's Cute Mother
     author: yuriko-club
@@ -245,6 +252,13 @@ works:
     date: '2026-03-04'
     code: 624694
     url: /works/624694/
+  - title: Hikikomori Kyousei Shisetsu Hakutou no Ie
+    author: shine-nabyss
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/626220.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 626220
+    url: /works/626220/
   - title: 2-nen C-gumi Gakuen Oppabu no Cast ni Imouto ga Ita | My Little Sister Was
       a Hostess at Class 2-C's School Festival Boobs Bar
     author: bunapi-397-yen
@@ -614,8 +628,15 @@ works:
       App
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679942.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-10'
     code: 679942
     url: /works/679942/
+  - title: Virgin Revenger 4
+    author: crimson-carmine
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680162.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 680162
+    url: /works/680162/
 ---

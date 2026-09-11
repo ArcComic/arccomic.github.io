@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "voyeurism"
-work_count: 32
+work_count: 33
 works:
   - title: Boku no Kazoku o Sarashimasu Ch. 3
     author: tanaka-aji
@@ -240,4 +240,11 @@ works:
     date: '2026-08-17'
     code: 673485
     url: /works/673485/
+  - title: It's not Just Adultery - Chapter 1-16
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680219.jpg
+    rating: 0.0
+    date: '2026-09-10'
+    code: 680219
+    url: /works/680219/
 ---

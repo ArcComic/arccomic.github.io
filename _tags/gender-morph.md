@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "gender morph"
-work_count: 15
+work_count: 16
 works:
   - title: Gekkoutou no Yume - Nyotaika Douwa ~Danshi Kinsei no Tou~
     author: mugen-no-sudadokei
@@ -10,6 +10,13 @@ works:
     date: '2026-08-21'
     code: 387365
     url: /works/387365/
+  - title: sequence irekaeru futari no karada
+    author: iwashita
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/414040.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 414040
+    url: /works/414040/
   - title: Shuudan Jotaika Gyaru, Ochiru | Mass-Gender Bended Gyarus, Fall into Depravity
     author: betty
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/414300.jpg
@@ -105,7 +112,7 @@ works:
   - title: Gal-kei Joshi ni Kakikaerareta Ore | Rewritten as a Gyaru Girl
     author: nomu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679992.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-10'
     code: 679992
     url: /works/679992/

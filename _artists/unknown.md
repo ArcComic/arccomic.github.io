@@ -1,12 +1,12 @@
 ---
 layout: artist
 artist_name: "unknown"
-work_count: 42
+work_count: 43
 works:
   - title: Yasashii Bakunyuu Kaa-san to Irekawacchatta Hankouki na Ore no Hanashi ~Episode
       1~
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/420425.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-10'
     code: 420425
     url: /works/420425/
@@ -260,8 +260,14 @@ works:
   - title: Having Intense, Romantic Raw Sex With A 8-foot Tall Woman I Met On A Dating
       App
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679942.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-10'
     code: 679942
     url: /works/679942/
+  - title: It's not Just Adultery - Chapter 1-16
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680219.jpg
+    rating: 0.0
+    date: '2026-09-10'
+    code: 680219
+    url: /works/680219/
 ---

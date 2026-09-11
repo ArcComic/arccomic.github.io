@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "collar"
-work_count: 50
+work_count: 51
 works:
   - title: Kaisha de Iroiro | Gettin' Busy at the Office
     author: hara-shigeyuki
@@ -17,6 +17,13 @@ works:
     date: '2026-04-23'
     code: 329551
     url: /works/329551/
+  - title: Giragira no Beach
+    author: shimantogawa
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/397251.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 397251
+    url: /works/397251/
   - title: Utakata 2 ~Uraaka DoM Haken OL Onaho Choukyou~ | An Office Lady's Behind
       The Scenes Masochistic Onahole Training 2
     author: yuzuri-ai

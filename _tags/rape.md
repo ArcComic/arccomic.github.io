@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "rape"
-work_count: 149
+work_count: 153
 works:
   - title: Office Love Scramble Ch. 1
     author: tohzai
@@ -261,7 +261,7 @@ works:
       ch.1-3
     author: sisei-tokei
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/511803.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-10'
     code: 511803
     url: /works/511803/
@@ -343,6 +343,13 @@ works:
     date: '2026-07-17'
     code: 545823
     url: /works/545823/
+  - title: Soshite Kyou mo Moteasobareru
+    author: erun
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/545896.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 545896
+    url: /works/545896/
   - title: Gokinjo Trouble ni wa Gochuui o | Watch Out For Trouble in Your Neighborhood
     author: hotate-chan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/553426.jpg
@@ -498,6 +505,13 @@ works:
     date: '2026-04-19'
     code: 623910
     url: /works/623910/
+  - title: Hikikomori Kyousei Shisetsu Hakutou no Ie
+    author: shine-nabyss
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/626220.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 626220
+    url: /works/626220/
   - title: Dansei Idol ni Okasareru Hanashi
     author: ema
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/630903.jpg
@@ -1066,6 +1080,13 @@ works:
     date: '2026-08-29'
     code: 676320
     url: /works/676320/
+  - title: Kamisama... Kodomo o kudasai | God... please give me a child
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679596.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 679596
+    url: /works/679596/
   - title: Kaa-san ga Mujikaku ni Yuuwaku Shite Kuru
     author: mattari-yufi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679634.jpg
@@ -1088,4 +1109,11 @@ works:
     date: '2026-09-09'
     code: 679740
     url: /works/679740/
+  - title: Virgin Revenger 4
+    author: crimson-carmine
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680162.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 680162
+    url: /works/680162/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "paizuri"
-work_count: 132
+work_count: 138
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -108,6 +108,23 @@ works:
     date: '2026-08-29'
     code: 511316
     url: /works/511316/
+  - title: "\uFEFF[Kuruto] Okaa-san de Sumasushikanakute | There's No Choice But Make\
+      \ Do With My Mom"
+    author: kuruto
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/512938.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 512938
+    url: /works/512938/
+  - title: Cool-Dere Kinpatsu Hitozuma Zenra Kaseifu san ga Yanda Boku ni Yasashiku
+      Shite Kureta Ohanashi 1| Naked Blonde Kuudere Housekeeper Wife Kindly Treats Broken
+      Ol' Me 01
+    author: kibi-anmitsu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/528308.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 528308
+    url: /works/528308/
   - title: Jimi Kyonyuu No Stalker Onna Ni Gokuhaku Saretanode Yarimakutte Mita Hanashi
       2 | I Was Confessed To By A Plain Busty Stalker Girl, So I Fucked Her Like Crazy
       2
@@ -504,6 +521,14 @@ works:
     date: '2026-04-12'
     code: 643524
     url: /works/643524/
+  - title: Soshite Kyou mo Moteasobareru 3 ~Minshuku Hen~ | And Today, Toyed With Again
+      3 ~Inn Edition~
+    author: erun
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/643785.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 643785
+    url: /works/643785/
   - title: Tantou Idol ga Totsuzen Heya ni Arawareta Ken | The Case Where My Assigned
       Idol Misuzu Suddenly Appeared in My Room
     author: unknown
@@ -699,6 +724,14 @@ works:
     date: '2026-08-18'
     code: 656319
     url: /works/656319/
+  - title: Mukashi Kara Otokoppoi Osananajimi mo Chanto Mesu ni Sodachimashita | Even
+      My Tomboy Childhood Friend Matured Into a Proper Woman
+    author: natsuzo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/656626.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 656626
+    url: /works/656626/
   - title: Akogare no Oppai wa Ane no Aji
     author: emine-kendama
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/657256.jpg
@@ -970,6 +1003,14 @@ works:
     date: '2026-09-09'
     code: 679066
     url: /works/679066/
+  - title: Soshite Kyou mo Moteasobareru 4 ~Yama Camp! Cosplay Hen~ | And Today, Toyed
+      With Again 4 ~Camping In The Mountains! Cosplay Edition~
+    author: erun
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679591.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 679591
+    url: /works/679591/
   - title: Kaa-san ga Mujikaku ni Yuuwaku Shite Kuru
     author: mattari-yufi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679634.jpg
@@ -981,7 +1022,7 @@ works:
       App
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679942.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-10'
     code: 679942
     url: /works/679942/
@@ -989,8 +1030,15 @@ works:
       A Gloomy Around-Forty Newhalf
     author: yuuki-konefu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679961.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-10'
     code: 679961
     url: /works/679961/
+  - title: Virgin Revenger 4
+    author: crimson-carmine
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680162.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 680162
+    url: /works/680162/
 ---

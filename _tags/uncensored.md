@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "uncensored"
-work_count: 80
+work_count: 81
 works:
   - title: Netemo Sametemo | Be it Sleeping or Awake
     author: takasugi-kou
@@ -108,7 +108,7 @@ works:
       in Front of My Husband's Eyes Vol. 1-4
     author: fight-fight-chiharu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/529791.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-10'
     code: 529791
     url: /works/529791/
@@ -265,7 +265,7 @@ works:
       On Was the Tip of My Dick Vol. 1-4
     author: hatokonro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/613838.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-10'
     code: 613838
     url: /works/613838/
@@ -279,7 +279,7 @@ works:
   - title: The NTR Massage Vol. 1-2
     author: kazutaro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/618088.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-10'
     code: 618088
     url: /works/618088/
@@ -461,6 +461,14 @@ works:
     date: '2026-09-07'
     code: 654638
     url: /works/654638/
+  - title: Coral no Megumi de Nyotaika Shita Senyuu to xxx Suru Hon | Blessings of the
+      Coral
+    author: ringo-club
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/656102.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 656102
+    url: /works/656102/
   - title: Zessan Haishinchuu Gibo Nikubenki Keikaku! Ch.1-5
     author: maki-daikichi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/656140.jpg

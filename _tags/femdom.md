@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "femdom"
-work_count: 93
+work_count: 94
 works:
   - title: Life with Married Women Just Like a Manga 2 - Ch. 1-5
     author: hidemaru
@@ -524,6 +524,14 @@ works:
     date: '2026-05-26'
     code: 652667
     url: /works/652667/
+  - title: Mukashi Kara Otokoppoi Osananajimi mo Chanto Mesu ni Sodachimashita | Even
+      My Tomboy Childhood Friend Matured Into a Proper Woman
+    author: natsuzo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/656626.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 656626
+    url: /works/656626/
   - title: Chubby Nurse
     author: herohero-tom
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/659643.jpg
@@ -664,7 +672,7 @@ works:
       App
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679942.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-10'
     code: 679942
     url: /works/679942/
@@ -672,7 +680,7 @@ works:
       A Gloomy Around-Forty Newhalf
     author: yuuki-konefu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679961.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-10'
     code: 679961
     url: /works/679961/

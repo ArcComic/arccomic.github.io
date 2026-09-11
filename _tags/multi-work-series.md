@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "multi-work series"
-work_count: 230
+work_count: 237
 works:
   - title: Oppai na Natsuyasumi 2 | The Summer Break of Boobs 2
     author: higashino-mikan
@@ -208,7 +208,7 @@ works:
   - title: Tanin ni Naru Kusuri 6 | Medicine to Become Another Person 6
     author: date
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/502197.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-10'
     code: 502197
     url: /works/502197/
@@ -268,7 +268,7 @@ works:
       ch.1-3
     author: sisei-tokei
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/511803.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-10'
     code: 511803
     url: /works/511803/
@@ -322,7 +322,7 @@ works:
       in Front of My Husband's Eyes Vol. 1-4
     author: fight-fight-chiharu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/529791.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-10'
     code: 529791
     url: /works/529791/
@@ -442,10 +442,17 @@ works:
     date: '2026-04-13'
     code: 544993
     url: /works/544993/
+  - title: Soshite Kyou mo Moteasobareru
+    author: erun
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/545896.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 545896
+    url: /works/545896/
   - title: The Share House’s Secret Rule
     author: ouma
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/546662.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-10'
     code: 546662
     url: /works/546662/
@@ -527,7 +534,7 @@ works:
       Taking A Shower? 5-6
     author: kazutaro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/574158.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-10'
     code: 574158
     url: /works/574158/
@@ -721,7 +728,7 @@ works:
       On Was the Tip of My Dick Vol. 1-4
     author: hatokonro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/613838.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-10'
     code: 613838
     url: /works/613838/
@@ -757,7 +764,7 @@ works:
   - title: The NTR Massage Vol. 1-2
     author: kazutaro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/618088.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-10'
     code: 618088
     url: /works/618088/
@@ -769,6 +776,13 @@ works:
     date: '2026-05-04'
     code: 621185
     url: /works/621185/
+  - title: Hikikomori Kyousei Shisetsu Hakutou no Ie
+    author: shine-nabyss
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/626220.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 626220
+    url: /works/626220/
   - title: The Story of How My Brain Was Destroyed After Dating Someone Who Would Grant
       Any Request
     author: jakky
@@ -1000,6 +1014,14 @@ works:
     date: '2026-04-27'
     code: 643592
     url: /works/643592/
+  - title: Soshite Kyou mo Moteasobareru 3 ~Minshuku Hen~ | And Today, Toyed With Again
+      3 ~Inn Edition~
+    author: erun
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/643785.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 643785
+    url: /works/643785/
   - title: PowerHara Onna Joushi to Shachiku-kun 4
     author: kurosu-gatari
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/645264.jpg
@@ -1688,6 +1710,14 @@ works:
     date: '2026-09-07'
     code: 679230
     url: /works/679230/
+  - title: Soshite Kyou mo Moteasobareru 4 ~Yama Camp! Cosplay Hen~ | And Today, Toyed
+      With Again 4 ~Camping In The Mountains! Cosplay Edition~
+    author: erun
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679591.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 679591
+    url: /works/679591/
   - title: Shokkaku Shoushitsu Joshi 2 - "Ikite Iru Uchi ni... Ichido no Fureai ja Tarinai"
     author: rongchuhan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679694.jpg
@@ -1703,26 +1733,47 @@ works:
     date: '2026-09-09'
     code: 679740
     url: /works/679740/
+  - title: Soredemo Ashita mo Kareshi ga ii - Chapter 1-16
+    author: miike-kei
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679935.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 679935
+    url: /works/679935/
   - title: Downer-kei Arafour Newhalf to Shinkon-san-gokko | Playing Newlyweds With
       A Gloomy Around-Forty Newhalf
     author: yuuki-konefu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679961.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-10'
     code: 679961
     url: /works/679961/
   - title: Kaneda did nothing wrong Vol.1
     author: haruharudo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679977.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-09-10'
     code: 679977
     url: /works/679977/
   - title: Succubus Club e Youkoso Soushuuhen | Welcome To The Succubus Sorority After
     author: nomu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680088.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-10'
     code: 680088
     url: /works/680088/
+  - title: Virgin Revenger 4
+    author: crimson-carmine
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680162.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 680162
+    url: /works/680162/
+  - title: It's not Just Adultery - Chapter 1-16
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680219.jpg
+    rating: 0.0
+    date: '2026-09-10'
+    code: 680219
+    url: /works/680219/
 ---

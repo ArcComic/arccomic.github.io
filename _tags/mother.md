@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "mother"
-work_count: 113
+work_count: 116
 works:
   - title: Netemo Sametemo | Be it Sleeping or Awake
     author: takasugi-kou
@@ -64,7 +64,7 @@ works:
       1~
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/420425.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-10'
     code: 420425
     url: /works/420425/
@@ -186,6 +186,14 @@ works:
     date: '2026-08-25'
     code: 512473
     url: /works/512473/
+  - title: "\uFEFF[Kuruto] Okaa-san de Sumasushikanakute | There's No Choice But Make\
+      \ Do With My Mom"
+    author: kuruto
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/512938.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 512938
+    url: /works/512938/
   - title: Mukashi no Uwaki Aite no Ko ga Jitsu wa Watashi no Musuko no Doukyuusei de
       2
     author: shomu
@@ -334,6 +342,14 @@ works:
     date: '2026-04-15'
     code: 577221
     url: /works/577221/
+  - title: 'Kaa-san wa Kanbanmusume Nikuyoku ni Kogareta Boshi no Niya | My Mother -
+      The Poster Girl: Two Nights of Forbidden Passion between Mother and Son'
+    author: murabito-c
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/577454.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 577454
+    url: /works/577454/
   - title: Boku no Kaa-chan ga Hikikomori Neet Debu Aniki no Seishori Onaho ni Natteita
       Hanashi | My Mother is My Fat Shut-in Older NEET Brother's Sex Relief Onahole
     author: tarobaumu
@@ -401,6 +417,13 @@ works:
     date: '2026-08-25'
     code: 608648
     url: /works/608648/
+  - title: Kedamono no Ko wa Kedamono | The Child of a Beast is a Beast
+    author: karashina-en
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/612063.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 612063
+    url: /works/612063/
   - title: Dasuru Haha Musuko ni Nandomo Irerarete
     author: daidai-shikibu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/612083.jpg

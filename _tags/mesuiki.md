@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "mesuiki"
-work_count: 8
+work_count: 9
 works:
   - title: 'GNO: Girl''s Night Out - Issue 02'
     author: uselessbegging
@@ -67,4 +67,11 @@ works:
     date: '2026-08-22'
     code: 674763
     url: /works/674763/
+  - title: Otokonoko Gal, Kaeriuchi ni Au | Turning The Tables On A Femboy
+    author: mine-thrower
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679579.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 679579
+    url: /works/679579/
 ---

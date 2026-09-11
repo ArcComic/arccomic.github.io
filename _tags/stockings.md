@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "stockings"
-work_count: 136
+work_count: 140
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -131,6 +131,13 @@ works:
     date: '2026-04-19'
     code: 408819
     url: /works/408819/
+  - title: sequence irekaeru futari no karada
+    author: iwashita
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/414040.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 414040
+    url: /works/414040/
   - title: Ashizeme Kanojo _0 | girlfriend who likes to torture with her feet _0
     author: kaoinshou-zero
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/430672.jpg
@@ -689,6 +696,14 @@ works:
     date: '2026-05-27'
     code: 652801
     url: /works/652801/
+  - title: Te o Dashitara Tsumu Bitch Onna to Suru Sex ga Ichiban Kimochi Ii!! | Sex
+      with a Toxic Bitch who will Ruin Your Life is the Absolute Best!!
+    author: alpha-beta
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/656460.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 656460
+    url: /works/656460/
   - title: Josou Gyakunan Debusen Ketsuhame Tokoroten
     author: bonske
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/656753.jpg
@@ -988,6 +1003,21 @@ works:
     date: '2026-09-08'
     code: 679501
     url: /works/679501/
+  - title: Otokonoko Gal, Kaeriuchi ni Au | Turning The Tables On A Femboy
+    author: mine-thrower
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679579.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 679579
+    url: /works/679579/
+  - title: Soshite Kyou mo Moteasobareru 4 ~Yama Camp! Cosplay Hen~ | And Today, Toyed
+      With Again 4 ~Camping In The Mountains! Cosplay Edition~
+    author: erun
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679591.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 679591
+    url: /works/679591/
   - title: nannal - Hahaoya Shikkaku ーMama wa Benjoー
     author: nannal
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679774.jpg

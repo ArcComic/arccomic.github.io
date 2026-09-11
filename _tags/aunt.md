@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "aunt"
-work_count: 10
+work_count: 11
 works:
   - title: Oppai na Natsuyasumi 2 | The Summer Break of Boobs 2
     author: higashino-mikan
@@ -47,6 +47,13 @@ works:
     date: '2026-07-16'
     code: 561787
     url: /works/561787/
+  - title: Yuuhan no Ato wa Oba-chan to... | After Dinner, My Aunt and I...
+    author: natsuzo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/594462.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 594462
+    url: /works/594462/
   - title: Ottori Itome no Oba o Odoshite Hamete Iinari Onaho-ka Keikaku | Gentle Slit-Eyed
       Aunty Blackmail & Obedient Fuckhole Training Project
     author: ginen

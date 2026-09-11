@@ -13,7 +13,7 @@ works:
   - title: Uchi, Chinko Tsuiterunsu kedo Iissu ka? | I have a dick, is that okay?
     author: yuuki-konefu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/669748.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-10'
     code: 669748
     url: /works/669748/
@@ -21,7 +21,7 @@ works:
       A Gloomy Around-Forty Newhalf
     author: yuuki-konefu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679961.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-10'
     code: 679961
     url: /works/679961/

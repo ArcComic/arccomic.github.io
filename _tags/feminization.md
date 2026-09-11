@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "feminization"
-work_count: 8
+work_count: 9
 works:
   - title: Mimikyu Myth 2
     author: meowwithme
@@ -62,4 +62,11 @@ works:
     date: '2026-08-23'
     code: 674960
     url: /works/674960/
+  - title: Josou Kousei Class no Furyou Akugaki Danshi Seito-kun Josou Mesu Ochi Program
+    author: nyakkuru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680171.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 680171
+    url: /works/680171/
 ---

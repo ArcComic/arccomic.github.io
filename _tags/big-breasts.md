@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big breasts"
-work_count: 638
+work_count: 652
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -303,6 +303,13 @@ works:
     date: '2026-09-06'
     code: 396089
     url: /works/396089/
+  - title: Giragira no Beach
+    author: shimantogawa
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/397251.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 397251
+    url: /works/397251/
   - title: Yurikago
     author: neko-samurai
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/398305.jpg
@@ -374,7 +381,7 @@ works:
       1~
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/420425.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-10'
     code: 420425
     url: /works/420425/
@@ -765,7 +772,7 @@ works:
       ch.1-3
     author: sisei-tokei
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/511803.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-10'
     code: 511803
     url: /works/511803/
@@ -875,6 +882,15 @@ works:
     date: '2026-04-23'
     code: 526024
     url: /works/526024/
+  - title: Cool-Dere Kinpatsu Hitozuma Zenra Kaseifu san ga Yanda Boku ni Yasashiku
+      Shite Kureta Ohanashi 1| Naked Blonde Kuudere Housekeeper Wife Kindly Treats Broken
+      Ol' Me 01
+    author: kibi-anmitsu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/528308.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 528308
+    url: /works/528308/
   - title: Kawari wa Okaa-san | The Stand-in is Her Mom
     author: etuzan-jakusui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/528470.jpg
@@ -1088,6 +1104,13 @@ works:
     date: '2026-04-13'
     code: 544993
     url: /works/544993/
+  - title: Soshite Kyou mo Moteasobareru
+    author: erun
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/545896.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 545896
+    url: /works/545896/
   - title: Wagaya no Housemaid Bridget Sei no Gohoushi ~Danro Souji kara Kozukuri made~
       /  My Housemaid Bridget's Sexual Service ~ Everything From Fireplace Cleaning,
       To Babymaking
@@ -1316,7 +1339,7 @@ works:
       Taking A Shower? 5-6
     author: kazutaro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/574158.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-10'
     code: 574158
     url: /works/574158/
@@ -1350,6 +1373,14 @@ works:
     date: '2026-04-15'
     code: 577221
     url: /works/577221/
+  - title: 'Kaa-san wa Kanbanmusume Nikuyoku ni Kogareta Boshi no Niya | My Mother -
+      The Poster Girl: Two Nights of Forbidden Passion between Mother and Son'
+    author: murabito-c
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/577454.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 577454
+    url: /works/577454/
   - title: Keep Your Eyes
     author: ouji-hiyoko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/578020.jpg
@@ -1609,6 +1640,13 @@ works:
     date: '2026-09-06'
     code: 594382
     url: /works/594382/
+  - title: Yuuhan no Ato wa Oba-chan to... | After Dinner, My Aunt and I...
+    author: natsuzo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/594462.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 594462
+    url: /works/594462/
   - title: Nagachichi Haha no Naedoko
     author: ginen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/595108.jpg
@@ -1759,6 +1797,13 @@ works:
     date: '2026-08-25'
     code: 611978
     url: /works/611978/
+  - title: Kedamono no Ko wa Kedamono | The Child of a Beast is a Beast
+    author: karashina-en
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/612063.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 612063
+    url: /works/612063/
   - title: Dasuru Haha Musuko ni Nandomo Irerarete
     author: daidai-shikibu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/612083.jpg
@@ -1792,7 +1837,7 @@ works:
       On Was the Tip of My Dick Vol. 1-4
     author: hatokonro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/613838.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-10'
     code: 613838
     url: /works/613838/
@@ -1850,7 +1895,7 @@ works:
   - title: The NTR Massage Vol. 1-2
     author: kazutaro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/618088.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-10'
     code: 618088
     url: /works/618088/
@@ -2413,6 +2458,14 @@ works:
     date: '2026-04-13'
     code: 643633
     url: /works/643633/
+  - title: Soshite Kyou mo Moteasobareru 3 ~Minshuku Hen~ | And Today, Toyed With Again
+      3 ~Inn Edition~
+    author: erun
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/643785.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 643785
+    url: /works/643785/
   - title: Tantou Idol ga Totsuzen Heya ni Arawareta Ken | The Case Where My Assigned
       Idol Misuzu Suddenly Appeared in My Room
     author: unknown
@@ -2599,7 +2652,7 @@ works:
       Gonda Gokichi
     author: nantomo-san
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/645814.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-10'
     code: 645814
     url: /works/645814/
@@ -3209,6 +3262,14 @@ works:
     date: '2026-08-21'
     code: 656034
     url: /works/656034/
+  - title: Coral no Megumi de Nyotaika Shita Senyuu to xxx Suru Hon | Blessings of the
+      Coral
+    author: ringo-club
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/656102.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 656102
+    url: /works/656102/
   - title: Zessan Haishinchuu Gibo Nikubenki Keikaku! Ch.1-5
     author: maki-daikichi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/656140.jpg
@@ -3251,6 +3312,14 @@ works:
     date: '2026-07-08'
     code: 656419
     url: /works/656419/
+  - title: Te o Dashitara Tsumu Bitch Onna to Suru Sex ga Ichiban Kimochi Ii!! | Sex
+      with a Toxic Bitch who will Ruin Your Life is the Absolute Best!!
+    author: alpha-beta
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/656460.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 656460
+    url: /works/656460/
   - title: Kaa-san o Oshitaoshita Hi
     author: daidai-shikibu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/656615.jpg
@@ -3258,6 +3327,14 @@ works:
     date: '2026-08-21'
     code: 656615
     url: /works/656615/
+  - title: Mukashi Kara Otokoppoi Osananajimi mo Chanto Mesu ni Sodachimashita | Even
+      My Tomboy Childhood Friend Matured Into a Proper Woman
+    author: natsuzo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/656626.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 656626
+    url: /works/656626/
   - title: Hirusagari no Otetsudai
     author: mogiki-hayami
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/656686.jpg
@@ -4553,6 +4630,21 @@ works:
     date: '2026-09-08'
     code: 679504
     url: /works/679504/
+  - title: Soshite Kyou mo Moteasobareru 4 ~Yama Camp! Cosplay Hen~ | And Today, Toyed
+      With Again 4 ~Camping In The Mountains! Cosplay Edition~
+    author: erun
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679591.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 679591
+    url: /works/679591/
+  - title: Kamisama... Kodomo o kudasai | God... please give me a child
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679596.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 679596
+    url: /works/679596/
   - title: Lazy First Lovemaking of the New Year
     author: takeshisu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679604.jpg
@@ -4674,7 +4766,7 @@ works:
       App
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679942.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-10'
     code: 679942
     url: /works/679942/
@@ -4682,7 +4774,7 @@ works:
       ~Homecoming~
     author: pody
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679958.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-10'
     code: 679958
     url: /works/679958/
@@ -4690,24 +4782,38 @@ works:
       A Gloomy Around-Forty Newhalf
     author: yuuki-konefu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679961.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-10'
     code: 679961
     url: /works/679961/
   - title: Kaneda did nothing wrong Vol.1
     author: haruharudo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679977.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-09-10'
     code: 679977
     url: /works/679977/
   - title: Gal-kei Joshi ni Kakikaerareta Ore | Rewritten as a Gyaru Girl
     author: nomu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679992.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-10'
     code: 679992
     url: /works/679992/
+  - title: Virgin Revenger 4
+    author: crimson-carmine
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680162.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 680162
+    url: /works/680162/
+  - title: Yariman no Namaiki Kouhai to Tsukiau made no Hanashi.
+    author: tokyo-gunjo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680187.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 680187
+    url: /works/680187/
   - title: Hottokenaino
     author: hara-shigeyuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/77864.jpg

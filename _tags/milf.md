@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "milf"
-work_count: 287
+work_count: 292
 works:
   - title: Life with Married Women Just Like a Manga 2 - Ch. 1-5
     author: hidemaru
@@ -13,7 +13,7 @@ works:
   - title: Natsu Jiru Ch. 1-2
     author: sena-youtarou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/119757.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-10'
     code: 119757
     url: /works/119757/
@@ -325,7 +325,7 @@ works:
       1~
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/420425.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-10'
     code: 420425
     url: /works/420425/
@@ -599,6 +599,14 @@ works:
     date: '2026-08-25'
     code: 512473
     url: /works/512473/
+  - title: "\uFEFF[Kuruto] Okaa-san de Sumasushikanakute | There's No Choice But Make\
+      \ Do With My Mom"
+    author: kuruto
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/512938.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 512938
+    url: /works/512938/
   - title: Nee, Shite Zenpen
     author: chiba-toshirou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/515857.jpg
@@ -665,6 +673,15 @@ works:
     date: '2026-04-16'
     code: 527171
     url: /works/527171/
+  - title: Cool-Dere Kinpatsu Hitozuma Zenra Kaseifu san ga Yanda Boku ni Yasashiku
+      Shite Kureta Ohanashi 1| Naked Blonde Kuudere Housekeeper Wife Kindly Treats Broken
+      Ol' Me 01
+    author: kibi-anmitsu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/528308.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 528308
+    url: /works/528308/
   - title: Kawari wa Okaa-san | The Stand-in is Her Mom
     author: etuzan-jakusui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/528470.jpg
@@ -959,6 +976,14 @@ works:
     date: '2026-04-15'
     code: 577221
     url: /works/577221/
+  - title: 'Kaa-san wa Kanbanmusume Nikuyoku ni Kogareta Boshi no Niya | My Mother -
+      The Poster Girl: Two Nights of Forbidden Passion between Mother and Son'
+    author: murabito-c
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/577454.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 577454
+    url: /works/577454/
   - title: Boku no Kaa-chan ga Hikikomori Neet Debu Aniki no Seishori Onaho ni Natteita
       Hanashi | My Mother is My Fat Shut-in Older NEET Brother's Sex Relief Onahole
     author: tarobaumu
@@ -1091,6 +1116,13 @@ works:
     date: '2026-09-06'
     code: 594382
     url: /works/594382/
+  - title: Yuuhan no Ato wa Oba-chan to... | After Dinner, My Aunt and I...
+    author: natsuzo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/594462.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 594462
+    url: /works/594462/
   - title: Nagachichi Haha no Naedoko
     author: ginen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/595108.jpg
@@ -1142,6 +1174,13 @@ works:
     date: '2026-08-25'
     code: 611978
     url: /works/611978/
+  - title: Kedamono no Ko wa Kedamono | The Child of a Beast is a Beast
+    author: karashina-en
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/612063.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 612063
+    url: /works/612063/
   - title: Dasuru Haha Musuko ni Nandomo Irerarete
     author: daidai-shikibu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/612083.jpg

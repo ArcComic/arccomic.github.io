@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "breast expansion"
-work_count: 4
+work_count: 5
 works:
   - title: How I, a fighting gamer, became the heroine of a cosplay AV
     author: unknown
@@ -33,4 +33,11 @@ works:
     date: '2026-08-23'
     code: 668880
     url: /works/668880/
+  - title: Josou Kousei Class no Furyou Akugaki Danshi Seito-kun Josou Mesu Ochi Program
+    author: nyakkuru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680171.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 680171
+    url: /works/680171/
 ---

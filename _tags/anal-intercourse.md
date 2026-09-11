@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "anal intercourse"
-work_count: 51
+work_count: 55
 works:
   - title: Bitch Mama no Kekkon Riyuu
     author: aoyama-akira
@@ -135,6 +135,14 @@ works:
     date: '2026-08-24'
     code: 642586
     url: /works/642586/
+  - title: Soshite Kyou mo Moteasobareru 3 ~Minshuku Hen~ | And Today, Toyed With Again
+      3 ~Inn Edition~
+    author: erun
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/643785.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 643785
+    url: /works/643785/
   - title: PowerHara Onna Joushi to Shachiku-kun 4
     author: kurosu-gatari
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/645264.jpg
@@ -303,7 +311,7 @@ works:
   - title: Uchi, Chinko Tsuiterunsu kedo Iissu ka? | I have a dick, is that okay?
     author: yuuki-konefu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/669748.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-10'
     code: 669748
     url: /works/669748/
@@ -372,12 +380,34 @@ works:
     date: '2026-08-31'
     code: 676658
     url: /works/676658/
+  - title: Otokonoko Gal, Kaeriuchi ni Au | Turning The Tables On A Femboy
+    author: mine-thrower
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679579.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 679579
+    url: /works/679579/
+  - title: Soshite Kyou mo Moteasobareru 4 ~Yama Camp! Cosplay Hen~ | And Today, Toyed
+      With Again 4 ~Camping In The Mountains! Cosplay Edition~
+    author: erun
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679591.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 679591
+    url: /works/679591/
   - title: Downer-kei Arafour Newhalf to Shinkon-san-gokko | Playing Newlyweds With
       A Gloomy Around-Forty Newhalf
     author: yuuki-konefu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679961.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-10'
     code: 679961
     url: /works/679961/
+  - title: Josou Kousei Class no Furyou Akugaki Danshi Seito-kun Josou Mesu Ochi Program
+    author: nyakkuru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680171.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 680171
+    url: /works/680171/
 ---

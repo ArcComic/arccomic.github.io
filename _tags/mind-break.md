@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "mind break"
-work_count: 31
+work_count: 33
 works:
   - title: Ayami Hypno
     author: yasuhiro
@@ -69,6 +69,13 @@ works:
     date: '2026-02-25'
     code: 543086
     url: /works/543086/
+  - title: Soshite Kyou mo Moteasobareru
+    author: erun
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/545896.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 545896
+    url: /works/545896/
   - title: Tawawa de Akarui Yakyuubu Manager ga Inshitsu na Kyoushi no Wana ni... Kanketsuhen
     author: ohkura-kazuya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/566052.jpg
@@ -218,6 +225,13 @@ works:
     date: '2026-08-23'
     code: 675048
     url: /works/675048/
+  - title: Kamisama... Kodomo o kudasai | God... please give me a child
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679596.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 679596
+    url: /works/679596/
   - title: nannal - Hahaoya Shikkaku ーMama wa Benjoー
     author: nannal
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679774.jpg

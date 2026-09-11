@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big areolae"
-work_count: 55
+work_count: 57
 works:
   - title: Kanojo no Kawaii Mieppari | My Cute Gyaru Girlfriend Is a Total Poser
     author: buta
@@ -26,6 +26,15 @@ works:
     date: '2026-08-25'
     code: 518387
     url: /works/518387/
+  - title: Cool-Dere Kinpatsu Hitozuma Zenra Kaseifu san ga Yanda Boku ni Yasashiku
+      Shite Kureta Ohanashi 1| Naked Blonde Kuudere Housekeeper Wife Kindly Treats Broken
+      Ol' Me 01
+    author: kibi-anmitsu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/528308.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 528308
+    url: /works/528308/
   - title: Rossia kei Hitozuma to Doutei kun no Himitsu no Kankei
     author: kibi-anmitsu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/530293.jpg
@@ -282,6 +291,14 @@ works:
     date: '2026-08-18'
     code: 656319
     url: /works/656319/
+  - title: Te o Dashitara Tsumu Bitch Onna to Suru Sex ga Ichiban Kimochi Ii!! | Sex
+      with a Toxic Bitch who will Ruin Your Life is the Absolute Best!!
+    author: alpha-beta
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/656460.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 656460
+    url: /works/656460/
   - title: Ane to Otouto wa 30-Nichi go ni Sex Suru. | The Big Sister and Her Little
       Brother Will Have Sex in 30 Days
     author: shamidou-maichimonji

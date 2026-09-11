@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "urination"
-work_count: 33
+work_count: 34
 works:
   - title: Boku no Kazoku o Sarashimasu Ch. 3
     author: tanaka-aji
@@ -242,6 +242,13 @@ works:
     date: '2026-08-21'
     code: 674701
     url: /works/674701/
+  - title: Shiofuki wa Omorashi ni Hairimasu ka? | Does squirting count as wetting yourself?
+    author: hoshina-meito
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679599.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 679599
+    url: /works/679599/
   - title: nannal - Hahaoya Shikkaku ーMama wa Benjoー
     author: nannal
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679774.jpg

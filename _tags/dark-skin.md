@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "dark skin"
-work_count: 86
+work_count: 88
 works:
   - title: GalPa!
     author: sakagami-umi
@@ -486,6 +486,14 @@ works:
     date: '2026-05-26'
     code: 652639
     url: /works/652639/
+  - title: Mukashi Kara Otokoppoi Osananajimi mo Chanto Mesu ni Sodachimashita | Even
+      My Tomboy Childhood Friend Matured Into a Proper Woman
+    author: natsuzo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/656626.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 656626
+    url: /works/656626/
   - title: Meshibe no Sakihokoru Shima de - On the island where pistils are in full
       bloom
     author: saigado-ishoku-dougen
@@ -618,6 +626,13 @@ works:
     date: '2026-09-08'
     code: 679358
     url: /works/679358/
+  - title: Kamisama... Kodomo o kudasai | God... please give me a child
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679596.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 679596
+    url: /works/679596/
   - title: The Night She Trembled-The Reason Ichika Gave Her Body to a Scumbag Junior~
       Part One
     author: futamine-kobito

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "blindfold"
-work_count: 20
+work_count: 22
 works:
   - title: Okki na Saori-chan wa Bukiyou ni Eroi
     author: aramaki-echizen
@@ -61,6 +61,13 @@ works:
     date: '2026-05-04'
     code: 621185
     url: /works/621185/
+  - title: Hikikomori Kyousei Shisetsu Hakutou no Ie
+    author: shine-nabyss
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/626220.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 626220
+    url: /works/626220/
   - title: Koukan Nikki ー School Whore Diaries
     author: henkuma
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/634328.jpg
@@ -141,6 +148,13 @@ works:
     date: '2026-08-22'
     code: 674863
     url: /works/674863/
+  - title: Virgin Revenger 4
+    author: crimson-carmine
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680162.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 680162
+    url: /works/680162/
   - title: Inin Keiyaku | Lewd Pregnancy Contract
     author: yoshiura-kazuya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/83595.jpg

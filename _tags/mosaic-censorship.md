@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "mosaic censorship"
-work_count: 199
+work_count: 204
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -361,6 +361,14 @@ works:
     date: '2026-08-18'
     code: 511662
     url: /works/511662/
+  - title: "\uFEFF[Kuruto] Okaa-san de Sumasushikanakute | There's No Choice But Make\
+      \ Do With My Mom"
+    author: kuruto
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/512938.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 512938
+    url: /works/512938/
   - title: Midara na Sensei wa Kirai desu ka? ~Sakura Aimi no Baai~ | Do you hate lewd
       teachers? ~The Case of Sakura Aimi~
     author: macho
@@ -412,6 +420,15 @@ works:
     date: '2026-04-23'
     code: 526024
     url: /works/526024/
+  - title: Cool-Dere Kinpatsu Hitozuma Zenra Kaseifu san ga Yanda Boku ni Yasashiku
+      Shite Kureta Ohanashi 1| Naked Blonde Kuudere Housekeeper Wife Kindly Treats Broken
+      Ol' Me 01
+    author: kibi-anmitsu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/528308.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 528308
+    url: /works/528308/
   - title: Shut-less
     author: mr-hokke
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/531966.jpg
@@ -463,6 +480,13 @@ works:
     date: '2026-07-17'
     code: 545823
     url: /works/545823/
+  - title: Soshite Kyou mo Moteasobareru
+    author: erun
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/545896.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 545896
+    url: /works/545896/
   - title: Ero Cos OL to Jiraikei Joshi ~Iki Nuresaseru Moto Kare no Amai Koshi Zukai~
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/548852.jpg
@@ -548,6 +572,14 @@ works:
     date: '2026-04-15'
     code: 577221
     url: /works/577221/
+  - title: 'Kaa-san wa Kanbanmusume Nikuyoku ni Kogareta Boshi no Niya | My Mother -
+      The Poster Girl: Two Nights of Forbidden Passion between Mother and Son'
+    author: murabito-c
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/577454.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 577454
+    url: /works/577454/
   - title: Boku no Kaa-chan 2 | My Mom 2
     author: cammy
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/579339.jpg
@@ -1405,6 +1437,13 @@ works:
     date: '2026-08-28'
     code: 676183
     url: /works/676183/
+  - title: Shiofuki wa Omorashi ni Hairimasu ka? | Does squirting count as wetting yourself?
+    author: hoshina-meito
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679599.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 679599
+    url: /works/679599/
   - title: Lazy First Lovemaking of the New Year
     author: takeshisu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679604.jpg
@@ -1437,21 +1476,21 @@ works:
   - title: Kaneda did nothing wrong Vol.1
     author: haruharudo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679977.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-09-10'
     code: 679977
     url: /works/679977/
   - title: Gal-kei Joshi ni Kakikaerareta Ore | Rewritten as a Gyaru Girl
     author: nomu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679992.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-10'
     code: 679992
     url: /works/679992/
   - title: Succubus Club e Youkoso Soushuuhen | Welcome To The Succubus Sorority After
     author: nomu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680088.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-10'
     code: 680088
     url: /works/680088/

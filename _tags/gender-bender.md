@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "gender bender"
-work_count: 20
+work_count: 22
 works:
   - title: Gekkoutou no Yume - Nyotaika Douwa ~Danshi Kinsei no Tou~
     author: mugen-no-sudadokei
@@ -81,6 +81,14 @@ works:
     date: '2026-05-10'
     code: 649111
     url: /works/649111/
+  - title: Coral no Megumi de Nyotaika Shita Senyuu to xxx Suru Hon | Blessings of the
+      Coral
+    author: ringo-club
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/656102.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 656102
+    url: /works/656102/
   - title: How the Gloomy Me Took Charge of my Own Life by Becoming a Hostess
     author: shikabanekamo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/656419.jpg
@@ -145,4 +153,11 @@ works:
     date: '2026-08-31'
     code: 677230
     url: /works/677230/
+  - title: Shiofuki wa Omorashi ni Hairimasu ka? | Does squirting count as wetting yourself?
+    author: hoshina-meito
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679599.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 679599
+    url: /works/679599/
 ---

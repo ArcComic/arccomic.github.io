@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bodysuit"
-work_count: 3
+work_count: 4
 works:
   - title: Venom Invasion VII 【Part 1】
     author: blackftos
@@ -10,6 +10,14 @@ works:
     date: '2026-05-03'
     code: 647563
     url: /works/647563/
+  - title: Coral no Megumi de Nyotaika Shita Senyuu to xxx Suru Hon | Blessings of the
+      Coral
+    author: ringo-club
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/656102.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 656102
+    url: /works/656102/
   - title: Ichiryuu Sennyuu Sousakan Haiboku | Ryosen Infiltration Agent Defeated
     author: bloiler-yachou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/675048.jpg

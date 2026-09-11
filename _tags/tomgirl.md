@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "tomgirl"
-work_count: 12
+work_count: 15
 works:
   - title: Hayato-sensei no Mesu-ka Karute Daigaku-hen | Dr. Hayato's Feminization Medical
       Record ~University Edition~
@@ -83,12 +83,33 @@ works:
     date: '2026-08-31'
     code: 677247
     url: /works/677247/
+  - title: Otokonoko Gal, Kaeriuchi ni Au | Turning The Tables On A Femboy
+    author: mine-thrower
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679579.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 679579
+    url: /works/679579/
   - title: Downer-kei Arafour Newhalf to Shinkon-san-gokko | Playing Newlyweds With
       A Gloomy Around-Forty Newhalf
     author: yuuki-konefu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679961.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-10'
     code: 679961
     url: /works/679961/
+  - title: My Femboy Boyfriend has a Fat Fetish
+    author: rin
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680163.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 680163
+    url: /works/680163/
+  - title: Josou Kousei Class no Furyou Akugaki Danshi Seito-kun Josou Mesu Ochi Program
+    author: nyakkuru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680171.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 680171
+    url: /works/680171/
 ---

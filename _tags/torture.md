@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "torture"
-work_count: 2
+work_count: 3
 works:
   - title: 'Ace Attorney: No Escape'
     author: mr-kurz
@@ -10,6 +10,13 @@ works:
     date: '2026-03-07'
     code: 620818
     url: /works/620818/
+  - title: Hikikomori Kyousei Shisetsu Hakutou no Ie
+    author: shine-nabyss
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/626220.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 626220
+    url: /works/626220/
   - title: DOLLS 2
     author: crimson-carmine
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/644707.jpg

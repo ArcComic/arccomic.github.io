@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "old man"
-work_count: 36
+work_count: 38
 works:
   - title: Adoration
     author: kishizuka-kenji
@@ -24,6 +24,13 @@ works:
     date: '2026-02-26'
     code: 179531
     url: /works/179531/
+  - title: sequence irekaeru futari no karada
+    author: iwashita
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/414040.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 414040
+    url: /works/414040/
   - title: Hikage | Shade
     author: syuuen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/429669.jpg
@@ -264,4 +271,11 @@ works:
     date: '2026-09-07'
     code: 679197
     url: /works/679197/
+  - title: Kamisama... Kodomo o kudasai | God... please give me a child
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679596.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 679596
+    url: /works/679596/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "masturbation"
-work_count: 80
+work_count: 83
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -74,6 +74,13 @@ works:
     date: '2026-04-19'
     code: 387637
     url: /works/387637/
+  - title: sequence irekaeru futari no karada
+    author: iwashita
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/414040.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 414040
+    url: /works/414040/
   - title: Seiten no Hekireki | TS Thunderclap
     author: regdic
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/415057.jpg
@@ -93,7 +100,7 @@ works:
       1~
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/420425.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-10'
     code: 420425
     url: /works/420425/
@@ -116,7 +123,7 @@ works:
   - title: Tanin ni Naru Kusuri 6 | Medicine to Become Another Person 6
     author: date
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/502197.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-10'
     code: 502197
     url: /works/502197/
@@ -271,6 +278,13 @@ works:
     date: '2026-05-07'
     code: 596598
     url: /works/596598/
+  - title: Kedamono no Ko wa Kedamono | The Child of a Beast is a Beast
+    author: karashina-en
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/612063.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 612063
+    url: /works/612063/
   - title: Kawaisugiru Tomodachi no Okaa-san to Kossori Tsukiacchatta Hanashi | I Secretly
       Dated My Friend's Cute Mother
     author: yuriko-club
@@ -602,4 +616,11 @@ works:
     date: '2026-09-09'
     code: 679890
     url: /works/679890/
+  - title: Yariman no Namaiki Kouhai to Tsukiau made no Hanashi.
+    author: tokyo-gunjo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680187.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 680187
+    url: /works/680187/
 ---

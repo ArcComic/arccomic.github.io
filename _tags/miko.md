@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "miko"
-work_count: 3
+work_count: 4
 works:
   - title: Igyou Koubi Kairaku Jigoku 1 + 2
     author: allegro
@@ -24,4 +24,11 @@ works:
     date: '2026-08-28'
     code: 676149
     url: /works/676149/
+  - title: Kamisama... Kodomo o kudasai | God... please give me a child
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679596.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 679596
+    url: /works/679596/
 ---

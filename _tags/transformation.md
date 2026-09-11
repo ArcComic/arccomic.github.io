@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "transformation"
-work_count: 6
+work_count: 7
 works:
+  - title: sequence irekaeru futari no karada
+    author: iwashita
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/414040.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 414040
+    url: /works/414040/
   - title: Seiten no Hekireki | TS Thunderclap
     author: regdic
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/415057.jpg

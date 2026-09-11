@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "orgasm denial"
-work_count: 7
+work_count: 8
 works:
   - title: Ayami Hypno
     author: yasuhiro
@@ -49,6 +49,14 @@ works:
     date: '2026-05-03'
     code: 647608
     url: /works/647608/
+  - title: Mukashi Kara Otokoppoi Osananajimi mo Chanto Mesu ni Sodachimashita | Even
+      My Tomboy Childhood Friend Matured Into a Proper Woman
+    author: natsuzo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/656626.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 656626
+    url: /works/656626/
   - title: Ketsusenryaku | The Ass Strategy
     author: ariga-tou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662370.jpg

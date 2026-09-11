@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "ssbbw"
-work_count: 3
+work_count: 4
 works:
   - title: Aoba's Weight Gain
     author: habutton
@@ -24,4 +24,11 @@ works:
     date: '2026-09-08'
     code: 659643
     url: /works/659643/
+  - title: My Femboy Boyfriend has a Fat Fetish
+    author: rin
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680163.jpg
+    rating: 0.0
+    date: '2026-09-11'
+    code: 680163
+    url: /works/680163/
 ---
