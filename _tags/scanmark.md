@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "scanmark"
-work_count: 125
+work_count: 128
 works:
   - title: NTR Anniversary + ) [Syukurin] Mitsuha ~Netorare~ (Kimi no Na wa.) [English]
       [Colorized] by Mikaku
@@ -63,6 +63,13 @@ works:
     date: '2026-04-27'
     code: 616533
     url: /works/616533/
+  - title: Kyonyuu no Tomodachi to Tsukiau made no Hanashi Kouhen
+    author: fuguta-ke
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/616893.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 616893
+    url: /works/616893/
   - title: Kyonyuu no Tomodachi to Tsukiau made no Hanashi Gojitsudan
     author: fuguta-ke
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/616896.jpg
@@ -94,7 +101,7 @@ works:
   - title: Koujoku Juurin
     author: nbe
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/626580.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-11'
     code: 626580
     url: /works/626580/
@@ -299,7 +306,7 @@ works:
   - title: Boku no Kanojo wa Okaasan
     author: momoiro-onsen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654091.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-11'
     code: 654091
     url: /works/654091/
@@ -439,14 +446,14 @@ works:
   - title: Musuko no Onegai | My son's wish...
     author: natsu-no-oyatsu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/657453.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-11'
     code: 657453
     url: /works/657453/
   - title: Oba-san to Umi no Ie de
     author: soba
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/657559.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-11'
     code: 657559
     url: /works/657559/
@@ -533,7 +540,7 @@ works:
   - title: Seductive Life insurance saleswoman
     author: haitoku-dou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662852.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-11'
     code: 662852
     url: /works/662852/
@@ -620,14 +627,14 @@ works:
       a Previous Marriage
     author: sabano-fudeoki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673271.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-11'
     code: 673271
     url: /works/673271/
   - title: Onii-chan no Yowami o Gyutto | Squeezing my big brother's weak spot
     author: ronrinri-ronri
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673288.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-11'
     code: 673288
     url: /works/673288/
@@ -784,6 +791,13 @@ works:
     date: '2026-08-31'
     code: 677247
     url: /works/677247/
+  - title: The Honor Student’s Rebellious Phase
+    author: sayuumigi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/677525.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 677525
+    url: /works/677525/
   - title: Moshimo Kemono de Kanjitara
     author: chikiko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678664.jpg
@@ -875,7 +889,7 @@ works:
   - title: Oman control
     author: kijima-daisyarin-yoisho53
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680312.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-09-11'
     code: 680312
     url: /works/680312/
@@ -883,29 +897,36 @@ works:
       for a while..
     author: higehurai
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680315.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-11'
     code: 680315
     url: /works/680315/
   - title: Panpan Travelers HIROSHIMA Shuudan Rape Ryokou Hen-MTL
     author: raidon
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680318.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-11'
     code: 680318
     url: /works/680318/
   - title: Fucking slut ~Welcome to the training room~ MTL
     author: mabo-nasu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680326.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-11'
     code: 680326
     url: /works/680326/
   - title: Anna ~The Fate of a Former Idol~ MTL
     author: mabo-nasu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680329.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-11'
     code: 680329
     url: /works/680329/
+  - title: Enjo Kouhai 15
+    author: takunomi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680555.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 680555
+    url: /works/680555/
 ---

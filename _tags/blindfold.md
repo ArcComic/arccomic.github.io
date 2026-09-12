@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "blindfold"
-work_count: 22
+work_count: 23
 works:
   - title: Okki na Saori-chan wa Bukiyou ni Eroi
     author: aramaki-echizen
@@ -162,4 +162,11 @@ works:
     date: '2026-03-11'
     code: 83595
     url: /works/83595/
+  - title: Onee-chan no SM Kouza | Onee-chan's S&M Lecture
+    author: shinooka-homare
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/88750.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 88750
+    url: /works/88750/
 ---

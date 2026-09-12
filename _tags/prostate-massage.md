@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "prostate massage"
-work_count: 13
+work_count: 15
 works:
   - title: Yuri no o saifu ni shite agemasu ne, Senpai | I'll turn you into Yuri's wallet,
       Senpai
@@ -56,6 +56,14 @@ works:
     date: '2026-03-09'
     code: 569575
     url: /works/569575/
+  - title: Minatoku Joshi Saionji Kyouka no Karei naru Nichijou (Kari) | The Lavish
+      Daily Life of Saionji Kyouka The Minato-ku Girl
+    author: takano-masayuki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/597573.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 597573
+    url: /works/597573/
   - title: Netorareta Kanojo ga Joou-sama ni natte Kaettekita ~Ruined de Kintama o Kara
       ni sarete Zenritsusen o Ijirarete Nandomo Nandomo Mesuikishite Choukyou sareru
       Ohanashi~
@@ -100,4 +108,11 @@ works:
     date: '2026-04-18'
     code: 81375
     url: /works/81375/
+  - title: Onee-chan no SM Kouza | Onee-chan's S&M Lecture
+    author: shinooka-homare
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/88750.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 88750
+    url: /works/88750/
 ---

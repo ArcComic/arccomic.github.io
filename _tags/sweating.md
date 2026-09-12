@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sweating"
-work_count: 112
+work_count: 116
 works:
   - title: Kaisha de Iroiro | Gettin' Busy at the Office
     author: hara-shigeyuki
@@ -162,6 +162,14 @@ works:
     date: '2026-05-04'
     code: 484860
     url: /works/484860/
+  - title: Gyakuten Enkou ~Ore ga Kawareru Sekai~ | Reversed Compensated Dating ~A World
+      Where I Get Bought~
+    author: nectar
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/494757.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 494757
+    url: /works/494757/
   - title: Obedience Part 1
     author: laliberte
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/501709.jpg
@@ -194,6 +202,13 @@ works:
     date: '2026-09-10'
     code: 511803
     url: /works/511803/
+  - title: Motto♥ Okki na Saori-chan wa Fukiyou ni Eroi
+    author: aramaki-echizen
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/524436.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 524436
+    url: /works/524436/
   - title: + (SEIKO AYASE VARIOUS) +
     author: st-mya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/555816.jpg
@@ -656,7 +671,7 @@ works:
       Horny Truth About Hosokawa
     author: momoiro-onsen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654850.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-11'
     code: 654850
     url: /works/654850/
@@ -840,4 +855,21 @@ works:
     date: '2026-09-10'
     code: 679977
     url: /works/679977/
+  - title: Buaisou na Kakure Kyonyuu Boyish Kanojo to Taikutsu na Date 2 | A Boring
+      Date with My Boyish Girlfriend (Who Has a Secretly Busty Figure and a Surly Attitude)
+      – Part 2
+    author: hatsuden-pengin
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680591.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 680591
+    url: /works/680591/
+  - title: Saki to Natsu no Asedaku Onmitsu Sakusen! | Saki and the Sweaty Summer Stealth
+      Operation!
+    author: aramaki-echizen
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680675.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 680675
+    url: /works/680675/
 ---

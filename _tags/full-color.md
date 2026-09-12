@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "full color"
-work_count: 156
+work_count: 158
 works:
   - title: Tsuma wo Yariman ni Shimasu Shakkin no Tame desu kara.
     author: pietoro
@@ -454,6 +454,14 @@ works:
     date: '2026-04-19'
     code: 569195
     url: /works/569195/
+  - title: Shasei Gamanshinai to Derarenai Burakku Kigyou | A Black Company Where You
+      Have To Hold Your Ejaculation To Get Out
+    author: keikouon
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/573973.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 573973
+    url: /works/573973/
   - title: Hitozuma Volley-bu no Asedaku SEX ~Shower Abinagara Mitchaku Shichau? 5-6
       | Married Women's Volleyball Club Sweaty Sex - We're Being Glued Together While
       Taking A Shower? 5-6
@@ -635,7 +643,7 @@ works:
   - title: Koujoku Juurin
     author: nbe
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/626580.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-11'
     code: 626580
     url: /works/626580/
@@ -1036,6 +1044,13 @@ works:
     date: '2026-08-19'
     code: 671657
     url: /works/671657/
+  - title: Aisuru Tsuma wa Hei no Naka | My beloved wife is behind bars
+    author: hikitogu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673453.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 673453
+    url: /works/673453/
   - title: ENG AI Translated [Hanpatsu Zokusei] Mayu-chan EP 1 - 4
     author: hanpatsu-zokusei-mejikara-scene
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673485.jpg

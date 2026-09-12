@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "very long hair"
-work_count: 37
+work_count: 38
 works:
   - title: Koi no Susumekata | How to Advance Your Love
     author: danimaru
@@ -74,6 +74,13 @@ works:
     date: '2026-03-04'
     code: 634157
     url: /works/634157/
+  - title: Fetishism Vol. 20 ~Ashikoki Hen~
+    author: shinooka-homare
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/637252.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 637252
+    url: /works/637252/
   - title: The Story Of How I Peeked On A Cheeky Elementary Schooler Brat Masturbating
       And Ended Up Having Sweet Sex | Namaiki Kusogaki js no Onanie Nozoitara Amaama
       Sex Dekita Hanashi

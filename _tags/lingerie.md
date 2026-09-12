@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "lingerie"
-work_count: 58
+work_count: 60
 works:
   - title: My Care Lady Ch. 1
     author: sugi-g
@@ -233,6 +233,14 @@ works:
     date: '2026-03-05'
     code: 593456
     url: /works/593456/
+  - title: Minatoku Joshi Saionji Kyouka no Karei naru Nichijou (Kari) | The Lavish
+      Daily Life of Saionji Kyouka The Minato-ku Girl
+    author: takano-masayuki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/597573.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 597573
+    url: /works/597573/
   - title: Sono Gal Mama wa Koubi Suru | This Gyaru Mom is Having Sex.
     author: ameto-yuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/608648.jpg
@@ -283,6 +291,13 @@ works:
     date: '2026-03-09'
     code: 635794
     url: /works/635794/
+  - title: Fetishism Vol. 20 ~Ashikoki Hen~
+    author: shinooka-homare
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/637252.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 637252
+    url: /works/637252/
   - title: The Story of Becoming the Husband of a Rich, Yandere Daughter
     author: kaisendoh
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638178.jpg

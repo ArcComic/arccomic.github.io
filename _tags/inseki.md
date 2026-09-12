@@ -258,7 +258,7 @@ works:
   - title: Boku no Kanojo wa Okaasan
     author: momoiro-onsen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654091.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-11'
     code: 654091
     url: /works/654091/
@@ -318,7 +318,7 @@ works:
       a Previous Marriage
     author: sabano-fudeoki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673271.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-11'
     code: 673271
     url: /works/673271/

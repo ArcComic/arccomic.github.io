@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "condom"
-work_count: 140
+work_count: 141
 works:
   - title: Kaisha de Iroiro | Gettin' Busy at the Office
     author: hara-shigeyuki
@@ -362,6 +362,13 @@ works:
     date: '2026-07-10'
     code: 550164
     url: /works/550164/
+  - title: LeveChi na Swapping 2 ~Hatsu Zecchou de Iki Kuruu Tsuma Hen~
+    author: hikitogu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/552541.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 552541
+    url: /works/552541/
   - title: Gokinjo Trouble ni wa Gochuui o | Watch Out For Trouble in Your Neighborhood
     author: hotate-chan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/553426.jpg
@@ -484,7 +491,7 @@ works:
       Iriya's Siblings~
     author: regdic
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/611888.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-11'
     code: 611888
     url: /works/611888/
@@ -799,7 +806,7 @@ works:
   - title: Smile me tender
     author: otsumoon
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/655514.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-11'
     code: 655514
     url: /works/655514/

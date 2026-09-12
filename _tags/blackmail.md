@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "blackmail"
-work_count: 96
+work_count: 97
 works:
   - title: Another Produce -Kaede Takagaki-
     author: marushin
@@ -591,6 +591,13 @@ works:
     date: '2026-07-17'
     code: 664937
     url: /works/664937/
+  - title: Wari no Ii Beit Nante Sonzai Shinai | This job was too good to be true
+    author: hikitogu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/670195.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 670195
+    url: /works/670195/
   - title: Akogare Senpai ga NTR sareru Hon
     author: seinen-hormone
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/672241.jpg
@@ -617,7 +624,7 @@ works:
       a Previous Marriage
     author: sabano-fudeoki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673271.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-11'
     code: 673271
     url: /works/673271/
@@ -710,7 +717,7 @@ works:
       ga Owaranai Zangyou Sex de Songen
     author: hachi-mega
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680311.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-11'
     code: 680311
     url: /works/680311/

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "inverted nipples"
-work_count: 23
+work_count: 27
 works:
   - title: Kaisha no Iki Okure BBA Haramaseta | [Tragic News] I Knocked Up The Old Maid
       From My Office
@@ -65,6 +65,21 @@ works:
     date: '2026-04-27'
     code: 606166
     url: /works/606166/
+  - title: Tonari no Seki no Tomodachi to Issho ni Onanii Suru Hanashi | The Story About
+      Masturbating Together With the Friend Who Sits Next to Me
+    author: fuguta-ke
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/606563.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 606563
+    url: /works/606563/
+  - title: Kyonyuu no Tomodachi to Tsukiau made no Hanashi Kouhen
+    author: fuguta-ke
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/616893.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 616893
+    url: /works/616893/
   - title: Kyonyuu no Tomodachi to Tsukiau made no Hanashi Gojitsudan
     author: fuguta-ke
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/616896.jpg
@@ -159,6 +174,13 @@ works:
     date: '2026-08-22'
     code: 674830
     url: /works/674830/
+  - title: The Honor Student’s Rebellious Phase
+    author: sayuumigi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/677525.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 677525
+    url: /works/677525/
   - title: My Girlfriend Was Stolen by a Cool Girl Who Dresses Like a Guy, So I Taught
       Her a Lesson 3
     author: kurukuru
@@ -174,4 +196,13 @@ works:
     date: '2026-09-08'
     code: 679504
     url: /works/679504/
+  - title: 15-Nen-buri ni Saikai shita Dakashiya no Ikiokure Nagachichi Onee-san wa
+      Ooatari | Reuniting after 15 years, the unmarried older sister who runs the penny
+      candy shop is a total knockout.
+    author: osunu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680594.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 680594
+    url: /works/680594/
 ---

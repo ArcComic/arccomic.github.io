@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "pantyhose"
-work_count: 41
+work_count: 45
 works:
   - title: Life with Married Women Just Like a Manga 2 - Ch. 1-5
     author: hidemaru
@@ -188,6 +188,20 @@ works:
     date: '2026-03-07'
     code: 635174
     url: /works/635174/
+  - title: Fetishism Vol. 20 ~Ashikoki Hen~
+    author: shinooka-homare
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/637252.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 637252
+    url: /works/637252/
+  - title: Fetishism Vol. 17 ~PanSto Hen~
+    author: matsunami-rumi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638126.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 638126
+    url: /works/638126/
   - title: Venom Invasion VII 【Part 1】
     author: blackftos
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/647563.jpg
@@ -247,6 +261,14 @@ works:
     date: '2026-08-25'
     code: 656146
     url: /works/656146/
+  - title: Volley-bu no Shushou no Otouto Daikou o Suru Koto ni Natta Hanashi | The
+      story of how I ended up acting as the younger brother of the volleyball team captain
+    author: wes-heartland-smith
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/658633.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 658633
+    url: /works/658633/
   - title: Anal Hame Shitai Jukujo Shiri | This MILF Wants Anal Sex
     author: bonske
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662658.jpg
@@ -296,4 +318,11 @@ works:
     date: '2026-04-19'
     code: 77864
     url: /works/77864/
+  - title: Onee-chan no SM Kouza | Onee-chan's S&M Lecture
+    author: shinooka-homare
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/88750.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 88750
+    url: /works/88750/
 ---

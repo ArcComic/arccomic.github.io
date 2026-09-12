@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "mosaic censorship"
-work_count: 206
+work_count: 210
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -81,6 +81,13 @@ works:
     date: '2026-04-13'
     code: 351868
     url: /works/351868/
+  - title: Mesukko Okami Wakarase Shuzai Kiroku
+    author: airandou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/354384.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 354384
+    url: /works/354384/
   - title: Megane Loli Choukyou Jugyou!! ~Otonashii Megane Lolikko ni Muriyari Dekachin
       Sounyuu~ | The Loli In Glasses' Training Lesson!! ~Force Fucking a Timid Glasses
       Wearing Loli With My Big Cock~ Ch. 1-5
@@ -558,6 +565,14 @@ works:
     date: '2026-04-13'
     code: 570215
     url: /works/570215/
+  - title: Shasei Gamanshinai to Derarenai Burakku Kigyou | A Black Company Where You
+      Have To Hold Your Ejaculation To Get Out
+    author: keikouon
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/573973.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 573973
+    url: /works/573973/
   - title: Re. Bishoujo Seitokaichou o Seibyou Mochi no Owakon Onna ni Otosu Hanashi
     author: kyouan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/576288.jpg
@@ -1182,7 +1197,7 @@ works:
   - title: Oba-san to Umi no Ie de
     author: soba
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/657559.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-11'
     code: 657559
     url: /works/657559/
@@ -1378,6 +1393,13 @@ works:
     date: '2026-09-07'
     code: 672835
     url: /works/672835/
+  - title: Aisuru Tsuma wa Hei no Naka | My beloved wife is behind bars
+    author: hikitogu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673453.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 673453
+    url: /works/673453/
   - title: A Mother Who Had Sex With Her Daughter's Boyfriend
     author: cammy
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673900.jpg
@@ -1504,8 +1526,15 @@ works:
   - title: Panpan Travelers HIROSHIMA Shuudan Rape Ryokou Hen-MTL
     author: raidon
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680318.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-11'
     code: 680318
     url: /works/680318/
+  - title: Netorarete Netorasete 2
+    author: amano-kazumi-taira-issui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680574.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 680574
+    url: /works/680574/
 ---

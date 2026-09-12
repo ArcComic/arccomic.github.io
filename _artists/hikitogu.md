@@ -1,8 +1,14 @@
 ---
 layout: artist
 artist_name: "hikitogu"
-work_count: 3
+work_count: 6
 works:
+  - title: LeveChi na Swapping 2 ~Hatsu Zecchou de Iki Kuruu Tsuma Hen~
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/552541.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 552541
+    url: /works/552541/
   - title: LeveChi na Swapping 3 ~Honrosareru Fuufu Hen~ | Swapping on a Whole New Level
       3 ~The Couple At The Mercy Of Others~
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/643397.jpg
@@ -23,4 +29,16 @@ works:
     date: '2026-07-16'
     code: 664679
     url: /works/664679/
+  - title: Wari no Ii Beit Nante Sonzai Shinai | This job was too good to be true
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/670195.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 670195
+    url: /works/670195/
+  - title: Aisuru Tsuma wa Hei no Naka | My beloved wife is behind bars
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673453.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 673453
+    url: /works/673453/
 ---

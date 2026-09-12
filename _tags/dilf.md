@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "dilf"
-work_count: 122
+work_count: 124
 works:
   - title: Adoration
     author: kishizuka-kenji
@@ -95,6 +95,13 @@ works:
     date: '2026-09-06'
     code: 349379
     url: /works/349379/
+  - title: Mesukko Okami Wakarase Shuzai Kiroku
+    author: airandou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/354384.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 354384
+    url: /works/354384/
   - title: Kagesawa Mura no Akai Kagi tada <hottan>
     author: chiba-shuusaku
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/359864.jpg
@@ -807,6 +814,13 @@ works:
     date: '2026-09-09'
     code: 665716
     url: /works/665716/
+  - title: Wari no Ii Beit Nante Sonzai Shinai | This job was too good to be true
+    author: hikitogu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/670195.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 670195
+    url: /works/670195/
   - title: Ichigun Joshi no Otoshikata "Zenpen" - Corrupting the Queen Bee | Corrupting
       the Queen Bee Part 1
     author: gar

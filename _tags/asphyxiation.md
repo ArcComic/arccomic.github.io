@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "asphyxiation"
-work_count: 12
+work_count: 14
 works:
   - title: The Last Flight
     author: mr-kurz
@@ -17,6 +17,14 @@ works:
     date: '2026-03-07'
     code: 446018
     url: /works/446018/
+  - title: Gyakuten Enkou ~Ore ga Kawareru Sekai~ | Reversed Compensated Dating ~A World
+      Where I Get Bought~
+    author: nectar
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/494757.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 494757
+    url: /works/494757/
   - title: My part-time coworker ran away from home and came to work here, but she was
       too sexy...
     author: yamakonbu
@@ -90,4 +98,12 @@ works:
     date: '2026-08-21'
     code: 674639
     url: /works/674639/
+  - title: Ochiba Nikki -Nae Gasshuku Hen 1- | Fallen Leaves Diary -Nae's Training Camp
+      Arc 1-
+    author: hitoi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680481.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 680481
+    url: /works/680481/
 ---

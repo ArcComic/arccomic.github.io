@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "defloration"
-work_count: 147
+work_count: 149
 works:
   - title: Love Approach
     author: hanafuda-sakurano
@@ -388,6 +388,14 @@ works:
     date: '2026-04-23'
     code: 603122
     url: /works/603122/
+  - title: Tonari no Seki no Tomodachi to Issho ni Onanii Suru Hanashi | The Story About
+      Masturbating Together With the Friend Who Sits Next to Me
+    author: fuguta-ke
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/606563.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 606563
+    url: /works/606563/
   - title: Ahondara, koi. | Foolish Love
     author: chicken
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/608677.jpg
@@ -1013,6 +1021,13 @@ works:
     date: '2026-09-04'
     code: 677418
     url: /works/677418/
+  - title: The Honor Student’s Rebellious Phase
+    author: sayuumigi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/677525.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 677525
+    url: /works/677525/
   - title: Gamers!
     author: ramanda
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678354.jpg

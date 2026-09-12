@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "huge breasts"
-work_count: 53
+work_count: 54
 works:
   - title: Soubo Soukan | Twin Mother Incest Ch. 1
     author: nanao-yukiji
@@ -398,4 +398,12 @@ works:
     date: '2026-09-10'
     code: 679942
     url: /works/679942/
+  - title: Kioku Soshitsu no Musume o Hirottara Succubus Datta | The Amnesiac Girl I
+      Picked Up Turned Out to Be a Succubus
+    author: kayumidome
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680592.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 680592
+    url: /works/680592/
 ---

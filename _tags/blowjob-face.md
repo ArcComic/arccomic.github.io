@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "blowjob face"
-work_count: 40
+work_count: 41
 works:
   - title: Hikki Mother Fucker
     author: otochichi
@@ -72,6 +72,14 @@ works:
     date: '2026-03-05'
     code: 593456
     url: /works/593456/
+  - title: Minatoku Joshi Saionji Kyouka no Karei naru Nichijou (Kari) | The Lavish
+      Daily Life of Saionji Kyouka The Minato-ku Girl
+    author: takano-masayuki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/597573.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 597573
+    url: /works/597573/
   - title: Mesu Etsu Toiki Nemoto made Fukaku…
     author: drill-murata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/612957.jpg

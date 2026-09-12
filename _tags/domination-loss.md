@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "domination loss"
-work_count: 23
+work_count: 26
 works:
   - title: My Only Princess
     author: mackgee
@@ -10,6 +10,13 @@ works:
     date: '2026-04-17'
     code: 335960
     url: /works/335960/
+  - title: Mesukko Okami Wakarase Shuzai Kiroku
+    author: airandou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/354384.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 354384
+    url: /works/354384/
   - title: Rako Slip!
     author: bujidearu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/393984.jpg
@@ -151,6 +158,14 @@ works:
     date: '2026-05-26'
     code: 652667
     url: /works/652667/
+  - title: Volley-bu no Shushou no Otouto Daikou o Suru Koto ni Natta Hanashi | The
+      story of how I ended up acting as the younger brother of the volleyball team captain
+    author: wes-heartland-smith
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/658633.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 658633
+    url: /works/658633/
   - title: Mesugaki ni Saikyouiku o!! | Re-Educating A Smug-Brat!!
     author: type-yamada
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/664631.jpg
@@ -173,4 +188,11 @@ works:
     date: '2026-08-21'
     code: 674568
     url: /works/674568/
+  - title: Enjo Kouhai 15
+    author: takunomi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680555.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 680555
+    url: /works/680555/
 ---

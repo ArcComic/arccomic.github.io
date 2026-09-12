@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "horns"
-work_count: 12
+work_count: 14
 works:
   - title: Kichiku Kyoushi ni Otosareta Boku no Seitokaichou Part.3
     author: norakuro-nero
@@ -84,8 +84,23 @@ works:
   - title: Oni to Musume
     author: sachie
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680317.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-11'
     code: 680317
     url: /works/680317/
+  - title: Enjo Kouhai 15
+    author: takunomi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680555.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 680555
+    url: /works/680555/
+  - title: Kioku Soshitsu no Musume o Hirottara Succubus Datta | The Amnesiac Girl I
+      Picked Up Turned Out to Be a Succubus
+    author: kayumidome
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680592.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 680592
+    url: /works/680592/
 ---

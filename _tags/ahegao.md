@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "ahegao"
-work_count: 190
+work_count: 195
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -185,6 +185,14 @@ works:
     date: '2026-08-31'
     code: 494172
     url: /works/494172/
+  - title: Gyakuten Enkou ~Ore ga Kawareru Sekai~ | Reversed Compensated Dating ~A World
+      Where I Get Bought~
+    author: nectar
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/494757.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 494757
+    url: /works/494757/
   - title: Obedience Part 1
     author: laliberte
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/501709.jpg
@@ -468,7 +476,7 @@ works:
       Iriya's Siblings~
     author: regdic
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/611888.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-11'
     code: 611888
     url: /works/611888/
@@ -651,6 +659,13 @@ works:
     date: '2026-08-22'
     code: 635512
     url: /works/635512/
+  - title: Fetishism Vol. 20 ~Ashikoki Hen~
+    author: shinooka-homare
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/637252.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 637252
+    url: /works/637252/
   - title: Onsen Haitte tara Joseito-tachi ga Osotte Kita | My Students Jumped Me When
       I Got in the Hot Spring
     author: hamo
@@ -1228,6 +1243,13 @@ works:
     date: '2026-09-04'
     code: 669459
     url: /works/669459/
+  - title: Aisuru Tsuma wa Hei no Naka | My beloved wife is behind bars
+    author: hikitogu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673453.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 673453
+    url: /works/673453/
   - title: Tenshi Hirotta kara Haramaseru ~Ojii-san Senyou Botebara Onaho ni Naru made
       no Kiroku~ | I Met an Angel, and then I Knocked Her Up ~A Record of Becoming Oji-san’s
       Personal Preggo Belly Onahole~
@@ -1421,6 +1443,22 @@ works:
     date: '2026-09-10'
     code: 679977
     url: /works/679977/
+  - title: Enjo Kouhai 15
+    author: takunomi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680555.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 680555
+    url: /works/680555/
+  - title: Buaisou na Kakure Kyonyuu Boyish Kanojo to Taikutsu na Date 2 | A Boring
+      Date with My Boyish Girlfriend (Who Has a Secretly Busty Figure and a Surly Attitude)
+      – Part 2
+    author: hatsuden-pengin
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680591.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 680591
+    url: /works/680591/
   - title: Inin Keiyaku | Lewd Pregnancy Contract
     author: yoshiura-kazuya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/83595.jpg

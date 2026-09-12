@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "nakadashi"
-work_count: 480
+work_count: 492
 works:
   - title: Adoration
     author: kishizuka-kenji
@@ -166,6 +166,13 @@ works:
     date: '2026-04-13'
     code: 351868
     url: /works/351868/
+  - title: Mesukko Okami Wakarase Shuzai Kiroku
+    author: airandou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/354384.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 354384
+    url: /works/354384/
   - title: Megane Loli Choukyou Jugyou!! ~Otonashii Megane Lolikko ni Muriyari Dekachin
       Sounyuu~ | The Loli In Glasses' Training Lesson!! ~Force Fucking a Timid Glasses
       Wearing Loli With My Big Cock~ Ch. 1-5
@@ -438,6 +445,14 @@ works:
     date: '2026-04-15'
     code: 470025
     url: /works/470025/
+  - title: Sekai ga Heiwa ni Natta node Yuusha (Jitsu wa ♀) ni Kyuukon Shita Kekka |
+      Marriage Proposal to the Hero (Actually ♀) When the World Is at Peace
+    author: natsuo-tsunao
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/471198.jpg
+    rating: 4.6
+    date: '2026-09-12'
+    code: 471198
+    url: /works/471198/
   - title: Kakine Tsuma II Daiichiwa | Wife on the Fence II - Chapter 1
     author: ntr-system
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/471387.jpg
@@ -734,6 +749,13 @@ works:
     date: '2026-08-18'
     code: 521812
     url: /works/521812/
+  - title: Motto♥ Okki na Saori-chan wa Fukiyou ni Eroi
+    author: aramaki-echizen
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/524436.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 524436
+    url: /works/524436/
   - title: Kawari wa Okaa-san | The Stand-in is Her Mom
     author: etuzan-jakusui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/528470.jpg
@@ -1357,6 +1379,14 @@ works:
     date: '2026-04-27'
     code: 606166
     url: /works/606166/
+  - title: Tonari no Seki no Tomodachi to Issho ni Onanii Suru Hanashi | The Story About
+      Masturbating Together With the Friend Who Sits Next to Me
+    author: fuguta-ke
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/606563.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 606563
+    url: /works/606563/
   - title: Kouhai Otaku Tomodachi JK ga Kawai Sugirumon de!
     author: niji-teru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/606719.jpg
@@ -1461,6 +1491,13 @@ works:
     date: '2026-04-27'
     code: 616533
     url: /works/616533/
+  - title: Kyonyuu no Tomodachi to Tsukiau made no Hanashi Kouhen
+    author: fuguta-ke
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/616893.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 616893
+    url: /works/616893/
   - title: Kyonyuu no Tomodachi to Tsukiau made no Hanashi Gojitsudan
     author: fuguta-ke
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/616896.jpg
@@ -1877,6 +1914,13 @@ works:
     date: '2026-05-04'
     code: 637110
     url: /works/637110/
+  - title: Fetishism Vol. 20 ~Ashikoki Hen~
+    author: shinooka-homare
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/637252.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 637252
+    url: /works/637252/
   - title: My gentle and kind friend's mom was a slut who devoured young boys' cocks.
     author: dekamatsu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/637847.jpg
@@ -1884,6 +1928,13 @@ works:
     date: '2026-08-25'
     code: 637847
     url: /works/637847/
+  - title: Fetishism Vol. 17 ~PanSto Hen~
+    author: matsunami-rumi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638126.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 638126
+    url: /works/638126/
   - title: Breeding Mother 1-4
     author: saimon-k
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638218.jpg
@@ -2647,7 +2698,7 @@ works:
   - title: Musuko no Onegai | My son's wish...
     author: natsu-no-oyatsu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/657453.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-11'
     code: 657453
     url: /works/657453/
@@ -3358,6 +3409,13 @@ works:
     date: '2026-09-04'
     code: 677418
     url: /works/677418/
+  - title: The Honor Student’s Rebellious Phase
+    author: sayuumigi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/677525.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 677525
+    url: /works/677525/
   - title: Nijigen Otaku no Ore ga Tenkou Shite Kita Kyonyuu Idol ni Otosareru made
       - A 2D Otaku Falls for the Curvy Idol Transfer Student | How I, a 2D-Obsessed
       Otaku, Fell for the Busty Idol Who Transferred to My School
@@ -3555,6 +3613,39 @@ works:
     date: '2026-09-11'
     code: 680187
     url: /works/680187/
+  - title: Enjo Kouhai 15
+    author: takunomi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680555.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 680555
+    url: /works/680555/
+  - title: Buaisou na Kakure Kyonyuu Boyish Kanojo to Taikutsu na Date 2 | A Boring
+      Date with My Boyish Girlfriend (Who Has a Secretly Busty Figure and a Surly Attitude)
+      – Part 2
+    author: hatsuden-pengin
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680591.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 680591
+    url: /works/680591/
+  - title: 15-Nen-buri ni Saikai shita Dakashiya no Ikiokure Nagachichi Onee-san wa
+      Ooatari | Reuniting after 15 years, the unmarried older sister who runs the penny
+      candy shop is a total knockout.
+    author: osunu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680594.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 680594
+    url: /works/680594/
+  - title: Saki to Natsu no Asedaku Onmitsu Sakusen! | Saki and the Sweaty Summer Stealth
+      Operation!
+    author: aramaki-echizen
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680675.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 680675
+    url: /works/680675/
   - title: Inin Keiyaku | Lewd Pregnancy Contract
     author: yoshiura-kazuya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/83595.jpg

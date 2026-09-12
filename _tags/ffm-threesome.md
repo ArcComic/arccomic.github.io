@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "ffm threesome"
-work_count: 83
+work_count: 84
 works:
   - title: Hustle! Danchizuma Ch. 1-18 END
     author: hidemaru
@@ -151,7 +151,7 @@ works:
       Iriya's Siblings~
     author: regdic
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/611888.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-11'
     code: 611888
     url: /works/611888/
@@ -620,4 +620,11 @@ works:
     date: '2026-09-10'
     code: 679992
     url: /works/679992/
+  - title: Enjo Kouhai 15
+    author: takunomi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680555.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 680555
+    url: /works/680555/
 ---

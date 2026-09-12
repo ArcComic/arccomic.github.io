@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "demon girl"
-work_count: 6
+work_count: 8
 works:
   - title: Junpaku Terrarium - Garden of Lovers
     author: sakuma-tsukasa
@@ -46,4 +46,19 @@ works:
     date: '2026-08-21'
     code: 674709
     url: /works/674709/
+  - title: Enjo Kouhai 15
+    author: takunomi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680555.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 680555
+    url: /works/680555/
+  - title: Kioku Soshitsu no Musume o Hirottara Succubus Datta | The Amnesiac Girl I
+      Picked Up Turned Out to Be a Succubus
+    author: kayumidome
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680592.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 680592
+    url: /works/680592/
 ---

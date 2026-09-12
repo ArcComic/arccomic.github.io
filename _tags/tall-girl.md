@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "tall girl"
-work_count: 21
+work_count: 23
 works:
   - title: Oppai na Natsuyasumi 2 | The Summer Break of Boobs 2
     author: higashino-mikan
@@ -24,6 +24,13 @@ works:
     date: '2026-04-27'
     code: 425528
     url: /works/425528/
+  - title: Motto♥ Okki na Saori-chan wa Fukiyou ni Eroi
+    author: aramaki-echizen
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/524436.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 524436
+    url: /works/524436/
   - title: Kimiha Bokuno Keikokuno Bijyo | You're the Woman of my Dreams
     author: yasson-yoshiyuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/618098.jpg
@@ -88,6 +95,14 @@ works:
     date: '2026-09-06'
     code: 654603
     url: /works/654603/
+  - title: Volley-bu no Shushou no Otouto Daikou o Suru Koto ni Natta Hanashi | The
+      story of how I ended up acting as the younger brother of the volleyball team captain
+    author: wes-heartland-smith
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/658633.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 658633
+    url: /works/658633/
   - title: Love wa Gal kara Hajimaru Unmei | Love is a Destiny That Begins with a Gal
       ch.1-5
     author: nusmusbim
@@ -152,7 +167,7 @@ works:
   - title: Oni to Musume
     author: sachie
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680317.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-11'
     code: 680317
     url: /works/680317/

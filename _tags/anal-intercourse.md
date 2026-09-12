@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "anal intercourse"
-work_count: 56
+work_count: 58
 works:
   - title: Bitch Mama no Kekkon Riyuu
     author: aoyama-akira
@@ -70,6 +70,14 @@ works:
     date: '2026-05-01'
     code: 591112
     url: /works/591112/
+  - title: Minatoku Joshi Saionji Kyouka no Karei naru Nichijou (Kari) | The Lavish
+      Daily Life of Saionji Kyouka The Minato-ku Girl
+    author: takano-masayuki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/597573.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 597573
+    url: /works/597573/
   - title: Otoko no Ko otodokeshimasu! ~Itsumo kuru Haitatsuin-san ga masaka no Otoko
       no Ko dattakedo mayowazu hameta~
     author: mitsujirou
@@ -413,8 +421,16 @@ works:
   - title: Panpan Travelers HIROSHIMA Shuudan Rape Ryokou Hen-MTL
     author: raidon
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680318.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-11'
     code: 680318
     url: /works/680318/
+  - title: Kioku Soshitsu no Musume o Hirottara Succubus Datta | The Amnesiac Girl I
+      Picked Up Turned Out to Be a Succubus
+    author: kayumidome
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680592.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 680592
+    url: /works/680592/
 ---

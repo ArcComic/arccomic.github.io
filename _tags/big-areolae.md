@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big areolae"
-work_count: 57
+work_count: 60
 works:
   - title: Kanojo no Kawaii Mieppari | My Cute Gyaru Girlfriend Is a Total Poser
     author: buta
@@ -26,6 +26,13 @@ works:
     date: '2026-08-25'
     code: 518387
     url: /works/518387/
+  - title: Motto♥ Okki na Saori-chan wa Fukiyou ni Eroi
+    author: aramaki-echizen
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/524436.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 524436
+    url: /works/524436/
   - title: Cool-Dere Kinpatsu Hitozuma Zenra Kaseifu san ga Yanda Boku ni Yasashiku
       Shite Kureta Ohanashi 1| Naked Blonde Kuudere Housekeeper Wife Kindly Treats Broken
       Ol' Me 01
@@ -438,4 +445,21 @@ works:
     date: '2026-09-09'
     code: 679634
     url: /works/679634/
+  - title: Buaisou na Kakure Kyonyuu Boyish Kanojo to Taikutsu na Date 2 | A Boring
+      Date with My Boyish Girlfriend (Who Has a Secretly Busty Figure and a Surly Attitude)
+      – Part 2
+    author: hatsuden-pengin
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680591.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 680591
+    url: /works/680591/
+  - title: Kioku Soshitsu no Musume o Hirottara Succubus Datta | The Amnesiac Girl I
+      Picked Up Turned Out to Be a Succubus
+    author: kayumidome
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680592.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 680592
+    url: /works/680592/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "paizuri"
-work_count: 138
+work_count: 139
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -116,6 +116,13 @@ works:
     date: '2026-09-11'
     code: 512938
     url: /works/512938/
+  - title: Motto♥ Okki na Saori-chan wa Fukiyou ni Eroi
+    author: aramaki-echizen
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/524436.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 524436
+    url: /works/524436/
   - title: Cool-Dere Kinpatsu Hitozuma Zenra Kaseifu san ga Yanda Boku ni Yasashiku
       Shite Kureta Ohanashi 1| Naked Blonde Kuudere Housekeeper Wife Kindly Treats Broken
       Ol' Me 01

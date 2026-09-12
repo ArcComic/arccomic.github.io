@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "nectar"
-work_count: 1
+work_count: 2
 works:
   - title: Watashi no Karada, Okashi Shimasu. Bunny Girl Edition
     author: nectar
@@ -10,4 +10,12 @@ works:
     date: '2026-05-10'
     code: 441339
     url: /works/441339/
+  - title: Gyakuten Enkou ~Ore ga Kawareru Sekai~ | Reversed Compensated Dating ~A World
+      Where I Get Bought~
+    author: nectar
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/494757.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 494757
+    url: /works/494757/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "kissing"
-work_count: 218
+work_count: 220
 works:
   - title: FLUFFY LAUGH GIRL
     author: shibasaki-syouzi
@@ -262,6 +262,13 @@ works:
     date: '2026-08-20'
     code: 510022
     url: /works/510022/
+  - title: Motto♥ Okki na Saori-chan wa Fukiyou ni Eroi
+    author: aramaki-echizen
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/524436.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 524436
+    url: /works/524436/
   - title: Haha Netori
     author: aoi-hitori
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/527171.jpg
@@ -613,7 +620,7 @@ works:
       Iriya's Siblings~
     author: regdic
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/611888.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-11'
     code: 611888
     url: /works/611888/
@@ -1633,4 +1640,11 @@ works:
     date: '2026-09-10'
     code: 680088
     url: /works/680088/
+  - title: Enjo Kouhai 15
+    author: takunomi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680555.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 680555
+    url: /works/680555/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "pixie cut"
-work_count: 40
+work_count: 44
 works:
   - title: Doushia (Terasu MC)] Dorei Gazoku
     author: terasu-mc
@@ -31,6 +31,14 @@ works:
     date: '2026-04-27'
     code: 452482
     url: /works/452482/
+  - title: Sekai ga Heiwa ni Natta node Yuusha (Jitsu wa ♀) ni Kyuukon Shita Kekka |
+      Marriage Proposal to the Hero (Actually ♀) When the World Is at Peace
+    author: natsuo-tsunao
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/471198.jpg
+    rating: 4.6
+    date: '2026-09-12'
+    code: 471198
+    url: /works/471198/
   - title: Shizuka no Umi + Gojitsudan | Shizuka's Sea + Epilogue
     author: arakure
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/507591.jpg
@@ -100,7 +108,7 @@ works:
       Iriya's Siblings~
     author: regdic
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/611888.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-11'
     code: 611888
     url: /works/611888/
@@ -142,6 +150,13 @@ works:
     date: '2026-03-05'
     code: 634591
     url: /works/634591/
+  - title: Fetishism Vol. 20 ~Ashikoki Hen~
+    author: shinooka-homare
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/637252.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 637252
+    url: /works/637252/
   - title: Akogare no Hito wa Mou Owari! 3
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642586.jpg
@@ -208,6 +223,14 @@ works:
     date: '2026-09-11'
     code: 656626
     url: /works/656626/
+  - title: Volley-bu no Shushou no Otouto Daikou o Suru Koto ni Natta Hanashi | The
+      story of how I ended up acting as the younger brother of the volleyball team captain
+    author: wes-heartland-smith
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/658633.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 658633
+    url: /works/658633/
   - title: Onna Tomodachi to Omotteitara Mesu Deshita | I Thought She Was Just a Friend,
       Turned Out She Was a Woman
     author: ippan-seijin
@@ -298,4 +321,13 @@ works:
     date: '2026-09-09'
     code: 679771
     url: /works/679771/
+  - title: Buaisou na Kakure Kyonyuu Boyish Kanojo to Taikutsu na Date 2 | A Boring
+      Date with My Boyish Girlfriend (Who Has a Secretly Busty Figure and a Surly Attitude)
+      – Part 2
+    author: hatsuden-pengin
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680591.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 680591
+    url: /works/680591/
 ---

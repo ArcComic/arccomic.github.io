@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "halo"
-work_count: 15
+work_count: 16
 works:
   - title: Oshioki no Jikan - Punishment time
     author: syoukaki
@@ -110,4 +110,12 @@ works:
     date: '2026-09-09'
     code: 679865
     url: /works/679865/
+  - title: Saki to Natsu no Asedaku Onmitsu Sakusen! | Saki and the Sweaty Summer Stealth
+      Operation!
+    author: aramaki-echizen
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680675.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 680675
+    url: /works/680675/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "netorase"
-work_count: 18
+work_count: 20
 works:
   - title: Boku no Netorase Seiheki ni Tsukiatte kureru Kanojo | A Girlfriend Who Plays
       Along with My Cuckold Fetish
@@ -26,6 +26,13 @@ works:
     date: '2026-04-19'
     code: 487275
     url: /works/487275/
+  - title: LeveChi na Swapping 2 ~Hatsu Zecchou de Iki Kuruu Tsuma Hen~
+    author: hikitogu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/552541.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 552541
+    url: /works/552541/
   - title: The wife's unfaithful copulation picture album
     author: allegro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/578583.jpg
@@ -137,4 +144,11 @@ works:
     date: '2026-09-09'
     code: 679830
     url: /works/679830/
+  - title: Netorarete Netorasete 2
+    author: amano-kazumi-taira-issui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680574.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 680574
+    url: /works/680574/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "multiple orgasms"
-work_count: 73
+work_count: 75
 works:
   - title: Rako Slip!
     author: bujidearu
@@ -168,6 +168,14 @@ works:
     date: '2026-09-07'
     code: 597388
     url: /works/597388/
+  - title: Tonari no Seki no Tomodachi to Issho ni Onanii Suru Hanashi | The Story About
+      Masturbating Together With the Friend Who Sits Next to Me
+    author: fuguta-ke
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/606563.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 606563
+    url: /works/606563/
   - title: Zenin Mukuwarenai Harem | A Harem Where No One Is Reciprocated
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/610041.jpg
@@ -495,6 +503,13 @@ works:
     date: '2026-08-31'
     code: 669505
     url: /works/669505/
+  - title: Wari no Ii Beit Nante Sonzai Shinai | This job was too good to be true
+    author: hikitogu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/670195.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 670195
+    url: /works/670195/
   - title: Hanamizuki Vol.4
     author: rocinante
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/672835.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "schoolgirl uniform"
-work_count: 197
+work_count: 202
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -193,6 +193,14 @@ works:
     date: '2026-05-04'
     code: 484860
     url: /works/484860/
+  - title: Gyakuten Enkou ~Ore ga Kawareru Sekai~ | Reversed Compensated Dating ~A World
+      Where I Get Bought~
+    author: nectar
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/494757.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 494757
+    url: /works/494757/
   - title: Do-S Yankee JK to Do-M Hentai Teacher
     author: naganeko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/512715.jpg
@@ -450,6 +458,14 @@ works:
     date: '2026-04-23'
     code: 606276
     url: /works/606276/
+  - title: Tonari no Seki no Tomodachi to Issho ni Onanii Suru Hanashi | The Story About
+      Masturbating Together With the Friend Who Sits Next to Me
+    author: fuguta-ke
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/606563.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 606563
+    url: /works/606563/
   - title: Zenin Mukuwarenai Harem | A Harem Where No One Is Reciprocated
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/610041.jpg
@@ -521,7 +537,7 @@ works:
   - title: Koujoku Juurin
     author: nbe
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/626580.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-11'
     code: 626580
     url: /works/626580/
@@ -631,6 +647,20 @@ works:
     date: '2026-05-04'
     code: 637110
     url: /works/637110/
+  - title: Fetishism Vol. 20 ~Ashikoki Hen~
+    author: shinooka-homare
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/637252.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 637252
+    url: /works/637252/
+  - title: Fetishism Vol. 17 ~PanSto Hen~
+    author: matsunami-rumi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638126.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 638126
+    url: /works/638126/
   - title: Onsen Haitte tara Joseito-tachi ga Osotte Kita | My Students Jumped Me When
       I Got in the Hot Spring
     author: hamo
@@ -1464,4 +1494,11 @@ works:
     date: '2026-09-11'
     code: 680171
     url: /works/680171/
+  - title: Enjo Kouhai 15
+    author: takunomi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680555.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 680555
+    url: /works/680555/
 ---

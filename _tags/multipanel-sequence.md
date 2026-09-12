@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "multipanel sequence"
-work_count: 12
+work_count: 14
 works:
   - title: Onee-chan ga Ecchi na Koto bakka Suru kara... | My older sister only does
       obscene things...
@@ -55,6 +55,14 @@ works:
     date: '2026-04-15'
     code: 589010
     url: /works/589010/
+  - title: Tonari no Seki no Tomodachi to Issho ni Onanii Suru Hanashi | The Story About
+      Masturbating Together With the Friend Who Sits Next to Me
+    author: fuguta-ke
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/606563.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 606563
+    url: /works/606563/
   - title: 'Taihai Tsuma: Taihaikei Hitotsuma o Yachin Kawari ni Koki Tsukaeru Hanashi
       | Slutty Wife!'
     author: kametaro
@@ -86,6 +94,13 @@ works:
     date: '2026-08-18'
     code: 673508
     url: /works/673508/
+  - title: The Honor Student’s Rebellious Phase
+    author: sayuumigi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/677525.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 677525
+    url: /works/677525/
   - title: Sensei no Kyuusoku | Sensei's Relaxation
     author: uran
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679865.jpg

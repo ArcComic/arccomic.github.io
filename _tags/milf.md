@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "milf"
-work_count: 297
+work_count: 299
 works:
   - title: Life with Married Women Just Like a Manga 2 - Ch. 1-5
     author: hidemaru
@@ -1635,7 +1635,7 @@ works:
   - title: Boku no Kanojo wa Okaasan
     author: momoiro-onsen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654091.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-11'
     code: 654091
     url: /works/654091/
@@ -1698,7 +1698,7 @@ works:
   - title: Musuko no Onegai | My son's wish...
     author: natsu-no-oyatsu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/657453.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-11'
     code: 657453
     url: /works/657453/
@@ -1712,7 +1712,7 @@ works:
   - title: Oba-san to Umi no Ie de
     author: soba
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/657559.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-11'
     code: 657559
     url: /works/657559/
@@ -1978,6 +1978,13 @@ works:
     date: '2026-08-25'
     code: 672450
     url: /works/672450/
+  - title: Aisuru Tsuma wa Hei no Naka | My beloved wife is behind bars
+    author: hikitogu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673453.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 673453
+    url: /works/673453/
   - title: Pawahara Onna Joshi, Yowami wo Nigirarete Zenra Dogeza de Fukujuu S
     author: miyamoto-muga
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673775.jpg
@@ -2160,17 +2167,24 @@ works:
       for a while..
     author: higehurai
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680315.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-11'
     code: 680315
     url: /works/680315/
   - title: Fucking slut ~Welcome to the training room~ MTL
     author: mabo-nasu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680326.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-11'
     code: 680326
     url: /works/680326/
+  - title: Netorarete Netorasete 2
+    author: amano-kazumi-taira-issui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680574.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 680574
+    url: /works/680574/
   - title: Jokyoushi - Hot For Teachers | Female Teachers
     author: drill-murata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/81375.jpg

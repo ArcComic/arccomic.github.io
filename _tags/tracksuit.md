@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "tracksuit"
-work_count: 7
+work_count: 8
 works:
   - title: Adlescence 06 Nozomi [English] =NSS=
     author: aoten
@@ -56,4 +56,11 @@ works:
     date: '2026-09-06'
     code: 673207
     url: /works/673207/
+  - title: Enjo Kouhai 15
+    author: takunomi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680555.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 680555
+    url: /works/680555/
 ---

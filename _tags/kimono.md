@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "kimono"
-work_count: 32
+work_count: 33
 works:
   - title: Hitozuma Hyakka
     author: hase-tsubura
@@ -17,6 +17,13 @@ works:
     date: '2026-07-09'
     code: 317673
     url: /works/317673/
+  - title: Mesukko Okami Wakarase Shuzai Kiroku
+    author: airandou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/354384.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 354384
+    url: /works/354384/
   - title: Kaisha no Iki Okure BBA Haramaseta | [Tragic News] I Knocked Up The Old Maid
       From My Office
     author: special-g

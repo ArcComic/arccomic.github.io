@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "handjob"
-work_count: 74
+work_count: 78
 works:
   - title: Yuri no o saifu ni shite agemasu ne, Senpai | I'll turn you into Yuri's wallet,
       Senpai
@@ -102,6 +102,13 @@ works:
     date: '2026-09-11'
     code: 512938
     url: /works/512938/
+  - title: Motto♥ Okki na Saori-chan wa Fukiyou ni Eroi
+    author: aramaki-echizen
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/524436.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 524436
+    url: /works/524436/
   - title: Yamazaki Makie (3●-sai), Musume no Kareshi to SeFri ni Naru | Yamazaki Makie
       (3X Years Old), Becoming Fuck Buddies with her Daughter's Boyfriend
     author: ryuuta
@@ -141,6 +148,14 @@ works:
     date: '2026-04-17'
     code: 566835
     url: /works/566835/
+  - title: Shasei Gamanshinai to Derarenai Burakku Kigyou | A Black Company Where You
+      Have To Hold Your Ejaculation To Get Out
+    author: keikouon
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/573973.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 573973
+    url: /works/573973/
   - title: Kimottama Kaa-chan to Kenka Bakari no Neet no Ore ga Kaa-san ni Nakadashi
       shite kara Nakayoku natta Hanashi - A story about How I, A NEET Who Always Fought
       with My Gutsy Mother,
@@ -271,6 +286,13 @@ works:
     date: '2026-09-05'
     code: 637940
     url: /works/637940/
+  - title: Fetishism Vol. 17 ~PanSto Hen~
+    author: matsunami-rumi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638126.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 638126
+    url: /works/638126/
   - title: Misuzu no Oheya kara Hitoban Nigerarenai Hon  | The Book Where You Can't
       Escape Misuzu's Room All Night Long.
     author: cure-slum
@@ -565,4 +587,11 @@ works:
     date: '2026-09-11'
     code: 680187
     url: /works/680187/
+  - title: Onee-chan no SM Kouza | Onee-chan's S&M Lecture
+    author: shinooka-homare
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/88750.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 88750
+    url: /works/88750/
 ---

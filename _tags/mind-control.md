@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "mind control"
-work_count: 35
+work_count: 37
 works:
   - title: Ayami Hypno
     author: yasuhiro
@@ -129,6 +129,13 @@ works:
     date: '2026-03-07'
     code: 635363
     url: /works/635363/
+  - title: Fetishism Vol. 20 ~Ashikoki Hen~
+    author: shinooka-homare
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/637252.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 637252
+    url: /works/637252/
   - title: Boku no Kanojo ga Katte ni Seikyouiku Sareteta Hanashi
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/643527.jpg
@@ -260,8 +267,15 @@ works:
   - title: Oman control
     author: kijima-daisyarin-yoisho53
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680312.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-09-11'
     code: 680312
     url: /works/680312/
+  - title: Enjo Kouhai 15
+    author: takunomi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680555.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 680555
+    url: /works/680555/
 ---

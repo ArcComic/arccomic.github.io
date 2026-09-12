@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "muscle"
-work_count: 67
+work_count: 70
 works:
   - title: Netorare Ibe Kiba Shizuka
     author: terasu-mc
@@ -67,6 +67,14 @@ works:
     date: '2026-04-13'
     code: 458903
     url: /works/458903/
+  - title: Sekai ga Heiwa ni Natta node Yuusha (Jitsu wa ♀) ni Kyuukon Shita Kekka |
+      Marriage Proposal to the Hero (Actually ♀) When the World Is at Peace
+    author: natsuo-tsunao
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/471198.jpg
+    rating: 4.6
+    date: '2026-09-12'
+    code: 471198
+    url: /works/471198/
   - title: Onozomi deshitara Saimin wo ~Maki-san Himitsu no Renai Therapy~ | If you
       wish, hypnosis ~Maki-san's secret love therapy~
     author: meeko
@@ -146,6 +154,13 @@ works:
     date: '2026-09-11'
     code: 545896
     url: /works/545896/
+  - title: LeveChi na Swapping 2 ~Hatsu Zecchou de Iki Kuruu Tsuma Hen~
+    author: hikitogu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/552541.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 552541
+    url: /works/552541/
   - title: Gokinjo Trouble ni wa Gochuui o | Watch Out For Trouble in Your Neighborhood
     author: hotate-chan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/553426.jpg
@@ -507,4 +522,13 @@ works:
     date: '2026-09-10'
     code: 679958
     url: /works/679958/
+  - title: Buaisou na Kakure Kyonyuu Boyish Kanojo to Taikutsu na Date 2 | A Boring
+      Date with My Boyish Girlfriend (Who Has a Secretly Busty Figure and a Surly Attitude)
+      – Part 2
+    author: hatsuden-pengin
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680591.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 680591
+    url: /works/680591/
 ---

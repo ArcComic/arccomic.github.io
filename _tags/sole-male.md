@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole male"
-work_count: 544
+work_count: 560
 works:
   - title: Adoration
     author: kishizuka-kenji
@@ -226,6 +226,13 @@ works:
     date: '2026-04-27'
     code: 353025
     url: /works/353025/
+  - title: Mesukko Okami Wakarase Shuzai Kiroku
+    author: airandou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/354384.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 354384
+    url: /works/354384/
   - title: Kono Koi ni Kiduite
     author: danimaru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/357965.jpg
@@ -544,6 +551,14 @@ works:
     date: '2026-04-15'
     code: 470025
     url: /works/470025/
+  - title: Sekai ga Heiwa ni Natta node Yuusha (Jitsu wa ♀) ni Kyuukon Shita Kekka |
+      Marriage Proposal to the Hero (Actually ♀) When the World Is at Peace
+    author: natsuo-tsunao
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/471198.jpg
+    rating: 4.6
+    date: '2026-09-12'
+    code: 471198
+    url: /works/471198/
   - title: Musuko o Dokusen Suru Haha | The mother who monopolizes her son.
     author: yuriko-club
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/471998.jpg
@@ -630,6 +645,14 @@ works:
     date: '2026-09-09'
     code: 489566
     url: /works/489566/
+  - title: Gyakuten Enkou ~Ore ga Kawareru Sekai~ | Reversed Compensated Dating ~A World
+      Where I Get Bought~
+    author: nectar
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/494757.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 494757
+    url: /works/494757/
   - title: Nyuuin-chuu no Muramura wa...
     author: natsume-benkei
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/495599.jpg
@@ -776,6 +799,13 @@ works:
     date: '2026-04-15'
     code: 519274
     url: /works/519274/
+  - title: Motto♥ Okki na Saori-chan wa Fukiyou ni Eroi
+    author: aramaki-echizen
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/524436.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 524436
+    url: /works/524436/
   - title: Tsugunai Tsuma 1
     author: ren-suru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/526024.jpg
@@ -1140,6 +1170,14 @@ works:
     date: '2026-03-04'
     code: 573414
     url: /works/573414/
+  - title: Shasei Gamanshinai to Derarenai Burakku Kigyou | A Black Company Where You
+      Have To Hold Your Ejaculation To Get Out
+    author: keikouon
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/573973.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 573973
+    url: /works/573973/
   - title: Kimottama Kaa-chan to Kenka Bakari no Neet no Ore ga Kaa-san ni Nakadashi
       shite kara Nakayoku natta Hanashi - A story about How I, A NEET Who Always Fought
       with My Gutsy Mother,
@@ -1518,6 +1556,14 @@ works:
     date: '2026-04-23'
     code: 606276
     url: /works/606276/
+  - title: Tonari no Seki no Tomodachi to Issho ni Onanii Suru Hanashi | The Story About
+      Masturbating Together With the Friend Who Sits Next to Me
+    author: fuguta-ke
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/606563.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 606563
+    url: /works/606563/
   - title: Kouhai Otaku Tomodachi JK ga Kawai Sugirumon de!
     author: niji-teru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/606719.jpg
@@ -1574,7 +1620,7 @@ works:
       Iriya's Siblings~
     author: regdic
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/611888.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-11'
     code: 611888
     url: /works/611888/
@@ -1623,6 +1669,13 @@ works:
     date: '2026-04-14'
     code: 616170
     url: /works/616170/
+  - title: Kyonyuu no Tomodachi to Tsukiau made no Hanashi Kouhen
+    author: fuguta-ke
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/616893.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 616893
+    url: /works/616893/
   - title: Kyonyuu no Tomodachi to Tsukiau made no Hanashi Gojitsudan
     author: fuguta-ke
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/616896.jpg
@@ -1640,7 +1693,7 @@ works:
   - title: Tatoeba Konna Million Theater Soushuuhen I
     author: binsen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/617600.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-11'
     code: 617600
     url: /works/617600/
@@ -2005,6 +2058,13 @@ works:
     date: '2026-05-04'
     code: 637110
     url: /works/637110/
+  - title: Fetishism Vol. 20 ~Ashikoki Hen~
+    author: shinooka-homare
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/637252.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 637252
+    url: /works/637252/
   - title: Practice H with your mom!
     author: natsume-benkei
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/637655.jpg
@@ -2027,6 +2087,13 @@ works:
     date: '2026-09-05'
     code: 637940
     url: /works/637940/
+  - title: Fetishism Vol. 17 ~PanSto Hen~
+    author: matsunami-rumi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638126.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 638126
+    url: /works/638126/
   - title: The Story of Becoming the Husband of a Rich, Yandere Daughter
     author: kaisendoh
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638178.jpg
@@ -2844,7 +2911,7 @@ works:
       Horny Truth About Hosokawa
     author: momoiro-onsen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654850.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-11'
     code: 654850
     url: /works/654850/
@@ -2872,7 +2939,7 @@ works:
   - title: Smile me tender
     author: otsumoon
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/655514.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-11'
     code: 655514
     url: /works/655514/
@@ -2930,7 +2997,7 @@ works:
   - title: Musuko no Onegai | My son's wish...
     author: natsu-no-oyatsu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/657453.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-11'
     code: 657453
     url: /works/657453/
@@ -2949,6 +3016,14 @@ works:
     date: '2026-07-17'
     code: 658578
     url: /works/658578/
+  - title: Volley-bu no Shushou no Otouto Daikou o Suru Koto ni Natta Hanashi | The
+      story of how I ended up acting as the younger brother of the volleyball team captain
+    author: wes-heartland-smith
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/658633.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 658633
+    url: /works/658633/
   - title: Mama ga Inemuri shi tetanode
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/659164.jpg
@@ -3442,7 +3517,7 @@ works:
       a Previous Marriage
     author: sabano-fudeoki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673271.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-11'
     code: 673271
     url: /works/673271/
@@ -3802,6 +3877,13 @@ works:
     date: '2026-09-04'
     code: 677418
     url: /works/677418/
+  - title: The Honor Student’s Rebellious Phase
+    author: sayuumigi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/677525.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 677525
+    url: /works/677525/
   - title: Nijigen Otaku no Ore ga Tenkou Shite Kita Kyonyuu Idol ni Otosareru made
       - A 2D Otaku Falls for the Curvy Idol Transfer Student | How I, a 2D-Obsessed
       Otaku, Fell for the Busty Idol Who Transferred to My School
@@ -4028,8 +4110,48 @@ works:
       for a while..
     author: higehurai
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680315.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-11'
     code: 680315
     url: /works/680315/
+  - title: Ochiba Nikki -Nae Gasshuku Hen 1- | Fallen Leaves Diary -Nae's Training Camp
+      Arc 1-
+    author: hitoi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680481.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 680481
+    url: /works/680481/
+  - title: Enjo Kouhai 15
+    author: takunomi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680555.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 680555
+    url: /works/680555/
+  - title: Kioku Soshitsu no Musume o Hirottara Succubus Datta | The Amnesiac Girl I
+      Picked Up Turned Out to Be a Succubus
+    author: kayumidome
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680592.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 680592
+    url: /works/680592/
+  - title: 15-Nen-buri ni Saikai shita Dakashiya no Ikiokure Nagachichi Onee-san wa
+      Ooatari | Reuniting after 15 years, the unmarried older sister who runs the penny
+      candy shop is a total knockout.
+    author: osunu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680594.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 680594
+    url: /works/680594/
+  - title: Saki to Natsu no Asedaku Onmitsu Sakusen! | Saki and the Sweaty Summer Stealth
+      Operation!
+    author: aramaki-echizen
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680675.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 680675
+    url: /works/680675/
 ---

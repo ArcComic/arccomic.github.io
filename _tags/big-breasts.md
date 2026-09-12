@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big breasts"
-work_count: 664
+work_count: 675
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -875,6 +875,13 @@ works:
     date: '2026-05-04'
     code: 519713
     url: /works/519713/
+  - title: Motto♥ Okki na Saori-chan wa Fukiyou ni Eroi
+    author: aramaki-echizen
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/524436.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 524436
+    url: /works/524436/
   - title: Tsugunai Tsuma 1
     author: ren-suru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/526024.jpg
@@ -1736,6 +1743,14 @@ works:
     date: '2026-04-27'
     code: 606166
     url: /works/606166/
+  - title: Tonari no Seki no Tomodachi to Issho ni Onanii Suru Hanashi | The Story About
+      Masturbating Together With the Friend Who Sits Next to Me
+    author: fuguta-ke
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/606563.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 606563
+    url: /works/606563/
   - title: Sono Gal Mama wa Koubi Suru | This Gyaru Mom is Having Sex.
     author: ameto-yuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/608648.jpg
@@ -1793,7 +1808,7 @@ works:
       Iriya's Siblings~
     author: regdic
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/611888.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-11'
     code: 611888
     url: /works/611888/
@@ -1878,6 +1893,13 @@ works:
     date: '2026-08-25'
     code: 616367
     url: /works/616367/
+  - title: Kyonyuu no Tomodachi to Tsukiau made no Hanashi Kouhen
+    author: fuguta-ke
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/616893.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 616893
+    url: /works/616893/
   - title: Kyonyuu no Tomodachi to Tsukiau made no Hanashi Gojitsudan
     author: fuguta-ke
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/616896.jpg
@@ -1939,7 +1961,7 @@ works:
   - title: Koujoku Juurin
     author: nbe
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/626580.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-11'
     code: 626580
     url: /works/626580/
@@ -3181,7 +3203,7 @@ works:
   - title: Boku no Kanojo wa Okaasan
     author: momoiro-onsen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654091.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-11'
     code: 654091
     url: /works/654091/
@@ -3374,7 +3396,7 @@ works:
   - title: Musuko no Onegai | My son's wish...
     author: natsu-no-oyatsu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/657453.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-11'
     code: 657453
     url: /works/657453/
@@ -3388,7 +3410,7 @@ works:
   - title: Oba-san to Umi no Ie de
     author: soba
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/657559.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-11'
     code: 657559
     url: /works/657559/
@@ -3400,6 +3422,14 @@ works:
     date: '2026-07-17'
     code: 658578
     url: /works/658578/
+  - title: Volley-bu no Shushou no Otouto Daikou o Suru Koto ni Natta Hanashi | The
+      story of how I ended up acting as the younger brother of the volleyball team captain
+    author: wes-heartland-smith
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/658633.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 658633
+    url: /works/658633/
   - title: Make Love Rank match!!③
     author: napo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/659484.jpg
@@ -3704,7 +3734,7 @@ works:
   - title: Seductive Life insurance saleswoman
     author: haitoku-dou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662852.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-11'
     code: 662852
     url: /works/662852/
@@ -4092,6 +4122,13 @@ works:
     date: '2026-08-31'
     code: 669505
     url: /works/669505/
+  - title: Wari no Ii Beit Nante Sonzai Shinai | This job was too good to be true
+    author: hikitogu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/670195.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 670195
+    url: /works/670195/
   - title: Friend With Benefit With My Friends Mom
     author: cammy
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/671657.jpg
@@ -4860,45 +4897,93 @@ works:
   - title: Oman control
     author: kijima-daisyarin-yoisho53
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680312.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-09-11'
     code: 680312
     url: /works/680312/
   - title: Oni to Musume
     author: sachie
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680317.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-11'
     code: 680317
     url: /works/680317/
   - title: Panpan Travelers HIROSHIMA Shuudan Rape Ryokou Hen-MTL
     author: raidon
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680318.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-11'
     code: 680318
     url: /works/680318/
   - title: Panpan Travelers OKINAWA Shuudan Rape Zumi Harem Hitoritabi Hen-MTL
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680323.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-11'
     code: 680323
     url: /works/680323/
   - title: Fucking slut ~Welcome to the training room~ MTL
     author: mabo-nasu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680326.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-11'
     code: 680326
     url: /works/680326/
   - title: Anna ~The Fate of a Former Idol~ MTL
     author: mabo-nasu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680329.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-11'
     code: 680329
     url: /works/680329/
+  - title: Enjo Kouhai 15
+    author: takunomi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680555.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 680555
+    url: /works/680555/
+  - title: Netorarete Netorasete 2
+    author: amano-kazumi-taira-issui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680574.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 680574
+    url: /works/680574/
+  - title: Buaisou na Kakure Kyonyuu Boyish Kanojo to Taikutsu na Date 2 | A Boring
+      Date with My Boyish Girlfriend (Who Has a Secretly Busty Figure and a Surly Attitude)
+      – Part 2
+    author: hatsuden-pengin
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680591.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 680591
+    url: /works/680591/
+  - title: Kioku Soshitsu no Musume o Hirottara Succubus Datta | The Amnesiac Girl I
+      Picked Up Turned Out to Be a Succubus
+    author: kayumidome
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680592.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 680592
+    url: /works/680592/
+  - title: 15-Nen-buri ni Saikai shita Dakashiya no Ikiokure Nagachichi Onee-san wa
+      Ooatari | Reuniting after 15 years, the unmarried older sister who runs the penny
+      candy shop is a total knockout.
+    author: osunu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680594.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 680594
+    url: /works/680594/
+  - title: Saki to Natsu no Asedaku Onmitsu Sakusen! | Saki and the Sweaty Summer Stealth
+      Operation!
+    author: aramaki-echizen
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680675.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 680675
+    url: /works/680675/
   - title: Hottokenaino
     author: hara-shigeyuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/77864.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "orgasm denial"
-work_count: 8
+work_count: 9
 works:
   - title: Ayami Hypno
     author: yasuhiro
@@ -33,6 +33,14 @@ works:
     date: '2026-04-27'
     code: 416883
     url: /works/416883/
+  - title: Shasei Gamanshinai to Derarenai Burakku Kigyou | A Black Company Where You
+      Have To Hold Your Ejaculation To Get Out
+    author: keikouon
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/573973.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 573973
+    url: /works/573973/
   - title: My AR glasses can see various stats about my foster sister?!
     author: pz-x
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/589010.jpg

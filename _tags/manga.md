@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "manga"
-work_count: 239
+work_count: 241
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -900,7 +900,7 @@ works:
       Iriya's Siblings~
     author: regdic
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/611888.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-11'
     code: 611888
     url: /works/611888/
@@ -1054,6 +1054,13 @@ works:
     date: '2026-03-09'
     code: 635801
     url: /works/635801/
+  - title: Fetishism Vol. 20 ~Ashikoki Hen~
+    author: shinooka-homare
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/637252.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 637252
+    url: /works/637252/
   - title: Chinpo ni Katenai Onna-tachi
     author: oobayashi-mori
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638359.jpg
@@ -1708,7 +1715,7 @@ works:
   - title: Oman control
     author: kijima-daisyarin-yoisho53
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680312.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-09-11'
     code: 680312
     url: /works/680312/
@@ -1733,4 +1740,11 @@ works:
     date: '2026-03-11'
     code: 83595
     url: /works/83595/
+  - title: Onee-chan no SM Kouza | Onee-chan's S&M Lecture
+    author: shinooka-homare
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/88750.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 88750
+    url: /works/88750/
 ---

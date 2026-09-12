@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "scar"
-work_count: 5
+work_count: 6
 works:
   - title: Kimi to Itami wo Wakachi "AI" tai | I Want to Share Your Pain
     author: betty
@@ -10,6 +10,14 @@ works:
     date: '2026-09-04'
     code: 294902
     url: /works/294902/
+  - title: Sekai ga Heiwa ni Natta node Yuusha (Jitsu wa ♀) ni Kyuukon Shita Kekka |
+      Marriage Proposal to the Hero (Actually ♀) When the World Is at Peace
+    author: natsuo-tsunao
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/471198.jpg
+    rating: 4.6
+    date: '2026-09-12'
+    code: 471198
+    url: /works/471198/
   - title: 'Moto Mahou Shoujo no Shigoto Hanashi Ao Zenjitsutan | Former Magical Girl
       Blue''s Work: The Prequel'
     author: zhen-lu

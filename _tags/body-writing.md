@@ -58,7 +58,7 @@ works:
       ga Owaranai Zangyou Sex de Songen
     author: hachi-mega
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680311.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-11'
     code: 680311
     url: /works/680311/

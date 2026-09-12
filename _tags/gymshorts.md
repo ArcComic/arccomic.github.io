@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "gymshorts"
-work_count: 9
+work_count: 10
 works:
   - title: Suki Araba Kareshi no Seiheki o Yugametai! ~Kimi no Aegi ga Mada Tarinai~
     author: meeko
@@ -71,4 +71,11 @@ works:
     date: '2026-07-17'
     code: 664758
     url: /works/664758/
+  - title: Enjo Kouhai 15
+    author: takunomi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680555.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 680555
+    url: /works/680555/
 ---

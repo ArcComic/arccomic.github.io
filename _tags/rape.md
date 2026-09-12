@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "rape"
-work_count: 154
+work_count: 157
 works:
   - title: Office Love Scramble Ch. 1
     author: tohzai
@@ -572,6 +572,13 @@ works:
     date: '2026-07-16'
     code: 637709
     url: /works/637709/
+  - title: Fetishism Vol. 17 ~PanSto Hen~
+    author: matsunami-rumi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638126.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 638126
+    url: /works/638126/
   - title: Anta, Nandetatten no?
     author: daidai-shikibu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642770.jpg
@@ -1014,6 +1021,13 @@ works:
     date: '2026-09-06'
     code: 673207
     url: /works/673207/
+  - title: Aisuru Tsuma wa Hei no Naka | My beloved wife is behind bars
+    author: hikitogu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673453.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 673453
+    url: /works/673453/
   - title: Jitaku ni Shinnyuu Sareta Onnanoko ~Shojo Soushitsu Nakadashi Rape~
     author: usagi-no-yume
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673983.jpg
@@ -1119,8 +1133,16 @@ works:
   - title: Panpan Travelers HIROSHIMA Shuudan Rape Ryokou Hen-MTL
     author: raidon
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680318.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-11'
     code: 680318
     url: /works/680318/
+  - title: Ochiba Nikki -Nae Gasshuku Hen 1- | Fallen Leaves Diary -Nae's Training Camp
+      Arc 1-
+    author: hitoi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680481.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 680481
+    url: /works/680481/
 ---

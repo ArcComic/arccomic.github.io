@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "netorare"
-work_count: 254
+work_count: 259
 works:
   - title: Hitozuma Hyakka
     author: hase-tsubura
@@ -604,6 +604,13 @@ works:
     date: '2026-07-10'
     code: 550164
     url: /works/550164/
+  - title: LeveChi na Swapping 2 ~Hatsu Zecchou de Iki Kuruu Tsuma Hen~
+    author: hikitogu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/552541.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 552541
+    url: /works/552541/
   - title: Gokinjo Trouble ni wa Gochuui o | Watch Out For Trouble in Your Neighborhood
     author: hotate-chan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/553426.jpg
@@ -1611,6 +1618,13 @@ works:
     date: '2026-08-20'
     code: 669452
     url: /works/669452/
+  - title: Wari no Ii Beit Nante Sonzai Shinai | This job was too good to be true
+    author: hikitogu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/670195.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 670195
+    url: /works/670195/
   - title: Akogare Senpai ga NTR sareru Hon
     author: seinen-hormone
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/672241.jpg
@@ -1640,6 +1654,13 @@ works:
     date: '2026-09-06'
     code: 673207
     url: /works/673207/
+  - title: Aisuru Tsuma wa Hei no Naka | My beloved wife is behind bars
+    author: hikitogu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673453.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 673453
+    url: /works/673453/
   - title: Watashi no Kareshi to Motokare o Shoukai shimasu
     author: hone
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673774.jpg
@@ -1866,10 +1887,25 @@ works:
   - title: Fucking slut ~Welcome to the training room~ MTL
     author: mabo-nasu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680326.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-11'
     code: 680326
     url: /works/680326/
+  - title: Ochiba Nikki -Nae Gasshuku Hen 1- | Fallen Leaves Diary -Nae's Training Camp
+      Arc 1-
+    author: hitoi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680481.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 680481
+    url: /works/680481/
+  - title: Netorarete Netorasete 2
+    author: amano-kazumi-taira-issui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680574.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 680574
+    url: /works/680574/
   - title: Inin Keiyaku | Lewd Pregnancy Contract
     author: yoshiura-kazuya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/83595.jpg

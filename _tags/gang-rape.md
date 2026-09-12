@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "gang rape"
-work_count: 4
+work_count: 5
 works:
   - title: Daisuki Datta Onii-chan | My Once Beloved Older Cousin
     author: minakami-riku
@@ -24,6 +24,13 @@ works:
     date: '2026-05-10'
     code: 649068
     url: /works/649068/
+  - title: Aisuru Tsuma wa Hei no Naka | My beloved wife is behind bars
+    author: hikitogu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673453.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 673453
+    url: /works/673453/
   - title: Ichiryuu Sennyuu Sousakan Haiboku | Ryosen Infiltration Agent Defeated
     author: bloiler-yachou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/675048.jpg

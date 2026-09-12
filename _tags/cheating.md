@@ -1256,7 +1256,7 @@ works:
   - title: Boku no Kanojo wa Okaasan
     author: momoiro-onsen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654091.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-11'
     code: 654091
     url: /works/654091/
@@ -1291,7 +1291,7 @@ works:
   - title: Musuko no Onegai | My son's wish...
     author: natsu-no-oyatsu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/657453.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-11'
     code: 657453
     url: /works/657453/
@@ -1305,7 +1305,7 @@ works:
   - title: Oba-san to Umi no Ie de
     author: soba
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/657559.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-11'
     code: 657559
     url: /works/657559/
@@ -1494,7 +1494,7 @@ works:
       a Previous Marriage
     author: sabano-fudeoki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673271.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-11'
     code: 673271
     url: /works/673271/
@@ -1676,14 +1676,14 @@ works:
       for a while..
     author: higehurai
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680315.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-11'
     code: 680315
     url: /works/680315/
   - title: Fucking slut ~Welcome to the training room~ MTL
     author: mabo-nasu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680326.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-11'
     code: 680326
     url: /works/680326/
