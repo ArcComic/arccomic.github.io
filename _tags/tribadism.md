@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "tribadism"
-work_count: 8
+work_count: 9
 works:
   - title: Gekkoutou no Yume - Nyotaika Douwa ~Danshi Kinsei no Tou~
     author: mugen-no-sudadokei
@@ -10,6 +10,13 @@ works:
     date: '2026-08-21'
     code: 387365
     url: /works/387365/
+  - title: Hyoui Osen de Yuri Ecchi | Lesbian Sex through Corrupting Possession
+    author: siina-yuuki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/404458.jpg
+    rating: 0.0
+    date: '2026-09-13'
+    code: 404458
+    url: /works/404458/
   - title: Celestial Doll 1-5
     author: mr-kurz
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/595353.jpg

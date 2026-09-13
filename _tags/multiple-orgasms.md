@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "multiple orgasms"
-work_count: 77
+work_count: 81
 works:
   - title: Rako Slip!
     author: bujidearu
@@ -176,6 +176,14 @@ works:
     date: '2026-09-12'
     code: 606563
     url: /works/606563/
+  - title: Okki na Kanojo ni Amaetai ~Kanojo nanoni Mama~ | I Want to be Pampered By
+      a Girl of Generous Girth ~My Mommy-Like Girlfriend~
+    author: higashino-mikan
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/608734.jpg
+    rating: 0.0
+    date: '2026-09-13'
+    code: 608734
+    url: /works/608734/
   - title: Zenin Mukuwarenai Harem | A Harem Where No One Is Reciprocated
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/610041.jpg
@@ -259,6 +267,14 @@ works:
     date: '2026-03-07'
     code: 634464
     url: /works/634464/
+  - title: Kachiki na Single Mother to Dosukebe Netsuai Seikou | Dirty and Passionate
+      Sex with a Single Mother 1
+    author: botamochi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/641977.jpg
+    rating: 0.0
+    date: '2026-09-13'
+    code: 641977
+    url: /works/641977/
   - title: Because Ura Wants To Be More Than "Just An Acquaintance"
     author: the-waidan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642793.jpg
@@ -443,6 +459,14 @@ works:
     date: '2026-08-18'
     code: 656319
     url: /works/656319/
+  - title: Giri no Onee-chan to Sex Suru Hanashi | The story of having sex with my well
+      behaved sister
+    author: higashino-mikan
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/657607.jpg
+    rating: 0.0
+    date: '2026-09-13'
+    code: 657607
+    url: /works/657607/
   - title: Murasaki no Shoumei ~Kuroi Muchuu~ | Purple Illumination ~Dark Trance~
     author: '3104'
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/660867.jpg
@@ -566,15 +590,23 @@ works:
       and The Once Crowned Princess
     author: jagi-iwa
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680720.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-13'
     code: 680720
     url: /works/680720/
   - title: 'Test of Courage: Group Humiliation'
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680735.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-12'
     code: 680735
     url: /works/680735/
+  - title: 'Sorry for Craving Dick at the Wholesome Massage Place: NTR Massage With
+      My Ex'
+    author: hoshina-mimiwo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680971.jpg
+    rating: 0.0
+    date: '2026-09-13'
+    code: 680971
+    url: /works/680971/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "x-ray"
-work_count: 197
+work_count: 205
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -28,7 +28,7 @@ works:
   - title: Hajimete Kanojo Ga Dekita No Ni
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/316579.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-13'
     code: 316579
     url: /works/316579/
@@ -108,7 +108,7 @@ works:
       to with Sex and Got Addicted
     author: kirin-kakeru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/449158.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-12'
     code: 449158
     url: /works/449158/
@@ -163,6 +163,13 @@ works:
     date: '2026-07-10'
     code: 476399
     url: /works/476399/
+  - title: Hiyoko-san wa Sewazuki | Hiyoko is a Busybody
+    author: maeda-momo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/480065.jpg
+    rating: 0.0
+    date: '2026-09-13'
+    code: 480065
+    url: /works/480065/
   - title: Anoko wa Boku ga Suki ja Nai Boku dake ga Kizuiteta Hazu no Loli Kyonyuu
       Jimikei Bungaku Shoujo | She Doesn't Like Me ~ I thought I was the only one~ Plain
       Busty Bookworm Girl
@@ -192,7 +199,7 @@ works:
       | Switch bodies and have noisy sex! I can't stand Ayanee's sensitive body 1-6
     author: suishin-tenra
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/500467.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-12'
     code: 500467
     url: /works/500467/
@@ -688,6 +695,14 @@ works:
     date: '2026-04-19'
     code: 638359
     url: /works/638359/
+  - title: Kachiki na Single Mother to Dosukebe Netsuai Seikou | Dirty and Passionate
+      Sex with a Single Mother 1
+    author: botamochi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/641977.jpg
+    rating: 0.0
+    date: '2026-09-13'
+    code: 641977
+    url: /works/641977/
   - title: Imouto Haramasenai to Derarenai Shima 2
     author: airandou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/643375.jpg
@@ -740,6 +755,14 @@ works:
     date: '2026-04-21'
     code: 644931
     url: /works/644931/
+  - title: Class de Kakure Ninki no Hirose-san ga Guigui kuru! | Hirose-san, the class's
+      secret crush, is making a bold move!
+    author: bunapi-397-yen
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/645116.jpg
+    rating: 0.0
+    date: '2026-09-13'
+    code: 645116
+    url: /works/645116/
   - title: 'YariCir Shingakki ni Boku no Heya wa Minna no Tamariba (Omake Ver.) - Fuck
       Club: New Term! My Room''s A Hangout Spot For Everyone'
     author: purumetal
@@ -791,7 +814,7 @@ works:
   - title: Kano Mama no Ana | The Mom Hole
     author: shimofuri
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/646022.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-09-12'
     code: 646022
     url: /works/646022/
@@ -960,7 +983,7 @@ works:
       Friend's Mom
     author: shimofuri
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651895.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-12'
     code: 651895
     url: /works/651895/
@@ -1046,6 +1069,14 @@ works:
     date: '2026-09-09'
     code: 657459
     url: /works/657459/
+  - title: Giri no Onee-chan to Sex Suru Hanashi | The story of having sex with my well
+      behaved sister
+    author: higashino-mikan
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/657607.jpg
+    rating: 0.0
+    date: '2026-09-13'
+    code: 657607
+    url: /works/657607/
   - title: 'Fukushū Yami Baito "Watashi no Moto Tsuma o Ninshin Sasete Hoshī" | My Part-Time
       Job Is Getting Revenge: Get My Ex-Wife Pregnant'
     author: chotto-b-sen
@@ -1054,6 +1085,14 @@ works:
     date: '2026-07-17'
     code: 658578
     url: /works/658578/
+  - title: 'Doll Muchi na Jinzou Otome-tachi -Eve Hen 2- | Dolls: Oblivious Man-made
+      Maidens -Eve Pt.2-'
+    author: ushinomiya
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/659068.jpg
+    rating: 0.0
+    date: '2026-09-13'
+    code: 659068
+    url: /works/659068/
   - title: Make Love Rank match!!③
     author: napo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/659484.jpg
@@ -1465,15 +1504,39 @@ works:
       and The Once Crowned Princess
     author: jagi-iwa
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680720.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-13'
     code: 680720
     url: /works/680720/
   - title: 'Test of Courage: Group Humiliation'
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680735.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-12'
     code: 680735
     url: /works/680735/
+  - title: Matching Joshi Kousei no Ecchi na Seiikuki 2 Jishin Manman no Gal Joshi Kousei
+      "Mana", Ai to Seieki de Mitashite, Hatsujou Mesu e to Otosu made~ | Matching Schoolgirls
+      Naughty Sex Education Diary 2 Confident Gyaru Schoolgirl Mana is filled with love
+      and semen until she turns into a horny female
+    author: rikazu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680991.jpg
+    rating: 0.0
+    date: '2026-09-13'
+    code: 680991
+    url: /works/680991/
+  - title: Cooking Pakopako | Cooking Fucka
+    author: otochichi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681004.jpg
+    rating: 0.0
+    date: '2026-09-13'
+    code: 681004
+    url: /works/681004/
+  - title: Kyoudai Igai ni Nareta nara | If We Could Be More Than Siblings
+    author: oshima-aki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681030.jpg
+    rating: 0.0
+    date: '2026-09-13'
+    code: 681030
+    url: /works/681030/
 ---

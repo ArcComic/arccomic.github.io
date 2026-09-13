@@ -12,7 +12,7 @@ works:
   - title: Ki ga Tsuyoi Joshi Announcer ga Kutsujoku ni Taerarenaku Naru made Night
       Pool Hen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/528302.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-13'
     code: 528302
     url: /works/528302/

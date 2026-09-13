@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "scanmark"
-work_count: 130
+work_count: 133
 works:
   - title: NTR Anniversary + ) [Syukurin] Mitsuha ~Netorare~ (Kimi no Na wa.) [English]
       [Colorized] by Mikaku
@@ -207,6 +207,13 @@ works:
     date: '2026-05-05'
     code: 638218
     url: /works/638218/
+  - title: Eat Meat + Digital Tokusouban Gentei Tokuten - Natsume-san wa Chorosugiru!
+    author: ushinomiya
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638556.jpg
+    rating: 0.0
+    date: '2026-09-13'
+    code: 638556
+    url: /works/638556/
   - title: Otokomasari na Kyonyuu Hitozuma Joushi to Amaama SeFri Kankei ni Natta Ken
     author: elica
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/641362.jpg
@@ -471,6 +478,13 @@ works:
     date: '2026-08-24'
     code: 659164
     url: /works/659164/
+  - title: Falling of summer
+    author: monono-ex
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/659199.jpg
+    rating: 0.0
+    date: '2026-09-13'
+    code: 659199
+    url: /works/659199/
   - title: Shokushu Flower Shop no Onee-san
     author: dozamura
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/661796.jpg
@@ -616,6 +630,13 @@ works:
     date: '2026-08-20'
     code: 669452
     url: /works/669452/
+  - title: Mama no, Sono Eroi Karada ga Ikenainda 1-2
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/672310.jpg
+    rating: 0.0
+    date: '2026-09-13'
+    code: 672310
+    url: /works/672310/
   - title: Boku-tachi Mama to Yattemasu
     author: ameto-yuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/672450.jpg
@@ -932,14 +953,14 @@ works:
   - title: 'Test of Courage: Group Humiliation'
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680735.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-12'
     code: 680735
     url: /works/680735/
   - title: I Got an "Anything Coupon" from My Older Cousin...
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680739.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-09-12'
     code: 680739
     url: /works/680739/

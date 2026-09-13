@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "netorare"
-work_count: 267
+work_count: 269
 works:
   - title: Hitozuma Hyakka
     author: hase-tsubura
@@ -91,7 +91,7 @@ works:
   - title: Hajimete Kanojo Ga Dekita No Ni
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/316579.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-13'
     code: 316579
     url: /works/316579/
@@ -134,7 +134,7 @@ works:
       You-
     author: kuguri-oimo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/387648.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-09-12'
     code: 387648
     url: /works/387648/
@@ -276,7 +276,7 @@ works:
       to with Sex and Got Addicted
     author: kirin-kakeru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/449158.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-12'
     code: 449158
     url: /works/449158/
@@ -774,7 +774,7 @@ works:
       and Seduces me into Adulterous Sex~ + Bonus
     author: purumetal
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/583637.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-13'
     code: 583637
     url: /works/583637/
@@ -1102,7 +1102,7 @@ works:
       After Being Violated by a Murderer
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642708.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-13'
     code: 642708
     url: /works/642708/
@@ -1226,7 +1226,7 @@ works:
   - title: Kano Mama no Ana | The Mom Hole
     author: shimofuri
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/646022.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-09-12'
     code: 646022
     url: /works/646022/
@@ -1958,7 +1958,7 @@ works:
   - title: Madoka-san's first time
     author: mance
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680731.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-12'
     code: 680731
     url: /works/680731/
@@ -1967,10 +1967,25 @@ works:
       Anyone About.
     author: harufumi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680771.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-12'
     code: 680771
     url: /works/680771/
+  - title: Ore, Netoraretaindesu!!! Ch. 03-04
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680970.jpg
+    rating: 0.0
+    date: '2026-09-13'
+    code: 680970
+    url: /works/680970/
+  - title: 'Sorry for Craving Dick at the Wholesome Massage Place: NTR Massage With
+      My Ex'
+    author: hoshina-mimiwo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680971.jpg
+    rating: 0.0
+    date: '2026-09-13'
+    code: 680971
+    url: /works/680971/
   - title: Inin Keiyaku | Lewd Pregnancy Contract
     author: yoshiura-kazuya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/83595.jpg

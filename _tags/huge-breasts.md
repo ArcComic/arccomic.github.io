@@ -1,12 +1,12 @@
 ---
 layout: tag
 tag_name: "huge breasts"
-work_count: 59
+work_count: 63
 works:
   - title: Furuhonya no Onee-san to | With The Lady From The Used Book Shop
     author: nodame
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/306725.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-12'
     code: 306725
     url: /works/306725/
@@ -78,7 +78,7 @@ works:
       Hanashi | Learning About Sex From My Friend's Mom
     author: takeda-aranobu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/593434.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-12'
     code: 593434
     url: /works/593434/
@@ -149,6 +149,14 @@ works:
     date: '2026-03-11'
     code: 636122
     url: /works/636122/
+  - title: Kachiki na Single Mother to Dosukebe Netsuai Seikou | Dirty and Passionate
+      Sex with a Single Mother 1
+    author: botamochi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/641977.jpg
+    rating: 0.0
+    date: '2026-09-13'
+    code: 641977
+    url: /works/641977/
   - title: 'Otto no Shakkin Nakadashi Hensai Gifu ni Mi o Uru Komochi Tsuma | My Husband’s
       Debt: A Wife Sells Herself to Her Father-in-Law as Creampie Repayment'
     author: onodera
@@ -234,7 +242,7 @@ works:
       Friend's Mom
     author: shimofuri
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651895.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-12'
     code: 651895
     url: /works/651895/
@@ -432,15 +440,40 @@ works:
   - title: Madoka-san's first time
     author: mance
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680731.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-12'
     code: 680731
     url: /works/680731/
   - title: Ichigo Chichi e｜Once in a Lifetime Chest Encounter
     author: kuronomiki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680762.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-12'
     code: 680762
     url: /works/680762/
+  - title: '"Kiss Nanka Shitara Akatyan Dekityau Darouga!"Jituha Seithisiki Zero no
+      Sanpakugan Yariman Yankey Deka Onna to Jituha Tuyosugiru Seiyoku wo Hissi de Osaekonderu
+      Huukiin no Boku'
+    author: gar
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680847.jpg
+    rating: 0.0
+    date: '2026-09-13'
+    code: 680847
+    url: /works/680847/
+  - title: Masaka Ano Oni Joushi ga Ore no SeFri ni Naru nante... 4 ~ Oni Joushi to
+      Kokoro to Karada Kasaneru Jun'ai Kekkon Shoya | I never thought that diabolical
+      boss would become my sex friend 4
+    author: botamochi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680885.jpg
+    rating: 0.0
+    date: '2026-09-13'
+    code: 680885
+    url: /works/680885/
+  - title: Cooking Pakopako | Cooking Fucka
+    author: otochichi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681004.jpg
+    rating: 0.0
+    date: '2026-09-13'
+    code: 681004
+    url: /works/681004/
 ---

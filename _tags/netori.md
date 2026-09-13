@@ -22,7 +22,7 @@ works:
       You-
     author: kuguri-oimo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/387648.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-09-12'
     code: 387648
     url: /works/387648/
@@ -31,7 +31,7 @@ works:
       to with Sex and Got Addicted
     author: kirin-kakeru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/449158.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-12'
     code: 449158
     url: /works/449158/
@@ -39,7 +39,7 @@ works:
       Netoru made
     author: sage-joh
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/526368.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-12'
     code: 526368
     url: /works/526368/
@@ -77,7 +77,7 @@ works:
   - title: Kano Mama no Ana | The Mom Hole
     author: shimofuri
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/646022.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-09-12'
     code: 646022
     url: /works/646022/
@@ -92,7 +92,7 @@ works:
       Friend's Mom
     author: shimofuri
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651895.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-12'
     code: 651895
     url: /works/651895/

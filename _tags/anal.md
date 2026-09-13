@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "anal"
-work_count: 100
+work_count: 102
 works:
   - title: Hitozuma Hyakka
     author: hase-tsubura
@@ -263,7 +263,7 @@ works:
   - title: Senpai No Oppai Complete
     author: menoko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/624238.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-12'
     code: 624238
     url: /works/624238/
@@ -320,6 +320,13 @@ works:
     date: '2026-03-07'
     code: 635363
     url: /works/635363/
+  - title: Eat Meat + Digital Tokusouban Gentei Tokuten - Natsume-san wa Chorosugiru!
+    author: ushinomiya
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638556.jpg
+    rating: 0.0
+    date: '2026-09-13'
+    code: 638556
+    url: /works/638556/
   - title: Akogare no Hito wa Mou Owari! 3
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642586.jpg
@@ -722,17 +729,24 @@ works:
   - title: 'Test of Courage: Group Humiliation'
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680735.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-12'
     code: 680735
     url: /works/680735/
   - title: Sherry no Eroi Hon. | Sherry's Lewd Book
     author: sgk
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680742.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-12'
     code: 680742
     url: /works/680742/
+  - title: Cooking Pakopako | Cooking Fucka
+    author: otochichi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681004.jpg
+    rating: 0.0
+    date: '2026-09-13'
+    code: 681004
+    url: /works/681004/
   - title: Jokyoushi - Hot For Teachers | Female Teachers
     author: drill-murata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/81375.jpg

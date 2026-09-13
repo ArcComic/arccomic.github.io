@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "clit stimulation"
-work_count: 19
+work_count: 20
 works:
   - title: Senpai, Sonna no Shiranai desu ~Bansou shite ita Kare no Yubi wa Ima, Watashi
       no Naka o Midashiteru~ | Senpai, I Don't Know About That - His Fingers That Were
@@ -148,8 +148,16 @@ works:
   - title: I Got an "Anything Coupon" from My Older Cousin...
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680739.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-09-12'
     code: 680739
     url: /works/680739/
+  - title: 'Sorry for Craving Dick at the Wholesome Massage Place: NTR Massage With
+      My Ex'
+    author: hoshina-mimiwo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680971.jpg
+    rating: 0.0
+    date: '2026-09-13'
+    code: 680971
+    url: /works/680971/
 ---

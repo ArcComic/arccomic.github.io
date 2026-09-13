@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "glasses"
-work_count: 170
+work_count: 172
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -125,6 +125,13 @@ works:
     date: '2026-09-06'
     code: 396089
     url: /works/396089/
+  - title: Hyoui Osen de Yuri Ecchi | Lesbian Sex through Corrupting Possession
+    author: siina-yuuki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/404458.jpg
+    rating: 0.0
+    date: '2026-09-13'
+    code: 404458
+    url: /works/404458/
   - title: Kaisha no Iki Okure BBA Haramaseta | [Tragic News] I Knocked Up The Old Maid
       From My Office
     author: special-g
@@ -150,7 +157,7 @@ works:
   - title: The Time My Friend Turned Me Into His Girl Lover and Plaything
     author: menoko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/424735.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-12'
     code: 424735
     url: /works/424735/
@@ -615,6 +622,13 @@ works:
     date: '2026-09-12'
     code: 638126
     url: /works/638126/
+  - title: Eat Meat + Digital Tokusouban Gentei Tokuten - Natsume-san wa Chorosugiru!
+    author: ushinomiya
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638556.jpg
+    rating: 0.0
+    date: '2026-09-13'
+    code: 638556
+    url: /works/638556/
   - title: BUTA - 『You did a great job』
     author: buta
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/639772.jpg

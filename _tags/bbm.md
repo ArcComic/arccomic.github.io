@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bbm"
-work_count: 68
+work_count: 69
 works:
   - title: Kindan no Hatemitsu
     author: ryuuta
@@ -55,6 +55,13 @@ works:
     date: '2026-04-21'
     code: 431558
     url: /works/431558/
+  - title: The Show Must Go On!
+    author: chicken
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/432255.jpg
+    rating: 0.0
+    date: '2026-09-13'
+    code: 432255
+    url: /works/432255/
   - title: Yofukashi no Tsuma ~Murakami Kozue~ | Late-Night Wife ~Murakami Kozue~
     author: oobayashi-mori
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/453749.jpg
@@ -503,7 +510,7 @@ works:
       Anyone About.
     author: harufumi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680771.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-12'
     code: 680771
     url: /works/680771/

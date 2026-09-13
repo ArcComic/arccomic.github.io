@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "rape"
-work_count: 162
+work_count: 165
 works:
   - title: Office Love Scramble Ch. 1
     author: tohzai
@@ -28,7 +28,7 @@ works:
   - title: Hajimete Kanojo Ga Dekita No Ni
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/316579.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-13'
     code: 316579
     url: /works/316579/
@@ -97,6 +97,13 @@ works:
     date: '2026-04-13'
     code: 369382
     url: /works/369382/
+  - title: Harinezumi no Dilemma ① | A Hedgehog's Dilemma, Part 1
+    author: maeda-momo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/388627.jpg
+    rating: 0.0
+    date: '2026-09-13'
+    code: 388627
+    url: /works/388627/
   - title: Rako Slip!
     author: bujidearu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/393984.jpg
@@ -176,7 +183,7 @@ works:
       to with Sex and Got Addicted
     author: kirin-kakeru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/449158.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-12'
     code: 449158
     url: /works/449158/
@@ -307,7 +314,7 @@ works:
       Pool Hen
     author: crimson
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/528302.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-13'
     code: 528302
     url: /works/528302/
@@ -607,7 +614,7 @@ works:
       After Being Violated by a Murderer
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642708.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-13'
     code: 642708
     url: /works/642708/
@@ -873,6 +880,13 @@ works:
     date: '2026-08-24'
     code: 657981
     url: /works/657981/
+  - title: Falling of summer
+    author: monono-ex
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/659199.jpg
+    rating: 0.0
+    date: '2026-09-13'
+    code: 659199
+    url: /works/659199/
   - title: Chubby Nurse
     author: herohero-tom
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/659643.jpg
@@ -1031,6 +1045,13 @@ works:
     date: '2026-09-04'
     code: 668297
     url: /works/668297/
+  - title: Mama no, Sono Eroi Karada ga Ikenainda 1-2
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/672310.jpg
+    rating: 0.0
+    date: '2026-09-13'
+    code: 672310
+    url: /works/672310/
   - title: Boku-tachi Mama to Yattemasu
     author: ameto-yuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/672450.jpg
@@ -1180,7 +1201,7 @@ works:
   - title: 'Test of Courage: Group Humiliation'
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680735.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-12'
     code: 680735
     url: /works/680735/

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "paizuri"
-work_count: 147
+work_count: 151
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -27,7 +27,7 @@ works:
   - title: Furuhonya no Onee-san to | With The Lady From The Used Book Shop
     author: nodame
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/306725.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-12'
     code: 306725
     url: /works/306725/
@@ -82,6 +82,13 @@ works:
     date: '2026-04-13'
     code: 471387
     url: /works/471387/
+  - title: Hiyoko-san wa Sewazuki | Hiyoko is a Busybody
+    author: maeda-momo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/480065.jpg
+    rating: 0.0
+    date: '2026-09-13'
+    code: 480065
+    url: /works/480065/
   - title: Onsen Yukata na Kashima-san to Hamakaze-san to. | Hamakaze and Kashima in
       Hot Springs and Yukata
     author: sarfata
@@ -102,7 +109,7 @@ works:
       | Switch bodies and have noisy sex! I can't stand Ayanee's sensitive body 1-6
     author: suishin-tenra
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/500467.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-12'
     code: 500467
     url: /works/500467/
@@ -141,7 +148,7 @@ works:
   - title: Yojouhan Bio Seikatsu Soushuuhen
     author: sgk
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/527851.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-12'
     code: 527851
     url: /works/527851/
@@ -296,7 +303,7 @@ works:
       and Seduces me into Adulterous Sex~ + Bonus
     author: purumetal
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/583637.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-13'
     code: 583637
     url: /works/583637/
@@ -343,7 +350,7 @@ works:
       Hanashi | Learning About Sex From My Friend's Mom
     author: takeda-aranobu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/593434.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-12'
     code: 593434
     url: /works/593434/
@@ -538,6 +545,13 @@ works:
     date: '2026-05-05'
     code: 638218
     url: /works/638218/
+  - title: Eat Meat + Digital Tokusouban Gentei Tokuten - Natsume-san wa Chorosugiru!
+    author: ushinomiya
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638556.jpg
+    rating: 0.0
+    date: '2026-09-13'
+    code: 638556
+    url: /works/638556/
   - title: Onsen Haitte tara Joseito-tachi ga Osotte Kita | My Students Jumped Me When
       I Got in the Hot Spring
     author: hamo
@@ -729,7 +743,7 @@ works:
       Friend's Mom
     author: shimofuri
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651895.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-12'
     code: 651895
     url: /works/651895/
@@ -1099,15 +1113,32 @@ works:
   - title: Madoka-san's first time
     author: mance
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680731.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-12'
     code: 680731
     url: /works/680731/
   - title: Ichigo Chichi e｜Once in a Lifetime Chest Encounter
     author: kuronomiki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680762.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-12'
     code: 680762
     url: /works/680762/
+  - title: '"Kiss Nanka Shitara Akatyan Dekityau Darouga!"Jituha Seithisiki Zero no
+      Sanpakugan Yariman Yankey Deka Onna to Jituha Tuyosugiru Seiyoku wo Hissi de Osaekonderu
+      Huukiin no Boku'
+    author: gar
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680847.jpg
+    rating: 0.0
+    date: '2026-09-13'
+    code: 680847
+    url: /works/680847/
+  - title: Tetsu-kun datte Semeraretai? ~Do-S Kareshi no Chiikubi wa Ijirareru no o
+      Nozonderu~ | My Sadistic Boyfriend Tetsu-kun Wants Me To Tease His Nipples!
+    author: ntntgngn
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681023.jpg
+    rating: 0.0
+    date: '2026-09-13'
+    code: 681023
+    url: /works/681023/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "pubic stubble"
-work_count: 4
+work_count: 5
 works:
   - title: Ryoujoku Gakuen
     author: motchie
@@ -18,6 +18,14 @@ works:
     date: '2026-04-17'
     code: 566835
     url: /works/566835/
+  - title: Okki na Kanojo ni Amaetai ~Kanojo nanoni Mama~ | I Want to be Pampered By
+      a Girl of Generous Girth ~My Mommy-Like Girlfriend~
+    author: higashino-mikan
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/608734.jpg
+    rating: 0.0
+    date: '2026-09-13'
+    code: 608734
+    url: /works/608734/
   - title: 'Bijutsubu Harem Katsudou Nisshi ~Senpai no Slump Kaishou ni Kyouryoku shitara,
       Ikioi de 3P suru Koto ni Natta Hanashi~ | Art Club Harem Activity Log: How Helping
       My Senior Get Over Her Slump Led to a Threesome in the Heat of the Moment'

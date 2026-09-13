@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "tomboy"
-work_count: 33
+work_count: 38
 works:
   - title: Kizashi
     author: yoshiura-kazuya
@@ -10,6 +10,13 @@ works:
     date: '2026-03-09'
     code: 226386
     url: /works/226386/
+  - title: Harinezumi no Dilemma ① | A Hedgehog's Dilemma, Part 1
+    author: maeda-momo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/388627.jpg
+    rating: 0.0
+    date: '2026-09-13'
+    code: 388627
+    url: /works/388627/
   - title: Mecha Eroi kedo Sasoi ni Nottara Hametsushisou na Ko | A Girl Who Is Very
       Sexy But Will Ruin Me If I Ask Her Out
     author: 7zu7
@@ -46,6 +53,20 @@ works:
     date: '2026-05-03'
     code: 428415
     url: /works/428415/
+  - title: Joukou Philosophy | The Philosophy of Intimacy
+    author: tamabi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/429514.jpg
+    rating: 0.0
+    date: '2026-09-13'
+    code: 429514
+    url: /works/429514/
+  - title: The Show Must Go On!
+    author: chicken
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/432255.jpg
+    rating: 0.0
+    date: '2026-09-13'
+    code: 432255
+    url: /works/432255/
   - title: 'Portio Switch CASE: Varicata Portio | Cervix Switch CASE - Extra-hard Cervix'
     author: bang-you-didori
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/452141.jpg
@@ -61,6 +82,13 @@ works:
     date: '2026-09-12'
     code: 471198
     url: /works/471198/
+  - title: Hiyoko-san wa Sewazuki | Hiyoko is a Busybody
+    author: maeda-momo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/480065.jpg
+    rating: 0.0
+    date: '2026-09-13'
+    code: 480065
+    url: /works/480065/
   - title: Obedience Part 1
     author: laliberte
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/501709.jpg
@@ -246,8 +274,17 @@ works:
       Anyone About.
     author: harufumi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680771.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-12'
     code: 680771
     url: /works/680771/
+  - title: '"Kiss Nanka Shitara Akatyan Dekityau Darouga!"Jituha Seithisiki Zero no
+      Sanpakugan Yariman Yankey Deka Onna to Jituha Tuyosugiru Seiyoku wo Hissi de Osaekonderu
+      Huukiin no Boku'
+    author: gar
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680847.jpg
+    rating: 0.0
+    date: '2026-09-13'
+    code: 680847
+    url: /works/680847/
 ---

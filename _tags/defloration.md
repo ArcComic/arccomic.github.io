@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "defloration"
-work_count: 156
+work_count: 164
 works:
   - title: Love Approach
     author: hanafuda-sakurano
@@ -34,7 +34,7 @@ works:
   - title: Furuhonya no Onee-san to | With The Lady From The Used Book Shop
     author: nodame
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/306725.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-12'
     code: 306725
     url: /works/306725/
@@ -101,7 +101,7 @@ works:
   - title: Ore no Osananajimi ga Uza Kawaii!! | My Childhood Friend Is Annoyingly Cute!!
     author: mataro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/369139.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-09-13'
     code: 369139
     url: /works/369139/
@@ -112,6 +112,13 @@ works:
     date: '2026-09-06'
     code: 383468
     url: /works/383468/
+  - title: Harinezumi no Dilemma ① | A Hedgehog's Dilemma, Part 1
+    author: maeda-momo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/388627.jpg
+    rating: 0.0
+    date: '2026-09-13'
+    code: 388627
+    url: /works/388627/
   - title: Rako Slip!
     author: bujidearu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/393984.jpg
@@ -167,7 +174,7 @@ works:
   - title: The Time My Friend Turned Me Into His Girl Lover and Plaything
     author: menoko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/424735.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-12'
     code: 424735
     url: /works/424735/
@@ -185,6 +192,13 @@ works:
     date: '2026-04-15'
     code: 426769
     url: /works/426769/
+  - title: Joukou Philosophy | The Philosophy of Intimacy
+    author: tamabi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/429514.jpg
+    rating: 0.0
+    date: '2026-09-13'
+    code: 429514
+    url: /works/429514/
   - title: Gal ni Houkago Oppai Sawatte ku? te Sasowareru Hanashi | That Time Gyarus
       Asked Me to Grope their Tits After Class
     author: ono-hiroki
@@ -193,6 +207,13 @@ works:
     date: '2026-03-07'
     code: 431578
     url: /works/431578/
+  - title: The Show Must Go On!
+    author: chicken
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/432255.jpg
+    rating: 0.0
+    date: '2026-09-13'
+    code: 432255
+    url: /works/432255/
   - title: Kanojo no Kawaii Mieppari | My Cute Gyaru Girlfriend Is a Total Poser
     author: buta
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/441114.jpg
@@ -212,7 +233,7 @@ works:
       to with Sex and Got Addicted
     author: kirin-kakeru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/449158.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-12'
     code: 449158
     url: /works/449158/
@@ -241,7 +262,7 @@ works:
       | Switch bodies and have noisy sex! I can't stand Ayanee's sensitive body 1-6
     author: suishin-tenra
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/500467.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-12'
     code: 500467
     url: /works/500467/
@@ -441,6 +462,14 @@ works:
     date: '2026-04-27'
     code: 608677
     url: /works/608677/
+  - title: Okki na Kanojo ni Amaetai ~Kanojo nanoni Mama~ | I Want to be Pampered By
+      a Girl of Generous Girth ~My Mommy-Like Girlfriend~
+    author: higashino-mikan
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/608734.jpg
+    rating: 0.0
+    date: '2026-09-13'
+    code: 608734
+    url: /works/608734/
   - title: Zenin Mukuwarenai Harem | A Harem Where No One Is Reciprocated
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/610041.jpg
@@ -630,7 +659,7 @@ works:
       After Being Violated by a Murderer
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642708.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-13'
     code: 642708
     url: /works/642708/
@@ -669,6 +698,14 @@ works:
     date: '2026-05-03'
     code: 644810
     url: /works/644810/
+  - title: Class de Kakure Ninki no Hirose-san ga Guigui kuru! | Hirose-san, the class's
+      secret crush, is making a bold move!
+    author: bunapi-397-yen
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/645116.jpg
+    rating: 0.0
+    date: '2026-09-13'
+    code: 645116
+    url: /works/645116/
   - title: Oji Saimin Soushuuhen | Hypnotized Uncle Compilation Edition
     author: tokomaya-keita
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/645612.jpg
@@ -883,6 +920,14 @@ works:
     date: '2026-07-08'
     code: 656419
     url: /works/656419/
+  - title: Giri no Onee-chan to Sex Suru Hanashi | The story of having sex with my well
+      behaved sister
+    author: higashino-mikan
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/657607.jpg
+    rating: 0.0
+    date: '2026-09-13'
+    code: 657607
+    url: /works/657607/
   - title: Imouto ga Ore no Kanojo!? 2-haku 3-ka no Ecchi na Kankei | My Sister is My
       Girlfriend!? Sexual Relationship for Two Nights and Three Days
     author: katagiri-kaneharu
@@ -1152,8 +1197,24 @@ works:
   - title: I Got an "Anything Coupon" from My Older Cousin...
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680739.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-09-12'
     code: 680739
     url: /works/680739/
+  - title: '"Kiss Nanka Shitara Akatyan Dekityau Darouga!"Jituha Seithisiki Zero no
+      Sanpakugan Yariman Yankey Deka Onna to Jituha Tuyosugiru Seiyoku wo Hissi de Osaekonderu
+      Huukiin no Boku'
+    author: gar
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680847.jpg
+    rating: 0.0
+    date: '2026-09-13'
+    code: 680847
+    url: /works/680847/
+  - title: Kyoudai Igai ni Nareta nara | If We Could Be More Than Siblings
+    author: oshima-aki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681030.jpg
+    rating: 0.0
+    date: '2026-09-13'
+    code: 681030
+    url: /works/681030/
 ---

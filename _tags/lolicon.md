@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "lolicon"
-work_count: 68
+work_count: 70
 works:
   - title: Sensei wa Shougakusei ga Suki | Sensei Loves Elementary Schoolers
     author: fuyuno-mikan
@@ -33,6 +33,13 @@ works:
     date: '2026-02-26'
     code: 393984
     url: /works/393984/
+  - title: Hyoui Osen de Yuri Ecchi | Lesbian Sex through Corrupting Possession
+    author: siina-yuuki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/404458.jpg
+    rating: 0.0
+    date: '2026-09-13'
+    code: 404458
+    url: /works/404458/
   - title: Imouto no Nukumori | A Little Sister's warmth
     author: kinomoto-anzu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/407959.jpg
@@ -496,4 +503,11 @@ works:
     date: '2026-09-12'
     code: 680481
     url: /works/680481/
+  - title: Refle de Junai Dekimasu ka? - Can you find true love at a massage parlor?
+    author: hiyori-mizuki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681028.jpg
+    rating: 0.0
+    date: '2026-09-13'
+    code: 681028
+    url: /works/681028/
 ---

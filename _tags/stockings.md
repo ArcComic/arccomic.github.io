@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "stockings"
-work_count: 148
+work_count: 151
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -180,7 +180,7 @@ works:
       to with Sex and Got Addicted
     author: kirin-kakeru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/449158.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-12'
     code: 449158
     url: /works/449158/
@@ -431,7 +431,7 @@ works:
       Hanashi | Learning About Sex From My Friend's Mom
     author: takeda-aranobu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/593434.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-12'
     code: 593434
     url: /works/593434/
@@ -583,6 +583,13 @@ works:
     date: '2026-09-12'
     code: 637252
     url: /works/637252/
+  - title: Eat Meat + Digital Tokusouban Gentei Tokuten - Natsume-san wa Chorosugiru!
+    author: ushinomiya
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638556.jpg
+    rating: 0.0
+    date: '2026-09-13'
+    code: 638556
+    url: /works/638556/
   - title: Akogare no Hito wa Mou Owari!
     author: orange-mimosa
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642584.jpg
@@ -742,6 +749,14 @@ works:
     date: '2026-07-09'
     code: 656753
     url: /works/656753/
+  - title: 'Doll Muchi na Jinzou Otome-tachi -Eve Hen 2- | Dolls: Oblivious Man-made
+      Maidens -Eve Pt.2-'
+    author: ushinomiya
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/659068.jpg
+    rating: 0.0
+    date: '2026-09-13'
+    code: 659068
+    url: /works/659068/
   - title: Mama ga Inemuri shi tetanode
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/659164.jpg
@@ -1067,14 +1082,14 @@ works:
       and The Once Crowned Princess
     author: jagi-iwa
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680720.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-13'
     code: 680720
     url: /works/680720/
   - title: Sherry no Eroi Hon. | Sherry's Lewd Book
     author: sgk
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680742.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-12'
     code: 680742
     url: /works/680742/
@@ -1083,10 +1098,18 @@ works:
       Anyone About.
     author: harufumi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680771.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-12'
     code: 680771
     url: /works/680771/
+  - title: 2-nen C-gumi Gakuen Oppabu no Cast ni Imouto ga Ita | My Little Sister Was
+      a Hostess at Class 2-C's School Festival Boobs Bar
+    author: bunapi-397-yen
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680997.jpg
+    rating: 0.0
+    date: '2026-09-13'
+    code: 680997
+    url: /works/680997/
   - title: Jokyoushi - Hot For Teachers | Female Teachers
     author: drill-murata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/81375.jpg

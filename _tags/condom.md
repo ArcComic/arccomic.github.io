@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "condom"
-work_count: 144
+work_count: 149
 works:
   - title: Kaisha de Iroiro | Gettin' Busy at the Office
     author: hara-shigeyuki
@@ -220,6 +220,13 @@ works:
     date: '2026-07-15'
     code: 427676
     url: /works/427676/
+  - title: Joukou Philosophy | The Philosophy of Intimacy
+    author: tamabi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/429514.jpg
+    rating: 0.0
+    date: '2026-09-13'
+    code: 429514
+    url: /works/429514/
   - title: Musume no Kareshi ni Ochiru Okaa-san. 2 | A Mother Who Falls For Her Daughter's
       Boyfriend 2
     author: sinori
@@ -264,6 +271,13 @@ works:
     date: '2026-04-15'
     code: 470025
     url: /works/470025/
+  - title: Hiyoko-san wa Sewazuki | Hiyoko is a Busybody
+    author: maeda-momo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/480065.jpg
+    rating: 0.0
+    date: '2026-09-13'
+    code: 480065
+    url: /works/480065/
   - title: 'Sono Koi wa Color Code #F88CB0 | That Love is Color Code #F88CB0'
     author: chiba-toshirou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/481441.jpg
@@ -455,7 +469,7 @@ works:
       Hanashi | Learning About Sex From My Friend's Mom
     author: takeda-aranobu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/593434.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-12'
     code: 593434
     url: /works/593434/
@@ -698,7 +712,7 @@ works:
   - title: Kano Mama no Ana | The Mom Hole
     author: shimofuri
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/646022.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-09-12'
     code: 646022
     url: /works/646022/
@@ -832,6 +846,14 @@ works:
     date: '2026-08-18'
     code: 656319
     url: /works/656319/
+  - title: Giri no Onee-chan to Sex Suru Hanashi | The story of having sex with my well
+      behaved sister
+    author: higashino-mikan
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/657607.jpg
+    rating: 0.0
+    date: '2026-09-13'
+    code: 657607
+    url: /works/657607/
   - title: 'Fukushū Yami Baito "Watashi no Moto Tsuma o Ninshin Sasete Hoshī" | My Part-Time
       Job Is Getting Revenge: Get My Ex-Wife Pregnant'
     author: chotto-b-sen
@@ -1059,8 +1081,22 @@ works:
   - title: Shiteru Kyoudai | Siblings Doing It!
     author: nise
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680682.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-13'
     code: 680682
     url: /works/680682/
+  - title: Refle de Junai Dekimasu ka? - Can you find true love at a massage parlor?
+    author: hiyori-mizuki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681028.jpg
+    rating: 0.0
+    date: '2026-09-13'
+    code: 681028
+    url: /works/681028/
+  - title: Kyoudai Igai ni Nareta nara | If We Could Be More Than Siblings
+    author: oshima-aki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681030.jpg
+    rating: 0.0
+    date: '2026-09-13'
+    code: 681030
+    url: /works/681030/
 ---

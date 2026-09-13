@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "schoolboy uniform"
-work_count: 60
+work_count: 64
 works:
   - title: FLUFFY LAUGH GIRL
     author: shibasaki-syouzi
@@ -20,7 +20,7 @@ works:
   - title: Hajimete Kanojo Ga Dekita No Ni
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/316579.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-13'
     code: 316579
     url: /works/316579/
@@ -64,10 +64,17 @@ works:
       You-
     author: kuguri-oimo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/387648.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-09-12'
     code: 387648
     url: /works/387648/
+  - title: Harinezumi no Dilemma ① | A Hedgehog's Dilemma, Part 1
+    author: maeda-momo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/388627.jpg
+    rating: 0.0
+    date: '2026-09-13'
+    code: 388627
+    url: /works/388627/
   - title: Shuudan Jotaika Gyaru, Ochiru | Mass-Gender Bended Gyarus, Fall into Depravity
     author: betty
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/414300.jpg
@@ -89,6 +96,13 @@ works:
     date: '2026-04-15'
     code: 426769
     url: /works/426769/
+  - title: Joukou Philosophy | The Philosophy of Intimacy
+    author: tamabi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/429514.jpg
+    rating: 0.0
+    date: '2026-09-13'
+    code: 429514
+    url: /works/429514/
   - title: Gal ni Houkago Oppai Sawatte ku? te Sasowareru Hanashi | That Time Gyarus
       Asked Me to Grope their Tits After Class
     author: ono-hiroki
@@ -155,7 +169,7 @@ works:
       and Seduces me into Adulterous Sex~ + Bonus
     author: purumetal
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/583637.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-13'
     code: 583637
     url: /works/583637/
@@ -227,6 +241,14 @@ works:
     date: '2026-04-21'
     code: 644931
     url: /works/644931/
+  - title: Class de Kakure Ninki no Hirose-san ga Guigui kuru! | Hirose-san, the class's
+      secret crush, is making a bold move!
+    author: bunapi-397-yen
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/645116.jpg
+    rating: 0.0
+    date: '2026-09-13'
+    code: 645116
+    url: /works/645116/
   - title: Succubus Seitokai Shiko Shiko Shikkoubu 2 NOA ver. | Succubus Student Council
       Milking Club 2 Version NOA
     author: michiking
@@ -442,6 +464,15 @@ works:
     date: '2026-09-09'
     code: 679861
     url: /works/679861/
+  - title: '"Kiss Nanka Shitara Akatyan Dekityau Darouga!"Jituha Seithisiki Zero no
+      Sanpakugan Yariman Yankey Deka Onna to Jituha Tuyosugiru Seiyoku wo Hissi de Osaekonderu
+      Huukiin no Boku'
+    author: gar
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680847.jpg
+    rating: 0.0
+    date: '2026-09-13'
+    code: 680847
+    url: /works/680847/
   - title: Jokyoushi - Hot For Teachers | Female Teachers
     author: drill-murata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/81375.jpg

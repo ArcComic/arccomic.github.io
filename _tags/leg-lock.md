@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "leg lock"
-work_count: 54
+work_count: 55
 works:
   - title: My Care Lady Ch. 1
     author: sugi-g
@@ -65,6 +65,13 @@ works:
     date: '2026-08-18'
     code: 479447
     url: /works/479447/
+  - title: Hiyoko-san wa Sewazuki | Hiyoko is a Busybody
+    author: maeda-momo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/480065.jpg
+    rating: 0.0
+    date: '2026-09-13'
+    code: 480065
+    url: /works/480065/
   - title: Ore no Tsuma wa  Kanpeki  de Kawaii | My Wife's Cuteness is Perfect
     author: ono-kenuji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/482454.jpg
@@ -392,14 +399,14 @@ works:
       and The Once Crowned Princess
     author: jagi-iwa
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680720.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-13'
     code: 680720
     url: /works/680720/
   - title: Sherry no Eroi Hon. | Sherry's Lewd Book
     author: sgk
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680742.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-12'
     code: 680742
     url: /works/680742/

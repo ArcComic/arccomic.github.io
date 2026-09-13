@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sex toys"
-work_count: 81
+work_count: 83
 works:
   - title: Ayami Hypno
     author: yasuhiro
@@ -258,7 +258,7 @@ works:
   - title: Senpai No Oppai Complete
     author: menoko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/624238.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-12'
     code: 624238
     url: /works/624238/
@@ -304,6 +304,13 @@ works:
     date: '2026-09-12'
     code: 638126
     url: /works/638126/
+  - title: Eat Meat + Digital Tokusouban Gentei Tokuten - Natsume-san wa Chorosugiru!
+    author: ushinomiya
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638556.jpg
+    rating: 0.0
+    date: '2026-09-13'
+    code: 638556
+    url: /works/638556/
   - title: Kasshoku Buaisou Yakyuu-bu Manager no Yowami Nigitta | I Found the Grumpy,
       Brown-Skinned Baseball Manager's Weakness
     author: kitano-onsen
@@ -599,4 +606,12 @@ works:
     date: '2026-09-12'
     code: 680481
     url: /works/680481/
+  - title: 'Sorry for Craving Dick at the Wholesome Massage Place: NTR Massage With
+      My Ex'
+    author: hoshina-mimiwo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680971.jpg
+    rating: 0.0
+    date: '2026-09-13'
+    code: 680971
+    url: /works/680971/
 ---

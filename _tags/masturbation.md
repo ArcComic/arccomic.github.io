@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "masturbation"
-work_count: 86
+work_count: 87
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -74,6 +74,13 @@ works:
     date: '2026-04-19'
     code: 387637
     url: /works/387637/
+  - title: Hyoui Osen de Yuri Ecchi | Lesbian Sex through Corrupting Possession
+    author: siina-yuuki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/404458.jpg
+    rating: 0.0
+    date: '2026-09-13'
+    code: 404458
+    url: /works/404458/
   - title: sequence irekaeru futari no karada
     author: iwashita
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/414040.jpg
@@ -124,7 +131,7 @@ works:
       | Switch bodies and have noisy sex! I can't stand Ayanee's sensitive body 1-6
     author: suishin-tenra
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/500467.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-12'
     code: 500467
     url: /works/500467/

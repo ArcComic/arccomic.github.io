@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "blowjob face"
-work_count: 41
+work_count: 42
 works:
   - title: Hikki Mother Fucker
     author: otochichi
@@ -311,4 +311,11 @@ works:
     date: '2026-09-10'
     code: 679942
     url: /works/679942/
+  - title: Cooking Pakopako | Cooking Fucka
+    author: otochichi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681004.jpg
+    rating: 0.0
+    date: '2026-09-13'
+    code: 681004
+    url: /works/681004/
 ---

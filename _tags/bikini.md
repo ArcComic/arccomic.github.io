@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bikini"
-work_count: 53
+work_count: 55
 works:
   - title: Kizashi
     author: yoshiura-kazuya
@@ -106,7 +106,7 @@ works:
       and Seduces me into Adulterous Sex~ + Bonus
     author: purumetal
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/583637.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-13'
     code: 583637
     url: /works/583637/
@@ -408,4 +408,23 @@ works:
     date: '2026-09-12'
     code: 680591
     url: /works/680591/
+  - title: Masaka Ano Oni Joushi ga Ore no SeFri ni Naru nante... 4 ~ Oni Joushi to
+      Kokoro to Karada Kasaneru Jun'ai Kekkon Shoya | I never thought that diabolical
+      boss would become my sex friend 4
+    author: botamochi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680885.jpg
+    rating: 0.0
+    date: '2026-09-13'
+    code: 680885
+    url: /works/680885/
+  - title: Matching Joshi Kousei no Ecchi na Seiikuki 2 Jishin Manman no Gal Joshi Kousei
+      "Mana", Ai to Seieki de Mitashite, Hatsujou Mesu e to Otosu made~ | Matching Schoolgirls
+      Naughty Sex Education Diary 2 Confident Gyaru Schoolgirl Mana is filled with love
+      and semen until she turns into a horny female
+    author: rikazu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680991.jpg
+    rating: 0.0
+    date: '2026-09-13'
+    code: 680991
+    url: /works/680991/
 ---

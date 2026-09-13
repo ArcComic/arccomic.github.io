@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "gokkun"
-work_count: 23
+work_count: 24
 works:
   - title: Itabasami na Wakachi Ai 4 | Love Divided Between a Rock and a Hard Place
       4
@@ -118,7 +118,7 @@ works:
       Friend's Mom
     author: shimofuri
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651895.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-12'
     code: 651895
     url: /works/651895/
@@ -145,6 +145,14 @@ works:
     date: '2026-07-05'
     code: 660869
     url: /works/660869/
+  - title: A Saleswoman Interrupted Me While I Was Jerking-Off -- Genkan o Aketara Iru
+      Kanyuu Oba-san
+    author: chotto-b-sen
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/667204.jpg
+    rating: 0.0
+    date: '2026-09-13'
+    code: 667204
+    url: /works/667204/
   - title: Soen ni Natteta Osananajimi ga Okuchi Onaho Gayoi Shite Kuru Mikkakan | Three
       Days Treating My Estranged Friend As An Oral Fuckhole
     author: poncocchan
@@ -165,14 +173,14 @@ works:
       and The Once Crowned Princess
     author: jagi-iwa
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680720.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-13'
     code: 680720
     url: /works/680720/
   - title: Ichigo Chichi e｜Once in a Lifetime Chest Encounter
     author: kuronomiki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680762.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-12'
     code: 680762
     url: /works/680762/

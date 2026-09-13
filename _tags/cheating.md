@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "cheating"
-work_count: 236
+work_count: 240
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -127,7 +127,7 @@ works:
   - title: Hajimete Kanojo Ga Dekita No Ni
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/316579.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-13'
     code: 316579
     url: /works/316579/
@@ -210,6 +210,13 @@ works:
     date: '2026-03-09'
     code: 361032
     url: /works/361032/
+  - title: Honoka ni Moyuru -- Honoka's Fire
+    author: kamitsuki-manmaru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/364828.jpg
+    rating: 0.0
+    date: '2026-09-13'
+    code: 364828
+    url: /works/364828/
   - title: Mainichi Okaa-san de Seiyoku Shori! Onaho Gawari no Hahaoya ni Tairyou Nakadashi
       Hen | Mom Gets Me Off Every Day! Filling Mom With Cum
     author: natsume-benkei
@@ -232,11 +239,18 @@ works:
     date: '2026-08-23'
     code: 375962
     url: /works/375962/
+  - title: Sayonara Onee-chan | Goodbye Big Sis!
+    author: kamitsuki-manmaru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/380273.jpg
+    rating: 0.0
+    date: '2026-09-13'
+    code: 380273
+    url: /works/380273/
   - title: Netoriai -Watashi no Hou ga, Kimi ga Suki- | NTR Love -I'm The One Who Loves
       You-
     author: kuguri-oimo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/387648.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-09-12'
     code: 387648
     url: /works/387648/
@@ -555,7 +569,7 @@ works:
       Netoru made
     author: sage-joh
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/526368.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-12'
     code: 526368
     url: /works/526368/
@@ -803,7 +817,7 @@ works:
       and Seduces me into Adulterous Sex~ + Bonus
     author: purumetal
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/583637.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-13'
     code: 583637
     url: /works/583637/
@@ -1068,6 +1082,13 @@ works:
     date: '2026-08-25'
     code: 637847
     url: /works/637847/
+  - title: Eat Meat + Digital Tokusouban Gentei Tokuten - Natsume-san wa Chorosugiru!
+    author: ushinomiya
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638556.jpg
+    rating: 0.0
+    date: '2026-09-13'
+    code: 638556
+    url: /works/638556/
   - title: Kaa-san to Sex Shita Mikkakan | Three Days of Sex with My Mom
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/639194.jpg
@@ -1156,7 +1177,7 @@ works:
   - title: Kano Mama no Ana | The Mom Hole
     author: shimofuri
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/646022.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-09-12'
     code: 646022
     url: /works/646022/
@@ -1274,7 +1295,7 @@ works:
       Friend's Mom
     author: shimofuri
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651895.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-12'
     code: 651895
     url: /works/651895/
@@ -1735,6 +1756,13 @@ works:
     date: '2026-09-11'
     code: 680326
     url: /works/680326/
+  - title: Cooking Pakopako | Cooking Fucka
+    author: otochichi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681004.jpg
+    rating: 0.0
+    date: '2026-09-13'
+    code: 681004
+    url: /works/681004/
   - title: Jokyoushi - Hot For Teachers | Female Teachers
     author: drill-murata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/81375.jpg

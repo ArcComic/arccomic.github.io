@@ -182,7 +182,7 @@ works:
       | Switch bodies and have noisy sex! I can't stand Ayanee's sensitive body 1-6
     author: suishin-tenra
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/500467.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-12'
     code: 500467
     url: /works/500467/
@@ -990,7 +990,7 @@ works:
   - title: Shiteru Kyoudai | Siblings Doing It!
     author: nise
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680682.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-13'
     code: 680682
     url: /works/680682/
@@ -998,7 +998,7 @@ works:
       and The Once Crowned Princess
     author: jagi-iwa
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680720.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-13'
     code: 680720
     url: /works/680720/

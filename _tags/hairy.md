@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "hairy"
-work_count: 184
+work_count: 188
 works:
   - title: Adoration
     author: kishizuka-kenji
@@ -154,6 +154,13 @@ works:
     date: '2026-04-15'
     code: 426769
     url: /works/426769/
+  - title: Joukou Philosophy | The Philosophy of Intimacy
+    author: tamabi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/429514.jpg
+    rating: 0.0
+    date: '2026-09-13'
+    code: 429514
+    url: /works/429514/
   - title: Tonari no Ayane-san Desaki Battari Hen
     author: herio
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/432356.jpg
@@ -264,7 +271,7 @@ works:
   - title: Mayugomori 〜Nee ya to boku no midarana himegoto 〜 Ch.1-4
     author: mogiki-hayami
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/506317.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-12'
     code: 506317
     url: /works/506317/
@@ -306,7 +313,7 @@ works:
   - title: Yojouhan Bio Seikatsu Soushuuhen
     author: sgk
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/527851.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-12'
     code: 527851
     url: /works/527851/
@@ -897,7 +904,7 @@ works:
   - title: Kano Mama no Ana | The Mom Hole
     author: shimofuri
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/646022.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-09-12'
     code: 646022
     url: /works/646022/
@@ -1007,7 +1014,7 @@ works:
       Friend's Mom
     author: shimofuri
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651895.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-12'
     code: 651895
     url: /works/651895/
@@ -1115,6 +1122,14 @@ works:
     date: '2026-09-09'
     code: 657459
     url: /works/657459/
+  - title: Giri no Onee-chan to Sex Suru Hanashi | The story of having sex with my well
+      behaved sister
+    author: higashino-mikan
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/657607.jpg
+    rating: 0.0
+    date: '2026-09-13'
+    code: 657607
+    url: /works/657607/
   - title: Onna Tomodachi to Omotteitara Mesu Deshita | I Thought She Was Just a Friend,
       Turned Out She Was a Woman
     author: ippan-seijin
@@ -1357,4 +1372,18 @@ works:
     date: '2026-09-10'
     code: 679977
     url: /works/679977/
+  - title: Refle de Junai Dekimasu ka? - Can you find true love at a massage parlor?
+    author: hiyori-mizuki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681028.jpg
+    rating: 0.0
+    date: '2026-09-13'
+    code: 681028
+    url: /works/681028/
+  - title: Kyoudai Igai ni Nareta nara | If We Could Be More Than Siblings
+    author: oshima-aki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681030.jpg
+    rating: 0.0
+    date: '2026-09-13'
+    code: 681030
+    url: /works/681030/
 ---

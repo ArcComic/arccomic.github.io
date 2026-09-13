@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "manga"
-work_count: 245
+work_count: 254
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -272,6 +272,13 @@ works:
     date: '2026-07-13'
     code: 358168
     url: /works/358168/
+  - title: Honoka ni Moyuru -- Honoka's Fire
+    author: kamitsuki-manmaru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/364828.jpg
+    rating: 0.0
+    date: '2026-09-13'
+    code: 364828
+    url: /works/364828/
   - title: Shirotaegiku | Dusty miller
     author: hiroya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/370164.jpg
@@ -279,6 +286,20 @@ works:
     date: '2026-09-06'
     code: 370164
     url: /works/370164/
+  - title: Sayonara Onee-chan | Goodbye Big Sis!
+    author: kamitsuki-manmaru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/380273.jpg
+    rating: 0.0
+    date: '2026-09-13'
+    code: 380273
+    url: /works/380273/
+  - title: Harinezumi no Dilemma ① | A Hedgehog's Dilemma, Part 1
+    author: maeda-momo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/388627.jpg
+    rating: 0.0
+    date: '2026-09-13'
+    code: 388627
+    url: /works/388627/
   - title: Rako Slip!
     author: bujidearu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/393984.jpg
@@ -372,6 +393,13 @@ works:
     date: '2026-04-15'
     code: 426769
     url: /works/426769/
+  - title: Joukou Philosophy | The Philosophy of Intimacy
+    author: tamabi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/429514.jpg
+    rating: 0.0
+    date: '2026-09-13'
+    code: 429514
+    url: /works/429514/
   - title: Hikage | Shade
     author: syuuen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/429669.jpg
@@ -379,6 +407,13 @@ works:
     date: '2026-02-28'
     code: 429669
     url: /works/429669/
+  - title: The Show Must Go On!
+    author: chicken
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/432255.jpg
+    rating: 0.0
+    date: '2026-09-13'
+    code: 432255
+    url: /works/432255/
   - title: Sesshoku | Contact
     author: ryuuta
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/433732.jpg
@@ -481,7 +516,7 @@ works:
       | Switch bodies and have noisy sex! I can't stand Ayanee's sensitive body 1-6
     author: suishin-tenra
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/500467.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-12'
     code: 500467
     url: /works/500467/
@@ -503,7 +538,7 @@ works:
   - title: Mayugomori 〜Nee ya to boku no midarana himegoto 〜 Ch.1-4
     author: mogiki-hayami
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/506317.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-12'
     code: 506317
     url: /works/506317/
@@ -1083,6 +1118,13 @@ works:
     date: '2026-04-19'
     code: 638359
     url: /works/638359/
+  - title: Eat Meat + Digital Tokusouban Gentei Tokuten - Natsume-san wa Chorosugiru!
+    author: ushinomiya
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638556.jpg
+    rating: 0.0
+    date: '2026-09-13'
+    code: 638556
+    url: /works/638556/
   - title: Manatsu no Refrain | Midsummer's Refrain
     author: gen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/639514.jpg
@@ -1534,6 +1576,13 @@ works:
     date: '2026-08-19'
     code: 668867
     url: /works/668867/
+  - title: Mama no, Sono Eroi Karada ga Ikenainda 1-2
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/672310.jpg
+    rating: 0.0
+    date: '2026-09-13'
+    code: 672310
+    url: /works/672310/
   - title: Haburare Zukai no Isekai Boukentan (The Adventure of a Rune Master) 07
     author: hara-tsumoi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673771.jpg
@@ -1737,17 +1786,31 @@ works:
   - title: Madoka-san's first time
     author: mance
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680731.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-12'
     code: 680731
     url: /works/680731/
   - title: Ichigo Chichi e｜Once in a Lifetime Chest Encounter
     author: kuronomiki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680762.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-12'
     code: 680762
     url: /works/680762/
+  - title: Ore, Netoraretaindesu!!! Ch. 03-04
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680970.jpg
+    rating: 0.0
+    date: '2026-09-13'
+    code: 680970
+    url: /works/680970/
+  - title: Cooking Pakopako | Cooking Fucka
+    author: otochichi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681004.jpg
+    rating: 0.0
+    date: '2026-09-13'
+    code: 681004
+    url: /works/681004/
   - title: Hottokenaino
     author: hara-shigeyuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/77864.jpg

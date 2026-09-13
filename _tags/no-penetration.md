@@ -1,12 +1,12 @@
 ---
 layout: tag
 tag_name: "no penetration"
-work_count: 21
+work_count: 22
 works:
   - title: Watashi-tachi no Seikoui Tokubetsu Jisshuu -Zengi Hen-
     author: guglielmo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/278500.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-13'
     code: 278500
     url: /works/278500/
@@ -156,4 +156,11 @@ works:
     date: '2026-09-09'
     code: 679890
     url: /works/679890/
+  - title: Ore, Netoraretaindesu!!! Ch. 03-04
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680970.jpg
+    rating: 0.0
+    date: '2026-09-13'
+    code: 680970
+    url: /works/680970/
 ---

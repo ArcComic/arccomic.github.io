@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "prostitution"
-work_count: 42
+work_count: 45
 works:
   - title: Yuri no o saifu ni shite agemasu ne, Senpai | I'll turn you into Yuri's wallet,
       Senpai
@@ -308,6 +308,31 @@ works:
     date: '2026-08-28'
     code: 676149
     url: /works/676149/
+  - title: Matching Joshi Kousei no Ecchi na Seiikuki 2 Jishin Manman no Gal Joshi Kousei
+      "Mana", Ai to Seieki de Mitashite, Hatsujou Mesu e to Otosu made~ | Matching Schoolgirls
+      Naughty Sex Education Diary 2 Confident Gyaru Schoolgirl Mana is filled with love
+      and semen until she turns into a horny female
+    author: rikazu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680991.jpg
+    rating: 0.0
+    date: '2026-09-13'
+    code: 680991
+    url: /works/680991/
+  - title: 2-nen C-gumi Gakuen Oppabu no Cast ni Imouto ga Ita | My Little Sister Was
+      a Hostess at Class 2-C's School Festival Boobs Bar
+    author: bunapi-397-yen
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680997.jpg
+    rating: 0.0
+    date: '2026-09-13'
+    code: 680997
+    url: /works/680997/
+  - title: Refle de Junai Dekimasu ka? - Can you find true love at a massage parlor?
+    author: hiyori-mizuki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681028.jpg
+    rating: 0.0
+    date: '2026-09-13'
+    code: 681028
+    url: /works/681028/
   - title: Hottokenaino
     author: hara-shigeyuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/77864.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "chotto b-sen"
-work_count: 7
+work_count: 8
 works:
   - title: What would happen if you said "Let's have sex." while your teacher was scolding
       you?
@@ -48,6 +48,14 @@ works:
     date: '2026-07-17'
     code: 658578
     url: /works/658578/
+  - title: A Saleswoman Interrupted Me While I Was Jerking-Off -- Genkan o Aketara Iru
+      Kanyuu Oba-san
+    author: chotto-b-sen
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/667204.jpg
+    rating: 0.0
+    date: '2026-09-13'
+    code: 667204
+    url: /works/667204/
   - title: The Truant Chick From My Yearbook Who I Never Met At School -- Sotsu Aru
       ni Ita Menshiki no Nai Futoukou no Kimi ga.
     author: chotto-b-sen

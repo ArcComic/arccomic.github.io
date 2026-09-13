@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "brother"
-work_count: 5
+work_count: 6
 works:
   - title: Onee-chan ga Ecchi na Koto bakka Suru kara... | My older sister only does
       obscene things...
@@ -42,4 +42,12 @@ works:
     date: '2026-05-07'
     code: 648414
     url: /works/648414/
+  - title: Giri no Onee-chan to Sex Suru Hanashi | The story of having sex with my well
+      behaved sister
+    author: higashino-mikan
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/657607.jpg
+    rating: 0.0
+    date: '2026-09-13'
+    code: 657607
+    url: /works/657607/
 ---

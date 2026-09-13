@@ -17,14 +17,14 @@ works:
     url: /works/645285/
   - title: Kano Mama no Ana | The Mom Hole
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/646022.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-09-12'
     code: 646022
     url: /works/646022/
   - title: Akogare no Tomo Mama to Matching Shita Ken | The Time I Matched With My Admired
       Friend's Mom
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651895.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-12'
     code: 651895
     url: /works/651895/

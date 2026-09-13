@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "ahegao"
-work_count: 199
+work_count: 203
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -94,7 +94,7 @@ works:
   - title: The Time My Friend Turned Me Into His Girl Lover and Plaything
     author: menoko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/424735.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-12'
     code: 424735
     url: /works/424735/
@@ -248,7 +248,7 @@ works:
       Netoru made
     author: sage-joh
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/526368.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-12'
     code: 526368
     url: /works/526368/
@@ -689,6 +689,14 @@ works:
     date: '2026-08-20'
     code: 639463
     url: /works/639463/
+  - title: Kachiki na Single Mother to Dosukebe Netsuai Seikou | Dirty and Passionate
+      Sex with a Single Mother 1
+    author: botamochi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/641977.jpg
+    rating: 0.0
+    date: '2026-09-13'
+    code: 641977
+    url: /works/641977/
   - title: My Childhood Friend Twins Become Another Man’s Onahole 1-3
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/643193.jpg
@@ -1478,17 +1486,43 @@ works:
       and The Once Crowned Princess
     author: jagi-iwa
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680720.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-13'
     code: 680720
     url: /works/680720/
   - title: Sherry no Eroi Hon. | Sherry's Lewd Book
     author: sgk
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680742.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-12'
     code: 680742
     url: /works/680742/
+  - title: Masaka Ano Oni Joushi ga Ore no SeFri ni Naru nante... 4 ~ Oni Joushi to
+      Kokoro to Karada Kasaneru Jun'ai Kekkon Shoya | I never thought that diabolical
+      boss would become my sex friend 4
+    author: botamochi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680885.jpg
+    rating: 0.0
+    date: '2026-09-13'
+    code: 680885
+    url: /works/680885/
+  - title: Matching Joshi Kousei no Ecchi na Seiikuki 2 Jishin Manman no Gal Joshi Kousei
+      "Mana", Ai to Seieki de Mitashite, Hatsujou Mesu e to Otosu made~ | Matching Schoolgirls
+      Naughty Sex Education Diary 2 Confident Gyaru Schoolgirl Mana is filled with love
+      and semen until she turns into a horny female
+    author: rikazu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680991.jpg
+    rating: 0.0
+    date: '2026-09-13'
+    code: 680991
+    url: /works/680991/
+  - title: Cooking Pakopako | Cooking Fucka
+    author: otochichi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681004.jpg
+    rating: 0.0
+    date: '2026-09-13'
+    code: 681004
+    url: /works/681004/
   - title: Inin Keiyaku | Lewd Pregnancy Contract
     author: yoshiura-kazuya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/83595.jpg

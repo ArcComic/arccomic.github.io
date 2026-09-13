@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bike shorts"
-work_count: 2
+work_count: 3
 works:
   - title: 'Portio switch CASE: Natsumi'
     author: bang-you-didori
@@ -10,6 +10,13 @@ works:
     date: '2026-03-05'
     code: 634677
     url: /works/634677/
+  - title: Eat Meat + Digital Tokusouban Gentei Tokuten - Natsume-san wa Chorosugiru!
+    author: ushinomiya
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638556.jpg
+    rating: 0.0
+    date: '2026-09-13'
+    code: 638556
+    url: /works/638556/
   - title: The Story Of How I Peeked On A Cheeky Elementary Schooler Brat Masturbating
       And Ended Up Having Sweet Sex | Namaiki Kusogaki js no Onanie Nozoitara Amaama
       Sex Dekita Hanashi

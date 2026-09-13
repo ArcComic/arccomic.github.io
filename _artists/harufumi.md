@@ -14,7 +14,7 @@ works:
       Thing My Tomboyish Childhood Friend From The Track Team Does That She Can’t Tell
       Anyone About.
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680771.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-12'
     code: 680771
     url: /works/680771/
