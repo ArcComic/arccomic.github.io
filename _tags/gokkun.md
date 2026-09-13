@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "gokkun"
-work_count: 20
+work_count: 23
 works:
   - title: Itabasami na Wakachi Ai 4 | Love Divided Between a Rock and a Hard Place
       4
@@ -114,6 +114,14 @@ works:
     date: '2026-05-21'
     code: 651499
     url: /works/651499/
+  - title: Akogare no Tomo Mama to Matching Shita Ken | The Time I Matched With My Admired
+      Friend's Mom
+    author: shimofuri
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651895.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 651895
+    url: /works/651895/
   - title: Kyonyuu Kanojo ni Hitasura Shibori Toraremakuru Hanashi | Squeeze Until Empty
     author: fuguta-ke
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/652218.jpg
@@ -153,4 +161,19 @@ works:
     date: '2026-09-10'
     code: 679942
     url: /works/679942/
+  - title: Houtou Kizoku wa Moto Outaishihi to no Haramasekon de Isogashii - The Rake
+      and The Once Crowned Princess
+    author: jagi-iwa
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680720.jpg
+    rating: 0.0
+    date: '2026-09-13'
+    code: 680720
+    url: /works/680720/
+  - title: Ichigo Chichi e｜Once in a Lifetime Chest Encounter
+    author: kuronomiki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680762.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 680762
+    url: /works/680762/
 ---

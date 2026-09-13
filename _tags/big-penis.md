@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big penis"
-work_count: 130
+work_count: 134
 works:
   - title: Tsuma no Imouto no Danna ga Ie ni Kiteiruyoudesu | My Sister-In-Law's Husband
       is Over
@@ -129,6 +129,13 @@ works:
     date: '2026-04-15'
     code: 508549
     url: /works/508549/
+  - title: Yojouhan Bio Seikatsu Soushuuhen
+    author: sgk
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/527851.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 527851
+    url: /works/527851/
   - title: Taido mo Karada mo Zenbu deka I Segawa-san no Gachi koi Taisho ni Narimashita
       | I’ve Become The Target of His Affection!
     author: the-waidan
@@ -316,7 +323,7 @@ works:
       Masturbating Together With the Friend Who Sits Next to Me
     author: fuguta-ke
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/606563.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-09-12'
     code: 606563
     url: /works/606563/
@@ -513,6 +520,13 @@ works:
     date: '2026-09-10'
     code: 645814
     url: /works/645814/
+  - title: Kano Mama no Ana | The Mom Hole
+    author: shimofuri
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/646022.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 646022
+    url: /works/646022/
   - title: Inaka ja Kore ga Joushiki dakara! | This Is Just How Things Are in the Countryside!
     author: chilt
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/646146.jpg
@@ -974,8 +988,23 @@ works:
   - title: Enjo Kouhai 15
     author: takunomi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680555.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-12'
     code: 680555
     url: /works/680555/
+  - title: Houtou Kizoku wa Moto Outaishihi to no Haramasekon de Isogashii - The Rake
+      and The Once Crowned Princess
+    author: jagi-iwa
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680720.jpg
+    rating: 0.0
+    date: '2026-09-13'
+    code: 680720
+    url: /works/680720/
+  - title: I Got an "Anything Coupon" from My Older Cousin...
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680739.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 680739
+    url: /works/680739/
 ---

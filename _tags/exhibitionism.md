@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "exhibitionism"
-work_count: 51
+work_count: 52
 works:
+  - title: Watashi-tachi no Seikoui Tokubetsu Jisshuu -Zengi Hen-
+    author: guglielmo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/278500.jpg
+    rating: 0.0
+    date: '2026-09-13'
+    code: 278500
+    url: /works/278500/
   - title: Giragira no Beach
     author: shimantogawa
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/397251.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bikini"
-work_count: 52
+work_count: 53
 works:
   - title: Kizashi
     author: yoshiura-kazuya
@@ -100,6 +100,16 @@ works:
     date: '2026-04-25'
     code: 562615
     url: /works/562615/
+  - title: Watashi, Mada Suki da yo. - I still love you. ~Mukashi Futta Doukyuusei ga
+      Akanuke Bakunyuu Gravia Idol ni Natte Kanojo Mochi no Ore o Yuuwaku Shitekuru
+      Gyaku NTR Uwaki Sex~ | I Still Love You. ~My EX has become a Busty Gravure Idol
+      and Seduces me into Adulterous Sex~ + Bonus
+    author: purumetal
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/583637.jpg
+    rating: 0.0
+    date: '2026-09-13'
+    code: 583637
+    url: /works/583637/
   - title: Pashiri no Shita Teku, Yabaitte... ~ Ebi Sori Iki Suru Namaiki Gyaru | Bullied
       Boy's Tongue Revenge Vol.1-4
     author: takayamanon
@@ -394,7 +404,7 @@ works:
       – Part 2
     author: hatsuden-pengin
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680591.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-12'
     code: 680591
     url: /works/680591/

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "pixie cut"
-work_count: 44
+work_count: 47
 works:
   - title: Doushia (Terasu MC)] Dorei Gazoku
     author: terasu-mc
@@ -53,6 +53,13 @@ works:
     date: '2026-08-19'
     code: 511503
     url: /works/511503/
+  - title: Yojouhan Bio Seikatsu Soushuuhen
+    author: sgk
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/527851.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 527851
+    url: /works/527851/
   - title: Kawari wa Okaa-san | The Stand-in is Her Mom
     author: etuzan-jakusui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/528470.jpg
@@ -153,7 +160,7 @@ works:
   - title: Fetishism Vol. 20 ~Ashikoki Hen~
     author: shinooka-homare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/637252.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-12'
     code: 637252
     url: /works/637252/
@@ -227,7 +234,7 @@ works:
       story of how I ended up acting as the younger brother of the volleyball team captain
     author: wes-heartland-smith
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/658633.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-12'
     code: 658633
     url: /works/658633/
@@ -326,8 +333,24 @@ works:
       – Part 2
     author: hatsuden-pengin
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680591.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-12'
     code: 680591
     url: /works/680591/
+  - title: Sherry no Eroi Hon. | Sherry's Lewd Book
+    author: sgk
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680742.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 680742
+    url: /works/680742/
+  - title: Rikujoubu no Boyish na Osananajimi ga suru Dare ni mo Ienai Koto | The Secret
+      Thing My Tomboyish Childhood Friend From The Track Team Does That She Can’t Tell
+      Anyone About.
+    author: harufumi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680771.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 680771
+    url: /works/680771/
 ---

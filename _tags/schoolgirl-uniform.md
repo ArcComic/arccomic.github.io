@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "schoolgirl uniform"
-work_count: 202
+work_count: 209
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -25,6 +25,13 @@ works:
     date: '2026-07-17'
     code: 289523
     url: /works/289523/
+  - title: Hajimete Kanojo Ga Dekita No Ni
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/316579.jpg
+    rating: 0.0
+    date: '2026-09-13'
+    code: 316579
+    url: /works/316579/
   - title: CHOCO x LOVE
     author: highlow
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/317673.jpg
@@ -82,6 +89,21 @@ works:
     date: '2026-09-05'
     code: 363219
     url: /works/363219/
+  - title: Ore no Osananajimi ga Uza Kawaii!! | My Childhood Friend Is Annoyingly Cute!!
+    author: mataro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/369139.jpg
+    rating: 0.0
+    date: '2026-09-13'
+    code: 369139
+    url: /works/369139/
+  - title: Netoriai -Watashi no Hou ga, Kimi ga Suki- | NTR Love -I'm The One Who Loves
+      You-
+    author: kuguri-oimo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/387648.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 387648
+    url: /works/387648/
   - title: sequence irekaeru futari no karada
     author: iwashita
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/414040.jpg
@@ -112,6 +134,13 @@ works:
     date: '2026-04-27'
     code: 416883
     url: /works/416883/
+  - title: The Time My Friend Turned Me Into His Girl Lover and Plaything
+    author: menoko
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/424735.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 424735
+    url: /works/424735/
   - title: Koi no Susumekata | How to Advance Your Love
     author: danimaru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/425528.jpg
@@ -197,7 +226,7 @@ works:
       Where I Get Bought~
     author: nectar
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/494757.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-12'
     code: 494757
     url: /works/494757/
@@ -239,6 +268,14 @@ works:
     date: '2026-05-03'
     code: 524761
     url: /works/524761/
+  - title: JK Chuutai Tsuyogari Shachou ga Buka no Fusei ni Make Midara ni Koshi o Furi
+      Netoru made
+    author: sage-joh
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/526368.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 526368
+    url: /works/526368/
   - title: Gal to no Asobikata | How to Have Fun With Gyarus!
     author: buta
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/531967.jpg
@@ -390,6 +427,16 @@ works:
     date: '2026-04-19'
     code: 580427
     url: /works/580427/
+  - title: Watashi, Mada Suki da yo. - I still love you. ~Mukashi Futta Doukyuusei ga
+      Akanuke Bakunyuu Gravia Idol ni Natte Kanojo Mochi no Ore o Yuuwaku Shitekuru
+      Gyaku NTR Uwaki Sex~ | I Still Love You. ~My EX has become a Busty Gravure Idol
+      and Seduces me into Adulterous Sex~ + Bonus
+    author: purumetal
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/583637.jpg
+    rating: 0.0
+    date: '2026-09-13'
+    code: 583637
+    url: /works/583637/
   - title: Chiguhagu Kanojo | Mismatched Girlfriend
     author: natsuo-tsunao
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/584260.jpg
@@ -462,7 +509,7 @@ works:
       Masturbating Together With the Friend Who Sits Next to Me
     author: fuguta-ke
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/606563.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-09-12'
     code: 606563
     url: /works/606563/
@@ -650,14 +697,14 @@ works:
   - title: Fetishism Vol. 20 ~Ashikoki Hen~
     author: shinooka-homare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/637252.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-12'
     code: 637252
     url: /works/637252/
   - title: Fetishism Vol. 17 ~PanSto Hen~
     author: matsunami-rumi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638126.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-12'
     code: 638126
     url: /works/638126/
@@ -1497,8 +1544,15 @@ works:
   - title: Enjo Kouhai 15
     author: takunomi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680555.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-12'
     code: 680555
     url: /works/680555/
+  - title: Shiteru Kyoudai | Siblings Doing It!
+    author: nise
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680682.jpg
+    rating: 0.0
+    date: '2026-09-13'
+    code: 680682
+    url: /works/680682/
 ---

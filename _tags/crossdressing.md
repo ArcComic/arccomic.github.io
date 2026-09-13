@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "crossdressing"
-work_count: 14
+work_count: 15
 works:
   - title: Sekai ga Heiwa ni Natta node Yuusha (Jitsu wa ♀) ni Kyuukon Shita Kekka |
       Marriage Proposal to the Hero (Actually ♀) When the World Is at Peace
@@ -36,6 +36,13 @@ works:
     date: '2026-07-16'
     code: 605410
     url: /works/605410/
+  - title: Senpai No Oppai Complete
+    author: menoko
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/624238.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 624238
+    url: /works/624238/
   - title: Naisho no An-chan
     author: seto-ryouko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/627126.jpg

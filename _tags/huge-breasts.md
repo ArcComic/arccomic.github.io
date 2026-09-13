@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "huge breasts"
-work_count: 54
+work_count: 59
 works:
+  - title: Furuhonya no Onee-san to | With The Lady From The Used Book Shop
+    author: nodame
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/306725.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 306725
+    url: /works/306725/
   - title: Soubo Soukan | Twin Mother Incest Ch. 1
     author: nanao-yukiji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/356516.jpg
@@ -67,6 +74,14 @@ works:
     date: '2026-08-25'
     code: 592307
     url: /works/592307/
+  - title: Hatsukoi no Bakunyuu Tomo Mama ga Yasashiku Sei no Tehodoki o Shitekureru
+      Hanashi | Learning About Sex From My Friend's Mom
+    author: takeda-aranobu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/593434.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 593434
+    url: /works/593434/
   - title: Zutto Akogare datta Dokyuusei no Mama to Yareta Hanashi Kuronuri ver
     author: chinpan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/593677.jpg
@@ -215,6 +230,14 @@ works:
     date: '2026-05-21'
     code: 651442
     url: /works/651442/
+  - title: Akogare no Tomo Mama to Matching Shita Ken | The Time I Matched With My Admired
+      Friend's Mom
+    author: shimofuri
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651895.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 651895
+    url: /works/651895/
   - title: Kyonyuu Kanojo ni Hitasura Shibori Toraremakuru Hanashi | Squeeze Until Empty
     author: fuguta-ke
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/652218.jpg
@@ -402,8 +425,22 @@ works:
       Picked Up Turned Out to Be a Succubus
     author: kayumidome
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680592.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-12'
     code: 680592
     url: /works/680592/
+  - title: Madoka-san's first time
+    author: mance
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680731.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 680731
+    url: /works/680731/
+  - title: Ichigo Chichi e｜Once in a Lifetime Chest Encounter
+    author: kuronomiki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680762.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 680762
+    url: /works/680762/
 ---

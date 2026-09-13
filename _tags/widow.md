@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "widow"
-work_count: 9
+work_count: 11
 works:
   - title: LOOK LIKE
     author: terasu-mc
@@ -39,6 +39,14 @@ works:
     date: '2026-04-25'
     code: 579339
     url: /works/579339/
+  - title: Hatsukoi no Bakunyuu Tomo Mama ga Yasashiku Sei no Tehodoki o Shitekureru
+      Hanashi | Learning About Sex From My Friend's Mom
+    author: takeda-aranobu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/593434.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 593434
+    url: /works/593434/
   - title: '"Yasashii Dake no Otoko" to Tsuma ni Sute Raretanode... | My Wife Left Me
       Because I was "Too Gentle"...'
     author: special-g
@@ -63,6 +71,14 @@ works:
     date: '2026-08-21'
     code: 674663
     url: /works/674663/
+  - title: Houtou Kizoku wa Moto Outaishihi to no Haramasekon de Isogashii - The Rake
+      and The Once Crowned Princess
+    author: jagi-iwa
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680720.jpg
+    rating: 0.0
+    date: '2026-09-13'
+    code: 680720
+    url: /works/680720/
   - title: Hottokenaino
     author: hara-shigeyuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/77864.jpg

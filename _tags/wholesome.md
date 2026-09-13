@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "wholesome"
-work_count: 101
+work_count: 102
 works:
   - title: FLUFFY LAUGH GIRL
     author: shibasaki-syouzi
@@ -54,6 +54,13 @@ works:
     date: '2026-09-06'
     code: 363218
     url: /works/363218/
+  - title: Ore no Osananajimi ga Uza Kawaii!! | My Childhood Friend Is Annoyingly Cute!!
+    author: mataro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/369139.jpg
+    rating: 0.0
+    date: '2026-09-13'
+    code: 369139
+    url: /works/369139/
   - title: Shirotaegiku | Dusty miller
     author: hiroya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/370164.jpg
@@ -355,7 +362,7 @@ works:
       Masturbating Together With the Friend Who Sits Next to Me
     author: fuguta-ke
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/606563.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-09-12'
     code: 606563
     url: /works/606563/

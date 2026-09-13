@@ -1,7 +1,7 @@
 ---
 layout: artist
 artist_name: "group"
-work_count: 20
+work_count: 21
 works:
   - title: Itabasami na Wakachi Ai 4 | Love Divided Between a Rock and a Hard Place
       4
@@ -131,4 +131,10 @@ works:
     date: '2026-09-11'
     code: 680323
     url: /works/680323/
+  - title: 'Test of Courage: Group Humiliation'
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680735.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 680735
+    url: /works/680735/
 ---

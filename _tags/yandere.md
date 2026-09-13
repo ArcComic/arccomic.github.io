@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "yandere"
-work_count: 14
+work_count: 15
 works:
   - title: My Only Princess
     author: mackgee
@@ -34,6 +34,15 @@ works:
     date: '2026-04-23'
     code: 448503
     url: /works/448503/
+  - title: Ichizu na Onee-san to Saikaishitara Dosukebe Kyuukonsarete Sex Tsukeninaru
+      Hanashi | After Reuniting with the Onee-san Who is Fixated on Me, I was Proposed
+      to with Sex and Got Addicted
+    author: kirin-kakeru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/449158.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 449158
+    url: /works/449158/
   - title: Musuko o Dokusen Suru Haha | The mother who monopolizes her son.
     author: yuriko-club
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/471998.jpg

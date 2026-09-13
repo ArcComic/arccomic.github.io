@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "hidden sex"
-work_count: 52
+work_count: 55
 works:
+  - title: Hajimete Kanojo Ga Dekita No Ni
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/316579.jpg
+    rating: 0.0
+    date: '2026-09-13'
+    code: 316579
+    url: /works/316579/
   - title: Megane Loli Choukyou Jugyou!! ~Otonashii Megane Lolikko ni Muriyari Dekachin
       Sounyuu~ | The Loli In Glasses' Training Lesson!! ~Force Fucking a Timid Glasses
       Wearing Loli With My Big Cock~ Ch. 1-5
@@ -73,6 +80,14 @@ works:
     date: '2026-07-13'
     code: 514183
     url: /works/514183/
+  - title: JK Chuutai Tsuyogari Shachou ga Buka no Fusei ni Make Midara ni Koshi o Furi
+      Netoru made
+    author: sage-joh
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/526368.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 526368
+    url: /works/526368/
   - title: Netorareru.~ Tsuma ga Ochi Yuku Hen'ai Kairaku no Hate ni...1-5 | NETORARERU,
       A Wife's Descent Into Sinful Pleasures 1-5
     author: yuuki-ryo
@@ -301,6 +316,14 @@ works:
     date: '2026-05-20'
     code: 651338
     url: /works/651338/
+  - title: Akogare no Tomo Mama to Matching Shita Ken | The Time I Matched With My Admired
+      Friend's Mom
+    author: shimofuri
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651895.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 651895
+    url: /works/651895/
   - title: Kisei Goblin | Parasitic Goblin
     author: poriuretan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/652632.jpg
@@ -395,7 +418,7 @@ works:
       Operation!
     author: aramaki-echizen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680675.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-09-12'
     code: 680675
     url: /works/680675/

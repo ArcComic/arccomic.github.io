@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "scar"
-work_count: 6
+work_count: 7
 works:
   - title: Kimi to Itami wo Wakachi "AI" tai | I Want to Share Your Pain
     author: betty
@@ -48,4 +48,12 @@ works:
     date: '2026-05-10'
     code: 649033
     url: /works/649033/
+  - title: Houtou Kizoku wa Moto Outaishihi to no Haramasekon de Isogashii - The Rake
+      and The Once Crowned Princess
+    author: jagi-iwa
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680720.jpg
+    rating: 0.0
+    date: '2026-09-13'
+    code: 680720
+    url: /works/680720/
 ---

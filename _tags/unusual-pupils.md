@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "unusual pupils"
-work_count: 39
+work_count: 41
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -17,6 +17,13 @@ works:
     date: '2026-09-09'
     code: 306363
     url: /works/306363/
+  - title: Hajimete Kanojo Ga Dekita No Ni
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/316579.jpg
+    rating: 0.0
+    date: '2026-09-13'
+    code: 316579
+    url: /works/316579/
   - title: My Only Princess
     author: mackgee
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/335960.jpg
@@ -286,8 +293,16 @@ works:
       – Part 2
     author: hatsuden-pengin
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680591.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-12'
     code: 680591
     url: /works/680591/
+  - title: Houtou Kizoku wa Moto Outaishihi to no Haramasekon de Isogashii - The Rake
+      and The Once Crowned Princess
+    author: jagi-iwa
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680720.jpg
+    rating: 0.0
+    date: '2026-09-13'
+    code: 680720
+    url: /works/680720/
 ---

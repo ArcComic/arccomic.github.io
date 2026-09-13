@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "tomgirl"
-work_count: 15
+work_count: 16
 works:
   - title: Hayato-sensei no Mesu-ka Karute Daigaku-hen | Dr. Hayato's Feminization Medical
       Record ~University Edition~
@@ -19,6 +19,13 @@ works:
     date: '2026-07-16'
     code: 605410
     url: /works/605410/
+  - title: Senpai No Oppai Complete
+    author: menoko
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/624238.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 624238
+    url: /works/624238/
   - title: Naisho no An-chan
     author: seto-ryouko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/627126.jpg

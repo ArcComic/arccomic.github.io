@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "cunnilingus"
-work_count: 104
+work_count: 111
 works:
   - title: Love Approach
     author: hanafuda-sakurano
@@ -201,6 +201,21 @@ works:
     date: '2026-04-17'
     code: 516164
     url: /works/516164/
+  - title: Yojouhan Bio Seikatsu Soushuuhen
+    author: sgk
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/527851.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 527851
+    url: /works/527851/
+  - title: Ki ga Tsuyoi Joshi Announcer ga Kutsujoku ni Taerarenaku Naru made Night
+      Pool Hen
+    author: crimson
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/528302.jpg
+    rating: 0.0
+    date: '2026-09-13'
+    code: 528302
+    url: /works/528302/
   - title: Hatsutaiken no Susume | Recommendation for the First Time Experience
     author: mojarin
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/532651.jpg
@@ -478,6 +493,13 @@ works:
     date: '2026-09-10'
     code: 645814
     url: /works/645814/
+  - title: Kano Mama no Ana | The Mom Hole
+    author: shimofuri
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/646022.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 646022
+    url: /works/646022/
   - title: Sex Between Gloomy Types is the Hottest, Ain't It?
     author: doji-ro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/646757.jpg
@@ -615,6 +637,14 @@ works:
     date: '2026-09-04'
     code: 651854
     url: /works/651854/
+  - title: Akogare no Tomo Mama to Matching Shita Ken | The Time I Matched With My Admired
+      Friend's Mom
+    author: shimofuri
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651895.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 651895
+    url: /works/651895/
   - title: Kyonyuu Kanojo ni Hitasura Shibori Toraremakuru Hanashi | Squeeze Until Empty
     author: fuguta-ke
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/652218.jpg
@@ -772,4 +802,26 @@ works:
     date: '2026-09-10'
     code: 679958
     url: /works/679958/
+  - title: Shiteru Kyoudai | Siblings Doing It!
+    author: nise
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680682.jpg
+    rating: 0.0
+    date: '2026-09-13'
+    code: 680682
+    url: /works/680682/
+  - title: Houtou Kizoku wa Moto Outaishihi to no Haramasekon de Isogashii - The Rake
+      and The Once Crowned Princess
+    author: jagi-iwa
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680720.jpg
+    rating: 0.0
+    date: '2026-09-13'
+    code: 680720
+    url: /works/680720/
+  - title: I Got an "Anything Coupon" from My Older Cousin...
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680739.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 680739
+    url: /works/680739/
 ---

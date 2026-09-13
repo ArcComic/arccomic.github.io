@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "rough translation"
-work_count: 405
+work_count: 412
 works:
   - title: Watashi no Karada, Okashi Shimasu. Bunny Girl Edition
     author: nectar
@@ -46,6 +46,13 @@ works:
     date: '2026-03-04'
     code: 502694
     url: /works/502694/
+  - title: Mayugomori 〜Nee ya to boku no midarana himegoto 〜 Ch.1-4
+    author: mogiki-hayami
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/506317.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 506317
+    url: /works/506317/
   - title: Hiro-kun no Mama Wa Boku no Dorei 2 | Hiro-kun Mama Is My Sex Slave 2
     author: exit-up
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/508818.jpg
@@ -144,7 +151,7 @@ works:
   - title: Motto♥ Okki na Saori-chan wa Fukiyou ni Eroi
     author: aramaki-echizen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/524436.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-12'
     code: 524436
     url: /works/524436/
@@ -162,6 +169,14 @@ works:
     date: '2026-04-16'
     code: 527171
     url: /works/527171/
+  - title: Ki ga Tsuyoi Joshi Announcer ga Kutsujoku ni Taerarenaku Naru made Night
+      Pool Hen
+    author: crimson
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/528302.jpg
+    rating: 0.0
+    date: '2026-09-13'
+    code: 528302
+    url: /works/528302/
   - title: DAME Ch 1-3
     author: zaki-zaraki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/530728.jpg
@@ -270,7 +285,7 @@ works:
   - title: LeveChi na Swapping 2 ~Hatsu Zecchou de Iki Kuruu Tsuma Hen~
     author: hikitogu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/552541.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-12'
     code: 552541
     url: /works/552541/
@@ -473,7 +488,7 @@ works:
       Daily Life of Saionji Kyouka The Minato-ku Girl
     author: takano-masayuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/597573.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-12'
     code: 597573
     url: /works/597573/
@@ -602,7 +617,7 @@ works:
   - title: Kyonyuu no Tomodachi to Tsukiau made no Hanashi Kouhen
     author: fuguta-ke
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/616893.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-12'
     code: 616893
     url: /works/616893/
@@ -641,6 +656,13 @@ works:
     date: '2026-09-09'
     code: 620889
     url: /works/620889/
+  - title: Senpai No Oppai Complete
+    author: menoko
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/624238.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 624238
+    url: /works/624238/
   - title: 女孩們的玩具初體驗 | Girl's First Experience With Toys
     author: muzi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/624694.jpg
@@ -836,7 +858,7 @@ works:
   - title: Fetishism Vol. 20 ~Ashikoki Hen~
     author: shinooka-homare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/637252.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-12'
     code: 637252
     url: /works/637252/
@@ -865,7 +887,7 @@ works:
   - title: Fetishism Vol. 17 ~PanSto Hen~
     author: matsunami-rumi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638126.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-12'
     code: 638126
     url: /works/638126/
@@ -939,6 +961,14 @@ works:
     date: '2026-08-24'
     code: 642588
     url: /works/642588/
+  - title: The Story of a Girl—Cherished by Her Childhood Sweetheart—Who Loses Her Virginity
+      After Being Violated by a Murderer
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642708.jpg
+    rating: 0.0
+    date: '2026-09-13'
+    code: 642708
+    url: /works/642708/
   - title: Sumata dake tte Itta no ni… Nurutto Sounyuusarechatta Yuutousei no Omocha
       | You Said It'd Just Be Grinding... But You Ended up Slipping It In. Now I'm Just
       the Top Student's Toy 3.
@@ -1575,7 +1605,7 @@ works:
       story of how I ended up acting as the younger brother of the volleyball team captain
     author: wes-heartland-smith
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/658633.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-12'
     code: 658633
     url: /works/658633/
@@ -2598,7 +2628,7 @@ works:
   - title: The Honor Student’s Rebellious Phase
     author: sayuumigi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/677525.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-12'
     code: 677525
     url: /works/677525/
@@ -2910,14 +2940,14 @@ works:
   - title: Enjo Kouhai 15
     author: takunomi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680555.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-12'
     code: 680555
     url: /works/680555/
   - title: Netorarete Netorasete 2
     author: amano-kazumi-taira-issui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680574.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-12'
     code: 680574
     url: /works/680574/
@@ -2926,7 +2956,7 @@ works:
       – Part 2
     author: hatsuden-pengin
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680591.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-12'
     code: 680591
     url: /works/680591/
@@ -2934,7 +2964,7 @@ works:
       Picked Up Turned Out to Be a Succubus
     author: kayumidome
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680592.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-12'
     code: 680592
     url: /works/680592/
@@ -2943,7 +2973,7 @@ works:
       candy shop is a total knockout.
     author: osunu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680594.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-12'
     code: 680594
     url: /works/680594/
@@ -2951,8 +2981,29 @@ works:
       Operation!
     author: aramaki-echizen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680675.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-09-12'
     code: 680675
     url: /works/680675/
+  - title: 'Test of Courage: Group Humiliation'
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680735.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 680735
+    url: /works/680735/
+  - title: I Got an "Anything Coupon" from My Older Cousin...
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680739.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 680739
+    url: /works/680739/
+  - title: A Peek at 0.1% of Love Vol. 3
+    author: hanane-cain
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680766.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 680766
+    url: /works/680766/
 ---

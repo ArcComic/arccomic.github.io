@@ -1,8 +1,18 @@
 ---
 layout: tag
 tag_name: "clothed paizuri"
-work_count: 3
+work_count: 4
 works:
+  - title: Watashi, Mada Suki da yo. - I still love you. ~Mukashi Futta Doukyuusei ga
+      Akanuke Bakunyuu Gravia Idol ni Natte Kanojo Mochi no Ore o Yuuwaku Shitekuru
+      Gyaku NTR Uwaki Sex~ | I Still Love You. ~My EX has become a Busty Gravure Idol
+      and Seduces me into Adulterous Sex~ + Bonus
+    author: purumetal
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/583637.jpg
+    rating: 0.0
+    date: '2026-09-13'
+    code: 583637
+    url: /works/583637/
   - title: 'Taihai Tsuma: Taihaikei Hitotsuma o Yachin Kawari ni Koki Tsukaeru Hanashi
       | Slutty Wife!'
     author: kametaro

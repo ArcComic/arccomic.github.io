@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "condom"
-work_count: 141
+work_count: 144
 works:
   - title: Kaisha de Iroiro | Gettin' Busy at the Office
     author: hara-shigeyuki
@@ -365,7 +365,7 @@ works:
   - title: LeveChi na Swapping 2 ~Hatsu Zecchou de Iki Kuruu Tsuma Hen~
     author: hikitogu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/552541.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-12'
     code: 552541
     url: /works/552541/
@@ -451,6 +451,14 @@ works:
     date: '2026-09-09'
     code: 592039
     url: /works/592039/
+  - title: Hatsukoi no Bakunyuu Tomo Mama ga Yasashiku Sei no Tehodoki o Shitekureru
+      Hanashi | Learning About Sex From My Friend's Mom
+    author: takeda-aranobu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/593434.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 593434
+    url: /works/593434/
   - title: Yuujin no Haha wa Dekachin ni Yowai | My Friend's Mom is Weak to a Huge Cock
     author: shimofuri
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/593575.jpg
@@ -687,6 +695,13 @@ works:
     date: '2026-04-25'
     code: 645743
     url: /works/645743/
+  - title: Kano Mama no Ana | The Mom Hole
+    author: shimofuri
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/646022.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 646022
+    url: /works/646022/
   - title: Mujikaku na Osananajimi to Kyoumi Honi de Yatte Mitara | What Happens When
       You Sleep With Your Oblivious Childhood Friend Just Out of Curiosity Part 1
     author: gen
@@ -1041,4 +1056,11 @@ works:
     date: '2026-09-11'
     code: 680187
     url: /works/680187/
+  - title: Shiteru Kyoudai | Siblings Doing It!
+    author: nise
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680682.jpg
+    rating: 0.0
+    date: '2026-09-13'
+    code: 680682
+    url: /works/680682/
 ---

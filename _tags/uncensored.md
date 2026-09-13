@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "uncensored"
-work_count: 83
+work_count: 85
 works:
   - title: Netemo Sametemo | Be it Sleeping or Awake
     author: takasugi-kou
@@ -92,7 +92,7 @@ works:
   - title: Motto♥ Okki na Saori-chan wa Fukiyou ni Eroi
     author: aramaki-echizen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/524436.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-12'
     code: 524436
     url: /works/524436/
@@ -103,6 +103,14 @@ works:
     date: '2026-05-03'
     code: 524761
     url: /works/524761/
+  - title: JK Chuutai Tsuyogari Shachou ga Buka no Fusei ni Make Midara ni Koshi o Furi
+      Netoru made
+    author: sage-joh
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/526368.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 526368
+    url: /works/526368/
   - title: Netorareru.~ Tsuma ga Ochi Yuku Hen'ai Kairaku no Hate ni...1-5 | NETORARERU,
       A Wife's Descent Into Sinful Pleasures 1-5
     author: yuuki-ryo
@@ -215,6 +223,14 @@ works:
     date: '2026-04-16'
     code: 592744
     url: /works/592744/
+  - title: Hatsukoi no Bakunyuu Tomo Mama ga Yasashiku Sei no Tehodoki o Shitekureru
+      Hanashi | Learning About Sex From My Friend's Mom
+    author: takeda-aranobu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/593434.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 593434
+    url: /works/593434/
   - title: Yuujin no Haha wa Dekachin ni Yowai | My Friend's Mom is Weak to a Huge Cock
     author: shimofuri
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/593575.jpg

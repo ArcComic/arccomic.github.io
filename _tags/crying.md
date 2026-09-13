@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "crying"
-work_count: 19
+work_count: 20
 works:
   - title: Netorareru.~ Tsuma ga Ochi Yuku Hen'ai Kairaku no Hate ni...1-5 | NETORARERU,
       A Wife's Descent Into Sinful Pleasures 1-5
@@ -34,6 +34,14 @@ works:
     date: '2026-03-03'
     code: 631651
     url: /works/631651/
+  - title: The Story of a Girl—Cherished by Her Childhood Sweetheart—Who Loses Her Virginity
+      After Being Violated by a Murderer
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642708.jpg
+    rating: 0.0
+    date: '2026-09-13'
+    code: 642708
+    url: /works/642708/
   - title: Prefab
     author: lioreo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/643975.jpg
@@ -125,7 +133,7 @@ works:
   - title: Wari no Ii Beit Nante Sonzai Shinai | This job was too good to be true
     author: hikitogu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/670195.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-12'
     code: 670195
     url: /works/670195/

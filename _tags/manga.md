@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "manga"
-work_count: 241
+work_count: 245
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -477,6 +477,14 @@ works:
     date: '2026-07-17'
     code: 498679
     url: /works/498679/
+  - title: Irekawatte Dotabata Ecchi! ~Aya-nee no Binkan na Karada ni Ore wa Taerarenai
+      | Switch bodies and have noisy sex! I can't stand Ayanee's sensitive body 1-6
+    author: suishin-tenra
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/500467.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 500467
+    url: /works/500467/
   - title: Mama Moe ~Haha o Bikou shite mita Ken~ | Mama Moe ~That Time When I Followed
       My Mom~
     author: hara-shigeyuki
@@ -492,6 +500,13 @@ works:
     date: '2026-07-08'
     code: 50476
     url: /works/50476/
+  - title: Mayugomori 〜Nee ya to boku no midarana himegoto 〜 Ch.1-4
+    author: mogiki-hayami
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/506317.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 506317
+    url: /works/506317/
   - title: Koi ni Naru made, | Until It Becomes Love
     author: danimaru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/507681.jpg
@@ -1057,7 +1072,7 @@ works:
   - title: Fetishism Vol. 20 ~Ashikoki Hen~
     author: shinooka-homare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/637252.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-12'
     code: 637252
     url: /works/637252/
@@ -1719,6 +1734,20 @@ works:
     date: '2026-09-11'
     code: 680312
     url: /works/680312/
+  - title: Madoka-san's first time
+    author: mance
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680731.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 680731
+    url: /works/680731/
+  - title: Ichigo Chichi e｜Once in a Lifetime Chest Encounter
+    author: kuronomiki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680762.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 680762
+    url: /works/680762/
   - title: Hottokenaino
     author: hara-shigeyuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/77864.jpg
@@ -1743,7 +1772,7 @@ works:
   - title: Onee-chan no SM Kouza | Onee-chan's S&M Lecture
     author: shinooka-homare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/88750.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-12'
     code: 88750
     url: /works/88750/

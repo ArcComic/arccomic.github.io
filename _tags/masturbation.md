@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "masturbation"
-work_count: 85
+work_count: 86
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -120,6 +120,14 @@ works:
     date: '2026-08-31'
     code: 494172
     url: /works/494172/
+  - title: Irekawatte Dotabata Ecchi! ~Aya-nee no Binkan na Karada ni Ore wa Taerarenai
+      | Switch bodies and have noisy sex! I can't stand Ayanee's sensitive body 1-6
+    author: suishin-tenra
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/500467.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 500467
+    url: /works/500467/
   - title: Tanin ni Naru Kusuri 6 | Medicine to Become Another Person 6
     author: date
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/502197.jpg
@@ -282,7 +290,7 @@ works:
       Masturbating Together With the Friend Who Sits Next to Me
     author: fuguta-ke
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/606563.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-09-12'
     code: 606563
     url: /works/606563/
@@ -604,7 +612,7 @@ works:
   - title: The Honor Student’s Rebellious Phase
     author: sayuumigi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/677525.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-12'
     code: 677525
     url: /works/677525/

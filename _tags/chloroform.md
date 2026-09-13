@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "chloroform"
-work_count: 17
+work_count: 18
 works:
   - title: Kagesawa Mura no Akai Kagi tada <hottan>
     author: chiba-shuusaku
@@ -33,6 +33,15 @@ works:
     date: '2026-04-27'
     code: 416883
     url: /works/416883/
+  - title: Ichizu na Onee-san to Saikaishitara Dosukebe Kyuukonsarete Sex Tsukeninaru
+      Hanashi | After Reuniting with the Onee-san Who is Fixated on Me, I was Proposed
+      to with Sex and Got Addicted
+    author: kirin-kakeru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/449158.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 449158
+    url: /works/449158/
   - title: Provoking Men 1-8
     author: pororivista
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/458903.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "netorare"
-work_count: 259
+work_count: 267
 works:
   - title: Hitozuma Hyakka
     author: hase-tsubura
@@ -88,6 +88,13 @@ works:
     date: '2026-03-04'
     code: 315693
     url: /works/315693/
+  - title: Hajimete Kanojo Ga Dekita No Ni
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/316579.jpg
+    rating: 0.0
+    date: '2026-09-13'
+    code: 316579
+    url: /works/316579/
   - title: Kono Furin wa Otto no Tame "Anata, Yurushite…." To, Netorareru Tsuma | 這場外遇是為了老公「親愛的，原諒我…」這樣說著，為老公戴綠帽的妻子
     author: korosuke
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/328805.jpg
@@ -123,6 +130,14 @@ works:
     date: '2026-04-13'
     code: 369382
     url: /works/369382/
+  - title: Netoriai -Watashi no Hou ga, Kimi ga Suki- | NTR Love -I'm The One Who Loves
+      You-
+    author: kuguri-oimo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/387648.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 387648
+    url: /works/387648/
   - title: LOOK LIKE
     author: terasu-mc
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/388099.jpg
@@ -256,6 +271,15 @@ works:
     date: '2026-04-23'
     code: 448503
     url: /works/448503/
+  - title: Ichizu na Onee-san to Saikaishitara Dosukebe Kyuukonsarete Sex Tsukeninaru
+      Hanashi | After Reuniting with the Onee-san Who is Fixated on Me, I was Proposed
+      to with Sex and Got Addicted
+    author: kirin-kakeru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/449158.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 449158
+    url: /works/449158/
   - title: Yofukashi no Tsuma ~Murakami Kozue~ | Late-Night Wife ~Murakami Kozue~
     author: oobayashi-mori
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/453749.jpg
@@ -607,7 +631,7 @@ works:
   - title: LeveChi na Swapping 2 ~Hatsu Zecchou de Iki Kuruu Tsuma Hen~
     author: hikitogu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/552541.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-12'
     code: 552541
     url: /works/552541/
@@ -744,6 +768,16 @@ works:
     date: '2026-03-02'
     code: 583131
     url: /works/583131/
+  - title: Watashi, Mada Suki da yo. - I still love you. ~Mukashi Futta Doukyuusei ga
+      Akanuke Bakunyuu Gravia Idol ni Natte Kanojo Mochi no Ore o Yuuwaku Shitekuru
+      Gyaku NTR Uwaki Sex~ | I Still Love You. ~My EX has become a Busty Gravure Idol
+      and Seduces me into Adulterous Sex~ + Bonus
+    author: purumetal
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/583637.jpg
+    rating: 0.0
+    date: '2026-09-13'
+    code: 583637
+    url: /works/583637/
   - title: MY FIRST TIME HAVING SEX WAS WITH MY FRIEND'S MOM
     author: ariyuzi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/585515.jpg
@@ -1064,6 +1098,14 @@ works:
     date: '2026-08-24'
     code: 642588
     url: /works/642588/
+  - title: The Story of a Girl—Cherished by Her Childhood Sweetheart—Who Loses Her Virginity
+      After Being Violated by a Murderer
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642708.jpg
+    rating: 0.0
+    date: '2026-09-13'
+    code: 642708
+    url: /works/642708/
   - title: Sumata dake tte Itta no ni… Nurutto Sounyuusarechatta Yuutousei no Omocha
       | You Said It'd Just Be Grinding... But You Ended up Slipping It In. Now I'm Just
       the Top Student's Toy 3.
@@ -1181,6 +1223,13 @@ works:
     date: '2026-04-25'
     code: 645908
     url: /works/645908/
+  - title: Kano Mama no Ana | The Mom Hole
+    author: shimofuri
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/646022.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 646022
+    url: /works/646022/
   - title: Natsu ga Owaru made Natsu no Owari Kanketsuhen
     author: mon-petit
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/646969.jpg
@@ -1621,7 +1670,7 @@ works:
   - title: Wari no Ii Beit Nante Sonzai Shinai | This job was too good to be true
     author: hikitogu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/670195.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-12'
     code: 670195
     url: /works/670195/
@@ -1657,7 +1706,7 @@ works:
   - title: Aisuru Tsuma wa Hei no Naka | My beloved wife is behind bars
     author: hikitogu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673453.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-12'
     code: 673453
     url: /works/673453/
@@ -1895,17 +1944,33 @@ works:
       Arc 1-
     author: hitoi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680481.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-12'
     code: 680481
     url: /works/680481/
   - title: Netorarete Netorasete 2
     author: amano-kazumi-taira-issui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680574.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-12'
     code: 680574
     url: /works/680574/
+  - title: Madoka-san's first time
+    author: mance
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680731.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 680731
+    url: /works/680731/
+  - title: Rikujoubu no Boyish na Osananajimi ga suru Dare ni mo Ienai Koto | The Secret
+      Thing My Tomboyish Childhood Friend From The Track Team Does That She Can’t Tell
+      Anyone About.
+    author: harufumi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680771.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 680771
+    url: /works/680771/
   - title: Inin Keiyaku | Lewd Pregnancy Contract
     author: yoshiura-kazuya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/83595.jpg

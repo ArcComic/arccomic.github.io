@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "leg lock"
-work_count: 52
+work_count: 54
 works:
   - title: My Care Lady Ch. 1
     author: sugi-g
@@ -388,4 +388,19 @@ works:
     date: '2026-09-10'
     code: 679942
     url: /works/679942/
+  - title: Houtou Kizoku wa Moto Outaishihi to no Haramasekon de Isogashii - The Rake
+      and The Once Crowned Princess
+    author: jagi-iwa
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680720.jpg
+    rating: 0.0
+    date: '2026-09-13'
+    code: 680720
+    url: /works/680720/
+  - title: Sherry no Eroi Hon. | Sherry's Lewd Book
+    author: sgk
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680742.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 680742
+    url: /works/680742/
 ---

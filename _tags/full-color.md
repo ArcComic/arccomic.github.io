@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "full color"
-work_count: 158
+work_count: 162
 works:
   - title: Tsuma wo Yariman ni Shimasu Shakkin no Tame desu kara.
     author: pietoro
@@ -46,6 +46,13 @@ works:
     date: '2026-09-09'
     code: 366731
     url: /works/366731/
+  - title: Ore no Osananajimi ga Uza Kawaii!! | My Childhood Friend Is Annoyingly Cute!!
+    author: mataro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/369139.jpg
+    rating: 0.0
+    date: '2026-09-13'
+    code: 369139
+    url: /works/369139/
   - title: Dakara Ore wa Kanojo o Netori Tsuzuketa.
     author: minamihama-yoriko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/375962.jpg
@@ -91,6 +98,13 @@ works:
     date: '2026-04-27'
     code: 416883
     url: /works/416883/
+  - title: The Time My Friend Turned Me Into His Girl Lover and Plaything
+    author: menoko
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/424735.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 424735
+    url: /works/424735/
   - title: When My Friend Became a Tomboy
     author: rudy-saki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/428415.jpg
@@ -208,6 +222,14 @@ works:
     date: '2026-05-03'
     code: 500102
     url: /works/500102/
+  - title: Irekawatte Dotabata Ecchi! ~Aya-nee no Binkan na Karada ni Ore wa Taerarenai
+      | Switch bodies and have noisy sex! I can't stand Ayanee's sensitive body 1-6
+    author: suishin-tenra
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/500467.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 500467
+    url: /works/500467/
   - title: Obedience Part 1
     author: laliberte
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/501709.jpg
@@ -458,7 +480,7 @@ works:
       Have To Hold Your Ejaculation To Get Out
     author: keikouon
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/573973.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-12'
     code: 573973
     url: /works/573973/
@@ -1047,7 +1069,7 @@ works:
   - title: Aisuru Tsuma wa Hei no Naka | My beloved wife is behind bars
     author: hikitogu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673453.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-12'
     code: 673453
     url: /works/673453/
@@ -1161,4 +1183,11 @@ works:
     date: '2026-09-10'
     code: 679977
     url: /works/679977/
+  - title: A Peek at 0.1% of Love Vol. 3
+    author: hanane-cain
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680766.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 680766
+    url: /works/680766/
 ---

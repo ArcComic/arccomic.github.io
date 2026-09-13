@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "netori"
-work_count: 7
+work_count: 12
 works:
   - title: Onee-chan ga Ecchi na Koto bakka Suru kara... | My older sister only does
       obscene things...
@@ -18,6 +18,31 @@ works:
     date: '2026-08-23'
     code: 375962
     url: /works/375962/
+  - title: Netoriai -Watashi no Hou ga, Kimi ga Suki- | NTR Love -I'm The One Who Loves
+      You-
+    author: kuguri-oimo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/387648.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 387648
+    url: /works/387648/
+  - title: Ichizu na Onee-san to Saikaishitara Dosukebe Kyuukonsarete Sex Tsukeninaru
+      Hanashi | After Reuniting with the Onee-san Who is Fixated on Me, I was Proposed
+      to with Sex and Got Addicted
+    author: kirin-kakeru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/449158.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 449158
+    url: /works/449158/
+  - title: JK Chuutai Tsuyogari Shachou ga Buka no Fusei ni Make Midara ni Koshi o Furi
+      Netoru made
+    author: sage-joh
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/526368.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 526368
+    url: /works/526368/
   - title: Yuujin no Haha wa Dekachin ni Yowai | My Friend's Mom is Weak to a Huge Cock
     author: shimofuri
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/593575.jpg
@@ -49,6 +74,13 @@ works:
     date: '2026-07-10'
     code: 633278
     url: /works/633278/
+  - title: Kano Mama no Ana | The Mom Hole
+    author: shimofuri
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/646022.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 646022
+    url: /works/646022/
   - title: Cool-kei Dansou Onna ni Kanojo Netorareta kara, Wakarasete Yatta 2
     author: kurukuru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651338.jpg
@@ -56,4 +88,12 @@ works:
     date: '2026-05-20'
     code: 651338
     url: /works/651338/
+  - title: Akogare no Tomo Mama to Matching Shita Ken | The Time I Matched With My Admired
+      Friend's Mom
+    author: shimofuri
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651895.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 651895
+    url: /works/651895/
 ---

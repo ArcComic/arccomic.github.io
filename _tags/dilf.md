@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "dilf"
-work_count: 124
+work_count: 129
 works:
   - title: Adoration
     author: kishizuka-kenji
@@ -98,7 +98,7 @@ works:
   - title: Mesukko Okami Wakarase Shuzai Kiroku
     author: airandou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/354384.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-12'
     code: 354384
     url: /works/354384/
@@ -261,6 +261,22 @@ works:
     date: '2026-04-23'
     code: 526024
     url: /works/526024/
+  - title: JK Chuutai Tsuyogari Shachou ga Buka no Fusei ni Make Midara ni Koshi o Furi
+      Netoru made
+    author: sage-joh
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/526368.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 526368
+    url: /works/526368/
+  - title: Ki ga Tsuyoi Joshi Announcer ga Kutsujoku ni Taerarenaku Naru made Night
+      Pool Hen
+    author: crimson
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/528302.jpg
+    rating: 0.0
+    date: '2026-09-13'
+    code: 528302
+    url: /works/528302/
   - title: Tsuma wa NTR reta gatte iru. 5
     author: jill
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/531759.jpg
@@ -817,7 +833,7 @@ works:
   - title: Wari no Ii Beit Nante Sonzai Shinai | This job was too good to be true
     author: hikitogu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/670195.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-12'
     code: 670195
     url: /works/670195/
@@ -903,4 +919,28 @@ works:
     date: '2026-09-10'
     code: 679958
     url: /works/679958/
+  - title: Houtou Kizoku wa Moto Outaishihi to no Haramasekon de Isogashii - The Rake
+      and The Once Crowned Princess
+    author: jagi-iwa
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680720.jpg
+    rating: 0.0
+    date: '2026-09-13'
+    code: 680720
+    url: /works/680720/
+  - title: Sherry no Eroi Hon. | Sherry's Lewd Book
+    author: sgk
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680742.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 680742
+    url: /works/680742/
+  - title: Rikujoubu no Boyish na Osananajimi ga suru Dare ni mo Ienai Koto | The Secret
+      Thing My Tomboyish Childhood Friend From The Track Team Does That She Can’t Tell
+      Anyone About.
+    author: harufumi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680771.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 680771
+    url: /works/680771/
 ---

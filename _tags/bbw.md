@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bbw"
-work_count: 29
+work_count: 31
 works:
   - title: My Care Lady Ch. 1
     author: sugi-g
@@ -81,6 +81,14 @@ works:
     date: '2026-03-07'
     code: 588713
     url: /works/588713/
+  - title: Hatsukoi no Bakunyuu Tomo Mama ga Yasashiku Sei no Tehodoki o Shitekureru
+      Hanashi | Learning About Sex From My Friend's Mom
+    author: takeda-aranobu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/593434.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 593434
+    url: /works/593434/
   - title: Alola no Yoru no Sugata Soushuuhen | Aloha Night Compilation
     author: kurosu-gatari
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/609650.jpg
@@ -110,6 +118,13 @@ works:
     date: '2026-09-09'
     code: 642727
     url: /works/642727/
+  - title: Kano Mama no Ana | The Mom Hole
+    author: shimofuri
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/646022.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 646022
+    url: /works/646022/
   - title: Okaa-san ni wa Kore Gurai shika Dekinai kara... 2 | For Mom the Only Option
       Left is... 2
     author: muchipan

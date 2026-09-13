@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "paizuri"
-work_count: 139
+work_count: 147
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -24,6 +24,13 @@ works:
     date: '2026-04-12'
     code: 293478
     url: /works/293478/
+  - title: Furuhonya no Onee-san to | With The Lady From The Used Book Shop
+    author: nodame
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/306725.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 306725
+    url: /works/306725/
   - title: CHOCO x LOVE
     author: highlow
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/317673.jpg
@@ -91,6 +98,14 @@ works:
     date: '2026-08-31'
     code: 494172
     url: /works/494172/
+  - title: Irekawatte Dotabata Ecchi! ~Aya-nee no Binkan na Karada ni Ore wa Taerarenai
+      | Switch bodies and have noisy sex! I can't stand Ayanee's sensitive body 1-6
+    author: suishin-tenra
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/500467.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 500467
+    url: /works/500467/
   - title: Kaa-san ni Kokuhaku Shitara xxxx Made Sasete Kureta | When I Confessed to
       My Mother, She Let Me Do XXXX
     author: carburetor
@@ -119,10 +134,17 @@ works:
   - title: Motto♥ Okki na Saori-chan wa Fukiyou ni Eroi
     author: aramaki-echizen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/524436.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-12'
     code: 524436
     url: /works/524436/
+  - title: Yojouhan Bio Seikatsu Soushuuhen
+    author: sgk
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/527851.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 527851
+    url: /works/527851/
   - title: Cool-Dere Kinpatsu Hitozuma Zenra Kaseifu san ga Yanda Boku ni Yasashiku
       Shite Kureta Ohanashi 1| Naked Blonde Kuudere Housekeeper Wife Kindly Treats Broken
       Ol' Me 01
@@ -268,6 +290,16 @@ works:
     date: '2026-07-17'
     code: 581704
     url: /works/581704/
+  - title: Watashi, Mada Suki da yo. - I still love you. ~Mukashi Futta Doukyuusei ga
+      Akanuke Bakunyuu Gravia Idol ni Natte Kanojo Mochi no Ore o Yuuwaku Shitekuru
+      Gyaku NTR Uwaki Sex~ | I Still Love You. ~My EX has become a Busty Gravure Idol
+      and Seduces me into Adulterous Sex~ + Bonus
+    author: purumetal
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/583637.jpg
+    rating: 0.0
+    date: '2026-09-13'
+    code: 583637
+    url: /works/583637/
   - title: Ore ga Hoshikatta Mono wa Kin Medal Yori Namami Onaho Datta no Kamoshirenai｜Maybe
       what I Wanted was a Flesh and Blood Masturbator Rather than a Gold Medal
     author: carburetor
@@ -307,6 +339,14 @@ works:
     date: '2026-04-15'
     code: 591649
     url: /works/591649/
+  - title: Hatsukoi no Bakunyuu Tomo Mama ga Yasashiku Sei no Tehodoki o Shitekureru
+      Hanashi | Learning About Sex From My Friend's Mom
+    author: takeda-aranobu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/593434.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 593434
+    url: /works/593434/
   - title: '"Yasashii Dake no Otoko" to Tsuma ni Sute Raretanode... | My Wife Left Me
       Because I was "Too Gentle"...'
     author: special-g
@@ -685,6 +725,14 @@ works:
     date: '2026-05-20'
     code: 651346
     url: /works/651346/
+  - title: Akogare no Tomo Mama to Matching Shita Ken | The Time I Matched With My Admired
+      Friend's Mom
+    author: shimofuri
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651895.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 651895
+    url: /works/651895/
   - title: Kyonyuu Kanojo ni Hitasura Shibori Toraremakuru Hanashi | Squeeze Until Empty
     author: fuguta-ke
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/652218.jpg
@@ -1048,4 +1096,18 @@ works:
     date: '2026-09-11'
     code: 680162
     url: /works/680162/
+  - title: Madoka-san's first time
+    author: mance
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680731.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 680731
+    url: /works/680731/
+  - title: Ichigo Chichi e｜Once in a Lifetime Chest Encounter
+    author: kuronomiki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680762.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 680762
+    url: /works/680762/
 ---

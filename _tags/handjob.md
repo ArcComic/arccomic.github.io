@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "handjob"
-work_count: 78
+work_count: 82
 works:
   - title: Yuri no o saifu ni shite agemasu ne, Senpai | I'll turn you into Yuri's wallet,
       Senpai
@@ -18,6 +18,13 @@ works:
     date: '2026-03-04'
     code: 292454
     url: /works/292454/
+  - title: Furuhonya no Onee-san to | With The Lady From The Used Book Shop
+    author: nodame
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/306725.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 306725
+    url: /works/306725/
   - title: Kono Koi ni Kiduite
     author: danimaru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/357965.jpg
@@ -33,6 +40,13 @@ works:
     date: '2026-03-09'
     code: 361032
     url: /works/361032/
+  - title: Motto Amaete | Get Spoiled Even More
+    author: yuzuki-n-dash
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/373824.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 373824
+    url: /works/373824/
   - title: Shiraishi-san Wa Yokkyu Fuman | Shiraishi-san's Frustrated
     author: carburetor
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/392617.jpg
@@ -105,7 +119,7 @@ works:
   - title: Motto♥ Okki na Saori-chan wa Fukiyou ni Eroi
     author: aramaki-echizen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/524436.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-12'
     code: 524436
     url: /works/524436/
@@ -152,7 +166,7 @@ works:
       Have To Hold Your Ejaculation To Get Out
     author: keikouon
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/573973.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-12'
     code: 573973
     url: /works/573973/
@@ -180,6 +194,14 @@ works:
     date: '2026-09-04'
     code: 578020
     url: /works/578020/
+  - title: Hatsukoi no Bakunyuu Tomo Mama ga Yasashiku Sei no Tehodoki o Shitekureru
+      Hanashi | Learning About Sex From My Friend's Mom
+    author: takeda-aranobu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/593434.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 593434
+    url: /works/593434/
   - title: Astrantia
     author: kyougoku-shin
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/598156.jpg
@@ -289,7 +311,7 @@ works:
   - title: Fetishism Vol. 17 ~PanSto Hen~
     author: matsunami-rumi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638126.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-12'
     code: 638126
     url: /works/638126/
@@ -587,10 +609,17 @@ works:
     date: '2026-09-11'
     code: 680187
     url: /works/680187/
+  - title: Shiteru Kyoudai | Siblings Doing It!
+    author: nise
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680682.jpg
+    rating: 0.0
+    date: '2026-09-13'
+    code: 680682
+    url: /works/680682/
   - title: Onee-chan no SM Kouza | Onee-chan's S&M Lecture
     author: shinooka-homare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/88750.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-12'
     code: 88750
     url: /works/88750/

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "mosaic censorship"
-work_count: 210
+work_count: 213
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -53,6 +53,13 @@ works:
     date: '2026-04-16'
     code: 297068
     url: /works/297068/
+  - title: Hajimete Kanojo Ga Dekita No Ni
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/316579.jpg
+    rating: 0.0
+    date: '2026-09-13'
+    code: 316579
+    url: /works/316579/
   - title: Yokkyuu Fuman na Danchizuma wa Ikenai Kairaku ni Oboreru
     author: yanagawa-rio
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/342500.jpg
@@ -84,7 +91,7 @@ works:
   - title: Mesukko Okami Wakarase Shuzai Kiroku
     author: airandou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/354384.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-12'
     code: 354384
     url: /works/354384/
@@ -569,7 +576,7 @@ works:
       Have To Hold Your Ejaculation To Get Out
     author: keikouon
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/573973.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-12'
     code: 573973
     url: /works/573973/
@@ -1396,7 +1403,7 @@ works:
   - title: Aisuru Tsuma wa Hei no Naka | My beloved wife is behind bars
     author: hikitogu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673453.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-12'
     code: 673453
     url: /works/673453/
@@ -1533,8 +1540,22 @@ works:
   - title: Netorarete Netorasete 2
     author: amano-kazumi-taira-issui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680574.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-12'
     code: 680574
     url: /works/680574/
+  - title: Shiteru Kyoudai | Siblings Doing It!
+    author: nise
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680682.jpg
+    rating: 0.0
+    date: '2026-09-13'
+    code: 680682
+    url: /works/680682/
+  - title: 'Test of Courage: Group Humiliation'
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680735.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 680735
+    url: /works/680735/
 ---

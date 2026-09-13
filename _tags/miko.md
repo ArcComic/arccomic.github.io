@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "miko"
-work_count: 4
+work_count: 5
 works:
   - title: Igyou Koubi Kairaku Jigoku 1 + 2
     author: allegro
@@ -31,4 +31,11 @@ works:
     date: '2026-09-11'
     code: 679596
     url: /works/679596/
+  - title: Ichigo Chichi e｜Once in a Lifetime Chest Encounter
+    author: kuronomiki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680762.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 680762
+    url: /works/680762/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "cousin"
-work_count: 12
+work_count: 14
 works:
   - title: Natsuyasumi~Boku to oneechan no inaka de hatsutaiken~ |Summer Vacation~My
       first time with Oneechan in the countryside
@@ -95,4 +95,18 @@ works:
     date: '2026-09-05'
     code: 676528
     url: /works/676528/
+  - title: I Got an "Anything Coupon" from My Older Cousin...
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680739.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 680739
+    url: /works/680739/
+  - title: Itoko no Onee-chan ga Asobi ni Kuru Yatsu | My Cousin Came Over to Hang Out
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680767.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 680767
+    url: /works/680767/
 ---

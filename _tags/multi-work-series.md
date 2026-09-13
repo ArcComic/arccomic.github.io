@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "multi-work series"
-work_count: 245
+work_count: 246
 works:
   - title: Oppai na Natsuyasumi 2 | The Summer Break of Boobs 2
     author: higashino-mikan
@@ -195,7 +195,7 @@ works:
       Where I Get Bought~
     author: nectar
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/494757.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-12'
     code: 494757
     url: /works/494757/
@@ -307,7 +307,7 @@ works:
   - title: Motto♥ Okki na Saori-chan wa Fukiyou ni Eroi
     author: aramaki-echizen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/524436.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-12'
     code: 524436
     url: /works/524436/
@@ -489,7 +489,7 @@ works:
   - title: LeveChi na Swapping 2 ~Hatsu Zecchou de Iki Kuruu Tsuma Hen~
     author: hikitogu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/552541.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-12'
     code: 552541
     url: /works/552541/
@@ -771,7 +771,7 @@ works:
   - title: Kyonyuu no Tomodachi to Tsukiau made no Hanashi Kouhen
     author: fuguta-ke
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/616893.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-12'
     code: 616893
     url: /works/616893/
@@ -1809,21 +1809,21 @@ works:
       Arc 1-
     author: hitoi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680481.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-12'
     code: 680481
     url: /works/680481/
   - title: Enjo Kouhai 15
     author: takunomi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680555.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-12'
     code: 680555
     url: /works/680555/
   - title: Netorarete Netorasete 2
     author: amano-kazumi-taira-issui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680574.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-12'
     code: 680574
     url: /works/680574/
@@ -1832,8 +1832,15 @@ works:
       – Part 2
     author: hatsuden-pengin
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680591.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-12'
     code: 680591
     url: /works/680591/
+  - title: Shiteru Kyoudai | Siblings Doing It!
+    author: nise
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680682.jpg
+    rating: 0.0
+    date: '2026-09-13'
+    code: 680682
+    url: /works/680682/
 ---

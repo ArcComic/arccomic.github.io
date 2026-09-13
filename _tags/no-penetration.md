@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "no penetration"
-work_count: 20
+work_count: 21
 works:
+  - title: Watashi-tachi no Seikoui Tokubetsu Jisshuu -Zengi Hen-
+    author: guglielmo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/278500.jpg
+    rating: 0.0
+    date: '2026-09-13'
+    code: 278500
+    url: /works/278500/
   - title: Onee-chan to Torokeru Kimochi SP 2 | The Melting Feeling with Onee-chan SP
       2
     author: sky
@@ -22,7 +29,7 @@ works:
       Have To Hold Your Ejaculation To Get Out
     author: keikouon
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/573973.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-12'
     code: 573973
     url: /works/573973/

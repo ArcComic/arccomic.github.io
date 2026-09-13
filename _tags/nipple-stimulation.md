@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "nipple stimulation"
-work_count: 85
+work_count: 89
 works:
   - title: Hypnotic Domination ~ The Fall of Tennis Club Ace ~
     author: danchino
@@ -81,6 +81,14 @@ works:
     date: '2026-08-24'
     code: 528009
     url: /works/528009/
+  - title: Ki ga Tsuyoi Joshi Announcer ga Kutsujoku ni Taerarenaku Naru made Night
+      Pool Hen
+    author: crimson
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/528302.jpg
+    rating: 0.0
+    date: '2026-09-13'
+    code: 528302
+    url: /works/528302/
   - title: Taido mo Karada mo Zenbu deka I Segawa-san no Gachi koi Taisho ni Narimashita
       | I’ve Become The Target of His Affection!
     author: the-waidan
@@ -245,6 +253,13 @@ works:
     date: '2026-05-04'
     code: 621185
     url: /works/621185/
+  - title: Senpai No Oppai Complete
+    author: menoko
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/624238.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 624238
+    url: /works/624238/
   - title: 女孩們的玩具初體驗 | Girl's First Experience With Toys
     author: muzi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/624694.jpg
@@ -281,6 +296,14 @@ works:
     date: '2026-03-05'
     code: 634185
     url: /works/634185/
+  - title: The Story of a Girl—Cherished by Her Childhood Sweetheart—Who Loses Her Virginity
+      After Being Violated by a Murderer
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642708.jpg
+    rating: 0.0
+    date: '2026-09-13'
+    code: 642708
+    url: /works/642708/
   - title: Because Ura Wants To Be More Than "Just An Acquaintance"
     author: the-waidan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642793.jpg
@@ -639,4 +662,11 @@ works:
     date: '2026-09-11'
     code: 680162
     url: /works/680162/
+  - title: I Got an "Anything Coupon" from My Older Cousin...
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680739.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 680739
+    url: /works/680739/
 ---

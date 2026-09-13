@@ -13,7 +13,7 @@ works:
   - title: Mesukko Okami Wakarase Shuzai Kiroku
     author: airandou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/354384.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-12'
     code: 354384
     url: /works/354384/
@@ -492,7 +492,7 @@ works:
       Arc 1-
     author: hitoi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680481.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-12'
     code: 680481
     url: /works/680481/

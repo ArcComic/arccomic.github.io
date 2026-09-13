@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "anal"
-work_count: 97
+work_count: 100
 works:
   - title: Hitozuma Hyakka
     author: hase-tsubura
@@ -260,6 +260,13 @@ works:
     date: '2026-03-07'
     code: 620818
     url: /works/620818/
+  - title: Senpai No Oppai Complete
+    author: menoko
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/624238.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 624238
+    url: /works/624238/
   - title: Igumox - Muramata-san no Himitsu & Aijou - Muramata-san's Secret & Affection
       COMPLETE
     author: igumox
@@ -708,10 +715,24 @@ works:
       Picked Up Turned Out to Be a Succubus
     author: kayumidome
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680592.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-12'
     code: 680592
     url: /works/680592/
+  - title: 'Test of Courage: Group Humiliation'
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680735.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 680735
+    url: /works/680735/
+  - title: Sherry no Eroi Hon. | Sherry's Lewd Book
+    author: sgk
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680742.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 680742
+    url: /works/680742/
   - title: Jokyoushi - Hot For Teachers | Female Teachers
     author: drill-murata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/81375.jpg

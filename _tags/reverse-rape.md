@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "reverse rape"
-work_count: 6
+work_count: 7
 works:
   - title: Love Divided Between a Rock and a Hard Place Ch.1
     author: cabin
@@ -10,6 +10,15 @@ works:
     date: '2026-04-23'
     code: 342540
     url: /works/342540/
+  - title: Ichizu na Onee-san to Saikaishitara Dosukebe Kyuukonsarete Sex Tsukeninaru
+      Hanashi | After Reuniting with the Onee-san Who is Fixated on Me, I was Proposed
+      to with Sex and Got Addicted
+    author: kirin-kakeru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/449158.jpg
+    rating: 0.0
+    date: '2026-09-12'
+    code: 449158
+    url: /works/449158/
   - title: Neteru Onii-chan no Are o Kariru Hanashi
     author: tiger
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/476399.jpg
