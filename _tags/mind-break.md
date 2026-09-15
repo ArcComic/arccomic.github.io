@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "mind break"
-work_count: 34
+work_count: 35
 works:
   - title: Ayami Hypno
     author: yasuhiro
@@ -55,6 +55,13 @@ works:
     date: '2026-08-25'
     code: 518387
     url: /works/518387/
+  - title: Ai wa Oshiminaku | Love is given without reservation
+    author: yoshika
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/539377.jpg
+    rating: 4.3
+    date: '2026-09-15'
+    code: 539377
+    url: /works/539377/
   - title: Girlfriend Revenge
     author: meowwithme
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/540880.jpg

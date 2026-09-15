@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "stockings"
-work_count: 152
+work_count: 153
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -278,6 +278,13 @@ works:
     date: '2026-05-26'
     code: 532417
     url: /works/532417/
+  - title: Ai wa Oshiminaku | Love is given without reservation
+    author: yoshika
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/539377.jpg
+    rating: 4.3
+    date: '2026-09-15'
+    code: 539377
+    url: /works/539377/
   - title: Extra Virgin Mama
     author: hara-shigeyuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/541631.jpg

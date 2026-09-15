@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "manga"
-work_count: 255
+work_count: 258
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -428,6 +428,13 @@ works:
     date: '2026-08-23'
     code: 441114
     url: /works/441114/
+  - title: Marebito Kitari Te
+    author: yoshika
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/443073.jpg
+    rating: 0.0
+    date: '2026-09-15'
+    code: 443073
+    url: /works/443073/
   - title: Discovery
     author: momono-yuuca
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/445018.jpg
@@ -751,6 +758,13 @@ works:
     date: '2026-09-10'
     code: 538176
     url: /works/538176/
+  - title: Ai wa Oshiminaku | Love is given without reservation
+    author: yoshika
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/539377.jpg
+    rating: 4.3
+    date: '2026-09-15'
+    code: 539377
+    url: /works/539377/
   - title: Extra Virgin Mama
     author: hara-shigeyuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/541631.jpg
@@ -1702,6 +1716,13 @@ works:
     date: '2026-09-05'
     code: 678664
     url: /works/678664/
+  - title: Netorareta Hitozuma
+    author: shomu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678797.jpg
+    rating: 0.0
+    date: '2026-09-15'
+    code: 678797
+    url: /works/678797/
   - title: Animator, Iede Shoujo o Hirou. - An Animator Gathers a Girl Who Has Run Away
       From Home
     author: itaba-hiroshi

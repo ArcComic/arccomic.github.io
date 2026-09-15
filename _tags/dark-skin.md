@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "dark skin"
-work_count: 92
+work_count: 93
 works:
   - title: GalPa!
     author: sakagami-umi
@@ -118,6 +118,13 @@ works:
     date: '2026-08-23'
     code: 441114
     url: /works/441114/
+  - title: Marebito Kitari Te
+    author: yoshika
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/443073.jpg
+    rating: 0.0
+    date: '2026-09-15'
+    code: 443073
+    url: /works/443073/
   - title: Hairyokan de no Ero Kyoufu Taiken | A Terrifying Erotic Experience at an
       Abandoned Inn
     author: pink-taro

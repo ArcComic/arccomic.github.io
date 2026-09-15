@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "translated"
-work_count: 1052
+work_count: 1057
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -897,6 +897,13 @@ works:
     date: '2026-05-10'
     code: 441339
     url: /works/441339/
+  - title: Marebito Kitari Te
+    author: yoshika
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/443073.jpg
+    rating: 0.0
+    date: '2026-09-15'
+    code: 443073
+    url: /works/443073/
   - title: Tonari no Onee-san no Shitagi o Nusundara Kiseki ga Okita Hanashi o Shiyou
       |  Let’s Talk About the Story of A Miracle that Happened When I Stole the Underwear
       of the Lady Next Door
@@ -1869,6 +1876,13 @@ works:
     date: '2026-07-11'
     code: 538553
     url: /works/538553/
+  - title: Ai wa Oshiminaku | Love is given without reservation
+    author: yoshika
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/539377.jpg
+    rating: 4.3
+    date: '2026-09-15'
+    code: 539377
+    url: /works/539377/
   - title: Oshioki no Jikan - Punishment time
     author: syoukaki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/540125.jpg
@@ -6261,6 +6275,13 @@ works:
     date: '2026-08-17'
     code: 673485
     url: /works/673485/
+  - title: Mamayu Zukushi
+    author: kirin-kakeru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673502.jpg
+    rating: 0.0
+    date: '2026-09-15'
+    code: 673502
+    url: /works/673502/
   - title: Nuite Moraimakuri Nyuuin Seikatsu ~Tasuketa Cool-Gyaru wa Jitsu wa Sukebe
       deshita~
     author: gujira
@@ -7009,6 +7030,13 @@ works:
     date: '2026-09-05'
     code: 678720
     url: /works/678720/
+  - title: Netorareta Hitozuma
+    author: shomu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678797.jpg
+    rating: 0.0
+    date: '2026-09-15'
+    code: 678797
+    url: /works/678797/
   - title: Aimai na Bokura 3 Kanojo wa Tabun, Korekara Mechakucha Sex Suru
     author: tsukuyomi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678802.jpg
@@ -7702,6 +7730,13 @@ works:
     date: '2026-09-15'
     code: 681251
     url: /works/681251/
+  - title: '] Choushin Hitozuma, Netorare “Mesu” ni Naru MTL'
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681311.jpg
+    rating: 0.0
+    date: '2026-09-15'
+    code: 681311
+    url: /works/681311/
   - title: Kitazawa Shiho no Chikan Hon
     author: yoshika
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681317.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "group"
-work_count: 157
+work_count: 158
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -91,6 +91,13 @@ works:
     date: '2026-03-07'
     code: 431578
     url: /works/431578/
+  - title: Marebito Kitari Te
+    author: yoshika
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/443073.jpg
+    rating: 0.0
+    date: '2026-09-15'
+    code: 443073
+    url: /works/443073/
   - title: Ladies Night
     author: mr-kurz
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/446018.jpg

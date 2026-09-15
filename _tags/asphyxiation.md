@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "asphyxiation"
-work_count: 14
+work_count: 15
 works:
   - title: The Last Flight
     author: mr-kurz
@@ -40,6 +40,13 @@ works:
     date: '2026-07-11'
     code: 531966
     url: /works/531966/
+  - title: Ai wa Oshiminaku | Love is given without reservation
+    author: yoshika
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/539377.jpg
+    rating: 4.3
+    date: '2026-09-15'
+    code: 539377
+    url: /works/539377/
   - title: Boku no Kaa-chan ga Hikikomori Neet Debu Aniki no Seishori Onaho ni Natteita
       Hanashi | My Mother is My Fat Shut-in Older NEET Brother's Sex Relief Onahole
     author: tarobaumu

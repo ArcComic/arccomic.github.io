@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "rough translation"
-work_count: 422
+work_count: 425
 works:
   - title: Watashi no Karada, Okashi Shimasu. Bunny Girl Edition
     author: nectar
@@ -2207,6 +2207,13 @@ works:
     date: '2026-08-17'
     code: 673485
     url: /works/673485/
+  - title: Mamayu Zukushi
+    author: kirin-kakeru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673502.jpg
+    rating: 0.0
+    date: '2026-09-15'
+    code: 673502
+    url: /works/673502/
   - title: Nuite Moraimakuri Nyuuin Seikatsu ~Tasuketa Cool-Gyaru wa Jitsu wa Sukebe
       deshita~
     author: gujira
@@ -2731,6 +2738,13 @@ works:
     date: '2026-09-05'
     code: 678720
     url: /works/678720/
+  - title: Netorareta Hitozuma
+    author: shomu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678797.jpg
+    rating: 0.0
+    date: '2026-09-15'
+    code: 678797
+    url: /works/678797/
   - title: Aimai na Bokura 3 Kanojo wa Tabun, Korekara Mechakucha Sex Suru
     author: tsukuyomi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678802.jpg
@@ -3057,6 +3071,13 @@ works:
     date: '2026-09-13'
     code: 681030
     url: /works/681030/
+  - title: '] Choushin Hitozuma, Netorare “Mesu” ni Naru MTL'
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681311.jpg
+    rating: 0.0
+    date: '2026-09-15'
+    code: 681311
+    url: /works/681311/
   - title: Kitazawa Shiho no Chikan Hon
     author: yoshika
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681317.jpg

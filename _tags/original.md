@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "original"
-work_count: 745
+work_count: 746
 works:
   - title: Natsu dake Koibito - Summer only Lover [English] =Forbidden Fetish + Ser
       Maggot=
@@ -5521,6 +5521,13 @@ works:
     date: '2026-09-15'
     code: 681251
     url: /works/681251/
+  - title: '] Choushin Hitozuma, Netorare “Mesu” ni Naru MTL'
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681311.jpg
+    rating: 0.0
+    date: '2026-09-15'
+    code: 681311
+    url: /works/681311/
   - title: Panpan Travelers Osaka Shuudan Rape Hen
     author: raidon
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681323.jpg

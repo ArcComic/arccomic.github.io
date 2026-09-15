@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "yandere"
-work_count: 16
+work_count: 17
 works:
   - title: My Only Princess
     author: mackgee
@@ -113,6 +113,13 @@ works:
     date: '2026-05-04'
     code: 647809
     url: /works/647809/
+  - title: Mamayu Zukushi
+    author: kirin-kakeru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673502.jpg
+    rating: 0.0
+    date: '2026-09-15'
+    code: 673502
+    url: /works/673502/
   - title: Mayu dake no Mono ni...
     author: tomekichi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/674866.jpg

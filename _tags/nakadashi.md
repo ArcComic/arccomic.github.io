@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "nakadashi"
-work_count: 525
+work_count: 528
 works:
   - title: Adoration
     author: kishizuka-kenji
@@ -394,6 +394,13 @@ works:
     date: '2026-08-23'
     code: 441114
     url: /works/441114/
+  - title: Marebito Kitari Te
+    author: yoshika
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/443073.jpg
+    rating: 0.0
+    date: '2026-09-15'
+    code: 443073
+    url: /works/443073/
   - title: Tonari no Onee-san no Shitagi o Nusundara Kiseki ga Okita Hanashi o Shiyou
       |  Let’s Talk About the Story of A Miracle that Happened When I Stole the Underwear
       of the Lady Next Door
@@ -941,6 +948,13 @@ works:
     date: '2026-07-11'
     code: 538553
     url: /works/538553/
+  - title: Ai wa Oshiminaku | Love is given without reservation
+    author: yoshika
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/539377.jpg
+    rating: 4.3
+    date: '2026-09-15'
+    code: 539377
+    url: /works/539377/
   - title: Jimime na Kurokami Elf-chan ga Ecchi na Massage-ten de Seikantai Kaihatsu
       Sarechau Ohanashi | A Plain Jane Elf's Sexy Adventure at a Massage Clinic
     author: akane
@@ -3305,6 +3319,13 @@ works:
     date: '2026-09-15'
     code: 672580
     url: /works/672580/
+  - title: Mamayu Zukushi
+    author: kirin-kakeru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673502.jpg
+    rating: 0.0
+    date: '2026-09-15'
+    code: 673502
+    url: /works/673502/
   - title: Nuite Moraimakuri Nyuuin Seikatsu ~Tasuketa Cool-Gyaru wa Jitsu wa Sukebe
       deshita~
     author: gujira

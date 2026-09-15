@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "doujinshi"
-work_count: 885
+work_count: 887
 works:
   - title: Another Produce -Kaede Takagaki-
     author: marushin
@@ -5287,6 +5287,13 @@ works:
     date: '2026-08-17'
     code: 673485
     url: /works/673485/
+  - title: Mamayu Zukushi
+    author: kirin-kakeru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673502.jpg
+    rating: 0.0
+    date: '2026-09-15'
+    code: 673502
+    url: /works/673502/
   - title: Nuite Moraimakuri Nyuuin Seikatsu ~Tasuketa Cool-Gyaru wa Jitsu wa Sukebe
       deshita~
     author: gujira
@@ -6521,6 +6528,13 @@ works:
     date: '2026-09-15'
     code: 681251
     url: /works/681251/
+  - title: '] Choushin Hitozuma, Netorare “Mesu” ni Naru MTL'
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681311.jpg
+    rating: 0.0
+    date: '2026-09-15'
+    code: 681311
+    url: /works/681311/
   - title: Kitazawa Shiho no Chikan Hon
     author: yoshika
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681317.jpg

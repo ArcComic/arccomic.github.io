@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "very long hair"
-work_count: 39
+work_count: 40
 works:
   - title: Koi no Susumekata | How to Advance Your Love
     author: danimaru
@@ -10,6 +10,13 @@ works:
     date: '2026-04-27'
     code: 425528
     url: /works/425528/
+  - title: Ai wa Oshiminaku | Love is given without reservation
+    author: yoshika
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/539377.jpg
+    rating: 4.3
+    date: '2026-09-15'
+    code: 539377
+    url: /works/539377/
   - title: Oshioki no Jikan - Punishment time
     author: syoukaki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/540125.jpg

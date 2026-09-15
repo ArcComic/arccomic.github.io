@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bbw"
-work_count: 33
+work_count: 35
 works:
   - title: My Care Lady Ch. 1
     author: sugi-g
@@ -200,6 +200,13 @@ works:
     date: '2026-08-29'
     code: 676439
     url: /works/676439/
+  - title: Netorareta Hitozuma
+    author: shomu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678797.jpg
+    rating: 0.0
+    date: '2026-09-15'
+    code: 678797
+    url: /works/678797/
   - title: Boku no Aisuru Tsuma o Daite Kudasai 1 - 3
     author: smells-like
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679771.jpg
@@ -236,6 +243,13 @@ works:
     date: '2026-09-13'
     code: 681004
     url: /works/681004/
+  - title: '] Choushin Hitozuma, Netorare “Mesu” ni Naru MTL'
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681311.jpg
+    rating: 0.0
+    date: '2026-09-15'
+    code: 681311
+    url: /works/681311/
   - title: School Prostitution Journal (Comix) Volume 1
     author: yamamoto-zenzen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681329.jpg

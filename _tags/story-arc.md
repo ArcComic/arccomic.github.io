@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "story arc"
-work_count: 137
+work_count: 138
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -922,6 +922,13 @@ works:
     date: '2026-09-04'
     code: 677418
     url: /works/677418/
+  - title: Netorareta Hitozuma
+    author: shomu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678797.jpg
+    rating: 0.0
+    date: '2026-09-15'
+    code: 678797
+    url: /works/678797/
   - title: Aimai na Bokura 3 Kanojo wa Tabun, Korekara Mechakucha Sex Suru
     author: tsukuyomi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678802.jpg

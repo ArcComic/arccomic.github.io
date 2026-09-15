@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "milf"
-work_count: 312
+work_count: 313
 works:
   - title: Life with Married Women Just Like a Manga 2 - Ch. 1-5
     author: hidemaru
@@ -2159,6 +2159,13 @@ works:
     date: '2026-09-05'
     code: 678643
     url: /works/678643/
+  - title: Netorareta Hitozuma
+    author: shomu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678797.jpg
+    rating: 0.0
+    date: '2026-09-15'
+    code: 678797
+    url: /works/678797/
   - title: I'll turn a divorced woman and a nagging housewife into ripe, voluptuous
       sex toys with their complicated pasts
     author: gagarin-kichi
