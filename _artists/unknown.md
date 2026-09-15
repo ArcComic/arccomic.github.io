@@ -309,7 +309,7 @@ works:
     url: /works/680970/
   - title: '] Choushin Hitozuma, Netorare “Mesu” ni Naru MTL'
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681311.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-15'
     code: 681311
     url: /works/681311/

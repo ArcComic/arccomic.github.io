@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "netorare"
-work_count: 270
+work_count: 271
 works:
   - title: Hitozuma Hyakka
     author: hase-tsubura
@@ -304,7 +304,7 @@ works:
   - title: Shitsurakuen | Paradise Lost
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/463749.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-15'
     code: 463749
     url: /works/463749/
@@ -1993,6 +1993,13 @@ works:
     date: '2026-09-13'
     code: 680971
     url: /works/680971/
+  - title: Osoku Umareta Kimi ga Warui - Blame It on Being Born Too Late
+    author: tsukuyomi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681269.jpg
+    rating: 4.2
+    date: '2026-09-15'
+    code: 681269
+    url: /works/681269/
   - title: Inin Keiyaku | Lewd Pregnancy Contract
     author: yoshiura-kazuya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/83595.jpg

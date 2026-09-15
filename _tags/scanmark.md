@@ -829,7 +829,7 @@ works:
   - title: Netorareta Hitozuma
     author: shomu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678797.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-09-15'
     code: 678797
     url: /works/678797/
@@ -974,14 +974,14 @@ works:
   - title: '] Choushin Hitozuma, Netorare “Mesu” ni Naru MTL'
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681311.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-15'
     code: 681311
     url: /works/681311/
   - title: Panpan Travelers Osaka Shuudan Rape Hen
     author: raidon
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681323.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-15'
     code: 681323
     url: /works/681323/

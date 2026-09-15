@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "prostitution"
-work_count: 47
+work_count: 48
 works:
   - title: Yuri no o saifu ni shite agemasu ne, Senpai | I'll turn you into Yuri's wallet,
       Senpai
@@ -340,10 +340,17 @@ works:
     date: '2026-09-13'
     code: 681028
     url: /works/681028/
+  - title: Momoiro Kikyou Ichi
+    author: enma
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681308.jpg
+    rating: 4.6
+    date: '2026-09-15'
+    code: 681308
+    url: /works/681308/
   - title: School Prostitution Journal (Comix) Volume 1
     author: yamamoto-zenzen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681329.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-09-15'
     code: 681329
     url: /works/681329/

@@ -1,7 +1,7 @@
 ---
 layout: artist
 artist_name: "enma"
-work_count: 3
+work_count: 4
 works:
   - title: Chijo Monogatari Henshitsusha (Onna) Shutsubotsu Chuu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/588713.jpg
@@ -22,4 +22,10 @@ works:
     date: '2026-04-30'
     code: 646870
     url: /works/646870/
+  - title: Momoiro Kikyou Ichi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681308.jpg
+    rating: 4.6
+    date: '2026-09-15'
+    code: 681308
+    url: /works/681308/
 ---

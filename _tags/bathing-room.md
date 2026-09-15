@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bathing room"
-work_count: 13
+work_count: 14
 works:
   - title: Homestay-chu no Doitsu Musume ga Issho ni Furo ni Haitte Kuru Wake | The
       Reason Why a German Girl Takes a Bath Together With Me on Her Homestay
@@ -102,4 +102,11 @@ works:
     date: '2026-09-08'
     code: 679489
     url: /works/679489/
+  - title: Momoiro Kikyou Ichi
+    author: enma
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681308.jpg
+    rating: 4.6
+    date: '2026-09-15'
+    code: 681308
+    url: /works/681308/
 ---

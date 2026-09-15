@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "tankoubon"
-work_count: 53
+work_count: 54
 works:
   - title: Kaisha de Iroiro | Gettin' Busy at the Office
     author: hara-shigeyuki
@@ -336,7 +336,7 @@ works:
   - title: Netorareta Hitozuma
     author: shomu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678797.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-09-15'
     code: 678797
     url: /works/678797/
@@ -369,6 +369,13 @@ works:
     date: '2026-09-11'
     code: 680312
     url: /works/680312/
+  - title: Momoiro Kikyou Ichi
+    author: enma
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681308.jpg
+    rating: 4.6
+    date: '2026-09-15'
+    code: 681308
+    url: /works/681308/
   - title: Hottokenaino
     author: hara-shigeyuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/77864.jpg

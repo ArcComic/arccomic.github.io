@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "original"
-work_count: 746
+work_count: 748
 works:
   - title: Natsu dake Koibito - Summer only Lover [English] =Forbidden Fetish + Ser
       Maggot=
@@ -101,7 +101,7 @@ works:
   - title: Kyodou Fushin Joshi
     author: uds
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/339953.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-15'
     code: 339953
     url: /works/339953/
@@ -5517,28 +5517,42 @@ works:
       Milking Club Part 4, First Half
     author: michiking
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681251.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-15'
     code: 681251
     url: /works/681251/
+  - title: Osoku Umareta Kimi ga Warui - Blame It on Being Born Too Late
+    author: tsukuyomi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681269.jpg
+    rating: 4.2
+    date: '2026-09-15'
+    code: 681269
+    url: /works/681269/
+  - title: Momoiro Kikyou Ichi
+    author: enma
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681308.jpg
+    rating: 4.6
+    date: '2026-09-15'
+    code: 681308
+    url: /works/681308/
   - title: '] Choushin Hitozuma, Netorare “Mesu” ni Naru MTL'
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681311.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-15'
     code: 681311
     url: /works/681311/
   - title: Panpan Travelers Osaka Shuudan Rape Hen
     author: raidon
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681323.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-15'
     code: 681323
     url: /works/681323/
   - title: Himekawa-san no Saimin Kyoushitsu | Himekawa-san's Hypnosis Class
     author: takei-ooki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681361.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-15'
     code: 681361
     url: /works/681361/

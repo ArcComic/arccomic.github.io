@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "nakadashi"
-work_count: 528
+work_count: 529
 works:
   - title: Adoration
     author: kishizuka-kenji
@@ -162,7 +162,7 @@ works:
   - title: Kyodou Fushin Joshi
     author: uds
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/339953.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-15'
     code: 339953
     url: /works/339953/
@@ -397,7 +397,7 @@ works:
   - title: Marebito Kitari Te
     author: yoshika
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/443073.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-15'
     code: 443073
     url: /works/443073/
@@ -3315,14 +3315,14 @@ works:
   - title: Ofuroba de Mayu to Ecchi na Koto Suru Hon
     author: garana
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/672580.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-15'
     code: 672580
     url: /works/672580/
   - title: Mamayu Zukushi
     author: kirin-kakeru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673502.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-15'
     code: 673502
     url: /works/673502/
@@ -3915,10 +3915,17 @@ works:
       Milking Club Part 4, First Half
     author: michiking
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681251.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-15'
     code: 681251
     url: /works/681251/
+  - title: Momoiro Kikyou Ichi
+    author: enma
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681308.jpg
+    rating: 4.6
+    date: '2026-09-15'
+    code: 681308
+    url: /works/681308/
   - title: Inin Keiyaku | Lewd Pregnancy Contract
     author: yoshiura-kazuya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/83595.jpg

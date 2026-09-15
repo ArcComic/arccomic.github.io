@@ -34,7 +34,7 @@ works:
   - title: Kyodou Fushin Joshi
     author: uds
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/339953.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-15'
     code: 339953
     url: /works/339953/
@@ -63,7 +63,7 @@ works:
   - title: Shitsurakuen | Paradise Lost
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/463749.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-15'
     code: 463749
     url: /works/463749/
@@ -312,7 +312,7 @@ works:
   - title: Ofuroba de Mayu to Ecchi na Koto Suru Hon
     author: garana
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/672580.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-15'
     code: 672580
     url: /works/672580/

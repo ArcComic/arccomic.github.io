@@ -1,7 +1,7 @@
 ---
 layout: artist
 artist_name: "tsukuyomi"
-work_count: 2
+work_count: 3
 works:
   - title: Sumata dake tte Itta no ni… Nurutto Sounyuusarechatta Yuutousei no Omocha
       | You Said It'd Just Be Grinding... But You Ended up Slipping It In. Now I'm Just
@@ -17,4 +17,10 @@ works:
     date: '2026-09-07'
     code: 678802
     url: /works/678802/
+  - title: Osoku Umareta Kimi ga Warui - Blame It on Being Born Too Late
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681269.jpg
+    rating: 4.2
+    date: '2026-09-15'
+    code: 681269
+    url: /works/681269/
 ---

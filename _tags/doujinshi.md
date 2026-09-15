@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "doujinshi"
-work_count: 887
+work_count: 889
 works:
   - title: Another Produce -Kaede Takagaki-
     author: marushin
@@ -164,7 +164,7 @@ works:
   - title: Kyodou Fushin Joshi
     author: uds
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/339953.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-15'
     code: 339953
     url: /works/339953/
@@ -681,7 +681,7 @@ works:
   - title: Shitsurakuen | Paradise Lost
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/463749.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-15'
     code: 463749
     url: /works/463749/
@@ -5239,7 +5239,7 @@ works:
   - title: Ofuroba de Mayu to Ecchi na Koto Suru Hon
     author: garana
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/672580.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-15'
     code: 672580
     url: /works/672580/
@@ -5290,7 +5290,7 @@ works:
   - title: Mamayu Zukushi
     author: kirin-kakeru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673502.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-15'
     code: 673502
     url: /works/673502/
@@ -6524,35 +6524,49 @@ works:
       Milking Club Part 4, First Half
     author: michiking
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681251.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-15'
     code: 681251
     url: /works/681251/
+  - title: Osoku Umareta Kimi ga Warui - Blame It on Being Born Too Late
+    author: tsukuyomi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681269.jpg
+    rating: 4.2
+    date: '2026-09-15'
+    code: 681269
+    url: /works/681269/
+  - title: Momoiro Kikyou Ichi
+    author: enma
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681308.jpg
+    rating: 4.6
+    date: '2026-09-15'
+    code: 681308
+    url: /works/681308/
   - title: '] Choushin Hitozuma, Netorare “Mesu” ni Naru MTL'
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681311.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-15'
     code: 681311
     url: /works/681311/
   - title: Kitazawa Shiho no Chikan Hon
     author: yoshika
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681317.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-15'
     code: 681317
     url: /works/681317/
   - title: Panpan Travelers Osaka Shuudan Rape Hen
     author: raidon
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681323.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-15'
     code: 681323
     url: /works/681323/
   - title: Himekawa-san no Saimin Kyoushitsu | Himekawa-san's Hypnosis Class
     author: takei-ooki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681361.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-15'
     code: 681361
     url: /works/681361/

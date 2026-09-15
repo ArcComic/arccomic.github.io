@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "mosaic censorship"
-work_count: 220
+work_count: 221
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -1596,17 +1596,24 @@ works:
     date: '2026-09-13'
     code: 680885
     url: /works/680885/
+  - title: Momoiro Kikyou Ichi
+    author: enma
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681308.jpg
+    rating: 4.6
+    date: '2026-09-15'
+    code: 681308
+    url: /works/681308/
   - title: Panpan Travelers Osaka Shuudan Rape Hen
     author: raidon
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681323.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-15'
     code: 681323
     url: /works/681323/
   - title: School Prostitution Journal (Comix) Volume 1
     author: yamamoto-zenzen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681329.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-09-15'
     code: 681329
     url: /works/681329/
