@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "virginity"
-work_count: 111
+work_count: 112
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -136,7 +136,7 @@ works:
   - title: Harinezumi no Dilemma ① | A Hedgehog's Dilemma, Part 1
     author: maeda-momo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/388627.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-13'
     code: 388627
     url: /works/388627/
@@ -172,7 +172,7 @@ works:
   - title: Joukou Philosophy | The Philosophy of Intimacy
     author: tamabi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/429514.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-13'
     code: 429514
     url: /works/429514/
@@ -187,7 +187,7 @@ works:
   - title: The Show Must Go On!
     author: chicken
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/432255.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-09-13'
     code: 432255
     url: /works/432255/
@@ -225,7 +225,7 @@ works:
   - title: Hiyoko-san wa Sewazuki | Hiyoko is a Busybody
     author: maeda-momo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/480065.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-09-13'
     code: 480065
     url: /works/480065/
@@ -671,7 +671,7 @@ works:
       behaved sister
     author: higashino-mikan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/657607.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-13'
     code: 657607
     url: /works/657607/
@@ -815,15 +815,22 @@ works:
       Huukiin no Boku'
     author: gar
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680847.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-13'
     code: 680847
     url: /works/680847/
   - title: Cooking Pakopako | Cooking Fucka
     author: otochichi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681004.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-13'
     code: 681004
     url: /works/681004/
+  - title: School Prostitution Journal (Comix) Volume 1
+    author: yamamoto-zenzen
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681329.jpg
+    rating: 0.0
+    date: '2026-09-15'
+    code: 681329
+    url: /works/681329/
 ---

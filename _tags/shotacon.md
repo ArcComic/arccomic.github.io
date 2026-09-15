@@ -77,7 +77,7 @@ works:
   - title: Sayonara Onee-chan | Goodbye Big Sis!
     author: kamitsuki-manmaru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/380273.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-13'
     code: 380273
     url: /works/380273/
@@ -259,7 +259,7 @@ works:
       a Girl of Generous Girth ~My Mommy-Like Girlfriend~
     author: higashino-mikan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/608734.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-13'
     code: 608734
     url: /works/608734/
@@ -465,7 +465,7 @@ works:
       behaved sister
     author: higashino-mikan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/657607.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-13'
     code: 657607
     url: /works/657607/
@@ -532,7 +532,7 @@ works:
   - title: Mama no, Sono Eroi Karada ga Ikenainda 1-2
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/672310.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-13'
     code: 672310
     url: /works/672310/

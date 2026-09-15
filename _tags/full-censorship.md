@@ -120,7 +120,7 @@ works:
   - title: Joukou Philosophy | The Philosophy of Intimacy
     author: tamabi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/429514.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-13'
     code: 429514
     url: /works/429514/
@@ -391,7 +391,7 @@ works:
   - title: Falling of summer
     author: monono-ex
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/659199.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-13'
     code: 659199
     url: /works/659199/
@@ -451,7 +451,7 @@ works:
   - title: Mama no, Sono Eroi Karada ga Ikenainda 1-2
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/672310.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-13'
     code: 672310
     url: /works/672310/

@@ -18,7 +18,7 @@ works:
     url: /works/417221/
   - title: Joukou Philosophy | The Philosophy of Intimacy
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/429514.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-13'
     code: 429514
     url: /works/429514/

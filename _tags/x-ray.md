@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "x-ray"
-work_count: 205
+work_count: 206
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -32,6 +32,13 @@ works:
     date: '2026-09-13'
     code: 316579
     url: /works/316579/
+  - title: Kyodou Fushin Joshi
+    author: uds
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/339953.jpg
+    rating: 0.0
+    date: '2026-09-15'
+    code: 339953
+    url: /works/339953/
   - title: Shirotaegiku | Dusty miller
     author: hiroya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/370164.jpg
@@ -166,7 +173,7 @@ works:
   - title: Hiyoko-san wa Sewazuki | Hiyoko is a Busybody
     author: maeda-momo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/480065.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-09-13'
     code: 480065
     url: /works/480065/
@@ -699,7 +706,7 @@ works:
       Sex with a Single Mother 1
     author: botamochi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/641977.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-13'
     code: 641977
     url: /works/641977/
@@ -759,7 +766,7 @@ works:
       secret crush, is making a bold move!
     author: bunapi-397-yen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/645116.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-13'
     code: 645116
     url: /works/645116/
@@ -1073,7 +1080,7 @@ works:
       behaved sister
     author: higashino-mikan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/657607.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-13'
     code: 657607
     url: /works/657607/
@@ -1089,7 +1096,7 @@ works:
       Maidens -Eve Pt.2-'
     author: ushinomiya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/659068.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-13'
     code: 659068
     url: /works/659068/
@@ -1521,21 +1528,21 @@ works:
       and semen until she turns into a horny female
     author: rikazu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680991.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-13'
     code: 680991
     url: /works/680991/
   - title: Cooking Pakopako | Cooking Fucka
     author: otochichi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681004.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-13'
     code: 681004
     url: /works/681004/
   - title: Kyoudai Igai ni Nareta nara | If We Could Be More Than Siblings
     author: oshima-aki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681030.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-13'
     code: 681030
     url: /works/681030/

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "manga"
-work_count: 254
+work_count: 255
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -275,7 +275,7 @@ works:
   - title: Honoka ni Moyuru -- Honoka's Fire
     author: kamitsuki-manmaru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/364828.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-13'
     code: 364828
     url: /works/364828/
@@ -289,14 +289,14 @@ works:
   - title: Sayonara Onee-chan | Goodbye Big Sis!
     author: kamitsuki-manmaru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/380273.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-13'
     code: 380273
     url: /works/380273/
   - title: Harinezumi no Dilemma ① | A Hedgehog's Dilemma, Part 1
     author: maeda-momo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/388627.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-13'
     code: 388627
     url: /works/388627/
@@ -396,7 +396,7 @@ works:
   - title: Joukou Philosophy | The Philosophy of Intimacy
     author: tamabi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/429514.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-13'
     code: 429514
     url: /works/429514/
@@ -410,7 +410,7 @@ works:
   - title: The Show Must Go On!
     author: chicken
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/432255.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-09-13'
     code: 432255
     url: /works/432255/
@@ -1121,7 +1121,7 @@ works:
   - title: Eat Meat + Digital Tokusouban Gentei Tokuten - Natsume-san wa Chorosugiru!
     author: ushinomiya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638556.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-13'
     code: 638556
     url: /works/638556/
@@ -1579,7 +1579,7 @@ works:
   - title: Mama no, Sono Eroi Karada ga Ikenainda 1-2
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/672310.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-13'
     code: 672310
     url: /works/672310/
@@ -1800,17 +1800,24 @@ works:
   - title: Ore, Netoraretaindesu!!! Ch. 03-04
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680970.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-13'
     code: 680970
     url: /works/680970/
   - title: Cooking Pakopako | Cooking Fucka
     author: otochichi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681004.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-13'
     code: 681004
     url: /works/681004/
+  - title: School Prostitution Journal (Comix) Volume 1
+    author: yamamoto-zenzen
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681329.jpg
+    rating: 0.0
+    date: '2026-09-15'
+    code: 681329
+    url: /works/681329/
   - title: Hottokenaino
     author: hara-shigeyuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/77864.jpg

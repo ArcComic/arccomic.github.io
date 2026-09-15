@@ -5,13 +5,13 @@ work_count: 2
 works:
   - title: Honoka ni Moyuru -- Honoka's Fire
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/364828.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-13'
     code: 364828
     url: /works/364828/
   - title: Sayonara Onee-chan | Goodbye Big Sis!
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/380273.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-13'
     code: 380273
     url: /works/380273/

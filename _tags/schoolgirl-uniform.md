@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "schoolgirl uniform"
-work_count: 217
+work_count: 220
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -46,6 +46,13 @@ works:
     date: '2026-07-07'
     code: 321298
     url: /works/321298/
+  - title: Kyodou Fushin Joshi
+    author: uds
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/339953.jpg
+    rating: 0.0
+    date: '2026-09-15'
+    code: 339953
+    url: /works/339953/
   - title: Love Divided Between a Rock and a Hard Place Ch.1
     author: cabin
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/342540.jpg
@@ -107,7 +114,7 @@ works:
   - title: Harinezumi no Dilemma ① | A Hedgehog's Dilemma, Part 1
     author: maeda-momo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/388627.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-13'
     code: 388627
     url: /works/388627/
@@ -165,7 +172,7 @@ works:
   - title: Joukou Philosophy | The Philosophy of Intimacy
     author: tamabi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/429514.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-13'
     code: 429514
     url: /works/429514/
@@ -725,7 +732,7 @@ works:
   - title: Eat Meat + Digital Tokusouban Gentei Tokuten - Natsume-san wa Chorosugiru!
     author: ushinomiya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638556.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-13'
     code: 638556
     url: /works/638556/
@@ -808,7 +815,7 @@ works:
       secret crush, is making a bold move!
     author: bunapi-397-yen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/645116.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-13'
     code: 645116
     url: /works/645116/
@@ -1109,7 +1116,7 @@ works:
       Maidens -Eve Pt.2-'
     author: ushinomiya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/659068.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-13'
     code: 659068
     url: /works/659068/
@@ -1597,7 +1604,7 @@ works:
       Huukiin no Boku'
     author: gar
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680847.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-13'
     code: 680847
     url: /works/680847/
@@ -1605,15 +1612,29 @@ works:
       a Hostess at Class 2-C's School Festival Boobs Bar
     author: bunapi-397-yen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680997.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-13'
     code: 680997
     url: /works/680997/
   - title: Kyoudai Igai ni Nareta nara | If We Could Be More Than Siblings
     author: oshima-aki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681030.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-13'
     code: 681030
     url: /works/681030/
+  - title: School Prostitution Journal (Comix) Volume 1
+    author: yamamoto-zenzen
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681329.jpg
+    rating: 0.0
+    date: '2026-09-15'
+    code: 681329
+    url: /works/681329/
+  - title: Himekawa-san no Saimin Kyoushitsu | Himekawa-san's Hypnosis Class
+    author: takei-ooki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681361.jpg
+    rating: 0.0
+    date: '2026-09-15'
+    code: 681361
+    url: /works/681361/
 ---

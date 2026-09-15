@@ -6,7 +6,7 @@ works:
   - title: The Show Must Go On!
     author: chicken
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/432255.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-09-13'
     code: 432255
     url: /works/432255/

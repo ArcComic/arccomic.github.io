@@ -1,7 +1,7 @@
 ---
 layout: artist
 artist_name: "group"
-work_count: 21
+work_count: 22
 works:
   - title: Itabasami na Wakachi Ai 4 | Love Divided Between a Rock and a Hard Place
       4
@@ -10,6 +10,12 @@ works:
     date: '2026-04-23'
     code: 448503
     url: /works/448503/
+  - title: Shitsurakuen | Paradise Lost
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/463749.jpg
+    rating: 0.0
+    date: '2026-09-15'
+    code: 463749
+    url: /works/463749/
   - title: Jimi Kyonyuu No Stalker Onna Ni Gokuhaku Saretanode Yarimakutte Mita Hanashi
       2 | I Was Confessed To By A Plain Busty Stalker Girl, So I Fucked Her Like Crazy
       2

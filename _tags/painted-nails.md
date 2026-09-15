@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "painted nails"
-work_count: 25
+work_count: 26
 works:
   - title: Rakki Taishyaku
     author: fushoku
@@ -189,4 +189,11 @@ works:
     date: '2026-09-10'
     code: 679961
     url: /works/679961/
+  - title: School Prostitution Journal (Comix) Volume 1
+    author: yamamoto-zenzen
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681329.jpg
+    rating: 0.0
+    date: '2026-09-15'
+    code: 681329
+    url: /works/681329/
 ---

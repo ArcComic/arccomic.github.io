@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bbw"
-work_count: 32
+work_count: 33
 works:
   - title: My Care Lady Ch. 1
     author: sugi-g
@@ -232,8 +232,15 @@ works:
   - title: Cooking Pakopako | Cooking Fucka
     author: otochichi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681004.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-13'
     code: 681004
     url: /works/681004/
+  - title: School Prostitution Journal (Comix) Volume 1
+    author: yamamoto-zenzen
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681329.jpg
+    rating: 0.0
+    date: '2026-09-15'
+    code: 681329
+    url: /works/681329/
 ---

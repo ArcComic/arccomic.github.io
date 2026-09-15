@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "femdom"
-work_count: 109
+work_count: 112
 works:
   - title: Life with Married Women Just Like a Manga 2 - Ch. 1-5
     author: hidemaru
@@ -112,7 +112,7 @@ works:
   - title: Harinezumi no Dilemma ① | A Hedgehog's Dilemma, Part 1
     author: maeda-momo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/388627.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-13'
     code: 388627
     url: /works/388627/
@@ -292,7 +292,7 @@ works:
       a Girl of Generous Girth ~My Mommy-Like Girlfriend~
     author: higashino-mikan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/608734.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-13'
     code: 608734
     url: /works/608734/
@@ -424,7 +424,7 @@ works:
   - title: Eat Meat + Digital Tokusouban Gentei Tokuten - Natsume-san wa Chorosugiru!
     author: ushinomiya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638556.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-13'
     code: 638556
     url: /works/638556/
@@ -701,6 +701,13 @@ works:
     date: '2026-09-09'
     code: 665716
     url: /works/665716/
+  - title: Ofuroba de Mayu to Ecchi na Koto Suru Hon
+    author: garana
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/672580.jpg
+    rating: 0.0
+    date: '2026-09-15'
+    code: 672580
+    url: /works/672580/
   - title: Yome no Tsurego ni Otosareru Boku | I was Seduced by My Wife's Child from
       a Previous Marriage
     author: sabano-fudeoki
@@ -777,7 +784,7 @@ works:
   - title: Cooking Pakopako | Cooking Fucka
     author: otochichi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681004.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-13'
     code: 681004
     url: /works/681004/
@@ -785,10 +792,25 @@ works:
       Nozonderu~ | My Sadistic Boyfriend Tetsu-kun Wants Me To Tease His Nipples!
     author: ntntgngn
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681023.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-13'
     code: 681023
     url: /works/681023/
+  - title: Succubus Seitokai Shiko Shiko Shikkoubu 4 Zenpen | Succubus Student Council
+      Milking Club Part 4, First Half
+    author: michiking
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681251.jpg
+    rating: 0.0
+    date: '2026-09-15'
+    code: 681251
+    url: /works/681251/
+  - title: Himekawa-san no Saimin Kyoushitsu | Himekawa-san's Hypnosis Class
+    author: takei-ooki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681361.jpg
+    rating: 0.0
+    date: '2026-09-15'
+    code: 681361
+    url: /works/681361/
   - title: Jokyoushi - Hot For Teachers | Female Teachers
     author: drill-murata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/81375.jpg

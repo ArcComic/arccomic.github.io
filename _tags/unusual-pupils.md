@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "unusual pupils"
-work_count: 41
+work_count: 44
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -31,6 +31,13 @@ works:
     date: '2026-04-17'
     code: 335960
     url: /works/335960/
+  - title: Kyodou Fushin Joshi
+    author: uds
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/339953.jpg
+    rating: 0.0
+    date: '2026-09-15'
+    code: 339953
+    url: /works/339953/
   - title: Kono Koi ni Kiduite
     author: danimaru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/357965.jpg
@@ -53,6 +60,13 @@ works:
     date: '2026-04-23'
     code: 448503
     url: /works/448503/
+  - title: Shitsurakuen | Paradise Lost
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/463749.jpg
+    rating: 0.0
+    date: '2026-09-15'
+    code: 463749
+    url: /works/463749/
   - title: Kanojo wa Boku no Taieki de Ugoiteiru Phase. 05 [English] =NSS=
     author: nagareboshi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/470025.jpg
@@ -288,6 +302,13 @@ works:
     date: '2026-07-16'
     code: 664631
     url: /works/664631/
+  - title: Ofuroba de Mayu to Ecchi na Koto Suru Hon
+    author: garana
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/672580.jpg
+    rating: 0.0
+    date: '2026-09-15'
+    code: 672580
+    url: /works/672580/
   - title: Buaisou na Kakure Kyonyuu Boyish Kanojo to Taikutsu na Date 2 | A Boring
       Date with My Boyish Girlfriend (Who Has a Secretly Busty Figure and a Surly Attitude)
       – Part 2

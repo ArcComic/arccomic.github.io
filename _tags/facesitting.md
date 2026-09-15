@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "facesitting"
-work_count: 10
+work_count: 11
 works:
   - title: Yuri no o saifu ni shite agemasu ne, Senpai | I'll turn you into Yuri's wallet,
       Senpai
@@ -80,4 +80,12 @@ works:
     date: '2026-09-07'
     code: 679197
     url: /works/679197/
+  - title: Succubus Seitokai Shiko Shiko Shikkoubu 4 Zenpen | Succubus Student Council
+      Milking Club Part 4, First Half
+    author: michiking
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681251.jpg
+    rating: 0.0
+    date: '2026-09-15'
+    code: 681251
+    url: /works/681251/
 ---

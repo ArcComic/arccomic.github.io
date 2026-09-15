@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "blackmail"
-work_count: 101
+work_count: 103
 works:
   - title: Another Produce -Kaede Takagaki-
     author: marushin
@@ -506,7 +506,7 @@ works:
   - title: Falling of summer
     author: monono-ex
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/659199.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-13'
     code: 659199
     url: /works/659199/
@@ -753,6 +753,20 @@ works:
     date: '2026-09-12'
     code: 680771
     url: /works/680771/
+  - title: Kitazawa Shiho no Chikan Hon
+    author: yoshika
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681317.jpg
+    rating: 0.0
+    date: '2026-09-15'
+    code: 681317
+    url: /works/681317/
+  - title: Himekawa-san no Saimin Kyoushitsu | Himekawa-san's Hypnosis Class
+    author: takei-ooki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681361.jpg
+    rating: 0.0
+    date: '2026-09-15'
+    code: 681361
+    url: /works/681361/
   - title: Inin Keiyaku | Lewd Pregnancy Contract
     author: yoshiura-kazuya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/83595.jpg

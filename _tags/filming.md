@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "filming"
-work_count: 64
+work_count: 65
 works:
   - title: Netorare Ibe Kiba Shizuka | The Netorare of Kiba Shizuka
     author: terasu-mc
@@ -481,4 +481,11 @@ works:
     date: '2026-09-10'
     code: 680219
     url: /works/680219/
+  - title: Himekawa-san no Saimin Kyoushitsu | Himekawa-san's Hypnosis Class
+    author: takei-ooki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681361.jpg
+    rating: 0.0
+    date: '2026-09-15'
+    code: 681361
+    url: /works/681361/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "ponytail"
-work_count: 114
+work_count: 116
 works:
   - title: Hikki Mother Fucker
     author: otochichi
@@ -391,7 +391,7 @@ works:
   - title: Eat Meat + Digital Tokusouban Gentei Tokuten - Natsume-san wa Chorosugiru!
     author: ushinomiya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638556.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-13'
     code: 638556
     url: /works/638556/
@@ -630,7 +630,7 @@ works:
       behaved sister
     author: higashino-mikan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/657607.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-13'
     code: 657607
     url: /works/657607/
@@ -846,4 +846,18 @@ works:
     date: '2026-09-13'
     code: 680682
     url: /works/680682/
+  - title: Panpan Travelers Osaka Shuudan Rape Hen
+    author: raidon
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681323.jpg
+    rating: 0.0
+    date: '2026-09-15'
+    code: 681323
+    url: /works/681323/
+  - title: School Prostitution Journal (Comix) Volume 1
+    author: yamamoto-zenzen
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681329.jpg
+    rating: 0.0
+    date: '2026-09-15'
+    code: 681329
+    url: /works/681329/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "cheating"
-work_count: 240
+work_count: 241
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -213,7 +213,7 @@ works:
   - title: Honoka ni Moyuru -- Honoka's Fire
     author: kamitsuki-manmaru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/364828.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-13'
     code: 364828
     url: /works/364828/
@@ -242,7 +242,7 @@ works:
   - title: Sayonara Onee-chan | Goodbye Big Sis!
     author: kamitsuki-manmaru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/380273.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-13'
     code: 380273
     url: /works/380273/
@@ -1085,7 +1085,7 @@ works:
   - title: Eat Meat + Digital Tokusouban Gentei Tokuten - Natsume-san wa Chorosugiru!
     author: ushinomiya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638556.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-13'
     code: 638556
     url: /works/638556/
@@ -1759,10 +1759,17 @@ works:
   - title: Cooking Pakopako | Cooking Fucka
     author: otochichi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681004.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-13'
     code: 681004
     url: /works/681004/
+  - title: Himekawa-san no Saimin Kyoushitsu | Himekawa-san's Hypnosis Class
+    author: takei-ooki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681361.jpg
+    rating: 0.0
+    date: '2026-09-15'
+    code: 681361
+    url: /works/681361/
   - title: Jokyoushi - Hot For Teachers | Female Teachers
     author: drill-murata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/81375.jpg

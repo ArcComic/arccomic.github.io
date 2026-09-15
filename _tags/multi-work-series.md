@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "multi-work series"
-work_count: 251
+work_count: 252
 works:
   - title: Oppai na Natsuyasumi 2 | The Summer Break of Boobs 2
     author: higashino-mikan
@@ -973,7 +973,7 @@ works:
       Sex with a Single Mother 1
     author: botamochi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/641977.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-13'
     code: 641977
     url: /works/641977/
@@ -1338,7 +1338,7 @@ works:
       Maidens -Eve Pt.2-'
     author: ushinomiya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/659068.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-13'
     code: 659068
     url: /works/659068/
@@ -1864,14 +1864,14 @@ works:
       boss would become my sex friend 4
     author: botamochi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680885.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-13'
     code: 680885
     url: /works/680885/
   - title: Ore, Netoraretaindesu!!! Ch. 03-04
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680970.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-13'
     code: 680970
     url: /works/680970/
@@ -1881,8 +1881,16 @@ works:
       and semen until she turns into a horny female
     author: rikazu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680991.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-13'
     code: 680991
     url: /works/680991/
+  - title: Succubus Seitokai Shiko Shiko Shikkoubu 4 Zenpen | Succubus Student Council
+      Milking Club Part 4, First Half
+    author: michiking
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681251.jpg
+    rating: 0.0
+    date: '2026-09-15'
+    code: 681251
+    url: /works/681251/
 ---

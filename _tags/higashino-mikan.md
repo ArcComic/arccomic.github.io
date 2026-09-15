@@ -21,7 +21,7 @@ works:
       a Girl of Generous Girth ~My Mommy-Like Girlfriend~
     author: higashino-mikan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/608734.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-13'
     code: 608734
     url: /works/608734/
@@ -29,7 +29,7 @@ works:
       behaved sister
     author: higashino-mikan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/657607.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-13'
     code: 657607
     url: /works/657607/

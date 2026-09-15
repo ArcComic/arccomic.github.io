@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "gyaru"
-work_count: 75
+work_count: 76
 works:
   - title: GalPa!
     author: sakagami-umi
@@ -28,7 +28,7 @@ works:
   - title: Harinezumi no Dilemma ① | A Hedgehog's Dilemma, Part 1
     author: maeda-momo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/388627.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-13'
     code: 388627
     url: /works/388627/
@@ -560,8 +560,15 @@ works:
       and semen until she turns into a horny female
     author: rikazu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680991.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-13'
     code: 680991
     url: /works/680991/
+  - title: School Prostitution Journal (Comix) Volume 1
+    author: yamamoto-zenzen
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681329.jpg
+    rating: 0.0
+    date: '2026-09-15'
+    code: 681329
+    url: /works/681329/
 ---

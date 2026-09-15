@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "huge breasts"
-work_count: 63
+work_count: 64
 works:
   - title: Furuhonya no Onee-san to | With The Lady From The Used Book Shop
     author: nodame
@@ -153,7 +153,7 @@ works:
       Sex with a Single Mother 1
     author: botamochi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/641977.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-13'
     code: 641977
     url: /works/641977/
@@ -456,7 +456,7 @@ works:
       Huukiin no Boku'
     author: gar
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680847.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-13'
     code: 680847
     url: /works/680847/
@@ -465,15 +465,22 @@ works:
       boss would become my sex friend 4
     author: botamochi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680885.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-13'
     code: 680885
     url: /works/680885/
   - title: Cooking Pakopako | Cooking Fucka
     author: otochichi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681004.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-13'
     code: 681004
     url: /works/681004/
+  - title: School Prostitution Journal (Comix) Volume 1
+    author: yamamoto-zenzen
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681329.jpg
+    rating: 0.0
+    date: '2026-09-15'
+    code: 681329
+    url: /works/681329/
 ---

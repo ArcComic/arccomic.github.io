@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "condom"
-work_count: 149
+work_count: 150
 works:
   - title: Kaisha de Iroiro | Gettin' Busy at the Office
     author: hara-shigeyuki
@@ -223,7 +223,7 @@ works:
   - title: Joukou Philosophy | The Philosophy of Intimacy
     author: tamabi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/429514.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-13'
     code: 429514
     url: /works/429514/
@@ -274,7 +274,7 @@ works:
   - title: Hiyoko-san wa Sewazuki | Hiyoko is a Busybody
     author: maeda-momo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/480065.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-09-13'
     code: 480065
     url: /works/480065/
@@ -850,7 +850,7 @@ works:
       behaved sister
     author: higashino-mikan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/657607.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-13'
     code: 657607
     url: /works/657607/
@@ -1088,15 +1088,22 @@ works:
   - title: Refle de Junai Dekimasu ka? - Can you find true love at a massage parlor?
     author: hiyori-mizuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681028.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-13'
     code: 681028
     url: /works/681028/
   - title: Kyoudai Igai ni Nareta nara | If We Could Be More Than Siblings
     author: oshima-aki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681030.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-13'
     code: 681030
     url: /works/681030/
+  - title: School Prostitution Journal (Comix) Volume 1
+    author: yamamoto-zenzen
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681329.jpg
+    rating: 0.0
+    date: '2026-09-15'
+    code: 681329
+    url: /works/681329/
 ---

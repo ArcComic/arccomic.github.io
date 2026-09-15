@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "full color"
-work_count: 165
+work_count: 166
 works:
   - title: Tsuma wo Yariman ni Shimasu Shakkin no Tame desu kara.
     author: pietoro
@@ -70,7 +70,7 @@ works:
   - title: Hyoui Osen de Yuri Ecchi | Lesbian Sex through Corrupting Possession
     author: siina-yuuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/404458.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-13'
     code: 404458
     url: /works/404458/
@@ -1055,7 +1055,7 @@ works:
       Kanyuu Oba-san
     author: chotto-b-sen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/667204.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-13'
     code: 667204
     url: /works/667204/
@@ -1208,8 +1208,15 @@ works:
   - title: Cooking Pakopako | Cooking Fucka
     author: otochichi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681004.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-13'
     code: 681004
     url: /works/681004/
+  - title: Panpan Travelers Osaka Shuudan Rape Hen
+    author: raidon
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681323.jpg
+    rating: 0.0
+    date: '2026-09-15'
+    code: 681323
+    url: /works/681323/
 ---

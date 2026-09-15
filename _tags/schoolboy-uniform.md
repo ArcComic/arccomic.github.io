@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "schoolboy uniform"
-work_count: 64
+work_count: 65
 works:
   - title: FLUFFY LAUGH GIRL
     author: shibasaki-syouzi
@@ -71,7 +71,7 @@ works:
   - title: Harinezumi no Dilemma ① | A Hedgehog's Dilemma, Part 1
     author: maeda-momo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/388627.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-13'
     code: 388627
     url: /works/388627/
@@ -99,7 +99,7 @@ works:
   - title: Joukou Philosophy | The Philosophy of Intimacy
     author: tamabi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/429514.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-13'
     code: 429514
     url: /works/429514/
@@ -245,7 +245,7 @@ works:
       secret crush, is making a bold move!
     author: bunapi-397-yen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/645116.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-13'
     code: 645116
     url: /works/645116/
@@ -469,10 +469,17 @@ works:
       Huukiin no Boku'
     author: gar
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680847.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-13'
     code: 680847
     url: /works/680847/
+  - title: School Prostitution Journal (Comix) Volume 1
+    author: yamamoto-zenzen
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681329.jpg
+    rating: 0.0
+    date: '2026-09-15'
+    code: 681329
+    url: /works/681329/
   - title: Jokyoushi - Hot For Teachers | Female Teachers
     author: drill-murata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/81375.jpg

@@ -7,7 +7,7 @@ works:
       Sex with a Single Mother 1
     author: botamochi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/641977.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-13'
     code: 641977
     url: /works/641977/
@@ -16,7 +16,7 @@ works:
       boss would become my sex friend 4
     author: botamochi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680885.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-13'
     code: 680885
     url: /works/680885/

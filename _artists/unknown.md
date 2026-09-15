@@ -266,7 +266,7 @@ works:
     url: /works/664299/
   - title: Mama no, Sono Eroi Karada ga Ikenainda 1-2
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/672310.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-13'
     code: 672310
     url: /works/672310/
@@ -303,7 +303,7 @@ works:
     url: /works/680767/
   - title: Ore, Netoraretaindesu!!! Ch. 03-04
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680970.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-13'
     code: 680970
     url: /works/680970/

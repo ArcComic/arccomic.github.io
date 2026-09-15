@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "masturbation"
-work_count: 87
+work_count: 89
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -59,6 +59,13 @@ works:
     date: '2026-04-23'
     code: 329551
     url: /works/329551/
+  - title: Kyodou Fushin Joshi
+    author: uds
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/339953.jpg
+    rating: 0.0
+    date: '2026-09-15'
+    code: 339953
+    url: /works/339953/
   - title: Iro no Ie -Hitozuma ga Sex Suru Hon II- | Erotic House - Married Women Sex
       Book 2
     author: miho-rei
@@ -77,7 +84,7 @@ works:
   - title: Hyoui Osen de Yuri Ecchi | Lesbian Sex through Corrupting Possession
     author: siina-yuuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/404458.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-13'
     code: 404458
     url: /works/404458/
@@ -653,4 +660,12 @@ works:
     date: '2026-09-11'
     code: 680187
     url: /works/680187/
+  - title: Succubus Seitokai Shiko Shiko Shikkoubu 4 Zenpen | Succubus Student Council
+      Milking Club Part 4, First Half
+    author: michiking
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681251.jpg
+    rating: 0.0
+    date: '2026-09-15'
+    code: 681251
+    url: /works/681251/
 ---

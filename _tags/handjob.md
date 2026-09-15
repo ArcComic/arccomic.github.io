@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "handjob"
-work_count: 86
+work_count: 87
 works:
   - title: Yuri no o saifu ni shite agemasu ne, Senpai | I'll turn you into Yuri's wallet,
       Senpai
@@ -81,7 +81,7 @@ works:
   - title: Hiyoko-san wa Sewazuki | Hiyoko is a Busybody
     author: maeda-momo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/480065.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-09-13'
     code: 480065
     url: /works/480065/
@@ -235,7 +235,7 @@ works:
       a Girl of Generous Girth ~My Mommy-Like Girlfriend~
     author: higashino-mikan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/608734.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-13'
     code: 608734
     url: /works/608734/
@@ -532,7 +532,7 @@ works:
       behaved sister
     author: higashino-mikan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/657607.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-13'
     code: 657607
     url: /works/657607/
@@ -643,10 +643,18 @@ works:
       Nozonderu~ | My Sadistic Boyfriend Tetsu-kun Wants Me To Tease His Nipples!
     author: ntntgngn
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681023.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-13'
     code: 681023
     url: /works/681023/
+  - title: Succubus Seitokai Shiko Shiko Shikkoubu 4 Zenpen | Succubus Student Council
+      Milking Club Part 4, First Half
+    author: michiking
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681251.jpg
+    rating: 0.0
+    date: '2026-09-15'
+    code: 681251
+    url: /works/681251/
   - title: Onee-chan no SM Kouza | Onee-chan's S&M Lecture
     author: shinooka-homare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/88750.jpg

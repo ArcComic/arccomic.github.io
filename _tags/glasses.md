@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "glasses"
-work_count: 172
+work_count: 175
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -87,6 +87,13 @@ works:
     date: '2026-04-17'
     code: 332375
     url: /works/332375/
+  - title: Kyodou Fushin Joshi
+    author: uds
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/339953.jpg
+    rating: 0.0
+    date: '2026-09-15'
+    code: 339953
+    url: /works/339953/
   - title: Yokkyuu Fuman na Danchizuma wa Ikenai Kairaku ni Oboreru
     author: yanagawa-rio
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/342500.jpg
@@ -128,7 +135,7 @@ works:
   - title: Hyoui Osen de Yuri Ecchi | Lesbian Sex through Corrupting Possession
     author: siina-yuuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/404458.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-13'
     code: 404458
     url: /works/404458/
@@ -625,7 +632,7 @@ works:
   - title: Eat Meat + Digital Tokusouban Gentei Tokuten - Natsume-san wa Chorosugiru!
     author: ushinomiya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638556.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-13'
     code: 638556
     url: /works/638556/
@@ -1260,6 +1267,20 @@ works:
     date: '2026-09-12'
     code: 680591
     url: /works/680591/
+  - title: Panpan Travelers Osaka Shuudan Rape Hen
+    author: raidon
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681323.jpg
+    rating: 0.0
+    date: '2026-09-15'
+    code: 681323
+    url: /works/681323/
+  - title: School Prostitution Journal (Comix) Volume 1
+    author: yamamoto-zenzen
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681329.jpg
+    rating: 0.0
+    date: '2026-09-15'
+    code: 681329
+    url: /works/681329/
   - title: Hottokenaino
     author: hara-shigeyuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/77864.jpg

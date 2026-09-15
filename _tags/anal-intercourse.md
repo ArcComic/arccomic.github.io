@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "anal intercourse"
-work_count: 60
+work_count: 62
 works:
   - title: Bitch Mama no Kekkon Riyuu
     author: aoyama-akira
@@ -447,4 +447,18 @@ works:
     date: '2026-09-12'
     code: 680735
     url: /works/680735/
+  - title: Panpan Travelers Osaka Shuudan Rape Hen
+    author: raidon
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681323.jpg
+    rating: 0.0
+    date: '2026-09-15'
+    code: 681323
+    url: /works/681323/
+  - title: School Prostitution Journal (Comix) Volume 1
+    author: yamamoto-zenzen
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681329.jpg
+    rating: 0.0
+    date: '2026-09-15'
+    code: 681329
+    url: /works/681329/
 ---

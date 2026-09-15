@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "blowjob"
-work_count: 424
+work_count: 429
 works:
   - title: Office Love Scramble Ch. 1
     author: tohzai
@@ -383,6 +383,13 @@ works:
     date: '2026-04-25'
     code: 463298
     url: /works/463298/
+  - title: Shitsurakuen | Paradise Lost
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/463749.jpg
+    rating: 0.0
+    date: '2026-09-15'
+    code: 463749
+    url: /works/463749/
   - title: Yarareru kanojo - Hitozumajoushi ManaNTR -
     author: tokyo-gunjo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/465602.jpg
@@ -428,7 +435,7 @@ works:
   - title: Hiyoko-san wa Sewazuki | Hiyoko is a Busybody
     author: maeda-momo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/480065.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-09-13'
     code: 480065
     url: /works/480065/
@@ -1224,7 +1231,7 @@ works:
       a Girl of Generous Girth ~My Mommy-Like Girlfriend~
     author: higashino-mikan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/608734.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-13'
     code: 608734
     url: /works/608734/
@@ -1659,7 +1666,7 @@ works:
   - title: Eat Meat + Digital Tokusouban Gentei Tokuten - Natsume-san wa Chorosugiru!
     author: ushinomiya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638556.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-13'
     code: 638556
     url: /works/638556/
@@ -1816,7 +1823,7 @@ works:
       secret crush, is making a bold move!
     author: bunapi-397-yen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/645116.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-13'
     code: 645116
     url: /works/645116/
@@ -2316,7 +2323,7 @@ works:
       Maidens -Eve Pt.2-'
     author: ushinomiya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/659068.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-13'
     code: 659068
     url: /works/659068/
@@ -2604,7 +2611,7 @@ works:
       Kanyuu Oba-san
     author: chotto-b-sen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/667204.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-13'
     code: 667204
     url: /works/667204/
@@ -2669,6 +2676,13 @@ works:
     date: '2026-08-19'
     code: 671657
     url: /works/671657/
+  - title: Ofuroba de Mayu to Ecchi na Koto Suru Hon
+    author: garana
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/672580.jpg
+    rating: 0.0
+    date: '2026-09-15'
+    code: 672580
+    url: /works/672580/
   - title: Ichigun Joshi no Otoshikata "Zenpen" - Corrupting the Queen Bee | Corrupting
       the Queen Bee Part 1
     author: gar
@@ -3127,24 +3141,46 @@ works:
   - title: Cooking Pakopako | Cooking Fucka
     author: otochichi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681004.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-13'
     code: 681004
     url: /works/681004/
   - title: Refle de Junai Dekimasu ka? - Can you find true love at a massage parlor?
     author: hiyori-mizuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681028.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-13'
     code: 681028
     url: /works/681028/
   - title: Kyoudai Igai ni Nareta nara | If We Could Be More Than Siblings
     author: oshima-aki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681030.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-13'
     code: 681030
     url: /works/681030/
+  - title: Succubus Seitokai Shiko Shiko Shikkoubu 4 Zenpen | Succubus Student Council
+      Milking Club Part 4, First Half
+    author: michiking
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681251.jpg
+    rating: 0.0
+    date: '2026-09-15'
+    code: 681251
+    url: /works/681251/
+  - title: School Prostitution Journal (Comix) Volume 1
+    author: yamamoto-zenzen
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681329.jpg
+    rating: 0.0
+    date: '2026-09-15'
+    code: 681329
+    url: /works/681329/
+  - title: Himekawa-san no Saimin Kyoushitsu | Himekawa-san's Hypnosis Class
+    author: takei-ooki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681361.jpg
+    rating: 0.0
+    date: '2026-09-15'
+    code: 681361
+    url: /works/681361/
   - title: Jokyoushi - Hot For Teachers | Female Teachers
     author: drill-murata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/81375.jpg

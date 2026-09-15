@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "gag"
-work_count: 12
+work_count: 13
 works:
   - title: Hikikomori Kyousei Shisetsu Hakutou no Ie
     author: shine-nabyss
@@ -89,4 +89,12 @@ works:
     date: '2026-09-11'
     code: 680162
     url: /works/680162/
+  - title: Succubus Seitokai Shiko Shiko Shikkoubu 4 Zenpen | Succubus Student Council
+      Milking Club Part 4, First Half
+    author: michiking
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681251.jpg
+    rating: 0.0
+    date: '2026-09-15'
+    code: 681251
+    url: /works/681251/
 ---

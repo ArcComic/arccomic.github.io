@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "rape"
-work_count: 165
+work_count: 169
 works:
   - title: Office Love Scramble Ch. 1
     author: tohzai
@@ -100,7 +100,7 @@ works:
   - title: Harinezumi no Dilemma ① | A Hedgehog's Dilemma, Part 1
     author: maeda-momo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/388627.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-13'
     code: 388627
     url: /works/388627/
@@ -208,6 +208,13 @@ works:
     date: '2026-09-09'
     code: 461537
     url: /works/461537/
+  - title: Shitsurakuen | Paradise Lost
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/463749.jpg
+    rating: 0.0
+    date: '2026-09-15'
+    code: 463749
+    url: /works/463749/
   - title: Yarareru kanojo - Hitozumajoushi ManaNTR -
     author: tokyo-gunjo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/465602.jpg
@@ -883,7 +890,7 @@ works:
   - title: Falling of summer
     author: monono-ex
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/659199.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-13'
     code: 659199
     url: /works/659199/
@@ -1048,7 +1055,7 @@ works:
   - title: Mama no, Sono Eroi Karada ga Ikenainda 1-2
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/672310.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-13'
     code: 672310
     url: /works/672310/
@@ -1205,4 +1212,25 @@ works:
     date: '2026-09-12'
     code: 680735
     url: /works/680735/
+  - title: Kitazawa Shiho no Chikan Hon
+    author: yoshika
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681317.jpg
+    rating: 0.0
+    date: '2026-09-15'
+    code: 681317
+    url: /works/681317/
+  - title: Panpan Travelers Osaka Shuudan Rape Hen
+    author: raidon
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681323.jpg
+    rating: 0.0
+    date: '2026-09-15'
+    code: 681323
+    url: /works/681323/
+  - title: Himekawa-san no Saimin Kyoushitsu | Himekawa-san's Hypnosis Class
+    author: takei-ooki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681361.jpg
+    rating: 0.0
+    date: '2026-09-15'
+    code: 681361
+    url: /works/681361/
 ---

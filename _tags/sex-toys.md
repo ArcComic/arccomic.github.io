@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sex toys"
-work_count: 83
+work_count: 84
 works:
   - title: Ayami Hypno
     author: yasuhiro
@@ -307,7 +307,7 @@ works:
   - title: Eat Meat + Digital Tokusouban Gentei Tokuten - Natsume-san wa Chorosugiru!
     author: ushinomiya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638556.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-13'
     code: 638556
     url: /works/638556/
@@ -610,8 +610,15 @@ works:
       My Ex'
     author: hoshina-mimiwo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680971.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-13'
     code: 680971
     url: /works/680971/
+  - title: Kitazawa Shiho no Chikan Hon
+    author: yoshika
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681317.jpg
+    rating: 0.0
+    date: '2026-09-15'
+    code: 681317
+    url: /works/681317/
 ---

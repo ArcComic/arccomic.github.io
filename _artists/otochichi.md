@@ -11,7 +11,7 @@ works:
     url: /works/287208/
   - title: Cooking Pakopako | Cooking Fucka
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681004.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-13'
     code: 681004
     url: /works/681004/

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "netorare"
-work_count: 269
+work_count: 270
 works:
   - title: Hitozuma Hyakka
     author: hase-tsubura
@@ -301,6 +301,13 @@ works:
     date: '2026-04-19'
     code: 460565
     url: /works/460565/
+  - title: Shitsurakuen | Paradise Lost
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/463749.jpg
+    rating: 0.0
+    date: '2026-09-15'
+    code: 463749
+    url: /works/463749/
   - title: Niizuma Joushi wa Buka no Chinpo de Do-M Ochi
     author: chinpan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/464371.jpg
@@ -1974,7 +1981,7 @@ works:
   - title: Ore, Netoraretaindesu!!! Ch. 03-04
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680970.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-13'
     code: 680970
     url: /works/680970/
@@ -1982,7 +1989,7 @@ works:
       My Ex'
     author: hoshina-mimiwo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680971.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-13'
     code: 680971
     url: /works/680971/

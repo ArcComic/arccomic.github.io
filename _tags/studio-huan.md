@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "studio huan"
-work_count: 4
+work_count: 5
 works:
   - title: Iki Jigoku Refle ni Tokeru Otto Tanshinfunin Hitozuma Inmou Ari
     author: kotoyoshi-yumisuke
@@ -31,4 +31,11 @@ works:
     date: '2026-09-11'
     code: 680318
     url: /works/680318/
+  - title: Panpan Travelers Osaka Shuudan Rape Hen
+    author: raidon
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681323.jpg
+    rating: 0.0
+    date: '2026-09-15'
+    code: 681323
+    url: /works/681323/
 ---

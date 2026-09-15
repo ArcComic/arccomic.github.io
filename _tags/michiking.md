@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "michiking"
-work_count: 2
+work_count: 3
 works:
   - title: Succubus Seitokai Shiko Shiko Shikkoubu 3 | Succubus Student Council Milking
       Club 3
@@ -19,4 +19,12 @@ works:
     date: '2026-04-23'
     code: 645520
     url: /works/645520/
+  - title: Succubus Seitokai Shiko Shiko Shikkoubu 4 Zenpen | Succubus Student Council
+      Milking Club Part 4, First Half
+    author: michiking
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681251.jpg
+    rating: 0.0
+    date: '2026-09-15'
+    code: 681251
+    url: /works/681251/
 ---

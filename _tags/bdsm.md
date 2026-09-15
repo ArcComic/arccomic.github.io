@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bdsm"
-work_count: 12
+work_count: 13
 works:
   - title: Boku no Kaa-chan ga Hikikomori Neet Debu Aniki no Seishori Onaho ni Natteita
       Hanashi | My Mother is My Fat Shut-in Older NEET Brother's Sex Relief Onahole
@@ -92,8 +92,16 @@ works:
       Nozonderu~ | My Sadistic Boyfriend Tetsu-kun Wants Me To Tease His Nipples!
     author: ntntgngn
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681023.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-13'
     code: 681023
     url: /works/681023/
+  - title: Succubus Seitokai Shiko Shiko Shikkoubu 4 Zenpen | Succubus Student Council
+      Milking Club Part 4, First Half
+    author: michiking
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681251.jpg
+    rating: 0.0
+    date: '2026-09-15'
+    code: 681251
+    url: /works/681251/
 ---

@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "chikan"
-work_count: 13
+work_count: 15
 works:
+  - title: Kyodou Fushin Joshi
+    author: uds
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/339953.jpg
+    rating: 0.0
+    date: '2026-09-15'
+    code: 339953
+    url: /works/339953/
   - title: IKUu!! Zenkou Seito no Mae de Koukai Zecchou-saserareta JK no Matsuro 1 |
       Cumming in Front of the Entire Student Body 1
     author: ouma
@@ -101,4 +108,11 @@ works:
     date: '2026-09-10'
     code: 679942
     url: /works/679942/
+  - title: Kitazawa Shiho no Chikan Hon
+    author: yoshika
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681317.jpg
+    rating: 0.0
+    date: '2026-09-15'
+    code: 681317
+    url: /works/681317/
 ---

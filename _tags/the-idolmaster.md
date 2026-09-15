@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "the idolmaster"
-work_count: 14
+work_count: 16
 works:
   - title: Another Produce -Kaede Takagaki-
     author: marushin
@@ -62,6 +62,13 @@ works:
     date: '2026-07-16'
     code: 664447
     url: /works/664447/
+  - title: Ofuroba de Mayu to Ecchi na Koto Suru Hon
+    author: garana
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/672580.jpg
+    rating: 0.0
+    date: '2026-09-15'
+    code: 672580
+    url: /works/672580/
   - title: Mayu dake no Mono ni...
     author: tomekichi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/674866.jpg
@@ -106,4 +113,11 @@ works:
     date: '2026-08-29'
     code: 676439
     url: /works/676439/
+  - title: Kitazawa Shiho no Chikan Hon
+    author: yoshika
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681317.jpg
+    rating: 0.0
+    date: '2026-09-15'
+    code: 681317
+    url: /works/681317/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "stockings"
-work_count: 151
+work_count: 152
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -586,7 +586,7 @@ works:
   - title: Eat Meat + Digital Tokusouban Gentei Tokuten - Natsume-san wa Chorosugiru!
     author: ushinomiya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638556.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-13'
     code: 638556
     url: /works/638556/
@@ -753,7 +753,7 @@ works:
       Maidens -Eve Pt.2-'
     author: ushinomiya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/659068.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-13'
     code: 659068
     url: /works/659068/
@@ -1106,10 +1106,17 @@ works:
       a Hostess at Class 2-C's School Festival Boobs Bar
     author: bunapi-397-yen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680997.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-13'
     code: 680997
     url: /works/680997/
+  - title: Himekawa-san no Saimin Kyoushitsu | Himekawa-san's Hypnosis Class
+    author: takei-ooki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681361.jpg
+    rating: 0.0
+    date: '2026-09-15'
+    code: 681361
+    url: /works/681361/
   - title: Jokyoushi - Hot For Teachers | Female Teachers
     author: drill-murata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/81375.jpg

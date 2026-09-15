@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "multiple paizuri"
-work_count: 8
+work_count: 9
 works:
   - title: Mesu Etsu Toiki Nemoto made Fukaku…
     author: drill-murata
@@ -62,4 +62,12 @@ works:
     date: '2026-08-21'
     code: 674639
     url: /works/674639/
+  - title: Succubus Seitokai Shiko Shiko Shikkoubu 4 Zenpen | Succubus Student Council
+      Milking Club Part 4, First Half
+    author: michiking
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681251.jpg
+    rating: 0.0
+    date: '2026-09-15'
+    code: 681251
+    url: /works/681251/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "squirting"
-work_count: 92
+work_count: 93
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -35,7 +35,7 @@ works:
   - title: Hyoui Osen de Yuri Ecchi | Lesbian Sex through Corrupting Possession
     author: siina-yuuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/404458.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-13'
     code: 404458
     url: /works/404458/
@@ -692,4 +692,11 @@ works:
     date: '2026-09-12'
     code: 680771
     url: /works/680771/
+  - title: School Prostitution Journal (Comix) Volume 1
+    author: yamamoto-zenzen
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681329.jpg
+    rating: 0.0
+    date: '2026-09-15'
+    code: 681329
+    url: /works/681329/
 ---

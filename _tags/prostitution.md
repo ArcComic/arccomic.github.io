@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "prostitution"
-work_count: 45
+work_count: 46
 works:
   - title: Yuri no o saifu ni shite agemasu ne, Senpai | I'll turn you into Yuri's wallet,
       Senpai
@@ -314,7 +314,7 @@ works:
       and semen until she turns into a horny female
     author: rikazu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680991.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-13'
     code: 680991
     url: /works/680991/
@@ -322,17 +322,24 @@ works:
       a Hostess at Class 2-C's School Festival Boobs Bar
     author: bunapi-397-yen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680997.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-13'
     code: 680997
     url: /works/680997/
   - title: Refle de Junai Dekimasu ka? - Can you find true love at a massage parlor?
     author: hiyori-mizuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681028.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-13'
     code: 681028
     url: /works/681028/
+  - title: School Prostitution Journal (Comix) Volume 1
+    author: yamamoto-zenzen
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681329.jpg
+    rating: 0.0
+    date: '2026-09-15'
+    code: 681329
+    url: /works/681329/
   - title: Hottokenaino
     author: hara-shigeyuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/77864.jpg
