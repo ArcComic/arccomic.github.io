@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "handjob"
-work_count: 87
+work_count: 88
 works:
   - title: Yuri no o saifu ni shite agemasu ne, Senpai | I'll turn you into Yuri's wallet,
       Senpai
@@ -655,6 +655,14 @@ works:
     date: '2026-09-15'
     code: 681251
     url: /works/681251/
+  - title: '"Ichigun Danshi" Yoshimi-kun, Ganchuu ni Nakatta Onna ni Kuruu | "Top-of-the-Caste"
+      Yoshimi Is Driven Wild by a Woman He Wasn''t Paying Attention to'
+    author: wacoco-waco
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681422.jpg
+    rating: 0.0
+    date: '2026-09-16'
+    code: 681422
+    url: /works/681422/
   - title: Onee-chan no SM Kouza | Onee-chan's S&M Lecture
     author: shinooka-homare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/88750.jpg

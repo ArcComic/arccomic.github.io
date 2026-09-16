@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "kissing"
-work_count: 234
+work_count: 235
 works:
   - title: FLUFFY LAUGH GIRL
     author: shibasaki-syouzi
@@ -1754,4 +1754,12 @@ works:
     date: '2026-09-15'
     code: 681329
     url: /works/681329/
+  - title: '"Ichigun Danshi" Yoshimi-kun, Ganchuu ni Nakatta Onna ni Kuruu | "Top-of-the-Caste"
+      Yoshimi Is Driven Wild by a Woman He Wasn''t Paying Attention to'
+    author: wacoco-waco
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681422.jpg
+    rating: 0.0
+    date: '2026-09-16'
+    code: 681422
+    url: /works/681422/
 ---
