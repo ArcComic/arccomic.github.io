@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "scanmark"
-work_count: 136
+work_count: 141
 works:
   - title: NTR Anniversary + ) [Syukurin] Mitsuha ~Netorare~ (Kimi no Na wa.) [English]
       [Colorized] by Mikaku
@@ -514,6 +514,13 @@ works:
     date: '2026-07-07'
     code: 661951
     url: /works/661951/
+  - title: Netori no Tsuji
+    author: adolescence-maru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/661953.jpg
+    rating: 0.0
+    date: '2026-09-16'
+    code: 661953
+    url: /works/661953/
   - title: Jinin ’Futsuu’ Dekachichi Inkya J◯ no Maso Mesu ga Nagga〜i Chinpo de Shuuryou
       Made♡
     author: amrita
@@ -798,6 +805,13 @@ works:
     date: '2026-08-29'
     code: 676397
     url: /works/676397/
+  - title: Kobito wa Yarisaa no Hime ni Natteimashita
+    author: urano-hikidashi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/676597.jpg
+    rating: 0.0
+    date: '2026-09-16'
+    code: 676597
+    url: /works/676597/
   - title: Sensei Senyou Himitsu no Kokkai
     author: hetaren
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/677234.jpg
@@ -985,4 +999,26 @@ works:
     date: '2026-09-15'
     code: 681323
     url: /works/681323/
+  - title: Shiri de Onna o Miwakeru Ore wa Onna Joushi no Yowami o Nigiru | I, A Guy
+      Who Tells Women Apart By Their Asses, Got Blackmail On My Superior At Work
+    author: eco-heeky
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681445.jpg
+    rating: 0.0
+    date: '2026-09-16'
+    code: 681445
+    url: /works/681445/
+  - title: Cool-chan wa Sensei Gakari
+    author: nekoi-mie
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681465.jpg
+    rating: 0.0
+    date: '2026-09-16'
+    code: 681465
+    url: /works/681465/
+  - title: College Glasses Girl Noriko-chan Vol. 2 - MTL
+    author: arakure
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681466.jpg
+    rating: 0.0
+    date: '2026-09-16'
+    code: 681466
+    url: /works/681466/
 ---

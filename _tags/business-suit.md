@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "business suit"
-work_count: 65
+work_count: 67
 works:
   - title: Kaisha de Iroiro | Gettin' Busy at the Office
     author: hara-shigeyuki
@@ -473,6 +473,21 @@ works:
     date: '2026-08-19'
     code: 668867
     url: /works/668867/
+  - title: Shiri de Onna o Miwakeru Ore wa Onna Joushi no Yowami o Nigiru | I, A Guy
+      Who Tells Women Apart By Their Asses, Got Blackmail On My Superior At Work
+    author: eco-heeky
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681445.jpg
+    rating: 0.0
+    date: '2026-09-16'
+    code: 681445
+    url: /works/681445/
+  - title: Motokano-tachi to Ya Re Naoshi!? - CHAPTER 1-9
+    author: shinonome-ryu-ogiue-chihiro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681503.jpg
+    rating: 0.0
+    date: '2026-09-16'
+    code: 681503
+    url: /works/681503/
   - title: Hottokenaino
     author: hara-shigeyuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/77864.jpg

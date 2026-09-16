@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "armpit licking"
-work_count: 11
+work_count: 12
 works:
   - title: Homestay-chu no Doitsu Musume ga Issho ni Furo ni Haitte Kuru Wake | The
       Reason Why a German Girl Takes a Bath Together With Me on Her Homestay
@@ -84,4 +84,11 @@ works:
     date: '2026-08-21'
     code: 674639
     url: /works/674639/
+  - title: Everyone's Kissing Club - Chapter 1-30
+    author: nou-shun
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681498.jpg
+    rating: 0.0
+    date: '2026-09-16'
+    code: 681498
+    url: /works/681498/
 ---

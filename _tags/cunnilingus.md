@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "cunnilingus"
-work_count: 117
+work_count: 118
 works:
   - title: Love Approach
     author: hanafuda-sakurano
@@ -870,4 +870,11 @@ works:
     date: '2026-09-16'
     code: 681422
     url: /works/681422/
+  - title: Soredemo Ashita mo Kareshi ga ii - Chapter 1-17
+    author: miike-kei
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681496.jpg
+    rating: 0.0
+    date: '2026-09-16'
+    code: 681496
+    url: /works/681496/
 ---

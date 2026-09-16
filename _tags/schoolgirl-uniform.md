@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "schoolgirl uniform"
-work_count: 220
+work_count: 223
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -1180,6 +1180,13 @@ works:
     date: '2026-07-07'
     code: 661951
     url: /works/661951/
+  - title: Netori no Tsuji
+    author: adolescence-maru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/661953.jpg
+    rating: 0.0
+    date: '2026-09-16'
+    code: 661953
+    url: /works/661953/
   - title: Jinin ’Futsuu’ Dekachichi Inkya J◯ no Maso Mesu ga Nagga〜i Chinpo de Shuuryou
       Made♡
     author: amrita
@@ -1637,4 +1644,18 @@ works:
     date: '2026-09-15'
     code: 681361
     url: /works/681361/
+  - title: Cool-chan wa Sensei Gakari
+    author: nekoi-mie
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681465.jpg
+    rating: 0.0
+    date: '2026-09-16'
+    code: 681465
+    url: /works/681465/
+  - title: Everyone's Kissing Club - Chapter 1-30
+    author: nou-shun
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681498.jpg
+    rating: 0.0
+    date: '2026-09-16'
+    code: 681498
+    url: /works/681498/
 ---

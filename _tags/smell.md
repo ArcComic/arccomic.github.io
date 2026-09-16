@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "smell"
-work_count: 14
+work_count: 15
 works:
   - title: Natsu Jiru Ch. 1-2
     author: sena-youtarou
@@ -107,4 +107,11 @@ works:
     date: '2026-07-16'
     code: 664853
     url: /works/664853/
+  - title: Misao no Keiyaku - CHAPTER 1-12
+    author: yamanouchi-yuu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681510.jpg
+    rating: 0.0
+    date: '2026-09-16'
+    code: 681510
+    url: /works/681510/
 ---

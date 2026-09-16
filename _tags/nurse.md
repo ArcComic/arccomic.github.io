@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "nurse"
-work_count: 10
+work_count: 11
 works:
   - title: Kanojo wa Boku no Taieki de Ugoiteiru Phase. 05 [English] =NSS=
     author: nagareboshi
@@ -71,6 +71,13 @@ works:
     date: '2026-08-28'
     code: 676149
     url: /works/676149/
+  - title: Misao no Keiyaku - CHAPTER 1-12
+    author: yamanouchi-yuu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681510.jpg
+    rating: 0.0
+    date: '2026-09-16'
+    code: 681510
+    url: /works/681510/
   - title: Jokyoushi - Hot For Teachers | Female Teachers
     author: drill-murata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/81375.jpg

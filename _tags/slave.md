@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "slave"
-work_count: 7
+work_count: 8
 works:
   - title: Tonight, my wife is being exposed and...
     author: mon-mon
@@ -55,4 +55,11 @@ works:
     date: '2026-07-06'
     code: 661586
     url: /works/661586/
+  - title: Misao no Keiyaku - CHAPTER 1-12
+    author: yamanouchi-yuu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681510.jpg
+    rating: 0.0
+    date: '2026-09-16'
+    code: 681510
+    url: /works/681510/
 ---

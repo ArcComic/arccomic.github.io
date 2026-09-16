@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "kissing"
-work_count: 235
+work_count: 238
 works:
   - title: FLUFFY LAUGH GIRL
     author: shibasaki-syouzi
@@ -1762,4 +1762,26 @@ works:
     date: '2026-09-16'
     code: 681422
     url: /works/681422/
+  - title: Shiri de Onna o Miwakeru Ore wa Onna Joushi no Yowami o Nigiru | I, A Guy
+      Who Tells Women Apart By Their Asses, Got Blackmail On My Superior At Work
+    author: eco-heeky
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681445.jpg
+    rating: 0.0
+    date: '2026-09-16'
+    code: 681445
+    url: /works/681445/
+  - title: Soredemo Ashita mo Kareshi ga ii - Chapter 1-17
+    author: miike-kei
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681496.jpg
+    rating: 0.0
+    date: '2026-09-16'
+    code: 681496
+    url: /works/681496/
+  - title: Everyone's Kissing Club - Chapter 1-30
+    author: nou-shun
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681498.jpg
+    rating: 0.0
+    date: '2026-09-16'
+    code: 681498
+    url: /works/681498/
 ---

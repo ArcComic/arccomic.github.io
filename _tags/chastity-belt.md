@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "chastity belt"
-work_count: 4
+work_count: 5
 works:
   - title: Doushia (Terasu MC)] Dorei Gazoku
     author: terasu-mc
@@ -31,4 +31,11 @@ works:
     date: '2026-08-28'
     code: 676193
     url: /works/676193/
+  - title: Misao no Keiyaku - CHAPTER 1-12
+    author: yamanouchi-yuu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681510.jpg
+    rating: 0.0
+    date: '2026-09-16'
+    code: 681510
+    url: /works/681510/
 ---

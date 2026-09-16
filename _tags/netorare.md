@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "netorare"
-work_count: 271
+work_count: 274
 works:
   - title: Hitozuma Hyakka
     author: hase-tsubura
@@ -1828,6 +1828,13 @@ works:
     date: '2026-08-29'
     code: 676320
     url: /works/676320/
+  - title: Kobito wa Yarisaa no Hime ni Natteimashita
+    author: urano-hikidashi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/676597.jpg
+    rating: 0.0
+    date: '2026-09-16'
+    code: 676597
+    url: /works/676597/
   - title: 'Drowing in LUST: I Was Drugged By My Shameless Junior | Indeki ~Hikyou na
       Kouhai ni Oboresaserareta Watashi~'
     author: mittsuman
@@ -2000,6 +2007,20 @@ works:
     date: '2026-09-15'
     code: 681269
     url: /works/681269/
+  - title: Soredemo Ashita mo Kareshi ga ii - Chapter 1-17
+    author: miike-kei
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681496.jpg
+    rating: 0.0
+    date: '2026-09-16'
+    code: 681496
+    url: /works/681496/
+  - title: Everyone's Kissing Club - Chapter 1-30
+    author: nou-shun
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681498.jpg
+    rating: 0.0
+    date: '2026-09-16'
+    code: 681498
+    url: /works/681498/
   - title: Inin Keiyaku | Lewd Pregnancy Contract
     author: yoshiura-kazuya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/83595.jpg

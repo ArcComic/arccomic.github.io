@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "story arc"
-work_count: 139
+work_count: 143
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -1023,6 +1023,34 @@ works:
     date: '2026-09-15'
     code: 681329
     url: /works/681329/
+  - title: Soredemo Ashita mo Kareshi ga ii - Chapter 1-17
+    author: miike-kei
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681496.jpg
+    rating: 0.0
+    date: '2026-09-16'
+    code: 681496
+    url: /works/681496/
+  - title: Everyone's Kissing Club - Chapter 1-30
+    author: nou-shun
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681498.jpg
+    rating: 0.0
+    date: '2026-09-16'
+    code: 681498
+    url: /works/681498/
+  - title: Motokano-tachi to Ya Re Naoshi!? - CHAPTER 1-9
+    author: shinonome-ryu-ogiue-chihiro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681503.jpg
+    rating: 0.0
+    date: '2026-09-16'
+    code: 681503
+    url: /works/681503/
+  - title: Misao no Keiyaku - CHAPTER 1-12
+    author: yamanouchi-yuu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681510.jpg
+    rating: 0.0
+    date: '2026-09-16'
+    code: 681510
+    url: /works/681510/
   - title: Hottokenaino
     author: hara-shigeyuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/77864.jpg

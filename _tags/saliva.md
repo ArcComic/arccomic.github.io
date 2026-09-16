@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "saliva"
-work_count: 6
+work_count: 7
 works:
   - title: Boku to Aitsu to Ano Ko to Kanojo. - Me, Him, the Girl and Her
     author: kameyama-cola
@@ -45,4 +45,11 @@ works:
     date: '2026-07-13'
     code: 663672
     url: /works/663672/
+  - title: Misao no Keiyaku - CHAPTER 1-12
+    author: yamanouchi-yuu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681510.jpg
+    rating: 0.0
+    date: '2026-09-16'
+    code: 681510
+    url: /works/681510/
 ---

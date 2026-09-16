@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "ffm threesome"
-work_count: 87
+work_count: 88
 works:
   - title: Hustle! Danchizuma Ch. 1-18 END
     author: hidemaru
@@ -652,4 +652,11 @@ works:
     date: '2026-09-15'
     code: 681251
     url: /works/681251/
+  - title: Everyone's Kissing Club - Chapter 1-30
+    author: nou-shun
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681498.jpg
+    rating: 0.0
+    date: '2026-09-16'
+    code: 681498
+    url: /works/681498/
 ---

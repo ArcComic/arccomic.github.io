@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "twintails"
-work_count: 88
+work_count: 91
 works:
   - title: Sensei wa Shougakusei ga Suki | Sensei Loves Elementary Schoolers
     author: fuyuno-mikan
@@ -655,4 +655,26 @@ works:
     date: '2026-09-13'
     code: 681028
     url: /works/681028/
+  - title: '108P! ~1-nengo ni Zettai 108P Suru Hanashi~ (108P!: A Promise to 108P in
+      a Year) 10'
+    author: en
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681463.jpg
+    rating: 0.0
+    date: '2026-09-16'
+    code: 681463
+    url: /works/681463/
+  - title: Everyone's Kissing Club - Chapter 1-30
+    author: nou-shun
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681498.jpg
+    rating: 0.0
+    date: '2026-09-16'
+    code: 681498
+    url: /works/681498/
+  - title: Misao no Keiyaku - CHAPTER 1-12
+    author: yamanouchi-yuu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681510.jpg
+    rating: 0.0
+    date: '2026-09-16'
+    code: 681510
+    url: /works/681510/
 ---

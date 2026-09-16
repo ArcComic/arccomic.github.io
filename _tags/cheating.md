@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "cheating"
-work_count: 241
+work_count: 244
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -1635,6 +1635,13 @@ works:
     date: '2026-08-29'
     code: 676320
     url: /works/676320/
+  - title: Kobito wa Yarisaa no Hime ni Natteimashita
+    author: urano-hikidashi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/676597.jpg
+    rating: 0.0
+    date: '2026-09-16'
+    code: 676597
+    url: /works/676597/
   - title: Irodori Kazoku
     author: sugi-g
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/676658.jpg
@@ -1770,6 +1777,20 @@ works:
     date: '2026-09-15'
     code: 681361
     url: /works/681361/
+  - title: Everyone's Kissing Club - Chapter 1-30
+    author: nou-shun
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681498.jpg
+    rating: 0.0
+    date: '2026-09-16'
+    code: 681498
+    url: /works/681498/
+  - title: Misao no Keiyaku - CHAPTER 1-12
+    author: yamanouchi-yuu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681510.jpg
+    rating: 0.0
+    date: '2026-09-16'
+    code: 681510
+    url: /works/681510/
   - title: Jokyoushi - Hot For Teachers | Female Teachers
     author: drill-murata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/81375.jpg

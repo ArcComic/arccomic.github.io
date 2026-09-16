@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "blowjob"
-work_count: 432
+work_count: 436
 works:
   - title: Office Love Scramble Ch. 1
     author: tohzai
@@ -2417,6 +2417,13 @@ works:
     date: '2026-07-07'
     code: 661951
     url: /works/661951/
+  - title: Netori no Tsuji
+    author: adolescence-maru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/661953.jpg
+    rating: 0.0
+    date: '2026-09-16'
+    code: 661953
+    url: /works/661953/
   - title: Jinin ’Futsuu’ Dekachichi Inkya J◯ no Maso Mesu ga Nagga〜i Chinpo de Shuuryou
       Made♡
     author: amrita
@@ -3203,6 +3210,27 @@ works:
     date: '2026-09-16'
     code: 681422
     url: /works/681422/
+  - title: Soredemo Ashita mo Kareshi ga ii - Chapter 1-17
+    author: miike-kei
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681496.jpg
+    rating: 0.0
+    date: '2026-09-16'
+    code: 681496
+    url: /works/681496/
+  - title: Everyone's Kissing Club - Chapter 1-30
+    author: nou-shun
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681498.jpg
+    rating: 0.0
+    date: '2026-09-16'
+    code: 681498
+    url: /works/681498/
+  - title: Motokano-tachi to Ya Re Naoshi!? - CHAPTER 1-9
+    author: shinonome-ryu-ogiue-chihiro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681503.jpg
+    rating: 0.0
+    date: '2026-09-16'
+    code: 681503
+    url: /works/681503/
   - title: Jokyoushi - Hot For Teachers | Female Teachers
     author: drill-murata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/81375.jpg

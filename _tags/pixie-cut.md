@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "pixie cut"
-work_count: 53
+work_count: 56
 works:
   - title: Harinezumi no Dilemma ① | A Hedgehog's Dilemma, Part 1
     author: maeda-momo
@@ -348,6 +348,13 @@ works:
     date: '2026-08-29'
     code: 676425
     url: /works/676425/
+  - title: Kobito wa Yarisaa no Hime ni Natteimashita
+    author: urano-hikidashi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/676597.jpg
+    rating: 0.0
+    date: '2026-09-16'
+    code: 676597
+    url: /works/676597/
   - title: My Girlfriend Was Stolen by a Cool Girl Who Dresses Like a Guy, So I Taught
       Her a Lesson 3
     author: kurukuru
@@ -395,4 +402,18 @@ works:
     date: '2026-09-15'
     code: 681329
     url: /works/681329/
+  - title: Cool-chan wa Sensei Gakari
+    author: nekoi-mie
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681465.jpg
+    rating: 0.0
+    date: '2026-09-16'
+    code: 681465
+    url: /works/681465/
+  - title: College Glasses Girl Noriko-chan Vol. 2 - MTL
+    author: arakure
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681466.jpg
+    rating: 0.0
+    date: '2026-09-16'
+    code: 681466
+    url: /works/681466/
 ---
