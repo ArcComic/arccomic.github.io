@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "kemonomimi"
-work_count: 21
+work_count: 23
 works:
   - title: CHOCO x LOVE
     author: highlow
@@ -158,4 +158,18 @@ works:
     date: '2026-09-10'
     code: 679992
     url: /works/679992/
+  - title: LOVE Summer
+    author: lander0808
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681683.jpg
+    rating: 4.4
+    date: '2026-09-17'
+    code: 681683
+    url: /works/681683/
+  - title: Mejiro Ardan NTR
+    author: yasaka
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681759.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 681759
+    url: /works/681759/
 ---

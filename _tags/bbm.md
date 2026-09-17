@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bbm"
-work_count: 70
+work_count: 71
 works:
   - title: Kindan no Hatemitsu
     author: ryuuta
@@ -97,6 +97,13 @@ works:
     date: '2026-09-09'
     code: 507591
     url: /works/507591/
+  - title: A tale of an Elf adventurer (♀) being visited at night and bred by an innkeeper
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/526619.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 526619
+    url: /works/526619/
   - title: Tsuma wa NTR reta gatte iru. 5
     author: jill
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/531759.jpg

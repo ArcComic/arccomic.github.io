@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "scanmark"
-work_count: 141
+work_count: 144
 works:
   - title: NTR Anniversary + ) [Syukurin] Mitsuha ~Netorare~ (Kimi no Na wa.) [English]
       [Colorized] by Mikaku
@@ -471,6 +471,13 @@ works:
     date: '2026-08-24'
     code: 657981
     url: /works/657981/
+  - title: Ie no Naka de Tachinbo suru Ane to Sore o Kau Otouto
+    author: choco-hell
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/658748.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 658748
+    url: /works/658748/
   - title: Mama ga Inemuri shi tetanode
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/659164.jpg
@@ -517,7 +524,7 @@ works:
   - title: Netori no Tsuji
     author: adolescence-maru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/661953.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-16'
     code: 661953
     url: /works/661953/
@@ -637,6 +644,13 @@ works:
     date: '2026-08-20'
     code: 669452
     url: /works/669452/
+  - title: JK no Imouto no Furo Nozoki mashita - Hentai Aniki × Imouto
+    author: iron-sugar
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/670708.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 670708
+    url: /works/670708/
   - title: Mama no, Sono Eroi Karada ga Ikenainda 1-2
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/672310.jpg
@@ -808,7 +822,7 @@ works:
   - title: Kobito wa Yarisaa no Hime ni Natteimashita
     author: urano-hikidashi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/676597.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-16'
     code: 676597
     url: /works/676597/
@@ -1003,22 +1017,29 @@ works:
       Who Tells Women Apart By Their Asses, Got Blackmail On My Superior At Work
     author: eco-heeky
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681445.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-16'
     code: 681445
     url: /works/681445/
   - title: Cool-chan wa Sensei Gakari
     author: nekoi-mie
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681465.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-16'
     code: 681465
     url: /works/681465/
   - title: College Glasses Girl Noriko-chan Vol. 2 - MTL
     author: arakure
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681466.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-09-16'
     code: 681466
     url: /works/681466/
+  - title: Otouto no Game-nou to Ane no Game-sei
+    author: choco-hell
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681655.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 681655
+    url: /works/681655/
 ---

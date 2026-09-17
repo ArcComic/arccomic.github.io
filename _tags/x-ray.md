@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "x-ray"
-work_count: 208
+work_count: 210
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -717,6 +717,13 @@ works:
     date: '2026-09-13'
     code: 641977
     url: /works/641977/
+  - title: Phaethon no Kinsaku AV Satsuei | Phaethons' Cash Grab AV Shoot
+    author: sukoyakagumi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642563.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 642563
+    url: /works/642563/
   - title: Imouto Haramasenai to Derarenai Shima 2
     author: airandou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/643375.jpg
@@ -1557,8 +1564,16 @@ works:
       Who Tells Women Apart By Their Asses, Got Blackmail On My Superior At Work
     author: eco-heeky
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681445.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-16'
     code: 681445
     url: /works/681445/
+  - title: Imouto wa Otonappoitte Iwaretairashii | My Little Sister Wants to Be Told
+      That She's Grown-Up It Seems
+    author: yabachorogi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681687.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 681687
+    url: /works/681687/
 ---

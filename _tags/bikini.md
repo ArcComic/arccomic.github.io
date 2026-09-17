@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bikini"
-work_count: 55
+work_count: 56
 works:
   - title: Kizashi
     author: yoshiura-kazuya
@@ -427,4 +427,12 @@ works:
     date: '2026-09-13'
     code: 680991
     url: /works/680991/
+  - title: Tachibana-san-chi no Dansei Jijou 2 | The Tachibana Household's Male Affairs
+      2
+    author: jin
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681720.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 681720
+    url: /works/681720/
 ---

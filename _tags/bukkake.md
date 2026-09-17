@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bukkake"
-work_count: 24
+work_count: 25
 works:
   - title: Little Blue Bird
     author: kidouchi-kon
@@ -179,4 +179,11 @@ works:
     date: '2026-09-08'
     code: 679504
     url: /works/679504/
+  - title: Seifuku Fella Zanmai Vol. 2
+    author: uniman
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681699.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 681699
+    url: /works/681699/
 ---

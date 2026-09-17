@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "tail plug"
-work_count: 7
+work_count: 8
 works:
   - title: Eat Meat + Digital Tokusouban Gentei Tokuten - Natsume-san wa Chorosugiru!
     author: ushinomiya
@@ -54,4 +54,11 @@ works:
     date: '2026-07-16'
     code: 664460
     url: /works/664460/
+  - title: LOVE Summer
+    author: lander0808
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681683.jpg
+    rating: 4.4
+    date: '2026-09-17'
+    code: 681683
+    url: /works/681683/
 ---

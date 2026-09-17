@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "filming"
-work_count: 65
+work_count: 66
 works:
   - title: Netorare Ibe Kiba Shizuka | The Netorare of Kiba Shizuka
     author: terasu-mc
@@ -212,6 +212,13 @@ works:
     date: '2026-03-05'
     code: 634178
     url: /works/634178/
+  - title: Phaethon no Kinsaku AV Satsuei | Phaethons' Cash Grab AV Shoot
+    author: sukoyakagumi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642563.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 642563
+    url: /works/642563/
   - title: Akogare no Hito wa Mou Owari!
     author: orange-mimosa
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642584.jpg

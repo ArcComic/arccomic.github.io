@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "twintails"
-work_count: 91
+work_count: 92
 works:
   - title: Sensei wa Shougakusei ga Suki | Sensei Loves Elementary Schoolers
     author: fuyuno-mikan
@@ -659,22 +659,29 @@ works:
       a Year) 10'
     author: en
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681463.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-16'
     code: 681463
     url: /works/681463/
   - title: Everyone's Kissing Club - Chapter 1-30
     author: nou-shun
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681498.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-16'
     code: 681498
     url: /works/681498/
   - title: Misao no Keiyaku - CHAPTER 1-12
     author: yamanouchi-yuu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681510.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-16'
     code: 681510
     url: /works/681510/
+  - title: Shinchou-sa Max Fuufu | Extreme Jeight Gap Jouple
+    author: airandou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681700.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 681700
+    url: /works/681700/
 ---

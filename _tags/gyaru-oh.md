@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "gyaru-oh"
-work_count: 19
+work_count: 21
 works:
   - title: Netorare Ibe Kiba Shizuka
     author: terasu-mc
@@ -32,6 +32,13 @@ works:
     date: '2026-07-16'
     code: 434993
     url: /works/434993/
+  - title: BariCare Kaa-san ga DQN ni Netorareta Vol.1
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/470682.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 470682
+    url: /works/470682/
   - title: Little Blue Bird
     author: kidouchi-kon
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/508534.jpg
@@ -141,4 +148,12 @@ works:
     date: '2026-09-12'
     code: 680591
     url: /works/680591/
+  - title: Tachibana-san-chi no Dansei Jijou 2 | The Tachibana Household's Male Affairs
+      2
+    author: jin
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681720.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 681720
+    url: /works/681720/
 ---

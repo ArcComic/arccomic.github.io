@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "fingering"
-work_count: 119
+work_count: 122
 works:
   - title: Watashi-tachi no Seikoui Tokubetsu Jisshuu -Zengi Hen-
     author: guglielmo
@@ -17,6 +17,14 @@ works:
     date: '2026-08-21'
     code: 387365
     url: /works/387365/
+  - title: Namaiki na Imouto ga Ore no SeFri ni Natta Keii | How My Cheeky Little Sister
+      and I Became Sex Friends With Benefits
+    author: iron-sugar
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/404719.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 404719
+    url: /works/404719/
   - title: Seisozuma Netorase...
     author: maccha-neji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/415906.jpg
@@ -52,6 +60,13 @@ works:
     date: '2026-04-19'
     code: 465602
     url: /works/465602/
+  - title: BariCare Kaa-san ga DQN ni Netorareta Vol.1
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/470682.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 470682
+    url: /works/470682/
   - title: Hiyoko-san wa Sewazuki | Hiyoko is a Busybody
     author: maeda-momo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/480065.jpg
@@ -886,8 +901,16 @@ works:
   - title: Soredemo Ashita mo Kareshi ga ii - Chapter 1-17
     author: miike-kei
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681496.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-16'
     code: 681496
     url: /works/681496/
+  - title: Imouto wa Otonappoitte Iwaretairashii | My Little Sister Wants to Be Told
+      That She's Grown-Up It Seems
+    author: yabachorogi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681687.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 681687
+    url: /works/681687/
 ---

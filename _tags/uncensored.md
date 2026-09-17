@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "uncensored"
-work_count: 87
+work_count: 88
 works:
   - title: Netemo Sametemo | Be it Sleeping or Awake
     author: takasugi-kou
@@ -365,6 +365,13 @@ works:
     date: '2026-03-07'
     code: 634593
     url: /works/634593/
+  - title: Phaethon no Kinsaku AV Satsuei | Phaethons' Cash Grab AV Shoot
+    author: sukoyakagumi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642563.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 642563
+    url: /works/642563/
   - title: The Story Of How I Peeked On A Cheeky Elementary Schooler Brat Masturbating
       And Ended Up Having Sweet Sex | Namaiki Kusogaki js no Onanie Nozoitara Amaama
       Sex Dekita Hanashi

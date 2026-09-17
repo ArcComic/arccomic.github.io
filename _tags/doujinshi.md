@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "doujinshi"
-work_count: 894
+work_count: 910
 works:
   - title: Another Produce -Kaede Takagaki-
     author: marushin
@@ -175,6 +175,14 @@ works:
     date: '2026-08-24'
     code: 342639
     url: /works/342639/
+  - title: Homestay-chu no Doitsu Musume ga Issho ni Furo ni Haitte Kuru Wake | The
+      Reason Why a German Girl Takes a Bath Together With Me on Her Homestay
+    author: gentsuki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/344322.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 344322
+    url: /works/344322/
   - title: Homestay-chu no Doitsu Musume ga Issho ni Furo ni Haitte Kuru Wake | The
       Reason Why a German Girl Takes a Bath Together With Me on Her Homestay
     author: gentsuki
@@ -372,6 +380,14 @@ works:
     date: '2026-09-13'
     code: 404458
     url: /works/404458/
+  - title: Namaiki na Imouto ga Ore no SeFri ni Natta Keii | How My Cheeky Little Sister
+      and I Became Sex Friends With Benefits
+    author: iron-sugar
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/404719.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 404719
+    url: /works/404719/
   - title: Natsuyasumi~Boku to oneechan no inaka de hatsutaiken~ |Summer Vacation~My
       first time with Oneechan in the countryside
     author: survival-knife
@@ -729,6 +745,13 @@ works:
     date: '2026-04-15'
     code: 470025
     url: /works/470025/
+  - title: BariCare Kaa-san ga DQN ni Netorareta Vol.1
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/470682.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 470682
+    url: /works/470682/
   - title: Sekai ga Heiwa ni Natta node Yuusha (Jitsu wa ♀) ni Kyuukon Shita Kekka |
       Marriage Proposal to the Hero (Actually ♀) When the World Is at Peace
     author: natsuo-tsunao
@@ -899,6 +922,13 @@ works:
     date: '2026-05-03'
     code: 498051
     url: /works/498051/
+  - title: Aqua Wing ~The man who switched bodies with an idol~
+    author: touchuu-kasou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/498908.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 498908
+    url: /works/498908/
   - title: Tan to Tan | Unique and Us
     author: mushihara
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/499536.jpg
@@ -1178,6 +1208,13 @@ works:
     date: '2026-09-12'
     code: 526368
     url: /works/526368/
+  - title: A tale of an Elf adventurer (♀) being visited at night and bred by an innkeeper
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/526619.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 526619
+    url: /works/526619/
   - title: This Woman’s Body Tells Lies
     author: ichihara-kazuma
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/527621.jpg
@@ -3101,6 +3138,13 @@ works:
     date: '2026-09-05'
     code: 642023
     url: /works/642023/
+  - title: Phaethon no Kinsaku AV Satsuei | Phaethons' Cash Grab AV Shoot
+    author: sukoyakagumi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642563.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 642563
+    url: /works/642563/
   - title: Akogare no Hito wa Mou Owari!
     author: orange-mimosa
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642584.jpg
@@ -4404,6 +4448,13 @@ works:
     date: '2026-09-12'
     code: 658633
     url: /works/658633/
+  - title: Ie no Naka de Tachinbo suru Ane to Sore o Kau Otouto
+    author: choco-hell
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/658748.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 658748
+    url: /works/658748/
   - title: Okaasan nara Daijyoubu Da Kara
     author: daidai-shikibu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/658826.jpg
@@ -4576,7 +4627,7 @@ works:
   - title: Netori no Tsuji
     author: adolescence-maru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/661953.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-16'
     code: 661953
     url: /works/661953/
@@ -5222,6 +5273,13 @@ works:
     date: '2026-09-12'
     code: 670195
     url: /works/670195/
+  - title: JK no Imouto no Furo Nozoki mashita - Hentai Aniki × Imouto
+    author: iron-sugar
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/670708.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 670708
+    url: /works/670708/
   - title: Friend With Benefit With My Friends Mom
     author: cammy
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/671657.jpg
@@ -5820,7 +5878,7 @@ works:
   - title: Kobito wa Yarisaa no Hime ni Natteimashita
     author: urano-hikidashi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/676597.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-16'
     code: 676597
     url: /works/676597/
@@ -6588,22 +6646,80 @@ works:
       Yoshimi Is Driven Wild by a Woman He Wasn''t Paying Attention to'
     author: wacoco-waco
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681422.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-09-16'
     code: 681422
     url: /works/681422/
   - title: Cool-chan wa Sensei Gakari
     author: nekoi-mie
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681465.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-16'
     code: 681465
     url: /works/681465/
   - title: College Glasses Girl Noriko-chan Vol. 2 - MTL
     author: arakure
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681466.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-09-16'
     code: 681466
     url: /works/681466/
+  - title: Otouto no Game-nou to Ane no Game-sei
+    author: choco-hell
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681655.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 681655
+    url: /works/681655/
+  - title: LOVE Summer
+    author: lander0808
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681683.jpg
+    rating: 4.4
+    date: '2026-09-17'
+    code: 681683
+    url: /works/681683/
+  - title: Imouto wa Otonappoitte Iwaretairashii | My Little Sister Wants to Be Told
+      That She's Grown-Up It Seems
+    author: yabachorogi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681687.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 681687
+    url: /works/681687/
+  - title: Seifuku Fella Zanmai Vol. 2
+    author: uniman
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681699.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 681699
+    url: /works/681699/
+  - title: Shinchou-sa Max Fuufu | Extreme Jeight Gap Jouple
+    author: airandou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681700.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 681700
+    url: /works/681700/
+  - title: Tachibana-san-chi no Dansei Jijou 2 | The Tachibana Household's Male Affairs
+      2
+    author: jin
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681720.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 681720
+    url: /works/681720/
+  - title: Under Maternal Love 1-18
+    author: midnight
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681724.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 681724
+    url: /works/681724/
+  - title: Mejiro Ardan NTR
+    author: yasaka
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681759.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 681759
+    url: /works/681759/
 ---

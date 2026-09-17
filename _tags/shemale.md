@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "shemale"
-work_count: 7
+work_count: 8
 works:
   - title: Pirin The Prostitute
     author: arukaniko
@@ -54,4 +54,11 @@ works:
     date: '2026-09-10'
     code: 679961
     url: /works/679961/
+  - title: Under Maternal Love 1-18
+    author: midnight
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681724.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 681724
+    url: /works/681724/
 ---

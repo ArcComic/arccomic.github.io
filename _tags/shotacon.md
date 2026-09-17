@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "shotacon"
-work_count: 93
+work_count: 94
 works:
   - title: Hitozuma Hyakka
     author: hase-tsubura
@@ -676,6 +676,13 @@ works:
     date: '2026-09-15'
     code: 681308
     url: /works/681308/
+  - title: Otouto no Game-nou to Ane no Game-sei
+    author: choco-hell
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681655.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 681655
+    url: /works/681655/
   - title: Jokyoushi - Hot For Teachers | Female Teachers
     author: drill-murata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/81375.jpg

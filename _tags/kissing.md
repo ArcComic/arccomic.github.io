@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "kissing"
-work_count: 238
+work_count: 241
 works:
   - title: FLUFFY LAUGH GIRL
     author: shibasaki-syouzi
@@ -17,6 +17,14 @@ works:
     date: '2026-04-12'
     code: 328805
     url: /works/328805/
+  - title: Homestay-chu no Doitsu Musume ga Issho ni Furo ni Haitte Kuru Wake | The
+      Reason Why a German Girl Takes a Bath Together With Me on Her Homestay
+    author: gentsuki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/344322.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 344322
+    url: /works/344322/
   - title: Kurata Akiko no Kokuhaku 2 - Confession of Akiko kurata Epsode 2
     author: ootsuka-mahiro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/369382.jpg
@@ -67,6 +75,14 @@ works:
     date: '2026-07-10'
     code: 398305
     url: /works/398305/
+  - title: Namaiki na Imouto ga Ore no SeFri ni Natta Keii | How My Cheeky Little Sister
+      and I Became Sex Friends With Benefits
+    author: iron-sugar
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/404719.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 404719
+    url: /works/404719/
   - title: Rakki Taishyaku
     author: fushoku
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/407561.jpg
@@ -1758,7 +1774,7 @@ works:
       Yoshimi Is Driven Wild by a Woman He Wasn''t Paying Attention to'
     author: wacoco-waco
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681422.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-09-16'
     code: 681422
     url: /works/681422/
@@ -1766,22 +1782,30 @@ works:
       Who Tells Women Apart By Their Asses, Got Blackmail On My Superior At Work
     author: eco-heeky
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681445.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-16'
     code: 681445
     url: /works/681445/
   - title: Soredemo Ashita mo Kareshi ga ii - Chapter 1-17
     author: miike-kei
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681496.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-16'
     code: 681496
     url: /works/681496/
   - title: Everyone's Kissing Club - Chapter 1-30
     author: nou-shun
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681498.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-16'
     code: 681498
     url: /works/681498/
+  - title: Imouto wa Otonappoitte Iwaretairashii | My Little Sister Wants to Be Told
+      That She's Grown-Up It Seems
+    author: yabachorogi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681687.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 681687
+    url: /works/681687/
 ---

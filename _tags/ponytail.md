@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "ponytail"
-work_count: 117
+work_count: 119
 works:
   - title: Hikki Mother Fucker
     author: otochichi
@@ -863,8 +863,22 @@ works:
   - title: Everyone's Kissing Club - Chapter 1-30
     author: nou-shun
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681498.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-16'
     code: 681498
     url: /works/681498/
+  - title: Otouto no Game-nou to Ane no Game-sei
+    author: choco-hell
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681655.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 681655
+    url: /works/681655/
+  - title: My Neighbor Is Too Loud!
+    author: mojarin
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681672.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 681672
+    url: /works/681672/
 ---

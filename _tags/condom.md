@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "condom"
-work_count: 151
+work_count: 154
 works:
   - title: Kaisha de Iroiro | Gettin' Busy at the Office
     author: hara-shigeyuki
@@ -271,6 +271,13 @@ works:
     date: '2026-04-15'
     code: 470025
     url: /works/470025/
+  - title: BariCare Kaa-san ga DQN ni Netorareta Vol.1
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/470682.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 470682
+    url: /works/470682/
   - title: Hiyoko-san wa Sewazuki | Hiyoko is a Busybody
     author: maeda-momo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/480065.jpg
@@ -1109,8 +1116,23 @@ works:
   - title: Cool-chan wa Sensei Gakari
     author: nekoi-mie
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681465.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-16'
     code: 681465
     url: /works/681465/
+  - title: Otouto no Game-nou to Ane no Game-sei
+    author: choco-hell
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681655.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 681655
+    url: /works/681655/
+  - title: Imouto wa Otonappoitte Iwaretairashii | My Little Sister Wants to Be Told
+      That She's Grown-Up It Seems
+    author: yabachorogi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681687.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 681687
+    url: /works/681687/
 ---

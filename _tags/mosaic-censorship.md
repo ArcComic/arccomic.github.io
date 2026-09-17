@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "mosaic censorship"
-work_count: 221
+work_count: 227
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -163,6 +163,14 @@ works:
     date: '2026-09-13'
     code: 404458
     url: /works/404458/
+  - title: Namaiki na Imouto ga Ore no SeFri ni Natta Keii | How My Cheeky Little Sister
+      and I Became Sex Friends With Benefits
+    author: iron-sugar
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/404719.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 404719
+    url: /works/404719/
   - title: Rakki Taishyaku
     author: fushoku
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/407561.jpg
@@ -274,6 +282,13 @@ works:
     date: '2026-04-19'
     code: 465602
     url: /works/465602/
+  - title: BariCare Kaa-san ga DQN ni Netorareta Vol.1
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/470682.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 470682
+    url: /works/470682/
   - title: Kakine Tsuma II Daiichiwa | Wife on the Fence II - Chapter 1
     author: ntr-system
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/471387.jpg
@@ -448,6 +463,13 @@ works:
     date: '2026-04-23'
     code: 526024
     url: /works/526024/
+  - title: A tale of an Elf adventurer (♀) being visited at night and bred by an innkeeper
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/526619.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 526619
+    url: /works/526619/
   - title: Cool-Dere Kinpatsu Hitozuma Zenra Kaseifu san ga Yanda Boku ni Yasashiku
       Shite Kureta Ohanashi 1| Naked Blonde Kuudere Housekeeper Wife Kindly Treats Broken
       Ol' Me 01
@@ -1237,6 +1259,13 @@ works:
     date: '2026-07-17'
     code: 658578
     url: /works/658578/
+  - title: Ie no Naka de Tachinbo suru Ane to Sore o Kau Otouto
+    author: choco-hell
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/658748.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 658748
+    url: /works/658748/
   - title: Chubby Nurse
     author: herohero-tom
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/659643.jpg
@@ -1408,6 +1437,13 @@ works:
     date: '2026-08-19'
     code: 668867
     url: /works/668867/
+  - title: JK no Imouto no Furo Nozoki mashita - Hentai Aniki × Imouto
+    author: iron-sugar
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/670708.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 670708
+    url: /works/670708/
   - title: Friend With Benefit With My Friends Mom
     author: cammy
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/671657.jpg
@@ -1617,4 +1653,11 @@ works:
     date: '2026-09-15'
     code: 681329
     url: /works/681329/
+  - title: Otouto no Game-nou to Ane no Game-sei
+    author: choco-hell
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681655.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 681655
+    url: /works/681655/
 ---

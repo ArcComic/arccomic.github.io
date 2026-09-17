@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "business suit"
-work_count: 67
+work_count: 68
 works:
   - title: Kaisha de Iroiro | Gettin' Busy at the Office
     author: hara-shigeyuki
@@ -172,6 +172,13 @@ works:
     date: '2026-04-27'
     code: 452482
     url: /works/452482/
+  - title: BariCare Kaa-san ga DQN ni Netorareta Vol.1
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/470682.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 470682
+    url: /works/470682/
   - title: Hiyoko-san wa Sewazuki | Hiyoko is a Busybody
     author: maeda-momo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/480065.jpg
@@ -477,14 +484,14 @@ works:
       Who Tells Women Apart By Their Asses, Got Blackmail On My Superior At Work
     author: eco-heeky
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681445.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-16'
     code: 681445
     url: /works/681445/
   - title: Motokano-tachi to Ya Re Naoshi!? - CHAPTER 1-9
     author: shinonome-ryu-ogiue-chihiro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681503.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-16'
     code: 681503
     url: /works/681503/

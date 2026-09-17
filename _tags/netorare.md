@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "netorare"
-work_count: 274
+work_count: 279
 works:
   - title: Hitozuma Hyakka
     author: hase-tsubura
@@ -330,6 +330,13 @@ works:
     date: '2026-04-19'
     code: 470023
     url: /works/470023/
+  - title: BariCare Kaa-san ga DQN ni Netorareta Vol.1
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/470682.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 470682
+    url: /works/470682/
   - title: Kakine Tsuma II Daiichiwa | Wife on the Fence II - Chapter 1
     author: ntr-system
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/471387.jpg
@@ -1831,7 +1838,7 @@ works:
   - title: Kobito wa Yarisaa no Hime ni Natteimashita
     author: urano-hikidashi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/676597.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-16'
     code: 676597
     url: /works/676597/
@@ -2010,17 +2017,46 @@ works:
   - title: Soredemo Ashita mo Kareshi ga ii - Chapter 1-17
     author: miike-kei
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681496.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-16'
     code: 681496
     url: /works/681496/
   - title: Everyone's Kissing Club - Chapter 1-30
     author: nou-shun
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681498.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-16'
     code: 681498
     url: /works/681498/
+  - title: LOVE Summer
+    author: lander0808
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681683.jpg
+    rating: 4.4
+    date: '2026-09-17'
+    code: 681683
+    url: /works/681683/
+  - title: Tachibana-san-chi no Dansei Jijou 2 | The Tachibana Household's Male Affairs
+      2
+    author: jin
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681720.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 681720
+    url: /works/681720/
+  - title: Under Maternal Love 1-18
+    author: midnight
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681724.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 681724
+    url: /works/681724/
+  - title: Mejiro Ardan NTR
+    author: yasaka
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681759.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 681759
+    url: /works/681759/
   - title: Inin Keiyaku | Lewd Pregnancy Contract
     author: yoshiura-kazuya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/83595.jpg

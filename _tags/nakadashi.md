@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "nakadashi"
-work_count: 532
+work_count: 538
 works:
   - title: Adoration
     author: kishizuka-kenji
@@ -173,6 +173,14 @@ works:
     date: '2026-08-24'
     code: 342639
     url: /works/342639/
+  - title: Homestay-chu no Doitsu Musume ga Issho ni Furo ni Haitte Kuru Wake | The
+      Reason Why a German Girl Takes a Bath Together With Me on Her Homestay
+    author: gentsuki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/344322.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 344322
+    url: /works/344322/
   - title: Hito no Tsuma | Someone's Wife
     author: yumi-ichirou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/349247.jpg
@@ -284,6 +292,14 @@ works:
     date: '2026-04-19'
     code: 398854
     url: /works/398854/
+  - title: Namaiki na Imouto ga Ore no SeFri ni Natta Keii | How My Cheeky Little Sister
+      and I Became Sex Friends With Benefits
+    author: iron-sugar
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/404719.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 404719
+    url: /works/404719/
   - title: Imouto no Nukumori | A Little Sister's warmth
     author: kinomoto-anzu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/407959.jpg
@@ -503,6 +519,13 @@ works:
     date: '2026-04-15'
     code: 470025
     url: /works/470025/
+  - title: BariCare Kaa-san ga DQN ni Netorareta Vol.1
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/470682.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 470682
+    url: /works/470682/
   - title: Sekai ga Heiwa ni Natta node Yuusha (Jitsu wa ♀) ni Kyuukon Shita Kekka |
       Marriage Proposal to the Hero (Actually ♀) When the World Is at Peace
     author: natsuo-tsunao
@@ -836,6 +859,13 @@ works:
     date: '2026-09-12'
     code: 524436
     url: /works/524436/
+  - title: A tale of an Elf adventurer (♀) being visited at night and bred by an innkeeper
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/526619.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 526619
+    url: /works/526619/
   - title: Yojouhan Bio Seikatsu Soushuuhen
     author: sgk
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/527851.jpg
@@ -2091,6 +2121,13 @@ works:
     date: '2026-09-05'
     code: 642023
     url: /works/642023/
+  - title: Phaethon no Kinsaku AV Satsuei | Phaethons' Cash Grab AV Shoot
+    author: sukoyakagumi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642563.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 642563
+    url: /works/642563/
   - title: Akogare no Hito wa Mou Owari!
     author: orange-mimosa
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642584.jpg
@@ -2976,7 +3013,7 @@ works:
   - title: Netori no Tsuji
     author: adolescence-maru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/661953.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-16'
     code: 661953
     url: /works/661953/
@@ -3937,7 +3974,7 @@ works:
       Yoshimi Is Driven Wild by a Woman He Wasn''t Paying Attention to'
     author: wacoco-waco
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681422.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-09-16'
     code: 681422
     url: /works/681422/
@@ -3945,10 +3982,18 @@ works:
       Who Tells Women Apart By Their Asses, Got Blackmail On My Superior At Work
     author: eco-heeky
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681445.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-16'
     code: 681445
     url: /works/681445/
+  - title: Imouto wa Otonappoitte Iwaretairashii | My Little Sister Wants to Be Told
+      That She's Grown-Up It Seems
+    author: yabachorogi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681687.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 681687
+    url: /works/681687/
   - title: Inin Keiyaku | Lewd Pregnancy Contract
     author: yoshiura-kazuya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/83595.jpg

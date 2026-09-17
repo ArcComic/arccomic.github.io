@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "multi-work series"
-work_count: 257
+work_count: 259
 works:
   - title: Oppai na Natsuyasumi 2 | The Summer Break of Boobs 2
     author: higashino-mikan
@@ -177,6 +177,13 @@ works:
     date: '2026-04-15'
     code: 470025
     url: /works/470025/
+  - title: BariCare Kaa-san ga DQN ni Netorareta Vol.1
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/470682.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 470682
+    url: /works/470682/
   - title: Kakine Tsuma II Daiichiwa | Wife on the Fence II - Chapter 1
     author: ntr-system
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/471387.jpg
@@ -1896,36 +1903,43 @@ works:
   - title: Cool-chan wa Sensei Gakari
     author: nekoi-mie
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681465.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-16'
     code: 681465
     url: /works/681465/
   - title: Soredemo Ashita mo Kareshi ga ii - Chapter 1-17
     author: miike-kei
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681496.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-16'
     code: 681496
     url: /works/681496/
   - title: Everyone's Kissing Club - Chapter 1-30
     author: nou-shun
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681498.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-16'
     code: 681498
     url: /works/681498/
   - title: Motokano-tachi to Ya Re Naoshi!? - CHAPTER 1-9
     author: shinonome-ryu-ogiue-chihiro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681503.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-16'
     code: 681503
     url: /works/681503/
   - title: Misao no Keiyaku - CHAPTER 1-12
     author: yamanouchi-yuu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681510.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-16'
     code: 681510
     url: /works/681510/
+  - title: Under Maternal Love 1-18
+    author: midnight
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681724.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 681724
+    url: /works/681724/
 ---

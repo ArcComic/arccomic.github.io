@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sister"
-work_count: 60
+work_count: 66
 works:
   - title: Onee-chan ga Ecchi na Koto bakka Suru kara... | My older sister only does
       obscene things...
@@ -25,6 +25,14 @@ works:
     date: '2026-09-13'
     code: 380273
     url: /works/380273/
+  - title: Namaiki na Imouto ga Ore no SeFri ni Natta Keii | How My Cheeky Little Sister
+      and I Became Sex Friends With Benefits
+    author: iron-sugar
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/404719.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 404719
+    url: /works/404719/
   - title: Imouto no Nukumori | A Little Sister's warmth
     author: kinomoto-anzu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/407959.jpg
@@ -190,6 +198,13 @@ works:
     date: '2026-09-13'
     code: 638556
     url: /works/638556/
+  - title: Phaethon no Kinsaku AV Satsuei | Phaethons' Cash Grab AV Shoot
+    author: sukoyakagumi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642563.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 642563
+    url: /works/642563/
   - title: Akogare no Hito wa Mou Owari! 2
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642585.jpg
@@ -285,6 +300,13 @@ works:
     date: '2026-09-13'
     code: 657607
     url: /works/657607/
+  - title: Ie no Naka de Tachinbo suru Ane to Sore o Kau Otouto
+    author: choco-hell
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/658748.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 658748
+    url: /works/658748/
   - title: Imouto ga Ore no Kanojo!? 2-haku 3-ka no Ecchi na Kankei | My Sister is My
       Girlfriend!? Sexual Relationship for Two Nights and Three Days
     author: katagiri-kaneharu
@@ -322,6 +344,13 @@ works:
     date: '2026-07-17'
     code: 664926
     url: /works/664926/
+  - title: JK no Imouto no Furo Nozoki mashita - Hentai Aniki × Imouto
+    author: iron-sugar
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/670708.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 670708
+    url: /works/670708/
   - title: Onii-chan no Yowami o Gyutto | Squeezing my big brother's weak spot
     author: ronrinri-ronri
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673288.jpg
@@ -436,6 +465,21 @@ works:
     date: '2026-09-13'
     code: 681030
     url: /works/681030/
+  - title: Otouto no Game-nou to Ane no Game-sei
+    author: choco-hell
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681655.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 681655
+    url: /works/681655/
+  - title: Imouto wa Otonappoitte Iwaretairashii | My Little Sister Wants to Be Told
+      That She's Grown-Up It Seems
+    author: yabachorogi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681687.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 681687
+    url: /works/681687/
   - title: Onee-chan no SM Kouza | Onee-chan's S&M Lecture
     author: shinooka-homare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/88750.jpg

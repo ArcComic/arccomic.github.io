@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "multiple orgasms"
-work_count: 82
+work_count: 83
 works:
   - title: Rako Slip!
     author: bujidearu
@@ -613,8 +613,16 @@ works:
       Yoshimi Is Driven Wild by a Woman He Wasn''t Paying Attention to'
     author: wacoco-waco
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681422.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-09-16'
     code: 681422
     url: /works/681422/
+  - title: Imouto wa Otonappoitte Iwaretairashii | My Little Sister Wants to Be Told
+      That She's Grown-Up It Seems
+    author: yabachorogi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681687.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 681687
+    url: /works/681687/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "mother"
-work_count: 121
+work_count: 122
 works:
   - title: Netemo Sametemo | Be it Sleeping or Awake
     author: takasugi-kou
@@ -891,4 +891,11 @@ works:
     date: '2026-09-13'
     code: 681004
     url: /works/681004/
+  - title: Under Maternal Love 1-18
+    author: midnight
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681724.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 681724
+    url: /works/681724/
 ---

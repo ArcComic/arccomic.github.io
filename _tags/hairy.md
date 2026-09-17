@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "hairy"
-work_count: 190
+work_count: 194
 works:
   - title: Adoration
     author: kishizuka-kenji
@@ -119,6 +119,14 @@ works:
     date: '2026-04-30'
     code: 392475
     url: /works/392475/
+  - title: Namaiki na Imouto ga Ore no SeFri ni Natta Keii | How My Cheeky Little Sister
+      and I Became Sex Friends With Benefits
+    author: iron-sugar
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/404719.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 404719
+    url: /works/404719/
   - title: Rakki Taishyaku
     author: fushoku
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/407561.jpg
@@ -1130,6 +1138,13 @@ works:
     date: '2026-09-13'
     code: 657607
     url: /works/657607/
+  - title: Ie no Naka de Tachinbo suru Ane to Sore o Kau Otouto
+    author: choco-hell
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/658748.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 658748
+    url: /works/658748/
   - title: Onna Tomodachi to Omotteitara Mesu Deshita | I Thought She Was Just a Friend,
       Turned Out She Was a Woman
     author: ippan-seijin
@@ -1397,8 +1412,22 @@ works:
       Who Tells Women Apart By Their Asses, Got Blackmail On My Superior At Work
     author: eco-heeky
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681445.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-16'
     code: 681445
     url: /works/681445/
+  - title: Otouto no Game-nou to Ane no Game-sei
+    author: choco-hell
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681655.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 681655
+    url: /works/681655/
+  - title: Under Maternal Love 1-18
+    author: midnight
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681724.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 681724
+    url: /works/681724/
 ---

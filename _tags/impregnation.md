@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "impregnation"
-work_count: 90
+work_count: 92
 works:
   - title: Overwrite
     author: ojo
@@ -164,6 +164,13 @@ works:
     date: '2026-05-01'
     code: 508534
     url: /works/508534/
+  - title: A tale of an Elf adventurer (♀) being visited at night and bred by an innkeeper
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/526619.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 526619
+    url: /works/526619/
   - title: Ijime Bokumetsu Swapping
     author: ere-2-earo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/536072.jpg
@@ -664,6 +671,13 @@ works:
     date: '2026-09-12'
     code: 680735
     url: /works/680735/
+  - title: Under Maternal Love 1-18
+    author: midnight
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681724.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 681724
+    url: /works/681724/
   - title: Inin Keiyaku | Lewd Pregnancy Contract
     author: yoshiura-kazuya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/83595.jpg

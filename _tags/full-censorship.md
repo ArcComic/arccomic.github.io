@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "full censorship"
-work_count: 78
+work_count: 79
 works:
   - title: Kaisha de Iroiro | Gettin' Busy at the Office
     author: hara-shigeyuki
@@ -556,17 +556,24 @@ works:
   - title: Soredemo Ashita mo Kareshi ga ii - Chapter 1-17
     author: miike-kei
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681496.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-16'
     code: 681496
     url: /works/681496/
   - title: Misao no Keiyaku - CHAPTER 1-12
     author: yamanouchi-yuu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681510.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-16'
     code: 681510
     url: /works/681510/
+  - title: My Neighbor Is Too Loud!
+    author: mojarin
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681672.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 681672
+    url: /works/681672/
   - title: Hottokenaino
     author: hara-shigeyuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/77864.jpg

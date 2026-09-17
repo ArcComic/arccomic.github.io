@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "multipanel sequence"
-work_count: 15
+work_count: 16
 works:
   - title: Onee-chan ga Ecchi na Koto bakka Suru kara... | My older sister only does
       obscene things...
@@ -11,6 +11,14 @@ works:
     date: '2026-04-27'
     code: 337171
     url: /works/337171/
+  - title: Homestay-chu no Doitsu Musume ga Issho ni Furo ni Haitte Kuru Wake | The
+      Reason Why a German Girl Takes a Bath Together With Me on Her Homestay
+    author: gentsuki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/344322.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 344322
+    url: /works/344322/
   - title: Toshishita Chin Kui Obasan
     author: maccha-neji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/387637.jpg

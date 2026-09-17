@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "dilf"
-work_count: 131
+work_count: 132
 works:
   - title: Adoration
     author: kishizuka-kenji
@@ -269,6 +269,13 @@ works:
     date: '2026-09-12'
     code: 526368
     url: /works/526368/
+  - title: A tale of an Elf adventurer (♀) being visited at night and bred by an innkeeper
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/526619.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 526619
+    url: /works/526619/
   - title: Ki ga Tsuyoi Joshi Announcer ga Kutsujoku ni Taerarenaku Naru made Night
       Pool Hen
     author: crimson
@@ -953,7 +960,7 @@ works:
   - title: Cool-chan wa Sensei Gakari
     author: nekoi-mie
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681465.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-16'
     code: 681465
     url: /works/681465/

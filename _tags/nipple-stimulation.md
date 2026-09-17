@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "nipple stimulation"
-work_count: 94
+work_count: 95
 works:
   - title: Hypnotic Domination ~ The Fall of Tennis Club Ace ~
     author: danchino
@@ -689,7 +689,7 @@ works:
       Yoshimi Is Driven Wild by a Woman He Wasn''t Paying Attention to'
     author: wacoco-waco
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681422.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-09-16'
     code: 681422
     url: /works/681422/
@@ -697,15 +697,23 @@ works:
       Who Tells Women Apart By Their Asses, Got Blackmail On My Superior At Work
     author: eco-heeky
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681445.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-16'
     code: 681445
     url: /works/681445/
   - title: Motokano-tachi to Ya Re Naoshi!? - CHAPTER 1-9
     author: shinonome-ryu-ogiue-chihiro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681503.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-16'
     code: 681503
     url: /works/681503/
+  - title: Imouto wa Otonappoitte Iwaretairashii | My Little Sister Wants to Be Told
+      That She's Grown-Up It Seems
+    author: yabachorogi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681687.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 681687
+    url: /works/681687/
 ---

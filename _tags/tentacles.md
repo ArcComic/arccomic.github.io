@@ -35,7 +35,7 @@ works:
   - title: Netori no Tsuji
     author: adolescence-maru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/661953.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-16'
     code: 661953
     url: /works/661953/

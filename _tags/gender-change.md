@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "gender change"
-work_count: 18
+work_count: 20
 works:
   - title: Hyoui Osen de Yuri Ecchi | Lesbian Sex through Corrupting Possession
     author: siina-yuuki
@@ -76,6 +76,13 @@ works:
     date: '2026-08-31'
     code: 494172
     url: /works/494172/
+  - title: Aqua Wing ~The man who switched bodies with an idol~
+    author: touchuu-kasou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/498908.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 498908
+    url: /works/498908/
   - title: Irekawatte Dotabata Ecchi! ~Aya-nee no Binkan na Karada ni Ore wa Taerarenai
       | Switch bodies and have noisy sex! I can't stand Ayanee's sensitive body 1-6
     author: suishin-tenra
@@ -135,4 +142,11 @@ works:
     date: '2026-09-11'
     code: 680320
     url: /works/680320/
+  - title: Under Maternal Love 1-18
+    author: midnight
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681724.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 681724
+    url: /works/681724/
 ---

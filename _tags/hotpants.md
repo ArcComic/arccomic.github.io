@@ -1,8 +1,16 @@
 ---
 layout: tag
 tag_name: "hotpants"
-work_count: 12
+work_count: 14
 works:
+  - title: Namaiki na Imouto ga Ore no SeFri ni Natta Keii | How My Cheeky Little Sister
+      and I Became Sex Friends With Benefits
+    author: iron-sugar
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/404719.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 404719
+    url: /works/404719/
   - title: Uwa, Mesugaki Tsuyoi! | Crap, This Mesugaki's Too Powerful!
     author: poncocchan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/550359.jpg
@@ -94,4 +102,11 @@ works:
     date: '2026-09-05'
     code: 678354
     url: /works/678354/
+  - title: LOVE Summer
+    author: lander0808
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681683.jpg
+    rating: 4.4
+    date: '2026-09-17'
+    code: 681683
+    url: /works/681683/
 ---

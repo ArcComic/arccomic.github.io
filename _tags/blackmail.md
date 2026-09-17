@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "blackmail"
-work_count: 104
+work_count: 105
 works:
   - title: Another Produce -Kaede Takagaki-
     author: marushin
@@ -132,6 +132,13 @@ works:
     date: '2026-04-19'
     code: 465602
     url: /works/465602/
+  - title: BariCare Kaa-san ga DQN ni Netorareta Vol.1
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/470682.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 470682
+    url: /works/470682/
   - title: Kakine Tsuma II Daiichiwa | Wife on the Fence II - Chapter 1
     author: ntr-system
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/471387.jpg
@@ -770,7 +777,7 @@ works:
   - title: Misao no Keiyaku - CHAPTER 1-12
     author: yamanouchi-yuu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681510.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-16'
     code: 681510
     url: /works/681510/

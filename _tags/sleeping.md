@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sleeping"
-work_count: 43
+work_count: 44
 works:
   - title: Netemo Sametemo | Be it Sleeping or Awake
     author: takasugi-kou
@@ -120,6 +120,13 @@ works:
     date: '2026-08-19'
     code: 525085
     url: /works/525085/
+  - title: A tale of an Elf adventurer (♀) being visited at night and bred by an innkeeper
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/526619.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 526619
+    url: /works/526619/
   - title: Minpaku ~Ojou-sama-tachi wa Minpaku Keieisha no Wana ni Ochiru~ | Sleeping
       in the Bed and Breakfast - Young ladies fall into the trap of a private lodging
       manager

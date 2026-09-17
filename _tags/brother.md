@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "brother"
-work_count: 6
+work_count: 8
 works:
   - title: Onee-chan ga Ecchi na Koto bakka Suru kara... | My older sister only does
       obscene things...
@@ -11,6 +11,14 @@ works:
     date: '2026-04-27'
     code: 337171
     url: /works/337171/
+  - title: Namaiki na Imouto ga Ore no SeFri ni Natta Keii | How My Cheeky Little Sister
+      and I Became Sex Friends With Benefits
+    author: iron-sugar
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/404719.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 404719
+    url: /works/404719/
   - title: Onee-chan to Torokeru Kimochi SP 2 | The Melting Feeling with Onee-chan SP
       2
     author: sky
@@ -34,6 +42,13 @@ works:
     date: '2026-09-05'
     code: 637940
     url: /works/637940/
+  - title: Phaethon no Kinsaku AV Satsuei | Phaethons' Cash Grab AV Shoot
+    author: sukoyakagumi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642563.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 642563
+    url: /works/642563/
   - title: Imouto Haramasenai to Derarenai Shima 2 | You Must Breed Your Sister to Leave
       This Island 2!
     author: airandou

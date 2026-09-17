@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "focus blowjob"
-work_count: 5
+work_count: 6
 works:
   - title: 'Mother and Child Living Together Chapter 2 : Puberty'
     author: fuwatoro-opanchu-cake
@@ -40,4 +40,11 @@ works:
     date: '2026-08-31'
     code: 669505
     url: /works/669505/
+  - title: Seifuku Fella Zanmai Vol. 2
+    author: uniman
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681699.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 681699
+    url: /works/681699/
 ---

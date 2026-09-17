@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bondage"
-work_count: 62
+work_count: 63
 works:
   - title: CHOCO x LOVE
     author: highlow
@@ -62,6 +62,13 @@ works:
     date: '2026-08-18'
     code: 521812
     url: /works/521812/
+  - title: A tale of an Elf adventurer (♀) being visited at night and bred by an innkeeper
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/526619.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 526619
+    url: /works/526619/
   - title: Ossan Kirai no Hitozuma Kyoushi ga Nikubenki ni Ochiru Hanashi | Story About
       an Old Man Hating Married Teacher Falling Into Being a Meat Toilet
     author: chinpan
@@ -450,7 +457,7 @@ works:
   - title: Misao no Keiyaku - CHAPTER 1-12
     author: yamanouchi-yuu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681510.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-16'
     code: 681510
     url: /works/681510/

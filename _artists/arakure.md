@@ -32,7 +32,7 @@ works:
     url: /works/507591/
   - title: College Glasses Girl Noriko-chan Vol. 2 - MTL
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681466.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-09-16'
     code: 681466
     url: /works/681466/

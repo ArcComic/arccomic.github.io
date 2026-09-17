@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "short-haired female"
-work_count: 26
+work_count: 29
 works:
   - title: Onee-chan ga Ecchi na Koto bakka Suru kara... | My older sister only does
       obscene things...
@@ -11,6 +11,14 @@ works:
     date: '2026-04-27'
     code: 337171
     url: /works/337171/
+  - title: Homestay-chu no Doitsu Musume ga Issho ni Furo ni Haitte Kuru Wake | The
+      Reason Why a German Girl Takes a Bath Together With Me on Her Homestay
+    author: gentsuki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/344322.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 344322
+    url: /works/344322/
   - title: Homestay-chu no Doitsu Musume ga Issho ni Furo ni Haitte Kuru Wake | The
       Reason Why a German Girl Takes a Bath Together With Me on Her Homestay
     author: gentsuki
@@ -34,6 +42,14 @@ works:
     date: '2026-09-09'
     code: 391732
     url: /works/391732/
+  - title: Namaiki na Imouto ga Ore no SeFri ni Natta Keii | How My Cheeky Little Sister
+      and I Became Sex Friends With Benefits
+    author: iron-sugar
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/404719.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 404719
+    url: /works/404719/
   - title: Kaisha no Iki Okure BBA Haramaseta | [Tragic News] I Knocked Up The Old Maid
       From My Office
     author: special-g
@@ -125,6 +141,13 @@ works:
     date: '2026-05-26'
     code: 624573
     url: /works/624573/
+  - title: Phaethon no Kinsaku AV Satsuei | Phaethons' Cash Grab AV Shoot
+    author: sukoyakagumi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642563.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 642563
+    url: /works/642563/
   - title: Kasshoku Buaisou Yakyuu-bu Manager no Yowami Nigitta | I Found the Grumpy,
       Brown-Skinned Baseball Manager's Weakness
     author: kitano-onsen

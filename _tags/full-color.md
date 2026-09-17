@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "full color"
-work_count: 167
+work_count: 169
 works:
   - title: Tsuma wo Yariman ni Shimasu Shakkin no Tame desu kara.
     author: pietoro
@@ -74,6 +74,14 @@ works:
     date: '2026-09-13'
     code: 404458
     url: /works/404458/
+  - title: Namaiki na Imouto ga Ore no SeFri ni Natta Keii | How My Cheeky Little Sister
+      and I Became Sex Friends With Benefits
+    author: iron-sugar
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/404719.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 404719
+    url: /works/404719/
   - title: Kaisha no Iki Okure BBA Haramaseta | [Tragic News] I Knocked Up The Old Maid
       From My Office
     author: special-g
@@ -1226,4 +1234,11 @@ works:
     date: '2026-09-15'
     code: 681323
     url: /works/681323/
+  - title: LOVE Summer
+    author: lander0808
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681683.jpg
+    rating: 4.4
+    date: '2026-09-17'
+    code: 681683
+    url: /works/681683/
 ---

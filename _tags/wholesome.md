@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "wholesome"
-work_count: 106
+work_count: 108
 works:
   - title: FLUFFY LAUGH GIRL
     author: shibasaki-syouzi
@@ -17,6 +17,14 @@ works:
     date: '2026-09-04'
     code: 294902
     url: /works/294902/
+  - title: Homestay-chu no Doitsu Musume ga Issho ni Furo ni Haitte Kuru Wake | The
+      Reason Why a German Girl Takes a Bath Together With Me on Her Homestay
+    author: gentsuki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/344322.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 344322
+    url: /works/344322/
   - title: Homestay-chu no Doitsu Musume ga Issho ni Furo ni Haitte Kuru Wake | The
       Reason Why a German Girl Takes a Bath Together With Me on Her Homestay
     author: gentsuki
@@ -517,6 +525,13 @@ works:
     date: '2026-08-23'
     code: 639772
     url: /works/639772/
+  - title: Phaethon no Kinsaku AV Satsuei | Phaethons' Cash Grab AV Shoot
+    author: sukoyakagumi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642563.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 642563
+    url: /works/642563/
   - title: Apart no Otonari-san ga Yarasete Kureru Hanashi 4 | My Nextdoor Neighbor
       Let Me Fuck Her 4
     author: ki-51

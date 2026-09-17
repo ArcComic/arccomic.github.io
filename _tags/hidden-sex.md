@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "hidden sex"
-work_count: 58
+work_count: 60
 works:
   - title: Hajimete Kanojo Ga Dekita No Ni
     author: unknown
@@ -26,6 +26,14 @@ works:
     date: '2026-05-03'
     code: 376189
     url: /works/376189/
+  - title: Namaiki na Imouto ga Ore no SeFri ni Natta Keii | How My Cheeky Little Sister
+      and I Became Sex Friends With Benefits
+    author: iron-sugar
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/404719.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 404719
+    url: /works/404719/
   - title: Kaisha no Iki Okure BBA Haramaseta | [Tragic News] I Knocked Up The Old Maid
       From My Office
     author: special-g
@@ -42,6 +50,13 @@ works:
     date: '2026-07-16'
     code: 434993
     url: /works/434993/
+  - title: BariCare Kaa-san ga DQN ni Netorareta Vol.1
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/470682.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 470682
+    url: /works/470682/
   - title: Nyuuin-chuu no Muramura wa...
     author: natsume-benkei
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/495599.jpg
@@ -439,7 +454,7 @@ works:
   - title: Motokano-tachi to Ya Re Naoshi!? - CHAPTER 1-9
     author: shinonome-ryu-ogiue-chihiro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681503.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-16'
     code: 681503
     url: /works/681503/

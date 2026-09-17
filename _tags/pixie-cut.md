@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "pixie cut"
-work_count: 56
+work_count: 57
 works:
   - title: Harinezumi no Dilemma ① | A Hedgehog's Dilemma, Part 1
     author: maeda-momo
@@ -351,7 +351,7 @@ works:
   - title: Kobito wa Yarisaa no Hime ni Natteimashita
     author: urano-hikidashi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/676597.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-16'
     code: 676597
     url: /works/676597/
@@ -405,15 +405,23 @@ works:
   - title: Cool-chan wa Sensei Gakari
     author: nekoi-mie
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681465.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-16'
     code: 681465
     url: /works/681465/
   - title: College Glasses Girl Noriko-chan Vol. 2 - MTL
     author: arakure
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681466.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-09-16'
     code: 681466
     url: /works/681466/
+  - title: Imouto wa Otonappoitte Iwaretairashii | My Little Sister Wants to Be Told
+      That She's Grown-Up It Seems
+    author: yabachorogi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681687.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 681687
+    url: /works/681687/
 ---

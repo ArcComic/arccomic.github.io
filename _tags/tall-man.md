@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "tall man"
-work_count: 24
+work_count: 25
 works:
   - title: Kono Furin wa Otto no Tame "Anata, Yurushite…." To, Netorareru Tsuma | 這場外遇是為了老公「親愛的，原諒我…」這樣說著，為老公戴綠帽的妻子
     author: korosuke
@@ -182,4 +182,12 @@ works:
     date: '2026-09-12'
     code: 680591
     url: /works/680591/
+  - title: Imouto wa Otonappoitte Iwaretairashii | My Little Sister Wants to Be Told
+      That She's Grown-Up It Seems
+    author: yabachorogi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681687.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 681687
+    url: /works/681687/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "airandou"
-work_count: 3
+work_count: 4
 works:
   - title: Mesukko Okami Wakarase Shuzai Kiroku
     author: airandou
@@ -25,4 +25,11 @@ works:
     date: '2026-05-07'
     code: 648414
     url: /works/648414/
+  - title: Shinchou-sa Max Fuufu | Extreme Jeight Gap Jouple
+    author: airandou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681700.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 681700
+    url: /works/681700/
 ---

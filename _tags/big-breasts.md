@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big breasts"
-work_count: 724
+work_count: 732
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -222,6 +222,14 @@ works:
     date: '2026-08-24'
     code: 342639
     url: /works/342639/
+  - title: Homestay-chu no Doitsu Musume ga Issho ni Furo ni Haitte Kuru Wake | The
+      Reason Why a German Girl Takes a Bath Together With Me on Her Homestay
+    author: gentsuki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/344322.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 344322
+    url: /works/344322/
   - title: Homestay-chu no Doitsu Musume ga Issho ni Furo ni Haitte Kuru Wake | The
       Reason Why a German Girl Takes a Bath Together With Me on Her Homestay
     author: gentsuki
@@ -984,6 +992,13 @@ works:
     date: '2026-09-12'
     code: 526368
     url: /works/526368/
+  - title: A tale of an Elf adventurer (♀) being visited at night and bred by an innkeeper
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/526619.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 526619
+    url: /works/526619/
   - title: Yojouhan Bio Seikatsu Soushuuhen
     author: sgk
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/527851.jpg
@@ -2544,6 +2559,13 @@ works:
     date: '2026-09-05'
     code: 642023
     url: /works/642023/
+  - title: Phaethon no Kinsaku AV Satsuei | Phaethons' Cash Grab AV Shoot
+    author: sukoyakagumi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642563.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 642563
+    url: /works/642563/
   - title: Akogare no Hito wa Mou Owari!
     author: orange-mimosa
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642584.jpg
@@ -3604,6 +3626,13 @@ works:
     date: '2026-09-12'
     code: 658633
     url: /works/658633/
+  - title: Ie no Naka de Tachinbo suru Ane to Sore o Kau Otouto
+    author: choco-hell
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/658748.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 658748
+    url: /works/658748/
   - title: Make Love Rank match!!③
     author: napo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/659484.jpg
@@ -5319,38 +5348,68 @@ works:
       Who Tells Women Apart By Their Asses, Got Blackmail On My Superior At Work
     author: eco-heeky
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681445.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-16'
     code: 681445
     url: /works/681445/
   - title: Cool-chan wa Sensei Gakari
     author: nekoi-mie
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681465.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-16'
     code: 681465
     url: /works/681465/
   - title: Everyone's Kissing Club - Chapter 1-30
     author: nou-shun
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681498.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-16'
     code: 681498
     url: /works/681498/
   - title: Motokano-tachi to Ya Re Naoshi!? - CHAPTER 1-9
     author: shinonome-ryu-ogiue-chihiro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681503.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-16'
     code: 681503
     url: /works/681503/
   - title: Misao no Keiyaku - CHAPTER 1-12
     author: yamanouchi-yuu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681510.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-16'
     code: 681510
     url: /works/681510/
+  - title: Otouto no Game-nou to Ane no Game-sei
+    author: choco-hell
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681655.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 681655
+    url: /works/681655/
+  - title: My Neighbor Is Too Loud!
+    author: mojarin
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681672.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 681672
+    url: /works/681672/
+  - title: Imouto wa Otonappoitte Iwaretairashii | My Little Sister Wants to Be Told
+      That She's Grown-Up It Seems
+    author: yabachorogi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681687.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 681687
+    url: /works/681687/
+  - title: Tachibana-san-chi no Dansei Jijou 2 | The Tachibana Household's Male Affairs
+      2
+    author: jin
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681720.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 681720
+    url: /works/681720/
   - title: Hottokenaino
     author: hara-shigeyuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/77864.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "incest"
-work_count: 209
+work_count: 216
 works:
   - title: Kindan no Hatemitsu
     author: ryuuta
@@ -105,6 +105,14 @@ works:
     date: '2026-04-25'
     code: 388099
     url: /works/388099/
+  - title: Namaiki na Imouto ga Ore no SeFri ni Natta Keii | How My Cheeky Little Sister
+      and I Became Sex Friends With Benefits
+    author: iron-sugar
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/404719.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 404719
+    url: /works/404719/
   - title: Natsuyasumi~Boku to oneechan no inaka de hatsutaiken~ |Summer Vacation~My
       first time with Oneechan in the countryside
     author: survival-knife
@@ -770,6 +778,13 @@ works:
     date: '2026-09-05'
     code: 642023
     url: /works/642023/
+  - title: Phaethon no Kinsaku AV Satsuei | Phaethons' Cash Grab AV Shoot
+    author: sukoyakagumi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642563.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 642563
+    url: /works/642563/
   - title: Anta, Nandetatten no?
     author: daidai-shikibu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642770.jpg
@@ -1118,6 +1133,13 @@ works:
     date: '2026-08-24'
     code: 657981
     url: /works/657981/
+  - title: Ie no Naka de Tachinbo suru Ane to Sore o Kau Otouto
+    author: choco-hell
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/658748.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 658748
+    url: /works/658748/
   - title: Okaasan nara Daijyoubu Da Kara
     author: daidai-shikibu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/658826.jpg
@@ -1303,6 +1325,13 @@ works:
     date: '2026-09-04'
     code: 669459
     url: /works/669459/
+  - title: JK no Imouto no Furo Nozoki mashita - Hentai Aniki × Imouto
+    author: iron-sugar
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/670708.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 670708
+    url: /works/670708/
   - title: Mama no, Sono Eroi Karada ga Ikenainda 1-2
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/672310.jpg
@@ -1534,6 +1563,28 @@ works:
     date: '2026-09-13'
     code: 681030
     url: /works/681030/
+  - title: Otouto no Game-nou to Ane no Game-sei
+    author: choco-hell
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681655.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 681655
+    url: /works/681655/
+  - title: Imouto wa Otonappoitte Iwaretairashii | My Little Sister Wants to Be Told
+      That She's Grown-Up It Seems
+    author: yabachorogi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681687.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 681687
+    url: /works/681687/
+  - title: Under Maternal Love 1-18
+    author: midnight
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681724.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 681724
+    url: /works/681724/
   - title: Onee-chan no SM Kouza | Onee-chan's S&M Lecture
     author: shinooka-homare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/88750.jpg

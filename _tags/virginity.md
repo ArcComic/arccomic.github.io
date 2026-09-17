@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "virginity"
-work_count: 112
+work_count: 114
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -78,6 +78,14 @@ works:
   - title: Homestay-chu no Doitsu Musume ga Issho ni Furo ni Haitte Kuru Wake | The
       Reason Why a German Girl Takes a Bath Together With Me on Her Homestay
     author: gentsuki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/344322.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 344322
+    url: /works/344322/
+  - title: Homestay-chu no Doitsu Musume ga Issho ni Furo ni Haitte Kuru Wake | The
+      Reason Why a German Girl Takes a Bath Together With Me on Her Homestay
+    author: gentsuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/344851.jpg
     rating: 4.8
     date: '2026-08-22'
@@ -140,6 +148,14 @@ works:
     date: '2026-09-13'
     code: 388627
     url: /works/388627/
+  - title: Namaiki na Imouto ga Ore no SeFri ni Natta Keii | How My Cheeky Little Sister
+      and I Became Sex Friends With Benefits
+    author: iron-sugar
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/404719.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 404719
+    url: /works/404719/
   - title: Natsuyasumi~Boku to oneechan no inaka de hatsutaiken~ |Summer Vacation~My
       first time with Oneechan in the countryside
     author: survival-knife

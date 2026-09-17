@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "defloration"
-work_count: 166
+work_count: 170
 works:
   - title: Love Approach
     author: hanafuda-sakurano
@@ -46,6 +46,14 @@ works:
     date: '2026-04-27'
     code: 337171
     url: /works/337171/
+  - title: Homestay-chu no Doitsu Musume ga Issho ni Furo ni Haitte Kuru Wake | The
+      Reason Why a German Girl Takes a Bath Together With Me on Her Homestay
+    author: gentsuki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/344322.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 344322
+    url: /works/344322/
   - title: Homestay-chu no Doitsu Musume ga Issho ni Furo ni Haitte Kuru Wake | The
       Reason Why a German Girl Takes a Bath Together With Me on Her Homestay
     author: gentsuki
@@ -126,6 +134,14 @@ works:
     date: '2026-02-26'
     code: 393984
     url: /works/393984/
+  - title: Namaiki na Imouto ga Ore no SeFri ni Natta Keii | How My Cheeky Little Sister
+      and I Became Sex Friends With Benefits
+    author: iron-sugar
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/404719.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 404719
+    url: /works/404719/
   - title: Imouto no Nukumori | A Little Sister's warmth
     author: kinomoto-anzu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/407959.jpg
@@ -280,6 +296,13 @@ works:
     date: '2026-04-17'
     code: 516164
     url: /works/516164/
+  - title: A tale of an Elf adventurer (♀) being visited at night and bred by an innkeeper
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/526619.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 526619
+    url: /works/526619/
   - title: Hatsutaiken no Susume | Recommendation for the First Time Experience
     author: mojarin
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/532651.jpg
@@ -1231,4 +1254,12 @@ works:
     date: '2026-09-15'
     code: 681329
     url: /works/681329/
+  - title: Imouto wa Otonappoitte Iwaretairashii | My Little Sister Wants to Be Told
+      That She's Grown-Up It Seems
+    author: yabachorogi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681687.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 681687
+    url: /works/681687/
 ---

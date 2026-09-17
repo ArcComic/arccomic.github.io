@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "nipple piercing"
-work_count: 4
+work_count: 5
 works:
   - title: Onna Shachou to Koibito ni Naru Houhou | How To Become Lover's With A Female
       CEO
@@ -32,4 +32,11 @@ works:
     date: '2026-09-09'
     code: 679774
     url: /works/679774/
+  - title: LOVE Summer
+    author: lander0808
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681683.jpg
+    rating: 4.4
+    date: '2026-09-17'
+    code: 681683
+    url: /works/681683/
 ---

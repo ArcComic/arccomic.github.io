@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "moral degeneration"
-work_count: 25
+work_count: 27
 works:
+  - title: Aqua Wing ~The man who switched bodies with an idol~
+    author: touchuu-kasou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/498908.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 498908
+    url: /works/498908/
   - title: Beit Saki no Majime na Kouhai ga... | A Serious Part-Time Kouhai
     author: kusayarou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/536423.jpg
@@ -191,4 +198,11 @@ works:
     date: '2026-09-09'
     code: 679774
     url: /works/679774/
+  - title: Under Maternal Love 1-18
+    author: midnight
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681724.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 681724
+    url: /works/681724/
 ---

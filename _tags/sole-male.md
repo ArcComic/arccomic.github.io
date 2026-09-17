@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole male"
-work_count: 614
+work_count: 623
 works:
   - title: Adoration
     author: kishizuka-kenji
@@ -213,6 +213,14 @@ works:
   - title: Homestay-chu no Doitsu Musume ga Issho ni Furo ni Haitte Kuru Wake | The
       Reason Why a German Girl Takes a Bath Together With Me on Her Homestay
     author: gentsuki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/344322.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 344322
+    url: /works/344322/
+  - title: Homestay-chu no Doitsu Musume ga Issho ni Furo ni Haitte Kuru Wake | The
+      Reason Why a German Girl Takes a Bath Together With Me on Her Homestay
+    author: gentsuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/344851.jpg
     rating: 4.8
     date: '2026-08-22'
@@ -399,6 +407,14 @@ works:
     date: '2026-09-06'
     code: 396089
     url: /works/396089/
+  - title: Namaiki na Imouto ga Ore no SeFri ni Natta Keii | How My Cheeky Little Sister
+      and I Became Sex Friends With Benefits
+    author: iron-sugar
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/404719.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 404719
+    url: /works/404719/
   - title: Natsuyasumi~Boku to oneechan no inaka de hatsutaiken~ |Summer Vacation~My
       first time with Oneechan in the countryside
     author: survival-knife
@@ -652,6 +668,13 @@ works:
     date: '2026-04-15'
     code: 470025
     url: /works/470025/
+  - title: BariCare Kaa-san ga DQN ni Netorareta Vol.1
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/470682.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 470682
+    url: /works/470682/
   - title: Sekai ga Heiwa ni Natta node Yuusha (Jitsu wa ♀) ni Kyuukon Shita Kekka |
       Marriage Proposal to the Hero (Actually ♀) When the World Is at Peace
     author: natsuo-tsunao
@@ -929,6 +952,13 @@ works:
     date: '2026-09-12'
     code: 526368
     url: /works/526368/
+  - title: A tale of an Elf adventurer (♀) being visited at night and bred by an innkeeper
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/526619.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 526619
+    url: /works/526619/
   - title: Cool-Dere Kinpatsu Hitozuma Zenra Kaseifu san ga Yanda Boku ni Yasashiku
       Shite Kureta Ohanashi 1| Naked Blonde Kuudere Housekeeper Wife Kindly Treats Broken
       Ol' Me 01
@@ -2315,6 +2345,13 @@ works:
     date: '2026-09-05'
     code: 642023
     url: /works/642023/
+  - title: Phaethon no Kinsaku AV Satsuei | Phaethons' Cash Grab AV Shoot
+    author: sukoyakagumi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642563.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 642563
+    url: /works/642563/
   - title: Akogare no Hito wa Mou Owari!
     author: orange-mimosa
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642584.jpg
@@ -3220,6 +3257,13 @@ works:
     date: '2026-09-12'
     code: 658633
     url: /works/658633/
+  - title: Ie no Naka de Tachinbo suru Ane to Sore o Kau Otouto
+    author: choco-hell
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/658748.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 658748
+    url: /works/658748/
   - title: 'Doll Muchi na Jinzou Otome-tachi -Eve Hen 2- | Dolls: Oblivious Man-made
       Maidens -Eve Pt.2-'
     author: ushinomiya
@@ -4536,7 +4580,7 @@ works:
       Yoshimi Is Driven Wild by a Woman He Wasn''t Paying Attention to'
     author: wacoco-waco
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681422.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-09-16'
     code: 681422
     url: /works/681422/
@@ -4544,22 +4588,44 @@ works:
       Who Tells Women Apart By Their Asses, Got Blackmail On My Superior At Work
     author: eco-heeky
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681445.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-16'
     code: 681445
     url: /works/681445/
   - title: Cool-chan wa Sensei Gakari
     author: nekoi-mie
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681465.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-16'
     code: 681465
     url: /works/681465/
   - title: Motokano-tachi to Ya Re Naoshi!? - CHAPTER 1-9
     author: shinonome-ryu-ogiue-chihiro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681503.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-16'
     code: 681503
     url: /works/681503/
+  - title: Otouto no Game-nou to Ane no Game-sei
+    author: choco-hell
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681655.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 681655
+    url: /works/681655/
+  - title: My Neighbor Is Too Loud!
+    author: mojarin
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681672.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 681672
+    url: /works/681672/
+  - title: Imouto wa Otonappoitte Iwaretairashii | My Little Sister Wants to Be Told
+      That She's Grown-Up It Seems
+    author: yabachorogi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681687.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 681687
+    url: /works/681687/
 ---

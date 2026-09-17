@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "milf"
-work_count: 314
+work_count: 315
 works:
   - title: Life with Married Women Just Like a Manga 2 - Ch. 1-5
     author: hidemaru
@@ -469,6 +469,13 @@ works:
     date: '2026-04-19'
     code: 470023
     url: /works/470023/
+  - title: BariCare Kaa-san ga DQN ni Netorareta Vol.1
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/470682.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 470682
+    url: /works/470682/
   - title: Kakine Tsuma II Daiichiwa | Wife on the Fence II - Chapter 1
     author: ntr-system
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/471387.jpg

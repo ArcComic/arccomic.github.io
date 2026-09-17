@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "old man"
-work_count: 39
+work_count: 40
 works:
   - title: Adoration
     author: kishizuka-kenji
@@ -59,6 +59,13 @@ works:
     date: '2026-04-14'
     code: 478446
     url: /works/478446/
+  - title: A tale of an Elf adventurer (♀) being visited at night and bred by an innkeeper
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/526619.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 526619
+    url: /works/526619/
   - title: Haha Netori
     author: aoi-hitori
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/527171.jpg
