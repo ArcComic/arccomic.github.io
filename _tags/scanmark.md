@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "scanmark"
-work_count: 144
+work_count: 149
 works:
   - title: NTR Anniversary + ) [Syukurin] Mitsuha ~Netorare~ (Kimi no Na wa.) [English]
       [Colorized] by Mikaku
@@ -19,6 +19,13 @@ works:
     date: '2026-04-27'
     code: 416883
     url: /works/416883/
+  - title: Hypnosis Session Gone Sexual!
+    author: okumori-boy
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/445629.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 445629
+    url: /works/445629/
   - title: This Woman’s Body Tells Lies
     author: ichihara-kazuma
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/527621.jpg
@@ -324,6 +331,13 @@ works:
     date: '2026-08-21'
     code: 654114
     url: /works/654114/
+  - title: Until I Take Everything From You 4
+    author: takotokite
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654249.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 654249
+    url: /works/654249/
   - title: Okaa-san ni Chuu Shinasai
     author: kuruto
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654253.jpg
@@ -474,7 +488,7 @@ works:
   - title: Ie no Naka de Tachinbo suru Ane to Sore o Kau Otouto
     author: choco-hell
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/658748.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-17'
     code: 658748
     url: /works/658748/
@@ -647,7 +661,7 @@ works:
   - title: JK no Imouto no Furo Nozoki mashita - Hentai Aniki × Imouto
     author: iron-sugar
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/670708.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-17'
     code: 670708
     url: /works/670708/
@@ -1038,8 +1052,31 @@ works:
   - title: Otouto no Game-nou to Ane no Game-sei
     author: choco-hell
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681655.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-17'
     code: 681655
     url: /works/681655/
+  - title: oyako NTR fuuzoku | mother & daughter NTR prostitutes - MTL
+    author: yuuki-ringo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681844.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 681844
+    url: /works/681844/
+  - title: Tsuyokina kanojo wa nonoshiri nagara… NTR | The Assertive Girl Curses At
+      Me... NTR 1 - 6 + revenge chap_MTL
+    author: yuuki-ringo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681852.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 681852
+    url: /works/681852/
+  - title: Sanrou -Joukyuu Kokumin no Tsuma ni Tanetsuke Suru Houhou- "NTR" | ~How to
+      Impregnate the Wife of a High-Ranking Citizen~
+    author: yuuki-ringo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681856.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 681856
+    url: /works/681856/
 ---

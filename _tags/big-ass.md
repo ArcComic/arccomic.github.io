@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big ass"
-work_count: 149
+work_count: 152
 works:
   - title: My Care Lady Ch. 1
     author: sugi-g
@@ -44,7 +44,7 @@ works:
       Reason Why a German Girl Takes a Bath Together With Me on Her Homestay
     author: gentsuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/344322.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-17'
     code: 344322
     url: /works/344322/
@@ -362,6 +362,13 @@ works:
     date: '2026-04-27'
     code: 619405
     url: /works/619405/
+  - title: Countryside Married Women[Heartless _MTL] English
+    author: tadano-mezashi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/621436.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 621436
+    url: /works/621436/
   - title: The Story of How My Brain Was Destroyed After Dating Someone Who Would Grant
       Any Request
     author: jakky
@@ -1105,10 +1112,27 @@ works:
       That She's Grown-Up It Seems
     author: yabachorogi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681687.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-17'
     code: 681687
     url: /works/681687/
+  - title: Bocchi InCha na Kagemori-san Jitsu wa Hazukashigari no Dosukebe da to Shitteru
+      no wa Ore Hitori - I'm the only one that knows the class loner Kagemori is actually
+      a shy pervert | I’m the only one who knows that Kagemori-san—a loner and a wallflower—is
+      actually a shy, super-perverted girl.
+    author: ksyum
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681989.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 681989
+    url: /works/681989/
+  - title: Chibi Gal Marmalade
+    author: agetama
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681990.jpg
+    rating: 4.5
+    date: '2026-09-17'
+    code: 681990
+    url: /works/681990/
   - title: Inin Keiyaku | Lewd Pregnancy Contract
     author: yoshiura-kazuya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/83595.jpg

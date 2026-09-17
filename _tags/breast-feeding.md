@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "breast feeding"
-work_count: 61
+work_count: 62
 works:
   - title: Oppai na Natsuyasumi 2 | The Summer Break of Boobs 2
     author: higashino-mikan
@@ -474,4 +474,11 @@ works:
     date: '2026-09-16'
     code: 681510
     url: /works/681510/
+  - title: Kyou kara, Hitozuma Mansion ni Nyuukyo shimasu - CHAPTER 1-14
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681897.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 681897
+    url: /works/681897/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "oyakodon"
-work_count: 16
+work_count: 18
 works:
   - title: Bitch Mama no Kekkon Riyuu
     author: aoyama-akira
@@ -119,4 +119,18 @@ works:
     date: '2026-09-05'
     code: 678643
     url: /works/678643/
+  - title: oyako NTR fuuzoku | mother & daughter NTR prostitutes - MTL
+    author: yuuki-ringo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681844.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 681844
+    url: /works/681844/
+  - title: I'm going to impose on my friend's place...
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681991.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 681991
+    url: /works/681991/
 ---

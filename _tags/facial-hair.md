@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "facial hair"
-work_count: 22
+work_count: 24
 works:
   - title: Asuna-san ga Agil ni Netorareru Ohanashi
     author: fujimiya-siryu
@@ -85,6 +85,13 @@ works:
     date: '2026-02-26'
     code: 615775
     url: /works/615775/
+  - title: Countryside Married Women[Heartless _MTL] English
+    author: tadano-mezashi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/621436.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 621436
+    url: /works/621436/
   - title: Erufu (♀) no Bokensha ga Yadoya no Shujin ni Yobai&Tanetsuke Sareru Ohanashi
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/631719.jpg
@@ -166,4 +173,12 @@ works:
     date: '2026-09-16'
     code: 681445
     url: /works/681445/
+  - title: Tsuyokina kanojo wa nonoshiri nagara… NTR | The Assertive Girl Curses At
+      Me... NTR 1 - 6 + revenge chap_MTL
+    author: yuuki-ringo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681852.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 681852
+    url: /works/681852/
 ---

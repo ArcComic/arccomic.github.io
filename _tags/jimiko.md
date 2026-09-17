@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "jimiko"
-work_count: 11
+work_count: 12
 works:
   - title: Hito o Dame ni Suru Choi Busu ~Kao 40-ten, Karada 120-ten no Kanojo~
     author: special-g
@@ -19,6 +19,13 @@ works:
     date: '2026-09-07'
     code: 482560
     url: /works/482560/
+  - title: Toilet no Jimiko-san
+    author: darezuka
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/504913.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 504913
+    url: /works/504913/
   - title: Jimi Kyonyuu No Stalker Onna Ni Gokuhaku Saretanode Yarimakutte Mita Hanashi
       | I Was Confessed To By A Plain Busty Stalker Girl, So I Fucked Her Like Crazy
     author: hiyori-hamster

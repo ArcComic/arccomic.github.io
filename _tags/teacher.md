@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "teacher"
-work_count: 64
+work_count: 66
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -469,6 +469,21 @@ works:
     date: '2026-09-16'
     code: 681510
     url: /works/681510/
+  - title: Tsuyokina kanojo wa nonoshiri nagara… NTR | The Assertive Girl Curses At
+      Me... NTR 1 - 6 + revenge chap_MTL
+    author: yuuki-ringo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681852.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 681852
+    url: /works/681852/
+  - title: Sex Education Promotion Policy 01
+    author: babi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681987.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 681987
+    url: /works/681987/
   - title: Jokyoushi - Hot For Teachers | Female Teachers
     author: drill-murata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/81375.jpg

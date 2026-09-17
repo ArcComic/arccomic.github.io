@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "netorare"
-work_count: 279
+work_count: 282
 works:
   - title: Hitozuma Hyakka
     author: hase-tsubura
@@ -333,7 +333,7 @@ works:
   - title: BariCare Kaa-san ga DQN ni Netorareta Vol.1
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/470682.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-17'
     code: 470682
     url: /works/470682/
@@ -922,6 +922,13 @@ works:
     date: '2026-04-27'
     code: 618562
     url: /works/618562/
+  - title: Countryside Married Women[Heartless _MTL] English
+    author: tadano-mezashi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/621436.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 621436
+    url: /works/621436/
   - title: The Story of How My Brain Was Destroyed After Dating Someone Who Would Grant
       Any Request
     author: jakky
@@ -2039,24 +2046,39 @@ works:
       2
     author: jin
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681720.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-17'
     code: 681720
     url: /works/681720/
   - title: Under Maternal Love 1-18
     author: midnight
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681724.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-17'
     code: 681724
     url: /works/681724/
   - title: Mejiro Ardan NTR
     author: yasaka
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681759.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-17'
     code: 681759
     url: /works/681759/
+  - title: Shinkou X Haha | Faith X Mama
+    author: sanatuki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681851.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 681851
+    url: /works/681851/
+  - title: Tsuyokina kanojo wa nonoshiri nagara… NTR | The Assertive Girl Curses At
+      Me... NTR 1 - 6 + revenge chap_MTL
+    author: yuuki-ringo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681852.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 681852
+    url: /works/681852/
   - title: Inin Keiyaku | Lewd Pregnancy Contract
     author: yoshiura-kazuya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/83595.jpg

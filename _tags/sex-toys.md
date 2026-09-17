@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sex toys"
-work_count: 85
+work_count: 87
 works:
   - title: Ayami Hypno
     author: yasuhiro
@@ -628,4 +628,18 @@ works:
     date: '2026-09-17'
     code: 681683
     url: /works/681683/
+  - title: Shinkou X Haha | Faith X Mama
+    author: sanatuki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681851.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 681851
+    url: /works/681851/
+  - title: Kyou kara, Hitozuma Mansion ni Nyuukyo shimasu - CHAPTER 1-14
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681897.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 681897
+    url: /works/681897/
 ---

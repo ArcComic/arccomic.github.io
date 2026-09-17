@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big penis"
-work_count: 139
+work_count: 141
 works:
   - title: Tsuma no Imouto no Danna ga Ie ni Kiteiruyoudesu | My Sister-In-Law's Husband
       is Over
@@ -132,7 +132,7 @@ works:
   - title: A tale of an Elf adventurer (♀) being visited at night and bred by an innkeeper
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/526619.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-17'
     code: 526619
     url: /works/526619/
@@ -1041,8 +1041,22 @@ works:
       That She's Grown-Up It Seems
     author: yabachorogi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681687.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-17'
     code: 681687
     url: /works/681687/
+  - title: The Nun Who tricks her Sibling
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681899.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 681899
+    url: /works/681899/
+  - title: I'm going to impose on my friend's place...
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681991.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 681991
+    url: /works/681991/
 ---

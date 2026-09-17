@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "cheating"
-work_count: 244
+work_count: 247
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -959,6 +959,13 @@ works:
     date: '2026-09-10'
     code: 618088
     url: /works/618088/
+  - title: Countryside Married Women[Heartless _MTL] English
+    author: tadano-mezashi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/621436.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 621436
+    url: /works/621436/
   - title: 'Taihai Tsuma: Taihaikei Hitotsuma o Yachin Kawari ni Koki Tsukaeru Hanashi
       | Slutty Wife!'
     author: kametaro
@@ -1791,6 +1798,20 @@ works:
     date: '2026-09-16'
     code: 681510
     url: /works/681510/
+  - title: Shinkou X Haha | Faith X Mama
+    author: sanatuki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681851.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 681851
+    url: /works/681851/
+  - title: Kyou kara, Hitozuma Mansion ni Nyuukyo shimasu - CHAPTER 1-14
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681897.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 681897
+    url: /works/681897/
   - title: Jokyoushi - Hot For Teachers | Female Teachers
     author: drill-murata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/81375.jpg

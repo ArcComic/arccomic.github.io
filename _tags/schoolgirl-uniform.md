@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "schoolgirl uniform"
-work_count: 225
+work_count: 230
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -251,6 +251,13 @@ works:
     date: '2026-09-12'
     code: 494757
     url: /works/494757/
+  - title: Toilet no Jimiko-san
+    author: darezuka
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/504913.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 504913
+    url: /works/504913/
   - title: Do-S Yankee JK to Do-M Hentai Teacher
     author: naganeko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/512715.jpg
@@ -1115,7 +1122,7 @@ works:
   - title: Ie no Naka de Tachinbo suru Ane to Sore o Kau Otouto
     author: choco-hell
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/658748.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-17'
     code: 658748
     url: /works/658748/
@@ -1668,8 +1675,40 @@ works:
   - title: Seifuku Fella Zanmai Vol. 2
     author: uniman
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681699.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-17'
     code: 681699
     url: /works/681699/
+  - title: Muryou Manko Joshi Kousei Sayaka-chan
+    author: '319'
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681775.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 681775
+    url: /works/681775/
+  - title: Tsuyokina kanojo wa nonoshiri nagara… NTR | The Assertive Girl Curses At
+      Me... NTR 1 - 6 + revenge chap_MTL
+    author: yuuki-ringo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681852.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 681852
+    url: /works/681852/
+  - title: Ichinichi Kanojo | Girlfriend for a Day
+    author: drasdr7513
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681890.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 681890
+    url: /works/681890/
+  - title: Bocchi InCha na Kagemori-san Jitsu wa Hazukashigari no Dosukebe da to Shitteru
+      no wa Ore Hitori - I'm the only one that knows the class loner Kagemori is actually
+      a shy pervert | I’m the only one who knows that Kagemori-san—a loner and a wallflower—is
+      actually a shy, super-perverted girl.
+    author: ksyum
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681989.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 681989
+    url: /works/681989/
 ---

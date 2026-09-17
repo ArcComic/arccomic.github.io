@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole male"
-work_count: 623
+work_count: 630
 works:
   - title: Adoration
     author: kishizuka-kenji
@@ -214,7 +214,7 @@ works:
       Reason Why a German Girl Takes a Bath Together With Me on Her Homestay
     author: gentsuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/344322.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-17'
     code: 344322
     url: /works/344322/
@@ -411,7 +411,7 @@ works:
       and I Became Sex Friends With Benefits
     author: iron-sugar
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/404719.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-17'
     code: 404719
     url: /works/404719/
@@ -600,6 +600,13 @@ works:
     date: '2026-03-03'
     code: 445018
     url: /works/445018/
+  - title: Hypnosis Session Gone Sexual!
+    author: okumori-boy
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/445629.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 445629
+    url: /works/445629/
   - title: Itabasami na Wakachi Ai 4 | Love Divided Between a Rock and a Hard Place
       4
     author: group
@@ -671,7 +678,7 @@ works:
   - title: BariCare Kaa-san ga DQN ni Netorareta Vol.1
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/470682.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-17'
     code: 470682
     url: /works/470682/
@@ -955,7 +962,7 @@ works:
   - title: A tale of an Elf adventurer (♀) being visited at night and bred by an innkeeper
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/526619.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-17'
     code: 526619
     url: /works/526619/
@@ -2348,7 +2355,7 @@ works:
   - title: Phaethon no Kinsaku AV Satsuei | Phaethons' Cash Grab AV Shoot
     author: sukoyakagumi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642563.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-17'
     code: 642563
     url: /works/642563/
@@ -2507,6 +2514,13 @@ works:
     date: '2026-04-17'
     code: 644309
     url: /works/644309/
+  - title: Menhera Collection Black
+    author: microa
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/644528.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 644528
+    url: /works/644528/
   - title: Delusion story book
     author: madarame-rin
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/644810.jpg
@@ -3260,7 +3274,7 @@ works:
   - title: Ie no Naka de Tachinbo suru Ane to Sore o Kau Otouto
     author: choco-hell
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/658748.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-17'
     code: 658748
     url: /works/658748/
@@ -4609,14 +4623,14 @@ works:
   - title: Otouto no Game-nou to Ane no Game-sei
     author: choco-hell
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681655.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-17'
     code: 681655
     url: /works/681655/
   - title: My Neighbor Is Too Loud!
     author: mojarin
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681672.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-17'
     code: 681672
     url: /works/681672/
@@ -4624,8 +4638,47 @@ works:
       That She's Grown-Up It Seems
     author: yabachorogi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681687.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-17'
     code: 681687
     url: /works/681687/
+  - title: Muryou Manko Joshi Kousei Sayaka-chan
+    author: '319'
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681775.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 681775
+    url: /works/681775/
+  - title: Hiyoko-san wa Sewazuki 2
+    author: maeda-momo-momozumi-jun
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681881.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 681881
+    url: /works/681881/
+  - title: I Put Up With My Bullying Boss Because Her Pussy Is All Mine -- PoweHara
+      Onna Joushi! Omae no Omanko no Aji o Boku wa Shitteruzo!
+    author: chotto-b-sen
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681986.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 681986
+    url: /works/681986/
+  - title: Bocchi InCha na Kagemori-san Jitsu wa Hazukashigari no Dosukebe da to Shitteru
+      no wa Ore Hitori - I'm the only one that knows the class loner Kagemori is actually
+      a shy pervert | I’m the only one who knows that Kagemori-san—a loner and a wallflower—is
+      actually a shy, super-perverted girl.
+    author: ksyum
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681989.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 681989
+    url: /works/681989/
+  - title: Chibi Gal Marmalade
+    author: agetama
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681990.jpg
+    rating: 4.5
+    date: '2026-09-17'
+    code: 681990
+    url: /works/681990/
 ---

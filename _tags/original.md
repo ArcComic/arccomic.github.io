@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "original"
-work_count: 764
+work_count: 779
 works:
   - title: Natsu dake Koibito - Summer only Lover [English] =Forbidden Fetish + Ser
       Maggot=
@@ -123,7 +123,7 @@ works:
       Reason Why a German Girl Takes a Bath Together With Me on Her Homestay
     author: gentsuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/344322.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-17'
     code: 344322
     url: /works/344322/
@@ -328,7 +328,7 @@ works:
       and I Became Sex Friends With Benefits
     author: iron-sugar
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/404719.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-17'
     code: 404719
     url: /works/404719/
@@ -518,6 +518,13 @@ works:
     date: '2026-08-24'
     code: 444152
     url: /works/444152/
+  - title: Hypnosis Session Gone Sexual!
+    author: okumori-boy
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/445629.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 445629
+    url: /works/445629/
   - title: Ladies Night
     author: mr-kurz
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/446018.jpg
@@ -626,7 +633,7 @@ works:
   - title: BariCare Kaa-san ga DQN ni Netorareta Vol.1
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/470682.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-17'
     code: 470682
     url: /works/470682/
@@ -774,7 +781,7 @@ works:
   - title: Aqua Wing ~The man who switched bodies with an idol~
     author: touchuu-kasou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/498908.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-17'
     code: 498908
     url: /works/498908/
@@ -807,6 +814,13 @@ works:
     date: '2026-08-18'
     code: 504436
     url: /works/504436/
+  - title: Toilet no Jimiko-san
+    author: darezuka
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/504913.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 504913
+    url: /works/504913/
   - title: Pirin The Prostitute
     author: arukaniko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/505174.jpg
@@ -1004,7 +1018,7 @@ works:
   - title: A tale of an Elf adventurer (♀) being visited at night and bred by an innkeeper
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/526619.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-17'
     code: 526619
     url: /works/526619/
@@ -2858,6 +2872,13 @@ works:
     date: '2026-07-06'
     code: 644296
     url: /works/644296/
+  - title: Menhera Collection Black
+    author: microa
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/644528.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 644528
+    url: /works/644528/
   - title: Delusion story book
     author: madarame-rin
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/644810.jpg
@@ -3577,6 +3598,13 @@ works:
     date: '2026-09-11'
     code: 654091
     url: /works/654091/
+  - title: Until I Take Everything From You 4
+    author: takotokite
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654249.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 654249
+    url: /works/654249/
   - title: Okaa-san ni Chuu Shinasai
     author: kuruto
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654253.jpg
@@ -3797,7 +3825,7 @@ works:
   - title: Ie no Naka de Tachinbo suru Ane to Sore o Kau Otouto
     author: choco-hell
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/658748.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-17'
     code: 658748
     url: /works/658748/
@@ -4440,7 +4468,7 @@ works:
   - title: JK no Imouto no Furo Nozoki mashita - Hentai Aniki × Imouto
     author: iron-sugar
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/670708.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-17'
     code: 670708
     url: /works/670708/
@@ -5646,7 +5674,7 @@ works:
   - title: Otouto no Game-nou to Ane no Game-sei
     author: choco-hell
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681655.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-17'
     code: 681655
     url: /works/681655/
@@ -5654,22 +5682,105 @@ works:
       That She's Grown-Up It Seems
     author: yabachorogi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681687.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-17'
     code: 681687
     url: /works/681687/
   - title: Seifuku Fella Zanmai Vol. 2
     author: uniman
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681699.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-17'
     code: 681699
     url: /works/681699/
   - title: Under Maternal Love 1-18
     author: midnight
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681724.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-17'
     code: 681724
     url: /works/681724/
+  - title: Muryou Manko Joshi Kousei Sayaka-chan
+    author: '319'
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681775.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 681775
+    url: /works/681775/
+  - title: oyako NTR fuuzoku | mother & daughter NTR prostitutes - MTL
+    author: yuuki-ringo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681844.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 681844
+    url: /works/681844/
+  - title: Tsuyokina kanojo wa nonoshiri nagara… NTR | The Assertive Girl Curses At
+      Me... NTR 1 - 6 + revenge chap_MTL
+    author: yuuki-ringo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681852.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 681852
+    url: /works/681852/
+  - title: Sanrou -Joukyuu Kokumin no Tsuma ni Tanetsuke Suru Houhou- "NTR" | ~How to
+      Impregnate the Wife of a High-Ranking Citizen~
+    author: yuuki-ringo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681856.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 681856
+    url: /works/681856/
+  - title: Hiyoko-san wa Sewazuki 2
+    author: maeda-momo-momozumi-jun
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681881.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 681881
+    url: /works/681881/
+  - title: The Nun Who tricks her Sibling
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681899.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 681899
+    url: /works/681899/
+  - title: I Put Up With My Bullying Boss Because Her Pussy Is All Mine -- PoweHara
+      Onna Joushi! Omae no Omanko no Aji o Boku wa Shitteruzo!
+    author: chotto-b-sen
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681986.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 681986
+    url: /works/681986/
+  - title: Sex Education Promotion Policy 01
+    author: babi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681987.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 681987
+    url: /works/681987/
+  - title: Bocchi InCha na Kagemori-san Jitsu wa Hazukashigari no Dosukebe da to Shitteru
+      no wa Ore Hitori - I'm the only one that knows the class loner Kagemori is actually
+      a shy pervert | I’m the only one who knows that Kagemori-san—a loner and a wallflower—is
+      actually a shy, super-perverted girl.
+    author: ksyum
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681989.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 681989
+    url: /works/681989/
+  - title: Chibi Gal Marmalade
+    author: agetama
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681990.jpg
+    rating: 4.5
+    date: '2026-09-17'
+    code: 681990
+    url: /works/681990/
+  - title: I'm going to impose on my friend's place...
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681991.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 681991
+    url: /works/681991/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "exhibitionism"
-work_count: 53
+work_count: 54
 works:
   - title: Watashi-tachi no Seikoui Tokubetsu Jisshuu -Zengi Hen-
     author: guglielmo
@@ -395,4 +395,11 @@ works:
     date: '2026-09-11'
     code: 679591
     url: /works/679591/
+  - title: Kyou kara, Hitozuma Mansion ni Nyuukyo shimasu - CHAPTER 1-14
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681897.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 681897
+    url: /works/681897/
 ---

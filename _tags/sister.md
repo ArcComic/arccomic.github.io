@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sister"
-work_count: 66
+work_count: 67
 works:
   - title: Onee-chan ga Ecchi na Koto bakka Suru kara... | My older sister only does
       obscene things...
@@ -29,7 +29,7 @@ works:
       and I Became Sex Friends With Benefits
     author: iron-sugar
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/404719.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-17'
     code: 404719
     url: /works/404719/
@@ -201,7 +201,7 @@ works:
   - title: Phaethon no Kinsaku AV Satsuei | Phaethons' Cash Grab AV Shoot
     author: sukoyakagumi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642563.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-17'
     code: 642563
     url: /works/642563/
@@ -303,7 +303,7 @@ works:
   - title: Ie no Naka de Tachinbo suru Ane to Sore o Kau Otouto
     author: choco-hell
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/658748.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-17'
     code: 658748
     url: /works/658748/
@@ -347,7 +347,7 @@ works:
   - title: JK no Imouto no Furo Nozoki mashita - Hentai Aniki × Imouto
     author: iron-sugar
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/670708.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-17'
     code: 670708
     url: /works/670708/
@@ -468,7 +468,7 @@ works:
   - title: Otouto no Game-nou to Ane no Game-sei
     author: choco-hell
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681655.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-17'
     code: 681655
     url: /works/681655/
@@ -476,10 +476,17 @@ works:
       That She's Grown-Up It Seems
     author: yabachorogi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681687.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-17'
     code: 681687
     url: /works/681687/
+  - title: The Nun Who tricks her Sibling
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681899.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 681899
+    url: /works/681899/
   - title: Onee-chan no SM Kouza | Onee-chan's S&M Lecture
     author: shinooka-homare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/88750.jpg

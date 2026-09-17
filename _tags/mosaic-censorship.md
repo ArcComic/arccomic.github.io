@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "mosaic censorship"
-work_count: 227
+work_count: 230
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -167,7 +167,7 @@ works:
       and I Became Sex Friends With Benefits
     author: iron-sugar
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/404719.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-17'
     code: 404719
     url: /works/404719/
@@ -285,7 +285,7 @@ works:
   - title: BariCare Kaa-san ga DQN ni Netorareta Vol.1
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/470682.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-17'
     code: 470682
     url: /works/470682/
@@ -466,7 +466,7 @@ works:
   - title: A tale of an Elf adventurer (♀) being visited at night and bred by an innkeeper
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/526619.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-17'
     code: 526619
     url: /works/526619/
@@ -1262,7 +1262,7 @@ works:
   - title: Ie no Naka de Tachinbo suru Ane to Sore o Kau Otouto
     author: choco-hell
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/658748.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-17'
     code: 658748
     url: /works/658748/
@@ -1440,7 +1440,7 @@ works:
   - title: JK no Imouto no Furo Nozoki mashita - Hentai Aniki × Imouto
     author: iron-sugar
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/670708.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-17'
     code: 670708
     url: /works/670708/
@@ -1656,8 +1656,30 @@ works:
   - title: Otouto no Game-nou to Ane no Game-sei
     author: choco-hell
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681655.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-17'
     code: 681655
     url: /works/681655/
+  - title: Muryou Manko Joshi Kousei Sayaka-chan
+    author: '319'
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681775.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 681775
+    url: /works/681775/
+  - title: The Nun Who tricks her Sibling
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681899.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 681899
+    url: /works/681899/
+  - title: I Put Up With My Bullying Boss Because Her Pussy Is All Mine -- PoweHara
+      Onna Joushi! Omae no Omanko no Aji o Boku wa Shitteruzo!
+    author: chotto-b-sen
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681986.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 681986
+    url: /works/681986/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "group"
-work_count: 161
+work_count: 162
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -1181,8 +1181,15 @@ works:
       2
     author: jin
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681720.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-17'
     code: 681720
     url: /works/681720/
+  - title: I'm going to impose on my friend's place...
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681991.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 681991
+    url: /works/681991/
 ---

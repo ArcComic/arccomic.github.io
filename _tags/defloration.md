@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "defloration"
-work_count: 170
+work_count: 172
 works:
   - title: Love Approach
     author: hanafuda-sakurano
@@ -50,7 +50,7 @@ works:
       Reason Why a German Girl Takes a Bath Together With Me on Her Homestay
     author: gentsuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/344322.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-17'
     code: 344322
     url: /works/344322/
@@ -138,7 +138,7 @@ works:
       and I Became Sex Friends With Benefits
     author: iron-sugar
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/404719.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-17'
     code: 404719
     url: /works/404719/
@@ -299,7 +299,7 @@ works:
   - title: A tale of an Elf adventurer (♀) being visited at night and bred by an innkeeper
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/526619.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-17'
     code: 526619
     url: /works/526619/
@@ -1258,8 +1258,25 @@ works:
       That She's Grown-Up It Seems
     author: yabachorogi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681687.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-17'
     code: 681687
     url: /works/681687/
+  - title: The Nun Who tricks her Sibling
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681899.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 681899
+    url: /works/681899/
+  - title: Bocchi InCha na Kagemori-san Jitsu wa Hazukashigari no Dosukebe da to Shitteru
+      no wa Ore Hitori - I'm the only one that knows the class loner Kagemori is actually
+      a shy pervert | I’m the only one who knows that Kagemori-san—a loner and a wallflower—is
+      actually a shy, super-perverted girl.
+    author: ksyum
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681989.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 681989
+    url: /works/681989/
 ---

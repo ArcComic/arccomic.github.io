@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "smalldom"
-work_count: 23
+work_count: 24
 works:
   - title: Uwa, Mesugaki Tsuyoi! | Crap, This Mesugaki's Too Powerful!
     author: poncocchan
@@ -171,4 +171,11 @@ works:
     date: '2026-09-10'
     code: 679942
     url: /works/679942/
+  - title: Shinkou X Haha | Faith X Mama
+    author: sanatuki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681851.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 681851
+    url: /works/681851/
 ---

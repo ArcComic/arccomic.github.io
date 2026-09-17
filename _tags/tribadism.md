@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "tribadism"
-work_count: 9
+work_count: 10
 works:
   - title: Gekkoutou no Yume - Nyotaika Douwa ~Danshi Kinsei no Tou~
     author: mugen-no-sudadokei
@@ -69,4 +69,11 @@ works:
     date: '2026-09-09'
     code: 679890
     url: /works/679890/
+  - title: Ichinichi Kanojo | Girlfriend for a Day
+    author: drasdr7513
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681890.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 681890
+    url: /works/681890/
 ---

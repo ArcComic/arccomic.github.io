@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "painted nails"
-work_count: 26
+work_count: 28
 works:
   - title: Rakki Taishyaku
     author: fushoku
@@ -119,6 +119,13 @@ works:
     date: '2026-04-12'
     code: 643397
     url: /works/643397/
+  - title: Menhera Collection Black
+    author: microa
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/644528.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 644528
+    url: /works/644528/
   - title: Onna Tomodachi no Uwaki Kokuhaku 2 | My Friend Confessed to Cheating 2
     author: dekamatsu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/647270.jpg
@@ -196,4 +203,11 @@ works:
     date: '2026-09-15'
     code: 681329
     url: /works/681329/
+  - title: Chibi Gal Marmalade
+    author: agetama
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681990.jpg
+    rating: 4.5
+    date: '2026-09-17'
+    code: 681990
+    url: /works/681990/
 ---

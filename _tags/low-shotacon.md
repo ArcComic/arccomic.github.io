@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "low shotacon"
-work_count: 5
+work_count: 6
 works:
   - title: LOOK LIKE
     author: terasu-mc
@@ -39,4 +39,11 @@ works:
     date: '2026-05-20'
     code: 651346
     url: /works/651346/
+  - title: Shinkou X Haha | Faith X Mama
+    author: sanatuki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681851.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 681851
+    url: /works/681851/
 ---

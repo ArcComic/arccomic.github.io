@@ -1,7 +1,7 @@
 ---
 layout: artist
 artist_name: "group"
-work_count: 22
+work_count: 23
 works:
   - title: Itabasami na Wakachi Ai 4 | Love Divided Between a Rock and a Hard Place
       4
@@ -143,4 +143,10 @@ works:
     date: '2026-09-12'
     code: 680735
     url: /works/680735/
+  - title: I'm going to impose on my friend's place...
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681991.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 681991
+    url: /works/681991/
 ---

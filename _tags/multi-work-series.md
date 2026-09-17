@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "multi-work series"
-work_count: 259
+work_count: 264
 works:
   - title: Oppai na Natsuyasumi 2 | The Summer Break of Boobs 2
     author: higashino-mikan
@@ -133,6 +133,13 @@ works:
     date: '2026-04-23'
     code: 435832
     url: /works/435832/
+  - title: Hypnosis Session Gone Sexual!
+    author: okumori-boy
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/445629.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 445629
+    url: /works/445629/
   - title: Itabasami na Wakachi Ai 4 | Love Divided Between a Rock and a Hard Place
       4
     author: group
@@ -180,7 +187,7 @@ works:
   - title: BariCare Kaa-san ga DQN ni Netorareta Vol.1
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/470682.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-17'
     code: 470682
     url: /works/470682/
@@ -1326,6 +1333,13 @@ works:
     date: '2026-05-27'
     code: 652836
     url: /works/652836/
+  - title: Until I Take Everything From You 4
+    author: takotokite
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654249.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 654249
+    url: /works/654249/
   - title: Tonari no Ayane-san Soushuuhen | My Neighbor Ayane Anthology
     author: herio
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/656319.jpg
@@ -1938,8 +1952,30 @@ works:
   - title: Under Maternal Love 1-18
     author: midnight
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681724.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-17'
     code: 681724
     url: /works/681724/
+  - title: Sanrou -Joukyuu Kokumin no Tsuma ni Tanetsuke Suru Houhou- "NTR" | ~How to
+      Impregnate the Wife of a High-Ranking Citizen~
+    author: yuuki-ringo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681856.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 681856
+    url: /works/681856/
+  - title: Hiyoko-san wa Sewazuki 2
+    author: maeda-momo-momozumi-jun
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681881.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 681881
+    url: /works/681881/
+  - title: Sex Education Promotion Policy 01
+    author: babi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681987.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 681987
+    url: /works/681987/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "business suit"
-work_count: 68
+work_count: 69
 works:
   - title: Kaisha de Iroiro | Gettin' Busy at the Office
     author: hara-shigeyuki
@@ -175,7 +175,7 @@ works:
   - title: BariCare Kaa-san ga DQN ni Netorareta Vol.1
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/470682.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-17'
     code: 470682
     url: /works/470682/
@@ -495,6 +495,14 @@ works:
     date: '2026-09-16'
     code: 681503
     url: /works/681503/
+  - title: I Put Up With My Bullying Boss Because Her Pussy Is All Mine -- PoweHara
+      Onna Joushi! Omae no Omanko no Aji o Boku wa Shitteruzo!
+    author: chotto-b-sen
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681986.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 681986
+    url: /works/681986/
   - title: Hottokenaino
     author: hara-shigeyuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/77864.jpg

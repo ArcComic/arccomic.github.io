@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "collar"
-work_count: 55
+work_count: 57
 works:
   - title: Kaisha de Iroiro | Gettin' Busy at the Office
     author: hara-shigeyuki
@@ -214,6 +214,13 @@ works:
     date: '2026-04-12'
     code: 643375
     url: /works/643375/
+  - title: Menhera Collection Black
+    author: microa
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/644528.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 644528
+    url: /works/644528/
   - title: Oji Saimin Soushuuhen | Hypnotized Uncle Compilation Edition
     author: tokomaya-keita
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/645612.jpg
@@ -410,4 +417,11 @@ works:
     date: '2026-09-13'
     code: 680720
     url: /works/680720/
+  - title: I'm going to impose on my friend's place...
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681991.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 681991
+    url: /works/681991/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "gyaru"
-work_count: 77
+work_count: 78
 works:
   - title: GalPa!
     author: sakagami-umi
@@ -574,8 +574,15 @@ works:
   - title: Seifuku Fella Zanmai Vol. 2
     author: uniman
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681699.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-17'
     code: 681699
     url: /works/681699/
+  - title: Chibi Gal Marmalade
+    author: agetama
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681990.jpg
+    rating: 4.5
+    date: '2026-09-17'
+    code: 681990
+    url: /works/681990/
 ---

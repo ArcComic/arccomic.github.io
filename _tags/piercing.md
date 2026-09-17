@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "piercing"
-work_count: 26
+work_count: 28
 works:
   - title: Mecha Eroi kedo Sasoi ni Nottara Hametsushisou na Ko | A Girl Who Is Very
       Sexy But Will Ruin Me If I Ask Her Out
@@ -91,6 +91,13 @@ works:
     date: '2026-04-11'
     code: 643193
     url: /works/643193/
+  - title: Menhera Collection Black
+    author: microa
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/644528.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 644528
+    url: /works/644528/
   - title: Netorase Club 2 Anal Name no Tensai to Fellatio no Tensai | Netorase Club
       2 The Genius of Rimjob and The Genius of Blowjob
     author: oosawara-sadao
@@ -191,8 +198,15 @@ works:
   - title: Seifuku Fella Zanmai Vol. 2
     author: uniman
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681699.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-17'
     code: 681699
     url: /works/681699/
+  - title: Shinkou X Haha | Faith X Mama
+    author: sanatuki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681851.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 681851
+    url: /works/681851/
 ---

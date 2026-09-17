@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "ponytail"
-work_count: 119
+work_count: 121
 works:
   - title: Hikki Mother Fucker
     author: otochichi
@@ -425,6 +425,13 @@ works:
     date: '2026-07-06'
     code: 644296
     url: /works/644296/
+  - title: Menhera Collection Black
+    author: microa
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/644528.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 644528
+    url: /works/644528/
   - title: Ecchi na Onee-san-tachi ni Onsenyado de Hokakusareta Ken
     author: ishigaki-takashi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/644924.jpg
@@ -870,15 +877,22 @@ works:
   - title: Otouto no Game-nou to Ane no Game-sei
     author: choco-hell
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681655.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-17'
     code: 681655
     url: /works/681655/
   - title: My Neighbor Is Too Loud!
     author: mojarin
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681672.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-17'
     code: 681672
     url: /works/681672/
+  - title: Sex Education Promotion Policy 01
+    author: babi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681987.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 681987
+    url: /works/681987/
 ---

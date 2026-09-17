@@ -1,7 +1,7 @@
 ---
 layout: artist
 artist_name: "chotto-b-sen"
-work_count: 8
+work_count: 9
 works:
   - title: What would happen if you said "Let's have sex." while your teacher was scolding
       you?
@@ -56,4 +56,11 @@ works:
     date: '2026-09-09'
     code: 679856
     url: /works/679856/
+  - title: I Put Up With My Bullying Boss Because Her Pussy Is All Mine -- PoweHara
+      Onna Joushi! Omae no Omanko no Aji o Boku wa Shitteruzo!
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681986.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 681986
+    url: /works/681986/
 ---

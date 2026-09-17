@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "fishnets"
-work_count: 7
+work_count: 9
 works:
   - title: Cocoa-chan no Jiraikei Chuuihou
     author: uni-toshiki
@@ -24,6 +24,13 @@ works:
     date: '2026-08-25'
     code: 613739
     url: /works/613739/
+  - title: Menhera Collection Black
+    author: microa
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/644528.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 644528
+    url: /works/644528/
   - title: 'Hyakka Yuran - Sakura | Encyclopedia: Yu-Chan''s Cherry Blossoms'
     author: ueto-seri-ueto-ruri
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/664642.jpg
@@ -53,4 +60,11 @@ works:
     date: '2026-09-11'
     code: 679579
     url: /works/679579/
+  - title: Chibi Gal Marmalade
+    author: agetama
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681990.jpg
+    rating: 4.5
+    date: '2026-09-17'
+    code: 681990
+    url: /works/681990/
 ---

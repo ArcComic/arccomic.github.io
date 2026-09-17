@@ -164,7 +164,7 @@ works:
   - title: BariCare Kaa-san ga DQN ni Netorareta Vol.1
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/470682.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-17'
     code: 470682
     url: /works/470682/
@@ -204,7 +204,7 @@ works:
   - title: A tale of an Elf adventurer (♀) being visited at night and bred by an innkeeper
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/526619.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-17'
     code: 526619
     url: /works/526619/
@@ -703,7 +703,7 @@ works:
   - title: My Neighbor Is Too Loud!
     author: mojarin
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681672.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-17'
     code: 681672
     url: /works/681672/
@@ -711,7 +711,7 @@ works:
       2
     author: jin
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681720.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-17'
     code: 681720
     url: /works/681720/

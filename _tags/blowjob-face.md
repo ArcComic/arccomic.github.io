@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "blowjob face"
-work_count: 42
+work_count: 44
 works:
   - title: Hikki Mother Fucker
     author: otochichi
@@ -49,6 +49,13 @@ works:
     date: '2026-04-23'
     code: 448503
     url: /works/448503/
+  - title: Toilet no Jimiko-san
+    author: darezuka
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/504913.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 504913
+    url: /works/504913/
   - title: Youka-go Tsuma no Haha o Daku | Eight Days With My Wife's Mother
     author: jagaimo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/534808.jpg
@@ -318,4 +325,11 @@ works:
     date: '2026-09-13'
     code: 681004
     url: /works/681004/
+  - title: The Nun Who tricks her Sibling
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681899.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 681899
+    url: /works/681899/
 ---

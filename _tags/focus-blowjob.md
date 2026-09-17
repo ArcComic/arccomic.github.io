@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "focus blowjob"
-work_count: 6
+work_count: 7
 works:
+  - title: Toilet no Jimiko-san
+    author: darezuka
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/504913.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 504913
+    url: /works/504913/
   - title: 'Mother and Child Living Together Chapter 2 : Puberty'
     author: fuwatoro-opanchu-cake
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/616170.jpg
@@ -43,7 +50,7 @@ works:
   - title: Seifuku Fella Zanmai Vol. 2
     author: uniman
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681699.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-17'
     code: 681699
     url: /works/681699/

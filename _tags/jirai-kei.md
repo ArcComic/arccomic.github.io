@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "jirai kei"
-work_count: 3
+work_count: 4
 works:
   - title: Mecha Eroi kedo Sasoi ni Nottara Hametsushisou na Ko | A Girl Who Is Very
       Sexy But Will Ruin Me If I Ask Her Out
@@ -19,6 +19,13 @@ works:
     date: '2026-09-09'
     code: 604569
     url: /works/604569/
+  - title: Menhera Collection Black
+    author: microa
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/644528.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 644528
+    url: /works/644528/
   - title: 'Jirai Inu-kei Kanojo #Kimi to Tsunagaritai Jirai de Inukei de Juujun na
       Kimi dake no Pet | Jirai-kei Puppy Girlfriend'
     author: shimofuji-jun

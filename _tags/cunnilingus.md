@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "cunnilingus"
-work_count: 118
+work_count: 120
 works:
   - title: Love Approach
     author: hanafuda-sakurano
@@ -877,4 +877,18 @@ works:
     date: '2026-09-16'
     code: 681496
     url: /works/681496/
+  - title: Ichinichi Kanojo | Girlfriend for a Day
+    author: drasdr7513
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681890.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 681890
+    url: /works/681890/
+  - title: Kyou kara, Hitozuma Mansion ni Nyuukyo shimasu - CHAPTER 1-14
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681897.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 681897
+    url: /works/681897/
 ---

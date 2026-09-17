@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "females only"
-work_count: 23
+work_count: 24
 works:
   - title: Hyoui Osen de Yuri Ecchi | Lesbian Sex through Corrupting Possession
     author: siina-yuuki
@@ -168,4 +168,11 @@ works:
     date: '2026-09-10'
     code: 680088
     url: /works/680088/
+  - title: Ichinichi Kanojo | Girlfriend for a Day
+    author: drasdr7513
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681890.jpg
+    rating: 0.0
+    date: '2026-09-17'
+    code: 681890
+    url: /works/681890/
 ---
