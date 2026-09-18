@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "crossdressing"
-work_count: 15
+work_count: 16
 works:
   - title: Sekai ga Heiwa ni Natta node Yuusha (Jitsu wa ♀) ni Kyuukon Shita Kekka |
       Marriage Proposal to the Hero (Actually ♀) When the World Is at Peace
@@ -114,4 +114,11 @@ works:
     date: '2026-09-11'
     code: 680171
     url: /works/680171/
+  - title: Problem
+    author: shinjima-saki-masaki-shinji
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682200.jpg
+    rating: 4.1
+    date: '2026-09-18'
+    code: 682200
+    url: /works/682200/
 ---

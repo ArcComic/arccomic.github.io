@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "painted nails"
-work_count: 28
+work_count: 29
 works:
   - title: Rakki Taishyaku
     author: fushoku
@@ -81,6 +81,13 @@ works:
     date: '2026-04-27'
     code: 606166
     url: /works/606166/
+  - title: Zako Manko SeFri no Kurosaki-san
+    author: uni-toshiki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/606170.jpg
+    rating: 0.0
+    date: '2026-09-18'
+    code: 606170
+    url: /works/606170/
   - title: Sono Gal Mama wa Koubi Suru | This Gyaru Mom is Having Sex.
     author: ameto-yuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/608648.jpg
@@ -122,7 +129,7 @@ works:
   - title: Menhera Collection Black
     author: microa
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/644528.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-17'
     code: 644528
     url: /works/644528/

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "manga"
-work_count: 266
+work_count: 274
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -293,6 +293,13 @@ works:
     date: '2026-09-13'
     code: 380273
     url: /works/380273/
+  - title: Last Chance
+    author: herio
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/384255.jpg
+    rating: 0.0
+    date: '2026-09-18'
+    code: 384255
+    url: /works/384255/
   - title: Harinezumi no Dilemma ① | A Hedgehog's Dilemma, Part 1
     author: maeda-momo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/388627.jpg
@@ -449,6 +456,13 @@ works:
     date: '2026-04-19'
     code: 446716
     url: /works/446716/
+  - title: Mujikaku Shoujo wa Tashikametai | The Oblivious Girl Wants to Make Sure
+    author: ouji-hiyoko
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/450112.jpg
+    rating: 0.0
+    date: '2026-09-18'
+    code: 450112
+    url: /works/450112/
   - title: Sukina Hito, Sukina Koto
     author: ebi-fry-teishoku
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/452482.jpg
@@ -916,6 +930,13 @@ works:
     date: '2026-08-29'
     code: 589969
     url: /works/589969/
+  - title: Cocoa-chan no Jiraikei Chuuihou
+    author: uni-toshiki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/590068.jpg
+    rating: 0.0
+    date: '2026-09-18'
+    code: 590068
+    url: /works/590068/
   - title: 母さんはホームヘルパー〜部屋の片付けから性欲処理まで
     author: '41'
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/592285.jpg
@@ -1019,6 +1040,14 @@ works:
     date: '2026-08-18'
     code: 619648
     url: /works/619648/
+  - title: Mousukoshi dake, Konomama de - Stay together for a little longer. + Seishun
+      no Tsunagarikata
+    author: syoukaki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/619717.jpg
+    rating: 0.0
+    date: '2026-09-18'
+    code: 619717
+    url: /works/619717/
   - title: Ima Kara Irerukedo, "Sakippo Dake" Dakara Sex Janai Yo.  | Just The Tip Inside
       is Not Sex Vol. 1-4
     author: ouma
@@ -1709,6 +1738,13 @@ works:
     date: '2026-09-05'
     code: 678354
     url: /works/678354/
+  - title: Oishii Milk no Tame no Sukkara
+    author: herio
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678408.jpg
+    rating: 0.0
+    date: '2026-09-18'
+    code: 678408
+    url: /works/678408/
   - title: Moshimo Kemono de Kanjitara
     author: chikiko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678664.jpg
@@ -1893,10 +1929,31 @@ works:
   - title: Kyou kara, Hitozuma Mansion ni Nyuukyo shimasu - CHAPTER 1-14
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681897.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-17'
     code: 681897
     url: /works/681897/
+  - title: Medorei Sensei
+    author: choma
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682176.jpg
+    rating: 0.0
+    date: '2026-09-18'
+    code: 682176
+    url: /works/682176/
+  - title: Pakorare Award
+    author: kuro-fn
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682178.jpg
+    rating: 0.0
+    date: '2026-09-18'
+    code: 682178
+    url: /works/682178/
+  - title: Problem
+    author: shinjima-saki-masaki-shinji
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682200.jpg
+    rating: 4.1
+    date: '2026-09-18'
+    code: 682200
+    url: /works/682200/
   - title: Hottokenaino
     author: hara-shigeyuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/77864.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "femdom"
-work_count: 118
+work_count: 119
 works:
   - title: Life with Married Women Just Like a Manga 2 - Ch. 1-5
     author: hidemaru
@@ -843,17 +843,24 @@ works:
   - title: The Nun Who tricks her Sibling
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681899.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-17'
     code: 681899
     url: /works/681899/
   - title: Sex Education Promotion Policy 01
     author: babi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681987.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-09-17'
     code: 681987
     url: /works/681987/
+  - title: Being Enslaved by an Assertive Girl
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682180.jpg
+    rating: 0.0
+    date: '2026-09-18'
+    code: 682180
+    url: /works/682180/
   - title: Jokyoushi - Hot For Teachers | Female Teachers
     author: drill-murata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/81375.jpg

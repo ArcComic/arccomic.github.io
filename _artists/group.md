@@ -1,7 +1,7 @@
 ---
 layout: artist
 artist_name: "group"
-work_count: 23
+work_count: 24
 works:
   - title: Itabasami na Wakachi Ai 4 | Love Divided Between a Rock and a Hard Place
       4
@@ -37,6 +37,13 @@ works:
     date: '2026-08-20'
     code: 537794
     url: /works/537794/
+  - title: Cosplay Shiteiru Toki wa Hitozuma de wa Arimasen | Setting Aside Our Married
+      Lives When We Cosplay
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/539663.jpg
+    rating: 0.0
+    date: '2026-09-18'
+    code: 539663
+    url: /works/539663/
   - title: Kouen no Oji-san-tachi ni Moteasobaretai
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/598010.jpg
     rating: 5.0
@@ -145,7 +152,7 @@ works:
     url: /works/680735/
   - title: I'm going to impose on my friend's place...
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681991.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-17'
     code: 681991
     url: /works/681991/

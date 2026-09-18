@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "tankoubon"
-work_count: 54
+work_count: 58
 works:
   - title: Kaisha de Iroiro | Gettin' Busy at the Office
     author: hara-shigeyuki
@@ -73,6 +73,14 @@ works:
     date: '2026-04-17'
     code: 612957
     url: /works/612957/
+  - title: Mousukoshi dake, Konomama de - Stay together for a little longer. + Seishun
+      no Tsunagarikata
+    author: syoukaki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/619717.jpg
+    rating: 0.0
+    date: '2026-09-18'
+    code: 619717
+    url: /works/619717/
   - title: Igumox - Muramata-san no Himitsu & Aijou - Muramata-san's Secret & Affection
       COMPLETE
     author: igumox
@@ -376,6 +384,27 @@ works:
     date: '2026-09-15'
     code: 681308
     url: /works/681308/
+  - title: Pakorare Award
+    author: kuro-fn
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682178.jpg
+    rating: 0.0
+    date: '2026-09-18'
+    code: 682178
+    url: /works/682178/
+  - title: Saimin x X I - Hypnosis x X I _MTL
+    author: kuretudenn
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682188.jpg
+    rating: 0.0
+    date: '2026-09-18'
+    code: 682188
+    url: /works/682188/
+  - title: Problem
+    author: shinjima-saki-masaki-shinji
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682200.jpg
+    rating: 4.1
+    date: '2026-09-18'
+    code: 682200
+    url: /works/682200/
   - title: Hottokenaino
     author: hara-shigeyuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/77864.jpg

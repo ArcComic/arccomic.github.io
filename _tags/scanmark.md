@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "scanmark"
-work_count: 149
+work_count: 157
 works:
   - title: NTR Anniversary + ) [Syukurin] Mitsuha ~Netorare~ (Kimi no Na wa.) [English]
       [Colorized] by Mikaku
@@ -22,7 +22,7 @@ works:
   - title: Hypnosis Session Gone Sexual!
     author: okumori-boy
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/445629.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-17'
     code: 445629
     url: /works/445629/
@@ -105,6 +105,13 @@ works:
     date: '2026-09-09'
     code: 620889
     url: /works/620889/
+  - title: Gakkou no Joshi o Chuumon Dekiru Denpyou ~Tadashi Seikoui Mokuteki ni Kagiru~
+    author: nyuu-koubou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/625984.jpg
+    rating: 0.0
+    date: '2026-09-18'
+    code: 625984
+    url: /works/625984/
   - title: Koujoku Juurin
     author: nbe
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/626580.jpg
@@ -200,6 +207,15 @@ works:
     date: '2026-08-25'
     code: 637847
     url: /works/637847/
+  - title: Nakadashi Oji-san ni Nerawareta Mesu wa Nigeru Koto ga Dekinai ~Fujitomo
+      Megumi Hen 4~  | Targeted by the Cumshot Old Man I Can't Escape ~Fujitomo Megumi
+      Story~
+    author: climbcrown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/637891.jpg
+    rating: 0.0
+    date: '2026-09-18'
+    code: 637891
+    url: /works/637891/
   - title: The Story of Becoming the Husband of a Rich, Yandere Daughter
     author: kaisendoh
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638178.jpg
@@ -334,7 +350,7 @@ works:
   - title: Until I Take Everything From You 4
     author: takotokite
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654249.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-17'
     code: 654249
     url: /works/654249/
@@ -1059,7 +1075,7 @@ works:
   - title: oyako NTR fuuzoku | mother & daughter NTR prostitutes - MTL
     author: yuuki-ringo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681844.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-17'
     code: 681844
     url: /works/681844/
@@ -1067,7 +1083,7 @@ works:
       Me... NTR 1 - 6 + revenge chap_MTL
     author: yuuki-ringo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681852.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-17'
     code: 681852
     url: /works/681852/
@@ -1075,8 +1091,50 @@ works:
       Impregnate the Wife of a High-Ranking Citizen~
     author: yuuki-ringo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681856.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-17'
     code: 681856
     url: /works/681856/
+  - title: Medorei Sensei
+    author: choma
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682176.jpg
+    rating: 0.0
+    date: '2026-09-18'
+    code: 682176
+    url: /works/682176/
+  - title: Pakorare Award
+    author: kuro-fn
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682178.jpg
+    rating: 0.0
+    date: '2026-09-18'
+    code: 682178
+    url: /works/682178/
+  - title: Shikatanaku Kaa-chan to Sex Shimasu 9
+    author: shimipan
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682182.jpg
+    rating: 0.0
+    date: '2026-09-18'
+    code: 682182
+    url: /works/682182/
+  - title: Saimin x X I - Hypnosis x X I _MTL
+    author: kuretudenn
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682188.jpg
+    rating: 0.0
+    date: '2026-09-18'
+    code: 682188
+    url: /works/682188/
+  - title: Problem
+    author: shinjima-saki-masaki-shinji
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682200.jpg
+    rating: 4.1
+    date: '2026-09-18'
+    code: 682200
+    url: /works/682200/
+  - title: Nusumareta Hitozuma. - Stolen Wife
+    author: taira-tsukune
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682203.jpg
+    rating: 0.0
+    date: '2026-09-18'
+    code: 682203
+    url: /works/682203/
 ---

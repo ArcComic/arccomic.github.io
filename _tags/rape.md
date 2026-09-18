@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "rape"
-work_count: 171
+work_count: 174
 works:
   - title: Office Love Scramble Ch. 1
     author: tohzai
@@ -550,6 +550,13 @@ works:
     date: '2026-04-19'
     code: 623910
     url: /works/623910/
+  - title: Gakkou no Joshi o Chuumon Dekiru Denpyou ~Tadashi Seikoui Mokuteki ni Kagiru~
+    author: nyuu-koubou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/625984.jpg
+    rating: 0.0
+    date: '2026-09-18'
+    code: 625984
+    url: /works/625984/
   - title: Hikikomori Kyousei Shisetsu Hakutou no Ie
     author: shine-nabyss
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/626220.jpg
@@ -1052,6 +1059,15 @@ works:
     date: '2026-08-24'
     code: 666532
     url: /works/666532/
+  - title: Nakadashi Oji-san ni Nerawareta Mesu wa Nigeru Koto ga Dekinai ~Fujitomo
+      Megumi Hen 2~ | A Woman Can't Get Away After Being Targeted By This Horny Old
+      Man - Fujitomo Megumi Edition Vol.2 [English] =White Symphony=
+    author: climbcrown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/668045.jpg
+    rating: 4.5
+    date: '2026-09-18'
+    code: 668045
+    url: /works/668045/
   - title: Black Kigyou No Kamin Shitsu Ga Yari Beya Ni Natteta Hanashi
     author: oshima-aki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/668297.jpg
@@ -1243,8 +1259,15 @@ works:
   - title: The Nun Who tricks her Sibling
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681899.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-17'
     code: 681899
     url: /works/681899/
+  - title: Problem
+    author: shinjima-saki-masaki-shinji
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682200.jpg
+    rating: 4.1
+    date: '2026-09-18'
+    code: 682200
+    url: /works/682200/
 ---

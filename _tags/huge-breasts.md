@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "huge breasts"
-work_count: 66
+work_count: 68
 works:
   - title: Furuhonya no Onee-san to | With The Lady From The Used Book Shop
     author: nodame
@@ -89,6 +89,13 @@ works:
     date: '2026-04-25'
     code: 593677
     url: /works/593677/
+  - title: Truck Girl to Iede Boy Otona e no Tabi - Trucker Gal & The Runaway
+    author: alps1mando
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/608159.jpg
+    rating: 0.0
+    date: '2026-09-18'
+    code: 608159
+    url: /works/608159/
   - title: Ottori Itome no Oba o Odoshite Hamete Iinari Onaho-ka Keikaku | Gentle Slit-Eyed
       Aunty Blackmail & Obedient Fuckhole Training Project
     author: ginen
@@ -489,15 +496,22 @@ works:
       actually a shy, super-perverted girl.
     author: ksyum
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681989.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-17'
     code: 681989
     url: /works/681989/
   - title: I'm going to impose on my friend's place...
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681991.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-17'
     code: 681991
     url: /works/681991/
+  - title: Shikatanaku Kaa-chan to Sex Shimasu 9
+    author: shimipan
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682182.jpg
+    rating: 0.0
+    date: '2026-09-18'
+    code: 682182
+    url: /works/682182/
 ---

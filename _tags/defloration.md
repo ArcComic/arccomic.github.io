@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "defloration"
-work_count: 172
+work_count: 179
 works:
   - title: Love Approach
     author: hanafuda-sakurano
@@ -253,6 +253,13 @@ works:
     date: '2026-09-12'
     code: 449158
     url: /works/449158/
+  - title: Mujikaku Shoujo wa Tashikametai | The Oblivious Girl Wants to Make Sure
+    author: ouji-hiyoko
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/450112.jpg
+    rating: 0.0
+    date: '2026-09-18'
+    code: 450112
+    url: /works/450112/
   - title: Sukina Hito, Sukina Koto
     author: ebi-fry-teishoku
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/452482.jpg
@@ -477,6 +484,13 @@ works:
     date: '2026-04-23'
     code: 603122
     url: /works/603122/
+  - title: Zako Manko SeFri no Kurosaki-san
+    author: uni-toshiki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/606170.jpg
+    rating: 0.0
+    date: '2026-09-18'
+    code: 606170
+    url: /works/606170/
   - title: Tonari no Seki no Tomodachi to Issho ni Onanii Suru Hanashi | The Story About
       Masturbating Together With the Friend Who Sits Next to Me
     author: fuguta-ke
@@ -543,6 +557,14 @@ works:
     date: '2026-04-27'
     code: 619405
     url: /works/619405/
+  - title: Mousukoshi dake, Konomama de - Stay together for a little longer. + Seishun
+      no Tsunagarikata
+    author: syoukaki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/619717.jpg
+    rating: 0.0
+    date: '2026-09-18'
+    code: 619717
+    url: /works/619717/
   - title: Amatori-san to Ningensei Gomikuzu Chuunen ga Suyasuya Ecchi suru Manga |
       A Middle-Aged Piece of Human Trash Fucks Miss Amatori in Her Sleep
     author: saishow
@@ -685,6 +707,15 @@ works:
     date: '2026-08-23'
     code: 639772
     url: /works/639772/
+  - title: Sougo Onanii de Osananajimi wa Itsumo Iku! ~Kore Ijou Iku to Tomaranai yo?~
+      | My Childhood Friend Loves It When We Jerk Off Together! But What Will Happen
+      If We Keep Going!?
+    author: yuuriko
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/641188.jpg
+    rating: 0.0
+    date: '2026-09-18'
+    code: 641188
+    url: /works/641188/
   - title: The Story of a Girl—Cherished by Her Childhood Sweetheart—Who Loses Her Virginity
       After Being Violated by a Murderer
     author: unknown
@@ -914,6 +945,13 @@ works:
     date: '2026-05-26'
     code: 652471
     url: /works/652471/
+  - title: Majime na Kimi ni Hamaru Karada
+    author: alp
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654010.jpg
+    rating: 0.0
+    date: '2026-09-18'
+    code: 654010
+    url: /works/654010/
   - title: My Tall, Stacked, Virgin Boss 1
     author: yunamaro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654603.jpg
@@ -1265,7 +1303,7 @@ works:
   - title: The Nun Who tricks her Sibling
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681899.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-17'
     code: 681899
     url: /works/681899/
@@ -1275,8 +1313,22 @@ works:
       actually a shy, super-perverted girl.
     author: ksyum
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681989.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-17'
     code: 681989
     url: /works/681989/
+  - title: Muhyoujou na Ojou-sama ni Nayami Soudan de Namahame shite Ageta
+    author: hibietto
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682034.jpg
+    rating: 0.0
+    date: '2026-09-18'
+    code: 682034
+    url: /works/682034/
+  - title: Saimin x X I - Hypnosis x X I _MTL
+    author: kuretudenn
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682188.jpg
+    rating: 0.0
+    date: '2026-09-18'
+    code: 682188
+    url: /works/682188/
 ---

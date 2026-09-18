@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "kissing"
-work_count: 244
+work_count: 252
 works:
   - title: FLUFFY LAUGH GIRL
     author: shibasaki-syouzi
@@ -17,6 +17,13 @@ works:
     date: '2026-04-12'
     code: 328805
     url: /works/328805/
+  - title: Hyouri no Omoi | Double-Sided Love
+    author: suruga-kuroitsu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/333923.jpg
+    rating: 0.0
+    date: '2026-09-18'
+    code: 333923
+    url: /works/333923/
   - title: Homestay-chu no Doitsu Musume ga Issho ni Furo ni Haitte Kuru Wake | The
       Reason Why a German Girl Takes a Bath Together With Me on Her Homestay
     author: gentsuki
@@ -362,6 +369,15 @@ works:
     date: '2026-08-29'
     code: 534388
     url: /works/534388/
+  - title: Suieibu Shushou no Boyish Osananajimi wa Boku no Chinpo ni Dohamari Chuu
+      | My Boyish Longtime Friend Who Is The Swimming Club Captain Is Addicted To My
+      Dick
+    author: huwahuwa-raidou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/535271.jpg
+    rating: 0.0
+    date: '2026-09-18'
+    code: 535271
+    url: /works/535271/
   - title: '"Koitsu no SEX, Do-S Sugi...!" Shuuden Mae, Zetsurin Douki no Hageshime
       Piston 1 | Intense Sex with My Peerless Colleague Before the Last Train 1'
     author: ouma
@@ -746,6 +762,14 @@ works:
     date: '2026-08-18'
     code: 619648
     url: /works/619648/
+  - title: Mousukoshi dake, Konomama de - Stay together for a little longer. + Seishun
+      no Tsunagarikata
+    author: syoukaki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/619717.jpg
+    rating: 0.0
+    date: '2026-09-18'
+    code: 619717
+    url: /works/619717/
   - title: Amatori-san to Ningensei Gomikuzu Chuunen ga Suyasuya Ecchi suru Manga |
       A Middle-Aged Piece of Human Trash Fucks Miss Amatori in Her Sleep
     author: saishow
@@ -974,6 +998,15 @@ works:
     date: '2026-08-23'
     code: 639772
     url: /works/639772/
+  - title: Sougo Onanii de Osananajimi wa Itsumo Iku! ~Kore Ijou Iku to Tomaranai yo?~
+      | My Childhood Friend Loves It When We Jerk Off Together! But What Will Happen
+      If We Keep Going!?
+    author: yuuriko
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/641188.jpg
+    rating: 0.0
+    date: '2026-09-18'
+    code: 641188
+    url: /works/641188/
   - title: Otokomasari na Kyonyuu Hitozuma Joushi to Amaama SeFri Kankei ni Natta Ken
     author: elica
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/641362.jpg
@@ -1328,6 +1361,13 @@ works:
     date: '2026-08-22'
     code: 652912
     url: /works/652912/
+  - title: Majime na Kimi ni Hamaru Karada
+    author: alp
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654010.jpg
+    rating: 0.0
+    date: '2026-09-18'
+    code: 654010
+    url: /works/654010/
   - title: My Tall, Stacked, Virgin Boss 1
     author: yunamaro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654603.jpg
@@ -1505,6 +1545,15 @@ works:
     date: '2026-07-17'
     code: 664943
     url: /works/664943/
+  - title: Nakadashi Oji-san ni Nerawareta Mesu wa Nigeru Koto ga Dekinai ~Fujitomo
+      Megumi Hen 2~ | A Woman Can't Get Away After Being Targeted By This Horny Old
+      Man - Fujitomo Megumi Edition Vol.2 [English] =White Symphony=
+    author: climbcrown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/668045.jpg
+    rating: 4.5
+    date: '2026-09-18'
+    code: 668045
+    url: /works/668045/
   - title: Niizuma Nanaka no Roshutsu Office
     author: fukurou-naru-tori
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/668605.jpg
@@ -1527,6 +1576,13 @@ works:
     date: '2026-09-04'
     code: 669459
     url: /works/669459/
+  - title: Yojouhan no Yuragi - Fluctuations in a Four-and-a-Half Tatami Room.
+    author: syoukaki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/672154.jpg
+    rating: 0.0
+    date: '2026-09-18'
+    code: 672154
+    url: /works/672154/
   - title: Nuite Moraimakuri Nyuuin Seikatsu ~Tasuketa Cool-Gyaru wa Jitsu wa Sukebe
       deshita~
     author: gujira
@@ -1811,7 +1867,7 @@ works:
   - title: Ichinichi Kanojo | Girlfriend for a Day
     author: drasdr7513
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681890.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-17'
     code: 681890
     url: /works/681890/
@@ -1821,7 +1877,7 @@ works:
       actually a shy, super-perverted girl.
     author: ksyum
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681989.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-17'
     code: 681989
     url: /works/681989/
@@ -1832,4 +1888,11 @@ works:
     date: '2026-09-17'
     code: 681990
     url: /works/681990/
+  - title: Nusumareta Hitozuma. - Stolen Wife
+    author: taira-tsukune
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682203.jpg
+    rating: 0.0
+    date: '2026-09-18'
+    code: 682203
+    url: /works/682203/
 ---

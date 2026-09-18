@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "cowgirl"
-work_count: 15
+work_count: 16
 works:
   - title: Homestay-chu no Doitsu Musume ga Issho ni Furo ni Haitte Kuru Wake | The
       Reason Why a German Girl Takes a Bath Together With Me on Her Homestay
@@ -98,6 +98,13 @@ works:
     date: '2026-08-29'
     code: 676425
     url: /works/676425/
+  - title: Oishii Milk no Tame no Sukkara
+    author: herio
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678408.jpg
+    rating: 0.0
+    date: '2026-09-18'
+    code: 678408
+    url: /works/678408/
   - title: Soshite Kyou mo Moteasobareru 4 ~Yama Camp! Cosplay Hen~ | And Today, Toyed
       With Again 4 ~Camping In The Mountains! Cosplay Edition~
     author: erun

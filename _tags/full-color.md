@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "full color"
-work_count: 174
+work_count: 176
 works:
   - title: Tsuma wo Yariman ni Shimasu Shakkin no Tame desu kara.
     author: pietoro
@@ -67,6 +67,13 @@ works:
     date: '2026-08-24'
     code: 392617
     url: /works/392617/
+  - title: Natsuyasumi! Osananajimi to Asedaku Sex - Sweaty sex with a childhood friend
+    author: sokumaru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/396367.jpg
+    rating: 0.0
+    date: '2026-09-18'
+    code: 396367
+    url: /works/396367/
   - title: Hyoui Osen de Yuri Ecchi | Lesbian Sex through Corrupting Possession
     author: siina-yuuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/404458.jpg
@@ -175,7 +182,7 @@ works:
   - title: Hypnosis Session Gone Sexual!
     author: okumori-boy
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/445629.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-17'
     code: 445629
     url: /works/445629/
@@ -902,7 +909,7 @@ works:
   - title: Until I Take Everything From You 4
     author: takotokite
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654249.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-17'
     code: 654249
     url: /works/654249/
@@ -1258,14 +1265,14 @@ works:
   - title: Kyou kara, Hitozuma Mansion ni Nyuukyo shimasu - CHAPTER 1-14
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681897.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-17'
     code: 681897
     url: /works/681897/
   - title: The Nun Who tricks her Sibling
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681899.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-17'
     code: 681899
     url: /works/681899/
@@ -1273,8 +1280,15 @@ works:
       Onna Joushi! Omae no Omanko no Aji o Boku wa Shitteruzo!
     author: chotto-b-sen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681986.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-17'
     code: 681986
     url: /works/681986/
+  - title: Shikatanaku Kaa-chan to Sex Shimasu 9
+    author: shimipan
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682182.jpg
+    rating: 0.0
+    date: '2026-09-18'
+    code: 682182
+    url: /works/682182/
 ---

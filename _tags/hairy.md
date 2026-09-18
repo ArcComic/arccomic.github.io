@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "hairy"
-work_count: 194
+work_count: 198
 works:
   - title: Adoration
     author: kishizuka-kenji
@@ -75,6 +75,13 @@ works:
     date: '2026-04-16'
     code: 304548
     url: /works/304548/
+  - title: Hyouri no Omoi | Double-Sided Love
+    author: suruga-kuroitsu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/333923.jpg
+    rating: 0.0
+    date: '2026-09-18'
+    code: 333923
+    url: /works/333923/
   - title: ERIKA Vol. 2
     author: hankotsu-max
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/353025.jpg
@@ -725,6 +732,14 @@ works:
     date: '2026-07-15'
     code: 616358
     url: /works/616358/
+  - title: Mousukoshi dake, Konomama de - Stay together for a little longer. + Seishun
+      no Tsunagarikata
+    author: syoukaki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/619717.jpg
+    rating: 0.0
+    date: '2026-09-18'
+    code: 619717
+    url: /works/619717/
   - title: 'Taihai Tsuma: Taihaikei Hitotsuma o Yachin Kawari ni Koki Tsukaeru Hanashi
       | Slutty Wife!'
     author: kametaro
@@ -1064,6 +1079,13 @@ works:
     date: '2026-05-27'
     code: 652801
     url: /works/652801/
+  - title: Majime na Kimi ni Hamaru Karada
+    author: alp
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654010.jpg
+    rating: 0.0
+    date: '2026-09-18'
+    code: 654010
+    url: /works/654010/
   - title: My Tall, Stacked, Virgin Boss 1
     author: yunamaro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654603.jpg
@@ -1228,6 +1250,15 @@ works:
     date: '2026-07-17'
     code: 664937
     url: /works/664937/
+  - title: Nakadashi Oji-san ni Nerawareta Mesu wa Nigeru Koto ga Dekinai ~Fujitomo
+      Megumi Hen 2~ | A Woman Can't Get Away After Being Targeted By This Horny Old
+      Man - Fujitomo Megumi Edition Vol.2 [English] =White Symphony=
+    author: climbcrown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/668045.jpg
+    rating: 4.5
+    date: '2026-09-18'
+    code: 668045
+    url: /works/668045/
   - title: Igyou Koubi Kairaku Jigoku 1 + 2
     author: allegro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/668880.jpg

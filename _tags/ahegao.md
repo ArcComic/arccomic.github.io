@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "ahegao"
-work_count: 210
+work_count: 212
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -54,6 +54,13 @@ works:
     date: '2026-04-17'
     code: 332375
     url: /works/332375/
+  - title: Hyouri no Omoi | Double-Sided Love
+    author: suruga-kuroitsu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/333923.jpg
+    rating: 0.0
+    date: '2026-09-18'
+    code: 333923
+    url: /works/333923/
   - title: Megane Loli Choukyou Jugyou!! ~Otonashii Megane Lolikko ni Muriyari Dekachin
       Sounyuu~ | The Loli In Glasses' Training Lesson!! ~Force Fucking a Timid Glasses
       Wearing Loli With My Big Cock~ Ch. 1-5
@@ -1570,10 +1577,17 @@ works:
   - title: Shinkou X Haha | Faith X Mama
     author: sanatuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681851.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-17'
     code: 681851
     url: /works/681851/
+  - title: Nusumareta Hitozuma. - Stolen Wife
+    author: taira-tsukune
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682203.jpg
+    rating: 0.0
+    date: '2026-09-18'
+    code: 682203
+    url: /works/682203/
   - title: Inin Keiyaku | Lewd Pregnancy Contract
     author: yoshiura-kazuya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/83595.jpg

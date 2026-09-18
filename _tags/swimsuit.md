@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "swimsuit"
-work_count: 49
+work_count: 53
 works:
   - title: Kizashi
     author: yoshiura-kazuya
@@ -46,6 +46,15 @@ works:
     date: '2026-09-13'
     code: 528302
     url: /works/528302/
+  - title: Suieibu Shushou no Boyish Osananajimi wa Boku no Chinpo ni Dohamari Chuu
+      | My Boyish Longtime Friend Who Is The Swimming Club Captain Is Addicted To My
+      Dick
+    author: huwahuwa-raidou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/535271.jpg
+    rating: 0.0
+    date: '2026-09-18'
+    code: 535271
+    url: /works/535271/
   - title: Ossan Kirai no Hitozuma Kyoushi ga Nikubenki ni Ochiru Hanashi | Story About
       an Old Man Hating Married Teacher Falling Into Being a Meat Toilet
     author: chinpan
@@ -141,6 +150,15 @@ works:
     date: '2026-03-09'
     code: 635794
     url: /works/635794/
+  - title: Sougo Onanii de Osananajimi wa Itsumo Iku! ~Kore Ijou Iku to Tomaranai yo?~
+      | My Childhood Friend Loves It When We Jerk Off Together! But What Will Happen
+      If We Keep Going!?
+    author: yuuriko
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/641188.jpg
+    rating: 0.0
+    date: '2026-09-18'
+    code: 641188
+    url: /works/641188/
   - title: The story of how a busty, older teacher girlfriend gets seduced and cheated
       on by the principal with a huge penis.
     author: munioni
@@ -275,6 +293,15 @@ works:
     date: '2026-07-17'
     code: 664937
     url: /works/664937/
+  - title: Nakadashi Oji-san ni Nerawareta Mesu wa Nigeru Koto ga Dekinai ~Fujitomo
+      Megumi Hen 2~ | A Woman Can't Get Away After Being Targeted By This Horny Old
+      Man - Fujitomo Megumi Edition Vol.2 [English] =White Symphony=
+    author: climbcrown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/668045.jpg
+    rating: 4.5
+    date: '2026-09-18'
+    code: 668045
+    url: /works/668045/
   - title: 'Breeding License: The “Picking Up Girls on the Beach and Having Wild Sex”
       Edition'
     author: minamihama-yoriko
@@ -314,6 +341,13 @@ works:
     date: '2026-09-04'
     code: 677732
     url: /works/677732/
+  - title: Oishii Milk no Tame no Sukkara
+    author: herio
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678408.jpg
+    rating: 0.0
+    date: '2026-09-18'
+    code: 678408
+    url: /works/678408/
   - title: Motoyan Hitozuma Taiiku Kyoushi, Onsen Ryokan nite Kyouei Mizugi de Ochiru
       | Former delinquent housewife PE teacher, falls in a hot spring inn while wearing
       a competitive swimsuit
@@ -379,7 +413,7 @@ works:
       actually a shy, super-perverted girl.
     author: ksyum
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681989.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-17'
     code: 681989
     url: /works/681989/

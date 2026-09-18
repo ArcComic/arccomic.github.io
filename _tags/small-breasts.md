@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "small breasts"
-work_count: 33
+work_count: 35
 works:
   - title: FLUFFY LAUGH GIRL
     author: shibasaki-syouzi
@@ -24,6 +24,13 @@ works:
     date: '2026-02-26'
     code: 393984
     url: /works/393984/
+  - title: Natsuyasumi! Osananajimi to Asedaku Sex - Sweaty sex with a childhood friend
+    author: sokumaru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/396367.jpg
+    rating: 0.0
+    date: '2026-09-18'
+    code: 396367
+    url: /works/396367/
   - title: Kagura Hypno
     author: yasuhiro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/457733.jpg
@@ -96,6 +103,13 @@ works:
     date: '2026-09-04'
     code: 625933
     url: /works/625933/
+  - title: Gakkou no Joshi o Chuumon Dekiru Denpyou ~Tadashi Seikoui Mokuteki ni Kagiru~
+    author: nyuu-koubou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/625984.jpg
+    rating: 0.0
+    date: '2026-09-18'
+    code: 625984
+    url: /works/625984/
   - title: Honeori! Osewa Girl♡ | SK8er Girl Lends Me a Hand!
     author: kyaradain
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/634609.jpg

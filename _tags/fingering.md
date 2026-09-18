@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "fingering"
-work_count: 124
+work_count: 125
 works:
   - title: Watashi-tachi no Seikoui Tokubetsu Jisshuu -Zengi Hen-
     author: guglielmo
@@ -661,6 +661,13 @@ works:
     date: '2026-05-27'
     code: 652801
     url: /works/652801/
+  - title: Majime na Kimi ni Hamaru Karada
+    author: alp
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654010.jpg
+    rating: 0.0
+    date: '2026-09-18'
+    code: 654010
+    url: /works/654010/
   - title: My Tall, Stacked, Virgin Boss 1
     author: yunamaro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654603.jpg
@@ -916,14 +923,14 @@ works:
   - title: Ichinichi Kanojo | Girlfriend for a Day
     author: drasdr7513
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681890.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-17'
     code: 681890
     url: /works/681890/
   - title: Kyou kara, Hitozuma Mansion ni Nyuukyo shimasu - CHAPTER 1-14
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681897.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-17'
     code: 681897
     url: /works/681897/

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "eye-covering bang"
-work_count: 39
+work_count: 40
 works:
   - title: 'Portio Switch CASE: Varicata Portio | Cervix Switch CASE - Extra-hard Cervix'
     author: bang-you-didori
@@ -71,6 +71,13 @@ works:
     date: '2026-09-08'
     code: 589229
     url: /works/589229/
+  - title: Zako Manko SeFri no Kurosaki-san
+    author: uni-toshiki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/606170.jpg
+    rating: 0.0
+    date: '2026-09-18'
+    code: 606170
+    url: /works/606170/
   - title: Ichigun Joshi no Akaten Kaihi ni Kyouryoku Shitara... 1
     author: kishiwada-base
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/606276.jpg
@@ -139,7 +146,7 @@ works:
   - title: Menhera Collection Black
     author: microa
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/644528.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-17'
     code: 644528
     url: /works/644528/
@@ -285,7 +292,7 @@ works:
       actually a shy, super-perverted girl.
     author: ksyum
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681989.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-17'
     code: 681989
     url: /works/681989/

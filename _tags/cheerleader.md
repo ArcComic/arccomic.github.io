@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "cheerleader"
-work_count: 5
+work_count: 6
 works:
   - title: CHOCO x LOVE
     author: highlow
@@ -25,6 +25,15 @@ works:
     date: '2026-07-17'
     code: 664758
     url: /works/664758/
+  - title: Nakadashi Oji-san ni Nerawareta Mesu wa Nigeru Koto ga Dekinai ~Fujitomo
+      Megumi Hen 2~ | A Woman Can't Get Away After Being Targeted By This Horny Old
+      Man - Fujitomo Megumi Edition Vol.2 [English] =White Symphony=
+    author: climbcrown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/668045.jpg
+    rating: 4.5
+    date: '2026-09-18'
+    code: 668045
+    url: /works/668045/
   - title: Sensei!! I Told You Not To Come Again Didn't I !!
     author: nakakazu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/676149.jpg

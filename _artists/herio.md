@@ -1,7 +1,7 @@
 ---
 layout: artist
 artist_name: "herio"
-work_count: 5
+work_count: 7
 works:
   - title: Okatai Onna to Iwanaide | Don't call me an Old Maid!
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/276396.jpg
@@ -9,6 +9,12 @@ works:
     date: '2026-09-06'
     code: 276396
     url: /works/276396/
+  - title: Last Chance
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/384255.jpg
+    rating: 0.0
+    date: '2026-09-18'
+    code: 384255
+    url: /works/384255/
   - title: Tonari no Ayane-san Desaki Battari Hen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/432356.jpg
     rating: 4.6
@@ -34,4 +40,10 @@ works:
     date: '2026-08-21'
     code: 674614
     url: /works/674614/
+  - title: Oishii Milk no Tame no Sukkara
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678408.jpg
+    rating: 0.0
+    date: '2026-09-18'
+    code: 678408
+    url: /works/678408/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "paizuri"
-work_count: 158
+work_count: 163
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -45,6 +45,13 @@ works:
     date: '2026-08-24'
     code: 342639
     url: /works/342639/
+  - title: Last Chance
+    author: herio
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/384255.jpg
+    rating: 0.0
+    date: '2026-09-18'
+    code: 384255
+    url: /works/384255/
   - title: Toshishita Chin Kui Obasan
     author: maccha-neji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/387637.jpg
@@ -345,6 +352,13 @@ works:
     date: '2026-09-08'
     code: 589229
     url: /works/589229/
+  - title: Cocoa-chan no Jiraikei Chuuihou
+    author: uni-toshiki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/590068.jpg
+    rating: 0.0
+    date: '2026-09-18'
+    code: 590068
+    url: /works/590068/
   - title: Kanojo wa Boku no Taieki de Ugoiteiru Final Phase - Her Body is Driven by
       My Love [English] =NSS=
     author: nagareboshi
@@ -793,6 +807,13 @@ works:
     date: '2026-05-26'
     code: 652625
     url: /works/652625/
+  - title: Majime na Kimi ni Hamaru Karada
+    author: alp
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654010.jpg
+    rating: 0.0
+    date: '2026-09-18'
+    code: 654010
+    url: /works/654010/
   - title: Tonari no Ayane-san Soushuuhen | My Neighbor Ayane Anthology
     author: herio
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/656319.jpg
@@ -1072,6 +1093,13 @@ works:
     date: '2026-09-05'
     code: 678354
     url: /works/678354/
+  - title: Oishii Milk no Tame no Sukkara
+    author: herio
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678408.jpg
+    rating: 0.0
+    date: '2026-09-18'
+    code: 678408
+    url: /works/678408/
   - title: Matsuri to Hamakaze to | The Festival and Hamakaze
     author: ki-51
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679066.jpg
@@ -1181,7 +1209,7 @@ works:
   - title: Kyou kara, Hitozuma Mansion ni Nyuukyo shimasu - CHAPTER 1-14
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681897.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-17'
     code: 681897
     url: /works/681897/
@@ -1192,4 +1220,11 @@ works:
     date: '2026-09-17'
     code: 681990
     url: /works/681990/
+  - title: Pakorare Award
+    author: kuro-fn
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682178.jpg
+    rating: 0.0
+    date: '2026-09-18'
+    code: 682178
+    url: /works/682178/
 ---

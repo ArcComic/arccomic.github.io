@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "muscle"
-work_count: 75
+work_count: 77
 works:
   - title: Netorare Ibe Kiba Shizuka
     author: terasu-mc
@@ -38,6 +38,13 @@ works:
     date: '2026-02-26'
     code: 393984
     url: /works/393984/
+  - title: Natsuyasumi! Osananajimi to Asedaku Sex - Sweaty sex with a childhood friend
+    author: sokumaru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/396367.jpg
+    rating: 0.0
+    date: '2026-09-18'
+    code: 396367
+    url: /works/396367/
   - title: netoraretekite, ii desu yo.
     author: nt-robo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/432513.jpg
@@ -154,6 +161,14 @@ works:
     date: '2026-07-11'
     code: 538063
     url: /works/538063/
+  - title: Cosplay Shiteiru Toki wa Hitozuma de wa Arimasen | Setting Aside Our Married
+      Lives When We Cosplay
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/539663.jpg
+    rating: 0.0
+    date: '2026-09-18'
+    code: 539663
+    url: /works/539663/
   - title: Soshite Kyou mo Moteasobareru
     author: erun
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/545896.jpg

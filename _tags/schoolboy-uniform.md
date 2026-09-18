@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "schoolboy uniform"
-work_count: 66
+work_count: 71
 works:
   - title: FLUFFY LAUGH GIRL
     author: shibasaki-syouzi
@@ -31,6 +31,13 @@ works:
     date: '2026-07-07'
     code: 321298
     url: /works/321298/
+  - title: Hyouri no Omoi | Double-Sided Love
+    author: suruga-kuroitsu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/333923.jpg
+    rating: 0.0
+    date: '2026-09-18'
+    code: 333923
+    url: /works/333923/
   - title: Love Divided Between a Rock and a Hard Place Ch.1
     author: cabin
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/342540.jpg
@@ -60,6 +67,13 @@ works:
     date: '2026-09-05'
     code: 363219
     url: /works/363219/
+  - title: Last Chance
+    author: herio
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/384255.jpg
+    rating: 0.0
+    date: '2026-09-18'
+    code: 384255
+    url: /works/384255/
   - title: Netoriai -Watashi no Hou ga, Kimi ga Suki- | NTR Love -I'm The One Who Loves
       You-
     author: kuguri-oimo
@@ -188,6 +202,13 @@ works:
     date: '2026-08-29'
     code: 589969
     url: /works/589969/
+  - title: Zako Manko SeFri no Kurosaki-san
+    author: uni-toshiki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/606170.jpg
+    rating: 0.0
+    date: '2026-09-18'
+    code: 606170
+    url: /works/606170/
   - title: Tonari no Seki no Tomodachi to Issho ni Onanii Suru Hanashi | The Story About
       Masturbating Together With the Friend Who Sits Next to Me
     author: fuguta-ke
@@ -219,6 +240,13 @@ works:
     date: '2026-09-04'
     code: 625933
     url: /works/625933/
+  - title: Gakkou no Joshi o Chuumon Dekiru Denpyou ~Tadashi Seikoui Mokuteki ni Kagiru~
+    author: nyuu-koubou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/625984.jpg
+    rating: 0.0
+    date: '2026-09-18'
+    code: 625984
+    url: /works/625984/
   - title: Koukan Nikki ー School Whore Diaries
     author: henkuma
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/634328.jpg
@@ -487,6 +515,13 @@ works:
     date: '2026-09-16'
     code: 681498
     url: /works/681498/
+  - title: Saimin x X I - Hypnosis x X I _MTL
+    author: kuretudenn
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682188.jpg
+    rating: 0.0
+    date: '2026-09-18'
+    code: 682188
+    url: /works/682188/
   - title: Jokyoushi - Hot For Teachers | Female Teachers
     author: drill-murata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/81375.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "virginity"
-work_count: 115
+work_count: 117
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -431,6 +431,13 @@ works:
     date: '2026-09-12'
     code: 606563
     url: /works/606563/
+  - title: Truck Girl to Iede Boy Otona e no Tabi - Trucker Gal & The Runaway
+    author: alps1mando
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/608159.jpg
+    rating: 0.0
+    date: '2026-09-18'
+    code: 608159
+    url: /works/608159/
   - title: Ahondara, koi. | Foolish Love
     author: chicken
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/608677.jpg
@@ -669,6 +676,13 @@ works:
     date: '2026-05-26'
     code: 652218
     url: /works/652218/
+  - title: Majime na Kimi ni Hamaru Karada
+    author: alp
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654010.jpg
+    rating: 0.0
+    date: '2026-09-18'
+    code: 654010
+    url: /works/654010/
   - title: My Tall, Stacked, Virgin Boss 1
     author: yunamaro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654603.jpg
@@ -852,7 +866,7 @@ works:
   - title: Sex Education Promotion Policy 01
     author: babi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681987.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-09-17'
     code: 681987
     url: /works/681987/

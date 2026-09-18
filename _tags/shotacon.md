@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "shotacon"
-work_count: 97
+work_count: 98
 works:
   - title: Hitozuma Hyakka
     author: hase-tsubura
@@ -132,7 +132,7 @@ works:
   - title: Toilet no Jimiko-san
     author: darezuka
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/504913.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-17'
     code: 504913
     url: /works/504913/
@@ -693,17 +693,24 @@ works:
   - title: Shinkou X Haha | Faith X Mama
     author: sanatuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681851.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-17'
     code: 681851
     url: /works/681851/
   - title: Sex Education Promotion Policy 01
     author: babi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681987.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-09-17'
     code: 681987
     url: /works/681987/
+  - title: Problem
+    author: shinjima-saki-masaki-shinji
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682200.jpg
+    rating: 4.1
+    date: '2026-09-18'
+    code: 682200
+    url: /works/682200/
   - title: Jokyoushi - Hot For Teachers | Female Teachers
     author: drill-murata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/81375.jpg

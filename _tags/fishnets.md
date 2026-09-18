@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "fishnets"
-work_count: 9
+work_count: 10
 works:
   - title: Cocoa-chan no Jiraikei Chuuihou
     author: uni-toshiki
@@ -10,6 +10,13 @@ works:
     date: '2026-03-04'
     code: 568923
     url: /works/568923/
+  - title: Cocoa-chan no Jiraikei Chuuihou
+    author: uni-toshiki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/590068.jpg
+    rating: 0.0
+    date: '2026-09-18'
+    code: 590068
+    url: /works/590068/
   - title: Sono Gal Mama wa Koubi Suru | This Gyaru Mom is Having Sex.
     author: ameto-yuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/608648.jpg
@@ -27,7 +34,7 @@ works:
   - title: Menhera Collection Black
     author: microa
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/644528.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-17'
     code: 644528
     url: /works/644528/

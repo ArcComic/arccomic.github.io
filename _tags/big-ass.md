@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big ass"
-work_count: 152
+work_count: 157
 works:
   - title: My Care Lady Ch. 1
     author: sugi-g
@@ -326,6 +326,14 @@ works:
     date: '2026-09-11'
     code: 594462
     url: /works/594462/
+  - title: Makezu Girai na Osananajimi to H Shoubu suru Hanashi | A story where a Childhood
+      Friend that hates Losing has a Sex Battle!
+    author: molta
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/601357.jpg
+    rating: 0.0
+    date: '2026-09-18'
+    code: 601357
+    url: /works/601357/
   - title: Metsuki no Warui Kidaruge na Kouhai ni Shiboritorareru | Squeezed Up By My
       Junior Girl Who Is Gloomy
     author: oburigakko
@@ -341,6 +349,22 @@ works:
     date: '2026-04-27'
     code: 606166
     url: /works/606166/
+  - title: Truck Girl to Iede Boy Otona e no Tabi - Trucker Gal & The Runaway
+    author: alps1mando
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/608159.jpg
+    rating: 0.0
+    date: '2026-09-18'
+    code: 608159
+    url: /works/608159/
+  - title: Yojouhan Ikken Apart de Komochi Dosukebe Rinjin to Asedaku Noukou na Otsukiai
+      - A sweaty, intense relationship with a perverted neighbor with a child in a four
+      and a half tatami mat apartment
+    author: kimura-neito
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/608519.jpg
+    rating: 0.0
+    date: '2026-09-18'
+    code: 608519
+    url: /works/608519/
   - title: Zenin Mukuwarenai Harem | A Harem Where No One Is Reciprocated
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/610041.jpg
@@ -365,7 +389,7 @@ works:
   - title: Countryside Married Women[Heartless _MTL] English
     author: tadano-mezashi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/621436.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-17'
     code: 621436
     url: /works/621436/
@@ -491,6 +515,15 @@ works:
     date: '2026-08-20'
     code: 639463
     url: /works/639463/
+  - title: Sougo Onanii de Osananajimi wa Itsumo Iku! ~Kore Ijou Iku to Tomaranai yo?~
+      | My Childhood Friend Loves It When We Jerk Off Together! But What Will Happen
+      If We Keep Going!?
+    author: yuuriko
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/641188.jpg
+    rating: 0.0
+    date: '2026-09-18'
+    code: 641188
+    url: /works/641188/
   - title: Kachiki na Single Mother to Dosukebe Netsuai Seikou | Dirty and Passionate
       Sex with a Single Mother 1
     author: botamochi
@@ -772,6 +805,13 @@ works:
     date: '2026-05-26'
     code: 652502
     url: /works/652502/
+  - title: Majime na Kimi ni Hamaru Karada
+    author: alp
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654010.jpg
+    rating: 0.0
+    date: '2026-09-18'
+    code: 654010
+    url: /works/654010/
   - title: My Tall, Stacked, Virgin Boss 1
     author: yunamaro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654603.jpg
@@ -1122,7 +1162,7 @@ works:
       actually a shy, super-perverted girl.
     author: ksyum
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681989.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-17'
     code: 681989
     url: /works/681989/

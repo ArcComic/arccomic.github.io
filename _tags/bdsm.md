@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bdsm"
-work_count: 13
+work_count: 14
 works:
   - title: Boku no Kaa-chan ga Hikikomori Neet Debu Aniki no Seishori Onaho ni Natteita
       Hanashi | My Mother is My Fat Shut-in Older NEET Brother's Sex Relief Onahole
@@ -104,4 +104,11 @@ works:
     date: '2026-09-15'
     code: 681251
     url: /works/681251/
+  - title: Being Enslaved by an Assertive Girl
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682180.jpg
+    rating: 0.0
+    date: '2026-09-18'
+    code: 682180
+    url: /works/682180/
 ---

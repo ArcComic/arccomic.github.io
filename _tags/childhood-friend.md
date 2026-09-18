@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "childhood friend"
-work_count: 15
+work_count: 20
 works:
   - title: Hajimete Kanojo Ga Dekita No Ni
     author: unknown
@@ -17,6 +17,13 @@ works:
     date: '2026-09-06'
     code: 383468
     url: /works/383468/
+  - title: Natsuyasumi! Osananajimi to Asedaku Sex - Sweaty sex with a childhood friend
+    author: sokumaru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/396367.jpg
+    rating: 0.0
+    date: '2026-09-18'
+    code: 396367
+    url: /works/396367/
   - title: Koi no Susumekata | How to Advance Your Love
     author: danimaru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/425528.jpg
@@ -24,6 +31,22 @@ works:
     date: '2026-04-27'
     code: 425528
     url: /works/425528/
+  - title: Mujikaku Shoujo wa Tashikametai | The Oblivious Girl Wants to Make Sure
+    author: ouji-hiyoko
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/450112.jpg
+    rating: 0.0
+    date: '2026-09-18'
+    code: 450112
+    url: /works/450112/
+  - title: Suieibu Shushou no Boyish Osananajimi wa Boku no Chinpo ni Dohamari Chuu
+      | My Boyish Longtime Friend Who Is The Swimming Club Captain Is Addicted To My
+      Dick
+    author: huwahuwa-raidou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/535271.jpg
+    rating: 0.0
+    date: '2026-09-18'
+    code: 535271
+    url: /works/535271/
   - title: Saikai shita Osananajimi to Issen o Koecchau Hanashi | I Reunited With My
       Longtime Friend and Crossed the Line
     author: satsuki-usa
@@ -39,6 +62,14 @@ works:
     date: '2026-04-27'
     code: 587827
     url: /works/587827/
+  - title: Makezu Girai na Osananajimi to H Shoubu suru Hanashi | A story where a Childhood
+      Friend that hates Losing has a Sex Battle!
+    author: molta
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/601357.jpg
+    rating: 0.0
+    date: '2026-09-18'
+    code: 601357
+    url: /works/601357/
   - title: Seishun o Yarinaosu nara Kondo koso Suki datta Doukyuusei to Tsukiatte Zettai
       Yarimakuritai. | If I'm Reliving My Life, This Time I Wanna Get With The Girl
       I Loved Back Then
@@ -48,6 +79,15 @@ works:
     date: '2026-09-04'
     code: 625933
     url: /works/625933/
+  - title: Sougo Onanii de Osananajimi wa Itsumo Iku! ~Kore Ijou Iku to Tomaranai yo?~
+      | My Childhood Friend Loves It When We Jerk Off Together! But What Will Happen
+      If We Keep Going!?
+    author: yuuriko
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/641188.jpg
+    rating: 0.0
+    date: '2026-09-18'
+    code: 641188
+    url: /works/641188/
   - title: Mujikaku na Osananajimi to Kyoumi Honi de Yatte Mitara | What Happens When
       You Sleep With Your Oblivious Childhood Friend Just Out of Curiosity Part 1
     author: gen

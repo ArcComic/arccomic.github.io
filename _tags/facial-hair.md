@@ -88,7 +88,7 @@ works:
   - title: Countryside Married Women[Heartless _MTL] English
     author: tadano-mezashi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/621436.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-17'
     code: 621436
     url: /works/621436/
@@ -177,7 +177,7 @@ works:
       Me... NTR 1 - 6 + revenge chap_MTL
     author: yuuki-ringo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681852.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-17'
     code: 681852
     url: /works/681852/

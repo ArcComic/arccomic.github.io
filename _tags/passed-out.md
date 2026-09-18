@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "passed out"
-work_count: 3
+work_count: 4
 works:
   - title: Tonari no Seki no Tomodachi to Issho ni Onanii Suru Hanashi | The Story About
       Masturbating Together With the Friend Who Sits Next to Me
@@ -26,4 +26,11 @@ works:
     date: '2026-05-07'
     code: 648414
     url: /works/648414/
+  - title: Majime na Kimi ni Hamaru Karada
+    author: alp
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654010.jpg
+    rating: 0.0
+    date: '2026-09-18'
+    code: 654010
+    url: /works/654010/
 ---

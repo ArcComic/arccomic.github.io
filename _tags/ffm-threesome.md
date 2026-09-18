@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "ffm threesome"
-work_count: 89
+work_count: 91
 works:
   - title: Hustle! Danchizuma Ch. 1-18 END
     author: hidemaru
@@ -109,6 +109,14 @@ works:
     date: '2026-09-10'
     code: 538176
     url: /works/538176/
+  - title: Cosplay Shiteiru Toki wa Hitozuma de wa Arimasen | Setting Aside Our Married
+      Lives When We Cosplay
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/539663.jpg
+    rating: 0.0
+    date: '2026-09-18'
+    code: 539663
+    url: /works/539663/
   - title: Pakokatsu Oji-san to Kaede-chan (1+2+3) | Kaede and The Sugar Daddy
     author: nizigensan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/543086.jpg
@@ -662,8 +670,15 @@ works:
   - title: I'm going to impose on my friend's place...
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681991.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-17'
     code: 681991
     url: /works/681991/
+  - title: Saimin x X I - Hypnosis x X I _MTL
+    author: kuretudenn
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682188.jpg
+    rating: 0.0
+    date: '2026-09-18'
+    code: 682188
+    url: /works/682188/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "mosaic censorship"
-work_count: 230
+work_count: 235
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -156,6 +156,13 @@ works:
     date: '2026-02-26'
     code: 393984
     url: /works/393984/
+  - title: Natsuyasumi! Osananajimi to Asedaku Sex - Sweaty sex with a childhood friend
+    author: sokumaru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/396367.jpg
+    rating: 0.0
+    date: '2026-09-18'
+    code: 396367
+    url: /works/396367/
   - title: Hyoui Osen de Yuri Ecchi | Lesbian Sex through Corrupting Possession
     author: siina-yuuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/404458.jpg
@@ -953,6 +960,15 @@ works:
     date: '2026-09-09'
     code: 637655
     url: /works/637655/
+  - title: Nakadashi Oji-san ni Nerawareta Mesu wa Nigeru Koto ga Dekinai ~Fujitomo
+      Megumi Hen 4~  | Targeted by the Cumshot Old Man I Can't Escape ~Fujitomo Megumi
+      Story~
+    author: climbcrown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/637891.jpg
+    rating: 0.0
+    date: '2026-09-18'
+    code: 637891
+    url: /works/637891/
   - title: Kaa-san to Sex Shita Mikkakan | Three Days of Sex with My Mom
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/639194.jpg
@@ -968,6 +984,15 @@ works:
     date: '2026-04-23'
     code: 640543
     url: /works/640543/
+  - title: Sougo Onanii de Osananajimi wa Itsumo Iku! ~Kore Ijou Iku to Tomaranai yo?~
+      | My Childhood Friend Loves It When We Jerk Off Together! But What Will Happen
+      If We Keep Going!?
+    author: yuuriko
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/641188.jpg
+    rating: 0.0
+    date: '2026-09-18'
+    code: 641188
+    url: /works/641188/
   - title: Akogare no Hito wa Mou Owari!
     author: orange-mimosa
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642584.jpg
@@ -1663,14 +1688,14 @@ works:
   - title: Muryou Manko Joshi Kousei Sayaka-chan
     author: '319'
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681775.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-09-17'
     code: 681775
     url: /works/681775/
   - title: The Nun Who tricks her Sibling
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681899.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-17'
     code: 681899
     url: /works/681899/
@@ -1678,8 +1703,22 @@ works:
       Onna Joushi! Omae no Omanko no Aji o Boku wa Shitteruzo!
     author: chotto-b-sen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681986.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-17'
     code: 681986
     url: /works/681986/
+  - title: Medorei Sensei
+    author: choma
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682176.jpg
+    rating: 0.0
+    date: '2026-09-18'
+    code: 682176
+    url: /works/682176/
+  - title: Shikatanaku Kaa-chan to Sex Shimasu 9
+    author: shimipan
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682182.jpg
+    rating: 0.0
+    date: '2026-09-18'
+    code: 682182
+    url: /works/682182/
 ---

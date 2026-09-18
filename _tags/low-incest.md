@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "low incest"
-work_count: 2
+work_count: 3
 works:
   - title: Zutto Akogare datta Dokyuusei no Mama to Yareta Hanashi Kuronuri ver
     author: chinpan
@@ -17,4 +17,11 @@ works:
     date: '2026-03-07'
     code: 634593
     url: /works/634593/
+  - title: Nusumareta Hitozuma. - Stolen Wife
+    author: taira-tsukune
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682203.jpg
+    rating: 0.0
+    date: '2026-09-18'
+    code: 682203
+    url: /works/682203/
 ---

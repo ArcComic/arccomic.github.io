@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "hololive"
-work_count: 9
+work_count: 10
 works:
   - title: Giragira no Beach
     author: shimantogawa
@@ -66,4 +66,11 @@ works:
     date: '2026-08-22'
     code: 674863
     url: /works/674863/
+  - title: Maid Time
+    author: sifarid
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682199.jpg
+    rating: 0.0
+    date: '2026-09-18'
+    code: 682199
+    url: /works/682199/
 ---

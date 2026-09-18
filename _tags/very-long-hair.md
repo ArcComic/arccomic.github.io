@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "very long hair"
-work_count: 40
+work_count: 42
 works:
   - title: Koi no Susumekata | How to Advance Your Love
     author: danimaru
@@ -202,6 +202,13 @@ works:
     date: '2026-09-04'
     code: 669459
     url: /works/669459/
+  - title: Yojouhan no Yuragi - Fluctuations in a Four-and-a-Half Tatami Room.
+    author: syoukaki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/672154.jpg
+    rating: 0.0
+    date: '2026-09-18'
+    code: 672154
+    url: /works/672154/
   - title: Tenshi Hirotta kara Haramaseru ~Ojii-san Senyou Botebara Onaho ni Naru made
       no Kiroku~ | I Met an Angel, and then I Knocked Her Up ~A Record of Becoming Oji-san’s
       Personal Preggo Belly Onahole~
@@ -306,4 +313,11 @@ works:
     date: '2026-09-13'
     code: 680991
     url: /works/680991/
+  - title: Muhyoujou na Ojou-sama ni Nayami Soudan de Namahame shite Ageta
+    author: hibietto
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682034.jpg
+    rating: 0.0
+    date: '2026-09-18'
+    code: 682034
+    url: /works/682034/
 ---

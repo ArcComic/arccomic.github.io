@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "wet clothes"
-work_count: 4
+work_count: 5
 works:
   - title: Ame no Hi wa, Honnori Chikubi
     author: hoshi-to-lucky
@@ -32,4 +32,11 @@ works:
     date: '2026-09-09'
     code: 679856
     url: /works/679856/
+  - title: Nusumareta Hitozuma. - Stolen Wife
+    author: taira-tsukune
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682203.jpg
+    rating: 0.0
+    date: '2026-09-18'
+    code: 682203
+    url: /works/682203/
 ---

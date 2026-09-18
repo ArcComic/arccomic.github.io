@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "kodomo doushi"
-work_count: 3
+work_count: 4
 works:
   - title: Honeori! Osewa Girl♡ | SK8er Girl Lends Me a Hand!
     author: kyaradain
@@ -24,4 +24,11 @@ works:
     date: '2026-08-28'
     code: 676197
     url: /works/676197/
+  - title: Problem
+    author: shinjima-saki-masaki-shinji
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682200.jpg
+    rating: 4.1
+    date: '2026-09-18'
+    code: 682200
+    url: /works/682200/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sensei"
-work_count: 15
+work_count: 16
 works:
   - title: Oshioki no Jikan - Punishment time
     author: syoukaki
@@ -74,6 +74,13 @@ works:
     date: '2026-09-09'
     code: 665716
     url: /works/665716/
+  - title: Yojouhan no Yuragi - Fluctuations in a Four-and-a-Half Tatami Room.
+    author: syoukaki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/672154.jpg
+    rating: 0.0
+    date: '2026-09-18'
+    code: 672154
+    url: /works/672154/
   - title: Sensei!! I Told You Not To Come Again Didn't I !!
     author: nakakazu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/676149.jpg

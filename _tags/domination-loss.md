@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "domination loss"
-work_count: 28
+work_count: 30
 works:
   - title: My Only Princess
     author: mackgee
@@ -76,6 +76,13 @@ works:
     date: '2026-04-23'
     code: 598175
     url: /works/598175/
+  - title: Zako Manko SeFri no Kurosaki-san
+    author: uni-toshiki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/606170.jpg
+    rating: 0.0
+    date: '2026-09-18'
+    code: 606170
+    url: /works/606170/
   - title: Mattaku Icha Love suru Ki no Nai Kyonyuu Reijou Gal ni Niku Dildo Atsukai
       Sareteiru Ore no Hanashi | The Story of How I’m Treated Like a Living Dildo by
       a Big-Titted Rich Gyaru Who Has No Interest in Being Lovey-Dovey
@@ -158,6 +165,13 @@ works:
     date: '2026-05-26'
     code: 652667
     url: /works/652667/
+  - title: Majime na Kimi ni Hamaru Karada
+    author: alp
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654010.jpg
+    rating: 0.0
+    date: '2026-09-18'
+    code: 654010
+    url: /works/654010/
   - title: Volley-bu no Shushou no Otouto Daikou o Suru Koto ni Natta Hanashi | The
       story of how I ended up acting as the younger brother of the volleyball team captain
     author: wes-heartland-smith

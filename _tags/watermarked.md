@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "watermarked"
-work_count: 11
+work_count: 12
 works:
   - title: NTR Anniversary + ) [Syukurin] Mitsuha ~Netorare~ (Kimi no Na wa.) [English]
       [Colorized] by Mikaku
@@ -84,4 +84,11 @@ works:
     date: '2026-07-09'
     code: 662550
     url: /works/662550/
+  - title: Saimin x X I - Hypnosis x X I _MTL
+    author: kuretudenn
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682188.jpg
+    rating: 0.0
+    date: '2026-09-18'
+    code: 682188
+    url: /works/682188/
 ---
