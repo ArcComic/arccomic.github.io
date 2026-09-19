@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "piercing"
-work_count: 29
+work_count: 31
 works:
   - title: Mecha Eroi kedo Sasoi ni Nottara Hametsushisou na Ko | A Girl Who Is Very
       Sexy But Will Ruin Me If I Ask Her Out
@@ -136,6 +136,13 @@ works:
     date: '2026-07-16'
     code: 664845
     url: /works/664845/
+  - title: Tora re tsuma ~ harami niku benki ni sa reta oku-sa ~
+    author: mokuzou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/667314.jpg
+    rating: 0.0
+    date: '2026-09-19'
+    code: 667314
+    url: /works/667314/
   - title: Totsuzen Ane ga Dekita Hanashi 4 | The Story of How I Suddenly Got Older
       Sisters 4
     author: oshima-aki
@@ -212,8 +219,15 @@ works:
   - title: Medorei Sensei
     author: choma
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682176.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-18'
     code: 682176
     url: /works/682176/
+  - title: 寝取らせクラブに送り出した不感症のダウナー彼女の報告 | 送往绿帽俱乐部的性冷淡阴沉女友的报告
+    author: sanuki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682385.jpg
+    rating: 0.0
+    date: '2026-09-19'
+    code: 682385
+    url: /works/682385/
 ---

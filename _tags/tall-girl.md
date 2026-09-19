@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "tall girl"
-work_count: 27
+work_count: 28
 works:
   - title: Oppai na Natsuyasumi 2 | The Summer Break of Boobs 2
     author: higashino-mikan
@@ -132,6 +132,14 @@ works:
     date: '2026-07-17'
     code: 664758
     url: /works/664758/
+  - title: Hoken Taiiku de Jitsugi ga Hisshuu ni natta Sekai - A world where sex ed
+      is mandatory and it's all practical
+    author: toyama-jigoku
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/665207.jpg
+    rating: 0.0
+    date: '2026-09-19'
+    code: 665207
+    url: /works/665207/
   - title: nekonimatatabi
     author: yuzuto-sen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/674592.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "footjob"
-work_count: 21
+work_count: 23
 works:
   - title: Sei no Kenryoku | The Power of Sex
     author: tomohiro-kai
@@ -76,6 +76,13 @@ works:
     date: '2026-04-12'
     code: 643512
     url: /works/643512/
+  - title: 'Mindless Lolis: Anya Forger Ep. 1-8'
+    author: baba
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/646501.jpg
+    rating: 0.0
+    date: '2026-09-19'
+    code: 646501
+    url: /works/646501/
   - title: Boku to Aitsu to Ano Ko to Kanojo. - Me, Him, the Girl and Her
     author: kameyama-cola
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/648093.jpg
@@ -146,6 +153,13 @@ works:
     date: '2026-09-16'
     code: 681510
     url: /works/681510/
+  - title: My Sister's Perfect Feet Book 2 Ep. 1-20
+    author: baba
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682326.jpg
+    rating: 0.0
+    date: '2026-09-19'
+    code: 682326
+    url: /works/682326/
   - title: Onee-chan no SM Kouza | Onee-chan's S&M Lecture
     author: shinooka-homare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/88750.jpg

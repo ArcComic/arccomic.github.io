@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "shotacon"
-work_count: 98
+work_count: 100
 works:
   - title: Hitozuma Hyakka
     author: hase-tsubura
@@ -536,6 +536,14 @@ works:
     date: '2026-07-15'
     code: 664191
     url: /works/664191/
+  - title: Hoken Taiiku de Jitsugi ga Hisshuu ni natta Sekai - A world where sex ed
+      is mandatory and it's all practical
+    author: toyama-jigoku
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/665207.jpg
+    rating: 0.0
+    date: '2026-09-19'
+    code: 665207
+    url: /works/665207/
   - title: Mama no, Sono Eroi Karada ga Ikenainda 1-2
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/672310.jpg
@@ -711,6 +719,14 @@ works:
     date: '2026-09-18'
     code: 682200
     url: /works/682200/
+  - title: Shita no Kai no Yokkyuufuman na Mucchimuchi Mama-san kara no Approach ga
+      Sugoi | The Frustrated, Curvy Mom Downstairs Keeps Making Bold Moves
+    author: ikinari-mojio-yosyo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682307.jpg
+    rating: 0.0
+    date: '2026-09-19'
+    code: 682307
+    url: /works/682307/
   - title: Jokyoushi - Hot For Teachers | Female Teachers
     author: drill-murata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/81375.jpg

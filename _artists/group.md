@@ -40,7 +40,7 @@ works:
   - title: Cosplay Shiteiru Toki wa Hitozuma de wa Arimasen | Setting Aside Our Married
       Lives When We Cosplay
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/539663.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-18'
     code: 539663
     url: /works/539663/

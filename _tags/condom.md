@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "condom"
-work_count: 162
+work_count: 163
 works:
   - title: Kaisha de Iroiro | Gettin' Busy at the Office
     author: hara-shigeyuki
@@ -83,7 +83,7 @@ works:
   - title: Hyouri no Omoi | Double-Sided Love
     author: suruga-kuroitsu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/333923.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-18'
     code: 333923
     url: /works/333923/
@@ -164,7 +164,7 @@ works:
   - title: Natsuyasumi! Osananajimi to Asedaku Sex - Sweaty sex with a childhood friend
     author: sokumaru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/396367.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-18'
     code: 396367
     url: /works/396367/
@@ -373,7 +373,7 @@ works:
       Dick
     author: huwahuwa-raidou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/535271.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-18'
     code: 535271
     url: /works/535271/
@@ -491,7 +491,7 @@ works:
   - title: Cocoa-chan no Jiraikei Chuuihou
     author: uni-toshiki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/590068.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-18'
     code: 590068
     url: /works/590068/
@@ -542,14 +542,14 @@ works:
   - title: Zako Manko SeFri no Kurosaki-san
     author: uni-toshiki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/606170.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-18'
     code: 606170
     url: /works/606170/
   - title: Truck Girl to Iede Boy Otona e no Tabi - Trucker Gal & The Runaway
     author: alps1mando
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/608159.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-18'
     code: 608159
     url: /works/608159/
@@ -608,7 +608,7 @@ works:
       no Tsunagarikata
     author: syoukaki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/619717.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-18'
     code: 619717
     url: /works/619717/
@@ -1194,4 +1194,11 @@ works:
     date: '2026-09-17'
     code: 681687
     url: /works/681687/
+  - title: Saimin Charao to Netorare Seitokai NTR Vol. 4
+    author: sunagimo-dx
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682290.jpg
+    rating: 0.0
+    date: '2026-09-19'
+    code: 682290
+    url: /works/682290/
 ---

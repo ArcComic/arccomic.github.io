@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "ffm threesome"
-work_count: 91
+work_count: 93
 works:
   - title: Hustle! Danchizuma Ch. 1-18 END
     author: hidemaru
@@ -113,7 +113,7 @@ works:
       Lives When We Cosplay
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/539663.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-18'
     code: 539663
     url: /works/539663/
@@ -320,6 +320,14 @@ works:
     date: '2026-04-12'
     code: 643375
     url: /works/643375/
+  - title: Noroi no Sei de MP ga Tarimasen!! Kouhen | "MP is Depleted Because of a Curse!!
+      - last part
+    author: nigiri-usagi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/643500.jpg
+    rating: 0.0
+    date: '2026-09-19'
+    code: 643500
+    url: /works/643500/
   - title: Soshite Kyou mo Moteasobareru 3 ~Minshuku Hen~ | And Today, Toyed With Again
       3 ~Inn Edition~
     author: erun
@@ -677,8 +685,15 @@ works:
   - title: Saimin x X I - Hypnosis x X I _MTL
     author: kuretudenn
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682188.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-18'
     code: 682188
     url: /works/682188/
+  - title: Saimin Charao to Netorare Seitokai NTR Vol. 4
+    author: sunagimo-dx
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682290.jpg
+    rating: 0.0
+    date: '2026-09-19'
+    code: 682290
+    url: /works/682290/
 ---

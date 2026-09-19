@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "maid"
-work_count: 23
+work_count: 24
 works:
   - title: Maid no Oshigoto. II | Maid's Work II
     author: alexi-laiho
@@ -44,7 +44,7 @@ works:
       Lives When We Cosplay
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/539663.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-18'
     code: 539663
     url: /works/539663/
@@ -91,7 +91,7 @@ works:
   - title: Zako Manko SeFri no Kurosaki-san
     author: uni-toshiki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/606170.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-18'
     code: 606170
     url: /works/606170/
@@ -138,6 +138,14 @@ works:
     date: '2026-05-21'
     code: 651499
     url: /works/651499/
+  - title: Tonikaku Sex ga Shitai Oba-san, Ryouko | Auntie Ryouko Wants to Have Sex
+      Everyday
+    author: mokuzou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662751.jpg
+    rating: 0.0
+    date: '2026-09-19'
+    code: 662751
+    url: /works/662751/
   - title: Tenshi Hirotta kara Haramaseru ~Ojii-san Senyou Botebara Onaho ni Naru made
       no Kiroku~ | I Met an Angel, and then I Knocked Her Up ~A Record of Becoming Oji-san’s
       Personal Preggo Belly Onahole~

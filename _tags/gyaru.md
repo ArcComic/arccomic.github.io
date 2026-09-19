@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "gyaru"
-work_count: 82
+work_count: 85
 works:
   - title: GalPa!
     author: sakagami-umi
@@ -20,7 +20,7 @@ works:
   - title: Hyouri no Omoi | Double-Sided Love
     author: suruga-kuroitsu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/333923.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-18'
     code: 333923
     url: /works/333923/
@@ -97,6 +97,14 @@ works:
     date: '2026-03-04'
     code: 502694
     url: /works/502694/
+  - title: Kinpatsu Chounyuu Gal ni Gyaku Deriheru Atsukai Sarete Iru Ore no Hanashi
+      | Blonde Gal with Huge Tits Treats Me Like a Manslut
+    author: uni-toshiki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/503772.jpg
+    rating: 0.0
+    date: '2026-09-19'
+    code: 503772
+    url: /works/503772/
   - title: Do-S Yankee JK to Do-M Hentai Teacher
     author: naganeko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/512715.jpg
@@ -142,14 +150,14 @@ works:
   - title: Zako Manko SeFri no Kurosaki-san
     author: uni-toshiki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/606170.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-18'
     code: 606170
     url: /works/606170/
   - title: Truck Girl to Iede Boy Otona e no Tabi - Trucker Gal & The Runaway
     author: alps1mando
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/608159.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-18'
     code: 608159
     url: /works/608159/
@@ -158,7 +166,7 @@ works:
       and a half tatami mat apartment
     author: kimura-neito
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/608519.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-09-18'
     code: 608519
     url: /works/608519/
@@ -215,6 +223,13 @@ works:
     date: '2026-03-04'
     code: 617805
     url: /works/617805/
+  - title: Ninkan Gakkou 1 + 2
+    author: yasui-riosuke
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/622161.jpg
+    rating: 4.5
+    date: '2026-09-19'
+    code: 622161
+    url: /works/622161/
   - title: Boku no Toshiue no Tomodachi | My Older Friend
     author: buta
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/631036.jpg
@@ -468,6 +483,14 @@ works:
     date: '2026-07-16'
     code: 664820
     url: /works/664820/
+  - title: Hoken Taiiku de Jitsugi ga Hisshuu ni natta Sekai - A world where sex ed
+      is mandatory and it's all practical
+    author: toyama-jigoku
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/665207.jpg
+    rating: 0.0
+    date: '2026-09-19'
+    code: 665207
+    url: /works/665207/
   - title: Totsuzen Ane ga Dekita Hanashi 4 | The Story of How I Suddenly Got Older
       Sisters 4
     author: oshima-aki

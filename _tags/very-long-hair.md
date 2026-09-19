@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "very long hair"
-work_count: 42
+work_count: 43
 works:
   - title: Koi no Susumekata | How to Advance Your Love
     author: danimaru
@@ -10,6 +10,14 @@ works:
     date: '2026-04-27'
     code: 425528
     url: /works/425528/
+  - title: Mutsugaki Icha Love Book ~Sensei to Kakurenbo~ | MUTSUGAKI Lovey-Dovey Book
+      ~Hide-and-seek with Sensei~
+    author: shibame
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/477646.jpg
+    rating: 0.0
+    date: '2026-09-19'
+    code: 477646
+    url: /works/477646/
   - title: Ai wa Oshiminaku | Love is given without reservation
     author: yoshika
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/539377.jpg
@@ -205,7 +213,7 @@ works:
   - title: Yojouhan no Yuragi - Fluctuations in a Four-and-a-Half Tatami Room.
     author: syoukaki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/672154.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-18'
     code: 672154
     url: /works/672154/
@@ -316,7 +324,7 @@ works:
   - title: Muhyoujou na Ojou-sama ni Nayami Soudan de Namahame shite Ageta
     author: hibietto
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682034.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-09-18'
     code: 682034
     url: /works/682034/

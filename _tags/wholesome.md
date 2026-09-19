@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "wholesome"
-work_count: 119
+work_count: 121
 works:
   - title: FLUFFY LAUGH GIRL
     author: shibasaki-syouzi
@@ -20,7 +20,7 @@ works:
   - title: Hyouri no Omoi | Double-Sided Love
     author: suruga-kuroitsu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/333923.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-18'
     code: 333923
     url: /works/333923/
@@ -86,7 +86,7 @@ works:
   - title: Last Chance
     author: herio
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/384255.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-18'
     code: 384255
     url: /works/384255/
@@ -108,7 +108,7 @@ works:
   - title: Natsuyasumi! Osananajimi to Asedaku Sex - Sweaty sex with a childhood friend
     author: sokumaru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/396367.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-18'
     code: 396367
     url: /works/396367/
@@ -186,7 +186,7 @@ works:
   - title: Mujikaku Shoujo wa Tashikametai | The Oblivious Girl Wants to Make Sure
     author: ouji-hiyoko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/450112.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-18'
     code: 450112
     url: /works/450112/
@@ -233,6 +233,14 @@ works:
     date: '2026-05-03'
     code: 498051
     url: /works/498051/
+  - title: Kinpatsu Chounyuu Gal ni Gyaku Deriheru Atsukai Sarete Iru Ore no Hanashi
+      | Blonde Gal with Huge Tits Treats Me Like a Manslut
+    author: uni-toshiki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/503772.jpg
+    rating: 0.0
+    date: '2026-09-19'
+    code: 503772
+    url: /works/503772/
   - title: Koi ni Naru made, | Until It Becomes Love
     author: danimaru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/507681.jpg
@@ -259,7 +267,7 @@ works:
       Dick
     author: huwahuwa-raidou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/535271.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-18'
     code: 535271
     url: /works/535271/
@@ -405,7 +413,7 @@ works:
       Friend that hates Losing has a Sex Battle!
     author: molta
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/601357.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-18'
     code: 601357
     url: /works/601357/
@@ -435,7 +443,7 @@ works:
   - title: Zako Manko SeFri no Kurosaki-san
     author: uni-toshiki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/606170.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-18'
     code: 606170
     url: /works/606170/
@@ -452,7 +460,7 @@ works:
       and a half tatami mat apartment
     author: kimura-neito
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/608519.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-09-18'
     code: 608519
     url: /works/608519/
@@ -491,7 +499,7 @@ works:
       no Tsunagarikata
     author: syoukaki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/619717.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-18'
     code: 619717
     url: /works/619717/
@@ -745,7 +753,7 @@ works:
   - title: Majime na Kimi ni Hamaru Karada
     author: alp
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654010.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-18'
     code: 654010
     url: /works/654010/
@@ -817,6 +825,14 @@ works:
     date: '2026-07-17'
     code: 664783
     url: /works/664783/
+  - title: Hoken Taiiku de Jitsugi ga Hisshuu ni natta Sekai - A world where sex ed
+      is mandatory and it's all practical
+    author: toyama-jigoku
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/665207.jpg
+    rating: 0.0
+    date: '2026-09-19'
+    code: 665207
+    url: /works/665207/
   - title: My GF (ghost friend) caught me jerking off and now she's bouncing on it CRAZY
       STYLE
     author: ricegnat
@@ -836,7 +852,7 @@ works:
   - title: Yojouhan no Yuragi - Fluctuations in a Four-and-a-Half Tatami Room.
     author: syoukaki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/672154.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-18'
     code: 672154
     url: /works/672154/

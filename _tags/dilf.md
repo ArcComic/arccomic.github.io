@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "dilf"
-work_count: 136
+work_count: 139
 works:
   - title: Adoration
     author: kishizuka-kenji
@@ -794,6 +794,14 @@ works:
     date: '2026-07-08'
     code: 662334
     url: /works/662334/
+  - title: Tonikaku Sex ga Shitai Oba-san, Ryouko | Auntie Ryouko Wants to Have Sex
+      Everyday
+    author: mokuzou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662751.jpg
+    rating: 0.0
+    date: '2026-09-19'
+    code: 662751
+    url: /works/662751/
   - title: Natsu Loli Ism Ch. 1-4
     author: molokonomi-hiraya-nobori
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/663056.jpg
@@ -995,4 +1003,20 @@ works:
     date: '2026-09-17'
     code: 681852
     url: /works/681852/
+  - title: Kodomo Wife-chans! Third time's the charm! | Little Wives! Third time's the
+      charm!
+    author: kumajiro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682328.jpg
+    rating: 0.0
+    date: '2026-09-19'
+    code: 682328
+    url: /works/682328/
+  - title: Sennyuu Sousakan -Cult ni Ochiru- Zenpen | Undercover Agent -Corrupted by
+      the Cult- Part One
+    author: take-shinshi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682339.jpg
+    rating: 0.0
+    date: '2026-09-19'
+    code: 682339
+    url: /works/682339/
 ---

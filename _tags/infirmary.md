@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "infirmary"
-work_count: 2
+work_count: 3
 works:
   - title: Hokenshitsu no Futon no Naka de Satori Sedai JK to Naisho H!
     author: niji-teru
@@ -18,4 +18,11 @@ works:
     date: '2026-07-16'
     code: 655498
     url: /works/655498/
+  - title: Hatsujouki dakara Shikatanai
+    author: tsukunendo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682245.jpg
+    rating: 0.0
+    date: '2026-09-19'
+    code: 682245
+    url: /works/682245/
 ---

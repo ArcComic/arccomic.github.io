@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "beauty mark"
-work_count: 135
+work_count: 142
 works:
   - title: Uragiri no Ai wa Mitsu no Aji | Treacherous Love Tastes Like Honey
     author: cuzukago
@@ -49,7 +49,7 @@ works:
   - title: Hyouri no Omoi | Double-Sided Love
     author: suruga-kuroitsu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/333923.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-18'
     code: 333923
     url: /works/333923/
@@ -60,6 +60,13 @@ works:
     date: '2026-04-13'
     code: 351868
     url: /works/351868/
+  - title: Senpai Refrain
+    author: spiritus-tarou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/357616.jpg
+    rating: 0.0
+    date: '2026-09-19'
+    code: 357616
+    url: /works/357616/
   - title: Okki na Saori-chan wa Bukiyou ni Eroi
     author: aramaki-echizen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/363219.jpg
@@ -178,6 +185,14 @@ works:
     date: '2026-07-11'
     code: 501709
     url: /works/501709/
+  - title: Kinpatsu Chounyuu Gal ni Gyaku Deriheru Atsukai Sarete Iru Ore no Hanashi
+      | Blonde Gal with Huge Tits Treats Me Like a Manslut
+    author: uni-toshiki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/503772.jpg
+    rating: 0.0
+    date: '2026-09-19'
+    code: 503772
+    url: /works/503772/
   - title: Moto Mahou Shoujo no Hikikomori Seikatsu | The NEET Life of a Former Magical
       Girl
     author: zhen-lu
@@ -398,7 +413,7 @@ works:
   - title: Cocoa-chan no Jiraikei Chuuihou
     author: uni-toshiki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/590068.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-18'
     code: 590068
     url: /works/590068/
@@ -742,7 +757,7 @@ works:
   - title: Majime na Kimi ni Hamaru Karada
     author: alp
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654010.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-18'
     code: 654010
     url: /works/654010/
@@ -797,6 +812,21 @@ works:
     date: '2026-07-09'
     code: 662658
     url: /works/662658/
+  - title: Hen na Soubi no Sei de O◯nko Kowareteshimatta de wa Nai ka!
+    author: nigiri-usagi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662706.jpg
+    rating: 0.0
+    date: '2026-09-19'
+    code: 662706
+    url: /works/662706/
+  - title: Tonikaku Sex ga Shitai Oba-san, Ryouko | Auntie Ryouko Wants to Have Sex
+      Everyday
+    author: mokuzou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662751.jpg
+    rating: 0.0
+    date: '2026-09-19'
+    code: 662751
+    url: /works/662751/
   - title: Buck-Chichi! | Gambling! Volume 2
     author: lime
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662877.jpg
@@ -1006,4 +1036,26 @@ works:
     date: '2026-09-17'
     code: 681989
     url: /works/681989/
+  - title: Hatsujouki dakara Shikatanai
+    author: tsukunendo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682245.jpg
+    rating: 0.0
+    date: '2026-09-19'
+    code: 682245
+    url: /works/682245/
+  - title: Saimin Charao to Netorare Seitokai NTR Vol. 4
+    author: sunagimo-dx
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682290.jpg
+    rating: 0.0
+    date: '2026-09-19'
+    code: 682290
+    url: /works/682290/
+  - title: Shita no Kai no Yokkyuufuman na Mucchimuchi Mama-san kara no Approach ga
+      Sugoi | The Frustrated, Curvy Mom Downstairs Keeps Making Bold Moves
+    author: ikinari-mojio-yosyo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682307.jpg
+    rating: 0.0
+    date: '2026-09-19'
+    code: 682307
+    url: /works/682307/
 ---

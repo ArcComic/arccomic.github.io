@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "gloves"
-work_count: 22
+work_count: 23
 works:
   - title: Yuri no o saifu ni shite agemasu ne, Senpai | I'll turn you into Yuri's wallet,
       Senpai
@@ -54,7 +54,7 @@ works:
       Lives When We Cosplay
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/539663.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-18'
     code: 539663
     url: /works/539663/
@@ -68,7 +68,7 @@ works:
   - title: Zako Manko SeFri no Kurosaki-san
     author: uni-toshiki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/606170.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-18'
     code: 606170
     url: /works/606170/
@@ -164,8 +164,15 @@ works:
   - title: Nusumareta Hitozuma. - Stolen Wife
     author: taira-tsukune
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682203.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-18'
     code: 682203
     url: /works/682203/
+  - title: Ryuuinkou | A Dragon's Lustful Scent
+    author: aramaki-echizen
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682342.jpg
+    rating: 0.0
+    date: '2026-09-19'
+    code: 682342
+    url: /works/682342/
 ---

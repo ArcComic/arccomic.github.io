@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "masked face"
-work_count: 9
+work_count: 10
 works:
   - title: Marebito Kitari Te
     author: yoshika
@@ -68,4 +68,12 @@ works:
     date: '2026-08-22'
     code: 674863
     url: /works/674863/
+  - title: Sennyuu Sousakan -Cult ni Ochiru- Zenpen | Undercover Agent -Corrupted by
+      the Cult- Part One
+    author: take-shinshi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682339.jpg
+    rating: 0.0
+    date: '2026-09-19'
+    code: 682339
+    url: /works/682339/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "exhibitionism"
-work_count: 54
+work_count: 55
 works:
   - title: Watashi-tachi no Seikoui Tokubetsu Jisshuu -Zengi Hen-
     author: guglielmo
@@ -344,6 +344,14 @@ works:
     date: '2026-07-08'
     code: 662150
     url: /works/662150/
+  - title: Tonikaku Sex ga Shitai Oba-san, Ryouko | Auntie Ryouko Wants to Have Sex
+      Everyday
+    author: mokuzou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662751.jpg
+    rating: 0.0
+    date: '2026-09-19'
+    code: 662751
+    url: /works/662751/
   - title: Buck-Chichi! | Gambling! Volume 2
     author: lime
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662877.jpg

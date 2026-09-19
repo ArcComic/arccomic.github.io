@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "cunnilingus"
-work_count: 124
+work_count: 126
 works:
   - title: Love Approach
     author: hanafuda-sakurano
@@ -129,7 +129,7 @@ works:
   - title: Mujikaku Shoujo wa Tashikametai | The Oblivious Girl Wants to Make Sure
     author: ouji-hiyoko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/450112.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-18'
     code: 450112
     url: /works/450112/
@@ -169,6 +169,14 @@ works:
     date: '2026-04-27'
     code: 503556
     url: /works/503556/
+  - title: Kinpatsu Chounyuu Gal ni Gyaku Deriheru Atsukai Sarete Iru Ore no Hanashi
+      | Blonde Gal with Huge Tits Treats Me Like a Manslut
+    author: uni-toshiki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/503772.jpg
+    rating: 0.0
+    date: '2026-09-19'
+    code: 503772
+    url: /works/503772/
   - title: Little Blue Bird
     author: kidouchi-kon
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/508534.jpg
@@ -419,7 +427,7 @@ works:
       no Tsunagarikata
     author: syoukaki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/619717.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-18'
     code: 619717
     url: /works/619717/
@@ -523,6 +531,13 @@ works:
     date: '2026-09-12'
     code: 646022
     url: /works/646022/
+  - title: 'Mindless Lolis: Anya Forger Ep. 1-8'
+    author: baba
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/646501.jpg
+    rating: 0.0
+    date: '2026-09-19'
+    code: 646501
+    url: /works/646501/
   - title: Sex Between Gloomy Types is the Hottest, Ain't It?
     author: doji-ro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/646757.jpg
@@ -678,7 +693,7 @@ works:
   - title: Majime na Kimi ni Hamaru Karada
     author: alp
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654010.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-18'
     code: 654010
     url: /works/654010/
@@ -916,7 +931,7 @@ works:
   - title: Nusumareta Hitozuma. - Stolen Wife
     author: taira-tsukune
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682203.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-18'
     code: 682203
     url: /works/682203/

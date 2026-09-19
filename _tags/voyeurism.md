@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "voyeurism"
-work_count: 33
+work_count: 34
 works:
   - title: Boku no Kazoku o Sarashimasu Ch. 3
     author: tanaka-aji
@@ -247,4 +247,11 @@ works:
     date: '2026-09-10'
     code: 680219
     url: /works/680219/
+  - title: Zenbu, zenbu, hajimete age chatte gomen'nasai
+    author: mauboumen
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682306.jpg
+    rating: 0.0
+    date: '2026-09-19'
+    code: 682306
+    url: /works/682306/
 ---

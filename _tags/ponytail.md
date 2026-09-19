@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "ponytail"
-work_count: 125
+work_count: 126
 works:
   - title: Hikki Mother Fucker
     author: otochichi
@@ -111,6 +111,14 @@ works:
     date: '2026-09-09'
     code: 461537
     url: /works/461537/
+  - title: Mutsugaki Icha Love Book ~Sensei to Kakurenbo~ | MUTSUGAKI Lovey-Dovey Book
+      ~Hide-and-seek with Sensei~
+    author: shibame
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/477646.jpg
+    rating: 0.0
+    date: '2026-09-19'
+    code: 477646
+    url: /works/477646/
   - title: Irekawatte Dotabata Ecchi! ~Aya-nee no Binkan na Karada ni Ore wa Taerarenai
       | Switch bodies and have noisy sex! I can't stand Ayanee's sensitive body 1-6
     author: suishin-tenra
@@ -615,7 +623,7 @@ works:
   - title: Majime na Kimi ni Hamaru Karada
     author: alp
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654010.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-18'
     code: 654010
     url: /works/654010/
@@ -761,7 +769,7 @@ works:
   - title: Yojouhan no Yuragi - Fluctuations in a Four-and-a-Half Tatami Room.
     author: syoukaki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/672154.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-18'
     code: 672154
     url: /works/672154/
@@ -805,7 +813,7 @@ works:
   - title: Oishii Milk no Tame no Sukkara
     author: herio
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678408.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-18'
     code: 678408
     url: /works/678408/
@@ -919,7 +927,7 @@ works:
   - title: Nusumareta Hitozuma. - Stolen Wife
     author: taira-tsukune
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682203.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-18'
     code: 682203
     url: /works/682203/

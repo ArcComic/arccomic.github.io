@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sex toys"
-work_count: 89
+work_count: 90
 works:
   - title: Ayami Hypno
     author: yasuhiro
@@ -645,15 +645,23 @@ works:
   - title: Being Enslaved by an Assertive Girl
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682180.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-18'
     code: 682180
     url: /works/682180/
   - title: Nusumareta Hitozuma. - Stolen Wife
     author: taira-tsukune
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682203.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-18'
     code: 682203
     url: /works/682203/
+  - title: Sennyuu Sousakan -Cult ni Ochiru- Zenpen | Undercover Agent -Corrupted by
+      the Cult- Part One
+    author: take-shinshi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682339.jpg
+    rating: 0.0
+    date: '2026-09-19'
+    code: 682339
+    url: /works/682339/
 ---

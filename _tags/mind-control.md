@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "mind control"
-work_count: 41
+work_count: 45
 works:
   - title: Ayami Hypno
     author: yasuhiro
@@ -107,10 +107,17 @@ works:
     date: '2026-09-09'
     code: 620889
     url: /works/620889/
+  - title: Ninkan Gakkou 1 + 2
+    author: yasui-riosuke
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/622161.jpg
+    rating: 4.5
+    date: '2026-09-19'
+    code: 622161
+    url: /works/622161/
   - title: Gakkou no Joshi o Chuumon Dekiru Denpyou ~Tadashi Seikoui Mokuteki ni Kagiru~
     author: nyuu-koubou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/625984.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-18'
     code: 625984
     url: /works/625984/
@@ -165,6 +172,13 @@ works:
     date: '2026-04-24'
     code: 645612
     url: /works/645612/
+  - title: 'Mindless Lolis: Anya Forger Ep. 1-8'
+    author: baba
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/646501.jpg
+    rating: 0.0
+    date: '2026-09-19'
+    code: 646501
+    url: /works/646501/
   - title: Venom Invasion VII 【Part 1】
     author: blackftos
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/647563.jpg
@@ -302,8 +316,23 @@ works:
   - title: Saimin x X I - Hypnosis x X I _MTL
     author: kuretudenn
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682188.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-18'
     code: 682188
     url: /works/682188/
+  - title: Saimin Charao to Netorare Seitokai NTR Vol. 4
+    author: sunagimo-dx
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682290.jpg
+    rating: 0.0
+    date: '2026-09-19'
+    code: 682290
+    url: /works/682290/
+  - title: Sennyuu Sousakan -Cult ni Ochiru- Zenpen | Undercover Agent -Corrupted by
+      the Cult- Part One
+    author: take-shinshi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682339.jpg
+    rating: 0.0
+    date: '2026-09-19'
+    code: 682339
+    url: /works/682339/
 ---

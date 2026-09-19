@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "domination loss"
-work_count: 30
+work_count: 31
 works:
   - title: My Only Princess
     author: mackgee
@@ -32,6 +32,14 @@ works:
     date: '2026-02-26'
     code: 475867
     url: /works/475867/
+  - title: Mutsugaki Icha Love Book ~Sensei to Kakurenbo~ | MUTSUGAKI Lovey-Dovey Book
+      ~Hide-and-seek with Sensei~
+    author: shibame
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/477646.jpg
+    rating: 0.0
+    date: '2026-09-19'
+    code: 477646
+    url: /works/477646/
   - title: Syuju - Kankei
     author: 810eru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/489004.jpg
@@ -79,7 +87,7 @@ works:
   - title: Zako Manko SeFri no Kurosaki-san
     author: uni-toshiki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/606170.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-18'
     code: 606170
     url: /works/606170/
@@ -168,7 +176,7 @@ works:
   - title: Majime na Kimi ni Hamaru Karada
     author: alp
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654010.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-18'
     code: 654010
     url: /works/654010/

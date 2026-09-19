@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "humiliation"
-work_count: 22
+work_count: 24
 works:
   - title: Doushia (Terasu MC)] Dorei Gazoku
     author: terasu-mc
@@ -42,7 +42,7 @@ works:
   - title: Gakkou no Joshi o Chuumon Dekiru Denpyou ~Tadashi Seikoui Mokuteki ni Kagiru~
     author: nyuu-koubou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/625984.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-18'
     code: 625984
     url: /works/625984/
@@ -160,8 +160,22 @@ works:
   - title: Saimin x X I - Hypnosis x X I _MTL
     author: kuretudenn
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682188.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-18'
     code: 682188
     url: /works/682188/
+  - title: Saimin Charao to Netorare Seitokai NTR Vol. 4
+    author: sunagimo-dx
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682290.jpg
+    rating: 0.0
+    date: '2026-09-19'
+    code: 682290
+    url: /works/682290/
+  - title: My Sister's Perfect Feet Book 2 Ep. 1-20
+    author: baba
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682326.jpg
+    rating: 0.0
+    date: '2026-09-19'
+    code: 682326
+    url: /works/682326/
 ---

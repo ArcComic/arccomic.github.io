@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sweating"
-work_count: 125
+work_count: 128
 works:
   - title: Kaisha de Iroiro | Gettin' Busy at the Office
     author: hara-shigeyuki
@@ -83,6 +83,13 @@ works:
     date: '2026-04-23'
     code: 356516
     url: /works/356516/
+  - title: Senpai Refrain
+    author: spiritus-tarou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/357616.jpg
+    rating: 0.0
+    date: '2026-09-19'
+    code: 357616
+    url: /works/357616/
   - title: Shirotaegiku | Dusty miller
     author: hiroya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/370164.jpg
@@ -136,7 +143,7 @@ works:
   - title: Mujikaku Shoujo wa Tashikametai | The Oblivious Girl Wants to Make Sure
     author: ouji-hiyoko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/450112.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-18'
     code: 450112
     url: /works/450112/
@@ -198,6 +205,14 @@ works:
     date: '2026-03-04'
     code: 502694
     url: /works/502694/
+  - title: Kinpatsu Chounyuu Gal ni Gyaku Deriheru Atsukai Sarete Iru Ore no Hanashi
+      | Blonde Gal with Huge Tits Treats Me Like a Manslut
+    author: uni-toshiki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/503772.jpg
+    rating: 0.0
+    date: '2026-09-19'
+    code: 503772
+    url: /works/503772/
   - title: Hitozuma Volley-bu no Asedaku SEX ~Shower Abinagara Micchaku Shichau? 1-2
       | Married Women's Volleyball Club Sweaty Sex - We're Being Glued Together While
       Taking A Shower? 1-2
@@ -309,7 +324,7 @@ works:
   - title: Zako Manko SeFri no Kurosaki-san
     author: uni-toshiki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/606170.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-18'
     code: 606170
     url: /works/606170/
@@ -472,6 +487,14 @@ works:
     date: '2026-04-12'
     code: 643397
     url: /works/643397/
+  - title: Noroi no Sei de MP ga Tarimasen!! Kouhen | "MP is Depleted Because of a Curse!!
+      - last part
+    author: nigiri-usagi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/643500.jpg
+    rating: 0.0
+    date: '2026-09-19'
+    code: 643500
+    url: /works/643500/
   - title: The Story Of How I Peeked On A Cheeky Elementary Schooler Brat Masturbating
       And Ended Up Having Sweet Sex | Namaiki Kusogaki js no Onanie Nozoitara Amaama
       Sex Dekita Hanashi
@@ -827,7 +850,7 @@ works:
   - title: Yojouhan no Yuragi - Fluctuations in a Four-and-a-Half Tatami Room.
     author: syoukaki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/672154.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-18'
     code: 672154
     url: /works/672154/

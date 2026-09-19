@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "schoolgirl uniform"
-work_count: 240
+work_count: 247
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -49,7 +49,7 @@ works:
   - title: Hyouri no Omoi | Double-Sided Love
     author: suruga-kuroitsu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/333923.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-18'
     code: 333923
     url: /works/333923/
@@ -96,6 +96,13 @@ works:
     date: '2026-09-06'
     code: 349379
     url: /works/349379/
+  - title: Senpai Refrain
+    author: spiritus-tarou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/357616.jpg
+    rating: 0.0
+    date: '2026-09-19'
+    code: 357616
+    url: /works/357616/
   - title: Okki na Saori-chan wa Bukiyou ni Eroi
     author: aramaki-echizen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/363219.jpg
@@ -113,7 +120,7 @@ works:
   - title: Last Chance
     author: herio
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/384255.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-18'
     code: 384255
     url: /works/384255/
@@ -265,6 +272,14 @@ works:
     date: '2026-09-12'
     code: 494757
     url: /works/494757/
+  - title: Kinpatsu Chounyuu Gal ni Gyaku Deriheru Atsukai Sarete Iru Ore no Hanashi
+      | Blonde Gal with Huge Tits Treats Me Like a Manslut
+    author: uni-toshiki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/503772.jpg
+    rating: 0.0
+    date: '2026-09-19'
+    code: 503772
+    url: /works/503772/
   - title: Toilet no Jimiko-san
     author: darezuka
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/504913.jpg
@@ -370,7 +385,7 @@ works:
       Lives When We Cosplay
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/539663.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-18'
     code: 539663
     url: /works/539663/
@@ -551,7 +566,7 @@ works:
   - title: Zako Manko SeFri no Kurosaki-san
     author: uni-toshiki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/606170.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-18'
     code: 606170
     url: /works/606170/
@@ -641,7 +656,7 @@ works:
   - title: Gakkou no Joshi o Chuumon Dekiru Denpyou ~Tadashi Seikoui Mokuteki ni Kagiru~
     author: nyuu-koubou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/625984.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-18'
     code: 625984
     url: /works/625984/
@@ -772,6 +787,13 @@ works:
     date: '2026-09-12'
     code: 638126
     url: /works/638126/
+  - title: Himitsu no Netorase Gokko
+    author: baa-chan-chi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638320.jpg
+    rating: 0.0
+    date: '2026-09-19'
+    code: 638320
+    url: /works/638320/
   - title: Eat Meat + Digital Tokusouban Gentei Tokuten - Natsume-san wa Chorosugiru!
     author: ushinomiya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638556.jpg
@@ -799,7 +821,7 @@ works:
       If We Keep Going!?
     author: yuuriko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/641188.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-18'
     code: 641188
     url: /works/641188/
@@ -1275,6 +1297,14 @@ works:
     date: '2026-07-08'
     code: 662215
     url: /works/662215/
+  - title: Tonikaku Sex ga Shitai Oba-san, Ryouko | Auntie Ryouko Wants to Have Sex
+      Everyday
+    author: mokuzou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662751.jpg
+    rating: 0.0
+    date: '2026-09-19'
+    code: 662751
+    url: /works/662751/
   - title: Gal to Otaku no Idenshi Aishou Batsugun H | The Superb Genetic Compatibility
       Between a Gyaru and an Otaku
     author: joucho
@@ -1362,6 +1392,14 @@ works:
     date: '2026-07-17'
     code: 664926
     url: /works/664926/
+  - title: Hoken Taiiku de Jitsugi ga Hisshuu ni natta Sekai - A world where sex ed
+      is mandatory and it's all practical
+    author: toyama-jigoku
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/665207.jpg
+    rating: 0.0
+    date: '2026-09-19'
+    code: 665207
+    url: /works/665207/
   - title: KORE HA ZENBU SENSEI NO SEIDESUKARA. + "Gouhou" deshitara... Daijoubu desu
     author: tomo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/665716.jpg
@@ -1768,14 +1806,14 @@ works:
   - title: Muhyoujou na Ojou-sama ni Nayami Soudan de Namahame shite Ageta
     author: hibietto
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682034.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-09-18'
     code: 682034
     url: /works/682034/
   - title: Saimin x X I - Hypnosis x X I _MTL
     author: kuretudenn
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682188.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-18'
     code: 682188
     url: /works/682188/
@@ -1786,4 +1824,18 @@ works:
     date: '2026-09-18'
     code: 682200
     url: /works/682200/
+  - title: Hatsujouki dakara Shikatanai
+    author: tsukunendo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682245.jpg
+    rating: 0.0
+    date: '2026-09-19'
+    code: 682245
+    url: /works/682245/
+  - title: Namaiki Mesugaki Kuppuku Acme Ch. 2
+    author: sasamashin
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682364.jpg
+    rating: 0.0
+    date: '2026-09-19'
+    code: 682364
+    url: /works/682364/
 ---

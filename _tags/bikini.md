@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bikini"
-work_count: 58
+work_count: 59
 works:
   - title: Kizashi
     author: yoshiura-kazuya
@@ -379,7 +379,7 @@ works:
   - title: Oishii Milk no Tame no Sukkara
     author: herio
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678408.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-18'
     code: 678408
     url: /works/678408/
@@ -452,4 +452,12 @@ works:
     date: '2026-09-17'
     code: 681989
     url: /works/681989/
+  - title: Shita no Kai no Yokkyuufuman na Mucchimuchi Mama-san kara no Approach ga
+      Sugoi | The Frustrated, Curvy Mom Downstairs Keeps Making Bold Moves
+    author: ikinari-mojio-yosyo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682307.jpg
+    rating: 0.0
+    date: '2026-09-19'
+    code: 682307
+    url: /works/682307/
 ---

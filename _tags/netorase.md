@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "netorase"
-work_count: 22
+work_count: 25
 works:
   - title: Boku no Netorase Seiheki ni Tsukiatte kureru Kanojo | A Girlfriend Who Plays
       Along with My Cuckold Fetish
@@ -85,6 +85,13 @@ works:
     date: '2026-08-25'
     code: 637847
     url: /works/637847/
+  - title: Himitsu no Netorase Gokko
+    author: baa-chan-chi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638320.jpg
+    rating: 0.0
+    date: '2026-09-19'
+    code: 638320
+    url: /works/638320/
   - title: LeveChi na Swapping 3 ~Honrosareru Fuufu Hen~ | Swapping on a Whole New Level
       3 ~The Couple At The Mercy Of Others~
     author: hikitogu
@@ -108,6 +115,14 @@ works:
     date: '2026-05-10'
     code: 649114
     url: /works/649114/
+  - title: Tonikaku Sex ga Shitai Oba-san, Ryouko | Auntie Ryouko Wants to Have Sex
+      Everyday
+    author: mokuzou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662751.jpg
+    rating: 0.0
+    date: '2026-09-19'
+    code: 662751
+    url: /works/662751/
   - title: Till Dick Do Us Part
     author: ratatatat74-mr-skull
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/664249.jpg
@@ -165,4 +180,11 @@ works:
     date: '2026-09-13'
     code: 680970
     url: /works/680970/
+  - title: 寝取らせクラブに送り出した不感症のダウナー彼女の報告 | 送往绿帽俱乐部的性冷淡阴沉女友的报告
+    author: sanuki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682385.jpg
+    rating: 0.0
+    date: '2026-09-19'
+    code: 682385
+    url: /works/682385/
 ---

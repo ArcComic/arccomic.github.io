@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "paizuri"
-work_count: 163
+work_count: 166
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -48,7 +48,7 @@ works:
   - title: Last Chance
     author: herio
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/384255.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-18'
     code: 384255
     url: /works/384255/
@@ -355,7 +355,7 @@ works:
   - title: Cocoa-chan no Jiraikei Chuuihou
     author: uni-toshiki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/590068.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-18'
     code: 590068
     url: /works/590068/
@@ -595,6 +595,14 @@ works:
     date: '2026-08-24'
     code: 642586
     url: /works/642586/
+  - title: Noroi no Sei de MP ga Tarimasen!! Kouhen | "MP is Depleted Because of a Curse!!
+      - last part
+    author: nigiri-usagi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/643500.jpg
+    rating: 0.0
+    date: '2026-09-19'
+    code: 643500
+    url: /works/643500/
   - title: 'IF: Gokinjo-sama ni Tanemaki Dekiru Sekaisen no Hanashi ~Mukashinajimi Doukyuusei
       no Baai~'
     author: amatani-haruka
@@ -810,7 +818,7 @@ works:
   - title: Majime na Kimi ni Hamaru Karada
     author: alp
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654010.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-18'
     code: 654010
     url: /works/654010/
@@ -882,6 +890,14 @@ works:
     date: '2026-07-08'
     code: 662370
     url: /works/662370/
+  - title: Tonikaku Sex ga Shitai Oba-san, Ryouko | Auntie Ryouko Wants to Have Sex
+      Everyday
+    author: mokuzou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662751.jpg
+    rating: 0.0
+    date: '2026-09-19'
+    code: 662751
+    url: /works/662751/
   - title: Yokkyuu Fuman na Musuko no Tsuma wa Gifu no Chinpo de Mesu ni Naru
     author: carburetor
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662945.jpg
@@ -1096,7 +1112,7 @@ works:
   - title: Oishii Milk no Tame no Sukkara
     author: herio
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678408.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-18'
     code: 678408
     url: /works/678408/
@@ -1223,8 +1239,16 @@ works:
   - title: Pakorare Award
     author: kuro-fn
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682178.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-09-18'
     code: 682178
     url: /works/682178/
+  - title: Jibun no Kanojo to Machigaete Tomodachi no Kanojo to Sex suru Hanashi 1 &
+      2
+    author: mauboumen
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682225.jpg
+    rating: 0.0
+    date: '2026-09-19'
+    code: 682225
+    url: /works/682225/
 ---

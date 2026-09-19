@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "moral degeneration"
-work_count: 27
+work_count: 28
 works:
   - title: Aqua Wing ~The man who switched bodies with an idol~
     author: touchuu-kasou
@@ -156,6 +156,13 @@ works:
     date: '2026-07-09'
     code: 661954
     url: /works/661954/
+  - title: Hen na Soubi no Sei de O◯nko Kowareteshimatta de wa Nai ka!
+    author: nigiri-usagi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662706.jpg
+    rating: 0.0
+    date: '2026-09-19'
+    code: 662706
+    url: /works/662706/
   - title: Till Dick Do Us Part
     author: ratatatat74-mr-skull
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/664249.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "kissing"
-work_count: 252
+work_count: 257
 works:
   - title: FLUFFY LAUGH GIRL
     author: shibasaki-syouzi
@@ -20,7 +20,7 @@ works:
   - title: Hyouri no Omoi | Double-Sided Love
     author: suruga-kuroitsu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/333923.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-18'
     code: 333923
     url: /works/333923/
@@ -374,7 +374,7 @@ works:
       Dick
     author: huwahuwa-raidou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/535271.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-18'
     code: 535271
     url: /works/535271/
@@ -766,7 +766,7 @@ works:
       no Tsunagarikata
     author: syoukaki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/619717.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-18'
     code: 619717
     url: /works/619717/
@@ -786,6 +786,13 @@ works:
     date: '2026-05-04'
     code: 621185
     url: /works/621185/
+  - title: Ninkan Gakkou 1 + 2
+    author: yasui-riosuke
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/622161.jpg
+    rating: 4.5
+    date: '2026-09-19'
+    code: 622161
+    url: /works/622161/
   - title: Igumox - Muramata-san no Himitsu & Aijou - Muramata-san's Secret & Affection
       COMPLETE
     author: igumox
@@ -991,6 +998,13 @@ works:
     date: '2026-09-05'
     code: 637940
     url: /works/637940/
+  - title: Himitsu no Netorase Gokko
+    author: baa-chan-chi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638320.jpg
+    rating: 0.0
+    date: '2026-09-19'
+    code: 638320
+    url: /works/638320/
   - title: BUTA - 『You did a great job』
     author: buta
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/639772.jpg
@@ -1003,7 +1017,7 @@ works:
       If We Keep Going!?
     author: yuuriko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/641188.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-18'
     code: 641188
     url: /works/641188/
@@ -1053,6 +1067,14 @@ works:
     date: '2026-04-12'
     code: 643375
     url: /works/643375/
+  - title: Noroi no Sei de MP ga Tarimasen!! Kouhen | "MP is Depleted Because of a Curse!!
+      - last part
+    author: nigiri-usagi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/643500.jpg
+    rating: 0.0
+    date: '2026-09-19'
+    code: 643500
+    url: /works/643500/
   - title: DeliHeal Yondara Moto Doukyuusei ga Kita ~Polynesian Sex  6-kame~
     author: tatsuwaipu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/643512.jpg
@@ -1364,7 +1386,7 @@ works:
   - title: Majime na Kimi ni Hamaru Karada
     author: alp
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654010.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-18'
     code: 654010
     url: /works/654010/
@@ -1579,7 +1601,7 @@ works:
   - title: Yojouhan no Yuragi - Fluctuations in a Four-and-a-Half Tatami Room.
     author: syoukaki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/672154.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-18'
     code: 672154
     url: /works/672154/
@@ -1891,8 +1913,23 @@ works:
   - title: Nusumareta Hitozuma. - Stolen Wife
     author: taira-tsukune
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682203.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-18'
     code: 682203
     url: /works/682203/
+  - title: Saimin Charao to Netorare Seitokai NTR Vol. 4
+    author: sunagimo-dx
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682290.jpg
+    rating: 0.0
+    date: '2026-09-19'
+    code: 682290
+    url: /works/682290/
+  - title: Kodomo Wife-chans! Third time's the charm! | Little Wives! Third time's the
+      charm!
+    author: kumajiro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682328.jpg
+    rating: 0.0
+    date: '2026-09-19'
+    code: 682328
+    url: /works/682328/
 ---

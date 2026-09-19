@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "kimono"
-work_count: 35
+work_count: 36
 works:
   - title: Hitozuma Hyakka
     author: hase-tsubura
@@ -121,7 +121,7 @@ works:
       no Tsunagarikata
     author: syoukaki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/619717.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-18'
     code: 619717
     url: /works/619717/
@@ -268,4 +268,12 @@ works:
     date: '2026-09-17'
     code: 681720
     url: /works/681720/
+  - title: Jibun no Kanojo to Machigaete Tomodachi no Kanojo to Sex suru Hanashi 1 &
+      2
+    author: mauboumen
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682225.jpg
+    rating: 0.0
+    date: '2026-09-19'
+    code: 682225
+    url: /works/682225/
 ---

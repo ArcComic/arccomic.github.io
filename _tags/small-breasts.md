@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "small breasts"
-work_count: 35
+work_count: 36
 works:
   - title: FLUFFY LAUGH GIRL
     author: shibasaki-syouzi
@@ -27,7 +27,7 @@ works:
   - title: Natsuyasumi! Osananajimi to Asedaku Sex - Sweaty sex with a childhood friend
     author: sokumaru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/396367.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-18'
     code: 396367
     url: /works/396367/
@@ -106,7 +106,7 @@ works:
   - title: Gakkou no Joshi o Chuumon Dekiru Denpyou ~Tadashi Seikoui Mokuteki ni Kagiru~
     author: nyuu-koubou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/625984.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-18'
     code: 625984
     url: /works/625984/
@@ -262,4 +262,11 @@ works:
     date: '2026-09-17'
     code: 681700
     url: /works/681700/
+  - title: Ryuuinkou | A Dragon's Lustful Scent
+    author: aramaki-echizen
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682342.jpg
+    rating: 0.0
+    date: '2026-09-19'
+    code: 682342
+    url: /works/682342/
 ---

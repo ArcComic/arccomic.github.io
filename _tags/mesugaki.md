@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "mesugaki"
-work_count: 6
+work_count: 8
 works:
   - title: Seiso na Imouto no Tomodachi wa Mesugaki deshita | My Pure and Innocent Little
       Sister Became Friends With a Mesugaki
@@ -11,6 +11,14 @@ works:
     date: '2026-02-26'
     code: 475867
     url: /works/475867/
+  - title: Mutsugaki Icha Love Book ~Sensei to Kakurenbo~ | MUTSUGAKI Lovey-Dovey Book
+      ~Hide-and-seek with Sensei~
+    author: shibame
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/477646.jpg
+    rating: 0.0
+    date: '2026-09-19'
+    code: 477646
+    url: /works/477646/
   - title: Uwa, Mesugaki Tsuyoi! | Crap, This Mesugaki's Too Powerful!
     author: poncocchan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/550359.jpg
@@ -46,4 +54,11 @@ works:
     date: '2026-08-21'
     code: 674568
     url: /works/674568/
+  - title: Namaiki Mesugaki Kuppuku Acme Ch. 2
+    author: sasamashin
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682364.jpg
+    rating: 0.0
+    date: '2026-09-19'
+    code: 682364
+    url: /works/682364/
 ---

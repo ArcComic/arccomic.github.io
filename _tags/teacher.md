@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "teacher"
-work_count: 69
+work_count: 70
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -201,7 +201,7 @@ works:
   - title: Gakkou no Joshi o Chuumon Dekiru Denpyou ~Tadashi Seikoui Mokuteki ni Kagiru~
     author: nyuu-koubou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/625984.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-18'
     code: 625984
     url: /works/625984/
@@ -494,17 +494,24 @@ works:
   - title: Muhyoujou na Ojou-sama ni Nayami Soudan de Namahame shite Ageta
     author: hibietto
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682034.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-09-18'
     code: 682034
     url: /works/682034/
   - title: Saimin x X I - Hypnosis x X I _MTL
     author: kuretudenn
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682188.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-18'
     code: 682188
     url: /works/682188/
+  - title: Ryuuinkou | A Dragon's Lustful Scent
+    author: aramaki-echizen
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682342.jpg
+    rating: 0.0
+    date: '2026-09-19'
+    code: 682342
+    url: /works/682342/
   - title: Jokyoushi - Hot For Teachers | Female Teachers
     author: drill-murata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/81375.jpg

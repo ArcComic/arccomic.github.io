@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "netorare"
-work_count: 284
+work_count: 293
 works:
   - title: Hitozuma Hyakka
     author: hase-tsubura
@@ -929,6 +929,13 @@ works:
     date: '2026-09-17'
     code: 621436
     url: /works/621436/
+  - title: Ninkan Gakkou 1 + 2
+    author: yasui-riosuke
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/622161.jpg
+    rating: 4.5
+    date: '2026-09-19'
+    code: 622161
+    url: /works/622161/
   - title: The Story of How My Brain Was Destroyed After Dating Someone Who Would Grant
       Any Request
     author: jakky
@@ -1076,6 +1083,13 @@ works:
     date: '2026-05-05'
     code: 638218
     url: /works/638218/
+  - title: Himitsu no Netorase Gokko
+    author: baa-chan-chi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638320.jpg
+    rating: 0.0
+    date: '2026-09-19'
+    code: 638320
+    url: /works/638320/
   - title: Boku ga Shiranakatta Mama to Jii-chan no Koto | Things I didn't Know Between
       Mom And Grandpa
     author: urakan
@@ -1151,6 +1165,14 @@ works:
     date: '2026-04-12'
     code: 643397
     url: /works/643397/
+  - title: Noroi no Sei de MP ga Tarimasen!! Kouhen | "MP is Depleted Because of a Curse!!
+      - last part
+    author: nigiri-usagi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/643500.jpg
+    rating: 0.0
+    date: '2026-09-19'
+    code: 643500
+    url: /works/643500/
   - title: Reji-ka no Kanojo ~Kareshi no Tame ni Hataraite ita Watashi ga Tenchou no
       Seiganku ni natta Riyuu~ | My Cashier Girlfriend ~The Reason I, Who Was Working
       for My Boyfriend’s Sake, Became the Store Manager’s Sex Toy~
@@ -1533,6 +1555,14 @@ works:
     date: '2026-07-09'
     code: 662657
     url: /works/662657/
+  - title: Tonikaku Sex ga Shitai Oba-san, Ryouko | Auntie Ryouko Wants to Have Sex
+      Everyday
+    author: mokuzou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662751.jpg
+    rating: 0.0
+    date: '2026-09-19'
+    code: 662751
+    url: /works/662751/
   - title: Zecchou Kenchi Appli ~Nariyamanai Netorare Tsuuchi~
     author: sora-paprika
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662766.jpg
@@ -1667,6 +1697,13 @@ works:
     date: '2026-07-17'
     code: 664937
     url: /works/664937/
+  - title: Tora re tsuma ~ harami niku benki ni sa reta oku-sa ~
+    author: mokuzou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/667314.jpg
+    rating: 0.0
+    date: '2026-09-19'
+    code: 667314
+    url: /works/667314/
   - title: Nakadashi Oji-san ni Nerawareta Mesu wa Nigeru Koto ga Dekinai ~Fujitomo
       Megumi Hen 2~ | A Woman Can't Get Away After Being Targeted By This Horny Old
       Man - Fujitomo Megumi Edition Vol.2 [English] =White Symphony=
@@ -2091,10 +2128,39 @@ works:
   - title: Nusumareta Hitozuma. - Stolen Wife
     author: taira-tsukune
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682203.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-18'
     code: 682203
     url: /works/682203/
+  - title: Saimin Charao to Netorare Seitokai NTR Vol. 4
+    author: sunagimo-dx
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682290.jpg
+    rating: 0.0
+    date: '2026-09-19'
+    code: 682290
+    url: /works/682290/
+  - title: Zenbu, zenbu, hajimete age chatte gomen'nasai
+    author: mauboumen
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682306.jpg
+    rating: 0.0
+    date: '2026-09-19'
+    code: 682306
+    url: /works/682306/
+  - title: Sennyuu Sousakan -Cult ni Ochiru- Zenpen | Undercover Agent -Corrupted by
+      the Cult- Part One
+    author: take-shinshi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682339.jpg
+    rating: 0.0
+    date: '2026-09-19'
+    code: 682339
+    url: /works/682339/
+  - title: 寝取らせクラブに送り出した不感症のダウナー彼女の報告 | 送往绿帽俱乐部的性冷淡阴沉女友的报告
+    author: sanuki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682385.jpg
+    rating: 0.0
+    date: '2026-09-19'
+    code: 682385
+    url: /works/682385/
   - title: Inin Keiyaku | Lewd Pregnancy Contract
     author: yoshiura-kazuya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/83595.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "dark skin"
-work_count: 104
+work_count: 107
 works:
   - title: GalPa!
     author: sakagami-umi
@@ -62,7 +62,7 @@ works:
   - title: Hyouri no Omoi | Double-Sided Love
     author: suruga-kuroitsu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/333923.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-18'
     code: 333923
     url: /works/333923/
@@ -84,7 +84,7 @@ works:
   - title: Natsuyasumi! Osananajimi to Asedaku Sex - Sweaty sex with a childhood friend
     author: sokumaru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/396367.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-18'
     code: 396367
     url: /works/396367/
@@ -150,7 +150,7 @@ works:
   - title: Mujikaku Shoujo wa Tashikametai | The Oblivious Girl Wants to Make Sure
     author: ouji-hiyoko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/450112.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-18'
     code: 450112
     url: /works/450112/
@@ -305,14 +305,14 @@ works:
       Friend that hates Losing has a Sex Battle!
     author: molta
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/601357.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-18'
     code: 601357
     url: /works/601357/
   - title: Truck Girl to Iede Boy Otona e no Tabi - Trucker Gal & The Runaway
     author: alps1mando
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/608159.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-18'
     code: 608159
     url: /works/608159/
@@ -321,7 +321,7 @@ works:
       and a half tatami mat apartment
     author: kimura-neito
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/608519.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-09-18'
     code: 608519
     url: /works/608519/
@@ -457,6 +457,14 @@ works:
     date: '2026-04-12'
     code: 643397
     url: /works/643397/
+  - title: Noroi no Sei de MP ga Tarimasen!! Kouhen | "MP is Depleted Because of a Curse!!
+      - last part
+    author: nigiri-usagi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/643500.jpg
+    rating: 0.0
+    date: '2026-09-19'
+    code: 643500
+    url: /works/643500/
   - title: Mitsuha ~Netorare~ 10 (Your Name After Story) True Ending
     author: syukurin
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/643592.jpg
@@ -626,6 +634,14 @@ works:
     date: '2026-07-16'
     code: 664424
     url: /works/664424/
+  - title: Hoken Taiiku de Jitsugi ga Hisshuu ni natta Sekai - A world where sex ed
+      is mandatory and it's all practical
+    author: toyama-jigoku
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/665207.jpg
+    rating: 0.0
+    date: '2026-09-19'
+    code: 665207
+    url: /works/665207/
   - title: Black Kigyou No Kamin Shitsu Ga Yari Beya Ni Natteta Hanashi
     author: oshima-aki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/668297.jpg
@@ -763,8 +779,15 @@ works:
   - title: Pakorare Award
     author: kuro-fn
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682178.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-09-18'
     code: 682178
     url: /works/682178/
+  - title: Saimin Charao to Netorare Seitokai NTR Vol. 4
+    author: sunagimo-dx
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682290.jpg
+    rating: 0.0
+    date: '2026-09-19'
+    code: 682290
+    url: /works/682290/
 ---

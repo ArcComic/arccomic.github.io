@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "eye-covering bang"
-work_count: 40
+work_count: 43
 works:
   - title: 'Portio Switch CASE: Varicata Portio | Cervix Switch CASE - Extra-hard Cervix'
     author: bang-you-didori
@@ -74,7 +74,7 @@ works:
   - title: Zako Manko SeFri no Kurosaki-san
     author: uni-toshiki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/606170.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-18'
     code: 606170
     url: /works/606170/
@@ -143,6 +143,14 @@ works:
     date: '2026-04-11'
     code: 643193
     url: /works/643193/
+  - title: Noroi no Sei de MP ga Tarimasen!! Kouhen | "MP is Depleted Because of a Curse!!
+      - last part
+    author: nigiri-usagi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/643500.jpg
+    rating: 0.0
+    date: '2026-09-19'
+    code: 643500
+    url: /works/643500/
   - title: Menhera Collection Black
     author: microa
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/644528.jpg
@@ -225,6 +233,14 @@ works:
     date: '2026-07-17'
     code: 664758
     url: /works/664758/
+  - title: Hoken Taiiku de Jitsugi ga Hisshuu ni natta Sekai - A world where sex ed
+      is mandatory and it's all practical
+    author: toyama-jigoku
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/665207.jpg
+    rating: 0.0
+    date: '2026-09-19'
+    code: 665207
+    url: /works/665207/
   - title: Omi-san no Komoriuta | Omi-san's Lullaby
     author: nekomata-naomi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673920.jpg
@@ -303,4 +319,11 @@ works:
     date: '2026-09-17'
     code: 681990
     url: /works/681990/
+  - title: Saimin Charao to Netorare Seitokai NTR Vol. 4
+    author: sunagimo-dx
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682290.jpg
+    rating: 0.0
+    date: '2026-09-19'
+    code: 682290
+    url: /works/682290/
 ---

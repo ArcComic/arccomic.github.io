@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "anal"
-work_count: 109
+work_count: 111
 works:
   - title: Hitozuma Hyakka
     author: hase-tsubura
@@ -278,7 +278,7 @@ works:
   - title: Gakkou no Joshi o Chuumon Dekiru Denpyou ~Tadashi Seikoui Mokuteki ni Kagiru~
     author: nyuu-koubou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/625984.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-18'
     code: 625984
     url: /works/625984/
@@ -544,6 +544,13 @@ works:
     date: '2026-07-09'
     code: 662658
     url: /works/662658/
+  - title: Hen na Soubi no Sei de O◯nko Kowareteshimatta de wa Nai ka!
+    author: nigiri-usagi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662706.jpg
+    rating: 0.0
+    date: '2026-09-19'
+    code: 662706
+    url: /works/662706/
   - title: Metal Girl Ie Onanie
     author: ishimura-ishimiso
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/663142.jpg
@@ -785,7 +792,7 @@ works:
   - title: Being Enslaved by an Assertive Girl
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682180.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-18'
     code: 682180
     url: /works/682180/
@@ -796,6 +803,13 @@ works:
     date: '2026-09-18'
     code: 682200
     url: /works/682200/
+  - title: 寝取らせクラブに送り出した不感症のダウナー彼女の報告 | 送往绿帽俱乐部的性冷淡阴沉女友的报告
+    author: sanuki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682385.jpg
+    rating: 0.0
+    date: '2026-09-19'
+    code: 682385
+    url: /works/682385/
   - title: Jokyoushi - Hot For Teachers | Female Teachers
     author: drill-murata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/81375.jpg

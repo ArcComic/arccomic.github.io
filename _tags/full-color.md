@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "full color"
-work_count: 176
+work_count: 180
 works:
   - title: Tsuma wo Yariman ni Shimasu Shakkin no Tame desu kara.
     author: pietoro
@@ -70,7 +70,7 @@ works:
   - title: Natsuyasumi! Osananajimi to Asedaku Sex - Sweaty sex with a childhood friend
     author: sokumaru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/396367.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-18'
     code: 396367
     url: /works/396367/
@@ -850,6 +850,13 @@ works:
     date: '2026-04-25'
     code: 645908
     url: /works/645908/
+  - title: 'Mindless Lolis: Anya Forger Ep. 1-8'
+    author: baba
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/646501.jpg
+    rating: 0.0
+    date: '2026-09-19'
+    code: 646501
+    url: /works/646501/
   - title: Houchiko Hirotte LesSe Suru
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/646967.jpg
@@ -1088,6 +1095,13 @@ works:
     date: '2026-09-13'
     code: 667204
     url: /works/667204/
+  - title: Tora re tsuma ~ harami niku benki ni sa reta oku-sa ~
+    author: mokuzou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/667314.jpg
+    rating: 0.0
+    date: '2026-09-19'
+    code: 667314
+    url: /works/667314/
   - title: Niizuma Nanaka no Roshutsu Office
     author: fukurou-naru-tori
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/668605.jpg
@@ -1287,8 +1301,22 @@ works:
   - title: Shikatanaku Kaa-chan to Sex Shimasu 9
     author: shimipan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682182.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-18'
     code: 682182
     url: /works/682182/
+  - title: Saimin Charao to Netorare Seitokai NTR Vol. 4
+    author: sunagimo-dx
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682290.jpg
+    rating: 0.0
+    date: '2026-09-19'
+    code: 682290
+    url: /works/682290/
+  - title: My Sister's Perfect Feet Book 2 Ep. 1-20
+    author: baba
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682326.jpg
+    rating: 0.0
+    date: '2026-09-19'
+    code: 682326
+    url: /works/682326/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "tracksuit"
-work_count: 9
+work_count: 11
 works:
   - title: Adlescence 06 Nozomi [English] =NSS=
     author: aoten
@@ -41,6 +41,13 @@ works:
     date: '2026-02-26'
     code: 615775
     url: /works/615775/
+  - title: Ninkan Gakkou 1 + 2
+    author: yasui-riosuke
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/622161.jpg
+    rating: 4.5
+    date: '2026-09-19'
+    code: 622161
+    url: /works/622161/
   - title: Boku no kanojo | My Girlfriend
     author: fuguta-ke
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651346.jpg
@@ -72,4 +79,11 @@ works:
     date: '2026-09-12'
     code: 680771
     url: /works/680771/
+  - title: My Sister's Perfect Feet Book 2 Ep. 1-20
+    author: baba
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682326.jpg
+    rating: 0.0
+    date: '2026-09-19'
+    code: 682326
+    url: /works/682326/
 ---

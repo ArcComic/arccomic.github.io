@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "huge breasts"
-work_count: 68
+work_count: 69
 works:
   - title: Furuhonya no Onee-san to | With The Lady From The Used Book Shop
     author: nodame
@@ -92,7 +92,7 @@ works:
   - title: Truck Girl to Iede Boy Otona e no Tabi - Trucker Gal & The Runaway
     author: alps1mando
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/608159.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-18'
     code: 608159
     url: /works/608159/
@@ -344,6 +344,14 @@ works:
     date: '2026-07-15'
     code: 664188
     url: /works/664188/
+  - title: Hoken Taiiku de Jitsugi ga Hisshuu ni natta Sekai - A world where sex ed
+      is mandatory and it's all practical
+    author: toyama-jigoku
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/665207.jpg
+    rating: 0.0
+    date: '2026-09-19'
+    code: 665207
+    url: /works/665207/
   - title: Okoranaide Hoshikawa-san 3 | Hey, Hold your Horses, Hoshikawa-san! 3
     author: raidon
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/667857.jpg
@@ -510,7 +518,7 @@ works:
   - title: Shikatanaku Kaa-chan to Sex Shimasu 9
     author: shimipan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682182.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-18'
     code: 682182
     url: /works/682182/

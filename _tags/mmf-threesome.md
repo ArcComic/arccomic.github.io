@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "mmf threesome"
-work_count: 36
+work_count: 37
 works:
   - title: Hitozuma Hyakka
     author: hase-tsubura
@@ -198,6 +198,13 @@ works:
     date: '2026-07-09'
     code: 662657
     url: /works/662657/
+  - title: Hen na Soubi no Sei de O◯nko Kowareteshimatta de wa Nai ka!
+    author: nigiri-usagi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662706.jpg
+    rating: 0.0
+    date: '2026-09-19'
+    code: 662706
+    url: /works/662706/
   - title: Natsu Loli Ism Ch. 1-4
     author: molokonomi-hiraya-nobori
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/663056.jpg

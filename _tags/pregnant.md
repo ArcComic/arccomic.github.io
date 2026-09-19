@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "pregnant"
-work_count: 29
+work_count: 32
 works:
   - title: Uragiri no Ai wa Mitsu no Aji | Treacherous Love Tastes Like Honey
     author: cuzukago
@@ -158,6 +158,14 @@ works:
     date: '2026-07-07'
     code: 661909
     url: /works/661909/
+  - title: Tonikaku Sex ga Shitai Oba-san, Ryouko | Auntie Ryouko Wants to Have Sex
+      Everyday
+    author: mokuzou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662751.jpg
+    rating: 0.0
+    date: '2026-09-19'
+    code: 662751
+    url: /works/662751/
   - title: 'Seifukusha ~Yami ni Ochiru Hitozuma-tachi~ | Sexploiter: Housewives Falling
       Into Darkness'
     author: hoshino-ryuichi
@@ -166,6 +174,13 @@ works:
     date: '2026-07-17'
     code: 664937
     url: /works/664937/
+  - title: Tora re tsuma ~ harami niku benki ni sa reta oku-sa ~
+    author: mokuzou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/667314.jpg
+    rating: 0.0
+    date: '2026-09-19'
+    code: 667314
+    url: /works/667314/
   - title: Igyou Koubi Kairaku Jigoku 1 + 2
     author: allegro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/668880.jpg
@@ -215,4 +230,11 @@ works:
     date: '2026-09-17'
     code: 681899
     url: /works/681899/
+  - title: Namaiki Mesugaki Kuppuku Acme Ch. 2
+    author: sasamashin
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682364.jpg
+    rating: 0.0
+    date: '2026-09-19'
+    code: 682364
+    url: /works/682364/
 ---

@@ -1,12 +1,12 @@
 ---
 layout: tag
 tag_name: "inverted nipples"
-work_count: 30
+work_count: 32
 works:
   - title: Hyouri no Omoi | Double-Sided Love
     author: suruga-kuroitsu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/333923.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-18'
     code: 333923
     url: /works/333923/
@@ -101,6 +101,14 @@ works:
     date: '2026-08-23'
     code: 639772
     url: /works/639772/
+  - title: Noroi no Sei de MP ga Tarimasen!! Kouhen | "MP is Depleted Because of a Curse!!
+      - last part
+    author: nigiri-usagi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/643500.jpg
+    rating: 0.0
+    date: '2026-09-19'
+    code: 643500
+    url: /works/643500/
   - title: Otonari no Downer Oyako ni Shiboritorareru Hanashi
     author: gamogamo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/645896.jpg
@@ -166,6 +174,14 @@ works:
     date: '2026-07-16'
     code: 664429
     url: /works/664429/
+  - title: Hoken Taiiku de Jitsugi ga Hisshuu ni natta Sekai - A world where sex ed
+      is mandatory and it's all practical
+    author: toyama-jigoku
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/665207.jpg
+    rating: 0.0
+    date: '2026-09-19'
+    code: 665207
+    url: /works/665207/
   - title: nekonimatatabi
     author: yuzuto-sen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/674592.jpg

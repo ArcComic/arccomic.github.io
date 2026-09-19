@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bbw"
-work_count: 37
+work_count: 40
 works:
   - title: My Care Lady Ch. 1
     author: sugi-g
@@ -103,6 +103,14 @@ works:
     date: '2026-05-07'
     code: 610017
     url: /works/610017/
+  - title: I have a secret relationship with my grandmother, without my mother knowing...
+      ♡
+    author: popotto-denki-ichigouten
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/629027.jpg
+    rating: 0.0
+    date: '2026-09-19'
+    code: 629027
+    url: /works/629027/
   - title: Chijo Monogatari Bakunyuu Chijukujo to Doutei-kun
     author: enma
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/635174.jpg
@@ -273,4 +281,19 @@ works:
     date: '2026-09-15'
     code: 681329
     url: /works/681329/
+  - title: Hatsujouki dakara Shikatanai
+    author: tsukunendo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682245.jpg
+    rating: 0.0
+    date: '2026-09-19'
+    code: 682245
+    url: /works/682245/
+  - title: Shita no Kai no Yokkyuufuman na Mucchimuchi Mama-san kara no Approach ga
+      Sugoi | The Frustrated, Curvy Mom Downstairs Keeps Making Bold Moves
+    author: ikinari-mojio-yosyo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682307.jpg
+    rating: 0.0
+    date: '2026-09-19'
+    code: 682307
+    url: /works/682307/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "stuck in wall"
-work_count: 3
+work_count: 4
 works:
   - title: FORBIDDEN RAIN KOBO KANAERU 2
     author: clef
@@ -10,6 +10,13 @@ works:
     date: '2026-07-16'
     code: 637709
     url: /works/637709/
+  - title: Hen na Soubi no Sei de O◯nko Kowareteshimatta de wa Nai ka!
+    author: nigiri-usagi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662706.jpg
+    rating: 0.0
+    date: '2026-09-19'
+    code: 662706
+    url: /works/662706/
   - title: Tsuretette | Ghosts Boy Meets Girl
     author: kidoban
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/663745.jpg

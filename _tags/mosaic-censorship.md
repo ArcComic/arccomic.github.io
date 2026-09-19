@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "mosaic censorship"
-work_count: 235
+work_count: 239
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -159,7 +159,7 @@ works:
   - title: Natsuyasumi! Osananajimi to Asedaku Sex - Sweaty sex with a childhood friend
     author: sokumaru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/396367.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-18'
     code: 396367
     url: /works/396367/
@@ -828,6 +828,14 @@ works:
     date: '2026-04-27'
     code: 618562
     url: /works/618562/
+  - title: I have a secret relationship with my grandmother, without my mother knowing...
+      ♡
+    author: popotto-denki-ichigouten
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/629027.jpg
+    rating: 0.0
+    date: '2026-09-19'
+    code: 629027
+    url: /works/629027/
   - title: Boku no Daisuki na Kaa-san to Omou Zonbun Sex Dekiru Hi 3 | My Fabulous Fuck
       Day with My Amazing Mommy 3
     author: higehurai
@@ -965,7 +973,7 @@ works:
       Story~
     author: climbcrown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/637891.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-18'
     code: 637891
     url: /works/637891/
@@ -989,7 +997,7 @@ works:
       If We Keep Going!?
     author: yuuriko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/641188.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-18'
     code: 641188
     url: /works/641188/
@@ -1327,6 +1335,14 @@ works:
     date: '2026-07-09'
     code: 662658
     url: /works/662658/
+  - title: Tonikaku Sex ga Shitai Oba-san, Ryouko | Auntie Ryouko Wants to Have Sex
+      Everyday
+    author: mokuzou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662751.jpg
+    rating: 0.0
+    date: '2026-09-19'
+    code: 662751
+    url: /works/662751/
   - title: Buck-Chichi! | Gambling! Volume 2
     author: lime
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662877.jpg
@@ -1710,15 +1726,30 @@ works:
   - title: Medorei Sensei
     author: choma
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682176.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-18'
     code: 682176
     url: /works/682176/
   - title: Shikatanaku Kaa-chan to Sex Shimasu 9
     author: shimipan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682182.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-18'
     code: 682182
     url: /works/682182/
+  - title: Jibun no Kanojo to Machigaete Tomodachi no Kanojo to Sex suru Hanashi 1 &
+      2
+    author: mauboumen
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682225.jpg
+    rating: 0.0
+    date: '2026-09-19'
+    code: 682225
+    url: /works/682225/
+  - title: Saimin Charao to Netorare Seitokai NTR Vol. 4
+    author: sunagimo-dx
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682290.jpg
+    rating: 0.0
+    date: '2026-09-19'
+    code: 682290
+    url: /works/682290/
 ---

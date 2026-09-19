@@ -7,7 +7,7 @@ works:
       | My Boyish Longtime Friend Who Is The Swimming Club Captain Is Addicted To My
       Dick
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/535271.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-18'
     code: 535271
     url: /works/535271/

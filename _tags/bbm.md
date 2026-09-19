@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bbm"
-work_count: 76
+work_count: 77
 works:
   - title: Kindan no Hatemitsu
     author: ryuuta
@@ -240,10 +240,17 @@ works:
     date: '2026-03-03'
     code: 620755
     url: /works/620755/
+  - title: Ninkan Gakkou 1 + 2
+    author: yasui-riosuke
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/622161.jpg
+    rating: 4.5
+    date: '2026-09-19'
+    code: 622161
+    url: /works/622161/
   - title: Gakkou no Joshi o Chuumon Dekiru Denpyou ~Tadashi Seikoui Mokuteki ni Kagiru~
     author: nyuu-koubou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/625984.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-18'
     code: 625984
     url: /works/625984/
@@ -302,7 +309,7 @@ works:
       Story~
     author: climbcrown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/637891.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-18'
     code: 637891
     url: /works/637891/

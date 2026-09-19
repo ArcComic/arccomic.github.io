@@ -1,0 +1,12 @@
+---
+layout: artist
+artist_name: "tsukunendo"
+work_count: 1
+works:
+  - title: Hatsujouki dakara Shikatanai
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682245.jpg
+    rating: 0.0
+    date: '2026-09-19'
+    code: 682245
+    url: /works/682245/
+---

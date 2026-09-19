@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "urination"
-work_count: 36
+work_count: 37
 works:
   - title: Boku no Kazoku o Sarashimasu Ch. 3
     author: tanaka-aji
@@ -161,6 +161,13 @@ works:
     date: '2026-04-24'
     code: 645612
     url: /works/645612/
+  - title: 'Mindless Lolis: Anya Forger Ep. 1-8'
+    author: baba
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/646501.jpg
+    rating: 0.0
+    date: '2026-09-19'
+    code: 646501
+    url: /works/646501/
   - title: Reibaishi Mikoto 2 Kairaku ni Zanpai su... Hentai Jijii to no Seikou no Gishiki
       de Ikikuruwasareru Shoujo no Karada
     author: sawacream

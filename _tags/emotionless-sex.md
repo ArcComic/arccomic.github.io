@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "emotionless sex"
-work_count: 16
+work_count: 17
 works:
   - title: Maid no Oshigoto. II | Maid's Work II
     author: alexi-laiho
@@ -112,6 +112,13 @@ works:
     date: '2026-04-27'
     code: 646385
     url: /works/646385/
+  - title: 'Mindless Lolis: Anya Forger Ep. 1-8'
+    author: baba
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/646501.jpg
+    rating: 0.0
+    date: '2026-09-19'
+    code: 646501
+    url: /works/646501/
   - title: Good Teachers
     author: nodo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/648310.jpg

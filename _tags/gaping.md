@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "gaping"
-work_count: 5
+work_count: 6
 works:
   - title: Onna Shachou to Koibito ni Naru Houhou | How To Become Lover's With A Female
       CEO
@@ -40,4 +40,12 @@ works:
     date: '2026-07-06'
     code: 661586
     url: /works/661586/
+  - title: Tonikaku Sex ga Shitai Oba-san, Ryouko | Auntie Ryouko Wants to Have Sex
+      Everyday
+    author: mokuzou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662751.jpg
+    rating: 0.0
+    date: '2026-09-19'
+    code: 662751
+    url: /works/662751/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "large tattoo"
-work_count: 10
+work_count: 12
 works:
   - title: Houkai Kazoku -Hahaoya ga Yakuza to no Sex ni Hamatta Hanashi- | Broken Family
       - A Story About a Mother Who Became Addicted to Sex With a Yakuza
@@ -55,6 +55,13 @@ works:
     date: '2026-07-06'
     code: 661586
     url: /works/661586/
+  - title: Tora re tsuma ~ harami niku benki ni sa reta oku-sa ~
+    author: mokuzou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/667314.jpg
+    rating: 0.0
+    date: '2026-09-19'
+    code: 667314
+    url: /works/667314/
   - title: NTR stuff
     author: berg
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/676193.jpg
@@ -77,4 +84,11 @@ works:
     date: '2026-09-15'
     code: 681329
     url: /works/681329/
+  - title: 寝取らせクラブに送り出した不感症のダウナー彼女の報告 | 送往绿帽俱乐部的性冷淡阴沉女友的报告
+    author: sanuki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682385.jpg
+    rating: 0.0
+    date: '2026-09-19'
+    code: 682385
+    url: /works/682385/
 ---

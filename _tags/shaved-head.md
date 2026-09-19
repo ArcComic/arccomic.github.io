@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "shaved head"
-work_count: 13
+work_count: 14
 works:
   - title: TomoKano Kaa-chan II ~Jitaku, Musuko no Tomodachi ni Ochita Natsu~ | My Mom
       Is My Friend's Girlfriend 2
@@ -98,4 +98,12 @@ works:
     date: '2026-07-17'
     code: 664784
     url: /works/664784/
+  - title: Kodomo Wife-chans! Third time's the charm! | Little Wives! Third time's the
+      charm!
+    author: kumajiro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682328.jpg
+    rating: 0.0
+    date: '2026-09-19'
+    code: 682328
+    url: /works/682328/
 ---

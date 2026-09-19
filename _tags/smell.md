@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "smell"
-work_count: 17
+work_count: 18
 works:
   - title: Natsu Jiru Ch. 1-2
     author: sena-youtarou
@@ -130,4 +130,11 @@ works:
     date: '2026-09-17'
     code: 681899
     url: /works/681899/
+  - title: My Sister's Perfect Feet Book 2 Ep. 1-20
+    author: baba
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682326.jpg
+    rating: 0.0
+    date: '2026-09-19'
+    code: 682326
+    url: /works/682326/
 ---

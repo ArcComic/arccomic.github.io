@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "ai generated"
-work_count: 4
+work_count: 5
 works:
   - title: 橘さん家ノ脅迫NTR事情
     author: group
@@ -17,6 +17,13 @@ works:
     date: '2026-04-23'
     code: 645525
     url: /works/645525/
+  - title: 'Mindless Lolis: Anya Forger Ep. 1-8'
+    author: baba
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/646501.jpg
+    rating: 0.0
+    date: '2026-09-19'
+    code: 646501
+    url: /works/646501/
   - title: L-cup Housewife Onahole Slave Kanae (39) ~A Week of Being Driven Wild by
       Another Man's Cock~
     author: unknown
