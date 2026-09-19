@@ -11,19 +11,19 @@
       "id": "telegram_bot",
       "label": "Read Now On Telegram",
       "dialogue": "(Join Mandatory Telegram channels to Activate Bot first time)",
-      "enabled": true,
+      "enabled": false,
       "dialogue_html": "(Join Mandatory Telegram channels to Activate Bot first time)"
     },
     {
-      "id": "telegram_post",
-      "label": "Read Now",
+      "id": "web_reader",
+      "label": "Read Now On Web",
       "dialogue": "",
       "enabled": true,
       "dialogue_html": ""
     },
     {
-      "id": "web_reader",
-      "label": "Read Now On Web",
+      "id": "telegram_post",
+      "label": "Read Now",
       "dialogue": "",
       "enabled": true,
       "dialogue_html": ""
