@@ -1,4 +1,4 @@
-<!-- arc-comic-layout-version: 12 -->
+<!-- arc-comic-layout-version: 13 -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ page.title }} - Arc Comic</title>
     <meta name="description" content="{{ page.title }} by {{ page.author }} - Arc Comic">
-    <script async src="https://ss.mrmnd.com/banner.js"></script>
+    {% if site.data.site_meta.ad_network != 'adsterra' %}<script async src="https://ss.mrmnd.com/banner.js"></script>{% endif %}
     <style>
         :root {
             --bg: #0f0f13; --bg-card: #1a1a24; --bg-elevated: #222230;
@@ -193,20 +193,39 @@
             {% endfor %}
         </div>
 
-        <div class="ad-slot" data-mndbanid="6682c345-631e-456b-82ef-cc3bd9dbb29a"></div>
+        {% if site.data.site_meta.ad_network == 'adsterra' %}<div class="ad-slot ad-slot-adsterra"><iframe title="Advertisement" width="300" height="250" scrolling="no" frameborder="0" style="border:0;max-width:100%;" sandbox="allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation" referrerpolicy="no-referrer-when-downgrade" srcdoc="&lt;!DOCTYPE html&gt;&lt;html&gt;&lt;head&gt;&lt;meta charset=&#x27;utf-8&#x27;&gt;&lt;style&gt;html,body{margin:0;padding:0;background:transparent;overflow:hidden}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;script&gt;atOptions={&#x27;key&#x27;:&#x27;d589af27f1a1b95ab01d833a171c29a9&#x27;,&#x27;format&#x27;:&#x27;iframe&#x27;,&#x27;height&#x27;:250,&#x27;width&#x27;:300,&#x27;params&#x27;:{} };&lt;/script&gt;&lt;script src=&#x27;https://www.highrevenueformat.com/d589af27f1a1b95ab01d833a171c29a9/invoke.js&#x27;&gt;&lt;/script&gt;&lt;/body&gt;&lt;/html&gt;"></iframe></div>{% else %}<div class="ad-slot" data-mndbanid="6682c345-631e-456b-82ef-cc3bd9dbb29a"></div>{% endif %}
 
-        <div class="join-notice">{{ site.data.site_meta.join_notice_html }}</div>
-        <a href="https://t.me/ArcComicBot?start={{ page.code }}" class="read-btn" target="_blank" id="readBotBtn">
-            <svg viewBox="0 0 24 24"><path d="M21.94 4.2a1.5 1.5 0 00-1.53-.24L2.7 10.9a1.4 1.4 0 00.1 2.63l4.55 1.42 1.75 5.6a1.4 1.4 0 002.3.57l2.6-2.36 4.68 3.46a1.4 1.4 0 002.23-.85l3.05-15.1a1.5 1.5 0 00-.02-.07zM8.5 14.3l9.3-6.9c.2-.15.4.1.24.28l-7.6 7.4-.3 3.2-1.64-3.98z"/></svg>
-            Read Now On Telegram
-        </a>
-
-        <div class="or-divider">OR</div>
-
-        <a href="{{ page.telegram_post }}" class="read-btn" target="_blank" id="readBtn">
-            <svg viewBox="0 0 24 24"><path d="M21.94 4.2a1.5 1.5 0 00-1.53-.24L2.7 10.9a1.4 1.4 0 00.1 2.63l4.55 1.42 1.75 5.6a1.4 1.4 0 002.3.57l2.6-2.36 4.68 3.46a1.4 1.4 0 002.23-.85l3.05-15.1a1.5 1.5 0 00-.02-.07zM8.5 14.3l9.3-6.9c.2-.15.4.1.24.28l-7.6 7.4-.3 3.2-1.64-3.98z"/></svg>
-            Read Now
-        </a>
+        {% comment %}
+        Read buttons — dashboard-controlled (site_meta.read_buttons): each can be
+        switched on/off, has its own small dialogue line, and they render in the
+        saved top-to-bottom order. "OR" dividers are only drawn BETWEEN buttons
+        that are actually visible, so turning one off never leaves a dangling OR.
+        {% endcomment %}
+        {% assign read_buttons = site.data.site_meta.read_buttons %}
+        {% assign shown_buttons = 0 %}
+        {% for b in read_buttons %}
+            {% if b.enabled %}
+                {% if shown_buttons > 0 %}<div class="or-divider">OR</div>{% endif %}
+                {% assign shown_buttons = shown_buttons | plus: 1 %}
+                {% if b.dialogue_html and b.dialogue_html != "" %}<div class="join-notice">{{ b.dialogue_html }}</div>{% endif %}
+                {% if b.id == "telegram_bot" %}
+                <a href="https://t.me/ArcComicBot?start={{ page.code }}" class="read-btn" target="_blank" rel="noopener" id="readBotBtn">
+                    <svg viewBox="0 0 24 24"><path d="M21.94 4.2a1.5 1.5 0 00-1.53-.24L2.7 10.9a1.4 1.4 0 00.1 2.63l4.55 1.42 1.75 5.6a1.4 1.4 0 002.3.57l2.6-2.36 4.68 3.46a1.4 1.4 0 002.23-.85l3.05-15.1a1.5 1.5 0 00-.02-.07zM8.5 14.3l9.3-6.9c.2-.15.4.1.24.28l-7.6 7.4-.3 3.2-1.64-3.98z"/></svg>
+                    {{ b.label }}
+                </a>
+                {% elsif b.id == "telegram_post" %}
+                <a href="{{ page.telegram_post }}" class="read-btn" target="_blank" rel="noopener" id="readBtn">
+                    <svg viewBox="0 0 24 24"><path d="M21.94 4.2a1.5 1.5 0 00-1.53-.24L2.7 10.9a1.4 1.4 0 00.1 2.63l4.55 1.42 1.75 5.6a1.4 1.4 0 002.3.57l2.6-2.36 4.68 3.46a1.4 1.4 0 002.23-.85l3.05-15.1a1.5 1.5 0 00-.02-.07zM8.5 14.3l9.3-6.9c.2-.15.4.1.24.28l-7.6 7.4-.3 3.2-1.64-3.98z"/></svg>
+                    {{ b.label }}
+                </a>
+                {% elsif b.id == "web_reader" %}
+                <a href="https://jizzybx.github.io/nhentai-reader/reader.html?code={{ page.code }}" class="read-btn" target="_blank" rel="noopener" id="readWebBtn">
+                    <svg viewBox="0 0 24 24"><path d="M12 2a10 10 0 100 20 10 10 0 000-20zm7.9 9h-3.2c-.1-2.1-.6-4-1.3-5.4A8 8 0 0119.9 11zm-9-6.9c1 .8 2.2 3 2.4 6.9H9.6c.2-3.9 1.4-6.1 2.4-6.9zM9.6 13h4.8c-.2 3.9-1.4 6.1-2.4 6.9-1-.8-2.2-3-2.4-6.9zm-2 0c.1 2.1.6 4 1.3 5.4A8 8 0 014.1 13zm0-2A8 8 0 018.9 5.6c-.7 1.4-1.2 3.3-1.3 5.4zm7.9 8.4c.7-1.4 1.2-3.3 1.3-5.4h3.2a8 8 0 01-4.5 5.4z"/></svg>
+                    {{ b.label }}
+                </a>
+                {% endif %}
+            {% endif %}
+        {% endfor %}
 
         {% comment %}
         Similar Comics — 6 slots total, built in priority tiers:
@@ -337,7 +356,7 @@
             </div>
         </div>
 
-        <div class="ad-slot" data-mndbanid="6682c345-631e-456b-82ef-cc3bd9dbb29a"></div>
+        {% if site.data.site_meta.ad_network == 'adsterra' %}<div class="ad-slot ad-slot-adsterra"><iframe title="Advertisement" width="300" height="250" scrolling="no" frameborder="0" style="border:0;max-width:100%;" sandbox="allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation" referrerpolicy="no-referrer-when-downgrade" srcdoc="&lt;!DOCTYPE html&gt;&lt;html&gt;&lt;head&gt;&lt;meta charset=&#x27;utf-8&#x27;&gt;&lt;style&gt;html,body{margin:0;padding:0;background:transparent;overflow:hidden}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;script&gt;atOptions={&#x27;key&#x27;:&#x27;d589af27f1a1b95ab01d833a171c29a9&#x27;,&#x27;format&#x27;:&#x27;iframe&#x27;,&#x27;height&#x27;:250,&#x27;width&#x27;:300,&#x27;params&#x27;:{} };&lt;/script&gt;&lt;script src=&#x27;https://www.highrevenueformat.com/d589af27f1a1b95ab01d833a171c29a9/invoke.js&#x27;&gt;&lt;/script&gt;&lt;/body&gt;&lt;/html&gt;"></iframe></div>{% else %}<div class="ad-slot" data-mndbanid="6682c345-631e-456b-82ef-cc3bd9dbb29a"></div>{% endif %}
 
         {% include follow_us.html %}
         <div class="footer">

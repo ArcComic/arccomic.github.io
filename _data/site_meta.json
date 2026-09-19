@@ -4,5 +4,29 @@
   "join_notice": "(Join Mandatory Telegram channels to Activate Bot first time)",
   "join_notice_html": "(Join Mandatory Telegram channels to Activate Bot first time)",
   "footer": "Daily updates",
-  "footer_html": "Daily updates"
+  "footer_html": "Daily updates",
+  "ad_network": "mondiad",
+  "read_buttons": [
+    {
+      "id": "telegram_bot",
+      "label": "Read Now On Telegram",
+      "dialogue": "(Join Mandatory Telegram channels to Activate Bot first time)",
+      "enabled": true,
+      "dialogue_html": "(Join Mandatory Telegram channels to Activate Bot first time)"
+    },
+    {
+      "id": "telegram_post",
+      "label": "Read Now",
+      "dialogue": "",
+      "enabled": true,
+      "dialogue_html": ""
+    },
+    {
+      "id": "web_reader",
+      "label": "Read Now On Web",
+      "dialogue": "",
+      "enabled": true,
+      "dialogue_html": ""
+    }
+  ]
 }

@@ -1,6 +1,6 @@
 ---
 ---
-<!-- arc-comic-index-version: 13 -->
+<!-- arc-comic-index-version: 14 -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -9,7 +9,7 @@
     <link rel="icon" type="image/svg+xml" href="/favicon.svg">
     <title id="pageTitle">Search - Arc Comic</title>
     <meta name="description" content="Search manga and doujinshi on Arc Comic">
-    <script async src="https://ss.mrmnd.com/banner.js"></script>
+    {% if site.data.site_meta.ad_network != 'adsterra' %}<script async src="https://ss.mrmnd.com/banner.js"></script>{% endif %}
     <style>
         :root {
             --bg: #0f0f13; --bg-card: #1a1a24; --bg-elevated: #222230;
@@ -215,13 +215,20 @@
         // refresh API, so a div injected afterward would otherwise still
         // be missed.
         function injectAdsIfNeeded() {
-            const slotHtml = '<div class="ad-slot" data-mndbanid="6682c345-631e-456b-82ef-cc3bd9dbb29a"></div>';
+            const AD_NETWORK = "{{ site.data.site_meta.ad_network | default: 'mondiad' }}";
+        const ADSTERRA_SLOT_HTML = "<div class=\"ad-slot ad-slot-adsterra\"><iframe title=\"Advertisement\" width=\"300\" height=\"250\" scrolling=\"no\" frameborder=\"0\" style=\"border:0;max-width:100%;\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation\" referrerpolicy=\"no-referrer-when-downgrade\" srcdoc=\"&lt;!DOCTYPE html&gt;&lt;html&gt;&lt;head&gt;&lt;meta charset=&#x27;utf-8&#x27;&gt;&lt;style&gt;html,body{margin:0;padding:0;background:transparent;overflow:hidden}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;script&gt;atOptions={&#x27;key&#x27;:&#x27;d589af27f1a1b95ab01d833a171c29a9&#x27;,&#x27;format&#x27;:&#x27;iframe&#x27;,&#x27;height&#x27;:250,&#x27;width&#x27;:300,&#x27;params&#x27;:{} };&lt;/script&gt;&lt;script src=&#x27;https://www.highrevenueformat.com/d589af27f1a1b95ab01d833a171c29a9/invoke.js&#x27;&gt;&lt;/script&gt;&lt;/body&gt;&lt;/html&gt;\"></iframe></div>";
+        const MONDIAD_SLOT_HTML = "<div class=\"ad-slot\" data-mndbanid=\"6682c345-631e-456b-82ef-cc3bd9dbb29a\"></div>";
+            const slotHtml = (AD_NETWORK === 'adsterra') ? ADSTERRA_SLOT_HTML : MONDIAD_SLOT_HTML;
             document.getElementById('topAdContainer').innerHTML = slotHtml;
             document.getElementById('bottomAdContainer').innerHTML = slotHtml;
-            const s = document.createElement('script');
-            s.async = true;
-            s.src = 'https://ss.mrmnd.com/banner.js';
-            document.body.appendChild(s);
+            // Only Mondiad needs banner.js re-triggered; Adsterra slots are
+            // self-contained iframes that load their own invoke.js.
+            if (AD_NETWORK !== 'adsterra') {
+                const s = document.createElement('script');
+                s.async = true;
+                s.src = 'https://ss.mrmnd.com/banner.js';
+                document.body.appendChild(s);
+            }
         }
         function clearAds() {
             document.getElementById('topAdContainer').innerHTML = '';

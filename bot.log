@@ -1,1 +1,6 @@
-🔧 _layouts/post.html updated to v12 (clean layout, no emoji tags, proper Yes/No labels)
+🔧 _layouts/post.html updated to v13 (clean layout, no emoji tags, proper Yes/No labels)
+🔧 _data/site_meta.json created/repaired (tagline/join notice/footer/ad network/read buttons)
+🔧 index.html updated to v17 (favicon, sort/filter toolbar, Latest Upload, working search)
+🔧 _layouts/tag.html updated to v13
+🔧 _layouts/artist.html updated to v12
+🔧 search/index.html updated to v14

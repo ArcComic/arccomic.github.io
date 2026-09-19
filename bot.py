@@ -264,16 +264,110 @@ def ensure_jekyll_works_collection():
 
     return changed
 
+# ============== AD NETWORK SWITCH — shared template fragments (session 12) ==============
+# All ad constants live here, ABOVE every template that uses them: these are
+# module-level f-string/concatenation values evaluated at import time, so a
+# constant defined below its first use is a NameError on startup (py_compile
+# cannot catch that — only actually importing the module does).
+
+# Web reader used by the third "Read Now On Web" button (reading page). Defined up here
+# with the other template-facing constants because POST_LAYOUT_TEMPLATE interpolates it at
+# import time. Master pastes the comic code onto the end of this URL.
+NHENTAI_READER_BASE = "https://jizzybx.github.io/nhentai-reader/reader.html?code="
+
+# Mondiad Banner zone (unchanged from before the network switch existed).
+BANNER_AD_ZONE_ID = "6682c345-631e-456b-82ef-cc3bd9dbb29a"
+
+# Which network serves every Banner slot on the site. Read by Jekyll at build
+# time from _data/site_meta.json, so flipping it from the dashboard only needs
+# that one JSON file pushed — no template rewrite, no *_VERSION bump.
+AD_NETWORKS = ("mondiad", "adsterra")
+DEFAULT_AD_NETWORK = "mondiad"
+
+# Adsterra 300x250 banner (Master's own Adsterra placement for arccomic.github.io).
+# Adsterra's invoke.js reads ONE global `atOptions` at load time, so two slots
+# on one page overwrite each other. Every Adsterra slot is therefore rendered
+# inside its own <iframe srcdoc>, which gives each slot a private window/global
+# scope (see ADSTERRA_SLOT_HTML below).
+ADSTERRA_KEY = "d589af27f1a1b95ab01d833a171c29a9"
+ADSTERRA_WIDTH = 300
+ADSTERRA_HEIGHT = 250
+ADSTERRA_INVOKE_URL = f"https://www.highrevenueformat.com/{ADSTERRA_KEY}/invoke.js"
+
+# Every Banner slot on the site (post/tag/search/artist) is now network-aware.
+# Master flips site_meta.ad_network ("mondiad" | "adsterra") on the dashboard;
+# Jekyll reads it at build time, so the templates below never need a rewrite or
+# a version bump just because the network changed — only this fragment logic
+# does. The four templates all pull from the same three fragments here so they
+# can't drift apart (the old code had four hand-copied copies of the Mondiad
+# markup).
+#
+# 1) AD_HEAD_LOADER_LIQUID — goes in <head>. Only Mondiad needs a page-level
+#    loader script; Adsterra's per-slot iframe loads its own invoke.js.
+AD_HEAD_LOADER_LIQUID = (
+    "{% if site.data.site_meta.ad_network != 'adsterra' %}"
+    '<script async src="https://ss.mrmnd.com/banner.js"></script>'
+    "{% endif %}"
+)
+
+# 2) Adsterra slot markup. invoke.js reads ONE global `atOptions`, so two slots
+#    on the same page would overwrite each other. Putting each slot in its own
+#    <iframe srcdoc> gives it a private window and therefore a private
+#    atOptions — no conflicts no matter how many slots a page has, and it works
+#    identically when JS injects the slot after page load (tag/search/artist).
+#    The srcdoc body is HTML-escaped exactly once here so it survives being an
+#    attribute value.
+# NOTE: the space in "'params':{} };" below is deliberate. Adsterra's own snippet
+# writes "{}};" — but "}}" is Liquid's output-close delimiter, and this string is
+# embedded verbatim in Jekyll templates. A bare "}}" with no matching "{{" can
+# corrupt the page or fail the GitHub Pages build. "{} };" is identical JavaScript.
+_ADSTERRA_SRCDOC_RAW = (
+    "<!DOCTYPE html><html><head><meta charset='utf-8'>"
+    "<style>html,body{margin:0;padding:0;background:transparent;overflow:hidden}</style>"
+    "</head><body>"
+    "<script>atOptions={'key':'" + ADSTERRA_KEY + "','format':'iframe',"
+    "'height':" + str(ADSTERRA_HEIGHT) + ",'width':" + str(ADSTERRA_WIDTH) + ",'params':{} };</script>"
+    "<script src='" + ADSTERRA_INVOKE_URL + "'></script>"
+    "</body></html>"
+)
+ADSTERRA_SLOT_HTML = (
+    '<div class="ad-slot ad-slot-adsterra">'
+    '<iframe title="Advertisement" width="' + str(ADSTERRA_WIDTH) + '" height="' + str(ADSTERRA_HEIGHT) + '" '
+    'scrolling="no" frameborder="0" style="border:0;max-width:100%;" '
+    'sandbox="allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation" '
+    'referrerpolicy="no-referrer-when-downgrade" '
+    'srcdoc="' + html.escape(_ADSTERRA_SRCDOC_RAW, quote=True) + '"></iframe>'
+    '</div>'
+)
+
+# 3) Static slot (reading page — slot exists in the HTML from first paint).
+MONDIAD_SLOT_HTML = '<div class="ad-slot" data-mndbanid="' + BANNER_AD_ZONE_ID + '"></div>'
+AD_SLOT_STATIC_LIQUID = (
+    "{% if site.data.site_meta.ad_network == 'adsterra' %}"
+    + ADSTERRA_SLOT_HTML +
+    "{% else %}"
+    + MONDIAD_SLOT_HTML +
+    "{% endif %}"
+)
+
+# 4) JS-injected slots (tag/search/artist pages build their ad divs after the
+#    grid renders). Emits three JS constants; each page's injectAdsIfNeeded()
+#    picks the right one. Kept as plain JS string literals (JSON-encoded) so no
+#    quote in the iframe markup can break the surrounding script.
+AD_JS_CONSTANTS = (
+    "const AD_NETWORK = \"{{ site.data.site_meta.ad_network | default: 'mondiad' }}\";\n"
+    "        const ADSTERRA_SLOT_HTML = " + json.dumps(ADSTERRA_SLOT_HTML) + ";\n"
+    "        const MONDIAD_SLOT_HTML = " + json.dumps(MONDIAD_SLOT_HTML) + ";"
+)
+
 POST_LAYOUT_PATH = os.path.join(WORK_DIR, "_layouts", "post.html")
-POST_LAYOUT_VERSION = 12  # bump when the template below changes materially
+POST_LAYOUT_VERSION = 13  # bump when the template below changes materially
 
 # Native ads (Mondiad "Native" zone type) were removed sitewide — they
 # render as in-flow content the network fully controls, and were both
 # breaking grid layouts on load and misleading readers by visually
 # impersonating a real comic card. Banner is the only ad format used now:
 # a fixed rectangular slot that looks like an ad, styled by us, sized by us.
-BANNER_AD_ZONE_ID = "6682c345-631e-456b-82ef-cc3bd9dbb29a"
-
 POST_LAYOUT_TEMPLATE = f"""<!-- arc-comic-layout-version: {POST_LAYOUT_VERSION} -->
 <!DOCTYPE html>
 <html lang="en">
@@ -282,7 +376,7 @@ POST_LAYOUT_TEMPLATE = f"""<!-- arc-comic-layout-version: {POST_LAYOUT_VERSION} 
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{{{ page.title }}}} - Arc Comic</title>
     <meta name="description" content="{{{{ page.title }}}} by {{{{ page.author }}}} - Arc Comic">
-    <script async src="https://ss.mrmnd.com/banner.js"></script>
+    {AD_HEAD_LOADER_LIQUID}
     <style>
         :root {{
             --bg: #0f0f13; --bg-card: #1a1a24; --bg-elevated: #222230;
@@ -469,20 +563,39 @@ POST_LAYOUT_TEMPLATE = f"""<!-- arc-comic-layout-version: {POST_LAYOUT_VERSION} 
             {{% endfor %}}
         </div>
 
-        <div class="ad-slot" data-mndbanid="{BANNER_AD_ZONE_ID}"></div>
+        {AD_SLOT_STATIC_LIQUID}
 
-        <div class="join-notice">{{{{ site.data.site_meta.join_notice_html }}}}</div>
-        <a href="https://t.me/ArcComicBot?start={{{{ page.code }}}}" class="read-btn" target="_blank" id="readBotBtn">
-            <svg viewBox="0 0 24 24"><path d="M21.94 4.2a1.5 1.5 0 00-1.53-.24L2.7 10.9a1.4 1.4 0 00.1 2.63l4.55 1.42 1.75 5.6a1.4 1.4 0 002.3.57l2.6-2.36 4.68 3.46a1.4 1.4 0 002.23-.85l3.05-15.1a1.5 1.5 0 00-.02-.07zM8.5 14.3l9.3-6.9c.2-.15.4.1.24.28l-7.6 7.4-.3 3.2-1.64-3.98z"/></svg>
-            Read Now On Telegram
-        </a>
-
-        <div class="or-divider">OR</div>
-
-        <a href="{{{{ page.telegram_post }}}}" class="read-btn" target="_blank" id="readBtn">
-            <svg viewBox="0 0 24 24"><path d="M21.94 4.2a1.5 1.5 0 00-1.53-.24L2.7 10.9a1.4 1.4 0 00.1 2.63l4.55 1.42 1.75 5.6a1.4 1.4 0 002.3.57l2.6-2.36 4.68 3.46a1.4 1.4 0 002.23-.85l3.05-15.1a1.5 1.5 0 00-.02-.07zM8.5 14.3l9.3-6.9c.2-.15.4.1.24.28l-7.6 7.4-.3 3.2-1.64-3.98z"/></svg>
-            Read Now
-        </a>
+        {{% comment %}}
+        Read buttons — dashboard-controlled (site_meta.read_buttons): each can be
+        switched on/off, has its own small dialogue line, and they render in the
+        saved top-to-bottom order. "OR" dividers are only drawn BETWEEN buttons
+        that are actually visible, so turning one off never leaves a dangling OR.
+        {{% endcomment %}}
+        {{% assign read_buttons = site.data.site_meta.read_buttons %}}
+        {{% assign shown_buttons = 0 %}}
+        {{% for b in read_buttons %}}
+            {{% if b.enabled %}}
+                {{% if shown_buttons > 0 %}}<div class="or-divider">OR</div>{{% endif %}}
+                {{% assign shown_buttons = shown_buttons | plus: 1 %}}
+                {{% if b.dialogue_html and b.dialogue_html != "" %}}<div class="join-notice">{{{{ b.dialogue_html }}}}</div>{{% endif %}}
+                {{% if b.id == "telegram_bot" %}}
+                <a href="https://t.me/ArcComicBot?start={{{{ page.code }}}}" class="read-btn" target="_blank" rel="noopener" id="readBotBtn">
+                    <svg viewBox="0 0 24 24"><path d="M21.94 4.2a1.5 1.5 0 00-1.53-.24L2.7 10.9a1.4 1.4 0 00.1 2.63l4.55 1.42 1.75 5.6a1.4 1.4 0 002.3.57l2.6-2.36 4.68 3.46a1.4 1.4 0 002.23-.85l3.05-15.1a1.5 1.5 0 00-.02-.07zM8.5 14.3l9.3-6.9c.2-.15.4.1.24.28l-7.6 7.4-.3 3.2-1.64-3.98z"/></svg>
+                    {{{{ b.label }}}}
+                </a>
+                {{% elsif b.id == "telegram_post" %}}
+                <a href="{{{{ page.telegram_post }}}}" class="read-btn" target="_blank" rel="noopener" id="readBtn">
+                    <svg viewBox="0 0 24 24"><path d="M21.94 4.2a1.5 1.5 0 00-1.53-.24L2.7 10.9a1.4 1.4 0 00.1 2.63l4.55 1.42 1.75 5.6a1.4 1.4 0 002.3.57l2.6-2.36 4.68 3.46a1.4 1.4 0 002.23-.85l3.05-15.1a1.5 1.5 0 00-.02-.07zM8.5 14.3l9.3-6.9c.2-.15.4.1.24.28l-7.6 7.4-.3 3.2-1.64-3.98z"/></svg>
+                    {{{{ b.label }}}}
+                </a>
+                {{% elsif b.id == "web_reader" %}}
+                <a href="{NHENTAI_READER_BASE}{{{{ page.code }}}}" class="read-btn" target="_blank" rel="noopener" id="readWebBtn">
+                    <svg viewBox="0 0 24 24"><path d="M12 2a10 10 0 100 20 10 10 0 000-20zm7.9 9h-3.2c-.1-2.1-.6-4-1.3-5.4A8 8 0 0119.9 11zm-9-6.9c1 .8 2.2 3 2.4 6.9H9.6c.2-3.9 1.4-6.1 2.4-6.9zM9.6 13h4.8c-.2 3.9-1.4 6.1-2.4 6.9-1-.8-2.2-3-2.4-6.9zm-2 0c.1 2.1.6 4 1.3 5.4A8 8 0 014.1 13zm0-2A8 8 0 018.9 5.6c-.7 1.4-1.2 3.3-1.3 5.4zm7.9 8.4c.7-1.4 1.2-3.3 1.3-5.4h3.2a8 8 0 01-4.5 5.4z"/></svg>
+                    {{{{ b.label }}}}
+                </a>
+                {{% endif %}}
+            {{% endif %}}
+        {{% endfor %}}
 
         {{% comment %}}
         Similar Comics — 6 slots total, built in priority tiers:
@@ -613,7 +726,7 @@ POST_LAYOUT_TEMPLATE = f"""<!-- arc-comic-layout-version: {POST_LAYOUT_VERSION} 
             </div>
         </div>
 
-        <div class="ad-slot" data-mndbanid="{BANNER_AD_ZONE_ID}"></div>
+        {AD_SLOT_STATIC_LIQUID}
 
         {{% include follow_us.html %}}
         <div class="footer">
@@ -697,6 +810,19 @@ DEFAULT_JOIN_NOTICE = "(Join Mandatory Telegram channels to Activate Bot first t
 # homepage) — dashboard-editable the same way as the tagline, same
 # (linktext:url) sponsor-link mini-syntax supported.
 DEFAULT_FOOTER = "Daily updates"
+
+# ---- Reading-page "Read Now" buttons (added session 12) ----
+# Three independently switchable buttons, each with its own small dialogue
+# line above it, shown top-to-bottom in the saved order. Master reorders and
+# toggles them from the dashboard; templates just loop over this list.
+READ_BUTTON_DEFS = {
+    # id: (default label, default dialogue, default enabled)
+    "telegram_bot": ("Read Now On Telegram", DEFAULT_JOIN_NOTICE, True),
+    "telegram_post": ("Read Now", "", True),
+    "web_reader": ("Read Now On Web", "", True),
+}
+DEFAULT_READ_BUTTON_ORDER = ["telegram_bot", "telegram_post", "web_reader"]
+
 DEFAULT_SITE_META = {"tagline": DEFAULT_TAGLINE, "join_notice": DEFAULT_JOIN_NOTICE, "footer": DEFAULT_FOOTER}
 
 # Sponsor-link mini-syntax: (linktext:url) anywhere inside the tagline becomes
@@ -745,13 +871,64 @@ def load_site_meta():
         meta["join_notice"] = DEFAULT_JOIN_NOTICE
     if "footer" not in meta or not str(meta["footer"]).strip():
         meta["footer"] = DEFAULT_FOOTER
+    meta["ad_network"] = normalize_ad_network(meta.get("ad_network"))
+    meta["read_buttons"] = normalize_read_buttons(meta.get("read_buttons"), meta["join_notice"])
     return meta
+
+def normalize_ad_network(value):
+    """Anything that isn't a known network name falls back to Mondiad, so a
+    corrupted/hand-edited value can never leave the site with no ads at all."""
+    value = str(value or "").strip().lower()
+    return value if value in AD_NETWORKS else DEFAULT_AD_NETWORK
+
+def normalize_read_buttons(raw, legacy_join_notice=None):
+    """Returns a clean, complete, ordered list of exactly the three known
+    buttons no matter what was saved — unknown ids are dropped, duplicates
+    are collapsed, and any button missing from the saved list is appended at
+    the end in its default state. This is what makes the feature self-healing:
+    a brand-new install, an old site_meta.json from before this feature, or a
+    corrupted list all come out valid.
+
+    legacy_join_notice: the pre-existing standalone join_notice text. When no
+    saved read_buttons exist yet (first run after upgrading), it becomes the
+    Telegram-bot button's dialogue so Master's current text carries over."""
+    saved = []
+    seen = set()
+    if isinstance(raw, list):
+        for item in raw:
+            if not isinstance(item, dict):
+                continue
+            bid = str(item.get("id", "")).strip()
+            if bid not in READ_BUTTON_DEFS or bid in seen:
+                continue
+            seen.add(bid)
+            default_label = READ_BUTTON_DEFS[bid][0]
+            saved.append({
+                "id": bid,
+                "label": default_label,
+                "dialogue": str(item.get("dialogue", "")).strip(),
+                "enabled": bool(item.get("enabled", True)),
+            })
+    for bid in DEFAULT_READ_BUTTON_ORDER:
+        if bid in seen:
+            continue
+        label, dialogue, enabled = READ_BUTTON_DEFS[bid]
+        if bid == "telegram_bot" and legacy_join_notice and not isinstance(raw, list):
+            dialogue = str(legacy_join_notice).strip() or dialogue
+        saved.append({"id": bid, "label": label, "dialogue": dialogue, "enabled": enabled})
+    return saved
 
 def save_site_meta(meta):
     os.makedirs(os.path.dirname(SITE_META_FILE), exist_ok=True)
     tagline = str(meta.get("tagline", "")).strip() or DEFAULT_TAGLINE
     join_notice = str(meta.get("join_notice", "")).strip() or DEFAULT_JOIN_NOTICE
     footer = str(meta.get("footer", "")).strip() or DEFAULT_FOOTER
+    ad_network = normalize_ad_network(meta.get("ad_network"))
+    read_buttons = normalize_read_buttons(meta.get("read_buttons"), join_notice)
+    # Each dialogue supports the same (linktext:https://url) mini-syntax as the
+    # tagline; pre-rendered server-side so Jekyll just prints it raw.
+    for b in read_buttons:
+        b["dialogue_html"] = render_tagline_html(b["dialogue"]) if b["dialogue"] else ""
     data = {
         "tagline": tagline,
         "tagline_html": render_tagline_html(tagline),
@@ -759,6 +936,8 @@ def save_site_meta(meta):
         "join_notice_html": render_tagline_html(join_notice),
         "footer": footer,
         "footer_html": render_tagline_html(footer),
+        "ad_network": ad_network,
+        "read_buttons": read_buttons,
     }
     with open(SITE_META_FILE, 'w', encoding='utf-8') as f:
         json.dump(data, f, indent=2)
@@ -773,14 +952,18 @@ def ensure_site_meta():
         try:
             with open(SITE_META_FILE, 'r', encoding='utf-8') as f:
                 meta = json.load(f)
+            rb = meta.get("read_buttons")
+            rb_ok = isinstance(rb, list) and len(rb) == len(DEFAULT_READ_BUTTON_ORDER) \
+                and all(isinstance(b, dict) and "dialogue_html" in b for b in rb)
             if meta.get("tagline") and meta.get("tagline_html") \
                     and meta.get("join_notice") and meta.get("join_notice_html") \
-                    and meta.get("footer") and meta.get("footer_html"):
+                    and meta.get("footer") and meta.get("footer_html") \
+                    and meta.get("ad_network") in AD_NETWORKS and rb_ok:
                 return False  # already fine
         except Exception:
             pass
     save_site_meta(load_site_meta())
-    print("🔧 _data/site_meta.json created/repaired with default tagline/join notice/footer")
+    print("🔧 _data/site_meta.json created/repaired (tagline/join notice/footer/ad network/read buttons)")
     return True
 
 # ============== SOCIAL LINKS ("Follow Us") ==============
@@ -963,7 +1146,7 @@ PAGINATION_JS = """
 
 # ============== HOMEPAGE (index.html) ==============
 INDEX_HTML_PATH = os.path.join(WORK_DIR, "index.html")
-INDEX_HTML_VERSION = 16  # bump when the template below changes materially
+INDEX_HTML_VERSION = 17  # bump when the template below changes materially
 
 INDEX_HTML_TEMPLATE = f"""---
 # No 'layout:' key here on purpose — index.html is a complete, self-contained
@@ -986,7 +1169,7 @@ INDEX_HTML_TEMPLATE = f"""---
     {{% endif %}}
     <title>✨ Arc Comic — Manga & Doujinshi Gallery</title>
     <meta name="description" content="Arc Comic — Curated manga and doujinshi gallery">
-    <script async src="https://ss.mrmnd.com/banner.js"></script>
+    {AD_HEAD_LOADER_LIQUID}
     <style>
         :root {{
             --bg: #0f0f13; --bg-card: #1a1a24; --bg-elevated: #222230;
@@ -1295,12 +1478,15 @@ INDEX_HTML_TEMPLATE = f"""---
         // never pre-rendered — it's built fresh via JS only once page 2+
         // is actually reached, same pattern as tag/artist/search use.
         function injectAdsIfNeeded() {{
-            const slotHtml = '<div class="ad-slot" data-mndbanid="{BANNER_AD_ZONE_ID}"></div>';
+            {AD_JS_CONSTANTS}
+            const slotHtml = (AD_NETWORK === 'adsterra') ? ADSTERRA_SLOT_HTML : MONDIAD_SLOT_HTML;
             document.getElementById('bottomAdContainer').innerHTML = slotHtml;
-            const s = document.createElement('script');
-            s.async = true;
-            s.src = 'https://ss.mrmnd.com/banner.js';
-            document.body.appendChild(s);
+            if (AD_NETWORK !== 'adsterra') {{
+                const s = document.createElement('script');
+                s.async = true;
+                s.src = 'https://ss.mrmnd.com/banner.js';
+                document.body.appendChild(s);
+            }}
         }}
         function clearAds() {{
             document.getElementById('bottomAdContainer').innerHTML = '';
@@ -1445,7 +1631,7 @@ def ensure_index_html():
 # ============== TAG SYSTEM (Stage 3) ==============
 TAGS_DIR = os.path.join(WORK_DIR, "_tags")
 TAG_LAYOUT_PATH = os.path.join(WORK_DIR, "_layouts", "tag.html")
-TAG_LAYOUT_VERSION = 12
+TAG_LAYOUT_VERSION = 13
 TAGS_INDEX_PATH = os.path.join(WORK_DIR, "tags", "index.html")
 TAGS_INDEX_VERSION = 1
 
@@ -1458,7 +1644,7 @@ TAG_LAYOUT_TEMPLATE = f"""<!-- arc-comic-layout-version: {TAG_LAYOUT_VERSION} --
     <link rel="icon" type="image/svg+xml" href="/favicon.svg">
     <title>{{{{ page.tag_name }}}} Comics - Arc Comic</title>
     <meta name="description" content="Browse {{{{ page.tag_name }}}} manga and doujinshi on Arc Comic">
-    <script async src="https://ss.mrmnd.com/banner.js"></script>
+    {AD_HEAD_LOADER_LIQUID}
     <style>
         :root {{
             --bg: #0f0f13; --bg-card: #1a1a24; --bg-elevated: #222230;
@@ -1584,13 +1770,18 @@ TAG_LAYOUT_TEMPLATE = f"""<!-- arc-comic-layout-version: {TAG_LAYOUT_VERSION} --
         function injectAdsIfNeeded() {{
             if (adsInjected) return;
             adsInjected = true;
-            const slotHtml = '<div class="ad-slot" data-mndbanid="{BANNER_AD_ZONE_ID}"></div>';
+            {AD_JS_CONSTANTS}
+            const slotHtml = (AD_NETWORK === 'adsterra') ? ADSTERRA_SLOT_HTML : MONDIAD_SLOT_HTML;
             document.getElementById('topAdContainer').innerHTML = slotHtml;
             document.getElementById('bottomAdContainer').innerHTML = slotHtml;
-            const s = document.createElement('script');
-            s.async = true;
-            s.src = 'https://ss.mrmnd.com/banner.js';
-            document.body.appendChild(s);
+            // Only Mondiad needs banner.js re-triggered; Adsterra slots are
+            // self-contained iframes that load their own invoke.js.
+            if (AD_NETWORK !== 'adsterra') {{
+                const s = document.createElement('script');
+                s.async = true;
+                s.src = 'https://ss.mrmnd.com/banner.js';
+                document.body.appendChild(s);
+            }}
         }}
         function render(page) {{
             page = page || 1;
@@ -1654,7 +1845,7 @@ def slugify(text):
 
 # ============== SEARCH RESULTS PAGE ==============
 SEARCH_PAGE_PATH = os.path.join(WORK_DIR, "search", "index.html")
-SEARCH_PAGE_VERSION = 13
+SEARCH_PAGE_VERSION = 14
 
 SEARCH_PAGE_TEMPLATE = f"""---
 ---
@@ -1667,7 +1858,7 @@ SEARCH_PAGE_TEMPLATE = f"""---
     <link rel="icon" type="image/svg+xml" href="/favicon.svg">
     <title id="pageTitle">Search - Arc Comic</title>
     <meta name="description" content="Search manga and doujinshi on Arc Comic">
-    <script async src="https://ss.mrmnd.com/banner.js"></script>
+    {AD_HEAD_LOADER_LIQUID}
     <style>
         :root {{
             --bg: #0f0f13; --bg-card: #1a1a24; --bg-elevated: #222230;
@@ -1841,13 +2032,18 @@ SEARCH_PAGE_TEMPLATE = f"""---
         // refresh API, so a div injected afterward would otherwise still
         // be missed.
         function injectAdsIfNeeded() {{
-            const slotHtml = '<div class="ad-slot" data-mndbanid="{BANNER_AD_ZONE_ID}"></div>';
+            {AD_JS_CONSTANTS}
+            const slotHtml = (AD_NETWORK === 'adsterra') ? ADSTERRA_SLOT_HTML : MONDIAD_SLOT_HTML;
             document.getElementById('topAdContainer').innerHTML = slotHtml;
             document.getElementById('bottomAdContainer').innerHTML = slotHtml;
-            const s = document.createElement('script');
-            s.async = true;
-            s.src = 'https://ss.mrmnd.com/banner.js';
-            document.body.appendChild(s);
+            // Only Mondiad needs banner.js re-triggered; Adsterra slots are
+            // self-contained iframes that load their own invoke.js.
+            if (AD_NETWORK !== 'adsterra') {{
+                const s = document.createElement('script');
+                s.async = true;
+                s.src = 'https://ss.mrmnd.com/banner.js';
+                document.body.appendChild(s);
+            }}
         }}
         function clearAds() {{
             document.getElementById('topAdContainer').innerHTML = '';
@@ -2164,7 +2360,7 @@ def _write_tags_index(tag_map):
 # index, regenerated together with tags after every batch flush/delete.
 ARTISTS_DIR = os.path.join(WORK_DIR, "_artists")
 ARTIST_LAYOUT_PATH = os.path.join(WORK_DIR, "_layouts", "artist.html")
-ARTIST_LAYOUT_VERSION = 11
+ARTIST_LAYOUT_VERSION = 12
 ARTISTS_INDEX_PATH = os.path.join(WORK_DIR, "artists", "index.html")
 ARTISTS_INDEX_VERSION = 1
 
@@ -2177,7 +2373,7 @@ ARTIST_LAYOUT_TEMPLATE = f"""<!-- arc-comic-layout-version: {ARTIST_LAYOUT_VERSI
     <link rel="icon" type="image/svg+xml" href="/favicon.svg">
     <title>{{{{ page.artist_name }}}} - Arc Comic</title>
     <meta name="description" content="Browse all manga and doujinshi by {{{{ page.artist_name }}}} on Arc Comic">
-    <script async src="https://ss.mrmnd.com/banner.js"></script>
+    {AD_HEAD_LOADER_LIQUID}
     <style>
         :root {{
             --bg: #0f0f13; --bg-card: #1a1a24; --bg-elevated: #222230;
@@ -2292,13 +2488,18 @@ ARTIST_LAYOUT_TEMPLATE = f"""<!-- arc-comic-layout-version: {ARTIST_LAYOUT_VERSI
         function injectAdsIfNeeded() {{
             if (adsInjected) return;
             adsInjected = true;
-            const slotHtml = '<div class="ad-slot" data-mndbanid="{BANNER_AD_ZONE_ID}"></div>';
+            {AD_JS_CONSTANTS}
+            const slotHtml = (AD_NETWORK === 'adsterra') ? ADSTERRA_SLOT_HTML : MONDIAD_SLOT_HTML;
             document.getElementById('topAdContainer').innerHTML = slotHtml;
             document.getElementById('bottomAdContainer').innerHTML = slotHtml;
-            const s = document.createElement('script');
-            s.async = true;
-            s.src = 'https://ss.mrmnd.com/banner.js';
-            document.body.appendChild(s);
+            // Only Mondiad needs banner.js re-triggered; Adsterra slots are
+            // self-contained iframes that load their own invoke.js.
+            if (AD_NETWORK !== 'adsterra') {{
+                const s = document.createElement('script');
+                s.async = true;
+                s.src = 'https://ss.mrmnd.com/banner.js';
+                document.body.appendChild(s);
+            }}
         }}
         function render(page) {{
             page = page || 1;
@@ -4509,6 +4710,19 @@ def _run_health_check_once():
             fixed_paths.append(os.path.join("_tags", "*"))
         if regenerate_artist_pages():
             fixed_paths.append(os.path.join("_artists", "*"))
+        # Sitemap must be rebuilt whenever tag/artist pages change — a
+        # regenerated artist page with no matching sitemap.xml entry is
+        # exactly the "URL is unknown to Google / No referring sitemaps
+        # detected" gap Master found live (haruharudo's artist page was
+        # crawled and served fine, but missing from the sitemap because
+        # this call site regenerated the page without also rebuilding
+        # the sitemap). Always attempted here, not gated behind
+        # fixed_paths having tag/artist entries specifically, since a
+        # scalar-field fix alone still means comics changed and the
+        # sitemap's lastmod dates should reflect that too.
+        site_url = "https://arccomic.github.io"
+        if regenerate_sitemap(site_url):
+            fixed_paths.append("sitemap.xml")
         pushed, push_err = git_push(
             cfg, "health-check", f"Health check: auto-fix {len(fixed_paths)} file(s)",
             batch_paths=[p for p in fixed_paths if "*" not in p] or None
@@ -5053,23 +5267,46 @@ DASHBOARD_HTML = """
         </div>
 
         <div class="card">
-            <h2>📲 Reading Page Join Notice</h2>
-            <p style="color:#8888a0;font-size:13px;margin-bottom:10px;">
-                Small text shown on every comic's reading page, right above the "Read Now On Telegram" button — reminds readers to join the mandatory channel(s) before the bot works.
+            <h2>📢 Ad Network</h2>
+            <p style="color:#8888a0;font-size:13px;margin-bottom:12px;">
+                Switches <strong>every</strong> ad slot on the whole site at once (reading pages, tag, artist,
+                search and homepage page 2+). Same 300x250 size on both, so nothing shifts. Switch back any time
+                to compare earnings — nothing is deleted, the other network's code is just left off.
             </p>
-            <p style="color:#8888a0;font-size:12px;margin-bottom:10px;line-height:1.5;background:#1a1a24;border:1px solid #2a2a3a;border-radius:8px;padding:10px;">
-                💡 Same link syntax as the tagline above — wrap a link like
-                <code style="color:#f59e0b;">(linktext:https://example.com)</code> —
-                e.g. <code style="color:#f59e0b;">Join (Channel 1:https://t.me/...) and (Channel 2:https://t.me/...) first</code>.
+            <div style="display:flex;gap:10px;">
+                <button id="adNetworkMondiadBtn" type="button" data-network="mondiad" class="ad-network-btn"
+                        style="flex:1;padding:14px;border-radius:10px;font-weight:700;font-size:14px;cursor:pointer;border:2px solid #2a2a3a;background:#1a1a24;color:#8888a0;">
+                    Mondiad
+                </button>
+                <button id="adNetworkAdsterraBtn" type="button" data-network="adsterra" class="ad-network-btn"
+                        style="flex:1;padding:14px;border-radius:10px;font-weight:700;font-size:14px;cursor:pointer;border:2px solid #2a2a3a;background:#1a1a24;color:#8888a0;">
+                    Adsterra
+                </button>
+            </div>
+            <div style="margin-top:10px;font-size:13px;color:#8888a0;">
+                Currently live: <strong id="adNetworkCurrent" style="color:#f59e0b;">loading...</strong>
+            </div>
+            <div class="status" id="adNetworkStatus"></div>
+        </div>
+
+        <div class="card">
+            <h2>🔘 Reading Page Buttons</h2>
+            <p style="color:#8888a0;font-size:13px;margin-bottom:12px;">
+                The read buttons shown on every comic page. Turn each on or off, move them up or down
+                (top of this list = top of the page), and give each its own small message line that
+                appears just above it. Leave a message empty to show none. "OR" dividers are added
+                automatically between whichever buttons are on.
+            </p>
+            <p style="color:#8888a0;font-size:12px;margin-bottom:12px;line-height:1.5;background:#1a1a24;border:1px solid #2a2a3a;border-radius:8px;padding:10px;">
+                💡 Messages support links the same way as the tagline: wrap a link like
+                <code style="color:#f59e0b;">(linktext:https://example.com)</code>.
                 Only <code style="color:#f59e0b;">https://</code> or <code style="color:#f59e0b;">http://</code> links work this way.
             </p>
-            <textarea id="joinNoticeInput" rows="2" style="width:100%;background:#1a1a24;color:#fff;border:1px solid #2a2a3a;border-radius:8px;padding:10px;font-size:14px;box-sizing:border-box;resize:vertical;"></textarea>
-            <div style="margin-top:10px;font-size:12px;color:#8888a0;">Preview:</div>
-            <div id="joinNoticePreview" style="margin-top:4px;padding:10px;background:#1a1a24;border:1px solid #2a2a3a;border-radius:8px;font-size:14px;min-height:20px;"></div>
-            <button id="saveJoinNoticeBtn" type="button" style="width:100%;background:#f59e0b;color:#000;border:none;padding:12px;border-radius:10px;font-weight:700;font-size:13px;cursor:pointer;margin-top:10px;">
-                💾 Save Join Notice
+            <div id="readButtonsList"></div>
+            <button id="saveReadButtonsBtn" type="button" style="width:100%;background:#f59e0b;color:#000;border:none;padding:12px;border-radius:10px;font-weight:700;font-size:13px;cursor:pointer;margin-top:10px;">
+                💾 Save Buttons
             </button>
-            <div class="status" id="joinNoticeStatus"></div>
+            <div class="status" id="readButtonsStatus"></div>
         </div>
 
         <div class="card">
@@ -5589,13 +5826,6 @@ DASHBOARD_HTML = """
                 taglinePreview.innerHTML = renderTaglinePreview(taglineInput.value) || '<span style="color:#8888a0;">(empty)</span>';
             });
         }
-        const joinNoticeInput = document.getElementById('joinNoticeInput');
-        const joinNoticePreview = document.getElementById('joinNoticePreview');
-        if (joinNoticeInput && joinNoticePreview) {
-            joinNoticeInput.addEventListener('input', () => {
-                joinNoticePreview.innerHTML = renderTaglinePreview(joinNoticeInput.value) || '<span style="color:#8888a0;">(empty)</span>';
-            });
-        }
         const footerInput = document.getElementById('footerInput');
         const footerPreview = document.getElementById('footerPreview');
         if (footerInput && footerPreview) {
@@ -5611,14 +5841,14 @@ DASHBOARD_HTML = """
                     taglineInput.value = data.tagline || '';
                     taglinePreview.innerHTML = renderTaglinePreview(taglineInput.value) || '<span style="color:#8888a0;">(empty)</span>';
                 }
-                if (joinNoticeInput) {
-                    joinNoticeInput.value = data.join_notice || '';
-                    joinNoticePreview.innerHTML = renderTaglinePreview(joinNoticeInput.value) || '<span style="color:#8888a0;">(empty)</span>';
-                }
                 if (footerInput) {
                     footerInput.value = data.footer || '';
                     footerPreview.innerHTML = renderTaglinePreview(footerInput.value) || '<span style="color:#8888a0;">(empty)</span>';
                 }
+                siteAdNetwork = data.ad_network || 'mondiad';
+                siteReadButtons = Array.isArray(data.read_buttons) ? data.read_buttons : [];
+                if (typeof paintAdNetwork === 'function') paintAdNetwork();
+                if (typeof renderReadButtons === 'function') renderReadButtons();
             } catch (e) { /* dashboard offline */ }
         }
         loadSiteMeta();
@@ -5649,32 +5879,6 @@ DASHBOARD_HTML = """
             });
         }
 
-        const saveJoinNoticeBtn = document.getElementById('saveJoinNoticeBtn');
-        if (saveJoinNoticeBtn) {
-            saveJoinNoticeBtn.addEventListener('click', async () => {
-                saveJoinNoticeBtn.disabled = true;
-                saveJoinNoticeBtn.textContent = 'Saving...';
-                const statusEl = document.getElementById('joinNoticeStatus');
-                try {
-                    const res = await fetch('/api/site_meta', {
-                        method: 'POST',
-                        headers: { 'Content-Type': 'application/json' },
-                        body: JSON.stringify({ join_notice: joinNoticeInput.value })
-                    });
-                    const data = await res.json();
-                    statusEl.className = data.status === 'ok' ? 'status success' : 'status error';
-                    statusEl.textContent = data.status === 'ok'
-                        ? '✅ Saved and pushed live'
-                        : '⚠️ Saved locally, but push failed: ' + (data.error || 'unknown error');
-                } catch (e) {
-                    statusEl.className = 'status error';
-                    statusEl.textContent = '❌ Error: ' + e.message;
-                }
-                saveJoinNoticeBtn.disabled = false;
-                saveJoinNoticeBtn.textContent = '💾 Save Join Notice';
-            });
-        }
-
         const saveFooterBtn = document.getElementById('saveFooterBtn');
         if (saveFooterBtn) {
             saveFooterBtn.addEventListener('click', async () => {
@@ -5698,6 +5902,135 @@ DASHBOARD_HTML = """
                 }
                 saveFooterBtn.disabled = false;
                 saveFooterBtn.textContent = '💾 Save Footer Text';
+            });
+        }
+
+        // ---- Ad network switch + reading-page buttons (session 12) ----
+        // NOTE: this whole dashboard is rendered through Jinja, so this block
+        // must never contain a double open/close curly brace pair anywhere.
+        let siteAdNetwork = 'mondiad';
+        let siteReadButtons = [];
+
+        function paintAdNetwork() {
+            document.querySelectorAll('.ad-network-btn').forEach(btn => {
+                const on = btn.dataset.network === siteAdNetwork;
+                btn.style.borderColor = on ? '#f59e0b' : '#2a2a3a';
+                btn.style.background = on ? '#2a2210' : '#1a1a24';
+                btn.style.color = on ? '#f59e0b' : '#8888a0';
+            });
+            const cur = document.getElementById('adNetworkCurrent');
+            if (cur) cur.textContent = siteAdNetwork === 'adsterra' ? 'Adsterra' : 'Mondiad';
+        }
+
+        async function postSiteMeta(payload, statusEl) {
+            try {
+                const res = await fetch('/api/site_meta', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify(payload)
+                });
+                const data = await res.json();
+                if (data.status === 'ok') {
+                    statusEl.className = 'status success';
+                    statusEl.textContent = '✅ Saved and pushed live (site updates in about a minute)';
+                } else if (data.status === 'saved_but_push_failed') {
+                    statusEl.className = 'status error';
+                    statusEl.textContent = '⚠️ Saved locally, but push failed: ' + (data.error || 'unknown error');
+                } else {
+                    statusEl.className = 'status error';
+                    statusEl.textContent = '❌ ' + (data.error || 'Save failed');
+                }
+                return data;
+            } catch (e) {
+                statusEl.className = 'status error';
+                statusEl.textContent = '❌ Error: ' + e.message;
+                return null;
+            }
+        }
+
+        document.querySelectorAll('.ad-network-btn').forEach(btn => {
+            btn.addEventListener('click', async () => {
+                const wanted = btn.dataset.network;
+                if (wanted === siteAdNetwork) return;
+                const previous = siteAdNetwork;
+                const statusEl = document.getElementById('adNetworkStatus');
+                document.querySelectorAll('.ad-network-btn').forEach(b => b.disabled = true);
+                statusEl.className = 'status';
+                statusEl.textContent = 'Switching...';
+                const data = await postSiteMeta({ ad_network: wanted }, statusEl);
+                // Only reflect the new network if the server actually accepted it.
+                if (data && (data.status === 'ok' || data.status === 'saved_but_push_failed')) {
+                    siteAdNetwork = data.ad_network || wanted;
+                } else {
+                    siteAdNetwork = previous;
+                }
+                document.querySelectorAll('.ad-network-btn').forEach(b => b.disabled = false);
+                paintAdNetwork();
+            });
+        });
+
+        const READ_BUTTON_TITLES = {
+            telegram_bot: '🤖 Read Now On Telegram (opens the bot)',
+            telegram_post: '📨 Read Now (original Telegram post)',
+            web_reader: '🌐 Read Now On Web (web reader)'
+        };
+
+        function renderReadButtons() {
+            const container = document.getElementById('readButtonsList');
+            if (!container) return;
+            container.innerHTML = siteReadButtons.map((b, i) => `
+                <div style="background:#0f0f13;border:1px solid ${b.enabled ? '#2a2a3a' : '#3a2020'};border-radius:10px;padding:12px;margin-bottom:10px;opacity:${b.enabled ? '1' : '0.6'};">
+                    <div style="display:flex;align-items:center;gap:8px;margin-bottom:10px;">
+                        <div style="font-weight:700;font-size:13px;color:#e2e2e8;flex:1;">${READ_BUTTON_TITLES[b.id] || b.id}</div>
+                        <button type="button" data-i="${i}" class="rb-up" ${i === 0 ? 'disabled' : ''}
+                                style="background:#1a1a24;color:#f59e0b;border:1px solid #2a2a3a;border-radius:8px;padding:6px 12px;font-size:14px;cursor:pointer;${i === 0 ? 'opacity:0.3;' : ''}">▲</button>
+                        <button type="button" data-i="${i}" class="rb-down" ${i === siteReadButtons.length - 1 ? 'disabled' : ''}
+                                style="background:#1a1a24;color:#f59e0b;border:1px solid #2a2a3a;border-radius:8px;padding:6px 12px;font-size:14px;cursor:pointer;${i === siteReadButtons.length - 1 ? 'opacity:0.3;' : ''}">▼</button>
+                    </div>
+                    <label style="display:flex;align-items:center;gap:8px;font-size:13px;color:#e2e2e8;margin-bottom:10px;cursor:pointer;">
+                        <input type="checkbox" data-i="${i}" class="rb-enabled" ${b.enabled ? 'checked' : ''} style="width:18px;height:18px;">
+                        Show this button
+                    </label>
+                    <div style="font-size:12px;color:#8888a0;margin-bottom:4px;">Message above this button (optional)</div>
+                    <textarea data-i="${i}" class="rb-dialogue" rows="2" placeholder="e.g. (Join Mandatory Telegram channels to Activate Bot first time)"
+                              style="width:100%;background:#1a1a24;color:#fff;border:1px solid #2a2a3a;border-radius:8px;padding:10px;font-size:13px;box-sizing:border-box;resize:vertical;">${escapeHtml(b.dialogue || '')}</textarea>
+                    <div style="margin-top:6px;font-size:12px;color:#8888a0;">Preview:</div>
+                    <div class="rb-preview" data-i="${i}" style="margin-top:4px;padding:8px;background:#1a1a24;border:1px solid #2a2a3a;border-radius:8px;font-size:13px;min-height:18px;">${renderTaglinePreview(b.dialogue || '') || '<span style="color:#8888a0;">(no message)</span>'}</div>
+                </div>
+            `).join('');
+
+            container.querySelectorAll('.rb-enabled').forEach(el => el.addEventListener('change', (e) => {
+                siteReadButtons[parseInt(e.target.dataset.i)].enabled = e.target.checked;
+                renderReadButtons();
+            }));
+            container.querySelectorAll('.rb-dialogue').forEach(el => el.addEventListener('input', (e) => {
+                const i = parseInt(e.target.dataset.i);
+                siteReadButtons[i].dialogue = e.target.value;
+                // Update only this preview so the textarea keeps focus while typing.
+                container.querySelector('.rb-preview[data-i="' + i + '"]').innerHTML =
+                    renderTaglinePreview(e.target.value) || '<span style="color:#8888a0;">(no message)</span>';
+            }));
+            container.querySelectorAll('.rb-up').forEach(el => el.addEventListener('click', (e) => {
+                const i = parseInt(e.currentTarget.dataset.i);
+                if (i > 0) { [siteReadButtons[i - 1], siteReadButtons[i]] = [siteReadButtons[i], siteReadButtons[i - 1]]; renderReadButtons(); }
+            }));
+            container.querySelectorAll('.rb-down').forEach(el => el.addEventListener('click', (e) => {
+                const i = parseInt(e.currentTarget.dataset.i);
+                if (i < siteReadButtons.length - 1) { [siteReadButtons[i + 1], siteReadButtons[i]] = [siteReadButtons[i], siteReadButtons[i + 1]]; renderReadButtons(); }
+            }));
+        }
+
+        const saveReadButtonsBtn = document.getElementById('saveReadButtonsBtn');
+        if (saveReadButtonsBtn) {
+            saveReadButtonsBtn.addEventListener('click', async () => {
+                saveReadButtonsBtn.disabled = true;
+                saveReadButtonsBtn.textContent = 'Saving...';
+                const statusEl = document.getElementById('readButtonsStatus');
+                const data = await postSiteMeta({ read_buttons: siteReadButtons }, statusEl);
+                if (data && data.read_buttons) siteReadButtons = data.read_buttons;
+                saveReadButtonsBtn.disabled = false;
+                saveReadButtonsBtn.textContent = '💾 Save Buttons';
+                renderReadButtons();
             });
         }
 
@@ -5974,6 +6307,17 @@ def api_delete_post():
         regenerate_artist_pages()
     except Exception as e:
         print(f"⚠️ Artist page regeneration failed: {e}")
+    try:
+        # Same gap as Health Check's push (see its comment): a delete
+        # can remove a comic's page and, if it was that artist's only
+        # post, remove their whole artist page too — sitemap.xml must
+        # be rebuilt here as well or it keeps listing a page that no
+        # longer exists (or misses one that still does), same class of
+        # drift that left haruharudo's page crawlable but absent from
+        # the sitemap Google actually saw.
+        regenerate_sitemap("https://arccomic.github.io")
+    except Exception as e:
+        print(f"⚠️ Sitemap regeneration failed: {e}")
 
     # Push the deletion so the live site drops the post too
     cfg = load_config()
@@ -6014,6 +6358,14 @@ def api_save_site_meta():
     tagline = str(data.get("tagline", current["tagline"])).strip()
     join_notice = str(data.get("join_notice", current["join_notice"])).strip()
     footer = str(data.get("footer", current["footer"])).strip()
+    # Ad network + read buttons follow the same "send only what changed" rule:
+    # whichever is omitted keeps its current saved value, so the ad-network
+    # switch and the buttons manager (separate dashboard cards) can never
+    # overwrite each other or the text fields above.
+    if "ad_network" in data and str(data["ad_network"]).strip().lower() not in AD_NETWORKS:
+        return jsonify({"status": "error", "error": "Unknown ad network"}), 400
+    ad_network = normalize_ad_network(data.get("ad_network", current["ad_network"]))
+    read_buttons = normalize_read_buttons(data.get("read_buttons", current["read_buttons"]), join_notice)
     if not tagline:
         return jsonify({"status": "error", "error": "Tagline can't be empty"}), 400
     if not join_notice:
@@ -6021,10 +6373,11 @@ def api_save_site_meta():
     if not footer:
         return jsonify({"status": "error", "error": "Footer text can't be empty"}), 400
 
-    saved = save_site_meta({"tagline": tagline, "join_notice": join_notice, "footer": footer})
+    saved = save_site_meta({"tagline": tagline, "join_notice": join_notice, "footer": footer,
+                            "ad_network": ad_network, "read_buttons": read_buttons})
 
     cfg = load_config()
-    pushed, err = git_push(cfg, "meta", "Update site tagline/join notice/footer",
+    pushed, err = git_push(cfg, "meta", "Update site tagline/join notice/footer/ad network/read buttons",
                             batch_paths=[os.path.join("_data", "site_meta.json")])
     return jsonify({
         "status": "ok" if pushed else "saved_but_push_failed",
@@ -6035,6 +6388,8 @@ def api_save_site_meta():
         "join_notice_preview_html": saved["join_notice_html"],
         "footer": saved["footer"],
         "footer_preview_html": saved["footer_html"],
+        "ad_network": saved["ad_network"],
+        "read_buttons": saved["read_buttons"],
     })
 
 @app.route("/api/social_links", methods=["POST"])
@@ -6459,6 +6814,14 @@ if __name__ == "__main__":
             if regenerate_tag_pages():
                 needs_push = True
             if regenerate_artist_pages():
+                needs_push = True
+            # Same reasoning as the two call sites above: rebuilding
+            # tag/artist pages here without also rebuilding sitemap.xml
+            # is exactly how haruharudo's artist page ended up crawlable
+            # and live but missing from the sitemap Google inspected —
+            # this startup path runs on every single bot restart, so
+            # it's the most frequent of the three gaps that needed this.
+            if regenerate_sitemap("https://arccomic.github.io"):
                 needs_push = True
         if needs_push:
             cfg = load_config()
