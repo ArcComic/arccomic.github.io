@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "chinese dress"
-work_count: 5
+work_count: 6
 works:
   - title: Boku no Chuugoku Bijin Slender Kyonyuu Tsuma ga Camera Model de Nugasarete
       Yarichin Tomo ni Netorareta Ken
@@ -28,10 +28,17 @@ works:
   - title: Ryuuinkou | A Dragon's Lustful Scent
     author: aramaki-echizen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682342.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-19'
     code: 682342
     url: /works/682342/
+  - title: CosBare -Takabisha na Kyonyuu Joushi no "Goshujin-sama" ni Narimashita!?-
+    author: sazanami-wasabi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682600.jpg
+    rating: 0.0
+    date: '2026-09-20'
+    code: 682600
+    url: /works/682600/
   - title: Hottokenaino
     author: hara-shigeyuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/77864.jpg

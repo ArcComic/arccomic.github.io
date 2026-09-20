@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "uncensored"
-work_count: 91
+work_count: 92
 works:
   - title: Netemo Sametemo | Be it Sleeping or Awake
     author: takasugi-kou
@@ -186,6 +186,13 @@ works:
     date: '2026-05-05'
     code: 578147
     url: /works/578147/
+  - title: Utaite no Ballad | Singer's Ballad! Chapters 01-02
+    author: quzilax
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/578403.jpg
+    rating: 4.7
+    date: '2026-09-19'
+    code: 578403
+    url: /works/578403/
   - title: Nanami-chan can’t resist after a date! Cafe, Cinema, Love hotel~
     author: a2me
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/579819.jpg
@@ -431,7 +438,7 @@ works:
   - title: 'Mindless Lolis: Anya Forger Ep. 1-8'
     author: baba
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/646501.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-19'
     code: 646501
     url: /works/646501/
@@ -671,7 +678,7 @@ works:
   - title: My Sister's Perfect Feet Book 2 Ep. 1-20
     author: baba
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682326.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-19'
     code: 682326
     url: /works/682326/

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "schoolgirl uniform"
-work_count: 247
+work_count: 248
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -99,7 +99,7 @@ works:
   - title: Senpai Refrain
     author: spiritus-tarou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/357616.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-19'
     code: 357616
     url: /works/357616/
@@ -276,7 +276,7 @@ works:
       | Blonde Gal with Huge Tits Treats Me Like a Manslut
     author: uni-toshiki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/503772.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-19'
     code: 503772
     url: /works/503772/
@@ -463,6 +463,13 @@ works:
     date: '2026-02-26'
     code: 578371
     url: /works/578371/
+  - title: Utaite no Ballad | Singer's Ballad! Chapters 01-02
+    author: quzilax
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/578403.jpg
+    rating: 4.7
+    date: '2026-09-19'
+    code: 578403
+    url: /works/578403/
   - title: ゼロ距離のまなざし | 零距离的眼神
     author: momoko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/579493.jpg
@@ -790,7 +797,7 @@ works:
   - title: Himitsu no Netorase Gokko
     author: baa-chan-chi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638320.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-09-19'
     code: 638320
     url: /works/638320/
@@ -1301,7 +1308,7 @@ works:
       Everyday
     author: mokuzou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662751.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-19'
     code: 662751
     url: /works/662751/
@@ -1396,7 +1403,7 @@ works:
       is mandatory and it's all practical
     author: toyama-jigoku
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/665207.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-19'
     code: 665207
     url: /works/665207/
@@ -1827,14 +1834,14 @@ works:
   - title: Hatsujouki dakara Shikatanai
     author: tsukunendo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682245.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-19'
     code: 682245
     url: /works/682245/
   - title: Namaiki Mesugaki Kuppuku Acme Ch. 2
     author: sasamashin
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682364.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-19'
     code: 682364
     url: /works/682364/

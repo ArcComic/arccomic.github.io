@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "glasses"
-work_count: 190
+work_count: 193
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -119,7 +119,7 @@ works:
   - title: Senpai Refrain
     author: spiritus-tarou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/357616.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-19'
     code: 357616
     url: /works/357616/
@@ -297,7 +297,7 @@ works:
       | Blonde Gal with Huge Tits Treats Me Like a Manslut
     author: uni-toshiki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/503772.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-19'
     code: 503772
     url: /works/503772/
@@ -482,6 +482,13 @@ works:
     date: '2026-05-05'
     code: 578147
     url: /works/578147/
+  - title: Utaite no Ballad | Singer's Ballad! Chapters 01-02
+    author: quzilax
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/578403.jpg
+    rating: 4.7
+    date: '2026-09-19'
+    code: 578403
+    url: /works/578403/
   - title: Himitsu Koueki + Kake
     author: tsukumo-nikyu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/586316.jpg
@@ -1121,6 +1128,13 @@ works:
     date: '2026-08-17'
     code: 673485
     url: /works/673485/
+  - title: Daininki Mangaka Ochinpo Tatsuro Sensei wa Tatepaizuri Dekiru noka
+    author: monin
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673677.jpg
+    rating: 0.0
+    date: '2026-09-20'
+    code: 673677
+    url: /works/673677/
   - title: Summer, The Countryside, Tatami and Futon, Mother
     author: takatsu-takatsu-keita
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673862.jpg
@@ -1378,17 +1392,25 @@ works:
       Sugoi | The Frustrated, Curvy Mom Downstairs Keeps Making Bold Moves
     author: ikinari-mojio-yosyo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682307.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-19'
     code: 682307
     url: /works/682307/
   - title: Namaiki Mesugaki Kuppuku Acme Ch. 2
     author: sasamashin
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682364.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-19'
     code: 682364
     url: /works/682364/
+  - title: SNS Shijou Shugi no Sekai e Youkoso. ~Daininki Influencer no Omae yori Ore
+      no Hou ga Suuji ga Aru node Okashimasu~
+    author: ushigon
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682620.jpg
+    rating: 0.0
+    date: '2026-09-20'
+    code: 682620
+    url: /works/682620/
   - title: Hottokenaino
     author: hara-shigeyuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/77864.jpg

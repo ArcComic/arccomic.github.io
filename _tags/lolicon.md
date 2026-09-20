@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "lolicon"
-work_count: 79
+work_count: 80
 works:
   - title: Sensei wa Shougakusei ga Suki | Sensei Loves Elementary Schoolers
     author: fuyuno-mikan
@@ -73,7 +73,7 @@ works:
       ~Hide-and-seek with Sensei~
     author: shibame
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/477646.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-19'
     code: 477646
     url: /works/477646/
@@ -105,6 +105,13 @@ works:
     date: '2026-07-09'
     code: 555216
     url: /works/555216/
+  - title: Utaite no Ballad | Singer's Ballad! Chapters 01-02
+    author: quzilax
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/578403.jpg
+    rating: 4.7
+    date: '2026-09-19'
+    code: 578403
+    url: /works/578403/
   - title: Namima no Pōtorēto | Portrait of a Wave
     author: torii-yoshitsuna
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/580379.jpg
@@ -204,7 +211,7 @@ works:
   - title: 'Mindless Lolis: Anya Forger Ep. 1-8'
     author: baba
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/646501.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-19'
     code: 646501
     url: /works/646501/
@@ -557,7 +564,7 @@ works:
   - title: My Sister's Perfect Feet Book 2 Ep. 1-20
     author: baba
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682326.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-19'
     code: 682326
     url: /works/682326/
@@ -565,14 +572,14 @@ works:
       charm!
     author: kumajiro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682328.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-19'
     code: 682328
     url: /works/682328/
   - title: Namaiki Mesugaki Kuppuku Acme Ch. 2
     author: sasamashin
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682364.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-19'
     code: 682364
     url: /works/682364/

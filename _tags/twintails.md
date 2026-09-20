@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "twintails"
-work_count: 99
+work_count: 101
 works:
   - title: Sensei wa Shougakusei ga Suki | Sensei Loves Elementary Schoolers
     author: fuyuno-mikan
@@ -13,7 +13,7 @@ works:
   - title: Senpai Refrain
     author: spiritus-tarou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/357616.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-19'
     code: 357616
     url: /works/357616/
@@ -151,6 +151,13 @@ works:
     date: '2026-02-26'
     code: 578371
     url: /works/578371/
+  - title: Utaite no Ballad | Singer's Ballad! Chapters 01-02
+    author: quzilax
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/578403.jpg
+    rating: 4.7
+    date: '2026-09-19'
+    code: 578403
+    url: /works/578403/
   - title: ゼロ距離のまなざし | 零距离的眼神
     author: momoko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/579493.jpg
@@ -276,6 +283,14 @@ works:
     date: '2026-08-20'
     code: 639463
     url: /works/639463/
+  - title: Joukyou Musume, Tokai no Kibishisa o Shiru | Country Girl Learns the Harshness
+      of the City
+    author: take-shinshi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/643190.jpg
+    rating: 0.0
+    date: '2026-09-20'
+    code: 643190
+    url: /works/643190/
   - title: Sawatte Mitai? | Do You Wanna Touch?
     author: rondonko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/644309.jpg
@@ -716,21 +731,21 @@ works:
       charm!
     author: kumajiro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682328.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-19'
     code: 682328
     url: /works/682328/
   - title: Ryuuinkou | A Dragon's Lustful Scent
     author: aramaki-echizen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682342.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-19'
     code: 682342
     url: /works/682342/
   - title: Namaiki Mesugaki Kuppuku Acme Ch. 2
     author: sasamashin
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682364.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-19'
     code: 682364
     url: /works/682364/

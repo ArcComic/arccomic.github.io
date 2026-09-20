@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "rape"
-work_count: 178
+work_count: 179
 works:
   - title: Office Love Scramble Ch. 1
     author: tohzai
@@ -646,6 +646,14 @@ works:
     date: '2026-08-25'
     code: 642770
     url: /works/642770/
+  - title: Joukyou Musume, Tokai no Kibishisa o Shiru | Country Girl Learns the Harshness
+      of the City
+    author: take-shinshi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/643190.jpg
+    rating: 0.0
+    date: '2026-09-20'
+    code: 643190
+    url: /works/643190/
   - title: Teikou Suru hodo Nurete Shimau | The more I resist, the wetter I get
     author: tianoblue
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/643633.jpg
@@ -976,7 +984,7 @@ works:
       Everyday
     author: mokuzou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662751.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-19'
     code: 662751
     url: /works/662751/
@@ -1070,7 +1078,7 @@ works:
   - title: Tora re tsuma ~ harami niku benki ni sa reta oku-sa ~
     author: mokuzou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/667314.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-19'
     code: 667314
     url: /works/667314/
@@ -1288,14 +1296,14 @@ works:
   - title: Namaiki Mesugaki Kuppuku Acme Ch. 2
     author: sasamashin
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682364.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-19'
     code: 682364
     url: /works/682364/
   - title: overbearing mother
     author: macaroni-and-cheese
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682383.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-19'
     code: 682383
     url: /works/682383/

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bbm"
-work_count: 77
+work_count: 79
 works:
   - title: Kindan no Hatemitsu
     author: ryuuta
@@ -313,6 +313,14 @@ works:
     date: '2026-09-18'
     code: 637891
     url: /works/637891/
+  - title: Joukyou Musume, Tokai no Kibishisa o Shiru | Country Girl Learns the Harshness
+      of the City
+    author: take-shinshi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/643190.jpg
+    rating: 0.0
+    date: '2026-09-20'
+    code: 643190
+    url: /works/643190/
   - title: Boku no Kanojo ga Katte ni Seikyouiku Sareteta Hanashi
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/643527.jpg
@@ -574,4 +582,12 @@ works:
     date: '2026-09-17'
     code: 681851
     url: /works/681851/
+  - title: SNS Shijou Shugi no Sekai e Youkoso. ~Daininki Influencer no Omae yori Ore
+      no Hou ga Suuji ga Aru node Okashimasu~
+    author: ushigon
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682620.jpg
+    rating: 0.0
+    date: '2026-09-20'
+    code: 682620
+    url: /works/682620/
 ---

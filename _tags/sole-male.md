@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole male"
-work_count: 660
+work_count: 665
 works:
   - title: Adoration
     author: kishizuka-kenji
@@ -279,7 +279,7 @@ works:
   - title: Senpai Refrain
     author: spiritus-tarou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/357616.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-19'
     code: 357616
     url: /works/357616/
@@ -758,7 +758,7 @@ works:
       ~Hide-and-seek with Sensei~
     author: shibame
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/477646.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-19'
     code: 477646
     url: /works/477646/
@@ -867,7 +867,7 @@ works:
       | Blonde Gal with Huge Tits Treats Me Like a Manslut
     author: uni-toshiki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/503772.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-19'
     code: 503772
     url: /works/503772/
@@ -2534,6 +2534,14 @@ works:
     date: '2026-04-27'
     code: 642793
     url: /works/642793/
+  - title: Joukyou Musume, Tokai no Kibishisa o Shiru | Country Girl Learns the Harshness
+      of the City
+    author: take-shinshi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/643190.jpg
+    rating: 0.0
+    date: '2026-09-20'
+    code: 643190
+    url: /works/643190/
   - title: Misuzu no Oheya kara Hitoban Nigerarenai Hon  | The Book Where You Can't
       Escape Misuzu's Room All Night Long.
     author: cure-slum
@@ -2553,7 +2561,7 @@ works:
       - last part
     author: nigiri-usagi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/643500.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-19'
     code: 643500
     url: /works/643500/
@@ -3370,6 +3378,13 @@ works:
     date: '2026-09-11'
     code: 656626
     url: /works/656626/
+  - title: I Became the Master of My Arrogant Busty Boss!? 02
+    author: sazanami-wasabi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/656681.jpg
+    rating: 0.0
+    date: '2026-09-20'
+    code: 656681
+    url: /works/656681/
   - title: Hirusagari no Otetsudai
     author: mogiki-hayami
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/656686.jpg
@@ -3392,6 +3407,13 @@ works:
     date: '2026-09-13'
     code: 657607
     url: /works/657607/
+  - title: I Became the Master of My Arrogant Busty Boss!? 03
+    author: sazanami-wasabi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/657952.jpg
+    rating: 0.0
+    date: '2026-09-20'
+    code: 657952
+    url: /works/657952/
   - title: Haha Ana ni Irazumba
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/657981.jpg
@@ -3876,7 +3898,7 @@ works:
       is mandatory and it's all practical
     author: toyama-jigoku
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/665207.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-19'
     code: 665207
     url: /works/665207/
@@ -4866,7 +4888,7 @@ works:
   - title: Hatsujouki dakara Shikatanai
     author: tsukunendo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682245.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-19'
     code: 682245
     url: /works/682245/
@@ -4874,7 +4896,7 @@ works:
       Sugoi | The Frustrated, Curvy Mom Downstairs Keeps Making Bold Moves
     author: ikinari-mojio-yosyo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682307.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-19'
     code: 682307
     url: /works/682307/
@@ -4882,7 +4904,7 @@ works:
       charm!
     author: kumajiro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682328.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-19'
     code: 682328
     url: /works/682328/
@@ -4890,22 +4912,38 @@ works:
       Seieki o Shiboritorareta Hanashi -
     author: galvalume-kouhan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682332.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-19'
     code: 682332
     url: /works/682332/
   - title: Ryuuinkou | A Dragon's Lustful Scent
     author: aramaki-echizen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682342.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-19'
     code: 682342
     url: /works/682342/
   - title: Namaiki Mesugaki Kuppuku Acme Ch. 2
     author: sasamashin
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682364.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-19'
     code: 682364
     url: /works/682364/
+  - title: Hatsujou Usagi wa Mangetsu no Yoru ni Koubi suru | A Rabbit In Heat Breeds
+      Under The Full Moon
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682586.jpg
+    rating: 0.0
+    date: '2026-09-20'
+    code: 682586
+    url: /works/682586/
+  - title: SNS Shijou Shugi no Sekai e Youkoso. ~Daininki Influencer no Omae yori Ore
+      no Hou ga Suuji ga Aru node Okashimasu~
+    author: ushigon
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682620.jpg
+    rating: 0.0
+    date: '2026-09-20'
+    code: 682620
+    url: /works/682620/
 ---

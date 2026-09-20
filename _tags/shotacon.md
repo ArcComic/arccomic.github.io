@@ -540,7 +540,7 @@ works:
       is mandatory and it's all practical
     author: toyama-jigoku
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/665207.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-19'
     code: 665207
     url: /works/665207/
@@ -723,7 +723,7 @@ works:
       Sugoi | The Frustrated, Curvy Mom Downstairs Keeps Making Bold Moves
     author: ikinari-mojio-yosyo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682307.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-19'
     code: 682307
     url: /works/682307/

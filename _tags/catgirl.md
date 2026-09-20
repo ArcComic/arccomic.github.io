@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "catgirl"
-work_count: 8
+work_count: 9
 works:
   - title: Hitoban Tomete yo, Otaku-kun | Let Me Stay For the Night, Otaku-kun
     author: danimaru
@@ -57,8 +57,15 @@ works:
   - title: Hatsujouki dakara Shikatanai
     author: tsukunendo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682245.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-19'
     code: 682245
     url: /works/682245/
+  - title: CosBare -Takabisha na Kyonyuu Joushi no "Goshujin-sama" ni Narimashita!?-
+    author: sazanami-wasabi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682600.jpg
+    rating: 0.0
+    date: '2026-09-20'
+    code: 682600
+    url: /works/682600/
 ---

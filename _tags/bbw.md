@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bbw"
-work_count: 40
+work_count: 41
 works:
   - title: My Care Lady Ch. 1
     author: sugi-g
@@ -107,7 +107,7 @@ works:
       ♡
     author: popotto-denki-ichigouten
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/629027.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-09-19'
     code: 629027
     url: /works/629027/
@@ -284,7 +284,7 @@ works:
   - title: Hatsujouki dakara Shikatanai
     author: tsukunendo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682245.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-19'
     code: 682245
     url: /works/682245/
@@ -292,8 +292,15 @@ works:
       Sugoi | The Frustrated, Curvy Mom Downstairs Keeps Making Bold Moves
     author: ikinari-mojio-yosyo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682307.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-19'
     code: 682307
     url: /works/682307/
+  - title: Reverse diet
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682597.jpg
+    rating: 0.0
+    date: '2026-09-20'
+    code: 682597
+    url: /works/682597/
 ---

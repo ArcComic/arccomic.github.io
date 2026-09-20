@@ -205,7 +205,7 @@ works:
   - title: Senpai Refrain
     author: spiritus-tarou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/357616.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-19'
     code: 357616
     url: /works/357616/
@@ -588,7 +588,7 @@ works:
       ~Hide-and-seek with Sensei~
     author: shibame
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/477646.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-19'
     code: 477646
     url: /works/477646/
@@ -715,7 +715,7 @@ works:
       | Blonde Gal with Huge Tits Treats Me Like a Manslut
     author: uni-toshiki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/503772.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-19'
     code: 503772
     url: /works/503772/
@@ -1813,7 +1813,7 @@ works:
       ♡
     author: popotto-denki-ichigouten
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/629027.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-09-19'
     code: 629027
     url: /works/629027/
@@ -2289,7 +2289,7 @@ works:
       - last part
     author: nigiri-usagi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/643500.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-19'
     code: 643500
     url: /works/643500/
@@ -2563,7 +2563,7 @@ works:
   - title: 'Mindless Lolis: Anya Forger Ep. 1-8'
     author: baba
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/646501.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-19'
     code: 646501
     url: /works/646501/
@@ -3220,7 +3220,7 @@ works:
   - title: Hen na Soubi no Sei de O◯nko Kowareteshimatta de wa Nai ka!
     author: nigiri-usagi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662706.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-19'
     code: 662706
     url: /works/662706/
@@ -3228,7 +3228,7 @@ works:
       Everyday
     author: mokuzou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662751.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-19'
     code: 662751
     url: /works/662751/
@@ -4221,14 +4221,14 @@ works:
   - title: Hatsujouki dakara Shikatanai
     author: tsukunendo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682245.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-19'
     code: 682245
     url: /works/682245/
   - title: Saimin Charao to Netorare Seitokai NTR Vol. 4
     author: sunagimo-dx
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682290.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-19'
     code: 682290
     url: /works/682290/
@@ -4236,21 +4236,21 @@ works:
       Sugoi | The Frustrated, Curvy Mom Downstairs Keeps Making Bold Moves
     author: ikinari-mojio-yosyo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682307.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-19'
     code: 682307
     url: /works/682307/
   - title: Ryuuinkou | A Dragon's Lustful Scent
     author: aramaki-echizen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682342.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-19'
     code: 682342
     url: /works/682342/
   - title: Namaiki Mesugaki Kuppuku Acme Ch. 2
     author: sasamashin
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682364.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-19'
     code: 682364
     url: /works/682364/

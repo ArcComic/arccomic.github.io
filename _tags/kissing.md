@@ -1001,7 +1001,7 @@ works:
   - title: Himitsu no Netorase Gokko
     author: baa-chan-chi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638320.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-09-19'
     code: 638320
     url: /works/638320/
@@ -1071,7 +1071,7 @@ works:
       - last part
     author: nigiri-usagi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/643500.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-19'
     code: 643500
     url: /works/643500/
@@ -1920,7 +1920,7 @@ works:
   - title: Saimin Charao to Netorare Seitokai NTR Vol. 4
     author: sunagimo-dx
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682290.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-19'
     code: 682290
     url: /works/682290/
@@ -1928,7 +1928,7 @@ works:
       charm!
     author: kumajiro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682328.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-19'
     code: 682328
     url: /works/682328/

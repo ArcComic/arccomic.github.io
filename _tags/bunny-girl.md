@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bunny girl"
-work_count: 22
+work_count: 23
 works:
   - title: Kaisha de Iroiro | Gettin' Busy at the Office
     author: hara-shigeyuki
@@ -91,7 +91,7 @@ works:
       Everyday
     author: mokuzou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662751.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-19'
     code: 662751
     url: /works/662751/
@@ -163,6 +163,14 @@ works:
     date: '2026-09-10'
     code: 679992
     url: /works/679992/
+  - title: Hatsujou Usagi wa Mangetsu no Yoru ni Koubi suru | A Rabbit In Heat Breeds
+      Under The Full Moon
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682586.jpg
+    rating: 0.0
+    date: '2026-09-20'
+    code: 682586
+    url: /works/682586/
   - title: Hottokenaino
     author: hara-shigeyuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/77864.jpg

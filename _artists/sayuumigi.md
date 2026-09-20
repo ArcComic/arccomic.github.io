@@ -11,7 +11,7 @@ works:
     url: /works/677525/
   - title: Yuutousei no Hankouki | The Honor Student’s Rebellious Phase
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682392.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-19'
     code: 682392
     url: /works/682392/

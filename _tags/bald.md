@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bald"
-work_count: 55
+work_count: 57
 works:
   - title: Overwrite
     author: ojo
@@ -227,6 +227,14 @@ works:
     date: '2026-08-24'
     code: 642585
     url: /works/642585/
+  - title: Joukyou Musume, Tokai no Kibishisa o Shiru | Country Girl Learns the Harshness
+      of the City
+    author: take-shinshi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/643190.jpg
+    rating: 0.0
+    date: '2026-09-20'
+    code: 643190
+    url: /works/643190/
   - title: Boku no Kanojo ga Katte ni Seikyouiku Sareteta Hanashi
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/643527.jpg
@@ -336,7 +344,7 @@ works:
   - title: Hen na Soubi no Sei de O◯nko Kowareteshimatta de wa Nai ka!
     author: nigiri-usagi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662706.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-19'
     code: 662706
     url: /works/662706/
@@ -406,8 +414,16 @@ works:
       the Cult- Part One
     author: take-shinshi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682339.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-19'
     code: 682339
     url: /works/682339/
+  - title: SNS Shijou Shugi no Sekai e Youkoso. ~Daininki Influencer no Omae yori Ore
+      no Hou ga Suuji ga Aru node Okashimasu~
+    author: ushigon
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682620.jpg
+    rating: 0.0
+    date: '2026-09-20'
+    code: 682620
+    url: /works/682620/
 ---

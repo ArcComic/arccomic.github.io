@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "rough translation"
-work_count: 474
+work_count: 478
 works:
   - title: Watashi no Karada, Okashi Shimasu. Bunny Girl Edition
     author: nectar
@@ -961,7 +961,7 @@ works:
   - title: Himitsu no Netorase Gokko
     author: baa-chan-chi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638320.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-09-19'
     code: 638320
     url: /works/638320/
@@ -1052,6 +1052,14 @@ works:
     date: '2026-08-25'
     code: 642770
     url: /works/642770/
+  - title: Joukyou Musume, Tokai no Kibishisa o Shiru | Country Girl Learns the Harshness
+      of the City
+    author: take-shinshi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/643190.jpg
+    rating: 0.0
+    date: '2026-09-20'
+    code: 643190
+    url: /works/643190/
   - title: My Childhood Friend Twins Become Another Man’s Onahole 1-3
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/643193.jpg
@@ -1981,7 +1989,7 @@ works:
   - title: Hen na Soubi no Sei de O◯nko Kowareteshimatta de wa Nai ka!
     author: nigiri-usagi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662706.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-19'
     code: 662706
     url: /works/662706/
@@ -2213,7 +2221,7 @@ works:
       is mandatory and it's all practical
     author: toyama-jigoku
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/665207.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-19'
     code: 665207
     url: /works/665207/
@@ -2228,7 +2236,7 @@ works:
   - title: Tora re tsuma ~ harami niku benki ni sa reta oku-sa ~
     author: mokuzou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/667314.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-19'
     code: 667314
     url: /works/667314/
@@ -2348,6 +2356,13 @@ works:
     date: '2026-08-18'
     code: 673561
     url: /works/673561/
+  - title: Daininki Mangaka Ochinpo Tatsuro Sensei wa Tatepaizuri Dekiru noka
+    author: monin
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673677.jpg
+    rating: 0.0
+    date: '2026-09-20'
+    code: 673677
+    url: /works/673677/
   - title: Watashi no Kareshi to Motokare o Shoukai shimasu
     author: hone
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673774.jpg
@@ -3393,21 +3408,21 @@ works:
       2
     author: mauboumen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682225.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-19'
     code: 682225
     url: /works/682225/
   - title: Saimin Charao to Netorare Seitokai NTR Vol. 4
     author: sunagimo-dx
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682290.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-19'
     code: 682290
     url: /works/682290/
   - title: Zenbu, zenbu, hajimete age chatte gomen'nasai
     author: mauboumen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682306.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-19'
     code: 682306
     url: /works/682306/
@@ -3415,7 +3430,7 @@ works:
       Seieki o Shiboritorareta Hanashi -
     author: galvalume-kouhan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682332.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-19'
     code: 682332
     url: /works/682332/
@@ -3423,36 +3438,51 @@ works:
       the Cult- Part One
     author: take-shinshi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682339.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-19'
     code: 682339
     url: /works/682339/
   - title: Namaiki Mesugaki Kuppuku Acme Ch. 2
     author: sasamashin
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682364.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-19'
     code: 682364
     url: /works/682364/
   - title: overbearing mother
     author: macaroni-and-cheese
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682383.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-19'
     code: 682383
     url: /works/682383/
   - title: 寝取らせクラブに送り出した不感症のダウナー彼女の報告 | 送往绿帽俱乐部的性冷淡阴沉女友的报告
     author: sanuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682385.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-19'
     code: 682385
     url: /works/682385/
   - title: Yuutousei no Hankouki | The Honor Student’s Rebellious Phase
     author: sayuumigi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682392.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-19'
     code: 682392
     url: /works/682392/
+  - title: Reverse diet
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682597.jpg
+    rating: 0.0
+    date: '2026-09-20'
+    code: 682597
+    url: /works/682597/
+  - title: SNS Shijou Shugi no Sekai e Youkoso. ~Daininki Influencer no Omae yori Ore
+      no Hou ga Suuji ga Aru node Okashimasu~
+    author: ushigon
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682620.jpg
+    rating: 0.0
+    date: '2026-09-20'
+    code: 682620
+    url: /works/682620/
 ---

@@ -1,8 +1,16 @@
 ---
 layout: tag
 tag_name: "take shinshi"
-work_count: 2
+work_count: 3
 works:
+  - title: Joukyou Musume, Tokai no Kibishisa o Shiru | Country Girl Learns the Harshness
+      of the City
+    author: take-shinshi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/643190.jpg
+    rating: 0.0
+    date: '2026-09-20'
+    code: 643190
+    url: /works/643190/
   - title: My Childhood Friend Twins Become Another Man’s Onahole 1-3
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/643193.jpg
@@ -14,7 +22,7 @@ works:
       the Cult- Part One
     author: take-shinshi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682339.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-19'
     code: 682339
     url: /works/682339/

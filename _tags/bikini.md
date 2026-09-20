@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bikini"
-work_count: 59
+work_count: 61
 works:
   - title: Kizashi
     author: yoshiura-kazuya
@@ -251,6 +251,13 @@ works:
     date: '2026-05-26'
     code: 652502
     url: /works/652502/
+  - title: I Became the Master of My Arrogant Busty Boss!? 03
+    author: sazanami-wasabi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/657952.jpg
+    rating: 0.0
+    date: '2026-09-20'
+    code: 657952
+    url: /works/657952/
   - title: Imouto ga Ore no Kanojo!? 2-haku 3-ka no Ecchi na Kankei | My Sister is My
       Girlfriend!? Sexual Relationship for Two Nights and Three Days
     author: katagiri-kaneharu
@@ -456,8 +463,15 @@ works:
       Sugoi | The Frustrated, Curvy Mom Downstairs Keeps Making Bold Moves
     author: ikinari-mojio-yosyo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682307.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-19'
     code: 682307
     url: /works/682307/
+  - title: CosBare -Takabisha na Kyonyuu Joushi no "Goshujin-sama" ni Narimashita!?-
+    author: sazanami-wasabi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682600.jpg
+    rating: 0.0
+    date: '2026-09-20'
+    code: 682600
+    url: /works/682600/
 ---

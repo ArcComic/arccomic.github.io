@@ -13,7 +13,7 @@ works:
   - title: Cool na Onna Joushi no Aishikata - Wakarebanashi o Shitara Love Hotel de
       Seieki o Shiboritorareta Hanashi -
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682332.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-19'
     code: 682332
     url: /works/682332/

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "translated"
-work_count: 1154
+work_count: 1164
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -462,7 +462,7 @@ works:
   - title: Senpai Refrain
     author: spiritus-tarou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/357616.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-19'
     code: 357616
     url: /works/357616/
@@ -1209,7 +1209,7 @@ works:
       ~Hide-and-seek with Sensei~
     author: shibame
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/477646.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-19'
     code: 477646
     url: /works/477646/
@@ -1378,7 +1378,7 @@ works:
       | Blonde Gal with Huge Tits Treats Me Like a Manslut
     author: uni-toshiki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/503772.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-19'
     code: 503772
     url: /works/503772/
@@ -2510,6 +2510,13 @@ works:
     date: '2026-05-05'
     code: 578147
     url: /works/578147/
+  - title: Utaite no Ballad | Singer's Ballad! Chapters 01-02
+    author: quzilax
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/578403.jpg
+    rating: 4.7
+    date: '2026-09-19'
+    code: 578403
+    url: /works/578403/
   - title: The wife's unfaithful copulation picture album
     author: allegro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/578583.jpg
@@ -3429,7 +3436,7 @@ works:
       ♡
     author: popotto-denki-ichigouten
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/629027.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-09-19'
     code: 629027
     url: /works/629027/
@@ -3921,7 +3928,7 @@ works:
   - title: Himitsu no Netorase Gokko
     author: baa-chan-chi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638320.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-09-19'
     code: 638320
     url: /works/638320/
@@ -4081,6 +4088,14 @@ works:
     date: '2026-04-27'
     code: 642793
     url: /works/642793/
+  - title: Joukyou Musume, Tokai no Kibishisa o Shiru | Country Girl Learns the Harshness
+      of the City
+    author: take-shinshi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/643190.jpg
+    rating: 0.0
+    date: '2026-09-20'
+    code: 643190
+    url: /works/643190/
   - title: My Childhood Friend Twins Become Another Man’s Onahole 1-3
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/643193.jpg
@@ -4108,7 +4123,7 @@ works:
       - last part
     author: nigiri-usagi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/643500.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-19'
     code: 643500
     url: /works/643500/
@@ -5310,6 +5325,13 @@ works:
     date: '2026-09-11'
     code: 656626
     url: /works/656626/
+  - title: I Became the Master of My Arrogant Busty Boss!? 02
+    author: sazanami-wasabi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/656681.jpg
+    rating: 0.0
+    date: '2026-09-20'
+    code: 656681
+    url: /works/656681/
   - title: Hirusagari no Otetsudai
     author: mogiki-hayami
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/656686.jpg
@@ -5367,6 +5389,13 @@ works:
     date: '2026-09-13'
     code: 657607
     url: /works/657607/
+  - title: I Became the Master of My Arrogant Busty Boss!? 03
+    author: sazanami-wasabi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/657952.jpg
+    rating: 0.0
+    date: '2026-09-20'
+    code: 657952
+    url: /works/657952/
   - title: Haha Ana ni Irazumba
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/657981.jpg
@@ -5876,7 +5905,7 @@ works:
   - title: Hen na Soubi no Sei de O◯nko Kowareteshimatta de wa Nai ka!
     author: nigiri-usagi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662706.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-19'
     code: 662706
     url: /works/662706/
@@ -5884,7 +5913,7 @@ works:
       Everyday
     author: mokuzou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662751.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-19'
     code: 662751
     url: /works/662751/
@@ -6394,7 +6423,7 @@ works:
       is mandatory and it's all practical
     author: toyama-jigoku
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/665207.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-19'
     code: 665207
     url: /works/665207/
@@ -6424,7 +6453,7 @@ works:
   - title: Tora re tsuma ~ harami niku benki ni sa reta oku-sa ~
     author: mokuzou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/667314.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-19'
     code: 667314
     url: /works/667314/
@@ -6621,6 +6650,13 @@ works:
     date: '2026-08-18'
     code: 673561
     url: /works/673561/
+  - title: Daininki Mangaka Ochinpo Tatsuro Sensei wa Tatepaizuri Dekiru noka
+    author: monin
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673677.jpg
+    rating: 0.0
+    date: '2026-09-20'
+    code: 673677
+    url: /works/673677/
   - title: Haburare Zukai no Isekai Boukentan (The Adventure of a Rune Master) 07
     author: hara-tsumoi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673771.jpg
@@ -8396,28 +8432,28 @@ works:
       2
     author: mauboumen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682225.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-19'
     code: 682225
     url: /works/682225/
   - title: Hatsujouki dakara Shikatanai
     author: tsukunendo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682245.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-19'
     code: 682245
     url: /works/682245/
   - title: Saimin Charao to Netorare Seitokai NTR Vol. 4
     author: sunagimo-dx
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682290.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-19'
     code: 682290
     url: /works/682290/
   - title: Zenbu, zenbu, hajimete age chatte gomen'nasai
     author: mauboumen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682306.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-19'
     code: 682306
     url: /works/682306/
@@ -8425,7 +8461,7 @@ works:
       Sugoi | The Frustrated, Curvy Mom Downstairs Keeps Making Bold Moves
     author: ikinari-mojio-yosyo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682307.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-19'
     code: 682307
     url: /works/682307/
@@ -8433,7 +8469,7 @@ works:
       Seieki o Shiboritorareta Hanashi -
     author: galvalume-kouhan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682332.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-19'
     code: 682332
     url: /works/682332/
@@ -8441,45 +8477,83 @@ works:
       the Cult- Part One
     author: take-shinshi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682339.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-19'
     code: 682339
     url: /works/682339/
   - title: Ryuuinkou | A Dragon's Lustful Scent
     author: aramaki-echizen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682342.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-19'
     code: 682342
     url: /works/682342/
   - title: Namaiki Mesugaki Kuppuku Acme Ch. 2
     author: sasamashin
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682364.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-19'
     code: 682364
     url: /works/682364/
   - title: overbearing mother
     author: macaroni-and-cheese
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682383.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-19'
     code: 682383
     url: /works/682383/
   - title: 寝取らせクラブに送り出した不感症のダウナー彼女の報告 | 送往绿帽俱乐部的性冷淡阴沉女友的报告
     author: sanuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682385.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-19'
     code: 682385
     url: /works/682385/
   - title: Yuutousei no Hankouki | The Honor Student’s Rebellious Phase
     author: sayuumigi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682392.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-19'
     code: 682392
     url: /works/682392/
+  - title: Hatsujou Usagi wa Mangetsu no Yoru ni Koubi suru | A Rabbit In Heat Breeds
+      Under The Full Moon
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682586.jpg
+    rating: 0.0
+    date: '2026-09-20'
+    code: 682586
+    url: /works/682586/
+  - title: Reverse diet
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682597.jpg
+    rating: 0.0
+    date: '2026-09-20'
+    code: 682597
+    url: /works/682597/
+  - title: CosBare -Takabisha na Kyonyuu Joushi no "Goshujin-sama" ni Narimashita!?-
+    author: sazanami-wasabi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682600.jpg
+    rating: 0.0
+    date: '2026-09-20'
+    code: 682600
+    url: /works/682600/
+  - title: Nanami-chan Yori Sukitte Itte (Tell Me You Like Me More Than Nanami-chan)
+      01
+    author: en
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682613.jpg
+    rating: 0.0
+    date: '2026-09-20'
+    code: 682613
+    url: /works/682613/
+  - title: SNS Shijou Shugi no Sekai e Youkoso. ~Daininki Influencer no Omae yori Ore
+      no Hou ga Suuji ga Aru node Okashimasu~
+    author: ushigon
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682620.jpg
+    rating: 0.0
+    date: '2026-09-20'
+    code: 682620
+    url: /works/682620/
   - title: Hottokenaino
     author: hara-shigeyuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/77864.jpg

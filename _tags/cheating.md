@@ -1107,7 +1107,7 @@ works:
   - title: Himitsu no Netorase Gokko
     author: baa-chan-chi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638320.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-09-19'
     code: 638320
     url: /works/638320/
@@ -1151,7 +1151,7 @@ works:
       - last part
     author: nigiri-usagi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/643500.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-19'
     code: 643500
     url: /works/643500/
@@ -1461,7 +1461,7 @@ works:
       Everyday
     author: mokuzou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662751.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-19'
     code: 662751
     url: /works/662751/
@@ -1861,14 +1861,14 @@ works:
       2
     author: mauboumen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682225.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-19'
     code: 682225
     url: /works/682225/
   - title: Zenbu, zenbu, hajimete age chatte gomen'nasai
     author: mauboumen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682306.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-19'
     code: 682306
     url: /works/682306/
@@ -1876,7 +1876,7 @@ works:
       the Cult- Part One
     author: take-shinshi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682339.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-19'
     code: 682339
     url: /works/682339/

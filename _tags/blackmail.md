@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "blackmail"
-work_count: 109
+work_count: 112
 works:
   - title: Another Produce -Kaede Takagaki-
     author: marushin
@@ -391,6 +391,14 @@ works:
     date: '2026-09-13'
     code: 642708
     url: /works/642708/
+  - title: Joukyou Musume, Tokai no Kibishisa o Shiru | Country Girl Learns the Harshness
+      of the City
+    author: take-shinshi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/643190.jpg
+    rating: 0.0
+    date: '2026-09-20'
+    code: 643190
+    url: /works/643190/
   - title: My Childhood Friend Twins Become Another Man’s Onahole 1-3
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/643193.jpg
@@ -510,6 +518,13 @@ works:
     date: '2026-08-21'
     code: 654114
     url: /works/654114/
+  - title: I Became the Master of My Arrogant Busty Boss!? 02
+    author: sazanami-wasabi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/656681.jpg
+    rating: 0.0
+    date: '2026-09-20'
+    code: 656681
+    url: /works/656681/
   - title: Falling of summer
     author: monono-ex
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/659199.jpg
@@ -580,7 +595,7 @@ works:
       Everyday
     author: mokuzou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662751.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-19'
     code: 662751
     url: /works/662751/
@@ -813,6 +828,13 @@ works:
     date: '2026-09-17'
     code: 681852
     url: /works/681852/
+  - title: CosBare -Takabisha na Kyonyuu Joushi no "Goshujin-sama" ni Narimashita!?-
+    author: sazanami-wasabi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682600.jpg
+    rating: 0.0
+    date: '2026-09-20'
+    code: 682600
+    url: /works/682600/
   - title: Inin Keiyaku | Lewd Pregnancy Contract
     author: yoshiura-kazuya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/83595.jpg

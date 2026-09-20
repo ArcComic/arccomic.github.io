@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "pregnant"
-work_count: 32
+work_count: 33
 works:
   - title: Uragiri no Ai wa Mitsu no Aji | Treacherous Love Tastes Like Honey
     author: cuzukago
@@ -162,7 +162,7 @@ works:
       Everyday
     author: mokuzou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662751.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-19'
     code: 662751
     url: /works/662751/
@@ -177,7 +177,7 @@ works:
   - title: Tora re tsuma ~ harami niku benki ni sa reta oku-sa ~
     author: mokuzou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/667314.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-19'
     code: 667314
     url: /works/667314/
@@ -188,6 +188,13 @@ works:
     date: '2026-08-23'
     code: 668880
     url: /works/668880/
+  - title: Daininki Mangaka Ochinpo Tatsuro Sensei wa Tatepaizuri Dekiru noka
+    author: monin
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673677.jpg
+    rating: 0.0
+    date: '2026-09-20'
+    code: 673677
+    url: /works/673677/
   - title: A Mother Who Had Sex With Her Daughter's Boyfriend
     author: cammy
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673900.jpg
@@ -233,7 +240,7 @@ works:
   - title: Namaiki Mesugaki Kuppuku Acme Ch. 2
     author: sasamashin
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682364.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-19'
     code: 682364
     url: /works/682364/

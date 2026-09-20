@@ -24,7 +24,7 @@ works:
     url: /works/680675/
   - title: Ryuuinkou | A Dragon's Lustful Scent
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682342.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-19'
     code: 682342
     url: /works/682342/

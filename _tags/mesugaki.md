@@ -15,7 +15,7 @@ works:
       ~Hide-and-seek with Sensei~
     author: shibame
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/477646.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-19'
     code: 477646
     url: /works/477646/
@@ -57,7 +57,7 @@ works:
   - title: Namaiki Mesugaki Kuppuku Acme Ch. 2
     author: sasamashin
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682364.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-19'
     code: 682364
     url: /works/682364/

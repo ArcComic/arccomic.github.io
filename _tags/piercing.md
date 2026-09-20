@@ -139,7 +139,7 @@ works:
   - title: Tora re tsuma ~ harami niku benki ni sa reta oku-sa ~
     author: mokuzou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/667314.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-19'
     code: 667314
     url: /works/667314/
@@ -226,7 +226,7 @@ works:
   - title: 寝取らせクラブに送り出した不感症のダウナー彼女の報告 | 送往绿帽俱乐部的性冷淡阴沉女友的报告
     author: sanuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682385.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-19'
     code: 682385
     url: /works/682385/

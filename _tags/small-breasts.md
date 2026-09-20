@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "small breasts"
-work_count: 36
+work_count: 37
 works:
   - title: FLUFFY LAUGH GIRL
     author: shibasaki-syouzi
@@ -265,8 +265,16 @@ works:
   - title: Ryuuinkou | A Dragon's Lustful Scent
     author: aramaki-echizen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682342.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-19'
     code: 682342
     url: /works/682342/
+  - title: Nanami-chan Yori Sukitte Itte (Tell Me You Like Me More Than Nanami-chan)
+      01
+    author: en
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682613.jpg
+    rating: 0.0
+    date: '2026-09-20'
+    code: 682613
+    url: /works/682613/
 ---
