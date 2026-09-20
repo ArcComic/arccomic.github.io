@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "rough translation"
-work_count: 478
+work_count: 482
 works:
   - title: Watashi no Karada, Okashi Shimasu. Bunny Girl Edition
     author: nectar
@@ -3470,6 +3470,35 @@ works:
     date: '2026-09-19'
     code: 682392
     url: /works/682392/
+  - title: I am a sister
+    author: vanilla-type
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682498.jpg
+    rating: 0.0
+    date: '2026-09-20'
+    code: 682498
+    url: /works/682498/
+  - title: Hifumi to Himitsu no Kankei ni Natteshimatta Hanashi - A story about getting
+      into a secret relationship with Hifumi.
+    author: arisu-kazumi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682545.jpg
+    rating: 0.0
+    date: '2026-09-20'
+    code: 682545
+    url: /works/682545/
+  - title: Gal JK to H Gokko
+    author: bodaijun
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682551.jpg
+    rating: 0.0
+    date: '2026-09-20'
+    code: 682551
+    url: /works/682551/
+  - title: Kayoko ga S ni Ochiru Made - Until Kayoko falls into S.
+    author: nichijou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682579.jpg
+    rating: 0.0
+    date: '2026-09-20'
+    code: 682579
+    url: /works/682579/
   - title: Reverse diet
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682597.jpg

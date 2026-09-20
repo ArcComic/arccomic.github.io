@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "netorase"
-work_count: 25
+work_count: 26
 works:
   - title: Boku no Netorase Seiheki ni Tsukiatte kureru Kanojo | A Girlfriend Who Plays
       Along with My Cuckold Fetish
@@ -187,4 +187,11 @@ works:
     date: '2026-09-19'
     code: 682385
     url: /works/682385/
+  - title: To Corrupt A Wife 1.5
+    author: theremin-karino-teru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682577.jpg
+    rating: 0.0
+    date: '2026-09-20'
+    code: 682577
+    url: /works/682577/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "nakadashi"
-work_count: 573
+work_count: 584
 works:
   - title: Adoration
     author: kishizuka-kenji
@@ -267,6 +267,13 @@ works:
     date: '2026-04-19'
     code: 387637
     url: /works/387637/
+  - title: Anatano mama ni naritakute. Ch. 3
+    author: agata
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/388896.jpg
+    rating: 0.0
+    date: '2026-09-20'
+    code: 388896
+    url: /works/388896/
   - title: Mecha Eroi kedo Sasoi ni Nottara Hametsushisou na Ko | A Girl Who Is Very
       Sexy But Will Ruin Me If I Ask Her Out
     author: 7zu7
@@ -2194,6 +2201,13 @@ works:
     date: '2026-04-19'
     code: 638359
     url: /works/638359/
+  - title: Please Take It Out! After
+    author: ramanda
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638685.jpg
+    rating: 0.0
+    date: '2026-09-20'
+    code: 638685
+    url: /works/638685/
   - title: Onsen Haitte tara Joseito-tachi ga Osotte Kita | My Students Jumped Me When
       I Got in the Hot Spring
     author: hamo
@@ -3039,6 +3053,14 @@ works:
     date: '2026-09-13'
     code: 659068
     url: /works/659068/
+  - title: Daasan no Tame ni Okita Kyouko 32sai B107 a.k.a Okusan wo Namadashi Nikuana
+      Choukyou Shiteoite Ageyou
+    author: shiwasu-no-okina
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/659204.jpg
+    rating: 0.0
+    date: '2026-09-20'
+    code: 659204
+    url: /works/659204/
   - title: Make Love Rank match!!③
     author: napo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/659484.jpg
@@ -3507,6 +3529,13 @@ works:
     date: '2026-09-04'
     code: 669459
     url: /works/669459/
+  - title: My Secret With Kyouko Sensei 1 - Kyouko Sensei to Boku no Himitsu
+    author: maimu-maimu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/671460.jpg
+    rating: 0.0
+    date: '2026-09-20'
+    code: 671460
+    url: /works/671460/
   - title: Friend With Benefit With My Friends Mom
     author: cammy
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/671657.jpg
@@ -4151,6 +4180,13 @@ works:
     date: '2026-09-16'
     code: 681445
     url: /works/681445/
+  - title: Torawareta joi tsuma _ Trapped Doctor
+    author: hikitogu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681566.jpg
+    rating: 0.0
+    date: '2026-09-20'
+    code: 681566
+    url: /works/681566/
   - title: Imouto wa Otonappoitte Iwaretairashii | My Little Sister Wants to Be Told
       That She's Grown-Up It Seems
     author: yabachorogi
@@ -4254,6 +4290,50 @@ works:
     date: '2026-09-19'
     code: 682364
     url: /works/682364/
+  - title: Shiroto Tsuma no Himitsu Haishin ~Zenpen~ | Housewife’s secret livestream
+      Part 1
+    author: hikitogu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682524.jpg
+    rating: 0.0
+    date: '2026-09-20'
+    code: 682524
+    url: /works/682524/
+  - title: Giri no Imouto wa Boku no Mono | My Step Sister Is MINE Wife
+    author: manatsu-roco
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682559.jpg
+    rating: 0.0
+    date: '2026-09-20'
+    code: 682559
+    url: /works/682559/
+  - title: Honkou no Zen Joshi Seito no Ue no Kuchi to Shita no Kuchi wa Nakayoshi Houdai
+      datte Shitteru no wa Ore dake?! | One Dick to Rule Them All
+    author: shiwasu-no-okina
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682568.jpg
+    rating: 0.0
+    date: '2026-09-20'
+    code: 682568
+    url: /works/682568/
+  - title: Motto Mawashite Ura Kairanban Ch. 1-5
+    author: yano-toshinori
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682571.jpg
+    rating: 0.0
+    date: '2026-09-20'
+    code: 682571
+    url: /works/682571/
+  - title: To Corrupt A Wife 1.5
+    author: theremin-karino-teru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682577.jpg
+    rating: 0.0
+    date: '2026-09-20'
+    code: 682577
+    url: /works/682577/
+  - title: Kayoko ga S ni Ochiru Made - Until Kayoko falls into S.
+    author: nichijou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682579.jpg
+    rating: 0.0
+    date: '2026-09-20'
+    code: 682579
+    url: /works/682579/
   - title: Inin Keiyaku | Lewd Pregnancy Contract
     author: yoshiura-kazuya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/83595.jpg

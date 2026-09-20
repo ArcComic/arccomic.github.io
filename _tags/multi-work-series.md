@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "multi-work series"
-work_count: 269
+work_count: 272
 works:
   - title: Oppai na Natsuyasumi 2 | The Summer Break of Boobs 2
     author: higashino-mikan
@@ -2016,4 +2016,27 @@ works:
     date: '2026-09-19'
     code: 682290
     url: /works/682290/
+  - title: Shiroto Tsuma no Himitsu Haishin ~Zenpen~ | Housewife’s secret livestream
+      Part 1
+    author: hikitogu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682524.jpg
+    rating: 0.0
+    date: '2026-09-20'
+    code: 682524
+    url: /works/682524/
+  - title: Honkou no Zen Joshi Seito no Ue no Kuchi to Shita no Kuchi wa Nakayoshi Houdai
+      datte Shitteru no wa Ore dake?! | One Dick to Rule Them All
+    author: shiwasu-no-okina
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682568.jpg
+    rating: 0.0
+    date: '2026-09-20'
+    code: 682568
+    url: /works/682568/
+  - title: To Corrupt A Wife 1.5
+    author: theremin-karino-teru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682577.jpg
+    rating: 0.0
+    date: '2026-09-20'
+    code: 682577
+    url: /works/682577/
 ---

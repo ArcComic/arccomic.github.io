@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "kissing"
-work_count: 257
+work_count: 259
 works:
   - title: FLUFFY LAUGH GIRL
     author: shibasaki-syouzi
@@ -1005,6 +1005,13 @@ works:
     date: '2026-09-19'
     code: 638320
     url: /works/638320/
+  - title: Please Take It Out! After
+    author: ramanda
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638685.jpg
+    rating: 0.0
+    date: '2026-09-20'
+    code: 638685
+    url: /works/638685/
   - title: BUTA - 『You did a great job』
     author: buta
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/639772.jpg
@@ -1932,4 +1939,12 @@ works:
     date: '2026-09-19'
     code: 682328
     url: /works/682328/
+  - title: Honkou no Zen Joshi Seito no Ue no Kuchi to Shita no Kuchi wa Nakayoshi Houdai
+      datte Shitteru no wa Ore dake?! | One Dick to Rule Them All
+    author: shiwasu-no-okina
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682568.jpg
+    rating: 0.0
+    date: '2026-09-20'
+    code: 682568
+    url: /works/682568/
 ---

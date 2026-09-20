@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "muscle"
-work_count: 77
+work_count: 79
 works:
   - title: Netorare Ibe Kiba Shizuka
     author: terasu-mc
@@ -584,4 +584,19 @@ works:
     date: '2026-09-17'
     code: 681687
     url: /works/681687/
+  - title: Shiroto Tsuma no Himitsu Haishin ~Zenpen~ | Housewife’s secret livestream
+      Part 1
+    author: hikitogu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682524.jpg
+    rating: 0.0
+    date: '2026-09-20'
+    code: 682524
+    url: /works/682524/
+  - title: Oji to Midara na Yume o Miru | Licentious Dreams With My Uncle
+    author: yoshii-kou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682548.jpg
+    rating: 0.0
+    date: '2026-09-20'
+    code: 682548
+    url: /works/682548/
 ---

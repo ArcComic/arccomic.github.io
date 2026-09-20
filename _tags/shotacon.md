@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "shotacon"
-work_count: 100
+work_count: 101
 works:
   - title: Hitozuma Hyakka
     author: hase-tsubura
@@ -95,6 +95,13 @@ works:
     date: '2026-04-25'
     code: 388099
     url: /works/388099/
+  - title: Anatano mama ni naritakute. Ch. 3
+    author: agata
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/388896.jpg
+    rating: 0.0
+    date: '2026-09-20'
+    code: 388896
+    url: /works/388896/
   - title: 'Kouen no Bench ni Suwatteru Kirei na Onee-san ga Boku ni "Ochinchin o Misete"
       to Itte Kuru no de... | A Pretty Onee-San, that''s sitting on a Bench in the Park...suddenly
       says to Me: [Show Me Your Dick].'

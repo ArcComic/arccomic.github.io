@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "cunnilingus"
-work_count: 126
+work_count: 127
 works:
   - title: Love Approach
     author: hanafuda-sakurano
@@ -468,6 +468,13 @@ works:
     date: '2026-03-05'
     code: 634609
     url: /works/634609/
+  - title: Please Take It Out! After
+    author: ramanda
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638685.jpg
+    rating: 0.0
+    date: '2026-09-20'
+    code: 638685
+    url: /works/638685/
   - title: Onsen Haitte tara Joseito-tachi ga Osotte Kita | My Students Jumped Me When
       I Got in the Hot Spring
     author: hamo

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "full censorship"
-work_count: 82
+work_count: 84
 works:
   - title: Kaisha de Iroiro | Gettin' Busy at the Office
     author: hara-shigeyuki
@@ -45,6 +45,13 @@ works:
     date: '2026-08-19'
     code: 142561
     url: /works/142561/
+  - title: Imitation Family + Bigibo Hen
+    author: tohzai
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/145635.jpg
+    rating: 0.0
+    date: '2026-09-20'
+    code: 145635
+    url: /works/145635/
   - title: Hustle! Danchizuma Ch. 1-18 END
     author: hidemaru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/161690.jpg
@@ -88,6 +95,13 @@ works:
     date: '2026-09-06'
     code: 383468
     url: /works/383468/
+  - title: Anatano mama ni naritakute. Ch. 3
+    author: agata
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/388896.jpg
+    rating: 0.0
+    date: '2026-09-20'
+    code: 388896
+    url: /works/388896/
   - title: Mirai ni Narenakatta Ano Hi kara | Beyond The Unfulfilled Future
     author: tamabi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/417221.jpg

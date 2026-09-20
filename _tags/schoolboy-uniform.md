@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "schoolboy uniform"
-work_count: 71
+work_count: 72
 works:
   - title: FLUFFY LAUGH GIRL
     author: shibasaki-syouzi
@@ -404,6 +404,13 @@ works:
     date: '2026-07-13'
     code: 663745
     url: /works/663745/
+  - title: My Secret With Kyouko Sensei 1 - Kyouko Sensei to Boku no Himitsu
+    author: maimu-maimu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/671460.jpg
+    rating: 0.0
+    date: '2026-09-20'
+    code: 671460
+    url: /works/671460/
   - title: Friend With Benefit With My Friends Mom
     author: cammy
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/671657.jpg

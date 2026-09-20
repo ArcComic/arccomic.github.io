@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big ass"
-work_count: 161
+work_count: 164
 works:
   - title: My Care Lady Ch. 1
     author: sugi-g
@@ -83,6 +83,13 @@ works:
     date: '2026-04-19'
     code: 387637
     url: /works/387637/
+  - title: Anatano mama ni naritakute. Ch. 3
+    author: agata
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/388896.jpg
+    rating: 0.0
+    date: '2026-09-20'
+    code: 388896
+    url: /works/388896/
   - title: Yurikago
     author: neko-samurai
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/398305.jpg
@@ -507,6 +514,13 @@ works:
     date: '2026-09-13'
     code: 638556
     url: /works/638556/
+  - title: Please Take It Out! After
+    author: ramanda
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638685.jpg
+    rating: 0.0
+    date: '2026-09-20'
+    code: 638685
+    url: /works/638685/
   - title: Onsen Haitte tara Joseito-tachi ga Osotte Kita | My Students Jumped Me When
       I Got in the Hot Spring
     author: hamo
@@ -956,6 +970,13 @@ works:
     date: '2026-09-04'
     code: 669459
     url: /works/669459/
+  - title: My Secret With Kyouko Sensei 1 - Kyouko Sensei to Boku no Himitsu
+    author: maimu-maimu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/671460.jpg
+    rating: 0.0
+    date: '2026-09-20'
+    code: 671460
+    url: /works/671460/
   - title: 'Breeding License: ~Am I, the Unpopular Guy, the One with the Strongest Genes?!~'
     author: minamihama-yoriko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/674009.jpg

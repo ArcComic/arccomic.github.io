@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "mind control"
-work_count: 45
+work_count: 47
 works:
   - title: Ayami Hypno
     author: yasuhiro
@@ -335,4 +335,19 @@ works:
     date: '2026-09-19'
     code: 682339
     url: /works/682339/
+  - title: Honkou no Zen Joshi Seito no Ue no Kuchi to Shita no Kuchi wa Nakayoshi Houdai
+      datte Shitteru no wa Ore dake?! | One Dick to Rule Them All
+    author: shiwasu-no-okina
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682568.jpg
+    rating: 0.0
+    date: '2026-09-20'
+    code: 682568
+    url: /works/682568/
+  - title: To Corrupt A Wife 1.5
+    author: theremin-karino-teru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682577.jpg
+    rating: 0.0
+    date: '2026-09-20'
+    code: 682577
+    url: /works/682577/
 ---

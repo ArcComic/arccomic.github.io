@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "nipple stimulation"
-work_count: 101
+work_count: 103
 works:
   - title: Hypnotic Domination ~ The Fall of Tennis Club Ace ~
     author: danchino
@@ -759,4 +759,19 @@ works:
     date: '2026-09-18'
     code: 682203
     url: /works/682203/
+  - title: Shiroto Tsuma no Himitsu Haishin ~Zenpen~ | Housewife’s secret livestream
+      Part 1
+    author: hikitogu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682524.jpg
+    rating: 0.0
+    date: '2026-09-20'
+    code: 682524
+    url: /works/682524/
+  - title: Kayoko ga S ni Ochiru Made - Until Kayoko falls into S.
+    author: nichijou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682579.jpg
+    rating: 0.0
+    date: '2026-09-20'
+    code: 682579
+    url: /works/682579/
 ---

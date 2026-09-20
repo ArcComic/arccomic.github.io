@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bisexual"
-work_count: 26
+work_count: 29
 works:
   - title: Gal ni Houkago Oppai Sawatte ku? te Sasowareru Hanashi | That Time Gyarus
       Asked Me to Grope their Tits After Class
@@ -70,6 +70,13 @@ works:
     date: '2026-03-07'
     code: 634593
     url: /works/634593/
+  - title: Please Take It Out! After
+    author: ramanda
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638685.jpg
+    rating: 0.0
+    date: '2026-09-20'
+    code: 638685
+    url: /works/638685/
   - title: Onsen Haitte tara Joseito-tachi ga Osotte Kita | My Students Jumped Me When
       I Got in the Hot Spring
     author: hamo
@@ -196,4 +203,18 @@ works:
     date: '2026-09-12'
     code: 680555
     url: /works/680555/
+  - title: Motto Mawashite Ura Kairanban Ch. 1-5
+    author: yano-toshinori
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682571.jpg
+    rating: 0.0
+    date: '2026-09-20'
+    code: 682571
+    url: /works/682571/
+  - title: To Corrupt A Wife 1.5
+    author: theremin-karino-teru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682577.jpg
+    rating: 0.0
+    date: '2026-09-20'
+    code: 682577
+    url: /works/682577/
 ---

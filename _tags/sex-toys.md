@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sex toys"
-work_count: 90
+work_count: 92
 works:
   - title: Ayami Hypno
     author: yasuhiro
@@ -664,4 +664,20 @@ works:
     date: '2026-09-19'
     code: 682339
     url: /works/682339/
+  - title: Shiroto Tsuma no Himitsu Haishin ~Zenpen~ | Housewife’s secret livestream
+      Part 1
+    author: hikitogu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682524.jpg
+    rating: 0.0
+    date: '2026-09-20'
+    code: 682524
+    url: /works/682524/
+  - title: Hifumi to Himitsu no Kankei ni Natteshimatta Hanashi - A story about getting
+      into a secret relationship with Hifumi.
+    author: arisu-kazumi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682545.jpg
+    rating: 0.0
+    date: '2026-09-20'
+    code: 682545
+    url: /works/682545/
 ---

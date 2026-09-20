@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "defloration"
-work_count: 180
+work_count: 183
 works:
+  - title: Imitation Family + Bigibo Hen
+    author: tohzai
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/145635.jpg
+    rating: 0.0
+    date: '2026-09-20'
+    code: 145635
+    url: /works/145635/
   - title: Love Approach
     author: hanafuda-sakurano
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/158990.jpg
@@ -24,6 +31,13 @@ works:
     date: '2026-03-07'
     code: 208522
     url: /works/208522/
+  - title: Watashi ni Mawashite Ura Kairanban
+    author: yano-toshinori
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/238471.jpg
+    rating: 0.0
+    date: '2026-09-20'
+    code: 238471
+    url: /works/238471/
   - title: Sensei wa Shougakusei ga Suki | Sensei Loves Elementary Schoolers
     author: fuyuno-mikan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/289094.jpg
@@ -1338,4 +1352,11 @@ works:
     date: '2026-09-19'
     code: 682342
     url: /works/682342/
+  - title: Namaiki na Musume -Ie no Okane o Nusunda Musume ni Kyouiku Shidou-
+    author: marumitei
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682557.jpg
+    rating: 0.0
+    date: '2026-09-20'
+    code: 682557
+    url: /works/682557/
 ---

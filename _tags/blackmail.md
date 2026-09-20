@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "blackmail"
-work_count: 112
+work_count: 114
 works:
   - title: Another Produce -Kaede Takagaki-
     author: marushin
@@ -660,6 +660,13 @@ works:
     date: '2026-09-12'
     code: 670195
     url: /works/670195/
+  - title: My Secret With Kyouko Sensei 1 - Kyouko Sensei to Boku no Himitsu
+    author: maimu-maimu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/671460.jpg
+    rating: 0.0
+    date: '2026-09-20'
+    code: 671460
+    url: /works/671460/
   - title: Akogare Senpai ga NTR sareru Hon
     author: seinen-hormone
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/672241.jpg
@@ -828,6 +835,14 @@ works:
     date: '2026-09-17'
     code: 681852
     url: /works/681852/
+  - title: Shiroto Tsuma no Himitsu Haishin ~Zenpen~ | Housewife’s secret livestream
+      Part 1
+    author: hikitogu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682524.jpg
+    rating: 0.0
+    date: '2026-09-20'
+    code: 682524
+    url: /works/682524/
   - title: CosBare -Takabisha na Kyonyuu Joushi no "Goshujin-sama" ni Narimashita!?-
     author: sazanami-wasabi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682600.jpg

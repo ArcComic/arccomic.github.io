@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "group"
-work_count: 168
+work_count: 171
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -488,6 +488,13 @@ works:
     date: '2026-04-19'
     code: 638359
     url: /works/638359/
+  - title: Please Take It Out! After
+    author: ramanda
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638685.jpg
+    rating: 0.0
+    date: '2026-09-20'
+    code: 638685
+    url: /works/638685/
   - title: Onsen Haitte tara Joseito-tachi ga Osotte Kita | My Students Jumped Me When
       I Got in the Hot Spring
     author: hamo
@@ -1207,6 +1214,13 @@ works:
     date: '2026-09-16'
     code: 681498
     url: /works/681498/
+  - title: Torawareta joi tsuma _ Trapped Doctor
+    author: hikitogu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681566.jpg
+    rating: 0.0
+    date: '2026-09-20'
+    code: 681566
+    url: /works/681566/
   - title: Tachibana-san-chi no Dansei Jijou 2 | The Tachibana Household's Male Affairs
       2
     author: jin
@@ -1236,4 +1250,11 @@ works:
     date: '2026-09-19'
     code: 682290
     url: /works/682290/
+  - title: To Corrupt A Wife 1.5
+    author: theremin-karino-teru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682577.jpg
+    rating: 0.0
+    date: '2026-09-20'
+    code: 682577
+    url: /works/682577/
 ---

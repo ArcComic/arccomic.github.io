@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "beauty mark"
-work_count: 143
+work_count: 144
 works:
   - title: Uragiri no Ai wa Mitsu no Aji | Treacherous Love Tastes Like Honey
     author: cuzukago
@@ -884,6 +884,13 @@ works:
     date: '2026-08-20'
     code: 669452
     url: /works/669452/
+  - title: My Secret With Kyouko Sensei 1 - Kyouko Sensei to Boku no Himitsu
+    author: maimu-maimu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/671460.jpg
+    rating: 0.0
+    date: '2026-09-20'
+    code: 671460
+    url: /works/671460/
   - title: Niihama Yui Husband Exclusive Re-debut
     author: buta
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/674199.jpg

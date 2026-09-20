@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "breast feeding"
-work_count: 64
+work_count: 65
 works:
   - title: Oppai na Natsuyasumi 2 | The Summer Break of Boobs 2
     author: higashino-mikan
@@ -497,4 +497,11 @@ works:
     date: '2026-09-19'
     code: 682307
     url: /works/682307/
+  - title: Motto Mawashite Ura Kairanban Ch. 1-5
+    author: yano-toshinori
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682571.jpg
+    rating: 0.0
+    date: '2026-09-20'
+    code: 682571
+    url: /works/682571/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "thick eyebrows"
-work_count: 6
+work_count: 7
 works:
   - title: Saimin ♥ Saimin | Hypno ♥ Hypno
     author: minamida-usuke
@@ -49,4 +49,12 @@ works:
     date: '2026-08-21'
     code: 674496
     url: /works/674496/
+  - title: Honkou no Zen Joshi Seito no Ue no Kuchi to Shita no Kuchi wa Nakayoshi Houdai
+      datte Shitteru no wa Ore dake?! | One Dick to Rule Them All
+    author: shiwasu-no-okina
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682568.jpg
+    rating: 0.0
+    date: '2026-09-20'
+    code: 682568
+    url: /works/682568/
 ---

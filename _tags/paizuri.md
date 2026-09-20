@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "paizuri"
-work_count: 166
+work_count: 170
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -844,6 +844,14 @@ works:
     date: '2026-07-09'
     code: 657256
     url: /works/657256/
+  - title: Daasan no Tame ni Okita Kyouko 32sai B107 a.k.a Okusan wo Namadashi Nikuana
+      Choukyou Shiteoite Ageyou
+    author: shiwasu-no-okina
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/659204.jpg
+    rating: 0.0
+    date: '2026-09-20'
+    code: 659204
+    url: /works/659204/
   - title: Make Love Rank match!!③
     author: napo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/659484.jpg
@@ -977,6 +985,13 @@ works:
     date: '2026-09-04'
     code: 669459
     url: /works/669459/
+  - title: My Secret With Kyouko Sensei 1 - Kyouko Sensei to Boku no Himitsu
+    author: maimu-maimu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/671460.jpg
+    rating: 0.0
+    date: '2026-09-20'
+    code: 671460
+    url: /works/671460/
   - title: Nuite Moraimakuri Nyuuin Seikatsu ~Tasuketa Cool-Gyaru wa Jitsu wa Sukebe
       deshita~
     author: gujira
@@ -1251,4 +1266,18 @@ works:
     date: '2026-09-19'
     code: 682225
     url: /works/682225/
+  - title: I am a sister
+    author: vanilla-type
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682498.jpg
+    rating: 0.0
+    date: '2026-09-20'
+    code: 682498
+    url: /works/682498/
+  - title: Motto Mawashite Ura Kairanban Ch. 1-5
+    author: yano-toshinori
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682571.jpg
+    rating: 0.0
+    date: '2026-09-20'
+    code: 682571
+    url: /works/682571/
 ---

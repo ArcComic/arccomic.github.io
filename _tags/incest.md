@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "incest"
-work_count: 221
+work_count: 228
 works:
+  - title: Imitation Family + Bigibo Hen
+    author: tohzai
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/145635.jpg
+    rating: 0.0
+    date: '2026-09-20'
+    code: 145635
+    url: /works/145635/
   - title: Kindan no Hatemitsu
     author: ryuuta
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/163039.jpg
@@ -105,6 +112,13 @@ works:
     date: '2026-04-25'
     code: 388099
     url: /works/388099/
+  - title: Anatano mama ni naritakute. Ch. 3
+    author: agata
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/388896.jpg
+    rating: 0.0
+    date: '2026-09-20'
+    code: 388896
+    url: /works/388896/
   - title: Namaiki na Imouto ga Ore no SeFri ni Natta Keii | How My Cheeky Little Sister
       and I Became Sex Friends With Benefits
     author: iron-sugar
@@ -1621,6 +1635,42 @@ works:
     date: '2026-09-19'
     code: 682364
     url: /works/682364/
+  - title: I am a sister
+    author: vanilla-type
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682498.jpg
+    rating: 0.0
+    date: '2026-09-20'
+    code: 682498
+    url: /works/682498/
+  - title: Shiroto Tsuma no Himitsu Haishin ~Zenpen~ | Housewife’s secret livestream
+      Part 1
+    author: hikitogu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682524.jpg
+    rating: 0.0
+    date: '2026-09-20'
+    code: 682524
+    url: /works/682524/
+  - title: Oji to Midara na Yume o Miru | Licentious Dreams With My Uncle
+    author: yoshii-kou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682548.jpg
+    rating: 0.0
+    date: '2026-09-20'
+    code: 682548
+    url: /works/682548/
+  - title: Namaiki na Musume -Ie no Okane o Nusunda Musume ni Kyouiku Shidou-
+    author: marumitei
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682557.jpg
+    rating: 0.0
+    date: '2026-09-20'
+    code: 682557
+    url: /works/682557/
+  - title: Giri no Imouto wa Boku no Mono | My Step Sister Is MINE Wife
+    author: manatsu-roco
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682559.jpg
+    rating: 0.0
+    date: '2026-09-20'
+    code: 682559
+    url: /works/682559/
   - title: Onee-chan no SM Kouza | Onee-chan's S&M Lecture
     author: shinooka-homare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/88750.jpg

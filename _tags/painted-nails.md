@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "painted nails"
-work_count: 29
+work_count: 30
 works:
   - title: Rakki Taishyaku
     author: fushoku
@@ -217,4 +217,11 @@ works:
     date: '2026-09-17'
     code: 681990
     url: /works/681990/
+  - title: To Corrupt A Wife 1.5
+    author: theremin-karino-teru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682577.jpg
+    rating: 0.0
+    date: '2026-09-20'
+    code: 682577
+    url: /works/682577/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "gang rape"
-work_count: 7
+work_count: 8
 works:
   - title: Shitsurakuen | Paradise Lost
     author: group
@@ -52,4 +52,11 @@ works:
     date: '2026-09-12'
     code: 680735
     url: /works/680735/
+  - title: Torawareta joi tsuma _ Trapped Doctor
+    author: hikitogu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681566.jpg
+    rating: 0.0
+    date: '2026-09-20'
+    code: 681566
+    url: /works/681566/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "full color"
-work_count: 180
+work_count: 182
 works:
   - title: Tsuma wo Yariman ni Shimasu Shakkin no Tame desu kara.
     author: pietoro
@@ -1269,6 +1269,13 @@ works:
     date: '2026-09-15'
     code: 681323
     url: /works/681323/
+  - title: Torawareta joi tsuma _ Trapped Doctor
+    author: hikitogu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681566.jpg
+    rating: 0.0
+    date: '2026-09-20'
+    code: 681566
+    url: /works/681566/
   - title: LOVE Summer
     author: lander0808
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681683.jpg
@@ -1319,4 +1326,12 @@ works:
     date: '2026-09-19'
     code: 682326
     url: /works/682326/
+  - title: Yotsuba Rinzen to Buzama no Kousaten ~Furyou Gal ni Chingei o Shikomare,
+      Songen o Ushinau Cool Joshidaisei~
+    author: takahashi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682527.jpg
+    rating: 0.0
+    date: '2026-09-20'
+    code: 682527
+    url: /works/682527/
 ---

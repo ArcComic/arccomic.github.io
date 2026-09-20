@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "netorare"
-work_count: 295
+work_count: 300
 works:
   - title: Hitozuma Hyakka
     author: hase-tsubura
@@ -1484,6 +1484,14 @@ works:
     date: '2026-07-09'
     code: 658005
     url: /works/658005/
+  - title: Daasan no Tame ni Okita Kyouko 32sai B107 a.k.a Okusan wo Namadashi Nikuana
+      Choukyou Shiteoite Ageyou
+    author: shiwasu-no-okina
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/659204.jpg
+    rating: 0.0
+    date: '2026-09-20'
+    code: 659204
+    url: /works/659204/
   - title: Nige Chin Complex ~Aza to Kyonyuu Joshi no Chouhatsu ni Bokki Kakushi Nigeta
       Zako ww~
     author: kakun
@@ -1749,6 +1757,13 @@ works:
     date: '2026-09-12'
     code: 670195
     url: /works/670195/
+  - title: My Secret With Kyouko Sensei 1 - Kyouko Sensei to Boku no Himitsu
+    author: maimu-maimu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/671460.jpg
+    rating: 0.0
+    date: '2026-09-20'
+    code: 671460
+    url: /works/671460/
   - title: Akogare Senpai ga NTR sareru Hon
     author: seinen-hormone
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/672241.jpg
@@ -2089,6 +2104,13 @@ works:
     date: '2026-09-16'
     code: 681498
     url: /works/681498/
+  - title: Torawareta joi tsuma _ Trapped Doctor
+    author: hikitogu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681566.jpg
+    rating: 0.0
+    date: '2026-09-20'
+    code: 681566
+    url: /works/681566/
   - title: LOVE Summer
     author: lander0808
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681683.jpg
@@ -2169,6 +2191,21 @@ works:
     date: '2026-09-19'
     code: 682385
     url: /works/682385/
+  - title: Shiroto Tsuma no Himitsu Haishin ~Zenpen~ | Housewife’s secret livestream
+      Part 1
+    author: hikitogu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682524.jpg
+    rating: 0.0
+    date: '2026-09-20'
+    code: 682524
+    url: /works/682524/
+  - title: To Corrupt A Wife 1.5
+    author: theremin-karino-teru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682577.jpg
+    rating: 0.0
+    date: '2026-09-20'
+    code: 682577
+    url: /works/682577/
   - title: Nanami-chan Yori Sukitte Itte (Tell Me You Like Me More Than Nanami-chan)
       01
     author: en

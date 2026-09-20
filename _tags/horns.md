@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "horns"
-work_count: 18
+work_count: 19
 works:
   - title: Cosplay Shiteiru Toki wa Hitozuma de wa Arimasen | Setting Aside Our Married
       Lives When We Cosplay
@@ -134,4 +134,11 @@ works:
     date: '2026-09-19'
     code: 682307
     url: /works/682307/
+  - title: Kayoko ga S ni Ochiru Made - Until Kayoko falls into S.
+    author: nichijou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682579.jpg
+    rating: 0.0
+    date: '2026-09-20'
+    code: 682579
+    url: /works/682579/
 ---

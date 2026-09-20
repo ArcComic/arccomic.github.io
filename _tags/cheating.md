@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "cheating"
-work_count: 256
+work_count: 263
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -31,6 +31,13 @@ works:
     date: '2026-08-19'
     code: 142561
     url: /works/142561/
+  - title: Imitation Family + Bigibo Hen
+    author: tohzai
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/145635.jpg
+    rating: 0.0
+    date: '2026-09-20'
+    code: 145635
+    url: /works/145635/
   - title: Hustle! Danchizuma Ch. 1-18 END
     author: hidemaru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/161690.jpg
@@ -254,6 +261,13 @@ works:
     date: '2026-09-12'
     code: 387648
     url: /works/387648/
+  - title: Anatano mama ni naritakute. Ch. 3
+    author: agata
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/388896.jpg
+    rating: 0.0
+    date: '2026-09-20'
+    code: 388896
+    url: /works/388896/
   - title: Shiraishi-san Wa Yokkyu Fuman | Shiraishi-san's Frustrated
     author: carburetor
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/392617.jpg
@@ -1422,6 +1436,14 @@ works:
     date: '2026-07-09'
     code: 658005
     url: /works/658005/
+  - title: Daasan no Tame ni Okita Kyouko 32sai B107 a.k.a Okusan wo Namadashi Nikuana
+      Choukyou Shiteoite Ageyou
+    author: shiwasu-no-okina
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/659204.jpg
+    rating: 0.0
+    date: '2026-09-20'
+    code: 659204
+    url: /works/659204/
   - title: All Night Long
     author: takasugi-kou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662057.jpg
@@ -1583,6 +1605,13 @@ works:
     date: '2026-08-20'
     code: 669452
     url: /works/669452/
+  - title: My Secret With Kyouko Sensei 1 - Kyouko Sensei to Boku no Himitsu
+    author: maimu-maimu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/671460.jpg
+    rating: 0.0
+    date: '2026-09-20'
+    code: 671460
+    url: /works/671460/
   - title: Friend With Benefit With My Friends Mom
     author: cammy
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/671657.jpg
@@ -1880,6 +1909,27 @@ works:
     date: '2026-09-19'
     code: 682339
     url: /works/682339/
+  - title: Namaiki na Musume -Ie no Okane o Nusunda Musume ni Kyouiku Shidou-
+    author: marumitei
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682557.jpg
+    rating: 0.0
+    date: '2026-09-20'
+    code: 682557
+    url: /works/682557/
+  - title: Giri no Imouto wa Boku no Mono | My Step Sister Is MINE Wife
+    author: manatsu-roco
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682559.jpg
+    rating: 0.0
+    date: '2026-09-20'
+    code: 682559
+    url: /works/682559/
+  - title: To Corrupt A Wife 1.5
+    author: theremin-karino-teru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682577.jpg
+    rating: 0.0
+    date: '2026-09-20'
+    code: 682577
+    url: /works/682577/
   - title: Jokyoushi - Hot For Teachers | Female Teachers
     author: drill-murata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/81375.jpg

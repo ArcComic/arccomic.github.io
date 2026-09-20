@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "manga"
-work_count: 280
+work_count: 285
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -66,6 +66,13 @@ works:
     date: '2026-08-19'
     code: 142561
     url: /works/142561/
+  - title: Imitation Family + Bigibo Hen
+    author: tohzai
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/145635.jpg
+    rating: 0.0
+    date: '2026-09-20'
+    code: 145635
+    url: /works/145635/
   - title: Love Approach
     author: hanafuda-sakurano
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/158990.jpg
@@ -115,6 +122,13 @@ works:
     date: '2026-03-09'
     code: 226386
     url: /works/226386/
+  - title: Watashi ni Mawashite Ura Kairanban
+    author: yano-toshinori
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/238471.jpg
+    rating: 0.0
+    date: '2026-09-20'
+    code: 238471
+    url: /works/238471/
   - title: Overwrite
     author: ojo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/240721.jpg
@@ -314,6 +328,13 @@ works:
     date: '2026-09-13'
     code: 388627
     url: /works/388627/
+  - title: Anatano mama ni naritakute. Ch. 3
+    author: agata
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/388896.jpg
+    rating: 0.0
+    date: '2026-09-20'
+    code: 388896
+    url: /works/388896/
   - title: Rako Slip!
     author: bujidearu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/393984.jpg
@@ -1633,6 +1654,13 @@ works:
     date: '2026-08-19'
     code: 668867
     url: /works/668867/
+  - title: My Secret With Kyouko Sensei 1 - Kyouko Sensei to Boku no Himitsu
+    author: maimu-maimu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/671460.jpg
+    rating: 0.0
+    date: '2026-09-20'
+    code: 671460
+    url: /works/671460/
   - title: Mama no, Sono Eroi Karada ga Ikenainda 1-2
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/672310.jpg
@@ -1982,6 +2010,13 @@ works:
     date: '2026-09-19'
     code: 682383
     url: /works/682383/
+  - title: Motto Mawashite Ura Kairanban Ch. 1-5
+    author: yano-toshinori
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682571.jpg
+    rating: 0.0
+    date: '2026-09-20'
+    code: 682571
+    url: /works/682571/
   - title: CosBare -Takabisha na Kyonyuu Joushi no "Goshujin-sama" ni Narimashita!?-
     author: sazanami-wasabi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682600.jpg

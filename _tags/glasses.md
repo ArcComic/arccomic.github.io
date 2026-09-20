@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "glasses"
-work_count: 193
+work_count: 195
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -52,6 +52,13 @@ works:
     date: '2026-03-09'
     code: 226386
     url: /works/226386/
+  - title: Watashi ni Mawashite Ura Kairanban
+    author: yano-toshinori
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/238471.jpg
+    rating: 0.0
+    date: '2026-09-20'
+    code: 238471
+    url: /works/238471/
   - title: Overwrite
     author: ojo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/240721.jpg
@@ -1114,6 +1121,13 @@ works:
     date: '2026-09-10'
     code: 669748
     url: /works/669748/
+  - title: My Secret With Kyouko Sensei 1 - Kyouko Sensei to Boku no Himitsu
+    author: maimu-maimu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/671460.jpg
+    rating: 0.0
+    date: '2026-09-20'
+    code: 671460
+    url: /works/671460/
   - title: Hanamizuki Vol.4
     author: rocinante
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/672835.jpg

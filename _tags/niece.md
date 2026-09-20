@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "niece"
-work_count: 10
+work_count: 11
 works:
   - title: Atashi ga Nuite Ageyo kka?
     author: malcorond
@@ -73,4 +73,11 @@ works:
     date: '2026-08-28'
     code: 676183
     url: /works/676183/
+  - title: Oji to Midara na Yume o Miru | Licentious Dreams With My Uncle
+    author: yoshii-kou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682548.jpg
+    rating: 0.0
+    date: '2026-09-20'
+    code: 682548
+    url: /works/682548/
 ---

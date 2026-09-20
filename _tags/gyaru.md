@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "gyaru"
-work_count: 85
+work_count: 87
 works:
   - title: GalPa!
     author: sakagami-umi
@@ -306,6 +306,13 @@ works:
     date: '2026-07-13'
     code: 636802
     url: /works/636802/
+  - title: Please Take It Out! After
+    author: ramanda
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638685.jpg
+    rating: 0.0
+    date: '2026-09-20'
+    code: 638685
+    url: /works/638685/
   - title: BUTA - 『You did a great job』
     author: buta
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/639772.jpg
@@ -638,4 +645,11 @@ works:
     date: '2026-09-17'
     code: 681990
     url: /works/681990/
+  - title: Gal JK to H Gokko
+    author: bodaijun
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682551.jpg
+    rating: 0.0
+    date: '2026-09-20'
+    code: 682551
+    url: /works/682551/
 ---

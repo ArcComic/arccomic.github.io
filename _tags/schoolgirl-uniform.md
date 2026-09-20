@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "schoolgirl uniform"
-work_count: 248
+work_count: 252
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -1845,4 +1845,34 @@ works:
     date: '2026-09-19'
     code: 682364
     url: /works/682364/
+  - title: Hifumi to Himitsu no Kankei ni Natteshimatta Hanashi - A story about getting
+      into a secret relationship with Hifumi.
+    author: arisu-kazumi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682545.jpg
+    rating: 0.0
+    date: '2026-09-20'
+    code: 682545
+    url: /works/682545/
+  - title: Gal JK to H Gokko
+    author: bodaijun
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682551.jpg
+    rating: 0.0
+    date: '2026-09-20'
+    code: 682551
+    url: /works/682551/
+  - title: Namaiki na Musume -Ie no Okane o Nusunda Musume ni Kyouiku Shidou-
+    author: marumitei
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682557.jpg
+    rating: 0.0
+    date: '2026-09-20'
+    code: 682557
+    url: /works/682557/
+  - title: Honkou no Zen Joshi Seito no Ue no Kuchi to Shita no Kuchi wa Nakayoshi Houdai
+      datte Shitteru no wa Ore dake?! | One Dick to Rule Them All
+    author: shiwasu-no-okina
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682568.jpg
+    rating: 0.0
+    date: '2026-09-20'
+    code: 682568
+    url: /works/682568/
 ---

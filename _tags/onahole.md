@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "onahole"
-work_count: 3
+work_count: 4
 works:
   - title: My AR glasses can see various stats about my foster sister?!
     author: pz-x
@@ -25,4 +25,12 @@ works:
     date: '2026-05-03'
     code: 647619
     url: /works/647619/
+  - title: Hifumi to Himitsu no Kankei ni Natteshimatta Hanashi - A story about getting
+      into a secret relationship with Hifumi.
+    author: arisu-kazumi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682545.jpg
+    rating: 0.0
+    date: '2026-09-20'
+    code: 682545
+    url: /works/682545/
 ---

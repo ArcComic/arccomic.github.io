@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole female"
-work_count: 701
+work_count: 712
 works:
   - title: Adoration
     author: kishizuka-kenji
@@ -439,6 +439,13 @@ works:
     date: '2026-09-13'
     code: 388627
     url: /works/388627/
+  - title: Anatano mama ni naritakute. Ch. 3
+    author: agata
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/388896.jpg
+    rating: 0.0
+    date: '2026-09-20'
+    code: 388896
+    url: /works/388896/
   - title: Mecha Eroi kedo Sasoi ni Nottara Hametsushisou na Ko | A Girl Who Is Very
       Sexy But Will Ruin Me If I Ask Her Out
     author: 7zu7
@@ -4146,6 +4153,13 @@ works:
     date: '2026-09-12'
     code: 670195
     url: /works/670195/
+  - title: My Secret With Kyouko Sensei 1 - Kyouko Sensei to Boku no Himitsu
+    author: maimu-maimu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/671460.jpg
+    rating: 0.0
+    date: '2026-09-20'
+    code: 671460
+    url: /works/671460/
   - title: Friend With Benefit With My Friends Mom
     author: cammy
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/671657.jpg
@@ -5038,6 +5052,13 @@ works:
     date: '2026-09-16'
     code: 681465
     url: /works/681465/
+  - title: Torawareta joi tsuma _ Trapped Doctor
+    author: hikitogu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681566.jpg
+    rating: 0.0
+    date: '2026-09-20'
+    code: 681566
+    url: /works/681566/
   - title: Otouto no Game-nou to Ane no Game-sei
     author: choco-hell
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681655.jpg
@@ -5193,6 +5214,64 @@ works:
     date: '2026-09-19'
     code: 682364
     url: /works/682364/
+  - title: I am a sister
+    author: vanilla-type
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682498.jpg
+    rating: 0.0
+    date: '2026-09-20'
+    code: 682498
+    url: /works/682498/
+  - title: Hifumi to Himitsu no Kankei ni Natteshimatta Hanashi - A story about getting
+      into a secret relationship with Hifumi.
+    author: arisu-kazumi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682545.jpg
+    rating: 0.0
+    date: '2026-09-20'
+    code: 682545
+    url: /works/682545/
+  - title: Oji to Midara na Yume o Miru | Licentious Dreams With My Uncle
+    author: yoshii-kou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682548.jpg
+    rating: 0.0
+    date: '2026-09-20'
+    code: 682548
+    url: /works/682548/
+  - title: Gal JK to H Gokko
+    author: bodaijun
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682551.jpg
+    rating: 0.0
+    date: '2026-09-20'
+    code: 682551
+    url: /works/682551/
+  - title: Namaiki na Musume -Ie no Okane o Nusunda Musume ni Kyouiku Shidou-
+    author: marumitei
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682557.jpg
+    rating: 0.0
+    date: '2026-09-20'
+    code: 682557
+    url: /works/682557/
+  - title: Giri no Imouto wa Boku no Mono | My Step Sister Is MINE Wife
+    author: manatsu-roco
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682559.jpg
+    rating: 0.0
+    date: '2026-09-20'
+    code: 682559
+    url: /works/682559/
+  - title: Honkou no Zen Joshi Seito no Ue no Kuchi to Shita no Kuchi wa Nakayoshi Houdai
+      datte Shitteru no wa Ore dake?! | One Dick to Rule Them All
+    author: shiwasu-no-okina
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682568.jpg
+    rating: 0.0
+    date: '2026-09-20'
+    code: 682568
+    url: /works/682568/
+  - title: Kayoko ga S ni Ochiru Made - Until Kayoko falls into S.
+    author: nichijou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682579.jpg
+    rating: 0.0
+    date: '2026-09-20'
+    code: 682579
+    url: /works/682579/
   - title: Hatsujou Usagi wa Mangetsu no Yoru ni Koubi suru | A Rabbit In Heat Breeds
       Under The Full Moon
     author: unknown
