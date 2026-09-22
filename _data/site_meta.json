@@ -5,7 +5,7 @@
   "join_notice_html": "(Join Mandatory Telegram channels to Activate Bot first time)",
   "footer": "Daily updates",
   "footer_html": "Daily updates",
-  "ad_network": "adsterra",
+  "ad_network": "mondiad",
   "read_buttons": [
     {
       "id": "telegram_bot",
