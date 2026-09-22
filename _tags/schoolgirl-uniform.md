@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "schoolgirl uniform"
-work_count: 256
+work_count: 257
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -565,7 +565,7 @@ works:
   - title: Nagoriyuki | Fleeting Snow
     author: yd
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/599778.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-22'
     code: 599778
     url: /works/599778/
@@ -1442,7 +1442,7 @@ works:
       Turned Into a Woman by Adult Hands During the Summer'
     author: armjaw
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673012.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-22'
     code: 673012
     url: /works/673012/
@@ -1894,7 +1894,7 @@ works:
   - title: Boku ni Onnanoko Oshiete Kudasai! 2 | Please Teach Me How to Be a Girl! 2
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682858.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-22'
     code: 682858
     url: /works/682858/
@@ -1902,8 +1902,15 @@ works:
       Ano Ko to Sex dekinai Sekai
     author: armjaw
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683022.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-22'
     code: 683022
     url: /works/683022/
+  - title: Konoka Press Ch. 8
+    author: ryoh-zoh
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683216.jpg
+    rating: 0.0
+    date: '2026-09-22'
+    code: 683216
+    url: /works/683216/
 ---

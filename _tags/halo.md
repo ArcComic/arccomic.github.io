@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "halo"
-work_count: 20
+work_count: 22
 works:
   - title: Mutsugaki Icha Love Book ~Sensei to Kakurenbo~ | MUTSUGAKI Lovey-Dovey Book
       ~Hide-and-seek with Sensei~
@@ -18,6 +18,13 @@ works:
     date: '2026-05-10'
     code: 540125
     url: /works/540125/
+  - title: The Prison Idol And Assistant
+    author: halo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/579290.jpg
+    rating: 4.2
+    date: '2026-09-22'
+    code: 579290
+    url: /works/579290/
   - title: Gouriteki na Sei no Hassan ni Tsuite Aratame Chikubi Karikari Iraira Manko
       | —关于如何合理地释放性欲—仔细调查乳头为何变硬与饥渴难耐的小穴
     author: kito-sakeru
@@ -148,4 +155,11 @@ works:
     date: '2026-09-20'
     code: 682545
     url: /works/682545/
+  - title: FORCED ADMISSION UNDER RESTRAINT
+    author: halo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683188.jpg
+    rating: 4.5
+    date: '2026-09-22'
+    code: 683188
+    url: /works/683188/
 ---

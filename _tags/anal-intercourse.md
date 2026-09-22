@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "anal intercourse"
-work_count: 66
+work_count: 67
 works:
   - title: Bitch Mama no Kekkon Riyuu
     author: aoyama-akira
@@ -258,7 +258,7 @@ works:
   - title: Okini Mesu Mama! - Dress them as you wish.
     author: otsumoon
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/655339.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-22'
     code: 655339
     url: /works/655339/
@@ -489,4 +489,11 @@ works:
     date: '2026-09-19'
     code: 682385
     url: /works/682385/
+  - title: Hako no Tsuma
+    author: bai-asuka
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683121.jpg
+    rating: 4.9
+    date: '2026-09-22'
+    code: 683121
+    url: /works/683121/
 ---

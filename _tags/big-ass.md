@@ -982,7 +982,7 @@ works:
       Turned Into a Woman by Adult Hands During the Summer'
     author: armjaw
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673012.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-22'
     code: 673012
     url: /works/673012/
@@ -1237,7 +1237,7 @@ works:
   - title: Torokesasenaide Danna-sama
     author: tsurui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682934.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-22'
     code: 682934
     url: /works/682934/

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "milf"
-work_count: 334
+work_count: 336
 works:
   - title: Life with Married Women Just Like a Manga 2 - Ch. 1-5
     author: hidemaru
@@ -1711,7 +1711,7 @@ works:
   - title: LESFES CO SIDE STORIES Remote Days
     author: shakuhachi-nameko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/649307.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-22'
     code: 649307
     url: /works/649307/
@@ -2096,7 +2096,7 @@ works:
   - title: 'Mom Friend Harem 2 ~Lewd Hot Spring Trip: Filled to the Brim with Cum~'
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/666748.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-22'
     code: 666748
     url: /works/666748/
@@ -2409,7 +2409,7 @@ works:
       Hot Spring Getaway
     author: botamochi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681786.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-22'
     code: 681786
     url: /works/681786/
@@ -2450,6 +2450,20 @@ works:
     date: '2026-09-20'
     code: 682524
     url: /works/682524/
+  - title: Hako no Tsuma
+    author: bai-asuka
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683121.jpg
+    rating: 4.9
+    date: '2026-09-22'
+    code: 683121
+    url: /works/683121/
+  - title: taka-co - NTR妈妈・恭子Remake 1-3话
+    author: taka-co
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683137.jpg
+    rating: 4.6
+    date: '2026-09-22'
+    code: 683137
+    url: /works/683137/
   - title: Jokyoushi - Hot For Teachers | Female Teachers
     author: drill-murata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/81375.jpg

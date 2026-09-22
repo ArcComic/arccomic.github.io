@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "manga"
-work_count: 289
+work_count: 293
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -48,7 +48,7 @@ works:
   - title: Kousa suru Osu to Mesu | Male and Female Crossing
     author: ootsuka-kotora
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/13296.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-22'
     code: 13296
     url: /works/13296/
@@ -210,7 +210,7 @@ works:
   - title: Tsuki ga Noboru | Moonrise
     author: rocket-monkey
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/307241.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-22'
     code: 307241
     url: /works/307241/
@@ -1231,6 +1231,13 @@ works:
     date: '2026-08-23'
     code: 639772
     url: /works/639772/
+  - title: Ray's Days
+    author: ryoh-zoh
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642839.jpg
+    rating: 0.0
+    date: '2026-09-22'
+    code: 642839
+    url: /works/642839/
   - title: Ijimerare Musume to ijirikko ~ ore shika shiranaiyarashii karada
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/644176.jpg
@@ -2050,11 +2057,32 @@ works:
     title: Isekai fukushu ~ore o ijimeta yatsura o saikyo sukiru de shihai suru~ 04
     author: senakagashiri
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683013.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-22'
     code: 683013
     url: /works/683013/
   - *id001
+  - title: Hako no Tsuma
+    author: bai-asuka
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683121.jpg
+    rating: 4.9
+    date: '2026-09-22'
+    code: 683121
+    url: /works/683121/
+  - title: Physical Encounter 01
+    author: yami
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683192.jpg
+    rating: 4.2
+    date: '2026-09-22'
+    code: 683192
+    url: /works/683192/
+  - title: Konoka Press Ch. 8
+    author: ryoh-zoh
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683216.jpg
+    rating: 0.0
+    date: '2026-09-22'
+    code: 683216
+    url: /works/683216/
   - title: Hottokenaino
     author: hara-shigeyuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/77864.jpg

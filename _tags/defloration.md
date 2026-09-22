@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "defloration"
-work_count: 187
+work_count: 188
 works:
   - title: Imitation Family + Bigibo Hen
     author: tohzai
@@ -130,7 +130,7 @@ works:
   - title: Osananajimi no Otou-san ni.
     author: uni18
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/381875.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-22'
     code: 381875
     url: /works/381875/
@@ -486,7 +486,7 @@ works:
       - Midsummer promise | Manatsu's Promise
     author: uni18
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/593276.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-22'
     code: 593276
     url: /works/593276/
@@ -553,7 +553,7 @@ works:
   - title: Iraira o Musume no Gakuyuu ni Butsukete Shimatta Hanashi
     author: uni18
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/612498.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-22'
     code: 612498
     url: /works/612498/
@@ -1125,7 +1125,7 @@ works:
       Turned Into a Woman by Adult Hands During the Summer'
     author: armjaw
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673012.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-22'
     code: 673012
     url: /works/673012/
@@ -1390,4 +1390,11 @@ works:
     date: '2026-09-20'
     code: 682557
     url: /works/682557/
+  - title: Physical Encounter 01
+    author: yami
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683192.jpg
+    rating: 4.2
+    date: '2026-09-22'
+    code: 683192
+    url: /works/683192/
 ---

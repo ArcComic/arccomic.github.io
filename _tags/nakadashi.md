@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "nakadashi"
-work_count: 594
+work_count: 595
 works:
   - title: Adoration
     author: kishizuka-kenji
@@ -119,7 +119,7 @@ works:
   - title: Tsuki ga Noboru | Moonrise
     author: rocket-monkey
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/307241.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-22'
     code: 307241
     url: /works/307241/
@@ -263,7 +263,7 @@ works:
   - title: Osananajimi no Otou-san ni.
     author: uni18
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/381875.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-22'
     code: 381875
     url: /works/381875/
@@ -277,7 +277,7 @@ works:
   - title: FANTASY DIARY
     author: yd
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/386119.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-22'
     code: 386119
     url: /works/386119/
@@ -1439,7 +1439,7 @@ works:
   - title: Arifureta Hanashi. | A Common Story.
     author: mauboumen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/589318.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-22'
     code: 589318
     url: /works/589318/
@@ -1572,7 +1572,7 @@ works:
   - title: Nagoriyuki | Fleeting Snow
     author: yd
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/599778.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-22'
     code: 599778
     url: /works/599778/
@@ -1685,7 +1685,7 @@ works:
   - title: Iraira o Musume no Gakuyuu ni Butsukete Shimatta Hanashi
     author: uni18
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/612498.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-22'
     code: 612498
     url: /works/612498/
@@ -3038,7 +3038,7 @@ works:
   - title: Okini Mesu Mama! - Dress them as you wish.
     author: otsumoon
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/655339.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-22'
     code: 655339
     url: /works/655339/
@@ -3532,7 +3532,7 @@ works:
   - title: 'Mom Friend Harem 2 ~Lewd Hot Spring Trip: Filled to the Brim with Cum~'
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/666748.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-22'
     code: 666748
     url: /works/666748/
@@ -4263,7 +4263,7 @@ works:
       Hot Spring Getaway
     author: botamochi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681786.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-22'
     code: 681786
     url: /works/681786/
@@ -4403,10 +4403,17 @@ works:
       Ano Ko to Sex dekinai Sekai
     author: armjaw
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683022.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-22'
     code: 683022
     url: /works/683022/
+  - title: Physical Encounter 01
+    author: yami
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683192.jpg
+    rating: 4.2
+    date: '2026-09-22'
+    code: 683192
+    url: /works/683192/
   - title: Inin Keiyaku | Lewd Pregnancy Contract
     author: yoshiura-kazuya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/83595.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "blowjob"
-work_count: 474
+work_count: 477
 works:
   - title: Office Love Scramble Ch. 1
     author: tohzai
@@ -698,7 +698,7 @@ works:
       Series
     author: akahito
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/530567.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-22'
     code: 530567
     url: /works/530567/
@@ -1232,7 +1232,7 @@ works:
   - title: Nagoriyuki | Fleeting Snow
     author: yd
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/599778.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-22'
     code: 599778
     url: /works/599778/
@@ -2439,7 +2439,7 @@ works:
   - title: Okini Mesu Mama! - Dress them as you wish.
     author: otsumoon
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/655339.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-22'
     code: 655339
     url: /works/655339/
@@ -2793,7 +2793,7 @@ works:
   - title: 'Mom Friend Harem 2 ~Lewd Hot Spring Trip: Filled to the Brim with Cum~'
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/666748.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-22'
     code: 666748
     url: /works/666748/
@@ -3511,10 +3511,31 @@ works:
   - title: Torokesasenaide Danna-sama
     author: tsurui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682934.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-22'
     code: 682934
     url: /works/682934/
+  - title: Hako no Tsuma
+    author: bai-asuka
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683121.jpg
+    rating: 4.9
+    date: '2026-09-22'
+    code: 683121
+    url: /works/683121/
+  - title: Physical Encounter 01
+    author: yami
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683192.jpg
+    rating: 4.2
+    date: '2026-09-22'
+    code: 683192
+    url: /works/683192/
+  - title: Konoka Press Ch. 8
+    author: ryoh-zoh
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683216.jpg
+    rating: 0.0
+    date: '2026-09-22'
+    code: 683216
+    url: /works/683216/
   - title: Jokyoushi - Hot For Teachers | Female Teachers
     author: drill-murata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/81375.jpg

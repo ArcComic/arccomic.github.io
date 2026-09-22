@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "filming"
-work_count: 72
+work_count: 73
 works:
   - title: Netorare Ibe Kiba Shizuka | The Netorare of Kiba Shizuka
     author: terasu-mc
@@ -539,4 +539,11 @@ works:
     date: '2026-09-20'
     code: 682571
     url: /works/682571/
+  - title: Physical Encounter 01
+    author: yami
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683192.jpg
+    rating: 4.2
+    date: '2026-09-22'
+    code: 683192
+    url: /works/683192/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "rough translation"
-work_count: 491
+work_count: 493
 works:
   - title: Watashi no Karada, Okashi Shimasu. Bunny Girl Edition
     author: nectar
@@ -195,7 +195,7 @@ works:
       Series
     author: akahito
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/530567.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-22'
     code: 530567
     url: /works/530567/
@@ -1566,7 +1566,7 @@ works:
   - title: Okini Mesu Mama! - Dress them as you wish.
     author: otsumoon
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/655339.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-22'
     code: 655339
     url: /works/655339/
@@ -2251,7 +2251,7 @@ works:
   - title: 'Mom Friend Harem 2 ~Lewd Hot Spring Trip: Filled to the Brim with Cum~'
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/666748.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-22'
     code: 666748
     url: /works/666748/
@@ -2337,7 +2337,7 @@ works:
       Turned Into a Woman by Adult Hands During the Summer'
     author: armjaw
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673012.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-22'
     code: 673012
     url: /works/673012/
@@ -2857,7 +2857,7 @@ works:
   - title: Miki ga Mama ni Natte Ageru
     author: tsurui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678628.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-22'
     code: 678628
     url: /works/678628/
@@ -3102,7 +3102,7 @@ works:
       Hanashi
     author: mauboumen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680307.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-09-22'
     code: 680307
     url: /works/680307/
@@ -3352,7 +3352,7 @@ works:
       Hot Spring Getaway
     author: botamochi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681786.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-22'
     code: 681786
     url: /works/681786/
@@ -3572,7 +3572,7 @@ works:
   - title: Torokesasenaide Danna-sama
     author: tsurui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682934.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-22'
     code: 682934
     url: /works/682934/
@@ -3580,8 +3580,22 @@ works:
       Ano Ko to Sex dekinai Sekai
     author: armjaw
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683022.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-22'
     code: 683022
     url: /works/683022/
+  - title: Hako no Tsuma
+    author: bai-asuka
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683121.jpg
+    rating: 4.9
+    date: '2026-09-22'
+    code: 683121
+    url: /works/683121/
+  - title: taka-co - NTR妈妈・恭子Remake 1-3话
+    author: taka-co
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683137.jpg
+    rating: 4.6
+    date: '2026-09-22'
+    code: 683137
+    url: /works/683137/
 ---

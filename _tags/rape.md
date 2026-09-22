@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "rape"
-work_count: 184
+work_count: 186
 works:
   - title: Office Love Scramble Ch. 1
     author: tohzai
@@ -100,7 +100,7 @@ works:
   - title: Osananajimi no Otou-san ni.
     author: uni18
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/381875.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-22'
     code: 381875
     url: /works/381875/
@@ -509,7 +509,7 @@ works:
   - title: Iraira o Musume no Gakuyuu ni Butsukete Shimatta Hanashi
     author: uni18
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/612498.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-22'
     code: 612498
     url: /works/612498/
@@ -1338,8 +1338,22 @@ works:
   - title: The Evil Mask 6
     author: aquotz
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682882.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-22'
     code: 682882
     url: /works/682882/
+  - title: Hako no Tsuma
+    author: bai-asuka
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683121.jpg
+    rating: 4.9
+    date: '2026-09-22'
+    code: 683121
+    url: /works/683121/
+  - title: Physical Encounter 01
+    author: yami
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683192.jpg
+    rating: 4.2
+    date: '2026-09-22'
+    code: 683192
+    url: /works/683192/
 ---

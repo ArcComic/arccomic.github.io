@@ -500,7 +500,7 @@ works:
   - title: Nagoriyuki | Fleeting Snow
     author: yd
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/599778.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-22'
     code: 599778
     url: /works/599778/
@@ -1678,7 +1678,7 @@ works:
       Hot Spring Getaway
     author: botamochi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681786.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-22'
     code: 681786
     url: /works/681786/

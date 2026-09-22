@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "humiliation"
-work_count: 26
+work_count: 27
 works:
   - title: Doushia (Terasu MC)] Dorei Gazoku
     author: terasu-mc
@@ -39,6 +39,13 @@ works:
     date: '2026-07-17'
     code: 564042
     url: /works/564042/
+  - title: The Prison Idol And Assistant
+    author: halo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/579290.jpg
+    rating: 4.2
+    date: '2026-09-22'
+    code: 579290
+    url: /works/579290/
   - title: Gakkou no Joshi o Chuumon Dekiru Denpyou ~Tadashi Seikoui Mokuteki ni Kagiru~
     author: nyuu-koubou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/625984.jpg

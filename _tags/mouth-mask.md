@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "mouth mask"
-work_count: 14
+work_count: 15
 works:
   - title: Kanojo wa Boku no Taieki de Ugoiteiru Phase. 05 [English] =NSS=
     author: nagareboshi
@@ -10,6 +10,13 @@ works:
     date: '2026-04-15'
     code: 470025
     url: /works/470025/
+  - title: The Prison Idol And Assistant
+    author: halo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/579290.jpg
+    rating: 4.2
+    date: '2026-09-22'
+    code: 579290
+    url: /works/579290/
   - title: Kugisaki Anal Otoshi
     author: ishigaki-takashi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/579976.jpg

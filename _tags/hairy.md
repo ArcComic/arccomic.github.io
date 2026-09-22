@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "hairy"
-work_count: 207
+work_count: 209
 works:
   - title: Adoration
     author: kishizuka-kenji
@@ -85,7 +85,7 @@ works:
   - title: Tsuki ga Noboru | Moonrise
     author: rocket-monkey
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/307241.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-22'
     code: 307241
     url: /works/307241/
@@ -626,7 +626,7 @@ works:
   - title: Arifureta Hanashi. | A Common Story.
     author: mauboumen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/589318.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-22'
     code: 589318
     url: /works/589318/
@@ -1522,8 +1522,22 @@ works:
   - title: Torokesasenaide Danna-sama
     author: tsurui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682934.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-22'
     code: 682934
     url: /works/682934/
+  - title: taka-co - NTR妈妈・恭子Remake 1-3话
+    author: taka-co
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683137.jpg
+    rating: 4.6
+    date: '2026-09-22'
+    code: 683137
+    url: /works/683137/
+  - title: Physical Encounter 01
+    author: yami
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683192.jpg
+    rating: 4.2
+    date: '2026-09-22'
+    code: 683192
+    url: /works/683192/
 ---

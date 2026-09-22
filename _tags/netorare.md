@@ -1,12 +1,12 @@
 ---
 layout: tag
 tag_name: "netorare"
-work_count: 307
+work_count: 310
 works:
   - title: Kousa suru Osu to Mesu | Male and Female Crossing
     author: ootsuka-kotora
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/13296.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-22'
     code: 13296
     url: /works/13296/
@@ -84,7 +84,7 @@ works:
   - title: Tsuki ga Noboru | Moonrise
     author: rocket-monkey
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/307241.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-22'
     code: 307241
     url: /works/307241/
@@ -823,7 +823,7 @@ works:
   - title: Arifureta Hanashi. | A Common Story.
     author: mauboumen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/589318.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-22'
     code: 589318
     url: /works/589318/
@@ -845,7 +845,7 @@ works:
       - Midsummer promise | Manatsu's Promise
     author: uni18
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/593276.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-22'
     code: 593276
     url: /works/593276/
@@ -1819,7 +1819,7 @@ works:
       Turned Into a Woman by Adult Hands During the Summer'
     author: armjaw
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673012.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-22'
     code: 673012
     url: /works/673012/
@@ -2072,7 +2072,7 @@ works:
       Hanashi
     author: mauboumen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680307.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-09-22'
     code: 680307
     url: /works/680307/
@@ -2264,10 +2264,31 @@ works:
       Ano Ko to Sex dekinai Sekai
     author: armjaw
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683022.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-22'
     code: 683022
     url: /works/683022/
+  - title: Hako no Tsuma
+    author: bai-asuka
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683121.jpg
+    rating: 4.9
+    date: '2026-09-22'
+    code: 683121
+    url: /works/683121/
+  - title: taka-co - NTR妈妈・恭子Remake 1-3话
+    author: taka-co
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683137.jpg
+    rating: 4.6
+    date: '2026-09-22'
+    code: 683137
+    url: /works/683137/
+  - title: Konoka Press Ch. 8
+    author: ryoh-zoh
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683216.jpg
+    rating: 0.0
+    date: '2026-09-22'
+    code: 683216
+    url: /works/683216/
   - title: Inin Keiyaku | Lewd Pregnancy Contract
     author: yoshiura-kazuya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/83595.jpg

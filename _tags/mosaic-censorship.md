@@ -129,7 +129,7 @@ works:
   - title: Osananajimi no Otou-san ni.
     author: uni18
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/381875.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-22'
     code: 381875
     url: /works/381875/
@@ -719,7 +719,7 @@ works:
   - title: Arifureta Hanashi. | A Common Story.
     author: mauboumen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/589318.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-22'
     code: 589318
     url: /works/589318/
@@ -734,7 +734,7 @@ works:
       - Midsummer promise | Manatsu's Promise
     author: uni18
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/593276.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-22'
     code: 593276
     url: /works/593276/
@@ -814,7 +814,7 @@ works:
   - title: Iraira o Musume no Gakuyuu ni Butsukete Shimatta Hanashi
     author: uni18
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/612498.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-22'
     code: 612498
     url: /works/612498/
@@ -1669,7 +1669,7 @@ works:
       Hanashi
     author: mauboumen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680307.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-09-22'
     code: 680307
     url: /works/680307/

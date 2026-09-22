@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bald"
-work_count: 57
+work_count: 58
 works:
   - title: Overwrite
     author: ojo
@@ -426,4 +426,11 @@ works:
     date: '2026-09-20'
     code: 682620
     url: /works/682620/
+  - title: taka-co - NTR妈妈・恭子Remake 1-3话
+    author: taka-co
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683137.jpg
+    rating: 4.6
+    date: '2026-09-22'
+    code: 683137
+    url: /works/683137/
 ---

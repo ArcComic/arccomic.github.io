@@ -163,7 +163,7 @@ works:
   - title: Tsuki ga Noboru | Moonrise
     author: rocket-monkey
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/307241.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-22'
     code: 307241
     url: /works/307241/
@@ -371,7 +371,7 @@ works:
   - title: Osananajimi no Otou-san ni.
     author: uni18
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/381875.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-22'
     code: 381875
     url: /works/381875/
@@ -392,7 +392,7 @@ works:
   - title: FANTASY DIARY
     author: yd
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/386119.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-22'
     code: 386119
     url: /works/386119/
@@ -1660,7 +1660,7 @@ works:
   - title: Arifureta Hanashi. | A Common Story.
     author: mauboumen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/589318.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-22'
     code: 589318
     url: /works/589318/
@@ -1727,7 +1727,7 @@ works:
       - Midsummer promise | Manatsu's Promise
     author: uni18
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/593276.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-22'
     code: 593276
     url: /works/593276/
@@ -1816,7 +1816,7 @@ works:
   - title: Nagoriyuki | Fleeting Snow
     author: yd
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/599778.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-22'
     code: 599778
     url: /works/599778/
@@ -1983,7 +1983,7 @@ works:
   - title: Iraira o Musume no Gakuyuu ni Butsukete Shimatta Hanashi
     author: uni18
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/612498.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-22'
     code: 612498
     url: /works/612498/
@@ -3394,7 +3394,7 @@ works:
   - title: Okini Mesu Mama! - Dress them as you wish.
     author: otsumoon
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/655339.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-22'
     code: 655339
     url: /works/655339/
@@ -4078,7 +4078,7 @@ works:
       Turned Into a Woman by Adult Hands During the Summer'
     author: armjaw
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673012.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-22'
     code: 673012
     url: /works/673012/
@@ -4486,7 +4486,7 @@ works:
   - title: Miki ga Mama ni Natte Ageru
     author: tsurui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678628.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-22'
     code: 678628
     url: /works/678628/
@@ -4960,7 +4960,7 @@ works:
       Hot Spring Getaway
     author: botamochi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681786.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-22'
     code: 681786
     url: /works/681786/
@@ -5125,7 +5125,7 @@ works:
   - title: Torokesasenaide Danna-sama
     author: tsurui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682934.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-22'
     code: 682934
     url: /works/682934/

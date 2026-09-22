@@ -6,7 +6,7 @@ works:
   - title: Kousa suru Osu to Mesu | Male and Female Crossing
     author: ootsuka-kotora
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/13296.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-22'
     code: 13296
     url: /works/13296/
@@ -230,7 +230,7 @@ works:
   - title: Arifureta Hanashi. | A Common Story.
     author: mauboumen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/589318.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-22'
     code: 589318
     url: /works/589318/
@@ -493,7 +493,7 @@ works:
       Turned Into a Woman by Adult Hands During the Summer'
     author: armjaw
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673012.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-22'
     code: 673012
     url: /works/673012/
@@ -625,7 +625,7 @@ works:
   - title: The Evil Mask 6
     author: aquotz
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682882.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-22'
     code: 682882
     url: /works/682882/

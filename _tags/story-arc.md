@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "story arc"
-work_count: 153
+work_count: 154
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -596,6 +596,13 @@ works:
     date: '2026-07-06'
     code: 642748
     url: /works/642748/
+  - title: Ray's Days
+    author: ryoh-zoh
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642839.jpg
+    rating: 0.0
+    date: '2026-09-22'
+    code: 642839
+    url: /works/642839/
   - title: 'IF: Gokinjo-sama ni Tanemaki Dekiru Sekaisen no Hanashi ~Mukashinajimi Doukyuusei
       no Baai~'
     author: amatani-haruka
@@ -1122,7 +1129,7 @@ works:
   - title: Isekai fukushu ~ore o ijimeta yatsura o saikyo sukiru de shihai suru~ 04
     author: senakagashiri
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683013.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-22'
     code: 683013
     url: /works/683013/

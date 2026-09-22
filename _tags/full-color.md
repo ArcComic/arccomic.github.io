@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "full color"
-work_count: 184
+work_count: 185
 works:
   - title: Tsuma wo Yariman ni Shimasu Shakkin no Tame desu kara.
     author: pietoro
@@ -63,7 +63,7 @@ works:
   - title: FANTASY DIARY
     author: yd
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/386119.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-22'
     code: 386119
     url: /works/386119/
@@ -618,7 +618,7 @@ works:
   - title: Nagoriyuki | Fleeting Snow
     author: yd
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/599778.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-22'
     code: 599778
     url: /works/599778/
@@ -1348,4 +1348,11 @@ works:
     date: '2026-09-20'
     code: 682527
     url: /works/682527/
+  - title: taka-co - NTR妈妈・恭子Remake 1-3话
+    author: taka-co
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683137.jpg
+    rating: 4.6
+    date: '2026-09-22'
+    code: 683137
+    url: /works/683137/
 ---

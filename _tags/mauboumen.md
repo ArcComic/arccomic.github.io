@@ -6,7 +6,7 @@ works:
   - title: Arifureta Hanashi. | A Common Story.
     author: mauboumen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/589318.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-22'
     code: 589318
     url: /works/589318/
@@ -14,7 +14,7 @@ works:
       Hanashi
     author: mauboumen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680307.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-09-22'
     code: 680307
     url: /works/680307/

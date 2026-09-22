@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "scanmark"
-work_count: 169
+work_count: 170
 works:
   - title: NTR Anniversary + ) [Syukurin] Mitsuha ~Netorare~ (Kimi no Na wa.) [English]
       [Colorized] by Mikaku
@@ -59,7 +59,7 @@ works:
       - Midsummer promise | Manatsu's Promise
     author: uni18
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/593276.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-22'
     code: 593276
     url: /works/593276/
@@ -1013,7 +1013,7 @@ works:
       Hanashi
     author: mauboumen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680307.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-09-22'
     code: 680307
     url: /works/680307/
@@ -1226,4 +1226,11 @@ works:
     date: '2026-09-20'
     code: 682620
     url: /works/682620/
+  - title: taka-co - NTR妈妈・恭子Remake 1-3话
+    author: taka-co
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683137.jpg
+    rating: 4.6
+    date: '2026-09-22'
+    code: 683137
+    url: /works/683137/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "ponytail"
-work_count: 132
+work_count: 133
 works:
   - title: Hikki Mother Fucker
     author: otochichi
@@ -565,7 +565,7 @@ works:
   - title: LESFES CO SIDE STORIES Remote Days
     author: shakuhachi-nameko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/649307.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-22'
     code: 649307
     url: /works/649307/
@@ -755,7 +755,7 @@ works:
   - title: 'Mom Friend Harem 2 ~Lewd Hot Spring Trip: Filled to the Brim with Cum~'
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/666748.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-22'
     code: 666748
     url: /works/666748/
@@ -834,7 +834,7 @@ works:
   - title: Miki ga Mama ni Natte Ageru
     author: tsurui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678628.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-22'
     code: 678628
     url: /works/678628/
@@ -969,8 +969,15 @@ works:
   - title: Boku ni Onnanoko Oshiete Kudasai! 2 | Please Teach Me How to Be a Girl! 2
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682858.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-22'
     code: 682858
     url: /works/682858/
+  - title: Physical Encounter 01
+    author: yami
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683192.jpg
+    rating: 4.2
+    date: '2026-09-22'
+    code: 683192
+    url: /works/683192/
 ---

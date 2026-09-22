@@ -1,12 +1,12 @@
 ---
 layout: tag
 tag_name: "spanking"
-work_count: 7
+work_count: 8
 works:
   - title: Iraira o Musume no Gakuyuu ni Butsukete Shimatta Hanashi
     author: uni18
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/612498.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-22'
     code: 612498
     url: /works/612498/
@@ -56,4 +56,11 @@ works:
     date: '2026-09-18'
     code: 682203
     url: /works/682203/
+  - title: FORCED ADMISSION UNDER RESTRAINT
+    author: halo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683188.jpg
+    rating: 4.5
+    date: '2026-09-22'
+    code: 683188
+    url: /works/683188/
 ---

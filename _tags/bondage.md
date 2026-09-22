@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bondage"
-work_count: 66
+work_count: 68
 works:
   - title: CHOCO x LOVE
     author: highlow
@@ -93,6 +93,13 @@ works:
     date: '2026-04-17'
     code: 567843
     url: /works/567843/
+  - title: The Prison Idol And Assistant
+    author: halo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/579290.jpg
+    rating: 4.2
+    date: '2026-09-22'
+    code: 579290
+    url: /works/579290/
   - title: Chorozako Kanojo no Aina-chan -Mucchiri Gal to Ichalove H suru Hanashi-
     author: tokyo-gunjo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/580427.jpg
@@ -483,6 +490,13 @@ works:
     date: '2026-09-20'
     code: 682579
     url: /works/682579/
+  - title: FORCED ADMISSION UNDER RESTRAINT
+    author: halo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683188.jpg
+    rating: 4.5
+    date: '2026-09-22'
+    code: 683188
+    url: /works/683188/
   - title: Onee-chan no SM Kouza | Onee-chan's S&M Lecture
     author: shinooka-homare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/88750.jpg

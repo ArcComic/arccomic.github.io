@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "females only"
-work_count: 27
+work_count: 29
 works:
   - title: Hyoui Osen de Yuri Ecchi | Lesbian Sex through Corrupting Possession
     author: siina-yuuki
@@ -35,10 +35,17 @@ works:
   - title: 'LESFES CO Incident: Suspended Account'
     author: remora-works
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/569267.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-22'
     code: 569267
     url: /works/569267/
+  - title: The Prison Idol And Assistant
+    author: halo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/579290.jpg
+    rating: 4.2
+    date: '2026-09-22'
+    code: 579290
+    url: /works/579290/
   - title: Celestial Doll 1-5
     author: mr-kurz
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/595353.jpg
@@ -86,7 +93,7 @@ works:
   - title: LESFES CO SIDE STORIES Remote Days
     author: shakuhachi-nameko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/649307.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-22'
     code: 649307
     url: /works/649307/
@@ -197,4 +204,11 @@ works:
     date: '2026-09-20'
     code: 682527
     url: /works/682527/
+  - title: FORCED ADMISSION UNDER RESTRAINT
+    author: halo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683188.jpg
+    rating: 4.5
+    date: '2026-09-22'
+    code: 683188
+    url: /works/683188/
 ---

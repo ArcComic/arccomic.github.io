@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "no penetration"
-work_count: 28
+work_count: 30
 works:
   - title: Watashi-tachi no Seikoui Tokubetsu Jisshuu -Zengi Hen-
     author: guglielmo
@@ -33,6 +33,13 @@ works:
     date: '2026-09-12'
     code: 573973
     url: /works/573973/
+  - title: The Prison Idol And Assistant
+    author: halo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/579290.jpg
+    rating: 4.2
+    date: '2026-09-22'
+    code: 579290
+    url: /works/579290/
   - title: Asuna family 1-42
     author: zhi-yitiaomiao
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/588660.jpg
@@ -202,8 +209,15 @@ works:
   - title: Boku ni Onnanoko Oshiete Kudasai! 2 | Please Teach Me How to Be a Girl! 2
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682858.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-22'
     code: 682858
     url: /works/682858/
+  - title: FORCED ADMISSION UNDER RESTRAINT
+    author: halo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683188.jpg
+    rating: 4.5
+    date: '2026-09-22'
+    code: 683188
+    url: /works/683188/
 ---
