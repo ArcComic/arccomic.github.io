@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "schoolboy uniform"
-work_count: 72
+work_count: 74
 works:
   - title: FLUFFY LAUGH GIRL
     author: shibasaki-syouzi
@@ -407,7 +407,7 @@ works:
   - title: My Secret With Kyouko Sensei 1 - Kyouko Sensei to Boku no Himitsu
     author: maimu-maimu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/671460.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-20'
     code: 671460
     url: /works/671460/
@@ -529,6 +529,21 @@ works:
     date: '2026-09-18'
     code: 682188
     url: /works/682188/
+  - title: Boku ni Onnanoko Oshiete Kudasai! 2 | Please Teach Me How to Be a Girl! 2
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682858.jpg
+    rating: 0.0
+    date: '2026-09-22'
+    code: 682858
+    url: /works/682858/
+  - title: The World Where Only I Can't Fuck the Class Gyaru | Boku dake ga Class no
+      Ano Ko to Sex dekinai Sekai
+    author: armjaw
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683022.jpg
+    rating: 0.0
+    date: '2026-09-22'
+    code: 683022
+    url: /works/683022/
   - title: Jokyoushi - Hot For Teachers | Female Teachers
     author: drill-murata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/81375.jpg

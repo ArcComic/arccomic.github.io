@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "cheating"
-work_count: 263
+work_count: 266
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -34,7 +34,7 @@ works:
   - title: Imitation Family + Bigibo Hen
     author: tohzai
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/145635.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-20'
     code: 145635
     url: /works/145635/
@@ -124,6 +124,13 @@ works:
     date: '2026-07-17'
     code: 300943
     url: /works/300943/
+  - title: Tsuki ga Noboru | Moonrise
+    author: rocket-monkey
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/307241.jpg
+    rating: 0.0
+    date: '2026-09-22'
+    code: 307241
+    url: /works/307241/
   - title: Itomusubi Vol. 2
     author: bekotarou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/311755.jpg
@@ -264,7 +271,7 @@ works:
   - title: Anatano mama ni naritakute. Ch. 3
     author: agata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/388896.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-20'
     code: 388896
     url: /works/388896/
@@ -864,6 +871,13 @@ works:
     date: '2026-05-03'
     code: 588660
     url: /works/588660/
+  - title: Arifureta Hanashi. | A Common Story.
+    author: mauboumen
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/589318.jpg
+    rating: 0.0
+    date: '2026-09-22'
+    code: 589318
+    url: /works/589318/
   - title: Mesu no Ie II ~Tsuma wa Midare Ubareru~
     author: ame-arare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/591112.jpg
@@ -1440,7 +1454,7 @@ works:
       Choukyou Shiteoite Ageyou
     author: shiwasu-no-okina
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/659204.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-20'
     code: 659204
     url: /works/659204/
@@ -1591,6 +1605,13 @@ works:
     date: '2026-07-17'
     code: 664937
     url: /works/664937/
+  - title: 'Mom Friend Harem 2 ~Lewd Hot Spring Trip: Filled to the Brim with Cum~'
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/666748.jpg
+    rating: 0.0
+    date: '2026-09-22'
+    code: 666748
+    url: /works/666748/
   - title: Niizuma Nanaka no Roshutsu Office
     author: fukurou-naru-tori
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/668605.jpg
@@ -1608,7 +1629,7 @@ works:
   - title: My Secret With Kyouko Sensei 1 - Kyouko Sensei to Boku no Himitsu
     author: maimu-maimu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/671460.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-20'
     code: 671460
     url: /works/671460/
@@ -1912,21 +1933,21 @@ works:
   - title: Namaiki na Musume -Ie no Okane o Nusunda Musume ni Kyouiku Shidou-
     author: marumitei
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682557.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-20'
     code: 682557
     url: /works/682557/
   - title: Giri no Imouto wa Boku no Mono | My Step Sister Is MINE Wife
     author: manatsu-roco
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682559.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-20'
     code: 682559
     url: /works/682559/
   - title: To Corrupt A Wife 1.5
     author: theremin-karino-teru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682577.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-20'
     code: 682577
     url: /works/682577/

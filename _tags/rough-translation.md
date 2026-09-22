@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "rough translation"
-work_count: 482
+work_count: 491
 works:
   - title: Watashi no Karada, Okashi Shimasu. Bunny Girl Edition
     author: nectar
@@ -191,6 +191,14 @@ works:
     date: '2026-09-13'
     code: 528302
     url: /works/528302/
+  - title: Ecchi na Omise ni Ittara Osananajimi ga Detekita Hanashi - Sex Establishment
+      Series
+    author: akahito
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/530567.jpg
+    rating: 0.0
+    date: '2026-09-22'
+    code: 530567
+    url: /works/530567/
   - title: DAME Ch 1-3
     author: zaki-zaraki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/530728.jpg
@@ -1056,7 +1064,7 @@ works:
       of the City
     author: take-shinshi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/643190.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-20'
     code: 643190
     url: /works/643190/
@@ -1555,6 +1563,13 @@ works:
     date: '2026-08-24'
     code: 655291
     url: /works/655291/
+  - title: Okini Mesu Mama! - Dress them as you wish.
+    author: otsumoon
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/655339.jpg
+    rating: 0.0
+    date: '2026-09-22'
+    code: 655339
+    url: /works/655339/
   - title: Karada ga Binkan Sugiru Watashi wa Itoko ni Itazura sarete mo Teikoudekinai!
     author: romomata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/655421.jpg
@@ -2233,6 +2248,13 @@ works:
     date: '2026-08-24'
     code: 666532
     url: /works/666532/
+  - title: 'Mom Friend Harem 2 ~Lewd Hot Spring Trip: Filled to the Brim with Cum~'
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/666748.jpg
+    rating: 0.0
+    date: '2026-09-22'
+    code: 666748
+    url: /works/666748/
   - title: Tora re tsuma ~ harami niku benki ni sa reta oku-sa ~
     author: mokuzou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/667314.jpg
@@ -2310,6 +2332,15 @@ works:
     date: '2026-09-07'
     code: 672835
     url: /works/672835/
+  - title: 'Natsuki no Natsu  Ore no Kyonyuu Osananajimi wa Natsu no Aida ni Otona no
+      Te de Mesu ni Sareteita | Natsuki''s Summer: My Big-Busted Childhood Friend Was
+      Turned Into a Woman by Adult Hands During the Summer'
+    author: armjaw
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673012.jpg
+    rating: 0.0
+    date: '2026-09-22'
+    code: 673012
+    url: /works/673012/
   - title: Yome no Tsurego ni Otosareru Boku | I was Seduced by My Wife's Child from
       a Previous Marriage
     author: sabano-fudeoki
@@ -2359,7 +2390,7 @@ works:
   - title: Daininki Mangaka Ochinpo Tatsuro Sensei wa Tatepaizuri Dekiru noka
     author: monin
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673677.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-20'
     code: 673677
     url: /works/673677/
@@ -2823,6 +2854,13 @@ works:
     date: '2026-09-04'
     code: 677732
     url: /works/677732/
+  - title: Miki ga Mama ni Natte Ageru
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678628.jpg
+    rating: 0.0
+    date: '2026-09-22'
+    code: 678628
+    url: /works/678628/
   - title: Motoyan Hitozuma Taiiku Kyoushi, Onsen Ryokan nite Kyouei Mizugi de Ochiru
       | Former delinquent housewife PE teacher, falls in a hot spring inn while wearing
       a competitive swimsuit
@@ -3060,6 +3098,14 @@ works:
     date: '2026-09-11'
     code: 680187
     url: /works/680187/
+  - title: Karaoke de 100-ten Totta no ni Suki na Ko ga Me no Mae de Yokodori Sex Sareru
+      Hanashi
+    author: mauboumen
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680307.jpg
+    rating: 0.0
+    date: '2026-09-22'
+    code: 680307
+    url: /works/680307/
   - title: Ishiki Takai-kei Toshishita Kachou -Kanzen Kuppuku- TiPer Juushi no Onna
       ga Owaranai Zangyou Sex de Songen
     author: hachi-mega
@@ -3301,6 +3347,15 @@ works:
     date: '2026-09-17'
     code: 681775
     url: /works/681775/
+  - title: Kachiki na Single Mother to Dosukebe Netsuai Seikou 2 ~Asedaku Micchaku Onsen
+      Ryokou~ | Dirty and Passionate Sex with a Single Mother 2 ~A Sweaty & Clinging
+      Hot Spring Getaway
+    author: botamochi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681786.jpg
+    rating: 0.0
+    date: '2026-09-22'
+    code: 681786
+    url: /works/681786/
   - title: oyako NTR fuuzoku | mother & daughter NTR prostitutes - MTL
     author: yuuki-ringo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681844.jpg
@@ -3473,7 +3528,7 @@ works:
   - title: I am a sister
     author: vanilla-type
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682498.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-20'
     code: 682498
     url: /works/682498/
@@ -3481,28 +3536,28 @@ works:
       into a secret relationship with Hifumi.
     author: arisu-kazumi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682545.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-20'
     code: 682545
     url: /works/682545/
   - title: Gal JK to H Gokko
     author: bodaijun
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682551.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-20'
     code: 682551
     url: /works/682551/
   - title: Kayoko ga S ni Ochiru Made - Until Kayoko falls into S.
     author: nichijou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682579.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-20'
     code: 682579
     url: /works/682579/
   - title: Reverse diet
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682597.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-20'
     code: 682597
     url: /works/682597/
@@ -3510,8 +3565,23 @@ works:
       no Hou ga Suuji ga Aru node Okashimasu~
     author: ushigon
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682620.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-09-20'
     code: 682620
     url: /works/682620/
+  - title: Torokesasenaide Danna-sama
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682934.jpg
+    rating: 0.0
+    date: '2026-09-22'
+    code: 682934
+    url: /works/682934/
+  - title: The World Where Only I Can't Fuck the Class Gyaru | Boku dake ga Class no
+      Ano Ko to Sex dekinai Sekai
+    author: armjaw
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683022.jpg
+    rating: 0.0
+    date: '2026-09-22'
+    code: 683022
+    url: /works/683022/
 ---

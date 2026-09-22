@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "hairy"
-work_count: 204
+work_count: 207
 works:
   - title: Adoration
     author: kishizuka-kenji
@@ -13,7 +13,7 @@ works:
   - title: Imitation Family + Bigibo Hen
     author: tohzai
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/145635.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-20'
     code: 145635
     url: /works/145635/
@@ -82,6 +82,13 @@ works:
     date: '2026-04-16'
     code: 304548
     url: /works/304548/
+  - title: Tsuki ga Noboru | Moonrise
+    author: rocket-monkey
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/307241.jpg
+    rating: 0.0
+    date: '2026-09-22'
+    code: 307241
+    url: /works/307241/
   - title: Hyouri no Omoi | Double-Sided Love
     author: suruga-kuroitsu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/333923.jpg
@@ -127,7 +134,7 @@ works:
   - title: Anatano mama ni naritakute. Ch. 3
     author: agata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/388896.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-20'
     code: 388896
     url: /works/388896/
@@ -616,6 +623,13 @@ works:
     date: '2026-09-06'
     code: 589313
     url: /works/589313/
+  - title: Arifureta Hanashi. | A Common Story.
+    author: mauboumen
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/589318.jpg
+    rating: 0.0
+    date: '2026-09-22'
+    code: 589318
+    url: /works/589318/
   - title: Mesu no Ie II ~Tsuma wa Midare Ubareru~
     author: ame-arare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/591112.jpg
@@ -1494,15 +1508,22 @@ works:
   - title: Gal JK to H Gokko
     author: bodaijun
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682551.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-20'
     code: 682551
     url: /works/682551/
   - title: Kayoko ga S ni Ochiru Made - Until Kayoko falls into S.
     author: nichijou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682579.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-20'
     code: 682579
     url: /works/682579/
+  - title: Torokesasenaide Danna-sama
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682934.jpg
+    rating: 0.0
+    date: '2026-09-22'
+    code: 682934
+    url: /works/682934/
 ---

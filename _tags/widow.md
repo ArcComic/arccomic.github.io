@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "widow"
-work_count: 12
+work_count: 14
 works:
   - title: LOOK LIKE
     author: terasu-mc
@@ -70,6 +70,13 @@ works:
     date: '2026-05-27'
     code: 652801
     url: /works/652801/
+  - title: 'Mom Friend Harem 2 ~Lewd Hot Spring Trip: Filled to the Brim with Cum~'
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/666748.jpg
+    rating: 0.0
+    date: '2026-09-22'
+    code: 666748
+    url: /works/666748/
   - title: Boku to Mama wa Love Love nanoni, Sensei to Mechakucha Sex shiteru Hanashi
       | A story about how, despite being all lovey-dovey with my mom, she's having wild
       sex with my teacher.
@@ -87,6 +94,15 @@ works:
     date: '2026-09-13'
     code: 680720
     url: /works/680720/
+  - title: Kachiki na Single Mother to Dosukebe Netsuai Seikou 2 ~Asedaku Micchaku Onsen
+      Ryokou~ | Dirty and Passionate Sex with a Single Mother 2 ~A Sweaty & Clinging
+      Hot Spring Getaway
+    author: botamochi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681786.jpg
+    rating: 0.0
+    date: '2026-09-22'
+    code: 681786
+    url: /works/681786/
   - title: Hottokenaino
     author: hara-shigeyuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/77864.jpg

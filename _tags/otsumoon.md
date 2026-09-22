@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "otsumoon"
-work_count: 1
+work_count: 2
 works:
+  - title: Okini Mesu Mama! - Dress them as you wish.
+    author: otsumoon
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/655339.jpg
+    rating: 0.0
+    date: '2026-09-22'
+    code: 655339
+    url: /works/655339/
   - title: Smile me tender
     author: otsumoon
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/655514.jpg

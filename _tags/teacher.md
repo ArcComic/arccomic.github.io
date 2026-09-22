@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "teacher"
-work_count: 72
+work_count: 73
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -20,7 +20,7 @@ works:
   - title: Watashi ni Mawashite Ura Kairanban
     author: yano-toshinori
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/238471.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-20'
     code: 238471
     url: /works/238471/
@@ -405,10 +405,19 @@ works:
   - title: My Secret With Kyouko Sensei 1 - Kyouko Sensei to Boku no Himitsu
     author: maimu-maimu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/671460.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-20'
     code: 671460
     url: /works/671460/
+  - title: 'Natsuki no Natsu  Ore no Kyonyuu Osananajimi wa Natsu no Aida ni Otona no
+      Te de Mesu ni Sareteita | Natsuki''s Summer: My Big-Busted Childhood Friend Was
+      Turned Into a Woman by Adult Hands During the Summer'
+    author: armjaw
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673012.jpg
+    rating: 0.0
+    date: '2026-09-22'
+    code: 673012
+    url: /works/673012/
   - title: Ichigun Joshi no Otoshikata "Zenpen" - Corrupting the Queen Bee | Corrupting
       the Queen Bee Part 1
     author: gar

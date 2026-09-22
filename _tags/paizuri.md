@@ -848,7 +848,7 @@ works:
       Choukyou Shiteoite Ageyou
     author: shiwasu-no-okina
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/659204.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-20'
     code: 659204
     url: /works/659204/
@@ -988,7 +988,7 @@ works:
   - title: My Secret With Kyouko Sensei 1 - Kyouko Sensei to Boku no Himitsu
     author: maimu-maimu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/671460.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-20'
     code: 671460
     url: /works/671460/
@@ -1269,14 +1269,14 @@ works:
   - title: I am a sister
     author: vanilla-type
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682498.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-20'
     code: 682498
     url: /works/682498/
   - title: Motto Mawashite Ura Kairanban Ch. 1-5
     author: yano-toshinori
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682571.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-09-20'
     code: 682571
     url: /works/682571/

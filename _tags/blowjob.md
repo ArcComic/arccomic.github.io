@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "blowjob"
-work_count: 469
+work_count: 474
 works:
   - title: Office Love Scramble Ch. 1
     author: tohzai
@@ -229,7 +229,7 @@ works:
   - title: Anatano mama ni naritakute. Ch. 3
     author: agata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/388896.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-20'
     code: 388896
     url: /works/388896/
@@ -694,6 +694,14 @@ works:
     date: '2026-07-16'
     code: 530476
     url: /works/530476/
+  - title: Ecchi na Omise ni Ittara Osananajimi ga Detekita Hanashi - Sex Establishment
+      Series
+    author: akahito
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/530567.jpg
+    rating: 0.0
+    date: '2026-09-22'
+    code: 530567
+    url: /works/530567/
   - title: DAME Ch 1-3
     author: zaki-zaraki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/530728.jpg
@@ -1221,6 +1229,13 @@ works:
     date: '2026-04-16'
     code: 599514
     url: /works/599514/
+  - title: Nagoriyuki | Fleeting Snow
+    author: yd
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/599778.jpg
+    rating: 0.0
+    date: '2026-09-22'
+    code: 599778
+    url: /works/599778/
   - title: Hitozuma Takuhaibin 1+2
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/599910.jpg
@@ -1774,7 +1789,7 @@ works:
   - title: Please Take It Out! After
     author: ramanda
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638685.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-20'
     code: 638685
     url: /works/638685/
@@ -2421,6 +2436,13 @@ works:
     date: '2026-09-18'
     code: 654010
     url: /works/654010/
+  - title: Okini Mesu Mama! - Dress them as you wish.
+    author: otsumoon
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/655339.jpg
+    rating: 0.0
+    date: '2026-09-22'
+    code: 655339
+    url: /works/655339/
   - title: A story about a shy childhood friend who can’t say no and ends up being put
       in charge of handling sexual needs.
     author: sakurayu-hal
@@ -2768,6 +2790,13 @@ works:
     date: '2026-09-09'
     code: 665716
     url: /works/665716/
+  - title: 'Mom Friend Harem 2 ~Lewd Hot Spring Trip: Filled to the Brim with Cum~'
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/666748.jpg
+    rating: 0.0
+    date: '2026-09-22'
+    code: 666748
+    url: /works/666748/
   - title: A Saleswoman Interrupted Me While I Was Jerking-Off -- Genkan o Aketara Iru
       Kanyuu Oba-san
     author: chotto-b-sen
@@ -3397,7 +3426,7 @@ works:
   - title: Torawareta joi tsuma _ Trapped Doctor
     author: hikitogu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681566.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-20'
     code: 681566
     url: /works/681566/
@@ -3446,7 +3475,7 @@ works:
   - title: I am a sister
     author: vanilla-type
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682498.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-20'
     code: 682498
     url: /works/682498/
@@ -3454,31 +3483,38 @@ works:
       Part 1
     author: hikitogu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682524.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-09-20'
     code: 682524
     url: /works/682524/
   - title: Motto Mawashite Ura Kairanban Ch. 1-5
     author: yano-toshinori
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682571.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-09-20'
     code: 682571
     url: /works/682571/
   - title: To Corrupt A Wife 1.5
     author: theremin-karino-teru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682577.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-20'
     code: 682577
     url: /works/682577/
   - title: Kayoko ga S ni Ochiru Made - Until Kayoko falls into S.
     author: nichijou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682579.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-20'
     code: 682579
     url: /works/682579/
+  - title: Torokesasenaide Danna-sama
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682934.jpg
+    rating: 0.0
+    date: '2026-09-22'
+    code: 682934
+    url: /works/682934/
   - title: Jokyoushi - Hot For Teachers | Female Teachers
     author: drill-murata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/81375.jpg

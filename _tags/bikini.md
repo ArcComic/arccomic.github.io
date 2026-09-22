@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bikini"
-work_count: 62
+work_count: 63
 works:
   - title: Kizashi
     author: yoshiura-kazuya
@@ -17,6 +17,13 @@ works:
     date: '2026-03-04'
     code: 292454
     url: /works/292454/
+  - title: Tsuki ga Noboru | Moonrise
+    author: rocket-monkey
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/307241.jpg
+    rating: 0.0
+    date: '2026-09-22'
+    code: 307241
+    url: /works/307241/
   - title: CHOCO x LOVE
     author: highlow
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/317673.jpg
@@ -254,7 +261,7 @@ works:
   - title: I Became the Master of My Arrogant Busty Boss!? 03
     author: sazanami-wasabi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/657952.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-20'
     code: 657952
     url: /works/657952/
@@ -471,14 +478,14 @@ works:
       Songen o Ushinau Cool Joshidaisei~
     author: takahashi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682527.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-20'
     code: 682527
     url: /works/682527/
   - title: CosBare -Takabisha na Kyonyuu Joushi no "Goshujin-sama" ni Narimashita!?-
     author: sazanami-wasabi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682600.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-20'
     code: 682600
     url: /works/682600/

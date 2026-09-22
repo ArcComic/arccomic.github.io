@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "full color"
-work_count: 182
+work_count: 184
 works:
   - title: Tsuma wo Yariman ni Shimasu Shakkin no Tame desu kara.
     author: pietoro
@@ -60,6 +60,13 @@ works:
     date: '2026-08-23'
     code: 375962
     url: /works/375962/
+  - title: FANTASY DIARY
+    author: yd
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/386119.jpg
+    rating: 0.0
+    date: '2026-09-22'
+    code: 386119
+    url: /works/386119/
   - title: Shiraishi-san Wa Yokkyu Fuman | Shiraishi-san's Frustrated
     author: carburetor
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/392617.jpg
@@ -608,6 +615,13 @@ works:
     date: '2026-04-25'
     code: 593754
     url: /works/593754/
+  - title: Nagoriyuki | Fleeting Snow
+    author: yd
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/599778.jpg
+    rating: 0.0
+    date: '2026-09-22'
+    code: 599778
+    url: /works/599778/
   - title: Cool na Niizuma to no Shinkon Seikatsu wa Amari ni mo... Yarashikatta  |
       Our Kinky Newlywed Life Vol. 1-3
     author: nanakusa-amane
@@ -1272,7 +1286,7 @@ works:
   - title: Torawareta joi tsuma _ Trapped Doctor
     author: hikitogu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681566.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-20'
     code: 681566
     url: /works/681566/
@@ -1330,7 +1344,7 @@ works:
       Songen o Ushinau Cool Joshidaisei~
     author: takahashi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682527.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-20'
     code: 682527
     url: /works/682527/

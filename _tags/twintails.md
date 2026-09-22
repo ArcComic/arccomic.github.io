@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "twintails"
-work_count: 104
+work_count: 106
 works:
   - title: Sensei wa Shougakusei ga Suki | Sensei Loves Elementary Schoolers
     author: fuyuno-mikan
@@ -26,6 +26,13 @@ works:
     date: '2026-07-13'
     code: 358168
     url: /works/358168/
+  - title: Osananajimi no Otou-san ni.
+    author: uni18
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/381875.jpg
+    rating: 0.0
+    date: '2026-09-22'
+    code: 381875
+    url: /works/381875/
   - title: sequence irekaeru futari no karada
     author: iwashita
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/414040.jpg
@@ -287,7 +294,7 @@ works:
       of the City
     author: take-shinshi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/643190.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-20'
     code: 643190
     url: /works/643190/
@@ -753,7 +760,7 @@ works:
       Part 1
     author: hikitogu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682524.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-09-20'
     code: 682524
     url: /works/682524/
@@ -761,7 +768,7 @@ works:
       Songen o Ushinau Cool Joshidaisei~
     author: takahashi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682527.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-20'
     code: 682527
     url: /works/682527/
@@ -769,8 +776,15 @@ works:
       into a secret relationship with Hifumi.
     author: arisu-kazumi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682545.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-20'
     code: 682545
     url: /works/682545/
+  - title: Boku ni Onnanoko Oshiete Kudasai! 2 | Please Teach Me How to Be a Girl! 2
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682858.jpg
+    rating: 0.0
+    date: '2026-09-22'
+    code: 682858
+    url: /works/682858/
 ---

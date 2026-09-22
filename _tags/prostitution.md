@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "prostitution"
-work_count: 51
+work_count: 52
 works:
   - title: Yuri no o saifu ni shite agemasu ne, Senpai | I'll turn you into Yuri's wallet,
       Senpai
@@ -79,6 +79,14 @@ works:
     date: '2026-09-11'
     code: 528308
     url: /works/528308/
+  - title: Ecchi na Omise ni Ittara Osananajimi ga Detekita Hanashi - Sex Establishment
+      Series
+    author: akahito
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/530567.jpg
+    rating: 0.0
+    date: '2026-09-22'
+    code: 530567
+    url: /works/530567/
   - title: Ai wa Oshiminaku | Love is given without reservation
     author: yoshika
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/539377.jpg
@@ -371,7 +379,7 @@ works:
   - title: To Corrupt A Wife 1.5
     author: theremin-karino-teru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682577.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-20'
     code: 682577
     url: /works/682577/

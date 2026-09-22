@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "stockings"
-work_count: 170
+work_count: 172
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -48,7 +48,7 @@ works:
   - title: Watashi ni Mawashite Ura Kairanban
     author: yano-toshinori
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/238471.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-20'
     code: 238471
     url: /works/238471/
@@ -756,6 +756,13 @@ works:
     date: '2026-05-27'
     code: 652801
     url: /works/652801/
+  - title: Okini Mesu Mama! - Dress them as you wish.
+    author: otsumoon
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/655339.jpg
+    rating: 0.0
+    date: '2026-09-22'
+    code: 655339
+    url: /works/655339/
   - title: Te o Dashitara Tsumu Bitch Onna to Suru Sex ga Ichiban Kimochi Ii!! | Sex
       with a Toxic Bitch who will Ruin Your Life is the Absolute Best!!
     author: alpha-beta
@@ -767,7 +774,7 @@ works:
   - title: I Became the Master of My Arrogant Busty Boss!? 02
     author: sazanami-wasabi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/656681.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-20'
     code: 656681
     url: /works/656681/
@@ -999,7 +1006,7 @@ works:
   - title: My Secret With Kyouko Sensei 1 - Kyouko Sensei to Boku no Himitsu
     author: maimu-maimu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/671460.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-20'
     code: 671460
     url: /works/671460/
@@ -1240,17 +1247,24 @@ works:
   - title: Motto Mawashite Ura Kairanban Ch. 1-5
     author: yano-toshinori
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682571.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-09-20'
     code: 682571
     url: /works/682571/
   - title: CosBare -Takabisha na Kyonyuu Joushi no "Goshujin-sama" ni Narimashita!?-
     author: sazanami-wasabi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682600.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-20'
     code: 682600
     url: /works/682600/
+  - title: Torokesasenaide Danna-sama
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682934.jpg
+    rating: 0.0
+    date: '2026-09-22'
+    code: 682934
+    url: /works/682934/
   - title: Jokyoushi - Hot For Teachers | Female Teachers
     author: drill-murata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/81375.jpg

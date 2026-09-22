@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "scanmark"
-work_count: 167
+work_count: 169
 works:
   - title: NTR Anniversary + ) [Syukurin] Mitsuha ~Netorare~ (Kimi no Na wa.) [English]
       [Colorized] by Mikaku
@@ -55,6 +55,14 @@ works:
     date: '2026-08-24'
     code: 584934
     url: /works/584934/
+  - title: Manatsu no Chigiri ~ Tawamure ni Yogosareta Mizugi no Shita no Seiso Hada
+      - Midsummer promise | Manatsu's Promise
+    author: uni18
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/593276.jpg
+    rating: 0.0
+    date: '2026-09-22'
+    code: 593276
+    url: /works/593276/
   - title: Tsuma ni Ani to Kozukuri Shite Moraimashita
     author: furaimai
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/616367.jpg
@@ -290,7 +298,7 @@ works:
       of the City
     author: take-shinshi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/643190.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-20'
     code: 643190
     url: /works/643190/
@@ -735,7 +743,7 @@ works:
   - title: Daininki Mangaka Ochinpo Tatsuro Sensei wa Tatepaizuri Dekiru noka
     author: monin
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673677.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-20'
     code: 673677
     url: /works/673677/
@@ -1001,6 +1009,14 @@ works:
     date: '2026-09-09'
     code: 679778
     url: /works/679778/
+  - title: Karaoke de 100-ten Totta no ni Suki na Ko ga Me no Mae de Yokodori Sex Sareru
+      Hanashi
+    author: mauboumen
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680307.jpg
+    rating: 0.0
+    date: '2026-09-22'
+    code: 680307
+    url: /works/680307/
   - title: Oman control
     author: kijima-daisyarin-yoisho53
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680312.jpg
@@ -1198,7 +1214,7 @@ works:
   - title: Reverse diet
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682597.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-20'
     code: 682597
     url: /works/682597/
@@ -1206,7 +1222,7 @@ works:
       no Hou ga Suuji ga Aru node Okashimasu~
     author: ushigon
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682620.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-09-20'
     code: 682620
     url: /works/682620/

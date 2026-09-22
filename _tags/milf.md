@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "milf"
-work_count: 331
+work_count: 334
 works:
   - title: Life with Married Women Just Like a Manga 2 - Ch. 1-5
     author: hidemaru
@@ -41,7 +41,7 @@ works:
   - title: Imitation Family + Bigibo Hen
     author: tohzai
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/145635.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-20'
     code: 145635
     url: /works/145635/
@@ -84,7 +84,7 @@ works:
   - title: Watashi ni Mawashite Ura Kairanban
     author: yano-toshinori
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/238471.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-20'
     code: 238471
     url: /works/238471/
@@ -284,7 +284,7 @@ works:
   - title: Anatano mama ni naritakute. Ch. 3
     author: agata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/388896.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-20'
     code: 388896
     url: /works/388896/
@@ -1708,6 +1708,13 @@ works:
     date: '2026-05-10'
     code: 648952
     url: /works/648952/
+  - title: LESFES CO SIDE STORIES Remote Days
+    author: shakuhachi-nameko
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/649307.jpg
+    rating: 0.0
+    date: '2026-09-22'
+    code: 649307
+    url: /works/649307/
   - title: Musume no Kawari ni | Instead of My Daughter
     author: nanao-yukiji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651309.jpg
@@ -1864,7 +1871,7 @@ works:
       Choukyou Shiteoite Ageyou
     author: shiwasu-no-okina
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/659204.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-20'
     code: 659204
     url: /works/659204/
@@ -2086,6 +2093,13 @@ works:
     date: '2026-08-24'
     code: 666532
     url: /works/666532/
+  - title: 'Mom Friend Harem 2 ~Lewd Hot Spring Trip: Filled to the Brim with Cum~'
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/666748.jpg
+    rating: 0.0
+    date: '2026-09-22'
+    code: 666748
+    url: /works/666748/
   - title: A Saleswoman Interrupted Me While I Was Jerking-Off -- Genkan o Aketara Iru
       Kanyuu Oba-san
     author: chotto-b-sen
@@ -2113,7 +2127,7 @@ works:
   - title: My Secret With Kyouko Sensei 1 - Kyouko Sensei to Boku no Himitsu
     author: maimu-maimu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/671460.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-20'
     code: 671460
     url: /works/671460/
@@ -2390,6 +2404,15 @@ works:
     date: '2026-09-15'
     code: 681329
     url: /works/681329/
+  - title: Kachiki na Single Mother to Dosukebe Netsuai Seikou 2 ~Asedaku Micchaku Onsen
+      Ryokou~ | Dirty and Passionate Sex with a Single Mother 2 ~A Sweaty & Clinging
+      Hot Spring Getaway
+    author: botamochi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681786.jpg
+    rating: 0.0
+    date: '2026-09-22'
+    code: 681786
+    url: /works/681786/
   - title: Kyou kara, Hitozuma Mansion ni Nyuukyo shimasu - CHAPTER 1-14
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681897.jpg
@@ -2423,7 +2446,7 @@ works:
       Part 1
     author: hikitogu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682524.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-09-20'
     code: 682524
     url: /works/682524/

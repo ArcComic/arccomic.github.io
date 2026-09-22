@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "multi-work series"
-work_count: 272
+work_count: 276
 works:
   - title: Oppai na Natsuyasumi 2 | The Summer Break of Boobs 2
     author: higashino-mikan
@@ -683,6 +683,14 @@ works:
     date: '2026-04-23'
     code: 593064
     url: /works/593064/
+  - title: Manatsu no Chigiri ~ Tawamure ni Yogosareta Mizugi no Shita no Seiso Hada
+      - Midsummer promise | Manatsu's Promise
+    author: uni18
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/593276.jpg
+    rating: 0.0
+    date: '2026-09-22'
+    code: 593276
+    url: /works/593276/
   - title: 'Kaa-chan to Sex Shinai to Derarenai Heya ~Kuchiurusai Haha to Hankouki no
       Ore~ | A Room I Can''t Leave Without Having Incestuous Sex With My Mom: My Nagging
       Mother and Rebellious Me'
@@ -1358,14 +1366,14 @@ works:
   - title: I Became the Master of My Arrogant Busty Boss!? 02
     author: sazanami-wasabi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/656681.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-20'
     code: 656681
     url: /works/656681/
   - title: I Became the Master of My Arrogant Busty Boss!? 03
     author: sazanami-wasabi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/657952.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-20'
     code: 657952
     url: /works/657952/
@@ -1549,6 +1557,13 @@ works:
     date: '2026-07-16'
     code: 664845
     url: /works/664845/
+  - title: 'Mom Friend Harem 2 ~Lewd Hot Spring Trip: Filled to the Brim with Cum~'
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/666748.jpg
+    rating: 0.0
+    date: '2026-09-22'
+    code: 666748
+    url: /works/666748/
   - title: Nakadashi Oji-san ni Nerawareta Mesu wa Nigeru Koto ga Dekinai ~Fujitomo
       Megumi Hen 2~ | A Woman Can't Get Away After Being Targeted By This Horny Old
       Man - Fujitomo Megumi Edition Vol.2 [English] =White Symphony=
@@ -1987,6 +2002,15 @@ works:
     date: '2026-09-17'
     code: 681724
     url: /works/681724/
+  - title: Kachiki na Single Mother to Dosukebe Netsuai Seikou 2 ~Asedaku Micchaku Onsen
+      Ryokou~ | Dirty and Passionate Sex with a Single Mother 2 ~A Sweaty & Clinging
+      Hot Spring Getaway
+    author: botamochi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681786.jpg
+    rating: 0.0
+    date: '2026-09-22'
+    code: 681786
+    url: /works/681786/
   - title: Sanrou -Joukyuu Kokumin no Tsuma ni Tanetsuke Suru Houhou- "NTR" | ~How to
       Impregnate the Wife of a High-Ranking Citizen~
     author: yuuki-ringo
@@ -2020,7 +2044,7 @@ works:
       Part 1
     author: hikitogu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682524.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-09-20'
     code: 682524
     url: /works/682524/
@@ -2028,15 +2052,22 @@ works:
       datte Shitteru no wa Ore dake?! | One Dick to Rule Them All
     author: shiwasu-no-okina
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682568.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-20'
     code: 682568
     url: /works/682568/
   - title: To Corrupt A Wife 1.5
     author: theremin-karino-teru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682577.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-20'
     code: 682577
     url: /works/682577/
+  - title: Isekai fukushu ~ore o ijimeta yatsura o saikyo sukiru de shihai suru~ 04
+    author: senakagashiri
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683013.jpg
+    rating: 0.0
+    date: '2026-09-22'
+    code: 683013
+    url: /works/683013/
 ---

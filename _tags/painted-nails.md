@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "painted nails"
-work_count: 30
+work_count: 32
 works:
   - title: Rakki Taishyaku
     author: fushoku
@@ -140,6 +140,13 @@ works:
     date: '2026-05-01'
     code: 647270
     url: /works/647270/
+  - title: Okini Mesu Mama! - Dress them as you wish.
+    author: otsumoon
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/655339.jpg
+    rating: 0.0
+    date: '2026-09-22'
+    code: 655339
+    url: /works/655339/
   - title: 'Jirai Inu-kei Kanojo #Kimi to Tsunagaritai Jirai de Inukei de Juujun na
       Kimi dake no Pet | Jirai-kei Puppy Girlfriend'
     author: shimofuji-jun
@@ -220,8 +227,15 @@ works:
   - title: To Corrupt A Wife 1.5
     author: theremin-karino-teru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682577.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-20'
     code: 682577
     url: /works/682577/
+  - title: Torokesasenaide Danna-sama
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682934.jpg
+    rating: 0.0
+    date: '2026-09-22'
+    code: 682934
+    url: /works/682934/
 ---

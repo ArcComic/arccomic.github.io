@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "no penetration"
-work_count: 27
+work_count: 28
 works:
   - title: Watashi-tachi no Seikoui Tokubetsu Jisshuu -Zengi Hen-
     author: guglielmo
@@ -195,8 +195,15 @@ works:
       Songen o Ushinau Cool Joshidaisei~
     author: takahashi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682527.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-20'
     code: 682527
     url: /works/682527/
+  - title: Boku ni Onnanoko Oshiete Kudasai! 2 | Please Teach Me How to Be a Girl! 2
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682858.jpg
+    rating: 0.0
+    date: '2026-09-22'
+    code: 682858
+    url: /works/682858/
 ---

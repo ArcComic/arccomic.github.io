@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "ffm threesome"
-work_count: 96
+work_count: 98
 works:
   - title: Hustle! Danchizuma Ch. 1-18 END
     author: hidemaru
@@ -20,7 +20,7 @@ works:
   - title: Watashi ni Mawashite Ura Kairanban
     author: yano-toshinori
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/238471.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-20'
     code: 238471
     url: /works/238471/
@@ -301,7 +301,7 @@ works:
   - title: Please Take It Out! After
     author: ramanda
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638685.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-20'
     code: 638685
     url: /works/638685/
@@ -543,6 +543,13 @@ works:
     date: '2026-07-17'
     code: 664937
     url: /works/664937/
+  - title: 'Mom Friend Harem 2 ~Lewd Hot Spring Trip: Filled to the Brim with Cum~'
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/666748.jpg
+    rating: 0.0
+    date: '2026-09-22'
+    code: 666748
+    url: /works/666748/
   - title: Totsuzen Ane ga Dekita Hanashi 4 | The Story of How I Suddenly Got Older
       Sisters 4
     author: oshima-aki
@@ -713,8 +720,15 @@ works:
   - title: To Corrupt A Wife 1.5
     author: theremin-karino-teru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682577.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-20'
     code: 682577
     url: /works/682577/
+  - title: Boku ni Onnanoko Oshiete Kudasai! 2 | Please Teach Me How to Be a Girl! 2
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682858.jpg
+    rating: 0.0
+    date: '2026-09-22'
+    code: 682858
+    url: /works/682858/
 ---

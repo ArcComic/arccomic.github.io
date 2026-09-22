@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "netorare"
-work_count: 300
+work_count: 307
 works:
+  - title: Kousa suru Osu to Mesu | Male and Female Crossing
+    author: ootsuka-kotora
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/13296.jpg
+    rating: 0.0
+    date: '2026-09-22'
+    code: 13296
+    url: /works/13296/
   - title: Hitozuma Hyakka
     author: hase-tsubura
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/190410.jpg
@@ -74,6 +81,13 @@ works:
     date: '2026-07-17'
     code: 300943
     url: /works/300943/
+  - title: Tsuki ga Noboru | Moonrise
+    author: rocket-monkey
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/307241.jpg
+    rating: 0.0
+    date: '2026-09-22'
+    code: 307241
+    url: /works/307241/
   - title: Itomusubi Vol. 2
     author: bekotarou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/311755.jpg
@@ -806,6 +820,13 @@ works:
     date: '2026-05-03'
     code: 588660
     url: /works/588660/
+  - title: Arifureta Hanashi. | A Common Story.
+    author: mauboumen
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/589318.jpg
+    rating: 0.0
+    date: '2026-09-22'
+    code: 589318
+    url: /works/589318/
   - title: Mesu no Ie II ~Tsuma wa Midare Ubareru~
     author: ame-arare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/591112.jpg
@@ -820,6 +841,14 @@ works:
     date: '2026-04-23'
     code: 593064
     url: /works/593064/
+  - title: Manatsu no Chigiri ~ Tawamure ni Yogosareta Mizugi no Shita no Seiso Hada
+      - Midsummer promise | Manatsu's Promise
+    author: uni18
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/593276.jpg
+    rating: 0.0
+    date: '2026-09-22'
+    code: 593276
+    url: /works/593276/
   - title: Yuujin no Haha wa Dekachin ni Yowai | My Friend's Mom is Weak to a Huge Cock
     author: shimofuri
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/593575.jpg
@@ -1154,7 +1183,7 @@ works:
       of the City
     author: take-shinshi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/643190.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-20'
     code: 643190
     url: /works/643190/
@@ -1488,7 +1517,7 @@ works:
       Choukyou Shiteoite Ageyou
     author: shiwasu-no-okina
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/659204.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-20'
     code: 659204
     url: /works/659204/
@@ -1760,7 +1789,7 @@ works:
   - title: My Secret With Kyouko Sensei 1 - Kyouko Sensei to Boku no Himitsu
     author: maimu-maimu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/671460.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-20'
     code: 671460
     url: /works/671460/
@@ -1785,6 +1814,15 @@ works:
     date: '2026-09-07'
     code: 672835
     url: /works/672835/
+  - title: 'Natsuki no Natsu  Ore no Kyonyuu Osananajimi wa Natsu no Aida ni Otona no
+      Te de Mesu ni Sareteita | Natsuki''s Summer: My Big-Busted Childhood Friend Was
+      Turned Into a Woman by Adult Hands During the Summer'
+    author: armjaw
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673012.jpg
+    rating: 0.0
+    date: '2026-09-22'
+    code: 673012
+    url: /works/673012/
   - title: Ichigun Joshi no Otoshikata "Zenpen" - Corrupting the Queen Bee | Corrupting
       the Queen Bee Part 1
     author: gar
@@ -2030,6 +2068,14 @@ works:
     date: '2026-09-10'
     code: 680219
     url: /works/680219/
+  - title: Karaoke de 100-ten Totta no ni Suki na Ko ga Me no Mae de Yokodori Sex Sareru
+      Hanashi
+    author: mauboumen
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680307.jpg
+    rating: 0.0
+    date: '2026-09-22'
+    code: 680307
+    url: /works/680307/
   - title: Fucking slut ~Welcome to the training room~ MTL
     author: mabo-nasu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680326.jpg
@@ -2107,7 +2153,7 @@ works:
   - title: Torawareta joi tsuma _ Trapped Doctor
     author: hikitogu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681566.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-20'
     code: 681566
     url: /works/681566/
@@ -2195,14 +2241,14 @@ works:
       Part 1
     author: hikitogu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682524.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-09-20'
     code: 682524
     url: /works/682524/
   - title: To Corrupt A Wife 1.5
     author: theremin-karino-teru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682577.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-20'
     code: 682577
     url: /works/682577/
@@ -2210,10 +2256,18 @@ works:
       01
     author: en
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682613.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-20'
     code: 682613
     url: /works/682613/
+  - title: The World Where Only I Can't Fuck the Class Gyaru | Boku dake ga Class no
+      Ano Ko to Sex dekinai Sekai
+    author: armjaw
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683022.jpg
+    rating: 0.0
+    date: '2026-09-22'
+    code: 683022
+    url: /works/683022/
   - title: Inin Keiyaku | Lewd Pregnancy Contract
     author: yoshiura-kazuya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/83595.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "dilf"
-work_count: 141
+work_count: 144
 works:
   - title: Adoration
     author: kishizuka-kenji
@@ -67,6 +67,13 @@ works:
     date: '2026-09-09'
     code: 306363
     url: /works/306363/
+  - title: Tsuki ga Noboru | Moonrise
+    author: rocket-monkey
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/307241.jpg
+    rating: 0.0
+    date: '2026-09-22'
+    code: 307241
+    url: /works/307241/
   - title: Tsumareta Ikoku no Hana II
     author: darabuchi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/315693.jpg
@@ -117,6 +124,13 @@ works:
     date: '2026-03-09'
     code: 361032
     url: /works/361032/
+  - title: Osananajimi no Otou-san ni.
+    author: uni18
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/381875.jpg
+    rating: 0.0
+    date: '2026-09-22'
+    code: 381875
+    url: /works/381875/
   - title: LOOK LIKE
     author: terasu-mc
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/388099.jpg
@@ -440,6 +454,13 @@ works:
     date: '2026-03-03'
     code: 611701
     url: /works/611701/
+  - title: Iraira o Musume no Gakuyuu ni Butsukete Shimatta Hanashi
+    author: uni18
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/612498.jpg
+    rating: 0.0
+    date: '2026-09-22'
+    code: 612498
+    url: /works/612498/
   - title: Mesu Etsu Toiki Nemoto made Fukaku…
     author: drill-murata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/612957.jpg
@@ -579,7 +600,7 @@ works:
       of the City
     author: take-shinshi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/643190.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-20'
     code: 643190
     url: /works/643190/
@@ -1030,7 +1051,7 @@ works:
   - title: Namaiki na Musume -Ie no Okane o Nusunda Musume ni Kyouiku Shidou-
     author: marumitei
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682557.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-20'
     code: 682557
     url: /works/682557/

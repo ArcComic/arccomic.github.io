@@ -1,8 +1,14 @@
 ---
 layout: artist
 artist_name: "ootsuka-kotora"
-work_count: 3
+work_count: 4
 works:
+  - title: Kousa suru Osu to Mesu | Male and Female Crossing
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/13296.jpg
+    rating: 0.0
+    date: '2026-09-22'
+    code: 13296
+    url: /works/13296/
   - title: '"Yoyaku Shimasu ka? Asashio no Onaka"'
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/509474.jpg
     rating: 4.9

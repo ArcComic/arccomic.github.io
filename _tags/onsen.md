@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "onsen"
-work_count: 10
+work_count: 11
 works:
   - title: Boshi Futari Gurashi Dai Go Shou 5 Souai
     author: fuwatoro-opanchu-cake
@@ -72,10 +72,19 @@ works:
     date: '2026-09-05'
     code: 678648
     url: /works/678648/
+  - title: Kachiki na Single Mother to Dosukebe Netsuai Seikou 2 ~Asedaku Micchaku Onsen
+      Ryokou~ | Dirty and Passionate Sex with a Single Mother 2 ~A Sweaty & Clinging
+      Hot Spring Getaway
+    author: botamochi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681786.jpg
+    rating: 0.0
+    date: '2026-09-22'
+    code: 681786
+    url: /works/681786/
   - title: CosBare -Takabisha na Kyonyuu Joushi no "Goshujin-sama" ni Narimashita!?-
     author: sazanami-wasabi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682600.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-20'
     code: 682600
     url: /works/682600/

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "tribadism"
-work_count: 10
+work_count: 12
 works:
   - title: Gekkoutou no Yume - Nyotaika Douwa ~Danshi Kinsei no Tou~
     author: mugen-no-sudadokei
@@ -17,6 +17,13 @@ works:
     date: '2026-09-13'
     code: 404458
     url: /works/404458/
+  - title: 'LESFES CO Incident: Suspended Account'
+    author: remora-works
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/569267.jpg
+    rating: 0.0
+    date: '2026-09-22'
+    code: 569267
+    url: /works/569267/
   - title: Celestial Doll 1-5
     author: mr-kurz
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/595353.jpg
@@ -40,6 +47,13 @@ works:
     date: '2026-04-30'
     code: 646967
     url: /works/646967/
+  - title: LESFES CO SIDE STORIES Remote Days
+    author: shakuhachi-nameko
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/649307.jpg
+    rating: 0.0
+    date: '2026-09-22'
+    code: 649307
+    url: /works/649307/
   - title: IPU - Invisible Pink Unicorn
     author: masaki-kazuyoshi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/674268.jpg

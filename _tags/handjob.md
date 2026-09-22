@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "handjob"
-work_count: 98
+work_count: 99
 works:
   - title: Yuri no o saifu ni shite agemasu ne, Senpai | I'll turn you into Yuri's wallet,
       Senpai
@@ -341,7 +341,7 @@ works:
   - title: Please Take It Out! After
     author: ramanda
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638685.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-20'
     code: 638685
     url: /works/638685/
@@ -588,6 +588,13 @@ works:
     date: '2026-07-16'
     code: 664853
     url: /works/664853/
+  - title: 'Mom Friend Harem 2 ~Lewd Hot Spring Trip: Filled to the Brim with Cum~'
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/666748.jpg
+    rating: 0.0
+    date: '2026-09-22'
+    code: 666748
+    url: /works/666748/
   - title: Nuite Moraimakuri Nyuuin Seikatsu ~Tasuketa Cool-Gyaru wa Jitsu wa Sukebe
       deshita~
     author: gujira
@@ -717,21 +724,21 @@ works:
       into a secret relationship with Hifumi.
     author: arisu-kazumi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682545.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-20'
     code: 682545
     url: /works/682545/
   - title: To Corrupt A Wife 1.5
     author: theremin-karino-teru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682577.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-20'
     code: 682577
     url: /works/682577/
   - title: Kayoko ga S ni Ochiru Made - Until Kayoko falls into S.
     author: nichijou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682579.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-20'
     code: 682579
     url: /works/682579/

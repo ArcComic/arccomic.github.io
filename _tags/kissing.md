@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "kissing"
-work_count: 259
+work_count: 261
 works:
   - title: FLUFFY LAUGH GIRL
     author: shibasaki-syouzi
@@ -46,6 +46,13 @@ works:
     date: '2026-09-06'
     code: 370164
     url: /works/370164/
+  - title: Osananajimi no Otou-san ni.
+    author: uni18
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/381875.jpg
+    rating: 0.0
+    date: '2026-09-22'
+    code: 381875
+    url: /works/381875/
   - title: Toshishita Chin Kui Obasan
     author: maccha-neji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/387637.jpg
@@ -1008,7 +1015,7 @@ works:
   - title: Please Take It Out! After
     author: ramanda
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638685.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-20'
     code: 638685
     url: /works/638685/
@@ -1411,6 +1418,13 @@ works:
     date: '2026-09-09'
     code: 655077
     url: /works/655077/
+  - title: Okini Mesu Mama! - Dress them as you wish.
+    author: otsumoon
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/655339.jpg
+    rating: 0.0
+    date: '2026-09-22'
+    code: 655339
+    url: /works/655339/
   - title: Tonari no Ayane-san Soushuuhen | My Neighbor Ayane Anthology
     author: herio
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/656319.jpg
@@ -1943,7 +1957,7 @@ works:
       datte Shitteru no wa Ore dake?! | One Dick to Rule Them All
     author: shiwasu-no-okina
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682568.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-20'
     code: 682568
     url: /works/682568/

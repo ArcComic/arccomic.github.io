@@ -346,13 +346,13 @@ works:
   - title: Hatsujou Usagi wa Mangetsu no Yoru ni Koubi suru | A Rabbit In Heat Breeds
       Under The Full Moon
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682586.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-20'
     code: 682586
     url: /works/682586/
   - title: Reverse diet
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682597.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-20'
     code: 682597
     url: /works/682597/

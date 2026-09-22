@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "story arc"
-work_count: 152
+work_count: 153
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -48,7 +48,7 @@ works:
   - title: Watashi ni Mawashite Ura Kairanban
     author: yano-toshinori
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/238471.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-20'
     code: 238471
     url: /works/238471/
@@ -1115,10 +1115,17 @@ works:
       Part 1
     author: hikitogu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682524.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-09-20'
     code: 682524
     url: /works/682524/
+  - title: Isekai fukushu ~ore o ijimeta yatsura o saikyo sukiru de shihai suru~ 04
+    author: senakagashiri
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683013.jpg
+    rating: 0.0
+    date: '2026-09-22'
+    code: 683013
+    url: /works/683013/
   - title: Hottokenaino
     author: hara-shigeyuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/77864.jpg

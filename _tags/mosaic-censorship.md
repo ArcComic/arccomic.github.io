@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "mosaic censorship"
-work_count: 242
+work_count: 247
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -126,6 +126,13 @@ works:
     date: '2026-08-23'
     code: 375962
     url: /works/375962/
+  - title: Osananajimi no Otou-san ni.
+    author: uni18
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/381875.jpg
+    rating: 0.0
+    date: '2026-09-22'
+    code: 381875
+    url: /works/381875/
   - title: Toshishita Chin Kui Obasan
     author: maccha-neji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/387637.jpg
@@ -709,6 +716,13 @@ works:
     date: '2026-09-06'
     code: 589313
     url: /works/589313/
+  - title: Arifureta Hanashi. | A Common Story.
+    author: mauboumen
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/589318.jpg
+    rating: 0.0
+    date: '2026-09-22'
+    code: 589318
+    url: /works/589318/
   - title: Nyuuin-chuu no Muramura wa Okaa-san de... 2
     author: natsume-benkei
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/592039.jpg
@@ -716,6 +730,14 @@ works:
     date: '2026-09-09'
     code: 592039
     url: /works/592039/
+  - title: Manatsu no Chigiri ~ Tawamure ni Yogosareta Mizugi no Shita no Seiso Hada
+      - Midsummer promise | Manatsu's Promise
+    author: uni18
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/593276.jpg
+    rating: 0.0
+    date: '2026-09-22'
+    code: 593276
+    url: /works/593276/
   - title: '"Yasashii Dake no Otoko" to Tsuma ni Sute Raretanode... | My Wife Left Me
       Because I was "Too Gentle"...'
     author: special-g
@@ -789,6 +811,13 @@ works:
     date: '2026-04-14'
     code: 612083
     url: /works/612083/
+  - title: Iraira o Musume no Gakuyuu ni Butsukete Shimatta Hanashi
+    author: uni18
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/612498.jpg
+    rating: 0.0
+    date: '2026-09-22'
+    code: 612498
+    url: /works/612498/
   - title: Kawaisugiru Tomodachi no Okaa-san to Kossori Tsukiacchatta Hanashi | I Secretly
       Dated My Friend's Cute Mother
     author: yuriko-club
@@ -1636,6 +1665,14 @@ works:
     date: '2026-09-10'
     code: 680088
     url: /works/680088/
+  - title: Karaoke de 100-ten Totta no ni Suki na Ko ga Me no Mae de Yokodori Sex Sareru
+      Hanashi
+    author: mauboumen
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680307.jpg
+    rating: 0.0
+    date: '2026-09-22'
+    code: 680307
+    url: /works/680307/
   - title: Panpan Travelers HIROSHIMA Shuudan Rape Ryokou Hen-MTL
     author: raidon
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680318.jpg
@@ -1697,7 +1734,7 @@ works:
   - title: Torawareta joi tsuma _ Trapped Doctor
     author: hikitogu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681566.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-20'
     code: 681566
     url: /works/681566/
@@ -1763,7 +1800,7 @@ works:
       Part 1
     author: hikitogu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682524.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-09-20'
     code: 682524
     url: /works/682524/
@@ -1771,7 +1808,7 @@ works:
       Songen o Ushinau Cool Joshidaisei~
     author: takahashi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682527.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-20'
     code: 682527
     url: /works/682527/

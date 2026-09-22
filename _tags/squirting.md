@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "squirting"
-work_count: 101
+work_count: 102
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -167,6 +167,13 @@ works:
     date: '2026-09-06'
     code: 567355
     url: /works/567355/
+  - title: 'LESFES CO Incident: Suspended Account'
+    author: remora-works
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/569267.jpg
+    rating: 0.0
+    date: '2026-09-22'
+    code: 569267
+    url: /works/569267/
   - title: Boku no Kaa-chan ga Hikikomori Neet Debu Aniki no Seishori Onaho ni Natteita
       Hanashi | My Mother is My Fat Shut-in Older NEET Brother's Sex Relief Onahole
     author: tarobaumu
@@ -359,7 +366,7 @@ works:
   - title: Please Take It Out! After
     author: ramanda
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638685.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-20'
     code: 638685
     url: /works/638685/
@@ -757,7 +764,7 @@ works:
   - title: Kayoko ga S ni Ochiru Made - Until Kayoko falls into S.
     author: nichijou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682579.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-20'
     code: 682579
     url: /works/682579/

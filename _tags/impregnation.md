@@ -1,12 +1,19 @@
 ---
 layout: tag
 tag_name: "impregnation"
-work_count: 102
+work_count: 104
 works:
+  - title: Kousa suru Osu to Mesu | Male and Female Crossing
+    author: ootsuka-kotora
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/13296.jpg
+    rating: 0.0
+    date: '2026-09-22'
+    code: 13296
+    url: /works/13296/
   - title: Watashi ni Mawashite Ura Kairanban
     author: yano-toshinori
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/238471.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-20'
     code: 238471
     url: /works/238471/
@@ -31,6 +38,13 @@ works:
     date: '2026-04-17'
     code: 349247
     url: /works/349247/
+  - title: Osananajimi no Otou-san ni.
+    author: uni18
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/381875.jpg
+    rating: 0.0
+    date: '2026-09-22'
+    code: 381875
+    url: /works/381875/
   - title: LOOK LIKE
     author: terasu-mc
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/388099.jpg
@@ -746,7 +760,7 @@ works:
   - title: I am a sister
     author: vanilla-type
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682498.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-20'
     code: 682498
     url: /works/682498/

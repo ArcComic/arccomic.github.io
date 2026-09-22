@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "collar"
-work_count: 60
+work_count: 61
 works:
   - title: Kaisha de Iroiro | Gettin' Busy at the Office
     author: hara-shigeyuki
@@ -445,4 +445,11 @@ works:
     date: '2026-09-19'
     code: 682245
     url: /works/682245/
+  - title: Isekai fukushu ~ore o ijimeta yatsura o saikyo sukiru de shihai suru~ 04
+    author: senakagashiri
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683013.jpg
+    rating: 0.0
+    date: '2026-09-22'
+    code: 683013
+    url: /works/683013/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "dark skin"
-work_count: 109
+work_count: 110
 works:
   - title: GalPa!
     author: sakagami-umi
@@ -286,6 +286,14 @@ works:
     date: '2026-05-01'
     code: 591112
     url: /works/591112/
+  - title: Manatsu no Chigiri ~ Tawamure ni Yogosareta Mizugi no Shita no Seiso Hada
+      - Midsummer promise | Manatsu's Promise
+    author: uni18
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/593276.jpg
+    rating: 0.0
+    date: '2026-09-22'
+    code: 593276
+    url: /works/593276/
   - title: Sono Panty, Watashi no Nandakedo. | Those Panties They're Mine
     author: chotto-b-sen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/593754.jpg
@@ -764,7 +772,7 @@ works:
   - title: Torawareta joi tsuma _ Trapped Doctor
     author: hikitogu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681566.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-20'
     code: 681566
     url: /works/681566/
@@ -801,7 +809,7 @@ works:
       Part 1
     author: hikitogu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682524.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-09-20'
     code: 682524
     url: /works/682524/

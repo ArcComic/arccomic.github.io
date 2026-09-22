@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "blackmail"
-work_count: 114
+work_count: 118
 works:
   - title: Another Produce -Kaede Takagaki-
     author: marushin
@@ -31,6 +31,13 @@ works:
     date: '2026-04-16'
     code: 297068
     url: /works/297068/
+  - title: Tsuki ga Noboru | Moonrise
+    author: rocket-monkey
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/307241.jpg
+    rating: 0.0
+    date: '2026-09-22'
+    code: 307241
+    url: /works/307241/
   - title: Kono Furin wa Otto no Tame "Anata, Yurushite…." To, Netorareru Tsuma | 這場外遇是為了老公「親愛的，原諒我…」這樣說著，為老公戴綠帽的妻子
     author: korosuke
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/328805.jpg
@@ -59,6 +66,13 @@ works:
     date: '2026-04-17'
     code: 359864
     url: /works/359864/
+  - title: Osananajimi no Otou-san ni.
+    author: uni18
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/381875.jpg
+    rating: 0.0
+    date: '2026-09-22'
+    code: 381875
+    url: /works/381875/
   - title: Yurikago
     author: neko-samurai
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/398305.jpg
@@ -326,6 +340,14 @@ works:
     date: '2026-04-21'
     code: 579976
     url: /works/579976/
+  - title: Manatsu no Chigiri ~ Tawamure ni Yogosareta Mizugi no Shita no Seiso Hada
+      - Midsummer promise | Manatsu's Promise
+    author: uni18
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/593276.jpg
+    rating: 0.0
+    date: '2026-09-22'
+    code: 593276
+    url: /works/593276/
   - title: 'Kaa-chan to Sex Shinai to Derarenai Heya ~Kuchiurusai Haha to Hankouki no
       Ore~ | A Room I Can''t Leave Without Having Incestuous Sex With My Mom: My Nagging
       Mother and Rebellious Me'
@@ -395,7 +417,7 @@ works:
       of the City
     author: take-shinshi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/643190.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-20'
     code: 643190
     url: /works/643190/
@@ -521,7 +543,7 @@ works:
   - title: I Became the Master of My Arrogant Busty Boss!? 02
     author: sazanami-wasabi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/656681.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-20'
     code: 656681
     url: /works/656681/
@@ -663,7 +685,7 @@ works:
   - title: My Secret With Kyouko Sensei 1 - Kyouko Sensei to Boku no Himitsu
     author: maimu-maimu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/671460.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-20'
     code: 671460
     url: /works/671460/
@@ -839,17 +861,25 @@ works:
       Part 1
     author: hikitogu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682524.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-09-20'
     code: 682524
     url: /works/682524/
   - title: CosBare -Takabisha na Kyonyuu Joushi no "Goshujin-sama" ni Narimashita!?-
     author: sazanami-wasabi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682600.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-20'
     code: 682600
     url: /works/682600/
+  - title: The World Where Only I Can't Fuck the Class Gyaru | Boku dake ga Class no
+      Ano Ko to Sex dekinai Sekai
+    author: armjaw
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683022.jpg
+    rating: 0.0
+    date: '2026-09-22'
+    code: 683022
+    url: /works/683022/
   - title: Inin Keiyaku | Lewd Pregnancy Contract
     author: yoshiura-kazuya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/83595.jpg

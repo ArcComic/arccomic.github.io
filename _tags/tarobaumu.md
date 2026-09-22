@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "tarobaumu"
-work_count: 3
+work_count: 4
 works:
   - title: TomoKano Kaa-chan II ~Jitaku, Musuko no Tomodachi ni Ochita Natsu~ | My Mom
       Is My Friend's Girlfriend 2
@@ -27,4 +27,11 @@ works:
     date: '2026-05-05'
     code: 578147
     url: /works/578147/
+  - title: 'Mom Friend Harem 2 ~Lewd Hot Spring Trip: Filled to the Brim with Cum~'
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/666748.jpg
+    rating: 0.0
+    date: '2026-09-22'
+    code: 666748
+    url: /works/666748/
 ---

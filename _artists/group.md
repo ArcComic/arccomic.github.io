@@ -1,7 +1,7 @@
 ---
 layout: artist
 artist_name: "group"
-work_count: 24
+work_count: 26
 works:
   - title: Itabasami na Wakachi Ai 4 | Love Divided Between a Rock and a Hard Place
       4
@@ -126,6 +126,12 @@ works:
     date: '2026-07-06'
     code: 661586
     url: /works/661586/
+  - title: 'Mom Friend Harem 2 ~Lewd Hot Spring Trip: Filled to the Brim with Cum~'
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/666748.jpg
+    rating: 0.0
+    date: '2026-09-22'
+    code: 666748
+    url: /works/666748/
   - title: Everyone's Kissing Club - Chapter 1-29
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/674286.jpg
     rating: 4.5
@@ -156,4 +162,10 @@ works:
     date: '2026-09-17'
     code: 681991
     url: /works/681991/
+  - title: Boku ni Onnanoko Oshiete Kudasai! 2 | Please Teach Me How to Be a Girl! 2
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682858.jpg
+    rating: 0.0
+    date: '2026-09-22'
+    code: 682858
+    url: /works/682858/
 ---

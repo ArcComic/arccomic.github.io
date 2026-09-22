@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "gokkun"
-work_count: 27
+work_count: 28
 works:
   - title: Itabasami na Wakachi Ai 4 | Love Divided Between a Rock and a Hard Place
       4
@@ -152,6 +152,13 @@ works:
     date: '2026-07-05'
     code: 660869
     url: /works/660869/
+  - title: 'Mom Friend Harem 2 ~Lewd Hot Spring Trip: Filled to the Brim with Cum~'
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/666748.jpg
+    rating: 0.0
+    date: '2026-09-22'
+    code: 666748
+    url: /works/666748/
   - title: A Saleswoman Interrupted Me While I Was Jerking-Off -- Genkan o Aketara Iru
       Kanyuu Oba-san
     author: chotto-b-sen
@@ -202,7 +209,7 @@ works:
       datte Shitteru no wa Ore dake?! | One Dick to Rule Them All
     author: shiwasu-no-okina
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682568.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-20'
     code: 682568
     url: /works/682568/

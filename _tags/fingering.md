@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "fingering"
-work_count: 130
+work_count: 132
 works:
   - title: Watashi-tachi no Seikoui Tokubetsu Jisshuu -Zengi Hen-
     author: guglielmo
@@ -10,6 +10,13 @@ works:
     date: '2026-09-13'
     code: 278500
     url: /works/278500/
+  - title: Osananajimi no Otou-san ni.
+    author: uni18
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/381875.jpg
+    rating: 0.0
+    date: '2026-09-22'
+    code: 381875
+    url: /works/381875/
   - title: Gekkoutou no Yume - Nyotaika Douwa ~Danshi Kinsei no Tou~
     author: mugen-no-sudadokei
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/387365.jpg
@@ -20,7 +27,7 @@ works:
   - title: Anatano mama ni naritakute. Ch. 3
     author: agata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/388896.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-20'
     code: 388896
     url: /works/388896/
@@ -276,6 +283,13 @@ works:
     date: '2026-09-06'
     code: 567355
     url: /works/567355/
+  - title: 'LESFES CO Incident: Suspended Account'
+    author: remora-works
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/569267.jpg
+    rating: 0.0
+    date: '2026-09-22'
+    code: 569267
+    url: /works/569267/
   - title: Ore ga Hoshikatta Mono wa Kin Medal Yori Namami Onaho Datta no Kamoshirenai｜Maybe
       what I Wanted was a Flesh and Blood Masturbator Rather than a Gold Medal
     author: carburetor
@@ -951,21 +965,21 @@ works:
   - title: Oji to Midara na Yume o Miru | Licentious Dreams With My Uncle
     author: yoshii-kou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682548.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-20'
     code: 682548
     url: /works/682548/
   - title: Giri no Imouto wa Boku no Mono | My Step Sister Is MINE Wife
     author: manatsu-roco
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682559.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-20'
     code: 682559
     url: /works/682559/
   - title: Motto Mawashite Ura Kairanban Ch. 1-5
     author: yano-toshinori
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682571.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-09-20'
     code: 682571
     url: /works/682571/

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "schoolgirl uniform"
-work_count: 252
+work_count: 256
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -562,6 +562,13 @@ works:
     date: '2026-07-13'
     code: 598010
     url: /works/598010/
+  - title: Nagoriyuki | Fleeting Snow
+    author: yd
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/599778.jpg
+    rating: 0.0
+    date: '2026-09-22'
+    code: 599778
+    url: /works/599778/
   - title: Metsuki no Warui Kidaruge na Kouhai ni Shiboritorareru | Squeezed Up By My
       Junior Girl Who Is Gloomy
     author: oburigakko
@@ -1430,6 +1437,15 @@ works:
     date: '2026-09-18'
     code: 668045
     url: /works/668045/
+  - title: 'Natsuki no Natsu  Ore no Kyonyuu Osananajimi wa Natsu no Aida ni Otona no
+      Te de Mesu ni Sareteita | Natsuki''s Summer: My Big-Busted Childhood Friend Was
+      Turned Into a Woman by Adult Hands During the Summer'
+    author: armjaw
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673012.jpg
+    rating: 0.0
+    date: '2026-09-22'
+    code: 673012
+    url: /works/673012/
   - title: Ichigun Joshi no Otoshikata "Zenpen" - Corrupting the Queen Bee | Corrupting
       the Queen Bee Part 1
     author: gar
@@ -1849,21 +1865,21 @@ works:
       into a secret relationship with Hifumi.
     author: arisu-kazumi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682545.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-20'
     code: 682545
     url: /works/682545/
   - title: Gal JK to H Gokko
     author: bodaijun
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682551.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-20'
     code: 682551
     url: /works/682551/
   - title: Namaiki na Musume -Ie no Okane o Nusunda Musume ni Kyouiku Shidou-
     author: marumitei
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682557.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-20'
     code: 682557
     url: /works/682557/
@@ -1871,8 +1887,23 @@ works:
       datte Shitteru no wa Ore dake?! | One Dick to Rule Them All
     author: shiwasu-no-okina
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682568.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-20'
     code: 682568
     url: /works/682568/
+  - title: Boku ni Onnanoko Oshiete Kudasai! 2 | Please Teach Me How to Be a Girl! 2
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682858.jpg
+    rating: 0.0
+    date: '2026-09-22'
+    code: 682858
+    url: /works/682858/
+  - title: The World Where Only I Can't Fuck the Class Gyaru | Boku dake ga Class no
+      Ano Ko to Sex dekinai Sekai
+    author: armjaw
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683022.jpg
+    rating: 0.0
+    date: '2026-09-22'
+    code: 683022
+    url: /works/683022/
 ---

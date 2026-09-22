@@ -1,7 +1,7 @@
 ---
 layout: artist
 artist_name: "botamochi"
-work_count: 2
+work_count: 3
 works:
   - title: Kachiki na Single Mother to Dosukebe Netsuai Seikou | Dirty and Passionate
       Sex with a Single Mother 1
@@ -18,4 +18,12 @@ works:
     date: '2026-09-13'
     code: 680885
     url: /works/680885/
+  - title: Kachiki na Single Mother to Dosukebe Netsuai Seikou 2 ~Asedaku Micchaku Onsen
+      Ryokou~ | Dirty and Passionate Sex with a Single Mother 2 ~A Sweaty & Clinging
+      Hot Spring Getaway
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681786.jpg
+    rating: 0.0
+    date: '2026-09-22'
+    code: 681786
+    url: /works/681786/
 ---

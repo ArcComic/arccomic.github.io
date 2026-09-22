@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "ponytail"
-work_count: 128
+work_count: 132
 works:
   - title: Hikki Mother Fucker
     author: otochichi
@@ -562,6 +562,13 @@ works:
     date: '2026-05-10'
     code: 649107
     url: /works/649107/
+  - title: LESFES CO SIDE STORIES Remote Days
+    author: shakuhachi-nameko
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/649307.jpg
+    rating: 0.0
+    date: '2026-09-22'
+    code: 649307
+    url: /works/649307/
   - title: Ally-san wa Doko Demo Ikitai!! 3
     author: inukami-inoji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/650926.jpg
@@ -745,6 +752,13 @@ works:
     date: '2026-07-16'
     code: 664584
     url: /works/664584/
+  - title: 'Mom Friend Harem 2 ~Lewd Hot Spring Trip: Filled to the Brim with Cum~'
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/666748.jpg
+    rating: 0.0
+    date: '2026-09-22'
+    code: 666748
+    url: /works/666748/
   - title: Niizuma Nanaka no Roshutsu Office
     author: fukurou-naru-tori
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/668605.jpg
@@ -817,6 +831,13 @@ works:
     date: '2026-09-18'
     code: 678408
     url: /works/678408/
+  - title: Miki ga Mama ni Natte Ageru
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678628.jpg
+    rating: 0.0
+    date: '2026-09-22'
+    code: 678628
+    url: /works/678628/
   - title: Majime na Doukyuusei ga Love Love Namahame Sex o suru made
     author: takeyuu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678718.jpg
@@ -934,15 +955,22 @@ works:
   - title: Motto Mawashite Ura Kairanban Ch. 1-5
     author: yano-toshinori
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682571.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-09-20'
     code: 682571
     url: /works/682571/
   - title: Kayoko ga S ni Ochiru Made - Until Kayoko falls into S.
     author: nichijou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682579.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-20'
     code: 682579
     url: /works/682579/
+  - title: Boku ni Onnanoko Oshiete Kudasai! 2 | Please Teach Me How to Be a Girl! 2
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682858.jpg
+    rating: 0.0
+    date: '2026-09-22'
+    code: 682858
+    url: /works/682858/
 ---

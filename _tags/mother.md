@@ -1,12 +1,12 @@
 ---
 layout: tag
 tag_name: "mother"
-work_count: 124
+work_count: 125
 works:
   - title: Imitation Family + Bigibo Hen
     author: tohzai
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/145635.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-20'
     code: 145635
     url: /works/145635/
@@ -63,7 +63,7 @@ works:
   - title: Anatano mama ni naritakute. Ch. 3
     author: agata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/388896.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-20'
     code: 388896
     url: /works/388896/
@@ -812,6 +812,13 @@ works:
     date: '2026-08-24'
     code: 666532
     url: /works/666532/
+  - title: 'Mom Friend Harem 2 ~Lewd Hot Spring Trip: Filled to the Brim with Cum~'
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/666748.jpg
+    rating: 0.0
+    date: '2026-09-22'
+    code: 666748
+    url: /works/666748/
   - title: Igyou Koubi Kairaku Jigoku 1 + 2
     author: allegro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/668880.jpg

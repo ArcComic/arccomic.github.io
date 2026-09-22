@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "tanlines"
-work_count: 23
+work_count: 25
 works:
   - title: CHOCO x LOVE
     author: highlow
@@ -17,6 +17,14 @@ works:
     date: '2026-09-18'
     code: 384255
     url: /works/384255/
+  - title: Ecchi na Omise ni Ittara Osananajimi ga Detekita Hanashi - Sex Establishment
+      Series
+    author: akahito
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/530567.jpg
+    rating: 0.0
+    date: '2026-09-22'
+    code: 530567
+    url: /works/530567/
   - title: Suieibu Shushou no Boyish Osananajimi wa Boku no Chinpo ni Dohamari Chuu
       | My Boyish Longtime Friend Who Is The Swimming Club Captain Is Addicted To My
       Dick
@@ -26,6 +34,14 @@ works:
     date: '2026-09-18'
     code: 535271
     url: /works/535271/
+  - title: Manatsu no Chigiri ~ Tawamure ni Yogosareta Mizugi no Shita no Seiso Hada
+      - Midsummer promise | Manatsu's Promise
+    author: uni18
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/593276.jpg
+    rating: 0.0
+    date: '2026-09-22'
+    code: 593276
+    url: /works/593276/
   - title: Shounen yo, Watashi o Idake. 少年,抱住我
     author: torii-yoshitsuna
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/599514.jpg
@@ -59,7 +75,7 @@ works:
   - title: Please Take It Out! After
     author: ramanda
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638685.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-20'
     code: 638685
     url: /works/638685/

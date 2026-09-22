@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "pixie cut"
-work_count: 62
+work_count: 68
 works:
   - title: Last Chance
     author: herio
@@ -102,6 +102,14 @@ works:
     date: '2026-09-09'
     code: 528470
     url: /works/528470/
+  - title: Ecchi na Omise ni Ittara Osananajimi ga Detekita Hanashi - Sex Establishment
+      Series
+    author: akahito
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/530567.jpg
+    rating: 0.0
+    date: '2026-09-22'
+    code: 530567
+    url: /works/530567/
   - title: Youka-go Tsuma no Haha o Daku | Eight Days With My Wife's Mother
     author: jagaimo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/534808.jpg
@@ -140,6 +148,14 @@ works:
     date: '2026-08-22'
     code: 586316
     url: /works/586316/
+  - title: Manatsu no Chigiri ~ Tawamure ni Yogosareta Mizugi no Shita no Seiso Hada
+      - Midsummer promise | Manatsu's Promise
+    author: uni18
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/593276.jpg
+    rating: 0.0
+    date: '2026-09-22'
+    code: 593276
+    url: /works/593276/
   - title: Sono Panty, Watashi no Nandakedo. | Those Panties They're Mine
     author: chotto-b-sen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/593754.jpg
@@ -170,6 +186,13 @@ works:
     date: '2026-09-11'
     code: 612063
     url: /works/612063/
+  - title: Iraira o Musume no Gakuyuu ni Butsukete Shimatta Hanashi
+    author: uni18
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/612498.jpg
+    rating: 0.0
+    date: '2026-09-22'
+    code: 612498
+    url: /works/612498/
   - title: Onna Tomodachi Futari to Perochuu suru Hanashi | A Story About Kissing 2
       Female Friends
     author: mmchair
@@ -342,6 +365,13 @@ works:
     date: '2026-07-16'
     code: 664831
     url: /works/664831/
+  - title: 'Mom Friend Harem 2 ~Lewd Hot Spring Trip: Filled to the Brim with Cum~'
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/666748.jpg
+    rating: 0.0
+    date: '2026-09-22'
+    code: 666748
+    url: /works/666748/
   - title: Nakadashi Oji-san ni Nerawareta Mesu wa Nigeru Koto ga Dekinai ~Fujitomo
       Megumi Hen 2~ | A Woman Can't Get Away After Being Targeted By This Horny Old
       Man - Fujitomo Megumi Edition Vol.2 [English] =White Symphony=
@@ -360,6 +390,15 @@ works:
     date: '2026-08-19'
     code: 668867
     url: /works/668867/
+  - title: 'Natsuki no Natsu  Ore no Kyonyuu Osananajimi wa Natsu no Aida ni Otona no
+      Te de Mesu ni Sareteita | Natsuki''s Summer: My Big-Busted Childhood Friend Was
+      Turned Into a Woman by Adult Hands During the Summer'
+    author: armjaw
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673012.jpg
+    rating: 0.0
+    date: '2026-09-22'
+    code: 673012
+    url: /works/673012/
   - title: Summer, The Countryside, Tatami and Futon, Mother
     author: takatsu-takatsu-keita
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673862.jpg
@@ -465,4 +504,13 @@ works:
     date: '2026-09-17'
     code: 681687
     url: /works/681687/
+  - title: Kachiki na Single Mother to Dosukebe Netsuai Seikou 2 ~Asedaku Micchaku Onsen
+      Ryokou~ | Dirty and Passionate Sex with a Single Mother 2 ~A Sweaty & Clinging
+      Hot Spring Getaway
+    author: botamochi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681786.jpg
+    rating: 0.0
+    date: '2026-09-22'
+    code: 681786
+    url: /works/681786/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "mesuiki"
-work_count: 9
+work_count: 10
 works:
   - title: 'GNO: Girl''s Night Out - Issue 02'
     author: uselessbegging
@@ -74,4 +74,11 @@ works:
     date: '2026-09-11'
     code: 679579
     url: /works/679579/
+  - title: Boku ni Onnanoko Oshiete Kudasai! 2 | Please Teach Me How to Be a Girl! 2
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682858.jpg
+    rating: 0.0
+    date: '2026-09-22'
+    code: 682858
+    url: /works/682858/
 ---

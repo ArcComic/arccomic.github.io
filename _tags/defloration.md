@@ -1,12 +1,12 @@
 ---
 layout: tag
 tag_name: "defloration"
-work_count: 183
+work_count: 187
 works:
   - title: Imitation Family + Bigibo Hen
     author: tohzai
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/145635.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-20'
     code: 145635
     url: /works/145635/
@@ -34,7 +34,7 @@ works:
   - title: Watashi ni Mawashite Ura Kairanban
     author: yano-toshinori
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/238471.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-20'
     code: 238471
     url: /works/238471/
@@ -127,6 +127,13 @@ works:
     date: '2026-09-13'
     code: 369139
     url: /works/369139/
+  - title: Osananajimi no Otou-san ni.
+    author: uni18
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/381875.jpg
+    rating: 0.0
+    date: '2026-09-22'
+    code: 381875
+    url: /works/381875/
   - title: Osananajimi wa Otona no Onna | My Childhood Friend is an Adult Woman
     author: mashu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/383468.jpg
@@ -475,6 +482,14 @@ works:
     date: '2026-05-01'
     code: 591112
     url: /works/591112/
+  - title: Manatsu no Chigiri ~ Tawamure ni Yogosareta Mizugi no Shita no Seiso Hada
+      - Midsummer promise | Manatsu's Promise
+    author: uni18
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/593276.jpg
+    rating: 0.0
+    date: '2026-09-22'
+    code: 593276
+    url: /works/593276/
   - title: '"Yasashii Dake no Otoko" to Tsuma ni Sute Raretanode... | My Wife Left Me
       Because I was "Too Gentle"...'
     author: special-g
@@ -535,6 +550,13 @@ works:
     date: '2026-04-23'
     code: 610041
     url: /works/610041/
+  - title: Iraira o Musume no Gakuyuu ni Butsukete Shimatta Hanashi
+    author: uni18
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/612498.jpg
+    rating: 0.0
+    date: '2026-09-22'
+    code: 612498
+    url: /works/612498/
   - title: Rikujoubu no Bokukko Doukyuusei ga Chuunen Komon ni Mesu ni Sareru Ichibu
       Shijuu
     author: marushin
@@ -1098,6 +1120,15 @@ works:
     date: '2026-07-13'
     code: 663745
     url: /works/663745/
+  - title: 'Natsuki no Natsu  Ore no Kyonyuu Osananajimi wa Natsu no Aida ni Otona no
+      Te de Mesu ni Sareteita | Natsuki''s Summer: My Big-Busted Childhood Friend Was
+      Turned Into a Woman by Adult Hands During the Summer'
+    author: armjaw
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673012.jpg
+    rating: 0.0
+    date: '2026-09-22'
+    code: 673012
+    url: /works/673012/
   - title: Nuite Moraimakuri Nyuuin Seikatsu ~Tasuketa Cool-Gyaru wa Jitsu wa Sukebe
       deshita~
     author: gujira
@@ -1355,7 +1386,7 @@ works:
   - title: Namaiki na Musume -Ie no Okane o Nusunda Musume ni Kyouiku Shidou-
     author: marumitei
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682557.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-20'
     code: 682557
     url: /works/682557/

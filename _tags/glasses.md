@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "glasses"
-work_count: 195
+work_count: 197
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -55,7 +55,7 @@ works:
   - title: Watashi ni Mawashite Ura Kairanban
     author: yano-toshinori
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/238471.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-20'
     code: 238471
     url: /works/238471/
@@ -1124,7 +1124,7 @@ works:
   - title: My Secret With Kyouko Sensei 1 - Kyouko Sensei to Boku no Himitsu
     author: maimu-maimu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/671460.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-20'
     code: 671460
     url: /works/671460/
@@ -1135,6 +1135,15 @@ works:
     date: '2026-09-07'
     code: 672835
     url: /works/672835/
+  - title: 'Natsuki no Natsu  Ore no Kyonyuu Osananajimi wa Natsu no Aida ni Otona no
+      Te de Mesu ni Sareteita | Natsuki''s Summer: My Big-Busted Childhood Friend Was
+      Turned Into a Woman by Adult Hands During the Summer'
+    author: armjaw
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673012.jpg
+    rating: 0.0
+    date: '2026-09-22'
+    code: 673012
+    url: /works/673012/
   - title: ENG AI Translated [Hanpatsu Zokusei] Mayu-chan EP 1 - 4
     author: hanpatsu-zokusei-mejikara-scene
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673485.jpg
@@ -1145,7 +1154,7 @@ works:
   - title: Daininki Mangaka Ochinpo Tatsuro Sensei wa Tatepaizuri Dekiru noka
     author: monin
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673677.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-20'
     code: 673677
     url: /works/673677/
@@ -1421,10 +1430,17 @@ works:
       no Hou ga Suuji ga Aru node Okashimasu~
     author: ushigon
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682620.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-09-20'
     code: 682620
     url: /works/682620/
+  - title: Torokesasenaide Danna-sama
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682934.jpg
+    rating: 0.0
+    date: '2026-09-22'
+    code: 682934
+    url: /works/682934/
   - title: Hottokenaino
     author: hara-shigeyuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/77864.jpg

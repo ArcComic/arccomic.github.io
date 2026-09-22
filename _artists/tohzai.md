@@ -11,7 +11,7 @@ works:
     url: /works/131165/
   - title: Imitation Family + Bigibo Hen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/145635.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-20'
     code: 145635
     url: /works/145635/
