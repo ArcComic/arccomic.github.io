@@ -8,10 +8,10 @@
   "ad_network": "clickadilla",
   "ad_toggles": {
     "mondiad_banner": true,
-    "mondiad_popunder": true,
+    "mondiad_popunder": false,
     "hilltopads_banner": true,
     "hilltopads_inpage": true,
-    "hilltopads_popunder": true,
+    "hilltopads_popunder": false,
     "clickadilla_banner": true,
     "clickadilla_popunder": true,
     "clickadilla_inpage": true
