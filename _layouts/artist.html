@@ -1,4 +1,4 @@
-<!-- arc-comic-layout-version: 12 -->
+<!-- arc-comic-layout-version: 13 -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -7,7 +7,7 @@
     <link rel="icon" type="image/svg+xml" href="/favicon.svg">
     <title>{{ page.artist_name }} - Arc Comic</title>
     <meta name="description" content="Browse all manga and doujinshi by {{ page.artist_name }} on Arc Comic">
-    {% if site.data.site_meta.ad_network != 'adsterra' %}<script async src="https://ss.mrmnd.com/banner.js"></script>{% endif %}
+    {% assign ad_net = site.data.site_meta.ad_network | default: 'mondiad' %}{% assign t = site.data.site_meta.ad_toggles %}{% if ad_net == 'mondiad' and (t.mondiad_banner != false or t.mondiad_popunder != false) %}<script async src="https://ss.mrmnd.com/banner.js"></script>{% endif %}{% if ad_net == 'clickadilla' and (t.clickadilla_banner != false or t.clickadilla_inpage != false) %}<script async src="https://js.wpadmngr.com/static/adManager.js" data-admpid="465656"></script>{% endif %}
     <style>
         :root {
             --bg: #0f0f13; --bg-card: #1a1a24; --bg-elevated: #222230;
@@ -155,17 +155,37 @@
             if (adsInjected) return;
             adsInjected = true;
             const AD_NETWORK = "{{ site.data.site_meta.ad_network | default: 'mondiad' }}";
-        const ADSTERRA_SLOT_HTML = "<div class=\"ad-slot ad-slot-adsterra\"><iframe title=\"Advertisement\" width=\"300\" height=\"250\" scrolling=\"no\" frameborder=\"0\" style=\"border:0;max-width:100%;\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation\" referrerpolicy=\"no-referrer-when-downgrade\" srcdoc=\"&lt;!DOCTYPE html&gt;&lt;html&gt;&lt;head&gt;&lt;meta charset=&#x27;utf-8&#x27;&gt;&lt;style&gt;html,body{margin:0;padding:0;background:transparent;overflow:hidden}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;script&gt;atOptions={&#x27;key&#x27;:&#x27;d589af27f1a1b95ab01d833a171c29a9&#x27;,&#x27;format&#x27;:&#x27;iframe&#x27;,&#x27;height&#x27;:250,&#x27;width&#x27;:300,&#x27;params&#x27;:{} };&lt;/script&gt;&lt;script src=&#x27;https://www.highrevenueformat.com/d589af27f1a1b95ab01d833a171c29a9/invoke.js&#x27;&gt;&lt;/script&gt;&lt;/body&gt;&lt;/html&gt;\"></iframe></div>";
-        const MONDIAD_SLOT_HTML = "<div class=\"ad-slot\" data-mndbanid=\"6682c345-631e-456b-82ef-cc3bd9dbb29a\"></div>";
-            const slotHtml = (AD_NETWORK === 'adsterra') ? ADSTERRA_SLOT_HTML : MONDIAD_SLOT_HTML;
-            document.getElementById('topAdContainer').innerHTML = slotHtml;
-            document.getElementById('bottomAdContainer').innerHTML = slotHtml;
-            // Only Mondiad needs banner.js re-triggered; Adsterra slots are
-            // self-contained iframes that load their own invoke.js.
-            if (AD_NETWORK !== 'adsterra') {
+        const AD_TOGGLES = {"mondiad_banner": true, "mondiad_popunder": true, "hilltopads_banner": true, "hilltopads_inpage": true, "hilltopads_popunder": true, "clickadilla_banner": true, "clickadilla_popunder": true, "clickadilla_inpage": true};
+        Object.assign(AD_TOGGLES, {{ site.data.site_meta.ad_toggles | jsonify }});
+        const SLOT_A_HTML = {
+            mondiad: "<div class=\"ad-slot\" data-mndbanid=\"6682c345-631e-456b-82ef-cc3bd9dbb29a\"></div>",
+            hilltopads: "<div class=\"ad-slot\"><script>(function(dju){var d=document,s=d.createElement('script'),l=d.currentScript||d.scripts[d.scripts.length-1];s.settings=dju||{};s.src=\"\\/\\/impurelocal.com\\/bFXeVos\\/d.GZl\\/0\\/YGW\\/ci\\/keVmc9_uoZhUllCkhP\\/TccW0dN\\/TuEsxRMtDikbtNN\\/zzQj1VMvTPEWxJMOwV\";s.async=true;s.referrerPolicy='no-referrer-when-downgrade';l.parentNode.insertBefore(s,l);})({})</script></div>",
+            clickadilla: "<div class=\"ad-slot\"><div data-banner-id=\"1502452\"></div></div>"
+        };
+        const SLOT_B_HTML = {
+            mondiad: "<div class=\"ad-slot\" data-mndbanid=\"17cd1aac-5a8b-432b-ad46-4c83815b6c03\"></div>",
+            hilltopads: "<div class=\"ad-slot\"><script>(function(wunnx){var d=document,s=d.createElement('script'),l=d.currentScript||d.scripts[d.scripts.length-1];s.settings=wunnx||{};s.src=\"\\/\\/impurelocal.com\\/b.XMVUsud\\/GWlA0pYoWwcW\\/Se\\/mu9\\/u\\/ZQUNlUk\\/PxTycs0HNhTmENwJORTxMItaNJzSQY1oMOTgAd5LNDwF\";s.async=true;s.referrerPolicy='no-referrer-when-downgrade';l.parentNode.insertBefore(s,l);})({})</script></div>",
+            clickadilla: "<div class=\"ad-slot\"><div data-banner-id=\"1502455\"></div></div>"
+        };
+        const SLOT_A_TOGGLE_KEY = {mondiad: 'mondiad_banner', hilltopads: 'hilltopads_banner', clickadilla: 'clickadilla_banner'};
+        const SLOT_B_TOGGLE_KEY = {mondiad: 'mondiad_banner', hilltopads: 'hilltopads_inpage', clickadilla: 'clickadilla_banner'};
+            document.getElementById('topAdContainer').innerHTML = SLOT_A_HTML[AD_NETWORK] || SLOT_A_HTML.mondiad;
+            document.getElementById('bottomAdContainer').innerHTML = SLOT_B_HTML[AD_NETWORK] || SLOT_B_HTML.mondiad;
+            // Mondiad and ClickAdilla both need their loader re-triggered so
+            // it re-scans the DOM for the divs just inserted above (neither
+            // has a documented reveal/refresh API). HilltopAds' snippets are
+            // self-contained per-slot <script> blocks with no shared loader,
+            // so nothing extra is needed for that network.
+            if (AD_NETWORK === 'mondiad') {
                 const s = document.createElement('script');
                 s.async = true;
                 s.src = 'https://ss.mrmnd.com/banner.js';
+                document.body.appendChild(s);
+            } else if (AD_NETWORK === 'clickadilla') {
+                const s = document.createElement('script');
+                s.async = true;
+                s.src = 'https://js.wpadmngr.com/static/adManager.js';
+                s.setAttribute('data-admpid', '465656');
                 document.body.appendChild(s);
             }
         }

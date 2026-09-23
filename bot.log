@@ -1,1 +1,5 @@
-🔧 _data/site_meta.json created/repaired (tagline/join notice/footer/ad network/ad toggles/read buttons)
+🔧 _layouts/post.html updated to v14 (clean layout, no emoji tags, proper Yes/No labels)
+🔧 index.html updated to v18 (favicon, sort/filter toolbar, Latest Upload, working search)
+🔧 _layouts/tag.html updated to v14
+🔧 _layouts/artist.html updated to v13
+🔧 search/index.html updated to v15

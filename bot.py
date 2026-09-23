@@ -560,7 +560,7 @@ AD_JS_CONSTANTS = (
 )
 
 POST_LAYOUT_PATH = os.path.join(WORK_DIR, "_layouts", "post.html")
-POST_LAYOUT_VERSION = 13  # bump when the template below changes materially
+POST_LAYOUT_VERSION = 14  # bumped session 13: Adsterra removed, HilltopAds+ClickAdilla banners, popunder added
 
 # Native ads (Mondiad "Native" zone type) were removed sitewide — they
 # render as in-flow content the network fully controls, and were both
@@ -1351,7 +1351,7 @@ PAGINATION_JS = """
 
 # ============== HOMEPAGE (index.html) ==============
 INDEX_HTML_PATH = os.path.join(WORK_DIR, "index.html")
-INDEX_HTML_VERSION = 17  # bump when the template below changes materially
+INDEX_HTML_VERSION = 18  # bumped session 13: Adsterra removed, network-aware banner via SLOT_A_HTML
 
 INDEX_HTML_TEMPLATE = f"""---
 # No 'layout:' key here on purpose — index.html is a complete, self-contained
@@ -1841,7 +1841,7 @@ def ensure_index_html():
 # ============== TAG SYSTEM (Stage 3) ==============
 TAGS_DIR = os.path.join(WORK_DIR, "_tags")
 TAG_LAYOUT_PATH = os.path.join(WORK_DIR, "_layouts", "tag.html")
-TAG_LAYOUT_VERSION = 13
+TAG_LAYOUT_VERSION = 14  # bumped session 13: Adsterra removed, Banner+In-page dual slot
 TAGS_INDEX_PATH = os.path.join(WORK_DIR, "tags", "index.html")
 TAGS_INDEX_VERSION = 1
 
@@ -2063,7 +2063,7 @@ def slugify(text):
 
 # ============== SEARCH RESULTS PAGE ==============
 SEARCH_PAGE_PATH = os.path.join(WORK_DIR, "search", "index.html")
-SEARCH_PAGE_VERSION = 14
+SEARCH_PAGE_VERSION = 15  # bumped session 13: Adsterra removed, Banner+In-page dual slot
 
 SEARCH_PAGE_TEMPLATE = f"""---
 ---
@@ -2585,7 +2585,7 @@ def _write_tags_index(tag_map):
 # index, regenerated together with tags after every batch flush/delete.
 ARTISTS_DIR = os.path.join(WORK_DIR, "_artists")
 ARTIST_LAYOUT_PATH = os.path.join(WORK_DIR, "_layouts", "artist.html")
-ARTIST_LAYOUT_VERSION = 12
+ARTIST_LAYOUT_VERSION = 13  # bumped session 13: Adsterra removed, Banner+In-page dual slot
 ARTISTS_INDEX_PATH = os.path.join(WORK_DIR, "artists", "index.html")
 ARTISTS_INDEX_VERSION = 1
 
