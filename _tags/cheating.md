@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "cheating"
-work_count: 267
+work_count: 271
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -289,6 +289,13 @@ works:
     date: '2026-07-10'
     code: 398305
     url: /works/398305/
+  - title: NTR Nindou | The NTR Ninja Way
+    author: tokie-hirohito
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/402019.jpg
+    rating: 4.1
+    date: '2026-09-23'
+    code: 402019
+    url: /works/402019/
   - title: Kaisha no Iki Okure BBA Haramaseta | [Tragic News] I Knocked Up The Old Maid
       From My Office
     author: special-g
@@ -1450,6 +1457,13 @@ works:
     date: '2026-07-09'
     code: 658005
     url: /works/658005/
+  - title: Mesunoyado ~Tsuma wa Midare Kegasareru~
+    author: ame-arare
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/658797.jpg
+    rating: 4.8
+    date: '2026-09-23'
+    code: 658797
+    url: /works/658797/
   - title: Daasan no Tame ni Okita Kyouko 32sai B107 a.k.a Okusan wo Namadashi Nikuana
       Choukyou Shiteoite Ageyou
     author: shiwasu-no-okina
@@ -1951,13 +1965,28 @@ works:
     date: '2026-09-20'
     code: 682577
     url: /works/682577/
+  - title: Jukujo ♥ shonen hyoryu-ki | A Woman ♥ Boy Castaway Tale
+    author: kotobuki-mairo-zubrowk
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683082.jpg
+    rating: 4.2
+    date: '2026-09-23'
+    code: 683082
+    url: /works/683082/
   - title: Konoka Press Ch. 8
     author: ryoh-zoh
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683216.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-22'
     code: 683216
     url: /works/683216/
+  - title: Motoyan Hitozuma Taiiku Kyoushi, Ochiru | Former Delinquent Housewife PE
+      Teacher, Falls.
+    author: shiro-maru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683271.jpg
+    rating: 4.7
+    date: '2026-09-23'
+    code: 683271
+    url: /works/683271/
   - title: Jokyoushi - Hot For Teachers | Female Teachers
     author: drill-murata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/81375.jpg

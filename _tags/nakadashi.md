@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "nakadashi"
-work_count: 595
+work_count: 601
 works:
   - title: Adoration
     author: kishizuka-kenji
@@ -1199,6 +1199,13 @@ works:
     date: '2026-04-25'
     code: 560643
     url: /works/560643/
+  - title: SeFri no Ichihara ga Nigashite Kurenai | My FWB Ichihara Won't Let Me Go
+    author: kyapefuro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/561349.jpg
+    rating: 4.8
+    date: '2026-09-23'
+    code: 561349
+    url: /works/561349/
   - title: Iiwa Watashi no Karada Suki ni Shite Ch.1-2
     author: shunjou-shuusuke
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/561787.jpg
@@ -3094,6 +3101,13 @@ works:
     date: '2026-09-13'
     code: 657607
     url: /works/657607/
+  - title: Mesunoyado ~Tsuma wa Midare Kegasareru~
+    author: ame-arare
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/658797.jpg
+    rating: 4.8
+    date: '2026-09-23'
+    code: 658797
+    url: /works/658797/
   - title: 'Doll Muchi na Jinzou Otome-tachi -Eve Hen 2- | Dolls: Oblivious Man-made
       Maidens -Eve Pt.2-'
     author: ushinomiya
@@ -3544,6 +3558,13 @@ works:
     date: '2026-09-13'
     code: 667204
     url: /works/667204/
+  - title: Boku dake no yuki ane
+    author: misaki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/667775.jpg
+    rating: 4.3
+    date: '2026-09-23'
+    code: 667775
+    url: /works/667775/
   - title: Okoranaide Hoshikawa-san 3 | Hey, Hold your Horses, Hoshikawa-san! 3
     author: raidon
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/667857.jpg
@@ -4228,6 +4249,13 @@ works:
     date: '2026-09-16'
     code: 681422
     url: /works/681422/
+  - title: Nani o Kangaeteru no ka Imaichi Wakaran Ane no Tomodachi
+    author: bodaijun
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681442.jpg
+    rating: 4.2
+    date: '2026-09-23'
+    code: 681442
+    url: /works/681442/
   - title: Shiri de Onna o Miwakeru Ore wa Onna Joushi no Yowami o Nigiru | I, A Guy
       Who Tells Women Apart By Their Asses, Got Blackmail On My Superior At Work
     author: eco-heeky
@@ -4407,6 +4435,13 @@ works:
     date: '2026-09-22'
     code: 683022
     url: /works/683022/
+  - title: Jukujo ♥ shonen hyoryu-ki | A Woman ♥ Boy Castaway Tale
+    author: kotobuki-mairo-zubrowk
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683082.jpg
+    rating: 4.2
+    date: '2026-09-23'
+    code: 683082
+    url: /works/683082/
   - title: Physical Encounter 01
     author: yami
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683192.jpg
@@ -4414,6 +4449,14 @@ works:
     date: '2026-09-22'
     code: 683192
     url: /works/683192/
+  - title: Hikikomori de Ero Manga Kaiteru Doutei Oikko to Oba-san ga Icha Love SEX
+      suru Hanashi
+    author: fukuhara-takaya
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683228.jpg
+    rating: 4.4
+    date: '2026-09-23'
+    code: 683228
+    url: /works/683228/
   - title: Inin Keiyaku | Lewd Pregnancy Contract
     author: yoshiura-kazuya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/83595.jpg

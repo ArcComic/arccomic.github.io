@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "glasses"
-work_count: 199
+work_count: 201
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -1441,6 +1441,13 @@ works:
     date: '2026-09-22'
     code: 682934
     url: /works/682934/
+  - title: Taishou Yotogi Roman - Kinyoubi no Hanayome CHAPTER 1-9
+    author: sumino-yuuji
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683067.jpg
+    rating: 4.5
+    date: '2026-09-23'
+    code: 683067
+    url: /works/683067/
   - title: taka-co - NTR妈妈・恭子Remake 1-3话
     author: taka-co
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683137.jpg
@@ -1455,6 +1462,14 @@ works:
     date: '2026-09-22'
     code: 683192
     url: /works/683192/
+  - title: Hikikomori de Ero Manga Kaiteru Doutei Oikko to Oba-san ga Icha Love SEX
+      suru Hanashi
+    author: fukuhara-takaya
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683228.jpg
+    rating: 4.4
+    date: '2026-09-23'
+    code: 683228
+    url: /works/683228/
   - title: Hottokenaino
     author: hara-shigeyuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/77864.jpg

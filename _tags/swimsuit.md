@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "swimsuit"
-work_count: 58
+work_count: 59
 works:
   - title: Kizashi
     author: yoshiura-kazuya
@@ -454,4 +454,11 @@ works:
     date: '2026-09-20'
     code: 682600
     url: /works/682600/
+  - title: Jukujo ♥ shonen hyoryu-ki | A Woman ♥ Boy Castaway Tale
+    author: kotobuki-mairo-zubrowk
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683082.jpg
+    rating: 4.2
+    date: '2026-09-23'
+    code: 683082
+    url: /works/683082/
 ---

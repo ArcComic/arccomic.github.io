@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "rape"
-work_count: 186
+work_count: 188
 works:
   - title: Office Love Scramble Ch. 1
     author: tohzai
@@ -416,6 +416,13 @@ works:
     date: '2026-04-25'
     code: 560643
     url: /works/560643/
+  - title: SeFri no Ichihara ga Nigashite Kurenai | My FWB Ichihara Won't Let Me Go
+    author: kyapefuro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/561349.jpg
+    rating: 4.8
+    date: '2026-09-23'
+    code: 561349
+    url: /works/561349/
   - title: Ossan Kirai no Hitozuma Kyoushi ga Nikubenki ni Ochiru Hanashi | Story About
       an Old Man Hating Married Teacher Falling Into Being a Meat Toilet
     author: chinpan
@@ -923,6 +930,13 @@ works:
     date: '2026-08-24'
     code: 657981
     url: /works/657981/
+  - title: Mesunoyado ~Tsuma wa Midare Kegasareru~
+    author: ame-arare
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/658797.jpg
+    rating: 4.8
+    date: '2026-09-23'
+    code: 658797
+    url: /works/658797/
   - title: Falling of summer
     author: monono-ex
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/659199.jpg

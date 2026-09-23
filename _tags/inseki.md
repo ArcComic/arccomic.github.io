@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "inseki"
-work_count: 59
+work_count: 60
 works:
   - title: Imitation Family + Bigibo Hen
     author: tohzai
@@ -320,6 +320,13 @@ works:
     date: '2026-09-13'
     code: 657607
     url: /works/657607/
+  - title: Mesunoyado ~Tsuma wa Midare Kegasareru~
+    author: ame-arare
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/658797.jpg
+    rating: 4.8
+    date: '2026-09-23'
+    code: 658797
+    url: /works/658797/
   - title: Imouto ga Ore no Kanojo!? 2-haku 3-ka no Ecchi na Kankei | My Sister is My
       Girlfriend!? Sexual Relationship for Two Nights and Three Days
     author: katagiri-kaneharu

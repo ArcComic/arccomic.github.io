@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "urination"
-work_count: 38
+work_count: 40
 works:
   - title: Boku no Kazoku o Sarashimasu Ch. 3
     author: tanaka-aji
@@ -284,4 +284,18 @@ works:
     date: '2026-09-16'
     code: 681510
     url: /works/681510/
+  - title: Taishou Yotogi Roman - Kinyoubi no Hanayome CHAPTER 1-9
+    author: sumino-yuuji
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683067.jpg
+    rating: 4.5
+    date: '2026-09-23'
+    code: 683067
+    url: /works/683067/
+  - title: Jukujo ♥ shonen hyoryu-ki | A Woman ♥ Boy Castaway Tale
+    author: kotobuki-mairo-zubrowk
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683082.jpg
+    rating: 4.2
+    date: '2026-09-23'
+    code: 683082
+    url: /works/683082/
 ---

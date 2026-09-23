@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "kimono"
-work_count: 38
+work_count: 40
 works:
   - title: Hitozuma Hyakka
     author: hase-tsubura
@@ -202,6 +202,13 @@ works:
     date: '2026-05-26'
     code: 652244
     url: /works/652244/
+  - title: Mesunoyado ~Tsuma wa Midare Kegasareru~
+    author: ame-arare
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/658797.jpg
+    rating: 4.8
+    date: '2026-09-23'
+    code: 658797
+    url: /works/658797/
   - title: Imouto ga Ore no Kanojo!? 2-haku 3-ka no Ecchi na Kankei | My Sister is My
       Girlfriend!? Sexual Relationship for Two Nights and Three Days
     author: katagiri-kaneharu
@@ -292,4 +299,11 @@ works:
     date: '2026-09-19'
     code: 682225
     url: /works/682225/
+  - title: Taishou Yotogi Roman - Kinyoubi no Hanayome CHAPTER 1-9
+    author: sumino-yuuji
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683067.jpg
+    rating: 4.5
+    date: '2026-09-23'
+    code: 683067
+    url: /works/683067/
 ---

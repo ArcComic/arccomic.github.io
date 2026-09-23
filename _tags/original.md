@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "original"
-work_count: 849
+work_count: 856
 works:
   - title: Natsu dake Koibito - Summer only Lover [English] =Forbidden Fetish + Ser
       Maggot=
@@ -1487,6 +1487,13 @@ works:
     date: '2026-04-25'
     code: 560643
     url: /works/560643/
+  - title: SeFri no Ichihara ga Nigashite Kurenai | My FWB Ichihara Won't Let Me Go
+    author: kyapefuro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/561349.jpg
+    rating: 4.8
+    date: '2026-09-23'
+    code: 561349
+    url: /works/561349/
   - title: Ijiwaru Mama Tomo Taisaku | Countermeasures Against Bullying Mothers
     author: chotto-b-sen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/561436.jpg
@@ -4041,6 +4048,13 @@ works:
     date: '2026-09-17'
     code: 658748
     url: /works/658748/
+  - title: Mesunoyado ~Tsuma wa Midare Kegasareru~
+    author: ame-arare
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/658797.jpg
+    rating: 4.8
+    date: '2026-09-23'
+    code: 658797
+    url: /works/658797/
   - title: 'Doll Muchi na Jinzou Otome-tachi -Eve Hen 2- | Dolls: Oblivious Man-made
       Maidens -Eve Pt.2-'
     author: ushinomiya
@@ -4641,6 +4655,13 @@ works:
     date: '2026-09-19'
     code: 667314
     url: /works/667314/
+  - title: Boku dake no yuki ane
+    author: misaki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/667775.jpg
+    rating: 4.3
+    date: '2026-09-23'
+    code: 667775
+    url: /works/667775/
   - title: Okoranaide Hoshikawa-san 3 | Hey, Hold your Horses, Hoshikawa-san! 3
     author: raidon
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/667857.jpg
@@ -5924,6 +5945,13 @@ works:
     date: '2026-09-16'
     code: 681422
     url: /works/681422/
+  - title: Nani o Kangaeteru no ka Imaichi Wakaran Ane no Tomodachi
+    author: bodaijun
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681442.jpg
+    rating: 4.2
+    date: '2026-09-23'
+    code: 681442
+    url: /works/681442/
   - title: Cool-chan wa Sensei Gakari
     author: nekoi-mie
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681465.jpg
@@ -6294,6 +6322,13 @@ works:
     date: '2026-09-22'
     code: 683022
     url: /works/683022/
+  - title: Jukujo ♥ shonen hyoryu-ki | A Woman ♥ Boy Castaway Tale
+    author: kotobuki-mairo-zubrowk
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683082.jpg
+    rating: 4.2
+    date: '2026-09-23'
+    code: 683082
+    url: /works/683082/
   - title: taka-co - NTR妈妈・恭子Remake 1-3话
     author: taka-co
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683137.jpg
@@ -6308,4 +6343,20 @@ works:
     date: '2026-09-22'
     code: 683188
     url: /works/683188/
+  - title: Hikikomori de Ero Manga Kaiteru Doutei Oikko to Oba-san ga Icha Love SEX
+      suru Hanashi
+    author: fukuhara-takaya
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683228.jpg
+    rating: 4.4
+    date: '2026-09-23'
+    code: 683228
+    url: /works/683228/
+  - title: Motoyan Hitozuma Taiiku Kyoushi, Ochiru | Former Delinquent Housewife PE
+      Teacher, Falls.
+    author: shiro-maru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683271.jpg
+    rating: 4.7
+    date: '2026-09-23'
+    code: 683271
+    url: /works/683271/
 ---

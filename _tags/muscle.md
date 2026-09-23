@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "muscle"
-work_count: 83
+work_count: 86
 works:
   - title: Kousa suru Osu to Mesu | Male and Female Crossing
     author: ootsuka-kotora
@@ -52,6 +52,13 @@ works:
     date: '2026-09-18'
     code: 396367
     url: /works/396367/
+  - title: NTR Nindou | The NTR Ninja Way
+    author: tokie-hirohito
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/402019.jpg
+    rating: 4.1
+    date: '2026-09-23'
+    code: 402019
+    url: /works/402019/
   - title: netoraretekite, ii desu yo.
     author: nt-robo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/432513.jpg
@@ -204,6 +211,13 @@ works:
     date: '2026-04-25'
     code: 560643
     url: /works/560643/
+  - title: SeFri no Ichihara ga Nigashite Kurenai | My FWB Ichihara Won't Let Me Go
+    author: kyapefuro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/561349.jpg
+    rating: 4.8
+    date: '2026-09-23'
+    code: 561349
+    url: /works/561349/
   - title: 'Moto Mahou Shoujo no Shigoto Hanashi Ao Zenjitsutan | Former Magical Girl
       Blue''s Work: The Prequel'
     author: zhen-lu
@@ -442,6 +456,13 @@ works:
     date: '2026-05-27'
     code: 652788
     url: /works/652788/
+  - title: Mesunoyado ~Tsuma wa Midare Kegasareru~
+    author: ame-arare
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/658797.jpg
+    rating: 4.8
+    date: '2026-09-23'
+    code: 658797
+    url: /works/658797/
   - title: Onna Tomodachi to Omotteitara Mesu Deshita | I Thought She Was Just a Friend,
       Turned Out She Was a Woman
     author: ippan-seijin

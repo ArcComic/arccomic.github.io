@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "masturbation"
-work_count: 101
+work_count: 104
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -577,6 +577,13 @@ works:
     date: '2026-07-16'
     code: 664845
     url: /works/664845/
+  - title: Boku dake no yuki ane
+    author: misaki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/667775.jpg
+    rating: 4.3
+    date: '2026-09-23'
+    code: 667775
+    url: /works/667775/
   - title: My GF (ghost friend) caught me jerking off and now she's bouncing on it CRAZY
       STYLE
     author: ricegnat
@@ -759,4 +766,19 @@ works:
     date: '2026-09-22'
     code: 683022
     url: /works/683022/
+  - title: Taishou Yotogi Roman - Kinyoubi no Hanayome CHAPTER 1-9
+    author: sumino-yuuji
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683067.jpg
+    rating: 4.5
+    date: '2026-09-23'
+    code: 683067
+    url: /works/683067/
+  - title: Hikikomori de Ero Manga Kaiteru Doutei Oikko to Oba-san ga Icha Love SEX
+      suru Hanashi
+    author: fukuhara-takaya
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683228.jpg
+    rating: 4.4
+    date: '2026-09-23'
+    code: 683228
+    url: /works/683228/
 ---

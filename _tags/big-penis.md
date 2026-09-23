@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big penis"
-work_count: 149
+work_count: 153
 works:
   - title: Tsuma no Imouto no Danna ga Ie ni Kiteiruyoudesu | My Sister-In-Law's Husband
       is Over
@@ -1069,6 +1069,13 @@ works:
     date: '2026-09-13'
     code: 680971
     url: /works/680971/
+  - title: Nani o Kangaeteru no ka Imaichi Wakaran Ane no Tomodachi
+    author: bodaijun
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681442.jpg
+    rating: 4.2
+    date: '2026-09-23'
+    code: 681442
+    url: /works/681442/
   - title: Imouto wa Otonappoitte Iwaretairashii | My Little Sister Wants to Be Told
       That She's Grown-Up It Seems
     author: yabachorogi
@@ -1122,4 +1129,27 @@ works:
     date: '2026-09-20'
     code: 682524
     url: /works/682524/
+  - title: Taishou Yotogi Roman - Kinyoubi no Hanayome CHAPTER 1-9
+    author: sumino-yuuji
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683067.jpg
+    rating: 4.5
+    date: '2026-09-23'
+    code: 683067
+    url: /works/683067/
+  - title: Hikikomori de Ero Manga Kaiteru Doutei Oikko to Oba-san ga Icha Love SEX
+      suru Hanashi
+    author: fukuhara-takaya
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683228.jpg
+    rating: 4.4
+    date: '2026-09-23'
+    code: 683228
+    url: /works/683228/
+  - title: Motoyan Hitozuma Taiiku Kyoushi, Ochiru | Former Delinquent Housewife PE
+      Teacher, Falls.
+    author: shiro-maru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683271.jpg
+    rating: 4.7
+    date: '2026-09-23'
+    code: 683271
+    url: /works/683271/
 ---

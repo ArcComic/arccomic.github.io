@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "full color"
-work_count: 185
+work_count: 187
 works:
   - title: Tsuma wo Yariman ni Shimasu Shakkin no Tame desu kara.
     author: pietoro
@@ -1348,6 +1348,13 @@ works:
     date: '2026-09-20'
     code: 682527
     url: /works/682527/
+  - title: Jukujo ♥ shonen hyoryu-ki | A Woman ♥ Boy Castaway Tale
+    author: kotobuki-mairo-zubrowk
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683082.jpg
+    rating: 4.2
+    date: '2026-09-23'
+    code: 683082
+    url: /works/683082/
   - title: taka-co - NTR妈妈・恭子Remake 1-3话
     author: taka-co
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683137.jpg
@@ -1355,4 +1362,11 @@ works:
     date: '2026-09-22'
     code: 683137
     url: /works/683137/
+  - title: Haiboku Hiroin Ringu Auto
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683225.jpg
+    rating: 4.6
+    date: '2026-09-23'
+    code: 683225
+    url: /works/683225/
 ---

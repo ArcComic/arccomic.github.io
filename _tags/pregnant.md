@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "pregnant"
-work_count: 34
+work_count: 35
 works:
   - title: Watashi ni Mawashite Ura Kairanban
     author: yano-toshinori
@@ -251,4 +251,11 @@ works:
     date: '2026-09-19'
     code: 682364
     url: /works/682364/
+  - title: Jukujo ♥ shonen hyoryu-ki | A Woman ♥ Boy Castaway Tale
+    author: kotobuki-mairo-zubrowk
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683082.jpg
+    rating: 4.2
+    date: '2026-09-23'
+    code: 683082
+    url: /works/683082/
 ---

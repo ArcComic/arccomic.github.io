@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "dilf"
-work_count: 144
+work_count: 145
 works:
   - title: Adoration
     author: kishizuka-kenji
@@ -138,6 +138,13 @@ works:
     date: '2026-04-25'
     code: 388099
     url: /works/388099/
+  - title: NTR Nindou | The NTR Ninja Way
+    author: tokie-hirohito
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/402019.jpg
+    rating: 4.1
+    date: '2026-09-23'
+    code: 402019
+    url: /works/402019/
   - title: Hikage | Shade
     author: syuuen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/429669.jpg

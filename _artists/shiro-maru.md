@@ -1,7 +1,7 @@
 ---
 layout: artist
 artist_name: "shiro-maru"
-work_count: 1
+work_count: 2
 works:
   - title: Motoyan Hitozuma Taiiku Kyoushi, Onsen Ryokan nite Kyouei Mizugi de Ochiru
       | Former delinquent housewife PE teacher, falls in a hot spring inn while wearing
@@ -11,4 +11,11 @@ works:
     date: '2026-09-05'
     code: 678648
     url: /works/678648/
+  - title: Motoyan Hitozuma Taiiku Kyoushi, Ochiru | Former Delinquent Housewife PE
+      Teacher, Falls.
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683271.jpg
+    rating: 4.7
+    date: '2026-09-23'
+    code: 683271
+    url: /works/683271/
 ---

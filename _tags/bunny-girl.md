@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bunny girl"
-work_count: 23
+work_count: 24
 works:
   - title: Kaisha de Iroiro | Gettin' Busy at the Office
     author: hara-shigeyuki
@@ -171,6 +171,13 @@ works:
     date: '2026-09-20'
     code: 682586
     url: /works/682586/
+  - title: Bakunyuu Bunny Obasan - Chapter 1-2
+    author: kamushi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683065.jpg
+    rating: 4.2
+    date: '2026-09-23'
+    code: 683065
+    url: /works/683065/
   - title: Hottokenaino
     author: hara-shigeyuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/77864.jpg

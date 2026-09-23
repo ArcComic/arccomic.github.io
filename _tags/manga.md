@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "manga"
-work_count: 293
+work_count: 295
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -1234,7 +1234,7 @@ works:
   - title: Ray's Days
     author: ryoh-zoh
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642839.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-22'
     code: 642839
     url: /works/642839/
@@ -2062,6 +2062,20 @@ works:
     code: 683013
     url: /works/683013/
   - *id001
+  - title: Bakunyuu Bunny Obasan - Chapter 1-2
+    author: kamushi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683065.jpg
+    rating: 4.2
+    date: '2026-09-23'
+    code: 683065
+    url: /works/683065/
+  - title: Taishou Yotogi Roman - Kinyoubi no Hanayome CHAPTER 1-9
+    author: sumino-yuuji
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683067.jpg
+    rating: 4.5
+    date: '2026-09-23'
+    code: 683067
+    url: /works/683067/
   - title: Hako no Tsuma
     author: bai-asuka
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683121.jpg
@@ -2079,7 +2093,7 @@ works:
   - title: Konoka Press Ch. 8
     author: ryoh-zoh
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683216.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-22'
     code: 683216
     url: /works/683216/
