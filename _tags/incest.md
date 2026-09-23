@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "incest"
-work_count: 238
+work_count: 239
 works:
   - title: Imitation Family + Bigibo Hen
     author: tohzai
@@ -800,6 +800,13 @@ works:
     date: '2026-04-23'
     code: 640543
     url: /works/640543/
+  - title: LOOK LIKE
+    author: terasu-mc
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/641295.jpg
+    rating: 0.0
+    date: '2026-09-23'
+    code: 641295
+    url: /works/641295/
   - title: Haruna wa Kyou kara Sachiko ni Narimashita.
     author: mashumarodan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642023.jpg

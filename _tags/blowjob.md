@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "blowjob"
-work_count: 487
+work_count: 490
 works:
   - title: Office Love Scramble Ch. 1
     author: tohzai
@@ -323,6 +323,13 @@ works:
     date: '2026-04-21'
     code: 431558
     url: /works/431558/
+  - title: Zoku NTR Nindou | The NTR Ninja Way 2
+    author: tokie-hirohito
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/441828.jpg
+    rating: 0.0
+    date: '2026-09-23'
+    code: 441828
+    url: /works/441828/
   - title: Tonari no Onee-san no Shitagi o Nusundara Kiseki ga Okita Hanashi o Shiyou
       |  Let’s Talk About the Story of A Miracle that Happened When I Stole the Underwear
       of the Lady Next Door
@@ -1817,6 +1824,13 @@ works:
     date: '2026-09-18'
     code: 641188
     url: /works/641188/
+  - title: LOOK LIKE
+    author: terasu-mc
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/641295.jpg
+    rating: 0.0
+    date: '2026-09-23'
+    code: 641295
+    url: /works/641295/
   - title: Otokomasari na Kyonyuu Hitozuma Joushi to Amaama SeFri Kankei ni Natta Ken
     author: elica
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/641362.jpg
@@ -3564,6 +3578,13 @@ works:
     date: '2026-09-23'
     code: 683307
     url: /works/683307/
+  - title: Sakitai. | I want to bloom.
+    author: sayuumigi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683309.jpg
+    rating: 0.0
+    date: '2026-09-23'
+    code: 683309
+    url: /works/683309/
   - title: Daitouryou no Inbou | U.S. Presidential Conspiracy
     author: hachiya-makoto
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683310.jpg

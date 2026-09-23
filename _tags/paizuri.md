@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "paizuri"
-work_count: 176
+work_count: 177
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -265,6 +265,14 @@ works:
     date: '2026-04-25'
     code: 562615
     url: /works/562615/
+  - title: NIKKE Icha Love Ero Goudou "NIKKE☆Lover" | NIKKE Lovey-Dovey Ero Compendium
+      "NIKKE☆Lover"
+    author: kumakiti
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/568114.jpg
+    rating: 0.0
+    date: '2026-09-23'
+    code: 568114
+    url: /works/568114/
   - title: Ninshiki Kaihen Saimin Time Card + Joushiki Kaihen Saimin Time Card | Common
       Sense Altering Hypnosis Time Card 1+2
     author: pomi-sword

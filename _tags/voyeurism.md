@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "voyeurism"
-work_count: 38
+work_count: 40
 works:
   - title: Boku no Kazoku o Sarashimasu Ch. 3
     author: tanaka-aji
@@ -190,6 +190,13 @@ works:
     date: '2026-03-05'
     code: 634591
     url: /works/634591/
+  - title: LOOK LIKE
+    author: terasu-mc
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/641295.jpg
+    rating: 0.0
+    date: '2026-09-23'
+    code: 641295
+    url: /works/641295/
   - title: Akogare no Hito wa Mou Owari! 2
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642585.jpg
@@ -283,4 +290,11 @@ works:
     date: '2026-09-23'
     code: 683315
     url: /works/683315/
+  - title: Gēmu Furin-numa ~ Inran Hitodzuma ga dan Hōkai sa Seru Made ~
+    author: hoshiduki-melon
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683316.jpg
+    rating: 0.0
+    date: '2026-09-23'
+    code: 683316
+    url: /works/683316/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: artist
 artist_name: "terasu-mc"
-work_count: 6
+work_count: 7
 works:
   - title: Netorare Ibe Kiba Shizuka
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/275108.jpg
@@ -34,6 +34,12 @@ works:
     date: '2026-04-25'
     code: 441036
     url: /works/441036/
+  - title: LOOK LIKE
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/641295.jpg
+    rating: 0.0
+    date: '2026-09-23'
+    code: 641295
+    url: /works/641295/
   - title: Himaten NTR 19P
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654484.jpg
     rating: 4.0

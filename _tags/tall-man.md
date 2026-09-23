@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "tall man"
-work_count: 29
+work_count: 30
 works:
   - title: Kousa suru Osu to Mesu | Male and Female Crossing
     author: ootsuka-kotora
@@ -31,6 +31,15 @@ works:
     date: '2026-09-18'
     code: 396367
     url: /works/396367/
+  - title: '[Sakuru Haruni Inazuma (Harumi Niina) Chuuken Bodyguard ga Nisemono Reijou
+      no Uso to Shintai wo Abaku made. | Until the Obedient Bodyguard Exposes the Body
+      and the Lie of the Fake Lady [English] [Painful Nightz] [Digital]'
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/436140.jpg
+    rating: 0.0
+    date: '2026-09-23'
+    code: 436140
+    url: /works/436140/
   - title: Sekai ga Heiwa ni Natta node Yuusha (Jitsu wa ♀) ni Kyuukon Shita Kekka |
       Marriage Proposal to the Hero (Actually ♀) When the World Is at Peace
     author: natsuo-tsunao

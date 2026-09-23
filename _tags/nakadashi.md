@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "nakadashi"
-work_count: 610
+work_count: 615
 works:
   - title: Adoration
     author: kishizuka-kenji
@@ -437,6 +437,15 @@ works:
     date: '2026-08-18'
     code: 432356
     url: /works/432356/
+  - title: '[Sakuru Haruni Inazuma (Harumi Niina) Chuuken Bodyguard ga Nisemono Reijou
+      no Uso to Shintai wo Abaku made. | Until the Obedient Bodyguard Exposes the Body
+      and the Lie of the Fake Lady [English] [Painful Nightz] [Digital]'
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/436140.jpg
+    rating: 0.0
+    date: '2026-09-23'
+    code: 436140
+    url: /works/436140/
   - title: Boku no Netorase Seiheki ni Tsukiatte kureru Kanojo | A Girlfriend Who Plays
       Along with My Cuckold Fetish
     author: terasu-mc
@@ -1261,6 +1270,14 @@ works:
     date: '2026-04-17'
     code: 567843
     url: /works/567843/
+  - title: NIKKE Icha Love Ero Goudou "NIKKE☆Lover" | NIKKE Lovey-Dovey Ero Compendium
+      "NIKKE☆Lover"
+    author: kumakiti
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/568114.jpg
+    rating: 0.0
+    date: '2026-09-23'
+    code: 568114
+    url: /works/568114/
   - title: Moteki na Oku-sama
     author: hara-shigeyuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/569195.jpg
@@ -4450,6 +4467,14 @@ works:
     date: '2026-09-22'
     code: 683022
     url: /works/683022/
+  - title: Inma Danshi to Kankin Ecchi - Saiin Kuriseme de Seijo Kairaku Ochi | Captive
+      Sex with an Incubus ~holy woman corruption by lust inducing clitoral teasing~
+    author: rojione
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683058.jpg
+    rating: 0.0
+    date: '2026-09-23'
+    code: 683058
+    url: /works/683058/
   - title: Jukujo ♥ shonen hyoryu-ki | A Woman ♥ Boy Castaway Tale
     author: kotobuki-mairo-zubrowk
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683082.jpg
@@ -4479,6 +4504,13 @@ works:
     date: '2026-09-23'
     code: 683307
     url: /works/683307/
+  - title: Sakitai. | I want to bloom.
+    author: sayuumigi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683309.jpg
+    rating: 0.0
+    date: '2026-09-23'
+    code: 683309
+    url: /works/683309/
   - title: Daitouryou no Inbou | U.S. Presidential Conspiracy
     author: hachiya-makoto
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683310.jpg
@@ -4507,6 +4539,13 @@ works:
     date: '2026-09-23'
     code: 683315
     url: /works/683315/
+  - title: Gēmu Furin-numa ~ Inran Hitodzuma ga dan Hōkai sa Seru Made ~
+    author: hoshiduki-melon
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683316.jpg
+    rating: 0.0
+    date: '2026-09-23'
+    code: 683316
+    url: /works/683316/
   - title: Insuru Juku Ashi
     author: taba
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683318.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "condom"
-work_count: 168
+work_count: 169
 works:
   - title: Kaisha de Iroiro | Gettin' Busy at the Office
     author: hara-shigeyuki
@@ -716,6 +716,13 @@ works:
     date: '2026-07-13'
     code: 639514
     url: /works/639514/
+  - title: LOOK LIKE
+    author: terasu-mc
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/641295.jpg
+    rating: 0.0
+    date: '2026-09-23'
+    code: 641295
+    url: /works/641295/
   - title: Apart no Otonari-san ga Yarasete Kureru Hanashi 4 | My Nextdoor Neighbor
       Let Me Fuck Her 4
     author: ki-51

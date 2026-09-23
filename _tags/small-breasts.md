@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "small breasts"
-work_count: 37
+work_count: 38
 works:
   - title: FLUFFY LAUGH GIRL
     author: shibasaki-syouzi
@@ -277,4 +277,11 @@ works:
     date: '2026-09-20'
     code: 682613
     url: /works/682613/
+  - title: Sakitai. | I want to bloom.
+    author: sayuumigi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683309.jpg
+    rating: 0.0
+    date: '2026-09-23'
+    code: 683309
+    url: /works/683309/
 ---

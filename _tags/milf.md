@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "milf"
-work_count: 351
+work_count: 353
 works:
   - title: Life with Married Women Just Like a Manga 2 - Ch. 1-5
     author: hidemaru
@@ -1517,6 +1517,13 @@ works:
     date: '2026-04-23'
     code: 640543
     url: /works/640543/
+  - title: LOOK LIKE
+    author: terasu-mc
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/641295.jpg
+    rating: 0.0
+    date: '2026-09-23'
+    code: 641295
+    url: /works/641295/
   - title: Kachiki na Single Mother to Dosukebe Netsuai Seikou | Dirty and Passionate
       Sex with a Single Mother 1
     author: botamochi
@@ -2543,6 +2550,13 @@ works:
     date: '2026-09-23'
     code: 683315
     url: /works/683315/
+  - title: Gēmu Furin-numa ~ Inran Hitodzuma ga dan Hōkai sa Seru Made ~
+    author: hoshiduki-melon
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683316.jpg
+    rating: 0.0
+    date: '2026-09-23'
+    code: 683316
+    url: /works/683316/
   - title: KuroTsuma
     author: hoshiduki-melon
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683317.jpg

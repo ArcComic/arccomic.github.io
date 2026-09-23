@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bunny girl"
-work_count: 24
+work_count: 25
 works:
   - title: Kaisha de Iroiro | Gettin' Busy at the Office
     author: hara-shigeyuki
@@ -57,6 +57,14 @@ works:
     date: '2026-09-18'
     code: 539663
     url: /works/539663/
+  - title: NIKKE Icha Love Ero Goudou "NIKKE☆Lover" | NIKKE Lovey-Dovey Ero Compendium
+      "NIKKE☆Lover"
+    author: kumakiti
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/568114.jpg
+    rating: 0.0
+    date: '2026-09-23'
+    code: 568114
+    url: /works/568114/
   - title: 'Moto Mahou Shoujo no Kazoku Banashi Tsuki 2 | Former Magical Girl''s Family
       Story: Tsuki 2'
     author: zhen-lu

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "shotacon"
-work_count: 104
+work_count: 105
 works:
   - title: Hitozuma Hyakka
     author: hase-tsubura
@@ -367,6 +367,13 @@ works:
     date: '2026-09-05'
     code: 637940
     url: /works/637940/
+  - title: LOOK LIKE
+    author: terasu-mc
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/641295.jpg
+    rating: 0.0
+    date: '2026-09-23'
+    code: 641295
+    url: /works/641295/
   - title: Sawatte Mitai? | Do You Wanna Touch?
     author: rondonko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/644309.jpg

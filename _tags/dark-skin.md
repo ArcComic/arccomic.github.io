@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "dark skin"
-work_count: 113
+work_count: 116
 works:
   - title: GalPa!
     author: sakagami-umi
@@ -139,6 +139,13 @@ works:
     date: '2026-08-23'
     code: 441114
     url: /works/441114/
+  - title: Zoku NTR Nindou | The NTR Ninja Way 2
+    author: tokie-hirohito
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/441828.jpg
+    rating: 0.0
+    date: '2026-09-23'
+    code: 441828
+    url: /works/441828/
   - title: Marebito Kitari Te
     author: yoshika
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/443073.jpg
@@ -272,6 +279,14 @@ works:
     date: '2026-05-07'
     code: 557052
     url: /works/557052/
+  - title: NIKKE Icha Love Ero Goudou "NIKKE☆Lover" | NIKKE Lovey-Dovey Ero Compendium
+      "NIKKE☆Lover"
+    author: kumakiti
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/568114.jpg
+    rating: 0.0
+    date: '2026-09-23'
+    code: 568114
+    url: /works/568114/
   - title: Natsudashi kasshoku bijōfu hori ni ikko | 興起適逢烈夏至 相尋佳郎正當時
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/569575.jpg
@@ -443,6 +458,13 @@ works:
     date: '2026-08-23'
     code: 639772
     url: /works/639772/
+  - title: LOOK LIKE
+    author: terasu-mc
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/641295.jpg
+    rating: 0.0
+    date: '2026-09-23'
+    code: 641295
+    url: /works/641295/
   - title: Akogare no Hito wa Mou Owari! 2
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642585.jpg

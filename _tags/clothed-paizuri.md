@@ -1,8 +1,16 @@
 ---
 layout: tag
 tag_name: "clothed paizuri"
-work_count: 4
+work_count: 5
 works:
+  - title: NIKKE Icha Love Ero Goudou "NIKKE☆Lover" | NIKKE Lovey-Dovey Ero Compendium
+      "NIKKE☆Lover"
+    author: kumakiti
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/568114.jpg
+    rating: 0.0
+    date: '2026-09-23'
+    code: 568114
+    url: /works/568114/
   - title: Watashi, Mada Suki da yo. - I still love you. ~Mukashi Futta Doukyuusei ga
       Akanuke Bakunyuu Gravia Idol ni Natte Kanojo Mochi no Ore o Yuuwaku Shitekuru
       Gyaku NTR Uwaki Sex~ | I Still Love You. ~My EX has become a Busty Gravure Idol

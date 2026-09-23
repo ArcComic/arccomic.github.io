@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "impregnation"
-work_count: 109
+work_count: 112
 works:
   - title: Kousa suru Osu to Mesu | Male and Female Crossing
     author: ootsuka-kotora
@@ -119,6 +119,13 @@ works:
     date: '2026-04-12'
     code: 432513
     url: /works/432513/
+  - title: Zoku NTR Nindou | The NTR Ninja Way 2
+    author: tokie-hirohito
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/441828.jpg
+    rating: 0.0
+    date: '2026-09-23'
+    code: 441828
+    url: /works/441828/
   - title: Marebito Kitari Te
     author: yoshika
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/443073.jpg
@@ -420,6 +427,13 @@ works:
     date: '2026-04-15'
     code: 639194
     url: /works/639194/
+  - title: LOOK LIKE
+    author: terasu-mc
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/641295.jpg
+    rating: 0.0
+    date: '2026-09-23'
+    code: 641295
+    url: /works/641295/
   - title: Imouto Haramasenai to Derarenai Shima 2
     author: airandou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/643375.jpg
@@ -778,6 +792,13 @@ works:
     date: '2026-09-23'
     code: 683082
     url: /works/683082/
+  - title: Sakitai. | I want to bloom.
+    author: sayuumigi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683309.jpg
+    rating: 0.0
+    date: '2026-09-23'
+    code: 683309
+    url: /works/683309/
   - title: Kuro-Gal Mama-san Haramasex
     author: ooshima-ryou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683312.jpg

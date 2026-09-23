@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "schoolgirl uniform"
-work_count: 259
+work_count: 261
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -449,6 +449,14 @@ works:
     date: '2026-07-13'
     code: 565301
     url: /works/565301/
+  - title: NIKKE Icha Love Ero Goudou "NIKKE☆Lover" | NIKKE Lovey-Dovey Ero Compendium
+      "NIKKE☆Lover"
+    author: kumakiti
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/568114.jpg
+    rating: 0.0
+    date: '2026-09-23'
+    code: 568114
+    url: /works/568114/
   - title: Re. Bishoujo Seitokaichou o Seibyou Mochi no Owakon Onna ni Otosu Hanashi
     author: kyouan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/576288.jpg
@@ -1913,6 +1921,13 @@ works:
     date: '2026-09-22'
     code: 683216
     url: /works/683216/
+  - title: Sakitai. | I want to bloom.
+    author: sayuumigi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683309.jpg
+    rating: 0.0
+    date: '2026-09-23'
+    code: 683309
+    url: /works/683309/
   - title: Soku Hame! Muwatto Ase Mure Musume - Let's Sex! Sweaty Girls
     author: fetio
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683319.jpg

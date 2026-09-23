@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "inverted nipples"
-work_count: 32
+work_count: 33
 works:
   - title: Hyouri no Omoi | Double-Sided Love
     author: suruga-kuroitsu
@@ -242,4 +242,11 @@ works:
     date: '2026-09-17'
     code: 681991
     url: /works/681991/
+  - title: Sakitai. | I want to bloom.
+    author: sayuumigi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683309.jpg
+    rating: 0.0
+    date: '2026-09-23'
+    code: 683309
+    url: /works/683309/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "multi-work series"
-work_count: 285
+work_count: 287
 works:
   - title: Oppai na Natsuyasumi 2 | The Summer Break of Boobs 2
     author: higashino-mikan
@@ -133,6 +133,22 @@ works:
     date: '2026-04-23'
     code: 435832
     url: /works/435832/
+  - title: '[Sakuru Haruni Inazuma (Harumi Niina) Chuuken Bodyguard ga Nisemono Reijou
+      no Uso to Shintai wo Abaku made. | Until the Obedient Bodyguard Exposes the Body
+      and the Lie of the Fake Lady [English] [Painful Nightz] [Digital]'
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/436140.jpg
+    rating: 0.0
+    date: '2026-09-23'
+    code: 436140
+    url: /works/436140/
+  - title: Zoku NTR Nindou | The NTR Ninja Way 2
+    author: tokie-hirohito
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/441828.jpg
+    rating: 0.0
+    date: '2026-09-23'
+    code: 441828
+    url: /works/441828/
   - title: Hypnosis Session Gone Sexual!
     author: okumori-boy
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/445629.jpg

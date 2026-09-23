@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "yandere"
-work_count: 20
+work_count: 21
 works:
   - title: My Only Princess
     author: mackgee
@@ -17,6 +17,15 @@ works:
     date: '2026-04-23'
     code: 342540
     url: /works/342540/
+  - title: '[Sakuru Haruni Inazuma (Harumi Niina) Chuuken Bodyguard ga Nisemono Reijou
+      no Uso to Shintai wo Abaku made. | Until the Obedient Bodyguard Exposes the Body
+      and the Lie of the Fake Lady [English] [Painful Nightz] [Digital]'
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/436140.jpg
+    rating: 0.0
+    date: '2026-09-23'
+    code: 436140
+    url: /works/436140/
   - title: Tonari no Onee-san no Shitagi o Nusundara Kiseki ga Okita Hanashi o Shiyou
       |  Let’s Talk About the Story of A Miracle that Happened When I Stole the Underwear
       of the Lady Next Door

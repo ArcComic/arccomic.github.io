@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sayuumigi"
-work_count: 2
+work_count: 3
 works:
   - title: The Honor Student’s Rebellious Phase
     author: sayuumigi
@@ -17,4 +17,11 @@ works:
     date: '2026-09-19'
     code: 682392
     url: /works/682392/
+  - title: Sakitai. | I want to bloom.
+    author: sayuumigi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683309.jpg
+    rating: 0.0
+    date: '2026-09-23'
+    code: 683309
+    url: /works/683309/
 ---

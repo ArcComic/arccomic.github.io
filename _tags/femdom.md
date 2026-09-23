@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "femdom"
-work_count: 131
+work_count: 132
 works:
   - title: Life with Married Women Just Like a Manga 2 - Ch. 1-5
     author: hidemaru
@@ -435,6 +435,13 @@ works:
     date: '2026-09-13'
     code: 638556
     url: /works/638556/
+  - title: LOOK LIKE
+    author: terasu-mc
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/641295.jpg
+    rating: 0.0
+    date: '2026-09-23'
+    code: 641295
+    url: /works/641295/
   - title: LeveChi na Swapping 3 ~Honrosareru Fuufu Hen~ | Swapping on a Whole New Level
       3 ~The Couple At The Mercy Of Others~
     author: hikitogu

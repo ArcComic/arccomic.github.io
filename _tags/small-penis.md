@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "small penis"
-work_count: 10
+work_count: 11
 works:
   - title: Shut-less
     author: mr-hokke
@@ -31,6 +31,13 @@ works:
     date: '2026-07-13'
     code: 636807
     url: /works/636807/
+  - title: LOOK LIKE
+    author: terasu-mc
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/641295.jpg
+    rating: 0.0
+    date: '2026-09-23'
+    code: 641295
+    url: /works/641295/
   - title: Momoiro Kikyou Boku no Hajimete wa Toshiue Bakunyuu Soap-jou｜Pink Bellflower∶
       My First Experience with an Older Busty Soapland Lady
     author: enma

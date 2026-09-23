@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole male"
-work_count: 701
+work_count: 704
 works:
   - title: Adoration
     author: kishizuka-kenji
@@ -633,6 +633,15 @@ works:
     date: '2026-08-18'
     code: 432356
     url: /works/432356/
+  - title: '[Sakuru Haruni Inazuma (Harumi Niina) Chuuken Bodyguard ga Nisemono Reijou
+      no Uso to Shintai wo Abaku made. | Until the Obedient Bodyguard Exposes the Body
+      and the Lie of the Fake Lady [English] [Painful Nightz] [Digital]'
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/436140.jpg
+    rating: 0.0
+    date: '2026-09-23'
+    code: 436140
+    url: /works/436140/
   - title: Kanojo no Kawaii Mieppari | My Cute Gyaru Girlfriend Is a Total Poser
     author: buta
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/441114.jpg
@@ -5165,6 +5174,14 @@ works:
     date: '2026-09-22'
     code: 682934
     url: /works/682934/
+  - title: Inma Danshi to Kankin Ecchi - Saiin Kuriseme de Seijo Kairaku Ochi | Captive
+      Sex with an Incubus ~holy woman corruption by lust inducing clitoral teasing~
+    author: rojione
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683058.jpg
+    rating: 0.0
+    date: '2026-09-23'
+    code: 683058
+    url: /works/683058/
   - title: Taishou Yotogi Roman - Kinyoubi no Hanayome CHAPTER 1-9
     author: sumino-yuuji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683067.jpg
@@ -5187,6 +5204,13 @@ works:
     date: '2026-09-23'
     code: 683228
     url: /works/683228/
+  - title: Sakitai. | I want to bloom.
+    author: sayuumigi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683309.jpg
+    rating: 0.0
+    date: '2026-09-23'
+    code: 683309
+    url: /works/683309/
   - title: Kuro-Gal Mama-san Haramasex
     author: ooshima-ryou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683312.jpg

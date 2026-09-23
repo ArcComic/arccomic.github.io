@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "handjob"
-work_count: 103
+work_count: 104
 works:
   - title: Yuri no o saifu ni shite agemasu ne, Senpai | I'll turn you into Yuri's wallet,
       Senpai
@@ -345,6 +345,13 @@ works:
     date: '2026-09-20'
     code: 638685
     url: /works/638685/
+  - title: LOOK LIKE
+    author: terasu-mc
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/641295.jpg
+    rating: 0.0
+    date: '2026-09-23'
+    code: 641295
+    url: /works/641295/
   - title: Misuzu no Oheya kara Hitoban Nigerarenai Hon  | The Book Where You Can't
       Escape Misuzu's Room All Night Long.
     author: cure-slum

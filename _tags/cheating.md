@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "cheating"
-work_count: 275
+work_count: 276
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -378,6 +378,13 @@ works:
     date: '2026-04-23'
     code: 435832
     url: /works/435832/
+  - title: Zoku NTR Nindou | The NTR Ninja Way 2
+    author: tokie-hirohito
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/441828.jpg
+    rating: 0.0
+    date: '2026-09-23'
+    code: 441828
+    url: /works/441828/
   - title: Tonari no Onee-san no Shitagi o Nusundara Kiseki ga Okita Hanashi o Shiyou
       |  Let’s Talk About the Story of A Miracle that Happened When I Stole the Underwear
       of the Lady Next Door

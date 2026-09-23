@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "drunk"
-work_count: 38
+work_count: 40
 works:
   - title: HUNDRED GAME Ch. 1-3
     author: kuon-michiyoshi
@@ -197,6 +197,13 @@ works:
     date: '2026-03-04'
     code: 634383
     url: /works/634383/
+  - title: LOOK LIKE
+    author: terasu-mc
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/641295.jpg
+    rating: 0.0
+    date: '2026-09-23'
+    code: 641295
+    url: /works/641295/
   - title: Alcoholic Libido
     author: osaki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/647692.jpg
@@ -276,4 +283,11 @@ works:
     date: '2026-09-19'
     code: 682225
     url: /works/682225/
+  - title: Gēmu Furin-numa ~ Inran Hitodzuma ga dan Hōkai sa Seru Made ~
+    author: hoshiduki-melon
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683316.jpg
+    rating: 0.0
+    date: '2026-09-23'
+    code: 683316
+    url: /works/683316/
 ---

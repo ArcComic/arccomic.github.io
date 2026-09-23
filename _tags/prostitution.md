@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "prostitution"
-work_count: 52
+work_count: 54
 works:
   - title: Yuri no o saifu ni shite agemasu ne, Senpai | I'll turn you into Yuri's wallet,
       Senpai
@@ -204,6 +204,13 @@ works:
     date: '2026-03-04'
     code: 634157
     url: /works/634157/
+  - title: LOOK LIKE
+    author: terasu-mc
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/641295.jpg
+    rating: 0.0
+    date: '2026-09-23'
+    code: 641295
+    url: /works/641295/
   - title: DeliHeal Yondara Moto Doukyuusei ga Kita ~Polynesian Sex  6-kame~
     author: tatsuwaipu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/643512.jpg
@@ -383,6 +390,13 @@ works:
     date: '2026-09-20'
     code: 682577
     url: /works/682577/
+  - title: Sakitai. | I want to bloom.
+    author: sayuumigi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683309.jpg
+    rating: 0.0
+    date: '2026-09-23'
+    code: 683309
+    url: /works/683309/
   - title: Hottokenaino
     author: hara-shigeyuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/77864.jpg

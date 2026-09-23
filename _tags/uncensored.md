@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "uncensored"
-work_count: 100
+work_count: 102
 works:
   - title: Netemo Sametemo | Be it Sleeping or Awake
     author: takasugi-kou
@@ -38,6 +38,13 @@ works:
     date: '2026-04-21'
     code: 431558
     url: /works/431558/
+  - title: Zoku NTR Nindou | The NTR Ninja Way 2
+    author: tokie-hirohito
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/441828.jpg
+    rating: 0.0
+    date: '2026-09-23'
+    code: 441828
+    url: /works/441828/
   - title: Konoe no Kyuujitsu | Konoe's Day Off
     author: alp
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/479447.jpg
@@ -394,6 +401,13 @@ works:
     date: '2026-03-07'
     code: 634593
     url: /works/634593/
+  - title: LOOK LIKE
+    author: terasu-mc
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/641295.jpg
+    rating: 0.0
+    date: '2026-09-23'
+    code: 641295
+    url: /works/641295/
   - title: Phaethon no Kinsaku AV Satsuei | Phaethons' Cash Grab AV Shoot
     author: sukoyakagumi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642563.jpg

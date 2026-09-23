@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole female"
-work_count: 734
+work_count: 738
 works:
   - title: Adoration
     author: kishizuka-kenji
@@ -718,6 +718,15 @@ works:
     date: '2026-04-19'
     code: 433732
     url: /works/433732/
+  - title: '[Sakuru Haruni Inazuma (Harumi Niina) Chuuken Bodyguard ga Nisemono Reijou
+      no Uso to Shintai wo Abaku made. | Until the Obedient Bodyguard Exposes the Body
+      and the Lie of the Fake Lady [English] [Painful Nightz] [Digital]'
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/436140.jpg
+    rating: 0.0
+    date: '2026-09-23'
+    code: 436140
+    url: /works/436140/
   - title: Boku no Netorase Seiheki ni Tsukiatte kureru Kanojo | A Girlfriend Who Plays
       Along with My Cuckold Fetish
     author: terasu-mc
@@ -2724,6 +2733,13 @@ works:
     date: '2026-09-18'
     code: 641188
     url: /works/641188/
+  - title: LOOK LIKE
+    author: terasu-mc
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/641295.jpg
+    rating: 0.0
+    date: '2026-09-23'
+    code: 641295
+    url: /works/641295/
   - title: Otokomasari na Kyonyuu Hitozuma Joushi to Amaama SeFri Kankei ni Natta Ken
     author: elica
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/641362.jpg
@@ -5391,6 +5407,14 @@ works:
     date: '2026-09-22'
     code: 682934
     url: /works/682934/
+  - title: Inma Danshi to Kankin Ecchi - Saiin Kuriseme de Seijo Kairaku Ochi | Captive
+      Sex with an Incubus ~holy woman corruption by lust inducing clitoral teasing~
+    author: rojione
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683058.jpg
+    rating: 0.0
+    date: '2026-09-23'
+    code: 683058
+    url: /works/683058/
   - title: Konoka Press Ch. 8
     author: ryoh-zoh
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683216.jpg
@@ -5406,6 +5430,13 @@ works:
     date: '2026-09-23'
     code: 683228
     url: /works/683228/
+  - title: Sakitai. | I want to bloom.
+    author: sayuumigi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683309.jpg
+    rating: 0.0
+    date: '2026-09-23'
+    code: 683309
+    url: /works/683309/
   - title: Shinjiru Mono wa Sukuwareru? Ore wa Muchimuchi Bijo Yuurei | Will The Faithful
       be Saved? A Plump, Beautiful Female Ghost is a Earthbound Spirit
     author: sakura-hanatsumi

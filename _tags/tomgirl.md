@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "tomgirl"
-work_count: 16
+work_count: 17
 works:
   - title: Hayato-sensei no Mesu-ka Karute Daigaku-hen | Dr. Hayato's Feminization Medical
       Record ~University Edition~
@@ -33,6 +33,13 @@ works:
     date: '2026-08-22'
     code: 627126
     url: /works/627126/
+  - title: LOOK LIKE
+    author: terasu-mc
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/641295.jpg
+    rating: 0.0
+    date: '2026-09-23'
+    code: 641295
+    url: /works/641295/
   - title: Josou Gyakunan Debusen Ketsuhame Tokoroten
     author: bonske
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/656753.jpg

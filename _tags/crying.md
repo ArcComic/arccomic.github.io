@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "crying"
-work_count: 22
+work_count: 23
 works:
   - title: Netorareru.~ Tsuma ga Ochi Yuku Hen'ai Kairaku no Hate ni...1-5 | NETORARERU,
       A Wife's Descent Into Sinful Pleasures 1-5
@@ -165,4 +165,11 @@ works:
     date: '2026-09-22'
     code: 682858
     url: /works/682858/
+  - title: Sakitai. | I want to bloom.
+    author: sayuumigi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683309.jpg
+    rating: 0.0
+    date: '2026-09-23'
+    code: 683309
+    url: /works/683309/
 ---

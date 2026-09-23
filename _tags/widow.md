@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "widow"
-work_count: 14
+work_count: 15
 works:
   - title: LOOK LIKE
     author: terasu-mc
@@ -55,6 +55,13 @@ works:
     date: '2026-03-05'
     code: 593456
     url: /works/593456/
+  - title: LOOK LIKE
+    author: terasu-mc
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/641295.jpg
+    rating: 0.0
+    date: '2026-09-23'
+    code: 641295
+    url: /works/641295/
   - title: Kachiki na Single Mother to Dosukebe Netsuai Seikou | Dirty and Passionate
       Sex with a Single Mother 1
     author: botamochi

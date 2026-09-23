@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "group"
-work_count: 189
+work_count: 192
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -91,6 +91,13 @@ works:
     date: '2026-03-07'
     code: 431578
     url: /works/431578/
+  - title: Zoku NTR Nindou | The NTR Ninja Way 2
+    author: tokie-hirohito
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/441828.jpg
+    rating: 0.0
+    date: '2026-09-23'
+    code: 441828
+    url: /works/441828/
   - title: Marebito Kitari Te
     author: yoshika
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/443073.jpg
@@ -299,6 +306,14 @@ works:
     date: '2026-04-25'
     code: 562615
     url: /works/562615/
+  - title: NIKKE Icha Love Ero Goudou "NIKKE☆Lover" | NIKKE Lovey-Dovey Ero Compendium
+      "NIKKE☆Lover"
+    author: kumakiti
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/568114.jpg
+    rating: 0.0
+    date: '2026-09-23'
+    code: 568114
+    url: /works/568114/
   - title: Hitozuma Volley-bu no Asedaku SEX ~Shower Abinagara Mitchaku Shichau? 5-6
       | Married Women's Volleyball Club Sweaty Sex - We're Being Glued Together While
       Taking A Shower? 5-6
@@ -1363,6 +1378,13 @@ works:
     date: '2026-09-23'
     code: 683315
     url: /works/683315/
+  - title: Gēmu Furin-numa ~ Inran Hitodzuma ga dan Hōkai sa Seru Made ~
+    author: hoshiduki-melon
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683316.jpg
+    rating: 0.0
+    date: '2026-09-23'
+    code: 683316
+    url: /works/683316/
   - title: Soku Hame! Muwatto Ase Mure Musume - Let's Sex! Sweaty Girls
     author: fetio
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683319.jpg

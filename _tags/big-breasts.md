@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big breasts"
-work_count: 846
+work_count: 850
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -572,6 +572,13 @@ works:
     date: '2026-04-25'
     code: 441036
     url: /works/441036/
+  - title: Zoku NTR Nindou | The NTR Ninja Way 2
+    author: tokie-hirohito
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/441828.jpg
+    rating: 0.0
+    date: '2026-09-23'
+    code: 441828
+    url: /works/441828/
   - title: Tonari no Onee-san no Shitagi o Nusundara Kiseki ga Okita Hanashi o Shiyou
       |  Let’s Talk About the Story of A Miracle that Happened When I Stole the Underwear
       of the Lady Next Door
@@ -1527,6 +1534,14 @@ works:
     date: '2026-09-06'
     code: 567355
     url: /works/567355/
+  - title: NIKKE Icha Love Ero Goudou "NIKKE☆Lover" | NIKKE Lovey-Dovey Ero Compendium
+      "NIKKE☆Lover"
+    author: kumakiti
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/568114.jpg
+    rating: 0.0
+    date: '2026-09-23'
+    code: 568114
+    url: /works/568114/
   - title: Cocoa-chan no Jiraikei Chuuihou
     author: uni-toshiki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/568923.jpg
@@ -2770,6 +2785,13 @@ works:
     date: '2026-09-18'
     code: 641188
     url: /works/641188/
+  - title: LOOK LIKE
+    author: terasu-mc
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/641295.jpg
+    rating: 0.0
+    date: '2026-09-23'
+    code: 641295
+    url: /works/641295/
   - title: Otokomasari na Kyonyuu Hitozuma Joushi to Amaama SeFri Kankei ni Natta Ken
     author: elica
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/641362.jpg
@@ -6187,6 +6209,13 @@ works:
     date: '2026-09-23'
     code: 683315
     url: /works/683315/
+  - title: Gēmu Furin-numa ~ Inran Hitodzuma ga dan Hōkai sa Seru Made ~
+    author: hoshiduki-melon
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683316.jpg
+    rating: 0.0
+    date: '2026-09-23'
+    code: 683316
+    url: /works/683316/
   - title: KuroTsuma
     author: hoshiduki-melon
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683317.jpg

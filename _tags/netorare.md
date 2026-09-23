@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "netorare"
-work_count: 322
+work_count: 325
 works:
   - title: Kousa suru Osu to Mesu | Male and Female Crossing
     author: ootsuka-kotora
@@ -270,6 +270,13 @@ works:
     date: '2026-04-25'
     code: 441036
     url: /works/441036/
+  - title: Zoku NTR Nindou | The NTR Ninja Way 2
+    author: tokie-hirohito
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/441828.jpg
+    rating: 0.0
+    date: '2026-09-23'
+    code: 441828
+    url: /works/441828/
   - title: Tsumaduki | With a Wife
     author: ryuuta
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/446716.jpg
@@ -1142,6 +1149,13 @@ works:
     date: '2026-04-23'
     code: 640543
     url: /works/640543/
+  - title: LOOK LIKE
+    author: terasu-mc
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/641295.jpg
+    rating: 0.0
+    date: '2026-09-23'
+    code: 641295
+    url: /works/641295/
   - title: Haruna wa Kyou kara Sachiko ni Narimashita.
     author: mashumarodan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642023.jpg
@@ -2339,6 +2353,13 @@ works:
     date: '2026-09-23'
     code: 683315
     url: /works/683315/
+  - title: Gēmu Furin-numa ~ Inran Hitodzuma ga dan Hōkai sa Seru Made ~
+    author: hoshiduki-melon
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683316.jpg
+    rating: 0.0
+    date: '2026-09-23'
+    code: 683316
+    url: /works/683316/
   - title: KuroTsuma
     author: hoshiduki-melon
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683317.jpg
