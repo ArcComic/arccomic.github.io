@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "manga"
-work_count: 295
+work_count: 297
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -2097,6 +2097,21 @@ works:
     date: '2026-09-22'
     code: 683216
     url: /works/683216/
+  - title: Ueno-kun wa Kaihatsu-zumi Dai 97 wa | Ueno-kun Has Been Developed Chapter
+      97
+    author: nakaura
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683391.jpg
+    rating: 0.0
+    date: '2026-09-23'
+    code: 683391
+    url: /works/683391/
+  - title: Parasite of Loneliness - CHAPTER 1-17
+    author: itoh-anyo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683430.jpg
+    rating: 4.1
+    date: '2026-09-23'
+    code: 683430
+    url: /works/683430/
   - title: Hottokenaino
     author: hara-shigeyuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/77864.jpg

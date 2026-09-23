@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "rough translation"
-work_count: 498
+work_count: 499
 works:
   - title: Watashi no Karada, Okashi Shimasu. Bunny Girl Edition
     author: nectar
@@ -3635,4 +3635,11 @@ works:
     date: '2026-09-23'
     code: 683271
     url: /works/683271/
+  - title: Shiawase Kazoku no Sodate kata
+    author: yaoyorozu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683398.jpg
+    rating: 0.0
+    date: '2026-09-23'
+    code: 683398
+    url: /works/683398/
 ---

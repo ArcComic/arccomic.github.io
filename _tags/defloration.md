@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "defloration"
-work_count: 188
+work_count: 189
 works:
   - title: Imitation Family + Bigibo Hen
     author: tohzai
@@ -1397,4 +1397,11 @@ works:
     date: '2026-09-22'
     code: 683192
     url: /works/683192/
+  - title: Parasite of Loneliness - CHAPTER 1-17
+    author: itoh-anyo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683430.jpg
+    rating: 4.1
+    date: '2026-09-23'
+    code: 683430
+    url: /works/683430/
 ---

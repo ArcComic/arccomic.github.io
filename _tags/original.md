@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "original"
-work_count: 856
+work_count: 857
 works:
   - title: Natsu dake Koibito - Summer only Lover [English] =Forbidden Fetish + Ser
       Maggot=
@@ -6359,4 +6359,11 @@ works:
     date: '2026-09-23'
     code: 683271
     url: /works/683271/
+  - title: Shiawase Kazoku no Sodate kata
+    author: yaoyorozu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683398.jpg
+    rating: 0.0
+    date: '2026-09-23'
+    code: 683398
+    url: /works/683398/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "netorase"
-work_count: 26
+work_count: 27
 works:
   - title: Boku no Netorase Seiheki ni Tsukiatte kureru Kanojo | A Girlfriend Who Plays
       Along with My Cuckold Fetish
@@ -194,4 +194,11 @@ works:
     date: '2026-09-20'
     code: 682577
     url: /works/682577/
+  - title: Parasite of Loneliness - CHAPTER 1-17
+    author: itoh-anyo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683430.jpg
+    rating: 4.1
+    date: '2026-09-23'
+    code: 683430
+    url: /works/683430/
 ---
