@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "nipple stimulation"
-work_count: 104
+work_count: 106
 works:
   - title: Hypnotic Domination ~ The Fall of Tennis Club Ace ~
     author: danchino
@@ -601,6 +601,13 @@ works:
     date: '2026-07-17'
     code: 664937
     url: /works/664937/
+  - title: Boku dake no yuki ane
+    author: misaki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/667775.jpg
+    rating: 4.3
+    date: '2026-09-23'
+    code: 667775
+    url: /works/667775/
   - title: Igyou Koubi Kairaku Jigoku 1 + 2
     author: allegro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/668880.jpg
@@ -781,4 +788,11 @@ works:
     date: '2026-09-22'
     code: 682858
     url: /works/682858/
+  - title: Taishou Yotogi Roman - Kinyoubi no Hanayome CHAPTER 1-9
+    author: sumino-yuuji
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683067.jpg
+    rating: 4.5
+    date: '2026-09-23'
+    code: 683067
+    url: /works/683067/
 ---

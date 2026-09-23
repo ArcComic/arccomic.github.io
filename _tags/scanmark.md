@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "scanmark"
-work_count: 170
+work_count: 171
 works:
   - title: NTR Anniversary + ) [Syukurin] Mitsuha ~Netorare~ (Kimi no Na wa.) [English]
       [Colorized] by Mikaku
@@ -697,6 +697,13 @@ works:
     date: '2026-09-19'
     code: 667314
     url: /works/667314/
+  - title: Boku dake no yuki ane
+    author: misaki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/667775.jpg
+    rating: 4.3
+    date: '2026-09-23'
+    code: 667775
+    url: /works/667775/
   - title: Azanaharu Kanojo no Shikiroku | Color Records of a Girlfriend in Entanglement
     author: allegro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/669452.jpg

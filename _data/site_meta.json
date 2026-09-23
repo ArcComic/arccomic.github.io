@@ -6,6 +6,16 @@
   "footer": "Daily updates",
   "footer_html": "Daily updates",
   "ad_network": "mondiad",
+  "ad_toggles": {
+    "mondiad_banner": true,
+    "mondiad_popunder": true,
+    "hilltopads_banner": true,
+    "hilltopads_inpage": true,
+    "hilltopads_popunder": true,
+    "clickadilla_banner": true,
+    "clickadilla_popunder": true,
+    "clickadilla_inpage": true
+  },
   "read_buttons": [
     {
       "id": "telegram_bot",

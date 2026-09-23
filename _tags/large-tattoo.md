@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "large tattoo"
-work_count: 13
+work_count: 14
 works:
+  - title: NTR Nindou | The NTR Ninja Way
+    author: tokie-hirohito
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/402019.jpg
+    rating: 4.1
+    date: '2026-09-23'
+    code: 402019
+    url: /works/402019/
   - title: Houkai Kazoku -Hahaoya ga Yakuza to no Sex ni Hamatta Hanashi- | Broken Family
       - A Story About a Mother Who Became Addicted to Sex With a Yakuza
     author: watsondou

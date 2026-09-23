@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "josei"
-work_count: 15
+work_count: 16
 works:
   - title: Onozomi deshitara Saimin wo ~Maki-san Himitsu no Renai Therapy~ | If you
       wish, hypnosis ~Maki-san's secret love therapy~
@@ -28,6 +28,13 @@ works:
     date: '2026-05-03'
     code: 534823
     url: /works/534823/
+  - title: SeFri no Ichihara ga Nigashite Kurenai | My FWB Ichihara Won't Let Me Go
+    author: kyapefuro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/561349.jpg
+    rating: 4.8
+    date: '2026-09-23'
+    code: 561349
+    url: /works/561349/
   - title: Konki Girigiri Sister, Semete Shojo wo Sutetai | If I Can't Be Married At
       Least Let Me Quit Being a Virgin
     author: torii-yoshitsuna

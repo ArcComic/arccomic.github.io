@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "solo action"
-work_count: 5
+work_count: 6
 works:
   - title: Yasashii Bakunyuu Kaa-san to Irekawacchatta Hankouki na Ore no Hanashi ~Episode
       1~
@@ -39,4 +39,11 @@ works:
     date: '2026-07-16'
     code: 664845
     url: /works/664845/
+  - title: Boku dake no yuki ane
+    author: misaki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/667775.jpg
+    rating: 4.3
+    date: '2026-09-23'
+    code: 667775
+    url: /works/667775/
 ---

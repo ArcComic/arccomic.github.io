@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "amam"
-work_count: 3
+work_count: 4
 works:
   - title: Mesu no Ie II ~Tsuma wa Midare Ubareru~
     author: ame-arare
@@ -17,6 +17,13 @@ works:
     date: '2026-05-01'
     code: 647334
     url: /works/647334/
+  - title: Mesunoyado ~Tsuma wa Midare Kegasareru~
+    author: ame-arare
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/658797.jpg
+    rating: 4.8
+    date: '2026-09-23'
+    code: 658797
+    url: /works/658797/
   - title: Mesu no Ie III ~Oyako wa Midare Aisareru~
     author: ame-arare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/675981.jpg

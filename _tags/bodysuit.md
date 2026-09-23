@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bodysuit"
-work_count: 5
+work_count: 6
 works:
   - title: The Prison Idol And Assistant
     author: halo
@@ -32,6 +32,13 @@ works:
     date: '2026-08-23'
     code: 675048
     url: /works/675048/
+  - title: Haiboku Hiroin Ringu Auto
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683225.jpg
+    rating: 4.6
+    date: '2026-09-23'
+    code: 683225
+    url: /works/683225/
   - title: Hottokenaino
     author: hara-shigeyuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/77864.jpg

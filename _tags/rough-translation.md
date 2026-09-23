@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "rough translation"
-work_count: 493
+work_count: 498
 works:
   - title: Watashi no Karada, Okashi Shimasu. Bunny Girl Edition
     author: nectar
@@ -2262,6 +2262,13 @@ works:
     date: '2026-09-19'
     code: 667314
     url: /works/667314/
+  - title: Boku dake no yuki ane
+    author: misaki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/667775.jpg
+    rating: 4.3
+    date: '2026-09-23'
+    code: 667775
+    url: /works/667775/
   - title: Okoranaide Hoshikawa-san 3 | Hey, Hold your Horses, Hoshikawa-san! 3
     author: raidon
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/667857.jpg
@@ -3298,6 +3305,13 @@ works:
     date: '2026-09-15'
     code: 681361
     url: /works/681361/
+  - title: Nani o Kangaeteru no ka Imaichi Wakaran Ane no Tomodachi
+    author: bodaijun
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681442.jpg
+    rating: 4.2
+    date: '2026-09-23'
+    code: 681442
+    url: /works/681442/
   - title: Cool-chan wa Sensei Gakari
     author: nekoi-mie
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681465.jpg
@@ -3598,4 +3612,27 @@ works:
     date: '2026-09-22'
     code: 683137
     url: /works/683137/
+  - title: Haiboku Hiroin Ringu Auto
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683225.jpg
+    rating: 4.6
+    date: '2026-09-23'
+    code: 683225
+    url: /works/683225/
+  - title: Hikikomori de Ero Manga Kaiteru Doutei Oikko to Oba-san ga Icha Love SEX
+      suru Hanashi
+    author: fukuhara-takaya
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683228.jpg
+    rating: 4.4
+    date: '2026-09-23'
+    code: 683228
+    url: /works/683228/
+  - title: Motoyan Hitozuma Taiiku Kyoushi, Ochiru | Former Delinquent Housewife PE
+      Teacher, Falls.
+    author: shiro-maru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683271.jpg
+    rating: 4.7
+    date: '2026-09-23'
+    code: 683271
+    url: /works/683271/
 ---
