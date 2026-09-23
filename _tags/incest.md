@@ -803,7 +803,7 @@ works:
   - title: LOOK LIKE
     author: terasu-mc
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/641295.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-23'
     code: 641295
     url: /works/641295/
@@ -1129,7 +1129,7 @@ works:
   - title: Imouto wa Chikubi Onanie ga Yamerarenai
     author: ogataaz
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/656814.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-23'
     code: 656814
     url: /works/656814/
@@ -1392,7 +1392,7 @@ works:
   - title: Unsweet Kazumi Wakui + (Plus) SIDE Kazumi
     author: tanaka-aji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/671907.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-23'
     code: 671907
     url: /works/671907/
@@ -1413,7 +1413,7 @@ works:
   - title: Itoko to Oba to Kinshin Haramase Vacance ~Haitoku no Oyako Double Ninshin~
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673215.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-23'
     code: 673215
     url: /works/673215/
@@ -1738,7 +1738,7 @@ works:
   - title: Ero Mama ~Erosugiru Hahaoya ga Futari dekita Hanashi~
     author: miyahara-ayumu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683307.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-23'
     code: 683307
     url: /works/683307/

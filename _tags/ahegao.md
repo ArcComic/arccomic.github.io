@@ -139,14 +139,14 @@ works:
       and the Lie of the Fake Lady [English] [Painful Nightz] [Digital]'
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/436140.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-23'
     code: 436140
     url: /works/436140/
   - title: Zoku NTR Nindou | The NTR Ninja Way 2
     author: tokie-hirohito
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/441828.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-23'
     code: 441828
     url: /works/441828/

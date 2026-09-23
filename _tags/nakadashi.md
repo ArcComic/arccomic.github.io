@@ -442,7 +442,7 @@ works:
       and the Lie of the Fake Lady [English] [Painful Nightz] [Digital]'
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/436140.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-23'
     code: 436140
     url: /works/436140/
@@ -1040,7 +1040,7 @@ works:
       na Ano Otoko ni Nando mo Ikasaremashita... Full Color Ban
     author: tanaka-aji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/537208.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-23'
     code: 537208
     url: /works/537208/
@@ -1274,7 +1274,7 @@ works:
       "NIKKE☆Lover"
     author: kumakiti
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/568114.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-23'
     code: 568114
     url: /works/568114/
@@ -2278,7 +2278,7 @@ works:
   - title: Haru Kurabe 5
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638513.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-23'
     code: 638513
     url: /works/638513/
@@ -4471,7 +4471,7 @@ works:
       Sex with an Incubus ~holy woman corruption by lust inducing clitoral teasing~
     author: rojione
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683058.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-23'
     code: 683058
     url: /works/683058/
@@ -4500,21 +4500,21 @@ works:
   - title: Ero Mama ~Erosugiru Hahaoya ga Futari dekita Hanashi~
     author: miyahara-ayumu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683307.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-23'
     code: 683307
     url: /works/683307/
   - title: Sakitai. | I want to bloom.
     author: sayuumigi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683309.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-23'
     code: 683309
     url: /works/683309/
   - title: Daitouryou no Inbou | U.S. Presidential Conspiracy
     author: hachiya-makoto
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683310.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-23'
     code: 683310
     url: /works/683310/

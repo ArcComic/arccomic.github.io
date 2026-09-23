@@ -326,7 +326,7 @@ works:
   - title: Zoku NTR Nindou | The NTR Ninja Way 2
     author: tokie-hirohito
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/441828.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-23'
     code: 441828
     url: /works/441828/
@@ -1789,7 +1789,7 @@ works:
   - title: Haru Kurabe 5
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638513.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-23'
     code: 638513
     url: /works/638513/
@@ -1827,7 +1827,7 @@ works:
   - title: LOOK LIKE
     author: terasu-mc
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/641295.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-23'
     code: 641295
     url: /works/641295/
@@ -3574,21 +3574,21 @@ works:
   - title: Ero Mama ~Erosugiru Hahaoya ga Futari dekita Hanashi~
     author: miyahara-ayumu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683307.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-23'
     code: 683307
     url: /works/683307/
   - title: Sakitai. | I want to bloom.
     author: sayuumigi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683309.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-23'
     code: 683309
     url: /works/683309/
   - title: Daitouryou no Inbou | U.S. Presidential Conspiracy
     author: hachiya-makoto
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683310.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-23'
     code: 683310
     url: /works/683310/

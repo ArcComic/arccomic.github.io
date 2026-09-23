@@ -70,7 +70,7 @@ works:
     url: /works/634198/
   - title: Haru Kurabe 5
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638513.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-23'
     code: 638513
     url: /works/638513/
@@ -140,7 +140,7 @@ works:
     url: /works/666748/
   - title: Itoko to Oba to Kinshin Haramase Vacance ~Haitoku no Oyako Double Ninshin~
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673215.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-23'
     code: 673215
     url: /works/673215/

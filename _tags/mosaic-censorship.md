@@ -511,7 +511,7 @@ works:
       na Ano Otoko ni Nando mo Ikasaremashita... Full Color Ban
     author: tanaka-aji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/537208.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-23'
     code: 537208
     url: /works/537208/
@@ -1017,7 +1017,7 @@ works:
   - title: Haru Kurabe 5
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638513.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-23'
     code: 638513
     url: /works/638513/
@@ -1324,7 +1324,7 @@ works:
   - title: Imouto wa Chikubi Onanie ga Yamerarenai
     author: ogataaz
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/656814.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-23'
     code: 656814
     url: /works/656814/
@@ -1546,7 +1546,7 @@ works:
   - title: Unsweet Kazumi Wakui + (Plus) SIDE Kazumi
     author: tanaka-aji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/671907.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-23'
     code: 671907
     url: /works/671907/
@@ -1567,7 +1567,7 @@ works:
   - title: Itoko to Oba to Kinshin Haramase Vacance ~Haitoku no Oyako Double Ninshin~
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673215.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-23'
     code: 673215
     url: /works/673215/

@@ -483,6 +483,24 @@ CLICKADILLA_BANNER_A_HTML = f'<div class="ad-slot"><div data-banner-id="{CLICKAD
 CLICKADILLA_BANNER_B_HTML = f'<div class="ad-slot"><div data-banner-id="{CLICKADILLA_BANNER_B_ID}"></div></div>'
 HILLTOPADS_INPAGE_HTML = f'<div class="ad-slot">{HILLTOPADS_INPAGE_SCRIPT}</div>'
 
+def _js_string_safe_html(html_str):
+    """Escapes any literal '</script>' inside an HTML string so it can be
+    safely embedded as a JS string literal inside another <script> block
+    (see AD_JS_CONSTANTS below). Browsers scan raw HTML for the byte sequence
+    '</script>' to find where a script block ends — they do this BEFORE any
+    JS parsing happens, so they don't know or care that the sequence is sitting
+    inside a quoted JS string. HilltopAds' banner/in-page snippets are
+    themselves full <script>...</script> blocks, so embedding them verbatim
+    inside json.dumps() output that later sits inside index/tag/search/artist's
+    own outer <script> tag causes the browser to close that outer tag early,
+    dumping all subsequent JS as literal page text (this is exactly what
+    happened on the live site — the reading page was unaffected because its
+    ad slots are placed as raw HTML, never inside a wrapping <script> tag).
+    The fix: split the closing tag as '<\\/script>' — identical to the browser
+    at runtime since '\\/' is just an escaped forward slash in JS, but it no
+    longer matches the raw byte sequence the HTML parser is scanning for."""
+    return html_str.replace("</script>", "<\\/script>")
+
 # ---- Static slots (reading page — slots exist in the HTML from first paint) ----
 # Reading page shows Banner A in the first slot and Banner B in the second
 # (below Similar Comics), for whichever network is active, plus a popunder
@@ -546,14 +564,14 @@ AD_JS_CONSTANTS = (
     "        const AD_TOGGLES = " + json.dumps(DEFAULT_AD_TOGGLES) + ";\n"
     "        Object.assign(AD_TOGGLES, {{ site.data.site_meta.ad_toggles | jsonify }});\n"
     "        const SLOT_A_HTML = {\n"
-    "            mondiad: " + json.dumps(MONDIAD_BANNER_A_HTML) + ",\n"
-    "            hilltopads: " + json.dumps(HILLTOPADS_BANNER_A_HTML) + ",\n"
-    "            clickadilla: " + json.dumps(CLICKADILLA_BANNER_A_HTML) + "\n"
+    "            mondiad: " + json.dumps(_js_string_safe_html(MONDIAD_BANNER_A_HTML)) + ",\n"
+    "            hilltopads: " + json.dumps(_js_string_safe_html(HILLTOPADS_BANNER_A_HTML)) + ",\n"
+    "            clickadilla: " + json.dumps(_js_string_safe_html(CLICKADILLA_BANNER_A_HTML)) + "\n"
     "        };\n"
     "        const SLOT_B_HTML = {\n"
-    "            mondiad: " + json.dumps(MONDIAD_BANNER_B_HTML) + ",\n"
-    "            hilltopads: " + json.dumps(HILLTOPADS_INPAGE_HTML) + ",\n"
-    "            clickadilla: " + json.dumps(CLICKADILLA_BANNER_B_HTML) + "\n"
+    "            mondiad: " + json.dumps(_js_string_safe_html(MONDIAD_BANNER_B_HTML)) + ",\n"
+    "            hilltopads: " + json.dumps(_js_string_safe_html(HILLTOPADS_INPAGE_HTML)) + ",\n"
+    "            clickadilla: " + json.dumps(_js_string_safe_html(CLICKADILLA_BANNER_B_HTML)) + "\n"
     "        };\n"
     "        const SLOT_A_TOGGLE_KEY = {mondiad: 'mondiad_banner', hilltopads: 'hilltopads_banner', clickadilla: 'clickadilla_banner'};\n"
     "        const SLOT_B_TOGGLE_KEY = {mondiad: 'mondiad_banner', hilltopads: 'hilltopads_inpage', clickadilla: 'clickadilla_banner'};"
@@ -1351,7 +1369,7 @@ PAGINATION_JS = """
 
 # ============== HOMEPAGE (index.html) ==============
 INDEX_HTML_PATH = os.path.join(WORK_DIR, "index.html")
-INDEX_HTML_VERSION = 18  # bumped session 13: Adsterra removed, network-aware banner via SLOT_A_HTML
+INDEX_HTML_VERSION = 19  # bumped again: fixed <script> premature-close bug from unescaped HilltopAds snippet
 
 INDEX_HTML_TEMPLATE = f"""---
 # No 'layout:' key here on purpose — index.html is a complete, self-contained
@@ -1841,7 +1859,7 @@ def ensure_index_html():
 # ============== TAG SYSTEM (Stage 3) ==============
 TAGS_DIR = os.path.join(WORK_DIR, "_tags")
 TAG_LAYOUT_PATH = os.path.join(WORK_DIR, "_layouts", "tag.html")
-TAG_LAYOUT_VERSION = 14  # bumped session 13: Adsterra removed, Banner+In-page dual slot
+TAG_LAYOUT_VERSION = 15  # bumped again: fixed <script> premature-close bug from unescaped HilltopAds snippet
 TAGS_INDEX_PATH = os.path.join(WORK_DIR, "tags", "index.html")
 TAGS_INDEX_VERSION = 1
 
@@ -2063,7 +2081,7 @@ def slugify(text):
 
 # ============== SEARCH RESULTS PAGE ==============
 SEARCH_PAGE_PATH = os.path.join(WORK_DIR, "search", "index.html")
-SEARCH_PAGE_VERSION = 15  # bumped session 13: Adsterra removed, Banner+In-page dual slot
+SEARCH_PAGE_VERSION = 16  # bumped again: fixed <script> premature-close bug from unescaped HilltopAds snippet
 
 SEARCH_PAGE_TEMPLATE = f"""---
 ---
@@ -2585,7 +2603,7 @@ def _write_tags_index(tag_map):
 # index, regenerated together with tags after every batch flush/delete.
 ARTISTS_DIR = os.path.join(WORK_DIR, "_artists")
 ARTIST_LAYOUT_PATH = os.path.join(WORK_DIR, "_layouts", "artist.html")
-ARTIST_LAYOUT_VERSION = 13  # bumped session 13: Adsterra removed, Banner+In-page dual slot
+ARTIST_LAYOUT_VERSION = 14  # bumped again: fixed <script> premature-close bug from unescaped HilltopAds snippet
 ARTISTS_INDEX_PATH = os.path.join(WORK_DIR, "artists", "index.html")
 ARTISTS_INDEX_VERSION = 1
 

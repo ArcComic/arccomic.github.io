@@ -273,7 +273,7 @@ works:
   - title: Zoku NTR Nindou | The NTR Ninja Way 2
     author: tokie-hirohito
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/441828.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-23'
     code: 441828
     url: /works/441828/
@@ -621,7 +621,7 @@ works:
       na Ano Otoko ni Nando mo Ikasaremashita... Full Color Ban
     author: tanaka-aji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/537208.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-23'
     code: 537208
     url: /works/537208/
@@ -1152,7 +1152,7 @@ works:
   - title: LOOK LIKE
     author: terasu-mc
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/641295.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-23'
     code: 641295
     url: /works/641295/
@@ -1839,7 +1839,7 @@ works:
   - title: Unsweet Kazumi Wakui + (Plus) SIDE Kazumi
     author: tanaka-aji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/671907.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-23'
     code: 671907
     url: /works/671907/
