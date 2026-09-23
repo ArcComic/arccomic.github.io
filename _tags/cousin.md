@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "cousin"
-work_count: 14
+work_count: 15
 works:
   - title: Natsuyasumi~Boku to oneechan no inaka de hatsutaiken~ |Summer Vacation~My
       first time with Oneechan in the countryside
@@ -87,6 +87,13 @@ works:
     date: '2026-09-04'
     code: 669459
     url: /works/669459/
+  - title: Itoko to Oba to Kinshin Haramase Vacance ~Haitoku no Oyako Double Ninshin~
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673215.jpg
+    rating: 0.0
+    date: '2026-09-23'
+    code: 673215
+    url: /works/673215/
   - title: 'Shounen wa, Onee-chan ni Idakare Natsu | A Boy Embraced by His Older Sister:
       Summer'
     author: sakayama-shinta

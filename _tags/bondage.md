@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bondage"
-work_count: 69
+work_count: 71
 works:
   - title: CHOCO x LOVE
     author: highlow
@@ -338,6 +338,13 @@ works:
     date: '2026-07-17'
     code: 664937
     url: /works/664937/
+  - title: Unsweet Kazumi Wakui + (Plus) SIDE Kazumi
+    author: tanaka-aji
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/671907.jpg
+    rating: 0.0
+    date: '2026-09-23'
+    code: 671907
+    url: /works/671907/
   - title: Hanamizuki Vol.4
     author: rocinante
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/672835.jpg
@@ -504,6 +511,14 @@ works:
     date: '2026-09-22'
     code: 683188
     url: /works/683188/
+  - title: Tamatama Mita AV no Onnanoko ga Kanojo ni Gekini Sugiru. 3 | The girl in
+      the adult video I happened to watch looks too much like my girlfriend 3
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683443.jpg
+    rating: 0.0
+    date: '2026-09-23'
+    code: 683443
+    url: /works/683443/
   - title: Onee-chan no SM Kouza | Onee-chan's S&M Lecture
     author: shinooka-homare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/88750.jpg

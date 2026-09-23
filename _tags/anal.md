@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "anal"
-work_count: 115
+work_count: 119
 works:
   - title: Hitozuma Hyakka
     author: hase-tsubura
@@ -327,6 +327,13 @@ works:
     date: '2026-03-07'
     code: 635363
     url: /works/635363/
+  - title: Haru Kurabe 5
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638513.jpg
+    rating: 0.0
+    date: '2026-09-23'
+    code: 638513
+    url: /works/638513/
   - title: Eat Meat + Digital Tokusouban Gentei Tokuten - Natsume-san wa Chorosugiru!
     author: ushinomiya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638556.jpg
@@ -616,6 +623,13 @@ works:
     date: '2026-09-10'
     code: 669748
     url: /works/669748/
+  - title: Unsweet Kazumi Wakui + (Plus) SIDE Kazumi
+    author: tanaka-aji
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/671907.jpg
+    rating: 0.0
+    date: '2026-09-23'
+    code: 671907
+    url: /works/671907/
   - title: Tenshi Hirotta kara Haramaseru ~Ojii-san Senyou Botebara Onaho ni Naru made
       no Kiroku~ | I Met an Angel, and then I Knocked Her Up ~A Record of Becoming Oji-san’s
       Personal Preggo Belly Onahole~
@@ -831,6 +845,20 @@ works:
     date: '2026-09-22'
     code: 683121
     url: /works/683121/
+  - title: SAIWAI ~Onna-tachi no Ura no Kao~
+    author: taba
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683314.jpg
+    rating: 0.0
+    date: '2026-09-23'
+    code: 683314
+    url: /works/683314/
+  - title: Soku Hame! Muwatto Ase Mure Musume - Let's Sex! Sweaty Girls
+    author: fetio
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683319.jpg
+    rating: 0.0
+    date: '2026-09-23'
+    code: 683319
+    url: /works/683319/
   - title: Shiawase Kazoku no Sodate kata
     author: yaoyorozu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683398.jpg

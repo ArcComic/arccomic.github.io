@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "original"
-work_count: 857
+work_count: 867
 works:
   - title: Natsu dake Koibito - Summer only Lover [English] =Forbidden Fetish + Ser
       Maggot=
@@ -1194,6 +1194,14 @@ works:
     date: '2026-05-07'
     code: 536423
     url: /works/536423/
+  - title: Ochita Part Zuma Miura Manami Kenshuu Ryokou de Watashi no Karada wa Daikirai
+      na Ano Otoko ni Nando mo Ikasaremashita... Full Color Ban
+    author: tanaka-aji
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/537208.jpg
+    rating: 0.0
+    date: '2026-09-23'
+    code: 537208
+    url: /works/537208/
   - title: Rena
     author: shinjima-saki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/537476.jpg
@@ -2798,6 +2806,13 @@ works:
     date: '2026-09-19'
     code: 638320
     url: /works/638320/
+  - title: Haru Kurabe 5
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638513.jpg
+    rating: 0.0
+    date: '2026-09-23'
+    code: 638513
+    url: /works/638513/
   - title: Yariman no Namaiki Kouhai to Tsukiau made no Hanashi.
     author: tokyo-gunjo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638929.jpg
@@ -3982,6 +3997,13 @@ works:
     date: '2026-07-09'
     code: 656753
     url: /works/656753/
+  - title: Imouto wa Chikubi Onanie ga Yamerarenai
+    author: ogataaz
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/656814.jpg
+    rating: 0.0
+    date: '2026-09-23'
+    code: 656814
+    url: /works/656814/
   - title: Musuko no Onegai | My son's wish...
     author: natsu-no-oyatsu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/657453.jpg
@@ -4750,6 +4772,13 @@ works:
     date: '2026-08-19'
     code: 671657
     url: /works/671657/
+  - title: Unsweet Kazumi Wakui + (Plus) SIDE Kazumi
+    author: tanaka-aji
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/671907.jpg
+    rating: 0.0
+    date: '2026-09-23'
+    code: 671907
+    url: /works/671907/
   - title: Akogare Senpai ga NTR sareru Hon
     author: seinen-hormone
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/672241.jpg
@@ -4788,6 +4817,13 @@ works:
     date: '2026-09-06'
     code: 673207
     url: /works/673207/
+  - title: Itoko to Oba to Kinshin Haramase Vacance ~Haitoku no Oyako Double Ninshin~
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673215.jpg
+    rating: 0.0
+    date: '2026-09-23'
+    code: 673215
+    url: /works/673215/
   - title: Yome no Tsurego ni Otosareru Boku | I was Seduced by My Wife's Child from
       a Previous Marriage
     author: sabano-fudeoki
@@ -6359,6 +6395,35 @@ works:
     date: '2026-09-23'
     code: 683271
     url: /works/683271/
+  - title: Ero Mama ~Erosugiru Hahaoya ga Futari dekita Hanashi~
+    author: miyahara-ayumu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683307.jpg
+    rating: 0.0
+    date: '2026-09-23'
+    code: 683307
+    url: /works/683307/
+  - title: SAIWAI ~Onna-tachi no Ura no Kao~
+    author: taba
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683314.jpg
+    rating: 0.0
+    date: '2026-09-23'
+    code: 683314
+    url: /works/683314/
+  - title: Shinjiru Mono wa Sukuwareru? Ore wa Muchimuchi Bijo Yuurei | Will The Faithful
+      be Saved? A Plump, Beautiful Female Ghost is a Earthbound Spirit
+    author: sakura-hanatsumi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683325.jpg
+    rating: 4.6
+    date: '2026-09-23'
+    code: 683325
+    url: /works/683325/
+  - title: Daikan Shoujo - Abnormal SEX Friend
+    author: fujisaki-hikari
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683332.jpg
+    rating: 0.0
+    date: '2026-09-23'
+    code: 683332
+    url: /works/683332/
   - title: Shiawase Kazoku no Sodate kata
     author: yaoyorozu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683398.jpg
@@ -6366,4 +6431,12 @@ works:
     date: '2026-09-23'
     code: 683398
     url: /works/683398/
+  - title: Tamatama Mita AV no Onnanoko ga Kanojo ni Gekini Sugiru. 3 | The girl in
+      the adult video I happened to watch looks too much like my girlfriend 3
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683443.jpg
+    rating: 0.0
+    date: '2026-09-23'
+    code: 683443
+    url: /works/683443/
 ---

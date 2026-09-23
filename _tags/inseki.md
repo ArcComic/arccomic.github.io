@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "inseki"
-work_count: 60
+work_count: 61
 works:
   - title: Imitation Family + Bigibo Hen
     author: tohzai
@@ -444,4 +444,11 @@ works:
     date: '2026-09-20'
     code: 682559
     url: /works/682559/
+  - title: Ero Mama ~Erosugiru Hahaoya ga Futari dekita Hanashi~
+    author: miyahara-ayumu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683307.jpg
+    rating: 0.0
+    date: '2026-09-23'
+    code: 683307
+    url: /works/683307/
 ---

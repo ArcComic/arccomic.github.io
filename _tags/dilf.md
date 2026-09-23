@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "dilf"
-work_count: 146
+work_count: 149
 works:
   - title: Adoration
     author: kishizuka-kenji
@@ -312,6 +312,14 @@ works:
     date: '2026-04-12'
     code: 531759
     url: /works/531759/
+  - title: Ochita Part Zuma Miura Manami Kenshuu Ryokou de Watashi no Karada wa Daikirai
+      na Ano Otoko ni Nando mo Ikasaremashita... Full Color Ban
+    author: tanaka-aji
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/537208.jpg
+    rating: 0.0
+    date: '2026-09-23'
+    code: 537208
+    url: /works/537208/
   - title: Pakokatsu Oji-san to Kaede-chan (1+2+3) | Kaede and The Sugar Daddy
     author: nizigensan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/543086.jpg
@@ -1062,6 +1070,13 @@ works:
     date: '2026-09-20'
     code: 682557
     url: /works/682557/
+  - title: Soku Hame! Muwatto Ase Mure Musume - Let's Sex! Sweaty Girls
+    author: fetio
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683319.jpg
+    rating: 0.0
+    date: '2026-09-23'
+    code: 683319
+    url: /works/683319/
   - title: Hieda | The Fall of Hieda
     author: akure-ekuto
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683406.jpg
@@ -1069,4 +1084,12 @@ works:
     date: '2026-09-23'
     code: 683406
     url: /works/683406/
+  - title: Tamatama Mita AV no Onnanoko ga Kanojo ni Gekini Sugiru. 3 | The girl in
+      the adult video I happened to watch looks too much like my girlfriend 3
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683443.jpg
+    rating: 0.0
+    date: '2026-09-23'
+    code: 683443
+    url: /works/683443/
 ---

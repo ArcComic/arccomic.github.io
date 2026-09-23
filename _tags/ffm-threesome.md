@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "ffm threesome"
-work_count: 101
+work_count: 107
 works:
   - title: Hustle! Danchizuma Ch. 1-18 END
     author: hidemaru
@@ -565,6 +565,13 @@ works:
     date: '2026-09-04'
     code: 669459
     url: /works/669459/
+  - title: Itoko to Oba to Kinshin Haramase Vacance ~Haitoku no Oyako Double Ninshin~
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673215.jpg
+    rating: 0.0
+    date: '2026-09-23'
+    code: 673215
+    url: /works/673215/
   - title: 'Breeding License: The “Picking Up Girls on the Beach and Having Wild Sex”
       Edition'
     author: minamihama-yoriko
@@ -745,6 +752,41 @@ works:
     date: '2026-09-23'
     code: 683082
     url: /works/683082/
+  - title: Ero Mama ~Erosugiru Hahaoya ga Futari dekita Hanashi~
+    author: miyahara-ayumu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683307.jpg
+    rating: 0.0
+    date: '2026-09-23'
+    code: 683307
+    url: /works/683307/
+  - title: Kuro-Gal Mama-san Haramasex
+    author: ooshima-ryou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683312.jpg
+    rating: 0.0
+    date: '2026-09-23'
+    code: 683312
+    url: /works/683312/
+  - title: Netorase ~Oku-san Koukan Kaishimasen ka?~
+    author: hoshiduki-melon
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683315.jpg
+    rating: 4.6
+    date: '2026-09-23'
+    code: 683315
+    url: /works/683315/
+  - title: KuroTsuma
+    author: hoshiduki-melon
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683317.jpg
+    rating: 0.0
+    date: '2026-09-23'
+    code: 683317
+    url: /works/683317/
+  - title: Insuru Juku Ashi
+    author: taba
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683318.jpg
+    rating: 0.0
+    date: '2026-09-23'
+    code: 683318
+    url: /works/683318/
   - title: Parasite of Loneliness - CHAPTER 1-17
     author: itoh-anyo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683430.jpg

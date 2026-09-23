@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "orgasm denial"
-work_count: 13
+work_count: 14
 works:
   - title: Ayami Hypno
     author: yasuhiro
@@ -94,6 +94,13 @@ works:
     date: '2026-09-18'
     code: 682180
     url: /works/682180/
+  - title: Insuru Juku Ashi
+    author: taba
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683318.jpg
+    rating: 0.0
+    date: '2026-09-23'
+    code: 683318
+    url: /works/683318/
   - title: Ueno-kun wa Kaihatsu-zumi Dai 97 wa | Ueno-kun Has Been Developed Chapter
       97
     author: nakaura

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "layer cake"
-work_count: 6
+work_count: 7
 works:
   - title: Dansei ga Kyokutan ni Sukunai Kono Sekai de wa, Seishi wa Kichou na Shigen
       desu. Sono 2 | In a World Where Men Are Scarce, Sperm Is a Precious Resource 2
@@ -49,4 +49,11 @@ works:
     date: '2026-05-07'
     code: 648358
     url: /works/648358/
+  - title: Kuro-Gal Mama-san Haramasex
+    author: ooshima-ryou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683312.jpg
+    rating: 0.0
+    date: '2026-09-23'
+    code: 683312
+    url: /works/683312/
 ---

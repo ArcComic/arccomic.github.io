@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "oyakodon"
-work_count: 19
+work_count: 21
 works:
   - title: Bitch Mama no Kekkon Riyuu
     author: aoyama-akira
@@ -98,6 +98,13 @@ works:
     date: '2026-07-07'
     code: 661909
     url: /works/661909/
+  - title: Itoko to Oba to Kinshin Haramase Vacance ~Haitoku no Oyako Double Ninshin~
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673215.jpg
+    rating: 0.0
+    date: '2026-09-23'
+    code: 673215
+    url: /works/673215/
   - title: Boku no Katei wa Kuruimashita | My family has gone crazy
     author: torimomo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/674719.jpg
@@ -140,4 +147,11 @@ works:
     date: '2026-09-22'
     code: 683121
     url: /works/683121/
+  - title: Kuro-Gal Mama-san Haramasex
+    author: ooshima-ryou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683312.jpg
+    rating: 0.0
+    date: '2026-09-23'
+    code: 683312
+    url: /works/683312/
 ---

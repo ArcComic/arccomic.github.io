@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "twintails"
-work_count: 107
+work_count: 108
 works:
   - title: Sensei wa Shougakusei ga Suki | Sensei Loves Elementary Schoolers
     author: fuyuno-mikan
@@ -282,6 +282,13 @@ works:
     date: '2026-09-12'
     code: 637252
     url: /works/637252/
+  - title: Haru Kurabe 5
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638513.jpg
+    rating: 0.0
+    date: '2026-09-23'
+    code: 638513
+    url: /works/638513/
   - title: Onsen Haitte tara Joseito-tachi ga Osotte Kita | My Students Jumped Me When
       I Got in the Hot Spring
     author: hamo

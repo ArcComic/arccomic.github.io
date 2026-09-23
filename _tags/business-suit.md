@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "business suit"
-work_count: 71
+work_count: 73
 works:
   - title: Kaisha de Iroiro | Gettin' Busy at the Office
     author: hara-shigeyuki
@@ -517,6 +517,20 @@ works:
     date: '2026-09-20'
     code: 682600
     url: /works/682600/
+  - title: Daitouryou no Inbou | U.S. Presidential Conspiracy
+    author: hachiya-makoto
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683310.jpg
+    rating: 0.0
+    date: '2026-09-23'
+    code: 683310
+    url: /works/683310/
+  - title: Insuru Juku Ashi
+    author: taba
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683318.jpg
+    rating: 0.0
+    date: '2026-09-23'
+    code: 683318
+    url: /works/683318/
   - title: Hottokenaino
     author: hara-shigeyuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/77864.jpg

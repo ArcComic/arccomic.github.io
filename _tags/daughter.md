@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "daughter"
-work_count: 22
+work_count: 23
 works:
   - title: Kindan no Hatemitsu
     author: ryuuta
@@ -163,4 +163,11 @@ works:
     date: '2026-09-22'
     code: 683121
     url: /works/683121/
+  - title: Soku Hame! Muwatto Ase Mure Musume - Let's Sex! Sweaty Girls
+    author: fetio
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683319.jpg
+    rating: 0.0
+    date: '2026-09-23'
+    code: 683319
+    url: /works/683319/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "armpit licking"
-work_count: 12
+work_count: 13
 works:
   - title: Homestay-chu no Doitsu Musume ga Issho ni Furo ni Haitte Kuru Wake | The
       Reason Why a German Girl Takes a Bath Together With Me on Her Homestay
@@ -91,4 +91,11 @@ works:
     date: '2026-09-16'
     code: 681498
     url: /works/681498/
+  - title: Insuru Juku Ashi
+    author: taba
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683318.jpg
+    rating: 0.0
+    date: '2026-09-23'
+    code: 683318
+    url: /works/683318/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "kimono"
-work_count: 40
+work_count: 41
 works:
   - title: Hitozuma Hyakka
     author: hase-tsubura
@@ -306,4 +306,11 @@ works:
     date: '2026-09-23'
     code: 683067
     url: /works/683067/
+  - title: SAIWAI ~Onna-tachi no Ura no Kao~
+    author: taba
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683314.jpg
+    rating: 0.0
+    date: '2026-09-23'
+    code: 683314
+    url: /works/683314/
 ---

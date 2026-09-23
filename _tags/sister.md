@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sister"
-work_count: 75
+work_count: 77
 works:
   - title: Imitation Family + Bigibo Hen
     author: tohzai
@@ -285,6 +285,13 @@ works:
     date: '2026-07-07'
     code: 655441
     url: /works/655441/
+  - title: Imouto wa Chikubi Onanie ga Yamerarenai
+    author: ogataaz
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/656814.jpg
+    rating: 0.0
+    date: '2026-09-23'
+    code: 656814
+    url: /works/656814/
   - title: Ero Sugiru Imouto to Fukinshin na Ore
     author: hazuki-kaoru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/657207.jpg
@@ -544,6 +551,13 @@ works:
     date: '2026-09-20'
     code: 682559
     url: /works/682559/
+  - title: Soku Hame! Muwatto Ase Mure Musume - Let's Sex! Sweaty Girls
+    author: fetio
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683319.jpg
+    rating: 0.0
+    date: '2026-09-23'
+    code: 683319
+    url: /works/683319/
   - title: Onee-chan no SM Kouza | Onee-chan's S&M Lecture
     author: shinooka-homare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/88750.jpg

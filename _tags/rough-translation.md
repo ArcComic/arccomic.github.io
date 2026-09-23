@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "rough translation"
-work_count: 499
+work_count: 512
 works:
   - title: Watashi no Karada, Okashi Shimasu. Bunny Girl Edition
     author: nectar
@@ -220,6 +220,14 @@ works:
     date: '2026-08-19'
     code: 534808
     url: /works/534808/
+  - title: Ochita Part Zuma Miura Manami Kenshuu Ryokou de Watashi no Karada wa Daikirai
+      na Ano Otoko ni Nando mo Ikasaremashita... Full Color Ban
+    author: tanaka-aji
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/537208.jpg
+    rating: 0.0
+    date: '2026-09-23'
+    code: 537208
+    url: /works/537208/
   - title: 'Tainai Kaiki ~Neet no Ore wa Bakunyuu Haha to Manjiru Toroama Kozukuri Sex
       de Iyasareru~ | Reverting to the Womb: As a NEET, I''m Healed by Making Sweet,
       Creamy Love with My Busty Mother'
@@ -980,6 +988,13 @@ works:
     date: '2026-04-19'
     code: 638359
     url: /works/638359/
+  - title: Haru Kurabe 5
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638513.jpg
+    rating: 0.0
+    date: '2026-09-23'
+    code: 638513
+    url: /works/638513/
   - title: Eat Meat + Digital Tokusouban Gentei Tokuten - Natsume-san wa Chorosugiru!
     author: ushinomiya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638556.jpg
@@ -1663,6 +1678,13 @@ works:
     date: '2026-08-21'
     code: 656686
     url: /works/656686/
+  - title: Imouto wa Chikubi Onanie ga Yamerarenai
+    author: ogataaz
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/656814.jpg
+    rating: 0.0
+    date: '2026-09-23'
+    code: 656814
+    url: /works/656814/
   - title: Ero Sugiru Imouto to Fukinshin na Ore
     author: hazuki-kaoru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/657207.jpg
@@ -2348,6 +2370,13 @@ works:
     date: '2026-09-22'
     code: 673012
     url: /works/673012/
+  - title: Itoko to Oba to Kinshin Haramase Vacance ~Haitoku no Oyako Double Ninshin~
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673215.jpg
+    rating: 0.0
+    date: '2026-09-23'
+    code: 673215
+    url: /works/673215/
   - title: Yome no Tsurego ni Otosareru Boku | I was Seduced by My Wife's Child from
       a Previous Marriage
     author: sabano-fudeoki
@@ -3635,6 +3664,70 @@ works:
     date: '2026-09-23'
     code: 683271
     url: /works/683271/
+  - title: Ero Mama ~Erosugiru Hahaoya ga Futari dekita Hanashi~
+    author: miyahara-ayumu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683307.jpg
+    rating: 0.0
+    date: '2026-09-23'
+    code: 683307
+    url: /works/683307/
+  - title: Daitouryou no Inbou | U.S. Presidential Conspiracy
+    author: hachiya-makoto
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683310.jpg
+    rating: 0.0
+    date: '2026-09-23'
+    code: 683310
+    url: /works/683310/
+  - title: Kuro-Gal Mama-san Haramasex
+    author: ooshima-ryou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683312.jpg
+    rating: 0.0
+    date: '2026-09-23'
+    code: 683312
+    url: /works/683312/
+  - title: SAIWAI ~Onna-tachi no Ura no Kao~
+    author: taba
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683314.jpg
+    rating: 0.0
+    date: '2026-09-23'
+    code: 683314
+    url: /works/683314/
+  - title: Netorase ~Oku-san Koukan Kaishimasen ka?~
+    author: hoshiduki-melon
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683315.jpg
+    rating: 4.6
+    date: '2026-09-23'
+    code: 683315
+    url: /works/683315/
+  - title: KuroTsuma
+    author: hoshiduki-melon
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683317.jpg
+    rating: 0.0
+    date: '2026-09-23'
+    code: 683317
+    url: /works/683317/
+  - title: Insuru Juku Ashi
+    author: taba
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683318.jpg
+    rating: 0.0
+    date: '2026-09-23'
+    code: 683318
+    url: /works/683318/
+  - title: Soku Hame! Muwatto Ase Mure Musume - Let's Sex! Sweaty Girls
+    author: fetio
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683319.jpg
+    rating: 0.0
+    date: '2026-09-23'
+    code: 683319
+    url: /works/683319/
+  - title: Shinjiru Mono wa Sukuwareru? Ore wa Muchimuchi Bijo Yuurei | Will The Faithful
+      be Saved? A Plump, Beautiful Female Ghost is a Earthbound Spirit
+    author: sakura-hanatsumi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683325.jpg
+    rating: 4.6
+    date: '2026-09-23'
+    code: 683325
+    url: /works/683325/
   - title: Shiawase Kazoku no Sodate kata
     author: yaoyorozu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683398.jpg

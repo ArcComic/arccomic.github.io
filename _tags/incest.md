@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "incest"
-work_count: 234
+work_count: 238
 works:
   - title: Imitation Family + Bigibo Hen
     author: tohzai
@@ -1119,6 +1119,13 @@ works:
     date: '2026-08-21'
     code: 656686
     url: /works/656686/
+  - title: Imouto wa Chikubi Onanie ga Yamerarenai
+    author: ogataaz
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/656814.jpg
+    rating: 0.0
+    date: '2026-09-23'
+    code: 656814
+    url: /works/656814/
   - title: Ero Sugiru Imouto to Fukinshin na Ore
     author: hazuki-kaoru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/657207.jpg
@@ -1375,6 +1382,13 @@ works:
     date: '2026-09-17'
     code: 670708
     url: /works/670708/
+  - title: Unsweet Kazumi Wakui + (Plus) SIDE Kazumi
+    author: tanaka-aji
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/671907.jpg
+    rating: 0.0
+    date: '2026-09-23'
+    code: 671907
+    url: /works/671907/
   - title: Mama no, Sono Eroi Karada ga Ikenainda 1-2
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/672310.jpg
@@ -1389,6 +1403,13 @@ works:
     date: '2026-08-25'
     code: 672450
     url: /works/672450/
+  - title: Itoko to Oba to Kinshin Haramase Vacance ~Haitoku no Oyako Double Ninshin~
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673215.jpg
+    rating: 0.0
+    date: '2026-09-23'
+    code: 673215
+    url: /works/673215/
   - title: Yome no Tsurego ni Otosareru Boku | I was Seduced by My Wife's Child from
       a Previous Marriage
     author: sabano-fudeoki
@@ -1707,6 +1728,13 @@ works:
     date: '2026-09-23'
     code: 683228
     url: /works/683228/
+  - title: Ero Mama ~Erosugiru Hahaoya ga Futari dekita Hanashi~
+    author: miyahara-ayumu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683307.jpg
+    rating: 0.0
+    date: '2026-09-23'
+    code: 683307
+    url: /works/683307/
   - title: Shiawase Kazoku no Sodate kata
     author: yaoyorozu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683398.jpg

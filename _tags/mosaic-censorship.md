@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "mosaic censorship"
-work_count: 248
+work_count: 256
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -507,6 +507,14 @@ works:
     date: '2026-08-23'
     code: 531967
     url: /works/531967/
+  - title: Ochita Part Zuma Miura Manami Kenshuu Ryokou de Watashi no Karada wa Daikirai
+      na Ano Otoko ni Nando mo Ikasaremashita... Full Color Ban
+    author: tanaka-aji
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/537208.jpg
+    rating: 0.0
+    date: '2026-09-23'
+    code: 537208
+    url: /works/537208/
   - title: Dansei ga Kyokutan ni Sukunai Kono Sekai de wa, Seishi wa Kichou na Shigen
       desu. Sono 2 | In a World Where Men Are Scarce, Sperm Is a Precious Resource 2
     author: group
@@ -1006,6 +1014,13 @@ works:
     date: '2026-09-18'
     code: 637891
     url: /works/637891/
+  - title: Haru Kurabe 5
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638513.jpg
+    rating: 0.0
+    date: '2026-09-23'
+    code: 638513
+    url: /works/638513/
   - title: Kaa-san to Sex Shita Mikkakan | Three Days of Sex with My Mom
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/639194.jpg
@@ -1306,6 +1321,13 @@ works:
     date: '2026-07-08'
     code: 656419
     url: /works/656419/
+  - title: Imouto wa Chikubi Onanie ga Yamerarenai
+    author: ogataaz
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/656814.jpg
+    rating: 0.0
+    date: '2026-09-23'
+    code: 656814
+    url: /works/656814/
   - title: Oba-san to Umi no Ie de
     author: soba
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/657559.jpg
@@ -1521,6 +1543,13 @@ works:
     date: '2026-08-19'
     code: 671657
     url: /works/671657/
+  - title: Unsweet Kazumi Wakui + (Plus) SIDE Kazumi
+    author: tanaka-aji
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/671907.jpg
+    rating: 0.0
+    date: '2026-09-23'
+    code: 671907
+    url: /works/671907/
   - title: Boku-tachi Mama to Yattemasu
     author: ameto-yuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/672450.jpg
@@ -1535,6 +1564,13 @@ works:
     date: '2026-09-07'
     code: 672835
     url: /works/672835/
+  - title: Itoko to Oba to Kinshin Haramase Vacance ~Haitoku no Oyako Double Ninshin~
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673215.jpg
+    rating: 0.0
+    date: '2026-09-23'
+    code: 673215
+    url: /works/673215/
   - title: Aisuru Tsuma wa Hei no Naka | My beloved wife is behind bars
     author: hikitogu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673453.jpg
@@ -1819,4 +1855,26 @@ works:
     date: '2026-09-23'
     code: 683082
     url: /works/683082/
+  - title: Insuru Juku Ashi
+    author: taba
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683318.jpg
+    rating: 0.0
+    date: '2026-09-23'
+    code: 683318
+    url: /works/683318/
+  - title: Daikan Shoujo - Abnormal SEX Friend
+    author: fujisaki-hikari
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683332.jpg
+    rating: 0.0
+    date: '2026-09-23'
+    code: 683332
+    url: /works/683332/
+  - title: Tamatama Mita AV no Onnanoko ga Kanojo ni Gekini Sugiru. 3 | The girl in
+      the adult video I happened to watch looks too much like my girlfriend 3
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683443.jpg
+    rating: 0.0
+    date: '2026-09-23'
+    code: 683443
+    url: /works/683443/
 ---

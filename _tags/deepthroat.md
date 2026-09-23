@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "deepthroat"
-work_count: 58
+work_count: 59
 works:
   - title: Toshishita Chin Kui Obasan
     author: maccha-neji
@@ -444,4 +444,11 @@ works:
     date: '2026-09-19'
     code: 682290
     url: /works/682290/
+  - title: Kuro-Gal Mama-san Haramasex
+    author: ooshima-ryou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683312.jpg
+    rating: 0.0
+    date: '2026-09-23'
+    code: 683312
+    url: /works/683312/
 ---

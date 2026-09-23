@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "kissing"
-work_count: 265
+work_count: 267
 works:
   - title: FLUFFY LAUGH GIRL
     author: shibasaki-syouzi
@@ -1983,6 +1983,20 @@ works:
     date: '2026-09-23'
     code: 683228
     url: /works/683228/
+  - title: Kuro-Gal Mama-san Haramasex
+    author: ooshima-ryou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683312.jpg
+    rating: 0.0
+    date: '2026-09-23'
+    code: 683312
+    url: /works/683312/
+  - title: SAIWAI ~Onna-tachi no Ura no Kao~
+    author: taba
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683314.jpg
+    rating: 0.0
+    date: '2026-09-23'
+    code: 683314
+    url: /works/683314/
   - title: Ueno-kun wa Kaihatsu-zumi Dai 97 wa | Ueno-kun Has Been Developed Chapter
       97
     author: nakaura

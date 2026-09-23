@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "foot licking"
-work_count: 10
+work_count: 11
 works:
   - title: Do-S Yankee JK to Do-M Hentai Teacher
     author: naganeko
@@ -67,6 +67,13 @@ works:
     date: '2026-09-19'
     code: 682326
     url: /works/682326/
+  - title: Insuru Juku Ashi
+    author: taba
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683318.jpg
+    rating: 0.0
+    date: '2026-09-23'
+    code: 683318
+    url: /works/683318/
   - title: Ueno-kun wa Kaihatsu-zumi Dai 97 wa | Ueno-kun Has Been Developed Chapter
       97
     author: nakaura

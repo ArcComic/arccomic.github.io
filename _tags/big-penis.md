@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big penis"
-work_count: 153
+work_count: 155
 works:
   - title: Tsuma no Imouto no Danna ga Ie ni Kiteiruyoudesu | My Sister-In-Law's Husband
       is Over
@@ -925,6 +925,13 @@ works:
     date: '2026-08-19'
     code: 671657
     url: /works/671657/
+  - title: Itoko to Oba to Kinshin Haramase Vacance ~Haitoku no Oyako Double Ninshin~
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673215.jpg
+    rating: 0.0
+    date: '2026-09-23'
+    code: 673215
+    url: /works/673215/
   - title: Futanari Jinja wa Otome Ochinpo Soudanjo
     author: yukito
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/674328.jpg
@@ -1152,4 +1159,11 @@ works:
     date: '2026-09-23'
     code: 683271
     url: /works/683271/
+  - title: Kuro-Gal Mama-san Haramasex
+    author: ooshima-ryou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683312.jpg
+    rating: 0.0
+    date: '2026-09-23'
+    code: 683312
+    url: /works/683312/
 ---

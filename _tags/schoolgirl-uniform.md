@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "schoolgirl uniform"
-work_count: 257
+work_count: 259
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -1913,4 +1913,18 @@ works:
     date: '2026-09-22'
     code: 683216
     url: /works/683216/
+  - title: Soku Hame! Muwatto Ase Mure Musume - Let's Sex! Sweaty Girls
+    author: fetio
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683319.jpg
+    rating: 0.0
+    date: '2026-09-23'
+    code: 683319
+    url: /works/683319/
+  - title: Daikan Shoujo - Abnormal SEX Friend
+    author: fujisaki-hikari
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683332.jpg
+    rating: 0.0
+    date: '2026-09-23'
+    code: 683332
+    url: /works/683332/
 ---

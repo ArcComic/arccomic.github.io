@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "latex"
-work_count: 5
+work_count: 6
 works:
   - title: Tawawa de Akarui Yakyuubu Manager ga Inshitsu na Kyoushi no Wana ni... Kanketsuhen
     author: ohkura-kazuya
@@ -38,4 +38,11 @@ works:
     date: '2026-08-23'
     code: 675048
     url: /works/675048/
+  - title: Insuru Juku Ashi
+    author: taba
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683318.jpg
+    rating: 0.0
+    date: '2026-09-23'
+    code: 683318
+    url: /works/683318/
 ---

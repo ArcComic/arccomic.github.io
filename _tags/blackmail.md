@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "blackmail"
-work_count: 119
+work_count: 120
 works:
   - title: Another Produce -Kaede Takagaki-
     author: marushin
@@ -887,6 +887,13 @@ works:
     date: '2026-09-22'
     code: 683216
     url: /works/683216/
+  - title: KuroTsuma
+    author: hoshiduki-melon
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683317.jpg
+    rating: 0.0
+    date: '2026-09-23'
+    code: 683317
+    url: /works/683317/
   - title: Inin Keiyaku | Lewd Pregnancy Contract
     author: yoshiura-kazuya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/83595.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "tsf no f"
-work_count: 2
+work_count: 3
 works:
   - title: Gal-kei Joshi ni Kakikaerareta Ore | Rewritten as a Gyaru Girl
     author: nomu
@@ -17,4 +17,12 @@ works:
     date: '2026-09-10'
     code: 680088
     url: /works/680088/
+  - title: Shinjiru Mono wa Sukuwareru? Ore wa Muchimuchi Bijo Yuurei | Will The Faithful
+      be Saved? A Plump, Beautiful Female Ghost is a Earthbound Spirit
+    author: sakura-hanatsumi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683325.jpg
+    rating: 4.6
+    date: '2026-09-23'
+    code: 683325
+    url: /works/683325/
 ---
