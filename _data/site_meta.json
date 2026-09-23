@@ -11,10 +11,10 @@
     "mondiad_popunder": false,
     "hilltopads_banner": true,
     "hilltopads_inpage": true,
-    "hilltopads_popunder": false,
-    "clickadilla_banner": true,
-    "clickadilla_popunder": true,
-    "clickadilla_inpage": true
+    "hilltopads_popunder": true,
+    "clickadilla_banner": false,
+    "clickadilla_popunder": false,
+    "clickadilla_inpage": false
   },
   "read_buttons": [
     {
