@@ -8,11 +8,11 @@
   "ad_network": "hilltopads",
   "ad_toggles": {
     "mondiad_banner": true,
-    "mondiad_popunder": true,
+    "mondiad_popunder": false,
     "mondiad_native": true,
     "hilltopads_banner": true,
     "hilltopads_inpage": true,
-    "hilltopads_popunder": false,
+    "hilltopads_popunder": true,
     "hilltopads_video_slider": true,
     "reading_bottom_banner": true
   },
