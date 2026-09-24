@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole male"
-work_count: 710
+work_count: 711
 works:
   - title: Adoration
     author: kishizuka-kenji
@@ -5269,6 +5269,13 @@ works:
     date: '2026-09-24'
     code: 683561
     url: /works/683561/
+  - title: Anata ga Awa ni Narumaeni | Before You Become Sea Foam
+    author: shikabanekamo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683606.jpg
+    rating: 0.0
+    date: '2026-09-24'
+    code: 683606
+    url: /works/683606/
   - title: Oinari-sama ni 3P
     author: tokinobutt-misaki-tokinobu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683610.jpg

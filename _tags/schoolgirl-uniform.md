@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "schoolgirl uniform"
-work_count: 265
+work_count: 266
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -464,6 +464,13 @@ works:
     date: '2026-09-23'
     code: 568114
     url: /works/568114/
+  - title: Namaiki JK ga Wakaraserareru Hon | Putting a Cheeky Gyaru in Her Place
+    author: onkyu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/574409.jpg
+    rating: 0.0
+    date: '2026-09-24'
+    code: 574409
+    url: /works/574409/
   - title: Re. Bishoujo Seitokaichou o Seibyou Mochi no Owakon Onna ni Otosu Hanashi
     author: kyouan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/576288.jpg

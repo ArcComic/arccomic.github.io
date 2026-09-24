@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "kissing"
-work_count: 275
+work_count: 276
 works:
   - title: FLUFFY LAUGH GIRL
     author: shibasaki-syouzi
@@ -2064,4 +2064,11 @@ works:
     date: '2026-09-24'
     code: 683561
     url: /works/683561/
+  - title: Anata ga Awa ni Narumaeni | Before You Become Sea Foam
+    author: shikabanekamo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683606.jpg
+    rating: 0.0
+    date: '2026-09-24'
+    code: 683606
+    url: /works/683606/
 ---

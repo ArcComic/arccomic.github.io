@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big penis"
-work_count: 161
+work_count: 162
 works:
   - title: Tsuma no Imouto no Danna ga Ie ni Kiteiruyoudesu | My Sister-In-Law's Husband
       is Over
@@ -281,6 +281,13 @@ works:
     date: '2026-03-04'
     code: 573414
     url: /works/573414/
+  - title: Namaiki JK ga Wakaraserareru Hon | Putting a Cheeky Gyaru in Her Place
+    author: onkyu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/574409.jpg
+    rating: 0.0
+    date: '2026-09-24'
+    code: 574409
+    url: /works/574409/
   - title: Boku no Mama to Takuhai no Onii-san ga.
     author: yuriko-club
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/577221.jpg

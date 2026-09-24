@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "rough translation"
-work_count: 516
+work_count: 517
 works:
   - title: Watashi no Karada, Okashi Shimasu. Bunny Girl Edition
     author: nectar
@@ -390,6 +390,13 @@ works:
     date: '2026-04-13'
     code: 570215
     url: /works/570215/
+  - title: Namaiki JK ga Wakaraserareru Hon | Putting a Cheeky Gyaru in Her Place
+    author: onkyu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/574409.jpg
+    rating: 0.0
+    date: '2026-09-24'
+    code: 574409
+    url: /works/574409/
   - title: Kimottama Kaa-chan to Kenka Bakari no Neet no Ore ga Kaa-san ni Nakadashi
       shite kara Nakayoku natta Hanashi - A story about How I, A NEET Who Always Fought
       with My Gutsy Mother,

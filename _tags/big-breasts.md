@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big breasts"
-work_count: 860
+work_count: 862
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -1631,6 +1631,13 @@ works:
     date: '2026-09-10'
     code: 574158
     url: /works/574158/
+  - title: Namaiki JK ga Wakaraserareru Hon | Putting a Cheeky Gyaru in Her Place
+    author: onkyu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/574409.jpg
+    rating: 0.0
+    date: '2026-09-24'
+    code: 574409
+    url: /works/574409/
   - title: Kimottama Kaa-chan to Kenka Bakari no Neet no Ore ga Kaa-san ni Nakadashi
       shite kara Nakayoku natta Hanashi - A story about How I, A NEET Who Always Fought
       with My Gutsy Mother,
@@ -6354,6 +6361,13 @@ works:
     date: '2026-09-23'
     code: 683443
     url: /works/683443/
+  - title: Anata ga Awa ni Narumaeni | Before You Become Sea Foam
+    author: shikabanekamo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683606.jpg
+    rating: 0.0
+    date: '2026-09-24'
+    code: 683606
+    url: /works/683606/
   - title: Hottokenaino
     author: hara-shigeyuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/77864.jpg

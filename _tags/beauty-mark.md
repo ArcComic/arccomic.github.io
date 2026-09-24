@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "beauty mark"
-work_count: 155
+work_count: 156
 works:
   - title: Uragiri no Ai wa Mitsu no Aji | Treacherous Love Tastes Like Honey
     author: cuzukago
@@ -375,6 +375,13 @@ works:
     date: '2026-03-04'
     code: 568923
     url: /works/568923/
+  - title: Namaiki JK ga Wakaraserareru Hon | Putting a Cheeky Gyaru in Her Place
+    author: onkyu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/574409.jpg
+    rating: 0.0
+    date: '2026-09-24'
+    code: 574409
+    url: /works/574409/
   - title: Saimin ♥ Saimin | Hypno ♥ Hypno
     author: minamida-usuke
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/576398.jpg
