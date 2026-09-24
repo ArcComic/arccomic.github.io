@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "old man"
-work_count: 44
+work_count: 46
 works:
   - title: Adoration
     author: kishizuka-kenji
@@ -234,6 +234,13 @@ works:
     date: '2026-05-26'
     code: 652639
     url: /works/652639/
+  - title: Yabai oji | Dangerous Uncle
+    author: chinpan
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654645.jpg
+    rating: 0.0
+    date: '2026-09-24'
+    code: 654645
+    url: /works/654645/
   - title: How the Gloomy Me Took Charge of my Own Life by Becoming a Hostess
     author: shikabanekamo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/656419.jpg
@@ -263,6 +270,13 @@ works:
     date: '2026-07-15'
     code: 664216
     url: /works/664216/
+  - title: Tainou Bicchi Hensai Keikaku | The Delinquent Bitch's Repayment Plan
+    author: onkyu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/667990.jpg
+    rating: 0.0
+    date: '2026-09-24'
+    code: 667990
+    url: /works/667990/
   - title: Nakadashi Oji-san ni Nerawareta Mesu wa Nigeru Koto ga Dekinai ~Fujitomo
       Megumi Hen 2~ | A Woman Can't Get Away After Being Targeted By This Horny Old
       Man - Fujitomo Megumi Edition Vol.2 [English] =White Symphony=
@@ -318,7 +332,7 @@ works:
   - title: Hieda | The Fall of Hieda
     author: akure-ekuto
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683406.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-09-23'
     code: 683406
     url: /works/683406/

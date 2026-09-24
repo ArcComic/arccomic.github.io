@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "blackmail"
-work_count: 120
+work_count: 122
 works:
   - title: Another Produce -Kaede Takagaki-
     author: marushin
@@ -540,6 +540,13 @@ works:
     date: '2026-08-21'
     code: 654114
     url: /works/654114/
+  - title: Yabai oji | Dangerous Uncle
+    author: chinpan
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654645.jpg
+    rating: 0.0
+    date: '2026-09-24'
+    code: 654645
+    url: /works/654645/
   - title: I Became the Master of My Arrogant Busty Boss!? 02
     author: sazanami-wasabi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/656681.jpg
@@ -666,6 +673,13 @@ works:
     date: '2026-07-17'
     code: 664937
     url: /works/664937/
+  - title: Tainou Bicchi Hensai Keikaku | The Delinquent Bitch's Repayment Plan
+    author: onkyu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/667990.jpg
+    rating: 0.0
+    date: '2026-09-24'
+    code: 667990
+    url: /works/667990/
   - title: Nakadashi Oji-san ni Nerawareta Mesu wa Nigeru Koto ga Dekinai ~Fujitomo
       Megumi Hen 2~ | A Woman Can't Get Away After Being Targeted By This Horny Old
       Man - Fujitomo Megumi Edition Vol.2 [English] =White Symphony=
@@ -890,7 +904,7 @@ works:
   - title: KuroTsuma
     author: hoshiduki-melon
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683317.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-23'
     code: 683317
     url: /works/683317/

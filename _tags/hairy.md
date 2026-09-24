@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "hairy"
-work_count: 221
+work_count: 226
 works:
   - title: Adoration
     author: kishizuka-kenji
@@ -39,6 +39,13 @@ works:
     date: '2026-03-11'
     code: 237456
     url: /works/237456/
+  - title: Chibo Soukan Ch.1-3
+    author: natsu-no-oyatsu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/238110.jpg
+    rating: 0.0
+    date: '2026-09-24'
+    code: 238110
+    url: /works/238110/
   - title: Netemo Sametemo | Be it Sleeping or Awake
     author: takasugi-kou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/272352.jpg
@@ -117,6 +124,13 @@ works:
     date: '2026-09-05'
     code: 363219
     url: /works/363219/
+  - title: Egg or Chicken? Zenpen
+    author: rocket-monkey
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/364371.jpg
+    rating: 0.0
+    date: '2026-09-24'
+    code: 364371
+    url: /works/364371/
   - title: Shirotaegiku | Dusty miller
     author: hiroya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/370164.jpg
@@ -147,6 +161,13 @@ works:
     date: '2026-04-30'
     code: 392475
     url: /works/392475/
+  - title: Boshi Chika Resort | Mother and Son Underground Resort
+    author: emori-uki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/395483.jpg
+    rating: 0.0
+    date: '2026-09-24'
+    code: 395483
+    url: /works/395483/
   - title: Namaiki na Imouto ga Ore no SeFri ni Natta Keii | How My Cheeky Little Sister
       and I Became Sex Friends With Benefits
     author: iron-sugar
@@ -1128,6 +1149,13 @@ works:
     date: '2026-09-07'
     code: 654638
     url: /works/654638/
+  - title: Yabai oji | Dangerous Uncle
+    author: chinpan
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654645.jpg
+    rating: 0.0
+    date: '2026-09-24'
+    code: 654645
+    url: /works/654645/
   - title: A story about a shy childhood friend who can’t say no and ends up being put
       in charge of handling sexual needs.
     author: sakurayu-hal
@@ -1594,36 +1622,43 @@ works:
   - title: Kuro-Gal Mama-san Haramasex
     author: ooshima-ryou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683312.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-23'
     code: 683312
     url: /works/683312/
   - title: Gēmu Furin-numa ~ Inran Hitodzuma ga dan Hōkai sa Seru Made ~
     author: hoshiduki-melon
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683316.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-23'
     code: 683316
     url: /works/683316/
   - title: Insuru Juku Ashi
     author: taba
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683318.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-23'
     code: 683318
     url: /works/683318/
   - title: Soku Hame! Muwatto Ase Mure Musume - Let's Sex! Sweaty Girls
     author: fetio
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683319.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-23'
     code: 683319
     url: /works/683319/
   - title: Shiawase Kazoku no Sodate kata
     author: yaoyorozu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683398.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-23'
     code: 683398
     url: /works/683398/
+  - title: Tokubetsu na Wonderful nante Nakatta | There is no Special Kind of Wonderful
+    author: sugarbt
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683561.jpg
+    rating: 0.0
+    date: '2026-09-24'
+    code: 683561
+    url: /works/683561/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: artist
 artist_name: "chinpan"
-work_count: 4
+work_count: 5
 works:
   - title: Niizuma Joushi wa Buka no Chinpo de Do-M Ochi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/464371.jpg
@@ -29,4 +29,10 @@ works:
     date: '2026-04-25'
     code: 593677
     url: /works/593677/
+  - title: Yabai oji | Dangerous Uncle
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654645.jpg
+    rating: 0.0
+    date: '2026-09-24'
+    code: 654645
+    url: /works/654645/
 ---

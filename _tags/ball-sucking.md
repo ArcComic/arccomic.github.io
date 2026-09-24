@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "ball sucking"
-work_count: 18
+work_count: 19
 works:
   - title: 'Kouen no Bench ni Suwatteru Kirei na Onee-san ga Boku ni "Ochinchin o Misete"
       to Itte Kuru no de... | A Pretty Onee-San, that''s sitting on a Bench in the Park...suddenly
@@ -63,6 +63,14 @@ works:
     date: '2026-03-09'
     code: 635795
     url: /works/635795/
+  - title: 'Namaiki JK ga Wakaraserareru Hon Bangai Hen | Putting a Cheeky Gyaru in
+      Her Place: Extra Chapter'
+    author: onkyu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/640106.jpg
+    rating: 0.0
+    date: '2026-09-24'
+    code: 640106
+    url: /works/640106/
   - title: DeliHeal Yondara Moto Doukyuusei ga Kita ~Polynesian Sex  6-kame~
     author: tatsuwaipu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/643512.jpg
@@ -133,7 +141,7 @@ works:
       the adult video I happened to watch looks too much like my girlfriend 3
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683443.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-23'
     code: 683443
     url: /works/683443/

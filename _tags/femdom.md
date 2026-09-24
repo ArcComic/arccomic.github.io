@@ -936,14 +936,14 @@ works:
   - title: Insuru Juku Ashi
     author: taba
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683318.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-23'
     code: 683318
     url: /works/683318/
   - title: Soku Hame! Muwatto Ase Mure Musume - Let's Sex! Sweaty Girls
     author: fetio
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683319.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-23'
     code: 683319
     url: /works/683319/
@@ -951,7 +951,7 @@ works:
       97
     author: nakaura
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683391.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-23'
     code: 683391
     url: /works/683391/

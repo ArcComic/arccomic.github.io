@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "cowgirl"
-work_count: 17
+work_count: 18
 works:
   - title: Homestay-chu no Doitsu Musume ga Issho ni Furo ni Haitte Kuru Wake | The
       Reason Why a German Girl Takes a Bath Together With Me on Her Homestay
@@ -84,6 +84,13 @@ works:
     date: '2026-05-26'
     code: 652218
     url: /works/652218/
+  - title: Tainou Bicchi Hensai Keikaku | The Delinquent Bitch's Repayment Plan
+    author: onkyu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/667990.jpg
+    rating: 0.0
+    date: '2026-09-24'
+    code: 667990
+    url: /works/667990/
   - title: WSS ~Watashi ga Sakini Sukidatta no ni~ - Even Though I Loved Him First
     author: asanagi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/674639.jpg

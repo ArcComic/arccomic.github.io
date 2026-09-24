@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "cunnilingus"
-work_count: 132
+work_count: 133
 works:
   - title: Love Approach
     author: hanafuda-sakurano
@@ -718,6 +718,13 @@ works:
     date: '2026-09-18'
     code: 654010
     url: /works/654010/
+  - title: Yabai oji | Dangerous Uncle
+    author: chinpan
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654645.jpg
+    rating: 0.0
+    date: '2026-09-24'
+    code: 654645
+    url: /works/654645/
   - title: Giri no Onee-chan to Sex Suru Hanashi | The story of having sex with my well
       behaved sister
     author: higashino-mikan
@@ -974,7 +981,7 @@ works:
   - title: Kuro-Gal Mama-san Haramasex
     author: ooshima-ryou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683312.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-23'
     code: 683312
     url: /works/683312/

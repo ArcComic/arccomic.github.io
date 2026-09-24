@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bondage"
-work_count: 71
+work_count: 72
 works:
   - title: CHOCO x LOVE
     author: highlow
@@ -17,6 +17,13 @@ works:
     date: '2026-09-06'
     code: 349379
     url: /works/349379/
+  - title: Boshi Chika Resort | Mother and Son Underground Resort
+    author: emori-uki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/395483.jpg
+    rating: 0.0
+    date: '2026-09-24'
+    code: 395483
+    url: /works/395483/
   - title: Ichizu na Onee-san to Saikaishitara Dosukebe Kyuukonsarete Sex Tsukeninaru
       Hanashi | After Reuniting with the Onee-san Who is Fixated on Me, I was Proposed
       to with Sex and Got Addicted
@@ -515,7 +522,7 @@ works:
       the adult video I happened to watch looks too much like my girlfriend 3
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683443.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-23'
     code: 683443
     url: /works/683443/

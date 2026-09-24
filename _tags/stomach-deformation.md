@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "stomach deformation"
-work_count: 6
+work_count: 7
 works:
   - title: Uwa, Mesugaki Tsuyoi! | Crap, This Mesugaki's Too Powerful!
     author: poncocchan
@@ -32,6 +32,13 @@ works:
     date: '2026-07-16'
     code: 664631
     url: /works/664631/
+  - title: Tainou Bicchi Hensai Keikaku | The Delinquent Bitch's Repayment Plan
+    author: onkyu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/667990.jpg
+    rating: 0.0
+    date: '2026-09-24'
+    code: 667990
+    url: /works/667990/
   - title: Saimin Mahou de Sokuochi Namaiki Majo Koko-chan ~Tensai Elite nanonii Mamono
       Chinpo ni Kusozako Make Acme Kimechaimashitaa~ | Instant Fall via Hypnosis Magic❤
       Cheeky Witch Koko-chan ~A Genius Elite, Yet...❤ Monster

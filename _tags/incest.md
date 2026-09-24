@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "incest"
-work_count: 239
+work_count: 242
 works:
   - title: Imitation Family + Bigibo Hen
     author: tohzai
@@ -17,6 +17,13 @@ works:
     date: '2026-04-19'
     code: 163039
     url: /works/163039/
+  - title: Chibo Soukan Ch.1-3
+    author: natsu-no-oyatsu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/238110.jpg
+    rating: 0.0
+    date: '2026-09-24'
+    code: 238110
+    url: /works/238110/
   - title: Tsuma no Imouto no Danna ga Ie ni Kiteiruyoudesu | My Sister-In-Law's Husband
       is Over
     author: arakure
@@ -119,6 +126,13 @@ works:
     date: '2026-09-20'
     code: 388896
     url: /works/388896/
+  - title: Boshi Chika Resort | Mother and Son Underground Resort
+    author: emori-uki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/395483.jpg
+    rating: 0.0
+    date: '2026-09-24'
+    code: 395483
+    url: /works/395483/
   - title: Namaiki na Imouto ga Ore no SeFri ni Natta Keii | How My Cheeky Little Sister
       and I Became Sex Friends With Benefits
     author: iron-sugar
@@ -157,6 +171,14 @@ works:
     date: '2026-09-10'
     code: 420425
     url: /works/420425/
+  - title: Mama wa SeFri - Boku wa Tomodachi no Okaa-san to Sex o Suru | Fuck-Buddy
+      Mom — I have Sex with my Friend's Mom Part 1
+    author: goya
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/424575.jpg
+    rating: 0.0
+    date: '2026-09-24'
+    code: 424575
+    url: /works/424575/
   - title: Hikage | Shade
     author: syuuen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/429669.jpg
@@ -1745,7 +1767,7 @@ works:
   - title: Shiawase Kazoku no Sodate kata
     author: yaoyorozu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683398.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-23'
     code: 683398
     url: /works/683398/

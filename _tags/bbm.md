@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bbm"
-work_count: 84
+work_count: 89
 works:
   - title: Kindan no Hatemitsu
     author: ryuuta
@@ -25,6 +25,14 @@ works:
     date: '2026-04-12'
     code: 293478
     url: /works/293478/
+  - title: Makai Kishi Ingrid ni Nakadashi Dekiru Soapland | A Soapland Where You Can
+      Creampie Dark Knight Ingrid
+    author: maguro-teikoku
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/296131.jpg
+    rating: 0.0
+    date: '2026-09-24'
+    code: 296131
+    url: /works/296131/
   - title: Tsumareta Ikoku no Hana II
     author: darabuchi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/315693.jpg
@@ -39,6 +47,13 @@ works:
     date: '2026-09-06'
     code: 349379
     url: /works/349379/
+  - title: Amako Ticket Extra ~Onikuya-san Hen~ | Amako Ticket Extra ~Butcher Edition~
+    author: rokuichi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/355398.jpg
+    rating: 0.0
+    date: '2026-09-24'
+    code: 355398
+    url: /works/355398/
   - title: Megane Loli Choukyou Jugyou!! ~Otonashii Megane Lolikko ni Muriyari Dekachin
       Sounyuu~ | The Loli In Glasses' Training Lesson!! ~Force Fucking a Timid Glasses
       Wearing Loli With My Big Cock~ Ch. 1-5
@@ -218,6 +233,13 @@ works:
     date: '2026-08-25'
     code: 595108
     url: /works/595108/
+  - title: Seishun to Backyard | The Youth and The Backyard
+    author: mokuyama-hito
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/598084.jpg
+    rating: 0.0
+    date: '2026-09-24'
+    code: 598084
+    url: /works/598084/
   - title: Onna Shachou to Koibito ni Naru Houhou | How To Become Lover's With A Female
       CEO
     author: fan
@@ -416,6 +438,13 @@ works:
     date: '2026-05-26'
     code: 652471
     url: /works/652471/
+  - title: Yabai oji | Dangerous Uncle
+    author: chinpan
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654645.jpg
+    rating: 0.0
+    date: '2026-09-24'
+    code: 654645
+    url: /works/654645/
   - title: I, was sold to my mother's ex-fiancé
     author: romomata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/655077.jpg
@@ -482,6 +511,13 @@ works:
     date: '2026-07-11'
     code: 663171
     url: /works/663171/
+  - title: Tainou Bicchi Hensai Keikaku | The Delinquent Bitch's Repayment Plan
+    author: onkyu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/667990.jpg
+    rating: 0.0
+    date: '2026-09-24'
+    code: 667990
+    url: /works/667990/
   - title: Nakadashi Oji-san ni Nerawareta Mesu wa Nigeru Koto ga Dekinai ~Fujitomo
       Megumi Hen 2~ | A Woman Can't Get Away After Being Targeted By This Horny Old
       Man - Fujitomo Megumi Edition Vol.2 [English] =White Symphony=
@@ -608,21 +644,21 @@ works:
   - title: Insuru Juku Ashi
     author: taba
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683318.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-23'
     code: 683318
     url: /works/683318/
   - title: Soku Hame! Muwatto Ase Mure Musume - Let's Sex! Sweaty Girls
     author: fetio
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683319.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-23'
     code: 683319
     url: /works/683319/
   - title: Hieda | The Fall of Hieda
     author: akure-ekuto
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683406.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-09-23'
     code: 683406
     url: /works/683406/

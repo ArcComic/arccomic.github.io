@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "x-ray"
-work_count: 239
+work_count: 243
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -10,6 +10,13 @@ works:
     date: '2026-04-17'
     code: 162047
     url: /works/162047/
+  - title: Chibo Soukan Ch.1-3
+    author: natsu-no-oyatsu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/238110.jpg
+    rating: 0.0
+    date: '2026-09-24'
+    code: 238110
+    url: /works/238110/
   - title: Tsuma no Imouto no Danna ga Ie ni Kiteiruyoudesu | My Sister-In-Law's Husband
       is Over
     author: arakure
@@ -778,6 +785,14 @@ works:
     date: '2026-09-20'
     code: 638685
     url: /works/638685/
+  - title: 'Namaiki JK ga Wakaraserareru Hon Bangai Hen | Putting a Cheeky Gyaru in
+      Her Place: Extra Chapter'
+    author: onkyu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/640106.jpg
+    rating: 0.0
+    date: '2026-09-24'
+    code: 640106
+    url: /works/640106/
   - title: LOOK LIKE
     author: terasu-mc
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/641295.jpg
@@ -1143,6 +1158,13 @@ works:
     date: '2026-09-06'
     code: 654603
     url: /works/654603/
+  - title: Yabai oji | Dangerous Uncle
+    author: chinpan
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654645.jpg
+    rating: 0.0
+    date: '2026-09-24'
+    code: 654645
+    url: /works/654645/
   - title: Akogare datta Seiso na Onnanoko ga Jitsu wa Dosukebe datta Hanashi | The
       Horny Truth About Hosokawa
     author: momoiro-onsen
@@ -1776,22 +1798,29 @@ works:
   - title: Kuro-Gal Mama-san Haramasex
     author: ooshima-ryou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683312.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-23'
     code: 683312
     url: /works/683312/
   - title: Insuru Juku Ashi
     author: taba
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683318.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-23'
     code: 683318
     url: /works/683318/
   - title: Hieda | The Fall of Hieda
     author: akure-ekuto
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683406.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-09-23'
     code: 683406
     url: /works/683406/
+  - title: Tokubetsu na Wonderful nante Nakatta | There is no Special Kind of Wonderful
+    author: sugarbt
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683561.jpg
+    rating: 0.0
+    date: '2026-09-24'
+    code: 683561
+    url: /works/683561/
 ---

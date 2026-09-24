@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "drunk"
-work_count: 40
+work_count: 41
 works:
   - title: HUNDRED GAME Ch. 1-3
     author: kuon-michiyoshi
@@ -38,6 +38,13 @@ works:
     date: '2026-04-27'
     code: 357965
     url: /works/357965/
+  - title: Egg or Chicken? Zenpen
+    author: rocket-monkey
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/364371.jpg
+    rating: 0.0
+    date: '2026-09-24'
+    code: 364371
+    url: /works/364371/
   - title: Osananajimi wa Otona no Onna | My Childhood Friend is an Adult Woman
     author: mashu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/383468.jpg
@@ -286,7 +293,7 @@ works:
   - title: Gēmu Furin-numa ~ Inran Hitodzuma ga dan Hōkai sa Seru Made ~
     author: hoshiduki-melon
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683316.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-23'
     code: 683316
     url: /works/683316/

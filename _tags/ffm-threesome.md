@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "ffm threesome"
-work_count: 110
+work_count: 113
 works:
   - title: Hustle! Danchizuma Ch. 1-18 END
     author: hidemaru
@@ -328,6 +328,14 @@ works:
     date: '2026-08-20'
     code: 639463
     url: /works/639463/
+  - title: 'Namaiki JK ga Wakaraserareru Hon Bangai Hen | Putting a Cheeky Gyaru in
+      Her Place: Extra Chapter'
+    author: onkyu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/640106.jpg
+    rating: 0.0
+    date: '2026-09-24'
+    code: 640106
+    url: /works/640106/
   - title: Akogare no Hito wa Mou Owari! 2
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642585.jpg
@@ -777,7 +785,7 @@ works:
   - title: Kuro-Gal Mama-san Haramasex
     author: ooshima-ryou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683312.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-23'
     code: 683312
     url: /works/683312/
@@ -791,21 +799,21 @@ works:
   - title: Gēmu Furin-numa ~ Inran Hitodzuma ga dan Hōkai sa Seru Made ~
     author: hoshiduki-melon
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683316.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-23'
     code: 683316
     url: /works/683316/
   - title: KuroTsuma
     author: hoshiduki-melon
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683317.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-23'
     code: 683317
     url: /works/683317/
   - title: Insuru Juku Ashi
     author: taba
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683318.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-23'
     code: 683318
     url: /works/683318/
@@ -816,4 +824,18 @@ works:
     date: '2026-09-23'
     code: 683430
     url: /works/683430/
+  - title: Tokubetsu na Wonderful nante Nakatta | There is no Special Kind of Wonderful
+    author: sugarbt
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683561.jpg
+    rating: 0.0
+    date: '2026-09-24'
+    code: 683561
+    url: /works/683561/
+  - title: Oinari-sama ni 3P
+    author: tokinobutt-misaki-tokinobu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683610.jpg
+    rating: 0.0
+    date: '2026-09-24'
+    code: 683610
+    url: /works/683610/
 ---

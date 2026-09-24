@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "group"
-work_count: 192
+work_count: 196
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -31,6 +31,13 @@ works:
     date: '2026-03-09'
     code: 226386
     url: /works/226386/
+  - title: Chibo Soukan Ch.1-3
+    author: natsu-no-oyatsu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/238110.jpg
+    rating: 0.0
+    date: '2026-09-24'
+    code: 238110
+    url: /works/238110/
   - title: Yuri no o saifu ni shite agemasu ne, Senpai | I'll turn you into Yuri's wallet,
       Senpai
     author: doskoinpo
@@ -525,6 +532,14 @@ works:
     date: '2026-08-20'
     code: 639463
     url: /works/639463/
+  - title: 'Namaiki JK ga Wakaraserareru Hon Bangai Hen | Putting a Cheeky Gyaru in
+      Her Place: Extra Chapter'
+    author: onkyu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/640106.jpg
+    rating: 0.0
+    date: '2026-09-24'
+    code: 640106
+    url: /works/640106/
   - title: Akogare no Hito wa Mou Owari! 2
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642585.jpg
@@ -1367,7 +1382,7 @@ works:
   - title: Kuro-Gal Mama-san Haramasex
     author: ooshima-ryou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683312.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-23'
     code: 683312
     url: /works/683312/
@@ -1381,14 +1396,14 @@ works:
   - title: Gēmu Furin-numa ~ Inran Hitodzuma ga dan Hōkai sa Seru Made ~
     author: hoshiduki-melon
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683316.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-23'
     code: 683316
     url: /works/683316/
   - title: Soku Hame! Muwatto Ase Mure Musume - Let's Sex! Sweaty Girls
     author: fetio
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683319.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-23'
     code: 683319
     url: /works/683319/
@@ -1403,8 +1418,22 @@ works:
       the adult video I happened to watch looks too much like my girlfriend 3
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683443.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-23'
     code: 683443
     url: /works/683443/
+  - title: Tokubetsu na Wonderful nante Nakatta | There is no Special Kind of Wonderful
+    author: sugarbt
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683561.jpg
+    rating: 0.0
+    date: '2026-09-24'
+    code: 683561
+    url: /works/683561/
+  - title: Oinari-sama ni 3P
+    author: tokinobutt-misaki-tokinobu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683610.jpg
+    rating: 0.0
+    date: '2026-09-24'
+    code: 683610
+    url: /works/683610/
 ---

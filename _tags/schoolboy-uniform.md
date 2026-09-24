@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "schoolboy uniform"
-work_count: 75
+work_count: 76
 works:
   - title: FLUFFY LAUGH GIRL
     author: shibasaki-syouzi
@@ -547,10 +547,17 @@ works:
   - title: Daikan Shoujo - Abnormal SEX Friend
     author: fujisaki-hikari
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683332.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-23'
     code: 683332
     url: /works/683332/
+  - title: Oinari-sama ni 3P
+    author: tokinobutt-misaki-tokinobu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683610.jpg
+    rating: 0.0
+    date: '2026-09-24'
+    code: 683610
+    url: /works/683610/
   - title: Jokyoushi - Hot For Teachers | Female Teachers
     author: drill-murata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/81375.jpg

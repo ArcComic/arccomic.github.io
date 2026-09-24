@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "full censorship"
-work_count: 89
+work_count: 93
 works:
   - title: Kaisha de Iroiro | Gettin' Busy at the Office
     author: hara-shigeyuki
@@ -88,6 +88,13 @@ works:
     date: '2026-08-20'
     code: 332781
     url: /works/332781/
+  - title: Egg or Chicken? Zenpen
+    author: rocket-monkey
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/364371.jpg
+    rating: 0.0
+    date: '2026-09-24'
+    code: 364371
+    url: /works/364371/
   - title: Osananajimi wa Otona no Onna | My Childhood Friend is an Adult Woman
     author: mashu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/383468.jpg
@@ -124,6 +131,14 @@ works:
     date: '2026-04-16'
     code: 421874
     url: /works/421874/
+  - title: Mama wa SeFri - Boku wa Tomodachi no Okaa-san to Sex o Suru | Fuck-Buddy
+      Mom — I have Sex with my Friend's Mom Part 1
+    author: goya
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/424575.jpg
+    rating: 0.0
+    date: '2026-09-24'
+    code: 424575
+    url: /works/424575/
   - title: Koi no Susumekata | How to Advance Your Love
     author: danimaru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/425528.jpg
@@ -483,6 +498,13 @@ works:
     date: '2026-07-17'
     code: 664783
     url: /works/664783/
+  - title: Tainou Bicchi Hensai Keikaku | The Delinquent Bitch's Repayment Plan
+    author: onkyu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/667990.jpg
+    rating: 0.0
+    date: '2026-09-24'
+    code: 667990
+    url: /works/667990/
   - title: Mama no, Sono Eroi Karada ga Ikenainda 1-2
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/672310.jpg
@@ -634,7 +656,7 @@ works:
       97
     author: nakaura
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683391.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-23'
     code: 683391
     url: /works/683391/
@@ -645,6 +667,13 @@ works:
     date: '2026-09-23'
     code: 683430
     url: /works/683430/
+  - title: Oinari-sama ni 3P
+    author: tokinobutt-misaki-tokinobu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683610.jpg
+    rating: 0.0
+    date: '2026-09-24'
+    code: 683610
+    url: /works/683610/
   - title: Hottokenaino
     author: hara-shigeyuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/77864.jpg

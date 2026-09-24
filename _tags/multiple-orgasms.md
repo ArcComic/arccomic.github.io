@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "multiple orgasms"
-work_count: 91
+work_count: 92
 works:
   - title: Rako Slip!
     author: bujidearu
@@ -292,6 +292,14 @@ works:
     date: '2026-03-07'
     code: 634464
     url: /works/634464/
+  - title: 'Namaiki JK ga Wakaraserareru Hon Bangai Hen | Putting a Cheeky Gyaru in
+      Her Place: Extra Chapter'
+    author: onkyu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/640106.jpg
+    rating: 0.0
+    date: '2026-09-24'
+    code: 640106
+    url: /works/640106/
   - title: Kachiki na Single Mother to Dosukebe Netsuai Seikou | Dirty and Passionate
       Sex with a Single Mother 1
     author: botamochi

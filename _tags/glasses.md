@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "glasses"
-work_count: 204
+work_count: 208
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -66,6 +66,14 @@ works:
     date: '2026-04-12'
     code: 240721
     url: /works/240721/
+  - title: Makai Kishi Ingrid ni Nakadashi Dekiru Soapland | A Soapland Where You Can
+      Creampie Dark Knight Ingrid
+    author: maguro-teikoku
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/296131.jpg
+    rating: 0.0
+    date: '2026-09-24'
+    code: 296131
+    url: /works/296131/
   - title: Sakura Shunin wa Dekiru Hito
     author: yoshiura-kazuya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/302117.jpg
@@ -139,6 +147,13 @@ works:
     date: '2026-07-13'
     code: 358168
     url: /works/358168/
+  - title: Egg or Chicken? Zenpen
+    author: rocket-monkey
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/364371.jpg
+    rating: 0.0
+    date: '2026-09-24'
+    code: 364371
+    url: /works/364371/
   - title: Tonari no Heya no OL-san | OL-san Next Door
     author: kagami
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/396089.jpg
@@ -1107,6 +1122,13 @@ works:
     date: '2026-07-17'
     code: 664937
     url: /works/664937/
+  - title: Tainou Bicchi Hensai Keikaku | The Delinquent Bitch's Repayment Plan
+    author: onkyu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/667990.jpg
+    rating: 0.0
+    date: '2026-09-24'
+    code: 667990
+    url: /works/667990/
   - title: Azanaharu Kanojo no Shikiroku | Color Records of a Girlfriend in Entanglement
     author: allegro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/669452.jpg
@@ -1473,14 +1495,14 @@ works:
   - title: SAIWAI ~Onna-tachi no Ura no Kao~
     author: taba
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683314.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-23'
     code: 683314
     url: /works/683314/
   - title: Insuru Juku Ashi
     author: taba
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683318.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-23'
     code: 683318
     url: /works/683318/
@@ -1488,10 +1510,17 @@ works:
       97
     author: nakaura
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683391.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-23'
     code: 683391
     url: /works/683391/
+  - title: Tokubetsu na Wonderful nante Nakatta | There is no Special Kind of Wonderful
+    author: sugarbt
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683561.jpg
+    rating: 0.0
+    date: '2026-09-24'
+    code: 683561
+    url: /works/683561/
   - title: Hottokenaino
     author: hara-shigeyuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/77864.jpg

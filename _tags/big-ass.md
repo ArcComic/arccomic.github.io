@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big ass"
-work_count: 173
+work_count: 177
 works:
   - title: My Care Lady Ch. 1
     author: sugi-g
@@ -69,6 +69,13 @@ works:
     date: '2026-09-05'
     code: 363219
     url: /works/363219/
+  - title: Egg or Chicken? Zenpen
+    author: rocket-monkey
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/364371.jpg
+    rating: 0.0
+    date: '2026-09-24'
+    code: 364371
+    url: /works/364371/
   - title: Shirotaegiku | Dusty miller
     author: hiroya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/370164.jpg
@@ -90,6 +97,13 @@ works:
     date: '2026-09-20'
     code: 388896
     url: /works/388896/
+  - title: Boshi Chika Resort | Mother and Son Underground Resort
+    author: emori-uki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/395483.jpg
+    rating: 0.0
+    date: '2026-09-24'
+    code: 395483
+    url: /works/395483/
   - title: Yurikago
     author: neko-samurai
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/398305.jpg
@@ -118,6 +132,14 @@ works:
     date: '2026-04-16'
     code: 421874
     url: /works/421874/
+  - title: Mama wa SeFri - Boku wa Tomodachi no Okaa-san to Sex o Suru | Fuck-Buddy
+      Mom — I have Sex with my Friend's Mom Part 1
+    author: goya
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/424575.jpg
+    rating: 0.0
+    date: '2026-09-24'
+    code: 424575
+    url: /works/424575/
   - title: Itabasami na Wakachi Ai 4 | Love Divided Between a Rock and a Hard Place
       4
     author: group
@@ -529,6 +551,14 @@ works:
     date: '2026-08-20'
     code: 639463
     url: /works/639463/
+  - title: 'Namaiki JK ga Wakaraserareru Hon Bangai Hen | Putting a Cheeky Gyaru in
+      Her Place: Extra Chapter'
+    author: onkyu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/640106.jpg
+    rating: 0.0
+    date: '2026-09-24'
+    code: 640106
+    url: /works/640106/
   - title: Sougo Onanii de Osananajimi wa Itsumo Iku! ~Kore Ijou Iku to Tomaranai yo?~
       | My Childhood Friend Loves It When We Jerk Off Together! But What Will Happen
       If We Keep Going!?
@@ -1259,35 +1289,35 @@ works:
   - title: Kuro-Gal Mama-san Haramasex
     author: ooshima-ryou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683312.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-23'
     code: 683312
     url: /works/683312/
   - title: SAIWAI ~Onna-tachi no Ura no Kao~
     author: taba
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683314.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-23'
     code: 683314
     url: /works/683314/
   - title: KuroTsuma
     author: hoshiduki-melon
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683317.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-23'
     code: 683317
     url: /works/683317/
   - title: Insuru Juku Ashi
     author: taba
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683318.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-23'
     code: 683318
     url: /works/683318/
   - title: Soku Hame! Muwatto Ase Mure Musume - Let's Sex! Sweaty Girls
     author: fetio
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683319.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-23'
     code: 683319
     url: /works/683319/

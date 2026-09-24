@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "manga"
-work_count: 305
+work_count: 310
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -129,6 +129,13 @@ works:
     date: '2026-03-09'
     code: 226386
     url: /works/226386/
+  - title: Chibo Soukan Ch.1-3
+    author: natsu-no-oyatsu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/238110.jpg
+    rating: 0.0
+    date: '2026-09-24'
+    code: 238110
+    url: /works/238110/
   - title: Watashi ni Mawashite Ura Kairanban
     author: yano-toshinori
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/238471.jpg
@@ -307,6 +314,13 @@ works:
     date: '2026-07-13'
     code: 358168
     url: /works/358168/
+  - title: Egg or Chicken? Zenpen
+    author: rocket-monkey
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/364371.jpg
+    rating: 0.0
+    date: '2026-09-24'
+    code: 364371
+    url: /works/364371/
   - title: Honoka ni Moyuru -- Honoka's Fire
     author: kamitsuki-manmaru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/364828.jpg
@@ -356,6 +370,13 @@ works:
     date: '2026-02-26'
     code: 393984
     url: /works/393984/
+  - title: Boshi Chika Resort | Mother and Son Underground Resort
+    author: emori-uki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/395483.jpg
+    rating: 0.0
+    date: '2026-09-24'
+    code: 395483
+    url: /works/395483/
   - title: Tonari no Heya no OL-san | OL-san Next Door
     author: kagami
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/396089.jpg
@@ -1666,6 +1687,13 @@ works:
     date: '2026-07-17'
     code: 664943
     url: /works/664943/
+  - title: Tainou Bicchi Hensai Keikaku | The Delinquent Bitch's Repayment Plan
+    author: onkyu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/667990.jpg
+    rating: 0.0
+    date: '2026-09-24'
+    code: 667990
+    url: /works/667990/
   - title: Gohoubi wa Karada de. ~Ero-sugi Fukuri Kousei wa Seishori-ka no Oshigoto~
       (2) | The Reward is the Body ~The Overly Lewd Employee Benefits of the Service
       Department~
@@ -2107,14 +2135,14 @@ works:
   - title: Kuro-Gal Mama-san Haramasex
     author: ooshima-ryou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683312.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-23'
     code: 683312
     url: /works/683312/
   - title: SAIWAI ~Onna-tachi no Ura no Kao~
     author: taba
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683314.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-23'
     code: 683314
     url: /works/683314/
@@ -2128,28 +2156,28 @@ works:
   - title: Gēmu Furin-numa ~ Inran Hitodzuma ga dan Hōkai sa Seru Made ~
     author: hoshiduki-melon
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683316.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-23'
     code: 683316
     url: /works/683316/
   - title: KuroTsuma
     author: hoshiduki-melon
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683317.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-23'
     code: 683317
     url: /works/683317/
   - title: Insuru Juku Ashi
     author: taba
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683318.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-23'
     code: 683318
     url: /works/683318/
   - title: Soku Hame! Muwatto Ase Mure Musume - Let's Sex! Sweaty Girls
     author: fetio
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683319.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-23'
     code: 683319
     url: /works/683319/
@@ -2157,7 +2185,7 @@ works:
       97
     author: nakaura
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683391.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-23'
     code: 683391
     url: /works/683391/
@@ -2168,6 +2196,13 @@ works:
     date: '2026-09-23'
     code: 683430
     url: /works/683430/
+  - title: Oinari-sama ni 3P
+    author: tokinobutt-misaki-tokinobu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683610.jpg
+    rating: 0.0
+    date: '2026-09-24'
+    code: 683610
+    url: /works/683610/
   - title: Hottokenaino
     author: hara-shigeyuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/77864.jpg

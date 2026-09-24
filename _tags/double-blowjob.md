@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "double blowjob"
-work_count: 2
+work_count: 3
 works:
   - title: Nakayoku no Yu e Youkoso Ch. 2 & 3
     author: enomoto-heights
@@ -17,4 +17,12 @@ works:
     date: '2026-04-17'
     code: 612957
     url: /works/612957/
+  - title: 'Namaiki JK ga Wakaraserareru Hon Bangai Hen | Putting a Cheeky Gyaru in
+      Her Place: Extra Chapter'
+    author: onkyu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/640106.jpg
+    rating: 0.0
+    date: '2026-09-24'
+    code: 640106
+    url: /works/640106/
 ---

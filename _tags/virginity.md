@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "virginity"
-work_count: 119
+work_count: 121
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -45,6 +45,13 @@ works:
     date: '2026-03-07'
     code: 208522
     url: /works/208522/
+  - title: Chibo Soukan Ch.1-3
+    author: natsu-no-oyatsu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/238110.jpg
+    rating: 0.0
+    date: '2026-09-24'
+    code: 238110
+    url: /works/238110/
   - title: Netemo Sametemo | Be it Sleeping or Awake
     author: takasugi-kou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/272352.jpg
@@ -171,6 +178,14 @@ works:
     date: '2026-04-16'
     code: 421874
     url: /works/421874/
+  - title: Mama wa SeFri - Boku wa Tomodachi no Okaa-san to Sex o Suru | Fuck-Buddy
+      Mom — I have Sex with my Friend's Mom Part 1
+    author: goya
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/424575.jpg
+    rating: 0.0
+    date: '2026-09-24'
+    code: 424575
+    url: /works/424575/
   - title: The Time My Friend Turned Me Into His Girl Lover and Plaything
     author: menoko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/424735.jpg

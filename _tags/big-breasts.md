@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big breasts"
-work_count: 850
+work_count: 860
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -88,6 +88,13 @@ works:
     date: '2026-03-11'
     code: 237456
     url: /works/237456/
+  - title: Chibo Soukan Ch.1-3
+    author: natsu-no-oyatsu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/238110.jpg
+    rating: 0.0
+    date: '2026-09-24'
+    code: 238110
+    url: /works/238110/
   - title: Watashi ni Mawashite Ura Kairanban
     author: yano-toshinori
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/238471.jpg
@@ -137,6 +144,14 @@ works:
     date: '2026-04-12'
     code: 293478
     url: /works/293478/
+  - title: Makai Kishi Ingrid ni Nakadashi Dekiru Soapland | A Soapland Where You Can
+      Creampie Dark Knight Ingrid
+    author: maguro-teikoku
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/296131.jpg
+    rating: 0.0
+    date: '2026-09-24'
+    code: 296131
+    url: /works/296131/
   - title: Sakura Shunin wa Dekiru Hito
     author: yoshiura-kazuya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/302117.jpg
@@ -266,6 +281,13 @@ works:
     date: '2026-04-17'
     code: 349247
     url: /works/349247/
+  - title: Amako Ticket Extra ~Onikuya-san Hen~ | Amako Ticket Extra ~Butcher Edition~
+    author: rokuichi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/355398.jpg
+    rating: 0.0
+    date: '2026-09-24'
+    code: 355398
+    url: /works/355398/
   - title: Soubo Soukan | Twin Mother Incest Ch. 1
     author: nanao-yukiji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/356516.jpg
@@ -295,6 +317,13 @@ works:
     date: '2026-09-05'
     code: 363219
     url: /works/363219/
+  - title: Egg or Chicken? Zenpen
+    author: rocket-monkey
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/364371.jpg
+    rating: 0.0
+    date: '2026-09-24'
+    code: 364371
+    url: /works/364371/
   - title: Honoka ni Moyuru -- Honoka's Fire
     author: kamitsuki-manmaru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/364828.jpg
@@ -388,6 +417,13 @@ works:
     date: '2026-04-30'
     code: 392475
     url: /works/392475/
+  - title: Boshi Chika Resort | Mother and Son Underground Resort
+    author: emori-uki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/395483.jpg
+    rating: 0.0
+    date: '2026-09-24'
+    code: 395483
+    url: /works/395483/
   - title: Tonari no Heya no OL-san | OL-san Next Door
     author: kagami
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/396089.jpg
@@ -491,6 +527,14 @@ works:
     date: '2026-04-16'
     code: 421874
     url: /works/421874/
+  - title: Mama wa SeFri - Boku wa Tomodachi no Okaa-san to Sex o Suru | Fuck-Buddy
+      Mom — I have Sex with my Friend's Mom Part 1
+    author: goya
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/424575.jpg
+    rating: 0.0
+    date: '2026-09-24'
+    code: 424575
+    url: /works/424575/
   - title: The Time My Friend Turned Me Into His Girl Lover and Plaything
     author: menoko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/424735.jpg
@@ -1968,6 +2012,13 @@ works:
     date: '2026-02-25'
     code: 597754
     url: /works/597754/
+  - title: Seishun to Backyard | The Youth and The Backyard
+    author: mokuyama-hito
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/598084.jpg
+    rating: 0.0
+    date: '2026-09-24'
+    code: 598084
+    url: /works/598084/
   - title: Kaya-nee and the Old Man Memories
     author: kon-kit
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/598144.jpg
@@ -2768,6 +2819,14 @@ works:
     date: '2026-08-23'
     code: 639772
     url: /works/639772/
+  - title: 'Namaiki JK ga Wakaraserareru Hon Bangai Hen | Putting a Cheeky Gyaru in
+      Her Place: Extra Chapter'
+    author: onkyu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/640106.jpg
+    rating: 0.0
+    date: '2026-09-24'
+    code: 640106
+    url: /works/640106/
   - title: Boku ga Shiranakatta Mama to Jii-chan no Koto | Things I didn't Know Between
       Mom And Grandpa
     author: urakan
@@ -3722,6 +3781,13 @@ works:
     date: '2026-09-06'
     code: 654603
     url: /works/654603/
+  - title: Yabai oji | Dangerous Uncle
+    author: chinpan
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654645.jpg
+    rating: 0.0
+    date: '2026-09-24'
+    code: 654645
+    url: /works/654645/
   - title: Mama ga Bakunyuu de Yokatta
     author: ameto-yuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654689.jpg
@@ -4666,6 +4732,13 @@ works:
     date: '2026-09-07'
     code: 667857
     url: /works/667857/
+  - title: Tainou Bicchi Hensai Keikaku | The Delinquent Bitch's Repayment Plan
+    author: onkyu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/667990.jpg
+    rating: 0.0
+    date: '2026-09-24'
+    code: 667990
+    url: /works/667990/
   - title: Nakadashi Oji-san ni Nerawareta Mesu wa Nigeru Koto ga Dekinai ~Fujitomo
       Megumi Hen 2~ | A Woman Can't Get Away After Being Targeted By This Horny Old
       Man - Fujitomo Megumi Edition Vol.2 [English] =White Symphony=
@@ -6191,14 +6264,14 @@ works:
   - title: Kuro-Gal Mama-san Haramasex
     author: ooshima-ryou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683312.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-23'
     code: 683312
     url: /works/683312/
   - title: SAIWAI ~Onna-tachi no Ura no Kao~
     author: taba
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683314.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-23'
     code: 683314
     url: /works/683314/
@@ -6212,28 +6285,28 @@ works:
   - title: Gēmu Furin-numa ~ Inran Hitodzuma ga dan Hōkai sa Seru Made ~
     author: hoshiduki-melon
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683316.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-23'
     code: 683316
     url: /works/683316/
   - title: KuroTsuma
     author: hoshiduki-melon
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683317.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-23'
     code: 683317
     url: /works/683317/
   - title: Insuru Juku Ashi
     author: taba
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683318.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-23'
     code: 683318
     url: /works/683318/
   - title: Soku Hame! Muwatto Ase Mure Musume - Let's Sex! Sweaty Girls
     author: fetio
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683319.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-23'
     code: 683319
     url: /works/683319/
@@ -6248,21 +6321,21 @@ works:
   - title: Daikan Shoujo - Abnormal SEX Friend
     author: fujisaki-hikari
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683332.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-23'
     code: 683332
     url: /works/683332/
   - title: Shiawase Kazoku no Sodate kata
     author: yaoyorozu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683398.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-23'
     code: 683398
     url: /works/683398/
   - title: Hieda | The Fall of Hieda
     author: akure-ekuto
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683406.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-09-23'
     code: 683406
     url: /works/683406/
@@ -6277,7 +6350,7 @@ works:
       the adult video I happened to watch looks too much like my girlfriend 3
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683443.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-23'
     code: 683443
     url: /works/683443/

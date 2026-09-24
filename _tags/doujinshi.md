@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "doujinshi"
-work_count: 1043
+work_count: 1053
 works:
   - title: Another Produce -Kaede Takagaki-
     author: marushin
@@ -83,6 +83,14 @@ works:
     date: '2026-04-12'
     code: 293478
     url: /works/293478/
+  - title: Makai Kishi Ingrid ni Nakadashi Dekiru Soapland | A Soapland Where You Can
+      Creampie Dark Knight Ingrid
+    author: maguro-teikoku
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/296131.jpg
+    rating: 0.0
+    date: '2026-09-24'
+    code: 296131
+    url: /works/296131/
   - title: Maid no Oshigoto. II | Maid's Work II
     author: alexi-laiho
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/296282.jpg
@@ -234,6 +242,13 @@ works:
     date: '2026-09-12'
     code: 354384
     url: /works/354384/
+  - title: Amako Ticket Extra ~Onikuya-san Hen~ | Amako Ticket Extra ~Butcher Edition~
+    author: rokuichi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/355398.jpg
+    rating: 0.0
+    date: '2026-09-24'
+    code: 355398
+    url: /works/355398/
   - title: Kagesawa Mura no Akai Kagi tada <hottan>
     author: chiba-shuusaku
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/359864.jpg
@@ -521,6 +536,14 @@ works:
     date: '2026-09-10'
     code: 420425
     url: /works/420425/
+  - title: Mama wa SeFri - Boku wa Tomodachi no Okaa-san to Sex o Suru | Fuck-Buddy
+      Mom — I have Sex with my Friend's Mom Part 1
+    author: goya
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/424575.jpg
+    rating: 0.0
+    date: '2026-09-24'
+    code: 424575
+    url: /works/424575/
   - title: The Time My Friend Turned Me Into His Girl Lover and Plaything
     author: menoko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/424735.jpg
@@ -2381,6 +2404,13 @@ works:
     date: '2026-07-13'
     code: 598010
     url: /works/598010/
+  - title: Seishun to Backyard | The Youth and The Backyard
+    author: mokuyama-hito
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/598084.jpg
+    rating: 0.0
+    date: '2026-09-24'
+    code: 598084
+    url: /works/598084/
   - title: Astrantia
     author: kyougoku-shin
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/598156.jpg
@@ -3370,6 +3400,14 @@ works:
     date: '2026-08-20'
     code: 639463
     url: /works/639463/
+  - title: 'Namaiki JK ga Wakaraserareru Hon Bangai Hen | Putting a Cheeky Gyaru in
+      Her Place: Extra Chapter'
+    author: onkyu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/640106.jpg
+    rating: 0.0
+    date: '2026-09-24'
+    code: 640106
+    url: /works/640106/
   - title: Boku ga Shiranakatta Mama to Jii-chan no Koto | Things I didn't Know Between
       Mom And Grandpa
     author: urakan
@@ -4566,6 +4604,13 @@ works:
     date: '2026-09-07'
     code: 654638
     url: /works/654638/
+  - title: Yabai oji | Dangerous Uncle
+    author: chinpan
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654645.jpg
+    rating: 0.0
+    date: '2026-09-24'
+    code: 654645
+    url: /works/654645/
   - title: Mama ga Bakunyuu de Yokatta
     author: ameto-yuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654689.jpg
@@ -7666,7 +7711,7 @@ works:
   - title: SAIWAI ~Onna-tachi no Ura no Kao~
     author: taba
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683314.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-23'
     code: 683314
     url: /works/683314/
@@ -7681,21 +7726,21 @@ works:
   - title: Daikan Shoujo - Abnormal SEX Friend
     author: fujisaki-hikari
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683332.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-23'
     code: 683332
     url: /works/683332/
   - title: Shiawase Kazoku no Sodate kata
     author: yaoyorozu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683398.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-23'
     code: 683398
     url: /works/683398/
   - title: Hieda | The Fall of Hieda
     author: akure-ekuto
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683406.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-09-23'
     code: 683406
     url: /works/683406/
@@ -7703,8 +7748,36 @@ works:
       the adult video I happened to watch looks too much like my girlfriend 3
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683443.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-23'
     code: 683443
     url: /works/683443/
+  - title: Tokubetsu na Wonderful nante Nakatta | There is no Special Kind of Wonderful
+    author: sugarbt
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683561.jpg
+    rating: 0.0
+    date: '2026-09-24'
+    code: 683561
+    url: /works/683561/
+  - title: Class no Kyonyuu Gal ga Seishori Tantou ni Natta Hanashi
+    author: romomata
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683590.jpg
+    rating: 0.0
+    date: '2026-09-24'
+    code: 683590
+    url: /works/683590/
+  - title: Kyonyuu no Osananajimi Gal ga Boku no Oyaji to Neteita Hanashi
+    author: romomata
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683591.jpg
+    rating: 0.0
+    date: '2026-09-24'
+    code: 683591
+    url: /works/683591/
+  - title: Oshiego no Manko Tsukai Houdai ni Natta Hanashi
+    author: romomata
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683592.jpg
+    rating: 0.0
+    date: '2026-09-24'
+    code: 683592
+    url: /works/683592/
 ---

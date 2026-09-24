@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "filming"
-work_count: 76
+work_count: 77
 works:
   - title: Netorare Ibe Kiba Shizuka | The Netorare of Kiba Shizuka
     author: terasu-mc
@@ -556,7 +556,7 @@ works:
   - title: Daikan Shoujo - Abnormal SEX Friend
     author: fujisaki-hikari
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683332.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-23'
     code: 683332
     url: /works/683332/
@@ -564,8 +564,15 @@ works:
       the adult video I happened to watch looks too much like my girlfriend 3
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683443.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-23'
     code: 683443
     url: /works/683443/
+  - title: Tokubetsu na Wonderful nante Nakatta | There is no Special Kind of Wonderful
+    author: sugarbt
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683561.jpg
+    rating: 0.0
+    date: '2026-09-24'
+    code: 683561
+    url: /works/683561/
 ---
