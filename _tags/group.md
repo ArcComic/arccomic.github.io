@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "group"
-work_count: 196
+work_count: 199
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -1436,4 +1436,25 @@ works:
     date: '2026-09-24'
     code: 683610
     url: /works/683610/
+  - title: Kazoku Torare | Family Taken Away
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683693.jpg
+    rating: 0.0
+    date: '2026-09-24'
+    code: 683693
+    url: /works/683693/
+  - title: More! We’re Captivated by Big Sis
+    author: rifuru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683744.jpg
+    rating: 0.0
+    date: '2026-09-24'
+    code: 683744
+    url: /works/683744/
+  - title: Basaki no Komochi Haha no Soudan ni Nottara Taihen na Koto ni Natta Hanashi
+    author: ginzou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683749.jpg
+    rating: 0.0
+    date: '2026-09-24'
+    code: 683749
+    url: /works/683749/
 ---

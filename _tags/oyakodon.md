@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "oyakodon"
-work_count: 21
+work_count: 23
 works:
   - title: Bitch Mama no Kekkon Riyuu
     author: aoyama-akira
@@ -154,4 +154,18 @@ works:
     date: '2026-09-23'
     code: 683312
     url: /works/683312/
+  - title: Kazoku Torare | Family Taken Away
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683693.jpg
+    rating: 0.0
+    date: '2026-09-24'
+    code: 683693
+    url: /works/683693/
+  - title: Basaki no Komochi Haha no Soudan ni Nottara Taihen na Koto ni Natta Hanashi
+    author: ginzou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683749.jpg
+    rating: 0.0
+    date: '2026-09-24'
+    code: 683749
+    url: /works/683749/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "humiliation"
-work_count: 29
+work_count: 30
 works:
   - title: Doushia (Terasu MC)] Dorei Gazoku
     author: terasu-mc
@@ -24,6 +24,13 @@ works:
     date: '2026-07-11'
     code: 531966
     url: /works/531966/
+  - title: 髪を切る漫画
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/535911.jpg
+    rating: 0.0
+    date: '2026-09-24'
+    code: 535911
+    url: /works/535911/
   - title: Ossan Kirai no Hitozuma Kyoushi ga Nikubenki ni Ochiru Hanashi | Story About
       an Old Man Hating Married Teacher Falling Into Being a Meat Toilet
     author: chinpan

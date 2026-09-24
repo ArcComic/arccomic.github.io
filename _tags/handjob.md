@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "handjob"
-work_count: 107
+work_count: 109
 works:
   - title: Chibo Soukan Ch.1-3
     author: natsu-no-oyatsu
@@ -800,6 +800,20 @@ works:
     date: '2026-09-23'
     code: 683391
     url: /works/683391/
+  - title: We’re Captivated by Big Sis
+    author: rifuru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683742.jpg
+    rating: 0.0
+    date: '2026-09-24'
+    code: 683742
+    url: /works/683742/
+  - title: More! We’re Captivated by Big Sis
+    author: rifuru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683744.jpg
+    rating: 0.0
+    date: '2026-09-24'
+    code: 683744
+    url: /works/683744/
   - title: Onee-chan no SM Kouza | Onee-chan's S&M Lecture
     author: shinooka-homare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/88750.jpg

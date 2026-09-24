@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "hairy"
-work_count: 226
+work_count: 228
 works:
   - title: Adoration
     author: kishizuka-kenji
@@ -1661,4 +1661,18 @@ works:
     date: '2026-09-24'
     code: 683561
     url: /works/683561/
+  - title: We’re Captivated by Big Sis
+    author: rifuru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683742.jpg
+    rating: 0.0
+    date: '2026-09-24'
+    code: 683742
+    url: /works/683742/
+  - title: More! We’re Captivated by Big Sis
+    author: rifuru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683744.jpg
+    rating: 0.0
+    date: '2026-09-24'
+    code: 683744
+    url: /works/683744/
 ---

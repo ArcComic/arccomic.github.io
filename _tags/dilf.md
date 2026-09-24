@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "dilf"
-work_count: 156
+work_count: 157
 works:
   - title: Adoration
     author: kishizuka-kenji
@@ -1142,4 +1142,11 @@ works:
     date: '2026-09-23'
     code: 683443
     url: /works/683443/
+  - title: Kazoku Torare | Family Taken Away
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683693.jpg
+    rating: 0.0
+    date: '2026-09-24'
+    code: 683693
+    url: /works/683693/
 ---

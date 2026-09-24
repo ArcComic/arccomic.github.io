@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "soushuuhen"
-work_count: 11
+work_count: 13
 works:
   - title: NTR Anniversary + ) [Syukurin] Mitsuha ~Netorare~ (Kimi no Na wa.) [English]
       [Colorized] by Mikaku
@@ -83,4 +83,18 @@ works:
     date: '2026-08-19'
     code: 673985
     url: /works/673985/
+  - title: We’re Captivated by Big Sis
+    author: rifuru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683742.jpg
+    rating: 0.0
+    date: '2026-09-24'
+    code: 683742
+    url: /works/683742/
+  - title: More! We’re Captivated by Big Sis
+    author: rifuru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683744.jpg
+    rating: 0.0
+    date: '2026-09-24'
+    code: 683744
+    url: /works/683744/
 ---

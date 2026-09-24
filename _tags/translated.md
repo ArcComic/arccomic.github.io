@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "translated"
-work_count: 1262
+work_count: 1268
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -2042,6 +2042,13 @@ works:
     date: '2026-09-18'
     code: 535271
     url: /works/535271/
+  - title: 髪を切る漫画
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/535911.jpg
+    rating: 0.0
+    date: '2026-09-24'
+    code: 535911
+    url: /works/535911/
   - title: Ijime Bokumetsu Swapping
     author: ere-2-earo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/536072.jpg
@@ -9263,6 +9270,41 @@ works:
     date: '2026-09-24'
     code: 683610
     url: /works/683610/
+  - title: Kazoku Torare | Family Taken Away
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683693.jpg
+    rating: 0.0
+    date: '2026-09-24'
+    code: 683693
+    url: /works/683693/
+  - title: Kore de Saigo Desu yo | This Is the Last One
+    author: kemusi-no-bansan-kai
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683694.jpg
+    rating: 4.4
+    date: '2026-09-24'
+    code: 683694
+    url: /works/683694/
+  - title: We’re Captivated by Big Sis
+    author: rifuru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683742.jpg
+    rating: 0.0
+    date: '2026-09-24'
+    code: 683742
+    url: /works/683742/
+  - title: More! We’re Captivated by Big Sis
+    author: rifuru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683744.jpg
+    rating: 0.0
+    date: '2026-09-24'
+    code: 683744
+    url: /works/683744/
+  - title: Basaki no Komochi Haha no Soudan ni Nottara Taihen na Koto ni Natta Hanashi
+    author: ginzou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683749.jpg
+    rating: 0.0
+    date: '2026-09-24'
+    code: 683749
+    url: /works/683749/
   - title: Hottokenaino
     author: hara-shigeyuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/77864.jpg

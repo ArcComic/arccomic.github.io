@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "ponytail"
-work_count: 137
+work_count: 138
 works:
   - title: Hikki Mother Fucker
     author: otochichi
@@ -1008,4 +1008,11 @@ works:
     date: '2026-09-24'
     code: 683561
     url: /works/683561/
+  - title: Kazoku Torare | Family Taken Away
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683693.jpg
+    rating: 0.0
+    date: '2026-09-24'
+    code: 683693
+    url: /works/683693/
 ---

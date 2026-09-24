@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "original"
-work_count: 881
+work_count: 885
 works:
   - title: Natsu dake Koibito - Summer only Lover [English] =Forbidden Fetish + Ser
       Maggot=
@@ -1211,6 +1211,13 @@ works:
     date: '2026-09-18'
     code: 535271
     url: /works/535271/
+  - title: 髪を切る漫画
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/535911.jpg
+    rating: 0.0
+    date: '2026-09-24'
+    code: 535911
+    url: /works/535911/
   - title: Beit Saki no Majime na Kouhai ga... | A Serious Part-Time Kouhai
     author: kusayarou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/536423.jpg
@@ -6542,4 +6549,25 @@ works:
     date: '2026-09-24'
     code: 683592
     url: /works/683592/
+  - title: Kazoku Torare | Family Taken Away
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683693.jpg
+    rating: 0.0
+    date: '2026-09-24'
+    code: 683693
+    url: /works/683693/
+  - title: Kore de Saigo Desu yo | This Is the Last One
+    author: kemusi-no-bansan-kai
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683694.jpg
+    rating: 4.4
+    date: '2026-09-24'
+    code: 683694
+    url: /works/683694/
+  - title: Basaki no Komochi Haha no Soudan ni Nottara Taihen na Koto ni Natta Hanashi
+    author: ginzou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683749.jpg
+    rating: 0.0
+    date: '2026-09-24'
+    code: 683749
+    url: /works/683749/
 ---

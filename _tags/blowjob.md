@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "blowjob"
-work_count: 499
+work_count: 501
 works:
   - title: Office Love Scramble Ch. 1
     author: tohzai
@@ -3693,6 +3693,20 @@ works:
     date: '2026-09-24'
     code: 683606
     url: /works/683606/
+  - title: We’re Captivated by Big Sis
+    author: rifuru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683742.jpg
+    rating: 0.0
+    date: '2026-09-24'
+    code: 683742
+    url: /works/683742/
+  - title: More! We’re Captivated by Big Sis
+    author: rifuru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683744.jpg
+    rating: 0.0
+    date: '2026-09-24'
+    code: 683744
+    url: /works/683744/
   - title: Jokyoushi - Hot For Teachers | Female Teachers
     author: drill-murata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/81375.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "netorare"
-work_count: 330
+work_count: 333
 works:
   - title: Kousa suru Osu to Mesu | Male and Female Crossing
     author: ootsuka-kotora
@@ -610,6 +610,13 @@ works:
     date: '2026-04-19'
     code: 534663
     url: /works/534663/
+  - title: 髪を切る漫画
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/535911.jpg
+    rating: 0.0
+    date: '2026-09-24'
+    code: 535911
+    url: /works/535911/
   - title: Ijime Bokumetsu Swapping
     author: ere-2-earo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/536072.jpg
@@ -2431,6 +2438,20 @@ works:
     date: '2026-09-24'
     code: 683591
     url: /works/683591/
+  - title: Kazoku Torare | Family Taken Away
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683693.jpg
+    rating: 0.0
+    date: '2026-09-24'
+    code: 683693
+    url: /works/683693/
+  - title: Kore de Saigo Desu yo | This Is the Last One
+    author: kemusi-no-bansan-kai
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683694.jpg
+    rating: 4.4
+    date: '2026-09-24'
+    code: 683694
+    url: /works/683694/
   - title: Inin Keiyaku | Lewd Pregnancy Contract
     author: yoshiura-kazuya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/83595.jpg
