@@ -1,4 +1,4 @@
-<!-- arc-comic-layout-version: 15 -->
+<!-- arc-comic-layout-version: 16 -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -7,7 +7,7 @@
     <link rel="icon" type="image/svg+xml" href="/favicon.svg">
     <title>{{ page.tag_name }} Comics - Arc Comic</title>
     <meta name="description" content="Browse {{ page.tag_name }} manga and doujinshi on Arc Comic">
-    {% assign ad_net = site.data.site_meta.ad_network | default: 'mondiad' %}{% assign t = site.data.site_meta.ad_toggles %}{% if ad_net == 'mondiad' and (t.mondiad_banner != false or t.mondiad_popunder != false) %}<script async src="https://ss.mrmnd.com/banner.js"></script>{% endif %}{% if ad_net == 'clickadilla' and (t.clickadilla_banner != false or t.clickadilla_inpage != false) %}<script async src="https://js.wpadmngr.com/static/adManager.js" data-admpid="465656"></script>{% endif %}
+    {% assign ad_net = site.data.site_meta.ad_network | default: 'mondiad' %}{% assign t = site.data.site_meta.ad_toggles %}{% if ad_net == 'mondiad' and (t.mondiad_banner != false or t.mondiad_popunder != false) %}<script async src="https://ss.mrmnd.com/banner.js"></script>{% endif %}
     <style>
         :root {
             --bg: #0f0f13; --bg-card: #1a1a24; --bg-elevated: #222230;
@@ -166,23 +166,21 @@
             if (adsInjected) return;
             adsInjected = true;
             const AD_NETWORK = "{{ site.data.site_meta.ad_network | default: 'mondiad' }}";
-        const AD_TOGGLES = {"mondiad_banner": true, "mondiad_popunder": true, "hilltopads_banner": true, "hilltopads_inpage": true, "hilltopads_popunder": true, "clickadilla_banner": true, "clickadilla_popunder": true, "clickadilla_inpage": true};
+        const AD_TOGGLES = {"mondiad_banner": true, "mondiad_popunder": true, "mondiad_native": true, "hilltopads_banner": true, "hilltopads_inpage": true, "hilltopads_popunder": true, "hilltopads_video_slider": true};
         Object.assign(AD_TOGGLES, {{ site.data.site_meta.ad_toggles | jsonify }});
         const SLOT_A_HTML = {
             mondiad: "<div class=\"ad-slot\" data-mndbanid=\"6682c345-631e-456b-82ef-cc3bd9dbb29a\"></div>",
-            hilltopads: "<div class=\"ad-slot\"><script>(function(dju){var d=document,s=d.createElement('script'),l=d.currentScript||d.scripts[d.scripts.length-1];s.settings=dju||{};s.src=\"\\/\\/impurelocal.com\\/bFXeVos\\/d.GZl\\/0\\/YGW\\/ci\\/keVmc9_uoZhUllCkhP\\/TccW0dN\\/TuEsxRMtDikbtNN\\/zzQj1VMvTPEWxJMOwV\";s.async=true;s.referrerPolicy='no-referrer-when-downgrade';l.parentNode.insertBefore(s,l);})({})<\\/script></div>",
-            clickadilla: "<div class=\"ad-slot\"><div data-banner-id=\"1502452\"></div></div>"
+            hilltopads: "<div class=\"ad-slot\"><script>(function(dju){var d=document,s=d.createElement('script'),l=d.currentScript||d.scripts[d.scripts.length-1];s.settings=dju||{};s.src=\"\\/\\/impurelocal.com\\/bFXeVos\\/d.GZl\\/0\\/YGW\\/ci\\/keVmc9_uoZhUllCkhP\\/TccW0dN\\/TuEsxRMtDikbtNN\\/zzQj1VMvTPEWxJMOwV\";s.async=true;s.referrerPolicy='no-referrer-when-downgrade';l.parentNode.insertBefore(s,l);})({})<\\/script></div>"
         };
         const SLOT_B_HTML = {
             mondiad: "<div class=\"ad-slot\" data-mndbanid=\"17cd1aac-5a8b-432b-ad46-4c83815b6c03\"></div>",
-            hilltopads: "<div class=\"ad-slot\"><script>(function(wunnx){var d=document,s=d.createElement('script'),l=d.currentScript||d.scripts[d.scripts.length-1];s.settings=wunnx||{};s.src=\"\\/\\/impurelocal.com\\/b.XMVUsud\\/GWlA0pYoWwcW\\/Se\\/mu9\\/u\\/ZQUNlUk\\/PxTycs0HNhTmENwJORTxMItaNJzSQY1oMOTgAd5LNDwF\";s.async=true;s.referrerPolicy='no-referrer-when-downgrade';l.parentNode.insertBefore(s,l);})({})<\\/script></div>",
-            clickadilla: "<div class=\"ad-slot\"><div data-banner-id=\"1502455\"></div></div>"
+            hilltopads: "<div class=\"ad-slot\"><script>(function(wunnx){var d=document,s=d.createElement('script'),l=d.currentScript||d.scripts[d.scripts.length-1];s.settings=wunnx||{};s.src=\"\\/\\/impurelocal.com\\/b.XMVUsud\\/GWlA0pYoWwcW\\/Se\\/mu9\\/u\\/ZQUNlUk\\/PxTycs0HNhTmENwJORTxMItaNJzSQY1oMOTgAd5LNDwF\";s.async=true;s.referrerPolicy='no-referrer-when-downgrade';l.parentNode.insertBefore(s,l);})({})<\\/script></div>"
         };
-        const SLOT_A_TOGGLE_KEY = {mondiad: 'mondiad_banner', hilltopads: 'hilltopads_banner', clickadilla: 'clickadilla_banner'};
-        const SLOT_B_TOGGLE_KEY = {mondiad: 'mondiad_banner', hilltopads: 'hilltopads_inpage', clickadilla: 'clickadilla_banner'};
+        const SLOT_A_TOGGLE_KEY = {mondiad: 'mondiad_banner', hilltopads: 'hilltopads_banner'};
+        const SLOT_B_TOGGLE_KEY = {mondiad: 'mondiad_banner', hilltopads: 'hilltopads_inpage'};
             document.getElementById('topAdContainer').innerHTML = SLOT_A_HTML[AD_NETWORK] || SLOT_A_HTML.mondiad;
             document.getElementById('bottomAdContainer').innerHTML = SLOT_B_HTML[AD_NETWORK] || SLOT_B_HTML.mondiad;
-            // Mondiad and ClickAdilla both need their loader re-triggered so
+            // Mondiad needs its loader re-triggered so it re-scans the DOM for the
             // it re-scans the DOM for the divs just inserted above (neither
             // has a documented reveal/refresh API). HilltopAds' snippets are
             // self-contained per-slot <script> blocks with no shared loader,
@@ -191,12 +189,6 @@
                 const s = document.createElement('script');
                 s.async = true;
                 s.src = 'https://ss.mrmnd.com/banner.js';
-                document.body.appendChild(s);
-            } else if (AD_NETWORK === 'clickadilla') {
-                const s = document.createElement('script');
-                s.async = true;
-                s.src = 'https://js.wpadmngr.com/static/adManager.js';
-                s.setAttribute('data-admpid', '465656');
                 document.body.appendChild(s);
             }
         }

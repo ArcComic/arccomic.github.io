@@ -275,14 +275,16 @@ def ensure_jekyll_works_collection():
 # import time. Master pastes the comic code onto the end of this URL.
 NHENTAI_READER_BASE = "https://jizzybx.github.io/nhentai-reader/reader.html?code="
 
-# ============== AD NETWORKS (session 13 rebuild — Adsterra removed) ==============
-# Adsterra is fully retired — Master no longer works with them. Replaced by
-# HilltopAds as the second switchable network alongside Mondiad and ClickAdilla.
+# ============== AD NETWORKS (session 14 — ClickAdilla removed) ==============
+# Adsterra was retired in session 13. ClickAdilla is now retired too (Master's
+# call, session 14 — too many bad reviews, treated as an unreliable network,
+# zero references left anywhere in this file below this point). Mondiad and
+# HilltopAds are the only two switchable networks left.
 # Every Banner slot on the site (post/tag/search/artist) is network-aware and
 # reads site.data.site_meta.ad_network at Jekyll build time, so flipping the
 # network from the dashboard only pushes _data/site_meta.json — no template
 # rewrite, no *_VERSION bump.
-AD_NETWORKS = ("mondiad", "hilltopads", "clickadilla")
+AD_NETWORKS = ("mondiad", "hilltopads")
 DEFAULT_AD_NETWORK = "mondiad"
 
 # ---- Mondiad ----
@@ -299,6 +301,16 @@ MONDIAD_LOADER_SRC = "https://ss.mrmnd.com/banner.js"
 # above. Reading-page only (Master's call) — never placed on tag/search/
 # artist/homepage.
 MONDIAD_POPUNDER_SRC = "https://ds.mrmnd.com/1441967b-b8d5-4169-ad25-666dfe28969e.js"
+# Native — session 14 re-add. A PRIOR attempt at Native (pre-session-13) was
+# removed sitewide because it broke grid layouts on load and visually
+# impersonated a real comic card, misleading readers. This time it's placed
+# as its own clearly-separate block directly under the Similar Comics grid
+# (not injected as a 7th grid slot), so none of the old failure modes apply —
+# see the reading-page template below. Reading-page only, independent of
+# which network is active in the dashboard (its own toggle, see
+# AD_TOGGLE_DEFS: "mondiad_native").
+MONDIAD_NATIVE_SRC = "https://ss.mrmnd.com/native.js"
+MONDIAD_NATIVE_ZONE_ID = "46474a49-ec2d-4f56-b270-26751ac9202a"
 
 # ---- HilltopAds ----
 # Every HilltopAds format ships as its own self-invoking <script> block (no
@@ -333,117 +345,36 @@ HILLTOPADS_POPUNDER_SCRIPT = (
     "s.src=\"\\/\\/gregariousstretch.com\\/c-Dp9T6.bN2N5zl\\/SgWxQD9bN\\/zOQk1GMzTNA_4\\/NsSV0l3DN\\/DBUaxmM-DMgg5M\";"
     "s.async=true;s.referrerPolicy='no-referrer-when-downgrade';l.parentNode.insertBefore(s,l);})({})</script>"
 )
-
-# ---- ClickAdilla ----
-# One universal loader script per AD Code ID activates whatever spots are
-# toggled ON for that admpid in ClickAdilla's own dashboard. Banner needs its
-# own <div> per slot (two here, same duplication fix as the other two
-# networks); In-page has no manual placement — it's bundled invisibly into
-# the #465656 loader and can only be toggled from ClickAdilla's dashboard, not
-# from ours. Popunder was later split into its own dedicated AD Code (#465658)
-# specifically so it CAN be toggled independently from our own dashboard,
-# unlike In-page.
-CLICKADILLA_LOADER_SRC = "https://js.wpadmngr.com/static/adManager.js"
-CLICKADILLA_ADMPID = "465656"          # Banner (both zones) + In-page bundle
-CLICKADILLA_BANNER_A_ID = "1502452"
-CLICKADILLA_BANNER_B_ID = "1502455"
-# Anti-AdBlock build (Master's own choice — ClickAdilla's dashboard states
-# this increases revenue 5-30% depending on Geo/format, worth it given adult
-# traffic's typically heavier ad-blocker usage). This is a dedicated
-# popunder-only AD Code, separate admpid from the Banner/In-page loader above,
-# so it can be dropped in or left out of a page independently.
-CLICKADILLA_POPUNDER_ADMPID = "465658"
-CLICKADILLA_POPUNDER_SCRIPT = (
-    "<script data-cfasync='false'>function R(K,h){var O=X();return R=function(p,E){p=p-0x87;"
-    "var Z=O[p];return Z;},R(K,h);}(function(K,h){var Xo=R,O=K();while(!![]){try{var p=parseInt(Xo(0xac))/0x1*"
-    "(-parseInt(Xo(0x90))/0x2)+parseInt(Xo(0xa5))/0x3*(-parseInt(Xo(0x8d))/0x4)+parseInt(Xo(0xb5))/0x5*"
-    "(-parseInt(Xo(0x93))/0x6)+parseInt(Xo(0x89))/0x7+-parseInt(Xo(0xa1))/0x8+parseInt(Xo(0xa7))/0x9*"
-    "(parseInt(Xo(0xb2))/0xa)+parseInt(Xo(0x95))/0xb*(parseInt(Xo(0x9f))/0xc);if(p===h)break;else "
-    "O['push'](O['shift']());}catch(E){O['push'](O['shift']());}}}(X,0x33565),(function(){var XG=R;"
-    "function K(){var Xe=R,h=465658,O='a3klsam',p='a',E='db',Z=Xe(0xad),S=Xe(0xb6),o=Xe(0xb0),e='cs',D='k',"
-    "c='pro',u='xy',Q='su',G=Xe(0x9a),j='se',C='cr',z='et',w='sta',Y='tic',g='adMa',V='nager',A=p+E+Z+S+o,"
-    "s=p+E+Z+S+e,W=p+E+Z+D+'-'+c+u+'-'+Q+G+'-'+j+C+z,L='/'+w+Y+'/'+g+V+Xe(0x9c),T=A,t=s,I=W,N=null,r=null,"
-    "n=new Date()[Xe(0x94)]()[Xe(0x8c)]('T')[0x0][Xe(0xa3)](/-/ig,'.')['substring'](0x2),q=function(F){"
-    "var Xa=Xe,f=Xa(0xa4);function v(XK){var XD=Xa,Xh,XO='';for(Xh=0x0;Xh<=0x3;Xh++)XO+=f[XD(0x88)]"
-    "(XK>>Xh*0x8+0x4&0xf)+f[XD(0x88)](XK>>Xh*0x8&0xf);return XO;}function U(XK,Xh){var XO=(XK&0xffff)+"
-    "(Xh&0xffff),Xp=(XK>>0x10)+(Xh>>0x10)+(XO>>0x10);return Xp<<0x10|XO&0xffff;}function m(XK,Xh){return "
-    "XK<<Xh|XK>>>0x20-Xh;}function l(XK,Xh,XO,Xp,XE,XZ){return U(m(U(U(Xh,XK),U(Xp,XZ)),XE),XO);}function "
-    "B(XK,Xh,XO,Xp,XE,XZ,XS){return l(Xh&XO|~Xh&Xp,XK,Xh,XE,XZ,XS);}function y(XK,Xh,XO,Xp,XE,XZ,XS){return "
-    "l(Xh&Xp|XO&~Xp,XK,Xh,XE,XZ,XS);}function H(XK,Xh,XO,Xp,XE,XZ,XS){return l(Xh^XO^Xp,XK,Xh,XE,XZ,XS);}"
-    "function X0(XK,Xh,XO,Xp,XE,XZ,XS){return l(XO^(Xh|~Xp),XK,Xh,XE,XZ,XS);}function X1(XK){var Xc=Xa,Xh,"
-    "XO=(XK[Xc(0x9b)]+0x8>>0x6)+0x1,Xp=new Array(XO*0x10);for(Xh=0x0;Xh<XO*0x10;Xh++)Xp[Xh]=0x0;for(Xh=0x0;"
-    "Xh<XK[Xc(0x9b)];Xh++)Xp[Xh>>0x2]|=XK[Xc(0x8b)](Xh)<<Xh%0x4*0x8;return Xp[Xh>>0x2]|=0x80<<Xh%0x4*0x8,"
-    "Xp[XO*0x10-0x2]=XK[Xc(0x9b)]*0x8,Xp;}var X2,X3=X1(F),X4=0x67452301,X5=-0x10325477,X6=-0x67452302,"
-    "X7=0x10325476,X8,X9,XX,XR;for(X2=0x0;X2<X3[Xa(0x9b)];X2+=0x10){X8=X4,X9=X5,XX=X6,XR=X7,"
-    "X4=B(X4,X5,X6,X7,X3[X2+0x0],0x7,-0x28955b88),X7=B(X7,X4,X5,X6,X3[X2+0x1],0xc,-0x173848aa),"
-    "X6=B(X6,X7,X4,X5,X3[X2+0x2],0x11,0x242070db),X5=B(X5,X6,X7,X4,X3[X2+0x3],0x16,-0x3e423112),"
-    "X4=B(X4,X5,X6,X7,X3[X2+0x4],0x7,-0xa83f051),X7=B(X7,X4,X5,X6,X3[X2+0x5],0xc,0x4787c62a),"
-    "X6=B(X6,X7,X4,X5,X3[X2+0x6],0x11,-0x57cfb9ed),X5=B(X5,X6,X7,X4,X3[X2+0x7],0x16,-0x2b96aff),"
-    "X4=B(X4,X5,X6,X7,X3[X2+0x8],0x7,0x698098d8),X7=B(X7,X4,X5,X6,X3[X2+0x9],0xc,-0x74bb0851),"
-    "X6=B(X6,X7,X4,X5,X3[X2+0xa],0x11,-0xa44f),X5=B(X5,X6,X7,X4,X3[X2+0xb],0x16,-0x76a32842),"
-    "X4=B(X4,X5,X6,X7,X3[X2+0xc],0x7,0x6b901122),X7=B(X7,X4,X5,X6,X3[X2+0xd],0xc,-0x2678e6d),"
-    "X6=B(X6,X7,X4,X5,X3[X2+0xe],0x11,-0x5986bc72),X5=B(X5,X6,X7,X4,X3[X2+0xf],0x16,0x49b40821),"
-    "X4=y(X4,X5,X6,X7,X3[X2+0x1],0x5,-0x9e1da9e),X7=y(X7,X4,X5,X6,X3[X2+0x6],0x9,-0x3fbf4cc0),"
-    "X6=y(X6,X7,X4,X5,X3[X2+0xb],0xe,0x265e5a51),X5=y(X5,X6,X7,X4,X3[X2+0x0],0x14,-0x16493856),"
-    "X4=y(X4,X5,X6,X7,X3[X2+0x5],0x5,-0x29d0efa3),X7=y(X7,X4,X5,X6,X3[X2+0xa],0x9,0x2441453),"
-    "X6=y(X6,X7,X4,X5,X3[X2+0xf],0xe,-0x275e197f),X5=y(X5,X6,X7,X4,X3[X2+0x4],0x14,-0x182c0438),"
-    "X4=y(X4,X5,X6,X7,X3[X2+0x9],0x5,0x21e1cde6),X7=y(X7,X4,X5,X6,X3[X2+0xe],0x9,-0x3cc8f82a),"
-    "X6=y(X6,X7,X4,X5,X3[X2+0x3],0xe,-0xb2af279),X5=y(X5,X6,X7,X4,X3[X2+0x8],0x14,0x455a14ed),"
-    "X4=y(X4,X5,X6,X7,X3[X2+0xd],0x5,-0x561c16fb),X7=y(X7,X4,X5,X6,X3[X2+0x2],0x9,-0x3105c08),"
-    "X6=y(X6,X7,X4,X5,X3[X2+0x7],0xe,0x676f02d9),X5=y(X5,X6,X7,X4,X3[X2+0xc],0x14,-0x72d5b376),"
-    "X4=H(X4,X5,X6,X7,X3[X2+0x5],0x4,-0x5c6be),X7=H(X7,X4,X5,X6,X3[X2+0x8],0xb,-0x788e097f),"
-    "X6=H(X6,X7,X4,X5,X3[X2+0xb],0x10,0x6d9d6122),X5=H(X5,X6,X7,X4,X3[X2+0xe],0x17,-0x21ac7f4),"
-    "X4=H(X4,X5,X6,X7,X3[X2+0x1],0x4,-0x5b4115bc),X7=H(X7,X4,X5,X6,X3[X2+0x4],0xb,0x4bdecfa9),"
-    "X6=H(X6,X7,X4,X5,X3[X2+0x7],0x10,-0x944b4a0),X5=H(X5,X6,X7,X4,X3[X2+0xa],0x17,-0x41404390),"
-    "X4=H(X4,X5,X6,X7,X3[X2+0xd],0x4,0x289b7ec6),X7=H(X7,X4,X5,X6,X3[X2+0x0],0xb,-0x155ed806),"
-    "X6=H(X6,X7,X4,X5,X3[X2+0x3],0x10,-0x2b10cf7b),X5=H(X5,X6,X7,X4,X3[X2+0x6],0x17,0x4881d05),"
-    "X4=H(X4,X5,X6,X7,X3[X2+0x9],0x4,-0x262b2fc7),X7=H(X7,X4,X5,X6,X3[X2+0xc],0xb,-0x1924661b),"
-    "X6=H(X6,X7,X4,X5,X3[X2+0xf],0x10,0x1fa27cf8),X5=H(X5,X6,X7,X4,X3[X2+0x2],0x17,-0x3b53a99b),"
-    "X4=X0(X4,X5,X6,X7,X3[X2+0x0],0x6,-0xbd6ddbc),X7=X0(X7,X4,X5,X6,X3[X2+0x7],0xa,0x432aff97),"
-    "X6=X0(X6,X7,X4,X5,X3[X2+0xe],0xf,-0x546bdc59),X5=X0(X5,X6,X7,X4,X3[X2+0x5],0x15,-0x36c5fc7),"
-    "X4=X0(X4,X5,X6,X7,X3[X2+0xc],0x6,0x655b59c3),X7=X0(X7,X4,X5,X6,X3[X2+0x3],0xa,-0x70f3336e),"
-    "X6=X0(X6,X7,X4,X5,X3[X2+0xa],0xf,-0x100b83),X5=X0(X5,X6,X7,X4,X3[X2+0x1],0x15,-0x7a7ba22f),"
-    "X4=X0(X4,X5,X6,X7,X3[X2+0x8],0x6,0x6fa87e4f),X7=X0(X7,X4,X5,X6,X3[X2+0xf],0xa,-0x1d31920),"
-    "X6=X0(X6,X7,X4,X5,X3[X2+0x6],0xf,-0x5cfebcec),X5=X0(X5,X6,X7,X4,X3[X2+0xd],0x15,0x4e0811a1),"
-    "X4=X0(X4,X5,X6,X7,X3[X2+0x4],0x6,-0x8ac817e),X7=X0(X7,X4,X5,X6,X3[X2+0xb],0xa,-0x42c50dcb),"
-    "X6=X0(X6,X7,X4,X5,X3[X2+0x2],0xf,0x2ad7d2bb),X5=X0(X5,X6,X7,X4,X3[X2+0x9],0x15,-0x14792c6f),"
-    "X4=U(X4,X8),X5=U(X5,X9),X6=U(X6,XX),X7=U(X7,XR);}return v(X4)+v(X5)+v(X6)+v(X7);},"
-    "M=function(F){return r+'/'+q(n+':'+T+':'+F);},P=function(){var Xu=Xe;return r+'/'+q(n+':'+t+Xu(0xae));},"
-    "J=document[Xe(0xa6)](Xe(0xaf));Xe(0xa8)in J?(L=L[Xe(0xa3)]('.js',Xe(0x9d)),J[Xe(0x91)]='module')"
-    ":(L=L[Xe(0xa3)](Xe(0x9c),Xe(0xb4)),J[Xe(0xb3)]=!![]),N=q(n+':'+I+':domain')[Xe(0xa9)](0x0,0xa)+Xe(0x8a),"
-    "r=Xe(0x92)+q(N+':'+I)[Xe(0xa9)](0x0,0xa)+'.'+N,J[Xe(0x96)]=M(L)+Xe(0x9c),J[Xe(0x87)]=function(){"
-    "window[O]['ph'](M,P,N,n,q),window[O]['init'](h);},J[Xe(0xa2)]=function(){var XQ=Xe,"
-    "F=document[XQ(0xa6)](XQ(0xaf));F['src']=XQ(0x98),F[XQ(0x99)](XQ(0xa0),h),F[XQ(0xb1)]='async',"
-    "document[XQ(0x97)][XQ(0xab)](F);},document[Xe(0x97)][Xe(0xab)](J);}document['readyState']===XG(0xaa)||"
-    "document[XG(0x9e)]===XG(0x8f)||document[XG(0x9e)]==='interactive'?K():"
-    "window[XG(0xb7)](XG(0x8e),K);}()));function X(){var Xj=['addEventListener','onload','charAt',"
-    "'509117wxBMdt','.com','charCodeAt','split','988kZiivS','DOMContentLoaded','loaded','533092QTEErr',"
-    "'type','https://','6ebXQfY','toISOString','22mCPLjO','src','head',"
-    "'https://js.wpadmngr.com/static/adManager.js','setAttribute','per','length','.js','.m.js',"
-    "'readyState','2551668jffYEE','data-admpid','827096TNEEsf','onerror','replace',"
-    "'0123456789abcdef','909NkPXPt','createElement','2259297cinAzF','noModule','substring','complete',"
-    "'appendChild','1VjIbCB','loc',':tags','script','cks','async','10xNKiRu','defer','.l.js',"
-    "'469955xpTljk','ksu'];X=function(){return Xj;};return X();}</script>"
+# Video Slider — session 14. Floating bottom-corner video ad with its own
+# close button, self-invoking script (same pattern as the other HilltopAds
+# snippets above). Reading-page only, independent of which network is active
+# in the dashboard (its own toggle, see AD_TOGGLE_DEFS: "hilltopads_video_slider").
+HILLTOPADS_VIDEO_SLIDER_SCRIPT = (
+    "<script>(function(mmbajv){var d=document,s=d.createElement('script'),"
+    "l=d.currentScript||d.scripts[d.scripts.length-1];s.settings=mmbajv||{};"
+    "s.src=\"\\/\\/impurelocal.com\\/bEXEVUs\\/d.Gzlx0\\/YVWMcg\\/neumJ9Xu\\/Z-UllNkiP\\/TQcI0kN\\/"
+    "TLUbyxOzDpUmt-NrzjQ\\/1qNpTvIp4AOdQe\";s.async=true;"
+    "s.referrerPolicy='no-referrer-when-downgrade';l.parentNode.insertBefore(s,l);})({})</script>"
 )
 
 # ---- Toggle flags (dashboard-controlled, per network+format) ----
 # Every entry here is a real, independently-flippable slot EXCEPT
-# "clickadilla_inpage", which is a labeled reminder, not a functional switch —
-# ClickAdilla's In-page format has no manual placement of its own; it's bundled
-# invisibly into the #465656 loader alongside Banner and can only be toggled
-# from ClickAdilla's own dashboard (see CLICKADILLA_ADMPID above). The
-# dashboard UI must say so next to that checkbox so it doesn't look broken
-# when clicking it has no effect on the live site.
+# "hilltopads_inpage", which stays as before (functional=True, unaffected by
+# this session's changes). "mondiad_native" and "hilltopads_video_slider" are
+# new (session 14) — both are reading-page only and INDEPENDENT of the
+# ad_network switch: whichever one is checked shows on the reading page no
+# matter which network (Mondiad or HilltopAds) is currently active site-wide.
+# This mirrors how Popunder already worked before this session.
 AD_TOGGLE_DEFS = {
-    "mondiad_banner":      {"label": "Mondiad: Banner",            "default": True,  "functional": True},
-    "mondiad_popunder":    {"label": "Mondiad: Popunder",          "default": True,  "functional": True},
-    "hilltopads_banner":   {"label": "HilltopAds: Banner",         "default": True,  "functional": True},
-    "hilltopads_inpage":   {"label": "HilltopAds: In-page",        "default": True,  "functional": True},
-    "hilltopads_popunder": {"label": "HilltopAds: Popunder",       "default": True,  "functional": True},
-    "clickadilla_banner":  {"label": "ClickAdilla: Banner",        "default": True,  "functional": True},
-    "clickadilla_popunder":{"label": "ClickAdilla: Popunder",      "default": True,  "functional": True},
-    "clickadilla_inpage":  {"label": "ClickAdilla: In-page (toggle in ClickAdilla's own dashboard)",
-                             "default": True, "functional": False},
+    "mondiad_banner":        {"label": "Mondiad: Banner",            "default": True,  "functional": True},
+    "mondiad_popunder":      {"label": "Mondiad: Popunder",          "default": True,  "functional": True},
+    "mondiad_native":        {"label": "Mondiad: Native (reading page only, independent of active network)",
+                               "default": True, "functional": True},
+    "hilltopads_banner":     {"label": "HilltopAds: Banner",         "default": True,  "functional": True},
+    "hilltopads_inpage":     {"label": "HilltopAds: In-page",        "default": True,  "functional": True},
+    "hilltopads_popunder":   {"label": "HilltopAds: Popunder",       "default": True,  "functional": True},
+    "hilltopads_video_slider": {"label": "HilltopAds: Video Slider (reading page only, independent of active network)",
+                               "default": True, "functional": True},
 }
 DEFAULT_AD_TOGGLES = {k: v["default"] for k, v in AD_TOGGLE_DEFS.items()}
 
@@ -457,20 +388,18 @@ def normalize_ad_toggles(raw):
     return {k: bool(raw.get(k, v["default"])) for k, v in AD_TOGGLE_DEFS.items()}
 
 # ---- HEAD loader fragment ----
-# Only the two networks with a page-level loader script need anything in
-# <head>; HilltopAds' snippets are fully self-contained per-slot and load
-# nothing extra. Mondiad's loader only needs to run if Banner OR Popunder is
-# toggled on; same for ClickAdilla's loader (Banner or the bundled In-page).
-# ClickAdilla's separate Popunder AD Code (#465658) is its own script and is
-# emitted directly wherever popunder is used (reading page only), not here.
+# Only the networks with a page-level loader script need anything in <head>;
+# HilltopAds' snippets are fully self-contained per-slot and load nothing
+# extra there. Mondiad's banner.js loader only needs to run if Banner OR
+# Popunder is toggled on. Mondiad's native.js is a SEPARATE loader from
+# banner.js and is emitted directly wherever Native is used (reading page
+# only, gated by its own toggle — see AD_NATIVE_STATIC_LIQUID below), not
+# here, since it must load regardless of which network is currently active.
 AD_HEAD_LOADER_LIQUID = (
     "{% assign ad_net = site.data.site_meta.ad_network | default: 'mondiad' %}"
     "{% assign t = site.data.site_meta.ad_toggles %}"
     "{% if ad_net == 'mondiad' and (t.mondiad_banner != false or t.mondiad_popunder != false) %}"
     f'<script async src="{MONDIAD_LOADER_SRC}"></script>'
-    "{% endif %}"
-    "{% if ad_net == 'clickadilla' and (t.clickadilla_banner != false or t.clickadilla_inpage != false) %}"
-    f'<script async src="{CLICKADILLA_LOADER_SRC}" data-admpid="{CLICKADILLA_ADMPID}"></script>'
     "{% endif %}"
 )
 
@@ -479,9 +408,14 @@ MONDIAD_BANNER_A_HTML = f'<div class="ad-slot" data-mndbanid="{MONDIAD_BANNER_ZO
 MONDIAD_BANNER_B_HTML = f'<div class="ad-slot" data-mndbanid="{MONDIAD_BANNER_ZONE_B}"></div>'
 HILLTOPADS_BANNER_A_HTML = f'<div class="ad-slot">{HILLTOPADS_BANNER_A_SCRIPT}</div>'
 HILLTOPADS_BANNER_B_HTML = f'<div class="ad-slot">{HILLTOPADS_BANNER_B_SCRIPT}</div>'
-CLICKADILLA_BANNER_A_HTML = f'<div class="ad-slot"><div data-banner-id="{CLICKADILLA_BANNER_A_ID}"></div></div>'
-CLICKADILLA_BANNER_B_HTML = f'<div class="ad-slot"><div data-banner-id="{CLICKADILLA_BANNER_B_ID}"></div></div>'
 HILLTOPADS_INPAGE_HTML = f'<div class="ad-slot">{HILLTOPADS_INPAGE_SCRIPT}</div>'
+# Native — reading page only. Its own <script async> loader (native.js, a
+# DIFFERENT script from Mondiad's banner.js) plus the element div Mondiad's
+# dashboard gave us. Not network-aware — shown purely by its own toggle.
+MONDIAD_NATIVE_HTML = (
+    f'<script async src="{MONDIAD_NATIVE_SRC}"></script>'
+    f'<div data-mndazid="{MONDIAD_NATIVE_ZONE_ID}"></div>'
+)
 
 def _js_string_safe_html(html_str):
     """Escapes any literal '</script>' inside an HTML string so it can be
@@ -519,8 +453,6 @@ AD_SLOT_A_STATIC_LIQUID = (
     "{% assign t = site.data.site_meta.ad_toggles %}"
     "{% if ad_net == 'hilltopads' %}"
     "{% if t.hilltopads_banner != false %}" + HILLTOPADS_BANNER_A_HTML + "{% endif %}"
-    "{% elsif ad_net == 'clickadilla' %}"
-    "{% if t.clickadilla_banner != false %}" + CLICKADILLA_BANNER_A_HTML + "{% endif %}"
     "{% else %}"
     "{% if t.mondiad_banner != false %}" + MONDIAD_BANNER_A_HTML + "{% endif %}"
     "{% endif %}"
@@ -530,22 +462,29 @@ AD_SLOT_B_STATIC_LIQUID = (
     "{% assign t = site.data.site_meta.ad_toggles %}"
     "{% if ad_net == 'hilltopads' %}"
     "{% if t.hilltopads_banner != false %}" + HILLTOPADS_BANNER_B_HTML + "{% endif %}"
-    "{% elsif ad_net == 'clickadilla' %}"
-    "{% if t.clickadilla_banner != false %}" + CLICKADILLA_BANNER_B_HTML + "{% endif %}"
     "{% else %}"
     "{% if t.mondiad_banner != false %}" + MONDIAD_BANNER_B_HTML + "{% endif %}"
     "{% endif %}"
 )
-# Popunder is stacked across all three networks' popunder scripts at once
+# Popunder is stacked across both networks' popunder scripts at once
 # (Master's own call — "we gonna balance it out"), each independently
-# toggleable, and reading-page only. ClickAdilla's is its own dedicated
-# AD Code (#465658, separate from the Banner/In-page loader), so it's emitted
-# directly here rather than depending on the shared loader in <head>.
+# toggleable, and reading-page only.
 AD_POPUNDER_STATIC_LIQUID = (
     "{% assign t = site.data.site_meta.ad_toggles %}"
     "{% if t.mondiad_popunder != false %}" f'<script async src="{MONDIAD_POPUNDER_SRC}"></script>' "{% endif %}"
     "{% if t.hilltopads_popunder != false %}" + HILLTOPADS_POPUNDER_SCRIPT + "{% endif %}"
-    "{% if t.clickadilla_popunder != false %}" + CLICKADILLA_POPUNDER_SCRIPT + "{% endif %}"
+)
+# Native (Mondiad) and Video Slider (HilltopAds) — session 14. Both are
+# reading-page only and INDEPENDENT of the ad_network switch (see toggle defs
+# comment above) — each fires purely off its own toggle, regardless of
+# whether Mondiad or HilltopAds is the currently active network.
+AD_NATIVE_STATIC_LIQUID = (
+    "{% assign t = site.data.site_meta.ad_toggles %}"
+    "{% if t.mondiad_native != false %}" + MONDIAD_NATIVE_HTML + "{% endif %}"
+)
+AD_VIDEO_SLIDER_STATIC_LIQUID = (
+    "{% assign t = site.data.site_meta.ad_toggles %}"
+    "{% if t.hilltopads_video_slider != false %}" + HILLTOPADS_VIDEO_SLIDER_SCRIPT + "{% endif %}"
 )
 
 # ---- JS-injected slots (tag/search/artist build their ad divs after the grid
@@ -559,32 +498,36 @@ AD_POPUNDER_STATIC_LIQUID = (
 #      a duplicate banner and gets its own toggle rather than reusing Banner
 #      B's. Homepage keeps its p1-clean / p2-banner-only behavior unchanged
 #      and is NOT touched by this fragment (see its own inline JS instead).
+#      Native and Video Slider are reading-page only, so they never appear
+#      here — only in POST_LAYOUT_TEMPLATE via AD_NATIVE_STATIC_LIQUID /
+#      AD_VIDEO_SLIDER_STATIC_LIQUID above.
 AD_JS_CONSTANTS = (
     "const AD_NETWORK = \"{{ site.data.site_meta.ad_network | default: 'mondiad' }}\";\n"
     "        const AD_TOGGLES = " + json.dumps(DEFAULT_AD_TOGGLES) + ";\n"
     "        Object.assign(AD_TOGGLES, {{ site.data.site_meta.ad_toggles | jsonify }});\n"
     "        const SLOT_A_HTML = {\n"
     "            mondiad: " + json.dumps(_js_string_safe_html(MONDIAD_BANNER_A_HTML)) + ",\n"
-    "            hilltopads: " + json.dumps(_js_string_safe_html(HILLTOPADS_BANNER_A_HTML)) + ",\n"
-    "            clickadilla: " + json.dumps(_js_string_safe_html(CLICKADILLA_BANNER_A_HTML)) + "\n"
+    "            hilltopads: " + json.dumps(_js_string_safe_html(HILLTOPADS_BANNER_A_HTML)) + "\n"
     "        };\n"
     "        const SLOT_B_HTML = {\n"
     "            mondiad: " + json.dumps(_js_string_safe_html(MONDIAD_BANNER_B_HTML)) + ",\n"
-    "            hilltopads: " + json.dumps(_js_string_safe_html(HILLTOPADS_INPAGE_HTML)) + ",\n"
-    "            clickadilla: " + json.dumps(_js_string_safe_html(CLICKADILLA_BANNER_B_HTML)) + "\n"
+    "            hilltopads: " + json.dumps(_js_string_safe_html(HILLTOPADS_INPAGE_HTML)) + "\n"
     "        };\n"
-    "        const SLOT_A_TOGGLE_KEY = {mondiad: 'mondiad_banner', hilltopads: 'hilltopads_banner', clickadilla: 'clickadilla_banner'};\n"
-    "        const SLOT_B_TOGGLE_KEY = {mondiad: 'mondiad_banner', hilltopads: 'hilltopads_inpage', clickadilla: 'clickadilla_banner'};"
+    "        const SLOT_A_TOGGLE_KEY = {mondiad: 'mondiad_banner', hilltopads: 'hilltopads_banner'};\n"
+    "        const SLOT_B_TOGGLE_KEY = {mondiad: 'mondiad_banner', hilltopads: 'hilltopads_inpage'};"
 )
 
 POST_LAYOUT_PATH = os.path.join(WORK_DIR, "_layouts", "post.html")
-POST_LAYOUT_VERSION = 14  # bumped session 13: Adsterra removed, HilltopAds+ClickAdilla banners, popunder added
+POST_LAYOUT_VERSION = 15  # bumped session 14: ClickAdilla removed, Native + Video Slider added (reading page)
 
-# Native ads (Mondiad "Native" zone type) were removed sitewide — they
-# render as in-flow content the network fully controls, and were both
-# breaking grid layouts on load and misleading readers by visually
-# impersonating a real comic card. Banner is the only ad format used now:
-# a fixed rectangular slot that looks like an ad, styled by us, sized by us.
+# Native ads (Mondiad "Native" zone type) were removed sitewide in an earlier
+# session — that attempt rendered Native as in-flow content the network
+# fully controlled, which broke grid layouts on load and misled readers by
+# visually impersonating a real comic card. Session 14 re-adds Native, but
+# placed differently this time: as its own clearly-separate block directly
+# under (not inside) the Similar Comics grid — see AD_NATIVE_STATIC_LIQUID's
+# placement below — so it never touches the grid's own slot-counting logic
+# or claims to be one of the 6 similar-card slots.
 POST_LAYOUT_TEMPLATE = f"""<!-- arc-comic-layout-version: {POST_LAYOUT_VERSION} -->
 <!DOCTYPE html>
 <html lang="en">
@@ -944,7 +887,10 @@ POST_LAYOUT_TEMPLATE = f"""<!-- arc-comic-layout-version: {POST_LAYOUT_VERSION} 
             </div>
         </div>
 
+        {AD_NATIVE_STATIC_LIQUID}
+
         {AD_SLOT_B_STATIC_LIQUID}
+        {AD_VIDEO_SLIDER_STATIC_LIQUID}
 
         {{% include follow_us.html %}}
         <div class="footer">
@@ -1369,7 +1315,7 @@ PAGINATION_JS = """
 
 # ============== HOMEPAGE (index.html) ==============
 INDEX_HTML_PATH = os.path.join(WORK_DIR, "index.html")
-INDEX_HTML_VERSION = 19  # bumped again: fixed <script> premature-close bug from unescaped HilltopAds snippet
+INDEX_HTML_VERSION = 20  # bumped session 14: ClickAdilla branch removed from injectAdsIfNeeded()
 
 INDEX_HTML_TEMPLATE = f"""---
 # No 'layout:' key here on purpose — index.html is a complete, self-contained
@@ -1708,12 +1654,6 @@ INDEX_HTML_TEMPLATE = f"""---
                 s.async = true;
                 s.src = 'https://ss.mrmnd.com/banner.js';
                 document.body.appendChild(s);
-            }} else if (AD_NETWORK === 'clickadilla') {{
-                const s = document.createElement('script');
-                s.async = true;
-                s.src = 'https://js.wpadmngr.com/static/adManager.js';
-                s.setAttribute('data-admpid', '465656');
-                document.body.appendChild(s);
             }}
         }}
         function clearAds() {{
@@ -1859,7 +1799,7 @@ def ensure_index_html():
 # ============== TAG SYSTEM (Stage 3) ==============
 TAGS_DIR = os.path.join(WORK_DIR, "_tags")
 TAG_LAYOUT_PATH = os.path.join(WORK_DIR, "_layouts", "tag.html")
-TAG_LAYOUT_VERSION = 15  # bumped again: fixed <script> premature-close bug from unescaped HilltopAds snippet
+TAG_LAYOUT_VERSION = 16  # bumped session 14: ClickAdilla branch removed from injectAdsIfNeeded()
 TAGS_INDEX_PATH = os.path.join(WORK_DIR, "tags", "index.html")
 TAGS_INDEX_VERSION = 1
 
@@ -2001,7 +1941,7 @@ TAG_LAYOUT_TEMPLATE = f"""<!-- arc-comic-layout-version: {TAG_LAYOUT_VERSION} --
             {AD_JS_CONSTANTS}
             document.getElementById('topAdContainer').innerHTML = SLOT_A_HTML[AD_NETWORK] || SLOT_A_HTML.mondiad;
             document.getElementById('bottomAdContainer').innerHTML = SLOT_B_HTML[AD_NETWORK] || SLOT_B_HTML.mondiad;
-            // Mondiad and ClickAdilla both need their loader re-triggered so
+            // Mondiad needs its loader re-triggered so it re-scans the DOM for the
             // it re-scans the DOM for the divs just inserted above (neither
             // has a documented reveal/refresh API). HilltopAds' snippets are
             // self-contained per-slot <script> blocks with no shared loader,
@@ -2010,12 +1950,6 @@ TAG_LAYOUT_TEMPLATE = f"""<!-- arc-comic-layout-version: {TAG_LAYOUT_VERSION} --
                 const s = document.createElement('script');
                 s.async = true;
                 s.src = 'https://ss.mrmnd.com/banner.js';
-                document.body.appendChild(s);
-            }} else if (AD_NETWORK === 'clickadilla') {{
-                const s = document.createElement('script');
-                s.async = true;
-                s.src = 'https://js.wpadmngr.com/static/adManager.js';
-                s.setAttribute('data-admpid', '465656');
                 document.body.appendChild(s);
             }}
         }}
@@ -2081,7 +2015,7 @@ def slugify(text):
 
 # ============== SEARCH RESULTS PAGE ==============
 SEARCH_PAGE_PATH = os.path.join(WORK_DIR, "search", "index.html")
-SEARCH_PAGE_VERSION = 16  # bumped again: fixed <script> premature-close bug from unescaped HilltopAds snippet
+SEARCH_PAGE_VERSION = 17  # bumped session 14: ClickAdilla branch removed from injectAdsIfNeeded()
 
 SEARCH_PAGE_TEMPLATE = f"""---
 ---
@@ -2271,7 +2205,7 @@ SEARCH_PAGE_TEMPLATE = f"""---
             {AD_JS_CONSTANTS}
             document.getElementById('topAdContainer').innerHTML = SLOT_A_HTML[AD_NETWORK] || SLOT_A_HTML.mondiad;
             document.getElementById('bottomAdContainer').innerHTML = SLOT_B_HTML[AD_NETWORK] || SLOT_B_HTML.mondiad;
-            // Mondiad and ClickAdilla both need their loader re-triggered so
+            // Mondiad needs its loader re-triggered so it re-scans the DOM for the
             // it re-scans the DOM for the divs just inserted above. HilltopAds'
             // snippets are self-contained per-slot <script> blocks — nothing
             // extra needed for that network.
@@ -2279,12 +2213,6 @@ SEARCH_PAGE_TEMPLATE = f"""---
                 const s = document.createElement('script');
                 s.async = true;
                 s.src = 'https://ss.mrmnd.com/banner.js';
-                document.body.appendChild(s);
-            }} else if (AD_NETWORK === 'clickadilla') {{
-                const s = document.createElement('script');
-                s.async = true;
-                s.src = 'https://js.wpadmngr.com/static/adManager.js';
-                s.setAttribute('data-admpid', '465656');
                 document.body.appendChild(s);
             }}
         }}
@@ -2603,7 +2531,7 @@ def _write_tags_index(tag_map):
 # index, regenerated together with tags after every batch flush/delete.
 ARTISTS_DIR = os.path.join(WORK_DIR, "_artists")
 ARTIST_LAYOUT_PATH = os.path.join(WORK_DIR, "_layouts", "artist.html")
-ARTIST_LAYOUT_VERSION = 14  # bumped again: fixed <script> premature-close bug from unescaped HilltopAds snippet
+ARTIST_LAYOUT_VERSION = 15  # bumped session 14: ClickAdilla branch removed from injectAdsIfNeeded()
 ARTISTS_INDEX_PATH = os.path.join(WORK_DIR, "artists", "index.html")
 ARTISTS_INDEX_VERSION = 1
 
@@ -2734,7 +2662,7 @@ ARTIST_LAYOUT_TEMPLATE = f"""<!-- arc-comic-layout-version: {ARTIST_LAYOUT_VERSI
             {AD_JS_CONSTANTS}
             document.getElementById('topAdContainer').innerHTML = SLOT_A_HTML[AD_NETWORK] || SLOT_A_HTML.mondiad;
             document.getElementById('bottomAdContainer').innerHTML = SLOT_B_HTML[AD_NETWORK] || SLOT_B_HTML.mondiad;
-            // Mondiad and ClickAdilla both need their loader re-triggered so
+            // Mondiad needs its loader re-triggered so it re-scans the DOM for the
             // it re-scans the DOM for the divs just inserted above (neither
             // has a documented reveal/refresh API). HilltopAds' snippets are
             // self-contained per-slot <script> blocks with no shared loader,
@@ -2743,12 +2671,6 @@ ARTIST_LAYOUT_TEMPLATE = f"""<!-- arc-comic-layout-version: {ARTIST_LAYOUT_VERSI
                 const s = document.createElement('script');
                 s.async = true;
                 s.src = 'https://ss.mrmnd.com/banner.js';
-                document.body.appendChild(s);
-            }} else if (AD_NETWORK === 'clickadilla') {{
-                const s = document.createElement('script');
-                s.async = true;
-                s.src = 'https://js.wpadmngr.com/static/adManager.js';
-                s.setAttribute('data-admpid', '465656');
                 document.body.appendChild(s);
             }}
         }}
@@ -5534,10 +5456,6 @@ DASHBOARD_HTML = """
                         style="flex:1;padding:14px;border-radius:10px;font-weight:700;font-size:14px;cursor:pointer;border:2px solid #2a2a3a;background:#1a1a24;color:#8888a0;">
                     HilltopAds
                 </button>
-                <button id="adNetworkClickadillaBtn" type="button" data-network="clickadilla" class="ad-network-btn"
-                        style="flex:1;padding:14px;border-radius:10px;font-weight:700;font-size:14px;cursor:pointer;border:2px solid #2a2a3a;background:#1a1a24;color:#8888a0;">
-                    ClickAdilla
-                </button>
             </div>
             <div style="margin-top:10px;font-size:13px;color:#8888a0;">
                 Currently live: <strong id="adNetworkCurrent" style="color:#f59e0b;">loading...</strong>
@@ -5548,7 +5466,9 @@ DASHBOARD_HTML = """
                 <div style="font-size:13px;font-weight:700;margin-bottom:4px;">Individual ad toggles</div>
                 <p style="color:#8888a0;font-size:12px;margin-bottom:10px;line-height:1.5;">
                     Turn any single format off without switching networks. Popunder runs on the reading
-                    page only, stacked across all three networks at once — leave on the ones you want live.
+                    page only, stacked across both networks at once — leave on the ones you want live.
+                    Native and Video Slider are also reading-page only and always show when checked,
+                    regardless of which network is active above.
                 </p>
                 <div id="adToggleList" style="display:flex;flex-direction:column;gap:8px;"></div>
                 <button id="saveAdTogglesBtn" type="button" style="width:100%;background:#f59e0b;color:#000;border:none;padding:12px;border-radius:10px;font-weight:700;font-size:13px;cursor:pointer;margin-top:12px;">
@@ -6183,7 +6103,7 @@ DASHBOARD_HTML = """
         let siteAdToggles = {};
         let siteReadButtons = [];
 
-        const AD_NETWORK_LABELS = { mondiad: 'Mondiad', hilltopads: 'HilltopAds', clickadilla: 'ClickAdilla' };
+        const AD_NETWORK_LABELS = { mondiad: 'Mondiad', hilltopads: 'HilltopAds' };
         const AD_TOGGLE_DEFS_JS = {{ ad_toggle_defs_json | safe }};
 
         function paintAdNetwork() {

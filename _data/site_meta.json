@@ -9,12 +9,11 @@
   "ad_toggles": {
     "mondiad_banner": true,
     "mondiad_popunder": false,
+    "mondiad_native": true,
     "hilltopads_banner": true,
     "hilltopads_inpage": true,
     "hilltopads_popunder": true,
-    "clickadilla_banner": false,
-    "clickadilla_popunder": false,
-    "clickadilla_inpage": false
+    "hilltopads_video_slider": true
   },
   "read_buttons": [
     {
