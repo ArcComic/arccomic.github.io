@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "kissing"
-work_count: 277
+work_count: 284
 works:
   - title: FLUFFY LAUGH GIRL
     author: shibasaki-syouzi
@@ -368,6 +368,14 @@ works:
     date: '2026-07-08'
     code: 527621
     url: /works/527621/
+  - title: Zutto Hanasanaide ne. -Onaho na Mukanjou Osananajimi to Junai ni Ochiru made-
+      | Please Don’t Let Go Of Me ~Until I Fall in Love With My Onahole Childhood Friend~
+    author: kurumaya-koudou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/527651.jpg
+    rating: 4.5
+    date: '2026-09-24'
+    code: 527651
+    url: /works/527651/
   - title: Netorareru.~ Tsuma ga Ochi Yuku Hen'ai Kairaku no Hate ni...1-5 | NETORARERU,
       A Wife's Descent Into Sinful Pleasures 1-5
     author: yuuki-ryo
@@ -542,6 +550,13 @@ works:
     date: '2026-03-03'
     code: 574060
     url: /works/574060/
+  - title: Nishizumi Maho no Shirubeki ja Nakatta Koto Zen
+    author: rasson
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/576680.jpg
+    rating: 4.7
+    date: '2026-09-24'
+    code: 576680
+    url: /works/576680/
   - title: 'Kaa-san wa Kanbanmusume Nikuyoku ni Kogareta Boshi no Niya | My Mother -
       The Poster Girl: Two Nights of Forbidden Passion between Mother and Son'
     author: murabito-c
@@ -1340,6 +1355,13 @@ works:
     date: '2026-05-10'
     code: 649111
     url: /works/649111/
+  - title: Nishizumi Shiho's Forbidden Fruit - Part 3
+    author: rasson
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/649317.jpg
+    rating: 4.0
+    date: '2026-09-24'
+    code: 649317
+    url: /works/649317/
   - title: Ally-san wa Doko Demo Ikitai!! 3
     author: inukami-inoji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/650926.jpg
@@ -1449,6 +1471,13 @@ works:
     date: '2026-09-18'
     code: 654010
     url: /works/654010/
+  - title: Until I Take Everything From You 2-C
+    author: takotokite
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654240.jpg
+    rating: 0.0
+    date: '2026-09-24'
+    code: 654240
+    url: /works/654240/
   - title: My Tall, Stacked, Virgin Boss 1
     author: yunamaro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654603.jpg
@@ -2067,10 +2096,33 @@ works:
   - title: Anata ga Awa ni Narumaeni | Before You Become Sea Foam
     author: shikabanekamo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683606.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-24'
     code: 683606
     url: /works/683606/
+  - title: Natsuzuma 3
+    author: kurosu-gatari
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683679.jpg
+    rating: 0.0
+    date: '2026-09-24'
+    code: 683679
+    url: /works/683679/
+  - title: Give It To Me, Hit Me With It
+    author: takara-mao
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683686.jpg
+    rating: 4.3
+    date: '2026-09-24'
+    code: 683686
+    url: /works/683686/
+  - title: 'Inshuu Bijutsubu Kouhai Nude Model to Okiteyaburi no Sex ga Shita | Indecent
+      Art Club: I would like to break the rules and fool around with my junior nude
+      model'
+    author: kurumaya-koudou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683690.jpg
+    rating: 4.6
+    date: '2026-09-24'
+    code: 683690
+    url: /works/683690/
   - title: Kore de Saigo Desu yo | This Is the Last One
     author: kemusi-no-bansan-kai
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683694.jpg

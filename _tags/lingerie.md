@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "lingerie"
-work_count: 82
+work_count: 84
 works:
   - title: My Care Lady Ch. 1
     author: sugi-g
@@ -155,6 +155,14 @@ works:
     date: '2026-03-04'
     code: 508649
     url: /works/508649/
+  - title: Iemoto no Uwaki ga Honki ni Natta Hi Zenpen | The Day the Grand Master's
+      Affair Became Serious Part One
+    author: rasson
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/521674.jpg
+    rating: 4.8
+    date: '2026-09-24'
+    code: 521674
+    url: /works/521674/
   - title: Yamazaki Makie (3●-sai), Musume no Kareshi to SeFri ni Naru | Yamazaki Makie
       (3X Years Old), Becoming Fuck Buddies with her Daughter's Boyfriend
     author: ryuuta
@@ -609,4 +617,11 @@ works:
     date: '2026-09-23'
     code: 683318
     url: /works/683318/
+  - title: Give It To Me, Hit Me With It
+    author: takara-mao
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683686.jpg
+    rating: 4.3
+    date: '2026-09-24'
+    code: 683686
+    url: /works/683686/
 ---

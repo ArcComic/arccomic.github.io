@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "filming"
-work_count: 77
+work_count: 81
 works:
   - title: Netorare Ibe Kiba Shizuka | The Netorare of Kiba Shizuka
     author: terasu-mc
@@ -210,6 +210,13 @@ works:
     date: '2026-09-18'
     code: 625984
     url: /works/625984/
+  - title: Umi no Ie ni wa Kiken ga Ippai Class no Ano Ko no Oppai Porori
+    author: p-and-i
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/628126.jpg
+    rating: 0.0
+    date: '2026-09-24'
+    code: 628126
+    url: /works/628126/
   - title: Boku no Daisuki na Kaa-san to Omou Zonbun Sex Dekiru Hi 3 | My Fabulous Fuck
       Day with My Amazing Mommy 3
     author: higehurai
@@ -233,6 +240,13 @@ works:
     date: '2026-09-19'
     code: 638320
     url: /works/638320/
+  - title: Idol no Kimi no Tonari no Boku 2
+    author: negoya
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/640988.jpg
+    rating: 0.0
+    date: '2026-09-24'
+    code: 640988
+    url: /works/640988/
   - title: LOOK LIKE
     author: terasu-mc
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/641295.jpg
@@ -283,6 +297,15 @@ works:
     date: '2026-04-17'
     code: 644495
     url: /works/644495/
+  - title: Shuugaku Ryokou no Yoru Class no Idol Yowasete Oppai wo Nama Okazu ni Shiteyatta
+      w | On the night of an excursion, we got the class idol drunk and jacked off to
+      her nude titties lol
+    author: p-and-i
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/645320.jpg
+    rating: 0.0
+    date: '2026-09-24'
+    code: 645320
+    url: /works/645320/
   - title: 'YariCir Shingakki ni Boku no Heya wa Minna no Tamariba (Omake Ver.) - Fuck
       Club: New Term! My Room''s A Hangout Spot For Everyone'
     author: purumetal
@@ -399,6 +422,13 @@ works:
     date: '2026-08-22'
     code: 652912
     url: /works/652912/
+  - title: Until I Take Everything From You 2-C
+    author: takotokite
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654240.jpg
+    rating: 0.0
+    date: '2026-09-24'
+    code: 654240
+    url: /works/654240/
   - title: Seishidouin no Oshigoto 4 Kohen Rippana Benki ni Sodatta node Daimanzoku
       de Shidou wo Oeta + C101 Omake
     author: malcorond

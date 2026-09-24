@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "chikan"
-work_count: 17
+work_count: 18
 works:
   - title: Kyodou Fushin Joshi
     author: uds
@@ -57,6 +57,13 @@ works:
     date: '2026-03-07'
     code: 635174
     url: /works/635174/
+  - title: Idol no Kimi no Tonari no Boku 2
+    author: negoya
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/640988.jpg
+    rating: 0.0
+    date: '2026-09-24'
+    code: 640988
+    url: /works/640988/
   - title: Majime na Salaryman ga JK Chijo ni Otosareru Hanashi
     author: hamo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/652651.jpg

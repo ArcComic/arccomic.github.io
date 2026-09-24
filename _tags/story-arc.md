@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "story arc"
-work_count: 163
+work_count: 165
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -178,6 +178,13 @@ works:
     date: '2026-04-14'
     code: 478446
     url: /works/478446/
+  - title: 'Revenge Massage: Moan More & Beg for Me!'
+    author: aono-akira
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/481671.jpg
+    rating: 0.0
+    date: '2026-09-24'
+    code: 481671
+    url: /works/481671/
   - title: SeFri no Senpai | 學姐是我的炮友
     author: gen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/494440.jpg
@@ -1182,17 +1189,24 @@ works:
     date: '2026-09-23'
     code: 683430
     url: /works/683430/
+  - title: Natsuzuma 3
+    author: kurosu-gatari
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683679.jpg
+    rating: 0.0
+    date: '2026-09-24'
+    code: 683679
+    url: /works/683679/
   - title: We’re Captivated by Big Sis
     author: rifuru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683742.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-24'
     code: 683742
     url: /works/683742/
   - title: More! We’re Captivated by Big Sis
     author: rifuru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683744.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-24'
     code: 683744
     url: /works/683744/

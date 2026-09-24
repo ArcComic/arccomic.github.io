@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "fingering"
-work_count: 141
+work_count: 143
 works:
   - title: Watashi-tachi no Seikoui Tokubetsu Jisshuu -Zengi Hen-
     author: guglielmo
@@ -209,6 +209,14 @@ works:
     date: '2026-05-04'
     code: 519713
     url: /works/519713/
+  - title: Iemoto no Uwaki ga Honki ni Natta Hi Zenpen | The Day the Grand Master's
+      Affair Became Serious Part One
+    author: rasson
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/521674.jpg
+    rating: 4.8
+    date: '2026-09-24'
+    code: 521674
+    url: /works/521674/
   - title: My Friends Mom Is My Toy
     author: exit-up
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/521812.jpg
@@ -1045,8 +1053,15 @@ works:
   - title: Anata ga Awa ni Narumaeni | Before You Become Sea Foam
     author: shikabanekamo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683606.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-24'
     code: 683606
     url: /works/683606/
+  - title: Natsuzuma 3
+    author: kurosu-gatari
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683679.jpg
+    rating: 0.0
+    date: '2026-09-24'
+    code: 683679
+    url: /works/683679/
 ---

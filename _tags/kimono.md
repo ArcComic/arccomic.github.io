@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "kimono"
-work_count: 41
+work_count: 44
 works:
   - title: Hitozuma Hyakka
     author: hase-tsubura
@@ -70,6 +70,14 @@ works:
     date: '2026-08-20'
     code: 510022
     url: /works/510022/
+  - title: Iemoto no Uwaki ga Honki ni Natta Hi Zenpen | The Day the Grand Master's
+      Affair Became Serious Part One
+    author: rasson
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/521674.jpg
+    rating: 4.8
+    date: '2026-09-24'
+    code: 521674
+    url: /works/521674/
   - title: Pakokatsu Oji-san to Kaede-chan (1+2+3) | Kaede and The Sugar Daddy
     author: nizigensan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/543086.jpg
@@ -171,6 +179,15 @@ works:
     date: '2026-04-21'
     code: 644924
     url: /works/644924/
+  - title: Shuugaku Ryokou no Yoru Class no Idol Yowasete Oppai wo Nama Okazu ni Shiteyatta
+      w | On the night of an excursion, we got the class idol drunk and jacked off to
+      her nude titties lol
+    author: p-and-i
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/645320.jpg
+    rating: 0.0
+    date: '2026-09-24'
+    code: 645320
+    url: /works/645320/
   - title: If I Have a Chance, I Want to Warp My Boyfriend's Fetishes! ~Lovey-dovey
       Trip to the Hotsprings~
     author: meeko
@@ -187,6 +204,13 @@ works:
     date: '2026-05-07'
     code: 648550
     url: /works/648550/
+  - title: Nishizumi Shiho's Forbidden Fruit - Part 3
+    author: rasson
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/649317.jpg
+    rating: 4.0
+    date: '2026-09-24'
+    code: 649317
+    url: /works/649317/
   - title: Ally-san wa Doko Demo Ikitai!! 3
     author: inukami-inoji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/650926.jpg

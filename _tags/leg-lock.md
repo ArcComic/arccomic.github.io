@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "leg lock"
-work_count: 68
+work_count: 71
 works:
   - title: My Care Lady Ch. 1
     author: sugi-g
@@ -151,6 +151,14 @@ works:
     date: '2026-07-08'
     code: 527621
     url: /works/527621/
+  - title: Zutto Hanasanaide ne. -Onaho na Mukanjou Osananajimi to Junai ni Ochiru made-
+      | Please Don’t Let Go Of Me ~Until I Fall in Love With My Onahole Childhood Friend~
+    author: kurumaya-koudou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/527651.jpg
+    rating: 4.5
+    date: '2026-09-24'
+    code: 527651
+    url: /works/527651/
   - title: Keitai de Muchimuchi na Chounyuu JD ni Chinpo o Shigoki Agete Morau Hanashi
     author: yosyo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/531191.jpg
@@ -190,6 +198,13 @@ works:
     date: '2026-08-18'
     code: 560097
     url: /works/560097/
+  - title: Nishizumi Maho no Shirubeki ja Nakatta Koto Zen
+    author: rasson
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/576680.jpg
+    rating: 4.7
+    date: '2026-09-24'
+    code: 576680
+    url: /works/576680/
   - title: ゼロ距離のまなざし | 零距离的眼神
     author: momoko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/579493.jpg
@@ -509,4 +524,11 @@ works:
     date: '2026-09-19'
     code: 682342
     url: /works/682342/
+  - title: Natsuzuma 3
+    author: kurosu-gatari
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683679.jpg
+    rating: 0.0
+    date: '2026-09-24'
+    code: 683679
+    url: /works/683679/
 ---

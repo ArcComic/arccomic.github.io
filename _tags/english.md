@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "english"
-work_count: 1285
+work_count: 1297
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -1357,6 +1357,13 @@ works:
     date: '2026-04-17'
     code: 481441
     url: /works/481441/
+  - title: 'Revenge Massage: Moan More & Beg for Me!'
+    author: aono-akira
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/481671.jpg
+    rating: 0.0
+    date: '2026-09-24'
+    code: 481671
+    url: /works/481671/
   - title: Ore no Tsuma wa  Kanpeki  de Kawaii | My Wife's Cuteness is Perfect
     author: ono-kenuji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/482454.jpg
@@ -1805,6 +1812,14 @@ works:
     date: '2026-08-28'
     code: 520363
     url: /works/520363/
+  - title: Iemoto no Uwaki ga Honki ni Natta Hi Zenpen | The Day the Grand Master's
+      Affair Became Serious Part One
+    author: rasson
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/521674.jpg
+    rating: 4.8
+    date: '2026-09-24'
+    code: 521674
+    url: /works/521674/
   - title: My Friends Mom Is My Toy
     author: exit-up
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/521812.jpg
@@ -1869,6 +1884,14 @@ works:
     date: '2026-07-08'
     code: 527621
     url: /works/527621/
+  - title: Zutto Hanasanaide ne. -Onaho na Mukanjou Osananajimi to Junai ni Ochiru made-
+      | Please Don’t Let Go Of Me ~Until I Fall in Love With My Onahole Childhood Friend~
+    author: kurumaya-koudou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/527651.jpg
+    rating: 4.5
+    date: '2026-09-24'
+    code: 527651
+    url: /works/527651/
   - title: Yojouhan Bio Seikatsu Soushuuhen
     author: sgk
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/527851.jpg
@@ -2062,7 +2085,7 @@ works:
   - title: 髪を切る漫画
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/535911.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-24'
     code: 535911
     url: /works/535911/
@@ -2617,7 +2640,7 @@ works:
   - title: Namaiki JK ga Wakaraserareru Hon | Putting a Cheeky Gyaru in Her Place
     author: onkyu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/574409.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-24'
     code: 574409
     url: /works/574409/
@@ -2651,6 +2674,13 @@ works:
     date: '2026-04-23'
     code: 576398
     url: /works/576398/
+  - title: Nishizumi Maho no Shirubeki ja Nakatta Koto Zen
+    author: rasson
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/576680.jpg
+    rating: 4.7
+    date: '2026-09-24'
+    code: 576680
+    url: /works/576680/
   - title: Natchan wa ne -My Girl is M!
     author: mojarin
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/576910.jpg
@@ -3651,6 +3681,13 @@ works:
     date: '2026-05-26'
     code: 627182
     url: /works/627182/
+  - title: Umi no Ie ni wa Kiken ga Ippai Class no Ano Ko no Oppai Porori
+    author: p-and-i
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/628126.jpg
+    rating: 0.0
+    date: '2026-09-24'
+    code: 628126
+    url: /works/628126/
   - title: Succubus Seitokai Shiko Shiko Shikkoubu 3 | Succubus Student Council Milking
       Club 3
     author: michiking
@@ -4175,6 +4212,13 @@ works:
     date: '2026-04-23'
     code: 640543
     url: /works/640543/
+  - title: Idol no Kimi no Tonari no Boku 2
+    author: negoya
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/640988.jpg
+    rating: 0.0
+    date: '2026-09-24'
+    code: 640988
+    url: /works/640988/
   - title: Sougo Onanii de Osananajimi wa Itsumo Iku! ~Kore Ijou Iku to Tomaranai yo?~
       | My Childhood Friend Loves It When We Jerk Off Together! But What Will Happen
       If We Keep Going!?
@@ -4526,6 +4570,15 @@ works:
     date: '2026-04-21'
     code: 645136
     url: /works/645136/
+  - title: Shuugaku Ryokou no Yoru Class no Idol Yowasete Oppai wo Nama Okazu ni Shiteyatta
+      w | On the night of an excursion, we got the class idol drunk and jacked off to
+      her nude titties lol
+    author: p-and-i
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/645320.jpg
+    rating: 0.0
+    date: '2026-09-24'
+    code: 645320
+    url: /works/645320/
   - title: Ane Mama ~ Atarashii Onee-chan to Mama wa Ore no Sex Friend ni Narimashita.
       ~
     author: group
@@ -5083,6 +5136,13 @@ works:
     date: '2026-09-22'
     code: 649307
     url: /works/649307/
+  - title: Nishizumi Shiho's Forbidden Fruit - Part 3
+    author: rasson
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/649317.jpg
+    rating: 4.0
+    date: '2026-09-24'
+    code: 649317
+    url: /works/649317/
   - title: Ally-san wa Doko Demo Ikitai!! 3
     author: inukami-inoji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/650926.jpg
@@ -5357,6 +5417,13 @@ works:
     date: '2026-08-21'
     code: 654114
     url: /works/654114/
+  - title: Until I Take Everything From You 2-C
+    author: takotokite
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654240.jpg
+    rating: 0.0
+    date: '2026-09-24'
+    code: 654240
+    url: /works/654240/
   - title: Until I Take Everything From You 4
     author: takotokite
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654249.jpg
@@ -9383,7 +9450,7 @@ works:
   - title: Anata ga Awa ni Narumaeni | Before You Become Sea Foam
     author: shikabanekamo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683606.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-24'
     code: 683606
     url: /works/683606/
@@ -9394,10 +9461,33 @@ works:
     date: '2026-09-24'
     code: 683610
     url: /works/683610/
+  - title: Natsuzuma 3
+    author: kurosu-gatari
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683679.jpg
+    rating: 0.0
+    date: '2026-09-24'
+    code: 683679
+    url: /works/683679/
+  - title: Give It To Me, Hit Me With It
+    author: takara-mao
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683686.jpg
+    rating: 4.3
+    date: '2026-09-24'
+    code: 683686
+    url: /works/683686/
+  - title: 'Inshuu Bijutsubu Kouhai Nude Model to Okiteyaburi no Sex ga Shita | Indecent
+      Art Club: I would like to break the rules and fool around with my junior nude
+      model'
+    author: kurumaya-koudou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683690.jpg
+    rating: 4.6
+    date: '2026-09-24'
+    code: 683690
+    url: /works/683690/
   - title: Kazoku Torare | Family Taken Away
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683693.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-24'
     code: 683693
     url: /works/683693/
@@ -9411,21 +9501,21 @@ works:
   - title: We’re Captivated by Big Sis
     author: rifuru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683742.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-24'
     code: 683742
     url: /works/683742/
   - title: More! We’re Captivated by Big Sis
     author: rifuru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683744.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-24'
     code: 683744
     url: /works/683744/
   - title: Basaki no Komochi Haha no Soudan ni Nottara Taihen na Koto ni Natta Hanashi
     author: ginzou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683749.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-09-24'
     code: 683749
     url: /works/683749/

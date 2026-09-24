@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "defloration"
-work_count: 191
+work_count: 192
 works:
   - title: Imitation Family + Bigibo Hen
     author: tohzai
@@ -423,6 +423,13 @@ works:
     date: '2026-03-03'
     code: 576288
     url: /works/576288/
+  - title: Nishizumi Maho no Shirubeki ja Nakatta Koto Zen
+    author: rasson
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/576680.jpg
+    rating: 4.7
+    date: '2026-09-24'
+    code: 576680
+    url: /works/576680/
   - title: Namima no Pōtorēto | Portrait of a Wave
     author: torii-yoshitsuna
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/580379.jpg

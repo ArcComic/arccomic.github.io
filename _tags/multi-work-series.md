@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "multi-work series"
-work_count: 290
+work_count: 298
 works:
   - title: Oppai na Natsuyasumi 2 | The Summer Break of Boobs 2
     author: higashino-mikan
@@ -229,6 +229,13 @@ works:
     date: '2026-07-17'
     code: 477784
     url: /works/477784/
+  - title: 'Revenge Massage: Moan More & Beg for Me!'
+    author: aono-akira
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/481671.jpg
+    rating: 0.0
+    date: '2026-09-24'
+    code: 481671
+    url: /works/481671/
   - title: Gyakuten Enkou ~Ore ga Kawareru Sekai~ | Reversed Compensated Dating ~A World
       Where I Get Bought~
     author: nectar
@@ -342,6 +349,14 @@ works:
     date: '2026-05-04'
     code: 519713
     url: /works/519713/
+  - title: Iemoto no Uwaki ga Honki ni Natta Hi Zenpen | The Day the Grand Master's
+      Affair Became Serious Part One
+    author: rasson
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/521674.jpg
+    rating: 4.8
+    date: '2026-09-24'
+    code: 521674
+    url: /works/521674/
   - title: Motto♥ Okki na Saori-chan wa Fukiyou ni Eroi
     author: aramaki-echizen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/524436.jpg
@@ -363,6 +378,14 @@ works:
     date: '2026-07-08'
     code: 527621
     url: /works/527621/
+  - title: Zutto Hanasanaide ne. -Onaho na Mukanjou Osananajimi to Junai ni Ochiru made-
+      | Please Don’t Let Go Of Me ~Until I Fall in Love With My Onahole Childhood Friend~
+    author: kurumaya-koudou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/527651.jpg
+    rating: 4.5
+    date: '2026-09-24'
+    code: 527651
+    url: /works/527651/
   - title: Netorareru.~ Tsuma ga Ochi Yuku Hen'ai Kairaku no Hate ni...1-5 | NETORARERU,
       A Wife's Descent Into Sinful Pleasures 1-5
     author: yuuki-ryo
@@ -601,7 +624,7 @@ works:
   - title: Namaiki JK ga Wakaraserareru Hon | Putting a Cheeky Gyaru in Her Place
     author: onkyu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/574409.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-24'
     code: 574409
     url: /works/574409/
@@ -612,6 +635,13 @@ works:
     date: '2026-03-03'
     code: 576288
     url: /works/576288/
+  - title: Nishizumi Maho no Shirubeki ja Nakatta Koto Zen
+    author: rasson
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/576680.jpg
+    rating: 4.7
+    date: '2026-09-24'
+    code: 576680
+    url: /works/576680/
   - title: Zero Kyori no Manazashi
     author: momoko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/578371.jpg
@@ -1037,6 +1067,13 @@ works:
     date: '2026-09-24'
     code: 640106
     url: /works/640106/
+  - title: Idol no Kimi no Tonari no Boku 2
+    author: negoya
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/640988.jpg
+    rating: 0.0
+    date: '2026-09-24'
+    code: 640988
+    url: /works/640988/
   - title: Kachiki na Single Mother to Dosukebe Netsuai Seikou | Dirty and Passionate
       Sex with a Single Mother 1
     author: botamochi
@@ -1344,6 +1381,13 @@ works:
     date: '2026-05-10'
     code: 649114
     url: /works/649114/
+  - title: Nishizumi Shiho's Forbidden Fruit - Part 3
+    author: rasson
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/649317.jpg
+    rating: 4.0
+    date: '2026-09-24'
+    code: 649317
+    url: /works/649317/
   - title: Ally-san wa Doko Demo Ikitai!! 3
     author: inukami-inoji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/650926.jpg
@@ -1395,6 +1439,13 @@ works:
     date: '2026-05-27'
     code: 652836
     url: /works/652836/
+  - title: Until I Take Everything From You 2-C
+    author: takotokite
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654240.jpg
+    rating: 0.0
+    date: '2026-09-24'
+    code: 654240
+    url: /works/654240/
   - title: Until I Take Everything From You 4
     author: takotokite
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654249.jpg
@@ -2174,4 +2225,11 @@ works:
     date: '2026-09-23'
     code: 683443
     url: /works/683443/
+  - title: Natsuzuma 3
+    author: kurosu-gatari
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683679.jpg
+    rating: 0.0
+    date: '2026-09-24'
+    code: 683679
+    url: /works/683679/
 ---

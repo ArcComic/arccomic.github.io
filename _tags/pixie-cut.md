@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "pixie cut"
-work_count: 68
+work_count: 69
 works:
   - title: Last Chance
     author: herio
@@ -513,4 +513,13 @@ works:
     date: '2026-09-22'
     code: 681786
     url: /works/681786/
+  - title: 'Inshuu Bijutsubu Kouhai Nude Model to Okiteyaburi no Sex ga Shita | Indecent
+      Art Club: I would like to break the rules and fool around with my junior nude
+      model'
+    author: kurumaya-koudou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683690.jpg
+    rating: 4.6
+    date: '2026-09-24'
+    code: 683690
+    url: /works/683690/
 ---

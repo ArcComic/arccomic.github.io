@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "emotionless sex"
-work_count: 19
+work_count: 20
 works:
   - title: Maid no Oshigoto. II | Maid's Work II
     author: alexi-laiho
@@ -42,6 +42,14 @@ works:
     date: '2026-04-23'
     code: 509071
     url: /works/509071/
+  - title: Zutto Hanasanaide ne. -Onaho na Mukanjou Osananajimi to Junai ni Ochiru made-
+      | Please Don’t Let Go Of Me ~Until I Fall in Love With My Onahole Childhood Friend~
+    author: kurumaya-koudou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/527651.jpg
+    rating: 4.5
+    date: '2026-09-24'
+    code: 527651
+    url: /works/527651/
   - title: Tennen Kaa-san ga Ero Kawai Sugiru node, Saimin Onaho Sex Shitatta! | My
       Airheaded Mom Was Too Adorably Sexy, So I Had Hypnotized Onahole Sex with Her!
     author: ginen

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big breasts"
-work_count: 865
+work_count: 872
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -1078,6 +1078,14 @@ works:
     date: '2026-05-04'
     code: 519713
     url: /works/519713/
+  - title: Iemoto no Uwaki ga Honki ni Natta Hi Zenpen | The Day the Grand Master's
+      Affair Became Serious Part One
+    author: rasson
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/521674.jpg
+    rating: 4.8
+    date: '2026-09-24'
+    code: 521674
+    url: /works/521674/
   - title: Motto♥ Okki na Saori-chan wa Fukiyou ni Eroi
     author: aramaki-echizen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/524436.jpg
@@ -1634,7 +1642,7 @@ works:
   - title: Namaiki JK ga Wakaraserareru Hon | Putting a Cheeky Gyaru in Her Place
     author: onkyu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/574409.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-24'
     code: 574409
     url: /works/574409/
@@ -2382,6 +2390,13 @@ works:
     date: '2026-05-26'
     code: 627182
     url: /works/627182/
+  - title: Umi no Ie ni wa Kiken ga Ippai Class no Ano Ko no Oppai Porori
+    author: p-and-i
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/628126.jpg
+    rating: 0.0
+    date: '2026-09-24'
+    code: 628126
+    url: /works/628126/
   - title: Succubus Seitokai Shiko Shiko Shikkoubu 3 | Succubus Student Council Milking
       Club 3
     author: michiking
@@ -3116,6 +3131,15 @@ works:
     date: '2026-04-21'
     code: 645285
     url: /works/645285/
+  - title: Shuugaku Ryokou no Yoru Class no Idol Yowasete Oppai wo Nama Okazu ni Shiteyatta
+      w | On the night of an excursion, we got the class idol drunk and jacked off to
+      her nude titties lol
+    author: p-and-i
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/645320.jpg
+    rating: 0.0
+    date: '2026-09-24'
+    code: 645320
+    url: /works/645320/
   - title: Ane Mama ~ Atarashii Onee-chan to Mama wa Ore no Sex Friend ni Narimashita.
       ~
     author: group
@@ -3760,6 +3784,13 @@ works:
     date: '2026-08-21'
     code: 654114
     url: /works/654114/
+  - title: Until I Take Everything From You 2-C
+    author: takotokite
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654240.jpg
+    rating: 0.0
+    date: '2026-09-24'
+    code: 654240
+    url: /works/654240/
   - title: Until I Take Everything From You 4
     author: takotokite
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654249.jpg
@@ -6364,14 +6395,37 @@ works:
   - title: Anata ga Awa ni Narumaeni | Before You Become Sea Foam
     author: shikabanekamo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683606.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-24'
     code: 683606
     url: /works/683606/
+  - title: Natsuzuma 3
+    author: kurosu-gatari
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683679.jpg
+    rating: 0.0
+    date: '2026-09-24'
+    code: 683679
+    url: /works/683679/
+  - title: Give It To Me, Hit Me With It
+    author: takara-mao
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683686.jpg
+    rating: 4.3
+    date: '2026-09-24'
+    code: 683686
+    url: /works/683686/
+  - title: 'Inshuu Bijutsubu Kouhai Nude Model to Okiteyaburi no Sex ga Shita | Indecent
+      Art Club: I would like to break the rules and fool around with my junior nude
+      model'
+    author: kurumaya-koudou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683690.jpg
+    rating: 4.6
+    date: '2026-09-24'
+    code: 683690
+    url: /works/683690/
   - title: Kazoku Torare | Family Taken Away
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683693.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-24'
     code: 683693
     url: /works/683693/
@@ -6385,7 +6439,7 @@ works:
   - title: Basaki no Komochi Haha no Soudan ni Nottara Taihen na Koto ni Natta Hanashi
     author: ginzou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683749.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-09-24'
     code: 683749
     url: /works/683749/

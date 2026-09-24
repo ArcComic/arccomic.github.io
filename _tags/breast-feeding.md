@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "breast feeding"
-work_count: 70
+work_count: 72
 works:
   - title: Oppai na Natsuyasumi 2 | The Summer Break of Boobs 2
     author: higashino-mikan
@@ -292,6 +292,15 @@ works:
     date: '2026-04-23'
     code: 640543
     url: /works/640543/
+  - title: Shuugaku Ryokou no Yoru Class no Idol Yowasete Oppai wo Nama Okazu ni Shiteyatta
+      w | On the night of an excursion, we got the class idol drunk and jacked off to
+      her nude titties lol
+    author: p-and-i
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/645320.jpg
+    rating: 0.0
+    date: '2026-09-24'
+    code: 645320
+    url: /works/645320/
   - title: 'YariCir Shingakki ni Boku no Heya wa Minna no Tamariba (Omake Ver.) - Fuck
       Club: New Term! My Room''s A Hangout Spot For Everyone'
     author: purumetal
@@ -525,17 +534,24 @@ works:
     date: '2026-09-23'
     code: 683067
     url: /works/683067/
+  - title: Natsuzuma 3
+    author: kurosu-gatari
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683679.jpg
+    rating: 0.0
+    date: '2026-09-24'
+    code: 683679
+    url: /works/683679/
   - title: We’re Captivated by Big Sis
     author: rifuru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683742.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-24'
     code: 683742
     url: /works/683742/
   - title: More! We’re Captivated by Big Sis
     author: rifuru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683744.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-24'
     code: 683744
     url: /works/683744/

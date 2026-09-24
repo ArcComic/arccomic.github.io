@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "dilf"
-work_count: 157
+work_count: 159
 works:
   - title: Adoration
     author: kishizuka-kenji
@@ -428,7 +428,7 @@ works:
   - title: Namaiki JK ga Wakaraserareru Hon | Putting a Cheeky Gyaru in Her Place
     author: onkyu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/574409.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-24'
     code: 574409
     url: /works/574409/
@@ -439,6 +439,13 @@ works:
     date: '2026-03-03'
     code: 576288
     url: /works/576288/
+  - title: Nishizumi Maho no Shirubeki ja Nakatta Koto Zen
+    author: rasson
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/576680.jpg
+    rating: 4.7
+    date: '2026-09-24'
+    code: 576680
+    url: /works/576680/
   - title: Boku no Kaa-chan 2 | My Mom 2
     author: cammy
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/579339.jpg
@@ -765,6 +772,13 @@ works:
     date: '2026-05-10'
     code: 649068
     url: /works/649068/
+  - title: Nishizumi Shiho's Forbidden Fruit - Part 3
+    author: rasson
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/649317.jpg
+    rating: 4.0
+    date: '2026-09-24'
+    code: 649317
+    url: /works/649317/
   - title: Jill's Rehabilitation
     author: sawao
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651296.jpg
@@ -1145,7 +1159,7 @@ works:
   - title: Kazoku Torare | Family Taken Away
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683693.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-24'
     code: 683693
     url: /works/683693/

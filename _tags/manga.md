@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "manga"
-work_count: 313
+work_count: 314
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -2199,7 +2199,7 @@ works:
   - title: Anata ga Awa ni Narumaeni | Before You Become Sea Foam
     author: shikabanekamo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683606.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-24'
     code: 683606
     url: /works/683606/
@@ -2210,17 +2210,24 @@ works:
     date: '2026-09-24'
     code: 683610
     url: /works/683610/
+  - title: Give It To Me, Hit Me With It
+    author: takara-mao
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683686.jpg
+    rating: 4.3
+    date: '2026-09-24'
+    code: 683686
+    url: /works/683686/
   - title: We’re Captivated by Big Sis
     author: rifuru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683742.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-24'
     code: 683742
     url: /works/683742/
   - title: More! We’re Captivated by Big Sis
     author: rifuru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683744.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-24'
     code: 683744
     url: /works/683744/

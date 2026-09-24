@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "childhood friend"
-work_count: 21
+work_count: 22
 works:
   - title: Hajimete Kanojo Ga Dekita No Ni
     author: unknown
@@ -38,6 +38,14 @@ works:
     date: '2026-09-18'
     code: 450112
     url: /works/450112/
+  - title: Zutto Hanasanaide ne. -Onaho na Mukanjou Osananajimi to Junai ni Ochiru made-
+      | Please Don’t Let Go Of Me ~Until I Fall in Love With My Onahole Childhood Friend~
+    author: kurumaya-koudou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/527651.jpg
+    rating: 4.5
+    date: '2026-09-24'
+    code: 527651
+    url: /works/527651/
   - title: Ecchi na Omise ni Ittara Osananajimi ga Detekita Hanashi - Sex Establishment
       Series
     author: akahito

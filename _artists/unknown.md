@@ -44,7 +44,7 @@ works:
     url: /works/526619/
   - title: 髪を切る漫画
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/535911.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-24'
     code: 535911
     url: /works/535911/

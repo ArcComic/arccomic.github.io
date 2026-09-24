@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "swimsuit"
-work_count: 62
+work_count: 64
 works:
   - title: Kizashi
     author: yoshiura-kazuya
@@ -134,6 +134,13 @@ works:
     date: '2026-09-09'
     code: 620889
     url: /works/620889/
+  - title: Umi no Ie ni wa Kiken ga Ippai Class no Ano Ko no Oppai Porori
+    author: p-and-i
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/628126.jpg
+    rating: 0.0
+    date: '2026-09-24'
+    code: 628126
+    url: /works/628126/
   - title: Koukan Nikki ー School Whore Diaries
     author: henkuma
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/634328.jpg
@@ -181,6 +188,15 @@ works:
     date: '2026-07-06'
     code: 644296
     url: /works/644296/
+  - title: Shuugaku Ryokou no Yoru Class no Idol Yowasete Oppai wo Nama Okazu ni Shiteyatta
+      w | On the night of an excursion, we got the class idol drunk and jacked off to
+      her nude titties lol
+    author: p-and-i
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/645320.jpg
+    rating: 0.0
+    date: '2026-09-24'
+    code: 645320
+    url: /works/645320/
   - title: Oji Saimin Soushuuhen | Hypnotized Uncle Compilation Edition
     author: tokomaya-keita
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/645612.jpg

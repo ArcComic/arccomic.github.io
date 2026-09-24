@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "doll play"
-work_count: 2
+work_count: 3
 works:
   - title: Alola no Yoru no Sugata Soushuuhen | Aloha Night Compilation
     author: kurosu-gatari
@@ -17,4 +17,11 @@ works:
     date: '2026-04-21'
     code: 645264
     url: /works/645264/
+  - title: Natsuzuma 3
+    author: kurosu-gatari
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683679.jpg
+    rating: 0.0
+    date: '2026-09-24'
+    code: 683679
+    url: /works/683679/
 ---
