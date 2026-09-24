@@ -375,6 +375,8 @@ AD_TOGGLE_DEFS = {
     "hilltopads_popunder":   {"label": "HilltopAds: Popunder",       "default": True,  "functional": True},
     "hilltopads_video_slider": {"label": "HilltopAds: Video Slider (reading page only, independent of active network)",
                                "default": True, "functional": True},
+    "reading_bottom_banner": {"label": "Reading page: bottom Banner (whichever network is active — off is handy when Native is on)",
+                               "default": True, "functional": True},
 }
 DEFAULT_AD_TOGGLES = {k: v["default"] for k, v in AD_TOGGLE_DEFS.items()}
 
@@ -457,13 +459,23 @@ AD_SLOT_A_STATIC_LIQUID = (
     "{% if t.mondiad_banner != false %}" + MONDIAD_BANNER_A_HTML + "{% endif %}"
     "{% endif %}"
 )
+# Bottom Banner (Slot B) on the reading page ONLY has an extra outer gate,
+# "reading_bottom_banner" — independent of both the network switch and
+# Native's own toggle. Master wanted the ability to manually turn the bottom
+# banner off (handy when Native is on and two ad blocks back-to-back feels
+# like too much) and turn it back on later without touching anything else.
+# NOTE: AD_SLOT_B_STATIC_LIQUID is reading-page-only — tag/search/artist's
+# own bottom slot is built separately client-side (see AD_JS_CONSTANTS below,
+# SLOT_B_HTML), so this new gate correctly has no effect on those three pages.
 AD_SLOT_B_STATIC_LIQUID = (
     "{% assign ad_net = site.data.site_meta.ad_network | default: 'mondiad' %}"
     "{% assign t = site.data.site_meta.ad_toggles %}"
+    "{% if t.reading_bottom_banner != false %}"
     "{% if ad_net == 'hilltopads' %}"
     "{% if t.hilltopads_banner != false %}" + HILLTOPADS_BANNER_B_HTML + "{% endif %}"
     "{% else %}"
     "{% if t.mondiad_banner != false %}" + MONDIAD_BANNER_B_HTML + "{% endif %}"
+    "{% endif %}"
     "{% endif %}"
 )
 # Popunder is stacked across both networks' popunder scripts at once
@@ -518,7 +530,7 @@ AD_JS_CONSTANTS = (
 )
 
 POST_LAYOUT_PATH = os.path.join(WORK_DIR, "_layouts", "post.html")
-POST_LAYOUT_VERSION = 15  # bumped session 14: ClickAdilla removed, Native + Video Slider added (reading page)
+POST_LAYOUT_VERSION = 16  # bumped session 14b: reading_bottom_banner toggle added, Video Slider mobile size cap
 
 # Native ads (Mondiad "Native" zone type) were removed sitewide in an earlier
 # session — that attempt rendered Native as in-flow content the network
@@ -595,6 +607,24 @@ POST_LAYOUT_TEMPLATE = f"""<!-- arc-comic-layout-version: {POST_LAYOUT_VERSION} 
         .ad-slot {{
             margin: 24px auto; display: flex; justify-content: center; align-items: center;
             width: 100%; max-width: 336px; min-height: 50px;
+        }}
+        /* Video Slider mobile size cap (session 14, Master's request). HilltopAds'
+           script injects its own floating player directly, not into a div we
+           control, and their docs say custom sizing needs a manager request —
+           no dashboard setting exists for it. This is a best-effort safety net:
+           it targets fixed-position elements the script tends to create,
+           capping how much of a small screen they can cover. Desktop is left
+           alone entirely (Master's call — "no need on that"). If Master finds
+           after checking live that this selector doesn't actually catch the
+           injected element (HilltopAds may use a different structure than
+           assumed here), the real fix needs either a real DOM inspection of
+           what the script renders, or contacting HilltopAds' manager as their
+           own docs suggest for any change to default Video Slider behavior. */
+        @media (max-width: 768px) {{
+            body > div[style*="position: fixed"], body > div[style*="position:fixed"] {{
+                max-width: 60vw !important;
+                max-height: 40vh !important;
+            }}
         }}
         /* Bug 19 moved this site to Banner-format ads specifically because
            Native ads let Mondiad's script inject arbitrary markup that had

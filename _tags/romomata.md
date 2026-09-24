@@ -34,21 +34,21 @@ works:
   - title: Class no Kyonyuu Gal ga Seishori Tantou ni Natta Hanashi
     author: romomata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683590.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-24'
     code: 683590
     url: /works/683590/
   - title: Kyonyuu no Osananajimi Gal ga Boku no Oyaji to Neteita Hanashi
     author: romomata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683591.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-24'
     code: 683591
     url: /works/683591/
   - title: Oshiego no Manko Tsukai Houdai ni Natta Hanashi
     author: romomata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683592.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-24'
     code: 683592
     url: /works/683592/

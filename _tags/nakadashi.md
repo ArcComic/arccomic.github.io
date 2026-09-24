@@ -99,7 +99,7 @@ works:
       Creampie Dark Knight Ingrid
     author: maguro-teikoku
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/296131.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-24'
     code: 296131
     url: /works/296131/
@@ -243,7 +243,7 @@ works:
   - title: Egg or Chicken? Zenpen
     author: rocket-monkey
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/364371.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-24'
     code: 364371
     url: /works/364371/
@@ -2316,7 +2316,7 @@ works:
       Her Place: Extra Chapter'
     author: onkyu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/640106.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-24'
     code: 640106
     url: /works/640106/
@@ -3093,7 +3093,7 @@ works:
   - title: Yabai oji | Dangerous Uncle
     author: chinpan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654645.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-24'
     code: 654645
     url: /works/654645/
@@ -3637,7 +3637,7 @@ works:
   - title: Tainou Bicchi Hensai Keikaku | The Delinquent Bitch's Repayment Plan
     author: onkyu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/667990.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-24'
     code: 667990
     url: /works/667990/
@@ -4600,7 +4600,7 @@ works:
   - title: Oinari-sama ni 3P
     author: tokinobutt-misaki-tokinobu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683610.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-24'
     code: 683610
     url: /works/683610/

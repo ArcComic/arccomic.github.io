@@ -1,4 +1,4 @@
-<!-- arc-comic-layout-version: 15 -->
+<!-- arc-comic-layout-version: 16 -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -65,6 +65,24 @@
         .ad-slot {
             margin: 24px auto; display: flex; justify-content: center; align-items: center;
             width: 100%; max-width: 336px; min-height: 50px;
+        }
+        /* Video Slider mobile size cap (session 14, Master's request). HilltopAds'
+           script injects its own floating player directly, not into a div we
+           control, and their docs say custom sizing needs a manager request —
+           no dashboard setting exists for it. This is a best-effort safety net:
+           it targets fixed-position elements the script tends to create,
+           capping how much of a small screen they can cover. Desktop is left
+           alone entirely (Master's call — "no need on that"). If Master finds
+           after checking live that this selector doesn't actually catch the
+           injected element (HilltopAds may use a different structure than
+           assumed here), the real fix needs either a real DOM inspection of
+           what the script renders, or contacting HilltopAds' manager as their
+           own docs suggest for any change to default Video Slider behavior. */
+        @media (max-width: 768px) {
+            body > div[style*="position: fixed"], body > div[style*="position:fixed"] {
+                max-width: 60vw !important;
+                max-height: 40vh !important;
+            }
         }
         /* Bug 19 moved this site to Banner-format ads specifically because
            Native ads let Mondiad's script inject arbitrary markup that had
@@ -359,7 +377,7 @@
 
         {% assign t = site.data.site_meta.ad_toggles %}{% if t.mondiad_native != false %}<script async src="https://ss.mrmnd.com/native.js"></script><div data-mndazid="46474a49-ec2d-4f56-b270-26751ac9202a"></div>{% endif %}
 
-        {% assign ad_net = site.data.site_meta.ad_network | default: 'mondiad' %}{% assign t = site.data.site_meta.ad_toggles %}{% if ad_net == 'hilltopads' %}{% if t.hilltopads_banner != false %}<div class="ad-slot"><script>(function(akjah){var d=document,s=d.createElement('script'),l=d.currentScript||d.scripts[d.scripts.length-1];s.settings=akjah||{};s.src="\/\/impurelocal.com\/bNXLV.std\/GzlV0bY\/WccZ\/re\/m-9KuZZwUml\/k\/PXTRcg0ANZTqEvxENmjuU\/t\/N\/zTQh1PMsTyE-2LO\/QB";s.async=true;s.referrerPolicy='no-referrer-when-downgrade';l.parentNode.insertBefore(s,l);})({})</script></div>{% endif %}{% else %}{% if t.mondiad_banner != false %}<div class="ad-slot" data-mndbanid="17cd1aac-5a8b-432b-ad46-4c83815b6c03"></div>{% endif %}{% endif %}
+        {% assign ad_net = site.data.site_meta.ad_network | default: 'mondiad' %}{% assign t = site.data.site_meta.ad_toggles %}{% if t.reading_bottom_banner != false %}{% if ad_net == 'hilltopads' %}{% if t.hilltopads_banner != false %}<div class="ad-slot"><script>(function(akjah){var d=document,s=d.createElement('script'),l=d.currentScript||d.scripts[d.scripts.length-1];s.settings=akjah||{};s.src="\/\/impurelocal.com\/bNXLV.std\/GzlV0bY\/WccZ\/re\/m-9KuZZwUml\/k\/PXTRcg0ANZTqEvxENmjuU\/t\/N\/zTQh1PMsTyE-2LO\/QB";s.async=true;s.referrerPolicy='no-referrer-when-downgrade';l.parentNode.insertBefore(s,l);})({})</script></div>{% endif %}{% else %}{% if t.mondiad_banner != false %}<div class="ad-slot" data-mndbanid="17cd1aac-5a8b-432b-ad46-4c83815b6c03"></div>{% endif %}{% endif %}{% endif %}
         {% assign t = site.data.site_meta.ad_toggles %}{% if t.hilltopads_video_slider != false %}<script>(function(mmbajv){var d=document,s=d.createElement('script'),l=d.currentScript||d.scripts[d.scripts.length-1];s.settings=mmbajv||{};s.src="\/\/impurelocal.com\/bEXEVUs\/d.Gzlx0\/YVWMcg\/neumJ9Xu\/Z-UllNkiP\/TQcI0kN\/TLUbyxOzDpUmt-NrzjQ\/1qNpTvIp4AOdQe";s.async=true;s.referrerPolicy='no-referrer-when-downgrade';l.parentNode.insertBefore(s,l);})({})</script>{% endif %}
 
         {% include follow_us.html %}

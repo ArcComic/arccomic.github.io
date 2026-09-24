@@ -13,7 +13,7 @@ works:
   - title: Egg or Chicken? Zenpen
     author: rocket-monkey
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/364371.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-24'
     code: 364371
     url: /works/364371/
@@ -57,7 +57,7 @@ works:
       Mom — I have Sex with my Friend's Mom Part 1
     author: goya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/424575.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-24'
     code: 424575
     url: /works/424575/
@@ -730,7 +730,7 @@ works:
   - title: Yabai oji | Dangerous Uncle
     author: chinpan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654645.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-24'
     code: 654645
     url: /works/654645/

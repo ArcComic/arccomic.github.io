@@ -132,7 +132,7 @@ works:
   - title: Chibo Soukan Ch.1-3
     author: natsu-no-oyatsu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/238110.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-24'
     code: 238110
     url: /works/238110/
@@ -317,7 +317,7 @@ works:
   - title: Egg or Chicken? Zenpen
     author: rocket-monkey
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/364371.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-24'
     code: 364371
     url: /works/364371/
@@ -373,7 +373,7 @@ works:
   - title: Boshi Chika Resort | Mother and Son Underground Resort
     author: emori-uki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/395483.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-24'
     code: 395483
     url: /works/395483/
@@ -1690,7 +1690,7 @@ works:
   - title: Tainou Bicchi Hensai Keikaku | The Delinquent Bitch's Repayment Plan
     author: onkyu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/667990.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-24'
     code: 667990
     url: /works/667990/
@@ -2199,7 +2199,7 @@ works:
   - title: Oinari-sama ni 3P
     author: tokinobutt-misaki-tokinobu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683610.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-24'
     code: 683610
     url: /works/683610/

@@ -154,7 +154,7 @@ works:
   - title: Chibo Soukan Ch.1-3
     author: natsu-no-oyatsu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/238110.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-24'
     code: 238110
     url: /works/238110/
@@ -262,7 +262,7 @@ works:
       Creampie Dark Knight Ingrid
     author: maguro-teikoku
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/296131.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-24'
     code: 296131
     url: /works/296131/
@@ -498,7 +498,7 @@ works:
   - title: Amako Ticket Extra ~Onikuya-san Hen~ | Amako Ticket Extra ~Butcher Edition~
     author: rokuichi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/355398.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-24'
     code: 355398
     url: /works/355398/
@@ -557,7 +557,7 @@ works:
   - title: Egg or Chicken? Zenpen
     author: rocket-monkey
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/364371.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-24'
     code: 364371
     url: /works/364371/
@@ -723,7 +723,7 @@ works:
   - title: Boshi Chika Resort | Mother and Son Underground Resort
     author: emori-uki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/395483.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-24'
     code: 395483
     url: /works/395483/
@@ -907,7 +907,7 @@ works:
       Mom — I have Sex with my Friend's Mom Part 1
     author: goya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/424575.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-24'
     code: 424575
     url: /works/424575/
@@ -3061,7 +3061,7 @@ works:
   - title: Seishun to Backyard | The Youth and The Backyard
     author: mokuyama-hito
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/598084.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-24'
     code: 598084
     url: /works/598084/
@@ -4183,7 +4183,7 @@ works:
       Her Place: Extra Chapter'
     author: onkyu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/640106.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-24'
     code: 640106
     url: /works/640106/
@@ -5388,7 +5388,7 @@ works:
   - title: Yabai oji | Dangerous Uncle
     author: chinpan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654645.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-24'
     code: 654645
     url: /works/654645/
@@ -6743,7 +6743,7 @@ works:
   - title: Tainou Bicchi Hensai Keikaku | The Delinquent Bitch's Repayment Plan
     author: onkyu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/667990.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-24'
     code: 667990
     url: /works/667990/
@@ -9217,35 +9217,35 @@ works:
   - title: Tokubetsu na Wonderful nante Nakatta | There is no Special Kind of Wonderful
     author: sugarbt
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683561.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-24'
     code: 683561
     url: /works/683561/
   - title: Class no Kyonyuu Gal ga Seishori Tantou ni Natta Hanashi
     author: romomata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683590.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-24'
     code: 683590
     url: /works/683590/
   - title: Kyonyuu no Osananajimi Gal ga Boku no Oyaji to Neteita Hanashi
     author: romomata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683591.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-24'
     code: 683591
     url: /works/683591/
   - title: Oshiego no Manko Tsukai Houdai ni Natta Hanashi
     author: romomata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683592.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-24'
     code: 683592
     url: /works/683592/
   - title: Oinari-sama ni 3P
     author: tokinobutt-misaki-tokinobu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683610.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-24'
     code: 683610
     url: /works/683610/

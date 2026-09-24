@@ -13,7 +13,8 @@
     "hilltopads_banner": true,
     "hilltopads_inpage": true,
     "hilltopads_popunder": true,
-    "hilltopads_video_slider": true
+    "hilltopads_video_slider": true,
+    "reading_bottom_banner": true
   },
   "read_buttons": [
     {

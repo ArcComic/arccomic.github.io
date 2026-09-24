@@ -6,7 +6,7 @@ works:
   - title: Chibo Soukan Ch.1-3
     author: natsu-no-oyatsu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/238110.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-24'
     code: 238110
     url: /works/238110/
@@ -50,7 +50,7 @@ works:
   - title: Egg or Chicken? Zenpen
     author: rocket-monkey
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/364371.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-24'
     code: 364371
     url: /works/364371/
@@ -80,7 +80,7 @@ works:
       Mom — I have Sex with my Friend's Mom Part 1
     author: goya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/424575.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-24'
     code: 424575
     url: /works/424575/

@@ -127,7 +127,7 @@ works:
   - title: Amako Ticket Extra ~Onikuya-san Hen~ | Amako Ticket Extra ~Butcher Edition~
     author: rokuichi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/355398.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-24'
     code: 355398
     url: /works/355398/
@@ -156,7 +156,7 @@ works:
   - title: Egg or Chicken? Zenpen
     author: rocket-monkey
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/364371.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-24'
     code: 364371
     url: /works/364371/
@@ -245,7 +245,7 @@ works:
       Mom — I have Sex with my Friend's Mom Part 1
     author: goya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/424575.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-24'
     code: 424575
     url: /works/424575/
@@ -563,7 +563,7 @@ works:
   - title: Seishun to Backyard | The Youth and The Backyard
     author: mokuyama-hito
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/598084.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-24'
     code: 598084
     url: /works/598084/
@@ -1090,7 +1090,7 @@ works:
   - title: Tainou Bicchi Hensai Keikaku | The Delinquent Bitch's Repayment Plan
     author: onkyu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/667990.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-24'
     code: 667990
     url: /works/667990/

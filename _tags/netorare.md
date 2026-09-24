@@ -133,7 +133,7 @@ works:
   - title: Amako Ticket Extra ~Onikuya-san Hen~ | Amako Ticket Extra ~Butcher Edition~
     author: rokuichi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/355398.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-24'
     code: 355398
     url: /works/355398/
@@ -903,7 +903,7 @@ works:
   - title: Seishun to Backyard | The Youth and The Backyard
     author: mokuyama-hito
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/598084.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-24'
     code: 598084
     url: /works/598084/
@@ -1516,7 +1516,7 @@ works:
   - title: Yabai oji | Dangerous Uncle
     author: chinpan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654645.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-24'
     code: 654645
     url: /works/654645/
@@ -2420,7 +2420,7 @@ works:
   - title: Kyonyuu no Osananajimi Gal ga Boku no Oyaji to Neteita Hanashi
     author: romomata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683591.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-24'
     code: 683591
     url: /works/683591/
