@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "public use"
-work_count: 7
+work_count: 8
 works:
   - title: IKUu!! Zenkou Seito no Mae de Koukai Zecchou-saserareta JK no Matsuro 1 |
       Cumming in Front of the Entire Student Body 1
@@ -56,4 +56,11 @@ works:
     date: '2026-07-16'
     code: 664460
     url: /works/664460/
+  - title: TS Shita Ore Rippa na Bitch ni Narimashita
+    author: takutaku
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683814.jpg
+    rating: 0.0
+    date: '2026-09-25'
+    code: 683814
+    url: /works/683814/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "wholesome"
-work_count: 122
+work_count: 123
 works:
   - title: FLUFFY LAUGH GIRL
     author: shibasaki-syouzi
@@ -908,4 +908,12 @@ works:
     date: '2026-09-05'
     code: 678354
     url: /works/678354/
+  - title: Basaki no Dekkai Senpai ga Kowakute Kawaii. | My Huge Senpai at Work is Scary
+      and Cute
+    author: etuzan-jakusui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683841.jpg
+    rating: 0.0
+    date: '2026-09-25'
+    code: 683841
+    url: /works/683841/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big areolae"
-work_count: 76
+work_count: 77
 works:
   - title: Kanojo no Kawaii Mieppari | My Cute Gyaru Girlfriend Is a Total Poser
     author: buta
@@ -585,4 +585,12 @@ works:
     date: '2026-09-25'
     code: 683677
     url: /works/683677/
+  - title: Basaki no Dekkai Senpai ga Kowakute Kawaii. | My Huge Senpai at Work is Scary
+      and Cute
+    author: etuzan-jakusui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683841.jpg
+    rating: 0.0
+    date: '2026-09-25'
+    code: 683841
+    url: /works/683841/
 ---

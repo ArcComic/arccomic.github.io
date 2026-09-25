@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "rough translation"
-work_count: 534
+work_count: 535
 works:
   - title: Watashi no Karada, Okashi Shimasu. Bunny Girl Edition
     author: nectar
@@ -3893,4 +3893,11 @@ works:
     date: '2026-09-24'
     code: 683749
     url: /works/683749/
+  - title: TS Shita Ore Rippa na Bitch ni Narimashita
+    author: takutaku
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683814.jpg
+    rating: 0.0
+    date: '2026-09-25'
+    code: 683814
+    url: /works/683814/
 ---

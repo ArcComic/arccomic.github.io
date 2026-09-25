@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "moral degeneration"
-work_count: 30
+work_count: 31
 works:
   - title: Aqua Wing ~The man who switched bodies with an idol~
     author: touchuu-kasou
@@ -227,4 +227,11 @@ works:
     date: '2026-09-20'
     code: 682577
     url: /works/682577/
+  - title: TS Shita Ore Rippa na Bitch ni Narimashita
+    author: takutaku
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683814.jpg
+    rating: 0.0
+    date: '2026-09-25'
+    code: 683814
+    url: /works/683814/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "blowjob"
-work_count: 506
+work_count: 507
 works:
   - title: Office Love Scramble Ch. 1
     author: tohzai
@@ -3746,6 +3746,13 @@ works:
     date: '2026-09-24'
     code: 683744
     url: /works/683744/
+  - title: TS Shita Ore Rippa na Bitch ni Narimashita
+    author: takutaku
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683814.jpg
+    rating: 0.0
+    date: '2026-09-25'
+    code: 683814
+    url: /works/683814/
   - title: Jokyoushi - Hot For Teachers | Female Teachers
     author: drill-murata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/81375.jpg

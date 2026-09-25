@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "huge breasts"
-work_count: 74
+work_count: 75
 works:
   - title: Furuhonya no Onee-san to | With The Lady From The Used Book Shop
     author: nodame
@@ -558,4 +558,12 @@ works:
     date: '2026-09-23'
     code: 683318
     url: /works/683318/
+  - title: Basaki no Dekkai Senpai ga Kowakute Kawaii. | My Huge Senpai at Work is Scary
+      and Cute
+    author: etuzan-jakusui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683841.jpg
+    rating: 0.0
+    date: '2026-09-25'
+    code: 683841
+    url: /works/683841/
 ---

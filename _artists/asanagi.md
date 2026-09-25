@@ -1,7 +1,7 @@
 ---
 layout: artist
 artist_name: "asanagi"
-work_count: 1
+work_count: 2
 works:
   - title: WSS ~Watashi ga Sakini Sukidatta no ni~ - Even Though I Loved Him First
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/674639.jpg
@@ -9,4 +9,10 @@ works:
     date: '2026-08-21'
     code: 674639
     url: /works/674639/
+  - title: Work 683992
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683992.jpg
+    rating: 0.0
+    date: '2026-09-25'
+    code: 683992
+    url: /works/683992/
 ---
