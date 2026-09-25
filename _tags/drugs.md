@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "drugs"
-work_count: 31
+work_count: 33
 works:
+  - title: A-part | Apartment
+    author: zero-no-mono
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/215019.jpg
+    rating: 0.0
+    date: '2026-09-25'
+    code: 215019
+    url: /works/215019/
   - title: Osananajimi no Otou-san ni.
     author: uni18
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/381875.jpg
@@ -184,6 +191,13 @@ works:
     date: '2026-07-15'
     code: 664392
     url: /works/664392/
+  - title: Namaiki na Kizoku Reijou ni Chijoku no Biyaku Tsurizeme o
+    author: mochiji
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/671813.jpg
+    rating: 0.0
+    date: '2026-09-25'
+    code: 671813
+    url: /works/671813/
   - title: Ichiryuu Sennyuu Sousakan Haiboku | Ryosen Infiltration Agent Defeated
     author: bloiler-yachou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/675048.jpg

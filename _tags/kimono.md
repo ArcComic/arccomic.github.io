@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "kimono"
-work_count: 44
+work_count: 45
 works:
   - title: Hitozuma Hyakka
     author: hase-tsubura
@@ -156,6 +156,14 @@ works:
     date: '2026-03-03'
     code: 631665
     url: /works/631665/
+  - title: Ochiba Nikki -Jitaku Choukyou Hen 2- | Fallen Leaves Diary -House Training
+      Arc 2-
+    author: hitoi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/635879.jpg
+    rating: 0.0
+    date: '2026-09-25'
+    code: 635879
+    url: /works/635879/
   - title: Apart no Otonari-san ga Yarasete Kureru Hanashi 4 | My Nextdoor Neighbor
       Let Me Fuck Her 4
     author: ki-51

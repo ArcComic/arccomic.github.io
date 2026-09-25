@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "multiple orgasms"
-work_count: 92
+work_count: 93
 works:
   - title: Rako Slip!
     author: bujidearu
@@ -581,6 +581,13 @@ works:
     date: '2026-09-12'
     code: 670195
     url: /works/670195/
+  - title: Namaiki na Kizoku Reijou ni Chijoku no Biyaku Tsurizeme o
+    author: mochiji
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/671813.jpg
+    rating: 0.0
+    date: '2026-09-25'
+    code: 671813
+    url: /works/671813/
   - title: Hanamizuki Vol.4
     author: rocinante
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/672835.jpg

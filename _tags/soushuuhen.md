@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "soushuuhen"
-work_count: 14
+work_count: 15
 works:
   - title: NTR Anniversary + ) [Syukurin] Mitsuha ~Netorare~ (Kimi no Na wa.) [English]
       [Colorized] by Mikaku
@@ -33,6 +33,14 @@ works:
     date: '2026-09-12'
     code: 527851
     url: /works/527851/
+  - title: 'Sono Bisque Doll wa H o Suru Soushuuhen II ＋ 9 ー  My Sexy Dress-Up Darling
+      Anthology #2'
+    author: yahiro-pochi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/610915.jpg
+    rating: 0.0
+    date: '2026-09-25'
+    code: 610915
+    url: /works/610915/
   - title: Tatoeba Konna Million Theater Soushuuhen I
     author: binsen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/617600.jpg

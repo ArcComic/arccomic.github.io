@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bbm"
-work_count: 91
+work_count: 94
 works:
   - title: Kindan no Hatemitsu
     author: ryuuta
@@ -63,6 +63,14 @@ works:
     date: '2026-07-13'
     code: 358168
     url: /works/358168/
+  - title: Enkou Kanojo to Kengakukai | Paid dates with my girlfriend prostitute side-by-side
+      experience
+    author: hitoi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/398514.jpg
+    rating: 0.0
+    date: '2026-09-25'
+    code: 398514
+    url: /works/398514/
   - title: Mesu Kagura -Fate Hen 1-
     author: ishigaki-takashi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/431558.jpg
@@ -445,6 +453,13 @@ works:
     date: '2026-05-26'
     code: 652471
     url: /works/652471/
+  - title: Mou Ichido, Kimi no Egao ga Mitai | I Want to See Your Smile Again
+    author: toi-deisuke
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/652937.jpg
+    rating: 0.0
+    date: '2026-09-25'
+    code: 652937
+    url: /works/652937/
   - title: Yabai oji | Dangerous Uncle
     author: chinpan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654645.jpg
@@ -541,6 +556,13 @@ works:
     date: '2026-09-12'
     code: 670195
     url: /works/670195/
+  - title: Namaiki na Kizoku Reijou ni Chijoku no Biyaku Tsurizeme o
+    author: mochiji
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/671813.jpg
+    rating: 0.0
+    date: '2026-09-25'
+    code: 671813
+    url: /works/671813/
   - title: Tenshi Hirotta kara Haramaseru ~Ojii-san Senyou Botebara Onaho ni Naru made
       no Kiroku~ | I Met an Angel, and then I Knocked Her Up ~A Record of Becoming Oji-san’s
       Personal Preggo Belly Onahole~

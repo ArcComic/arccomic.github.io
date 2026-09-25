@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "orgasm denial"
-work_count: 14
+work_count: 17
 works:
   - title: Ayami Hypno
     author: yasuhiro
@@ -41,6 +41,13 @@ works:
     date: '2026-09-12'
     code: 573973
     url: /works/573973/
+  - title: Misao no Keiyaku - CHAPTER 2
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/580081.jpg
+    rating: 0.0
+    date: '2026-09-25'
+    code: 580081
+    url: /works/580081/
   - title: My AR glasses can see various stats about my foster sister?!
     author: pz-x
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/589010.jpg
@@ -48,6 +55,21 @@ works:
     date: '2026-04-15'
     code: 589010
     url: /works/589010/
+  - title: Sono Bisque Doll wa H o Suru 2
+    author: yahiro-pochi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/626430.jpg
+    rating: 0.0
+    date: '2026-09-25'
+    code: 626430
+    url: /works/626430/
+  - title: Ochiba Nikki -Jitaku Choukyou Hen 2- | Fallen Leaves Diary -House Training
+      Arc 2-
+    author: hitoi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/635879.jpg
+    rating: 0.0
+    date: '2026-09-25'
+    code: 635879
+    url: /works/635879/
   - title: Netorareta Kanojo ga Joou-sama ni natte Kaettekita ~Ruined de Kintama o Kara
       ni sarete Zenritsusen o Ijirarete Nandomo Nandomo Mesuikishite Choukyou sareru
       Ohanashi~

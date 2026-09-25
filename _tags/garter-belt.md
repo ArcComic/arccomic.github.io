@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "garter belt"
-work_count: 29
+work_count: 33
 works:
   - title: Kaisha de Iroiro | Gettin' Busy at the Office
     author: hara-shigeyuki
@@ -38,6 +38,13 @@ works:
     date: '2026-09-06'
     code: 370164
     url: /works/370164/
+  - title: My Dress Up Corpse
+    author: mr-kurz
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/408427.jpg
+    rating: 0.0
+    date: '2026-09-25'
+    code: 408427
+    url: /works/408427/
   - title: Mutsugaki Icha Love Book ~Sensei to Kakurenbo~ | MUTSUGAKI Lovey-Dovey Book
       ~Hide-and-seek with Sensei~
     author: shibame
@@ -107,6 +114,14 @@ works:
     date: '2026-09-12'
     code: 593434
     url: /works/593434/
+  - title: 'Sono Bisque Doll wa H o Suru Soushuuhen II ＋ 9 ー  My Sexy Dress-Up Darling
+      Anthology #2'
+    author: yahiro-pochi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/610915.jpg
+    rating: 0.0
+    date: '2026-09-25'
+    code: 610915
+    url: /works/610915/
   - title: Tannin no Meido ni Nacchatta KURO GAL 2 | The Black Gal Who Became The Homeroom
       Teacher's Maid 2
     author: ootsuka-kotora
@@ -115,6 +130,13 @@ works:
     date: '2026-03-03'
     code: 611701
     url: /works/611701/
+  - title: Sono Bisque Doll wa H o Suru 2
+    author: yahiro-pochi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/626430.jpg
+    rating: 0.0
+    date: '2026-09-25'
+    code: 626430
+    url: /works/626430/
   - title: Mitsuha ~Netorare~ 10 (Your Name After Story) True Ending
     author: syukurin
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/643592.jpg
@@ -167,6 +189,13 @@ works:
     date: '2026-07-17'
     code: 664937
     url: /works/664937/
+  - title: Namaiki na Kizoku Reijou ni Chijoku no Biyaku Tsurizeme o
+    author: mochiji
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/671813.jpg
+    rating: 0.0
+    date: '2026-09-25'
+    code: 671813
+    url: /works/671813/
   - title: 'Married Woman Club: Glass Slippers'
     author: kuroiwa-menou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673944.jpg

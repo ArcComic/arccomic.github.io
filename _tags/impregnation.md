@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "impregnation"
-work_count: 113
+work_count: 114
 works:
   - title: Kousa suru Osu to Mesu | Male and Female Crossing
     author: ootsuka-kotora
@@ -735,6 +735,16 @@ works:
     date: '2026-09-12'
     code: 680735
     url: /works/680735/
+  - title: Chigyuu InCha ga Imouto ni Tsurerare Shuugaku Ryokou JK Shikainai Daiyokujou
+      de Geneki JK to Gomunashi 18P Harem Dairankou!! | A Loser Introvert Gets Dragged
+      by His Little Sister to a School Trip Bathhouse With Nothing but High School Girls
+      and Ends up in a Bareback 18-Girl Harem Orgy!!
+    author: yanachi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681276.jpg
+    rating: 0.0
+    date: '2026-09-25'
+    code: 681276
+    url: /works/681276/
   - title: Under Maternal Love 1-18
     author: midnight
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681724.jpg

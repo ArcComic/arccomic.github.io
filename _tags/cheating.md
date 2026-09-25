@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "cheating"
-work_count: 286
+work_count: 293
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -96,6 +96,13 @@ works:
     date: '2026-02-28'
     code: 265933
     url: /works/265933/
+  - title: Tsutomesaki no Musume-san o Oishiku Itadaku Hon Minshuku Hen
+    author: aya
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/284573.jpg
+    rating: 4.2
+    date: '2026-09-25'
+    code: 284573
+    url: /works/284573/
   - title: Netorare Ibe Kiba Shizuka | The Netorare of Kiba Shizuka
     author: terasu-mc
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/288292.jpg
@@ -355,6 +362,14 @@ works:
     date: '2026-04-27'
     code: 416883
     url: /works/416883/
+  - title: You Said Just the Tip… I Asked My Brother's Girlfriend to Have Sex With Me
+      Without a Condom!!
+    author: kotobuki-maimu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/420017.jpg
+    rating: 0.0
+    date: '2026-09-25'
+    code: 420017
+    url: /works/420017/
   - title: Hikage | Shade
     author: syuuen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/429669.jpg
@@ -429,6 +444,13 @@ works:
     date: '2026-03-02'
     code: 455844
     url: /works/455844/
+  - title: Nearest To Real LOVE “The Great Escape” Al~The Secret second season~
+    author: ozaki-miray
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/458866.jpg
+    rating: 0.0
+    date: '2026-09-25'
+    code: 458866
+    url: /works/458866/
   - title: Provoking Men 1-8
     author: pororivista
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/458903.jpg
@@ -781,6 +803,13 @@ works:
     date: '2026-04-15'
     code: 551186
     url: /works/551186/
+  - title: Konamirai
+    author: zero-no-mono
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/552335.jpg
+    rating: 0.0
+    date: '2026-09-25'
+    code: 552335
+    url: /works/552335/
   - title: Gokinjo Trouble ni wa Gochuui o | Watch Out For Trouble in Your Neighborhood
     author: hotate-chan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/553426.jpg
@@ -832,6 +861,13 @@ works:
     date: '2026-07-16'
     code: 561787
     url: /works/561787/
+  - title: My Study Method
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/562201.jpg
+    rating: 0.0
+    date: '2026-09-25'
+    code: 562201
+    url: /works/562201/
   - title: Ossan Kirai no Hitozuma Kyoushi ga Nikubenki ni Ochiru Hanashi | Story About
       an Old Man Hating Married Teacher Falling Into Being a Meat Toilet
     author: chinpan
@@ -1218,6 +1254,21 @@ works:
     date: '2026-09-05'
     code: 642023
     url: /works/642023/
+  - title: Netorarensa Saikou ni Aishou no Ii Onna |  The Woman Who's Perfectly Compatible
+      with Me
+    author: bad-end-dreamer
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642393.jpg
+    rating: 0.0
+    date: '2026-09-25'
+    code: 642393
+    url: /works/642393/
+  - title: Ryousai-chan ~Yukemuri Hen~ Jou + Ryousai-chan ~Yukemuri Hen~ Ge
+    author: mappa-ninatta
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642602.jpg
+    rating: 0.0
+    date: '2026-09-25'
+    code: 642602
+    url: /works/642602/
   - title: Noroi no Sei de MP ga Tarimasen!! Kouhen | "MP is Depleted Because of a Curse!!
       - last part
     author: nigiri-usagi

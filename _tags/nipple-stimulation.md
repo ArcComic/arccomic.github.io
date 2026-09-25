@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "nipple stimulation"
-work_count: 110
+work_count: 112
 works:
   - title: Hypnotic Domination ~ The Fall of Tennis Club Ace ~
     author: danchino
@@ -214,6 +214,14 @@ works:
     date: '2026-04-23'
     code: 610041
     url: /works/610041/
+  - title: 'Sono Bisque Doll wa H o Suru Soushuuhen II ＋ 9 ー  My Sexy Dress-Up Darling
+      Anthology #2'
+    author: yahiro-pochi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/610915.jpg
+    rating: 0.0
+    date: '2026-09-25'
+    code: 610915
+    url: /works/610915/
   - title: Kedamono no Ko wa Kedamono | The Child of a Beast is a Beast
     author: karashina-en
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/612063.jpg
@@ -622,6 +630,13 @@ works:
     date: '2026-08-23'
     code: 668880
     url: /works/668880/
+  - title: Namaiki na Kizoku Reijou ni Chijoku no Biyaku Tsurizeme o
+    author: mochiji
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/671813.jpg
+    rating: 0.0
+    date: '2026-09-25'
+    code: 671813
+    url: /works/671813/
   - title: Ano Hi, Sunao ni Suki to Ieta nara - If only I could have honestly said that
       I loved you that day.
     author: kazuwo-daisuke

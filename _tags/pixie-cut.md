@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "pixie cut"
-work_count: 70
+work_count: 71
 works:
   - title: Last Chance
     author: herio
@@ -475,6 +475,16 @@ works:
     date: '2026-09-12'
     code: 680771
     url: /works/680771/
+  - title: Chigyuu InCha ga Imouto ni Tsurerare Shuugaku Ryokou JK Shikainai Daiyokujou
+      de Geneki JK to Gomunashi 18P Harem Dairankou!! | A Loser Introvert Gets Dragged
+      by His Little Sister to a School Trip Bathhouse With Nothing but High School Girls
+      and Ends up in a Bareback 18-Girl Harem Orgy!!
+    author: yanachi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681276.jpg
+    rating: 0.0
+    date: '2026-09-25'
+    code: 681276
+    url: /works/681276/
   - title: School Prostitution Journal (Comix) Volume 1
     author: yamamoto-zenzen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681329.jpg

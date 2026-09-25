@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "nakadashi"
-work_count: 630
+work_count: 640
 works:
   - title: Adoration
     author: kishizuka-kenji
@@ -10,6 +10,13 @@ works:
     date: '2026-05-04'
     code: 112455
     url: /works/112455/
+  - title: Birthday
+    author: hashiba-yachi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/135719.jpg
+    rating: 0.0
+    date: '2026-09-25'
+    code: 135719
+    url: /works/135719/
   - title: Hustle! Danchizuma Ch. 1-18 END
     author: hidemaru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/161690.jpg
@@ -52,6 +59,13 @@ works:
     date: '2026-03-07'
     code: 208522
     url: /works/208522/
+  - title: A-part | Apartment
+    author: zero-no-mono
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/215019.jpg
+    rating: 0.0
+    date: '2026-09-25'
+    code: 215019
+    url: /works/215019/
   - title: Kizashi
     author: yoshiura-kazuya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/226386.jpg
@@ -341,6 +355,14 @@ works:
     date: '2026-09-06'
     code: 396089
     url: /works/396089/
+  - title: Enkou Kanojo to Kengakukai | Paid dates with my girlfriend prostitute side-by-side
+      experience
+    author: hitoi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/398514.jpg
+    rating: 0.0
+    date: '2026-09-25'
+    code: 398514
+    url: /works/398514/
   - title: Netorase ~Tsuma no Ichiban Kirei na Hi~ | Netorase - My wife's most beautiful
       day
     author: sakagami-umi
@@ -364,6 +386,13 @@ works:
     date: '2026-07-10'
     code: 407959
     url: /works/407959/
+  - title: My Dress Up Corpse
+    author: mr-kurz
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/408427.jpg
+    rating: 0.0
+    date: '2026-09-25'
+    code: 408427
+    url: /works/408427/
   - title: NTR Anniversary + ) [Syukurin] Mitsuha ~Netorare~ (Kimi no Na wa.) [English]
       [Colorized] by Mikaku
     author: arakure
@@ -1246,6 +1275,14 @@ works:
     date: '2026-04-25'
     code: 560643
     url: /works/560643/
+  - title: 'Haiboku no Daishou ~Okasare Ubaware Hametsu suru Shuudoujou~ | Price of
+      Defeat: Downfall of the Violated and Plundered Sister'
+    author: mochiji
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/561133.jpg
+    rating: 0.0
+    date: '2026-09-25'
+    code: 561133
+    url: /works/561133/
   - title: SeFri no Ichihara ga Nigashite Kurenai | My FWB Ichihara Won't Let Me Go
     author: kyapefuro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/561349.jpg
@@ -1743,6 +1780,14 @@ works:
     date: '2026-02-26'
     code: 610539
     url: /works/610539/
+  - title: 'Sono Bisque Doll wa H o Suru Soushuuhen II ＋ 9 ー  My Sexy Dress-Up Darling
+      Anthology #2'
+    author: yahiro-pochi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/610915.jpg
+    rating: 0.0
+    date: '2026-09-25'
+    code: 610915
+    url: /works/610915/
   - title: Tannin no Meido ni Nacchatta KURO GAL 2 | The Black Gal Who Became The Homeroom
       Teacher's Maid 2
     author: ootsuka-kotora
@@ -2380,6 +2425,14 @@ works:
     date: '2026-09-05'
     code: 642023
     url: /works/642023/
+  - title: Netorarensa Saikou ni Aishou no Ii Onna |  The Woman Who's Perfectly Compatible
+      with Me
+    author: bad-end-dreamer
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642393.jpg
+    rating: 0.0
+    date: '2026-09-25'
+    code: 642393
+    url: /works/642393/
   - title: Phaethon no Kinsaku AV Satsuei | Phaethons' Cash Grab AV Shoot
     author: sukoyakagumi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642563.jpg
@@ -2408,6 +2461,13 @@ works:
     date: '2026-08-24'
     code: 642588
     url: /works/642588/
+  - title: Ryousai-chan ~Yukemuri Hen~ Jou + Ryousai-chan ~Yukemuri Hen~ Ge
+    author: mappa-ninatta
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642602.jpg
+    rating: 0.0
+    date: '2026-09-25'
+    code: 642602
+    url: /works/642602/
   - title: Sumata dake tte Itta no ni… Nurutto Sounyuusarechatta Yuutousei no Omocha
       | You Said It'd Just Be Grinding... But You Ended up Slipping It In. Now I'm Just
       the Top Student's Toy 3.
@@ -3133,6 +3193,14 @@ works:
     date: '2026-09-24'
     code: 654645
     url: /works/654645/
+  - title: Kyonyuu Geneki JK to Chigyuu Danshi ga Sex Jisshuu de Namahame Tanetsuke
+      Koubishi Makuru H
+    author: yanachi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654681.jpg
+    rating: 0.0
+    date: '2026-09-25'
+    code: 654681
+    url: /works/654681/
   - title: I, was sold to my mother's ex-fiancé
     author: romomata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/655077.jpg
@@ -4339,6 +4407,16 @@ works:
     date: '2026-09-15'
     code: 681251
     url: /works/681251/
+  - title: Chigyuu InCha ga Imouto ni Tsurerare Shuugaku Ryokou JK Shikainai Daiyokujou
+      de Geneki JK to Gomunashi 18P Harem Dairankou!! | A Loser Introvert Gets Dragged
+      by His Little Sister to a School Trip Bathhouse With Nothing but High School Girls
+      and Ends up in a Bareback 18-Girl Harem Orgy!!
+    author: yanachi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681276.jpg
+    rating: 0.0
+    date: '2026-09-25'
+    code: 681276
+    url: /works/681276/
   - title: Momoiro Kikyou Ichi
     author: enma
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681308.jpg

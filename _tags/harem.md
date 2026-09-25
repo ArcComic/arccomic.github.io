@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "harem"
-work_count: 27
+work_count: 29
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -39,6 +39,13 @@ works:
     date: '2026-08-20'
     code: 537794
     url: /works/537794/
+  - title: My Study Method
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/562201.jpg
+    rating: 0.0
+    date: '2026-09-25'
+    code: 562201
+    url: /works/562201/
   - title: Amoral Island
     author: alp
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/633453.jpg
@@ -156,6 +163,16 @@ works:
     date: '2026-09-12'
     code: 680555
     url: /works/680555/
+  - title: Chigyuu InCha ga Imouto ni Tsurerare Shuugaku Ryokou JK Shikainai Daiyokujou
+      de Geneki JK to Gomunashi 18P Harem Dairankou!! | A Loser Introvert Gets Dragged
+      by His Little Sister to a School Trip Bathhouse With Nothing but High School Girls
+      and Ends up in a Bareback 18-Girl Harem Orgy!!
+    author: yanachi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681276.jpg
+    rating: 0.0
+    date: '2026-09-25'
+    code: 681276
+    url: /works/681276/
   - title: Motokano-tachi to Ya Re Naoshi!? - CHAPTER 1-9
     author: shinonome-ryu-ogiue-chihiro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681503.jpg

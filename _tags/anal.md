@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "anal"
-work_count: 125
+work_count: 126
 works:
   - title: Hitozuma Hyakka
     author: hase-tsubura
@@ -514,6 +514,13 @@ works:
     date: '2026-09-09'
     code: 651967
     url: /works/651967/
+  - title: Mou Ichido, Kimi no Egao ga Mitai | I Want to See Your Smile Again
+    author: toi-deisuke
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/652937.jpg
+    rating: 0.0
+    date: '2026-09-25'
+    code: 652937
+    url: /works/652937/
   - title: Yabai oji | Dangerous Uncle
     author: chinpan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654645.jpg

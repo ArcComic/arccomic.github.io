@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "netorare"
-work_count: 343
+work_count: 350
 works:
   - title: Kousa suru Osu to Mesu | Male and Female Crossing
     author: ootsuka-kotora
@@ -10,6 +10,13 @@ works:
     date: '2026-09-22'
     code: 13296
     url: /works/13296/
+  - title: Birthday
+    author: hashiba-yachi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/135719.jpg
+    rating: 0.0
+    date: '2026-09-25'
+    code: 135719
+    url: /works/135719/
   - title: Hitozuma Hyakka
     author: hase-tsubura
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/190410.jpg
@@ -53,6 +60,13 @@ works:
     date: '2026-04-16'
     code: 275108
     url: /works/275108/
+  - title: Tsutomesaki no Musume-san o Oishiku Itadaku Hon Minshuku Hen
+    author: aya
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/284573.jpg
+    rating: 4.2
+    date: '2026-09-25'
+    code: 284573
+    url: /works/284573/
   - title: Netorare Ibe Kiba Shizuka | The Netorare of Kiba Shizuka
     author: terasu-mc
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/288292.jpg
@@ -180,6 +194,14 @@ works:
     date: '2026-07-10'
     code: 398305
     url: /works/398305/
+  - title: Enkou Kanojo to Kengakukai | Paid dates with my girlfriend prostitute side-by-side
+      experience
+    author: hitoi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/398514.jpg
+    rating: 0.0
+    date: '2026-09-25'
+    code: 398514
+    url: /works/398514/
   - title: Netorase ~Tsuma no Ichiban Kirei na Hi~ | Netorase - My wife's most beautiful
       day
     author: sakagami-umi
@@ -765,6 +787,13 @@ works:
     date: '2026-04-25'
     code: 559088
     url: /works/559088/
+  - title: My Study Method
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/562201.jpg
+    rating: 0.0
+    date: '2026-09-25'
+    code: 562201
+    url: /works/562201/
   - title: Ossan Kirai no Hitozuma Kyoushi ga Nikubenki ni Ochiru Hanashi | Story About
       an Old Man Hating Married Teacher Falling Into Being a Meat Toilet
     author: chinpan
@@ -1168,6 +1197,14 @@ works:
     date: '2026-09-09'
     code: 635482
     url: /works/635482/
+  - title: Ochiba Nikki -Jitaku Choukyou Hen 2- | Fallen Leaves Diary -House Training
+      Arc 2-
+    author: hitoi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/635879.jpg
+    rating: 0.0
+    date: '2026-09-25'
+    code: 635879
+    url: /works/635879/
   - title: Haha to iu Kaibutsu ~M Otoko Aka-chan toshite Sodate rareta Boku wa Yasashii
       Mama ni Dekiai sareru~ | Mother, the Monster ~I was raised as a masochistic baby
       and am doted on by my kind mother~
@@ -1220,6 +1257,14 @@ works:
     date: '2026-09-05'
     code: 642023
     url: /works/642023/
+  - title: Netorarensa Saikou ni Aishou no Ii Onna |  The Woman Who's Perfectly Compatible
+      with Me
+    author: bad-end-dreamer
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642393.jpg
+    rating: 0.0
+    date: '2026-09-25'
+    code: 642393
+    url: /works/642393/
   - title: Akogare no Hito wa Mou Owari!
     author: orange-mimosa
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642584.jpg
@@ -1248,6 +1293,13 @@ works:
     date: '2026-08-24'
     code: 642588
     url: /works/642588/
+  - title: Ryousai-chan ~Yukemuri Hen~ Jou + Ryousai-chan ~Yukemuri Hen~ Ge
+    author: mappa-ninatta
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642602.jpg
+    rating: 0.0
+    date: '2026-09-25'
+    code: 642602
+    url: /works/642602/
   - title: The Story of a Girl—Cherished by Her Childhood Sweetheart—Who Loses Her Virginity
       After Being Violated by a Murderer
     author: unknown

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sleeping"
-work_count: 47
+work_count: 48
 works:
   - title: Netemo Sametemo | Be it Sleeping or Awake
     author: takasugi-kou
@@ -252,6 +252,13 @@ works:
     date: '2026-05-01'
     code: 647334
     url: /works/647334/
+  - title: Mou Ichido, Kimi no Egao ga Mitai | I Want to See Your Smile Again
+    author: toi-deisuke
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/652937.jpg
+    rating: 0.0
+    date: '2026-09-25'
+    code: 652937
+    url: /works/652937/
   - title: Okaa-san ni Chuu Shinasai
     author: kuruto
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654253.jpg

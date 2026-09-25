@@ -1,8 +1,22 @@
 ---
 layout: tag
 tag_name: "lolicon"
-work_count: 80
+work_count: 83
 works:
+  - title: A-part | Apartment
+    author: zero-no-mono
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/215019.jpg
+    rating: 0.0
+    date: '2026-09-25'
+    code: 215019
+    url: /works/215019/
+  - title: Tsutomesaki no Musume-san o Oishiku Itadaku Hon Minshuku Hen
+    author: aya
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/284573.jpg
+    rating: 4.2
+    date: '2026-09-25'
+    code: 284573
+    url: /works/284573/
   - title: Sensei wa Shougakusei ga Suki | Sensei Loves Elementary Schoolers
     author: fuyuno-mikan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/289094.jpg
@@ -230,6 +244,13 @@ works:
     date: '2026-05-10'
     code: 649114
     url: /works/649114/
+  - title: Mou Ichido, Kimi no Egao ga Mitai | I Want to See Your Smile Again
+    author: toi-deisuke
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/652937.jpg
+    rating: 0.0
+    date: '2026-09-25'
+    code: 652937
+    url: /works/652937/
   - title: Seishidouin no Oshigoto Soushuuhen1 | Sex Instructor Compilation Vol. 1
     author: malcorond
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/653978.jpg

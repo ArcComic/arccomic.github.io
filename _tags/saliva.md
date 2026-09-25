@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "saliva"
-work_count: 7
+work_count: 8
 works:
   - title: Boku to Aitsu to Ano Ko to Kanojo. - Me, Him, the Girl and Her
     author: kameyama-cola
@@ -31,6 +31,13 @@ works:
     date: '2026-05-26'
     code: 652218
     url: /works/652218/
+  - title: Mou Ichido, Kimi no Egao ga Mitai | I Want to See Your Smile Again
+    author: toi-deisuke
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/652937.jpg
+    rating: 0.0
+    date: '2026-09-25'
+    code: 652937
+    url: /works/652937/
   - title: Even though I was supposed to sing that love first!
     author: densuke
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662094.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole male"
-work_count: 717
+work_count: 729
 works:
   - title: Adoration
     author: kishizuka-kenji
@@ -477,6 +477,14 @@ works:
     date: '2026-09-18'
     code: 396367
     url: /works/396367/
+  - title: Enkou Kanojo to Kengakukai | Paid dates with my girlfriend prostitute side-by-side
+      experience
+    author: hitoi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/398514.jpg
+    rating: 0.0
+    date: '2026-09-25'
+    code: 398514
+    url: /works/398514/
   - title: Namaiki na Imouto ga Ore no SeFri ni Natta Keii | How My Cheeky Little Sister
       and I Became Sex Friends With Benefits
     author: iron-sugar
@@ -507,6 +515,13 @@ works:
     date: '2026-07-10'
     code: 407959
     url: /works/407959/
+  - title: My Dress Up Corpse
+    author: mr-kurz
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/408427.jpg
+    rating: 0.0
+    date: '2026-09-25'
+    code: 408427
+    url: /works/408427/
   - title: The Last Flight
     author: mr-kurz
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/408822.jpg
@@ -724,6 +739,13 @@ works:
     date: '2026-09-09'
     code: 457733
     url: /works/457733/
+  - title: Nearest To Real LOVE “The Great Escape” Al~The Secret second season~
+    author: ozaki-miray
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/458866.jpg
+    rating: 0.0
+    date: '2026-09-25'
+    code: 458866
+    url: /works/458866/
   - title: Hypnotic Domination ~ The Fall of Tennis Club Ace ~
     author: danchino
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/461537.jpg
@@ -877,6 +899,13 @@ works:
     date: '2026-09-09'
     code: 489566
     url: /works/489566/
+  - title: MOUSOU THEATER 67
+    author: arino-hiroshi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/492981.jpg
+    rating: 0.0
+    date: '2026-09-25'
+    code: 492981
+    url: /works/492981/
   - title: Gyakuten Enkou ~Ore ga Kawareru Sekai~ | Reversed Compensated Dating ~A World
       Where I Get Bought~
     author: nectar
@@ -1344,6 +1373,13 @@ works:
     date: '2026-04-15'
     code: 551186
     url: /works/551186/
+  - title: Konamirai
+    author: zero-no-mono
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/552335.jpg
+    rating: 0.0
+    date: '2026-09-25'
+    code: 552335
+    url: /works/552335/
   - title: Futari no Ouchi Iede Musume to Doutei-kun no Torokeru Natsu | The Melty Summer
       of a Runaway Gal and a Virgin Guy
     author: akahito
@@ -1411,6 +1447,14 @@ works:
     date: '2026-04-25'
     code: 560643
     url: /works/560643/
+  - title: 'Haiboku no Daishou ~Okasare Ubaware Hametsu suru Shuudoujou~ | Price of
+      Defeat: Downfall of the Violated and Plundered Sister'
+    author: mochiji
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/561133.jpg
+    rating: 0.0
+    date: '2026-09-25'
+    code: 561133
+    url: /works/561133/
   - title: SeFri no Ichihara ga Nigashite Kurenai | My FWB Ichihara Won't Let Me Go
     author: kyapefuro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/561349.jpg
@@ -1996,6 +2040,14 @@ works:
     date: '2026-02-26'
     code: 610539
     url: /works/610539/
+  - title: 'Sono Bisque Doll wa H o Suru Soushuuhen II ＋ 9 ー  My Sexy Dress-Up Darling
+      Anthology #2'
+    author: yahiro-pochi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/610915.jpg
+    rating: 0.0
+    date: '2026-09-25'
+    code: 610915
+    url: /works/610915/
   - title: Tannin no Meido ni Nacchatta KURO GAL 2 | The Black Gal Who Became The Homeroom
       Teacher's Maid 2
     author: ootsuka-kotora
@@ -2158,6 +2210,13 @@ works:
     date: '2026-09-18'
     code: 625984
     url: /works/625984/
+  - title: Sono Bisque Doll wa H o Suru 2
+    author: yahiro-pochi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/626430.jpg
+    rating: 0.0
+    date: '2026-09-25'
+    code: 626430
+    url: /works/626430/
   - title: Succubus Seitokai Shiko Shiko Shikkoubu 3 | Succubus Student Council Milking
       Club 3
     author: michiking
@@ -2524,6 +2583,13 @@ works:
     date: '2026-09-20'
     code: 638685
     url: /works/638685/
+  - title: Rental Kanojo Osawari Shimasu 9 ー Grope-a-Girlfriend 9
+    author: yahiro-pochi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638696.jpg
+    rating: 0.0
+    date: '2026-09-25'
+    code: 638696
+    url: /works/638696/
   - title: Yariman no Namaiki Kouhai to Tsukiau made no Hanashi.
     author: tokyo-gunjo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638929.jpg
@@ -2599,6 +2665,14 @@ works:
     date: '2026-09-05'
     code: 642023
     url: /works/642023/
+  - title: Netorarensa Saikou ni Aishou no Ii Onna |  The Woman Who's Perfectly Compatible
+      with Me
+    author: bad-end-dreamer
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642393.jpg
+    rating: 0.0
+    date: '2026-09-25'
+    code: 642393
+    url: /works/642393/
   - title: Phaethon no Kinsaku AV Satsuei | Phaethons' Cash Grab AV Shoot
     author: sukoyakagumi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642563.jpg
@@ -3430,6 +3504,14 @@ works:
     date: '2026-09-24'
     code: 654645
     url: /works/654645/
+  - title: Kyonyuu Geneki JK to Chigyuu Danshi ga Sex Jisshuu de Namahame Tanetsuke
+      Koubishi Makuru H
+    author: yanachi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654681.jpg
+    rating: 0.0
+    date: '2026-09-25'
+    code: 654681
+    url: /works/654681/
   - title: Akogare datta Seiso na Onnanoko ga Jitsu wa Dosukebe datta Hanashi | The
       Horny Truth About Hosokawa
     author: momoiro-onsen
@@ -4957,6 +5039,16 @@ works:
     date: '2026-09-15'
     code: 681251
     url: /works/681251/
+  - title: Chigyuu InCha ga Imouto ni Tsurerare Shuugaku Ryokou JK Shikainai Daiyokujou
+      de Geneki JK to Gomunashi 18P Harem Dairankou!! | A Loser Introvert Gets Dragged
+      by His Little Sister to a School Trip Bathhouse With Nothing but High School Girls
+      and Ends up in a Bareback 18-Girl Harem Orgy!!
+    author: yanachi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681276.jpg
+    rating: 0.0
+    date: '2026-09-25'
+    code: 681276
+    url: /works/681276/
   - title: Kitazawa Shiho no Chikan Hon
     author: yoshika
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681317.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "multi-work series"
-work_count: 302
+work_count: 308
 works:
   - title: Oppai na Natsuyasumi 2 | The Summer Break of Boobs 2
     author: higashino-mikan
@@ -670,6 +670,13 @@ works:
     date: '2026-04-21'
     code: 579493
     url: /works/579493/
+  - title: Misao no Keiyaku - CHAPTER 2
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/580081.jpg
+    rating: 0.0
+    date: '2026-09-25'
+    code: 580081
+    url: /works/580081/
   - title: 'Anata to Watashi no Ayamachi ~Bangaihen Kairaku Ochi e no Ippo~ | Our Mistake
       ~Side Story: A Step Towards the Fall into Pleasure~'
     author: zionman
@@ -887,6 +894,14 @@ works:
     date: '2026-09-10'
     code: 618088
     url: /works/618088/
+  - title: Boku dake ni Amaesasete Kureru Kyonyuu JK Tsuma o Hoka no Otoko ni Dakasete
+      Mita 11
+    author: akire
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/620246.jpg
+    rating: 0.0
+    date: '2026-09-25'
+    code: 620246
+    url: /works/620246/
   - title: Ima Kara Irerukedo, "Sakippo Dake" Dakara Sex Janai Yo.  | Just The Tip Inside
       is Not Sex Vol. 1-4
     author: ouma
@@ -1050,6 +1065,14 @@ works:
     date: '2026-03-09'
     code: 635794
     url: /works/635794/
+  - title: Ochiba Nikki -Jitaku Choukyou Hen 2- | Fallen Leaves Diary -House Training
+      Arc 2-
+    author: hitoi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/635879.jpg
+    rating: 0.0
+    date: '2026-09-25'
+    code: 635879
+    url: /works/635879/
   - title: Ore ga Dairi Tanetsuke Suru Koto ni Natta Hitozuma Tachibana Shizuka-san
       wa Nannimo Shiranai!! Sono 2 | | Shizuka Tachibana, the Housewife Who Collects
       My Sperm Donations, Doesn’t Know a Damn Thing!! Chapter 2
@@ -1066,6 +1089,13 @@ works:
     date: '2026-09-23'
     code: 638513
     url: /works/638513/
+  - title: Rental Kanojo Osawari Shimasu 9 ー Grope-a-Girlfriend 9
+    author: yahiro-pochi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638696.jpg
+    rating: 0.0
+    date: '2026-09-25'
+    code: 638696
+    url: /works/638696/
   - title: 'Namaiki JK ga Wakaraserareru Hon Bangai Hen | Putting a Cheeky Gyaru in
       Her Place: Extra Chapter'
     author: onkyu
@@ -1089,6 +1119,14 @@ works:
     date: '2026-09-13'
     code: 641977
     url: /works/641977/
+  - title: Netorarensa Saikou ni Aishou no Ii Onna |  The Woman Who's Perfectly Compatible
+      with Me
+    author: bad-end-dreamer
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642393.jpg
+    rating: 0.0
+    date: '2026-09-25'
+    code: 642393
+    url: /works/642393/
   - title: Akogare no Hito wa Mou Owari!
     author: orange-mimosa
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642584.jpg
@@ -1117,6 +1155,13 @@ works:
     date: '2026-08-24'
     code: 642588
     url: /works/642588/
+  - title: Ryousai-chan ~Yukemuri Hen~ Jou + Ryousai-chan ~Yukemuri Hen~ Ge
+    author: mappa-ninatta
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642602.jpg
+    rating: 0.0
+    date: '2026-09-25'
+    code: 642602
+    url: /works/642602/
   - title: Apart no Otonari-san ga Yarasete Kureru Hanashi 4 | My Nextdoor Neighbor
       Let Me Fuck Her 4
     author: ki-51

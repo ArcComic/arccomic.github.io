@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "full censorship"
-work_count: 97
+work_count: 99
 works:
   - title: Kaisha de Iroiro | Gettin' Busy at the Office
     author: hara-shigeyuki
@@ -124,6 +124,14 @@ works:
     date: '2026-04-19'
     code: 419235
     url: /works/419235/
+  - title: You Said Just the Tip… I Asked My Brother's Girlfriend to Have Sex With Me
+      Without a Condom!!
+    author: kotobuki-maimu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/420017.jpg
+    rating: 0.0
+    date: '2026-09-25'
+    code: 420017
+    url: /works/420017/
   - title: Yasashii Oba-san Yarashii Oba-san | Kind Lady, Dirty Lady Ch. 1-3
     author: hidemaru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/421874.jpg
@@ -352,6 +360,13 @@ works:
     date: '2026-07-16'
     code: 561787
     url: /works/561787/
+  - title: My Study Method
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/562201.jpg
+    rating: 0.0
+    date: '2026-09-25'
+    code: 562201
+    url: /works/562201/
   - title: Cocoa-chan no Jiraikei Chuuihou
     author: uni-toshiki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/568923.jpg

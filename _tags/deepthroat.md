@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "deepthroat"
-work_count: 59
+work_count: 60
 works:
   - title: Toshishita Chin Kui Obasan
     author: maccha-neji
@@ -259,6 +259,14 @@ works:
     date: '2026-05-26'
     code: 652244
     url: /works/652244/
+  - title: Kyonyuu Geneki JK to Chigyuu Danshi ga Sex Jisshuu de Namahame Tanetsuke
+      Koubishi Makuru H
+    author: yanachi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654681.jpg
+    rating: 0.0
+    date: '2026-09-25'
+    code: 654681
+    url: /works/654681/
   - title: A story about a shy childhood friend who can’t say no and ends up being put
       in charge of handling sexual needs.
     author: sakurayu-hal

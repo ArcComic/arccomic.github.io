@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "twintails"
-work_count: 109
+work_count: 110
 works:
   - title: Sensei wa Shougakusei ga Suki | Sensei Loves Elementary Schoolers
     author: fuyuno-mikan
@@ -55,6 +55,13 @@ works:
     date: '2026-05-10'
     code: 441339
     url: /works/441339/
+  - title: Nearest To Real LOVE “The Great Escape” Al~The Secret second season~
+    author: ozaki-miray
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/458866.jpg
+    rating: 0.0
+    date: '2026-09-25'
+    code: 458866
+    url: /works/458866/
   - title: Musuko o Dokusen Suru Haha | The mother who monopolizes her son.
     author: yuriko-club
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/471998.jpg

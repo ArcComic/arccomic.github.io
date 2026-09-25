@@ -1,7 +1,7 @@
 ---
 layout: artist
 artist_name: "unknown"
-work_count: 59
+work_count: 60
 works:
   - title: Hajimete Kanojo Ga Dekita No Ni
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/316579.jpg
@@ -60,6 +60,12 @@ works:
     date: '2026-03-09'
     code: 569575
     url: /works/569575/
+  - title: Misao no Keiyaku - CHAPTER 2
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/580081.jpg
+    rating: 0.0
+    date: '2026-09-25'
+    code: 580081
+    url: /works/580081/
   - title: Her Predicaments
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/586417.jpg
     rating: 4.9

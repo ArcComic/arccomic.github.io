@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "virginity"
-work_count: 121
+work_count: 122
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -705,6 +705,14 @@ works:
     date: '2026-09-06'
     code: 654603
     url: /works/654603/
+  - title: Kyonyuu Geneki JK to Chigyuu Danshi ga Sex Jisshuu de Namahame Tanetsuke
+      Koubishi Makuru H
+    author: yanachi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654681.jpg
+    rating: 0.0
+    date: '2026-09-25'
+    code: 654681
+    url: /works/654681/
   - title: 'Chinmake Kouman Okugata-sama | Haughty Housewives: Defeated by Dick'
     author: minamida-usuke
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/657459.jpg

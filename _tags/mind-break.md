@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "mind break"
-work_count: 40
+work_count: 42
 works:
+  - title: Birthday
+    author: hashiba-yachi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/135719.jpg
+    rating: 0.0
+    date: '2026-09-25'
+    code: 135719
+    url: /works/135719/
   - title: Ayami Hypno
     author: yasuhiro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/306363.jpg
@@ -127,6 +134,14 @@ works:
     date: '2026-03-07'
     code: 635363
     url: /works/635363/
+  - title: Ochiba Nikki -Jitaku Choukyou Hen 2- | Fallen Leaves Diary -House Training
+      Arc 2-
+    author: hitoi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/635879.jpg
+    rating: 0.0
+    date: '2026-09-25'
+    code: 635879
+    url: /works/635879/
   - title: Prefab
     author: lioreo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/643975.jpg

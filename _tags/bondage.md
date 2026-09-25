@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bondage"
-work_count: 72
+work_count: 74
 works:
   - title: CHOCO x LOVE
     author: highlow
@@ -185,6 +185,13 @@ works:
     date: '2026-09-12'
     code: 638126
     url: /works/638126/
+  - title: Rental Kanojo Osawari Shimasu 9 ー Grope-a-Girlfriend 9
+    author: yahiro-pochi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638696.jpg
+    rating: 0.0
+    date: '2026-09-25'
+    code: 638696
+    url: /works/638696/
   - title: Sawatte Mitai? | Do You Wanna Touch?
     author: rondonko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/644309.jpg
@@ -345,6 +352,13 @@ works:
     date: '2026-07-17'
     code: 664937
     url: /works/664937/
+  - title: Namaiki na Kizoku Reijou ni Chijoku no Biyaku Tsurizeme o
+    author: mochiji
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/671813.jpg
+    rating: 0.0
+    date: '2026-09-25'
+    code: 671813
+    url: /works/671813/
   - title: Unsweet Kazumi Wakui + (Plus) SIDE Kazumi
     author: tanaka-aji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/671907.jpg

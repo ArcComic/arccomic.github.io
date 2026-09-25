@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "unusual pupils"
-work_count: 51
+work_count: 54
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -10,6 +10,13 @@ works:
     date: '2026-04-17'
     code: 162047
     url: /works/162047/
+  - title: Tsutomesaki no Musume-san o Oishiku Itadaku Hon Minshuku Hen
+    author: aya
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/284573.jpg
+    rating: 4.2
+    date: '2026-09-25'
+    code: 284573
+    url: /works/284573/
   - title: Ayami Hypno
     author: yasuhiro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/306363.jpg
@@ -69,6 +76,13 @@ works:
     date: '2026-04-23'
     code: 448503
     url: /works/448503/
+  - title: Nearest To Real LOVE “The Great Escape” Al~The Secret second season~
+    author: ozaki-miray
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/458866.jpg
+    rating: 0.0
+    date: '2026-09-25'
+    code: 458866
+    url: /works/458866/
   - title: Shitsurakuen | Paradise Lost
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/463749.jpg
@@ -126,6 +140,13 @@ works:
     date: '2026-09-15'
     code: 539377
     url: /works/539377/
+  - title: Konamirai
+    author: zero-no-mono
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/552335.jpg
+    rating: 0.0
+    date: '2026-09-25'
+    code: 552335
+    url: /works/552335/
   - title: Saikai shita Osananajimi to Issen o Koecchau Hanashi | I Reunited With My
       Longtime Friend and Crossed the Line
     author: satsuki-usa

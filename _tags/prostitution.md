@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "prostitution"
-work_count: 61
+work_count: 62
 works:
   - title: Yuri no o saifu ni shite agemasu ne, Senpai | I'll turn you into Yuri's wallet,
       Senpai
@@ -49,6 +49,14 @@ works:
     date: '2026-04-25'
     code: 388099
     url: /works/388099/
+  - title: Enkou Kanojo to Kengakukai | Paid dates with my girlfriend prostitute side-by-side
+      experience
+    author: hitoi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/398514.jpg
+    rating: 0.0
+    date: '2026-09-25'
+    code: 398514
+    url: /works/398514/
   - title: 'Portio Switch CASE: Varicata Portio | Cervix Switch CASE - Extra-hard Cervix'
     author: bang-you-didori
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/452141.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "schoolboy uniform"
-work_count: 77
+work_count: 79
 works:
   - title: FLUFFY LAUGH GIRL
     author: shibasaki-syouzi
@@ -142,6 +142,13 @@ works:
     date: '2026-09-07'
     code: 482560
     url: /works/482560/
+  - title: MOUSOU THEATER 67
+    author: arino-hiroshi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/492981.jpg
+    rating: 0.0
+    date: '2026-09-25'
+    code: 492981
+    url: /works/492981/
   - title: Gal to no Asobikata | How to Have Fun With Gyarus!
     author: buta
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/531967.jpg
@@ -247,6 +254,13 @@ works:
     date: '2026-09-18'
     code: 625984
     url: /works/625984/
+  - title: Sono Bisque Doll wa H o Suru 2
+    author: yahiro-pochi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/626430.jpg
+    rating: 0.0
+    date: '2026-09-25'
+    code: 626430
+    url: /works/626430/
   - title: Koukan Nikki ー School Whore Diaries
     author: henkuma
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/634328.jpg

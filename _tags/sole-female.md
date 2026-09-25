@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole female"
-work_count: 759
+work_count: 768
 works:
   - title: Adoration
     author: kishizuka-kenji
@@ -541,6 +541,14 @@ works:
     date: '2026-07-10'
     code: 398305
     url: /works/398305/
+  - title: Enkou Kanojo to Kengakukai | Paid dates with my girlfriend prostitute side-by-side
+      experience
+    author: hitoi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/398514.jpg
+    rating: 0.0
+    date: '2026-09-25'
+    code: 398514
+    url: /works/398514/
   - title: Netorase ~Tsuma no Ichiban Kirei na Hi~ | Netorase - My wife's most beautiful
       day
     author: sakagami-umi
@@ -579,6 +587,13 @@ works:
     date: '2026-07-10'
     code: 407959
     url: /works/407959/
+  - title: My Dress Up Corpse
+    author: mr-kurz
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/408427.jpg
+    rating: 0.0
+    date: '2026-09-25'
+    code: 408427
+    url: /works/408427/
   - title: Dirty Deeds Done Dirt Cheap
     author: mr-kurz
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/408819.jpg
@@ -860,6 +875,13 @@ works:
     date: '2026-09-09'
     code: 457733
     url: /works/457733/
+  - title: Nearest To Real LOVE “The Great Escape” Al~The Secret second season~
+    author: ozaki-miray
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/458866.jpg
+    rating: 0.0
+    date: '2026-09-25'
+    code: 458866
+    url: /works/458866/
   - title: Hypnotic Domination ~ The Fall of Tennis Club Ace ~
     author: danchino
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/461537.jpg
@@ -1036,6 +1058,13 @@ works:
     date: '2026-04-17'
     code: 489004
     url: /works/489004/
+  - title: MOUSOU THEATER 67
+    author: arino-hiroshi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/492981.jpg
+    rating: 0.0
+    date: '2026-09-25'
+    code: 492981
+    url: /works/492981/
   - title: SeFri no Senpai | 學姐是我的炮友
     author: gen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/494440.jpg
@@ -1560,6 +1589,13 @@ works:
     date: '2026-04-15'
     code: 551186
     url: /works/551186/
+  - title: Konamirai
+    author: zero-no-mono
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/552335.jpg
+    rating: 0.0
+    date: '2026-09-25'
+    code: 552335
+    url: /works/552335/
   - title: Gokinjo Trouble ni wa Gochuui o | Watch Out For Trouble in Your Neighborhood
     author: hotate-chan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/553426.jpg
@@ -2265,6 +2301,14 @@ works:
     date: '2026-02-26'
     code: 610539
     url: /works/610539/
+  - title: 'Sono Bisque Doll wa H o Suru Soushuuhen II ＋ 9 ー  My Sexy Dress-Up Darling
+      Anthology #2'
+    author: yahiro-pochi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/610915.jpg
+    rating: 0.0
+    date: '2026-09-25'
+    code: 610915
+    url: /works/610915/
   - title: Tannin no Meido ni Nacchatta KURO GAL 2 | The Black Gal Who Became The Homeroom
       Teacher's Maid 2
     author: ootsuka-kotora
@@ -2420,6 +2464,13 @@ works:
     date: '2026-09-11'
     code: 626220
     url: /works/626220/
+  - title: Sono Bisque Doll wa H o Suru 2
+    author: yahiro-pochi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/626430.jpg
+    rating: 0.0
+    date: '2026-09-25'
+    code: 626430
+    url: /works/626430/
   - title: 'Taihai Tsuma: Taihaikei Hitotsuma o Yachin Kawari ni Koki Tsukaeru Hanashi
       | Slutty Wife!'
     author: kametaro
@@ -2755,6 +2806,13 @@ works:
     date: '2026-05-05'
     code: 638218
     url: /works/638218/
+  - title: Rental Kanojo Osawari Shimasu 9 ー Grope-a-Girlfriend 9
+    author: yahiro-pochi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638696.jpg
+    rating: 0.0
+    date: '2026-09-25'
+    code: 638696
+    url: /works/638696/
   - title: Yariman no Namaiki Kouhai to Tsukiau made no Hanashi.
     author: tokyo-gunjo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638929.jpg
@@ -4358,6 +4416,13 @@ works:
     date: '2026-08-19'
     code: 671657
     url: /works/671657/
+  - title: Namaiki na Kizoku Reijou ni Chijoku no Biyaku Tsurizeme o
+    author: mochiji
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/671813.jpg
+    rating: 0.0
+    date: '2026-09-25'
+    code: 671813
+    url: /works/671813/
   - title: Yojouhan no Yuragi - Fluctuations in a Four-and-a-Half Tatami Room.
     author: syoukaki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/672154.jpg

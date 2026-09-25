@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "squirting"
-work_count: 110
+work_count: 112
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -138,6 +138,13 @@ works:
     date: '2026-04-23'
     code: 548852
     url: /works/548852/
+  - title: Konamirai
+    author: zero-no-mono
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/552335.jpg
+    rating: 0.0
+    date: '2026-09-25'
+    code: 552335
+    url: /works/552335/
   - title: Nakayoku no Yu e Youkoso Ch. 2 & 3
     author: enomoto-heights
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/555849.jpg
@@ -579,6 +586,13 @@ works:
     date: '2026-05-27'
     code: 652790
     url: /works/652790/
+  - title: Mou Ichido, Kimi no Egao ga Mitai | I Want to See Your Smile Again
+    author: toi-deisuke
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/652937.jpg
+    rating: 0.0
+    date: '2026-09-25'
+    code: 652937
+    url: /works/652937/
   - title: Yabai oji | Dangerous Uncle
     author: chinpan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654645.jpg

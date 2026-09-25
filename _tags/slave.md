@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "slave"
-work_count: 9
+work_count: 11
 works:
   - title: Tonight, my wife is being exposed and...
     author: mon-mon
@@ -25,6 +25,21 @@ works:
     date: '2026-05-05'
     code: 578147
     url: /works/578147/
+  - title: Misao no Keiyaku - CHAPTER 2
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/580081.jpg
+    rating: 0.0
+    date: '2026-09-25'
+    code: 580081
+    url: /works/580081/
+  - title: Ochiba Nikki -Jitaku Choukyou Hen 2- | Fallen Leaves Diary -House Training
+      Arc 2-
+    author: hitoi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/635879.jpg
+    rating: 0.0
+    date: '2026-09-25'
+    code: 635879
+    url: /works/635879/
   - title: The Story of Becoming the Husband of a Rich, Yandere Daughter
     author: kaisendoh
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638178.jpg

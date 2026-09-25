@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "teacher"
-work_count: 77
+work_count: 78
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -137,6 +137,13 @@ works:
     date: '2026-08-20'
     code: 557452
     url: /works/557452/
+  - title: My Study Method
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/562201.jpg
+    rating: 0.0
+    date: '2026-09-25'
+    code: 562201
+    url: /works/562201/
   - title: Ossan Kirai no Hitozuma Kyoushi ga Nikubenki ni Ochiru Hanashi | Story About
       an Old Man Hating Married Teacher Falling Into Being a Meat Toilet
     author: chinpan

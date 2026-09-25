@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "manga"
-work_count: 315
+work_count: 320
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -122,6 +122,13 @@ works:
     date: '2026-09-06'
     code: 196238
     url: /works/196238/
+  - title: A-part | Apartment
+    author: zero-no-mono
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/215019.jpg
+    rating: 0.0
+    date: '2026-09-25'
+    code: 215019
+    url: /works/215019/
   - title: Kizashi
     author: yoshiura-kazuya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/226386.jpg
@@ -442,6 +449,14 @@ works:
     date: '2026-09-06'
     code: 417221
     url: /works/417221/
+  - title: You Said Just the Tip… I Asked My Brother's Girlfriend to Have Sex With Me
+      Without a Condom!!
+    author: kotobuki-maimu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/420017.jpg
+    rating: 0.0
+    date: '2026-09-25'
+    code: 420017
+    url: /works/420017/
   - title: Yasashii Oba-san Yarashii Oba-san | Kind Lady, Dirty Lady Ch. 1-3
     author: hidemaru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/421874.jpg
@@ -871,6 +886,13 @@ works:
     date: '2026-04-23'
     code: 548852
     url: /works/548852/
+  - title: Konamirai
+    author: zero-no-mono
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/552335.jpg
+    rating: 0.0
+    date: '2026-09-25'
+    code: 552335
+    url: /works/552335/
   - title: Aka-chan Tsukuri no Yoshuu | Preview Lesson About Babymaking
     author: highlow
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/555216.jpg
@@ -892,6 +914,13 @@ works:
     date: '2026-07-16'
     code: 561787
     url: /works/561787/
+  - title: My Study Method
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/562201.jpg
+    rating: 0.0
+    date: '2026-09-25'
+    code: 562201
+    url: /works/562201/
   - title: Cocoa-chan no Jiraikei Chuuihou
     author: uni-toshiki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/568923.jpg
@@ -957,6 +986,13 @@ works:
     date: '2026-04-25'
     code: 579819
     url: /works/579819/
+  - title: Misao no Keiyaku - CHAPTER 2
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/580081.jpg
+    rating: 0.0
+    date: '2026-09-25'
+    code: 580081
+    url: /works/580081/
   - title: Namima no Pōtorēto | Portrait of a Wave
     author: torii-yoshitsuna
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/580379.jpg
