@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "anal"
-work_count: 124
+work_count: 125
 works:
   - title: Hitozuma Hyakka
     author: hase-tsubura
@@ -88,7 +88,7 @@ works:
   - title: 'Revenge Massage: Moan More & Beg for Me!'
     author: aono-akira
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/481671.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-24'
     code: 481671
     url: /works/481671/
@@ -853,6 +853,13 @@ works:
     date: '2026-09-18'
     code: 682200
     url: /works/682200/
+  - title: Shuugaku Ryokou, Kanojo Ubarareru Nettaiya Soushuuhen
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682212.jpg
+    rating: 4.3
+    date: '2026-09-25'
+    code: 682212
+    url: /works/682212/
   - title: 寝取らせクラブに送り出した不感症のダウナー彼女の報告 | 送往绿帽俱乐部的性冷淡阴沉女友的报告
     author: sanuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682385.jpg
@@ -891,7 +898,7 @@ works:
   - title: Natsuzuma 3
     author: kurosu-gatari
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683679.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-24'
     code: 683679
     url: /works/683679/

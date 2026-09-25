@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "rimjob"
-work_count: 38
+work_count: 39
 works:
   - title: Hitozuma Hyakka
     author: hase-tsubura
@@ -268,6 +268,13 @@ works:
     date: '2026-09-18'
     code: 682180
     url: /works/682180/
+  - title: Shuugaku Ryokou, Kanojo Ubarareru Nettaiya Soushuuhen
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682212.jpg
+    rating: 4.3
+    date: '2026-09-25'
+    code: 682212
+    url: /works/682212/
   - title: Saimin Charao to Netorare Seitokai NTR Vol. 4
     author: sunagimo-dx
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682290.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "anal intercourse"
-work_count: 71
+work_count: 72
 works:
   - title: Bitch Mama no Kekkon Riyuu
     author: aoyama-akira
@@ -504,6 +504,13 @@ works:
     date: '2026-09-15'
     code: 681329
     url: /works/681329/
+  - title: Shuugaku Ryokou, Kanojo Ubarareru Nettaiya Soushuuhen
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682212.jpg
+    rating: 4.3
+    date: '2026-09-25'
+    code: 682212
+    url: /works/682212/
   - title: 寝取らせクラブに送り出した不感症のダウナー彼女の報告 | 送往绿帽俱乐部的性冷淡阴沉女友的报告
     author: sanuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682385.jpg

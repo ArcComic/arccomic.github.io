@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "tanlines"
-work_count: 27
+work_count: 28
 works:
   - title: CHOCO x LOVE
     author: highlow
@@ -190,6 +190,13 @@ works:
     date: '2026-09-15'
     code: 681329
     url: /works/681329/
+  - title: Shuugaku Ryokou, Kanojo Ubarareru Nettaiya Soushuuhen
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682212.jpg
+    rating: 4.3
+    date: '2026-09-25'
+    code: 682212
+    url: /works/682212/
   - title: Jukujo ♥ shonen hyoryu-ki | A Woman ♥ Boy Castaway Tale
     author: kotobuki-mairo-zubrowk
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683082.jpg

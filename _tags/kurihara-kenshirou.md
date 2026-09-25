@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "kurihara kenshirou"
-work_count: 2
+work_count: 3
 works:
   - title: Fuyu-san wa Sotsugyou Shitai | Fuyu-san Wants to Lose Her V-Card
     author: kurihara-kenshirou
@@ -19,4 +19,12 @@ works:
     date: '2026-09-06'
     code: 678913
     url: /works/678913/
+  - title: The Story of the Person I Thought Was a Guy on Social Media Turning Out to
+      Be a Tall Woman Who Was Gruff but Let Me Do Whatever I Wanted to Her – Part 2
+    author: kurihara-kenshirou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683677.jpg
+    rating: 4.5
+    date: '2026-09-25'
+    code: 683677
+    url: /works/683677/
 ---

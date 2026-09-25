@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "scanmark"
-work_count: 193
+work_count: 194
 works:
   - title: NTR Anniversary + ) [Syukurin] Mitsuha ~Netorare~ (Kimi no Na wa.) [English]
       [Colorized] by Mikaku
@@ -137,7 +137,7 @@ works:
   - title: Umi no Ie ni wa Kiken ga Ippai Class no Ano Ko no Oppai Porori
     author: p-and-i
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/628126.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-09-24'
     code: 628126
     url: /works/628126/
@@ -269,7 +269,7 @@ works:
   - title: Idol no Kimi no Tonari no Boku 2
     author: negoya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/640988.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-24'
     code: 640988
     url: /works/640988/
@@ -401,7 +401,7 @@ works:
   - title: Until I Take Everything From You 2-C
     author: takotokite
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654240.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-24'
     code: 654240
     url: /works/654240/
@@ -1245,6 +1245,13 @@ works:
     date: '2026-09-18'
     code: 682203
     url: /works/682203/
+  - title: Shuugaku Ryokou, Kanojo Ubarareru Nettaiya Soushuuhen
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682212.jpg
+    rating: 4.3
+    date: '2026-09-25'
+    code: 682212
+    url: /works/682212/
   - title: Jibun no Kanojo to Machigaete Tomodachi no Kanojo to Sex suru Hanashi 1 &
       2
     author: mauboumen

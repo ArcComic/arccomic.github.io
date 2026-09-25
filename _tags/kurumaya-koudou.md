@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "kurumaya koudou"
-work_count: 2
+work_count: 3
 works:
   - title: Zutto Hanasanaide ne. -Onaho na Mukanjou Osananajimi to Junai ni Ochiru made-
       | Please Don’t Let Go Of Me ~Until I Fall in Love With My Onahole Childhood Friend~
@@ -11,6 +11,13 @@ works:
     date: '2026-09-24'
     code: 527651
     url: /works/527651/
+  - title: Shuugaku Ryokou, Kanojo Ubarareru Nettaiya Soushuuhen
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682212.jpg
+    rating: 4.3
+    date: '2026-09-25'
+    code: 682212
+    url: /works/682212/
   - title: 'Inshuu Bijutsubu Kouhai Nude Model to Okiteyaburi no Sex ga Shita | Indecent
       Art Club: I would like to break the rules and fool around with my junior nude
       model'

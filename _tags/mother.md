@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "mother"
-work_count: 135
+work_count: 136
 works:
   - title: Imitation Family + Bigibo Hen
     author: tohzai
@@ -983,6 +983,14 @@ works:
     date: '2026-09-23'
     code: 683398
     url: /works/683398/
+  - title: 'Kokujin no Tenkousei NTR ru Chapters 1-6 part 1 Plus Bonus chapter: Stolen
+      Mother’s Breasts'
+    author: terasu-mc
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683725.jpg
+    rating: 4.5
+    date: '2026-09-25'
+    code: 683725
+    url: /works/683725/
   - title: Basaki no Komochi Haha no Soudan ni Nottara Taihen na Koto ni Natta Hanashi
     author: ginzou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683749.jpg

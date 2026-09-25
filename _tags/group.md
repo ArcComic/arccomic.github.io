@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "group"
-work_count: 199
+work_count: 201
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -1308,6 +1308,13 @@ works:
     date: '2026-09-18'
     code: 682188
     url: /works/682188/
+  - title: Shuugaku Ryokou, Kanojo Ubarareru Nettaiya Soushuuhen
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682212.jpg
+    rating: 4.3
+    date: '2026-09-25'
+    code: 682212
+    url: /works/682212/
   - title: Saimin Charao to Netorare Seitokai NTR Vol. 4
     author: sunagimo-dx
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682290.jpg
@@ -1443,6 +1450,14 @@ works:
     date: '2026-09-24'
     code: 683693
     url: /works/683693/
+  - title: 'Kokujin no Tenkousei NTR ru Chapters 1-6 part 1 Plus Bonus chapter: Stolen
+      Mother’s Breasts'
+    author: terasu-mc
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683725.jpg
+    rating: 4.5
+    date: '2026-09-25'
+    code: 683725
+    url: /works/683725/
   - title: More! We’re Captivated by Big Sis
     author: rifuru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683744.jpg

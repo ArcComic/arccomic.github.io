@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "original"
-work_count: 893
+work_count: 898
 works:
   - title: Natsu dake Koibito - Summer only Lover [English] =Forbidden Fetish + Ser
       Maggot=
@@ -743,7 +743,7 @@ works:
   - title: 'Revenge Massage: Moan More & Beg for Me!'
     author: aono-akira
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/481671.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-24'
     code: 481671
     url: /works/481671/
@@ -2339,6 +2339,13 @@ works:
     date: '2026-09-09'
     code: 620889
     url: /works/620889/
+  - title: Houkago Dairizuma 2 Boku no Kanojo wa Chichioya ni Tanetsuke Sarete Iru
+    author: richard-bahman
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/622021.jpg
+    rating: 4.9
+    date: '2026-09-25'
+    code: 622021
+    url: /works/622021/
   - title: Ninkan Gakkou 1 + 2
     author: yasui-riosuke
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/622161.jpg
@@ -2375,6 +2382,14 @@ works:
     date: '2026-03-04'
     code: 624694
     url: /works/624694/
+  - title: Watashi ga Haishin de Porori Shichau tte Uso Desu yo ne!? | It's Not True
+      That My Breasts Will Be Exposed During The Live Stream, Right!?
+    author: ouno
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/625677.jpg
+    rating: 4.6
+    date: '2026-09-25'
+    code: 625677
+    url: /works/625677/
   - title: Seishun o Yarinaosu nara Kondo koso Suki datta Doukyuusei to Tsukiatte Zettai
       Yarimakuritai. | If I'm Reliving My Life, This Time I Wanna Get With The Girl
       I Loved Back Then
@@ -2416,7 +2431,7 @@ works:
   - title: Umi no Ie ni wa Kiken ga Ippai Class no Ano Ko no Oppai Porori
     author: p-and-i
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/628126.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-09-24'
     code: 628126
     url: /works/628126/
@@ -2921,7 +2936,7 @@ works:
   - title: Idol no Kimi no Tonari no Boku 2
     author: negoya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/640988.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-24'
     code: 640988
     url: /works/640988/
@@ -3231,7 +3246,7 @@ works:
       her nude titties lol
     author: p-and-i
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/645320.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-24'
     code: 645320
     url: /works/645320/
@@ -3919,7 +3934,7 @@ works:
   - title: Until I Take Everything From You 2-C
     author: takotokite
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654240.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-24'
     code: 654240
     url: /works/654240/
@@ -6291,6 +6306,13 @@ works:
     date: '2026-09-18'
     code: 682203
     url: /works/682203/
+  - title: Shuugaku Ryokou, Kanojo Ubarareru Nettaiya Soushuuhen
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682212.jpg
+    rating: 4.3
+    date: '2026-09-25'
+    code: 682212
+    url: /works/682212/
   - title: Jibun no Kanojo to Machigaete Tomodachi no Kanojo to Sex suru Hanashi 1 &
       2
     author: mauboumen
@@ -6594,10 +6616,18 @@ works:
     date: '2026-09-24'
     code: 683592
     url: /works/683592/
+  - title: The Story of the Person I Thought Was a Guy on Social Media Turning Out to
+      Be a Tall Woman Who Was Gruff but Let Me Do Whatever I Wanted to Her – Part 2
+    author: kurihara-kenshirou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683677.jpg
+    rating: 4.5
+    date: '2026-09-25'
+    code: 683677
+    url: /works/683677/
   - title: Natsuzuma 3
     author: kurosu-gatari
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683679.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-24'
     code: 683679
     url: /works/683679/
@@ -6624,6 +6654,14 @@ works:
     date: '2026-09-24'
     code: 683694
     url: /works/683694/
+  - title: 'Kokujin no Tenkousei NTR ru Chapters 1-6 part 1 Plus Bonus chapter: Stolen
+      Mother’s Breasts'
+    author: terasu-mc
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683725.jpg
+    rating: 4.5
+    date: '2026-09-25'
+    code: 683725
+    url: /works/683725/
   - title: Basaki no Komochi Haha no Soudan ni Nottara Taihen na Koto ni Natta Hanashi
     author: ginzou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683749.jpg

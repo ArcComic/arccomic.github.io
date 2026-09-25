@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "humiliation"
-work_count: 34
+work_count: 36
 works:
   - title: Doushia (Terasu MC)] Dorei Gazoku
     author: terasu-mc
@@ -53,6 +53,14 @@ works:
     date: '2026-09-22'
     code: 579290
     url: /works/579290/
+  - title: Watashi ga Haishin de Porori Shichau tte Uso Desu yo ne!? | It's Not True
+      That My Breasts Will Be Exposed During The Live Stream, Right!?
+    author: ouno
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/625677.jpg
+    rating: 4.6
+    date: '2026-09-25'
+    code: 625677
+    url: /works/625677/
   - title: Gakkou no Joshi o Chuumon Dekiru Denpyou ~Tadashi Seikoui Mokuteki ni Kagiru~
     author: nyuu-koubou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/625984.jpg
@@ -63,14 +71,14 @@ works:
   - title: Umi no Ie ni wa Kiken ga Ippai Class no Ano Ko no Oppai Porori
     author: p-and-i
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/628126.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-09-24'
     code: 628126
     url: /works/628126/
   - title: Idol no Kimi no Tonari no Boku 2
     author: negoya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/640988.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-24'
     code: 640988
     url: /works/640988/
@@ -79,7 +87,7 @@ works:
       her nude titties lol
     author: p-and-i
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/645320.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-24'
     code: 645320
     url: /works/645320/
@@ -109,7 +117,7 @@ works:
   - title: Until I Take Everything From You 2-C
     author: takotokite
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654240.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-24'
     code: 654240
     url: /works/654240/
@@ -251,4 +259,12 @@ works:
     date: '2026-09-23'
     code: 683318
     url: /works/683318/
+  - title: 'Kokujin no Tenkousei NTR ru Chapters 1-6 part 1 Plus Bonus chapter: Stolen
+      Mother’s Breasts'
+    author: terasu-mc
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683725.jpg
+    rating: 4.5
+    date: '2026-09-25'
+    code: 683725
+    url: /works/683725/
 ---

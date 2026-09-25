@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sex toys"
-work_count: 95
+work_count: 96
 works:
   - title: Ayami Hypno
     author: yasuhiro
@@ -663,6 +663,13 @@ works:
     date: '2026-09-18'
     code: 682203
     url: /works/682203/
+  - title: Shuugaku Ryokou, Kanojo Ubarareru Nettaiya Soushuuhen
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682212.jpg
+    rating: 4.3
+    date: '2026-09-25'
+    code: 682212
+    url: /works/682212/
   - title: Sennyuu Sousakan -Cult ni Ochiru- Zenpen | Undercover Agent -Corrupted by
       the Cult- Part One
     author: take-shinshi

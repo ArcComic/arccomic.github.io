@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "double penetration"
-work_count: 38
+work_count: 39
 works:
   - title: Hitozuma Hyakka
     author: hase-tsubura
@@ -20,7 +20,7 @@ works:
   - title: 'Revenge Massage: Moan More & Beg for Me!'
     author: aono-akira
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/481671.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-24'
     code: 481671
     url: /works/481671/
@@ -252,6 +252,13 @@ works:
     date: '2026-09-20'
     code: 681566
     url: /works/681566/
+  - title: Shuugaku Ryokou, Kanojo Ubarareru Nettaiya Soushuuhen
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682212.jpg
+    rating: 4.3
+    date: '2026-09-25'
+    code: 682212
+    url: /works/682212/
   - title: Hako no Tsuma
     author: bai-asuka
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683121.jpg

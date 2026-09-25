@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "ahegao"
-work_count: 240
+work_count: 241
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -1787,10 +1787,18 @@ works:
     date: '2026-09-24'
     code: 683606
     url: /works/683606/
+  - title: The Story of the Person I Thought Was a Guy on Social Media Turning Out to
+      Be a Tall Woman Who Was Gruff but Let Me Do Whatever I Wanted to Her – Part 2
+    author: kurihara-kenshirou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683677.jpg
+    rating: 4.5
+    date: '2026-09-25'
+    code: 683677
+    url: /works/683677/
   - title: Natsuzuma 3
     author: kurosu-gatari
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683679.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-24'
     code: 683679
     url: /works/683679/

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "nakadashi"
-work_count: 627
+work_count: 628
 works:
   - title: Adoration
     author: kishizuka-kenji
@@ -668,7 +668,7 @@ works:
   - title: 'Revenge Massage: Moan More & Beg for Me!'
     author: aono-akira
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/481671.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-24'
     code: 481671
     url: /works/481671/
@@ -3108,7 +3108,7 @@ works:
   - title: Until I Take Everything From You 2-C
     author: takotokite
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654240.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-24'
     code: 654240
     url: /works/654240/
@@ -4452,6 +4452,13 @@ works:
     date: '2026-09-18'
     code: 682203
     url: /works/682203/
+  - title: Shuugaku Ryokou, Kanojo Ubarareru Nettaiya Soushuuhen
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682212.jpg
+    rating: 4.3
+    date: '2026-09-25'
+    code: 682212
+    url: /works/682212/
   - title: Hatsujouki dakara Shikatanai
     author: tsukunendo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682245.jpg
@@ -4643,7 +4650,7 @@ works:
   - title: Natsuzuma 3
     author: kurosu-gatari
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683679.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-24'
     code: 683679
     url: /works/683679/

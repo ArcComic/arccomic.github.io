@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "netorare"
-work_count: 339
+work_count: 342
 works:
   - title: Kousa suru Osu to Mesu | Male and Female Crossing
     author: ootsuka-kotora
@@ -403,7 +403,7 @@ works:
   - title: 'Revenge Massage: Moan More & Beg for Me!'
     author: aono-akira
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/481671.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-24'
     code: 481671
     url: /works/481671/
@@ -1023,6 +1023,13 @@ works:
     date: '2026-09-17'
     code: 621436
     url: /works/621436/
+  - title: Houkago Dairizuma 2 Boku no Kanojo wa Chichioya ni Tanetsuke Sarete Iru
+    author: richard-bahman
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/622021.jpg
+    rating: 4.9
+    date: '2026-09-25'
+    code: 622021
+    url: /works/622021/
   - title: Ninkan Gakkou 1 + 2
     author: yasui-riosuke
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/622161.jpg
@@ -1341,7 +1348,7 @@ works:
       her nude titties lol
     author: p-and-i
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/645320.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-24'
     code: 645320
     url: /works/645320/
@@ -1554,7 +1561,7 @@ works:
   - title: Until I Take Everything From You 2-C
     author: takotokite
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654240.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-24'
     code: 654240
     url: /works/654240/
@@ -2331,6 +2338,13 @@ works:
     date: '2026-09-18'
     code: 682203
     url: /works/682203/
+  - title: Shuugaku Ryokou, Kanojo Ubarareru Nettaiya Soushuuhen
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682212.jpg
+    rating: 4.3
+    date: '2026-09-25'
+    code: 682212
+    url: /works/682212/
   - title: Saimin Charao to Netorare Seitokai NTR Vol. 4
     author: sunagimo-dx
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682290.jpg
@@ -2479,7 +2493,7 @@ works:
   - title: Natsuzuma 3
     author: kurosu-gatari
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683679.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-24'
     code: 683679
     url: /works/683679/
@@ -2497,6 +2511,14 @@ works:
     date: '2026-09-24'
     code: 683694
     url: /works/683694/
+  - title: 'Kokujin no Tenkousei NTR ru Chapters 1-6 part 1 Plus Bonus chapter: Stolen
+      Mother’s Breasts'
+    author: terasu-mc
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683725.jpg
+    rating: 4.5
+    date: '2026-09-25'
+    code: 683725
+    url: /works/683725/
   - title: Inin Keiyaku | Lewd Pregnancy Contract
     author: yoshiura-kazuya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/83595.jpg

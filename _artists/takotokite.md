@@ -5,7 +5,7 @@ work_count: 2
 works:
   - title: Until I Take Everything From You 2-C
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654240.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-24'
     code: 654240
     url: /works/654240/

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "handjob"
-work_count: 111
+work_count: 112
 works:
   - title: Chibo Soukan Ch.1-3
     author: natsu-no-oyatsu
@@ -749,6 +749,13 @@ works:
     date: '2026-09-18'
     code: 682203
     url: /works/682203/
+  - title: Shuugaku Ryokou, Kanojo Ubarareru Nettaiya Soushuuhen
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682212.jpg
+    rating: 4.3
+    date: '2026-09-25'
+    code: 682212
+    url: /works/682212/
   - title: Hifumi to Himitsu no Kankei ni Natteshimatta Hanashi - A story about getting
       into a secret relationship with Hifumi.
     author: arisu-kazumi

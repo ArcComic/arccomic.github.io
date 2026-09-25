@@ -17,7 +17,7 @@ works:
     url: /works/645264/
   - title: Natsuzuma 3
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683679.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-24'
     code: 683679
     url: /works/683679/

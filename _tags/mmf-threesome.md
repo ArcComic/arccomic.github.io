@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "mmf threesome"
-work_count: 49
+work_count: 50
 works:
   - title: Hitozuma Hyakka
     author: hase-tsubura
@@ -277,6 +277,13 @@ works:
     date: '2026-09-20'
     code: 681566
     url: /works/681566/
+  - title: Shuugaku Ryokou, Kanojo Ubarareru Nettaiya Soushuuhen
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682212.jpg
+    rating: 4.3
+    date: '2026-09-25'
+    code: 682212
+    url: /works/682212/
   - title: The World Where Only I Can't Fuck the Class Gyaru | Boku dake ga Class no
       Ano Ko to Sex dekinai Sekai
     author: armjaw

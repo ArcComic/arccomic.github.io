@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bikini"
-work_count: 68
+work_count: 70
 works:
   - title: Kizashi
     author: yoshiura-kazuya
@@ -166,7 +166,7 @@ works:
   - title: Umi no Ie ni wa Kiken ga Ippai Class no Ano Ko no Oppai Porori
     author: p-and-i
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/628126.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-09-24'
     code: 628126
     url: /works/628126/
@@ -197,7 +197,7 @@ works:
       her nude titties lol
     author: p-and-i
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/645320.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-24'
     code: 645320
     url: /works/645320/
@@ -482,6 +482,13 @@ works:
     date: '2026-09-17'
     code: 681989
     url: /works/681989/
+  - title: Shuugaku Ryokou, Kanojo Ubarareru Nettaiya Soushuuhen
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682212.jpg
+    rating: 4.3
+    date: '2026-09-25'
+    code: 682212
+    url: /works/682212/
   - title: Shita no Kai no Yokkyuufuman na Mucchimuchi Mama-san kara no Approach ga
       Sugoi | The Frustrated, Curvy Mom Downstairs Keeps Making Bold Moves
     author: ikinari-mojio-yosyo
@@ -519,6 +526,14 @@ works:
     date: '2026-09-23'
     code: 683312
     url: /works/683312/
+  - title: The Story of the Person I Thought Was a Guy on Social Media Turning Out to
+      Be a Tall Woman Who Was Gruff but Let Me Do Whatever I Wanted to Her – Part 2
+    author: kurihara-kenshirou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683677.jpg
+    rating: 4.5
+    date: '2026-09-25'
+    code: 683677
+    url: /works/683677/
   - title: Kazoku Torare | Family Taken Away
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683693.jpg

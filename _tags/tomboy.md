@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "tomboy"
-work_count: 55
+work_count: 56
 works:
   - title: Kizashi
     author: yoshiura-kazuya
@@ -411,6 +411,13 @@ works:
     date: '2026-09-17'
     code: 681687
     url: /works/681687/
+  - title: Shuugaku Ryokou, Kanojo Ubarareru Nettaiya Soushuuhen
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682212.jpg
+    rating: 4.3
+    date: '2026-09-25'
+    code: 682212
+    url: /works/682212/
   - title: 'Inshuu Bijutsubu Kouhai Nude Model to Okiteyaburi no Sex ga Shita | Indecent
       Art Club: I would like to break the rules and fool around with my junior nude
       model'

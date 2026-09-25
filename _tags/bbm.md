@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bbm"
-work_count: 90
+work_count: 91
 works:
   - title: Kindan no Hatemitsu
     author: ryuuta
@@ -633,6 +633,13 @@ works:
     date: '2026-09-17'
     code: 681851
     url: /works/681851/
+  - title: Shuugaku Ryokou, Kanojo Ubarareru Nettaiya Soushuuhen
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682212.jpg
+    rating: 4.3
+    date: '2026-09-25'
+    code: 682212
+    url: /works/682212/
   - title: SNS Shijou Shugi no Sekai e Youkoso. ~Daininki Influencer no Omae yori Ore
       no Hou ga Suuji ga Aru node Okashimasu~
     author: ushigon
