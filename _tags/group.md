@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "group"
-work_count: 202
+work_count: 203
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -313,6 +313,13 @@ works:
     date: '2026-04-25'
     code: 562615
     url: /works/562615/
+  - title: Onna Kishi Rize wa Koyoi mo Maotoko ni Dakareru 3
+    author: akire
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/564863.jpg
+    rating: 0.0
+    date: '2026-09-25'
+    code: 564863
+    url: /works/564863/
   - title: NIKKE Icha Love Ero Goudou "NIKKE☆Lover" | NIKKE Lovey-Dovey Ero Compendium
       "NIKKE☆Lover"
     author: kumakiti

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "ugly bastard"
-work_count: 11
+work_count: 12
 works:
   - title: Ojou-sama Sodachi no Namaiki Celeb Zuma o Kitanai Ossan Chinpo de Wakaraseru
       | Cocky Rich Bitch Glam-Wife Gets Taught A Lesson With Dirty Old Man Dick
@@ -76,6 +76,14 @@ works:
     date: '2026-07-09'
     code: 662647
     url: /works/662647/
+  - title: Boku dake ni Amaesasete Kureru Kyonyuu JK Tsuma o Hoka no Otoko ni Dakasete
+      Mita 12
+    author: akire
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662670.jpg
+    rating: 0.0
+    date: '2026-09-25'
+    code: 662670
+    url: /works/662670/
   - title: Tainou Bicchi Hensai Keikaku | The Delinquent Bitch's Repayment Plan
     author: onkyu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/667990.jpg

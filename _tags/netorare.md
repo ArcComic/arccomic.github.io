@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "netorare"
-work_count: 342
+work_count: 343
 works:
   - title: Kousa suru Osu to Mesu | Male and Female Crossing
     author: ootsuka-kotora
@@ -780,6 +780,13 @@ works:
     date: '2026-03-02'
     code: 563342
     url: /works/563342/
+  - title: Onna Kishi Rize wa Koyoi mo Maotoko ni Dakareru 3
+    author: akire
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/564863.jpg
+    rating: 0.0
+    date: '2026-09-25'
+    code: 564863
+    url: /works/564863/
   - title: Tawawa de Akarui Yakyuubu Manager ga Inshitsu na Kyoushi no Wana ni... Kanketsuhen
     author: ohkura-kazuya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/566052.jpg

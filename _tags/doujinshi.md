@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "doujinshi"
-work_count: 1075
+work_count: 1077
 works:
   - title: Another Produce -Kaede Takagaki-
     author: marushin
@@ -1901,6 +1901,13 @@ works:
     date: '2026-07-17'
     code: 564042
     url: /works/564042/
+  - title: Onna Kishi Rize wa Koyoi mo Maotoko ni Dakareru 3
+    author: akire
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/564863.jpg
+    rating: 0.0
+    date: '2026-09-25'
+    code: 564863
+    url: /works/564863/
   - title: Walking back home in the winter with my childhood friend
     author: shimetsuki-tanki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/565301.jpg
@@ -5283,6 +5290,14 @@ works:
     date: '2026-07-09'
     code: 662658
     url: /works/662658/
+  - title: Boku dake ni Amaesasete Kureru Kyonyuu JK Tsuma o Hoka no Otoko ni Dakasete
+      Mita 12
+    author: akire
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662670.jpg
+    rating: 0.0
+    date: '2026-09-25'
+    code: 662670
+    url: /works/662670/
   - title: Hen na Soubi no Sei de O◯nko Kowareteshimatta de wa Nai ka!
     author: nigiri-usagi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662706.jpg

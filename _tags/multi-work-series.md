@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "multi-work series"
-work_count: 300
+work_count: 302
 works:
   - title: Oppai na Natsuyasumi 2 | The Summer Break of Boobs 2
     author: higashino-mikan
@@ -597,6 +597,13 @@ works:
     date: '2026-05-05'
     code: 558039
     url: /works/558039/
+  - title: Onna Kishi Rize wa Koyoi mo Maotoko ni Dakareru 3
+    author: akire
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/564863.jpg
+    rating: 0.0
+    date: '2026-09-25'
+    code: 564863
+    url: /works/564863/
   - title: Tawawa de Akarui Yakyuubu Manager ga Inshitsu na Kyoushi no Wana ni... Kanketsuhen
     author: ohkura-kazuya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/566052.jpg
@@ -1594,6 +1601,14 @@ works:
     date: '2026-07-08'
     code: 662343
     url: /works/662343/
+  - title: Boku dake ni Amaesasete Kureru Kyonyuu JK Tsuma o Hoka no Otoko ni Dakasete
+      Mita 12
+    author: akire
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662670.jpg
+    rating: 0.0
+    date: '2026-09-25'
+    code: 662670
+    url: /works/662670/
   - title: Zecchou Kenchi Appli ~Nariyamanai Netorare Tsuuchi~
     author: sora-paprika
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662766.jpg
