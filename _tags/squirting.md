@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "squirting"
-work_count: 112
+work_count: 113
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -660,6 +660,13 @@ works:
     date: '2026-07-15'
     code: 664191
     url: /works/664191/
+  - title: Rental Kanojo Osawari Shimasu 12
+    author: yahiro-pochi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/666941.jpg
+    rating: 4.8
+    date: '2026-09-26'
+    code: 666941
+    url: /works/666941/
   - title: Igyou Koubi Kairaku Jigoku 1 + 2
     author: allegro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/668880.jpg

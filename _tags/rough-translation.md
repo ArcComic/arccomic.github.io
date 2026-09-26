@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "rough translation"
-work_count: 543
+work_count: 544
 works:
   - title: Watashi no Karada, Okashi Shimasu. Bunny Girl Edition
     author: nectar
@@ -2394,6 +2394,13 @@ works:
     date: '2026-09-22'
     code: 666748
     url: /works/666748/
+  - title: Rental Kanojo Osawari Shimasu 12
+    author: yahiro-pochi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/666941.jpg
+    rating: 4.8
+    date: '2026-09-26'
+    code: 666941
+    url: /works/666941/
   - title: Tora re tsuma ~ harami niku benki ni sa reta oku-sa ~
     author: mokuzou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/667314.jpg

@@ -22,9 +22,9 @@ works:
     date: '2026-09-25'
     code: 638696
     url: /works/638696/
-  - title: Work 666941
+  - title: Rental Kanojo Osawari Shimasu 12
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/666941.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-26'
     code: 666941
     url: /works/666941/

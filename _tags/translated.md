@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "translated"
-work_count: 1313
+work_count: 1314
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -6970,6 +6970,13 @@ works:
     date: '2026-09-22'
     code: 666748
     url: /works/666748/
+  - title: Rental Kanojo Osawari Shimasu 12
+    author: yahiro-pochi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/666941.jpg
+    rating: 4.8
+    date: '2026-09-26'
+    code: 666941
+    url: /works/666941/
   - title: A Saleswoman Interrupted Me While I Was Jerking-Off -- Genkan o Aketara Iru
       Kanyuu Oba-san
     author: chotto-b-sen

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "kimono"
-work_count: 45
+work_count: 46
 works:
   - title: Hitozuma Hyakka
     author: hase-tsubura
@@ -270,6 +270,13 @@ works:
     date: '2026-07-09'
     code: 662647
     url: /works/662647/
+  - title: Rental Kanojo Osawari Shimasu 12
+    author: yahiro-pochi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/666941.jpg
+    rating: 4.8
+    date: '2026-09-26'
+    code: 666941
+    url: /works/666941/
   - title: Totsuzen Ane ga Dekita Hanashi 4 | The Story of How I Suddenly Got Older
       Sisters 4
     author: oshima-aki

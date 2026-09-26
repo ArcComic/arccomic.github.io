@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sex toys"
-work_count: 102
+work_count: 103
 works:
   - title: Ayami Hypno
     author: yasuhiro
@@ -564,6 +564,13 @@ works:
     date: '2026-07-17'
     code: 664937
     url: /works/664937/
+  - title: Rental Kanojo Osawari Shimasu 12
+    author: yahiro-pochi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/666941.jpg
+    rating: 4.8
+    date: '2026-09-26'
+    code: 666941
+    url: /works/666941/
   - title: TS Kyoudai
     author: kagamino-mochiko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/674587.jpg
