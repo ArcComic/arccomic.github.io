@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "exhibitionism"
-work_count: 62
+work_count: 63
 works:
   - title: Watashi-tachi no Seikoui Tokubetsu Jisshuu -Zengi Hen-
     author: guglielmo
@@ -455,8 +455,15 @@ works:
   - title: TS Shita Ore Rippa na Bitch ni Narimashita
     author: takutaku
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683814.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-25'
     code: 683814
     url: /works/683814/
+  - title: Katei Saien Vol. 1 | Lustful Housewife Vol. 1 ch. 1-4
+    author: kakutou-oukoku
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683984.jpg
+    rating: 4.3
+    date: '2026-09-25'
+    code: 683984
+    url: /works/683984/
 ---

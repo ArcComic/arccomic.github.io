@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "impregnation"
-work_count: 114
+work_count: 116
 works:
   - title: Kousa suru Osu to Mesu | Male and Female Crossing
     author: ootsuka-kotora
@@ -584,6 +584,13 @@ works:
     date: '2026-07-09'
     code: 661954
     url: /works/661954/
+  - title: Hokenshitsu Oji-san no Hairan Kari
+    author: mizusane
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/661967.jpg
+    rating: 4.5
+    date: '2026-09-25'
+    code: 661967
+    url: /works/661967/
   - title: Tonikaku Sex ga Shitai Oba-san, Ryouko | Auntie Ryouko Wants to Have Sex
       Everyday
     author: mokuzou
@@ -741,7 +748,7 @@ works:
       and Ends up in a Bareback 18-Girl Harem Orgy!!
     author: yanachi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681276.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-09-25'
     code: 681276
     url: /works/681276/
@@ -837,6 +844,14 @@ works:
     date: '2026-09-23'
     code: 683430
     url: /works/683430/
+  - title: BlueArch AzuLan Goblin Erogaki Goudou "1,000,000 GOBLINS ATTACK" | BlueArchive
+      AzuLane Goblin Erogaki Anthology "1,000,000 GOBLINS ATTACK"
+    author: asanagi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683992.jpg
+    rating: 4.7
+    date: '2026-09-25'
+    code: 683992
+    url: /works/683992/
   - title: Inin Keiyaku | Lewd Pregnancy Contract
     author: yoshiura-kazuya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/83595.jpg

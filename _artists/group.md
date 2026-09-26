@@ -46,7 +46,7 @@ works:
     url: /works/539663/
   - title: My Study Method
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/562201.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-25'
     code: 562201
     url: /works/562201/

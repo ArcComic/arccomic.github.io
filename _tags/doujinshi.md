@@ -1,12 +1,12 @@
 ---
 layout: tag
 tag_name: "doujinshi"
-work_count: 1095
+work_count: 1097
 works:
   - title: Birthday
     author: hashiba-yachi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/135719.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-25'
     code: 135719
     url: /works/135719/
@@ -434,7 +434,7 @@ works:
       experience
     author: hitoi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/398514.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-25'
     code: 398514
     url: /works/398514/
@@ -471,7 +471,7 @@ works:
   - title: My Dress Up Corpse
     author: mr-kurz
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/408427.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-25'
     code: 408427
     url: /works/408427/
@@ -792,7 +792,7 @@ works:
   - title: Nearest To Real LOVE “The Great Escape” Al~The Secret second season~
     author: ozaki-miray
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/458866.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-25'
     code: 458866
     url: /works/458866/
@@ -1026,7 +1026,7 @@ works:
   - title: MOUSOU THEATER 67
     author: arino-hiroshi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/492981.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-25'
     code: 492981
     url: /works/492981/
@@ -1904,7 +1904,7 @@ works:
       Defeat: Downfall of the Violated and Plundered Sister'
     author: mochiji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/561133.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-25'
     code: 561133
     url: /works/561133/
@@ -1955,7 +1955,7 @@ works:
   - title: Onna Kishi Rize wa Koyoi mo Maotoko ni Dakareru 3
     author: akire
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/564863.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-25'
     code: 564863
     url: /works/564863/
@@ -2703,7 +2703,7 @@ works:
       Anthology #2'
     author: yahiro-pochi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/610915.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-25'
     code: 610915
     url: /works/610915/
@@ -2873,7 +2873,7 @@ works:
       Mita 11
     author: akire
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/620246.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-25'
     code: 620246
     url: /works/620246/
@@ -2983,7 +2983,7 @@ works:
   - title: Sono Bisque Doll wa H o Suru 2
     author: yahiro-pochi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/626430.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-25'
     code: 626430
     url: /works/626430/
@@ -3402,7 +3402,7 @@ works:
       Arc 2-
     author: hitoi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/635879.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-25'
     code: 635879
     url: /works/635879/
@@ -3536,7 +3536,7 @@ works:
   - title: Rental Kanojo Osawari Shimasu 9 ー Grope-a-Girlfriend 9
     author: yahiro-pochi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638696.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-25'
     code: 638696
     url: /works/638696/
@@ -3627,7 +3627,7 @@ works:
       with Me
     author: bad-end-dreamer
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642393.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-09-25'
     code: 642393
     url: /works/642393/
@@ -3669,7 +3669,7 @@ works:
   - title: Ryousai-chan ~Yukemuri Hen~ Jou + Ryousai-chan ~Yukemuri Hen~ Ge
     author: mappa-ninatta
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642602.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-25'
     code: 642602
     url: /works/642602/
@@ -4737,7 +4737,7 @@ works:
   - title: Mou Ichido, Kimi no Egao ga Mitai | I Want to See Your Smile Again
     author: toi-deisuke
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/652937.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-09-25'
     code: 652937
     url: /works/652937/
@@ -4829,7 +4829,7 @@ works:
       Koubishi Makuru H
     author: yanachi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654681.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-09-25'
     code: 654681
     url: /works/654681/
@@ -5278,6 +5278,13 @@ works:
     date: '2026-07-09'
     code: 661954
     url: /works/661954/
+  - title: Hokenshitsu Oji-san no Hairan Kari
+    author: mizusane
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/661967.jpg
+    rating: 4.5
+    date: '2026-09-25'
+    code: 661967
+    url: /works/661967/
   - title: All Night Long
     author: takasugi-kou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662057.jpg
@@ -5413,7 +5420,7 @@ works:
       Mita 12
     author: akire
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662670.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-25'
     code: 662670
     url: /works/662670/
@@ -5990,7 +5997,7 @@ works:
   - title: Namaiki na Kizoku Reijou ni Chijoku no Biyaku Tsurizeme o
     author: mochiji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/671813.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-25'
     code: 671813
     url: /works/671813/
@@ -7372,7 +7379,7 @@ works:
       and Ends up in a Bareback 18-Girl Harem Orgy!!
     author: yanachi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681276.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-09-25'
     code: 681276
     url: /works/681276/
@@ -8090,8 +8097,16 @@ works:
   - title: TS Shita Ore Rippa na Bitch ni Narimashita
     author: takutaku
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683814.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-25'
     code: 683814
     url: /works/683814/
+  - title: BlueArch AzuLan Goblin Erogaki Goudou "1,000,000 GOBLINS ATTACK" | BlueArchive
+      AzuLane Goblin Erogaki Anthology "1,000,000 GOBLINS ATTACK"
+    author: asanagi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683992.jpg
+    rating: 4.7
+    date: '2026-09-25'
+    code: 683992
+    url: /works/683992/
 ---

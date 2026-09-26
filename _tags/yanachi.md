@@ -7,7 +7,7 @@ works:
       Koubishi Makuru H
     author: yanachi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654681.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-09-25'
     code: 654681
     url: /works/654681/
@@ -17,7 +17,7 @@ works:
       and Ends up in a Bareback 18-Girl Harem Orgy!!
     author: yanachi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681276.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-09-25'
     code: 681276
     url: /works/681276/

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "cheating"
-work_count: 293
+work_count: 294
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -366,7 +366,7 @@ works:
       Without a Condom!!
     author: kotobuki-maimu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/420017.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-25'
     code: 420017
     url: /works/420017/
@@ -447,7 +447,7 @@ works:
   - title: Nearest To Real LOVE “The Great Escape” Al~The Secret second season~
     author: ozaki-miray
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/458866.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-25'
     code: 458866
     url: /works/458866/
@@ -806,7 +806,7 @@ works:
   - title: Konamirai
     author: zero-no-mono
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/552335.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-25'
     code: 552335
     url: /works/552335/
@@ -864,7 +864,7 @@ works:
   - title: My Study Method
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/562201.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-25'
     code: 562201
     url: /works/562201/
@@ -1258,14 +1258,14 @@ works:
       with Me
     author: bad-end-dreamer
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642393.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-09-25'
     code: 642393
     url: /works/642393/
   - title: Ryousai-chan ~Yukemuri Hen~ Jou + Ryousai-chan ~Yukemuri Hen~ Ge
     author: mappa-ninatta
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642602.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-25'
     code: 642602
     url: /works/642602/
@@ -2146,6 +2146,13 @@ works:
     date: '2026-09-25'
     code: 683725
     url: /works/683725/
+  - title: Katei Saien Vol. 1 | Lustful Housewife Vol. 1 ch. 1-4
+    author: kakutou-oukoku
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683984.jpg
+    rating: 4.3
+    date: '2026-09-25'
+    code: 683984
+    url: /works/683984/
   - title: Jokyoushi - Hot For Teachers | Female Teachers
     author: drill-murata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/81375.jpg

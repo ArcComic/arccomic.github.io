@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "crying"
-work_count: 24
+work_count: 25
 works:
   - title: Netorareru.~ Tsuma ga Ochi Yuku Hen'ai Kairaku no Hate ni...1-5 | NETORARERU,
       A Wife's Descent Into Sinful Pleasures 1-5
@@ -108,6 +108,13 @@ works:
     date: '2026-07-07'
     code: 661894
     url: /works/661894/
+  - title: Hokenshitsu Oji-san no Hairan Kari
+    author: mizusane
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/661967.jpg
+    rating: 4.5
+    date: '2026-09-25'
+    code: 661967
+    url: /works/661967/
   - title: Boku ni Yuuki ga Atta nara | If only I had the courage
     author: kamakiri-akagi-ryouichi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/663672.jpg

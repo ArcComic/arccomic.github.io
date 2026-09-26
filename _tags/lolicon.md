@@ -1,12 +1,12 @@
 ---
 layout: tag
 tag_name: "lolicon"
-work_count: 83
+work_count: 84
 works:
   - title: A-part | Apartment
     author: zero-no-mono
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/215019.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-09-25'
     code: 215019
     url: /works/215019/
@@ -247,7 +247,7 @@ works:
   - title: Mou Ichido, Kimi no Egao ga Mitai | I Want to See Your Smile Again
     author: toi-deisuke
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/652937.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-09-25'
     code: 652937
     url: /works/652937/
@@ -280,6 +280,13 @@ works:
     date: '2026-07-07'
     code: 661951
     url: /works/661951/
+  - title: Hokenshitsu Oji-san no Hairan Kari
+    author: mizusane
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/661967.jpg
+    rating: 4.5
+    date: '2026-09-25'
+    code: 661967
+    url: /works/661967/
   - title: Shiori no Nai Akumu
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662203.jpg

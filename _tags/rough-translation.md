@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "rough translation"
-work_count: 542
+work_count: 543
 works:
   - title: Watashi no Karada, Okashi Shimasu. Bunny Girl Edition
     author: nectar
@@ -379,7 +379,7 @@ works:
   - title: Onna Kishi Rize wa Koyoi mo Maotoko ni Dakareru 3
     author: akire
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/564863.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-25'
     code: 564863
     url: /works/564863/
@@ -721,7 +721,7 @@ works:
       Mita 11
     author: akire
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/620246.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-25'
     code: 620246
     url: /works/620246/
@@ -777,7 +777,7 @@ works:
   - title: Sono Bisque Doll wa H o Suru 2
     author: yahiro-pochi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/626430.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-25'
     code: 626430
     url: /works/626430/
@@ -1092,7 +1092,7 @@ works:
       with Me
     author: bad-end-dreamer
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642393.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-09-25'
     code: 642393
     url: /works/642393/
@@ -1127,7 +1127,7 @@ works:
   - title: Ryousai-chan ~Yukemuri Hen~ Jou + Ryousai-chan ~Yukemuri Hen~ Ge
     author: mappa-ninatta
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642602.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-25'
     code: 642602
     url: /works/642602/
@@ -1641,7 +1641,7 @@ works:
       Koubishi Makuru H
     author: yanachi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654681.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-09-25'
     code: 654681
     url: /works/654681/
@@ -2053,6 +2053,13 @@ works:
     date: '2026-07-09'
     code: 661954
     url: /works/661954/
+  - title: Hokenshitsu Oji-san no Hairan Kari
+    author: mizusane
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/661967.jpg
+    rating: 4.5
+    date: '2026-09-25'
+    code: 661967
+    url: /works/661967/
   - title: Even though I was supposed to sing that love first!
     author: densuke
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662094.jpg
@@ -2129,7 +2136,7 @@ works:
       Mita 12
     author: akire
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662670.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-25'
     code: 662670
     url: /works/662670/
@@ -3949,7 +3956,7 @@ works:
   - title: TS Shita Ore Rippa na Bitch ni Narimashita
     author: takutaku
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683814.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-25'
     code: 683814
     url: /works/683814/

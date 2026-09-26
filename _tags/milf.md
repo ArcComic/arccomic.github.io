@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "milf"
-work_count: 367
+work_count: 368
 works:
   - title: Life with Married Women Just Like a Manga 2 - Ch. 1-5
     author: hidemaru
@@ -27,7 +27,7 @@ works:
   - title: Birthday
     author: hashiba-yachi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/135719.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-25'
     code: 135719
     url: /works/135719/
@@ -76,7 +76,7 @@ works:
   - title: A-part | Apartment
     author: zero-no-mono
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/215019.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-09-25'
     code: 215019
     url: /works/215019/
@@ -949,7 +949,7 @@ works:
   - title: Konamirai
     author: zero-no-mono
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/552335.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-25'
     code: 552335
     url: /works/552335/
@@ -1042,7 +1042,7 @@ works:
   - title: My Study Method
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/562201.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-25'
     code: 562201
     url: /works/562201/
@@ -2685,6 +2685,13 @@ works:
     date: '2026-09-24'
     code: 683749
     url: /works/683749/
+  - title: Katei Saien Vol. 1 | Lustful Housewife Vol. 1 ch. 1-4
+    author: kakutou-oukoku
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683984.jpg
+    rating: 4.3
+    date: '2026-09-25'
+    code: 683984
+    url: /works/683984/
   - title: Jokyoushi - Hot For Teachers | Female Teachers
     author: drill-murata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/81375.jpg

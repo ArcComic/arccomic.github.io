@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "glasses"
-work_count: 214
+work_count: 215
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -928,7 +928,7 @@ works:
   - title: Mou Ichido, Kimi no Egao ga Mitai | I Want to See Your Smile Again
     author: toi-deisuke
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/652937.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-09-25'
     code: 652937
     url: /works/652937/
@@ -950,7 +950,7 @@ works:
       Koubishi Makuru H
     author: yanachi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654681.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-09-25'
     code: 654681
     url: /works/654681/
@@ -1014,6 +1014,13 @@ works:
     date: '2026-07-06'
     code: 661586
     url: /works/661586/
+  - title: Hokenshitsu Oji-san no Hairan Kari
+    author: mizusane
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/661967.jpg
+    rating: 4.5
+    date: '2026-09-25'
+    code: 661967
+    url: /works/661967/
   - title: Shiori no Nai Akumu
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662203.jpg
@@ -1398,7 +1405,7 @@ works:
       and Ends up in a Bareback 18-Girl Harem Orgy!!
     author: yanachi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681276.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-09-25'
     code: 681276
     url: /works/681276/
@@ -1564,7 +1571,7 @@ works:
       and Cute
     author: etuzan-jakusui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683841.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-25'
     code: 683841
     url: /works/683841/

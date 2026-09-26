@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "cunnilingus"
-work_count: 135
+work_count: 136
 works:
   - title: Love Approach
     author: hanafuda-sakurano
@@ -748,6 +748,13 @@ works:
     date: '2026-07-07'
     code: 661818
     url: /works/661818/
+  - title: Hokenshitsu Oji-san no Hairan Kari
+    author: mizusane
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/661967.jpg
+    rating: 4.5
+    date: '2026-09-25'
+    code: 661967
+    url: /works/661967/
   - title: Boshi Jouji ~Daisuki na Okaa-san to Konya Majiwaru~ - MOTHER AND SON LOVE
       AFFAIR | A Mother's Love ~Tonight I Become One With The Mom I Love~ Part 2
     author: shiono-kou
@@ -998,7 +1005,7 @@ works:
       and Cute
     author: etuzan-jakusui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683841.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-25'
     code: 683841
     url: /works/683841/

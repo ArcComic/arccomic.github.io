@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big breasts"
-work_count: 889
+work_count: 890
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -76,7 +76,7 @@ works:
   - title: A-part | Apartment
     author: zero-no-mono
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/215019.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-09-25'
     code: 215019
     url: /works/215019/
@@ -523,7 +523,7 @@ works:
       Without a Condom!!
     author: kotobuki-maimu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/420017.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-25'
     code: 420017
     url: /works/420017/
@@ -1463,7 +1463,7 @@ works:
   - title: Konamirai
     author: zero-no-mono
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/552335.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-25'
     code: 552335
     url: /works/552335/
@@ -1565,7 +1565,7 @@ works:
   - title: My Study Method
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/562201.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-25'
     code: 562201
     url: /works/562201/
@@ -1595,7 +1595,7 @@ works:
   - title: Onna Kishi Rize wa Koyoi mo Maotoko ni Dakareru 3
     author: akire
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/564863.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-25'
     code: 564863
     url: /works/564863/
@@ -2217,7 +2217,7 @@ works:
       Anthology #2'
     author: yahiro-pochi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/610915.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-25'
     code: 610915
     url: /works/610915/
@@ -2387,7 +2387,7 @@ works:
       Mita 11
     author: akire
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/620246.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-25'
     code: 620246
     url: /works/620246/
@@ -3000,7 +3000,7 @@ works:
   - title: Ryousai-chan ~Yukemuri Hen~ Jou + Ryousai-chan ~Yukemuri Hen~ Ge
     author: mappa-ninatta
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642602.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-25'
     code: 642602
     url: /works/642602/
@@ -3904,7 +3904,7 @@ works:
       Koubishi Makuru H
     author: yanachi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654681.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-09-25'
     code: 654681
     url: /works/654681/
@@ -4452,7 +4452,7 @@ works:
       Mita 12
     author: akire
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662670.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-25'
     code: 662670
     url: /works/662670/
@@ -5970,7 +5970,7 @@ works:
       and Ends up in a Bareback 18-Girl Harem Orgy!!
     author: yanachi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681276.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-09-25'
     code: 681276
     url: /works/681276/
@@ -6570,10 +6570,18 @@ works:
       and Cute
     author: etuzan-jakusui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683841.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-25'
     code: 683841
     url: /works/683841/
+  - title: BlueArch AzuLan Goblin Erogaki Goudou "1,000,000 GOBLINS ATTACK" | BlueArchive
+      AzuLane Goblin Erogaki Anthology "1,000,000 GOBLINS ATTACK"
+    author: asanagi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683992.jpg
+    rating: 4.7
+    date: '2026-09-25'
+    code: 683992
+    url: /works/683992/
   - title: Hottokenaino
     author: hara-shigeyuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/77864.jpg

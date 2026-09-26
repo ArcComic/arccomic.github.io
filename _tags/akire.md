@@ -6,7 +6,7 @@ works:
   - title: Onna Kishi Rize wa Koyoi mo Maotoko ni Dakareru 3
     author: akire
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/564863.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-25'
     code: 564863
     url: /works/564863/
@@ -14,7 +14,7 @@ works:
       Mita 11
     author: akire
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/620246.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-25'
     code: 620246
     url: /works/620246/
@@ -22,7 +22,7 @@ works:
       Mita 12
     author: akire
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662670.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-25'
     code: 662670
     url: /works/662670/

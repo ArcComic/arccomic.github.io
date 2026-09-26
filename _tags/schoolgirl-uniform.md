@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "schoolgirl uniform"
-work_count: 273
+work_count: 274
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -150,7 +150,7 @@ works:
       experience
     author: hitoi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/398514.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-25'
     code: 398514
     url: /works/398514/
@@ -282,7 +282,7 @@ works:
   - title: MOUSOU THEATER 67
     author: arino-hiroshi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/492981.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-25'
     code: 492981
     url: /works/492981/
@@ -655,7 +655,7 @@ works:
       Anthology #2'
     author: yahiro-pochi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/610915.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-25'
     code: 610915
     url: /works/610915/
@@ -738,7 +738,7 @@ works:
   - title: Sono Bisque Doll wa H o Suru 2
     author: yahiro-pochi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/626430.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-25'
     code: 626430
     url: /works/626430/
@@ -1366,6 +1366,13 @@ works:
     date: '2026-07-09'
     code: 661954
     url: /works/661954/
+  - title: Hokenshitsu Oji-san no Hairan Kari
+    author: mizusane
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/661967.jpg
+    rating: 4.5
+    date: '2026-09-25'
+    code: 661967
+    url: /works/661967/
   - title: Even though I was supposed to sing that love first!
     author: densuke
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662094.jpg

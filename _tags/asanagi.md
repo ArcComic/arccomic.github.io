@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "asanagi"
-work_count: 1
+work_count: 2
 works:
   - title: WSS ~Watashi ga Sakini Sukidatta no ni~ - Even Though I Loved Him First
     author: asanagi
@@ -10,4 +10,12 @@ works:
     date: '2026-08-21'
     code: 674639
     url: /works/674639/
+  - title: BlueArch AzuLan Goblin Erogaki Goudou "1,000,000 GOBLINS ATTACK" | BlueArchive
+      AzuLane Goblin Erogaki Anthology "1,000,000 GOBLINS ATTACK"
+    author: asanagi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683992.jpg
+    rating: 4.7
+    date: '2026-09-25'
+    code: 683992
+    url: /works/683992/
 ---

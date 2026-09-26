@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "original"
-work_count: 912
+work_count: 913
 works:
   - title: Natsu dake Koibito - Summer only Lover [English] =Forbidden Fetish + Ser
       Maggot=
@@ -356,7 +356,7 @@ works:
       experience
     author: hitoi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/398514.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-25'
     code: 398514
     url: /works/398514/
@@ -648,7 +648,7 @@ works:
   - title: Nearest To Real LOVE “The Great Escape” Al~The Secret second season~
     author: ozaki-miray
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/458866.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-25'
     code: 458866
     url: /works/458866/
@@ -1567,7 +1567,7 @@ works:
       Defeat: Downfall of the Violated and Plundered Sister'
     author: mochiji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/561133.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-25'
     code: 561133
     url: /works/561133/
@@ -1618,7 +1618,7 @@ works:
   - title: Onna Kishi Rize wa Koyoi mo Maotoko ni Dakareru 3
     author: akire
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/564863.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-25'
     code: 564863
     url: /works/564863/
@@ -2373,7 +2373,7 @@ works:
       Mita 11
     author: akire
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/620246.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-25'
     code: 620246
     url: /works/620246/
@@ -2838,7 +2838,7 @@ works:
       Arc 2-
     author: hitoi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/635879.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-25'
     code: 635879
     url: /works/635879/
@@ -3035,7 +3035,7 @@ works:
       with Me
     author: bad-end-dreamer
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642393.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-09-25'
     code: 642393
     url: /works/642393/
@@ -3070,7 +3070,7 @@ works:
   - title: Ryousai-chan ~Yukemuri Hen~ Jou + Ryousai-chan ~Yukemuri Hen~ Ge
     author: mappa-ninatta
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642602.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-25'
     code: 642602
     url: /works/642602/
@@ -4052,7 +4052,7 @@ works:
       Koubishi Makuru H
     author: yanachi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654681.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-09-25'
     code: 654681
     url: /works/654681/
@@ -4443,6 +4443,13 @@ works:
     date: '2026-07-09'
     code: 661954
     url: /works/661954/
+  - title: Hokenshitsu Oji-san no Hairan Kari
+    author: mizusane
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/661967.jpg
+    rating: 4.5
+    date: '2026-09-25'
+    code: 661967
+    url: /works/661967/
   - title: Even though I was supposed to sing that love first!
     author: densuke
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662094.jpg
@@ -4541,7 +4548,7 @@ works:
       Mita 12
     author: akire
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662670.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-25'
     code: 662670
     url: /works/662670/
@@ -4993,7 +5000,7 @@ works:
   - title: Namaiki na Kizoku Reijou ni Chijoku no Biyaku Tsurizeme o
     author: mochiji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/671813.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-25'
     code: 671813
     url: /works/671813/
@@ -6176,7 +6183,7 @@ works:
       and Ends up in a Bareback 18-Girl Harem Orgy!!
     author: yanachi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681276.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-09-25'
     code: 681276
     url: /works/681276/
@@ -6773,7 +6780,7 @@ works:
   - title: TS Shita Ore Rippa na Bitch ni Narimashita
     author: takutaku
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683814.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-25'
     code: 683814
     url: /works/683814/

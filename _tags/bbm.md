@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bbm"
-work_count: 94
+work_count: 96
 works:
   - title: Kindan no Hatemitsu
     author: ryuuta
@@ -67,7 +67,7 @@ works:
       experience
     author: hitoi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/398514.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-25'
     code: 398514
     url: /works/398514/
@@ -456,7 +456,7 @@ works:
   - title: Mou Ichido, Kimi no Egao ga Mitai | I Want to See Your Smile Again
     author: toi-deisuke
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/652937.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-09-25'
     code: 652937
     url: /works/652937/
@@ -518,6 +518,13 @@ works:
     date: '2026-07-09'
     code: 661954
     url: /works/661954/
+  - title: Hokenshitsu Oji-san no Hairan Kari
+    author: mizusane
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/661967.jpg
+    rating: 4.5
+    date: '2026-09-25'
+    code: 661967
+    url: /works/661967/
   - title: Shoujo Baishun Shima | Girl Prostitution Island
     author: nada-shio
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662647.jpg
@@ -559,7 +566,7 @@ works:
   - title: Namaiki na Kizoku Reijou ni Chijoku no Biyaku Tsurizeme o
     author: mochiji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/671813.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-25'
     code: 671813
     url: /works/671813/
@@ -698,4 +705,11 @@ works:
     date: '2026-09-23'
     code: 683406
     url: /works/683406/
+  - title: Katei Saien Vol. 1 | Lustful Housewife Vol. 1 ch. 1-4
+    author: kakutou-oukoku
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683984.jpg
+    rating: 4.3
+    date: '2026-09-25'
+    code: 683984
+    url: /works/683984/
 ---

@@ -1,12 +1,12 @@
 ---
 layout: tag
 tag_name: "ugly bastard"
-work_count: 16
+work_count: 17
 works:
   - title: A-part | Apartment
     author: zero-no-mono
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/215019.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-09-25'
     code: 215019
     url: /works/215019/
@@ -14,7 +14,7 @@ works:
       experience
     author: hitoi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/398514.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-25'
     code: 398514
     url: /works/398514/
@@ -58,7 +58,7 @@ works:
   - title: Mou Ichido, Kimi no Egao ga Mitai | I Want to See Your Smile Again
     author: toi-deisuke
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/652937.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-09-25'
     code: 652937
     url: /works/652937/
@@ -73,7 +73,7 @@ works:
       Koubishi Makuru H
     author: yanachi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654681.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-09-25'
     code: 654681
     url: /works/654681/
@@ -99,6 +99,13 @@ works:
     date: '2026-07-09'
     code: 661954
     url: /works/661954/
+  - title: Hokenshitsu Oji-san no Hairan Kari
+    author: mizusane
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/661967.jpg
+    rating: 4.5
+    date: '2026-09-25'
+    code: 661967
+    url: /works/661967/
   - title: Shoujo Baishun Shima | Girl Prostitution Island
     author: nada-shio
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662647.jpg
@@ -110,7 +117,7 @@ works:
       Mita 12
     author: akire
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662670.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-25'
     code: 662670
     url: /works/662670/

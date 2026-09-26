@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "smalldom"
-work_count: 25
+work_count: 26
 works:
   - title: Uwa, Mesugaki Tsuyoi! | Crap, This Mesugaki's Too Powerful!
     author: poncocchan
@@ -185,4 +185,12 @@ works:
     date: '2026-09-19'
     code: 682326
     url: /works/682326/
+  - title: BlueArch AzuLan Goblin Erogaki Goudou "1,000,000 GOBLINS ATTACK" | BlueArchive
+      AzuLane Goblin Erogaki Anthology "1,000,000 GOBLINS ATTACK"
+    author: asanagi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683992.jpg
+    rating: 4.7
+    date: '2026-09-25'
+    code: 683992
+    url: /works/683992/
 ---

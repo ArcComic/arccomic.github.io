@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole female"
-work_count: 768
+work_count: 770
 works:
   - title: Adoration
     author: kishizuka-kenji
@@ -545,7 +545,7 @@ works:
       experience
     author: hitoi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/398514.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-25'
     code: 398514
     url: /works/398514/
@@ -590,7 +590,7 @@ works:
   - title: My Dress Up Corpse
     author: mr-kurz
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/408427.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-25'
     code: 408427
     url: /works/408427/
@@ -878,7 +878,7 @@ works:
   - title: Nearest To Real LOVE “The Great Escape” Al~The Secret second season~
     author: ozaki-miray
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/458866.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-25'
     code: 458866
     url: /works/458866/
@@ -1061,7 +1061,7 @@ works:
   - title: MOUSOU THEATER 67
     author: arino-hiroshi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/492981.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-25'
     code: 492981
     url: /works/492981/
@@ -1592,7 +1592,7 @@ works:
   - title: Konamirai
     author: zero-no-mono
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/552335.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-25'
     code: 552335
     url: /works/552335/
@@ -2305,7 +2305,7 @@ works:
       Anthology #2'
     author: yahiro-pochi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/610915.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-25'
     code: 610915
     url: /works/610915/
@@ -2467,7 +2467,7 @@ works:
   - title: Sono Bisque Doll wa H o Suru 2
     author: yahiro-pochi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/626430.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-25'
     code: 626430
     url: /works/626430/
@@ -2809,7 +2809,7 @@ works:
   - title: Rental Kanojo Osawari Shimasu 9 ー Grope-a-Girlfriend 9
     author: yahiro-pochi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638696.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-25'
     code: 638696
     url: /works/638696/
@@ -3961,6 +3961,13 @@ works:
     date: '2026-07-09'
     code: 661954
     url: /works/661954/
+  - title: Hokenshitsu Oji-san no Hairan Kari
+    author: mizusane
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/661967.jpg
+    rating: 4.5
+    date: '2026-09-25'
+    code: 661967
+    url: /works/661967/
   - title: Kasshoku Oneesan no Fudeoroshi Ver. 6 | Brown Lady Takes His First Time Ver.
       6
     author: ahugan-sugita
@@ -4419,7 +4426,7 @@ works:
   - title: Namaiki na Kizoku Reijou ni Chijoku no Biyaku Tsurizeme o
     author: mochiji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/671813.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-25'
     code: 671813
     url: /works/671813/
@@ -5680,7 +5687,7 @@ works:
   - title: TS Shita Ore Rippa na Bitch ni Narimashita
     author: takutaku
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683814.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-25'
     code: 683814
     url: /works/683814/
@@ -5688,8 +5695,15 @@ works:
       and Cute
     author: etuzan-jakusui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683841.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-25'
     code: 683841
     url: /works/683841/
+  - title: Katei Saien Vol. 1 | Lustful Housewife Vol. 1 ch. 1-4
+    author: kakutou-oukoku
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683984.jpg
+    rating: 4.3
+    date: '2026-09-25'
+    code: 683984
+    url: /works/683984/
 ---

@@ -160,7 +160,7 @@ works:
       Arc 2-
     author: hitoi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/635879.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-25'
     code: 635879
     url: /works/635879/
