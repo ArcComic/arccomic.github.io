@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bald"
-work_count: 66
+work_count: 67
 works:
   - title: Overwrite
     author: ojo
@@ -31,6 +31,13 @@ works:
     date: '2026-09-09'
     code: 306363
     url: /works/306363/
+  - title: Komorebi no Ori
+    author: hitoi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/309899.jpg
+    rating: 0.0
+    date: '2026-09-26'
+    code: 309899
+    url: /works/309899/
   - title: Tsumareta Ikoku no Hana II
     author: darabuchi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/315693.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "schoolboy uniform"
-work_count: 79
+work_count: 83
 works:
   - title: FLUFFY LAUGH GIRL
     author: shibasaki-syouzi
@@ -17,6 +17,14 @@ works:
     date: '2026-09-04'
     code: 294902
     url: /works/294902/
+  - title: Gakkou to Bed ja Seihantai no, Okkina Kanojo. | My Big Girlfriend Acts the
+      Polar Opposite in Bed and at School.
+    author: mikemono-yuu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/312665.jpg
+    rating: 4.2
+    date: '2026-09-26'
+    code: 312665
+    url: /works/312665/
   - title: Hajimete Kanojo Ga Dekita No Ni
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/316579.jpg
@@ -89,6 +97,14 @@ works:
     date: '2026-09-13'
     code: 388627
     url: /works/388627/
+  - title: I Was Devoured by My Gyaru Senpai (COMIC Anthurium 2021-10) + I Made My Gyaru
+      Senpai Cum Over & Over Doggy Style
+    author: arimura-daikon
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/396702.jpg
+    rating: 0.0
+    date: '2026-09-26'
+    code: 396702
+    url: /works/396702/
   - title: Shuudan Jotaika Gyaru, Ochiru | Mass-Gender Bended Gyarus, Fall into Depravity
     author: betty
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/414300.jpg
@@ -142,6 +158,13 @@ works:
     date: '2026-09-07'
     code: 482560
     url: /works/482560/
+  - title: Boku no Doutei wa Neteru Aida ni... Ubawaremashita
+    author: kinntarou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/490633.jpg
+    rating: 0.0
+    date: '2026-09-26'
+    code: 490633
+    url: /works/490633/
   - title: MOUSOU THEATER 67
     author: arino-hiroshi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/492981.jpg
@@ -581,6 +604,13 @@ works:
     date: '2026-09-24'
     code: 683690
     url: /works/683690/
+  - title: Tonikaku Yaritai Gal ga Kyokon Otaku ni Deattara
+    author: tokunaga
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684061.jpg
+    rating: 4.1
+    date: '2026-09-26'
+    code: 684061
+    url: /works/684061/
   - title: Jokyoushi - Hot For Teachers | Female Teachers
     author: drill-murata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/81375.jpg

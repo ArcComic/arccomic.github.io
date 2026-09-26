@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "no penetration"
-work_count: 36
+work_count: 37
 works:
   - title: Watashi-tachi no Seikoui Tokubetsu Jisshuu -Zengi Hen-
     author: guglielmo
@@ -40,6 +40,13 @@ works:
     date: '2026-09-22'
     code: 579290
     url: /works/579290/
+  - title: Zamen Oogui Taikai | The Cum-Binge-Eating Championship
+    author: yufuck
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/583437.jpg
+    rating: 0.0
+    date: '2026-09-26'
+    code: 583437
+    url: /works/583437/
   - title: Asuna family 1-42
     author: zhi-yitiaomiao
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/588660.jpg

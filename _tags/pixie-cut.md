@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "pixie cut"
-work_count: 71
+work_count: 73
 works:
   - title: Last Chance
     author: herio
@@ -539,4 +539,22 @@ works:
     date: '2026-09-24'
     code: 683690
     url: /works/683690/
+  - title: Ore no Seiheki o Guchagucha ni Shite Oite Shiranai Aida ni Kekkon Shite ita
+      Moto SeFri to Saigo no Bachiboko Sex Osame suru Hanashi | A story about having
+      one last wild, wild sex session with my ex-fuck buddy— The one who messed with
+      my kinks and then got married behind my back
+    author: nako-sir
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684077.jpg
+    rating: 0.0
+    date: '2026-09-26'
+    code: 684077
+    url: /works/684077/
+  - title: Trans Couple ~Ore ga Onna de Kanojo ga Otoko~｜Trans Couple -I'm the Girl
+      and My GF is the Guy-
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684139.jpg
+    rating: 4.9
+    date: '2026-09-26'
+    code: 684139
+    url: /works/684139/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "squirting"
-work_count: 113
+work_count: 117
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -219,6 +219,13 @@ works:
     date: '2026-04-19'
     code: 580427
     url: /works/580427/
+  - title: Anata Senyou no Niku Onaho desu | Your very own meat onahole
+    author: noe
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/581946.jpg
+    rating: 0.0
+    date: '2026-09-26'
+    code: 581946
+    url: /works/581946/
   - title: 'Moto Mahou Shoujo no Shigoto Hanashi Ao Zenjitsutan | Former Magical Girl
       Blue''s Work: The Prequel'
     author: zhen-lu
@@ -848,4 +855,29 @@ works:
     date: '2026-09-25'
     code: 683841
     url: /works/683841/
+  - title: Tonikaku Yaritai Gal ga Kyokon Otaku ni Deattara
+    author: tokunaga
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684061.jpg
+    rating: 4.1
+    date: '2026-09-26'
+    code: 684061
+    url: /works/684061/
+  - title: Ore no Seiheki o Guchagucha ni Shite Oite Shiranai Aida ni Kekkon Shite ita
+      Moto SeFri to Saigo no Bachiboko Sex Osame suru Hanashi | A story about having
+      one last wild, wild sex session with my ex-fuck buddy— The one who messed with
+      my kinks and then got married behind my back
+    author: nako-sir
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684077.jpg
+    rating: 0.0
+    date: '2026-09-26'
+    code: 684077
+    url: /works/684077/
+  - title: Watashi no Oshiri no Hajimete o Anata-sama ni Sasagemasu | I offer my ass
+      to you for the first time
+    author: nadayui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684127.jpg
+    rating: 4.1
+    date: '2026-09-26'
+    code: 684127
+    url: /works/684127/
 ---

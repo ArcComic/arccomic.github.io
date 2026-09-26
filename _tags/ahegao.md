@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "ahegao"
-work_count: 246
+work_count: 253
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -54,6 +54,14 @@ works:
     date: '2026-07-17'
     code: 300943
     url: /works/300943/
+  - title: Gakkou to Bed ja Seihantai no, Okkina Kanojo. | My Big Girlfriend Acts the
+      Polar Opposite in Bed and at School.
+    author: mikemono-yuu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/312665.jpg
+    rating: 4.2
+    date: '2026-09-26'
+    code: 312665
+    url: /works/312665/
   - title: Ryoujoku Gakuen
     author: motchie
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/332375.jpg
@@ -236,6 +244,13 @@ works:
     date: '2026-07-17'
     code: 477784
     url: /works/477784/
+  - title: Osananajimi wa Owari｜End of a Childhood Friendship
+    author: henkuma
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/491312.jpg
+    rating: 4.2
+    date: '2026-09-26'
+    code: 491312
+    url: /works/491312/
   - title: Bocchi de Shinda Ore ga Bishoujo Nurse ni Natta Hanashi | The Story of How
       I Died Alone and Became a Sexy Nurse
     author: testame
@@ -553,6 +568,14 @@ works:
     date: '2026-03-02'
     code: 603756
     url: /works/603756/
+  - title: Mugon Muhyoujou no Kasshoku Elf, Rental Shitemasu + Gojitsudan | Rent-an-Elf
+      + Afterstory
+    author: takurowo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/610903.jpg
+    rating: 0.0
+    date: '2026-09-26'
+    code: 610903
+    url: /works/610903/
   - title: TS Goods Panic ~Iritani Kyoudai no Baai~ | TS Goods Panic ~The Case of the
       Iriya's Siblings~
     author: regdic
@@ -1840,6 +1863,38 @@ works:
     date: '2026-09-25'
     code: 683814
     url: /works/683814/
+  - title: It's Not Like We're Related
+    author: zonebell-tsukiji
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684010.jpg
+    rating: 0.0
+    date: '2026-09-26'
+    code: 684010
+    url: /works/684010/
+  - title: Tonikaku Yaritai Gal ga Kyokon Otaku ni Deattara
+    author: tokunaga
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684061.jpg
+    rating: 4.1
+    date: '2026-09-26'
+    code: 684061
+    url: /works/684061/
+  - title: Ore no Seiheki o Guchagucha ni Shite Oite Shiranai Aida ni Kekkon Shite ita
+      Moto SeFri to Saigo no Bachiboko Sex Osame suru Hanashi | A story about having
+      one last wild, wild sex session with my ex-fuck buddy— The one who messed with
+      my kinks and then got married behind my back
+    author: nako-sir
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684077.jpg
+    rating: 0.0
+    date: '2026-09-26'
+    code: 684077
+    url: /works/684077/
+  - title: Watashi no Oshiri no Hajimete o Anata-sama ni Sasagemasu | I offer my ass
+      to you for the first time
+    author: nadayui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684127.jpg
+    rating: 4.1
+    date: '2026-09-26'
+    code: 684127
+    url: /works/684127/
   - title: Inin Keiyaku | Lewd Pregnancy Contract
     author: yoshiura-kazuya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/83595.jpg

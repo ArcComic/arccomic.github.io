@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "blowjob"
-work_count: 515
+work_count: 529
 works:
   - title: Office Love Scramble Ch. 1
     author: tohzai
@@ -117,6 +117,14 @@ works:
     date: '2026-09-12'
     code: 306725
     url: /works/306725/
+  - title: Gakkou to Bed ja Seihantai no, Okkina Kanojo. | My Big Girlfriend Acts the
+      Polar Opposite in Bed and at School.
+    author: mikemono-yuu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/312665.jpg
+    rating: 4.2
+    date: '2026-09-26'
+    code: 312665
+    url: /works/312665/
   - title: Tsumareta Ikoku no Hana II
     author: darabuchi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/315693.jpg
@@ -285,6 +293,14 @@ works:
     date: '2026-09-18'
     code: 396367
     url: /works/396367/
+  - title: I Was Devoured by My Gyaru Senpai (COMIC Anthurium 2021-10) + I Made My Gyaru
+      Senpai Cum Over & Over Doggy Style
+    author: arimura-daikon
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/396702.jpg
+    rating: 0.0
+    date: '2026-09-26'
+    code: 396702
+    url: /works/396702/
   - title: Enkou Kanojo to Kengakukai | Paid dates with my girlfriend prostitute side-by-side
       experience
     author: hitoi
@@ -563,6 +579,13 @@ works:
     date: '2026-04-17'
     code: 489004
     url: /works/489004/
+  - title: Boku no Doutei wa Neteru Aida ni... Ubawaremashita
+    author: kinntarou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/490633.jpg
+    rating: 0.0
+    date: '2026-09-26'
+    code: 490633
+    url: /works/490633/
   - title: Boku no Chuugoku Bijin Slender Kyonyuu Tsuma ga Camera Model de Nugasarete
       Yarichin Tomo ni Netorareta Ken
     author: mitoreiyu
@@ -623,6 +646,13 @@ works:
     date: '2026-04-23'
     code: 506303
     url: /works/506303/
+  - title: Mochimochi Nao's Sweet and Sexy Story That Makes You Melt
+    author: nako-sir
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/506789.jpg
+    rating: 4.8
+    date: '2026-09-26'
+    code: 506789
+    url: /works/506789/
   - title: Senpai, Sonna no Shiranai desu ~Bansou shite ita Kare no Yubi wa Ima, Watashi
       no Naka o Midashiteru~ | Senpai, I Don't Know About That - His Fingers That Were
       Accompaniment are now Disturbing my Vagina
@@ -1072,6 +1102,13 @@ works:
     date: '2026-04-19'
     code: 580427
     url: /works/580427/
+  - title: Anata Senyou no Niku Onaho desu | Your very own meat onahole
+    author: noe
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/581946.jpg
+    rating: 0.0
+    date: '2026-09-26'
+    code: 581946
+    url: /works/581946/
   - title: Meshitaki san-nen, nigiri ichi-nen | Three Years to Master Rice, One Year
       to Master Nigiri
     author: polier
@@ -1080,6 +1117,13 @@ works:
     date: '2026-07-07'
     code: 583391
     url: /works/583391/
+  - title: Zamen Oogui Taikai | The Cum-Binge-Eating Championship
+    author: yufuck
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/583437.jpg
+    rating: 0.0
+    date: '2026-09-26'
+    code: 583437
+    url: /works/583437/
   - title: Watashi, Mada Suki da yo. - I still love you. ~Mukashi Futta Doukyuusei ga
       Akanuke Bakunyuu Gravia Idol ni Natte Kanojo Mochi no Ore o Yuuwaku Shitekuru
       Gyaku NTR Uwaki Sex~ | I Still Love You. ~My EX has become a Busty Gravure Idol
@@ -2402,6 +2446,13 @@ works:
     date: '2026-05-10'
     code: 649114
     url: /works/649114/
+  - title: Sukebe Gal no Cosplayer to Offpako Shiteru Hanashi
+    author: inu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/650302.jpg
+    rating: 0.0
+    date: '2026-09-26'
+    code: 650302
+    url: /works/650302/
   - title: Ally-san wa Doko Demo Ikitai!! 3
     author: inukami-inoji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/650926.jpg
@@ -2547,6 +2598,14 @@ works:
     date: '2026-09-25'
     code: 652937
     url: /works/652937/
+  - title: Namaiki Gal o Succubus ni Shite Oshioki Shitatta Ken 4 | Bewitched Reckoning
+      How I Turned My Bully Into a Succubus 4
+    author: takurowo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/653287.jpg
+    rating: 4.9
+    date: '2026-09-26'
+    code: 653287
+    url: /works/653287/
   - title: Majime na Kimi ni Hamaru Karada
     author: alp
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654010.jpg
@@ -2554,6 +2613,13 @@ works:
     date: '2026-09-18'
     code: 654010
     url: /works/654010/
+  - title: Until I Take Everything From You 3-B
+    author: takotokite
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654244.jpg
+    rating: 0.0
+    date: '2026-09-26'
+    code: 654244
+    url: /works/654244/
   - title: Yabai oji | Dangerous Uncle
     author: chinpan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654645.jpg
@@ -3816,6 +3882,47 @@ works:
     date: '2026-09-25'
     code: 683814
     url: /works/683814/
+  - title: It's Not Like We're Related
+    author: zonebell-tsukiji
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684010.jpg
+    rating: 0.0
+    date: '2026-09-26'
+    code: 684010
+    url: /works/684010/
+  - title: Tonikaku Yaritai Gal ga Kyokon Otaku ni Deattara
+    author: tokunaga
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684061.jpg
+    rating: 4.1
+    date: '2026-09-26'
+    code: 684061
+    url: /works/684061/
+  - title: Ore no Seiheki o Guchagucha ni Shite Oite Shiranai Aida ni Kekkon Shite ita
+      Moto SeFri to Saigo no Bachiboko Sex Osame suru Hanashi | A story about having
+      one last wild, wild sex session with my ex-fuck buddy— The one who messed with
+      my kinks and then got married behind my back
+    author: nako-sir
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684077.jpg
+    rating: 0.0
+    date: '2026-09-26'
+    code: 684077
+    url: /works/684077/
+  - title: '"BSS" Zutto Suki Datta Tonari no Seki no Onnanoko ga Shinyuu no Yokodori
+      Sareru Hanashi | [BSS] The Story of How the Girl Next To My Seat Whom I''ve Always
+      Liked Was Stolen by My Best Friend'
+    author: kuroneko
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684124.jpg
+    rating: 0.0
+    date: '2026-09-26'
+    code: 684124
+    url: /works/684124/
+  - title: Watashi no Oshiri no Hajimete o Anata-sama ni Sasagemasu | I offer my ass
+      to you for the first time
+    author: nadayui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684127.jpg
+    rating: 4.1
+    date: '2026-09-26'
+    code: 684127
+    url: /works/684127/
   - title: Jokyoushi - Hot For Teachers | Female Teachers
     author: drill-murata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/81375.jpg

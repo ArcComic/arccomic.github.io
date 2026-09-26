@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "defloration"
-work_count: 194
+work_count: 196
 works:
   - title: Imitation Family + Bigibo Hen
     author: tohzai
@@ -52,6 +52,13 @@ works:
     date: '2026-09-12'
     code: 306725
     url: /works/306725/
+  - title: Komorebi no Ori
+    author: hitoi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/309899.jpg
+    rating: 0.0
+    date: '2026-09-26'
+    code: 309899
+    url: /works/309899/
   - title: Onee-chan ga Ecchi na Koto bakka Suru kara... | My older sister only does
       obscene things...
     author: danimaru
@@ -302,6 +309,13 @@ works:
     date: '2026-05-04'
     code: 484860
     url: /works/484860/
+  - title: Osananajimi wa Owari｜End of a Childhood Friendship
+    author: henkuma
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/491312.jpg
+    rating: 4.2
+    date: '2026-09-26'
+    code: 491312
+    url: /works/491312/
   - title: Irekawatte Dotabata Ecchi! ~Aya-nee no Binkan na Karada ni Ore wa Taerarenai
       | Switch bodies and have noisy sex! I can't stand Ayanee's sensitive body 1-6
     author: suishin-tenra

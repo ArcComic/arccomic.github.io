@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "netorare"
-work_count: 352
+work_count: 360
 works:
   - title: Kousa suru Osu to Mesu | Male and Female Crossing
     author: ootsuka-kotora
@@ -102,6 +102,13 @@ works:
     date: '2026-09-22'
     code: 307241
     url: /works/307241/
+  - title: Komorebi no Ori
+    author: hitoi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/309899.jpg
+    rating: 0.0
+    date: '2026-09-26'
+    code: 309899
+    url: /works/309899/
   - title: Itomusubi Vol. 2
     author: bekotarou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/311755.jpg
@@ -180,6 +187,14 @@ works:
     date: '2026-04-25'
     code: 388099
     url: /works/388099/
+  - title: I Was Devoured by My Gyaru Senpai (COMIC Anthurium 2021-10) + I Made My Gyaru
+      Senpai Cum Over & Over Doggy Style
+    author: arimura-daikon
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/396702.jpg
+    rating: 0.0
+    date: '2026-09-26'
+    code: 396702
+    url: /works/396702/
   - title: Giragira no Beach
     author: shimantogawa
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/397251.jpg
@@ -452,6 +467,20 @@ works:
     date: '2026-04-19'
     code: 487275
     url: /works/487275/
+  - title: Boku no Doutei wa Neteru Aida ni... Ubawaremashita
+    author: kinntarou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/490633.jpg
+    rating: 0.0
+    date: '2026-09-26'
+    code: 490633
+    url: /works/490633/
+  - title: Osananajimi wa Owari｜End of a Childhood Friendship
+    author: henkuma
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/491312.jpg
+    rating: 4.2
+    date: '2026-09-26'
+    code: 491312
+    url: /works/491312/
   - title: Boku no Chuugoku Bijin Slender Kyonyuu Tsuma ga Camera Model de Nugasarete
       Yarichin Tomo ni Netorareta Ken
     author: mitoreiyu
@@ -874,6 +903,13 @@ works:
     date: '2026-04-25'
     code: 579339
     url: /works/579339/
+  - title: Anata Senyou no Niku Onaho desu | Your very own meat onahole
+    author: noe
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/581946.jpg
+    rating: 0.0
+    date: '2026-09-26'
+    code: 581946
+    url: /works/581946/
   - title: 'Anata to Watashi no Ayamachi ~Bangaihen Kairaku Ochi e no Ippo~ | Our Mistake
       ~Side Story: A Step Towards the Fall into Pleasure~'
     author: zionman
@@ -1624,6 +1660,13 @@ works:
     date: '2026-09-24'
     code: 654240
     url: /works/654240/
+  - title: Until I Take Everything From You 3-B
+    author: takotokite
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654244.jpg
+    rating: 0.0
+    date: '2026-09-26'
+    code: 654244
+    url: /works/654244/
   - title: Himaten NTR 19P
     author: terasu-mc
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654484.jpg
@@ -1653,6 +1696,13 @@ works:
     date: '2026-07-16'
     code: 655498
     url: /works/655498/
+  - title: 'Oshi No Ko BEHIND THE STAGE #2'
+    author: gsus
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/655528.jpg
+    rating: 0.0
+    date: '2026-09-26'
+    code: 655528
+    url: /works/655528/
   - title: Zessan Haishinchuu Gibo Nikubenki Keikaku! Ch.1-5
     author: maki-daikichi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/656140.jpg
@@ -2593,6 +2643,15 @@ works:
     date: '2026-09-25'
     code: 683992
     url: /works/683992/
+  - title: '"BSS" Zutto Suki Datta Tonari no Seki no Onnanoko ga Shinyuu no Yokodori
+      Sareru Hanashi | [BSS] The Story of How the Girl Next To My Seat Whom I''ve Always
+      Liked Was Stolen by My Best Friend'
+    author: kuroneko
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684124.jpg
+    rating: 0.0
+    date: '2026-09-26'
+    code: 684124
+    url: /works/684124/
   - title: Inin Keiyaku | Lewd Pregnancy Contract
     author: yoshiura-kazuya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/83595.jpg

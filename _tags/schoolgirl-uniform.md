@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "schoolgirl uniform"
-work_count: 274
+work_count: 282
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -32,6 +32,14 @@ works:
     date: '2026-07-17'
     code: 289523
     url: /works/289523/
+  - title: Gakkou to Bed ja Seihantai no, Okkina Kanojo. | My Big Girlfriend Acts the
+      Polar Opposite in Bed and at School.
+    author: mikemono-yuu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/312665.jpg
+    rating: 4.2
+    date: '2026-09-26'
+    code: 312665
+    url: /works/312665/
   - title: Hajimete Kanojo Ga Dekita No Ni
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/316579.jpg
@@ -146,6 +154,14 @@ works:
     date: '2026-09-13'
     code: 388627
     url: /works/388627/
+  - title: I Was Devoured by My Gyaru Senpai (COMIC Anthurium 2021-10) + I Made My Gyaru
+      Senpai Cum Over & Over Doggy Style
+    author: arimura-daikon
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/396702.jpg
+    rating: 0.0
+    date: '2026-09-26'
+    code: 396702
+    url: /works/396702/
   - title: Enkou Kanojo to Kengakukai | Paid dates with my girlfriend prostitute side-by-side
       experience
     author: hitoi
@@ -279,6 +295,13 @@ works:
     date: '2026-05-04'
     code: 484860
     url: /works/484860/
+  - title: Boku no Doutei wa Neteru Aida ni... Ubawaremashita
+    author: kinntarou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/490633.jpg
+    rating: 0.0
+    date: '2026-09-26'
+    code: 490633
+    url: /works/490633/
   - title: MOUSOU THEATER 67
     author: arino-hiroshi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/492981.jpg
@@ -309,6 +332,13 @@ works:
     date: '2026-09-17'
     code: 504913
     url: /works/504913/
+  - title: Mochimochi Nao's Sweet and Sexy Story That Makes You Melt
+    author: nako-sir
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/506789.jpg
+    rating: 4.8
+    date: '2026-09-26'
+    code: 506789
+    url: /works/506789/
   - title: Do-S Yankee JK to Do-M Hentai Teacher
     author: naganeko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/512715.jpg
@@ -544,6 +574,13 @@ works:
     date: '2026-04-19'
     code: 580427
     url: /works/580427/
+  - title: Zamen Oogui Taikai | The Cum-Binge-Eating Championship
+    author: yufuck
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/583437.jpg
+    rating: 0.0
+    date: '2026-09-26'
+    code: 583437
+    url: /works/583437/
   - title: Watashi, Mada Suki da yo. - I still love you. ~Mukashi Futta Doukyuusei ga
       Akanuke Bakunyuu Gravia Idol ni Natte Kanojo Mochi no Ore o Yuuwaku Shitekuru
       Gyaku NTR Uwaki Sex~ | I Still Love You. ~My EX has become a Busty Gravure Idol
@@ -1124,6 +1161,13 @@ works:
     date: '2026-05-07'
     code: 648522
     url: /works/648522/
+  - title: Sukebe Gal no Cosplayer to Offpako Shiteru Hanashi
+    author: inu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/650302.jpg
+    rating: 0.0
+    date: '2026-09-26'
+    code: 650302
+    url: /works/650302/
   - title: Oshiego no Gal o Kau
     author: mitsudoue
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651197.jpg
@@ -2040,4 +2084,20 @@ works:
     date: '2026-09-24'
     code: 683690
     url: /works/683690/
+  - title: Tonikaku Yaritai Gal ga Kyokon Otaku ni Deattara
+    author: tokunaga
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684061.jpg
+    rating: 4.1
+    date: '2026-09-26'
+    code: 684061
+    url: /works/684061/
+  - title: '"BSS" Zutto Suki Datta Tonari no Seki no Onnanoko ga Shinyuu no Yokodori
+      Sareru Hanashi | [BSS] The Story of How the Girl Next To My Seat Whom I''ve Always
+      Liked Was Stolen by My Best Friend'
+    author: kuroneko
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684124.jpg
+    rating: 0.0
+    date: '2026-09-26'
+    code: 684124
+    url: /works/684124/
 ---

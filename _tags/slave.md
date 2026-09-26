@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "slave"
-work_count: 11
+work_count: 12
 works:
+  - title: Komorebi no Ori
+    author: hitoi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/309899.jpg
+    rating: 0.0
+    date: '2026-09-26'
+    code: 309899
+    url: /works/309899/
   - title: Tonight, my wife is being exposed and...
     author: mon-mon
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/329551.jpg

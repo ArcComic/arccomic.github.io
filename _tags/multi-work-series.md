@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "multi-work series"
-work_count: 309
+work_count: 313
 works:
   - title: Oppai na Natsuyasumi 2 | The Summer Break of Boobs 2
     author: higashino-mikan
@@ -685,6 +685,13 @@ works:
     date: '2026-07-17'
     code: 582290
     url: /works/582290/
+  - title: Shinchou 211 cm no Jirai-kei Joshi ni Nerawarete mou Nigerarenai 2
+    author: kinntarou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/584135.jpg
+    rating: 0.0
+    date: '2026-09-26'
+    code: 584135
+    url: /works/584135/
   - title: Chiguhagu Kanojo | Mismatched Girlfriend
     author: natsuo-tsunao
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/584260.jpg
@@ -1440,6 +1447,13 @@ works:
     date: '2026-09-24'
     code: 649317
     url: /works/649317/
+  - title: Sukebe Gal no Cosplayer to Offpako Shiteru Hanashi
+    author: inu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/650302.jpg
+    rating: 0.0
+    date: '2026-09-26'
+    code: 650302
+    url: /works/650302/
   - title: Ally-san wa Doko Demo Ikitai!! 3
     author: inukami-inoji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/650926.jpg
@@ -1491,6 +1505,14 @@ works:
     date: '2026-05-27'
     code: 652836
     url: /works/652836/
+  - title: Namaiki Gal o Succubus ni Shite Oshioki Shitatta Ken 4 | Bewitched Reckoning
+      How I Turned My Bully Into a Succubus 4
+    author: takurowo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/653287.jpg
+    rating: 4.9
+    date: '2026-09-26'
+    code: 653287
+    url: /works/653287/
   - title: Until I Take Everything From You 2-C
     author: takotokite
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654240.jpg
@@ -1498,6 +1520,13 @@ works:
     date: '2026-09-24'
     code: 654240
     url: /works/654240/
+  - title: Until I Take Everything From You 3-B
+    author: takotokite
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654244.jpg
+    rating: 0.0
+    date: '2026-09-26'
+    code: 654244
+    url: /works/654244/
   - title: Until I Take Everything From You 4
     author: takotokite
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654249.jpg

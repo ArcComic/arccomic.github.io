@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "focus anal"
-work_count: 7
+work_count: 8
 works:
   - title: Iemoto no Uwaki ga Honki ni Natta Hi Zenpen | The Day the Grand Master's
       Affair Became Serious Part One
@@ -53,4 +53,12 @@ works:
     date: '2026-07-11'
     code: 663142
     url: /works/663142/
+  - title: Watashi no Oshiri no Hajimete o Anata-sama ni Sasagemasu | I offer my ass
+      to you for the first time
+    author: nadayui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684127.jpg
+    rating: 4.1
+    date: '2026-09-26'
+    code: 684127
+    url: /works/684127/
 ---

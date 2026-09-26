@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "glasses"
-work_count: 215
+work_count: 219
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -161,6 +161,13 @@ works:
     date: '2026-09-06'
     code: 396089
     url: /works/396089/
+  - title: SUCCUBUS MONOGATARI
+    author: mackgee
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/400846.jpg
+    rating: 0.0
+    date: '2026-09-26'
+    code: 400846
+    url: /works/400846/
   - title: Hyoui Osen de Yuri Ecchi | Lesbian Sex through Corrupting Possession
     author: siina-yuuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/404458.jpg
@@ -932,6 +939,14 @@ works:
     date: '2026-09-25'
     code: 652937
     url: /works/652937/
+  - title: Namaiki Gal o Succubus ni Shite Oshioki Shitatta Ken 4 | Bewitched Reckoning
+      How I Turned My Bully Into a Succubus 4
+    author: takurowo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/653287.jpg
+    rating: 4.9
+    date: '2026-09-26'
+    code: 653287
+    url: /works/653287/
   - title: Majime na Kimi ni Hamaru Karada
     author: alp
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654010.jpg
@@ -1280,6 +1295,13 @@ works:
     date: '2026-08-23'
     code: 674974
     url: /works/674974/
+  - title: Dr. Sae's Sexual Behavior Study
+    author: torichamaru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/675652.jpg
+    rating: 0.0
+    date: '2026-09-26'
+    code: 675652
+    url: /works/675652/
   - title: Meikko na Syoujo no Ehon 3
     author: malcorond
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/676181.jpg
@@ -1575,6 +1597,13 @@ works:
     date: '2026-09-25'
     code: 683841
     url: /works/683841/
+  - title: Tonikaku Yaritai Gal ga Kyokon Otaku ni Deattara
+    author: tokunaga
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684061.jpg
+    rating: 4.1
+    date: '2026-09-26'
+    code: 684061
+    url: /works/684061/
   - title: Hottokenaino
     author: hara-shigeyuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/77864.jpg

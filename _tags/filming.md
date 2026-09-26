@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "filming"
-work_count: 83
+work_count: 85
 works:
   - title: Netorare Ibe Kiba Shizuka | The Netorare of Kiba Shizuka
     author: terasu-mc
@@ -89,6 +89,13 @@ works:
     date: '2026-04-16'
     code: 482859
     url: /works/482859/
+  - title: Boku no Doutei wa Neteru Aida ni... Ubawaremashita
+    author: kinntarou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/490633.jpg
+    rating: 0.0
+    date: '2026-09-26'
+    code: 490633
+    url: /works/490633/
   - title: Boku no Chuugoku Bijin Slender Kyonyuu Tsuma ga Camera Model de Nugasarete
       Yarichin Tomo ni Netorareta Ken
     author: mitoreiyu
@@ -438,6 +445,14 @@ works:
     date: '2026-08-22'
     code: 652912
     url: /works/652912/
+  - title: Namaiki Gal o Succubus ni Shite Oshioki Shitatta Ken 4 | Bewitched Reckoning
+      How I Turned My Bully Into a Succubus 4
+    author: takurowo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/653287.jpg
+    rating: 4.9
+    date: '2026-09-26'
+    code: 653287
+    url: /works/653287/
   - title: Until I Take Everything From You 2-C
     author: takotokite
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654240.jpg

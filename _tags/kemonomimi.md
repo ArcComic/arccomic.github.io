@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "kemonomimi"
-work_count: 33
+work_count: 34
 works:
   - title: CHOCO x LOVE
     author: highlow
@@ -49,6 +49,14 @@ works:
     date: '2026-09-18'
     code: 606170
     url: /works/606170/
+  - title: Mugon Muhyoujou no Kasshoku Elf, Rental Shitemasu + Gojitsudan | Rent-an-Elf
+      + Afterstory
+    author: takurowo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/610903.jpg
+    rating: 0.0
+    date: '2026-09-26'
+    code: 610903
+    url: /works/610903/
   - title: 'Sono Bisque Doll wa H o Suru Soushuuhen II ＋ 9 ー  My Sexy Dress-Up Darling
       Anthology #2'
     author: yahiro-pochi

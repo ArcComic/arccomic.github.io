@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "ffm threesome"
-work_count: 118
+work_count: 120
 works:
   - title: Hustle! Danchizuma Ch. 1-18 END
     author: hidemaru
@@ -31,6 +31,13 @@ works:
     date: '2026-07-09'
     code: 317673
     url: /works/317673/
+  - title: SUCCUBUS MONOGATARI
+    author: mackgee
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/400846.jpg
+    rating: 0.0
+    date: '2026-09-26'
+    code: 400846
+    url: /works/400846/
   - title: The Last Flight
     author: mr-kurz
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/408822.jpg
@@ -492,6 +499,13 @@ works:
     date: '2026-09-25'
     code: 654681
     url: /works/654681/
+  - title: 'Oshi No Ko BEHIND THE STAGE #2'
+    author: gsus
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/655528.jpg
+    rating: 0.0
+    date: '2026-09-26'
+    code: 655528
+    url: /works/655528/
   - title: Akogare no Oppai wa Ane no Aji
     author: emine-kendama
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/657256.jpg

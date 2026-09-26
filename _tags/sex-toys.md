@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sex toys"
-work_count: 103
+work_count: 105
 works:
   - title: Ayami Hypno
     author: yasuhiro
@@ -76,6 +76,13 @@ works:
     date: '2026-04-19'
     code: 470023
     url: /works/470023/
+  - title: Osananajimi wa Owari｜End of a Childhood Friendship
+    author: henkuma
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/491312.jpg
+    rating: 4.2
+    date: '2026-09-26'
+    code: 491312
+    url: /works/491312/
   - title: Onozomi deshitara Saimin wo ~Maki-san Himitsu no Renai Therapy~ | If you
       wish, hypnosis ~Maki-san's secret love therapy~
     author: meeko
@@ -760,4 +767,12 @@ works:
     date: '2026-09-25'
     code: 683992
     url: /works/683992/
+  - title: Watashi no Oshiri no Hajimete o Anata-sama ni Sasagemasu | I offer my ass
+      to you for the first time
+    author: nadayui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684127.jpg
+    rating: 4.1
+    date: '2026-09-26'
+    code: 684127
+    url: /works/684127/
 ---

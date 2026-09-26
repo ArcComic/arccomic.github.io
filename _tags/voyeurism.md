@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "voyeurism"
-work_count: 41
+work_count: 42
 works:
   - title: Tsutomesaki no Musume-san o Oishiku Itadaku Hon Minshuku Hen
     author: aya
@@ -304,4 +304,13 @@ works:
     date: '2026-09-23'
     code: 683316
     url: /works/683316/
+  - title: '"BSS" Zutto Suki Datta Tonari no Seki no Onnanoko ga Shinyuu no Yokodori
+      Sareru Hanashi | [BSS] The Story of How the Girl Next To My Seat Whom I''ve Always
+      Liked Was Stolen by My Best Friend'
+    author: kuroneko
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684124.jpg
+    rating: 0.0
+    date: '2026-09-26'
+    code: 684124
+    url: /works/684124/
 ---

@@ -1,8 +1,16 @@
 ---
 layout: tag
 tag_name: "amazon position"
-work_count: 3
+work_count: 5
 works:
+  - title: Gakkou to Bed ja Seihantai no, Okkina Kanojo. | My Big Girlfriend Acts the
+      Polar Opposite in Bed and at School.
+    author: mikemono-yuu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/312665.jpg
+    rating: 4.2
+    date: '2026-09-26'
+    code: 312665
+    url: /works/312665/
   - title: Itabasami na Wakachi Ai 4 | Love Divided Between a Rock and a Hard Place
       4
     author: group
@@ -11,6 +19,13 @@ works:
     date: '2026-04-23'
     code: 448503
     url: /works/448503/
+  - title: Osananajimi wa Owari｜End of a Childhood Friendship
+    author: henkuma
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/491312.jpg
+    rating: 4.2
+    date: '2026-09-26'
+    code: 491312
+    url: /works/491312/
   - title: Saimin ♥ Saimin | Hypno ♥ Hypno
     author: minamida-usuke
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/576398.jpg

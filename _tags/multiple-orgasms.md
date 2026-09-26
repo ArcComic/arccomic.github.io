@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "multiple orgasms"
-work_count: 93
+work_count: 94
 works:
   - title: Rako Slip!
     author: bujidearu
@@ -146,6 +146,13 @@ works:
     date: '2026-04-25'
     code: 579819
     url: /works/579819/
+  - title: Shinchou 211 cm no Jirai-kei Joshi ni Nerawarete mou Nigerarenai 2
+    author: kinntarou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/584135.jpg
+    rating: 0.0
+    date: '2026-09-26'
+    code: 584135
+    url: /works/584135/
   - title: Ore ga Hoshikatta Mono wa Kin Medal Yori Namami Onaho Datta no Kamoshirenai｜Maybe
       what I Wanted was a Flesh and Blood Masturbator Rather than a Gold Medal
     author: carburetor

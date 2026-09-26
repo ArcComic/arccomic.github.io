@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "inseki"
-work_count: 61
+work_count: 62
 works:
   - title: Imitation Family + Bigibo Hen
     author: tohzai
@@ -451,4 +451,11 @@ works:
     date: '2026-09-23'
     code: 683307
     url: /works/683307/
+  - title: It's Not Like We're Related
+    author: zonebell-tsukiji
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684010.jpg
+    rating: 0.0
+    date: '2026-09-26'
+    code: 684010
+    url: /works/684010/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "deepthroat"
-work_count: 60
+work_count: 65
 works:
   - title: Toshishita Chin Kui Obasan
     author: maccha-neji
@@ -18,6 +18,13 @@ works:
     date: '2026-04-13'
     code: 432301
     url: /works/432301/
+  - title: Boku no Doutei wa Neteru Aida ni... Ubawaremashita
+    author: kinntarou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/490633.jpg
+    rating: 0.0
+    date: '2026-09-26'
+    code: 490633
+    url: /works/490633/
   - title: Hatsutaiken no Susume | Recommendation for the First Time Experience
     author: mojarin
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/532651.jpg
@@ -70,6 +77,13 @@ works:
     date: '2026-04-19'
     code: 580427
     url: /works/580427/
+  - title: Zamen Oogui Taikai | The Cum-Binge-Eating Championship
+    author: yufuck
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/583437.jpg
+    rating: 0.0
+    date: '2026-09-26'
+    code: 583437
+    url: /works/583437/
   - title: Dasuru Haha Musuko ni Nandomo Irerarete
     author: daidai-shikibu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/612083.jpg
@@ -391,6 +405,13 @@ works:
     date: '2026-08-22'
     code: 674728
     url: /works/674728/
+  - title: Dr. Sae's Sexual Behavior Study
+    author: torichamaru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/675652.jpg
+    rating: 0.0
+    date: '2026-09-26'
+    code: 675652
+    url: /works/675652/
   - title: Konyakusha no Imouto wa Kao SSR, Seikaku Saiaku Jigoku no Ero Dance Onna.
       2 | My Fiancée's Younger Sister is a SSR Influencer with a Terrible Personality
       and is a Hellish Erotic Dancer. 2
@@ -459,4 +480,23 @@ works:
     date: '2026-09-23'
     code: 683312
     url: /works/683312/
+  - title: Ore no Seiheki o Guchagucha ni Shite Oite Shiranai Aida ni Kekkon Shite ita
+      Moto SeFri to Saigo no Bachiboko Sex Osame suru Hanashi | A story about having
+      one last wild, wild sex session with my ex-fuck buddy— The one who messed with
+      my kinks and then got married behind my back
+    author: nako-sir
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684077.jpg
+    rating: 0.0
+    date: '2026-09-26'
+    code: 684077
+    url: /works/684077/
+  - title: '"BSS" Zutto Suki Datta Tonari no Seki no Onnanoko ga Shinyuu no Yokodori
+      Sareru Hanashi | [BSS] The Story of How the Girl Next To My Seat Whom I''ve Always
+      Liked Was Stolen by My Best Friend'
+    author: kuroneko
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684124.jpg
+    rating: 0.0
+    date: '2026-09-26'
+    code: 684124
+    url: /works/684124/
 ---

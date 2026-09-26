@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "clothed female nude male"
-work_count: 14
+work_count: 15
 works:
   - title: Watashi-tachi no Seikoui Tokubetsu Jisshuu -Zengi Hen-
     author: guglielmo
@@ -46,6 +46,13 @@ works:
     date: '2026-07-11'
     code: 531966
     url: /works/531966/
+  - title: Zamen Oogui Taikai | The Cum-Binge-Eating Championship
+    author: yufuck
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/583437.jpg
+    rating: 0.0
+    date: '2026-09-26'
+    code: 583437
+    url: /works/583437/
   - title: Akumu Revenge 2 | Nightmare Revenge 2
     author: coupe
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/645884.jpg

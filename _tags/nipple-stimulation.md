@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "nipple stimulation"
-work_count: 112
+work_count: 117
 works:
   - title: Hypnotic Domination ~ The Fall of Tennis Club Ace ~
     author: danchino
@@ -492,6 +492,13 @@ works:
     date: '2026-05-10'
     code: 649125
     url: /works/649125/
+  - title: Sukebe Gal no Cosplayer to Offpako Shiteru Hanashi
+    author: inu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/650302.jpg
+    rating: 0.0
+    date: '2026-09-26'
+    code: 650302
+    url: /works/650302/
   - title: Ally-san wa Doko Demo Ikitai!! 3
     author: inukami-inoji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/650926.jpg
@@ -529,6 +536,14 @@ works:
     date: '2026-08-22'
     code: 652912
     url: /works/652912/
+  - title: Namaiki Gal o Succubus ni Shite Oshioki Shitatta Ken 4 | Bewitched Reckoning
+      How I Turned My Bully Into a Succubus 4
+    author: takurowo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/653287.jpg
+    rating: 4.9
+    date: '2026-09-26'
+    code: 653287
+    url: /works/653287/
   - title: Majime na Kimi ni Hamaru Karada
     author: alp
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654010.jpg
@@ -536,6 +551,13 @@ works:
     date: '2026-09-18'
     code: 654010
     url: /works/654010/
+  - title: Until I Take Everything From You 3-B
+    author: takotokite
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654244.jpg
+    rating: 0.0
+    date: '2026-09-26'
+    code: 654244
+    url: /works/654244/
   - title: Make Love Rank match!!③
     author: napo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/659484.jpg
@@ -838,4 +860,21 @@ works:
     date: '2026-09-24'
     code: 683679
     url: /works/683679/
+  - title: '"BSS" Zutto Suki Datta Tonari no Seki no Onnanoko ga Shinyuu no Yokodori
+      Sareru Hanashi | [BSS] The Story of How the Girl Next To My Seat Whom I''ve Always
+      Liked Was Stolen by My Best Friend'
+    author: kuroneko
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684124.jpg
+    rating: 0.0
+    date: '2026-09-26'
+    code: 684124
+    url: /works/684124/
+  - title: Trans Couple ~Ore ga Onna de Kanojo ga Otoko~｜Trans Couple -I'm the Girl
+      and My GF is the Guy-
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684139.jpg
+    rating: 4.9
+    date: '2026-09-26'
+    code: 684139
+    url: /works/684139/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "chikan"
-work_count: 18
+work_count: 20
 works:
   - title: Kyodou Fushin Joshi
     author: uds
@@ -78,6 +78,13 @@ works:
     date: '2026-05-27'
     code: 652801
     url: /works/652801/
+  - title: Until I Take Everything From You 3-B
+    author: takotokite
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654244.jpg
+    rating: 0.0
+    date: '2026-09-26'
+    code: 654244
+    url: /works/654244/
   - title: Imouto ga Ore no Kanojo!? 2-haku 3-ka no Ecchi na Kankei | My Sister is My
       Girlfriend!? Sexual Relationship for Two Nights and Three Days
     author: katagiri-kaneharu
@@ -136,4 +143,13 @@ works:
     date: '2026-09-22'
     code: 683192
     url: /works/683192/
+  - title: '"BSS" Zutto Suki Datta Tonari no Seki no Onnanoko ga Shinyuu no Yokodori
+      Sareru Hanashi | [BSS] The Story of How the Girl Next To My Seat Whom I''ve Always
+      Liked Was Stolen by My Best Friend'
+    author: kuroneko
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684124.jpg
+    rating: 0.0
+    date: '2026-09-26'
+    code: 684124
+    url: /works/684124/
 ---

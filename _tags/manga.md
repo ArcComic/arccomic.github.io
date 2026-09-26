@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "manga"
-work_count: 321
+work_count: 323
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -391,6 +391,14 @@ works:
     date: '2026-09-06'
     code: 396089
     url: /works/396089/
+  - title: I Was Devoured by My Gyaru Senpai (COMIC Anthurium 2021-10) + I Made My Gyaru
+      Senpai Cum Over & Over Doggy Style
+    author: arimura-daikon
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/396702.jpg
+    rating: 0.0
+    date: '2026-09-26'
+    code: 396702
+    url: /works/396702/
   - title: Netorase ~Tsuma no Ichiban Kirei na Hi~ | Netorase - My wife's most beautiful
       day
     author: sakagami-umi
@@ -1830,6 +1838,13 @@ works:
     date: '2026-08-23'
     code: 674984
     url: /works/674984/
+  - title: Dr. Sae's Sexual Behavior Study
+    author: torichamaru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/675652.jpg
+    rating: 0.0
+    date: '2026-09-26'
+    code: 675652
+    url: /works/675652/
   - title: Junai Kanjou
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/676189.jpg

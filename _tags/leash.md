@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "leash"
-work_count: 13
+work_count: 15
 works:
+  - title: Komorebi no Ori
+    author: hitoi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/309899.jpg
+    rating: 0.0
+    date: '2026-09-26'
+    code: 309899
+    url: /works/309899/
   - title: My Dress Up Corpse
     author: mr-kurz
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/408427.jpg
@@ -92,6 +99,13 @@ works:
     date: '2026-07-05'
     code: 661367
     url: /works/661367/
+  - title: Dr. Sae's Sexual Behavior Study
+    author: torichamaru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/675652.jpg
+    rating: 0.0
+    date: '2026-09-26'
+    code: 675652
+    url: /works/675652/
   - title: Hatsujouki dakara Shikatanai
     author: tsukunendo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682245.jpg

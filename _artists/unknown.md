@@ -1,7 +1,7 @@
 ---
 layout: artist
 artist_name: "unknown"
-work_count: 60
+work_count: 61
 works:
   - title: Hajimete Kanojo Ga Dekita No Ni
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/316579.jpg
@@ -376,4 +376,11 @@ works:
     date: '2026-09-20'
     code: 682597
     url: /works/682597/
+  - title: Trans Couple ~Ore ga Onna de Kanojo ga Otoko~｜Trans Couple -I'm the Girl
+      and My GF is the Guy-
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684139.jpg
+    rating: 4.9
+    date: '2026-09-26'
+    code: 684139
+    url: /works/684139/
 ---

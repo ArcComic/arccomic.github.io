@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "cosplaying"
-work_count: 17
+work_count: 18
 works:
   - title: My Dress Up Corpse
     author: mr-kurz
@@ -79,6 +79,13 @@ works:
     date: '2026-05-10'
     code: 649114
     url: /works/649114/
+  - title: Sukebe Gal no Cosplayer to Offpako Shiteru Hanashi
+    author: inu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/650302.jpg
+    rating: 0.0
+    date: '2026-09-26'
+    code: 650302
+    url: /works/650302/
   - title: Kimi ga Haramu made Genkai Toppa Sex | Limit Breaking Sex until you're Pregnant
     author: yoshio-ereki-toneridan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651499.jpg

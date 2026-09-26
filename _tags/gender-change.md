@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "gender change"
-work_count: 22
+work_count: 24
 works:
   - title: Hyoui Osen de Yuri Ecchi | Lesbian Sex through Corrupting Possession
     author: siina-yuuki
@@ -164,4 +164,20 @@ works:
     date: '2026-09-25'
     code: 683814
     url: /works/683814/
+  - title: Trans Couple ~Ore ga Onna de Kanojo ga Otoko~｜Trans Couple -I'm the Girl
+      and My GF is the Guy-
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684139.jpg
+    rating: 4.9
+    date: '2026-09-26'
+    code: 684139
+    url: /works/684139/
+  - title: Irekawari no Natsu, Onee-chan no Karada de no Natsu｜The Summer Swap -A Summer
+      in my Onee-chan's Body-
+    author: naba
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684142.jpg
+    rating: 0.0
+    date: '2026-09-26'
+    code: 684142
+    url: /works/684142/
 ---

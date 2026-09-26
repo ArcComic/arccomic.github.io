@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "hairy"
-work_count: 236
+work_count: 237
 works:
   - title: Adoration
     author: kishizuka-kenji
@@ -1734,4 +1734,12 @@ works:
     date: '2026-09-25'
     code: 683841
     url: /works/683841/
+  - title: Watashi no Oshiri no Hajimete o Anata-sama ni Sasagemasu | I offer my ass
+      to you for the first time
+    author: nadayui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684127.jpg
+    rating: 4.1
+    date: '2026-09-26'
+    code: 684127
+    url: /works/684127/
 ---

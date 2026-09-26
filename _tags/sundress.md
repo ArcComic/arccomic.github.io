@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sundress"
-work_count: 4
+work_count: 5
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -31,4 +31,12 @@ works:
     date: '2026-04-16'
     code: 580379
     url: /works/580379/
+  - title: Irekawari no Natsu, Onee-chan no Karada de no Natsu｜The Summer Swap -A Summer
+      in my Onee-chan's Body-
+    author: naba
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684142.jpg
+    rating: 0.0
+    date: '2026-09-26'
+    code: 684142
+    url: /works/684142/
 ---

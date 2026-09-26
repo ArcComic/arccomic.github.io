@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "wholesome"
-work_count: 123
+work_count: 125
 works:
   - title: FLUFFY LAUGH GIRL
     author: shibasaki-syouzi
@@ -241,6 +241,13 @@ works:
     date: '2026-09-19'
     code: 503772
     url: /works/503772/
+  - title: Mochimochi Nao's Sweet and Sexy Story That Makes You Melt
+    author: nako-sir
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/506789.jpg
+    rating: 4.8
+    date: '2026-09-26'
+    code: 506789
+    url: /works/506789/
   - title: Koi ni Naru made, | Until It Becomes Love
     author: danimaru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/507681.jpg
@@ -487,6 +494,14 @@ works:
     date: '2026-02-26'
     code: 610539
     url: /works/610539/
+  - title: Mugon Muhyoujou no Kasshoku Elf, Rental Shitemasu + Gojitsudan | Rent-an-Elf
+      + Afterstory
+    author: takurowo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/610903.jpg
+    rating: 0.0
+    date: '2026-09-26'
+    code: 610903
+    url: /works/610903/
   - title: Onna Tomodachi Futari to Perochuu suru Hanashi | A Story About Kissing 2
       Female Friends
     author: mmchair

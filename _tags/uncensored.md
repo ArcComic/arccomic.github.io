@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "uncensored"
-work_count: 104
+work_count: 108
 works:
   - title: Netemo Sametemo | Be it Sleeping or Awake
     author: takasugi-kou
@@ -24,6 +24,13 @@ works:
     date: '2026-04-27'
     code: 353025
     url: /works/353025/
+  - title: SUCCUBUS MONOGATARI
+    author: mackgee
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/400846.jpg
+    rating: 0.0
+    date: '2026-09-26'
+    code: 400846
+    url: /works/400846/
   - title: NTR Nindou | The NTR Ninja Way
     author: tokie-hirohito
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/402019.jpg
@@ -319,6 +326,14 @@ works:
     date: '2026-04-21'
     code: 609650
     url: /works/609650/
+  - title: Mugon Muhyoujou no Kasshoku Elf, Rental Shitemasu + Gojitsudan | Rent-an-Elf
+      + Afterstory
+    author: takurowo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/610903.jpg
+    rating: 0.0
+    date: '2026-09-26'
+    code: 610903
+    url: /works/610903/
   - title: Onnanoko ga Ochita Saki wa, Ore no Musuko no Sakippo deshita | What She Fell
       On Was the Tip of My Dick Vol. 1-4
     author: hatokonro
@@ -563,6 +578,13 @@ works:
     date: '2026-09-11'
     code: 654850
     url: /works/654850/
+  - title: 'Oshi No Ko BEHIND THE STAGE #2'
+    author: gsus
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/655528.jpg
+    rating: 0.0
+    date: '2026-09-26'
+    code: 655528
+    url: /works/655528/
   - title: Coral no Megumi de Nyotaika Shita Senyuu to xxx Suru Hon | Blessings of the
       Coral
     author: ringo-club
@@ -770,4 +792,11 @@ works:
     date: '2026-09-22'
     code: 683137
     url: /works/683137/
+  - title: It's Not Like We're Related
+    author: zonebell-tsukiji
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684010.jpg
+    rating: 0.0
+    date: '2026-09-26'
+    code: 684010
+    url: /works/684010/
 ---

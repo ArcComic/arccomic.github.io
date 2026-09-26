@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "handjob"
-work_count: 113
+work_count: 116
 works:
   - title: Chibo Soukan Ch.1-3
     author: natsu-no-oyatsu
@@ -32,6 +32,14 @@ works:
     date: '2026-09-12'
     code: 306725
     url: /works/306725/
+  - title: Gakkou to Bed ja Seihantai no, Okkina Kanojo. | My Big Girlfriend Acts the
+      Polar Opposite in Bed and at School.
+    author: mikemono-yuu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/312665.jpg
+    rating: 4.2
+    date: '2026-09-26'
+    code: 312665
+    url: /works/312665/
   - title: Kono Koi ni Kiduite
     author: danimaru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/357965.jpg
@@ -223,6 +231,13 @@ works:
     date: '2026-09-04'
     code: 578020
     url: /works/578020/
+  - title: Anata Senyou no Niku Onaho desu | Your very own meat onahole
+    author: noe
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/581946.jpg
+    rating: 0.0
+    date: '2026-09-26'
+    code: 581946
+    url: /works/581946/
   - title: Hatsukoi no Bakunyuu Tomo Mama ga Yasashiku Sei no Tehodoki o Shitekureru
       Hanashi | Learning About Sex From My Friend's Mom
     author: takeda-aranobu
@@ -557,6 +572,13 @@ works:
     date: '2026-08-22'
     code: 652912
     url: /works/652912/
+  - title: Until I Take Everything From You 3-B
+    author: takotokite
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654244.jpg
+    rating: 0.0
+    date: '2026-09-26'
+    code: 654244
+    url: /works/654244/
   - title: Kyonyuu Geneki JK to Chigyuu Danshi ga Sex Jisshuu de Namahame Tanetsuke
       Koubishi Makuru H
     author: yanachi

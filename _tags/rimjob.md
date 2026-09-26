@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "rimjob"
-work_count: 40
+work_count: 41
 works:
   - title: Hitozuma Hyakka
     author: hase-tsubura
@@ -49,6 +49,13 @@ works:
     date: '2026-05-05'
     code: 578147
     url: /works/578147/
+  - title: Zamen Oogui Taikai | The Cum-Binge-Eating Championship
+    author: yufuck
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/583437.jpg
+    rating: 0.0
+    date: '2026-09-26'
+    code: 583437
+    url: /works/583437/
   - title: Minatoku Joshi Saionji Kyouka no Karei naru Nichijou (Kari) | The Lavish
       Daily Life of Saionji Kyouka The Minato-ku Girl
     author: takano-masayuki

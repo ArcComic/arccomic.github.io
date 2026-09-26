@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sister"
-work_count: 82
+work_count: 84
 works:
   - title: Imitation Family + Bigibo Hen
     author: tohzai
@@ -32,6 +32,13 @@ works:
     date: '2026-09-13'
     code: 380273
     url: /works/380273/
+  - title: SUCCUBUS MONOGATARI
+    author: mackgee
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/400846.jpg
+    rating: 0.0
+    date: '2026-09-26'
+    code: 400846
+    url: /works/400846/
   - title: Namaiki na Imouto ga Ore no SeFri ni Natta Keii | How My Cheeky Little Sister
       and I Became Sex Friends With Benefits
     author: iron-sugar
@@ -292,6 +299,13 @@ works:
     date: '2026-07-07'
     code: 655441
     url: /works/655441/
+  - title: 'Oshi No Ko BEHIND THE STAGE #2'
+    author: gsus
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/655528.jpg
+    rating: 0.0
+    date: '2026-09-26'
+    code: 655528
+    url: /works/655528/
   - title: Imouto wa Chikubi Onanie ga Yamerarenai
     author: ogataaz
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/656814.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "crotch tattoo"
-work_count: 5
+work_count: 6
 works:
   - title: Metamorphosis
     author: shindol
@@ -18,6 +18,14 @@ works:
     date: '2026-05-20'
     code: 651303
     url: /works/651303/
+  - title: Namaiki Gal o Succubus ni Shite Oshioki Shitatta Ken 4 | Bewitched Reckoning
+      How I Turned My Bully Into a Succubus 4
+    author: takurowo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/653287.jpg
+    rating: 4.9
+    date: '2026-09-26'
+    code: 653287
+    url: /works/653287/
   - title: Shameimaru Aya no sennyuu! Shokushu esute
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/661890.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "butt plug"
-work_count: 6
+work_count: 8
 works:
   - title: Senpai No Oppai Complete
     author: menoko
@@ -40,6 +40,13 @@ works:
     date: '2026-07-09'
     code: 662658
     url: /works/662658/
+  - title: Dr. Sae's Sexual Behavior Study
+    author: torichamaru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/675652.jpg
+    rating: 0.0
+    date: '2026-09-26'
+    code: 675652
+    url: /works/675652/
   - title: Downer-kei Arafour Newhalf to Shinkon-san-gokko | Playing Newlyweds With
       A Gloomy Around-Forty Newhalf
     author: yuuki-konefu
@@ -48,4 +55,12 @@ works:
     date: '2026-09-10'
     code: 679961
     url: /works/679961/
+  - title: Watashi no Oshiri no Hajimete o Anata-sama ni Sasagemasu | I offer my ass
+      to you for the first time
+    author: nadayui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684127.jpg
+    rating: 4.1
+    date: '2026-09-26'
+    code: 684127
+    url: /works/684127/
 ---
