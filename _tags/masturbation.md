@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "masturbation"
-work_count: 114
+work_count: 117
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -489,6 +489,21 @@ works:
     date: '2026-09-22'
     code: 649307
     url: /works/649307/
+  - title: Smoking Hypnosis Season 01
+    author: dr-stein
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/650361.jpg
+    rating: 4.0
+    date: '2026-09-27'
+    code: 650361
+    url: /works/650361/
+  - title: Namaiki Gal o Succubus ni Shite Oshioki Shitatta Ken 2 | The Case Where I
+      Turned a Bratty Gal Into a Succubus and Punished Her 2
+    author: takurowo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/650625.jpg
+    rating: 0.0
+    date: '2026-09-27'
+    code: 650625
+    url: /works/650625/
   - title: My Tall, Stacked, Virgin Boss 1
     author: yunamaro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654603.jpg
@@ -853,4 +868,11 @@ works:
     date: '2026-09-26'
     code: 684061
     url: /works/684061/
+  - title: GOOD WIFE
+    author: laliberte
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684283.jpg
+    rating: 0.0
+    date: '2026-09-27'
+    code: 684283
+    url: /works/684283/
 ---

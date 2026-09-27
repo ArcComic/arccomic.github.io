@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "machine translation"
-work_count: 10
+work_count: 11
 works:
   - title: Tomodachi no Mama ga Boku no Dekachin de Ikimakutta Omoide
     author: rk-2
@@ -17,6 +17,14 @@ works:
     date: '2026-09-26'
     code: 650302
     url: /works/650302/
+  - title: Namaiki Gal o Succubus ni Shite Oshioki Shitatta Ken 2 | The Case Where I
+      Turned a Bratty Gal Into a Succubus and Punished Her 2
+    author: takurowo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/650625.jpg
+    rating: 0.0
+    date: '2026-09-27'
+    code: 650625
+    url: /works/650625/
   - title: Iki Jigoku Refle ni Tokeru Otto Tanshinfunin Hitozuma Inmou Ari
     author: kotoyoshi-yumisuke
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651442.jpg

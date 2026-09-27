@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "huge breasts"
-work_count: 75
+work_count: 77
 works:
   - title: Furuhonya no Onee-san to | With The Lady From The Used Book Shop
     author: nodame
@@ -359,6 +359,14 @@ works:
     date: '2026-09-07'
     code: 667857
     url: /works/667857/
+  - title: Downer Hitozuma wa Teishu Kanpaku Otto o Wakaraseru | The Gloomy Housewife
+      Puts Her Domineering Husband in His Place
+    author: joucho
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/672405.jpg
+    rating: 0.0
+    date: '2026-09-27'
+    code: 672405
+    url: /works/672405/
   - title: Nuite Moraimakuri Nyuuin Seikatsu ~Tasuketa Cool-Gyaru wa Jitsu wa Sukebe
       deshita~
     author: gujira
@@ -566,4 +574,12 @@ works:
     date: '2026-09-25'
     code: 683841
     url: /works/683841/
+  - title: Gal to Otaku no Idenshi Aishou Batsugun H |  Hot Sex Between a Gal and an
+      Otaku With Perfect Genes Compatibility
+    author: joucho
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684305.jpg
+    rating: 0.0
+    date: '2026-09-27'
+    code: 684305
+    url: /works/684305/
 ---

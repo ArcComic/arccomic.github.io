@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "painted nails"
-work_count: 34
+work_count: 35
 works:
   - title: Rakki Taishyaku
     author: fushoku
@@ -125,6 +125,14 @@ works:
     date: '2026-05-26'
     code: 631036
     url: /works/631036/
+  - title: Hitozuma Kairou ~Danna Omoi no Hitozuma wa Saimin de Midara na Fuuzokujou
+      e Kawarihateru~ | Married Woman Rebrand
+    author: theremin
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/631572.jpg
+    rating: 0.0
+    date: '2026-09-27'
+    code: 631572
+    url: /works/631572/
   - title: LeveChi na Swapping 3 ~Honrosareru Fuufu Hen~ | Swapping on a Whole New Level
       3 ~The Couple At The Mercy Of Others~
     author: hikitogu

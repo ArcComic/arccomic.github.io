@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "nipple stimulation"
-work_count: 118
+work_count: 120
 works:
   - title: Hypnotic Domination ~ The Fall of Tennis Club Ace ~
     author: danchino
@@ -659,6 +659,14 @@ works:
     date: '2026-09-25'
     code: 671813
     url: /works/671813/
+  - title: Downer Hitozuma wa Teishu Kanpaku Otto o Wakaraseru | The Gloomy Housewife
+      Puts Her Domineering Husband in His Place
+    author: joucho
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/672405.jpg
+    rating: 0.0
+    date: '2026-09-27'
+    code: 672405
+    url: /works/672405/
   - title: Ano Hi, Sunao ni Suki to Ieta nara - If only I could have honestly said that
       I loved you that day.
     author: kazuwo-daisuke
@@ -877,6 +885,14 @@ works:
     date: '2026-09-26'
     code: 684139
     url: /works/684139/
+  - title: Gal to Otaku no Idenshi Aishou Batsugun H |  Hot Sex Between a Gal and an
+      Otaku With Perfect Genes Compatibility
+    author: joucho
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684305.jpg
+    rating: 0.0
+    date: '2026-09-27'
+    code: 684305
+    url: /works/684305/
   - title: 'Josou Ouji wa Wakarasetai! ep.4 Ottori Haha mo Mazaritai! | The Crossdressing
       Prince Who Tried to Teach his Little Sisters a Lesson - Episode 4: The Gentle
       Mom Who Doesn''t Want to Be Left Out'

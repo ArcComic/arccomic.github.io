@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "vaginal birth"
-work_count: 3
+work_count: 4
 works:
   - title: Jinsei Hametsu JC ~Watashi no Jinsei, Doushite Kounacchattan daro?~ | Middle
       Schooler's Life Ruined - How Did My Life Turn Out Like This [English] =TB=
@@ -11,6 +11,14 @@ works:
     date: '2026-07-17'
     code: 545823
     url: /works/545823/
+  - title: Hitozuma Kairou ~Danna Omoi no Hitozuma wa Saimin de Midara na Fuuzokujou
+      e Kawarihateru~ | Married Woman Rebrand
+    author: theremin
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/631572.jpg
+    rating: 0.0
+    date: '2026-09-27'
+    code: 631572
+    url: /works/631572/
   - title: Igyou Koubi Kairaku Jigoku 1 + 2
     author: allegro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/668880.jpg

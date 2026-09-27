@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "english"
-work_count: 1362
+work_count: 1373
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -3878,6 +3878,13 @@ works:
     date: '2026-09-11'
     code: 626220
     url: /works/626220/
+  - title: Saimin Idol Gakuen 3 Rei Hen
+    author: sunagimo-dx
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/626417.jpg
+    rating: 0.0
+    date: '2026-09-27'
+    code: 626417
+    url: /works/626417/
   - title: Sono Bisque Doll wa H o Suru 2
     author: yahiro-pochi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/626430.jpg
@@ -3967,6 +3974,14 @@ works:
     date: '2026-03-05'
     code: 631501
     url: /works/631501/
+  - title: Hitozuma Kairou ~Danna Omoi no Hitozuma wa Saimin de Midara na Fuuzokujou
+      e Kawarihateru~ | Married Woman Rebrand
+    author: theremin
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/631572.jpg
+    rating: 0.0
+    date: '2026-09-27'
+    code: 631572
+    url: /works/631572/
   - title: Futari Dake no Himitsu -Moshi Deliheal Yonde Musume ga Kichattara-
     author: takuwan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/631592.jpg
@@ -5413,6 +5428,21 @@ works:
     date: '2026-09-26'
     code: 650302
     url: /works/650302/
+  - title: Smoking Hypnosis Season 01
+    author: dr-stein
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/650361.jpg
+    rating: 4.0
+    date: '2026-09-27'
+    code: 650361
+    url: /works/650361/
+  - title: Namaiki Gal o Succubus ni Shite Oshioki Shitatta Ken 2 | The Case Where I
+      Turned a Bratty Gal Into a Succubus and Punished Her 2
+    author: takurowo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/650625.jpg
+    rating: 0.0
+    date: '2026-09-27'
+    code: 650625
+    url: /works/650625/
   - title: Ally-san wa Doko Demo Ikitai!! 3
     author: inukami-inoji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/650926.jpg
@@ -6589,6 +6619,13 @@ works:
     date: '2026-09-07'
     code: 662766
     url: /works/662766/
+  - title: n baito
+    author: aka-no-hana
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662797.jpg
+    rating: 0.0
+    date: '2026-09-27'
+    code: 662797
+    url: /works/662797/
   - title: Seductive Life insurance saleswoman
     author: haitoku-dou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662852.jpg
@@ -7325,6 +7362,14 @@ works:
     date: '2026-09-13'
     code: 672310
     url: /works/672310/
+  - title: Downer Hitozuma wa Teishu Kanpaku Otto o Wakaraseru | The Gloomy Housewife
+      Puts Her Domineering Husband in His Place
+    author: joucho
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/672405.jpg
+    rating: 0.0
+    date: '2026-09-27'
+    code: 672405
+    url: /works/672405/
   - title: Boku-tachi Mama to Yattemasu
     author: ameto-yuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/672450.jpg
@@ -8716,6 +8761,14 @@ works:
     date: '2026-09-12'
     code: 680574
     url: /works/680574/
+  - title: Mature College Student Kaori (38) - The Story Of Being Taken Home From A
+      Welcome Party
+    author: mafen
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680588.jpg
+    rating: 0.0
+    date: '2026-09-27'
+    code: 680588
+    url: /works/680588/
   - title: Buaisou na Kakure Kyonyuu Boyish Kanojo to Taikutsu na Date 2 | A Boring
       Date with My Boyish Girlfriend (Who Has a Secretly Busty Figure and a Surly Attitude)
       – Part 2
@@ -9910,6 +9963,13 @@ works:
     date: '2026-09-25'
     code: 683841
     url: /works/683841/
+  - title: Poker Face na Shinonome-kun
+    author: kosyo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683874.jpg
+    rating: 0.0
+    date: '2026-09-27'
+    code: 683874
+    url: /works/683874/
   - title: Katei Saien Vol. 1 | Lustful Housewife Vol. 1 ch. 1-4
     author: kakutou-oukoku
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683984.jpg
@@ -9982,6 +10042,28 @@ works:
     date: '2026-09-26'
     code: 684142
     url: /works/684142/
+  - title: Namaiki Gal o Succubus ni Shite Oshioki Shitatta Ken Final
+    author: takurowo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684215.jpg
+    rating: 0.0
+    date: '2026-09-27'
+    code: 684215
+    url: /works/684215/
+  - title: GOOD WIFE
+    author: laliberte
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684283.jpg
+    rating: 0.0
+    date: '2026-09-27'
+    code: 684283
+    url: /works/684283/
+  - title: Gal to Otaku no Idenshi Aishou Batsugun H |  Hot Sex Between a Gal and an
+      Otaku With Perfect Genes Compatibility
+    author: joucho
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684305.jpg
+    rating: 0.0
+    date: '2026-09-27'
+    code: 684305
+    url: /works/684305/
   - title: Oyaji no Saikon Aite wa Sukidatta Boku no Osananajimi
     author: makuma-ikeru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684314.jpg

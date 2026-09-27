@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sumata"
-work_count: 15
+work_count: 16
 works:
   - title: Tonari no Ayane-san Desaki Battari Hen
     author: herio
@@ -92,6 +92,14 @@ works:
     date: '2026-08-18'
     code: 656319
     url: /works/656319/
+  - title: Downer Hitozuma wa Teishu Kanpaku Otto o Wakaraseru | The Gloomy Housewife
+      Puts Her Domineering Husband in His Place
+    author: joucho
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/672405.jpg
+    rating: 0.0
+    date: '2026-09-27'
+    code: 672405
+    url: /works/672405/
   - title: Konyakusha no Imouto wa Kao SSR, Seikaku Saiaku Jigoku no Ero Dance Onna.
       2 | My Fiancée's Younger Sister is a SSR Influencer with a Terrible Personality
       and is a Hellish Erotic Dancer. 2

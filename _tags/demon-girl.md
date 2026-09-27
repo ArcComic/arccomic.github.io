@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "demon girl"
-work_count: 11
+work_count: 13
 works:
   - title: Junpaku Terrarium - Garden of Lovers
     author: sakuma-tsukasa
@@ -18,6 +18,14 @@ works:
     date: '2026-04-23'
     code: 645520
     url: /works/645520/
+  - title: Namaiki Gal o Succubus ni Shite Oshioki Shitatta Ken 2 | The Case Where I
+      Turned a Bratty Gal Into a Succubus and Punished Her 2
+    author: takurowo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/650625.jpg
+    rating: 0.0
+    date: '2026-09-27'
+    code: 650625
+    url: /works/650625/
   - title: Cinderella Fit
     author: shirosuzu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/661596.jpg
@@ -76,6 +84,13 @@ works:
     date: '2026-09-20'
     code: 682579
     url: /works/682579/
+  - title: Namaiki Gal o Succubus ni Shite Oshioki Shitatta Ken Final
+    author: takurowo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684215.jpg
+    rating: 0.0
+    date: '2026-09-27'
+    code: 684215
+    url: /works/684215/
   - title: 'Josou Ouji wa Wakarasetai! ep.4 Ottori Haha mo Mazaritai! | The Crossdressing
       Prince Who Tried to Teach his Little Sisters a Lesson - Episode 4: The Gentle
       Mom Who Doesn''t Want to Be Left Out'

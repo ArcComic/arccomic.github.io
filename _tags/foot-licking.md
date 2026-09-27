@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "foot licking"
-work_count: 12
+work_count: 13
 works:
   - title: My Dress Up Corpse
     author: mr-kurz
@@ -89,4 +89,11 @@ works:
     date: '2026-09-23'
     code: 683391
     url: /works/683391/
+  - title: GOOD WIFE
+    author: laliberte
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684283.jpg
+    rating: 0.0
+    date: '2026-09-27'
+    code: 684283
+    url: /works/684283/
 ---

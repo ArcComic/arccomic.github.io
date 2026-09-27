@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "beauty mark"
-work_count: 164
+work_count: 166
 works:
   - title: Uragiri no Ai wa Mitsu no Aji | Treacherous Love Tastes Like Honey
     author: cuzukago
@@ -983,6 +983,14 @@ works:
     date: '2026-09-20'
     code: 671460
     url: /works/671460/
+  - title: Downer Hitozuma wa Teishu Kanpaku Otto o Wakaraseru | The Gloomy Housewife
+      Puts Her Domineering Husband in His Place
+    author: joucho
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/672405.jpg
+    rating: 0.0
+    date: '2026-09-27'
+    code: 672405
+    url: /works/672405/
   - title: Niihama Yui Husband Exclusive Re-debut
     author: buta
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/674199.jpg
@@ -1220,4 +1228,11 @@ works:
     date: '2026-09-26'
     code: 684139
     url: /works/684139/
+  - title: GOOD WIFE
+    author: laliberte
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684283.jpg
+    rating: 0.0
+    date: '2026-09-27'
+    code: 684283
+    url: /works/684283/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "rimjob"
-work_count: 42
+work_count: 44
 works:
   - title: Hitozuma Hyakka
     author: hase-tsubura
@@ -304,6 +304,21 @@ works:
     date: '2026-09-25'
     code: 683992
     url: /works/683992/
+  - title: Namaiki Gal o Succubus ni Shite Oshioki Shitatta Ken Final
+    author: takurowo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684215.jpg
+    rating: 0.0
+    date: '2026-09-27'
+    code: 684215
+    url: /works/684215/
+  - title: Gal to Otaku no Idenshi Aishou Batsugun H |  Hot Sex Between a Gal and an
+      Otaku With Perfect Genes Compatibility
+    author: joucho
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684305.jpg
+    rating: 0.0
+    date: '2026-09-27'
+    code: 684305
+    url: /works/684305/
   - title: 'Josou Ouji wa Wakarasetai! ep.4 Ottori Haha mo Mazaritai! | The Crossdressing
       Prince Who Tried to Teach his Little Sisters a Lesson - Episode 4: The Gentle
       Mom Who Doesn''t Want to Be Left Out'

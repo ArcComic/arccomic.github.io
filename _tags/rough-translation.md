@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "rough translation"
-work_count: 553
+work_count: 558
 works:
   - title: Watashi no Karada, Okashi Shimasu. Bunny Girl Edition
     author: nectar
@@ -781,6 +781,13 @@ works:
     date: '2026-09-18'
     code: 625984
     url: /works/625984/
+  - title: Saimin Idol Gakuen 3 Rei Hen
+    author: sunagimo-dx
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/626417.jpg
+    rating: 0.0
+    date: '2026-09-27'
+    code: 626417
+    url: /works/626417/
   - title: Sono Bisque Doll wa H o Suru 2
     author: yahiro-pochi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/626430.jpg
@@ -1495,6 +1502,14 @@ works:
     date: '2026-09-26'
     code: 650302
     url: /works/650302/
+  - title: Namaiki Gal o Succubus ni Shite Oshioki Shitatta Ken 2 | The Case Where I
+      Turned a Bratty Gal Into a Succubus and Punished Her 2
+    author: takurowo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/650625.jpg
+    rating: 0.0
+    date: '2026-09-27'
+    code: 650625
+    url: /works/650625/
   - title: Oshiego no Gal o Kau
     author: mitsudoue
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651197.jpg
@@ -2189,6 +2204,13 @@ works:
     date: '2026-09-07'
     code: 662766
     url: /works/662766/
+  - title: n baito
+    author: aka-no-hana
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662797.jpg
+    rating: 0.0
+    date: '2026-09-27'
+    code: 662797
+    url: /works/662797/
   - title: Seductive Life insurance saleswoman
     author: haitoku-dou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662852.jpg
@@ -3380,6 +3402,14 @@ works:
     date: '2026-09-12'
     code: 680574
     url: /works/680574/
+  - title: Mature College Student Kaori (38) - The Story Of Being Taken Home From A
+      Welcome Party
+    author: mafen
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680588.jpg
+    rating: 0.0
+    date: '2026-09-27'
+    code: 680588
+    url: /works/680588/
   - title: Buaisou na Kakure Kyonyuu Boyish Kanojo to Taikutsu na Date 2 | A Boring
       Date with My Boyish Girlfriend (Who Has a Secretly Busty Figure and a Surly Attitude)
       – Part 2
@@ -4036,4 +4066,11 @@ works:
     date: '2026-09-26'
     code: 684127
     url: /works/684127/
+  - title: Namaiki Gal o Succubus ni Shite Oshioki Shitatta Ken Final
+    author: takurowo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684215.jpg
+    rating: 0.0
+    date: '2026-09-27'
+    code: 684215
+    url: /works/684215/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "tail"
-work_count: 17
+work_count: 19
 works:
   - title: CHOCO x LOVE
     author: highlow
@@ -25,6 +25,14 @@ works:
     date: '2026-07-13'
     code: 648800
     url: /works/648800/
+  - title: Namaiki Gal o Succubus ni Shite Oshioki Shitatta Ken 2 | The Case Where I
+      Turned a Bratty Gal Into a Succubus and Punished Her 2
+    author: takurowo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/650625.jpg
+    rating: 0.0
+    date: '2026-09-27'
+    code: 650625
+    url: /works/650625/
   - title: Kyonyiu kanojo ni hitasura shibori toraremakuru hanashi | Squeeze Until Empty
     author: fuguta-ke
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651343.jpg
@@ -126,4 +134,11 @@ works:
     date: '2026-09-24'
     code: 683610
     url: /works/683610/
+  - title: Namaiki Gal o Succubus ni Shite Oshioki Shitatta Ken Final
+    author: takurowo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684215.jpg
+    rating: 0.0
+    date: '2026-09-27'
+    code: 684215
+    url: /works/684215/
 ---

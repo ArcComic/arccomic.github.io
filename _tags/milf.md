@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "milf"
-work_count: 372
+work_count: 377
 works:
   - title: Life with Married Women Just Like a Manga 2 - Ch. 1-5
     author: hidemaru
@@ -2085,6 +2085,13 @@ works:
     date: '2026-09-19'
     code: 662751
     url: /works/662751/
+  - title: n baito
+    author: aka-no-hana
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662797.jpg
+    rating: 0.0
+    date: '2026-09-27'
+    code: 662797
+    url: /works/662797/
   - title: Yokkyuu Fuman na Musuko no Tsuma wa Gifu no Chinpo de Mesu ni Naru
     author: carburetor
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662945.jpg
@@ -2259,6 +2266,14 @@ works:
     date: '2026-09-23'
     code: 671907
     url: /works/671907/
+  - title: Downer Hitozuma wa Teishu Kanpaku Otto o Wakaraseru | The Gloomy Housewife
+      Puts Her Domineering Husband in His Place
+    author: joucho
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/672405.jpg
+    rating: 0.0
+    date: '2026-09-27'
+    code: 672405
+    url: /works/672405/
   - title: Boku-tachi Mama to Yattemasu
     author: ameto-yuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/672450.jpg
@@ -2487,6 +2502,14 @@ works:
     date: '2026-09-12'
     code: 680574
     url: /works/680574/
+  - title: Mature College Student Kaori (38) - The Story Of Being Taken Home From A
+      Welcome Party
+    author: mafen
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680588.jpg
+    rating: 0.0
+    date: '2026-09-27'
+    code: 680588
+    url: /works/680588/
   - title: Houtou Kizoku wa Moto Outaishihi to no Haramasekon de Isogashii - The Rake
       and The Once Crowned Princess
     author: jagi-iwa
@@ -2713,6 +2736,20 @@ works:
     date: '2026-09-25'
     code: 683984
     url: /works/683984/
+  - title: Namaiki Gal o Succubus ni Shite Oshioki Shitatta Ken Final
+    author: takurowo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684215.jpg
+    rating: 0.0
+    date: '2026-09-27'
+    code: 684215
+    url: /works/684215/
+  - title: GOOD WIFE
+    author: laliberte
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684283.jpg
+    rating: 0.0
+    date: '2026-09-27'
+    code: 684283
+    url: /works/684283/
   - title: 'Josou Ouji wa Wakarasetai! ep.4 Ottori Haha mo Mazaritai! | The Crossdressing
       Prince Who Tried to Teach his Little Sisters a Lesson - Episode 4: The Gentle
       Mom Who Doesn''t Want to Be Left Out'

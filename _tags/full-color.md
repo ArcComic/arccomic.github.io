@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "full color"
-work_count: 205
+work_count: 210
 works:
   - title: Tsuma wo Yariman ni Shimasu Shakkin no Tame desu kara.
     author: pietoro
@@ -771,6 +771,13 @@ works:
     date: '2026-05-04'
     code: 621185
     url: /works/621185/
+  - title: Saimin Idol Gakuen 3 Rei Hen
+    author: sunagimo-dx
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/626417.jpg
+    rating: 0.0
+    date: '2026-09-27'
+    code: 626417
+    url: /works/626417/
   - title: Sono Bisque Doll wa H o Suru 2
     author: yahiro-pochi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/626430.jpg
@@ -979,6 +986,13 @@ works:
     date: '2026-05-07'
     code: 648551
     url: /works/648551/
+  - title: Smoking Hypnosis Season 01
+    author: dr-stein
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/650361.jpg
+    rating: 4.0
+    date: '2026-09-27'
+    code: 650361
+    url: /works/650361/
   - title: Jill's Rehabilitation
     author: sawao
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651296.jpg
@@ -1128,6 +1142,13 @@ works:
     date: '2026-07-06'
     code: 661664
     url: /works/661664/
+  - title: n baito
+    author: aka-no-hana
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662797.jpg
+    rating: 0.0
+    date: '2026-09-27'
+    code: 662797
+    url: /works/662797/
   - title: Yokkyuu Fuman na Musuko no Tsuma wa Gifu no Chinpo de Mesu ni Naru
     author: carburetor
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662945.jpg
@@ -1349,6 +1370,14 @@ works:
     date: '2026-09-10'
     code: 679977
     url: /works/679977/
+  - title: Mature College Student Kaori (38) - The Story Of Being Taken Home From A
+      Welcome Party
+    author: mafen
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680588.jpg
+    rating: 0.0
+    date: '2026-09-27'
+    code: 680588
+    url: /works/680588/
   - title: A Peek at 0.1% of Love Vol. 3
     author: hanane-cain
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680766.jpg
@@ -1500,4 +1529,11 @@ works:
     date: '2026-09-25'
     code: 683725
     url: /works/683725/
+  - title: GOOD WIFE
+    author: laliberte
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684283.jpg
+    rating: 0.0
+    date: '2026-09-27'
+    code: 684283
+    url: /works/684283/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "group"
-work_count: 213
+work_count: 215
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -449,6 +449,14 @@ works:
     date: '2026-04-23'
     code: 628865
     url: /works/628865/
+  - title: Hitozuma Kairou ~Danna Omoi no Hitozuma wa Saimin de Midara na Fuuzokujou
+      e Kawarihateru~ | Married Woman Rebrand
+    author: theremin
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/631572.jpg
+    rating: 0.0
+    date: '2026-09-27'
+    code: 631572
+    url: /works/631572/
   - title: Daddy's Forgotten Life Purpose
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/631630.jpg
@@ -1555,6 +1563,13 @@ works:
     date: '2026-09-25'
     code: 683992
     url: /works/683992/
+  - title: Namaiki Gal o Succubus ni Shite Oshioki Shitatta Ken Final
+    author: takurowo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684215.jpg
+    rating: 0.0
+    date: '2026-09-27'
+    code: 684215
+    url: /works/684215/
   - title: 'Josou Ouji wa Wakarasetai! ep.4 Ottori Haha mo Mazaritai! | The Crossdressing
       Prince Who Tried to Teach his Little Sisters a Lesson - Episode 4: The Gentle
       Mom Who Doesn''t Want to Be Left Out'

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "collar"
-work_count: 69
+work_count: 71
 works:
   - title: Kaisha de Iroiro | Gettin' Busy at the Office
     author: hara-shigeyuki
@@ -205,6 +205,14 @@ works:
     date: '2026-09-25'
     code: 626430
     url: /works/626430/
+  - title: Hitozuma Kairou ~Danna Omoi no Hitozuma wa Saimin de Midara na Fuuzokujou
+      e Kawarihateru~ | Married Woman Rebrand
+    author: theremin
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/631572.jpg
+    rating: 0.0
+    date: '2026-09-27'
+    code: 631572
+    url: /works/631572/
   - title: Pakokatsu Oji-san to Kaede-chan 3
     author: nizigensan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/631703.jpg
@@ -506,6 +514,13 @@ works:
     date: '2026-09-22'
     code: 683013
     url: /works/683013/
+  - title: Poker Face na Shinonome-kun
+    author: kosyo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683874.jpg
+    rating: 0.0
+    date: '2026-09-27'
+    code: 683874
+    url: /works/683874/
   - title: Trans Couple ~Ore ga Onna de Kanojo ga Otoko~｜Trans Couple -I'm the Girl
       and My GF is the Guy-
     author: unknown

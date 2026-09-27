@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "facial hair"
-work_count: 30
+work_count: 31
 works:
   - title: Asuna-san ga Agil ni Netorareru Ohanashi
     author: fujimiya-siryu
@@ -129,6 +129,13 @@ works:
     date: '2026-04-17'
     code: 644309
     url: /works/644309/
+  - title: Smoking Hypnosis Season 01
+    author: dr-stein
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/650361.jpg
+    rating: 4.0
+    date: '2026-09-27'
+    code: 650361
+    url: /works/650361/
   - title: Watashi wa Tsuma de Haha de, Tada no Mesu 3
     author: kakyuu-bushi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/652606.jpg

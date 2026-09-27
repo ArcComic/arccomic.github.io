@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "webtoon"
-work_count: 3
+work_count: 4
 works:
   - title: You Said Just the Tip… I Asked My Brother's Girlfriend to Have Sex With Me
       Without a Condom!!
@@ -25,4 +25,11 @@ works:
     date: '2026-05-03'
     code: 588660
     url: /works/588660/
+  - title: Smoking Hypnosis Season 01
+    author: dr-stein
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/650361.jpg
+    rating: 4.0
+    date: '2026-09-27'
+    code: 650361
+    url: /works/650361/
 ---

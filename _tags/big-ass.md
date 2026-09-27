@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big ass"
-work_count: 189
+work_count: 191
 works:
   - title: My Care Lady Ch. 1
     author: sugi-g
@@ -1043,6 +1043,14 @@ works:
     date: '2026-09-20'
     code: 671460
     url: /works/671460/
+  - title: Downer Hitozuma wa Teishu Kanpaku Otto o Wakaraseru | The Gloomy Housewife
+      Puts Her Domineering Husband in His Place
+    author: joucho
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/672405.jpg
+    rating: 0.0
+    date: '2026-09-27'
+    code: 672405
+    url: /works/672405/
   - title: 'Natsuki no Natsu  Ore no Kyonyuu Osananajimi wa Natsu no Aida ni Otona no
       Te de Mesu ni Sareteita | Natsuki''s Summer: My Big-Busted Childhood Friend Was
       Turned Into a Woman by Adult Hands During the Summer'
@@ -1413,6 +1421,14 @@ works:
     date: '2026-09-26'
     code: 684127
     url: /works/684127/
+  - title: Gal to Otaku no Idenshi Aishou Batsugun H |  Hot Sex Between a Gal and an
+      Otaku With Perfect Genes Compatibility
+    author: joucho
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684305.jpg
+    rating: 0.0
+    date: '2026-09-27'
+    code: 684305
+    url: /works/684305/
   - title: Inin Keiyaku | Lewd Pregnancy Contract
     author: yoshiura-kazuya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/83595.jpg

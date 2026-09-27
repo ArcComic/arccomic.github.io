@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "schoolgirl uniform"
-work_count: 283
+work_count: 285
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -1564,6 +1564,14 @@ works:
     date: '2026-09-18'
     code: 668045
     url: /works/668045/
+  - title: Downer Hitozuma wa Teishu Kanpaku Otto o Wakaraseru | The Gloomy Housewife
+      Puts Her Domineering Husband in His Place
+    author: joucho
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/672405.jpg
+    rating: 0.0
+    date: '2026-09-27'
+    code: 672405
+    url: /works/672405/
   - title: 'Natsuki no Natsu  Ore no Kyonyuu Osananajimi wa Natsu no Aida ni Otona no
       Te de Mesu ni Sareteita | Natsuki''s Summer: My Big-Busted Childhood Friend Was
       Turned Into a Woman by Adult Hands During the Summer'
@@ -2100,6 +2108,14 @@ works:
     date: '2026-09-26'
     code: 684124
     url: /works/684124/
+  - title: Gal to Otaku no Idenshi Aishou Batsugun H |  Hot Sex Between a Gal and an
+      Otaku With Perfect Genes Compatibility
+    author: joucho
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684305.jpg
+    rating: 0.0
+    date: '2026-09-27'
+    code: 684305
+    url: /works/684305/
   - title: Suki na Ko no Beit Saki ga H na Service o Shiteiru 5 | My Favorite Girl's
       Part-time Job Offers H Services to Regular Customers 5
     author: tohyama-eight

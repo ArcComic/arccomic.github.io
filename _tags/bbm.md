@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bbm"
-work_count: 101
+work_count: 103
 works:
   - title: Kindan no Hatemitsu
     author: ryuuta
@@ -446,6 +446,14 @@ works:
     date: '2026-05-10'
     code: 649068
     url: /works/649068/
+  - title: Namaiki Gal o Succubus ni Shite Oshioki Shitatta Ken 2 | The Case Where I
+      Turned a Bratty Gal Into a Succubus and Punished Her 2
+    author: takurowo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/650625.jpg
+    rating: 0.0
+    date: '2026-09-27'
+    code: 650625
+    url: /works/650625/
   - title: Jill's Rehabilitation
     author: sawao
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651296.jpg
@@ -742,6 +750,13 @@ works:
     date: '2026-09-25'
     code: 683984
     url: /works/683984/
+  - title: Namaiki Gal o Succubus ni Shite Oshioki Shitatta Ken Final
+    author: takurowo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684215.jpg
+    rating: 0.0
+    date: '2026-09-27'
+    code: 684215
+    url: /works/684215/
   - title: Oyaji no Saikon Aite wa Sukidatta Boku no Osananajimi
     author: makuma-ikeru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684314.jpg

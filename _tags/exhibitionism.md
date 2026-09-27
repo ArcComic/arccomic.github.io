@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "exhibitionism"
-work_count: 66
+work_count: 67
 works:
   - title: Watashi-tachi no Seikoui Tokubetsu Jisshuu -Zengi Hen-
     author: guglielmo
@@ -480,6 +480,14 @@ works:
     date: '2026-09-25'
     code: 683984
     url: /works/683984/
+  - title: Gal to Otaku no Idenshi Aishou Batsugun H |  Hot Sex Between a Gal and an
+      Otaku With Perfect Genes Compatibility
+    author: joucho
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684305.jpg
+    rating: 0.0
+    date: '2026-09-27'
+    code: 684305
+    url: /works/684305/
   - title: Suki na Ko no Beit Saki ga H na Service o Shiteiru 5 | My Favorite Girl's
       Part-time Job Offers H Services to Regular Customers 5
     author: tohyama-eight

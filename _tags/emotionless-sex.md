@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "emotionless sex"
-work_count: 22
+work_count: 23
 works:
   - title: Maid no Oshigoto. II | Maid's Work II
     author: alexi-laiho
@@ -157,6 +157,14 @@ works:
     date: '2026-08-31'
     code: 669505
     url: /works/669505/
+  - title: Downer Hitozuma wa Teishu Kanpaku Otto o Wakaraseru | The Gloomy Housewife
+      Puts Her Domineering Husband in His Place
+    author: joucho
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/672405.jpg
+    rating: 0.0
+    date: '2026-09-27'
+    code: 672405
+    url: /works/672405/
   - title: Chigyuu InCha ga Imouto ni Tsurerare Shuugaku Ryokou JK Shikainai Daiyokujou
       de Geneki JK to Gomunashi 18P Harem Dairankou!! | A Loser Introvert Gets Dragged
       by His Little Sister to a School Trip Bathhouse With Nothing but High School Girls

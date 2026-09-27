@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "mosaic censorship"
-work_count: 272
+work_count: 275
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -916,6 +916,13 @@ works:
     date: '2026-04-27'
     code: 618562
     url: /works/618562/
+  - title: Saimin Idol Gakuen 3 Rei Hen
+    author: sunagimo-dx
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/626417.jpg
+    rating: 0.0
+    date: '2026-09-27'
+    code: 626417
+    url: /works/626417/
   - title: I have a secret relationship with my grandmother, without my mother knowing...
       ♡
     author: popotto-denki-ichigouten
@@ -1293,6 +1300,13 @@ works:
     date: '2026-09-27'
     code: 650138
     url: /works/650138/
+  - title: Smoking Hypnosis Season 01
+    author: dr-stein
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/650361.jpg
+    rating: 4.0
+    date: '2026-09-27'
+    code: 650361
+    url: /works/650361/
   - title: Ally-san wa Doko Demo Ikitai!! 3
     author: inukami-inoji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/650926.jpg
@@ -1466,6 +1480,13 @@ works:
     date: '2026-09-19'
     code: 662751
     url: /works/662751/
+  - title: n baito
+    author: aka-no-hana
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662797.jpg
+    rating: 0.0
+    date: '2026-09-27'
+    code: 662797
+    url: /works/662797/
   - title: Buck-Chichi! | Gambling! Volume 2
     author: lime
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662877.jpg

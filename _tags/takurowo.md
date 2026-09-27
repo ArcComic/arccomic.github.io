@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "takurowo"
-work_count: 3
+work_count: 5
 works:
   - title: Mugon Muhyoujou no Kasshoku Elf, Rental Shitemasu + Gojitsudan | Rent-an-Elf
       + Afterstory
@@ -11,6 +11,14 @@ works:
     date: '2026-09-26'
     code: 610903
     url: /works/610903/
+  - title: Namaiki Gal o Succubus ni Shite Oshioki Shitatta Ken 2 | The Case Where I
+      Turned a Bratty Gal Into a Succubus and Punished Her 2
+    author: takurowo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/650625.jpg
+    rating: 0.0
+    date: '2026-09-27'
+    code: 650625
+    url: /works/650625/
   - title: 'Namaiki Gal o Succubus ni Shite Oshioki Shitatta Ken 4  | Turning a Bratty
       Gal into a Succubus for Punishment #4'
     author: takurowo
@@ -27,4 +35,11 @@ works:
     date: '2026-09-26'
     code: 653287
     url: /works/653287/
+  - title: Namaiki Gal o Succubus ni Shite Oshioki Shitatta Ken Final
+    author: takurowo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684215.jpg
+    rating: 0.0
+    date: '2026-09-27'
+    code: 684215
+    url: /works/684215/
 ---

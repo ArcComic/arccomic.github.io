@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "anal"
-work_count: 130
+work_count: 134
 works:
   - title: Hitozuma Hyakka
     author: hase-tsubura
@@ -327,6 +327,14 @@ works:
     date: '2026-05-26'
     code: 627182
     url: /works/627182/
+  - title: Hitozuma Kairou ~Danna Omoi no Hitozuma wa Saimin de Midara na Fuuzokujou
+      e Kawarihateru~ | Married Woman Rebrand
+    author: theremin
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/631572.jpg
+    rating: 0.0
+    date: '2026-09-27'
+    code: 631572
+    url: /works/631572/
   - title: Tada Sex Shitakatta dake nano ni SNS de Deatta Bimajo ga Scatolo Mania de,
       Boku wa... 1
     author: bonske
@@ -501,6 +509,14 @@ works:
     date: '2026-05-10'
     code: 649114
     url: /works/649114/
+  - title: Namaiki Gal o Succubus ni Shite Oshioki Shitatta Ken 2 | The Case Where I
+      Turned a Bratty Gal Into a Succubus and Punished Her 2
+    author: takurowo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/650625.jpg
+    rating: 0.0
+    date: '2026-09-27'
+    code: 650625
+    url: /works/650625/
   - title: Oshiego no Gal o Kau
     author: mitsudoue
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651197.jpg
@@ -931,6 +947,13 @@ works:
     date: '2026-09-24'
     code: 683693
     url: /works/683693/
+  - title: Poker Face na Shinonome-kun
+    author: kosyo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683874.jpg
+    rating: 0.0
+    date: '2026-09-27'
+    code: 683874
+    url: /works/683874/
   - title: Watashi no Oshiri no Hajimete o Anata-sama ni Sasagemasu | I offer my ass
       to you for the first time
     author: nadayui
@@ -939,6 +962,13 @@ works:
     date: '2026-09-26'
     code: 684127
     url: /works/684127/
+  - title: Namaiki Gal o Succubus ni Shite Oshioki Shitatta Ken Final
+    author: takurowo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684215.jpg
+    rating: 0.0
+    date: '2026-09-27'
+    code: 684215
+    url: /works/684215/
   - title: 'Josou Ouji wa Wakarasetai! ep.4 Ottori Haha mo Mazaritai! | The Crossdressing
       Prince Who Tried to Teach his Little Sisters a Lesson - Episode 4: The Gentle
       Mom Who Doesn''t Want to Be Left Out'

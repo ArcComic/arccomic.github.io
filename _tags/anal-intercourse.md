@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "anal intercourse"
-work_count: 74
+work_count: 76
 works:
   - title: Bitch Mama no Kekkon Riyuu
     author: aoyama-akira
@@ -263,6 +263,14 @@ works:
     date: '2026-05-10'
     code: 649114
     url: /works/649114/
+  - title: Namaiki Gal o Succubus ni Shite Oshioki Shitatta Ken 2 | The Case Where I
+      Turned a Bratty Gal Into a Succubus and Punished Her 2
+    author: takurowo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/650625.jpg
+    rating: 0.0
+    date: '2026-09-27'
+    code: 650625
+    url: /works/650625/
   - title: Iki Jigoku Refle ni Tokeru Otto Tanshinfunin Hitozuma Inmou Ari
     author: kotoyoshi-yumisuke
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651442.jpg
@@ -539,6 +547,13 @@ works:
     date: '2026-09-23'
     code: 683318
     url: /works/683318/
+  - title: Poker Face na Shinonome-kun
+    author: kosyo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683874.jpg
+    rating: 0.0
+    date: '2026-09-27'
+    code: 683874
+    url: /works/683874/
   - title: Watashi no Oshiri no Hajimete o Anata-sama ni Sasagemasu | I offer my ass
       to you for the first time
     author: nadayui

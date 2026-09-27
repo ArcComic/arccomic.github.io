@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "dark skin"
-work_count: 132
+work_count: 134
 works:
   - title: Birthday
     author: hashiba-yachi
@@ -774,6 +774,14 @@ works:
     date: '2026-09-04'
     code: 669459
     url: /works/669459/
+  - title: Downer Hitozuma wa Teishu Kanpaku Otto o Wakaraseru | The Gloomy Housewife
+      Puts Her Domineering Husband in His Place
+    author: joucho
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/672405.jpg
+    rating: 0.0
+    date: '2026-09-27'
+    code: 672405
+    url: /works/672405/
   - title: Watashi no Kareshi to Motokare o Shoukai shimasu
     author: hone
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673774.jpg
@@ -973,4 +981,11 @@ works:
     date: '2026-09-26'
     code: 684010
     url: /works/684010/
+  - title: GOOD WIFE
+    author: laliberte
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684283.jpg
+    rating: 0.0
+    date: '2026-09-27'
+    code: 684283
+    url: /works/684283/
 ---

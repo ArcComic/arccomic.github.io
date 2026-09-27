@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "smoking"
-work_count: 5
+work_count: 7
 works:
   - title: Shirotaegiku | Dusty miller
     author: hiroya
@@ -32,6 +32,13 @@ works:
     date: '2026-03-07'
     code: 634464
     url: /works/634464/
+  - title: Smoking Hypnosis Season 01
+    author: dr-stein
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/650361.jpg
+    rating: 4.0
+    date: '2026-09-27'
+    code: 650361
+    url: /works/650361/
   - title: Downer-kei Arafour Newhalf to Shinkon-san-gokko | Playing Newlyweds With
       A Gloomy Around-Forty Newhalf
     author: yuuki-konefu
@@ -40,4 +47,11 @@ works:
     date: '2026-09-10'
     code: 679961
     url: /works/679961/
+  - title: GOOD WIFE
+    author: laliberte
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684283.jpg
+    rating: 0.0
+    date: '2026-09-27'
+    code: 684283
+    url: /works/684283/
 ---

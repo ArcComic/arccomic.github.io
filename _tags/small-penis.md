@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "small penis"
-work_count: 11
+work_count: 13
 works:
   - title: Shut-less
     author: mr-hokke
@@ -82,4 +82,19 @@ works:
     date: '2026-09-23'
     code: 683318
     url: /works/683318/
+  - title: Poker Face na Shinonome-kun
+    author: kosyo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683874.jpg
+    rating: 0.0
+    date: '2026-09-27'
+    code: 683874
+    url: /works/683874/
+  - title: Gal to Otaku no Idenshi Aishou Batsugun H |  Hot Sex Between a Gal and an
+      Otaku With Perfect Genes Compatibility
+    author: joucho
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684305.jpg
+    rating: 0.0
+    date: '2026-09-27'
+    code: 684305
+    url: /works/684305/
 ---

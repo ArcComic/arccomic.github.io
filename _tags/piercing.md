@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "piercing"
-work_count: 40
+work_count: 41
 works:
   - title: Makai Kishi Ingrid ni Nakadashi Dekiru Soapland | A Soapland Where You Can
       Creampie Dark Knight Ingrid
@@ -84,6 +84,14 @@ works:
     date: '2026-05-26'
     code: 631036
     url: /works/631036/
+  - title: Hitozuma Kairou ~Danna Omoi no Hitozuma wa Saimin de Midara na Fuuzokujou
+      e Kawarihateru~ | Married Woman Rebrand
+    author: theremin
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/631572.jpg
+    rating: 0.0
+    date: '2026-09-27'
+    code: 631572
+    url: /works/631572/
   - title: moderately risky 2
     author: borikori
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/632800.jpg
