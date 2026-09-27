@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "kissing"
-work_count: 301
+work_count: 304
 works:
   - title: FLUFFY LAUGH GIRL
     author: shibasaki-syouzi
@@ -1398,6 +1398,13 @@ works:
     date: '2026-09-24'
     code: 649317
     url: /works/649317/
+  - title: Tomodachi no Mama ga Boku no Dekachin de Ikimakutta Omoide
+    author: rk-2
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/650138.jpg
+    rating: 4.5
+    date: '2026-09-27'
+    code: 650138
+    url: /works/650138/
   - title: Ally-san wa Doko Demo Ikitai!! 3
     author: inukami-inoji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/650926.jpg
@@ -2263,4 +2270,20 @@ works:
     date: '2026-09-26'
     code: 684139
     url: /works/684139/
+  - title: Oyaji no Saikon Aite wa Sukidatta Boku no Osananajimi
+    author: makuma-ikeru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684314.jpg
+    rating: 0.0
+    date: '2026-09-27'
+    code: 684314
+    url: /works/684314/
+  - title: 'Josou Ouji wa Wakarasetai! ep.4 Ottori Haha mo Mazaritai! | The Crossdressing
+      Prince Who Tried to Teach his Little Sisters a Lesson - Episode 4: The Gentle
+      Mom Who Doesn''t Want to Be Left Out'
+    author: toji
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684322.jpg
+    rating: 0.0
+    date: '2026-09-27'
+    code: 684322
+    url: /works/684322/
 ---

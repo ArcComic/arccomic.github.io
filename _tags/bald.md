@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bald"
-work_count: 67
+work_count: 68
 works:
   - title: Overwrite
     author: ojo
@@ -498,4 +498,11 @@ works:
     date: '2026-09-23'
     code: 683319
     url: /works/683319/
+  - title: Oyaji no Saikon Aite wa Sukidatta Boku no Osananajimi
+    author: makuma-ikeru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684314.jpg
+    rating: 0.0
+    date: '2026-09-27'
+    code: 684314
+    url: /works/684314/
 ---

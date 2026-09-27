@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "mother"
-work_count: 136
+work_count: 138
 works:
   - title: Imitation Family + Bigibo Hen
     author: tohzai
@@ -616,6 +616,13 @@ works:
     date: '2026-07-17'
     code: 648073
     url: /works/648073/
+  - title: Tomodachi no Mama ga Boku no Dekachin de Ikimakutta Omoide
+    author: rk-2
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/650138.jpg
+    rating: 4.5
+    date: '2026-09-27'
+    code: 650138
+    url: /works/650138/
   - title: Akogare no Tomo Mama to Matching Shita Ken | The Time I Matched With My Admired
       Friend's Mom
     author: shimofuri
@@ -998,4 +1005,13 @@ works:
     date: '2026-09-24'
     code: 683749
     url: /works/683749/
+  - title: 'Josou Ouji wa Wakarasetai! ep.4 Ottori Haha mo Mazaritai! | The Crossdressing
+      Prince Who Tried to Teach his Little Sisters a Lesson - Episode 4: The Gentle
+      Mom Who Doesn''t Want to Be Left Out'
+    author: toji
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684322.jpg
+    rating: 0.0
+    date: '2026-09-27'
+    code: 684322
+    url: /works/684322/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "milf"
-work_count: 368
+work_count: 372
 works:
   - title: Life with Married Women Just Like a Manga 2 - Ch. 1-5
     author: hidemaru
@@ -1358,6 +1358,13 @@ works:
     date: '2026-08-25'
     code: 613739
     url: /works/613739/
+  - title: Oku-sama Shachou wa Miraretai | Madam President Wants to Be Seen
+    author: minamida-usuke
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/615333.jpg
+    rating: 0.0
+    date: '2026-09-27'
+    code: 615333
+    url: /works/615333/
   - title: Tomodachi ga Tsuretekita Oba-san 1
     author: exit-up
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/615538.jpg
@@ -1386,6 +1393,13 @@ works:
     date: '2026-08-25'
     code: 616367
     url: /works/616367/
+  - title: Tonari no Ie no Muboubi de Seibo sugiru Gal Mama
+    author: rk-2
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/617061.jpg
+    rating: 0.0
+    date: '2026-09-27'
+    code: 617061
+    url: /works/617061/
   - title: 'Gal to Meccha Namahame Nakadashi Ecchi Suru Hanashi #5'
     author: pistonring-nishizawa
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/617805.jpg
@@ -1794,6 +1808,13 @@ works:
     date: '2026-09-22'
     code: 649307
     url: /works/649307/
+  - title: Tomodachi no Mama ga Boku no Dekachin de Ikimakutta Omoide
+    author: rk-2
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/650138.jpg
+    rating: 4.5
+    date: '2026-09-27'
+    code: 650138
+    url: /works/650138/
   - title: Musume no Kawari ni | Instead of My Daughter
     author: nanao-yukiji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651309.jpg
@@ -2692,6 +2713,15 @@ works:
     date: '2026-09-25'
     code: 683984
     url: /works/683984/
+  - title: 'Josou Ouji wa Wakarasetai! ep.4 Ottori Haha mo Mazaritai! | The Crossdressing
+      Prince Who Tried to Teach his Little Sisters a Lesson - Episode 4: The Gentle
+      Mom Who Doesn''t Want to Be Left Out'
+    author: toji
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684322.jpg
+    rating: 0.0
+    date: '2026-09-27'
+    code: 684322
+    url: /works/684322/
   - title: Jokyoushi - Hot For Teachers | Female Teachers
     author: drill-murata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/81375.jpg

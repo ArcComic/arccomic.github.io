@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "x-ray"
-work_count: 263
+work_count: 266
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -640,6 +640,13 @@ works:
     date: '2026-04-17'
     code: 612957
     url: /works/612957/
+  - title: Oku-sama Shachou wa Miraretai | Madam President Wants to Be Seen
+    author: minamida-usuke
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/615333.jpg
+    rating: 0.0
+    date: '2026-09-27'
+    code: 615333
+    url: /works/615333/
   - title: Rikujoubu no Bokukko Doukyuusei ga Chuunen Komon ni Mesu ni Sareru Ichibu
       Shijuu
     author: marushin
@@ -1975,4 +1982,20 @@ works:
     date: '2026-09-26'
     code: 684139
     url: /works/684139/
+  - title: Oyaji no Saikon Aite wa Sukidatta Boku no Osananajimi
+    author: makuma-ikeru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684314.jpg
+    rating: 0.0
+    date: '2026-09-27'
+    code: 684314
+    url: /works/684314/
+  - title: 'Josou Ouji wa Wakarasetai! ep.4 Ottori Haha mo Mazaritai! | The Crossdressing
+      Prince Who Tried to Teach his Little Sisters a Lesson - Episode 4: The Gentle
+      Mom Who Doesn''t Want to Be Left Out'
+    author: toji
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684322.jpg
+    rating: 0.0
+    date: '2026-09-27'
+    code: 684322
+    url: /works/684322/
 ---

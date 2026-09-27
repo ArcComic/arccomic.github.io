@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "demon girl"
-work_count: 10
+work_count: 11
 works:
   - title: Junpaku Terrarium - Garden of Lovers
     author: sakuma-tsukasa
@@ -76,4 +76,13 @@ works:
     date: '2026-09-20'
     code: 682579
     url: /works/682579/
+  - title: 'Josou Ouji wa Wakarasetai! ep.4 Ottori Haha mo Mazaritai! | The Crossdressing
+      Prince Who Tried to Teach his Little Sisters a Lesson - Episode 4: The Gentle
+      Mom Who Doesn''t Want to Be Left Out'
+    author: toji
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684322.jpg
+    rating: 0.0
+    date: '2026-09-27'
+    code: 684322
+    url: /works/684322/
 ---

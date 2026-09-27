@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "lactation"
-work_count: 31
+work_count: 32
 works:
   - title: NTR Nindou | The NTR Ninja Way
     author: tokie-hirohito
@@ -128,6 +128,13 @@ works:
     date: '2026-07-13'
     code: 648800
     url: /works/648800/
+  - title: Tomodachi no Mama ga Boku no Dekachin de Ikimakutta Omoide
+    author: rk-2
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/650138.jpg
+    rating: 4.5
+    date: '2026-09-27'
+    code: 650138
+    url: /works/650138/
   - title: Kyonyuu no Tomodachi to Tsukiau made no Hanashi | Maybe We'll Start Dating
       Someday
     author: fuguta-ke

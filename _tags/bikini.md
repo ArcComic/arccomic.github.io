@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bikini"
-work_count: 71
+work_count: 72
 works:
   - title: Kizashi
     author: yoshiura-kazuya
@@ -155,6 +155,13 @@ works:
     date: '2026-04-17'
     code: 612957
     url: /works/612957/
+  - title: Oku-sama Shachou wa Miraretai | Madam President Wants to Be Seen
+    author: minamida-usuke
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/615333.jpg
+    rating: 0.0
+    date: '2026-09-27'
+    code: 615333
+    url: /works/615333/
   - title: Futari de Watashi o Ikasenaide...! ~Kurayami, Majiwaru Kyoudai Futon~  |
       My 2 Step-Brothers are Ganging Up on Me!  Vol.1
     author: ma-yu

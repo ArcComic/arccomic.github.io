@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "hairy"
-work_count: 237
+work_count: 240
 works:
   - title: Adoration
     author: kishizuka-kenji
@@ -1062,6 +1062,13 @@ works:
     date: '2026-05-10'
     code: 648952
     url: /works/648952/
+  - title: Tomodachi no Mama ga Boku no Dekachin de Ikimakutta Omoide
+    author: rk-2
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/650138.jpg
+    rating: 4.5
+    date: '2026-09-27'
+    code: 650138
+    url: /works/650138/
   - title: Musume no Kawari ni | Instead of My Daughter
     author: nanao-yukiji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651309.jpg
@@ -1742,4 +1749,21 @@ works:
     date: '2026-09-26'
     code: 684127
     url: /works/684127/
+  - title: 'Josou Ouji wa Wakarasetai! ep.4 Ottori Haha mo Mazaritai! | The Crossdressing
+      Prince Who Tried to Teach his Little Sisters a Lesson - Episode 4: The Gentle
+      Mom Who Doesn''t Want to Be Left Out'
+    author: toji
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684322.jpg
+    rating: 0.0
+    date: '2026-09-27'
+    code: 684322
+    url: /works/684322/
+  - title: Suki na Ko no Beit Saki ga H na Service o Shiteiru 5 | My Favorite Girl's
+      Part-time Job Offers H Services to Regular Customers 5
+    author: tohyama-eight
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684392.jpg
+    rating: 4.1
+    date: '2026-09-27'
+    code: 684392
+    url: /works/684392/
 ---

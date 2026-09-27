@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "handjob"
-work_count: 116
+work_count: 118
 works:
   - title: Chibo Soukan Ch.1-3
     author: natsu-no-oyatsu
@@ -292,6 +292,13 @@ works:
     date: '2026-09-09'
     code: 614204
     url: /works/614204/
+  - title: Tonari no Ie no Muboubi de Seibo sugiru Gal Mama
+    author: rk-2
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/617061.jpg
+    rating: 0.0
+    date: '2026-09-27'
+    code: 617061
+    url: /works/617061/
   - title: Mamami Numa | Addicted to Her Motherly Vibes
     author: ruruepa
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/619648.jpg
@@ -867,6 +874,15 @@ works:
     date: '2026-09-24'
     code: 683744
     url: /works/683744/
+  - title: 'Josou Ouji wa Wakarasetai! ep.4 Ottori Haha mo Mazaritai! | The Crossdressing
+      Prince Who Tried to Teach his Little Sisters a Lesson - Episode 4: The Gentle
+      Mom Who Doesn''t Want to Be Left Out'
+    author: toji
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684322.jpg
+    rating: 0.0
+    date: '2026-09-27'
+    code: 684322
+    url: /works/684322/
   - title: Onee-chan no SM Kouza | Onee-chan's S&M Lecture
     author: shinooka-homare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/88750.jpg

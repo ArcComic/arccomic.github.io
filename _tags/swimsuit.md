@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "swimsuit"
-work_count: 65
+work_count: 66
 works:
   - title: Kizashi
     author: yoshiura-kazuya
@@ -119,6 +119,13 @@ works:
     date: '2026-03-02'
     code: 603756
     url: /works/603756/
+  - title: Oku-sama Shachou wa Miraretai | Madam President Wants to Be Seen
+    author: minamida-usuke
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/615333.jpg
+    rating: 0.0
+    date: '2026-09-27'
+    code: 615333
+    url: /works/615333/
   - title: Rikujoubu no Bokukko Doukyuusei ga Chuunen Komon ni Mesu ni Sareru Ichibu
       Shijuu
     author: marushin

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "exposed clothing"
-work_count: 13
+work_count: 14
 works:
   - title: Yofukashi no Tsuma ~Murakami Kozue~ | Late-Night Wife ~Murakami Kozue~
     author: oobayashi-mori
@@ -33,6 +33,13 @@ works:
     date: '2026-04-17'
     code: 566835
     url: /works/566835/
+  - title: Oku-sama Shachou wa Miraretai | Madam President Wants to Be Seen
+    author: minamida-usuke
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/615333.jpg
+    rating: 0.0
+    date: '2026-09-27'
+    code: 615333
+    url: /works/615333/
   - title: Oshiego no Gal o Kau
     author: mitsudoue
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651197.jpg

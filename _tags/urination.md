@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "urination"
-work_count: 41
+work_count: 42
 works:
   - title: Boku no Kazoku o Sarashimasu Ch. 3
     author: tanaka-aji
@@ -306,4 +306,12 @@ works:
     date: '2026-09-26'
     code: 684127
     url: /works/684127/
+  - title: Suki na Ko no Beit Saki ga H na Service o Shiteiru 5 | My Favorite Girl's
+      Part-time Job Offers H Services to Regular Customers 5
+    author: tohyama-eight
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684392.jpg
+    rating: 4.1
+    date: '2026-09-27'
+    code: 684392
+    url: /works/684392/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "impregnation"
-work_count: 117
+work_count: 118
 works:
   - title: Kousa suru Osu to Mesu | Male and Female Crossing
     author: ootsuka-kotora
@@ -860,6 +860,13 @@ works:
     date: '2026-09-25'
     code: 683992
     url: /works/683992/
+  - title: Oyaji no Saikon Aite wa Sukidatta Boku no Osananajimi
+    author: makuma-ikeru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684314.jpg
+    rating: 0.0
+    date: '2026-09-27'
+    code: 684314
+    url: /works/684314/
   - title: Inin Keiyaku | Lewd Pregnancy Contract
     author: yoshiura-kazuya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/83595.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "mosaic censorship"
-work_count: 270
+work_count: 272
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -893,6 +893,13 @@ works:
     date: '2026-04-27'
     code: 616533
     url: /works/616533/
+  - title: Tonari no Ie no Muboubi de Seibo sugiru Gal Mama
+    author: rk-2
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/617061.jpg
+    rating: 0.0
+    date: '2026-09-27'
+    code: 617061
+    url: /works/617061/
   - title: Shanai no Himegoto ~Stress Kaishou ni Kaisha no Toilet de Onani shite itara,
       Kouhai ni Kikarete shimatte ita Hanashi~ | Workplace Rendezvous ~Caught Masturbating
       in the Company Restroom by My Subordinate~
@@ -1279,6 +1286,13 @@ works:
     date: '2026-05-10'
     code: 649111
     url: /works/649111/
+  - title: Tomodachi no Mama ga Boku no Dekachin de Ikimakutta Omoide
+    author: rk-2
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/650138.jpg
+    rating: 4.5
+    date: '2026-09-27'
+    code: 650138
+    url: /works/650138/
   - title: Ally-san wa Doko Demo Ikitai!! 3
     author: inukami-inoji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/650926.jpg

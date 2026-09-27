@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "rough translation"
-work_count: 551
+work_count: 553
 works:
   - title: Watashi no Karada, Okashi Shimasu. Bunny Girl Edition
     author: nectar
@@ -696,6 +696,13 @@ works:
     date: '2026-09-08'
     code: 616896
     url: /works/616896/
+  - title: Tonari no Ie no Muboubi de Seibo sugiru Gal Mama
+    author: rk-2
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/617061.jpg
+    rating: 0.0
+    date: '2026-09-27'
+    code: 617061
+    url: /works/617061/
   - title: Tatoeba Konna Million Theater Soushuuhen I
     author: binsen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/617600.jpg
@@ -1474,6 +1481,13 @@ works:
     date: '2026-09-24'
     code: 649317
     url: /works/649317/
+  - title: Tomodachi no Mama ga Boku no Dekachin de Ikimakutta Omoide
+    author: rk-2
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/650138.jpg
+    rating: 4.5
+    date: '2026-09-27'
+    code: 650138
+    url: /works/650138/
   - title: Sukebe Gal no Cosplayer to Offpako Shiteru Hanashi
     author: inu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/650302.jpg
