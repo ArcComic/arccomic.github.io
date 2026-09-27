@@ -41,7 +41,7 @@ works:
   - title: Komorebi no Ori
     author: hitoi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/309899.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-09-26'
     code: 309899
     url: /works/309899/
@@ -266,7 +266,7 @@ works:
   - title: Anata Senyou no Niku Onaho desu | Your very own meat onahole
     author: noe
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/581946.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-26'
     code: 581946
     url: /works/581946/
@@ -817,7 +817,7 @@ works:
       in my Onee-chan's Body-
     author: naba
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684142.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-26'
     code: 684142
     url: /works/684142/

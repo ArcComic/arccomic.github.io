@@ -1477,7 +1477,7 @@ works:
   - title: Sukebe Gal no Cosplayer to Offpako Shiteru Hanashi
     author: inu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/650302.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-26'
     code: 650302
     url: /works/650302/
@@ -1619,7 +1619,7 @@ works:
   - title: Until I Take Everything From You 3-B
     author: takotokite
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654244.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-09-26'
     code: 654244
     url: /works/654244/
@@ -1740,7 +1740,7 @@ works:
   - title: 'Oshi No Ko BEHIND THE STAGE #2'
     author: gsus
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/655528.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-26'
     code: 655528
     url: /works/655528/
@@ -2857,7 +2857,7 @@ works:
   - title: Dr. Sae's Sexual Behavior Study
     author: torichamaru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/675652.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-26'
     code: 675652
     url: /works/675652/
@@ -4001,7 +4001,7 @@ works:
       my kinks and then got married behind my back
     author: nako-sir
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684077.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-26'
     code: 684077
     url: /works/684077/
@@ -4010,7 +4010,7 @@ works:
       Liked Was Stolen by My Best Friend'
     author: kuroneko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684124.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-26'
     code: 684124
     url: /works/684124/

@@ -450,7 +450,7 @@ works:
       Senpai Cum Over & Over Doggy Style
     author: arimura-daikon
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/396702.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-26'
     code: 396702
     url: /works/396702/
@@ -471,7 +471,7 @@ works:
   - title: SUCCUBUS MONOGATARI
     author: mackgee
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/400846.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-26'
     code: 400846
     url: /works/400846/
@@ -865,7 +865,7 @@ works:
   - title: Boku no Doutei wa Neteru Aida ni... Ubawaremashita
     author: kinntarou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/490633.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-26'
     code: 490633
     url: /works/490633/
@@ -1825,7 +1825,7 @@ works:
   - title: Anata Senyou no Niku Onaho desu | Your very own meat onahole
     author: noe
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/581946.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-26'
     code: 581946
     url: /works/581946/
@@ -1842,7 +1842,7 @@ works:
   - title: Shinchou 211 cm no Jirai-kei Joshi ni Nerawarete mou Nigerarenai 2
     author: kinntarou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/584135.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-26'
     code: 584135
     url: /works/584135/
@@ -2275,7 +2275,7 @@ works:
       + Afterstory
     author: takurowo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/610903.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-26'
     code: 610903
     url: /works/610903/
@@ -3710,7 +3710,7 @@ works:
   - title: Sukebe Gal no Cosplayer to Offpako Shiteru Hanashi
     author: inu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/650302.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-26'
     code: 650302
     url: /works/650302/
@@ -6673,7 +6673,7 @@ works:
   - title: It's Not Like We're Related
     author: zonebell-tsukiji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684010.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-26'
     code: 684010
     url: /works/684010/
@@ -6689,7 +6689,7 @@ works:
       Liked Was Stolen by My Best Friend'
     author: kuroneko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684124.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-26'
     code: 684124
     url: /works/684124/
@@ -6713,7 +6713,7 @@ works:
       in my Onee-chan's Body-
     author: naba
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684142.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-26'
     code: 684142
     url: /works/684142/

@@ -27,7 +27,7 @@ works:
   - title: SUCCUBUS MONOGATARI
     author: mackgee
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/400846.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-26'
     code: 400846
     url: /works/400846/
@@ -330,7 +330,7 @@ works:
       + Afterstory
     author: takurowo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/610903.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-26'
     code: 610903
     url: /works/610903/
@@ -581,7 +581,7 @@ works:
   - title: 'Oshi No Ko BEHIND THE STAGE #2'
     author: gsus
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/655528.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-26'
     code: 655528
     url: /works/655528/
@@ -795,7 +795,7 @@ works:
   - title: It's Not Like We're Related
     author: zonebell-tsukiji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684010.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-26'
     code: 684010
     url: /works/684010/

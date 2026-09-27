@@ -495,7 +495,7 @@ works:
   - title: Sukebe Gal no Cosplayer to Offpako Shiteru Hanashi
     author: inu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/650302.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-26'
     code: 650302
     url: /works/650302/
@@ -554,7 +554,7 @@ works:
   - title: Until I Take Everything From You 3-B
     author: takotokite
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654244.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-09-26'
     code: 654244
     url: /works/654244/
@@ -865,7 +865,7 @@ works:
       Liked Was Stolen by My Best Friend'
     author: kuroneko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684124.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-26'
     code: 684124
     url: /works/684124/

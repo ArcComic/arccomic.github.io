@@ -98,7 +98,7 @@ works:
       + Afterstory
     author: takurowo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/610903.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-26'
     code: 610903
     url: /works/610903/
@@ -150,7 +150,7 @@ works:
   - title: Sukebe Gal no Cosplayer to Offpako Shiteru Hanashi
     author: inu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/650302.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-26'
     code: 650302
     url: /works/650302/
@@ -202,7 +202,7 @@ works:
   - title: Dr. Sae's Sexual Behavior Study
     author: torichamaru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/675652.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-26'
     code: 675652
     url: /works/675652/
