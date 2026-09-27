@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "blackmail"
-work_count: 127
+work_count: 128
 works:
   - title: Birthday
     author: hashiba-yachi
@@ -295,6 +295,13 @@ works:
     date: '2026-09-11'
     code: 545896
     url: /works/545896/
+  - title: Inyoku no Tou - the luxury tower of sexual desire
+    author: hozumi-kenji
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/549608.jpg
+    rating: 0.0
+    date: '2026-09-27'
+    code: 549608
+    url: /works/549608/
   - title: Gokinjo Trouble ni wa Gochuui o | Watch Out For Trouble in Your Neighborhood
     author: hotate-chan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/553426.jpg
@@ -852,7 +859,7 @@ works:
       Welcome Party
     author: mafen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680588.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-27'
     code: 680588
     url: /works/680588/
@@ -941,7 +948,7 @@ works:
   - title: GOOD WIFE
     author: laliberte
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684283.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-27'
     code: 684283
     url: /works/684283/

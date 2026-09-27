@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "filming"
-work_count: 86
+work_count: 87
 works:
   - title: Netorare Ibe Kiba Shizuka | The Netorare of Kiba Shizuka
     author: terasu-mc
@@ -128,6 +128,13 @@ works:
     date: '2026-09-11'
     code: 545896
     url: /works/545896/
+  - title: Inyoku no Tou - the luxury tower of sexual desire
+    author: hozumi-kenji
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/549608.jpg
+    rating: 0.0
+    date: '2026-09-27'
+    code: 549608
+    url: /works/549608/
   - title: Gokinjo Trouble ni wa Gochuui o | Watch Out For Trouble in Your Neighborhood
     author: hotate-chan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/553426.jpg
@@ -639,7 +646,7 @@ works:
   - title: Oyaji no Saikon Aite wa Sukidatta Boku no Osananajimi
     author: makuma-ikeru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684314.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-27'
     code: 684314
     url: /works/684314/

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "netorare"
-work_count: 369
+work_count: 370
 works:
   - title: Kousa suru Osu to Mesu | Male and Female Crossing
     author: ootsuka-kotora
@@ -751,6 +751,13 @@ works:
     date: '2026-09-11'
     code: 545896
     url: /works/545896/
+  - title: Inyoku no Tou - the luxury tower of sexual desire
+    author: hozumi-kenji
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/549608.jpg
+    rating: 0.0
+    date: '2026-09-27'
+    code: 549608
+    url: /works/549608/
   - title: Choukyou Zumi Hitozuma OL wa Joushi ni Dakare Futatabi Ochiru
     author: toono-suika
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/550164.jpg
@@ -1144,7 +1151,7 @@ works:
       e Kawarihateru~ | Married Woman Rebrand
     author: theremin
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/631572.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-27'
     code: 631572
     url: /works/631572/
@@ -1630,7 +1637,7 @@ works:
       Turned a Bratty Gal Into a Succubus and Punished Her 2
     author: takurowo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/650625.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-27'
     code: 650625
     url: /works/650625/
@@ -1866,7 +1873,7 @@ works:
   - title: n baito
     author: aka-no-hana
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662797.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-27'
     code: 662797
     url: /works/662797/
@@ -2371,7 +2378,7 @@ works:
       Welcome Party
     author: mafen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680588.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-27'
     code: 680588
     url: /works/680588/
@@ -2693,14 +2700,14 @@ works:
   - title: Namaiki Gal o Succubus ni Shite Oshioki Shitatta Ken Final
     author: takurowo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684215.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-27'
     code: 684215
     url: /works/684215/
   - title: GOOD WIFE
     author: laliberte
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684283.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-27'
     code: 684283
     url: /works/684283/
@@ -2708,14 +2715,14 @@ works:
       Otaku With Perfect Genes Compatibility
     author: joucho
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684305.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-27'
     code: 684305
     url: /works/684305/
   - title: Oyaji no Saikon Aite wa Sukidatta Boku no Osananajimi
     author: makuma-ikeru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684314.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-27'
     code: 684314
     url: /works/684314/

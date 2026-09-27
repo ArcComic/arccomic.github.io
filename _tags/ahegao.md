@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "ahegao"
-work_count: 259
+work_count: 262
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -653,7 +653,7 @@ works:
       e Kawarihateru~ | Married Woman Rebrand
     author: theremin
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/631572.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-27'
     code: 631572
     url: /works/631572/
@@ -1090,7 +1090,7 @@ works:
       Turned a Bratty Gal Into a Succubus and Punished Her 2
     author: takurowo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/650625.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-27'
     code: 650625
     url: /works/650625/
@@ -1911,17 +1911,40 @@ works:
     date: '2026-09-26'
     code: 684127
     url: /works/684127/
+  - title: Shiri de Onna o Miwakeru Ore wa Onna Joushi no Yowami o Nigiru 2 | I, A Guy
+      Who Tells Women Apart By Their Asses, Got Blackmail On My Superior At Work 2
+    author: eco-heeky
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684178.jpg
+    rating: 0.0
+    date: '2026-09-27'
+    code: 684178
+    url: /works/684178/
+  - title: Machi de Deatta Deka Chichi Shiro Gal-tachi ni wa Noumitsu Tanetsuke H Sareretai
+      Himitsu no Riyuu ga Aru
+    author: kumatora-amasora-taichi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684191.jpg
+    rating: 0.0
+    date: '2026-09-27'
+    code: 684191
+    url: /works/684191/
+  - title: Oshikake Jealousy | Uninvited Jealousy
+    author: aiu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684209.jpg
+    rating: 0.0
+    date: '2026-09-27'
+    code: 684209
+    url: /works/684209/
   - title: Namaiki Gal o Succubus ni Shite Oshioki Shitatta Ken Final
     author: takurowo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684215.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-27'
     code: 684215
     url: /works/684215/
   - title: GOOD WIFE
     author: laliberte
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684283.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-27'
     code: 684283
     url: /works/684283/
@@ -1929,7 +1952,7 @@ works:
       Otaku With Perfect Genes Compatibility
     author: joucho
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684305.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-27'
     code: 684305
     url: /works/684305/
@@ -1938,7 +1961,7 @@ works:
       Mom Who Doesn''t Want to Be Left Out'
     author: toji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684322.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-27'
     code: 684322
     url: /works/684322/

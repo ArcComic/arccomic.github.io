@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "mind control"
-work_count: 55
+work_count: 56
 works:
   - title: Ayami Hypno
     author: yasuhiro
@@ -138,7 +138,7 @@ works:
   - title: Saimin Idol Gakuen 3 Rei Hen
     author: sunagimo-dx
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/626417.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-27'
     code: 626417
     url: /works/626417/
@@ -154,7 +154,7 @@ works:
       e Kawarihateru~ | Married Woman Rebrand
     author: theremin
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/631572.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-27'
     code: 631572
     url: /works/631572/
@@ -233,7 +233,7 @@ works:
       Turned a Bratty Gal Into a Succubus and Punished Her 2
     author: takurowo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/650625.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-27'
     code: 650625
     url: /works/650625/
@@ -410,4 +410,11 @@ works:
     date: '2026-09-25'
     code: 683992
     url: /works/683992/
+  - title: Shin Eridu Bouei Hokan Keikaku Tokushu Senryoku Kotai Tousei Houan 2
+    author: paya8
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684183.jpg
+    rating: 0.0
+    date: '2026-09-27'
+    code: 684183
+    url: /works/684183/
 ---

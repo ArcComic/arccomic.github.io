@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "deepthroat"
-work_count: 68
+work_count: 69
 works:
   - title: Toshishita Chin Kui Obasan
     author: maccha-neji
@@ -499,17 +499,25 @@ works:
     date: '2026-09-26'
     code: 684124
     url: /works/684124/
+  - title: Shiri de Onna o Miwakeru Ore wa Onna Joushi no Yowami o Nigiru 2 | I, A Guy
+      Who Tells Women Apart By Their Asses, Got Blackmail On My Superior At Work 2
+    author: eco-heeky
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684178.jpg
+    rating: 0.0
+    date: '2026-09-27'
+    code: 684178
+    url: /works/684178/
   - title: Namaiki Gal o Succubus ni Shite Oshioki Shitatta Ken Final
     author: takurowo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684215.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-27'
     code: 684215
     url: /works/684215/
   - title: GOOD WIFE
     author: laliberte
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684283.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-27'
     code: 684283
     url: /works/684283/

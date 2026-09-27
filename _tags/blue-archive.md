@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "blue archive"
-work_count: 23
+work_count: 24
 works:
   - title: Mutsugaki Icha Love Book ~Sensei to Kakurenbo~ | MUTSUGAKI Lovey-Dovey Book
       ~Hide-and-seek with Sensei~
@@ -171,4 +171,11 @@ works:
     date: '2026-09-25'
     code: 683992
     url: /works/683992/
+  - title: Oshikake Jealousy | Uninvited Jealousy
+    author: aiu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684209.jpg
+    rating: 0.0
+    date: '2026-09-27'
+    code: 684209
+    url: /works/684209/
 ---

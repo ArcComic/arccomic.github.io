@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "mother"
-work_count: 138
+work_count: 140
 works:
   - title: Imitation Family + Bigibo Hen
     author: tohzai
@@ -245,6 +245,14 @@ works:
     date: '2026-04-15'
     code: 519274
     url: /works/519274/
+  - title: Tarachime no Nikutsubo ~Yokkyu Fuman no Haha ga Inran Dekachichi Deliherujou
+      datta node, Renzoku Nakadashi de Onaho ni Shitemita~
+    author: ginen
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/523955.jpg
+    rating: 0.0
+    date: '2026-09-27'
+    code: 523955
+    url: /works/523955/
   - title: Haha Netori
     author: aoi-hitori
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/527171.jpg
@@ -955,6 +963,14 @@ works:
     date: '2026-09-17'
     code: 681724
     url: /works/681724/
+  - title: This Is The Story Of A Mother Who Ends Up Comforting Her Heartbroken Son
+      With Her Body.
+    author: makoto-shiyaka
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682254.jpg
+    rating: 0.0
+    date: '2026-09-27'
+    code: 682254
+    url: /works/682254/
   - title: Ero Mama ~Erosugiru Hahaoya ga Futari dekita Hanashi~
     author: miyahara-ayumu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683307.jpg
@@ -1010,7 +1026,7 @@ works:
       Mom Who Doesn''t Want to Be Left Out'
     author: toji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684322.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-27'
     code: 684322
     url: /works/684322/

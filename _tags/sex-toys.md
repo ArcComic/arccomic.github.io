@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sex toys"
-work_count: 106
+work_count: 107
 works:
   - title: Ayami Hypno
     author: yasuhiro
@@ -142,6 +142,13 @@ works:
     date: '2026-02-25'
     code: 543086
     url: /works/543086/
+  - title: Inyoku no Tou - the luxury tower of sexual desire
+    author: hozumi-kenji
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/549608.jpg
+    rating: 0.0
+    date: '2026-09-27'
+    code: 549608
+    url: /works/549608/
   - title: Hayato-sensei no Mesu-ka Karute Daigaku-hen | Dr. Hayato's Feminization Medical
       Record ~University Edition~
     author: testame
@@ -778,7 +785,7 @@ works:
   - title: Namaiki Gal o Succubus ni Shite Oshioki Shitatta Ken Final
     author: takurowo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684215.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-27'
     code: 684215
     url: /works/684215/

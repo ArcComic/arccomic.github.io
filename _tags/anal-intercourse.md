@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "anal intercourse"
-work_count: 76
+work_count: 77
 works:
   - title: Bitch Mama no Kekkon Riyuu
     author: aoyama-akira
@@ -25,6 +25,13 @@ works:
     date: '2026-04-19'
     code: 534663
     url: /works/534663/
+  - title: Inyoku no Tou - the luxury tower of sexual desire
+    author: hozumi-kenji
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/549608.jpg
+    rating: 0.0
+    date: '2026-09-27'
+    code: 549608
+    url: /works/549608/
   - title: Hayato-sensei no Mesu-ka Karute Daigaku-hen | Dr. Hayato's Feminization Medical
       Record ~University Edition~
     author: testame
@@ -267,7 +274,7 @@ works:
       Turned a Bratty Gal Into a Succubus and Punished Her 2
     author: takurowo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/650625.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-27'
     code: 650625
     url: /works/650625/

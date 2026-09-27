@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "unusual pupils"
-work_count: 61
+work_count: 63
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -104,6 +104,14 @@ works:
     date: '2026-08-18'
     code: 482454
     url: /works/482454/
+  - title: Tomodachi no Mama ga Boku no Dekachin de Ikimakutta Oshougatsu Otoshidama
+      Soushuuhen
+    author: rk-2
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/483537.jpg
+    rating: 0.0
+    date: '2026-09-27'
+    code: 483537
+    url: /works/483537/
   - title: Syuju - Kankei
     author: 810eru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/489004.jpg
@@ -285,7 +293,7 @@ works:
       Turned a Bratty Gal Into a Succubus and Punished Her 2
     author: takurowo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/650625.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-27'
     code: 650625
     url: /works/650625/
@@ -373,7 +381,7 @@ works:
       Puts Her Domineering Husband in His Place
     author: joucho
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/672405.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-27'
     code: 672405
     url: /works/672405/
@@ -438,10 +446,18 @@ works:
     date: '2026-09-25'
     code: 683992
     url: /works/683992/
+  - title: Shiri de Onna o Miwakeru Ore wa Onna Joushi no Yowami o Nigiru 2 | I, A Guy
+      Who Tells Women Apart By Their Asses, Got Blackmail On My Superior At Work 2
+    author: eco-heeky
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684178.jpg
+    rating: 0.0
+    date: '2026-09-27'
+    code: 684178
+    url: /works/684178/
   - title: Namaiki Gal o Succubus ni Shite Oshioki Shitatta Ken Final
     author: takurowo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684215.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-27'
     code: 684215
     url: /works/684215/
@@ -449,7 +465,7 @@ works:
       Otaku With Perfect Genes Compatibility
     author: joucho
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684305.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-27'
     code: 684305
     url: /works/684305/

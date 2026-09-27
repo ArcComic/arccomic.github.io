@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "anal"
-work_count: 134
+work_count: 135
 works:
   - title: Hitozuma Hyakka
     author: hase-tsubura
@@ -170,6 +170,13 @@ works:
     date: '2026-07-17'
     code: 547393
     url: /works/547393/
+  - title: Inyoku no Tou - the luxury tower of sexual desire
+    author: hozumi-kenji
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/549608.jpg
+    rating: 0.0
+    date: '2026-09-27'
+    code: 549608
+    url: /works/549608/
   - title: Hayato-sensei no Mesu-ka Karute Daigaku-hen | Dr. Hayato's Feminization Medical
       Record ~University Edition~
     author: testame
@@ -331,7 +338,7 @@ works:
       e Kawarihateru~ | Married Woman Rebrand
     author: theremin
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/631572.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-27'
     code: 631572
     url: /works/631572/
@@ -513,7 +520,7 @@ works:
       Turned a Bratty Gal Into a Succubus and Punished Her 2
     author: takurowo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/650625.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-27'
     code: 650625
     url: /works/650625/
@@ -965,7 +972,7 @@ works:
   - title: Namaiki Gal o Succubus ni Shite Oshioki Shitatta Ken Final
     author: takurowo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684215.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-27'
     code: 684215
     url: /works/684215/
@@ -974,7 +981,7 @@ works:
       Mom Who Doesn''t Want to Be Left Out'
     author: toji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684322.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-27'
     code: 684322
     url: /works/684322/

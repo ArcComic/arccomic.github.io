@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bride"
-work_count: 10
+work_count: 12
 works:
   - title: Ichizu na Onee-san to Saikaishitara Dosukebe Kyuukonsarete Sex Tsukeninaru
       Hanashi | After Reuniting with the Onee-san Who is Fixated on Me, I was Proposed
@@ -12,6 +12,13 @@ works:
     date: '2026-09-12'
     code: 449158
     url: /works/449158/
+  - title: Auntie's Armpits, Sweat and Our Tomorrow
+    author: emori-uki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/513136.jpg
+    rating: 0.0
+    date: '2026-09-27'
+    code: 513136
+    url: /works/513136/
   - title: Cool na Niizuma to no Shinkon Seikatsu wa Amari ni mo... Yarashikatta  |
       Our Kinky Newlywed Life Vol. 1-3
     author: nanakusa-amane
@@ -73,6 +80,14 @@ works:
     date: '2026-09-13'
     code: 680885
     url: /works/680885/
+  - title: Shiri de Onna o Miwakeru Ore wa Onna Joushi no Yowami o Nigiru 2 | I, A Guy
+      Who Tells Women Apart By Their Asses, Got Blackmail On My Superior At Work 2
+    author: eco-heeky
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684178.jpg
+    rating: 0.0
+    date: '2026-09-27'
+    code: 684178
+    url: /works/684178/
   - title: Inin Keiyaku | Lewd Pregnancy Contract
     author: yoshiura-kazuya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/83595.jpg

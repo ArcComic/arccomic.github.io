@@ -13,14 +13,14 @@ works:
   - title: Downer Hitozuma wa Teishu Kanpaku Otto o Wakaraseru | The Gloomy Housewife
       Puts Her Domineering Husband in His Place
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/672405.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-27'
     code: 672405
     url: /works/672405/
   - title: Gal to Otaku no Idenshi Aishou Batsugun H |  Hot Sex Between a Gal and an
       Otaku With Perfect Genes Compatibility
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684305.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-27'
     code: 684305
     url: /works/684305/

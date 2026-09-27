@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "incest"
-work_count: 251
+work_count: 254
 works:
   - title: Imitation Family + Bigibo Hen
     author: tohzai
@@ -344,6 +344,13 @@ works:
     date: '2026-09-11'
     code: 512938
     url: /works/512938/
+  - title: Auntie's Armpits, Sweat and Our Tomorrow
+    author: emori-uki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/513136.jpg
+    rating: 0.0
+    date: '2026-09-27'
+    code: 513136
+    url: /works/513136/
   - title: Kyoushi no Oba wa Himitsu no Bakunyuu Ero Cos Layer ~Iinari Gyaku Bunny &
       Sister Cos de Keiren Soku Iki Nakadashi Netori~ | My Teacher Aunt Is Secretly
       A Buxom Erotic Cosplayer
@@ -360,6 +367,14 @@ works:
     date: '2026-04-15'
     code: 519274
     url: /works/519274/
+  - title: Tarachime no Nikutsubo ~Yokkyu Fuman no Haha ga Inran Dekachichi Deliherujou
+      datta node, Renzoku Nakadashi de Onaho ni Shitemita~
+    author: ginen
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/523955.jpg
+    rating: 0.0
+    date: '2026-09-27'
+    code: 523955
+    url: /works/523955/
   - title: Haha Netori
     author: aoi-hitori
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/527171.jpg
@@ -1716,6 +1731,14 @@ works:
     date: '2026-09-17'
     code: 681899
     url: /works/681899/
+  - title: This Is The Story Of A Mother Who Ends Up Comforting Her Heartbroken Son
+      With Her Body.
+    author: makoto-shiyaka
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682254.jpg
+    rating: 0.0
+    date: '2026-09-27'
+    code: 682254
+    url: /works/682254/
   - title: My Sister's Perfect Feet Book 2 Ep. 1-20
     author: baba
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682326.jpg
@@ -1835,7 +1858,7 @@ works:
       Mom Who Doesn''t Want to Be Left Out'
     author: toji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684322.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-27'
     code: 684322
     url: /works/684322/

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "cheating"
-work_count: 299
+work_count: 302
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -494,6 +494,14 @@ works:
     date: '2026-07-17'
     code: 477784
     url: /works/477784/
+  - title: Tomodachi no Mama ga Boku no Dekachin de Ikimakutta Oshougatsu Otoshidama
+      Soushuuhen
+    author: rk-2
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/483537.jpg
+    rating: 0.0
+    date: '2026-09-27'
+    code: 483537
+    url: /works/483537/
   - title: Boku no Doutei wa Neteru Aida ni... Ubawaremashita
     author: kinntarou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/490633.jpg
@@ -795,6 +803,13 @@ works:
     date: '2026-04-13'
     code: 544993
     url: /works/544993/
+  - title: Inyoku no Tou - the luxury tower of sexual desire
+    author: hozumi-kenji
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/549608.jpg
+    rating: 0.0
+    date: '2026-09-27'
+    code: 549608
+    url: /works/549608/
   - title: DeliHeal Kaa-chan 3 ~Having Sex with My Favorite Kaa-chan and Having a Half-Cohabitation
       Life~
     author: tarobaumu
@@ -2072,6 +2087,14 @@ works:
     date: '2026-09-19'
     code: 682225
     url: /works/682225/
+  - title: This Is The Story Of A Mother Who Ends Up Comforting Her Heartbroken Son
+      With Her Body.
+    author: makoto-shiyaka
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682254.jpg
+    rating: 0.0
+    date: '2026-09-27'
+    code: 682254
+    url: /works/682254/
   - title: Zenbu, zenbu, hajimete age chatte gomen'nasai
     author: mauboumen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682306.jpg

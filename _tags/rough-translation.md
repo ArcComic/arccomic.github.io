@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "rough translation"
-work_count: 558
+work_count: 563
 works:
   - title: Watashi no Karada, Okashi Shimasu. Bunny Girl Edition
     author: nectar
@@ -110,6 +110,13 @@ works:
     date: '2026-07-17'
     code: 512326
     url: /works/512326/
+  - title: Auntie's Armpits, Sweat and Our Tomorrow
+    author: emori-uki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/513136.jpg
+    rating: 0.0
+    date: '2026-09-27'
+    code: 513136
+    url: /works/513136/
   - title: Midara na Sensei wa Kirai desu ka? ~Sakura Aimi no Baai~ | Do you hate lewd
       teachers? ~The Case of Sakura Aimi~
     author: macho
@@ -162,6 +169,14 @@ works:
     date: '2026-08-18'
     code: 521812
     url: /works/521812/
+  - title: Tarachime no Nikutsubo ~Yokkyu Fuman no Haha ga Inran Dekachichi Deliherujou
+      datta node, Renzoku Nakadashi de Onaho ni Shitemita~
+    author: ginen
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/523955.jpg
+    rating: 0.0
+    date: '2026-09-27'
+    code: 523955
+    url: /works/523955/
   - title: Motto♥ Okki na Saori-chan wa Fukiyou ni Eroi
     author: aramaki-echizen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/524436.jpg
@@ -699,7 +714,7 @@ works:
   - title: Tonari no Ie no Muboubi de Seibo sugiru Gal Mama
     author: rk-2
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/617061.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-27'
     code: 617061
     url: /works/617061/
@@ -784,7 +799,7 @@ works:
   - title: Saimin Idol Gakuen 3 Rei Hen
     author: sunagimo-dx
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/626417.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-27'
     code: 626417
     url: /works/626417/
@@ -1506,7 +1521,7 @@ works:
       Turned a Bratty Gal Into a Succubus and Punished Her 2
     author: takurowo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/650625.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-27'
     code: 650625
     url: /works/650625/
@@ -2207,7 +2222,7 @@ works:
   - title: n baito
     author: aka-no-hana
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662797.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-27'
     code: 662797
     url: /works/662797/
@@ -3406,7 +3421,7 @@ works:
       Welcome Party
     author: mafen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680588.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-27'
     code: 680588
     url: /works/680588/
@@ -3713,6 +3728,14 @@ works:
     date: '2026-09-19'
     code: 682225
     url: /works/682225/
+  - title: This Is The Story Of A Mother Who Ends Up Comforting Her Heartbroken Son
+      With Her Body.
+    author: makoto-shiyaka
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682254.jpg
+    rating: 0.0
+    date: '2026-09-27'
+    code: 682254
+    url: /works/682254/
   - title: Saimin Charao to Netorare Seitokai NTR Vol. 4
     author: sunagimo-dx
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682290.jpg
@@ -4066,10 +4089,25 @@ works:
     date: '2026-09-26'
     code: 684127
     url: /works/684127/
+  - title: I Really Like Ajumma
+    author: kkan
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684177.jpg
+    rating: 0.0
+    date: '2026-09-27'
+    code: 684177
+    url: /works/684177/
+  - title: Machi de Deatta Deka Chichi Shiro Gal-tachi ni wa Noumitsu Tanetsuke H Sareretai
+      Himitsu no Riyuu ga Aru
+    author: kumatora-amasora-taichi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684191.jpg
+    rating: 0.0
+    date: '2026-09-27'
+    code: 684191
+    url: /works/684191/
   - title: Namaiki Gal o Succubus ni Shite Oshioki Shitatta Ken Final
     author: takurowo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684215.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-27'
     code: 684215
     url: /works/684215/

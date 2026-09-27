@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "kimono"
-work_count: 47
+work_count: 48
 works:
   - title: Hitozuma Hyakka
     author: hase-tsubura
@@ -46,6 +46,14 @@ works:
     date: '2026-04-19'
     code: 446716
     url: /works/446716/
+  - title: Tomodachi no Mama ga Boku no Dekachin de Ikimakutta Oshougatsu Otoshidama
+      Soushuuhen
+    author: rk-2
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/483537.jpg
+    rating: 0.0
+    date: '2026-09-27'
+    code: 483537
+    url: /works/483537/
   - title: Onsen Yukata na Kashima-san to Hamakaze-san to. | Hamakaze and Kashima in
       Hot Springs and Yukata
     author: sarfata
@@ -289,7 +297,7 @@ works:
       Puts Her Domineering Husband in His Place
     author: joucho
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/672405.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-27'
     code: 672405
     url: /works/672405/

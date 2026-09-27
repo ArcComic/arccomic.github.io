@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "gyaru"
-work_count: 104
+work_count: 105
 works:
   - title: GalPa!
     author: sakagami-umi
@@ -437,7 +437,7 @@ works:
       Turned a Bratty Gal Into a Succubus and Punished Her 2
     author: takurowo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/650625.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-27'
     code: 650625
     url: /works/650625/
@@ -577,7 +577,7 @@ works:
       Puts Her Domineering Husband in His Place
     author: joucho
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/672405.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-27'
     code: 672405
     url: /works/672405/
@@ -776,11 +776,19 @@ works:
     date: '2026-09-26'
     code: 684077
     url: /works/684077/
+  - title: Machi de Deatta Deka Chichi Shiro Gal-tachi ni wa Noumitsu Tanetsuke H Sareretai
+      Himitsu no Riyuu ga Aru
+    author: kumatora-amasora-taichi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684191.jpg
+    rating: 0.0
+    date: '2026-09-27'
+    code: 684191
+    url: /works/684191/
   - title: Gal to Otaku no Idenshi Aishou Batsugun H |  Hot Sex Between a Gal and an
       Otaku With Perfect Genes Compatibility
     author: joucho
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684305.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-27'
     code: 684305
     url: /works/684305/

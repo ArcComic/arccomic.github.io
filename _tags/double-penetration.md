@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "double penetration"
-work_count: 40
+work_count: 41
 works:
   - title: Hitozuma Hyakka
     author: hase-tsubura
@@ -59,6 +59,13 @@ works:
     date: '2026-09-11'
     code: 545896
     url: /works/545896/
+  - title: Inyoku no Tou - the luxury tower of sexual desire
+    author: hozumi-kenji
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/549608.jpg
+    rating: 0.0
+    date: '2026-09-27'
+    code: 549608
+    url: /works/549608/
   - title: Ossan Kirai no Hitozuma Kyoushi ga Nikubenki ni Ochiru Hanashi | Story About
       an Old Man Hating Married Teacher Falling Into Being a Meat Toilet
     author: chinpan
@@ -99,7 +106,7 @@ works:
       e Kawarihateru~ | Married Woman Rebrand
     author: theremin
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/631572.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-27'
     code: 631572
     url: /works/631572/

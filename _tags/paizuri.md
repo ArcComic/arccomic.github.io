@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "paizuri"
-work_count: 195
+work_count: 197
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -24,6 +24,13 @@ works:
     date: '2026-04-12'
     code: 293478
     url: /works/293478/
+  - title: Furuhonya no Onee-san to | With The Lady From The Used Book Shop
+    author: nodame
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/306522.jpg
+    rating: 0.0
+    date: '2026-09-27'
+    code: 306522
+    url: /works/306522/
   - title: Furuhonya no Onee-san to | With The Lady From The Used Book Shop
     author: nodame
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/306725.jpg
@@ -1091,7 +1098,7 @@ works:
       Puts Her Domineering Husband in His Place
     author: joucho
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/672405.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-27'
     code: 672405
     url: /works/672405/
@@ -1440,18 +1447,26 @@ works:
     date: '2026-09-26'
     code: 684010
     url: /works/684010/
+  - title: Machi de Deatta Deka Chichi Shiro Gal-tachi ni wa Noumitsu Tanetsuke H Sareretai
+      Himitsu no Riyuu ga Aru
+    author: kumatora-amasora-taichi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684191.jpg
+    rating: 0.0
+    date: '2026-09-27'
+    code: 684191
+    url: /works/684191/
   - title: Gal to Otaku no Idenshi Aishou Batsugun H |  Hot Sex Between a Gal and an
       Otaku With Perfect Genes Compatibility
     author: joucho
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684305.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-27'
     code: 684305
     url: /works/684305/
   - title: Oyaji no Saikon Aite wa Sukidatta Boku no Osananajimi
     author: makuma-ikeru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684314.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-27'
     code: 684314
     url: /works/684314/
@@ -1460,7 +1475,7 @@ works:
       Mom Who Doesn''t Want to Be Left Out'
     author: toji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684322.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-27'
     code: 684322
     url: /works/684322/

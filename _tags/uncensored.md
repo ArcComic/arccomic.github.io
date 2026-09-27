@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "uncensored"
-work_count: 109
+work_count: 113
 works:
   - title: Netemo Sametemo | Be it Sleeping or Awake
     author: takasugi-kou
@@ -117,6 +117,14 @@ works:
     date: '2026-03-04'
     code: 508649
     url: /works/508649/
+  - title: Tarachime no Nikutsubo ~Yokkyu Fuman no Haha ga Inran Dekachichi Deliherujou
+      datta node, Renzoku Nakadashi de Onaho ni Shitemita~
+    author: ginen
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/523955.jpg
+    rating: 0.0
+    date: '2026-09-27'
+    code: 523955
+    url: /works/523955/
   - title: Motto♥ Okki na Saori-chan wa Fukiyou ni Eroi
     author: aramaki-echizen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/524436.jpg
@@ -799,10 +807,32 @@ works:
     date: '2026-09-26'
     code: 684010
     url: /works/684010/
+  - title: I Really Like Ajumma
+    author: kkan
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684177.jpg
+    rating: 0.0
+    date: '2026-09-27'
+    code: 684177
+    url: /works/684177/
+  - title: Shin Eridu Bouei Hokan Keikaku Tokushu Senryoku Kotai Tousei Houan 2
+    author: paya8
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684183.jpg
+    rating: 0.0
+    date: '2026-09-27'
+    code: 684183
+    url: /works/684183/
+  - title: Machi de Deatta Deka Chichi Shiro Gal-tachi ni wa Noumitsu Tanetsuke H Sareretai
+      Himitsu no Riyuu ga Aru
+    author: kumatora-amasora-taichi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684191.jpg
+    rating: 0.0
+    date: '2026-09-27'
+    code: 684191
+    url: /works/684191/
   - title: GOOD WIFE
     author: laliberte
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684283.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-27'
     code: 684283
     url: /works/684283/

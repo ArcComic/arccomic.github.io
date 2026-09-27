@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "mosaic censorship"
-work_count: 275
+work_count: 277
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -360,6 +360,14 @@ works:
     date: '2026-04-16'
     code: 482859
     url: /works/482859/
+  - title: Tomodachi no Mama ga Boku no Dekachin de Ikimakutta Oshougatsu Otoshidama
+      Soushuuhen
+    author: rk-2
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/483537.jpg
+    rating: 0.0
+    date: '2026-09-27'
+    code: 483537
+    url: /works/483537/
   - title: Boku no Chuugoku Bijin Slender Kyonyuu Tsuma ga Camera Model de Nugasarete
       Yarichin Tomo ni Netorareta Ken
     author: mitoreiyu
@@ -896,7 +904,7 @@ works:
   - title: Tonari no Ie no Muboubi de Seibo sugiru Gal Mama
     author: rk-2
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/617061.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-27'
     code: 617061
     url: /works/617061/
@@ -919,7 +927,7 @@ works:
   - title: Saimin Idol Gakuen 3 Rei Hen
     author: sunagimo-dx
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/626417.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-27'
     code: 626417
     url: /works/626417/
@@ -1483,7 +1491,7 @@ works:
   - title: n baito
     author: aka-no-hana
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662797.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-27'
     code: 662797
     url: /works/662797/
@@ -1925,6 +1933,14 @@ works:
     date: '2026-09-19'
     code: 682225
     url: /works/682225/
+  - title: This Is The Story Of A Mother Who Ends Up Comforting Her Heartbroken Son
+      With Her Body.
+    author: makoto-shiyaka
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682254.jpg
+    rating: 0.0
+    date: '2026-09-27'
+    code: 682254
+    url: /works/682254/
   - title: Saimin Charao to Netorare Seitokai NTR Vol. 4
     author: sunagimo-dx
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682290.jpg

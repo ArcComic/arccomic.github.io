@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "full color"
-work_count: 210
+work_count: 211
 works:
   - title: Tsuma wo Yariman ni Shimasu Shakkin no Tame desu kara.
     author: pietoro
@@ -528,6 +528,14 @@ works:
     date: '2026-04-25'
     code: 555792
     url: /works/555792/
+  - title: Fuuki Iin to Fuuzoku Katsudou SEX ACTS with a Member of the Public Moral
+      Committee
+    author: nodame
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/558741.jpg
+    rating: 0.0
+    date: '2026-09-27'
+    code: 558741
+    url: /works/558741/
   - title: Ijiwaru Mama Tomo Taisaku | Countermeasures Against Bullying Mothers
     author: chotto-b-sen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/561436.jpg
@@ -744,7 +752,7 @@ works:
   - title: Tonari no Ie no Muboubi de Seibo sugiru Gal Mama
     author: rk-2
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/617061.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-27'
     code: 617061
     url: /works/617061/
@@ -774,7 +782,7 @@ works:
   - title: Saimin Idol Gakuen 3 Rei Hen
     author: sunagimo-dx
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/626417.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-27'
     code: 626417
     url: /works/626417/
@@ -1145,7 +1153,7 @@ works:
   - title: n baito
     author: aka-no-hana
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662797.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-27'
     code: 662797
     url: /works/662797/
@@ -1374,7 +1382,7 @@ works:
       Welcome Party
     author: mafen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680588.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-27'
     code: 680588
     url: /works/680588/
@@ -1532,7 +1540,7 @@ works:
   - title: GOOD WIFE
     author: laliberte
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684283.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-27'
     code: 684283
     url: /works/684283/
