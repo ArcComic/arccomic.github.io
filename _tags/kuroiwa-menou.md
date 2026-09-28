@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "kuroiwa menou"
-work_count: 1
+work_count: 2
 works:
+  - title: Soukan Syndrome
+    author: kuroiwa-menou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/605633.jpg
+    rating: 0.0
+    date: '2026-09-28'
+    code: 605633
+    url: /works/605633/
   - title: 'Married Woman Club: Glass Slippers'
     author: kuroiwa-menou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673944.jpg

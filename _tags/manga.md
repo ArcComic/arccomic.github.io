@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "manga"
-work_count: 328
+work_count: 333
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -740,7 +740,7 @@ works:
   - title: Auntie's Armpits, Sweat and Our Tomorrow
     author: emori-uki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/513136.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-27'
     code: 513136
     url: /works/513136/
@@ -1087,6 +1087,13 @@ works:
     date: '2026-04-23'
     code: 603122
     url: /works/603122/
+  - title: Soukan Syndrome
+    author: kuroiwa-menou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/605633.jpg
+    rating: 0.0
+    date: '2026-09-28'
+    code: 605633
+    url: /works/605633/
   - title: Ahondara, koi. | Foolish Love
     author: chicken
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/608677.jpg
@@ -1433,6 +1440,13 @@ works:
     date: '2026-05-27'
     code: 652801
     url: /works/652801/
+  - title: Mother's Orgasm ~Completely Submissive to Son's Cock~Chapter 1
+    author: jamming
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/653091.jpg
+    rating: 0.0
+    date: '2026-09-28'
+    code: 653091
+    url: /works/653091/
   - title: Jitsubo Kan ~Gifu no Inai Suki ni Jitsu no Haha o Muriyari Okashite Haramaeta
     author: louis-and-visee
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/656034.jpg
@@ -1483,6 +1497,13 @@ works:
     date: '2026-08-29'
     code: 660399
     url: /works/660399/
+  - title: Zuriniku paiholl
+    author: '41'
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/660465.jpg
+    rating: 0.0
+    date: '2026-09-28'
+    code: 660465
+    url: /works/660465/
   - title: Kimi no Mae de Kimi Igai o Daku Ch. 27 | Having Sex with Someone Else in
       Front of You 27
     author: nakao
@@ -1796,6 +1817,13 @@ works:
     date: '2026-08-19'
     code: 673862
     url: /works/673862/
+  - title: Umi no Yeah!!
+    author: aoi-hitori
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/674022.jpg
+    rating: 0.0
+    date: '2026-09-28'
+    code: 674022
+    url: /works/674022/
   - title: Niihama Yui Husband Exclusive Re-debut
     author: buta
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/674199.jpg
@@ -2329,10 +2357,17 @@ works:
       Who Tells Women Apart By Their Asses, Got Blackmail On My Superior At Work 2
     author: eco-heeky
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684178.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-27'
     code: 684178
     url: /works/684178/
+  - title: Provoking Men
+    author: pororivista
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684647.jpg
+    rating: 0.0
+    date: '2026-09-28'
+    code: 684647
+    url: /works/684647/
   - title: Hottokenaino
     author: hara-shigeyuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/77864.jpg

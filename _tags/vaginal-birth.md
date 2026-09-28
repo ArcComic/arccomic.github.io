@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "vaginal birth"
-work_count: 4
+work_count: 5
 works:
   - title: Jinsei Hametsu JC ~Watashi no Jinsei, Doushite Kounacchattan daro?~ | Middle
       Schooler's Life Ruined - How Did My Life Turn Out Like This [English] =TB=
@@ -33,4 +33,11 @@ works:
     date: '2026-09-17'
     code: 681724
     url: /works/681724/
+  - title: One stare make pregnant Episode 3
+    author: cunqian-mai-nvpengyou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684578.jpg
+    rating: 0.0
+    date: '2026-09-28'
+    code: 684578
+    url: /works/684578/
 ---

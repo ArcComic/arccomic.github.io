@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "vtuber"
-work_count: 12
+work_count: 13
 works:
   - title: Giragira no Beach
     author: shimantogawa
@@ -88,4 +88,11 @@ works:
     date: '2026-09-17'
     code: 681700
     url: /works/681700/
+  - title: SHIORIHAZARD
+    author: wise-speak-kogasaki-yuina
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684611.jpg
+    rating: 0.0
+    date: '2026-09-28'
+    code: 684611
+    url: /works/684611/
 ---

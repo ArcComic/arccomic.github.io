@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bondage"
-work_count: 74
+work_count: 78
 works:
   - title: CHOCO x LOVE
     author: highlow
@@ -76,6 +76,14 @@ works:
     date: '2026-09-17'
     code: 526619
     url: /works/526619/
+  - title: Suki datta Onnanoko ga Hentai Kusuguri Choukyou de Maso ni Sareteita Hanashi
+      | The girl who was trying to get him to come to her house was a hentai heroine
+    author: avis
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/560392.jpg
+    rating: 0.0
+    date: '2026-09-28'
+    code: 560392
+    url: /works/560392/
   - title: Ossan Kirai no Hitozuma Kyoushi ga Nikubenki ni Ochiru Hanashi | Story About
       an Old Man Hating Married Teacher Falling Into Being a Meat Toilet
     author: chinpan
@@ -122,6 +130,13 @@ works:
     date: '2026-04-23'
     code: 603122
     url: /works/603122/
+  - title: Maid-san no Shokushu zuke houshikatsudou
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/611988.jpg
+    rating: 0.0
+    date: '2026-09-28'
+    code: 611988
+    url: /works/611988/
   - title: Eroi Koto Igai de Toki o Tomete wa Dame desu yo 2
     author: ohkura-kazuya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/615835.jpg
@@ -540,6 +555,21 @@ works:
     date: '2026-09-23'
     code: 683443
     url: /works/683443/
+  - title: Watashi no Anal wa Yowakunai!! ~Onna Kishi-sama ga Anal Jelly ni Kussuru
+      made...~ | My anus isn't weak!!
+    author: nadayui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684587.jpg
+    rating: 0.0
+    date: '2026-09-28'
+    code: 684587
+    url: /works/684587/
+  - title: SHIORIHAZARD
+    author: wise-speak-kogasaki-yuina
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684611.jpg
+    rating: 0.0
+    date: '2026-09-28'
+    code: 684611
+    url: /works/684611/
   - title: Onee-chan no SM Kouza | Onee-chan's S&M Lecture
     author: shinooka-homare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/88750.jpg

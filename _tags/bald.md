@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bald"
-work_count: 69
+work_count: 71
 works:
   - title: Overwrite
     author: ojo
@@ -243,6 +243,13 @@ works:
     date: '2026-08-22'
     code: 635512
     url: /works/635512/
+  - title: Kaa-san wa Home Helper
+    author: '41'
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/636389.jpg
+    rating: 5.0
+    date: '2026-09-28'
+    code: 636389
+    url: /works/636389/
   - title: Akogare no Hito wa Mou Owari!
     author: orange-mimosa
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642584.jpg
@@ -377,6 +384,13 @@ works:
     date: '2026-07-17'
     code: 658578
     url: /works/658578/
+  - title: Zuriniku paiholl
+    author: '41'
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/660465.jpg
+    rating: 0.0
+    date: '2026-09-28'
+    code: 660465
+    url: /works/660465/
   - title: Shinyuu Tatakitsubushi Kyousou Shiiku Seikatsu | A Life in Captivity The
       Competition to Break My Best Friend
     author: group

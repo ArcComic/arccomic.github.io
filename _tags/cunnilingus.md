@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "cunnilingus"
-work_count: 139
+work_count: 140
 works:
   - title: Love Approach
     author: hanafuda-sakurano
@@ -1029,8 +1029,15 @@ works:
       Himitsu no Riyuu ga Aru
     author: kumatora-amasora-taichi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684191.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-27'
     code: 684191
     url: /works/684191/
+  - title: Provoking Men
+    author: pororivista
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684647.jpg
+    rating: 0.0
+    date: '2026-09-28'
+    code: 684647
+    url: /works/684647/
 ---

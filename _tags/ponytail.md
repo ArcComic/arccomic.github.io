@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "ponytail"
-work_count: 152
+work_count: 153
 works:
   - title: Hikki Mother Fucker
     author: otochichi
@@ -20,7 +20,7 @@ works:
   - title: Furuhonya no Onee-san to | With The Lady From The Used Book Shop
     author: nodame
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/306522.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-27'
     code: 306522
     url: /works/306522/
@@ -159,7 +159,7 @@ works:
   - title: Auntie's Armpits, Sweat and Our Tomorrow
     author: emori-uki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/513136.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-27'
     code: 513136
     url: /works/513136/
@@ -203,7 +203,7 @@ works:
   - title: Inyoku no Tou - the luxury tower of sexual desire
     author: hozumi-kenji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/549608.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-09-27'
     code: 549608
     url: /works/549608/
@@ -1089,7 +1089,7 @@ works:
       Who Tells Women Apart By Their Asses, Got Blackmail On My Superior At Work 2
     author: eco-heeky
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684178.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-27'
     code: 684178
     url: /works/684178/
@@ -1097,14 +1097,14 @@ works:
       Himitsu no Riyuu ga Aru
     author: kumatora-amasora-taichi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684191.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-27'
     code: 684191
     url: /works/684191/
   - title: Oshikake Jealousy | Uninvited Jealousy
     author: aiu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684209.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-27'
     code: 684209
     url: /works/684209/
@@ -1123,4 +1123,11 @@ works:
     date: '2026-09-27'
     code: 684392
     url: /works/684392/
+  - title: Provoking Men
+    author: pororivista
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684647.jpg
+    rating: 0.0
+    date: '2026-09-28'
+    code: 684647
+    url: /works/684647/
 ---

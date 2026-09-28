@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "blowjob"
-work_count: 546
+work_count: 557
 works:
   - title: Office Love Scramble Ch. 1
     author: tohzai
@@ -113,7 +113,7 @@ works:
   - title: Furuhonya no Onee-san to | With The Lady From The Used Book Shop
     author: nodame
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/306522.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-27'
     code: 306522
     url: /works/306522/
@@ -569,7 +569,7 @@ works:
       Soushuuhen
     author: rk-2
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/483537.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-09-27'
     code: 483537
     url: /works/483537/
@@ -883,6 +883,13 @@ works:
     date: '2026-07-11'
     code: 538553
     url: /works/538553/
+  - title: Gal JK wa Boku no Mono
+    author: exit-up
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/542197.jpg
+    rating: 0.0
+    date: '2026-09-28'
+    code: 542197
+    url: /works/542197/
   - title: Kaa-san to Shitai Koto ~ Zetsurin Musuko to no Seikatsu Kaisou Hen | What
       I want to do with My Mother ~ Sex Life with My Son Who Has...
     author: saimon-k
@@ -924,7 +931,7 @@ works:
   - title: Inyoku no Tou - the luxury tower of sexual desire
     author: hozumi-kenji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/549608.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-09-27'
     code: 549608
     url: /works/549608/
@@ -998,7 +1005,7 @@ works:
       Committee
     author: nodame
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/558741.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-27'
     code: 558741
     url: /works/558741/
@@ -1164,6 +1171,13 @@ works:
     date: '2026-09-13'
     code: 583637
     url: /works/583637/
+  - title: Friend's Mom's Boobs is Mine Part One
+    author: exit-up
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/584529.jpg
+    rating: 0.0
+    date: '2026-09-28'
+    code: 584529
+    url: /works/584529/
   - title: 'Moto Mahou Shoujo no Shigoto Hanashi Ao Zenjitsutan | Former Magical Girl
       Blue''s Work: The Prequel'
     author: zhen-lu
@@ -1922,6 +1936,13 @@ works:
     date: '2026-03-11'
     code: 636122
     url: /works/636122/
+  - title: Kaa-san wa Home Helper
+    author: '41'
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/636389.jpg
+    rating: 5.0
+    date: '2026-09-28'
+    code: 636389
+    url: /works/636389/
   - title: Curiosity and the Cost of Innocence
     author: hoshi-to-lucky
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/637110.jpg
@@ -2746,6 +2767,13 @@ works:
     date: '2026-08-22'
     code: 659484
     url: /works/659484/
+  - title: Zuriniku paiholl
+    author: '41'
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/660465.jpg
+    rating: 0.0
+    date: '2026-09-28'
+    code: 660465
+    url: /works/660465/
   - title: Murasaki no Shoumei ~Kuroi Muchuu~ | Purple Illumination ~Dark Trance~
     author: '3104'
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/660867.jpg
@@ -3987,7 +4015,7 @@ works:
       Who Tells Women Apart By Their Asses, Got Blackmail On My Superior At Work 2
     author: eco-heeky
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684178.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-27'
     code: 684178
     url: /works/684178/
@@ -3995,14 +4023,14 @@ works:
       Himitsu no Riyuu ga Aru
     author: kumatora-amasora-taichi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684191.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-27'
     code: 684191
     url: /works/684191/
   - title: Oshikake Jealousy | Uninvited Jealousy
     author: aiu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684209.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-27'
     code: 684209
     url: /works/684209/
@@ -4052,6 +4080,57 @@ works:
     date: '2026-09-27'
     code: 684392
     url: /works/684392/
+  - title: I'm Sorry Honey Your Penis is Too Small
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684550.jpg
+    rating: 0.0
+    date: '2026-09-28'
+    code: 684550
+    url: /works/684550/
+  - title: Kaette Kita Onee-chan
+    author: saitou-renji
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684556.jpg
+    rating: 0.0
+    date: '2026-09-28'
+    code: 684556
+    url: /works/684556/
+  - title: Watashi no Anal wa Yowakunai!! ~Onna Kishi-sama ga Anal Jelly ni Kussuru
+      made...~ | My anus isn't weak!!
+    author: nadayui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684587.jpg
+    rating: 0.0
+    date: '2026-09-28'
+    code: 684587
+    url: /works/684587/
+  - title: Ano Naya ~Boku ga Mita Koto Nai Oba-san no Yoru no Sugata~ | That Shed~ The
+      Side of My Aunt I'd Never Seen at Night
+    author: kakisoba
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684591.jpg
+    rating: 0.0
+    date: '2026-09-28'
+    code: 684591
+    url: /works/684591/
+  - title: SHIORIHAZARD
+    author: wise-speak-kogasaki-yuina
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684611.jpg
+    rating: 0.0
+    date: '2026-09-28'
+    code: 684611
+    url: /works/684611/
+  - title: Anby Secret Love Tape -Part 1 & 2-
+    author: sollyz
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684636.jpg
+    rating: 0.0
+    date: '2026-09-28'
+    code: 684636
+    url: /works/684636/
+  - title: Provoking Men
+    author: pororivista
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684647.jpg
+    rating: 0.0
+    date: '2026-09-28'
+    code: 684647
+    url: /works/684647/
   - title: Jokyoushi - Hot For Teachers | Female Teachers
     author: drill-murata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/81375.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "multi-work series"
-work_count: 321
+work_count: 323
 works:
   - title: Oppai na Natsuyasumi 2 | The Summer Break of Boobs 2
     author: higashino-mikan
@@ -240,7 +240,7 @@ works:
       Soushuuhen
     author: rk-2
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/483537.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-09-27'
     code: 483537
     url: /works/483537/
@@ -550,7 +550,7 @@ works:
   - title: Inyoku no Tou - the luxury tower of sexual desire
     author: hozumi-kenji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/549608.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-09-27'
     code: 549608
     url: /works/549608/
@@ -714,6 +714,13 @@ works:
     date: '2026-04-21'
     code: 584260
     url: /works/584260/
+  - title: Friend's Mom's Boobs is Mine Part One
+    author: exit-up
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/584529.jpg
+    rating: 0.0
+    date: '2026-09-28'
+    code: 584529
+    url: /works/584529/
   - title: 'Moto Mahou Shoujo no Shigoto Hanashi Ao Zenjitsutan | Former Magical Girl
       Blue''s Work: The Prequel'
     author: zhen-lu
@@ -2378,7 +2385,7 @@ works:
       Who Tells Women Apart By Their Asses, Got Blackmail On My Superior At Work 2
     author: eco-heeky
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684178.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-27'
     code: 684178
     url: /works/684178/
@@ -2406,4 +2413,13 @@ works:
     date: '2026-09-27'
     code: 684392
     url: /works/684392/
+  - title: 'Ero RPG no Onna Shujinkou ni TS Tensei Shitara... 2-shou Shoukan-hen | When
+      I Got Reincarnated as the Heroine of an Erotic RPG After TS… Chapter 2: Brothel
+      Arc'
+    author: shimaji
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684542.jpg
+    rating: 0.0
+    date: '2026-09-28'
+    code: 684542
+    url: /works/684542/
 ---

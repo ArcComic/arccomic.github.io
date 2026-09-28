@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "pregnant"
-work_count: 41
+work_count: 44
 works:
   - title: Watashi ni Mawashite Ura Kairanban
     author: yano-toshinori
@@ -173,6 +173,13 @@ works:
     date: '2026-05-07'
     code: 648414
     url: /works/648414/
+  - title: Zuriniku paiholl
+    author: '41'
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/660465.jpg
+    rating: 0.0
+    date: '2026-09-28'
+    code: 660465
+    url: /works/660465/
   - title: Love wa Gal kara Hajimaru Unmei | Love is a Destiny That Begins with a Gal
       ch.1-5
     author: nusmusbim
@@ -302,4 +309,18 @@ works:
     date: '2026-09-27'
     code: 684314
     url: /works/684314/
+  - title: One stare make pregnant Episode 3
+    author: cunqian-mai-nvpengyou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684578.jpg
+    rating: 0.0
+    date: '2026-09-28'
+    code: 684578
+    url: /works/684578/
+  - title: Haiboku Hiroin Henshin Dekinainode Bodi Peinto de Tatakattara Futsuu ni Maketa
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684659.jpg
+    rating: 0.0
+    date: '2026-09-28'
+    code: 684659
+    url: /works/684659/
 ---

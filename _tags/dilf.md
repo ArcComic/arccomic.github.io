@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "dilf"
-work_count: 175
+work_count: 178
 works:
   - title: Adoration
     author: kishizuka-kenji
@@ -310,6 +310,13 @@ works:
     date: '2026-08-18'
     code: 504436
     url: /works/504436/
+  - title: Yamada wa Sonna Koto Shinai | Yamada Would Never Do Something Like That
+    author: norakuro-nero
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/507512.jpg
+    rating: 0.0
+    date: '2026-09-28'
+    code: 507512
+    url: /works/507512/
   - title: Shizuka no Umi + Gojitsudan | Shizuka's Sea + Epilogue
     author: arakure
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/507591.jpg
@@ -378,6 +385,13 @@ works:
     date: '2026-09-23'
     code: 537208
     url: /works/537208/
+  - title: Gal JK wa Boku no Mono
+    author: exit-up
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/542197.jpg
+    rating: 0.0
+    date: '2026-09-28'
+    code: 542197
+    url: /works/542197/
   - title: Pakokatsu Oji-san to Kaede-chan (1+2+3) | Kaede and The Sugar Daddy
     author: nizigensan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/543086.jpg
@@ -921,6 +935,13 @@ works:
     date: '2026-07-09'
     code: 658005
     url: /works/658005/
+  - title: Zuriniku paiholl
+    author: '41'
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/660465.jpg
+    rating: 0.0
+    date: '2026-09-28'
+    code: 660465
+    url: /works/660465/
   - title: Shinyuu Tatakitsubushi Kyousou Shiiku Seikatsu | A Life in Captivity The
       Competition to Break My Best Friend
     author: group

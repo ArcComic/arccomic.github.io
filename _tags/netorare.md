@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "netorare"
-work_count: 370
+work_count: 380
 works:
   - title: Kousa suru Osu to Mesu | Male and Female Crossing
     author: ootsuka-kotora
@@ -504,6 +504,21 @@ works:
     date: '2026-04-19'
     code: 504221
     url: /works/504221/
+  - title: Haha wa Ore no Shinyuu ni Netorarete Iru | My Mother Is Being Cuckolded By
+      My Best Friend
+    author: yuuki-ringo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/505834.jpg
+    rating: 0.0
+    date: '2026-09-28'
+    code: 505834
+    url: /works/505834/
+  - title: Yamada wa Sonna Koto Shinai | Yamada Would Never Do Something Like That
+    author: norakuro-nero
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/507512.jpg
+    rating: 0.0
+    date: '2026-09-28'
+    code: 507512
+    url: /works/507512/
   - title: Shizuka no Umi + Gojitsudan | Shizuka's Sea + Epilogue
     author: arakure
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/507591.jpg
@@ -720,6 +735,13 @@ works:
     date: '2026-02-25'
     code: 543086
     url: /works/543086/
+  - title: Camera Goshi no Kimi wa...
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/543436.jpg
+    rating: 0.0
+    date: '2026-09-28'
+    code: 543436
+    url: /works/543436/
   - title: Minpaku ~Ojou-sama-tachi wa Minpaku Keieisha no Wana ni Ochiru~ | Sleeping
       in the Bed and Breakfast - Young ladies fall into the trap of a private lodging
       manager
@@ -754,7 +776,7 @@ works:
   - title: Inyoku no Tou - the luxury tower of sexual desire
     author: hozumi-kenji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/549608.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-09-27'
     code: 549608
     url: /works/549608/
@@ -823,6 +845,14 @@ works:
     date: '2026-04-25'
     code: 559088
     url: /works/559088/
+  - title: Suki datta Onnanoko ga Hentai Kusuguri Choukyou de Maso ni Sareteita Hanashi
+      | The girl who was trying to get him to come to her house was a hentai heroine
+    author: avis
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/560392.jpg
+    rating: 0.0
+    date: '2026-09-28'
+    code: 560392
+    url: /works/560392/
   - title: My Study Method
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/562201.jpg
@@ -943,6 +973,13 @@ works:
     date: '2026-09-13'
     code: 583637
     url: /works/583637/
+  - title: Friend's Mom's Boobs is Mine Part One
+    author: exit-up
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/584529.jpg
+    rating: 0.0
+    date: '2026-09-28'
+    code: 584529
+    url: /works/584529/
   - title: MY FIRST TIME HAVING SEX WAS WITH MY FRIEND'S MOM
     author: ariyuzi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/585515.jpg
@@ -1256,6 +1293,13 @@ works:
     date: '2026-09-25'
     code: 635879
     url: /works/635879/
+  - title: Kaa-san wa Home Helper
+    author: '41'
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/636389.jpg
+    rating: 5.0
+    date: '2026-09-28'
+    code: 636389
+    url: /works/636389/
   - title: Haha to iu Kaibutsu ~M Otoko Aka-chan toshite Sodate rareta Boku wa Yasashii
       Mama ni Dekiai sareru~ | Mother, the Monster ~I was raised as a masochistic baby
       and am doted on by my kind mother~
@@ -2004,6 +2048,15 @@ works:
     date: '2026-07-17'
     code: 664937
     url: /works/664937/
+  - title: BokuYaba 5-nengo ~Seijinshiki no Hi Haha ni Natta Yamada to Saikai suru Hanashi~
+      | BokuYaba 5 Years Later -A story of meeting Yamada who became a mother at Coming
+      of Age Ceremony Day-
+    author: iyoudon
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/665001.jpg
+    rating: 0.0
+    date: '2026-09-28'
+    code: 665001
+    url: /works/665001/
   - title: Tora re tsuma ~ harami niku benki ni sa reta oku-sa ~
     author: mokuzou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/667314.jpg
@@ -2164,6 +2217,13 @@ works:
     date: '2026-08-20'
     code: 674019
     url: /works/674019/
+  - title: Umi no Yeah!!
+    author: aoi-hitori
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/674022.jpg
+    rating: 0.0
+    date: '2026-09-28'
+    code: 674022
+    url: /works/674022/
   - title: Everyone's Kissing Club - Chapter 1-29
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/674286.jpg
@@ -2726,6 +2786,21 @@ works:
     date: '2026-09-27'
     code: 684314
     url: /works/684314/
+  - title: I'm Sorry Honey Your Penis is Too Small
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684550.jpg
+    rating: 0.0
+    date: '2026-09-28'
+    code: 684550
+    url: /works/684550/
+  - title: Ano Naya ~Boku ga Mita Koto Nai Oba-san no Yoru no Sugata~ | That Shed~ The
+      Side of My Aunt I'd Never Seen at Night
+    author: kakisoba
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684591.jpg
+    rating: 0.0
+    date: '2026-09-28'
+    code: 684591
+    url: /works/684591/
   - title: Inin Keiyaku | Lewd Pregnancy Contract
     author: yoshiura-kazuya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/83595.jpg

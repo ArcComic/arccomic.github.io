@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "milf"
-work_count: 383
+work_count: 395
 works:
   - title: Life with Married Women Just Like a Manga 2 - Ch. 1-5
     author: hidemaru
@@ -586,7 +586,7 @@ works:
       Soushuuhen
     author: rk-2
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/483537.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-09-27'
     code: 483537
     url: /works/483537/
@@ -620,6 +620,14 @@ works:
     date: '2026-04-19'
     code: 504221
     url: /works/504221/
+  - title: Haha wa Ore no Shinyuu ni Netorarete Iru | My Mother Is Being Cuckolded By
+      My Best Friend
+    author: yuuki-ringo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/505834.jpg
+    rating: 0.0
+    date: '2026-09-28'
+    code: 505834
+    url: /works/505834/
   - title: Mayugomori 〜Nee ya to boku no midarana himegoto 〜 Ch.1-4
     author: mogiki-hayami
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/506317.jpg
@@ -719,7 +727,7 @@ works:
   - title: Auntie's Armpits, Sweat and Our Tomorrow
     author: emori-uki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/513136.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-27'
     code: 513136
     url: /works/513136/
@@ -779,7 +787,7 @@ works:
       datta node, Renzoku Nakadashi de Onaho ni Shitemita~
     author: ginen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/523955.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-27'
     code: 523955
     url: /works/523955/
@@ -950,7 +958,7 @@ works:
   - title: Inyoku no Tou - the luxury tower of sexual desire
     author: hozumi-kenji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/549608.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-09-27'
     code: 549608
     url: /works/549608/
@@ -1174,6 +1182,13 @@ works:
     date: '2026-07-17'
     code: 581704
     url: /works/581704/
+  - title: Friend's Mom's Boobs is Mine Part One
+    author: exit-up
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/584529.jpg
+    rating: 0.0
+    date: '2026-09-28'
+    code: 584529
+    url: /works/584529/
   - title: MY FIRST TIME HAVING SEX WAS WITH MY FRIEND'S MOM
     author: ariyuzi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/585515.jpg
@@ -1321,6 +1336,13 @@ works:
     date: '2026-04-23'
     code: 599910
     url: /works/599910/
+  - title: Soukan Syndrome
+    author: kuroiwa-menou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/605633.jpg
+    rating: 0.0
+    date: '2026-09-28'
+    code: 605633
+    url: /works/605633/
   - title: Yojouhan Ikken Apart de Komochi Dosukebe Rinjin to Asedaku Noukou na Otsukiai
       - A sweaty, intense relationship with a perverted neighbor with a child in a four
       and a half tatami mat apartment
@@ -1573,6 +1595,13 @@ works:
     date: '2026-03-11'
     code: 636122
     url: /works/636122/
+  - title: Kaa-san wa Home Helper
+    author: '41'
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/636389.jpg
+    rating: 5.0
+    date: '2026-09-28'
+    code: 636389
+    url: /works/636389/
   - title: Oneesan no Chitsu-nai ni Shiroi Oshikko to Kiiroi Oshikko
     author: mosaic-book
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/636807.jpg
@@ -1891,6 +1920,13 @@ works:
     date: '2026-05-27'
     code: 652801
     url: /works/652801/
+  - title: Mother's Orgasm ~Completely Submissive to Son's Cock~Chapter 1
+    author: jamming
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/653091.jpg
+    rating: 0.0
+    date: '2026-09-28'
+    code: 653091
+    url: /works/653091/
   - title: Boku no Kanojo wa Okaasan
     author: momoiro-onsen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654091.jpg
@@ -2019,6 +2055,13 @@ works:
     date: '2026-09-20'
     code: 659204
     url: /works/659204/
+  - title: Zuriniku paiholl
+    author: '41'
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/660465.jpg
+    rating: 0.0
+    date: '2026-09-28'
+    code: 660465
+    url: /works/660465/
   - title: Seiyoku Mamire no Tsumamigoro - My Wife is a Lustructor
     author: emine-kendama
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/661349.jpg
@@ -2361,6 +2404,13 @@ works:
     date: '2026-08-20'
     code: 674019
     url: /works/674019/
+  - title: Umi no Yeah!!
+    author: aoi-hitori
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/674022.jpg
+    rating: 0.0
+    date: '2026-09-28'
+    code: 674022
+    url: /works/674022/
   - title: 'Tanetsuke License ~Onna Joushi Wakarase Hen~ | Breeding License: Teaching
       My Female Boss a Lesson Edition'
     author: minamihama-yoriko
@@ -2612,7 +2662,7 @@ works:
       With Her Body.
     author: makoto-shiyaka
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682254.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-27'
     code: 682254
     url: /works/682254/
@@ -2777,7 +2827,7 @@ works:
   - title: I Really Like Ajumma
     author: kkan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684177.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-27'
     code: 684177
     url: /works/684177/
@@ -2804,6 +2854,42 @@ works:
     date: '2026-09-27'
     code: 684322
     url: /works/684322/
+  - title: Kaette Kita Onee-chan
+    author: saitou-renji
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684556.jpg
+    rating: 0.0
+    date: '2026-09-28'
+    code: 684556
+    url: /works/684556/
+  - title: Rokujou Hitoma no Apart de Okaa-san to Icha Love Sex Seikatsu
+    author: shirakumo-zen
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684570.jpg
+    rating: 0.0
+    date: '2026-09-28'
+    code: 684570
+    url: /works/684570/
+  - title: Ano Naya ~Boku ga Mita Koto Nai Oba-san no Yoru no Sugata~ | That Shed~ The
+      Side of My Aunt I'd Never Seen at Night
+    author: kakisoba
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684591.jpg
+    rating: 0.0
+    date: '2026-09-28'
+    code: 684591
+    url: /works/684591/
+  - title: Kakko Ii kara Suki 3 [English] partial retranslation
+    author: hyde-ride
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684643.jpg
+    rating: 0.0
+    date: '2026-09-28'
+    code: 684643
+    url: /works/684643/
+  - title: Provoking Men
+    author: pororivista
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684647.jpg
+    rating: 0.0
+    date: '2026-09-28'
+    code: 684647
+    url: /works/684647/
   - title: Jokyoushi - Hot For Teachers | Female Teachers
     author: drill-murata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/81375.jpg

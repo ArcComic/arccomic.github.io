@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "rape"
-work_count: 206
+work_count: 210
 works:
   - title: Office Love Scramble Ch. 1
     author: tohzai
@@ -336,6 +336,13 @@ works:
     date: '2026-07-08'
     code: 50476
     url: /works/50476/
+  - title: Yamada wa Sonna Koto Shinai | Yamada Would Never Do Something Like That
+    author: norakuro-nero
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/507512.jpg
+    rating: 0.0
+    date: '2026-09-28'
+    code: 507512
+    url: /works/507512/
   - title: Shizuka no Umi + Gojitsudan | Shizuka's Sea + Epilogue
     author: arakure
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/507591.jpg
@@ -1031,6 +1038,13 @@ works:
     date: '2026-09-08'
     code: 659643
     url: /works/659643/
+  - title: Zuriniku paiholl
+    author: '41'
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/660465.jpg
+    rating: 0.0
+    date: '2026-09-28'
+    code: 660465
+    url: /works/660465/
   - title: Shinyuu Tatakitsubushi Kyousou Shiiku Seikatsu | A Life in Captivity The
       Competition to Break My Best Friend
     author: group
@@ -1500,4 +1514,18 @@ works:
     date: '2026-09-25'
     code: 683992
     url: /works/683992/
+  - title: Provoking Men
+    author: pororivista
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684647.jpg
+    rating: 0.0
+    date: '2026-09-28'
+    code: 684647
+    url: /works/684647/
+  - title: Haiboku Hiroin Henshin Dekinainode Bodi Peinto de Tatakattara Futsuu ni Maketa
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684659.jpg
+    rating: 0.0
+    date: '2026-09-28'
+    code: 684659
+    url: /works/684659/
 ---

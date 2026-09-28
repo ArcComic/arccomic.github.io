@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "pixie cut"
-work_count: 73
+work_count: 75
 works:
   - title: Last Chance
     author: herio
@@ -557,4 +557,18 @@ works:
     date: '2026-09-26'
     code: 684139
     url: /works/684139/
+  - title: Anby Secret Love Tape -Part 1 & 2-
+    author: sollyz
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684636.jpg
+    rating: 0.0
+    date: '2026-09-28'
+    code: 684636
+    url: /works/684636/
+  - title: Kakko Ii kara Suki 3 [English] partial retranslation
+    author: hyde-ride
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684643.jpg
+    rating: 0.0
+    date: '2026-09-28'
+    code: 684643
+    url: /works/684643/
 ---

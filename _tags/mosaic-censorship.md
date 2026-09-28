@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "mosaic censorship"
-work_count: 277
+work_count: 283
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -364,7 +364,7 @@ works:
       Soushuuhen
     author: rk-2
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/483537.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-09-27'
     code: 483537
     url: /works/483537/
@@ -420,6 +420,14 @@ works:
     date: '2026-08-23'
     code: 505779
     url: /works/505779/
+  - title: Haha wa Ore no Shinyuu ni Netorarete Iru | My Mother Is Being Cuckolded By
+      My Best Friend
+    author: yuuki-ringo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/505834.jpg
+    rating: 0.0
+    date: '2026-09-28'
+    code: 505834
+    url: /works/505834/
   - title: Mochimochi Nao's Sweet and Sexy Story That Makes You Melt
     author: nako-sir
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/506789.jpg
@@ -582,6 +590,13 @@ works:
     date: '2026-09-04'
     code: 542190
     url: /works/542190/
+  - title: Gal JK wa Boku no Mono
+    author: exit-up
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/542197.jpg
+    rating: 0.0
+    date: '2026-09-28'
+    code: 542197
+    url: /works/542197/
   - title: Pakokatsu Oji-san to Kaede-chan (1+2+3) | Kaede and The Sugar Daddy
     author: nizigensan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/543086.jpg
@@ -748,6 +763,13 @@ works:
     date: '2026-07-17'
     code: 582290
     url: /works/582290/
+  - title: Friend's Mom's Boobs is Mine Part One
+    author: exit-up
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/584529.jpg
+    rating: 0.0
+    date: '2026-09-28'
+    code: 584529
+    url: /works/584529/
   - title: Her Predicaments
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/586417.jpg
@@ -1937,7 +1959,7 @@ works:
       With Her Body.
     author: makoto-shiyaka
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682254.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-27'
     code: 682254
     url: /works/682254/
@@ -2032,4 +2054,26 @@ works:
     date: '2026-09-26'
     code: 684127
     url: /works/684127/
+  - title: Kaette Kita Onee-chan
+    author: saitou-renji
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684556.jpg
+    rating: 0.0
+    date: '2026-09-28'
+    code: 684556
+    url: /works/684556/
+  - title: Watashi no Anal wa Yowakunai!! ~Onna Kishi-sama ga Anal Jelly ni Kussuru
+      made...~ | My anus isn't weak!!
+    author: nadayui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684587.jpg
+    rating: 0.0
+    date: '2026-09-28'
+    code: 684587
+    url: /works/684587/
+  - title: Provoking Men
+    author: pororivista
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684647.jpg
+    rating: 0.0
+    date: '2026-09-28'
+    code: 684647
+    url: /works/684647/
 ---

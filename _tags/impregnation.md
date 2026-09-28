@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "impregnation"
-work_count: 122
+work_count: 125
 works:
   - title: Kousa suru Osu to Mesu | Male and Female Crossing
     author: ootsuka-kotora
@@ -189,7 +189,7 @@ works:
       Soushuuhen
     author: rk-2
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/483537.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-09-27'
     code: 483537
     url: /works/483537/
@@ -200,6 +200,13 @@ works:
     date: '2026-02-28'
     code: 484852
     url: /works/484852/
+  - title: Yamada wa Sonna Koto Shinai | Yamada Would Never Do Something Like That
+    author: norakuro-nero
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/507512.jpg
+    rating: 0.0
+    date: '2026-09-28'
+    code: 507512
+    url: /works/507512/
   - title: Little Blue Bird
     author: kidouchi-kon
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/508534.jpg
@@ -210,7 +217,7 @@ works:
   - title: Auntie's Armpits, Sweat and Our Tomorrow
     author: emori-uki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/513136.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-27'
     code: 513136
     url: /works/513136/
@@ -607,6 +614,13 @@ works:
     date: '2026-07-17'
     code: 658578
     url: /works/658578/
+  - title: Zuriniku paiholl
+    author: '41'
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/660465.jpg
+    rating: 0.0
+    date: '2026-09-28'
+    code: 660465
+    url: /works/660465/
   - title: Jinin ’Futsuu’ Dekachichi Inkya J◯ no Maso Mesu ga Nagga〜i Chinpo de Shuuryou
       Made♡
     author: amrita
@@ -898,6 +912,13 @@ works:
     date: '2026-09-27'
     code: 684314
     url: /works/684314/
+  - title: Provoking Men
+    author: pororivista
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684647.jpg
+    rating: 0.0
+    date: '2026-09-28'
+    code: 684647
+    url: /works/684647/
   - title: Inin Keiyaku | Lewd Pregnancy Contract
     author: yoshiura-kazuya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/83595.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "story arc"
-work_count: 175
+work_count: 176
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -204,7 +204,7 @@ works:
       Soushuuhen
     author: rk-2
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/483537.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-09-27'
     code: 483537
     url: /works/483537/
@@ -365,7 +365,7 @@ works:
   - title: Inyoku no Tou - the luxury tower of sexual desire
     author: hozumi-kenji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/549608.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-09-27'
     code: 549608
     url: /works/549608/
@@ -976,6 +976,13 @@ works:
     date: '2026-08-20'
     code: 674019
     url: /works/674019/
+  - title: Umi no Yeah!!
+    author: aoi-hitori
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/674022.jpg
+    rating: 0.0
+    date: '2026-09-28'
+    code: 674022
+    url: /works/674022/
   - title: Everyone's Kissing Club - Chapter 1-29
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/674286.jpg

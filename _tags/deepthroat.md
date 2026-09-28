@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "deepthroat"
-work_count: 69
+work_count: 71
 works:
   - title: Toshishita Chin Kui Obasan
     author: maccha-neji
@@ -297,6 +297,13 @@ works:
     date: '2026-09-11'
     code: 656626
     url: /works/656626/
+  - title: Zuriniku paiholl
+    author: '41'
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/660465.jpg
+    rating: 0.0
+    date: '2026-09-28'
+    code: 660465
+    url: /works/660465/
   - title: Murasaki no Shoumei ~Kuroi Muchuu~ | Purple Illumination ~Dark Trance~
     author: '3104'
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/660867.jpg
@@ -503,7 +510,7 @@ works:
       Who Tells Women Apart By Their Asses, Got Blackmail On My Superior At Work 2
     author: eco-heeky
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684178.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-27'
     code: 684178
     url: /works/684178/
@@ -529,4 +536,11 @@ works:
     date: '2026-09-27'
     code: 684392
     url: /works/684392/
+  - title: I'm Sorry Honey Your Penis is Too Small
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684550.jpg
+    rating: 0.0
+    date: '2026-09-28'
+    code: 684550
+    url: /works/684550/
 ---

@@ -16,7 +16,7 @@ works:
       datta node, Renzoku Nakadashi de Onaho ni Shitemita~
     author: ginen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/523955.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-27'
     code: 523955
     url: /works/523955/

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "monster"
-work_count: 6
+work_count: 7
 works:
   - title: 'Haiboku no Daishou ~Okasare Ubaware Hametsu suru Shuudoujou~ | Price of
       Defeat: Downfall of the Violated and Plundered Sister'
@@ -49,4 +49,11 @@ works:
     date: '2026-09-25'
     code: 683992
     url: /works/683992/
+  - title: SHIORIHAZARD
+    author: wise-speak-kogasaki-yuina
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684611.jpg
+    rating: 0.0
+    date: '2026-09-28'
+    code: 684611
+    url: /works/684611/
 ---

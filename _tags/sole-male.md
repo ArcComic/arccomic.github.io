@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole male"
-work_count: 760
+work_count: 766
 works:
   - title: Adoration
     author: kishizuka-kenji
@@ -156,7 +156,7 @@ works:
   - title: Furuhonya no Onee-san to | With The Lady From The Used Book Shop
     author: nodame
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/306522.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-27'
     code: 306522
     url: /works/306522/
@@ -376,6 +376,13 @@ works:
     date: '2026-09-12'
     code: 373824
     url: /works/373824/
+  - title: Midara Midareru Hime Jijou | The Dirty And Confused Girl's Circumstances
+    author: nekomata-naomi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/373952.jpg
+    rating: 0.0
+    date: '2026-09-28'
+    code: 373952
+    url: /works/373952/
   - title: Suki Araba Kareshi no Seiheki o Yugametai! ~Kimi no Aegi ga Mada Tarinai~
     author: meeko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/376189.jpg
@@ -897,7 +904,7 @@ works:
       Soushuuhen
     author: rk-2
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/483537.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-09-27'
     code: 483537
     url: /works/483537/
@@ -1093,7 +1100,7 @@ works:
   - title: Auntie's Armpits, Sweat and Our Tomorrow
     author: emori-uki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/513136.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-27'
     code: 513136
     url: /works/513136/
@@ -1124,7 +1131,7 @@ works:
       datta node, Renzoku Nakadashi de Onaho ni Shitemita~
     author: ginen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/523955.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-27'
     code: 523955
     url: /works/523955/
@@ -5321,7 +5328,7 @@ works:
       With Her Body.
     author: makoto-shiyaka
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682254.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-27'
     code: 682254
     url: /works/682254/
@@ -5595,7 +5602,7 @@ works:
   - title: I Really Like Ajumma
     author: kkan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684177.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-27'
     code: 684177
     url: /works/684177/
@@ -5603,21 +5610,21 @@ works:
       Who Tells Women Apart By Their Asses, Got Blackmail On My Superior At Work 2
     author: eco-heeky
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684178.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-27'
     code: 684178
     url: /works/684178/
   - title: Shin Eridu Bouei Hokan Keikaku Tokushu Senryoku Kotai Tousei Houan 2
     author: paya8
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684183.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-27'
     code: 684183
     url: /works/684183/
   - title: Oshikake Jealousy | Uninvited Jealousy
     author: aiu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684209.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-27'
     code: 684209
     url: /works/684209/
@@ -5653,4 +5660,39 @@ works:
     date: '2026-09-27'
     code: 684392
     url: /works/684392/
+  - title: Kaette Kita Onee-chan
+    author: saitou-renji
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684556.jpg
+    rating: 0.0
+    date: '2026-09-28'
+    code: 684556
+    url: /works/684556/
+  - title: Rokujou Hitoma no Apart de Okaa-san to Icha Love Sex Seikatsu
+    author: shirakumo-zen
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684570.jpg
+    rating: 0.0
+    date: '2026-09-28'
+    code: 684570
+    url: /works/684570/
+  - title: Okkii Kaizou Keikaku | The Okki Makeover Plan
+    author: umihotaru-harumare
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684608.jpg
+    rating: 0.0
+    date: '2026-09-28'
+    code: 684608
+    url: /works/684608/
+  - title: Kakko Ii kara Suki 3 [English] partial retranslation
+    author: hyde-ride
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684643.jpg
+    rating: 0.0
+    date: '2026-09-28'
+    code: 684643
+    url: /works/684643/
+  - title: Provoking Men
+    author: pororivista
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684647.jpg
+    rating: 0.0
+    date: '2026-09-28'
+    code: 684647
+    url: /works/684647/
 ---

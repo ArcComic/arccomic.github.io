@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "schoolgirl uniform"
-work_count: 286
+work_count: 288
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -449,6 +449,13 @@ works:
     date: '2026-09-18'
     code: 539663
     url: /works/539663/
+  - title: Gal JK wa Boku no Mono
+    author: exit-up
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/542197.jpg
+    rating: 0.0
+    date: '2026-09-28'
+    code: 542197
+    url: /works/542197/
   - title: Jinsei Hametsu JC ~Watashi no Jinsei, Doushite Kounacchattan daro?~ | Middle
       Schooler's Life Ruined - How Did My Life Turn Out Like This [English] =TB=
     author: circle-hitori
@@ -502,6 +509,14 @@ works:
     date: '2026-04-25'
     code: 559088
     url: /works/559088/
+  - title: Suki datta Onnanoko ga Hentai Kusuguri Choukyou de Maso ni Sareteita Hanashi
+      | The girl who was trying to get him to come to her house was a hentai heroine
+    author: avis
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/560392.jpg
+    rating: 0.0
+    date: '2026-09-28'
+    code: 560392
+    url: /works/560392/
   - title: Walking back home in the winter with my childhood friend
     author: shimetsuki-tanki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/565301.jpg
@@ -2112,7 +2127,7 @@ works:
       Himitsu no Riyuu ga Aru
     author: kumatora-amasora-taichi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684191.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-27'
     code: 684191
     url: /works/684191/

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "dark skin"
-work_count: 134
+work_count: 136
 works:
   - title: Birthday
     author: hashiba-yachi
@@ -678,6 +678,13 @@ works:
     date: '2026-09-11'
     code: 656626
     url: /works/656626/
+  - title: Zuriniku paiholl
+    author: '41'
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/660465.jpg
+    rating: 0.0
+    date: '2026-09-28'
+    code: 660465
+    url: /works/660465/
   - title: Meshibe no Sakihokoru Shima de - On the island where pistils are in full
       bloom
     author: saigado-ishoku-dougen
@@ -988,4 +995,11 @@ works:
     date: '2026-09-27'
     code: 684283
     url: /works/684283/
+  - title: I'm Sorry Honey Your Penis is Too Small
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684550.jpg
+    rating: 0.0
+    date: '2026-09-28'
+    code: 684550
+    url: /works/684550/
 ---

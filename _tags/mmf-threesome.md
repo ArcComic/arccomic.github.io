@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "mmf threesome"
-work_count: 53
+work_count: 56
 works:
   - title: Hitozuma Hyakka
     author: hase-tsubura
@@ -184,6 +184,13 @@ works:
     date: '2026-05-10'
     code: 649068
     url: /works/649068/
+  - title: Mother's Orgasm ~Completely Submissive to Son's Cock~Chapter 1
+    author: jamming
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/653091.jpg
+    rating: 0.0
+    date: '2026-09-28'
+    code: 653091
+    url: /works/653091/
   - title: Ore no kanojo wa kosupureiya
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654812.jpg
@@ -206,6 +213,13 @@ works:
     date: '2026-09-09'
     code: 657459
     url: /works/657459/
+  - title: Zuriniku paiholl
+    author: '41'
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/660465.jpg
+    rating: 0.0
+    date: '2026-09-28'
+    code: 660465
+    url: /works/660465/
   - title: Akogare no Ano Hito wa | The Person I Admire
     author: minami-chisato-arisawa-tsukasa
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662657.jpg
@@ -249,6 +263,13 @@ works:
     date: '2026-09-12'
     code: 670195
     url: /works/670195/
+  - title: Umi no Yeah!!
+    author: aoi-hitori
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/674022.jpg
+    rating: 0.0
+    date: '2026-09-28'
+    code: 674022
+    url: /works/674022/
   - title: Karin-chan no Himitsu Kichi Matome
     author: konnyaku
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/676197.jpg

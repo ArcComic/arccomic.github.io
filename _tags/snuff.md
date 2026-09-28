@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "snuff"
-work_count: 12
+work_count: 13
 works:
   - title: My Dress Up Corpse
     author: mr-kurz
@@ -87,4 +87,12 @@ works:
     date: '2026-09-07'
     code: 679197
     url: /works/679197/
+  - title: Watashi no Anal wa Yowakunai!! ~Onna Kishi-sama ga Anal Jelly ni Kussuru
+      made...~ | My anus isn't weak!!
+    author: nadayui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684587.jpg
+    rating: 0.0
+    date: '2026-09-28'
+    code: 684587
+    url: /works/684587/
 ---

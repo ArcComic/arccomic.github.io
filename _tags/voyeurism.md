@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "voyeurism"
-work_count: 44
+work_count: 49
 works:
   - title: Tsutomesaki no Musume-san o Oishiku Itadaku Hon Minshuku Hen
     author: aya
@@ -119,6 +119,13 @@ works:
     date: '2026-05-07'
     code: 536423
     url: /works/536423/
+  - title: Camera Goshi no Kimi wa...
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/543436.jpg
+    rating: 0.0
+    date: '2026-09-28'
+    code: 543436
+    url: /works/543436/
   - title: Kyonyuu Kaa-san ga Boku no Me mo Mae de Oji-san no Namachin de Ikimakutta
       Hanashi
     author: hoshiduki-melon
@@ -197,6 +204,13 @@ works:
     date: '2026-03-05'
     code: 634591
     url: /works/634591/
+  - title: Kaa-san wa Home Helper
+    author: '41'
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/636389.jpg
+    rating: 5.0
+    date: '2026-09-28'
+    code: 636389
+    url: /works/636389/
   - title: LOOK LIKE
     author: terasu-mc
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/641295.jpg
@@ -239,6 +253,13 @@ works:
     date: '2026-05-26'
     code: 652606
     url: /works/652606/
+  - title: Mother's Orgasm ~Completely Submissive to Son's Cock~Chapter 1
+    author: jamming
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/653091.jpg
+    rating: 0.0
+    date: '2026-09-28'
+    code: 653091
+    url: /works/653091/
   - title: Toshoshitsu no Kedamono-tachi | Library Beasts
     author: ohno-kanae
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654638.jpg
@@ -246,6 +267,15 @@ works:
     date: '2026-09-07'
     code: 654638
     url: /works/654638/
+  - title: BokuYaba 5-nengo ~Seijinshiki no Hi Haha ni Natta Yamada to Saikai suru Hanashi~
+      | BokuYaba 5 Years Later -A story of meeting Yamada who became a mother at Coming
+      of Age Ceremony Day-
+    author: iyoudon
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/665001.jpg
+    rating: 0.0
+    date: '2026-09-28'
+    code: 665001
+    url: /works/665001/
   - title: Boku dake no yuki ane
     author: misaki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/667775.jpg
@@ -327,4 +357,12 @@ works:
     date: '2026-09-27'
     code: 684314
     url: /works/684314/
+  - title: Ano Naya ~Boku ga Mita Koto Nai Oba-san no Yoru no Sugata~ | That Shed~ The
+      Side of My Aunt I'd Never Seen at Night
+    author: kakisoba
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684591.jpg
+    rating: 0.0
+    date: '2026-09-28'
+    code: 684591
+    url: /works/684591/
 ---

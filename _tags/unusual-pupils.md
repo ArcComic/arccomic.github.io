@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "unusual pupils"
-work_count: 63
+work_count: 64
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -108,7 +108,7 @@ works:
       Soushuuhen
     author: rk-2
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/483537.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-09-27'
     code: 483537
     url: /works/483537/
@@ -450,7 +450,7 @@ works:
       Who Tells Women Apart By Their Asses, Got Blackmail On My Superior At Work 2
     author: eco-heeky
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684178.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-27'
     code: 684178
     url: /works/684178/
@@ -469,4 +469,11 @@ works:
     date: '2026-09-27'
     code: 684305
     url: /works/684305/
+  - title: SHIORIHAZARD
+    author: wise-speak-kogasaki-yuina
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684611.jpg
+    rating: 0.0
+    date: '2026-09-28'
+    code: 684611
+    url: /works/684611/
 ---

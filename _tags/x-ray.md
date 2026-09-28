@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "x-ray"
-work_count: 273
+work_count: 279
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -1329,6 +1329,13 @@ works:
     date: '2026-08-22'
     code: 659484
     url: /works/659484/
+  - title: Zuriniku paiholl
+    author: '41'
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/660465.jpg
+    rating: 0.0
+    date: '2026-09-28'
+    code: 660465
+    url: /works/660465/
   - title: Murasaki no Shoumei ~Kuroi Muchuu~ | Purple Illumination ~Dark Trance~
     author: '3104'
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/660867.jpg
@@ -1994,7 +2001,7 @@ works:
       Who Tells Women Apart By Their Asses, Got Blackmail On My Superior At Work 2
     author: eco-heeky
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684178.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-27'
     code: 684178
     url: /works/684178/
@@ -2002,14 +2009,14 @@ works:
       Himitsu no Riyuu ga Aru
     author: kumatora-amasora-taichi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684191.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-27'
     code: 684191
     url: /works/684191/
   - title: Oshikake Jealousy | Uninvited Jealousy
     author: aiu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684209.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-27'
     code: 684209
     url: /works/684209/
@@ -2051,4 +2058,39 @@ works:
     date: '2026-09-27'
     code: 684322
     url: /works/684322/
+  - title: I'm Sorry Honey Your Penis is Too Small
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684550.jpg
+    rating: 0.0
+    date: '2026-09-28'
+    code: 684550
+    url: /works/684550/
+  - title: Kaette Kita Onee-chan
+    author: saitou-renji
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684556.jpg
+    rating: 0.0
+    date: '2026-09-28'
+    code: 684556
+    url: /works/684556/
+  - title: SHIORIHAZARD
+    author: wise-speak-kogasaki-yuina
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684611.jpg
+    rating: 0.0
+    date: '2026-09-28'
+    code: 684611
+    url: /works/684611/
+  - title: Anby Secret Love Tape -Part 1 & 2-
+    author: sollyz
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684636.jpg
+    rating: 0.0
+    date: '2026-09-28'
+    code: 684636
+    url: /works/684636/
+  - title: Provoking Men
+    author: pororivista
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684647.jpg
+    rating: 0.0
+    date: '2026-09-28'
+    code: 684647
+    url: /works/684647/
 ---

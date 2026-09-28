@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "rough translation"
-work_count: 563
+work_count: 581
 works:
   - title: Watashi no Karada, Okashi Shimasu. Bunny Girl Edition
     author: nectar
@@ -113,7 +113,7 @@ works:
   - title: Auntie's Armpits, Sweat and Our Tomorrow
     author: emori-uki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/513136.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-27'
     code: 513136
     url: /works/513136/
@@ -173,7 +173,7 @@ works:
       datta node, Renzoku Nakadashi de Onaho ni Shitemita~
     author: ginen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/523955.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-27'
     code: 523955
     url: /works/523955/
@@ -282,6 +282,13 @@ works:
     date: '2026-04-19'
     code: 541631
     url: /works/541631/
+  - title: Gal JK wa Boku no Mono
+    author: exit-up
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/542197.jpg
+    rating: 0.0
+    date: '2026-09-28'
+    code: 542197
+    url: /works/542197/
   - title: Kaa-san to Shitai Koto ~ Zetsurin Musuko to no Seikatsu Kaisou Hen | What
       I want to do with My Mother ~ Sex Life with My Son Who Has...
     author: saimon-k
@@ -290,6 +297,13 @@ works:
     date: '2026-05-05'
     code: 543358
     url: /works/543358/
+  - title: Camera Goshi no Kimi wa...
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/543436.jpg
+    rating: 0.0
+    date: '2026-09-28'
+    code: 543436
+    url: /works/543436/
   - title: Minpaku ~Ojou-sama-tachi wa Minpaku Keieisha no Wana ni Ochiru~ | Sleeping
       in the Bed and Breakfast - Young ladies fall into the trap of a private lodging
       manager
@@ -377,6 +391,14 @@ works:
     date: '2026-05-05'
     code: 558039
     url: /works/558039/
+  - title: Suki datta Onnanoko ga Hentai Kusuguri Choukyou de Maso ni Sareteita Hanashi
+      | The girl who was trying to get him to come to her house was a hentai heroine
+    author: avis
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/560392.jpg
+    rating: 0.0
+    date: '2026-09-28'
+    code: 560392
+    url: /works/560392/
   - title: Netorare jk Osananajimi Suieibu 3
     author: aikawa-tatsuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/563342.jpg
@@ -487,6 +509,13 @@ works:
     date: '2026-07-07'
     code: 583391
     url: /works/583391/
+  - title: Friend's Mom's Boobs is Mine Part One
+    author: exit-up
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/584529.jpg
+    rating: 0.0
+    date: '2026-09-28'
+    code: 584529
+    url: /works/584529/
   - title: Ore ga Hoshikatta Mono wa Kin Medal Yori Namami Onaho Datta no Kamoshirenai｜Maybe
       what I Wanted was a Flesh and Blood Masturbator Rather than a Gold Medal
     author: carburetor
@@ -581,6 +610,13 @@ works:
     date: '2026-03-02'
     code: 603756
     url: /works/603756/
+  - title: Soukan Syndrome
+    author: kuroiwa-menou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/605633.jpg
+    rating: 0.0
+    date: '2026-09-28'
+    code: 605633
+    url: /works/605633/
   - title: Kouhai Otaku Tomodachi JK ga Kawai Sugirumon de!
     author: niji-teru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/606719.jpg
@@ -640,6 +676,13 @@ works:
     date: '2026-09-11'
     code: 611888
     url: /works/611888/
+  - title: Maid-san no Shokushu zuke houshikatsudou
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/611988.jpg
+    rating: 0.0
+    date: '2026-09-28'
+    code: 611988
+    url: /works/611988/
   - title: Kedamono no Ko wa Kedamono | The Child of a Beast is a Beast
     author: karashina-en
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/612063.jpg
@@ -979,6 +1022,13 @@ works:
     date: '2026-03-07'
     code: 635241
     url: /works/635241/
+  - title: Kaa-san wa Home Helper
+    author: '41'
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/636389.jpg
+    rating: 5.0
+    date: '2026-09-28'
+    code: 636389
+    url: /works/636389/
   - title: Imouto Oppai de Sukusuku Seikatsu
     author: asaomi-shimura
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/636802.jpg
@@ -1632,6 +1682,13 @@ works:
     date: '2026-05-27'
     code: 652836
     url: /works/652836/
+  - title: Mother's Orgasm ~Completely Submissive to Son's Cock~Chapter 1
+    author: jamming
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/653091.jpg
+    rating: 0.0
+    date: '2026-09-28'
+    code: 653091
+    url: /works/653091/
   - title: Majime na Kimi ni Hamaru Karada
     author: alp
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654010.jpg
@@ -1937,6 +1994,13 @@ works:
     date: '2026-08-22'
     code: 659484
     url: /works/659484/
+  - title: Zuriniku paiholl
+    author: '41'
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/660465.jpg
+    rating: 0.0
+    date: '2026-09-28'
+    code: 660465
+    url: /works/660465/
   - title: Nige Chin Complex ~Aza to Kyonyuu Joshi no Chouhatsu ni Bokki Kakushi Nigeta
       Zako ww~
     author: kakun
@@ -2443,6 +2507,15 @@ works:
     date: '2026-07-17'
     code: 664931
     url: /works/664931/
+  - title: BokuYaba 5-nengo ~Seijinshiki no Hi Haha ni Natta Yamada to Saikai suru Hanashi~
+      | BokuYaba 5 Years Later -A story of meeting Yamada who became a mother at Coming
+      of Age Ceremony Day-
+    author: iyoudon
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/665001.jpg
+    rating: 0.0
+    date: '2026-09-28'
+    code: 665001
+    url: /works/665001/
   - title: Hoken Taiiku de Jitsugi ga Hisshuu ni natta Sekai - A world where sex ed
       is mandatory and it's all practical
     author: toyama-jigoku
@@ -2690,6 +2763,13 @@ works:
     date: '2026-08-20'
     code: 674019
     url: /works/674019/
+  - title: Umi no Yeah!!
+    author: aoi-hitori
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/674022.jpg
+    rating: 0.0
+    date: '2026-09-28'
+    code: 674022
+    url: /works/674022/
   - title: 'Tanetsuke License ~Onna Joushi Wakarase Hen~ | Breeding License: Teaching
       My Female Boss a Lesson Edition'
     author: minamihama-yoriko
@@ -3732,7 +3812,7 @@ works:
       With Her Body.
     author: makoto-shiyaka
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682254.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-27'
     code: 682254
     url: /works/682254/
@@ -4092,7 +4172,7 @@ works:
   - title: I Really Like Ajumma
     author: kkan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684177.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-27'
     code: 684177
     url: /works/684177/
@@ -4100,7 +4180,7 @@ works:
       Himitsu no Riyuu ga Aru
     author: kumatora-amasora-taichi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684191.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-27'
     code: 684191
     url: /works/684191/
@@ -4111,4 +4191,57 @@ works:
     date: '2026-09-27'
     code: 684215
     url: /works/684215/
+  - title: 'Ero RPG no Onna Shujinkou ni TS Tensei Shitara... 2-shou Shoukan-hen | When
+      I Got Reincarnated as the Heroine of an Erotic RPG After TS… Chapter 2: Brothel
+      Arc'
+    author: shimaji
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684542.jpg
+    rating: 0.0
+    date: '2026-09-28'
+    code: 684542
+    url: /works/684542/
+  - title: Kaette Kita Onee-chan
+    author: saitou-renji
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684556.jpg
+    rating: 0.0
+    date: '2026-09-28'
+    code: 684556
+    url: /works/684556/
+  - title: Rokujou Hitoma no Apart de Okaa-san to Icha Love Sex Seikatsu
+    author: shirakumo-zen
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684570.jpg
+    rating: 0.0
+    date: '2026-09-28'
+    code: 684570
+    url: /works/684570/
+  - title: Watashi no Anal wa Yowakunai!! ~Onna Kishi-sama ga Anal Jelly ni Kussuru
+      made...~ | My anus isn't weak!!
+    author: nadayui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684587.jpg
+    rating: 0.0
+    date: '2026-09-28'
+    code: 684587
+    url: /works/684587/
+  - title: Ano Naya ~Boku ga Mita Koto Nai Oba-san no Yoru no Sugata~ | That Shed~ The
+      Side of My Aunt I'd Never Seen at Night
+    author: kakisoba
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684591.jpg
+    rating: 0.0
+    date: '2026-09-28'
+    code: 684591
+    url: /works/684591/
+  - title: Kakko Ii kara Suki 3 [English] partial retranslation
+    author: hyde-ride
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684643.jpg
+    rating: 0.0
+    date: '2026-09-28'
+    code: 684643
+    url: /works/684643/
+  - title: Haiboku Hiroin Henshin Dekinainode Bodi Peinto de Tatakattara Futsuu ni Maketa
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684659.jpg
+    rating: 0.0
+    date: '2026-09-28'
+    code: 684659
+    url: /works/684659/
 ---

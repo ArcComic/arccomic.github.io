@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "glasses"
-work_count: 225
+work_count: 230
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -154,6 +154,13 @@ works:
     date: '2026-09-24'
     code: 364371
     url: /works/364371/
+  - title: Midara Midareru Hime Jijou | The Dirty And Confused Girl's Circumstances
+    author: nekomata-naomi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/373952.jpg
+    rating: 0.0
+    date: '2026-09-28'
+    code: 373952
+    url: /works/373952/
   - title: Tonari no Heya no OL-san | OL-san Next Door
     author: kagami
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/396089.jpg
@@ -420,6 +427,13 @@ works:
     date: '2026-09-07'
     code: 542073
     url: /works/542073/
+  - title: Gal JK wa Boku no Mono
+    author: exit-up
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/542197.jpg
+    rating: 0.0
+    date: '2026-09-28'
+    code: 542197
+    url: /works/542197/
   - title: Minpaku ~Ojou-sama-tachi wa Minpaku Keieisha no Wana ni Ochiru~ | Sleeping
       in the Bed and Breakfast - Young ladies fall into the trap of a private lodging
       manager
@@ -432,7 +446,7 @@ works:
   - title: Inyoku no Tou - the luxury tower of sexual desire
     author: hozumi-kenji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/549608.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-09-27'
     code: 549608
     url: /works/549608/
@@ -1035,6 +1049,13 @@ works:
     date: '2026-09-09'
     code: 657459
     url: /works/657459/
+  - title: Zuriniku paiholl
+    author: '41'
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/660465.jpg
+    rating: 0.0
+    date: '2026-09-28'
+    code: 660465
+    url: /works/660465/
   - title: Genkai New Town no Inei Genkai New Town wa Mitsu no Aji 2 - The shadow of
       marginal new town
     author: saigado-ishoku-dougen
@@ -1648,6 +1669,20 @@ works:
     date: '2026-09-27'
     code: 684392
     url: /works/684392/
+  - title: I'm Sorry Honey Your Penis is Too Small
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684550.jpg
+    rating: 0.0
+    date: '2026-09-28'
+    code: 684550
+    url: /works/684550/
+  - title: Okkii Kaizou Keikaku | The Okki Makeover Plan
+    author: umihotaru-harumare
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684608.jpg
+    rating: 0.0
+    date: '2026-09-28'
+    code: 684608
+    url: /works/684608/
   - title: Hottokenaino
     author: hara-shigeyuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/77864.jpg

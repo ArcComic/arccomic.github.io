@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "shotacon"
-work_count: 114
+work_count: 120
 works:
   - title: Hitozuma Hyakka
     author: hase-tsubura
@@ -34,7 +34,7 @@ works:
   - title: Furuhonya no Onee-san to | With The Lady From The Used Book Shop
     author: nodame
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/306522.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-27'
     code: 306522
     url: /works/306522/
@@ -193,6 +193,14 @@ works:
     date: '2026-08-23'
     code: 505779
     url: /works/505779/
+  - title: Haha wa Ore no Shinyuu ni Netorarete Iru | My Mother Is Being Cuckolded By
+      My Best Friend
+    author: yuuki-ringo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/505834.jpg
+    rating: 0.0
+    date: '2026-09-28'
+    code: 505834
+    url: /works/505834/
   - title: Mayugomori 〜Nee ya to boku no midarana himegoto 〜 Ch.1-4
     author: mogiki-hayami
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/506317.jpg
@@ -277,6 +285,13 @@ works:
     date: '2026-09-26'
     code: 581946
     url: /works/581946/
+  - title: Friend's Mom's Boobs is Mine Part One
+    author: exit-up
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/584529.jpg
+    rating: 0.0
+    date: '2026-09-28'
+    code: 584529
+    url: /works/584529/
   - title: MY FIRST TIME HAVING SEX WAS WITH MY FRIEND'S MOM
     author: ariyuzi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/585515.jpg
@@ -312,6 +327,13 @@ works:
     date: '2026-04-16'
     code: 599514
     url: /works/599514/
+  - title: Soukan Syndrome
+    author: kuroiwa-menou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/605633.jpg
+    rating: 0.0
+    date: '2026-09-28'
+    code: 605633
+    url: /works/605633/
   - title: Sono Gal Mama wa Koubi Suru | This Gyaru Mom is Having Sex.
     author: ameto-yuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/608648.jpg
@@ -386,6 +408,13 @@ works:
     date: '2026-03-07'
     code: 635174
     url: /works/635174/
+  - title: Kaa-san wa Home Helper
+    author: '41'
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/636389.jpg
+    rating: 5.0
+    date: '2026-09-28'
+    code: 636389
+    url: /works/636389/
   - title: Oneesan no Chitsu-nai ni Shiroi Oshikko to Kiiroi Oshikko
     author: mosaic-book
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/636807.jpg
@@ -518,6 +547,13 @@ works:
     date: '2026-05-26'
     code: 652605
     url: /works/652605/
+  - title: Mother's Orgasm ~Completely Submissive to Son's Cock~Chapter 1
+    author: jamming
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/653091.jpg
+    rating: 0.0
+    date: '2026-09-28'
+    code: 653091
+    url: /works/653091/
   - title: Karada ga Binkan Sugiru Watashi wa Itoko ni Itazura sarete mo Teikoudekinai!
     author: romomata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/655421.jpg
@@ -828,6 +864,13 @@ works:
     date: '2026-09-26'
     code: 684142
     url: /works/684142/
+  - title: Kaette Kita Onee-chan
+    author: saitou-renji
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684556.jpg
+    rating: 0.0
+    date: '2026-09-28'
+    code: 684556
+    url: /works/684556/
   - title: Jokyoushi - Hot For Teachers | Female Teachers
     author: drill-murata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/81375.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "armpit licking"
-work_count: 13
+work_count: 14
 works:
   - title: Homestay-chu no Doitsu Musume ga Issho ni Furo ni Haitte Kuru Wake | The
       Reason Why a German Girl Takes a Bath Together With Me on Her Homestay
@@ -98,4 +98,11 @@ works:
     date: '2026-09-23'
     code: 683318
     url: /works/683318/
+  - title: Provoking Men
+    author: pororivista
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684647.jpg
+    rating: 0.0
+    date: '2026-09-28'
+    code: 684647
+    url: /works/684647/
 ---

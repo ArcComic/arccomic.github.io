@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "tracksuit"
-work_count: 12
+work_count: 14
 works:
   - title: Adlescence 06 Nozomi [English] =NSS=
     author: aoten
@@ -10,6 +10,13 @@ works:
     date: '2026-09-06'
     code: 349379
     url: /works/349379/
+  - title: Midara Midareru Hime Jijou | The Dirty And Confused Girl's Circumstances
+    author: nekomata-naomi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/373952.jpg
+    rating: 0.0
+    date: '2026-09-28'
+    code: 373952
+    url: /works/373952/
   - title: Hitozuma Volley-bu no Asedaku SEX ~Shower Abinagara Micchaku Shichau? 1-2
       | Married Women's Volleyball Club Sweaty Sex - We're Being Glued Together While
       Taking A Shower? 1-2
@@ -93,4 +100,11 @@ works:
     date: '2026-09-25'
     code: 683984
     url: /works/683984/
+  - title: Okkii Kaizou Keikaku | The Okki Makeover Plan
+    author: umihotaru-harumare
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684608.jpg
+    rating: 0.0
+    date: '2026-09-28'
+    code: 684608
+    url: /works/684608/
 ---

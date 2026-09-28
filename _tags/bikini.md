@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bikini"
-work_count: 72
+work_count: 74
 works:
   - title: Kizashi
     author: yoshiura-kazuya
@@ -77,6 +77,13 @@ works:
     date: '2026-04-23'
     code: 506303
     url: /works/506303/
+  - title: Yamada wa Sonna Koto Shinai | Yamada Would Never Do Something Like That
+    author: norakuro-nero
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/507512.jpg
+    rating: 0.0
+    date: '2026-09-28'
+    code: 507512
+    url: /works/507512/
   - title: Oppai na Natsuyasumi Soushuuhen | The Summer Break of Boobs Complete
     author: higashino-mikan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/508649.jpg
@@ -388,6 +395,13 @@ works:
     date: '2026-08-20'
     code: 674019
     url: /works/674019/
+  - title: Umi no Yeah!!
+    author: aoi-hitori
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/674022.jpg
+    rating: 0.0
+    date: '2026-09-28'
+    code: 674022
+    url: /works/674022/
   - title: Kawaii kedo Seikaku Warui kara Ijimechao! Nichijyou Bukkowashi Satsueikai
       Hen
     author: dancyo

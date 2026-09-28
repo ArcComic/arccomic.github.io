@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "cumflation"
-work_count: 3
+work_count: 4
 works:
   - title: Zamen Oogui Taikai | The Cum-Binge-Eating Championship
     author: yufuck
@@ -25,4 +25,11 @@ works:
     date: '2026-04-23'
     code: 645521
     url: /works/645521/
+  - title: SHIORIHAZARD
+    author: wise-speak-kogasaki-yuina
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684611.jpg
+    rating: 0.0
+    date: '2026-09-28'
+    code: 684611
+    url: /works/684611/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "inflation"
-work_count: 2
+work_count: 3
 works:
   - title: Zamen Oogui Taikai | The Cum-Binge-Eating Championship
     author: yufuck
@@ -17,4 +17,12 @@ works:
     date: '2026-03-07'
     code: 635363
     url: /works/635363/
+  - title: Watashi no Anal wa Yowakunai!! ~Onna Kishi-sama ga Anal Jelly ni Kussuru
+      made...~ | My anus isn't weak!!
+    author: nadayui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684587.jpg
+    rating: 0.0
+    date: '2026-09-28'
+    code: 684587
+    url: /works/684587/
 ---

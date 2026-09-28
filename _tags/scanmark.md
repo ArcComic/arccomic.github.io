@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "scanmark"
-work_count: 204
+work_count: 206
 works:
   - title: NTR Anniversary + ) [Syukurin] Mitsuha ~Netorare~ (Kimi no Na wa.) [English]
       [Colorized] by Mikaku
@@ -207,6 +207,13 @@ works:
     date: '2026-03-07'
     code: 634489
     url: /works/634489/
+  - title: Kaa-san wa Home Helper
+    author: '41'
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/636389.jpg
+    rating: 5.0
+    date: '2026-09-28'
+    code: 636389
+    url: /works/636389/
   - title: Imouto Oppai de Sukusuku Seikatsu
     author: asaomi-shimura
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/636802.jpg
@@ -1330,7 +1337,7 @@ works:
       With Her Body.
     author: makoto-shiyaka
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682254.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-27'
     code: 682254
     url: /works/682254/
@@ -1477,4 +1484,11 @@ works:
     date: '2026-09-24'
     code: 683749
     url: /works/683749/
+  - title: Kaette Kita Onee-chan
+    author: saitou-renji
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684556.jpg
+    rating: 0.0
+    date: '2026-09-28'
+    code: 684556
+    url: /works/684556/
 ---

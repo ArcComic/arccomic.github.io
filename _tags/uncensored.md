@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "uncensored"
-work_count: 113
+work_count: 115
 works:
   - title: Netemo Sametemo | Be it Sleeping or Awake
     author: takasugi-kou
@@ -121,7 +121,7 @@ works:
       datta node, Renzoku Nakadashi de Onaho ni Shitemita~
     author: ginen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/523955.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-27'
     code: 523955
     url: /works/523955/
@@ -810,14 +810,14 @@ works:
   - title: I Really Like Ajumma
     author: kkan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684177.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-27'
     code: 684177
     url: /works/684177/
   - title: Shin Eridu Bouei Hokan Keikaku Tokushu Senryoku Kotai Tousei Houan 2
     author: paya8
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684183.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-27'
     code: 684183
     url: /works/684183/
@@ -825,7 +825,7 @@ works:
       Himitsu no Riyuu ga Aru
     author: kumatora-amasora-taichi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684191.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-27'
     code: 684191
     url: /works/684191/
@@ -836,4 +836,18 @@ works:
     date: '2026-09-27'
     code: 684283
     url: /works/684283/
+  - title: I'm Sorry Honey Your Penis is Too Small
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684550.jpg
+    rating: 0.0
+    date: '2026-09-28'
+    code: 684550
+    url: /works/684550/
+  - title: Anby Secret Love Tape -Part 1 & 2-
+    author: sollyz
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684636.jpg
+    rating: 0.0
+    date: '2026-09-28'
+    code: 684636
+    url: /works/684636/
 ---

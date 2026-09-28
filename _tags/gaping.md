@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "gaping"
-work_count: 7
+work_count: 8
 works:
   - title: Onna Shachou to Koibito ni Naru Houhou | How To Become Lover's With A Female
       CEO
@@ -56,4 +56,12 @@ works:
     date: '2026-09-26'
     code: 684127
     url: /works/684127/
+  - title: Watashi no Anal wa Yowakunai!! ~Onna Kishi-sama ga Anal Jelly ni Kussuru
+      made...~ | My anus isn't weak!!
+    author: nadayui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684587.jpg
+    rating: 0.0
+    date: '2026-09-28'
+    code: 684587
+    url: /works/684587/
 ---

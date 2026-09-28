@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "urination"
-work_count: 42
+work_count: 43
 works:
   - title: Boku no Kazoku o Sarashimasu Ch. 3
     author: tanaka-aji
@@ -123,6 +123,13 @@ works:
     date: '2026-03-07'
     code: 588713
     url: /works/588713/
+  - title: Maid-san no Shokushu zuke houshikatsudou
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/611988.jpg
+    rating: 0.0
+    date: '2026-09-28'
+    code: 611988
+    url: /works/611988/
   - title: Tada Sex Shitakatta dake nano ni SNS de Deatta Bimajo ga Scatolo Mania de,
       Boku wa... 1
     author: bonske

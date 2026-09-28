@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "prostitution"
-work_count: 66
+work_count: 67
 works:
   - title: Yuri no o saifu ni shite agemasu ne, Senpai | I'll turn you into Yuri's wallet,
       Senpai
@@ -134,7 +134,7 @@ works:
   - title: Inyoku no Tou - the luxury tower of sexual desire
     author: hozumi-kenji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/549608.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-09-27'
     code: 549608
     url: /works/549608/
@@ -487,6 +487,15 @@ works:
     date: '2026-09-27'
     code: 684392
     url: /works/684392/
+  - title: 'Ero RPG no Onna Shujinkou ni TS Tensei Shitara... 2-shou Shoukan-hen | When
+      I Got Reincarnated as the Heroine of an Erotic RPG After TS… Chapter 2: Brothel
+      Arc'
+    author: shimaji
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684542.jpg
+    rating: 0.0
+    date: '2026-09-28'
+    code: 684542
+    url: /works/684542/
   - title: Hottokenaino
     author: hara-shigeyuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/77864.jpg

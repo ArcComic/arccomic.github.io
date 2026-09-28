@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "small penis"
-work_count: 13
+work_count: 14
 works:
   - title: Shut-less
     author: mr-hokke
@@ -97,4 +97,11 @@ works:
     date: '2026-09-27'
     code: 684305
     url: /works/684305/
+  - title: I'm Sorry Honey Your Penis is Too Small
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684550.jpg
+    rating: 0.0
+    date: '2026-09-28'
+    code: 684550
+    url: /works/684550/
 ---

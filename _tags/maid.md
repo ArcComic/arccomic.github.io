@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "maid"
-work_count: 33
+work_count: 34
 works:
   - title: Maid no Oshigoto. II | Maid's Work II
     author: alexi-laiho
@@ -111,6 +111,13 @@ works:
     date: '2026-03-03'
     code: 611701
     url: /works/611701/
+  - title: Maid-san no Shokushu zuke houshikatsudou
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/611988.jpg
+    rating: 0.0
+    date: '2026-09-28'
+    code: 611988
+    url: /works/611988/
   - title: Eat Meat + Digital Tokusouban Gentei Tokuten - Natsume-san wa Chorosugiru!
     author: ushinomiya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638556.jpg

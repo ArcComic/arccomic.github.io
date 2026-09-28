@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "incomplete"
-work_count: 12
+work_count: 13
 works:
   - title: Kizashi
     author: yoshiura-kazuya
@@ -60,6 +60,13 @@ works:
     date: '2026-03-07'
     code: 634328
     url: /works/634328/
+  - title: Kaa-san wa Home Helper
+    author: '41'
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/636389.jpg
+    rating: 5.0
+    date: '2026-09-28'
+    code: 636389
+    url: /works/636389/
   - title: Sex Between Gloomy Types is the Hottest, Ain't It?
     author: doji-ro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/646757.jpg

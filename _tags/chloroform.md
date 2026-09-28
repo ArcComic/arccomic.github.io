@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "chloroform"
-work_count: 20
+work_count: 21
 works:
   - title: Kagesawa Mura no Akai Kagi tada <hottan>
     author: chiba-shuusaku
@@ -153,4 +153,11 @@ works:
     date: '2026-08-24'
     code: 666532
     url: /works/666532/
+  - title: Provoking Men
+    author: pororivista
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684647.jpg
+    rating: 0.0
+    date: '2026-09-28'
+    code: 684647
+    url: /works/684647/
 ---

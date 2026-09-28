@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "solo action"
-work_count: 6
+work_count: 7
 works:
   - title: Yasashii Bakunyuu Kaa-san to Irekawacchatta Hankouki na Ore no Hanashi ~Episode
       1~
@@ -46,4 +46,11 @@ works:
     date: '2026-09-23'
     code: 667775
     url: /works/667775/
+  - title: Provoking Men
+    author: pororivista
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684647.jpg
+    rating: 0.0
+    date: '2026-09-28'
+    code: 684647
+    url: /works/684647/
 ---

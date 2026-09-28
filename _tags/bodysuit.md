@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bodysuit"
-work_count: 6
+work_count: 7
 works:
   - title: The Prison Idol And Assistant
     author: halo
@@ -39,6 +39,13 @@ works:
     date: '2026-09-23'
     code: 683225
     url: /works/683225/
+  - title: Haiboku Hiroin Henshin Dekinainode Bodi Peinto de Tatakattara Futsuu ni Maketa
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684659.jpg
+    rating: 0.0
+    date: '2026-09-28'
+    code: 684659
+    url: /works/684659/
   - title: Hottokenaino
     author: hara-shigeyuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/77864.jpg

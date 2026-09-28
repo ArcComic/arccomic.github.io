@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "humiliation"
-work_count: 37
+work_count: 39
 works:
   - title: Doushia (Terasu MC)] Dorei Gazoku
     author: terasu-mc
@@ -186,6 +186,15 @@ works:
     date: '2026-07-16'
     code: 664853
     url: /works/664853/
+  - title: BokuYaba 5-nengo ~Seijinshiki no Hi Haha ni Natta Yamada to Saikai suru Hanashi~
+      | BokuYaba 5 Years Later -A story of meeting Yamada who became a mother at Coming
+      of Age Ceremony Day-
+    author: iyoudon
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/665001.jpg
+    rating: 0.0
+    date: '2026-09-28'
+    code: 665001
+    url: /works/665001/
   - title: Onii-san Zako sugite Ukeru~ | Big Brother, you're so pathetic, it's hilarious~
     author: puritei
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/674568.jpg
@@ -274,4 +283,11 @@ works:
     date: '2026-09-25'
     code: 683725
     url: /works/683725/
+  - title: I'm Sorry Honey Your Penis is Too Small
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684550.jpg
+    rating: 0.0
+    date: '2026-09-28'
+    code: 684550
+    url: /works/684550/
 ---
