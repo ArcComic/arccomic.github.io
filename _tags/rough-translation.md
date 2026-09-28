@@ -285,7 +285,7 @@ works:
   - title: Gal JK wa Boku no Mono
     author: exit-up
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/542197.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-28'
     code: 542197
     url: /works/542197/
@@ -300,7 +300,7 @@ works:
   - title: Camera Goshi no Kimi wa...
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/543436.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-28'
     code: 543436
     url: /works/543436/
@@ -395,7 +395,7 @@ works:
       | The girl who was trying to get him to come to her house was a hentai heroine
     author: avis
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/560392.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-28'
     code: 560392
     url: /works/560392/
@@ -512,7 +512,7 @@ works:
   - title: Friend's Mom's Boobs is Mine Part One
     author: exit-up
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/584529.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-28'
     code: 584529
     url: /works/584529/
@@ -613,7 +613,7 @@ works:
   - title: Soukan Syndrome
     author: kuroiwa-menou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/605633.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-28'
     code: 605633
     url: /works/605633/
@@ -679,7 +679,7 @@ works:
   - title: Maid-san no Shokushu zuke houshikatsudou
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/611988.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-09-28'
     code: 611988
     url: /works/611988/
@@ -1685,7 +1685,7 @@ works:
   - title: Mother's Orgasm ~Completely Submissive to Son's Cock~Chapter 1
     author: jamming
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/653091.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-28'
     code: 653091
     url: /works/653091/
@@ -1997,7 +1997,7 @@ works:
   - title: Zuriniku paiholl
     author: '41'
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/660465.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-28'
     code: 660465
     url: /works/660465/
@@ -2512,7 +2512,7 @@ works:
       of Age Ceremony Day-
     author: iyoudon
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/665001.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-28'
     code: 665001
     url: /works/665001/
@@ -2766,7 +2766,7 @@ works:
   - title: Umi no Yeah!!
     author: aoi-hitori
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/674022.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-28'
     code: 674022
     url: /works/674022/
@@ -4196,21 +4196,21 @@ works:
       Arc'
     author: shimaji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684542.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-28'
     code: 684542
     url: /works/684542/
   - title: Kaette Kita Onee-chan
     author: saitou-renji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684556.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-28'
     code: 684556
     url: /works/684556/
   - title: Rokujou Hitoma no Apart de Okaa-san to Icha Love Sex Seikatsu
     author: shirakumo-zen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684570.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-28'
     code: 684570
     url: /works/684570/
@@ -4218,7 +4218,7 @@ works:
       made...~ | My anus isn't weak!!
     author: nadayui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684587.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-28'
     code: 684587
     url: /works/684587/
@@ -4226,21 +4226,21 @@ works:
       Side of My Aunt I'd Never Seen at Night
     author: kakisoba
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684591.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-28'
     code: 684591
     url: /works/684591/
   - title: Kakko Ii kara Suki 3 [English] partial retranslation
     author: hyde-ride
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684643.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-28'
     code: 684643
     url: /works/684643/
   - title: Haiboku Hiroin Henshin Dekinainode Bodi Peinto de Tatakattara Futsuu ni Maketa
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684659.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-28'
     code: 684659
     url: /works/684659/

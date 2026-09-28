@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "glasses"
-work_count: 230
+work_count: 231
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -157,7 +157,7 @@ works:
   - title: Midara Midareru Hime Jijou | The Dirty And Confused Girl's Circumstances
     author: nekomata-naomi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/373952.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-28'
     code: 373952
     url: /works/373952/
@@ -337,6 +337,13 @@ works:
     date: '2026-09-19'
     code: 503772
     url: /works/503772/
+  - title: 'Married Couple Swap: He’s Better Than My Husband'
+    author: peter-mitsuru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/504645.jpg
+    rating: 0.0
+    date: '2026-09-28'
+    code: 504645
+    url: /works/504645/
   - title: Yumemiru Shoujo - The Girl Who Dreams
     author: fuuga
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/50476.jpg
@@ -430,7 +437,7 @@ works:
   - title: Gal JK wa Boku no Mono
     author: exit-up
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/542197.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-28'
     code: 542197
     url: /works/542197/
@@ -1052,7 +1059,7 @@ works:
   - title: Zuriniku paiholl
     author: '41'
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/660465.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-28'
     code: 660465
     url: /works/660465/
@@ -1672,14 +1679,14 @@ works:
   - title: I'm Sorry Honey Your Penis is Too Small
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684550.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-28'
     code: 684550
     url: /works/684550/
   - title: Okkii Kaizou Keikaku | The Okki Makeover Plan
     author: umihotaru-harumare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684608.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-28'
     code: 684608
     url: /works/684608/

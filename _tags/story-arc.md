@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "story arc"
-work_count: 176
+work_count: 177
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -231,6 +231,13 @@ works:
     date: '2026-09-12'
     code: 500467
     url: /works/500467/
+  - title: 'Married Couple Swap: He’s Better Than My Husband'
+    author: peter-mitsuru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/504645.jpg
+    rating: 0.0
+    date: '2026-09-28'
+    code: 504645
+    url: /works/504645/
   - title: Yumemiru Shoujo - The Girl Who Dreams
     author: fuuga
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/50476.jpg
@@ -979,7 +986,7 @@ works:
   - title: Umi no Yeah!!
     author: aoi-hitori
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/674022.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-28'
     code: 674022
     url: /works/674022/

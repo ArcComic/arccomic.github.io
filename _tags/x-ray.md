@@ -1332,7 +1332,7 @@ works:
   - title: Zuriniku paiholl
     author: '41'
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/660465.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-28'
     code: 660465
     url: /works/660465/
@@ -2061,35 +2061,35 @@ works:
   - title: I'm Sorry Honey Your Penis is Too Small
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684550.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-28'
     code: 684550
     url: /works/684550/
   - title: Kaette Kita Onee-chan
     author: saitou-renji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684556.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-28'
     code: 684556
     url: /works/684556/
   - title: SHIORIHAZARD
     author: wise-speak-kogasaki-yuina
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684611.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-28'
     code: 684611
     url: /works/684611/
   - title: Anby Secret Love Tape -Part 1 & 2-
     author: sollyz
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684636.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-28'
     code: 684636
     url: /works/684636/
   - title: Provoking Men
     author: pororivista
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684647.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-09-28'
     code: 684647
     url: /works/684647/

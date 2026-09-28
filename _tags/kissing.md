@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "kissing"
-work_count: 316
+work_count: 317
 works:
   - title: FLUFFY LAUGH GIRL
     author: shibasaki-syouzi
@@ -322,6 +322,13 @@ works:
     date: '2026-08-18'
     code: 504436
     url: /works/504436/
+  - title: 'Married Couple Swap: He’s Better Than My Husband'
+    author: peter-mitsuru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/504645.jpg
+    rating: 0.0
+    date: '2026-09-28'
+    code: 504645
+    url: /works/504645/
   - title: Moto Mahou Shoujo no Hikikomori Seikatsu | The NEET Life of a Former Magical
       Girl
     author: zhen-lu
@@ -641,7 +648,7 @@ works:
   - title: Friend's Mom's Boobs is Mine Part One
     author: exit-up
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/584529.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-28'
     code: 584529
     url: /works/584529/
@@ -1604,7 +1611,7 @@ works:
   - title: Zuriniku paiholl
     author: '41'
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/660465.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-28'
     code: 660465
     url: /works/660465/
@@ -2357,21 +2364,21 @@ works:
   - title: Rokujou Hitoma no Apart de Okaa-san to Icha Love Sex Seikatsu
     author: shirakumo-zen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684570.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-28'
     code: 684570
     url: /works/684570/
   - title: SHIORIHAZARD
     author: wise-speak-kogasaki-yuina
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684611.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-28'
     code: 684611
     url: /works/684611/
   - title: Provoking Men
     author: pororivista
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684647.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-09-28'
     code: 684647
     url: /works/684647/

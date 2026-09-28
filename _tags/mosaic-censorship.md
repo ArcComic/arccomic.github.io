@@ -424,7 +424,7 @@ works:
       My Best Friend
     author: yuuki-ringo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/505834.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-28'
     code: 505834
     url: /works/505834/
@@ -593,7 +593,7 @@ works:
   - title: Gal JK wa Boku no Mono
     author: exit-up
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/542197.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-28'
     code: 542197
     url: /works/542197/
@@ -766,7 +766,7 @@ works:
   - title: Friend's Mom's Boobs is Mine Part One
     author: exit-up
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/584529.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-28'
     code: 584529
     url: /works/584529/
@@ -2057,7 +2057,7 @@ works:
   - title: Kaette Kita Onee-chan
     author: saitou-renji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684556.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-28'
     code: 684556
     url: /works/684556/
@@ -2065,14 +2065,14 @@ works:
       made...~ | My anus isn't weak!!
     author: nadayui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684587.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-28'
     code: 684587
     url: /works/684587/
   - title: Provoking Men
     author: pororivista
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684647.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-09-28'
     code: 684647
     url: /works/684647/

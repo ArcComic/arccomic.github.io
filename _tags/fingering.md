@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "fingering"
-work_count: 159
+work_count: 160
 works:
   - title: Watashi-tachi no Seikoui Tokubetsu Jisshuu -Zengi Hen-
     author: guglielmo
@@ -134,6 +134,13 @@ works:
     date: '2026-04-27'
     code: 503556
     url: /works/503556/
+  - title: 'Married Couple Swap: He’s Better Than My Husband'
+    author: peter-mitsuru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/504645.jpg
+    rating: 0.0
+    date: '2026-09-28'
+    code: 504645
+    url: /works/504645/
   - title: Mochimochi Nao's Sweet and Sexy Story That Makes You Melt
     author: nako-sir
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/506789.jpg
@@ -803,7 +810,7 @@ works:
   - title: Zuriniku paiholl
     author: '41'
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/660465.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-28'
     code: 660465
     url: /works/660465/
@@ -1181,7 +1188,7 @@ works:
   - title: Provoking Men
     author: pororivista
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684647.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-09-28'
     code: 684647
     url: /works/684647/

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "netorare"
-work_count: 380
+work_count: 381
 works:
   - title: Kousa suru Osu to Mesu | Male and Female Crossing
     author: ootsuka-kotora
@@ -504,18 +504,25 @@ works:
     date: '2026-04-19'
     code: 504221
     url: /works/504221/
+  - title: 'Married Couple Swap: He’s Better Than My Husband'
+    author: peter-mitsuru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/504645.jpg
+    rating: 0.0
+    date: '2026-09-28'
+    code: 504645
+    url: /works/504645/
   - title: Haha wa Ore no Shinyuu ni Netorarete Iru | My Mother Is Being Cuckolded By
       My Best Friend
     author: yuuki-ringo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/505834.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-28'
     code: 505834
     url: /works/505834/
   - title: Yamada wa Sonna Koto Shinai | Yamada Would Never Do Something Like That
     author: norakuro-nero
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/507512.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-28'
     code: 507512
     url: /works/507512/
@@ -738,7 +745,7 @@ works:
   - title: Camera Goshi no Kimi wa...
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/543436.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-28'
     code: 543436
     url: /works/543436/
@@ -849,7 +856,7 @@ works:
       | The girl who was trying to get him to come to her house was a hentai heroine
     author: avis
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/560392.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-28'
     code: 560392
     url: /works/560392/
@@ -976,7 +983,7 @@ works:
   - title: Friend's Mom's Boobs is Mine Part One
     author: exit-up
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/584529.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-28'
     code: 584529
     url: /works/584529/
@@ -2053,7 +2060,7 @@ works:
       of Age Ceremony Day-
     author: iyoudon
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/665001.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-28'
     code: 665001
     url: /works/665001/
@@ -2220,7 +2227,7 @@ works:
   - title: Umi no Yeah!!
     author: aoi-hitori
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/674022.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-28'
     code: 674022
     url: /works/674022/
@@ -2789,7 +2796,7 @@ works:
   - title: I'm Sorry Honey Your Penis is Too Small
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684550.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-28'
     code: 684550
     url: /works/684550/
@@ -2797,7 +2804,7 @@ works:
       Side of My Aunt I'd Never Seen at Night
     author: kakisoba
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684591.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-28'
     code: 684591
     url: /works/684591/

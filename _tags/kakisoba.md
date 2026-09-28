@@ -7,7 +7,7 @@ works:
       Side of My Aunt I'd Never Seen at Night
     author: kakisoba
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684591.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-28'
     code: 684591
     url: /works/684591/

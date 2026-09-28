@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "full color"
-work_count: 216
+work_count: 217
 works:
   - title: Tsuma wo Yariman ni Shimasu Shakkin no Tame desu kara.
     author: pietoro
@@ -310,6 +310,13 @@ works:
     date: '2026-04-19'
     code: 504221
     url: /works/504221/
+  - title: 'Married Couple Swap: He’s Better Than My Husband'
+    author: peter-mitsuru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/504645.jpg
+    rating: 0.0
+    date: '2026-09-28'
+    code: 504645
+    url: /works/504645/
   - title: Toaru Mura no Fudeoroshi Jijou | *séh₂ swédʰh₁eh₂ weyḱósyo
     author: nora-higuma
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/505779.jpg
@@ -481,7 +488,7 @@ works:
   - title: Gal JK wa Boku no Mono
     author: exit-up
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/542197.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-28'
     code: 542197
     url: /works/542197/
@@ -634,7 +641,7 @@ works:
   - title: Friend's Mom's Boobs is Mine Part One
     author: exit-up
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/584529.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-28'
     code: 584529
     url: /works/584529/
@@ -1561,21 +1568,21 @@ works:
   - title: Rokujou Hitoma no Apart de Okaa-san to Icha Love Sex Seikatsu
     author: shirakumo-zen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684570.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-28'
     code: 684570
     url: /works/684570/
   - title: Provoking Men
     author: pororivista
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684647.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-09-28'
     code: 684647
     url: /works/684647/
   - title: Haiboku Hiroin Henshin Dekinainode Bodi Peinto de Tatakattara Futsuu ni Maketa
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684659.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-28'
     code: 684659
     url: /works/684659/

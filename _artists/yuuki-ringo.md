@@ -6,7 +6,7 @@ works:
   - title: Haha wa Ore no Shinyuu ni Netorarete Iru | My Mother Is Being Cuckolded By
       My Best Friend
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/505834.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-28'
     code: 505834
     url: /works/505834/

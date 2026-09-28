@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "rape"
-work_count: 210
+work_count: 211
 works:
   - title: Office Love Scramble Ch. 1
     author: tohzai
@@ -329,6 +329,13 @@ works:
     date: '2026-04-19'
     code: 504221
     url: /works/504221/
+  - title: 'Married Couple Swap: He’s Better Than My Husband'
+    author: peter-mitsuru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/504645.jpg
+    rating: 0.0
+    date: '2026-09-28'
+    code: 504645
+    url: /works/504645/
   - title: Yumemiru Shoujo - The Girl Who Dreams
     author: fuuga
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/50476.jpg
@@ -339,7 +346,7 @@ works:
   - title: Yamada wa Sonna Koto Shinai | Yamada Would Never Do Something Like That
     author: norakuro-nero
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/507512.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-28'
     code: 507512
     url: /works/507512/
@@ -1041,7 +1048,7 @@ works:
   - title: Zuriniku paiholl
     author: '41'
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/660465.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-28'
     code: 660465
     url: /works/660465/
@@ -1517,14 +1524,14 @@ works:
   - title: Provoking Men
     author: pororivista
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684647.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-09-28'
     code: 684647
     url: /works/684647/
   - title: Haiboku Hiroin Henshin Dekinainode Bodi Peinto de Tatakattara Futsuu ni Maketa
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684659.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-28'
     code: 684659
     url: /works/684659/

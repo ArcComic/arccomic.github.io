@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "ahegao"
-work_count: 268
+work_count: 269
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -274,6 +274,13 @@ works:
     date: '2026-07-11'
     code: 501709
     url: /works/501709/
+  - title: 'Married Couple Swap: He’s Better Than My Husband'
+    author: peter-mitsuru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/504645.jpg
+    rating: 0.0
+    date: '2026-09-28'
+    code: 504645
+    url: /works/504645/
   - title: Moto Mahou Shoujo no Hikikomori Seikatsu | The NEET Life of a Former Magical
       Girl
     author: zhen-lu
@@ -1184,7 +1191,7 @@ works:
   - title: Mother's Orgasm ~Completely Submissive to Son's Cock~Chapter 1
     author: jamming
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/653091.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-28'
     code: 653091
     url: /works/653091/
@@ -1250,7 +1257,7 @@ works:
   - title: Zuriniku paiholl
     author: '41'
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/660465.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-28'
     code: 660465
     url: /works/660465/
@@ -1989,21 +1996,21 @@ works:
   - title: Kaette Kita Onee-chan
     author: saitou-renji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684556.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-28'
     code: 684556
     url: /works/684556/
   - title: SHIORIHAZARD
     author: wise-speak-kogasaki-yuina
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684611.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-28'
     code: 684611
     url: /works/684611/
   - title: Provoking Men
     author: pororivista
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684647.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-09-28'
     code: 684647
     url: /works/684647/

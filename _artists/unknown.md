@@ -50,7 +50,7 @@ works:
     url: /works/535911/
   - title: Camera Goshi no Kimi wa...
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/543436.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-28'
     code: 543436
     url: /works/543436/
@@ -86,7 +86,7 @@ works:
     url: /works/599910/
   - title: Maid-san no Shokushu zuke houshikatsudou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/611988.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-09-28'
     code: 611988
     url: /works/611988/
@@ -397,13 +397,13 @@ works:
     url: /works/684139/
   - title: I'm Sorry Honey Your Penis is Too Small
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684550.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-28'
     code: 684550
     url: /works/684550/
   - title: Haiboku Hiroin Henshin Dekinainode Bodi Peinto de Tatakattara Futsuu ni Maketa
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684659.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-28'
     code: 684659
     url: /works/684659/

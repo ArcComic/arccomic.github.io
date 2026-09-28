@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "webtoon"
-work_count: 4
+work_count: 5
 works:
   - title: You Said Just the Tip… I Asked My Brother's Girlfriend to Have Sex With Me
       Without a Condom!!
@@ -11,6 +11,13 @@ works:
     date: '2026-09-25'
     code: 420017
     url: /works/420017/
+  - title: 'Married Couple Swap: He’s Better Than My Husband'
+    author: peter-mitsuru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/504645.jpg
+    rating: 0.0
+    date: '2026-09-28'
+    code: 504645
+    url: /works/504645/
   - title: My Study Method
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/562201.jpg

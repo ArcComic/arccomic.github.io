@@ -839,14 +839,14 @@ works:
   - title: I'm Sorry Honey Your Penis is Too Small
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684550.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-28'
     code: 684550
     url: /works/684550/
   - title: Anby Secret Love Tape -Part 1 & 2-
     author: sollyz
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684636.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-28'
     code: 684636
     url: /works/684636/

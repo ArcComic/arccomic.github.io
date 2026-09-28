@@ -122,7 +122,7 @@ works:
   - title: Camera Goshi no Kimi wa...
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/543436.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-28'
     code: 543436
     url: /works/543436/
@@ -256,7 +256,7 @@ works:
   - title: Mother's Orgasm ~Completely Submissive to Son's Cock~Chapter 1
     author: jamming
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/653091.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-28'
     code: 653091
     url: /works/653091/
@@ -272,7 +272,7 @@ works:
       of Age Ceremony Day-
     author: iyoudon
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/665001.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-28'
     code: 665001
     url: /works/665001/
@@ -361,7 +361,7 @@ works:
       Side of My Aunt I'd Never Seen at Night
     author: kakisoba
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684591.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-28'
     code: 684591
     url: /works/684591/

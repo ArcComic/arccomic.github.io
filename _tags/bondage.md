@@ -80,7 +80,7 @@ works:
       | The girl who was trying to get him to come to her house was a hentai heroine
     author: avis
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/560392.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-28'
     code: 560392
     url: /works/560392/
@@ -133,7 +133,7 @@ works:
   - title: Maid-san no Shokushu zuke houshikatsudou
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/611988.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-09-28'
     code: 611988
     url: /works/611988/
@@ -559,14 +559,14 @@ works:
       made...~ | My anus isn't weak!!
     author: nadayui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684587.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-28'
     code: 684587
     url: /works/684587/
   - title: SHIORIHAZARD
     author: wise-speak-kogasaki-yuina
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684611.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-28'
     code: 684611
     url: /works/684611/

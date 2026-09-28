@@ -264,7 +264,7 @@ works:
   - title: Soukan Syndrome
     author: kuroiwa-menou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/605633.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-28'
     code: 605633
     url: /works/605633/
@@ -597,7 +597,7 @@ works:
   - title: Zuriniku paiholl
     author: '41'
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/660465.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-28'
     code: 660465
     url: /works/660465/
@@ -1004,7 +1004,7 @@ works:
       Arc'
     author: shimaji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684542.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-28'
     code: 684542
     url: /works/684542/
@@ -1012,14 +1012,14 @@ works:
       made...~ | My anus isn't weak!!
     author: nadayui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684587.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-28'
     code: 684587
     url: /works/684587/
   - title: SHIORIHAZARD
     author: wise-speak-kogasaki-yuina
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684611.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-28'
     code: 684611
     url: /works/684611/

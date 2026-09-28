@@ -717,7 +717,7 @@ works:
   - title: Friend's Mom's Boobs is Mine Part One
     author: exit-up
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/584529.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-28'
     code: 584529
     url: /works/584529/
@@ -2418,7 +2418,7 @@ works:
       Arc'
     author: shimaji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684542.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-28'
     code: 684542
     url: /works/684542/

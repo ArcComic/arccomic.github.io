@@ -196,7 +196,7 @@ works:
   - title: Camera Goshi no Kimi wa...
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/543436.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-28'
     code: 543436
     url: /works/543436/
@@ -226,7 +226,7 @@ works:
       | The girl who was trying to get him to come to her house was a hentai heroine
     author: avis
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/560392.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-28'
     code: 560392
     url: /works/560392/
@@ -893,7 +893,7 @@ works:
   - title: Provoking Men
     author: pororivista
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684647.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-09-28'
     code: 684647
     url: /works/684647/

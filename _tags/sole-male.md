@@ -379,7 +379,7 @@ works:
   - title: Midara Midareru Hime Jijou | The Dirty And Confused Girl's Circumstances
     author: nekomata-naomi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/373952.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-28'
     code: 373952
     url: /works/373952/
@@ -5663,35 +5663,35 @@ works:
   - title: Kaette Kita Onee-chan
     author: saitou-renji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684556.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-28'
     code: 684556
     url: /works/684556/
   - title: Rokujou Hitoma no Apart de Okaa-san to Icha Love Sex Seikatsu
     author: shirakumo-zen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684570.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-28'
     code: 684570
     url: /works/684570/
   - title: Okkii Kaizou Keikaku | The Okki Makeover Plan
     author: umihotaru-harumare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684608.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-28'
     code: 684608
     url: /works/684608/
   - title: Kakko Ii kara Suki 3 [English] partial retranslation
     author: hyde-ride
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684643.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-28'
     code: 684643
     url: /works/684643/
   - title: Provoking Men
     author: pororivista
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684647.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-09-28'
     code: 684647
     url: /works/684647/

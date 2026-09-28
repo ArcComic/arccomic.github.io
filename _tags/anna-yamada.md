@@ -6,7 +6,7 @@ works:
   - title: Yamada wa Sonna Koto Shinai | Yamada Would Never Do Something Like That
     author: norakuro-nero
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/507512.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-28'
     code: 507512
     url: /works/507512/
@@ -15,7 +15,7 @@ works:
       of Age Ceremony Day-
     author: iyoudon
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/665001.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-28'
     code: 665001
     url: /works/665001/
