@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "kibi anmitsu"
-work_count: 2
+work_count: 3
 works:
   - title: Cool-Dere Kinpatsu Hitozuma Zenra Kaseifu san ga Yanda Boku ni Yasashiku
       Shite Kureta Ohanashi 1| Naked Blonde Kuudere Housekeeper Wife Kindly Treats Broken
@@ -19,4 +19,11 @@ works:
     date: '2026-05-20'
     code: 530293
     url: /works/530293/
+  - title: Ero Mangaka-san to Henshu-kun
+    author: kibi-anmitsu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/641928.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 641928
+    url: /works/641928/
 ---

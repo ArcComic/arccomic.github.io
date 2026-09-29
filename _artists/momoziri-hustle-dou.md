@@ -11,7 +11,7 @@ works:
     url: /works/648073/
   - title: Beit-dai de Kaa-san no Karada o Katta Musuko no Hanashi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/657979.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-09-29'
     code: 657979
     url: /works/657979/

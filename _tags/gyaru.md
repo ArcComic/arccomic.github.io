@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "gyaru"
-work_count: 107
+work_count: 108
 works:
   - title: GalPa!
     author: sakagami-umi
@@ -572,6 +572,13 @@ works:
     date: '2026-09-19'
     code: 665207
     url: /works/665207/
+  - title: Kashiteyaru dake | I'll Just Let You Borrow It
+    author: pontaro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/667065.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 667065
+    url: /works/667065/
   - title: Tainou Bicchi Hensai Keikaku | The Delinquent Bitch's Repayment Plan
     author: onkyu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/667990.jpg

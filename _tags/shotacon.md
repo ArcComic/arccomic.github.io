@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "shotacon"
-work_count: 125
+work_count: 128
 works:
   - title: Hitozuma Hyakka
     author: hase-tsubura
@@ -31,6 +31,13 @@ works:
     date: '2026-04-23'
     code: 296282
     url: /works/296282/
+  - title: Akarui Kazoku Seikatsu
+    author: pistonring-nishizawa
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/304307.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 304307
+    url: /works/304307/
   - title: Furuhonya no Onee-san to | With The Lady From The Used Book Shop
     author: nodame
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/306522.jpg
@@ -155,6 +162,13 @@ works:
     date: '2026-09-05'
     code: 405606
     url: /works/405606/
+  - title: Nekura Kyonyuu no Onee-chan wa, Saiminshite de mo Otouto Chinpo o Netoritai
+    author: borusiti
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/438138.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 438138
+    url: /works/438138/
   - title: Tonari no Onee-san no Shitagi o Nusundara Kiseki ga Okita Hanashi o Shiyou
       |  Let’s Talk About the Story of A Miracle that Happened When I Stole the Underwear
       of the Lady Next Door
@@ -236,6 +250,13 @@ works:
     date: '2026-04-17'
     code: 516164
     url: /works/516164/
+  - title: Mama to Boku to Mujintou | Me and mom and a deserted island
+    author: yokkora
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/518005.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 518005
+    url: /works/518005/
   - title: Mukashi no Uwaki Aite no Ko ga Jitsu wa Watashi no Musuko no Doukyuusei de
     author: shomu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/518121.jpg
@@ -268,14 +289,14 @@ works:
       I Had Never Begged My Pushover Girlfriend To Cuck Me...
     author: kasumi-kaori
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/541130.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-29'
     code: 541130
     url: /works/541130/
   - title: Sashida Sareta Hokenshitsu | How I Offered Her Up In The Nurse's Office
     author: kasumi-kaori
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/551076.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-29'
     code: 551076
     url: /works/551076/
@@ -485,7 +506,7 @@ works:
   - title: Kaneda wa nani mo warukunai Vol.3
     author: haruharudo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/641456.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-29'
     code: 641456
     url: /works/641456/

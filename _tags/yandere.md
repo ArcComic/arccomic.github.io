@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "yandere"
-work_count: 24
+work_count: 25
 works:
   - title: My Only Princess
     author: mackgee
@@ -26,6 +26,13 @@ works:
     date: '2026-09-23'
     code: 436140
     url: /works/436140/
+  - title: Nekura Kyonyuu no Onee-chan wa, Saiminshite de mo Otouto Chinpo o Netoritai
+    author: borusiti
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/438138.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 438138
+    url: /works/438138/
   - title: Tonari no Onee-san no Shitagi o Nusundara Kiseki ga Okita Hanashi o Shiyou
       |  Let’s Talk About the Story of A Miracle that Happened When I Stole the Underwear
       of the Lady Next Door

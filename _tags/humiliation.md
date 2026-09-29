@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "humiliation"
-work_count: 40
+work_count: 41
 works:
   - title: Doushia (Terasu MC)] Dorei Gazoku
     author: terasu-mc
@@ -42,7 +42,7 @@ works:
       I Had Never Begged My Pushover Girlfriend To Cuck Me...
     author: kasumi-kaori
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/541130.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-29'
     code: 541130
     url: /works/541130/
@@ -68,6 +68,13 @@ works:
     date: '2026-09-22'
     code: 579290
     url: /works/579290/
+  - title: Sakkin Zuke no Hitozuma -Kimura Mina to Kimodebu Oyaji no Ooya- 1 & 2
+    author: hente
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/594884.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 594884
+    url: /works/594884/
   - title: Watashi ga Haishin de Porori Shichau tte Uso Desu yo ne!? | It's Not True
       That My Breasts Will Be Exposed During The Live Stream, Right!?
     author: ouno

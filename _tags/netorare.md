@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "netorare"
-work_count: 390
+work_count: 394
 works:
   - title: Kousa suru Osu to Mesu | Male and Female Crossing
     author: ootsuka-kotora
@@ -306,10 +306,17 @@ works:
     date: '2026-04-23'
     code: 435832
     url: /works/435832/
+  - title: Nekura Kyonyuu no Onee-chan wa, Saiminshite de mo Otouto Chinpo o Netoritai
+    author: borusiti
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/438138.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 438138
+    url: /works/438138/
   - title: Fucking My Friend's Mom With My Big Cock On Christmas Eve
     author: rk-2
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/439275.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-29'
     code: 439275
     url: /works/439275/
@@ -652,6 +659,22 @@ works:
     date: '2026-04-23'
     code: 526024
     url: /works/526024/
+  - title: A Married Woman Tricked Into Filming ~ Former Gravure Idol Wife Gets NTR'd
+      By The President's Son For Her Husbands Sake ~
+    author: izuminoaru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/527520.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 527520
+    url: /works/527520/
+  - title: Tsuma ga, Tanin no Mesu ni naru made -Short Cut Kyonyuu Tsuma Sasaki Misaki
+      Hen-
+    author: haruhisky
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/528384.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 528384
+    url: /works/528384/
   - title: Netorareru.~ Tsuma ga Ochi Yuku Hen'ai Kairaku no Hate ni...1-5 | NETORARERU,
       A Wife's Descent Into Sinful Pleasures 1-5
     author: yuuki-ryo
@@ -754,7 +777,7 @@ works:
       I Had Never Begged My Pushover Girlfriend To Cuck Me...
     author: kasumi-kaori
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/541130.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-29'
     code: 541130
     url: /works/541130/
@@ -820,7 +843,7 @@ works:
   - title: Sashida Sareta Hokenshitsu | How I Offered Her Up In The Nurse's Office
     author: kasumi-kaori
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/551076.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-29'
     code: 551076
     url: /works/551076/
@@ -951,7 +974,7 @@ works:
   - title: Married Couple Swap ~He's Better Than My Husband~ Vol. 1-3
     author: peter-mitsuru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/575103.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-09-29'
     code: 575103
     url: /works/575103/
@@ -1081,6 +1104,13 @@ works:
     date: '2026-04-25'
     code: 593677
     url: /works/593677/
+  - title: Sakkin Zuke no Hitozuma -Kimura Mina to Kimodebu Oyaji no Ooya- 1 & 2
+    author: hente
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/594884.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 594884
+    url: /works/594884/
   - title: Houkai Kazoku 2 -Hahaoya ga Yakuza to no Sex ni Hamatta Hanashi- | Broken
       Family 2 - The story of a mother who got hooked on sex with the Yakuza
     author: watsondou
@@ -1106,7 +1136,7 @@ works:
   - title: Kirishima's Mother
     author: kojima-miu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/601711.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-29'
     code: 601711
     url: /works/601711/
@@ -1399,7 +1429,7 @@ works:
   - title: Kaneda wa nani mo warukunai Vol.3
     author: haruharudo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/641456.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-29'
     code: 641456
     url: /works/641456/
@@ -1613,7 +1643,7 @@ works:
   - title: My beloved family—I gave them up.
     author: nt-robo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/646731.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-09-29'
     code: 646731
     url: /works/646731/
@@ -2847,7 +2877,7 @@ works:
   - title: Gibo no Omocha ni Sareta Boku | My Stepmom Made Me Her Toy
     author: rk-2
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684311.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-29'
     code: 684311
     url: /works/684311/

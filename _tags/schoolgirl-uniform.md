@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "schoolgirl uniform"
-work_count: 294
+work_count: 297
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -32,6 +32,13 @@ works:
     date: '2026-07-17'
     code: 289523
     url: /works/289523/
+  - title: Akarui Kazoku Seikatsu
+    author: pistonring-nishizawa
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/304307.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 304307
+    url: /works/304307/
   - title: Gakkou to Bed ja Seihantai no, Okkina Kanojo. | My Big Girlfriend Acts the
       Polar Opposite in Bed and at School.
     author: mikemono-yuu
@@ -349,7 +356,7 @@ works:
   - title: Tomodachi no Mama ga Boku no Dekachin de Ikimakutta Sotsugyoushiki
     author: rk-2
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/513981.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-29'
     code: 513981
     url: /works/513981/
@@ -381,7 +388,7 @@ works:
       Senpai no Hanashi | My Pain-In-The-Ass Yet Nice And Caring Senior Collegue
     author: nako-sir
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/521042.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-29'
     code: 521042
     url: /works/521042/
@@ -999,7 +1006,7 @@ works:
   - title: Kaneda wa nani mo warukunai Vol.3
     author: haruharudo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/641456.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-29'
     code: 641456
     url: /works/641456/
@@ -1313,6 +1320,13 @@ works:
     date: '2026-05-27'
     code: 652790
     url: /works/652790/
+  - title: Kimi Omou Koi - I think of you.
+    author: gentsuki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/653792.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 653792
+    url: /works/653792/
   - title: Seishidouin no Oshigoto Soushuuhen1 | Sex Instructor Compilation Vol. 1
     author: malcorond
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/653978.jpg
@@ -2155,7 +2169,7 @@ works:
       Work Overtime to Satisfy Sexual Desires
     author: nako-sir
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684073.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-29'
     code: 684073
     url: /works/684073/
@@ -2192,4 +2206,12 @@ works:
     date: '2026-09-27'
     code: 684392
     url: /works/684392/
+  - title: Hamerareta Bijin Yuutousei ~Shingaku no Tame ni Sensei ni Pakorarete Mainichi
+      Seishori Saserarete...~
+    author: x-pierrot
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684509.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 684509
+    url: /works/684509/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "blackmail"
-work_count: 130
+work_count: 133
 works:
   - title: Birthday
     author: hashiba-yachi
@@ -257,6 +257,14 @@ works:
     date: '2026-04-23'
     code: 526024
     url: /works/526024/
+  - title: A Married Woman Tricked Into Filming ~ Former Gravure Idol Wife Gets NTR'd
+      By The President's Son For Her Husbands Sake ~
+    author: izuminoaru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/527520.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 527520
+    url: /works/527520/
   - title: Netorareru.~ Tsuma ga Ochi Yuku Hen'ai Kairaku no Hate ni...1-5 | NETORARERU,
       A Wife's Descent Into Sinful Pleasures 1-5
     author: yuuki-ryo
@@ -305,7 +313,7 @@ works:
   - title: Sashida Sareta Hokenshitsu | How I Offered Her Up In The Nurse's Office
     author: kasumi-kaori
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/551076.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-29'
     code: 551076
     url: /works/551076/
@@ -386,6 +394,13 @@ works:
     date: '2026-09-06'
     code: 594382
     url: /works/594382/
+  - title: Sakkin Zuke no Hitozuma -Kimura Mina to Kimodebu Oyaji no Ooya- 1 & 2
+    author: hente
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/594884.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 594884
+    url: /works/594884/
   - title: Ottori Itome no Oba o Odoshite Hamete Iinari Onaho-ka Keikaku | Gentle Slit-Eyed
       Aunty Blackmail & Obedient Fuckhole Training Project
     author: ginen
@@ -966,6 +981,14 @@ works:
     date: '2026-09-27'
     code: 684283
     url: /works/684283/
+  - title: Hamerareta Bijin Yuutousei ~Shingaku no Tame ni Sensei ni Pakorarete Mainichi
+      Seishori Saserarete...~
+    author: x-pierrot
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684509.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 684509
+    url: /works/684509/
   - title: Inin Keiyaku | Lewd Pregnancy Contract
     author: yoshiura-kazuya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/83595.jpg

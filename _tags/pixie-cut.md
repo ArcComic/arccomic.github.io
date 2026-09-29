@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "pixie cut"
-work_count: 79
+work_count: 84
 works:
+  - title: Akarui Kazoku Seikatsu
+    author: pistonring-nishizawa
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/304307.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 304307
+    url: /works/304307/
   - title: Last Chance
     author: herio
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/384255.jpg
@@ -138,14 +145,14 @@ works:
       I Had Never Begged My Pushover Girlfriend To Cuck Me...
     author: kasumi-kaori
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/541130.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-29'
     code: 541130
     url: /works/541130/
   - title: Sashida Sareta Hokenshitsu | How I Offered Her Up In The Nurse's Office
     author: kasumi-kaori
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/551076.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-29'
     code: 551076
     url: /works/551076/
@@ -181,7 +188,7 @@ works:
   - title: Kirishima's Mother
     author: kojima-miu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/601711.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-29'
     code: 601711
     url: /works/601711/
@@ -586,6 +593,20 @@ works:
     date: '2026-09-28'
     code: 684636
     url: /works/684636/
+  - title: Kakko Ii kara Suki [English] retranslated
+    author: hyde-ride
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684641.jpg
+    rating: 4.6
+    date: '2026-09-29'
+    code: 684641
+    url: /works/684641/
+  - title: Kakko Ii kara Suki 2 [English] partial retranslation
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684642.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 684642
+    url: /works/684642/
   - title: Kakko Ii kara Suki 3 [English] partial retranslation
     author: hyde-ride
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684643.jpg
@@ -593,6 +614,20 @@ works:
     date: '2026-09-28'
     code: 684643
     url: /works/684643/
+  - title: Mesu ni shite kure!
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684798.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 684798
+    url: /works/684798/
+  - title: Mesu ni shite kure! 2
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684799.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 684799
+    url: /works/684799/
   - title: Mesu ni shite kure! 3
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684800.jpg

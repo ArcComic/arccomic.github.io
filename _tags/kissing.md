@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "kissing"
-work_count: 324
+work_count: 328
 works:
   - title: FLUFFY LAUGH GIRL
     author: shibasaki-syouzi
@@ -17,6 +17,13 @@ works:
     date: '2026-09-25'
     code: 215019
     url: /works/215019/
+  - title: Akarui Kazoku Seikatsu
+    author: pistonring-nishizawa
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/304307.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 304307
+    url: /works/304307/
   - title: Kono Furin wa Otto no Tame "Anata, Yurushite…." To, Netorareru Tsuma | 這場外遇是為了老公「親愛的，原諒我…」這樣說著，為老公戴綠帽的妻子
     author: korosuke
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/328805.jpg
@@ -406,6 +413,14 @@ works:
     date: '2026-04-16'
     code: 527171
     url: /works/527171/
+  - title: A Married Woman Tricked Into Filming ~ Former Gravure Idol Wife Gets NTR'd
+      By The President's Son For Her Husbands Sake ~
+    author: izuminoaru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/527520.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 527520
+    url: /works/527520/
   - title: This Woman’s Body Tells Lies
     author: ichihara-kazuma
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/527621.jpg
@@ -772,7 +787,7 @@ works:
   - title: Kirishima's Mother
     author: kojima-miu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/601711.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-29'
     code: 601711
     url: /works/601711/
@@ -832,7 +847,7 @@ works:
   - title: Nishida Ke no Himegoto | Nishida Family Secret 1-3
     author: kojima-miu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/614205.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-29'
     code: 614205
     url: /works/614205/
@@ -1178,7 +1193,7 @@ works:
   - title: Kaneda wa nani mo warukunai Vol.3
     author: haruharudo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/641456.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-29'
     code: 641456
     url: /works/641456/
@@ -2385,7 +2400,7 @@ works:
   - title: Gibo no Omocha ni Sareta Boku | My Stepmom Made Me Her Toy
     author: rk-2
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684311.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-29'
     code: 684311
     url: /works/684311/
@@ -2426,6 +2441,20 @@ works:
     date: '2026-09-28'
     code: 684647
     url: /works/684647/
+  - title: Mesu ni shite kure!
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684798.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 684798
+    url: /works/684798/
+  - title: Mesu ni shite kure! 2
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684799.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 684799
+    url: /works/684799/
   - title: Mesu ni shite kure! 3
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684800.jpg

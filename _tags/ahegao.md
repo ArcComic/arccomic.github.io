@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "ahegao"
-work_count: 277
+work_count: 281
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -334,6 +334,14 @@ works:
     date: '2026-09-12'
     code: 526368
     url: /works/526368/
+  - title: A Married Woman Tricked Into Filming ~ Former Gravure Idol Wife Gets NTR'd
+      By The President's Son For Her Husbands Sake ~
+    author: izuminoaru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/527520.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 527520
+    url: /works/527520/
   - title: Cool-Dere Kinpatsu Hitozuma Zenra Kaseifu san ga Yanda Boku ni Yasashiku
       Shite Kureta Ohanashi 1| Naked Blonde Kuudere Housekeeper Wife Kindly Treats Broken
       Ol' Me 01
@@ -343,6 +351,14 @@ works:
     date: '2026-09-11'
     code: 528308
     url: /works/528308/
+  - title: Tsuma ga, Tanin no Mesu ni naru made -Short Cut Kyonyuu Tsuma Sasaki Misaki
+      Hen-
+    author: haruhisky
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/528384.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 528384
+    url: /works/528384/
   - title: Yamazaki Makie (3●-sai), Musume no Kareshi to SeFri ni Naru | Yamazaki Makie
       (3X Years Old), Becoming Fuck Buddies with her Daughter's Boyfriend
     author: ryuuta
@@ -616,7 +632,7 @@ works:
   - title: Nishida Ke no Himegoto | Nishida Family Secret 1-3
     author: kojima-miu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/614205.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-29'
     code: 614205
     url: /works/614205/
@@ -847,7 +863,7 @@ works:
   - title: Kaneda wa nani mo warukunai Vol.3
     author: haruharudo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/641456.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-29'
     code: 641456
     url: /works/641456/
@@ -985,7 +1001,7 @@ works:
   - title: My beloved family—I gave them up.
     author: nt-robo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/646731.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-09-29'
     code: 646731
     url: /works/646731/
@@ -1492,6 +1508,13 @@ works:
     date: '2026-09-22'
     code: 666748
     url: /works/666748/
+  - title: Kashiteyaru dake | I'll Just Let You Borrow It
+    author: pontaro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/667065.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 667065
+    url: /works/667065/
   - title: Boku dake no yuki ane
     author: misaki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/667775.jpg
@@ -1954,7 +1977,7 @@ works:
   - title: Zenless Zone Zero Isolde
     author: mackgee
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684025.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-29'
     code: 684025
     url: /works/684025/
@@ -1970,7 +1993,7 @@ works:
       Work Overtime to Satisfy Sexual Desires
     author: nako-sir
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684073.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-29'
     code: 684073
     url: /works/684073/
@@ -2067,6 +2090,13 @@ works:
     date: '2026-09-28'
     code: 684647
     url: /works/684647/
+  - title: Mesu ni shite kure! 2
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684799.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 684799
+    url: /works/684799/
   - title: Mesu ni shite kure! 3
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684800.jpg

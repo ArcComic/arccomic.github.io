@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "handjob"
-work_count: 126
+work_count: 130
 works:
   - title: Chibo Soukan Ch.1-3
     author: natsu-no-oyatsu
@@ -25,6 +25,13 @@ works:
     date: '2026-03-04'
     code: 292454
     url: /works/292454/
+  - title: Akarui Kazoku Seikatsu
+    author: pistonring-nishizawa
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/304307.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 304307
+    url: /works/304307/
   - title: Furuhonya no Onee-san to | With The Lady From The Used Book Shop
     author: nodame
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/306522.jpg
@@ -253,6 +260,13 @@ works:
     date: '2026-09-12'
     code: 593434
     url: /works/593434/
+  - title: Sakkin Zuke no Hitozuma -Kimura Mina to Kimodebu Oyaji no Ooya- 1 & 2
+    author: hente
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/594884.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 594884
+    url: /works/594884/
   - title: Astrantia
     author: kyougoku-shin
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/598156.jpg
@@ -417,6 +431,13 @@ works:
     date: '2026-09-20'
     code: 638685
     url: /works/638685/
+  - title: TomoHaha to Onaji Yane no Shita de - Under The Same Roof With My Friend Mother
+    author: takei-masaki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638764.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 638764
+    url: /works/638764/
   - title: LOOK LIKE
     author: terasu-mc
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/641295.jpg
@@ -622,6 +643,14 @@ works:
     date: '2026-09-25'
     code: 654681
     url: /works/654681/
+  - title: I cannot believe a Longtime Fan such as myself is getting my Clit Teased
+      by my Fave...
+    author: toyama-tonari
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/655322.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 655322
+    url: /works/655322/
   - title: Mukashi Kara Otokoppoi Osananajimi mo Chanto Mesu ni Sodachimashita | Even
       My Tomboy Childhood Friend Matured Into a Proper Woman
     author: natsuzo

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "widow"
-work_count: 19
+work_count: 20
 works:
   - title: Birthday
     author: hashiba-yachi
@@ -54,6 +54,13 @@ works:
     date: '2026-08-24'
     code: 444152
     url: /works/444152/
+  - title: Mama to Boku to Mujintou | Me and mom and a deserted island
+    author: yokkora
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/518005.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 518005
+    url: /works/518005/
   - title: Boku no Kaa-chan | My Mom
     author: cammy
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/555792.jpg

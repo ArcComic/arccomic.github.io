@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "incest"
-work_count: 268
+work_count: 273
 works:
   - title: Imitation Family + Bigibo Hen
     author: tohzai
@@ -53,6 +53,13 @@ works:
     date: '2026-03-04'
     code: 292454
     url: /works/292454/
+  - title: Akarui Kazoku Seikatsu
+    author: pistonring-nishizawa
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/304307.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 304307
+    url: /works/304307/
   - title: Onee-chan ga Ecchi na Koto bakka Suru kara... | My older sister only does
       obscene things...
     author: danimaru
@@ -193,6 +200,13 @@ works:
     date: '2026-02-28'
     code: 429669
     url: /works/429669/
+  - title: Nekura Kyonyuu no Onee-chan wa, Saiminshite de mo Otouto Chinpo o Netoritai
+    author: borusiti
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/438138.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 438138
+    url: /works/438138/
   - title: Tonari no Onee-san no Shitagi o Nusundara Kiseki ga Okita Hanashi o Shiyou
       |  Let’s Talk About the Story of A Miracle that Happened When I Stole the Underwear
       of the Lady Next Door
@@ -245,6 +259,13 @@ works:
     date: '2026-04-15'
     code: 472344
     url: /works/472344/
+  - title: Shuumatsu dakara Ippai Ichaicha Shi yo
+    author: saemon
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/476145.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 476145
+    url: /works/476145/
   - title: Neteru Onii-chan no Are o Kariru Hanashi
     author: tiger
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/476399.jpg
@@ -358,6 +379,13 @@ works:
     date: '2026-09-27'
     code: 513136
     url: /works/513136/
+  - title: Mama to Boku to Mujintou | Me and mom and a deserted island
+    author: yokkora
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/518005.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 518005
+    url: /works/518005/
   - title: Kyoushi no Oba wa Himitsu no Bakunyuu Ero Cos Layer ~Iinari Gyaku Bunny &
       Sister Cos de Keiren Soku Iki Nakadashi Netori~ | My Teacher Aunt Is Secretly
       A Buxom Erotic Cosplayer
@@ -558,7 +586,7 @@ works:
   - title: Ya-me rarenai futari - Two People Who Can't Stop
     author: akys-honpo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/580833.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-29'
     code: 580833
     url: /works/580833/
@@ -653,7 +681,7 @@ works:
       Mother Only I Know.
     author: makoto-shiyaka
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/604050.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-29'
     code: 604050
     url: /works/604050/
@@ -718,7 +746,7 @@ works:
   - title: Nishida Ke no Himegoto | Nishida Family Secret 1-3
     author: kojima-miu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/614205.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-29'
     code: 614205
     url: /works/614205/
@@ -999,7 +1027,7 @@ works:
   - title: My beloved family—I gave them up.
     author: nt-robo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/646731.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-09-29'
     code: 646731
     url: /works/646731/
@@ -1101,6 +1129,13 @@ works:
     date: '2026-09-28'
     code: 653091
     url: /works/653091/
+  - title: Kimi Omou Koi - I think of you.
+    author: gentsuki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/653792.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 653792
+    url: /works/653792/
   - title: Boku no Kanojo wa Okaasan
     author: momoiro-onsen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654091.jpg
@@ -1280,7 +1315,7 @@ works:
   - title: Beit-dai de Kaa-san no Karada o Katta Musuko no Hanashi
     author: momoziri-hustle-dou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/657979.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-09-29'
     code: 657979
     url: /works/657979/
@@ -1535,7 +1570,7 @@ works:
   - title: Moto Gal Mama wa Musuko no Karada o Yoku Shiranai
     author: hatakeyama-tohya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673232.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-29'
     code: 673232
     url: /works/673232/
@@ -1920,7 +1955,7 @@ works:
   - title: Gibo no Omocha ni Sareta Boku | My Stepmom Made Me Her Toy
     author: rk-2
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684311.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-29'
     code: 684311
     url: /works/684311/

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "blowjob"
-work_count: 568
+work_count: 577
 works:
   - title: Office Love Scramble Ch. 1
     author: tohzai
@@ -103,6 +103,13 @@ works:
     date: '2026-07-17'
     code: 300943
     url: /works/300943/
+  - title: Akarui Kazoku Seikatsu
+    author: pistonring-nishizawa
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/304307.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 304307
+    url: /works/304307/
   - title: Ayami Hypno
     author: yasuhiro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/306363.jpg
@@ -263,6 +270,13 @@ works:
     date: '2026-05-03'
     code: 376189
     url: /works/376189/
+  - title: Doukyuusei no Wakai Haha | My Classmate's Young Mom
+    author: aoki-kanji
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/383623.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 383623
+    url: /works/383623/
   - title: Toshishita Chin Kui Obasan
     author: maccha-neji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/387637.jpg
@@ -781,6 +795,14 @@ works:
     date: '2026-08-18'
     code: 521812
     url: /works/521812/
+  - title: A Married Woman Tricked Into Filming ~ Former Gravure Idol Wife Gets NTR'd
+      By The President's Son For Her Husbands Sake ~
+    author: izuminoaru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/527520.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 527520
+    url: /works/527520/
   - title: Yojouhan Bio Seikatsu Soushuuhen
     author: sgk
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/527851.jpg
@@ -797,6 +819,14 @@ works:
     date: '2026-09-11'
     code: 528308
     url: /works/528308/
+  - title: Tsuma ga, Tanin no Mesu ni naru made -Short Cut Kyonyuu Tsuma Sasaki Misaki
+      Hen-
+    author: haruhisky
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/528384.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 528384
+    url: /works/528384/
   - title: Netorareru.~ Tsuma ga Ochi Yuku Hen'ai Kairaku no Hate ni...1-5 | NETORARERU,
       A Wife's Descent Into Sinful Pleasures 1-5
     author: yuuki-ryo
@@ -1332,6 +1362,13 @@ works:
     date: '2026-09-11'
     code: 594462
     url: /works/594462/
+  - title: Sakkin Zuke no Hitozuma -Kimura Mina to Kimodebu Oyaji no Ooya- 1 & 2
+    author: hente
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/594884.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 594884
+    url: /works/594884/
   - title: Nagachichi Haha no Naedoko
     author: ginen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/595108.jpg
@@ -1543,7 +1580,7 @@ works:
   - title: Nishida Ke no Himegoto | Nishida Family Secret 1-3
     author: kojima-miu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/614205.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-29'
     code: 614205
     url: /works/614205/
@@ -2013,6 +2050,13 @@ works:
     date: '2026-09-20'
     code: 638685
     url: /works/638685/
+  - title: TomoHaha to Onaji Yane no Shita de - Under The Same Roof With My Friend Mother
+    author: takei-masaki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638764.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 638764
+    url: /works/638764/
   - title: Onsen Haitte tara Joseito-tachi ga Osotte Kita | My Students Jumped Me When
       I Got in the Hot Spring
     author: hamo
@@ -2055,10 +2099,17 @@ works:
   - title: Kaneda wa nani mo warukunai Vol.3
     author: haruharudo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/641456.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-29'
     code: 641456
     url: /works/641456/
+  - title: Ero Mangaka-san to Henshu-kun
+    author: kibi-anmitsu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/641928.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 641928
+    url: /works/641928/
   - title: Haruna wa Kyou kara Sachiko ni Narimashita.
     author: mashumarodan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642023.jpg
@@ -3119,6 +3170,13 @@ works:
     date: '2026-09-22'
     code: 666748
     url: /works/666748/
+  - title: Kashiteyaru dake | I'll Just Let You Borrow It
+    author: pontaro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/667065.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 667065
+    url: /works/667065/
   - title: A Saleswoman Interrupted Me While I Was Jerking-Off -- Genkan o Aketara Iru
       Kanyuu Oba-san
     author: chotto-b-sen
@@ -3237,7 +3295,7 @@ works:
   - title: Moto Gal Mama wa Musuko no Karada o Yoku Shiranai
     author: hatakeyama-tohya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673232.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-29'
     code: 673232
     url: /works/673232/
@@ -4054,7 +4112,7 @@ works:
       Work Overtime to Satisfy Sexual Desires
     author: nako-sir
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684073.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-29'
     code: 684073
     url: /works/684073/
@@ -4205,6 +4263,13 @@ works:
     date: '2026-09-28'
     code: 684647
     url: /works/684647/
+  - title: Mesu ni shite kure!
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684798.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 684798
+    url: /works/684798/
   - title: Mesu ni shite kure! 3
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684800.jpg

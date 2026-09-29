@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "story arc"
-work_count: 180
+work_count: 184
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -283,6 +283,14 @@ works:
     date: '2026-07-08'
     code: 527621
     url: /works/527621/
+  - title: Tsuma ga, Tanin no Mesu ni naru made -Short Cut Kyonyuu Tsuma Sasaki Misaki
+      Hen-
+    author: haruhisky
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/528384.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 528384
+    url: /works/528384/
   - title: Netorareru.~ Tsuma ga Ochi Yuku Hen'ai Kairaku no Hate ni...1-5 | NETORARERU,
       A Wife's Descent Into Sinful Pleasures 1-5
     author: yuuki-ryo
@@ -338,6 +346,14 @@ works:
     date: '2026-07-11'
     code: 538553
     url: /works/538553/
+  - title: Seitaishi ~Watashi no Tsuma o Daitekure~ | The Sexual Therapist ~Please Sleep
+      with My Wife~
+    author: same-manma
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/539661.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 539661
+    url: /works/539661/
   - title: Cosplay Shiteiru Toki wa Hitozuma de wa Arimasen | Setting Aside Our Married
       Lives When We Cosplay
     author: group
@@ -401,7 +417,7 @@ works:
   - title: Married Couple Swap ~He's Better Than My Husband~ Vol. 1-3
     author: peter-mitsuru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/575103.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-09-29'
     code: 575103
     url: /works/575103/
@@ -464,6 +480,13 @@ works:
     date: '2026-03-05'
     code: 593456
     url: /works/593456/
+  - title: Sakkin Zuke no Hitozuma -Kimura Mina to Kimodebu Oyaji no Ooya- 1 & 2
+    author: hente
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/594884.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 594884
+    url: /works/594884/
   - title: Houkai Kazoku 2 -Hahaoya ga Yakuza to no Sex ni Hamatta Hanashi- | Broken
       Family 2 - The story of a mother who got hooked on sex with the Yakuza
     author: watsondou
@@ -663,7 +686,7 @@ works:
   - title: Kaneda wa nani mo warukunai Vol.3
     author: haruharudo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/641456.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-29'
     code: 641456
     url: /works/641456/
@@ -885,6 +908,14 @@ works:
     date: '2026-09-24'
     code: 654645
     url: /works/654645/
+  - title: I cannot believe a Longtime Fan such as myself is getting my Clit Teased
+      by my Fave...
+    author: toyama-tonari
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/655322.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 655322
+    url: /works/655322/
   - title: Tonari no Ayane-san Soushuuhen | My Neighbor Ayane Anthology
     author: herio
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/656319.jpg

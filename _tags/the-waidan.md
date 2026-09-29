@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "the waidan"
-work_count: 14
+work_count: 15
 works:
   - title: Senpai, Sonna no Shiranai desu ~Bansou shite ita Kare no Yubi wa Ima, Watashi
       no Naka o Midashiteru~ | Senpai, I Don't Know About That - His Fingers That Were
@@ -86,6 +86,14 @@ works:
     date: '2026-05-26'
     code: 652667
     url: /works/652667/
+  - title: I cannot believe a Longtime Fan such as myself is getting my Clit Teased
+      by my Fave...
+    author: toyama-tonari
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/655322.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 655322
+    url: /works/655322/
   - title: S dazo! Mitai na Funiki Deteru Douki no Taniguchi, Do-M rashii?? | It Seems
       This Guy With Major Sadist Vibes Is Actually A Masochist??
     author: the-waidan

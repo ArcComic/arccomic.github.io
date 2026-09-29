@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sister"
-work_count: 88
+work_count: 91
 works:
   - title: Imitation Family + Bigibo Hen
     author: tohzai
@@ -10,6 +10,13 @@ works:
     date: '2026-09-20'
     code: 145635
     url: /works/145635/
+  - title: Akarui Kazoku Seikatsu
+    author: pistonring-nishizawa
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/304307.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 304307
+    url: /works/304307/
   - title: Onee-chan ga Ecchi na Koto bakka Suru kara... | My older sister only does
       obscene things...
     author: danimaru
@@ -54,6 +61,13 @@ works:
     date: '2026-07-10'
     code: 407959
     url: /works/407959/
+  - title: Nekura Kyonyuu no Onee-chan wa, Saiminshite de mo Otouto Chinpo o Netoritai
+    author: borusiti
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/438138.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 438138
+    url: /works/438138/
   - title: Tonari no Onee-san no Shitagi o Nusundara Kiseki ga Okita Hanashi o Shiyou
       |  Let’s Talk About the Story of A Miracle that Happened When I Stole the Underwear
       of the Lady Next Door
@@ -292,6 +306,13 @@ works:
     date: '2026-05-07'
     code: 648460
     url: /works/648460/
+  - title: Kimi Omou Koi - I think of you.
+    author: gentsuki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/653792.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 653792
+    url: /works/653792/
   - title: Kinshin Choukyou Ane Dorei
     author: yamamoto-yoshifumi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/655423.jpg

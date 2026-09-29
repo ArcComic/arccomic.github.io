@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "gentsuki"
-work_count: 2
+work_count: 3
 works:
   - title: Homestay-chu no Doitsu Musume ga Issho ni Furo ni Haitte Kuru Wake | The
       Reason Why a German Girl Takes a Bath Together With Me on Her Homestay
@@ -19,4 +19,11 @@ works:
     date: '2026-08-22'
     code: 344851
     url: /works/344851/
+  - title: Kimi Omou Koi - I think of you.
+    author: gentsuki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/653792.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 653792
+    url: /works/653792/
 ---

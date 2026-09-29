@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "schoolboy uniform"
-work_count: 86
+work_count: 89
 works:
   - title: FLUFFY LAUGH GIRL
     author: shibasaki-syouzi
@@ -75,6 +75,13 @@ works:
     date: '2026-09-05'
     code: 363219
     url: /works/363219/
+  - title: Doukyuusei no Wakai Haha | My Classmate's Young Mom
+    author: aoki-kanji
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/383623.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 383623
+    url: /works/383623/
   - title: Last Chance
     author: herio
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/384255.jpg
@@ -175,7 +182,7 @@ works:
   - title: Tomodachi no Mama ga Boku no Dekachin de Ikimakutta Sotsugyoushiki
     author: rk-2
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/513981.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-29'
     code: 513981
     url: /works/513981/
@@ -298,6 +305,13 @@ works:
     date: '2026-03-07'
     code: 634328
     url: /works/634328/
+  - title: TomoHaha to Onaji Yane no Shita de - Under The Same Roof With My Friend Mother
+    author: takei-masaki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638764.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 638764
+    url: /works/638764/
   - title: Manatsu no Refrain | Midsummer's Refrain
     author: gen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/639514.jpg
@@ -388,6 +402,13 @@ works:
     date: '2026-05-26'
     code: 652244
     url: /works/652244/
+  - title: Kimi Omou Koi - I think of you.
+    author: gentsuki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/653792.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 653792
+    url: /works/653792/
   - title: Toshoshitsu no Kedamono-tachi | Library Beasts
     author: ohno-kanae
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654638.jpg

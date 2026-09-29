@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "tall girl"
-work_count: 41
+work_count: 43
 works:
   - title: Oppai na Natsuyasumi 2 | The Summer Break of Boobs 2
     author: higashino-mikan
@@ -291,6 +291,20 @@ works:
     date: '2026-09-28'
     code: 684556
     url: /works/684556/
+  - title: Kakko Ii kara Suki [English] retranslated
+    author: hyde-ride
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684641.jpg
+    rating: 4.6
+    date: '2026-09-29'
+    code: 684641
+    url: /works/684641/
+  - title: Kakko Ii kara Suki 2 [English] partial retranslation
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684642.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 684642
+    url: /works/684642/
   - title: Kakko Ii kara Suki 3 [English] partial retranslation
     author: hyde-ride
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684643.jpg

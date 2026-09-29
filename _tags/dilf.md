@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "dilf"
-work_count: 179
+work_count: 180
 works:
   - title: Adoration
     author: kishizuka-kenji
@@ -782,7 +782,7 @@ works:
   - title: My beloved family—I gave them up.
     author: nt-robo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/646731.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-09-29'
     code: 646731
     url: /works/646731/
@@ -1307,4 +1307,12 @@ works:
     date: '2026-09-27'
     code: 684314
     url: /works/684314/
+  - title: Hamerareta Bijin Yuutousei ~Shingaku no Tame ni Sensei ni Pakorarete Mainichi
+      Seishori Saserarete...~
+    author: x-pierrot
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684509.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 684509
+    url: /works/684509/
 ---

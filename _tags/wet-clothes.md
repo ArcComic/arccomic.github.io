@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "wet clothes"
-work_count: 5
+work_count: 6
 works:
   - title: Ame no Hi wa, Honnori Chikubi
     author: hoshi-to-lucky
@@ -24,6 +24,13 @@ works:
     date: '2026-05-04'
     code: 647740
     url: /works/647740/
+  - title: Kimi Omou Koi - I think of you.
+    author: gentsuki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/653792.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 653792
+    url: /works/653792/
   - title: The Truant Chick From My Yearbook Who I Never Met At School -- Sotsu Aru
       ni Ita Menshiki no Nai Futoukou no Kimi ga.
     author: chotto-b-sen

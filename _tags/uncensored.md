@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "uncensored"
-work_count: 117
+work_count: 119
 works:
   - title: Netemo Sametemo | Be it Sleeping or Awake
     author: takasugi-kou
@@ -24,6 +24,13 @@ works:
     date: '2026-04-27'
     code: 353025
     url: /works/353025/
+  - title: Doukyuusei no Wakai Haha | My Classmate's Young Mom
+    author: aoki-kanji
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/383623.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 383623
+    url: /works/383623/
   - title: SUCCUBUS MONOGATARI
     author: mackgee
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/400846.jpg
@@ -147,6 +154,14 @@ works:
     date: '2026-09-12'
     code: 526368
     url: /works/526368/
+  - title: Tsuma ga, Tanin no Mesu ni naru made -Short Cut Kyonyuu Tsuma Sasaki Misaki
+      Hen-
+    author: haruhisky
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/528384.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 528384
+    url: /works/528384/
   - title: Netorareru.~ Tsuma ga Ochi Yuku Hen'ai Kairaku no Hate ni...1-5 | NETORARERU,
       A Wife's Descent Into Sinful Pleasures 1-5
     author: yuuki-ryo
@@ -217,7 +232,7 @@ works:
   - title: Married Couple Swap ~He's Better Than My Husband~ Vol. 1-3
     author: peter-mitsuru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/575103.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-09-29'
     code: 575103
     url: /works/575103/
@@ -817,7 +832,7 @@ works:
   - title: Zenless Zone Zero Isolde
     author: mackgee
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684025.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-29'
     code: 684025
     url: /works/684025/

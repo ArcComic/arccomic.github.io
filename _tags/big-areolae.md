@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big areolae"
-work_count: 82
+work_count: 84
 works:
   - title: Kanojo no Kawaii Mieppari | My Cute Gyaru Girlfriend Is a Total Poser
     author: buta
@@ -64,6 +64,14 @@ works:
     date: '2026-07-11'
     code: 538553
     url: /works/538553/
+  - title: Seitaishi ~Watashi no Tsuma o Daitekure~ | The Sexual Therapist ~Please Sleep
+      with My Wife~
+    author: same-manma
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/539661.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 539661
+    url: /works/539661/
   - title: Okaa-san Itadakimasu. 3
     author: andoryu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/544477.jpg
@@ -180,6 +188,13 @@ works:
     date: '2026-08-23'
     code: 639772
     url: /works/639772/
+  - title: Ero Mangaka-san to Henshu-kun
+    author: kibi-anmitsu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/641928.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 641928
+    url: /works/641928/
   - title: The story of how a busty, older teacher girlfriend gets seduced and cheated
       on by the principal with a huge penis.
     author: munioni
@@ -397,7 +412,7 @@ works:
   - title: Moto Gal Mama wa Musuko no Karada o Yoku Shiranai
     author: hatakeyama-tohya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673232.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-29'
     code: 673232
     url: /works/673232/

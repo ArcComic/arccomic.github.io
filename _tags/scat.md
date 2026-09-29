@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "scat"
-work_count: 8
+work_count: 9
 works:
   - title: Ryoujoku Gakuen
     author: motchie
@@ -24,6 +24,13 @@ works:
     date: '2026-04-21'
     code: 579976
     url: /works/579976/
+  - title: Sakkin Zuke no Hitozuma -Kimura Mina to Kimodebu Oyaji no Ooya- 1 & 2
+    author: hente
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/594884.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 594884
+    url: /works/594884/
   - title: Onna Shachou to Koibito ni Naru Houhou | How To Become Lover's With A Female
       CEO
     author: fan

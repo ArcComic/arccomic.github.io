@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sweating"
-work_count: 158
+work_count: 160
 works:
   - title: Kaisha de Iroiro | Gettin' Busy at the Office
     author: hara-shigeyuki
@@ -62,6 +62,13 @@ works:
     date: '2026-03-09'
     code: 302117
     url: /works/302117/
+  - title: Akarui Kazoku Seikatsu
+    author: pistonring-nishizawa
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/304307.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 304307
+    url: /works/304307/
   - title: Single Mother to Issho ni - Boku no Mamakatsu! 1 | Together with a single
       mother - My sugarmama! 1
     author: azukiko
@@ -331,7 +338,7 @@ works:
       I Had Never Begged My Pushover Girlfriend To Cuck Me...
     author: kasumi-kaori
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/541130.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-29'
     code: 541130
     url: /works/541130/
@@ -427,7 +434,7 @@ works:
   - title: Kirishima's Mother
     author: kojima-miu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/601711.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-29'
     code: 601711
     url: /works/601711/
@@ -449,7 +456,7 @@ works:
   - title: Nishida Ke no Himegoto | Nishida Family Secret 1-3
     author: kojima-miu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/614205.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-29'
     code: 614205
     url: /works/614205/
@@ -592,7 +599,7 @@ works:
   - title: Kaneda wa nani mo warukunai Vol.3
     author: haruharudo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/641456.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-29'
     code: 641456
     url: /works/641456/
@@ -873,6 +880,14 @@ works:
     date: '2026-09-11'
     code: 654850
     url: /works/654850/
+  - title: I cannot believe a Longtime Fan such as myself is getting my Clit Teased
+      by my Fave...
+    author: toyama-tonari
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/655322.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 655322
+    url: /works/655322/
   - title: Coral no Megumi de Nyotaika Shita Senyuu to xxx Suru Hon | Blessings of the
       Coral
     author: ringo-club

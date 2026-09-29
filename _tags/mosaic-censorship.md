@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "mosaic censorship"
-work_count: 301
+work_count: 304
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -269,7 +269,7 @@ works:
   - title: Fucking My Friend's Mom With My Big Cock On Christmas Eve
     author: rk-2
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/439275.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-29'
     code: 439275
     url: /works/439275/
@@ -371,7 +371,7 @@ works:
   - title: Tomodachi no Mama ga Boku no Dekachin de Ikimakutta Kaisui Yokujou
     author: rk-2
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/480745.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-29'
     code: 480745
     url: /works/480745/
@@ -496,7 +496,7 @@ works:
   - title: Tomodachi no Mama ga Boku no Dekachin de Ikimakutta Sotsugyoushiki
     author: rk-2
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/513981.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-29'
     code: 513981
     url: /works/513981/
@@ -541,7 +541,7 @@ works:
       Senpai no Hanashi | My Pain-In-The-Ass Yet Nice And Caring Senior Collegue
     author: nako-sir
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/521042.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-29'
     code: 521042
     url: /works/521042/
@@ -574,6 +574,14 @@ works:
     date: '2026-09-17'
     code: 526619
     url: /works/526619/
+  - title: A Married Woman Tricked Into Filming ~ Former Gravure Idol Wife Gets NTR'd
+      By The President's Son For Her Husbands Sake ~
+    author: izuminoaru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/527520.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 527520
+    url: /works/527520/
   - title: Cool-Dere Kinpatsu Hitozuma Zenra Kaseifu san ga Yanda Boku ni Yasashiku
       Shite Kureta Ohanashi 1| Naked Blonde Kuudere Housekeeper Wife Kindly Treats Broken
       Ol' Me 01
@@ -624,7 +632,7 @@ works:
       I Had Never Begged My Pushover Girlfriend To Cuck Me...
     author: kasumi-kaori
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/541130.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-29'
     code: 541130
     url: /works/541130/
@@ -681,7 +689,7 @@ works:
   - title: Sashida Sareta Hokenshitsu | How I Offered Her Up In The Nurse's Office
     author: kasumi-kaori
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/551076.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-29'
     code: 551076
     url: /works/551076/
@@ -803,7 +811,7 @@ works:
   - title: Ya-me rarenai futari - Two People Who Can't Stop
     author: akys-honpo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/580833.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-29'
     code: 580833
     url: /works/580833/
@@ -894,6 +902,13 @@ works:
     date: '2026-04-25'
     code: 593754
     url: /works/593754/
+  - title: Sakkin Zuke no Hitozuma -Kimura Mina to Kimodebu Oyaji no Ooya- 1 & 2
+    author: hente
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/594884.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 594884
+    url: /works/594884/
   - title: Hajimete no DomiSub ~Match App de Mitsuketa Goshujin-sama ni Jinsei Bukkowashite
       Moraimasu~
     author: nemui-neru
@@ -913,7 +928,7 @@ works:
       Mother Only I Know.
     author: makoto-shiyaka
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/604050.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-29'
     code: 604050
     url: /works/604050/
@@ -1210,7 +1225,7 @@ works:
   - title: Kaneda wa nani mo warukunai Vol.3
     author: haruharudo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/641456.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-29'
     code: 641456
     url: /works/641456/
@@ -1542,7 +1557,7 @@ works:
   - title: Beit-dai de Kaa-san no Karada o Katta Musuko no Hanashi
     author: momoziri-hustle-dou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/657979.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-09-29'
     code: 657979
     url: /works/657979/
@@ -1807,7 +1822,7 @@ works:
   - title: Moto Gal Mama wa Musuko no Karada o Yoku Shiranai
     author: hatakeyama-tohya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673232.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-29'
     code: 673232
     url: /works/673232/
@@ -2158,7 +2173,7 @@ works:
       Work Overtime to Satisfy Sexual Desires
     author: nako-sir
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684073.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-29'
     code: 684073
     url: /works/684073/
@@ -2183,10 +2198,18 @@ works:
   - title: Gibo no Omocha ni Sareta Boku | My Stepmom Made Me Her Toy
     author: rk-2
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684311.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-29'
     code: 684311
     url: /works/684311/
+  - title: Hamerareta Bijin Yuutousei ~Shingaku no Tame ni Sensei ni Pakorarete Mainichi
+      Seishori Saserarete...~
+    author: x-pierrot
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684509.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 684509
+    url: /works/684509/
   - title: Kaette Kita Onee-chan
     author: saitou-renji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684556.jpg

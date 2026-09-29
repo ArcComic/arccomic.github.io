@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "x-ray"
-work_count: 287
+work_count: 292
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -25,6 +25,13 @@ works:
     date: '2026-02-28'
     code: 265933
     url: /works/265933/
+  - title: Shizuku-san wa Ore no Omoibito | My Neighbor Shizuka-San, My Fondest Desire
+    author: saemon
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/269224.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 269224
+    url: /works/269224/
   - title: Gakkou to Bed ja Seihantai no, Okkina Kanojo. | My Big Girlfriend Acts the
       Polar Opposite in Bed and at School.
     author: mikemono-yuu
@@ -215,6 +222,13 @@ works:
     date: '2026-02-26'
     code: 475867
     url: /works/475867/
+  - title: Shuumatsu dakara Ippai Ichaicha Shi yo
+    author: saemon
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/476145.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 476145
+    url: /works/476145/
   - title: Neteru Onii-chan no Are o Kariru Hanashi
     author: tiger
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/476399.jpg
@@ -232,7 +246,7 @@ works:
   - title: Tomodachi no Mama ga Boku no Dekachin de Ikimakutta Kaisui Yokujou
     author: rk-2
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/480745.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-29'
     code: 480745
     url: /works/480745/
@@ -297,6 +311,14 @@ works:
     date: '2026-03-04'
     code: 508649
     url: /works/508649/
+  - title: Dousei Kanojo to Asa made Tsuyudaku Hametaoshi | Having Sloppy Sex Till Morning
+      with My Live-in Girlfriend
+    author: migihaji
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/520557.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 520557
+    url: /works/520557/
   - title: Zutto Hanasanaide ne. -Onaho na Mukanjou Osananajimi to Junai ni Ochiru made-
       | Please Don’t Let Go Of Me ~Until I Fall in Love With My Onahole Childhood Friend~
     author: kurumaya-koudou
@@ -383,7 +405,7 @@ works:
   - title: Sashida Sareta Hokenshitsu | How I Offered Her Up In The Nurse's Office
     author: kasumi-kaori
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/551076.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-29'
     code: 551076
     url: /works/551076/
@@ -897,7 +919,7 @@ works:
   - title: Kaneda wa nani mo warukunai Vol.3
     author: haruharudo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/641456.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-29'
     code: 641456
     url: /works/641456/
@@ -1599,6 +1621,13 @@ works:
     date: '2026-09-09'
     code: 665716
     url: /works/665716/
+  - title: Kashiteyaru dake | I'll Just Let You Borrow It
+    author: pontaro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/667065.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 667065
+    url: /works/667065/
   - title: Nakadashi Oji-san ni Nerawareta Mesu wa Nigeru Koto ga Dekinai ~Fujitomo
       Megumi Hen 2~ | A Woman Can't Get Away After Being Targeted By This Horny Old
       Man - Fujitomo Megumi Edition Vol.2 [English] =White Symphony=
@@ -2027,7 +2056,7 @@ works:
       Work Overtime to Satisfy Sexual Desires
     author: nako-sir
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684073.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-29'
     code: 684073
     url: /works/684073/
@@ -2153,4 +2182,11 @@ works:
     date: '2026-09-29'
     code: 684789
     url: /works/684789/
+  - title: Mesu ni shite kure! 2
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684799.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 684799
+    url: /works/684799/
 ---

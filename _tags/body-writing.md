@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "body writing"
-work_count: 11
+work_count: 12
 works:
   - title: My Dress Up Corpse
     author: mr-kurz
@@ -18,6 +18,14 @@ works:
     date: '2026-05-04'
     code: 518608
     url: /works/518608/
+  - title: A Married Woman Tricked Into Filming ~ Former Gravure Idol Wife Gets NTR'd
+      By The President's Son For Her Husbands Sake ~
+    author: izuminoaru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/527520.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 527520
+    url: /works/527520/
   - title: Anata Senyou no Niku Onaho desu | Your very own meat onahole
     author: noe
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/581946.jpg

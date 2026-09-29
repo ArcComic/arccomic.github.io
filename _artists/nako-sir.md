@@ -12,7 +12,7 @@ works:
   - title: Chotto Daruikedo Yasashikute Mendoumi ga Yokute Ironna Keiken Sasete Kureru
       Senpai no Hanashi | My Pain-In-The-Ass Yet Nice And Caring Senior Collegue
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/521042.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-29'
     code: 521042
     url: /works/521042/
@@ -20,7 +20,7 @@ works:
       | The Story of How the Sheltered Young Lady from the Ajisai Family Is Made to
       Work Overtime to Satisfy Sexual Desires
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684073.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-29'
     code: 684073
     url: /works/684073/

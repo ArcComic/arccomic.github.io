@@ -12,13 +12,13 @@ works:
     url: /works/437583/
   - title: Fucking My Friend's Mom With My Big Cock On Christmas Eve
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/439275.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-29'
     code: 439275
     url: /works/439275/
   - title: Tomodachi no Mama ga Boku no Dekachin de Ikimakutta Kaisui Yokujou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/480745.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-29'
     code: 480745
     url: /works/480745/
@@ -31,7 +31,7 @@ works:
     url: /works/483537/
   - title: Tomodachi no Mama ga Boku no Dekachin de Ikimakutta Sotsugyoushiki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/513981.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-29'
     code: 513981
     url: /works/513981/
@@ -49,7 +49,7 @@ works:
     url: /works/650138/
   - title: Gibo no Omocha ni Sareta Boku | My Stepmom Made Me Her Toy
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684311.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-29'
     code: 684311
     url: /works/684311/

@@ -1,7 +1,7 @@
 ---
 layout: artist
 artist_name: "group"
-work_count: 33
+work_count: 34
 works:
   - title: Itabasami na Wakachi Ai 4 | Love Divided Between a Rock and a Hard Place
       4
@@ -211,4 +211,10 @@ works:
     date: '2026-09-24'
     code: 683693
     url: /works/683693/
+  - title: Kakko Ii kara Suki 2 [English] partial retranslation
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684642.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 684642
+    url: /works/684642/
 ---

@@ -11,7 +11,7 @@ works:
     url: /works/553061/
   - title: Moto Gal Mama wa Musuko no Karada o Yoku Shiranai
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673232.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-29'
     code: 673232
     url: /works/673232/

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "domination loss"
-work_count: 36
+work_count: 37
 works:
   - title: My Only Princess
     author: mackgee
@@ -195,6 +195,14 @@ works:
     date: '2026-09-18'
     code: 654010
     url: /works/654010/
+  - title: I cannot believe a Longtime Fan such as myself is getting my Clit Teased
+      by my Fave...
+    author: toyama-tonari
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/655322.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 655322
+    url: /works/655322/
   - title: Volley-bu no Shushou no Otouto Daikou o Suru Koto ni Natta Hanashi | The
       story of how I ended up acting as the younger brother of the volleyball team captain
     author: wes-heartland-smith

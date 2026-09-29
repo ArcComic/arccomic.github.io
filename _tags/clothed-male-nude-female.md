@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "clothed male nude female"
-work_count: 12
+work_count: 13
 works:
   - title: Watashi-tachi no Seikoui Tokubetsu Jisshuu -Zengi Hen-
     author: guglielmo
@@ -79,6 +79,14 @@ works:
     date: '2026-05-26'
     code: 652667
     url: /works/652667/
+  - title: I cannot believe a Longtime Fan such as myself is getting my Clit Teased
+      by my Fave...
+    author: toyama-tonari
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/655322.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 655322
+    url: /works/655322/
   - title: Shiteru Kyoudai | Siblings Doing It!
     author: nise
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680682.jpg
