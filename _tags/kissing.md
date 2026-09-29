@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "kissing"
-work_count: 319
+work_count: 324
 works:
   - title: FLUFFY LAUGH GIRL
     author: shibasaki-syouzi
@@ -179,6 +179,14 @@ works:
     date: '2026-09-23'
     code: 436140
     url: /works/436140/
+  - title: Tomodachi no Mama ga Boku no Dekachin de Ikimakutta Onsen Ryokou | The Hotspring
+      Trip Where My Friend's Mother was All Over My Big Dick
+    author: rk-2
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/437583.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 437583
+    url: /works/437583/
   - title: Kanojo no Kawaii Mieppari | My Cute Gyaru Girlfriend Is a Total Poser
     author: buta
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/441114.jpg
@@ -761,6 +769,13 @@ works:
     date: '2026-04-16'
     code: 599514
     url: /works/599514/
+  - title: Kirishima's Mother
+    author: kojima-miu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/601711.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 601711
+    url: /works/601711/
   - title: Otoko no Ko otodokeshimasu! ~Itsumo kuru Haitatsuin-san ga masaka no Otoko
       no Ko dattakedo mayowazu hameta~
     author: mitsujirou
@@ -814,6 +829,13 @@ works:
     date: '2026-09-09'
     code: 614204
     url: /works/614204/
+  - title: Nishida Ke no Himegoto | Nishida Family Secret 1-3
+    author: kojima-miu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/614205.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 614205
+    url: /works/614205/
   - title: Tomodachi ga Tsuretekita Oba-san 1
     author: exit-up
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/615538.jpg
@@ -1153,6 +1175,13 @@ works:
     date: '2026-08-19'
     code: 641362
     url: /works/641362/
+  - title: Kaneda wa nani mo warukunai Vol.3
+    author: haruharudo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/641456.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 641456
+    url: /works/641456/
   - title: Kachiki na Single Mother to Dosukebe Netsuai Seikou | Dirty and Passionate
       Sex with a Single Mother 1
     author: botamochi
@@ -2353,6 +2382,13 @@ works:
     date: '2026-09-27'
     code: 684305
     url: /works/684305/
+  - title: Gibo no Omocha ni Sareta Boku | My Stepmom Made Me Her Toy
+    author: rk-2
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684311.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 684311
+    url: /works/684311/
   - title: Oyaji no Saikon Aite wa Sukidatta Boku no Osananajimi
     author: makuma-ikeru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684314.jpg

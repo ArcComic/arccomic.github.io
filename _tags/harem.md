@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "harem"
-work_count: 33
+work_count: 34
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -53,6 +53,13 @@ works:
     date: '2026-09-25'
     code: 562201
     url: /works/562201/
+  - title: Kirishima's Mother
+    author: kojima-miu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/601711.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 601711
+    url: /works/601711/
   - title: Amoral Island
     author: alp
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/633453.jpg

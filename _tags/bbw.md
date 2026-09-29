@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bbw"
-work_count: 52
+work_count: 54
 works:
   - title: My Care Lady Ch. 1
     author: sugi-g
@@ -103,6 +103,13 @@ works:
     date: '2026-09-12'
     code: 593434
     url: /works/593434/
+  - title: Kirishima's Mother
+    author: kojima-miu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/601711.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 601711
+    url: /works/601711/
   - title: Alola no Yoru no Sugata Soushuuhen | Aloha Night Compilation
     author: kurosu-gatari
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/609650.jpg
@@ -132,6 +139,13 @@ works:
     date: '2026-03-07'
     code: 635174
     url: /works/635174/
+  - title: Kaneda wa nani mo warukunai Vol.3
+    author: haruharudo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/641456.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 641456
+    url: /works/641456/
   - title: Apart no Otonari-san ga Yarasete Kureru Hanashi 4 | My Nextdoor Neighbor
       Let Me Fuck Her 4
     author: ki-51

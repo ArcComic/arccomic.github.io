@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "manga"
-work_count: 337
+work_count: 341
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -980,6 +980,13 @@ works:
     date: '2026-09-10'
     code: 574158
     url: /works/574158/
+  - title: Married Couple Swap ~He's Better Than My Husband~ Vol. 1-3
+    author: peter-mitsuru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/575103.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 575103
+    url: /works/575103/
   - title: Saimin ♥ Saimin | Hypno ♥ Hypno
     author: minamida-usuke
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/576398.jpg
@@ -1093,6 +1100,13 @@ works:
     date: '2026-04-23'
     code: 598175
     url: /works/598175/
+  - title: Kirishima's Mother
+    author: kojima-miu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/601711.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 601711
+    url: /works/601711/
   - title: Zutto Issho ni Ite Ageru kara
     author: borusiti
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/602074.jpg
@@ -1108,6 +1122,14 @@ works:
     date: '2026-04-23'
     code: 603122
     url: /works/603122/
+  - title: Bokushika Shiranai, Cool na Haha no Ura no Kao. | The Secret Face of My Cool
+      Mother Only I Know.
+    author: makoto-shiyaka
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/604050.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 604050
+    url: /works/604050/
   - title: Soukan Syndrome
     author: kuroiwa-menou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/605633.jpg
@@ -1153,6 +1175,13 @@ works:
     date: '2026-09-10'
     code: 613838
     url: /works/613838/
+  - title: Nishida Ke no Himegoto | Nishida Family Secret 1-3
+    author: kojima-miu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/614205.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 614205
+    url: /works/614205/
   - title: Oku-sama Shachou wa Miraretai | Madam President Wants to Be Seen
     author: minamida-usuke
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/615333.jpg

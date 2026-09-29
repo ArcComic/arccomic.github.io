@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "rough translation"
-work_count: 582
+work_count: 590
 works:
   - title: Watashi no Karada, Okashi Shimasu. Bunny Girl Edition
     author: nectar
@@ -117,6 +117,13 @@ works:
     date: '2026-09-27'
     code: 513136
     url: /works/513136/
+  - title: Tomodachi no Mama ga Boku no Dekachin de Ikimakutta Sotsugyoushiki
+    author: rk-2
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/513981.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 513981
+    url: /works/513981/
   - title: Midara na Sensei wa Kirai desu ka? ~Sakura Aimi no Baai~ | Do you hate lewd
       teachers? ~The Case of Sakura Aimi~
     author: macho
@@ -486,6 +493,13 @@ works:
     date: '2026-04-21'
     code: 579976
     url: /works/579976/
+  - title: Ya-me rarenai futari - Two People Who Can't Stop
+    author: akys-honpo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/580833.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 580833
+    url: /works/580833/
   - title: Doukyuusei no Kyouiku Mama ni Hitomebore!
     author: chotto-b-sen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/581704.jpg
@@ -610,6 +624,14 @@ works:
     date: '2026-03-02'
     code: 603756
     url: /works/603756/
+  - title: Bokushika Shiranai, Cool na Haha no Ura no Kao. | The Secret Face of My Cool
+      Mother Only I Know.
+    author: makoto-shiyaka
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/604050.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 604050
+    url: /works/604050/
   - title: Soukan Syndrome
     author: kuroiwa-menou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/605633.jpg
@@ -1160,6 +1182,13 @@ works:
     date: '2026-08-19'
     code: 641362
     url: /works/641362/
+  - title: Kaneda wa nani mo warukunai Vol.3
+    author: haruharudo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/641456.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 641456
+    url: /works/641456/
   - title: Haruna wa Kyou kara Sachiko ni Narimashita.
     author: mashumarodan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642023.jpg
@@ -1384,6 +1413,13 @@ works:
     date: '2026-04-27'
     code: 646385
     url: /works/646385/
+  - title: My beloved family—I gave them up.
+    author: nt-robo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/646731.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 646731
+    url: /works/646731/
   - title: Okaa-san ni wa Kore Gurai shika Dekinai kara... 2 | For Mom the Only Option
       Left is... 2
     author: muchipan
@@ -1937,6 +1973,13 @@ works:
     date: '2026-09-11'
     code: 657559
     url: /works/657559/
+  - title: Beit-dai de Kaa-san no Karada o Katta Musuko no Hanashi
+    author: momoziri-hustle-dou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/657979.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 657979
+    url: /works/657979/
   - title: Haha Ana ni Irazumba
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/657981.jpg
@@ -2646,6 +2689,13 @@ works:
     date: '2026-09-23'
     code: 673215
     url: /works/673215/
+  - title: Moto Gal Mama wa Musuko no Karada o Yoku Shiranai
+    author: hatakeyama-tohya
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673232.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 673232
+    url: /works/673232/
   - title: Yome no Tsurego ni Otosareru Boku | I was Seduced by My Wife's Child from
       a Previous Marriage
     author: sabano-fudeoki
@@ -4142,6 +4192,15 @@ works:
     date: '2026-09-25'
     code: 683814
     url: /works/683814/
+  - title: Shiyou-san Chi no Hakoiri Ojou-sama ni Seiyoku Shori Zangyou Saserareru Hanashi
+      | The Story of How the Sheltered Young Lady from the Ajisai Family Is Made to
+      Work Overtime to Satisfy Sexual Desires
+    author: nako-sir
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684073.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 684073
+    url: /works/684073/
   - title: Ore no Seiheki o Guchagucha ni Shite Oite Shiranai Aida ni Kekkon Shite ita
       Moto SeFri to Saigo no Bachiboko Sex Osame suru Hanashi | A story about having
       one last wild, wild sex session with my ex-fuck buddy— The one who messed with

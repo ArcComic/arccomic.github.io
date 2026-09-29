@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole male"
-work_count: 780
+work_count: 793
 works:
   - title: Adoration
     author: kishizuka-kenji
@@ -701,6 +701,21 @@ works:
     date: '2026-09-23'
     code: 436140
     url: /works/436140/
+  - title: Tomodachi no Mama ga Boku no Dekachin de Ikimakutta Onsen Ryokou | The Hotspring
+      Trip Where My Friend's Mother was All Over My Big Dick
+    author: rk-2
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/437583.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 437583
+    url: /works/437583/
+  - title: Fucking My Friend's Mom With My Big Cock On Christmas Eve
+    author: rk-2
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/439275.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 439275
+    url: /works/439275/
   - title: Kanojo no Kawaii Mieppari | My Cute Gyaru Girlfriend Is a Total Poser
     author: buta
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/441114.jpg
@@ -908,6 +923,13 @@ works:
     date: '2026-09-13'
     code: 480065
     url: /works/480065/
+  - title: Tomodachi no Mama ga Boku no Dekachin de Ikimakutta Kaisui Yokujou
+    author: rk-2
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/480745.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 480745
+    url: /works/480745/
   - title: 'Sono Koi wa Color Code #F88CB0 | That Love is Color Code #F88CB0'
     author: chiba-toshirou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/481441.jpg
@@ -1141,6 +1163,13 @@ works:
     date: '2026-09-27'
     code: 513136
     url: /works/513136/
+  - title: Tomodachi no Mama ga Boku no Dekachin de Ikimakutta Sotsugyoushiki
+    author: rk-2
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/513981.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 513981
+    url: /works/513981/
   - title: Watashi wa Kakerareteru kara... | I've been hypnotized, so...
     author: kiraku
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/516164.jpg
@@ -1164,6 +1193,14 @@ works:
     date: '2026-04-15'
     code: 519274
     url: /works/519274/
+  - title: Chotto Daruikedo Yasashikute Mendoumi ga Yokute Ironna Keiken Sasete Kureru
+      Senpai no Hanashi | My Pain-In-The-Ass Yet Nice And Caring Senior Collegue
+    author: nako-sir
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/521042.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 521042
+    url: /works/521042/
   - title: Tarachime no Nikutsubo ~Yokkyu Fuman no Haha ga Inran Dekachichi Deliherujou
       datta node, Renzoku Nakadashi de Onaho ni Shitemita~
     author: ginen
@@ -1470,6 +1507,13 @@ works:
     date: '2026-08-22'
     code: 550948
     url: /works/550948/
+  - title: Sashida Sareta Hokenshitsu | How I Offered Her Up In The Nurse's Office
+    author: kasumi-kaori
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/551076.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 551076
+    url: /works/551076/
   - title: Oni no Kyouiku Mama ga Musuko to Amaama SEX made
     author: yuriko-club
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/551186.jpg
@@ -1716,6 +1760,13 @@ works:
     date: '2026-04-19'
     code: 580427
     url: /works/580427/
+  - title: Ya-me rarenai futari - Two People Who Can't Stop
+    author: akys-honpo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/580833.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 580833
+    url: /works/580833/
   - title: Doukyuusei no Kyouiku Mama ni Hitomebore!
     author: chotto-b-sen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/581704.jpg
@@ -2053,6 +2104,14 @@ works:
     date: '2026-03-02'
     code: 603756
     url: /works/603756/
+  - title: Bokushika Shiranai, Cool na Haha no Ura no Kao. | The Secret Face of My Cool
+      Mother Only I Know.
+    author: makoto-shiyaka
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/604050.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 604050
+    url: /works/604050/
   - title: Mechakucha Jiraippoi kedo Ne wa Yasashisouna Ko | Serious Land Mine Vibes
       but Deep Down She Seems Sweet
     author: 7zu7
@@ -2228,6 +2287,13 @@ works:
     date: '2026-09-09'
     code: 614204
     url: /works/614204/
+  - title: Nishida Ke no Himegoto | Nishida Family Secret 1-3
+    author: kojima-miu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/614205.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 614205
+    url: /works/614205/
   - title: Eroi Koto Igai de Toki o Tomete wa Dame desu yo 2
     author: ohkura-kazuya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/615835.jpg
@@ -4452,6 +4518,13 @@ works:
     date: '2026-09-23'
     code: 673215
     url: /works/673215/
+  - title: Moto Gal Mama wa Musuko no Karada o Yoku Shiranai
+    author: hatakeyama-tohya
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673232.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 673232
+    url: /works/673232/
   - title: Yome no Tsurego ni Otosareru Boku | I was Seduced by My Wife's Child from
       a Previous Marriage
     author: sabano-fudeoki
@@ -5664,6 +5737,13 @@ works:
     date: '2026-09-26'
     code: 684010
     url: /works/684010/
+  - title: Zenless Zone Zero Isolde
+    author: mackgee
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684025.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 684025
+    url: /works/684025/
   - title: Tonikaku Yaritai Gal ga Kyokon Otaku ni Deattara
     author: tokunaga
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684061.jpg
@@ -5671,6 +5751,15 @@ works:
     date: '2026-09-26'
     code: 684061
     url: /works/684061/
+  - title: Shiyou-san Chi no Hakoiri Ojou-sama ni Seiyoku Shori Zangyou Saserareru Hanashi
+      | The Story of How the Sheltered Young Lady from the Ajisai Family Is Made to
+      Work Overtime to Satisfy Sexual Desires
+    author: nako-sir
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684073.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 684073
+    url: /works/684073/
   - title: Trans Couple ~Ore ga Onna de Kanojo ga Otoko~｜Trans Couple -I'm the Girl
       and My GF is the Guy-
     author: unknown
@@ -5731,6 +5820,13 @@ works:
     date: '2026-09-27'
     code: 684305
     url: /works/684305/
+  - title: Gibo no Omocha ni Sareta Boku | My Stepmom Made Me Her Toy
+    author: rk-2
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684311.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 684311
+    url: /works/684311/
   - title: 'Josou Ouji wa Wakarasetai! ep.4 Ottori Haha mo Mazaritai! | The Crossdressing
       Prince Who Tried to Teach his Little Sisters a Lesson - Episode 4: The Gentle
       Mom Who Doesn''t Want to Be Left Out'

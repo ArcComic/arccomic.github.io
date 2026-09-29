@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "schoolgirl uniform"
-work_count: 290
+work_count: 294
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -346,6 +346,13 @@ works:
     date: '2026-04-19'
     code: 512715
     url: /works/512715/
+  - title: Tomodachi no Mama ga Boku no Dekachin de Ikimakutta Sotsugyoushiki
+    author: rk-2
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/513981.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 513981
+    url: /works/513981/
   - title: My part-time coworker ran away from home and came to work here, but she was
       too sexy...
     author: yamakonbu
@@ -370,6 +377,14 @@ works:
     date: '2026-05-04'
     code: 519713
     url: /works/519713/
+  - title: Chotto Daruikedo Yasashikute Mendoumi ga Yokute Ironna Keiken Sasete Kureru
+      Senpai no Hanashi | My Pain-In-The-Ass Yet Nice And Caring Senior Collegue
+    author: nako-sir
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/521042.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 521042
+    url: /works/521042/
   - title: 'Jujutsu Kaisen: Mahito Mayhem'
     author: mayitgu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/524761.jpg
@@ -981,6 +996,13 @@ works:
     date: '2026-09-18'
     code: 641188
     url: /works/641188/
+  - title: Kaneda wa nani mo warukunai Vol.3
+    author: haruharudo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/641456.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 641456
+    url: /works/641456/
   - title: My Childhood Friend Twins Become Another Man’s Onahole 1-3
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/643193.jpg
@@ -2128,6 +2150,15 @@ works:
     date: '2026-09-26'
     code: 684061
     url: /works/684061/
+  - title: Shiyou-san Chi no Hakoiri Ojou-sama ni Seiyoku Shori Zangyou Saserareru Hanashi
+      | The Story of How the Sheltered Young Lady from the Ajisai Family Is Made to
+      Work Overtime to Satisfy Sexual Desires
+    author: nako-sir
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684073.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 684073
+    url: /works/684073/
   - title: '"BSS" Zutto Suki Datta Tonari no Seki no Onnanoko ga Shinyuu no Yokodori
       Sareru Hanashi | [BSS] The Story of How the Girl Next To My Seat Whom I''ve Always
       Liked Was Stolen by My Best Friend'

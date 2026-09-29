@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "ffm threesome"
-work_count: 125
+work_count: 126
 works:
   - title: Hustle! Danchizuma Ch. 1-18 END
     author: hidemaru
@@ -224,6 +224,13 @@ works:
     date: '2026-09-09'
     code: 614204
     url: /works/614204/
+  - title: Nishida Ke no Himegoto | Nishida Family Secret 1-3
+    author: kojima-miu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/614205.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 614205
+    url: /works/614205/
   - title: 'Gal to Meccha Namahame Nakadashi Ecchi Suru Hanashi #5'
     author: pistonring-nishizawa
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/617805.jpg

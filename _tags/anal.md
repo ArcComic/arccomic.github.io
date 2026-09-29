@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "anal"
-work_count: 140
+work_count: 141
 works:
   - title: Hitozuma Hyakka
     author: hase-tsubura
@@ -290,6 +290,13 @@ works:
     date: '2026-04-17'
     code: 612957
     url: /works/612957/
+  - title: Nishida Ke no Himegoto | Nishida Family Secret 1-3
+    author: kojima-miu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/614205.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 614205
+    url: /works/614205/
   - title: Eroi Koto Igai de Toki o Tomete wa Dame desu yo 2
     author: ohkura-kazuya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/615835.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big ass"
-work_count: 202
+work_count: 206
 works:
   - title: My Care Lady Ch. 1
     author: sugi-g
@@ -437,6 +437,13 @@ works:
     date: '2026-04-23'
     code: 610041
     url: /works/610041/
+  - title: Nishida Ke no Himegoto | Nishida Family Secret 1-3
+    author: kojima-miu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/614205.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 614205
+    url: /works/614205/
   - title: Oku-sama Shachou wa Miraretai | Madam President Wants to Be Seen
     author: minamida-usuke
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/615333.jpg
@@ -611,6 +618,13 @@ works:
     date: '2026-09-18'
     code: 641188
     url: /works/641188/
+  - title: Kaneda wa nani mo warukunai Vol.3
+    author: haruharudo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/641456.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 641456
+    url: /works/641456/
   - title: Kachiki na Single Mother to Dosukebe Netsuai Seikou | Dirty and Passionate
       Sex with a Single Mother 1
     author: botamochi
@@ -1432,6 +1446,15 @@ works:
     date: '2026-09-26'
     code: 684061
     url: /works/684061/
+  - title: Shiyou-san Chi no Hakoiri Ojou-sama ni Seiyoku Shori Zangyou Saserareru Hanashi
+      | The Story of How the Sheltered Young Lady from the Ajisai Family Is Made to
+      Work Overtime to Satisfy Sexual Desires
+    author: nako-sir
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684073.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 684073
+    url: /works/684073/
   - title: Ore no Seiheki o Guchagucha ni Shite Oite Shiranai Aida ni Kekkon Shite ita
       Moto SeFri to Saigo no Bachiboko Sex Osame suru Hanashi | A story about having
       one last wild, wild sex session with my ex-fuck buddy— The one who messed with
@@ -1474,6 +1497,13 @@ works:
     date: '2026-09-27'
     code: 684305
     url: /works/684305/
+  - title: Gibo no Omocha ni Sareta Boku | My Stepmom Made Me Her Toy
+    author: rk-2
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684311.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 684311
+    url: /works/684311/
   - title: I'm Sorry Honey Your Penis is Too Small
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684550.jpg

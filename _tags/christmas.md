@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "christmas"
-work_count: 3
+work_count: 4
 works:
   - title: Hustle! Danchizuma Ch. 1-18 END
     author: hidemaru
@@ -10,6 +10,13 @@ works:
     date: '2026-04-17'
     code: 161690
     url: /works/161690/
+  - title: Fucking My Friend's Mom With My Big Cock On Christmas Eve
+    author: rk-2
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/439275.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 439275
+    url: /works/439275/
   - title: Tomodachi no Mama ga Boku no Dekachin de Ikimakutta Oshougatsu Otoshidama
       Soushuuhen
     author: rk-2

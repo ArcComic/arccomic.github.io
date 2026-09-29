@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "femdom"
-work_count: 153
+work_count: 155
 works:
   - title: Life with Married Women Just Like a Manga 2 - Ch. 1-5
     author: hidemaru
@@ -250,6 +250,14 @@ works:
     date: '2026-04-19'
     code: 512715
     url: /works/512715/
+  - title: Chotto Daruikedo Yasashikute Mendoumi ga Yokute Ironna Keiken Sasete Kureru
+      Senpai no Hanashi | My Pain-In-The-Ass Yet Nice And Caring Senior Collegue
+    author: nako-sir
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/521042.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 521042
+    url: /works/521042/
   - title: Motto♥ Okki na Saori-chan wa Fukiyou ni Eroi
     author: aramaki-echizen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/524436.jpg
@@ -1094,6 +1102,13 @@ works:
     date: '2026-09-27'
     code: 684305
     url: /works/684305/
+  - title: Gibo no Omocha ni Sareta Boku | My Stepmom Made Me Her Toy
+    author: rk-2
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684311.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 684311
+    url: /works/684311/
   - title: 'Josou Ouji wa Wakarasetai! ep.4 Ottori Haha mo Mazaritai! | The Crossdressing
       Prince Who Tried to Teach his Little Sisters a Lesson - Episode 4: The Gentle
       Mom Who Doesn''t Want to Be Left Out'

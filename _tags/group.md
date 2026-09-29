@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "group"
-work_count: 219
+work_count: 221
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -383,6 +383,13 @@ works:
     date: '2026-07-13'
     code: 598010
     url: /works/598010/
+  - title: Kirishima's Mother
+    author: kojima-miu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/601711.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 601711
+    url: /works/601711/
   - title: Alola no Yoru no Sugata Soushuuhen | Aloha Night Compilation
     author: kurosu-gatari
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/609650.jpg
@@ -420,6 +427,13 @@ works:
     date: '2026-09-09'
     code: 614204
     url: /works/614204/
+  - title: Nishida Ke no Himegoto | Nishida Family Secret 1-3
+    author: kojima-miu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/614205.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 614205
+    url: /works/614205/
   - title: Oku-sama Shachou wa Miraretai | Madam President Wants to Be Seen
     author: minamida-usuke
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/615333.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "cheating"
-work_count: 312
+work_count: 324
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -407,6 +407,21 @@ works:
     date: '2026-04-23'
     code: 435832
     url: /works/435832/
+  - title: Tomodachi no Mama ga Boku no Dekachin de Ikimakutta Onsen Ryokou | The Hotspring
+      Trip Where My Friend's Mother was All Over My Big Dick
+    author: rk-2
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/437583.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 437583
+    url: /works/437583/
+  - title: Fucking My Friend's Mom With My Big Cock On Christmas Eve
+    author: rk-2
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/439275.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 439275
+    url: /works/439275/
   - title: Zoku NTR Nindou | The NTR Ninja Way 2
     author: tokie-hirohito
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/441828.jpg
@@ -502,6 +517,13 @@ works:
     date: '2026-07-17'
     code: 477784
     url: /works/477784/
+  - title: Tomodachi no Mama ga Boku no Dekachin de Ikimakutta Kaisui Yokujou
+    author: rk-2
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/480745.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 480745
+    url: /works/480745/
   - title: Tomodachi no Mama ga Boku no Dekachin de Ikimakutta Oshougatsu Otoshidama
       Soushuuhen
     author: rk-2
@@ -599,6 +621,13 @@ works:
     date: '2026-07-17'
     code: 512326
     url: /works/512326/
+  - title: Tomodachi no Mama ga Boku no Dekachin de Ikimakutta Sotsugyoushiki
+    author: rk-2
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/513981.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 513981
+    url: /works/513981/
   - title: Nee, Shite Zenpen
     author: chiba-toshirou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/515857.jpg
@@ -781,6 +810,14 @@ works:
     date: '2026-09-18'
     code: 539663
     url: /works/539663/
+  - title: Oshi ni Yowai Kanojo ni Netorase nante Tanomanakereba Yokatta... | I Wish
+      I Had Never Begged My Pushover Girlfriend To Cuck Me...
+    author: kasumi-kaori
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/541130.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 541130
+    url: /works/541130/
   - title: Extra Virgin Mama
     author: hara-shigeyuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/541631.jpg
@@ -941,6 +978,13 @@ works:
     date: '2026-04-23'
     code: 576398
     url: /works/576398/
+  - title: Ya-me rarenai futari - Two People Who Can't Stop
+    author: akys-honpo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/580833.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 580833
+    url: /works/580833/
   - title: Doukyuusei no Kyouiku Mama ni Hitomebore!
     author: chotto-b-sen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/581704.jpg
@@ -1059,6 +1103,21 @@ works:
     date: '2026-04-23'
     code: 599910
     url: /works/599910/
+  - title: Kirishima's Mother
+    author: kojima-miu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/601711.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 601711
+    url: /works/601711/
+  - title: Bokushika Shiranai, Cool na Haha no Ura no Kao. | The Secret Face of My Cool
+      Mother Only I Know.
+    author: makoto-shiyaka
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/604050.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 604050
+    url: /works/604050/
   - title: Soukan Syndrome
     author: kuroiwa-menou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/605633.jpg
@@ -1103,6 +1162,13 @@ works:
     date: '2026-08-25'
     code: 613739
     url: /works/613739/
+  - title: Nishida Ke no Himegoto | Nishida Family Secret 1-3
+    author: kojima-miu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/614205.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 614205
+    url: /works/614205/
   - title: Tomodachi ga Tsuretekita Oba-san 1
     author: exit-up
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/615538.jpg
@@ -1637,6 +1703,13 @@ works:
     date: '2026-09-11'
     code: 657559
     url: /works/657559/
+  - title: Beit-dai de Kaa-san no Karada o Katta Musuko no Hanashi
+    author: momoziri-hustle-dou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/657979.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 657979
+    url: /works/657979/
   - title: Warui Ko | Bad Girl
     author: arai-kei
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/658005.jpg
@@ -1869,6 +1942,13 @@ works:
     date: '2026-09-23'
     code: 673215
     url: /works/673215/
+  - title: Moto Gal Mama wa Musuko no Karada o Yoku Shiranai
+    author: hatakeyama-tohya
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673232.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 673232
+    url: /works/673232/
   - title: Yome no Tsurego ni Otosareru Boku | I was Seduced by My Wife's Child from
       a Previous Marriage
     author: sabano-fudeoki
@@ -2271,6 +2351,13 @@ works:
     date: '2026-09-26'
     code: 684077
     url: /works/684077/
+  - title: Gibo no Omocha ni Sareta Boku | My Stepmom Made Me Her Toy
+    author: rk-2
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684311.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 684311
+    url: /works/684311/
   - title: I'm Sorry Honey Your Penis is Too Small
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684550.jpg

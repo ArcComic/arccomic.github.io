@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "swimsuit"
-work_count: 67
+work_count: 68
 works:
   - title: Kizashi
     author: yoshiura-kazuya
@@ -45,6 +45,13 @@ works:
     date: '2026-04-27'
     code: 452482
     url: /works/452482/
+  - title: Tomodachi no Mama ga Boku no Dekachin de Ikimakutta Kaisui Yokujou
+    author: rk-2
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/480745.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 480745
+    url: /works/480745/
   - title: Ki ga Tsuyoi Joshi Announcer ga Kutsujoku ni Taerarenaku Naru made Night
       Pool Hen
     author: crimson

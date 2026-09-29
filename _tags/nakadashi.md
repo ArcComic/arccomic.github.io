@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "nakadashi"
-work_count: 702
+work_count: 710
 works:
   - title: Adoration
     author: kishizuka-kenji
@@ -519,6 +519,14 @@ works:
     date: '2026-09-23'
     code: 436140
     url: /works/436140/
+  - title: Tomodachi no Mama ga Boku no Dekachin de Ikimakutta Onsen Ryokou | The Hotspring
+      Trip Where My Friend's Mother was All Over My Big Dick
+    author: rk-2
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/437583.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 437583
+    url: /works/437583/
   - title: Boku no Netorase Seiheki ni Tsukiatte kureru Kanojo | A Girlfriend Who Plays
       Along with My Cuckold Fetish
     author: terasu-mc
@@ -723,6 +731,13 @@ works:
     date: '2026-09-13'
     code: 480065
     url: /works/480065/
+  - title: Tomodachi no Mama ga Boku no Dekachin de Ikimakutta Kaisui Yokujou
+    author: rk-2
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/480745.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 480745
+    url: /works/480745/
   - title: 'Revenge Massage: Moan More & Beg for Me!'
     author: aono-akira
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/481671.jpg
@@ -975,6 +990,13 @@ works:
     date: '2026-09-11'
     code: 512938
     url: /works/512938/
+  - title: Tomodachi no Mama ga Boku no Dekachin de Ikimakutta Sotsugyoushiki
+    author: rk-2
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/513981.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 513981
+    url: /works/513981/
   - title: Midara na Sensei wa Kirai desu ka? ~Sakura Aimi no Baai~ | Do you hate lewd
       teachers? ~The Case of Sakura Aimi~
     author: macho
@@ -1029,6 +1051,14 @@ works:
     date: '2026-04-15'
     code: 519274
     url: /works/519274/
+  - title: Chotto Daruikedo Yasashikute Mendoumi ga Yokute Ironna Keiken Sasete Kureru
+      Senpai no Hanashi | My Pain-In-The-Ass Yet Nice And Caring Senior Collegue
+    author: nako-sir
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/521042.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 521042
+    url: /works/521042/
   - title: My Friends Mom Is My Toy
     author: exit-up
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/521812.jpg
@@ -1525,6 +1555,13 @@ works:
     date: '2026-04-19'
     code: 580427
     url: /works/580427/
+  - title: Ya-me rarenai futari - Two People Who Can't Stop
+    author: akys-honpo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/580833.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 580833
+    url: /works/580833/
   - title: Anata Senyou no Niku Onaho desu | Your very own meat onahole
     author: noe
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/581946.jpg
@@ -1936,6 +1973,13 @@ works:
     date: '2026-04-17'
     code: 612957
     url: /works/612957/
+  - title: Nishida Ke no Himegoto | Nishida Family Secret 1-3
+    author: kojima-miu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/614205.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 614205
+    url: /works/614205/
   - title: Oku-sama Shachou wa Miraretai | Madam President Wants to Be Seen
     author: minamida-usuke
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/615333.jpg
@@ -2543,6 +2587,13 @@ works:
     date: '2026-08-19'
     code: 641362
     url: /works/641362/
+  - title: Kaneda wa nani mo warukunai Vol.3
+    author: haruharudo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/641456.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 641456
+    url: /works/641456/
   - title: Kachiki na Single Mother to Dosukebe Netsuai Seikou | Dirty and Passionate
       Sex with a Single Mother 1
     author: botamochi
@@ -5121,6 +5172,13 @@ works:
     date: '2026-09-27'
     code: 684305
     url: /works/684305/
+  - title: Gibo no Omocha ni Sareta Boku | My Stepmom Made Me Her Toy
+    author: rk-2
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684311.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 684311
+    url: /works/684311/
   - title: Oyaji no Saikon Aite wa Sukidatta Boku no Osananajimi
     author: makuma-ikeru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684314.jpg

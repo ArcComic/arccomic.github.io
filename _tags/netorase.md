@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "netorase"
-work_count: 29
+work_count: 32
 works:
   - title: Boku no Netorase Seiheki ni Tsukiatte kureru Kanojo | A Girlfriend Who Plays
       Along with My Cuckold Fetish
@@ -26,6 +26,21 @@ works:
     date: '2026-04-19'
     code: 487275
     url: /works/487275/
+  - title: Oshi ni Yowai Kanojo ni Netorase nante Tanomanakereba Yokatta... | I Wish
+      I Had Never Begged My Pushover Girlfriend To Cuck Me...
+    author: kasumi-kaori
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/541130.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 541130
+    url: /works/541130/
+  - title: Sashida Sareta Hokenshitsu | How I Offered Her Up In The Nurse's Office
+    author: kasumi-kaori
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/551076.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 551076
+    url: /works/551076/
   - title: LeveChi na Swapping 2 ~Hatsu Zecchou de Iki Kuruu Tsuma Hen~
     author: hikitogu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/552541.jpg
@@ -33,6 +48,13 @@ works:
     date: '2026-09-12'
     code: 552541
     url: /works/552541/
+  - title: Married Couple Swap ~He's Better Than My Husband~ Vol. 1-3
+    author: peter-mitsuru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/575103.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 575103
+    url: /works/575103/
   - title: The wife's unfaithful copulation picture album
     author: allegro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/578583.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "pixie cut"
-work_count: 76
+work_count: 79
 works:
   - title: Last Chance
     author: herio
@@ -134,6 +134,21 @@ works:
     date: '2026-07-11'
     code: 538553
     url: /works/538553/
+  - title: Oshi ni Yowai Kanojo ni Netorase nante Tanomanakereba Yokatta... | I Wish
+      I Had Never Begged My Pushover Girlfriend To Cuck Me...
+    author: kasumi-kaori
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/541130.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 541130
+    url: /works/541130/
+  - title: Sashida Sareta Hokenshitsu | How I Offered Her Up In The Nurse's Office
+    author: kasumi-kaori
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/551076.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 551076
+    url: /works/551076/
   - title: Iiwa Watashi no Karada Suki ni Shite Ch.1-2
     author: shunjou-shuusuke
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/561787.jpg
@@ -163,6 +178,13 @@ works:
     date: '2026-04-25'
     code: 593754
     url: /works/593754/
+  - title: Kirishima's Mother
+    author: kojima-miu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/601711.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 601711
+    url: /works/601711/
   - title: Mechakucha Jiraippoi kedo Ne wa Yasashisouna Ko | Serious Land Mine Vibes
       but Deep Down She Seems Sweet
     author: 7zu7

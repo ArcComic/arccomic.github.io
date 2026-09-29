@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "scanmark"
-work_count: 206
+work_count: 209
 works:
   - title: NTR Anniversary + ) [Syukurin] Mitsuha ~Netorare~ (Kimi no Na wa.) [English]
       [Colorized] by Mikaku
@@ -391,6 +391,13 @@ works:
     date: '2026-07-06'
     code: 644296
     url: /works/644296/
+  - title: My beloved family—I gave them up.
+    author: nt-robo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/646731.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 646731
+    url: /works/646731/
   - title: Otaku ni Yasashii Gal wa Aitsu no Kanojo | A Gal Who's Kind to Otaku Is That
       Guy's Girlfriend
     author: yamamoto
@@ -617,6 +624,13 @@ works:
     date: '2026-09-11'
     code: 657559
     url: /works/657559/
+  - title: Beit-dai de Kaa-san no Karada o Katta Musuko no Hanashi
+    author: momoziri-hustle-dou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/657979.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 657979
+    url: /works/657979/
   - title: Haha Ana ni Irazumba
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/657981.jpg
@@ -853,6 +867,13 @@ works:
     date: '2026-09-23'
     code: 673215
     url: /works/673215/
+  - title: Moto Gal Mama wa Musuko no Karada o Yoku Shiranai
+    author: hatakeyama-tohya
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673232.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 673232
+    url: /works/673232/
   - title: Yome no Tsurego ni Otosareru Boku | I was Seduced by My Wife's Child from
       a Previous Marriage
     author: sabano-fudeoki

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "prostitution"
-work_count: 68
+work_count: 69
 works:
   - title: Yuri no o saifu ni shite agemasu ne, Senpai | I'll turn you into Yuri's wallet,
       Senpai
@@ -337,6 +337,13 @@ works:
     date: '2026-09-09'
     code: 651967
     url: /works/651967/
+  - title: Beit-dai de Kaa-san no Karada o Katta Musuko no Hanashi
+    author: momoziri-hustle-dou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/657979.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 657979
+    url: /works/657979/
   - title: 'Fukushū Yami Baito "Watashi no Moto Tsuma o Ninshin Sasete Hoshī" | My Part-Time
       Job Is Getting Revenge: Get My Ex-Wife Pregnant'
     author: chotto-b-sen

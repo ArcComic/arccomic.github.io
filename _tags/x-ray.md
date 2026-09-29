@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "x-ray"
-work_count: 283
+work_count: 287
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -229,6 +229,13 @@ works:
     date: '2026-09-13'
     code: 480065
     url: /works/480065/
+  - title: Tomodachi no Mama ga Boku no Dekachin de Ikimakutta Kaisui Yokujou
+    author: rk-2
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/480745.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 480745
+    url: /works/480745/
   - title: Anoko wa Boku ga Suki ja Nai Boku dake ga Kizuiteta Hazu no Loli Kyonyuu
       Jimikei Bungaku Shoujo | She Doesn't Like Me ~ I thought I was the only one~ Plain
       Busty Bookworm Girl
@@ -373,6 +380,13 @@ works:
     date: '2026-08-22'
     code: 550948
     url: /works/550948/
+  - title: Sashida Sareta Hokenshitsu | How I Offered Her Up In The Nurse's Office
+    author: kasumi-kaori
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/551076.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 551076
+    url: /works/551076/
   - title: Boku no Kaa-chan | My Mom
     author: cammy
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/555792.jpg
@@ -880,6 +894,13 @@ works:
     date: '2026-09-23'
     code: 641295
     url: /works/641295/
+  - title: Kaneda wa nani mo warukunai Vol.3
+    author: haruharudo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/641456.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 641456
+    url: /works/641456/
   - title: Kachiki na Single Mother to Dosukebe Netsuai Seikou | Dirty and Passionate
       Sex with a Single Mother 1
     author: botamochi
@@ -2001,6 +2022,15 @@ works:
     date: '2026-09-26'
     code: 684061
     url: /works/684061/
+  - title: Shiyou-san Chi no Hakoiri Ojou-sama ni Seiyoku Shori Zangyou Saserareru Hanashi
+      | The Story of How the Sheltered Young Lady from the Ajisai Family Is Made to
+      Work Overtime to Satisfy Sexual Desires
+    author: nako-sir
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684073.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 684073
+    url: /works/684073/
   - title: Ore no Seiheki o Guchagucha ni Shite Oite Shiranai Aida ni Kekkon Shite ita
       Moto SeFri to Saigo no Bachiboko Sex Osame suru Hanashi | A story about having
       one last wild, wild sex session with my ex-fuck buddy— The one who messed with

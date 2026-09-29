@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "oyakodon"
-work_count: 26
+work_count: 27
 works:
   - title: Bitch Mama no Kekkon Riyuu
     author: aoyama-akira
@@ -39,6 +39,13 @@ works:
     date: '2026-04-21'
     code: 609650
     url: /works/609650/
+  - title: Nishida Ke no Himegoto | Nishida Family Secret 1-3
+    author: kojima-miu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/614205.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 614205
+    url: /works/614205/
   - title: 橘さん家ノ脅迫NTR事情
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/634198.jpg

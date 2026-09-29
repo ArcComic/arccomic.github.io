@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "ponytail"
-work_count: 155
+work_count: 156
 works:
   - title: Hikki Mother Fucker
     author: otochichi
@@ -1099,6 +1099,13 @@ works:
     date: '2026-09-25'
     code: 683984
     url: /works/683984/
+  - title: Zenless Zone Zero Isolde
+    author: mackgee
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684025.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 684025
+    url: /works/684025/
   - title: Shiri de Onna o Miwakeru Ore wa Onna Joushi no Yowami o Nigiru 2 | I, A Guy
       Who Tells Women Apart By Their Asses, Got Blackmail On My Superior At Work 2
     author: eco-heeky

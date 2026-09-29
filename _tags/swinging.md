@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "swinging"
-work_count: 27
+work_count: 28
 works:
   - title: Uragiri no Ai wa Mitsu no Aji | Treacherous Love Tastes Like Honey
     author: cuzukago
@@ -116,6 +116,13 @@ works:
     date: '2026-04-19'
     code: 536072
     url: /works/536072/
+  - title: Married Couple Swap ~He's Better Than My Husband~ Vol. 1-3
+    author: peter-mitsuru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/575103.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 575103
+    url: /works/575103/
   - title: Fuufu Koukan Matching Appli ~DQN na Hitozuma ni Nakadashi Houshi~
     author: hachi-mega
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/613739.jpg

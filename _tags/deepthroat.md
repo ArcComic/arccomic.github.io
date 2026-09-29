@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "deepthroat"
-work_count: 73
+work_count: 74
 works:
   - title: Toshishita Chin Kui Obasan
     author: maccha-neji
@@ -494,6 +494,15 @@ works:
     date: '2026-09-23'
     code: 683312
     url: /works/683312/
+  - title: Shiyou-san Chi no Hakoiri Ojou-sama ni Seiyoku Shori Zangyou Saserareru Hanashi
+      | The Story of How the Sheltered Young Lady from the Ajisai Family Is Made to
+      Work Overtime to Satisfy Sexual Desires
+    author: nako-sir
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684073.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 684073
+    url: /works/684073/
   - title: Ore no Seiheki o Guchagucha ni Shite Oite Shiranai Aida ni Kekkon Shite ita
       Moto SeFri to Saigo no Bachiboko Sex Osame suru Hanashi | A story about having
       one last wild, wild sex session with my ex-fuck buddy— The one who messed with

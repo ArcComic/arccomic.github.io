@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "beauty mark"
-work_count: 172
+work_count: 173
 works:
   - title: Uragiri no Ai wa Mitsu no Aji | Treacherous Love Tastes Like Honey
     author: cuzukago
@@ -1239,6 +1239,13 @@ works:
     date: '2026-09-25'
     code: 683984
     url: /works/683984/
+  - title: Zenless Zone Zero Isolde
+    author: mackgee
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684025.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 684025
+    url: /works/684025/
   - title: Ore no Seiheki o Guchagucha ni Shite Oite Shiranai Aida ni Kekkon Shite ita
       Moto SeFri to Saigo no Bachiboko Sex Osame suru Hanashi | A story about having
       one last wild, wild sex session with my ex-fuck buddy— The one who messed with

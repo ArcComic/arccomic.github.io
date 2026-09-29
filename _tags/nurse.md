@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "nurse"
-work_count: 16
+work_count: 17
 works:
   - title: Chibo Soukan Ch.1-3
     author: natsu-no-oyatsu
@@ -25,6 +25,13 @@ works:
     date: '2026-08-31'
     code: 494172
     url: /works/494172/
+  - title: Sashida Sareta Hokenshitsu | How I Offered Her Up In The Nurse's Office
+    author: kasumi-kaori
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/551076.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 551076
+    url: /works/551076/
   - title: Sumata dake tte Itta no ni… Nurutto Sounyuusarechatta Yuutousei no Omocha
       | You Said It'd Just Be Grinding... But You Ended up Slipping It In. Now I'm Just
       the Top Student's Toy 3.

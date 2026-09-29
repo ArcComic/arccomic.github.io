@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "story arc"
-work_count: 178
+work_count: 180
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -398,6 +398,13 @@ works:
     date: '2026-09-25'
     code: 562201
     url: /works/562201/
+  - title: Married Couple Swap ~He's Better Than My Husband~ Vol. 1-3
+    author: peter-mitsuru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/575103.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 575103
+    url: /works/575103/
   - title: Chorozako Kanojo no Aina-chan -Mucchiri Gal to Ichalove H suru Hanashi-
     author: tokyo-gunjo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/580427.jpg
@@ -653,6 +660,13 @@ works:
     date: '2026-04-19'
     code: 638929
     url: /works/638929/
+  - title: Kaneda wa nani mo warukunai Vol.3
+    author: haruharudo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/641456.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 641456
+    url: /works/641456/
   - title: Netorarensa Saikou ni Aishou no Ii Onna |  The Woman Who's Perfectly Compatible
       with Me
     author: bad-end-dreamer
