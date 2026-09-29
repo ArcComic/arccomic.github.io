@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "cunnilingus"
-work_count: 141
+work_count: 144
 works:
   - title: Love Approach
     author: hanafuda-sakurano
@@ -482,6 +482,13 @@ works:
     date: '2026-03-05'
     code: 634609
     url: /works/634609/
+  - title: I Want To See The Cool & Smart Guy's Face Warped in Humiliation
+    author: the-waidan
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/636751.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 636751
+    url: /works/636751/
   - title: Please Take It Out! After
     author: ramanda
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638685.jpg
@@ -747,6 +754,14 @@ works:
     date: '2026-09-13'
     code: 657607
     url: /works/657607/
+  - title: Uwakishou na Kaisha no Elite Douki o Ore no Onna ni Suru Hanashi | The Story
+      of How I Made my Flirty Coworker my Woman
+    author: araido-kagiri
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/658697.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 658697
+    url: /works/658697/
   - title: Imouto ga Ore no Kanojo!? 2-haku 3-ka no Ecchi na Kankei | My Sister is My
       Girlfriend!? Sexual Relationship for Two Nights and Three Days
     author: katagiri-kaneharu
@@ -926,6 +941,14 @@ works:
     date: '2026-09-12'
     code: 680739
     url: /works/680739/
+  - title: S dazo! Mitai na Funiki Deteru Douki no Taniguchi, Do-M rashii?? | It Seems
+      This Guy With Major Sadist Vibes Is Actually A Masochist??
+    author: the-waidan
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680788.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 680788
+    url: /works/680788/
   - title: 'Sorry for Craving Dick at the Wholesome Massage Place: NTR Massage With
       My Ex'
     author: hoshina-mimiwo

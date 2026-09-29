@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "paizuri"
-work_count: 201
+work_count: 203
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -463,6 +463,13 @@ works:
     date: '2026-03-09'
     code: 598144
     url: /works/598144/
+  - title: Zutto Issho ni Ite Ageru kara
+    author: borusiti
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/602074.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 602074
+    url: /works/602074/
   - title: Metsuki no Warui Kidaruge na Kouhai ni Shiboritorareru | Squeezed Up By My
       Junior Girl Who Is Gloomy
     author: oburigakko
@@ -931,6 +938,13 @@ works:
     date: '2026-08-18'
     code: 656319
     url: /works/656319/
+  - title: Rental Office no Yuzuka-san | In A Rented Office With Yuzuka
+    author: kiri-kiri-mai
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/656459.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 656459
+    url: /works/656459/
   - title: Mukashi Kara Otokoppoi Osananajimi mo Chanto Mesu ni Sodachimashita | Even
       My Tomboy Childhood Friend Matured Into a Proper Woman
     author: natsuzo

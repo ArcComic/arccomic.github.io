@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "blowjob"
-work_count: 560
+work_count: 563
 works:
   - title: Office Love Scramble Ch. 1
     author: tohzai
@@ -2744,6 +2744,13 @@ works:
     date: '2026-08-18'
     code: 656319
     url: /works/656319/
+  - title: Rental Office no Yuzuka-san | In A Rented Office With Yuzuka
+    author: kiri-kiri-mai
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/656459.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 656459
+    url: /works/656459/
   - title: Mukashi Kara Otokoppoi Osananajimi mo Chanto Mesu ni Sodachimashita | Even
       My Tomboy Childhood Friend Matured Into a Proper Woman
     author: natsuzo
@@ -2766,6 +2773,14 @@ works:
     date: '2026-09-09'
     code: 657459
     url: /works/657459/
+  - title: Uwakishou na Kaisha no Elite Douki o Ore no Onna ni Suru Hanashi | The Story
+      of How I Made my Flirty Coworker my Woman
+    author: araido-kagiri
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/658697.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 658697
+    url: /works/658697/
   - title: 'Doll Muchi na Jinzou Otome-tachi -Eve Hen 2- | Dolls: Oblivious Man-made
       Maidens -Eve Pt.2-'
     author: ushinomiya
@@ -3659,6 +3674,14 @@ works:
     date: '2026-09-12'
     code: 680762
     url: /works/680762/
+  - title: S dazo! Mitai na Funiki Deteru Douki no Taniguchi, Do-M rashii?? | It Seems
+      This Guy With Major Sadist Vibes Is Actually A Masochist??
+    author: the-waidan
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680788.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 680788
+    url: /works/680788/
   - title: Cooking Pakopako | Cooking Fucka
     author: otochichi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681004.jpg

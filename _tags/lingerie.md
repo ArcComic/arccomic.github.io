@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "lingerie"
-work_count: 87
+work_count: 88
 works:
   - title: My Care Lady Ch. 1
     author: sugi-g
@@ -431,6 +431,14 @@ works:
     date: '2026-07-09'
     code: 656753
     url: /works/656753/
+  - title: Uwakishou na Kaisha no Elite Douki o Ore no Onna ni Suru Hanashi | The Story
+      of How I Made my Flirty Coworker my Woman
+    author: araido-kagiri
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/658697.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 658697
+    url: /works/658697/
   - title: Daasan no Tame ni Okita Kyouko 32sai B107 a.k.a Okusan wo Namadashi Nikuana
       Choukyou Shiteoite Ageyou
     author: shiwasu-no-okina

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "business suit"
-work_count: 74
+work_count: 77
 works:
   - title: Kaisha de Iroiro | Gettin' Busy at the Office
     author: hara-shigeyuki
@@ -353,6 +353,13 @@ works:
     date: '2026-05-20'
     code: 600237
     url: /works/600237/
+  - title: Zutto Issho ni Ite Ageru kara
+    author: borusiti
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/602074.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 602074
+    url: /works/602074/
   - title: Cool na Niizuma to no Shinkon Seikatsu wa Amari ni mo... Yarashikatta  |
       Our Kinky Newlywed Life Vol. 1-3
     author: nanakusa-amane
@@ -457,6 +464,13 @@ works:
     date: '2026-09-06'
     code: 654603
     url: /works/654603/
+  - title: Rental Office no Yuzuka-san | In A Rented Office With Yuzuka
+    author: kiri-kiri-mai
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/656459.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 656459
+    url: /works/656459/
   - title: I Became the Master of My Arrogant Busty Boss!? 02
     author: sazanami-wasabi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/656681.jpg
@@ -464,6 +478,14 @@ works:
     date: '2026-09-20'
     code: 656681
     url: /works/656681/
+  - title: Uwakishou na Kaisha no Elite Douki o Ore no Onna ni Suru Hanashi | The Story
+      of How I Made my Flirty Coworker my Woman
+    author: araido-kagiri
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/658697.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 658697
+    url: /works/658697/
   - title: All Night Long
     author: takasugi-kou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662057.jpg

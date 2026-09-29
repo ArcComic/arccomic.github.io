@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "clit stimulation"
-work_count: 26
+work_count: 28
 works:
   - title: Senpai, Sonna no Shiranai desu ~Bansou shite ita Kare no Yubi wa Ima, Watashi
       no Naka o Midashiteru~ | Senpai, I Don't Know About That - His Fingers That Were
@@ -85,6 +85,13 @@ works:
     date: '2026-04-25'
     code: 632188
     url: /works/632188/
+  - title: I Want To See The Cool & Smart Guy's Face Warped in Humiliation
+    author: the-waidan
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/636751.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 636751
+    url: /works/636751/
   - title: Because Ura Wants To Be More Than "Just An Acquaintance"
     author: the-waidan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642793.jpg
@@ -159,6 +166,14 @@ works:
     date: '2026-09-12'
     code: 680739
     url: /works/680739/
+  - title: S dazo! Mitai na Funiki Deteru Douki no Taniguchi, Do-M rashii?? | It Seems
+      This Guy With Major Sadist Vibes Is Actually A Masochist??
+    author: the-waidan
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680788.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 680788
+    url: /works/680788/
   - title: 'Sorry for Craving Dick at the Wholesome Massage Place: NTR Massage With
       My Ex'
     author: hoshina-mimiwo

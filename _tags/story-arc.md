@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "story arc"
-work_count: 177
+work_count: 178
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -624,6 +624,13 @@ works:
     date: '2026-03-11'
     code: 636122
     url: /works/636122/
+  - title: I Want To See The Cool & Smart Guy's Face Warped in Humiliation
+    author: the-waidan
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/636751.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 636751
+    url: /works/636751/
   - title: Practice H with your mom!
     author: natsume-benkei
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/637655.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "manga"
-work_count: 335
+work_count: 336
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -1086,6 +1086,13 @@ works:
     date: '2026-04-23'
     code: 598175
     url: /works/598175/
+  - title: Zutto Issho ni Ite Ageru kara
+    author: borusiti
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/602074.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 602074
+    url: /works/602074/
   - title: Cool na Niizuma to no Shinkon Seikatsu wa Amari ni mo... Yarashikatta  |
       Our Kinky Newlywed Life Vol. 1-3
     author: nanakusa-amane

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "condom"
-work_count: 197
+work_count: 198
 works:
   - title: Kaisha de Iroiro | Gettin' Busy at the Office
     author: hara-shigeyuki
@@ -807,6 +807,13 @@ works:
     date: '2026-03-11'
     code: 635984
     url: /works/635984/
+  - title: I Want To See The Cool & Smart Guy's Face Warped in Humiliation
+    author: the-waidan
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/636751.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 636751
+    url: /works/636751/
   - title: Manatsu no Refrain | Midsummer's Refrain
     author: gen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/639514.jpg

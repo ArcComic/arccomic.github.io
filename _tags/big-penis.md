@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big penis"
-work_count: 190
+work_count: 192
 works:
   - title: Tsuma no Imouto no Danna ga Ie ni Kiteiruyoudesu | My Sister-In-Law's Husband
       is Over
@@ -534,6 +534,13 @@ works:
     date: '2026-09-28'
     code: 636389
     url: /works/636389/
+  - title: I Want To See The Cool & Smart Guy's Face Warped in Humiliation
+    author: the-waidan
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/636751.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 636751
+    url: /works/636751/
   - title: Onsen Haitte tara Joseito-tachi ga Osotte Kita | My Students Jumped Me When
       I Got in the Hot Spring
     author: hamo
@@ -859,6 +866,14 @@ works:
     date: '2026-09-11'
     code: 656626
     url: /works/656626/
+  - title: Uwakishou na Kaisha no Elite Douki o Ore no Onna ni Suru Hanashi | The Story
+      of How I Made my Flirty Coworker my Woman
+    author: araido-kagiri
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/658697.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 658697
+    url: /works/658697/
   - title: Murasaki no Shoumei ~Kuroi Muchuu~ | Purple Illumination ~Dark Trance~
     author: '3104'
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/660867.jpg

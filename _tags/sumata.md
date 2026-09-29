@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sumata"
-work_count: 17
+work_count: 18
 works:
   - title: Midara Midareru Hime Jijou | The Dirty And Confused Girl's Circumstances
     author: nekomata-naomi
@@ -24,6 +24,13 @@ works:
     date: '2026-09-09'
     code: 461537
     url: /works/461537/
+  - title: Zutto Issho ni Ite Ageru kara
+    author: borusiti
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/602074.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 602074
+    url: /works/602074/
   - title: Cool na Niizuma to no Shinkon Seikatsu wa Amari ni mo... Yarashikatta  |
       Our Kinky Newlywed Life Vol. 1-3
     author: nanakusa-amane

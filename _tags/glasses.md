@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "glasses"
-work_count: 231
+work_count: 232
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -1027,6 +1027,13 @@ works:
     date: '2026-08-18'
     code: 656319
     url: /works/656319/
+  - title: Rental Office no Yuzuka-san | In A Rented Office With Yuzuka
+    author: kiri-kiri-mai
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/656459.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 656459
+    url: /works/656459/
   - title: Te o Dashitara Tsumu Bitch Onna to Suru Sex ga Ichiban Kimochi Ii!! | Sex
       with a Toxic Bitch who will Ruin Your Life is the Absolute Best!!
     author: alpha-beta

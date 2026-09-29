@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "translated"
-work_count: 1391
+work_count: 1397
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -1849,6 +1849,14 @@ works:
     date: '2026-07-17'
     code: 512326
     url: /works/512326/
+  - title: Namaikide Buaisona Kohai Onda ga Zetsurin Amaenbo ni Narimashite??? | The
+      Cheeky and Unfriendly Junior, Onda, has Become a Super-spoiled Brat???
+    author: the-waidan
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/512416.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 512416
+    url: /works/512416/
   - title: Bitch Mama no Kekkon Riyuu
     author: aoyama-akira
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/512473.jpg
@@ -3430,6 +3438,13 @@ works:
     date: '2026-09-18'
     code: 601357
     url: /works/601357/
+  - title: Zutto Issho ni Ite Ageru kara
+    author: borusiti
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/602074.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 602074
+    url: /works/602074/
   - title: Cool na Niizuma to no Shinkon Seikatsu wa Amari ni mo... Yarashikatta  |
       Our Kinky Newlywed Life Vol. 1-3
     author: nanakusa-amane
@@ -4465,6 +4480,13 @@ works:
     date: '2026-09-28'
     code: 636389
     url: /works/636389/
+  - title: I Want To See The Cool & Smart Guy's Face Warped in Humiliation
+    author: the-waidan
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/636751.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 636751
+    url: /works/636751/
   - title: Imouto Oppai de Sukusuku Seikatsu
     author: asaomi-shimura
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/636802.jpg
@@ -6092,6 +6114,13 @@ works:
     date: '2026-07-08'
     code: 656419
     url: /works/656419/
+  - title: Rental Office no Yuzuka-san | In A Rented Office With Yuzuka
+    author: kiri-kiri-mai
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/656459.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 656459
+    url: /works/656459/
   - title: Te o Dashitara Tsumu Bitch Onna to Suru Sex ga Ichiban Kimochi Ii!! | Sex
       with a Toxic Bitch who will Ruin Your Life is the Absolute Best!!
     author: alpha-beta
@@ -6223,6 +6252,14 @@ works:
     date: '2026-09-12'
     code: 658633
     url: /works/658633/
+  - title: Uwakishou na Kaisha no Elite Douki o Ore no Onna ni Suru Hanashi | The Story
+      of How I Made my Flirty Coworker my Woman
+    author: araido-kagiri
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/658697.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 658697
+    url: /works/658697/
   - title: Ie no Naka de Tachinbo suru Ane to Sore o Kau Otouto
     author: choco-hell
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/658748.jpg
@@ -8974,6 +9011,14 @@ works:
     date: '2026-09-12'
     code: 680771
     url: /works/680771/
+  - title: S dazo! Mitai na Funiki Deteru Douki no Taniguchi, Do-M rashii?? | It Seems
+      This Guy With Major Sadist Vibes Is Actually A Masochist??
+    author: the-waidan
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680788.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 680788
+    url: /works/680788/
   - title: '"Kiss Nanka Shitara Akatyan Dekityau Darouga!"Jituha Seithisiki Zero no
       Sanpakugan Yariman Yankey Deka Onna to Jituha Tuyosugiru Seiyoku wo Hissi de Osaekonderu
       Huukiin no Boku'

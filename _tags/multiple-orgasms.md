@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "multiple orgasms"
-work_count: 101
+work_count: 106
 works:
   - title: Rako Slip!
     author: bujidearu
@@ -94,6 +94,14 @@ works:
     date: '2026-08-18'
     code: 504436
     url: /works/504436/
+  - title: Namaikide Buaisona Kohai Onda ga Zetsurin Amaenbo ni Narimashite??? | The
+      Cheeky and Unfriendly Junior, Onda, has Become a Super-spoiled Brat???
+    author: the-waidan
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/512416.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 512416
+    url: /works/512416/
   - title: Chikubi Kando Chousa, Hajimemasu
     author: nanahamu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/528009.jpg
@@ -199,6 +207,13 @@ works:
     date: '2026-09-07'
     code: 597388
     url: /works/597388/
+  - title: Zutto Issho ni Ite Ageru kara
+    author: borusiti
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/602074.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 602074
+    url: /works/602074/
   - title: Tonari no Seki no Tomodachi to Issho ni Onanii Suru Hanashi | The Story About
       Masturbating Together With the Friend Who Sits Next to Me
     author: fuguta-ke
@@ -314,6 +329,13 @@ works:
     date: '2026-03-07'
     code: 634464
     url: /works/634464/
+  - title: I Want To See The Cool & Smart Guy's Face Warped in Humiliation
+    author: the-waidan
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/636751.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 636751
+    url: /works/636751/
   - title: 'Namaiki JK ga Wakaraserareru Hon Bangai Hen | Putting a Cheeky Gyaru in
       Her Place: Extra Chapter'
     author: onkyu
@@ -529,6 +551,14 @@ works:
     date: '2026-09-13'
     code: 657607
     url: /works/657607/
+  - title: Uwakishou na Kaisha no Elite Douki o Ore no Onna ni Suru Hanashi | The Story
+      of How I Made my Flirty Coworker my Woman
+    author: araido-kagiri
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/658697.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 658697
+    url: /works/658697/
   - title: Murasaki no Shoumei ~Kuroi Muchuu~ | Purple Illumination ~Dark Trance~
     author: '3104'
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/660867.jpg
@@ -677,6 +707,14 @@ works:
     date: '2026-09-12'
     code: 680735
     url: /works/680735/
+  - title: S dazo! Mitai na Funiki Deteru Douki no Taniguchi, Do-M rashii?? | It Seems
+      This Guy With Major Sadist Vibes Is Actually A Masochist??
+    author: the-waidan
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680788.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 680788
+    url: /works/680788/
   - title: 'Sorry for Craving Dick at the Wholesome Massage Place: NTR Massage With
       My Ex'
     author: hoshina-mimiwo

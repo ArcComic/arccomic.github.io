@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "the waidan"
-work_count: 11
+work_count: 14
 works:
   - title: Senpai, Sonna no Shiranai desu ~Bansou shite ita Kare no Yubi wa Ima, Watashi
       no Naka o Midashiteru~ | Senpai, I Don't Know About That - His Fingers That Were
@@ -12,6 +12,14 @@ works:
     date: '2026-04-15'
     code: 507473
     url: /works/507473/
+  - title: Namaikide Buaisona Kohai Onda ga Zetsurin Amaenbo ni Narimashite??? | The
+      Cheeky and Unfriendly Junior, Onda, has Become a Super-spoiled Brat???
+    author: the-waidan
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/512416.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 512416
+    url: /works/512416/
   - title: Taido mo Karada mo Zenbu deka I Segawa-san no Gachi koi Taisho ni Narimashita
       | I’ve Become The Target of His Affection!
     author: the-waidan
@@ -35,6 +43,13 @@ works:
     date: '2026-04-25'
     code: 632188
     url: /works/632188/
+  - title: I Want To See The Cool & Smart Guy's Face Warped in Humiliation
+    author: the-waidan
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/636751.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 636751
+    url: /works/636751/
   - title: Because Ura Wants To Be More Than "Just An Acquaintance"
     author: the-waidan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642793.jpg
@@ -71,6 +86,14 @@ works:
     date: '2026-05-26'
     code: 652667
     url: /works/652667/
+  - title: S dazo! Mitai na Funiki Deteru Douki no Taniguchi, Do-M rashii?? | It Seems
+      This Guy With Major Sadist Vibes Is Actually A Masochist??
+    author: the-waidan
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680788.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 680788
+    url: /works/680788/
   - title: Tetsu-kun datte Semeraretai? ~Do-S Kareshi no Chiikubi wa Ijirareru no o
       Nozonderu~ | My Sadistic Boyfriend Tetsu-kun Wants Me To Tease His Nipples!
     author: ntntgngn

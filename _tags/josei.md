@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "josei"
-work_count: 17
+work_count: 19
 works:
   - title: '[Sakuru Haruni Inazuma (Harumi Niina) Chuuken Bodyguard ga Nisemono Reijou
       no Uso to Shintai wo Abaku made. | Until the Obedient Bodyguard Exposes the Body
@@ -29,6 +29,14 @@ works:
     date: '2026-04-15'
     code: 507473
     url: /works/507473/
+  - title: Namaikide Buaisona Kohai Onda ga Zetsurin Amaenbo ni Narimashite??? | The
+      Cheeky and Unfriendly Junior, Onda, has Become a Super-spoiled Brat???
+    author: the-waidan
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/512416.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 512416
+    url: /works/512416/
   - title: Taido mo Karada mo Zenbu deka I Segawa-san no Gachi koi Taisho ni Narimashita
       | I’ve Become The Target of His Affection!
     author: the-waidan
@@ -83,6 +91,13 @@ works:
     date: '2026-04-25'
     code: 632188
     url: /works/632188/
+  - title: I Want To See The Cool & Smart Guy's Face Warped in Humiliation
+    author: the-waidan
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/636751.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 636751
+    url: /works/636751/
   - title: Because Ura Wants To Be More Than "Just An Acquaintance"
     author: the-waidan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642793.jpg

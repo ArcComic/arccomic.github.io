@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "pantyhose"
-work_count: 58
+work_count: 60
 works:
   - title: Life with Married Women Just Like a Manga 2 - Ch. 1-5
     author: hidemaru
@@ -188,6 +188,13 @@ works:
     date: '2026-04-23'
     code: 599910
     url: /works/599910/
+  - title: Zutto Issho ni Ite Ageru kara
+    author: borusiti
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/602074.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 602074
+    url: /works/602074/
   - title: 'Sono Bisque Doll wa H o Suru Soushuuhen II ＋ 9 ー  My Sexy Dress-Up Darling
       Anthology #2'
     author: yahiro-pochi
@@ -322,6 +329,13 @@ works:
     date: '2026-08-25'
     code: 656146
     url: /works/656146/
+  - title: Rental Office no Yuzuka-san | In A Rented Office With Yuzuka
+    author: kiri-kiri-mai
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/656459.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 656459
+    url: /works/656459/
   - title: Volley-bu no Shushou no Otouto Daikou o Suru Koto ni Natta Hanashi | The
       story of how I ended up acting as the younger brother of the volleyball team captain
     author: wes-heartland-smith
