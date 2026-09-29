@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "mosaic censorship"
-work_count: 283
+work_count: 285
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -946,6 +946,13 @@ works:
     date: '2026-04-27'
     code: 618562
     url: /works/618562/
+  - title: ShotaOne Reality
+    author: uyuu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/622211.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 622211
+    url: /works/622211/
   - title: Saimin Idol Gakuen 3 Rei Hen
     author: sunagimo-dx
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/626417.jpg
@@ -1652,6 +1659,13 @@ works:
     date: '2026-08-19'
     code: 668867
     url: /works/668867/
+  - title: Drip Coffee→From♡You |
+    author: borusiti
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/670438.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 670438
+    url: /works/670438/
   - title: JK no Imouto no Furo Nozoki mashita - Hentai Aniki × Imouto
     author: iron-sugar
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/670708.jpg

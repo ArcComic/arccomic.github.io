@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "milf"
-work_count: 396
+work_count: 397
 works:
   - title: Life with Married Women Just Like a Manga 2 - Ch. 1-5
     author: hidemaru
@@ -623,7 +623,7 @@ works:
   - title: 'Married Couple Swap: He’s Better Than My Husband'
     author: peter-mitsuru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/504645.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-28'
     code: 504645
     url: /works/504645/
@@ -2897,6 +2897,14 @@ works:
     date: '2026-09-28'
     code: 684647
     url: /works/684647/
+  - title: Anenuma. ~Seiso na Onee-san wa Boku o Yasashiku Juurin Suru~ | Anenuma. ~My
+      Stepsister's Gentle Domination~
+    author: pontaro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684789.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 684789
+    url: /works/684789/
   - title: Jokyoushi - Hot For Teachers | Female Teachers
     author: drill-murata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/81375.jpg

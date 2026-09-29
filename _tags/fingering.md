@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "fingering"
-work_count: 160
+work_count: 161
 works:
   - title: Watashi-tachi no Seikoui Tokubetsu Jisshuu -Zengi Hen-
     author: guglielmo
@@ -105,6 +105,14 @@ works:
     date: '2026-09-17'
     code: 470682
     url: /works/470682/
+  - title: Nomikai de Doroyoi Shitara Love Hotel de Onaho Yome ni Naru made Chinpo Choukyou
+      Saremashita
+    author: darabuchi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/473892.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 473892
+    url: /works/473892/
   - title: Hiyoko-san wa Sewazuki | Hiyoko is a Busybody
     author: maeda-momo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/480065.jpg
@@ -137,7 +145,7 @@ works:
   - title: 'Married Couple Swap: He’s Better Than My Husband'
     author: peter-mitsuru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/504645.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-28'
     code: 504645
     url: /works/504645/

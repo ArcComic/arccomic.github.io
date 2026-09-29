@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "deepthroat"
-work_count: 71
+work_count: 72
 works:
   - title: Toshishita Chin Kui Obasan
     author: maccha-neji
@@ -373,6 +373,13 @@ works:
     date: '2026-08-31'
     code: 669505
     url: /works/669505/
+  - title: Drip Coffee→From♡You |
+    author: borusiti
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/670438.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 670438
+    url: /works/670438/
   - title: Pawahara Onna Joshi, Yowami wo Nigirarete Zenra Dogeza de Fukujuu S
     author: miyamoto-muga
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673775.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "group"
-work_count: 218
+work_count: 219
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -441,6 +441,13 @@ works:
     date: '2026-09-19'
     code: 622161
     url: /works/622161/
+  - title: ShotaOne Reality
+    author: uyuu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/622211.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 622211
+    url: /works/622211/
   - title: Succubus Seitokai Shiko Shiko Shikkoubu 3 | Succubus Student Council Milking
       Club 3
     author: michiking

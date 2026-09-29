@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "hairy"
-work_count: 255
+work_count: 257
 works:
   - title: Adoration
     author: kishizuka-kenji
@@ -840,6 +840,13 @@ works:
     date: '2026-09-18'
     code: 619717
     url: /works/619717/
+  - title: ShotaOne Reality
+    author: uyuu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/622211.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 622211
+    url: /works/622211/
   - title: 'Taihai Tsuma: Taihaikei Hitotsuma o Yachin Kawari ni Koki Tsukaeru Hanashi
       | Slutty Wife!'
     author: kametaro
@@ -1874,4 +1881,12 @@ works:
     date: '2026-09-28'
     code: 684647
     url: /works/684647/
+  - title: Anenuma. ~Seiso na Onee-san wa Boku o Yasashiku Juurin Suru~ | Anenuma. ~My
+      Stepsister's Gentle Domination~
+    author: pontaro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684789.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 684789
+    url: /works/684789/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "masturbation"
-work_count: 120
+work_count: 121
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -374,6 +374,13 @@ works:
     date: '2026-07-16'
     code: 617511
     url: /works/617511/
+  - title: ShotaOne Reality
+    author: uyuu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/622211.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 622211
+    url: /works/622211/
   - title: 'Bijutsubu Harem Katsudou Nisshi ~Senpai no Slump Kaishou ni Kyouryoku shitara,
       Ikioi de 3P suru Koto ni Natta Hanashi~ | Art Club Harem Activity Log: How Helping
       My Senior Get Over Her Slump Led to a Threesome in the Heat of the Moment'

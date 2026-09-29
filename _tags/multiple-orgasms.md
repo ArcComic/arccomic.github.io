@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "multiple orgasms"
-work_count: 99
+work_count: 101
 works:
   - title: Rako Slip!
     author: bujidearu
@@ -48,6 +48,14 @@ works:
     date: '2026-09-09'
     code: 457733
     url: /works/457733/
+  - title: Nomikai de Doroyoi Shitara Love Hotel de Onaho Yome ni Naru made Chinpo Choukyou
+      Saremashita
+    author: darabuchi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/473892.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 473892
+    url: /works/473892/
   - title: Seiso na Imouto no Tomodachi wa Mesugaki deshita | My Pure and Innocent Little
       Sister Became Friends With a Mesugaki
     author: kagono-tori
@@ -246,6 +254,13 @@ works:
     date: '2026-08-18'
     code: 619648
     url: /works/619648/
+  - title: ShotaOne Reality
+    author: uyuu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/622211.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 622211
+    url: /works/622211/
   - title: Igumox - Muramata-san no Himitsu & Aijou - Muramata-san's Secret & Affection
       COMPLETE
     author: igumox

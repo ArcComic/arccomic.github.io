@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "handjob"
-work_count: 122
+work_count: 124
 works:
   - title: Chibo Soukan Ch.1-3
     author: natsu-no-oyatsu
@@ -313,6 +313,13 @@ works:
     date: '2026-08-18'
     code: 619648
     url: /works/619648/
+  - title: ShotaOne Reality
+    author: uyuu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/622211.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 622211
+    url: /works/622211/
   - title: The Story of How My Brain Was Destroyed After Dating Someone Who Would Grant
       Any Request
     author: jakky
@@ -913,6 +920,14 @@ works:
     date: '2026-09-27'
     code: 684322
     url: /works/684322/
+  - title: Anenuma. ~Seiso na Onee-san wa Boku o Yasashiku Juurin Suru~ | Anenuma. ~My
+      Stepsister's Gentle Domination~
+    author: pontaro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684789.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 684789
+    url: /works/684789/
   - title: Onee-chan no SM Kouza | Onee-chan's S&M Lecture
     author: shinooka-homare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/88750.jpg

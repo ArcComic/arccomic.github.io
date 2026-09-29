@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "virginity"
-work_count: 127
+work_count: 129
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -524,6 +524,13 @@ works:
     date: '2026-04-27'
     code: 619405
     url: /works/619405/
+  - title: ShotaOne Reality
+    author: uyuu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/622211.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 622211
+    url: /works/622211/
   - title: Igumox - Muramata-san no Himitsu & Aijou - Muramata-san's Secret & Affection
       COMPLETE
     author: igumox
@@ -811,6 +818,13 @@ works:
     date: '2026-07-15'
     code: 664188
     url: /works/664188/
+  - title: Drip Coffee→From♡You |
+    author: borusiti
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/670438.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 670438
+    url: /works/670438/
   - title: My Secret With Kyouko Sensei 1 - Kyouko Sensei to Boku no Himitsu
     author: maimu-maimu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/671460.jpg

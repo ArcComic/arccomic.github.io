@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "femdom"
-work_count: 147
+work_count: 150
 works:
   - title: Life with Married Women Just Like a Manga 2 - Ch. 1-5
     author: hidemaru
@@ -178,6 +178,13 @@ works:
     date: '2026-09-12'
     code: 449158
     url: /works/449158/
+  - title: Onee-chan no Semen Server | My Big Sister's Semen Server
+    author: rainbow-zou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/453286.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 453286
+    url: /works/453286/
   - title: 'Revenge Massage: Moan More & Beg for Me!'
     author: aono-akira
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/481671.jpg
@@ -773,6 +780,13 @@ works:
     date: '2026-09-09'
     code: 665716
     url: /works/665716/
+  - title: Drip Coffee→From♡You |
+    author: borusiti
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/670438.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 670438
+    url: /works/670438/
   - title: Downer Hitozuma wa Teishu Kanpaku Otto o Wakaraseru | The Gloomy Housewife
       Puts Her Domineering Husband in His Place
     author: joucho
@@ -1067,6 +1081,14 @@ works:
     date: '2026-09-27'
     code: 684322
     url: /works/684322/
+  - title: Anenuma. ~Seiso na Onee-san wa Boku o Yasashiku Juurin Suru~ | Anenuma. ~My
+      Stepsister's Gentle Domination~
+    author: pontaro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684789.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 684789
+    url: /works/684789/
   - title: Jokyoushi - Hot For Teachers | Female Teachers
     author: drill-murata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/81375.jpg

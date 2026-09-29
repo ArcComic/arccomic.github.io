@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "translated"
-work_count: 1386
+work_count: 1391
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -1243,6 +1243,13 @@ works:
     date: '2026-04-27'
     code: 452482
     url: /works/452482/
+  - title: Onee-chan no Semen Server | My Big Sister's Semen Server
+    author: rainbow-zou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/453286.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 453286
+    url: /works/453286/
   - title: Yofukashi no Tsuma ~Murakami Kozue~ | Late-Night Wife ~Murakami Kozue~
     author: oobayashi-mori
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/453749.jpg
@@ -1394,6 +1401,14 @@ works:
     date: '2026-04-15'
     code: 472344
     url: /works/472344/
+  - title: Nomikai de Doroyoi Shitara Love Hotel de Onaho Yome ni Naru made Chinpo Choukyou
+      Saremashita
+    author: darabuchi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/473892.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 473892
+    url: /works/473892/
   - title: Seiso na Imouto no Tomodachi wa Mesugaki deshita | My Pure and Innocent Little
       Sister Became Friends With a Mesugaki
     author: kagono-tori
@@ -1634,7 +1649,7 @@ works:
   - title: 'Married Couple Swap: He’s Better Than My Husband'
     author: peter-mitsuru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/504645.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-28'
     code: 504645
     url: /works/504645/
@@ -3891,6 +3906,13 @@ works:
     date: '2026-09-19'
     code: 622161
     url: /works/622161/
+  - title: ShotaOne Reality
+    author: uyuu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/622211.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 622211
+    url: /works/622211/
   - title: Muramata-san no Aijou Ch. 6
     author: igumox
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/622857.jpg
@@ -7389,6 +7411,13 @@ works:
     date: '2026-09-12'
     code: 670195
     url: /works/670195/
+  - title: Drip Coffee→From♡You |
+    author: borusiti
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/670438.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 670438
+    url: /works/670438/
   - title: JK no Imouto no Furo Nozoki mashita - Hentai Aniki × Imouto
     author: iron-sugar
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/670708.jpg
@@ -10188,6 +10217,14 @@ works:
     date: '2026-09-28'
     code: 684659
     url: /works/684659/
+  - title: Anenuma. ~Seiso na Onee-san wa Boku o Yasashiku Juurin Suru~ | Anenuma. ~My
+      Stepsister's Gentle Domination~
+    author: pontaro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684789.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 684789
+    url: /works/684789/
   - title: Hottokenaino
     author: hara-shigeyuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/77864.jpg

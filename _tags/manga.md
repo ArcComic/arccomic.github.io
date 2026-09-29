@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "manga"
-work_count: 334
+work_count: 335
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -638,7 +638,7 @@ works:
   - title: 'Married Couple Swap: He’s Better Than My Husband'
     author: peter-mitsuru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/504645.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-28'
     code: 504645
     url: /works/504645/
@@ -1796,6 +1796,13 @@ works:
     date: '2026-08-19'
     code: 668867
     url: /works/668867/
+  - title: Drip Coffee→From♡You |
+    author: borusiti
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/670438.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 670438
+    url: /works/670438/
   - title: My Secret With Kyouko Sensei 1 - Kyouko Sensei to Boku no Himitsu
     author: maimu-maimu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/671460.jpg

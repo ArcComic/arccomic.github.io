@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "shotacon"
-work_count: 120
+work_count: 122
 works:
   - title: Hitozuma Hyakka
     author: hase-tsubura
@@ -164,6 +164,13 @@ works:
     date: '2026-03-05'
     code: 443909
     url: /works/443909/
+  - title: Onee-chan no Semen Server | My Big Sister's Semen Server
+    author: rainbow-zou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/453286.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 453286
+    url: /works/453286/
   - title: Onee-chan to Torokeru Kimochi SP 2 | The Melting Feeling with Onee-chan SP
       2
     author: sky
@@ -363,6 +370,13 @@ works:
     date: '2026-07-17'
     code: 615538
     url: /works/615538/
+  - title: ShotaOne Reality
+    author: uyuu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/622211.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 622211
+    url: /works/622211/
   - title: The Story of How My Brain Was Destroyed After Dating Someone Who Would Grant
       Any Request
     author: jakky

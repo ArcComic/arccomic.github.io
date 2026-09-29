@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sweating"
-work_count: 151
+work_count: 153
 works:
   - title: Kaisha de Iroiro | Gettin' Busy at the Office
     author: hara-shigeyuki
@@ -235,6 +235,14 @@ works:
     date: '2026-04-19'
     code: 465602
     url: /works/465602/
+  - title: Nomikai de Doroyoi Shitara Love Hotel de Onaho Yome ni Naru made Chinpo Choukyou
+      Saremashita
+    author: darabuchi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/473892.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 473892
+    url: /works/473892/
   - title: Konoe no Kyuujitsu | Konoe's Day Off
     author: alp
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/479447.jpg
@@ -957,6 +965,13 @@ works:
     date: '2026-08-19'
     code: 668867
     url: /works/668867/
+  - title: Drip Coffee→From♡You |
+    author: borusiti
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/670438.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 670438
+    url: /works/670438/
   - title: Yojouhan no Yuragi - Fluctuations in a Four-and-a-Half Tatami Room.
     author: syoukaki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/672154.jpg

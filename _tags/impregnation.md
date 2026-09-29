@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "impregnation"
-work_count: 125
+work_count: 126
 works:
   - title: Kousa suru Osu to Mesu | Male and Female Crossing
     author: ootsuka-kotora
@@ -185,6 +185,14 @@ works:
     date: '2026-04-19'
     code: 470023
     url: /works/470023/
+  - title: Nomikai de Doroyoi Shitara Love Hotel de Onaho Yome ni Naru made Chinpo Choukyou
+      Saremashita
+    author: darabuchi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/473892.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 473892
+    url: /works/473892/
   - title: Tomodachi no Mama ga Boku no Dekachin de Ikimakutta Oshougatsu Otoshidama
       Soushuuhen
     author: rk-2

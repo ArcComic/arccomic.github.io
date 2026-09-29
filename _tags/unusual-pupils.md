@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "unusual pupils"
-work_count: 64
+work_count: 66
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -97,6 +97,14 @@ works:
     date: '2026-04-15'
     code: 470025
     url: /works/470025/
+  - title: Nomikai de Doroyoi Shitara Love Hotel de Onaho Yome ni Naru made Chinpo Choukyou
+      Saremashita
+    author: darabuchi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/473892.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 473892
+    url: /works/473892/
   - title: Ore no Tsuma wa  Kanpeki  de Kawaii | My Wife's Cuteness is Perfect
     author: ono-kenuji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/482454.jpg
@@ -221,6 +229,13 @@ works:
     date: '2026-07-15'
     code: 616358
     url: /works/616358/
+  - title: ShotaOne Reality
+    author: uyuu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/622211.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 622211
+    url: /works/622211/
   - title: 'Bijutsubu Harem Katsudou Nisshi ~Senpai no Slump Kaishou ni Kyouryoku shitara,
       Ikioi de 3P suru Koto ni Natta Hanashi~ | Art Club Harem Activity Log: How Helping
       My Senior Get Over Her Slump Led to a Threesome in the Heat of the Moment'

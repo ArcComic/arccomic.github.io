@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "wholesome"
-work_count: 125
+work_count: 126
 works:
   - title: FLUFFY LAUGH GIRL
     author: shibasaki-syouzi
@@ -871,6 +871,13 @@ works:
     date: '2026-09-04'
     code: 669459
     url: /works/669459/
+  - title: Drip Coffee→From♡You |
+    author: borusiti
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/670438.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 670438
+    url: /works/670438/
   - title: Yojouhan no Yuragi - Fluctuations in a Four-and-a-Half Tatami Room.
     author: syoukaki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/672154.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "ahegao"
-work_count: 269
+work_count: 270
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -229,6 +229,14 @@ works:
     date: '2026-04-13'
     code: 471387
     url: /works/471387/
+  - title: Nomikai de Doroyoi Shitara Love Hotel de Onaho Yome ni Naru made Chinpo Choukyou
+      Saremashita
+    author: darabuchi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/473892.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 473892
+    url: /works/473892/
   - title: Seiso na Imouto no Tomodachi wa Mesugaki deshita | My Pure and Innocent Little
       Sister Became Friends With a Mesugaki
     author: kagono-tori
@@ -277,7 +285,7 @@ works:
   - title: 'Married Couple Swap: He’s Better Than My Husband'
     author: peter-mitsuru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/504645.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-28'
     code: 504645
     url: /works/504645/

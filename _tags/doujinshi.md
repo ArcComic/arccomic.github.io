@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "doujinshi"
-work_count: 1166
+work_count: 1170
 works:
   - title: Birthday
     author: hashiba-yachi
@@ -797,6 +797,13 @@ works:
     date: '2026-03-07'
     code: 452141
     url: /works/452141/
+  - title: Onee-chan no Semen Server | My Big Sister's Semen Server
+    author: rainbow-zou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/453286.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 453286
+    url: /works/453286/
   - title: VS Dekachin Ojisan
     author: bang-you-didori
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/453969.jpg
@@ -934,6 +941,14 @@ works:
     date: '2026-04-15'
     code: 472344
     url: /works/472344/
+  - title: Nomikai de Doroyoi Shitara Love Hotel de Onaho Yome ni Naru made Chinpo Choukyou
+      Saremashita
+    author: darabuchi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/473892.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 473892
+    url: /works/473892/
   - title: Seiso na Imouto no Tomodachi wa Mesugaki deshita | My Pure and Innocent Little
       Sister Became Friends With a Mesugaki
     author: kagono-tori
@@ -3102,6 +3117,13 @@ works:
     date: '2026-09-19'
     code: 622161
     url: /works/622161/
+  - title: ShotaOne Reality
+    author: uyuu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/622211.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 622211
+    url: /works/622211/
   - title: Kunoichi o shikan shi makuru manga
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/623910.jpg
@@ -8624,4 +8646,12 @@ works:
     date: '2026-09-28'
     code: 684659
     url: /works/684659/
+  - title: Anenuma. ~Seiso na Onee-san wa Boku o Yasashiku Juurin Suru~ | Anenuma. ~My
+      Stepsister's Gentle Domination~
+    author: pontaro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684789.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 684789
+    url: /works/684789/
 ---

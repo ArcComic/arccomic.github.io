@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "blowjob"
-work_count: 558
+work_count: 560
 works:
   - title: Office Love Scramble Ch. 1
     author: tohzai
@@ -458,6 +458,13 @@ works:
     date: '2026-04-27'
     code: 452482
     url: /works/452482/
+  - title: Onee-chan no Semen Server | My Big Sister's Semen Server
+    author: rainbow-zou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/453286.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 453286
+    url: /works/453286/
   - title: Yofukashi no Tsuma ~Murakami Kozue~ | Late-Night Wife ~Murakami Kozue~
     author: oobayashi-mori
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/453749.jpg
@@ -649,7 +656,7 @@ works:
   - title: 'Married Couple Swap: He’s Better Than My Husband'
     author: peter-mitsuru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/504645.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-28'
     code: 504645
     url: /works/504645/
@@ -3161,6 +3168,13 @@ works:
     date: '2026-09-12'
     code: 670195
     url: /works/670195/
+  - title: Drip Coffee→From♡You |
+    author: borusiti
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/670438.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 670438
+    url: /works/670438/
   - title: Friend With Benefit With My Friends Mom
     author: cammy
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/671657.jpg

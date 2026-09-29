@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "gokkun"
-work_count: 37
+work_count: 39
 works:
   - title: Itabasami na Wakachi Ai 4 | Love Divided Between a Rock and a Hard Place
       4
@@ -11,6 +11,13 @@ works:
     date: '2026-04-23'
     code: 448503
     url: /works/448503/
+  - title: Onee-chan no Semen Server | My Big Sister's Semen Server
+    author: rainbow-zou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/453286.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 453286
+    url: /works/453286/
   - title: Zamen Oogui Taikai | The Cum-Binge-Eating Championship
     author: yufuck
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/583437.jpg
@@ -282,4 +289,12 @@ works:
     date: '2026-09-27'
     code: 684392
     url: /works/684392/
+  - title: Anenuma. ~Seiso na Onee-san wa Boku o Yasashiku Juurin Suru~ | Anenuma. ~My
+      Stepsister's Gentle Domination~
+    author: pontaro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684789.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 684789
+    url: /works/684789/
 ---

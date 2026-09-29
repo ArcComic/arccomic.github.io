@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "ponytail"
-work_count: 153
+work_count: 155
 works:
   - title: Hikki Mother Fucker
     author: otochichi
@@ -347,6 +347,13 @@ works:
     date: '2026-09-11'
     code: 617600
     url: /works/617600/
+  - title: ShotaOne Reality
+    author: uyuu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/622211.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 622211
+    url: /works/622211/
   - title: Seishun o Yarinaosu nara Kondo koso Suki datta Doukyuusei to Tsukiatte Zettai
       Yarimakuritai. | If I'm Reliving My Life, This Time I Wanna Get With The Girl
       I Loved Back Then
@@ -839,6 +846,13 @@ works:
     date: '2026-09-10'
     code: 669748
     url: /works/669748/
+  - title: Drip Coffee→From♡You |
+    author: borusiti
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/670438.jpg
+    rating: 0.0
+    date: '2026-09-29'
+    code: 670438
+    url: /works/670438/
   - title: Yojouhan no Yuragi - Fluctuations in a Four-and-a-Half Tatami Room.
     author: syoukaki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/672154.jpg
