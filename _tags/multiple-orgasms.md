@@ -52,7 +52,7 @@ works:
       Saremashita
     author: darabuchi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/473892.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-29'
     code: 473892
     url: /works/473892/
@@ -98,7 +98,7 @@ works:
       Cheeky and Unfriendly Junior, Onda, has Become a Super-spoiled Brat???
     author: the-waidan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/512416.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-29'
     code: 512416
     url: /works/512416/
@@ -210,7 +210,7 @@ works:
   - title: Zutto Issho ni Ite Ageru kara
     author: borusiti
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/602074.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-29'
     code: 602074
     url: /works/602074/
@@ -272,7 +272,7 @@ works:
   - title: ShotaOne Reality
     author: uyuu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/622211.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-29'
     code: 622211
     url: /works/622211/
@@ -332,7 +332,7 @@ works:
   - title: I Want To See The Cool & Smart Guy's Face Warped in Humiliation
     author: the-waidan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/636751.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-29'
     code: 636751
     url: /works/636751/
@@ -555,7 +555,7 @@ works:
       of How I Made my Flirty Coworker my Woman
     author: araido-kagiri
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/658697.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-29'
     code: 658697
     url: /works/658697/
@@ -711,7 +711,7 @@ works:
       This Guy With Major Sadist Vibes Is Actually A Masochist??
     author: the-waidan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680788.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-09-29'
     code: 680788
     url: /works/680788/

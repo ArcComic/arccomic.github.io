@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "muscle"
-work_count: 101
+work_count: 102
 works:
   - title: Kousa suru Osu to Mesu | Male and Female Crossing
     author: ootsuka-kotora
@@ -361,7 +361,7 @@ works:
   - title: I Want To See The Cool & Smart Guy's Face Warped in Humiliation
     author: the-waidan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/636751.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-29'
     code: 636751
     url: /works/636751/
@@ -763,4 +763,11 @@ works:
     date: '2026-09-28'
     code: 684647
     url: /works/684647/
+  - title: Mesu ni shite kure! 3
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684800.jpg
+    rating: 4.6
+    date: '2026-09-29'
+    code: 684800
+    url: /works/684800/
 ---

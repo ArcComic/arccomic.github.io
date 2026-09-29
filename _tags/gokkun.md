@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "gokkun"
-work_count: 39
+work_count: 40
 works:
   - title: Itabasami na Wakachi Ai 4 | Love Divided Between a Rock and a Hard Place
       4
@@ -14,7 +14,7 @@ works:
   - title: Onee-chan no Semen Server | My Big Sister's Semen Server
     author: rainbow-zou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/453286.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-29'
     code: 453286
     url: /works/453286/
@@ -293,8 +293,15 @@ works:
       Stepsister's Gentle Domination~
     author: pontaro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684789.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-29'
     code: 684789
     url: /works/684789/
+  - title: Mesu ni shite kure! 3
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684800.jpg
+    rating: 4.6
+    date: '2026-09-29'
+    code: 684800
+    url: /works/684800/
 ---

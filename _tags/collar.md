@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "collar"
-work_count: 72
+work_count: 73
 works:
   - title: Kaisha de Iroiro | Gettin' Busy at the Office
     author: hara-shigeyuki
@@ -38,6 +38,13 @@ works:
     date: '2026-09-25'
     code: 408427
     url: /works/408427/
+  - title: Goldirocks a Killer Honey
+    author: tsukumo-nikyu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/416542.jpg
+    rating: 4.1
+    date: '2026-09-29'
+    code: 416542
+    url: /works/416542/
   - title: Utakata 2 ~Uraaka DoM Haken OL Onaho Choukyou~ | An Office Lady's Behind
       The Scenes Masochistic Onahole Training 2
     author: yuzuri-ai

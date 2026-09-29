@@ -125,7 +125,7 @@ works:
   - title: I Want To See The Cool & Smart Guy's Face Warped in Humiliation
     author: the-waidan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/636751.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-29'
     code: 636751
     url: /works/636751/
@@ -207,7 +207,7 @@ works:
       of How I Made my Flirty Coworker my Woman
     author: araido-kagiri
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/658697.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-29'
     code: 658697
     url: /works/658697/
@@ -252,7 +252,7 @@ works:
       This Guy With Major Sadist Vibes Is Actually A Masochist??
     author: the-waidan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680788.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-09-29'
     code: 680788
     url: /works/680788/

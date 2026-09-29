@@ -16,7 +16,7 @@ works:
       Cheeky and Unfriendly Junior, Onda, has Become a Super-spoiled Brat???
     author: the-waidan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/512416.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-29'
     code: 512416
     url: /works/512416/
@@ -46,7 +46,7 @@ works:
   - title: I Want To See The Cool & Smart Guy's Face Warped in Humiliation
     author: the-waidan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/636751.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-29'
     code: 636751
     url: /works/636751/
@@ -90,7 +90,7 @@ works:
       This Guy With Major Sadist Vibes Is Actually A Masochist??
     author: the-waidan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680788.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-09-29'
     code: 680788
     url: /works/680788/

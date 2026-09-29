@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "pixie cut"
-work_count: 75
+work_count: 76
 works:
   - title: Last Chance
     author: herio
@@ -571,4 +571,11 @@ works:
     date: '2026-09-28'
     code: 684643
     url: /works/684643/
+  - title: Mesu ni shite kure! 3
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684800.jpg
+    rating: 4.6
+    date: '2026-09-29'
+    code: 684800
+    url: /works/684800/
 ---

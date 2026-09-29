@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "fingering"
-work_count: 161
+work_count: 163
 works:
   - title: Watashi-tachi no Seikoui Tokubetsu Jisshuu -Zengi Hen-
     author: guglielmo
@@ -109,7 +109,7 @@ works:
       Saremashita
     author: darabuchi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/473892.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-29'
     code: 473892
     url: /works/473892/
@@ -120,6 +120,13 @@ works:
     date: '2026-09-13'
     code: 480065
     url: /works/480065/
+  - title: Houyuu
+    author: tsukumo-nikyu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/491042.jpg
+    rating: 4.5
+    date: '2026-09-29'
+    code: 491042
+    url: /works/491042/
   - title: Bocchi de Shinda Ore ga Bishoujo Nurse ni Natta Hanashi | The Story of How
       I Died Alone and Became a Sexy Nurse
     author: testame
@@ -1200,4 +1207,11 @@ works:
     date: '2026-09-28'
     code: 684647
     url: /works/684647/
+  - title: Mesu ni shite kure! 3
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684800.jpg
+    rating: 4.6
+    date: '2026-09-29'
+    code: 684800
+    url: /works/684800/
 ---

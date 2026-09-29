@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "beauty mark"
-work_count: 170
+work_count: 172
 works:
   - title: Uragiri no Ai wa Mitsu no Aji | Treacherous Love Tastes Like Honey
     author: cuzukago
@@ -125,6 +125,13 @@ works:
     date: '2026-03-05'
     code: 409929
     url: /works/409929/
+  - title: Goldirocks a Killer Honey
+    author: tsukumo-nikyu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/416542.jpg
+    rating: 4.1
+    date: '2026-09-29'
+    code: 416542
+    url: /works/416542/
   - title: Mirai ni Narenakatta Ano Hi kara | Beyond The Unfulfilled Future
     author: tamabi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/417221.jpg
@@ -198,6 +205,13 @@ works:
     date: '2026-09-26'
     code: 490633
     url: /works/490633/
+  - title: Houyuu
+    author: tsukumo-nikyu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/491042.jpg
+    rating: 4.5
+    date: '2026-09-29'
+    code: 491042
+    url: /works/491042/
   - title: Osananajimi wa Owari｜End of a Childhood Friendship
     author: henkuma
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/491312.jpg
@@ -872,7 +886,7 @@ works:
       of How I Made my Flirty Coworker my Woman
     author: araido-kagiri
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/658697.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-29'
     code: 658697
     url: /works/658697/

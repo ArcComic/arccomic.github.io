@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "rough translation"
-work_count: 581
+work_count: 582
 works:
   - title: Watashi no Karada, Okashi Shimasu. Bunny Girl Edition
     author: nectar
@@ -4244,4 +4244,11 @@ works:
     date: '2026-09-28'
     code: 684659
     url: /works/684659/
+  - title: Mesu ni shite kure! 3
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684800.jpg
+    rating: 4.6
+    date: '2026-09-29'
+    code: 684800
+    url: /works/684800/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "wholesome"
-work_count: 131
+work_count: 133
 works:
   - title: FLUFFY LAUGH GIRL
     author: shibasaki-syouzi
@@ -134,6 +134,13 @@ works:
     date: '2026-03-05'
     code: 414892
     url: /works/414892/
+  - title: Goldirocks a Killer Honey
+    author: tsukumo-nikyu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/416542.jpg
+    rating: 4.1
+    date: '2026-09-29'
+    code: 416542
+    url: /works/416542/
   - title: Mirai ni Narenakatta Ano Hi kara | Beyond The Unfulfilled Future
     author: tamabi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/417221.jpg
@@ -225,6 +232,13 @@ works:
     date: '2026-08-18'
     code: 482454
     url: /works/482454/
+  - title: Houyuu
+    author: tsukumo-nikyu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/491042.jpg
+    rating: 4.5
+    date: '2026-09-29'
+    code: 491042
+    url: /works/491042/
   - title: Onozomi deshitara Saimin wo ~Maki-san Himitsu no Renai Therapy~ | If you
       wish, hypnosis ~Maki-san's secret love therapy~
     author: meeko
@@ -266,7 +280,7 @@ works:
       Cheeky and Unfriendly Junior, Onda, has Become a Super-spoiled Brat???
     author: the-waidan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/512416.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-29'
     code: 512416
     url: /works/512416/
@@ -442,7 +456,7 @@ works:
   - title: Zutto Issho ni Ite Ageru kara
     author: borusiti
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/602074.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-29'
     code: 602074
     url: /works/602074/
@@ -635,7 +649,7 @@ works:
   - title: I Want To See The Cool & Smart Guy's Face Warped in Humiliation
     author: the-waidan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/636751.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-29'
     code: 636751
     url: /works/636751/
@@ -818,7 +832,7 @@ works:
   - title: Rental Office no Yuzuka-san | In A Rented Office With Yuzuka
     author: kiri-kiri-mai
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/656459.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-29'
     code: 656459
     url: /works/656459/
@@ -834,7 +848,7 @@ works:
       of How I Made my Flirty Coworker my Woman
     author: araido-kagiri
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/658697.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-29'
     code: 658697
     url: /works/658697/
@@ -911,7 +925,7 @@ works:
   - title: Drip Coffee→From♡You |
     author: borusiti
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/670438.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-29'
     code: 670438
     url: /works/670438/

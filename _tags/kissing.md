@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "kissing"
-work_count: 318
+work_count: 319
 works:
   - title: FLUFFY LAUGH GIRL
     author: shibasaki-syouzi
@@ -1605,7 +1605,7 @@ works:
       of How I Made my Flirty Coworker my Woman
     author: araido-kagiri
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/658697.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-29'
     code: 658697
     url: /works/658697/
@@ -2390,4 +2390,11 @@ works:
     date: '2026-09-28'
     code: 684647
     url: /works/684647/
+  - title: Mesu ni shite kure! 3
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684800.jpg
+    rating: 4.6
+    date: '2026-09-29'
+    code: 684800
+    url: /works/684800/
 ---

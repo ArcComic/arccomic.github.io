@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "manga"
-work_count: 336
+work_count: 337
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -605,6 +605,13 @@ works:
     date: '2026-04-17'
     code: 489004
     url: /works/489004/
+  - title: Houyuu
+    author: tsukumo-nikyu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/491042.jpg
+    rating: 4.5
+    date: '2026-09-29'
+    code: 491042
+    url: /works/491042/
   - title: SeFri no Senpai | 學姐是我的炮友
     author: gen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/494440.jpg
@@ -1089,7 +1096,7 @@ works:
   - title: Zutto Issho ni Ite Ageru kara
     author: borusiti
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/602074.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-29'
     code: 602074
     url: /works/602074/
@@ -1806,7 +1813,7 @@ works:
   - title: Drip Coffee→From♡You |
     author: borusiti
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/670438.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-29'
     code: 670438
     url: /works/670438/

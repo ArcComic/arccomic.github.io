@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "tomboy"
-work_count: 59
+work_count: 61
 works:
   - title: Kizashi
     author: yoshiura-kazuya
@@ -67,6 +67,13 @@ works:
     date: '2026-05-03'
     code: 415057
     url: /works/415057/
+  - title: Goldirocks a Killer Honey
+    author: tsukumo-nikyu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/416542.jpg
+    rating: 4.1
+    date: '2026-09-29'
+    code: 416542
+    url: /works/416542/
   - title: Doushia (Terasu MC)] Dorei Gazoku
     author: terasu-mc
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/427676.jpg
@@ -124,6 +131,13 @@ works:
     date: '2026-09-13'
     code: 480065
     url: /works/480065/
+  - title: Houyuu
+    author: tsukumo-nikyu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/491042.jpg
+    rating: 4.5
+    date: '2026-09-29'
+    code: 491042
+    url: /works/491042/
   - title: Obedience Part 1
     author: laliberte
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/501709.jpg

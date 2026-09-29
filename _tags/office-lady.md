@@ -71,7 +71,7 @@ works:
       Cheeky and Unfriendly Junior, Onda, has Become a Super-spoiled Brat???
     author: the-waidan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/512416.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-29'
     code: 512416
     url: /works/512416/
@@ -123,7 +123,7 @@ works:
   - title: Rental Office no Yuzuka-san | In A Rented Office With Yuzuka
     author: kiri-kiri-mai
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/656459.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-29'
     code: 656459
     url: /works/656459/
@@ -131,7 +131,7 @@ works:
       of How I Made my Flirty Coworker my Woman
     author: araido-kagiri
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/658697.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-29'
     code: 658697
     url: /works/658697/

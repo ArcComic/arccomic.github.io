@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "blowjob"
-work_count: 563
+work_count: 564
 works:
   - title: Office Love Scramble Ch. 1
     author: tohzai
@@ -461,7 +461,7 @@ works:
   - title: Onee-chan no Semen Server | My Big Sister's Semen Server
     author: rainbow-zou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/453286.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-29'
     code: 453286
     url: /works/453286/
@@ -2747,7 +2747,7 @@ works:
   - title: Rental Office no Yuzuka-san | In A Rented Office With Yuzuka
     author: kiri-kiri-mai
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/656459.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-29'
     code: 656459
     url: /works/656459/
@@ -2777,7 +2777,7 @@ works:
       of How I Made my Flirty Coworker my Woman
     author: araido-kagiri
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/658697.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-29'
     code: 658697
     url: /works/658697/
@@ -3186,7 +3186,7 @@ works:
   - title: Drip Coffee→From♡You |
     author: borusiti
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/670438.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-29'
     code: 670438
     url: /works/670438/
@@ -3678,7 +3678,7 @@ works:
       This Guy With Major Sadist Vibes Is Actually A Masochist??
     author: the-waidan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680788.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-09-29'
     code: 680788
     url: /works/680788/
@@ -4175,6 +4175,13 @@ works:
     date: '2026-09-28'
     code: 684647
     url: /works/684647/
+  - title: Mesu ni shite kure! 3
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684800.jpg
+    rating: 4.6
+    date: '2026-09-29'
+    code: 684800
+    url: /works/684800/
   - title: Jokyoushi - Hot For Teachers | Female Teachers
     author: drill-murata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/81375.jpg
