@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "femdom"
-work_count: 159
+work_count: 160
 works:
   - title: Life with Married Women Just Like a Manga 2 - Ch. 1-5
     author: hidemaru
@@ -42,7 +42,7 @@ works:
   - title: Akarui Kazoku Seikatsu
     author: pistonring-nishizawa
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/304307.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-29'
     code: 304307
     url: /works/304307/
@@ -178,7 +178,7 @@ works:
   - title: Nekura Kyonyuu no Onee-chan wa, Saiminshite de mo Otouto Chinpo o Netoritai
     author: borusiti
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/438138.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-29'
     code: 438138
     url: /works/438138/
@@ -717,7 +717,7 @@ works:
   - title: Kimi Omou Koi - I think of you.
     author: gentsuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/653792.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-29'
     code: 653792
     url: /works/653792/
@@ -789,6 +789,13 @@ works:
     date: '2026-07-15'
     code: 664193
     url: /works/664193/
+  - title: MORAL HAZARD ~Haitoku no Kyoudan~
+    author: hiraoka-ryuichi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/66420.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 66420
+    url: /works/66420/
   - title: Till Dick Do Us Part
     author: ratatatat74-mr-skull
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/664249.jpg

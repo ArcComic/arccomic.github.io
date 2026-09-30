@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bondage"
-work_count: 80
+work_count: 81
 works:
   - title: CHOCO x LOVE
     author: highlow
@@ -359,6 +359,13 @@ works:
     date: '2026-07-15'
     code: 664188
     url: /works/664188/
+  - title: MORAL HAZARD ~Haitoku no Kyoudan~
+    author: hiraoka-ryuichi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/66420.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 66420
+    url: /works/66420/
   - title: KAWAKAMI FROM THE SEXUAL RELIEF DIVISION
     author: carpsukidayo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/664460.jpg
@@ -580,7 +587,7 @@ works:
   - title: Kakko Ii kara Suki 2 [English] partial retranslation
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684642.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-29'
     code: 684642
     url: /works/684642/

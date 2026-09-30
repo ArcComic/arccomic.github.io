@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big areolae"
-work_count: 84
+work_count: 86
 works:
   - title: Kanojo no Kawaii Mieppari | My Cute Gyaru Girlfriend Is a Total Poser
     author: buta
@@ -10,6 +10,14 @@ works:
     date: '2026-08-23'
     code: 441114
     url: /works/441114/
+  - title: Otonari no Darashina Onee-san ni Nagusamerareru Hanashi | Comforted by the
+      Sloppy Girl Next Door
+    author: shouji-nigou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/451846.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 451846
+    url: /works/451846/
   - title: Musuko o Dokusen Suru Haha | The mother who monopolizes her son.
     author: yuriko-club
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/471998.jpg
@@ -68,7 +76,7 @@ works:
       with My Wife~
     author: same-manma
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/539661.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-29'
     code: 539661
     url: /works/539661/
@@ -191,7 +199,7 @@ works:
   - title: Ero Mangaka-san to Henshu-kun
     author: kibi-anmitsu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/641928.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-29'
     code: 641928
     url: /works/641928/
@@ -646,4 +654,12 @@ works:
     date: '2026-09-27'
     code: 684305
     url: /works/684305/
+  - title: InCha na Ore Dake ga Shitte Iru Seito Kaichou no Uragawa 2. ~Senbotsu Chikubi
+      no Senpai ga Kairaku ni Kuppuku Shite Ochiru made~
+    author: yuzuriha
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684758.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 684758
+    url: /works/684758/
 ---

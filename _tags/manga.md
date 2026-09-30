@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "manga"
-work_count: 346
+work_count: 350
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -216,7 +216,7 @@ works:
   - title: Akarui Kazoku Seikatsu
     author: pistonring-nishizawa
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/304307.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-29'
     code: 304307
     url: /works/304307/
@@ -359,7 +359,7 @@ works:
   - title: Doukyuusei no Wakai Haha | My Classmate's Young Mom
     author: aoki-kanji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/383623.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-29'
     code: 383623
     url: /works/383623/
@@ -782,7 +782,7 @@ works:
   - title: Mama to Boku to Mujintou | Me and mom and a deserted island
     author: yokkora
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/518005.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-29'
     code: 518005
     url: /works/518005/
@@ -1521,10 +1521,18 @@ works:
   - title: Kimi Omou Koi - I think of you.
     author: gentsuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/653792.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-29'
     code: 653792
     url: /works/653792/
+  - title: Kimi wa Kagayaku Tsukihana no You ni - Like a luminous moonflower, You Enrapture
+      My Heart. + Melonbooks Tokuten Sensei wa Yappari JK to Yaritai
+    author: gustav
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/655660.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 655660
+    url: /works/655660/
   - title: Jitsubo Kan ~Gifu no Inai Suki ni Jitsu no Haha o Muriyari Okashite Haramaeta
     author: louis-and-visee
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/656034.jpg
@@ -1778,6 +1786,13 @@ works:
     date: '2026-07-15'
     code: 664193
     url: /works/664193/
+  - title: MORAL HAZARD ~Haitoku no Kyoudan~
+    author: hiraoka-ryuichi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/66420.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 66420
+    url: /works/66420/
   - title: Ueno-kun wa Kaihatsu-zumi Dai 87 wa | Ueno-kun Has Been Developed Chapter
       87
     author: nakaura
@@ -1854,7 +1869,7 @@ works:
   - title: Kashiteyaru dake | I'll Just Let You Borrow It
     author: pontaro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/667065.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-29'
     code: 667065
     url: /works/667065/
@@ -2460,6 +2475,15 @@ works:
     date: '2026-09-28'
     code: 684647
     url: /works/684647/
+  - &id002
+    title: Isekai fukushu ~ore o ijimeta yatsura o saikyo sukiru de shihai suru~ 05
+    author: senakagashiri
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684964.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 684964
+    url: /works/684964/
+  - *id002
   - title: Hottokenaino
     author: hara-shigeyuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/77864.jpg

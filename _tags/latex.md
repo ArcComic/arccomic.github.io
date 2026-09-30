@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "latex"
-work_count: 7
+work_count: 8
 works:
+  - title: Datenshi no Yuuwaku -Office Angel Project- 1
+    author: hiraoka-ryuichi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/491622.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 491622
+    url: /works/491622/
   - title: Tawawa de Akarui Yakyuubu Manager ga Inshitsu na Kyoushi no Wana ni... Kanketsuhen
     author: ohkura-kazuya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/566052.jpg

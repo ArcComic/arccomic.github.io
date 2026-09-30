@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "x-ray"
-work_count: 292
+work_count: 295
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -28,7 +28,7 @@ works:
   - title: Shizuku-san wa Ore no Omoibito | My Neighbor Shizuka-San, My Fondest Desire
     author: saemon
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/269224.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-29'
     code: 269224
     url: /works/269224/
@@ -225,7 +225,7 @@ works:
   - title: Shuumatsu dakara Ippai Ichaicha Shi yo
     author: saemon
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/476145.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-29'
     code: 476145
     url: /works/476145/
@@ -315,7 +315,7 @@ works:
       with My Live-in Girlfriend
     author: migihaji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/520557.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-29'
     code: 520557
     url: /works/520557/
@@ -1237,6 +1237,14 @@ works:
     date: '2026-09-12'
     code: 651895
     url: /works/651895/
+  - title: Itoko no Nee-chan no Oppai Mondara Ecchi Suru Koto ni Natta Hanashi. | The
+      Story of How I Ended Up Having Sex After Groping My Cousin Sister's Boobs
+    author: shouji-nigou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651928.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 651928
+    url: /works/651928/
   - title: Kyonyuu no Tomodachi to Tsukiau made no Hanashi | Maybe We'll Start Dating
       Someday
     author: fuguta-ke
@@ -1624,7 +1632,7 @@ works:
   - title: Kashiteyaru dake | I'll Just Let You Borrow It
     author: pontaro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/667065.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-29'
     code: 667065
     url: /works/667065/
@@ -2174,6 +2182,22 @@ works:
     date: '2026-09-28'
     code: 684647
     url: /works/684647/
+  - title: InCha na Ore Dake ga Shitte Iru Seito Kaichou no Uragawa 2. ~Senbotsu Chikubi
+      no Senpai ga Kairaku ni Kuppuku Shite Ochiru made~
+    author: yuzuriha
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684758.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 684758
+    url: /works/684758/
+  - title: InCha na Ore dake ga Shitteiru Seitokaichou no Uragawa. ~Kakure Kyonyuu no
+      Senpai ga Kairaku ni Kuppuku Shite Ochiru made~
+    author: yuzuriha
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684759.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 684759
+    url: /works/684759/
   - title: Anenuma. ~Seiso na Onee-san wa Boku o Yasashiku Juurin Suru~ | Anenuma. ~My
       Stepsister's Gentle Domination~
     author: pontaro
@@ -2185,7 +2209,7 @@ works:
   - title: Mesu ni shite kure! 2
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684799.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-29'
     code: 684799
     url: /works/684799/

@@ -309,7 +309,7 @@ works:
   - title: Nekura Kyonyuu no Onee-chan wa, Saiminshite de mo Otouto Chinpo o Netoritai
     author: borusiti
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/438138.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-29'
     code: 438138
     url: /works/438138/
@@ -663,7 +663,7 @@ works:
       By The President's Son For Her Husbands Sake ~
     author: izuminoaru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/527520.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-29'
     code: 527520
     url: /works/527520/
@@ -671,7 +671,7 @@ works:
       Hen-
     author: haruhisky
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/528384.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-29'
     code: 528384
     url: /works/528384/
@@ -1107,7 +1107,7 @@ works:
   - title: Sakkin Zuke no Hitozuma -Kimura Mina to Kimodebu Oyaji no Ooya- 1 & 2
     author: hente
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/594884.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-29'
     code: 594884
     url: /works/594884/

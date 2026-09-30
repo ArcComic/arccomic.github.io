@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "footjob"
-work_count: 26
+work_count: 27
 works:
   - title: Sei no Kenryoku | The Power of Sex
     author: tomohiro-kai
@@ -97,6 +97,14 @@ works:
     date: '2026-05-05'
     code: 648093
     url: /works/648093/
+  - title: Kimi wa Kagayaku Tsukihana no You ni - Like a luminous moonflower, You Enrapture
+      My Heart. + Melonbooks Tokuten Sensei wa Yappari JK to Yaritai
+    author: gustav
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/655660.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 655660
+    url: /works/655660/
   - title: Mesugaki ni Saikyouiku o!! | Re-Educating A Smug-Brat!!
     author: type-yamada
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/664631.jpg

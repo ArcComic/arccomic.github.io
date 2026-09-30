@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "group"
-work_count: 224
+work_count: 226
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -56,7 +56,7 @@ works:
   - title: Akarui Kazoku Seikatsu
     author: pistonring-nishizawa
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/304307.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-29'
     code: 304307
     url: /works/304307/
@@ -233,7 +233,7 @@ works:
       By The President's Son For Her Husbands Sake ~
     author: izuminoaru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/527520.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-29'
     code: 527520
     url: /works/527520/
@@ -244,6 +244,14 @@ works:
     date: '2026-09-12'
     code: 527851
     url: /works/527851/
+  - title: MistakeR ~Jimi de Kyonyuu na Osananjimi wo Saimin Appli de Risou no Ero-gal
+      ni Kaizou Shite Koibito ni Suru Keikaku~
+    author: ueto-seri
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/528161.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 528161
+    url: /works/528161/
   - title: Jimi Kyonyuu No Stalker Onna Ni Gokuhaku Saretanode Yarimakutte Mita Hanashi
       2 | I Was Confessed To By A Plain Busty Stalker Girl, So I Fucked Her Like Crazy
       2
@@ -1029,6 +1037,13 @@ works:
     date: '2026-07-15'
     code: 664193
     url: /works/664193/
+  - title: MORAL HAZARD ~Haitoku no Kyoudan~
+    author: hiraoka-ryuichi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/66420.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 66420
+    url: /works/66420/
   - title: 'Hyakka Yuran - Sakura | Encyclopedia: Yu-Chan''s Cherry Blossoms'
     author: ueto-seri-ueto-ruri
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/664642.jpg
@@ -1640,7 +1655,7 @@ works:
   - title: Kakko Ii kara Suki 2 [English] partial retranslation
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684642.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-29'
     code: 684642
     url: /works/684642/

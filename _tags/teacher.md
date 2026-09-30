@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "teacher"
-work_count: 81
+work_count: 83
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -336,7 +336,7 @@ works:
   - title: Kimi Omou Koi - I think of you.
     author: gentsuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/653792.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-29'
     code: 653792
     url: /works/653792/
@@ -348,6 +348,14 @@ works:
     date: '2026-07-16'
     code: 655498
     url: /works/655498/
+  - title: Kimi wa Kagayaku Tsukihana no You ni - Like a luminous moonflower, You Enrapture
+      My Heart. + Melonbooks Tokuten Sensei wa Yappari JK to Yaritai
+    author: gustav
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/655660.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 655660
+    url: /works/655660/
   - title: Shinyuu Tatakitsubushi Kyousou Shiiku Seikatsu | A Life in Captivity The
       Competition to Break My Best Friend
     author: group
@@ -423,6 +431,13 @@ works:
     date: '2026-07-13'
     code: 663655
     url: /works/663655/
+  - title: MORAL HAZARD ~Haitoku no Kyoudan~
+    author: hiraoka-ryuichi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/66420.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 66420
+    url: /works/66420/
   - title: Ryuu no Gekirin
     author: p-n
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/664626.jpg

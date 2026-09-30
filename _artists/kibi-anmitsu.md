@@ -19,7 +19,7 @@ works:
     url: /works/530293/
   - title: Ero Mangaka-san to Henshu-kun
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/641928.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-29'
     code: 641928
     url: /works/641928/

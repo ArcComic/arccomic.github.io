@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "humiliation"
-work_count: 41
+work_count: 42
 works:
   - title: Doushia (Terasu MC)] Dorei Gazoku
     author: terasu-mc
@@ -24,6 +24,13 @@ works:
     date: '2026-09-26'
     code: 491312
     url: /works/491312/
+  - title: Datenshi no Yuuwaku -Office Angel Project- 1
+    author: hiraoka-ryuichi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/491622.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 491622
+    url: /works/491622/
   - title: Shut-less
     author: mr-hokke
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/531966.jpg
@@ -71,7 +78,7 @@ works:
   - title: Sakkin Zuke no Hitozuma -Kimura Mina to Kimodebu Oyaji no Ooya- 1 & 2
     author: hente
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/594884.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-29'
     code: 594884
     url: /works/594884/

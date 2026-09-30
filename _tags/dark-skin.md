@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "dark skin"
-work_count: 138
+work_count: 140
 works:
   - title: Birthday
     author: hashiba-yachi
@@ -258,6 +258,13 @@ works:
     date: '2026-05-04'
     code: 519713
     url: /works/519713/
+  - title: Wakana Shiki | Wakana Style
+    author: ueto-seri
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/520903.jpg
+    rating: 4.5
+    date: '2026-09-30'
+    code: 520903
+    url: /works/520903/
   - title: Iemoto no Uwaki ga Honki ni Natta Hi Zenpen | The Day the Grand Master's
       Affair Became Serious Part One
     author: rasson
@@ -331,6 +338,13 @@ works:
     date: '2026-09-24'
     code: 574409
     url: /works/574409/
+  - title: Danchou wa Zettai ni Barenai.
+    author: ueto-seri
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/575361.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 575361
+    url: /works/575361/
   - title: Her Predicaments
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/586417.jpg
@@ -1012,7 +1026,7 @@ works:
   - title: Kakko Ii kara Suki 2 [English] partial retranslation
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684642.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-29'
     code: 684642
     url: /works/684642/

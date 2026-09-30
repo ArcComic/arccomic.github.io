@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "tankoubon"
-work_count: 73
+work_count: 76
 works:
   - title: Kaisha de Iroiro | Gettin' Busy at the Office
     author: hara-shigeyuki
@@ -38,6 +38,13 @@ works:
     date: '2026-03-09'
     code: 460264
     url: /works/460264/
+  - title: Datenshi no Yuuwaku -Office Angel Project- 1
+    author: hiraoka-ryuichi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/491622.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 491622
+    url: /works/491622/
   - title: SeFri no Senpai | 學姐是我的炮友
     author: gen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/494440.jpg
@@ -221,10 +228,18 @@ works:
   - title: Kimi Omou Koi - I think of you.
     author: gentsuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/653792.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-29'
     code: 653792
     url: /works/653792/
+  - title: Kimi wa Kagayaku Tsukihana no You ni - Like a luminous moonflower, You Enrapture
+      My Heart. + Melonbooks Tokuten Sensei wa Yappari JK to Yaritai
+    author: gustav
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/655660.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 655660
+    url: /works/655660/
   - title: Tonari no Ayane-san Soushuuhen | My Neighbor Ayane Anthology
     author: herio
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/656319.jpg
@@ -320,6 +335,13 @@ works:
     date: '2026-09-19'
     code: 662751
     url: /works/662751/
+  - title: MORAL HAZARD ~Haitoku no Kyoudan~
+    author: hiraoka-ryuichi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/66420.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 66420
+    url: /works/66420/
   - title: 'Seifukusha ~Yami ni Ochiru Hitozuma-tachi~ | Sexploiter: Housewives Falling
       Into Darkness'
     author: hoshino-ryuichi

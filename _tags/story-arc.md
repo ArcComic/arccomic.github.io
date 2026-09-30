@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "story arc"
-work_count: 184
+work_count: 188
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -208,6 +208,13 @@ works:
     date: '2026-09-27'
     code: 483537
     url: /works/483537/
+  - title: Datenshi no Yuuwaku -Office Angel Project- 1
+    author: hiraoka-ryuichi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/491622.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 491622
+    url: /works/491622/
   - title: SeFri no Senpai | 學姐是我的炮友
     author: gen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/494440.jpg
@@ -287,7 +294,7 @@ works:
       Hen-
     author: haruhisky
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/528384.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-29'
     code: 528384
     url: /works/528384/
@@ -350,7 +357,7 @@ works:
       with My Wife~
     author: same-manma
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/539661.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-29'
     code: 539661
     url: /works/539661/
@@ -483,7 +490,7 @@ works:
   - title: Sakkin Zuke no Hitozuma -Kimura Mina to Kimodebu Oyaji no Ooya- 1 & 2
     author: hente
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/594884.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-29'
     code: 594884
     url: /works/594884/
@@ -1012,6 +1019,13 @@ works:
     date: '2026-07-13'
     code: 663672
     url: /works/663672/
+  - title: MORAL HAZARD ~Haitoku no Kyoudan~
+    author: hiraoka-ryuichi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/66420.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 66420
+    url: /works/66420/
   - title: Metamorphosis Chapter 3
     author: shindol
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/664216.jpg
@@ -1353,6 +1367,21 @@ works:
     date: '2026-09-26'
     code: 684010
     url: /works/684010/
+  - title: InCha na Ore dake ga Shitteiru Seitokaichou no Uragawa. ~Kakure Kyonyuu no
+      Senpai ga Kairaku ni Kuppuku Shite Ochiru made~
+    author: yuzuriha
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684759.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 684759
+    url: /works/684759/
+  - title: Isekai fukushu ~ore o ijimeta yatsura o saikyo sukiru de shihai suru~ 05
+    author: senakagashiri
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684964.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 684964
+    url: /works/684964/
   - title: Hottokenaino
     author: hara-shigeyuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/77864.jpg

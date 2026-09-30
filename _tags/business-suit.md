@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "business suit"
-work_count: 78
+work_count: 79
 works:
   - title: Kaisha de Iroiro | Gettin' Busy at the Office
     author: hara-shigeyuki
@@ -200,6 +200,13 @@ works:
     date: '2026-04-15'
     code: 485905
     url: /works/485905/
+  - title: Datenshi no Yuuwaku -Office Angel Project- 1
+    author: hiraoka-ryuichi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/491622.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 491622
+    url: /works/491622/
   - title: Boku no Chuugoku Bijin Slender Kyonyuu Tsuma ga Camera Model de Nugasarete
       Yarichin Tomo ni Netorareta Ken
     author: mitoreiyu
@@ -227,7 +234,7 @@ works:
       Hen-
     author: haruhisky
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/528384.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-29'
     code: 528384
     url: /works/528384/

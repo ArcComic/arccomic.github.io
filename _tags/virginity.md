@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "virginity"
-work_count: 135
+work_count: 139
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -81,6 +81,14 @@ works:
     date: '2026-09-12'
     code: 306725
     url: /works/306725/
+  - title: Ore no Hajimete wa Senpai ni Ubawaretai!! | I Want Senpai to Take My First
+      Time!!
+    author: saemon
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/312587.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 312587
+    url: /works/312587/
   - title: Onee-chan ga Ecchi na Koto bakka Suru kara... | My older sister only does
       obscene things...
     author: danimaru
@@ -240,7 +248,7 @@ works:
   - title: Nekura Kyonyuu no Onee-chan wa, Saiminshite de mo Otouto Chinpo o Netoritai
     author: borusiti
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/438138.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-29'
     code: 438138
     url: /works/438138/
@@ -260,6 +268,14 @@ works:
     date: '2026-03-05'
     code: 443909
     url: /works/443909/
+  - title: Otonari no Darashina Onee-san ni Nagusamerareru Hanashi | Comforted by the
+      Sloppy Girl Next Door
+    author: shouji-nigou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/451846.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 451846
+    url: /works/451846/
   - title: Sukina Hito, Sukina Koto
     author: ebi-fry-teishoku
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/452482.jpg
@@ -340,6 +356,14 @@ works:
     date: '2026-09-11'
     code: 512938
     url: /works/512938/
+  - title: MistakeR ~Jimi de Kyonyuu na Osananjimi wo Saimin Appli de Risou no Ero-gal
+      ni Kaizou Shite Koibito ni Suru Keikaku~
+    author: ueto-seri
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/528161.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 528161
+    url: /works/528161/
   - title: Keitai de Muchimuchi na Chounyuu JD ni Chinpo o Shigoki Agete Morau Hanashi
     author: yosyo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/531191.jpg
@@ -603,7 +627,7 @@ works:
   - title: TomoHaha to Onaji Yane no Shita de - Under The Same Roof With My Friend Mother
     author: takei-masaki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638764.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-09-29'
     code: 638764
     url: /works/638764/
@@ -748,6 +772,14 @@ works:
     date: '2026-09-12'
     code: 651895
     url: /works/651895/
+  - title: Itoko no Nee-chan no Oppai Mondara Ecchi Suru Koto ni Natta Hanashi. | The
+      Story of How I Ended Up Having Sex After Groping My Cousin Sister's Boobs
+    author: shouji-nigou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651928.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 651928
+    url: /works/651928/
   - title: Kyonyuu Kanojo ni Hitasura Shibori Toraremakuru Hanashi | Squeeze Until Empty
     author: fuguta-ke
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/652218.jpg

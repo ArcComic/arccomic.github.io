@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "deepthroat"
-work_count: 74
+work_count: 75
 works:
   - title: Toshishita Chin Kui Obasan
     author: maccha-neji
@@ -559,6 +559,14 @@ works:
     date: '2026-09-28'
     code: 684550
     url: /works/684550/
+  - title: InCha na Ore dake ga Shitteiru Seitokaichou no Uragawa. ~Kakure Kyonyuu no
+      Senpai ga Kairaku ni Kuppuku Shite Ochiru made~
+    author: yuzuriha
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684759.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 684759
+    url: /works/684759/
   - title: Mesu ni shite kure! 3
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684800.jpg

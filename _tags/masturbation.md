@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "masturbation"
-work_count: 124
+work_count: 126
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -174,7 +174,7 @@ works:
       Hen-
     author: haruhisky
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/528384.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-29'
     code: 528384
     url: /works/528384/
@@ -541,6 +541,14 @@ works:
     date: '2026-09-27'
     code: 650625
     url: /works/650625/
+  - title: Itoko no Nee-chan no Oppai Mondara Ecchi Suru Koto ni Natta Hanashi. | The
+      Story of How I Ended Up Having Sex After Groping My Cousin Sister's Boobs
+    author: shouji-nigou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651928.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 651928
+    url: /works/651928/
   - title: My Tall, Stacked, Virgin Boss 1
     author: yunamaro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654603.jpg
@@ -928,4 +936,12 @@ works:
     date: '2026-09-28'
     code: 684647
     url: /works/684647/
+  - title: InCha na Ore dake ga Shitteiru Seitokaichou no Uragawa. ~Kakure Kyonyuu no
+      Senpai ga Kairaku ni Kuppuku Shite Ochiru made~
+    author: yuzuriha
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684759.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 684759
+    url: /works/684759/
 ---

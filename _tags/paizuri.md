@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "paizuri"
-work_count: 205
+work_count: 207
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -935,7 +935,7 @@ works:
   - title: Kimi Omou Koi - I think of you.
     author: gentsuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/653792.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-29'
     code: 653792
     url: /works/653792/
@@ -1536,4 +1536,20 @@ works:
     date: '2026-09-28'
     code: 684570
     url: /works/684570/
+  - title: InCha na Ore Dake ga Shitte Iru Seito Kaichou no Uragawa 2. ~Senbotsu Chikubi
+      no Senpai ga Kairaku ni Kuppuku Shite Ochiru made~
+    author: yuzuriha
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684758.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 684758
+    url: /works/684758/
+  - title: InCha na Ore dake ga Shitteiru Seitokaichou no Uragawa. ~Kakure Kyonyuu no
+      Senpai ga Kairaku ni Kuppuku Shite Ochiru made~
+    author: yuzuriha
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684759.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 684759
+    url: /works/684759/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sex toys"
-work_count: 110
+work_count: 111
 works:
   - title: Ayami Hypno
     author: yasuhiro
@@ -124,7 +124,7 @@ works:
       Hen-
     author: haruhisky
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/528384.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-29'
     code: 528384
     url: /works/528384/
@@ -813,4 +813,12 @@ works:
     date: '2026-09-27'
     code: 684215
     url: /works/684215/
+  - title: InCha na Ore Dake ga Shitte Iru Seito Kaichou no Uragawa 2. ~Senbotsu Chikubi
+      no Senpai ga Kairaku ni Kuppuku Shite Ochiru made~
+    author: yuzuriha
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684758.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 684758
+    url: /works/684758/
 ---

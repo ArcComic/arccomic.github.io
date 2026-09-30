@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "rape"
-work_count: 213
+work_count: 216
 works:
   - title: Office Love Scramble Ch. 1
     author: tohzai
@@ -407,7 +407,7 @@ works:
       By The President's Son For Her Husbands Sake ~
     author: izuminoaru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/527520.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-29'
     code: 527520
     url: /works/527520/
@@ -1176,6 +1176,13 @@ works:
     date: '2026-07-15'
     code: 664193
     url: /works/664193/
+  - title: MORAL HAZARD ~Haitoku no Kyoudan~
+    author: hiraoka-ryuichi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/66420.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 66420
+    url: /works/66420/
   - title: Metamorphosis Chapter 3
     author: shindol
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/664216.jpg
@@ -1551,4 +1558,20 @@ works:
     date: '2026-09-28'
     code: 684659
     url: /works/684659/
+  - title: InCha na Ore Dake ga Shitte Iru Seito Kaichou no Uragawa 2. ~Senbotsu Chikubi
+      no Senpai ga Kairaku ni Kuppuku Shite Ochiru made~
+    author: yuzuriha
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684758.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 684758
+    url: /works/684758/
+  - title: InCha na Ore dake ga Shitteiru Seitokaichou no Uragawa. ~Kakure Kyonyuu no
+      Senpai ga Kairaku ni Kuppuku Shite Ochiru made~
+    author: yuzuriha
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684759.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 684759
+    url: /works/684759/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "hotpants"
-work_count: 17
+work_count: 18
 works:
   - title: Namaiki na Imouto ga Ore no SeFri ni Natta Keii | How My Cheeky Little Sister
       and I Became Sex Friends With Benefits
@@ -22,7 +22,7 @@ works:
       Hen-
     author: haruhisky
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/528384.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-29'
     code: 528384
     url: /works/528384/
@@ -94,6 +94,14 @@ works:
     date: '2026-04-27'
     code: 646385
     url: /works/646385/
+  - title: Itoko no Nee-chan no Oppai Mondara Ecchi Suru Koto ni Natta Hanashi. | The
+      Story of How I Ended Up Having Sex After Groping My Cousin Sister's Boobs
+    author: shouji-nigou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651928.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 651928
+    url: /works/651928/
   - title: Natsu Loli Ism Ch. 1-4
     author: molokonomi-hiraya-nobori
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/663056.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "impregnation"
-work_count: 130
+work_count: 132
 works:
   - title: Kousa suru Osu to Mesu | Male and Female Crossing
     author: ootsuka-kotora
@@ -239,10 +239,17 @@ works:
   - title: Mama to Boku to Mujintou | Me and mom and a deserted island
     author: yokkora
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/518005.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-29'
     code: 518005
     url: /works/518005/
+  - title: Wakana Shiki | Wakana Style
+    author: ueto-seri
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/520903.jpg
+    rating: 4.5
+    date: '2026-09-30'
+    code: 520903
+    url: /works/520903/
   - title: A tale of an Elf adventurer (♀) being visited at night and bred by an innkeeper
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/526619.jpg
@@ -254,7 +261,7 @@ works:
       Hen-
     author: haruhisky
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/528384.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-29'
     code: 528384
     url: /works/528384/
@@ -628,6 +635,14 @@ works:
     date: '2026-09-11'
     code: 654091
     url: /works/654091/
+  - title: Kimi wa Kagayaku Tsukihana no You ni - Like a luminous moonflower, You Enrapture
+      My Heart. + Melonbooks Tokuten Sensei wa Yappari JK to Yaritai
+    author: gustav
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/655660.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 655660
+    url: /works/655660/
   - title: Mukashi Kara Otokoppoi Osananajimi mo Chanto Mesu ni Sodachimashita | Even
       My Tomboy Childhood Friend Matured Into a Proper Woman
     author: natsuzo

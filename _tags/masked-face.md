@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "masked face"
-work_count: 13
+work_count: 14
 works:
   - title: Marebito Kitari Te
     author: yoshika
@@ -10,6 +10,13 @@ works:
     date: '2026-09-15'
     code: 443073
     url: /works/443073/
+  - title: Datenshi no Yuuwaku -Office Angel Project- 1
+    author: hiraoka-ryuichi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/491622.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 491622
+    url: /works/491622/
   - title: Eroi Koto Igai de Toki o Tomete wa Dame desu yo 2
     author: ohkura-kazuya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/615835.jpg

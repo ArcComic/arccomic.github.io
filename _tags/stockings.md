@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "stockings"
-work_count: 202
+work_count: 205
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -847,7 +847,7 @@ works:
   - title: Kimi Omou Koi - I think of you.
     author: gentsuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/653792.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-29'
     code: 653792
     url: /works/653792/
@@ -858,6 +858,14 @@ works:
     date: '2026-09-22'
     code: 655339
     url: /works/655339/
+  - title: Kimi wa Kagayaku Tsukihana no You ni - Like a luminous moonflower, You Enrapture
+      My Heart. + Melonbooks Tokuten Sensei wa Yappari JK to Yaritai
+    author: gustav
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/655660.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 655660
+    url: /works/655660/
   - title: Te o Dashitara Tsumu Bitch Onna to Suru Sex ga Ichiban Kimochi Ii!! | Sex
       with a Toxic Bitch who will Ruin Your Life is the Absolute Best!!
     author: alpha-beta
@@ -986,6 +994,13 @@ works:
     date: '2026-07-15'
     code: 664188
     url: /works/664188/
+  - title: MORAL HAZARD ~Haitoku no Kyoudan~
+    author: hiraoka-ryuichi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/66420.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 66420
+    url: /works/66420/
   - title: Erolive Shiori Novella
     author: doji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/664590.jpg
@@ -1483,6 +1498,14 @@ works:
     date: '2026-09-28'
     code: 684611
     url: /works/684611/
+  - title: InCha na Ore dake ga Shitteiru Seitokaichou no Uragawa. ~Kakure Kyonyuu no
+      Senpai ga Kairaku ni Kuppuku Shite Ochiru made~
+    author: yuzuriha
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684759.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 684759
+    url: /works/684759/
   - title: Jokyoushi - Hot For Teachers | Female Teachers
     author: drill-murata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/81375.jpg

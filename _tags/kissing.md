@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "kissing"
-work_count: 328
+work_count: 331
 works:
   - title: FLUFFY LAUGH GIRL
     author: shibasaki-syouzi
@@ -20,10 +20,18 @@ works:
   - title: Akarui Kazoku Seikatsu
     author: pistonring-nishizawa
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/304307.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-29'
     code: 304307
     url: /works/304307/
+  - title: Ore no Hajimete wa Senpai ni Ubawaretai!! | I Want Senpai to Take My First
+      Time!!
+    author: saemon
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/312587.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 312587
+    url: /works/312587/
   - title: Kono Furin wa Otto no Tame "Anata, Yurushite…." To, Netorareru Tsuma | 這場外遇是為了老公「親愛的，原諒我…」這樣說著，為老公戴綠帽的妻子
     author: korosuke
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/328805.jpg
@@ -417,7 +425,7 @@ works:
       By The President's Son For Her Husbands Sake ~
     author: izuminoaru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/527520.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-29'
     code: 527520
     url: /works/527520/
@@ -436,6 +444,14 @@ works:
     date: '2026-09-24'
     code: 527651
     url: /works/527651/
+  - title: MistakeR ~Jimi de Kyonyuu na Osananjimi wo Saimin Appli de Risou no Ero-gal
+      ni Kaizou Shite Koibito ni Suru Keikaku~
+    author: ueto-seri
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/528161.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 528161
+    url: /works/528161/
   - title: Netorareru.~ Tsuma ga Ochi Yuku Hen'ai Kairaku no Hate ni...1-5 | NETORARERU,
       A Wife's Descent Into Sinful Pleasures 1-5
     author: yuuki-ryo
@@ -1535,6 +1551,14 @@ works:
     date: '2026-09-12'
     code: 651895
     url: /works/651895/
+  - title: Itoko no Nee-chan no Oppai Mondara Ecchi Suru Koto ni Natta Hanashi. | The
+      Story of How I Ended Up Having Sex After Groping My Cousin Sister's Boobs
+    author: shouji-nigou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651928.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 651928
+    url: /works/651928/
   - title: Kyonyuu Kanojo ni Hitasura Shibori Toraremakuru Hanashi | Squeeze Until Empty
     author: fuguta-ke
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/652218.jpg
@@ -2444,14 +2468,14 @@ works:
   - title: Mesu ni shite kure!
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684798.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-29'
     code: 684798
     url: /works/684798/
   - title: Mesu ni shite kure! 2
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684799.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-29'
     code: 684799
     url: /works/684799/

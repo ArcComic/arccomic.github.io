@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "harem"
-work_count: 34
+work_count: 35
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -148,6 +148,13 @@ works:
     date: '2026-07-15'
     code: 664188
     url: /works/664188/
+  - title: MORAL HAZARD ~Haitoku no Kyoudan~
+    author: hiraoka-ryuichi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/66420.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 66420
+    url: /works/66420/
   - title: 'Mom Friend Harem 2 ~Lewd Hot Spring Trip: Filled to the Brim with Cum~'
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/666748.jpg

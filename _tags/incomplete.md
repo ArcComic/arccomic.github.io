@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "incomplete"
-work_count: 13
+work_count: 14
 works:
   - title: Kizashi
     author: yoshiura-kazuya
@@ -95,4 +95,12 @@ works:
     date: '2026-08-25'
     code: 654373
     url: /works/654373/
+  - title: Kimi wa Kagayaku Tsukihana no You ni - Like a luminous moonflower, You Enrapture
+      My Heart. + Melonbooks Tokuten Sensei wa Yappari JK to Yaritai
+    author: gustav
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/655660.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 655660
+    url: /works/655660/
 ---

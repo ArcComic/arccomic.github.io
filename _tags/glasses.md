@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "glasses"
-work_count: 241
+work_count: 244
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -69,7 +69,7 @@ works:
   - title: Shizuku-san wa Ore no Omoibito | My Neighbor Shizuka-San, My Fondest Desire
     author: saemon
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/269224.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-29'
     code: 269224
     url: /works/269224/
@@ -229,7 +229,7 @@ works:
   - title: Nekura Kyonyuu no Onee-chan wa, Saiminshite de mo Otouto Chinpo o Netoritai
     author: borusiti
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/438138.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-29'
     code: 438138
     url: /works/438138/
@@ -262,6 +262,14 @@ works:
     date: '2026-04-23'
     code: 448503
     url: /works/448503/
+  - title: Otonari no Darashina Onee-san ni Nagusamerareru Hanashi | Comforted by the
+      Sloppy Girl Next Door
+    author: shouji-nigou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/451846.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 451846
+    url: /works/451846/
   - title: Sukina Hito, Sukina Koto
     author: ebi-fry-teishoku
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/452482.jpg
@@ -428,7 +436,7 @@ works:
       Hen-
     author: haruhisky
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/528384.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-29'
     code: 528384
     url: /works/528384/
@@ -804,7 +812,7 @@ works:
   - title: Ero Mangaka-san to Henshu-kun
     author: kibi-anmitsu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/641928.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-29'
     code: 641928
     url: /works/641928/
@@ -1011,6 +1019,14 @@ works:
     date: '2026-05-21'
     code: 651499
     url: /works/651499/
+  - title: Itoko no Nee-chan no Oppai Mondara Ecchi Suru Koto ni Natta Hanashi. | The
+      Story of How I Ended Up Having Sex After Groping My Cousin Sister's Boobs
+    author: shouji-nigou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651928.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 651928
+    url: /works/651928/
   - title: Tooi Kimi ni, Boku wa Todokanai | I can't reach you, far away.
     author: futamine-kobito
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651967.jpg
@@ -1070,6 +1086,14 @@ works:
     date: '2026-09-11'
     code: 654850
     url: /works/654850/
+  - title: Kimi wa Kagayaku Tsukihana no You ni - Like a luminous moonflower, You Enrapture
+      My Heart. + Melonbooks Tokuten Sensei wa Yappari JK to Yaritai
+    author: gustav
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/655660.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 655660
+    url: /works/655660/
   - title: Tonari no Ayane-san Soushuuhen | My Neighbor Ayane Anthology
     author: herio
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/656319.jpg
@@ -1744,7 +1768,7 @@ works:
       Seishori Saserarete...~
     author: x-pierrot
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684509.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-29'
     code: 684509
     url: /works/684509/

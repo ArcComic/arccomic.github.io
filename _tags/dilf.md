@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "dilf"
-work_count: 180
+work_count: 181
 works:
   - title: Adoration
     author: kishizuka-kenji
@@ -340,6 +340,13 @@ works:
     date: '2026-05-04'
     code: 519713
     url: /works/519713/
+  - title: Wakana Shiki | Wakana Style
+    author: ueto-seri
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/520903.jpg
+    rating: 4.5
+    date: '2026-09-30'
+    code: 520903
+    url: /works/520903/
   - title: Tsugunai Tsuma 1
     author: ren-suru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/526024.jpg
@@ -1311,7 +1318,7 @@ works:
       Seishori Saserarete...~
     author: x-pierrot
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684509.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-29'
     code: 684509
     url: /works/684509/

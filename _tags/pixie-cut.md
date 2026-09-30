@@ -1,12 +1,12 @@
 ---
 layout: tag
 tag_name: "pixie cut"
-work_count: 84
+work_count: 85
 works:
   - title: Akarui Kazoku Seikatsu
     author: pistonring-nishizawa
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/304307.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-29'
     code: 304307
     url: /works/304307/
@@ -326,6 +326,14 @@ works:
     date: '2026-05-20'
     code: 651338
     url: /works/651338/
+  - title: Itoko no Nee-chan no Oppai Mondara Ecchi Suru Koto ni Natta Hanashi. | The
+      Story of How I Ended Up Having Sex After Groping My Cousin Sister's Boobs
+    author: shouji-nigou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651928.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 651928
+    url: /works/651928/
   - title: My Impertinent and Curt Kouhai Becomes Surprisingly Clingy???
     author: buki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/652667.jpg
@@ -603,7 +611,7 @@ works:
   - title: Kakko Ii kara Suki 2 [English] partial retranslation
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684642.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-29'
     code: 684642
     url: /works/684642/
@@ -617,14 +625,14 @@ works:
   - title: Mesu ni shite kure!
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684798.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-29'
     code: 684798
     url: /works/684798/
   - title: Mesu ni shite kure! 2
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684799.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-29'
     code: 684799
     url: /works/684799/

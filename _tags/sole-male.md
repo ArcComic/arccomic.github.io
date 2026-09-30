@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole male"
-work_count: 809
+work_count: 818
 works:
   - title: Adoration
     author: kishizuka-kenji
@@ -64,7 +64,7 @@ works:
   - title: Shizuku-san wa Ore no Omoibito | My Neighbor Shizuka-San, My Fondest Desire
     author: saemon
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/269224.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-29'
     code: 269224
     url: /works/269224/
@@ -148,7 +148,7 @@ works:
   - title: Akarui Kazoku Seikatsu
     author: pistonring-nishizawa
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/304307.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-29'
     code: 304307
     url: /works/304307/
@@ -195,6 +195,14 @@ works:
     date: '2026-05-10'
     code: 311755
     url: /works/311755/
+  - title: Ore no Hajimete wa Senpai ni Ubawaretai!! | I Want Senpai to Take My First
+      Time!!
+    author: saemon
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/312587.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 312587
+    url: /works/312587/
   - title: Gakkou to Bed ja Seihantai no, Okkina Kanojo. | My Big Girlfriend Acts the
       Polar Opposite in Bed and at School.
     author: mikemono-yuu
@@ -428,7 +436,7 @@ works:
   - title: Doukyuusei no Wakai Haha | My Classmate's Young Mom
     author: aoki-kanji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/383623.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-29'
     code: 383623
     url: /works/383623/
@@ -733,7 +741,7 @@ works:
   - title: Nekura Kyonyuu no Onee-chan wa, Saiminshite de mo Otouto Chinpo o Netoritai
     author: borusiti
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/438138.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-29'
     code: 438138
     url: /works/438138/
@@ -805,6 +813,14 @@ works:
     date: '2026-09-18'
     code: 450112
     url: /works/450112/
+  - title: Otonari no Darashina Onee-san ni Nagusamerareru Hanashi | Comforted by the
+      Sloppy Girl Next Door
+    author: shouji-nigou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/451846.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 451846
+    url: /works/451846/
   - title: Onee-chan no Semen Server | My Big Sister's Semen Server
     author: rainbow-zou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/453286.jpg
@@ -918,7 +934,7 @@ works:
   - title: Shuumatsu dakara Ippai Ichaicha Shi yo
     author: saemon
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/476145.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-29'
     code: 476145
     url: /works/476145/
@@ -1215,7 +1231,7 @@ works:
   - title: Mama to Boku to Mujintou | Me and mom and a deserted island
     author: yokkora
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/518005.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-29'
     code: 518005
     url: /works/518005/
@@ -1239,10 +1255,17 @@ works:
       with My Live-in Girlfriend
     author: migihaji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/520557.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-29'
     code: 520557
     url: /works/520557/
+  - title: Wakana Shiki | Wakana Style
+    author: ueto-seri
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/520903.jpg
+    rating: 4.5
+    date: '2026-09-30'
+    code: 520903
+    url: /works/520903/
   - title: Chotto Daruikedo Yasashikute Mendoumi ga Yokute Ironna Keiken Sasete Kureru
       Senpai no Hanashi | My Pain-In-The-Ass Yet Nice And Caring Senior Collegue
     author: nako-sir
@@ -1296,6 +1319,14 @@ works:
     date: '2026-09-24'
     code: 527651
     url: /works/527651/
+  - title: MistakeR ~Jimi de Kyonyuu na Osananjimi wo Saimin Appli de Risou no Ero-gal
+      ni Kaizou Shite Koibito ni Suru Keikaku~
+    author: ueto-seri
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/528161.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 528161
+    url: /works/528161/
   - title: Cool-Dere Kinpatsu Hitozuma Zenra Kaseifu san ga Yanda Boku ni Yasashiku
       Shite Kureta Ohanashi 1| Naked Blonde Kuudere Housekeeper Wife Kindly Treats Broken
       Ol' Me 01
@@ -1454,7 +1485,7 @@ works:
       with My Wife~
     author: same-manma
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/539661.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-29'
     code: 539661
     url: /works/539661/
@@ -1730,6 +1761,13 @@ works:
     date: '2026-09-12'
     code: 573973
     url: /works/573973/
+  - title: Danchou wa Zettai ni Barenai.
+    author: ueto-seri
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/575361.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 575361
+    url: /works/575361/
   - title: Kimottama Kaa-chan to Kenka Bakari no Neet no Ore ga Kaa-san ni Nakadashi
       shite kara Nakayoku natta Hanashi - A story about How I, A NEET Who Always Fought
       with My Gutsy Mother,
@@ -2857,7 +2895,7 @@ works:
   - title: TomoHaha to Onaji Yane no Shita de - Under The Same Roof With My Friend Mother
     author: takei-masaki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638764.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-09-29'
     code: 638764
     url: /works/638764/
@@ -2924,7 +2962,7 @@ works:
   - title: Ero Mangaka-san to Henshu-kun
     author: kibi-anmitsu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/641928.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-29'
     code: 641928
     url: /works/641928/
@@ -3664,6 +3702,14 @@ works:
     date: '2026-09-12'
     code: 651895
     url: /works/651895/
+  - title: Itoko no Nee-chan no Oppai Mondara Ecchi Suru Koto ni Natta Hanashi. | The
+      Story of How I Ended Up Having Sex After Groping My Cousin Sister's Boobs
+    author: shouji-nigou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651928.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 651928
+    url: /works/651928/
   - title: Kyonyuu Kanojo ni Hitasura Shibori Toraremakuru Hanashi | Squeeze Until Empty
     author: fuguta-ke
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/652218.jpg
@@ -3863,6 +3909,14 @@ works:
     date: '2026-09-11'
     code: 655514
     url: /works/655514/
+  - title: Kimi wa Kagayaku Tsukihana no You ni - Like a luminous moonflower, You Enrapture
+      My Heart. + Melonbooks Tokuten Sensei wa Yappari JK to Yaritai
+    author: gustav
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/655660.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 655660
+    url: /works/655660/
   - title: Gomen, Kaa-san Otonashiiku Shite
     author: daidai-shikibu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/656143.jpg
@@ -4493,7 +4547,7 @@ works:
   - title: Kashiteyaru dake | I'll Just Let You Borrow It
     author: pontaro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/667065.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-29'
     code: 667065
     url: /works/667065/
@@ -5962,7 +6016,7 @@ works:
   - title: Kakko Ii kara Suki 2 [English] partial retranslation
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684642.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-29'
     code: 684642
     url: /works/684642/
@@ -5980,6 +6034,22 @@ works:
     date: '2026-09-28'
     code: 684647
     url: /works/684647/
+  - title: InCha na Ore Dake ga Shitte Iru Seito Kaichou no Uragawa 2. ~Senbotsu Chikubi
+      no Senpai ga Kairaku ni Kuppuku Shite Ochiru made~
+    author: yuzuriha
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684758.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 684758
+    url: /works/684758/
+  - title: InCha na Ore dake ga Shitteiru Seitokaichou no Uragawa. ~Kakure Kyonyuu no
+      Senpai ga Kairaku ni Kuppuku Shite Ochiru made~
+    author: yuzuriha
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684759.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 684759
+    url: /works/684759/
   - title: Anenuma. ~Seiso na Onee-san wa Boku o Yasashiku Juurin Suru~ | Anenuma. ~My
       Stepsister's Gentle Domination~
     author: pontaro
@@ -5991,14 +6061,14 @@ works:
   - title: Mesu ni shite kure!
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684798.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-29'
     code: 684798
     url: /works/684798/
   - title: Mesu ni shite kure! 2
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684799.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-29'
     code: 684799
     url: /works/684799/

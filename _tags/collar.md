@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "collar"
-work_count: 74
+work_count: 78
 works:
   - title: Kaisha de Iroiro | Gettin' Busy at the Office
     author: hara-shigeyuki
@@ -67,6 +67,14 @@ works:
     date: '2026-04-19'
     code: 512715
     url: /works/512715/
+  - title: MistakeR ~Jimi de Kyonyuu na Osananjimi wo Saimin Appli de Risou no Ero-gal
+      ni Kaizou Shite Koibito ni Suru Keikaku~
+    author: ueto-seri
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/528161.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 528161
+    url: /works/528161/
   - title: Anata no Shiori ni Naritai - I Just Want To Be Your Shiori
     author: naokomama
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/530476.jpg
@@ -361,6 +369,14 @@ works:
     date: '2026-05-26'
     code: 652218
     url: /works/652218/
+  - title: Kimi wa Kagayaku Tsukihana no You ni - Like a luminous moonflower, You Enrapture
+      My Heart. + Melonbooks Tokuten Sensei wa Yappari JK to Yaritai
+    author: gustav
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/655660.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 655660
+    url: /works/655660/
   - title: 'Doll Muchi na Jinzou Otome-tachi -Eve Hen 2- | Dolls: Oblivious Man-made
       Maidens -Eve Pt.2-'
     author: ushinomiya
@@ -551,4 +567,20 @@ works:
     date: '2026-09-27'
     code: 684191
     url: /works/684191/
+  - title: InCha na Ore Dake ga Shitte Iru Seito Kaichou no Uragawa 2. ~Senbotsu Chikubi
+      no Senpai ga Kairaku ni Kuppuku Shite Ochiru made~
+    author: yuzuriha
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684758.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 684758
+    url: /works/684758/
+  - title: InCha na Ore dake ga Shitteiru Seitokaichou no Uragawa. ~Kakure Kyonyuu no
+      Senpai ga Kairaku ni Kuppuku Shite Ochiru made~
+    author: yuzuriha
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684759.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 684759
+    url: /works/684759/
 ---

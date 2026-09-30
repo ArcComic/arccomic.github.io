@@ -409,13 +409,13 @@ works:
     url: /works/684659/
   - title: Mesu ni shite kure!
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684798.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-29'
     code: 684798
     url: /works/684798/
   - title: Mesu ni shite kure! 2
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684799.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-29'
     code: 684799
     url: /works/684799/

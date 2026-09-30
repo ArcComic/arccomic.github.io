@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "exhibitionism"
-work_count: 70
+work_count: 71
 works:
   - title: Watashi-tachi no Seikoui Tokubetsu Jisshuu -Zengi Hen-
     author: guglielmo
@@ -131,7 +131,7 @@ works:
   - title: Sakkin Zuke no Hitozuma -Kimura Mina to Kimodebu Oyaji no Ooya- 1 & 2
     author: hente
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/594884.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-29'
     code: 594884
     url: /works/594884/
@@ -409,6 +409,13 @@ works:
     date: '2026-07-13'
     code: 663745
     url: /works/663745/
+  - title: MORAL HAZARD ~Haitoku no Kyoudan~
+    author: hiraoka-ryuichi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/66420.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 66420
+    url: /works/66420/
   - title: Junai Kanjou
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/676189.jpg

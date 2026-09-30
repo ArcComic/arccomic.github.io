@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "smoking"
-work_count: 8
+work_count: 9
 works:
   - title: Shirotaegiku | Dusty miller
     author: hiroya
@@ -39,6 +39,14 @@ works:
     date: '2026-09-27'
     code: 650361
     url: /works/650361/
+  - title: Itoko no Nee-chan no Oppai Mondara Ecchi Suru Koto ni Natta Hanashi. | The
+      Story of How I Ended Up Having Sex After Groping My Cousin Sister's Boobs
+    author: shouji-nigou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651928.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 651928
+    url: /works/651928/
   - title: Downer-kei Arafour Newhalf to Shinkon-san-gokko | Playing Newlyweds With
       A Gloomy Around-Forty Newhalf
     author: yuuki-konefu

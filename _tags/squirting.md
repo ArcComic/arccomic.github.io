@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "squirting"
-work_count: 127
+work_count: 128
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -88,7 +88,7 @@ works:
       with My Live-in Girlfriend
     author: migihaji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/520557.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-29'
     code: 520557
     url: /works/520557/
@@ -959,4 +959,12 @@ works:
     date: '2026-09-28'
     code: 684647
     url: /works/684647/
+  - title: InCha na Ore dake ga Shitteiru Seitokaichou no Uragawa. ~Kakure Kyonyuu no
+      Senpai ga Kairaku ni Kuppuku Shite Ochiru made~
+    author: yuzuriha
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684759.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 684759
+    url: /works/684759/
 ---

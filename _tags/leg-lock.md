@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "leg lock"
-work_count: 78
+work_count: 79
 works:
   - title: My Care Lady Ch. 1
     author: sugi-g
@@ -442,6 +442,14 @@ works:
     date: '2026-09-18'
     code: 654010
     url: /works/654010/
+  - title: Kimi wa Kagayaku Tsukihana no You ni - Like a luminous moonflower, You Enrapture
+      My Heart. + Melonbooks Tokuten Sensei wa Yappari JK to Yaritai
+    author: gustav
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/655660.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 655660
+    url: /works/655660/
   - title: Tonari no Ayane-san Soushuuhen | My Neighbor Ayane Anthology
     author: herio
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/656319.jpg

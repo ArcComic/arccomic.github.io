@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "ffm threesome"
-work_count: 128
+work_count: 129
 works:
   - title: Hustle! Danchizuma Ch. 1-18 END
     author: hidemaru
@@ -27,7 +27,7 @@ works:
   - title: Akarui Kazoku Seikatsu
     author: pistonring-nishizawa
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/304307.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-29'
     code: 304307
     url: /works/304307/
@@ -113,6 +113,14 @@ works:
     date: '2026-09-10'
     code: 511803
     url: /works/511803/
+  - title: MistakeR ~Jimi de Kyonyuu na Osananjimi wo Saimin Appli de Risou no Ero-gal
+      ni Kaizou Shite Koibito ni Suru Keikaku~
+    author: ueto-seri
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/528161.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 528161
+    url: /works/528161/
   - title: Jimi Kyonyuu No Stalker Onna Ni Gokuhaku Saretanode Yarimakutte Mita Hanashi
       2 | I Was Confessed To By A Plain Busty Stalker Girl, So I Fucked Her Like Crazy
       2
@@ -948,7 +956,7 @@ works:
   - title: Kakko Ii kara Suki 2 [English] partial retranslation
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684642.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-29'
     code: 684642
     url: /works/684642/

@@ -41,7 +41,7 @@ works:
   - title: Akarui Kazoku Seikatsu
     author: pistonring-nishizawa
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/304307.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-29'
     code: 304307
     url: /works/304307/
@@ -240,7 +240,7 @@ works:
   - title: Mama to Boku to Mujintou | Me and mom and a deserted island
     author: yokkora
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/518005.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-29'
     code: 518005
     url: /works/518005/
@@ -478,7 +478,7 @@ works:
   - title: Sakkin Zuke no Hitozuma -Kimura Mina to Kimodebu Oyaji no Ooya- 1 & 2
     author: hente
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/594884.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-29'
     code: 594884
     url: /works/594884/

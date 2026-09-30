@@ -70,7 +70,7 @@ works:
   - title: Doukyuusei no Wakai Haha | My Classmate's Young Mom
     author: aoki-kanji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/383623.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-29'
     code: 383623
     url: /works/383623/
@@ -452,7 +452,7 @@ works:
       By The President's Son For Her Husbands Sake ~
     author: izuminoaru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/527520.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-29'
     code: 527520
     url: /works/527520/
@@ -911,7 +911,7 @@ works:
   - title: TomoHaha to Onaji Yane no Shita de - Under The Same Roof With My Friend Mother
     author: takei-masaki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638764.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-09-29'
     code: 638764
     url: /works/638764/
@@ -1620,7 +1620,7 @@ works:
       Seishori Saserarete...~
     author: x-pierrot
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684509.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-29'
     code: 684509
     url: /works/684509/
@@ -1641,7 +1641,7 @@ works:
   - title: Kakko Ii kara Suki 2 [English] partial retranslation
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684642.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-29'
     code: 684642
     url: /works/684642/

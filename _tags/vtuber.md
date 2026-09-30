@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "vtuber"
-work_count: 13
+work_count: 14
 works:
   - title: Giragira no Beach
     author: shimantogawa
@@ -17,6 +17,13 @@ works:
     date: '2026-07-16'
     code: 530476
     url: /works/530476/
+  - title: Danchou wa Zettai ni Barenai.
+    author: ueto-seri
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/575361.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 575361
+    url: /works/575361/
   - title: SHAMAN'S SPECIAL SERVICE
     author: raikko9
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/597388.jpg

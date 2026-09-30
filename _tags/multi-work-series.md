@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "multi-work series"
-work_count: 334
+work_count: 338
 works:
   - title: Oppai na Natsuyasumi 2 | The Summer Break of Boobs 2
     author: higashino-mikan
@@ -259,6 +259,13 @@ works:
     date: '2026-09-27'
     code: 483537
     url: /works/483537/
+  - title: Datenshi no Yuuwaku -Office Angel Project- 1
+    author: hiraoka-ryuichi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/491622.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 491622
+    url: /works/491622/
   - title: Gyakuten Enkou ~Ore ga Kawareru Sekai~ | Reversed Compensated Dating ~A World
       Where I Get Bought~
     author: nectar
@@ -420,7 +427,7 @@ works:
       Hen-
     author: haruhisky
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/528384.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-29'
     code: 528384
     url: /works/528384/
@@ -523,7 +530,7 @@ works:
       with My Wife~
     author: same-manma
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/539661.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-29'
     code: 539661
     url: /works/539661/
@@ -852,7 +859,7 @@ works:
   - title: Sakkin Zuke no Hitozuma -Kimura Mina to Kimodebu Oyaji no Ooya- 1 & 2
     author: hente
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/594884.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-29'
     code: 594884
     url: /works/594884/
@@ -2481,17 +2488,33 @@ works:
     date: '2026-09-28'
     code: 684542
     url: /works/684542/
+  - title: InCha na Ore Dake ga Shitte Iru Seito Kaichou no Uragawa 2. ~Senbotsu Chikubi
+      no Senpai ga Kairaku ni Kuppuku Shite Ochiru made~
+    author: yuzuriha
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684758.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 684758
+    url: /works/684758/
+  - title: InCha na Ore dake ga Shitteiru Seitokaichou no Uragawa. ~Kakure Kyonyuu no
+      Senpai ga Kairaku ni Kuppuku Shite Ochiru made~
+    author: yuzuriha
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684759.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 684759
+    url: /works/684759/
   - title: Mesu ni shite kure!
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684798.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-29'
     code: 684798
     url: /works/684798/
   - title: Mesu ni shite kure! 2
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684799.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-29'
     code: 684799
     url: /works/684799/
@@ -2502,4 +2525,11 @@ works:
     date: '2026-09-29'
     code: 684800
     url: /works/684800/
+  - title: Isekai fukushu ~ore o ijimeta yatsura o saikyo sukiru de shihai suru~ 05
+    author: senakagashiri
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684964.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 684964
+    url: /works/684964/
 ---

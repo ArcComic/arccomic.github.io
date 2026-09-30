@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "gyaru"
-work_count: 108
+work_count: 110
 works:
   - title: GalPa!
     author: sakagami-umi
@@ -120,6 +120,14 @@ works:
     date: '2026-04-19'
     code: 512715
     url: /works/512715/
+  - title: MistakeR ~Jimi de Kyonyuu na Osananjimi wo Saimin Appli de Risou no Ero-gal
+      ni Kaizou Shite Koibito ni Suru Keikaku~
+    author: ueto-seri
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/528161.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 528161
+    url: /works/528161/
   - title: Gal to no Asobikata | How to Have Fun With Gyarus!
     author: buta
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/531967.jpg
@@ -575,7 +583,7 @@ works:
   - title: Kashiteyaru dake | I'll Just Let You Borrow It
     author: pontaro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/667065.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-29'
     code: 667065
     url: /works/667065/
@@ -813,4 +821,12 @@ works:
     date: '2026-09-27'
     code: 684305
     url: /works/684305/
+  - title: InCha na Ore Dake ga Shitte Iru Seito Kaichou no Uragawa 2. ~Senbotsu Chikubi
+      no Senpai ga Kairaku ni Kuppuku Shite Ochiru made~
+    author: yuzuriha
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684758.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 684758
+    url: /works/684758/
 ---

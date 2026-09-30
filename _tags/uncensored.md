@@ -27,7 +27,7 @@ works:
   - title: Doukyuusei no Wakai Haha | My Classmate's Young Mom
     author: aoki-kanji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/383623.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-29'
     code: 383623
     url: /works/383623/
@@ -158,7 +158,7 @@ works:
       Hen-
     author: haruhisky
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/528384.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-29'
     code: 528384
     url: /works/528384/

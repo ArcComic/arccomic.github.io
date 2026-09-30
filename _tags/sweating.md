@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sweating"
-work_count: 160
+work_count: 161
 works:
   - title: Kaisha de Iroiro | Gettin' Busy at the Office
     author: hara-shigeyuki
@@ -65,7 +65,7 @@ works:
   - title: Akarui Kazoku Seikatsu
     author: pistonring-nishizawa
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/304307.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-29'
     code: 304307
     url: /works/304307/
@@ -77,6 +77,14 @@ works:
     date: '2026-04-16'
     code: 304548
     url: /works/304548/
+  - title: Ore no Hajimete wa Senpai ni Ubawaretai!! | I Want Senpai to Take My First
+      Time!!
+    author: saemon
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/312587.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 312587
+    url: /works/312587/
   - title: Gakkou to Bed ja Seihantai no, Okkina Kanojo. | My Big Girlfriend Acts the
       Polar Opposite in Bed and at School.
     author: mikemono-yuu

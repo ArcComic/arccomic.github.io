@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "mind break"
-work_count: 49
+work_count: 51
 works:
   - title: Birthday
     author: hashiba-yachi
@@ -84,11 +84,18 @@ works:
     date: '2026-08-25'
     code: 518387
     url: /works/518387/
+  - title: Wakana Shiki | Wakana Style
+    author: ueto-seri
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/520903.jpg
+    rating: 4.5
+    date: '2026-09-30'
+    code: 520903
+    url: /works/520903/
   - title: A Married Woman Tricked Into Filming ~ Former Gravure Idol Wife Gets NTR'd
       By The President's Son For Her Husbands Sake ~
     author: izuminoaru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/527520.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-09-29'
     code: 527520
     url: /works/527520/
@@ -262,6 +269,13 @@ works:
     date: '2026-07-06'
     code: 661586
     url: /works/661586/
+  - title: MORAL HAZARD ~Haitoku no Kyoudan~
+    author: hiraoka-ryuichi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/66420.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 66420
+    url: /works/66420/
   - title: My Girlfriend's Older Sister Turned Me Into Her Masochist Foot Pet
     author: yoko-momo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/664853.jpg

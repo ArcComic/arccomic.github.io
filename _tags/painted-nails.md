@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "painted nails"
-work_count: 37
+work_count: 38
 works:
   - title: Rakki Taishyaku
     author: fushoku
@@ -31,6 +31,14 @@ works:
     date: '2026-08-25'
     code: 512473
     url: /works/512473/
+  - title: MistakeR ~Jimi de Kyonyuu na Osananjimi wo Saimin Appli de Risou no Ero-gal
+      ni Kaizou Shite Koibito ni Suru Keikaku~
+    author: ueto-seri
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/528161.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 528161
+    url: /works/528161/
   - title: Gal to no Asobikata | How to Have Fun With Gyarus!
     author: buta
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/531967.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "pantyhose"
-work_count: 61
+work_count: 62
 works:
   - title: Life with Married Women Just Like a Manga 2 - Ch. 1-5
     author: hidemaru
@@ -88,6 +88,13 @@ works:
     date: '2026-04-19'
     code: 453749
     url: /works/453749/
+  - title: Datenshi no Yuuwaku -Office Angel Project- 1
+    author: hiraoka-ryuichi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/491622.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 491622
+    url: /works/491622/
   - title: Tomodachi no Mama ga Boku no Dekachin de Ikimakutta Sotsugyoushiki
     author: rk-2
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/513981.jpg

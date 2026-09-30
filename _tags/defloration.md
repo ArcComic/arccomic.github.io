@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "defloration"
-work_count: 200
+work_count: 204
 works:
   - title: Imitation Family + Bigibo Hen
     author: tohzai
@@ -268,7 +268,7 @@ works:
   - title: Nekura Kyonyuu no Onee-chan wa, Saiminshite de mo Otouto Chinpo o Netoritai
     author: borusiti
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/438138.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-29'
     code: 438138
     url: /works/438138/
@@ -352,6 +352,13 @@ works:
     date: '2026-04-17'
     code: 516164
     url: /works/516164/
+  - title: Wakana Shiki | Wakana Style
+    author: ueto-seri
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/520903.jpg
+    rating: 4.5
+    date: '2026-09-30'
+    code: 520903
+    url: /works/520903/
   - title: A tale of an Elf adventurer (♀) being visited at night and bred by an innkeeper
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/526619.jpg
@@ -359,6 +366,14 @@ works:
     date: '2026-09-17'
     code: 526619
     url: /works/526619/
+  - title: MistakeR ~Jimi de Kyonyuu na Osananjimi wo Saimin Appli de Risou no Ero-gal
+      ni Kaizou Shite Koibito ni Suru Keikaku~
+    author: ueto-seri
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/528161.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 528161
+    url: /works/528161/
   - title: Hatsutaiken no Susume | Recommendation for the First Time Experience
     author: mojarin
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/532651.jpg
@@ -1066,6 +1081,14 @@ works:
     date: '2026-07-16'
     code: 655498
     url: /works/655498/
+  - title: Kimi wa Kagayaku Tsukihana no You ni - Like a luminous moonflower, You Enrapture
+      My Heart. + Melonbooks Tokuten Sensei wa Yappari JK to Yaritai
+    author: gustav
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/655660.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 655660
+    url: /works/655660/
   - title: How the Gloomy Me Took Charge of my Own Life by Becoming a Hostess
     author: shikabanekamo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/656419.jpg
@@ -1484,4 +1507,12 @@ works:
     date: '2026-09-24'
     code: 683561
     url: /works/683561/
+  - title: InCha na Ore Dake ga Shitte Iru Seito Kaichou no Uragawa 2. ~Senbotsu Chikubi
+      no Senpai ga Kairaku ni Kuppuku Shite Ochiru made~
+    author: yuzuriha
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684758.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 684758
+    url: /works/684758/
 ---

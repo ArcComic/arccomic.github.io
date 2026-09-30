@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "anal"
-work_count: 142
+work_count: 143
 works:
   - title: Hitozuma Hyakka
     author: hase-tsubura
@@ -132,7 +132,7 @@ works:
       Hen-
     author: haruhisky
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/528384.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-29'
     code: 528384
     url: /works/528384/
@@ -682,6 +682,13 @@ works:
     date: '2026-07-16'
     code: 664022
     url: /works/664022/
+  - title: MORAL HAZARD ~Haitoku no Kyoudan~
+    author: hiraoka-ryuichi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/66420.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 66420
+    url: /works/66420/
   - title: KAWAKAMI FROM THE SEXUAL RELIEF DIVISION
     author: carpsukidayo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/664460.jpg

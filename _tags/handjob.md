@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "handjob"
-work_count: 130
+work_count: 132
 works:
   - title: Chibo Soukan Ch.1-3
     author: natsu-no-oyatsu
@@ -28,7 +28,7 @@ works:
   - title: Akarui Kazoku Seikatsu
     author: pistonring-nishizawa
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/304307.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-29'
     code: 304307
     url: /works/304307/
@@ -263,7 +263,7 @@ works:
   - title: Sakkin Zuke no Hitozuma -Kimura Mina to Kimodebu Oyaji no Ooya- 1 & 2
     author: hente
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/594884.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-29'
     code: 594884
     url: /works/594884/
@@ -434,7 +434,7 @@ works:
   - title: TomoHaha to Onaji Yane no Shita de - Under The Same Roof With My Friend Mother
     author: takei-masaki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638764.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-09-29'
     code: 638764
     url: /works/638764/
@@ -573,6 +573,14 @@ works:
     date: '2026-05-20'
     code: 651346
     url: /works/651346/
+  - title: Itoko no Nee-chan no Oppai Mondara Ecchi Suru Koto ni Natta Hanashi. | The
+      Story of How I Ended Up Having Sex After Groping My Cousin Sister's Boobs
+    author: shouji-nigou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651928.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 651928
+    url: /works/651928/
   - title: Tooi Kimi ni, Boku wa Todokanai | I can't reach you, far away.
     author: futamine-kobito
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651967.jpg
@@ -956,6 +964,14 @@ works:
     date: '2026-09-27'
     code: 684322
     url: /works/684322/
+  - title: InCha na Ore Dake ga Shitte Iru Seito Kaichou no Uragawa 2. ~Senbotsu Chikubi
+      no Senpai ga Kairaku ni Kuppuku Shite Ochiru made~
+    author: yuzuriha
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684758.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 684758
+    url: /works/684758/
   - title: Anenuma. ~Seiso na Onee-san wa Boku o Yasashiku Juurin Suru~ | Anenuma. ~My
       Stepsister's Gentle Domination~
     author: pontaro

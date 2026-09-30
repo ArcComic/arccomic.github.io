@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bbw"
-work_count: 54
+work_count: 55
 works:
   - title: My Care Lady Ch. 1
     author: sugi-g
@@ -60,6 +60,14 @@ works:
     date: '2026-09-08'
     code: 415046
     url: /works/415046/
+  - title: Otonari no Darashina Onee-san ni Nagusamerareru Hanashi | Comforted by the
+      Sloppy Girl Next Door
+    author: shouji-nigou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/451846.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 451846
+    url: /works/451846/
   - title: Aoba's Weight Gain
     author: habutton
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/529335.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "schoolgirl uniform"
-work_count: 297
+work_count: 301
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -35,7 +35,7 @@ works:
   - title: Akarui Kazoku Seikatsu
     author: pistonring-nishizawa
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/304307.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-29'
     code: 304307
     url: /works/304307/
@@ -415,6 +415,14 @@ works:
     date: '2026-09-24'
     code: 527651
     url: /works/527651/
+  - title: MistakeR ~Jimi de Kyonyuu na Osananjimi wo Saimin Appli de Risou no Ero-gal
+      ni Kaizou Shite Koibito ni Suru Keikaku~
+    author: ueto-seri
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/528161.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 528161
+    url: /works/528161/
   - title: Gal to no Asobikata | How to Have Fun With Gyarus!
     author: buta
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/531967.jpg
@@ -1323,7 +1331,7 @@ works:
   - title: Kimi Omou Koi - I think of you.
     author: gentsuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/653792.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-29'
     code: 653792
     url: /works/653792/
@@ -1363,6 +1371,14 @@ works:
     date: '2026-07-16'
     code: 655498
     url: /works/655498/
+  - title: Kimi wa Kagayaku Tsukihana no You ni - Like a luminous moonflower, You Enrapture
+      My Heart. + Melonbooks Tokuten Sensei wa Yappari JK to Yaritai
+    author: gustav
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/655660.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 655660
+    url: /works/655660/
   - title: Mukashi Kara Otokoppoi Osananajimi mo Chanto Mesu ni Sodachimashita | Even
       My Tomboy Childhood Friend Matured Into a Proper Woman
     author: natsuzo
@@ -2210,8 +2226,24 @@ works:
       Seishori Saserarete...~
     author: x-pierrot
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684509.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-29'
     code: 684509
     url: /works/684509/
+  - title: InCha na Ore Dake ga Shitte Iru Seito Kaichou no Uragawa 2. ~Senbotsu Chikubi
+      no Senpai ga Kairaku ni Kuppuku Shite Ochiru made~
+    author: yuzuriha
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684758.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 684758
+    url: /works/684758/
+  - title: InCha na Ore dake ga Shitteiru Seitokaichou no Uragawa. ~Kakure Kyonyuu no
+      Senpai ga Kairaku ni Kuppuku Shite Ochiru made~
+    author: yuzuriha
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684759.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 684759
+    url: /works/684759/
 ---

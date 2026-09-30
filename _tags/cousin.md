@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "cousin"
-work_count: 17
+work_count: 18
 works:
   - title: Natsuyasumi~Boku to oneechan no inaka de hatsutaiken~ |Summer Vacation~My
       first time with Oneechan in the countryside
@@ -14,7 +14,7 @@ works:
   - title: Shuumatsu dakara Ippai Ichaicha Shi yo
     author: saemon
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/476145.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-29'
     code: 476145
     url: /works/476145/
@@ -72,6 +72,14 @@ works:
     date: '2026-05-07'
     code: 648522
     url: /works/648522/
+  - title: Itoko no Nee-chan no Oppai Mondara Ecchi Suru Koto ni Natta Hanashi. | The
+      Story of How I Ended Up Having Sex After Groping My Cousin Sister's Boobs
+    author: shouji-nigou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651928.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 651928
+    url: /works/651928/
   - title: Karada ga Binkan Sugiru Watashi wa Itoko ni Itazura sarete mo Teikoudekinai!
     author: romomata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/655421.jpg
@@ -126,7 +134,7 @@ works:
   - title: Kakko Ii kara Suki 2 [English] partial retranslation
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684642.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-29'
     code: 684642
     url: /works/684642/

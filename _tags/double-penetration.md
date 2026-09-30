@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "double penetration"
-work_count: 44
+work_count: 45
 works:
   - title: Hitozuma Hyakka
     author: hase-tsubura
@@ -189,6 +189,13 @@ works:
     date: '2026-07-09'
     code: 662647
     url: /works/662647/
+  - title: MORAL HAZARD ~Haitoku no Kyoudan~
+    author: hiraoka-ryuichi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/66420.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 66420
+    url: /works/66420/
   - title: Igyou Koubi Kairaku Jigoku 1 + 2
     author: allegro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/668880.jpg

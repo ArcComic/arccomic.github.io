@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "blowjob face"
-work_count: 55
+work_count: 57
 works:
   - title: Hikki Mother Fucker
     author: otochichi
@@ -17,6 +17,14 @@ works:
     date: '2026-04-12'
     code: 293478
     url: /works/293478/
+  - title: Ore no Hajimete wa Senpai ni Ubawaretai!! | I Want Senpai to Take My First
+      Time!!
+    author: saemon
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/312587.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 312587
+    url: /works/312587/
   - title: Iro no Ie -Hitozuma ga Sex Suru Hon II- | Erotic House - Married Women Sex
       Book 2
     author: miho-rei
@@ -412,4 +420,12 @@ works:
     date: '2026-09-28'
     code: 684556
     url: /works/684556/
+  - title: InCha na Ore dake ga Shitteiru Seitokaichou no Uragawa. ~Kakure Kyonyuu no
+      Senpai ga Kairaku ni Kuppuku Shite Ochiru made~
+    author: yuzuriha
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684759.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 684759
+    url: /works/684759/
 ---

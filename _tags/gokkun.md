@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "gokkun"
-work_count: 41
+work_count: 42
 works:
   - title: Itabasami na Wakachi Ai 4 | Love Divided Between a Rock and a Hard Place
       4
@@ -298,6 +298,14 @@ works:
     date: '2026-09-27'
     code: 684392
     url: /works/684392/
+  - title: InCha na Ore dake ga Shitteiru Seitokaichou no Uragawa. ~Kakure Kyonyuu no
+      Senpai ga Kairaku ni Kuppuku Shite Ochiru made~
+    author: yuzuriha
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684759.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 684759
+    url: /works/684759/
   - title: Anenuma. ~Seiso na Onee-san wa Boku o Yasashiku Juurin Suru~ | Anenuma. ~My
       Stepsister's Gentle Domination~
     author: pontaro
