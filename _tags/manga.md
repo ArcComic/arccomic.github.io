@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "manga"
-work_count: 353
+work_count: 354
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -1590,6 +1590,13 @@ works:
     date: '2026-09-28'
     code: 660465
     url: /works/660465/
+  - title: miren -miren-
+    author: sabakan
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/661148.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 661148
+    url: /works/661148/
   - title: Kimi no Mae de Kimi Igai o Daku Ch. 27 | Having Sex with Someone Else in
       Front of You 27
     author: nakao

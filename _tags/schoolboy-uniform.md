@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "schoolboy uniform"
-work_count: 93
+work_count: 94
 works:
   - title: FLUFFY LAUGH GIRL
     author: shibasaki-syouzi
@@ -439,6 +439,13 @@ works:
     date: '2026-09-09'
     code: 657459
     url: /works/657459/
+  - title: miren -miren-
+    author: sabakan
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/661148.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 661148
+    url: /works/661148/
   - title: Himote no Boku ni Konna Sasoi Kotowareru Hazu ga Nai
     author: untue
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/661816.jpg

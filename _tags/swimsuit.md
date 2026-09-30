@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "swimsuit"
-work_count: 70
+work_count: 71
 works:
   - title: Kizashi
     author: yoshiura-kazuya
@@ -293,6 +293,13 @@ works:
     date: '2026-08-29'
     code: 660399
     url: /works/660399/
+  - title: miren -miren-
+    author: sabakan
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/661148.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 661148
+    url: /works/661148/
   - title: Himote no Boku ni Konna Sasoi Kotowareru Hazu ga Nai 2
     author: untue
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/661818.jpg

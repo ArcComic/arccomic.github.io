@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "tanlines"
-work_count: 30
+work_count: 31
 works:
   - title: CHOCO x LOVE
     author: highlow
@@ -124,6 +124,13 @@ works:
     date: '2026-07-05'
     code: 660869
     url: /works/660869/
+  - title: miren -miren-
+    author: sabakan
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/661148.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 661148
+    url: /works/661148/
   - title: Seishidouin no Oshigoto 4 Kohen Rippana Benki ni Sodatta node Daimanzoku
       de Shidou wo Oeta + C101 Omake
     author: malcorond

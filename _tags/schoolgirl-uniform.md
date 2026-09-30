@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "schoolgirl uniform"
-work_count: 304
+work_count: 305
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -1424,6 +1424,13 @@ works:
     date: '2026-09-05'
     code: 660471
     url: /works/660471/
+  - title: miren -miren-
+    author: sabakan
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/661148.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 661148
+    url: /works/661148/
   - title: Shinyuu Tatakitsubushi Kyousou Shiiku Seikatsu | A Life in Captivity The
       Competition to Break My Best Friend
     author: group
