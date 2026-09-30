@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "story arc"
-work_count: 189
+work_count: 190
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -141,6 +141,13 @@ works:
     date: '2026-09-25'
     code: 420017
     url: /works/420017/
+  - title: Yaoyorozu Sex – My Virginity Was Taken by Japanese Gods
+    author: prhs
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/442084.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 442084
+    url: /works/442084/
   - title: Tonari no Onee-san no Shitagi o Nusundara Kiseki ga Okita Hanashi o Shiyou
       |  Let’s Talk About the Story of A Miracle that Happened When I Stole the Underwear
       of the Lady Next Door
