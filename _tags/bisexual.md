@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bisexual"
-work_count: 36
+work_count: 37
 works:
   - title: Akarui Kazoku Seikatsu
     author: pistonring-nishizawa
@@ -267,4 +267,11 @@ works:
     date: '2026-09-24'
     code: 683610
     url: /works/683610/
+  - title: YOUR SISTER - CHAPTER 1-16
+    author: konparu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684882.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 684882
+    url: /works/684882/
 ---

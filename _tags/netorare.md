@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "netorare"
-work_count: 396
+work_count: 397
 works:
   - title: Kousa suru Osu to Mesu | Male and Female Crossing
     author: ootsuka-kotora
@@ -2911,6 +2911,13 @@ works:
     date: '2026-09-28'
     code: 684591
     url: /works/684591/
+  - title: YOUR SISTER - CHAPTER 1-16
+    author: konparu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684882.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 684882
+    url: /works/684882/
   - title: 'Fukushuu Yami Beit "Shijin Taihokei Haishinsha ni Otoshiirerareta kara Fukushuu
       Shite Hoshii" | My Part-Time Job Is Getting Revenge: Framed By A Citizens Arrest
       Streamer'

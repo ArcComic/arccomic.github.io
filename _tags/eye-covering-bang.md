@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "eye-covering bang"
-work_count: 60
+work_count: 61
 works:
   - title: Tomodachi no Mama ga Boku no Dekachin de Ikimakutta Onsen Ryokou | The Hotspring
       Trip Where My Friend's Mother was All Over My Big Dick
@@ -453,4 +453,11 @@ works:
     date: '2026-09-29'
     code: 684311
     url: /works/684311/
+  - title: Houkago Saimin
+    author: umashio-umau-mashio
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684898.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 684898
+    url: /works/684898/
 ---

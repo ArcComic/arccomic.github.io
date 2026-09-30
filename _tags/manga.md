@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "manga"
-work_count: 351
+work_count: 353
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -2483,6 +2483,20 @@ works:
     date: '2026-09-28'
     code: 684647
     url: /works/684647/
+  - title: YOUR SISTER - CHAPTER 1-16
+    author: konparu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684882.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 684882
+    url: /works/684882/
+  - title: Houkago Saimin
+    author: umashio-umau-mashio
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684898.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 684898
+    url: /works/684898/
   - &id002
     title: Isekai fukushu ~ore o ijimeta yatsura o saikyo sukiru de shihai suru~ 05
     author: senakagashiri

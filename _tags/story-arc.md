@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "story arc"
-work_count: 188
+work_count: 189
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -1375,6 +1375,13 @@ works:
     date: '2026-09-30'
     code: 684759
     url: /works/684759/
+  - title: YOUR SISTER - CHAPTER 1-16
+    author: konparu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684882.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 684882
+    url: /works/684882/
   - title: Isekai fukushu ~ore o ijimeta yatsura o saikyo sukiru de shihai suru~ 05
     author: senakagashiri
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684964.jpg

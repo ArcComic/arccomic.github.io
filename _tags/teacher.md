@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "teacher"
-work_count: 85
+work_count: 86
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -614,6 +614,13 @@ works:
     date: '2026-09-23'
     code: 683319
     url: /works/683319/
+  - title: Houkago Saimin
+    author: umashio-umau-mashio
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684898.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 684898
+    url: /works/684898/
   - title: Takebe Saori-chan toiu Kanojo to Ooarai Date de Ippaku suru Hanashi. | An
       Overnight Date in Oarai with My Girlfriend, Takebe Saori.
     author: hijiri-tsukasa

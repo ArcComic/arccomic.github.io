@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "doujinshi"
-work_count: 1220
+work_count: 1223
 works:
   - title: Birthday
     author: hashiba-yachi
@@ -9003,6 +9003,27 @@ works:
     date: '2026-09-29'
     code: 684800
     url: /works/684800/
+  - title: Metsuki no Warui Kimi ga Suki
+    author: tenpura-komoro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684897.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 684897
+    url: /works/684897/
+  - title: Houkago Saimin
+    author: umashio-umau-mashio
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684898.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 684898
+    url: /works/684898/
+  - title: Tsuki ga Michiru Mae ni | Before the Moon Waxes Full
+    author: sousouman
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684905.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 684905
+    url: /works/684905/
   - title: GyaGyaGya Gal Cosplay - LoveHo de Micchaku Nurunuru Soap Gokko
     author: x36marubox
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684911.jpg

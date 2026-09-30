@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "stockings"
-work_count: 205
+work_count: 207
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -1506,6 +1506,20 @@ works:
     date: '2026-09-30'
     code: 684759
     url: /works/684759/
+  - title: Metsuki no Warui Kimi ga Suki
+    author: tenpura-komoro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684897.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 684897
+    url: /works/684897/
+  - title: Houkago Saimin
+    author: umashio-umau-mashio
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684898.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 684898
+    url: /works/684898/
   - title: Jokyoushi - Hot For Teachers | Female Teachers
     author: drill-murata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/81375.jpg

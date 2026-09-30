@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "mosaic censorship"
-work_count: 306
+work_count: 307
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -2240,6 +2240,13 @@ works:
     date: '2026-09-28'
     code: 684647
     url: /works/684647/
+  - title: Metsuki no Warui Kimi ga Suki
+    author: tenpura-komoro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684897.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 684897
+    url: /works/684897/
   - title: 'Fukushuu Yami Beit "Shijin Taihokei Haishinsha ni Otoshiirerareta kara Fukushuu
       Shite Hoshii" | My Part-Time Job Is Getting Revenge: Framed By A Citizens Arrest
       Streamer'

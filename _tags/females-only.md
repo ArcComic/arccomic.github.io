@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "females only"
-work_count: 29
+work_count: 30
 works:
   - title: Hyoui Osen de Yuri Ecchi | Lesbian Sex through Corrupting Possession
     author: siina-yuuki
@@ -211,4 +211,11 @@ works:
     date: '2026-09-22'
     code: 683188
     url: /works/683188/
+  - title: Tsuki ga Michiru Mae ni | Before the Moon Waxes Full
+    author: sousouman
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684905.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 684905
+    url: /works/684905/
 ---

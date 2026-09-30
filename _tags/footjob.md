@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "footjob"
-work_count: 28
+work_count: 29
 works:
   - title: Sei no Kenryoku | The Power of Sex
     author: tomohiro-kai
@@ -189,6 +189,13 @@ works:
     date: '2026-09-23'
     code: 683319
     url: /works/683319/
+  - title: YOUR SISTER - CHAPTER 1-16
+    author: konparu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684882.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 684882
+    url: /works/684882/
   - title: GyaGyaGya Gal Cosplay - LoveHo de Micchaku Nurunuru Soap Gokko
     author: x36marubox
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684911.jpg

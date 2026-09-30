@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "translated"
-work_count: 1454
+work_count: 1458
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -10668,6 +10668,34 @@ works:
     date: '2026-09-29'
     code: 684800
     url: /works/684800/
+  - title: YOUR SISTER - CHAPTER 1-16
+    author: konparu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684882.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 684882
+    url: /works/684882/
+  - title: Metsuki no Warui Kimi ga Suki
+    author: tenpura-komoro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684897.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 684897
+    url: /works/684897/
+  - title: Houkago Saimin
+    author: umashio-umau-mashio
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684898.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 684898
+    url: /works/684898/
+  - title: Tsuki ga Michiru Mae ni | Before the Moon Waxes Full
+    author: sousouman
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684905.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 684905
+    url: /works/684905/
   - title: Takebe Saori-chan toiu Kanojo to Ooarai Date de Ippaku suru Hanashi. | An
       Overnight Date in Oarai with My Girlfriend, Takebe Saori.
     author: hijiri-tsukasa

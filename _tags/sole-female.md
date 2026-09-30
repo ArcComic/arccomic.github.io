@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole female"
-work_count: 871
+work_count: 873
 works:
   - title: Adoration
     author: kishizuka-kenji
@@ -6442,6 +6442,20 @@ works:
     date: '2026-09-29'
     code: 684800
     url: /works/684800/
+  - title: Metsuki no Warui Kimi ga Suki
+    author: tenpura-komoro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684897.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 684897
+    url: /works/684897/
+  - title: Houkago Saimin
+    author: umashio-umau-mashio
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684898.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 684898
+    url: /works/684898/
   - title: Takebe Saori-chan toiu Kanojo to Ooarai Date de Ippaku suru Hanashi. | An
       Overnight Date in Oarai with My Girlfriend, Takebe Saori.
     author: hijiri-tsukasa
