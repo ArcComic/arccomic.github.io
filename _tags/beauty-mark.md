@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "beauty mark"
-work_count: 181
+work_count: 182
 works:
   - title: Uragiri no Ai wa Mitsu no Aji | Treacherous Love Tastes Like Honey
     author: cuzukago
@@ -1346,4 +1346,11 @@ works:
     date: '2026-09-28'
     code: 684643
     url: /works/684643/
+  - title: GyaGyaGya Gal Cosplay - LoveHo de Micchaku Nurunuru Soap Gokko
+    author: x36marubox
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684911.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 684911
+    url: /works/684911/
 ---

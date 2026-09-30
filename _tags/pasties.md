@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "pasties"
-work_count: 7
+work_count: 8
 works:
   - title: Suki datta Onnanoko ga Hentai Kusuguri Choukyou de Maso ni Sareteita Hanashi
       | The girl who was trying to get him to come to her house was a hentai heroine
@@ -58,4 +58,11 @@ works:
     date: '2026-09-27'
     code: 684305
     url: /works/684305/
+  - title: GyaGyaGya Gal Cosplay - LoveHo de Micchaku Nurunuru Soap Gokko
+    author: x36marubox
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684911.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 684911
+    url: /works/684911/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "femdom"
-work_count: 160
+work_count: 161
 works:
   - title: Life with Married Women Just Like a Manga 2 - Ch. 1-5
     author: hidemaru
@@ -1162,6 +1162,13 @@ works:
     date: '2026-09-29'
     code: 684789
     url: /works/684789/
+  - title: GyaGyaGya Gal Cosplay - LoveHo de Micchaku Nurunuru Soap Gokko
+    author: x36marubox
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684911.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 684911
+    url: /works/684911/
   - title: Jokyoushi - Hot For Teachers | Female Teachers
     author: drill-murata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/81375.jpg

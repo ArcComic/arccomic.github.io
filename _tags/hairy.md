@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "hairy"
-work_count: 278
+work_count: 281
 works:
   - title: Adoration
     author: kishizuka-kenji
@@ -1442,6 +1442,14 @@ works:
     date: '2026-07-07'
     code: 662057
     url: /works/662057/
+  - title: A Certian MILF Loving Man's Love Affair File 03 -- Toaru Jukujo Zuki Danshi
+      no Love Hame Koukanroku File 03
+    author: tsukino-jyogi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662653.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 662653
+    url: /works/662653/
   - title: Tonikaku Sex ga Shitai Oba-san, Ryouko | Auntie Ryouko Wants to Have Sex
       Everyday
     author: mokuzou
@@ -2043,4 +2051,20 @@ works:
     date: '2026-09-29'
     code: 684800
     url: /works/684800/
+  - title: GyaGyaGya Gal Cosplay - LoveHo de Micchaku Nurunuru Soap Gokko
+    author: x36marubox
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684911.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 684911
+    url: /works/684911/
+  - title: 'Fukushuu Yami Beit "Shijin Taihokei Haishinsha ni Otoshiirerareta kara Fukushuu
+      Shite Hoshii" | My Part-Time Job Is Getting Revenge: Framed By A Citizens Arrest
+      Streamer'
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684921.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 684921
+    url: /works/684921/
 ---

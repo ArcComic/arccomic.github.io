@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "blowjob face"
-work_count: 57
+work_count: 58
 works:
   - title: Hikki Mother Fucker
     author: otochichi
@@ -428,4 +428,11 @@ works:
     date: '2026-09-30'
     code: 684759
     url: /works/684759/
+  - title: GyaGyaGya Gal Cosplay - LoveHo de Micchaku Nurunuru Soap Gokko
+    author: x36marubox
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684911.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 684911
+    url: /works/684911/
 ---

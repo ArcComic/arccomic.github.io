@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "ahegao"
-work_count: 283
+work_count: 286
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -1405,6 +1405,14 @@ works:
     date: '2026-07-08'
     code: 662370
     url: /works/662370/
+  - title: A Certian MILF Loving Man's Love Affair File 03 -- Toaru Jukujo Zuki Danshi
+      no Love Hame Koukanroku File 03
+    author: tsukino-jyogi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662653.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 662653
+    url: /works/662653/
   - title: Anal Hame Shitai Jukujo Shiri | This MILF Wants Anal Sex
     author: bonske
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662658.jpg
@@ -2120,6 +2128,21 @@ works:
     date: '2026-09-29'
     code: 684800
     url: /works/684800/
+  - title: GyaGyaGya Gal Cosplay - LoveHo de Micchaku Nurunuru Soap Gokko
+    author: x36marubox
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684911.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 684911
+    url: /works/684911/
+  - title: Takebe Saori-chan toiu Kanojo to Ooarai Date de Ippaku suru Hanashi. | An
+      Overnight Date in Oarai with My Girlfriend, Takebe Saori.
+    author: hijiri-tsukasa
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684920.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 684920
+    url: /works/684920/
   - title: Inin Keiyaku | Lewd Pregnancy Contract
     author: yoshiura-kazuya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/83595.jpg

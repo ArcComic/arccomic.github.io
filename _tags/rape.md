@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "rape"
-work_count: 216
+work_count: 217
 works:
   - title: Office Love Scramble Ch. 1
     author: tohzai
@@ -1574,4 +1574,13 @@ works:
     date: '2026-09-30'
     code: 684759
     url: /works/684759/
+  - title: 'Fukushuu Yami Beit "Shijin Taihokei Haishinsha ni Otoshiirerareta kara Fukushuu
+      Shite Hoshii" | My Part-Time Job Is Getting Revenge: Framed By A Citizens Arrest
+      Streamer'
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684921.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 684921
+    url: /works/684921/
 ---

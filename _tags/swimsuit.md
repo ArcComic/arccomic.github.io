@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "swimsuit"
-work_count: 69
+work_count: 70
 works:
   - title: Kizashi
     author: yoshiura-kazuya
@@ -533,4 +533,11 @@ works:
     date: '2026-09-23'
     code: 683314
     url: /works/683314/
+  - title: GyaGyaGya Gal Cosplay - LoveHo de Micchaku Nurunuru Soap Gokko
+    author: x36marubox
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684911.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 684911
+    url: /works/684911/
 ---

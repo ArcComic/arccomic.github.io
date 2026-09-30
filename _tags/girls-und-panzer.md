@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "girls und panzer"
-work_count: 4
+work_count: 5
 works:
   - title: ERIKA Vol. 2
     author: hankotsu-max
@@ -32,4 +32,12 @@ works:
     date: '2026-09-24'
     code: 649317
     url: /works/649317/
+  - title: Takebe Saori-chan toiu Kanojo to Ooarai Date de Ippaku suru Hanashi. | An
+      Overnight Date in Oarai with My Girlfriend, Takebe Saori.
+    author: hijiri-tsukasa
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684920.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 684920
+    url: /works/684920/
 ---

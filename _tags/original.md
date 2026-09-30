@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "original"
-work_count: 1020
+work_count: 1022
 works:
   - title: Natsu dake Koibito - Summer only Lover [English] =Forbidden Fetish + Ser
       Maggot=
@@ -7585,4 +7585,20 @@ works:
     date: '2026-09-29'
     code: 684800
     url: /works/684800/
+  - title: GyaGyaGya Gal Cosplay - LoveHo de Micchaku Nurunuru Soap Gokko
+    author: x36marubox
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684911.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 684911
+    url: /works/684911/
+  - title: 'Fukushuu Yami Beit "Shijin Taihokei Haishinsha ni Otoshiirerareta kara Fukushuu
+      Shite Hoshii" | My Part-Time Job Is Getting Revenge: Framed By A Citizens Arrest
+      Streamer'
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684921.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 684921
+    url: /works/684921/
 ---
