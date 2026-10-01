@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "dark skin"
-work_count: 146
+work_count: 148
 works:
   - title: Birthday
     author: hashiba-yachi
@@ -280,6 +280,13 @@ works:
     date: '2026-09-17'
     code: 526619
     url: /works/526619/
+  - title: Ochaco｜09/2024 5$ reward
+    author: ratatatat74-mr-skull
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/531308.jpg
+    rating: 0.0
+    date: '2026-10-01'
+    code: 531308
+    url: /works/531308/
   - title: Gal to no Asobikata | How to Have Fun With Gyarus!
     author: buta
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/531967.jpg
@@ -510,6 +517,13 @@ works:
     date: '2026-04-18'
     code: 635068
     url: /works/635068/
+  - title: Ochako BBC
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/635510.jpg
+    rating: 0.0
+    date: '2026-10-01'
+    code: 635510
+    url: /works/635510/
   - title: Breeding Mother 1-4
     author: saimon-k
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638218.jpg

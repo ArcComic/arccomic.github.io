@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "scanmark"
-work_count: 212
+work_count: 213
 works:
   - title: NTR Anniversary + ) [Syukurin] Mitsuha ~Netorare~ (Kimi no Na wa.) [English]
       [Colorized] by Mikaku
@@ -71,6 +71,13 @@ works:
     date: '2026-09-30'
     code: 596687
     url: /works/596687/
+  - title: Jukujo no Midare Kyonyuu
+    author: shijima-yukio
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/613188.jpg
+    rating: 0.0
+    date: '2026-10-01'
+    code: 613188
+    url: /works/613188/
   - title: Tsuma ni Ani to Kozukuri Shite Moraimashita
     author: furaimai
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/616367.jpg

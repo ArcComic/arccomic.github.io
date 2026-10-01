@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "gender change"
-work_count: 25
+work_count: 27
 works:
   - title: Hyoui Osen de Yuri Ecchi | Lesbian Sex through Corrupting Possession
     author: siina-yuuki
@@ -189,4 +189,19 @@ works:
     date: '2026-09-28'
     code: 684542
     url: /works/684542/
+  - title: Newlywed couple is involved in sugar daddy/sugar daughter relationship
+    author: zaregoto-hituji
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685229.jpg
+    rating: 0.0
+    date: '2026-10-01'
+    code: 685229
+    url: /works/685229/
+  - title: Bunkasai de Danjoshuudan Irekawari!! | A group of boys and girls switch places
+      at the school festival!!
+    author: yuukey
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685231.jpg
+    rating: 0.0
+    date: '2026-10-01'
+    code: 685231
+    url: /works/685231/
 ---

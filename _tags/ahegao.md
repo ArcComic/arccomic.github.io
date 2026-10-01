@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "ahegao"
-work_count: 295
+work_count: 299
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -2212,6 +2212,38 @@ works:
     date: '2026-10-01'
     code: 685147
     url: /works/685147/
+  - title: Oho-goe Koubi Do-hamari Onee-san ~Futanari Joshi Daisei Senyou Koki Ana~
+      | An Onee-san Gets Totally Hooked on Sex That Makes Her Moan Like Crazy! ~And
+      Becomes the Exclusive Fuck-Hole of a Futanari College Girl~
+    author: ginger-lily
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685207.jpg
+    rating: 0.0
+    date: '2026-10-01'
+    code: 685207
+    url: /works/685207/
+  - title: I should have never checked her phone
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685242.jpg
+    rating: 0.0
+    date: '2026-10-01'
+    code: 685242
+    url: /works/685242/
+  - title: Oshi no Live Kaeri ni Chichideka Gyaru ni Karamareru | Accosted by a Busty
+      Gal on my way home from my Fave's Live Concert
+    author: sume
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685305.jpg
+    rating: 0.0
+    date: '2026-10-01'
+    code: 685305
+    url: /works/685305/
+  - title: Sennyuu Sousakan -Cult ni Ochiru- Kouhen | Undercover Agent -Corrupted by
+      the Cult- Part Two
+    author: take-shinshi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685377.jpg
+    rating: 0.0
+    date: '2026-10-01'
+    code: 685377
+    url: /works/685377/
   - title: Inin Keiyaku | Lewd Pregnancy Contract
     author: yoshiura-kazuya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/83595.jpg

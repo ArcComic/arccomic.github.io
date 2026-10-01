@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "stomach deformation"
-work_count: 8
+work_count: 9
 works:
   - title: Uwa, Mesugaki Tsuyoi! | Crap, This Mesugaki's Too Powerful!
     author: poncocchan
@@ -65,4 +65,12 @@ works:
     date: '2026-08-21'
     code: 674608
     url: /works/674608/
+  - title: Sennyuu Sousakan -Cult ni Ochiru- Kouhen | Undercover Agent -Corrupted by
+      the Cult- Part Two
+    author: take-shinshi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685377.jpg
+    rating: 0.0
+    date: '2026-10-01'
+    code: 685377
+    url: /works/685377/
 ---

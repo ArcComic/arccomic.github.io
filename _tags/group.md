@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "group"
-work_count: 230
+work_count: 232
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -252,6 +252,13 @@ works:
     date: '2026-09-30'
     code: 528161
     url: /works/528161/
+  - title: Ochaco｜09/2024 5$ reward
+    author: ratatatat74-mr-skull
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/531308.jpg
+    rating: 0.0
+    date: '2026-10-01'
+    code: 531308
+    url: /works/531308/
   - title: Jimi Kyonyuu No Stalker Onna Ni Gokuhaku Saretanode Yarimakutte Mita Hanashi
       2 | I Was Confessed To By A Plain Busty Stalker Girl, So I Fucked Her Like Crazy
       2
@@ -1691,4 +1698,12 @@ works:
     date: '2026-10-01'
     code: 685147
     url: /works/685147/
+  - title: Bunkasai de Danjoshuudan Irekawari!! | A group of boys and girls switch places
+      at the school festival!!
+    author: yuukey
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685231.jpg
+    rating: 0.0
+    date: '2026-10-01'
+    code: 685231
+    url: /works/685231/
 ---

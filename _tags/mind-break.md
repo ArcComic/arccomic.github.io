@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "mind break"
-work_count: 56
+work_count: 57
 works:
   - title: Birthday
     author: hashiba-yachi
@@ -407,6 +407,14 @@ works:
     date: '2026-09-28'
     code: 684647
     url: /works/684647/
+  - title: Sennyuu Sousakan -Cult ni Ochiru- Kouhen | Undercover Agent -Corrupted by
+      the Cult- Part Two
+    author: take-shinshi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685377.jpg
+    rating: 0.0
+    date: '2026-10-01'
+    code: 685377
+    url: /works/685377/
   - title: Inin Keiyaku | Lewd Pregnancy Contract
     author: yoshiura-kazuya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/83595.jpg

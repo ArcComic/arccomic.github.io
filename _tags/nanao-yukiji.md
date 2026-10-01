@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "nanao yukiji"
-work_count: 3
+work_count: 4
 works:
   - title: Soubo Soukan | Twin Mother Incest Ch. 1
     author: nanao-yukiji
@@ -10,6 +10,13 @@ works:
     date: '2026-04-23'
     code: 356516
     url: /works/356516/
+  - title: Soubo Soukan 2 | Twin mothers incest 2 FULL
+    author: nanao-yukiji
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/378626.jpg
+    rating: 0.0
+    date: '2026-10-01'
+    code: 378626
+    url: /works/378626/
   - title: Oikko no Girlfriend o Wakaraseta Ken_关于外甥女朋友的教育方法_ 1-4
     author: nanao-yukiji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/620889.jpg

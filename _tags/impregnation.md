@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "impregnation"
-work_count: 134
+work_count: 136
 works:
   - title: Kousa suru Osu to Mesu | Male and Female Crossing
     author: ootsuka-kotora
@@ -304,6 +304,13 @@ works:
     date: '2026-09-08'
     code: 548015
     url: /works/548015/
+  - title: First Time Together
+    author: gustav
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/556427.jpg
+    rating: 0.0
+    date: '2026-10-01'
+    code: 556427
+    url: /works/556427/
   - title: Ojou-sama Sodachi no Namaiki Celeb Zuma o Kitanai Ossan Chinpo de Wakaraseru
       | Cocky Rich Bitch Glam-Wife Gets Taught A Lesson With Dirty Old Man Dick
     author: chinpan
@@ -988,6 +995,14 @@ works:
     date: '2026-09-28'
     code: 684647
     url: /works/684647/
+  - title: 'Inukai-san wa Kakure Dekiai Joushi | My Boss Secretly Adores Me: He Can''t
+      Hold Back His "Love" Tonight!'
+    author: itosugi-jou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685360.jpg
+    rating: 0.0
+    date: '2026-10-01'
+    code: 685360
+    url: /works/685360/
   - title: Inin Keiyaku | Lewd Pregnancy Contract
     author: yoshiura-kazuya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/83595.jpg

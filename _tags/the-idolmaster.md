@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "the idolmaster"
-work_count: 23
+work_count: 24
 works:
   - title: Another Produce -Kaede Takagaki-
     author: marushin
@@ -169,4 +169,11 @@ works:
     date: '2026-09-22'
     code: 682934
     url: /works/682934/
+  - title: Damatte Watashi o Dakinasai
+    author: shimono-cable
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685197.jpg
+    rating: 0.0
+    date: '2026-10-01'
+    code: 685197
+    url: /works/685197/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "very long hair"
-work_count: 50
+work_count: 51
 works:
   - title: Koi no Susumekata | How to Advance Your Love
     author: danimaru
@@ -380,4 +380,12 @@ works:
     date: '2026-09-30'
     code: 684898
     url: /works/684898/
+  - title: That Time When a Demon Bunny-Girl Used Christmas Eve as a Pretense to Milk
+      Me Dry
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685339.jpg
+    rating: 0.0
+    date: '2026-10-01'
+    code: 685339
+    url: /works/685339/
 ---

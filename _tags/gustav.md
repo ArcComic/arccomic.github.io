@@ -1,8 +1,22 @@
 ---
 layout: tag
 tag_name: "gustav"
-work_count: 2
+work_count: 4
 works:
+  - title: First Time Together
+    author: gustav
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/556427.jpg
+    rating: 0.0
+    date: '2026-10-01'
+    code: 556427
+    url: /works/556427/
+  - title: The beginning of a marriage between him and her
+    author: gustav
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/648730.jpg
+    rating: 0.0
+    date: '2026-10-01'
+    code: 648730
+    url: /works/648730/
   - title: Kimi wa Kagayaku Tsukihana no You ni - Like a luminous moonflower, You Enrapture
       My Heart. + Melonbooks Tokuten Sensei wa Yappari JK to Yaritai
     author: gustav

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole female"
-work_count: 889
+work_count: 897
 works:
   - title: Adoration
     author: kishizuka-kenji
@@ -1889,6 +1889,13 @@ works:
     date: '2026-04-19'
     code: 556036
     url: /works/556036/
+  - title: First Time Together
+    author: gustav
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/556427.jpg
+    rating: 0.0
+    date: '2026-10-01'
+    code: 556427
+    url: /works/556427/
   - title: Houkai Kazoku -Hahaoya ga Yakuza to no Sex ni Hamatta Hanashi- | Broken Family
       - A Story About a Mother Who Became Addicted to Sex With a Yakuza
     author: watsondou
@@ -3093,6 +3100,13 @@ works:
     date: '2026-09-09'
     code: 635482
     url: /works/635482/
+  - title: Ochako BBC
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/635510.jpg
+    rating: 0.0
+    date: '2026-10-01'
+    code: 635510
+    url: /works/635510/
   - title: Noa-chan to Ichaicha suru Hon
     author: remora
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/635512.jpg
@@ -3854,6 +3868,13 @@ works:
     date: '2026-09-30'
     code: 648591
     url: /works/648591/
+  - title: The beginning of a marriage between him and her
+    author: gustav
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/648730.jpg
+    rating: 0.0
+    date: '2026-10-01'
+    code: 648730
+    url: /works/648730/
   - title: Trop 1 ~ Onabare Hitozuma no Sango Shojo o Itadakimasu~ | Trop 1 ~ I'll Take
       the Post-Birth Virginity of a Married Woman Whose Masturbation Was Exposed~
     author: higashide-irodori
@@ -6593,4 +6614,44 @@ works:
     date: '2026-09-30'
     code: 684921
     url: /works/684921/
+  - title: Damatte Watashi o Dakinasai
+    author: shimono-cable
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685197.jpg
+    rating: 0.0
+    date: '2026-10-01'
+    code: 685197
+    url: /works/685197/
+  - title: Oho-goe Koubi Do-hamari Onee-san ~Futanari Joshi Daisei Senyou Koki Ana~
+      | An Onee-san Gets Totally Hooked on Sex That Makes Her Moan Like Crazy! ~And
+      Becomes the Exclusive Fuck-Hole of a Futanari College Girl~
+    author: ginger-lily
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685207.jpg
+    rating: 0.0
+    date: '2026-10-01'
+    code: 685207
+    url: /works/685207/
+  - title: Oshi no Live Kaeri ni Chichideka Gyaru ni Karamareru | Accosted by a Busty
+      Gal on my way home from my Fave's Live Concert
+    author: sume
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685305.jpg
+    rating: 0.0
+    date: '2026-10-01'
+    code: 685305
+    url: /works/685305/
+  - title: 'Inukai-san wa Kakure Dekiai Joushi | My Boss Secretly Adores Me: He Can''t
+      Hold Back His "Love" Tonight!'
+    author: itosugi-jou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685360.jpg
+    rating: 0.0
+    date: '2026-10-01'
+    code: 685360
+    url: /works/685360/
+  - title: Sennyuu Sousakan -Cult ni Ochiru- Kouhen | Undercover Agent -Corrupted by
+      the Cult- Part Two
+    author: take-shinshi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685377.jpg
+    rating: 0.0
+    date: '2026-10-01'
+    code: 685377
+    url: /works/685377/
 ---

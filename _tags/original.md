@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "original"
-work_count: 1044
+work_count: 1050
 works:
   - title: Natsu dake Koibito - Summer only Lover [English] =Forbidden Fetish + Ser
       Maggot=
@@ -7767,4 +7767,52 @@ works:
     date: '2026-10-01'
     code: 685147
     url: /works/685147/
+  - title: Oho-goe Koubi Do-hamari Onee-san ~Futanari Joshi Daisei Senyou Koki Ana~
+      | An Onee-san Gets Totally Hooked on Sex That Makes Her Moan Like Crazy! ~And
+      Becomes the Exclusive Fuck-Hole of a Futanari College Girl~
+    author: ginger-lily
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685207.jpg
+    rating: 0.0
+    date: '2026-10-01'
+    code: 685207
+    url: /works/685207/
+  - title: Newlywed couple is involved in sugar daddy/sugar daughter relationship
+    author: zaregoto-hituji
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685229.jpg
+    rating: 0.0
+    date: '2026-10-01'
+    code: 685229
+    url: /works/685229/
+  - title: Bunkasai de Danjoshuudan Irekawari!! | A group of boys and girls switch places
+      at the school festival!!
+    author: yuukey
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685231.jpg
+    rating: 0.0
+    date: '2026-10-01'
+    code: 685231
+    url: /works/685231/
+  - title: Oshi no Live Kaeri ni Chichideka Gyaru ni Karamareru | Accosted by a Busty
+      Gal on my way home from my Fave's Live Concert
+    author: sume
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685305.jpg
+    rating: 0.0
+    date: '2026-10-01'
+    code: 685305
+    url: /works/685305/
+  - title: That Time When a Demon Bunny-Girl Used Christmas Eve as a Pretense to Milk
+      Me Dry
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685339.jpg
+    rating: 0.0
+    date: '2026-10-01'
+    code: 685339
+    url: /works/685339/
+  - title: Sennyuu Sousakan -Cult ni Ochiru- Kouhen | Undercover Agent -Corrupted by
+      the Cult- Part Two
+    author: take-shinshi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685377.jpg
+    rating: 0.0
+    date: '2026-10-01'
+    code: 685377
+    url: /works/685377/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "netorare"
-work_count: 411
+work_count: 415
 works:
   - title: Kousa suru Osu to Mesu | Male and Female Crossing
     author: ootsuka-kotora
@@ -719,6 +719,13 @@ works:
     date: '2026-08-18'
     code: 530728
     url: /works/530728/
+  - title: Ochaco｜09/2024 5$ reward
+    author: ratatatat74-mr-skull
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/531308.jpg
+    rating: 0.0
+    date: '2026-10-01'
+    code: 531308
+    url: /works/531308/
   - title: Yamazaki Makie (3●-sai), Musume no Kareshi to SeFri ni Naru | Yamazaki Makie
       (3X Years Old), Becoming Fuck Buddies with her Daughter's Boyfriend
     author: ryuuta
@@ -1411,6 +1418,13 @@ works:
     date: '2026-09-09'
     code: 635482
     url: /works/635482/
+  - title: Ochako BBC
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/635510.jpg
+    rating: 0.0
+    date: '2026-10-01'
+    code: 635510
+    url: /works/635510/
   - title: Ochiba Nikki -Jitaku Choukyou Hen 2- | Fallen Leaves Diary -House Training
       Arc 2-
     author: hitoi
@@ -3032,6 +3046,21 @@ works:
     date: '2026-09-30'
     code: 684921
     url: /works/684921/
+  - title: I should have never checked her phone
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685242.jpg
+    rating: 0.0
+    date: '2026-10-01'
+    code: 685242
+    url: /works/685242/
+  - title: Sennyuu Sousakan -Cult ni Ochiru- Kouhen | Undercover Agent -Corrupted by
+      the Cult- Part Two
+    author: take-shinshi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685377.jpg
+    rating: 0.0
+    date: '2026-10-01'
+    code: 685377
+    url: /works/685377/
   - title: Inin Keiyaku | Lewd Pregnancy Contract
     author: yoshiura-kazuya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/83595.jpg

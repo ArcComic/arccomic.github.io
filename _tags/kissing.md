@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "kissing"
-work_count: 340
+work_count: 343
 works:
   - title: FLUFFY LAUGH GIRL
     author: shibasaki-syouzi
@@ -467,6 +467,13 @@ works:
     date: '2026-03-07'
     code: 531191
     url: /works/531191/
+  - title: Ochaco｜09/2024 5$ reward
+    author: ratatatat74-mr-skull
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/531308.jpg
+    rating: 0.0
+    date: '2026-10-01'
+    code: 531308
+    url: /works/531308/
   - title: Yamazaki Makie (3●-sai), Musume no Kareshi to SeFri ni Naru | Yamazaki Makie
       (3X Years Old), Becoming Fuck Buddies with her Daughter's Boyfriend
     author: ryuuta
@@ -1115,6 +1122,13 @@ works:
     date: '2026-09-09'
     code: 635482
     url: /works/635482/
+  - title: Ochako BBC
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/635510.jpg
+    rating: 0.0
+    date: '2026-10-01'
+    code: 635510
+    url: /works/635510/
   - title: Noa-chan to Ichaicha suru Hon
     author: remora
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/635512.jpg
@@ -2557,4 +2571,12 @@ works:
     date: '2026-10-01'
     code: 685147
     url: /works/685147/
+  - title: 'Inukai-san wa Kakure Dekiai Joushi | My Boss Secretly Adores Me: He Can''t
+      Hold Back His "Love" Tonight!'
+    author: itosugi-jou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685360.jpg
+    rating: 0.0
+    date: '2026-10-01'
+    code: 685360
+    url: /works/685360/
 ---

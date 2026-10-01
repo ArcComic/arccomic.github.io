@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "butt plug"
-work_count: 9
+work_count: 10
 works:
   - title: Senpai No Oppai Complete
     author: menoko
@@ -71,4 +71,12 @@ works:
     date: '2026-09-28'
     code: 684587
     url: /works/684587/
+  - title: That Time When a Demon Bunny-Girl Used Christmas Eve as a Pretense to Milk
+      Me Dry
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685339.jpg
+    rating: 0.0
+    date: '2026-10-01'
+    code: 685339
+    url: /works/685339/
 ---

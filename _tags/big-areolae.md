@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "big areolae"
-work_count: 87
+work_count: 90
 works:
+  - title: Soubo Soukan 2 | Twin mothers incest 2 FULL
+    author: nanao-yukiji
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/378626.jpg
+    rating: 0.0
+    date: '2026-10-01'
+    code: 378626
+    url: /works/378626/
   - title: Kanojo no Kawaii Mieppari | My Cute Gyaru Girlfriend Is a Total Poser
     author: buta
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/441114.jpg
@@ -158,6 +165,13 @@ works:
     date: '2026-09-30'
     code: 604775
     url: /works/604775/
+  - title: Jukujo no Midare Kyonyuu
+    author: shijima-yukio
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/613188.jpg
+    rating: 0.0
+    date: '2026-10-01'
+    code: 613188
+    url: /works/613188/
   - title: 'Taihai Tsuma: Taihaikei Hitotsuma o Yachin Kawari ni Koki Tsukaeru Hanashi
       | Slutty Wife!'
     author: kametaro
@@ -670,4 +684,12 @@ works:
     date: '2026-09-30'
     code: 684758
     url: /works/684758/
+  - title: Oshi no Live Kaeri ni Chichideka Gyaru ni Karamareru | Accosted by a Busty
+      Gal on my way home from my Fave's Live Concert
+    author: sume
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685305.jpg
+    rating: 0.0
+    date: '2026-10-01'
+    code: 685305
+    url: /works/685305/
 ---

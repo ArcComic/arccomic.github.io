@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "doujinshi"
-work_count: 1246
+work_count: 1259
 works:
   - title: Birthday
     author: hashiba-yachi
@@ -1739,6 +1739,13 @@ works:
     date: '2026-03-07'
     code: 531191
     url: /works/531191/
+  - title: Ochaco｜09/2024 5$ reward
+    author: ratatatat74-mr-skull
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/531308.jpg
+    rating: 0.0
+    date: '2026-10-01'
+    code: 531308
+    url: /works/531308/
   - title: Yamazaki Makie (3●-sai), Musume no Kareshi to SeFri ni Naru | Yamazaki Makie
       (3X Years Old), Becoming Fuck Buddies with her Daughter's Boyfriend
     author: ryuuta
@@ -2149,6 +2156,13 @@ works:
     date: '2026-04-19'
     code: 556036
     url: /works/556036/
+  - title: First Time Together
+    author: gustav
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/556427.jpg
+    rating: 0.0
+    date: '2026-10-01'
+    code: 556427
+    url: /works/556427/
   - title: Hayato-sensei no Mesu-ka Karute Daigaku-hen | Dr. Hayato's Feminization Medical
       Record ~University Edition~
     author: testame
@@ -3180,6 +3194,13 @@ works:
     date: '2026-04-15'
     code: 612887
     url: /works/612887/
+  - title: Jukujo no Midare Kyonyuu
+    author: shijima-yukio
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/613188.jpg
+    rating: 0.0
+    date: '2026-10-01'
+    code: 613188
+    url: /works/613188/
   - title: Fuufu Koukan Matching Appli ~DQN na Hitozuma ni Nakadashi Houshi~
     author: hachi-mega
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/613739.jpg
@@ -3862,6 +3883,13 @@ works:
     date: '2026-03-07'
     code: 635363
     url: /works/635363/
+  - title: Ochako BBC
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/635510.jpg
+    rating: 0.0
+    date: '2026-10-01'
+    code: 635510
+    url: /works/635510/
   - title: Noa-chan to Ichaicha suru Hon
     author: remora
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/635512.jpg
@@ -4958,6 +4986,13 @@ works:
     date: '2026-09-30'
     code: 648591
     url: /works/648591/
+  - title: The beginning of a marriage between him and her
+    author: gustav
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/648730.jpg
+    rating: 0.0
+    date: '2026-10-01'
+    code: 648730
+    url: /works/648730/
   - title: Shirayuki Mishiro & Enomiya Milk Saimin Sakunyuu Play Hon Matome
     author: rurimaru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/648800.jpg
@@ -9221,4 +9256,66 @@ works:
     date: '2026-10-01'
     code: 685147
     url: /works/685147/
+  - title: Damatte Watashi o Dakinasai
+    author: shimono-cable
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685197.jpg
+    rating: 0.0
+    date: '2026-10-01'
+    code: 685197
+    url: /works/685197/
+  - title: Oho-goe Koubi Do-hamari Onee-san ~Futanari Joshi Daisei Senyou Koki Ana~
+      | An Onee-san Gets Totally Hooked on Sex That Makes Her Moan Like Crazy! ~And
+      Becomes the Exclusive Fuck-Hole of a Futanari College Girl~
+    author: ginger-lily
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685207.jpg
+    rating: 0.0
+    date: '2026-10-01'
+    code: 685207
+    url: /works/685207/
+  - title: Newlywed couple is involved in sugar daddy/sugar daughter relationship
+    author: zaregoto-hituji
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685229.jpg
+    rating: 0.0
+    date: '2026-10-01'
+    code: 685229
+    url: /works/685229/
+  - title: Bunkasai de Danjoshuudan Irekawari!! | A group of boys and girls switch places
+      at the school festival!!
+    author: yuukey
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685231.jpg
+    rating: 0.0
+    date: '2026-10-01'
+    code: 685231
+    url: /works/685231/
+  - title: I should have never checked her phone
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685242.jpg
+    rating: 0.0
+    date: '2026-10-01'
+    code: 685242
+    url: /works/685242/
+  - title: Oshi no Live Kaeri ni Chichideka Gyaru ni Karamareru | Accosted by a Busty
+      Gal on my way home from my Fave's Live Concert
+    author: sume
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685305.jpg
+    rating: 0.0
+    date: '2026-10-01'
+    code: 685305
+    url: /works/685305/
+  - title: That Time When a Demon Bunny-Girl Used Christmas Eve as a Pretense to Milk
+      Me Dry
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685339.jpg
+    rating: 0.0
+    date: '2026-10-01'
+    code: 685339
+    url: /works/685339/
+  - title: Sennyuu Sousakan -Cult ni Ochiru- Kouhen | Undercover Agent -Corrupted by
+      the Cult- Part Two
+    author: take-shinshi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685377.jpg
+    rating: 0.0
+    date: '2026-10-01'
+    code: 685377
+    url: /works/685377/
 ---

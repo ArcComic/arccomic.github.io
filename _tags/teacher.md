@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "teacher"
-work_count: 87
+work_count: 88
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -636,6 +636,14 @@ works:
     date: '2026-09-30'
     code: 684920
     url: /works/684920/
+  - title: Bunkasai de Danjoshuudan Irekawari!! | A group of boys and girls switch places
+      at the school festival!!
+    author: yuukey
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685231.jpg
+    rating: 0.0
+    date: '2026-10-01'
+    code: 685231
+    url: /works/685231/
   - title: Jokyoushi - Hot For Teachers | Female Teachers
     author: drill-murata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/81375.jpg

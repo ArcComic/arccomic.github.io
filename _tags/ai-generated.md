@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "ai generated"
-work_count: 5
+work_count: 6
 works:
   - title: 橘さん家ノ脅迫NTR事情
     author: group
@@ -10,6 +10,13 @@ works:
     date: '2026-03-07'
     code: 634198
     url: /works/634198/
+  - title: Ochako BBC
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/635510.jpg
+    rating: 0.0
+    date: '2026-10-01'
+    code: 635510
+    url: /works/635510/
   - title: 撞破秘密后，我成了上司的“专属藏品
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/645525.jpg

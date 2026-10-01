@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "hairy"
-work_count: 283
+work_count: 284
 works:
   - title: Adoration
     author: kishizuka-kenji
@@ -892,6 +892,13 @@ works:
     date: '2026-04-17'
     code: 612957
     url: /works/612957/
+  - title: Jukujo no Midare Kyonyuu
+    author: shijima-yukio
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/613188.jpg
+    rating: 0.0
+    date: '2026-10-01'
+    code: 613188
+    url: /works/613188/
   - title: Nishida Ke no Himegoto | Nishida Family Secret 1-3
     author: kojima-miu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/614205.jpg

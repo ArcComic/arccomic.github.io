@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "cervix penetration"
-work_count: 5
+work_count: 6
 works:
   - title: Little Blue Bird
     author: kidouchi-kon
@@ -41,4 +41,12 @@ works:
     date: '2026-09-30'
     code: 684759
     url: /works/684759/
+  - title: Oshi no Live Kaeri ni Chichideka Gyaru ni Karamareru | Accosted by a Busty
+      Gal on my way home from my Fave's Live Concert
+    author: sume
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685305.jpg
+    rating: 0.0
+    date: '2026-10-01'
+    code: 685305
+    url: /works/685305/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "swimsuit"
-work_count: 71
+work_count: 72
 works:
   - title: Kizashi
     author: yoshiura-kazuya
@@ -547,4 +547,12 @@ works:
     date: '2026-09-30'
     code: 684911
     url: /works/684911/
+  - title: 'Inukai-san wa Kakure Dekiai Joushi | My Boss Secretly Adores Me: He Can''t
+      Hold Back His "Love" Tonight!'
+    author: itosugi-jou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685360.jpg
+    rating: 0.0
+    date: '2026-10-01'
+    code: 685360
+    url: /works/685360/
 ---

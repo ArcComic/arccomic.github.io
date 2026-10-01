@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "full censorship"
-work_count: 112
+work_count: 114
 works:
   - title: Kaisha de Iroiro | Gettin' Busy at the Office
     author: hara-shigeyuki
@@ -809,6 +809,22 @@ works:
     date: '2026-09-30'
     code: 684898
     url: /works/684898/
+  - title: That Time When a Demon Bunny-Girl Used Christmas Eve as a Pretense to Milk
+      Me Dry
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685339.jpg
+    rating: 0.0
+    date: '2026-10-01'
+    code: 685339
+    url: /works/685339/
+  - title: 'Inukai-san wa Kakure Dekiai Joushi | My Boss Secretly Adores Me: He Can''t
+      Hold Back His "Love" Tonight!'
+    author: itosugi-jou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685360.jpg
+    rating: 0.0
+    date: '2026-10-01'
+    code: 685360
+    url: /works/685360/
   - title: Hottokenaino
     author: hara-shigeyuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/77864.jpg

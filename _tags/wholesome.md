@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "wholesome"
-work_count: 145
+work_count: 146
 works:
   - title: FLUFFY LAUGH GIRL
     author: shibasaki-syouzi
@@ -781,6 +781,13 @@ works:
     date: '2026-09-04'
     code: 647692
     url: /works/647692/
+  - title: The beginning of a marriage between him and her
+    author: gustav
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/648730.jpg
+    rating: 0.0
+    date: '2026-10-01'
+    code: 648730
+    url: /works/648730/
   - title: Trop 1 ~ Onabare Hitozuma no Sango Shojo o Itadakimasu~ | Trop 1 ~ I'll Take
       the Post-Birth Virginity of a Married Woman Whose Masturbation Was Exposed~
     author: higashide-irodori

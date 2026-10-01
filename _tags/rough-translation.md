@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "rough translation"
-work_count: 614
+work_count: 619
 works:
   - title: Boku no Shiranai Kimi no Kao
     author: utsutsu-minoru
@@ -257,6 +257,13 @@ works:
     date: '2026-03-07'
     code: 531191
     url: /works/531191/
+  - title: Ochaco｜09/2024 5$ reward
+    author: ratatatat74-mr-skull
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/531308.jpg
+    rating: 0.0
+    date: '2026-10-01'
+    code: 531308
+    url: /works/531308/
   - title: Youka-go Tsuma no Haha o Daku | Eight Days With My Wife's Mother
     author: jagaimo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/534808.jpg
@@ -757,6 +764,13 @@ works:
     date: '2026-09-30'
     code: 612425
     url: /works/612425/
+  - title: Jukujo no Midare Kyonyuu
+    author: shijima-yukio
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/613188.jpg
+    rating: 0.0
+    date: '2026-10-01'
+    code: 613188
+    url: /works/613188/
   - title: Fuufu Koukan Matching Appli ~DQN na Hitozuma ni Nakadashi Houshi~
     author: hachi-mega
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/613739.jpg
@@ -1090,6 +1104,13 @@ works:
     date: '2026-03-07'
     code: 635241
     url: /works/635241/
+  - title: Ochako BBC
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/635510.jpg
+    rating: 0.0
+    date: '2026-10-01'
+    code: 635510
+    url: /works/635510/
   - title: Kaa-san wa Home Helper
     author: '41'
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/636389.jpg
@@ -4490,4 +4511,19 @@ works:
     date: '2026-10-01'
     code: 685147
     url: /works/685147/
+  - title: Damatte Watashi o Dakinasai
+    author: shimono-cable
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685197.jpg
+    rating: 0.0
+    date: '2026-10-01'
+    code: 685197
+    url: /works/685197/
+  - title: Sennyuu Sousakan -Cult ni Ochiru- Kouhen | Undercover Agent -Corrupted by
+      the Cult- Part Two
+    author: take-shinshi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685377.jpg
+    rating: 0.0
+    date: '2026-10-01'
+    code: 685377
+    url: /works/685377/
 ---

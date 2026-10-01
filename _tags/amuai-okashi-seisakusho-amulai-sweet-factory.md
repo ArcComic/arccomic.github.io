@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "amuai okashi seisakusho | amulai sweet factory"
-work_count: 2
+work_count: 3
 works:
   - title: Shuudan Jotaika Gyaru, Ochiru | Mass-Gender Bended Gyarus, Fall into Depravity
     author: betty
@@ -18,4 +18,12 @@ works:
     date: '2026-09-09'
     code: 679890
     url: /works/679890/
+  - title: Bunkasai de Danjoshuudan Irekawari!! | A group of boys and girls switch places
+      at the school festival!!
+    author: yuukey
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685231.jpg
+    rating: 0.0
+    date: '2026-10-01'
+    code: 685231
+    url: /works/685231/
 ---

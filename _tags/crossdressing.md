@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "crossdressing"
-work_count: 19
+work_count: 21
 works:
   - title: Sekai ga Heiwa ni Natta node Yuusha (Jitsu wa ♀) ni Kyuukon Shita Kekka |
       Marriage Proposal to the Hero (Actually ♀) When the World Is at Peace
@@ -144,4 +144,19 @@ works:
     date: '2026-09-27'
     code: 684322
     url: /works/684322/
+  - title: Yuuwaku Yukemuri! Aoba-kun
+    author: kosyo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685284.jpg
+    rating: 0.0
+    date: '2026-10-01'
+    code: 685284
+    url: /works/685284/
+  - title: That Time When a Demon Bunny-Girl Used Christmas Eve as a Pretense to Milk
+      Me Dry
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685339.jpg
+    rating: 0.0
+    date: '2026-10-01'
+    code: 685339
+    url: /works/685339/
 ---

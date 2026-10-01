@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "milf"
-work_count: 433
+work_count: 434
 works:
   - title: Life with Married Women Just Like a Manga 2 - Ch. 1-5
     author: hidemaru
@@ -316,6 +316,13 @@ works:
     date: '2026-09-06'
     code: 370164
     url: /works/370164/
+  - title: Soubo Soukan 2 | Twin mothers incest 2 FULL
+    author: nanao-yukiji
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/378626.jpg
+    rating: 0.0
+    date: '2026-10-01'
+    code: 378626
+    url: /works/378626/
   - title: Doukyuusei no Wakai Haha | My Classmate's Young Mom
     author: aoki-kanji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/383623.jpg

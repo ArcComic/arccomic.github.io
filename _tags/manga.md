@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "manga"
-work_count: 356
+work_count: 359
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -356,6 +356,13 @@ works:
     date: '2026-09-06'
     code: 370164
     url: /works/370164/
+  - title: Soubo Soukan 2 | Twin mothers incest 2 FULL
+    author: nanao-yukiji
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/378626.jpg
+    rating: 0.0
+    date: '2026-10-01'
+    code: 378626
+    url: /works/378626/
   - title: Sayonara Onee-chan | Goodbye Big Sis!
     author: kamitsuki-manmaru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/380273.jpg
@@ -2527,6 +2534,21 @@ works:
     code: 684964
     url: /works/684964/
   - *id002
+  - title: Yuuwaku Yukemuri! Aoba-kun
+    author: kosyo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685284.jpg
+    rating: 0.0
+    date: '2026-10-01'
+    code: 685284
+    url: /works/685284/
+  - title: 'Inukai-san wa Kakure Dekiai Joushi | My Boss Secretly Adores Me: He Can''t
+      Hold Back His "Love" Tonight!'
+    author: itosugi-jou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685360.jpg
+    rating: 0.0
+    date: '2026-10-01'
+    code: 685360
+    url: /works/685360/
   - title: Hottokenaino
     author: hara-shigeyuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/77864.jpg
