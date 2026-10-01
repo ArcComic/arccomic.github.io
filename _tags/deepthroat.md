@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "deepthroat"
-work_count: 76
+work_count: 77
 works:
   - title: Toshishita Chin Kui Obasan
     author: maccha-neji
@@ -220,6 +220,15 @@ works:
     date: '2026-05-07'
     code: 648551
     url: /works/648551/
+  - title: Daikirai na Yakyuubu Kantoku to Daisuki na Kaa-san no Sex wo Hitobanjuu Mita
+      Yoru | The night i watched my beloved mother have sex with the baseball coach
+      i hate!
+    author: watsondou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/648591.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 648591
+    url: /works/648591/
   - title: Trop 1 ~ Onabare Hitozuma no Sango Shojo o Itadakimasu~ | Trop 1 ~ I'll Take
       the Post-Birth Virginity of a Married Woman Whose Masturbation Was Exposed~
     author: higashide-irodori

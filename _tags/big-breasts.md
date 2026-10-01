@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big breasts"
-work_count: 1013
+work_count: 1029
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -116,6 +116,13 @@ works:
     date: '2026-04-19'
     code: 244812
     url: /works/244812/
+  - title: Boku no Shiranai Kimi no Kao
+    author: utsutsu-minoru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/246449.jpg
+    rating: 4.9
+    date: '2026-09-30'
+    code: 246449
+    url: /works/246449/
   - title: Shizuku-san wa Ore no Omoibito | My Neighbor Shizuka-San, My Fondest Desire
     author: saemon
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/269224.jpg
@@ -375,6 +382,13 @@ works:
     date: '2026-09-13'
     code: 364828
     url: /works/364828/
+  - title: Kanojo no SmaPho o Nozoita dake nano ni | I Just Snooped through Her Smartphone
+    author: chocoro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/367709.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 367709
+    url: /works/367709/
   - title: Ore no Osananajimi ga Uza Kawaii!! | My Childhood Friend Is Annoyingly Cute!!
     author: mataro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/369139.jpg
@@ -2363,6 +2377,14 @@ works:
     date: '2026-05-07'
     code: 596598
     url: /works/596598/
+  - title: Houkai Kazoku 0 -Hahaoya ga Yakuza to no Sex ni Hamatta Hanashi- | Collapsed
+      Family 0 - The story of a mother who got hooked on sex with a Yakuza
+    author: watsondou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/596687.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 596687
+    url: /works/596687/
   - title: Hajimete no DomiSub ~Match App de Mitsuketa Goshujin-sama ni Jinsei Bukkowashite
       Moraimasu~
     author: nemui-neru
@@ -2452,6 +2474,14 @@ works:
     date: '2026-03-02'
     code: 603756
     url: /works/603756/
+  - title: 30cm Chou Tsuyotsuyo Futanari Chinpo o Semen ga Karerukurai Manzoku Saserareru
+      kana?
+    author: sabakan
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/604775.jpg
+    rating: 4.8
+    date: '2026-09-30'
+    code: 604775
+    url: /works/604775/
   - title: Soukan Syndrome
     author: kuroiwa-menou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/605633.jpg
@@ -2596,6 +2626,14 @@ works:
     date: '2026-04-14'
     code: 612083
     url: /works/612083/
+  - title: Mama ga Muchuu na Musume no Kareshi 2 - Kono Chinpo wa Kyouikujou Yoroshikunai
+      node Mama ga Shori Shimasu. | Mom's obsessed with her Daughter's Boyfriend 2
+    author: ohnaka-ito
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/612425.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 612425
+    url: /works/612425/
   - title: Iraira o Musume no Gakuyuu ni Butsukete Shimatta Hanashi
     author: uni18
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/612498.jpg
@@ -2640,6 +2678,13 @@ works:
     date: '2026-09-29'
     code: 614205
     url: /works/614205/
+  - title: Namaiki Papa Katsu Shoujo ni Seisai SEX
+    author: ichinomiya-yuu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/614675.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 614675
+    url: /works/614675/
   - title: Oku-sama Shachou wa Miraretai | Madam President Wants to Be Seen
     author: minamida-usuke
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/615333.jpg
@@ -2792,6 +2837,14 @@ works:
     date: '2026-05-26'
     code: 622857
     url: /works/622857/
+  - title: Kareshi Mochi no Mei wa Shinjiteta Oji-san ni Okasareru | My Niece, Who had
+      a Boyfriend, Was Raped by Her Uncle, Whom She Trusted
+    author: ichinomiya-yuu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/624848.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 624848
+    url: /works/624848/
   - title: Watashi ga Haishin de Porori Shichau tte Uso Desu yo ne!? | It's Not True
       That My Breasts Will Be Exposed During The Live Stream, Right!?
     author: ouno
@@ -3363,6 +3416,13 @@ works:
     date: '2026-09-13'
     code: 641977
     url: /works/641977/
+  - title: Koitsu majide choro katta 〜 kinjo no shingurumaza-hen 〜
+    author: doron
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642018.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 642018
+    url: /works/642018/
   - title: Haruna wa Kyou kara Sachiko ni Narimashita.
     author: mashumarodan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642023.jpg
@@ -3997,6 +4057,15 @@ works:
     date: '2026-05-07'
     code: 648551
     url: /works/648551/
+  - title: Daikirai na Yakyuubu Kantoku to Daisuki na Kaa-san no Sex wo Hitobanjuu Mita
+      Yoru | The night i watched my beloved mother have sex with the baseball coach
+      i hate!
+    author: watsondou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/648591.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 648591
+    url: /works/648591/
   - title: Trop 1 ~ Onabare Hitozuma no Sango Shojo o Itadakimasu~ | Trop 1 ~ I'll Take
       the Post-Birth Virginity of a Married Woman Whose Masturbation Was Exposed~
     author: higashide-irodori
@@ -4099,6 +4168,13 @@ works:
     date: '2026-05-20'
     code: 651197
     url: /works/651197/
+  - title: Inkan no Ketsuzoku 1-3
+    author: diisuke
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651242.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 651242
+    url: /works/651242/
   - title: Jill's Rehabilitation
     author: sawao
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651296.jpg
@@ -4282,6 +4358,13 @@ works:
     date: '2026-05-27'
     code: 652801
     url: /works/652801/
+  - title: Houkai Kazoku 2-Hahaoya ga Yakuza to no Sex ni Hamatta Hanashi-
+    author: watsondou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/653079.jpg
+    rating: 4.6
+    date: '2026-09-30'
+    code: 653079
+    url: /works/653079/
   - title: Mother's Orgasm ~Completely Submissive to Son's Cock~Chapter 1
     author: jamming
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/653091.jpg
@@ -4665,6 +4748,14 @@ works:
     date: '2026-08-22'
     code: 659484
     url: /works/659484/
+  - title: Taido Warui Jou wa Otoshigai Arimasu | This Bratty Prostitute Was Easy To
+      Break
+    author: hikitogu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/660241.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 660241
+    url: /works/660241/
   - title: Imouto ga Ore no Kanojo!? 2-haku 3-ka no Ecchi na Kankei | My Sister is My
       Girlfriend!? Sexual Relationship for Two Nights and Three Days
     author: katagiri-kaneharu
@@ -5084,6 +5175,14 @@ works:
     date: '2026-07-11'
     code: 663192
     url: /works/663192/
+  - title: Boku to Onee-san no Natsu wa Mada Hajimatta Bakari | My Summer Story Has
+      Just Begun
+    author: gustav
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/663254.jpg
+    rating: 4.3
+    date: '2026-10-01'
+    code: 663254
+    url: /works/663254/
   - title: Gal to Otaku no Idenshi Aishou Batsugun H | The Superb Genetic Compatibility
       Between a Gyaru and an Otaku
     author: joucho
@@ -5549,6 +5648,14 @@ works:
     date: '2026-08-25'
     code: 672450
     url: /works/672450/
+  - title: Tomodachi no Muchimuchi Kyonyuu Mama ga Ero Sugiru no ga Ikenai... Iya Ikeru!!
+      2
+    author: gya-tei
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/672692.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 672692
+    url: /works/672692/
   - title: 'Natsuki no Natsu  Ore no Kyonyuu Osananajimi wa Natsu no Aida ni Otona no
       Te de Mesu ni Sareteita | Natsuki''s Summer: My Big-Busted Childhood Friend Was
       Turned Into a Woman by Adult Hands During the Summer'
@@ -7451,6 +7558,13 @@ works:
     date: '2026-09-29'
     code: 684800
     url: /works/684800/
+  - title: Request Itadaita Mono desu | Per Request - Juri Han
+    author: osuwaani
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684861.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 684861
+    url: /works/684861/
   - title: YOUR SISTER - CHAPTER 1-16
     author: konparu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684882.jpg
@@ -7489,6 +7603,15 @@ works:
     date: '2026-09-30'
     code: 684921
     url: /works/684921/
+  - title: Cross My Heart ~Tsundere Fuuki Iin to Kinpatsu Bishoujo Ryuugakusei~ | Cross
+      My Heart ~The Tsundere Disciplinary Committee Member and the Beautiful Blonde
+      Exchange Student~
+    author: takeda-hiromitsu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685147.jpg
+    rating: 0.0
+    date: '2026-10-01'
+    code: 685147
+    url: /works/685147/
   - title: Hottokenaino
     author: hara-shigeyuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/77864.jpg

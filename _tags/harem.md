@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "harem"
-work_count: 35
+work_count: 37
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -53,6 +53,13 @@ works:
     date: '2026-09-25'
     code: 562201
     url: /works/562201/
+  - title: Geriatric Dragons dogma
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/596562.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 596562
+    url: /works/596562/
   - title: Kirishima's Mother
     author: kojima-miu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/601711.jpg
@@ -253,6 +260,15 @@ works:
     date: '2026-09-27'
     code: 684322
     url: /works/684322/
+  - title: Cross My Heart ~Tsundere Fuuki Iin to Kinpatsu Bishoujo Ryuugakusei~ | Cross
+      My Heart ~The Tsundere Disciplinary Committee Member and the Beautiful Blonde
+      Exchange Student~
+    author: takeda-hiromitsu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685147.jpg
+    rating: 0.0
+    date: '2026-10-01'
+    code: 685147
+    url: /works/685147/
   - title: Jokyoushi - Hot For Teachers | Female Teachers
     author: drill-murata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/81375.jpg

@@ -17,19 +17,22 @@ works:
     date: '2026-05-07'
     code: 596598
     url: /works/596598/
-  - title: Work 596687
+  - title: Houkai Kazoku 0 -Hahaoya ga Yakuza to no Sex ni Hamatta Hanashi- | Collapsed
+      Family 0 - The story of a mother who got hooked on sex with a Yakuza
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/596687.jpg
     rating: 0.0
     date: '2026-09-30'
     code: 596687
     url: /works/596687/
-  - title: Work 648591
+  - title: Daikirai na Yakyuubu Kantoku to Daisuki na Kaa-san no Sex wo Hitobanjuu Mita
+      Yoru | The night i watched my beloved mother have sex with the baseball coach
+      i hate!
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/648591.jpg
     rating: 0.0
     date: '2026-09-30'
     code: 648591
     url: /works/648591/
-  - title: Work 653079
+  - title: Houkai Kazoku 2-Hahaoya ga Yakuza to no Sex ni Hamatta Hanashi-
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/653079.jpg
     rating: 4.6
     date: '2026-09-30'

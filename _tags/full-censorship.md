@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "full censorship"
-work_count: 108
+work_count: 112
 works:
   - title: Kaisha de Iroiro | Gettin' Busy at the Office
     author: hara-shigeyuki
@@ -168,6 +168,13 @@ works:
     date: '2026-09-13'
     code: 429514
     url: /works/429514/
+  - title: This Slouching Girl’s Nipples Are So Sensitive…!
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/437443.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 437443
+    url: /works/437443/
   - title: Yaoyorozu Sex – My Virginity Was Taken by Japanese Gods
     author: prhs
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/442084.jpg
@@ -217,6 +224,13 @@ works:
     date: '2026-04-17'
     code: 489004
     url: /works/489004/
+  - title: Corruption Obscene Tales ch 1-4
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/490746.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 490746
+    url: /works/490746/
   - title: Houyuu
     author: tsukumo-nikyu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/491042.jpg
@@ -488,6 +502,13 @@ works:
     date: '2026-09-04'
     code: 647692
     url: /works/647692/
+  - title: Inkan no Ketsuzoku 1-3
+    author: diisuke
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651242.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 651242
+    url: /works/651242/
   - title: Sankaku comic vol. 3 Ayano
     author: mko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/652836.jpg
@@ -495,6 +516,13 @@ works:
     date: '2026-05-27'
     code: 652836
     url: /works/652836/
+  - title: Houkai Kazoku 2-Hahaoya ga Yakuza to no Sex ni Hamatta Hanashi-
+    author: watsondou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/653079.jpg
+    rating: 4.6
+    date: '2026-09-30'
+    code: 653079
+    url: /works/653079/
   - title: Falling of summer
     author: monono-ex
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/659199.jpg

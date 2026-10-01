@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "ahegao"
-work_count: 287
+work_count: 295
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -575,6 +575,13 @@ works:
     date: '2026-04-25'
     code: 593677
     url: /works/593677/
+  - title: Geriatric Dragons dogma
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/596562.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 596562
+    url: /works/596562/
   - title: Houkai Kazoku 2 -Hahaoya ga Yakuza to no Sex ni Hamatta Hanashi- | Broken
       Family 2 - The story of a mother who got hooked on sex with the Yakuza
     author: watsondou
@@ -599,6 +606,14 @@ works:
     date: '2026-03-02'
     code: 603756
     url: /works/603756/
+  - title: 30cm Chou Tsuyotsuyo Futanari Chinpo o Semen ga Karerukurai Manzoku Saserareru
+      kana?
+    author: sabakan
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/604775.jpg
+    rating: 4.8
+    date: '2026-09-30'
+    code: 604775
+    url: /works/604775/
   - title: Mugon Muhyoujou no Kasshoku Elf, Rental Shitemasu + Gojitsudan | Rent-an-Elf
       + Afterstory
     author: takurowo
@@ -875,6 +890,13 @@ works:
     date: '2026-09-13'
     code: 641977
     url: /works/641977/
+  - title: Koitsu majide choro katta 〜 kinjo no shingurumaza-hen 〜
+    author: doron
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642018.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 642018
+    url: /works/642018/
   - title: Ryousai-chan ~Yukemuri Hen~ Jou + Ryousai-chan ~Yukemuri Hen~ Ge
     author: mappa-ninatta
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642602.jpg
@@ -1107,6 +1129,15 @@ works:
     date: '2026-05-07'
     code: 648551
     url: /works/648551/
+  - title: Daikirai na Yakyuubu Kantoku to Daisuki na Kaa-san no Sex wo Hitobanjuu Mita
+      Yoru | The night i watched my beloved mother have sex with the baseball coach
+      i hate!
+    author: watsondou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/648591.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 648591
+    url: /works/648591/
   - title: You're My Doggy... Right? ~Pamper Loving Boyfriend Becomes A Wild Sadist
       Hound~
     author: the-waidan
@@ -1233,6 +1264,13 @@ works:
     date: '2026-05-27'
     code: 652801
     url: /works/652801/
+  - title: Houkai Kazoku 2-Hahaoya ga Yakuza to no Sex ni Hamatta Hanashi-
+    author: watsondou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/653079.jpg
+    rating: 4.6
+    date: '2026-09-30'
+    code: 653079
+    url: /works/653079/
   - title: Mother's Orgasm ~Completely Submissive to Son's Cock~Chapter 1
     author: jamming
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/653091.jpg
@@ -1307,6 +1345,14 @@ works:
     date: '2026-09-20'
     code: 659204
     url: /works/659204/
+  - title: Taido Warui Jou wa Otoshigai Arimasu | This Bratty Prostitute Was Easy To
+      Break
+    author: hikitogu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/660241.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 660241
+    url: /works/660241/
   - title: Zuriniku paiholl
     author: '41'
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/660465.jpg
@@ -1562,6 +1608,13 @@ works:
     date: '2026-09-04'
     code: 669459
     url: /works/669459/
+  - title: Koitsu Maji de Chorokatta | This Chick Was Totally Easy
+    author: doron
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/671419.jpg
+    rating: 4.3
+    date: '2026-09-30'
+    code: 671419
+    url: /works/671419/
   - title: Aisuru Tsuma wa Hei no Naka | My beloved wife is behind bars
     author: hikitogu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673453.jpg
@@ -2150,6 +2203,15 @@ works:
     date: '2026-09-30'
     code: 684920
     url: /works/684920/
+  - title: Cross My Heart ~Tsundere Fuuki Iin to Kinpatsu Bishoujo Ryuugakusei~ | Cross
+      My Heart ~The Tsundere Disciplinary Committee Member and the Beautiful Blonde
+      Exchange Student~
+    author: takeda-hiromitsu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685147.jpg
+    rating: 0.0
+    date: '2026-10-01'
+    code: 685147
+    url: /works/685147/
   - title: Inin Keiyaku | Lewd Pregnancy Contract
     author: yoshiura-kazuya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/83595.jpg

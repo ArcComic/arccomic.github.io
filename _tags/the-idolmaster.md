@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "the idolmaster"
-work_count: 22
+work_count: 23
 works:
   - title: Another Produce -Kaede Takagaki-
     author: marushin
@@ -31,6 +31,13 @@ works:
     date: '2026-09-11'
     code: 617600
     url: /works/617600/
+  - title: H na Ouji-sama wa Dame desuka?
+    author: inu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/628218.jpg
+    rating: 0.0
+    date: '2026-10-01'
+    code: 628218
+    url: /works/628218/
   - title: Misuzu no Oheya kara Hitoban Nigerarenai Hon  | The Book Where You Can't
       Escape Misuzu's Room All Night Long.
     author: cure-slum

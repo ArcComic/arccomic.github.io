@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "ugly bastard"
-work_count: 20
+work_count: 24
 works:
   - title: A-part | Apartment
     author: zero-no-mono
@@ -34,6 +34,13 @@ works:
     date: '2026-09-26'
     code: 610903
     url: /works/610903/
+  - title: Namaiki Papa Katsu Shoujo ni Seisai SEX
+    author: ichinomiya-yuu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/614675.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 614675
+    url: /works/614675/
   - title: Metamorphosis
     author: shindol
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/616358.jpg
@@ -56,6 +63,15 @@ works:
     date: '2026-04-27'
     code: 646146
     url: /works/646146/
+  - title: Daikirai na Yakyuubu Kantoku to Daisuki na Kaa-san no Sex wo Hitobanjuu Mita
+      Yoru | The night i watched my beloved mother have sex with the baseball coach
+      i hate!
+    author: watsondou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/648591.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 648591
+    url: /works/648591/
   - title: Namaiki Gal o Succubus ni Shite Oshioki Shitatta Ken 2 | The Case Where I
       Turned a Bratty Gal Into a Succubus and Punished Her 2
     author: takurowo
@@ -64,6 +80,13 @@ works:
     date: '2026-09-27'
     code: 650625
     url: /works/650625/
+  - title: Inkan no Ketsuzoku 1-3
+    author: diisuke
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651242.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 651242
+    url: /works/651242/
   - title: REMIND ME & Beautiful Days Without You
     author: 3e
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/652639.jpg
@@ -108,6 +131,14 @@ works:
     date: '2026-07-09'
     code: 656753
     url: /works/656753/
+  - title: Taido Warui Jou wa Otoshigai Arimasu | This Bratty Prostitute Was Easy To
+      Break
+    author: hikitogu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/660241.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 660241
+    url: /works/660241/
   - title: Shoujo Osotte Mita ~Ooame ga Warui n janai~
     author: yoko-juusuke
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/661894.jpg

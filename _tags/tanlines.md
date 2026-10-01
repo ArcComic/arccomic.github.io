@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "tanlines"
-work_count: 31
+work_count: 32
 works:
   - title: CHOCO x LOVE
     author: highlow
@@ -160,6 +160,13 @@ works:
     date: '2026-09-04'
     code: 668297
     url: /works/668297/
+  - title: Koitsu Maji de Chorokatta | This Chick Was Totally Easy
+    author: doron
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/671419.jpg
+    rating: 4.3
+    date: '2026-09-30'
+    code: 671419
+    url: /works/671419/
   - title: Anokotachi no Jijou - 〇〇chanchi no Jijou Soushuuhen
     author: yukino-minato
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673985.jpg

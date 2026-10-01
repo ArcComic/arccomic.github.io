@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "niece"
-work_count: 12
+work_count: 13
 works:
   - title: Atashi ga Nuite Ageyo kka?
     author: malcorond
@@ -24,6 +24,14 @@ works:
     date: '2026-05-01'
     code: 591112
     url: /works/591112/
+  - title: Kareshi Mochi no Mei wa Shinjiteta Oji-san ni Okasareru | My Niece, Who had
+      a Boyfriend, Was Raped by Her Uncle, Whom She Trusted
+    author: ichinomiya-yuu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/624848.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 624848
+    url: /works/624848/
   - title: Sawatte Mitai? | Do You Wanna Touch?
     author: rondonko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/644309.jpg

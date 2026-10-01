@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "shotacon"
-work_count: 129
+work_count: 132
 works:
   - title: Hitozuma Hyakka
     author: hase-tsubura
@@ -510,6 +510,13 @@ works:
     date: '2026-09-29'
     code: 641456
     url: /works/641456/
+  - title: Koitsu majide choro katta 〜 kinjo no shingurumaza-hen 〜
+    author: doron
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642018.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 642018
+    url: /works/642018/
   - title: Sawatte Mitai? | Do You Wanna Touch?
     author: rondonko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/644309.jpg
@@ -685,6 +692,14 @@ works:
     date: '2026-07-11'
     code: 663130
     url: /works/663130/
+  - title: Boku to Onee-san no Natsu wa Mada Hajimatta Bakari | My Summer Story Has
+      Just Begun
+    author: gustav
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/663254.jpg
+    rating: 4.3
+    date: '2026-10-01'
+    code: 663254
+    url: /works/663254/
   - title: Onee-chan Tensei! Junyuu Isekai Seikatsu | Reincarnated Big Sister! Breastfeeding
       Sex Life in Another World
     author: mokuyama-hito
@@ -709,6 +724,13 @@ works:
     date: '2026-09-19'
     code: 665207
     url: /works/665207/
+  - title: Koitsu Maji de Chorokatta | This Chick Was Totally Easy
+    author: doron
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/671419.jpg
+    rating: 4.3
+    date: '2026-09-30'
+    code: 671419
+    url: /works/671419/
   - title: Mama no, Sono Eroi Karada ga Ikenainda 1-2
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/672310.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "defloration"
-work_count: 205
+work_count: 211
 works:
   - title: Imitation Family + Bigibo Hen
     author: tohzai
@@ -555,6 +555,13 @@ works:
     date: '2026-03-05'
     code: 593456
     url: /works/593456/
+  - title: Geriatric Dragons dogma
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/596562.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 596562
+    url: /works/596562/
   - title: Shounen yo, Watashi o Idake. 少年,抱住我
     author: torii-yoshitsuna
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/599514.jpg
@@ -607,6 +614,14 @@ works:
     date: '2026-04-23'
     code: 610041
     url: /works/610041/
+  - title: Mama ga Muchuu na Musume no Kareshi 2 - Kono Chinpo wa Kyouikujou Yoroshikunai
+      node Mama ga Shori Shimasu. | Mom's obsessed with her Daughter's Boyfriend 2
+    author: ohnaka-ito
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/612425.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 612425
+    url: /works/612425/
   - title: Iraira o Musume no Gakuyuu ni Butsukete Shimatta Hanashi
     author: uni18
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/612498.jpg
@@ -614,6 +629,13 @@ works:
     date: '2026-09-22'
     code: 612498
     url: /works/612498/
+  - title: Namaiki Papa Katsu Shoujo ni Seisai SEX
+    author: ichinomiya-yuu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/614675.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 614675
+    url: /works/614675/
   - title: Rikujoubu no Bokukko Doukyuusei ga Chuunen Komon ni Mesu ni Sareru Ichibu
       Shijuu
     author: marushin
@@ -666,6 +688,14 @@ works:
     date: '2026-03-03'
     code: 620755
     url: /works/620755/
+  - title: Kareshi Mochi no Mei wa Shinjiteta Oji-san ni Okasareru | My Niece, Who had
+      a Boyfriend, Was Raped by Her Uncle, Whom She Trusted
+    author: ichinomiya-yuu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/624848.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 624848
+    url: /works/624848/
   - title: Seishun o Yarinaosu nara Kondo koso Suki datta Doukyuusei to Tsukiatte Zettai
       Yarimakuritai. | If I'm Reliving My Life, This Time I Wanna Get With The Girl
       I Loved Back Then
@@ -1192,6 +1222,13 @@ works:
     date: '2026-07-13'
     code: 663745
     url: /works/663745/
+  - title: Koitsu Maji de Chorokatta | This Chick Was Totally Easy
+    author: doron
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/671419.jpg
+    rating: 4.3
+    date: '2026-09-30'
+    code: 671419
+    url: /works/671419/
   - title: 'Natsuki no Natsu  Ore no Kyonyuu Osananajimi wa Natsu no Aida ni Otona no
       Te de Mesu ni Sareteita | Natsuki''s Summer: My Big-Busted Childhood Friend Was
       Turned Into a Woman by Adult Hands During the Summer'
@@ -1522,4 +1559,13 @@ works:
     date: '2026-09-30'
     code: 684898
     url: /works/684898/
+  - title: Cross My Heart ~Tsundere Fuuki Iin to Kinpatsu Bishoujo Ryuugakusei~ | Cross
+      My Heart ~The Tsundere Disciplinary Committee Member and the Beautiful Blonde
+      Exchange Student~
+    author: takeda-hiromitsu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685147.jpg
+    rating: 0.0
+    date: '2026-10-01'
+    code: 685147
+    url: /works/685147/
 ---

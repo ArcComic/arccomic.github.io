@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bbm"
-work_count: 111
+work_count: 118
 works:
   - title: Kindan no Hatemitsu
     author: ryuuta
@@ -314,6 +314,13 @@ works:
     date: '2026-08-25'
     code: 595108
     url: /works/595108/
+  - title: Geriatric Dragons dogma
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/596562.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 596562
+    url: /works/596562/
   - title: Seishun to Backyard | The Youth and The Backyard
     author: mokuyama-hito
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/598084.jpg
@@ -337,6 +344,13 @@ works:
     date: '2026-09-26'
     code: 610903
     url: /works/610903/
+  - title: Namaiki Papa Katsu Shoujo ni Seisai SEX
+    author: ichinomiya-yuu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/614675.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 614675
+    url: /works/614675/
   - title: Tomodachi ga Tsuretekita Oba-san 1
     author: exit-up
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/615538.jpg
@@ -366,6 +380,14 @@ works:
     date: '2026-09-19'
     code: 622161
     url: /works/622161/
+  - title: Kareshi Mochi no Mei wa Shinjiteta Oji-san ni Okasareru | My Niece, Who had
+      a Boyfriend, Was Raped by Her Uncle, Whom She Trusted
+    author: ichinomiya-yuu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/624848.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 624848
+    url: /works/624848/
   - title: Gakkou no Joshi o Chuumon Dekiru Denpyou ~Tadashi Seikoui Mokuteki ni Kagiru~
     author: nyuu-koubou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/625984.jpg
@@ -432,6 +454,13 @@ works:
     date: '2026-09-18'
     code: 637891
     url: /works/637891/
+  - title: Koitsu majide choro katta 〜 kinjo no shingurumaza-hen 〜
+    author: doron
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642018.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 642018
+    url: /works/642018/
   - title: Joukyou Musume, Tokai no Kibishisa o Shiru | Country Girl Learns the Harshness
       of the City
     author: take-shinshi
@@ -491,6 +520,15 @@ works:
     date: '2026-05-01'
     code: 647315
     url: /works/647315/
+  - title: Daikirai na Yakyuubu Kantoku to Daisuki na Kaa-san no Sex wo Hitobanjuu Mita
+      Yoru | The night i watched my beloved mother have sex with the baseball coach
+      i hate!
+    author: watsondou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/648591.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 648591
+    url: /works/648591/
   - title: Haijoku Underground
     author: dpc-deinoji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/649068.jpg
@@ -506,6 +544,13 @@ works:
     date: '2026-09-27'
     code: 650625
     url: /works/650625/
+  - title: Inkan no Ketsuzoku 1-3
+    author: diisuke
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651242.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 651242
+    url: /works/651242/
   - title: Jill's Rehabilitation
     author: sawao
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651296.jpg
@@ -660,6 +705,13 @@ works:
     date: '2026-09-12'
     code: 670195
     url: /works/670195/
+  - title: Koitsu Maji de Chorokatta | This Chick Was Totally Easy
+    author: doron
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/671419.jpg
+    rating: 4.3
+    date: '2026-09-30'
+    code: 671419
+    url: /works/671419/
   - title: Namaiki na Kizoku Reijou ni Chijoku no Biyaku Tsurizeme o
     author: mochiji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/671813.jpg

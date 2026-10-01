@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "painted nails"
-work_count: 38
+work_count: 39
 works:
   - title: Rakki Taishyaku
     author: fushoku
@@ -133,6 +133,13 @@ works:
     date: '2026-02-26'
     code: 610539
     url: /works/610539/
+  - title: Namaiki Papa Katsu Shoujo ni Seisai SEX
+    author: ichinomiya-yuu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/614675.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 614675
+    url: /works/614675/
   - title: Boku no Toshiue no Tomodachi | My Older Friend
     author: buta
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/631036.jpg

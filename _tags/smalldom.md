@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "smalldom"
-work_count: 28
+work_count: 30
 works:
   - title: Oshi ni Yowai Kanojo ni Netorase nante Tanomanakereba Yokatta... | I Wish
       I Had Never Begged My Pushover Girlfriend To Cuck Me...
@@ -55,6 +55,13 @@ works:
     date: '2026-03-05'
     code: 634592
     url: /works/634592/
+  - title: Koitsu majide choro katta 〜 kinjo no shingurumaza-hen 〜
+    author: doron
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642018.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 642018
+    url: /works/642018/
   - title: Sawatte Mitai? | Do You Wanna Touch?
     author: rondonko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/644309.jpg
@@ -132,6 +139,13 @@ works:
     date: '2026-07-11'
     code: 663130
     url: /works/663130/
+  - title: Koitsu Maji de Chorokatta | This Chick Was Totally Easy
+    author: doron
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/671419.jpg
+    rating: 4.3
+    date: '2026-09-30'
+    code: 671419
+    url: /works/671419/
   - title: Yome no Tsurego ni Otosareru Boku | I was Seduced by My Wife's Child from
       a Previous Marriage
     author: sabano-fudeoki

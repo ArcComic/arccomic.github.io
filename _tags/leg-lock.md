@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "leg lock"
-work_count: 79
+work_count: 80
 works:
   - title: My Care Lady Ch. 1
     author: sugi-g
@@ -322,6 +322,13 @@ works:
     date: '2026-09-18'
     code: 619717
     url: /works/619717/
+  - title: H na Ouji-sama wa Dame desuka?
+    author: inu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/628218.jpg
+    rating: 0.0
+    date: '2026-10-01'
+    code: 628218
+    url: /works/628218/
   - title: Boku no Toshiue no Tomodachi | My Older Friend
     author: buta
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/631036.jpg

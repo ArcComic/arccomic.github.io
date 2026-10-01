@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "prostitution"
-work_count: 70
+work_count: 72
 works:
   - title: Yuri no o saifu ni shite agemasu ne, Senpai | I'll turn you into Yuri's wallet,
       Senpai
@@ -234,6 +234,13 @@ works:
     date: '2026-09-26'
     code: 610903
     url: /works/610903/
+  - title: Namaiki Papa Katsu Shoujo ni Seisai SEX
+    author: ichinomiya-yuu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/614675.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 614675
+    url: /works/614675/
   - title: Metamorphosis
     author: shindol
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/616358.jpg
@@ -359,6 +366,14 @@ works:
     date: '2026-07-17'
     code: 658578
     url: /works/658578/
+  - title: Taido Warui Jou wa Otoshigai Arimasu | This Bratty Prostitute Was Easy To
+      Break
+    author: hikitogu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/660241.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 660241
+    url: /works/660241/
   - title: 'Jirai Inu-kei Kanojo #Kimi to Tsunagaritai Jirai de Inukei de Juujun na
       Kimi dake no Pet | Jirai-kei Puppy Girlfriend'
     author: shimofuji-jun

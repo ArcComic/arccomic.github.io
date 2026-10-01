@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "story arc"
-work_count: 190
+work_count: 195
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -95,6 +95,13 @@ works:
     date: '2026-04-17'
     code: 349247
     url: /works/349247/
+  - title: Kanojo no SmaPho o Nozoita dake nano ni | I Just Snooped through Her Smartphone
+    author: chocoro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/367709.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 367709
+    url: /works/367709/
   - title: Yurikago
     author: neko-samurai
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/398305.jpg
@@ -141,6 +148,13 @@ works:
     date: '2026-09-25'
     code: 420017
     url: /works/420017/
+  - title: This Slouching Girl’s Nipples Are So Sensitive…!
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/437443.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 437443
+    url: /works/437443/
   - title: Yaoyorozu Sex – My Virginity Was Taken by Japanese Gods
     author: prhs
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/442084.jpg
@@ -215,6 +229,13 @@ works:
     date: '2026-09-27'
     code: 483537
     url: /works/483537/
+  - title: Corruption Obscene Tales ch 1-4
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/490746.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 490746
+    url: /works/490746/
   - title: Datenshi no Yuuwaku -Office Angel Project- 1
     author: hiraoka-ryuichi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/491622.jpg
@@ -879,6 +900,13 @@ works:
     date: '2026-05-20'
     code: 650926
     url: /works/650926/
+  - title: Inkan no Ketsuzoku 1-3
+    author: diisuke
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651242.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 651242
+    url: /works/651242/
   - title: M Ko
     author: takaku-tubby-shirono-mahiro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651489.jpg
@@ -1048,6 +1076,13 @@ works:
     date: '2026-07-16'
     code: 664831
     url: /works/664831/
+  - title: Koitsu Maji de Chorokatta | This Chick Was Totally Easy
+    author: doron
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/671419.jpg
+    rating: 4.3
+    date: '2026-09-30'
+    code: 671419
+    url: /works/671419/
   - title: 'Breeding License: The “Picking Up Girls on the Beach and Having Wild Sex”
       Edition'
     author: minamihama-yoriko

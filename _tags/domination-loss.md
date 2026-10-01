@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "domination loss"
-work_count: 37
+work_count: 38
 works:
   - title: My Only Princess
     author: mackgee
@@ -219,6 +219,14 @@ works:
     date: '2026-09-29'
     code: 658697
     url: /works/658697/
+  - title: Taido Warui Jou wa Otoshigai Arimasu | This Bratty Prostitute Was Easy To
+      Break
+    author: hikitogu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/660241.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 660241
+    url: /works/660241/
   - title: Mesugaki ni Saikyouiku o!! | Re-Educating A Smug-Brat!!
     author: type-yamada
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/664631.jpg

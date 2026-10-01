@@ -3,7 +3,7 @@ layout: artist
 artist_name: "diisuke"
 work_count: 1
 works:
-  - title: Work 651242
+  - title: Inkan no Ketsuzoku 1-3
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651242.jpg
     rating: 0.0
     date: '2026-09-30'

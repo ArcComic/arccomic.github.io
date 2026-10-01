@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "inu"
-work_count: 2
+work_count: 3
 works:
   - title: Ore wa Yome ni Sakaraenai... Seiheki o Nigirareteiru | I Can't Say No To
       My Wife... She's Got Me By The Balls!
@@ -11,6 +11,13 @@ works:
     date: '2026-08-22'
     code: 550948
     url: /works/550948/
+  - title: H na Ouji-sama wa Dame desuka?
+    author: inu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/628218.jpg
+    rating: 0.0
+    date: '2026-10-01'
+    code: 628218
+    url: /works/628218/
   - title: Sukebe Gal no Cosplayer to Offpako Shiteru Hanashi
     author: inu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/650302.jpg

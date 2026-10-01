@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "mitsumitsuniku"
-work_count: 8
+work_count: 9
 works:
   - title: LeveChi na Swapping 2 ~Hatsu Zecchou de Iki Kuruu Tsuma Hen~
     author: hikitogu
@@ -18,6 +18,14 @@ works:
     date: '2026-04-12'
     code: 643397
     url: /works/643397/
+  - title: Taido Warui Jou wa Otoshigai Arimasu | This Bratty Prostitute Was Easy To
+      Break
+    author: hikitogu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/660241.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 660241
+    url: /works/660241/
   - title: Ohogoe wo Hiteishita Hitozuma ga Otosareru Hanashi | The Married Woman Who
       Denied Her Crazy Moans Was Defeated
     author: hikitogu

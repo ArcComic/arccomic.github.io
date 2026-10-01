@@ -1,8 +1,16 @@
 ---
 layout: tag
 tag_name: "full-packaged futanari"
-work_count: 3
+work_count: 4
 works:
+  - title: 30cm Chou Tsuyotsuyo Futanari Chinpo o Semen ga Karerukurai Manzoku Saserareru
+      kana?
+    author: sabakan
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/604775.jpg
+    rating: 4.8
+    date: '2026-09-30'
+    code: 604775
+    url: /works/604775/
   - title: 'GNO: Girl''s Night Out - Issue 02'
     author: uselessbegging
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/634464.jpg

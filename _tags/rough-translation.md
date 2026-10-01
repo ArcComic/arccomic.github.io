@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "rough translation"
-work_count: 603
+work_count: 614
 works:
+  - title: Boku no Shiranai Kimi no Kao
+    author: utsutsu-minoru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/246449.jpg
+    rating: 4.9
+    date: '2026-09-30'
+    code: 246449
+    url: /works/246449/
   - title: Nekura Kyonyuu no Onee-chan wa, Saiminshite de mo Otouto Chinpo o Netoritai
     author: borusiti
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/438138.jpg
@@ -608,6 +615,14 @@ works:
     date: '2026-08-31'
     code: 595788
     url: /works/595788/
+  - title: Houkai Kazoku 0 -Hahaoya ga Yakuza to no Sex ni Hamatta Hanashi- | Collapsed
+      Family 0 - The story of a mother who got hooked on sex with a Yakuza
+    author: watsondou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/596687.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 596687
+    url: /works/596687/
   - title: Minatoku Joshi Saionji Kyouka no Karei naru Nichijou (Kari) | The Lavish
       Daily Life of Saionji Kyouka The Minato-ku Girl
     author: takano-masayuki
@@ -639,6 +654,14 @@ works:
     date: '2026-09-29'
     code: 604050
     url: /works/604050/
+  - title: 30cm Chou Tsuyotsuyo Futanari Chinpo o Semen ga Karerukurai Manzoku Saserareru
+      kana?
+    author: sabakan
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/604775.jpg
+    rating: 4.8
+    date: '2026-09-30'
+    code: 604775
+    url: /works/604775/
   - title: Soukan Syndrome
     author: kuroiwa-menou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/605633.jpg
@@ -726,6 +749,14 @@ works:
     date: '2026-04-14'
     code: 612083
     url: /works/612083/
+  - title: Mama ga Muchuu na Musume no Kareshi 2 - Kono Chinpo wa Kyouikujou Yoroshikunai
+      node Mama ga Shori Shimasu. | Mom's obsessed with her Daughter's Boyfriend 2
+    author: ohnaka-ito
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/612425.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 612425
+    url: /works/612425/
   - title: Fuufu Koukan Matching Appli ~DQN na Hitozuma ni Nakadashi Houshi~
     author: hachi-mega
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/613739.jpg
@@ -861,6 +892,14 @@ works:
     date: '2026-03-04'
     code: 624694
     url: /works/624694/
+  - title: Kareshi Mochi no Mei wa Shinjiteta Oji-san ni Okasareru | My Niece, Who had
+      a Boyfriend, Was Raped by Her Uncle, Whom She Trusted
+    author: ichinomiya-yuu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/624848.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 624848
+    url: /works/624848/
   - title: Gakkou no Joshi o Chuumon Dekiru Denpyou ~Tadashi Seikoui Mokuteki ni Kagiru~
     author: nyuu-koubou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/625984.jpg
@@ -1196,6 +1235,13 @@ works:
     date: '2026-09-29'
     code: 641456
     url: /works/641456/
+  - title: Koitsu majide choro katta 〜 kinjo no shingurumaza-hen 〜
+    author: doron
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642018.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 642018
+    url: /works/642018/
   - title: Haruna wa Kyou kara Sachiko ni Narimashita.
     author: mashumarodan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642023.jpg
@@ -1725,6 +1771,13 @@ works:
     date: '2026-05-27'
     code: 652836
     url: /works/652836/
+  - title: Houkai Kazoku 2-Hahaoya ga Yakuza to no Sex ni Hamatta Hanashi-
+    author: watsondou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/653079.jpg
+    rating: 4.6
+    date: '2026-09-30'
+    code: 653079
+    url: /works/653079/
   - title: Mother's Orgasm ~Completely Submissive to Son's Cock~Chapter 1
     author: jamming
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/653091.jpg
@@ -2667,6 +2720,13 @@ works:
     date: '2026-09-17'
     code: 670708
     url: /works/670708/
+  - title: Koitsu Maji de Chorokatta | This Chick Was Totally Easy
+    author: doron
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/671419.jpg
+    rating: 4.3
+    date: '2026-09-30'
+    code: 671419
+    url: /works/671419/
   - title: Akogare Senpai ga NTR sareru Hon
     author: seinen-hormone
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/672241.jpg
@@ -2695,6 +2755,14 @@ works:
     date: '2026-09-15'
     code: 672580
     url: /works/672580/
+  - title: Tomodachi no Muchimuchi Kyonyuu Mama ga Ero Sugiru no ga Ikenai... Iya Ikeru!!
+      2
+    author: gya-tei
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/672692.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 672692
+    url: /works/672692/
   - title: Hanamizuki Vol.4
     author: rocinante
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/672835.jpg
@@ -4391,6 +4459,14 @@ works:
     date: '2026-09-29'
     code: 684800
     url: /works/684800/
+  - title: Sogyoushiki no Yoru + Denshiban Omake Kakioroshi ~Ofuroba Hen~ | Graduation
+      Night + Bonus ~Bathroom Edition~
+    author: sabakan
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684813.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 684813
+    url: /works/684813/
   - title: Houkago Saimin
     author: umashio-umau-mashio
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684898.jpg
@@ -4405,4 +4481,13 @@ works:
     date: '2026-09-30'
     code: 684911
     url: /works/684911/
+  - title: Cross My Heart ~Tsundere Fuuki Iin to Kinpatsu Bishoujo Ryuugakusei~ | Cross
+      My Heart ~The Tsundere Disciplinary Committee Member and the Beautiful Blonde
+      Exchange Student~
+    author: takeda-hiromitsu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685147.jpg
+    rating: 0.0
+    date: '2026-10-01'
+    code: 685147
+    url: /works/685147/
 ---

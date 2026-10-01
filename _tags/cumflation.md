@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "cumflation"
-work_count: 4
+work_count: 5
 works:
   - title: Zamen Oogui Taikai | The Cum-Binge-Eating Championship
     author: yufuck
@@ -10,6 +10,14 @@ works:
     date: '2026-09-26'
     code: 583437
     url: /works/583437/
+  - title: 30cm Chou Tsuyotsuyo Futanari Chinpo o Semen ga Karerukurai Manzoku Saserareru
+      kana?
+    author: sabakan
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/604775.jpg
+    rating: 4.8
+    date: '2026-09-30'
+    code: 604775
+    url: /works/604775/
   - title: Mishiranu Boshi ni Yaritai Houdai
     author: tonda
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/635363.jpg

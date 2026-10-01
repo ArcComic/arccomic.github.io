@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "manga"
-work_count: 354
+work_count: 356
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -164,6 +164,13 @@ works:
     date: '2026-04-19'
     code: 244812
     url: /works/244812/
+  - title: Boku no Shiranai Kimi no Kao
+    author: utsutsu-minoru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/246449.jpg
+    rating: 4.9
+    date: '2026-09-30'
+    code: 246449
+    url: /works/246449/
   - title: Netemo Sametemo | Be it Sleeping or Awake
     author: takasugi-kou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/272352.jpg
@@ -605,6 +612,13 @@ works:
     date: '2026-09-04'
     code: 464782
     url: /works/464782/
+  - title: Kinou Kantoku to Sex Shita | Yesterday, I Had Sex with the Supervisor
+    author: hatch
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/466685.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 466685
+    url: /works/466685/
   - title: Meguri Ai | Fateful Encounter  (COMIC Anthurium 2023-12) [English] =NSS=
     author: nagareboshi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/485905.jpg

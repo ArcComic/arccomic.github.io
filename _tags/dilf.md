@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "dilf"
-work_count: 181
+work_count: 186
 works:
   - title: Adoration
     author: kishizuka-kenji
@@ -260,6 +260,13 @@ works:
     date: '2026-09-09'
     code: 461537
     url: /works/461537/
+  - title: Kinou Kantoku to Sex Shita | Yesterday, I Had Sex with the Supervisor
+    author: hatch
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/466685.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 466685
+    url: /works/466685/
   - title: Kakine Tsuma II Daiichiwa | Wife on the Fence II - Chapter 1
     author: ntr-system
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/471387.jpg
@@ -590,6 +597,13 @@ works:
     date: '2026-04-17'
     code: 612957
     url: /works/612957/
+  - title: Namaiki Papa Katsu Shoujo ni Seisai SEX
+    author: ichinomiya-yuu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/614675.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 614675
+    url: /works/614675/
   - title: Rikujoubu no Bokukko Doukyuusei ga Chuunen Komon ni Mesu ni Sareru Ichibu
       Shijuu
     author: marushin
@@ -627,6 +641,14 @@ works:
     date: '2026-09-17'
     code: 621436
     url: /works/621436/
+  - title: Kareshi Mochi no Mei wa Shinjiteta Oji-san ni Okasareru | My Niece, Who had
+      a Boyfriend, Was Raped by Her Uncle, Whom She Trusted
+    author: ichinomiya-yuu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/624848.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 624848
+    url: /works/624848/
   - title: Futari Dake no Himitsu -Moshi Deliheal Yonde Musume ga Kichattara-
     author: takuwan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/631592.jpg
@@ -843,6 +865,15 @@ works:
     date: '2026-05-07'
     code: 648551
     url: /works/648551/
+  - title: Daikirai na Yakyuubu Kantoku to Daisuki na Kaa-san no Sex wo Hitobanjuu Mita
+      Yoru | The night i watched my beloved mother have sex with the baseball coach
+      i hate!
+    author: watsondou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/648591.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 648591
+    url: /works/648591/
   - title: Haijoku Underground
     author: dpc-deinoji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/649068.jpg
@@ -857,6 +888,13 @@ works:
     date: '2026-09-24'
     code: 649317
     url: /works/649317/
+  - title: Inkan no Ketsuzoku 1-3
+    author: diisuke
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651242.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 651242
+    url: /works/651242/
   - title: Jill's Rehabilitation
     author: sawao
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651296.jpg

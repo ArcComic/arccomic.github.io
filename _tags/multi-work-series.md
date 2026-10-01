@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "multi-work series"
-work_count: 342
+work_count: 346
 works:
   - title: Oppai na Natsuyasumi 2 | The Summer Break of Boobs 2
     author: higashino-mikan
@@ -871,6 +871,14 @@ works:
     date: '2026-05-07'
     code: 596598
     url: /works/596598/
+  - title: Houkai Kazoku 0 -Hahaoya ga Yakuza to no Sex ni Hamatta Hanashi- | Collapsed
+      Family 0 - The story of a mother who got hooked on sex with a Yakuza
+    author: watsondou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/596687.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 596687
+    url: /works/596687/
   - title: Motokano-tachi to Ya Re Naoshi!? CHAPTER 2
     author: shinonome-ryu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/598175.jpg
@@ -931,6 +939,14 @@ works:
     date: '2026-03-03'
     code: 611701
     url: /works/611701/
+  - title: Mama ga Muchuu na Musume no Kareshi 2 - Kono Chinpo wa Kyouikujou Yoroshikunai
+      node Mama ga Shori Shimasu. | Mom's obsessed with her Daughter's Boyfriend 2
+    author: ohnaka-ito
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/612425.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 612425
+    url: /works/612425/
   - title: Onnanoko ga Ochita Saki wa, Ore no Musuko no Sakippo deshita | What She Fell
       On Was the Tip of My Dick Vol. 1-4
     author: hatokonro
@@ -1214,6 +1230,13 @@ works:
     date: '2026-09-13'
     code: 641977
     url: /works/641977/
+  - title: Koitsu majide choro katta 〜 kinjo no shingurumaza-hen 〜
+    author: doron
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642018.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 642018
+    url: /works/642018/
   - title: Netorarensa Saikou ni Aishou no Ii Onna |  The Woman Who's Perfectly Compatible
       with Me
     author: bad-end-dreamer
@@ -1915,6 +1938,14 @@ works:
     date: '2026-09-23'
     code: 671907
     url: /works/671907/
+  - title: Tomodachi no Muchimuchi Kyonyuu Mama ga Ero Sugiru no ga Ikenai... Iya Ikeru!!
+      2
+    author: gya-tei
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/672692.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 672692
+    url: /works/672692/
   - title: Hanamizuki Vol.4
     author: rocinante
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/672835.jpg

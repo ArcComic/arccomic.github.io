@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "nakadashi"
-work_count: 737
+work_count: 747
 works:
   - title: Adoration
     author: kishizuka-kenji
@@ -688,6 +688,13 @@ works:
     date: '2026-04-19'
     code: 465602
     url: /works/465602/
+  - title: Kinou Kantoku to Sex Shita | Yesterday, I Had Sex with the Supervisor
+    author: hatch
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/466685.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 466685
+    url: /works/466685/
   - title: Kanojo wa Boku no Taieki de Ugoiteiru Phase. 05 [English] =NSS=
     author: nagareboshi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/470025.jpg
@@ -1926,6 +1933,14 @@ works:
     date: '2026-03-02'
     code: 603756
     url: /works/603756/
+  - title: 30cm Chou Tsuyotsuyo Futanari Chinpo o Semen ga Karerukurai Manzoku Saserareru
+      kana?
+    author: sabakan
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/604775.jpg
+    rating: 4.8
+    date: '2026-09-30'
+    code: 604775
+    url: /works/604775/
   - title: Otoko no Ko otodokeshimasu! ~Itsumo kuru Haitatsuin-san ga masaka no Otoko
       no Ko dattakedo mayowazu hameta~
     author: mitsujirou
@@ -2032,6 +2047,14 @@ works:
     date: '2026-09-11'
     code: 612063
     url: /works/612063/
+  - title: Mama ga Muchuu na Musume no Kareshi 2 - Kono Chinpo wa Kyouikujou Yoroshikunai
+      node Mama ga Shori Shimasu. | Mom's obsessed with her Daughter's Boyfriend 2
+    author: ohnaka-ito
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/612425.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 612425
+    url: /works/612425/
   - title: Iraira o Musume no Gakuyuu ni Butsukete Shimatta Hanashi
     author: uni18
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/612498.jpg
@@ -2206,6 +2229,14 @@ works:
     date: '2026-05-26'
     code: 624573
     url: /works/624573/
+  - title: Kareshi Mochi no Mei wa Shinjiteta Oji-san ni Okasareru | My Niece, Who had
+      a Boyfriend, Was Raped by Her Uncle, Whom She Trusted
+    author: ichinomiya-yuu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/624848.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 624848
+    url: /works/624848/
   - title: Seishun o Yarinaosu nara Kondo koso Suki datta Doukyuusei to Tsukiatte Zettai
       Yarimakuritai. | If I'm Reliving My Life, This Time I Wanna Get With The Girl
       I Loved Back Then
@@ -2222,6 +2253,13 @@ works:
     date: '2026-09-18'
     code: 625984
     url: /works/625984/
+  - title: H na Ouji-sama wa Dame desuka?
+    author: inu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/628218.jpg
+    rating: 0.0
+    date: '2026-10-01'
+    code: 628218
+    url: /works/628218/
   - title: I have a secret relationship with my grandmother, without my mother knowing...
       ♡
     author: popotto-denki-ichigouten
@@ -3239,6 +3277,15 @@ works:
     date: '2026-05-07'
     code: 648551
     url: /works/648551/
+  - title: Daikirai na Yakyuubu Kantoku to Daisuki na Kaa-san no Sex wo Hitobanjuu Mita
+      Yoru | The night i watched my beloved mother have sex with the baseball coach
+      i hate!
+    author: watsondou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/648591.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 648591
+    url: /works/648591/
   - title: You're My Doggy... Right? ~Pamper Loving Boyfriend Becomes A Wild Sadist
       Hound~
     author: the-waidan
@@ -3665,6 +3712,14 @@ works:
     date: '2026-08-22'
     code: 659484
     url: /works/659484/
+  - title: Taido Warui Jou wa Otoshigai Arimasu | This Bratty Prostitute Was Easy To
+      Break
+    author: hikitogu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/660241.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 660241
+    url: /works/660241/
   - title: Zuriniku paiholl
     author: '41'
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/660465.jpg
@@ -5431,6 +5486,21 @@ works:
     date: '2026-09-29'
     code: 684800
     url: /works/684800/
+  - title: Sogyoushiki no Yoru + Denshiban Omake Kakioroshi ~Ofuroba Hen~ | Graduation
+      Night + Bonus ~Bathroom Edition~
+    author: sabakan
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684813.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 684813
+    url: /works/684813/
+  - title: Ame Doujin
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684848.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 684848
+    url: /works/684848/
   - title: Metsuki no Warui Kimi ga Suki
     author: tenpura-komoro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684897.jpg
@@ -5469,6 +5539,15 @@ works:
     date: '2026-09-30'
     code: 684921
     url: /works/684921/
+  - title: Cross My Heart ~Tsundere Fuuki Iin to Kinpatsu Bishoujo Ryuugakusei~ | Cross
+      My Heart ~The Tsundere Disciplinary Committee Member and the Beautiful Blonde
+      Exchange Student~
+    author: takeda-hiromitsu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685147.jpg
+    rating: 0.0
+    date: '2026-10-01'
+    code: 685147
+    url: /works/685147/
   - title: Inin Keiyaku | Lewd Pregnancy Contract
     author: yoshiura-kazuya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/83595.jpg

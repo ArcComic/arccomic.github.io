@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "nipple stimulation"
-work_count: 133
+work_count: 134
 works:
   - title: Hypnotic Domination ~ The Fall of Tennis Club Ace ~
     author: danchino
@@ -282,6 +282,14 @@ works:
     date: '2026-03-04'
     code: 624694
     url: /works/624694/
+  - title: Kareshi Mochi no Mei wa Shinjiteta Oji-san ni Okasareru | My Niece, Who had
+      a Boyfriend, Was Raped by Her Uncle, Whom She Trusted
+    author: ichinomiya-yuu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/624848.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 624848
+    url: /works/624848/
   - title: Hikikomori Kyousei Shisetsu Hakutou no Ie
     author: shine-nabyss
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/626220.jpg

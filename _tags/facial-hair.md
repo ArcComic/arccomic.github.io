@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "facial hair"
-work_count: 33
+work_count: 37
 works:
   - title: Asuna-san ga Agil ni Netorareru Ohanashi
     author: fujimiya-siryu
@@ -24,6 +24,13 @@ works:
     date: '2026-04-19'
     code: 342500
     url: /works/342500/
+  - title: Kanojo no SmaPho o Nozoita dake nano ni | I Just Snooped through Her Smartphone
+    author: chocoro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/367709.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 367709
+    url: /works/367709/
   - title: NTR Nindou | The NTR Ninja Way
     author: tokie-hirohito
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/402019.jpg
@@ -38,6 +45,13 @@ works:
     date: '2026-04-12'
     code: 432513
     url: /works/432513/
+  - title: Kinou Kantoku to Sex Shita | Yesterday, I Had Sex with the Supervisor
+    author: hatch
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/466685.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 466685
+    url: /works/466685/
   - title: Obedience Part 1
     author: laliberte
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/501709.jpg
@@ -68,6 +82,13 @@ works:
     date: '2026-05-01'
     code: 591112
     url: /works/591112/
+  - title: Geriatric Dragons dogma
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/596562.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 596562
+    url: /works/596562/
   - title: Houkai Kazoku 2 -Hahaoya ga Yakuza to no Sex ni Hamatta Hanashi- | Broken
       Family 2 - The story of a mother who got hooked on sex with the Yakuza
     author: watsondou
@@ -150,6 +171,13 @@ works:
     date: '2026-05-26'
     code: 652606
     url: /works/652606/
+  - title: Houkai Kazoku 2-Hahaoya ga Yakuza to no Sex ni Hamatta Hanashi-
+    author: watsondou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/653079.jpg
+    rating: 4.6
+    date: '2026-09-30'
+    code: 653079
+    url: /works/653079/
   - title: Mesunoyado ~Tsuma wa Midare Kegasareru~
     author: ame-arare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/658797.jpg

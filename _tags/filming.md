@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "filming"
-work_count: 93
+work_count: 98
 works:
+  - title: Boku no Shiranai Kimi no Kao
+    author: utsutsu-minoru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/246449.jpg
+    rating: 4.9
+    date: '2026-09-30'
+    code: 246449
+    url: /works/246449/
   - title: Netorare Ibe Kiba Shizuka | The Netorare of Kiba Shizuka
     author: terasu-mc
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/288292.jpg
@@ -17,6 +24,13 @@ works:
     date: '2026-04-23'
     code: 329551
     url: /works/329551/
+  - title: Kanojo no SmaPho o Nozoita dake nano ni | I Just Snooped through Her Smartphone
+    author: chocoro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/367709.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 367709
+    url: /works/367709/
   - title: LOOK LIKE
     author: terasu-mc
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/388099.jpg
@@ -481,6 +495,13 @@ works:
     date: '2026-08-22'
     code: 652912
     url: /works/652912/
+  - title: Houkai Kazoku 2-Hahaoya ga Yakuza to no Sex ni Hamatta Hanashi-
+    author: watsondou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/653079.jpg
+    rating: 4.6
+    date: '2026-09-30'
+    code: 653079
+    url: /works/653079/
   - title: Namaiki Gal o Succubus ni Shite Oshioki Shitatta Ken 4 | Bewitched Reckoning
       How I Turned My Bully Into a Succubus 4
     author: takurowo
@@ -570,6 +591,13 @@ works:
     date: '2026-08-20'
     code: 669452
     url: /works/669452/
+  - title: Koitsu Maji de Chorokatta | This Chick Was Totally Easy
+    author: doron
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/671419.jpg
+    rating: 4.3
+    date: '2026-09-30'
+    code: 671419
+    url: /works/671419/
   - title: Hitoe-san no warui kuse | Hitoe's Bad Habit
     author: jirou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/674702.jpg
@@ -687,6 +715,14 @@ works:
     date: '2026-09-30'
     code: 684759
     url: /works/684759/
+  - title: Sogyoushiki no Yoru + Denshiban Omake Kakioroshi ~Ofuroba Hen~ | Graduation
+      Night + Bonus ~Bathroom Edition~
+    author: sabakan
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684813.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 684813
+    url: /works/684813/
   - title: YOUR SISTER - CHAPTER 1-16
     author: konparu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684882.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole dickgirl"
-work_count: 7
+work_count: 8
 works:
   - title: Tempt & Throb
     author: mushihara
@@ -17,6 +17,14 @@ works:
     date: '2026-07-11'
     code: 499536
     url: /works/499536/
+  - title: 30cm Chou Tsuyotsuyo Futanari Chinpo o Semen ga Karerukurai Manzoku Saserareru
+      kana?
+    author: sabakan
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/604775.jpg
+    rating: 4.8
+    date: '2026-09-30'
+    code: 604775
+    url: /works/604775/
   - title: My GF (ghost friend) caught me jerking off and now she's bouncing on it CRAZY
       STYLE
     author: ricegnat

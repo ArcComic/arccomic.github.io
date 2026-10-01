@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "blowjob"
-work_count: 589
+work_count: 595
 works:
   - title: Office Love Scramble Ch. 1
     author: tohzai
@@ -1495,6 +1495,14 @@ works:
     date: '2026-03-02'
     code: 603756
     url: /works/603756/
+  - title: 30cm Chou Tsuyotsuyo Futanari Chinpo o Semen ga Karerukurai Manzoku Saserareru
+      kana?
+    author: sabakan
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/604775.jpg
+    rating: 4.8
+    date: '2026-09-30'
+    code: 604775
+    url: /works/604775/
   - title: Otoko no Ko otodokeshimasu! ~Itsumo kuru Haitatsuin-san ga masaka no Otoko
       no Ko dattakedo mayowazu hameta~
     author: mitsujirou
@@ -2576,6 +2584,15 @@ works:
     date: '2026-05-07'
     code: 648551
     url: /works/648551/
+  - title: Daikirai na Yakyuubu Kantoku to Daisuki na Kaa-san no Sex wo Hitobanjuu Mita
+      Yoru | The night i watched my beloved mother have sex with the baseball coach
+      i hate!
+    author: watsondou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/648591.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 648591
+    url: /works/648591/
   - title: Trop 1 ~ Onabare Hitozuma no Sango Shojo o Itadakimasu~ | Trop 1 ~ I'll Take
       the Post-Birth Virginity of a Married Woman Whose Masturbation Was Exposed~
     author: higashide-irodori
@@ -3115,6 +3132,14 @@ works:
     date: '2026-07-11'
     code: 663194
     url: /works/663194/
+  - title: Boku to Onee-san no Natsu wa Mada Hajimatta Bakari | My Summer Story Has
+      Just Begun
+    author: gustav
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/663254.jpg
+    rating: 4.3
+    date: '2026-10-01'
+    code: 663254
+    url: /works/663254/
   - title: Gal to Otaku no Idenshi Aishou Batsugun H | The Superb Genetic Compatibility
       Between a Gyaru and an Otaku
     author: joucho
@@ -4332,6 +4357,21 @@ works:
     date: '2026-09-29'
     code: 684800
     url: /works/684800/
+  - title: Sogyoushiki no Yoru + Denshiban Omake Kakioroshi ~Ofuroba Hen~ | Graduation
+      Night + Bonus ~Bathroom Edition~
+    author: sabakan
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684813.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 684813
+    url: /works/684813/
+  - title: Ame Doujin
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684848.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 684848
+    url: /works/684848/
   - title: YOUR SISTER - CHAPTER 1-16
     author: konparu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684882.jpg
@@ -4370,6 +4410,15 @@ works:
     date: '2026-09-30'
     code: 684921
     url: /works/684921/
+  - title: Cross My Heart ~Tsundere Fuuki Iin to Kinpatsu Bishoujo Ryuugakusei~ | Cross
+      My Heart ~The Tsundere Disciplinary Committee Member and the Beautiful Blonde
+      Exchange Student~
+    author: takeda-hiromitsu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685147.jpg
+    rating: 0.0
+    date: '2026-10-01'
+    code: 685147
+    url: /works/685147/
   - title: Jokyoushi - Hot For Teachers | Female Teachers
     author: drill-murata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/81375.jpg

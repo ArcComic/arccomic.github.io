@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "incomplete"
-work_count: 14
+work_count: 15
 works:
   - title: Kizashi
     author: yoshiura-kazuya
@@ -46,6 +46,13 @@ works:
     date: '2026-08-18'
     code: 521812
     url: /works/521812/
+  - title: Geriatric Dragons dogma
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/596562.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 596562
+    url: /works/596562/
   - title: Amoral Island
     author: alp
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/633453.jpg

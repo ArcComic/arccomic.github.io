@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "full color"
-work_count: 230
+work_count: 233
 works:
   - title: Tsuma wo Yariman ni Shimasu Shakkin no Tame desu kara.
     author: pietoro
@@ -198,6 +198,13 @@ works:
     date: '2026-04-23'
     code: 435832
     url: /works/435832/
+  - title: This Slouching Girl’s Nipples Are So Sensitive…!
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/437443.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 437443
+    url: /works/437443/
   - title: Boku no Netorase Seiheki ni Tsukiatte kureru Kanojo | A Girlfriend Who Plays
       Along with My Cuckold Fetish
     author: terasu-mc
@@ -279,6 +286,13 @@ works:
     date: '2026-04-17'
     code: 481441
     url: /works/481441/
+  - title: Corruption Obscene Tales ch 1-4
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/490746.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 490746
+    url: /works/490746/
   - title: Boku no Chuugoku Bijin Slender Kyonyuu Tsuma ga Camera Model de Nugasarete
       Yarichin Tomo ni Netorareta Ken
     author: mitoreiyu
@@ -1207,6 +1221,14 @@ works:
     date: '2026-08-24'
     code: 659164
     url: /works/659164/
+  - title: Taido Warui Jou wa Otoshigai Arimasu | This Bratty Prostitute Was Easy To
+      Break
+    author: hikitogu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/660241.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 660241
+    url: /works/660241/
   - title: Shinyuu Tatakitsubushi Kyousou Shiiku Seikatsu | A Life in Captivity The
       Competition to Break My Best Friend
     author: group

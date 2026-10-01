@@ -16,7 +16,8 @@ works:
     date: '2026-04-12'
     code: 643397
     url: /works/643397/
-  - title: Work 660241
+  - title: Taido Warui Jou wa Otoshigai Arimasu | This Bratty Prostitute Was Easy To
+      Break
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/660241.jpg
     rating: 0.0
     date: '2026-09-30'

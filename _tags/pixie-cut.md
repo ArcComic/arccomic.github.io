@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "pixie cut"
-work_count: 87
+work_count: 90
 works:
   - title: Akarui Kazoku Seikatsu
     author: pistonring-nishizawa
@@ -66,6 +66,13 @@ works:
     date: '2026-04-27'
     code: 452482
     url: /works/452482/
+  - title: Kinou Kantoku to Sex Shita | Yesterday, I Had Sex with the Supervisor
+    author: hatch
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/466685.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 466685
+    url: /works/466685/
   - title: Sekai ga Heiwa ni Natta node Yuusha (Jitsu wa ♀) ni Kyuukon Shita Kekka |
       Marriage Proposal to the Hero (Actually ♀) When the World Is at Peace
     author: natsuo-tsunao
@@ -185,6 +192,13 @@ works:
     date: '2026-04-25'
     code: 593754
     url: /works/593754/
+  - title: Geriatric Dragons dogma
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/596562.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 596562
+    url: /works/596562/
   - title: Kirishima's Mother
     author: kojima-miu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/601711.jpg
@@ -244,6 +258,13 @@ works:
     date: '2026-09-19'
     code: 622161
     url: /works/622161/
+  - title: H na Ouji-sama wa Dame desuka?
+    author: inu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/628218.jpg
+    rating: 0.0
+    date: '2026-10-01'
+    code: 628218
+    url: /works/628218/
   - title: Rikujoubu no Boyish na Osananajimi ga suru Dare ni mo Ienai Koto | The Secret
       Activity of My Boyish Childhood Friend from the Track Team
     author: harufumi

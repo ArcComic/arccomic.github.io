@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "beauty mark"
-work_count: 182
+work_count: 191
 works:
   - title: Uragiri no Ai wa Mitsu no Aji | Treacherous Love Tastes Like Honey
     author: cuzukago
@@ -10,6 +10,13 @@ works:
     date: '2026-04-19'
     code: 244812
     url: /works/244812/
+  - title: Boku no Shiranai Kimi no Kao
+    author: utsutsu-minoru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/246449.jpg
+    rating: 4.9
+    date: '2026-09-30'
+    code: 246449
+    url: /works/246449/
   - title: Tsuma no Imouto no Danna ga Ie ni Kiteiruyoudesu | My Sister-In-Law's Husband
       is Over
     author: arakure
@@ -111,6 +118,13 @@ works:
     date: '2026-09-05'
     code: 363219
     url: /works/363219/
+  - title: Kanojo no SmaPho o Nozoita dake nano ni | I Just Snooped through Her Smartphone
+    author: chocoro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/367709.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 367709
+    url: /works/367709/
   - title: Ore no Osananajimi ga Uza Kawaii!! | My Childhood Friend Is Annoyingly Cute!!
     author: mataro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/369139.jpg
@@ -565,6 +579,14 @@ works:
     date: '2026-09-06'
     code: 594382
     url: /works/594382/
+  - title: Houkai Kazoku 0 -Hahaoya ga Yakuza to no Sex ni Hamatta Hanashi- | Collapsed
+      Family 0 - The story of a mother who got hooked on sex with a Yakuza
+    author: watsondou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/596687.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 596687
+    url: /works/596687/
   - title: Seishun to Backyard | The Youth and The Backyard
     author: mokuyama-hito
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/598084.jpg
@@ -601,6 +623,14 @@ works:
     date: '2026-05-07'
     code: 610017
     url: /works/610017/
+  - title: Mama ga Muchuu na Musume no Kareshi 2 - Kono Chinpo wa Kyouikujou Yoroshikunai
+      node Mama ga Shori Shimasu. | Mom's obsessed with her Daughter's Boyfriend 2
+    author: ohnaka-ito
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/612425.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 612425
+    url: /works/612425/
   - title: Oku-sama Shachou wa Miraretai | Madam President Wants to Be Seen
     author: minamida-usuke
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/615333.jpg
@@ -622,6 +652,14 @@ works:
     date: '2026-03-04'
     code: 624694
     url: /works/624694/
+  - title: Kareshi Mochi no Mei wa Shinjiteta Oji-san ni Okasareru | My Niece, Who had
+      a Boyfriend, Was Raped by Her Uncle, Whom She Trusted
+    author: ichinomiya-yuu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/624848.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 624848
+    url: /works/624848/
   - title: 'Taihai Tsuma: Taihaikei Hitotsuma o Yachin Kawari ni Koki Tsukaeru Hanashi
       | Slutty Wife!'
     author: kametaro
@@ -847,6 +885,15 @@ works:
     date: '2026-05-07'
     code: 648384
     url: /works/648384/
+  - title: Daikirai na Yakyuubu Kantoku to Daisuki na Kaa-san no Sex wo Hitobanjuu Mita
+      Yoru | The night i watched my beloved mother have sex with the baseball coach
+      i hate!
+    author: watsondou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/648591.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 648591
+    url: /works/648591/
   - title: Sukebe Gal no Cosplayer to Offpako Shiteru Hanashi
     author: inu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/650302.jpg
@@ -899,6 +946,13 @@ works:
     date: '2026-05-26'
     code: 652639
     url: /works/652639/
+  - title: Houkai Kazoku 2-Hahaoya ga Yakuza to no Sex ni Hamatta Hanashi-
+    author: watsondou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/653079.jpg
+    rating: 4.6
+    date: '2026-09-30'
+    code: 653079
+    url: /works/653079/
   - title: Majime na Kimi ni Hamaru Karada
     author: alp
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654010.jpg
@@ -1066,6 +1120,14 @@ works:
     date: '2026-09-27'
     code: 672405
     url: /works/672405/
+  - title: Tomodachi no Muchimuchi Kyonyuu Mama ga Ero Sugiru no ga Ikenai... Iya Ikeru!!
+      2
+    author: gya-tei
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/672692.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 672692
+    url: /works/672692/
   - title: Niihama Yui Husband Exclusive Re-debut
     author: buta
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/674199.jpg
@@ -1346,6 +1408,14 @@ works:
     date: '2026-09-28'
     code: 684643
     url: /works/684643/
+  - title: Sogyoushiki no Yoru + Denshiban Omake Kakioroshi ~Ofuroba Hen~ | Graduation
+      Night + Bonus ~Bathroom Edition~
+    author: sabakan
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684813.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 684813
+    url: /works/684813/
   - title: GyaGyaGya Gal Cosplay - LoveHo de Micchaku Nurunuru Soap Gokko
     author: x36marubox
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684911.jpg

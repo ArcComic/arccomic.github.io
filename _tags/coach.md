@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "coach"
-work_count: 7
+work_count: 8
 works:
   - title: Tsuki ga Noboru | Moonrise
     author: rocket-monkey
@@ -17,6 +17,13 @@ works:
     date: '2026-09-09'
     code: 461537
     url: /works/461537/
+  - title: Kinou Kantoku to Sex Shita | Yesterday, I Had Sex with the Supervisor
+    author: hatch
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/466685.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 466685
+    url: /works/466685/
   - title: Rikujoubu no Bokukko Doukyuusei ga Chuunen Komon ni Mesu ni Sareru Ichibu
       Shijuu
     author: marushin

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "stockings"
-work_count: 207
+work_count: 210
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -566,6 +566,13 @@ works:
     date: '2026-09-25'
     code: 626430
     url: /works/626430/
+  - title: H na Ouji-sama wa Dame desuka?
+    author: inu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/628218.jpg
+    rating: 0.0
+    date: '2026-10-01'
+    code: 628218
+    url: /works/628218/
   - title: Dansei Idol ni Okasareru Hanashi
     author: ema
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/630903.jpg
@@ -1506,6 +1513,13 @@ works:
     date: '2026-09-30'
     code: 684759
     url: /works/684759/
+  - title: Ame Doujin
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684848.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 684848
+    url: /works/684848/
   - title: Metsuki no Warui Kimi ga Suki
     author: tenpura-komoro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684897.jpg
@@ -1520,6 +1534,15 @@ works:
     date: '2026-09-30'
     code: 684898
     url: /works/684898/
+  - title: Cross My Heart ~Tsundere Fuuki Iin to Kinpatsu Bishoujo Ryuugakusei~ | Cross
+      My Heart ~The Tsundere Disciplinary Committee Member and the Beautiful Blonde
+      Exchange Student~
+    author: takeda-hiromitsu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685147.jpg
+    rating: 0.0
+    date: '2026-10-01'
+    code: 685147
+    url: /works/685147/
   - title: Jokyoushi - Hot For Teachers | Female Teachers
     author: drill-murata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/81375.jpg

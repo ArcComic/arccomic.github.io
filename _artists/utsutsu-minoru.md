@@ -3,7 +3,7 @@ layout: artist
 artist_name: "utsutsu-minoru"
 work_count: 1
 works:
-  - title: Work 246449
+  - title: Boku no Shiranai Kimi no Kao
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/246449.jpg
     rating: 4.9
     date: '2026-09-30'

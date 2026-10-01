@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "incest"
-work_count: 274
+work_count: 276
 works:
   - title: Imitation Family + Bigibo Hen
     author: tohzai
@@ -779,6 +779,14 @@ works:
     date: '2026-08-29'
     code: 618087
     url: /works/618087/
+  - title: Kareshi Mochi no Mei wa Shinjiteta Oji-san ni Okasareru | My Niece, Who had
+      a Boyfriend, Was Raped by Her Uncle, Whom She Trusted
+    author: ichinomiya-yuu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/624848.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 624848
+    url: /works/624848/
   - title: I have a secret relationship with my grandmother, without my mother knowing...
       ♡
     author: popotto-denki-ichigouten
@@ -1106,6 +1114,13 @@ works:
     date: '2026-05-07'
     code: 648522
     url: /works/648522/
+  - title: Inkan no Ketsuzoku 1-3
+    author: diisuke
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651242.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 651242
+    url: /works/651242/
   - title: Itoko no Nee-chan no Oppai Mondara Ecchi Suru Koto ni Natta Hanashi. | The
       Story of How I Ended Up Having Sex After Groping My Cousin Sister's Boobs
     author: shouji-nigou

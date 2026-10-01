@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "wholesome"
-work_count: 144
+work_count: 145
 works:
   - title: FLUFFY LAUGH GIRL
     author: shibasaki-syouzi
@@ -959,6 +959,14 @@ works:
     date: '2026-07-10'
     code: 662891
     url: /works/662891/
+  - title: Boku to Onee-san no Natsu wa Mada Hajimatta Bakari | My Summer Story Has
+      Just Begun
+    author: gustav
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/663254.jpg
+    rating: 4.3
+    date: '2026-10-01'
+    code: 663254
+    url: /works/663254/
   - title: The Delinquent Gyaru That I Fantasize About Found Out! | Furyou Gal de Ero
       Mousou Shitetara Honnin ni Bareta Ken
     author: dynamite-moca

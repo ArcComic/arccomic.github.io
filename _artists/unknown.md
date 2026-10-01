@@ -24,7 +24,7 @@ works:
     date: '2026-09-23'
     code: 436140
     url: /works/436140/
-  - title: Work 437443
+  - title: This Slouching Girl’s Nipples Are So Sensitive…!
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/437443.jpg
     rating: 0.0
     date: '2026-09-30'
@@ -42,7 +42,7 @@ works:
     date: '2026-02-28'
     code: 484852
     url: /works/484852/
-  - title: Work 490746
+  - title: Corruption Obscene Tales ch 1-4
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/490746.jpg
     rating: 0.0
     date: '2026-09-30'
@@ -437,7 +437,7 @@ works:
     date: '2026-09-29'
     code: 684800
     url: /works/684800/
-  - title: Work 684848
+  - title: Ame Doujin
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684848.jpg
     rating: 0.0
     date: '2026-09-30'

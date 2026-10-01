@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "corruption"
-work_count: 14
+work_count: 15
 works:
   - title: 'Jujutsu Kaisen: Mahito Mayhem'
     author: mayitgu
@@ -61,6 +61,13 @@ works:
     date: '2026-09-27'
     code: 650625
     url: /works/650625/
+  - title: Houkai Kazoku 2-Hahaoya ga Yakuza to no Sex ni Hamatta Hanashi-
+    author: watsondou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/653079.jpg
+    rating: 4.6
+    date: '2026-09-30'
+    code: 653079
+    url: /works/653079/
   - title: Namaiki Gal o Succubus ni Shite Oshioki Shitatta Ken 4 | Bewitched Reckoning
       How I Turned My Bully Into a Succubus 4
     author: takurowo

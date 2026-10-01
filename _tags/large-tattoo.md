@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "large tattoo"
-work_count: 16
+work_count: 18
 works:
   - title: NTR Nindou | The NTR Ninja Way
     author: tokie-hirohito
@@ -26,6 +26,14 @@ works:
     date: '2026-05-07'
     code: 596598
     url: /works/596598/
+  - title: Houkai Kazoku 0 -Hahaoya ga Yakuza to no Sex ni Hamatta Hanashi- | Collapsed
+      Family 0 - The story of a mother who got hooked on sex with a Yakuza
+    author: watsondou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/596687.jpg
+    rating: 0.0
+    date: '2026-09-30'
+    code: 596687
+    url: /works/596687/
   - title: My Wife, On the Other Side of The Peep Room…
     author: nekome-koi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/609714.jpg
@@ -54,6 +62,13 @@ works:
     date: '2026-03-07'
     code: 634464
     url: /works/634464/
+  - title: Houkai Kazoku 2-Hahaoya ga Yakuza to no Sex ni Hamatta Hanashi-
+    author: watsondou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/653079.jpg
+    rating: 4.6
+    date: '2026-09-30'
+    code: 653079
+    url: /works/653079/
   - title: Shinyuu Tatakitsubushi Kyousou Shiiku Seikatsu | A Life in Captivity The
       Competition to Break My Best Friend
     author: group

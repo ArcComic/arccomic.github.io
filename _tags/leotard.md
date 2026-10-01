@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "leotard"
-work_count: 9
+work_count: 10
 works:
   - title: Watashi no Karada, Okashi Shimasu. Bunny Girl Edition
     author: nectar
@@ -33,6 +33,13 @@ works:
     date: '2026-04-23'
     code: 584579
     url: /works/584579/
+  - title: H na Ouji-sama wa Dame desuka?
+    author: inu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/628218.jpg
+    rating: 0.0
+    date: '2026-10-01'
+    code: 628218
+    url: /works/628218/
   - title: Fetishism Vol. 20 ~Ashikoki Hen~
     author: shinooka-homare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/637252.jpg
