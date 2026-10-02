@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "mosaic censorship"
-work_count: 308
+work_count: 311
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -236,6 +236,15 @@ works:
     date: '2026-09-08'
     code: 415046
     url: /works/415046/
+  - title: Kanojo to no Kekkon Houkoku ni Kiseishita noni Gimai to Yarimakuri no Suujitsukan
+      ga Hajimatteshimatta | I visited my in-laws to announce my marriage and ended
+      up fucking my girlfriend's little sister silly!
+    author: nyaa-no-esa
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/421306.jpg
+    rating: 0.0
+    date: '2026-10-02'
+    code: 421306
+    url: /works/421306/
   - title: The Show Must Go On!
     author: chicken
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/432255.jpg
@@ -2264,4 +2273,19 @@ works:
     date: '2026-09-30'
     code: 684921
     url: /works/684921/
+  - title: Papa no Shinshitsu wa Musume Tomodachi no Tamariba 5 -Ninshin Houkoku Hen-
+    author: richard-bahman
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685678.jpg
+    rating: 0.0
+    date: '2026-10-02'
+    code: 685678
+    url: /works/685678/
+  - title: Mukatsuku Imouto wa Chanto Shikaranakucha 1-36 Matome | Annoying Little Sister
+      Needs to be Scolded 1-36
+    author: juna-juna-juice
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685683.jpg
+    rating: 0.0
+    date: '2026-10-02'
+    code: 685683
+    url: /works/685683/
 ---

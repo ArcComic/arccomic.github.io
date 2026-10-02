@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "breast feeding"
-work_count: 82
+work_count: 83
 works:
   - title: Oppai na Natsuyasumi 2 | The Summer Break of Boobs 2
     author: higashino-mikan
@@ -627,4 +627,11 @@ works:
     date: '2026-09-30'
     code: 684920
     url: /works/684920/
+  - title: Papa no Shinshitsu wa Musume Tomodachi no Tamariba 5 -Ninshin Houkoku Hen-
+    author: richard-bahman
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685678.jpg
+    rating: 0.0
+    date: '2026-10-02'
+    code: 685678
+    url: /works/685678/
 ---

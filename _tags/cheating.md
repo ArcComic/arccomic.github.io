@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "cheating"
-work_count: 341
+work_count: 342
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -391,6 +391,15 @@ works:
     date: '2026-09-25'
     code: 420017
     url: /works/420017/
+  - title: Kanojo to no Kekkon Houkoku ni Kiseishita noni Gimai to Yarimakuri no Suujitsukan
+      ga Hajimatteshimatta | I visited my in-laws to announce my marriage and ended
+      up fucking my girlfriend's little sister silly!
+    author: nyaa-no-esa
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/421306.jpg
+    rating: 0.0
+    date: '2026-10-02'
+    code: 421306
+    url: /works/421306/
   - title: Hikage | Shade
     author: syuuen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/429669.jpg

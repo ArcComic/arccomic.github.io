@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "condom"
-work_count: 211
+work_count: 213
 works:
   - title: Kaisha de Iroiro | Gettin' Busy at the Office
     author: hara-shigeyuki
@@ -1560,4 +1560,21 @@ works:
     date: '2026-09-30'
     code: 684759
     url: /works/684759/
+  - title: Kanojo wa mada 18cm Ijou o Shiranai. | She has never experienced anything
+      close to 18 cm.
+    author: nyaa-no-esa
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685699.jpg
+    rating: 0.0
+    date: '2026-10-02'
+    code: 685699
+    url: /works/685699/
+  - title: 'DeliHeal Kaa-chan 3 ~Daisuki na Kaa-chan to Yari Makuri Handousei Seikatsu~
+      | Call Girl Mom 3: Non-Stop Fucking With My Beloved Mom in Our Almost Live-in
+      Sex Life'
+    author: tarobaumu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685733.jpg
+    rating: 0.0
+    date: '2026-10-02'
+    code: 685733
+    url: /works/685733/
 ---

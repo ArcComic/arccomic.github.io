@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "layer cake"
-work_count: 9
+work_count: 10
 works:
   - title: Dansei ga Kyokutan ni Sukunai Kono Sekai de wa, Seishi wa Kichou na Shigen
       desu. Sono 2 | In a World Where Men Are Scarce, Sperm Is a Precious Resource 2
@@ -72,4 +72,11 @@ works:
     date: '2026-10-01'
     code: 685147
     url: /works/685147/
+  - title: Papa no Shinshitsu wa Musume Tomodachi no Tamariba 5 -Ninshin Houkoku Hen-
+    author: richard-bahman
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685678.jpg
+    rating: 0.0
+    date: '2026-10-02'
+    code: 685678
+    url: /works/685678/
 ---

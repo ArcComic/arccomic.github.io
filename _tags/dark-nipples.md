@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "dark nipples"
-work_count: 5
+work_count: 6
 works:
   - title: Onna Shachou to Koibito ni Naru Houhou | How To Become Lover's With A Female
       CEO
@@ -40,4 +40,12 @@ works:
     date: '2026-09-15'
     code: 681329
     url: /works/681329/
+  - title: Mukatsuku Imouto wa Chanto Shikaranakucha 1-36 Matome | Annoying Little Sister
+      Needs to be Scolded 1-36
+    author: juna-juna-juice
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685683.jpg
+    rating: 0.0
+    date: '2026-10-02'
+    code: 685683
+    url: /works/685683/
 ---

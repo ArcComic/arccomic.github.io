@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "anal"
-work_count: 148
+work_count: 149
 works:
   - title: Hitozuma Hyakka
     author: hase-tsubura
@@ -70,6 +70,15 @@ works:
     date: '2026-09-08'
     code: 415046
     url: /works/415046/
+  - title: Kanojo to no Kekkon Houkoku ni Kiseishita noni Gimai to Yarimakuri no Suujitsukan
+      ga Hajimatteshimatta | I visited my in-laws to announce my marriage and ended
+      up fucking my girlfriend's little sister silly!
+    author: nyaa-no-esa
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/421306.jpg
+    rating: 0.0
+    date: '2026-10-02'
+    code: 421306
+    url: /works/421306/
   - title: Utakata 2 ~Uraaka DoM Haken OL Onaho Choukyou~ | An Office Lady's Behind
       The Scenes Masochistic Onahole Training 2
     author: yuzuri-ai

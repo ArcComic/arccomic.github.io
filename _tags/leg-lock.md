@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "leg lock"
-work_count: 80
+work_count: 81
 works:
   - title: My Care Lady Ch. 1
     author: sugi-g
@@ -79,6 +79,15 @@ works:
     date: '2026-09-26'
     code: 396702
     url: /works/396702/
+  - title: Kanojo to no Kekkon Houkoku ni Kiseishita noni Gimai to Yarimakuri no Suujitsukan
+      ga Hajimatteshimatta | I visited my in-laws to announce my marriage and ended
+      up fucking my girlfriend's little sister silly!
+    author: nyaa-no-esa
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/421306.jpg
+    rating: 0.0
+    date: '2026-10-02'
+    code: 421306
+    url: /works/421306/
   - title: Tonari no Ayane-san Desaki Battari Hen
     author: herio
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/432356.jpg

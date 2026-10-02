@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bathing room"
-work_count: 19
+work_count: 20
 works:
   - title: Homestay-chu no Doitsu Musume ga Issho ni Furo ni Haitte Kuru Wake | The
       Reason Why a German Girl Takes a Bath Together With Me on Her Homestay
@@ -146,4 +146,12 @@ works:
     date: '2026-09-30'
     code: 684911
     url: /works/684911/
+  - title: Kanojo wa mada 18cm Ijou o Shiranai. | She has never experienced anything
+      close to 18 cm.
+    author: nyaa-no-esa
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685699.jpg
+    rating: 0.0
+    date: '2026-10-02'
+    code: 685699
+    url: /works/685699/
 ---

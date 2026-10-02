@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole female"
-work_count: 905
+work_count: 908
 works:
   - title: Adoration
     author: kishizuka-kenji
@@ -6704,6 +6704,22 @@ works:
     date: '2026-10-01'
     code: 685377
     url: /works/685377/
+  - title: Mukatsuku Imouto wa Chanto Shikaranakucha 1-36 Matome | Annoying Little Sister
+      Needs to be Scolded 1-36
+    author: juna-juna-juice
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685683.jpg
+    rating: 0.0
+    date: '2026-10-02'
+    code: 685683
+    url: /works/685683/
+  - title: Kanojo wa mada 18cm Ijou o Shiranai. | She has never experienced anything
+      close to 18 cm.
+    author: nyaa-no-esa
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685699.jpg
+    rating: 0.0
+    date: '2026-10-02'
+    code: 685699
+    url: /works/685699/
   - title: DeliHeal Yondara Gachi no Kaa-chan ga Kita Hanashi 2 | When I Ordered a Call
       Girl My Mom Actually Showed Up 2
     author: tarobaumu
@@ -6712,4 +6728,13 @@ works:
     date: '2026-10-02'
     code: 685728
     url: /works/685728/
+  - title: 'DeliHeal Kaa-chan 3 ~Daisuki na Kaa-chan to Yari Makuri Handousei Seikatsu~
+      | Call Girl Mom 3: Non-Stop Fucking With My Beloved Mom in Our Almost Live-in
+      Sex Life'
+    author: tarobaumu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685733.jpg
+    rating: 0.0
+    date: '2026-10-02'
+    code: 685733
+    url: /works/685733/
 ---

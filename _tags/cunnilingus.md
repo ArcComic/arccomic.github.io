@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "cunnilingus"
-work_count: 152
+work_count: 153
 works:
   - title: Love Approach
     author: hanafuda-sakurano
@@ -1129,4 +1129,11 @@ works:
     date: '2026-10-01'
     code: 685360
     url: /works/685360/
+  - title: Papa no Shinshitsu wa Musume Tomodachi no Tamariba 5 -Ninshin Houkoku Hen-
+    author: richard-bahman
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685678.jpg
+    rating: 0.0
+    date: '2026-10-02'
+    code: 685678
+    url: /works/685678/
 ---

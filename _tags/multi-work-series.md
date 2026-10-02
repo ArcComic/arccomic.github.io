@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "multi-work series"
-work_count: 351
+work_count: 353
 works:
   - title: Pai☆Panic ~Hasamareta Dekapai~ 2
     author: inkey
@@ -2625,6 +2625,13 @@ works:
     date: '2026-10-01'
     code: 685377
     url: /works/685377/
+  - title: Papa no Shinshitsu wa Musume Tomodachi no Tamariba 5 -Ninshin Houkoku Hen-
+    author: richard-bahman
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685678.jpg
+    rating: 0.0
+    date: '2026-10-02'
+    code: 685678
+    url: /works/685678/
   - title: DeliHeal Yondara Gachi no Kaa-chan ga Kita Hanashi 2 | When I Ordered a Call
       Girl My Mom Actually Showed Up 2
     author: tarobaumu
@@ -2633,4 +2640,13 @@ works:
     date: '2026-10-02'
     code: 685728
     url: /works/685728/
+  - title: 'DeliHeal Kaa-chan 3 ~Daisuki na Kaa-chan to Yari Makuri Handousei Seikatsu~
+      | Call Girl Mom 3: Non-Stop Fucking With My Beloved Mom in Our Almost Live-in
+      Sex Life'
+    author: tarobaumu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685733.jpg
+    rating: 0.0
+    date: '2026-10-02'
+    code: 685733
+    url: /works/685733/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "pixie cut"
-work_count: 90
+work_count: 92
 works:
   - title: Akarui Kazoku Seikatsu
     author: pistonring-nishizawa
@@ -24,6 +24,15 @@ works:
     date: '2026-09-13'
     code: 388627
     url: /works/388627/
+  - title: Kanojo to no Kekkon Houkoku ni Kiseishita noni Gimai to Yarimakuri no Suujitsukan
+      ga Hajimatteshimatta | I visited my in-laws to announce my marriage and ended
+      up fucking my girlfriend's little sister silly!
+    author: nyaa-no-esa
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/421306.jpg
+    rating: 0.0
+    date: '2026-10-02'
+    code: 421306
+    url: /works/421306/
   - title: Doushia (Terasu MC)] Dorei Gazoku
     author: terasu-mc
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/427676.jpg
@@ -680,4 +689,13 @@ works:
     date: '2026-09-30'
     code: 684921
     url: /works/684921/
+  - title: 'DeliHeal Kaa-chan 3 ~Daisuki na Kaa-chan to Yari Makuri Handousei Seikatsu~
+      | Call Girl Mom 3: Non-Stop Fucking With My Beloved Mom in Our Almost Live-in
+      Sex Life'
+    author: tarobaumu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685733.jpg
+    rating: 0.0
+    date: '2026-10-02'
+    code: 685733
+    url: /works/685733/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "full color"
-work_count: 237
+work_count: 239
 works:
   - title: Pai☆Panic ~Hasamareta Dekapai~
     author: inkey
@@ -1734,4 +1734,19 @@ works:
     date: '2026-10-01'
     code: 685339
     url: /works/685339/
+  - title: Papa no Shinshitsu wa Musume Tomodachi no Tamariba 5 -Ninshin Houkoku Hen-
+    author: richard-bahman
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685678.jpg
+    rating: 0.0
+    date: '2026-10-02'
+    code: 685678
+    url: /works/685678/
+  - title: Mukatsuku Imouto wa Chanto Shikaranakucha 1-36 Matome | Annoying Little Sister
+      Needs to be Scolded 1-36
+    author: juna-juna-juice
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685683.jpg
+    rating: 0.0
+    date: '2026-10-02'
+    code: 685683
+    url: /works/685683/
 ---
