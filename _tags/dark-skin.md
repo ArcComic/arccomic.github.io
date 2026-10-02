@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "dark skin"
-work_count: 148
+work_count: 149
 works:
   - title: Birthday
     author: hashiba-yachi
@@ -796,6 +796,13 @@ works:
     date: '2026-07-09'
     code: 662647
     url: /works/662647/
+  - title: Choukyou Inroku Ni ~Kunoichi Hiiragi no Junan~
+    author: carpsukidayo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/663482.jpg
+    rating: 0.0
+    date: '2026-10-02'
+    code: 663482
+    url: /works/663482/
   - title: Boku ni Yuuki ga Atta nara | If only I had the courage
     author: kamakiri-akagi-ryouichi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/663672.jpg

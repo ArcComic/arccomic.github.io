@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "anal intercourse"
-work_count: 82
+work_count: 83
 works:
   - title: Bitch Mama no Kekkon Riyuu
     author: aoyama-akira
@@ -172,6 +172,13 @@ works:
     date: '2026-09-23'
     code: 638513
     url: /works/638513/
+  - title: Stupid women are forced to become breeding slaves
+    author: carpsukidayo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/641858.jpg
+    rating: 0.0
+    date: '2026-10-02'
+    code: 641858
+    url: /works/641858/
   - title: Akogare no Hito wa Mou Owari! 3
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642586.jpg

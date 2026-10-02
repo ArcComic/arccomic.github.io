@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "multi-work series"
-work_count: 347
+work_count: 351
 works:
+  - title: Pai☆Panic ~Hasamareta Dekapai~ 2
+    author: inkey
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/284270.jpg
+    rating: 0.0
+    date: '2026-10-02'
+    code: 284270
+    url: /works/284270/
   - title: Oppai na Natsuyasumi 2 | The Summer Break of Boobs 2
     author: higashino-mikan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/292454.jpg
@@ -955,6 +962,14 @@ works:
     date: '2026-09-10'
     code: 613838
     url: /works/613838/
+  - title: Josei no Kenri ga Ushinawareta Kuni  - The Country Where Women's Rights have
+      been Lost 2
+    author: mokataki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/614397.jpg
+    rating: 0.0
+    date: '2026-10-02'
+    code: 614397
+    url: /works/614397/
   - title: Eroi Koto Igai de Toki o Tomete wa Dame desu yo 2
     author: ohkura-kazuya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/615835.jpg
@@ -1832,6 +1847,13 @@ works:
     date: '2026-07-11'
     code: 663192
     url: /works/663192/
+  - title: Choukyou Inroku Ni ~Kunoichi Hiiragi no Junan~
+    author: carpsukidayo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/663482.jpg
+    rating: 0.0
+    date: '2026-10-02'
+    code: 663482
+    url: /works/663482/
   - title: Houkago Instant XXX CHAPTER 11
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/663654.jpg
@@ -2603,4 +2625,12 @@ works:
     date: '2026-10-01'
     code: 685377
     url: /works/685377/
+  - title: DeliHeal Yondara Gachi no Kaa-chan ga Kita Hanashi 2 | When I Ordered a Call
+      Girl My Mom Actually Showed Up 2
+    author: tarobaumu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685728.jpg
+    rating: 0.0
+    date: '2026-10-02'
+    code: 685728
+    url: /works/685728/
 ---

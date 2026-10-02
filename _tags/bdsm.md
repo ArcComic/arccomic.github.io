@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bdsm"
-work_count: 15
+work_count: 18
 works:
   - title: Boku no Kaa-chan ga Hikikomori Neet Debu Aniki no Seishori Onaho ni Natteita
       Hanashi | My Mother is My Fat Shut-in Older NEET Brother's Sex Relief Onahole
@@ -35,6 +35,13 @@ works:
     date: '2026-07-16'
     code: 637709
     url: /works/637709/
+  - title: Stupid women are forced to become breeding slaves
+    author: carpsukidayo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/641858.jpg
+    rating: 0.0
+    date: '2026-10-02'
+    code: 641858
+    url: /works/641858/
   - title: Netorareta Kanojo ga Joou-sama ni natte Kaettekita ~Ruined de Kintama o Kara
       ni sarete Zenritsusen o Ijirarete Nandomo Nandomo Mesuikishite Choukyou sareru
       Ohanashi~
@@ -67,6 +74,13 @@ works:
     date: '2026-07-06'
     code: 661586
     url: /works/661586/
+  - title: Choukyou Inroku Ni ~Kunoichi Hiiragi no Junan~
+    author: carpsukidayo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/663482.jpg
+    rating: 0.0
+    date: '2026-10-02'
+    code: 663482
+    url: /works/663482/
   - title: Inuzuka-san and her Unusual Hobbies
     author: carpsukidayo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/664022.jpg
@@ -121,4 +135,11 @@ works:
     date: '2026-09-26'
     code: 684077
     url: /works/684077/
+  - title: Ichiya no Yume Senya No Maboroshi 1-7
+    author: sanbun-kyoden
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685727.jpg
+    rating: 0.0
+    date: '2026-10-02'
+    code: 685727
+    url: /works/685727/
 ---

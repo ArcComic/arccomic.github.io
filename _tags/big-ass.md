@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big ass"
-work_count: 222
+work_count: 224
 works:
   - title: My Care Lady Ch. 1
     author: sugi-g
@@ -1660,6 +1660,21 @@ works:
     date: '2026-10-01'
     code: 685147
     url: /works/685147/
+  - title: Ichiya no Yume Senya No Maboroshi 1-7
+    author: sanbun-kyoden
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685727.jpg
+    rating: 0.0
+    date: '2026-10-02'
+    code: 685727
+    url: /works/685727/
+  - title: DeliHeal Yondara Gachi no Kaa-chan ga Kita Hanashi 2 | When I Ordered a Call
+      Girl My Mom Actually Showed Up 2
+    author: tarobaumu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685728.jpg
+    rating: 0.0
+    date: '2026-10-02'
+    code: 685728
+    url: /works/685728/
   - title: Inin Keiyaku | Lewd Pregnancy Contract
     author: yoshiura-kazuya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/83595.jpg

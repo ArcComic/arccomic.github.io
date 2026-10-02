@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "stockings"
-work_count: 211
+work_count: 214
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -685,6 +685,13 @@ works:
     date: '2026-09-24'
     code: 640106
     url: /works/640106/
+  - title: Stupid women are forced to become breeding slaves
+    author: carpsukidayo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/641858.jpg
+    rating: 0.0
+    date: '2026-10-02'
+    code: 641858
+    url: /works/641858/
   - title: Akogare no Hito wa Mou Owari!
     author: orange-mimosa
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642584.jpg
@@ -984,6 +991,13 @@ works:
     date: '2026-07-11'
     code: 663194
     url: /works/663194/
+  - title: Choukyou Inroku Ni ~Kunoichi Hiiragi no Junan~
+    author: carpsukidayo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/663482.jpg
+    rating: 0.0
+    date: '2026-10-02'
+    code: 663482
+    url: /works/663482/
   - title: Gohoubi wa Karada de. ~Ero-sugi Fukuri Kousei wa Seishori-ka no Oshigoto~
       (2) | The Reward is the Body ~The Overly Lewd Employee Benefits of the Service
       Department~
@@ -1550,6 +1564,13 @@ works:
     date: '2026-10-01'
     code: 685197
     url: /works/685197/
+  - title: Ichiya no Yume Senya No Maboroshi 1-7
+    author: sanbun-kyoden
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685727.jpg
+    rating: 0.0
+    date: '2026-10-02'
+    code: 685727
+    url: /works/685727/
   - title: Jokyoushi - Hot For Teachers | Female Teachers
     author: drill-murata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/81375.jpg

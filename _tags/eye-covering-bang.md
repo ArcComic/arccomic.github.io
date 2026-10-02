@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "eye-covering bang"
-work_count: 62
+work_count: 63
 works:
   - title: Tomodachi no Mama ga Boku no Dekachin de Ikimakutta Onsen Ryokou | The Hotspring
       Trip Where My Friend's Mother was All Over My Big Dick
@@ -307,6 +307,13 @@ works:
     date: '2026-07-07'
     code: 661909
     url: /works/661909/
+  - title: Choukyou Inroku Ni ~Kunoichi Hiiragi no Junan~
+    author: carpsukidayo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/663482.jpg
+    rating: 0.0
+    date: '2026-10-02'
+    code: 663482
+    url: /works/663482/
   - title: Welcome to the Weak Masochist Volleyball Club
     author: hagakure-kurage
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/664758.jpg

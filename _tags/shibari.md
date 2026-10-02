@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "shibari"
-work_count: 7
+work_count: 9
 works:
   - title: 撞破秘密后，我成了上司的“专属藏品
     author: unknown
@@ -34,6 +34,13 @@ works:
     date: '2026-07-07'
     code: 655423
     url: /works/655423/
+  - title: Choukyou Inroku Ni ~Kunoichi Hiiragi no Junan~
+    author: carpsukidayo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/663482.jpg
+    rating: 0.0
+    date: '2026-10-02'
+    code: 663482
+    url: /works/663482/
   - title: 'Seifukusha ~Yami ni Ochiru Hitozuma-tachi~ | Sexploiter: Housewives Falling
       Into Darkness'
     author: hoshino-ryuichi
@@ -56,4 +63,11 @@ works:
     date: '2026-09-23'
     code: 683067
     url: /works/683067/
+  - title: Ichiya no Yume Senya No Maboroshi 1-7
+    author: sanbun-kyoden
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685727.jpg
+    rating: 0.0
+    date: '2026-10-02'
+    code: 685727
+    url: /works/685727/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "lingerie"
-work_count: 92
+work_count: 93
 works:
   - title: My Care Lady Ch. 1
     author: sugi-g
@@ -684,4 +684,11 @@ works:
     date: '2026-10-01'
     code: 685207
     url: /works/685207/
+  - title: Ichiya no Yume Senya No Maboroshi 1-7
+    author: sanbun-kyoden
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685727.jpg
+    rating: 0.0
+    date: '2026-10-02'
+    code: 685727
+    url: /works/685727/
 ---

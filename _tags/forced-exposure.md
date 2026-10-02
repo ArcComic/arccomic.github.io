@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "forced exposure"
-work_count: 11
+work_count: 13
 works:
   - title: Chikubi Kando Chousa, Hajimemasu
     author: nanahamu
@@ -18,6 +18,14 @@ works:
     date: '2026-08-24'
     code: 584934
     url: /works/584934/
+  - title: Josei no Kenri ga Ushinawareta Kuni  - The Country Where Women's Rights have
+      been Lost 2
+    author: mokataki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/614397.jpg
+    rating: 0.0
+    date: '2026-10-02'
+    code: 614397
+    url: /works/614397/
   - title: Watashi ga Haishin de Porori Shichau tte Uso Desu yo ne!? | It's Not True
       That My Breasts Will Be Exposed During The Live Stream, Right!?
     author: ouno
@@ -47,6 +55,13 @@ works:
     date: '2026-09-24'
     code: 640988
     url: /works/640988/
+  - title: Stupid women are forced to become breeding slaves
+    author: carpsukidayo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/641858.jpg
+    rating: 0.0
+    date: '2026-10-02'
+    code: 641858
+    url: /works/641858/
   - title: Shuugaku Ryokou no Yoru Class no Idol Yowasete Oppai wo Nama Okazu ni Shiteyatta
       w | On the night of an excursion, we got the class idol drunk and jacked off to
       her nude titties lol

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "story arc"
-work_count: 196
+work_count: 198
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -66,6 +66,13 @@ works:
     date: '2026-04-19'
     code: 244812
     url: /works/244812/
+  - title: The Girl That Got Stuck in the Wall Ch.11/11
+    author: gaehoju
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/304474.jpg
+    rating: 0.0
+    date: '2026-10-02'
+    code: 304474
+    url: /works/304474/
   - title: Kono Furin wa Otto no Tame "Anata, Yurushite…." To, Netorareru Tsuma | 這場外遇是為了老公「親愛的，原諒我…」這樣說著，為老公戴綠帽的妻子
     author: korosuke
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/328805.jpg
@@ -1439,6 +1446,14 @@ works:
     date: '2026-10-01'
     code: 685360
     url: /works/685360/
+  - title: DeliHeal Yondara Gachi no Kaa-chan ga Kita Hanashi 2 | When I Ordered a Call
+      Girl My Mom Actually Showed Up 2
+    author: tarobaumu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685728.jpg
+    rating: 0.0
+    date: '2026-10-02'
+    code: 685728
+    url: /works/685728/
   - title: Hottokenaino
     author: hara-shigeyuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/77864.jpg

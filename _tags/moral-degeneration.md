@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "moral degeneration"
-work_count: 40
+work_count: 41
 works:
   - title: Kanojo no SmaPho o Nozoita dake nano ni | I Just Snooped through Her Smartphone
     author: chocoro
@@ -301,4 +301,11 @@ works:
     date: '2026-09-30'
     code: 684759
     url: /works/684759/
+  - title: Ichiya no Yume Senya No Maboroshi 1-7
+    author: sanbun-kyoden
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685727.jpg
+    rating: 0.0
+    date: '2026-10-02'
+    code: 685727
+    url: /works/685727/
 ---

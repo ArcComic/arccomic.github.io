@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sex toys"
-work_count: 114
+work_count: 117
 works:
   - title: Ayami Hypno
     author: yasuhiro
@@ -268,6 +268,14 @@ works:
     date: '2026-09-29'
     code: 614205
     url: /works/614205/
+  - title: Josei no Kenri ga Ushinawareta Kuni  - The Country Where Women's Rights have
+      been Lost 2
+    author: mokataki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/614397.jpg
+    rating: 0.0
+    date: '2026-10-02'
+    code: 614397
+    url: /works/614397/
   - title: Eroi Koto Igai de Toki o Tomete wa Dame desu yo 2
     author: ohkura-kazuya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/615835.jpg
@@ -370,6 +378,13 @@ works:
     date: '2026-09-13'
     code: 638556
     url: /works/638556/
+  - title: Stupid women are forced to become breeding slaves
+    author: carpsukidayo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/641858.jpg
+    rating: 0.0
+    date: '2026-10-02'
+    code: 641858
+    url: /works/641858/
   - title: Ryousai-chan ~Yukemuri Hen~ Jou + Ryousai-chan ~Yukemuri Hen~ Ge
     author: mappa-ninatta
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642602.jpg
@@ -845,4 +860,11 @@ works:
     date: '2026-10-01'
     code: 685339
     url: /works/685339/
+  - title: Ichiya no Yume Senya No Maboroshi 1-7
+    author: sanbun-kyoden
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685727.jpg
+    rating: 0.0
+    date: '2026-10-02'
+    code: 685727
+    url: /works/685727/
 ---

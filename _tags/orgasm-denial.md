@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "orgasm denial"
-work_count: 18
+work_count: 19
 works:
   - title: Ayami Hypno
     author: yasuhiro
@@ -101,6 +101,13 @@ works:
     date: '2026-07-08'
     code: 662370
     url: /works/662370/
+  - title: Choukyou Inroku Ni ~Kunoichi Hiiragi no Junan~
+    author: carpsukidayo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/663482.jpg
+    rating: 0.0
+    date: '2026-10-02'
+    code: 663482
+    url: /works/663482/
   - title: Succubus Seitokai Shiko Shiko Shikkoubu 4 Zenpen | Succubus Student Council
       Milking Club Part 4, First Half
     author: michiking

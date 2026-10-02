@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "business suit"
-work_count: 79
+work_count: 82
 works:
   - title: Kaisha de Iroiro | Gettin' Busy at the Office
     author: hara-shigeyuki
@@ -31,6 +31,13 @@ works:
     date: '2026-08-19'
     code: 142561
     url: /works/142561/
+  - title: Pai☆Panic ~Hasamareta Dekapai~
+    author: inkey
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/143217.jpg
+    rating: 0.0
+    date: '2026-10-02'
+    code: 143217
+    url: /works/143217/
   - title: Another Produce -Kaede Takagaki-
     author: marushin
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/179531.jpg
@@ -52,6 +59,13 @@ works:
     date: '2026-09-06'
     code: 276396
     url: /works/276396/
+  - title: Pai☆Panic ~Hasamareta Dekapai~ 2
+    author: inkey
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/284270.jpg
+    rating: 0.0
+    date: '2026-10-02'
+    code: 284270
+    url: /works/284270/
   - title: Sakura Shunin wa Dekiru Hito
     author: yoshiura-kazuya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/302117.jpg
@@ -59,6 +73,13 @@ works:
     date: '2026-03-09'
     code: 302117
     url: /works/302117/
+  - title: The Girl That Got Stuck in the Wall Ch.11/11
+    author: gaehoju
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/304474.jpg
+    rating: 0.0
+    date: '2026-10-02'
+    code: 304474
+    url: /works/304474/
   - title: Kono Furin wa Otto no Tame "Anata, Yurushite…." To, Netorareru Tsuma | 這場外遇是為了老公「親愛的，原諒我…」這樣說著，為老公戴綠帽的妻子
     author: korosuke
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/328805.jpg

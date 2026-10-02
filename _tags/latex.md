@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "latex"
-work_count: 9
+work_count: 10
 works:
   - title: Datenshi no Yuuwaku -Office Angel Project- 1
     author: hiraoka-ryuichi
@@ -32,6 +32,13 @@ works:
     date: '2026-09-27'
     code: 631572
     url: /works/631572/
+  - title: Stupid women are forced to become breeding slaves
+    author: carpsukidayo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/641858.jpg
+    rating: 0.0
+    date: '2026-10-02'
+    code: 641858
+    url: /works/641858/
   - title: Venom Invasion VII 【Part 1】
     author: blackftos
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/647563.jpg

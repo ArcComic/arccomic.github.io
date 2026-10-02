@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "leash"
-work_count: 15
+work_count: 18
 works:
   - title: Komorebi no Ori
     author: hitoi
@@ -39,6 +39,14 @@ works:
     date: '2026-09-25'
     code: 610915
     url: /works/610915/
+  - title: Josei no Kenri ga Ushinawareta Kuni  - The Country Where Women's Rights have
+      been Lost 2
+    author: mokataki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/614397.jpg
+    rating: 0.0
+    date: '2026-10-02'
+    code: 614397
+    url: /works/614397/
   - title: Sono Bisque Doll wa H o Suru 2
     author: yahiro-pochi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/626430.jpg
@@ -61,6 +69,13 @@ works:
     date: '2026-09-25'
     code: 635879
     url: /works/635879/
+  - title: Stupid women are forced to become breeding slaves
+    author: carpsukidayo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/641858.jpg
+    rating: 0.0
+    date: '2026-10-02'
+    code: 641858
+    url: /works/641858/
   - title: Imouto Haramasenai to Derarenai Shima 2
     author: airandou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/643375.jpg
@@ -99,6 +114,13 @@ works:
     date: '2026-07-05'
     code: 661367
     url: /works/661367/
+  - title: Choukyou Inroku Ni ~Kunoichi Hiiragi no Junan~
+    author: carpsukidayo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/663482.jpg
+    rating: 0.0
+    date: '2026-10-02'
+    code: 663482
+    url: /works/663482/
   - title: Dr. Sae's Sexual Behavior Study
     author: torichamaru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/675652.jpg

@@ -1,8 +1,29 @@
 ---
 layout: tag
 tag_name: "bondage"
-work_count: 84
+work_count: 91
 works:
+  - title: Pai☆Panic ~Hasamareta Dekapai~
+    author: inkey
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/143217.jpg
+    rating: 0.0
+    date: '2026-10-02'
+    code: 143217
+    url: /works/143217/
+  - title: Pai☆Panic ~Hasamareta Dekapai~ 2
+    author: inkey
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/284270.jpg
+    rating: 0.0
+    date: '2026-10-02'
+    code: 284270
+    url: /works/284270/
+  - title: The Girl That Got Stuck in the Wall Ch.11/11
+    author: gaehoju
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/304474.jpg
+    rating: 0.0
+    date: '2026-10-02'
+    code: 304474
+    url: /works/304474/
   - title: CHOCO x LOVE
     author: highlow
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/317673.jpg
@@ -144,6 +165,14 @@ works:
     date: '2026-09-28'
     code: 611988
     url: /works/611988/
+  - title: Josei no Kenri ga Ushinawareta Kuni  - The Country Where Women's Rights have
+      been Lost 2
+    author: mokataki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/614397.jpg
+    rating: 0.0
+    date: '2026-10-02'
+    code: 614397
+    url: /works/614397/
   - title: Eroi Koto Igai de Toki o Tomete wa Dame desu yo 2
     author: ohkura-kazuya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/615835.jpg
@@ -214,6 +243,13 @@ works:
     date: '2026-09-25'
     code: 638696
     url: /works/638696/
+  - title: Stupid women are forced to become breeding slaves
+    author: carpsukidayo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/641858.jpg
+    rating: 0.0
+    date: '2026-10-02'
+    code: 641858
+    url: /works/641858/
   - title: Sawatte Mitai? | Do You Wanna Touch?
     author: rondonko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/644309.jpg
@@ -351,6 +387,13 @@ works:
     date: '2026-07-07'
     code: 662057
     url: /works/662057/
+  - title: Choukyou Inroku Ni ~Kunoichi Hiiragi no Junan~
+    author: carpsukidayo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/663482.jpg
+    rating: 0.0
+    date: '2026-10-02'
+    code: 663482
+    url: /works/663482/
   - title: It was supposed to be a story about two people who loved each other but her
       best friend stole his virginity
     author: meisuke
@@ -615,6 +658,13 @@ works:
     date: '2026-10-01'
     code: 685377
     url: /works/685377/
+  - title: Ichiya no Yume Senya No Maboroshi 1-7
+    author: sanbun-kyoden
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685727.jpg
+    rating: 0.0
+    date: '2026-10-02'
+    code: 685727
+    url: /works/685727/
   - title: Onee-chan no SM Kouza | Onee-chan's S&M Lecture
     author: shinooka-homare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/88750.jpg

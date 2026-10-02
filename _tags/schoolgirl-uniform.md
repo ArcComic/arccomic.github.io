@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "schoolgirl uniform"
-work_count: 313
+work_count: 314
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -1063,6 +1063,13 @@ works:
     date: '2026-09-29'
     code: 641456
     url: /works/641456/
+  - title: Stupid women are forced to become breeding slaves
+    author: carpsukidayo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/641858.jpg
+    rating: 0.0
+    date: '2026-10-02'
+    code: 641858
+    url: /works/641858/
   - title: My Childhood Friend Twins Become Another Man’s Onahole 1-3
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/643193.jpg

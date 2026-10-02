@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "catgirl"
-work_count: 9
+work_count: 10
 works:
   - title: Hitoban Tomete yo, Otaku-kun | Let Me Stay For the Night, Otaku-kun
     author: danimaru
@@ -25,6 +25,13 @@ works:
     date: '2026-07-13'
     code: 648800
     url: /works/648800/
+  - title: Choukyou Inroku Ni ~Kunoichi Hiiragi no Junan~
+    author: carpsukidayo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/663482.jpg
+    rating: 0.0
+    date: '2026-10-02'
+    code: 663482
+    url: /works/663482/
   - title: It was supposed to be a story about two people who loved each other but her
       best friend stole his virginity
     author: meisuke

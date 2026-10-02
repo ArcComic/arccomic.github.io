@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "hairy"
-work_count: 284
+work_count: 286
 works:
   - title: Adoration
     author: kishizuka-kenji
@@ -2088,4 +2088,19 @@ works:
     date: '2026-09-30'
     code: 684921
     url: /works/684921/
+  - title: Ichiya no Yume Senya No Maboroshi 1-7
+    author: sanbun-kyoden
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685727.jpg
+    rating: 0.0
+    date: '2026-10-02'
+    code: 685727
+    url: /works/685727/
+  - title: DeliHeal Yondara Gachi no Kaa-chan ga Kita Hanashi 2 | When I Ordered a Call
+      Girl My Mom Actually Showed Up 2
+    author: tarobaumu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685728.jpg
+    rating: 0.0
+    date: '2026-10-02'
+    code: 685728
+    url: /works/685728/
 ---

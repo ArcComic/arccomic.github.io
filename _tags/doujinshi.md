@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "doujinshi"
-work_count: 1264
+work_count: 1268
 works:
   - title: Birthday
     author: hashiba-yachi
@@ -3252,6 +3252,14 @@ works:
     date: '2026-09-09'
     code: 614204
     url: /works/614204/
+  - title: Josei no Kenri ga Ushinawareta Kuni  - The Country Where Women's Rights have
+      been Lost 2
+    author: mokataki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/614397.jpg
+    rating: 0.0
+    date: '2026-10-02'
+    code: 614397
+    url: /works/614397/
   - title: Namaiki Papa Katsu Shoujo ni Seisai SEX
     author: ichinomiya-yuu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/614675.jpg
@@ -4179,6 +4187,13 @@ works:
     date: '2026-09-29'
     code: 641456
     url: /works/641456/
+  - title: Stupid women are forced to become breeding slaves
+    author: carpsukidayo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/641858.jpg
+    rating: 0.0
+    date: '2026-10-02'
+    code: 641858
+    url: /works/641858/
   - title: Ero Mangaka-san to Henshu-kun
     author: kibi-anmitsu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/641928.jpg
@@ -6283,6 +6298,13 @@ works:
     date: '2026-07-13'
     code: 663389
     url: /works/663389/
+  - title: Choukyou Inroku Ni ~Kunoichi Hiiragi no Junan~
+    author: carpsukidayo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/663482.jpg
+    rating: 0.0
+    date: '2026-10-02'
+    code: 663482
+    url: /works/663482/
   - title: Panpan Travelers Kochi Shuudan Rape Ryokou
     author: raidon
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/663497.jpg
@@ -9354,4 +9376,12 @@ works:
     date: '2026-10-01'
     code: 685377
     url: /works/685377/
+  - title: DeliHeal Yondara Gachi no Kaa-chan ga Kita Hanashi 2 | When I Ordered a Call
+      Girl My Mom Actually Showed Up 2
+    author: tarobaumu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685728.jpg
+    rating: 0.0
+    date: '2026-10-02'
+    code: 685728
+    url: /works/685728/
 ---

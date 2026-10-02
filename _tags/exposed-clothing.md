@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "exposed clothing"
-work_count: 16
+work_count: 17
 works:
   - title: Yofukashi no Tsuma ~Murakami Kozue~ | Late-Night Wife ~Murakami Kozue~
     author: oobayashi-mori
@@ -48,6 +48,13 @@ works:
     date: '2026-09-27'
     code: 631572
     url: /works/631572/
+  - title: Stupid women are forced to become breeding slaves
+    author: carpsukidayo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/641858.jpg
+    rating: 0.0
+    date: '2026-10-02'
+    code: 641858
+    url: /works/641858/
   - title: Oshiego no Gal o Kau
     author: mitsudoue
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651197.jpg

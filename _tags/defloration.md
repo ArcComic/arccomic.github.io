@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "defloration"
-work_count: 214
+work_count: 215
 works:
   - title: Imitation Family + Bigibo Hen
     author: tohzai
@@ -45,6 +45,13 @@ works:
     date: '2026-04-25'
     code: 289094
     url: /works/289094/
+  - title: The Girl That Got Stuck in the Wall Ch.11/11
+    author: gaehoju
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/304474.jpg
+    rating: 0.0
+    date: '2026-10-02'
+    code: 304474
+    url: /works/304474/
   - title: Furuhonya no Onee-san to | With The Lady From The Used Book Shop
     author: nodame
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/306522.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big breasts"
-work_count: 1040
+work_count: 1047
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -31,6 +31,13 @@ works:
     date: '2026-04-27'
     code: 139537
     url: /works/139537/
+  - title: Pai☆Panic ~Hasamareta Dekapai~
+    author: inkey
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/143217.jpg
+    rating: 0.0
+    date: '2026-10-02'
+    code: 143217
+    url: /works/143217/
   - title: Hustle! Danchizuma Ch. 1-18 END
     author: hidemaru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/161690.jpg
@@ -144,6 +151,13 @@ works:
     date: '2026-09-06'
     code: 276396
     url: /works/276396/
+  - title: Pai☆Panic ~Hasamareta Dekapai~ 2
+    author: inkey
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/284270.jpg
+    rating: 0.0
+    date: '2026-10-02'
+    code: 284270
+    url: /works/284270/
   - title: Hikki Mother Fucker
     author: otochichi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/287208.jpg
@@ -187,6 +201,13 @@ works:
     date: '2026-09-29'
     code: 304307
     url: /works/304307/
+  - title: The Girl That Got Stuck in the Wall Ch.11/11
+    author: gaehoju
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/304474.jpg
+    rating: 0.0
+    date: '2026-10-02'
+    code: 304474
+    url: /works/304474/
   - title: Single Mother to Issho ni - Boku no Mamakatsu! 1 | Together with a single
       mother - My sugarmama! 1
     author: azukiko
@@ -3444,6 +3465,13 @@ works:
     date: '2026-09-29'
     code: 641456
     url: /works/641456/
+  - title: Stupid women are forced to become breeding slaves
+    author: carpsukidayo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/641858.jpg
+    rating: 0.0
+    date: '2026-10-02'
+    code: 641858
+    url: /works/641858/
   - title: Ero Mangaka-san to Henshu-kun
     author: kibi-anmitsu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/641928.jpg
@@ -5249,6 +5277,13 @@ works:
     date: '2026-07-13'
     code: 663389
     url: /works/663389/
+  - title: Choukyou Inroku Ni ~Kunoichi Hiiragi no Junan~
+    author: carpsukidayo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/663482.jpg
+    rating: 0.0
+    date: '2026-10-02'
+    code: 663482
+    url: /works/663482/
   - title: Panpan Travelers Kochi Shuudan Rape Ryokou
     author: raidon
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/663497.jpg
@@ -7694,6 +7729,21 @@ works:
     date: '2026-10-01'
     code: 685377
     url: /works/685377/
+  - title: Ichiya no Yume Senya No Maboroshi 1-7
+    author: sanbun-kyoden
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685727.jpg
+    rating: 0.0
+    date: '2026-10-02'
+    code: 685727
+    url: /works/685727/
+  - title: DeliHeal Yondara Gachi no Kaa-chan ga Kita Hanashi 2 | When I Ordered a Call
+      Girl My Mom Actually Showed Up 2
+    author: tarobaumu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685728.jpg
+    rating: 0.0
+    date: '2026-10-02'
+    code: 685728
+    url: /works/685728/
   - title: Hottokenaino
     author: hara-shigeyuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/77864.jpg

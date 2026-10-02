@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "harness"
-work_count: 4
+work_count: 5
 works:
   - title: Boshi Chika Resort | Mother and Son Underground Resort
     author: emori-uki
@@ -10,6 +10,13 @@ works:
     date: '2026-09-24'
     code: 395483
     url: /works/395483/
+  - title: Stupid women are forced to become breeding slaves
+    author: carpsukidayo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/641858.jpg
+    rating: 0.0
+    date: '2026-10-02'
+    code: 641858
+    url: /works/641858/
   - title: Shinyuu Tatakitsubushi Kyousou Shiiku Seikatsu | A Life in Captivity The
       Competition to Break My Best Friend
     author: group

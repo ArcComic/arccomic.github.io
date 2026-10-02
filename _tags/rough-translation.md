@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "rough translation"
-work_count: 619
+work_count: 620
 works:
   - title: Boku no Shiranai Kimi no Kao
     author: utsutsu-minoru
@@ -1256,6 +1256,13 @@ works:
     date: '2026-09-29'
     code: 641456
     url: /works/641456/
+  - title: Stupid women are forced to become breeding slaves
+    author: carpsukidayo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/641858.jpg
+    rating: 0.0
+    date: '2026-10-02'
+    code: 641858
+    url: /works/641858/
   - title: Koitsu majide choro katta 〜 kinjo no shingurumaza-hen 〜
     author: doron
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642018.jpg

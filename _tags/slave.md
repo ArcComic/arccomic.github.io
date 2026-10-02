@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "slave"
-work_count: 13
+work_count: 16
 works:
   - title: Komorebi no Ori
     author: hitoi
@@ -39,6 +39,14 @@ works:
     date: '2026-09-25'
     code: 580081
     url: /works/580081/
+  - title: Josei no Kenri ga Ushinawareta Kuni  - The Country Where Women's Rights have
+      been Lost 2
+    author: mokataki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/614397.jpg
+    rating: 0.0
+    date: '2026-10-02'
+    code: 614397
+    url: /works/614397/
   - title: Ochiba Nikki -Jitaku Choukyou Hen 2- | Fallen Leaves Diary -House Training
       Arc 2-
     author: hitoi
@@ -54,6 +62,13 @@ works:
     date: '2026-08-19'
     code: 638178
     url: /works/638178/
+  - title: Stupid women are forced to become breeding slaves
+    author: carpsukidayo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/641858.jpg
+    rating: 0.0
+    date: '2026-10-02'
+    code: 641858
+    url: /works/641858/
   - title: 'Hanketsu, Hikokunin wa Watashi no Dildo Kei ni Shosuru | Verdict: The defendant
       is sentenced to my dildo punishment.'
     author: chotto-b-sen
@@ -77,6 +92,13 @@ works:
     date: '2026-07-06'
     code: 661586
     url: /works/661586/
+  - title: Choukyou Inroku Ni ~Kunoichi Hiiragi no Junan~
+    author: carpsukidayo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/663482.jpg
+    rating: 0.0
+    date: '2026-10-02'
+    code: 663482
+    url: /works/663482/
   - title: Misao no Keiyaku - CHAPTER 1-12
     author: yamanouchi-yuu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681510.jpg

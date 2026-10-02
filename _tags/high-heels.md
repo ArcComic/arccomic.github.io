@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "high heels"
-work_count: 14
+work_count: 15
 works:
   - title: Shut-less
     author: mr-hokke
@@ -60,6 +60,13 @@ works:
     date: '2026-03-07'
     code: 635174
     url: /works/635174/
+  - title: Stupid women are forced to become breeding slaves
+    author: carpsukidayo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/641858.jpg
+    rating: 0.0
+    date: '2026-10-02'
+    code: 641858
+    url: /works/641858/
   - title: Buck-Chichi! | Gambling! Volume 2
     author: lime
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662877.jpg

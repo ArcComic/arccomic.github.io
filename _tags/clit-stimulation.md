@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "clit stimulation"
-work_count: 31
+work_count: 32
 works:
   - title: Senpai, Sonna no Shiranai desu ~Bansou shite ita Kare no Yubi wa Ima, Watashi
       no Naka o Midashiteru~ | Senpai, I Don't Know About That - His Fingers That Were
@@ -165,6 +165,13 @@ works:
     date: '2026-09-19'
     code: 662706
     url: /works/662706/
+  - title: Choukyou Inroku Ni ~Kunoichi Hiiragi no Junan~
+    author: carpsukidayo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/663482.jpg
+    rating: 0.0
+    date: '2026-10-02'
+    code: 663482
+    url: /works/663482/
   - title: Boku ni Yuuki ga Atta nara | If only I had the courage
     author: kamakiri-akagi-ryouichi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/663672.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole female"
-work_count: 902
+work_count: 905
 works:
   - title: Adoration
     author: kishizuka-kenji
@@ -10,6 +10,13 @@ works:
     date: '2026-05-04'
     code: 112455
     url: /works/112455/
+  - title: Pai☆Panic ~Hasamareta Dekapai~
+    author: inkey
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/143217.jpg
+    rating: 0.0
+    date: '2026-10-02'
+    code: 143217
+    url: /works/143217/
   - title: Love Approach
     author: hanafuda-sakurano
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/158990.jpg
@@ -117,6 +124,13 @@ works:
     date: '2026-09-13'
     code: 278500
     url: /works/278500/
+  - title: Pai☆Panic ~Hasamareta Dekapai~ 2
+    author: inkey
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/284270.jpg
+    rating: 0.0
+    date: '2026-10-02'
+    code: 284270
+    url: /works/284270/
   - title: Hikki Mother Fucker
     author: otochichi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/287208.jpg
@@ -6690,4 +6704,12 @@ works:
     date: '2026-10-01'
     code: 685377
     url: /works/685377/
+  - title: DeliHeal Yondara Gachi no Kaa-chan ga Kita Hanashi 2 | When I Ordered a Call
+      Girl My Mom Actually Showed Up 2
+    author: tarobaumu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685728.jpg
+    rating: 0.0
+    date: '2026-10-02'
+    code: 685728
+    url: /works/685728/
 ---

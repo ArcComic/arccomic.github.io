@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "transformation"
-work_count: 8
+work_count: 9
 works:
   - title: sequence irekaeru futari no karada
     author: iwashita
@@ -52,6 +52,13 @@ works:
     date: '2026-05-03'
     code: 647563
     url: /works/647563/
+  - title: Choukyou Inroku Ni ~Kunoichi Hiiragi no Junan~
+    author: carpsukidayo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/663482.jpg
+    rating: 0.0
+    date: '2026-10-02'
+    code: 663482
+    url: /works/663482/
   - title: The Evil Mask 6
     author: aquotz
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682882.jpg
