@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "fingering"
-work_count: 173
+work_count: 175
 works:
   - title: Watashi-tachi no Seikoui Tokubetsu Jisshuu -Zengi Hen-
     author: guglielmo
@@ -105,6 +105,14 @@ works:
     date: '2026-09-17'
     code: 470682
     url: /works/470682/
+  - title: Shojo Gal, Futanari Ojou-sama no Onaho ni Naru | Virgin Gal who Becomes a
+      Pocket Pussy for a Futanari Young Lady
+    author: ginger-lily
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/472157.jpg
+    rating: 0.0
+    date: '2026-10-02'
+    code: 472157
+    url: /works/472157/
   - title: Nomikai de Doroyoi Shitara Love Hotel de Onaho Yome ni Naru made Chinpo Choukyou
       Saremashita
     author: darabuchi
@@ -375,6 +383,13 @@ works:
     date: '2026-09-06'
     code: 567355
     url: /works/567355/
+  - title: Massage-ten de Futanari Bijo ni Portio Acme Shikomareru Onnanoko
+    author: ginger-lily
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/567532.jpg
+    rating: 0.0
+    date: '2026-10-02'
+    code: 567532
+    url: /works/567532/
   - title: 'LESFES CO Incident: Suspended Account'
     author: remora-works
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/569267.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "english"
-work_count: 1529
+work_count: 1534
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -388,6 +388,13 @@ works:
     date: '2026-09-26'
     code: 312665
     url: /works/312665/
+  - title: Mizugi no Shita no Yuuwaku | Temptation Beneath The Swimsuit
+    author: gustav
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/314536.jpg
+    rating: 0.0
+    date: '2026-10-02'
+    code: 314536
+    url: /works/314536/
   - title: Tsumareta Ikoku no Hana II
     author: darabuchi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/315693.jpg
@@ -1509,6 +1516,14 @@ works:
     date: '2026-04-15'
     code: 471998
     url: /works/471998/
+  - title: Shojo Gal, Futanari Ojou-sama no Onaho ni Naru | Virgin Gal who Becomes a
+      Pocket Pussy for a Futanari Young Lady
+    author: ginger-lily
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/472157.jpg
+    rating: 0.0
+    date: '2026-10-02'
+    code: 472157
+    url: /works/472157/
   - title: Arguing mother-son who became a loving couple
     author: yuriko-club
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/472344.jpg
@@ -1516,6 +1531,13 @@ works:
     date: '2026-04-15'
     code: 472344
     url: /works/472344/
+  - title: Otona no Himegoto
+    author: gustav
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/473512.jpg
+    rating: 0.0
+    date: '2026-10-02'
+    code: 473512
+    url: /works/473512/
   - title: Nomikai de Doroyoi Shitara Love Hotel de Onaho Yome ni Naru made Chinpo Choukyou
       Saremashita
     author: darabuchi
@@ -2702,6 +2724,13 @@ works:
     date: '2026-07-15'
     code: 544477
     url: /works/544477/
+  - title: Seiyoku ni Maketa Natsu Futanari Shoujo to Noukou Nama Sex
+    author: ginger-lily
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/545591.jpg
+    rating: 0.0
+    date: '2026-10-02'
+    code: 545591
+    url: /works/545591/
   - title: Jinsei Hametsu JC ~Watashi no Jinsei, Doushite Kounacchattan daro?~ | Middle
       Schooler's Life Ruined - How Did My Life Turn Out Like This [English] =TB=
     author: circle-hitori
@@ -3056,6 +3085,13 @@ works:
     date: '2026-09-06'
     code: 567355
     url: /works/567355/
+  - title: Massage-ten de Futanari Bijo ni Portio Acme Shikomareru Onnanoko
+    author: ginger-lily
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/567532.jpg
+    rating: 0.0
+    date: '2026-10-02'
+    code: 567532
+    url: /works/567532/
   - title: Kou demo Shinakya Akigumo-san 25-sai ga Teitoku to Hameru Kikai Isshou Konai
       desho | If She Doesn’t Do This, 25-Year-Old Akigumo-san Will Never Get the Chance
       to Fuck the Admiral, Right?

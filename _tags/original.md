@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "original"
-work_count: 1050
+work_count: 1053
 works:
   - title: Natsu dake Koibito - Summer only Lover [English] =Forbidden Fetish + Ser
       Maggot=
@@ -835,6 +835,14 @@ works:
     date: '2026-04-15'
     code: 471998
     url: /works/471998/
+  - title: Shojo Gal, Futanari Ojou-sama no Onaho ni Naru | Virgin Gal who Becomes a
+      Pocket Pussy for a Futanari Young Lady
+    author: ginger-lily
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/472157.jpg
+    rating: 0.0
+    date: '2026-10-02'
+    code: 472157
+    url: /works/472157/
   - title: Arguing mother-son who became a loving couple
     author: yuriko-club
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/472344.jpg
@@ -1645,6 +1653,13 @@ works:
     date: '2026-04-13'
     code: 544993
     url: /works/544993/
+  - title: Seiyoku ni Maketa Natsu Futanari Shoujo to Noukou Nama Sex
+    author: ginger-lily
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/545591.jpg
+    rating: 0.0
+    date: '2026-10-02'
+    code: 545591
+    url: /works/545591/
   - title: Jinsei Hametsu JC ~Watashi no Jinsei, Doushite Kounacchattan daro?~ | Middle
       Schooler's Life Ruined - How Did My Life Turn Out Like This [English] =TB=
     author: circle-hitori
@@ -1950,6 +1965,13 @@ works:
     date: '2026-09-06'
     code: 567355
     url: /works/567355/
+  - title: Massage-ten de Futanari Bijo ni Portio Acme Shikomareru Onnanoko
+    author: ginger-lily
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/567532.jpg
+    rating: 0.0
+    date: '2026-10-02'
+    code: 567532
+    url: /works/567532/
   - title: 'LESFES CO Incident: Suspended Account'
     author: remora-works
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/569267.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big breasts"
-work_count: 1037
+work_count: 1040
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -897,6 +897,14 @@ works:
     date: '2026-04-13'
     code: 471387
     url: /works/471387/
+  - title: Shojo Gal, Futanari Ojou-sama no Onaho ni Naru | Virgin Gal who Becomes a
+      Pocket Pussy for a Futanari Young Lady
+    author: ginger-lily
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/472157.jpg
+    rating: 0.0
+    date: '2026-10-02'
+    code: 472157
+    url: /works/472157/
   - title: Shuumatsu dakara Ippai Ichaicha Shi yo
     author: saemon
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/476145.jpg
@@ -1665,6 +1673,13 @@ works:
     date: '2026-04-13'
     code: 544993
     url: /works/544993/
+  - title: Seiyoku ni Maketa Natsu Futanari Shoujo to Noukou Nama Sex
+    author: ginger-lily
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/545591.jpg
+    rating: 0.0
+    date: '2026-10-02'
+    code: 545591
+    url: /works/545591/
   - title: Soshite Kyou mo Moteasobareru
     author: erun
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/545896.jpg
@@ -1909,6 +1924,13 @@ works:
     date: '2026-09-06'
     code: 567355
     url: /works/567355/
+  - title: Massage-ten de Futanari Bijo ni Portio Acme Shikomareru Onnanoko
+    author: ginger-lily
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/567532.jpg
+    rating: 0.0
+    date: '2026-10-02'
+    code: 567532
+    url: /works/567532/
   - title: NIKKE Icha Love Ero Goudou "NIKKE☆Lover" | NIKKE Lovey-Dovey Ero Compendium
       "NIKKE☆Lover"
     author: kumakiti

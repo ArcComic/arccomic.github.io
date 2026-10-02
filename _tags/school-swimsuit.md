@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "school swimsuit"
-work_count: 7
+work_count: 8
 works:
   - title: Suieibu Shushou no Boyish Osananajimi wa Boku no Chinpo ni Dohamari Chuu
       | My Boyish Longtime Friend Who Is The Swimming Club Captain Is Addicted To My
@@ -12,6 +12,13 @@ works:
     date: '2026-09-18'
     code: 535271
     url: /works/535271/
+  - title: Seiyoku ni Maketa Natsu Futanari Shoujo to Noukou Nama Sex
+    author: ginger-lily
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/545591.jpg
+    rating: 0.0
+    date: '2026-10-02'
+    code: 545591
+    url: /works/545591/
   - title: Netorare jk Osananajimi Suieibu 3
     author: aikawa-tatsuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/563342.jpg

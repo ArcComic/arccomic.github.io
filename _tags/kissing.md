@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "kissing"
-work_count: 343
+work_count: 345
 works:
   - title: FLUFFY LAUGH GIRL
     author: shibasaki-syouzi
@@ -271,6 +271,13 @@ works:
     date: '2026-09-04'
     code: 464782
     url: /works/464782/
+  - title: Otona no Himegoto
+    author: gustav
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/473512.jpg
+    rating: 0.0
+    date: '2026-10-02'
+    code: 473512
+    url: /works/473512/
   - title: Asunama 9
     author: ken-1
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/477784.jpg
@@ -552,6 +559,13 @@ works:
     date: '2026-04-13'
     code: 544993
     url: /works/544993/
+  - title: Seiyoku ni Maketa Natsu Futanari Shoujo to Noukou Nama Sex
+    author: ginger-lily
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/545591.jpg
+    rating: 0.0
+    date: '2026-10-02'
+    code: 545591
+    url: /works/545591/
   - title: Ero Cos OL to Jiraikei Joshi ~Iki Nuresaseru Moto Kare no Amai Koshi Zukai~
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/548852.jpg

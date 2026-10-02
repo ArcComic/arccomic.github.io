@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sleeping"
-work_count: 51
+work_count: 52
 works:
   - title: Netemo Sametemo | Be it Sleeping or Awake
     author: takasugi-kou
@@ -150,6 +150,13 @@ works:
     date: '2026-04-13'
     code: 544993
     url: /works/544993/
+  - title: Seiyoku ni Maketa Natsu Futanari Shoujo to Noukou Nama Sex
+    author: ginger-lily
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/545591.jpg
+    rating: 0.0
+    date: '2026-10-02'
+    code: 545591
+    url: /works/545591/
   - title: '- YOINOAYAMACHI - Part.1'
     author: sashimi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/556895.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "schoolgirl uniform"
-work_count: 311
+work_count: 313
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -286,6 +286,14 @@ works:
     date: '2026-04-15'
     code: 471998
     url: /works/471998/
+  - title: Shojo Gal, Futanari Ojou-sama no Onaho ni Naru | Virgin Gal who Becomes a
+      Pocket Pussy for a Futanari Young Lady
+    author: ginger-lily
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/472157.jpg
+    rating: 0.0
+    date: '2026-10-02'
+    code: 472157
+    url: /works/472157/
   - title: Anoko wa Boku ga Suki ja Nai Boku dake ga Kizuiteta Hazu no Loli Kyonyuu
       Jimikei Bungaku Shoujo | She Doesn't Like Me ~ I thought I was the only one~ Plain
       Busty Bookworm Girl
@@ -493,6 +501,13 @@ works:
     date: '2026-09-28'
     code: 542197
     url: /works/542197/
+  - title: Seiyoku ni Maketa Natsu Futanari Shoujo to Noukou Nama Sex
+    author: ginger-lily
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/545591.jpg
+    rating: 0.0
+    date: '2026-10-02'
+    code: 545591
+    url: /works/545591/
   - title: Jinsei Hametsu JC ~Watashi no Jinsei, Doushite Kounacchattan daro?~ | Middle
       Schooler's Life Ruined - How Did My Life Turn Out Like This [English] =TB=
     author: circle-hitori

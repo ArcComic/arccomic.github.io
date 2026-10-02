@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "kimono"
-work_count: 53
+work_count: 54
 works:
   - title: Hitozuma Hyakka
     author: hase-tsubura
@@ -54,6 +54,13 @@ works:
     date: '2026-04-19'
     code: 446716
     url: /works/446716/
+  - title: Otona no Himegoto
+    author: gustav
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/473512.jpg
+    rating: 0.0
+    date: '2026-10-02'
+    code: 473512
+    url: /works/473512/
   - title: Tomodachi no Mama ga Boku no Dekachin de Ikimakutta Oshougatsu Otoshidama
       Soushuuhen
     author: rk-2

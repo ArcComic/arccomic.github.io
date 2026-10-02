@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "mind break"
-work_count: 57
+work_count: 58
 works:
   - title: Birthday
     author: hashiba-yachi
@@ -52,6 +52,14 @@ works:
     date: '2026-09-09'
     code: 461537
     url: /works/461537/
+  - title: Shojo Gal, Futanari Ojou-sama no Onaho ni Naru | Virgin Gal who Becomes a
+      Pocket Pussy for a Futanari Young Lady
+    author: ginger-lily
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/472157.jpg
+    rating: 0.0
+    date: '2026-10-02'
+    code: 472157
+    url: /works/472157/
   - title: Nomikai de Doroyoi Shitara Love Hotel de Onaho Yome ni Naru made Chinpo Choukyou
       Saremashita
     author: darabuchi

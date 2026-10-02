@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sex toys"
-work_count: 113
+work_count: 114
 works:
   - title: Ayami Hypno
     author: yasuhiro
@@ -173,6 +173,13 @@ works:
     date: '2026-04-25'
     code: 562615
     url: /works/562615/
+  - title: Massage-ten de Futanari Bijo ni Portio Acme Shikomareru Onnanoko
+    author: ginger-lily
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/567532.jpg
+    rating: 0.0
+    date: '2026-10-02'
+    code: 567532
+    url: /works/567532/
   - title: Moteki na Oku-sama
     author: hara-shigeyuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/569195.jpg

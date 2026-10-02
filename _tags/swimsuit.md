@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "swimsuit"
-work_count: 72
+work_count: 73
 works:
   - title: Kizashi
     author: yoshiura-kazuya
@@ -24,6 +24,13 @@ works:
     date: '2026-09-22'
     code: 307241
     url: /works/307241/
+  - title: Mizugi no Shita no Yuuwaku | Temptation Beneath The Swimsuit
+    author: gustav
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/314536.jpg
+    rating: 0.0
+    date: '2026-10-02'
+    code: 314536
+    url: /works/314536/
   - title: CHOCO x LOVE
     author: highlow
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/317673.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "hidden sex"
-work_count: 84
+work_count: 85
 works:
   - title: Tsutomesaki no Musume-san o Oishiku Itadaku Hon Minshuku Hen
     author: aya
@@ -202,6 +202,13 @@ works:
     date: '2026-08-29'
     code: 544324
     url: /works/544324/
+  - title: Seiyoku ni Maketa Natsu Futanari Shoujo to Noukou Nama Sex
+    author: ginger-lily
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/545591.jpg
+    rating: 0.0
+    date: '2026-10-02'
+    code: 545591
+    url: /works/545591/
   - title: Soshite Kyou mo Moteasobareru
     author: erun
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/545896.jpg

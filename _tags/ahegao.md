@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "ahegao"
-work_count: 299
+work_count: 302
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -229,6 +229,14 @@ works:
     date: '2026-04-13'
     code: 471387
     url: /works/471387/
+  - title: Shojo Gal, Futanari Ojou-sama no Onaho ni Naru | Virgin Gal who Becomes a
+      Pocket Pussy for a Futanari Young Lady
+    author: ginger-lily
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/472157.jpg
+    rating: 0.0
+    date: '2026-10-02'
+    code: 472157
+    url: /works/472157/
   - title: Nomikai de Doroyoi Shitara Love Hotel de Onaho Yome ni Naru made Chinpo Choukyou
       Saremashita
     author: darabuchi
@@ -440,6 +448,13 @@ works:
     date: '2026-04-12'
     code: 544368
     url: /works/544368/
+  - title: Seiyoku ni Maketa Natsu Futanari Shoujo to Noukou Nama Sex
+    author: ginger-lily
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/545591.jpg
+    rating: 0.0
+    date: '2026-10-02'
+    code: 545591
+    url: /works/545591/
   - title: Wagaya no Housemaid Bridget Sei no Gohoushi ~Danro Souji kara Kozukuri made~
       /  My Housemaid Bridget's Sexual Service ~ Everything From Fireplace Cleaning,
       To Babymaking
@@ -494,6 +509,13 @@ works:
     date: '2026-04-25'
     code: 562615
     url: /works/562615/
+  - title: Massage-ten de Futanari Bijo ni Portio Acme Shikomareru Onnanoko
+    author: ginger-lily
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/567532.jpg
+    rating: 0.0
+    date: '2026-10-02'
+    code: 567532
+    url: /works/567532/
   - title: Namaiki JK ga Wakaraserareru Hon | Putting a Cheeky Gyaru in Her Place
     author: onkyu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/574409.jpg

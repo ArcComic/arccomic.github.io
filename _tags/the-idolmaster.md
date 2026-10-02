@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "the idolmaster"
-work_count: 24
+work_count: 26
 works:
   - title: Another Produce -Kaede Takagaki-
     author: marushin
@@ -10,6 +10,13 @@ works:
     date: '2026-02-26'
     code: 179531
     url: /works/179531/
+  - title: Mizugi no Shita no Yuuwaku | Temptation Beneath The Swimsuit
+    author: gustav
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/314536.jpg
+    rating: 0.0
+    date: '2026-10-02'
+    code: 314536
+    url: /works/314536/
   - title: FANTASY DIARY
     author: yd
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/386119.jpg
@@ -17,6 +24,13 @@ works:
     date: '2026-09-22'
     code: 386119
     url: /works/386119/
+  - title: Otona no Himegoto
+    author: gustav
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/473512.jpg
+    rating: 0.0
+    date: '2026-10-02'
+    code: 473512
+    url: /works/473512/
   - title: Nagoriyuki | Fleeting Snow
     author: yd
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/599778.jpg

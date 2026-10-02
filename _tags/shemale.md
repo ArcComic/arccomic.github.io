@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "shemale"
-work_count: 8
+work_count: 9
 works:
   - title: Pirin The Prostitute
     author: arukaniko
@@ -17,6 +17,13 @@ works:
     date: '2026-05-03'
     code: 524761
     url: /works/524761/
+  - title: Massage-ten de Futanari Bijo ni Portio Acme Shikomareru Onnanoko
+    author: ginger-lily
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/567532.jpg
+    rating: 0.0
+    date: '2026-10-02'
+    code: 567532
+    url: /works/567532/
   - title: My GF (ghost friend) caught me jerking off and now she's bouncing on it CRAZY
       STYLE
     author: ricegnat

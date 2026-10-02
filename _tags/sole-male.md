@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole male"
-work_count: 840
+work_count: 842
 works:
   - title: Adoration
     author: kishizuka-kenji
@@ -218,6 +218,13 @@ works:
     date: '2026-09-26'
     code: 312665
     url: /works/312665/
+  - title: Mizugi no Shita no Yuuwaku | Temptation Beneath The Swimsuit
+    author: gustav
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/314536.jpg
+    rating: 0.0
+    date: '2026-10-02'
+    code: 314536
+    url: /works/314536/
   - title: Hajimete Kanojo Ga Dekita No Ni
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/316579.jpg
@@ -929,6 +936,13 @@ works:
     date: '2026-04-15'
     code: 472344
     url: /works/472344/
+  - title: Otona no Himegoto
+    author: gustav
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/473512.jpg
+    rating: 0.0
+    date: '2026-10-02'
+    code: 473512
+    url: /works/473512/
   - title: Nomikai de Doroyoi Shitara Love Hotel de Onaho Yome ni Naru made Chinpo Choukyou
       Saremashita
     author: darabuchi

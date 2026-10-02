@@ -1,8 +1,20 @@
 ---
 layout: artist
 artist_name: "gustav"
-work_count: 4
+work_count: 6
 works:
+  - title: Mizugi no Shita no Yuuwaku | Temptation Beneath The Swimsuit
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/314536.jpg
+    rating: 0.0
+    date: '2026-10-02'
+    code: 314536
+    url: /works/314536/
+  - title: Otona no Himegoto
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/473512.jpg
+    rating: 0.0
+    date: '2026-10-02'
+    code: 473512
+    url: /works/473512/
   - title: First Time Together
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/556427.jpg
     rating: 0.0

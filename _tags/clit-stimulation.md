@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "clit stimulation"
-work_count: 29
+work_count: 31
 works:
   - title: Senpai, Sonna no Shiranai desu ~Bansou shite ita Kare no Yubi wa Ima, Watashi
       no Naka o Midashiteru~ | Senpai, I Don't Know About That - His Fingers That Were
@@ -39,6 +39,13 @@ works:
     date: '2026-08-29'
     code: 534388
     url: /works/534388/
+  - title: Seiyoku ni Maketa Natsu Futanari Shoujo to Noukou Nama Sex
+    author: ginger-lily
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/545591.jpg
+    rating: 0.0
+    date: '2026-10-02'
+    code: 545591
+    url: /works/545591/
   - title: Ero Cos OL to Jiraikei Joshi ~Iki Nuresaseru Moto Kare no Amai Koshi Zukai~
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/548852.jpg
@@ -46,6 +53,13 @@ works:
     date: '2026-04-23'
     code: 548852
     url: /works/548852/
+  - title: Massage-ten de Futanari Bijo ni Portio Acme Shikomareru Onnanoko
+    author: ginger-lily
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/567532.jpg
+    rating: 0.0
+    date: '2026-10-02'
+    code: 567532
+    url: /works/567532/
   - title: '"1 Funkan Dake Rete mo īyo … " Shea Hausu no Himitsu Rūru | The Share House''s
       Secret Rule Vol. 1-3'
     author: ouma

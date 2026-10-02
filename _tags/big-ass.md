@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big ass"
-work_count: 221
+work_count: 222
 works:
   - title: My Care Lady Ch. 1
     author: sugi-g
@@ -285,6 +285,13 @@ works:
     date: '2026-04-13'
     code: 544993
     url: /works/544993/
+  - title: Seiyoku ni Maketa Natsu Futanari Shoujo to Noukou Nama Sex
+    author: ginger-lily
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/545591.jpg
+    rating: 0.0
+    date: '2026-10-02'
+    code: 545591
+    url: /works/545591/
   - title: Gokinjo Trouble ni wa Gochuui o | Watch Out For Trouble in Your Neighborhood
     author: hotate-chan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/553426.jpg

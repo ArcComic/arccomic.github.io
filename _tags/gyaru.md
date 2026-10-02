@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "gyaru"
-work_count: 113
+work_count: 114
 works:
   - title: GalPa!
     author: sakagami-umi
@@ -91,6 +91,14 @@ works:
     date: '2026-04-27'
     code: 452482
     url: /works/452482/
+  - title: Shojo Gal, Futanari Ojou-sama no Onaho ni Naru | Virgin Gal who Becomes a
+      Pocket Pussy for a Futanari Young Lady
+    author: ginger-lily
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/472157.jpg
+    rating: 0.0
+    date: '2026-10-02'
+    code: 472157
+    url: /works/472157/
   - title: 'Sono Koi wa Color Code #F88CB0 | That Love is Color Code #F88CB0'
     author: chiba-toshirou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/481441.jpg

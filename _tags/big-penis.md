@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big penis"
-work_count: 211
+work_count: 214
 works:
   - title: Tsuma no Imouto no Danna ga Ie ni Kiteiruyoudesu | My Sister-In-Law's Husband
       is Over
@@ -138,6 +138,14 @@ works:
     date: '2026-04-15'
     code: 471998
     url: /works/471998/
+  - title: Shojo Gal, Futanari Ojou-sama no Onaho ni Naru | Virgin Gal who Becomes a
+      Pocket Pussy for a Futanari Young Lady
+    author: ginger-lily
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/472157.jpg
+    rating: 0.0
+    date: '2026-10-02'
+    code: 472157
+    url: /works/472157/
   - title: Seiso na Imouto no Tomodachi wa Mesugaki deshita | My Pure and Innocent Little
       Sister Became Friends With a Mesugaki
     author: kagono-tori
@@ -273,6 +281,13 @@ works:
     date: '2026-05-05'
     code: 543358
     url: /works/543358/
+  - title: Seiyoku ni Maketa Natsu Futanari Shoujo to Noukou Nama Sex
+    author: ginger-lily
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/545591.jpg
+    rating: 0.0
+    date: '2026-10-02'
+    code: 545591
+    url: /works/545591/
   - title: Wagaya no Housemaid Bridget Sei no Gohoushi ~Danro Souji kara Kozukuri made~
       /  My Housemaid Bridget's Sexual Service ~ Everything From Fireplace Cleaning,
       To Babymaking
@@ -356,6 +371,13 @@ works:
     date: '2026-08-25'
     code: 563890
     url: /works/563890/
+  - title: Massage-ten de Futanari Bijo ni Portio Acme Shikomareru Onnanoko
+    author: ginger-lily
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/567532.jpg
+    rating: 0.0
+    date: '2026-10-02'
+    code: 567532
+    url: /works/567532/
   - title: Hitozuma Netorare Sugano Hinako Hen
     author: nerumesian
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/570215.jpg

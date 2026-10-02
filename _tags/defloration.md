@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "defloration"
-work_count: 212
+work_count: 214
 works:
   - title: Imitation Family + Bigibo Hen
     author: tohzai
@@ -309,6 +309,14 @@ works:
     date: '2026-04-27'
     code: 452482
     url: /works/452482/
+  - title: Shojo Gal, Futanari Ojou-sama no Onaho ni Naru | Virgin Gal who Becomes a
+      Pocket Pussy for a Futanari Young Lady
+    author: ginger-lily
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/472157.jpg
+    rating: 0.0
+    date: '2026-10-02'
+    code: 472157
+    url: /works/472157/
   - title: Minpaku ~Ojou-sama-tachi wa Minpaku Keieisha no Wana ni Ochiru~
     author: kinugasa-yuuichi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/478446.jpg
@@ -466,6 +474,13 @@ works:
     date: '2026-04-17'
     code: 566835
     url: /works/566835/
+  - title: Massage-ten de Futanari Bijo ni Portio Acme Shikomareru Onnanoko
+    author: ginger-lily
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/567532.jpg
+    rating: 0.0
+    date: '2026-10-02'
+    code: 567532
+    url: /works/567532/
   - title: Re. Bishoujo Seitokaichou o Seibyou Mochi no Owakon Onna ni Otosu Hanashi
     author: kyouan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/576288.jpg
