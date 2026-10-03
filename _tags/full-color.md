@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "full color"
-work_count: 239
+work_count: 242
 works:
   - title: Pai☆Panic ~Hasamareta Dekapai~
     author: inkey
@@ -95,6 +95,14 @@ works:
     date: '2026-09-29'
     code: 383623
     url: /works/383623/
+  - title: Bike Delivery Girl, Cumming To Your Door! | Jitensha Haitatsuin (※Rotor Souchakuchuu),
+      Gaman Dekizu soto de Icchaimashita...
+    author: aono-akira
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/385266.jpg
+    rating: 0.0
+    date: '2026-10-03'
+    code: 385266
+    url: /works/385266/
   - title: FANTASY DIARY
     author: yd
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/386119.jpg
@@ -412,6 +420,15 @@ works:
     date: '2026-04-23'
     code: 509071
     url: /works/509071/
+  - title: Itte mo Owaranai Shain Ryokou "Watashi / Osananajimi ni Sounyuu re Rare Chatteru...!"
+      1-3 | Company Outing That Never Ends Even if I Cum - “I’m Fucked by My Childhood
+      Friend…!” 1-3
+    author: aono-akira
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/509578.jpg
+    rating: 0.0
+    date: '2026-10-03'
+    code: 509578
+    url: /works/509578/
   - title: Netori Ai SEX - Chara Otoko no Hentai Massage Osananajimi no Nettori Aibu
       1 | N.T.R. Sex Wars - Playboy's Depraved Massage VS. Childhood Friend's Sensual
       Touch 1
@@ -1749,4 +1766,11 @@ works:
     date: '2026-10-02'
     code: 685683
     url: /works/685683/
+  - title: Paizuri Iin no Katsudou Kiroku
+    author: shake-chazuke
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685770.jpg
+    rating: 0.0
+    date: '2026-10-03'
+    code: 685770
+    url: /works/685770/
 ---

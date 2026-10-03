@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "josei"
-work_count: 20
+work_count: 21
 works:
   - title: '[Sakuru Haruni Inazuma (Harumi Niina) Chuuken Bodyguard ga Nisemono Reijou
       no Uso to Shintai wo Abaku made. | Until the Obedient Bodyguard Exposes the Body
@@ -98,6 +98,13 @@ works:
     date: '2026-09-29'
     code: 636751
     url: /works/636751/
+  - title: Sweetly Obsessive Guy wants to XXX with Moeko
+    author: the-waidan
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/637829.jpg
+    rating: 0.0
+    date: '2026-10-03'
+    code: 637829
+    url: /works/637829/
   - title: Because Ura Wants To Be More Than "Just An Acquaintance"
     author: the-waidan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642793.jpg

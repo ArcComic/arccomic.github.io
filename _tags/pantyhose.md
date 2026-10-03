@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "pantyhose"
-work_count: 63
+work_count: 65
 works:
   - title: Life with Married Women Just Like a Manga 2 - Ch. 1-5
     author: hidemaru
@@ -443,6 +443,20 @@ works:
     date: '2026-09-27'
     code: 684183
     url: /works/684183/
+  - title: Seishori ka no Kawakami-san | Pussy Lady, Ms. Kawakami
+    author: carpsukidayo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685702.jpg
+    rating: 5.0
+    date: '2026-10-03'
+    code: 685702
+    url: /works/685702/
+  - title: Poison Assort
+    author: kerenme
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685785.jpg
+    rating: 0.0
+    date: '2026-10-03'
+    code: 685785
+    url: /works/685785/
   - title: Hottokenaino
     author: hara-shigeyuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/77864.jpg

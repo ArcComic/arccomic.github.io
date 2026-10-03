@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "drunk"
-work_count: 49
+work_count: 50
 works:
   - title: Birthday
     author: hashiba-yachi
@@ -234,6 +234,13 @@ works:
     date: '2026-03-04'
     code: 634383
     url: /works/634383/
+  - title: Sweetly Obsessive Guy wants to XXX with Moeko
+    author: the-waidan
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/637829.jpg
+    rating: 0.0
+    date: '2026-10-03'
+    code: 637829
+    url: /works/637829/
   - title: LOOK LIKE
     author: terasu-mc
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/641295.jpg

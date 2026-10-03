@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "manga"
-work_count: 363
+work_count: 368
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -405,6 +405,14 @@ works:
     date: '2026-09-18'
     code: 384255
     url: /works/384255/
+  - title: Bike Delivery Girl, Cumming To Your Door! | Jitensha Haitatsuin (※Rotor Souchakuchuu),
+      Gaman Dekizu soto de Icchaimashita...
+    author: aono-akira
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/385266.jpg
+    rating: 0.0
+    date: '2026-10-03'
+    code: 385266
+    url: /works/385266/
   - title: Harinezumi no Dilemma ① | A Hedgehog's Dilemma, Part 1
     author: maeda-momo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/388627.jpg
@@ -743,6 +751,24 @@ works:
     date: '2026-04-23'
     code: 509071
     url: /works/509071/
+  - title: Itte mo Owaranai Shain Ryokou "Watashi / Osananajimi ni Sounyuu re Rare Chatteru...!"
+      1-3 | Company Outing That Never Ends Even if I Cum - “I’m Fucked by My Childhood
+      Friend…!” 1-3
+    author: aono-akira
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/509578.jpg
+    rating: 0.0
+    date: '2026-10-03'
+    code: 509578
+    url: /works/509578/
+  - title: Denwa chū , Ushiro kara XL no Furin Pisuton 〜 Majimena Hitozuma no Inran
+      SEX 1-3 | Fucked with a Giant Dick from Behind while on the Phone - A Serious
+      Wife’s Filthy SEX 1-3
+    author: icelatte
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/509583.jpg
+    rating: 0.0
+    date: '2026-10-03'
+    code: 509583
+    url: /works/509583/
   - title: Netori Ai SEX - Chara Otoko no Hentai Massage Osananajimi no Nettori Aibu
       1 | N.T.R. Sex Wars - Playboy's Depraved Massage VS. Childhood Friend's Sensual
       Touch 1
@@ -2570,6 +2596,13 @@ works:
     date: '2026-10-01'
     code: 685360
     url: /works/685360/
+  - title: Seishori ka no Kawakami-san | Pussy Lady, Ms. Kawakami
+    author: carpsukidayo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685702.jpg
+    rating: 5.0
+    date: '2026-10-03'
+    code: 685702
+    url: /works/685702/
   - title: Ichiya no Yume Senya No Maboroshi 1-7
     author: sanbun-kyoden
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685727.jpg
@@ -2577,6 +2610,13 @@ works:
     date: '2026-10-02'
     code: 685727
     url: /works/685727/
+  - title: Poison Assort
+    author: kerenme
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685785.jpg
+    rating: 0.0
+    date: '2026-10-03'
+    code: 685785
+    url: /works/685785/
   - title: Hottokenaino
     author: hara-shigeyuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/77864.jpg

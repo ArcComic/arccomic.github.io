@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "muscle"
-work_count: 113
+work_count: 116
 works:
   - title: Kousa suru Osu to Mesu | Male and Female Crossing
     author: ootsuka-kotora
@@ -120,6 +120,15 @@ works:
     date: '2026-05-01'
     code: 508534
     url: /works/508534/
+  - title: Itte mo Owaranai Shain Ryokou "Watashi / Osananajimi ni Sounyuu re Rare Chatteru...!"
+      1-3 | Company Outing That Never Ends Even if I Cum - “I’m Fucked by My Childhood
+      Friend…!” 1-3
+    author: aono-akira
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/509578.jpg
+    rating: 0.0
+    date: '2026-10-03'
+    code: 509578
+    url: /works/509578/
   - title: Watashi, Gitei no Are de… Kanji teru!~ Aniki yori Dekakute Iidaro 1-3 | I'm
       Feeling... My Brother-in-Law's Cock! 〜I'm Bigger Than My Brother's, Aren't I?
       ch.1-3
@@ -388,6 +397,13 @@ works:
     date: '2026-09-29'
     code: 636751
     url: /works/636751/
+  - title: Sweetly Obsessive Guy wants to XXX with Moeko
+    author: the-waidan
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/637829.jpg
+    rating: 0.0
+    date: '2026-10-03'
+    code: 637829
+    url: /works/637829/
   - title: Breeding Mother 1-4
     author: saimon-k
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638218.jpg
@@ -853,4 +869,11 @@ works:
     date: '2026-10-02'
     code: 685727
     url: /works/685727/
+  - title: Poison Assort
+    author: kerenme
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685785.jpg
+    rating: 0.0
+    date: '2026-10-03'
+    code: 685785
+    url: /works/685785/
 ---

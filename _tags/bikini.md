@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bikini"
-work_count: 76
+work_count: 77
 works:
   - title: Kizashi
     author: yoshiura-kazuya
@@ -584,4 +584,11 @@ works:
     date: '2026-09-25'
     code: 683992
     url: /works/683992/
+  - title: Paizuri Iin no Katsudou Kiroku
+    author: shake-chazuke
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685770.jpg
+    rating: 0.0
+    date: '2026-10-03'
+    code: 685770
+    url: /works/685770/
 ---

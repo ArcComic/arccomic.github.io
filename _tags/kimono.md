@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "kimono"
-work_count: 54
+work_count: 55
 works:
   - title: Hitozuma Hyakka
     author: hase-tsubura
@@ -91,6 +91,15 @@ works:
     date: '2026-03-04'
     code: 508649
     url: /works/508649/
+  - title: Itte mo Owaranai Shain Ryokou "Watashi / Osananajimi ni Sounyuu re Rare Chatteru...!"
+      1-3 | Company Outing That Never Ends Even if I Cum - “I’m Fucked by My Childhood
+      Friend…!” 1-3
+    author: aono-akira
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/509578.jpg
+    rating: 0.0
+    date: '2026-10-03'
+    code: 509578
+    url: /works/509578/
   - title: Koibito no Furi Shite Tara, Iki Goe ga…. Yukata Sugata no Kyonyuu Oneesan
       ni, Tamarazu Sounyuu 1 I Can’t Stop Myself From Penetrating My Big Boobed Older
       Female Cousin 1

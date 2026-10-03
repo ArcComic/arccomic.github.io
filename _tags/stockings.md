@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "stockings"
-work_count: 216
+work_count: 219
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -1571,6 +1571,13 @@ works:
     date: '2026-10-02'
     code: 685678
     url: /works/685678/
+  - title: Seishori ka no Kawakami-san | Pussy Lady, Ms. Kawakami
+    author: carpsukidayo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685702.jpg
+    rating: 5.0
+    date: '2026-10-03'
+    code: 685702
+    url: /works/685702/
   - title: Ichiya no Yume Senya No Maboroshi 1-7
     author: sanbun-kyoden
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685727.jpg
@@ -1587,6 +1594,21 @@ works:
     date: '2026-10-02'
     code: 685733
     url: /works/685733/
+  - title: Poison Assort
+    author: kerenme
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685785.jpg
+    rating: 0.0
+    date: '2026-10-03'
+    code: 685785
+    url: /works/685785/
+  - title: Jichikai no Hitozuma wa Totemo Ecchi Deshita. 5 Nakahara Keiko no hurin nakada
+      si sex hen
+    author: tsusauto
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685828.jpg
+    rating: 0.0
+    date: '2026-10-03'
+    code: 685828
+    url: /works/685828/
   - title: Jokyoushi - Hot For Teachers | Female Teachers
     author: drill-murata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/81375.jpg

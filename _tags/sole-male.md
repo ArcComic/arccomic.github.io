@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole male"
-work_count: 847
+work_count: 851
 works:
   - title: Adoration
     author: kishizuka-kenji
@@ -1217,6 +1217,15 @@ works:
     date: '2026-04-23'
     code: 509071
     url: /works/509071/
+  - title: Denwa chū , Ushiro kara XL no Furin Pisuton 〜 Majimena Hitozuma no Inran
+      SEX 1-3 | Fucked with a Giant Dick from Behind while on the Phone - A Serious
+      Wife’s Filthy SEX 1-3
+    author: icelatte
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/509583.jpg
+    rating: 0.0
+    date: '2026-10-03'
+    code: 509583
+    url: /works/509583/
   - title: Hitozuma Volley-bu no Asedaku SEX ~Shower Abinagara Micchaku Shichau? 1-2
       | Married Women's Volleyball Club Sweaty Sex - We're Being Glued Together While
       Taking A Shower? 1-2
@@ -2912,6 +2921,13 @@ works:
     date: '2026-09-09'
     code: 637655
     url: /works/637655/
+  - title: Sweetly Obsessive Guy wants to XXX with Moeko
+    author: the-waidan
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/637829.jpg
+    rating: 0.0
+    date: '2026-10-03'
+    code: 637829
+    url: /works/637829/
   - title: My gentle and kind friend's mom was a slut who devoured young boys' cocks.
     author: dekamatsu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/637847.jpg
@@ -6270,6 +6286,13 @@ works:
     date: '2026-10-01'
     code: 685360
     url: /works/685360/
+  - title: Musashi Love
+    author: negitoroko
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685563.jpg
+    rating: 0.0
+    date: '2026-10-03'
+    code: 685563
+    url: /works/685563/
   - title: Papa no Shinshitsu wa Musume Tomodachi no Tamariba 5 -Ninshin Houkoku Hen-
     author: richard-bahman
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685678.jpg
@@ -6294,4 +6317,11 @@ works:
     date: '2026-10-02'
     code: 685733
     url: /works/685733/
+  - title: Holy Bitch 1
+    author: testame
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685809.jpg
+    rating: 0.0
+    date: '2026-10-03'
+    code: 685809
+    url: /works/685809/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "piercing"
-work_count: 42
+work_count: 44
 works:
   - title: Makai Kishi Ingrid ni Nakadashi Dekiru Soapland | A Soapland Where You Can
       Creampie Dark Knight Ingrid
@@ -312,4 +312,18 @@ works:
     date: '2026-09-25'
     code: 683725
     url: /works/683725/
+  - title: Ratatatat74 09/26 post 5$+
+    author: ratatatat74-mr-skull
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685546.jpg
+    rating: 0.0
+    date: '2026-10-03'
+    code: 685546
+    url: /works/685546/
+  - title: Poison Assort
+    author: kerenme
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685785.jpg
+    rating: 0.0
+    date: '2026-10-03'
+    code: 685785
+    url: /works/685785/
 ---

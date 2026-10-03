@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "harness"
-work_count: 5
+work_count: 6
 works:
   - title: Boshi Chika Resort | Mother and Son Underground Resort
     author: emori-uki
@@ -39,4 +39,11 @@ works:
     date: '2026-08-23'
     code: 674960
     url: /works/674960/
+  - title: Seishori ka no Kawakami-san | Pussy Lady, Ms. Kawakami
+    author: carpsukidayo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685702.jpg
+    rating: 5.0
+    date: '2026-10-03'
+    code: 685702
+    url: /works/685702/
 ---

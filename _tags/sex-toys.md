@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sex toys"
-work_count: 118
+work_count: 119
 works:
   - title: Ayami Hypno
     author: yasuhiro
@@ -868,6 +868,13 @@ works:
     date: '2026-10-01'
     code: 685339
     url: /works/685339/
+  - title: Seishori ka no Kawakami-san | Pussy Lady, Ms. Kawakami
+    author: carpsukidayo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685702.jpg
+    rating: 5.0
+    date: '2026-10-03'
+    code: 685702
+    url: /works/685702/
   - title: Ichiya no Yume Senya No Maboroshi 1-7
     author: sanbun-kyoden
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685727.jpg

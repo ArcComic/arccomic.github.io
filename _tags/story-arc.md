@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "story arc"
-work_count: 198
+work_count: 202
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -109,6 +109,14 @@ works:
     date: '2026-09-30'
     code: 367709
     url: /works/367709/
+  - title: Bike Delivery Girl, Cumming To Your Door! | Jitensha Haitatsuin (※Rotor Souchakuchuu),
+      Gaman Dekizu soto de Icchaimashita...
+    author: aono-akira
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/385266.jpg
+    rating: 0.0
+    date: '2026-10-03'
+    code: 385266
+    url: /works/385266/
   - title: Yurikago
     author: neko-samurai
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/398305.jpg
@@ -309,6 +317,24 @@ works:
     date: '2026-04-23'
     code: 509049
     url: /works/509049/
+  - title: Itte mo Owaranai Shain Ryokou "Watashi / Osananajimi ni Sounyuu re Rare Chatteru...!"
+      1-3 | Company Outing That Never Ends Even if I Cum - “I’m Fucked by My Childhood
+      Friend…!” 1-3
+    author: aono-akira
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/509578.jpg
+    rating: 0.0
+    date: '2026-10-03'
+    code: 509578
+    url: /works/509578/
+  - title: Denwa chū , Ushiro kara XL no Furin Pisuton 〜 Majimena Hitozuma no Inran
+      SEX 1-3 | Fucked with a Giant Dick from Behind while on the Phone - A Serious
+      Wife’s Filthy SEX 1-3
+    author: icelatte
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/509583.jpg
+    rating: 0.0
+    date: '2026-10-03'
+    code: 509583
+    url: /works/509583/
   - title: Watashi, Gitei no Are de… Kanji teru!~ Aniki yori Dekakute Iidaro 1-3 | I'm
       Feeling... My Brother-in-Law's Cock! 〜I'm Bigger Than My Brother's, Aren't I?
       ch.1-3
@@ -710,6 +736,13 @@ works:
     date: '2026-09-09'
     code: 637655
     url: /works/637655/
+  - title: Sweetly Obsessive Guy wants to XXX with Moeko
+    author: the-waidan
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/637829.jpg
+    rating: 0.0
+    date: '2026-10-03'
+    code: 637829
+    url: /works/637829/
   - title: Atarimae Sex ~Ane to Otouto no Nichijou~ | Natural Sex ~The Daily Life of
       an Older Sister and Younger Brother~
     author: mochichimaru

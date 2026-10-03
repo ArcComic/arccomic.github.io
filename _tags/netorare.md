@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "netorare"
-work_count: 419
+work_count: 422
 works:
   - title: Kousa suru Osu to Mesu | Male and Female Crossing
     author: ootsuka-kotora
@@ -3070,6 +3070,13 @@ works:
     date: '2026-10-01'
     code: 685377
     url: /works/685377/
+  - title: Ratatatat74 09/26 post 5$+
+    author: ratatatat74-mr-skull
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685546.jpg
+    rating: 0.0
+    date: '2026-10-03'
+    code: 685546
+    url: /works/685546/
   - title: Kanojo wa mada 18cm Ijou o Shiranai. | She has never experienced anything
       close to 18 cm.
     author: nyaa-no-esa
@@ -3093,6 +3100,21 @@ works:
     date: '2026-10-02'
     code: 685728
     url: /works/685728/
+  - title: Poison Assort
+    author: kerenme
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685785.jpg
+    rating: 0.0
+    date: '2026-10-03'
+    code: 685785
+    url: /works/685785/
+  - title: Jichikai no Hitozuma wa Totemo Ecchi Deshita. 5 Nakahara Keiko no hurin nakada
+      si sex hen
+    author: tsusauto
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685828.jpg
+    rating: 0.0
+    date: '2026-10-03'
+    code: 685828
+    url: /works/685828/
   - title: Inin Keiyaku | Lewd Pregnancy Contract
     author: yoshiura-kazuya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/83595.jpg

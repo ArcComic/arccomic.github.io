@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "cheating"
-work_count: 342
+work_count: 346
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -620,6 +620,15 @@ works:
     date: '2026-08-18'
     code: 508818
     url: /works/508818/
+  - title: Denwa chū , Ushiro kara XL no Furin Pisuton 〜 Majimena Hitozuma no Inran
+      SEX 1-3 | Fucked with a Giant Dick from Behind while on the Phone - A Serious
+      Wife’s Filthy SEX 1-3
+    author: icelatte
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/509583.jpg
+    rating: 0.0
+    date: '2026-10-03'
+    code: 509583
+    url: /works/509583/
   - title: Hitozuma Volley-bu no Asedaku SEX ~Shower Abinagara Micchaku Shichau? 1-2
       | Married Women's Volleyball Club Sweaty Sex - We're Being Glued Together While
       Taking A Shower? 1-2
@@ -2493,6 +2502,13 @@ works:
     date: '2026-10-01'
     code: 685377
     url: /works/685377/
+  - title: Kareshi Mochi Kyonyuu Beit Gal to Mechakucha Sex shita Hanashi 4
+    author: bs3
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685498.jpg
+    rating: 0.0
+    date: '2026-10-03'
+    code: 685498
+    url: /works/685498/
   - title: Ichiya no Yume Senya No Maboroshi 1-7
     author: sanbun-kyoden
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685727.jpg
@@ -2508,6 +2524,21 @@ works:
     date: '2026-10-02'
     code: 685728
     url: /works/685728/
+  - title: Poison Assort
+    author: kerenme
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685785.jpg
+    rating: 0.0
+    date: '2026-10-03'
+    code: 685785
+    url: /works/685785/
+  - title: Jichikai no Hitozuma wa Totemo Ecchi Deshita. 5 Nakahara Keiko no hurin nakada
+      si sex hen
+    author: tsusauto
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685828.jpg
+    rating: 0.0
+    date: '2026-10-03'
+    code: 685828
+    url: /works/685828/
   - title: Jokyoushi - Hot For Teachers | Female Teachers
     author: drill-murata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/81375.jpg

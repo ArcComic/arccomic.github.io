@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "exhibitionism"
-work_count: 74
+work_count: 75
 works:
   - title: Watashi-tachi no Seikoui Tokubetsu Jisshuu -Zengi Hen-
     author: guglielmo
@@ -85,6 +85,15 @@ works:
     date: '2026-03-09'
     code: 494440
     url: /works/494440/
+  - title: Itte mo Owaranai Shain Ryokou "Watashi / Osananajimi ni Sounyuu re Rare Chatteru...!"
+      1-3 | Company Outing That Never Ends Even if I Cum - “I’m Fucked by My Childhood
+      Friend…!” 1-3
+    author: aono-akira
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/509578.jpg
+    rating: 0.0
+    date: '2026-10-03'
+    code: 509578
+    url: /works/509578/
   - title: Tomodachi no Mama ga Boku no Dekachin de Ikimakutta Sotsugyoushiki
     author: rk-2
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/513981.jpg

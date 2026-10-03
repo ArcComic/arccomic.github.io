@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bdsm"
-work_count: 18
+work_count: 19
 works:
   - title: Boku no Kaa-chan ga Hikikomori Neet Debu Aniki no Seishori Onaho ni Natteita
       Hanashi | My Mother is My Fat Shut-in Older NEET Brother's Sex Relief Onahole
@@ -135,6 +135,13 @@ works:
     date: '2026-09-26'
     code: 684077
     url: /works/684077/
+  - title: Seishori ka no Kawakami-san | Pussy Lady, Ms. Kawakami
+    author: carpsukidayo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685702.jpg
+    rating: 5.0
+    date: '2026-10-03'
+    code: 685702
+    url: /works/685702/
   - title: Ichiya no Yume Senya No Maboroshi 1-7
     author: sanbun-kyoden
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685727.jpg

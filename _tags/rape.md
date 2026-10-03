@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "rape"
-work_count: 226
+work_count: 228
 works:
   - title: Office Love Scramble Ch. 1
     author: tohzai
@@ -365,6 +365,15 @@ works:
     date: '2026-09-09'
     code: 507591
     url: /works/507591/
+  - title: Denwa chū , Ushiro kara XL no Furin Pisuton 〜 Majimena Hitozuma no Inran
+      SEX 1-3 | Fucked with a Giant Dick from Behind while on the Phone - A Serious
+      Wife’s Filthy SEX 1-3
+    author: icelatte
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/509583.jpg
+    rating: 0.0
+    date: '2026-10-03'
+    code: 509583
+    url: /works/509583/
   - title: Watashi, Gitei no Are de… Kanji teru!~ Aniki yori Dekakute Iidaro 1-3 | I'm
       Feeling... My Brother-in-Law's Cock! 〜I'm Bigger Than My Brother's, Aren't I?
       ch.1-3
@@ -1643,6 +1652,13 @@ works:
     date: '2026-10-02'
     code: 685683
     url: /works/685683/
+  - title: Seishori ka no Kawakami-san | Pussy Lady, Ms. Kawakami
+    author: carpsukidayo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685702.jpg
+    rating: 5.0
+    date: '2026-10-03'
+    code: 685702
+    url: /works/685702/
   - title: Ichiya no Yume Senya No Maboroshi 1-7
     author: sanbun-kyoden
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685727.jpg

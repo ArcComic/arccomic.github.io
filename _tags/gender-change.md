@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "gender change"
-work_count: 27
+work_count: 29
 works:
   - title: Hyoui Osen de Yuri Ecchi | Lesbian Sex through Corrupting Possession
     author: siina-yuuki
@@ -105,6 +105,13 @@ works:
     date: '2026-05-03'
     code: 524761
     url: /works/524761/
+  - title: To Return in another Guise 1-3
+    author: hyouisuki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/527572.jpg
+    rating: 4.5
+    date: '2026-10-03'
+    code: 527572
+    url: /works/527572/
   - title: Boku o Ijimeteta Satou-kun o Kami Oshi Idol ni Kaete Otosu made | Until I
       Turned Sato—Who Used to Bully Me—Into My Absolute Favorite Idol and Seduced Him
     author: betty
@@ -204,4 +211,11 @@ works:
     date: '2026-10-01'
     code: 685231
     url: /works/685231/
+  - title: Holy Bitch 1
+    author: testame
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685809.jpg
+    rating: 0.0
+    date: '2026-10-03'
+    code: 685809
+    url: /works/685809/
 ---

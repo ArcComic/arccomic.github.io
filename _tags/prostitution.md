@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "prostitution"
-work_count: 74
+work_count: 75
 works:
   - title: Yuri no o saifu ni shite agemasu ne, Senpai | I'll turn you into Yuri's wallet,
       Senpai
@@ -547,6 +547,13 @@ works:
     date: '2026-10-02'
     code: 685728
     url: /works/685728/
+  - title: Holy Bitch 1
+    author: testame
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685809.jpg
+    rating: 0.0
+    date: '2026-10-03'
+    code: 685809
+    url: /works/685809/
   - title: Hottokenaino
     author: hara-shigeyuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/77864.jpg

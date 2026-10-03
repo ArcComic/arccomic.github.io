@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "no penetration"
-work_count: 37
+work_count: 38
 works:
   - title: Watashi-tachi no Seikoui Tokubetsu Jisshuu -Zengi Hen-
     author: guglielmo
@@ -272,4 +272,11 @@ works:
     date: '2026-09-22'
     code: 683188
     url: /works/683188/
+  - title: Paizuri Iin no Katsudou Kiroku
+    author: shake-chazuke
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685770.jpg
+    rating: 0.0
+    date: '2026-10-03'
+    code: 685770
+    url: /works/685770/
 ---

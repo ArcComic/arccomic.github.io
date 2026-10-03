@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "anal intercourse"
-work_count: 83
+work_count: 84
 works:
   - title: Bitch Mama no Kekkon Riyuu
     author: aoyama-akira
@@ -613,4 +613,11 @@ works:
     date: '2026-10-01'
     code: 685339
     url: /works/685339/
+  - title: Seishori ka no Kawakami-san | Pussy Lady, Ms. Kawakami
+    author: carpsukidayo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685702.jpg
+    rating: 5.0
+    date: '2026-10-03'
+    code: 685702
+    url: /works/685702/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "dark skin"
-work_count: 151
+work_count: 152
 works:
   - title: Birthday
     author: hashiba-yachi
@@ -1096,6 +1096,13 @@ works:
     date: '2026-09-30'
     code: 684911
     url: /works/684911/
+  - title: Ratatatat74 09/26 post 5$+
+    author: ratatatat74-mr-skull
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685546.jpg
+    rating: 0.0
+    date: '2026-10-03'
+    code: 685546
+    url: /works/685546/
   - title: Mukatsuku Imouto wa Chanto Shikaranakucha 1-36 Matome | Annoying Little Sister
       Needs to be Scolded 1-36
     author: juna-juna-juice

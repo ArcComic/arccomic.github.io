@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big breasts"
-work_count: 1051
+work_count: 1061
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -1171,6 +1171,24 @@ works:
     date: '2026-04-23'
     code: 509071
     url: /works/509071/
+  - title: Itte mo Owaranai Shain Ryokou "Watashi / Osananajimi ni Sounyuu re Rare Chatteru...!"
+      1-3 | Company Outing That Never Ends Even if I Cum - “I’m Fucked by My Childhood
+      Friend…!” 1-3
+    author: aono-akira
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/509578.jpg
+    rating: 0.0
+    date: '2026-10-03'
+    code: 509578
+    url: /works/509578/
+  - title: Denwa chū , Ushiro kara XL no Furin Pisuton 〜 Majimena Hitozuma no Inran
+      SEX 1-3 | Fucked with a Giant Dick from Behind while on the Phone - A Serious
+      Wife’s Filthy SEX 1-3
+    author: icelatte
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/509583.jpg
+    rating: 0.0
+    date: '2026-10-03'
+    code: 509583
+    url: /works/509583/
   - title: Koibito no Furi Shite Tara, Iki Goe ga…. Yukata Sugata no Kyonyuu Oneesan
       ni, Tamarazu Sounyuu 1 I Can’t Stop Myself From Penetrating My Big Boobed Older
       Female Cousin 1
@@ -3331,6 +3349,13 @@ works:
     date: '2026-09-09'
     code: 637655
     url: /works/637655/
+  - title: Sweetly Obsessive Guy wants to XXX with Moeko
+    author: the-waidan
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/637829.jpg
+    rating: 0.0
+    date: '2026-10-03'
+    code: 637829
+    url: /works/637829/
   - title: Nakadashi Oji-san ni Nerawareta Mesu wa Nigeru Koto ga Dekinai ~Fujitomo
       Megumi Hen 4~  | Targeted by the Cumshot Old Man I Can't Escape ~Fujitomo Megumi
       Story~
@@ -7729,6 +7754,20 @@ works:
     date: '2026-10-01'
     code: 685377
     url: /works/685377/
+  - title: Kareshi Mochi Kyonyuu Beit Gal to Mechakucha Sex shita Hanashi 4
+    author: bs3
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685498.jpg
+    rating: 0.0
+    date: '2026-10-03'
+    code: 685498
+    url: /works/685498/
+  - title: Musashi Love
+    author: negitoroko
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685563.jpg
+    rating: 0.0
+    date: '2026-10-03'
+    code: 685563
+    url: /works/685563/
   - title: Papa no Shinshitsu wa Musume Tomodachi no Tamariba 5 -Ninshin Houkoku Hen-
     author: richard-bahman
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685678.jpg
@@ -7752,6 +7791,13 @@ works:
     date: '2026-10-02'
     code: 685699
     url: /works/685699/
+  - title: Seishori ka no Kawakami-san | Pussy Lady, Ms. Kawakami
+    author: carpsukidayo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685702.jpg
+    rating: 5.0
+    date: '2026-10-03'
+    code: 685702
+    url: /works/685702/
   - title: Ichiya no Yume Senya No Maboroshi 1-7
     author: sanbun-kyoden
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685727.jpg
@@ -7776,6 +7822,35 @@ works:
     date: '2026-10-02'
     code: 685733
     url: /works/685733/
+  - title: Paizuri Iin no Katsudou Kiroku
+    author: shake-chazuke
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685770.jpg
+    rating: 0.0
+    date: '2026-10-03'
+    code: 685770
+    url: /works/685770/
+  - title: Poison Assort
+    author: kerenme
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685785.jpg
+    rating: 0.0
+    date: '2026-10-03'
+    code: 685785
+    url: /works/685785/
+  - title: Holy Bitch 1
+    author: testame
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685809.jpg
+    rating: 0.0
+    date: '2026-10-03'
+    code: 685809
+    url: /works/685809/
+  - title: Jichikai no Hitozuma wa Totemo Ecchi Deshita. 5 Nakahara Keiko no hurin nakada
+      si sex hen
+    author: tsusauto
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685828.jpg
+    rating: 0.0
+    date: '2026-10-03'
+    code: 685828
+    url: /works/685828/
   - title: Hottokenaino
     author: hara-shigeyuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/77864.jpg

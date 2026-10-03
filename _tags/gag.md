@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "gag"
-work_count: 19
+work_count: 20
 works:
   - title: Sashida Sareta Hokenshitsu | How I Offered Her Up In The Nurse's Office
     author: kasumi-kaori
@@ -139,4 +139,11 @@ works:
     date: '2026-09-22'
     code: 683188
     url: /works/683188/
+  - title: Seishori ka no Kawakami-san | Pussy Lady, Ms. Kawakami
+    author: carpsukidayo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685702.jpg
+    rating: 5.0
+    date: '2026-10-03'
+    code: 685702
+    url: /works/685702/
 ---

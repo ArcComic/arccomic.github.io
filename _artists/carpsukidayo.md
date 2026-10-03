@@ -1,7 +1,7 @@
 ---
 layout: artist
 artist_name: "carpsukidayo"
-work_count: 4
+work_count: 5
 works:
   - title: Stupid women are forced to become breeding slaves
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/641858.jpg
@@ -27,4 +27,10 @@ works:
     date: '2026-07-16'
     code: 664460
     url: /works/664460/
+  - title: Seishori ka no Kawakami-san | Pussy Lady, Ms. Kawakami
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685702.jpg
+    rating: 5.0
+    date: '2026-10-03'
+    code: 685702
+    url: /works/685702/
 ---

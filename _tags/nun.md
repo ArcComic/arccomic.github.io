@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "nun"
-work_count: 9
+work_count: 10
 works:
   - title: 'Haiboku no Daishou ~Okasare Ubaware Hametsu suru Shuudoujou~ | Price of
       Defeat: Downfall of the Violated and Plundered Sister'
@@ -69,4 +69,11 @@ works:
     date: '2026-09-23'
     code: 683058
     url: /works/683058/
+  - title: Poison Assort
+    author: kerenme
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685785.jpg
+    rating: 0.0
+    date: '2026-10-03'
+    code: 685785
+    url: /works/685785/
 ---

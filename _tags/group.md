@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "group"
-work_count: 233
+work_count: 235
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -1713,4 +1713,18 @@ works:
     date: '2026-10-02'
     code: 685678
     url: /works/685678/
+  - title: Seishori ka no Kawakami-san | Pussy Lady, Ms. Kawakami
+    author: carpsukidayo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685702.jpg
+    rating: 5.0
+    date: '2026-10-03'
+    code: 685702
+    url: /works/685702/
+  - title: Paizuri Iin no Katsudou Kiroku
+    author: shake-chazuke
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685770.jpg
+    rating: 0.0
+    date: '2026-10-03'
+    code: 685770
+    url: /works/685770/
 ---

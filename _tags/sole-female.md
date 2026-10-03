@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole female"
-work_count: 908
+work_count: 913
 works:
   - title: Adoration
     author: kishizuka-kenji
@@ -3231,6 +3231,13 @@ works:
     date: '2026-09-09'
     code: 637655
     url: /works/637655/
+  - title: Sweetly Obsessive Guy wants to XXX with Moeko
+    author: the-waidan
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/637829.jpg
+    rating: 0.0
+    date: '2026-10-03'
+    code: 637829
+    url: /works/637829/
   - title: Atarimae Sex ~Ane to Otouto no Nichijou~ | Natural Sex ~The Daily Life of
       an Older Sister and Younger Brother~
     author: mochichimaru
@@ -6704,6 +6711,20 @@ works:
     date: '2026-10-01'
     code: 685377
     url: /works/685377/
+  - title: Kareshi Mochi Kyonyuu Beit Gal to Mechakucha Sex shita Hanashi 4
+    author: bs3
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685498.jpg
+    rating: 0.0
+    date: '2026-10-03'
+    code: 685498
+    url: /works/685498/
+  - title: Musashi Love
+    author: negitoroko
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685563.jpg
+    rating: 0.0
+    date: '2026-10-03'
+    code: 685563
+    url: /works/685563/
   - title: Mukatsuku Imouto wa Chanto Shikaranakucha 1-36 Matome | Annoying Little Sister
       Needs to be Scolded 1-36
     author: juna-juna-juice
@@ -6737,4 +6758,18 @@ works:
     date: '2026-10-02'
     code: 685733
     url: /works/685733/
+  - title: Paizuri Iin no Katsudou Kiroku
+    author: shake-chazuke
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685770.jpg
+    rating: 0.0
+    date: '2026-10-03'
+    code: 685770
+    url: /works/685770/
+  - title: Holy Bitch 1
+    author: testame
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685809.jpg
+    rating: 0.0
+    date: '2026-10-03'
+    code: 685809
+    url: /works/685809/
 ---

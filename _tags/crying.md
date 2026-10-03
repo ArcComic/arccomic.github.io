@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "crying"
-work_count: 37
+work_count: 40
 works:
   - title: Netorareru.~ Tsuma ga Ochi Yuku Hen'ai Kairaku no Hate ni...1-5 | NETORARERU,
       A Wife's Descent Into Sinful Pleasures 1-5
@@ -48,6 +48,13 @@ works:
     date: '2026-03-03'
     code: 631651
     url: /works/631651/
+  - title: Sweetly Obsessive Guy wants to XXX with Moeko
+    author: the-waidan
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/637829.jpg
+    rating: 0.0
+    date: '2026-10-03'
+    code: 637829
+    url: /works/637829/
   - title: The Story of a Girl—Cherished by Her Childhood Sweetheart—Who Loses Her Virginity
       After Being Violated by a Murderer
     author: unknown
@@ -281,4 +288,18 @@ works:
     date: '2026-09-28'
     code: 684647
     url: /works/684647/
+  - title: Poison Assort
+    author: kerenme
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685785.jpg
+    rating: 0.0
+    date: '2026-10-03'
+    code: 685785
+    url: /works/685785/
+  - title: Holy Bitch 1
+    author: testame
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685809.jpg
+    rating: 0.0
+    date: '2026-10-03'
+    code: 685809
+    url: /works/685809/
 ---

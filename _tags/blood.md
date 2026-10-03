@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "blood"
-work_count: 4
+work_count: 5
 works:
   - title: Kono Furin wa Otto no Tame "Anata, Yurushite…." To, Netorareru Tsuma | 這場外遇是為了老公「親愛的，原諒我…」這樣說著，為老公戴綠帽的妻子
     author: korosuke
@@ -31,4 +31,11 @@ works:
     date: '2026-08-22'
     code: 674948
     url: /works/674948/
+  - title: Poison Assort
+    author: kerenme
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685785.jpg
+    rating: 0.0
+    date: '2026-10-03'
+    code: 685785
+    url: /works/685785/
 ---

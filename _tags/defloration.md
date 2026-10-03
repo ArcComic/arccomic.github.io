@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "defloration"
-work_count: 216
+work_count: 218
 works:
   - title: Imitation Family + Bigibo Hen
     author: tohzai
@@ -1597,6 +1597,13 @@ works:
     date: '2026-10-01'
     code: 685197
     url: /works/685197/
+  - title: Musashi Love
+    author: negitoroko
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685563.jpg
+    rating: 0.0
+    date: '2026-10-03'
+    code: 685563
+    url: /works/685563/
   - title: Mukatsuku Imouto wa Chanto Shikaranakucha 1-36 Matome | Annoying Little Sister
       Needs to be Scolded 1-36
     author: juna-juna-juice
@@ -1605,4 +1612,11 @@ works:
     date: '2026-10-02'
     code: 685683
     url: /works/685683/
+  - title: Poison Assort
+    author: kerenme
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685785.jpg
+    rating: 0.0
+    date: '2026-10-03'
+    code: 685785
+    url: /works/685785/
 ---

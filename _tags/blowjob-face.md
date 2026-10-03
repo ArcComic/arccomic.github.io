@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "blowjob face"
-work_count: 59
+work_count: 60
 works:
   - title: Hikki Mother Fucker
     author: otochichi
@@ -442,4 +442,11 @@ works:
     date: '2026-09-30'
     code: 684911
     url: /works/684911/
+  - title: Poison Assort
+    author: kerenme
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685785.jpg
+    rating: 0.0
+    date: '2026-10-03'
+    code: 685785
+    url: /works/685785/
 ---

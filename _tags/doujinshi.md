@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "doujinshi"
-work_count: 1274
+work_count: 1284
 works:
   - title: Birthday
     author: hashiba-yachi
@@ -1665,6 +1665,13 @@ works:
     date: '2026-09-29'
     code: 527520
     url: /works/527520/
+  - title: To Return in another Guise 1-3
+    author: hyouisuki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/527572.jpg
+    rating: 4.5
+    date: '2026-10-03'
+    code: 527572
+    url: /works/527572/
   - title: This Woman’s Body Tells Lies
     author: ichihara-kazuma
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/527621.jpg
@@ -4049,6 +4056,13 @@ works:
     date: '2026-07-16'
     code: 637709
     url: /works/637709/
+  - title: Sweetly Obsessive Guy wants to XXX with Moeko
+    author: the-waidan
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/637829.jpg
+    rating: 0.0
+    date: '2026-10-03'
+    code: 637829
+    url: /works/637829/
   - title: My gentle and kind friend's mom was a slut who devoured young boys' cocks.
     author: dekamatsu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/637847.jpg
@@ -9393,6 +9407,34 @@ works:
     date: '2026-10-01'
     code: 685377
     url: /works/685377/
+  - title: Kareshi Mochi Kyonyuu Beit Gal to Mechakucha Sex shita Hanashi 4
+    author: bs3
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685498.jpg
+    rating: 0.0
+    date: '2026-10-03'
+    code: 685498
+    url: /works/685498/
+  - title: Yuri Trap Dungeon
+    author: titiduki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685522.jpg
+    rating: 0.0
+    date: '2026-10-03'
+    code: 685522
+    url: /works/685522/
+  - title: Ratatatat74 09/26 post 5$+
+    author: ratatatat74-mr-skull
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685546.jpg
+    rating: 0.0
+    date: '2026-10-03'
+    code: 685546
+    url: /works/685546/
+  - title: Musashi Love
+    author: negitoroko
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685563.jpg
+    rating: 0.0
+    date: '2026-10-03'
+    code: 685563
+    url: /works/685563/
   - title: Papa no Shinshitsu wa Musume Tomodachi no Tamariba 5 -Ninshin Houkoku Hen-
     author: richard-bahman
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685678.jpg
@@ -9433,4 +9475,33 @@ works:
     date: '2026-10-02'
     code: 685733
     url: /works/685733/
+  - title: Paizuri Iin no Katsudou Kiroku
+    author: shake-chazuke
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685770.jpg
+    rating: 0.0
+    date: '2026-10-03'
+    code: 685770
+    url: /works/685770/
+  - title: Poison Assort
+    author: kerenme
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685785.jpg
+    rating: 0.0
+    date: '2026-10-03'
+    code: 685785
+    url: /works/685785/
+  - title: Holy Bitch 1
+    author: testame
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685809.jpg
+    rating: 0.0
+    date: '2026-10-03'
+    code: 685809
+    url: /works/685809/
+  - title: Jichikai no Hitozuma wa Totemo Ecchi Deshita. 5 Nakahara Keiko no hurin nakada
+      si sex hen
+    author: tsusauto
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685828.jpg
+    rating: 0.0
+    date: '2026-10-03'
+    code: 685828
+    url: /works/685828/
 ---

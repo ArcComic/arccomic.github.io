@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "possession"
-work_count: 12
+work_count: 14
 works:
   - title: Hyoui Osen de Yuri Ecchi | Lesbian Sex through Corrupting Possession
     author: siina-yuuki
@@ -33,6 +33,13 @@ works:
     date: '2026-09-10'
     code: 502197
     url: /works/502197/
+  - title: To Return in another Guise 1-3
+    author: hyouisuki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/527572.jpg
+    rating: 4.5
+    date: '2026-10-03'
+    code: 527572
+    url: /works/527572/
   - title: Mother's Scent 1-4
     author: midnight
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/532417.jpg
@@ -92,4 +99,11 @@ works:
     date: '2026-09-09'
     code: 679890
     url: /works/679890/
+  - title: Holy Bitch 1
+    author: testame
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685809.jpg
+    rating: 0.0
+    date: '2026-10-03'
+    code: 685809
+    url: /works/685809/
 ---

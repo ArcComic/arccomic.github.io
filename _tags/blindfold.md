@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "blindfold"
-work_count: 35
+work_count: 36
 works:
   - title: Okki na Saori-chan wa Bukiyou ni Eroi
     author: aramaki-echizen
@@ -242,6 +242,13 @@ works:
     date: '2026-09-23'
     code: 683443
     url: /works/683443/
+  - title: Seishori ka no Kawakami-san | Pussy Lady, Ms. Kawakami
+    author: carpsukidayo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685702.jpg
+    rating: 5.0
+    date: '2026-10-03'
+    code: 685702
+    url: /works/685702/
   - title: Inin Keiyaku | Lewd Pregnancy Contract
     author: yoshiura-kazuya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/83595.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "netorase"
-work_count: 34
+work_count: 35
 works:
   - title: Boku no Netorase Seiheki ni Tsukiatte kureru Kanojo | A Girlfriend Who Plays
       Along with My Cuckold Fetish
@@ -253,4 +253,11 @@ works:
     date: '2026-09-23'
     code: 683430
     url: /works/683430/
+  - title: Poison Assort
+    author: kerenme
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685785.jpg
+    rating: 0.0
+    date: '2026-10-03'
+    code: 685785
+    url: /works/685785/
 ---
