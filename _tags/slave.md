@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "slave"
-work_count: 16
+work_count: 17
 works:
   - title: Komorebi no Ori
     author: hitoi
@@ -24,6 +24,14 @@ works:
     date: '2026-04-17'
     code: 489004
     url: /works/489004/
+  - title: Josei no Kenri ga Ushinawareta Kuni | The Country Where Women's Rights have
+      been Lost
+    author: mokataki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/557444.jpg
+    rating: 0.0
+    date: '2026-10-03'
+    code: 557444
+    url: /works/557444/
   - title: Boku no Kaa-chan ga Hikikomori Neet Debu Aniki no Seishori Onaho ni Natteita
       Hanashi | My Mother is My Fat Shut-in Older NEET Brother's Sex Relief Onahole
     author: tarobaumu

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "collar"
-work_count: 81
+work_count: 82
 works:
   - title: Kaisha de Iroiro | Gettin' Busy at the Office
     author: hara-shigeyuki
@@ -118,6 +118,14 @@ works:
     date: '2026-04-19'
     code: 556036
     url: /works/556036/
+  - title: Josei no Kenri ga Ushinawareta Kuni | The Country Where Women's Rights have
+      been Lost
+    author: mokataki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/557444.jpg
+    rating: 0.0
+    date: '2026-10-03'
+    code: 557444
+    url: /works/557444/
   - title: Kichiku Kyoushi ni Otosareta Boku no Seitokaichou Part.3
     author: norakuro-nero
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/557452.jpg

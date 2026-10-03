@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "exhibitionism"
-work_count: 73
+work_count: 74
 works:
   - title: Watashi-tachi no Seikoui Tokubetsu Jisshuu -Zengi Hen-
     author: guglielmo
@@ -113,6 +113,14 @@ works:
     date: '2026-04-25'
     code: 555792
     url: /works/555792/
+  - title: Josei no Kenri ga Ushinawareta Kuni | The Country Where Women's Rights have
+      been Lost
+    author: mokataki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/557444.jpg
+    rating: 0.0
+    date: '2026-10-03'
+    code: 557444
+    url: /works/557444/
   - title: Chijo Monogatari Henshitsusha (Onna) Shutsubotsu Chuu
     author: enma
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/588713.jpg

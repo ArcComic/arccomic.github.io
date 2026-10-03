@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sex toys"
-work_count: 117
+work_count: 118
 works:
   - title: Ayami Hypno
     author: yasuhiro
@@ -165,6 +165,14 @@ works:
     date: '2026-08-31'
     code: 556767
     url: /works/556767/
+  - title: Josei no Kenri ga Ushinawareta Kuni | The Country Where Women's Rights have
+      been Lost
+    author: mokataki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/557444.jpg
+    rating: 0.0
+    date: '2026-10-03'
+    code: 557444
+    url: /works/557444/
   - title: Ossan Kirai no Hitozuma Kyoushi ga Nikubenki ni Ochiru Hanashi | Story About
       an Old Man Hating Married Teacher Falling Into Being a Meat Toilet
     author: chinpan

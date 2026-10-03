@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "stuck in wall"
-work_count: 7
+work_count: 8
 works:
   - title: Pai☆Panic ~Hasamareta Dekapai~
     author: inkey
@@ -24,6 +24,14 @@ works:
     date: '2026-10-02'
     code: 304474
     url: /works/304474/
+  - title: Josei no Kenri ga Ushinawareta Kuni | The Country Where Women's Rights have
+      been Lost
+    author: mokataki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/557444.jpg
+    rating: 0.0
+    date: '2026-10-03'
+    code: 557444
+    url: /works/557444/
   - title: FORBIDDEN RAIN KOBO KANAERU 2
     author: clef
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/637709.jpg

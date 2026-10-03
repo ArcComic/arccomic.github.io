@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "forced exposure"
-work_count: 13
+work_count: 14
 works:
   - title: Chikubi Kando Chousa, Hajimemasu
     author: nanahamu
@@ -10,6 +10,14 @@ works:
     date: '2026-08-24'
     code: 528009
     url: /works/528009/
+  - title: Josei no Kenri ga Ushinawareta Kuni | The Country Where Women's Rights have
+      been Lost
+    author: mokataki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/557444.jpg
+    rating: 0.0
+    date: '2026-10-03'
+    code: 557444
+    url: /works/557444/
   - title: Ore ga Hoshikatta Mono wa Kin Medal Yori Namami Onaho Datta no Kamoshirenai｜Maybe
       what I Wanted was a Flesh and Blood Masturbator Rather than a Gold Medal
     author: carburetor
