@@ -5,6 +5,7 @@ Minimal dependencies: no lxml, no Pillow
 """
 
 import os
+import glob
 import sys
 import json
 import re
@@ -4247,6 +4248,27 @@ def _telethon_worker_loop():
     async def handle_job(job):
         action = job["action"]
         try:
+            if action == "reset_login":
+                # Drop the live client (disconnect first so the old
+                # connection doesn't keep the session file locked), then
+                # delete every session file so the next login starts clean.
+                if client is not None:
+                    try:
+                        if client.is_connected():
+                            await client.disconnect()
+                    except Exception as e:
+                        print(f"⚠️ Telethon disconnect during reset failed (ignored): {e}")
+                    client = None
+                removed = []
+                for path in glob.glob(TELETHON_SESSION_PATH + "*"):
+                    try:
+                        os.remove(path)
+                        removed.append(os.path.basename(path))
+                    except OSError as e:
+                        print(f"⚠️ Could not remove {path}: {e}")
+                print(f"🧹 Telegram login reset — removed: {removed or 'nothing'}")
+                return {"status": "ok", "removed": removed}
+
             if action == "check_authorized":
                 c = await ensure_client(job["api_id"], job["api_hash"])
                 return {"status": "ok", "authorized": await c.is_user_authorized()}
@@ -4489,6 +4511,9 @@ def is_telethon_authorized(api_id, api_hash):
 
 def telethon_request_code(api_id, api_hash, phone):
     return _telethon_call("request_code", api_id=api_id, api_hash=api_hash, phone=phone)
+
+def telethon_reset_login():
+    return _telethon_call("reset_login", timeout=30)
 
 def telethon_submit_code(api_id, api_hash, phone, code, password=None):
     return _telethon_call("submit_code", api_id=api_id, api_hash=api_hash,
@@ -4971,6 +4996,17 @@ def start_health_check_loop():
         _health_check_thread.start()
         return True
 
+def trigger_health_check_all_now():
+    """'Health All the Posts' — forget the verified-skip list so EVERY
+    post on the site is checked again, not just newly posted ones."""
+    if load_health_check_state().get("status") == "running":
+        return False
+    state = load_health_check_state()
+    state["verified_codes"] = []
+    save_health_check_state(state)
+    threading.Thread(target=_run_health_check_once, daemon=True).start()
+    return True
+
 def trigger_health_check_now():
     """Manual 'Run Now' from the dashboard — runs one pass immediately in
     its own thread without disturbing the regular 6-hour schedule."""
@@ -5396,6 +5432,9 @@ DASHBOARD_HTML = """
                         Submit Code
                     </button>
                 </div>
+                <button id="resetLoginBtn" style="width:100%;margin-top:10px;background:#2a2a3a;color:#ef4444;border:1px solid #ef4444;padding:12px;border-radius:10px;font-weight:700;font-size:13px;cursor:pointer;">
+                    🧹 Reset Telegram Login (clear saved login)
+                </button>
                 <div class="status" id="loginActionStatus"></div>
             </div>
 
@@ -5443,6 +5482,9 @@ DASHBOARD_HTML = """
             </div>
             <button id="hcRunNowBtn" style="width:100%;background:#2a2a3a;color:#f59e0b;border:1px solid #f59e0b;padding:12px;border-radius:10px;font-weight:700;font-size:13px;cursor:pointer;">
                 🔍 Run Health Check Now
+            </button>
+            <button id="hcRunAllBtn" style="width:100%;margin-top:10px;background:#f59e0b;color:#000;border:none;padding:12px;border-radius:10px;font-weight:700;font-size:13px;cursor:pointer;">
+                🩺 Health All the Posts
             </button>
             <div class="status" id="hcActionStatus"></div>
             <div id="hcReportList" style="margin-top:14px;max-height:400px;overflow-y:auto;"></div>
@@ -5731,6 +5773,32 @@ DASHBOARD_HTML = """
         }
         refreshLoginStatus();
 
+        const resetLoginBtn = document.getElementById('resetLoginBtn');
+        if (resetLoginBtn) {
+            resetLoginBtn.addEventListener('click', async () => {
+                if (!confirm('Clear the saved Telegram login? You will need to log in again with a new code.')) return;
+                const statusEl = document.getElementById('loginActionStatus');
+                resetLoginBtn.disabled = true;
+                resetLoginBtn.textContent = 'Clearing...';
+                try {
+                    const res = await fetch('/api/backlog/reset_login', { method: 'POST' });
+                    const data = await res.json();
+                    statusEl.className = data.status === 'ok' ? 'status success' : 'status error';
+                    statusEl.textContent = (data.status === 'ok' ? '✅ ' : '❌ ') + (data.message || 'Reset failed');
+                    document.getElementById('codeEntryBox').style.display = 'none';
+                    document.getElementById('loginPasswordInput').style.display = 'none';
+                    document.getElementById('loginCodeInput').value = '';
+                    document.getElementById('loginPasswordInput').value = '';
+                } catch (e) {
+                    statusEl.className = 'status error';
+                    statusEl.textContent = '❌ Error: ' + e.message;
+                }
+                resetLoginBtn.disabled = false;
+                resetLoginBtn.textContent = '🧹 Reset Telegram Login (clear saved login)';
+                refreshLoginStatus();
+            });
+        }
+
         const requestCodeBtn = document.getElementById('requestCodeBtn');
         if (requestCodeBtn) {
             requestCodeBtn.addEventListener('click', async () => {
@@ -5910,6 +5978,29 @@ DASHBOARD_HTML = """
         }
         refreshHealthCheckStatus();
         setInterval(refreshHealthCheckStatus, 8000);
+
+        const hcRunAllBtn = document.getElementById('hcRunAllBtn');
+        if (hcRunAllBtn) {
+            hcRunAllBtn.addEventListener('click', async function() {
+                if (!confirm('Check EVERY post on the site from the start? This can take a long time.')) return;
+                const statusEl = document.getElementById('hcActionStatus');
+                hcRunAllBtn.disabled = true;
+                hcRunAllBtn.textContent = '🔄 Starting...';
+                try {
+                    const res = await fetch('/api/health_check/run_all', { method: 'POST' });
+                    const data = await res.json();
+                    if (statusEl) {
+                        statusEl.textContent = data.message;
+                        statusEl.style.color = data.status === 'ok' ? '#22c55e' : '#f59e0b';
+                    }
+                } catch (e) {
+                    if (statusEl) { statusEl.textContent = 'Request failed'; statusEl.style.color = '#ef4444'; }
+                }
+                hcRunAllBtn.disabled = false;
+                hcRunAllBtn.textContent = '🩺 Health All the Posts';
+                refreshHealthCheckStatus();
+            });
+        }
 
         const hcRunNowBtn = document.getElementById('hcRunNowBtn');
         if (hcRunNowBtn) {
@@ -6689,6 +6780,19 @@ def api_backlog_login_status():
         return jsonify({"authorized": False, "message": "API ID/Hash not set"})
     return jsonify({"authorized": is_telethon_authorized(api_id, api_hash)})
 
+@app.route("/api/backlog/reset_login", methods=["POST"])
+def api_backlog_reset_login():
+    """Wipe the saved Telegram login so you can log out, switch accounts,
+    or start over. Deletes the Telethon session files; the next
+    'Login to Telegram' asks for a fresh code."""
+    try:
+        result = telethon_reset_login()
+        return jsonify({"status": "ok",
+                         "message": "Telegram login cleared. Log in again to continue.",
+                         "removed": result.get("removed", [])})
+    except Exception as e:
+        return jsonify({"status": "error", "message": str(e)}), 500
+
 @app.route("/api/backlog/request_code", methods=["POST"])
 def api_backlog_request_code():
     cfg = load_config()
@@ -6701,6 +6805,10 @@ def api_backlog_request_code():
     try:
         result = telethon_request_code(api_id, api_hash, phone)
         return jsonify(result)
+    except TimeoutError as e:
+        return jsonify({"status": "error",
+                         "message": "Telegram didn't answer in time. Tap 'Reset Telegram Login' "
+                                    "below, then try Login again."}), 504
     except Exception as e:
         return jsonify({"status": "error", "message": str(e)}), 500
 
@@ -6717,8 +6825,15 @@ def api_backlog_submit_code():
         return jsonify({"status": "error", "message": "Code required"}), 400
     if not (api_id and api_hash and phone):
         return jsonify({"status": "error", "message": "API ID, API Hash, and phone must be set first"}), 400
-    result = telethon_submit_code(api_id, api_hash, phone, code, password)
-    return jsonify(result)
+    try:
+        result = telethon_submit_code(api_id, api_hash, phone, code, password)
+        return jsonify(result)
+    except TimeoutError:
+        return jsonify({"status": "error",
+                         "message": "Telegram didn't answer in time. Tap 'Reset Telegram Login' "
+                                    "and request a new code."}), 504
+    except Exception as e:
+        return jsonify({"status": "error", "message": str(e)}), 500
 
 @app.route("/api/backlog/start_scan", methods=["POST"])
 def api_backlog_start_scan():
@@ -6952,6 +7067,13 @@ def api_health_check_status():
         "r2_configured": r2_upload.is_configured(cfg),
         "report": report[:50],
     })
+
+@app.route("/api/health_check/run_all", methods=["POST"])
+def api_health_check_run_all():
+    started = trigger_health_check_all_now()
+    return jsonify({"status": "ok" if started else "already_running",
+                     "message": "Health check started for ALL posts" if started
+                                else "A health check is already running"})
 
 @app.route("/api/health_check/run_now", methods=["POST"])
 def api_health_check_run_now():
