@@ -20,7 +20,7 @@ works:
   - title: Danchou wa Zettai ni Barenai.
     author: ueto-seri
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/575361.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-30'
     code: 575361
     url: /works/575361/
@@ -80,17 +80,17 @@ works:
     date: '2026-09-18'
     code: 682199
     url: /works/682199/
-  - title: Ame Doujin
+  - title: My Boss Detective Keeps on Teasing Me
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684848.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-30'
     code: 684848
     url: /works/684848/
-  - title: I should have never checked her phone
+  - title: Keitai nante Mirun ja Nakatta | I should have never checked her phone
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685242.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-10-01'
     code: 685242
     url: /works/685242/

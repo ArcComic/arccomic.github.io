@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "incomplete"
-work_count: 15
+work_count: 16
 works:
   - title: Kizashi
     author: yoshiura-kazuya
@@ -49,7 +49,7 @@ works:
   - title: Geriatric Dragons dogma
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/596562.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-30'
     code: 596562
     url: /works/596562/
@@ -106,8 +106,16 @@ works:
       My Heart. + Melonbooks Tokuten Sensei wa Yappari JK to Yaritai
     author: gustav
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/655660.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-09-30'
     code: 655660
     url: /works/655660/
+  - title: Tachibana-san-chi no Dansei Jijou Matome Ban | The Tachibana Household's
+      Male Affairs
+    author: jin
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681720.jpg
+    rating: 4.8
+    date: '2026-09-17'
+    code: 681720
+    url: /works/681720/
 ---

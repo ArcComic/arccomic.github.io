@@ -18,14 +18,14 @@ works:
     url: /works/498051/
   - title: If I Have a Chance, I Want to Warp My Boyfriend's Fetishes!
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/647619.jpg
-    rating: 4.6
+    rating: 4.2
     date: '2026-05-03'
     code: 647619
     url: /works/647619/
   - title: If I Have a Chance, I Want to Warp My Boyfriend's Fetishes! ~Lovey-dovey
       Trip to the Hotsprings~
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/648042.jpg
-    rating: 4.5
+    rating: 4.4
     date: '2026-05-05'
     code: 648042
     url: /works/648042/

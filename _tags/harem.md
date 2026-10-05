@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "harem"
-work_count: 38
+work_count: 40
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -56,7 +56,7 @@ works:
   - title: Geriatric Dragons dogma
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/596562.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-30'
     code: 596562
     url: /works/596562/
@@ -111,6 +111,13 @@ works:
     date: '2026-05-26'
     code: 652605
     url: /works/652605/
+  - title: Seishidouin no Oshigoto Soushuuhen1 | Sex Instructor Compilation Vol. 1
+    author: malcorond
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/653978.jpg
+    rating: 4.8
+    date: '2026-07-07'
+    code: 653978
+    url: /works/653978/
   - title: 'Oshi No Ko BEHIND THE STAGE #2'
     author: gsus
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/655528.jpg
@@ -136,7 +143,7 @@ works:
   - title: Oretoku Shuugakuryokou ~Otoko wa Jyosou shita Ore dake!! Ch 1-29
     author: okumori-boy
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/661664.jpg
-    rating: 4.1
+    rating: 4.6
     date: '2026-07-06'
     code: 661664
     url: /works/661664/
@@ -158,7 +165,7 @@ works:
   - title: MORAL HAZARD ~Haitoku no Kyoudan~
     author: hiraoka-ryuichi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/66420.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-30'
     code: 66420
     url: /works/66420/
@@ -198,6 +205,13 @@ works:
     date: '2026-09-12'
     code: 680555
     url: /works/680555/
+  - title: Cooking Pakopako | Cooking Fucka
+    author: otochichi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681004.jpg
+    rating: 4.5
+    date: '2026-09-13'
+    code: 681004
+    url: /works/681004/
   - title: Chigyuu InCha ga Imouto ni Tsurerare Shuugaku Ryokou JK Shikainai Daiyokujou
       de Geneki JK to Gomunashi 18P Harem Dairankou!! | A Loser Introvert Gets Dragged
       by His Little Sister to a School Trip Bathhouse With Nothing but High School Girls
@@ -222,13 +236,6 @@ works:
     date: '2026-09-18'
     code: 682188
     url: /works/682188/
-  - title: Kuro-Gal Mama-san Haramasex
-    author: ooshima-ryou
-    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683312.jpg
-    rating: 4.3
-    date: '2026-09-23'
-    code: 683312
-    url: /works/683312/
   - title: 'Kokujin no Tenkousei NTR ru Chapters 1-6 part 1 Plus Bonus chapter: Stolen
       Mother’s Breasts'
     author: terasu-mc
@@ -265,17 +272,25 @@ works:
       Exchange Student~
     author: takeda-hiromitsu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685147.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-01'
     code: 685147
     url: /works/685147/
-  - title: Papa no Shinshitsu wa Musume Tomodachi no Tamariba 5 -Ninshin Houkoku Hen-
-    author: richard-bahman
-    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685678.jpg
+  - title: Saimin Gakuen 5 Saiminjutsu de Yari Houdai no Gakuen Harem o Te ni Ireta
+      Ore | I Used Hypnosis to Create a School Harem That I Can Fuck as Much as I Want
+    author: inagita
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685874.jpg
     rating: 0.0
-    date: '2026-10-02'
-    code: 685678
-    url: /works/685678/
+    date: '2026-10-05'
+    code: 685874
+    url: /works/685874/
+  - title: Kaa-san to Omoide no Gojitsudan 4 English
+    author: fuchina-noharu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686044.jpg
+    rating: 0.0
+    date: '2026-10-05'
+    code: 686044
+    url: /works/686044/
   - title: Jokyoushi - Hot For Teachers | Female Teachers
     author: drill-murata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/81375.jpg

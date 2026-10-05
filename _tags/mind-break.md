@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "mind break"
-work_count: 60
+work_count: 64
 works:
   - title: Birthday
     author: hashiba-yachi
@@ -56,7 +56,7 @@ works:
       Pocket Pussy for a Futanari Young Lady
     author: ginger-lily
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/472157.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-10-02'
     code: 472157
     url: /works/472157/
@@ -168,15 +168,22 @@ works:
   - title: Namaiki Papa Katsu Shoujo ni Seisai SEX
     author: ichinomiya-yuu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/614675.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-30'
     code: 614675
     url: /works/614675/
+  - title: Metamorphosis
+    author: shindol
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/616358.jpg
+    rating: 4.6
+    date: '2026-07-15'
+    code: 616358
+    url: /works/616358/
   - title: Kareshi Mochi no Mei wa Shinjiteta Oji-san ni Okasareru | My Niece, Who had
       a Boyfriend, Was Raped by Her Uncle, Whom She Trusted
     author: ichinomiya-yuu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/624848.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-30'
     code: 624848
     url: /works/624848/
@@ -197,7 +204,7 @@ works:
   - title: Mishiranu Boshi ni Yaritai Houdai
     author: tonda
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/635363.jpg
-    rating: 4.6
+    rating: 4.7
     date: '2026-03-07'
     code: 635363
     url: /works/635363/
@@ -212,7 +219,7 @@ works:
   - title: Stupid women are forced to become breeding slaves
     author: carpsukidayo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/641858.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-10-02'
     code: 641858
     url: /works/641858/
@@ -246,6 +253,14 @@ works:
     date: '2026-05-03'
     code: 647608
     url: /works/647608/
+  - title: Otaku ni Yasashii Gal wa Aitsu no Kanojo | A Gal Who's Kind to Otaku Is That
+      Guy's Girlfriend
+    author: yamamoto
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/647809.jpg
+    rating: 4.9
+    date: '2026-05-04'
+    code: 647809
+    url: /works/647809/
   - title: He's being held by her father
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/647938.jpg
@@ -261,6 +276,14 @@ works:
     date: '2026-05-07'
     code: 648384
     url: /works/648384/
+  - title: Imouto Haramasenai to Derarenai Shima 2 | You Must Breed Your Sister to Leave
+      This Island 2!
+    author: airandou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/648414.jpg
+    rating: 4.2
+    date: '2026-05-07'
+    code: 648414
+    url: /works/648414/
   - title: Reibaishi Mikoto 2 Kairaku ni Zanpai su... Hentai Jijii to no Seikou no Gishiki
       de Ikikuruwasareru Shoujo no Karada
     author: sawacream
@@ -280,7 +303,7 @@ works:
   - title: Inkan no Ketsuzoku 1-3
     author: diisuke
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651242.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-09-30'
     code: 651242
     url: /works/651242/
@@ -309,10 +332,18 @@ works:
       Break
     author: hikitogu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/660241.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-09-30'
     code: 660241
     url: /works/660241/
+  - title: 'Jirai Inu-kei Kanojo #Kimi to Tsunagaritai Jirai de Inukei de Juujun na
+      Kimi dake no Pet | Jirai-kei Puppy Girlfriend'
+    author: shimofuji-jun
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/661367.jpg
+    rating: 4.8
+    date: '2026-07-05'
+    code: 661367
+    url: /works/661367/
   - title: Shinyuu Tatakitsubushi Kyousou Shiiku Seikatsu | A Life in Captivity The
       Competition to Break My Best Friend
     author: group
@@ -324,17 +355,24 @@ works:
   - title: Choukyou Inroku Ni ~Kunoichi Hiiragi no Junan~
     author: carpsukidayo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/663482.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-02'
     code: 663482
     url: /works/663482/
   - title: MORAL HAZARD ~Haitoku no Kyoudan~
     author: hiraoka-ryuichi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/66420.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-30'
     code: 66420
     url: /works/66420/
+  - title: KAWAKAMI FROM THE SEXUAL RELIEF DIVISION
+    author: carpsukidayo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/664460.jpg
+    rating: 5.0
+    date: '2026-07-16'
+    code: 664460
+    url: /works/664460/
   - title: My Girlfriend's Older Sister Turned Me Into Her Masochist Foot Pet
     author: yoko-momo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/664853.jpg
@@ -389,7 +427,7 @@ works:
   - title: oyako NTR fuuzoku | mother & daughter NTR prostitutes - MTL
     author: yuuki-ringo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681844.jpg
-    rating: 4.3
+    rating: 4.0
     date: '2026-09-17'
     code: 681844
     url: /works/681844/
@@ -400,13 +438,6 @@ works:
     date: '2026-09-20'
     code: 682577
     url: /works/682577/
-  - title: Hako no Tsuma
-    author: bai-asuka
-    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683121.jpg
-    rating: 4.9
-    date: '2026-09-22'
-    code: 683121
-    url: /works/683121/
   - title: KuroTsuma
     author: hoshiduki-melon
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683317.jpg
@@ -422,21 +453,22 @@ works:
     date: '2026-09-25'
     code: 683725
     url: /works/683725/
-  - title: Provoking Men
-    author: pororivista
-    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684647.jpg
-    rating: 5.0
-    date: '2026-09-28'
-    code: 684647
-    url: /works/684647/
   - title: Sennyuu Sousakan -Cult ni Ochiru- Kouhen | Undercover Agent -Corrupted by
       the Cult- Part Two
     author: take-shinshi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685377.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-10-01'
     code: 685377
     url: /works/685377/
+  - title: Warui Oji-san ni Yasashiku Shitara | When I Was Kind to a Bad Middle-Aged
+      Man
+    author: ma-kurou-madou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686029.jpg
+    rating: 0.0
+    date: '2026-10-05'
+    code: 686029
+    url: /works/686029/
   - title: Inin Keiyaku | Lewd Pregnancy Contract
     author: yoshiura-kazuya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/83595.jpg

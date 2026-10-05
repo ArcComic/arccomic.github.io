@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "yuri"
-work_count: 49
+work_count: 51
 works:
   - title: Gekkoutou no Yume - Nyotaika Douwa ~Danshi Kinsei no Tou~
     author: mugen-no-sudadokei
@@ -28,7 +28,7 @@ works:
       Pocket Pussy for a Futanari Young Lady
     author: ginger-lily
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/472157.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-10-02'
     code: 472157
     url: /works/472157/
@@ -338,22 +338,36 @@ works:
   - title: YOUR SISTER - CHAPTER 1-16
     author: konparu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684882.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-30'
     code: 684882
     url: /works/684882/
   - title: Tsuki ga Michiru Mae ni | Before the Moon Waxes Full
     author: sousouman
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684905.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-30'
     code: 684905
     url: /works/684905/
   - title: Yuri Trap Dungeon
     author: titiduki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685522.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-10-03'
     code: 685522
     url: /works/685522/
+  - title: LATEST
+    author: ratatatat74-mr-skull
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685961.jpg
+    rating: 0.0
+    date: '2026-10-05'
+    code: 685961
+    url: /works/685961/
+  - title: A Book About Saki Imagining Lesbian Sex with Kanon
+    author: satou-to-shio-botamochi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685989.jpg
+    rating: 0.0
+    date: '2026-10-05'
+    code: 685989
+    url: /works/685989/
 ---

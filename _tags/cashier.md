@@ -8,7 +8,7 @@ works:
       for My Boyfriend’s Sake, Became the Store Manager’s Sex Toy~
     author: mashumarodan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/643511.jpg
-    rating: 4.3
+    rating: 4.9
     date: '2026-04-12'
     code: 643511
     url: /works/643511/

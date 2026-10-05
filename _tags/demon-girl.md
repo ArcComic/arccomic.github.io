@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "demon girl"
-work_count: 13
+work_count: 14
 works:
   - title: Junpaku Terrarium - Garden of Lovers
     author: sakuma-tsukasa
@@ -33,6 +33,13 @@ works:
     date: '2026-07-06'
     code: 661596
     url: /works/661596/
+  - title: Erolive Shiori Novella
+    author: doji
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/664590.jpg
+    rating: 4.8
+    date: '2026-07-16'
+    code: 664590
+    url: /works/664590/
   - title: Miya-chan no Kyuuin Life! - Chapter 12
     author: furumoto-takeru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/664766.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "domination loss"
-work_count: 38
+work_count: 42
 works:
   - title: My Only Princess
     author: mackgee
@@ -104,7 +104,7 @@ works:
       a Big-Titted Rich Gyaru Who Has No Interest in Being Lovey-Dovey
     author: uni-toshiki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/610539.jpg
-    rating: 4.0
+    rating: 4.6
     date: '2026-02-26'
     code: 610539
     url: /works/610539/
@@ -147,7 +147,7 @@ works:
   - title: If I Have a Chance, I Want to Warp My Boyfriend's Fetishes!
     author: meeko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/647619.jpg
-    rating: 4.6
+    rating: 4.2
     date: '2026-05-03'
     code: 647619
     url: /works/647619/
@@ -162,7 +162,7 @@ works:
       Trip to the Hotsprings~
     author: meeko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/648042.jpg
-    rating: 4.5
+    rating: 4.4
     date: '2026-05-05'
     code: 648042
     url: /works/648042/
@@ -174,6 +174,13 @@ works:
     date: '2026-05-10'
     code: 649029
     url: /works/649029/
+  - title: I Want To Take Hikaru Narumi's First Time
+    author: concontochu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/649039.jpg
+    rating: 4.6
+    date: '2026-05-10'
+    code: 649039
+    url: /works/649039/
   - title: Oshiego no Gal o Kau
     author: mitsudoue
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651197.jpg
@@ -223,7 +230,7 @@ works:
       Break
     author: hikitogu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/660241.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-09-30'
     code: 660241
     url: /works/660241/
@@ -257,6 +264,15 @@ works:
     date: '2026-08-21'
     code: 674568
     url: /works/674568/
+  - title: Shitate ni wa Denai kedo Chinko ni wa Yowai Gyaru-chan to Kyokon Otaku! |
+      A gal who doesn't act submissive but is weak for a big cock, and a huge-dicked
+      otaku.
+    author: ohkami-ryosuke
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/674728.jpg
+    rating: 4.6
+    date: '2026-08-22'
+    code: 674728
+    url: /works/674728/
   - title: Enjo Kouhai 15
     author: takunomi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680555.jpg
@@ -272,6 +288,14 @@ works:
     date: '2026-09-29'
     code: 680788
     url: /works/680788/
+  - title: Shiri de Onna o Miwakeru Ore wa Onna Joushi no Yowami o Nigiru | I, A Guy
+      Who Tells Women Apart By Their Asses, Got Blackmail On My Superior At Work
+    author: eco-heeky
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681445.jpg
+    rating: 4.4
+    date: '2026-09-16'
+    code: 681445
+    url: /works/681445/
   - title: Motokano-tachi to Ya Re Naoshi!? - CHAPTER 1-9
     author: shinonome-ryu-ogiue-chihiro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681503.jpg
@@ -286,4 +310,12 @@ works:
     date: '2026-09-26'
     code: 684061
     url: /works/684061/
+  - title: Saimin Gakuen 5 Saiminjutsu de Yari Houdai no Gakuen Harem o Te ni Ireta
+      Ore | I Used Hypnosis to Create a School Harem That I Can Fuck as Much as I Want
+    author: inagita
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685874.jpg
+    rating: 0.0
+    date: '2026-10-05'
+    code: 685874
+    url: /works/685874/
 ---

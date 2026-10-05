@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "mind control"
-work_count: 61
+work_count: 63
 works:
   - title: Ayami Hypno
     author: yasuhiro
@@ -79,7 +79,7 @@ works:
       ni Kaizou Shite Koibito ni Suru Keikaku~
     author: ueto-seri
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/528161.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-30'
     code: 528161
     url: /works/528161/
@@ -124,7 +124,7 @@ works:
   - title: Geriatric Dragons dogma
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/596562.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-30'
     code: 596562
     url: /works/596562/
@@ -190,7 +190,7 @@ works:
   - title: Mishiranu Boshi ni Yaritai Houdai
     author: tonda
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/635363.jpg
-    rating: 4.6
+    rating: 4.7
     date: '2026-03-07'
     code: 635363
     url: /works/635363/
@@ -322,6 +322,13 @@ works:
     date: '2026-08-22'
     code: 674869
     url: /works/674869/
+  - title: Moshimo Kemono de Kanjitara
+    author: chikiko
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678664.jpg
+    rating: 4.3
+    date: '2026-09-05'
+    code: 678664
+    url: /works/678664/
   - title: Shiofuki wa Omorashi ni Hairimasu ka? | Does squirting count as wetting yourself?
     author: hoshina-meito
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679599.jpg
@@ -442,7 +449,7 @@ works:
   - title: Houkago Saimin
     author: umashio-umau-mashio
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684898.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-30'
     code: 684898
     url: /works/684898/
@@ -450,8 +457,16 @@ works:
       the Cult- Part Two
     author: take-shinshi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685377.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-10-01'
     code: 685377
     url: /works/685377/
+  - title: Saimin Gakuen 5 Saiminjutsu de Yari Houdai no Gakuen Harem o Te ni Ireta
+      Ore | I Used Hypnosis to Create a School Harem That I Can Fuck as Much as I Want
+    author: inagita
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685874.jpg
+    rating: 0.0
+    date: '2026-10-05'
+    code: 685874
+    url: /works/685874/
 ---

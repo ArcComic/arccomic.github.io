@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "lolicon"
-work_count: 90
+work_count: 91
 works:
   - title: A-part | Apartment
     author: zero-no-mono
@@ -78,7 +78,7 @@ works:
   - title: Kinou Kantoku to Sex Shita | Yesterday, I Had Sex with the Supervisor
     author: hatch
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/466685.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-30'
     code: 466685
     url: /works/466685/
@@ -194,7 +194,7 @@ works:
   - title: Mishiranu Boshi ni Yaritai Houdai
     author: tonda
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/635363.jpg
-    rating: 4.6
+    rating: 4.7
     date: '2026-03-07'
     code: 635363
     url: /works/635363/
@@ -311,7 +311,7 @@ works:
   - title: Shiori no Nai Akumu
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662203.jpg
-    rating: 4.6
+    rating: 4.2
     date: '2026-07-08'
     code: 662203
     url: /works/662203/
@@ -455,7 +455,7 @@ works:
   - title: Ayano-chan wa Mashou Tenkousei
     author: nedia
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/674684.jpg
-    rating: 4.2
+    rating: 5.0
     date: '2026-08-21'
     code: 674684
     url: /works/674684/
@@ -641,17 +641,26 @@ works:
     date: '2026-09-27'
     code: 684322
     url: /works/684322/
+  - title: 'Ero RPG no Onna Shujinkou ni TS Tensei Shitara... 2-shou Shoukan-hen | When
+      I Got Reincarnated as the Heroine of an Erotic RPG After TS… Chapter 2: Brothel
+      Arc'
+    author: shimaji
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684542.jpg
+    rating: 4.3
+    date: '2026-09-28'
+    code: 684542
+    url: /works/684542/
   - title: Metsuki no Warui Kimi ga Suki
     author: tenpura-komoro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684897.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-30'
     code: 684897
     url: /works/684897/
-  - title: I should have never checked her phone
+  - title: Keitai nante Mirun ja Nakatta | I should have never checked her phone
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685242.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-10-01'
     code: 685242
     url: /works/685242/

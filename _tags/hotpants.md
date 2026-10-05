@@ -1,13 +1,13 @@
 ---
 layout: tag
 tag_name: "hotpants"
-work_count: 18
+work_count: 20
 works:
   - title: Namaiki na Imouto ga Ore no SeFri ni Natta Keii | How My Cheeky Little Sister
       and I Became Sex Friends With Benefits
     author: iron-sugar
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/404719.jpg
-    rating: 4.2
+    rating: 4.3
     date: '2026-09-17'
     code: 404719
     url: /works/404719/
@@ -94,11 +94,19 @@ works:
     date: '2026-04-27'
     code: 646385
     url: /works/646385/
+  - title: Trop 1 ~ Onabare Hitozuma no Sango Shojo o Itadakimasu~ | Trop 1 ~ I'll Take
+      the Post-Birth Virginity of a Married Woman Whose Masturbation Was Exposed~
+    author: higashide-irodori
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/648952.jpg
+    rating: 4.4
+    date: '2026-05-10'
+    code: 648952
+    url: /works/648952/
   - title: Itoko no Nee-chan no Oppai Mondara Ecchi Suru Koto ni Natta Hanashi. | The
       Story of How I Ended Up Having Sex After Groping My Cousin Sister's Boobs
     author: shouji-nigou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651928.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-09-30'
     code: 651928
     url: /works/651928/
@@ -117,6 +125,13 @@ works:
     date: '2026-08-31'
     code: 669505
     url: /works/669505/
+  - title: Yojouhan no Yuragi - Fluctuations in a Four-and-a-Half Tatami Room.
+    author: syoukaki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/672154.jpg
+    rating: 4.9
+    date: '2026-09-18'
+    code: 672154
+    url: /works/672154/
   - title: Yopparai Nee-chan no Jinsei ga Kouten suru Koudou Henyou | Behavioral Transformation
       That Turns the Life of a Drunk Lady Around
     author: toshiue-onee-san-tengoku

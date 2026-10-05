@@ -21,7 +21,7 @@ works:
   - title: Sukina Hito, Sukina Koto
     author: ebi-fry-teishoku
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/452482.jpg
-    rating: 4.8
+    rating: 4.7
     date: '2026-04-27'
     code: 452482
     url: /works/452482/
@@ -118,7 +118,7 @@ works:
   - title: Stupid women are forced to become breeding slaves
     author: carpsukidayo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/641858.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-10-02'
     code: 641858
     url: /works/641858/
@@ -191,7 +191,7 @@ works:
   - title: Choukyou Inroku Ni ~Kunoichi Hiiragi no Junan~
     author: carpsukidayo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/663482.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-02'
     code: 663482
     url: /works/663482/
@@ -202,8 +202,8 @@ works:
     date: '2026-07-16'
     code: 664429
     url: /works/664429/
-  - title: Hoken Taiiku de Jitsugi ga Hisshuu ni natta Sekai - A world where sex ed
-      is mandatory and it's all practical
+  - title: Hoken Taiiku de Sex ga Hisshuu ni natta Sekai - A world where sex ed is mandatory
+      and it's all practical | A World Where Practical Sex Ed is Mandatory
     author: toyama-jigoku
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/665207.jpg
     rating: 4.8
@@ -240,7 +240,8 @@ works:
     date: '2026-09-04'
     code: 677732
     url: /works/677732/
-  - title: Having Sex on the Day I Start Dating my Tomboyish Childhood Friend
+  - title: Boyish Osananajimi to Tsukiatta Hi ni Sekkusu Suru Dake | Having Sex on the
+      Day I Start Dating my Tomboyish Childhood Friend
     author: fuguta-ke
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679504.jpg
     rating: 4.6
@@ -281,7 +282,7 @@ works:
       no Senpai ga Kairaku ni Kuppuku Shite Ochiru made~
     author: yuzuriha
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684758.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-30'
     code: 684758
     url: /works/684758/

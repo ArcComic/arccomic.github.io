@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "classroom"
-work_count: 12
+work_count: 11
 works:
   - title: Kimiha Bokuno Keikokuno Bijyo | You're the Woman of my Dreams
     author: yasson-yoshiyuki
@@ -29,7 +29,7 @@ works:
   - title: Jimikei Bakunyuu Hirama-chan | The Busty, Unassuming Girl Hirama-chan
     author: kametaro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/646942.jpg
-    rating: 4.9
+    rating: 4.4
     date: '2026-04-30'
     code: 646942
     url: /works/646942/
@@ -77,18 +77,10 @@ works:
     date: '2026-09-22'
     code: 682858
     url: /works/682858/
-  - title: Gal to Otaku no Idenshi Aishou Batsugun H |  Hot Sex Between a Gal and an
-      Otaku With Perfect Genes Compatibility
-    author: joucho
-    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684305.jpg
-    rating: 4.3
-    date: '2026-09-27'
-    code: 684305
-    url: /works/684305/
   - title: Houkago Saimin
     author: umashio-umau-mashio
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684898.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-30'
     code: 684898
     url: /works/684898/

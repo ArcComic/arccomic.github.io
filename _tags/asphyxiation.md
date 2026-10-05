@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "asphyxiation"
-work_count: 18
+work_count: 21
 works:
   - title: My Dress Up Corpse
     author: mr-kurz
@@ -76,6 +76,13 @@ works:
     date: '2026-04-19'
     code: 623910
     url: /works/623910/
+  - title: Teikou Suru hodo Nurete Shimau | The more I resist, the wetter I get
+    author: tianoblue
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/643633.jpg
+    rating: 4.9
+    date: '2026-04-13'
+    code: 643633
+    url: /works/643633/
   - title: Otaku ni Yasashii Gal wa Aitsu no Kanojo | A Gal Who's Kind to Otaku Is That
       Guy's Girlfriend
     author: yamamoto
@@ -115,7 +122,7 @@ works:
   - title: Dr. Sae's Sexual Behavior Study
     author: torichamaru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/675652.jpg
-    rating: 4.3
+    rating: 4.5
     date: '2026-09-26'
     code: 675652
     url: /works/675652/
@@ -137,4 +144,19 @@ works:
     date: '2026-09-26'
     code: 684077
     url: /works/684077/
+  - title: Gal ni Natta Osananajimi to Chissoku Genkai Suichuu Ecchi! | My Childhood
+      Friend Turned into a Gal - A Near-Limit Asphyxiation Underwater Sex!
+    author: gyokuro-sakana
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685952.jpg
+    rating: 0.0
+    date: '2026-10-05'
+    code: 685952
+    url: /works/685952/
+  - title: LATEST
+    author: ratatatat74-mr-skull
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685961.jpg
+    rating: 0.0
+    date: '2026-10-05'
+    code: 685961
+    url: /works/685961/
 ---

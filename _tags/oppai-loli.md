@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "oppai loli"
-work_count: 7
+work_count: 9
 works:
   - title: A-part | Apartment
     author: zero-no-mono
@@ -13,7 +13,7 @@ works:
   - title: Mishiranu Boshi ni Yaritai Houdai
     author: tonda
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/635363.jpg
-    rating: 4.6
+    rating: 4.7
     date: '2026-03-07'
     code: 635363
     url: /works/635363/
@@ -31,6 +31,20 @@ works:
     date: '2026-09-25'
     code: 661967
     url: /works/661967/
+  - title: Shoujo Baishun Shima | Girl Prostitution Island
+    author: nada-shio
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662647.jpg
+    rating: 4.7
+    date: '2026-07-09'
+    code: 662647
+    url: /works/662647/
+  - title: Chinmai Iinchou wa Ore ni dake Himitsu o Misete Kureru
+    author: muku
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673952.jpg
+    rating: 4.8
+    date: '2026-08-19'
+    code: 673952
+    url: /works/673952/
   - title: Chibikko Nurunuru Harem Seikatsu
     author: ippon-lolicon-trap
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/674984.jpg

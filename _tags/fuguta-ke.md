@@ -54,7 +54,8 @@ works:
     date: '2026-05-26'
     code: 652244
     url: /works/652244/
-  - title: Having Sex on the Day I Start Dating my Tomboyish Childhood Friend
+  - title: Boyish Osananajimi to Tsukiatta Hi ni Sekkusu Suru Dake | Having Sex on the
+      Day I Start Dating my Tomboyish Childhood Friend
     author: fuguta-ke
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679504.jpg
     rating: 4.6

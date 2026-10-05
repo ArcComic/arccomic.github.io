@@ -27,7 +27,7 @@ works:
   - title: DeliHeal Yondara Gachi no Kaa-chan ga Kita Hanashi 2 | When I Ordered a Call
       Girl My Mom Actually Showed Up 2
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685728.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-10-02'
     code: 685728
     url: /works/685728/
@@ -35,7 +35,7 @@ works:
       | Call Girl Mom 3: Non-Stop Fucking With My Beloved Mom in Our Almost Live-in
       Sex Life'
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685733.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-02'
     code: 685733
     url: /works/685733/

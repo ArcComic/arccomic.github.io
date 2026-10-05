@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "virginity"
-work_count: 139
+work_count: 145
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -85,7 +85,7 @@ works:
       Time!!
     author: saemon
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/312587.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-30'
     code: 312587
     url: /works/312587/
@@ -93,7 +93,7 @@ works:
       obscene things...
     author: danimaru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/337171.jpg
-    rating: 4.5
+    rating: 4.4
     date: '2026-04-27'
     code: 337171
     url: /works/337171/
@@ -101,7 +101,7 @@ works:
       Reason Why a German Girl Takes a Bath Together With Me on Her Homestay
     author: gentsuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/344322.jpg
-    rating: 4.3
+    rating: 4.6
     date: '2026-09-17'
     code: 344322
     url: /works/344322/
@@ -116,7 +116,7 @@ works:
   - title: Kanojo Face | Girlfriend Face
     author: mashiro-shirako
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/346126.jpg
-    rating: 4.2
+    rating: 4.9
     date: '2026-07-13'
     code: 346126
     url: /works/346126/
@@ -182,7 +182,7 @@ works:
       and I Became Sex Friends With Benefits
     author: iron-sugar
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/404719.jpg
-    rating: 4.2
+    rating: 4.3
     date: '2026-09-17'
     code: 404719
     url: /works/404719/
@@ -268,18 +268,25 @@ works:
     date: '2026-03-05'
     code: 443909
     url: /works/443909/
+  - title: Mujikaku Shoujo wa Tashikametai | The Oblivious Girl Wants to Make Sure
+    author: ouji-hiyoko
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/450112.jpg
+    rating: 4.9
+    date: '2026-09-18'
+    code: 450112
+    url: /works/450112/
   - title: Otonari no Darashina Onee-san ni Nagusamerareru Hanashi | Comforted by the
       Sloppy Girl Next Door
     author: shouji-nigou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/451846.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-30'
     code: 451846
     url: /works/451846/
   - title: Sukina Hito, Sukina Koto
     author: ebi-fry-teishoku
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/452482.jpg
-    rating: 4.8
+    rating: 4.7
     date: '2026-04-27'
     code: 452482
     url: /works/452482/
@@ -360,7 +367,7 @@ works:
       ni Kaizou Shite Koibito ni Suru Keikaku~
     author: ueto-seri
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/528161.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-30'
     code: 528161
     url: /works/528161/
@@ -573,7 +580,7 @@ works:
       COMPLETE
     author: igumox
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/624573.jpg
-    rating: 4.2
+    rating: 4.8
     date: '2026-05-26'
     code: 624573
     url: /works/624573/
@@ -586,6 +593,13 @@ works:
     date: '2026-09-04'
     code: 625933
     url: /works/625933/
+  - title: Hitozuma-tachi no Kiken na Jouji | The Housewife's Dangerous Situation
+    author: homare
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/627722.jpg
+    rating: 0.0
+    date: '2026-10-05'
+    code: 627722
+    url: /works/627722/
   - title: Boku no Toshiue no Tomodachi | My Older Friend
     author: buta
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/631036.jpg
@@ -717,7 +731,7 @@ works:
   - title: My Annoying Little Cousin Stole My First Time
     author: karube-guri
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/647853.jpg
-    rating: 4.7
+    rating: 4.4
     date: '2026-05-07'
     code: 647853
     url: /works/647853/
@@ -732,7 +746,7 @@ works:
       And Cousin's Pussy
     author: karube-guri
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/648522.jpg
-    rating: 4.2
+    rating: 4.9
     date: '2026-05-07'
     code: 648522
     url: /works/648522/
@@ -776,7 +790,7 @@ works:
       Story of How I Ended Up Having Sex After Groping My Cousin Sister's Boobs
     author: shouji-nigou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651928.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-09-30'
     code: 651928
     url: /works/651928/
@@ -787,6 +801,13 @@ works:
     date: '2026-05-26'
     code: 652218
     url: /works/652218/
+  - title: Seishidouin no Oshigoto Soushuuhen1 | Sex Instructor Compilation Vol. 1
+    author: malcorond
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/653978.jpg
+    rating: 4.8
+    date: '2026-07-07'
+    code: 653978
+    url: /works/653978/
   - title: Majime na Kimi ni Hamaru Karada
     author: alp
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654010.jpg
@@ -809,6 +830,13 @@ works:
     date: '2026-09-25'
     code: 654681
     url: /works/654681/
+  - title: Kyoudai Yuugi | Sibling Game
+    author: takei-masaki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/655441.jpg
+    rating: 4.3
+    date: '2026-07-07'
+    code: 655441
+    url: /works/655441/
   - title: 'Chinmake Kouman Okugata-sama | Haughty Housewives: Defeated by Dick'
     author: minamida-usuke
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/657459.jpg
@@ -915,6 +943,13 @@ works:
     date: '2026-08-20'
     code: 674233
     url: /works/674233/
+  - title: Tonari no Ko | The Girl Next Door
+    author: oyabe-ryo-isurugi-ryo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/674496.jpg
+    rating: 4.6
+    date: '2026-08-21'
+    code: 674496
+    url: /works/674496/
   - title: Maou Hime wa Koui ga Jakuten | The Demon Lord Princess is Weak to Affection
     author: monchan-rev3
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/674710.jpg
@@ -967,7 +1002,8 @@ works:
     date: '2026-09-06'
     code: 678913
     url: /works/678913/
-  - title: Having Sex on the Day I Start Dating my Tomboyish Childhood Friend
+  - title: Boyish Osananajimi to Tsukiatta Hi ni Sekkusu Suru Dake | Having Sex on the
+      Day I Start Dating my Tomboyish Childhood Friend
     author: fuguta-ke
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679504.jpg
     rating: 4.6
@@ -1026,6 +1062,13 @@ works:
     date: '2026-09-19'
     code: 682307
     url: /works/682307/
+  - title: Tonikaku Yaritai Gal ga Kyokon Otaku ni Deattara
+    author: tokunaga
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684061.jpg
+    rating: 4.1
+    date: '2026-09-26'
+    code: 684061
+    url: /works/684061/
   - title: Kakko Ii kara Suki [English] retranslated
     author: hyde-ride
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684641.jpg

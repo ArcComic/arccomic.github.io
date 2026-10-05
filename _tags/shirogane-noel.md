@@ -13,7 +13,7 @@ works:
   - title: Danchou wa Zettai ni Barenai.
     author: ueto-seri
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/575361.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-30'
     code: 575361
     url: /works/575361/

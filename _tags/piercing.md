@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "piercing"
-work_count: 44
+work_count: 45
 works:
   - title: Makai Kishi Ingrid ni Nakadashi Dekiru Soapland | A Soapland Where You Can
       Creampie Dark Knight Ingrid
@@ -170,7 +170,7 @@ works:
   - title: Choukyou Inroku Ni ~Kunoichi Hiiragi no Junan~
     author: carpsukidayo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/663482.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-02'
     code: 663482
     url: /works/663482/
@@ -188,6 +188,13 @@ works:
     date: '2026-09-19'
     code: 667314
     url: /works/667314/
+  - title: Black Kigyou No Kamin Shitsu Ga Yari Beya Ni Natteta Hanashi
+    author: oshima-aki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/668297.jpg
+    rating: 4.9
+    date: '2026-09-04'
+    code: 668297
+    url: /works/668297/
   - title: Totsuzen Ane ga Dekita Hanashi 4 | The Story of How I Suddenly Got Older
       Sisters 4
     author: oshima-aki
@@ -268,10 +275,10 @@ works:
     date: '2026-09-18'
     code: 682176
     url: /works/682176/
-  - title: 寝取らせクラブに送り出した不感症のダウナー彼女の報告 | 送往绿帽俱乐部的性冷淡阴沉女友的报告
+  - title: Netorase Club ni Okuridashita Fukanshou no Downer Kanojo no Houkoku
     author: sanuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682385.jpg
-    rating: 4.2
+    rating: 4.3
     date: '2026-09-19'
     code: 682385
     url: /works/682385/
@@ -297,13 +304,6 @@ works:
     date: '2026-09-22'
     code: 683137
     url: /works/683137/
-  - title: Kuro-Gal Mama-san Haramasex
-    author: ooshima-ryou
-    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683312.jpg
-    rating: 4.3
-    date: '2026-09-23'
-    code: 683312
-    url: /works/683312/
   - title: 'Kokujin no Tenkousei NTR ru Chapters 1-6 part 1 Plus Bonus chapter: Stolen
       Mother’s Breasts'
     author: terasu-mc
@@ -315,15 +315,22 @@ works:
   - title: Ratatatat74 09/26 post 5$+
     author: ratatatat74-mr-skull
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685546.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-10-03'
     code: 685546
     url: /works/685546/
   - title: Poison Assort
     author: kerenme
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685785.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-10-03'
     code: 685785
     url: /works/685785/
+  - title: LATEST
+    author: ratatatat74-mr-skull
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685961.jpg
+    rating: 0.0
+    date: '2026-10-05'
+    code: 685961
+    url: /works/685961/
 ---

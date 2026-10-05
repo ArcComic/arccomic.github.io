@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "drugs"
-work_count: 39
+work_count: 40
 works:
   - title: A-part | Apartment
     author: zero-no-mono
@@ -112,7 +112,7 @@ works:
       node Mama ga Shori Shimasu. | Mom's obsessed with her Daughter's Boyfriend 2
     author: ohnaka-ito
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/612425.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-30'
     code: 612425
     url: /works/612425/
@@ -154,6 +154,13 @@ works:
     date: '2026-05-04'
     code: 647740
     url: /works/647740/
+  - title: Kawaii Kanojo ni Goyoujin!? 2 | Beware of Cute Girlfriends! 2
+    author: marialite
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/649111.jpg
+    rating: 4.8
+    date: '2026-05-10'
+    code: 649111
+    url: /works/649111/
   - title: Reibaishi Mikoto 2 Kairaku ni Zanpai su... Hentai Jijii to no Seikou no Gishiki
       de Ikikuruwasareru Shoujo no Karada
     author: sawacream
@@ -220,8 +227,8 @@ works:
     date: '2026-08-23'
     code: 675048
     url: /works/675048/
-  - title: 'Drowing in LUST: I Was Drugged By My Shameless Junior | Indeki ~Hikyou na
-      Kouhai ni Oboresaserareta Watashi~'
+  - title: 'Indeki ~Hikyou na Kouhai ni Oboresaserareta Watashi~ | Drowing in LUST:
+      I Was Drugged By My Shameless Junior'
     author: mittsuman
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678720.jpg
     rating: 4.5
@@ -235,8 +242,8 @@ works:
     date: '2026-09-07'
     code: 679197
     url: /works/679197/
-  - title: Tachibana-san-chi no Dansei Jijou 2 | The Tachibana Household's Male Affairs
-      2
+  - title: Tachibana-san-chi no Dansei Jijou Matome Ban | The Tachibana Household's
+      Male Affairs
     author: jin
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681720.jpg
     rating: 4.8
@@ -251,6 +258,13 @@ works:
     date: '2026-09-19'
     code: 682339
     url: /works/682339/
+  - title: Kayoko ga S ni Ochiru Made - Until Kayoko falls into S.
+    author: nichijou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682579.jpg
+    rating: 4.2
+    date: '2026-09-20'
+    code: 682579
+    url: /works/682579/
   - title: Soku Hame! Muwatto Ase Mure Musume - Let's Sex! Sweaty Girls
     author: fetio
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683319.jpg
@@ -258,19 +272,12 @@ works:
     date: '2026-09-23'
     code: 683319
     url: /works/683319/
-  - title: Provoking Men
-    author: pororivista
-    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684647.jpg
-    rating: 5.0
-    date: '2026-09-28'
-    code: 684647
-    url: /works/684647/
   - title: Oho-goe Koubi Do-hamari Onee-san ~Futanari Joshi Daisei Senyou Koki Ana~
       | An Onee-san Gets Totally Hooked on Sex That Makes Her Moan Like Crazy! ~And
       Becomes the Exclusive Fuck-Hole of a Futanari College Girl~
     author: ginger-lily
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685207.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-10-01'
     code: 685207
     url: /works/685207/
@@ -278,14 +285,14 @@ works:
       the Cult- Part Two
     author: take-shinshi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685377.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-10-01'
     code: 685377
     url: /works/685377/
   - title: Ichiya no Yume Senya No Maboroshi 1-7
     author: sanbun-kyoden
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685727.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-10-02'
     code: 685727
     url: /works/685727/

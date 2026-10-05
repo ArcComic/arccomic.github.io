@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "smalldom"
-work_count: 30
+work_count: 31
 works:
   - title: Oshi ni Yowai Kanojo ni Netorase nante Tanomanakereba Yokatta... | I Wish
       I Had Never Begged My Pushover Girlfriend To Cuck Me...
@@ -36,7 +36,7 @@ works:
       wa Yakinaoshi ja Nai yo. Settei Igai wa Sinsaku da yo. Sonna Kanji no Vol. 2 desu
     author: haruharudo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/632056.jpg
-    rating: 4.1
+    rating: 4.2
     date: '2026-07-17'
     code: 632056
     url: /works/632056/
@@ -58,7 +58,7 @@ works:
   - title: Koitsu majide choro katta 〜 kinjo no shingurumaza-hen 〜
     author: doron
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642018.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-30'
     code: 642018
     url: /works/642018/
@@ -146,6 +146,13 @@ works:
     date: '2026-09-30'
     code: 671419
     url: /works/671419/
+  - title: Boku-tachi Mama to Yattemasu
+    author: ameto-yuki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/672450.jpg
+    rating: 4.5
+    date: '2026-08-25'
+    code: 672450
+    url: /works/672450/
   - title: Yome no Tsurego ni Otosareru Boku | I was Seduced by My Wife's Child from
       a Previous Marriage
     author: sabano-fudeoki
@@ -192,8 +199,9 @@ works:
     date: '2026-09-05'
     code: 676528
     url: /works/676528/
-  - title: Having Intense, Romantic Raw Sex With A 8-foot Tall Woman I Met On A Dating
-      App
+  - title: MatchApp de Atta Hachishaku-sama ni Gyaku Tanetsuke Press Sarenagara IchaLove
+      Noukou Namashibori Sex | Having Intense, Romantic Raw Sex With A 8-foot Tall Woman
+      I Met On A Dating App
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679942.jpg
     rating: 4.6

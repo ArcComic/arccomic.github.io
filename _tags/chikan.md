@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "chikan"
-work_count: 22
+work_count: 23
 works:
   - title: Kyodou Fushin Joshi
     author: uds
@@ -10,6 +10,15 @@ works:
     date: '2026-09-15'
     code: 339953
     url: /works/339953/
+  - title: Seitraishi ni Jirasare Tsuzuketa Tsuma ~Otto ni wa Ienai Nureiki Massage
+      1-3 | A Wife who Gets Teased Continually by a Masseur ー A Massage that Makes Me
+      Cum Behind My Husband’s Back 1-3
+    author: icelatte
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/509584.jpg
+    rating: 0.0
+    date: '2026-10-05'
+    code: 509584
+    url: /works/509584/
   - title: IKUu!! Zenkou Seito no Mae de Koukai Zecchou-saserareta JK no Matsuro 1 |
       Cumming in Front of the Entire Student Body 1
     author: ouma
@@ -67,7 +76,7 @@ works:
   - title: Majime na Salaryman ga JK Chijo ni Otosareru Hanashi
     author: hamo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/652651.jpg
-    rating: 4.1
+    rating: 4.7
     date: '2026-08-28'
     code: 652651
     url: /works/652651/
@@ -114,8 +123,9 @@ works:
     date: '2026-07-17'
     code: 664770
     url: /works/664770/
-  - title: Having Intense, Romantic Raw Sex With A 8-foot Tall Woman I Met On A Dating
-      App
+  - title: MatchApp de Atta Hachishaku-sama ni Gyaku Tanetsuke Press Sarenagara IchaLove
+      Noukou Namashibori Sex | Having Intense, Romantic Raw Sex With A 8-foot Tall Woman
+      I Met On A Dating App
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679942.jpg
     rating: 4.6
@@ -156,14 +166,14 @@ works:
       no Senpai ga Kairaku ni Kuppuku Shite Ochiru made~
     author: yuzuriha
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684758.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-30'
     code: 684758
     url: /works/684758/
   - title: YOUR SISTER - CHAPTER 1-16
     author: konparu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684882.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-30'
     code: 684882
     url: /works/684882/

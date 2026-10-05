@@ -15,7 +15,7 @@ works:
     url: /works/674663/
   - *id001
   - &id002
-    title: Boku no Aisuru Tsuma o Daite Kudasai 1 - 3
+    title: Boku no Aisuru Tsuma o Daite Kudasai 1-3
     author: smells-like
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679771.jpg
     rating: 4.6

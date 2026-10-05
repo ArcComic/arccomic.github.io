@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bbw"
-work_count: 56
+work_count: 58
 works:
   - title: My Care Lady Ch. 1
     author: sugi-g
@@ -64,7 +64,7 @@ works:
       Sloppy Girl Next Door
     author: shouji-nigou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/451846.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-30'
     code: 451846
     url: /works/451846/
@@ -140,6 +140,13 @@ works:
     date: '2026-09-19'
     code: 629027
     url: /works/629027/
+  - title: Haha to Yaru to Iukoto
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/633840.jpg
+    rating: 0.0
+    date: '2026-10-05'
+    code: 633840
+    url: /works/633840/
   - title: Chijo Monogatari Bakunyuu Chijukujo to Doutei-kun
     author: enma
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/635174.jpg
@@ -169,6 +176,14 @@ works:
     date: '2026-09-12'
     code: 646022
     url: /works/646022/
+  - title: Momoiro Kikyou Boku no Hajimete wa Toshiue Bakunyuu Soap-jou｜Pink Bellflower∶
+      My First Experience with an Older Busty Soapland Lady
+    author: enma
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/646870.jpg
+    rating: 4.8
+    date: '2026-04-30'
+    code: 646870
+    url: /works/646870/
   - title: Okaa-san ni wa Kore Gurai shika Dekinai kara... 2 | For Mom the Only Option
       Left is... 2
     author: muchipan
@@ -198,6 +213,14 @@ works:
     date: '2026-07-11'
     code: 651309
     url: /works/651309/
+  - title: Akogare no Tomo Mama to Matching Shita Ken | The Time I Matched With My Admired
+      Friend's Mom
+    author: shimofuri
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651895.jpg
+    rating: 4.2
+    date: '2026-09-12'
+    code: 651895
+    url: /works/651895/
   - title: Kaa-san no Nude Model o Shite Itara, Kaa-san no Panchira Mite Bokki Shite
       Shimai, Soshite...... | I was acting as a nude model for my mom, but then... I
       caught a glimpse of her panties, got a boner, and well...
@@ -274,7 +297,15 @@ works:
     date: '2026-09-15'
     code: 678797
     url: /works/678797/
-  - title: Boku no Aisuru Tsuma o Daite Kudasai 1 - 3
+  - title: I'll turn a divorced woman and a nagging housewife into ripe, voluptuous
+      sex toys with their complicated pasts
+    author: gagarin-kichi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678909.jpg
+    rating: 4.8
+    date: '2026-09-07'
+    code: 678909
+    url: /works/678909/
+  - title: Boku no Aisuru Tsuma o Daite Kudasai 1-3
     author: smells-like
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679771.jpg
     rating: 4.6
@@ -377,13 +408,6 @@ works:
     date: '2026-09-23'
     code: 683228
     url: /works/683228/
-  - title: Kuro-Gal Mama-san Haramasex
-    author: ooshima-ryou
-    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683312.jpg
-    rating: 4.3
-    date: '2026-09-23'
-    code: 683312
-    url: /works/683312/
   - title: Insuru Juku Ashi
     author: taba
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683318.jpg
@@ -398,19 +422,11 @@ works:
     date: '2026-09-24'
     code: 683679
     url: /works/683679/
-  - title: Basaki no Dekkai Senpai ga Kowakute Kawaii. | My Huge Senpai at Work is Scary
-      and Cute
-    author: etuzan-jakusui
-    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683841.jpg
-    rating: 4.4
-    date: '2026-09-25'
-    code: 683841
-    url: /works/683841/
   - title: Jichikai no Hitozuma wa Totemo Ecchi Deshita. 5 Nakahara Keiko no hurin nakada
       si sex hen
     author: tsusauto
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685828.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-03'
     code: 685828
     url: /works/685828/

@@ -5,7 +5,7 @@ work_count: 7
 works:
   - title: Okatai Onna to Iwanaide | Don't call me an Old Maid!
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/276396.jpg
-    rating: 4.8
+    rating: 4.2
     date: '2026-09-06'
     code: 276396
     url: /works/276396/
@@ -30,7 +30,7 @@ works:
     url: /works/635984/
   - title: Tonari no Ayane-san Soushuuhen | My Neighbor Ayane Anthology
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/656319.jpg
-    rating: 4.8
+    rating: 4.4
     date: '2026-08-18'
     code: 656319
     url: /works/656319/

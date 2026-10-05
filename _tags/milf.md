@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "milf"
-work_count: 438
+work_count: 442
 works:
   - title: Life with Married Women Just Like a Manga 2 - Ch. 1-5
     author: hidemaru
@@ -319,7 +319,7 @@ works:
   - title: Soubo Soukan 2 | Twin mothers incest 2 FULL
     author: nanao-yukiji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/378626.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-10-01'
     code: 378626
     url: /works/378626/
@@ -493,6 +493,13 @@ works:
     date: '2026-09-29'
     code: 437583
     url: /works/437583/
+  - title: Fucking My Friend's Mom With My Big Cock On Christmas Eve
+    author: rk-2
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/439275.jpg
+    rating: 4.2
+    date: '2026-09-29'
+    code: 439275
+    url: /works/439275/
   - title: Kaa-san ni wa Ore no Ko o Unde Morau | My mother is going to have my baby
     author: matsumoto-jikyuuryoku
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/444152.jpg
@@ -636,7 +643,7 @@ works:
   - title: Datenshi no Yuuwaku -Office Angel Project- 1
     author: hiraoka-ryuichi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/491622.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-30'
     code: 491622
     url: /works/491622/
@@ -666,7 +673,7 @@ works:
       My Mom~
     author: hara-shigeyuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/504221.jpg
-    rating: 4.9
+    rating: 5.0
     date: '2026-04-19'
     code: 504221
     url: /works/504221/
@@ -872,7 +879,7 @@ works:
   - title: Haha Netori
     author: aoi-hitori
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/527171.jpg
-    rating: 4.4
+    rating: 4.3
     date: '2026-04-16'
     code: 527171
     url: /works/527171/
@@ -1060,7 +1067,7 @@ works:
   - title: Choukyou Zumi Hitozuma OL wa Joushi ni Dakare Futatabi Ochiru
     author: toono-suika
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/550164.jpg
-    rating: 4.0
+    rating: 4.4
     date: '2026-07-10'
     code: 550164
     url: /works/550164/
@@ -1139,7 +1146,7 @@ works:
       - A Story About a Mother Who Became Addicted to Sex With a Yakuza
     author: watsondou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/557052.jpg
-    rating: 4.4
+    rating: 4.2
     date: '2026-05-07'
     code: 557052
     url: /works/557052/
@@ -1449,7 +1456,7 @@ works:
       Family 0 - The story of a mother who got hooked on sex with a Yakuza
     author: watsondou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/596687.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-30'
     code: 596687
     url: /works/596687/
@@ -1523,7 +1530,7 @@ works:
   - title: Kedamono no Ko wa Kedamono | The Child of a Beast is a Beast
     author: karashina-en
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/612063.jpg
-    rating: 4.3
+    rating: 4.6
     date: '2026-09-11'
     code: 612063
     url: /works/612063/
@@ -1538,7 +1545,7 @@ works:
       node Mama ga Shori Shimasu. | Mom's obsessed with her Daughter's Boyfriend 2
     author: ohnaka-ito
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/612425.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-30'
     code: 612425
     url: /works/612425/
@@ -1631,10 +1638,17 @@ works:
   - title: Countryside Married Women[Heartless _MTL] English
     author: tadano-mezashi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/621436.jpg
-    rating: 4.1
+    rating: 4.9
     date: '2026-09-17'
     code: 621436
     url: /works/621436/
+  - title: Hitozuma-tachi no Kiken na Jouji | The Housewife's Dangerous Situation
+    author: homare
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/627722.jpg
+    rating: 0.0
+    date: '2026-10-05'
+    code: 627722
+    url: /works/627722/
   - title: I have a secret relationship with my grandmother, without my mother knowing...
       ♡
     author: popotto-denki-ichigouten
@@ -1647,7 +1661,7 @@ works:
       | Slutty Wife!'
     author: kametaro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/629368.jpg
-    rating: 4.4
+    rating: 4.8
     date: '2026-04-30'
     code: 629368
     url: /works/629368/
@@ -1662,7 +1676,7 @@ works:
   - title: Haha ni Muketa Seiyoku
     author: maccha-neji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/632534.jpg
-    rating: 4.1
+    rating: 4.3
     date: '2026-03-04'
     code: 632534
     url: /works/632534/
@@ -1673,6 +1687,13 @@ works:
     date: '2026-03-02'
     code: 633453
     url: /works/633453/
+  - title: Haha to Yaru to Iukoto
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/633840.jpg
+    rating: 0.0
+    date: '2026-10-05'
+    code: 633840
+    url: /works/633840/
   - title: Tada Sex Shitakatta dake nano ni SNS de Deatta Bimajo ga Scatolo Mania de,
       Boku wa... 1
     author: bonske
@@ -1736,7 +1757,7 @@ works:
   - title: Mishiranu Boshi ni Yaritai Houdai
     author: tonda
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/635363.jpg
-    rating: 4.6
+    rating: 4.7
     date: '2026-03-07'
     code: 635363
     url: /works/635363/
@@ -1847,14 +1868,14 @@ works:
   - title: Koitsu majide choro katta 〜 kinjo no shingurumaza-hen 〜
     author: doron
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642018.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-30'
     code: 642018
     url: /works/642018/
   - title: Haruna wa Kyou kara Sachiko ni Narimashita.
     author: mashumarodan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642023.jpg
-    rating: 4.8
+    rating: 4.1
     date: '2026-09-05'
     code: 642023
     url: /works/642023/
@@ -2046,7 +2067,7 @@ works:
       i hate!
     author: watsondou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/648591.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-30'
     code: 648591
     url: /works/648591/
@@ -2075,7 +2096,7 @@ works:
   - title: Inkan no Ketsuzoku 1-3
     author: diisuke
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651242.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-09-30'
     code: 651242
     url: /works/651242/
@@ -2198,7 +2219,7 @@ works:
   - title: Hirusagari no Otetsudai
     author: mogiki-hayami
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/656686.jpg
-    rating: 4.4
+    rating: 4.1
     date: '2026-08-21'
     code: 656686
     url: /works/656686/
@@ -2226,7 +2247,7 @@ works:
   - title: Oba-san to Umi no Ie de
     author: soba
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/657559.jpg
-    rating: 4.1
+    rating: 4.6
     date: '2026-09-11'
     code: 657559
     url: /works/657559/
@@ -2359,7 +2380,7 @@ works:
       no Love Hame Koukanroku File 03
     author: tsukino-jyogi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662653.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-30'
     code: 662653
     url: /works/662653/
@@ -2470,7 +2491,7 @@ works:
   - title: MORAL HAZARD ~Haitoku no Kyoudan~
     author: hiraoka-ryuichi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/66420.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-30'
     code: 66420
     url: /works/66420/
@@ -2486,7 +2507,7 @@ works:
   - title: Chijo Tsuma no Tawamure ~Zenpen~ _ My Boss Has a Slutty Wife Part 1
     author: hikitogu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/664679.jpg
-    rating: 4.0
+    rating: 4.1
     date: '2026-07-16'
     code: 664679
     url: /works/664679/
@@ -2502,7 +2523,7 @@ works:
       Into Darkness'
     author: hoshino-ryuichi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/664937.jpg
-    rating: 4.2
+    rating: 4.7
     date: '2026-07-17'
     code: 664937
     url: /works/664937/
@@ -2599,7 +2620,7 @@ works:
       2
     author: gya-tei
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/672692.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-09-30'
     code: 672692
     url: /works/672692/
@@ -2754,7 +2775,7 @@ works:
       sex toys with their complicated pasts
     author: gagarin-kichi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678909.jpg
-    rating: 4.0
+    rating: 4.8
     date: '2026-09-07'
     code: 678909
     url: /works/678909/
@@ -2794,13 +2815,6 @@ works:
     date: '2026-09-09'
     code: 679770
     url: /works/679770/
-  - title: nannal - Hahaoya Shikkaku ーMama wa Benjoー
-    author: nannal
-    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679774.jpg
-    rating: 4.3
-    date: '2026-09-09'
-    code: 679774
-    url: /works/679774/
   - title: The Face I Show My Husband Is Different | Otto no Mae to wa Chigau Kao [English]
       [Cookie Cruncher
     author: jirou
@@ -2827,7 +2841,7 @@ works:
   - title: Fucking slut ~Welcome to the training room~ MTL
     author: mabo-nasu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680326.jpg
-    rating: 4.6
+    rating: 4.3
     date: '2026-09-11'
     code: 680326
     url: /works/680326/
@@ -2914,6 +2928,13 @@ works:
     date: '2026-09-17'
     code: 681991
     url: /works/681991/
+  - title: Shikatanaku Kaa-chan to Sex Shimasu 9
+    author: shimipan
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682182.jpg
+    rating: 4.5
+    date: '2026-09-18'
+    code: 682182
+    url: /works/682182/
   - title: This Is The Story Of A Mother Who Ends Up Comforting Her Heartbroken Son
       With Her Body.
     author: makoto-shiyaka
@@ -2988,13 +3009,6 @@ works:
     date: '2026-09-23'
     code: 683307
     url: /works/683307/
-  - title: Kuro-Gal Mama-san Haramasex
-    author: ooshima-ryou
-    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683312.jpg
-    rating: 4.3
-    date: '2026-09-23'
-    code: 683312
-    url: /works/683312/
   - title: SAIWAI ~Onna-tachi no Ura no Kao~
     author: taba
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683314.jpg
@@ -3167,18 +3181,18 @@ works:
     date: '2026-09-28'
     code: 684647
     url: /works/684647/
-  - title: Anenuma. ~Seiso na Onee-san wa Boku o Yasashiku Juurin Suru~ | Anenuma. ~My
-      Stepsister's Gentle Domination~
-    author: pontaro
-    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684789.jpg
-    rating: 4.1
-    date: '2026-09-29'
-    code: 684789
-    url: /works/684789/
+  - title: Jichikai no Hitozuma wa Totemo Ecchi Deshita. 4 Natsu matsuri moto jikkou
+      iin Miyamori Chizuru-hen
+    author: tsusauto
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685661.jpg
+    rating: 0.0
+    date: '2026-10-05'
+    code: 685661
+    url: /works/685661/
   - title: Ichiya no Yume Senya No Maboroshi 1-7
     author: sanbun-kyoden
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685727.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-10-02'
     code: 685727
     url: /works/685727/
@@ -3186,7 +3200,7 @@ works:
       Girl My Mom Actually Showed Up 2
     author: tarobaumu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685728.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-10-02'
     code: 685728
     url: /works/685728/
@@ -3195,7 +3209,7 @@ works:
       Sex Life'
     author: tarobaumu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685733.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-02'
     code: 685733
     url: /works/685733/
@@ -3203,10 +3217,24 @@ works:
       si sex hen
     author: tsusauto
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685828.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-03'
     code: 685828
     url: /works/685828/
+  - title: LATEST
+    author: ratatatat74-mr-skull
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685961.jpg
+    rating: 0.0
+    date: '2026-10-05'
+    code: 685961
+    url: /works/685961/
+  - title: lots of sex in the future! Bulma and Gohan manga colors
+    author: yamamoto
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686031.jpg
+    rating: 0.0
+    date: '2026-10-05'
+    code: 686031
+    url: /works/686031/
   - title: Jokyoushi - Hot For Teachers | Female Teachers
     author: drill-murata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/81375.jpg

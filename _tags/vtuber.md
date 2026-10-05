@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "vtuber"
-work_count: 15
+work_count: 17
 works:
   - title: Giragira no Beach
     author: shimantogawa
@@ -20,7 +20,7 @@ works:
   - title: Danchou wa Zettai ni Barenai.
     author: ueto-seri
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/575361.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-30'
     code: 575361
     url: /works/575361/
@@ -95,6 +95,13 @@ works:
     date: '2026-09-17'
     code: 681700
     url: /works/681700/
+  - title: Maid Time
+    author: sifarid
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682199.jpg
+    rating: 4.2
+    date: '2026-09-18'
+    code: 682199
+    url: /works/682199/
   - title: SHIORIHAZARD
     author: wise-speak-kogasaki-yuina
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684611.jpg
@@ -102,10 +109,17 @@ works:
     date: '2026-09-28'
     code: 684611
     url: /works/684611/
-  - title: I should have never checked her phone
+  - title: My Boss Detective Keeps on Teasing Me
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684848.jpg
+    rating: 4.5
+    date: '2026-09-30'
+    code: 684848
+    url: /works/684848/
+  - title: Keitai nante Mirun ja Nakatta | I should have never checked her phone
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685242.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-10-01'
     code: 685242
     url: /works/685242/

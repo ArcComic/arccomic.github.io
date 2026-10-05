@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "twintails"
-work_count: 125
+work_count: 123
 works:
   - title: Sensei wa Shougakusei ga Suki | Sensei Loves Elementary Schoolers
     author: fuyuno-mikan
@@ -218,7 +218,7 @@ works:
   - title: Mesu no Ie II ~Tsuma wa Midare Ubareru~
     author: ame-arare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/591112.jpg
-    rating: 4.3
+    rating: 5.0
     date: '2026-05-01'
     code: 591112
     url: /works/591112/
@@ -380,7 +380,7 @@ works:
   - title: My Annoying Little Cousin Stole My First Time
     author: karube-guri
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/647853.jpg
-    rating: 4.7
+    rating: 4.4
     date: '2026-05-07'
     code: 647853
     url: /works/647853/
@@ -388,7 +388,7 @@ works:
       And Cousin's Pussy
     author: karube-guri
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/648522.jpg
-    rating: 4.2
+    rating: 4.9
     date: '2026-05-07'
     code: 648522
     url: /works/648522/
@@ -515,7 +515,7 @@ works:
   - title: Shiori no Nai Akumu
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662203.jpg
-    rating: 4.6
+    rating: 4.2
     date: '2026-07-08'
     code: 662203
     url: /works/662203/
@@ -623,7 +623,7 @@ works:
   - title: Ayano-chan wa Mashou Tenkousei
     author: nedia
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/674684.jpg
-    rating: 4.2
+    rating: 5.0
     date: '2026-08-21'
     code: 674684
     url: /works/674684/
@@ -749,8 +749,7 @@ works:
     date: '2026-09-13'
     code: 681028
     url: /works/681028/
-  - title: '108P! ~1-nengo ni Zettai 108P Suru Hanashi~ (108P!: A Promise to 108P in
-      a Year) 10'
+  - title: 108 P! 1 Nen Go Ni Zettai 108 P Suru Hanashi Ch. 10
     author: en
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681463.jpg
     rating: 4.7
@@ -859,20 +858,6 @@ works:
     date: '2026-09-24'
     code: 683693
     url: /works/683693/
-  - title: Oshikake Jealousy | Uninvited Jealousy
-    author: aiu
-    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684209.jpg
-    rating: 4.2
-    date: '2026-09-27'
-    code: 684209
-    url: /works/684209/
-  - title: Namaiki Gal o Succubus ni Shite Oshioki Shitatta Ken Final
-    author: takurowo
-    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684215.jpg
-    rating: 4.3
-    date: '2026-09-27'
-    code: 684215
-    url: /works/684215/
   - title: Oyaji no Saikon Aite wa Sukidatta Boku no Osananajimi
     author: makuma-ikeru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684314.jpg
@@ -892,29 +877,22 @@ works:
   - title: Metsuki no Warui Kimi ga Suki
     author: tenpura-komoro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684897.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-30'
     code: 684897
     url: /works/684897/
   - title: Damatte Watashi o Dakinasai
     author: shimono-cable
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685197.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-10-01'
     code: 685197
     url: /works/685197/
-  - title: Papa no Shinshitsu wa Musume Tomodachi no Tamariba 5 -Ninshin Houkoku Hen-
-    author: richard-bahman
-    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685678.jpg
-    rating: 0.0
-    date: '2026-10-02'
-    code: 685678
-    url: /works/685678/
   - title: Mukatsuku Imouto wa Chanto Shikaranakucha 1-36 Matome | Annoying Little Sister
       Needs to be Scolded 1-36
     author: juna-juna-juice
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685683.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-02'
     code: 685683
     url: /works/685683/
@@ -925,4 +903,12 @@ works:
     date: '2026-10-03'
     code: 685702
     url: /works/685702/
+  - title: Saimin Gakuen 5 Saiminjutsu de Yari Houdai no Gakuen Harem o Te ni Ireta
+      Ore | I Used Hypnosis to Create a School Harem That I Can Fuck as Much as I Want
+    author: inagita
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685874.jpg
+    rating: 0.0
+    date: '2026-10-05'
+    code: 685874
+    url: /works/685874/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "ffm threesome"
-work_count: 131
+work_count: 138
 works:
   - title: Hustle! Danchizuma Ch. 1-18 END
     author: hidemaru
@@ -76,9 +76,9 @@ works:
     url: /works/446018/
   - title: Itabasami na Wakachi Ai 4 | Love Divided Between a Rock and a Hard Place
       4
-    author: group
+    author: cabin
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/448503.jpg
-    rating: 5.0
+    rating: 4.9
     date: '2026-04-23'
     code: 448503
     url: /works/448503/
@@ -117,7 +117,7 @@ works:
       ni Kaizou Shite Koibito ni Suru Keikaku~
     author: ueto-seri
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/528161.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-30'
     code: 528161
     url: /works/528161/
@@ -298,6 +298,13 @@ works:
     date: '2026-03-02'
     code: 633453
     url: /works/633453/
+  - title: Haha to Yaru to Iukoto
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/633840.jpg
+    rating: 0.0
+    date: '2026-10-05'
+    code: 633840
+    url: /works/633840/
   - title: Hotai no Jikan ~Minna no Mae de Sensei to xxx o Shimasu~
     author: mochizaki-panko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/634185.jpg
@@ -338,7 +345,7 @@ works:
   - title: Mishiranu Boshi ni Yaritai Houdai
     author: tonda
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/635363.jpg
-    rating: 4.6
+    rating: 4.7
     date: '2026-03-07'
     code: 635363
     url: /works/635363/
@@ -495,7 +502,7 @@ works:
       And Cousin's Pussy
     author: karube-guri
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/648522.jpg
-    rating: 4.2
+    rating: 4.9
     date: '2026-05-07'
     code: 648522
     url: /works/648522/
@@ -627,7 +634,7 @@ works:
       Into Darkness'
     author: hoshino-ryuichi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/664937.jpg
-    rating: 4.2
+    rating: 4.7
     date: '2026-07-17'
     code: 664937
     url: /works/664937/
@@ -661,6 +668,14 @@ works:
     date: '2026-08-20'
     code: 674019
     url: /works/674019/
+  - title: 'Tanetsuke License ~Onna Joushi Wakarase Hen~ | Breeding License: Teaching
+      My Female Boss a Lesson Edition'
+    author: minamihama-yoriko
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/674030.jpg
+    rating: 4.0
+    date: '2026-08-20'
+    code: 674030
+    url: /works/674030/
   - title: Everyone's Kissing Club - Chapter 1-29
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/674286.jpg
@@ -750,7 +765,7 @@ works:
       sex toys with their complicated pasts
     author: gagarin-kichi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678909.jpg
-    rating: 4.0
+    rating: 4.8
     date: '2026-09-07'
     code: 678909
     url: /works/678909/
@@ -776,6 +791,13 @@ works:
     date: '2026-09-12'
     code: 680555
     url: /works/680555/
+  - title: Cooking Pakopako | Cooking Fucka
+    author: otochichi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681004.jpg
+    rating: 4.5
+    date: '2026-09-13'
+    code: 681004
+    url: /works/681004/
   - title: Succubus Seitokai Shiko Shiko Shikkoubu 4 Zenpen | Succubus Student Council
       Milking Club Part 4, First Half
     author: michiking
@@ -965,15 +987,43 @@ works:
       Exchange Student~
     author: takeda-hiromitsu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685147.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-01'
     code: 685147
     url: /works/685147/
   - title: Papa no Shinshitsu wa Musume Tomodachi no Tamariba 5 -Ninshin Houkoku Hen-
     author: richard-bahman
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685678.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-10-02'
     code: 685678
     url: /works/685678/
+  - title: Sensei Sakusei Party | Sensei's Semen Extraction Party
+    author: cigar-cat
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685882.jpg
+    rating: 0.0
+    date: '2026-10-05'
+    code: 685882
+    url: /works/685882/
+  - title: Bakunyuu Shimai ni Oshiekomu | Training the Busty Sisters
+    author: arakige-tanji
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685928.jpg
+    rating: 0.0
+    date: '2026-10-05'
+    code: 685928
+    url: /works/685928/
+  - title: LATEST
+    author: ratatatat74-mr-skull
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685961.jpg
+    rating: 0.0
+    date: '2026-10-05'
+    code: 685961
+    url: /works/685961/
+  - title: Kaa-san to Omoide no Gojitsudan 4 English
+    author: fuchina-noharu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686044.jpg
+    rating: 0.0
+    date: '2026-10-05'
+    code: 686044
+    url: /works/686044/
 ---

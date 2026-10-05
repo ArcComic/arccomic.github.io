@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "teacher"
-work_count: 89
+work_count: 90
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -64,7 +64,7 @@ works:
   - title: Sukina Hito, Sukina Koto
     author: ebi-fry-teishoku
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/452482.jpg
-    rating: 4.8
+    rating: 4.7
     date: '2026-04-27'
     code: 452482
     url: /works/452482/
@@ -86,7 +86,7 @@ works:
   - title: Kinou Kantoku to Sex Shita | Yesterday, I Had Sex with the Supervisor
     author: hatch
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/466685.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-30'
     code: 466685
     url: /works/466685/
@@ -199,7 +199,7 @@ works:
   - title: My Thousand Days With Mentor Tsuji
     author: concontochu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/588066.jpg
-    rating: 4.3
+    rating: 4.4
     date: '2026-04-15'
     code: 588066
     url: /works/588066/
@@ -315,7 +315,7 @@ works:
   - title: Jimikei Bakunyuu Hirama-chan | The Busty, Unassuming Girl Hirama-chan
     author: kametaro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/646942.jpg
-    rating: 4.9
+    rating: 4.4
     date: '2026-04-30'
     code: 646942
     url: /works/646942/
@@ -359,7 +359,7 @@ works:
       My Heart. + Melonbooks Tokuten Sensei wa Yappari JK to Yaritai
     author: gustav
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/655660.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-09-30'
     code: 655660
     url: /works/655660/
@@ -371,6 +371,13 @@ works:
     date: '2026-07-06'
     code: 661586
     url: /works/661586/
+  - title: Okashite Ageru
+    author: zonda
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/661819.jpg
+    rating: 4.3
+    date: '2026-07-07'
+    code: 661819
+    url: /works/661819/
   - title: Love wa Gal kara Hajimaru Unmei | Love is a Destiny That Begins with a Gal
       ch.1-5
     author: nusmusbim
@@ -414,7 +421,7 @@ works:
       no Love Hame Koukanroku File 03
     author: tsukino-jyogi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662653.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-30'
     code: 662653
     url: /works/662653/
@@ -449,7 +456,7 @@ works:
   - title: MORAL HAZARD ~Haitoku no Kyoudan~
     author: hiraoka-ryuichi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/66420.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-30'
     code: 66420
     url: /works/66420/
@@ -525,11 +532,11 @@ works:
   - title: Ayano-chan wa Mashou Tenkousei
     author: nedia
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/674684.jpg
-    rating: 4.2
+    rating: 5.0
     date: '2026-08-21'
     code: 674684
     url: /works/674684/
-  - title: When The Students Stare At You -- Seito-tachi ni Mitsumerareru to
+  - title: Seito-tachi ni Mitsumerareru to | When The Students Stare At You
     author: romomata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679853.jpg
     rating: 4.5
@@ -561,7 +568,7 @@ works:
       Me... NTR 1 - 6 + revenge chap_MTL
     author: yuuki-ringo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681852.jpg
-    rating: 4.9
+    rating: 4.4
     date: '2026-09-17'
     code: 681852
     url: /works/681852/
@@ -624,7 +631,7 @@ works:
   - title: Houkago Saimin
     author: umashio-umau-mashio
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684898.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-30'
     code: 684898
     url: /works/684898/
@@ -632,7 +639,7 @@ works:
       Overnight Date in Oarai with My Girlfriend, Takebe Saori.
     author: hijiri-tsukasa
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684920.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-09-30'
     code: 684920
     url: /works/684920/
@@ -640,14 +647,14 @@ works:
       at the school festival!!
     author: yuukey
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685231.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-10-01'
     code: 685231
     url: /works/685231/
   - title: Poison Assort
     author: kerenme
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685785.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-10-03'
     code: 685785
     url: /works/685785/

@@ -1,12 +1,12 @@
 ---
 layout: tag
 tag_name: "reverse netorare"
-work_count: 13
+work_count: 20
 works:
   - title: Hajimete Kanojo Ga Dekita No Ni
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/316579.jpg
-    rating: 4.6
+    rating: 4.0
     date: '2026-09-13'
     code: 316579
     url: /works/316579/
@@ -14,7 +14,7 @@ works:
       obscene things...
     author: danimaru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/337171.jpg
-    rating: 4.5
+    rating: 4.4
     date: '2026-04-27'
     code: 337171
     url: /works/337171/
@@ -26,6 +26,15 @@ works:
     date: '2026-09-12'
     code: 387648
     url: /works/387648/
+  - title: Kanojo to no Kekkon Houkoku ni Kiseishita noni Gimai to Yarimakuri no Suujitsukan
+      ga Hajimatteshimatta | I visited my in-laws to announce my marriage and ended
+      up fucking my girlfriend's little sister silly!
+    author: nyaa-no-esa
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/421306.jpg
+    rating: 4.0
+    date: '2026-10-02'
+    code: 421306
+    url: /works/421306/
   - title: Nekura Kyonyuu no Onee-chan wa, Saiminshite de mo Otouto Chinpo o Netoritai
     author: borusiti
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/438138.jpg
@@ -35,9 +44,9 @@ works:
     url: /works/438138/
   - title: Itabasami na Wakachi Ai 4 | Love Divided Between a Rock and a Hard Place
       4
-    author: group
+    author: cabin
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/448503.jpg
-    rating: 5.0
+    rating: 4.9
     date: '2026-04-23'
     code: 448503
     url: /works/448503/
@@ -65,6 +74,14 @@ works:
     date: '2026-09-12'
     code: 526368
     url: /works/526368/
+  - title: Yamazaki Makie (3●-sai), Musume no Kareshi to SeFri ni Naru | Yamazaki Makie
+      (3X Years Old), Becoming Fuck Buddies with her Daughter's Boyfriend
+    author: ryuuta
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/531313.jpg
+    rating: 4.4
+    date: '2026-04-19'
+    code: 531313
+    url: /works/531313/
   - title: Watashi, Mada Suki da yo. - I still love you. ~Mukashi Futta Doukyuusei ga
       Akanuke Bakunyuu Gravia Idol ni Natte Kanojo Mochi no Ore o Yuuwaku Shitekuru
       Gyaku NTR Uwaki Sex~ | I Still Love You. ~My EX has become a Busty Gravure Idol
@@ -82,6 +99,13 @@ works:
     date: '2026-09-12'
     code: 646022
     url: /works/646022/
+  - title: Okashite Ageru
+    author: zonda
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/661819.jpg
+    rating: 4.3
+    date: '2026-07-07'
+    code: 661819
+    url: /works/661819/
   - title: Seiyoku Tsuyosugi GalKano Mama
     author: naporitan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662525.jpg
@@ -89,6 +113,13 @@ works:
     date: '2026-07-09'
     code: 662525
     url: /works/662525/
+  - title: Joukyou, Saikai, Sex Akogare no Haru-nee
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662871.jpg
+    rating: 4.1
+    date: '2026-07-10'
+    code: 662871
+    url: /works/662871/
   - title: It was supposed to be a story about two people who loved each other but her
       best friend stole his virginity
     author: meisuke
@@ -97,6 +128,27 @@ works:
     date: '2026-07-15'
     code: 664188
     url: /works/664188/
+  - title: My Genius Senpai Girlfriend Swapped Bodies with a Gal!
+    author: kuratsuka-riko
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/664584.jpg
+    rating: 4.1
+    date: '2026-07-16'
+    code: 664584
+    url: /works/664584/
+  - title: My Girlfriend's Older Sister Turned Me Into Her Masochist Foot Pet
+    author: yoko-momo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/664853.jpg
+    rating: 4.3
+    date: '2026-07-16'
+    code: 664853
+    url: /works/664853/
+  - title: WSS ~Watashi ga Sakini Sukidatta no ni~ - Even Though I Loved Him First
+    author: asanagi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/674639.jpg
+    rating: 4.6
+    date: '2026-08-21'
+    code: 674639
+    url: /works/674639/
   - title: Konyakusha no Imouto wa Kao SSR, Seikaku Saiaku Jigoku no Ero Dance Onna.
       2 | My Fiancée's Younger Sister is a SSR Influencer with a Terrible Personality
       and is a Hellish Erotic Dancer. 2

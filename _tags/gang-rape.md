@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "gang rape"
-work_count: 9
+work_count: 10
 works:
   - title: Shitsurakuen | Paradise Lost
     author: group
@@ -31,6 +31,13 @@ works:
     date: '2026-05-10'
     code: 649068
     url: /works/649068/
+  - title: Shoujo Baishun Shima | Girl Prostitution Island
+    author: nada-shio
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662647.jpg
+    rating: 4.7
+    date: '2026-07-09'
+    code: 662647
+    url: /works/662647/
   - title: Aisuru Tsuma wa Hei no Naka | My beloved wife is behind bars
     author: hikitogu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673453.jpg
@@ -45,6 +52,13 @@ works:
     date: '2026-08-23'
     code: 675048
     url: /works/675048/
+  - title: Okasareta Hitozuma
+    author: itaba-hiroshi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679197.jpg
+    rating: 4.8
+    date: '2026-09-07'
+    code: 679197
+    url: /works/679197/
   - title: 'Test of Courage: Group Humiliation'
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680735.jpg
@@ -59,13 +73,4 @@ works:
     date: '2026-09-20'
     code: 681566
     url: /works/681566/
-  - title: 'Fukushuu Yami Beit "Shijin Taihokei Haishinsha ni Otoshiirerareta kara Fukushuu
-      Shite Hoshii" | My Part-Time Job Is Getting Revenge: Framed By A Citizens Arrest
-      Streamer'
-    author: group
-    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684921.jpg
-    rating: 0.0
-    date: '2026-09-30'
-    code: 684921
-    url: /works/684921/
 ---

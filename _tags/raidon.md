@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "raidon"
-work_count: 4
+work_count: 5
 works:
   - title: Panpan Travelers Kochi Shuudan Rape Ryokou
     author: raidon
@@ -24,6 +24,13 @@ works:
     date: '2026-09-11'
     code: 680318
     url: /works/680318/
+  - title: Panpan Travelers OKINAWA Shuudan Rape Zumi Harem Hitoritabi Hen-MTL
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680323.jpg
+    rating: 4.2
+    date: '2026-09-11'
+    code: 680323
+    url: /works/680323/
   - title: Panpan Travelers Osaka Shuudan Rape Hen
     author: raidon
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681323.jpg

@@ -3,8 +3,8 @@ layout: tag
 tag_name: "mittsuman"
 work_count: 1
 works:
-  - title: 'Drowing in LUST: I Was Drugged By My Shameless Junior | Indeki ~Hikyou na
-      Kouhai ni Oboresaserareta Watashi~'
+  - title: 'Indeki ~Hikyou na Kouhai ni Oboresaserareta Watashi~ | Drowing in LUST:
+      I Was Drugged By My Shameless Junior'
     author: mittsuman
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678720.jpg
     rating: 4.5

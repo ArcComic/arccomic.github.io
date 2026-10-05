@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "swimsuit"
-work_count: 74
+work_count: 76
 works:
   - title: Kizashi
     author: yoshiura-kazuya
@@ -27,7 +27,7 @@ works:
   - title: Mizugi no Shita no Yuuwaku | Temptation Beneath The Swimsuit
     author: gustav
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/314536.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-10-02'
     code: 314536
     url: /works/314536/
@@ -48,7 +48,7 @@ works:
   - title: Sukina Hito, Sukina Koto
     author: ebi-fry-teishoku
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/452482.jpg
-    rating: 4.8
+    rating: 4.7
     date: '2026-04-27'
     code: 452482
     url: /works/452482/
@@ -59,6 +59,13 @@ works:
     date: '2026-09-29'
     code: 480745
     url: /works/480745/
+  - title: Onanie Supporter Hanako |  Handjob Helper Hanako
+    author: inu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/517766.jpg
+    rating: 0.0
+    date: '2026-10-05'
+    code: 517766
+    url: /works/517766/
   - title: Ki ga Tsuyoi Joshi Announcer ga Kutsujoku ni Taerarenaku Naru made Night
       Pool Hen
     author: crimson
@@ -237,7 +244,7 @@ works:
   - title: Jimikei Bakunyuu Hirama-chan | The Busty, Unassuming Girl Hirama-chan
     author: kametaro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/646942.jpg
-    rating: 4.9
+    rating: 4.4
     date: '2026-04-30'
     code: 646942
     url: /works/646942/
@@ -303,7 +310,7 @@ works:
   - title: miren -miren-
     author: sabakan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/661148.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-30'
     code: 661148
     url: /works/661148/
@@ -343,6 +350,13 @@ works:
     date: '2026-07-11'
     code: 663056
     url: /works/663056/
+  - title: KAWAKAMI FROM THE SEXUAL RELIEF DIVISION
+    author: carpsukidayo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/664460.jpg
+    rating: 5.0
+    date: '2026-07-16'
+    code: 664460
+    url: /works/664460/
   - title: Mesugaki ni Saikyouiku o!! | Re-Educating A Smug-Brat!!
     author: type-yamada
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/664631.jpg
@@ -354,7 +368,7 @@ works:
       Into Darkness'
     author: hoshino-ryuichi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/664937.jpg
-    rating: 4.2
+    rating: 4.7
     date: '2026-07-17'
     code: 664937
     url: /works/664937/
@@ -436,16 +450,16 @@ works:
     date: '2026-09-05'
     code: 678648
     url: /works/678648/
-  - title: Why I Can't Resist My Swimmer Girlfriend's Temptations - Ore ga Suieibu Ace
-      no Yuuwaku o Kobamenai Riyuu
+  - title: Ore ga Suieibu Ace no Yuuwaku o Kobamenai Riyuu - Why I Can't Resist My Swimmer
+      Girlfriend Temptation
     author: chacharan
-    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.devhttps://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678715.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678715.jpg
     rating: 4.4
     date: '2026-09-05'
     code: 678715
     url: /works/678715/
-  - title: 'Drowing in LUST: I Was Drugged By My Shameless Junior | Indeki ~Hikyou na
-      Kouhai ni Oboresaserareta Watashi~'
+  - title: 'Indeki ~Hikyou na Kouhai ni Oboresaserareta Watashi~ | Drowing in LUST:
+      I Was Drugged By My Shameless Junior'
     author: mittsuman
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678720.jpg
     rating: 4.5
@@ -533,13 +547,6 @@ works:
     date: '2026-09-23'
     code: 683082
     url: /works/683082/
-  - title: Kuro-Gal Mama-san Haramasex
-    author: ooshima-ryou
-    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683312.jpg
-    rating: 4.3
-    date: '2026-09-23'
-    code: 683312
-    url: /works/683312/
   - title: SAIWAI ~Onna-tachi no Ura no Kao~
     author: taba
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683314.jpg
@@ -550,7 +557,7 @@ works:
   - title: GyaGyaGya Gal Cosplay - LoveHo de Micchaku Nurunuru Soap Gokko
     author: x36marubox
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684911.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-30'
     code: 684911
     url: /works/684911/
@@ -558,7 +565,7 @@ works:
       Hold Back His "Love" Tonight!'
     author: itosugi-jou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685360.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-10-01'
     code: 685360
     url: /works/685360/
@@ -569,4 +576,12 @@ works:
     date: '2026-10-03'
     code: 685702
     url: /works/685702/
+  - title: Gal ni Natta Osananajimi to Chissoku Genkai Suichuu Ecchi! | My Childhood
+      Friend Turned into a Gal - A Near-Limit Asphyxiation Underwater Sex!
+    author: gyokuro-sakana
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685952.jpg
+    rating: 0.0
+    date: '2026-10-05'
+    code: 685952
+    url: /works/685952/
 ---

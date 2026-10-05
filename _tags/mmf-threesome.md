@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "mmf threesome"
-work_count: 60
+work_count: 62
 works:
   - title: Hitozuma Hyakka
     author: hase-tsubura
@@ -199,6 +199,13 @@ works:
     date: '2026-05-10'
     code: 649068
     url: /works/649068/
+  - title: Atashi no Hou ga Tsuyoi Hazudattanoni!
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/652605.jpg
+    rating: 4.0
+    date: '2026-05-26'
+    code: 652605
+    url: /works/652605/
   - title: Mother's Orgasm ~Completely Submissive to Son's Cock~Chapter 1
     author: jamming
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/653091.jpg
@@ -267,10 +274,17 @@ works:
       Tanetsuke Oho Akume de Mesu no Yorokobi ni Ochita Hi
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/663605.jpg
-    rating: 4.6
+    rating: 4.3
     date: '2026-07-13'
     code: 663605
     url: /works/663605/
+  - title: KAWAKAMI FROM THE SEXUAL RELIEF DIVISION
+    author: carpsukidayo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/664460.jpg
+    rating: 5.0
+    date: '2026-07-16'
+    code: 664460
+    url: /works/664460/
   - title: Wari no Ii Beit Nante Sonzai Shinai | This job was too good to be true
     author: hikitogu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/670195.jpg
@@ -335,8 +349,8 @@ works:
     date: '2026-09-25'
     code: 682212
     url: /works/682212/
-  - title: The World Where Only I Can't Fuck the Class Gyaru | Boku dake ga Class no
-      Ano Ko to Sex dekinai Sekai
+  - title: Boku dake ga Class no Ano Ko to Sex dekinai Sekai | The World Where Only
+      I Can't Fuck the Class Gal
     author: armjaw
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683022.jpg
     rating: 4.8
@@ -431,7 +445,7 @@ works:
   - title: Paizuri Iin no Katsudou Kiroku
     author: shake-chazuke
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685770.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-10-03'
     code: 685770
     url: /works/685770/

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "leg lock"
-work_count: 81
+work_count: 83
 works:
   - title: My Care Lady Ch. 1
     author: sugi-g
@@ -36,7 +36,7 @@ works:
       Reason Why a German Girl Takes a Bath Together With Me on Her Homestay
     author: gentsuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/344322.jpg
-    rating: 4.3
+    rating: 4.6
     date: '2026-09-17'
     code: 344322
     url: /works/344322/
@@ -84,7 +84,7 @@ works:
       up fucking my girlfriend's little sister silly!
     author: nyaa-no-esa
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/421306.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-10-02'
     code: 421306
     url: /works/421306/
@@ -106,9 +106,9 @@ works:
     url: /works/443909/
   - title: Itabasami na Wakachi Ai 4 | Love Divided Between a Rock and a Hard Place
       4
-    author: group
+    author: cabin
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/448503.jpg
-    rating: 5.0
+    rating: 4.9
     date: '2026-04-23'
     code: 448503
     url: /works/448503/
@@ -122,7 +122,7 @@ works:
   - title: Konoe no Kyuujitsu | Konoe's Day Off
     author: alp
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/479447.jpg
-    rating: 4.9
+    rating: 4.1
     date: '2026-08-18'
     code: 479447
     url: /works/479447/
@@ -334,7 +334,7 @@ works:
   - title: H na Ouji-sama wa Dame desuka?
     author: inu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/628218.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-10-01'
     code: 628218
     url: /works/628218/
@@ -429,6 +429,13 @@ works:
     date: '2026-05-07'
     code: 648460
     url: /works/648460/
+  - title: I Want To Take Hikaru Narumi's First Time
+    author: concontochu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/649039.jpg
+    rating: 4.6
+    date: '2026-05-10'
+    code: 649039
+    url: /works/649039/
   - title: Oshiego no Gal o Kau
     author: mitsudoue
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651197.jpg
@@ -462,14 +469,14 @@ works:
       My Heart. + Melonbooks Tokuten Sensei wa Yappari JK to Yaritai
     author: gustav
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/655660.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-09-30'
     code: 655660
     url: /works/655660/
   - title: Tonari no Ayane-san Soushuuhen | My Neighbor Ayane Anthology
     author: herio
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/656319.jpg
-    rating: 4.8
+    rating: 4.4
     date: '2026-08-18'
     code: 656319
     url: /works/656319/
@@ -534,8 +541,24 @@ works:
     date: '2026-08-18'
     code: 673508
     url: /works/673508/
-  - title: Having Intense, Romantic Raw Sex With A 8-foot Tall Woman I Met On A Dating
-      App
+  - title: My childhood friend, the “black gal,” who's surprisingly easy to sway
+    author: zarameccho
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/677418.jpg
+    rating: 4.7
+    date: '2026-09-04'
+    code: 677418
+    url: /works/677418/
+  - title: Kuro Gal no Ongaeshi -Shachiku Oji ga Kasshoku Kyonyuu Gal o Nanpa kara Tasuketara
+      Icha Love Junai Koubi shita Hanashi-
+    author: galvalume-kouhan
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679072.jpg
+    rating: 4.9
+    date: '2026-09-07'
+    code: 679072
+    url: /works/679072/
+  - title: MatchApp de Atta Hachishaku-sama ni Gyaku Tanetsuke Press Sarenagara IchaLove
+      Noukou Namashibori Sex | Having Intense, Romantic Raw Sex With A 8-foot Tall Woman
+      I Met On A Dating App
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679942.jpg
     rating: 4.6
@@ -580,13 +603,6 @@ works:
     date: '2026-09-19'
     code: 682342
     url: /works/682342/
-  - title: Natsuzuma 3
-    author: kurosu-gatari
-    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683679.jpg
-    rating: 4.1
-    date: '2026-09-24'
-    code: 683679
-    url: /works/683679/
   - title: 'Kokujin no Tenkousei NTR ru Chapters 1-6 part 1 Plus Bonus chapter: Stolen
       Mother’s Breasts'
     author: terasu-mc
@@ -595,19 +611,18 @@ works:
     date: '2026-09-25'
     code: 683725
     url: /works/683725/
-  - title: Tonikaku Yaritai Gal ga Kyokon Otaku ni Deattara
-    author: tokunaga
-    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684061.jpg
-    rating: 4.1
-    date: '2026-09-26'
-    code: 684061
-    url: /works/684061/
-  - title: Watashi no Oshiri no Hajimete o Anata-sama ni Sasagemasu | I offer my ass
-      to you for the first time
-    author: nadayui
-    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684127.jpg
-    rating: 4.1
-    date: '2026-09-26'
-    code: 684127
-    url: /works/684127/
+  - title: Urawa Hanako no Shiawase na Seikatsu | Hanako Urawa's Happy Sex Life
+    author: kawaraya
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685951.jpg
+    rating: 0.0
+    date: '2026-10-05'
+    code: 685951
+    url: /works/685951/
+  - title: LATEST
+    author: ratatatat74-mr-skull
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685961.jpg
+    rating: 0.0
+    date: '2026-10-05'
+    code: 685961
+    url: /works/685961/
 ---

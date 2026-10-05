@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "horns"
-work_count: 23
+work_count: 22
 works:
   - title: Cosplay Shiteiru Toki wa Hitozuma de wa Arimasen | Setting Aside Our Married
       Lives When We Cosplay
@@ -33,13 +33,6 @@ works:
     date: '2026-04-23'
     code: 645520
     url: /works/645520/
-  - title: Kyonyuu Kanojo ni Hitasura Shibori Toraremakuru Hanashi | Squeeze Until Empty
-    author: fuguta-ke
-    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/652218.jpg
-    rating: 4.8
-    date: '2026-05-26'
-    code: 652218
-    url: /works/652218/
   - title: Cinderella Fit
     author: shirosuzu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/661596.jpg

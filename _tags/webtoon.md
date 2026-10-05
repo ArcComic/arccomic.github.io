@@ -6,7 +6,7 @@ works:
   - title: The Girl That Got Stuck in the Wall Ch.11/11
     author: gaehoju
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/304474.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-02'
     code: 304474
     url: /works/304474/
@@ -14,7 +14,7 @@ works:
       Gaman Dekizu soto de Icchaimashita...
     author: aono-akira
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/385266.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-10-03'
     code: 385266
     url: /works/385266/
@@ -29,21 +29,21 @@ works:
   - title: This Slouching Girl’s Nipples Are So Sensitive…!
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/437443.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-30'
     code: 437443
     url: /works/437443/
   - title: Yaoyorozu Sex – My Virginity Was Taken by Japanese Gods
     author: prhs
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/442084.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-30'
     code: 442084
     url: /works/442084/
   - title: Corruption Obscene Tales ch 1-4
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/490746.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-30'
     code: 490746
     url: /works/490746/

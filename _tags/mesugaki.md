@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "mesugaki"
-work_count: 9
+work_count: 11
 works:
   - title: Seiso na Imouto no Tomodachi wa Mesugaki deshita | My Pure and Innocent Little
       Sister Became Friends With a Mesugaki
@@ -33,6 +33,14 @@ works:
     date: '2026-04-17'
     code: 644309
     url: /works/644309/
+  - title: Onanie Daisuki Honoka-chan wa Katekyo Chinpo o Benkyou Shitai! | Professional
+      Shliker Honoka-san Wanna Study Up On Her Tutor's Cock!
+    author: henreader
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/645677.jpg
+    rating: 4.9
+    date: '2026-04-25'
+    code: 645677
+    url: /works/645677/
   - title: Mesugaki ni Saikyouiku o!! | Re-Educating A Smug-Brat!!
     author: type-yamada
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/664631.jpg
@@ -40,6 +48,14 @@ works:
     date: '2026-07-16'
     code: 664631
     url: /works/664631/
+  - title: Yome no Tsurego ni Otosareru Boku | I was Seduced by My Wife's Child from
+      a Previous Marriage
+    author: sabano-fudeoki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673271.jpg
+    rating: 4.1
+    date: '2026-09-11'
+    code: 673271
+    url: /works/673271/
   - title: Onii-chan no Yowami o Gyutto | Squeezing my big brother's weak spot
     author: ronrinri-ronri
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673288.jpg
@@ -65,7 +81,7 @@ works:
       Needs to be Scolded 1-36
     author: juna-juna-juice
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685683.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-02'
     code: 685683
     url: /works/685683/

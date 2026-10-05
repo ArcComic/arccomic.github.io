@@ -22,7 +22,7 @@ works:
       Break
     author: hikitogu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/660241.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-09-30'
     code: 660241
     url: /works/660241/
@@ -37,7 +37,7 @@ works:
   - title: Chijo Tsuma no Tawamure ~Zenpen~ _ My Boss Has a Slutty Wife Part 1
     author: hikitogu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/664679.jpg
-    rating: 4.0
+    rating: 4.1
     date: '2026-07-16'
     code: 664679
     url: /works/664679/

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "multiple pairings"
-work_count: 5
+work_count: 8
 works:
   - title: Soshite Kyou mo Moteasobareru 3 ~Minshuku Hen~ | And Today, Toyed With Again
       3 ~Inn Edition~
@@ -25,6 +25,28 @@ works:
     date: '2026-05-05'
     code: 648093
     url: /works/648093/
+  - title: Soredemo Ashita mo Kareshi ga ii - Chapter 1-16
+    author: miike-kei
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679935.jpg
+    rating: 5.0
+    date: '2026-09-11'
+    code: 679935
+    url: /works/679935/
+  - title: Soredemo Ashita mo Kareshi ga ii - Chapter 1-17
+    author: miike-kei
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681496.jpg
+    rating: 4.6
+    date: '2026-09-16'
+    code: 681496
+    url: /works/681496/
+  - title: Tachibana-san-chi no Dansei Jijou Matome Ban | The Tachibana Household's
+      Male Affairs
+    author: jin
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681720.jpg
+    rating: 4.8
+    date: '2026-09-17'
+    code: 681720
+    url: /works/681720/
   - title: Jibun no Kanojo to Machigaete Tomodachi no Kanojo to Sex suru Hanashi 1 &
       2
     author: mauboumen

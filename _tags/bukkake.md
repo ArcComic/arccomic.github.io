@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bukkake"
-work_count: 37
+work_count: 33
 works:
   - title: Chibo Soukan Ch.1-3
     author: natsu-no-oyatsu
@@ -151,13 +151,6 @@ works:
     date: '2026-05-21'
     code: 651442
     url: /works/651442/
-  - title: Kyonyuu Kanojo ni Hitasura Shibori Toraremakuru Hanashi | Squeeze Until Empty
-    author: fuguta-ke
-    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/652218.jpg
-    rating: 4.8
-    date: '2026-05-26'
-    code: 652218
-    url: /works/652218/
   - title: Kyonyuu no Tomodachi to Tsukiau made no Hanashi | Maybe We'll Start Dating
       Someday
     author: fuguta-ke
@@ -166,13 +159,6 @@ works:
     date: '2026-05-26'
     code: 652244
     url: /works/652244/
-  - title: My Impertinent and Curt Kouhai Becomes Surprisingly Clingy???
-    author: buki
-    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/652667.jpg
-    rating: 4.4
-    date: '2026-05-26'
-    code: 652667
-    url: /works/652667/
   - title: Ketsusenryaku | The Ass Strategy
     author: ariga-tou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662370.jpg
@@ -202,14 +188,6 @@ works:
     date: '2026-09-22'
     code: 666748
     url: /works/666748/
-  - title: My GF (ghost friend) caught me jerking off and now she's bouncing on it CRAZY
-      STYLE
-    author: ricegnat
-    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/669254.jpg
-    rating: 4.4
-    date: '2026-09-07'
-    code: 669254
-    url: /works/669254/
   - title: Osananajimi ga Joukyo-chuu ni Osananajimi no Chichi to Daita | While My Childhood
       Friend Was Away in Tokyo I Slept With His Dad
     author: mokuyama-hito
@@ -218,7 +196,8 @@ works:
     date: '2026-08-28'
     code: 676013
     url: /works/676013/
-  - title: Having Sex on the Day I Start Dating my Tomboyish Childhood Friend
+  - title: Boyish Osananajimi to Tsukiatta Hi ni Sekkusu Suru Dake | Having Sex on the
+      Day I Start Dating my Tomboyish Childhood Friend
     author: fuguta-ke
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679504.jpg
     rating: 4.6
@@ -246,13 +225,6 @@ works:
     date: '2026-09-23'
     code: 683318
     url: /works/683318/
-  - title: Namaiki Gal o Succubus ni Shite Oshioki Shitatta Ken Final
-    author: takurowo
-    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684215.jpg
-    rating: 4.3
-    date: '2026-09-27'
-    code: 684215
-    url: /works/684215/
   - title: SHIORIHAZARD
     author: wise-speak-kogasaki-yuina
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684611.jpg
@@ -260,19 +232,19 @@ works:
     date: '2026-09-28'
     code: 684611
     url: /works/684611/
-  - title: Oshi no Live Kaeri ni Chichideka Gyaru ni Karamareru | Accosted by a Busty
-      Gal on my way home from my Fave's Live Concert
-    author: sume
-    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685305.jpg
-    rating: 0.0
-    date: '2026-10-01'
-    code: 685305
-    url: /works/685305/
   - title: Paizuri Iin no Katsudou Kiroku
     author: shake-chazuke
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685770.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-10-03'
     code: 685770
     url: /works/685770/
+  - title: Warui Oji-san ni Yasashiku Shitara | When I Was Kind to a Bad Middle-Aged
+      Man
+    author: ma-kurou-madou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686029.jpg
+    rating: 0.0
+    date: '2026-10-05'
+    code: 686029
+    url: /works/686029/
 ---

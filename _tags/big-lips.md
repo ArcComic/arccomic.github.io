@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big lips"
-work_count: 3
+work_count: 4
 works:
   - title: Sokukan Delivery
     author: ice
@@ -17,6 +17,13 @@ works:
     date: '2026-03-05'
     code: 414892
     url: /works/414892/
+  - title: Niihama Yui Husband Exclusive Re-debut
+    author: buta
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/674199.jpg
+    rating: 4.3
+    date: '2026-08-20'
+    code: 674199
+    url: /works/674199/
   - title: Hitoe-san no warui kuse | Hitoe's Bad Habit
     author: jirou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/674702.jpg

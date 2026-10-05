@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "pantyhose"
-work_count: 65
+work_count: 66
 works:
   - title: Life with Married Women Just Like a Manga 2 - Ch. 1-5
     author: hidemaru
@@ -27,7 +27,7 @@ works:
   - title: Okatai Onna to Iwanaide | Don't call me an Old Maid!
     author: herio
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/276396.jpg
-    rating: 4.8
+    rating: 4.2
     date: '2026-09-06'
     code: 276396
     url: /works/276396/
@@ -41,7 +41,7 @@ works:
   - title: The Girl That Got Stuck in the Wall Ch.11/11
     author: gaehoju
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/304474.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-02'
     code: 304474
     url: /works/304474/
@@ -98,7 +98,7 @@ works:
   - title: Datenshi no Yuuwaku -Office Angel Project- 1
     author: hiraoka-ryuichi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/491622.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-30'
     code: 491622
     url: /works/491622/
@@ -285,7 +285,7 @@ works:
   - title: If I Have a Chance, I Want to Warp My Boyfriend's Fetishes!
     author: meeko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/647619.jpg
-    rating: 4.6
+    rating: 4.2
     date: '2026-05-03'
     code: 647619
     url: /works/647619/
@@ -453,10 +453,17 @@ works:
   - title: Poison Assort
     author: kerenme
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685785.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-10-03'
     code: 685785
     url: /works/685785/
+  - title: Bakunyuu Shimai ni Oshiekomu | Training the Busty Sisters
+    author: arakige-tanji
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685928.jpg
+    rating: 0.0
+    date: '2026-10-05'
+    code: 685928
+    url: /works/685928/
   - title: Hottokenaino
     author: hara-shigeyuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/77864.jpg

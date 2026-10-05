@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "gyaru"
-work_count: 114
+work_count: 118
 works:
   - title: GalPa!
     author: sakagami-umi
@@ -87,7 +87,7 @@ works:
   - title: Sukina Hito, Sukina Koto
     author: ebi-fry-teishoku
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/452482.jpg
-    rating: 4.8
+    rating: 4.7
     date: '2026-04-27'
     code: 452482
     url: /works/452482/
@@ -95,7 +95,7 @@ works:
       Pocket Pussy for a Futanari Young Lady
     author: ginger-lily
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/472157.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-10-02'
     code: 472157
     url: /works/472157/
@@ -132,7 +132,7 @@ works:
       ni Kaizou Shite Koibito ni Suru Keikaku~
     author: ueto-seri
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/528161.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-30'
     code: 528161
     url: /works/528161/
@@ -227,7 +227,7 @@ works:
       a Big-Titted Rich Gyaru Who Has No Interest in Being Lovey-Dovey
     author: uni-toshiki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/610539.jpg
-    rating: 4.0
+    rating: 4.6
     date: '2026-02-26'
     code: 610539
     url: /works/610539/
@@ -422,7 +422,7 @@ works:
   - title: My Annoying Little Cousin Stole My First Time
     author: karube-guri
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/647853.jpg
-    rating: 4.7
+    rating: 4.4
     date: '2026-05-07'
     code: 647853
     url: /works/647853/
@@ -452,7 +452,7 @@ works:
       And Cousin's Pussy
     author: karube-guri
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/648522.jpg
-    rating: 4.2
+    rating: 4.9
     date: '2026-05-07'
     code: 648522
     url: /works/648522/
@@ -524,7 +524,7 @@ works:
   - title: Oretoku Shuugakuryokou ~Otoko wa Jyosou shita Ore dake!! Ch 1-29
     author: okumori-boy
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/661664.jpg
-    rating: 4.1
+    rating: 4.6
     date: '2026-07-06'
     code: 661664
     url: /works/661664/
@@ -543,6 +543,14 @@ works:
     date: '2026-07-09'
     code: 662525
     url: /works/662525/
+  - title: Gal to Otaku no Idenshi Aishou Batsugun H | The Superb Genetic Compatibility
+      Between a Gyaru and an Otaku
+    author: joucho
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/663287.jpg
+    rating: 4.7
+    date: '2026-07-11'
+    code: 663287
+    url: /works/663287/
   - title: The Delinquent Gyaru That I Fantasize About Found Out! | Furyou Gal de Ero
       Mousou Shitetara Honnin ni Bareta Ken
     author: dynamite-moca
@@ -580,8 +588,8 @@ works:
     date: '2026-07-16'
     code: 664820
     url: /works/664820/
-  - title: Hoken Taiiku de Jitsugi ga Hisshuu ni natta Sekai - A world where sex ed
-      is mandatory and it's all practical
+  - title: Hoken Taiiku de Sex ga Hisshuu ni natta Sekai - A world where sex ed is mandatory
+      and it's all practical | A World Where Practical Sex Ed is Mandatory
     author: toyama-jigoku
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/665207.jpg
     rating: 4.8
@@ -602,6 +610,13 @@ works:
     date: '2026-09-24'
     code: 667990
     url: /works/667990/
+  - title: Black Kigyou No Kamin Shitsu Ga Yari Beya Ni Natteta Hanashi
+    author: oshima-aki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/668297.jpg
+    rating: 4.9
+    date: '2026-09-04'
+    code: 668297
+    url: /works/668297/
   - title: Totsuzen Ane ga Dekita Hanashi 4 | The Story of How I Suddenly Got Older
       Sisters 4
     author: oshima-aki
@@ -680,6 +695,13 @@ works:
     date: '2026-09-04'
     code: 677731
     url: /works/677731/
+  - title: Moshimo Kemono de Kanjitara
+    author: chikiko
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678664.jpg
+    rating: 4.3
+    date: '2026-09-05'
+    code: 678664
+    url: /works/678664/
   - title: Kuro Gal JK de Shasei Shitai
     author: fujinoe13b
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678678.jpg
@@ -687,8 +709,8 @@ works:
     date: '2026-09-05'
     code: 678678
     url: /works/678678/
-  - title: I, An Injured Person, Will Become Momiji-San's Dog!! - Keganin no Boku Momiji-san
-      no Inu ni Naru!
+  - title: Keganin no Boku Momiji-san no Inu ni Naru! | I, An Injured Person, Will Become
+      Momiji-San's Dog!!
     author: darunekohanten
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678713.jpg
     rating: 4.3
@@ -703,13 +725,6 @@ works:
     date: '2026-09-07'
     code: 679072
     url: /works/679072/
-  - title: Dokidoki, Yada! | No Way! Stop Playing With My Heart!
-    author: ekakibit
-    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679368.jpg
-    rating: 4.8
-    date: '2026-09-08'
-    code: 679368
-    url: /works/679368/
   - title: Gal-kei Joshi ni Kakikaerareta Ore | Rewritten as a Gyaru Girl
     author: nomu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679992.jpg
@@ -803,16 +818,6 @@ works:
     date: '2026-09-26'
     code: 684061
     url: /works/684061/
-  - title: Ore no Seiheki o Guchagucha ni Shite Oite Shiranai Aida ni Kekkon Shite ita
-      Moto SeFri to Saigo no Bachiboko Sex Osame suru Hanashi | A story about having
-      one last wild, wild sex session with my ex-fuck buddy— The one who messed with
-      my kinks and then got married behind my back
-    author: nako-sir
-    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684077.jpg
-    rating: 4.6
-    date: '2026-09-26'
-    code: 684077
-    url: /works/684077/
   - title: Machi de Deatta Deka Chichi Shiro Gal-tachi ni wa Noumitsu Tanetsuke H Sareretai
       Himitsu no Riyuu ga Aru
     author: kumatora-amasora-taichi
@@ -833,21 +838,14 @@ works:
       no Senpai ga Kairaku ni Kuppuku Shite Ochiru made~
     author: yuzuriha
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684758.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-30'
     code: 684758
     url: /works/684758/
-  - title: GyaGyaGya Gal Cosplay - LoveHo de Micchaku Nurunuru Soap Gokko
-    author: x36marubox
-    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684911.jpg
-    rating: 0.0
-    date: '2026-09-30'
-    code: 684911
-    url: /works/684911/
   - title: Newlywed couple is involved in sugar daddy/sugar daughter relationship
     author: zaregoto-hituji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685229.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-10-01'
     code: 685229
     url: /works/685229/
@@ -855,8 +853,38 @@ works:
       at the school festival!!
     author: yuukey
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685231.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-10-01'
     code: 685231
     url: /works/685231/
+  - title: Bakunyuu Shimai ni Oshiekomu | Training the Busty Sisters
+    author: arakige-tanji
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685928.jpg
+    rating: 0.0
+    date: '2026-10-05'
+    code: 685928
+    url: /works/685928/
+  - title: Gal ni Natta Osananajimi to Chissoku Genkai Suichuu Ecchi! | My Childhood
+      Friend Turned into a Gal - A Near-Limit Asphyxiation Underwater Sex!
+    author: gyokuro-sakana
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685952.jpg
+    rating: 0.0
+    date: '2026-10-05'
+    code: 685952
+    url: /works/685952/
+  - title: LATEST
+    author: ratatatat74-mr-skull
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685961.jpg
+    rating: 0.0
+    date: '2026-10-05'
+    code: 685961
+    url: /works/685961/
+  - title: Warui Oji-san ni Yasashiku Shitara | When I Was Kind to a Bad Middle-Aged
+      Man
+    author: ma-kurou-madou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686029.jpg
+    rating: 0.0
+    date: '2026-10-05'
+    code: 686029
+    url: /works/686029/
 ---

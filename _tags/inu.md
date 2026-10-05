@@ -1,20 +1,27 @@
 ---
 layout: tag
 tag_name: "inu"
-work_count: 3
+work_count: 4
 works:
+  - title: Onanie Supporter Hanako |  Handjob Helper Hanako
+    author: inu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/517766.jpg
+    rating: 0.0
+    date: '2026-10-05'
+    code: 517766
+    url: /works/517766/
   - title: Ore wa Yome ni Sakaraenai... Seiheki o Nigirareteiru | I Can't Say No To
       My Wife... She's Got Me By The Balls!
     author: inu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/550948.jpg
-    rating: 4.0
+    rating: 4.4
     date: '2026-08-22'
     code: 550948
     url: /works/550948/
   - title: H na Ouji-sama wa Dame desuka?
     author: inu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/628218.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-10-01'
     code: 628218
     url: /works/628218/

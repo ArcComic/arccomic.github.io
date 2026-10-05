@@ -3,8 +3,8 @@ layout: tag
 tag_name: "taketombo"
 work_count: 1
 works:
-  - title: Irekawari no Natsu, Onee-chan no Karada de no Natsu｜The Summer Swap -A Summer
-      in my Onee-chan's Body-
+  - title: Irekawari no Natsu, Onee-chan no Karada de no Natsu | The Summer Swap -A
+      Summer in my Onee-chan's Body-
     author: naba
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684142.jpg
     rating: 4.3

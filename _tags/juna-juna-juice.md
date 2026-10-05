@@ -7,7 +7,7 @@ works:
       Needs to be Scolded 1-36
     author: juna-juna-juice
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685683.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-02'
     code: 685683
     url: /works/685683/

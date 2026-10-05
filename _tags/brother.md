@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "brother"
-work_count: 9
+work_count: 12
 works:
   - title: Akarui Kazoku Seikatsu
     author: pistonring-nishizawa
@@ -14,7 +14,7 @@ works:
       obscene things...
     author: danimaru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/337171.jpg
-    rating: 4.5
+    rating: 4.4
     date: '2026-04-27'
     code: 337171
     url: /works/337171/
@@ -22,7 +22,7 @@ works:
       and I Became Sex Friends With Benefits
     author: iron-sugar
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/404719.jpg
-    rating: 4.2
+    rating: 4.3
     date: '2026-09-17'
     code: 404719
     url: /works/404719/
@@ -72,4 +72,26 @@ works:
     date: '2026-09-13'
     code: 657607
     url: /works/657607/
+  - title: Tsuntsun
+    author: onizuka-naoshi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/661935.jpg
+    rating: 4.4
+    date: '2026-07-07'
+    code: 661935
+    url: /works/661935/
+  - title: Kimi wa Midara na Ohimesama | Your Own Lewd Princess
+    author: aoyama-kiiro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662891.jpg
+    rating: 4.7
+    date: '2026-07-10'
+    code: 662891
+    url: /works/662891/
+  - title: Imouto wa Otonappoitte Iwaretairashii | My Little Sister Wants to Be Told
+      That She's Grown-Up It Seems
+    author: yabachorogi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681687.jpg
+    rating: 4.3
+    date: '2026-09-17'
+    code: 681687
+    url: /works/681687/
 ---

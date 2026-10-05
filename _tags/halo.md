@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "halo"
-work_count: 24
+work_count: 27
 works:
   - title: Mutsugaki Icha Love Book ~Sensei to Kakurenbo~ | MUTSUGAKI Lovey-Dovey Book
       ~Hide-and-seek with Sensei~
@@ -11,6 +11,13 @@ works:
     date: '2026-09-19'
     code: 477646
     url: /works/477646/
+  - title: Onanie Supporter Hanako |  Handjob Helper Hanako
+    author: inu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/517766.jpg
+    rating: 0.0
+    date: '2026-10-05'
+    code: 517766
+    url: /works/517766/
   - title: Oshioki no Jikan - Punishment time
     author: syoukaki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/540125.jpg
@@ -177,4 +184,18 @@ works:
     date: '2026-09-27'
     code: 684209
     url: /works/684209/
+  - title: Sensei Sakusei Party | Sensei's Semen Extraction Party
+    author: cigar-cat
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685882.jpg
+    rating: 0.0
+    date: '2026-10-05'
+    code: 685882
+    url: /works/685882/
+  - title: Urawa Hanako no Shiawase na Seikatsu | Hanako Urawa's Happy Sex Life
+    author: kawaraya
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685951.jpg
+    rating: 0.0
+    date: '2026-10-05'
+    code: 685951
+    url: /works/685951/
 ---

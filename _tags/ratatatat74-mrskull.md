@@ -6,15 +6,15 @@ works:
   - title: Ochaco｜09/2024 5$ reward
     author: ratatatat74-mr-skull
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/531308.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-10-01'
     code: 531308
     url: /works/531308/
-  - title: Ratatatat74 09/26 post 5$+
+  - title: LATEST
     author: ratatatat74-mr-skull
-    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685546.jpg
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685961.jpg
     rating: 0.0
-    date: '2026-10-03'
-    code: 685546
-    url: /works/685546/
+    date: '2026-10-05'
+    code: 685961
+    url: /works/685961/
 ---

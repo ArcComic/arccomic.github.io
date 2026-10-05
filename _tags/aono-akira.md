@@ -7,7 +7,7 @@ works:
       Gaman Dekizu soto de Icchaimashita...
     author: aono-akira
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/385266.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-10-03'
     code: 385266
     url: /works/385266/
@@ -23,7 +23,7 @@ works:
       Friend…!” 1-3
     author: aono-akira
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/509578.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-10-03'
     code: 509578
     url: /works/509578/

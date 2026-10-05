@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "uncensored"
-work_count: 121
+work_count: 123
 works:
   - title: Netemo Sametemo | Be it Sleeping or Awake
     author: takasugi-kou
@@ -20,14 +20,14 @@ works:
   - title: ERIKA Vol. 2
     author: hankotsu-max
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/353025.jpg
-    rating: 4.9
+    rating: 4.6
     date: '2026-04-27'
     code: 353025
     url: /works/353025/
   - title: Kanojo no SmaPho o Nozoita dake nano ni | I Just Snooped through Her Smartphone
     author: chocoro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/367709.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-09-30'
     code: 367709
     url: /works/367709/
@@ -76,7 +76,7 @@ works:
   - title: Konoe no Kyuujitsu | Konoe's Day Off
     author: alp
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/479447.jpg
-    rating: 4.9
+    rating: 4.1
     date: '2026-08-18'
     code: 479447
     url: /works/479447/
@@ -360,7 +360,7 @@ works:
       Secret Rule Vol. 1-3'
     author: ouma
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/608911.jpg
-    rating: 4.6
+    rating: 4.4
     date: '2026-05-04'
     code: 608911
     url: /works/608911/
@@ -561,7 +561,7 @@ works:
   - title: My Annoying Little Cousin Stole My First Time
     author: karube-guri
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/647853.jpg
-    rating: 4.7
+    rating: 4.4
     date: '2026-05-07'
     code: 647853
     url: /works/647853/
@@ -648,7 +648,7 @@ works:
   - title: Tonari no Ayane-san Soushuuhen | My Neighbor Ayane Anthology
     author: herio
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/656319.jpg
-    rating: 4.8
+    rating: 4.4
     date: '2026-08-18'
     code: 656319
     url: /works/656319/
@@ -677,7 +677,7 @@ works:
   - title: Oretoku Shuugakuryokou ~Otoko wa Jyosou shita Ore dake!! Ch 1-29
     author: okumori-boy
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/661664.jpg
-    rating: 4.1
+    rating: 4.6
     date: '2026-07-06'
     code: 661664
     url: /works/661664/
@@ -894,4 +894,18 @@ works:
     date: '2026-09-28'
     code: 684636
     url: /works/684636/
+  - title: LATEST
+    author: ratatatat74-mr-skull
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685961.jpg
+    rating: 0.0
+    date: '2026-10-05'
+    code: 685961
+    url: /works/685961/
+  - title: lots of sex in the future! Bulma and Gohan manga colors
+    author: yamamoto
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686031.jpg
+    rating: 0.0
+    date: '2026-10-05'
+    code: 686031
+    url: /works/686031/
 ---

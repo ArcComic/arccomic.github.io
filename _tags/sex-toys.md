@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sex toys"
-work_count: 119
+work_count: 123
 works:
   - title: Ayami Hypno
     author: yasuhiro
@@ -95,7 +95,7 @@ works:
       My Mom~
     author: hara-shigeyuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/504221.jpg
-    rating: 4.9
+    rating: 5.0
     date: '2026-04-19'
     code: 504221
     url: /works/504221/
@@ -169,7 +169,7 @@ works:
       been Lost
     author: mokataki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/557444.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-10-03'
     code: 557444
     url: /works/557444/
@@ -184,7 +184,7 @@ works:
   - title: Massage-ten de Futanari Bijo ni Portio Acme Shikomareru Onnanoko
     author: ginger-lily
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/567532.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-10-02'
     code: 567532
     url: /works/567532/
@@ -280,7 +280,7 @@ works:
       been Lost 2
     author: mokataki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/614397.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-10-02'
     code: 614397
     url: /works/614397/
@@ -389,7 +389,7 @@ works:
   - title: Stupid women are forced to become breeding slaves
     author: carpsukidayo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/641858.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-10-02'
     code: 641858
     url: /works/641858/
@@ -573,6 +573,13 @@ works:
     date: '2026-07-08'
     code: 662370
     url: /works/662370/
+  - title: Pure Delight A Front-Row Seat
+    author: daikanki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662550.jpg
+    rating: 4.6
+    date: '2026-07-09'
+    code: 662550
+    url: /works/662550/
   - title: Anal Hame Shitai Jukujo Shiri | This MILF Wants Anal Sex
     author: bonske
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662658.jpg
@@ -619,7 +626,7 @@ works:
       Into Darkness'
     author: hoshino-ryuichi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/664937.jpg
-    rating: 4.2
+    rating: 4.7
     date: '2026-07-17'
     code: 664937
     url: /works/664937/
@@ -665,6 +672,20 @@ works:
     date: '2026-08-23'
     code: 675048
     url: /works/675048/
+  - title: Dr. Sae's Sexual Behavior Study
+    author: torichamaru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/675652.jpg
+    rating: 4.5
+    date: '2026-09-26'
+    code: 675652
+    url: /works/675652/
+  - title: Stoic Diary
+    author: twilight
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/676397.jpg
+    rating: 4.8
+    date: '2026-08-29'
+    code: 676397
+    url: /works/676397/
   - title: Okasareta Hitozuma
     author: itaba-hiroshi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679197.jpg
@@ -774,14 +795,6 @@ works:
     date: '2026-09-19'
     code: 682339
     url: /works/682339/
-  - title: Shiroto Tsuma no Himitsu Haishin ~Zenpen~ | Housewife’s secret livestream
-      Part 1
-    author: hikitogu
-    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682524.jpg
-    rating: 5.0
-    date: '2026-09-20'
-    code: 682524
-    url: /works/682524/
   - title: Hifumi to Himitsu no Kankei ni Natteshimatta Hanashi - A story about getting
       into a secret relationship with Hifumi.
     author: arisu-kazumi
@@ -797,6 +810,13 @@ works:
     date: '2026-09-23'
     code: 683067
     url: /works/683067/
+  - title: FORCED ADMISSION UNDER RESTRAINT
+    author: halo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683188.jpg
+    rating: 4.5
+    date: '2026-09-22'
+    code: 683188
+    url: /works/683188/
   - title: Shiawase Kazoku no Sodate kata
     author: yaoyorozu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683398.jpg
@@ -819,15 +839,6 @@ works:
     date: '2026-09-25'
     code: 683992
     url: /works/683992/
-  - title: Shiyou-san Chi no Hakoiri Ojou-sama ni Seiyoku Shori Zangyou Saserareru Hanashi
-      | The Story of How the Sheltered Young Lady from the Ajisai Family Is Made to
-      Work Overtime to Satisfy Sexual Desires
-    author: nako-sir
-    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684073.jpg
-    rating: 4.6
-    date: '2026-09-29'
-    code: 684073
-    url: /works/684073/
   - title: Watashi no Oshiri no Hajimete o Anata-sama ni Sasagemasu | I offer my ass
       to you for the first time
     author: nadayui
@@ -847,7 +858,7 @@ works:
       no Senpai ga Kairaku ni Kuppuku Shite Ochiru made~
     author: yuzuriha
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684758.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-30'
     code: 684758
     url: /works/684758/
@@ -856,7 +867,7 @@ works:
       Becomes the Exclusive Fuck-Hole of a Futanari College Girl~
     author: ginger-lily
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685207.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-10-01'
     code: 685207
     url: /works/685207/
@@ -864,10 +875,18 @@ works:
       Me Dry
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685339.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-10-01'
     code: 685339
     url: /works/685339/
+  - title: Jichikai no Hitozuma wa Totemo Ecchi Deshita. 4 Natsu matsuri moto jikkou
+      iin Miyamori Chizuru-hen
+    author: tsusauto
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685661.jpg
+    rating: 0.0
+    date: '2026-10-05'
+    code: 685661
+    url: /works/685661/
   - title: Seishori ka no Kawakami-san | Pussy Lady, Ms. Kawakami
     author: carpsukidayo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685702.jpg
@@ -875,11 +894,19 @@ works:
     date: '2026-10-03'
     code: 685702
     url: /works/685702/
-  - title: Ichiya no Yume Senya No Maboroshi 1-7
-    author: sanbun-kyoden
-    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685727.jpg
+  - title: LATEST
+    author: ratatatat74-mr-skull
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685961.jpg
     rating: 0.0
-    date: '2026-10-02'
-    code: 685727
-    url: /works/685727/
+    date: '2026-10-05'
+    code: 685961
+    url: /works/685961/
+  - title: Warui Oji-san ni Yasashiku Shitara | When I Was Kind to a Bad Middle-Aged
+      Man
+    author: ma-kurou-madou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686029.jpg
+    rating: 0.0
+    date: '2026-10-05'
+    code: 686029
+    url: /works/686029/
 ---

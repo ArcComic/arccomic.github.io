@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "lab coat"
-work_count: 9
+work_count: 8
 works:
   - title: Prefab
     author: lioreo
@@ -59,11 +59,4 @@ works:
     date: '2026-09-20'
     code: 681566
     url: /works/681566/
-  - title: Insuru Juku Ashi
-    author: taba
-    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683318.jpg
-    rating: 4.5
-    date: '2026-09-23'
-    code: 683318
-    url: /works/683318/
 ---

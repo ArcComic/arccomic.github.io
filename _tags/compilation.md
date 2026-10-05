@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "compilation"
-work_count: 18
+work_count: 21
 works:
   - title: NTR Anniversary + ) [Syukurin] Mitsuha ~Netorare~ (Kimi no Na wa.) [English]
       [Colorized] by Mikaku
@@ -37,7 +37,7 @@ works:
       COMPLETE
     author: igumox
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/624573.jpg
-    rating: 4.2
+    rating: 4.8
     date: '2026-05-26'
     code: 624573
     url: /works/624573/
@@ -62,10 +62,17 @@ works:
     date: '2026-05-04'
     code: 647876
     url: /works/647876/
+  - title: Tonari no Ayane-san Soushuuhen | My Neighbor Ayane Anthology
+    author: herio
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/656319.jpg
+    rating: 4.4
+    date: '2026-08-18'
+    code: 656319
+    url: /works/656319/
   - title: miren -miren-
     author: sabakan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/661148.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-30'
     code: 661148
     url: /works/661148/
@@ -97,7 +104,14 @@ works:
     date: '2026-08-23'
     code: 668880
     url: /works/668880/
-  - title: Boku no Aisuru Tsuma o Daite Kudasai 1 - 3
+  - title: Kobito wa Yarisaa no Hime ni Natteimashita
+    author: urano-hikidashi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/676597.jpg
+    rating: 4.7
+    date: '2026-09-16'
+    code: 676597
+    url: /works/676597/
+  - title: Boku no Aisuru Tsuma o Daite Kudasai 1-3
     author: smells-like
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679771.jpg
     rating: 4.6
@@ -134,4 +148,11 @@ works:
     date: '2026-09-25'
     code: 683725
     url: /works/683725/
+  - title: LATEST
+    author: ratatatat74-mr-skull
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685961.jpg
+    rating: 0.0
+    date: '2026-10-05'
+    code: 685961
+    url: /works/685961/
 ---

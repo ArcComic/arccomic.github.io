@@ -18,9 +18,10 @@ works:
     date: '2026-09-25'
     code: 682212
     url: /works/682212/
-  - title: 'Inshuu Bijutsubu Kouhai Nude Model to Okiteyaburi no Sex ga Shita | Indecent
-      Art Club: I would like to break the rules and fool around with my junior nude
-      model'
+  - title: 'Inshuu Bijutsubu -Kouhai Nude Model to Okiteyaburi no Sex ga Shitai- - THE
+      CULTIC ART CLUB I would like to break the rules and fool around with my junior
+      nude model | Indecent Art Club: I would like to break the rules and fool around
+      with my junior nude model'
     author: kurumaya-koudou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683690.jpg
     rating: 4.6

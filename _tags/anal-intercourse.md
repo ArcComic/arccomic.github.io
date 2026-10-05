@@ -1,8 +1,17 @@
 ---
 layout: tag
 tag_name: "anal intercourse"
-work_count: 84
+work_count: 87
 works:
+  - title: Kanojo to no Kekkon Houkoku ni Kiseishita noni Gimai to Yarimakuri no Suujitsukan
+      ga Hajimatteshimatta | I visited my in-laws to announce my marriage and ended
+      up fucking my girlfriend's little sister silly!
+    author: nyaa-no-esa
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/421306.jpg
+    rating: 4.0
+    date: '2026-10-02'
+    code: 421306
+    url: /works/421306/
   - title: Bitch Mama no Kekkon Riyuu
     author: aoyama-akira
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/512473.jpg
@@ -81,7 +90,7 @@ works:
   - title: Mesu no Ie II ~Tsuma wa Midare Ubareru~
     author: ame-arare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/591112.jpg
-    rating: 4.3
+    rating: 5.0
     date: '2026-05-01'
     code: 591112
     url: /works/591112/
@@ -161,7 +170,7 @@ works:
   - title: Mishiranu Boshi ni Yaritai Houdai
     author: tonda
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/635363.jpg
-    rating: 4.6
+    rating: 4.7
     date: '2026-03-07'
     code: 635363
     url: /works/635363/
@@ -175,7 +184,7 @@ works:
   - title: Stupid women are forced to become breeding slaves
     author: carpsukidayo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/641858.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-10-02'
     code: 641858
     url: /works/641858/
@@ -372,6 +381,13 @@ works:
     date: '2026-09-19'
     code: 662706
     url: /works/662706/
+  - title: KAWAKAMI FROM THE SEXUAL RELIEF DIVISION
+    author: carpsukidayo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/664460.jpg
+    rating: 5.0
+    date: '2026-07-16'
+    code: 664460
+    url: /works/664460/
   - title: Otokonoko Otodoke Shimasu! 2 ~Itsumo kuru Haitatsuin-san ga Masaka no Otokonoko
       datta kedo Mayowazu Hameta~
     author: mitsujirou
@@ -384,7 +400,7 @@ works:
       Into Darkness'
     author: hoshino-ryuichi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/664937.jpg
-    rating: 4.2
+    rating: 4.7
     date: '2026-07-17'
     code: 664937
     url: /works/664937/
@@ -547,10 +563,10 @@ works:
     date: '2026-09-25'
     code: 682212
     url: /works/682212/
-  - title: 寝取らせクラブに送り出した不感症のダウナー彼女の報告 | 送往绿帽俱乐部的性冷淡阴沉女友的报告
+  - title: Netorase Club ni Okuridashita Fukanshou no Downer Kanojo no Houkoku
     author: sanuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682385.jpg
-    rating: 4.2
+    rating: 4.3
     date: '2026-09-19'
     code: 682385
     url: /works/682385/
@@ -561,17 +577,10 @@ works:
     date: '2026-09-22'
     code: 683121
     url: /works/683121/
-  - title: Insuru Juku Ashi
-    author: taba
-    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683318.jpg
-    rating: 4.5
-    date: '2026-09-23'
-    code: 683318
-    url: /works/683318/
   - title: Poker Face na Shinonome-kun
     author: kosyo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683874.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-27'
     code: 683874
     url: /works/683874/
@@ -601,7 +610,7 @@ works:
   - title: Yuuwaku Yukemuri! Aoba-kun
     author: kosyo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685284.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-10-01'
     code: 685284
     url: /works/685284/
@@ -609,7 +618,7 @@ works:
       Me Dry
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685339.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-10-01'
     code: 685339
     url: /works/685339/
@@ -620,4 +629,18 @@ works:
     date: '2026-10-03'
     code: 685702
     url: /works/685702/
+  - title: Bakunyuu Shimai ni Oshiekomu | Training the Busty Sisters
+    author: arakige-tanji
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685928.jpg
+    rating: 0.0
+    date: '2026-10-05'
+    code: 685928
+    url: /works/685928/
+  - title: Miko-kun no Hatsukoi
+    author: kisaki-noah
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685969.jpg
+    rating: 0.0
+    date: '2026-10-05'
+    code: 685969
+    url: /works/685969/
 ---

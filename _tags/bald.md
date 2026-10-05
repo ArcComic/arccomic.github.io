@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bald"
-work_count: 77
+work_count: 79
 works:
   - title: Overwrite
     author: ojo
@@ -120,7 +120,7 @@ works:
   - title: Choukyou Zumi Hitozuma OL wa Joushi ni Dakare Futatabi Ochiru
     author: toono-suika
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/550164.jpg
-    rating: 4.0
+    rating: 4.4
     date: '2026-07-10'
     code: 550164
     url: /works/550164/
@@ -178,7 +178,7 @@ works:
   - title: Geriatric Dragons dogma
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/596562.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-30'
     code: 596562
     url: /works/596562/
@@ -208,7 +208,7 @@ works:
   - title: Namaiki Papa Katsu Shoujo ni Seisai SEX
     author: ichinomiya-yuu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/614675.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-30'
     code: 614675
     url: /works/614675/
@@ -227,6 +227,13 @@ works:
     date: '2026-03-03'
     code: 620755
     url: /works/620755/
+  - title: Hitozuma-tachi no Kiken na Jouji | The Housewife's Dangerous Situation
+    author: homare
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/627722.jpg
+    rating: 0.0
+    date: '2026-10-05'
+    code: 627722
+    url: /works/627722/
   - title: Erufu (♀) no Bokensha ga Yadoya no Shujin ni Yobai&Tanetsuke Sareru Ohanashi
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/631719.jpg
@@ -246,7 +253,7 @@ works:
   - title: Mishiranu Boshi ni Yaritai Houdai
     author: tonda
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/635363.jpg
-    rating: 4.6
+    rating: 4.7
     date: '2026-03-07'
     code: 635363
     url: /works/635363/
@@ -357,7 +364,7 @@ works:
   - title: Inkan no Ketsuzoku 1-3
     author: diisuke
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651242.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-09-30'
     code: 651242
     url: /works/651242/
@@ -409,7 +416,7 @@ works:
       Break
     author: hikitogu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/660241.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-09-30'
     code: 660241
     url: /works/660241/
@@ -459,6 +466,13 @@ works:
     date: '2026-08-21'
     code: 674608
     url: /works/674608/
+  - title: Kuro Gal JK de Shasei Shitai
+    author: fujinoe13b
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678678.jpg
+    rating: 4.1
+    date: '2026-09-05'
+    code: 678678
+    url: /works/678678/
   - title: Homestay Saki no Mama-san ga Boku no Dekamara de Ikimakutta Hanashi | The
       story of how the mom at my homestay came over and over on my huge cock
     author: minegami-aya
@@ -542,13 +556,6 @@ works:
     date: '2026-09-22'
     code: 683137
     url: /works/683137/
-  - title: Soku Hame! Muwatto Ase Mure Musume - Let's Sex! Sweaty Girls
-    author: fetio
-    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683319.jpg
-    rating: 4.8
-    date: '2026-09-23'
-    code: 683319
-    url: /works/683319/
   - title: Oyaji no Saikon Aite wa Sukidatta Boku no Osananajimi
     author: makuma-ikeru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684314.jpg
@@ -561,7 +568,7 @@ works:
       Streamer'
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684921.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-30'
     code: 684921
     url: /works/684921/
@@ -569,8 +576,15 @@ works:
       the Cult- Part Two
     author: take-shinshi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685377.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-10-01'
     code: 685377
     url: /works/685377/
+  - title: Bakunyuu Shimai ni Oshiekomu | Training the Busty Sisters
+    author: arakige-tanji
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685928.jpg
+    rating: 0.0
+    date: '2026-10-05'
+    code: 685928
+    url: /works/685928/
 ---

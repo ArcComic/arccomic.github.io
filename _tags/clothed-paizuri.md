@@ -33,7 +33,7 @@ works:
       | Slutty Wife!'
     author: kametaro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/629368.jpg
-    rating: 4.4
+    rating: 4.8
     date: '2026-04-30'
     code: 629368
     url: /works/629368/

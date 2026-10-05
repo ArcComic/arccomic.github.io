@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "femdom"
-work_count: 163
+work_count: 165
 works:
   - title: Life with Married Women Just Like a Manga 2 - Ch. 1-5
     author: hidemaru
@@ -57,7 +57,7 @@ works:
   - title: Hajimete Kanojo Ga Dekita No Ni
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/316579.jpg
-    rating: 4.6
+    rating: 4.0
     date: '2026-09-13'
     code: 316579
     url: /works/316579/
@@ -99,7 +99,7 @@ works:
   - title: Kono Koi ni Kiduite
     author: danimaru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/357965.jpg
-    rating: 4.6
+    rating: 4.3
     date: '2026-04-27'
     code: 357965
     url: /works/357965/
@@ -184,9 +184,9 @@ works:
     url: /works/438138/
   - title: Itabasami na Wakachi Ai 4 | Love Divided Between a Rock and a Hard Place
       4
-    author: group
+    author: cabin
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/448503.jpg
-    rating: 5.0
+    rating: 4.9
     date: '2026-04-23'
     code: 448503
     url: /works/448503/
@@ -304,7 +304,7 @@ works:
       My Wife... She's Got Me By The Balls!
     author: inu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/550948.jpg
-    rating: 4.0
+    rating: 4.4
     date: '2026-08-22'
     code: 550948
     url: /works/550948/
@@ -422,7 +422,7 @@ works:
       COMPLETE
     author: igumox
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/624573.jpg
-    rating: 4.2
+    rating: 4.8
     date: '2026-05-26'
     code: 624573
     url: /works/624573/
@@ -623,7 +623,7 @@ works:
   - title: If I Have a Chance, I Want to Warp My Boyfriend's Fetishes!
     author: meeko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/647619.jpg
-    rating: 4.6
+    rating: 4.2
     date: '2026-05-03'
     code: 647619
     url: /works/647619/
@@ -638,7 +638,7 @@ works:
       Trip to the Hotsprings~
     author: meeko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/648042.jpg
-    rating: 4.5
+    rating: 4.4
     date: '2026-05-05'
     code: 648042
     url: /works/648042/
@@ -663,14 +663,6 @@ works:
     date: '2026-05-07'
     code: 648310
     url: /works/648310/
-  - title: You're My Doggy... Right? ~Pamper Loving Boyfriend Becomes A Wild Sadist
-      Hound~
-    author: the-waidan
-    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/649029.jpg
-    rating: 4.9
-    date: '2026-05-10'
-    code: 649029
-    url: /works/649029/
   - title: I Want To Take Hikaru Narumi's First Time
     author: concontochu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/649039.jpg
@@ -792,7 +784,7 @@ works:
   - title: MORAL HAZARD ~Haitoku no Kyoudan~
     author: hiraoka-ryuichi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/66420.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-30'
     code: 66420
     url: /works/66420/
@@ -917,6 +909,15 @@ works:
     date: '2026-08-23'
     code: 674960
     url: /works/674960/
+  - title: Nijigen Otaku no Ore ga Tenkou Shite Kita Kyonyuu Idol ni Otosareru made
+      - A 2D Otaku Falls for the Curvy Idol Transfer Student | How I, a 2D-Obsessed
+      Otaku, Fell for the Busty Idol Who Transferred to My School
+    author: manno
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/677731.jpg
+    rating: 4.6
+    date: '2026-09-04'
+    code: 677731
+    url: /works/677731/
   - title: Okasareta Hitozuma
     author: itaba-hiroshi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679197.jpg
@@ -924,8 +925,9 @@ works:
     date: '2026-09-07'
     code: 679197
     url: /works/679197/
-  - title: Having Intense, Romantic Raw Sex With A 8-foot Tall Woman I Met On A Dating
-      App
+  - title: MatchApp de Atta Hachishaku-sama ni Gyaku Tanetsuke Press Sarenagara IchaLove
+      Noukou Namashibori Sex | Having Intense, Romantic Raw Sex With A 8-foot Tall Woman
+      I Met On A Dating App
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679942.jpg
     rating: 4.6
@@ -1086,13 +1088,6 @@ works:
     date: '2026-09-23'
     code: 683318
     url: /works/683318/
-  - title: Soku Hame! Muwatto Ase Mure Musume - Let's Sex! Sweaty Girls
-    author: fetio
-    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683319.jpg
-    rating: 4.8
-    date: '2026-09-23'
-    code: 683319
-    url: /works/683319/
   - title: Ueno-kun wa Kaihatsu-zumi Dai 97 wa | Ueno-kun Has Been Developed Chapter
       97
     author: nakaura
@@ -1115,6 +1110,13 @@ works:
     date: '2026-09-24'
     code: 683744
     url: /works/683744/
+  - title: It's Not Like We're Related
+    author: zonebell-tsukiji
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684010.jpg
+    rating: 4.6
+    date: '2026-09-26'
+    code: 684010
+    url: /works/684010/
   - title: Tonikaku Yaritai Gal ga Kyokon Otaku ni Deattara
     author: tokunaga
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684061.jpg
@@ -1165,24 +1167,39 @@ works:
   - title: YOUR SISTER - CHAPTER 1-16
     author: konparu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684882.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-30'
     code: 684882
     url: /works/684882/
-  - title: GyaGyaGya Gal Cosplay - LoveHo de Micchaku Nurunuru Soap Gokko
-    author: x36marubox
-    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684911.jpg
-    rating: 0.0
-    date: '2026-09-30'
-    code: 684911
-    url: /works/684911/
   - title: Ratatatat74 09/26 post 5$+
     author: ratatatat74-mr-skull
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685546.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-10-03'
     code: 685546
     url: /works/685546/
+  - title: Saimin Gakuen 5 Saiminjutsu de Yari Houdai no Gakuen Harem o Te ni Ireta
+      Ore | I Used Hypnosis to Create a School Harem That I Can Fuck as Much as I Want
+    author: inagita
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685874.jpg
+    rating: 0.0
+    date: '2026-10-05'
+    code: 685874
+    url: /works/685874/
+  - title: Sensei Sakusei Party | Sensei's Semen Extraction Party
+    author: cigar-cat
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685882.jpg
+    rating: 0.0
+    date: '2026-10-05'
+    code: 685882
+    url: /works/685882/
+  - title: LATEST
+    author: ratatatat74-mr-skull
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685961.jpg
+    rating: 0.0
+    date: '2026-10-05'
+    code: 685961
+    url: /works/685961/
   - title: Jokyoushi - Hot For Teachers | Female Teachers
     author: drill-murata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/81375.jpg

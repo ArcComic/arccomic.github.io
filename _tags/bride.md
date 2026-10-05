@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bride"
-work_count: 12
+work_count: 11
 works:
   - title: Ichizu na Onee-san to Saikaishitara Dosukebe Kyuukonsarete Sex Tsukeninaru
       Hanashi | After Reuniting with the Onee-san Who is Fixated on Me, I was Proposed
@@ -38,7 +38,7 @@ works:
       COMPLETE
     author: igumox
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/624573.jpg
-    rating: 4.2
+    rating: 4.8
     date: '2026-05-26'
     code: 624573
     url: /works/624573/
@@ -80,14 +80,6 @@ works:
     date: '2026-09-13'
     code: 680885
     url: /works/680885/
-  - title: Shiri de Onna o Miwakeru Ore wa Onna Joushi no Yowami o Nigiru 2 | I, A Guy
-      Who Tells Women Apart By Their Asses, Got Blackmail On My Superior At Work 2
-    author: eco-heeky
-    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684178.jpg
-    rating: 4.9
-    date: '2026-09-27'
-    code: 684178
-    url: /works/684178/
   - title: Inin Keiyaku | Lewd Pregnancy Contract
     author: yoshiura-kazuya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/83595.jpg

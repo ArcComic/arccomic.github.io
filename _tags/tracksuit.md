@@ -55,6 +55,13 @@ works:
     date: '2026-09-19'
     code: 622161
     url: /works/622161/
+  - title: Cool-kei Dansou Onna ni Kanojo Netorareta kara, Wakarasete Yatta 2
+    author: kurukuru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651338.jpg
+    rating: 4.1
+    date: '2026-05-20'
+    code: 651338
+    url: /works/651338/
   - title: Boku no kanojo | My Girlfriend
     author: fuguta-ke
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651346.jpg
@@ -100,11 +107,4 @@ works:
     date: '2026-09-25'
     code: 683984
     url: /works/683984/
-  - title: Okkii Kaizou Keikaku | The Okki Makeover Plan
-    author: umihotaru-harumare
-    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684608.jpg
-    rating: 4.9
-    date: '2026-09-28'
-    code: 684608
-    url: /works/684608/
 ---

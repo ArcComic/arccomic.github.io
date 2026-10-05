@@ -1,19 +1,19 @@
 ---
 layout: tag
 tag_name: "full color"
-work_count: 242
+work_count: 245
 works:
   - title: Pai☆Panic ~Hasamareta Dekapai~
     author: inkey
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/143217.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-10-02'
     code: 143217
     url: /works/143217/
   - title: Pai☆Panic ~Hasamareta Dekapai~ 2
     author: inkey
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/284270.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-10-02'
     code: 284270
     url: /works/284270/
@@ -27,7 +27,7 @@ works:
   - title: The Girl That Got Stuck in the Wall Ch.11/11
     author: gaehoju
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/304474.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-02'
     code: 304474
     url: /works/304474/
@@ -99,7 +99,7 @@ works:
       Gaman Dekizu soto de Icchaimashita...
     author: aono-akira
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/385266.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-10-03'
     code: 385266
     url: /works/385266/
@@ -149,7 +149,7 @@ works:
       and I Became Sex Friends With Benefits
     author: iron-sugar
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/404719.jpg
-    rating: 4.2
+    rating: 4.3
     date: '2026-09-17'
     code: 404719
     url: /works/404719/
@@ -230,7 +230,7 @@ works:
   - title: This Slouching Girl’s Nipples Are So Sensitive…!
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/437443.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-30'
     code: 437443
     url: /works/437443/
@@ -245,7 +245,7 @@ works:
   - title: Yaoyorozu Sex – My Virginity Was Taken by Japanese Gods
     author: prhs
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/442084.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-30'
     code: 442084
     url: /works/442084/
@@ -318,7 +318,7 @@ works:
   - title: Corruption Obscene Tales ch 1-4
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/490746.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-30'
     code: 490746
     url: /works/490746/
@@ -363,7 +363,7 @@ works:
       My Mom~
     author: hara-shigeyuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/504221.jpg
-    rating: 4.9
+    rating: 5.0
     date: '2026-04-19'
     code: 504221
     url: /works/504221/
@@ -407,7 +407,7 @@ works:
       1-3 | Stealthily Fucking My Dozing Boss (She Came While Pretending to Sleep) 1-3
     author: nanakusa-amane
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/509049.jpg
-    rating: 4.1
+    rating: 4.2
     date: '2026-04-23'
     code: 509049
     url: /works/509049/
@@ -425,7 +425,7 @@ works:
       Friend…!” 1-3
     author: aono-akira
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/509578.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-10-03'
     code: 509578
     url: /works/509578/
@@ -818,7 +818,7 @@ works:
       Secret Rule Vol. 1-3'
     author: ouma
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/608911.jpg
-    rating: 4.6
+    rating: 4.4
     date: '2026-05-04'
     code: 608911
     url: /works/608911/
@@ -928,7 +928,7 @@ works:
       wa Yakinaoshi ja Nai yo. Settei Igai wa Sinsaku da yo. Sonna Kanji no Vol. 2 desu
     author: haruharudo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/632056.jpg
-    rating: 4.1
+    rating: 4.2
     date: '2026-07-17'
     code: 632056
     url: /works/632056/
@@ -1135,7 +1135,7 @@ works:
   - title: Majime na Salaryman ga JK Chijo ni Otosareru Hanashi
     author: hamo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/652651.jpg
-    rating: 4.1
+    rating: 4.7
     date: '2026-08-28'
     code: 652651
     url: /works/652651/
@@ -1226,7 +1226,7 @@ works:
   - title: Ero Sugiru Imouto to Fukinshin na Ore
     author: hazuki-kaoru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/657207.jpg
-    rating: 4.5
+    rating: 4.7
     date: '2026-07-07'
     code: 657207
     url: /works/657207/
@@ -1263,7 +1263,7 @@ works:
       Break
     author: hikitogu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/660241.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-09-30'
     code: 660241
     url: /works/660241/
@@ -1278,7 +1278,7 @@ works:
   - title: Oretoku Shuugakuryokou ~Otoko wa Jyosou shita Ore dake!! Ch 1-29
     author: okumori-boy
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/661664.jpg
-    rating: 4.1
+    rating: 4.6
     date: '2026-07-06'
     code: 661664
     url: /works/661664/
@@ -1286,7 +1286,7 @@ works:
       no Love Hame Koukanroku File 03
     author: tsukino-jyogi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662653.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-30'
     code: 662653
     url: /works/662653/
@@ -1345,7 +1345,7 @@ works:
   - title: Chijo Tsuma no Tawamure ~Zenpen~ _ My Boss Has a Slutty Wife Part 1
     author: hikitogu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/664679.jpg
-    rating: 4.0
+    rating: 4.1
     date: '2026-07-16'
     code: 664679
     url: /works/664679/
@@ -1518,6 +1518,20 @@ works:
     date: '2026-09-10'
     code: 679977
     url: /works/679977/
+  - title: Panpan Travelers HIROSHIMA Shuudan Rape Ryokou Hen-MTL
+    author: raidon
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680318.jpg
+    rating: 4.6
+    date: '2026-09-11'
+    code: 680318
+    url: /works/680318/
+  - title: Panpan Travelers OKINAWA Shuudan Rape Zumi Harem Hitoritabi Hen-MTL
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680323.jpg
+    rating: 4.2
+    date: '2026-09-11'
+    code: 680323
+    url: /works/680323/
   - title: Mature College Student Kaori (38) - The Story Of Being Taken Home From A
       Welcome Party
     author: mafen
@@ -1739,7 +1753,7 @@ works:
       Streamer'
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684921.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-30'
     code: 684921
     url: /works/684921/
@@ -1747,14 +1761,14 @@ works:
       Me Dry
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685339.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-10-01'
     code: 685339
     url: /works/685339/
   - title: Papa no Shinshitsu wa Musume Tomodachi no Tamariba 5 -Ninshin Houkoku Hen-
     author: richard-bahman
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685678.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-10-02'
     code: 685678
     url: /works/685678/
@@ -1762,15 +1776,22 @@ works:
       Needs to be Scolded 1-36
     author: juna-juna-juice
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685683.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-02'
     code: 685683
     url: /works/685683/
   - title: Paizuri Iin no Katsudou Kiroku
     author: shake-chazuke
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685770.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-10-03'
     code: 685770
     url: /works/685770/
+  - title: lots of sex in the future! Bulma and Gohan manga colors
+    author: yamamoto
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686031.jpg
+    rating: 0.0
+    date: '2026-10-05'
+    code: 686031
+    url: /works/686031/
 ---

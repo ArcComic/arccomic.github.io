@@ -10,8 +10,8 @@ works:
     date: '2026-03-07'
     code: 634198
     url: /works/634198/
-  - title: Tachibana-san-chi no Dansei Jijou 2 | The Tachibana Household's Male Affairs
-      2
+  - title: Tachibana-san-chi no Dansei Jijou Matome Ban | The Tachibana Household's
+      Male Affairs
     author: jin
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681720.jpg
     rating: 4.8

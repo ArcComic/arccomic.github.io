@@ -82,8 +82,8 @@ works:
     date: '2026-09-11'
     code: 679599
     url: /works/679599/
-  - title: Irekawari no Natsu, Onee-chan no Karada de no Natsu｜The Summer Swap -A Summer
-      in my Onee-chan's Body-
+  - title: Irekawari no Natsu, Onee-chan no Karada de no Natsu | The Summer Swap -A
+      Summer in my Onee-chan's Body-
     author: naba
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684142.jpg
     rating: 4.3
@@ -93,7 +93,7 @@ works:
   - title: Newlywed couple is involved in sugar daddy/sugar daughter relationship
     author: zaregoto-hituji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685229.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-10-01'
     code: 685229
     url: /works/685229/
@@ -101,7 +101,7 @@ works:
       at the school festival!!
     author: yuukey
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685231.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-10-01'
     code: 685231
     url: /works/685231/

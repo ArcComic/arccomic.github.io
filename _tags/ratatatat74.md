@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "ratatatat74"
-work_count: 2
+work_count: 3
 works:
   - title: Till Dick Do Us Part
     author: ratatatat74-mr-skull
@@ -17,4 +17,11 @@ works:
     date: '2026-08-29'
     code: 676425
     url: /works/676425/
+  - title: Ratatatat74 09/26 post 5$+
+    author: ratatatat74-mr-skull
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685546.jpg
+    rating: 4.5
+    date: '2026-10-03'
+    code: 685546
+    url: /works/685546/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "smell"
-work_count: 24
+work_count: 21
 works:
   - title: Natsu Jiru Ch. 1-2
     author: sena-youtarou
@@ -20,7 +20,7 @@ works:
   - title: Konoe no Kyuujitsu | Konoe's Day Off
     author: alp
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/479447.jpg
-    rating: 4.9
+    rating: 4.1
     date: '2026-08-18'
     code: 479447
     url: /works/479447/
@@ -144,13 +144,6 @@ works:
     date: '2026-09-19'
     code: 682326
     url: /works/682326/
-  - title: Torokesasenaide Danna-sama
-    author: tsurui
-    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682934.jpg
-    rating: 4.1
-    date: '2026-09-22'
-    code: 682934
-    url: /works/682934/
   - title: Insuru Juku Ashi
     author: taba
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683318.jpg
@@ -158,13 +151,6 @@ works:
     date: '2026-09-23'
     code: 683318
     url: /works/683318/
-  - title: Soku Hame! Muwatto Ase Mure Musume - Let's Sex! Sweaty Girls
-    author: fetio
-    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683319.jpg
-    rating: 4.8
-    date: '2026-09-23'
-    code: 683319
-    url: /works/683319/
   - title: Shiri de Onna o Miwakeru Ore wa Onna Joushi no Yowami o Nigiru 2 | I, A Guy
       Who Tells Women Apart By Their Asses, Got Blackmail On My Superior At Work 2
     author: eco-heeky
@@ -173,12 +159,4 @@ works:
     date: '2026-09-27'
     code: 684178
     url: /works/684178/
-  - title: Gal to Otaku no Idenshi Aishou Batsugun H |  Hot Sex Between a Gal and an
-      Otaku With Perfect Genes Compatibility
-    author: joucho
-    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684305.jpg
-    rating: 4.3
-    date: '2026-09-27'
-    code: 684305
-    url: /works/684305/
 ---

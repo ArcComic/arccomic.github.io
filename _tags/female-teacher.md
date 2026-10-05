@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "female teacher"
-work_count: 3
+work_count: 5
 works:
   - title: Sei no Kenryoku | The Power of Sex
     author: tomohiro-kai
@@ -25,4 +25,18 @@ works:
     date: '2026-05-07'
     code: 648310
     url: /works/648310/
+  - title: Mikami Sensei Ekohiiki Kyoushi no Hisanna Matsuro
+    author: tamagou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/661932.jpg
+    rating: 4.5
+    date: '2026-07-07'
+    code: 661932
+    url: /works/661932/
+  - title: Anal Hame Shitai Jukujo Shiri | This MILF Wants Anal Sex
+    author: bonske
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662658.jpg
+    rating: 4.7
+    date: '2026-07-09'
+    code: 662658
+    url: /works/662658/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "japanese"
-work_count: 40
+work_count: 38
 works:
   - title: Hitozuma Hyakka
     author: hase-tsubura
@@ -272,19 +272,4 @@ works:
     date: '2026-05-07'
     code: 648551
     url: /works/648551/
-  - title: '108P! ~1-nengo ni Zettai 108P Suru Hanashi~ (108P!: A Promise to 108P in
-      a Year) 04'
-    author: en
-    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679678.jpg
-    rating: 4.8
-    date: '2026-09-09'
-    code: 679678
-    url: /works/679678/
-  - title: The Evil Mask 6
-    author: aquotz
-    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682882.jpg
-    rating: 4.9
-    date: '2026-09-22'
-    code: 682882
-    url: /works/682882/
 ---

@@ -17,7 +17,7 @@ works:
     url: /works/415906/
   - title: Haha ni Muketa Seiyoku
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/632534.jpg
-    rating: 4.1
+    rating: 4.3
     date: '2026-03-04'
     code: 632534
     url: /works/632534/

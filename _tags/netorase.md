@@ -167,6 +167,13 @@ works:
     date: '2026-09-26'
     code: 654244
     url: /works/654244/
+  - title: Himaten NTR 19P
+    author: terasu-mc
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654484.jpg
+    rating: 4.0
+    date: '2026-08-22'
+    code: 654484
+    url: /works/654484/
   - title: Tonikaku Sex ga Shitai Oba-san, Ryouko | Auntie Ryouko Wants to Have Sex
       Everyday
     author: mokuzou
@@ -196,21 +203,13 @@ works:
     date: '2026-08-21'
     code: 672241
     url: /works/672241/
-  - title: Boku no Aisuru Tsuma o Daite Kudasai 1 - 3
+  - title: Boku no Aisuru Tsuma o Daite Kudasai 1-3
     author: smells-like
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679771.jpg
     rating: 4.6
     date: '2026-09-09'
     code: 679771
     url: /works/679771/
-  - title: The Face I Show My Husband Is Different | Otto no Mae to wa Chigau Kao [English]
-      [Cookie Cruncher
-    author: jirou
-    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679830.jpg
-    rating: 4.6
-    date: '2026-09-09'
-    code: 679830
-    url: /works/679830/
   - title: Netorarete Netorasete 2
     author: amano-kazumi-taira-issui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680574.jpg
@@ -232,10 +231,10 @@ works:
     date: '2026-09-13'
     code: 680970
     url: /works/680970/
-  - title: 寝取らせクラブに送り出した不感症のダウナー彼女の報告 | 送往绿帽俱乐部的性冷淡阴沉女友的报告
+  - title: Netorase Club ni Okuridashita Fukanshou no Downer Kanojo no Houkoku
     author: sanuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682385.jpg
-    rating: 4.2
+    rating: 4.3
     date: '2026-09-19'
     code: 682385
     url: /works/682385/
@@ -256,7 +255,7 @@ works:
   - title: Poison Assort
     author: kerenme
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685785.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-10-03'
     code: 685785
     url: /works/685785/

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "deepthroat"
-work_count: 81
+work_count: 77
 works:
   - title: Toshishita Chin Kui Obasan
     author: maccha-neji
@@ -25,6 +25,14 @@ works:
     date: '2026-09-26'
     code: 490633
     url: /works/490633/
+  - title: My part-time coworker ran away from home and came to work here, but she was
+      too sexy...
+    author: yamakonbu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/515799.jpg
+    rating: 5.0
+    date: '2026-09-05'
+    code: 515799
+    url: /works/515799/
   - title: Hatsutaiken no Susume | Recommendation for the First Time Experience
     author: mojarin
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/532651.jpg
@@ -118,7 +126,7 @@ works:
       COMPLETE
     author: igumox
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/624573.jpg
-    rating: 4.2
+    rating: 4.8
     date: '2026-05-26'
     code: 624573
     url: /works/624573/
@@ -225,7 +233,7 @@ works:
       i hate!
     author: watsondou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/648591.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-30'
     code: 648591
     url: /works/648591/
@@ -259,6 +267,13 @@ works:
     date: '2026-05-20'
     code: 650926
     url: /works/650926/
+  - title: Oshiego no Gal o Kau
+    author: mitsudoue
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651197.jpg
+    rating: 4.0
+    date: '2026-05-20'
+    code: 651197
+    url: /works/651197/
   - title: 'Namaiki Gal o Succubus ni Shite Oshioki Shitatta Ken 4  | Turning a Bratty
       Gal into a Succubus for Punishment #4'
     author: takurowo
@@ -352,6 +367,13 @@ works:
     date: '2026-07-08'
     code: 662329
     url: /works/662329/
+  - title: Kareshi no Tame ni Nugimasu. - I'll take it off for my boyfriend.
+    author: mitsuki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662890.jpg
+    rating: 4.7
+    date: '2026-07-10'
+    code: 662890
+    url: /works/662890/
   - title: Metal Girl Ie Onanie
     author: ishimura-ishimiso
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/663142.jpg
@@ -389,6 +411,15 @@ works:
     date: '2026-09-29'
     code: 670438
     url: /works/670438/
+  - title: Saimin Mahou de Sokuochi Namaiki Majo Koko-chan ~Tensai Elite nanonii Mamono
+      Chinpo ni Kusozako Make Acme Kimechaimashitaa~ | Instant Fall via Hypnosis Magic❤
+      Cheeky Witch Koko-chan ~A Genius Elite, Yet...❤ Monster
+    author: yonketa
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673561.jpg
+    rating: 5.0
+    date: '2026-08-18'
+    code: 673561
+    url: /works/673561/
   - title: Pawahara Onna Joshi, Yowami wo Nigirarete Zenra Dogeza de Fukujuu S
     author: miyamoto-muga
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673775.jpg
@@ -431,7 +462,7 @@ works:
   - title: Dr. Sae's Sexual Behavior Study
     author: torichamaru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/675652.jpg
-    rating: 4.3
+    rating: 4.5
     date: '2026-09-26'
     code: 675652
     url: /works/675652/
@@ -453,8 +484,9 @@ works:
     date: '2026-09-06'
     code: 678913
     url: /works/678913/
-  - title: Having Intense, Romantic Raw Sex With A 8-foot Tall Woman I Met On A Dating
-      App
+  - title: MatchApp de Atta Hachishaku-sama ni Gyaku Tanetsuke Press Sarenagara IchaLove
+      Noukou Namashibori Sex | Having Intense, Romantic Raw Sex With A 8-foot Tall Woman
+      I Met On A Dating App
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679942.jpg
     rating: 4.6
@@ -496,32 +528,6 @@ works:
     date: '2026-09-19'
     code: 682290
     url: /works/682290/
-  - title: Kuro-Gal Mama-san Haramasex
-    author: ooshima-ryou
-    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683312.jpg
-    rating: 4.3
-    date: '2026-09-23'
-    code: 683312
-    url: /works/683312/
-  - title: Shiyou-san Chi no Hakoiri Ojou-sama ni Seiyoku Shori Zangyou Saserareru Hanashi
-      | The Story of How the Sheltered Young Lady from the Ajisai Family Is Made to
-      Work Overtime to Satisfy Sexual Desires
-    author: nako-sir
-    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684073.jpg
-    rating: 4.6
-    date: '2026-09-29'
-    code: 684073
-    url: /works/684073/
-  - title: Ore no Seiheki o Guchagucha ni Shite Oite Shiranai Aida ni Kekkon Shite ita
-      Moto SeFri to Saigo no Bachiboko Sex Osame suru Hanashi | A story about having
-      one last wild, wild sex session with my ex-fuck buddy— The one who messed with
-      my kinks and then got married behind my back
-    author: nako-sir
-    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684077.jpg
-    rating: 4.6
-    date: '2026-09-26'
-    code: 684077
-    url: /works/684077/
   - title: '"BSS" Zutto Suki Datta Tonari no Seki no Onnanoko ga Shinyuu no Yokodori
       Sareru Hanashi | [BSS] The Story of How the Girl Next To My Seat Whom I''ve Always
       Liked Was Stolen by My Best Friend'
@@ -531,36 +537,6 @@ works:
     date: '2026-09-26'
     code: 684124
     url: /works/684124/
-  - title: Shiri de Onna o Miwakeru Ore wa Onna Joushi no Yowami o Nigiru 2 | I, A Guy
-      Who Tells Women Apart By Their Asses, Got Blackmail On My Superior At Work 2
-    author: eco-heeky
-    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684178.jpg
-    rating: 4.9
-    date: '2026-09-27'
-    code: 684178
-    url: /works/684178/
-  - title: Namaiki Gal o Succubus ni Shite Oshioki Shitatta Ken Final
-    author: takurowo
-    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684215.jpg
-    rating: 4.3
-    date: '2026-09-27'
-    code: 684215
-    url: /works/684215/
-  - title: GOOD WIFE
-    author: laliberte
-    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684283.jpg
-    rating: 4.7
-    date: '2026-09-27'
-    code: 684283
-    url: /works/684283/
-  - title: Suki na Ko no Beit Saki ga H na Service o Shiteiru 5 | My Favorite Girl's
-      Part-time Job Offers H Services to Regular Customers 5
-    author: tohyama-eight
-    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684392.jpg
-    rating: 4.1
-    date: '2026-09-27'
-    code: 684392
-    url: /works/684392/
   - title: I'm Sorry Honey Your Penis is Too Small
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684550.jpg
@@ -568,36 +544,12 @@ works:
     date: '2026-09-28'
     code: 684550
     url: /works/684550/
-  - title: InCha na Ore dake ga Shitteiru Seitokaichou no Uragawa. ~Kakure Kyonyuu no
-      Senpai ga Kairaku ni Kuppuku Shite Ochiru made~
-    author: yuzuriha
-    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684759.jpg
-    rating: 0.0
-    date: '2026-09-30'
-    code: 684759
-    url: /works/684759/
-  - title: Mesu ni shite kure! 3
-    author: unknown
-    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684800.jpg
-    rating: 4.6
-    date: '2026-09-29'
-    code: 684800
-    url: /works/684800/
-  - title: 'Fukushuu Yami Beit "Shijin Taihokei Haishinsha ni Otoshiirerareta kara Fukushuu
-      Shite Hoshii" | My Part-Time Job Is Getting Revenge: Framed By A Citizens Arrest
-      Streamer'
-    author: group
-    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684921.jpg
-    rating: 0.0
-    date: '2026-09-30'
-    code: 684921
-    url: /works/684921/
   - title: Oho-goe Koubi Do-hamari Onee-san ~Futanari Joshi Daisei Senyou Koki Ana~
       | An Onee-san Gets Totally Hooked on Sex That Makes Her Moan Like Crazy! ~And
       Becomes the Exclusive Fuck-Hole of a Futanari College Girl~
     author: ginger-lily
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685207.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-10-01'
     code: 685207
     url: /works/685207/
@@ -605,7 +557,7 @@ works:
       Me Dry
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685339.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-10-01'
     code: 685339
     url: /works/685339/
@@ -613,15 +565,31 @@ works:
       Girl My Mom Actually Showed Up 2
     author: tarobaumu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685728.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-10-02'
     code: 685728
     url: /works/685728/
   - title: Poison Assort
     author: kerenme
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685785.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-10-03'
     code: 685785
     url: /works/685785/
+  - title: Gal ni Natta Osananajimi to Chissoku Genkai Suichuu Ecchi! | My Childhood
+      Friend Turned into a Gal - A Near-Limit Asphyxiation Underwater Sex!
+    author: gyokuro-sakana
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685952.jpg
+    rating: 0.0
+    date: '2026-10-05'
+    code: 685952
+    url: /works/685952/
+  - title: Warui Oji-san ni Yasashiku Shitara | When I Was Kind to a Bad Middle-Aged
+      Man
+    author: ma-kurou-madou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686029.jpg
+    rating: 0.0
+    date: '2026-10-05'
+    code: 686029
+    url: /works/686029/
 ---

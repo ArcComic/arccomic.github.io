@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bloomers"
-work_count: 5
+work_count: 6
 works:
   - title: Tsuki ga Noboru | Moonrise
     author: rocket-monkey
@@ -39,4 +39,12 @@ works:
     date: '2026-07-05'
     code: 660869
     url: /works/660869/
+  - title: Ochiba Nikki -Nae Gasshuku Hen 1- | Fallen Leaves Diary -Nae's Training Camp
+      Arc 1-
+    author: hitoi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680481.jpg
+    rating: 4.5
+    date: '2026-09-12'
+    code: 680481
+    url: /works/680481/
 ---

@@ -8,7 +8,7 @@ works:
       Accompaniment are now Disturbing my Vagina
     author: uruh-aqua
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/507473.jpg
-    rating: 4.3
+    rating: 4.1
     date: '2026-04-15'
     code: 507473
     url: /works/507473/
@@ -31,7 +31,7 @@ works:
   - title: My Thousand Days With Mentor Tsuji
     author: concontochu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/588066.jpg
-    rating: 4.3
+    rating: 4.4
     date: '2026-04-15'
     code: 588066
     url: /works/588066/
@@ -39,7 +39,7 @@ works:
       Serious Office Worker Shizuno Keeps A Pet Guy At Home
     author: yuzuha
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/632188.jpg
-    rating: 4.5
+    rating: 4.1
     date: '2026-04-25'
     code: 632188
     url: /works/632188/
@@ -53,7 +53,7 @@ works:
   - title: Sweetly Obsessive Guy wants to XXX with Moeko
     author: the-waidan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/637829.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-10-03'
     code: 637829
     url: /works/637829/

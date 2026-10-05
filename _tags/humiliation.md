@@ -27,7 +27,7 @@ works:
   - title: Datenshi no Yuuwaku -Office Angel Project- 1
     author: hiraoka-ryuichi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/491622.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-09-30'
     code: 491622
     url: /works/491622/
@@ -57,7 +57,7 @@ works:
       been Lost
     author: mokataki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/557444.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-10-03'
     code: 557444
     url: /works/557444/
@@ -94,7 +94,7 @@ works:
       been Lost 2
     author: mokataki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/614397.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-10-02'
     code: 614397
     url: /works/614397/
@@ -130,7 +130,7 @@ works:
   - title: Stupid women are forced to become breeding slaves
     author: carpsukidayo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/641858.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-10-02'
     code: 641858
     url: /works/641858/
@@ -173,6 +173,13 @@ works:
     date: '2026-09-24'
     code: 654240
     url: /works/654240/
+  - title: Himaten NTR 19P
+    author: terasu-mc
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654484.jpg
+    rating: 4.0
+    date: '2026-08-22'
+    code: 654484
+    url: /works/654484/
   - title: Shinyuu Tatakitsubushi Kyousou Shiiku Seikatsu | A Life in Captivity The
       Competition to Break My Best Friend
     author: group
@@ -262,14 +269,6 @@ works:
     date: '2026-08-23'
     code: 674973
     url: /works/674973/
-  - title: Ishiki Takai-kei Toshishita Kachou -Kanzen Kuppuku- TiPer Juushi no Onna
-      ga Owaranai Zangyou Sex de Songen
-    author: hachi-mega
-    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680311.jpg
-    rating: 4.3
-    date: '2026-09-11'
-    code: 680311
-    url: /works/680311/
   - title: Under Maternal Love 1-18
     author: midnight
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681724.jpg
@@ -320,13 +319,6 @@ works:
     date: '2026-09-23'
     code: 683225
     url: /works/683225/
-  - title: Insuru Juku Ashi
-    author: taba
-    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683318.jpg
-    rating: 4.5
-    date: '2026-09-23'
-    code: 683318
-    url: /works/683318/
   - title: 'Kokujin no Tenkousei NTR ru Chapters 1-6 part 1 Plus Bonus chapter: Stolen
       Mother’s Breasts'
     author: terasu-mc
@@ -345,8 +337,15 @@ works:
   - title: Ratatatat74 09/26 post 5$+
     author: ratatatat74-mr-skull
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685546.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-10-03'
     code: 685546
     url: /works/685546/
+  - title: LATEST
+    author: ratatatat74-mr-skull
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685961.jpg
+    rating: 0.0
+    date: '2026-10-05'
+    code: 685961
+    url: /works/685961/
 ---

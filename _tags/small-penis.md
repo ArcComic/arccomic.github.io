@@ -60,6 +60,13 @@ works:
     date: '2026-05-05'
     code: 648102
     url: /works/648102/
+  - title: Atashi no Hou ga Tsuyoi Hazudattanoni!
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/652605.jpg
+    rating: 4.0
+    date: '2026-05-26'
+    code: 652605
+    url: /works/652605/
   - title: Boku to Onee-san no Natsu wa Mada Hajimatta Bakari | My Summer Story Has
       Just Begun
     author: gustav
@@ -83,28 +90,13 @@ works:
     date: '2026-09-07'
     code: 669254
     url: /works/669254/
-  - title: Insuru Juku Ashi
-    author: taba
-    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683318.jpg
-    rating: 4.5
-    date: '2026-09-23'
-    code: 683318
-    url: /works/683318/
   - title: Poker Face na Shinonome-kun
     author: kosyo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683874.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-27'
     code: 683874
     url: /works/683874/
-  - title: Gal to Otaku no Idenshi Aishou Batsugun H |  Hot Sex Between a Gal and an
-      Otaku With Perfect Genes Compatibility
-    author: joucho
-    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684305.jpg
-    rating: 4.3
-    date: '2026-09-27'
-    code: 684305
-    url: /works/684305/
   - title: I'm Sorry Honey Your Penis is Too Small
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684550.jpg
@@ -112,4 +104,11 @@ works:
     date: '2026-09-28'
     code: 684550
     url: /works/684550/
+  - title: LATEST
+    author: ratatatat74-mr-skull
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685961.jpg
+    rating: 0.0
+    date: '2026-10-05'
+    code: 685961
+    url: /works/685961/
 ---

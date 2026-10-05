@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "smoking"
-work_count: 9
+work_count: 7
 works:
   - title: Shirotaegiku | Dusty miller
     author: hiroya
@@ -43,7 +43,7 @@ works:
       Story of How I Ended Up Having Sex After Groping My Cousin Sister's Boobs
     author: shouji-nigou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651928.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-09-30'
     code: 651928
     url: /works/651928/
@@ -55,18 +55,4 @@ works:
     date: '2026-09-10'
     code: 679961
     url: /works/679961/
-  - title: GOOD WIFE
-    author: laliberte
-    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684283.jpg
-    rating: 4.7
-    date: '2026-09-27'
-    code: 684283
-    url: /works/684283/
-  - title: One stare make pregnant Episode 3
-    author: cunqian-mai-nvpengyou
-    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684578.jpg
-    rating: 4.2
-    date: '2026-09-28'
-    code: 684578
-    url: /works/684578/
 ---

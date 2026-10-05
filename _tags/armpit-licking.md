@@ -84,6 +84,15 @@ works:
     date: '2026-08-21'
     code: 674639
     url: /works/674639/
+  - title: '"Kiss Nanka Shitara Akatyan Dekityau Darouga!"Jituha Seithisiki Zero no
+      Sanpakugan Yariman Yankey Deka Onna to Jituha Tuyosugiru Seiyoku wo Hissi de Osaekonderu
+      Huukiin no Boku'
+    author: gar
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680847.jpg
+    rating: 4.2
+    date: '2026-09-13'
+    code: 680847
+    url: /works/680847/
   - title: Everyone's Kissing Club - Chapter 1-30
     author: nou-shun
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681498.jpg
@@ -98,11 +107,4 @@ works:
     date: '2026-09-23'
     code: 683318
     url: /works/683318/
-  - title: Provoking Men
-    author: pororivista
-    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684647.jpg
-    rating: 5.0
-    date: '2026-09-28'
-    code: 684647
-    url: /works/684647/
 ---

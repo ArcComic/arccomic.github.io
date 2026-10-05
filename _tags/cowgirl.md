@@ -62,6 +62,13 @@ works:
     date: '2026-04-23'
     code: 645507
     url: /works/645507/
+  - title: If I Have a Chance, I Want to Warp My Boyfriend's Fetishes!
+    author: meeko
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/647619.jpg
+    rating: 4.2
+    date: '2026-05-03'
+    code: 647619
+    url: /works/647619/
   - title: Netorase Club 2 Anal Name no Tensai to Fellatio no Tensai | Netorase Club
       2 The Genius of Rimjob and The Genius of Blowjob
     author: oosawara-sadao
@@ -135,13 +142,4 @@ works:
     date: '2026-09-19'
     code: 682307
     url: /works/682307/
-  - title: 'Josou Ouji wa Wakarasetai! ep.4 Ottori Haha mo Mazaritai! | The Crossdressing
-      Prince Who Tried to Teach his Little Sisters a Lesson - Episode 4: The Gentle
-      Mom Who Doesn''t Want to Be Left Out'
-    author: toji
-    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684322.jpg
-    rating: 4.8
-    date: '2026-09-27'
-    code: 684322
-    url: /works/684322/
 ---

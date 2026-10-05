@@ -23,7 +23,7 @@ works:
       up fucking my girlfriend's little sister silly!
     author: nyaa-no-esa
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/421306.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-10-02'
     code: 421306
     url: /works/421306/
@@ -93,6 +93,14 @@ works:
     date: '2026-09-22'
     code: 649307
     url: /works/649307/
+  - title: Akogare no Tomo Mama to Matching Shita Ken | The Time I Matched With My Admired
+      Friend's Mom
+    author: shimofuri
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651895.jpg
+    rating: 4.2
+    date: '2026-09-12'
+    code: 651895
+    url: /works/651895/
   - title: Kyonyuu no Tomodachi to Tsukiau made no Hanashi | Maybe We'll Start Dating
       Someday
     author: fuguta-ke
@@ -132,21 +140,6 @@ works:
     date: '2026-09-15'
     code: 681251
     url: /works/681251/
-  - title: Insuru Juku Ashi
-    author: taba
-    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683318.jpg
-    rating: 4.5
-    date: '2026-09-23'
-    code: 683318
-    url: /works/683318/
-  - title: Shiri de Onna o Miwakeru Ore wa Onna Joushi no Yowami o Nigiru 2 | I, A Guy
-      Who Tells Women Apart By Their Asses, Got Blackmail On My Superior At Work 2
-    author: eco-heeky
-    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684178.jpg
-    rating: 4.9
-    date: '2026-09-27'
-    code: 684178
-    url: /works/684178/
   - title: Machi de Deatta Deka Chichi Shiro Gal-tachi ni wa Noumitsu Tanetsuke H Sareretai
       Himitsu no Riyuu ga Aru
     author: kumatora-amasora-taichi
@@ -158,8 +151,15 @@ works:
   - title: YOUR SISTER - CHAPTER 1-16
     author: konparu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684882.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-30'
     code: 684882
     url: /works/684882/
+  - title: Bakunyuu Shimai ni Oshiekomu | Training the Busty Sisters
+    author: arakige-tanji
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685928.jpg
+    rating: 0.0
+    date: '2026-10-05'
+    code: 685928
+    url: /works/685928/
 ---

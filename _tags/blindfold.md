@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "blindfold"
-work_count: 36
+work_count: 35
 works:
   - title: Okki na Saori-chan wa Bukiyou ni Eroi
     author: aramaki-echizen
@@ -35,7 +35,7 @@ works:
       My Mom~
     author: hara-shigeyuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/504221.jpg
-    rating: 4.9
+    rating: 5.0
     date: '2026-04-19'
     code: 504221
     url: /works/504221/
@@ -137,7 +137,7 @@ works:
   - title: MORAL HAZARD ~Haitoku no Kyoudan~
     author: hiraoka-ryuichi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/66420.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-30'
     code: 66420
     url: /works/66420/
@@ -226,14 +226,6 @@ works:
     date: '2026-09-23'
     code: 683315
     url: /works/683315/
-  - title: Ueno-kun wa Kaihatsu-zumi Dai 97 wa | Ueno-kun Has Been Developed Chapter
-      97
-    author: nakaura
-    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683391.jpg
-    rating: 4.2
-    date: '2026-09-23'
-    code: 683391
-    url: /works/683391/
   - title: Tamatama Mita AV no Onnanoko ga Kanojo ni Gekini Sugiru. 3 | The girl in
       the adult video I happened to watch looks too much like my girlfriend 3
     author: group

@@ -14,7 +14,7 @@ works:
   - title: oyako NTR fuuzoku | mother & daughter NTR prostitutes - MTL
     author: yuuki-ringo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681844.jpg
-    rating: 4.3
+    rating: 4.0
     date: '2026-09-17'
     code: 681844
     url: /works/681844/
@@ -22,7 +22,7 @@ works:
       Me... NTR 1 - 6 + revenge chap_MTL
     author: yuuki-ringo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681852.jpg
-    rating: 4.9
+    rating: 4.4
     date: '2026-09-17'
     code: 681852
     url: /works/681852/
@@ -30,7 +30,7 @@ works:
       Impregnate the Wife of a High-Ranking Citizen~
     author: yuuki-ringo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681856.jpg
-    rating: 4.2
+    rating: 4.7
     date: '2026-09-17'
     code: 681856
     url: /works/681856/

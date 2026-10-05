@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "son"
-work_count: 2
+work_count: 3
 works:
   - title: Akarui Kazoku Seikatsu
     author: pistonring-nishizawa
@@ -19,4 +19,12 @@ works:
     date: '2026-05-26'
     code: 652625
     url: /works/652625/
+  - title: Boshi Jouji ~Daisuki na Okaa-san to Konya Majiwaru~ - MOTHER AND SON LOVE
+      AFFAIR | A Mother's Love ~Tonight I Become One With The Mom I Love~ Part 2
+    author: shiono-kou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662142.jpg
+    rating: 4.4
+    date: '2026-07-08'
+    code: 662142
+    url: /works/662142/
 ---

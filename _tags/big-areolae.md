@@ -1,12 +1,12 @@
 ---
 layout: tag
 tag_name: "big areolae"
-work_count: 91
+work_count: 92
 works:
   - title: Soubo Soukan 2 | Twin mothers incest 2 FULL
     author: nanao-yukiji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/378626.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-10-01'
     code: 378626
     url: /works/378626/
@@ -21,7 +21,7 @@ works:
       Sloppy Girl Next Door
     author: shouji-nigou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/451846.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-30'
     code: 451846
     url: /works/451846/
@@ -75,7 +75,7 @@ works:
       Sex Friends
     author: rinrikoko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/538553.jpg
-    rating: 4.8
+    rating: 4.7
     date: '2026-07-11'
     code: 538553
     url: /works/538553/
@@ -168,7 +168,7 @@ works:
   - title: Jukujo no Midare Kyonyuu
     author: shijima-yukio
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/613188.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-10-01'
     code: 613188
     url: /works/613188/
@@ -176,7 +176,7 @@ works:
       | Slutty Wife!'
     author: kametaro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/629368.jpg
-    rating: 4.4
+    rating: 4.8
     date: '2026-04-30'
     code: 629368
     url: /works/629368/
@@ -195,6 +195,13 @@ works:
     date: '2026-03-03'
     code: 634137
     url: /works/634137/
+  - title: Siblings Shouldn't Do It! | Kyoudai de Shitara Ikemasen
+    author: fence-14
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/635266.jpg
+    rating: 4.7
+    date: '2026-03-07'
+    code: 635266
+    url: /works/635266/
   - title: Atarimae Sex ~Ane to Otouto no Nichijou~ | Natural Sex ~The Daily Life of
       an Older Sister and Younger Brother~
     author: mochichimaru
@@ -255,6 +262,14 @@ works:
     date: '2026-04-21'
     code: 645264
     url: /works/645264/
+  - title: 'Moto Mahou Shoujo no Kazoku Banashi Tsuki 2 | Former Magical Girl''s Family
+      Story: Tsuki 2'
+    author: zhen-lu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/645646.jpg
+    rating: 4.1
+    date: '2026-04-23'
+    code: 645646
+    url: /works/645646/
   - title: 'Hanketsu, Hikokunin wa Watashi no Dildo Kei ni Shosuru | Verdict: The defendant
       is sentenced to my dildo punishment.'
     author: chotto-b-sen
@@ -289,7 +304,7 @@ works:
       And Cousin's Pussy
     author: karube-guri
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/648522.jpg
-    rating: 4.2
+    rating: 4.9
     date: '2026-05-07'
     code: 648522
     url: /works/648522/
@@ -353,7 +368,7 @@ works:
   - title: Tonari no Ayane-san Soushuuhen | My Neighbor Ayane Anthology
     author: herio
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/656319.jpg
-    rating: 4.8
+    rating: 4.4
     date: '2026-08-18'
     code: 656319
     url: /works/656319/
@@ -365,6 +380,14 @@ works:
     date: '2026-09-11'
     code: 656460
     url: /works/656460/
+  - title: Mukashi Kara Otokoppoi Osananajimi mo Chanto Mesu ni Sodachimashita | Even
+      My Tomboy Childhood Friend Matured Into a Proper Woman
+    author: natsuzo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/656626.jpg
+    rating: 4.3
+    date: '2026-09-11'
+    code: 656626
+    url: /works/656626/
   - title: Daasan no Tame ni Okita Kyouko 32sai B107 a.k.a Okusan wo Namadashi Nikuana
       Choukyou Shiteoite Ageyou
     author: shiwasu-no-okina
@@ -446,6 +469,13 @@ works:
     date: '2026-09-29'
     code: 673232
     url: /works/673232/
+  - title: Niihama Yui Husband Exclusive Re-debut
+    author: buta
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/674199.jpg
+    rating: 4.3
+    date: '2026-08-20'
+    code: 674199
+    url: /works/674199/
   - title: nekonimatatabi
     author: yuzuto-sen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/674592.jpg
@@ -526,14 +556,21 @@ works:
     date: '2026-09-04'
     code: 677732
     url: /works/677732/
-  - title: Kuro Gal no Ongaeshi -Shachiku Oji ga Kasshoku Kyonyuu Gal o Nanpa kara Tasuketara
-      Icha Love Junai Koubi shita Hanashi-
-    author: galvalume-kouhan
-    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679072.jpg
-    rating: 4.9
+  - title: Gamers!
+    author: ramanda
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678354.jpg
+    rating: 4.4
+    date: '2026-09-05'
+    code: 678354
+    url: /works/678354/
+  - title: I'll turn a divorced woman and a nagging housewife into ripe, voluptuous
+      sex toys with their complicated pasts
+    author: gagarin-kichi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678909.jpg
+    rating: 4.8
     date: '2026-09-07'
-    code: 679072
-    url: /works/679072/
+    code: 678909
+    url: /works/678909/
   - title: Kaa-san ga Mujikaku ni Yuuwaku Shite Kuru
     author: mattari-yufi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679634.jpg
@@ -621,21 +658,6 @@ works:
     date: '2026-09-20'
     code: 682577
     url: /works/682577/
-  - title: Hikikomori de Ero Manga Kaiteru Doutei Oikko to Oba-san ga Icha Love SEX
-      suru Hanashi
-    author: fukuhara-takaya
-    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683228.jpg
-    rating: 4.4
-    date: '2026-09-23'
-    code: 683228
-    url: /works/683228/
-  - title: Kuro-Gal Mama-san Haramasex
-    author: ooshima-ryou
-    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683312.jpg
-    rating: 4.3
-    date: '2026-09-23'
-    code: 683312
-    url: /works/683312/
   - title: The Story of the Person I Thought Was a Guy on Social Media Turning Out to
       Be a Tall Woman Who Was Gruff but Let Me Do Whatever I Wanted to Her – Part 2
     author: kurihara-kenshirou
@@ -652,14 +674,6 @@ works:
     date: '2026-09-25'
     code: 683841
     url: /works/683841/
-  - title: Shiri de Onna o Miwakeru Ore wa Onna Joushi no Yowami o Nigiru 2 | I, A Guy
-      Who Tells Women Apart By Their Asses, Got Blackmail On My Superior At Work 2
-    author: eco-heeky
-    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684178.jpg
-    rating: 4.9
-    date: '2026-09-27'
-    code: 684178
-    url: /works/684178/
   - title: Machi de Deatta Deka Chichi Shiro Gal-tachi ni wa Noumitsu Tanetsuke H Sareretai
       Himitsu no Riyuu ga Aru
     author: kumatora-amasora-taichi
@@ -668,35 +682,27 @@ works:
     date: '2026-09-27'
     code: 684191
     url: /works/684191/
-  - title: Gal to Otaku no Idenshi Aishou Batsugun H |  Hot Sex Between a Gal and an
-      Otaku With Perfect Genes Compatibility
-    author: joucho
-    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684305.jpg
-    rating: 4.3
-    date: '2026-09-27'
-    code: 684305
-    url: /works/684305/
   - title: InCha na Ore Dake ga Shitte Iru Seito Kaichou no Uragawa 2. ~Senbotsu Chikubi
       no Senpai ga Kairaku ni Kuppuku Shite Ochiru made~
     author: yuzuriha
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684758.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-09-30'
     code: 684758
     url: /works/684758/
-  - title: Oshi no Live Kaeri ni Chichideka Gyaru ni Karamareru | Accosted by a Busty
-      Gal on my way home from my Fave's Live Concert
-    author: sume
-    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685305.jpg
+  - title: Jichikai no Hitozuma wa Totemo Ecchi Deshita. 4 Natsu matsuri moto jikkou
+      iin Miyamori Chizuru-hen
+    author: tsusauto
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685661.jpg
     rating: 0.0
-    date: '2026-10-01'
-    code: 685305
-    url: /works/685305/
+    date: '2026-10-05'
+    code: 685661
+    url: /works/685661/
   - title: Jichikai no Hitozuma wa Totemo Ecchi Deshita. 5 Nakahara Keiko no hurin nakada
       si sex hen
     author: tsusauto
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685828.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-03'
     code: 685828
     url: /works/685828/

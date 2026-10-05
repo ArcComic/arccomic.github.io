@@ -11,7 +11,7 @@ works:
     url: /works/356516/
   - title: Soubo Soukan 2 | Twin mothers incest 2 FULL
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/378626.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-10-01'
     code: 378626
     url: /works/378626/

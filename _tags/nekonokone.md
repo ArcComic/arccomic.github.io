@@ -3,7 +3,9 @@ layout: tag
 tag_name: "nekonokone"
 work_count: 1
 works:
-  - title: Majime na Doukyuusei ga Love Love Namahame Sex o suru made
+  - title: Majime na Doukyuusei ga Love Love Namahame Sex o suru made | The Story of
+      How I, a Straight Laced Student, Ended up with a Classmate, Then Having Passionate
+      Raw Sex
     author: takeyuu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678718.jpg
     rating: 4.4

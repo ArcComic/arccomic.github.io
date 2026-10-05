@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "tomgirl"
-work_count: 21
+work_count: 22
 works:
   - title: Osananajimi wa Owari｜End of a Childhood Friendship
     author: henkuma
@@ -136,7 +136,7 @@ works:
   - title: Poker Face na Shinonome-kun
     author: kosyo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683874.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-27'
     code: 683874
     url: /works/683874/
@@ -152,8 +152,15 @@ works:
   - title: Yuuwaku Yukemuri! Aoba-kun
     author: kosyo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685284.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-10-01'
     code: 685284
     url: /works/685284/
+  - title: Miko-kun no Hatsukoi
+    author: kisaki-noah
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685969.jpg
+    rating: 0.0
+    date: '2026-10-05'
+    code: 685969
+    url: /works/685969/
 ---

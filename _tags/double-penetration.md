@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "double penetration"
-work_count: 45
+work_count: 46
 works:
   - title: Hitozuma Hyakka
     author: hase-tsubura
@@ -192,7 +192,7 @@ works:
   - title: MORAL HAZARD ~Haitoku no Kyoudan~
     author: hiraoka-ryuichi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/66420.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-30'
     code: 66420
     url: /works/66420/
@@ -309,6 +309,13 @@ works:
     date: '2026-09-22'
     code: 683192
     url: /works/683192/
+  - title: SAIWAI ~Onna-tachi no Ura no Kao~
+    author: taba
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683314.jpg
+    rating: 4.2
+    date: '2026-09-23'
+    code: 683314
+    url: /works/683314/
   - title: SHIORIHAZARD
     author: wise-speak-kogasaki-yuina
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684611.jpg

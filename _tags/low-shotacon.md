@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "low shotacon"
-work_count: 10
+work_count: 9
 works:
   - title: Komorebi no Ori
     author: hitoi
@@ -53,13 +53,6 @@ works:
     date: '2026-04-25'
     code: 645677
     url: /works/645677/
-  - title: Boku no kanojo | My Girlfriend
-    author: fuguta-ke
-    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651346.jpg
-    rating: 4.3
-    date: '2026-05-20'
-    code: 651346
-    url: /works/651346/
   - title: Shinkou X Haha | Faith X Mama
     author: sanatuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681851.jpg
@@ -71,7 +64,7 @@ works:
       at the school festival!!
     author: yuukey
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685231.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-10-01'
     code: 685231
     url: /works/685231/

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "tall girl"
-work_count: 43
+work_count: 38
 works:
   - title: Oppai na Natsuyasumi 2 | The Summer Break of Boobs 2
     author: higashino-mikan
@@ -177,8 +177,8 @@ works:
     date: '2026-07-17'
     code: 664758
     url: /works/664758/
-  - title: Hoken Taiiku de Jitsugi ga Hisshuu ni natta Sekai - A world where sex ed
-      is mandatory and it's all practical
+  - title: Hoken Taiiku de Sex ga Hisshuu ni natta Sekai - A world where sex ed is mandatory
+      and it's all practical | A World Where Practical Sex Ed is Mandatory
     author: toyama-jigoku
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/665207.jpg
     rating: 4.8
@@ -208,8 +208,9 @@ works:
     date: '2026-09-06'
     code: 678913
     url: /works/678913/
-  - title: Having Intense, Romantic Raw Sex With A 8-foot Tall Woman I Met On A Dating
-      App
+  - title: MatchApp de Atta Hachishaku-sama ni Gyaku Tanetsuke Press Sarenagara IchaLove
+      Noukou Namashibori Sex | Having Intense, Romantic Raw Sex With A 8-foot Tall Woman
+      I Met On A Dating App
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679942.jpg
     rating: 4.6
@@ -261,13 +262,6 @@ works:
     date: '2026-09-23'
     code: 683318
     url: /works/683318/
-  - title: Soku Hame! Muwatto Ase Mure Musume - Let's Sex! Sweaty Girls
-    author: fetio
-    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683319.jpg
-    rating: 4.8
-    date: '2026-09-23'
-    code: 683319
-    url: /works/683319/
   - title: The Story of the Person I Thought Was a Guy on Social Media Turning Out to
       Be a Tall Woman Who Was Gruff but Let Me Do Whatever I Wanted to Her – Part 2
     author: kurihara-kenshirou
@@ -291,32 +285,4 @@ works:
     date: '2026-09-28'
     code: 684556
     url: /works/684556/
-  - title: Kakko Ii kara Suki [English] retranslated
-    author: hyde-ride
-    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684641.jpg
-    rating: 4.6
-    date: '2026-09-29'
-    code: 684641
-    url: /works/684641/
-  - title: Kakko Ii kara Suki 2 [English] partial retranslation
-    author: group
-    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684642.jpg
-    rating: 4.3
-    date: '2026-09-29'
-    code: 684642
-    url: /works/684642/
-  - title: Kakko Ii kara Suki 3 [English] partial retranslation
-    author: hyde-ride
-    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684643.jpg
-    rating: 4.8
-    date: '2026-09-28'
-    code: 684643
-    url: /works/684643/
-  - title: Provoking Men
-    author: pororivista
-    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684647.jpg
-    rating: 5.0
-    date: '2026-09-28'
-    code: 684647
-    url: /works/684647/
 ---

@@ -5,7 +5,7 @@ work_count: 74
 works:
   - title: Hajimete Kanojo Ga Dekita No Ni
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/316579.jpg
-    rating: 4.6
+    rating: 4.0
     date: '2026-09-13'
     code: 316579
     url: /works/316579/
@@ -26,7 +26,7 @@ works:
     url: /works/436140/
   - title: This Slouching Girl’s Nipples Are So Sensitive…!
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/437443.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-30'
     code: 437443
     url: /works/437443/
@@ -44,7 +44,7 @@ works:
     url: /works/484852/
   - title: Corruption Obscene Tales ch 1-4
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/490746.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-09-30'
     code: 490746
     url: /works/490746/
@@ -135,7 +135,7 @@ works:
     url: /works/634472/
   - title: Ochako BBC
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/635510.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-10-01'
     code: 635510
     url: /works/635510/
@@ -148,7 +148,7 @@ works:
   - title: The Story of a Girl—Cherished by Her Childhood Sweetheart—Who Loses Her Virginity
       After Being Violated by a Murderer
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642708.jpg
-    rating: 4.6
+    rating: 4.7
     date: '2026-09-13'
     code: 642708
     url: /works/642708/
@@ -278,7 +278,7 @@ works:
     url: /works/662202/
   - title: Shiori no Nai Akumu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662203.jpg
-    rating: 4.6
+    rating: 4.2
     date: '2026-07-08'
     code: 662203
     url: /works/662203/
@@ -297,7 +297,7 @@ works:
   - title: 12-Nenkan Chinpo Tachishiteta Shin Mama ga Musuko no Dōkyūsei ni Netorare
       Tanetsuke Oho Akume de Mesu no Yorokobi ni Ochita Hi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/663605.jpg
-    rating: 4.6
+    rating: 4.3
     date: '2026-07-13'
     code: 663605
     url: /works/663605/
@@ -338,8 +338,9 @@ works:
     date: '2026-08-28'
     code: 676189
     url: /works/676189/
-  - title: Having Intense, Romantic Raw Sex With A 8-foot Tall Woman I Met On A Dating
-      App
+  - title: MatchApp de Atta Hachishaku-sama ni Gyaku Tanetsuke Press Sarenagara IchaLove
+      Noukou Namashibori Sex | Having Intense, Romantic Raw Sex With A 8-foot Tall Woman
+      I Met On A Dating App
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679942.jpg
     rating: 4.6
     date: '2026-09-10'
@@ -443,22 +444,22 @@ works:
     date: '2026-09-29'
     code: 684800
     url: /works/684800/
-  - title: Ame Doujin
+  - title: My Boss Detective Keeps on Teasing Me
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684848.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-30'
     code: 684848
     url: /works/684848/
-  - title: I should have never checked her phone
+  - title: Keitai nante Mirun ja Nakatta | I should have never checked her phone
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685242.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-10-01'
     code: 685242
     url: /works/685242/
   - title: That Time When a Demon Bunny-Girl Used Christmas Eve as a Pretense to Milk
       Me Dry
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685339.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-10-01'
     code: 685339
     url: /works/685339/

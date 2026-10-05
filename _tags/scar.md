@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "scar"
-work_count: 7
+work_count: 8
 works:
   - title: Kimi to Itami wo Wakachi "AI" tai | I Want to Share Your Pain
     author: betty
@@ -56,4 +56,11 @@ works:
     date: '2026-09-13'
     code: 680720
     url: /works/680720/
+  - title: lots of sex in the future! Bulma and Gohan manga colors
+    author: yamamoto
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686031.jpg
+    rating: 0.0
+    date: '2026-10-05'
+    code: 686031
+    url: /works/686031/
 ---

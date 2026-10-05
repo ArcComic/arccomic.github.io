@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "yaoi"
-work_count: 15
+work_count: 16
 works:
   - title: Hayato-sensei no Mesu-ka Karute Daigaku-hen | Dr. Hayato's Feminization Medical
       Record ~University Edition~
@@ -93,14 +93,14 @@ works:
   - title: Poker Face na Shinonome-kun
     author: kosyo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683874.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-09-27'
     code: 683874
     url: /works/683874/
   - title: Yuuwaku Yukemuri! Aoba-kun
     author: kosyo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685284.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-10-01'
     code: 685284
     url: /works/685284/
@@ -108,8 +108,15 @@ works:
       Me Dry
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685339.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-10-01'
     code: 685339
     url: /works/685339/
+  - title: Miko-kun no Hatsukoi
+    author: kisaki-noah
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685969.jpg
+    rating: 0.0
+    date: '2026-10-05'
+    code: 685969
+    url: /works/685969/
 ---

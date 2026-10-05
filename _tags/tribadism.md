@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "tribadism"
-work_count: 13
+work_count: 15
 works:
   - title: Gekkoutou no Yume - Nyotaika Douwa ~Danshi Kinsei no Tou~
     author: mugen-no-sudadokei
@@ -97,4 +97,18 @@ works:
     date: '2026-09-23'
     code: 683067
     url: /works/683067/
+  - title: Yuri Trap Dungeon
+    author: titiduki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685522.jpg
+    rating: 4.0
+    date: '2026-10-03'
+    code: 685522
+    url: /works/685522/
+  - title: A Book About Saki Imagining Lesbian Sex with Kanon
+    author: satou-to-shio-botamochi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685989.jpg
+    rating: 0.0
+    date: '2026-10-05'
+    code: 685989
+    url: /works/685989/
 ---

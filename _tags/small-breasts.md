@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "small breasts"
-work_count: 42
+work_count: 50
 works:
   - title: FLUFFY LAUGH GIRL
     author: shibasaki-syouzi
@@ -59,6 +59,20 @@ works:
     date: '2026-02-25'
     code: 543086
     url: /works/543086/
+  - title: Uwa, Mesugaki Tsuyoi! | Crap, This Mesugaki's Too Powerful!
+    author: poncocchan
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/550359.jpg
+    rating: 4.6
+    date: '2026-08-31'
+    code: 550359
+    url: /works/550359/
+  - title: Namima no Pōtorēto | Portrait of a Wave
+    author: torii-yoshitsuna
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/580379.jpg
+    rating: 4.0
+    date: '2026-04-16'
+    code: 580379
+    url: /works/580379/
   - title: Her Predicaments
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/586417.jpg
@@ -129,7 +143,7 @@ works:
       for My Boyfriend’s Sake, Became the Store Manager’s Sex Toy~
     author: mashumarodan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/643511.jpg
-    rating: 4.3
+    rating: 4.9
     date: '2026-04-12'
     code: 643511
     url: /works/643511/
@@ -193,6 +207,20 @@ works:
     date: '2026-05-26'
     code: 652639
     url: /works/652639/
+  - title: Sankaku comic vol. 3 Ayano
+    author: mko
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/652836.jpg
+    rating: 4.1
+    date: '2026-05-27'
+    code: 652836
+    url: /works/652836/
+  - title: Seishidouin no Oshigoto Soushuuhen1 | Sex Instructor Compilation Vol. 1
+    author: malcorond
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/653978.jpg
+    rating: 4.8
+    date: '2026-07-07'
+    code: 653978
+    url: /works/653978/
   - title: Genkai New Town no Inei Genkai New Town wa Mitsu no Aji 2 - The shadow of
       marginal new town
     author: saigado-ishoku-dougen
@@ -208,6 +236,13 @@ works:
     date: '2026-07-06'
     code: 661596
     url: /works/661596/
+  - title: Tsuntsun
+    author: onizuka-naoshi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/661935.jpg
+    rating: 4.4
+    date: '2026-07-07'
+    code: 661935
+    url: /works/661935/
   - title: Shoujo Baishun Shima | Girl Prostitution Island
     author: nada-shio
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662647.jpg
@@ -215,6 +250,13 @@ works:
     date: '2026-07-09'
     code: 662647
     url: /works/662647/
+  - title: Himitsu | Secrets
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/664299.jpg
+    rating: 4.4
+    date: '2026-07-15'
+    code: 664299
+    url: /works/664299/
   - title: Kazano Hiori ni Warui Koto o Suru Hanashi (Zenpen) | The Story of Doing Bad
       Things to Kazeno Hikari
     author: dokuneko-noil
@@ -247,6 +289,20 @@ works:
     date: '2026-08-18'
     code: 673561
     url: /works/673561/
+  - title: Tonari no Ko | The Girl Next Door
+    author: oyabe-ryo-isurugi-ryo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/674496.jpg
+    rating: 4.6
+    date: '2026-08-21'
+    code: 674496
+    url: /works/674496/
+  - title: Dokidoki, Yada! | No Way! Stop Playing With My Heart!
+    author: ekakibit
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679368.jpg
+    rating: 4.8
+    date: '2026-09-08'
+    code: 679368
+    url: /works/679368/
   - title: 'Futago Maid no Clara to Cola: Sei no Mezame! | Awakening of Sex: Twin Maids
       Clara and Cora'
     author: onizuka-frill
@@ -269,8 +325,7 @@ works:
     date: '2026-09-19'
     code: 682342
     url: /works/682342/
-  - title: Nanami-chan Yori Sukitte Itte (Tell Me You Like Me More Than Nanami-chan)
-      01
+  - title: Kanojo Yori Sukitte Itte. | Tell Me You Love Me More Than Her. Ch.1
     author: en
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682613.jpg
     rating: 4.1
@@ -312,7 +367,7 @@ works:
   - title: Metsuki no Warui Kimi ga Suki
     author: tenpura-komoro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684897.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-09-30'
     code: 684897
     url: /works/684897/

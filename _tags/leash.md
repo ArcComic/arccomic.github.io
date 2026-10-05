@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "leash"
-work_count: 19
+work_count: 20
 works:
   - title: Komorebi no Ori
     author: hitoi
@@ -28,7 +28,7 @@ works:
       been Lost
     author: mokataki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/557444.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-10-03'
     code: 557444
     url: /works/557444/
@@ -51,7 +51,7 @@ works:
       been Lost 2
     author: mokataki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/614397.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-10-02'
     code: 614397
     url: /works/614397/
@@ -80,7 +80,7 @@ works:
   - title: Stupid women are forced to become breeding slaves
     author: carpsukidayo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/641858.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-10-02'
     code: 641858
     url: /works/641858/
@@ -125,14 +125,14 @@ works:
   - title: Choukyou Inroku Ni ~Kunoichi Hiiragi no Junan~
     author: carpsukidayo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/663482.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-02'
     code: 663482
     url: /works/663482/
   - title: Dr. Sae's Sexual Behavior Study
     author: torichamaru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/675652.jpg
-    rating: 4.3
+    rating: 4.5
     date: '2026-09-26'
     code: 675652
     url: /works/675652/
@@ -143,4 +143,11 @@ works:
     date: '2026-09-19'
     code: 682245
     url: /works/682245/
+  - title: LATEST
+    author: ratatatat74-mr-skull
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685961.jpg
+    rating: 0.0
+    date: '2026-10-05'
+    code: 685961
+    url: /works/685961/
 ---

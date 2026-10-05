@@ -3,13 +3,6 @@ layout: artist
 artist_name: "group"
 work_count: 36
 works:
-  - title: Itabasami na Wakachi Ai 4 | Love Divided Between a Rock and a Hard Place
-      4
-    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/448503.jpg
-    rating: 5.0
-    date: '2026-04-23'
-    code: 448503
-    url: /works/448503/
   - title: Shitsurakuen | Paradise Lost
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/463749.jpg
     rating: 4.1
@@ -52,7 +45,7 @@ works:
     url: /works/562201/
   - title: Geriatric Dragons dogma
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/596562.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-30'
     code: 596562
     url: /works/596562/
@@ -74,6 +67,12 @@ works:
     date: '2026-03-03'
     code: 631630
     url: /works/631630/
+  - title: Haha to Yaru to Iukoto
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/633840.jpg
+    rating: 0.0
+    date: '2026-10-05'
+    code: 633840
+    url: /works/633840/
   - title: 橘さん家ノ脅迫NTR事情
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/634198.jpg
     rating: 5.0
@@ -227,7 +226,7 @@ works:
       Shite Hoshii" | My Part-Time Job Is Getting Revenge: Framed By A Citizens Arrest
       Streamer'
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684921.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-09-30'
     code: 684921
     url: /works/684921/

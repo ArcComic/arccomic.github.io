@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "maeda momo"
-work_count: 3
+work_count: 4
 works:
   - title: Harinezumi no Dilemma ① | A Hedgehog's Dilemma, Part 1
     author: maeda-momo
@@ -18,10 +18,17 @@ works:
     code: 480065
     url: /works/480065/
   - title: Furete Tokashite Afuresasete
-    author: maeda-momo-momozumi-jun
+    author: maeda-momo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/664821.jpg
-    rating: 4.9
+    rating: 4.7
     date: '2026-07-16'
     code: 664821
     url: /works/664821/
+  - title: Hiyoko-san wa Sewazuki 2
+    author: maeda-momo-momozumi-jun
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681881.jpg
+    rating: 4.3
+    date: '2026-09-17'
+    code: 681881
+    url: /works/681881/
 ---

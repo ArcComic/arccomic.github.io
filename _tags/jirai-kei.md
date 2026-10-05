@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "jirai kei"
-work_count: 6
+work_count: 8
 works:
   - title: Mecha Eroi kedo Sasoi ni Nottara Hametsushisou na Ko | A Girl Who Is Very
       Sexy But Will Ruin Me If I Ask Her Out
@@ -40,6 +40,13 @@ works:
     date: '2026-09-17'
     code: 644528
     url: /works/644528/
+  - title: My Annoying Little Cousin Stole My First Time
+    author: karube-guri
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/647853.jpg
+    rating: 4.4
+    date: '2026-05-07'
+    code: 647853
+    url: /works/647853/
   - title: 'Jirai Inu-kei Kanojo #Kimi to Tsunagaritai Jirai de Inukei de Juujun na
       Kimi dake no Pet | Jirai-kei Puppy Girlfriend'
     author: shimofuji-jun
@@ -48,4 +55,13 @@ works:
     date: '2026-07-05'
     code: 661367
     url: /works/661367/
+  - title: Nijigen Otaku no Ore ga Tenkou Shite Kita Kyonyuu Idol ni Otosareru made
+      - A 2D Otaku Falls for the Curvy Idol Transfer Student | How I, a 2D-Obsessed
+      Otaku, Fell for the Busty Idol Who Transferred to My School
+    author: manno
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/677731.jpg
+    rating: 4.6
+    date: '2026-09-04'
+    code: 677731
+    url: /works/677731/
 ---

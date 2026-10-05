@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "thick eyebrows"
-work_count: 9
+work_count: 10
 works:
   - title: Osananajimi wa Owari｜End of a Childhood Friendship
     author: henkuma
@@ -72,4 +72,11 @@ works:
     date: '2026-09-25'
     code: 683992
     url: /works/683992/
+  - title: Miko-kun no Hatsukoi
+    author: kisaki-noah
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685969.jpg
+    rating: 0.0
+    date: '2026-10-05'
+    code: 685969
+    url: /works/685969/
 ---
