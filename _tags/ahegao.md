@@ -2037,7 +2037,7 @@ works:
   - title: Asuna Change
     author: ty
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682407.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-10-07'
     code: 682407
     url: /works/682407/
@@ -2270,7 +2270,7 @@ works:
   - title: Kono Koi ni Kizuite Kureta | You Noticed My Love for You
     author: danimaru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686107.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-10-07'
     code: 686107
     url: /works/686107/

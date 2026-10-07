@@ -458,7 +458,7 @@ works:
   - title: Joshikousei Sennyuu Repo ~Hanzaisha ga Onnanoko ni Hyoui shite mita~
     author: touchuu-kasou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/409385.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-10-07'
     code: 409385
     url: /works/409385/
@@ -1022,7 +1022,7 @@ works:
   - title: NTRrare Onsen Ryokou ~Tsukari Tsukareru Shinkon Tsuma~
     author: yuuma
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/491822.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-10-07'
     code: 491822
     url: /works/491822/
@@ -1609,7 +1609,7 @@ works:
   - title: Adoration of Ones Elders
     author: nomu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/537946.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-10-07'
     code: 537946
     url: /works/537946/
@@ -4562,7 +4562,7 @@ works:
       Story of How I Was Turned into a TS Woman and Kept as a Happy Female Cat
     author: hoshino-iro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651820.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-10-07'
     code: 651820
     url: /works/651820/
@@ -5154,7 +5154,7 @@ works:
   - title: 'Girlfriend Revenge Special: The Heel'
     author: meowwithme
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/661540.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-07'
     code: 661540
     url: /works/661540/
@@ -8184,14 +8184,14 @@ works:
   - title: Ayashii Drink o Nonde Hatsujou Shita Ane ga Inran Sugiru
     author: tilm
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686072.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-07'
     code: 686072
     url: /works/686072/
   - title: Azatokute Kawaii Jirai-kei Joshi ni Seishi mo Okane mo Chuuchuu Saremashita
     author: kiduki-erika
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686081.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-07'
     code: 686081
     url: /works/686081/
@@ -8199,14 +8199,14 @@ works:
       monster of sensory deprivation
     author: hyoui-no-jikan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686100.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-10-07'
     code: 686100
     url: /works/686100/
   - title: Kono Koi ni Kizuite Kureta | You Noticed My Love for You
     author: danimaru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686107.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-10-07'
     code: 686107
     url: /works/686107/

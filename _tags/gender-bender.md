@@ -20,7 +20,7 @@ works:
   - title: Joshikousei Sennyuu Repo ~Hanzaisha ga Onnanoko ni Hyoui shite mita~
     author: touchuu-kasou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/409385.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-10-07'
     code: 409385
     url: /works/409385/
@@ -49,7 +49,7 @@ works:
   - title: NTRrare Onsen Ryokou ~Tsukari Tsukareru Shinkon Tsuma~
     author: yuuma
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/491822.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-10-07'
     code: 491822
     url: /works/491822/
@@ -64,7 +64,7 @@ works:
   - title: I Turned Into a Sexual Relief Maid
     author: kanmuri
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/497994.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-10-07'
     code: 497994
     url: /works/497994/
@@ -85,7 +85,7 @@ works:
   - title: Adoration of Ones Elders
     author: nomu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/537946.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-10-07'
     code: 537946
     url: /works/537946/
@@ -136,7 +136,7 @@ works:
       Story of How I Was Turned into a TS Woman and Kept as a Happy Female Cat
     author: hoshino-iro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651820.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-10-07'
     code: 651820
     url: /works/651820/
@@ -158,7 +158,7 @@ works:
   - title: 'Girlfriend Revenge Special: The Heel'
     author: meowwithme
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/661540.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-07'
     code: 661540
     url: /works/661540/
@@ -273,7 +273,7 @@ works:
   - title: Asuna Change
     author: ty
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682407.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-10-07'
     code: 682407
     url: /works/682407/

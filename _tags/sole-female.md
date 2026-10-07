@@ -1783,7 +1783,7 @@ works:
   - title: Adoration of Ones Elders
     author: nomu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/537946.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-10-07'
     code: 537946
     url: /works/537946/
@@ -3260,7 +3260,7 @@ works:
   - title: Jyuujyuu na Sukoya-san | Nurse Sukoya's Thorough Care
     author: yumobi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/636417.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-10-07'
     code: 636417
     url: /works/636417/
@@ -6967,21 +6967,21 @@ works:
   - title: Ayashii Drink o Nonde Hatsujou Shita Ane ga Inran Sugiru
     author: tilm
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686072.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-07'
     code: 686072
     url: /works/686072/
   - title: Azatokute Kawaii Jirai-kei Joshi ni Seishi mo Okane mo Chuuchuu Saremashita
     author: kiduki-erika
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686081.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-07'
     code: 686081
     url: /works/686081/
   - title: Happy Birthday Nishikata!
     author: lander0808
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686092.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-10-07'
     code: 686092
     url: /works/686092/
@@ -6989,14 +6989,14 @@ works:
       monster of sensory deprivation
     author: hyoui-no-jikan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686100.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-10-07'
     code: 686100
     url: /works/686100/
   - title: Kono Koi ni Kizuite Kureta | You Noticed My Love for You
     author: danimaru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686107.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-10-07'
     code: 686107
     url: /works/686107/

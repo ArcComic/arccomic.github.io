@@ -202,7 +202,7 @@ works:
   - title: Adoration of Ones Elders
     author: nomu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/537946.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-10-07'
     code: 537946
     url: /works/537946/
@@ -684,7 +684,7 @@ works:
   - title: 'Girlfriend Revenge Special: The Heel'
     author: meowwithme
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/661540.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-07'
     code: 661540
     url: /works/661540/

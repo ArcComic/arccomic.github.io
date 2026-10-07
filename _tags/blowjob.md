@@ -1012,7 +1012,7 @@ works:
   - title: Adoration of Ones Elders
     author: nomu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/537946.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-10-07'
     code: 537946
     url: /works/537946/
@@ -2144,7 +2144,7 @@ works:
   - title: Jyuujyuu na Sukoya-san | Nurse Sukoya's Thorough Care
     author: yumobi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/636417.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-10-07'
     code: 636417
     url: /works/636417/
@@ -2857,7 +2857,7 @@ works:
       Story of How I Was Turned into a TS Woman and Kept as a Happy Female Cat
     author: hoshino-iro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651820.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-10-07'
     code: 651820
     url: /works/651820/
@@ -4670,14 +4670,14 @@ works:
   - title: Happy Birthday Nishikata!
     author: lander0808
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686092.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-10-07'
     code: 686092
     url: /works/686092/
   - title: Kono Koi ni Kizuite Kureta | You Noticed My Love for You
     author: danimaru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686107.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-10-07'
     code: 686107
     url: /works/686107/

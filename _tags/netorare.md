@@ -536,7 +536,7 @@ works:
   - title: NTRrare Onsen Ryokou ~Tsukari Tsukareru Shinkon Tsuma~
     author: yuuma
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/491822.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-10-07'
     code: 491822
     url: /works/491822/
@@ -3165,7 +3165,7 @@ works:
   - title: Happy Birthday Nishikata!
     author: lander0808
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686092.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-10-07'
     code: 686092
     url: /works/686092/

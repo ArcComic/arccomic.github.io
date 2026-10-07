@@ -35,7 +35,7 @@ works:
   - title: NTRrare Onsen Ryokou ~Tsukari Tsukareru Shinkon Tsuma~
     author: yuuma
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/491822.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-10-07'
     code: 491822
     url: /works/491822/
@@ -331,7 +331,7 @@ works:
   - title: Asuna Change
     author: ty
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682407.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-10-07'
     code: 682407
     url: /works/682407/

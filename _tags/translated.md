@@ -983,7 +983,7 @@ works:
   - title: Joshikousei Sennyuu Repo ~Hanzaisha ga Onnanoko ni Hyoui shite mita~
     author: touchuu-kasou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/409385.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-10-07'
     code: 409385
     url: /works/409385/
@@ -1761,7 +1761,7 @@ works:
   - title: NTRrare Onsen Ryokou ~Tsukari Tsukareru Shinkon Tsuma~
     author: yuuma
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/491822.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-10-07'
     code: 491822
     url: /works/491822/
@@ -2668,7 +2668,7 @@ works:
   - title: Adoration of Ones Elders
     author: nomu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/537946.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-10-07'
     code: 537946
     url: /works/537946/
@@ -5042,7 +5042,7 @@ works:
   - title: Jyuujyuu na Sukoya-san | Nurse Sukoya's Thorough Care
     author: yumobi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/636417.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-10-07'
     code: 636417
     url: /works/636417/
@@ -6352,7 +6352,7 @@ works:
       Story of How I Was Turned into a TS Woman and Kept as a Happy Female Cat
     author: hoshino-iro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651820.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-10-07'
     code: 651820
     url: /works/651820/
@@ -6894,7 +6894,7 @@ works:
   - title: Gibo Saori
     author: don-shigeru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/657048.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-10-07'
     code: 657048
     url: /works/657048/
@@ -7047,7 +7047,7 @@ works:
   - title: Days of slave sister rape
     author: ichi2no35
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/659476.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-10-07'
     code: 659476
     url: /works/659476/
@@ -9082,7 +9082,7 @@ works:
   - title: Ippai Yurashite - Bounce me a lot Ch.4
     author: cuvie
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/676787.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-10-07'
     code: 676787
     url: /works/676787/
@@ -10415,7 +10415,7 @@ works:
   - title: Asuna Change
     author: ty
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682407.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-10-07'
     code: 682407
     url: /works/682407/
@@ -11543,14 +11543,14 @@ works:
   - title: Ayashii Drink o Nonde Hatsujou Shita Ane ga Inran Sugiru
     author: tilm
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686072.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-07'
     code: 686072
     url: /works/686072/
   - title: Azatokute Kawaii Jirai-kei Joshi ni Seishi mo Okane mo Chuuchuu Saremashita
     author: kiduki-erika
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686081.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-07'
     code: 686081
     url: /works/686081/
@@ -11558,14 +11558,14 @@ works:
       monster of sensory deprivation
     author: hyoui-no-jikan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686100.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-10-07'
     code: 686100
     url: /works/686100/
   - title: Kono Koi ni Kizuite Kureta | You Noticed My Love for You
     author: danimaru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686107.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-10-07'
     code: 686107
     url: /works/686107/
