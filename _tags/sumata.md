@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sumata"
-work_count: 23
+work_count: 24
 works:
   - title: Midara Midareru Hime Jijou | The Dirty And Confused Girl's Circumstances
     author: nekomata-naomi
@@ -127,6 +127,13 @@ works:
     date: '2026-08-18'
     code: 656319
     url: /works/656319/
+  - title: Dandan Kuse ni Naru - I like molester? .........No
+    author: panda
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/661142.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 661142
+    url: /works/661142/
   - title: Downer Hitozuma wa Teishu Kanpaku Otto o Wakaraseru | The Gloomy Housewife
       Puts Her Domineering Husband in His Place
     author: joucho

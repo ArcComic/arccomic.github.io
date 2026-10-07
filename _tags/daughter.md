@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "daughter"
-work_count: 27
+work_count: 29
 works:
   - title: Kindan no Hatemitsu
     author: ryuuta
@@ -10,6 +10,13 @@ works:
     date: '2026-04-19'
     code: 163039
     url: /works/163039/
+  - title: TABOO -Chuuhen-
+    author: nanahoshi-tento
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/386725.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 386725
+    url: /works/386725/
   - title: Hikage | Shade
     author: syuuen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/429669.jpg
@@ -31,6 +38,13 @@ works:
     date: '2026-04-30'
     code: 555849
     url: /works/555849/
+  - title: TABOO -Kanzenhan-｜TABOO -Complete Version-
+    author: nanahoshi-tento
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/589628.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 589628
+    url: /works/589628/
   - title: Sinful Lust 4
     author: zetto
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/593064.jpg

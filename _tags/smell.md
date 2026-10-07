@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "smell"
-work_count: 21
+work_count: 22
 works:
   - title: Natsu Jiru Ch. 1-2
     author: sena-youtarou
@@ -17,6 +17,13 @@ works:
     date: '2026-04-23'
     code: 296282
     url: /works/296282/
+  - title: Kanojo no Amai Jiraishuu
+    author: jirou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/352215.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 352215
+    url: /works/352215/
   - title: Konoe no Kyuujitsu | Konoe's Day Off
     author: alp
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/479447.jpg

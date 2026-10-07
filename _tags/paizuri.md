@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "paizuri"
-work_count: 223
+work_count: 225
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -579,7 +579,7 @@ works:
   - title: Haha to Yaru to Iukoto
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/633840.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-05'
     code: 633840
     url: /works/633840/
@@ -1065,6 +1065,13 @@ works:
     date: '2026-07-05'
     code: 661139
     url: /works/661139/
+  - title: Dandan Kuse ni Naru - I like molester? .........No
+    author: panda
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/661142.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 661142
+    url: /works/661142/
   - title: Love wa Gal kara Hajimaru Unmei | Love is a Destiny That Begins with a Gal
       ch.1-5
     author: nusmusbim
@@ -1190,6 +1197,14 @@ works:
     date: '2026-09-04'
     code: 669459
     url: /works/669459/
+  - title: Kareshi Mochi Kyonyuu Beit Gal to Mechakucha Sex shita Hanashi | I Had Wild
+      Sex with a Taken Busty Gyaru Part-Timer!
+    author: bs3
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/671129.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 671129
+    url: /works/671129/
   - title: My Secret With Kyouko Sensei 1 - Kyouko Sensei to Boku no Himitsu
     author: maimu-maimu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/671460.jpg
@@ -1673,7 +1688,7 @@ works:
   - title: Bakunyuu Shimai ni Oshiekomu | Training the Busty Sisters
     author: arakige-tanji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685928.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-05'
     code: 685928
     url: /works/685928/

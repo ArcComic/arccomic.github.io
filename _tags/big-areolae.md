@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big areolae"
-work_count: 92
+work_count: 94
 works:
   - title: Soubo Soukan 2 | Twin mothers incest 2 FULL
     author: nanao-yukiji
@@ -411,6 +411,13 @@ works:
     date: '2026-07-05'
     code: 661139
     url: /works/661139/
+  - title: Dandan Kuse ni Naru - I like molester? .........No
+    author: panda
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/661142.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 661142
+    url: /works/661142/
   - title: Love wa Gal kara Hajimaru Unmei | Love is a Destiny That Begins with a Gal
       ch.1-5
     author: nusmusbim
@@ -462,6 +469,14 @@ works:
     date: '2026-08-23'
     code: 668880
     url: /works/668880/
+  - title: Kareshi Mochi Kyonyuu Beit Gal to Mechakucha Sex shita Hanashi | I Had Wild
+      Sex with a Taken Busty Gyaru Part-Timer!
+    author: bs3
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/671129.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 671129
+    url: /works/671129/
   - title: Moto Gal Mama wa Musuko no Karada o Yoku Shiranai
     author: hatakeyama-tohya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673232.jpg
@@ -694,7 +709,7 @@ works:
       iin Miyamori Chizuru-hen
     author: tsusauto
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685661.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-05'
     code: 685661
     url: /works/685661/

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "scanmark"
-work_count: 219
+work_count: 224
 works:
   - title: NTR Anniversary + ) [Syukurin] Mitsuha ~Netorare~ (Kimi no Na wa.) [English]
       [Colorized] by Mikaku
@@ -324,6 +324,13 @@ works:
     date: '2026-08-19'
     code: 641362
     url: /works/641362/
+  - title: Boku wa Tsuma ga Netorare Nando mo Ikasareru Sugata o Mitsuzuketa. 4
+    author: sanku
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/641950.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 641950
+    url: /works/641950/
   - title: Koitsu majide choro katta 〜 kinjo no shingurumaza-hen 〜
     author: doron
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642018.jpg
@@ -346,6 +353,13 @@ works:
     date: '2026-09-25'
     code: 642393
     url: /works/642393/
+  - title: Netorarensa 2 Boku no  Femme Fatale
+    author: bad-end-dreamer
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642394.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 642394
+    url: /works/642394/
   - title: Akogare no Hito wa Mou Owari!
     author: orange-mimosa
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642584.jpg
@@ -408,7 +422,7 @@ works:
   - title: Varipier
     author: piero
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/643729.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-10-05'
     code: 643729
     url: /works/643729/
@@ -492,6 +506,13 @@ works:
     date: '2026-09-26'
     code: 654244
     url: /works/654244/
+  - title: Until I Take Everything From You 3-C
+    author: takotokite
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654245.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 654245
+    url: /works/654245/
   - title: Until I Take Everything From You 4
     author: takotokite
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654249.jpg
@@ -506,6 +527,13 @@ works:
     date: '2026-07-07'
     code: 654253
     url: /works/654253/
+  - title: Until I Take Everything From You 5
+    author: takotokite
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654260.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 654260
+    url: /works/654260/
   - title: Provoking Men Part 1
     author: pororivista
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654373.jpg
@@ -513,6 +541,13 @@ works:
     date: '2026-08-25'
     code: 654373
     url: /works/654373/
+  - title: Take Everything From You
+    author: takotokite
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654587.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 654587
+    url: /works/654587/
   - title: Yabai oji | Dangerous Uncle
     author: chinpan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654645.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "x-ray"
-work_count: 309
+work_count: 310
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -1535,6 +1535,13 @@ works:
     date: '2026-07-05'
     code: 661139
     url: /works/661139/
+  - title: Dandan Kuse ni Naru - I like molester? .........No
+    author: panda
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/661142.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 661142
+    url: /works/661142/
   - title: Himote no Boku ni Konna Sasoi Kotowareru Hazu ga Nai
     author: untue
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/661816.jpg
@@ -2323,7 +2330,7 @@ works:
       Man
     author: ma-kurou-madou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686029.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-05'
     code: 686029
     url: /works/686029/

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "nipple stimulation"
-work_count: 145
+work_count: 147
 works:
   - title: Hypnotic Domination ~ The Fall of Tennis Club Ace ~
     author: danchino
@@ -15,7 +15,7 @@ works:
       1'
     author: icelatte
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/475840.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-05'
     code: 475840
     url: /works/475840/
@@ -95,7 +95,7 @@ works:
       Cum Behind My Husband’s Back 1-3
     author: icelatte
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/509584.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-10-05'
     code: 509584
     url: /works/509584/
@@ -639,6 +639,20 @@ works:
     date: '2026-09-26'
     code: 654244
     url: /works/654244/
+  - title: Until I Take Everything From You 3-C
+    author: takotokite
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654245.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 654245
+    url: /works/654245/
+  - title: Until I Take Everything From You 5
+    author: takotokite
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654260.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 654260
+    url: /works/654260/
   - title: Tonari no Ayane-san Soushuuhen | My Neighbor Ayane Anthology
     author: herio
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/656319.jpg
@@ -1084,7 +1098,7 @@ works:
       Ore | I Used Hypnosis to Create a School Harem That I Can Fuck as Much as I Want
     author: inagita
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685874.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-10-05'
     code: 685874
     url: /works/685874/
@@ -1092,7 +1106,7 @@ works:
       Man
     author: ma-kurou-madou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686029.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-05'
     code: 686029
     url: /works/686029/

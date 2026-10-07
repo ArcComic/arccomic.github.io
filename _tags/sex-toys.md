@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sex toys"
-work_count: 123
+work_count: 124
 works:
   - title: Ayami Hypno
     author: yasuhiro
@@ -543,6 +543,13 @@ works:
     date: '2026-09-24'
     code: 654645
     url: /works/654645/
+  - title: Dandan Kuse ni Naru - I like molester? .........No
+    author: panda
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/661142.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 661142
+    url: /works/661142/
   - title: Seishidouin no Oshigoto 4 Kohen Rippana Benki ni Sodatta node Daimanzoku
       de Shidou wo Oeta + C101 Omake
     author: malcorond
@@ -883,7 +890,7 @@ works:
       iin Miyamori Chizuru-hen
     author: tsusauto
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685661.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-05'
     code: 685661
     url: /works/685661/
@@ -897,7 +904,7 @@ works:
   - title: LATEST
     author: ratatatat74-mr-skull
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685961.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-05'
     code: 685961
     url: /works/685961/
@@ -905,7 +912,7 @@ works:
       Man
     author: ma-kurou-madou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686029.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-05'
     code: 686029
     url: /works/686029/

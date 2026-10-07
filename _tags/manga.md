@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "manga"
-work_count: 363
+work_count: 367
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -326,6 +326,13 @@ works:
     date: '2026-04-17'
     code: 349247
     url: /works/349247/
+  - title: Kanojo no Amai Jiraishuu
+    author: jirou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/352215.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 352215
+    url: /works/352215/
   - title: Soubo Soukan | Twin Mother Incest Ch. 1
     author: nanao-yukiji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/356516.jpg
@@ -413,6 +420,13 @@ works:
     date: '2026-10-03'
     code: 385266
     url: /works/385266/
+  - title: TABOO -Chuuhen-
+    author: nanahoshi-tento
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/386725.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 386725
+    url: /works/386725/
   - title: Harinezumi no Dilemma ① | A Hedgehog's Dilemma, Part 1
     author: maeda-momo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/388627.jpg
@@ -660,7 +674,7 @@ works:
       1'
     author: icelatte
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/475840.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-05'
     code: 475840
     url: /works/475840/
@@ -783,7 +797,7 @@ works:
       Cum Behind My Husband’s Back 1-3
     author: icelatte
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/509584.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-10-05'
     code: 509584
     url: /works/509584/
@@ -1171,6 +1185,13 @@ works:
     date: '2026-09-06'
     code: 589313
     url: /works/589313/
+  - title: TABOO -Kanzenhan-｜TABOO -Complete Version-
+    author: nanahoshi-tento
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/589628.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 589628
+    url: /works/589628/
   - title: Pashiri no Shita Teku, Yabaitte... ~ Ebi Sori Iki Suru Namaiki Gyaru | Bullied
       Boy's Tongue Revenge Vol.1-4
     author: takayamanon
@@ -1676,6 +1697,13 @@ works:
     date: '2026-09-28'
     code: 660465
     url: /works/660465/
+  - title: Dandan Kuse ni Naru - I like molester? .........No
+    author: panda
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/661142.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 661142
+    url: /works/661142/
   - title: miren -miren-
     author: sabakan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/661148.jpg

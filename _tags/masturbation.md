@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "masturbation"
-work_count: 135
+work_count: 136
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -176,14 +176,14 @@ works:
       Cum Behind My Husband’s Back 1-3
     author: icelatte
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/509584.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-10-05'
     code: 509584
     url: /works/509584/
   - title: Onanie Supporter Hanako |  Handjob Helper Hanako
     author: inu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/517766.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-10-05'
     code: 517766
     url: /works/517766/
@@ -641,6 +641,13 @@ works:
     date: '2026-07-05'
     code: 661139
     url: /works/661139/
+  - title: Dandan Kuse ni Naru - I like molester? .........No
+    author: panda
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/661142.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 661142
+    url: /works/661142/
   - title: Himote no Boku ni Konna Sasoi Kotowareru Hazu ga Nai
     author: untue
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/661816.jpg
@@ -989,28 +996,28 @@ works:
       Ore | I Used Hypnosis to Create a School Harem That I Can Fuck as Much as I Want
     author: inagita
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685874.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-10-05'
     code: 685874
     url: /works/685874/
   - title: Urawa Hanako no Shiawase na Seikatsu | Hanako Urawa's Happy Sex Life
     author: kawaraya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685951.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-10-05'
     code: 685951
     url: /works/685951/
   - title: LATEST
     author: ratatatat74-mr-skull
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685961.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-05'
     code: 685961
     url: /works/685961/
   - title: A Book About Saki Imagining Lesbian Sex with Kanon
     author: satou-to-shio-botamochi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685989.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-05'
     code: 685989
     url: /works/685989/

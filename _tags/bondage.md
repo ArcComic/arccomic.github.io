@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bondage"
-work_count: 94
+work_count: 95
 works:
   - title: Pai☆Panic ~Hasamareta Dekapai~
     author: inkey
@@ -380,6 +380,13 @@ works:
     date: '2026-07-07'
     code: 655423
     url: /works/655423/
+  - title: Dandan Kuse ni Naru - I like molester? .........No
+    author: panda
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/661142.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 661142
+    url: /works/661142/
   - title: Shinyuu Tatakitsubushi Kyousou Shiiku Seikatsu | A Life in Captivity The
       Competition to Break My Best Friend
     author: group
@@ -683,7 +690,7 @@ works:
       Man
     author: ma-kurou-madou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686029.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-05'
     code: 686029
     url: /works/686029/

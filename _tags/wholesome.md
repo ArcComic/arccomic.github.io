@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "wholesome"
-work_count: 197
+work_count: 198
 works:
   - title: FLUFFY LAUGH GIRL
     author: shibasaki-syouzi
@@ -77,6 +77,13 @@ works:
     date: '2026-09-04'
     code: 347653
     url: /works/347653/
+  - title: Kanojo no Amai Jiraishuu
+    author: jirou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/352215.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 352215
+    url: /works/352215/
   - title: Kono Koi ni Kiduite
     author: danimaru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/357965.jpg

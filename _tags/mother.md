@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "mother"
-work_count: 161
+work_count: 162
 works:
   - title: Imitation Family + Bigibo Hen
     author: tohzai
@@ -437,6 +437,13 @@ works:
     date: '2026-09-28'
     code: 584529
     url: /works/584529/
+  - title: TABOO -Kanzenhan-｜TABOO -Complete Version-
+    author: nanahoshi-tento
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/589628.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 589628
+    url: /works/589628/
   - title: Nyuuin-chuu no Muramura wa Okaa-san de... 2
     author: natsume-benkei
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/592039.jpg
@@ -571,7 +578,7 @@ works:
   - title: Haha to Yaru to Iukoto
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/633840.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-05'
     code: 633840
     url: /works/633840/
@@ -1170,14 +1177,14 @@ works:
   - title: LATEST
     author: ratatatat74-mr-skull
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685961.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-05'
     code: 685961
     url: /works/685961/
   - title: Kaa-san to Omoide no Gojitsudan 4 English
     author: fuchina-noharu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686044.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-05'
     code: 686044
     url: /works/686044/

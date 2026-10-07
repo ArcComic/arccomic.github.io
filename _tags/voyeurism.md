@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "voyeurism"
-work_count: 56
+work_count: 57
 works:
   - title: Tsutomesaki no Musume-san o Oishiku Itadaku Hon Minshuku Hen
     author: aya
@@ -312,6 +312,14 @@ works:
     date: '2026-09-07'
     code: 654638
     url: /works/654638/
+  - title: Boku Wa Tsuma Ga Netorare Nando Mo Ikasareru Sugata O Mitsuzuketa- I Kept
+      Watching While a Man Made My Wife Cum Over and Over
+    author: sanku
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/663860.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 663860
+    url: /works/663860/
   - title: BokuYaba 5-nengo ~Seijinshiki no Hi Haha ni Natta Yamada to Saikai suru Hanashi~
       | BokuYaba 5 Years Later -A story of meeting Yamada who became a mother at Coming
       of Age Ceremony Day-

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "tankoubon"
-work_count: 81
+work_count: 83
 works:
   - title: Kaisha de Iroiro | Gettin' Busy at the Office
     author: hara-shigeyuki
@@ -80,6 +80,13 @@ works:
     date: '2026-03-03'
     code: 574060
     url: /works/574060/
+  - title: TABOO -Kanzenhan-｜TABOO -Complete Version-
+    author: nanahoshi-tento
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/589628.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 589628
+    url: /works/589628/
   - title: Soukan Syndrome
     author: kuroiwa-menou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/605633.jpg
@@ -268,6 +275,13 @@ works:
     date: '2026-09-28'
     code: 660465
     url: /works/660465/
+  - title: Dandan Kuse ni Naru - I like molester? .........No
+    author: panda
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/661142.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 661142
+    url: /works/661142/
   - title: Genkai New Town no Inei Genkai New Town wa Mitsu no Aji 2 - The shadow of
       marginal new town
     author: saigado-ishoku-dougen

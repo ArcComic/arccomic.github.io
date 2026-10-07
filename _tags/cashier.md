@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "cashier"
-work_count: 2
+work_count: 3
 works:
   - title: Reji-ka no Kanojo ~Kareshi no Tame ni Hataraite ita Watashi ga Tenchou no
       Seiganku ni natta Riyuu~ | My Cashier Girlfriend ~The Reason I, Who Was Working
@@ -19,4 +19,12 @@ works:
     date: '2026-09-29'
     code: 670438
     url: /works/670438/
+  - title: Kareshi Mochi Kyonyuu Beit Gal to Mechakucha Sex shita Hanashi | I Had Wild
+      Sex with a Taken Busty Gyaru Part-Timer!
+    author: bs3
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/671129.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 671129
+    url: /works/671129/
 ---

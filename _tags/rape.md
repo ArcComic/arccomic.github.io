@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "rape"
-work_count: 239
+work_count: 242
 works:
   - title: Office Love Scramble Ch. 1
     author: tohzai
@@ -118,6 +118,13 @@ works:
     date: '2026-09-22'
     code: 381875
     url: /works/381875/
+  - title: TABOO -Chuuhen-
+    author: nanahoshi-tento
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/386725.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 386725
+    url: /works/386725/
   - title: Harinezumi no Dilemma ① | A Hedgehog's Dilemma, Part 1
     author: maeda-momo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/388627.jpg
@@ -223,6 +230,13 @@ works:
     date: '2026-09-12'
     code: 449158
     url: /works/449158/
+  - title: Tanetsuke Jiyuu Gakuen 2
+    author: panda
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/451660.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 451660
+    url: /works/451660/
   - title: Kagura Hypno
     author: yasuhiro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/457733.jpg
@@ -278,7 +292,7 @@ works:
       1'
     author: icelatte
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/475840.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-05'
     code: 475840
     url: /works/475840/
@@ -407,6 +421,13 @@ works:
     date: '2026-08-18'
     code: 521812
     url: /works/521812/
+  - title: Enkkou-chan no Papakatsu Nikki 2 ~Araki Nonoka no Baai~
+    author: takano-tomohiro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/524736.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 524736
+    url: /works/524736/
   - title: Shuuden Deisui Anken
     author: uds
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/525085.jpg
@@ -1746,7 +1767,7 @@ works:
   - title: Imouto | Little Sis
     author: nanashidori
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686038.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-10-05'
     code: 686038
     url: /works/686038/

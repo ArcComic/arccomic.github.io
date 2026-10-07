@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "waitress"
-work_count: 3
+work_count: 4
 works:
   - title: Yurikago
     author: neko-samurai
@@ -18,6 +18,13 @@ works:
     date: '2026-07-07'
     code: 583391
     url: /works/583391/
+  - title: Dandan Kuse ni Naru - I like molester? .........No
+    author: panda
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/661142.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 661142
+    url: /works/661142/
   - title: Papa no Shinshitsu wa Musume Tomodachi no Tamariba 5 -Ninshin Houkoku Hen-
     author: richard-bahman
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685678.jpg

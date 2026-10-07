@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "incest"
-work_count: 281
+work_count: 283
 works:
   - title: Imitation Family + Bigibo Hen
     author: tohzai
@@ -126,6 +126,13 @@ works:
     date: '2026-09-13'
     code: 380273
     url: /works/380273/
+  - title: TABOO -Chuuhen-
+    author: nanahoshi-tento
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/386725.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 386725
+    url: /works/386725/
   - title: LOOK LIKE
     author: terasu-mc
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/388099.jpg
@@ -604,6 +611,13 @@ works:
     date: '2026-04-15'
     code: 589010
     url: /works/589010/
+  - title: TABOO -Kanzenhan-｜TABOO -Complete Version-
+    author: nanahoshi-tento
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/589628.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 589628
+    url: /works/589628/
   - title: Mesu no Ie II ~Tsuma wa Midare Ubareru~
     author: ame-arare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/591112.jpg
@@ -834,7 +848,7 @@ works:
   - title: Haha to Yaru to Iukoto
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/633840.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-05'
     code: 633840
     url: /works/633840/
@@ -2040,21 +2054,21 @@ works:
   - title: Oshi_S3
     author: gsus
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685886.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-10-05'
     code: 685886
     url: /works/685886/
   - title: Imouto | Little Sis
     author: nanashidori
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686038.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-10-05'
     code: 686038
     url: /works/686038/
   - title: Kaa-san to Omoide no Gojitsudan 4 English
     author: fuchina-noharu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686044.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-05'
     code: 686044
     url: /works/686044/

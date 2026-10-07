@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "anal"
-work_count: 153
+work_count: 155
 works:
   - title: Hitozuma Hyakka
     author: hase-tsubura
@@ -597,6 +597,13 @@ works:
     date: '2026-09-25'
     code: 652937
     url: /works/652937/
+  - title: Until I Take Everything From You 5
+    author: takotokite
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654260.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 654260
+    url: /works/654260/
   - title: Yabai oji | Dangerous Uncle
     author: chinpan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654645.jpg
@@ -646,6 +653,13 @@ works:
     date: '2026-09-28'
     code: 660465
     url: /works/660465/
+  - title: Dandan Kuse ni Naru - I like molester? .........No
+    author: panda
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/661142.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 661142
+    url: /works/661142/
   - title: Shinyuu Tatakitsubushi Kyousou Shiiku Seikatsu | A Life in Captivity The
       Competition to Break My Best Friend
     author: group
@@ -1101,14 +1115,14 @@ works:
   - title: Bakunyuu Shimai ni Oshiekomu | Training the Busty Sisters
     author: arakige-tanji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685928.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-05'
     code: 685928
     url: /works/685928/
   - title: Miko-kun no Hatsukoi
     author: kisaki-noah
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685969.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-10-05'
     code: 685969
     url: /works/685969/
@@ -1116,7 +1130,7 @@ works:
       Man
     author: ma-kurou-madou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686029.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-05'
     code: 686029
     url: /works/686029/

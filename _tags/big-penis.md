@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big penis"
-work_count: 225
+work_count: 227
 works:
   - title: Tsuma no Imouto no Danna ga Ie ni Kiteiruyoudesu | My Sister-In-Law's Husband
       is Over
@@ -547,7 +547,7 @@ works:
   - title: Haha to Yaru to Iukoto
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/633840.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-05'
     code: 633840
     url: /works/633840/
@@ -1059,6 +1059,13 @@ works:
     date: '2026-07-05'
     code: 661139
     url: /works/661139/
+  - title: Dandan Kuse ni Naru - I like molester? .........No
+    author: panda
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/661142.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 661142
+    url: /works/661142/
   - title: 'Jirai Inu-kei Kanojo #Kimi to Tsunagaritai Jirai de Inukei de Juujun na
       Kimi dake no Pet | Jirai-kei Puppy Girlfriend'
     author: shimofuji-jun
@@ -1253,6 +1260,14 @@ works:
     date: '2026-08-31'
     code: 669505
     url: /works/669505/
+  - title: Kareshi Mochi Kyonyuu Beit Gal to Mechakucha Sex shita Hanashi | I Had Wild
+      Sex with a Taken Busty Gyaru Part-Timer!
+    author: bs3
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/671129.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 671129
+    url: /works/671129/
   - title: Friend With Benefit With My Friends Mom
     author: cammy
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/671657.jpg
@@ -1658,14 +1673,14 @@ works:
   - title: Sensei Sakusei Party | Sensei's Semen Extraction Party
     author: cigar-cat
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685882.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-10-05'
     code: 685882
     url: /works/685882/
   - title: LATEST
     author: ratatatat74-mr-skull
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685961.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-05'
     code: 685961
     url: /works/685961/
@@ -1673,21 +1688,21 @@ works:
       Man
     author: ma-kurou-madou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686029.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-05'
     code: 686029
     url: /works/686029/
   - title: lots of sex in the future! Bulma and Gohan manga colors
     author: yamamoto
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686031.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-05'
     code: 686031
     url: /works/686031/
   - title: Kaa-san to Omoide no Gojitsudan 4 English
     author: fuchina-noharu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686044.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-05'
     code: 686044
     url: /works/686044/

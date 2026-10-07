@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big ass"
-work_count: 228
+work_count: 230
 works:
   - title: My Care Lady Ch. 1
     author: sugi-g
@@ -565,7 +565,7 @@ works:
   - title: Haha to Yaru to Iukoto
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/633840.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-05'
     code: 633840
     url: /works/633840/
@@ -1001,6 +1001,13 @@ works:
     date: '2026-09-18'
     code: 654010
     url: /works/654010/
+  - title: Until I Take Everything From You 5
+    author: takotokite
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654260.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 654260
+    url: /works/654260/
   - title: My Tall, Stacked, Virgin Boss 1
     author: yunamaro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654603.jpg
@@ -1046,6 +1053,13 @@ works:
     date: '2026-07-05'
     code: 661139
     url: /works/661139/
+  - title: Dandan Kuse ni Naru - I like molester? .........No
+    author: panda
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/661142.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 661142
+    url: /works/661142/
   - title: Himote no Boku ni Konna Sasoi Kotowareru Hazu ga Nai 2
     author: untue
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/661818.jpg
@@ -1679,28 +1693,28 @@ works:
   - title: Oshi_S3
     author: gsus
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685886.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-10-05'
     code: 685886
     url: /works/685886/
   - title: Bakunyuu Shimai ni Oshiekomu | Training the Busty Sisters
     author: arakige-tanji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685928.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-05'
     code: 685928
     url: /works/685928/
   - title: LATEST
     author: ratatatat74-mr-skull
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685961.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-05'
     code: 685961
     url: /works/685961/
   - title: Kaa-san to Omoide no Gojitsudan 4 English
     author: fuchina-noharu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686044.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-05'
     code: 686044
     url: /works/686044/

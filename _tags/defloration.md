@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "defloration"
-work_count: 228
+work_count: 229
 works:
   - title: Imitation Family + Bigibo Hen
     author: tohzai
@@ -111,6 +111,13 @@ works:
     date: '2026-09-06'
     code: 349379
     url: /works/349379/
+  - title: Kanojo no Amai Jiraishuu
+    author: jirou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/352215.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 352215
+    url: /works/352215/
   - title: ERIKA Vol. 2
     author: hankotsu-max
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/353025.jpg
@@ -1675,7 +1682,7 @@ works:
   - title: Bakunyuu Shimai ni Oshiekomu | Training the Busty Sisters
     author: arakige-tanji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685928.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-05'
     code: 685928
     url: /works/685928/
@@ -1683,14 +1690,14 @@ works:
       Man
     author: ma-kurou-madou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686029.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-05'
     code: 686029
     url: /works/686029/
   - title: Imouto | Little Sis
     author: nanashidori
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686038.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-10-05'
     code: 686038
     url: /works/686038/

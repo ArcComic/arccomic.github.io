@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "milf"
-work_count: 442
+work_count: 444
 works:
   - title: Life with Married Women Just Like a Manga 2 - Ch. 1-5
     author: hidemaru
@@ -330,6 +330,13 @@ works:
     date: '2026-09-29'
     code: 383623
     url: /works/383623/
+  - title: TABOO -Chuuhen-
+    author: nanahoshi-tento
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/386725.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 386725
+    url: /works/386725/
   - title: Toshishita Chin Kui Obasan
     author: maccha-neji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/387637.jpg
@@ -1645,7 +1652,7 @@ works:
   - title: Hitozuma-tachi no Kiken na Jouji | The Housewife's Dangerous Situation
     author: homare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/627722.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-10-05'
     code: 627722
     url: /works/627722/
@@ -1690,7 +1697,7 @@ works:
   - title: Haha to Yaru to Iukoto
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/633840.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-05'
     code: 633840
     url: /works/633840/
@@ -2480,6 +2487,14 @@ works:
     date: '2026-07-13'
     code: 663517
     url: /works/663517/
+  - title: Boku Wa Tsuma Ga Netorare Nando Mo Ikasareru Sugata O Mitsuzuketa- I Kept
+      Watching While a Man Made My Wife Cum Over and Over
+    author: sanku
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/663860.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 663860
+    url: /works/663860/
   - title: Repetitive Practice Mama! The Story of Recieving Sex Ed From an Extremely
       Strict Mother
     author: unknown
@@ -3185,7 +3200,7 @@ works:
       iin Miyamori Chizuru-hen
     author: tsusauto
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685661.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-05'
     code: 685661
     url: /works/685661/
@@ -3224,14 +3239,14 @@ works:
   - title: LATEST
     author: ratatatat74-mr-skull
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685961.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-05'
     code: 685961
     url: /works/685961/
   - title: lots of sex in the future! Bulma and Gohan manga colors
     author: yamamoto
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686031.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-05'
     code: 686031
     url: /works/686031/

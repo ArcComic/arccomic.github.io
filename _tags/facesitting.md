@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "facesitting"
-work_count: 21
+work_count: 22
 works:
   - title: Yuri no o saifu ni shite agemasu ne, Senpai | I'll turn you into Yuri's wallet,
       Senpai
@@ -109,6 +109,13 @@ works:
     date: '2026-05-26'
     code: 652244
     url: /works/652244/
+  - title: Dandan Kuse ni Naru - I like molester? .........No
+    author: panda
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/661142.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 661142
+    url: /works/661142/
   - title: Welcome to the Weak Masochist Volleyball Club
     author: hagakure-kurage
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/664758.jpg
@@ -158,7 +165,7 @@ works:
   - title: Bakunyuu Shimai ni Oshiekomu | Training the Busty Sisters
     author: arakige-tanji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685928.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-05'
     code: 685928
     url: /works/685928/

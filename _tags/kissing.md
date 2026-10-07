@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "kissing"
-work_count: 358
+work_count: 359
 works:
   - title: FLUFFY LAUGH GIRL
     author: shibasaki-syouzi
@@ -298,7 +298,7 @@ works:
       1'
     author: icelatte
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/475840.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-05'
     code: 475840
     url: /works/475840/
@@ -1092,7 +1092,7 @@ works:
   - title: Haha to Yaru to Iukoto
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/633840.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-05'
     code: 633840
     url: /works/633840/
@@ -1735,6 +1735,13 @@ works:
     date: '2026-09-26'
     code: 654244
     url: /works/654244/
+  - title: Until I Take Everything From You 5
+    author: takotokite
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654260.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 654260
+    url: /works/654260/
   - title: My Tall, Stacked, Virgin Boss 1
     author: yunamaro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654603.jpg
@@ -2669,21 +2676,21 @@ works:
       Ore | I Used Hypnosis to Create a School Harem That I Can Fuck as Much as I Want
     author: inagita
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685874.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-10-05'
     code: 685874
     url: /works/685874/
   - title: Bakunyuu Shimai ni Oshiekomu | Training the Busty Sisters
     author: arakige-tanji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685928.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-05'
     code: 685928
     url: /works/685928/
   - title: LATEST
     author: ratatatat74-mr-skull
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685961.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-05'
     code: 685961
     url: /works/685961/
@@ -2691,14 +2698,14 @@ works:
       Man
     author: ma-kurou-madou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686029.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-05'
     code: 686029
     url: /works/686029/
   - title: Kaa-san to Omoide no Gojitsudan 4 English
     author: fuchina-noharu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686044.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-05'
     code: 686044
     url: /works/686044/

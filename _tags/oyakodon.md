@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "oyakodon"
-work_count: 31
+work_count: 32
 works:
   - title: Akarui Kazoku Seikatsu
     author: pistonring-nishizawa
@@ -24,6 +24,13 @@ works:
     date: '2026-04-30'
     code: 555849
     url: /works/555849/
+  - title: TABOO -Kanzenhan-｜TABOO -Complete Version-
+    author: nanahoshi-tento
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/589628.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 589628
+    url: /works/589628/
   - title: '"Yasashii Dake no Otoko" to Tsuma ni Sute Raretanode... | My Wife Left Me
       Because I was "Too Gentle"...'
     author: special-g
@@ -223,7 +230,7 @@ works:
   - title: LATEST
     author: ratatatat74-mr-skull
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685961.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-05'
     code: 685961
     url: /works/685961/

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "schoolgirl uniform"
-work_count: 324
+work_count: 330
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -125,6 +125,13 @@ works:
     date: '2026-09-06'
     code: 349379
     url: /works/349379/
+  - title: Kanojo no Amai Jiraishuu
+    author: jirou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/352215.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 352215
+    url: /works/352215/
   - title: Senpai Refrain
     author: spiritus-tarou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/357616.jpg
@@ -265,6 +272,13 @@ works:
     date: '2026-04-23'
     code: 448503
     url: /works/448503/
+  - title: Tanetsuke Jiyuu Gakuen 2
+    author: panda
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/451660.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 451660
+    url: /works/451660/
   - title: 'Portio Switch CASE: Varicata Portio | Cervix Switch CASE - Extra-hard Cervix'
     author: bang-you-didori
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/452141.jpg
@@ -681,6 +695,13 @@ works:
     date: '2026-08-24'
     code: 584934
     url: /works/584934/
+  - title: TABOO -Kanzenhan-｜TABOO -Complete Version-
+    author: nanahoshi-tento
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/589628.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 589628
+    url: /works/589628/
   - title: Pashiri no Shita Teku, Yabaitte... ~ Ebi Sori Iki Suru Namaiki Gyaru | Bullied
       Boy's Tongue Revenge Vol.1-4
     author: takayamanon
@@ -1401,6 +1422,13 @@ works:
     date: '2026-07-07'
     code: 653978
     url: /works/653978/
+  - title: Take Everything From You
+    author: takotokite
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654587.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 654587
+    url: /works/654587/
   - title: Toshoshitsu no Kedamono-tachi | Library Beasts
     author: ohno-kanae
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654638.jpg
@@ -1483,6 +1511,13 @@ works:
     date: '2026-09-05'
     code: 660471
     url: /works/660471/
+  - title: Dandan Kuse ni Naru - I like molester? .........No
+    author: panda
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/661142.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 661142
+    url: /works/661142/
   - title: miren -miren-
     author: sabakan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/661148.jpg
@@ -1719,6 +1754,14 @@ works:
     date: '2026-09-18'
     code: 668045
     url: /works/668045/
+  - title: Kareshi Mochi Kyonyuu Beit Gal to Mechakucha Sex shita Hanashi | I Had Wild
+      Sex with a Taken Busty Gyaru Part-Timer!
+    author: bs3
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/671129.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 671129
+    url: /works/671129/
   - title: Downer Hitozuma wa Teishu Kanpaku Otto o Wakaraseru | The Gloomy Housewife
       Puts Her Domineering Husband in His Place
     author: joucho
@@ -2406,14 +2449,14 @@ works:
       Ore | I Used Hypnosis to Create a School Harem That I Can Fuck as Much as I Want
     author: inagita
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685874.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-10-05'
     code: 685874
     url: /works/685874/
   - title: Bakunyuu Shimai ni Oshiekomu | Training the Busty Sisters
     author: arakige-tanji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685928.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-05'
     code: 685928
     url: /works/685928/

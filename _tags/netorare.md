@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "netorare"
-work_count: 421
+work_count: 428
 works:
   - title: Kousa suru Osu to Mesu | Male and Female Crossing
     author: ootsuka-kotora
@@ -1273,6 +1273,14 @@ works:
     date: '2026-09-17'
     code: 621436
     url: /works/621436/
+  - title: Ore no Jimi Kanojo wa Natsuyasumi dake Aitsu Senyou no OnaPet | My Plain
+      Girlfriend Is That Guy's Personal Fucktoy For The Summer Break
+    author: omusubi-korori
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/621733.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 621733
+    url: /works/621733/
   - title: Houkago Dairizuma 2 Boku no Kanojo wa Chichioya ni Tanetsuke Sarete Iru
     author: richard-bahman
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/622021.jpg
@@ -1306,7 +1314,7 @@ works:
   - title: Hitozuma-tachi no Kiken na Jouji | The Housewife's Dangerous Situation
     author: homare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/627722.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-10-05'
     code: 627722
     url: /works/627722/
@@ -1500,6 +1508,13 @@ works:
     date: '2026-09-29'
     code: 641456
     url: /works/641456/
+  - title: Boku wa Tsuma ga Netorare Nando mo Ikasareru Sugata o Mitsuzuketa. 4
+    author: sanku
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/641950.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 641950
+    url: /works/641950/
   - title: Koitsu majide choro katta 〜 kinjo no shingurumaza-hen 〜
     author: doron
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642018.jpg
@@ -1522,6 +1537,13 @@ works:
     date: '2026-09-25'
     code: 642393
     url: /works/642393/
+  - title: Netorarensa 2 Boku no  Femme Fatale
+    author: bad-end-dreamer
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642394.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 642394
+    url: /works/642394/
   - title: Akogare no Hito wa Mou Owari!
     author: orange-mimosa
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642584.jpg
@@ -1933,6 +1955,13 @@ works:
     date: '2026-09-26'
     code: 654244
     url: /works/654244/
+  - title: Until I Take Everything From You 3-C
+    author: takotokite
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654245.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 654245
+    url: /works/654245/
   - title: Himaten NTR 19P
     author: terasu-mc
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654484.jpg
@@ -1940,6 +1969,13 @@ works:
     date: '2026-08-22'
     code: 654484
     url: /works/654484/
+  - title: Take Everything From You
+    author: takotokite
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654587.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 654587
+    url: /works/654587/
   - title: Yabai oji | Dangerous Uncle
     author: chinpan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654645.jpg
@@ -2196,6 +2232,14 @@ works:
     date: '2026-07-13'
     code: 663672
     url: /works/663672/
+  - title: Boku Wa Tsuma Ga Netorare Nando Mo Ikasareru Sugata O Mitsuzuketa- I Kept
+      Watching While a Man Made My Wife Cum Over and Over
+    author: sanku
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/663860.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 663860
+    url: /works/663860/
   - title: Till Dick Do Us Part
     author: ratatatat74-mr-skull
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/664249.jpg
@@ -2336,6 +2380,14 @@ works:
     date: '2026-08-21'
     code: 672241
     url: /works/672241/
+  - title: Boku wa Tsuma ga Netorare Nando mo Ikasareru Sugata o Mitsuzuketa. 2 | I
+      Kept Watching While A Man Made My Wife Cum Over And Over 2
+    author: sanku
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/672262.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 672262
+    url: /works/672262/
   - title: Boku-tachi Mama to Yattemasu
     author: ameto-yuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/672450.jpg
@@ -3039,7 +3091,7 @@ works:
       iin Miyamori Chizuru-hen
     author: tsusauto
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685661.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-05'
     code: 685661
     url: /works/685661/
@@ -3084,14 +3136,14 @@ works:
   - title: Oshi_S3
     author: gsus
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685886.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-10-05'
     code: 685886
     url: /works/685886/
   - title: LATEST
     author: ratatatat74-mr-skull
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685961.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-05'
     code: 685961
     url: /works/685961/
@@ -3099,7 +3151,7 @@ works:
       Man
     author: ma-kurou-madou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686029.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-05'
     code: 686029
     url: /works/686029/

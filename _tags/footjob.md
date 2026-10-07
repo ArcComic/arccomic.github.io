@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "footjob"
-work_count: 31
+work_count: 32
 works:
   - title: Sei no Kenryoku | The Power of Sex
     author: tomohiro-kai
@@ -113,6 +113,13 @@ works:
     date: '2026-09-30'
     code: 655660
     url: /works/655660/
+  - title: Dandan Kuse ni Naru - I like molester? .........No
+    author: panda
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/661142.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 661142
+    url: /works/661142/
   - title: It was supposed to be a story about two people who loved each other but her
       best friend stole his virginity
     author: meisuke
@@ -215,7 +222,7 @@ works:
   - title: Miko-kun no Hatsukoi
     author: kisaki-noah
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685969.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-10-05'
     code: 685969
     url: /works/685969/

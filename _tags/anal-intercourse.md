@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "anal intercourse"
-work_count: 87
+work_count: 88
 works:
   - title: Kanojo to no Kekkon Houkoku ni Kiseishita noni Gimai to Yarimakuri no Suujitsukan
       ga Hajimatteshimatta | I visited my in-laws to announce my marriage and ended
@@ -336,6 +336,13 @@ works:
     date: '2026-09-28'
     code: 660465
     url: /works/660465/
+  - title: Dandan Kuse ni Naru - I like molester? .........No
+    author: panda
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/661142.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 661142
+    url: /works/661142/
   - title: Shinyuu Tatakitsubushi Kyousou Shiiku Seikatsu | A Life in Captivity The
       Competition to Break My Best Friend
     author: group
@@ -632,14 +639,14 @@ works:
   - title: Bakunyuu Shimai ni Oshiekomu | Training the Busty Sisters
     author: arakige-tanji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685928.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-05'
     code: 685928
     url: /works/685928/
   - title: Miko-kun no Hatsukoi
     author: kisaki-noah
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685969.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-10-05'
     code: 685969
     url: /works/685969/

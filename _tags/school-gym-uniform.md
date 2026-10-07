@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "school gym uniform"
-work_count: 4
+work_count: 5
 works:
   - title: Kounai de Ichiban Kawaikute Ichiban Oppai ga Dekakute Ichiban Okazu ni Sareteru
       Ichiban Sukebe na Etou-san - Eto-san is the cutest, has the biggest tits, is the
@@ -12,6 +12,13 @@ works:
     date: '2026-04-23'
     code: 645649
     url: /works/645649/
+  - title: Take Everything From You
+    author: takotokite
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654587.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 654587
+    url: /works/654587/
   - title: Jinin ’Futsuu’ Dekachichi Inkya J◯ no Maso Mesu ga Nagga〜i Chinpo de Shuuryou
       Made♡
     author: amrita

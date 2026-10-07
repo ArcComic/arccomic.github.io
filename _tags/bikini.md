@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bikini"
-work_count: 77
+work_count: 78
 works:
   - title: Kizashi
     author: yoshiura-kazuya
@@ -110,7 +110,7 @@ works:
       Cum Behind My Husband’s Back 1-3
     author: icelatte
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/509584.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-10-05'
     code: 509584
     url: /works/509584/
@@ -200,6 +200,14 @@ works:
     date: '2026-08-29'
     code: 618087
     url: /works/618087/
+  - title: Ore no Jimi Kanojo wa Natsuyasumi dake Aitsu Senyou no OnaPet | My Plain
+      Girlfriend Is That Guy's Personal Fucktoy For The Summer Break
+    author: omusubi-korori
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/621733.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 621733
+    url: /works/621733/
   - title: Umi no Ie ni wa Kiken ga Ippai Class no Ano Ko no Oppai Porori
     author: p-and-i
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/628126.jpg
@@ -580,7 +588,7 @@ works:
   - title: Sensei Sakusei Party | Sensei's Semen Extraction Party
     author: cigar-cat
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685882.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-10-05'
     code: 685882
     url: /works/685882/
@@ -588,7 +596,7 @@ works:
       Friend Turned into a Gal - A Near-Limit Asphyxiation Underwater Sex!
     author: gyokuro-sakana
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685952.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-10-05'
     code: 685952
     url: /works/685952/

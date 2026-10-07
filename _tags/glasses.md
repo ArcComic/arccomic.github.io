@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "glasses"
-work_count: 257
+work_count: 258
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -399,7 +399,7 @@ works:
       Cum Behind My Husband’s Back 1-3
     author: icelatte
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/509584.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-10-05'
     code: 509584
     url: /works/509584/
@@ -723,6 +723,14 @@ works:
     date: '2026-09-17'
     code: 621436
     url: /works/621436/
+  - title: Ore no Jimi Kanojo wa Natsuyasumi dake Aitsu Senyou no OnaPet | My Plain
+      Girlfriend Is That Guy's Personal Fucktoy For The Summer Break
+    author: omusubi-korori
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/621733.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 621733
+    url: /works/621733/
   - title: Hikikomori Kyousei Shisetsu Hakutou no Ie
     author: shine-nabyss
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/626220.jpg
@@ -1879,7 +1887,7 @@ works:
   - title: Bakunyuu Shimai ni Oshiekomu | Training the Busty Sisters
     author: arakige-tanji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685928.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-05'
     code: 685928
     url: /works/685928/

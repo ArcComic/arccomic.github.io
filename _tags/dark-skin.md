@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "dark skin"
-work_count: 151
+work_count: 152
 works:
   - title: Birthday
     author: hashiba-yachi
@@ -481,7 +481,7 @@ works:
   - title: Haha to Yaru to Iukoto
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/633840.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-05'
     code: 633840
     url: /works/633840/
@@ -559,6 +559,13 @@ works:
     date: '2026-09-23'
     code: 641295
     url: /works/641295/
+  - title: Boku wa Tsuma ga Netorare Nando mo Ikasareru Sugata o Mitsuzuketa. 4
+    author: sanku
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/641950.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 641950
+    url: /works/641950/
   - title: Akogare no Hito wa Mou Owari! 2
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642585.jpg
@@ -1099,14 +1106,14 @@ works:
   - title: Sensei Sakusei Party | Sensei's Semen Extraction Party
     author: cigar-cat
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685882.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-10-05'
     code: 685882
     url: /works/685882/
   - title: LATEST
     author: ratatatat74-mr-skull
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685961.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-05'
     code: 685961
     url: /works/685961/

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "yandere"
-work_count: 27
+work_count: 30
 works:
   - title: My Only Princess
     author: mackgee
@@ -17,6 +17,20 @@ works:
     date: '2026-04-23'
     code: 342540
     url: /works/342540/
+  - title: Kanojo no Amai Jiraishuu
+    author: jirou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/352215.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 352215
+    url: /works/352215/
+  - title: TABOO -Chuuhen-
+    author: nanahoshi-tento
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/386725.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 386725
+    url: /works/386725/
   - title: '[Sakuru Haruni Inazuma (Harumi Niina) Chuuken Bodyguard ga Nisemono Reijou
       no Uso to Shintai wo Abaku made. | Until the Obedient Bodyguard Exposes the Body
       and the Lie of the Fake Lady [English] [Painful Nightz] [Digital]'
@@ -103,6 +117,13 @@ works:
     date: '2026-09-26'
     code: 584135
     url: /works/584135/
+  - title: TABOO -Kanzenhan-｜TABOO -Complete Version-
+    author: nanahoshi-tento
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/589628.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 589628
+    url: /works/589628/
   - title: Haha to iu Kaibutsu ~M Otoko Aka-chan toshite Sodate rareta Boku wa Yasashii
       Mama ni Dekiai sareru~ | Mother, the Monster ~I was raised as a masochistic baby
       and am doted on by my kind mother~
@@ -203,7 +224,7 @@ works:
       Ore | I Used Hypnosis to Create a School Harem That I Can Fuck as Much as I Want
     author: inagita
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685874.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-10-05'
     code: 685874
     url: /works/685874/

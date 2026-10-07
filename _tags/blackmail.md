@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "blackmail"
-work_count: 141
+work_count: 142
 works:
   - title: Birthday
     author: hashiba-yachi
@@ -432,6 +432,14 @@ works:
     date: '2026-04-27'
     code: 618562
     url: /works/618562/
+  - title: Ore no Jimi Kanojo wa Natsuyasumi dake Aitsu Senyou no OnaPet | My Plain
+      Girlfriend Is That Guy's Personal Fucktoy For The Summer Break
+    author: omusubi-korori
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/621733.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 621733
+    url: /works/621733/
   - title: Kareshi Mochi no Mei wa Shinjiteta Oji-san ni Okasareru | My Niece, Who had
       a Boyfriend, Was Raped by Her Uncle, Whom She Trusted
     author: ichinomiya-yuu

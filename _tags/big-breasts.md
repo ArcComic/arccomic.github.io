@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big breasts"
-work_count: 1075
+work_count: 1084
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -353,6 +353,13 @@ works:
     date: '2026-04-17'
     code: 349247
     url: /works/349247/
+  - title: Kanojo no Amai Jiraishuu
+    author: jirou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/352215.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 352215
+    url: /works/352215/
   - title: Amako Ticket Extra ~Onikuya-san Hen~ | Amako Ticket Extra ~Butcher Edition~
     author: rokuichi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/355398.jpg
@@ -466,6 +473,13 @@ works:
     date: '2026-09-18'
     code: 384255
     url: /works/384255/
+  - title: TABOO -Chuuhen-
+    author: nanahoshi-tento
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/386725.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 386725
+    url: /works/386725/
   - title: Toshishita Chin Kui Obasan
     author: maccha-neji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/387637.jpg
@@ -931,7 +945,7 @@ works:
       1'
     author: icelatte
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/475840.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-05'
     code: 475840
     url: /works/475840/
@@ -1203,7 +1217,7 @@ works:
       Cum Behind My Husband’s Back 1-3
     author: icelatte
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/509584.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-10-05'
     code: 509584
     url: /works/509584/
@@ -1302,7 +1316,7 @@ works:
   - title: Onanie Supporter Hanako |  Handjob Helper Hanako
     author: inu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/517766.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-10-05'
     code: 517766
     url: /works/517766/
@@ -2305,6 +2319,13 @@ works:
     date: '2026-09-22'
     code: 589318
     url: /works/589318/
+  - title: TABOO -Kanzenhan-｜TABOO -Complete Version-
+    author: nanahoshi-tento
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/589628.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 589628
+    url: /works/589628/
   - title: Pashiri no Shita Teku, Yabaitte... ~ Ebi Sori Iki Suru Namaiki Gyaru | Bullied
       Boy's Tongue Revenge Vol.1-4
     author: takayamanon
@@ -2916,6 +2937,14 @@ works:
     date: '2026-09-17'
     code: 621436
     url: /works/621436/
+  - title: Ore no Jimi Kanojo wa Natsuyasumi dake Aitsu Senyou no OnaPet | My Plain
+      Girlfriend Is That Guy's Personal Fucktoy For The Summer Break
+    author: omusubi-korori
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/621733.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 621733
+    url: /works/621733/
   - title: Houkago Dairizuma 2 Boku no Kanojo wa Chichioya ni Tanetsuke Sarete Iru
     author: richard-bahman
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/622021.jpg
@@ -2985,7 +3014,7 @@ works:
   - title: Hitozuma-tachi no Kiken na Jouji | The Housewife's Dangerous Situation
     author: homare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/627722.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-10-05'
     code: 627722
     url: /works/627722/
@@ -3151,7 +3180,7 @@ works:
   - title: Haha to Yaru to Iukoto
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/633840.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-05'
     code: 633840
     url: /works/633840/
@@ -3543,6 +3572,13 @@ works:
     date: '2026-09-29'
     code: 641928
     url: /works/641928/
+  - title: Boku wa Tsuma ga Netorare Nando mo Ikasareru Sugata o Mitsuzuketa. 4
+    author: sanku
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/641950.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 641950
+    url: /works/641950/
   - title: Kachiki na Single Mother to Dosukebe Netsuai Seikou | Dirty and Passionate
       Sex with a Single Mother 1
     author: botamochi
@@ -4564,6 +4600,13 @@ works:
     date: '2026-09-24'
     code: 654240
     url: /works/654240/
+  - title: Until I Take Everything From You 3-C
+    author: takotokite
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654245.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 654245
+    url: /works/654245/
   - title: Until I Take Everything From You 4
     author: takotokite
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654249.jpg
@@ -4578,6 +4621,13 @@ works:
     date: '2026-07-07'
     code: 654253
     url: /works/654253/
+  - title: Until I Take Everything From You 5
+    author: takotokite
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654260.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 654260
+    url: /works/654260/
   - title: Himaten NTR 19P
     author: terasu-mc
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654484.jpg
@@ -4959,6 +5009,13 @@ works:
     date: '2026-07-05'
     code: 661139
     url: /works/661139/
+  - title: Dandan Kuse ni Naru - I like molester? .........No
+    author: panda
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/661142.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 661142
+    url: /works/661142/
   - title: miren -miren-
     author: sabakan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/661148.jpg
@@ -5777,6 +5834,14 @@ works:
     date: '2026-09-29'
     code: 670438
     url: /works/670438/
+  - title: Kareshi Mochi Kyonyuu Beit Gal to Mechakucha Sex shita Hanashi | I Had Wild
+      Sex with a Taken Busty Gyaru Part-Timer!
+    author: bs3
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/671129.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 671129
+    url: /works/671129/
   - title: My Secret With Kyouko Sensei 1 - Kyouko Sensei to Boku no Himitsu
     author: maimu-maimu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/671460.jpg
@@ -7811,7 +7876,7 @@ works:
       iin Miyamori Chizuru-hen
     author: tsusauto
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685661.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-05'
     code: 685661
     url: /works/685661/
@@ -7887,35 +7952,35 @@ works:
       Ore | I Used Hypnosis to Create a School Harem That I Can Fuck as Much as I Want
     author: inagita
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685874.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-10-05'
     code: 685874
     url: /works/685874/
   - title: Sensei Sakusei Party | Sensei's Semen Extraction Party
     author: cigar-cat
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685882.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-10-05'
     code: 685882
     url: /works/685882/
   - title: Oshi_S3
     author: gsus
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685886.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-10-05'
     code: 685886
     url: /works/685886/
   - title: Bakunyuu Shimai ni Oshiekomu | Training the Busty Sisters
     author: arakige-tanji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685928.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-05'
     code: 685928
     url: /works/685928/
   - title: Urawa Hanako no Shiawase na Seikatsu | Hanako Urawa's Happy Sex Life
     author: kawaraya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685951.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-10-05'
     code: 685951
     url: /works/685951/
@@ -7923,14 +7988,14 @@ works:
       Friend Turned into a Gal - A Near-Limit Asphyxiation Underwater Sex!
     author: gyokuro-sakana
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685952.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-10-05'
     code: 685952
     url: /works/685952/
   - title: LATEST
     author: ratatatat74-mr-skull
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685961.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-05'
     code: 685961
     url: /works/685961/
@@ -7938,21 +8003,21 @@ works:
       Man
     author: ma-kurou-madou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686029.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-05'
     code: 686029
     url: /works/686029/
   - title: lots of sex in the future! Bulma and Gohan manga colors
     author: yamamoto
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686031.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-05'
     code: 686031
     url: /works/686031/
   - title: Kaa-san to Omoide no Gojitsudan 4 English
     author: fuchina-noharu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686044.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-05'
     code: 686044
     url: /works/686044/

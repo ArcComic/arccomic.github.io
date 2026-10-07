@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "multimouth blowjob"
-work_count: 29
+work_count: 30
 works:
   - title: Kanojo wa Boku no Taieki de Ugoiteiru Phase. 05 [English] =NSS=
     author: nagareboshi
@@ -138,6 +138,13 @@ works:
     date: '2026-05-20'
     code: 651197
     url: /works/651197/
+  - title: Dandan Kuse ni Naru - I like molester? .........No
+    author: panda
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/661142.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 661142
+    url: /works/661142/
   - title: It was supposed to be a story about two people who loved each other but her
       best friend stole his virginity
     author: meisuke
@@ -218,7 +225,7 @@ works:
   - title: Bakunyuu Shimai ni Oshiekomu | Training the Busty Sisters
     author: arakige-tanji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685928.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-05'
     code: 685928
     url: /works/685928/

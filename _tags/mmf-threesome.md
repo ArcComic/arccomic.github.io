@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "mmf threesome"
-work_count: 62
+work_count: 64
 works:
   - title: Hitozuma Hyakka
     author: hase-tsubura
@@ -54,6 +54,13 @@ works:
     date: '2026-08-25'
     code: 512473
     url: /works/512473/
+  - title: Enkkou-chan no Papakatsu Nikki 2 ~Araki Nonoka no Baai~
+    author: takano-tomohiro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/524736.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 524736
+    url: /works/524736/
   - title: A Married Woman Tricked Into Filming ~ Former Gravure Idol Wife Gets NTR'd
       By The President's Son For Her Husbands Sake ~
     author: izuminoaru
@@ -242,6 +249,13 @@ works:
     date: '2026-09-28'
     code: 660465
     url: /works/660465/
+  - title: Dandan Kuse ni Naru - I like molester? .........No
+    author: panda
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/661142.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 661142
+    url: /works/661142/
   - title: Akogare no Ano Hito wa | The Person I Admire
     author: minami-chisato-arisawa-tsukasa
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662657.jpg

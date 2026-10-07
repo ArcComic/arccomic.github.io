@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "ponytail"
-work_count: 164
+work_count: 165
 works:
   - title: Hikki Mother Fucker
     author: otochichi
@@ -173,7 +173,7 @@ works:
   - title: Onanie Supporter Hanako |  Handjob Helper Hanako
     author: inu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/517766.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-10-05'
     code: 517766
     url: /works/517766/
@@ -772,6 +772,13 @@ works:
     date: '2026-09-05'
     code: 660471
     url: /works/660471/
+  - title: Dandan Kuse ni Naru - I like molester? .........No
+    author: panda
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/661142.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 661142
+    url: /works/661142/
   - title: Meshibe no Sakihokoru Shima de - On the island where pistils are in full
       bloom
     author: saigado-ishoku-dougen
@@ -1187,14 +1194,14 @@ works:
       iin Miyamori Chizuru-hen
     author: tsusauto
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685661.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-05'
     code: 685661
     url: /works/685661/
   - title: Bakunyuu Shimai ni Oshiekomu | Training the Busty Sisters
     author: arakige-tanji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685928.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-05'
     code: 685928
     url: /works/685928/
@@ -1202,14 +1209,14 @@ works:
       Friend Turned into a Gal - A Near-Limit Asphyxiation Underwater Sex!
     author: gyokuro-sakana
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685952.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-10-05'
     code: 685952
     url: /works/685952/
   - title: LATEST
     author: ratatatat74-mr-skull
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685961.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-05'
     code: 685961
     url: /works/685961/

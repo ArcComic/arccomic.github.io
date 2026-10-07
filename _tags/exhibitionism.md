@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "exhibitionism"
-work_count: 76
+work_count: 79
 works:
   - title: Watashi-tachi no Seikoui Tokubetsu Jisshuu -Zengi Hen-
     author: guglielmo
@@ -17,6 +17,13 @@ works:
     date: '2026-09-15'
     code: 339953
     url: /works/339953/
+  - title: TABOO -Chuuhen-
+    author: nanahoshi-tento
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/386725.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 386725
+    url: /works/386725/
   - title: Giragira no Beach
     author: shimantogawa
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/397251.jpg
@@ -40,6 +47,13 @@ works:
     date: '2026-03-05'
     code: 443909
     url: /works/443909/
+  - title: Tanetsuke Jiyuu Gakuen 2
+    author: panda
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/451660.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 451660
+    url: /works/451660/
   - title: Kagura Hypno
     author: yasuhiro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/457733.jpg
@@ -367,6 +381,13 @@ works:
     date: '2026-05-27'
     code: 652801
     url: /works/652801/
+  - title: Until I Take Everything From You 5
+    author: takotokite
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654260.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 654260
+    url: /works/654260/
   - title: Toshoshitsu no Kedamono-tachi | Library Beasts
     author: ohno-kanae
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654638.jpg

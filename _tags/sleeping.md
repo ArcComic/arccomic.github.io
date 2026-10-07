@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sleeping"
-work_count: 54
+work_count: 58
 works:
   - title: Netemo Sametemo | Be it Sleeping or Awake
     author: takasugi-kou
@@ -47,6 +47,13 @@ works:
     date: '2026-09-06'
     code: 383468
     url: /works/383468/
+  - title: TABOO -Chuuhen-
+    author: nanahoshi-tento
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/386725.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 386725
+    url: /works/386725/
   - title: Imouto no Nukumori | A Little Sister's warmth
     author: kinomoto-anzu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/407959.jpg
@@ -70,6 +77,13 @@ works:
     date: '2026-04-27'
     code: 416883
     url: /works/416883/
+  - title: Tanetsuke Jiyuu Gakuen 2
+    author: panda
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/451660.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 451660
+    url: /works/451660/
   - title: Provoking Men 1-8
     author: pororivista
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/458903.jpg
@@ -120,6 +134,13 @@ works:
     date: '2026-04-23'
     code: 509049
     url: /works/509049/
+  - title: Enkkou-chan no Papakatsu Nikki 2 ~Araki Nonoka no Baai~
+    author: takano-tomohiro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/524736.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 524736
+    url: /works/524736/
   - title: Shuuden Deisui Anken
     author: uds
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/525085.jpg
@@ -193,6 +214,13 @@ works:
     date: '2026-04-27'
     code: 587827
     url: /works/587827/
+  - title: TABOO -Kanzenhan-｜TABOO -Complete Version-
+    author: nanahoshi-tento
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/589628.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 589628
+    url: /works/589628/
   - title: Kaya-nee and the Old Man Memories
     author: kon-kit
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/598144.jpg

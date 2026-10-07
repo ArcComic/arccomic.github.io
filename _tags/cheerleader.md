@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "cheerleader"
-work_count: 6
+work_count: 7
 works:
   - title: CHOCO x LOVE
     author: highlow
@@ -18,6 +18,13 @@ works:
     date: '2026-07-17'
     code: 632056
     url: /works/632056/
+  - title: Dandan Kuse ni Naru - I like molester? .........No
+    author: panda
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/661142.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 661142
+    url: /works/661142/
   - title: Welcome to the Weak Masochist Volleyball Club
     author: hagakure-kurage
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/664758.jpg

@@ -69,7 +69,7 @@ works:
     url: /works/631630/
   - title: Haha to Yaru to Iukoto
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/633840.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-05'
     code: 633840
     url: /works/633840/

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "crying"
-work_count: 32
+work_count: 33
 works:
   - title: Netorareru.~ Tsuma ga Ochi Yuku Hen'ai Kairaku no Hate ni...1-5 | NETORARERU,
       A Wife's Descent Into Sinful Pleasures 1-5
@@ -55,6 +55,13 @@ works:
     date: '2026-10-03'
     code: 637829
     url: /works/637829/
+  - title: Boku wa Tsuma ga Netorare Nando mo Ikasareru Sugata o Mitsuzuketa. 4
+    author: sanku
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/641950.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 641950
+    url: /works/641950/
   - title: The Story of a Girl—Cherished by Her Childhood Sweetheart—Who Loses Her Virginity
       After Being Violated by a Murderer
     author: unknown

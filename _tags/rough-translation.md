@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "rough translation"
-work_count: 636
+work_count: 646
 works:
   - title: Boku no Shiranai Kimi no Kao
     author: utsutsu-minoru
@@ -60,6 +60,13 @@ works:
     date: '2026-09-18'
     code: 450112
     url: /works/450112/
+  - title: Tanetsuke Jiyuu Gakuen 2
+    author: panda
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/451660.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 451660
+    url: /works/451660/
   - title: Haha ⇒ umi ⇒ Nanpa ⇒ Rankou ⇒ Nikuana. Haha, Ochiru.
     author: rin
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/455844.jpg
@@ -205,6 +212,13 @@ works:
     date: '2026-09-12'
     code: 524436
     url: /works/524436/
+  - title: Enkkou-chan no Papakatsu Nikki 2 ~Araki Nonoka no Baai~
+    author: takano-tomohiro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/524736.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 524736
+    url: /works/524736/
   - title: Shuuden Deisui Anken
     author: uds
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/525085.jpg
@@ -1263,6 +1277,13 @@ works:
     date: '2026-10-02'
     code: 641858
     url: /works/641858/
+  - title: Boku wa Tsuma ga Netorare Nando mo Ikasareru Sugata o Mitsuzuketa. 4
+    author: sanku
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/641950.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 641950
+    url: /works/641950/
   - title: Koitsu majide choro katta 〜 kinjo no shingurumaza-hen 〜
     author: doron
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642018.jpg
@@ -1285,6 +1306,13 @@ works:
     date: '2026-09-25'
     code: 642393
     url: /works/642393/
+  - title: Netorarensa 2 Boku no  Femme Fatale
+    author: bad-end-dreamer
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642394.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 642394
+    url: /works/642394/
   - title: Akogare no Hito wa Mou Owari!
     author: orange-mimosa
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642584.jpg
@@ -1393,7 +1421,7 @@ works:
   - title: Varipier
     author: piero
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/643729.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-10-05'
     code: 643729
     url: /works/643729/
@@ -1870,6 +1898,13 @@ works:
     date: '2026-09-26'
     code: 654244
     url: /works/654244/
+  - title: Until I Take Everything From You 3-C
+    author: takotokite
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654245.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 654245
+    url: /works/654245/
   - title: Until I Take Everything From You 4
     author: takotokite
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654249.jpg
@@ -1884,6 +1919,13 @@ works:
     date: '2026-07-07'
     code: 654253
     url: /works/654253/
+  - title: Until I Take Everything From You 5
+    author: takotokite
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654260.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 654260
+    url: /works/654260/
   - title: Provoking Men Part 1
     author: pororivista
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654373.jpg
@@ -1898,6 +1940,13 @@ works:
     date: '2026-08-22'
     code: 654484
     url: /works/654484/
+  - title: Take Everything From You
+    author: takotokite
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654587.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 654587
+    url: /works/654587/
   - title: Kyonyuu Geneki JK to Chigyuu Danshi ga Sex Jisshuu de Namahame Tanetsuke
       Koubishi Makuru H
     author: yanachi
@@ -2170,6 +2219,13 @@ works:
     date: '2026-09-05'
     code: 660471
     url: /works/660471/
+  - title: Dandan Kuse ni Naru - I like molester? .........No
+    author: panda
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/661142.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 661142
+    url: /works/661142/
   - title: miren -miren-
     author: sabakan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/661148.jpg
@@ -2552,6 +2608,14 @@ works:
     date: '2026-07-13'
     code: 663681
     url: /works/663681/
+  - title: Boku Wa Tsuma Ga Netorare Nando Mo Ikasareru Sugata O Mitsuzuketa- I Kept
+      Watching While a Man Made My Wife Cum Over and Over
+    author: sanku
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/663860.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 663860
+    url: /works/663860/
   - title: Inuzuka-san and her Unusual Hobbies
     author: carpsukidayo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/664022.jpg
@@ -2785,6 +2849,14 @@ works:
     date: '2026-08-21'
     code: 672241
     url: /works/672241/
+  - title: Boku wa Tsuma ga Netorare Nando mo Ikasareru Sugata o Mitsuzuketa. 2 | I
+      Kept Watching While A Man Made My Wife Cum Over And Over 2
+    author: sanku
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/672262.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 672262
+    url: /works/672262/
   - title: Mama no, Sono Eroi Karada ga Ikenainda 1-2
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/672310.jpg
@@ -4601,7 +4673,7 @@ works:
       iin Miyamori Chizuru-hen
     author: tsusauto
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685661.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-05'
     code: 685661
     url: /works/685661/
@@ -4637,14 +4709,14 @@ works:
   - title: Sensei Sakusei Party | Sensei's Semen Extraction Party
     author: cigar-cat
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685882.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-10-05'
     code: 685882
     url: /works/685882/
   - title: LATEST
     author: ratatatat74-mr-skull
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685961.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-05'
     code: 685961
     url: /works/685961/
@@ -4652,7 +4724,7 @@ works:
       Man
     author: ma-kurou-madou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686029.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-05'
     code: 686029
     url: /works/686029/

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "snuff"
-work_count: 13
+work_count: 14
 works:
   - title: My Dress Up Corpse
     author: mr-kurz
@@ -31,6 +31,13 @@ works:
     date: '2026-03-07'
     code: 446018
     url: /works/446018/
+  - title: TABOO -Kanzenhan-｜TABOO -Complete Version-
+    author: nanahoshi-tento
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/589628.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 589628
+    url: /works/589628/
   - title: Celestial Doll 1-5
     author: mr-kurz
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/595353.jpg

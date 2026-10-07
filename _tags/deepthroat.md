@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "deepthroat"
-work_count: 77
+work_count: 78
 works:
   - title: Toshishita Chin Kui Obasan
     author: maccha-neji
@@ -351,6 +351,13 @@ works:
     date: '2026-07-05'
     code: 661139
     url: /works/661139/
+  - title: Dandan Kuse ni Naru - I like molester? .........No
+    author: panda
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/661142.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 661142
+    url: /works/661142/
   - title: Jinin ’Futsuu’ Dekachichi Inkya J◯ no Maso Mesu ga Nagga〜i Chinpo de Shuuryou
       Made♡
     author: amrita
@@ -580,7 +587,7 @@ works:
       Friend Turned into a Gal - A Near-Limit Asphyxiation Underwater Sex!
     author: gyokuro-sakana
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685952.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-10-05'
     code: 685952
     url: /works/685952/
@@ -588,7 +595,7 @@ works:
       Man
     author: ma-kurou-madou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686029.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-05'
     code: 686029
     url: /works/686029/
