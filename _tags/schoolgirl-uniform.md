@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "schoolgirl uniform"
-work_count: 330
+work_count: 333
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -128,7 +128,7 @@ works:
   - title: Kanojo no Amai Jiraishuu
     author: jirou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/352215.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-10-07'
     code: 352215
     url: /works/352215/
@@ -160,6 +160,13 @@ works:
     date: '2026-09-18'
     code: 384255
     url: /works/384255/
+  - title: Seigi no Mikata o Otosu Houhou | How To Subvert an Ally of Justice
+    author: fuka
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/384737.jpg
+    rating: 4.1
+    date: '2026-10-07'
+    code: 384737
+    url: /works/384737/
   - title: Netoriai -Watashi no Hou ga, Kimi ga Suki- | NTR Love -I'm The One Who Loves
       You-
     author: kuguri-oimo
@@ -191,6 +198,13 @@ works:
     date: '2026-09-25'
     code: 398514
     url: /works/398514/
+  - title: Joshikousei Sennyuu Repo ~Hanzaisha ga Onnanoko ni Hyoui shite mita~
+    author: touchuu-kasou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/409385.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 409385
+    url: /works/409385/
   - title: sequence irekaeru futari no karada
     author: iwashita
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/414040.jpg
@@ -275,7 +289,7 @@ works:
   - title: Tanetsuke Jiyuu Gakuen 2
     author: panda
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/451660.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-10-07'
     code: 451660
     url: /works/451660/
@@ -389,6 +403,13 @@ works:
     date: '2026-09-29'
     code: 513981
     url: /works/513981/
+  - title: Wakeari JK Iede shita Gal o Kattemita Kekka! 1+2 Full Color Gappon-ban
+    author: omizu-chihiro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/514517.jpg
+    rating: 4.6
+    date: '2026-10-07'
+    code: 514517
+    url: /works/514517/
   - title: My part-time coworker ran away from home and came to work here, but she was
       too sexy...
     author: yamakonbu
@@ -698,7 +719,7 @@ works:
   - title: TABOO -Kanzenhan-｜TABOO -Complete Version-
     author: nanahoshi-tento
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/589628.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-10-07'
     code: 589628
     url: /works/589628/
@@ -1425,7 +1446,7 @@ works:
   - title: Take Everything From You
     author: takotokite
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654587.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-10-07'
     code: 654587
     url: /works/654587/
@@ -1514,7 +1535,7 @@ works:
   - title: Dandan Kuse ni Naru - I like molester? .........No
     author: panda
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/661142.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-07'
     code: 661142
     url: /works/661142/
@@ -1758,7 +1779,7 @@ works:
       Sex with a Taken Busty Gyaru Part-Timer!
     author: bs3
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/671129.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-10-07'
     code: 671129
     url: /works/671129/

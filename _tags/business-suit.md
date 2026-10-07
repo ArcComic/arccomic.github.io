@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "business suit"
-work_count: 83
+work_count: 84
 works:
   - title: Kaisha de Iroiro | Gettin' Busy at the Office
     author: hara-shigeyuki
@@ -568,6 +568,13 @@ works:
     date: '2026-09-17'
     code: 681986
     url: /works/681986/
+  - title: Asuna Change
+    author: ty
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682407.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 682407
+    url: /works/682407/
   - title: CosBare -Takabisha na Kyonyuu Joushi no "Goshujin-sama" ni Narimashita!?-
     author: sazanami-wasabi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682600.jpg

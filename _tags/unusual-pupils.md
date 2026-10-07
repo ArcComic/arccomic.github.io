@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "unusual pupils"
-work_count: 79
+work_count: 80
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -52,6 +52,13 @@ works:
     date: '2026-04-27'
     code: 357965
     url: /works/357965/
+  - title: Seigi no Mikata o Otosu Houhou | How To Subvert an Ally of Justice
+    author: fuka
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/384737.jpg
+    rating: 4.1
+    date: '2026-10-07'
+    code: 384737
+    url: /works/384737/
   - title: Tonari no Ayane-san Desaki Battari Hen
     author: herio
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/432356.jpg
@@ -426,7 +433,7 @@ works:
   - title: Dandan Kuse ni Naru - I like molester? .........No
     author: panda
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/661142.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-07'
     code: 661142
     url: /works/661142/

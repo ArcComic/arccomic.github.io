@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "blowjob"
-work_count: 624
+work_count: 630
 works:
   - title: Office Love Scramble Ch. 1
     author: tohzai
@@ -295,7 +295,7 @@ works:
   - title: TABOO -Chuuhen-
     author: nanahoshi-tento
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/386725.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-10-07'
     code: 386725
     url: /works/386725/
@@ -817,6 +817,13 @@ works:
     date: '2026-08-18'
     code: 511662
     url: /works/511662/
+  - title: Wakeari JK Iede shita Gal o Kattemita Kekka! 1+2 Full Color Gappon-ban
+    author: omizu-chihiro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/514517.jpg
+    rating: 4.6
+    date: '2026-10-07'
+    code: 514517
+    url: /works/514517/
   - title: My part-time coworker ran away from home and came to work here, but she was
       too sexy...
     author: yamakonbu
@@ -1002,6 +1009,13 @@ works:
     date: '2026-07-09'
     code: 537476
     url: /works/537476/
+  - title: Adoration of Ones Elders
+    author: nomu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/537946.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 537946
+    url: /works/537946/
   - title: Ane no Tomodachi to SeFri ni Natta | My Big Sister's Friends And I Became
       Sex Friends
     author: rinrikoko
@@ -1389,7 +1403,7 @@ works:
   - title: TABOO -Kanzenhan-｜TABOO -Complete Version-
     author: nanahoshi-tento
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/589628.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-10-07'
     code: 589628
     url: /works/589628/
@@ -2127,6 +2141,13 @@ works:
     date: '2026-09-28'
     code: 636389
     url: /works/636389/
+  - title: Jyuujyuu na Sukoya-san | Nurse Sukoya's Thorough Care
+    author: yumobi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/636417.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 636417
+    url: /works/636417/
   - title: Curiosity and the Cost of Innocence
     author: hoshi-to-lucky
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/637110.jpg
@@ -2832,6 +2853,14 @@ works:
     date: '2026-05-21'
     code: 651499
     url: /works/651499/
+  - title: Boku ga TS Saserarete, Shiawasena Mesu Neko Toshite Kawareru Hanashi | The
+      Story of How I Was Turned into a TS Woman and Kept as a Happy Female Cat
+    author: hoshino-iro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651820.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 651820
+    url: /works/651820/
   - title: Kawaii Hito | Cute People
     author: shibasaki-syouzi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651854.jpg
@@ -2939,14 +2968,14 @@ works:
   - title: Until I Take Everything From You 3-C
     author: takotokite
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654245.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-10-07'
     code: 654245
     url: /works/654245/
   - title: Until I Take Everything From You 5
     author: takotokite
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654260.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-07'
     code: 654260
     url: /works/654260/
@@ -3094,7 +3123,7 @@ works:
   - title: Dandan Kuse ni Naru - I like molester? .........No
     author: panda
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/661142.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-07'
     code: 661142
     url: /works/661142/
@@ -3505,7 +3534,7 @@ works:
       Sex with a Taken Busty Gyaru Part-Timer!
     author: bs3
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/671129.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-10-07'
     code: 671129
     url: /works/671129/
@@ -4638,6 +4667,20 @@ works:
     date: '2026-10-05'
     code: 686038
     url: /works/686038/
+  - title: Happy Birthday Nishikata!
+    author: lander0808
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686092.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 686092
+    url: /works/686092/
+  - title: Kono Koi ni Kizuite Kureta | You Noticed My Love for You
+    author: danimaru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686107.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 686107
+    url: /works/686107/
   - title: Jokyoushi - Hot For Teachers | Female Teachers
     author: drill-murata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/81375.jpg

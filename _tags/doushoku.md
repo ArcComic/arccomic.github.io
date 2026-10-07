@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "doushoku"
-work_count: 4
+work_count: 5
 works:
   - title: Netoriai -Watashi no Hou ga, Kimi ga Suki- | NTR Love -I'm The One Who Loves
       You-
@@ -11,6 +11,13 @@ works:
     date: '2026-09-12'
     code: 387648
     url: /works/387648/
+  - title: Wakeari JK Iede shita Gal o Kattemita Kekka! 1+2 Full Color Gappon-ban
+    author: omizu-chihiro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/514517.jpg
+    rating: 4.6
+    date: '2026-10-07'
+    code: 514517
+    url: /works/514517/
   - title: Namaiki Papa Katsu Shoujo ni Seisai SEX
     author: ichinomiya-yuu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/614675.jpg

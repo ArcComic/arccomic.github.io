@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "gender morph"
-work_count: 19
+work_count: 26
 works:
+  - title: Seigi no Mikata o Otosu Houhou | How To Subvert an Ally of Justice
+    author: fuka
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/384737.jpg
+    rating: 4.1
+    date: '2026-10-07'
+    code: 384737
+    url: /works/384737/
   - title: Gekkoutou no Yume - Nyotaika Douwa ~Danshi Kinsei no Tou~
     author: mugen-no-sudadokei
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/387365.jpg
@@ -10,6 +17,13 @@ works:
     date: '2026-08-21'
     code: 387365
     url: /works/387365/
+  - title: Joshikousei Sennyuu Repo ~Hanzaisha ga Onnanoko ni Hyoui shite mita~
+    author: touchuu-kasou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/409385.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 409385
+    url: /works/409385/
   - title: sequence irekaeru futari no karada
     author: iwashita
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/414040.jpg
@@ -38,6 +52,21 @@ works:
     date: '2026-05-03'
     code: 428415
     url: /works/428415/
+  - title: Ubawareta Tachiba ~Ou kara Ouhi e to Kaerareta Ore~ | My Stolen Place ~Transformed
+      From King to Queen~
+    author: betty
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/441332.jpg
+    rating: 4.5
+    date: '2026-10-07'
+    code: 441332
+    url: /works/441332/
+  - title: I Turned Into a Sexual Relief Maid
+    author: kanmuri
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/497994.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 497994
+    url: /works/497994/
   - title: Mimikyu Myth 2
     author: meowwithme
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/500102.jpg
@@ -81,6 +110,14 @@ works:
     date: '2026-05-10'
     code: 649105
     url: /works/649105/
+  - title: Boku ga TS Saserarete, Shiawasena Mesu Neko Toshite Kawareru Hanashi | The
+      Story of How I Was Turned into a TS Woman and Kept as a Happy Female Cat
+    author: hoshino-iro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651820.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 651820
+    url: /works/651820/
   - title: How the Gloomy Me Took Charge of my Own Life by Becoming a Hostess
     author: shikabanekamo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/656419.jpg
@@ -88,6 +125,13 @@ works:
     date: '2026-07-08'
     code: 656419
     url: /works/656419/
+  - title: 'Girlfriend Revenge Special: The Heel'
+    author: meowwithme
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/661540.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 661540
+    url: /works/661540/
   - title: When All Men Become Women
     author: shikabanekamo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/664193.jpg
@@ -124,6 +168,13 @@ works:
     date: '2026-09-10'
     code: 679992
     url: /works/679992/
+  - title: Asuna Change
+    author: ty
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682407.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 682407
+    url: /works/682407/
   - title: Shinjiru Mono wa Sukuwareru? Ore wa Muchimuchi Bijo Yuurei | Will The Faithful
       be Saved? A Plump, Beautiful Female Ghost is a Earthbound Spirit
     author: sakura-hanatsumi

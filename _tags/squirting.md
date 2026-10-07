@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "squirting"
-work_count: 131
+work_count: 132
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -685,7 +685,7 @@ works:
   - title: Dandan Kuse ni Naru - I like molester? .........No
     author: panda
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/661142.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-07'
     code: 661142
     url: /works/661142/
@@ -985,4 +985,11 @@ works:
     date: '2026-10-05'
     code: 685928
     url: /works/685928/
+  - title: Kono Koi ni Kizuite Kureta | You Noticed My Love for You
+    author: danimaru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686107.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 686107
+    url: /works/686107/
 ---

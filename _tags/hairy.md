@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "hairy"
-work_count: 280
+work_count: 281
 works:
   - title: Adoration
     author: kishizuka-kenji
@@ -121,7 +121,7 @@ works:
   - title: Kanojo no Amai Jiraishuu
     author: jirou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/352215.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-10-07'
     code: 352215
     url: /works/352215/
@@ -184,7 +184,7 @@ works:
   - title: TABOO -Chuuhen-
     author: nanahoshi-tento
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/386725.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-10-07'
     code: 386725
     url: /works/386725/
@@ -292,7 +292,7 @@ works:
   - title: Tanetsuke Jiyuu Gakuen 2
     author: panda
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/451660.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-10-07'
     code: 451660
     url: /works/451660/
@@ -793,7 +793,7 @@ works:
   - title: TABOO -Kanzenhan-｜TABOO -Complete Version-
     author: nanahoshi-tento
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/589628.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-10-07'
     code: 589628
     url: /works/589628/
@@ -967,7 +967,7 @@ works:
       Girlfriend Is That Guy's Personal Fucktoy For The Summer Break
     author: omusubi-korori
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/621733.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-07'
     code: 621733
     url: /works/621733/
@@ -1557,7 +1557,7 @@ works:
       Watching While a Man Made My Wife Cum Over and Over
     author: sanku
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/663860.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-10-07'
     code: 663860
     url: /works/663860/
@@ -2061,4 +2061,11 @@ works:
     date: '2026-10-05'
     code: 685928
     url: /works/685928/
+  - title: Kono Koi ni Kizuite Kureta | You Noticed My Love for You
+    author: danimaru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686107.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 686107
+    url: /works/686107/
 ---

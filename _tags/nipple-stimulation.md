@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "nipple stimulation"
-work_count: 147
+work_count: 148
 works:
   - title: Hypnotic Domination ~ The Fall of Tennis Club Ace ~
     author: danchino
@@ -642,14 +642,14 @@ works:
   - title: Until I Take Everything From You 3-C
     author: takotokite
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654245.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-10-07'
     code: 654245
     url: /works/654245/
   - title: Until I Take Everything From You 5
     author: takotokite
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654260.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-07'
     code: 654260
     url: /works/654260/
@@ -1110,4 +1110,11 @@ works:
     date: '2026-10-05'
     code: 686029
     url: /works/686029/
+  - title: Kono Koi ni Kizuite Kureta | You Noticed My Love for You
+    author: danimaru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686107.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 686107
+    url: /works/686107/
 ---

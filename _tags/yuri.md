@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "yuri"
-work_count: 51
+work_count: 53
 works:
   - title: Gekkoutou no Yume - Nyotaika Douwa ~Danshi Kinsei no Tou~
     author: mugen-no-sudadokei
@@ -32,6 +32,13 @@ works:
     date: '2026-10-02'
     code: 472157
     url: /works/472157/
+  - title: NTRrare Onsen Ryokou ~Tsukari Tsukareru Shinkon Tsuma~
+    author: yuuma
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/491822.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 491822
+    url: /works/491822/
   - title: Bocchi de Shinda Ore ga Bishoujo Nurse ni Natta Hanashi | The Story of How
       I Died Alone and Became a Sexy Nurse
     author: testame
@@ -321,6 +328,13 @@ works:
     date: '2026-09-18'
     code: 682188
     url: /works/682188/
+  - title: Asuna Change
+    author: ty
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682407.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 682407
+    url: /works/682407/
   - title: Taishou Yotogi Roman - Kinyoubi no Hanayome CHAPTER 1-9
     author: sumino-yuuji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683067.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "full color"
-work_count: 250
+work_count: 254
 works:
   - title: Pai☆Panic ~Hasamareta Dekapai~
     author: inkey
@@ -463,6 +463,13 @@ works:
     date: '2026-09-10'
     code: 511803
     url: /works/511803/
+  - title: Wakeari JK Iede shita Gal o Kattemita Kekka! 1+2 Full Color Gappon-ban
+    author: omizu-chihiro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/514517.jpg
+    rating: 4.6
+    date: '2026-10-07'
+    code: 514517
+    url: /works/514517/
   - title: IKUu!! Zenkou Seito no Mae de Koukai Zecchou-saserareta JK no Matsuro 1 |
       Cumming in Front of the Entire Student Body 1
     author: ouma
@@ -1163,7 +1170,7 @@ works:
   - title: Until I Take Everything From You 3-C
     author: takotokite
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654245.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-10-07'
     code: 654245
     url: /works/654245/
@@ -1177,7 +1184,7 @@ works:
   - title: Until I Take Everything From You 5
     author: takotokite
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654260.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-07'
     code: 654260
     url: /works/654260/
@@ -1198,7 +1205,7 @@ works:
   - title: Take Everything From You
     author: takotokite
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654587.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-10-07'
     code: 654587
     url: /works/654587/
@@ -1288,6 +1295,13 @@ works:
     date: '2026-09-30'
     code: 660241
     url: /works/660241/
+  - title: 'Girlfriend Revenge Special: The Heel'
+    author: meowwithme
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/661540.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 661540
+    url: /works/661540/
   - title: Shinyuu Tatakitsubushi Kyousou Shiiku Seikatsu | A Life in Captivity The
       Competition to Break My Best Friend
     author: group
@@ -1344,7 +1358,7 @@ works:
       Watching While a Man Made My Wife Cum Over and Over
     author: sanku
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/663860.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-10-07'
     code: 663860
     url: /works/663860/
@@ -1434,7 +1448,7 @@ works:
       Kept Watching While A Man Made My Wife Cum Over And Over 2
     author: sanku
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/672262.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-10-07'
     code: 672262
     url: /works/672262/
@@ -1831,4 +1845,18 @@ works:
     date: '2026-10-05'
     code: 686031
     url: /works/686031/
+  - title: Azatokute Kawaii Jirai-kei Joshi ni Seishi mo Okane mo Chuuchuu Saremashita
+    author: kiduki-erika
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686081.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 686081
+    url: /works/686081/
+  - title: Happy Birthday Nishikata!
+    author: lander0808
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686092.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 686092
+    url: /works/686092/
 ---

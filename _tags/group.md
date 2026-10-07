@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "group"
-work_count: 241
+work_count: 243
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -232,7 +232,7 @@ works:
   - title: Enkkou-chan no Papakatsu Nikki 2 ~Araki Nonoka no Baai~
     author: takano-tomohiro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/524736.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-07'
     code: 524736
     url: /works/524736/
@@ -883,6 +883,14 @@ works:
     date: '2026-09-30'
     code: 651242
     url: /works/651242/
+  - title: Boku ga TS Saserarete, Shiawasena Mesu Neko Toshite Kawareru Hanashi | The
+      Story of How I Was Turned into a TS Woman and Kept as a Happy Female Cat
+    author: hoshino-iro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651820.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 651820
+    url: /works/651820/
   - title: Tooi Kimi ni, Boku wa Todokanai | I can't reach you, far away.
     author: futamine-kobito
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651967.jpg
@@ -958,7 +966,7 @@ works:
   - title: Dandan Kuse ni Naru - I like molester? .........No
     author: panda
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/661142.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-07'
     code: 661142
     url: /works/661142/
@@ -1767,4 +1775,11 @@ works:
     date: '2026-10-05'
     code: 686044
     url: /works/686044/
+  - title: Happy Birthday Nishikata!
+    author: lander0808
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686092.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 686092
+    url: /works/686092/
 ---

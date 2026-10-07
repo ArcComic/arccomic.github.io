@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "femdom"
-work_count: 167
+work_count: 168
 works:
   - title: Life with Married Women Just Like a Manga 2 - Ch. 1-5
     author: hidemaru
@@ -539,7 +539,7 @@ works:
   - title: Netorarensa 2 Boku no  Femme Fatale
     author: bad-end-dreamer
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642394.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-07'
     code: 642394
     url: /works/642394/
@@ -746,7 +746,7 @@ works:
   - title: Dandan Kuse ni Naru - I like molester? .........No
     author: panda
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/661142.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-07'
     code: 661142
     url: /works/661142/
@@ -1214,6 +1214,13 @@ works:
     date: '2026-10-05'
     code: 685961
     url: /works/685961/
+  - title: Kono Koi ni Kizuite Kureta | You Noticed My Love for You
+    author: danimaru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686107.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 686107
+    url: /works/686107/
   - title: Jokyoushi - Hot For Teachers | Female Teachers
     author: drill-murata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/81375.jpg

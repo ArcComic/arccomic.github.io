@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "scanmark"
-work_count: 224
+work_count: 227
 works:
   - title: NTR Anniversary + ) [Syukurin] Mitsuha ~Netorare~ (Kimi no Na wa.) [English]
       [Colorized] by Mikaku
@@ -327,7 +327,7 @@ works:
   - title: Boku wa Tsuma ga Netorare Nando mo Ikasareru Sugata o Mitsuzuketa. 4
     author: sanku
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/641950.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-07'
     code: 641950
     url: /works/641950/
@@ -356,7 +356,7 @@ works:
   - title: Netorarensa 2 Boku no  Femme Fatale
     author: bad-end-dreamer
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642394.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-07'
     code: 642394
     url: /works/642394/
@@ -509,7 +509,7 @@ works:
   - title: Until I Take Everything From You 3-C
     author: takotokite
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654245.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-10-07'
     code: 654245
     url: /works/654245/
@@ -530,7 +530,7 @@ works:
   - title: Until I Take Everything From You 5
     author: takotokite
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654260.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-07'
     code: 654260
     url: /works/654260/
@@ -544,7 +544,7 @@ works:
   - title: Take Everything From You
     author: takotokite
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654587.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-10-07'
     code: 654587
     url: /works/654587/
@@ -667,6 +667,13 @@ works:
     date: '2026-09-23'
     code: 656814
     url: /works/656814/
+  - title: Gibo Saori
+    author: don-shigeru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/657048.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 657048
+    url: /works/657048/
   - title: Ero Sugiru Imouto to Fukinshin na Ore
     author: hazuki-kaoru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/657207.jpg
@@ -723,6 +730,13 @@ works:
     date: '2026-09-13'
     code: 659199
     url: /works/659199/
+  - title: Days of slave sister rape
+    author: ichi2no35
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/659476.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 659476
+    url: /works/659476/
   - title: Shokushu Flower Shop no Onee-san
     author: dozamura
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/661796.jpg
@@ -1106,6 +1120,13 @@ works:
     date: '2026-09-16'
     code: 676597
     url: /works/676597/
+  - title: Ippai Yurashite - Bounce me a lot Ch.4
+    author: cuvie
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/676787.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 676787
+    url: /works/676787/
   - title: Sensei Senyou Himitsu no Kokkai
     author: hetaren
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/677234.jpg

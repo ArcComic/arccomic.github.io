@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "kemonomimi"
-work_count: 39
+work_count: 41
 works:
   - title: CHOCO x LOVE
     author: highlow
@@ -108,6 +108,21 @@ works:
     date: '2026-05-10'
     code: 649111
     url: /works/649111/
+  - title: Boku ga TS Saserarete, Shiawasena Mesu Neko Toshite Kawareru Hanashi | The
+      Story of How I Was Turned into a TS Woman and Kept as a Happy Female Cat
+    author: hoshino-iro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651820.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 651820
+    url: /works/651820/
+  - title: Days of slave sister rape
+    author: ichi2no35
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/659476.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 659476
+    url: /works/659476/
   - title: Choukyou Inroku Ni ~Kunoichi Hiiragi no Junan~
     author: carpsukidayo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/663482.jpg

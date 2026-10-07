@@ -20,7 +20,7 @@ works:
   - title: Until I Take Everything From You 3-C
     author: takotokite
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654245.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-10-07'
     code: 654245
     url: /works/654245/
@@ -34,14 +34,14 @@ works:
   - title: Until I Take Everything From You 5
     author: takotokite
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654260.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-07'
     code: 654260
     url: /works/654260/
   - title: Take Everything From You
     author: takotokite
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654587.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-10-07'
     code: 654587
     url: /works/654587/

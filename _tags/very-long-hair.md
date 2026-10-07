@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "very long hair"
-work_count: 57
+work_count: 59
 works:
+  - title: Joshikousei Sennyuu Repo ~Hanzaisha ga Onnanoko ni Hyoui shite mita~
+    author: touchuu-kasou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/409385.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 409385
+    url: /works/409385/
   - title: Koi no Susumekata | How to Advance Your Love
     author: danimaru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/425528.jpg
@@ -10,6 +17,14 @@ works:
     date: '2026-04-27'
     code: 425528
     url: /works/425528/
+  - title: Ubawareta Tachiba ~Ou kara Ouhi e to Kaerareta Ore~ | My Stolen Place ~Transformed
+      From King to Queen~
+    author: betty
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/441332.jpg
+    rating: 4.5
+    date: '2026-10-07'
+    code: 441332
+    url: /works/441332/
   - title: Mutsugaki Icha Love Book ~Sensei to Kakurenbo~ | MUTSUGAKI Lovey-Dovey Book
       ~Hide-and-seek with Sensei~
     author: shibame
@@ -121,7 +136,7 @@ works:
   - title: Boku wa Tsuma ga Netorare Nando mo Ikasareru Sugata o Mitsuzuketa. 4
     author: sanku
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/641950.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-07'
     code: 641950
     url: /works/641950/
@@ -204,7 +219,7 @@ works:
   - title: Dandan Kuse ni Naru - I like molester? .........No
     author: panda
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/661142.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-07'
     code: 661142
     url: /works/661142/

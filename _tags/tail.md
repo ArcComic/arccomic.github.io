@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "tail"
-work_count: 21
+work_count: 22
 works:
   - title: CHOCO x LOVE
     author: highlow
@@ -40,6 +40,14 @@ works:
     date: '2026-05-20'
     code: 651343
     url: /works/651343/
+  - title: Boku ga TS Saserarete, Shiawasena Mesu Neko Toshite Kawareru Hanashi | The
+      Story of How I Was Turned into a TS Woman and Kept as a Happy Female Cat
+    author: hoshino-iro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651820.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 651820
+    url: /works/651820/
   - title: Choukyou Inroku Ni ~Kunoichi Hiiragi no Junan~
     author: carpsukidayo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/663482.jpg

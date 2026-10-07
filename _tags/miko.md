@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "miko"
-work_count: 9
+work_count: 10
 works:
   - title: Marebito Kitari Te
     author: yoshika
@@ -67,4 +67,12 @@ works:
     date: '2026-09-26'
     code: 684127
     url: /works/684127/
+  - title: Kankaku Shadan no Kaii ni Okasareru Miko | A shrine maiden possessed by a
+      monster of sensory deprivation
+    author: hyoui-no-jikan
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686100.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 686100
+    url: /works/686100/
 ---

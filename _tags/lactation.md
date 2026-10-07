@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "lactation"
-work_count: 35
+work_count: 36
 works:
   - title: NTR Nindou | The NTR Ninja Way
     author: tokie-hirohito
@@ -40,6 +40,13 @@ works:
     date: '2026-09-29'
     code: 473892
     url: /works/473892/
+  - title: I Turned Into a Sexual Relief Maid
+    author: kanmuri
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/497994.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 497994
+    url: /works/497994/
   - title: Oppai na Natsuyasumi Soushuuhen | The Summer Break of Boobs Complete
     author: higashino-mikan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/508649.jpg

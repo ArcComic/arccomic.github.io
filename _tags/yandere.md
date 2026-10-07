@@ -20,14 +20,14 @@ works:
   - title: Kanojo no Amai Jiraishuu
     author: jirou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/352215.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-10-07'
     code: 352215
     url: /works/352215/
   - title: TABOO -Chuuhen-
     author: nanahoshi-tento
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/386725.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-10-07'
     code: 386725
     url: /works/386725/
@@ -120,7 +120,7 @@ works:
   - title: TABOO -Kanzenhan-｜TABOO -Complete Version-
     author: nanahoshi-tento
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/589628.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-10-07'
     code: 589628
     url: /works/589628/

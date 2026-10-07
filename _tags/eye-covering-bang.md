@@ -1,12 +1,12 @@
 ---
 layout: tag
 tag_name: "eye-covering bang"
-work_count: 68
+work_count: 69
 works:
   - title: Kanojo no Amai Jiraishuu
     author: jirou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/352215.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-10-07'
     code: 352215
     url: /works/352215/
@@ -162,7 +162,7 @@ works:
       Girlfriend Is That Guy's Personal Fucktoy For The Summer Break
     author: omusubi-korori
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/621733.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-07'
     code: 621733
     url: /works/621733/
@@ -447,6 +447,13 @@ works:
     date: '2026-09-19'
     code: 682290
     url: /works/682290/
+  - title: Asuna Change
+    author: ty
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682407.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 682407
+    url: /works/682407/
   - title: Bakunyuu Bunny Obasan - Chapter 1-2
     author: kamushi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683065.jpg

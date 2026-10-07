@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "netorare"
-work_count: 428
+work_count: 430
 works:
   - title: Kousa suru Osu to Mesu | Male and Female Crossing
     author: ootsuka-kotora
@@ -533,6 +533,13 @@ works:
     date: '2026-09-26'
     code: 491312
     url: /works/491312/
+  - title: NTRrare Onsen Ryokou ~Tsukari Tsukareru Shinkon Tsuma~
+    author: yuuma
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/491822.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 491822
+    url: /works/491822/
   - title: Boku no Chuugoku Bijin Slender Kyonyuu Tsuma ga Camera Model de Nugasarete
       Yarichin Tomo ni Netorareta Ken
     author: mitoreiyu
@@ -1277,7 +1284,7 @@ works:
       Girlfriend Is That Guy's Personal Fucktoy For The Summer Break
     author: omusubi-korori
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/621733.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-07'
     code: 621733
     url: /works/621733/
@@ -1511,7 +1518,7 @@ works:
   - title: Boku wa Tsuma ga Netorare Nando mo Ikasareru Sugata o Mitsuzuketa. 4
     author: sanku
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/641950.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-07'
     code: 641950
     url: /works/641950/
@@ -1540,7 +1547,7 @@ works:
   - title: Netorarensa 2 Boku no  Femme Fatale
     author: bad-end-dreamer
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642394.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-07'
     code: 642394
     url: /works/642394/
@@ -1958,7 +1965,7 @@ works:
   - title: Until I Take Everything From You 3-C
     author: takotokite
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654245.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-10-07'
     code: 654245
     url: /works/654245/
@@ -1972,7 +1979,7 @@ works:
   - title: Take Everything From You
     author: takotokite
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654587.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-10-07'
     code: 654587
     url: /works/654587/
@@ -2236,7 +2243,7 @@ works:
       Watching While a Man Made My Wife Cum Over and Over
     author: sanku
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/663860.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-10-07'
     code: 663860
     url: /works/663860/
@@ -2384,7 +2391,7 @@ works:
       Kept Watching While A Man Made My Wife Cum Over And Over 2
     author: sanku
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/672262.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-10-07'
     code: 672262
     url: /works/672262/
@@ -3155,6 +3162,13 @@ works:
     date: '2026-10-05'
     code: 686029
     url: /works/686029/
+  - title: Happy Birthday Nishikata!
+    author: lander0808
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686092.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 686092
+    url: /works/686092/
   - title: Inin Keiyaku | Lewd Pregnancy Contract
     author: yoshiura-kazuya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/83595.jpg

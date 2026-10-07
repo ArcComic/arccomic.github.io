@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "fingering"
-work_count: 168
+work_count: 171
 works:
   - title: Watashi-tachi no Seikoui Tokubetsu Jisshuu -Zengi Hen-
     author: guglielmo
@@ -329,6 +329,13 @@ works:
     date: '2026-05-04'
     code: 537760
     url: /works/537760/
+  - title: Adoration of Ones Elders
+    author: nomu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/537946.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 537946
+    url: /works/537946/
   - title: Oshioki no Jikan - Punishment time
     author: syoukaki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/540125.jpg
@@ -1169,6 +1176,13 @@ works:
     date: '2026-09-19'
     code: 682245
     url: /works/682245/
+  - title: Asuna Change
+    author: ty
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682407.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 682407
+    url: /works/682407/
   - title: Oji to Midara na Yume o Miru | Licentious Dreams With My Uncle
     author: yoshii-kou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682548.jpg
@@ -1255,4 +1269,11 @@ works:
     date: '2026-10-03'
     code: 685785
     url: /works/685785/
+  - title: Kono Koi ni Kizuite Kureta | You Noticed My Love for You
+    author: danimaru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686107.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 686107
+    url: /works/686107/
 ---

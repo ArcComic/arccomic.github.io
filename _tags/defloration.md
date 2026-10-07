@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "defloration"
-work_count: 229
+work_count: 230
 works:
   - title: Imitation Family + Bigibo Hen
     author: tohzai
@@ -114,7 +114,7 @@ works:
   - title: Kanojo no Amai Jiraishuu
     author: jirou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/352215.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-10-07'
     code: 352215
     url: /works/352215/
@@ -435,6 +435,13 @@ works:
     date: '2026-08-20'
     code: 537794
     url: /works/537794/
+  - title: Adoration of Ones Elders
+    author: nomu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/537946.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 537946
+    url: /works/537946/
   - title: Kannou no Triangle | Sensual Love Triangle
     author: sena-youtarou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/538176.jpg

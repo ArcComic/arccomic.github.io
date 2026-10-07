@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "masturbation"
-work_count: 136
+work_count: 138
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -95,6 +95,13 @@ works:
     date: '2026-09-13'
     code: 404458
     url: /works/404458/
+  - title: Joshikousei Sennyuu Repo ~Hanzaisha ga Onnanoko ni Hyoui shite mita~
+    author: touchuu-kasou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/409385.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 409385
+    url: /works/409385/
   - title: sequence irekaeru futari no karada
     author: iwashita
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/414040.jpg
@@ -644,7 +651,7 @@ works:
   - title: Dandan Kuse ni Naru - I like molester? .........No
     author: panda
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/661142.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-07'
     code: 661142
     url: /works/661142/
@@ -938,6 +945,13 @@ works:
     date: '2026-09-19'
     code: 682339
     url: /works/682339/
+  - title: Asuna Change
+    author: ty
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682407.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 682407
+    url: /works/682407/
   - title: Boku dake ga Class no Ano Ko to Sex dekinai Sekai | The World Where Only
       I Can't Fuck the Class Gal
     author: armjaw

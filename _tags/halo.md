@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "halo"
-work_count: 27
+work_count: 28
 works:
   - title: Mutsugaki Icha Love Book ~Sensei to Kakurenbo~ | MUTSUGAKI Lovey-Dovey Book
       ~Hide-and-seek with Sensei~
@@ -154,6 +154,13 @@ works:
     date: '2026-09-19'
     code: 682342
     url: /works/682342/
+  - title: Asuna Change
+    author: ty
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682407.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 682407
+    url: /works/682407/
   - title: Hifumi to Himitsu no Kankei ni Natteshimatta Hanashi - A story about getting
       into a secret relationship with Hifumi.
     author: arisu-kazumi

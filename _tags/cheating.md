@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "cheating"
-work_count: 360
+work_count: 361
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -305,7 +305,7 @@ works:
   - title: TABOO -Chuuhen-
     author: nanahoshi-tento
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/386725.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-10-07'
     code: 386725
     url: /works/386725/
@@ -592,6 +592,13 @@ works:
     date: '2026-09-26'
     code: 490633
     url: /works/490633/
+  - title: NTRrare Onsen Ryokou ~Tsukari Tsukareru Shinkon Tsuma~
+    author: yuuma
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/491822.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 491822
+    url: /works/491822/
   - title: Boku no Chuugoku Bijin Slender Kyonyuu Tsuma ga Camera Model de Nugasarete
       Yarichin Tomo ni Netorareta Ken
     author: mitoreiyu
@@ -1303,7 +1310,7 @@ works:
       Girlfriend Is That Guy's Personal Fucktoy For The Summer Break
     author: omusubi-korori
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/621733.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-07'
     code: 621733
     url: /works/621733/
@@ -1526,7 +1533,7 @@ works:
   - title: Netorarensa 2 Boku no  Femme Fatale
     author: bad-end-dreamer
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642394.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-07'
     code: 642394
     url: /works/642394/
@@ -1811,7 +1818,7 @@ works:
   - title: Until I Take Everything From You 3-C
     author: takotokite
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654245.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-10-07'
     code: 654245
     url: /works/654245/
@@ -2087,7 +2094,7 @@ works:
       Sex with a Taken Busty Gyaru Part-Timer!
     author: bs3
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/671129.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-10-07'
     code: 671129
     url: /works/671129/

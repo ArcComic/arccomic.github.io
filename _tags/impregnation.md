@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "impregnation"
-work_count: 148
+work_count: 150
 works:
   - title: Kousa suru Osu to Mesu | Male and Female Crossing
     author: ootsuka-kotora
@@ -133,6 +133,14 @@ works:
     date: '2026-04-12'
     code: 432513
     url: /works/432513/
+  - title: Ubawareta Tachiba ~Ou kara Ouhi e to Kaerareta Ore~ | My Stolen Place ~Transformed
+      From King to Queen~
+    author: betty
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/441332.jpg
+    rating: 4.5
+    date: '2026-10-07'
+    code: 441332
+    url: /works/441332/
   - title: Zoku NTR Nindou | The NTR Ninja Way 2
     author: tokie-hirohito
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/441828.jpg
@@ -166,7 +174,7 @@ works:
   - title: Tanetsuke Jiyuu Gakuen 2
     author: panda
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/451660.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-10-07'
     code: 451660
     url: /works/451660/
@@ -372,7 +380,7 @@ works:
   - title: TABOO -Kanzenhan-｜TABOO -Complete Version-
     author: nanahoshi-tento
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/589628.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-10-07'
     code: 589628
     url: /works/589628/
@@ -1091,6 +1099,14 @@ works:
     date: '2026-10-05'
     code: 686044
     url: /works/686044/
+  - title: Kankaku Shadan no Kaii ni Okasareru Miko | A shrine maiden possessed by a
+      monster of sensory deprivation
+    author: hyoui-no-jikan
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686100.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 686100
+    url: /works/686100/
   - title: Inin Keiyaku | Lewd Pregnancy Contract
     author: yoshiura-kazuya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/83595.jpg

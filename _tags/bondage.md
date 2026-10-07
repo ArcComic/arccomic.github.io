@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bondage"
-work_count: 95
+work_count: 96
 works:
   - title: Pai☆Panic ~Hasamareta Dekapai~
     author: inkey
@@ -383,7 +383,7 @@ works:
   - title: Dandan Kuse ni Naru - I like molester? .........No
     author: panda
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/661142.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-07'
     code: 661142
     url: /works/661142/
@@ -694,6 +694,14 @@ works:
     date: '2026-10-05'
     code: 686029
     url: /works/686029/
+  - title: Kankaku Shadan no Kaii ni Okasareru Miko | A shrine maiden possessed by a
+      monster of sensory deprivation
+    author: hyoui-no-jikan
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686100.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 686100
+    url: /works/686100/
   - title: Onee-chan no SM Kouza | Onee-chan's S&M Lecture
     author: shinooka-homare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/88750.jpg

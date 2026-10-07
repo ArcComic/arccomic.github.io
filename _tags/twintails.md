@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "twintails"
-work_count: 124
+work_count: 127
 works:
   - title: Sensei wa Shougakusei ga Suki | Sensei Loves Elementary Schoolers
     author: fuyuno-mikan
@@ -107,6 +107,13 @@ works:
     date: '2026-07-13'
     code: 514183
     url: /works/514183/
+  - title: Wakeari JK Iede shita Gal o Kattemita Kekka! 1+2 Full Color Gappon-ban
+    author: omizu-chihiro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/514517.jpg
+    rating: 4.6
+    date: '2026-10-07'
+    code: 514517
+    url: /works/514517/
   - title: Watashi wa Kakerareteru kara... | I've been hypnotized, so...
     author: kiraku
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/516164.jpg
@@ -128,6 +135,13 @@ works:
     date: '2026-05-07'
     code: 536423
     url: /works/536423/
+  - title: Adoration of Ones Elders
+    author: nomu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/537946.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 537946
+    url: /works/537946/
   - title: Imouto wa Mesu Orc 7
     author: muneshiro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/547393.jpg
@@ -477,7 +491,7 @@ works:
   - title: Dandan Kuse ni Naru - I like molester? .........No
     author: panda
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/661142.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-07'
     code: 661142
     url: /works/661142/
@@ -918,4 +932,11 @@ works:
     date: '2026-10-05'
     code: 685874
     url: /works/685874/
+  - title: Azatokute Kawaii Jirai-kei Joshi ni Seishi mo Okane mo Chuuchuu Saremashita
+    author: kiduki-erika
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686081.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 686081
+    url: /works/686081/
 ---

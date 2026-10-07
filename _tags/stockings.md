@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "stockings"
-work_count: 218
+work_count: 221
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -314,6 +314,13 @@ works:
     date: '2026-05-26'
     code: 532417
     url: /works/532417/
+  - title: Adoration of Ones Elders
+    author: nomu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/537946.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 537946
+    url: /works/537946/
   - title: Ai wa Oshiminaku | Love is given without reservation
     author: yoshika
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/539377.jpg
@@ -920,7 +927,7 @@ works:
   - title: Dandan Kuse ni Naru - I like molester? .........No
     author: panda
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/661142.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-07'
     code: 661142
     url: /works/661142/
@@ -1602,6 +1609,20 @@ works:
     date: '2026-10-05'
     code: 685928
     url: /works/685928/
+  - title: Azatokute Kawaii Jirai-kei Joshi ni Seishi mo Okane mo Chuuchuu Saremashita
+    author: kiduki-erika
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686081.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 686081
+    url: /works/686081/
+  - title: Happy Birthday Nishikata!
+    author: lander0808
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686092.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 686092
+    url: /works/686092/
   - title: Jokyoushi - Hot For Teachers | Female Teachers
     author: drill-murata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/81375.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "mind control"
-work_count: 63
+work_count: 68
 works:
   - title: Ayami Hypno
     author: yasuhiro
@@ -17,6 +17,20 @@ works:
     date: '2026-09-26'
     code: 309899
     url: /works/309899/
+  - title: Seigi no Mikata o Otosu Houhou | How To Subvert an Ally of Justice
+    author: fuka
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/384737.jpg
+    rating: 4.1
+    date: '2026-10-07'
+    code: 384737
+    url: /works/384737/
+  - title: Joshikousei Sennyuu Repo ~Hanzaisha ga Onnanoko ni Hyoui shite mita~
+    author: touchuu-kasou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/409385.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 409385
+    url: /works/409385/
   - title: Nekura Kyonyuu no Onee-chan wa, Saiminshite de mo Otouto Chinpo o Netoritai
     author: borusiti
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/438138.jpg
@@ -24,6 +38,14 @@ works:
     date: '2026-09-29'
     code: 438138
     url: /works/438138/
+  - title: Ubawareta Tachiba ~Ou kara Ouhi e to Kaerareta Ore~ | My Stolen Place ~Transformed
+      From King to Queen~
+    author: betty
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/441332.jpg
+    rating: 4.5
+    date: '2026-10-07'
+    code: 441332
+    url: /works/441332/
   - title: Kagura Hypno
     author: yasuhiro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/457733.jpg
@@ -45,6 +67,13 @@ works:
     date: '2026-04-17'
     code: 489004
     url: /works/489004/
+  - title: NTRrare Onsen Ryokou ~Tsukari Tsukareru Shinkon Tsuma~
+    author: yuuma
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/491822.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 491822
+    url: /works/491822/
   - title: Bocchi de Shinda Ore ga Bishoujo Nurse ni Natta Hanashi | The Story of How
       I Died Alone and Became a Sexy Nurse
     author: testame
@@ -281,6 +310,14 @@ works:
     date: '2026-05-20'
     code: 651381
     url: /works/651381/
+  - title: Boku ga TS Saserarete, Shiawasena Mesu Neko Toshite Kawareru Hanashi | The
+      Story of How I Was Turned into a TS Woman and Kept as a Happy Female Cat
+    author: hoshino-iro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651820.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 651820
+    url: /works/651820/
   - title: Kiraware H ~Boku o Kirai na Kimi ga Suki~ Momoka Hen
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/652788.jpg

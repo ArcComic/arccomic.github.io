@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "rape"
-work_count: 242
+work_count: 243
 works:
   - title: Office Love Scramble Ch. 1
     author: tohzai
@@ -121,7 +121,7 @@ works:
   - title: TABOO -Chuuhen-
     author: nanahoshi-tento
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/386725.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-10-07'
     code: 386725
     url: /works/386725/
@@ -233,7 +233,7 @@ works:
   - title: Tanetsuke Jiyuu Gakuen 2
     author: panda
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/451660.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-10-07'
     code: 451660
     url: /works/451660/
@@ -424,7 +424,7 @@ works:
   - title: Enkkou-chan no Papakatsu Nikki 2 ~Araki Nonoka no Baai~
     author: takano-tomohiro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/524736.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-07'
     code: 524736
     url: /works/524736/
@@ -1161,6 +1161,13 @@ works:
     date: '2026-09-13'
     code: 659199
     url: /works/659199/
+  - title: Days of slave sister rape
+    author: ichi2no35
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/659476.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 659476
+    url: /works/659476/
   - title: Chubby Nurse
     author: herohero-tom
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/659643.jpg

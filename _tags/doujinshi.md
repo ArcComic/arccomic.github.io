@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "doujinshi"
-work_count: 1313
+work_count: 1329
 works:
   - title: Birthday
     author: hashiba-yachi
@@ -407,6 +407,13 @@ works:
     date: '2026-09-06'
     code: 383468
     url: /works/383468/
+  - title: Seigi no Mikata o Otosu Houhou | How To Subvert an Ally of Justice
+    author: fuka
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/384737.jpg
+    rating: 4.1
+    date: '2026-10-07'
+    code: 384737
+    url: /works/384737/
   - title: FANTASY DIARY
     author: yd
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/386119.jpg
@@ -554,6 +561,13 @@ works:
     date: '2026-03-09'
     code: 408822
     url: /works/408822/
+  - title: Joshikousei Sennyuu Repo ~Hanzaisha ga Onnanoko ni Hyoui shite mita~
+    author: touchuu-kasou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/409385.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 409385
+    url: /works/409385/
   - title: Kaisha no Iki Okure BBA Haramaseta | [Tragic News] I Knocked Up The Old Maid
       From My Office
     author: special-g
@@ -780,6 +794,14 @@ works:
     date: '2026-04-25'
     code: 441036
     url: /works/441036/
+  - title: Ubawareta Tachiba ~Ou kara Ouhi e to Kaerareta Ore~ | My Stolen Place ~Transformed
+      From King to Queen~
+    author: betty
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/441332.jpg
+    rating: 4.5
+    date: '2026-10-07'
+    code: 441332
+    url: /works/441332/
   - title: Watashi no Karada, Okashi Shimasu. Bunny Girl Edition
     author: nectar
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/441339.jpg
@@ -874,7 +896,7 @@ works:
   - title: Tanetsuke Jiyuu Gakuen 2
     author: panda
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/451660.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-10-07'
     code: 451660
     url: /works/451660/
@@ -1227,6 +1249,13 @@ works:
     date: '2026-09-30'
     code: 491622
     url: /works/491622/
+  - title: NTRrare Onsen Ryokou ~Tsukari Tsukareru Shinkon Tsuma~
+    author: yuuma
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/491822.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 491822
+    url: /works/491822/
   - title: Boku no Chuugoku Bijin Slender Kyonyuu Tsuma ga Camera Model de Nugasarete
       Yarichin Tomo ni Netorareta Ken
     author: mitoreiyu
@@ -1265,6 +1294,13 @@ works:
     date: '2026-09-09'
     code: 495599
     url: /works/495599/
+  - title: I Turned Into a Sexual Relief Maid
+    author: kanmuri
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/497994.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 497994
+    url: /works/497994/
   - title: Onozomi deshitara Saimin wo ~Maki-san Himitsu no Renai Therapy~ | If you
       wish, hypnosis ~Maki-san's secret love therapy~
     author: meeko
@@ -1515,6 +1551,13 @@ works:
     date: '2026-07-13'
     code: 514183
     url: /works/514183/
+  - title: Wakeari JK Iede shita Gal o Kattemita Kekka! 1+2 Full Color Gappon-ban
+    author: omizu-chihiro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/514517.jpg
+    rating: 4.6
+    date: '2026-10-07'
+    code: 514517
+    url: /works/514517/
   - title: My part-time coworker ran away from home and came to work here, but she was
       too sexy...
     author: yamakonbu
@@ -1638,7 +1681,7 @@ works:
   - title: Enkkou-chan no Papakatsu Nikki 2 ~Araki Nonoka no Baai~
     author: takano-tomohiro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/524736.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-07'
     code: 524736
     url: /works/524736/
@@ -1942,6 +1985,13 @@ works:
     date: '2026-08-20'
     code: 537794
     url: /works/537794/
+  - title: Adoration of Ones Elders
+    author: nomu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/537946.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 537946
+    url: /works/537946/
   - title: Ane no Tomodachi to SeFri ni Natta | My Big Sister's Friends And I Became
       Sex Friends
     author: rinrikoko
@@ -3462,7 +3512,7 @@ works:
       Girlfriend Is That Guy's Personal Fucktoy For The Summer Break
     author: omusubi-korori
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/621733.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-07'
     code: 621733
     url: /works/621733/
@@ -4048,6 +4098,13 @@ works:
     date: '2026-09-28'
     code: 636389
     url: /works/636389/
+  - title: Jyuujyuu na Sukoya-san | Nurse Sukoya's Thorough Care
+    author: yumobi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/636417.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 636417
+    url: /works/636417/
   - title: I Want To See The Cool & Smart Guy's Face Warped in Humiliation
     author: the-waidan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/636751.jpg
@@ -4278,7 +4335,7 @@ works:
   - title: Boku wa Tsuma ga Netorare Nando mo Ikasareru Sugata o Mitsuzuketa. 4
     author: sanku
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/641950.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-07'
     code: 641950
     url: /works/641950/
@@ -4315,7 +4372,7 @@ works:
   - title: Netorarensa 2 Boku no  Femme Fatale
     author: bad-end-dreamer
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642394.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-07'
     code: 642394
     url: /works/642394/
@@ -5355,6 +5412,14 @@ works:
     date: '2026-05-21'
     code: 651499
     url: /works/651499/
+  - title: Boku ga TS Saserarete, Shiawasena Mesu Neko Toshite Kawareru Hanashi | The
+      Story of How I Was Turned into a TS Woman and Kept as a Happy Female Cat
+    author: hoshino-iro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651820.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 651820
+    url: /works/651820/
   - title: Akogare no Tomo Mama to Matching Shita Ken | The Time I Matched With My Admired
       Friend's Mom
     author: shimofuri
@@ -5556,7 +5621,7 @@ works:
   - title: Until I Take Everything From You 3-C
     author: takotokite
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654245.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-10-07'
     code: 654245
     url: /works/654245/
@@ -5577,7 +5642,7 @@ works:
   - title: Until I Take Everything From You 5
     author: takotokite
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654260.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-07'
     code: 654260
     url: /works/654260/
@@ -5598,7 +5663,7 @@ works:
   - title: Take Everything From You
     author: takotokite
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654587.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-10-07'
     code: 654587
     url: /works/654587/
@@ -6026,6 +6091,13 @@ works:
     date: '2026-07-05'
     code: 661367
     url: /works/661367/
+  - title: 'Girlfriend Revenge Special: The Heel'
+    author: meowwithme
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/661540.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 661540
+    url: /works/661540/
   - title: Shinyuu Tatakitsubushi Kyousou Shiiku Seikatsu | A Life in Captivity The
       Competition to Break My Best Friend
     author: group
@@ -6475,7 +6547,7 @@ works:
       Watching While a Man Made My Wife Cum Over and Over
     author: sanku
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/663860.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-10-07'
     code: 663860
     url: /works/663860/
@@ -6880,7 +6952,7 @@ works:
       Sex with a Taken Busty Gyaru Part-Timer!
     author: bs3
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/671129.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-10-07'
     code: 671129
     url: /works/671129/
@@ -6930,7 +7002,7 @@ works:
       Kept Watching While A Man Made My Wife Cum Over And Over 2
     author: sanku
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/672262.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-10-07'
     code: 672262
     url: /works/672262/
@@ -8726,6 +8798,13 @@ works:
     date: '2026-09-19'
     code: 682392
     url: /works/682392/
+  - title: Asuna Change
+    author: ty
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682407.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 682407
+    url: /works/682407/
   - title: I am a sister
     author: vanilla-type
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682498.jpg
@@ -9720,4 +9799,40 @@ works:
     date: '2026-10-05'
     code: 686044
     url: /works/686044/
+  - title: Ayashii Drink o Nonde Hatsujou Shita Ane ga Inran Sugiru
+    author: tilm
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686072.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 686072
+    url: /works/686072/
+  - title: Azatokute Kawaii Jirai-kei Joshi ni Seishi mo Okane mo Chuuchuu Saremashita
+    author: kiduki-erika
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686081.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 686081
+    url: /works/686081/
+  - title: Happy Birthday Nishikata!
+    author: lander0808
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686092.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 686092
+    url: /works/686092/
+  - title: Kankaku Shadan no Kaii ni Okasareru Miko | A shrine maiden possessed by a
+      monster of sensory deprivation
+    author: hyoui-no-jikan
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686100.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 686100
+    url: /works/686100/
+  - title: Kono Koi ni Kizuite Kureta | You Noticed My Love for You
+    author: danimaru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686107.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 686107
+    url: /works/686107/
 ---

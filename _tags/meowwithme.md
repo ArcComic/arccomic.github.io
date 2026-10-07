@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "meowwithme"
-work_count: 2
+work_count: 3
 works:
   - title: Mimikyu Myth 2
     author: meowwithme
@@ -17,4 +17,11 @@ works:
     date: '2026-05-03'
     code: 540880
     url: /works/540880/
+  - title: 'Girlfriend Revenge Special: The Heel'
+    author: meowwithme
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/661540.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 661540
+    url: /works/661540/
 ---

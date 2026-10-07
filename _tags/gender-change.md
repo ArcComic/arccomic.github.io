@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "gender change"
-work_count: 15
+work_count: 16
 works:
   - title: Hyoui Osen de Yuri Ecchi | Lesbian Sex through Corrupting Possession
     author: siina-yuuki
@@ -76,6 +76,13 @@ works:
     date: '2026-08-31'
     code: 494172
     url: /works/494172/
+  - title: I Turned Into a Sexual Relief Maid
+    author: kanmuri
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/497994.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 497994
+    url: /works/497994/
   - title: Aqua Wing ~The man who switched bodies with an idol~
     author: touchuu-kasou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/498908.jpg

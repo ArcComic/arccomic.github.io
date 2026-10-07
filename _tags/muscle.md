@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "muscle"
-work_count: 117
+work_count: 118
 works:
   - title: Kousa suru Osu to Mesu | Male and Female Crossing
     author: ootsuka-kotora
@@ -423,7 +423,7 @@ works:
   - title: Boku wa Tsuma ga Netorare Nando mo Ikasareru Sugata o Mitsuzuketa. 4
     author: sanku
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/641950.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-07'
     code: 641950
     url: /works/641950/
@@ -884,4 +884,11 @@ works:
     date: '2026-10-05'
     code: 685961
     url: /works/685961/
+  - title: Kono Koi ni Kizuite Kureta | You Noticed My Love for You
+    author: danimaru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686107.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 686107
+    url: /works/686107/
 ---

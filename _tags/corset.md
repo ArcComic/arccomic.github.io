@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "corset"
-work_count: 2
+work_count: 3
 works:
   - title: Michikake - Waxing and Waning
     author: momono-yuuca
@@ -10,6 +10,13 @@ works:
     date: '2026-03-03'
     code: 574060
     url: /works/574060/
+  - title: Days of slave sister rape
+    author: ichi2no35
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/659476.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 659476
+    url: /works/659476/
   - title: That Time When a Demon Bunny-Girl Used Christmas Eve as a Pretense to Milk
       Me Dry
     author: unknown

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big penis"
-work_count: 227
+work_count: 229
 works:
   - title: Tsuma no Imouto no Danna ga Ie ni Kiteiruyoudesu | My Sister-In-Law's Husband
       is Over
@@ -630,6 +630,13 @@ works:
     date: '2026-09-28'
     code: 636389
     url: /works/636389/
+  - title: Jyuujyuu na Sukoya-san | Nurse Sukoya's Thorough Care
+    author: yumobi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/636417.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 636417
+    url: /works/636417/
   - title: I Want To See The Cool & Smart Guy's Face Warped in Humiliation
     author: the-waidan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/636751.jpg
@@ -1062,7 +1069,7 @@ works:
   - title: Dandan Kuse ni Naru - I like molester? .........No
     author: panda
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/661142.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-07'
     code: 661142
     url: /works/661142/
@@ -1264,7 +1271,7 @@ works:
       Sex with a Taken Busty Gyaru Part-Timer!
     author: bs3
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/671129.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-10-07'
     code: 671129
     url: /works/671129/
@@ -1706,4 +1713,11 @@ works:
     date: '2026-10-05'
     code: 686044
     url: /works/686044/
+  - title: Kono Koi ni Kizuite Kureta | You Noticed My Love for You
+    author: danimaru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686107.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 686107
+    url: /works/686107/
 ---

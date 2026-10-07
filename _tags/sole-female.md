@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole female"
-work_count: 935
+work_count: 943
 works:
   - title: Adoration
     author: kishizuka-kenji
@@ -366,7 +366,7 @@ works:
   - title: Kanojo no Amai Jiraishuu
     author: jirou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/352215.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-10-07'
     code: 352215
     url: /works/352215/
@@ -887,6 +887,14 @@ works:
     date: '2026-08-23'
     code: 441114
     url: /works/441114/
+  - title: Ubawareta Tachiba ~Ou kara Ouhi e to Kaerareta Ore~ | My Stolen Place ~Transformed
+      From King to Queen~
+    author: betty
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/441332.jpg
+    rating: 4.5
+    date: '2026-10-07'
+    code: 441332
+    url: /works/441332/
   - title: Tonari no Onee-san no Shitagi o Nusundara Kiseki ga Okita Hanashi o Shiyou
       |  Let’s Talk About the Story of A Miracle that Happened When I Stole the Underwear
       of the Lady Next Door
@@ -1606,7 +1614,7 @@ works:
   - title: Enkkou-chan no Papakatsu Nikki 2 ~Araki Nonoka no Baai~
     author: takano-tomohiro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/524736.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-07'
     code: 524736
     url: /works/524736/
@@ -1772,6 +1780,13 @@ works:
     date: '2026-08-25'
     code: 537490
     url: /works/537490/
+  - title: Adoration of Ones Elders
+    author: nomu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/537946.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 537946
+    url: /works/537946/
   - title: Ane no Tomodachi to SeFri ni Natta | My Big Sister's Friends And I Became
       Sex Friends
     author: rinrikoko
@@ -3242,6 +3257,13 @@ works:
     date: '2026-09-28'
     code: 636389
     url: /works/636389/
+  - title: Jyuujyuu na Sukoya-san | Nurse Sukoya's Thorough Care
+    author: yumobi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/636417.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 636417
+    url: /works/636417/
   - title: I Want To See The Cool & Smart Guy's Face Warped in Humiliation
     author: the-waidan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/636751.jpg
@@ -3397,7 +3419,7 @@ works:
   - title: Boku wa Tsuma ga Netorare Nando mo Ikasareru Sugata o Mitsuzuketa. 4
     author: sanku
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/641950.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-07'
     code: 641950
     url: /works/641950/
@@ -4289,7 +4311,7 @@ works:
   - title: Take Everything From You
     author: takotokite
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654587.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-10-07'
     code: 654587
     url: /works/654587/
@@ -4879,7 +4901,7 @@ works:
       Watching While a Man Made My Wife Cum Over and Over
     author: sanku
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/663860.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-10-07'
     code: 663860
     url: /works/663860/
@@ -5115,7 +5137,7 @@ works:
       Sex with a Taken Busty Gyaru Part-Timer!
     author: bs3
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/671129.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-10-07'
     code: 671129
     url: /works/671129/
@@ -5158,7 +5180,7 @@ works:
       Kept Watching While A Man Made My Wife Cum Over And Over 2
     author: sanku
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/672262.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-10-07'
     code: 672262
     url: /works/672262/
@@ -6942,4 +6964,40 @@ works:
     date: '2026-10-05'
     code: 686038
     url: /works/686038/
+  - title: Ayashii Drink o Nonde Hatsujou Shita Ane ga Inran Sugiru
+    author: tilm
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686072.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 686072
+    url: /works/686072/
+  - title: Azatokute Kawaii Jirai-kei Joshi ni Seishi mo Okane mo Chuuchuu Saremashita
+    author: kiduki-erika
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686081.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 686081
+    url: /works/686081/
+  - title: Happy Birthday Nishikata!
+    author: lander0808
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686092.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 686092
+    url: /works/686092/
+  - title: Kankaku Shadan no Kaii ni Okasareru Miko | A shrine maiden possessed by a
+      monster of sensory deprivation
+    author: hyoui-no-jikan
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686100.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 686100
+    url: /works/686100/
+  - title: Kono Koi ni Kizuite Kureta | You Noticed My Love for You
+    author: danimaru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686107.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 686107
+    url: /works/686107/
 ---

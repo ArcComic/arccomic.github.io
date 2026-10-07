@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "mother"
-work_count: 162
+work_count: 164
 works:
   - title: Imitation Family + Bigibo Hen
     author: tohzai
@@ -67,6 +67,13 @@ works:
     date: '2026-09-09'
     code: 366731
     url: /works/366731/
+  - title: Seigi no Mikata o Otosu Houhou | How To Subvert an Ally of Justice
+    author: fuka
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/384737.jpg
+    rating: 4.1
+    date: '2026-10-07'
+    code: 384737
+    url: /works/384737/
   - title: LOOK LIKE
     author: terasu-mc
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/388099.jpg
@@ -440,7 +447,7 @@ works:
   - title: TABOO -Kanzenhan-｜TABOO -Complete Version-
     author: nanahoshi-tento
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/589628.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-10-07'
     code: 589628
     url: /works/589628/
@@ -859,6 +866,13 @@ works:
     date: '2026-08-21'
     code: 656615
     url: /works/656615/
+  - title: Gibo Saori
+    author: don-shigeru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/657048.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 657048
+    url: /works/657048/
   - title: Musuko no Onegai | My son's wish...
     author: natsu-no-oyatsu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/657453.jpg

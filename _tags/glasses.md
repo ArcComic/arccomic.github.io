@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "glasses"
-work_count: 258
+work_count: 262
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -168,6 +168,13 @@ works:
     date: '2026-09-28'
     code: 373952
     url: /works/373952/
+  - title: Seigi no Mikata o Otosu Houhou | How To Subvert an Ally of Justice
+    author: fuka
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/384737.jpg
+    rating: 4.1
+    date: '2026-10-07'
+    code: 384737
+    url: /works/384737/
   - title: Tonari no Heya no OL-san | OL-san Next Door
     author: kagami
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/396089.jpg
@@ -425,6 +432,13 @@ works:
     date: '2026-07-13'
     code: 514183
     url: /works/514183/
+  - title: Wakeari JK Iede shita Gal o Kattemita Kekka! 1+2 Full Color Gappon-ban
+    author: omizu-chihiro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/514517.jpg
+    rating: 4.6
+    date: '2026-10-07'
+    code: 514517
+    url: /works/514517/
   - title: Kyoushi no Oba wa Himitsu no Bakunyuu Ero Cos Layer ~Iinari Gyaku Bunny &
       Sister Cos de Keiren Soku Iki Nakadashi Netori~ | My Teacher Aunt Is Secretly
       A Buxom Erotic Cosplayer
@@ -472,6 +486,13 @@ works:
     date: '2026-04-19'
     code: 534663
     url: /works/534663/
+  - title: Adoration of Ones Elders
+    author: nomu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/537946.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 537946
+    url: /works/537946/
   - title: Jimime na Kurokami Elf-chan ga Ecchi na Massage-ten de Seikantai Kaihatsu
       Sarechau Ohanashi | A Plain Jane Elf's Sexy Adventure at a Massage Clinic
     author: akane
@@ -727,7 +748,7 @@ works:
       Girlfriend Is That Guy's Personal Fucktoy For The Summer Break
     author: omusubi-korori
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/621733.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-07'
     code: 621733
     url: /works/621733/
@@ -1891,6 +1912,13 @@ works:
     date: '2026-10-05'
     code: 685928
     url: /works/685928/
+  - title: Azatokute Kawaii Jirai-kei Joshi ni Seishi mo Okane mo Chuuchuu Saremashita
+    author: kiduki-erika
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686081.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 686081
+    url: /works/686081/
   - title: Hottokenaino
     author: hara-shigeyuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/77864.jpg

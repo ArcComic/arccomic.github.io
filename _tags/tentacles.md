@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "tentacles"
-work_count: 14
+work_count: 15
 works:
   - title: 'Haiboku no Daishou ~Okasare Ubaware Hametsu suru Shuudoujou~ | Price of
       Defeat: Downfall of the Violated and Plundered Sister'
@@ -103,4 +103,12 @@ works:
     date: '2026-09-22'
     code: 683013
     url: /works/683013/
+  - title: Kankaku Shadan no Kaii ni Okasareru Miko | A shrine maiden possessed by a
+      monster of sensory deprivation
+    author: hyoui-no-jikan
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686100.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 686100
+    url: /works/686100/
 ---

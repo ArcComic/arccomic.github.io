@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "body swap"
-work_count: 14
+work_count: 15
 works:
   - title: sequence irekaeru futari no karada
     author: iwashita
@@ -47,6 +47,13 @@ works:
     date: '2026-09-12'
     code: 500467
     url: /works/500467/
+  - title: Adoration of Ones Elders
+    author: nomu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/537946.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 537946
+    url: /works/537946/
   - title: Kawaii Tsun'aho/ I took in Runaway but She Swapped Bodies With Me!
     author: kawaii-tsunaho
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/649105.jpg

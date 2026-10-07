@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "catgirl"
-work_count: 9
+work_count: 10
 works:
   - title: Hitoban Tomete yo, Otaku-kun | Let Me Stay For the Night, Otaku-kun
     author: danimaru
@@ -25,6 +25,14 @@ works:
     date: '2026-07-13'
     code: 648800
     url: /works/648800/
+  - title: Boku ga TS Saserarete, Shiawasena Mesu Neko Toshite Kawareru Hanashi | The
+      Story of How I Was Turned into a TS Woman and Kept as a Happy Female Cat
+    author: hoshino-iro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651820.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 651820
+    url: /works/651820/
   - title: Choukyou Inroku Ni ~Kunoichi Hiiragi no Junan~
     author: carpsukidayo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/663482.jpg

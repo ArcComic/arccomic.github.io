@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "uncensored"
-work_count: 123
+work_count: 125
 works:
   - title: Netemo Sametemo | Be it Sleeping or Awake
     author: takasugi-kou
@@ -199,6 +199,13 @@ works:
     date: '2026-05-26'
     code: 532417
     url: /works/532417/
+  - title: Adoration of Ones Elders
+    author: nomu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/537946.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 537946
+    url: /works/537946/
   - title: Girlfriend Revenge
     author: meowwithme
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/540880.jpg
@@ -674,6 +681,13 @@ works:
     date: '2026-09-20'
     code: 659204
     url: /works/659204/
+  - title: 'Girlfriend Revenge Special: The Heel'
+    author: meowwithme
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/661540.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 661540
+    url: /works/661540/
   - title: Oretoku Shuugakuryokou ~Otoko wa Jyosou shita Ore dake!! Ch 1-29
     author: okumori-boy
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/661664.jpg

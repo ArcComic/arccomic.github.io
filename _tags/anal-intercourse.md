@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "anal intercourse"
-work_count: 88
+work_count: 89
 works:
   - title: Kanojo to no Kekkon Houkoku ni Kiseishita noni Gimai to Yarimakuri no Suujitsukan
       ga Hajimatteshimatta | I visited my in-laws to announce my marriage and ended
@@ -339,7 +339,7 @@ works:
   - title: Dandan Kuse ni Naru - I like molester? .........No
     author: panda
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/661142.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-07'
     code: 661142
     url: /works/661142/
@@ -650,4 +650,11 @@ works:
     date: '2026-10-05'
     code: 685969
     url: /works/685969/
+  - title: Happy Birthday Nishikata!
+    author: lander0808
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686092.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 686092
+    url: /works/686092/
 ---

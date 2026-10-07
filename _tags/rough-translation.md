@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "rough translation"
-work_count: 646
+work_count: 653
 works:
   - title: Boku no Shiranai Kimi no Kao
     author: utsutsu-minoru
@@ -63,7 +63,7 @@ works:
   - title: Tanetsuke Jiyuu Gakuen 2
     author: panda
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/451660.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-10-07'
     code: 451660
     url: /works/451660/
@@ -153,6 +153,13 @@ works:
     date: '2026-07-13'
     code: 514183
     url: /works/514183/
+  - title: Wakeari JK Iede shita Gal o Kattemita Kekka! 1+2 Full Color Gappon-ban
+    author: omizu-chihiro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/514517.jpg
+    rating: 4.6
+    date: '2026-10-07'
+    code: 514517
+    url: /works/514517/
   - title: My part-time coworker ran away from home and came to work here, but she was
       too sexy...
     author: yamakonbu
@@ -215,7 +222,7 @@ works:
   - title: Enkkou-chan no Papakatsu Nikki 2 ~Araki Nonoka no Baai~
     author: takano-tomohiro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/524736.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-07'
     code: 524736
     url: /works/524736/
@@ -1280,7 +1287,7 @@ works:
   - title: Boku wa Tsuma ga Netorare Nando mo Ikasareru Sugata o Mitsuzuketa. 4
     author: sanku
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/641950.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-07'
     code: 641950
     url: /works/641950/
@@ -1309,7 +1316,7 @@ works:
   - title: Netorarensa 2 Boku no  Femme Fatale
     author: bad-end-dreamer
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642394.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-07'
     code: 642394
     url: /works/642394/
@@ -1777,6 +1784,14 @@ works:
     date: '2026-05-21'
     code: 651489
     url: /works/651489/
+  - title: Boku ga TS Saserarete, Shiawasena Mesu Neko Toshite Kawareru Hanashi | The
+      Story of How I Was Turned into a TS Woman and Kept as a Happy Female Cat
+    author: hoshino-iro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651820.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 651820
+    url: /works/651820/
   - title: Akogare no Tomo Mama to Matching Shita Ken | The Time I Matched With My Admired
       Friend's Mom
     author: shimofuri
@@ -1901,7 +1916,7 @@ works:
   - title: Until I Take Everything From You 3-C
     author: takotokite
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654245.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-10-07'
     code: 654245
     url: /works/654245/
@@ -1922,7 +1937,7 @@ works:
   - title: Until I Take Everything From You 5
     author: takotokite
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654260.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-07'
     code: 654260
     url: /works/654260/
@@ -1943,7 +1958,7 @@ works:
   - title: Take Everything From You
     author: takotokite
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654587.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-10-07'
     code: 654587
     url: /works/654587/
@@ -2112,6 +2127,13 @@ works:
     date: '2026-09-23'
     code: 656814
     url: /works/656814/
+  - title: Gibo Saori
+    author: don-shigeru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/657048.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 657048
+    url: /works/657048/
   - title: Ero Sugiru Imouto to Fukinshin na Ore
     author: hazuki-kaoru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/657207.jpg
@@ -2197,6 +2219,13 @@ works:
     date: '2026-09-13'
     code: 659199
     url: /works/659199/
+  - title: Days of slave sister rape
+    author: ichi2no35
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/659476.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 659476
+    url: /works/659476/
   - title: Make Love Rank match!!③
     author: napo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/659484.jpg
@@ -2222,7 +2251,7 @@ works:
   - title: Dandan Kuse ni Naru - I like molester? .........No
     author: panda
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/661142.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-07'
     code: 661142
     url: /works/661142/
@@ -2612,7 +2641,7 @@ works:
       Watching While a Man Made My Wife Cum Over and Over
     author: sanku
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/663860.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-10-07'
     code: 663860
     url: /works/663860/
@@ -2853,7 +2882,7 @@ works:
       Kept Watching While A Man Made My Wife Cum Over And Over 2
     author: sanku
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/672262.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-10-07'
     code: 672262
     url: /works/672262/
@@ -3399,6 +3428,13 @@ works:
     date: '2026-08-31'
     code: 676658
     url: /works/676658/
+  - title: Ippai Yurashite - Bounce me a lot Ch.4
+    author: cuvie
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/676787.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 676787
+    url: /works/676787/
   - title: Holy Bitch 1
     author: testame
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/677230.jpg
@@ -4728,4 +4764,18 @@ works:
     date: '2026-10-05'
     code: 686029
     url: /works/686029/
+  - title: Ayashii Drink o Nonde Hatsujou Shita Ane ga Inran Sugiru
+    author: tilm
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686072.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 686072
+    url: /works/686072/
+  - title: Azatokute Kawaii Jirai-kei Joshi ni Seishi mo Okane mo Chuuchuu Saremashita
+    author: kiduki-erika
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686081.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 686081
+    url: /works/686081/
 ---

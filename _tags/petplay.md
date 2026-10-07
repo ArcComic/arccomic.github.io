@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "petplay"
-work_count: 10
+work_count: 11
 works:
   - title: Hajimete no DomiSub ~Match App de Mitsuketa Goshujin-sama ni Jinsei Bukkowashite
       Moraimasu~
@@ -48,6 +48,14 @@ works:
     date: '2026-05-07'
     code: 648414
     url: /works/648414/
+  - title: Boku ga TS Saserarete, Shiawasena Mesu Neko Toshite Kawareru Hanashi | The
+      Story of How I Was Turned into a TS Woman and Kept as a Happy Female Cat
+    author: hoshino-iro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651820.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 651820
+    url: /works/651820/
   - title: 'Jirai Inu-kei Kanojo #Kimi to Tsunagaritai Jirai de Inukei de Juujun na
       Kimi dake no Pet | Jirai-kei Puppy Girlfriend'
     author: shimofuji-jun

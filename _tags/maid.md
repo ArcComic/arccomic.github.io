@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "maid"
-work_count: 38
+work_count: 39
 works:
   - title: Maid no Oshigoto. II | Maid's Work II
     author: alexi-laiho
@@ -10,6 +10,13 @@ works:
     date: '2026-04-23'
     code: 296282
     url: /works/296282/
+  - title: I Turned Into a Sexual Relief Maid
+    author: kanmuri
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/497994.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 497994
+    url: /works/497994/
   - title: Obedience Part 1
     author: laliberte
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/501709.jpg
@@ -171,7 +178,7 @@ works:
   - title: Until I Take Everything From You 5
     author: takotokite
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654260.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-07'
     code: 654260
     url: /works/654260/

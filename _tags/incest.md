@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "incest"
-work_count: 283
+work_count: 288
 works:
   - title: Imitation Family + Bigibo Hen
     author: tohzai
@@ -126,10 +126,17 @@ works:
     date: '2026-09-13'
     code: 380273
     url: /works/380273/
+  - title: Seigi no Mikata o Otosu Houhou | How To Subvert an Ally of Justice
+    author: fuka
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/384737.jpg
+    rating: 4.1
+    date: '2026-10-07'
+    code: 384737
+    url: /works/384737/
   - title: TABOO -Chuuhen-
     author: nanahoshi-tento
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/386725.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-10-07'
     code: 386725
     url: /works/386725/
@@ -614,7 +621,7 @@ works:
   - title: TABOO -Kanzenhan-｜TABOO -Complete Version-
     author: nanahoshi-tento
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/589628.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-10-07'
     code: 589628
     url: /works/589628/
@@ -1327,6 +1334,13 @@ works:
     date: '2026-09-23'
     code: 656814
     url: /works/656814/
+  - title: Gibo Saori
+    author: don-shigeru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/657048.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 657048
+    url: /works/657048/
   - title: Ero Sugiru Imouto to Fukinshin na Ore
     author: hazuki-kaoru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/657207.jpg
@@ -1398,6 +1412,13 @@ works:
     date: '2026-08-24'
     code: 659164
     url: /works/659164/
+  - title: Days of slave sister rape
+    author: ichi2no35
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/659476.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 659476
+    url: /works/659476/
   - title: Imouto ga Ore no Kanojo!? 2-haku 3-ka no Ecchi na Kankei | My Sister is My
       Girlfriend!? Sexual Relationship for Two Nights and Three Days
     author: katagiri-kaneharu
@@ -1727,6 +1748,13 @@ works:
     date: '2026-08-31'
     code: 676658
     url: /works/676658/
+  - title: Ippai Yurashite - Bounce me a lot Ch.4
+    author: cuvie
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/676787.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 676787
+    url: /works/676787/
   - title: Ani ga Inma ni Natta node
     author: dobato
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/677079.jpg
@@ -2072,6 +2100,13 @@ works:
     date: '2026-10-05'
     code: 686044
     url: /works/686044/
+  - title: Ayashii Drink o Nonde Hatsujou Shita Ane ga Inran Sugiru
+    author: tilm
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686072.jpg
+    rating: 0.0
+    date: '2026-10-07'
+    code: 686072
+    url: /works/686072/
   - title: Onee-chan no SM Kouza | Onee-chan's S&M Lecture
     author: shinooka-homare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/88750.jpg
