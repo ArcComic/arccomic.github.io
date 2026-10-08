@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "gender bender"
-work_count: 46
+work_count: 47
 works:
   - title: Seigi no Mikata o Otosu Houhou | How To Subvert an Ally of Justice
     author: fuka
@@ -111,6 +111,13 @@ works:
     date: '2026-04-24'
     code: 645566
     url: /works/645566/
+  - title: Mama ni Naru | Becoming a Mom
+    author: ty
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/645689.jpg
+    rating: 0.0
+    date: '2026-10-08'
+    code: 645689
+    url: /works/645689/
   - title: Venom Invasion VII 【Part 1】
     author: blackftos
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/647563.jpg

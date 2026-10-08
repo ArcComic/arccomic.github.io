@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big breasts"
-work_count: 1097
+work_count: 1099
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -3490,6 +3490,14 @@ works:
     date: '2026-09-19'
     code: 638320
     url: /works/638320/
+  - title: Yoi ga Sameru made Sukoya ni Tsukiatte ne | Keep Sukoya Company Until She
+      Sobers Up, Okay?
+    author: yumobi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638323.jpg
+    rating: 0.0
+    date: '2026-10-08'
+    code: 638323
+    url: /works/638323/
   - title: Chinpo ni Katenai Onna-tachi
     author: oobayashi-mori
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638359.jpg
@@ -3965,6 +3973,13 @@ works:
     date: '2026-04-23'
     code: 645676
     url: /works/645676/
+  - title: Mama ni Naru | Becoming a Mom
+    author: ty
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/645689.jpg
+    rating: 0.0
+    date: '2026-10-08'
+    code: 645689
+    url: /works/645689/
   - title: 'Hanketsu, Hikokunin wa Watashi no Dildo Kei ni Shosuru | Verdict: The defendant
       is sentenced to my dildo punishment.'
     author: chotto-b-sen

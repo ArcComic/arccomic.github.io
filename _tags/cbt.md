@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "cbt"
-work_count: 6
+work_count: 7
 works:
   - title: Yuri no o saifu ni shite agemasu ne, Senpai | I'll turn you into Yuri's wallet,
       Senpai
@@ -25,6 +25,13 @@ works:
     date: '2026-07-11'
     code: 531966
     url: /works/531966/
+  - title: Various Full & Partial English Works
+    author: tokyo-mixed
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/631239.jpg
+    rating: 0.0
+    date: '2026-10-08'
+    code: 631239
+    url: /works/631239/
   - title: High-garden Lowlife
     author: sei
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/648102.jpg

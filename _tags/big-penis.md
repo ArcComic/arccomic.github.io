@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big penis"
-work_count: 232
+work_count: 233
 works:
   - title: Tsuma no Imouto no Danna ga Ie ni Kiteiruyoudesu | My Sister-In-Law's Husband
       is Over
@@ -658,6 +658,14 @@ works:
     date: '2026-10-03'
     code: 637829
     url: /works/637829/
+  - title: Yoi ga Sameru made Sukoya ni Tsukiatte ne | Keep Sukoya Company Until She
+      Sobers Up, Okay?
+    author: yumobi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638323.jpg
+    rating: 0.0
+    date: '2026-10-08'
+    code: 638323
+    url: /works/638323/
   - title: Onsen Haitte tara Joseito-tachi ga Osotte Kita | My Students Jumped Me When
       I Got in the Hot Spring
     author: hamo

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "inseki"
-work_count: 72
+work_count: 73
 works:
   - title: Imitation Family + Bigibo Hen
     author: tohzai
@@ -283,6 +283,13 @@ works:
     date: '2026-04-23'
     code: 645646
     url: /works/645646/
+  - title: Mama ni Naru | Becoming a Mom
+    author: ty
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/645689.jpg
+    rating: 0.0
+    date: '2026-10-08'
+    code: 645689
+    url: /works/645689/
   - title: Tsuma no Tame ni Tameta Kozukuri Seishi o Gimai no JK Manko ni Nagashikondeshimatta
       Boku.
     author: junsei-chuurenpoutou

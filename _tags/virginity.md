@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "virginity"
-work_count: 148
+work_count: 149
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -645,6 +645,14 @@ works:
     date: '2026-09-05'
     code: 637940
     url: /works/637940/
+  - title: Yoi ga Sameru made Sukoya ni Tsukiatte ne | Keep Sukoya Company Until She
+      Sobers Up, Okay?
+    author: yumobi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638323.jpg
+    rating: 0.0
+    date: '2026-10-08'
+    code: 638323
+    url: /works/638323/
   - title: TomoHaha to Onaji Yane no Shita de - Under The Same Roof With My Friend Mother
     author: takei-masaki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638764.jpg

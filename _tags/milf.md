@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "milf"
-work_count: 447
+work_count: 448
 works:
   - title: Life with Married Women Just Like a Manga 2 - Ch. 1-5
     author: hidemaru
@@ -2003,6 +2003,13 @@ works:
     date: '2026-04-23'
     code: 645676
     url: /works/645676/
+  - title: Mama ni Naru | Becoming a Mom
+    author: ty
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/645689.jpg
+    rating: 0.0
+    date: '2026-10-08'
+    code: 645689
+    url: /works/645689/
   - title: Otonari no Downer Oyako ni Shiboritorareru Hanashi
     author: gamogamo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/645896.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "femdom"
-work_count: 168
+work_count: 169
 works:
   - title: Life with Married Women Just Like a Manga 2 - Ch. 1-5
     author: hidemaru
@@ -426,6 +426,13 @@ works:
     date: '2026-05-26'
     code: 624573
     url: /works/624573/
+  - title: Various Full & Partial English Works
+    author: tokyo-mixed
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/631239.jpg
+    rating: 0.0
+    date: '2026-10-08'
+    code: 631239
+    url: /works/631239/
   - title: Ippai Kocho Kocho Shite Ageru kara Oshio Ippai Pyu Pyu Shite! | I'll tickle
       you a lot, so you'll squirt lots of cum!
     author: garyo

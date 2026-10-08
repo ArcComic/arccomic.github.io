@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "vtuber"
-work_count: 18
+work_count: 19
 works:
   - title: Giragira no Beach
     author: shimantogawa
@@ -52,6 +52,14 @@ works:
     date: '2026-07-16'
     code: 637709
     url: /works/637709/
+  - title: Yoi ga Sameru made Sukoya ni Tsukiatte ne | Keep Sukoya Company Until She
+      Sobers Up, Okay?
+    author: yumobi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638323.jpg
+    rating: 0.0
+    date: '2026-10-08'
+    code: 638323
+    url: /works/638323/
   - title: Shirayuki Mishiro & Enomiya Milk Saimin Sakunyuu Play Hon Matome
     author: rurimaru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/648800.jpg

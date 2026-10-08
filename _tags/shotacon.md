@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "shotacon"
-work_count: 137
+work_count: 138
 works:
   - title: Hitozuma Hyakka
     author: hase-tsubura
@@ -547,6 +547,13 @@ works:
     date: '2026-04-25'
     code: 645677
     url: /works/645677/
+  - title: Mama ni Naru | Becoming a Mom
+    author: ty
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/645689.jpg
+    rating: 0.0
+    date: '2026-10-08'
+    code: 645689
+    url: /works/645689/
   - title: Inaka ja Kore ga Joushiki dakara! | This Is Just How Things Are in the Countryside!
     author: chilt
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/646146.jpg

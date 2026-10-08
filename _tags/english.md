@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "english"
-work_count: 1619
+work_count: 1622
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -4718,6 +4718,13 @@ works:
     date: '2026-05-26'
     code: 631036
     url: /works/631036/
+  - title: Various Full & Partial English Works
+    author: tokyo-mixed
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/631239.jpg
+    rating: 0.0
+    date: '2026-10-08'
+    code: 631239
+    url: /works/631239/
   - title: Boku no Daisuki na Kaa-san to Omou Zonbun Sex Dekiru Hi 3 | My Fabulous Fuck
       Day with My Amazing Mommy 3
     author: higehurai
@@ -5182,6 +5189,14 @@ works:
     date: '2026-09-19'
     code: 638320
     url: /works/638320/
+  - title: Yoi ga Sameru made Sukoya ni Tsukiatte ne | Keep Sukoya Company Until She
+      Sobers Up, Okay?
+    author: yumobi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638323.jpg
+    rating: 0.0
+    date: '2026-10-08'
+    code: 638323
+    url: /works/638323/
   - title: Chinpo ni Katenai Onna-tachi
     author: oobayashi-mori
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638359.jpg
@@ -5783,6 +5798,13 @@ works:
     date: '2026-04-25'
     code: 645677
     url: /works/645677/
+  - title: Mama ni Naru | Becoming a Mom
+    author: ty
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/645689.jpg
+    rating: 0.0
+    date: '2026-10-08'
+    code: 645689
+    url: /works/645689/
   - title: 'Hanketsu, Hikokunin wa Watashi no Dildo Kei ni Shosuru | Verdict: The defendant
       is sentenced to my dildo punishment.'
     author: chotto-b-sen

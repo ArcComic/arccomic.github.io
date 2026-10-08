@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "no penetration"
-work_count: 38
+work_count: 39
 works:
   - title: Watashi-tachi no Seikoui Tokubetsu Jisshuu -Zengi Hen-
     author: guglielmo
@@ -84,6 +84,13 @@ works:
     date: '2026-09-24'
     code: 628126
     url: /works/628126/
+  - title: Various Full & Partial English Works
+    author: tokyo-mixed
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/631239.jpg
+    rating: 0.0
+    date: '2026-10-08'
+    code: 631239
+    url: /works/631239/
   - title: Idol no Kimi no Tonari no Boku 2
     author: negoya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/640988.jpg

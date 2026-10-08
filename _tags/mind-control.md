@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "mind control"
-work_count: 68
+work_count: 69
 works:
   - title: Ayami Hypno
     author: yasuhiro
@@ -252,6 +252,13 @@ works:
     date: '2026-04-24'
     code: 645612
     url: /works/645612/
+  - title: Mama ni Naru | Becoming a Mom
+    author: ty
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/645689.jpg
+    rating: 0.0
+    date: '2026-10-08'
+    code: 645689
+    url: /works/645689/
   - title: 'Mindless Lolis: Anya Forger Ep. 1-8'
     author: baba
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/646501.jpg
