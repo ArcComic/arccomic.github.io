@@ -54,7 +54,7 @@ works:
     url: /works/606166/
   - title: Kono Koi ni Kizuite Kureta | You Noticed My Love for You
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686107.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-10-07'
     code: 686107
     url: /works/686107/

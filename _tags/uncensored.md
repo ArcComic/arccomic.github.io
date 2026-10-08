@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "uncensored"
-work_count: 125
+work_count: 126
 works:
   - title: Netemo Sametemo | Be it Sleeping or Awake
     author: takasugi-kou
@@ -908,6 +908,13 @@ works:
     date: '2026-09-28'
     code: 684636
     url: /works/684636/
+  - title: Lizana's Adventure School Prey - Part 01
+    author: zetto
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685149.jpg
+    rating: 0.0
+    date: '2026-10-08'
+    code: 685149
+    url: /works/685149/
   - title: LATEST
     author: ratatatat74-mr-skull
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685961.jpg

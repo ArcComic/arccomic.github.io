@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "impregnation"
-work_count: 150
+work_count: 151
 works:
   - title: Kousa suru Osu to Mesu | Male and Female Crossing
     author: ootsuka-kotora
@@ -892,6 +892,13 @@ works:
     date: '2026-08-22'
     code: 674899
     url: /works/674899/
+  - title: Iiwa, Watashi no Karada Suki ni Shite
+    author: shunjou-shuusuke
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/675544.jpg
+    rating: 0.0
+    date: '2026-10-08'
+    code: 675544
+    url: /works/675544/
   - title: Osananajimi ga Joukyo-chuu ni Osananajimi no Chichi to Daita | While My Childhood
       Friend Was Away in Tokyo I Slept With His Dad
     author: mokuyama-hito

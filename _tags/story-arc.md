@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "story arc"
-work_count: 210
+work_count: 211
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -1205,6 +1205,13 @@ works:
     date: '2026-08-23'
     code: 674984
     url: /works/674984/
+  - title: Iiwa, Watashi no Karada Suki ni Shite
+    author: shunjou-shuusuke
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/675544.jpg
+    rating: 0.0
+    date: '2026-10-08'
+    code: 675544
+    url: /works/675544/
   - title: Irodori Kazoku
     author: sugi-g
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/676658.jpg

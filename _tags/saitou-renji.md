@@ -1,0 +1,13 @@
+---
+layout: tag
+tag_name: "saitou renji"
+work_count: 1
+works:
+  - title: Kaette Kita Onee-chan
+    author: saitou-renji
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684556.jpg
+    rating: 4.9
+    date: '2026-09-28'
+    code: 684556
+    url: /works/684556/
+---

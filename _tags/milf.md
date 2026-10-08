@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "milf"
-work_count: 444
+work_count: 447
 works:
   - title: Life with Married Women Just Like a Manga 2 - Ch. 1-5
     author: hidemaru
@@ -1571,6 +1571,13 @@ works:
     date: '2026-04-17'
     code: 612957
     url: /works/612957/
+  - title: Dad stole my gf so i try to steal his wife - CH3
+    author: alamama
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/613292.jpg
+    rating: 0.0
+    date: '2026-10-08'
+    code: 613292
+    url: /works/613292/
   - title: Fuufu Koukan Matching Appli ~DQN na Hitozuma ni Nakadashi Houshi~
     author: hachi-mega
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/613739.jpg
@@ -2758,6 +2765,13 @@ works:
     date: '2026-08-22'
     code: 674927
     url: /works/674927/
+  - title: Iiwa, Watashi no Karada Suki ni Shite
+    author: shunjou-shuusuke
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/675544.jpg
+    rating: 0.0
+    date: '2026-10-08'
+    code: 675544
+    url: /works/675544/
   - title: Mesu no Ie III ~Oyako wa Midare Aisareru~
     author: ame-arare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/675981.jpg
@@ -3196,6 +3210,13 @@ works:
     date: '2026-09-28'
     code: 684647
     url: /works/684647/
+  - title: Lizana's Adventure School Prey - Part 01
+    author: zetto
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685149.jpg
+    rating: 0.0
+    date: '2026-10-08'
+    code: 685149
+    url: /works/685149/
   - title: Jichikai no Hitozuma wa Totemo Ecchi Deshita. 4 Natsu matsuri moto jikkou
       iin Miyamori Chizuru-hen
     author: tsusauto

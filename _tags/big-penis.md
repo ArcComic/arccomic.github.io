@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big penis"
-work_count: 229
+work_count: 232
 works:
   - title: Tsuma no Imouto no Danna ga Ie ni Kiteiruyoudesu | My Sister-In-Law's Husband
       is Over
@@ -514,6 +514,13 @@ works:
     date: '2026-02-26'
     code: 610539
     url: /works/610539/
+  - title: Dad stole my gf so i try to steal his wife - CH3
+    author: alamama
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/613292.jpg
+    rating: 0.0
+    date: '2026-10-08'
+    code: 613292
+    url: /works/613292/
   - title: Rikujoubu no Bokukko Doukyuusei ga Chuunen Komon ni Mesu ni Sareru Ichibu
       Shijuu
     author: marushin
@@ -1356,6 +1363,13 @@ works:
     date: '2026-08-23'
     code: 675048
     url: /works/675048/
+  - title: Iiwa, Watashi no Karada Suki ni Shite
+    author: shunjou-shuusuke
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/675544.jpg
+    rating: 0.0
+    date: '2026-10-08'
+    code: 675544
+    url: /works/675544/
   - title: Osananajimi ga Joukyo-chuu ni Osananajimi no Chichi to Daita | While My Childhood
       Friend Was Away in Tokyo I Slept With His Dad
     author: mokuyama-hito
@@ -1622,6 +1636,13 @@ works:
     date: '2026-09-30'
     code: 684759
     url: /works/684759/
+  - title: Lizana's Adventure School Prey - Part 01
+    author: zetto
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685149.jpg
+    rating: 0.0
+    date: '2026-10-08'
+    code: 685149
+    url: /works/685149/
   - title: Oho-goe Koubi Do-hamari Onee-san ~Futanari Joshi Daisei Senyou Koki Ana~
       | An Onee-san Gets Totally Hooked on Sex That Makes Her Moan Like Crazy! ~And
       Becomes the Exclusive Fuck-Hole of a Futanari College Girl~

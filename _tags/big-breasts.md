@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big breasts"
-work_count: 1094
+work_count: 1097
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -2805,6 +2805,13 @@ works:
     date: '2026-10-01'
     code: 613188
     url: /works/613188/
+  - title: Dad stole my gf so i try to steal his wife - CH3
+    author: alamama
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/613292.jpg
+    rating: 0.0
+    date: '2026-10-08'
+    code: 613292
+    url: /works/613292/
   - title: Fuufu Koukan Matching Appli ~DQN na Hitozuma ni Nakadashi Houshi~
     author: hachi-mega
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/613739.jpg
@@ -6261,6 +6268,13 @@ works:
     date: '2026-08-23'
     code: 675048
     url: /works/675048/
+  - title: Iiwa, Watashi no Karada Suki ni Shite
+    author: shunjou-shuusuke
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/675544.jpg
+    rating: 0.0
+    date: '2026-10-08'
+    code: 675544
+    url: /works/675544/
   - title: Mesu no Ie III ~Oyako wa Midare Aisareru~
     author: ame-arare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/675981.jpg
@@ -7875,6 +7889,13 @@ works:
     date: '2026-10-01'
     code: 685147
     url: /works/685147/
+  - title: Lizana's Adventure School Prey - Part 01
+    author: zetto
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685149.jpg
+    rating: 0.0
+    date: '2026-10-08'
+    code: 685149
+    url: /works/685149/
   - title: Oho-goe Koubi Do-hamari Onee-san ~Futanari Joshi Daisei Senyou Koki Ana~
       | An Onee-san Gets Totally Hooked on Sex That Makes Her Moan Like Crazy! ~And
       Becomes the Exclusive Fuck-Hole of a Futanari College Girl~

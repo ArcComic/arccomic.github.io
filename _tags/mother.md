@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "mother"
-work_count: 164
+work_count: 166
 works:
   - title: Imitation Family + Bigibo Hen
     author: tohzai
@@ -546,6 +546,13 @@ works:
     date: '2026-04-14'
     code: 612083
     url: /works/612083/
+  - title: Dad stole my gf so i try to steal his wife - CH3
+    author: alamama
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/613292.jpg
+    rating: 0.0
+    date: '2026-10-08'
+    code: 613292
+    url: /works/613292/
   - title: Nishida Ke no Himegoto | Nishida Family Secret 1-3
     author: kojima-miu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/614205.jpg
@@ -1048,6 +1055,13 @@ works:
     date: '2026-08-21'
     code: 674719
     url: /works/674719/
+  - title: Iiwa, Watashi no Karada Suki ni Shite
+    author: shunjou-shuusuke
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/675544.jpg
+    rating: 0.0
+    date: '2026-10-08'
+    code: 675544
+    url: /works/675544/
   - title: Irodori Kazoku
     author: sugi-g
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/676658.jpg

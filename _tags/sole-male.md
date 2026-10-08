@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole male"
-work_count: 877
+work_count: 878
 works:
   - title: Adoration
     author: kishizuka-kenji
@@ -2500,6 +2500,13 @@ works:
     date: '2026-04-15'
     code: 612887
     url: /works/612887/
+  - title: Dad stole my gf so i try to steal his wife - CH3
+    author: alamama
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/613292.jpg
+    rating: 0.0
+    date: '2026-10-08'
+    code: 613292
+    url: /works/613292/
   - title: Onnanoko ga Ochita Saki wa, Ore no Musuko no Sakippo deshita | What She Fell
       On Was the Tip of My Dick Vol. 1-4
     author: hatokonro

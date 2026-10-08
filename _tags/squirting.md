@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "squirting"
-work_count: 132
+work_count: 133
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -978,6 +978,13 @@ works:
     date: '2026-09-30'
     code: 684759
     url: /works/684759/
+  - title: Lizana's Adventure School Prey - Part 01
+    author: zetto
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685149.jpg
+    rating: 0.0
+    date: '2026-10-08'
+    code: 685149
+    url: /works/685149/
   - title: Bakunyuu Shimai ni Oshiekomu | Training the Busty Sisters
     author: arakige-tanji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685928.jpg
