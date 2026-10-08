@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "the idolmaster"
-work_count: 26
+work_count: 27
 works:
+  - title: Hitorijime Cinderella
+    author: okagiri-shou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/179239.jpg
+    rating: 0.0
+    date: '2026-10-08'
+    code: 179239
+    url: /works/179239/
   - title: Another Produce -Kaede Takagaki-
     author: marushin
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/179531.jpg

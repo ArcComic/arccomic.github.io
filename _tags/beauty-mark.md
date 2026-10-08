@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "beauty mark"
-work_count: 199
+work_count: 200
 works:
   - title: Uragiri no Ai wa Mitsu no Aji | Treacherous Love Tastes Like Honey
     author: cuzukago
@@ -76,6 +76,13 @@ works:
     date: '2026-07-07'
     code: 321298
     url: /works/321298/
+  - title: Himitsu no Kamiura san | The Mysterious Kamiura-san
+    author: takeshisu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/324170.jpg
+    rating: 0.0
+    date: '2026-10-08'
+    code: 324170
+    url: /works/324170/
   - title: Sokukan Delivery
     author: ice
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/332781.jpg

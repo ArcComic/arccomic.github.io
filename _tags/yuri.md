@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "yuri"
-work_count: 53
+work_count: 54
 works:
+  - title: Himitsu no Kamiura san | The Mysterious Kamiura-san
+    author: takeshisu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/324170.jpg
+    rating: 0.0
+    date: '2026-10-08'
+    code: 324170
+    url: /works/324170/
   - title: Gekkoutou no Yume - Nyotaika Douwa ~Danshi Kinsei no Tou~
     author: mugen-no-sudadokei
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/387365.jpg

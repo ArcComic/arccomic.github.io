@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bondage"
-work_count: 96
+work_count: 97
 works:
   - title: Pai☆Panic ~Hasamareta Dekapai~
     author: inkey
@@ -10,6 +10,13 @@ works:
     date: '2026-10-02'
     code: 143217
     url: /works/143217/
+  - title: Hitorijime Cinderella
+    author: okagiri-shou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/179239.jpg
+    rating: 0.0
+    date: '2026-10-08'
+    code: 179239
+    url: /works/179239/
   - title: Pai☆Panic ~Hasamareta Dekapai~ 2
     author: inkey
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/284270.jpg

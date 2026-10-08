@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole female"
-work_count: 948
+work_count: 949
 works:
   - title: Adoration
     author: kishizuka-kenji
@@ -38,6 +38,13 @@ works:
     date: '2026-04-19'
     code: 163039
     url: /works/163039/
+  - title: Hitorijime Cinderella
+    author: okagiri-shou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/179239.jpg
+    rating: 0.0
+    date: '2026-10-08'
+    code: 179239
+    url: /works/179239/
   - title: Another Produce -Kaede Takagaki-
     author: marushin
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/179531.jpg

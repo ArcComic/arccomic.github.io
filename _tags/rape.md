@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "rape"
-work_count: 244
+work_count: 245
 works:
   - title: Office Love Scramble Ch. 1
     author: tohzai
@@ -10,6 +10,13 @@ works:
     date: '2026-09-08'
     code: 131165
     url: /works/131165/
+  - title: Hitorijime Cinderella
+    author: okagiri-shou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/179239.jpg
+    rating: 0.0
+    date: '2026-10-08'
+    code: 179239
+    url: /works/179239/
   - title: A-part | Apartment
     author: zero-no-mono
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/215019.jpg

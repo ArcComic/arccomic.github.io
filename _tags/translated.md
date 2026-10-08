@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "translated"
-work_count: 1580
+work_count: 1582
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -129,6 +129,13 @@ works:
     date: '2026-04-19'
     code: 163039
     url: /works/163039/
+  - title: Hitorijime Cinderella
+    author: okagiri-shou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/179239.jpg
+    rating: 0.0
+    date: '2026-10-08'
+    code: 179239
+    url: /works/179239/
   - title: Another Produce -Kaede Takagaki-
     author: marushin
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/179531.jpg
@@ -465,6 +472,13 @@ works:
     date: '2026-07-07'
     code: 321298
     url: /works/321298/
+  - title: Himitsu no Kamiura san | The Mysterious Kamiura-san
+    author: takeshisu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/324170.jpg
+    rating: 0.0
+    date: '2026-10-08'
+    code: 324170
+    url: /works/324170/
   - title: My Sugar Mama! 1-3
     author: azukiko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/328334.jpg

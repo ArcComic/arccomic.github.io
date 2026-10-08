@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "doujinshi"
-work_count: 1334
+work_count: 1336
 works:
   - title: Birthday
     author: hashiba-yachi
@@ -10,6 +10,13 @@ works:
     date: '2026-09-25'
     code: 135719
     url: /works/135719/
+  - title: Hitorijime Cinderella
+    author: okagiri-shou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/179239.jpg
+    rating: 0.0
+    date: '2026-10-08'
+    code: 179239
+    url: /works/179239/
   - title: Another Produce -Kaede Takagaki-
     author: marushin
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/179531.jpg
@@ -205,6 +212,13 @@ works:
     date: '2026-07-07'
     code: 321298
     url: /works/321298/
+  - title: Himitsu no Kamiura san | The Mysterious Kamiura-san
+    author: takeshisu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/324170.jpg
+    rating: 0.0
+    date: '2026-10-08'
+    code: 324170
+    url: /works/324170/
   - title: Ryoujoku Gakuen
     author: motchie
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/332375.jpg
