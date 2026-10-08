@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "femdom"
-work_count: 172
+work_count: 173
 works:
   - title: Life with Married Women Just Like a Manga 2 - Ch. 1-5
     author: hidemaru
@@ -45,6 +45,13 @@ works:
     date: '2026-03-07'
     code: 208522
     url: /works/208522/
+  - title: One Night Show Time
+    author: shinooka-homare
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/228426.jpg
+    rating: 0.0
+    date: '2026-10-08'
+    code: 228426
+    url: /works/228426/
   - title: Yuri no o saifu ni shite agemasu ne, Senpai | I'll turn you into Yuri's wallet,
       Senpai
     author: doskoinpo

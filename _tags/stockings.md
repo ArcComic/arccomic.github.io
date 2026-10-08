@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "stockings"
-work_count: 222
+work_count: 223
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -52,6 +52,13 @@ works:
     date: '2026-04-19'
     code: 190410
     url: /works/190410/
+  - title: One Night Show Time
+    author: shinooka-homare
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/228426.jpg
+    rating: 0.0
+    date: '2026-10-08'
+    code: 228426
+    url: /works/228426/
   - title: Watashi ni Mawashite Ura Kairanban
     author: yano-toshinori
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/238471.jpg

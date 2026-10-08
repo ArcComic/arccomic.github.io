@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "english"
-work_count: 1630
+work_count: 1631
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -178,6 +178,13 @@ works:
     date: '2026-03-09'
     code: 226386
     url: /works/226386/
+  - title: One Night Show Time
+    author: shinooka-homare
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/228426.jpg
+    rating: 0.0
+    date: '2026-10-08'
+    code: 228426
+    url: /works/228426/
   - title: Natsu dake Koibito - Summer only Lover [English] =Forbidden Fetish + Ser
       Maggot=
     author: yoshiura-kazuya

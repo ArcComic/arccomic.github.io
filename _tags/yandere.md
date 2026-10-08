@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "yandere"
-work_count: 31
+work_count: 32
 works:
   - title: Hitorijime Cinderella
     author: okagiri-shou
@@ -10,6 +10,13 @@ works:
     date: '2026-10-08'
     code: 179239
     url: /works/179239/
+  - title: One Night Show Time
+    author: shinooka-homare
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/228426.jpg
+    rating: 0.0
+    date: '2026-10-08'
+    code: 228426
+    url: /works/228426/
   - title: My Only Princess
     author: mackgee
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/335960.jpg

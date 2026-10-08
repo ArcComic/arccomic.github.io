@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "producer"
-work_count: 20
+work_count: 21
 works:
   - title: Hitorijime Cinderella
     author: okagiri-shou
@@ -17,6 +17,13 @@ works:
     date: '2026-02-26'
     code: 179531
     url: /works/179531/
+  - title: One Night Show Time
+    author: shinooka-homare
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/228426.jpg
+    rating: 0.0
+    date: '2026-10-08'
+    code: 228426
+    url: /works/228426/
   - title: Mizugi no Shita no Yuuwaku | Temptation Beneath The Swimsuit
     author: gustav
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/314536.jpg
