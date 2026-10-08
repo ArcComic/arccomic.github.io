@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sweating"
-work_count: 171
+work_count: 172
 works:
   - title: Kaisha de Iroiro | Gettin' Busy at the Office
     author: hara-shigeyuki
@@ -107,6 +107,13 @@ works:
     date: '2026-07-09'
     code: 317673
     url: /works/317673/
+  - title: My Sugar Mama! 1-3
+    author: azukiko
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/328334.jpg
+    rating: 0.0
+    date: '2026-10-08'
+    code: 328334
+    url: /works/328334/
   - title: Hito no Tsuma | Someone's Wife
     author: yumi-ichirou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/349247.jpg

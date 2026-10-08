@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole female"
-work_count: 945
+work_count: 947
 works:
   - title: Adoration
     author: kishizuka-kenji
@@ -268,6 +268,13 @@ works:
     date: '2026-07-07'
     code: 321298
     url: /works/321298/
+  - title: My Sugar Mama! 1-3
+    author: azukiko
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/328334.jpg
+    rating: 0.0
+    date: '2026-10-08'
+    code: 328334
+    url: /works/328334/
   - title: Kono Furin wa Otto no Tame "Anata, Yurushite…." To, Netorareru Tsuma | 這場外遇是為了老公「親愛的，原諒我…」這樣說著，為老公戴綠帽的妻子
     author: korosuke
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/328805.jpg
@@ -2137,6 +2144,13 @@ works:
     date: '2026-04-13'
     code: 570215
     url: /works/570215/
+  - title: Tomo-ochi Boshisoukan | Co-Depraved Mother-Son Incest
+    author: ozy
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/571271.jpg
+    rating: 0.0
+    date: '2026-10-08'
+    code: 571271
+    url: /works/571271/
   - title: Adult Game mo Ganbaru zoi | I'll Do My Best, Even if I'm Working on an Adult
       Game
     author: ootsuka-kotora

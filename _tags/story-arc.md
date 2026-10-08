@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "story arc"
-work_count: 211
+work_count: 212
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -73,6 +73,13 @@ works:
     date: '2026-10-02'
     code: 304474
     url: /works/304474/
+  - title: My Sugar Mama! 1-3
+    author: azukiko
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/328334.jpg
+    rating: 0.0
+    date: '2026-10-08'
+    code: 328334
+    url: /works/328334/
   - title: Kono Furin wa Otto no Tame "Anata, Yurushite…." To, Netorareru Tsuma | 這場外遇是為了老公「親愛的，原諒我…」這樣說著，為老公戴綠帽的妻子
     author: korosuke
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/328805.jpg

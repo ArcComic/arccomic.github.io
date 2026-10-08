@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "mother"
-work_count: 167
+work_count: 168
 works:
   - title: Imitation Family + Bigibo Hen
     author: tohzai
@@ -391,6 +391,13 @@ works:
     date: '2026-08-25'
     code: 563890
     url: /works/563890/
+  - title: Tomo-ochi Boshisoukan | Co-Depraved Mother-Son Incest
+    author: ozy
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/571271.jpg
+    rating: 0.0
+    date: '2026-10-08'
+    code: 571271
+    url: /works/571271/
   - title: Kimottama Kaa-chan to Kenka Bakari no Neet no Ore ga Kaa-san ni Nakadashi
       shite kara Nakayoku natta Hanashi - A story about How I, A NEET Who Always Fought
       with My Gutsy Mother,

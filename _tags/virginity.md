@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "virginity"
-work_count: 149
+work_count: 151
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -89,6 +89,13 @@ works:
     date: '2026-09-30'
     code: 312587
     url: /works/312587/
+  - title: My Sugar Mama! 1-3
+    author: azukiko
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/328334.jpg
+    rating: 0.0
+    date: '2026-10-08'
+    code: 328334
+    url: /works/328334/
   - title: Onee-chan ga Ecchi na Koto bakka Suru kara... | My older sister only does
       obscene things...
     author: danimaru
@@ -423,6 +430,13 @@ works:
     date: '2026-08-25'
     code: 563890
     url: /works/563890/
+  - title: Tomo-ochi Boshisoukan | Co-Depraved Mother-Son Incest
+    author: ozy
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/571271.jpg
+    rating: 0.0
+    date: '2026-10-08'
+    code: 571271
+    url: /works/571271/
   - title: Anata Senyou no Niku Onaho desu | Your very own meat onahole
     author: noe
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/581946.jpg

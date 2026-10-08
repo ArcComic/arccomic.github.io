@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole male"
-work_count: 880
+work_count: 882
 works:
   - title: Adoration
     author: kishizuka-kenji
@@ -253,6 +253,13 @@ works:
     date: '2026-07-07'
     code: 321298
     url: /works/321298/
+  - title: My Sugar Mama! 1-3
+    author: azukiko
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/328334.jpg
+    rating: 0.0
+    date: '2026-10-08'
+    code: 328334
+    url: /works/328334/
   - title: Sokukan Delivery
     author: ice
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/332781.jpg
@@ -1864,6 +1871,13 @@ works:
     date: '2026-04-19'
     code: 569195
     url: /works/569195/
+  - title: Tomo-ochi Boshisoukan | Co-Depraved Mother-Son Incest
+    author: ozy
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/571271.jpg
+    rating: 0.0
+    date: '2026-10-08'
+    code: 571271
+    url: /works/571271/
   - title: Adult Game mo Ganbaru zoi | I'll Do My Best, Even if I'm Working on an Adult
       Game
     author: ootsuka-kotora
