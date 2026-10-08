@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "cunnilingus"
-work_count: 160
+work_count: 161
 works:
   - title: Love Approach
     author: hanafuda-sakurano
@@ -154,6 +154,14 @@ works:
     date: '2026-09-18'
     code: 450112
     url: /works/450112/
+  - title: Bakunyuu Hitozuma Kinpatsu Gaikokujin Jokyoushi ga Mura no Inshuu de Kasshoku
+      Shota no Fudeoroshi o Suru Hanashi
+    author: mifune-seijirou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/457980.jpg
+    rating: 0.0
+    date: '2026-10-08'
+    code: 457980
+    url: /works/457980/
   - title: '"Koko Ijirareru no Sukidatta yona?" Rinjin wa, Hitozuma no Moto SeFri |
       “You Love When I Tease You Here, Don’t You?” My Neighbor Was My Former Sex Friend
       1'

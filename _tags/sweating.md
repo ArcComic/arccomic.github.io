@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sweating"
-work_count: 172
+work_count: 174
 works:
   - title: Kaisha de Iroiro | Gettin' Busy at the Office
     author: hara-shigeyuki
@@ -24,6 +24,13 @@ works:
     date: '2026-09-10'
     code: 119757
     url: /works/119757/
+  - title: Ikanishite Haha wa Onna o Kaihou Shitaka Ch. 1-14
+    author: mitarai-yuuki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/157644.jpg
+    rating: 0.0
+    date: '2026-10-08'
+    code: 157644
+    url: /works/157644/
   - title: Natsu dake Koibito - Summer only Lover [English] =Forbidden Fetish + Ser
       Maggot=
     author: yoshiura-kazuya
@@ -235,6 +242,14 @@ works:
     date: '2026-09-18'
     code: 450112
     url: /works/450112/
+  - title: Bakunyuu Hitozuma Kinpatsu Gaikokujin Jokyoushi ga Mura no Inshuu de Kasshoku
+      Shota no Fudeoroshi o Suru Hanashi
+    author: mifune-seijirou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/457980.jpg
+    rating: 0.0
+    date: '2026-10-08'
+    code: 457980
+    url: /works/457980/
   - title: Nearest To Real LOVE “The Great Escape” Al~The Secret second season~
     author: ozaki-miray
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/458866.jpg

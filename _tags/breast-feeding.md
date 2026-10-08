@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "breast feeding"
-work_count: 82
+work_count: 83
 works:
   - title: Oppai na Natsuyasumi 2 | The Summer Break of Boobs 2
     author: higashino-mikan
@@ -42,6 +42,14 @@ works:
     date: '2026-09-12'
     code: 449158
     url: /works/449158/
+  - title: Bakunyuu Hitozuma Kinpatsu Gaikokujin Jokyoushi ga Mura no Inshuu de Kasshoku
+      Shota no Fudeoroshi o Suru Hanashi
+    author: mifune-seijirou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/457980.jpg
+    rating: 0.0
+    date: '2026-10-08'
+    code: 457980
+    url: /works/457980/
   - title: Tokikoe Zenpen | Transcendence, The Beginning
     author: sakujirou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/498679.jpg

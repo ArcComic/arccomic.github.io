@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "urination"
-work_count: 45
+work_count: 46
 works:
   - title: Boku no Kazoku o Sarashimasu Ch. 3
     author: tanaka-aji
@@ -47,6 +47,14 @@ works:
     date: '2026-03-07'
     code: 446018
     url: /works/446018/
+  - title: Bakunyuu Hitozuma Kinpatsu Gaikokujin Jokyoushi ga Mura no Inshuu de Kasshoku
+      Shota no Fudeoroshi o Suru Hanashi
+    author: mifune-seijirou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/457980.jpg
+    rating: 0.0
+    date: '2026-10-08'
+    code: 457980
+    url: /works/457980/
   - title: Midara na Sensei wa Kirai desu ka? ~Sakura Aimi no Baai~ | Do you hate lewd
       teachers? ~The Case of Sakura Aimi~
     author: macho

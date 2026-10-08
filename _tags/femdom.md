@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "femdom"
-work_count: 169
+work_count: 170
 works:
   - title: Life with Married Women Just Like a Manga 2 - Ch. 1-5
     author: hidemaru
@@ -17,6 +17,13 @@ works:
     date: '2026-09-08'
     code: 131165
     url: /works/131165/
+  - title: Ikanishite Haha wa Onna o Kaihou Shitaka Ch. 1-14
+    author: mitarai-yuuki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/157644.jpg
+    rating: 0.0
+    date: '2026-10-08'
+    code: 157644
+    url: /works/157644/
   - title: Sei no Kenryoku | The Power of Sex
     author: tomohiro-kai
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/196238.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "armpit licking"
-work_count: 14
+work_count: 15
 works:
   - title: Homestay-chu no Doitsu Musume ga Issho ni Furo ni Haitte Kuru Wake | The
       Reason Why a German Girl Takes a Bath Together With Me on Her Homestay
@@ -18,6 +18,14 @@ works:
     date: '2026-09-12'
     code: 354384
     url: /works/354384/
+  - title: Bakunyuu Hitozuma Kinpatsu Gaikokujin Jokyoushi ga Mura no Inshuu de Kasshoku
+      Shota no Fudeoroshi o Suru Hanashi
+    author: mifune-seijirou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/457980.jpg
+    rating: 0.0
+    date: '2026-10-08'
+    code: 457980
+    url: /works/457980/
   - title: Onee-chan to Torokeru Kimochi SP 2 | The Melting Feeling with Onee-chan SP
       2
     author: sky

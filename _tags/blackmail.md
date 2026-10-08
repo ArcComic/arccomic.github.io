@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "blackmail"
-work_count: 142
+work_count: 143
 works:
   - title: Birthday
     author: hashiba-yachi
@@ -10,6 +10,13 @@ works:
     date: '2026-09-25'
     code: 135719
     url: /works/135719/
+  - title: Ikanishite Haha wa Onna o Kaihou Shitaka Ch. 1-14
+    author: mitarai-yuuki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/157644.jpg
+    rating: 0.0
+    date: '2026-10-08'
+    code: 157644
+    url: /works/157644/
   - title: Another Produce -Kaede Takagaki-
     author: marushin
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/179531.jpg

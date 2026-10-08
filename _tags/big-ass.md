@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big ass"
-work_count: 233
+work_count: 234
 works:
   - title: My Care Lady Ch. 1
     author: sugi-g
@@ -10,6 +10,13 @@ works:
     date: '2026-04-27'
     code: 139537
     url: /works/139537/
+  - title: Ikanishite Haha wa Onna o Kaihou Shitaka Ch. 1-14
+    author: mitarai-yuuki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/157644.jpg
+    rating: 0.0
+    date: '2026-10-08'
+    code: 157644
+    url: /works/157644/
   - title: Hustle! Danchizuma Ch. 1-18 END
     author: hidemaru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/161690.jpg

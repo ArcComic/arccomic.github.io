@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "hairy armpits"
-work_count: 12
+work_count: 13
 works:
   - title: Hikki Mother Fucker
     author: otochichi
@@ -32,6 +32,14 @@ works:
     date: '2026-09-08'
     code: 415046
     url: /works/415046/
+  - title: Bakunyuu Hitozuma Kinpatsu Gaikokujin Jokyoushi ga Mura no Inshuu de Kasshoku
+      Shota no Fudeoroshi o Suru Hanashi
+    author: mifune-seijirou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/457980.jpg
+    rating: 0.0
+    date: '2026-10-08'
+    code: 457980
+    url: /works/457980/
   - title: Iiwa Watashi no Karada Suki ni Shite Ch.1-2
     author: shunjou-shuusuke
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/561787.jpg
