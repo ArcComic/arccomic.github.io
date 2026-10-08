@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "multiple orgasms"
-work_count: 120
+work_count: 121
 works:
   - title: Rako Slip!
     author: bujidearu
@@ -238,6 +238,13 @@ works:
     date: '2026-04-25'
     code: 593112
     url: /works/593112/
+  - title: 'Dad stole My GF so I try to steal His Wife #2'
+    author: alamama
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/593684.jpg
+    rating: 0.0
+    date: '2026-10-08'
+    code: 593684
+    url: /works/593684/
   - title: SHAMAN'S SPECIAL SERVICE
     author: raikko9
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/597388.jpg

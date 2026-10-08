@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big areolae"
-work_count: 95
+work_count: 96
 works:
   - title: Soubo Soukan 2 | Twin mothers incest 2 FULL
     author: nanao-yukiji
@@ -210,6 +210,13 @@ works:
     date: '2026-03-07'
     code: 635266
     url: /works/635266/
+  - title: Boku no Mama wa... - My mom... icharabu kinshin amaama comic | My mom is...
+    author: yamaoku-midori
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/636527.jpg
+    rating: 0.0
+    date: '2026-10-08'
+    code: 636527
+    url: /works/636527/
   - title: Atarimae Sex ~Ane to Otouto no Nichijou~ | Natural Sex ~The Daily Life of
       an Older Sister and Younger Brother~
     author: mochichimaru

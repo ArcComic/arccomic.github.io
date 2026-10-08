@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "cervix penetration"
-work_count: 6
+work_count: 7
 works:
   - title: Shojo Gal, Futanari Ojou-sama no Onaho ni Naru | Virgin Gal who Becomes a
       Pocket Pussy for a Futanari Young Lady
@@ -33,6 +33,13 @@ works:
     date: '2026-10-08'
     code: 613292
     url: /works/613292/
+  - title: Boku no Mama wa... - My mom... icharabu kinshin amaama comic | My mom is...
+    author: yamaoku-midori
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/636527.jpg
+    rating: 0.0
+    date: '2026-10-08'
+    code: 636527
+    url: /works/636527/
   - title: A Certian MILF Loving Man's Love Affair File 03 -- Toaru Jukujo Zuki Danshi
       no Love Hame Koukanroku File 03
     author: tsukino-jyogi

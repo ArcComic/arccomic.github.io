@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "femdom"
-work_count: 171
+work_count: 172
 works:
   - title: Life with Married Women Just Like a Manga 2 - Ch. 1-5
     author: hidemaru
@@ -499,6 +499,13 @@ works:
     date: '2026-03-11'
     code: 635984
     url: /works/635984/
+  - title: Boku no Mama wa... - My mom... icharabu kinshin amaama comic | My mom is...
+    author: yamaoku-midori
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/636527.jpg
+    rating: 0.0
+    date: '2026-10-08'
+    code: 636527
+    url: /works/636527/
   - title: I Want To See The Cool & Smart Guy's Face Warped in Humiliation
     author: the-waidan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/636751.jpg

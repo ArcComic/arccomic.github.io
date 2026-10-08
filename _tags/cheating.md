@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "cheating"
-work_count: 366
+work_count: 367
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -1188,6 +1188,13 @@ works:
     date: '2026-08-21'
     code: 593575
     url: /works/593575/
+  - title: 'Dad stole My GF so I try to steal His Wife #2'
+    author: alamama
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/593684.jpg
+    rating: 0.0
+    date: '2026-10-08'
+    code: 593684
+    url: /works/593684/
   - title: 'Kaa-chan to Sex Shinai to Derarenai Heya ~Kuchiurusai Haha to Hankouki no
       Ore~ | A Room I Can''t Leave Without Having Incestuous Sex With My Mom: My Nagging
       Mother and Rebellious Me'

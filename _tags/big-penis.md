@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big penis"
-work_count: 233
+work_count: 234
 works:
   - title: Tsuma no Imouto no Danna ga Ie ni Kiteiruyoudesu | My Sister-In-Law's Husband
       is Over
@@ -467,6 +467,13 @@ works:
     date: '2026-08-21'
     code: 593575
     url: /works/593575/
+  - title: 'Dad stole My GF so I try to steal His Wife #2'
+    author: alamama
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/593684.jpg
+    rating: 0.0
+    date: '2026-10-08'
+    code: 593684
+    url: /works/593684/
   - title: Sakkin Zuke no Hitozuma -Kimura Mina to Kimodebu Oyaji no Ooya- 1 & 2
     author: hente
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/594884.jpg

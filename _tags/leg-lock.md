@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "leg lock"
-work_count: 85
+work_count: 86
 works:
   - title: My Care Lady Ch. 1
     author: sugi-g
@@ -382,6 +382,13 @@ works:
     date: '2026-03-07'
     code: 635266
     url: /works/635266/
+  - title: Boku no Mama wa... - My mom... icharabu kinshin amaama comic | My mom is...
+    author: yamaoku-midori
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/636527.jpg
+    rating: 0.0
+    date: '2026-10-08'
+    code: 636527
+    url: /works/636527/
   - title: Sougo Onanii de Osananajimi wa Itsumo Iku! ~Kore Ijou Iku to Tomaranai yo?~
       | My Childhood Friend Loves It When We Jerk Off Together! But What Will Happen
       If We Keep Going!?

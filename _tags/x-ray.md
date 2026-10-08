@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "x-ray"
-work_count: 317
+work_count: 319
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -665,6 +665,13 @@ works:
     date: '2026-04-25'
     code: 593677
     url: /works/593677/
+  - title: 'Dad stole My GF so I try to steal His Wife #2'
+    author: alamama
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/593684.jpg
+    rating: 0.0
+    date: '2026-10-08'
+    code: 593684
+    url: /works/593684/
   - title: Yuuhan no Ato wa Oba-chan to... | After Dinner, My Aunt and I...
     author: natsuzo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/594462.jpg
@@ -975,6 +982,13 @@ works:
     date: '2026-10-07'
     code: 636417
     url: /works/636417/
+  - title: Boku no Mama wa... - My mom... icharabu kinshin amaama comic | My mom is...
+    author: yamaoku-midori
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/636527.jpg
+    rating: 0.0
+    date: '2026-10-08'
+    code: 636527
+    url: /works/636527/
   - title: Imouto Oppai de Sukusuku Seikatsu
     author: asaomi-shimura
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/636802.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "hairy armpits"
-work_count: 13
+work_count: 14
 works:
   - title: Hikki Mother Fucker
     author: otochichi
@@ -54,6 +54,13 @@ works:
     date: '2026-08-25'
     code: 592307
     url: /works/592307/
+  - title: 'Dad stole My GF so I try to steal His Wife #2'
+    author: alamama
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/593684.jpg
+    rating: 0.0
+    date: '2026-10-08'
+    code: 593684
+    url: /works/593684/
   - title: Shounen yo, Watashi o Idake. 少年,抱住我
     author: torii-yoshitsuna
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/599514.jpg
