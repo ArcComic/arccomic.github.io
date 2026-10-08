@@ -1,12 +1,12 @@
 ---
 layout: tag
 tag_name: "the idolmaster"
-work_count: 28
+work_count: 29
 works:
   - title: Hitorijime Cinderella
     author: okagiri-shou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/179239.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-08'
     code: 179239
     url: /works/179239/
@@ -20,10 +20,17 @@ works:
   - title: One Night Show Time
     author: shinooka-homare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/228426.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-10-08'
     code: 228426
     url: /works/228426/
+  - title: SWEET MOON 3
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/287467.jpg
+    rating: 0.0
+    date: '2026-10-08'
+    code: 287467
+    url: /works/287467/
   - title: Mizugi no Shita no Yuuwaku | Temptation Beneath The Swimsuit
     author: gustav
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/314536.jpg

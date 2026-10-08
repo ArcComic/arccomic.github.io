@@ -27,7 +27,7 @@ works:
   - title: Ikanishite Haha wa Onna o Kaihou Shitaka Ch. 1-14
     author: mitarai-yuuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/157644.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-10-08'
     code: 157644
     url: /works/157644/
@@ -99,7 +99,7 @@ works:
   - title: My Sugar Mama! 1-3
     author: azukiko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/328334.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-10-08'
     code: 328334
     url: /works/328334/
@@ -308,7 +308,7 @@ works:
       Shota no Fudeoroshi o Suru Hanashi
     author: mifune-seijirou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/457980.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-10-08'
     code: 457980
     url: /works/457980/
@@ -448,7 +448,7 @@ works:
   - title: Tomo-ochi Boshisoukan | Co-Depraved Mother-Son Incest
     author: ozy
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/571271.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-10-08'
     code: 571271
     url: /works/571271/
@@ -669,7 +669,7 @@ works:
   - title: Boku no Mama wa... - My mom... icharabu kinshin amaama comic | My mom is...
     author: yamaoku-midori
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/636527.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-10-08'
     code: 636527
     url: /works/636527/
@@ -685,7 +685,7 @@ works:
       Sobers Up, Okay?
     author: yumobi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638323.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-08'
     code: 638323
     url: /works/638323/
@@ -1026,7 +1026,7 @@ works:
   - title: Iiwa, Watashi no Karada Suki ni Shite
     author: shunjou-shuusuke
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/675544.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-08'
     code: 675544
     url: /works/675544/

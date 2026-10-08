@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big ass"
-work_count: 234
+work_count: 235
 works:
   - title: My Care Lady Ch. 1
     author: sugi-g
@@ -13,7 +13,7 @@ works:
   - title: Ikanishite Haha wa Onna o Kaihou Shitaka Ch. 1-14
     author: mitarai-yuuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/157644.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-10-08'
     code: 157644
     url: /works/157644/
@@ -24,6 +24,13 @@ works:
     date: '2026-04-17'
     code: 161690
     url: /works/161690/
+  - title: SWEET MOON 3
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/287467.jpg
+    rating: 0.0
+    date: '2026-10-08'
+    code: 287467
+    url: /works/287467/
   - title: Akarui Kazoku Seikatsu
     author: pistonring-nishizawa
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/304307.jpg
@@ -1304,7 +1311,7 @@ works:
   - title: Iiwa, Watashi no Karada Suki ni Shite
     author: shunjou-shuusuke
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/675544.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-08'
     code: 675544
     url: /works/675544/
@@ -1685,7 +1692,7 @@ works:
   - title: Lizana's Adventure School Prey - Part 01
     author: zetto
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685149.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-10-08'
     code: 685149
     url: /works/685149/

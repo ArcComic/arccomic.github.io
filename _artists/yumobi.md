@@ -12,7 +12,7 @@ works:
   - title: Yoi ga Sameru made Sukoya ni Tsukiatte ne | Keep Sukoya Company Until She
       Sobers Up, Okay?
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638323.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-08'
     code: 638323
     url: /works/638323/

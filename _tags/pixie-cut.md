@@ -13,7 +13,7 @@ works:
   - title: Himitsu no Kamiura san | The Mysterious Kamiura-san
     author: takeshisu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/324170.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-10-08'
     code: 324170
     url: /works/324170/
@@ -204,7 +204,7 @@ works:
   - title: 'Dad stole My GF so I try to steal His Wife #2'
     author: alamama
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/593684.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-10-08'
     code: 593684
     url: /works/593684/
@@ -527,7 +527,7 @@ works:
   - title: Iiwa, Watashi no Karada Suki ni Shite
     author: shunjou-shuusuke
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/675544.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-08'
     code: 675544
     url: /works/675544/

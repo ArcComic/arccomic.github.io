@@ -407,7 +407,7 @@ works:
       Shota no Fudeoroshi o Suru Hanashi
     author: mifune-seijirou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/457980.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-10-08'
     code: 457980
     url: /works/457980/
@@ -1159,7 +1159,7 @@ works:
   - title: 'Dad stole My GF so I try to steal His Wife #2'
     author: alamama
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/593684.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-10-08'
     code: 593684
     url: /works/593684/
@@ -2547,7 +2547,7 @@ works:
   - title: Iiwa, Watashi no Karada Suki ni Shite
     author: shunjou-shuusuke
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/675544.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-08'
     code: 675544
     url: /works/675544/
@@ -3097,7 +3097,7 @@ works:
   - title: Lizana's Adventure School Prey - Part 01
     author: zetto
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685149.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-10-08'
     code: 685149
     url: /works/685149/

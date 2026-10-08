@@ -286,7 +286,7 @@ works:
   - title: Mama ni Naru | Becoming a Mom
     author: ty
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/645689.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-10-08'
     code: 645689
     url: /works/645689/
@@ -435,7 +435,7 @@ works:
   - title: Iiwa, Watashi no Karada Suki ni Shite
     author: shunjou-shuusuke
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/675544.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-08'
     code: 675544
     url: /works/675544/

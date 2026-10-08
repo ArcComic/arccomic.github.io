@@ -20,14 +20,14 @@ works:
   - title: Ikanishite Haha wa Onna o Kaihou Shitaka Ch. 1-14
     author: mitarai-yuuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/157644.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-10-08'
     code: 157644
     url: /works/157644/
   - title: Hitorijime Cinderella
     author: okagiri-shou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/179239.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-08'
     code: 179239
     url: /works/179239/
@@ -48,7 +48,7 @@ works:
   - title: One Night Show Time
     author: shinooka-homare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/228426.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-10-08'
     code: 228426
     url: /works/228426/
@@ -450,7 +450,7 @@ works:
   - title: Various Full & Partial English Works
     author: tokyo-mixed
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/631239.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-08'
     code: 631239
     url: /works/631239/
@@ -509,7 +509,7 @@ works:
   - title: Boku no Mama wa... - My mom... icharabu kinshin amaama comic | My mom is...
     author: yamaoku-midori
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/636527.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-10-08'
     code: 636527
     url: /works/636527/

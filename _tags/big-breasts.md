@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big breasts"
-work_count: 1104
+work_count: 1105
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -41,7 +41,7 @@ works:
   - title: Ikanishite Haha wa Onna o Kaihou Shitaka Ch. 1-14
     author: mitarai-yuuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/157644.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-10-08'
     code: 157644
     url: /works/157644/
@@ -172,6 +172,13 @@ works:
     date: '2026-09-08'
     code: 287208
     url: /works/287208/
+  - title: SWEET MOON 3
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/287467.jpg
+    rating: 0.0
+    date: '2026-10-08'
+    code: 287467
+    url: /works/287467/
   - title: Oppai na Natsuyasumi 2 | The Summer Break of Boobs 2
     author: higashino-mikan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/292454.jpg
@@ -291,7 +298,7 @@ works:
   - title: My Sugar Mama! 1-3
     author: azukiko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/328334.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-10-08'
     code: 328334
     url: /works/328334/
@@ -913,7 +920,7 @@ works:
       Shota no Fudeoroshi o Suru Hanashi
     author: mifune-seijirou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/457980.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-10-08'
     code: 457980
     url: /works/457980/
@@ -2092,7 +2099,7 @@ works:
   - title: Tomo-ochi Boshisoukan | Co-Depraved Mother-Son Incest
     author: ozy
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/571271.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-10-08'
     code: 571271
     url: /works/571271/
@@ -2499,7 +2506,7 @@ works:
   - title: 'Dad stole My GF so I try to steal His Wife #2'
     author: alamama
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/593684.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-10-08'
     code: 593684
     url: /works/593684/
@@ -2844,7 +2851,7 @@ works:
   - title: Dad stole my gf so i try to steal his wife - CH3
     author: alamama
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/613292.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-10-08'
     code: 613292
     url: /works/613292/
@@ -3530,7 +3537,7 @@ works:
       Sobers Up, Okay?
     author: yumobi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638323.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-08'
     code: 638323
     url: /works/638323/
@@ -4012,7 +4019,7 @@ works:
   - title: Mama ni Naru | Becoming a Mom
     author: ty
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/645689.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-10-08'
     code: 645689
     url: /works/645689/
@@ -6322,7 +6329,7 @@ works:
   - title: Iiwa, Watashi no Karada Suki ni Shite
     author: shunjou-shuusuke
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/675544.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-08'
     code: 675544
     url: /works/675544/
@@ -7943,7 +7950,7 @@ works:
   - title: Lizana's Adventure School Prey - Part 01
     author: zetto
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685149.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-10-08'
     code: 685149
     url: /works/685149/

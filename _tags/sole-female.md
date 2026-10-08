@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole female"
-work_count: 950
+work_count: 951
 works:
   - title: Adoration
     author: kishizuka-kenji
@@ -41,7 +41,7 @@ works:
   - title: Hitorijime Cinderella
     author: okagiri-shou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/179239.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-08'
     code: 179239
     url: /works/179239/
@@ -69,7 +69,7 @@ works:
   - title: One Night Show Time
     author: shinooka-homare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/228426.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-10-08'
     code: 228426
     url: /works/228426/
@@ -152,6 +152,13 @@ works:
     date: '2026-09-08'
     code: 287208
     url: /works/287208/
+  - title: SWEET MOON 3
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/287467.jpg
+    rating: 0.0
+    date: '2026-10-08'
+    code: 287467
+    url: /works/287467/
   - title: Sensei wa Shougakusei ga Suki | Sensei Loves Elementary Schoolers
     author: fuyuno-mikan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/289094.jpg
@@ -285,7 +292,7 @@ works:
   - title: My Sugar Mama! 1-3
     author: azukiko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/328334.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-10-08'
     code: 328334
     url: /works/328334/
@@ -1031,7 +1038,7 @@ works:
       Shota no Fudeoroshi o Suru Hanashi
     author: mifune-seijirou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/457980.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-10-08'
     code: 457980
     url: /works/457980/
@@ -2169,7 +2176,7 @@ works:
   - title: Tomo-ochi Boshisoukan | Co-Depraved Mother-Son Incest
     author: ozy
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/571271.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-10-08'
     code: 571271
     url: /works/571271/
@@ -3377,7 +3384,7 @@ works:
       Sobers Up, Okay?
     author: yumobi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638323.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-08'
     code: 638323
     url: /works/638323/
@@ -3792,7 +3799,7 @@ works:
   - title: Mama ni Naru | Becoming a Mom
     author: ty
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/645689.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-10-08'
     code: 645689
     url: /works/645689/

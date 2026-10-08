@@ -29,7 +29,7 @@ works:
       Shota no Fudeoroshi o Suru Hanashi
     author: mifune-seijirou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/457980.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-10-08'
     code: 457980
     url: /works/457980/
@@ -213,7 +213,7 @@ works:
   - title: Boku no Mama wa... - My mom... icharabu kinshin amaama comic | My mom is...
     author: yamaoku-midori
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/636527.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-10-08'
     code: 636527
     url: /works/636527/

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "doujinshi"
-work_count: 1339
+work_count: 1340
 works:
   - title: Birthday
     author: hashiba-yachi
@@ -13,7 +13,7 @@ works:
   - title: Hitorijime Cinderella
     author: okagiri-shou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/179239.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-08'
     code: 179239
     url: /works/179239/
@@ -41,7 +41,7 @@ works:
   - title: One Night Show Time
     author: shinooka-homare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/228426.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-10-08'
     code: 228426
     url: /works/228426/
@@ -89,6 +89,13 @@ works:
     date: '2026-09-25'
     code: 284573
     url: /works/284573/
+  - title: SWEET MOON 3
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/287467.jpg
+    rating: 0.0
+    date: '2026-10-08'
+    code: 287467
+    url: /works/287467/
   - title: Netorare Ibe Kiba Shizuka | The Netorare of Kiba Shizuka
     author: terasu-mc
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/288292.jpg
@@ -222,7 +229,7 @@ works:
   - title: Himitsu no Kamiura san | The Mysterious Kamiura-san
     author: takeshisu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/324170.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-10-08'
     code: 324170
     url: /works/324170/
@@ -975,7 +982,7 @@ works:
       Shota no Fudeoroshi o Suru Hanashi
     author: mifune-seijirou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/457980.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-10-08'
     code: 457980
     url: /works/457980/
@@ -2976,7 +2983,7 @@ works:
   - title: 'Dad stole My GF so I try to steal His Wife #2'
     author: alamama
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/593684.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-10-08'
     code: 593684
     url: /works/593684/
@@ -3746,7 +3753,7 @@ works:
   - title: Various Full & Partial English Works
     author: tokyo-mixed
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/631239.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-08'
     code: 631239
     url: /works/631239/
@@ -4151,7 +4158,7 @@ works:
   - title: Boku no Mama wa... - My mom... icharabu kinshin amaama comic | My mom is...
     author: yamaoku-midori
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/636527.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-10-08'
     code: 636527
     url: /works/636527/
@@ -4269,7 +4276,7 @@ works:
       Sobers Up, Okay?
     author: yumobi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638323.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-08'
     code: 638323
     url: /works/638323/
@@ -4878,7 +4885,7 @@ works:
   - title: Mama ni Naru | Becoming a Mom
     author: ty
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/645689.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-10-08'
     code: 645689
     url: /works/645689/
@@ -9606,7 +9613,7 @@ works:
   - title: Lizana's Adventure School Prey - Part 01
     author: zetto
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685149.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-10-08'
     code: 685149
     url: /works/685149/
