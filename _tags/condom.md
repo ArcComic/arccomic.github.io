@@ -69,7 +69,7 @@ works:
   - title: Futarikiri - Konna ni mo Itooshii 1.75
     author: nohito
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/283723.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-10-09'
     code: 283723
     url: /works/283723/
@@ -690,7 +690,7 @@ works:
   - title: Okaasan Ha Soap No Nioi | Mommy Smells Like Soap
     author: sakai-hamachi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/602651.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-10-09'
     code: 602651
     url: /works/602651/
@@ -818,7 +818,7 @@ works:
   - title: Condom Uri no Shoujo | The Condom Selling Girl
     author: bs3
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/631157.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-10-09'
     code: 631157
     url: /works/631157/

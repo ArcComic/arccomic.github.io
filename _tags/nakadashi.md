@@ -112,7 +112,7 @@ works:
   - title: Futarikiri - Konna ni mo Itooshii 1.75
     author: nohito
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/283723.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-10-09'
     code: 283723
     url: /works/283723/
@@ -162,7 +162,7 @@ works:
   - title: Ritsuko wa Kozukuri ga Shitai
     author: yokkora
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/297834.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-10-09'
     code: 297834
     url: /works/297834/
@@ -1262,7 +1262,7 @@ works:
   - title: Kore wa Fukakouryoku desu node
     author: shiba-aya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/519927.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-09'
     code: 519927
     url: /works/519927/
@@ -2127,7 +2127,7 @@ works:
   - title: Okaasan Ha Soap No Nioi | Mommy Smells Like Soap
     author: sakai-hamachi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/602651.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-10-09'
     code: 602651
     url: /works/602651/
@@ -2302,7 +2302,7 @@ works:
   - title: Nanako-san
     author: napata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/614032.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-10-09'
     code: 614032
     url: /works/614032/
@@ -3191,7 +3191,7 @@ works:
   - title: AT THE BEACH - CH1
     author: alamama
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/644231.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-09'
     code: 644231
     url: /works/644231/
@@ -4941,7 +4941,7 @@ works:
   - title: Dad stole my gf so i try to steal his wife - CH4
     author: alamama
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/677170.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-10-09'
     code: 677170
     url: /works/677170/

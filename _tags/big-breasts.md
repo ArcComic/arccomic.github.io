@@ -13,7 +13,7 @@ works:
   - title: MAGIC SEVEN
     author: asuhiro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/106500.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-09'
     code: 106500
     url: /works/106500/
@@ -168,7 +168,7 @@ works:
   - title: Futarikiri - Konna ni mo Itooshii 1.75
     author: nohito
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/283723.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-10-09'
     code: 283723
     url: /works/283723/
@@ -218,7 +218,7 @@ works:
   - title: Ritsuko wa Kozukuri ga Shitai
     author: yokkora
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/297834.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-10-09'
     code: 297834
     url: /works/297834/
@@ -605,7 +605,7 @@ works:
   - title: Police Story
     author: nekoi-mie
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/399776.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-09'
     code: 399776
     url: /works/399776/
@@ -2534,7 +2534,7 @@ works:
   - title: 'Dad stole My GF so I try to steal His Wife #1'
     author: alamama
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/593683.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-10-09'
     code: 593683
     url: /works/593683/
@@ -2681,7 +2681,7 @@ works:
   - title: Okaasan Ha Soap No Nioi | Mommy Smells Like Soap
     author: sakai-hamachi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/602651.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-10-09'
     code: 602651
     url: /works/602651/
@@ -3172,7 +3172,7 @@ works:
   - title: Condom Uri no Shoujo | The Condom Selling Girl
     author: bs3
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/631157.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-10-09'
     code: 631157
     url: /works/631157/
@@ -3908,7 +3908,7 @@ works:
   - title: AT THE BEACH - CH1
     author: alamama
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/644231.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-09'
     code: 644231
     url: /works/644231/
@@ -5410,7 +5410,7 @@ works:
       for their sons.
     author: yamaoku-midori
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662291.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-10-09'
     code: 662291
     url: /works/662291/
@@ -6490,7 +6490,7 @@ works:
   - title: Dad stole my gf so i try to steal his wife - CH4
     author: alamama
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/677170.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-10-09'
     code: 677170
     url: /works/677170/

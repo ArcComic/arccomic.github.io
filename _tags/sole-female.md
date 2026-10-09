@@ -13,7 +13,7 @@ works:
   - title: Mika-ppoi no!
     author: napata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/137236.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-10-09'
     code: 137236
     url: /works/137236/
@@ -48,7 +48,7 @@ works:
   - title: Ashita wa Kinenbi
     author: alpha
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/169587.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-10-09'
     code: 169587
     url: /works/169587/
@@ -148,7 +148,7 @@ works:
   - title: Konna ni mo Itooshii -After Zero-
     author: nohito
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/276942.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-09'
     code: 276942
     url: /works/276942/
@@ -162,7 +162,7 @@ works:
   - title: Futarikiri - Konna ni mo Itooshii 1.75
     author: nohito
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/283723.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-10-09'
     code: 283723
     url: /works/283723/
@@ -226,7 +226,7 @@ works:
   - title: Ritsuko wa Kozukuri ga Shitai
     author: yokkora
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/297834.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-10-09'
     code: 297834
     url: /works/297834/
@@ -709,7 +709,7 @@ works:
   - title: Police Story
     author: nekoi-mie
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/399776.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-09'
     code: 399776
     url: /works/399776/
@@ -1646,7 +1646,7 @@ works:
   - title: Kore wa Fukakouryoku desu node
     author: shiba-aya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/519927.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-09'
     code: 519927
     url: /works/519927/
@@ -2590,7 +2590,7 @@ works:
   - title: 'Dad stole My GF so I try to steal His Wife #1'
     author: alamama
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/593683.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-10-09'
     code: 593683
     url: /works/593683/
@@ -2716,7 +2716,7 @@ works:
   - title: Okaasan Ha Soap No Nioi | Mommy Smells Like Soap
     author: sakai-hamachi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/602651.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-10-09'
     code: 602651
     url: /works/602651/
@@ -2914,7 +2914,7 @@ works:
   - title: Nanako-san
     author: napata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/614032.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-10-09'
     code: 614032
     url: /works/614032/
@@ -4555,7 +4555,7 @@ works:
   - title: Haruka After 3
     author: tsurui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/656583.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-10-09'
     code: 656583
     url: /works/656583/

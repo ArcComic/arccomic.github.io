@@ -5,7 +5,7 @@ work_count: 3
 works:
   - title: Condom Uri no Shoujo | The Condom Selling Girl
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/631157.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-10-09'
     code: 631157
     url: /works/631157/

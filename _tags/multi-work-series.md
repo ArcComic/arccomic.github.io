@@ -6,14 +6,14 @@ works:
   - title: Konna ni mo Itooshii -After Zero-
     author: nohito
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/276942.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-09'
     code: 276942
     url: /works/276942/
   - title: Futarikiri - Konna ni mo Itooshii 1.75
     author: nohito
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/283723.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-10-09'
     code: 283723
     url: /works/283723/
@@ -48,7 +48,7 @@ works:
   - title: Ritsuko wa Kozukuri ga Shitai
     author: yokkora
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/297834.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-10-09'
     code: 297834
     url: /works/297834/
@@ -2302,7 +2302,7 @@ works:
   - title: Dad stole my gf so i try to steal his wife - CH4
     author: alamama
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/677170.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-10-09'
     code: 677170
     url: /works/677170/

@@ -204,7 +204,7 @@ works:
   - title: 'Dad stole My GF so I try to steal His Wife #1'
     author: alamama
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/593683.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-10-09'
     code: 593683
     url: /works/593683/

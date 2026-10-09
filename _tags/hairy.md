@@ -6,7 +6,7 @@ works:
   - title: MAGIC SEVEN
     author: asuhiro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/106500.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-09'
     code: 106500
     url: /works/106500/
@@ -77,14 +77,14 @@ works:
   - title: Konna ni mo Itooshii -After Zero-
     author: nohito
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/276942.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-09'
     code: 276942
     url: /works/276942/
   - title: Futarikiri - Konna ni mo Itooshii 1.75
     author: nohito
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/283723.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-10-09'
     code: 283723
     url: /works/283723/
@@ -112,7 +112,7 @@ works:
   - title: Ritsuko wa Kozukuri ga Shitai
     author: yokkora
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/297834.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-10-09'
     code: 297834
     url: /works/297834/
@@ -263,7 +263,7 @@ works:
   - title: Police Story
     author: nekoi-mie
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/399776.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-09'
     code: 399776
     url: /works/399776/
@@ -944,7 +944,7 @@ works:
   - title: Okaasan Ha Soap No Nioi | Mommy Smells Like Soap
     author: sakai-hamachi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/602651.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-10-09'
     code: 602651
     url: /works/602651/
@@ -1001,7 +1001,7 @@ works:
   - title: Nanako-san
     author: napata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/614032.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-10-09'
     code: 614032
     url: /works/614032/

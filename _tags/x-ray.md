@@ -35,7 +35,7 @@ works:
   - title: Ritsuko wa Kozukuri ga Shitai
     author: yokkora
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/297834.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-10-09'
     code: 297834
     url: /works/297834/
@@ -358,7 +358,7 @@ works:
   - title: Kore wa Fukakouryoku desu node
     author: shiba-aya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/519927.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-09'
     code: 519927
     url: /works/519927/
@@ -718,7 +718,7 @@ works:
   - title: Okaasan Ha Soap No Nioi | Mommy Smells Like Soap
     author: sakai-hamachi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/602651.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-10-09'
     code: 602651
     url: /works/602651/
@@ -1122,7 +1122,7 @@ works:
   - title: AT THE BEACH - CH1
     author: alamama
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/644231.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-09'
     code: 644231
     url: /works/644231/

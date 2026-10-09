@@ -470,7 +470,7 @@ works:
   - title: 'Dad stole My GF so I try to steal His Wife #1'
     author: alamama
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/593683.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-10-09'
     code: 593683
     url: /works/593683/
@@ -506,7 +506,7 @@ works:
   - title: Okaasan Ha Soap No Nioi | Mommy Smells Like Soap
     author: sakai-hamachi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/602651.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-10-09'
     code: 602651
     url: /works/602651/
@@ -568,7 +568,7 @@ works:
   - title: Condom Uri no Shoujo | The Condom Selling Girl
     author: bs3
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/631157.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-10-09'
     code: 631157
     url: /works/631157/
@@ -784,7 +784,7 @@ works:
   - title: AT THE BEACH - CH1
     author: alamama
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/644231.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-09'
     code: 644231
     url: /works/644231/
@@ -1433,7 +1433,7 @@ works:
   - title: Dad stole my gf so i try to steal his wife - CH4
     author: alamama
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/677170.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-10-09'
     code: 677170
     url: /works/677170/
