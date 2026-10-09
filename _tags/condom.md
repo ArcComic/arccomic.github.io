@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "condom"
-work_count: 216
+work_count: 217
 works:
   - title: Kaisha de Iroiro | Gettin' Busy at the Office
     author: hara-shigeyuki
@@ -66,6 +66,13 @@ works:
     date: '2026-09-06'
     code: 276396
     url: /works/276396/
+  - title: Futarikiri - Konna ni mo Itooshii 1.75
+    author: nohito
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/283723.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 283723
+    url: /works/283723/
   - title: Netorare Ibe Kiba Shizuka | The Netorare of Kiba Shizuka
     author: terasu-mc
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/288292.jpg

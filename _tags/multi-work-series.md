@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "multi-work series"
-work_count: 375
+work_count: 377
 works:
+  - title: Futarikiri - Konna ni mo Itooshii 1.75
+    author: nohito
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/283723.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 283723
+    url: /works/283723/
   - title: Pai☆Panic ~Hasamareta Dekapai~ 2
     author: inkey
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/284270.jpg
@@ -31,6 +38,13 @@ works:
     date: '2026-04-23'
     code: 296282
     url: /works/296282/
+  - title: Ritsuko wa Kozukuri ga Shitai
+    author: yokkora
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/297834.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 297834
+    url: /works/297834/
   - title: Itomusubi Vol. 2
     author: bekotarou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/311755.jpg

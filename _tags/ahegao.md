@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "ahegao"
-work_count: 307
+work_count: 308
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -47,6 +47,13 @@ works:
     date: '2026-07-17'
     code: 289523
     url: /works/289523/
+  - title: Ritsuko wa Kozukuri ga Shitai
+    author: yokkora
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/297834.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 297834
+    url: /works/297834/
   - title: Asuna-san ga Agil ni Netorareru Ohanashi
     author: fujimiya-siryu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/300943.jpg

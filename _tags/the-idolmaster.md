@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "the idolmaster"
-work_count: 29
+work_count: 32
 works:
   - title: Hitorijime Cinderella
     author: okagiri-shou
@@ -24,6 +24,13 @@ works:
     date: '2026-10-08'
     code: 228426
     url: /works/228426/
+  - title: Futarikiri - Konna ni mo Itooshii 1.75
+    author: nohito
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/283723.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 283723
+    url: /works/283723/
   - title: SWEET MOON 3
     author: tsurui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/287467.jpg
@@ -31,6 +38,13 @@ works:
     date: '2026-10-08'
     code: 287467
     url: /works/287467/
+  - title: Ritsuko wa Kozukuri ga Shitai
+    author: yokkora
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/297834.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 297834
+    url: /works/297834/
   - title: Mizugi no Shita no Yuuwaku | Temptation Beneath The Swimsuit
     author: gustav
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/314536.jpg
@@ -96,6 +110,14 @@ works:
     date: '2026-04-14'
     code: 643808
     url: /works/643808/
+  - title: Himesaki Rinami Onee-chan to Cosplay Lesson | Himesaki Rinami Big Sis Cosplay
+      Lesson
+    author: inoue-tommy
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/648959.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 648959
+    url: /works/648959/
   - title: REMIND ME & Beautiful Days Without You
     author: 3e
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/652639.jpg

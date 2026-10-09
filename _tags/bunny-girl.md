@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bunny girl"
-work_count: 35
+work_count: 36
 works:
   - title: Kaisha de Iroiro | Gettin' Busy at the Office
     author: hara-shigeyuki
@@ -89,6 +89,14 @@ works:
     date: '2026-04-23'
     code: 645646
     url: /works/645646/
+  - title: Himesaki Rinami Onee-chan to Cosplay Lesson | Himesaki Rinami Big Sis Cosplay
+      Lesson
+    author: inoue-tommy
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/648959.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 648959
+    url: /works/648959/
   - title: Kawaii Kanojo ni Goyoujin!? 2 | Beware of Cute Girlfriends! 2
     author: marialite
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/649111.jpg

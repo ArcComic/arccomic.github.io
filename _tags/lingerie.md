@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "lingerie"
-work_count: 98
+work_count: 99
 works:
   - title: My Care Lady Ch. 1
     author: sugi-g
@@ -45,6 +45,13 @@ works:
     date: '2026-04-19'
     code: 244812
     url: /works/244812/
+  - title: Ritsuko wa Kozukuri ga Shitai
+    author: yokkora
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/297834.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 297834
+    url: /works/297834/
   - title: Tsumareta Ikoku no Hana II
     author: darabuchi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/315693.jpg

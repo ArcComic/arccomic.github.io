@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "doujinshi"
-work_count: 1340
+work_count: 1343
 works:
   - title: Birthday
     author: hashiba-yachi
@@ -82,6 +82,13 @@ works:
     date: '2026-09-13'
     code: 278500
     url: /works/278500/
+  - title: Futarikiri - Konna ni mo Itooshii 1.75
+    author: nohito
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/283723.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 283723
+    url: /works/283723/
   - title: Tsutomesaki no Musume-san o Oishiku Itadaku Hon Minshuku Hen
     author: aya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/284573.jpg
@@ -140,6 +147,13 @@ works:
     date: '2026-04-23'
     code: 296282
     url: /works/296282/
+  - title: Ritsuko wa Kozukuri ga Shitai
+    author: yokkora
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/297834.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 297834
+    url: /works/297834/
   - title: Asuna-san ga Agil ni Netorareru Ohanashi
     author: fujimiya-siryu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/300943.jpg
@@ -5283,6 +5297,14 @@ works:
     date: '2026-05-10'
     code: 648952
     url: /works/648952/
+  - title: Himesaki Rinami Onee-chan to Cosplay Lesson | Himesaki Rinami Big Sis Cosplay
+      Lesson
+    author: inoue-tommy
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/648959.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 648959
+    url: /works/648959/
   - title: You're My Doggy... Right? ~Pamper Loving Boyfriend Becomes A Wild Sadist
       Hound~
     author: the-waidan

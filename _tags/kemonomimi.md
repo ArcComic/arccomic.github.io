@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "kemonomimi"
-work_count: 41
+work_count: 42
 works:
   - title: CHOCO x LOVE
     author: highlow
@@ -101,6 +101,14 @@ works:
     date: '2026-07-13'
     code: 648800
     url: /works/648800/
+  - title: Himesaki Rinami Onee-chan to Cosplay Lesson | Himesaki Rinami Big Sis Cosplay
+      Lesson
+    author: inoue-tommy
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/648959.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 648959
+    url: /works/648959/
   - title: Kawaii Kanojo ni Goyoujin!? 2 | Beware of Cute Girlfriends! 2
     author: marialite
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/649111.jpg
