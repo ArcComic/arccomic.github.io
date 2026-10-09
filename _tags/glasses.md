@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "glasses"
-work_count: 265
+work_count: 267
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -10,6 +10,13 @@ works:
     date: '2026-04-17'
     code: 103680
     url: /works/103680/
+  - title: MAGIC SEVEN
+    author: asuhiro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/106500.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 106500
+    url: /works/106500/
   - title: Life with Married Women Just Like a Manga 2 - Ch. 1-5
     author: hidemaru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/116138.jpg
@@ -196,6 +203,13 @@ works:
     date: '2026-09-06'
     code: 396089
     url: /works/396089/
+  - title: Police Story
+    author: nekoi-mie
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/399776.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 399776
+    url: /works/399776/
   - title: SUCCUBUS MONOGATARI
     author: mackgee
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/400846.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sister"
-work_count: 100
+work_count: 101
 works:
   - title: Imitation Family + Bigibo Hen
     author: tohzai
@@ -190,6 +190,13 @@ works:
     date: '2026-04-17'
     code: 612957
     url: /works/612957/
+  - title: Nanako-san
+    author: napata
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/614032.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 614032
+    url: /works/614032/
   - title: Tsuma ni Ani to Kozukuri Shite Moraimashita
     author: furaimai
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/616367.jpg

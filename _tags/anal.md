@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "anal"
-work_count: 158
+work_count: 159
 works:
   - title: Ikanishite Haha wa Onna o Kaihou Shitaka Ch. 1-14
     author: mitarai-yuuki
@@ -70,6 +70,13 @@ works:
     date: '2026-05-03'
     code: 376189
     url: /works/376189/
+  - title: Police Story
+    author: nekoi-mie
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/399776.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 399776
+    url: /works/399776/
   - title: Kaachan wa Ore no... | Mom is My...  Chapter 1-3
     author: jirou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/415046.jpg

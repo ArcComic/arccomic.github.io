@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "pantyhose"
-work_count: 70
+work_count: 73
 works:
+  - title: MAGIC SEVEN
+    author: asuhiro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/106500.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 106500
+    url: /works/106500/
   - title: Life with Married Women Just Like a Manga 2 - Ch. 1-5
     author: hidemaru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/116138.jpg
@@ -66,6 +73,13 @@ works:
     date: '2026-10-07'
     code: 386725
     url: /works/386725/
+  - title: Police Story
+    author: nekoi-mie
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/399776.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 399776
+    url: /works/399776/
   - title: The Last Flight
     author: mr-kurz
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/408822.jpg
@@ -123,6 +137,13 @@ works:
     date: '2026-09-29'
     code: 513981
     url: /works/513981/
+  - title: Kore wa Fukakouryoku desu node
+    author: shiba-aya
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/519927.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 519927
+    url: /works/519927/
   - title: Tarachime no Nikutsubo ~Yokkyu Fuman no Haha ga Inran Dekachichi Deliherujou
       datta node, Renzoku Nakadashi de Onaho ni Shitemita~
     author: ginen

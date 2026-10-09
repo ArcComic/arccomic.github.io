@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "schoolgirl uniform"
-work_count: 334
+work_count: 335
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -1494,6 +1494,13 @@ works:
     date: '2026-09-30'
     code: 655660
     url: /works/655660/
+  - title: Haruka After 3
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/656583.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 656583
+    url: /works/656583/
   - title: Mukashi Kara Otokoppoi Osananajimi mo Chanto Mesu ni Sodachimashita | Even
       My Tomboy Childhood Friend Matured Into a Proper Woman
     author: natsuzo

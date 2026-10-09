@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "pregnant"
-work_count: 53
+work_count: 55
 works:
   - title: Watashi ni Mawashite Ura Kairanban
     author: yano-toshinori
@@ -201,6 +201,13 @@ works:
     date: '2026-04-27'
     code: 643592
     url: /works/643592/
+  - title: AT THE BEACH - CH1
+    author: alamama
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/644231.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 644231
+    url: /works/644231/
   - title: Okaa-san ni wa Kore Gurai shika Dekinai kara... 2 | For Mom the Only Option
       Left is... 2
     author: muchipan
@@ -247,6 +254,14 @@ works:
     date: '2026-07-07'
     code: 661909
     url: /works/661909/
+  - title: A world where it is the norm for moms to become masturbation toys exclusively
+      for their sons.
+    author: yamaoku-midori
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662291.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 662291
+    url: /works/662291/
   - title: Tonikaku Sex ga Shitai Oba-san, Ryouko | Auntie Ryouko Wants to Have Sex
       Everyday
     author: mokuzou

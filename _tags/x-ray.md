@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "x-ray"
-work_count: 320
+work_count: 324
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -355,6 +355,13 @@ works:
     date: '2026-03-04'
     code: 508649
     url: /works/508649/
+  - title: Kore wa Fukakouryoku desu node
+    author: shiba-aya
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/519927.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 519927
+    url: /works/519927/
   - title: Dousei Kanojo to Asa made Tsuyudaku Hametaoshi | Having Sloppy Sex Till Morning
       with My Live-in Girlfriend
     author: migihaji
@@ -708,6 +715,13 @@ works:
     date: '2026-09-29'
     code: 602074
     url: /works/602074/
+  - title: Okaasan Ha Soap No Nioi | Mommy Smells Like Soap
+    author: sakai-hamachi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/602651.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 602651
+    url: /works/602651/
   - title: 30cm Chou Tsuyotsuyo Futanari Chinpo o Semen ga Karerukurai Manzoku Saserareru
       kana?
     author: sabakan
@@ -1105,6 +1119,13 @@ works:
     date: '2026-04-15'
     code: 643975
     url: /works/643975/
+  - title: AT THE BEACH - CH1
+    author: alamama
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/644231.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 644231
+    url: /works/644231/
   - title: Daisuki Datta Onii-chan | My Once Beloved Older Cousin
     author: minakami-riku
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/644495.jpg
@@ -1532,6 +1553,13 @@ works:
     date: '2026-07-17'
     code: 658578
     url: /works/658578/
+  - title: Haruka After 2
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/658645.jpg
+    rating: 4.7
+    date: '2026-10-09'
+    code: 658645
+    url: /works/658645/
   - title: Uwakishou na Kaisha no Elite Douki o Ore no Onna ni Suru Hanashi | The Story
       of How I Made my Flirty Coworker my Woman
     author: araido-kagiri

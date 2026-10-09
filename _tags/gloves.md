@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "gloves"
-work_count: 28
+work_count: 29
 works:
   - title: Yuri no o saifu ni shite agemasu ne, Senpai | I'll turn you into Yuri's wallet,
       Senpai
@@ -137,6 +137,14 @@ works:
     date: '2026-07-07'
     code: 662114
     url: /works/662114/
+  - title: A world where it is the norm for moms to become masturbation toys exclusively
+      for their sons.
+    author: yamaoku-midori
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662291.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 662291
+    url: /works/662291/
   - title: Metal Girl Ie Onanie
     author: ishimura-ishimiso
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/663142.jpg

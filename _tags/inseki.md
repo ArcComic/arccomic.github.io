@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "inseki"
-work_count: 73
+work_count: 74
 works:
   - title: Imitation Family + Bigibo Hen
     author: tohzai
@@ -201,6 +201,13 @@ works:
     date: '2026-04-17'
     code: 612957
     url: /works/612957/
+  - title: Nanako-san
+    author: napata
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/614032.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 614032
+    url: /works/614032/
   - title: Nishida Ke no Himegoto | Nishida Family Secret 1-3
     author: kojima-miu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/614205.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sweating"
-work_count: 174
+work_count: 175
 works:
   - title: Kaisha de Iroiro | Gettin' Busy at the Office
     author: hara-shigeyuki
@@ -497,6 +497,13 @@ works:
     date: '2026-09-18'
     code: 606170
     url: /works/606170/
+  - title: Nanako-san
+    author: napata
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/614032.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 614032
+    url: /works/614032/
   - title: Nishida Ke no Himegoto | Nishida Family Secret 1-3
     author: kojima-miu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/614205.jpg

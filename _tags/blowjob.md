@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "blowjob"
-work_count: 640
+work_count: 645
 works:
   - title: Office Love Scramble Ch. 1
     author: tohzai
@@ -366,6 +366,13 @@ works:
     date: '2026-09-25'
     code: 398514
     url: /works/398514/
+  - title: Police Story
+    author: nekoi-mie
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/399776.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 399776
+    url: /works/399776/
   - title: Namaiki na Imouto ga Ore no SeFri ni Natta Keii | How My Cheeky Little Sister
       and I Became Sex Friends With Benefits
     author: iron-sugar
@@ -1495,6 +1502,13 @@ works:
     date: '2026-04-25'
     code: 593677
     url: /works/593677/
+  - title: 'Dad stole My GF so I try to steal His Wife #1'
+    author: alamama
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/593683.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 593683
+    url: /works/593683/
   - title: 'Dad stole My GF so I try to steal His Wife #2'
     author: alamama
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/593684.jpg
@@ -1611,6 +1625,13 @@ works:
     date: '2026-09-18'
     code: 601357
     url: /works/601357/
+  - title: Okaasan Ha Soap No Nioi | Mommy Smells Like Soap
+    author: sakai-hamachi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/602651.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 602651
+    url: /works/602651/
   - title: Metsuki no Warui Kidaruge na Kouhai ni Shiboritorareru | Squeezed Up By My
       Junior Girl Who Is Gloomy
     author: oburigakko
@@ -1739,6 +1760,13 @@ works:
     date: '2026-10-01'
     code: 613188
     url: /works/613188/
+  - title: Nanako-san
+    author: napata
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/614032.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 614032
+    url: /works/614032/
   - title: Nishida Ke no Himegoto | Nishida Family Secret 1-3
     author: kojima-miu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/614205.jpg
@@ -1907,6 +1935,13 @@ works:
     date: '2026-05-26'
     code: 631036
     url: /works/631036/
+  - title: Condom Uri no Shoujo | The Condom Selling Girl
+    author: bs3
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/631157.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 631157
+    url: /works/631157/
   - title: Boku no Daisuki na Kaa-san to Omou Zonbun Sex Dekiru Hi 3 | My Fabulous Fuck
       Day with My Amazing Mommy 3
     author: higehurai

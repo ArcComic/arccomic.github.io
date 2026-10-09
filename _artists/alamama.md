@@ -1,8 +1,14 @@
 ---
 layout: artist
 artist_name: "alamama"
-work_count: 2
+work_count: 5
 works:
+  - title: 'Dad stole My GF so I try to steal His Wife #1'
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/593683.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 593683
+    url: /works/593683/
   - title: 'Dad stole My GF so I try to steal His Wife #2'
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/593684.jpg
     rating: 4.6
@@ -15,4 +21,16 @@ works:
     date: '2026-10-08'
     code: 613292
     url: /works/613292/
+  - title: AT THE BEACH - CH1
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/644231.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 644231
+    url: /works/644231/
+  - title: Dad stole my gf so i try to steal his wife - CH4
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/677170.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 677170
+    url: /works/677170/
 ---

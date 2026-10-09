@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "cervix penetration"
-work_count: 7
+work_count: 9
 works:
   - title: Shojo Gal, Futanari Ojou-sama no Onaho ni Naru | Virgin Gal who Becomes a
       Pocket Pussy for a Futanari Young Lady
@@ -18,6 +18,13 @@ works:
     date: '2026-05-01'
     code: 508534
     url: /works/508534/
+  - title: Okaasan Ha Soap No Nioi | Mommy Smells Like Soap
+    author: sakai-hamachi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/602651.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 602651
+    url: /works/602651/
   - title: 30cm Chou Tsuyotsuyo Futanari Chinpo o Semen ga Karerukurai Manzoku Saserareru
       kana?
     author: sabakan
@@ -40,6 +47,13 @@ works:
     date: '2026-10-08'
     code: 636527
     url: /works/636527/
+  - title: AT THE BEACH - CH1
+    author: alamama
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/644231.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 644231
+    url: /works/644231/
   - title: A Certian MILF Loving Man's Love Affair File 03 -- Toaru Jukujo Zuki Danshi
       no Love Hame Koukanroku File 03
     author: tsukino-jyogi

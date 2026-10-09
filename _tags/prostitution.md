@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "prostitution"
-work_count: 78
+work_count: 79
 works:
   - title: Ikanishite Haha wa Onna o Kaihou Shitaka Ch. 1-14
     author: mitarai-yuuki
@@ -232,6 +232,13 @@ works:
     date: '2026-09-29'
     code: 602074
     url: /works/602074/
+  - title: Okaasan Ha Soap No Nioi | Mommy Smells Like Soap
+    author: sakai-hamachi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/602651.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 602651
+    url: /works/602651/
   - title: Mechakucha Jiraippoi kedo Ne wa Yasashisouna Ko | Serious Land Mine Vibes
       but Deep Down She Seems Sweet
     author: 7zu7

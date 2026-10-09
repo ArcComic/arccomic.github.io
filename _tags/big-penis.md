@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big penis"
-work_count: 234
+work_count: 239
 works:
   - title: Tsuma no Imouto no Danna ga Ie ni Kiteiruyoudesu | My Sister-In-Law's Husband
       is Over
@@ -467,6 +467,13 @@ works:
     date: '2026-08-21'
     code: 593575
     url: /works/593575/
+  - title: 'Dad stole My GF so I try to steal His Wife #1'
+    author: alamama
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/593683.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 593683
+    url: /works/593683/
   - title: 'Dad stole My GF so I try to steal His Wife #2'
     author: alamama
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/593684.jpg
@@ -496,6 +503,13 @@ works:
     date: '2026-03-09'
     code: 598144
     url: /works/598144/
+  - title: Okaasan Ha Soap No Nioi | Mommy Smells Like Soap
+    author: sakai-hamachi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/602651.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 602651
+    url: /works/602651/
   - title: 30cm Chou Tsuyotsuyo Futanari Chinpo o Semen ga Karerukurai Manzoku Saserareru
       kana?
     author: sabakan
@@ -551,6 +565,13 @@ works:
     date: '2026-04-13'
     code: 630903
     url: /works/630903/
+  - title: Condom Uri no Shoujo | The Condom Selling Girl
+    author: bs3
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/631157.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 631157
+    url: /works/631157/
   - title: Daddy's Forgotten Life Purpose
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/631630.jpg
@@ -760,6 +781,13 @@ works:
     date: '2026-04-15'
     code: 643975
     url: /works/643975/
+  - title: AT THE BEACH - CH1
+    author: alamama
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/644231.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 644231
+    url: /works/644231/
   - title: Momonosuke Arc Part.1
     author: konohana
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/644706.jpg
@@ -1402,6 +1430,13 @@ works:
     date: '2026-08-29'
     code: 676320
     url: /works/676320/
+  - title: Dad stole my gf so i try to steal his wife - CH4
+    author: alamama
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/677170.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 677170
+    url: /works/677170/
   - title: Kuro Gal no Ongaeshi -Shachiku Oji ga Kasshoku Kyonyuu Gal o Nanpa kara Tasuketara
       Icha Love Junai Koubi shita Hanashi-
     author: galvalume-kouhan

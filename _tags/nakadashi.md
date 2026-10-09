@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "nakadashi"
-work_count: 819
+work_count: 824
 works:
   - title: Adoration
     author: kishizuka-kenji
@@ -1259,6 +1259,13 @@ works:
     date: '2026-04-15'
     code: 519274
     url: /works/519274/
+  - title: Kore wa Fukakouryoku desu node
+    author: shiba-aya
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/519927.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 519927
+    url: /works/519927/
   - title: Dousei Kanojo to Asa made Tsuyudaku Hametaoshi | Having Sloppy Sex Till Morning
       with My Live-in Girlfriend
     author: migihaji
@@ -2117,6 +2124,13 @@ works:
     date: '2026-09-29'
     code: 602074
     url: /works/602074/
+  - title: Okaasan Ha Soap No Nioi | Mommy Smells Like Soap
+    author: sakai-hamachi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/602651.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 602651
+    url: /works/602651/
   - title: Metsuki no Warui Kidaruge na Kouhai ni Shiboritorareru | Squeezed Up By My
       Junior Girl Who Is Gloomy
     author: oburigakko
@@ -2285,6 +2299,13 @@ works:
     date: '2026-10-08'
     code: 613292
     url: /works/613292/
+  - title: Nanako-san
+    author: napata
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/614032.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 614032
+    url: /works/614032/
   - title: Nishida Ke no Himegoto | Nishida Family Secret 1-3
     author: kojima-miu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/614205.jpg
@@ -3167,6 +3188,13 @@ works:
     date: '2026-04-15'
     code: 644028
     url: /works/644028/
+  - title: AT THE BEACH - CH1
+    author: alamama
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/644231.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 644231
+    url: /works/644231/
   - title: Tsukatsuki Rio no Maid Seikatsu
     author: prime
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/644300.jpg
@@ -4910,6 +4938,13 @@ works:
     date: '2026-08-31'
     code: 676658
     url: /works/676658/
+  - title: Dad stole my gf so i try to steal his wife - CH4
+    author: alamama
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/677170.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 677170
+    url: /works/677170/
   - title: Holy Bitch 1
     author: testame
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/677230.jpg

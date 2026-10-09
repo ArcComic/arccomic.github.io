@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "armpit sex"
-work_count: 3
+work_count: 4
 works:
   - title: Yojouhan Bio Seikatsu Soushuuhen
     author: sgk
@@ -17,6 +17,13 @@ works:
     date: '2026-09-19'
     code: 646501
     url: /works/646501/
+  - title: Haruka After 2
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/658645.jpg
+    rating: 4.7
+    date: '2026-10-09'
+    code: 658645
+    url: /works/658645/
   - title: Downer Hitozuma wa Teishu Kanpaku Otto o Wakaraseru | The Gloomy Housewife
       Puts Her Domineering Husband in His Place
     author: joucho

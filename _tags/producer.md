@@ -1,8 +1,22 @@
 ---
 layout: tag
 tag_name: "producer"
-work_count: 24
+work_count: 30
 works:
+  - title: Mika-ppoi no!
+    author: napata
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/137236.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 137236
+    url: /works/137236/
+  - title: Ashita wa Kinenbi
+    author: alpha
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/169587.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 169587
+    url: /works/169587/
   - title: Hitorijime Cinderella
     author: okagiri-shou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/179239.jpg
@@ -24,6 +38,13 @@ works:
     date: '2026-10-08'
     code: 228426
     url: /works/228426/
+  - title: Konna ni mo Itooshii -After Zero-
+    author: nohito
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/276942.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 276942
+    url: /works/276942/
   - title: Futarikiri - Konna ni mo Itooshii 1.75
     author: nohito
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/283723.jpg
@@ -66,6 +87,13 @@ works:
     date: '2026-10-02'
     code: 473512
     url: /works/473512/
+  - title: Kore wa Fukakouryoku desu node
+    author: shiba-aya
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/519927.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 519927
+    url: /works/519927/
   - title: Nagoriyuki | Fleeting Snow
     author: yd
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/599778.jpg
@@ -124,6 +152,20 @@ works:
     date: '2026-09-11'
     code: 655514
     url: /works/655514/
+  - title: Haruka After 3
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/656583.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 656583
+    url: /works/656583/
+  - title: Haruka After 2
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/658645.jpg
+    rating: 4.7
+    date: '2026-10-09'
+    code: 658645
+    url: /works/658645/
   - title: Ofuroba de Mayu to Ecchi na Koto Suru Hon
     author: garana
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/672580.jpg

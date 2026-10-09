@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "rough translation"
-work_count: 656
+work_count: 661
 works:
   - title: Boku no Shiranai Kimi no Kao
     author: utsutsu-minoru
@@ -673,6 +673,13 @@ works:
     date: '2026-03-09'
     code: 598144
     url: /works/598144/
+  - title: Okaasan Ha Soap No Nioi | Mommy Smells Like Soap
+    author: sakai-hamachi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/602651.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 602651
+    url: /works/602651/
   - title: Metsuki no Warui Kidaruge na Kouhai ni Shiboritorareru | Squeezed Up By My
       Junior Girl Who Is Gloomy
     author: oburigakko
@@ -1006,6 +1013,13 @@ works:
     date: '2026-04-13'
     code: 630903
     url: /works/630903/
+  - title: Condom Uri no Shoujo | The Condom Selling Girl
+    author: bs3
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/631157.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 631157
+    url: /works/631157/
   - title: Futari Dake no Himitsu -Moshi Deliheal Yonde Musume ga Kichattara-
     author: takuwan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/631592.jpg
@@ -2120,6 +2134,13 @@ works:
     date: '2026-07-07'
     code: 656206
     url: /works/656206/
+  - title: Haruka After 3
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/656583.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 656583
+    url: /works/656583/
   - title: Kaa-san o Oshitaoshita Hi
     author: daidai-shikibu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/656615.jpg
@@ -2213,6 +2234,13 @@ works:
     date: '2026-09-12'
     code: 658633
     url: /works/658633/
+  - title: Haruka After 2
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/658645.jpg
+    rating: 4.7
+    date: '2026-10-09'
+    code: 658645
+    url: /works/658645/
   - title: Ie no Naka de Tachinbo suru Ane to Sore o Kau Otouto
     author: choco-hell
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/658748.jpg
@@ -2523,6 +2551,14 @@ works:
     date: '2026-07-08'
     code: 662215
     url: /works/662215/
+  - title: A world where it is the norm for moms to become masturbation toys exclusively
+      for their sons.
+    author: yamaoku-midori
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662291.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 662291
+    url: /works/662291/
   - title: Yurui Ko
     author: sena-monaco
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662356.jpg

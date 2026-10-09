@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "cheating"
-work_count: 367
+work_count: 369
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -1188,6 +1188,13 @@ works:
     date: '2026-08-21'
     code: 593575
     url: /works/593575/
+  - title: 'Dad stole My GF so I try to steal His Wife #1'
+    author: alamama
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/593683.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 593683
+    url: /works/593683/
   - title: 'Dad stole My GF so I try to steal His Wife #2'
     author: alamama
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/593684.jpg
@@ -1292,6 +1299,13 @@ works:
     date: '2026-08-25'
     code: 613739
     url: /works/613739/
+  - title: Nanako-san
+    author: napata
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/614032.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 614032
+    url: /works/614032/
   - title: Nishida Ke no Himegoto | Nishida Family Secret 1-3
     author: kojima-miu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/614205.jpg

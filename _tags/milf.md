@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "milf"
-work_count: 454
+work_count: 459
 works:
   - title: Life with Married Women Just Like a Manga 2 - Ch. 1-5
     author: hidemaru
@@ -1443,6 +1443,13 @@ works:
     date: '2026-04-25'
     code: 593677
     url: /works/593677/
+  - title: 'Dad stole My GF so I try to steal His Wife #1'
+    author: alamama
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/593683.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 593683
+    url: /works/593683/
   - title: 'Dad stole My GF so I try to steal His Wife #2'
     author: alamama
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/593684.jpg
@@ -1524,6 +1531,13 @@ works:
     date: '2026-09-29'
     code: 601711
     url: /works/601711/
+  - title: Okaasan Ha Soap No Nioi | Mommy Smells Like Soap
+    author: sakai-hamachi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/602651.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 602651
+    url: /works/602651/
   - title: Bokushika Shiranai, Cool na Haha no Ura no Kao. | The Secret Face of My Cool
       Mother Only I Know.
     author: makoto-shiyaka
@@ -1994,6 +2008,13 @@ works:
     date: '2026-04-15'
     code: 644028
     url: /works/644028/
+  - title: AT THE BEACH - CH1
+    author: alamama
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/644231.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 644231
+    url: /works/644231/
   - title: The story of how a busty, older teacher girlfriend gets seduced and cheated
       on by the principal with a huge penis.
     author: munioni
@@ -2426,6 +2447,14 @@ works:
     date: '2026-07-08'
     code: 662142
     url: /works/662142/
+  - title: A world where it is the norm for moms to become masturbation toys exclusively
+      for their sons.
+    author: yamaoku-midori
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662291.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 662291
+    url: /works/662291/
   - title: Kyonyuu na Gibo, Nyuuyoku Chuu
     author: ma-kurou-madou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662334.jpg
@@ -2836,6 +2865,13 @@ works:
     date: '2026-08-31'
     code: 676658
     url: /works/676658/
+  - title: Dad stole my gf so i try to steal his wife - CH4
+    author: alamama
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/677170.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 677170
+    url: /works/677170/
   - title: Akumu Revenge 3 | Nightmare Revenge 3
     author: coupe
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678643.jpg

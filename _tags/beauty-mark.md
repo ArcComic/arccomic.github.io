@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "beauty mark"
-work_count: 201
+work_count: 205
 works:
   - title: Uragiri no Ai wa Mitsu no Aji | Treacherous Love Tastes Like Honey
     author: cuzukago
@@ -365,6 +365,13 @@ works:
     date: '2026-04-17'
     code: 518953
     url: /works/518953/
+  - title: Kore wa Fukakouryoku desu node
+    author: shiba-aya
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/519927.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 519927
+    url: /works/519927/
   - title: Motto♥ Okki na Saori-chan wa Fukiyou ni Eroi
     author: aramaki-echizen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/524436.jpg
@@ -603,6 +610,13 @@ works:
     date: '2026-03-05'
     code: 593456
     url: /works/593456/
+  - title: 'Dad stole My GF so I try to steal His Wife #1'
+    author: alamama
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/593683.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 593683
+    url: /works/593683/
   - title: 'Dad stole My GF so I try to steal His Wife #2'
     author: alamama
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/593684.jpg
@@ -641,6 +655,13 @@ works:
     date: '2026-09-22'
     code: 599778
     url: /works/599778/
+  - title: Okaasan Ha Soap No Nioi | Mommy Smells Like Soap
+    author: sakai-hamachi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/602651.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 602651
+    url: /works/602651/
   - title: Hitoban Tomete yo, Otaku-kun | Let Me Stay For the Night, Otaku-kun
     author: danimaru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/606166.jpg
@@ -843,6 +864,13 @@ works:
     date: '2026-09-13'
     code: 638556
     url: /works/638556/
+  - title: AT THE BEACH - CH1
+    author: alamama
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/644231.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 644231
+    url: /works/644231/
   - title: Delusion story book
     author: madarame-rin
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/644810.jpg

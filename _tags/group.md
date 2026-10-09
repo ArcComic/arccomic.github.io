@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "group"
-work_count: 244
+work_count: 245
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -521,6 +521,13 @@ works:
     date: '2026-04-23'
     code: 628865
     url: /works/628865/
+  - title: Condom Uri no Shoujo | The Condom Selling Girl
+    author: bs3
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/631157.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 631157
+    url: /works/631157/
   - title: Hitozuma Kairou ~Danna Omoi no Hitozuma wa Saimin de Midara na Fuuzokujou
       e Kawarihateru~ | Married Woman Rebrand
     author: theremin

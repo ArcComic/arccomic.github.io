@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "condom"
-work_count: 217
+work_count: 219
 works:
   - title: Kaisha de Iroiro | Gettin' Busy at the Office
     author: hara-shigeyuki
@@ -687,6 +687,13 @@ works:
     date: '2026-09-24'
     code: 598084
     url: /works/598084/
+  - title: Okaasan Ha Soap No Nioi | Mommy Smells Like Soap
+    author: sakai-hamachi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/602651.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 602651
+    url: /works/602651/
   - title: Mechakucha Jiraippoi kedo Ne wa Yasashisouna Ko | Serious Land Mine Vibes
       but Deep Down She Seems Sweet
     author: 7zu7
@@ -808,6 +815,13 @@ works:
     date: '2026-09-04'
     code: 625933
     url: /works/625933/
+  - title: Condom Uri no Shoujo | The Condom Selling Girl
+    author: bs3
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/631157.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 631157
+    url: /works/631157/
   - title: Rikujoubu no Boyish na Osananajimi ga suru Dare ni mo Ienai Koto | The Secret
       Activity of My Boyish Childhood Friend from the Track Team
     author: harufumi

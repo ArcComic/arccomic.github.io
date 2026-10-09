@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big breasts"
-work_count: 1107
+work_count: 1115
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -10,6 +10,13 @@ works:
     date: '2026-04-17'
     code: 103680
     url: /works/103680/
+  - title: MAGIC SEVEN
+    author: asuhiro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/106500.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 106500
+    url: /works/106500/
   - title: Kaisha de Iroiro | Gettin' Busy at the Office
     author: hara-shigeyuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/110835.jpg
@@ -595,6 +602,13 @@ works:
     date: '2026-07-10'
     code: 398305
     url: /works/398305/
+  - title: Police Story
+    author: nekoi-mie
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/399776.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 399776
+    url: /works/399776/
   - title: SUCCUBUS MONOGATARI
     author: mackgee
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/400846.jpg
@@ -2517,6 +2531,13 @@ works:
     date: '2026-04-25'
     code: 593677
     url: /works/593677/
+  - title: 'Dad stole My GF so I try to steal His Wife #1'
+    author: alamama
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/593683.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 593683
+    url: /works/593683/
   - title: 'Dad stole My GF so I try to steal His Wife #2'
     author: alamama
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/593684.jpg
@@ -2657,6 +2678,13 @@ works:
     date: '2026-09-29'
     code: 602074
     url: /works/602074/
+  - title: Okaasan Ha Soap No Nioi | Mommy Smells Like Soap
+    author: sakai-hamachi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/602651.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 602651
+    url: /works/602651/
   - title: Cool na Niizuma to no Shinkon Seikatsu wa Amari ni mo... Yarashikatta  |
       Our Kinky Newlywed Life Vol. 1-3
     author: nanakusa-amane
@@ -3141,6 +3169,13 @@ works:
     date: '2026-05-26'
     code: 631036
     url: /works/631036/
+  - title: Condom Uri no Shoujo | The Condom Selling Girl
+    author: bs3
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/631157.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 631157
+    url: /works/631157/
   - title: Boku no Daisuki na Kaa-san to Omou Zonbun Sex Dekiru Hi 3 | My Fabulous Fuck
       Day with My Amazing Mommy 3
     author: higehurai
@@ -3870,6 +3905,13 @@ works:
     date: '2026-04-16'
     code: 644176
     url: /works/644176/
+  - title: AT THE BEACH - CH1
+    author: alamama
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/644231.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 644231
+    url: /works/644231/
   - title: Itome-san wa Kyun Shita Toki dake Kaigan Suru Vol. 1-8
     author: nanakusa-amane
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/644276.jpg
@@ -5364,6 +5406,14 @@ works:
     date: '2026-07-08'
     code: 662215
     url: /works/662215/
+  - title: A world where it is the norm for moms to become masturbation toys exclusively
+      for their sons.
+    author: yamaoku-midori
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662291.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 662291
+    url: /works/662291/
   - title: Eightman sensei no okagede kanojo ga dekimashita! (4) | Thanks to Eightman-sensei,
       I Got a Girlfriend!
     author: eightman
@@ -6437,6 +6487,13 @@ works:
     date: '2026-08-31'
     code: 676658
     url: /works/676658/
+  - title: Dad stole my gf so i try to steal his wife - CH4
+    author: alamama
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/677170.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 677170
+    url: /works/677170/
   - title: Holy Bitch 1
     author: testame
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/677230.jpg

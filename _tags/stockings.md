@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "stockings"
-work_count: 223
+work_count: 224
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -902,6 +902,13 @@ works:
     date: '2026-09-11'
     code: 656460
     url: /works/656460/
+  - title: Haruka After 3
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/656583.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 656583
+    url: /works/656583/
   - title: I Became the Master of My Arrogant Busty Boss!? 02
     author: sazanami-wasabi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/656681.jpg

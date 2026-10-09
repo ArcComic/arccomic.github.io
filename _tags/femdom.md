@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "femdom"
-work_count: 173
+work_count: 175
 works:
   - title: Life with Married Women Just Like a Manga 2 - Ch. 1-5
     author: hidemaru
@@ -167,6 +167,13 @@ works:
     date: '2026-09-26'
     code: 396702
     url: /works/396702/
+  - title: Police Story
+    author: nekoi-mie
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/399776.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 399776
+    url: /works/399776/
   - title: Goldirocks a Killer Honey
     author: tsukumo-nikyu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/416542.jpg
@@ -763,6 +770,13 @@ works:
     date: '2026-09-29'
     code: 655322
     url: /works/655322/
+  - title: Haruka After 3
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/656583.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 656583
+    url: /works/656583/
   - title: Mukashi Kara Otokoppoi Osananajimi mo Chanto Mesu ni Sodachimashita | Even
       My Tomboy Childhood Friend Matured Into a Proper Woman
     author: natsuzo

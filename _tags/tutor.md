@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "tutor"
-work_count: 10
+work_count: 11
 works:
   - title: Sensei wa Shougakusei ga Suki | Sensei Loves Elementary Schoolers
     author: fuyuno-mikan
@@ -25,6 +25,13 @@ works:
     date: '2026-09-28'
     code: 560392
     url: /works/560392/
+  - title: Nanako-san
+    author: napata
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/614032.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 614032
+    url: /works/614032/
   - title: Aitsu, Kotowarenai kara.. Remake-ban no Tsuzuki dewa Arimasu ga, Konsaku
       wa Yakinaoshi ja Nai yo. Settei Igai wa Sinsaku da yo. Sonna Kanji no Vol. 2 desu
     author: haruharudo

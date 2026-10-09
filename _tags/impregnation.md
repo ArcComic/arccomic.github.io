@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "impregnation"
-work_count: 154
+work_count: 156
 works:
   - title: Kousa suru Osu to Mesu | Male and Female Crossing
     author: ootsuka-kotora
@@ -480,6 +480,13 @@ works:
     date: '2026-07-06'
     code: 630901
     url: /works/630901/
+  - title: Condom Uri no Shoujo | The Condom Selling Girl
+    author: bs3
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/631157.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 631157
+    url: /works/631157/
   - title: Hitozuma Kairou ~Danna Omoi no Hitozuma wa Saimin de Midara na Fuuzokujou
       e Kawarihateru~ | Married Woman Rebrand
     author: theremin
@@ -785,6 +792,14 @@ works:
     date: '2026-09-25'
     code: 661967
     url: /works/661967/
+  - title: A world where it is the norm for moms to become masturbation toys exclusively
+      for their sons.
+    author: yamaoku-midori
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662291.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 662291
+    url: /works/662291/
   - title: Tonikaku Sex ga Shitai Oba-san, Ryouko | Auntie Ryouko Wants to Have Sex
       Everyday
     author: mokuzou

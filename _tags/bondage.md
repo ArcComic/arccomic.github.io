@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bondage"
-work_count: 98
+work_count: 99
 works:
   - title: Pai☆Panic ~Hasamareta Dekapai~
     author: inkey
@@ -394,6 +394,13 @@ works:
     date: '2026-07-07'
     code: 655423
     url: /works/655423/
+  - title: Haruka After 3
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/656583.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 656583
+    url: /works/656583/
   - title: Dandan Kuse ni Naru - I like molester? .........No
     author: panda
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/661142.jpg

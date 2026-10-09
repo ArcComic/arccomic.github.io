@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole male"
-work_count: 888
+work_count: 898
 works:
   - title: Adoration
     author: kishizuka-kenji
@@ -10,6 +10,13 @@ works:
     date: '2026-05-04'
     code: 112455
     url: /works/112455/
+  - title: Mika-ppoi no!
+    author: napata
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/137236.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 137236
+    url: /works/137236/
   - title: Pai☆Panic ~Hasamareta Dekapai~
     author: inkey
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/143217.jpg
@@ -31,6 +38,13 @@ works:
     date: '2026-04-17'
     code: 162047
     url: /works/162047/
+  - title: Ashita wa Kinenbi
+    author: alpha
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/169587.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 169587
+    url: /works/169587/
   - title: Hitorijime Cinderella
     author: okagiri-shou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/179239.jpg
@@ -110,6 +124,13 @@ works:
     date: '2026-09-06'
     code: 276396
     url: /works/276396/
+  - title: Konna ni mo Itooshii -After Zero-
+    author: nohito
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/276942.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 276942
+    url: /works/276942/
   - title: Watashi-tachi no Seikoui Tokubetsu Jisshuu -Zengi Hen-
     author: guglielmo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/278500.jpg
@@ -628,6 +649,13 @@ works:
     date: '2026-09-25'
     code: 398514
     url: /works/398514/
+  - title: Police Story
+    author: nekoi-mie
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/399776.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 399776
+    url: /works/399776/
   - title: Namaiki na Imouto ga Ore no SeFri ni Natta Keii | How My Cheeky Little Sister
       and I Became Sex Friends With Benefits
     author: iron-sugar
@@ -1406,6 +1434,13 @@ works:
     date: '2026-04-15'
     code: 519274
     url: /works/519274/
+  - title: Kore wa Fukakouryoku desu node
+    author: shiba-aya
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/519927.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 519927
+    url: /works/519927/
   - title: Dousei Kanojo to Asa made Tsuyudaku Hametaoshi | Having Sloppy Sex Till Morning
       with My Live-in Girlfriend
     author: migihaji
@@ -2271,6 +2306,13 @@ works:
     date: '2026-03-05'
     code: 593456
     url: /works/593456/
+  - title: 'Dad stole My GF so I try to steal His Wife #1'
+    author: alamama
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/593683.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 593683
+    url: /works/593683/
   - title: Sono Panty, Watashi no Nandakedo. | Those Panties They're Mine
     author: chotto-b-sen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/593754.jpg
@@ -2374,6 +2416,13 @@ works:
     date: '2026-09-29'
     code: 602074
     url: /works/602074/
+  - title: Okaasan Ha Soap No Nioi | Mommy Smells Like Soap
+    author: sakai-hamachi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/602651.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 602651
+    url: /works/602651/
   - title: Cool na Niizuma to no Shinkon Seikatsu wa Amari ni mo... Yarashikatta  |
       Our Kinky Newlywed Life Vol. 1-3
     author: nanakusa-amane
@@ -2572,6 +2621,13 @@ works:
     date: '2026-09-10'
     code: 613838
     url: /works/613838/
+  - title: Nanako-san
+    author: napata
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/614032.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 614032
+    url: /works/614032/
   - title: Onna Tomodachi Futari to Perochuu suru Hanashi | A Story About Kissing 2
       Female Friends
     author: mmchair
@@ -4253,6 +4309,13 @@ works:
     date: '2026-09-11'
     code: 656460
     url: /works/656460/
+  - title: Haruka After 3
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/656583.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 656583
+    url: /works/656583/
   - title: Mukashi Kara Otokoppoi Osananajimi mo Chanto Mesu ni Sodachimashita | Even
       My Tomboy Childhood Friend Matured Into a Proper Woman
     author: natsuzo
@@ -5325,6 +5388,13 @@ works:
     date: '2026-08-31'
     code: 676658
     url: /works/676658/
+  - title: Dad stole my gf so i try to steal his wife - CH4
+    author: alamama
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/677170.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 677170
+    url: /works/677170/
   - title: Holy Bitch 1
     author: testame
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/677230.jpg

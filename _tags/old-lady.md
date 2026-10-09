@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "old lady"
-work_count: 6
+work_count: 7
 works:
   - title: Dad stole my gf so i try to steal his wife - CH3
     author: alamama
@@ -40,6 +40,13 @@ works:
     date: '2026-07-15'
     code: 664284
     url: /works/664284/
+  - title: Dad stole my gf so i try to steal his wife - CH4
+    author: alamama
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/677170.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 677170
+    url: /works/677170/
   - title: Me, With My Student...? 1
     author: asagi-ryu-amano-miki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679857.jpg

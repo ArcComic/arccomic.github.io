@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "business suit"
-work_count: 84
+work_count: 86
 works:
+  - title: MAGIC SEVEN
+    author: asuhiro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/106500.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 106500
+    url: /works/106500/
   - title: Kaisha de Iroiro | Gettin' Busy at the Office
     author: hara-shigeyuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/110835.jpg
@@ -514,6 +521,13 @@ works:
     date: '2026-09-20'
     code: 656681
     url: /works/656681/
+  - title: Haruka After 2
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/658645.jpg
+    rating: 4.7
+    date: '2026-10-09'
+    code: 658645
+    url: /works/658645/
   - title: Uwakishou na Kaisha no Elite Douki o Ore no Onna ni Suru Hanashi | The Story
       of How I Made my Flirty Coworker my Woman
     author: araido-kagiri

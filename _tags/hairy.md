@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "hairy"
-work_count: 288
+work_count: 293
 works:
+  - title: MAGIC SEVEN
+    author: asuhiro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/106500.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 106500
+    url: /works/106500/
   - title: Adoration
     author: kishizuka-kenji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/112455.jpg
@@ -67,6 +74,13 @@ works:
     date: '2026-04-13'
     code: 272352
     url: /works/272352/
+  - title: Konna ni mo Itooshii -After Zero-
+    author: nohito
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/276942.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 276942
+    url: /works/276942/
   - title: Futarikiri - Konna ni mo Itooshii 1.75
     author: nohito
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/283723.jpg
@@ -246,6 +260,13 @@ works:
     date: '2026-09-24'
     code: 395483
     url: /works/395483/
+  - title: Police Story
+    author: nekoi-mie
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/399776.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 399776
+    url: /works/399776/
   - title: Namaiki na Imouto ga Ore no SeFri ni Natta Keii | How My Cheeky Little Sister
       and I Became Sex Friends With Benefits
     author: iron-sugar
@@ -920,6 +941,13 @@ works:
     date: '2026-09-29'
     code: 601711
     url: /works/601711/
+  - title: Okaasan Ha Soap No Nioi | Mommy Smells Like Soap
+    author: sakai-hamachi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/602651.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 602651
+    url: /works/602651/
   - title: Soukan Syndrome
     author: kuroiwa-menou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/605633.jpg
@@ -970,6 +998,13 @@ works:
     date: '2026-10-01'
     code: 613188
     url: /works/613188/
+  - title: Nanako-san
+    author: napata
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/614032.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 614032
+    url: /works/614032/
   - title: Nishida Ke no Himegoto | Nishida Family Secret 1-3
     author: kojima-miu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/614205.jpg

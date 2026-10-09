@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "multi-work series"
-work_count: 377
+work_count: 380
 works:
+  - title: Konna ni mo Itooshii -After Zero-
+    author: nohito
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/276942.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 276942
+    url: /works/276942/
   - title: Futarikiri - Konna ni mo Itooshii 1.75
     author: nohito
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/283723.jpg
@@ -1810,6 +1817,13 @@ works:
     date: '2026-07-17'
     code: 658578
     url: /works/658578/
+  - title: Haruka After 2
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/658645.jpg
+    rating: 4.7
+    date: '2026-10-09'
+    code: 658645
+    url: /works/658645/
   - title: Mesunoyado ~Tsuma wa Midare Kegasareru~
     author: ame-arare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/658797.jpg
@@ -2285,6 +2299,13 @@ works:
     date: '2026-08-29'
     code: 676458
     url: /works/676458/
+  - title: Dad stole my gf so i try to steal his wife - CH4
+    author: alamama
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/677170.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 677170
+    url: /works/677170/
   - title: My Girlfriend Was Stolen by a Cool Girl Who Dresses Like a Guy, So I Taught
       Her a Lesson 3
     author: kurukuru

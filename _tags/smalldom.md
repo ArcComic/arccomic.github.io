@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "smalldom"
-work_count: 31
+work_count: 32
 works:
   - title: Oshi ni Yowai Kanojo ni Netorase nante Tanomanakereba Yokatta... | I Wish
       I Had Never Begged My Pushover Girlfriend To Cuck Me...
@@ -132,6 +132,14 @@ works:
     date: '2026-07-06'
     code: 660867
     url: /works/660867/
+  - title: A world where it is the norm for moms to become masturbation toys exclusively
+      for their sons.
+    author: yamaoku-midori
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662291.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 662291
+    url: /works/662291/
   - title: Y-kun
     author: kireina-mochi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/663130.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "widow"
-work_count: 25
+work_count: 26
 works:
   - title: Birthday
     author: hashiba-yachi
@@ -112,6 +112,13 @@ works:
     date: '2026-03-05'
     code: 593456
     url: /works/593456/
+  - title: Okaasan Ha Soap No Nioi | Mommy Smells Like Soap
+    author: sakai-hamachi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/602651.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 602651
+    url: /works/602651/
   - title: Boku no Mama wa... - My mom... icharabu kinshin amaama comic | My mom is...
     author: yamaoku-midori
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/636527.jpg

@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "doujinshi"
-work_count: 1343
+work_count: 1357
 works:
+  - title: MAGIC SEVEN
+    author: asuhiro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/106500.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 106500
+    url: /works/106500/
   - title: Birthday
     author: hashiba-yachi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/135719.jpg
@@ -10,6 +17,20 @@ works:
     date: '2026-09-25'
     code: 135719
     url: /works/135719/
+  - title: Mika-ppoi no!
+    author: napata
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/137236.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 137236
+    url: /works/137236/
+  - title: Ashita wa Kinenbi
+    author: alpha
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/169587.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 169587
+    url: /works/169587/
   - title: Hitorijime Cinderella
     author: okagiri-shou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/179239.jpg
@@ -75,6 +96,13 @@ works:
     date: '2026-04-16'
     code: 275108
     url: /works/275108/
+  - title: Konna ni mo Itooshii -After Zero-
+    author: nohito
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/276942.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 276942
+    url: /works/276942/
   - title: Watashi-tachi no Seikoui Tokubetsu Jisshuu -Zengi Hen-
     author: guglielmo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/278500.jpg
@@ -545,6 +573,13 @@ works:
     date: '2026-09-25'
     code: 398514
     url: /works/398514/
+  - title: Police Story
+    author: nekoi-mie
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/399776.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 399776
+    url: /works/399776/
   - title: SUCCUBUS MONOGATARI
     author: mackgee
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/400846.jpg
@@ -1668,6 +1703,13 @@ works:
     date: '2026-04-15'
     code: 519274
     url: /works/519274/
+  - title: Kore wa Fukakouryoku desu node
+    author: shiba-aya
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/519927.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 519927
+    url: /works/519927/
   - title: Niizuma Nanaka no Roshutsu Satsuei
     author: fukurou-naru-tori
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/520363.jpg
@@ -2994,6 +3036,13 @@ works:
     date: '2026-04-25'
     code: 593677
     url: /works/593677/
+  - title: 'Dad stole My GF so I try to steal His Wife #1'
+    author: alamama
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/593683.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 593683
+    url: /works/593683/
   - title: 'Dad stole My GF so I try to steal His Wife #2'
     author: alamama
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/593684.jpg
@@ -3396,6 +3445,13 @@ works:
     date: '2026-08-25'
     code: 613739
     url: /works/613739/
+  - title: Nanako-san
+    author: napata
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/614032.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 614032
+    url: /works/614032/
   - title: Onna Tomodachi Futari to Perochuu suru Hanashi | A Story About Kissing 2
       Female Friends
     author: mmchair
@@ -3764,6 +3820,13 @@ works:
     date: '2026-05-26'
     code: 631036
     url: /works/631036/
+  - title: Condom Uri no Shoujo | The Condom Selling Girl
+    author: bs3
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/631157.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 631157
+    url: /works/631157/
   - title: Various Full & Partial English Works
     author: tokyo-mixed
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/631239.jpg
@@ -4702,6 +4765,13 @@ works:
     date: '2026-04-15'
     code: 644028
     url: /works/644028/
+  - title: AT THE BEACH - CH1
+    author: alamama
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/644231.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 644231
+    url: /works/644231/
   - title: The story of how a busty, older teacher girlfriend gets seduced and cheated
       on by the principal with a huge penis.
     author: munioni
@@ -5949,6 +6019,13 @@ works:
     date: '2026-09-11'
     code: 656460
     url: /works/656460/
+  - title: Haruka After 3
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/656583.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 656583
+    url: /works/656583/
   - title: Kaa-san o Oshitaoshita Hi
     author: daidai-shikibu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/656615.jpg
@@ -6058,6 +6135,13 @@ works:
     date: '2026-09-12'
     code: 658633
     url: /works/658633/
+  - title: Haruka After 2
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/658645.jpg
+    rating: 4.7
+    date: '2026-10-09'
+    code: 658645
+    url: /works/658645/
   - title: Uwakishou na Kaisha no Elite Douki o Ore no Onna ni Suru Hanashi | The Story
       of How I Made my Flirty Coworker my Woman
     author: araido-kagiri
@@ -6376,6 +6460,14 @@ works:
     date: '2026-07-08'
     code: 662215
     url: /works/662215/
+  - title: A world where it is the norm for moms to become masturbation toys exclusively
+      for their sons.
+    author: yamaoku-midori
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662291.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 662291
+    url: /works/662291/
   - title: Kyonyuu na Gibo, Nyuuyoku Chuu
     author: ma-kurou-madou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662334.jpg
@@ -7741,6 +7833,13 @@ works:
     date: '2026-08-31'
     code: 677079
     url: /works/677079/
+  - title: Dad stole my gf so i try to steal his wife - CH4
+    author: alamama
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/677170.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 677170
+    url: /works/677170/
   - title: Holy Bitch 1
     author: testame
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/677230.jpg
