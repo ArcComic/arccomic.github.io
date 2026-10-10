@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "mmf threesome"
-work_count: 69
+work_count: 70
 works:
   - title: Hitozuma Hyakka
     author: hase-tsubura
@@ -478,6 +478,14 @@ works:
     date: '2026-10-03'
     code: 685770
     url: /works/685770/
+  - title: Sacrifice to the Lioness — The Former Head Who Became Prey to the Futanari
+      Ladies
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686422.jpg
+    rating: 0.0
+    date: '2026-10-10'
+    code: 686422
+    url: /works/686422/
   - title: Mahiru-senpai no Hatsukoi | True Noon-senpai's First Love
     author: fan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686471.jpg

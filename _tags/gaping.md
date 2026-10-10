@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "gaping"
-work_count: 8
+work_count: 9
 works:
   - title: Onna Shachou to Koibito ni Naru Houhou | How To Become Lover's With A Female
       CEO
@@ -64,4 +64,12 @@ works:
     date: '2026-09-28'
     code: 684587
     url: /works/684587/
+  - title: Sacrifice to the Lioness — The Former Head Who Became Prey to the Futanari
+      Ladies
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686422.jpg
+    rating: 0.0
+    date: '2026-10-10'
+    code: 686422
+    url: /works/686422/
 ---

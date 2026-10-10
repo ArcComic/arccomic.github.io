@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "femdom"
-work_count: 177
+work_count: 179
 works:
   - title: Life with Married Women Just Like a Manga 2 - Ch. 1-5
     author: hidemaru
@@ -45,6 +45,13 @@ works:
     date: '2026-03-07'
     code: 208522
     url: /works/208522/
+  - title: Mama Naranai Onna-tachi Ch. 1-2
+    author: otochichi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/209822.jpg
+    rating: 0.0
+    date: '2026-10-10'
+    code: 209822
+    url: /works/209822/
   - title: One Night Show Time
     author: shinooka-homare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/228426.jpg
@@ -1284,6 +1291,14 @@ works:
     date: '2026-10-09'
     code: 686334
     url: /works/686334/
+  - title: Sacrifice to the Lioness — The Former Head Who Became Prey to the Futanari
+      Ladies
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686422.jpg
+    rating: 0.0
+    date: '2026-10-10'
+    code: 686422
+    url: /works/686422/
   - title: Jokyoushi - Hot For Teachers | Female Teachers
     author: drill-murata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/81375.jpg

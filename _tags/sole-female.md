@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole female"
-work_count: 990
+work_count: 992
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -115,6 +115,13 @@ works:
     date: '2026-09-06'
     code: 196238
     url: /works/196238/
+  - title: Mama Naranai Onna-tachi Ch. 1-2
+    author: otochichi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/209822.jpg
+    rating: 0.0
+    date: '2026-10-10'
+    code: 209822
+    url: /works/209822/
   - title: FLUFFY LAUGH GIRL
     author: shibasaki-syouzi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/210672.jpg
@@ -7304,6 +7311,13 @@ works:
     date: '2026-10-09'
     code: 686320
     url: /works/686320/
+  - title: Mothers are Women Too 5!
+    author: siberian-hahasky
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686446.jpg
+    rating: 0.0
+    date: '2026-10-10'
+    code: 686446
+    url: /works/686446/
   - title: Hitozuma, Kaede-san Gifuku to Kazoku Gurumi de Kozukuri Dentou
     author: barakaba
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686462.jpg

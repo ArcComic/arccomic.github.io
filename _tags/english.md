@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "english"
-work_count: 1690
+work_count: 1693
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -220,6 +220,13 @@ works:
     date: '2026-03-07'
     code: 208522
     url: /works/208522/
+  - title: Mama Naranai Onna-tachi Ch. 1-2
+    author: otochichi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/209822.jpg
+    rating: 0.0
+    date: '2026-10-10'
+    code: 209822
+    url: /works/209822/
   - title: FLUFFY LAUGH GIRL
     author: shibasaki-syouzi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/210672.jpg
@@ -12349,6 +12356,14 @@ works:
     date: '2026-10-09'
     code: 686334
     url: /works/686334/
+  - title: Sacrifice to the Lioness — The Former Head Who Became Prey to the Futanari
+      Ladies
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686422.jpg
+    rating: 0.0
+    date: '2026-10-10'
+    code: 686422
+    url: /works/686422/
   - title: Senaka Tanhenshuu [Ue]｜Senaka Short Story Collection
     author: senaka
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686438.jpg
@@ -12356,6 +12371,13 @@ works:
     date: '2026-10-10'
     code: 686438
     url: /works/686438/
+  - title: Mothers are Women Too 5!
+    author: siberian-hahasky
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686446.jpg
+    rating: 0.0
+    date: '2026-10-10'
+    code: 686446
+    url: /works/686446/
   - title: Kakutouka na Otokonoko!
     author: yuruyakatou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686448.jpg

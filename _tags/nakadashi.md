@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "nakadashi"
-work_count: 844
+work_count: 846
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -6242,6 +6242,14 @@ works:
     date: '2026-10-09'
     code: 686320
     url: /works/686320/
+  - title: Sacrifice to the Lioness — The Former Head Who Became Prey to the Futanari
+      Ladies
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686422.jpg
+    rating: 0.0
+    date: '2026-10-10'
+    code: 686422
+    url: /works/686422/
   - title: Senaka Tanhenshuu [Ue]｜Senaka Short Story Collection
     author: senaka
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686438.jpg
@@ -6249,6 +6257,13 @@ works:
     date: '2026-10-10'
     code: 686438
     url: /works/686438/
+  - title: Mothers are Women Too 5!
+    author: siberian-hahasky
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686446.jpg
+    rating: 0.0
+    date: '2026-10-10'
+    code: 686446
+    url: /works/686446/
   - title: Hitozuma, Kaede-san Gifuku to Kazoku Gurumi de Kozukuri Dentou
     author: barakaba
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686462.jpg

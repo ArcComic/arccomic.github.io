@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "exposed clothing"
-work_count: 19
+work_count: 20
 works:
   - title: Yofukashi no Tsuma ~Murakami Kozue~ | Late-Night Wife ~Murakami Kozue~
     author: oobayashi-mori
@@ -142,4 +142,11 @@ works:
     date: '2026-10-03'
     code: 685785
     url: /works/685785/
+  - title: Mothers are Women Too 5!
+    author: siberian-hahasky
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686446.jpg
+    rating: 0.0
+    date: '2026-10-10'
+    code: 686446
+    url: /works/686446/
 ---

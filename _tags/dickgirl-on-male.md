@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "dickgirl on male"
-work_count: 3
+work_count: 4
 works:
   - title: 'GNO: Girl''s Night Out - Issue 02'
     author: uselessbegging
@@ -25,4 +25,12 @@ works:
     date: '2026-09-10'
     code: 679961
     url: /works/679961/
+  - title: Sacrifice to the Lioness — The Former Head Who Became Prey to the Futanari
+      Ladies
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686422.jpg
+    rating: 0.0
+    date: '2026-10-10'
+    code: 686422
+    url: /works/686422/
 ---

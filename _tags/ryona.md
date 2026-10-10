@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "ryona"
-work_count: 9
+work_count: 10
 works:
   - title: Tomo-ochi Boshisoukan | Co-Depraved Mother-Son Incest
     author: ozy
@@ -71,4 +71,12 @@ works:
     date: '2026-09-28'
     code: 684659
     url: /works/684659/
+  - title: Sacrifice to the Lioness — The Former Head Who Became Prey to the Futanari
+      Ladies
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686422.jpg
+    rating: 0.0
+    date: '2026-10-10'
+    code: 686422
+    url: /works/686422/
 ---

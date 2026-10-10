@@ -1,7 +1,7 @@
 ---
 layout: artist
 artist_name: "group"
-work_count: 36
+work_count: 37
 works:
   - title: Shitsurakuen | Paradise Lost
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/463749.jpg
@@ -230,4 +230,11 @@ works:
     date: '2026-09-30'
     code: 684921
     url: /works/684921/
+  - title: Sacrifice to the Lioness — The Former Head Who Became Prey to the Futanari
+      Ladies
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686422.jpg
+    rating: 0.0
+    date: '2026-10-10'
+    code: 686422
+    url: /works/686422/
 ---

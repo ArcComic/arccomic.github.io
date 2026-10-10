@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "cbt"
-work_count: 7
+work_count: 8
 works:
   - title: Yuri no o saifu ni shite agemasu ne, Senpai | I'll turn you into Yuri's wallet,
       Senpai
@@ -53,4 +53,12 @@ works:
     date: '2026-09-16'
     code: 681510
     url: /works/681510/
+  - title: Sacrifice to the Lioness — The Former Head Who Became Prey to the Futanari
+      Ladies
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686422.jpg
+    rating: 0.0
+    date: '2026-10-10'
+    code: 686422
+    url: /works/686422/
 ---

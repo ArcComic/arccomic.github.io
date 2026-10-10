@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "glasses"
-work_count: 275
+work_count: 276
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -66,6 +66,13 @@ works:
     date: '2026-04-19'
     code: 190410
     url: /works/190410/
+  - title: Mama Naranai Onna-tachi Ch. 1-2
+    author: otochichi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/209822.jpg
+    rating: 0.0
+    date: '2026-10-10'
+    code: 209822
+    url: /works/209822/
   - title: Kizashi
     author: yoshiura-kazuya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/226386.jpg

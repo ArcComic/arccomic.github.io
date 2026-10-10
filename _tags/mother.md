@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "mother"
-work_count: 177
+work_count: 179
 works:
   - title: Imitation Family + Bigibo Hen
     author: tohzai
@@ -17,6 +17,13 @@ works:
     date: '2026-10-08'
     code: 157644
     url: /works/157644/
+  - title: Mama Naranai Onna-tachi Ch. 1-2
+    author: otochichi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/209822.jpg
+    rating: 0.0
+    date: '2026-10-10'
+    code: 209822
+    url: /works/209822/
   - title: Chibo Soukan Ch.1-3
     author: natsu-no-oyatsu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/238110.jpg
@@ -1294,4 +1301,11 @@ works:
     date: '2026-10-10'
     code: 686438
     url: /works/686438/
+  - title: Mothers are Women Too 5!
+    author: siberian-hahasky
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686446.jpg
+    rating: 0.0
+    date: '2026-10-10'
+    code: 686446
+    url: /works/686446/
 ---

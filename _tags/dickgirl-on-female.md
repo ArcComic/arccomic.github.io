@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "dickgirl on female"
-work_count: 15
+work_count: 16
 works:
   - title: Tempt & Throb
     author: mushihara
@@ -114,4 +114,12 @@ works:
     date: '2026-10-09'
     code: 686320
     url: /works/686320/
+  - title: Sacrifice to the Lioness — The Former Head Who Became Prey to the Futanari
+      Ladies
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686422.jpg
+    rating: 0.0
+    date: '2026-10-10'
+    code: 686422
+    url: /works/686422/
 ---

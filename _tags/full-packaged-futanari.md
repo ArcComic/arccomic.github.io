@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "full-packaged futanari"
-work_count: 7
+work_count: 8
 works:
   - title: Shojo Gal, Futanari Ojou-sama no Onaho ni Naru | Virgin Gal who Becomes a
       Pocket Pussy for a Futanari Young Lady
@@ -56,4 +56,12 @@ works:
     date: '2026-10-01'
     code: 685207
     url: /works/685207/
+  - title: Sacrifice to the Lioness — The Former Head Who Became Prey to the Futanari
+      Ladies
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686422.jpg
+    rating: 0.0
+    date: '2026-10-10'
+    code: 686422
+    url: /works/686422/
 ---
