@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "glasses"
-work_count: 269
+work_count: 270
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -166,6 +166,13 @@ works:
     date: '2026-09-04'
     code: 347653
     url: /works/347653/
+  - title: Ritsuko to Shokuba de...
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/351810.jpg
+    rating: 0.0
+    date: '2026-10-10'
+    code: 351810
+    url: /works/351810/
   - title: Senpai Refrain
     author: spiritus-tarou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/357616.jpg

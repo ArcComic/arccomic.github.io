@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "english"
-work_count: 1672
+work_count: 1675
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -341,6 +341,13 @@ works:
     date: '2026-09-13'
     code: 278500
     url: /works/278500/
+  - title: Chihaya to Seifuku! | Chihaya and Uniform!
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/280836.jpg
+    rating: 0.0
+    date: '2026-10-10'
+    code: 280836
+    url: /works/280836/
   - title: Futarikiri - Konna ni mo Itooshii 1.75
     author: nohito
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/283723.jpg
@@ -707,6 +714,13 @@ works:
     date: '2026-09-06'
     code: 349379
     url: /works/349379/
+  - title: Ritsuko to Shokuba de...
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/351810.jpg
+    rating: 0.0
+    date: '2026-10-10'
+    code: 351810
+    url: /works/351810/
   - title: Kanojo no Amai Jiraishuu
     author: jirou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/352215.jpg
@@ -728,6 +742,13 @@ works:
     date: '2026-09-12'
     code: 354384
     url: /works/354384/
+  - title: Shiro ga Afurete... | White Overflow...
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/355274.jpg
+    rating: 0.0
+    date: '2026-10-10'
+    code: 355274
+    url: /works/355274/
   - title: Amako Ticket Extra ~Onikuya-san Hen~ | Amako Ticket Extra ~Butcher Edition~
     author: rokuichi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/355398.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "lactation"
-work_count: 37
+work_count: 38
 works:
   - title: My Sugar Mama! 1-3
     author: azukiko
@@ -10,6 +10,13 @@ works:
     date: '2026-10-08'
     code: 328334
     url: /works/328334/
+  - title: Shiro ga Afurete... | White Overflow...
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/355274.jpg
+    rating: 0.0
+    date: '2026-10-10'
+    code: 355274
+    url: /works/355274/
   - title: NTR Nindou | The NTR Ninja Way
     author: tokie-hirohito
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/402019.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "nakadashi"
-work_count: 837
+work_count: 839
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -332,6 +332,13 @@ works:
     date: '2026-04-17'
     code: 349247
     url: /works/349247/
+  - title: Ritsuko to Shokuba de...
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/351810.jpg
+    rating: 0.0
+    date: '2026-10-10'
+    code: 351810
+    url: /works/351810/
   - title: Ayamachi no Rensa
     author: pororivista
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/351868.jpg
@@ -353,6 +360,13 @@ works:
     date: '2026-09-12'
     code: 354384
     url: /works/354384/
+  - title: Shiro ga Afurete... | White Overflow...
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/355274.jpg
+    rating: 0.0
+    date: '2026-10-10'
+    code: 355274
+    url: /works/355274/
   - title: Senpai Refrain
     author: spiritus-tarou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/357616.jpg

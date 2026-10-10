@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "x-ray"
-work_count: 329
+work_count: 330
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -89,6 +89,13 @@ works:
     date: '2026-09-15'
     code: 339953
     url: /works/339953/
+  - title: Shiro ga Afurete... | White Overflow...
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/355274.jpg
+    rating: 0.0
+    date: '2026-10-10'
+    code: 355274
+    url: /works/355274/
   - title: Shirotaegiku | Dusty miller
     author: hiroya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/370164.jpg

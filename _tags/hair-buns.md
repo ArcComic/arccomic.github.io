@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "hair buns"
-work_count: 40
+work_count: 41
 works:
   - title: Oppai na Natsuyasumi 2 | The Summer Break of Boobs 2
     author: higashino-mikan
@@ -17,6 +17,13 @@ works:
     date: '2026-04-23'
     code: 296282
     url: /works/296282/
+  - title: Ritsuko to Shokuba de...
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/351810.jpg
+    rating: 0.0
+    date: '2026-10-10'
+    code: 351810
+    url: /works/351810/
   - title: Mesukko Okami Wakarase Shuzai Kiroku
     author: airandou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/354384.jpg

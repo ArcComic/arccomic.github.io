@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "blowjob"
-work_count: 655
+work_count: 658
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -95,6 +95,13 @@ works:
     date: '2026-09-13'
     code: 278500
     url: /works/278500/
+  - title: Chihaya to Seifuku! | Chihaya and Uniform!
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/280836.jpg
+    rating: 0.0
+    date: '2026-10-10'
+    code: 280836
+    url: /works/280836/
   - title: Oppai na Natsuyasumi 2 | The Summer Break of Boobs 2
     author: higashino-mikan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/292454.jpg
@@ -254,6 +261,13 @@ works:
     date: '2026-07-08'
     code: 346416
     url: /works/346416/
+  - title: Ritsuko to Shokuba de...
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/351810.jpg
+    rating: 0.0
+    date: '2026-10-10'
+    code: 351810
+    url: /works/351810/
   - title: Mesukko Okami Wakarase Shuzai Kiroku
     author: airandou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/354384.jpg
@@ -261,6 +275,13 @@ works:
     date: '2026-09-12'
     code: 354384
     url: /works/354384/
+  - title: Shiro ga Afurete... | White Overflow...
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/355274.jpg
+    rating: 0.0
+    date: '2026-10-10'
+    code: 355274
+    url: /works/355274/
   - title: Amako Ticket Extra ~Onikuya-san Hen~ | Amako Ticket Extra ~Butcher Edition~
     author: rokuichi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/355398.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "cunnilingus"
-work_count: 167
+work_count: 168
 works:
   - title: Love Approach
     author: hanafuda-sakurano
@@ -75,6 +75,13 @@ works:
     date: '2026-09-04'
     code: 347653
     url: /works/347653/
+  - title: Ritsuko to Shokuba de...
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/351810.jpg
+    rating: 0.0
+    date: '2026-10-10'
+    code: 351810
+    url: /works/351810/
   - title: Osananajimi wa Otona no Onna | My Childhood Friend is an Adult Woman
     author: mashu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/383468.jpg

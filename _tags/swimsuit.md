@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "swimsuit"
-work_count: 80
+work_count: 81
 works:
   - title: Kizashi
     author: yoshiura-kazuya
@@ -45,6 +45,13 @@ works:
     date: '2026-10-10'
     code: 323523
     url: /works/323523/
+  - title: Ritsuko to Shokuba de...
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/351810.jpg
+    rating: 0.0
+    date: '2026-10-10'
+    code: 351810
+    url: /works/351810/
   - title: Giragira no Beach
     author: shimantogawa
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/397251.jpg

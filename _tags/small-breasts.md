@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "small breasts"
-work_count: 50
+work_count: 51
 works:
   - title: FLUFFY LAUGH GIRL
     author: shibasaki-syouzi
@@ -10,6 +10,13 @@ works:
     date: '2026-09-04'
     code: 210672
     url: /works/210672/
+  - title: Chihaya to Seifuku! | Chihaya and Uniform!
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/280836.jpg
+    rating: 0.0
+    date: '2026-10-10'
+    code: 280836
+    url: /works/280836/
   - title: Kimi to Itami wo Wakachi "AI" tai | I Want to Share Your Pain
     author: betty
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/294902.jpg

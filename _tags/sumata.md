@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sumata"
-work_count: 26
+work_count: 27
 works:
   - title: Ami Mami Mind 5
     author: tsurui
@@ -10,6 +10,13 @@ works:
     date: '2026-10-09'
     code: 262169
     url: /works/262169/
+  - title: Ritsuko to Shokuba de...
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/351810.jpg
+    rating: 0.0
+    date: '2026-10-10'
+    code: 351810
+    url: /works/351810/
   - title: Makoto ga TOP!
     author: tsurui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/361286.jpg

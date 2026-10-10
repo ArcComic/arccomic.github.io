@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "pantyhose"
-work_count: 73
+work_count: 74
 works:
   - title: MAGIC SEVEN
     author: asuhiro
@@ -66,6 +66,13 @@ works:
     date: '2026-07-08'
     code: 346416
     url: /works/346416/
+  - title: Ritsuko to Shokuba de...
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/351810.jpg
+    rating: 0.0
+    date: '2026-10-10'
+    code: 351810
+    url: /works/351810/
   - title: TABOO -Chuuhen-
     author: nanahoshi-tento
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/386725.jpg

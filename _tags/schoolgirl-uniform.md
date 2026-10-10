@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "schoolgirl uniform"
-work_count: 340
+work_count: 341
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -59,6 +59,13 @@ works:
     date: '2026-10-09'
     code: 262169
     url: /works/262169/
+  - title: Chihaya to Seifuku! | Chihaya and Uniform!
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/280836.jpg
+    rating: 0.0
+    date: '2026-10-10'
+    code: 280836
+    url: /works/280836/
   - title: Yuri no o saifu ni shite agemasu ne, Senpai | I'll turn you into Yuri's wallet,
       Senpai
     author: doskoinpo
