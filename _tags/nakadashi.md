@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "nakadashi"
-work_count: 835
+work_count: 837
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -252,6 +252,13 @@ works:
     date: '2026-07-09'
     code: 317673
     url: /works/317673/
+  - title: Yayoi to Issho 4
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/323523.jpg
+    rating: 0.0
+    date: '2026-10-10'
+    code: 323523
+    url: /works/323523/
   - title: Shika wa Tottemo Sekkyokuteki desu!
     author: tsurui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/323524.jpg
@@ -3115,6 +3122,13 @@ works:
     date: '2026-07-06'
     code: 642748
     url: /works/642748/
+  - title: Suki toka Iu Wake...
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642985.jpg
+    rating: 4.9
+    date: '2026-10-10'
+    code: 642985
+    url: /works/642985/
   - title: Misuzu no Oheya kara Hitoban Nigerarenai Hon  | The Book Where You Can't
       Escape Misuzu's Room All Night Long.
     author: cure-slum

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "rough translation"
-work_count: 667
+work_count: 668
 works:
   - title: Boku no Shiranai Kimi no Kao
     author: utsutsu-minoru
@@ -1407,6 +1407,13 @@ works:
     date: '2026-08-25'
     code: 642770
     url: /works/642770/
+  - title: Suki toka Iu Wake...
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642985.jpg
+    rating: 4.9
+    date: '2026-10-10'
+    code: 642985
+    url: /works/642985/
   - title: Joukyou Musume, Tokai no Kibishisa o Shiru | Country Girl Learns the Harshness
       of the City
     author: take-shinshi

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "tsurui"
-work_count: 9
+work_count: 11
 works:
   - title: Ami Mami Mind 5
     author: tsurui
@@ -17,6 +17,13 @@ works:
     date: '2026-10-08'
     code: 287467
     url: /works/287467/
+  - title: Yayoi to Issho 4
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/323523.jpg
+    rating: 0.0
+    date: '2026-10-10'
+    code: 323523
+    url: /works/323523/
   - title: Shika wa Tottemo Sekkyokuteki desu!
     author: tsurui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/323524.jpg
@@ -31,6 +38,13 @@ works:
     date: '2026-10-09'
     code: 361286
     url: /works/361286/
+  - title: Suki toka Iu Wake...
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642985.jpg
+    rating: 4.9
+    date: '2026-10-10'
+    code: 642985
+    url: /works/642985/
   - title: Homerareru beki Usagi
     author: tsurui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/647391.jpg

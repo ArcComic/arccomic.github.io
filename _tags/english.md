@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "english"
-work_count: 1670
+work_count: 1672
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -563,6 +563,13 @@ works:
     date: '2026-07-07'
     code: 321298
     url: /works/321298/
+  - title: Yayoi to Issho 4
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/323523.jpg
+    rating: 0.0
+    date: '2026-10-10'
+    code: 323523
+    url: /works/323523/
   - title: Shika wa Tottemo Sekkyokuteki desu!
     author: tsurui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/323524.jpg
@@ -5692,6 +5699,13 @@ works:
     date: '2026-09-22'
     code: 642839
     url: /works/642839/
+  - title: Suki toka Iu Wake...
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642985.jpg
+    rating: 4.9
+    date: '2026-10-10'
+    code: 642985
+    url: /works/642985/
   - title: Joukyou Musume, Tokai no Kibishisa o Shiru | Country Girl Learns the Harshness
       of the City
     author: take-shinshi

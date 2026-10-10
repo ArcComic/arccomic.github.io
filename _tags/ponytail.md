@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "ponytail"
-work_count: 168
+work_count: 169
 works:
   - title: Ami Mami Mind 5
     author: tsurui
@@ -496,6 +496,13 @@ works:
     date: '2026-10-02'
     code: 641858
     url: /works/641858/
+  - title: Suki toka Iu Wake...
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642985.jpg
+    rating: 4.9
+    date: '2026-10-10'
+    code: 642985
+    url: /works/642985/
   - title: My Childhood Friend Twins Become Another Man’s Onahole 1-3
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/643193.jpg

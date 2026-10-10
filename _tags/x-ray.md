@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "x-ray"
-work_count: 328
+work_count: 329
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -75,6 +75,13 @@ works:
     date: '2026-09-13'
     code: 316579
     url: /works/316579/
+  - title: Yayoi to Issho 4
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/323523.jpg
+    rating: 0.0
+    date: '2026-10-10'
+    code: 323523
+    url: /works/323523/
   - title: Kyodou Fushin Joshi
     author: uds
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/339953.jpg
