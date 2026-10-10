@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "uncensored"
-work_count: 129
+work_count: 131
 works:
+  - title: I'll be your cat
+    author: napata
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/167112.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 167112
+    url: /works/167112/
   - title: Netemo Sametemo | Be it Sleeping or Awake
     author: takasugi-kou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/272352.jpg
@@ -950,4 +957,11 @@ works:
     date: '2026-10-05'
     code: 686031
     url: /works/686031/
+  - title: Tooku e Iku Kimi ni
+    author: hako-reema
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686318.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 686318
+    url: /works/686318/
 ---

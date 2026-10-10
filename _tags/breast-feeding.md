@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "breast feeding"
-work_count: 83
+work_count: 86
 works:
   - title: Oppai na Natsuyasumi 2 | The Summer Break of Boobs 2
     author: higashino-mikan
@@ -509,6 +509,13 @@ works:
     date: '2026-08-29'
     code: 676320
     url: /works/676320/
+  - title: Romantic ga Tomerarenai | Can't Stop the Romance
+    author: kitaku
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/676948.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 676948
+    url: /works/676948/
   - title: Miki ga Mama ni Natte Ageru
     author: tsurui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678628.jpg
@@ -639,4 +646,19 @@ works:
     date: '2026-10-07'
     code: 686107
     url: /works/686107/
+  - title: The Crazy Thing About Combining Birthrate-Decline Measures with Dating Apps
+    author: armadillo-daiji
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686230.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 686230
+    url: /works/686230/
+  - title: Futanari ni Natta node Mahou no Shishou ni Naoshite Morau Hanashi | I Turned
+      Into a Futanari, So I Had My Magic Master Cure Me
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686320.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 686320
+    url: /works/686320/
 ---

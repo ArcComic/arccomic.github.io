@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "ponytail"
-work_count: 166
+work_count: 168
 works:
+  - title: Ami Mami Mind 5
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/262169.jpg
+    rating: 4.7
+    date: '2026-10-09'
+    code: 262169
+    url: /works/262169/
   - title: Hikki Mother Fucker
     author: otochichi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/287208.jpg
@@ -1227,4 +1234,11 @@ works:
     date: '2026-10-05'
     code: 685961
     url: /works/685961/
+  - title: The Crazy Thing About Combining Birthrate-Decline Measures with Dating Apps
+    author: armadillo-daiji
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686230.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 686230
+    url: /works/686230/
 ---

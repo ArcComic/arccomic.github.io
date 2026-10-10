@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "cousin"
-work_count: 19
+work_count: 20
 works:
   - title: Natsuyasumi~Boku to oneechan no inaka de hatsutaiken~ |Summer Vacation~My
       first time with Oneechan in the countryside
@@ -145,4 +145,11 @@ works:
     date: '2026-09-29'
     code: 684642
     url: /works/684642/
+  - title: Tooku e Iku Kimi ni
+    author: hako-reema
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686318.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 686318
+    url: /works/686318/
 ---

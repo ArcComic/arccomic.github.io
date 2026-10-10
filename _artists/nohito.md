@@ -1,8 +1,14 @@
 ---
 layout: artist
 artist_name: "nohito"
-work_count: 2
+work_count: 3
 works:
+  - title: Konna ni mo Itooshii Zero
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/179622.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 179622
+    url: /works/179622/
   - title: Konna ni mo Itooshii -After Zero-
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/276942.jpg
     rating: 4.1

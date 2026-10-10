@@ -1,8 +1,22 @@
 ---
 layout: tag
 tag_name: "sumata"
-work_count: 24
+work_count: 26
 works:
+  - title: Ami Mami Mind 5
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/262169.jpg
+    rating: 4.7
+    date: '2026-10-09'
+    code: 262169
+    url: /works/262169/
+  - title: Makoto ga TOP!
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/361286.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 361286
+    url: /works/361286/
   - title: Midara Midareru Hime Jijou | The Dirty And Confused Girl's Circumstances
     author: nekomata-naomi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/373952.jpg

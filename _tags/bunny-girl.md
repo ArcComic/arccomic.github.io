@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bunny girl"
-work_count: 36
+work_count: 37
 works:
   - title: Kaisha de Iroiro | Gettin' Busy at the Office
     author: hara-shigeyuki
@@ -89,6 +89,13 @@ works:
     date: '2026-04-23'
     code: 645646
     url: /works/645646/
+  - title: Homerareru beki Usagi
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/647391.jpg
+    rating: 4.3
+    date: '2026-10-09'
+    code: 647391
+    url: /works/647391/
   - title: Himesaki Rinami Onee-chan to Cosplay Lesson | Himesaki Rinami Big Sis Cosplay
       Lesson
     author: inoue-tommy

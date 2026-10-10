@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "business suit"
-work_count: 86
+work_count: 87
 works:
   - title: MAGIC SEVEN
     author: asuhiro
@@ -122,6 +122,13 @@ works:
     date: '2026-04-19'
     code: 342500
     url: /works/342500/
+  - title: Makoto ga TOP!
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/361286.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 361286
+    url: /works/361286/
   - title: Shokuba no Senpai
     author: mikuni-mizuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/363218.jpg

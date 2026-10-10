@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "multi-work series"
-work_count: 380
+work_count: 382
 works:
+  - title: Konna ni mo Itooshii Zero
+    author: nohito
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/179622.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 179622
+    url: /works/179622/
   - title: Konna ni mo Itooshii -After Zero-
     author: nohito
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/276942.jpg
@@ -2855,4 +2862,13 @@ works:
     date: '2026-10-07'
     code: 686107
     url: /works/686107/
+  - title: Gohoubi wa Karada de. ~Ero-sugi Fukuri Kousei wa Seishori-ka no Oshigoto~
+      (5) | The Reward is the Body ~The Overly Lewd Employee Benefits of the Service
+      Department~
+    author: c-kyuu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686249.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 686249
+    url: /works/686249/
 ---

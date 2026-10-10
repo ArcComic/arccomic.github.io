@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "tribadism"
-work_count: 15
+work_count: 16
 works:
   - title: Gekkoutou no Yume - Nyotaika Douwa ~Danshi Kinsei no Tou~
     author: mugen-no-sudadokei
@@ -75,6 +75,13 @@ works:
     date: '2026-08-22'
     code: 674863
     url: /works/674863/
+  - title: Romantic ga Tomerarenai | Can't Stop the Romance
+    author: kitaku
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/676948.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 676948
+    url: /works/676948/
   - title: Hyoui AV AV Joyuu no Karada wo Sukihoudai Suru Hanashi | Possession Porn
       ~A Story About Using Porn Actresses' Bodies as You Please~
     author: ame-no-machi

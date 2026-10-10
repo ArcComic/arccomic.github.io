@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "females only"
-work_count: 34
+work_count: 35
 works:
   - title: Himitsu no Kamiura san | The Mysterious Kamiura-san
     author: takeshisu
@@ -190,6 +190,13 @@ works:
     date: '2026-08-29'
     code: 676328
     url: /works/676328/
+  - title: Romantic ga Tomerarenai | Can't Stop the Romance
+    author: kitaku
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/676948.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 676948
+    url: /works/676948/
   - title: Lazy First Lovemaking of the New Year
     author: takeshisu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679604.jpg

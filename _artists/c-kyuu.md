@@ -1,7 +1,7 @@
 ---
 layout: artist
 artist_name: "c-kyuu"
-work_count: 3
+work_count: 4
 works:
   - title: Gibo-san wa Boku no Mono 7
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/511503.jpg
@@ -25,4 +25,12 @@ works:
     date: '2026-08-19'
     code: 668867
     url: /works/668867/
+  - title: Gohoubi wa Karada de. ~Ero-sugi Fukuri Kousei wa Seishori-ka no Oshigoto~
+      (5) | The Reward is the Body ~The Overly Lewd Employee Benefits of the Service
+      Department~
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686249.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 686249
+    url: /works/686249/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "petplay"
-work_count: 11
+work_count: 12
 works:
   - title: Hajimete no DomiSub ~Match App de Mitsuketa Goshujin-sama ni Jinsei Bukkowashite
       Moraimasu~
@@ -86,4 +86,11 @@ works:
     date: '2026-09-19'
     code: 682245
     url: /works/682245/
+  - title: Yami Seito Kaichou - Dark student council president
+    author: hakaba
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686334.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 686334
+    url: /works/686334/
 ---

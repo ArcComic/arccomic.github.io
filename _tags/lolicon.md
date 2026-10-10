@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "lolicon"
-work_count: 92
+work_count: 93
 works:
   - title: A-part | Apartment
     author: zero-no-mono
@@ -10,6 +10,13 @@ works:
     date: '2026-09-25'
     code: 215019
     url: /works/215019/
+  - title: Ami Mami Mind 5
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/262169.jpg
+    rating: 4.7
+    date: '2026-10-09'
+    code: 262169
+    url: /works/262169/
   - title: Tsutomesaki no Musume-san o Oishiku Itadaku Hon Minshuku Hen
     author: aya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/284573.jpg

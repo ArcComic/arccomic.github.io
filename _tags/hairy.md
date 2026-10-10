@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "hairy"
-work_count: 293
+work_count: 297
 works:
   - title: MAGIC SEVEN
     author: asuhiro
@@ -38,6 +38,13 @@ works:
     date: '2026-04-17'
     code: 162047
     url: /works/162047/
+  - title: Konna ni mo Itooshii Zero
+    author: nohito
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/179622.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 179622
+    url: /works/179622/
   - title: Hitozuma Hyakka
     author: hase-tsubura
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/190410.jpg
@@ -181,6 +188,13 @@ works:
     date: '2026-04-17'
     code: 359864
     url: /works/359864/
+  - title: Makoto ga TOP!
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/361286.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 361286
+    url: /works/361286/
   - title: Okki na Saori-chan wa Bukiyou ni Eroi
     author: aramaki-echizen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/363219.jpg
@@ -2153,4 +2167,20 @@ works:
     date: '2026-10-07'
     code: 686107
     url: /works/686107/
+  - title: The Crazy Thing About Combining Birthrate-Decline Measures with Dating Apps
+    author: armadillo-daiji
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686230.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 686230
+    url: /works/686230/
+  - title: Gohoubi wa Karada de. ~Ero-sugi Fukuri Kousei wa Seishori-ka no Oshigoto~
+      (5) | The Reward is the Body ~The Overly Lewd Employee Benefits of the Service
+      Department~
+    author: c-kyuu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686249.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 686249
+    url: /works/686249/
 ---

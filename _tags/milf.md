@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "milf"
-work_count: 459
+work_count: 461
 works:
   - title: Life with Married Women Just Like a Manga 2 - Ch. 1-5
     author: hidemaru
@@ -3357,6 +3357,22 @@ works:
     date: '2026-10-05'
     code: 686031
     url: /works/686031/
+  - title: The Crazy Thing About Combining Birthrate-Decline Measures with Dating Apps
+    author: armadillo-daiji
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686230.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 686230
+    url: /works/686230/
+  - title: Gohoubi wa Karada de. ~Ero-sugi Fukuri Kousei wa Seishori-ka no Oshigoto~
+      (5) | The Reward is the Body ~The Overly Lewd Employee Benefits of the Service
+      Department~
+    author: c-kyuu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686249.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 686249
+    url: /works/686249/
   - title: Jokyoushi - Hot For Teachers | Female Teachers
     author: drill-murata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/81375.jpg

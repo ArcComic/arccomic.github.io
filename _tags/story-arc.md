@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "story arc"
-work_count: 213
+work_count: 215
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -1569,6 +1569,20 @@ works:
     date: '2026-10-05'
     code: 685961
     url: /works/685961/
+  - title: The Crazy Thing About Combining Birthrate-Decline Measures with Dating Apps
+    author: armadillo-daiji
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686230.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 686230
+    url: /works/686230/
+  - title: Yami Seito Kaichou - Dark student council president
+    author: hakaba
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686334.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 686334
+    url: /works/686334/
   - title: Hottokenaino
     author: hara-shigeyuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/77864.jpg

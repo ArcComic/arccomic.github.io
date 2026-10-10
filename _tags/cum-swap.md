@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "cum swap"
-work_count: 4
+work_count: 5
 works:
+  - title: Nee-chan to Chome Chome Ch. 1-4
+    author: sabashi-renya
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/474885.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 474885
+    url: /works/474885/
   - title: Pakokatsu Oji-san to Kaede-chan (1+2+3) | Kaede and The Sugar Daddy
     author: nizigensan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/543086.jpg

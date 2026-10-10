@@ -1,8 +1,22 @@
 ---
 layout: tag
 tag_name: "sole male"
-work_count: 898
+work_count: 913
 works:
+  - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
+    author: napata
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/103606.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 103606
+    url: /works/103606/
+  - title: Shiburin-ppoi no!
+    author: napata
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/106821.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 106821
+    url: /works/106821/
   - title: Adoration
     author: kishizuka-kenji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/112455.jpg
@@ -10,6 +24,13 @@ works:
     date: '2026-05-04'
     code: 112455
     url: /works/112455/
+  - title: Kaede-san-ppoi no!
+    author: napata
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/136668.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 136668
+    url: /works/136668/
   - title: Mika-ppoi no!
     author: napata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/137236.jpg
@@ -24,6 +45,13 @@ works:
     date: '2026-10-02'
     code: 143217
     url: /works/143217/
+  - title: Rin to P
+    author: simon
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/143929.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 143929
+    url: /works/143929/
   - title: Love Approach
     author: hanafuda-sakurano
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/158990.jpg
@@ -38,6 +66,13 @@ works:
     date: '2026-04-17'
     code: 162047
     url: /works/162047/
+  - title: I'll be your cat
+    author: napata
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/167112.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 167112
+    url: /works/167112/
   - title: Ashita wa Kinenbi
     author: alpha
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/169587.jpg
@@ -52,6 +87,13 @@ works:
     date: '2026-10-08'
     code: 179239
     url: /works/179239/
+  - title: Konna ni mo Itooshii Zero
+    author: nohito
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/179622.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 179622
+    url: /works/179622/
   - title: Sei no Kenryoku | The Power of Sex
     author: tomohiro-kai
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/196238.jpg
@@ -95,6 +137,13 @@ works:
     date: '2026-09-30'
     code: 246449
     url: /works/246449/
+  - title: Ami Mami Mind 5
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/262169.jpg
+    rating: 4.7
+    date: '2026-10-09'
+    code: 262169
+    url: /works/262169/
   - title: Tsuma no Imouto no Danna ga Ie ni Kiteiruyoudesu | My Sister-In-Law's Husband
       is Over
     author: arakure
@@ -309,6 +358,13 @@ works:
     date: '2026-07-07'
     code: 321298
     url: /works/321298/
+  - title: Shika wa Tottemo Sekkyokuteki desu!
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/323524.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 323524
+    url: /works/323524/
   - title: My Sugar Mama! 1-3
     author: azukiko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/328334.jpg
@@ -439,6 +495,13 @@ works:
     date: '2026-04-27'
     code: 357965
     url: /works/357965/
+  - title: Makoto ga TOP!
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/361286.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 361286
+    url: /works/361286/
   - title: Shokuba no Senpai
     author: mikuni-mizuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/363218.jpg
@@ -1072,6 +1135,13 @@ works:
     date: '2026-09-29'
     code: 473892
     url: /works/473892/
+  - title: Nee-chan to Chome Chome Ch. 1-4
+    author: sabashi-renya
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/474885.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 474885
+    url: /works/474885/
   - title: '"Koko Ijirareru no Sukidatta yona?" Rinjin wa, Hitozuma no Moto SeFri |
       “You Love When I Tease You Here, Don’t You?” My Neighbor Was My Former Sex Friend
       1'
@@ -3764,6 +3834,13 @@ works:
     date: '2026-05-03'
     code: 647382
     url: /works/647382/
+  - title: Homerareru beki Usagi
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/647391.jpg
+    rating: 4.3
+    date: '2026-10-09'
+    code: 647391
+    url: /works/647391/
   - title: If I Have a Chance, I Want to Warp My Boyfriend's Fetishes!
     author: meeko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/647619.jpg
@@ -5008,6 +5085,13 @@ works:
     date: '2026-09-27'
     code: 672405
     url: /works/672405/
+  - title: Mamayu VR
+    author: ponpon
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/672577.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 672577
+    url: /works/672577/
   - title: Ofuroba de Mayu to Ecchi na Koto Suru Hon
     author: garana
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/672580.jpg
@@ -6672,4 +6756,29 @@ works:
     date: '2026-10-07'
     code: 686107
     url: /works/686107/
+  - title: Oyashiki ni Tsukaeru Elf wa Goshujin-sama ni XXXX de Gohoushi Suru no ga
+      Shigoto desu | The Elf Who Serves at the Mansion Has the Job of Serving Her Master
+      with XXXX
+    author: nyaruko
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686113.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 686113
+    url: /works/686113/
+  - title: Gohoubi wa Karada de. ~Ero-sugi Fukuri Kousei wa Seishori-ka no Oshigoto~
+      (5) | The Reward is the Body ~The Overly Lewd Employee Benefits of the Service
+      Department~
+    author: c-kyuu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686249.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 686249
+    url: /works/686249/
+  - title: Ranko-ppoi no! | Ranko-Ish!
+    author: napata
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/87393.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 87393
+    url: /works/87393/
 ---

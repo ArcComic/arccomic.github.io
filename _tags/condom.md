@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "condom"
-work_count: 219
+work_count: 222
 works:
   - title: Kaisha de Iroiro | Gettin' Busy at the Office
     author: hara-shigeyuki
@@ -1620,4 +1620,27 @@ works:
     date: '2026-10-03'
     code: 685785
     url: /works/685785/
+  - title: Gohoubi wa Karada de. ~Ero-sugi Fukuri Kousei wa Seishori-ka no Oshigoto~
+      (5) | The Reward is the Body ~The Overly Lewd Employee Benefits of the Service
+      Department~
+    author: c-kyuu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686249.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 686249
+    url: /works/686249/
+  - title: Tooku e Iku Kimi ni
+    author: hako-reema
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686318.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 686318
+    url: /works/686318/
+  - title: Ranko-ppoi no! | Ranko-Ish!
+    author: napata
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/87393.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 87393
+    url: /works/87393/
 ---

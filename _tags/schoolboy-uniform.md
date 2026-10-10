@@ -1,8 +1,22 @@
 ---
 layout: tag
 tag_name: "schoolboy uniform"
-work_count: 97
+work_count: 99
 works:
+  - title: Shiburin-ppoi no!
+    author: napata
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/106821.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 106821
+    url: /works/106821/
+  - title: Rin to P
+    author: simon
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/143929.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 143929
+    url: /works/143929/
   - title: Ikanishite Haha wa Onna o Kaihou Shitaka Ch. 1-14
     author: mitarai-yuuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/157644.jpg

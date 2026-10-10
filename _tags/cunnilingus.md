@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "cunnilingus"
-work_count: 163
+work_count: 167
 works:
   - title: Love Approach
     author: hanafuda-sakurano
@@ -176,6 +176,13 @@ works:
     date: '2026-10-08'
     code: 457980
     url: /works/457980/
+  - title: Nee-chan to Chome Chome Ch. 1-4
+    author: sabashi-renya
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/474885.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 474885
+    url: /works/474885/
   - title: '"Koko Ijirareru no Sukidatta yona?" Rinjin wa, Hitozuma no Moto SeFri |
       “You Love When I Tease You Here, Don’t You?” My Neighbor Was My Former Sex Friend
       1'
@@ -994,6 +1001,13 @@ works:
     date: '2026-08-28'
     code: 676149
     url: /works/676149/
+  - title: Romantic ga Tomerarenai | Can't Stop the Romance
+    author: kitaku
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/676948.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 676948
+    url: /works/676948/
   - title: Ani ga Inma ni Natta node
     author: dobato
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/677079.jpg
@@ -1211,4 +1225,18 @@ works:
     date: '2026-10-05'
     code: 685989
     url: /works/685989/
+  - title: The Crazy Thing About Combining Birthrate-Decline Measures with Dating Apps
+    author: armadillo-daiji
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686230.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 686230
+    url: /works/686230/
+  - title: Tooku e Iku Kimi ni
+    author: hako-reema
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686318.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 686318
+    url: /works/686318/
 ---

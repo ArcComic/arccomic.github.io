@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "x-ray"
-work_count: 324
+work_count: 328
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -10,6 +10,13 @@ works:
     date: '2026-04-17'
     code: 162047
     url: /works/162047/
+  - title: Konna ni mo Itooshii Zero
+    author: nohito
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/179622.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 179622
+    url: /works/179622/
   - title: Chibo Soukan Ch.1-3
     author: natsu-no-oyatsu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/238110.jpg
@@ -251,6 +258,13 @@ works:
     date: '2026-10-02'
     code: 473512
     url: /works/473512/
+  - title: Nee-chan to Chome Chome Ch. 1-4
+    author: sabashi-renya
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/474885.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 474885
+    url: /works/474885/
   - title: Seiso na Imouto no Tomodachi wa Mesugaki deshita | My Pure and Innocent Little
       Sister Became Friends With a Mesugaki
     author: kagono-tori
@@ -2433,4 +2447,22 @@ works:
     date: '2026-10-07'
     code: 686107
     url: /works/686107/
+  - title: Oyashiki ni Tsukaeru Elf wa Goshujin-sama ni XXXX de Gohoushi Suru no ga
+      Shigoto desu | The Elf Who Serves at the Mansion Has the Job of Serving Her Master
+      with XXXX
+    author: nyaruko
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686113.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 686113
+    url: /works/686113/
+  - title: Gohoubi wa Karada de. ~Ero-sugi Fukuri Kousei wa Seishori-ka no Oshigoto~
+      (5) | The Reward is the Body ~The Overly Lewd Employee Benefits of the Service
+      Department~
+    author: c-kyuu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686249.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 686249
+    url: /works/686249/
 ---

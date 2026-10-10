@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "scanmark"
-work_count: 229
+work_count: 232
 works:
   - title: NTR Anniversary + ) [Syukurin] Mitsuha ~Netorare~ (Kimi no Na wa.) [English]
       [Colorized] by Mikaku
@@ -1656,4 +1656,25 @@ works:
     date: '2026-10-03'
     code: 685785
     url: /works/685785/
+  - title: The Crazy Thing About Combining Birthrate-Decline Measures with Dating Apps
+    author: armadillo-daiji
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686230.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 686230
+    url: /works/686230/
+  - title: Tooku e Iku Kimi ni
+    author: hako-reema
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686318.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 686318
+    url: /works/686318/
+  - title: Yami Seito Kaichou - Dark student council president
+    author: hakaba
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686334.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 686334
+    url: /works/686334/
 ---

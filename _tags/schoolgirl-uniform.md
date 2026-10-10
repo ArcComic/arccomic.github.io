@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "schoolgirl uniform"
-work_count: 335
+work_count: 340
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -10,6 +10,27 @@ works:
     date: '2026-04-17'
     code: 103680
     url: /works/103680/
+  - title: Shiburin-ppoi no!
+    author: napata
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/106821.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 106821
+    url: /works/106821/
+  - title: Rin to P
+    author: simon
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/143929.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 143929
+    url: /works/143929/
+  - title: I'll be your cat
+    author: napata
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/167112.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 167112
+    url: /works/167112/
   - title: GalPa!
     author: sakagami-umi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/208522.jpg
@@ -31,6 +52,13 @@ works:
     date: '2026-09-30'
     code: 246449
     url: /works/246449/
+  - title: Ami Mami Mind 5
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/262169.jpg
+    rating: 4.7
+    date: '2026-10-09'
+    code: 262169
+    url: /works/262169/
   - title: Yuri no o saifu ni shite agemasu ne, Senpai | I'll turn you into Yuri's wallet,
       Senpai
     author: doskoinpo
@@ -2495,4 +2523,11 @@ works:
     date: '2026-10-05'
     code: 685928
     url: /works/685928/
+  - title: The Crazy Thing About Combining Birthrate-Decline Measures with Dating Apps
+    author: armadillo-daiji
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686230.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 686230
+    url: /works/686230/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "strap-on"
-work_count: 8
+work_count: 9
 works:
   - title: Mayugomori 〜Nee ya to boku no midarana himegoto 〜 Ch.1-4
     author: mogiki-hayami
@@ -59,4 +59,11 @@ works:
     date: '2026-09-23'
     code: 683318
     url: /works/683318/
+  - title: Yami Seito Kaichou - Dark student council president
+    author: hakaba
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686334.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 686334
+    url: /works/686334/
 ---

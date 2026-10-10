@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "handjob"
-work_count: 142
+work_count: 144
 works:
+  - title: Rin to P
+    author: simon
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/143929.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 143929
+    url: /works/143929/
   - title: Chibo Soukan Ch.1-3
     author: natsu-no-oyatsu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/238110.jpg
@@ -1060,6 +1067,13 @@ works:
     date: '2026-10-07'
     code: 686107
     url: /works/686107/
+  - title: Tooku e Iku Kimi ni
+    author: hako-reema
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686318.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 686318
+    url: /works/686318/
   - title: Onee-chan no SM Kouza | Onee-chan's S&M Lecture
     author: shinooka-homare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/88750.jpg

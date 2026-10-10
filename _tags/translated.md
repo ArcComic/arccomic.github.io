@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "translated"
-work_count: 1600
+work_count: 1620
 works:
+  - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
+    author: napata
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/103606.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 103606
+    url: /works/103606/
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/103680.jpg
@@ -17,6 +24,13 @@ works:
     date: '2026-10-09'
     code: 106500
     url: /works/106500/
+  - title: Shiburin-ppoi no!
+    author: napata
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/106821.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 106821
+    url: /works/106821/
   - title: Kaisha de Iroiro | Gettin' Busy at the Office
     author: hara-shigeyuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/110835.jpg
@@ -66,6 +80,13 @@ works:
     date: '2026-09-25'
     code: 135719
     url: /works/135719/
+  - title: Kaede-san-ppoi no!
+    author: napata
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/136668.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 136668
+    url: /works/136668/
   - title: Little Problem =LWB=
     author: yoshiura-kazuya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/136819.jpg
@@ -101,6 +122,13 @@ works:
     date: '2026-10-02'
     code: 143217
     url: /works/143217/
+  - title: Rin to P
+    author: simon
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/143929.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 143929
+    url: /works/143929/
   - title: Imitation Family + Bigibo Hen
     author: tohzai
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/145635.jpg
@@ -143,6 +171,13 @@ works:
     date: '2026-04-19'
     code: 163039
     url: /works/163039/
+  - title: I'll be your cat
+    author: napata
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/167112.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 167112
+    url: /works/167112/
   - title: Ashita wa Kinenbi
     author: alpha
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/169587.jpg
@@ -164,6 +199,13 @@ works:
     date: '2026-02-26'
     code: 179531
     url: /works/179531/
+  - title: Konna ni mo Itooshii Zero
+    author: nohito
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/179622.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 179622
+    url: /works/179622/
   - title: Sei no Kenryoku | The Power of Sex
     author: tomohiro-kai
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/196238.jpg
@@ -249,6 +291,13 @@ works:
     date: '2026-09-30'
     code: 246449
     url: /works/246449/
+  - title: Ami Mami Mind 5
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/262169.jpg
+    rating: 4.7
+    date: '2026-10-09'
+    code: 262169
+    url: /works/262169/
   - title: Tsuma no Imouto no Danna ga Ie ni Kiteiruyoudesu | My Sister-In-Law's Husband
       is Over
     author: arakure
@@ -528,6 +577,13 @@ works:
     date: '2026-07-07'
     code: 321298
     url: /works/321298/
+  - title: Shika wa Tottemo Sekkyokuteki desu!
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/323524.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 323524
+    url: /works/323524/
   - title: Himitsu no Kamiura san | The Mysterious Kamiura-san
     author: takeshisu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/324170.jpg
@@ -731,6 +787,13 @@ works:
     date: '2026-03-09'
     code: 361032
     url: /works/361032/
+  - title: Makoto ga TOP!
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/361286.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 361286
+    url: /works/361286/
   - title: Shokuba no Senpai
     author: mikuni-mizuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/363218.jpg
@@ -1705,6 +1768,13 @@ works:
     date: '2026-09-29'
     code: 473892
     url: /works/473892/
+  - title: Nee-chan to Chome Chome Ch. 1-4
+    author: sabashi-renya
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/474885.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 474885
+    url: /works/474885/
   - title: Seiso na Imouto no Tomodachi wa Mesugaki deshita | My Pure and Innocent Little
       Sister Became Friends With a Mesugaki
     author: kagono-tori
@@ -6093,6 +6163,13 @@ works:
     date: '2026-05-03'
     code: 647382
     url: /works/647382/
+  - title: Homerareru beki Usagi
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/647391.jpg
+    rating: 4.3
+    date: '2026-10-09'
+    code: 647391
+    url: /works/647391/
   - title: Venom Invasion VII 【Part 1】
     author: blackftos
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/647563.jpg
@@ -8534,6 +8611,13 @@ works:
     date: '2026-08-25'
     code: 672450
     url: /works/672450/
+  - title: Mamayu VR
+    author: ponpon
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/672577.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 672577
+    url: /works/672577/
   - title: Ofuroba de Mayu to Ecchi na Koto Suru Hon
     author: garana
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/672580.jpg
@@ -9279,6 +9363,13 @@ works:
     date: '2026-10-07'
     code: 676787
     url: /works/676787/
+  - title: Romantic ga Tomerarenai | Can't Stop the Romance
+    author: kitaku
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/676948.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 676948
+    url: /works/676948/
   - title: Ani ga Inma ni Natta node
     author: dobato
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/677079.jpg
@@ -11762,6 +11853,53 @@ works:
     date: '2026-10-07'
     code: 686107
     url: /works/686107/
+  - title: Oyashiki ni Tsukaeru Elf wa Goshujin-sama ni XXXX de Gohoushi Suru no ga
+      Shigoto desu | The Elf Who Serves at the Mansion Has the Job of Serving Her Master
+      with XXXX
+    author: nyaruko
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686113.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 686113
+    url: /works/686113/
+  - title: The Crazy Thing About Combining Birthrate-Decline Measures with Dating Apps
+    author: armadillo-daiji
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686230.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 686230
+    url: /works/686230/
+  - title: Gohoubi wa Karada de. ~Ero-sugi Fukuri Kousei wa Seishori-ka no Oshigoto~
+      (5) | The Reward is the Body ~The Overly Lewd Employee Benefits of the Service
+      Department~
+    author: c-kyuu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686249.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 686249
+    url: /works/686249/
+  - title: Tooku e Iku Kimi ni
+    author: hako-reema
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686318.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 686318
+    url: /works/686318/
+  - title: Futanari ni Natta node Mahou no Shishou ni Naoshite Morau Hanashi | I Turned
+      Into a Futanari, So I Had My Magic Master Cure Me
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686320.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 686320
+    url: /works/686320/
+  - title: Yami Seito Kaichou - Dark student council president
+    author: hakaba
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686334.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 686334
+    url: /works/686334/
   - title: Hottokenaino
     author: hara-shigeyuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/77864.jpg
@@ -11783,6 +11921,13 @@ works:
     date: '2026-03-11'
     code: 83595
     url: /works/83595/
+  - title: Ranko-ppoi no! | Ranko-Ish!
+    author: napata
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/87393.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 87393
+    url: /works/87393/
   - title: Onee-chan no SM Kouza | Onee-chan's S&M Lecture
     author: shinooka-homare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/88750.jpg

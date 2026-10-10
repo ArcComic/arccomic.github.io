@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big breasts"
-work_count: 1115
+work_count: 1123
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -73,6 +73,13 @@ works:
     date: '2026-04-19'
     code: 163039
     url: /works/163039/
+  - title: Konna ni mo Itooshii Zero
+    author: nohito
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/179622.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 179622
+    url: /works/179622/
   - title: Hitozuma Hyakka
     author: hase-tsubura
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/190410.jpg
@@ -1011,6 +1018,13 @@ works:
     date: '2026-10-02'
     code: 472157
     url: /works/472157/
+  - title: Nee-chan to Chome Chome Ch. 1-4
+    author: sabashi-renya
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/474885.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 474885
+    url: /works/474885/
   - title: '"Koko Ijirareru no Sukidatta yona?" Rinjin wa, Hitozuma no Moto SeFri |
       “You Love When I Tease You Here, Don’t You?” My Neighbor Was My Former Sex Friend
       1'
@@ -4221,6 +4235,13 @@ works:
     date: '2026-05-03'
     code: 647382
     url: /works/647382/
+  - title: Homerareru beki Usagi
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/647391.jpg
+    rating: 4.3
+    date: '2026-10-09'
+    code: 647391
+    url: /works/647391/
   - title: Netorareta Kanojo ga Joou-sama ni natte Kaettekita ~Ruined de Kintama o Kara
       ni sarete Zenritsusen o Ijirarete Nandomo Nandomo Mesuikishite Choukyou sareru
       Ohanashi~
@@ -6487,6 +6508,13 @@ works:
     date: '2026-08-31'
     code: 676658
     url: /works/676658/
+  - title: Romantic ga Tomerarenai | Can't Stop the Romance
+    author: kitaku
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/676948.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 676948
+    url: /works/676948/
   - title: Dad stole my gf so i try to steal his wife - CH4
     author: alamama
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/677170.jpg
@@ -8242,6 +8270,39 @@ works:
     date: '2026-10-07'
     code: 686107
     url: /works/686107/
+  - title: Oyashiki ni Tsukaeru Elf wa Goshujin-sama ni XXXX de Gohoushi Suru no ga
+      Shigoto desu | The Elf Who Serves at the Mansion Has the Job of Serving Her Master
+      with XXXX
+    author: nyaruko
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686113.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 686113
+    url: /works/686113/
+  - title: The Crazy Thing About Combining Birthrate-Decline Measures with Dating Apps
+    author: armadillo-daiji
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686230.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 686230
+    url: /works/686230/
+  - title: Gohoubi wa Karada de. ~Ero-sugi Fukuri Kousei wa Seishori-ka no Oshigoto~
+      (5) | The Reward is the Body ~The Overly Lewd Employee Benefits of the Service
+      Department~
+    author: c-kyuu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686249.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 686249
+    url: /works/686249/
+  - title: Futanari ni Natta node Mahou no Shishou ni Naoshite Morau Hanashi | I Turned
+      Into a Futanari, So I Had My Magic Master Cure Me
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686320.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 686320
+    url: /works/686320/
   - title: Hottokenaino
     author: hara-shigeyuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/77864.jpg

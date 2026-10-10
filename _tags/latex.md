@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "latex"
-work_count: 9
+work_count: 10
 works:
   - title: Datenshi no Yuuwaku -Office Angel Project- 1
     author: hiraoka-ryuichi
@@ -68,4 +68,11 @@ works:
     date: '2026-10-01'
     code: 685339
     url: /works/685339/
+  - title: Yami Seito Kaichou - Dark student council president
+    author: hakaba
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686334.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 686334
+    url: /works/686334/
 ---

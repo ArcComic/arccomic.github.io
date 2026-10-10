@@ -1,8 +1,29 @@
 ---
 layout: tag
 tag_name: "producer"
-work_count: 30
+work_count: 40
 works:
+  - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
+    author: napata
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/103606.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 103606
+    url: /works/103606/
+  - title: Shiburin-ppoi no!
+    author: napata
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/106821.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 106821
+    url: /works/106821/
+  - title: Kaede-san-ppoi no!
+    author: napata
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/136668.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 136668
+    url: /works/136668/
   - title: Mika-ppoi no!
     author: napata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/137236.jpg
@@ -10,6 +31,13 @@ works:
     date: '2026-10-09'
     code: 137236
     url: /works/137236/
+  - title: Rin to P
+    author: simon
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/143929.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 143929
+    url: /works/143929/
   - title: Ashita wa Kinenbi
     author: alpha
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/169587.jpg
@@ -31,6 +59,13 @@ works:
     date: '2026-02-26'
     code: 179531
     url: /works/179531/
+  - title: Konna ni mo Itooshii Zero
+    author: nohito
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/179622.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 179622
+    url: /works/179622/
   - title: One Night Show Time
     author: shinooka-homare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/228426.jpg
@@ -38,6 +73,13 @@ works:
     date: '2026-10-08'
     code: 228426
     url: /works/228426/
+  - title: Ami Mami Mind 5
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/262169.jpg
+    rating: 4.7
+    date: '2026-10-09'
+    code: 262169
+    url: /works/262169/
   - title: Konna ni mo Itooshii -After Zero-
     author: nohito
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/276942.jpg
@@ -73,6 +115,20 @@ works:
     date: '2026-10-02'
     code: 314536
     url: /works/314536/
+  - title: Shika wa Tottemo Sekkyokuteki desu!
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/323524.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 323524
+    url: /works/323524/
+  - title: Makoto ga TOP!
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/361286.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 361286
+    url: /works/361286/
   - title: FANTASY DIARY
     author: yd
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/386119.jpg
@@ -166,6 +222,13 @@ works:
     date: '2026-10-09'
     code: 658645
     url: /works/658645/
+  - title: Mamayu VR
+    author: ponpon
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/672577.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 672577
+    url: /works/672577/
   - title: Ofuroba de Mayu to Ecchi na Koto Suru Hon
     author: garana
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/672580.jpg
@@ -216,4 +279,11 @@ works:
     date: '2026-10-01'
     code: 685197
     url: /works/685197/
+  - title: Ranko-ppoi no! | Ranko-Ish!
+    author: napata
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/87393.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 87393
+    url: /works/87393/
 ---

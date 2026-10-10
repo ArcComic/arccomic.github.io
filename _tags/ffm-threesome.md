@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "ffm threesome"
-work_count: 139
+work_count: 142
 works:
   - title: Hustle! Danchizuma Ch. 1-18 END
     author: hidemaru
@@ -24,6 +24,13 @@ works:
     date: '2026-09-20'
     code: 238471
     url: /works/238471/
+  - title: Ami Mami Mind 5
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/262169.jpg
+    rating: 4.7
+    date: '2026-10-09'
+    code: 262169
+    url: /works/262169/
   - title: Akarui Kazoku Seikatsu
     author: pistonring-nishizawa
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/304307.jpg
@@ -89,6 +96,13 @@ works:
     date: '2026-04-15'
     code: 470025
     url: /works/470025/
+  - title: Nee-chan to Chome Chome Ch. 1-4
+    author: sabashi-renya
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/474885.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 474885
+    url: /works/474885/
   - title: Onsen Yukata na Kashima-san to Hamakaze-san to. | Hamakaze and Kashima in
       Hot Springs and Yukata
     author: sarfata
@@ -1033,4 +1047,11 @@ works:
     date: '2026-10-05'
     code: 686044
     url: /works/686044/
+  - title: The Crazy Thing About Combining Birthrate-Decline Measures with Dating Apps
+    author: armadillo-daiji
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686230.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 686230
+    url: /works/686230/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "group"
-work_count: 245
+work_count: 249
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -52,6 +52,13 @@ works:
     date: '2026-09-24'
     code: 238110
     url: /works/238110/
+  - title: Ami Mami Mind 5
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/262169.jpg
+    rating: 4.7
+    date: '2026-10-09'
+    code: 262169
+    url: /works/262169/
   - title: Yuri no o saifu ni shite agemasu ne, Senpai | I'll turn you into Yuri's wallet,
       Senpai
     author: doskoinpo
@@ -190,6 +197,13 @@ works:
     date: '2026-04-15'
     code: 470025
     url: /works/470025/
+  - title: Nee-chan to Chome Chome Ch. 1-4
+    author: sabashi-renya
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/474885.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 474885
+    url: /works/474885/
   - title: Onsen Yukata na Kashima-san to Hamakaze-san to. | Hamakaze and Kashima in
       Hot Springs and Yukata
     author: sarfata
@@ -1796,4 +1810,18 @@ works:
     date: '2026-10-07'
     code: 686092
     url: /works/686092/
+  - title: The Crazy Thing About Combining Birthrate-Decline Measures with Dating Apps
+    author: armadillo-daiji
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686230.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 686230
+    url: /works/686230/
+  - title: Yami Seito Kaichou - Dark student council president
+    author: hakaba
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686334.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 686334
+    url: /works/686334/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "rough translation"
-work_count: 661
+work_count: 667
 works:
   - title: Boku no Shiranai Kimi no Kao
     author: utsutsu-minoru
@@ -1615,6 +1615,13 @@ works:
     date: '2026-05-03'
     code: 647382
     url: /works/647382/
+  - title: Homerareru beki Usagi
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/647391.jpg
+    rating: 4.3
+    date: '2026-10-09'
+    code: 647391
+    url: /works/647391/
   - title: Rikuhachima Shachou to Himitsu no Keiyaku - secret contract | A Secret Contract
       with Boss Rikuhachima
     author: masami-atabe
@@ -2958,6 +2965,13 @@ works:
     date: '2026-08-25'
     code: 672450
     url: /works/672450/
+  - title: Mamayu VR
+    author: ponpon
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/672577.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 672577
+    url: /works/672577/
   - title: Ofuroba de Mayu to Ecchi na Koto Suru Hon
     author: garana
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/672580.jpg
@@ -4836,4 +4850,34 @@ works:
     date: '2026-10-07'
     code: 686081
     url: /works/686081/
+  - title: Oyashiki ni Tsukaeru Elf wa Goshujin-sama ni XXXX de Gohoushi Suru no ga
+      Shigoto desu | The Elf Who Serves at the Mansion Has the Job of Serving Her Master
+      with XXXX
+    author: nyaruko
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686113.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 686113
+    url: /works/686113/
+  - title: The Crazy Thing About Combining Birthrate-Decline Measures with Dating Apps
+    author: armadillo-daiji
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686230.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 686230
+    url: /works/686230/
+  - title: Tooku e Iku Kimi ni
+    author: hako-reema
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686318.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 686318
+    url: /works/686318/
+  - title: Yami Seito Kaichou - Dark student council president
+    author: hakaba
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686334.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 686334
+    url: /works/686334/
 ---

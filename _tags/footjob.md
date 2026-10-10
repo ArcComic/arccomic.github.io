@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "footjob"
-work_count: 33
+work_count: 34
 works:
   - title: Sei no Kenryoku | The Power of Sex
     author: tomohiro-kai
@@ -156,6 +156,13 @@ works:
     date: '2026-07-16'
     code: 664853
     url: /works/664853/
+  - title: Mamayu VR
+    author: ponpon
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/672577.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 672577
+    url: /works/672577/
   - title: Onii-san Zako sugite Ukeru~ | Big Brother, you're so pathetic, it's hilarious~
     author: puritei
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/674568.jpg

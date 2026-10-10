@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "gloves"
-work_count: 29
+work_count: 32
 works:
   - title: Yuri no o saifu ni shite agemasu ne, Senpai | I'll turn you into Yuri's wallet,
       Senpai
@@ -11,6 +11,13 @@ works:
     date: '2026-07-17'
     code: 289523
     url: /works/289523/
+  - title: Shika wa Tottemo Sekkyokuteki desu!
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/323524.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 323524
+    url: /works/323524/
   - title: Tonight, my wife is being exposed and...
     author: mon-mon
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/329551.jpg
@@ -114,6 +121,13 @@ works:
     date: '2026-04-21'
     code: 645264
     url: /works/645264/
+  - title: Homerareru beki Usagi
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/647391.jpg
+    rating: 4.3
+    date: '2026-10-09'
+    code: 647391
+    url: /works/647391/
   - title: Imouto Haramasenai to Derarenai Shima 2 | You Must Breed Your Sister to Leave
       This Island 2!
     author: airandou
@@ -219,4 +233,11 @@ works:
     date: '2026-09-24'
     code: 683686
     url: /works/683686/
+  - title: Yami Seito Kaichou - Dark student council president
+    author: hakaba
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686334.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 686334
+    url: /works/686334/
 ---

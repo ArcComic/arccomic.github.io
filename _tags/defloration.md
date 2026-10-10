@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "defloration"
-work_count: 230
+work_count: 232
 works:
   - title: Imitation Family + Bigibo Hen
     author: tohzai
@@ -24,6 +24,13 @@ works:
     date: '2026-04-17'
     code: 162047
     url: /works/162047/
+  - title: Konna ni mo Itooshii Zero
+    author: nohito
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/179622.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 179622
+    url: /works/179622/
   - title: GalPa!
     author: sakagami-umi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/208522.jpg
@@ -1708,4 +1715,11 @@ works:
     date: '2026-10-05'
     code: 686038
     url: /works/686038/
+  - title: The Crazy Thing About Combining Birthrate-Decline Measures with Dating Apps
+    author: armadillo-daiji
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686230.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 686230
+    url: /works/686230/
 ---

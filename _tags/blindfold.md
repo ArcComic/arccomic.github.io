@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "blindfold"
-work_count: 35
+work_count: 36
 works:
   - title: Okki na Saori-chan wa Bukiyou ni Eroi
     author: aramaki-echizen
@@ -241,6 +241,13 @@ works:
     date: '2026-10-03'
     code: 685702
     url: /works/685702/
+  - title: Yami Seito Kaichou - Dark student council president
+    author: hakaba
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686334.jpg
+    rating: 0.0
+    date: '2026-10-09'
+    code: 686334
+    url: /works/686334/
   - title: Inin Keiyaku | Lewd Pregnancy Contract
     author: yoshiura-kazuya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/83595.jpg
