@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "ponytail"
-work_count: 169
+work_count: 170
 works:
   - title: Ami Mami Mind 5
     author: tsurui
@@ -909,6 +909,13 @@ works:
     date: '2026-09-29'
     code: 670438
     url: /works/670438/
+  - title: Motto Mawashite Ura Kairanban Ch. 1-4
+    author: yano-toshinori
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/670485.jpg
+    rating: 0.0
+    date: '2026-10-10'
+    code: 670485
+    url: /works/670485/
   - title: Yojouhan no Yuragi - Fluctuations in a Four-and-a-Half Tatami Room.
     author: syoukaki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/672154.jpg

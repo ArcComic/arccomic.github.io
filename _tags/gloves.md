@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "gloves"
-work_count: 32
+work_count: 33
 works:
   - title: Yuri no o saifu ni shite agemasu ne, Senpai | I'll turn you into Yuri's wallet,
       Senpai
@@ -240,4 +240,11 @@ works:
     date: '2026-10-09'
     code: 686334
     url: /works/686334/
+  - title: Sono Bisque Doll wa H o Suru 3
+    author: yahiro-pochi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686496.jpg
+    rating: 0.0
+    date: '2026-10-10'
+    code: 686496
+    url: /works/686496/
 ---

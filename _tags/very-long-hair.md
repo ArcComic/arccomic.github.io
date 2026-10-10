@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "very long hair"
-work_count: 61
+work_count: 62
 works:
   - title: Joshikousei Sennyuu Repo ~Hanzaisha ga Onnanoko ni Hyoui shite mita~
     author: touchuu-kasou
@@ -463,4 +463,11 @@ works:
     date: '2026-10-09'
     code: 686113
     url: /works/686113/
+  - title: Sono Bisque Doll wa H o Suru 3
+    author: yahiro-pochi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686496.jpg
+    rating: 0.0
+    date: '2026-10-10'
+    code: 686496
+    url: /works/686496/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "fingering"
-work_count: 176
+work_count: 179
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -218,6 +218,14 @@ works:
     date: '2026-10-03'
     code: 509578
     url: /works/509578/
+  - title: Imouto ga Ore no Kanojo! ? 2-Paku 3-Nichi no Ecchina Kankei 1-4 | My Sister
+      is My Girlfriend!? Sexual Relationship for Two Nights and Three Days 1-4
+    author: katagiri-kaneharu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/509580.jpg
+    rating: 0.0
+    date: '2026-10-10'
+    code: 509580
+    url: /works/509580/
   - title: Denwa chū , Ushiro kara XL no Furin Pisuton 〜 Majimena Hitozuma no Inran
       SEX 1-3 | Fucked with a Giant Dick from Behind while on the Phone - A Serious
       Wife’s Filthy SEX 1-3
@@ -1019,6 +1027,13 @@ works:
     date: '2026-07-17'
     code: 664937
     url: /works/664937/
+  - title: Motto Mawashite Ura Kairanban Ch. 1-4
+    author: yano-toshinori
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/670485.jpg
+    rating: 0.0
+    date: '2026-10-10'
+    code: 670485
+    url: /works/670485/
   - title: Downer Hitozuma wa Teishu Kanpaku Otto o Wakaraseru | The Gloomy Housewife
       Puts Her Domineering Husband in His Place
     author: joucho
@@ -1313,4 +1328,11 @@ works:
     date: '2026-10-09'
     code: 686249
     url: /works/686249/
+  - title: Netorare Bokukko Mama | Netorare'd Tomboyish Mom
+    author: dozamura
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686511.jpg
+    rating: 0.0
+    date: '2026-10-10'
+    code: 686511
+    url: /works/686511/
 ---

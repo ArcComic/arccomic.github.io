@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "incest"
-work_count: 303
+work_count: 305
 works:
   - title: Imitation Family + Bigibo Hen
     author: tohzai
@@ -367,6 +367,14 @@ works:
     date: '2026-08-24'
     code: 508845
     url: /works/508845/
+  - title: Imouto ga Ore no Kanojo! ? 2-Paku 3-Nichi no Ecchina Kankei 1-4 | My Sister
+      is My Girlfriend!? Sexual Relationship for Two Nights and Three Days 1-4
+    author: katagiri-kaneharu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/509580.jpg
+    rating: 0.0
+    date: '2026-10-10'
+    code: 509580
+    url: /works/509580/
   - title: Koibito no Furi Shite Tara, Iki Goe ga…. Yukata Sugata no Kyonyuu Oneesan
       ni, Tamarazu Sounyuu 1 I Can’t Stop Myself From Penetrating My Big Boobed Older
       Female Cousin 1
@@ -2213,6 +2221,13 @@ works:
     date: '2026-10-09'
     code: 686318
     url: /works/686318/
+  - title: AV Kazoku | AV Family
+    author: piero
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686531.jpg
+    rating: 0.0
+    date: '2026-10-10'
+    code: 686531
+    url: /works/686531/
   - title: Onee-chan no SM Kouza | Onee-chan's S&M Lecture
     author: shinooka-homare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/88750.jpg

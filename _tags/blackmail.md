@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "blackmail"
-work_count: 143
+work_count: 144
 works:
   - title: Birthday
     author: hashiba-yachi
@@ -1063,6 +1063,13 @@ works:
     date: '2026-10-03'
     code: 685785
     url: /works/685785/
+  - title: Netorare Bokukko Mama | Netorare'd Tomboyish Mom
+    author: dozamura
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686511.jpg
+    rating: 0.0
+    date: '2026-10-10'
+    code: 686511
+    url: /works/686511/
   - title: Inin Keiyaku | Lewd Pregnancy Contract
     author: yoshiura-kazuya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/83595.jpg

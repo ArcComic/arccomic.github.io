@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "rough translation"
-work_count: 668
+work_count: 670
 works:
   - title: Boku no Shiranai Kimi no Kao
     author: utsutsu-minoru
@@ -4887,4 +4887,18 @@ works:
     date: '2026-10-09'
     code: 686334
     url: /works/686334/
+  - title: Mahiru-senpai no Hatsukoi | True Noon-senpai's First Love
+    author: fan
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686471.jpg
+    rating: 0.0
+    date: '2026-10-10'
+    code: 686471
+    url: /works/686471/
+  - title: Netorare Bokukko Mama | Netorare'd Tomboyish Mom
+    author: dozamura
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686511.jpg
+    rating: 0.0
+    date: '2026-10-10'
+    code: 686511
+    url: /works/686511/
 ---

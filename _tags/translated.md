@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "translated"
-work_count: 1625
+work_count: 1635
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -1155,6 +1155,14 @@ works:
     date: '2026-09-05'
     code: 405606
     url: /works/405606/
+  - title: Dochira o Onozomi desu ka? ~Shitsuji Hen~ | Which Do You Desire? ~Butler
+      Edition~
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/406008.jpg
+    rating: 0.0
+    date: '2026-10-10'
+    code: 406008
+    url: /works/406008/
   - title: Imouto no Nukumori | A Little Sister's warmth
     author: kinomoto-anzu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/407959.jpg
@@ -2799,6 +2807,13 @@ works:
     date: '2026-05-03'
     code: 534823
     url: /works/534823/
+  - title: Nazo no Agent
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/534937.jpg
+    rating: 0.0
+    date: '2026-10-10'
+    code: 534937
+    url: /works/534937/
   - title: Suieibu Shushou no Boyish Osananajimi wa Boku no Chinpo ni Dohamari Chuu
       | My Boyish Longtime Friend Who Is The Swimming Club Captain Is Addicted To My
       Dick
@@ -3157,6 +3172,13 @@ works:
     date: '2026-05-05'
     code: 553426
     url: /works/553426/
+  - title: Watashi no Shiranai Anata Toka
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/553624.jpg
+    rating: 0.0
+    date: '2026-10-10'
+    code: 553624
+    url: /works/553624/
   - title: Futari no Ouchi Iede Musume to Doutei-kun no Torokeru Natsu | The Melty Summer
       of a Runaway Gal and a Virgin Guy
     author: akahito
@@ -8552,6 +8574,13 @@ works:
     date: '2026-09-29'
     code: 670438
     url: /works/670438/
+  - title: Motto Mawashite Ura Kairanban Ch. 1-4
+    author: yano-toshinori
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/670485.jpg
+    rating: 0.0
+    date: '2026-10-10'
+    code: 670485
+    url: /works/670485/
   - title: JK no Imouto no Furo Nozoki mashita - Hentai Aniki × Imouto
     author: iron-sugar
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/670708.jpg
@@ -9288,6 +9317,14 @@ works:
     date: '2026-08-28'
     code: 676201
     url: /works/676201/
+  - title: Shuugakuryokou Mae ni Joshikousei ni Natta Hanashi | How We Became Girls
+      Before Our School Trip After Days
+    author: meganeko
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/676318.jpg
+    rating: 0.0
+    date: '2026-10-10'
+    code: 676318
+    url: /works/676318/
   - title: Konyakusha no Imouto wa Kao SSR, Seikaku Saiaku Jigoku no Ero Dance Onna.
       2 | My Fiancée's Younger Sister is a SSR Influencer with a Terrible Personality
       and is a Hellish Erotic Dancer. 2
@@ -11935,6 +11972,41 @@ works:
     date: '2026-10-09'
     code: 686334
     url: /works/686334/
+  - title: Mahiru-senpai no Hatsukoi | True Noon-senpai's First Love
+    author: fan
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686471.jpg
+    rating: 0.0
+    date: '2026-10-10'
+    code: 686471
+    url: /works/686471/
+  - title: Sono Bisque Doll wa H o Suru 3
+    author: yahiro-pochi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686496.jpg
+    rating: 0.0
+    date: '2026-10-10'
+    code: 686496
+    url: /works/686496/
+  - title: Netorare Bokukko Mama | Netorare'd Tomboyish Mom
+    author: dozamura
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686511.jpg
+    rating: 0.0
+    date: '2026-10-10'
+    code: 686511
+    url: /works/686511/
+  - title: AV Kazoku | AV Family
+    author: piero
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686531.jpg
+    rating: 0.0
+    date: '2026-10-10'
+    code: 686531
+    url: /works/686531/
+  - title: Osakabehime Won't Lose | Osakabehime wa Otosenai
+    author: umihotaru-harumare
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686538.jpg
+    rating: 0.0
+    date: '2026-10-10'
+    code: 686538
+    url: /works/686538/
   - title: Hottokenaino
     author: hara-shigeyuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/77864.jpg

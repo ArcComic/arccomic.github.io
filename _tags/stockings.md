@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "stockings"
-work_count: 230
+work_count: 231
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -1190,6 +1190,13 @@ works:
     date: '2026-08-20'
     code: 669452
     url: /works/669452/
+  - title: Motto Mawashite Ura Kairanban Ch. 1-4
+    author: yano-toshinori
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/670485.jpg
+    rating: 0.0
+    date: '2026-10-10'
+    code: 670485
+    url: /works/670485/
   - title: My Secret With Kyouko Sensei 1 - Kyouko Sensei to Boku no Himitsu
     author: maimu-maimu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/671460.jpg

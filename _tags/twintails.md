@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "twintails"
-work_count: 131
+work_count: 132
 works:
   - title: Sensei wa Shougakusei ga Suki | Sensei Loves Elementary Schoolers
     author: fuyuno-mikan
@@ -967,4 +967,11 @@ works:
     date: '2026-10-09'
     code: 686318
     url: /works/686318/
+  - title: AV Kazoku | AV Family
+    author: piero
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686531.jpg
+    rating: 0.0
+    date: '2026-10-10'
+    code: 686531
+    url: /works/686531/
 ---

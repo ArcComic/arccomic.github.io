@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "yano toshinori"
-work_count: 2
+work_count: 3
 works:
   - title: Watashi ni Mawashite Ura Kairanban
     author: yano-toshinori
@@ -10,6 +10,13 @@ works:
     date: '2026-09-20'
     code: 238471
     url: /works/238471/
+  - title: Motto Mawashite Ura Kairanban Ch. 1-4
+    author: yano-toshinori
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/670485.jpg
+    rating: 0.0
+    date: '2026-10-10'
+    code: 670485
+    url: /works/670485/
   - title: Motto Mawashite Ura Kairanban Ch. 1-5
     author: yano-toshinori
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682571.jpg

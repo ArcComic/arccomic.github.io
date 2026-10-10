@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "lactation"
-work_count: 38
+work_count: 39
 works:
   - title: My Sugar Mama! 1-3
     author: azukiko
@@ -273,6 +273,13 @@ works:
     date: '2026-09-28'
     code: 684578
     url: /works/684578/
+  - title: AV Kazoku | AV Family
+    author: piero
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686531.jpg
+    rating: 0.0
+    date: '2026-10-10'
+    code: 686531
+    url: /works/686531/
   - title: Jokyoushi - Hot For Teachers | Female Teachers
     author: drill-murata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/81375.jpg

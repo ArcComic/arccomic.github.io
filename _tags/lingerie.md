@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "lingerie"
-work_count: 99
+work_count: 100
 works:
   - title: My Care Lady Ch. 1
     author: sugi-g
@@ -557,6 +557,13 @@ works:
     date: '2026-09-04'
     code: 669459
     url: /works/669459/
+  - title: Motto Mawashite Ura Kairanban Ch. 1-4
+    author: yano-toshinori
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/670485.jpg
+    rating: 0.0
+    date: '2026-10-10'
+    code: 670485
+    url: /works/670485/
   - title: Mesu no Ie III ~Oyako wa Midare Aisareru~
     author: ame-arare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/675981.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "gender bender"
-work_count: 47
+work_count: 48
 works:
   - title: Seigi no Mikata o Otosu Houhou | How To Subvert an Ally of Justice
     author: fuka
@@ -212,6 +212,14 @@ works:
     date: '2026-08-23'
     code: 674960
     url: /works/674960/
+  - title: Shuugakuryokou Mae ni Joshikousei ni Natta Hanashi | How We Became Girls
+      Before Our School Trip After Days
+    author: meganeko
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/676318.jpg
+    rating: 0.0
+    date: '2026-10-10'
+    code: 676318
+    url: /works/676318/
   - title: Possession Golf
     author: rim
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/676589.jpg

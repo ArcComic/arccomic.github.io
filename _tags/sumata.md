@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sumata"
-work_count: 27
+work_count: 28
 works:
   - title: Ami Mami Mind 5
     author: tsurui
@@ -31,6 +31,14 @@ works:
     date: '2026-09-28'
     code: 373952
     url: /works/373952/
+  - title: Dochira o Onozomi desu ka? ~Shitsuji Hen~ | Which Do You Desire? ~Butler
+      Edition~
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/406008.jpg
+    rating: 0.0
+    date: '2026-10-10'
+    code: 406008
+    url: /works/406008/
   - title: Tonari no Ayane-san Desaki Battari Hen
     author: herio
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/432356.jpg

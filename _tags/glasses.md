@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "glasses"
-work_count: 270
+work_count: 274
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -1566,6 +1566,14 @@ works:
     date: '2026-08-28'
     code: 676197
     url: /works/676197/
+  - title: Shuugakuryokou Mae ni Joshikousei ni Natta Hanashi | How We Became Girls
+      Before Our School Trip After Days
+    author: meganeko
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/676318.jpg
+    rating: 0.0
+    date: '2026-10-10'
+    code: 676318
+    url: /works/676318/
   - title: 'Sister Contrast 2: Muttsuri Onee-chan to Henai Koubi | Sister contrast 2:
       My Sultry Sister Want To Be Breeded.'
     author: 92m
@@ -1969,6 +1977,27 @@ works:
     date: '2026-10-07'
     code: 686081
     url: /works/686081/
+  - title: Your sex is due!
+    author: st-mya
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686291.jpg
+    rating: 4.3
+    date: '2026-10-10'
+    code: 686291
+    url: /works/686291/
+  - title: AV Kazoku | AV Family
+    author: piero
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686531.jpg
+    rating: 0.0
+    date: '2026-10-10'
+    code: 686531
+    url: /works/686531/
+  - title: Osakabehime Won't Lose | Osakabehime wa Otosenai
+    author: umihotaru-harumare
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686538.jpg
+    rating: 0.0
+    date: '2026-10-10'
+    code: 686538
+    url: /works/686538/
   - title: Hottokenaino
     author: hara-shigeyuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/77864.jpg

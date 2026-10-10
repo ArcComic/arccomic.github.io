@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "blowjob"
-work_count: 658
+work_count: 661
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -3679,6 +3679,13 @@ works:
     date: '2026-09-29'
     code: 670438
     url: /works/670438/
+  - title: Motto Mawashite Ura Kairanban Ch. 1-4
+    author: yano-toshinori
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/670485.jpg
+    rating: 0.0
+    date: '2026-10-10'
+    code: 670485
+    url: /works/670485/
   - title: Kareshi Mochi Kyonyuu Beit Gal to Mechakucha Sex shita Hanashi | I Had Wild
       Sex with a Taken Busty Gyaru Part-Timer!
     author: bs3
@@ -4876,6 +4883,13 @@ works:
     date: '2026-10-09'
     code: 686249
     url: /works/686249/
+  - title: Your sex is due!
+    author: st-mya
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686291.jpg
+    rating: 4.3
+    date: '2026-10-10'
+    code: 686291
+    url: /works/686291/
   - title: Futanari ni Natta node Mahou no Shishou ni Naoshite Morau Hanashi | I Turned
       Into a Futanari, So I Had My Magic Master Cure Me
     author: unknown
@@ -4884,6 +4898,13 @@ works:
     date: '2026-10-09'
     code: 686320
     url: /works/686320/
+  - title: AV Kazoku | AV Family
+    author: piero
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686531.jpg
+    rating: 0.0
+    date: '2026-10-10'
+    code: 686531
+    url: /works/686531/
   - title: Jokyoushi - Hot For Teachers | Female Teachers
     author: drill-murata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/81375.jpg

@@ -1,7 +1,7 @@
 ---
 layout: artist
 artist_name: "unknown"
-work_count: 75
+work_count: 76
 works:
   - title: Hajimete Kanojo Ga Dekita No Ni
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/316579.jpg
@@ -54,6 +54,12 @@ works:
     date: '2026-09-17'
     code: 526619
     url: /works/526619/
+  - title: Nazo no Agent
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/534937.jpg
+    rating: 0.0
+    date: '2026-10-10'
+    code: 534937
+    url: /works/534937/
   - title: 髪を切る漫画
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/535911.jpg
     rating: 4.3

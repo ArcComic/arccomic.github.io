@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "beauty mark"
-work_count: 206
+work_count: 207
 works:
   - title: Uragiri no Ai wa Mitsu no Aji | Treacherous Love Tastes Like Honey
     author: cuzukago
@@ -453,6 +453,13 @@ works:
     date: '2026-05-05'
     code: 553426
     url: /works/553426/
+  - title: Watashi no Shiranai Anata Toka
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/553624.jpg
+    rating: 0.0
+    date: '2026-10-10'
+    code: 553624
+    url: /works/553624/
   - title: Futari no Ouchi Iede Musume to Doutei-kun no Torokeru Natsu | The Melty Summer
       of a Runaway Gal and a Virgin Guy
     author: akahito

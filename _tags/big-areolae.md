@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big areolae"
-work_count: 97
+work_count: 98
 works:
   - title: Soubo Soukan 2 | Twin mothers incest 2 FULL
     author: nanao-yukiji
@@ -743,4 +743,11 @@ works:
     date: '2026-10-09'
     code: 686230
     url: /works/686230/
+  - title: Your sex is due!
+    author: st-mya
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686291.jpg
+    rating: 4.3
+    date: '2026-10-10'
+    code: 686291
+    url: /works/686291/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: artist
 artist_name: "fan"
-work_count: 1
+work_count: 2
 works:
   - title: Onna Shachou to Koibito ni Naru Houhou | How To Become Lover's With A Female
       CEO
@@ -10,4 +10,10 @@ works:
     date: '2026-05-20'
     code: 600237
     url: /works/600237/
+  - title: Mahiru-senpai no Hatsukoi | True Noon-senpai's First Love
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686471.jpg
+    rating: 0.0
+    date: '2026-10-10'
+    code: 686471
+    url: /works/686471/
 ---

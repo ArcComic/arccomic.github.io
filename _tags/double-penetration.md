@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "double penetration"
-work_count: 49
+work_count: 50
 works:
   - title: Hitozuma Hyakka
     author: hase-tsubura
@@ -344,6 +344,13 @@ works:
     date: '2026-10-07'
     code: 686092
     url: /works/686092/
+  - title: Netorare Bokukko Mama | Netorare'd Tomboyish Mom
+    author: dozamura
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686511.jpg
+    rating: 0.0
+    date: '2026-10-10'
+    code: 686511
+    url: /works/686511/
   - title: Hottokenaino
     author: hara-shigeyuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/77864.jpg

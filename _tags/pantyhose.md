@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "pantyhose"
-work_count: 74
+work_count: 75
 works:
   - title: MAGIC SEVEN
     author: asuhiro
@@ -194,6 +194,13 @@ works:
     date: '2026-09-11'
     code: 545896
     url: /works/545896/
+  - title: Watashi no Shiranai Anata Toka
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/553624.jpg
+    rating: 0.0
+    date: '2026-10-10'
+    code: 553624
+    url: /works/553624/
   - title: 'Buka ni #UraAcc o Shiraretara | If My Subordinate Finds Out About My Secret
       Alt Account'
     author: gar

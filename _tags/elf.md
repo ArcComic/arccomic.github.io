@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "elf"
-work_count: 6
+work_count: 7
 works:
   - title: A tale of an Elf adventurer (♀) being visited at night and bred by an innkeeper
     author: unknown
@@ -49,4 +49,11 @@ works:
     date: '2026-10-09'
     code: 686113
     url: /works/686113/
+  - title: AV Kazoku | AV Family
+    author: piero
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686531.jpg
+    rating: 0.0
+    date: '2026-10-10'
+    code: 686531
+    url: /works/686531/
 ---

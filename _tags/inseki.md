@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "inseki"
-work_count: 75
+work_count: 77
 works:
   - title: Imitation Family + Bigibo Hen
     author: tohzai
@@ -86,6 +86,14 @@ works:
     date: '2026-09-12'
     code: 500467
     url: /works/500467/
+  - title: Imouto ga Ore no Kanojo! ? 2-Paku 3-Nichi no Ecchina Kankei 1-4 | My Sister
+      is My Girlfriend!? Sexual Relationship for Two Nights and Three Days 1-4
+    author: katagiri-kaneharu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/509580.jpg
+    rating: 0.0
+    date: '2026-10-10'
+    code: 509580
+    url: /works/509580/
   - title: Gibo-san wa Boku no Mono 7
     author: c-kyuu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/511503.jpg
@@ -558,4 +566,11 @@ works:
     date: '2026-10-09'
     code: 686113
     url: /works/686113/
+  - title: AV Kazoku | AV Family
+    author: piero
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686531.jpg
+    rating: 0.0
+    date: '2026-10-10'
+    code: 686531
+    url: /works/686531/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "pixie cut"
-work_count: 99
+work_count: 102
 works:
   - title: Akarui Kazoku Seikatsu
     author: pistonring-nishizawa
@@ -154,6 +154,13 @@ works:
     date: '2026-08-19'
     code: 534808
     url: /works/534808/
+  - title: Nazo no Agent
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/534937.jpg
+    rating: 0.0
+    date: '2026-10-10'
+    code: 534937
+    url: /works/534937/
   - title: Suieibu Shushou no Boyish Osananajimi wa Boku no Chinpo ni Dohamari Chuu
       | My Boyish Longtime Friend Who Is The Swimming Club Captain Is Addicted To My
       Dick
@@ -746,4 +753,18 @@ works:
     date: '2026-10-09'
     code: 686249
     url: /works/686249/
+  - title: Mahiru-senpai no Hatsukoi | True Noon-senpai's First Love
+    author: fan
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686471.jpg
+    rating: 0.0
+    date: '2026-10-10'
+    code: 686471
+    url: /works/686471/
+  - title: Netorare Bokukko Mama | Netorare'd Tomboyish Mom
+    author: dozamura
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686511.jpg
+    rating: 0.0
+    date: '2026-10-10'
+    code: 686511
+    url: /works/686511/
 ---

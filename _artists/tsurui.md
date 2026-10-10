@@ -1,7 +1,7 @@
 ---
 layout: artist
 artist_name: "tsurui"
-work_count: 14
+work_count: 16
 works:
   - title: Ami Mami Mind 5
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/262169.jpg
@@ -51,6 +51,19 @@ works:
     date: '2026-10-09'
     code: 361286
     url: /works/361286/
+  - title: Dochira o Onozomi desu ka? ~Shitsuji Hen~ | Which Do You Desire? ~Butler
+      Edition~
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/406008.jpg
+    rating: 0.0
+    date: '2026-10-10'
+    code: 406008
+    url: /works/406008/
+  - title: Watashi no Shiranai Anata Toka
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/553624.jpg
+    rating: 0.0
+    date: '2026-10-10'
+    code: 553624
+    url: /works/553624/
   - title: Suki toka Iu Wake...
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642985.jpg
     rating: 4.9

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "schoolgirl uniform"
-work_count: 341
+work_count: 343
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -1981,6 +1981,14 @@ works:
     date: '2026-08-28'
     code: 676196
     url: /works/676196/
+  - title: Shuugakuryokou Mae ni Joshikousei ni Natta Hanashi | How We Became Girls
+      Before Our School Trip After Days
+    author: meganeko
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/676318.jpg
+    rating: 0.0
+    date: '2026-10-10'
+    code: 676318
+    url: /works/676318/
   - title: Konyakusha no Imouto wa Kao SSR, Seikaku Saiaku Jigoku no Ero Dance Onna.
       2 | My Fiancée's Younger Sister is a SSR Influencer with a Terrible Personality
       and is a Hellish Erotic Dancer. 2
@@ -2537,4 +2545,11 @@ works:
     date: '2026-10-09'
     code: 686230
     url: /works/686230/
+  - title: AV Kazoku | AV Family
+    author: piero
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686531.jpg
+    rating: 0.0
+    date: '2026-10-10'
+    code: 686531
+    url: /works/686531/
 ---

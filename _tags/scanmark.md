@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "scanmark"
-work_count: 232
+work_count: 233
 works:
   - title: NTR Anniversary + ) [Syukurin] Mitsuha ~Netorare~ (Kimi no Na wa.) [English]
       [Colorized] by Mikaku
@@ -1677,4 +1677,11 @@ works:
     date: '2026-10-09'
     code: 686334
     url: /works/686334/
+  - title: Mahiru-senpai no Hatsukoi | True Noon-senpai's First Love
+    author: fan
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686471.jpg
+    rating: 0.0
+    date: '2026-10-10'
+    code: 686471
+    url: /works/686471/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "breast feeding"
-work_count: 87
+work_count: 91
 works:
   - title: Oppai na Natsuyasumi 2 | The Summer Break of Boobs 2
     author: higashino-mikan
@@ -112,6 +112,14 @@ works:
     date: '2026-10-03'
     code: 509578
     url: /works/509578/
+  - title: Imouto ga Ore no Kanojo! ? 2-Paku 3-Nichi no Ecchina Kankei 1-4 | My Sister
+      is My Girlfriend!? Sexual Relationship for Two Nights and Three Days 1-4
+    author: katagiri-kaneharu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/509580.jpg
+    rating: 0.0
+    date: '2026-10-10'
+    code: 509580
+    url: /works/509580/
   - title: Denwa chū , Ushiro kara XL no Furin Pisuton 〜 Majimena Hitozuma no Inran
       SEX 1-3 | Fucked with a Giant Dick from Behind while on the Phone - A Serious
       Wife’s Filthy SEX 1-3
@@ -499,6 +507,13 @@ works:
     date: '2026-08-23'
     code: 668880
     url: /works/668880/
+  - title: Motto Mawashite Ura Kairanban Ch. 1-4
+    author: yano-toshinori
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/670485.jpg
+    rating: 0.0
+    date: '2026-10-10'
+    code: 670485
+    url: /works/670485/
   - title: Osananajimi ga Joukyo-chuu ni Osananajimi no Chichi to Daita | While My Childhood
       Friend Was Away in Tokyo I Slept With His Dad
     author: mokuyama-hito
@@ -660,6 +675,13 @@ works:
     date: '2026-10-09'
     code: 686230
     url: /works/686230/
+  - title: Your sex is due!
+    author: st-mya
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686291.jpg
+    rating: 4.3
+    date: '2026-10-10'
+    code: 686291
+    url: /works/686291/
   - title: Futanari ni Natta node Mahou no Shishou ni Naoshite Morau Hanashi | I Turned
       Into a Futanari, So I Had My Magic Master Cure Me
     author: unknown
@@ -668,4 +690,11 @@ works:
     date: '2026-10-09'
     code: 686320
     url: /works/686320/
+  - title: AV Kazoku | AV Family
+    author: piero
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686531.jpg
+    rating: 0.0
+    date: '2026-10-10'
+    code: 686531
+    url: /works/686531/
 ---

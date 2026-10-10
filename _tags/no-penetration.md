@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "no penetration"
-work_count: 40
+work_count: 41
 works:
   - title: Watashi-tachi no Seikoui Tokubetsu Jisshuu -Zengi Hen-
     author: guglielmo
@@ -25,6 +25,13 @@ works:
     date: '2026-08-24'
     code: 528009
     url: /works/528009/
+  - title: Nazo no Agent
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/534937.jpg
+    rating: 0.0
+    date: '2026-10-10'
+    code: 534937
+    url: /works/534937/
   - title: Shasei Gamanshinai to Derarenai Burakku Kigyou | A Black Company Where You
       Have To Hold Your Ejaculation To Get Out
     author: keikouon

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "story arc"
-work_count: 215
+work_count: 217
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -340,6 +340,14 @@ works:
     date: '2026-10-03'
     code: 509578
     url: /works/509578/
+  - title: Imouto ga Ore no Kanojo! ? 2-Paku 3-Nichi no Ecchina Kankei 1-4 | My Sister
+      is My Girlfriend!? Sexual Relationship for Two Nights and Three Days 1-4
+    author: katagiri-kaneharu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/509580.jpg
+    rating: 0.0
+    date: '2026-10-10'
+    code: 509580
+    url: /works/509580/
   - title: Denwa chū , Ushiro kara XL no Furin Pisuton 〜 Majimena Hitozuma no Inran
       SEX 1-3 | Fucked with a Giant Dick from Behind while on the Phone - A Serious
       Wife’s Filthy SEX 1-3
@@ -1583,6 +1591,13 @@ works:
     date: '2026-10-09'
     code: 686334
     url: /works/686334/
+  - title: AV Kazoku | AV Family
+    author: piero
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686531.jpg
+    rating: 0.0
+    date: '2026-10-10'
+    code: 686531
+    url: /works/686531/
   - title: Hottokenaino
     author: hara-shigeyuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/77864.jpg

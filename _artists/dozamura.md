@@ -1,7 +1,7 @@
 ---
 layout: artist
 artist_name: "dozamura"
-work_count: 1
+work_count: 2
 works:
   - title: Shokushu Flower Shop no Onee-san
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/661796.jpg
@@ -9,4 +9,10 @@ works:
     date: '2026-08-21'
     code: 661796
     url: /works/661796/
+  - title: Netorare Bokukko Mama | Netorare'd Tomboyish Mom
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686511.jpg
+    rating: 0.0
+    date: '2026-10-10'
+    code: 686511
+    url: /works/686511/
 ---

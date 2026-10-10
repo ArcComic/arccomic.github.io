@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sweating"
-work_count: 177
+work_count: 178
 works:
   - title: Kaisha de Iroiro | Gettin' Busy at the Office
     author: hara-shigeyuki
@@ -1329,4 +1329,11 @@ works:
     date: '2026-10-09'
     code: 686249
     url: /works/686249/
+  - title: Your sex is due!
+    author: st-mya
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686291.jpg
+    rating: 4.3
+    date: '2026-10-10'
+    code: 686291
+    url: /works/686291/
 ---

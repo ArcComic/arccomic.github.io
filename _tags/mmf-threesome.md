@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "mmf threesome"
-work_count: 65
+work_count: 69
 works:
   - title: Hitozuma Hyakka
     author: hase-tsubura
@@ -327,6 +327,14 @@ works:
     date: '2026-08-28'
     code: 676197
     url: /works/676197/
+  - title: Shuugakuryokou Mae ni Joshikousei ni Natta Hanashi | How We Became Girls
+      Before Our School Trip After Days
+    author: meganeko
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/676318.jpg
+    rating: 0.0
+    date: '2026-10-10'
+    code: 676318
+    url: /works/676318/
   - title: Otona no Asobi wo Manabitai | I Wanna Learn How Adults Have Fun!
     author: jairou-xil
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/676325.jpg
@@ -470,4 +478,25 @@ works:
     date: '2026-10-03'
     code: 685770
     url: /works/685770/
+  - title: Mahiru-senpai no Hatsukoi | True Noon-senpai's First Love
+    author: fan
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686471.jpg
+    rating: 0.0
+    date: '2026-10-10'
+    code: 686471
+    url: /works/686471/
+  - title: Netorare Bokukko Mama | Netorare'd Tomboyish Mom
+    author: dozamura
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686511.jpg
+    rating: 0.0
+    date: '2026-10-10'
+    code: 686511
+    url: /works/686511/
+  - title: AV Kazoku | AV Family
+    author: piero
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686531.jpg
+    rating: 0.0
+    date: '2026-10-10'
+    code: 686531
+    url: /works/686531/
 ---

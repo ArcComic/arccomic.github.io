@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole female"
-work_count: 981
+work_count: 989
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -813,6 +813,14 @@ works:
     date: '2026-09-05'
     code: 405606
     url: /works/405606/
+  - title: Dochira o Onozomi desu ka? ~Shitsuji Hen~ | Which Do You Desire? ~Butler
+      Edition~
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/406008.jpg
+    rating: 0.0
+    date: '2026-10-10'
+    code: 406008
+    url: /works/406008/
   - title: Rakki Taishyaku
     author: fushoku
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/407561.jpg
@@ -1605,6 +1613,14 @@ works:
     date: '2026-03-03'
     code: 509474
     url: /works/509474/
+  - title: Imouto ga Ore no Kanojo! ? 2-Paku 3-Nichi no Ecchina Kankei 1-4 | My Sister
+      is My Girlfriend!? Sexual Relationship for Two Nights and Three Days 1-4
+    author: katagiri-kaneharu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/509580.jpg
+    rating: 0.0
+    date: '2026-10-10'
+    code: 509580
+    url: /works/509580/
   - title: Seitraishi ni Jirasare Tsuzuketa Tsuma ~Otto ni wa Ienai Nureiki Massage
       1-3 | A Wife who Gets Teased Continually by a Masseur ー A Massage that Makes Me
       Cum Behind My Husband’s Back 1-3
@@ -2126,6 +2142,13 @@ works:
     date: '2026-05-05'
     code: 553426
     url: /works/553426/
+  - title: Watashi no Shiranai Anata Toka
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/553624.jpg
+    rating: 0.0
+    date: '2026-10-10'
+    code: 553624
+    url: /works/553624/
   - title: Futari no Ouchi Iede Musume to Doutei-kun no Torokeru Natsu | The Melty Summer
       of a Runaway Gal and a Virgin Guy
     author: akahito
@@ -5759,6 +5782,14 @@ works:
     date: '2026-08-28'
     code: 676201
     url: /works/676201/
+  - title: Shuugakuryokou Mae ni Joshikousei ni Natta Hanashi | How We Became Girls
+      Before Our School Trip After Days
+    author: meganeko
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/676318.jpg
+    rating: 0.0
+    date: '2026-10-10'
+    code: 676318
+    url: /works/676318/
   - title: Otona no Asobi wo Manabitai | I Wanna Learn How Adults Have Fun!
     author: jairou-xil
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/676325.jpg
@@ -7258,6 +7289,13 @@ works:
     date: '2026-10-09'
     code: 686249
     url: /works/686249/
+  - title: Your sex is due!
+    author: st-mya
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686291.jpg
+    rating: 4.3
+    date: '2026-10-10'
+    code: 686291
+    url: /works/686291/
   - title: Futanari ni Natta node Mahou no Shishou ni Naoshite Morau Hanashi | I Turned
       Into a Futanari, So I Had My Magic Master Cure Me
     author: unknown
@@ -7266,6 +7304,27 @@ works:
     date: '2026-10-09'
     code: 686320
     url: /works/686320/
+  - title: Sono Bisque Doll wa H o Suru 3
+    author: yahiro-pochi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686496.jpg
+    rating: 0.0
+    date: '2026-10-10'
+    code: 686496
+    url: /works/686496/
+  - title: Netorare Bokukko Mama | Netorare'd Tomboyish Mom
+    author: dozamura
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686511.jpg
+    rating: 0.0
+    date: '2026-10-10'
+    code: 686511
+    url: /works/686511/
+  - title: Osakabehime Won't Lose | Osakabehime wa Otosenai
+    author: umihotaru-harumare
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686538.jpg
+    rating: 0.0
+    date: '2026-10-10'
+    code: 686538
+    url: /works/686538/
   - title: Ranko-ppoi no! | Ranko-Ish!
     author: napata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/87393.jpg

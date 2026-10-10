@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "prostitution"
-work_count: 79
+work_count: 80
 works:
   - title: Ikanishite Haha wa Onna o Kaihou Shitaka Ch. 1-14
     author: mitarai-yuuki
@@ -584,6 +584,13 @@ works:
     date: '2026-10-03'
     code: 685809
     url: /works/685809/
+  - title: AV Kazoku | AV Family
+    author: piero
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686531.jpg
+    rating: 0.0
+    date: '2026-10-10'
+    code: 686531
+    url: /works/686531/
   - title: Hottokenaino
     author: hara-shigeyuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/77864.jpg

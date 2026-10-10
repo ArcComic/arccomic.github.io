@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "dark nipples"
-work_count: 6
+work_count: 7
 works:
   - title: Onna Shachou to Koibito ni Naru Houhou | How To Become Lover's With A Female
       CEO
@@ -48,4 +48,11 @@ works:
     date: '2026-10-02'
     code: 685683
     url: /works/685683/
+  - title: Your sex is due!
+    author: st-mya
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686291.jpg
+    rating: 4.3
+    date: '2026-10-10'
+    code: 686291
+    url: /works/686291/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole male"
-work_count: 918
+work_count: 924
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -763,6 +763,14 @@ works:
     date: '2026-09-05'
     code: 405606
     url: /works/405606/
+  - title: Dochira o Onozomi desu ka? ~Shitsuji Hen~ | Which Do You Desire? ~Butler
+      Edition~
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/406008.jpg
+    rating: 0.0
+    date: '2026-10-10'
+    code: 406008
+    url: /works/406008/
   - title: Rakki Taishyaku
     author: fushoku
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/407561.jpg
@@ -1431,6 +1439,14 @@ works:
     date: '2026-04-23'
     code: 509071
     url: /works/509071/
+  - title: Imouto ga Ore no Kanojo! ? 2-Paku 3-Nichi no Ecchina Kankei 1-4 | My Sister
+      is My Girlfriend!? Sexual Relationship for Two Nights and Three Days 1-4
+    author: katagiri-kaneharu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/509580.jpg
+    rating: 0.0
+    date: '2026-10-10'
+    code: 509580
+    url: /works/509580/
   - title: Denwa chū , Ushiro kara XL no Furin Pisuton 〜 Majimena Hitozuma no Inran
       SEX 1-3 | Fucked with a Giant Dick from Behind while on the Phone - A Serious
       Wife’s Filthy SEX 1-3
@@ -1912,6 +1928,13 @@ works:
     date: '2026-09-25'
     code: 552335
     url: /works/552335/
+  - title: Watashi no Shiranai Anata Toka
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/553624.jpg
+    rating: 0.0
+    date: '2026-10-10'
+    code: 553624
+    url: /works/553624/
   - title: Futari no Ouchi Iede Musume to Doutei-kun no Torokeru Natsu | The Melty Summer
       of a Runaway Gal and a Virgin Guy
     author: akahito
@@ -6809,6 +6832,27 @@ works:
     date: '2026-10-09'
     code: 686249
     url: /works/686249/
+  - title: Your sex is due!
+    author: st-mya
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686291.jpg
+    rating: 4.3
+    date: '2026-10-10'
+    code: 686291
+    url: /works/686291/
+  - title: Sono Bisque Doll wa H o Suru 3
+    author: yahiro-pochi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686496.jpg
+    rating: 0.0
+    date: '2026-10-10'
+    code: 686496
+    url: /works/686496/
+  - title: Osakabehime Won't Lose | Osakabehime wa Otosenai
+    author: umihotaru-harumare
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686538.jpg
+    rating: 0.0
+    date: '2026-10-10'
+    code: 686538
+    url: /works/686538/
   - title: Ranko-ppoi no! | Ranko-Ish!
     author: napata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/87393.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "paizuri"
-work_count: 231
+work_count: 233
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -1233,6 +1233,13 @@ works:
     date: '2026-09-04'
     code: 669459
     url: /works/669459/
+  - title: Motto Mawashite Ura Kairanban Ch. 1-4
+    author: yano-toshinori
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/670485.jpg
+    rating: 0.0
+    date: '2026-10-10'
+    code: 670485
+    url: /works/670485/
   - title: Kareshi Mochi Kyonyuu Beit Gal to Mechakucha Sex shita Hanashi | I Had Wild
       Sex with a Taken Busty Gyaru Part-Timer!
     author: bs3
@@ -1737,4 +1744,11 @@ works:
     date: '2026-10-09'
     code: 686249
     url: /works/686249/
+  - title: AV Kazoku | AV Family
+    author: piero
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686531.jpg
+    rating: 0.0
+    date: '2026-10-10'
+    code: 686531
+    url: /works/686531/
 ---

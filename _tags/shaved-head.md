@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "shaved head"
-work_count: 17
+work_count: 18
 works:
   - title: TomoKano Kaa-chan II ~Jitaku, Musuko no Tomodachi ni Ochita Natsu~ | My Mom
       Is My Friend's Girlfriend 2
@@ -19,6 +19,13 @@ works:
     date: '2026-04-25'
     code: 463298
     url: /works/463298/
+  - title: Nazo no Agent
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/534937.jpg
+    rating: 0.0
+    date: '2026-10-10'
+    code: 534937
+    url: /works/534937/
   - title: 髪を切る漫画
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/535911.jpg

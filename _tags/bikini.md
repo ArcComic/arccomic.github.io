@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bikini"
-work_count: 80
+work_count: 81
 works:
   - title: Kizashi
     author: yoshiura-kazuya
@@ -119,6 +119,14 @@ works:
     date: '2026-03-04'
     code: 508649
     url: /works/508649/
+  - title: Imouto ga Ore no Kanojo! ? 2-Paku 3-Nichi no Ecchina Kankei 1-4 | My Sister
+      is My Girlfriend!? Sexual Relationship for Two Nights and Three Days 1-4
+    author: katagiri-kaneharu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/509580.jpg
+    rating: 0.0
+    date: '2026-10-10'
+    code: 509580
+    url: /works/509580/
   - title: Seitraishi ni Jirasare Tsuzuketa Tsuma ~Otto ni wa Ienai Nureiki Massage
       1-3 | A Wife who Gets Teased Continually by a Masseur ー A Massage that Makes Me
       Cum Behind My Husband’s Back 1-3

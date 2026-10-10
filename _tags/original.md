@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "original"
-work_count: 1118
+work_count: 1123
 works:
   - title: Natsu dake Koibito - Summer only Lover [English] =Forbidden Fetish + Ser
       Maggot=
@@ -1566,6 +1566,13 @@ works:
     date: '2026-05-03'
     code: 534823
     url: /works/534823/
+  - title: Nazo no Agent
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/534937.jpg
+    rating: 0.0
+    date: '2026-10-10'
+    code: 534937
+    url: /works/534937/
   - title: Suieibu Shushou no Boyish Osananajimi wa Boku no Chinpo ni Dohamari Chuu
       | My Boyish Longtime Friend Who Is The Swimming Club Captain Is Addicted To My
       Dick
@@ -6434,6 +6441,14 @@ works:
     date: '2026-08-28'
     code: 676197
     url: /works/676197/
+  - title: Shuugakuryokou Mae ni Joshikousei ni Natta Hanashi | How We Became Girls
+      Before Our School Trip After Days
+    author: meganeko
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/676318.jpg
+    rating: 0.0
+    date: '2026-10-10'
+    code: 676318
+    url: /works/676318/
   - title: Konyakusha no Imouto wa Kao SSR, Seikaku Saiaku Jigoku no Ero Dance Onna.
       2 | My Fiancée's Younger Sister is a SSR Influencer with a Terrible Personality
       and is a Hellish Erotic Dancer. 2
@@ -8312,6 +8327,13 @@ works:
     date: '2026-10-09'
     code: 686230
     url: /works/686230/
+  - title: Your sex is due!
+    author: st-mya
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686291.jpg
+    rating: 4.3
+    date: '2026-10-10'
+    code: 686291
+    url: /works/686291/
   - title: Futanari ni Natta node Mahou no Shishou ni Naoshite Morau Hanashi | I Turned
       Into a Futanari, So I Had My Magic Master Cure Me
     author: unknown
@@ -8320,4 +8342,18 @@ works:
     date: '2026-10-09'
     code: 686320
     url: /works/686320/
+  - title: Mahiru-senpai no Hatsukoi | True Noon-senpai's First Love
+    author: fan
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686471.jpg
+    rating: 0.0
+    date: '2026-10-10'
+    code: 686471
+    url: /works/686471/
+  - title: Netorare Bokukko Mama | Netorare'd Tomboyish Mom
+    author: dozamura
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686511.jpg
+    rating: 0.0
+    date: '2026-10-10'
+    code: 686511
+    url: /works/686511/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "producer"
-work_count: 45
+work_count: 47
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -164,6 +164,14 @@ works:
     date: '2026-09-22'
     code: 386119
     url: /works/386119/
+  - title: Dochira o Onozomi desu ka? ~Shitsuji Hen~ | Which Do You Desire? ~Butler
+      Edition~
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/406008.jpg
+    rating: 0.0
+    date: '2026-10-10'
+    code: 406008
+    url: /works/406008/
   - title: Otona no Himegoto
     author: gustav
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/473512.jpg
@@ -178,6 +186,13 @@ works:
     date: '2026-10-09'
     code: 519927
     url: /works/519927/
+  - title: Watashi no Shiranai Anata Toka
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/553624.jpg
+    rating: 0.0
+    date: '2026-10-10'
+    code: 553624
+    url: /works/553624/
   - title: Nagoriyuki | Fleeting Snow
     author: yd
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/599778.jpg

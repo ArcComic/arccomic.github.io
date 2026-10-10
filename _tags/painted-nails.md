@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "painted nails"
-work_count: 40
+work_count: 41
 works:
   - title: Rakki Taishyaku
     author: fushoku
@@ -297,4 +297,11 @@ works:
     date: '2026-10-03'
     code: 685785
     url: /works/685785/
+  - title: Your sex is due!
+    author: st-mya
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686291.jpg
+    rating: 4.3
+    date: '2026-10-10'
+    code: 686291
+    url: /works/686291/
 ---

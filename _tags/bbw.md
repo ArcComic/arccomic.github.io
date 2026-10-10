@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bbw"
-work_count: 62
+work_count: 63
 works:
   - title: My Care Lady Ch. 1
     author: sugi-g
@@ -458,4 +458,11 @@ works:
     date: '2026-10-03'
     code: 685828
     url: /works/685828/
+  - title: Your sex is due!
+    author: st-mya
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686291.jpg
+    rating: 4.3
+    date: '2026-10-10'
+    code: 686291
+    url: /works/686291/
 ---
