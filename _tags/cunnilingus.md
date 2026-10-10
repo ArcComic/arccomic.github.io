@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "cunnilingus"
-work_count: 169
+work_count: 170
 works:
   - title: Love Approach
     author: hanafuda-sakurano
@@ -78,7 +78,7 @@ works:
   - title: Ritsuko to Shokuba de...
     author: tsurui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/351810.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-10-10'
     code: 351810
     url: /works/351810/
@@ -186,7 +186,7 @@ works:
   - title: Nee-chan to Chome Chome Ch. 1-4
     author: sabashi-renya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/474885.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-09'
     code: 474885
     url: /works/474885/
@@ -286,7 +286,7 @@ works:
       is My Girlfriend!? Sexual Relationship for Two Nights and Three Days 1-4
     author: katagiri-kaneharu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/509580.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-10-10'
     code: 509580
     url: /works/509580/
@@ -1019,7 +1019,7 @@ works:
   - title: Romantic ga Tomerarenai | Can't Stop the Romance
     author: kitaku
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/676948.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-10-09'
     code: 676948
     url: /works/676948/
@@ -1243,15 +1243,22 @@ works:
   - title: The Crazy Thing About Combining Birthrate-Decline Measures with Dating Apps
     author: armadillo-daiji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686230.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-09'
     code: 686230
     url: /works/686230/
   - title: Tooku e Iku Kimi ni
     author: hako-reema
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686318.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-10-09'
     code: 686318
     url: /works/686318/
+  - title: Senaka Tanhenshuu [Ue]｜Senaka Short Story Collection
+    author: senaka
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686438.jpg
+    rating: 0.0
+    date: '2026-10-10'
+    code: 686438
+    url: /works/686438/
 ---

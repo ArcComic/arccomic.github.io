@@ -1,12 +1,12 @@
 ---
 layout: tag
 tag_name: "kissing"
-work_count: 370
+work_count: 371
 works:
   - title: Shiburin-ppoi no!
     author: napata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/106821.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-10-09'
     code: 106821
     url: /works/106821/
@@ -2210,7 +2210,7 @@ works:
   - title: Romantic ga Tomerarenai | Can't Stop the Romance
     author: kitaku
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/676948.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-10-09'
     code: 676948
     url: /works/676948/
@@ -2762,7 +2762,7 @@ works:
   - title: The Crazy Thing About Combining Birthrate-Decline Measures with Dating Apps
     author: armadillo-daiji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686230.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-09'
     code: 686230
     url: /works/686230/
@@ -2776,7 +2776,7 @@ works:
   - title: Tooku e Iku Kimi ni
     author: hako-reema
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686318.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-10-09'
     code: 686318
     url: /works/686318/
@@ -2784,8 +2784,15 @@ works:
       Into a Futanari, So I Had My Magic Master Cure Me
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686320.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-10-09'
     code: 686320
     url: /works/686320/
+  - title: Senaka Tanhenshuu [Ue]｜Senaka Short Story Collection
+    author: senaka
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686438.jpg
+    rating: 0.0
+    date: '2026-10-10'
+    code: 686438
+    url: /works/686438/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "original"
-work_count: 1123
+work_count: 1126
 works:
   - title: Natsu dake Koibito - Summer only Lover [English] =Forbidden Fetish + Ser
       Maggot=
@@ -1569,7 +1569,7 @@ works:
   - title: Nazo no Agent
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/534937.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-10-10'
     code: 534937
     url: /works/534937/
@@ -6445,7 +6445,7 @@ works:
       Before Our School Trip After Days
     author: meganeko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/676318.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-10'
     code: 676318
     url: /works/676318/
@@ -8316,14 +8316,14 @@ works:
       with XXXX
     author: nyaruko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686113.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-10-09'
     code: 686113
     url: /works/686113/
   - title: The Crazy Thing About Combining Birthrate-Decline Measures with Dating Apps
     author: armadillo-daiji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686230.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-09'
     code: 686230
     url: /works/686230/
@@ -8338,21 +8338,42 @@ works:
       Into a Futanari, So I Had My Magic Master Cure Me
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686320.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-10-09'
     code: 686320
     url: /works/686320/
+  - title: Senaka Tanhenshuu [Ue]｜Senaka Short Story Collection
+    author: senaka
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686438.jpg
+    rating: 0.0
+    date: '2026-10-10'
+    code: 686438
+    url: /works/686438/
+  - title: Kakutouka na Otokonoko!
+    author: yuruyakatou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686448.jpg
+    rating: 0.0
+    date: '2026-10-10'
+    code: 686448
+    url: /works/686448/
+  - title: Hitozuma, Kaede-san Gifuku to Kazoku Gurumi de Kozukuri Dentou
+    author: barakaba
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686462.jpg
+    rating: 0.0
+    date: '2026-10-10'
+    code: 686462
+    url: /works/686462/
   - title: Mahiru-senpai no Hatsukoi | True Noon-senpai's First Love
     author: fan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686471.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-10-10'
     code: 686471
     url: /works/686471/
   - title: Netorare Bokukko Mama | Netorare'd Tomboyish Mom
     author: dozamura
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686511.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-10-10'
     code: 686511
     url: /works/686511/

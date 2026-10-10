@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "ponytail"
-work_count: 170
+work_count: 172
 works:
   - title: Ami Mami Mind 5
     author: tsurui
@@ -912,7 +912,7 @@ works:
   - title: Motto Mawashite Ura Kairanban Ch. 1-4
     author: yano-toshinori
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/670485.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-10-10'
     code: 670485
     url: /works/670485/
@@ -1251,8 +1251,22 @@ works:
   - title: The Crazy Thing About Combining Birthrate-Decline Measures with Dating Apps
     author: armadillo-daiji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686230.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-09'
     code: 686230
     url: /works/686230/
+  - title: Kakutouka na Otokonoko!
+    author: yuruyakatou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686448.jpg
+    rating: 0.0
+    date: '2026-10-10'
+    code: 686448
+    url: /works/686448/
+  - title: Hitozuma, Kaede-san Gifuku to Kazoku Gurumi de Kozukuri Dentou
+    author: barakaba
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686462.jpg
+    rating: 0.0
+    date: '2026-10-10'
+    code: 686462
+    url: /works/686462/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "ahegao"
-work_count: 317
+work_count: 319
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -2340,7 +2340,7 @@ works:
   - title: The Crazy Thing About Combining Birthrate-Decline Measures with Dating Apps
     author: armadillo-daiji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686230.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-09'
     code: 686230
     url: /works/686230/
@@ -2349,14 +2349,14 @@ works:
       Department~
     author: c-kyuu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686249.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-10-09'
     code: 686249
     url: /works/686249/
   - title: Tooku e Iku Kimi ni
     author: hako-reema
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686318.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-10-09'
     code: 686318
     url: /works/686318/
@@ -2364,17 +2364,31 @@ works:
       Into a Futanari, So I Had My Magic Master Cure Me
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686320.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-10-09'
     code: 686320
     url: /works/686320/
   - title: Yami Seito Kaichou - Dark student council president
     author: hakaba
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686334.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-10-09'
     code: 686334
     url: /works/686334/
+  - title: Senaka Tanhenshuu [Ue]｜Senaka Short Story Collection
+    author: senaka
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686438.jpg
+    rating: 0.0
+    date: '2026-10-10'
+    code: 686438
+    url: /works/686438/
+  - title: Kakutouka na Otokonoko!
+    author: yuruyakatou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686448.jpg
+    rating: 0.0
+    date: '2026-10-10'
+    code: 686448
+    url: /works/686448/
   - title: Inin Keiyaku | Lewd Pregnancy Contract
     author: yoshiura-kazuya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/83595.jpg

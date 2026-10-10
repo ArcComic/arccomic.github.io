@@ -1,13 +1,13 @@
 ---
 layout: tag
 tag_name: "crossdressing"
-work_count: 23
+work_count: 24
 works:
   - title: Dochira o Onozomi desu ka? ~Shitsuji Hen~ | Which Do You Desire? ~Butler
       Edition~
     author: tsurui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/406008.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-10-10'
     code: 406008
     url: /works/406008/
@@ -174,4 +174,11 @@ works:
     date: '2026-10-05'
     code: 685969
     url: /works/685969/
+  - title: Kakutouka na Otokonoko!
+    author: yuruyakatou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686448.jpg
+    rating: 0.0
+    date: '2026-10-10'
+    code: 686448
+    url: /works/686448/
 ---

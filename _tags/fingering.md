@@ -6,7 +6,7 @@ works:
   - title: Shiburin-ppoi no!
     author: napata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/106821.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-10-09'
     code: 106821
     url: /works/106821/
@@ -131,7 +131,7 @@ works:
   - title: Nee-chan to Chome Chome Ch. 1-4
     author: sabashi-renya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/474885.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-09'
     code: 474885
     url: /works/474885/
@@ -222,7 +222,7 @@ works:
       is My Girlfriend!? Sexual Relationship for Two Nights and Three Days 1-4
     author: katagiri-kaneharu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/509580.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-10-10'
     code: 509580
     url: /works/509580/
@@ -1030,7 +1030,7 @@ works:
   - title: Motto Mawashite Ura Kairanban Ch. 1-4
     author: yano-toshinori
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/670485.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-10-10'
     code: 670485
     url: /works/670485/
@@ -1082,7 +1082,7 @@ works:
   - title: Romantic ga Tomerarenai | Can't Stop the Romance
     author: kitaku
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/676948.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-10-09'
     code: 676948
     url: /works/676948/
@@ -1315,7 +1315,7 @@ works:
   - title: The Crazy Thing About Combining Birthrate-Decline Measures with Dating Apps
     author: armadillo-daiji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686230.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-09'
     code: 686230
     url: /works/686230/
@@ -1324,14 +1324,14 @@ works:
       Department~
     author: c-kyuu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686249.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-10-09'
     code: 686249
     url: /works/686249/
   - title: Netorare Bokukko Mama | Netorare'd Tomboyish Mom
     author: dozamura
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686511.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-10-10'
     code: 686511
     url: /works/686511/

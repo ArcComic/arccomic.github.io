@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "huge breasts"
-work_count: 102
+work_count: 104
 works:
   - title: Furuhonya no Onee-san to | With The Lady From The Used Book Shop
     author: nodame
@@ -757,17 +757,31 @@ works:
     date: '2026-10-10'
     code: 686291
     url: /works/686291/
+  - title: Senaka Tanhenshuu [Ue]｜Senaka Short Story Collection
+    author: senaka
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686438.jpg
+    rating: 0.0
+    date: '2026-10-10'
+    code: 686438
+    url: /works/686438/
+  - title: Hitozuma, Kaede-san Gifuku to Kazoku Gurumi de Kozukuri Dentou
+    author: barakaba
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686462.jpg
+    rating: 0.0
+    date: '2026-10-10'
+    code: 686462
+    url: /works/686462/
   - title: Mahiru-senpai no Hatsukoi | True Noon-senpai's First Love
     author: fan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686471.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-10-10'
     code: 686471
     url: /works/686471/
   - title: AV Kazoku | AV Family
     author: piero
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686531.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-10-10'
     code: 686531
     url: /works/686531/

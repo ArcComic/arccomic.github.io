@@ -13,14 +13,14 @@ works:
   - title: Ritsuko to Shokuba de...
     author: tsurui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/351810.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-10-10'
     code: 351810
     url: /works/351810/
   - title: Makoto ga TOP!
     author: tsurui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/361286.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-09'
     code: 361286
     url: /works/361286/
@@ -35,7 +35,7 @@ works:
       Edition~
     author: tsurui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/406008.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-10-10'
     code: 406008
     url: /works/406008/

@@ -1659,28 +1659,28 @@ works:
   - title: The Crazy Thing About Combining Birthrate-Decline Measures with Dating Apps
     author: armadillo-daiji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686230.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-09'
     code: 686230
     url: /works/686230/
   - title: Tooku e Iku Kimi ni
     author: hako-reema
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686318.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-10-09'
     code: 686318
     url: /works/686318/
   - title: Yami Seito Kaichou - Dark student council president
     author: hakaba
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686334.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-10-09'
     code: 686334
     url: /works/686334/
   - title: Mahiru-senpai no Hatsukoi | True Noon-senpai's First Love
     author: fan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686471.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-10-10'
     code: 686471
     url: /works/686471/

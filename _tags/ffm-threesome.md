@@ -99,7 +99,7 @@ works:
   - title: Nee-chan to Chome Chome Ch. 1-4
     author: sabashi-renya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/474885.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-09'
     code: 474885
     url: /works/474885/
@@ -1050,7 +1050,7 @@ works:
   - title: The Crazy Thing About Combining Birthrate-Decline Measures with Dating Apps
     author: armadillo-daiji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686230.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-09'
     code: 686230
     url: /works/686230/

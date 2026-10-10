@@ -331,7 +331,7 @@ works:
       Before Our School Trip After Days
     author: meganeko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/676318.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-10'
     code: 676318
     url: /works/676318/
@@ -481,21 +481,21 @@ works:
   - title: Mahiru-senpai no Hatsukoi | True Noon-senpai's First Love
     author: fan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686471.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-10-10'
     code: 686471
     url: /works/686471/
   - title: Netorare Bokukko Mama | Netorare'd Tomboyish Mom
     author: dozamura
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686511.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-10-10'
     code: 686511
     url: /works/686511/
   - title: AV Kazoku | AV Family
     author: piero
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686531.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-10-10'
     code: 686531
     url: /works/686531/

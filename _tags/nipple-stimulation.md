@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "nipple stimulation"
-work_count: 150
+work_count: 151
 works:
   - title: Hypnotic Domination ~ The Fall of Tennis Club Ace ~
     author: danchino
@@ -1120,7 +1120,7 @@ works:
   - title: The Crazy Thing About Combining Birthrate-Decline Measures with Dating Apps
     author: armadillo-daiji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686230.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-09'
     code: 686230
     url: /works/686230/
@@ -1129,8 +1129,15 @@ works:
       Department~
     author: c-kyuu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686249.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-10-09'
     code: 686249
     url: /works/686249/
+  - title: Kakutouka na Otokonoko!
+    author: yuruyakatou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686448.jpg
+    rating: 0.0
+    date: '2026-10-10'
+    code: 686448
+    url: /works/686448/
 ---

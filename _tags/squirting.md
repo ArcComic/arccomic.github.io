@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "squirting"
-work_count: 138
+work_count: 139
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -94,7 +94,7 @@ works:
   - title: Nee-chan to Chome Chome Ch. 1-4
     author: sabashi-renya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/474885.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-09'
     code: 474885
     url: /works/474885/
@@ -1024,7 +1024,7 @@ works:
   - title: The Crazy Thing About Combining Birthrate-Decline Measures with Dating Apps
     author: armadillo-daiji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686230.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-09'
     code: 686230
     url: /works/686230/
@@ -1033,8 +1033,15 @@ works:
       Department~
     author: c-kyuu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686249.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-10-09'
     code: 686249
     url: /works/686249/
+  - title: Senaka Tanhenshuu [Ue]｜Senaka Short Story Collection
+    author: senaka
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686438.jpg
+    rating: 0.0
+    date: '2026-10-10'
+    code: 686438
+    url: /works/686438/
 ---

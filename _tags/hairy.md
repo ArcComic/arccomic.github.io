@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "hairy"
-work_count: 300
+work_count: 301
 works:
   - title: MAGIC SEVEN
     author: asuhiro
@@ -41,7 +41,7 @@ works:
   - title: Konna ni mo Itooshii Zero
     author: nohito
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/179622.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-10-09'
     code: 179622
     url: /works/179622/
@@ -191,7 +191,7 @@ works:
   - title: Makoto ga TOP!
     author: tsurui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/361286.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-09'
     code: 361286
     url: /works/361286/
@@ -2170,7 +2170,7 @@ works:
   - title: The Crazy Thing About Combining Birthrate-Decline Measures with Dating Apps
     author: armadillo-daiji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686230.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-09'
     code: 686230
     url: /works/686230/
@@ -2179,7 +2179,7 @@ works:
       Department~
     author: c-kyuu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686249.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-10-09'
     code: 686249
     url: /works/686249/
@@ -2190,17 +2190,24 @@ works:
     date: '2026-10-10'
     code: 686291
     url: /works/686291/
+  - title: Senaka Tanhenshuu [Ue]｜Senaka Short Story Collection
+    author: senaka
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686438.jpg
+    rating: 0.0
+    date: '2026-10-10'
+    code: 686438
+    url: /works/686438/
   - title: Netorare Bokukko Mama | Netorare'd Tomboyish Mom
     author: dozamura
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686511.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-10-10'
     code: 686511
     url: /works/686511/
   - title: AV Kazoku | AV Family
     author: piero
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686531.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-10-10'
     code: 686531
     url: /works/686531/

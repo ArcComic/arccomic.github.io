@@ -1625,7 +1625,7 @@ works:
       Department~
     author: c-kyuu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686249.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-10-09'
     code: 686249
     url: /works/686249/
@@ -1639,14 +1639,14 @@ works:
   - title: Tooku e Iku Kimi ni
     author: hako-reema
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686318.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-10-09'
     code: 686318
     url: /works/686318/
   - title: Ranko-ppoi no! | Ranko-Ish!
     author: napata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/87393.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-10-09'
     code: 87393
     url: /works/87393/

@@ -57,7 +57,7 @@ works:
       Edition~
     author: tsurui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/406008.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-10-10'
     code: 406008
     url: /works/406008/
@@ -589,14 +589,14 @@ works:
   - title: Mahiru-senpai no Hatsukoi | True Noon-senpai's First Love
     author: fan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686471.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-10-10'
     code: 686471
     url: /works/686471/
   - title: Netorare Bokukko Mama | Netorare'd Tomboyish Mom
     author: dozamura
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686511.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-10-10'
     code: 686511
     url: /works/686511/

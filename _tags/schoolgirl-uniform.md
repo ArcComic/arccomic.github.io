@@ -13,21 +13,21 @@ works:
   - title: Shiburin-ppoi no!
     author: napata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/106821.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-10-09'
     code: 106821
     url: /works/106821/
   - title: Rin to P
     author: simon
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/143929.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-10-09'
     code: 143929
     url: /works/143929/
   - title: I'll be your cat
     author: napata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/167112.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-10-09'
     code: 167112
     url: /works/167112/
@@ -62,7 +62,7 @@ works:
   - title: Chihaya to Seifuku! | Chihaya and Uniform!
     author: tsurui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/280836.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-10-10'
     code: 280836
     url: /works/280836/
@@ -1985,7 +1985,7 @@ works:
       Before Our School Trip After Days
     author: meganeko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/676318.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-10'
     code: 676318
     url: /works/676318/
@@ -2541,14 +2541,14 @@ works:
   - title: The Crazy Thing About Combining Birthrate-Decline Measures with Dating Apps
     author: armadillo-daiji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686230.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-09'
     code: 686230
     url: /works/686230/
   - title: AV Kazoku | AV Family
     author: piero
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686531.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-10-10'
     code: 686531
     url: /works/686531/

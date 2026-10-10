@@ -41,14 +41,14 @@ works:
   - title: Yayoi to Issho 4
     author: tsurui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/323523.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-10'
     code: 323523
     url: /works/323523/
   - title: Ritsuko to Shokuba de...
     author: tsurui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/351810.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-10-10'
     code: 351810
     url: /works/351810/
@@ -123,7 +123,7 @@ works:
       is My Girlfriend!? Sexual Relationship for Two Nights and Three Days 1-4
     author: katagiri-kaneharu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/509580.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-10-10'
     code: 509580
     url: /works/509580/

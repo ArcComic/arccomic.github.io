@@ -7,7 +7,7 @@ works:
       is My Girlfriend!? Sexual Relationship for Two Nights and Three Days 1-4
     author: katagiri-kaneharu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/509580.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-10-10'
     code: 509580
     url: /works/509580/

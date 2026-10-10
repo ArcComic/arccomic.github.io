@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "milf"
-work_count: 463
+work_count: 465
 works:
   - title: Life with Married Women Just Like a Manga 2 - Ch. 1-5
     author: hidemaru
@@ -3360,7 +3360,7 @@ works:
   - title: The Crazy Thing About Combining Birthrate-Decline Measures with Dating Apps
     author: armadillo-daiji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686230.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-09'
     code: 686230
     url: /works/686230/
@@ -3369,7 +3369,7 @@ works:
       Department~
     author: c-kyuu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686249.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-10-09'
     code: 686249
     url: /works/686249/
@@ -3380,10 +3380,24 @@ works:
     date: '2026-10-10'
     code: 686291
     url: /works/686291/
+  - title: Senaka Tanhenshuu [Ue]｜Senaka Short Story Collection
+    author: senaka
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686438.jpg
+    rating: 0.0
+    date: '2026-10-10'
+    code: 686438
+    url: /works/686438/
+  - title: Hitozuma, Kaede-san Gifuku to Kazoku Gurumi de Kozukuri Dentou
+    author: barakaba
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686462.jpg
+    rating: 0.0
+    date: '2026-10-10'
+    code: 686462
+    url: /works/686462/
   - title: Netorare Bokukko Mama | Netorare'd Tomboyish Mom
     author: dozamura
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686511.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-10-10'
     code: 686511
     url: /works/686511/

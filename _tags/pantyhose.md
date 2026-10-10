@@ -69,7 +69,7 @@ works:
   - title: Ritsuko to Shokuba de...
     author: tsurui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/351810.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-10-10'
     code: 351810
     url: /works/351810/
@@ -197,7 +197,7 @@ works:
   - title: Watashi no Shiranai Anata Toka
     author: tsurui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/553624.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-10-10'
     code: 553624
     url: /works/553624/

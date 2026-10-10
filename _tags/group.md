@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "group"
-work_count: 253
+work_count: 254
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -200,7 +200,7 @@ works:
   - title: Nee-chan to Chome Chome Ch. 1-4
     author: sabashi-renya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/474885.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-09'
     code: 474885
     url: /works/474885/
@@ -1290,7 +1290,7 @@ works:
       Before Our School Trip After Days
     author: meganeko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/676318.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-10'
     code: 676318
     url: /works/676318/
@@ -1821,35 +1821,42 @@ works:
   - title: The Crazy Thing About Combining Birthrate-Decline Measures with Dating Apps
     author: armadillo-daiji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686230.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-09'
     code: 686230
     url: /works/686230/
   - title: Yami Seito Kaichou - Dark student council president
     author: hakaba
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686334.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-10-09'
     code: 686334
     url: /works/686334/
+  - title: Hitozuma, Kaede-san Gifuku to Kazoku Gurumi de Kozukuri Dentou
+    author: barakaba
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686462.jpg
+    rating: 0.0
+    date: '2026-10-10'
+    code: 686462
+    url: /works/686462/
   - title: Mahiru-senpai no Hatsukoi | True Noon-senpai's First Love
     author: fan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686471.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-10-10'
     code: 686471
     url: /works/686471/
   - title: Netorare Bokukko Mama | Netorare'd Tomboyish Mom
     author: dozamura
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686511.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-10-10'
     code: 686511
     url: /works/686511/
   - title: AV Kazoku | AV Family
     author: piero
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686531.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-10-10'
     code: 686531
     url: /works/686531/

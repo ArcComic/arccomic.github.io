@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "rough translation"
-work_count: 670
+work_count: 671
 works:
   - title: Boku no Shiranai Kimi no Kao
     author: utsutsu-minoru
@@ -2975,7 +2975,7 @@ works:
   - title: Mamayu VR
     author: ponpon
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/672577.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-10-09'
     code: 672577
     url: /works/672577/
@@ -4862,42 +4862,49 @@ works:
       with XXXX
     author: nyaruko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686113.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-10-09'
     code: 686113
     url: /works/686113/
   - title: The Crazy Thing About Combining Birthrate-Decline Measures with Dating Apps
     author: armadillo-daiji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686230.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-09'
     code: 686230
     url: /works/686230/
   - title: Tooku e Iku Kimi ni
     author: hako-reema
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686318.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-10-09'
     code: 686318
     url: /works/686318/
   - title: Yami Seito Kaichou - Dark student council president
     author: hakaba
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686334.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-10-09'
     code: 686334
     url: /works/686334/
+  - title: Hitozuma, Kaede-san Gifuku to Kazoku Gurumi de Kozukuri Dentou
+    author: barakaba
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686462.jpg
+    rating: 0.0
+    date: '2026-10-10'
+    code: 686462
+    url: /works/686462/
   - title: Mahiru-senpai no Hatsukoi | True Noon-senpai's First Love
     author: fan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686471.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-10-10'
     code: 686471
     url: /works/686471/
   - title: Netorare Bokukko Mama | Netorare'd Tomboyish Mom
     author: dozamura
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686511.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-10-10'
     code: 686511
     url: /works/686511/

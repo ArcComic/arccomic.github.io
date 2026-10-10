@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "anal"
-work_count: 162
+work_count: 163
 works:
   - title: Ikanishite Haha wa Onna o Kaihou Shitaka Ch. 1-14
     author: mitarai-yuuki
@@ -111,7 +111,7 @@ works:
   - title: Nee-chan to Chome Chome Ch. 1-4
     author: sabashi-renya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/474885.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-09'
     code: 474885
     url: /works/474885/
@@ -1173,14 +1173,21 @@ works:
   - title: Yami Seito Kaichou - Dark student council president
     author: hakaba
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686334.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-10-09'
     code: 686334
     url: /works/686334/
+  - title: Kakutouka na Otokonoko!
+    author: yuruyakatou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686448.jpg
+    rating: 0.0
+    date: '2026-10-10'
+    code: 686448
+    url: /works/686448/
   - title: Netorare Bokukko Mama | Netorare'd Tomboyish Mom
     author: dozamura
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686511.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-10-10'
     code: 686511
     url: /works/686511/

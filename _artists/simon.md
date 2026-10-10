@@ -5,7 +5,7 @@ work_count: 2
 works:
   - title: Rin to P
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/143929.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-10-09'
     code: 143929
     url: /works/143929/

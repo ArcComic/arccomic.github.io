@@ -6,7 +6,7 @@ works:
   - title: Kaede-san-ppoi no!
     author: napata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/136668.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-09'
     code: 136668
     url: /works/136668/

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "beauty mark"
-work_count: 207
+work_count: 208
 works:
   - title: Uragiri no Ai wa Mitsu no Aji | Treacherous Love Tastes Like Honey
     author: cuzukago
@@ -79,7 +79,7 @@ works:
   - title: Shika wa Tottemo Sekkyokuteki desu!
     author: tsurui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/323524.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-10-09'
     code: 323524
     url: /works/323524/
@@ -456,7 +456,7 @@ works:
   - title: Watashi no Shiranai Anata Toka
     author: tsurui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/553624.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-10-10'
     code: 553624
     url: /works/553624/
@@ -1541,4 +1541,11 @@ works:
     date: '2026-09-30'
     code: 684911
     url: /works/684911/
+  - title: Senaka Tanhenshuu [Ue]｜Senaka Short Story Collection
+    author: senaka
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686438.jpg
+    rating: 0.0
+    date: '2026-10-10'
+    code: 686438
+    url: /works/686438/
 ---

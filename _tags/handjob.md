@@ -1,12 +1,12 @@
 ---
 layout: tag
 tag_name: "handjob"
-work_count: 144
+work_count: 145
 works:
   - title: Rin to P
     author: simon
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/143929.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-10-09'
     code: 143929
     url: /works/143929/
@@ -1070,10 +1070,17 @@ works:
   - title: Tooku e Iku Kimi ni
     author: hako-reema
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686318.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-10-09'
     code: 686318
     url: /works/686318/
+  - title: Senaka Tanhenshuu [Ue]｜Senaka Short Story Collection
+    author: senaka
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686438.jpg
+    rating: 0.0
+    date: '2026-10-10'
+    code: 686438
+    url: /works/686438/
   - title: Onee-chan no SM Kouza | Onee-chan's S&M Lecture
     author: shinooka-homare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/88750.jpg

@@ -1,12 +1,12 @@
 ---
 layout: tag
 tag_name: "glasses"
-work_count: 274
+work_count: 275
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/103606.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-10-09'
     code: 103606
     url: /works/103606/
@@ -169,7 +169,7 @@ works:
   - title: Ritsuko to Shokuba de...
     author: tsurui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/351810.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-10-10'
     code: 351810
     url: /works/351810/
@@ -1570,7 +1570,7 @@ works:
       Before Our School Trip After Days
     author: meganeko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/676318.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-10'
     code: 676318
     url: /works/676318/
@@ -1984,17 +1984,24 @@ works:
     date: '2026-10-10'
     code: 686291
     url: /works/686291/
+  - title: Senaka Tanhenshuu [Ue]｜Senaka Short Story Collection
+    author: senaka
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686438.jpg
+    rating: 0.0
+    date: '2026-10-10'
+    code: 686438
+    url: /works/686438/
   - title: AV Kazoku | AV Family
     author: piero
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686531.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-10-10'
     code: 686531
     url: /works/686531/
   - title: Osakabehime Won't Lose | Osakabehime wa Otosenai
     author: umihotaru-harumare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686538.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-10-10'
     code: 686538
     url: /works/686538/
@@ -2008,7 +2015,7 @@ works:
   - title: Ranko-ppoi no! | Ranko-Ish!
     author: napata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/87393.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-10-09'
     code: 87393
     url: /works/87393/

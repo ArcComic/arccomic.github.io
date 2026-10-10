@@ -6,21 +6,21 @@ works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/103606.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-10-09'
     code: 103606
     url: /works/103606/
   - title: Shiburin-ppoi no!
     author: napata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/106821.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-10-09'
     code: 106821
     url: /works/106821/
   - title: Kaede-san-ppoi no!
     author: napata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/136668.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-09'
     code: 136668
     url: /works/136668/
@@ -34,7 +34,7 @@ works:
   - title: Rin to P
     author: simon
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/143929.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-10-09'
     code: 143929
     url: /works/143929/
@@ -62,7 +62,7 @@ works:
   - title: Konna ni mo Itooshii Zero
     author: nohito
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/179622.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-10-09'
     code: 179622
     url: /works/179622/
@@ -90,7 +90,7 @@ works:
   - title: Chihaya to Seifuku! | Chihaya and Uniform!
     author: tsurui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/280836.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-10-10'
     code: 280836
     url: /works/280836/
@@ -125,35 +125,35 @@ works:
   - title: Yayoi to Issho 4
     author: tsurui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/323523.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-10'
     code: 323523
     url: /works/323523/
   - title: Shika wa Tottemo Sekkyokuteki desu!
     author: tsurui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/323524.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-10-09'
     code: 323524
     url: /works/323524/
   - title: Ritsuko to Shokuba de...
     author: tsurui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/351810.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-10-10'
     code: 351810
     url: /works/351810/
   - title: Shiro ga Afurete... | White Overflow...
     author: tsurui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/355274.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-10-10'
     code: 355274
     url: /works/355274/
   - title: Makoto ga TOP!
     author: tsurui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/361286.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-09'
     code: 361286
     url: /works/361286/
@@ -168,7 +168,7 @@ works:
       Edition~
     author: tsurui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/406008.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-10-10'
     code: 406008
     url: /works/406008/
@@ -189,7 +189,7 @@ works:
   - title: Watashi no Shiranai Anata Toka
     author: tsurui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/553624.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-10-10'
     code: 553624
     url: /works/553624/
@@ -275,7 +275,7 @@ works:
   - title: Mamayu VR
     author: ponpon
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/672577.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-10-09'
     code: 672577
     url: /works/672577/
@@ -332,7 +332,7 @@ works:
   - title: Ranko-ppoi no! | Ranko-Ish!
     author: napata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/87393.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-10-09'
     code: 87393
     url: /works/87393/

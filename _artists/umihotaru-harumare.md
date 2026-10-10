@@ -11,7 +11,7 @@ works:
     url: /works/684608/
   - title: Osakabehime Won't Lose | Osakabehime wa Otosenai
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686538.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-10-10'
     code: 686538
     url: /works/686538/

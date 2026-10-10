@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "x-ray"
-work_count: 330
+work_count: 331
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -13,7 +13,7 @@ works:
   - title: Konna ni mo Itooshii Zero
     author: nohito
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/179622.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-10-09'
     code: 179622
     url: /works/179622/
@@ -78,7 +78,7 @@ works:
   - title: Yayoi to Issho 4
     author: tsurui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/323523.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-10'
     code: 323523
     url: /works/323523/
@@ -92,7 +92,7 @@ works:
   - title: Shiro ga Afurete... | White Overflow...
     author: tsurui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/355274.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-10-10'
     code: 355274
     url: /works/355274/
@@ -275,7 +275,7 @@ works:
   - title: Nee-chan to Chome Chome Ch. 1-4
     author: sabashi-renya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/474885.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-09'
     code: 474885
     url: /works/474885/
@@ -2466,7 +2466,7 @@ works:
       with XXXX
     author: nyaruko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686113.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-10-09'
     code: 686113
     url: /works/686113/
@@ -2475,8 +2475,15 @@ works:
       Department~
     author: c-kyuu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686249.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-10-09'
     code: 686249
     url: /works/686249/
+  - title: Hitozuma, Kaede-san Gifuku to Kazoku Gurumi de Kozukuri Dentou
+    author: barakaba
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686462.jpg
+    rating: 0.0
+    date: '2026-10-10'
+    code: 686462
+    url: /works/686462/
 ---

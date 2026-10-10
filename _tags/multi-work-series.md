@@ -6,7 +6,7 @@ works:
   - title: Konna ni mo Itooshii Zero
     author: nohito
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/179622.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-10-09'
     code: 179622
     url: /works/179622/
@@ -76,7 +76,7 @@ works:
   - title: Yayoi to Issho 4
     author: tsurui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/323523.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-10'
     code: 323523
     url: /works/323523/
@@ -397,7 +397,7 @@ works:
       is My Girlfriend!? Sexual Relationship for Two Nights and Three Days 1-4
     author: katagiri-kaneharu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/509580.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-10-10'
     code: 509580
     url: /works/509580/
@@ -2882,14 +2882,14 @@ works:
       Department~
     author: c-kyuu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686249.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-10-09'
     code: 686249
     url: /works/686249/
   - title: Sono Bisque Doll wa H o Suru 3
     author: yahiro-pochi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686496.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-10-10'
     code: 686496
     url: /works/686496/

@@ -13,7 +13,7 @@ works:
   - title: Shiro ga Afurete... | White Overflow...
     author: tsurui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/355274.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-10-10'
     code: 355274
     url: /works/355274/
@@ -116,7 +116,7 @@ works:
       is My Girlfriend!? Sexual Relationship for Two Nights and Three Days 1-4
     author: katagiri-kaneharu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/509580.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-10-10'
     code: 509580
     url: /works/509580/
@@ -510,7 +510,7 @@ works:
   - title: Motto Mawashite Ura Kairanban Ch. 1-4
     author: yano-toshinori
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/670485.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-10-10'
     code: 670485
     url: /works/670485/
@@ -534,7 +534,7 @@ works:
   - title: Romantic ga Tomerarenai | Can't Stop the Romance
     author: kitaku
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/676948.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-10-09'
     code: 676948
     url: /works/676948/
@@ -671,7 +671,7 @@ works:
   - title: The Crazy Thing About Combining Birthrate-Decline Measures with Dating Apps
     author: armadillo-daiji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686230.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-09'
     code: 686230
     url: /works/686230/
@@ -686,14 +686,14 @@ works:
       Into a Futanari, So I Had My Magic Master Cure Me
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686320.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-10-09'
     code: 686320
     url: /works/686320/
   - title: AV Kazoku | AV Family
     author: piero
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686531.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-10-10'
     code: 686531
     url: /works/686531/
