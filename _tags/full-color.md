@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "full color"
-work_count: 257
+work_count: 259
 works:
   - title: Pai☆Panic ~Hasamareta Dekapai~
     author: inkey
@@ -31,6 +31,13 @@ works:
     date: '2026-10-02'
     code: 304474
     url: /works/304474/
+  - title: A Wonderful New World Ch.35/?
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/325061.jpg
+    rating: 0.0
+    date: '2026-10-11'
+    code: 325061
+    url: /works/325061/
   - title: Kono Furin wa Otto no Tame "Anata, Yurushite…." To, Netorareru Tsuma | 這場外遇是為了老公「親愛的，原諒我…」這樣說著，為老公戴綠帽的妻子
     author: korosuke
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/328805.jpg
@@ -1881,4 +1888,11 @@ works:
     date: '2026-10-07'
     code: 686092
     url: /works/686092/
+  - title: Mothers are Women Too 4!
+    author: siberian-hahasky
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686449.jpg
+    rating: 0.0
+    date: '2026-10-11'
+    code: 686449
+    url: /works/686449/
 ---

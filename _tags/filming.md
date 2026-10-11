@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "filming"
-work_count: 108
+work_count: 109
 works:
   - title: Ikanishite Haha wa Onna o Kaihou Shitaka Ch. 1-14
     author: mitarai-yuuki
@@ -24,6 +24,13 @@ works:
     date: '2026-07-16'
     code: 288292
     url: /works/288292/
+  - title: A Wonderful New World Ch.35/?
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/325061.jpg
+    rating: 0.0
+    date: '2026-10-11'
+    code: 325061
+    url: /works/325061/
   - title: My Sugar Mama! 1-3
     author: azukiko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/328334.jpg

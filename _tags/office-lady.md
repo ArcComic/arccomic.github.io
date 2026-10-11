@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "office lady"
-work_count: 27
+work_count: 28
 works:
   - title: Adoration
     author: kishizuka-kenji
@@ -119,6 +119,13 @@ works:
     date: '2026-09-06'
     code: 589313
     url: /works/589313/
+  - title: I will make a single mother my wife 2
+    author: onizukachris
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/595981.jpg
+    rating: 4.8
+    date: '2026-10-11'
+    code: 595981
+    url: /works/595981/
   - title: Igumox - Muramata-san no Himitsu & Aijou - Muramata-san's Secret & Affection
       COMPLETE
     author: igumox

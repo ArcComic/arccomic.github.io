@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "kissing"
-work_count: 375
+work_count: 376
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -871,6 +871,13 @@ works:
     date: '2026-08-25'
     code: 595108
     url: /works/595108/
+  - title: I will make a single mother my wife 2
+    author: onizukachris
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/595981.jpg
+    rating: 4.8
+    date: '2026-10-11'
+    code: 595981
+    url: /works/595981/
   - title: Seishun to Backyard | The Youth and The Backyard
     author: mokuyama-hito
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/598084.jpg

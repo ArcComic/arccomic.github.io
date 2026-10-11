@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "webtoon"
-work_count: 10
+work_count: 11
 works:
   - title: The Girl That Got Stuck in the Wall Ch.11/11
     author: gaehoju
@@ -10,6 +10,13 @@ works:
     date: '2026-10-02'
     code: 304474
     url: /works/304474/
+  - title: A Wonderful New World Ch.35/?
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/325061.jpg
+    rating: 0.0
+    date: '2026-10-11'
+    code: 325061
+    url: /works/325061/
   - title: Bike Delivery Girl, Cumming To Your Door! | Jitensha Haitatsuin (※Rotor Souchakuchuu),
       Gaman Dekizu soto de Icchaimashita...
     author: aono-akira

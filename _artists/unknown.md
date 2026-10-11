@@ -1,7 +1,7 @@
 ---
 layout: artist
 artist_name: "unknown"
-work_count: 76
+work_count: 77
 works:
   - title: Hajimete Kanojo Ga Dekita No Ni
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/316579.jpg
@@ -9,6 +9,12 @@ works:
     date: '2026-09-13'
     code: 316579
     url: /works/316579/
+  - title: A Wonderful New World Ch.35/?
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/325061.jpg
+    rating: 0.0
+    date: '2026-10-11'
+    code: 325061
+    url: /works/325061/
   - title: Yasashii Bakunyuu Kaa-san to Irekawacchatta Hankouki na Ore no Hanashi ~Episode
       1~
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/420425.jpg

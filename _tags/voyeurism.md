@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "voyeurism"
-work_count: 60
+work_count: 61
 works:
   - title: Tsutomesaki no Musume-san o Oishiku Itadaku Hon Minshuku Hen
     author: aya
@@ -186,6 +186,13 @@ works:
     date: '2026-10-09'
     code: 593683
     url: /works/593683/
+  - title: I will make a single mother my wife 2
+    author: onizukachris
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/595981.jpg
+    rating: 4.8
+    date: '2026-10-11'
+    code: 595981
+    url: /works/595981/
   - title: Houkai Kazoku 2 -Hahaoya ga Yakuza to no Sex ni Hamatta Hanashi- | Broken
       Family 2 - The story of a mother who got hooked on sex with the Yakuza
     author: watsondou

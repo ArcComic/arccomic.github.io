@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "original"
-work_count: 1135
+work_count: 1137
 works:
   - title: Natsu dake Koibito - Summer only Lover [English] =Forbidden Fetish + Ser
       Maggot=
@@ -2526,6 +2526,13 @@ works:
     date: '2026-08-31'
     code: 595788
     url: /works/595788/
+  - title: I will make a single mother my wife 2
+    author: onizukachris
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/595981.jpg
+    rating: 4.8
+    date: '2026-10-11'
+    code: 595981
+    url: /works/595981/
   - title: Geriatric Dragons dogma
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/596562.jpg
@@ -8407,6 +8414,13 @@ works:
     date: '2026-10-10'
     code: 686448
     url: /works/686448/
+  - title: Mothers are Women Too 4!
+    author: siberian-hahasky
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686449.jpg
+    rating: 0.0
+    date: '2026-10-11'
+    code: 686449
+    url: /works/686449/
   - title: Hitozuma, Kaede-san Gifuku to Kazoku Gurumi de Kozukuri Dentou
     author: barakaba
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686462.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "pixie cut"
-work_count: 106
+work_count: 107
 works:
   - title: Akarui Kazoku Seikatsu
     author: pistonring-nishizawa
@@ -783,6 +783,13 @@ works:
     date: '2026-10-10'
     code: 686446
     url: /works/686446/
+  - title: Mothers are Women Too 4!
+    author: siberian-hahasky
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686449.jpg
+    rating: 0.0
+    date: '2026-10-11'
+    code: 686449
+    url: /works/686449/
   - title: Mahiru-senpai no Hatsukoi | True Noon-senpai's First Love
     author: fan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686471.jpg

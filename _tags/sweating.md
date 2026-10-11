@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sweating"
-work_count: 181
+work_count: 182
 works:
   - title: Kaisha de Iroiro | Gettin' Busy at the Office
     author: hara-shigeyuki
@@ -468,6 +468,13 @@ works:
     date: '2026-09-06'
     code: 594382
     url: /works/594382/
+  - title: I will make a single mother my wife 2
+    author: onizukachris
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/595981.jpg
+    rating: 4.8
+    date: '2026-10-11'
+    code: 595981
+    url: /works/595981/
   - title: SHAMAN'S SPECIAL SERVICE
     author: raikko9
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/597388.jpg

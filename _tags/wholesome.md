@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "wholesome"
-work_count: 199
+work_count: 200
 works:
   - title: FLUFFY LAUGH GIRL
     author: shibasaki-syouzi
@@ -527,6 +527,13 @@ works:
     date: '2026-03-05'
     code: 593456
     url: /works/593456/
+  - title: I will make a single mother my wife 2
+    author: onizukachris
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/595981.jpg
+    rating: 4.8
+    date: '2026-10-11'
+    code: 595981
+    url: /works/595981/
   - title: Makezu Girai na Osananajimi to H Shoubu suru Hanashi | A story where a Childhood
       Friend that hates Losing has a Sex Battle!
     author: molta

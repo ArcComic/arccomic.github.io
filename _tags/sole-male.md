@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole male"
-work_count: 932
+work_count: 934
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -2485,6 +2485,13 @@ works:
     date: '2026-08-25'
     code: 595108
     url: /works/595108/
+  - title: I will make a single mother my wife 2
+    author: onizukachris
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/595981.jpg
+    rating: 4.8
+    date: '2026-10-11'
+    code: 595981
+    url: /works/595981/
   - title: Geriatric Dragons dogma
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/596562.jpg
@@ -6890,6 +6897,13 @@ works:
     date: '2026-10-10'
     code: 686446
     url: /works/686446/
+  - title: Mothers are Women Too 4!
+    author: siberian-hahasky
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686449.jpg
+    rating: 0.0
+    date: '2026-10-11'
+    code: 686449
+    url: /works/686449/
   - title: Sono Bisque Doll wa H o Suru 3
     author: yahiro-pochi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686496.jpg
