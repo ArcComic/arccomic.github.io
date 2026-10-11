@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "multi-work series"
-work_count: 386
+work_count: 388
 works:
   - title: Konna ni mo Itooshii Zero
     author: nohito
@@ -1084,6 +1084,14 @@ works:
     date: '2026-04-14'
     code: 616170
     url: /works/616170/
+  - title: Futari de Watashi o Ikasenaide...! ~Kurayami, Majiwaru Kyoudai Futon~  |
+      My 2 Step-Brothers are Ganging Up on Me!  Vol.1
+    author: ma-yu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/616683.jpg
+    rating: 0.0
+    date: '2026-10-11'
+    code: 616683
+    url: /works/616683/
   - title: Kyonyuu no Tomodachi to Tsukiau made no Hanashi Kouhen
     author: fuguta-ke
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/616893.jpg
@@ -2677,6 +2685,15 @@ works:
     date: '2026-09-23'
     code: 683443
     url: /works/683443/
+  - title: Gohoubi wa Karada de. ~Ero-sugi Fukuri Kousei wa Seishori-ka no Oshigoto~
+      (4) | The Reward is the Body ~The Overly Lewd Employee Benefits of the Service
+      Department~
+    author: c-kyuu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683484.jpg
+    rating: 0.0
+    date: '2026-10-11'
+    code: 683484
+    url: /works/683484/
   - title: The Story of the Person I Thought Was a Guy on Social Media Turning Out to
       Be a Tall Woman Who Was Gruff but Let Me Do Whatever I Wanted to Her – Part 2
     author: kurihara-kenshirou
@@ -2889,7 +2906,7 @@ works:
   - title: Mothers are Women Too 5!
     author: siberian-hahasky
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686446.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-10-10'
     code: 686446
     url: /works/686446/

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big ass"
-work_count: 241
+work_count: 242
 works:
   - title: My Care Lady Ch. 1
     author: sugi-g
@@ -27,7 +27,7 @@ works:
   - title: Mama Naranai Onna-tachi Ch. 1-2
     author: otochichi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/209822.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-10-10'
     code: 209822
     url: /works/209822/
@@ -1588,6 +1588,15 @@ works:
     date: '2026-09-23'
     code: 683319
     url: /works/683319/
+  - title: Gohoubi wa Karada de. ~Ero-sugi Fukuri Kousei wa Seishori-ka no Oshigoto~
+      (4) | The Reward is the Body ~The Overly Lewd Employee Benefits of the Service
+      Department~
+    author: c-kyuu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683484.jpg
+    rating: 0.0
+    date: '2026-10-11'
+    code: 683484
+    url: /works/683484/
   - title: The Story of the Person I Thought Was a Guy on Social Media Turning Out to
       Be a Tall Woman Who Was Gruff but Let Me Do Whatever I Wanted to Her – Part 2
     author: kurihara-kenshirou
@@ -1786,14 +1795,14 @@ works:
   - title: Senaka Tanhenshuu [Ue]｜Senaka Short Story Collection
     author: senaka
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686438.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-10-10'
     code: 686438
     url: /works/686438/
   - title: Mothers are Women Too 5!
     author: siberian-hahasky
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686446.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-10-10'
     code: 686446
     url: /works/686446/

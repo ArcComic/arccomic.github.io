@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "fingering"
-work_count: 179
+work_count: 180
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -573,6 +573,14 @@ works:
     date: '2026-09-10'
     code: 613838
     url: /works/613838/
+  - title: Futari de Watashi o Ikasenaide...! ~Kurayami, Majiwaru Kyoudai Futon~  |
+      My 2 Step-Brothers are Ganging Up on Me!  Vol.1
+    author: ma-yu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/616683.jpg
+    rating: 0.0
+    date: '2026-10-11'
+    code: 616683
+    url: /works/616683/
   - title: Futari de Watashi o Ikasenaide...! ~Kurayami, Majiwaru Kyoudai Futon~  |
       My 2 Step-Brothers are Ganging Up on Me!  Vol.1
     author: ma-yu

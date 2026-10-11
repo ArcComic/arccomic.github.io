@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sister"
-work_count: 106
+work_count: 107
 works:
   - title: Imitation Family + Bigibo Hen
     author: tohzai
@@ -219,6 +219,14 @@ works:
     date: '2026-08-25'
     code: 616367
     url: /works/616367/
+  - title: Futari de Watashi o Ikasenaide...! ~Kurayami, Majiwaru Kyoudai Futon~  |
+      My 2 Step-Brothers are Ganging Up on Me!  Vol.1
+    author: ma-yu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/616683.jpg
+    rating: 0.0
+    date: '2026-10-11'
+    code: 616683
+    url: /works/616683/
   - title: Futari de Watashi o Ikasenaide...! ~Kurayami, Majiwaru Kyoudai Futon~  |
       My 2 Step-Brothers are Ganging Up on Me!  Vol.1
     author: ma-yu
@@ -762,7 +770,7 @@ works:
   - title: Senaka Tanhenshuu [Ue]｜Senaka Short Story Collection
     author: senaka
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686438.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-10-10'
     code: 686438
     url: /works/686438/

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "full color"
-work_count: 255
+work_count: 256
 works:
   - title: Pai☆Panic ~Hasamareta Dekapai~
     author: inkey
@@ -866,6 +866,14 @@ works:
     date: '2026-04-14'
     code: 616170
     url: /works/616170/
+  - title: Futari de Watashi o Ikasenaide...! ~Kurayami, Majiwaru Kyoudai Futon~  |
+      My 2 Step-Brothers are Ganging Up on Me!  Vol.1
+    author: ma-yu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/616683.jpg
+    rating: 0.0
+    date: '2026-10-11'
+    code: 616683
+    url: /works/616683/
   - title: Tonari no Ie no Muboubi de Seibo sugiru Gal Mama
     author: rk-2
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/617061.jpg

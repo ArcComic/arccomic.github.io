@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "business suit"
-work_count: 88
+work_count: 89
 works:
   - title: MAGIC SEVEN
     author: asuhiro
@@ -624,6 +624,15 @@ works:
     date: '2026-09-23'
     code: 683318
     url: /works/683318/
+  - title: Gohoubi wa Karada de. ~Ero-sugi Fukuri Kousei wa Seishori-ka no Oshigoto~
+      (4) | The Reward is the Body ~The Overly Lewd Employee Benefits of the Service
+      Department~
+    author: c-kyuu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683484.jpg
+    rating: 0.0
+    date: '2026-10-11'
+    code: 683484
+    url: /works/683484/
   - title: Shiri de Onna o Miwakeru Ore wa Onna Joushi no Yowami o Nigiru 2 | I, A Guy
       Who Tells Women Apart By Their Asses, Got Blackmail On My Superior At Work 2
     author: eco-heeky

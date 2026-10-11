@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "translated"
-work_count: 1641
+work_count: 1643
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -223,7 +223,7 @@ works:
   - title: Mama Naranai Onna-tachi Ch. 1-2
     author: otochichi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/209822.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-10-10'
     code: 209822
     url: /works/209822/
@@ -4543,6 +4543,14 @@ works:
     date: '2026-04-27'
     code: 616533
     url: /works/616533/
+  - title: Futari de Watashi o Ikasenaide...! ~Kurayami, Majiwaru Kyoudai Futon~  |
+      My 2 Step-Brothers are Ganging Up on Me!  Vol.1
+    author: ma-yu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/616683.jpg
+    rating: 0.0
+    date: '2026-10-11'
+    code: 616683
+    url: /works/616683/
   - title: Kyonyuu no Tomodachi to Tsukiau made no Hanashi Kouhen
     author: fuguta-ke
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/616893.jpg
@@ -11137,6 +11145,15 @@ works:
     date: '2026-09-23'
     code: 683443
     url: /works/683443/
+  - title: Gohoubi wa Karada de. ~Ero-sugi Fukuri Kousei wa Seishori-ka no Oshigoto~
+      (4) | The Reward is the Body ~The Overly Lewd Employee Benefits of the Service
+      Department~
+    author: c-kyuu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683484.jpg
+    rating: 0.0
+    date: '2026-10-11'
+    code: 683484
+    url: /works/683484/
   - title: Tokubetsu na Wonderful nante Nakatta | There is no Special Kind of Wonderful
     author: sugarbt
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683561.jpg
@@ -11983,35 +12000,35 @@ works:
       Ladies
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686422.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-10-10'
     code: 686422
     url: /works/686422/
   - title: Senaka Tanhenshuu [Ue]｜Senaka Short Story Collection
     author: senaka
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686438.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-10-10'
     code: 686438
     url: /works/686438/
   - title: Mothers are Women Too 5!
     author: siberian-hahasky
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686446.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-10-10'
     code: 686446
     url: /works/686446/
   - title: Kakutouka na Otokonoko!
     author: yuruyakatou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686448.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-10-10'
     code: 686448
     url: /works/686448/
   - title: Hitozuma, Kaede-san Gifuku to Kazoku Gurumi de Kozukuri Dentou
     author: barakaba
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686462.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-10'
     code: 686462
     url: /works/686462/

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "ahegao"
-work_count: 321
+work_count: 322
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -13,7 +13,7 @@ works:
   - title: Mama Naranai Onna-tachi Ch. 1-2
     author: otochichi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/209822.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-10-10'
     code: 209822
     url: /works/209822/
@@ -2133,6 +2133,15 @@ works:
     date: '2026-09-23'
     code: 683318
     url: /works/683318/
+  - title: Gohoubi wa Karada de. ~Ero-sugi Fukuri Kousei wa Seishori-ka no Oshigoto~
+      (4) | The Reward is the Body ~The Overly Lewd Employee Benefits of the Service
+      Department~
+    author: c-kyuu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683484.jpg
+    rating: 0.0
+    date: '2026-10-11'
+    code: 683484
+    url: /works/683484/
   - title: Anata ga Awa ni Narumaeni | Before You Become Sea Foam
     author: shikabanekamo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683606.jpg
@@ -2385,21 +2394,21 @@ works:
   - title: Senaka Tanhenshuu [Ue]｜Senaka Short Story Collection
     author: senaka
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686438.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-10-10'
     code: 686438
     url: /works/686438/
   - title: Mothers are Women Too 5!
     author: siberian-hahasky
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686446.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-10-10'
     code: 686446
     url: /works/686446/
   - title: Kakutouka na Otokonoko!
     author: yuruyakatou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686448.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-10-10'
     code: 686448
     url: /works/686448/

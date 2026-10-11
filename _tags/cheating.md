@@ -62,7 +62,7 @@ works:
   - title: Mama Naranai Onna-tachi Ch. 1-2
     author: otochichi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/209822.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-10-10'
     code: 209822
     url: /works/209822/
@@ -2720,7 +2720,7 @@ works:
   - title: Mothers are Women Too 5!
     author: siberian-hahasky
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686446.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-10-10'
     code: 686446
     url: /works/686446/
