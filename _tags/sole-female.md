@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole female"
-work_count: 1006
+work_count: 1008
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -1725,6 +1725,13 @@ works:
     date: '2026-10-05'
     code: 517766
     url: /works/517766/
+  - title: 'Buka ni #UraAcc o Shiraretara | What If Your Subordinate Knows Your Secret?'
+    author: gar
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/517781.jpg
+    rating: 0.0
+    date: '2026-10-11'
+    code: 517781
+    url: /works/517781/
   - title: Mama to Boku to Mujintou | Me and mom and a deserted island
     author: yokkora
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/518005.jpg
@@ -7399,6 +7406,15 @@ works:
     date: '2026-10-11'
     code: 686369
     url: /works/686369/
+  - title: School Hypnosis ~The Cheeky Busty Gyaru Who Bullies me is Actually my Sexual
+      Relief Pet Lol~ | Gakuen Saimin ~Ore o Ijimeru Namaiki Bakunyuu Gal, Jitsu wa
+      Ore no Seishori Pet na Ken w~
+    author: nitake-yutamaro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686383.jpg
+    rating: 4.4
+    date: '2026-10-11'
+    code: 686383
+    url: /works/686383/
   - title: Mothers are Women Too 5!
     author: siberian-hahasky
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686446.jpg

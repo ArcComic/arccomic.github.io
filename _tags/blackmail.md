@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "blackmail"
-work_count: 146
+work_count: 147
 works:
   - title: Birthday
     author: hashiba-yachi
@@ -247,6 +247,13 @@ works:
     date: '2026-08-18'
     code: 511662
     url: /works/511662/
+  - title: 'Buka ni #UraAcc o Shiraretara | What If Your Subordinate Knows Your Secret?'
+    author: gar
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/517781.jpg
+    rating: 0.0
+    date: '2026-10-11'
+    code: 517781
+    url: /works/517781/
   - title: Kyoushi no Oba wa Himitsu no Bakunyuu Ero Cos Layer ~Iinari Gyaku Bunny &
       Sister Cos de Keiren Soku Iki Nakadashi Netori~ | My Teacher Aunt Is Secretly
       A Buxom Erotic Cosplayer

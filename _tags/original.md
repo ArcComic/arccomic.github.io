@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "original"
-work_count: 1144
+work_count: 1147
 works:
   - title: Natsu dake Koibito - Summer only Lover [English] =Forbidden Fetish + Ser
       Maggot=
@@ -1302,6 +1302,13 @@ works:
     date: '2026-04-17'
     code: 516164
     url: /works/516164/
+  - title: 'Buka ni #UraAcc o Shiraretara | What If Your Subordinate Knows Your Secret?'
+    author: gar
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/517781.jpg
+    rating: 0.0
+    date: '2026-10-11'
+    code: 517781
+    url: /works/517781/
   - title: Mukashi no Uwaki Aite no Ko ga Jitsu wa Watashi no Musuko no Doukyuusei de
       2
     author: shomu
@@ -5902,6 +5909,14 @@ works:
     date: '2026-09-18'
     code: 668045
     url: /works/668045/
+  - title: Rockydou (Akane), Pride no Takai Onna Joushi ga Kouhai Otoko ni Wakara sareru
+      Hanashi
+    author: akane
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/668182.jpg
+    rating: 0.0
+    date: '2026-10-11'
+    code: 668182
+    url: /works/668182/
   - title: Black Kigyou No Kamin Shitsu Ga Yari Beya Ni Natteta Hanashi
     author: oshima-aki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/668297.jpg
@@ -8437,6 +8452,15 @@ works:
     date: '2026-10-11'
     code: 686369
     url: /works/686369/
+  - title: School Hypnosis ~The Cheeky Busty Gyaru Who Bullies me is Actually my Sexual
+      Relief Pet Lol~ | Gakuen Saimin ~Ore o Ijimeru Namaiki Bakunyuu Gal, Jitsu wa
+      Ore no Seishori Pet na Ken w~
+    author: nitake-yutamaro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686383.jpg
+    rating: 4.4
+    date: '2026-10-11'
+    code: 686383
+    url: /works/686383/
   - title: Sacrifice to the Lioness — The Former Head Who Became Prey to the Futanari
       Ladies
     author: group

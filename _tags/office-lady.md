@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "office lady"
-work_count: 30
+work_count: 32
 works:
   - title: Adoration
     author: kishizuka-kenji
@@ -89,6 +89,13 @@ works:
     date: '2026-09-29'
     code: 512416
     url: /works/512416/
+  - title: 'Buka ni #UraAcc o Shiraretara | What If Your Subordinate Knows Your Secret?'
+    author: gar
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/517781.jpg
+    rating: 0.0
+    date: '2026-10-11'
+    code: 517781
+    url: /works/517781/
   - title: 'Buka ni #UraAcc o Shiraretara | If My Subordinate Finds Out About My Secret
       Alt Account'
     author: gar
@@ -201,6 +208,14 @@ works:
     date: '2026-07-16'
     code: 664460
     url: /works/664460/
+  - title: Rockydou (Akane), Pride no Takai Onna Joushi ga Kouhai Otoko ni Wakara sareru
+      Hanashi
+    author: akane
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/668182.jpg
+    rating: 0.0
+    date: '2026-10-11'
+    code: 668182
+    url: /works/668182/
   - title: Black Kigyou No Kamin Shitsu Ga Yari Beya Ni Natteta Hanashi
     author: oshima-aki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/668297.jpg

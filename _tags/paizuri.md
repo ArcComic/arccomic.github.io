@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "paizuri"
-work_count: 236
+work_count: 237
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -234,6 +234,13 @@ works:
     date: '2026-09-11'
     code: 512938
     url: /works/512938/
+  - title: 'Buka ni #UraAcc o Shiraretara | What If Your Subordinate Knows Your Secret?'
+    author: gar
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/517781.jpg
+    rating: 0.0
+    date: '2026-10-11'
+    code: 517781
+    url: /works/517781/
   - title: Chotto Daruikedo Yasashikute Mendoumi ga Yokute Ironna Keiken Sasete Kureru
       Senpai no Hanashi | My Pain-In-The-Ass Yet Nice And Caring Senior Collegue
     author: nako-sir

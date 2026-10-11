@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "school gym uniform"
-work_count: 6
+work_count: 7
 works:
   - title: Namaiki TS Yankee ga Zetsurin Taiiku Kyoushi no Onaho ni natte Akume Shiofuki
       Mesu Ochi Ninshin! [TS Delinquent becomes a gym teacher's onahole and Cums ❤ Squirts
@@ -50,4 +50,13 @@ works:
     date: '2026-09-16'
     code: 681498
     url: /works/681498/
+  - title: School Hypnosis ~The Cheeky Busty Gyaru Who Bullies me is Actually my Sexual
+      Relief Pet Lol~ | Gakuen Saimin ~Ore o Ijimeru Namaiki Bakunyuu Gal, Jitsu wa
+      Ore no Seishori Pet na Ken w~
+    author: nitake-yutamaro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686383.jpg
+    rating: 4.4
+    date: '2026-10-11'
+    code: 686383
+    url: /works/686383/
 ---

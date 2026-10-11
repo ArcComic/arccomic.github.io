@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "pantyhose"
-work_count: 77
+work_count: 78
 works:
   - title: MAGIC SEVEN
     author: asuhiro
@@ -151,6 +151,13 @@ works:
     date: '2026-09-29'
     code: 513981
     url: /works/513981/
+  - title: 'Buka ni #UraAcc o Shiraretara | What If Your Subordinate Knows Your Secret?'
+    author: gar
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/517781.jpg
+    rating: 0.0
+    date: '2026-10-11'
+    code: 517781
+    url: /works/517781/
   - title: Kore wa Fukakouryoku desu node
     author: shiba-aya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/519927.jpg

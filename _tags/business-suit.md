@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "business suit"
-work_count: 92
+work_count: 93
 works:
   - title: MAGIC SEVEN
     author: asuhiro
@@ -272,6 +272,13 @@ works:
     date: '2026-04-23'
     code: 509049
     url: /works/509049/
+  - title: 'Buka ni #UraAcc o Shiraretara | What If Your Subordinate Knows Your Secret?'
+    author: gar
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/517781.jpg
+    rating: 0.0
+    date: '2026-10-11'
+    code: 517781
+    url: /works/517781/
   - title: Shuuden Deisui Anken
     author: uds
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/525085.jpg

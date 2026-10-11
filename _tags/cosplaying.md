@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "cosplaying"
-work_count: 26
+work_count: 27
 works:
   - title: My Sugar Mama! 1-3
     author: azukiko
@@ -190,6 +190,15 @@ works:
     date: '2026-10-05'
     code: 686029
     url: /works/686029/
+  - title: School Hypnosis ~The Cheeky Busty Gyaru Who Bullies me is Actually my Sexual
+      Relief Pet Lol~ | Gakuen Saimin ~Ore o Ijimeru Namaiki Bakunyuu Gal, Jitsu wa
+      Ore no Seishori Pet na Ken w~
+    author: nitake-yutamaro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686383.jpg
+    rating: 4.4
+    date: '2026-10-11'
+    code: 686383
+    url: /works/686383/
   - title: Sono Bisque Doll wa H o Suru 3
     author: yahiro-pochi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686496.jpg
