@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "producer"
-work_count: 48
+work_count: 49
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -122,6 +122,13 @@ works:
     date: '2026-10-02'
     code: 314536
     url: /works/314536/
+  - title: Makoto to Ofuro | Bathtime with Makoto
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/320439.jpg
+    rating: 0.0
+    date: '2026-10-11'
+    code: 320439
+    url: /works/320439/
   - title: Yayoi to Issho 4
     author: tsurui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/323523.jpg

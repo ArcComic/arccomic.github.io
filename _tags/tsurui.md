@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "tsurui"
-work_count: 17
+work_count: 18
 works:
   - title: Ami Mami Mind 5
     author: tsurui
@@ -24,6 +24,13 @@ works:
     date: '2026-10-08'
     code: 287467
     url: /works/287467/
+  - title: Makoto to Ofuro | Bathtime with Makoto
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/320439.jpg
+    rating: 0.0
+    date: '2026-10-11'
+    code: 320439
+    url: /works/320439/
   - title: Yayoi to Issho 4
     author: tsurui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/323523.jpg

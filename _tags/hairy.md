@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "hairy"
-work_count: 307
+work_count: 309
 works:
   - title: MAGIC SEVEN
     author: asuhiro
@@ -160,6 +160,13 @@ works:
     date: '2026-09-30'
     code: 312587
     url: /works/312587/
+  - title: Makoto to Ofuro | Bathtime with Makoto
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/320439.jpg
+    rating: 0.0
+    date: '2026-10-11'
+    code: 320439
+    url: /works/320439/
   - title: My Sugar Mama! 1-3
     author: azukiko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/328334.jpg
@@ -977,6 +984,13 @@ works:
     date: '2026-10-09'
     code: 602651
     url: /works/602651/
+  - title: Gal Mama SeFri - GAL MOTHER SEX FRIEND
+    author: nitake-yutamaro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/603141.jpg
+    rating: 0.0
+    date: '2026-10-11'
+    code: 603141
+    url: /works/603141/
   - title: Soukan Syndrome
     author: kuroiwa-menou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/605633.jpg

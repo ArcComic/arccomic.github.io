@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "x-ray"
-work_count: 337
+work_count: 339
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -75,6 +75,13 @@ works:
     date: '2026-09-13'
     code: 316579
     url: /works/316579/
+  - title: Makoto to Ofuro | Bathtime with Makoto
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/320439.jpg
+    rating: 0.0
+    date: '2026-10-11'
+    code: 320439
+    url: /works/320439/
   - title: Yayoi to Issho 4
     author: tsurui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/323523.jpg
@@ -765,6 +772,13 @@ works:
     date: '2026-10-09'
     code: 602651
     url: /works/602651/
+  - title: Gal Mama SeFri - GAL MOTHER SEX FRIEND
+    author: nitake-yutamaro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/603141.jpg
+    rating: 0.0
+    date: '2026-10-11'
+    code: 603141
+    url: /works/603141/
   - title: 30cm Chou Tsuyotsuyo Futanari Chinpo o Semen ga Karerukurai Manzoku Saserareru
       kana?
     author: sabakan

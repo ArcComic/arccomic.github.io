@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "business suit"
-work_count: 93
+work_count: 94
 works:
   - title: MAGIC SEVEN
     author: asuhiro
@@ -594,6 +594,13 @@ works:
     date: '2026-08-19'
     code: 668867
     url: /works/668867/
+  - title: I WILL make a single mother my wife 1
+    author: onizuka-chris
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678905.jpg
+    rating: 0.0
+    date: '2026-10-11'
+    code: 678905
+    url: /works/678905/
   - title: I WILL make a single mother my wife 3
     author: onizuka-chris
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678907.jpg

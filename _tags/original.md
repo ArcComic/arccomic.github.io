@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "original"
-work_count: 1147
+work_count: 1149
 works:
   - title: Natsu dake Koibito - Summer only Lover [English] =Forbidden Fetish + Ser
       Maggot=
@@ -2653,6 +2653,13 @@ works:
     date: '2026-09-29'
     code: 602074
     url: /works/602074/
+  - title: Gal Mama SeFri - GAL MOTHER SEX FRIEND
+    author: nitake-yutamaro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/603141.jpg
+    rating: 0.0
+    date: '2026-10-11'
+    code: 603141
+    url: /works/603141/
   - title: Mechakucha Jiraippoi kedo Ne wa Yasashisouna Ko | Serious Land Mine Vibes
       but Deep Down She Seems Sweet
     author: 7zu7
@@ -6734,6 +6741,13 @@ works:
     date: '2026-09-07'
     code: 678802
     url: /works/678802/
+  - title: I WILL make a single mother my wife 1
+    author: onizuka-chris
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678905.jpg
+    rating: 0.0
+    date: '2026-10-11'
+    code: 678905
+    url: /works/678905/
   - title: I WILL make a single mother my wife 3
     author: onizuka-chris
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678907.jpg

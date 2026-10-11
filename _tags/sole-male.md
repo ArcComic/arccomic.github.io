@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole male"
-work_count: 943
+work_count: 946
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -358,6 +358,13 @@ works:
     date: '2026-09-13'
     code: 316579
     url: /works/316579/
+  - title: Makoto to Ofuro | Bathtime with Makoto
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/320439.jpg
+    rating: 0.0
+    date: '2026-10-11'
+    code: 320439
+    url: /works/320439/
   - title: Mukuchi na Tosho Iin to Sex Zuke.
     author: yuzuha
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/321298.jpg
@@ -2610,6 +2617,13 @@ works:
     date: '2026-04-23'
     code: 603122
     url: /works/603122/
+  - title: Gal Mama SeFri - GAL MOTHER SEX FRIEND
+    author: nitake-yutamaro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/603141.jpg
+    rating: 0.0
+    date: '2026-10-11'
+    code: 603141
+    url: /works/603141/
   - title: Metsuki no Warui Kidaruge na Kouhai ni Shiboritorareru | Squeezed Up By My
       Junior Girl Who Is Gloomy
     author: oburigakko
@@ -5696,6 +5710,13 @@ works:
     date: '2026-09-05'
     code: 678678
     url: /works/678678/
+  - title: I WILL make a single mother my wife 1
+    author: onizuka-chris
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678905.jpg
+    rating: 0.0
+    date: '2026-10-11'
+    code: 678905
+    url: /works/678905/
   - title: I WILL make a single mother my wife 3
     author: onizuka-chris
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678907.jpg

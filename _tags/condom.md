@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "condom"
-work_count: 225
+work_count: 226
 works:
   - title: Kaisha de Iroiro | Gettin' Busy at the Office
     author: hara-shigeyuki
@@ -701,6 +701,13 @@ works:
     date: '2026-10-09'
     code: 602651
     url: /works/602651/
+  - title: Gal Mama SeFri - GAL MOTHER SEX FRIEND
+    author: nitake-yutamaro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/603141.jpg
+    rating: 0.0
+    date: '2026-10-11'
+    code: 603141
+    url: /works/603141/
   - title: Mechakucha Jiraippoi kedo Ne wa Yasashisouna Ko | Serious Land Mine Vibes
       but Deep Down She Seems Sweet
     author: 7zu7

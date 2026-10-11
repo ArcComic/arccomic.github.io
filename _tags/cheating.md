@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "cheating"
-work_count: 376
+work_count: 377
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -1269,6 +1269,13 @@ works:
     date: '2026-09-29'
     code: 601711
     url: /works/601711/
+  - title: Gal Mama SeFri - GAL MOTHER SEX FRIEND
+    author: nitake-yutamaro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/603141.jpg
+    rating: 0.0
+    date: '2026-10-11'
+    code: 603141
+    url: /works/603141/
   - title: Bokushika Shiranai, Cool na Haha no Ura no Kao. | The Secret Face of My Cool
       Mother Only I Know.
     author: makoto-shiyaka
