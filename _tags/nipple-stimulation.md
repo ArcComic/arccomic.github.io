@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "nipple stimulation"
-work_count: 153
+work_count: 155
 works:
   - title: Hypnotic Domination ~ The Fall of Tennis Club Ace ~
     author: danchino
@@ -148,6 +148,14 @@ works:
     date: '2026-07-11'
     code: 538063
     url: /works/538063/
+  - title: Ecchi no Toki Dake, Chotto S. ~Fudan wa Otonashii Kareshi ni Hitasura Yasashiku
+      Semerareru~
+    author: akane
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/546049.jpg
+    rating: 0.0
+    date: '2026-10-11'
+    code: 546049
+    url: /works/546049/
   - title: Ero Cos OL to Jiraikei Joshi ~Iki Nuresaseru Moto Kare no Amai Koshi Zukai~
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/548852.jpg
@@ -882,6 +890,14 @@ works:
     date: '2026-09-05'
     code: 678354
     url: /works/678354/
+  - title: Hirotta Neko ga Gal de Gokudou no Musume datta Hanashi | The Story of the
+      Cat I Picked Up—Who Turned Out to Be a Gal and a Yakuza Boss's Daughter
+    author: nakamo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678677.jpg
+    rating: 0.0
+    date: '2026-10-11'
+    code: 678677
+    url: /works/678677/
   - title: Lazy First Lovemaking of the New Year
     author: takeshisu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679604.jpg

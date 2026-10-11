@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "blowjob"
-work_count: 671
+work_count: 672
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -738,6 +738,13 @@ works:
     date: '2026-05-04'
     code: 484860
     url: /works/484860/
+  - title: Yasashii Kimi ni Ijiwaru Saretai | Gentle You, Bully Me
+    author: kanashiro-no-hako
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/485876.jpg
+    rating: 4.4
+    date: '2026-10-11'
+    code: 485876
+    url: /works/485876/
   - title: Meguri Ai | Fateful Encounter  (COMIC Anthurium 2023-12) [English] =NSS=
     author: nagareboshi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/485905.jpg

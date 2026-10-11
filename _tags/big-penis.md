@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big penis"
-work_count: 247
+work_count: 249
 works:
   - title: Tsuma no Imouto no Danna ga Ie ni Kiteiruyoudesu | My Sister-In-Law's Husband
       is Over
@@ -169,6 +169,13 @@ works:
     date: '2026-09-27'
     code: 483537
     url: /works/483537/
+  - title: Yasashii Kimi ni Ijiwaru Saretai | Gentle You, Bully Me
+    author: kanashiro-no-hako
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/485876.jpg
+    rating: 4.4
+    date: '2026-10-11'
+    code: 485876
+    url: /works/485876/
   - title: Houyuu
     author: tsukumo-nikyu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/491042.jpg
@@ -1451,6 +1458,14 @@ works:
     date: '2026-10-09'
     code: 677170
     url: /works/677170/
+  - title: Hirotta Neko ga Gal de Gokudou no Musume datta Hanashi | The Story of the
+      Cat I Picked Up—Who Turned Out to Be a Gal and a Yakuza Boss's Daughter
+    author: nakamo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678677.jpg
+    rating: 0.0
+    date: '2026-10-11'
+    code: 678677
+    url: /works/678677/
   - title: Kuro Gal no Ongaeshi -Shachiku Oji ga Kasshoku Kyonyuu Gal o Nanpa kara Tasuketara
       Icha Love Junai Koubi shita Hanashi-
     author: galvalume-kouhan

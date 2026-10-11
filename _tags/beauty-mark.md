@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "beauty mark"
-work_count: 208
+work_count: 209
 works:
   - title: Uragiri no Ai wa Mitsu no Aji | Treacherous Love Tastes Like Honey
     author: cuzukago
@@ -266,6 +266,13 @@ works:
     date: '2026-10-05'
     code: 475840
     url: /works/475840/
+  - title: Yasashii Kimi ni Ijiwaru Saretai | Gentle You, Bully Me
+    author: kanashiro-no-hako
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/485876.jpg
+    rating: 4.4
+    date: '2026-10-11'
+    code: 485876
+    url: /works/485876/
   - title: Akogare datta, Sagara-san.
     author: tokyo-gunjo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/487275.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "mind control"
-work_count: 69
+work_count: 70
 works:
   - title: Ayami Hypno
     author: yasuhiro
@@ -60,6 +60,13 @@ works:
     date: '2026-09-09'
     code: 461537
     url: /works/461537/
+  - title: Yasashii Kimi ni Ijiwaru Saretai | Gentle You, Bully Me
+    author: kanashiro-no-hako
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/485876.jpg
+    rating: 4.4
+    date: '2026-10-11'
+    code: 485876
+    url: /works/485876/
   - title: Syuju - Kankei
     author: 810eru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/489004.jpg

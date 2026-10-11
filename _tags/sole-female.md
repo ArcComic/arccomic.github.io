@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole female"
-work_count: 1003
+work_count: 1006
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -1413,6 +1413,13 @@ works:
     date: '2026-05-04'
     code: 484860
     url: /works/484860/
+  - title: Yasashii Kimi ni Ijiwaru Saretai | Gentle You, Bully Me
+    author: kanashiro-no-hako
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/485876.jpg
+    rating: 4.4
+    date: '2026-10-11'
+    code: 485876
+    url: /works/485876/
   - title: Meguri Ai | Fateful Encounter  (COMIC Anthurium 2023-12) [English] =NSS=
     author: nagareboshi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/485905.jpg
@@ -2089,6 +2096,14 @@ works:
     date: '2026-09-11'
     code: 545896
     url: /works/545896/
+  - title: Ecchi no Toki Dake, Chotto S. ~Fudan wa Otonashii Kareshi ni Hitasura Yasashiku
+      Semerareru~
+    author: akane
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/546049.jpg
+    rating: 0.0
+    date: '2026-10-11'
+    code: 546049
+    url: /works/546049/
   - title: Atashi ga Nuite Ageyo kka?
     author: malcorond
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/547250.jpg
@@ -5936,6 +5951,14 @@ works:
     date: '2026-09-05'
     code: 678648
     url: /works/678648/
+  - title: Hirotta Neko ga Gal de Gokudou no Musume datta Hanashi | The Story of the
+      Cat I Picked Up—Who Turned Out to Be a Gal and a Yakuza Boss's Daughter
+    author: nakamo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678677.jpg
+    rating: 0.0
+    date: '2026-10-11'
+    code: 678677
+    url: /works/678677/
   - title: Kuro Gal JK de Shasei Shitai
     author: fujinoe13b
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678678.jpg

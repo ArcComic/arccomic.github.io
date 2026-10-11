@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "defloration"
-work_count: 234
+work_count: 235
 works:
   - title: Imitation Family + Bigibo Hen
     author: tohzai
@@ -1450,6 +1450,14 @@ works:
     date: '2026-09-05'
     code: 678354
     url: /works/678354/
+  - title: Hirotta Neko ga Gal de Gokudou no Musume datta Hanashi | The Story of the
+      Cat I Picked Up—Who Turned Out to Be a Gal and a Yakuza Boss's Daughter
+    author: nakamo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678677.jpg
+    rating: 0.0
+    date: '2026-10-11'
+    code: 678677
+    url: /works/678677/
   - title: The story of how the person I thought was a man on social media turned out
       to be a tall woman who was unfriendly but would let me do whatever I wanted to
       her

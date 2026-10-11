@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "nakadashi"
-work_count: 855
+work_count: 857
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -1575,6 +1575,14 @@ works:
     date: '2026-09-11'
     code: 545896
     url: /works/545896/
+  - title: Ecchi no Toki Dake, Chotto S. ~Fudan wa Otonashii Kareshi ni Hitasura Yasashiku
+      Semerareru~
+    author: akane
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/546049.jpg
+    rating: 0.0
+    date: '2026-10-11'
+    code: 546049
+    url: /works/546049/
   - title: Atashi ga Nuite Ageyo kka?
     author: malcorond
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/547250.jpg
@@ -5131,6 +5139,14 @@ works:
     date: '2026-09-18'
     code: 678408
     url: /works/678408/
+  - title: Hirotta Neko ga Gal de Gokudou no Musume datta Hanashi | The Story of the
+      Cat I Picked Up—Who Turned Out to Be a Gal and a Yakuza Boss's Daughter
+    author: nakamo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678677.jpg
+    rating: 0.0
+    date: '2026-10-11'
+    code: 678677
+    url: /works/678677/
   - title: Keganin no Boku Momiji-san no Inu ni Naru! | I, An Injured Person, Will Become
       Momiji-San's Dog!!
     author: darunekohanten

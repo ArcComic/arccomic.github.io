@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "x-ray"
-work_count: 334
+work_count: 336
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -324,6 +324,13 @@ works:
     date: '2026-09-07'
     code: 482560
     url: /works/482560/
+  - title: Yasashii Kimi ni Ijiwaru Saretai | Gentle You, Bully Me
+    author: kanashiro-no-hako
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/485876.jpg
+    rating: 4.4
+    date: '2026-10-11'
+    code: 485876
+    url: /works/485876/
   - title: Osananajimi wa Owari｜End of a Childhood Friendship
     author: henkuma
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/491312.jpg
@@ -473,6 +480,14 @@ works:
     date: '2026-10-02'
     code: 545591
     url: /works/545591/
+  - title: Ecchi no Toki Dake, Chotto S. ~Fudan wa Otonashii Kareshi ni Hitasura Yasashiku
+      Semerareru~
+    author: akane
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/546049.jpg
+    rating: 0.0
+    date: '2026-10-11'
+    code: 546049
+    url: /works/546049/
   - title: Choukyou Zumi Hitozuma OL wa Joushi ni Dakare Futatabi Ochiru
     author: toono-suika
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/550164.jpg

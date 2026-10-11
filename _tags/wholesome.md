@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "wholesome"
-work_count: 202
+work_count: 204
 works:
   - title: FLUFFY LAUGH GIRL
     author: shibasaki-syouzi
@@ -284,6 +284,13 @@ works:
     date: '2026-08-18'
     code: 482454
     url: /works/482454/
+  - title: Yasashii Kimi ni Ijiwaru Saretai | Gentle You, Bully Me
+    author: kanashiro-no-hako
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/485876.jpg
+    rating: 4.4
+    date: '2026-10-11'
+    code: 485876
+    url: /works/485876/
   - title: Houyuu
     author: tsukumo-nikyu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/491042.jpg
@@ -1333,6 +1340,14 @@ works:
     date: '2026-09-05'
     code: 678354
     url: /works/678354/
+  - title: Hirotta Neko ga Gal de Gokudou no Musume datta Hanashi | The Story of the
+      Cat I Picked Up—Who Turned Out to Be a Gal and a Yakuza Boss's Daughter
+    author: nakamo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678677.jpg
+    rating: 0.0
+    date: '2026-10-11'
+    code: 678677
+    url: /works/678677/
   - title: Majime na Doukyuusei ga Love Love Namahame Sex o suru made | The Story of
       How I, a Straight Laced Student, Ended up with a Classmate, Then Having Passionate
       Raw Sex

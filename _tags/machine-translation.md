@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "machine translation"
-work_count: 34
+work_count: 35
 works:
   - title: My part-time coworker ran away from home and came to work here, but she was
       too sexy...
@@ -246,6 +246,14 @@ works:
     date: '2026-09-04'
     code: 677732
     url: /works/677732/
+  - title: Hirotta Neko ga Gal de Gokudou no Musume datta Hanashi | The Story of the
+      Cat I Picked Up—Who Turned Out to Be a Gal and a Yakuza Boss's Daughter
+    author: nakamo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678677.jpg
+    rating: 0.0
+    date: '2026-10-11'
+    code: 678677
+    url: /works/678677/
   - title: Buaisou na Kakure Kyonyuu Boyish Kanojo to Taikutsu na Date 2 | A Boring
       Date with My Boyish Girlfriend (Who Has a Secretly Busty Figure and a Surly Attitude)
       – Part 2

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "squirting"
-work_count: 142
+work_count: 143
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -161,6 +161,14 @@ works:
     date: '2026-09-04'
     code: 544274
     url: /works/544274/
+  - title: Ecchi no Toki Dake, Chotto S. ~Fudan wa Otonashii Kareshi ni Hitasura Yasashiku
+      Semerareru~
+    author: akane
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/546049.jpg
+    rating: 0.0
+    date: '2026-10-11'
+    code: 546049
+    url: /works/546049/
   - title: Wagaya no Housemaid Bridget Sei no Gohoushi ~Danro Souji kara Kozukuri made~
       /  My Housemaid Bridget's Sexual Service ~ Everything From Fireplace Cleaning,
       To Babymaking

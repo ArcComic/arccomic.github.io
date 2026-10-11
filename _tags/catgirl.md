@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "catgirl"
-work_count: 11
+work_count: 12
 works:
   - title: I'll be your cat
     author: napata
@@ -62,6 +62,14 @@ works:
     date: '2026-08-22'
     code: 674950
     url: /works/674950/
+  - title: Hirotta Neko ga Gal de Gokudou no Musume datta Hanashi | The Story of the
+      Cat I Picked Up—Who Turned Out to Be a Gal and a Yakuza Boss's Daughter
+    author: nakamo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678677.jpg
+    rating: 0.0
+    date: '2026-10-11'
+    code: 678677
+    url: /works/678677/
   - title: Katei Kyoushi no Hitsuyou na | What a Private Tutor Needs
     author: aya-shachou-ayashi-yachiyo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679215.jpg
