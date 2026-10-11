@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "eye-covering bang"
-work_count: 70
+work_count: 71
 works:
   - title: Kanojo no Amai Jiraishuu
     author: jirou
@@ -122,6 +122,14 @@ works:
     date: '2026-09-08'
     code: 589229
     url: /works/589229/
+  - title: Onna Gal Joushi to Furin suru Hanashi 3 | Having an Affair with My Blonde
+      Bombshell Boss – Part 3
+    author: nakamo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/599165.jpg
+    rating: 0.0
+    date: '2026-10-11'
+    code: 599165
+    url: /works/599165/
   - title: Kirishima's Mother
     author: kojima-miu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/601711.jpg

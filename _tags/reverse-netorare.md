@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "reverse netorare"
-work_count: 20
+work_count: 21
 works:
   - title: Hajimete Kanojo Ga Dekita No Ni
     author: unknown
@@ -92,6 +92,14 @@ works:
     date: '2026-09-13'
     code: 583637
     url: /works/583637/
+  - title: Onna Gal Joushi to Furin suru Hanashi 3 | Having an Affair with My Blonde
+      Bombshell Boss – Part 3
+    author: nakamo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/599165.jpg
+    rating: 0.0
+    date: '2026-10-11'
+    code: 599165
+    url: /works/599165/
   - title: Kano Mama no Ana | The Mom Hole
     author: shimofuri
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/646022.jpg

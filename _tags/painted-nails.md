@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "painted nails"
-work_count: 41
+work_count: 42
 works:
   - title: Rakki Taishyaku
     author: fushoku
@@ -96,6 +96,14 @@ works:
     date: '2026-04-15'
     code: 589010
     url: /works/589010/
+  - title: Onna Gal Joushi to Furin suru Hanashi 3 | Having an Affair with My Blonde
+      Bombshell Boss – Part 3
+    author: nakamo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/599165.jpg
+    rating: 0.0
+    date: '2026-10-11'
+    code: 599165
+    url: /works/599165/
   - title: Hitoban Tomete yo, Otaku-kun | Let Me Stay For the Night, Otaku-kun
     author: danimaru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/606166.jpg

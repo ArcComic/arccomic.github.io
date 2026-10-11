@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "gyaru"
-work_count: 123
+work_count: 124
 works:
   - title: GalPa!
     author: sakagami-umi
@@ -185,6 +185,14 @@ works:
     date: '2026-04-19'
     code: 580427
     url: /works/580427/
+  - title: Onna Gal Joushi to Furin suru Hanashi 3 | Having an Affair with My Blonde
+      Bombshell Boss – Part 3
+    author: nakamo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/599165.jpg
+    rating: 0.0
+    date: '2026-10-11'
+    code: 599165
+    url: /works/599165/
   - title: Hitoban Tomete yo, Otaku-kun | Let Me Stay For the Night, Otaku-kun
     author: danimaru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/606166.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "kissing"
-work_count: 376
+work_count: 377
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -885,6 +885,14 @@ works:
     date: '2026-09-24'
     code: 598084
     url: /works/598084/
+  - title: Onna Gal Joushi to Furin suru Hanashi 3 | Having an Affair with My Blonde
+      Bombshell Boss – Part 3
+    author: nakamo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/599165.jpg
+    rating: 0.0
+    date: '2026-10-11'
+    code: 599165
+    url: /works/599165/
   - title: Shounen yo, Watashi o Idake. 少年,抱住我
     author: torii-yoshitsuna
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/599514.jpg

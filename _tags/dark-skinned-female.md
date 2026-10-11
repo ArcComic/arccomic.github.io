@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "dark skinned female"
-work_count: 39
+work_count: 40
 works:
   - title: Hyouri no Omoi | Double-Sided Love
     author: suruga-kuroitsu
@@ -77,6 +77,14 @@ works:
     date: '2026-09-04'
     code: 586417
     url: /works/586417/
+  - title: Onna Gal Joushi to Furin suru Hanashi 3 | Having an Affair with My Blonde
+      Bombshell Boss – Part 3
+    author: nakamo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/599165.jpg
+    rating: 0.0
+    date: '2026-10-11'
+    code: 599165
+    url: /works/599165/
   - title: Makezu Girai na Osananajimi to H Shoubu suru Hanashi | A story where a Childhood
       Friend that hates Losing has a Sex Battle!
     author: molta

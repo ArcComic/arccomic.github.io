@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "nakadashi"
-work_count: 852
+work_count: 854
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -2172,6 +2172,14 @@ works:
     date: '2026-03-09'
     code: 598144
     url: /works/598144/
+  - title: Onna Gal Joushi to Furin suru Hanashi 3 | Having an Affair with My Blonde
+      Bombshell Boss – Part 3
+    author: nakamo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/599165.jpg
+    rating: 0.0
+    date: '2026-10-11'
+    code: 599165
+    url: /works/599165/
   - title: Nagoriyuki | Fleeting Snow
     author: yd
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/599778.jpg
@@ -3934,6 +3942,13 @@ works:
     date: '2026-09-26'
     code: 653287
     url: /works/653287/
+  - title: History of Sex
+    author: hori-hiroaki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/653432.jpg
+    rating: 0.0
+    date: '2026-10-11'
+    code: 653432
+    url: /works/653432/
   - title: Kimi Omou Koi - I think of you.
     author: gentsuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/653792.jpg

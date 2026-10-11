@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole female"
-work_count: 1001
+work_count: 1002
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -4571,6 +4571,13 @@ works:
     date: '2026-09-26'
     code: 653287
     url: /works/653287/
+  - title: History of Sex
+    author: hori-hiroaki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/653432.jpg
+    rating: 0.0
+    date: '2026-10-11'
+    code: 653432
+    url: /works/653432/
   - title: Majime na Kimi ni Hamaru Karada
     author: alp
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654010.jpg
