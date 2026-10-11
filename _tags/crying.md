@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "crying"
-work_count: 33
+work_count: 34
 works:
   - title: Netorareru.~ Tsuma ga Ochi Yuku Hen'ai Kairaku no Hate ni...1-5 | NETORARERU,
       A Wife's Descent Into Sinful Pleasures 1-5
@@ -18,6 +18,13 @@ works:
     date: '2026-09-27'
     code: 549608
     url: /works/549608/
+  - title: Rental Idream
+    author: memeyu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/577149.jpg
+    rating: 0.0
+    date: '2026-10-11'
+    code: 577149
+    url: /works/577149/
   - title: Anata Senyou no Niku Onaho desu | Your very own meat onahole
     author: noe
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/581946.jpg

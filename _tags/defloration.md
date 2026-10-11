@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "defloration"
-work_count: 233
+work_count: 234
 works:
   - title: Imitation Family + Bigibo Hen
     author: tohzai
@@ -530,6 +530,13 @@ works:
     date: '2026-09-24'
     code: 576680
     url: /works/576680/
+  - title: Rental Idream
+    author: memeyu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/577149.jpg
+    rating: 0.0
+    date: '2026-10-11'
+    code: 577149
+    url: /works/577149/
   - title: Namima no Pōtorēto | Portrait of a Wave
     author: torii-yoshitsuna
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/580379.jpg

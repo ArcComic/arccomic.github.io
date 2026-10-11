@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "hidden sex"
-work_count: 92
+work_count: 93
 works:
   - title: Tsutomesaki no Musume-san o Oishiku Itadaku Hon Minshuku Hen
     author: aya
@@ -442,6 +442,13 @@ works:
     date: '2026-05-10'
     code: 649039
     url: /works/649039/
+  - title: Aru Toshokan Shisho no Kanri Kiroku
+    author: liya
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/649357.jpg
+    rating: 4.9
+    date: '2026-10-11'
+    code: 649357
+    url: /works/649357/
   - title: Musume no Kawari ni | Instead of My Daughter
     author: nanao-yukiji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651309.jpg

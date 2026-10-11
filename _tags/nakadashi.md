@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "nakadashi"
-work_count: 849
+work_count: 851
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -1839,6 +1839,13 @@ works:
     date: '2026-09-24'
     code: 576680
     url: /works/576680/
+  - title: Rental Idream
+    author: memeyu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/577149.jpg
+    rating: 0.0
+    date: '2026-10-11'
+    code: 577149
+    url: /works/577149/
   - title: 'Kaa-san wa Kanbanmusume Nikuyoku ni Kogareta Boshi no Niya | My Mother -
       The Poster Girl: Two Nights of Forbidden Passion between Mother and Son'
     author: murabito-c
@@ -3714,6 +3721,13 @@ works:
     date: '2026-05-10'
     code: 649114
     url: /works/649114/
+  - title: Aru Toshokan Shisho no Kanri Kiroku
+    author: liya
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/649357.jpg
+    rating: 4.9
+    date: '2026-10-11'
+    code: 649357
+    url: /works/649357/
   - title: Tomodachi no Mama ga Boku no Dekachin de Ikimakutta Omoide
     author: rk-2
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/650138.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole male"
-work_count: 930
+work_count: 932
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -2144,6 +2144,13 @@ works:
     date: '2026-04-27'
     code: 576910
     url: /works/576910/
+  - title: Rental Idream
+    author: memeyu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/577149.jpg
+    rating: 0.0
+    date: '2026-10-11'
+    code: 577149
+    url: /works/577149/
   - title: Boku no Mama to Takuhai no Onii-san ga.
     author: yuriko-club
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/577221.jpg
@@ -4079,6 +4086,13 @@ works:
     date: '2026-05-10'
     code: 649107
     url: /works/649107/
+  - title: Aru Toshokan Shisho no Kanri Kiroku
+    author: liya
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/649357.jpg
+    rating: 4.9
+    date: '2026-10-11'
+    code: 649357
+    url: /works/649357/
   - title: Tomodachi no Mama ga Boku no Dekachin de Ikimakutta Omoide
     author: rk-2
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/650138.jpg

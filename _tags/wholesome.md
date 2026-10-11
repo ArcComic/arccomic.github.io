@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "wholesome"
-work_count: 198
+work_count: 199
 works:
   - title: FLUFFY LAUGH GIRL
     author: shibasaki-syouzi
@@ -946,6 +946,13 @@ works:
     date: '2026-05-10'
     code: 649039
     url: /works/649039/
+  - title: Aru Toshokan Shisho no Kanri Kiroku
+    author: liya
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/649357.jpg
+    rating: 4.9
+    date: '2026-10-11'
+    code: 649357
+    url: /works/649357/
   - title: Ally-san wa Doko Demo Ikitai!! 3
     author: inukami-inoji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/650926.jpg

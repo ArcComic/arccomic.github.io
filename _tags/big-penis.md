@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big penis"
-work_count: 246
+work_count: 247
 works:
   - title: Tsuma no Imouto no Danna ga Ie ni Kiteiruyoudesu | My Sister-In-Law's Husband
       is Over
@@ -951,6 +951,13 @@ works:
     date: '2026-05-10'
     code: 649114
     url: /works/649114/
+  - title: Aru Toshokan Shisho no Kanri Kiroku
+    author: liya
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/649357.jpg
+    rating: 4.9
+    date: '2026-10-11'
+    code: 649357
+    url: /works/649357/
   - title: Sukebe Gal no Cosplayer to Offpako Shiteru Hanashi
     author: inu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/650302.jpg

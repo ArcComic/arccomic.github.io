@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sweating"
-work_count: 180
+work_count: 181
 works:
   - title: Kaisha de Iroiro | Gettin' Busy at the Office
     author: hara-shigeyuki
@@ -438,6 +438,13 @@ works:
     date: '2026-09-24'
     code: 574409
     url: /works/574409/
+  - title: Rental Idream
+    author: memeyu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/577149.jpg
+    rating: 0.0
+    date: '2026-10-11'
+    code: 577149
+    url: /works/577149/
   - title: Her Predicaments
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/586417.jpg
