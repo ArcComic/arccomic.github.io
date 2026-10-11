@@ -1,7 +1,7 @@
 ---
 layout: artist
 artist_name: "tsurui"
-work_count: 16
+work_count: 17
 works:
   - title: Ami Mami Mind 5
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/262169.jpg
@@ -51,6 +51,12 @@ works:
     date: '2026-10-09'
     code: 361286
     url: /works/361286/
+  - title: Leon to Onsen
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/364923.jpg
+    rating: 0.0
+    date: '2026-10-11'
+    code: 364923
+    url: /works/364923/
   - title: Dochira o Onozomi desu ka? ~Shitsuji Hen~ | Which Do You Desire? ~Butler
       Edition~
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/406008.jpg

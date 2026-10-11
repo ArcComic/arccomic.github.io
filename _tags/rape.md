@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "rape"
-work_count: 247
+work_count: 248
 works:
   - title: Office Love Scramble Ch. 1
     author: tohzai
@@ -352,6 +352,15 @@ works:
     date: '2026-09-26'
     code: 491312
     url: /works/491312/
+  - title: Namaiki TS Yankee ga Zetsurin Taiiku Kyoushi no Onaho ni natte Akume Shiofuki
+      Mesu Ochi Ninshin! [TS Delinquent becomes a gym teacher's onahole and Cums ❤ Squirts
+      ❤ Falls as a Female ❤ Gets Pregnant ❤
+    author: emilio
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/492104.jpg
+    rating: 0.0
+    date: '2026-10-11'
+    code: 492104
+    url: /works/492104/
   - title: 1 Once iku goto ni penalty 1 manen oshioki papakatsu jyoshi
     author: crimson
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/503556.jpg

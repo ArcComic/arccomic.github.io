@@ -1,8 +1,17 @@
 ---
 layout: tag
 tag_name: "school gym uniform"
-work_count: 5
+work_count: 6
 works:
+  - title: Namaiki TS Yankee ga Zetsurin Taiiku Kyoushi no Onaho ni natte Akume Shiofuki
+      Mesu Ochi Ninshin! [TS Delinquent becomes a gym teacher's onahole and Cums ❤ Squirts
+      ❤ Falls as a Female ❤ Gets Pregnant ❤
+    author: emilio
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/492104.jpg
+    rating: 0.0
+    date: '2026-10-11'
+    code: 492104
+    url: /works/492104/
   - title: Kounai de Ichiban Kawaikute Ichiban Oppai ga Dekakute Ichiban Okazu ni Sareteru
       Ichiban Sukebe na Etou-san - Eto-san is the cutest, has the biggest tits, is the
       most masturbatory target, and is the most naughty in the school. | 在校內最可愛、胸部最大、最常被當做性幻想對象、最淫蕩的江藤同學

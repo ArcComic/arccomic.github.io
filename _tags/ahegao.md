@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "ahegao"
-work_count: 322
+work_count: 323
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -2391,6 +2391,13 @@ works:
     date: '2026-10-09'
     code: 686334
     url: /works/686334/
+  - title: Watashi ni Dashinasai. | Cum for Me.
+    author: iku
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686369.jpg
+    rating: 0.0
+    date: '2026-10-11'
+    code: 686369
+    url: /works/686369/
   - title: Senaka Tanhenshuu [Ue]｜Senaka Short Story Collection
     author: senaka
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686438.jpg

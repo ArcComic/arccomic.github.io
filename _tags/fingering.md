@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "fingering"
-work_count: 180
+work_count: 181
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -149,6 +149,15 @@ works:
     date: '2026-09-29'
     code: 491042
     url: /works/491042/
+  - title: Namaiki TS Yankee ga Zetsurin Taiiku Kyoushi no Onaho ni natte Akume Shiofuki
+      Mesu Ochi Ninshin! [TS Delinquent becomes a gym teacher's onahole and Cums ❤ Squirts
+      ❤ Falls as a Female ❤ Gets Pregnant ❤
+    author: emilio
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/492104.jpg
+    rating: 0.0
+    date: '2026-10-11'
+    code: 492104
+    url: /works/492104/
   - title: Bocchi de Shinda Ore ga Bishoujo Nurse ni Natta Hanashi | The Story of How
       I Died Alone and Became a Sexy Nurse
     author: testame

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "gokkun"
-work_count: 44
+work_count: 45
 works:
   - title: Shika wa Tottemo Sekkyokuteki desu!
     author: tsurui
@@ -327,6 +327,13 @@ works:
     date: '2026-10-09'
     code: 686249
     url: /works/686249/
+  - title: Watashi ni Dashinasai. | Cum for Me.
+    author: iku
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686369.jpg
+    rating: 0.0
+    date: '2026-10-11'
+    code: 686369
+    url: /works/686369/
   - title: Mothers are Women Too 5!
     author: siberian-hahasky
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686446.jpg

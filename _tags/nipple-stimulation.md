@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "nipple stimulation"
-work_count: 151
+work_count: 152
 works:
   - title: Hypnotic Domination ~ The Fall of Tennis Club Ace ~
     author: danchino
@@ -1133,6 +1133,13 @@ works:
     date: '2026-10-09'
     code: 686249
     url: /works/686249/
+  - title: Watashi ni Dashinasai. | Cum for Me.
+    author: iku
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686369.jpg
+    rating: 0.0
+    date: '2026-10-11'
+    code: 686369
+    url: /works/686369/
   - title: Kakutouka na Otokonoko!
     author: yuruyakatou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686448.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole female"
-work_count: 993
+work_count: 995
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -587,6 +587,13 @@ works:
     date: '2026-09-13'
     code: 364828
     url: /works/364828/
+  - title: Leon to Onsen
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/364923.jpg
+    rating: 0.0
+    date: '2026-10-11'
+    code: 364923
+    url: /works/364923/
   - title: Mainichi Okaa-san de Seiyoku Shori! Onaho Gawari no Hahaoya ni Tairyou Nakadashi
       Hen | Mom Gets Me Off Every Day! Filling Mom With Cum
     author: natsume-benkei
@@ -7320,6 +7327,13 @@ works:
     date: '2026-10-09'
     code: 686320
     url: /works/686320/
+  - title: Watashi ni Dashinasai. | Cum for Me.
+    author: iku
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686369.jpg
+    rating: 0.0
+    date: '2026-10-11'
+    code: 686369
+    url: /works/686369/
   - title: Mothers are Women Too 5!
     author: siberian-hahasky
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686446.jpg

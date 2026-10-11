@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "original"
-work_count: 1128
+work_count: 1129
 works:
   - title: Natsu dake Koibito - Summer only Lover [English] =Forbidden Fetish + Ser
       Maggot=
@@ -8342,6 +8342,13 @@ works:
     date: '2026-10-09'
     code: 686320
     url: /works/686320/
+  - title: Watashi ni Dashinasai. | Cum for Me.
+    author: iku
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686369.jpg
+    rating: 0.0
+    date: '2026-10-11'
+    code: 686369
+    url: /works/686369/
   - title: Sacrifice to the Lioness — The Former Head Who Became Prey to the Futanari
       Ladies
     author: group
