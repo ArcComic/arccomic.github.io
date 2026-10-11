@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "mother"
-work_count: 180
+work_count: 181
 works:
   - title: Imitation Family + Bigibo Hen
     author: tohzai
@@ -1075,6 +1075,13 @@ works:
     date: '2026-08-23'
     code: 668880
     url: /works/668880/
+  - title: Mothers are Women Too! 6
+    author: siberian-hahasky
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/669744.jpg
+    rating: 0.0
+    date: '2026-10-11'
+    code: 669744
+    url: /works/669744/
   - title: Unsweet Kazumi Wakui + (Plus) SIDE Kazumi
     author: tanaka-aji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/671907.jpg

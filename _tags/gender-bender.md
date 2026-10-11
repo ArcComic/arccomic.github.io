@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "gender bender"
-work_count: 49
+work_count: 50
 works:
   - title: Seigi no Mikata o Otosu Houhou | How To Subvert an Ally of Justice
     author: fuka
@@ -362,4 +362,12 @@ works:
     date: '2026-10-03'
     code: 685809
     url: /works/685809/
+  - title: Joshikousei ni Natta Mama Tanoshimu Gakuen Seikatsu Ep.1 Maiden-Senpai |
+      Enjoying the Life After Turning into a Schoolgirl Ep.1 Maiden-Senpai
+    author: meganeko
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686525.jpg
+    rating: 0.0
+    date: '2026-10-11'
+    code: 686525
+    url: /works/686525/
 ---

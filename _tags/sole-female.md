@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole female"
-work_count: 998
+work_count: 999
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -5403,6 +5403,13 @@ works:
     date: '2026-08-31'
     code: 669505
     url: /works/669505/
+  - title: Mothers are Women Too! 6
+    author: siberian-hahasky
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/669744.jpg
+    rating: 0.0
+    date: '2026-10-11'
+    code: 669744
+    url: /works/669744/
   - title: Wari no Ii Beit Nante Sonzai Shinai | This job was too good to be true
     author: hikitogu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/670195.jpg

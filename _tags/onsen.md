@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "onsen"
-work_count: 16
+work_count: 17
 works:
   - title: Boku dake ni Amaesasete Kureru Kyonyuu JK Tsuma o Hoka no Otoko ni Dakasete
       Mita 11
@@ -85,6 +85,13 @@ works:
     date: '2026-07-17'
     code: 664937
     url: /works/664937/
+  - title: Mothers are Women Too! 6
+    author: siberian-hahasky
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/669744.jpg
+    rating: 0.0
+    date: '2026-10-11'
+    code: 669744
+    url: /works/669744/
   - title: Motoyan Hitozuma Taiiku Kyoushi, Onsen Ryokan nite Kyouei Mizugi de Ochiru
       | Former delinquent housewife PE teacher, falls in a hot spring inn while wearing
       a competitive swimsuit

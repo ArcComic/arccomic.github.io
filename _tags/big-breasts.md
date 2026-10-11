@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big breasts"
-work_count: 1144
+work_count: 1146
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -6065,6 +6065,13 @@ works:
     date: '2026-08-31'
     code: 669505
     url: /works/669505/
+  - title: Mothers are Women Too! 6
+    author: siberian-hahasky
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/669744.jpg
+    rating: 0.0
+    date: '2026-10-11'
+    code: 669744
+    url: /works/669744/
   - title: Wari no Ii Beit Nante Sonzai Shinai | This job was too good to be true
     author: hikitogu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/670195.jpg
@@ -8437,6 +8444,14 @@ works:
     date: '2026-10-10'
     code: 686496
     url: /works/686496/
+  - title: Joshikousei ni Natta Mama Tanoshimu Gakuen Seikatsu Ep.1 Maiden-Senpai |
+      Enjoying the Life After Turning into a Schoolgirl Ep.1 Maiden-Senpai
+    author: meganeko
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686525.jpg
+    rating: 0.0
+    date: '2026-10-11'
+    code: 686525
+    url: /works/686525/
   - title: AV Kazoku | AV Family
     author: piero
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686531.jpg

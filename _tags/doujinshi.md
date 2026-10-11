@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "doujinshi"
-work_count: 1398
+work_count: 1400
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -7263,6 +7263,13 @@ works:
     date: '2026-08-31'
     code: 669505
     url: /works/669505/
+  - title: Mothers are Women Too! 6
+    author: siberian-hahasky
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/669744.jpg
+    rating: 0.0
+    date: '2026-10-11'
+    code: 669744
+    url: /works/669744/
   - title: Uchi, Chinko Tsuiterunsu kedo Iissu ka? | I have a dick, is that okay?
     author: yuuki-konefu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/669748.jpg
@@ -10310,6 +10317,14 @@ works:
     date: '2026-10-10'
     code: 686511
     url: /works/686511/
+  - title: Joshikousei ni Natta Mama Tanoshimu Gakuen Seikatsu Ep.1 Maiden-Senpai |
+      Enjoying the Life After Turning into a Schoolgirl Ep.1 Maiden-Senpai
+    author: meganeko
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686525.jpg
+    rating: 0.0
+    date: '2026-10-11'
+    code: 686525
+    url: /works/686525/
   - title: Half Gimai to no Amai Nichijou to Noumitsu Sex 4
     author: sanbalkin
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686534.jpg
