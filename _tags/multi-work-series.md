@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "multi-work series"
-work_count: 389
+work_count: 390
 works:
   - title: Konna ni mo Itooshii Zero
     author: nohito
@@ -2126,6 +2126,14 @@ works:
     date: '2026-09-23'
     code: 671907
     url: /works/671907/
+  - title: Shuugakuryokou Mae ni Joshikousei ni Natta Hanashi | How We Became Girls
+      Before Our School Trip Ch. 1
+    author: meganeko
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/671945.jpg
+    rating: 0.0
+    date: '2026-10-11'
+    code: 671945
+    url: /works/671945/
   - title: Boku wa Tsuma ga Netorare Nando mo Ikasareru Sugata o Mitsuzuketa. 2 | I
       Kept Watching While A Man Made My Wife Cum Over And Over 2
     author: sanku

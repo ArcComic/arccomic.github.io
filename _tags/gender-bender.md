@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "gender bender"
-work_count: 48
+work_count: 49
 works:
   - title: Seigi no Mikata o Otosu Houhou | How To Subvert an Ally of Justice
     author: fuka
@@ -184,6 +184,14 @@ works:
     date: '2026-07-15'
     code: 664193
     url: /works/664193/
+  - title: Shuugakuryokou Mae ni Joshikousei ni Natta Hanashi | How We Became Girls
+      Before Our School Trip Ch. 1
+    author: meganeko
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/671945.jpg
+    rating: 0.0
+    date: '2026-10-11'
+    code: 671945
+    url: /works/671945/
   - title: Inokori seibutsu-shitsu | Detention in the Biology Lab
     author: hiiragi-popura
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/674463.jpg

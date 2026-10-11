@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "exhibitionism"
-work_count: 82
+work_count: 83
 works:
   - title: Watashi-tachi no Seikoui Tokubetsu Jisshuu -Zengi Hen-
     author: guglielmo
@@ -483,6 +483,14 @@ works:
     date: '2026-09-30'
     code: 66420
     url: /works/66420/
+  - title: Shuugakuryokou Mae ni Joshikousei ni Natta Hanashi | How We Became Girls
+      Before Our School Trip Ch. 1
+    author: meganeko
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/671945.jpg
+    rating: 0.0
+    date: '2026-10-11'
+    code: 671945
+    url: /works/671945/
   - title: Junai Kanjou
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/676189.jpg

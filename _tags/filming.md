@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "filming"
-work_count: 107
+work_count: 108
 works:
   - title: Ikanishite Haha wa Onna o Kaihou Shitaka Ch. 1-14
     author: mitarai-yuuki
@@ -627,6 +627,14 @@ works:
     date: '2026-09-30'
     code: 671419
     url: /works/671419/
+  - title: Shuugakuryokou Mae ni Joshikousei ni Natta Hanashi | How We Became Girls
+      Before Our School Trip Ch. 1
+    author: meganeko
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/671945.jpg
+    rating: 0.0
+    date: '2026-10-11'
+    code: 671945
+    url: /works/671945/
   - title: Hitoe-san no warui kuse | Hitoe's Bad Habit
     author: jirou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/674702.jpg

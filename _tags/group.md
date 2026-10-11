@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "group"
-work_count: 255
+work_count: 256
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -1180,6 +1180,14 @@ works:
     date: '2026-09-23'
     code: 671907
     url: /works/671907/
+  - title: Shuugakuryokou Mae ni Joshikousei ni Natta Hanashi | How We Became Girls
+      Before Our School Trip Ch. 1
+    author: meganeko
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/671945.jpg
+    rating: 0.0
+    date: '2026-10-11'
+    code: 671945
+    url: /works/671945/
   - title: Itoko to Oba to Kinshin Haramase Vacance ~Haitoku no Oyako Double Ninshin~
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673215.jpg
