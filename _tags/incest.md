@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "incest"
-work_count: 310
+work_count: 312
 works:
   - title: Imitation Family + Bigibo Hen
     author: tohzai
@@ -476,6 +476,13 @@ works:
     date: '2026-08-29'
     code: 534388
     url: /works/534388/
+  - title: Eight Days With My Wife's Mother | Youka-go Tsuma no Haha o Daku
+    author: jagaimo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/534537.jpg
+    rating: 0.0
+    date: '2026-10-11'
+    code: 534537
+    url: /works/534537/
   - title: Youka-go Tsuma no Haha o Daku | Eight Days With My Wife's Mother
     author: jagaimo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/534808.jpg
@@ -2264,6 +2271,13 @@ works:
     date: '2026-10-10'
     code: 686531
     url: /works/686531/
+  - title: Half Gimai to no Amai Nichijou to Noumitsu Sex 4
+    author: sanbalkin
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686534.jpg
+    rating: 0.0
+    date: '2026-10-11'
+    code: 686534
+    url: /works/686534/
   - title: Onee-chan no SM Kouza | Onee-chan's S&M Lecture
     author: shinooka-homare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/88750.jpg

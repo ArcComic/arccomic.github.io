@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "pixie cut"
-work_count: 104
+work_count: 105
 works:
   - title: Akarui Kazoku Seikatsu
     author: pistonring-nishizawa
@@ -147,6 +147,13 @@ works:
     date: '2026-09-22'
     code: 530567
     url: /works/530567/
+  - title: Eight Days With My Wife's Mother | Youka-go Tsuma no Haha o Daku
+    author: jagaimo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/534537.jpg
+    rating: 0.0
+    date: '2026-10-11'
+    code: 534537
+    url: /works/534537/
   - title: Youka-go Tsuma no Haha o Daku | Eight Days With My Wife's Mother
     author: jagaimo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/534808.jpg

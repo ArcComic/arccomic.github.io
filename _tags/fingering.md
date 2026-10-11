@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "fingering"
-work_count: 181
+work_count: 182
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -1352,4 +1352,11 @@ works:
     date: '2026-10-10'
     code: 686511
     url: /works/686511/
+  - title: Half Gimai to no Amai Nichijou to Noumitsu Sex 4
+    author: sanbalkin
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686534.jpg
+    rating: 0.0
+    date: '2026-10-11'
+    code: 686534
+    url: /works/686534/
 ---

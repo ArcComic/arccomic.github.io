@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sister"
-work_count: 107
+work_count: 108
 works:
   - title: Imitation Family + Bigibo Hen
     author: tohzai
@@ -781,6 +781,13 @@ works:
     date: '2026-10-10'
     code: 686531
     url: /works/686531/
+  - title: Half Gimai to no Amai Nichijou to Noumitsu Sex 4
+    author: sanbalkin
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686534.jpg
+    rating: 0.0
+    date: '2026-10-11'
+    code: 686534
+    url: /works/686534/
   - title: Onee-chan no SM Kouza | Onee-chan's S&M Lecture
     author: shinooka-homare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/88750.jpg

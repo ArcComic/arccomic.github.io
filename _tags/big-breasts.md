@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big breasts"
-work_count: 1140
+work_count: 1141
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -8422,6 +8422,13 @@ works:
     date: '2026-10-10'
     code: 686531
     url: /works/686531/
+  - title: Half Gimai to no Amai Nichijou to Noumitsu Sex 4
+    author: sanbalkin
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686534.jpg
+    rating: 0.0
+    date: '2026-10-11'
+    code: 686534
+    url: /works/686534/
   - title: Osakabehime Won't Lose | Osakabehime wa Otosenai
     author: umihotaru-harumare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686538.jpg

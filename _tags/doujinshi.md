@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "doujinshi"
-work_count: 1394
+work_count: 1396
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -2084,6 +2084,13 @@ works:
     date: '2026-02-26'
     code: 533325
     url: /works/533325/
+  - title: Eight Days With My Wife's Mother | Youka-go Tsuma no Haha o Daku
+    author: jagaimo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/534537.jpg
+    rating: 0.0
+    date: '2026-10-11'
+    code: 534537
+    url: /works/534537/
   - title: Jimi Kyonyuu No Stalker Onna Ni Gokuhaku Saretanode Yarimakutte Mita Hanashi
       | I Was Confessed To By A Plain Busty Stalker Girl, So I Fucked Her Like Crazy
     author: hiyori-hamster
@@ -10288,6 +10295,13 @@ works:
     date: '2026-10-10'
     code: 686511
     url: /works/686511/
+  - title: Half Gimai to no Amai Nichijou to Noumitsu Sex 4
+    author: sanbalkin
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686534.jpg
+    rating: 0.0
+    date: '2026-10-11'
+    code: 686534
+    url: /works/686534/
   - title: Osakabehime Won't Lose | Osakabehime wa Otosenai
     author: umihotaru-harumare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686538.jpg

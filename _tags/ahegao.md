@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "ahegao"
-work_count: 323
+work_count: 325
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -405,6 +405,13 @@ works:
     date: '2026-04-19'
     code: 531313
     url: /works/531313/
+  - title: Eight Days With My Wife's Mother | Youka-go Tsuma no Haha o Daku
+    author: jagaimo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/534537.jpg
+    rating: 0.0
+    date: '2026-10-11'
+    code: 534537
+    url: /works/534537/
   - title: Youka-go Tsuma no Haha o Daku | Eight Days With My Wife's Mother
     author: jagaimo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/534808.jpg
@@ -2419,6 +2426,13 @@ works:
     date: '2026-10-10'
     code: 686448
     url: /works/686448/
+  - title: Half Gimai to no Amai Nichijou to Noumitsu Sex 4
+    author: sanbalkin
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686534.jpg
+    rating: 0.0
+    date: '2026-10-11'
+    code: 686534
+    url: /works/686534/
   - title: Inin Keiyaku | Lewd Pregnancy Contract
     author: yoshiura-kazuya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/83595.jpg
