@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "anal"
-work_count: 166
+work_count: 167
 works:
   - title: Ikanishite Haha wa Onna o Kaihou Shitaka Ch. 1-14
     author: mitarai-yuuki
@@ -393,6 +393,13 @@ works:
     date: '2026-05-26'
     code: 627182
     url: /works/627182/
+  - title: Cool-kei Toshiue BariCare Kanojo Songen Hakai Wakan2 ~Jun-ai NTR Gokko Hen~
+    author: hatsuden-pengin
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/630105.jpg
+    rating: 4.9
+    date: '2026-10-11'
+    code: 630105
+    url: /works/630105/
   - title: Hitozuma Kairou ~Danna Omoi no Hitozuma wa Saimin de Midara na Fuuzokujou
       e Kawarihateru~ | Married Woman Rebrand
     author: theremin

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "watermarked"
-work_count: 14
+work_count: 15
 works:
   - title: A Wonderful New World Ch.35/?
     author: unknown
@@ -98,6 +98,13 @@ works:
     date: '2026-07-09'
     code: 662550
     url: /works/662550/
+  - title: I WILL make a single mother my wife 3
+    author: onizuka-chris
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678907.jpg
+    rating: 0.0
+    date: '2026-10-11'
+    code: 678907
+    url: /works/678907/
   - title: Saimin x X I - Hypnosis x X I _MTL
     author: kuretudenn
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682188.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "multi-work series"
-work_count: 393
+work_count: 395
 works:
   - title: Konna ni mo Itooshii Zero
     author: nohito
@@ -1168,6 +1168,13 @@ works:
     date: '2026-04-23'
     code: 628865
     url: /works/628865/
+  - title: Cool-kei Toshiue BariCare Kanojo Songen Hakai Wakan2 ~Jun-ai NTR Gokko Hen~
+    author: hatsuden-pengin
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/630105.jpg
+    rating: 4.9
+    date: '2026-10-11'
+    code: 630105
+    url: /works/630105/
   - title: Boku no Daisuki na Kaa-san to Omou Zonbun Sex Dekiru Hi 3 | My Fabulous Fuck
       Day with My Amazing Mommy 3
     author: higehurai
@@ -2390,6 +2397,13 @@ works:
     date: '2026-09-07'
     code: 678802
     url: /works/678802/
+  - title: I WILL make a single mother my wife 3
+    author: onizuka-chris
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678907.jpg
+    rating: 0.0
+    date: '2026-10-11'
+    code: 678907
+    url: /works/678907/
   - title: The story of how the person I thought was a man on social media turned out
       to be a tall woman who was unfriendly but would let me do whatever I wanted to
       her

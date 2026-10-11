@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "english"
-work_count: 1710
+work_count: 1712
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -5033,6 +5033,13 @@ works:
     date: '2026-04-30'
     code: 629368
     url: /works/629368/
+  - title: Cool-kei Toshiue BariCare Kanojo Songen Hakai Wakan2 ~Jun-ai NTR Gokko Hen~
+    author: hatsuden-pengin
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/630105.jpg
+    rating: 4.9
+    date: '2026-10-11'
+    code: 630105
+    url: /works/630105/
   - title: A tsundere girl who loves dick cheese and speaks Kansai dialect
     author: yuuki-fuumi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/630901.jpg
@@ -9891,6 +9898,13 @@ works:
     date: '2026-09-07'
     code: 678802
     url: /works/678802/
+  - title: I WILL make a single mother my wife 3
+    author: onizuka-chris
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678907.jpg
+    rating: 0.0
+    date: '2026-10-11'
+    code: 678907
+    url: /works/678907/
   - title: I'll turn a divorced woman and a nagging housewife into ripe, voluptuous
       sex toys with their complicated pasts
     author: gagarin-kichi

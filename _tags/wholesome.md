@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "wholesome"
-work_count: 200
+work_count: 202
 works:
   - title: FLUFFY LAUGH GIRL
     author: shibasaki-syouzi
@@ -689,6 +689,13 @@ works:
     date: '2026-04-23'
     code: 628865
     url: /works/628865/
+  - title: Cool-kei Toshiue BariCare Kanojo Songen Hakai Wakan2 ~Jun-ai NTR Gokko Hen~
+    author: hatsuden-pengin
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/630105.jpg
+    rating: 4.9
+    date: '2026-10-11'
+    code: 630105
+    url: /works/630105/
   - title: Boku no Toshiue no Tomodachi | My Older Friend
     author: buta
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/631036.jpg
@@ -1335,6 +1342,13 @@ works:
     date: '2026-09-05'
     code: 678718
     url: /works/678718/
+  - title: I WILL make a single mother my wife 3
+    author: onizuka-chris
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678907.jpg
+    rating: 0.0
+    date: '2026-10-11'
+    code: 678907
+    url: /works/678907/
   - title: Kuro Gal no Ongaeshi -Shachiku Oji ga Kasshoku Kyonyuu Gal o Nanpa kara Tasuketara
       Icha Love Junai Koubi shita Hanashi-
     author: galvalume-kouhan

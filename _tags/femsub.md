@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "femsub"
-work_count: 30
+work_count: 31
 works:
   - title: Kanojo no Amai Jiraishuu
     author: jirou
@@ -17,6 +17,13 @@ works:
     date: '2026-05-04'
     code: 484860
     url: /works/484860/
+  - title: Cool-kei Toshiue BariCare Kanojo Songen Hakai Wakan2 ~Jun-ai NTR Gokko Hen~
+    author: hatsuden-pengin
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/630105.jpg
+    rating: 4.9
+    date: '2026-10-11'
+    code: 630105
+    url: /works/630105/
   - title: Gusai, Saikyouiku. | Dumb wife, re-education.
     author: ushio-kiyoshi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/631677.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "business suit"
-work_count: 91
+work_count: 92
 works:
   - title: MAGIC SEVEN
     author: asuhiro
@@ -587,6 +587,13 @@ works:
     date: '2026-08-19'
     code: 668867
     url: /works/668867/
+  - title: I WILL make a single mother my wife 3
+    author: onizuka-chris
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678907.jpg
+    rating: 0.0
+    date: '2026-10-11'
+    code: 678907
+    url: /works/678907/
   - title: Shiri de Onna o Miwakeru Ore wa Onna Joushi no Yowami o Nigiru | I, A Guy
       Who Tells Women Apart By Their Asses, Got Blackmail On My Superior At Work
     author: eco-heeky
