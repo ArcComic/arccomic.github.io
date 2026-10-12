@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sleeping"
-work_count: 60
+work_count: 61
 works:
   - title: Netemo Sametemo | Be it Sleeping or Awake
     author: takasugi-kou
@@ -178,6 +178,13 @@ works:
     date: '2026-10-02'
     code: 545591
     url: /works/545591/
+  - title: Usone dattara Punchi desu
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/552330.jpg
+    rating: 0.0
+    date: '2026-10-12'
+    code: 552330
+    url: /works/552330/
   - title: '- YOINOAYAMACHI - Part.1'
     author: sashimi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/556895.jpg

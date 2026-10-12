@@ -1,7 +1,7 @@
 ---
 layout: artist
 artist_name: "tsurui"
-work_count: 21
+work_count: 22
 works:
   - title: Ami Mami Mind 5
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/262169.jpg
@@ -82,6 +82,12 @@ works:
     date: '2026-10-10'
     code: 406008
     url: /works/406008/
+  - title: Usone dattara Punchi desu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/552330.jpg
+    rating: 0.0
+    date: '2026-10-12'
+    code: 552330
+    url: /works/552330/
   - title: Watashi no Shiranai Anata Toka
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/553624.jpg
     rating: 4.5

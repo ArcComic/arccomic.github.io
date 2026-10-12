@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "masturbation"
-work_count: 146
+work_count: 147
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -284,6 +284,13 @@ works:
     date: '2026-08-25'
     code: 563890
     url: /works/563890/
+  - title: Kojirase Horny Doggy | Aggravating Horny Doggy
+    author: memeyu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/563921.jpg
+    rating: 0.0
+    date: '2026-10-12'
+    code: 563921
+    url: /works/563921/
   - title: Walking back home in the winter with my childhood friend
     author: shimetsuki-tanki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/565301.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "doujinshi"
-work_count: 1423
+work_count: 1424
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -2479,6 +2479,13 @@ works:
     date: '2026-04-15'
     code: 551186
     url: /works/551186/
+  - title: Usone dattara Punchi desu
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/552330.jpg
+    rating: 0.0
+    date: '2026-10-12'
+    code: 552330
+    url: /works/552330/
   - title: LeveChi na Swapping 2 ~Hatsu Zecchou de Iki Kuruu Tsuma Hen~
     author: hikitogu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/552541.jpg

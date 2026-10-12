@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "childhood friend"
-work_count: 34
+work_count: 35
 works:
   - title: Gakkou to Bed ja Seihantai no, Okkina Kanojo. | My Big Girlfriend Acts the
       Polar Opposite in Bed and at School.
@@ -101,6 +101,13 @@ works:
     date: '2026-08-18'
     code: 560097
     url: /works/560097/
+  - title: Kojirase Horny Doggy | Aggravating Horny Doggy
+    author: memeyu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/563921.jpg
+    rating: 0.0
+    date: '2026-10-12'
+    code: 563921
+    url: /works/563921/
   - title: Kyoya, My Childhood Friend Rapes Me In My Dream...
     author: danimaru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/587827.jpg
