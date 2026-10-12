@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bloomers"
-work_count: 7
+work_count: 8
 works:
   - title: Tsuki ga Noboru | Moonrise
     author: rocket-monkey
@@ -10,6 +10,13 @@ works:
     date: '2026-09-22'
     code: 307241
     url: /works/307241/
+  - title: Haruka After 5
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/317265.jpg
+    rating: 4.4
+    date: '2026-10-12'
+    code: 317265
+    url: /works/317265/
   - title: Kannou no Triangle | Sensual Love Triangle
     author: sena-youtarou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/538176.jpg
@@ -27,7 +34,7 @@ works:
   - title: Hime Bloomer
     author: tsurui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638882.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-12'
     code: 638882
     url: /works/638882/

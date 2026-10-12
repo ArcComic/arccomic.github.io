@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "multi-work series"
-work_count: 400
+work_count: 402
 works:
   - title: Konna ni mo Itooshii Zero
     author: nohito
@@ -34,7 +34,7 @@ works:
   - title: Colorful Ritsuko 2
     author: tsurui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/285110.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-10-12'
     code: 285110
     url: /works/285110/
@@ -80,6 +80,13 @@ works:
     date: '2026-03-04'
     code: 315693
     url: /works/315693/
+  - title: Haruka After 5
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/317265.jpg
+    rating: 4.4
+    date: '2026-10-12'
+    code: 317265
+    url: /works/317265/
   - title: Yayoi to Issho 4
     author: tsurui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/323523.jpg
@@ -331,6 +338,13 @@ works:
     date: '2026-09-27'
     code: 483537
     url: /works/483537/
+  - title: Mou Ichido, Shitemitai. | I Want to Try It Again.
+    author: danimaru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/485930.jpg
+    rating: 4.9
+    date: '2026-10-12'
+    code: 485930
+    url: /works/485930/
   - title: Datenshi no Yuuwaku -Office Angel Project- 1
     author: hiraoka-ryuichi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/491622.jpg

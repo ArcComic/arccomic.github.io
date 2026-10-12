@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "drunk"
-work_count: 54
+work_count: 55
 works:
   - title: Birthday
     author: hashiba-yachi
@@ -140,6 +140,13 @@ works:
     date: '2026-08-18'
     code: 482454
     url: /works/482454/
+  - title: Mou Ichido, Shitemitai. | I Want to Try It Again.
+    author: danimaru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/485930.jpg
+    rating: 4.9
+    date: '2026-10-12'
+    code: 485930
+    url: /works/485930/
   - title: Little Blue Bird
     author: kidouchi-kon
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/508534.jpg

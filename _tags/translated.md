@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "translated"
-work_count: 1694
+work_count: 1696
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -337,7 +337,7 @@ works:
   - title: Colorful Ritsuko
     author: tsurui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/275768.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-10-12'
     code: 275768
     url: /works/275768/
@@ -393,7 +393,7 @@ works:
   - title: Colorful Ritsuko 2
     author: tsurui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/285110.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-10-12'
     code: 285110
     url: /works/285110/
@@ -421,7 +421,7 @@ works:
   - title: Watashi no Producer-san
     author: tsurui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/288439.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-10-12'
     code: 288439
     url: /works/288439/
@@ -493,7 +493,7 @@ works:
   - title: Nibun no Yuudou | Half Seduction
     author: chicke-iii
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/298547.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-10-12'
     code: 298547
     url: /works/298547/
@@ -608,7 +608,7 @@ works:
   - title: Yukiho to yoru no kekkonshiki | Evening Wedding with Yukiho
     author: tsurui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/316122.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-10-12'
     code: 316122
     url: /works/316122/
@@ -619,6 +619,13 @@ works:
     date: '2026-09-13'
     code: 316579
     url: /works/316579/
+  - title: Haruka After 5
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/317265.jpg
+    rating: 4.4
+    date: '2026-10-12'
+    code: 317265
+    url: /works/317265/
   - title: CHOCO x LOVE
     author: highlow
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/317673.jpg
@@ -980,7 +987,7 @@ works:
   - title: Akiha-sama no Present
     author: tsurui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/374589.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-10-12'
     code: 374589
     url: /works/374589/
@@ -1250,7 +1257,7 @@ works:
   - title: Dochira o Onozomi desu ka? ~Ryouhou Hen~ | Which Do You Desire? ~Both Edition~
     author: tsurui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/407222.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-10-12'
     code: 407222
     url: /works/407222/
@@ -2012,6 +2019,13 @@ works:
     date: '2026-04-15'
     code: 485905
     url: /works/485905/
+  - title: Mou Ichido, Shitemitai. | I Want to Try It Again.
+    author: danimaru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/485930.jpg
+    rating: 4.9
+    date: '2026-10-12'
+    code: 485930
+    url: /works/485930/
   - title: Akogare datta, Sagara-san.
     author: tokyo-gunjo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/487275.jpg
@@ -3262,7 +3276,7 @@ works:
   - title: OUTOTSU Lovemotion! | Uneven Lovemotion!
     author: memeyu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/551047.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-12'
     code: 551047
     url: /works/551047/
@@ -5042,7 +5056,7 @@ works:
   - title: Dame nante Ienai
     author: tsurui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/628068.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-10-12'
     code: 628068
     url: /works/628068/
@@ -5708,7 +5722,7 @@ works:
   - title: Hime Bloomer
     author: tsurui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638882.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-12'
     code: 638882
     url: /works/638882/
@@ -5944,7 +5958,7 @@ works:
   - title: Anta no Koto nanka
     author: tsurui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642984.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-10-12'
     code: 642984
     url: /works/642984/
@@ -12435,7 +12449,7 @@ works:
       Gal + Bonus
     author: takano-tomohiro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686737.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-12'
     code: 686737
     url: /works/686737/

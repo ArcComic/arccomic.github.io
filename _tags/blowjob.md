@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "blowjob"
-work_count: 689
+work_count: 690
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -112,7 +112,7 @@ works:
   - title: Watashi no Producer-san
     author: tsurui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/288439.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-10-12'
     code: 288439
     url: /works/288439/
@@ -155,7 +155,7 @@ works:
   - title: Nibun no Yuudou | Half Seduction
     author: chicke-iii
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/298547.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-10-12'
     code: 298547
     url: /works/298547/
@@ -227,7 +227,7 @@ works:
   - title: Yukiho to yoru no kekkonshiki | Evening Wedding with Yukiho
     author: tsurui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/316122.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-10-12'
     code: 316122
     url: /works/316122/
@@ -787,6 +787,13 @@ works:
     date: '2026-04-15'
     code: 485905
     url: /works/485905/
+  - title: Mou Ichido, Shitemitai. | I Want to Try It Again.
+    author: danimaru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/485930.jpg
+    rating: 4.9
+    date: '2026-10-12'
+    code: 485930
+    url: /works/485930/
   - title: Syuju - Kankei
     author: 810eru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/489004.jpg
@@ -2070,7 +2077,7 @@ works:
   - title: Dame nante Ienai
     author: tsurui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/628068.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-10-12'
     code: 628068
     url: /works/628068/
@@ -2469,7 +2476,7 @@ works:
   - title: Hime Bloomer
     author: tsurui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638882.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-12'
     code: 638882
     url: /works/638882/
@@ -5105,7 +5112,7 @@ works:
       Gal + Bonus
     author: takano-tomohiro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686737.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-12'
     code: 686737
     url: /works/686737/

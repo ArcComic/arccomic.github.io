@@ -246,7 +246,7 @@ works:
   - title: Nibun no Yuudou | Half Seduction
     author: chicke-iii
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/298547.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-10-12'
     code: 298547
     url: /works/298547/
@@ -1972,7 +1972,7 @@ works:
   - title: OUTOTSU Lovemotion! | Uneven Lovemotion!
     author: memeyu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/551047.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-12'
     code: 551047
     url: /works/551047/
@@ -3294,7 +3294,7 @@ works:
   - title: Dame nante Ienai
     author: tsurui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/628068.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-10-12'
     code: 628068
     url: /works/628068/
@@ -3803,7 +3803,7 @@ works:
   - title: Hime Bloomer
     author: tsurui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638882.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-12'
     code: 638882
     url: /works/638882/
@@ -8674,7 +8674,7 @@ works:
       Gal + Bonus
     author: takano-tomohiro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686737.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-12'
     code: 686737
     url: /works/686737/

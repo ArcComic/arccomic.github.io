@@ -52,7 +52,7 @@ works:
   - title: OUTOTSU Lovemotion! | Uneven Lovemotion!
     author: memeyu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/551047.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-12'
     code: 551047
     url: /works/551047/

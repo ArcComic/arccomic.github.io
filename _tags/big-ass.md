@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big ass"
-work_count: 257
+work_count: 258
 works:
   - title: My Care Lady Ch. 1
     author: sugi-g
@@ -219,6 +219,13 @@ works:
     date: '2026-03-02'
     code: 455844
     url: /works/455844/
+  - title: Mou Ichido, Shitemitai. | I Want to Try It Again.
+    author: danimaru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/485930.jpg
+    rating: 4.9
+    date: '2026-10-12'
+    code: 485930
+    url: /works/485930/
   - title: Boku no Doutei wa Neteru Aida ni... Ubawaremashita
     author: kinntarou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/490633.jpg
@@ -697,7 +704,7 @@ works:
   - title: Hime Bloomer
     author: tsurui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638882.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-12'
     code: 638882
     url: /works/638882/
@@ -1915,7 +1922,7 @@ works:
       Gal + Bonus
     author: takano-tomohiro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686737.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-12'
     code: 686737
     url: /works/686737/

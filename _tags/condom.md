@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "condom"
-work_count: 229
+work_count: 230
 works:
   - title: Kaisha de Iroiro | Gettin' Busy at the Office
     author: hara-shigeyuki
@@ -90,7 +90,7 @@ works:
   - title: Nibun no Yuudou | Half Seduction
     author: chicke-iii
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/298547.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-10-12'
     code: 298547
     url: /works/298547/
@@ -419,6 +419,13 @@ works:
     date: '2026-10-11'
     code: 485876
     url: /works/485876/
+  - title: Mou Ichido, Shitemitai. | I Want to Try It Again.
+    author: danimaru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/485930.jpg
+    rating: 4.9
+    date: '2026-10-12'
+    code: 485930
+    url: /works/485930/
   - title: Houyuu
     author: tsukumo-nikyu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/491042.jpg
@@ -1685,7 +1692,7 @@ works:
       Gal + Bonus
     author: takano-tomohiro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686737.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-12'
     code: 686737
     url: /works/686737/

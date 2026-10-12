@@ -1,7 +1,7 @@
 ---
 layout: artist
 artist_name: "tsurui"
-work_count: 32
+work_count: 33
 works:
   - title: Ami Mami Mind 5
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/262169.jpg
@@ -11,7 +11,7 @@ works:
     url: /works/262169/
   - title: Colorful Ritsuko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/275768.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-10-12'
     code: 275768
     url: /works/275768/
@@ -23,7 +23,7 @@ works:
     url: /works/280836/
   - title: Colorful Ritsuko 2
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/285110.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-10-12'
     code: 285110
     url: /works/285110/
@@ -35,7 +35,7 @@ works:
     url: /works/287467/
   - title: Watashi no Producer-san
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/288439.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-10-12'
     code: 288439
     url: /works/288439/
@@ -47,10 +47,16 @@ works:
     url: /works/289785/
   - title: Yukiho to yoru no kekkonshiki | Evening Wedding with Yukiho
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/316122.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-10-12'
     code: 316122
     url: /works/316122/
+  - title: Haruka After 5
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/317265.jpg
+    rating: 4.4
+    date: '2026-10-12'
+    code: 317265
+    url: /works/317265/
   - title: Makoto to Ofuro | Bathtime with Makoto
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/320439.jpg
     rating: 4.2
@@ -101,7 +107,7 @@ works:
     url: /works/364923/
   - title: Akiha-sama no Present
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/374589.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-10-12'
     code: 374589
     url: /works/374589/
@@ -114,7 +120,7 @@ works:
     url: /works/406008/
   - title: Dochira o Onozomi desu ka? ~Ryouhou Hen~ | Which Do You Desire? ~Both Edition~
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/407222.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-10-12'
     code: 407222
     url: /works/407222/
@@ -132,19 +138,19 @@ works:
     url: /works/553624/
   - title: Dame nante Ienai
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/628068.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-10-12'
     code: 628068
     url: /works/628068/
   - title: Hime Bloomer
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638882.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-12'
     code: 638882
     url: /works/638882/
   - title: Anta no Koto nanka
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642984.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-10-12'
     code: 642984
     url: /works/642984/

@@ -1,7 +1,7 @@
 ---
 layout: artist
 artist_name: "danimaru"
-work_count: 9
+work_count: 10
 works:
   - title: Onee-chan ga Ecchi na Koto bakka Suru kara... | My older sister only does
       obscene things...
@@ -22,6 +22,12 @@ works:
     date: '2026-04-27'
     code: 425528
     url: /works/425528/
+  - title: Mou Ichido, Shitemitai. | I Want to Try It Again.
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/485930.jpg
+    rating: 4.9
+    date: '2026-10-12'
+    code: 485930
+    url: /works/485930/
   - title: Koi ni Naru made, | Until It Becomes Love
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/507681.jpg
     rating: 4.8

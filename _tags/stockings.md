@@ -105,7 +105,7 @@ works:
   - title: Yukiho to yoru no kekkonshiki | Evening Wedding with Yukiho
     author: tsurui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/316122.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-10-12'
     code: 316122
     url: /works/316122/
@@ -183,7 +183,7 @@ works:
   - title: Akiha-sama no Present
     author: tsurui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/374589.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-10-12'
     code: 374589
     url: /works/374589/
@@ -198,7 +198,7 @@ works:
   - title: Dochira o Onozomi desu ka? ~Ryouhou Hen~ | Which Do You Desire? ~Both Edition~
     author: tsurui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/407222.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-10-12'
     code: 407222
     url: /works/407222/

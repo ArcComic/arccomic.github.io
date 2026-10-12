@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "kissing"
-work_count: 390
+work_count: 391
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -27,7 +27,7 @@ works:
   - title: Nibun no Yuudou | Half Seduction
     author: chicke-iii
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/298547.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-10-12'
     code: 298547
     url: /works/298547/
@@ -360,6 +360,13 @@ works:
     date: '2026-05-04'
     code: 484860
     url: /works/484860/
+  - title: Mou Ichido, Shitemitai. | I Want to Try It Again.
+    author: danimaru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/485930.jpg
+    rating: 4.9
+    date: '2026-10-12'
+    code: 485930
+    url: /works/485930/
   - title: Boku no Doutei wa Neteru Aida ni... Ubawaremashita
     author: kinntarou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/490633.jpg
@@ -640,7 +647,7 @@ works:
   - title: OUTOTSU Lovemotion! | Uneven Lovemotion!
     author: memeyu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/551047.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-12'
     code: 551047
     url: /works/551047/
@@ -1135,7 +1142,7 @@ works:
   - title: Dame nante Ienai
     author: tsurui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/628068.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-10-12'
     code: 628068
     url: /works/628068/
@@ -2933,7 +2940,7 @@ works:
       Gal + Bonus
     author: takano-tomohiro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686737.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-12'
     code: 686737
     url: /works/686737/

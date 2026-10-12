@@ -13,7 +13,7 @@ works:
   - title: Colorful Ritsuko 2
     author: tsurui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/285110.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-10-12'
     code: 285110
     url: /works/285110/
@@ -71,7 +71,7 @@ works:
   - title: Akiha-sama no Present
     author: tsurui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/374589.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-10-12'
     code: 374589
     url: /works/374589/
@@ -277,7 +277,7 @@ works:
   - title: Anta no Koto nanka
     author: tsurui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642984.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-10-12'
     code: 642984
     url: /works/642984/
