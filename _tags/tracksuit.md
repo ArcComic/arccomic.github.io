@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "tracksuit"
-work_count: 14
+work_count: 15
 works:
   - title: Adlescence 06 Nozomi [English] =NSS=
     author: aoten
@@ -33,6 +33,13 @@ works:
     date: '2026-09-10'
     code: 538176
     url: /works/538176/
+  - title: Hitorijime Love Doll | Love Doll For Mine Only
+    author: memeyu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/596622.jpg
+    rating: 0.0
+    date: '2026-10-12'
+    code: 596622
+    url: /works/596622/
   - title: Hokenshitsu no Futon no Naka de Satori Sedai JK to Naisho H!
     author: niji-teru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/606725.jpg

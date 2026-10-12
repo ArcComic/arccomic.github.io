@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "handjob"
-work_count: 148
+work_count: 149
 works:
   - title: Rin to P
     author: simon
@@ -304,6 +304,13 @@ works:
     date: '2026-09-29'
     code: 594884
     url: /works/594884/
+  - title: Hitorijime Love Doll | Love Doll For Mine Only
+    author: memeyu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/596622.jpg
+    rating: 0.0
+    date: '2026-10-12'
+    code: 596622
+    url: /works/596622/
   - title: Astrantia
     author: kyougoku-shin
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/598156.jpg

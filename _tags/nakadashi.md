@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "nakadashi"
-work_count: 864
+work_count: 866
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -2187,6 +2187,13 @@ works:
     date: '2026-05-07'
     code: 596598
     url: /works/596598/
+  - title: Hitorijime Love Doll | Love Doll For Mine Only
+    author: memeyu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/596622.jpg
+    rating: 0.0
+    date: '2026-10-12'
+    code: 596622
+    url: /works/596622/
   - title: SHAMAN'S SPECIAL SERVICE
     author: raikko9
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/597388.jpg
@@ -3046,6 +3053,14 @@ works:
     date: '2026-04-19'
     code: 638359
     url: /works/638359/
+  - title: Onna Gal Joushi to Furin suru Hanashi 4 | Having an Affair with My Blonde
+      Bombshell Boss – Part 4
+    author: nakamo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638495.jpg
+    rating: 0.0
+    date: '2026-10-12'
+    code: 638495
+    url: /works/638495/
   - title: Haru Kurabe 5
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638513.jpg

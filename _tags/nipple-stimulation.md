@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "nipple stimulation"
-work_count: 157
+work_count: 158
 works:
   - title: Hypnotic Domination ~ The Fall of Tennis Club Ace ~
     author: danchino
@@ -229,6 +229,13 @@ works:
     date: '2026-05-01'
     code: 591112
     url: /works/591112/
+  - title: Hitorijime Love Doll | Love Doll For Mine Only
+    author: memeyu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/596622.jpg
+    rating: 0.0
+    date: '2026-10-12'
+    code: 596622
+    url: /works/596622/
   - title: Motokano-tachi to Ya Re Naoshi!? CHAPTER 2
     author: shinonome-ryu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/598175.jpg

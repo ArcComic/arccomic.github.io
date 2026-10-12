@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "smell"
-work_count: 25
+work_count: 26
 works:
   - title: Natsu Jiru Ch. 1-2
     author: sena-youtarou
@@ -60,6 +60,13 @@ works:
     date: '2026-09-26'
     code: 583437
     url: /works/583437/
+  - title: Hitorijime Love Doll | Love Doll For Mine Only
+    author: memeyu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/596622.jpg
+    rating: 0.0
+    date: '2026-10-12'
+    code: 596622
+    url: /works/596622/
   - title: Fuyu-san wa Sotsugyou Shitai | Fuyu-san Wants to Lose Her V-Card
     author: kurihara-kenshirou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/619405.jpg

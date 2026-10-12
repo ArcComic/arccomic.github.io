@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "fingering"
-work_count: 184
+work_count: 186
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -538,6 +538,13 @@ works:
     date: '2026-05-07'
     code: 596598
     url: /works/596598/
+  - title: Hitorijime Love Doll | Love Doll For Mine Only
+    author: memeyu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/596622.jpg
+    rating: 0.0
+    date: '2026-10-12'
+    code: 596622
+    url: /works/596622/
   - title: Astrantia
     author: kyougoku-shin
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/598156.jpg
@@ -731,6 +738,14 @@ works:
     date: '2026-09-05'
     code: 637940
     url: /works/637940/
+  - title: Onna Gal Joushi to Furin suru Hanashi 4 | Having an Affair with My Blonde
+      Bombshell Boss – Part 4
+    author: nakamo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638495.jpg
+    rating: 0.0
+    date: '2026-10-12'
+    code: 638495
+    url: /works/638495/
   - title: Rental Kanojo Osawari Shimasu 9 ー Grope-a-Girlfriend 9
     author: yahiro-pochi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638696.jpg

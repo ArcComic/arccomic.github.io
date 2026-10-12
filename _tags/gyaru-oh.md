@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "gyaru-oh"
-work_count: 32
+work_count: 33
 works:
   - title: Netorare Ibe Kiba Shizuka
     author: terasu-mc
@@ -129,6 +129,14 @@ works:
     date: '2026-03-07'
     code: 635266
     url: /works/635266/
+  - title: Onna Gal Joushi to Furin suru Hanashi 4 | Having an Affair with My Blonde
+      Bombshell Boss – Part 4
+    author: nakamo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638495.jpg
+    rating: 0.0
+    date: '2026-10-12'
+    code: 638495
+    url: /works/638495/
   - title: Noroi no Sei de MP ga Tarimasen!! Kouhen | "MP is Depleted Because of a Curse!!
       - last part
     author: nigiri-usagi

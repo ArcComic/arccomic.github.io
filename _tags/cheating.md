@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "cheating"
-work_count: 378
+work_count: 379
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -1544,6 +1544,14 @@ works:
     date: '2026-09-19'
     code: 638320
     url: /works/638320/
+  - title: Onna Gal Joushi to Furin suru Hanashi 4 | Having an Affair with My Blonde
+      Bombshell Boss – Part 4
+    author: nakamo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638495.jpg
+    rating: 0.0
+    date: '2026-10-12'
+    code: 638495
+    url: /works/638495/
   - title: Eat Meat + Digital Tokusouban Gentei Tokuten - Natsume-san wa Chorosugiru!
     author: ushinomiya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638556.jpg

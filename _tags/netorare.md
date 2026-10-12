@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "netorare"
-work_count: 443
+work_count: 444
 works:
   - title: Kousa suru Osu to Mesu | Male and Female Crossing
     author: ootsuka-kotora
@@ -1523,6 +1523,14 @@ works:
     date: '2026-09-19'
     code: 638320
     url: /works/638320/
+  - title: Onna Gal Joushi to Furin suru Hanashi 4 | Having an Affair with My Blonde
+      Bombshell Boss – Part 4
+    author: nakamo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638495.jpg
+    rating: 0.0
+    date: '2026-10-12'
+    code: 638495
+    url: /works/638495/
   - title: Boku ga Shiranakatta Mama to Jii-chan no Koto | Things I didn't Know Between
       Mom And Grandpa
     author: urakan

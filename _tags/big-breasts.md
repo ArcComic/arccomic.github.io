@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big breasts"
-work_count: 1161
+work_count: 1163
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -2677,6 +2677,13 @@ works:
     date: '2026-05-07'
     code: 596598
     url: /works/596598/
+  - title: Hitorijime Love Doll | Love Doll For Mine Only
+    author: memeyu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/596622.jpg
+    rating: 0.0
+    date: '2026-10-12'
+    code: 596622
+    url: /works/596622/
   - title: Houkai Kazoku 0 -Hahaoya ga Yakuza to no Sex ni Hamatta Hanashi- | Collapsed
       Family 0 - The story of a mother who got hooked on sex with a Yakuza
     author: watsondou
@@ -3707,6 +3714,14 @@ works:
     date: '2026-04-19'
     code: 638359
     url: /works/638359/
+  - title: Onna Gal Joushi to Furin suru Hanashi 4 | Having an Affair with My Blonde
+      Bombshell Boss – Part 4
+    author: nakamo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638495.jpg
+    rating: 0.0
+    date: '2026-10-12'
+    code: 638495
+    url: /works/638495/
   - title: Eat Meat + Digital Tokusouban Gentei Tokuten - Natsume-san wa Chorosugiru!
     author: ushinomiya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638556.jpg

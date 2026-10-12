@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "condom"
-work_count: 226
+work_count: 227
 works:
   - title: Kaisha de Iroiro | Gettin' Busy at the Office
     author: hara-shigeyuki
@@ -924,6 +924,14 @@ works:
     date: '2026-10-03'
     code: 637829
     url: /works/637829/
+  - title: Onna Gal Joushi to Furin suru Hanashi 4 | Having an Affair with My Blonde
+      Bombshell Boss – Part 4
+    author: nakamo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638495.jpg
+    rating: 0.0
+    date: '2026-10-12'
+    code: 638495
+    url: /works/638495/
   - title: Manatsu no Refrain | Midsummer's Refrain
     author: gen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/639514.jpg

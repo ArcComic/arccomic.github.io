@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "business suit"
-work_count: 94
+work_count: 95
 works:
   - title: MAGIC SEVEN
     author: asuhiro
@@ -484,6 +484,14 @@ works:
     date: '2026-08-19'
     code: 638178
     url: /works/638178/
+  - title: Onna Gal Joushi to Furin suru Hanashi 4 | Having an Affair with My Blonde
+      Bombshell Boss – Part 4
+    author: nakamo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638495.jpg
+    rating: 0.0
+    date: '2026-10-12'
+    code: 638495
+    url: /works/638495/
   - title: Otokomasari na Kyonyuu Hitozuma Joushi to Amaama SeFri Kankei ni Natta Ken
     author: elica
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/641362.jpg

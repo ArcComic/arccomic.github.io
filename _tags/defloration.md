@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "defloration"
-work_count: 237
+work_count: 238
 works:
   - title: Imitation Family + Bigibo Hen
     author: tohzai
@@ -626,6 +626,13 @@ works:
     date: '2026-09-30'
     code: 596562
     url: /works/596562/
+  - title: Hitorijime Love Doll | Love Doll For Mine Only
+    author: memeyu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/596622.jpg
+    rating: 0.0
+    date: '2026-10-12'
+    code: 596622
+    url: /works/596622/
   - title: Shounen yo, Watashi o Idake. 少年,抱住我
     author: torii-yoshitsuna
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/599514.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "incest"
-work_count: 314
+work_count: 315
 works:
   - title: Imitation Family + Bigibo Hen
     author: tohzai
@@ -748,6 +748,13 @@ works:
     date: '2026-08-25'
     code: 595108
     url: /works/595108/
+  - title: Hitorijime Love Doll | Love Doll For Mine Only
+    author: memeyu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/596622.jpg
+    rating: 0.0
+    date: '2026-10-12'
+    code: 596622
+    url: /works/596622/
   - title: Kaya-nee and the Old Man Memories
     author: kon-kit
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/598144.jpg

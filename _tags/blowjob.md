@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "blowjob"
-work_count: 677
+work_count: 678
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -1650,6 +1650,13 @@ works:
     date: '2026-05-07'
     code: 596598
     url: /works/596598/
+  - title: Hitorijime Love Doll | Love Doll For Mine Only
+    author: memeyu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/596622.jpg
+    rating: 0.0
+    date: '2026-10-12'
+    code: 596622
+    url: /works/596622/
   - title: SHAMAN'S SPECIAL SERVICE
     author: raikko9
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/597388.jpg

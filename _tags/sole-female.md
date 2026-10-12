@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole female"
-work_count: 1013
+work_count: 1015
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -552,6 +552,13 @@ works:
     date: '2026-04-27'
     code: 357965
     url: /works/357965/
+  - title: Ritsuko to Stretch!
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/358363.jpg
+    rating: 0.0
+    date: '2026-10-12'
+    code: 358363
+    url: /works/358363/
   - title: Kagesawa Mura no Akai Kagi tada <hottan>
     author: chiba-shuusaku
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/359864.jpg
@@ -2803,6 +2810,13 @@ works:
     date: '2026-05-07'
     code: 596598
     url: /works/596598/
+  - title: Hitorijime Love Doll | Love Doll For Mine Only
+    author: memeyu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/596622.jpg
+    rating: 0.0
+    date: '2026-10-12'
+    code: 596622
+    url: /works/596622/
   - title: Houkai Kazoku 0 -Hahaoya ga Yakuza to no Sex ni Hamatta Hanashi- | Collapsed
       Family 0 - The story of a mother who got hooked on sex with a Yakuza
     author: watsondou

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole male"
-work_count: 948
+work_count: 950
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -530,6 +530,13 @@ works:
     date: '2026-04-27'
     code: 357965
     url: /works/357965/
+  - title: Ritsuko to Stretch!
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/358363.jpg
+    rating: 0.0
+    date: '2026-10-12'
+    code: 358363
+    url: /works/358363/
   - title: Makoto ga TOP!
     author: tsurui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/361286.jpg
@@ -2535,6 +2542,13 @@ works:
     date: '2026-09-30'
     code: 596562
     url: /works/596562/
+  - title: Hitorijime Love Doll | Love Doll For Mine Only
+    author: memeyu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/596622.jpg
+    rating: 0.0
+    date: '2026-10-12'
+    code: 596622
+    url: /works/596622/
   - title: SHAMAN'S SPECIAL SERVICE
     author: raikko9
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/597388.jpg

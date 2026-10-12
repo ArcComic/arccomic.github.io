@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "clit stimulation"
-work_count: 29
+work_count: 30
 works:
   - title: Senpai, Sonna no Shiranai desu ~Bansou shite ita Kare no Yubi wa Ima, Watashi
       no Naka o Midashiteru~ | Senpai, I Don't Know About That - His Fingers That Were
@@ -60,6 +60,13 @@ works:
     date: '2026-10-02'
     code: 567532
     url: /works/567532/
+  - title: Hitorijime Love Doll | Love Doll For Mine Only
+    author: memeyu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/596622.jpg
+    rating: 0.0
+    date: '2026-10-12'
+    code: 596622
+    url: /works/596622/
   - title: '"1 Funkan Dake Rete mo īyo … " Shea Hausu no Himitsu Rūru | The Share House''s
       Secret Rule Vol. 1-3'
     author: ouma

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "dark skinned female"
-work_count: 41
+work_count: 42
 works:
   - title: Hyouri no Omoi | Double-Sided Love
     author: suruga-kuroitsu
@@ -139,6 +139,14 @@ works:
     date: '2026-02-26'
     code: 632761
     url: /works/632761/
+  - title: Onna Gal Joushi to Furin suru Hanashi 4 | Having an Affair with My Blonde
+      Bombshell Boss – Part 4
+    author: nakamo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638495.jpg
+    rating: 0.0
+    date: '2026-10-12'
+    code: 638495
+    url: /works/638495/
   - title: BUTA - 『You did a great job』
     author: buta
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/639772.jpg

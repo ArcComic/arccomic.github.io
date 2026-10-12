@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big ass"
-work_count: 252
+work_count: 253
 works:
   - title: My Care Lady Ch. 1
     author: sugi-g
@@ -665,6 +665,14 @@ works:
     date: '2026-03-11'
     code: 636122
     url: /works/636122/
+  - title: Onna Gal Joushi to Furin suru Hanashi 4 | Having an Affair with My Blonde
+      Bombshell Boss – Part 4
+    author: nakamo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638495.jpg
+    rating: 0.0
+    date: '2026-10-12'
+    code: 638495
+    url: /works/638495/
   - title: Eat Meat + Digital Tokusouban Gentei Tokuten - Natsume-san wa Chorosugiru!
     author: ushinomiya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638556.jpg

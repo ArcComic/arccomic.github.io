@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "kissing"
-work_count: 381
+work_count: 383
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -878,6 +878,13 @@ works:
     date: '2026-10-11'
     code: 595981
     url: /works/595981/
+  - title: Hitorijime Love Doll | Love Doll For Mine Only
+    author: memeyu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/596622.jpg
+    rating: 0.0
+    date: '2026-10-12'
+    code: 596622
+    url: /works/596622/
   - title: Seishun to Backyard | The Youth and The Backyard
     author: mokuyama-hito
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/598084.jpg
@@ -1319,6 +1326,14 @@ works:
     date: '2026-09-19'
     code: 638320
     url: /works/638320/
+  - title: Onna Gal Joushi to Furin suru Hanashi 4 | Having an Affair with My Blonde
+      Bombshell Boss – Part 4
+    author: nakamo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638495.jpg
+    rating: 0.0
+    date: '2026-10-12'
+    code: 638495
+    url: /works/638495/
   - title: Please Take It Out! After
     author: ramanda
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638685.jpg

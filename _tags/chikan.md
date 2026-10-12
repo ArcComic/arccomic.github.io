@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "chikan"
-work_count: 28
+work_count: 29
 works:
   - title: Kyodou Fushin Joshi
     author: uds
@@ -52,6 +52,13 @@ works:
     date: '2026-08-29'
     code: 534388
     url: /works/534388/
+  - title: Hitorijime Love Doll | Love Doll For Mine Only
+    author: memeyu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/596622.jpg
+    rating: 0.0
+    date: '2026-10-12'
+    code: 596622
+    url: /works/596622/
   - title: Hokenshitsu no Futon no Naka de Satori Sedai JK to Naisho H!
     author: niji-teru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/606725.jpg

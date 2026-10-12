@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "rape"
-work_count: 249
+work_count: 250
 works:
   - title: Office Love Scramble Ch. 1
     author: tohzai
@@ -656,6 +656,13 @@ works:
     date: '2026-03-07'
     code: 588713
     url: /works/588713/
+  - title: Hitorijime Love Doll | Love Doll For Mine Only
+    author: memeyu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/596622.jpg
+    rating: 0.0
+    date: '2026-10-12'
+    code: 596622
+    url: /works/596622/
   - title: Kouen no Oji-san-tachi ni Moteasobaretai
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/598010.jpg

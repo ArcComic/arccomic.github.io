@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "ritsuko akizuki"
-work_count: 3
+work_count: 4
 works:
   - title: MAGIC SEVEN
     author: asuhiro
@@ -24,4 +24,11 @@ works:
     date: '2026-10-10'
     code: 351810
     url: /works/351810/
+  - title: Ritsuko to Stretch!
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/358363.jpg
+    rating: 0.0
+    date: '2026-10-12'
+    code: 358363
+    url: /works/358363/
 ---

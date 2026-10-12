@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "masturbation"
-work_count: 144
+work_count: 145
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -382,6 +382,13 @@ works:
     date: '2026-05-07'
     code: 596598
     url: /works/596598/
+  - title: Hitorijime Love Doll | Love Doll For Mine Only
+    author: memeyu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/596622.jpg
+    rating: 0.0
+    date: '2026-10-12'
+    code: 596622
+    url: /works/596622/
   - title: Tonari no Seki no Tomodachi to Issho ni Onanii Suru Hanashi | The Story About
       Masturbating Together With the Friend Who Sits Next to Me
     author: fuguta-ke
