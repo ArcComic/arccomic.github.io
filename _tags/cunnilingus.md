@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "cunnilingus"
-work_count: 178
+work_count: 179
 works:
   - title: Love Approach
     author: hanafuda-sakurano
@@ -45,6 +45,13 @@ works:
     date: '2026-04-23'
     code: 296282
     url: /works/296282/
+  - title: Nibun no Yuudou | Half Seduction
+    author: chicke-iii
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/298547.jpg
+    rating: 0.0
+    date: '2026-10-12'
+    code: 298547
+    url: /works/298547/
   - title: Akarui Kazoku Seikatsu
     author: pistonring-nishizawa
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/304307.jpg

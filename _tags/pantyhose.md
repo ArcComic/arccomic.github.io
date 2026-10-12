@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "pantyhose"
-work_count: 79
+work_count: 80
 works:
   - title: MAGIC SEVEN
     author: asuhiro
@@ -59,6 +59,13 @@ works:
     date: '2026-04-12'
     code: 293478
     url: /works/293478/
+  - title: Nibun no Yuudou | Half Seduction
+    author: chicke-iii
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/298547.jpg
+    rating: 0.0
+    date: '2026-10-12'
+    code: 298547
+    url: /works/298547/
   - title: The Girl That Got Stuck in the Wall Ch.11/11
     author: gaehoju
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/304474.jpg

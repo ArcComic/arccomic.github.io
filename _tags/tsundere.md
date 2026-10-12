@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "tsundere"
-work_count: 27
+work_count: 28
 works:
+  - title: Nibun no Yuudou | Half Seduction
+    author: chicke-iii
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/298547.jpg
+    rating: 0.0
+    date: '2026-10-12'
+    code: 298547
+    url: /works/298547/
   - title: Ore no Osananajimi ga Uza Kawaii!! | My Childhood Friend Is Annoyingly Cute!!
     author: mataro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/369139.jpg

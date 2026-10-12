@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big breasts"
-work_count: 1172
+work_count: 1174
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -243,6 +243,13 @@ works:
     date: '2026-10-09'
     code: 297834
     url: /works/297834/
+  - title: Nibun no Yuudou | Half Seduction
+    author: chicke-iii
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/298547.jpg
+    rating: 0.0
+    date: '2026-10-12'
+    code: 298547
+    url: /works/298547/
   - title: Sakura Shunin wa Dekiru Hito
     author: yoshiura-kazuya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/302117.jpg
@@ -8663,6 +8670,14 @@ works:
     date: '2026-10-10'
     code: 686538
     url: /works/686538/
+  - title: Mukishitsu Gal to Ama Ama na Renai + Omake|  My Sweet Romance with an Emotionless
+      Gal + Bonus
+    author: takano-tomohiro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686737.jpg
+    rating: 0.0
+    date: '2026-10-12'
+    code: 686737
+    url: /works/686737/
   - title: Hottokenaino
     author: hara-shigeyuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/77864.jpg

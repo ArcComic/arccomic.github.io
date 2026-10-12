@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "short-haired female"
-work_count: 56
+work_count: 57
 works:
   - title: Onee-chan ga Ecchi na Koto bakka Suru kara... | My older sister only does
       obscene things...
@@ -437,4 +437,12 @@ works:
     date: '2026-09-29'
     code: 684798
     url: /works/684798/
+  - title: Mukishitsu Gal to Ama Ama na Renai + Omake|  My Sweet Romance with an Emotionless
+      Gal + Bonus
+    author: takano-tomohiro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686737.jpg
+    rating: 0.0
+    date: '2026-10-12'
+    code: 686737
+    url: /works/686737/
 ---

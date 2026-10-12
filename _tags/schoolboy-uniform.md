@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "schoolboy uniform"
-work_count: 103
+work_count: 104
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -752,6 +752,14 @@ works:
     date: '2026-10-03'
     code: 685785
     url: /works/685785/
+  - title: Mukishitsu Gal to Ama Ama na Renai + Omake|  My Sweet Romance with an Emotionless
+      Gal + Bonus
+    author: takano-tomohiro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686737.jpg
+    rating: 0.0
+    date: '2026-10-12'
+    code: 686737
+    url: /works/686737/
   - title: Jokyoushi - Hot For Teachers | Female Teachers
     author: drill-murata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/81375.jpg

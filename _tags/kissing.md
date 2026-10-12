@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "kissing"
-work_count: 388
+work_count: 390
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -24,6 +24,13 @@ works:
     date: '2026-09-25'
     code: 215019
     url: /works/215019/
+  - title: Nibun no Yuudou | Half Seduction
+    author: chicke-iii
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/298547.jpg
+    rating: 0.0
+    date: '2026-10-12'
+    code: 298547
+    url: /works/298547/
   - title: Akarui Kazoku Seikatsu
     author: pistonring-nishizawa
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/304307.jpg
@@ -2922,4 +2929,12 @@ works:
     date: '2026-10-11'
     code: 686534
     url: /works/686534/
+  - title: Mukishitsu Gal to Ama Ama na Renai + Omake|  My Sweet Romance with an Emotionless
+      Gal + Bonus
+    author: takano-tomohiro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686737.jpg
+    rating: 0.0
+    date: '2026-10-12'
+    code: 686737
+    url: /works/686737/
 ---

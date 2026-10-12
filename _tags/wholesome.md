@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "wholesome"
-work_count: 206
+work_count: 208
 works:
   - title: FLUFFY LAUGH GIRL
     author: shibasaki-syouzi
@@ -31,6 +31,13 @@ works:
     date: '2026-09-04'
     code: 294902
     url: /works/294902/
+  - title: Nibun no Yuudou | Half Seduction
+    author: chicke-iii
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/298547.jpg
+    rating: 0.0
+    date: '2026-10-12'
+    code: 298547
+    url: /works/298547/
   - title: Ore no Hajimete wa Senpai ni Ubawaretai!! | I Want Senpai to Take My First
       Time!!
     author: saemon
@@ -1542,4 +1549,12 @@ works:
     date: '2026-10-01'
     code: 685147
     url: /works/685147/
+  - title: Mukishitsu Gal to Ama Ama na Renai + Omake|  My Sweet Romance with an Emotionless
+      Gal + Bonus
+    author: takano-tomohiro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686737.jpg
+    rating: 0.0
+    date: '2026-10-12'
+    code: 686737
+    url: /works/686737/
 ---

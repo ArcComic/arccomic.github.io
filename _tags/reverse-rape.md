@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "reverse rape"
-work_count: 20
+work_count: 21
 works:
   - title: Hajimete Kanojo Ga Dekita No Ni
     author: unknown
@@ -148,4 +148,12 @@ works:
     date: '2026-09-17'
     code: 681899
     url: /works/681899/
+  - title: Mukishitsu Gal to Ama Ama na Renai + Omake|  My Sweet Romance with an Emotionless
+      Gal + Bonus
+    author: takano-tomohiro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686737.jpg
+    rating: 0.0
+    date: '2026-10-12'
+    code: 686737
+    url: /works/686737/
 ---
