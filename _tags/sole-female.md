@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole female"
-work_count: 1018
+work_count: 1021
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -2568,6 +2568,13 @@ works:
     date: '2026-09-26'
     code: 583437
     url: /works/583437/
+  - title: Senpai-chan wa Tayoraretai! | Senpai-chan Wants to be Relied On!
+    author: memeyu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/583990.jpg
+    rating: 0.0
+    date: '2026-10-12'
+    code: 583990
+    url: /works/583990/
   - title: Chiguhagu Kanojo | Mismatched Girlfriend
     author: natsuo-tsunao
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/584260.jpg
@@ -2698,6 +2705,14 @@ works:
     date: '2026-09-18'
     code: 590068
     url: /works/590068/
+  - title: Onna Gal Joushi to Furin suru Hanashi 2 | A Story About Having An Affair
+      With My Gal Boss 2
+    author: nakamo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/591165.jpg
+    rating: 0.0
+    date: '2026-10-12'
+    code: 591165
+    url: /works/591165/
   - title: Kanojo wa Boku no Taieki de Ugoiteiru Final Phase - Her Body is Driven by
       My Love [English] =NSS=
     author: nagareboshi
@@ -4981,6 +4996,13 @@ works:
     date: '2026-07-05'
     code: 661367
     url: /works/661367/
+  - title: Makoto to Training! 2
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/661742.jpg
+    rating: 4.1
+    date: '2026-10-12'
+    code: 661742
+    url: /works/661742/
   - title: Shokushu Flower Shop no Onee-san
     author: dozamura
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/661796.jpg

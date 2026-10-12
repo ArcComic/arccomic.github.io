@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "gyaru"
-work_count: 130
+work_count: 131
 works:
   - title: GalPa!
     author: sakagami-umi
@@ -185,6 +185,14 @@ works:
     date: '2026-04-19'
     code: 580427
     url: /works/580427/
+  - title: Onna Gal Joushi to Furin suru Hanashi 2 | A Story About Having An Affair
+      With My Gal Boss 2
+    author: nakamo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/591165.jpg
+    rating: 0.0
+    date: '2026-10-12'
+    code: 591165
+    url: /works/591165/
   - title: Onna Gal Joushi to Furin suru Hanashi 3 | Having an Affair with My Blonde
       Bombshell Boss – Part 3
     author: nakamo

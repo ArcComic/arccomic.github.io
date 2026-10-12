@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big breasts"
-work_count: 1166
+work_count: 1168
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -2368,6 +2368,13 @@ works:
     date: '2026-09-13'
     code: 583637
     url: /works/583637/
+  - title: Senpai-chan wa Tayoraretai! | Senpai-chan Wants to be Relied On!
+    author: memeyu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/583990.jpg
+    rating: 0.0
+    date: '2026-10-12'
+    code: 583990
+    url: /works/583990/
   - title: Shinchou 211 cm no Jirai-kei Joshi ni Nerawarete mou Nigerarenai 2
     author: kinntarou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/584135.jpg
@@ -2513,6 +2520,14 @@ works:
     date: '2026-05-01'
     code: 591112
     url: /works/591112/
+  - title: Onna Gal Joushi to Furin suru Hanashi 2 | A Story About Having An Affair
+      With My Gal Boss 2
+    author: nakamo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/591165.jpg
+    rating: 0.0
+    date: '2026-10-12'
+    code: 591165
+    url: /works/591165/
   - title: Kanojo wa Boku no Taieki de Ugoiteiru Final Phase - Her Body is Driven by
       My Love [English] =NSS=
     author: nagareboshi

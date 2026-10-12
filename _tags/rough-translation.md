@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "rough translation"
-work_count: 683
+work_count: 684
 works:
   - title: Boku no Shiranai Kimi no Kao
     author: utsutsu-minoru
@@ -2440,6 +2440,13 @@ works:
     date: '2026-07-06'
     code: 661664
     url: /works/661664/
+  - title: Makoto to Training! 2
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/661742.jpg
+    rating: 4.1
+    date: '2026-10-12'
+    code: 661742
+    url: /works/661742/
   - title: Shokushu Flower Shop no Onee-san
     author: dozamura
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/661796.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "replaced"
-work_count: 5
+work_count: 6
 works:
   - title: Netoriai -Watashi no Hou ga, Kimi ga Suki- | NTR Love -I'm The One Who Loves
       You-
@@ -11,6 +11,13 @@ works:
     date: '2026-09-12'
     code: 387648
     url: /works/387648/
+  - title: Senpai-chan wa Tayoraretai! | Senpai-chan Wants to be Relied On!
+    author: memeyu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/583990.jpg
+    rating: 0.0
+    date: '2026-10-12'
+    code: 583990
+    url: /works/583990/
   - title: Karisome Immoralism | Temporary Immoralism
     author: memeyu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/596275.jpg

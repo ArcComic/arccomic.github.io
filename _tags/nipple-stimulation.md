@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "nipple stimulation"
-work_count: 158
+work_count: 159
 works:
   - title: Hypnotic Domination ~ The Fall of Tennis Club Ace ~
     author: danchino
@@ -184,6 +184,13 @@ works:
     date: '2026-04-19'
     code: 580427
     url: /works/580427/
+  - title: Senpai-chan wa Tayoraretai! | Senpai-chan Wants to be Relied On!
+    author: memeyu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/583990.jpg
+    rating: 0.0
+    date: '2026-10-12'
+    code: 583990
+    url: /works/583990/
   - title: 'Moto Mahou Shoujo no Shigoto Hanashi Ao Zenjitsutan | Former Magical Girl
       Blue''s Work: The Prequel'
     author: zhen-lu

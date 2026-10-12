@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "fingering"
-work_count: 188
+work_count: 189
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -477,6 +477,13 @@ works:
     date: '2026-09-26'
     code: 581946
     url: /works/581946/
+  - title: Senpai-chan wa Tayoraretai! | Senpai-chan Wants to be Relied On!
+    author: memeyu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/583990.jpg
+    rating: 0.0
+    date: '2026-10-12'
+    code: 583990
+    url: /works/583990/
   - title: Ore ga Hoshikatta Mono wa Kin Medal Yori Namami Onaho Datta no Kamoshirenai｜Maybe
       what I Wanted was a Flesh and Blood Masturbator Rather than a Gold Medal
     author: carburetor

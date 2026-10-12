@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "armpit licking"
-work_count: 15
+work_count: 16
 works:
   - title: Homestay-chu no Doitsu Musume ga Issho ni Furo ni Haitte Kuru Wake | The
       Reason Why a German Girl Takes a Bath Together With Me on Her Homestay
@@ -71,6 +71,13 @@ works:
     date: '2026-05-10'
     code: 649125
     url: /works/649125/
+  - title: Makoto to Training! 2
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/661742.jpg
+    rating: 4.1
+    date: '2026-10-12'
+    code: 661742
+    url: /works/661742/
   - title: Tsuretette | Ghosts Boy Meets Girl
     author: kidoban
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/663745.jpg

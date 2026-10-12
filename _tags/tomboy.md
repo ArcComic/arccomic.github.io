@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "tomboy"
-work_count: 80
+work_count: 81
 works:
   - title: Kizashi
     author: yoshiura-kazuya
@@ -381,6 +381,13 @@ works:
     date: '2026-07-05'
     code: 660869
     url: /works/660869/
+  - title: Makoto to Training! 2
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/661742.jpg
+    rating: 4.1
+    date: '2026-10-12'
+    code: 661742
+    url: /works/661742/
   - title: Ketsusenryaku | The Ass Strategy
     author: ariga-tou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662370.jpg

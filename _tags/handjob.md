@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "handjob"
-work_count: 150
+work_count: 151
 works:
   - title: Rin to P
     author: simon
@@ -776,6 +776,13 @@ works:
     date: '2026-09-13'
     code: 657607
     url: /works/657607/
+  - title: Makoto to Training! 2
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/661742.jpg
+    rating: 4.1
+    date: '2026-10-12'
+    code: 661742
+    url: /works/661742/
   - title: Boshi Jouji ~Daisuki na Okaa-san to Konya Majiwaru~ - MOTHER AND SON LOVE
       AFFAIR | A Mother's Love ~Tonight I Become One With The Mom I Love~ Part 2
     author: shiono-kou

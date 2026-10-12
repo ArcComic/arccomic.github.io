@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "smell"
-work_count: 26
+work_count: 27
 works:
   - title: Natsu Jiru Ch. 1-2
     author: sena-youtarou
@@ -129,6 +129,13 @@ works:
     date: '2026-07-06'
     code: 661586
     url: /works/661586/
+  - title: Makoto to Training! 2
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/661742.jpg
+    rating: 4.1
+    date: '2026-10-12'
+    code: 661742
+    url: /works/661742/
   - title: Welcome to the Weak Masochist Volleyball Club
     author: hagakure-kurage
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/664758.jpg

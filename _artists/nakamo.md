@@ -1,8 +1,15 @@
 ---
 layout: artist
 artist_name: "nakamo"
-work_count: 5
+work_count: 6
 works:
+  - title: Onna Gal Joushi to Furin suru Hanashi 2 | A Story About Having An Affair
+      With My Gal Boss 2
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/591165.jpg
+    rating: 0.0
+    date: '2026-10-12'
+    code: 591165
+    url: /works/591165/
   - title: Onna Gal Joushi to Furin suru Hanashi 3 | Having an Affair with My Blonde
       Bombshell Boss – Part 3
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/599165.jpg
