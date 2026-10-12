@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "nurse"
-work_count: 18
+work_count: 19
 works:
   - title: Chibo Soukan Ch.1-3
     author: natsu-no-oyatsu
@@ -92,6 +92,13 @@ works:
     date: '2026-08-28'
     code: 676149
     url: /works/676149/
+  - title: Yayoi to Issho 3
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/677284.jpg
+    rating: 5.0
+    date: '2026-10-12'
+    code: 677284
+    url: /works/677284/
   - title: Misao no Keiyaku - CHAPTER 1-12
     author: yamanouchi-yuu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681510.jpg

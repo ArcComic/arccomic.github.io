@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "producer"
-work_count: 57
+work_count: 60
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -122,6 +122,13 @@ works:
     date: '2026-10-08'
     code: 287467
     url: /works/287467/
+  - title: Watashi no Producer-san
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/288439.jpg
+    rating: 0.0
+    date: '2026-10-12'
+    code: 288439
+    url: /works/288439/
   - title: Itadakimasu Anata-sama | I Crave You
     author: tsurui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/289785.jpg
@@ -270,6 +277,13 @@ works:
     date: '2026-10-01'
     code: 628218
     url: /works/628218/
+  - title: Anta no Koto nanka
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642984.jpg
+    rating: 0.0
+    date: '2026-10-12'
+    code: 642984
+    url: /works/642984/
   - title: Suki toka Iu Wake...
     author: tsurui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642985.jpg
@@ -378,6 +392,13 @@ works:
     date: '2026-08-29'
     code: 676439
     url: /works/676439/
+  - title: Yayoi to Issho 3
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/677284.jpg
+    rating: 5.0
+    date: '2026-10-12'
+    code: 677284
+    url: /works/677284/
   - title: Miki ga Mama ni Natte Ageru
     author: tsurui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678628.jpg

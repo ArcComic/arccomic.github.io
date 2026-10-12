@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "painted nails"
-work_count: 45
+work_count: 46
 works:
   - title: Rakki Taishyaku
     author: fushoku
@@ -187,6 +187,13 @@ works:
     date: '2026-10-12'
     code: 641871
     url: /works/641871/
+  - title: Anta no Koto nanka
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642984.jpg
+    rating: 0.0
+    date: '2026-10-12'
+    code: 642984
+    url: /works/642984/
   - title: Suki toka Iu Wake...
     author: tsurui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642985.jpg

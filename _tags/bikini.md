@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bikini"
-work_count: 85
+work_count: 86
 works:
   - title: Kizashi
     author: yoshiura-kazuya
@@ -274,6 +274,13 @@ works:
     date: '2026-08-24'
     code: 642588
     url: /works/642588/
+  - title: Anta no Koto nanka
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642984.jpg
+    rating: 0.0
+    date: '2026-10-12'
+    code: 642984
+    url: /works/642984/
   - title: Imouto Haramasenai to Derarenai Shima 2
     author: airandou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/643375.jpg

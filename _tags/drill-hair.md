@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "drill hair"
-work_count: 5
+work_count: 6
 works:
   - title: Yayoi to Issho 4
     author: tsurui
@@ -39,4 +39,11 @@ works:
     date: '2026-09-27'
     code: 615333
     url: /works/615333/
+  - title: Yayoi to Issho 3
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/677284.jpg
+    rating: 5.0
+    date: '2026-10-12'
+    code: 677284
+    url: /works/677284/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "harness"
-work_count: 7
+work_count: 8
 works:
   - title: Boshi Chika Resort | Mother and Son Underground Resort
     author: emori-uki
@@ -17,6 +17,13 @@ works:
     date: '2026-10-02'
     code: 641858
     url: /works/641858/
+  - title: Anta no Koto nanka
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642984.jpg
+    rating: 0.0
+    date: '2026-10-12'
+    code: 642984
+    url: /works/642984/
   - title: Shinyuu Tatakitsubushi Kyousou Shiiku Seikatsu | A Life in Captivity The
       Competition to Break My Best Friend
     author: group

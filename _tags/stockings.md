@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "stockings"
-work_count: 238
+work_count: 239
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -1314,6 +1314,13 @@ works:
     date: '2026-08-31'
     code: 677234
     url: /works/677234/
+  - title: Yayoi to Issho 3
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/677284.jpg
+    rating: 5.0
+    date: '2026-10-12'
+    code: 677284
+    url: /works/677284/
   - title: The story of how the person I thought was a man on social media turned out
       to be a tall woman who was unfriendly but would let me do whatever I wanted to
       her

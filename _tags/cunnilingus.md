@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "cunnilingus"
-work_count: 177
+work_count: 178
 works:
   - title: Love Approach
     author: hanafuda-sakurano
@@ -24,6 +24,13 @@ works:
     date: '2026-10-09'
     code: 283723
     url: /works/283723/
+  - title: Watashi no Producer-san
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/288439.jpg
+    rating: 0.0
+    date: '2026-10-12'
+    code: 288439
+    url: /works/288439/
   - title: Oppai na Natsuyasumi 2 | The Summer Break of Boobs 2
     author: higashino-mikan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/292454.jpg

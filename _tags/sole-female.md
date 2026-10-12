@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole female"
-work_count: 1029
+work_count: 1032
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -257,6 +257,13 @@ works:
     date: '2026-10-08'
     code: 287467
     url: /works/287467/
+  - title: Watashi no Producer-san
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/288439.jpg
+    rating: 0.0
+    date: '2026-10-12'
+    code: 288439
+    url: /works/288439/
   - title: Sensei wa Shougakusei ga Suki | Sensei Loves Elementary Schoolers
     author: fuyuno-mikan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/289094.jpg
@@ -3904,6 +3911,13 @@ works:
     date: '2026-04-27'
     code: 642793
     url: /works/642793/
+  - title: Anta no Koto nanka
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642984.jpg
+    rating: 0.0
+    date: '2026-10-12'
+    code: 642984
+    url: /works/642984/
   - title: Suki toka Iu Wake...
     author: tsurui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642985.jpg
@@ -6047,6 +6061,13 @@ works:
     date: '2026-08-31'
     code: 677257
     url: /works/677257/
+  - title: Yayoi to Issho 3
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/677284.jpg
+    rating: 5.0
+    date: '2026-10-12'
+    code: 677284
+    url: /works/677284/
   - title: My childhood friend, the “black gal,” who's surprisingly easy to sway
     author: zarameccho
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/677418.jpg

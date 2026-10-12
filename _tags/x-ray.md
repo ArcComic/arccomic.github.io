@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "x-ray"
-work_count: 340
+work_count: 342
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -46,6 +46,13 @@ works:
     date: '2026-10-12'
     code: 285110
     url: /works/285110/
+  - title: Watashi no Producer-san
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/288439.jpg
+    rating: 0.0
+    date: '2026-10-12'
+    code: 288439
+    url: /works/288439/
   - title: Ritsuko wa Kozukuri ga Shitai
     author: yokkora
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/297834.jpg
@@ -2042,6 +2049,13 @@ works:
     date: '2026-08-28'
     code: 676013
     url: /works/676013/
+  - title: Yayoi to Issho 3
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/677284.jpg
+    rating: 5.0
+    date: '2026-10-12'
+    code: 677284
+    url: /works/677284/
   - title: Nijigen Otaku no Ore ga Tenkou Shite Kita Kyonyuu Idol ni Otosareru made
       - A 2D Otaku Falls for the Curvy Idol Transfer Student | How I, a 2D-Obsessed
       Otaku, Fell for the Busty Idol Who Transferred to My School
