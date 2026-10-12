@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "translated"
-work_count: 1668
+work_count: 1670
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -587,7 +587,7 @@ works:
   - title: Makoto to Ofuro | Bathtime with Makoto
     author: tsurui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/320439.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-10-11'
     code: 320439
     url: /works/320439/
@@ -622,7 +622,7 @@ works:
   - title: A Wonderful New World Ch.35/?
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/325061.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-10-11'
     code: 325061
     url: /works/325061/
@@ -874,7 +874,7 @@ works:
   - title: Leon to Onsen
     author: tsurui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/364923.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-10-11'
     code: 364923
     url: /works/364923/
@@ -2010,7 +2010,7 @@ works:
       ❤ Falls as a Female ❤ Gets Pregnant ❤
     author: emilio
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/492104.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-11'
     code: 492104
     url: /works/492104/
@@ -3438,6 +3438,13 @@ works:
     date: '2026-07-17'
     code: 564042
     url: /works/564042/
+  - title: Only Loves You ♡ Doll
+    author: memeyu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/564656.jpg
+    rating: 0.0
+    date: '2026-10-11'
+    code: 564656
+    url: /works/564656/
   - title: Onna Kishi Rize wa Koyoi mo Maotoko ni Dakareru 3
     author: akire
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/564863.jpg
@@ -9757,7 +9764,7 @@ works:
   - title: I WILL make a single mother my wife 1
     author: onizuka-chris
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678905.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-10-11'
     code: 678905
     url: /works/678905/
@@ -12150,6 +12157,14 @@ works:
     date: '2026-10-11'
     code: 686369
     url: /works/686369/
+  - title: Onna Gal Joushi to Furin suru Hanashi 1 | Having an Affair with My Blonde
+      Bombshell Boss – Part 1
+    author: nakamo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686371.jpg
+    rating: 0.0
+    date: '2026-10-11'
+    code: 686371
+    url: /works/686371/
   - title: School Hypnosis ~The Cheeky Busty Gyaru Who Bullies me is Actually my Sexual
       Relief Pet Lol~ | Gakuen Saimin ~Ore o Ijimeru Namaiki Bakunyuu Gal, Jitsu wa
       Ore no Seishori Pet na Ken w~

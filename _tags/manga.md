@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "manga"
-work_count: 389
+work_count: 390
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -294,7 +294,7 @@ works:
   - title: A Wonderful New World Ch.35/?
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/325061.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-10-11'
     code: 325061
     url: /works/325061/
@@ -1121,6 +1121,13 @@ works:
     date: '2026-09-25'
     code: 562201
     url: /works/562201/
+  - title: Only Loves You ♡ Doll
+    author: memeyu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/564656.jpg
+    rating: 0.0
+    date: '2026-10-11'
+    code: 564656
+    url: /works/564656/
   - title: Cocoa-chan no Jiraikei Chuuihou
     author: uni-toshiki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/568923.jpg

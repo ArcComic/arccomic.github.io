@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "huge breasts"
-work_count: 108
+work_count: 109
 works:
   - title: Mama Naranai Onna-tachi Ch. 1-2
     author: otochichi
@@ -406,6 +406,13 @@ works:
     date: '2026-09-30'
     code: 660241
     url: /works/660241/
+  - title: My Daughter-in-Law won't stop seducing me !
+    author: zetto
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/660337.jpg
+    rating: 0.0
+    date: '2026-10-11'
+    code: 660337
+    url: /works/660337/
   - title: Zuriniku paiholl
     author: '41'
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/660465.jpg

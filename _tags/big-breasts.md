@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big breasts"
-work_count: 1158
+work_count: 1161
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -333,7 +333,7 @@ works:
   - title: A Wonderful New World Ch.35/?
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/325061.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-10-11'
     code: 325061
     url: /works/325061/
@@ -1162,7 +1162,7 @@ works:
       ❤ Falls as a Female ❤ Gets Pregnant ❤
     author: emilio
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/492104.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-11'
     code: 492104
     url: /works/492104/
@@ -2109,6 +2109,13 @@ works:
     date: '2026-08-25'
     code: 563890
     url: /works/563890/
+  - title: Only Loves You ♡ Doll
+    author: memeyu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/564656.jpg
+    rating: 0.0
+    date: '2026-10-11'
+    code: 564656
+    url: /works/564656/
   - title: Onna Kishi Rize wa Koyoi mo Maotoko ni Dakareru 3
     author: akire
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/564863.jpg
@@ -5250,6 +5257,13 @@ works:
     date: '2026-09-30'
     code: 660241
     url: /works/660241/
+  - title: My Daughter-in-Law won't stop seducing me !
+    author: zetto
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/660337.jpg
+    rating: 0.0
+    date: '2026-10-11'
+    code: 660337
+    url: /works/660337/
   - title: Imouto ga Ore no Kanojo!? 2-haku 3-ka no Ecchi na Kankei | My Sister is My
       Girlfriend!? Sexual Relationship for Two Nights and Three Days
     author: katagiri-kaneharu
@@ -6772,7 +6786,7 @@ works:
   - title: I WILL make a single mother my wife 1
     author: onizuka-chris
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678905.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-10-11'
     code: 678905
     url: /works/678905/
@@ -8481,6 +8495,14 @@ works:
     date: '2026-10-11'
     code: 686369
     url: /works/686369/
+  - title: Onna Gal Joushi to Furin suru Hanashi 1 | Having an Affair with My Blonde
+      Bombshell Boss – Part 1
+    author: nakamo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686371.jpg
+    rating: 0.0
+    date: '2026-10-11'
+    code: 686371
+    url: /works/686371/
   - title: School Hypnosis ~The Cheeky Busty Gyaru Who Bullies me is Actually my Sexual
       Relief Pet Lol~ | Gakuen Saimin ~Ore o Ijimeru Namaiki Bakunyuu Gal, Jitsu wa
       Ore no Seishori Pet na Ken w~

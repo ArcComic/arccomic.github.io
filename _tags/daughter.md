@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "daughter"
-work_count: 30
+work_count: 31
 works:
   - title: Kindan no Hatemitsu
     author: ryuuta
@@ -126,6 +126,13 @@ works:
     date: '2026-07-11'
     code: 651309
     url: /works/651309/
+  - title: My Daughter-in-Law won't stop seducing me !
+    author: zetto
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/660337.jpg
+    rating: 0.0
+    date: '2026-10-11'
+    code: 660337
+    url: /works/660337/
   - title: Yokkyuu Fuman na Musuko no Tsuma wa Gifu no Chinpo de Mesu ni Naru
     author: carburetor
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662945.jpg

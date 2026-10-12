@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "old man"
-work_count: 52
+work_count: 53
 works:
   - title: Adoration
     author: kishizuka-kenji
@@ -277,6 +277,13 @@ works:
     date: '2026-07-08'
     code: 656419
     url: /works/656419/
+  - title: My Daughter-in-Law won't stop seducing me !
+    author: zetto
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/660337.jpg
+    rating: 0.0
+    date: '2026-10-11'
+    code: 660337
+    url: /works/660337/
   - title: Yokkyuu Fuman na Musuko no Tsuma wa Gifu no Chinpo de Mesu ni Naru
     author: carburetor
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662945.jpg

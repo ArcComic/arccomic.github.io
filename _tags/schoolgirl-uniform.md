@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "schoolgirl uniform"
-work_count: 349
+work_count: 350
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -653,6 +653,13 @@ works:
     date: '2026-09-28'
     code: 560392
     url: /works/560392/
+  - title: Only Loves You ♡ Doll
+    author: memeyu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/564656.jpg
+    rating: 0.0
+    date: '2026-10-11'
+    code: 564656
+    url: /works/564656/
   - title: Walking back home in the winter with my childhood friend
     author: shimetsuki-tanki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/565301.jpg

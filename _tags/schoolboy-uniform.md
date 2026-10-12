@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "schoolboy uniform"
-work_count: 100
+work_count: 101
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -235,6 +235,13 @@ works:
     date: '2026-02-26'
     code: 533325
     url: /works/533325/
+  - title: Only Loves You ♡ Doll
+    author: memeyu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/564656.jpg
+    rating: 0.0
+    date: '2026-10-11'
+    code: 564656
+    url: /works/564656/
   - title: Zero Kyori no Manazashi
     author: momoko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/578371.jpg

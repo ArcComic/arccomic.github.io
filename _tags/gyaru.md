@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "gyaru"
-work_count: 127
+work_count: 128
 works:
   - title: GalPa!
     author: sakagami-umi
@@ -932,6 +932,14 @@ works:
     date: '2026-10-05'
     code: 686029
     url: /works/686029/
+  - title: Onna Gal Joushi to Furin suru Hanashi 1 | Having an Affair with My Blonde
+      Bombshell Boss – Part 1
+    author: nakamo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686371.jpg
+    rating: 0.0
+    date: '2026-10-11'
+    code: 686371
+    url: /works/686371/
   - title: School Hypnosis ~The Cheeky Busty Gyaru Who Bullies me is Actually my Sexual
       Relief Pet Lol~ | Gakuen Saimin ~Ore o Ijimeru Namaiki Bakunyuu Gal, Jitsu wa
       Ore no Seishori Pet na Ken w~

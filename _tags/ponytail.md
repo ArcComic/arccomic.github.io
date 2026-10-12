@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "ponytail"
-work_count: 175
+work_count: 176
 works:
   - title: Ami Mami Mind 5
     author: tsurui
@@ -55,7 +55,7 @@ works:
   - title: Leon to Onsen
     author: tsurui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/364923.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-10-11'
     code: 364923
     url: /works/364923/
@@ -785,6 +785,13 @@ works:
     date: '2026-09-13'
     code: 657607
     url: /works/657607/
+  - title: My Daughter-in-Law won't stop seducing me !
+    author: zetto
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/660337.jpg
+    rating: 0.0
+    date: '2026-10-11'
+    code: 660337
+    url: /works/660337/
   - title: Nige Chin Complex ~Aza to Kyonyuu Joshi no Chouhatsu ni Bokki Kakushi Nigeta
       Zako ww~
     author: kakun

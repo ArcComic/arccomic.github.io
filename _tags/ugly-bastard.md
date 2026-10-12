@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "ugly bastard"
-work_count: 35
+work_count: 36
 works:
   - title: A-part | Apartment
     author: zero-no-mono
@@ -168,6 +168,13 @@ works:
     date: '2026-09-30'
     code: 660241
     url: /works/660241/
+  - title: My Daughter-in-Law won't stop seducing me !
+    author: zetto
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/660337.jpg
+    rating: 0.0
+    date: '2026-10-11'
+    code: 660337
+    url: /works/660337/
   - title: Shinyuu Tatakitsubushi Kyousou Shiiku Seikatsu | A Life in Captivity The
       Competition to Break My Best Friend
     author: group

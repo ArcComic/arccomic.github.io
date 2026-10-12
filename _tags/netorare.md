@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "netorare"
-work_count: 442
+work_count: 443
 works:
   - title: Kousa suru Osu to Mesu | Male and Female Crossing
     author: ootsuka-kotora
@@ -2085,6 +2085,13 @@ works:
     date: '2026-09-20'
     code: 659204
     url: /works/659204/
+  - title: My Daughter-in-Law won't stop seducing me !
+    author: zetto
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/660337.jpg
+    rating: 0.0
+    date: '2026-10-11'
+    code: 660337
+    url: /works/660337/
   - title: Nige Chin Complex ~Aza to Kyonyuu Joshi no Chouhatsu ni Bokki Kakushi Nigeta
       Zako ww~
     author: kakun

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "fingering"
-work_count: 183
+work_count: 184
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -154,7 +154,7 @@ works:
       ❤ Falls as a Female ❤ Gets Pregnant ❤
     author: emilio
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/492104.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-11'
     code: 492104
     url: /works/492104/
@@ -1353,6 +1353,14 @@ works:
     date: '2026-10-09'
     code: 686249
     url: /works/686249/
+  - title: Onna Gal Joushi to Furin suru Hanashi 1 | Having an Affair with My Blonde
+      Bombshell Boss – Part 1
+    author: nakamo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686371.jpg
+    rating: 0.0
+    date: '2026-10-11'
+    code: 686371
+    url: /works/686371/
   - title: Netorare Bokukko Mama | Netorare'd Tomboyish Mom
     author: dozamura
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686511.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "pixie cut"
-work_count: 108
+work_count: 109
 works:
   - title: Akarui Kazoku Seikatsu
     author: pistonring-nishizawa
@@ -13,7 +13,7 @@ works:
   - title: Makoto to Ofuro | Bathtime with Makoto
     author: tsurui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/320439.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-10-11'
     code: 320439
     url: /works/320439/
@@ -783,6 +783,14 @@ works:
     date: '2026-10-09'
     code: 686249
     url: /works/686249/
+  - title: Onna Gal Joushi to Furin suru Hanashi 1 | Having an Affair with My Blonde
+      Bombshell Boss – Part 1
+    author: nakamo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686371.jpg
+    rating: 0.0
+    date: '2026-10-11'
+    code: 686371
+    url: /works/686371/
   - title: Mothers are Women Too 5!
     author: siberian-hahasky
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686446.jpg

@@ -132,7 +132,7 @@ works:
   - title: Makoto to Ofuro | Bathtime with Makoto
     author: tsurui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/320439.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-10-11'
     code: 320439
     url: /works/320439/
@@ -174,7 +174,7 @@ works:
   - title: Leon to Onsen
     author: tsurui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/364923.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-10-11'
     code: 364923
     url: /works/364923/

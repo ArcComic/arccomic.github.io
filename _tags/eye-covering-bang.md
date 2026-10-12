@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "eye-covering bang"
-work_count: 72
+work_count: 73
 works:
   - title: Kanojo no Amai Jiraishuu
     author: jirou
@@ -542,4 +542,12 @@ works:
     date: '2026-10-05'
     code: 685928
     url: /works/685928/
+  - title: Onna Gal Joushi to Furin suru Hanashi 1 | Having an Affair with My Blonde
+      Bombshell Boss – Part 1
+    author: nakamo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686371.jpg
+    rating: 0.0
+    date: '2026-10-11'
+    code: 686371
+    url: /works/686371/
 ---

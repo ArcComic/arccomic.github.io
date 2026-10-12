@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big ass"
-work_count: 250
+work_count: 252
 works:
   - title: My Care Lady Ch. 1
     author: sugi-g
@@ -78,7 +78,7 @@ works:
   - title: A Wonderful New World Ch.35/?
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/325061.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-10-11'
     code: 325061
     url: /works/325061/
@@ -1074,6 +1074,13 @@ works:
     date: '2026-09-29'
     code: 658697
     url: /works/658697/
+  - title: My Daughter-in-Law won't stop seducing me !
+    author: zetto
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/660337.jpg
+    rating: 0.0
+    date: '2026-10-11'
+    code: 660337
+    url: /works/660337/
   - title: Zuriniku paiholl
     author: '41'
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/660465.jpg
@@ -1836,6 +1843,14 @@ works:
     date: '2026-10-11'
     code: 686369
     url: /works/686369/
+  - title: Onna Gal Joushi to Furin suru Hanashi 1 | Having an Affair with My Blonde
+      Bombshell Boss – Part 1
+    author: nakamo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686371.jpg
+    rating: 0.0
+    date: '2026-10-11'
+    code: 686371
+    url: /works/686371/
   - title: School Hypnosis ~The Cheeky Busty Gyaru Who Bullies me is Actually my Sexual
       Relief Pet Lol~ | Gakuen Saimin ~Ore o Ijimeru Namaiki Bakunyuu Gal, Jitsu wa
       Ore no Seishori Pet na Ken w~
