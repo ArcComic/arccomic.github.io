@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "wholesome"
-work_count: 205
+work_count: 206
 works:
   - title: FLUFFY LAUGH GIRL
     author: shibasaki-syouzi
@@ -412,6 +412,13 @@ works:
     date: '2026-08-22'
     code: 550948
     url: /works/550948/
+  - title: OUTOTSU Lovemotion! | Uneven Lovemotion!
+    author: memeyu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/551047.jpg
+    rating: 0.0
+    date: '2026-10-12'
+    code: 551047
+    url: /works/551047/
   - title: Automatic Romantic
     author: naganeko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/556036.jpg

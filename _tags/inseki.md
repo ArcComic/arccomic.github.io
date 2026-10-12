@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "inseki"
-work_count: 85
+work_count: 86
 works:
   - title: Imitation Family + Bigibo Hen
     author: tohzai
@@ -32,6 +32,13 @@ works:
     date: '2026-09-29'
     code: 304307
     url: /works/304307/
+  - title: Akiha-sama no Present
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/374589.jpg
+    rating: 0.0
+    date: '2026-10-12'
+    code: 374589
+    url: /works/374589/
   - title: Sayonara Onee-chan | Goodbye Big Sis!
     author: kamitsuki-manmaru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/380273.jpg
@@ -191,14 +198,14 @@ works:
   - title: Karisome Immoralism | Temporary Immoralism
     author: memeyu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/596275.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-10-12'
     code: 596275
     url: /works/596275/
   - title: Hitorijime Love Doll | Love Doll For Mine Only
     author: memeyu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/596622.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-10-12'
     code: 596622
     url: /works/596622/
@@ -411,7 +418,7 @@ works:
   - title: My Daughter-in-Law won't stop seducing me !
     author: zetto
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/660337.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-11'
     code: 660337
     url: /works/660337/

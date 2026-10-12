@@ -206,7 +206,7 @@ works:
   - title: Ritsuko to Stretch!
     author: tsurui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/358363.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-10-12'
     code: 358363
     url: /works/358363/
@@ -915,7 +915,7 @@ works:
       Bombshell Boss – Part 4
     author: nakamo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638495.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-10-12'
     code: 638495
     url: /works/638495/

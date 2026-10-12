@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "incest"
-work_count: 316
+work_count: 317
 works:
   - title: Imitation Family + Bigibo Hen
     author: tohzai
@@ -126,6 +126,13 @@ works:
     date: '2026-09-12'
     code: 373824
     url: /works/373824/
+  - title: Akiha-sama no Present
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/374589.jpg
+    rating: 0.0
+    date: '2026-10-12'
+    code: 374589
+    url: /works/374589/
   - title: Soubo Soukan 2 | Twin mothers incest 2 FULL
     author: nanao-yukiji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/378626.jpg
@@ -751,14 +758,14 @@ works:
   - title: Karisome Immoralism | Temporary Immoralism
     author: memeyu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/596275.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-10-12'
     code: 596275
     url: /works/596275/
   - title: Hitorijime Love Doll | Love Doll For Mine Only
     author: memeyu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/596622.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-10-12'
     code: 596622
     url: /works/596622/
@@ -1543,7 +1550,7 @@ works:
   - title: My Daughter-in-Law won't stop seducing me !
     author: zetto
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/660337.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-11'
     code: 660337
     url: /works/660337/

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bikini"
-work_count: 83
+work_count: 84
 works:
   - title: Kizashi
     author: yoshiura-kazuya
@@ -61,6 +61,13 @@ works:
     date: '2026-07-13'
     code: 358168
     url: /works/358168/
+  - title: Akiha-sama no Present
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/374589.jpg
+    rating: 0.0
+    date: '2026-10-12'
+    code: 374589
+    url: /works/374589/
   - title: Giragira no Beach
     author: shimantogawa
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/397251.jpg

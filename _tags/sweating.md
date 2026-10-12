@@ -166,7 +166,7 @@ works:
   - title: Ritsuko to Stretch!
     author: tsurui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/358363.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-10-12'
     code: 358363
     url: /works/358363/
@@ -485,7 +485,7 @@ works:
   - title: Hitorijime Love Doll | Love Doll For Mine Only
     author: memeyu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/596622.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-10-12'
     code: 596622
     url: /works/596622/

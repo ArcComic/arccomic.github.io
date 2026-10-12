@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "the idolmaster"
-work_count: 64
+work_count: 65
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -118,7 +118,7 @@ works:
   - title: Itadakimasu Anata-sama | I Crave You
     author: tsurui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/289785.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-12'
     code: 289785
     url: /works/289785/
@@ -136,6 +136,13 @@ works:
     date: '2026-10-02'
     code: 314536
     url: /works/314536/
+  - title: Yukiho to yoru no kekkonshiki | Evening Wedding with Yukiho
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/316122.jpg
+    rating: 0.0
+    date: '2026-10-12'
+    code: 316122
+    url: /works/316122/
   - title: Makoto to Ofuro | Bathtime with Makoto
     author: tsurui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/320439.jpg
@@ -174,7 +181,7 @@ works:
   - title: Ritsuko to Stretch!
     author: tsurui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/358363.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-10-12'
     code: 358363
     url: /works/358363/
@@ -231,7 +238,7 @@ works:
   - title: Usone dattara Punchi desu
     author: tsurui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/552330.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-10-12'
     code: 552330
     url: /works/552330/

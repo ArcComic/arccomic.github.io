@@ -430,7 +430,7 @@ works:
   - title: My Daughter-in-Law won't stop seducing me !
     author: zetto
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/660337.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-11'
     code: 660337
     url: /works/660337/

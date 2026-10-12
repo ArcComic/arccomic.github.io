@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole male"
-work_count: 958
+work_count: 961
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -239,7 +239,7 @@ works:
   - title: Itadakimasu Anata-sama | I Crave You
     author: tsurui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/289785.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-12'
     code: 289785
     url: /works/289785/
@@ -358,6 +358,13 @@ works:
     date: '2026-10-02'
     code: 314536
     url: /works/314536/
+  - title: Yukiho to yoru no kekkonshiki | Evening Wedding with Yukiho
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/316122.jpg
+    rating: 0.0
+    date: '2026-10-12'
+    code: 316122
+    url: /works/316122/
   - title: Hajimete Kanojo Ga Dekita No Ni
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/316579.jpg
@@ -540,7 +547,7 @@ works:
   - title: Ritsuko to Stretch!
     author: tsurui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/358363.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-10-12'
     code: 358363
     url: /works/358363/
@@ -622,6 +629,13 @@ works:
     date: '2026-09-28'
     code: 373952
     url: /works/373952/
+  - title: Akiha-sama no Present
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/374589.jpg
+    rating: 0.0
+    date: '2026-10-12'
+    code: 374589
+    url: /works/374589/
   - title: Suki Araba Kareshi no Seiheki o Yugametai! ~Kimi no Aegi ga Mada Tarinai~
     author: meeko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/376189.jpg
@@ -1964,6 +1978,13 @@ works:
     date: '2026-08-22'
     code: 550948
     url: /works/550948/
+  - title: OUTOTSU Lovemotion! | Uneven Lovemotion!
+    author: memeyu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/551047.jpg
+    rating: 0.0
+    date: '2026-10-12'
+    code: 551047
+    url: /works/551047/
   - title: Sashida Sareta Hokenshitsu | How I Offered Her Up In The Nurse's Office
     author: kasumi-kaori
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/551076.jpg
@@ -1981,7 +2002,7 @@ works:
   - title: Usone dattara Punchi desu
     author: tsurui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/552330.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-10-12'
     code: 552330
     url: /works/552330/
@@ -2106,14 +2127,14 @@ works:
   - title: Kojirase Horny Doggy | Aggravating Horny Doggy
     author: memeyu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/563921.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-10-12'
     code: 563921
     url: /works/563921/
   - title: Only Loves You ♡ Doll
     author: memeyu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/564656.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-10-11'
     code: 564656
     url: /works/564656/
@@ -2316,7 +2337,7 @@ works:
   - title: Senpai-chan wa Tayoraretai! | Senpai-chan Wants to be Relied On!
     author: memeyu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/583990.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-10-12'
     code: 583990
     url: /works/583990/
@@ -2462,7 +2483,7 @@ works:
       With My Gal Boss 2
     author: nakamo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/591165.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-12'
     code: 591165
     url: /works/591165/
@@ -2574,7 +2595,7 @@ works:
   - title: Karisome Immoralism | Temporary Immoralism
     author: memeyu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/596275.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-10-12'
     code: 596275
     url: /works/596275/
@@ -2588,7 +2609,7 @@ works:
   - title: Hitorijime Love Doll | Love Doll For Mine Only
     author: memeyu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/596622.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-10-12'
     code: 596622
     url: /works/596622/
@@ -3532,7 +3553,7 @@ works:
       Bombshell Boss – Part 5
     author: nakamo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/641871.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-10-12'
     code: 641871
     url: /works/641871/
@@ -7053,7 +7074,7 @@ works:
       Bombshell Boss – Part 1
     author: nakamo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686371.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-10-11'
     code: 686371
     url: /works/686371/

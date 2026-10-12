@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "doujinshi"
-work_count: 1424
+work_count: 1426
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -198,7 +198,7 @@ works:
   - title: Itadakimasu Anata-sama | I Crave You
     author: tsurui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/289785.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-12'
     code: 289785
     url: /works/289785/
@@ -310,6 +310,13 @@ works:
     date: '2026-03-04'
     code: 315693
     url: /works/315693/
+  - title: Yukiho to yoru no kekkonshiki | Evening Wedding with Yukiho
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/316122.jpg
+    rating: 0.0
+    date: '2026-10-12'
+    code: 316122
+    url: /works/316122/
   - title: Hajimete Kanojo Ga Dekita No Ni
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/316579.jpg
@@ -471,7 +478,7 @@ works:
   - title: Ritsuko to Stretch!
     author: tsurui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/358363.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-10-12'
     code: 358363
     url: /works/358363/
@@ -561,6 +568,13 @@ works:
     date: '2026-09-28'
     code: 373952
     url: /works/373952/
+  - title: Akiha-sama no Present
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/374589.jpg
+    rating: 0.0
+    date: '2026-10-12'
+    code: 374589
+    url: /works/374589/
   - title: Dakara Ore wa Kanojo o Netori Tsuzuketa.
     author: minamihama-yoriko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/375962.jpg
@@ -2482,7 +2496,7 @@ works:
   - title: Usone dattara Punchi desu
     author: tsurui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/552330.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-10-12'
     code: 552330
     url: /works/552330/
@@ -3121,7 +3135,7 @@ works:
       With My Gal Boss 2
     author: nakamo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/591165.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-12'
     code: 591165
     url: /works/591165/
@@ -4577,7 +4591,7 @@ works:
       Bombshell Boss – Part 4
     author: nakamo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638495.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-10-12'
     code: 638495
     url: /works/638495/
@@ -4695,7 +4709,7 @@ works:
       Bombshell Boss – Part 5
     author: nakamo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/641871.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-10-12'
     code: 641871
     url: /works/641871/
@@ -6486,7 +6500,7 @@ works:
   - title: My Daughter-in-Law won't stop seducing me !
     author: zetto
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/660337.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-11'
     code: 660337
     url: /works/660337/
@@ -10418,7 +10432,7 @@ works:
       Bombshell Boss – Part 1
     author: nakamo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686371.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-10-11'
     code: 686371
     url: /works/686371/

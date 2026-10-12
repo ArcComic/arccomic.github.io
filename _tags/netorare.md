@@ -1131,7 +1131,7 @@ works:
       With My Gal Boss 2
     author: nakamo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/591165.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-12'
     code: 591165
     url: /works/591165/
@@ -1535,7 +1535,7 @@ works:
       Bombshell Boss – Part 4
     author: nakamo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638495.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-10-12'
     code: 638495
     url: /works/638495/
@@ -2104,7 +2104,7 @@ works:
   - title: My Daughter-in-Law won't stop seducing me !
     author: zetto
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/660337.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-11'
     code: 660337
     url: /works/660337/

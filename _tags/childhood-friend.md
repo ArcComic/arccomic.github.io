@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "childhood friend"
-work_count: 35
+work_count: 36
 works:
   - title: Gakkou to Bed ja Seihantai no, Okkina Kanojo. | My Big Girlfriend Acts the
       Polar Opposite in Bed and at School.
@@ -93,6 +93,13 @@ works:
     date: '2026-09-18'
     code: 535271
     url: /works/535271/
+  - title: OUTOTSU Lovemotion! | Uneven Lovemotion!
+    author: memeyu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/551047.jpg
+    rating: 0.0
+    date: '2026-10-12'
+    code: 551047
+    url: /works/551047/
   - title: Saikai shita Osananajimi to Issen o Koecchau Hanashi | I Reunited With My
       Longtime Friend and Crossed the Line
     author: satsuki-usa
@@ -104,7 +111,7 @@ works:
   - title: Kojirase Horny Doggy | Aggravating Horny Doggy
     author: memeyu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/563921.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-10-12'
     code: 563921
     url: /works/563921/
@@ -118,7 +125,7 @@ works:
   - title: Hitorijime Love Doll | Love Doll For Mine Only
     author: memeyu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/596622.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-10-12'
     code: 596622
     url: /works/596622/

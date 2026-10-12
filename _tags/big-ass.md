@@ -41,7 +41,7 @@ works:
   - title: Itadakimasu Anata-sama | I Crave You
     author: tsurui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/289785.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-12'
     code: 289785
     url: /works/289785/
@@ -676,7 +676,7 @@ works:
       Bombshell Boss – Part 4
     author: nakamo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638495.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-10-12'
     code: 638495
     url: /works/638495/
@@ -730,7 +730,7 @@ works:
       Bombshell Boss – Part 5
     author: nakamo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/641871.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-10-12'
     code: 641871
     url: /works/641871/
@@ -1100,7 +1100,7 @@ works:
   - title: My Daughter-in-Law won't stop seducing me !
     author: zetto
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/660337.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-11'
     code: 660337
     url: /works/660337/
@@ -1870,7 +1870,7 @@ works:
       Bombshell Boss – Part 1
     author: nakamo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686371.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-10-11'
     code: 686371
     url: /works/686371/

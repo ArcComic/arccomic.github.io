@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "full censorship"
-work_count: 131
+work_count: 132
 works:
   - title: Kaisha de Iroiro | Gettin' Busy at the Office
     author: hara-shigeyuki
@@ -482,6 +482,13 @@ works:
     date: '2026-04-18'
     code: 549597
     url: /works/549597/
+  - title: OUTOTSU Lovemotion! | Uneven Lovemotion!
+    author: memeyu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/551047.jpg
+    rating: 0.0
+    date: '2026-10-12'
+    code: 551047
+    url: /works/551047/
   - title: Iiwa Watashi no Karada Suki ni Shite Ch.1-2
     author: shunjou-shuusuke
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/561787.jpg

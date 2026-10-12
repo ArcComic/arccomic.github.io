@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "kissing"
-work_count: 386
+work_count: 387
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -630,6 +630,13 @@ works:
     date: '2026-04-23'
     code: 548852
     url: /works/548852/
+  - title: OUTOTSU Lovemotion! | Uneven Lovemotion!
+    author: memeyu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/551047.jpg
+    rating: 0.0
+    date: '2026-10-12'
+    code: 551047
+    url: /works/551047/
   - title: Boku no Kaa-chan | My Mom
     author: cammy
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/555792.jpg
@@ -692,7 +699,7 @@ works:
   - title: Kojirase Horny Doggy | Aggravating Horny Doggy
     author: memeyu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/563921.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-10-12'
     code: 563921
     url: /works/563921/
@@ -837,7 +844,7 @@ works:
       With My Gal Boss 2
     author: nakamo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/591165.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-12'
     code: 591165
     url: /works/591165/
@@ -896,7 +903,7 @@ works:
   - title: Hitorijime Love Doll | Love Doll For Mine Only
     author: memeyu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/596622.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-10-12'
     code: 596622
     url: /works/596622/
@@ -1345,7 +1352,7 @@ works:
       Bombshell Boss – Part 4
     author: nakamo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638495.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-10-12'
     code: 638495
     url: /works/638495/
@@ -1390,7 +1397,7 @@ works:
       Bombshell Boss – Part 5
     author: nakamo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/641871.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-10-12'
     code: 641871
     url: /works/641871/
@@ -2874,7 +2881,7 @@ works:
       Bombshell Boss – Part 1
     author: nakamo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686371.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-10-11'
     code: 686371
     url: /works/686371/

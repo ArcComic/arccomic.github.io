@@ -6,7 +6,7 @@ works:
   - title: Onna Gal Joushi to Furin suru Hanashi 2 | A Story About Having An Affair
       With My Gal Boss 2
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/591165.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-12'
     code: 591165
     url: /works/591165/
@@ -20,14 +20,14 @@ works:
   - title: Onna Gal Joushi to Furin suru Hanashi 4 | Having an Affair with My Blonde
       Bombshell Boss – Part 4
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638495.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-10-12'
     code: 638495
     url: /works/638495/
   - title: Onna Gal Joushi to Furin suru Hanashi 5 | Having an Affair with My Blonde
       Bombshell Boss – Part 5
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/641871.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-10-12'
     code: 641871
     url: /works/641871/
@@ -41,7 +41,7 @@ works:
   - title: Onna Gal Joushi to Furin suru Hanashi 1 | Having an Affair with My Blonde
       Bombshell Boss – Part 1
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686371.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-10-11'
     code: 686371
     url: /works/686371/

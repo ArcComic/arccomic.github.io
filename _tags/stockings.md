@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "stockings"
-work_count: 236
+work_count: 238
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -102,6 +102,13 @@ works:
     date: '2026-05-10'
     code: 311755
     url: /works/311755/
+  - title: Yukiho to yoru no kekkonshiki | Evening Wedding with Yukiho
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/316122.jpg
+    rating: 0.0
+    date: '2026-10-12'
+    code: 316122
+    url: /works/316122/
   - title: CHOCO x LOVE
     author: highlow
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/317673.jpg
@@ -173,6 +180,13 @@ works:
     date: '2026-09-06'
     code: 370164
     url: /works/370164/
+  - title: Akiha-sama no Present
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/374589.jpg
+    rating: 0.0
+    date: '2026-10-12'
+    code: 374589
+    url: /works/374589/
   - title: I Was Devoured by My Gyaru Senpai (COMIC Anthurium 2021-10) + I Made My Gyaru
       Senpai Cum Over & Over Doggy Style
     author: arimura-daikon
@@ -552,7 +566,7 @@ works:
   - title: Hitorijime Love Doll | Love Doll For Mine Only
     author: memeyu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/596622.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-10-12'
     code: 596622
     url: /works/596622/

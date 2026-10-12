@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "plant"
-work_count: 22
+work_count: 24
 works:
   - title: Ami Mami Mind 5
     author: tsurui
@@ -27,10 +27,17 @@ works:
   - title: Itadakimasu Anata-sama | I Crave You
     author: tsurui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/289785.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-12'
     code: 289785
     url: /works/289785/
+  - title: Yukiho to yoru no kekkonshiki | Evening Wedding with Yukiho
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/316122.jpg
+    rating: 0.0
+    date: '2026-10-12'
+    code: 316122
+    url: /works/316122/
   - title: Makoto to Ofuro | Bathtime with Makoto
     author: tsurui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/320439.jpg
@@ -69,7 +76,7 @@ works:
   - title: Ritsuko to Stretch!
     author: tsurui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/358363.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-10-12'
     code: 358363
     url: /works/358363/
@@ -87,6 +94,13 @@ works:
     date: '2026-10-11'
     code: 364923
     url: /works/364923/
+  - title: Akiha-sama no Present
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/374589.jpg
+    rating: 0.0
+    date: '2026-10-12'
+    code: 374589
+    url: /works/374589/
   - title: Dochira o Onozomi desu ka? ~Shitsuji Hen~ | Which Do You Desire? ~Butler
       Edition~
     author: tsurui
@@ -98,7 +112,7 @@ works:
   - title: Usone dattara Punchi desu
     author: tsurui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/552330.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-10-12'
     code: 552330
     url: /works/552330/

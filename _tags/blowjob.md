@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "blowjob"
-work_count: 683
+work_count: 684
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -112,7 +112,7 @@ works:
   - title: Itadakimasu Anata-sama | I Crave You
     author: tsurui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/289785.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-12'
     code: 289785
     url: /works/289785/
@@ -210,6 +210,13 @@ works:
     date: '2026-03-04'
     code: 315693
     url: /works/315693/
+  - title: Yukiho to yoru no kekkonshiki | Evening Wedding with Yukiho
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/316122.jpg
+    rating: 0.0
+    date: '2026-10-12'
+    code: 316122
+    url: /works/316122/
   - title: Hajimete Kanojo Ga Dekita No Ni
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/316579.jpg
@@ -1243,7 +1250,7 @@ works:
   - title: Usone dattara Punchi desu
     author: tsurui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/552330.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-10-12'
     code: 552330
     url: /works/552330/
@@ -1325,7 +1332,7 @@ works:
   - title: Only Loves You ♡ Doll
     author: memeyu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/564656.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-10-11'
     code: 564656
     url: /works/564656/
@@ -1659,7 +1666,7 @@ works:
   - title: Karisome Immoralism | Temporary Immoralism
     author: memeyu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/596275.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-10-12'
     code: 596275
     url: /works/596275/
@@ -1674,7 +1681,7 @@ works:
   - title: Hitorijime Love Doll | Love Doll For Mine Only
     author: memeyu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/596622.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-10-12'
     code: 596622
     url: /works/596622/
@@ -2495,7 +2502,7 @@ works:
       Bombshell Boss – Part 5
     author: nakamo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/641871.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-10-12'
     code: 641871
     url: /works/641871/
