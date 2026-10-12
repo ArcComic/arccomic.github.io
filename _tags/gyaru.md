@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "gyaru"
-work_count: 129
+work_count: 130
 works:
   - title: GalPa!
     author: sakagami-umi
@@ -418,6 +418,14 @@ works:
     date: '2026-09-24'
     code: 640106
     url: /works/640106/
+  - title: Onna Gal Joushi to Furin suru Hanashi 5 | Having an Affair with My Blonde
+      Bombshell Boss – Part 5
+    author: nakamo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/641871.jpg
+    rating: 0.0
+    date: '2026-10-12'
+    code: 641871
+    url: /works/641871/
   - title: Ane Mama ~ Atarashii Onee-chan to Mama wa Ore no Sex Friend ni Narimashita.
       ~
     author: group

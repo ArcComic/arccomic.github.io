@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big ass"
-work_count: 253
+work_count: 255
 works:
   - title: My Care Lady Ch. 1
     author: sugi-g
@@ -38,6 +38,13 @@ works:
     date: '2026-10-08'
     code: 287467
     url: /works/287467/
+  - title: Itadakimasu Anata-sama | I Crave You
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/289785.jpg
+    rating: 0.0
+    date: '2026-10-12'
+    code: 289785
+    url: /works/289785/
   - title: Akarui Kazoku Seikatsu
     author: pistonring-nishizawa
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/304307.jpg
@@ -719,6 +726,14 @@ works:
     date: '2026-09-29'
     code: 641456
     url: /works/641456/
+  - title: Onna Gal Joushi to Furin suru Hanashi 5 | Having an Affair with My Blonde
+      Bombshell Boss – Part 5
+    author: nakamo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/641871.jpg
+    rating: 0.0
+    date: '2026-10-12'
+    code: 641871
+    url: /works/641871/
   - title: Ero Mangaka-san to Henshu-kun
     author: kibi-anmitsu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/641928.jpg

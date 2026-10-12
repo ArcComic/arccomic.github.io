@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "producer"
-work_count: 50
+work_count: 51
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -108,6 +108,13 @@ works:
     date: '2026-10-08'
     code: 287467
     url: /works/287467/
+  - title: Itadakimasu Anata-sama | I Crave You
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/289785.jpg
+    rating: 0.0
+    date: '2026-10-12'
+    code: 289785
+    url: /works/289785/
   - title: Ritsuko wa Kozukuri ga Shitai
     author: yokkora
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/297834.jpg

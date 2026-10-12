@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "ryona"
-work_count: 10
+work_count: 11
 works:
   - title: Tomo-ochi Boshisoukan | Co-Depraved Mother-Son Incest
     author: ozy
@@ -25,6 +25,14 @@ works:
     date: '2026-07-15'
     code: 616358
     url: /works/616358/
+  - title: Onna Gal Joushi to Furin suru Hanashi 5 | Having an Affair with My Blonde
+      Bombshell Boss – Part 5
+    author: nakamo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/641871.jpg
+    rating: 0.0
+    date: '2026-10-12'
+    code: 641871
+    url: /works/641871/
   - title: Inkan no Ketsuzoku 1-3
     author: diisuke
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651242.jpg

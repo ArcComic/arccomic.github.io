@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole male"
-work_count: 950
+work_count: 953
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -236,6 +236,13 @@ works:
     date: '2026-04-25'
     code: 289094
     url: /works/289094/
+  - title: Itadakimasu Anata-sama | I Crave You
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/289785.jpg
+    rating: 0.0
+    date: '2026-10-12'
+    code: 289785
+    url: /works/289785/
   - title: Oppai na Natsuyasumi 2 | The Summer Break of Boobs 2
     author: higashino-mikan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/292454.jpg
@@ -2535,6 +2542,13 @@ works:
     date: '2026-10-11'
     code: 595981
     url: /works/595981/
+  - title: Karisome Immoralism | Temporary Immoralism
+    author: memeyu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/596275.jpg
+    rating: 0.0
+    date: '2026-10-12'
+    code: 596275
+    url: /works/596275/
   - title: Geriatric Dragons dogma
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/596562.jpg
@@ -3485,6 +3499,14 @@ works:
     date: '2026-08-19'
     code: 641362
     url: /works/641362/
+  - title: Onna Gal Joushi to Furin suru Hanashi 5 | Having an Affair with My Blonde
+      Bombshell Boss – Part 5
+    author: nakamo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/641871.jpg
+    rating: 0.0
+    date: '2026-10-12'
+    code: 641871
+    url: /works/641871/
   - title: Ero Mangaka-san to Henshu-kun
     author: kibi-anmitsu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/641928.jpg

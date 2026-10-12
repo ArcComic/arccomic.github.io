@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "eye-covering bang"
-work_count: 74
+work_count: 75
 works:
   - title: Kanojo no Amai Jiraishuu
     author: jirou
@@ -219,6 +219,14 @@ works:
     date: '2026-10-12'
     code: 638495
     url: /works/638495/
+  - title: Onna Gal Joushi to Furin suru Hanashi 5 | Having an Affair with My Blonde
+      Bombshell Boss – Part 5
+    author: nakamo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/641871.jpg
+    rating: 0.0
+    date: '2026-10-12'
+    code: 641871
+    url: /works/641871/
   - title: Because Ura Wants To Be More Than "Just An Acquaintance"
     author: the-waidan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642793.jpg

@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "glory hole"
-work_count: 3
+work_count: 4
 works:
+  - title: Itadakimasu Anata-sama | I Crave You
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/289785.jpg
+    rating: 0.0
+    date: '2026-10-12'
+    code: 289785
+    url: /works/289785/
   - title: Toilet no Jimiko-san
     author: darezuka
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/504913.jpg

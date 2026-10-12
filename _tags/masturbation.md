@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "masturbation"
-work_count: 145
+work_count: 146
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -374,6 +374,13 @@ works:
     date: '2026-10-09'
     code: 593683
     url: /works/593683/
+  - title: Karisome Immoralism | Temporary Immoralism
+    author: memeyu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/596275.jpg
+    rating: 0.0
+    date: '2026-10-12'
+    code: 596275
+    url: /works/596275/
   - title: Houkai Kazoku 2 -Hahaoya ga Yakuza to no Sex ni Hamatta Hanashi- | Broken
       Family 2 - The story of a mother who got hooked on sex with the Yakuza
     author: watsondou

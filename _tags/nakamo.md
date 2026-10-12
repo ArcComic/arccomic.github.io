@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "nakamo"
-work_count: 4
+work_count: 5
 works:
   - title: Onna Gal Joushi to Furin suru Hanashi 3 | Having an Affair with My Blonde
       Bombshell Boss – Part 3
@@ -19,6 +19,14 @@ works:
     date: '2026-10-12'
     code: 638495
     url: /works/638495/
+  - title: Onna Gal Joushi to Furin suru Hanashi 5 | Having an Affair with My Blonde
+      Bombshell Boss – Part 5
+    author: nakamo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/641871.jpg
+    rating: 0.0
+    date: '2026-10-12'
+    code: 641871
+    url: /works/641871/
   - title: Hirotta Neko ga Gal de Gokudou no Musume datta Hanashi | The Story of the
       Cat I Picked Up—Who Turned Out to Be a Gal and a Yakuza Boss's Daughter
     author: nakamo

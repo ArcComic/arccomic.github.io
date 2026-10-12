@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "nakadashi"
-work_count: 866
+work_count: 869
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -137,6 +137,13 @@ works:
     date: '2026-09-08'
     code: 287208
     url: /works/287208/
+  - title: Itadakimasu Anata-sama | I Crave You
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/289785.jpg
+    rating: 0.0
+    date: '2026-10-12'
+    code: 289785
+    url: /works/289785/
   - title: Oppai na Natsuyasumi 2 | The Summer Break of Boobs 2
     author: higashino-mikan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/292454.jpg
@@ -2179,6 +2186,13 @@ works:
     date: '2026-08-25'
     code: 595108
     url: /works/595108/
+  - title: Karisome Immoralism | Temporary Immoralism
+    author: memeyu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/596275.jpg
+    rating: 0.0
+    date: '2026-10-12'
+    code: 596275
+    url: /works/596275/
   - title: Houkai Kazoku 2 -Hahaoya ga Yakuza to no Sex ni Hamatta Hanashi- | Broken
       Family 2 - The story of a mother who got hooked on sex with the Yakuza
     author: watsondou
@@ -3128,6 +3142,14 @@ works:
     date: '2026-10-02'
     code: 641858
     url: /works/641858/
+  - title: Onna Gal Joushi to Furin suru Hanashi 5 | Having an Affair with My Blonde
+      Bombshell Boss – Part 5
+    author: nakamo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/641871.jpg
+    rating: 0.0
+    date: '2026-10-12'
+    code: 641871
+    url: /works/641871/
   - title: Ero Mangaka-san to Henshu-kun
     author: kibi-anmitsu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/641928.jpg

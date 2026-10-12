@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "incest"
-work_count: 315
+work_count: 316
 works:
   - title: Imitation Family + Bigibo Hen
     author: tohzai
@@ -748,6 +748,13 @@ works:
     date: '2026-08-25'
     code: 595108
     url: /works/595108/
+  - title: Karisome Immoralism | Temporary Immoralism
+    author: memeyu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/596275.jpg
+    rating: 0.0
+    date: '2026-10-12'
+    code: 596275
+    url: /works/596275/
   - title: Hitorijime Love Doll | Love Doll For Mine Only
     author: memeyu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/596622.jpg

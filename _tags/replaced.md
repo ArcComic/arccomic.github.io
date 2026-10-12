@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "replaced"
-work_count: 4
+work_count: 5
 works:
   - title: Netoriai -Watashi no Hou ga, Kimi ga Suki- | NTR Love -I'm The One Who Loves
       You-
@@ -11,6 +11,13 @@ works:
     date: '2026-09-12'
     code: 387648
     url: /works/387648/
+  - title: Karisome Immoralism | Temporary Immoralism
+    author: memeyu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/596275.jpg
+    rating: 0.0
+    date: '2026-10-12'
+    code: 596275
+    url: /works/596275/
   - title: Junpaku Terrarium - Garden of Lovers
     author: sakuma-tsukasa
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/635795.jpg

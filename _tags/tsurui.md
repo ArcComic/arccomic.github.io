@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "tsurui"
-work_count: 19
+work_count: 20
 works:
   - title: Ami Mami Mind 5
     author: tsurui
@@ -24,6 +24,13 @@ works:
     date: '2026-10-08'
     code: 287467
     url: /works/287467/
+  - title: Itadakimasu Anata-sama | I Crave You
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/289785.jpg
+    rating: 0.0
+    date: '2026-10-12'
+    code: 289785
+    url: /works/289785/
   - title: Makoto to Ofuro | Bathtime with Makoto
     author: tsurui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/320439.jpg

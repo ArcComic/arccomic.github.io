@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "cheating"
-work_count: 379
+work_count: 380
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -1588,6 +1588,14 @@ works:
     date: '2026-08-19'
     code: 641362
     url: /works/641362/
+  - title: Onna Gal Joushi to Furin suru Hanashi 5 | Having an Affair with My Blonde
+      Bombshell Boss – Part 5
+    author: nakamo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/641871.jpg
+    rating: 0.0
+    date: '2026-10-12'
+    code: 641871
+    url: /works/641871/
   - title: Koitsu majide choro katta 〜 kinjo no shingurumaza-hen 〜
     author: doron
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642018.jpg

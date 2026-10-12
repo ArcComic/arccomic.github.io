@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "blowjob face"
-work_count: 62
+work_count: 63
 works:
   - title: Mama Naranai Onna-tachi Ch. 1-2
     author: otochichi
@@ -17,6 +17,13 @@ works:
     date: '2026-09-08'
     code: 287208
     url: /works/287208/
+  - title: Itadakimasu Anata-sama | I Crave You
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/289785.jpg
+    rating: 0.0
+    date: '2026-10-12'
+    code: 289785
+    url: /works/289785/
   - title: Tsuma wo Yariman ni Shimasu Shakkin no Tame desu kara.
     author: pietoro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/293478.jpg
