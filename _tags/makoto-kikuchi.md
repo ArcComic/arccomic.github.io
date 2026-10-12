@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "makoto kikuchi"
-work_count: 4
+work_count: 5
 works:
   - title: Makoto to Ofuro | Bathtime with Makoto
     author: tsurui
@@ -25,6 +25,13 @@ works:
     date: '2026-10-10'
     code: 406008
     url: /works/406008/
+  - title: Dochira o Onozomi desu ka? ~Ryouhou Hen~ | Which Do You Desire? ~Both Edition~
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/407222.jpg
+    rating: 0.0
+    date: '2026-10-12'
+    code: 407222
+    url: /works/407222/
   - title: Makoto to Training! 2
     author: tsurui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/661742.jpg

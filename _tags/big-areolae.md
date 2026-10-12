@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big areolae"
-work_count: 100
+work_count: 101
 works:
   - title: Soubo Soukan 2 | Twin mothers incest 2 FULL
     author: nanao-yukiji
@@ -225,6 +225,13 @@ works:
     date: '2026-09-05'
     code: 637940
     url: /works/637940/
+  - title: Hime Bloomer
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638882.jpg
+    rating: 0.0
+    date: '2026-10-12'
+    code: 638882
+    url: /works/638882/
   - title: Onsen Haitte tara Joseito-tachi ga Osotte Kita | My Students Jumped Me When
       I Got in the Hot Spring
     author: hamo

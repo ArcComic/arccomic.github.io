@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big breasts"
-work_count: 1171
+work_count: 1172
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -3793,6 +3793,13 @@ works:
     date: '2026-09-29'
     code: 638764
     url: /works/638764/
+  - title: Hime Bloomer
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638882.jpg
+    rating: 0.0
+    date: '2026-10-12'
+    code: 638882
+    url: /works/638882/
   - title: Yariman no Namaiki Kouhai to Tsukiau made no Hanashi.
     author: tokyo-gunjo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638929.jpg

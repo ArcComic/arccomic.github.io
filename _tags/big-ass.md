@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big ass"
-work_count: 255
+work_count: 256
 works:
   - title: My Care Lady Ch. 1
     author: sugi-g
@@ -694,6 +694,13 @@ works:
     date: '2026-09-20'
     code: 638685
     url: /works/638685/
+  - title: Hime Bloomer
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638882.jpg
+    rating: 0.0
+    date: '2026-10-12'
+    code: 638882
+    url: /works/638882/
   - title: Onsen Haitte tara Joseito-tachi ga Osotte Kita | My Students Jumped Me When
       I Got in the Hot Spring
     author: hamo

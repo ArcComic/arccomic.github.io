@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "doujinshi"
-work_count: 1432
+work_count: 1434
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -772,6 +772,13 @@ works:
     date: '2026-10-10'
     code: 406008
     url: /works/406008/
+  - title: Dochira o Onozomi desu ka? ~Ryouhou Hen~ | Which Do You Desire? ~Both Edition~
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/407222.jpg
+    rating: 0.0
+    date: '2026-10-12'
+    code: 407222
+    url: /works/407222/
   - title: My Dress Up Corpse
     author: mr-kurz
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/408427.jpg
@@ -4651,6 +4658,13 @@ works:
     date: '2026-09-29'
     code: 638764
     url: /works/638764/
+  - title: Hime Bloomer
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638882.jpg
+    rating: 0.0
+    date: '2026-10-12'
+    code: 638882
+    url: /works/638882/
   - title: Yariman no Namaiki Kouhai to Tsukiau made no Hanashi.
     author: tokyo-gunjo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638929.jpg

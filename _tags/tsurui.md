@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "tsurui"
-work_count: 30
+work_count: 32
 works:
   - title: Ami Mami Mind 5
     author: tsurui
@@ -130,6 +130,13 @@ works:
     date: '2026-10-10'
     code: 406008
     url: /works/406008/
+  - title: Dochira o Onozomi desu ka? ~Ryouhou Hen~ | Which Do You Desire? ~Both Edition~
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/407222.jpg
+    rating: 0.0
+    date: '2026-10-12'
+    code: 407222
+    url: /works/407222/
   - title: Usone dattara Punchi desu
     author: tsurui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/552330.jpg
@@ -151,6 +158,13 @@ works:
     date: '2026-10-12'
     code: 628068
     url: /works/628068/
+  - title: Hime Bloomer
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638882.jpg
+    rating: 0.0
+    date: '2026-10-12'
+    code: 638882
+    url: /works/638882/
   - title: Anta no Koto nanka
     author: tsurui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642984.jpg

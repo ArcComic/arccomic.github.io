@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "group"
-work_count: 258
+work_count: 259
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -118,6 +118,13 @@ works:
     date: '2026-09-26'
     code: 400846
     url: /works/400846/
+  - title: Dochira o Onozomi desu ka? ~Ryouhou Hen~ | Which Do You Desire? ~Both Edition~
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/407222.jpg
+    rating: 0.0
+    date: '2026-10-12'
+    code: 407222
+    url: /works/407222/
   - title: The Last Flight
     author: mr-kurz
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/408822.jpg
