@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "x-ray"
-work_count: 339
+work_count: 340
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -39,6 +39,13 @@ works:
     date: '2026-09-29'
     code: 269224
     url: /works/269224/
+  - title: Colorful Ritsuko 2
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/285110.jpg
+    rating: 0.0
+    date: '2026-10-12'
+    code: 285110
+    url: /works/285110/
   - title: Ritsuko wa Kozukuri ga Shitai
     author: yokkora
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/297834.jpg

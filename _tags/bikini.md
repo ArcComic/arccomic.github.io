@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bikini"
-work_count: 84
+work_count: 85
 works:
   - title: Kizashi
     author: yoshiura-kazuya
@@ -10,6 +10,13 @@ works:
     date: '2026-03-09'
     code: 226386
     url: /works/226386/
+  - title: Colorful Ritsuko 2
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/285110.jpg
+    rating: 0.0
+    date: '2026-10-12'
+    code: 285110
+    url: /works/285110/
   - title: Oppai na Natsuyasumi 2 | The Summer Break of Boobs 2
     author: higashino-mikan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/292454.jpg

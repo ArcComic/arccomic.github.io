@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "producer"
-work_count: 54
+work_count: 57
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -80,6 +80,13 @@ works:
     date: '2026-10-09'
     code: 262169
     url: /works/262169/
+  - title: Colorful Ritsuko
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/275768.jpg
+    rating: 0.0
+    date: '2026-10-12'
+    code: 275768
+    url: /works/275768/
   - title: Konna ni mo Itooshii -After Zero-
     author: nohito
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/276942.jpg
@@ -101,6 +108,13 @@ works:
     date: '2026-10-09'
     code: 283723
     url: /works/283723/
+  - title: Colorful Ritsuko 2
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/285110.jpg
+    rating: 0.0
+    date: '2026-10-12'
+    code: 285110
+    url: /works/285110/
   - title: SWEET MOON 3
     author: tsurui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/287467.jpg
@@ -242,6 +256,13 @@ works:
     date: '2026-09-22'
     code: 599778
     url: /works/599778/
+  - title: Dame nante Ienai
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/628068.jpg
+    rating: 0.0
+    date: '2026-10-12'
+    code: 628068
+    url: /works/628068/
   - title: H na Ouji-sama wa Dame desuka?
     author: inu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/628218.jpg

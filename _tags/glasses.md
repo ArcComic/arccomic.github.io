@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "glasses"
-work_count: 282
+work_count: 284
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -101,6 +101,20 @@ works:
     date: '2026-09-29'
     code: 269224
     url: /works/269224/
+  - title: Colorful Ritsuko
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/275768.jpg
+    rating: 0.0
+    date: '2026-10-12'
+    code: 275768
+    url: /works/275768/
+  - title: Colorful Ritsuko 2
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/285110.jpg
+    rating: 0.0
+    date: '2026-10-12'
+    code: 285110
+    url: /works/285110/
   - title: Makai Kishi Ingrid ni Nakadashi Dekiru Soapland | A Soapland Where You Can
       Creampie Dark Knight Ingrid
     author: maguro-teikoku

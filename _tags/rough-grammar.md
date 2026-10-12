@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "rough grammar"
-work_count: 7
+work_count: 8
 works:
   - title: FANTASY DIARY
     author: yd
@@ -46,6 +46,13 @@ works:
     date: '2026-03-03'
     code: 509474
     url: /works/509474/
+  - title: Dame nante Ienai
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/628068.jpg
+    rating: 0.0
+    date: '2026-10-12'
+    code: 628068
+    url: /works/628068/
   - title: All Night Long
     author: takasugi-kou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662057.jpg

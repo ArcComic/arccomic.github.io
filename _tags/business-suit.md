@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "business suit"
-work_count: 96
+work_count: 97
 works:
   - title: MAGIC SEVEN
     author: asuhiro
@@ -59,6 +59,13 @@ works:
     date: '2026-09-06'
     code: 196238
     url: /works/196238/
+  - title: Colorful Ritsuko
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/275768.jpg
+    rating: 0.0
+    date: '2026-10-12'
+    code: 275768
+    url: /works/275768/
   - title: Okatai Onna to Iwanaide | Don't call me an Old Maid!
     author: herio
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/276396.jpg

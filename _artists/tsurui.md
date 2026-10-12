@@ -1,7 +1,7 @@
 ---
 layout: artist
 artist_name: "tsurui"
-work_count: 24
+work_count: 27
 works:
   - title: Ami Mami Mind 5
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/262169.jpg
@@ -9,12 +9,24 @@ works:
     date: '2026-10-09'
     code: 262169
     url: /works/262169/
+  - title: Colorful Ritsuko
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/275768.jpg
+    rating: 0.0
+    date: '2026-10-12'
+    code: 275768
+    url: /works/275768/
   - title: Chihaya to Seifuku! | Chihaya and Uniform!
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/280836.jpg
     rating: 4.5
     date: '2026-10-10'
     code: 280836
     url: /works/280836/
+  - title: Colorful Ritsuko 2
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/285110.jpg
+    rating: 0.0
+    date: '2026-10-12'
+    code: 285110
+    url: /works/285110/
   - title: SWEET MOON 3
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/287467.jpg
     rating: 0.0
@@ -106,6 +118,12 @@ works:
     date: '2026-10-10'
     code: 553624
     url: /works/553624/
+  - title: Dame nante Ienai
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/628068.jpg
+    rating: 0.0
+    date: '2026-10-12'
+    code: 628068
+    url: /works/628068/
   - title: Suki toka Iu Wake...
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642985.jpg
     rating: 4.9

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole female"
-work_count: 1026
+work_count: 1029
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -187,6 +187,13 @@ works:
     date: '2026-04-13'
     code: 272352
     url: /works/272352/
+  - title: Colorful Ritsuko
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/275768.jpg
+    rating: 0.0
+    date: '2026-10-12'
+    code: 275768
+    url: /works/275768/
   - title: Okatai Onna to Iwanaide | Don't call me an Old Maid!
     author: herio
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/276396.jpg
@@ -229,6 +236,13 @@ works:
     date: '2026-10-02'
     code: 284270
     url: /works/284270/
+  - title: Colorful Ritsuko 2
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/285110.jpg
+    rating: 0.0
+    date: '2026-10-12'
+    code: 285110
+    url: /works/285110/
   - title: Hikki Mother Fucker
     author: otochichi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/287208.jpg
@@ -3320,6 +3334,13 @@ works:
     date: '2026-09-25'
     code: 626430
     url: /works/626430/
+  - title: Dame nante Ienai
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/628068.jpg
+    rating: 0.0
+    date: '2026-10-12'
+    code: 628068
+    url: /works/628068/
   - title: H na Ouji-sama wa Dame desuka?
     author: inu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/628218.jpg

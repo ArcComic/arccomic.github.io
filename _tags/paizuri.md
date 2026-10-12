@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "paizuri"
-work_count: 241
+work_count: 243
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -17,6 +17,13 @@ works:
     date: '2026-04-19'
     code: 244812
     url: /works/244812/
+  - title: Colorful Ritsuko 2
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/285110.jpg
+    rating: 0.0
+    date: '2026-10-12'
+    code: 285110
+    url: /works/285110/
   - title: Itadakimasu Anata-sama | I Crave You
     author: tsurui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/289785.jpg
@@ -632,6 +639,13 @@ works:
     date: '2026-09-30'
     code: 624848
     url: /works/624848/
+  - title: Dame nante Ienai
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/628068.jpg
+    rating: 0.0
+    date: '2026-10-12'
+    code: 628068
+    url: /works/628068/
   - title: 'Taihai Tsuma: Taihaikei Hitotsuma o Yachin Kawari ni Koki Tsukaeru Hanashi
       | Slutty Wife!'
     author: kametaro
