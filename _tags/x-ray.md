@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "x-ray"
-work_count: 344
+work_count: 345
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -838,6 +838,13 @@ works:
     date: '2026-07-10'
     code: 608868
     url: /works/608868/
+  - title: Hagiwara Yukiho no Nijuu Seiai
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/609238.jpg
+    rating: 0.0
+    date: '2026-10-12'
+    code: 609238
+    url: /works/609238/
   - title: Zenin Mukuwarenai Harem | A Harem Where No One Is Reciprocated
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/610041.jpg

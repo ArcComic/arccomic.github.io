@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "jimiko"
-work_count: 18
+work_count: 19
 works:
   - title: Kanojo no Amai Jiraishuu
     author: jirou
@@ -58,6 +58,13 @@ works:
     date: '2026-09-07'
     code: 542073
     url: /works/542073/
+  - title: Office Affair - The Chemistry Between Subordinate And Boss
+    author: abbb
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/546621.jpg
+    rating: 4.6
+    date: '2026-10-12'
+    code: 546621
+    url: /works/546621/
   - title: Ore no Jimi Kanojo wa Natsuyasumi dake Aitsu Senyou no OnaPet | My Plain
       Girlfriend Is That Guy's Personal Fucktoy For The Summer Break
     author: omusubi-korori

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole male"
-work_count: 973
+work_count: 975
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -2204,6 +2204,13 @@ works:
     date: '2026-04-17'
     code: 567843
     url: /works/567843/
+  - title: 1/5 no Renai Kanjou | A Fifth of Romance
+    author: chicke-iii
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/568871.jpg
+    rating: 0.0
+    date: '2026-10-12'
+    code: 568871
+    url: /works/568871/
   - title: Cocoa-chan no Jiraikei Chuuihou
     author: uni-toshiki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/568923.jpg
@@ -2863,6 +2870,13 @@ works:
     date: '2026-07-10'
     code: 608868
     url: /works/608868/
+  - title: Hagiwara Yukiho no Nijuu Seiai
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/609238.jpg
+    rating: 0.0
+    date: '2026-10-12'
+    code: 609238
+    url: /works/609238/
   - title: Zenin Mukuwarenai Harem | A Harem Where No One Is Reciprocated
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/610041.jpg

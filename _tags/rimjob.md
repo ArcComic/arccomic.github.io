@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "rimjob"
-work_count: 49
+work_count: 50
 works:
   - title: Hitozuma Hyakka
     author: hase-tsubura
@@ -50,6 +50,13 @@ works:
     date: '2026-07-16'
     code: 555816
     url: /works/555816/
+  - title: 1/5 no Renai Kanjou | A Fifth of Romance
+    author: chicke-iii
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/568871.jpg
+    rating: 0.0
+    date: '2026-10-12'
+    code: 568871
+    url: /works/568871/
   - title: Boku no Kaa-chan ga Hikikomori Neet Debu Aniki no Seishori Onaho ni Natteita
       Hanashi | My Mother is My Fat Shut-in Older NEET Brother's Sex Relief Onahole
     author: tarobaumu

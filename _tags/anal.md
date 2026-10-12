@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "anal"
-work_count: 168
+work_count: 169
 works:
   - title: Ikanishite Haha wa Onna o Kaihou Shitaka Ch. 1-14
     author: mitarai-yuuki
@@ -260,6 +260,13 @@ works:
     date: '2026-04-30'
     code: 566052
     url: /works/566052/
+  - title: 1/5 no Renai Kanjou | A Fifth of Romance
+    author: chicke-iii
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/568871.jpg
+    rating: 0.0
+    date: '2026-10-12'
+    code: 568871
+    url: /works/568871/
   - title: Natsudashi kasshoku bijōfu hori ni ikko | 興起適逢烈夏至 相尋佳郎正當時
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/569575.jpg

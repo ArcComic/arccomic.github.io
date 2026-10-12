@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "ffm threesome"
-work_count: 145
+work_count: 147
 works:
   - title: Hustle! Danchizuma Ch. 1-18 END
     author: hidemaru
@@ -203,6 +203,13 @@ works:
     date: '2026-09-23'
     code: 568114
     url: /works/568114/
+  - title: 1/5 no Renai Kanjou | A Fifth of Romance
+    author: chicke-iii
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/568871.jpg
+    rating: 0.0
+    date: '2026-10-12'
+    code: 568871
+    url: /works/568871/
   - title: Hitozuma Volley-bu no Asedaku SEX ~Shower Abinagara Mitchaku Shichau? 5-6
       | Married Women's Volleyball Club Sweaty Sex - We're Being Glued Together While
       Taking A Shower? 5-6
@@ -238,6 +245,13 @@ works:
     date: '2026-10-11'
     code: 599165
     url: /works/599165/
+  - title: Hagiwara Yukiho no Nijuu Seiai
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/609238.jpg
+    rating: 0.0
+    date: '2026-10-12'
+    code: 609238
+    url: /works/609238/
   - title: Zenin Mukuwarenai Harem | A Harem Where No One Is Reciprocated
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/610041.jpg

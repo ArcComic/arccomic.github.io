@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "hair buns"
-work_count: 41
+work_count: 42
 works:
   - title: Oppai na Natsuyasumi 2 | The Summer Break of Boobs 2
     author: higashino-mikan
@@ -153,6 +153,13 @@ works:
     date: '2026-10-02'
     code: 567532
     url: /works/567532/
+  - title: 1/5 no Renai Kanjou | A Fifth of Romance
+    author: chicke-iii
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/568871.jpg
+    rating: 0.0
+    date: '2026-10-12'
+    code: 568871
+    url: /works/568871/
   - title: Boku no Kaa-chan 2 | My Mom 2
     author: cammy
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/579339.jpg

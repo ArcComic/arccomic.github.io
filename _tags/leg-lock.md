@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "leg lock"
-work_count: 90
+work_count: 91
 works:
   - title: My Care Lady Ch. 1
     author: sugi-g
@@ -222,6 +222,13 @@ works:
     date: '2026-02-25'
     code: 543086
     url: /works/543086/
+  - title: Office Affair - The Chemistry Between Subordinate And Boss
+    author: abbb
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/546621.jpg
+    rating: 4.6
+    date: '2026-10-12'
+    code: 546621
+    url: /works/546621/
   - title: Saikai shita Osananajimi to Issen o Koecchau Hanashi | I Reunited With My
       Longtime Friend and Crossed the Line
     author: satsuki-usa

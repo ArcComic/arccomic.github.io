@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "squirting"
-work_count: 146
+work_count: 147
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -237,6 +237,13 @@ works:
     date: '2026-09-06'
     code: 567355
     url: /works/567355/
+  - title: 1/5 no Renai Kanjou | A Fifth of Romance
+    author: chicke-iii
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/568871.jpg
+    rating: 0.0
+    date: '2026-10-12'
+    code: 568871
+    url: /works/568871/
   - title: 'LESFES CO Incident: Suspended Account'
     author: remora-works
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/569267.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "facesitting"
-work_count: 23
+work_count: 24
 works:
   - title: Yuri no o saifu ni shite agemasu ne, Senpai | I'll turn you into Yuri's wallet,
       Senpai
@@ -48,6 +48,13 @@ works:
     date: '2026-09-22'
     code: 569267
     url: /works/569267/
+  - title: Hagiwara Yukiho no Nijuu Seiai
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/609238.jpg
+    rating: 0.0
+    date: '2026-10-12'
+    code: 609238
+    url: /works/609238/
   - title: Honeori! Osewa Girl♡ | SK8er Girl Lends Me a Hand!
     author: kyaradain
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/634609.jpg

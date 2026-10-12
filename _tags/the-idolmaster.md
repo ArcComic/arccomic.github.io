@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "the idolmaster"
-work_count: 74
+work_count: 75
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -291,6 +291,13 @@ works:
     date: '2026-09-22'
     code: 599778
     url: /works/599778/
+  - title: Hagiwara Yukiho no Nijuu Seiai
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/609238.jpg
+    rating: 0.0
+    date: '2026-10-12'
+    code: 609238
+    url: /works/609238/
   - title: Tatoeba Konna Million Theater Soushuuhen I
     author: binsen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/617600.jpg

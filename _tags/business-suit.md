@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "business suit"
-work_count: 97
+work_count: 98
 works:
   - title: MAGIC SEVEN
     author: asuhiro
@@ -331,6 +331,13 @@ works:
     date: '2026-05-04'
     code: 537760
     url: /works/537760/
+  - title: Office Affair - The Chemistry Between Subordinate And Boss
+    author: abbb
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/546621.jpg
+    rating: 4.6
+    date: '2026-10-12'
+    code: 546621
+    url: /works/546621/
   - title: Automatic Romantic
     author: naganeko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/556036.jpg

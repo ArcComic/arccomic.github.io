@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "swimsuit"
-work_count: 85
+work_count: 86
 works:
   - title: Kizashi
     author: yoshiura-kazuya
@@ -134,6 +134,13 @@ works:
     date: '2026-04-25'
     code: 562615
     url: /works/562615/
+  - title: 1/5 no Renai Kanjou | A Fifth of Romance
+    author: chicke-iii
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/568871.jpg
+    rating: 0.0
+    date: '2026-10-12'
+    code: 568871
+    url: /works/568871/
   - title: The Prison Idol And Assistant
     author: halo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/579290.jpg

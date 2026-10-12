@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "original"
-work_count: 1156
+work_count: 1157
 works:
   - title: Natsu dake Koibito - Summer only Lover [English] =Forbidden Fetish + Ser
       Maggot=
@@ -1806,6 +1806,13 @@ works:
     date: '2026-10-11'
     code: 546049
     url: /works/546049/
+  - title: Office Affair - The Chemistry Between Subordinate And Boss
+    author: abbb
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/546621.jpg
+    rating: 4.6
+    date: '2026-10-12'
+    code: 546621
+    url: /works/546621/
   - title: The Share House’s Secret Rule
     author: ouma
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/546662.jpg

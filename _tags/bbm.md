@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bbm"
-work_count: 128
+work_count: 129
 works:
   - title: Kindan no Hatemitsu
     author: ryuuta
@@ -231,6 +231,13 @@ works:
     date: '2026-04-12'
     code: 544368
     url: /works/544368/
+  - title: Office Affair - The Chemistry Between Subordinate And Boss
+    author: abbb
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/546621.jpg
+    rating: 4.6
+    date: '2026-10-12'
+    code: 546621
+    url: /works/546621/
   - title: Wagaya no Housemaid Bridget Sei no Gohoushi ~Danro Souji kara Kozukuri made~
       /  My Housemaid Bridget's Sexual Service ~ Everything From Fireplace Cleaning,
       To Babymaking

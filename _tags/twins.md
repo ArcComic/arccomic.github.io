@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "twins"
-work_count: 7
+work_count: 8
 works:
   - title: Ami Mami Mind 5
     author: tsurui
@@ -18,6 +18,13 @@ works:
     date: '2026-08-31'
     code: 494172
     url: /works/494172/
+  - title: 1/5 no Renai Kanjou | A Fifth of Romance
+    author: chicke-iii
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/568871.jpg
+    rating: 0.0
+    date: '2026-10-12'
+    code: 568871
+    url: /works/568871/
   - title: Jimoto no Dekai Gal 2
     author: ueno-meguru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/634593.jpg

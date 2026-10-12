@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bondage"
-work_count: 103
+work_count: 104
 works:
   - title: Pai☆Panic ~Hasamareta Dekapai~
     author: inkey
@@ -189,6 +189,13 @@ works:
     date: '2026-04-23'
     code: 603122
     url: /works/603122/
+  - title: Hagiwara Yukiho no Nijuu Seiai
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/609238.jpg
+    rating: 0.0
+    date: '2026-10-12'
+    code: 609238
+    url: /works/609238/
   - title: Maid-san no Shokushu zuke houshikatsudou
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/611988.jpg

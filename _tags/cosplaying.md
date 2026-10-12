@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "cosplaying"
-work_count: 27
+work_count: 28
 works:
   - title: My Sugar Mama! 1-3
     author: azukiko
@@ -33,6 +33,13 @@ works:
     date: '2026-08-25'
     code: 518387
     url: /works/518387/
+  - title: 1/5 no Renai Kanjou | A Fifth of Romance
+    author: chicke-iii
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/568871.jpg
+    rating: 0.0
+    date: '2026-10-12'
+    code: 568871
+    url: /works/568871/
   - title: 'LESFES CO Incident: Suspended Account'
     author: remora-works
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/569267.jpg
