@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole male"
-work_count: 984
+work_count: 986
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -356,6 +356,13 @@ works:
     date: '2026-09-22'
     code: 307241
     url: /works/307241/
+  - title: Haruka After 6
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/307418.jpg
+    rating: 0.0
+    date: '2026-10-13'
+    code: 307418
+    url: /works/307418/
   - title: Itomusubi Vol. 2
     author: bekotarou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/311755.jpg
@@ -7280,6 +7287,13 @@ works:
     date: '2026-10-13'
     code: 687125
     url: /works/687125/
+  - title: Bokura no Libido - CHAPTER 1-15
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687228.jpg
+    rating: 5.0
+    date: '2026-10-13'
+    code: 687228
+    url: /works/687228/
   - title: Abydos no Natsuyasumi
     author: takayaki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687235.jpg

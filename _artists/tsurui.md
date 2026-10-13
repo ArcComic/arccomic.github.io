@@ -1,7 +1,7 @@
 ---
 layout: artist
 artist_name: "tsurui"
-work_count: 35
+work_count: 36
 works:
   - title: Ami Mami Mind 5
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/262169.jpg
@@ -45,6 +45,12 @@ works:
     date: '2026-10-12'
     code: 289785
     url: /works/289785/
+  - title: Haruka After 6
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/307418.jpg
+    rating: 0.0
+    date: '2026-10-13'
+    code: 307418
+    url: /works/307418/
   - title: Yukiho to yoru no kekkonshiki | Evening Wedding with Yukiho
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/316122.jpg
     rating: 4.8

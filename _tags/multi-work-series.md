@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "multi-work series"
-work_count: 406
+work_count: 408
 works:
   - title: Konna ni mo Itooshii Zero
     author: nohito
@@ -66,6 +66,13 @@ works:
     date: '2026-10-09'
     code: 297834
     url: /works/297834/
+  - title: Haruka After 6
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/307418.jpg
+    rating: 0.0
+    date: '2026-10-13'
+    code: 307418
+    url: /works/307418/
   - title: Itomusubi Vol. 2
     author: bekotarou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/311755.jpg
@@ -3041,6 +3048,13 @@ works:
     date: '2026-10-13'
     code: 687225
     url: /works/687225/
+  - title: Bokura no Libido - CHAPTER 1-15
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687228.jpg
+    rating: 5.0
+    date: '2026-10-13'
+    code: 687228
+    url: /works/687228/
   - title: Everyone's Kissing Club - Chapter 1-31
     author: nou-shun
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687230.jpg

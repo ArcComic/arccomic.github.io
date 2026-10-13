@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "lolicon"
-work_count: 94
+work_count: 95
 works:
   - title: A-part | Apartment
     author: zero-no-mono
@@ -678,6 +678,13 @@ works:
     date: '2026-10-07'
     code: 686092
     url: /works/686092/
+  - title: Bokura no Libido - CHAPTER 1-15
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687228.jpg
+    rating: 5.0
+    date: '2026-10-13'
+    code: 687228
+    url: /works/687228/
   - title: Kakushi Tori - Hidden Camera
     author: tirotata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687243.jpg

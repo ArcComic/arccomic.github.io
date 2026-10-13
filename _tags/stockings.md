@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "stockings"
-work_count: 242
+work_count: 243
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -1765,6 +1765,13 @@ works:
     date: '2026-10-11'
     code: 686449
     url: /works/686449/
+  - title: Bokura no Libido - CHAPTER 1-15
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687228.jpg
+    rating: 5.0
+    date: '2026-10-13'
+    code: 687228
+    url: /works/687228/
   - title: Jokyoushi - Hot For Teachers | Female Teachers
     author: drill-murata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/81375.jpg

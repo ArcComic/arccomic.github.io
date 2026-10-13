@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "foot licking"
-work_count: 14
+work_count: 15
 works:
   - title: Kanojo no Amai Jiraishuu
     author: jirou
@@ -102,4 +102,11 @@ works:
     date: '2026-09-30'
     code: 684882
     url: /works/684882/
+  - title: Bokura no Libido - CHAPTER 1-15
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687228.jpg
+    rating: 5.0
+    date: '2026-10-13'
+    code: 687228
+    url: /works/687228/
 ---

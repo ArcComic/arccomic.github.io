@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "no penetration"
-work_count: 42
+work_count: 43
 works:
   - title: Watashi-tachi no Seikoui Tokubetsu Jisshuu -Zengi Hen-
     author: guglielmo
@@ -300,6 +300,13 @@ works:
     date: '2026-10-03'
     code: 685770
     url: /works/685770/
+  - title: Bokura no Libido - CHAPTER 1-15
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687228.jpg
+    rating: 5.0
+    date: '2026-10-13'
+    code: 687228
+    url: /works/687228/
   - title: Everyone's Kissing Club - Chapter 1-31
     author: nou-shun
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687230.jpg

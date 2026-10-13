@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "haruka amami"
-work_count: 3
+work_count: 4
 works:
+  - title: Haruka After 6
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/307418.jpg
+    rating: 0.0
+    date: '2026-10-13'
+    code: 307418
+    url: /works/307418/
   - title: Haruka After 5
     author: tsurui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/317265.jpg

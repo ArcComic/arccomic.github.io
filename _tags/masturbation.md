@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "masturbation"
-work_count: 149
+work_count: 150
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -1108,6 +1108,13 @@ works:
     date: '2026-10-11'
     code: 686525
     url: /works/686525/
+  - title: Bokura no Libido - CHAPTER 1-15
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687228.jpg
+    rating: 5.0
+    date: '2026-10-13'
+    code: 687228
+    url: /works/687228/
   - title: Everyone's Kissing Club - Chapter 1-31
     author: nou-shun
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687230.jpg
