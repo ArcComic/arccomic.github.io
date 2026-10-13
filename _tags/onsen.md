@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "onsen"
-work_count: 17
+work_count: 18
 works:
   - title: Boku dake ni Amaesasete Kureru Kyonyuu JK Tsuma o Hoka no Otoko ni Dakasete
       Mita 11
@@ -131,4 +131,11 @@ works:
     date: '2026-10-11'
     code: 686534
     url: /works/686534/
+  - title: Gal wa Gyaku Rape o Yamerarenai! | You Can't Escape a Gyaru's Reverse-Rape!
+    author: rakujin-sawajiri-merou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686966.jpg
+    rating: 4.0
+    date: '2026-10-13'
+    code: 686966
+    url: /works/686966/
 ---

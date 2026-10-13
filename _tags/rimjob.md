@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "rimjob"
-work_count: 50
+work_count: 51
 works:
   - title: Hitozuma Hyakka
     author: hase-tsubura
@@ -377,6 +377,13 @@ works:
     date: '2026-10-11'
     code: 686383
     url: /works/686383/
+  - title: Gal wa Gyaku Rape o Yamerarenai! | You Can't Escape a Gyaru's Reverse-Rape!
+    author: rakujin-sawajiri-merou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686966.jpg
+    rating: 4.0
+    date: '2026-10-13'
+    code: 686966
+    url: /works/686966/
   - title: Jokyoushi - Hot For Teachers | Female Teachers
     author: drill-murata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/81375.jpg

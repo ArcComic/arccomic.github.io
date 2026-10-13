@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "voyeurism"
-work_count: 62
+work_count: 63
 works:
   - title: Tsutomesaki no Musume-san o Oishiku Itadaku Hon Minshuku Hen
     author: aya
@@ -462,4 +462,11 @@ works:
     date: '2026-09-30'
     code: 684882
     url: /works/684882/
+  - title: It's not Just Adultery - Chapter 1-17
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687225.jpg
+    rating: 0.0
+    date: '2026-10-13'
+    code: 687225
+    url: /works/687225/
 ---

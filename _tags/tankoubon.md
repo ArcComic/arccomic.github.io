@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "tankoubon"
-work_count: 87
+work_count: 88
 works:
   - title: Kaisha de Iroiro | Gettin' Busy at the Office
     author: hara-shigeyuki
@@ -610,6 +610,13 @@ works:
     date: '2026-10-10'
     code: 686531
     url: /works/686531/
+  - title: Gal wa Gyaku Rape o Yamerarenai! | You Can't Escape a Gyaru's Reverse-Rape!
+    author: rakujin-sawajiri-merou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686966.jpg
+    rating: 4.0
+    date: '2026-10-13'
+    code: 686966
+    url: /works/686966/
   - title: Hottokenaino
     author: hara-shigeyuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/77864.jpg

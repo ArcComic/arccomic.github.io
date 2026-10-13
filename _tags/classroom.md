@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "classroom"
-work_count: 12
+work_count: 14
 works:
   - title: Kimiha Bokuno Keikokuno Bijyo | You're the Woman of my Dreams
     author: yasson-yoshiyuki
@@ -92,4 +92,18 @@ works:
     date: '2026-10-11'
     code: 686525
     url: /works/686525/
+  - title: Gal wa Gyaku Rape o Yamerarenai! | You Can't Escape a Gyaru's Reverse-Rape!
+    author: rakujin-sawajiri-merou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686966.jpg
+    rating: 4.0
+    date: '2026-10-13'
+    code: 686966
+    url: /works/686966/
+  - title: It's not Just Adultery - Chapter 1-17
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687225.jpg
+    rating: 0.0
+    date: '2026-10-13'
+    code: 687225
+    url: /works/687225/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "story arc"
-work_count: 226
+work_count: 228
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -1663,6 +1663,20 @@ works:
     date: '2026-10-12'
     code: 686737
     url: /works/686737/
+  - title: Gal wa Gyaku Rape o Yamerarenai! | You Can't Escape a Gyaru's Reverse-Rape!
+    author: rakujin-sawajiri-merou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686966.jpg
+    rating: 4.0
+    date: '2026-10-13'
+    code: 686966
+    url: /works/686966/
+  - title: It's not Just Adultery - Chapter 1-17
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687225.jpg
+    rating: 0.0
+    date: '2026-10-13'
+    code: 687225
+    url: /works/687225/
   - title: Hottokenaino
     author: hara-shigeyuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/77864.jpg

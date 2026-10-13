@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "nakadashi"
-work_count: 884
+work_count: 886
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -6541,6 +6541,13 @@ works:
     date: '2026-10-13'
     code: 686847
     url: /works/686847/
+  - title: Gal wa Gyaku Rape o Yamerarenai! | You Can't Escape a Gyaru's Reverse-Rape!
+    author: rakujin-sawajiri-merou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686966.jpg
+    rating: 4.0
+    date: '2026-10-13'
+    code: 686966
+    url: /works/686966/
   - title: Beit-saki no Itsumo Kigen Warusou na Tsurime no Senpai Shufu (35-sai) o Nomikai
       de Kaihou Shitara, Jitsu wa Otto to Gobusata na Choutsuyo Seiyoku de, Binkan na
       Kyonyuu to Kyojiri o Hamemakutta Hanashi
@@ -6559,6 +6566,13 @@ works:
     date: '2026-10-13'
     code: 687086
     url: /works/687086/
+  - title: Abydos no Natsuyasumi
+    author: takayaki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687235.jpg
+    rating: 0.0
+    date: '2026-10-13'
+    code: 687235
+    url: /works/687235/
   - title: Inin Keiyaku | Lewd Pregnancy Contract
     author: yoshiura-kazuya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/83595.jpg

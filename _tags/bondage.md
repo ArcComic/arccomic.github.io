@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bondage"
-work_count: 106
+work_count: 107
 works:
   - title: Pai☆Panic ~Hasamareta Dekapai~
     author: inkey
@@ -760,6 +760,13 @@ works:
     date: '2026-10-09'
     code: 686334
     url: /works/686334/
+  - title: Gal wa Gyaku Rape o Yamerarenai! | You Can't Escape a Gyaru's Reverse-Rape!
+    author: rakujin-sawajiri-merou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686966.jpg
+    rating: 4.0
+    date: '2026-10-13'
+    code: 686966
+    url: /works/686966/
   - title: Matching Shita Toshiue Onee-san ni Oshioki Sareru Hanashi | How I Got Punished
       by the Older Woman I Matched With
     author: takoneru

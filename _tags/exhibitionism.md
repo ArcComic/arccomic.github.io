@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "exhibitionism"
-work_count: 85
+work_count: 86
 works:
   - title: Watashi-tachi no Seikoui Tokubetsu Jisshuu -Zengi Hen-
     author: guglielmo
@@ -622,6 +622,13 @@ works:
     date: '2026-10-10'
     code: 686422
     url: /works/686422/
+  - title: Gal wa Gyaku Rape o Yamerarenai! | You Can't Escape a Gyaru's Reverse-Rape!
+    author: rakujin-sawajiri-merou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686966.jpg
+    rating: 4.0
+    date: '2026-10-13'
+    code: 686966
+    url: /works/686966/
   - title: Boukan ni Kowasareta Saikyou datta Shishou no Kaigoroku ~Bokura ga Kazoku
       ni Modoru made~ | The Caregiving Records of the Strongest Female Master Broken
       by Ruffians ~Until We Become a Family Again~

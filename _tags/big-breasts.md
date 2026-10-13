@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big breasts"
-work_count: 1182
+work_count: 1184
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -8706,6 +8706,13 @@ works:
     date: '2026-10-13'
     code: 686847
     url: /works/686847/
+  - title: Gal wa Gyaku Rape o Yamerarenai! | You Can't Escape a Gyaru's Reverse-Rape!
+    author: rakujin-sawajiri-merou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686966.jpg
+    rating: 4.0
+    date: '2026-10-13'
+    code: 686966
+    url: /works/686966/
   - title: Matching Shita Toshiue Onee-san ni Oshioki Sareru Hanashi | How I Got Punished
       by the Older Woman I Matched With
     author: takoneru
@@ -8740,6 +8747,13 @@ works:
     date: '2026-10-13'
     code: 687156
     url: /works/687156/
+  - title: Abydos no Natsuyasumi
+    author: takayaki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687235.jpg
+    rating: 0.0
+    date: '2026-10-13'
+    code: 687235
+    url: /works/687235/
   - title: Hottokenaino
     author: hara-shigeyuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/77864.jpg

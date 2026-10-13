@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "infirmary"
-work_count: 5
+work_count: 6
 works:
   - title: Hokenshitsu no Futon no Naka de Satori Sedai JK to Naisho H!
     author: niji-teru
@@ -39,4 +39,11 @@ works:
     date: '2026-09-30'
     code: 684882
     url: /works/684882/
+  - title: Gal wa Gyaku Rape o Yamerarenai! | You Can't Escape a Gyaru's Reverse-Rape!
+    author: rakujin-sawajiri-merou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686966.jpg
+    rating: 4.0
+    date: '2026-10-13'
+    code: 686966
+    url: /works/686966/
 ---
