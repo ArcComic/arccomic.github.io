@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bikini"
-work_count: 87
+work_count: 88
 works:
   - title: Kizashi
     author: yoshiura-kazuya
@@ -667,4 +667,12 @@ works:
     date: '2026-10-11'
     code: 686383
     url: /works/686383/
+  - title: Denryuu Massage nanka de Iku Wakenai janai desuka | I Don't Think an Electric
+      Current Massage is Going to Make Me Cum
+    author: hiragi-hanika
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687120.jpg
+    rating: 4.6
+    date: '2026-10-13'
+    code: 687120
+    url: /works/687120/
 ---

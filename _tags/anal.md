@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "anal"
-work_count: 169
+work_count: 171
 works:
   - title: Ikanishite Haha wa Onna o Kaihou Shitaka Ch. 1-14
     author: mitarai-yuuki
@@ -1234,6 +1234,23 @@ works:
     date: '2026-10-10'
     code: 686511
     url: /works/686511/
+  - title: Matching Shita Toshiue Onee-san ni Oshioki Sareru Hanashi | How I Got Punished
+      by the Older Woman I Matched With
+    author: takoneru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687044.jpg
+    rating: 0.0
+    date: '2026-10-13'
+    code: 687044
+    url: /works/687044/
+  - title: Boukan ni Kowasareta Saikyou datta Shishou no Kaigoroku ~Bokura ga Kazoku
+      ni Modoru made~ | The Caregiving Records of the Strongest Female Master Broken
+      by Ruffians ~Until We Become a Family Again~
+    author: rabu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687086.jpg
+    rating: 4.6
+    date: '2026-10-13'
+    code: 687086
+    url: /works/687086/
   - title: Jokyoushi - Hot For Teachers | Female Teachers
     author: drill-murata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/81375.jpg

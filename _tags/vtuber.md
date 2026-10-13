@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "vtuber"
-work_count: 19
+work_count: 20
 works:
   - title: Giragira no Beach
     author: shimantogawa
@@ -138,4 +138,11 @@ works:
     date: '2026-10-01'
     code: 685242
     url: /works/685242/
+  - title: Omae no Chinpo de Iku Wake Nai yaro...!!
+    author: tanaue
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687185.jpg
+    rating: 0.0
+    date: '2026-10-13'
+    code: 687185
+    url: /works/687185/
 ---

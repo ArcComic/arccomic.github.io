@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big areolae"
-work_count: 103
+work_count: 104
 works:
   - title: Soubo Soukan 2 | Twin mothers incest 2 FULL
     author: nanao-yukiji
@@ -776,15 +776,24 @@ works:
       Kyonyuu to Kyojiri o Hamemakutta Hanashi
     author: akutenkou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687079.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-10-13'
     code: 687079
     url: /works/687079/
+  - title: Boukan ni Kowasareta Saikyou datta Shishou no Kaigoroku ~Bokura ga Kazoku
+      ni Modoru made~ | The Caregiving Records of the Strongest Female Master Broken
+      by Ruffians ~Until We Become a Family Again~
+    author: rabu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687086.jpg
+    rating: 4.6
+    date: '2026-10-13'
+    code: 687086
+    url: /works/687086/
   - title: Bakunyuu na Rikujoubu no Kanojo, Senpai ni wa Sakaraemasen | The Track and
       Field Girl with the Huge Boobs Can't Disobey Her Senpai!
     author: marumai
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687156.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-10-13'
     code: 687156
     url: /works/687156/

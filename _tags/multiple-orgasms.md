@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "multiple orgasms"
-work_count: 124
+work_count: 126
 works:
   - title: Rako Slip!
     author: bujidearu
@@ -931,4 +931,20 @@ works:
     date: '2026-10-10'
     code: 686448
     url: /works/686448/
+  - title: Matching Shita Toshiue Onee-san ni Oshioki Sareru Hanashi | How I Got Punished
+      by the Older Woman I Matched With
+    author: takoneru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687044.jpg
+    rating: 0.0
+    date: '2026-10-13'
+    code: 687044
+    url: /works/687044/
+  - title: Denryuu Massage nanka de Iku Wakenai janai desuka | I Don't Think an Electric
+      Current Massage is Going to Make Me Cum
+    author: hiragi-hanika
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687120.jpg
+    rating: 4.6
+    date: '2026-10-13'
+    code: 687120
+    url: /works/687120/
 ---

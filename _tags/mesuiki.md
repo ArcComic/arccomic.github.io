@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "mesuiki"
-work_count: 12
+work_count: 13
 works:
   - title: 'GNO: Girl''s Night Out - Issue 02'
     author: uselessbegging
@@ -95,4 +95,12 @@ works:
     date: '2026-10-01'
     code: 685242
     url: /works/685242/
+  - title: Matching Shita Toshiue Onee-san ni Oshioki Sareru Hanashi | How I Got Punished
+      by the Older Woman I Matched With
+    author: takoneru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687044.jpg
+    rating: 0.0
+    date: '2026-10-13'
+    code: 687044
+    url: /works/687044/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "ponytail"
-work_count: 177
+work_count: 179
 works:
   - title: Ami Mami Mind 5
     author: tsurui
@@ -1298,11 +1298,26 @@ works:
     date: '2026-10-11'
     code: 686534
     url: /works/686534/
+  - title: Majime na Doukyuusei ga Love Love Namahame Sex o suru made
+    author: takeyuu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686847.jpg
+    rating: 0.0
+    date: '2026-10-13'
+    code: 686847
+    url: /works/686847/
+  - title: Matching Shita Toshiue Onee-san ni Oshioki Sareru Hanashi | How I Got Punished
+      by the Older Woman I Matched With
+    author: takoneru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687044.jpg
+    rating: 0.0
+    date: '2026-10-13'
+    code: 687044
+    url: /works/687044/
   - title: Bakunyuu na Rikujoubu no Kanojo, Senpai ni wa Sakaraemasen | The Track and
       Field Girl with the Huge Boobs Can't Disobey Her Senpai!
     author: marumai
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687156.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-10-13'
     code: 687156
     url: /works/687156/

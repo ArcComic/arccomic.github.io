@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "condom"
-work_count: 231
+work_count: 233
 works:
   - title: Kaisha de Iroiro | Gettin' Busy at the Office
     author: hara-shigeyuki
@@ -1703,6 +1703,21 @@ works:
     date: '2026-10-12'
     code: 686737
     url: /works/686737/
+  - title: Majime na Doukyuusei ga Love Love Namahame Sex o suru made
+    author: takeyuu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686847.jpg
+    rating: 0.0
+    date: '2026-10-13'
+    code: 686847
+    url: /works/686847/
+  - title: Matching Shita Toshiue Onee-san ni Oshioki Sareru Hanashi | How I Got Punished
+      by the Older Woman I Matched With
+    author: takoneru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687044.jpg
+    rating: 0.0
+    date: '2026-10-13'
+    code: 687044
+    url: /works/687044/
   - title: Ranko-ppoi no! | Ranko-Ish!
     author: napata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/87393.jpg

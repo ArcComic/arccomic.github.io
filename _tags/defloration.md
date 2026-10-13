@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "defloration"
-work_count: 245
+work_count: 246
 works:
   - title: Imitation Family + Bigibo Hen
     author: tohzai
@@ -1809,11 +1809,18 @@ works:
     date: '2026-10-12'
     code: 686737
     url: /works/686737/
+  - title: Majime na Doukyuusei ga Love Love Namahame Sex o suru made
+    author: takeyuu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686847.jpg
+    rating: 0.0
+    date: '2026-10-13'
+    code: 686847
+    url: /works/686847/
   - title: Bakunyuu na Rikujoubu no Kanojo, Senpai ni wa Sakaraemasen | The Track and
       Field Girl with the Huge Boobs Can't Disobey Her Senpai!
     author: marumai
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687156.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-10-13'
     code: 687156
     url: /works/687156/

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "chastity belt"
-work_count: 11
+work_count: 12
 works:
   - title: Doushia (Terasu MC)] Dorei Gazoku
     author: terasu-mc
@@ -81,4 +81,12 @@ works:
     date: '2026-10-05'
     code: 685961
     url: /works/685961/
+  - title: Matching Shita Toshiue Onee-san ni Oshioki Sareru Hanashi | How I Got Punished
+      by the Older Woman I Matched With
+    author: takoneru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687044.jpg
+    rating: 0.0
+    date: '2026-10-13'
+    code: 687044
+    url: /works/687044/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "english"
-work_count: 1759
+work_count: 1762
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -12879,6 +12879,21 @@ works:
     date: '2026-10-12'
     code: 686737
     url: /works/686737/
+  - title: Majime na Doukyuusei ga Love Love Namahame Sex o suru made
+    author: takeyuu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686847.jpg
+    rating: 0.0
+    date: '2026-10-13'
+    code: 686847
+    url: /works/686847/
+  - title: Matching Shita Toshiue Onee-san ni Oshioki Sareru Hanashi | How I Got Punished
+      by the Older Woman I Matched With
+    author: takoneru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687044.jpg
+    rating: 0.0
+    date: '2026-10-13'
+    code: 687044
+    url: /works/687044/
   - title: Beit-saki no Itsumo Kigen Warusou na Tsurime no Senpai Shufu (35-sai) o Nomikai
       de Kaihou Shitara, Jitsu wa Otto to Gobusata na Choutsuyo Seiyoku de, Binkan na
       Kyonyuu to Kyojiri o Hamemakutta Hanashi
@@ -12913,6 +12928,13 @@ works:
     date: '2026-10-13'
     code: 687156
     url: /works/687156/
+  - title: Omae no Chinpo de Iku Wake Nai yaro...!!
+    author: tanaue
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687185.jpg
+    rating: 0.0
+    date: '2026-10-13'
+    code: 687185
+    url: /works/687185/
   - title: Hottokenaino
     author: hara-shigeyuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/77864.jpg

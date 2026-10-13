@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "thigh high boots"
-work_count: 6
+work_count: 7
 works:
   - title: Shika wa Tottemo Sekkyokuteki desu!
     author: tsurui
@@ -46,4 +46,12 @@ works:
     date: '2026-10-10'
     code: 686496
     url: /works/686496/
+  - title: Matching Shita Toshiue Onee-san ni Oshioki Sareru Hanashi | How I Got Punished
+      by the Older Woman I Matched With
+    author: takoneru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687044.jpg
+    rating: 0.0
+    date: '2026-10-13'
+    code: 687044
+    url: /works/687044/
 ---

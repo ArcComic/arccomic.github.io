@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "females only"
-work_count: 35
+work_count: 36
 works:
   - title: Himitsu no Kamiura san | The Mysterious Kamiura-san
     author: takeshisu
@@ -254,4 +254,12 @@ works:
     date: '2026-10-05'
     code: 685989
     url: /works/685989/
+  - title: Denryuu Massage nanka de Iku Wakenai janai desuka | I Don't Think an Electric
+      Current Massage is Going to Make Me Cum
+    author: hiragi-hanika
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687120.jpg
+    rating: 4.6
+    date: '2026-10-13'
+    code: 687120
+    url: /works/687120/
 ---

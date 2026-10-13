@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "deepthroat"
-work_count: 86
+work_count: 88
 works:
   - title: Toshishita Chin Kui Obasan
     author: maccha-neji
@@ -319,6 +319,13 @@ works:
     date: '2026-09-25'
     code: 654681
     url: /works/654681/
+  - title: Watashi wa Tsuma de Haha de, Tada no Mesu 2
+    author: kakyuu-bushi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/655416.jpg
+    rating: 4.3
+    date: '2026-10-13'
+    code: 655416
+    url: /works/655416/
   - title: A story about a shy childhood friend who can’t say no and ends up being put
       in charge of handling sexual needs.
     author: sakurayu-hal
@@ -661,4 +668,11 @@ works:
     date: '2026-10-10'
     code: 686438
     url: /works/686438/
+  - title: Majime na Doukyuusei ga Love Love Namahame Sex o suru made
+    author: takeyuu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686847.jpg
+    rating: 0.0
+    date: '2026-10-13'
+    code: 686847
+    url: /works/686847/
 ---

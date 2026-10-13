@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "passed out"
-work_count: 6
+work_count: 7
 works:
   - title: Tonari no Seki no Tomodachi to Issho ni Onanii Suru Hanashi | The Story About
       Masturbating Together With the Friend Who Sits Next to Me
@@ -41,6 +41,13 @@ works:
     date: '2026-09-18'
     code: 654010
     url: /works/654010/
+  - title: Watashi wa Tsuma de Haha de, Tada no Mesu 2
+    author: kakyuu-bushi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/655416.jpg
+    rating: 4.3
+    date: '2026-10-13'
+    code: 655416
+    url: /works/655416/
   - title: Dr. Sae's Sexual Behavior Study
     author: torichamaru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/675652.jpg
