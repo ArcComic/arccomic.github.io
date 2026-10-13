@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bikini"
-work_count: 89
+work_count: 90
 works:
   - title: Kizashi
     author: yoshiura-kazuya
@@ -667,6 +667,13 @@ works:
     date: '2026-10-11'
     code: 686383
     url: /works/686383/
+  - title: Summer Junk LOVE
+    author: okara
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687003.jpg
+    rating: 0.0
+    date: '2026-10-13'
+    code: 687003
+    url: /works/687003/
   - title: Denryuu Massage nanka de Iku Wakenai janai desuka | I Don't Think an Electric
       Current Massage is Going to Make Me Cum
     author: hiragi-hanika

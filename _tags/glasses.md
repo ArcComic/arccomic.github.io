@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "glasses"
-work_count: 287
+work_count: 289
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -2086,6 +2086,20 @@ works:
     date: '2026-10-13'
     code: 686966
     url: /works/686966/
+  - title: Chin (Atatame) Masu Kaa? | Would You Like That Warmed Up?
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687125.jpg
+    rating: 0.0
+    date: '2026-10-13'
+    code: 687125
+    url: /works/687125/
+  - title: Everyone's Kissing Club - Chapter 1-31
+    author: nou-shun
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687230.jpg
+    rating: 0.0
+    date: '2026-10-13'
+    code: 687230
+    url: /works/687230/
   - title: Abydos no Natsuyasumi
     author: takayaki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687235.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "netorare"
-work_count: 449
+work_count: 450
 works:
   - title: Kousa suru Osu to Mesu | Male and Female Crossing
     author: ootsuka-kotora
@@ -3309,6 +3309,13 @@ works:
     date: '2026-10-13'
     code: 687225
     url: /works/687225/
+  - title: Everyone's Kissing Club - Chapter 1-31
+    author: nou-shun
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687230.jpg
+    rating: 0.0
+    date: '2026-10-13'
+    code: 687230
+    url: /works/687230/
   - title: Inin Keiyaku | Lewd Pregnancy Contract
     author: yoshiura-kazuya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/83595.jpg

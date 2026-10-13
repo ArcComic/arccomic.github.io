@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "drunk"
-work_count: 55
+work_count: 56
 works:
   - title: Birthday
     author: hashiba-yachi
@@ -403,4 +403,11 @@ works:
     date: '2026-10-05'
     code: 686044
     url: /works/686044/
+  - title: Summer Junk LOVE
+    author: okara
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687003.jpg
+    rating: 0.0
+    date: '2026-10-13'
+    code: 687003
+    url: /works/687003/
 ---

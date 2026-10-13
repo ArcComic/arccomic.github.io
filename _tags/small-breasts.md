@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "small breasts"
-work_count: 53
+work_count: 54
 works:
   - title: FLUFFY LAUGH GIRL
     author: shibasaki-syouzi
@@ -385,6 +385,13 @@ works:
     date: '2026-09-30'
     code: 684897
     url: /works/684897/
+  - title: Summer Junk LOVE
+    author: okara
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687003.jpg
+    rating: 0.0
+    date: '2026-10-13'
+    code: 687003
+    url: /works/687003/
   - title: Denryuu Massage nanka de Iku Wakenai janai desuka | I Don't Think an Electric
       Current Massage is Going to Make Me Cum
     author: hiragi-hanika

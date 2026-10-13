@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "translated"
-work_count: 1710
+work_count: 1713
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -12495,6 +12495,13 @@ works:
     date: '2026-10-13'
     code: 686966
     url: /works/686966/
+  - title: Summer Junk LOVE
+    author: okara
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687003.jpg
+    rating: 0.0
+    date: '2026-10-13'
+    code: 687003
+    url: /works/687003/
   - title: Matching Shita Toshiue Onee-san ni Oshioki Sareru Hanashi | How I Got Punished
       by the Older Woman I Matched With
     author: takoneru
@@ -12529,6 +12536,13 @@ works:
     date: '2026-10-13'
     code: 687120
     url: /works/687120/
+  - title: Chin (Atatame) Masu Kaa? | Would You Like That Warmed Up?
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687125.jpg
+    rating: 0.0
+    date: '2026-10-13'
+    code: 687125
+    url: /works/687125/
   - title: Bakunyuu na Rikujoubu no Kanojo, Senpai ni wa Sakaraemasen | The Track and
       Field Girl with the Huge Boobs Can't Disobey Her Senpai!
     author: marumai
@@ -12551,6 +12565,13 @@ works:
     date: '2026-10-13'
     code: 687225
     url: /works/687225/
+  - title: Everyone's Kissing Club - Chapter 1-31
+    author: nou-shun
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687230.jpg
+    rating: 0.0
+    date: '2026-10-13'
+    code: 687230
+    url: /works/687230/
   - title: Abydos no Natsuyasumi
     author: takayaki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687235.jpg

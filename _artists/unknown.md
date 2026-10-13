@@ -1,7 +1,7 @@
 ---
 layout: artist
 artist_name: "unknown"
-work_count: 78
+work_count: 79
 works:
   - title: Hajimete Kanojo Ga Dekita No Ni
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/316579.jpg
@@ -482,6 +482,12 @@ works:
     date: '2026-10-09'
     code: 686320
     url: /works/686320/
+  - title: Chin (Atatame) Masu Kaa? | Would You Like That Warmed Up?
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687125.jpg
+    rating: 0.0
+    date: '2026-10-13'
+    code: 687125
+    url: /works/687125/
   - title: It's not Just Adultery - Chapter 1-17
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687225.jpg
     rating: 0.0

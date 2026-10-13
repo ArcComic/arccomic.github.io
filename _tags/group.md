@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "group"
-work_count: 263
+work_count: 264
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -1929,4 +1929,11 @@ works:
     date: '2026-10-13'
     code: 687086
     url: /works/687086/
+  - title: Everyone's Kissing Club - Chapter 1-31
+    author: nou-shun
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687230.jpg
+    rating: 0.0
+    date: '2026-10-13'
+    code: 687230
+    url: /works/687230/
 ---

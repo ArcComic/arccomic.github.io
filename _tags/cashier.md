@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "cashier"
-work_count: 3
+work_count: 4
 works:
   - title: Reji-ka no Kanojo ~Kareshi no Tame ni Hataraite ita Watashi ga Tenchou no
       Seiganku ni natta Riyuu~ | My Cashier Girlfriend ~The Reason I, Who Was Working
@@ -27,4 +27,11 @@ works:
     date: '2026-10-07'
     code: 671129
     url: /works/671129/
+  - title: Chin (Atatame) Masu Kaa? | Would You Like That Warmed Up?
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687125.jpg
+    rating: 0.0
+    date: '2026-10-13'
+    code: 687125
+    url: /works/687125/
 ---

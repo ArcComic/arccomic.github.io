@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "unusual teeth"
-work_count: 5
+work_count: 6
 works:
   - title: 'Chinmake Kouman Okugata-sama | Haughty Housewives: Defeated by Dick'
     author: minamida-usuke
@@ -38,4 +38,11 @@ works:
     date: '2026-09-16'
     code: 681498
     url: /works/681498/
+  - title: Everyone's Kissing Club - Chapter 1-31
+    author: nou-shun
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687230.jpg
+    rating: 0.0
+    date: '2026-10-13'
+    code: 687230
+    url: /works/687230/
 ---
