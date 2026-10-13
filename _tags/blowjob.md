@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "blowjob"
-work_count: 700
+work_count: 701
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -5169,6 +5169,13 @@ works:
     date: '2026-10-13'
     code: 687086
     url: /works/687086/
+  - title: Otouto ni Ero Manga to Onaji Koto o Sarechau Onee-chan no Hanashi 1
+    author: sakurayu-hal
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687098.jpg
+    rating: 4.2
+    date: '2026-10-13'
+    code: 687098
+    url: /works/687098/
   - title: Chin (Atatame) Masu Kaa? | Would You Like That Warmed Up?
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687125.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "scanmark"
-work_count: 233
+work_count: 234
 works:
   - title: NTR Anniversary + ) [Syukurin] Mitsuha ~Netorare~ (Kimi no Na wa.) [English]
       [Colorized] by Mikaku
@@ -1684,4 +1684,11 @@ works:
     date: '2026-10-10'
     code: 686471
     url: /works/686471/
+  - title: Otouto ni Ero Manga to Onaji Koto o Sarechau Onee-chan no Hanashi 1
+    author: sakurayu-hal
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687098.jpg
+    rating: 4.2
+    date: '2026-10-13'
+    code: 687098
+    url: /works/687098/
 ---

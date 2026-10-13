@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "filming"
-work_count: 111
+work_count: 112
 works:
   - title: Ikanishite Haha wa Onna o Kaihou Shitaka Ch. 1-14
     author: mitarai-yuuki
@@ -825,4 +825,11 @@ works:
     date: '2026-10-13'
     code: 687225
     url: /works/687225/
+  - title: Kakushi Tori - Hidden Camera
+    author: tirotata
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687243.jpg
+    rating: 0.0
+    date: '2026-10-13'
+    code: 687243
+    url: /works/687243/
 ---

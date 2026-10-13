@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "kissing"
-work_count: 397
+work_count: 398
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -2202,6 +2202,13 @@ works:
     date: '2026-09-04'
     code: 669459
     url: /works/669459/
+  - title: Kyuuyuu to furin shitemita - Chapter 1-9
+    author: kishi-torajirou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/671549.jpg
+    rating: 0.0
+    date: '2026-10-13'
+    code: 671549
+    url: /works/671549/
   - title: Yojouhan no Yuragi - Fluctuations in a Four-and-a-Half Tatami Room.
     author: syoukaki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/672154.jpg

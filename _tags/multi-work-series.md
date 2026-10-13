@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "multi-work series"
-work_count: 405
+work_count: 406
 works:
   - title: Konna ni mo Itooshii Zero
     author: nohito
@@ -2193,6 +2193,13 @@ works:
     date: '2026-10-07'
     code: 671129
     url: /works/671129/
+  - title: Kyuuyuu to furin shitemita - Chapter 1-9
+    author: kishi-torajirou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/671549.jpg
+    rating: 0.0
+    date: '2026-10-13'
+    code: 671549
+    url: /works/671549/
   - title: Unsweet Kazumi Wakui + (Plus) SIDE Kazumi
     author: tanaka-aji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/671907.jpg

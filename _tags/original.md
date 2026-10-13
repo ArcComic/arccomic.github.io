@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "original"
-work_count: 1165
+work_count: 1167
 works:
   - title: Natsu dake Koibito - Summer only Lover [English] =Forbidden Fetish + Ser
       Maggot=
@@ -8648,6 +8648,13 @@ works:
     date: '2026-10-13'
     code: 687086
     url: /works/687086/
+  - title: Otouto ni Ero Manga to Onaji Koto o Sarechau Onee-chan no Hanashi 1
+    author: sakurayu-hal
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687098.jpg
+    rating: 4.2
+    date: '2026-10-13'
+    code: 687098
+    url: /works/687098/
   - title: Denryuu Massage nanka de Iku Wakenai janai desuka | I Don't Think an Electric
       Current Massage is Going to Make Me Cum
     author: hiragi-hanika
@@ -8671,4 +8678,11 @@ works:
     date: '2026-10-13'
     code: 687156
     url: /works/687156/
+  - title: Kakushi Tori - Hidden Camera
+    author: tirotata
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687243.jpg
+    rating: 0.0
+    date: '2026-10-13'
+    code: 687243
+    url: /works/687243/
 ---

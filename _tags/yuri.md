@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "yuri"
-work_count: 57
+work_count: 58
 works:
   - title: Himitsu no Kamiura san | The Mysterious Kamiura-san
     author: takeshisu
@@ -229,6 +229,13 @@ works:
     date: '2026-09-07'
     code: 669254
     url: /works/669254/
+  - title: Kyuuyuu to furin shitemita - Chapter 1-9
+    author: kishi-torajirou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/671549.jpg
+    rating: 0.0
+    date: '2026-10-13'
+    code: 671549
+    url: /works/671549/
   - title: IPU - Invisible Pink Unicorn
     author: masaki-kazuyoshi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/674268.jpg

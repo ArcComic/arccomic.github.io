@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "hidden sex"
-work_count: 95
+work_count: 96
 works:
   - title: Tsutomesaki no Musume-san o Oishiku Itadaku Hon Minshuku Hen
     author: aya
@@ -567,6 +567,13 @@ works:
     date: '2026-09-18'
     code: 668045
     url: /works/668045/
+  - title: Kyuuyuu to furin shitemita - Chapter 1-9
+    author: kishi-torajirou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/671549.jpg
+    rating: 0.0
+    date: '2026-10-13'
+    code: 671549
+    url: /works/671549/
   - title: Nuite Moraimakuri Nyuuin Seikatsu ~Tasuketa Cool-Gyaru wa Jitsu wa Sukebe
       deshita~
     author: gujira

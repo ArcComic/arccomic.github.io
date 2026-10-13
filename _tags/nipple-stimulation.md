@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "nipple stimulation"
-work_count: 162
+work_count: 163
 works:
   - title: Hypnotic Domination ~ The Fall of Tennis Club Ace ~
     author: danchino
@@ -828,6 +828,13 @@ works:
     date: '2026-09-29'
     code: 670438
     url: /works/670438/
+  - title: Kyuuyuu to furin shitemita - Chapter 1-9
+    author: kishi-torajirou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/671549.jpg
+    rating: 0.0
+    date: '2026-10-13'
+    code: 671549
+    url: /works/671549/
   - title: Namaiki na Kizoku Reijou ni Chijoku no Biyaku Tsurizeme o
     author: mochiji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/671813.jpg

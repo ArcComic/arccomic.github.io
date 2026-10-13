@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "squirting"
-work_count: 151
+work_count: 152
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -813,6 +813,13 @@ works:
     date: '2026-10-11'
     code: 669744
     url: /works/669744/
+  - title: Kyuuyuu to furin shitemita - Chapter 1-9
+    author: kishi-torajirou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/671549.jpg
+    rating: 0.0
+    date: '2026-10-13'
+    code: 671549
+    url: /works/671549/
   - title: 'Breeding License: ~Am I, the Unpopular Guy, the One with the Strongest Genes?!~'
     author: minamihama-yoriko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/674009.jpg

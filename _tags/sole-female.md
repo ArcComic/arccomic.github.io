@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole female"
-work_count: 1045
+work_count: 1046
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -7709,6 +7709,13 @@ works:
     date: '2026-10-13'
     code: 687079
     url: /works/687079/
+  - title: Otouto ni Ero Manga to Onaji Koto o Sarechau Onee-chan no Hanashi 1
+    author: sakurayu-hal
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687098.jpg
+    rating: 4.2
+    date: '2026-10-13'
+    code: 687098
+    url: /works/687098/
   - title: Chin (Atatame) Masu Kaa? | Would You Like That Warmed Up?
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687125.jpg

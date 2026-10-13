@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "masturbation"
-work_count: 148
+work_count: 149
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -814,6 +814,13 @@ works:
     date: '2026-09-04'
     code: 669459
     url: /works/669459/
+  - title: Kyuuyuu to furin shitemita - Chapter 1-9
+    author: kishi-torajirou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/671549.jpg
+    rating: 0.0
+    date: '2026-10-13'
+    code: 671549
+    url: /works/671549/
   - title: ENG AI Translated [Hanpatsu Zokusei] Mayu-chan EP 1 - 4
     author: hanpatsu-zokusei-mejikara-scene
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673485.jpg
