@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "producer"
-work_count: 64
+work_count: 65
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -213,6 +213,13 @@ works:
     date: '2026-10-09'
     code: 361286
     url: /works/361286/
+  - title: Yayoi to Apron
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/363825.jpg
+    rating: 0.0
+    date: '2026-10-13'
+    code: 363825
+    url: /works/363825/
   - title: Leon to Onsen
     author: tsurui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/364923.jpg
@@ -280,7 +287,7 @@ works:
   - title: Hagiwara Yukiho no Nijuu Seiai
     author: tsurui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/609238.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-12'
     code: 609238
     url: /works/609238/

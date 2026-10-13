@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "doujinshi"
-work_count: 1440
+work_count: 1443
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -553,6 +553,13 @@ works:
     date: '2026-09-05'
     code: 363219
     url: /works/363219/
+  - title: Yayoi to Apron
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/363825.jpg
+    rating: 0.0
+    date: '2026-10-13'
+    code: 363825
+    url: /works/363825/
   - title: Leon to Onsen
     author: tsurui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/364923.jpg
@@ -2821,7 +2828,7 @@ works:
   - title: 1/5 no Renai Kanjou | A Fifth of Romance
     author: chicke-iii
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/568871.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-12'
     code: 568871
     url: /works/568871/
@@ -3600,7 +3607,7 @@ works:
   - title: Hagiwara Yukiho no Nijuu Seiai
     author: tsurui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/609238.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-12'
     code: 609238
     url: /works/609238/
@@ -10630,6 +10637,23 @@ works:
     date: '2026-10-12'
     code: 686737
     url: /works/686737/
+  - title: Beit-saki no Itsumo Kigen Warusou na Tsurime no Senpai Shufu (35-sai) o Nomikai
+      de Kaihou Shitara, Jitsu wa Otto to Gobusata na Choutsuyo Seiyoku de, Binkan na
+      Kyonyuu to Kyojiri o Hamemakutta Hanashi
+    author: akutenkou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687079.jpg
+    rating: 0.0
+    date: '2026-10-13'
+    code: 687079
+    url: /works/687079/
+  - title: Bakunyuu na Rikujoubu no Kanojo, Senpai ni wa Sakaraemasen | The Track and
+      Field Girl with the Huge Boobs Can't Disobey Her Senpai!
+    author: marumai
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687156.jpg
+    rating: 0.0
+    date: '2026-10-13'
+    code: 687156
+    url: /works/687156/
   - title: Ranko-ppoi no! | Ranko-Ish!
     author: napata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/87393.jpg

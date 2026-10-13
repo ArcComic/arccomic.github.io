@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big breasts"
-work_count: 1176
+work_count: 1178
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -2199,7 +2199,7 @@ works:
   - title: 1/5 no Renai Kanjou | A Fifth of Romance
     author: chicke-iii
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/568871.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-12'
     code: 568871
     url: /works/568871/
@@ -8692,6 +8692,23 @@ works:
     date: '2026-10-12'
     code: 686737
     url: /works/686737/
+  - title: Beit-saki no Itsumo Kigen Warusou na Tsurime no Senpai Shufu (35-sai) o Nomikai
+      de Kaihou Shitara, Jitsu wa Otto to Gobusata na Choutsuyo Seiyoku de, Binkan na
+      Kyonyuu to Kyojiri o Hamemakutta Hanashi
+    author: akutenkou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687079.jpg
+    rating: 0.0
+    date: '2026-10-13'
+    code: 687079
+    url: /works/687079/
+  - title: Bakunyuu na Rikujoubu no Kanojo, Senpai ni wa Sakaraemasen | The Track and
+      Field Girl with the Huge Boobs Can't Disobey Her Senpai!
+    author: marumai
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687156.jpg
+    rating: 0.0
+    date: '2026-10-13'
+    code: 687156
+    url: /works/687156/
   - title: Hottokenaino
     author: hara-shigeyuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/77864.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sex toys"
-work_count: 130
+work_count: 131
 works:
   - title: Mama Naranai Onna-tachi Ch. 1-2
     author: otochichi
@@ -205,7 +205,7 @@ works:
   - title: 1/5 no Renai Kanjou | A Fifth of Romance
     author: chicke-iii
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/568871.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-12'
     code: 568871
     url: /works/568871/
@@ -960,4 +960,12 @@ works:
     date: '2026-10-11'
     code: 686383
     url: /works/686383/
+  - title: Bakunyuu na Rikujoubu no Kanojo, Senpai ni wa Sakaraemasen | The Track and
+      Field Girl with the Huge Boobs Can't Disobey Her Senpai!
+    author: marumai
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687156.jpg
+    rating: 0.0
+    date: '2026-10-13'
+    code: 687156
+    url: /works/687156/
 ---

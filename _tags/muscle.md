@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "muscle"
-work_count: 124
+work_count: 125
 works:
   - title: Kousa suru Osu to Mesu | Male and Female Crossing
     author: ootsuka-kotora
@@ -936,4 +936,12 @@ works:
     date: '2026-10-10'
     code: 686531
     url: /works/686531/
+  - title: Bakunyuu na Rikujoubu no Kanojo, Senpai ni wa Sakaraemasen | The Track and
+      Field Girl with the Huge Boobs Can't Disobey Her Senpai!
+    author: marumai
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687156.jpg
+    rating: 0.0
+    date: '2026-10-13'
+    code: 687156
+    url: /works/687156/
 ---

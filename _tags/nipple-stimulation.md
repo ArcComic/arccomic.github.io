@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "nipple stimulation"
-work_count: 160
+work_count: 161
 works:
   - title: Hypnotic Domination ~ The Fall of Tennis Club Ace ~
     author: danchino
@@ -173,7 +173,7 @@ works:
   - title: 1/5 no Renai Kanjou | A Fifth of Romance
     author: chicke-iii
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/568871.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-12'
     code: 568871
     url: /works/568871/
@@ -1209,4 +1209,12 @@ works:
     date: '2026-10-10'
     code: 686448
     url: /works/686448/
+  - title: Bakunyuu na Rikujoubu no Kanojo, Senpai ni wa Sakaraemasen | The Track and
+      Field Girl with the Huge Boobs Can't Disobey Her Senpai!
+    author: marumai
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687156.jpg
+    rating: 0.0
+    date: '2026-10-13'
+    code: 687156
+    url: /works/687156/
 ---

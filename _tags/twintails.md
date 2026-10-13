@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "twintails"
-work_count: 136
+work_count: 137
 works:
   - title: Sensei wa Shougakusei ga Suki | Sensei Loves Elementary Schoolers
     author: fuyuno-mikan
@@ -40,6 +40,13 @@ works:
     date: '2026-07-13'
     code: 358168
     url: /works/358168/
+  - title: Yayoi to Apron
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/363825.jpg
+    rating: 0.0
+    date: '2026-10-13'
+    code: 363825
+    url: /works/363825/
   - title: Osananajimi no Otou-san ni.
     author: uni18
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/381875.jpg
