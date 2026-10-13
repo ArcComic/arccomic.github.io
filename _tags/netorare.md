@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "netorare"
-work_count: 446
+work_count: 448
 works:
   - title: Kousa suru Osu to Mesu | Male and Female Crossing
     author: ootsuka-kotora
@@ -2043,6 +2043,13 @@ works:
     date: '2026-09-07'
     code: 654812
     url: /works/654812/
+  - title: Watashi wa Tsuma de Haha de, Tada no Mesu 2
+    author: kakyuu-bushi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/655416.jpg
+    rating: 4.3
+    date: '2026-10-13'
+    code: 655416
+    url: /works/655416/
   - title: A story about a shy childhood friend who can’t say no and ends up being put
       in charge of handling sexual needs.
     author: sakurayu-hal
@@ -3278,11 +3285,20 @@ works:
     date: '2026-10-10'
     code: 686531
     url: /works/686531/
+  - title: Boukan ni Kowasareta Saikyou datta Shishou no Kaigoroku ~Bokura ga Kazoku
+      ni Modoru made~ | The Caregiving Records of the Strongest Female Master Broken
+      by Ruffians ~Until We Become a Family Again~
+    author: rabu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687086.jpg
+    rating: 4.6
+    date: '2026-10-13'
+    code: 687086
+    url: /works/687086/
   - title: Bakunyuu na Rikujoubu no Kanojo, Senpai ni wa Sakaraemasen | The Track and
       Field Girl with the Huge Boobs Can't Disobey Her Senpai!
     author: marumai
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687156.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-10-13'
     code: 687156
     url: /works/687156/

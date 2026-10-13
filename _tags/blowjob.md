@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "blowjob"
-work_count: 693
+work_count: 695
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -365,7 +365,7 @@ works:
   - title: Yayoi to Apron
     author: tsurui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/363825.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-10-13'
     code: 363825
     url: /works/363825/
@@ -3320,6 +3320,13 @@ works:
     date: '2026-09-22'
     code: 655339
     url: /works/655339/
+  - title: Watashi wa Tsuma de Haha de, Tada no Mesu 2
+    author: kakyuu-bushi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/655416.jpg
+    rating: 4.3
+    date: '2026-10-13'
+    code: 655416
+    url: /works/655416/
   - title: A story about a shy childhood friend who can’t say no and ends up being put
       in charge of handling sexual needs.
     author: sakurayu-hal
@@ -5135,10 +5142,19 @@ works:
       Kyonyuu to Kyojiri o Hamemakutta Hanashi
     author: akutenkou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687079.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-10-13'
     code: 687079
     url: /works/687079/
+  - title: Boukan ni Kowasareta Saikyou datta Shishou no Kaigoroku ~Bokura ga Kazoku
+      ni Modoru made~ | The Caregiving Records of the Strongest Female Master Broken
+      by Ruffians ~Until We Become a Family Again~
+    author: rabu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687086.jpg
+    rating: 4.6
+    date: '2026-10-13'
+    code: 687086
+    url: /works/687086/
   - title: Jokyoushi - Hot For Teachers | Female Teachers
     author: drill-murata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/81375.jpg

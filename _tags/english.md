@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "english"
-work_count: 1756
+work_count: 1759
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -895,7 +895,7 @@ works:
   - title: Yayoi to Apron
     author: tsurui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/363825.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-10-13'
     code: 363825
     url: /works/363825/
@@ -7463,6 +7463,13 @@ works:
     date: '2026-09-22'
     code: 655339
     url: /works/655339/
+  - title: Watashi wa Tsuma de Haha de, Tada no Mesu 2
+    author: kakyuu-bushi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/655416.jpg
+    rating: 4.3
+    date: '2026-10-13'
+    code: 655416
+    url: /works/655416/
   - title: Karada ga Binkan Sugiru Watashi wa Itoko ni Itazura sarete mo Teikoudekinai!
     author: romomata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/655421.jpg
@@ -12877,15 +12884,32 @@ works:
       Kyonyuu to Kyojiri o Hamemakutta Hanashi
     author: akutenkou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687079.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-10-13'
     code: 687079
     url: /works/687079/
+  - title: Boukan ni Kowasareta Saikyou datta Shishou no Kaigoroku ~Bokura ga Kazoku
+      ni Modoru made~ | The Caregiving Records of the Strongest Female Master Broken
+      by Ruffians ~Until We Become a Family Again~
+    author: rabu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687086.jpg
+    rating: 4.6
+    date: '2026-10-13'
+    code: 687086
+    url: /works/687086/
+  - title: Denryuu Massage nanka de Iku Wakenai janai desuka | I Don't Think an Electric
+      Current Massage is Going to Make Me Cum
+    author: hiragi-hanika
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687120.jpg
+    rating: 4.6
+    date: '2026-10-13'
+    code: 687120
+    url: /works/687120/
   - title: Bakunyuu na Rikujoubu no Kanojo, Senpai ni wa Sakaraemasen | The Track and
       Field Girl with the Huge Boobs Can't Disobey Her Senpai!
     author: marumai
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687156.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-10-13'
     code: 687156
     url: /works/687156/

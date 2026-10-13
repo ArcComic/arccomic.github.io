@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "cheating"
-work_count: 384
+work_count: 385
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -1953,6 +1953,13 @@ works:
     date: '2026-08-24'
     code: 654689
     url: /works/654689/
+  - title: Watashi wa Tsuma de Haha de, Tada no Mesu 2
+    author: kakyuu-bushi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/655416.jpg
+    rating: 4.3
+    date: '2026-10-13'
+    code: 655416
+    url: /works/655416/
   - title: Hirusagari no Otetsudai
     author: mogiki-hayami
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/656686.jpg
@@ -2811,7 +2818,7 @@ works:
       Kyonyuu to Kyojiri o Hamemakutta Hanashi
     author: akutenkou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687079.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-10-13'
     code: 687079
     url: /works/687079/
@@ -2819,7 +2826,7 @@ works:
       Field Girl with the Huge Boobs Can't Disobey Her Senpai!
     author: marumai
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687156.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-10-13'
     code: 687156
     url: /works/687156/

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "impregnation"
-work_count: 163
+work_count: 164
 works:
   - title: Kousa suru Osu to Mesu | Male and Female Crossing
     author: ootsuka-kotora
@@ -1203,6 +1203,15 @@ works:
     date: '2026-10-10'
     code: 686462
     url: /works/686462/
+  - title: Boukan ni Kowasareta Saikyou datta Shishou no Kaigoroku ~Bokura ga Kazoku
+      ni Modoru made~ | The Caregiving Records of the Strongest Female Master Broken
+      by Ruffians ~Until We Become a Family Again~
+    author: rabu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687086.jpg
+    rating: 4.6
+    date: '2026-10-13'
+    code: 687086
+    url: /works/687086/
   - title: Inin Keiyaku | Lewd Pregnancy Contract
     author: yoshiura-kazuya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/83595.jpg

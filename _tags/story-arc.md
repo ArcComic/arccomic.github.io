@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "story arc"
-work_count: 225
+work_count: 226
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -1073,6 +1073,13 @@ works:
     date: '2026-09-29'
     code: 655322
     url: /works/655322/
+  - title: Watashi wa Tsuma de Haha de, Tada no Mesu 2
+    author: kakyuu-bushi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/655416.jpg
+    rating: 4.3
+    date: '2026-10-13'
+    code: 655416
+    url: /works/655416/
   - title: Tonari no Ayane-san Soushuuhen | My Neighbor Ayane Anthology
     author: herio
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/656319.jpg
