@@ -21,7 +21,7 @@ works:
   - title: Haruka After 6
     author: tsurui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/307418.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-10-13'
     code: 307418
     url: /works/307418/
@@ -194,7 +194,7 @@ works:
       by the Older Woman I Matched With
     author: takoneru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687044.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-13'
     code: 687044
     url: /works/687044/

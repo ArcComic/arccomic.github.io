@@ -1016,14 +1016,14 @@ works:
   - title: Everyone's Kissing Club - Chapter 1-31
     author: nou-shun
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687230.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-10-13'
     code: 687230
     url: /works/687230/
   - title: Abydos no Natsuyasumi
     author: takayaki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687235.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-13'
     code: 687235
     url: /works/687235/

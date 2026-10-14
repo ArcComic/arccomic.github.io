@@ -6537,7 +6537,7 @@ works:
   - title: Majime na Doukyuusei ga Love Love Namahame Sex o suru made
     author: takeyuu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686847.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-10-13'
     code: 686847
     url: /works/686847/
@@ -6569,14 +6569,14 @@ works:
   - title: Chin (Atatame) Masu Kaa? | Would You Like That Warmed Up?
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687125.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-13'
     code: 687125
     url: /works/687125/
   - title: Abydos no Natsuyasumi
     author: takayaki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687235.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-13'
     code: 687235
     url: /works/687235/

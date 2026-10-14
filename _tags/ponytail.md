@@ -1301,7 +1301,7 @@ works:
   - title: Majime na Doukyuusei ga Love Love Namahame Sex o suru made
     author: takeyuu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686847.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-10-13'
     code: 686847
     url: /works/686847/
@@ -1309,7 +1309,7 @@ works:
       by the Older Woman I Matched With
     author: takoneru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687044.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-13'
     code: 687044
     url: /works/687044/
@@ -1324,7 +1324,7 @@ works:
   - title: Everyone's Kissing Club - Chapter 1-31
     author: nou-shun
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687230.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-10-13'
     code: 687230
     url: /works/687230/

@@ -297,7 +297,7 @@ works:
   - title: Haruka After 6
     author: tsurui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/307418.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-10-13'
     code: 307418
     url: /works/307418/
@@ -10654,14 +10654,14 @@ works:
   - title: Majime na Doukyuusei ga Love Love Namahame Sex o suru made
     author: takeyuu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/686847.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-10-13'
     code: 686847
     url: /works/686847/
   - title: Summer Junk LOVE
     author: okara
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687003.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-10-13'
     code: 687003
     url: /works/687003/
@@ -10669,7 +10669,7 @@ works:
       by the Older Woman I Matched With
     author: takoneru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687044.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-13'
     code: 687044
     url: /works/687044/
@@ -10709,7 +10709,7 @@ works:
   - title: Chin (Atatame) Masu Kaa? | Would You Like That Warmed Up?
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687125.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-13'
     code: 687125
     url: /works/687125/
@@ -10724,21 +10724,21 @@ works:
   - title: Omae no Chinpo de Iku Wake Nai yaro...!!
     author: tanaue
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687185.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-10-13'
     code: 687185
     url: /works/687185/
   - title: Abydos no Natsuyasumi
     author: takayaki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687235.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-13'
     code: 687235
     url: /works/687235/
   - title: Kakushi Tori - Hidden Camera
     author: tirotata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687243.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-13'
     code: 687243
     url: /works/687243/

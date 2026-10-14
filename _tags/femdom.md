@@ -924,7 +924,7 @@ works:
   - title: Kyuuyuu to furin shitemita - Chapter 1-9
     author: kishi-torajirou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/671549.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-10-13'
     code: 671549
     url: /works/671549/
@@ -1338,14 +1338,14 @@ works:
       by the Older Woman I Matched With
     author: takoneru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687044.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-13'
     code: 687044
     url: /works/687044/
   - title: Everyone's Kissing Club - Chapter 1-31
     author: nou-shun
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687230.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-10-13'
     code: 687230
     url: /works/687230/
