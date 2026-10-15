@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big penis"
-work_count: 264
+work_count: 265
 works:
   - title: Tsuma no Imouto no Danna ga Ie ni Kiteiruyoudesu | My Sister-In-Law's Husband
       is Over
@@ -80,14 +80,14 @@ works:
       Journey to get pregnant'
     author: kakutou-oukoku
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/411246.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-10-15'
     code: 411246
     url: /works/411246/
   - title: 'Knocked Up Samurai 02: The Post Town and the Ronin, Tied and Teased'
     author: kakutou-oukoku
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/412135.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-15'
     code: 412135
     url: /works/412135/
@@ -476,7 +476,7 @@ works:
   - title: CHOP STICK3
     author: kakutou-oukoku
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/588075.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-15'
     code: 588075
     url: /works/588075/
@@ -1361,7 +1361,7 @@ works:
   - title: Jimoto no Dekai Gal | The Big Gyaru From My Hometown
     author: ueno-meguru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/668636.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-10-15'
     code: 668636
     url: /works/668636/
@@ -1501,6 +1501,14 @@ works:
     date: '2026-10-09'
     code: 677170
     url: /works/677170/
+  - title: Yattemiro yo Koibito Doushi ga Yaru Love Love H tte Yatsu o Yoo | Let's Try
+      it Out! The Thing that They Call Lovey-Dovey Sex Between Lovers
+    author: basoba
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678001.jpg
+    rating: 0.0
+    date: '2026-10-15'
+    code: 678001
+    url: /works/678001/
   - title: Hirotta Neko ga Gal de Gokudou no Musume datta Hanashi | The Story of the
       Cat I Picked Up—Who Turned Out to Be a Gal and a Yakuza Boss's Daughter
     author: nakamo
@@ -1964,7 +1972,7 @@ works:
   - title: Oni to Kotori no Noroi | The Demon and the Little Bird Curse
     author: tomatsu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687698.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-15'
     code: 687698
     url: /works/687698/

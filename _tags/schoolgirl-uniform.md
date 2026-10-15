@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "schoolgirl uniform"
-work_count: 367
+work_count: 368
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -181,6 +181,13 @@ works:
     date: '2026-10-07'
     code: 352215
     url: /works/352215/
+  - title: Netorare Sotsugyou Ryokou | NTR Graduation Trip
+    author: milkholic
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/353048.jpg
+    rating: 0.0
+    date: '2026-10-15'
+    code: 353048
+    url: /works/353048/
   - title: Senpai Refrain
     author: spiritus-tarou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/357616.jpg
@@ -1890,7 +1897,7 @@ works:
   - title: Jimoto no Dekai Gal | The Big Gyaru From My Hometown
     author: ueno-meguru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/668636.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-10-15'
     code: 668636
     url: /works/668636/
@@ -2702,7 +2709,7 @@ works:
   - title: Imouto Manga
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687596.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-15'
     code: 687596
     url: /works/687596/
@@ -2711,14 +2718,14 @@ works:
       Instead of Me~ Part 1
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687638.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-10-15'
     code: 687638
     url: /works/687638/
   - title: Oni to Kotori no Noroi | The Demon and the Little Bird Curse
     author: tomatsu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687698.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-15'
     code: 687698
     url: /works/687698/

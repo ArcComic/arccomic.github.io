@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "condom"
-work_count: 236
+work_count: 238
 works:
   - title: Kaisha de Iroiro | Gettin' Busy at the Office
     author: hara-shigeyuki
@@ -152,6 +152,13 @@ works:
     date: '2026-04-27'
     code: 353025
     url: /works/353025/
+  - title: Netorare Sotsugyou Ryokou | NTR Graduation Trip
+    author: milkholic
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/353048.jpg
+    rating: 0.0
+    date: '2026-10-15'
+    code: 353048
+    url: /works/353048/
   - title: Amako Ticket Extra ~Onikuya-san Hen~ | Amako Ticket Extra ~Butcher Edition~
     author: rokuichi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/355398.jpg
@@ -1438,6 +1445,14 @@ works:
     date: '2026-09-04'
     code: 677418
     url: /works/677418/
+  - title: Yattemiro yo Koibito Doushi ga Yaru Love Love H tte Yatsu o Yoo | Let's Try
+      it Out! The Thing that They Call Lovey-Dovey Sex Between Lovers
+    author: basoba
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678001.jpg
+    rating: 0.0
+    date: '2026-10-15'
+    code: 678001
+    url: /works/678001/
   - title: Kuro Gal JK de Shasei Shitai
     author: fujinoe13b
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678678.jpg
@@ -1723,7 +1738,7 @@ works:
       Instead of Me~ Part 1
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687638.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-10-15'
     code: 687638
     url: /works/687638/

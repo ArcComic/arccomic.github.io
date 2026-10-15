@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "cheating"
-work_count: 392
+work_count: 394
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -258,6 +258,13 @@ works:
     date: '2026-04-27'
     code: 353025
     url: /works/353025/
+  - title: Netorare Sotsugyou Ryokou | NTR Graduation Trip
+    author: milkholic
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/353048.jpg
+    rating: 0.0
+    date: '2026-10-15'
+    code: 353048
+    url: /works/353048/
   - title: Amako Ticket Extra ~Onikuya-san Hen~ | Amako Ticket Extra ~Butcher Edition~
     author: rokuichi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/355398.jpg
@@ -2866,12 +2873,19 @@ works:
     date: '2026-10-15'
     code: 687368
     url: /works/687368/
+  - title: Tsuma no Kako ~Apparel-kei Cool Zuma no Kekkon Mae~
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687557.jpg
+    rating: 0.0
+    date: '2026-10-15'
+    code: 687557
+    url: /works/687557/
   - title: Ato no Matsuri ~Gakuensai no Jinx wa Boku ja Nakute Aitsu to Kanojo o Musubitsukeru~
       |  After the Festival ~The School Festival Jinx Ends Up Bringing Her and Him Together
       Instead of Me~ Part 1
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687638.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-10-15'
     code: 687638
     url: /works/687638/

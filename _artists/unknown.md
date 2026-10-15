@@ -509,7 +509,7 @@ works:
     url: /works/687228/
   - title: Imouto Manga
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687596.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-15'
     code: 687596
     url: /works/687596/
@@ -517,7 +517,7 @@ works:
       |  After the Festival ~The School Festival Jinx Ends Up Bringing Her and Him Together
       Instead of Me~ Part 1
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687638.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-10-15'
     code: 687638
     url: /works/687638/

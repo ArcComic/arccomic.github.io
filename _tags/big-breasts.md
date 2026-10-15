@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big breasts"
-work_count: 1204
+work_count: 1206
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -303,7 +303,7 @@ works:
   - title: Netorare Shuugaku Ryokou
     author: milkholic
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/310857.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-10-15'
     code: 310857
     url: /works/310857/
@@ -354,7 +354,7 @@ works:
   - title: Karin to Icha Love Ecchi
     author: miyamoto-liz
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/321895.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-10-15'
     code: 321895
     url: /works/321895/
@@ -712,14 +712,14 @@ works:
       Journey to get pregnant'
     author: kakutou-oukoku
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/411246.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-10-15'
     code: 411246
     url: /works/411246/
   - title: 'Knocked Up Samurai 02: The Post Town and the Ronin, Tied and Teased'
     author: kakutou-oukoku
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/412135.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-15'
     code: 412135
     url: /works/412135/
@@ -2514,7 +2514,7 @@ works:
   - title: CHOP STICK3
     author: kakutou-oukoku
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/588075.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-15'
     code: 588075
     url: /works/588075/
@@ -6258,7 +6258,7 @@ works:
   - title: Jimoto no Dekai Gal | The Big Gyaru From My Hometown
     author: ueno-meguru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/668636.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-10-15'
     code: 668636
     url: /works/668636/
@@ -6879,6 +6879,14 @@ works:
     date: '2026-09-04'
     code: 677732
     url: /works/677732/
+  - title: Yattemiro yo Koibito Doushi ga Yaru Love Love H tte Yatsu o Yoo | Let's Try
+      it Out! The Thing that They Call Lovey-Dovey Sex Between Lovers
+    author: basoba
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678001.jpg
+    rating: 0.0
+    date: '2026-10-15'
+    code: 678001
+    url: /works/678001/
   - title: Gamers!
     author: ramanda
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678354.jpg
@@ -8854,12 +8862,19 @@ works:
     date: '2026-10-15'
     code: 687368
     url: /works/687368/
+  - title: Tsuma no Kako ~Apparel-kei Cool Zuma no Kekkon Mae~
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687557.jpg
+    rating: 0.0
+    date: '2026-10-15'
+    code: 687557
+    url: /works/687557/
   - title: Ato no Matsuri ~Gakuensai no Jinx wa Boku ja Nakute Aitsu to Kanojo o Musubitsukeru~
       |  After the Festival ~The School Festival Jinx Ends Up Bringing Her and Him Together
       Instead of Me~ Part 1
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687638.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-10-15'
     code: 687638
     url: /works/687638/
@@ -8867,14 +8882,14 @@ works:
       Mamas into Onaholes — Opening Match & Championship Match!
     author: dokurosan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687667.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-10-15'
     code: 687667
     url: /works/687667/
   - title: Oni to Kotori no Noroi | The Demon and the Little Bird Curse
     author: tomatsu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687698.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-15'
     code: 687698
     url: /works/687698/

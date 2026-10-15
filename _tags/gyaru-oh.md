@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "gyaru-oh"
-work_count: 36
+work_count: 37
 works:
   - title: Netorare Ibe Kiba Shizuka
     author: terasu-mc
@@ -20,10 +20,17 @@ works:
   - title: Netorare Shuugaku Ryokou
     author: milkholic
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/310857.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-10-15'
     code: 310857
     url: /works/310857/
+  - title: Netorare Sotsugyou Ryokou | NTR Graduation Trip
+    author: milkholic
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/353048.jpg
+    rating: 0.0
+    date: '2026-10-15'
+    code: 353048
+    url: /works/353048/
   - title: Kanojo no SmaPho o Nozoita dake nano ni | I Just Snooped through Her Smartphone
     author: chocoro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/367709.jpg
@@ -268,7 +275,7 @@ works:
       Instead of Me~ Part 1
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687638.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-10-15'
     code: 687638
     url: /works/687638/

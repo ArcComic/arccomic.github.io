@@ -14,7 +14,7 @@ works:
       Journey to get pregnant'
     author: kakutou-oukoku
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/411246.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-10-15'
     code: 411246
     url: /works/411246/

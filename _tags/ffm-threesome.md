@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "ffm threesome"
-work_count: 153
+work_count: 154
 works:
   - title: Hustle! Danchizuma Ch. 1-18 END
     author: hidemaru
@@ -1121,11 +1121,18 @@ works:
     date: '2026-10-13'
     code: 687230
     url: /works/687230/
+  - title: Tsuma no Kako ~Apparel-kei Cool Zuma no Kekkon Mae~
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687557.jpg
+    rating: 0.0
+    date: '2026-10-15'
+    code: 687557
+    url: /works/687557/
   - title: Mama-san Volley de Mama Onaho Kaimakusen to Kesshousen! | Turning the Volleyball
       Mamas into Onaholes — Opening Match & Championship Match!
     author: dokurosan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687667.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-10-15'
     code: 687667
     url: /works/687667/

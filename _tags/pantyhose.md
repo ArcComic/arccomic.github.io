@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "pantyhose"
-work_count: 82
+work_count: 83
 works:
   - title: MAGIC SEVEN
     author: asuhiro
@@ -101,6 +101,13 @@ works:
     date: '2026-10-10'
     code: 351810
     url: /works/351810/
+  - title: Netorare Sotsugyou Ryokou | NTR Graduation Trip
+    author: milkholic
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/353048.jpg
+    rating: 0.0
+    date: '2026-10-15'
+    code: 353048
+    url: /works/353048/
   - title: TABOO -Chuuhen-
     author: nanahoshi-tento
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/386725.jpg

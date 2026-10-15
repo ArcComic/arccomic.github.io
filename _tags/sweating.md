@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sweating"
-work_count: 188
+work_count: 189
 works:
   - title: Kaisha de Iroiro | Gettin' Busy at the Office
     author: hara-shigeyuki
@@ -1143,7 +1143,7 @@ works:
   - title: Jimoto no Dekai Gal | The Big Gyaru From My Hometown
     author: ueno-meguru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/668636.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-10-15'
     code: 668636
     url: /works/668636/
@@ -1401,6 +1401,13 @@ works:
     date: '2026-10-11'
     code: 686534
     url: /works/686534/
+  - title: Tsuma no Kako ~Apparel-kei Cool Zuma no Kekkon Mae~
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687557.jpg
+    rating: 0.0
+    date: '2026-10-15'
+    code: 687557
+    url: /works/687557/
   - title: Futanari-chan to Kareshi no Dekinai Osananajimi - The Futanari Girl and Her
       Longtime Friend Who Can't Find a Boyfriend | Futanari-chan and the Childhood Friend
       Who Can't Get a Boyfriend

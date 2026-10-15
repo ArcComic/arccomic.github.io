@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "netorare"
-work_count: 456
+work_count: 458
 works:
   - title: Kousa suru Osu to Mesu | Male and Female Crossing
     author: ootsuka-kotora
@@ -119,7 +119,7 @@ works:
   - title: Netorare Shuugaku Ryokou
     author: milkholic
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/310857.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-10-15'
     code: 310857
     url: /works/310857/
@@ -165,6 +165,13 @@ works:
     date: '2026-04-17'
     code: 349247
     url: /works/349247/
+  - title: Netorare Sotsugyou Ryokou | NTR Graduation Trip
+    author: milkholic
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/353048.jpg
+    rating: 0.0
+    date: '2026-10-15'
+    code: 353048
+    url: /works/353048/
   - title: Amako Ticket Extra ~Onikuya-san Hen~ | Amako Ticket Extra ~Butcher Edition~
     author: rokuichi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/355398.jpg
@@ -3330,12 +3337,19 @@ works:
     date: '2026-10-13'
     code: 687230
     url: /works/687230/
+  - title: Tsuma no Kako ~Apparel-kei Cool Zuma no Kekkon Mae~
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687557.jpg
+    rating: 0.0
+    date: '2026-10-15'
+    code: 687557
+    url: /works/687557/
   - title: Ato no Matsuri ~Gakuensai no Jinx wa Boku ja Nakute Aitsu to Kanojo o Musubitsukeru~
       |  After the Festival ~The School Festival Jinx Ends Up Bringing Her and Him Together
       Instead of Me~ Part 1
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687638.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-10-15'
     code: 687638
     url: /works/687638/
@@ -3343,14 +3357,14 @@ works:
       Mamas into Onaholes — Opening Match & Championship Match!
     author: dokurosan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687667.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-10-15'
     code: 687667
     url: /works/687667/
   - title: Oni to Kotori no Noroi | The Demon and the Little Bird Curse
     author: tomatsu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687698.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-15'
     code: 687698
     url: /works/687698/

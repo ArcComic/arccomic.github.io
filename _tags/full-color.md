@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "full color"
-work_count: 262
+work_count: 264
 works:
   - title: Pai☆Panic ~Hasamareta Dekapai~
     author: inkey
@@ -34,7 +34,7 @@ works:
   - title: Netorare Shuugaku Ryokou
     author: milkholic
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/310857.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-10-15'
     code: 310857
     url: /works/310857/
@@ -73,6 +73,13 @@ works:
     date: '2026-04-13'
     code: 351868
     url: /works/351868/
+  - title: Netorare Sotsugyou Ryokou | NTR Graduation Trip
+    author: milkholic
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/353048.jpg
+    rating: 0.0
+    date: '2026-10-15'
+    code: 353048
+    url: /works/353048/
   - title: Egg or Chicken? Zenpen
     author: rocket-monkey
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/364371.jpg
@@ -772,7 +779,7 @@ works:
   - title: CHOP STICK3
     author: kakutou-oukoku
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/588075.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-15'
     code: 588075
     url: /works/588075/
@@ -1916,4 +1923,11 @@ works:
     date: '2026-10-11'
     code: 686449
     url: /works/686449/
+  - title: Tsuma no Kako ~Apparel-kei Cool Zuma no Kekkon Mae~
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687557.jpg
+    rating: 0.0
+    date: '2026-10-15'
+    code: 687557
+    url: /works/687557/
 ---

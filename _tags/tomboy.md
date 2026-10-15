@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "tomboy"
-work_count: 82
+work_count: 83
 works:
   - title: Kizashi
     author: yoshiura-kazuya
@@ -464,6 +464,14 @@ works:
     date: '2026-09-04'
     code: 677732
     url: /works/677732/
+  - title: Yattemiro yo Koibito Doushi ga Yaru Love Love H tte Yatsu o Yoo | Let's Try
+      it Out! The Thing that They Call Lovey-Dovey Sex Between Lovers
+    author: basoba
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678001.jpg
+    rating: 0.0
+    date: '2026-10-15'
+    code: 678001
+    url: /works/678001/
   - title: Boyish Osananajimi to Tsukiatta Hi ni Sekkusu Suru Dake | Having Sex on the
       Day I Start Dating my Tomboyish Childhood Friend
     author: fuguta-ke

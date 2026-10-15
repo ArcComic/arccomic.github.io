@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "nipple stimulation"
-work_count: 167
+work_count: 168
 works:
   - title: Hypnotic Domination ~ The Fall of Tennis Club Ace ~
     author: danchino
@@ -825,7 +825,7 @@ works:
   - title: Jimoto no Dekai Gal | The Big Gyaru From My Hometown
     author: ueno-meguru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/668636.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-10-15'
     code: 668636
     url: /works/668636/
@@ -926,6 +926,14 @@ works:
     date: '2026-08-29'
     code: 676439
     url: /works/676439/
+  - title: Yattemiro yo Koibito Doushi ga Yaru Love Love H tte Yatsu o Yoo | Let's Try
+      it Out! The Thing that They Call Lovey-Dovey Sex Between Lovers
+    author: basoba
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678001.jpg
+    rating: 0.0
+    date: '2026-10-15'
+    code: 678001
+    url: /works/678001/
   - title: Gamers!
     author: ramanda
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678354.jpg

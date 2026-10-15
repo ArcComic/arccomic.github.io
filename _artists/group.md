@@ -1,7 +1,7 @@
 ---
 layout: artist
 artist_name: "group"
-work_count: 37
+work_count: 38
 works:
   - title: Shitsurakuen | Paradise Lost
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/463749.jpg
@@ -237,4 +237,10 @@ works:
     date: '2026-10-10'
     code: 686422
     url: /works/686422/
+  - title: Tsuma no Kako ~Apparel-kei Cool Zuma no Kekkon Mae~
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687557.jpg
+    rating: 0.0
+    date: '2026-10-15'
+    code: 687557
+    url: /works/687557/
 ---

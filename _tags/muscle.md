@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "muscle"
-work_count: 130
+work_count: 131
 works:
   - title: Kousa suru Osu to Mesu | Male and Female Crossing
     author: ootsuka-kotora
@@ -317,7 +317,7 @@ works:
   - title: CHOP STICK3
     author: kakutou-oukoku
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/588075.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-15'
     code: 588075
     url: /works/588075/
@@ -701,6 +701,14 @@ works:
     date: '2026-08-31'
     code: 677257
     url: /works/677257/
+  - title: Yattemiro yo Koibito Doushi ga Yaru Love Love H tte Yatsu o Yoo | Let's Try
+      it Out! The Thing that They Call Lovey-Dovey Sex Between Lovers
+    author: basoba
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678001.jpg
+    rating: 0.0
+    date: '2026-10-15'
+    code: 678001
+    url: /works/678001/
   - title: Motoyan Hitozuma Taiiku Kyoushi, Onsen Ryokan nite Kyouei Mizugi de Ochiru
       | Former delinquent housewife PE teacher, falls in a hot spring inn while wearing
       a competitive swimsuit
@@ -969,7 +977,7 @@ works:
   - title: Oni to Kotori no Noroi | The Demon and the Little Bird Curse
     author: tomatsu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687698.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-15'
     code: 687698
     url: /works/687698/

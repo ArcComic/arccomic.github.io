@@ -97,14 +97,14 @@ works:
   - title: Netorare Shuugaku Ryokou
     author: milkholic
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/310857.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-10-15'
     code: 310857
     url: /works/310857/
   - title: Karin to Icha Love Ecchi
     author: miyamoto-liz
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/321895.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-10-15'
     code: 321895
     url: /works/321895/
@@ -1863,7 +1863,7 @@ works:
   - title: Oni to Kotori no Noroi | The Demon and the Little Bird Curse
     author: tomatsu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687698.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-15'
     code: 687698
     url: /works/687698/
