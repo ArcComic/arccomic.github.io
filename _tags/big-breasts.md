@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big breasts"
-work_count: 1208
+work_count: 1211
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -179,6 +179,13 @@ works:
     date: '2026-09-06'
     code: 276396
     url: /works/276396/
+  - title: Mother's Gentle Moans 1-3
+    author: escape
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/281134.jpg
+    rating: 0.0
+    date: '2026-10-15'
+    code: 281134
+    url: /works/281134/
   - title: Futarikiri - Konna ni mo Itooshii 1.75
     author: nohito
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/283723.jpg
@@ -351,6 +358,13 @@ works:
     date: '2026-07-09'
     code: 317673
     url: /works/317673/
+  - title: Swapping Party!?
+    author: ame-arare
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/318530.jpg
+    rating: 0.0
+    date: '2026-10-15'
+    code: 318530
+    url: /works/318530/
   - title: Karin to Icha Love Ecchi
     author: miyamoto-liz
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/321895.jpg
@@ -8869,6 +8883,14 @@ works:
     date: '2026-10-15'
     code: 687368
     url: /works/687368/
+  - title: Joukyou Share House ~Kanojo to Osananajimi to Shiranai Yatsu~ | MY GIRLFRIEND,
+      MY CHILDHOOD FRIEND, AND A GUY I DON'T KNOW
+    author: j-no-kakusei
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687531.jpg
+    rating: 0.0
+    date: '2026-10-15'
+    code: 687531
+    url: /works/687531/
   - title: Riho-chan Kashidashi Surutte Yo
     author: j-no-kakusei
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687556.jpg

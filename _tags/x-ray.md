@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "x-ray"
-work_count: 356
+work_count: 357
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -2655,6 +2655,14 @@ works:
     date: '2026-10-15'
     code: 687368
     url: /works/687368/
+  - title: Joukyou Share House ~Kanojo to Osananajimi to Shiranai Yatsu~ | MY GIRLFRIEND,
+      MY CHILDHOOD FRIEND, AND A GUY I DON'T KNOW
+    author: j-no-kakusei
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687531.jpg
+    rating: 0.0
+    date: '2026-10-15'
+    code: 687531
+    url: /works/687531/
   - title: Futanari-chan to Kareshi no Dekinai Osananajimi - The Futanari Girl and Her
       Longtime Friend Who Can't Find a Boyfriend | Futanari-chan and the Childhood Friend
       Who Can't Get a Boyfriend

@@ -1,8 +1,14 @@
 ---
 layout: artist
 artist_name: "ame-arare"
-work_count: 5
+work_count: 6
 works:
+  - title: Swapping Party!?
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/318530.jpg
+    rating: 0.0
+    date: '2026-10-15'
+    code: 318530
+    url: /works/318530/
   - title: Mesu no Ie II ~Tsuma wa Midare Ubareru~
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/591112.jpg
     rating: 5.0

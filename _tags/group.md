@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "group"
-work_count: 270
+work_count: 271
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -88,6 +88,13 @@ works:
     date: '2026-07-09'
     code: 317673
     url: /works/317673/
+  - title: Swapping Party!?
+    author: ame-arare
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/318530.jpg
+    rating: 0.0
+    date: '2026-10-15'
+    code: 318530
+    url: /works/318530/
   - title: Mashou no Honnou | The Evil’s Instinct
     author: azukiko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/322268.jpg

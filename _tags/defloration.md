@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "defloration"
-work_count: 254
+work_count: 255
 works:
   - title: Imitation Family + Bigibo Hen
     author: tohzai
@@ -101,6 +101,13 @@ works:
     date: '2026-10-15'
     code: 310857
     url: /works/310857/
+  - title: Swapping Party!?
+    author: ame-arare
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/318530.jpg
+    rating: 0.0
+    date: '2026-10-15'
+    code: 318530
+    url: /works/318530/
   - title: Karin to Icha Love Ecchi
     author: miyamoto-liz
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/321895.jpg

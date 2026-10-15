@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "hidden sex"
-work_count: 98
+work_count: 99
 works:
   - title: Tsutomesaki no Musume-san o Oishiku Itadaku Hon Minshuku Hen
     author: aya
@@ -24,6 +24,13 @@ works:
     date: '2026-09-13'
     code: 316579
     url: /works/316579/
+  - title: Swapping Party!?
+    author: ame-arare
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/318530.jpg
+    rating: 0.0
+    date: '2026-10-15'
+    code: 318530
+    url: /works/318530/
   - title: Amako Ticket Extra ~Onikuya-san Hen~ | Amako Ticket Extra ~Butcher Edition~
     author: rokuichi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/355398.jpg

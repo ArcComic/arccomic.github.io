@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "hairy"
-work_count: 327
+work_count: 328
 works:
   - title: MAGIC SEVEN
     author: asuhiro
@@ -174,6 +174,13 @@ works:
     date: '2026-10-12'
     code: 317265
     url: /works/317265/
+  - title: Swapping Party!?
+    author: ame-arare
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/318530.jpg
+    rating: 0.0
+    date: '2026-10-15'
+    code: 318530
+    url: /works/318530/
   - title: Makoto to Ofuro | Bathtime with Makoto
     author: tsurui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/320439.jpg

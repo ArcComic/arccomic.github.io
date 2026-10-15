@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "ame arare"
-work_count: 6
+work_count: 7
 works:
+  - title: Swapping Party!?
+    author: ame-arare
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/318530.jpg
+    rating: 0.0
+    date: '2026-10-15'
+    code: 318530
+    url: /works/318530/
   - title: NIKKE Icha Love Ero Goudou "NIKKE☆Lover" | NIKKE Lovey-Dovey Ero Compendium
       "NIKKE☆Lover"
     author: kumakiti

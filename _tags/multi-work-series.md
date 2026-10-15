@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "multi-work series"
-work_count: 418
+work_count: 419
 works:
   - title: Konna ni mo Itooshii Zero
     author: nohito
@@ -3112,6 +3112,14 @@ works:
     date: '2026-10-15'
     code: 687368
     url: /works/687368/
+  - title: Joukyou Share House ~Kanojo to Osananajimi to Shiranai Yatsu~ | MY GIRLFRIEND,
+      MY CHILDHOOD FRIEND, AND A GUY I DON'T KNOW
+    author: j-no-kakusei
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687531.jpg
+    rating: 0.0
+    date: '2026-10-15'
+    code: 687531
+    url: /works/687531/
   - title: Mama-san Volley de Mama Onaho Kaimakusen to Kesshousen! | Turning the Volleyball
       Mamas into Onaholes — Opening Match & Championship Match!
     author: dokurosan

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole male"
-work_count: 1003
+work_count: 1004
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -7381,6 +7381,14 @@ works:
     date: '2026-10-15'
     code: 687368
     url: /works/687368/
+  - title: Joukyou Share House ~Kanojo to Osananajimi to Shiranai Yatsu~ | MY GIRLFRIEND,
+      MY CHILDHOOD FRIEND, AND A GUY I DON'T KNOW
+    author: j-no-kakusei
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687531.jpg
+    rating: 0.0
+    date: '2026-10-15'
+    code: 687531
+    url: /works/687531/
   - title: Imouto Manga
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687596.jpg

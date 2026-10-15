@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "cheating"
-work_count: 395
+work_count: 396
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -2880,6 +2880,14 @@ works:
     date: '2026-10-15'
     code: 687368
     url: /works/687368/
+  - title: Joukyou Share House ~Kanojo to Osananajimi to Shiranai Yatsu~ | MY GIRLFRIEND,
+      MY CHILDHOOD FRIEND, AND A GUY I DON'T KNOW
+    author: j-no-kakusei
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687531.jpg
+    rating: 0.0
+    date: '2026-10-15'
+    code: 687531
+    url: /works/687531/
   - title: Tsuma no Kako ~Apparel-kei Cool Zuma no Kekkon Mae~
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687557.jpg

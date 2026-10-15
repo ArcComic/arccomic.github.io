@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "lingerie"
-work_count: 106
+work_count: 107
 works:
   - title: My Care Lady Ch. 1
     author: sugi-g
@@ -73,6 +73,13 @@ works:
     date: '2026-07-09'
     code: 317673
     url: /works/317673/
+  - title: Swapping Party!?
+    author: ame-arare
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/318530.jpg
+    rating: 0.0
+    date: '2026-10-15'
+    code: 318530
+    url: /works/318530/
   - title: Tonight, my wife is being exposed and...
     author: mon-mon
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/329551.jpg
