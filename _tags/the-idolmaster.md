@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "the idolmaster"
-work_count: 78
+work_count: 79
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -406,6 +406,13 @@ works:
     date: '2026-05-26'
     code: 652639
     url: /works/652639/
+  - title: Haruka After 4
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/653838.jpg
+    rating: 4.0
+    date: '2026-10-15'
+    code: 653838
+    url: /works/653838/
   - title: Okini Mesu Mama! - Dress them as you wish.
     author: otsumoon
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/655339.jpg

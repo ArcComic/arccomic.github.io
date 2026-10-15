@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "swimsuit"
-work_count: 89
+work_count: 90
 works:
   - title: Kizashi
     author: yoshiura-kazuya
@@ -166,6 +166,13 @@ works:
     date: '2026-09-13'
     code: 583637
     url: /works/583637/
+  - title: CHOP STICK3
+    author: kakutou-oukoku
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/588075.jpg
+    rating: 0.0
+    date: '2026-10-15'
+    code: 588075
+    url: /works/588075/
   - title: Pashiri no Shita Teku, Yabaitte... ~ Ebi Sori Iki Suru Namaiki Gyaru | Bullied
       Boy's Tongue Revenge Vol.1-4
     author: takayamanon

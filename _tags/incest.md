@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "incest"
-work_count: 323
+work_count: 324
 works:
   - title: Imitation Family + Bigibo Hen
     author: tohzai
@@ -2343,6 +2343,13 @@ works:
     date: '2026-10-13'
     code: 687243
     url: /works/687243/
+  - title: Imouto Manga
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687596.jpg
+    rating: 0.0
+    date: '2026-10-15'
+    code: 687596
+    url: /works/687596/
   - title: My Mom, My Love 10
     author: siberian-hahasky
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687720.jpg

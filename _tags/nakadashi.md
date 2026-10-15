@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "nakadashi"
-work_count: 895
+work_count: 897
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -2087,6 +2087,13 @@ works:
     date: '2026-04-27'
     code: 587827
     url: /works/587827/
+  - title: CHOP STICK3
+    author: kakutou-oukoku
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/588075.jpg
+    rating: 0.0
+    date: '2026-10-15'
+    code: 588075
+    url: /works/588075/
   - title: Chijo Monogatari Henshitsusha (Onna) Shutsubotsu Chuu
     author: enma
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/588713.jpg
@@ -6616,6 +6623,13 @@ works:
     date: '2026-10-15'
     code: 687368
     url: /works/687368/
+  - title: Imouto Manga
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687596.jpg
+    rating: 0.0
+    date: '2026-10-15'
+    code: 687596
+    url: /works/687596/
   - title: Ato no Matsuri ~Gakuensai no Jinx wa Boku ja Nakute Aitsu to Kanojo o Musubitsukeru~
       |  After the Festival ~The School Festival Jinx Ends Up Bringing Her and Him Together
       Instead of Me~ Part 1

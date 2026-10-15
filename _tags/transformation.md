@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "transformation"
-work_count: 12
+work_count: 13
 works:
   - title: sequence irekaeru futari no karada
     author: iwashita
@@ -38,6 +38,13 @@ works:
     date: '2026-05-03'
     code: 540880
     url: /works/540880/
+  - title: CHOP STICK3
+    author: kakutou-oukoku
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/588075.jpg
+    rating: 0.0
+    date: '2026-10-15'
+    code: 588075
+    url: /works/588075/
   - title: How I, a fighting gamer, became the heroine of a cosplay AV
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/645566.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole male"
-work_count: 998
+work_count: 1001
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -2519,6 +2519,13 @@ works:
     date: '2026-04-15'
     code: 588066
     url: /works/588066/
+  - title: CHOP STICK3
+    author: kakutou-oukoku
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/588075.jpg
+    rating: 0.0
+    date: '2026-10-15'
+    code: 588075
+    url: /works/588075/
   - title: My AR glasses can see various stats about my foster sister?!
     author: pz-x
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/589010.jpg
@@ -4612,6 +4619,13 @@ works:
     date: '2026-10-11'
     code: 653432
     url: /works/653432/
+  - title: Haruka After 4
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/653838.jpg
+    rating: 4.0
+    date: '2026-10-15'
+    code: 653838
+    url: /works/653838/
   - title: Majime na Kimi ni Hamaru Karada
     author: alp
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654010.jpg
@@ -7352,6 +7366,13 @@ works:
     date: '2026-10-15'
     code: 687368
     url: /works/687368/
+  - title: Imouto Manga
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687596.jpg
+    rating: 0.0
+    date: '2026-10-15'
+    code: 687596
+    url: /works/687596/
   - title: Ato no Matsuri ~Gakuensai no Jinx wa Boku ja Nakute Aitsu to Kanojo o Musubitsukeru~
       |  After the Festival ~The School Festival Jinx Ends Up Bringing Her and Him Together
       Instead of Me~ Part 1

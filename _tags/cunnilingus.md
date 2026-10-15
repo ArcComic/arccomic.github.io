@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "cunnilingus"
-work_count: 185
+work_count: 186
 works:
   - title: Love Approach
     author: hanafuda-sakurano
@@ -911,6 +911,13 @@ works:
     date: '2026-05-26'
     code: 652244
     url: /works/652244/
+  - title: Haruka After 4
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/653838.jpg
+    rating: 4.0
+    date: '2026-10-15'
+    code: 653838
+    url: /works/653838/
   - title: Majime na Kimi ni Hamaru Karada
     author: alp
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654010.jpg

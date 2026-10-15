@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "rough translation"
-work_count: 697
+work_count: 699
 works:
   - title: Boku no Shiranai Kimi no Kao
     author: utsutsu-minoru
@@ -1977,6 +1977,13 @@ works:
     date: '2026-09-29'
     code: 653792
     url: /works/653792/
+  - title: Haruka After 4
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/653838.jpg
+    rating: 4.0
+    date: '2026-10-15'
+    code: 653838
+    url: /works/653838/
   - title: Majime na Kimi ni Hamaru Karada
     author: alp
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654010.jpg
@@ -5076,6 +5083,13 @@ works:
     date: '2026-10-13'
     code: 687243
     url: /works/687243/
+  - title: Imouto Manga
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687596.jpg
+    rating: 0.0
+    date: '2026-10-15'
+    code: 687596
+    url: /works/687596/
   - title: Futanari-chan to Kareshi no Dekinai Osananajimi - The Futanari Girl and Her
       Longtime Friend Who Can't Find a Boyfriend | Futanari-chan and the Childhood Friend
       Who Can't Get a Boyfriend

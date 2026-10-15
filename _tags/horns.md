@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "horns"
-work_count: 23
+work_count: 24
 works:
   - title: Mashou no Honnou | The Evil’s Instinct
     author: azukiko
@@ -25,6 +25,13 @@ works:
     date: '2026-08-20'
     code: 557452
     url: /works/557452/
+  - title: CHOP STICK3
+    author: kakutou-oukoku
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/588075.jpg
+    rating: 0.0
+    date: '2026-10-15'
+    code: 588075
+    url: /works/588075/
   - title: Eat Meat + Digital Tokusouban Gentei Tokuten - Natsume-san wa Chorosugiru!
     author: ushinomiya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638556.jpg

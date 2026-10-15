@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bunny girl"
-work_count: 37
+work_count: 38
 works:
   - title: Kaisha de Iroiro | Gettin' Busy at the Office
     author: hara-shigeyuki
@@ -65,6 +65,13 @@ works:
     date: '2026-09-23'
     code: 568114
     url: /works/568114/
+  - title: CHOP STICK3
+    author: kakutou-oukoku
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/588075.jpg
+    rating: 0.0
+    date: '2026-10-15'
+    code: 588075
+    url: /works/588075/
   - title: 'Sono Bisque Doll wa H o Suru Soushuuhen II ＋ 9 ー  My Sexy Dress-Up Darling
       Anthology #2'
     author: yahiro-pochi

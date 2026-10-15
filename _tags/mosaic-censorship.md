@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "mosaic censorship"
-work_count: 323
+work_count: 325
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -882,6 +882,13 @@ works:
     date: '2026-05-10'
     code: 586634
     url: /works/586634/
+  - title: CHOP STICK3
+    author: kakutou-oukoku
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/588075.jpg
+    rating: 0.0
+    date: '2026-10-15'
+    code: 588075
+    url: /works/588075/
   - title: My AR glasses can see various stats about my foster sister?!
     author: pz-x
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/589010.jpg
@@ -2376,4 +2383,11 @@ works:
     date: '2026-10-15'
     code: 687368
     url: /works/687368/
+  - title: Imouto Manga
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687596.jpg
+    rating: 0.0
+    date: '2026-10-15'
+    code: 687596
+    url: /works/687596/
 ---
