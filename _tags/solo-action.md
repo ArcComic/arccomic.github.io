@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "solo action"
-work_count: 7
+work_count: 8
 works:
   - title: Yasashii Bakunyuu Kaa-san to Irekawacchatta Hankouki na Ore no Hanashi ~Episode
       1~
@@ -53,4 +53,11 @@ works:
     date: '2026-10-13'
     code: 671549
     url: /works/671549/
+  - title: Mesu no Ie III ~Oyako wa Midare Aisareru~
+    author: ame-arare
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687781.jpg
+    rating: 0.0
+    date: '2026-10-15'
+    code: 687781
+    url: /works/687781/
 ---

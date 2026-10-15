@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "defloration"
-work_count: 247
+work_count: 248
 works:
   - title: Imitation Family + Bigibo Hen
     author: tohzai
@@ -409,6 +409,14 @@ works:
     date: '2026-09-30'
     code: 520903
     url: /works/520903/
+  - title: Seijun-ha Joyu Mikage-san no Otonanoomocha | Innocent Style Actress Mikage's
+      Adult Toy
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/525317.jpg
+    rating: 0.0
+    date: '2026-10-15'
+    code: 525317
+    url: /works/525317/
   - title: A tale of an Elf adventurer (♀) being visited at night and bred by an innkeeper
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/526619.jpg

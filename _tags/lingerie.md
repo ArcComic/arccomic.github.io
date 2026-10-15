@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "lingerie"
-work_count: 103
+work_count: 105
 works:
   - title: My Care Lady Ch. 1
     author: sugi-g
@@ -184,6 +184,14 @@ works:
     date: '2026-09-24'
     code: 521674
     url: /works/521674/
+  - title: Seijun-ha Joyu Mikage-san no Otonanoomocha | Innocent Style Actress Mikage's
+      Adult Toy
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/525317.jpg
+    rating: 0.0
+    date: '2026-10-15'
+    code: 525317
+    url: /works/525317/
   - title: Yamazaki Makie (3●-sai), Musume no Kareshi to SeFri ni Naru | Yamazaki Makie
       (3X Years Old), Becoming Fuck Buddies with her Daughter's Boyfriend
     author: ryuuta
@@ -765,4 +773,11 @@ works:
     date: '2026-10-10'
     code: 686446
     url: /works/686446/
+  - title: Mesu no Ie III ~Oyako wa Midare Aisareru~
+    author: ame-arare
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687781.jpg
+    rating: 0.0
+    date: '2026-10-15'
+    code: 687781
+    url: /works/687781/
 ---

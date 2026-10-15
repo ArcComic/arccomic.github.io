@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "nipple stimulation"
-work_count: 164
+work_count: 166
 works:
   - title: Hypnotic Domination ~ The Fall of Tennis Club Ace ~
     author: danchino
@@ -117,6 +117,14 @@ works:
     date: '2026-09-10'
     code: 511803
     url: /works/511803/
+  - title: Seijun-ha Joyu Mikage-san no Otonanoomocha | Innocent Style Actress Mikage's
+      Adult Toy
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/525317.jpg
+    rating: 0.0
+    date: '2026-10-15'
+    code: 525317
+    url: /works/525317/
   - title: Chikubi Kando Chousa, Hajimemasu
     author: nanahamu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/528009.jpg
@@ -1239,4 +1247,12 @@ works:
     date: '2026-10-13'
     code: 687228
     url: /works/687228/
+  - title: Tomodachi no Mama ga Boku no Dekachin de Ikimakutta Natsumatsuri | The Summer
+      Festival Where My Friend’s Mother Came on My Big Dick
+    author: rk-2
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687368.jpg
+    rating: 0.0
+    date: '2026-10-15'
+    code: 687368
+    url: /works/687368/
 ---

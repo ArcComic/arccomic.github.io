@@ -1,7 +1,7 @@
 ---
 layout: artist
 artist_name: "unknown"
-work_count: 80
+work_count: 81
 works:
   - title: Hajimete Kanojo Ga Dekita No Ni
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/316579.jpg
@@ -54,6 +54,13 @@ works:
     date: '2026-09-30'
     code: 490746
     url: /works/490746/
+  - title: Seijun-ha Joyu Mikage-san no Otonanoomocha | Innocent Style Actress Mikage's
+      Adult Toy
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/525317.jpg
+    rating: 0.0
+    date: '2026-10-15'
+    code: 525317
+    url: /works/525317/
   - title: A tale of an Elf adventurer (♀) being visited at night and bred by an innkeeper
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/526619.jpg
     rating: 4.6

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "rk-2"
-work_count: 8
+work_count: 9
 works:
   - title: Tomodachi no Mama ga Boku no Dekachin de Ikimakutta Onsen Ryokou | The Hotspring
       Trip Where My Friend's Mother was All Over My Big Dick
@@ -61,4 +61,12 @@ works:
     date: '2026-09-29'
     code: 684311
     url: /works/684311/
+  - title: Tomodachi no Mama ga Boku no Dekachin de Ikimakutta Natsumatsuri | The Summer
+      Festival Where My Friend’s Mother Came on My Big Dick
+    author: rk-2
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687368.jpg
+    rating: 0.0
+    date: '2026-10-15'
+    code: 687368
+    url: /works/687368/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "wholesome"
-work_count: 211
+work_count: 212
 works:
   - title: FLUFFY LAUGH GIRL
     author: shibasaki-syouzi
@@ -373,6 +373,14 @@ works:
     date: '2026-09-29'
     code: 521042
     url: /works/521042/
+  - title: Seijun-ha Joyu Mikage-san no Otonanoomocha | Innocent Style Actress Mikage's
+      Adult Toy
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/525317.jpg
+    rating: 0.0
+    date: '2026-10-15'
+    code: 525317
+    url: /works/525317/
   - title: Gal to no Asobikata | How to Have Fun With Gyarus!
     author: buta
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/531967.jpg

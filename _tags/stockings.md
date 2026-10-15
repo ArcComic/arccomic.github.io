@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "stockings"
-work_count: 243
+work_count: 244
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -1772,6 +1772,13 @@ works:
     date: '2026-10-13'
     code: 687228
     url: /works/687228/
+  - title: Mesu no Ie III ~Oyako wa Midare Aisareru~
+    author: ame-arare
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687781.jpg
+    rating: 0.0
+    date: '2026-10-15'
+    code: 687781
+    url: /works/687781/
   - title: Jokyoushi - Hot For Teachers | Female Teachers
     author: drill-murata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/81375.jpg

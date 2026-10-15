@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "eye-covering bang"
-work_count: 77
+work_count: 79
 works:
   - title: Kanojo no Amai Jiraishuu
     author: jirou
@@ -77,6 +77,14 @@ works:
     date: '2026-09-29'
     code: 513981
     url: /works/513981/
+  - title: Seijun-ha Joyu Mikage-san no Otonanoomocha | Innocent Style Actress Mikage's
+      Adult Toy
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/525317.jpg
+    rating: 0.0
+    date: '2026-10-15'
+    code: 525317
+    url: /works/525317/
   - title: Jimi Kyonyuu No Stalker Onna Ni Gokuhaku Saretanode Yarimakutte Mita Hanashi
       | I Was Confessed To By A Plain Busty Stalker Girl, So I Fucked Her Like Crazy
     author: hiyori-hamster
@@ -581,4 +589,12 @@ works:
     date: '2026-10-11'
     code: 686371
     url: /works/686371/
+  - title: Tomodachi no Mama ga Boku no Dekachin de Ikimakutta Natsumatsuri | The Summer
+      Festival Where My Friend’s Mother Came on My Big Dick
+    author: rk-2
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687368.jpg
+    rating: 0.0
+    date: '2026-10-15'
+    code: 687368
+    url: /works/687368/
 ---
