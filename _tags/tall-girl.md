@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "tall girl"
-work_count: 42
+work_count: 43
 works:
   - title: Oppai na Natsuyasumi 2 | The Summer Break of Boobs 2
     author: higashino-mikan
@@ -199,6 +199,13 @@ works:
     date: '2026-09-19'
     code: 665207
     url: /works/665207/
+  - title: Jimoto no Dekai Gal | The Big Gyaru From My Hometown
+    author: ueno-meguru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/668636.jpg
+    rating: 0.0
+    date: '2026-10-15'
+    code: 668636
+    url: /works/668636/
   - title: nekonimatatabi
     author: yuzuto-sen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/674592.jpg

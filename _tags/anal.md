@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "anal"
-work_count: 173
+work_count: 175
 works:
   - title: Ikanishite Haha wa Onna o Kaihou Shitaka Ch. 1-14
     author: mitarai-yuuki
@@ -98,6 +98,13 @@ works:
     date: '2026-10-09'
     code: 399776
     url: /works/399776/
+  - title: 'Knocked Up Samurai 02: The Post Town and the Ronin, Tied and Teased'
+    author: kakutou-oukoku
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/412135.jpg
+    rating: 0.0
+    date: '2026-10-15'
+    code: 412135
+    url: /works/412135/
   - title: Kaachan wa Ore no... | Mom is My...  Chapter 1-3
     author: jirou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/415046.jpg
@@ -1265,6 +1272,14 @@ works:
     date: '2026-10-13'
     code: 687086
     url: /works/687086/
+  - title: Mama-san Volley de Mama Onaho Kaimakusen to Kesshousen! | Turning the Volleyball
+      Mamas into Onaholes — Opening Match & Championship Match!
+    author: dokurosan
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687667.jpg
+    rating: 0.0
+    date: '2026-10-15'
+    code: 687667
+    url: /works/687667/
   - title: Jokyoushi - Hot For Teachers | Female Teachers
     author: drill-murata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/81375.jpg

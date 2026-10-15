@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "kimono"
-work_count: 61
+work_count: 62
 works:
   - title: Hitozuma Hyakka
     author: hase-tsubura
@@ -39,6 +39,13 @@ works:
     date: '2026-03-05'
     code: 409929
     url: /works/409929/
+  - title: 'Knocked Up Samurai 02: The Post Town and the Ronin, Tied and Teased'
+    author: kakutou-oukoku
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/412135.jpg
+    rating: 0.0
+    date: '2026-10-15'
+    code: 412135
+    url: /works/412135/
   - title: Tomodachi no Mama ga Boku no Dekachin de Ikimakutta Onsen Ryokou | The Hotspring
       Trip Where My Friend's Mother was All Over My Big Dick
     author: rk-2

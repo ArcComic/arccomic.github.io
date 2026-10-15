@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "deepthroat"
-work_count: 90
+work_count: 91
 works:
   - title: Toshishita Chin Kui Obasan
     author: maccha-neji
@@ -18,6 +18,13 @@ works:
     date: '2026-10-15'
     code: 411246
     url: /works/411246/
+  - title: 'Knocked Up Samurai 02: The Post Town and the Ronin, Tied and Teased'
+    author: kakutou-oukoku
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/412135.jpg
+    rating: 0.0
+    date: '2026-10-15'
+    code: 412135
+    url: /works/412135/
   - title: Utakata 2 ~Uraaka DoM Haken OL Onaho Choukyou~ | An Office Lady's Behind
       The Scenes Masochistic Onahole Training 2
     author: yuzuri-ai

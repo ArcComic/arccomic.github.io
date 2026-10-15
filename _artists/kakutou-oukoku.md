@@ -1,7 +1,7 @@
 ---
 layout: artist
 artist_name: "kakutou-oukoku"
-work_count: 3
+work_count: 4
 works:
   - title: 'Harami samurai 01 Onna Douchuu Maguwai Tabi | Knocked Up Samurai 01: A Woman’s
       Journey to get pregnant'
@@ -10,6 +10,12 @@ works:
     date: '2026-10-15'
     code: 411246
     url: /works/411246/
+  - title: 'Knocked Up Samurai 02: The Post Town and the Ronin, Tied and Teased'
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/412135.jpg
+    rating: 0.0
+    date: '2026-10-15'
+    code: 412135
+    url: /works/412135/
   - title: CHOP STICK3
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/588075.jpg
     rating: 0.0

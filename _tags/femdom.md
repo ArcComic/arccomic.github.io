@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "femdom"
-work_count: 188
+work_count: 189
 works:
   - title: Life with Married Women Just Like a Manga 2 - Ch. 1-5
     author: hidemaru
@@ -929,6 +929,13 @@ works:
     date: '2026-09-09'
     code: 665716
     url: /works/665716/
+  - title: Jimoto no Dekai Gal | The Big Gyaru From My Hometown
+    author: ueno-meguru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/668636.jpg
+    rating: 0.0
+    date: '2026-10-15'
+    code: 668636
+    url: /works/668636/
   - title: Drip Coffee→From♡You |
     author: borusiti
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/670438.jpg

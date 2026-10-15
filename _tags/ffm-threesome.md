@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "ffm threesome"
-work_count: 152
+work_count: 153
 works:
   - title: Hustle! Danchizuma Ch. 1-18 END
     author: hidemaru
@@ -1121,6 +1121,14 @@ works:
     date: '2026-10-13'
     code: 687230
     url: /works/687230/
+  - title: Mama-san Volley de Mama Onaho Kaimakusen to Kesshousen! | Turning the Volleyball
+      Mamas into Onaholes — Opening Match & Championship Match!
+    author: dokurosan
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687667.jpg
+    rating: 0.0
+    date: '2026-10-15'
+    code: 687667
+    url: /works/687667/
   - title: Mesu no Ie III ~Oyako wa Midare Aisareru~
     author: ame-arare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687781.jpg

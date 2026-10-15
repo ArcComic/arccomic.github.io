@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole female"
-work_count: 1061
+work_count: 1063
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -976,6 +976,13 @@ works:
     date: '2026-03-05'
     code: 409929
     url: /works/409929/
+  - title: 'Knocked Up Samurai 02: The Post Town and the Ronin, Tied and Teased'
+    author: kakutou-oukoku
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/412135.jpg
+    rating: 0.0
+    date: '2026-10-15'
+    code: 412135
+    url: /works/412135/
   - title: NTR Anniversary + ) [Syukurin] Mitsuha ~Netorare~ (Kimi no Na wa.) [English]
       [Colorized] by Mikaku
     author: arakure
@@ -5664,6 +5671,13 @@ works:
     date: '2026-08-28'
     code: 668605
     url: /works/668605/
+  - title: Jimoto no Dekai Gal | The Big Gyaru From My Hometown
+    author: ueno-meguru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/668636.jpg
+    rating: 0.0
+    date: '2026-10-15'
+    code: 668636
+    url: /works/668636/
   - title: Igyou Koubi Kairaku Jigoku 1 + 2
     author: allegro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/668880.jpg

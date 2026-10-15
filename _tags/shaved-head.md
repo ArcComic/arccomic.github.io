@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "shaved head"
-work_count: 18
+work_count: 19
 works:
   - title: TomoKano Kaa-chan II ~Jitaku, Musuko no Tomodachi ni Ochita Natsu~ | My Mom
       Is My Friend's Girlfriend 2
@@ -135,4 +135,12 @@ works:
     date: '2026-09-25'
     code: 683992
     url: /works/683992/
+  - title: Mama-san Volley de Mama Onaho Kaimakusen to Kesshousen! | Turning the Volleyball
+      Mamas into Onaholes — Opening Match & Championship Match!
+    author: dokurosan
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687667.jpg
+    rating: 0.0
+    date: '2026-10-15'
+    code: 687667
+    url: /works/687667/
 ---

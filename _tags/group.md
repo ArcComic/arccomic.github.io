@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "group"
-work_count: 267
+work_count: 269
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -139,6 +139,13 @@ works:
     date: '2026-03-09'
     code: 408822
     url: /works/408822/
+  - title: 'Knocked Up Samurai 02: The Post Town and the Ronin, Tied and Teased'
+    author: kakutou-oukoku
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/412135.jpg
+    rating: 0.0
+    date: '2026-10-15'
+    code: 412135
+    url: /works/412135/
   - title: Gal ni Houkago Oppai Sawatte ku? te Sasowareru Hanashi | That Time Gyarus
       Asked Me to Grope their Tits After Class
     author: ono-hiroki
@@ -1950,6 +1957,14 @@ works:
     date: '2026-10-13'
     code: 687230
     url: /works/687230/
+  - title: Mama-san Volley de Mama Onaho Kaimakusen to Kesshousen! | Turning the Volleyball
+      Mamas into Onaholes — Opening Match & Championship Match!
+    author: dokurosan
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687667.jpg
+    rating: 0.0
+    date: '2026-10-15'
+    code: 687667
+    url: /works/687667/
   - title: Mesu no Ie III ~Oyako wa Midare Aisareru~
     author: ame-arare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687781.jpg

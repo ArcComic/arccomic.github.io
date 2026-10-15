@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "rough translation"
-work_count: 699
+work_count: 700
 works:
   - title: Boku no Shiranai Kimi no Kao
     author: utsutsu-minoru
@@ -5090,6 +5090,14 @@ works:
     date: '2026-10-15'
     code: 687596
     url: /works/687596/
+  - title: Mama-san Volley de Mama Onaho Kaimakusen to Kesshousen! | Turning the Volleyball
+      Mamas into Onaholes — Opening Match & Championship Match!
+    author: dokurosan
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687667.jpg
+    rating: 0.0
+    date: '2026-10-15'
+    code: 687667
+    url: /works/687667/
   - title: Futanari-chan to Kareshi no Dekinai Osananajimi - The Futanari Girl and Her
       Longtime Friend Who Can't Find a Boyfriend | Futanari-chan and the Childhood Friend
       Who Can't Get a Boyfriend

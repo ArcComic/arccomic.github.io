@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bondage"
-work_count: 108
+work_count: 109
 works:
   - title: Pai☆Panic ~Hasamareta Dekapai~
     author: inkey
@@ -67,6 +67,13 @@ works:
     date: '2026-10-15'
     code: 411246
     url: /works/411246/
+  - title: 'Knocked Up Samurai 02: The Post Town and the Ronin, Tied and Teased'
+    author: kakutou-oukoku
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/412135.jpg
+    rating: 0.0
+    date: '2026-10-15'
+    code: 412135
+    url: /works/412135/
   - title: Ichizu na Onee-san to Saikaishitara Dosukebe Kyuukonsarete Sex Tsukeninaru
       Hanashi | After Reuniting with the Onee-san Who is Fixated on Me, I was Proposed
       to with Sex and Got Addicted

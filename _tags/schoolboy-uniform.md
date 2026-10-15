@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "schoolboy uniform"
-work_count: 106
+work_count: 107
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -539,6 +539,13 @@ works:
     date: '2026-09-30'
     code: 66420
     url: /works/66420/
+  - title: Jimoto no Dekai Gal | The Big Gyaru From My Hometown
+    author: ueno-meguru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/668636.jpg
+    rating: 0.0
+    date: '2026-10-15'
+    code: 668636
+    url: /works/668636/
   - title: My Secret With Kyouko Sensei 1 - Kyouko Sensei to Boku no Himitsu
     author: maimu-maimu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/671460.jpg

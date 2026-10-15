@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole male"
-work_count: 1001
+work_count: 1002
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -5437,6 +5437,13 @@ works:
     date: '2026-09-18'
     code: 668045
     url: /works/668045/
+  - title: Jimoto no Dekai Gal | The Big Gyaru From My Hometown
+    author: ueno-meguru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/668636.jpg
+    rating: 0.0
+    date: '2026-10-15'
+    code: 668636
+    url: /works/668636/
   - title: Gohoubi wa Karada de. ~Ero-sugi Fukuri Kousei wa Seishori-ka no Oshigoto~
       (2) | The Reward is the Body ~The Overly Lewd Employee Benefits of the Service
       Department~
