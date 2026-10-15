@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "milf"
-work_count: 484
+work_count: 485
 works:
   - title: Life with Married Women Just Like a Manga 2 - Ch. 1-5
     author: hidemaru
@@ -3534,6 +3534,13 @@ works:
     date: '2026-10-15'
     code: 687368
     url: /works/687368/
+  - title: My Mom, My Love 10
+    author: siberian-hahasky
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687720.jpg
+    rating: 4.4
+    date: '2026-10-15'
+    code: 687720
+    url: /works/687720/
   - title: Mesu no Ie III ~Oyako wa Midare Aisareru~
     author: ame-arare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687781.jpg

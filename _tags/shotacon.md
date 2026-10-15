@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "shotacon"
-work_count: 145
+work_count: 146
 works:
   - title: Ikanishite Haha wa Onna o Kaihou Shitaka Ch. 1-14
     author: mitarai-yuuki
@@ -473,6 +473,13 @@ works:
     date: '2026-03-05'
     code: 634592
     url: /works/634592/
+  - title: Jimoto no Dekai Gal 2
+    author: ueno-meguru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/634674.jpg
+    rating: 0.0
+    date: '2026-10-15'
+    code: 634674
+    url: /works/634674/
   - title: Chijo Monogatari Bakunyuu Chijukujo to Doutei-kun
     author: enma
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/635174.jpg

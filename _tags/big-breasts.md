@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big breasts"
-work_count: 1193
+work_count: 1195
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -3620,6 +3620,13 @@ works:
     date: '2026-03-07'
     code: 634593
     url: /works/634593/
+  - title: Jimoto no Dekai Gal 2
+    author: ueno-meguru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/634674.jpg
+    rating: 0.0
+    date: '2026-10-15'
+    code: 634674
+    url: /works/634674/
   - title: Sex Shinai to Derarenai Hotel 2 | The hotel you can't leave without having
       sex 2
     author: jeattle
@@ -8804,6 +8811,13 @@ works:
     date: '2026-10-15'
     code: 687368
     url: /works/687368/
+  - title: My Mom, My Love 10
+    author: siberian-hahasky
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687720.jpg
+    rating: 4.4
+    date: '2026-10-15'
+    code: 687720
+    url: /works/687720/
   - title: Jitsu wa Mutsuri Kyudo-bu no Senpai ga Ore ni Dake Ecchi o Shikakete Kuru!
       | Turns Out the Seemingly Reserved Kyudo Club Senpai Only Wants to Have Sex with
       Me

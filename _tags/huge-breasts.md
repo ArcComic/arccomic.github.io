@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "huge breasts"
-work_count: 110
+work_count: 111
 works:
   - title: Mama Naranai Onna-tachi Ch. 1-2
     author: otochichi
@@ -830,4 +830,11 @@ works:
     date: '2026-10-13'
     code: 687156
     url: /works/687156/
+  - title: My Mom, My Love 10
+    author: siberian-hahasky
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687720.jpg
+    rating: 4.4
+    date: '2026-10-15'
+    code: 687720
+    url: /works/687720/
 ---

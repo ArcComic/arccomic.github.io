@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "uncensored"
-work_count: 140
+work_count: 141
 works:
   - title: I'll be your cat
     author: napata
@@ -524,6 +524,13 @@ works:
     date: '2026-03-07'
     code: 634593
     url: /works/634593/
+  - title: Jimoto no Dekai Gal 2
+    author: ueno-meguru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/634674.jpg
+    rating: 0.0
+    date: '2026-10-15'
+    code: 634674
+    url: /works/634674/
   - title: LOOK LIKE
     author: terasu-mc
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/641295.jpg

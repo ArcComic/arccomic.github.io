@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "tall girl"
-work_count: 41
+work_count: 42
 works:
   - title: Oppai na Natsuyasumi 2 | The Summer Break of Boobs 2
     author: higashino-mikan
@@ -96,6 +96,13 @@ works:
     date: '2026-03-07'
     code: 634593
     url: /works/634593/
+  - title: Jimoto no Dekai Gal 2
+    author: ueno-meguru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/634674.jpg
+    rating: 0.0
+    date: '2026-10-15'
+    code: 634674
+    url: /works/634674/
   - title: Sewayaki na Kyonyuu Gakkyuu Iinchou Sono 1-20 | The Kind and Caring Busty
       Class Rep Ch.1-20
     author: makosho
