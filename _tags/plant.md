@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "plant"
-work_count: 36
+work_count: 37
 works:
   - title: Ami Mami Mind 5
     author: tsurui
@@ -80,6 +80,13 @@ works:
     date: '2026-10-11'
     code: 320439
     url: /works/320439/
+  - title: CA Chihaya
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/322481.jpg
+    rating: 0.0
+    date: '2026-10-15'
+    code: 322481
+    url: /works/322481/
   - title: Yayoi to Issho 4
     author: tsurui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/323523.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "hairy"
-work_count: 322
+work_count: 324
 works:
   - title: MAGIC SEVEN
     author: asuhiro
@@ -181,6 +181,20 @@ works:
     date: '2026-10-11'
     code: 320439
     url: /works/320439/
+  - title: Mashou no Honnou | The Evil’s Instinct
+    author: azukiko
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/322268.jpg
+    rating: 0.0
+    date: '2026-10-15'
+    code: 322268
+    url: /works/322268/
+  - title: CA Chihaya
+    author: tsurui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/322481.jpg
+    rating: 0.0
+    date: '2026-10-15'
+    code: 322481
+    url: /works/322481/
   - title: My Sugar Mama! 1-3
     author: azukiko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/328334.jpg

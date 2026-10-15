@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "fate grand order"
-work_count: 7
+work_count: 8
 works:
+  - title: Mashou no Honnou | The Evil’s Instinct
+    author: azukiko
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/322268.jpg
+    rating: 0.0
+    date: '2026-10-15'
+    code: 322268
+    url: /works/322268/
   - title: Midara Midareru Hime Jijou | The Dirty And Confused Girl's Circumstances
     author: nekomata-naomi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/373952.jpg

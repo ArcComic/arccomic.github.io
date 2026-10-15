@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "anal"
-work_count: 171
+work_count: 172
 works:
   - title: Ikanishite Haha wa Onna o Kaihou Shitaka Ch. 1-14
     author: mitarai-yuuki
@@ -53,6 +53,13 @@ works:
     date: '2026-10-12'
     code: 298547
     url: /works/298547/
+  - title: Mashou no Honnou | The Evil’s Instinct
+    author: azukiko
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/322268.jpg
+    rating: 0.0
+    date: '2026-10-15'
+    code: 322268
+    url: /works/322268/
   - title: Ryoujoku Gakuen
     author: motchie
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/332375.jpg

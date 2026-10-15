@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "group"
-work_count: 265
+work_count: 266
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -88,6 +88,13 @@ works:
     date: '2026-07-09'
     code: 317673
     url: /works/317673/
+  - title: Mashou no Honnou | The Evil’s Instinct
+    author: azukiko
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/322268.jpg
+    rating: 0.0
+    date: '2026-10-15'
+    code: 322268
+    url: /works/322268/
   - title: Megane Loli Choukyou Jugyou!! ~Otonashii Megane Lolikko ni Muriyari Dekachin
       Sounyuu~ | The Loli In Glasses' Training Lesson!! ~Force Fucking a Timid Glasses
       Wearing Loli With My Big Cock~ Ch. 1-5
