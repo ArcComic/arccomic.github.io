@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "defloration"
-work_count: 251
+work_count: 253
 works:
   - title: Imitation Family + Bigibo Hen
     author: tohzai
@@ -94,6 +94,13 @@ works:
     date: '2026-09-26'
     code: 309899
     url: /works/309899/
+  - title: Karin to Icha Love Ecchi
+    author: miyamoto-liz
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/321895.jpg
+    rating: 0.0
+    date: '2026-10-15'
+    code: 321895
+    url: /works/321895/
   - title: Onee-chan ga Ecchi na Koto bakka Suru kara... | My older sister only does
       obscene things...
     author: danimaru
@@ -413,7 +420,7 @@ works:
       Adult Toy
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/525317.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-10-15'
     code: 525317
     url: /works/525317/
@@ -1289,7 +1296,7 @@ works:
   - title: Watashi wa tsuma de haha de, tada no mesu 1
     author: kakyuu-bushi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/660489.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-15'
     code: 660489
     url: /works/660489/
@@ -1846,10 +1853,17 @@ works:
     date: '2026-10-13'
     code: 687156
     url: /works/687156/
+  - title: Oni to Kotori no Noroi | The Demon and the Little Bird Curse
+    author: tomatsu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687698.jpg
+    rating: 0.0
+    date: '2026-10-15'
+    code: 687698
+    url: /works/687698/
   - title: Yarasete Kureru Yuutousei
     author: maccha-neji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687712.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-10-15'
     code: 687712
     url: /works/687712/
@@ -1858,7 +1872,7 @@ works:
       Me
     author: ueno-meguru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687770.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-10-15'
     code: 687770
     url: /works/687770/

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "schoolgirl uniform"
-work_count: 361
+work_count: 363
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -1087,7 +1087,7 @@ works:
   - title: Jimoto no Dekai Gal 2
     author: ueno-meguru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/634674.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-15'
     code: 634674
     url: /works/634674/
@@ -2685,4 +2685,20 @@ works:
     date: '2026-10-13'
     code: 687230
     url: /works/687230/
+  - title: Oni to Kotori no Noroi | The Demon and the Little Bird Curse
+    author: tomatsu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687698.jpg
+    rating: 0.0
+    date: '2026-10-15'
+    code: 687698
+    url: /works/687698/
+  - title: Futanari-chan to Kareshi no Dekinai Osananajimi - The Futanari Girl and Her
+      Longtime Friend Who Can't Find a Boyfriend | Futanari-chan and the Childhood Friend
+      Who Can't Get a Boyfriend
+    author: ayanakitori
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687701.jpg
+    rating: 5.0
+    date: '2026-10-15'
+    code: 687701
+    url: /works/687701/
 ---

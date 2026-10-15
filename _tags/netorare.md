@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "netorare"
-work_count: 452
+work_count: 453
 works:
   - title: Kousa suru Osu to Mesu | Male and Female Crossing
     author: ootsuka-kotora
@@ -2126,7 +2126,7 @@ works:
   - title: Watashi wa tsuma de haha de, tada no mesu 1
     author: kakyuu-bushi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/660489.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-15'
     code: 660489
     url: /works/660489/
@@ -3323,10 +3323,17 @@ works:
     date: '2026-10-13'
     code: 687230
     url: /works/687230/
+  - title: Oni to Kotori no Noroi | The Demon and the Little Bird Curse
+    author: tomatsu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687698.jpg
+    rating: 0.0
+    date: '2026-10-15'
+    code: 687698
+    url: /works/687698/
   - title: Mesu no Ie III ~Oyako wa Midare Aisareru~
     author: ame-arare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687781.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-10-15'
     code: 687781
     url: /works/687781/

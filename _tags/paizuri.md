@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "paizuri"
-work_count: 245
+work_count: 246
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -67,6 +67,13 @@ works:
     date: '2026-07-09'
     code: 317673
     url: /works/317673/
+  - title: Karin to Icha Love Ecchi
+    author: miyamoto-liz
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/321895.jpg
+    rating: 0.0
+    date: '2026-10-15'
+    code: 321895
+    url: /works/321895/
   - title: Saikin, Musuko no Yousu ga Hen nan desu | Lately my son has been acting Strangly
     author: matsumoto-jikyuuryoku
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/342639.jpg

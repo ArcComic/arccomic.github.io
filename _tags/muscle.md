@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "muscle"
-work_count: 128
+work_count: 129
 works:
   - title: Kousa suru Osu to Mesu | Male and Female Crossing
     author: ootsuka-kotora
@@ -27,7 +27,7 @@ works:
   - title: Mashou no Honnou | The Evil’s Instinct
     author: azukiko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/322268.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-10-15'
     code: 322268
     url: /works/322268/
@@ -166,7 +166,7 @@ works:
       Adult Toy
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/525317.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-10-15'
     code: 525317
     url: /works/525317/
@@ -959,10 +959,17 @@ works:
     date: '2026-10-13'
     code: 687156
     url: /works/687156/
+  - title: Oni to Kotori no Noroi | The Demon and the Little Bird Curse
+    author: tomatsu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687698.jpg
+    rating: 0.0
+    date: '2026-10-15'
+    code: 687698
+    url: /works/687698/
   - title: Mesu no Ie III ~Oyako wa Midare Aisareru~
     author: ame-arare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687781.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-10-15'
     code: 687781
     url: /works/687781/

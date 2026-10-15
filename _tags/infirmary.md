@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "infirmary"
-work_count: 6
+work_count: 7
 works:
   - title: Hokenshitsu no Futon no Naka de Satori Sedai JK to Naisho H!
     author: niji-teru
@@ -46,4 +46,13 @@ works:
     date: '2026-10-13'
     code: 686966
     url: /works/686966/
+  - title: Futanari-chan to Kareshi no Dekinai Osananajimi - The Futanari Girl and Her
+      Longtime Friend Who Can't Find a Boyfriend | Futanari-chan and the Childhood Friend
+      Who Can't Get a Boyfriend
+    author: ayanakitori
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687701.jpg
+    rating: 5.0
+    date: '2026-10-15'
+    code: 687701
+    url: /works/687701/
 ---

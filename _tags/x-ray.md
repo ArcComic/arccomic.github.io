@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "x-ray"
-work_count: 351
+work_count: 352
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -444,7 +444,7 @@ works:
       Adult Toy
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/525317.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-10-15'
     code: 525317
     url: /works/525317/
@@ -2622,14 +2622,23 @@ works:
       Festival Where My Friend’s Mother Came on My Big Dick
     author: rk-2
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687368.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-15'
     code: 687368
     url: /works/687368/
+  - title: Futanari-chan to Kareshi no Dekinai Osananajimi - The Futanari Girl and Her
+      Longtime Friend Who Can't Find a Boyfriend | Futanari-chan and the Childhood Friend
+      Who Can't Get a Boyfriend
+    author: ayanakitori
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687701.jpg
+    rating: 5.0
+    date: '2026-10-15'
+    code: 687701
+    url: /works/687701/
   - title: Mesu no Ie III ~Oyako wa Midare Aisareru~
     author: ame-arare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687781.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-10-15'
     code: 687781
     url: /works/687781/

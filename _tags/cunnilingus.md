@@ -347,7 +347,7 @@ works:
       Adult Toy
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/525317.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-10-15'
     code: 525317
     url: /works/525317/
@@ -1365,7 +1365,7 @@ works:
       Festival Where My Friend’s Mother Came on My Big Dick
     author: rk-2
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687368.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-15'
     code: 687368
     url: /works/687368/

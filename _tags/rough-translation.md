@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "rough translation"
-work_count: 696
+work_count: 697
 works:
   - title: Boku no Shiranai Kimi no Kao
     author: utsutsu-minoru
@@ -2371,7 +2371,7 @@ works:
   - title: Watashi wa tsuma de haha de, tada no mesu 1
     author: kakyuu-bushi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/660489.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-15'
     code: 660489
     url: /works/660489/
@@ -5076,10 +5076,19 @@ works:
     date: '2026-10-13'
     code: 687243
     url: /works/687243/
+  - title: Futanari-chan to Kareshi no Dekinai Osananajimi - The Futanari Girl and Her
+      Longtime Friend Who Can't Find a Boyfriend | Futanari-chan and the Childhood Friend
+      Who Can't Get a Boyfriend
+    author: ayanakitori
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687701.jpg
+    rating: 5.0
+    date: '2026-10-15'
+    code: 687701
+    url: /works/687701/
   - title: Yarasete Kureru Yuutousei
     author: maccha-neji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687712.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-10-15'
     code: 687712
     url: /works/687712/

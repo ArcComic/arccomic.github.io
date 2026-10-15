@@ -17,7 +17,7 @@ works:
     url: /works/655416/
   - title: Watashi wa tsuma de haha de, tada no mesu 1
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/660489.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-15'
     code: 660489
     url: /works/660489/

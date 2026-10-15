@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "gloves"
-work_count: 37
+work_count: 38
 works:
   - title: Yuri no o saifu ni shite agemasu ne, Senpai | I'll turn you into Yuri's wallet,
       Senpai
@@ -18,10 +18,17 @@ works:
     date: '2026-10-12'
     code: 316122
     url: /works/316122/
+  - title: Karin to Icha Love Ecchi
+    author: miyamoto-liz
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/321895.jpg
+    rating: 0.0
+    date: '2026-10-15'
+    code: 321895
+    url: /works/321895/
   - title: CA Chihaya
     author: tsurui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/322481.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-10-15'
     code: 322481
     url: /works/322481/

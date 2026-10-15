@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "stockings"
-work_count: 244
+work_count: 245
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -116,6 +116,13 @@ works:
     date: '2026-07-09'
     code: 317673
     url: /works/317673/
+  - title: Karin to Icha Love Ecchi
+    author: miyamoto-liz
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/321895.jpg
+    rating: 0.0
+    date: '2026-10-15'
+    code: 321895
+    url: /works/321895/
   - title: Shika wa Tottemo Sekkyokuteki desu!
     author: tsurui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/323524.jpg
@@ -1775,7 +1782,7 @@ works:
   - title: Mesu no Ie III ~Oyako wa Midare Aisareru~
     author: ame-arare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687781.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-10-15'
     code: 687781
     url: /works/687781/

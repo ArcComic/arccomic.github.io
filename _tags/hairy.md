@@ -184,14 +184,14 @@ works:
   - title: Mashou no Honnou | The Evil’s Instinct
     author: azukiko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/322268.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-10-15'
     code: 322268
     url: /works/322268/
   - title: CA Chihaya
     author: tsurui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/322481.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-10-15'
     code: 322481
     url: /works/322481/
@@ -1664,7 +1664,7 @@ works:
   - title: Watashi wa tsuma de haha de, tada no mesu 1
     author: kakyuu-bushi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/660489.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-15'
     code: 660489
     url: /works/660489/
@@ -2362,14 +2362,14 @@ works:
       Festival Where My Friend’s Mother Came on My Big Dick
     author: rk-2
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687368.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-15'
     code: 687368
     url: /works/687368/
   - title: Yarasete Kureru Yuutousei
     author: maccha-neji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687712.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-10-15'
     code: 687712
     url: /works/687712/
@@ -2378,14 +2378,14 @@ works:
       Me
     author: ueno-meguru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687770.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-10-15'
     code: 687770
     url: /works/687770/
   - title: Mesu no Ie III ~Oyako wa Midare Aisareru~
     author: ame-arare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687781.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-10-15'
     code: 687781
     url: /works/687781/

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "tall man"
-work_count: 38
+work_count: 39
 works:
   - title: Kousa suru Osu to Mesu | Male and Female Crossing
     author: ootsuka-kotora
@@ -285,4 +285,11 @@ works:
     date: '2026-10-09'
     code: 686230
     url: /works/686230/
+  - title: Oni to Kotori no Noroi | The Demon and the Little Bird Curse
+    author: tomatsu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687698.jpg
+    rating: 0.0
+    date: '2026-10-15'
+    code: 687698
+    url: /works/687698/
 ---

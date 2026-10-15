@@ -1,12 +1,12 @@
 ---
 layout: tag
 tag_name: "monster"
-work_count: 8
+work_count: 9
 works:
   - title: Mashou no Honnou | The Evil’s Instinct
     author: azukiko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/322268.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-10-15'
     code: 322268
     url: /works/322268/
@@ -63,4 +63,11 @@ works:
     date: '2026-09-28'
     code: 684611
     url: /works/684611/
+  - title: Oni to Kotori no Noroi | The Demon and the Little Bird Curse
+    author: tomatsu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687698.jpg
+    rating: 0.0
+    date: '2026-10-15'
+    code: 687698
+    url: /works/687698/
 ---
