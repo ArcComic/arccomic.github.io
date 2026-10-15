@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "filming"
-work_count: 112
+work_count: 113
 works:
   - title: Ikanishite Haha wa Onna o Kaihou Shitaka Ch. 1-14
     author: mitarai-yuuki
@@ -546,6 +546,13 @@ works:
     date: '2026-09-24'
     code: 654240
     url: /works/654240/
+  - title: Watashi wa tsuma de haha de, tada no mesu 1
+    author: kakyuu-bushi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/660489.jpg
+    rating: 0.0
+    date: '2026-10-15'
+    code: 660489
+    url: /works/660489/
   - title: Seishidouin no Oshigoto 4 Kohen Rippana Benki ni Sodatta node Daimanzoku
       de Shidou wo Oeta + C101 Omake
     author: malcorond

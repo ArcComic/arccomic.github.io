@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "facial hair"
-work_count: 39
+work_count: 40
 works:
   - title: Asuna-san ga Agil ni Netorareru Ohanashi
     author: fujimiya-siryu
@@ -200,6 +200,13 @@ works:
     date: '2026-09-20'
     code: 659204
     url: /works/659204/
+  - title: Watashi wa tsuma de haha de, tada no mesu 1
+    author: kakyuu-bushi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/660489.jpg
+    rating: 0.0
+    date: '2026-10-15'
+    code: 660489
+    url: /works/660489/
   - title: Boku ni Yuuki ga Atta nara | If only I had the courage
     author: kamakiri-akagi-ryouichi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/663672.jpg

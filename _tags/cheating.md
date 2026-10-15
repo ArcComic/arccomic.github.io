@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "cheating"
-work_count: 390
+work_count: 391
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -2031,6 +2031,13 @@ works:
     date: '2026-09-28'
     code: 660465
     url: /works/660465/
+  - title: Watashi wa tsuma de haha de, tada no mesu 1
+    author: kakyuu-bushi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/660489.jpg
+    rating: 0.0
+    date: '2026-10-15'
+    code: 660489
+    url: /works/660489/
   - title: All Night Long
     author: takasugi-kou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662057.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big ass"
-work_count: 263
+work_count: 264
 works:
   - title: My Care Lady Ch. 1
     author: sugi-g
@@ -1959,6 +1959,15 @@ works:
     date: '2026-10-15'
     code: 687368
     url: /works/687368/
+  - title: Jitsu wa Mutsuri Kyudo-bu no Senpai ga Ore ni Dake Ecchi o Shikakete Kuru!
+      | Turns Out the Seemingly Reserved Kyudo Club Senpai Only Wants to Have Sex with
+      Me
+    author: ueno-meguru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687770.jpg
+    rating: 0.0
+    date: '2026-10-15'
+    code: 687770
+    url: /works/687770/
   - title: Mesu no Ie III ~Oyako wa Midare Aisareru~
     author: ame-arare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687781.jpg

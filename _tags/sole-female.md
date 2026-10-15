@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole female"
-work_count: 1049
+work_count: 1051
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -5085,6 +5085,13 @@ works:
     date: '2026-09-05'
     code: 660471
     url: /works/660471/
+  - title: Watashi wa tsuma de haha de, tada no mesu 1
+    author: kakyuu-bushi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/660489.jpg
+    rating: 0.0
+    date: '2026-10-15'
+    code: 660489
+    url: /works/660489/
   - title: Murasaki no Shoumei ~Kuroi Muchuu~ | Purple Illumination ~Dark Trance~
     author: '3104'
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/660867.jpg
@@ -7761,6 +7768,15 @@ works:
     date: '2026-10-15'
     code: 687368
     url: /works/687368/
+  - title: Jitsu wa Mutsuri Kyudo-bu no Senpai ga Ore ni Dake Ecchi o Shikakete Kuru!
+      | Turns Out the Seemingly Reserved Kyudo Club Senpai Only Wants to Have Sex with
+      Me
+    author: ueno-meguru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687770.jpg
+    rating: 0.0
+    date: '2026-10-15'
+    code: 687770
+    url: /works/687770/
   - title: Ranko-ppoi no! | Ranko-Ish!
     author: napata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/87393.jpg

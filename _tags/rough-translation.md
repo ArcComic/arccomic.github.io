@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "rough translation"
-work_count: 693
+work_count: 694
 works:
   - title: Boku no Shiranai Kimi no Kao
     author: utsutsu-minoru
@@ -2368,6 +2368,13 @@ works:
     date: '2026-09-05'
     code: 660471
     url: /works/660471/
+  - title: Watashi wa tsuma de haha de, tada no mesu 1
+    author: kakyuu-bushi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/660489.jpg
+    rating: 0.0
+    date: '2026-10-15'
+    code: 660489
+    url: /works/660489/
   - title: Dandan Kuse ni Naru - I like molester? .........No
     author: panda
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/661142.jpg
