@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big penis"
-work_count: 265
+work_count: 266
 works:
   - title: Tsuma no Imouto no Danna ga Ie ni Kiteiruyoudesu | My Sister-In-Law's Husband
       is Over
@@ -1969,6 +1969,13 @@ works:
     date: '2026-10-13'
     code: 687235
     url: /works/687235/
+  - title: Riho-chan Kashidashi Surutte Yo
+    author: j-no-kakusei
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687556.jpg
+    rating: 0.0
+    date: '2026-10-15'
+    code: 687556
+    url: /works/687556/
   - title: Oni to Kotori no Noroi | The Demon and the Little Bird Curse
     author: tomatsu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687698.jpg

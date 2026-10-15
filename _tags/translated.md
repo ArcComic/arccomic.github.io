@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "translated"
-work_count: 1743
+work_count: 1746
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -1012,6 +1012,13 @@ works:
     date: '2026-04-13'
     code: 369382
     url: /works/369382/
+  - title: Mata Ashita, Anata to... | See you tomorrow...
+    author: itou-nanami
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/369712.jpg
+    rating: 0.0
+    date: '2026-10-15'
+    code: 369712
+    url: /works/369712/
   - title: Shirotaegiku | Dusty miller
     author: hiroya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/370164.jpg
@@ -12723,6 +12730,13 @@ works:
     date: '2026-10-15'
     code: 687368
     url: /works/687368/
+  - title: Riho-chan Kashidashi Surutte Yo
+    author: j-no-kakusei
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687556.jpg
+    rating: 0.0
+    date: '2026-10-15'
+    code: 687556
+    url: /works/687556/
   - title: Tsuma no Kako ~Apparel-kei Cool Zuma no Kekkon Mae~
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687557.jpg
@@ -12784,6 +12798,13 @@ works:
     date: '2026-10-15'
     code: 687720
     url: /works/687720/
+  - title: Kimi to irunoga Atarime dato Omoetara
+    author: rocket-monkey
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687740.jpg
+    rating: 0.0
+    date: '2026-10-15'
+    code: 687740
+    url: /works/687740/
   - title: Jitsu wa Mutsuri Kyudo-bu no Senpai ga Ore ni Dake Ecchi o Shikakete Kuru!
       | Turns Out the Seemingly Reserved Kyudo Club Senpai Only Wants to Have Sex with
       Me

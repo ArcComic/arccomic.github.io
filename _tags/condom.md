@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "condom"
-work_count: 238
+work_count: 239
 works:
   - title: Kaisha de Iroiro | Gettin' Busy at the Office
     author: hara-shigeyuki
@@ -195,6 +195,13 @@ works:
     date: '2026-09-24'
     code: 364371
     url: /works/364371/
+  - title: Mata Ashita, Anata to... | See you tomorrow...
+    author: itou-nanami
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/369712.jpg
+    rating: 0.0
+    date: '2026-10-15'
+    code: 369712
+    url: /works/369712/
   - title: Shirotaegiku | Dusty miller
     author: hiroya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/370164.jpg

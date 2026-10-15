@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "hairy"
-work_count: 326
+work_count: 327
 works:
   - title: MAGIC SEVEN
     author: asuhiro
@@ -2373,6 +2373,13 @@ works:
     date: '2026-10-15'
     code: 687368
     url: /works/687368/
+  - title: Riho-chan Kashidashi Surutte Yo
+    author: j-no-kakusei
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687556.jpg
+    rating: 0.0
+    date: '2026-10-15'
+    code: 687556
+    url: /works/687556/
   - title: Yarasete Kureru Yuutousei
     author: maccha-neji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687712.jpg

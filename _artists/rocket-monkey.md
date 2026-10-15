@@ -1,7 +1,7 @@
 ---
 layout: artist
 artist_name: "rocket-monkey"
-work_count: 2
+work_count: 3
 works:
   - title: Tsuki ga Noboru | Moonrise
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/307241.jpg
@@ -15,4 +15,10 @@ works:
     date: '2026-09-24'
     code: 364371
     url: /works/364371/
+  - title: Kimi to irunoga Atarime dato Omoetara
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687740.jpg
+    rating: 0.0
+    date: '2026-10-15'
+    code: 687740
+    url: /works/687740/
 ---

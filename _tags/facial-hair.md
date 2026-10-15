@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "facial hair"
-work_count: 40
+work_count: 41
 works:
   - title: Asuna-san ga Agil ni Netorareru Ohanashi
     author: fujimiya-siryu
@@ -288,6 +288,13 @@ works:
     date: '2026-10-02'
     code: 685727
     url: /works/685727/
+  - title: Riho-chan Kashidashi Surutte Yo
+    author: j-no-kakusei
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687556.jpg
+    rating: 0.0
+    date: '2026-10-15'
+    code: 687556
+    url: /works/687556/
   - title: Mesu no Ie III ~Oyako wa Midare Aisareru~
     author: ame-arare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687781.jpg
