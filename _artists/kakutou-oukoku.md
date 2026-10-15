@@ -1,8 +1,15 @@
 ---
 layout: artist
 artist_name: "kakutou-oukoku"
-work_count: 1
+work_count: 2
 works:
+  - title: 'Harami samurai 01 Onna Douchuu Maguwai Tabi | Knocked Up Samurai 01: A Woman’s
+      Journey to get pregnant'
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/411246.jpg
+    rating: 0.0
+    date: '2026-10-15'
+    code: 411246
+    url: /works/411246/
   - title: Katei Saien Vol. 1 | Lustful Housewife Vol. 1 ch. 1-4
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683984.jpg
     rating: 4.3

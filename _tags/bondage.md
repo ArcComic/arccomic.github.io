@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bondage"
-work_count: 107
+work_count: 108
 works:
   - title: Pai☆Panic ~Hasamareta Dekapai~
     author: inkey
@@ -59,6 +59,14 @@ works:
     date: '2026-09-24'
     code: 395483
     url: /works/395483/
+  - title: 'Harami samurai 01 Onna Douchuu Maguwai Tabi | Knocked Up Samurai 01: A Woman’s
+      Journey to get pregnant'
+    author: kakutou-oukoku
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/411246.jpg
+    rating: 0.0
+    date: '2026-10-15'
+    code: 411246
+    url: /works/411246/
   - title: Ichizu na Onee-san to Saikaishitara Dosukebe Kyuukonsarete Sex Tsukeninaru
       Hanashi | After Reuniting with the Onee-san Who is Fixated on Me, I was Proposed
       to with Sex and Got Addicted

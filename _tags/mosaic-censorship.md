@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "mosaic censorship"
-work_count: 322
+work_count: 323
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -60,6 +60,13 @@ works:
     date: '2026-04-16'
     code: 297068
     url: /works/297068/
+  - title: Netorare Shuugaku Ryokou
+    author: milkholic
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/310857.jpg
+    rating: 0.0
+    date: '2026-10-15'
+    code: 310857
+    url: /works/310857/
   - title: Yukiho to yoru no kekkonshiki | Evening Wedding with Yukiho
     author: tsurui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/316122.jpg

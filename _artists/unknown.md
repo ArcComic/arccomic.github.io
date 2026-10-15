@@ -1,7 +1,7 @@
 ---
 layout: artist
 artist_name: "unknown"
-work_count: 81
+work_count: 82
 works:
   - title: Hajimete Kanojo Ga Dekita No Ni
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/316579.jpg
@@ -507,4 +507,12 @@ works:
     date: '2026-10-13'
     code: 687228
     url: /works/687228/
+  - title: Ato no Matsuri ~Gakuensai no Jinx wa Boku ja Nakute Aitsu to Kanojo o Musubitsukeru~
+      |  After the Festival ~The School Festival Jinx Ends Up Bringing Her and Him Together
+      Instead of Me~ Part 1
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687638.jpg
+    rating: 0.0
+    date: '2026-10-15'
+    code: 687638
+    url: /works/687638/
 ---

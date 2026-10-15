@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big breasts"
-work_count: 1197
+work_count: 1200
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -300,6 +300,13 @@ works:
     date: '2026-09-22'
     code: 307241
     url: /works/307241/
+  - title: Netorare Shuugaku Ryokou
+    author: milkholic
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/310857.jpg
+    rating: 0.0
+    date: '2026-10-15'
+    code: 310857
+    url: /works/310857/
   - title: Itomusubi Vol. 2
     author: bekotarou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/311755.jpg
@@ -701,6 +708,14 @@ works:
     date: '2026-03-05'
     code: 409929
     url: /works/409929/
+  - title: 'Harami samurai 01 Onna Douchuu Maguwai Tabi | Knocked Up Samurai 01: A Woman’s
+      Journey to get pregnant'
+    author: kakutou-oukoku
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/411246.jpg
+    rating: 0.0
+    date: '2026-10-15'
+    code: 411246
+    url: /works/411246/
   - title: NTR Anniversary + ) [Syukurin] Mitsuha ~Netorare~ (Kimi no Na wa.) [English]
       [Colorized] by Mikaku
     author: arakure
@@ -8818,6 +8833,15 @@ works:
     date: '2026-10-15'
     code: 687368
     url: /works/687368/
+  - title: Ato no Matsuri ~Gakuensai no Jinx wa Boku ja Nakute Aitsu to Kanojo o Musubitsukeru~
+      |  After the Festival ~The School Festival Jinx Ends Up Bringing Her and Him Together
+      Instead of Me~ Part 1
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687638.jpg
+    rating: 0.0
+    date: '2026-10-15'
+    code: 687638
+    url: /works/687638/
   - title: Oni to Kotori no Noroi | The Demon and the Little Bird Curse
     author: tomatsu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687698.jpg

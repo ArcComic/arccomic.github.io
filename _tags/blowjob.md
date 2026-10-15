@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "blowjob"
-work_count: 706
+work_count: 707
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -508,6 +508,14 @@ works:
     date: '2026-03-09'
     code: 408822
     url: /works/408822/
+  - title: 'Harami samurai 01 Onna Douchuu Maguwai Tabi | Knocked Up Samurai 01: A Woman’s
+      Journey to get pregnant'
+    author: kakutou-oukoku
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/411246.jpg
+    rating: 0.0
+    date: '2026-10-15'
+    code: 411246
+    url: /works/411246/
   - title: Shuudan Jotaika Gyaru, Ochiru | Mass-Gender Bended Gyarus, Fall into Depravity
     author: betty
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/414300.jpg

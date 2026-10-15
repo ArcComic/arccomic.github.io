@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "netorare"
-work_count: 453
+work_count: 455
 works:
   - title: Kousa suru Osu to Mesu | Male and Female Crossing
     author: ootsuka-kotora
@@ -116,6 +116,13 @@ works:
     date: '2026-09-26'
     code: 309899
     url: /works/309899/
+  - title: Netorare Shuugaku Ryokou
+    author: milkholic
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/310857.jpg
+    rating: 0.0
+    date: '2026-10-15'
+    code: 310857
+    url: /works/310857/
   - title: Itomusubi Vol. 2
     author: bekotarou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/311755.jpg
@@ -3323,6 +3330,15 @@ works:
     date: '2026-10-13'
     code: 687230
     url: /works/687230/
+  - title: Ato no Matsuri ~Gakuensai no Jinx wa Boku ja Nakute Aitsu to Kanojo o Musubitsukeru~
+      |  After the Festival ~The School Festival Jinx Ends Up Bringing Her and Him Together
+      Instead of Me~ Part 1
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687638.jpg
+    rating: 0.0
+    date: '2026-10-15'
+    code: 687638
+    url: /works/687638/
   - title: Oni to Kotori no Noroi | The Demon and the Little Bird Curse
     author: tomatsu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687698.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole female"
-work_count: 1057
+work_count: 1059
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -371,6 +371,13 @@ works:
     date: '2026-10-13'
     code: 307418
     url: /works/307418/
+  - title: Netorare Shuugaku Ryokou
+    author: milkholic
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/310857.jpg
+    rating: 0.0
+    date: '2026-10-15'
+    code: 310857
+    url: /works/310857/
   - title: Itomusubi Vol. 2
     author: bekotarou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/311755.jpg
@@ -7789,6 +7796,15 @@ works:
     date: '2026-10-15'
     code: 687368
     url: /works/687368/
+  - title: Ato no Matsuri ~Gakuensai no Jinx wa Boku ja Nakute Aitsu to Kanojo o Musubitsukeru~
+      |  After the Festival ~The School Festival Jinx Ends Up Bringing Her and Him Together
+      Instead of Me~ Part 1
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687638.jpg
+    rating: 0.0
+    date: '2026-10-15'
+    code: 687638
+    url: /works/687638/
   - title: Oni to Kotori no Noroi | The Demon and the Little Bird Curse
     author: tomatsu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687698.jpg

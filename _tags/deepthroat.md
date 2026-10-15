@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "deepthroat"
-work_count: 89
+work_count: 90
 works:
   - title: Toshishita Chin Kui Obasan
     author: maccha-neji
@@ -10,6 +10,14 @@ works:
     date: '2026-04-19'
     code: 387637
     url: /works/387637/
+  - title: 'Harami samurai 01 Onna Douchuu Maguwai Tabi | Knocked Up Samurai 01: A Woman’s
+      Journey to get pregnant'
+    author: kakutou-oukoku
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/411246.jpg
+    rating: 0.0
+    date: '2026-10-15'
+    code: 411246
+    url: /works/411246/
   - title: Utakata 2 ~Uraaka DoM Haken OL Onaho Choukyou~ | An Office Lady's Behind
       The Scenes Masochistic Onahole Training 2
     author: yuzuri-ai
