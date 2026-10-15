@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "nakadashi"
-work_count: 902
+work_count: 904
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -308,6 +308,13 @@ works:
     date: '2026-10-09'
     code: 323524
     url: /works/323524/
+  - title: Toshoshitsu no Kanojo 3~Seiso na Kimi ga Ochiru made~
+    author: ame-arare
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/327421.jpg
+    rating: 4.7
+    date: '2026-10-15'
+    code: 327421
+    url: /works/327421/
   - title: My Sugar Mama! 1-3
     author: azukiko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/328334.jpg
@@ -606,6 +613,13 @@ works:
     date: '2026-09-25'
     code: 408427
     url: /works/408427/
+  - title: Toshoshitsu no Kanojo 5 ~Onna Kyoushi ga Ochiru made (Zenpen)~
+    author: ame-arare
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/410909.jpg
+    rating: 0.0
+    date: '2026-10-15'
+    code: 410909
+    url: /works/410909/
   - title: NTR Anniversary + ) [Syukurin] Mitsuha ~Netorare~ (Kimi no Na wa.) [English]
       [Colorized] by Mikaku
     author: arakure

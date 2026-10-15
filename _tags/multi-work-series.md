@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "multi-work series"
-work_count: 419
+work_count: 422
 works:
   - title: Konna ni mo Itooshii Zero
     author: nohito
@@ -108,6 +108,20 @@ works:
     date: '2026-10-10'
     code: 323523
     url: /works/323523/
+  - title: Toshoshitsu no Kanojo 2 ~Seiso na Kimi ga Ochiru made~
+    author: ame-arare
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/325354.jpg
+    rating: 0.0
+    date: '2026-10-15'
+    code: 325354
+    url: /works/325354/
+  - title: Toshoshitsu no Kanojo 3~Seiso na Kimi ga Ochiru made~
+    author: ame-arare
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/327421.jpg
+    rating: 4.7
+    date: '2026-10-15'
+    code: 327421
+    url: /works/327421/
   - title: Love Divided Between a Rock and a Hard Place Ch.1
     author: cabin
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/342540.jpg
@@ -164,6 +178,13 @@ works:
     date: '2026-05-03'
     code: 376189
     url: /works/376189/
+  - title: Toshoshitsu no Kanojo 5 ~Onna Kyoushi ga Ochiru made (Zenpen)~
+    author: ame-arare
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/410909.jpg
+    rating: 0.0
+    date: '2026-10-15'
+    code: 410909
+    url: /works/410909/
   - title: NTR Anniversary + ) [Syukurin] Mitsuha ~Netorare~ (Kimi no Na wa.) [English]
       [Colorized] by Mikaku
     author: arakure

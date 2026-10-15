@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "small penis"
-work_count: 18
+work_count: 19
 works:
+  - title: Toshoshitsu no Kanojo 3~Seiso na Kimi ga Ochiru made~
+    author: ame-arare
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/327421.jpg
+    rating: 4.7
+    date: '2026-10-15'
+    code: 327421
+    url: /works/327421/
   - title: Shut-less
     author: mr-hokke
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/531966.jpg

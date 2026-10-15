@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "ame arare"
-work_count: 7
+work_count: 10
 works:
   - title: Swapping Party!?
     author: ame-arare
@@ -10,6 +10,27 @@ works:
     date: '2026-10-15'
     code: 318530
     url: /works/318530/
+  - title: Toshoshitsu no Kanojo 2 ~Seiso na Kimi ga Ochiru made~
+    author: ame-arare
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/325354.jpg
+    rating: 0.0
+    date: '2026-10-15'
+    code: 325354
+    url: /works/325354/
+  - title: Toshoshitsu no Kanojo 3~Seiso na Kimi ga Ochiru made~
+    author: ame-arare
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/327421.jpg
+    rating: 4.7
+    date: '2026-10-15'
+    code: 327421
+    url: /works/327421/
+  - title: Toshoshitsu no Kanojo 5 ~Onna Kyoushi ga Ochiru made (Zenpen)~
+    author: ame-arare
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/410909.jpg
+    rating: 0.0
+    date: '2026-10-15'
+    code: 410909
+    url: /works/410909/
   - title: NIKKE Icha Love Ero Goudou "NIKKE☆Lover" | NIKKE Lovey-Dovey Ero Compendium
       "NIKKE☆Lover"
     author: kumakiti

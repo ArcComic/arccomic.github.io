@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "anal"
-work_count: 176
+work_count: 177
 works:
   - title: Ikanishite Haha wa Onna o Kaihou Shitaka Ch. 1-14
     author: mitarai-yuuki
@@ -60,6 +60,13 @@ works:
     date: '2026-10-15'
     code: 322268
     url: /works/322268/
+  - title: Toshoshitsu no Kanojo 2 ~Seiso na Kimi ga Ochiru made~
+    author: ame-arare
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/325354.jpg
+    rating: 0.0
+    date: '2026-10-15'
+    code: 325354
+    url: /works/325354/
   - title: Ryoujoku Gakuen
     author: motchie
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/332375.jpg

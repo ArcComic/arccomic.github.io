@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big breasts"
-work_count: 1211
+work_count: 1214
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -386,6 +386,20 @@ works:
     date: '2026-10-11'
     code: 325061
     url: /works/325061/
+  - title: Toshoshitsu no Kanojo 2 ~Seiso na Kimi ga Ochiru made~
+    author: ame-arare
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/325354.jpg
+    rating: 0.0
+    date: '2026-10-15'
+    code: 325354
+    url: /works/325354/
+  - title: Toshoshitsu no Kanojo 3~Seiso na Kimi ga Ochiru made~
+    author: ame-arare
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/327421.jpg
+    rating: 4.7
+    date: '2026-10-15'
+    code: 327421
+    url: /works/327421/
   - title: My Sugar Mama! 1-3
     author: azukiko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/328334.jpg
@@ -729,6 +743,13 @@ works:
     date: '2026-03-05'
     code: 409929
     url: /works/409929/
+  - title: Toshoshitsu no Kanojo 5 ~Onna Kyoushi ga Ochiru made (Zenpen)~
+    author: ame-arare
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/410909.jpg
+    rating: 0.0
+    date: '2026-10-15'
+    code: 410909
+    url: /works/410909/
   - title: 'Harami samurai 01 Onna Douchuu Maguwai Tabi | Knocked Up Samurai 01: A Woman’s
       Journey to get pregnant'
     author: kakutou-oukoku

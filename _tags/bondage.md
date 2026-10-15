@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bondage"
-work_count: 109
+work_count: 110
 works:
   - title: Pai☆Panic ~Hasamareta Dekapai~
     author: inkey
@@ -59,6 +59,13 @@ works:
     date: '2026-09-24'
     code: 395483
     url: /works/395483/
+  - title: Toshoshitsu no Kanojo 5 ~Onna Kyoushi ga Ochiru made (Zenpen)~
+    author: ame-arare
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/410909.jpg
+    rating: 0.0
+    date: '2026-10-15'
+    code: 410909
+    url: /works/410909/
   - title: 'Harami samurai 01 Onna Douchuu Maguwai Tabi | Knocked Up Samurai 01: A Woman’s
       Journey to get pregnant'
     author: kakutou-oukoku

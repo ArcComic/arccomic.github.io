@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "gyaru-oh"
-work_count: 38
+work_count: 39
 works:
   - title: Netorare Ibe Kiba Shizuka
     author: terasu-mc
@@ -52,6 +52,13 @@ works:
     date: '2026-09-11'
     code: 397251
     url: /works/397251/
+  - title: Toshoshitsu no Kanojo 5 ~Onna Kyoushi ga Ochiru made (Zenpen)~
+    author: ame-arare
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/410909.jpg
+    rating: 0.0
+    date: '2026-10-15'
+    code: 410909
+    url: /works/410909/
   - title: Musume no Kareshi ni Ochiru Okaa-san. 2 | A Mother Who Falls For Her Daughter's
       Boyfriend 2
     author: sinori

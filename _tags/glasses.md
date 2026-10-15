@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "glasses"
-work_count: 291
+work_count: 292
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -281,6 +281,13 @@ works:
     date: '2026-03-05'
     code: 409929
     url: /works/409929/
+  - title: Toshoshitsu no Kanojo 5 ~Onna Kyoushi ga Ochiru made (Zenpen)~
+    author: ame-arare
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/410909.jpg
+    rating: 0.0
+    date: '2026-10-15'
+    code: 410909
+    url: /works/410909/
   - title: Hito o Dame ni Suru Choi Busu ~Kao 40-ten, Karada 120-ten no Kanojo~
     author: special-g
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/414892.jpg

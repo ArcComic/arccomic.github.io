@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "facial hair"
-work_count: 42
+work_count: 43
 works:
   - title: Asuna-san ga Agil ni Netorareru Ohanashi
     author: fujimiya-siryu
@@ -38,6 +38,13 @@ works:
     date: '2026-09-23'
     code: 402019
     url: /works/402019/
+  - title: Toshoshitsu no Kanojo 5 ~Onna Kyoushi ga Ochiru made (Zenpen)~
+    author: ame-arare
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/410909.jpg
+    rating: 0.0
+    date: '2026-10-15'
+    code: 410909
+    url: /works/410909/
   - title: netoraretekite, ii desu yo.
     author: nt-robo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/432513.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "double penetration"
-work_count: 52
+work_count: 53
 works:
   - title: Hitozuma Hyakka
     author: hase-tsubura
@@ -17,6 +17,13 @@ works:
     date: '2026-10-15'
     code: 322268
     url: /works/322268/
+  - title: Toshoshitsu no Kanojo 2 ~Seiso na Kimi ga Ochiru made~
+    author: ame-arare
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/325354.jpg
+    rating: 0.0
+    date: '2026-10-15'
+    code: 325354
+    url: /works/325354/
   - title: 'Knocked Up Samurai 02: The Post Town and the Ronin, Tied and Teased'
     author: kakutou-oukoku
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/412135.jpg

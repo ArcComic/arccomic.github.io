@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "schoolgirl uniform"
-work_count: 369
+work_count: 371
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -117,6 +117,13 @@ works:
     date: '2026-07-07'
     code: 321298
     url: /works/321298/
+  - title: Toshoshitsu no Kanojo 2 ~Seiso na Kimi ga Ochiru made~
+    author: ame-arare
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/325354.jpg
+    rating: 0.0
+    date: '2026-10-15'
+    code: 325354
+    url: /works/325354/
   - title: My Sugar Mama! 1-3
     author: azukiko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/328334.jpg
@@ -268,6 +275,13 @@ works:
     date: '2026-10-07'
     code: 409385
     url: /works/409385/
+  - title: Toshoshitsu no Kanojo 5 ~Onna Kyoushi ga Ochiru made (Zenpen)~
+    author: ame-arare
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/410909.jpg
+    rating: 0.0
+    date: '2026-10-15'
+    code: 410909
+    url: /works/410909/
   - title: sequence irekaeru futari no karada
     author: iwashita
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/414040.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big penis"
-work_count: 267
+work_count: 268
 works:
   - title: Tsuma no Imouto no Danna ga Ie ni Kiteiruyoudesu | My Sister-In-Law's Husband
       is Over
@@ -18,6 +18,13 @@ works:
     date: '2026-07-16'
     code: 288292
     url: /works/288292/
+  - title: Toshoshitsu no Kanojo 3~Seiso na Kimi ga Ochiru made~
+    author: ame-arare
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/327421.jpg
+    rating: 4.7
+    date: '2026-10-15'
+    code: 327421
+    url: /works/327421/
   - title: Majimeni Yarimasu (Seitokaichou) Ch. 1-3
     author: ikumo-taisuke
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/346416.jpg
