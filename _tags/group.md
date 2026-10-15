@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "group"
-work_count: 271
+work_count: 272
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -225,6 +225,13 @@ works:
     date: '2026-04-15'
     code: 470025
     url: /works/470025/
+  - title: Toshoshitsu no Kanojo 6 ~Onna Kyoushi ga Ochiru made (Kouhen)~
+    author: ame-arare
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/474458.jpg
+    rating: 0.0
+    date: '2026-10-15'
+    code: 474458
+    url: /works/474458/
   - title: Nee-chan to Chome Chome Ch. 1-4
     author: sabashi-renya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/474885.jpg

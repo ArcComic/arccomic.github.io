@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "blackmail"
-work_count: 153
+work_count: 154
 works:
   - title: Birthday
     author: hashiba-yachi
@@ -299,6 +299,13 @@ works:
     date: '2026-04-23'
     code: 526024
     url: /works/526024/
+  - title: Mesu no Ie - Married Woman's House ~Tsuma wa Midare Ubawareru~
+    author: ame-arare
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/526431.jpg
+    rating: 0.0
+    date: '2026-10-15'
+    code: 526431
+    url: /works/526431/
   - title: A Married Woman Tricked Into Filming ~ Former Gravure Idol Wife Gets NTR'd
       By The President's Son For Her Husbands Sake ~
     author: izuminoaru

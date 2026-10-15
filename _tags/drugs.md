@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "drugs"
-work_count: 46
+work_count: 47
 works:
   - title: A-part | Apartment
     author: zero-no-mono
@@ -85,6 +85,13 @@ works:
     date: '2026-04-19'
     code: 465602
     url: /works/465602/
+  - title: Toshoshitsu no Kanojo 6 ~Onna Kyoushi ga Ochiru made (Kouhen)~
+    author: ame-arare
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/474458.jpg
+    rating: 0.0
+    date: '2026-10-15'
+    code: 474458
+    url: /works/474458/
   - title: Netorareru.~ Tsuma ga Ochi Yuku Hen'ai Kairaku no Hate ni...1-5 | NETORARERU,
       A Wife's Descent Into Sinful Pleasures 1-5
     author: yuuki-ryo

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "beauty mark"
-work_count: 219
+work_count: 222
 works:
   - title: Uragiri no Ai wa Mitsu no Aji | Treacherous Love Tastes Like Honey
     author: cuzukago
@@ -132,6 +132,13 @@ works:
     date: '2026-04-13'
     code: 351868
     url: /works/351868/
+  - title: Toshoshitsu no Kanojo 4 ~Seiso na Kimi ga Ochiru made~
+    author: ame-arare
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/352581.jpg
+    rating: 0.0
+    date: '2026-10-15'
+    code: 352581
+    url: /works/352581/
   - title: Amako Ticket Extra ~Onikuya-san Hen~ | Amako Ticket Extra ~Butcher Edition~
     author: rokuichi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/355398.jpg
@@ -278,6 +285,13 @@ works:
     date: '2026-04-19'
     code: 470023
     url: /works/470023/
+  - title: Toshoshitsu no Kanojo 6 ~Onna Kyoushi ga Ochiru made (Kouhen)~
+    author: ame-arare
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/474458.jpg
+    rating: 0.0
+    date: '2026-10-15'
+    code: 474458
+    url: /works/474458/
   - title: '"Koko Ijirareru no Sukidatta yona?" Rinjin wa, Hitozuma no Moto SeFri |
       “You Love When I Tease You Here, Don’t You?” My Neighbor Was My Former Sex Friend
       1'
@@ -428,6 +442,13 @@ works:
     date: '2026-09-12'
     code: 524436
     url: /works/524436/
+  - title: Mesu no Ie - Married Woman's House ~Tsuma wa Midare Ubawareru~
+    author: ame-arare
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/526431.jpg
+    rating: 0.0
+    date: '2026-10-15'
+    code: 526431
+    url: /works/526431/
   - title: Tsuma ga, Tanin no Mesu ni naru made -Short Cut Kyonyuu Tsuma Sasaki Misaki
       Hen-
     author: haruhisky

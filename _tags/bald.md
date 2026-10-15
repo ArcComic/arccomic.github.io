@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bald"
-work_count: 84
+work_count: 85
 works:
   - title: Overwrite
     author: ojo
@@ -67,6 +67,13 @@ works:
     date: '2026-04-19'
     code: 453749
     url: /works/453749/
+  - title: Toshoshitsu no Kanojo 6 ~Onna Kyoushi ga Ochiru made (Kouhen)~
+    author: ame-arare
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/474458.jpg
+    rating: 0.0
+    date: '2026-10-15'
+    code: 474458
+    url: /works/474458/
   - title: Risato
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/484852.jpg

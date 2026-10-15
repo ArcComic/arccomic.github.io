@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "unusual pupils"
-work_count: 85
+work_count: 86
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -119,6 +119,13 @@ works:
     date: '2026-09-29'
     code: 473892
     url: /works/473892/
+  - title: Toshoshitsu no Kanojo 6 ~Onna Kyoushi ga Ochiru made (Kouhen)~
+    author: ame-arare
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/474458.jpg
+    rating: 0.0
+    date: '2026-10-15'
+    code: 474458
+    url: /works/474458/
   - title: Shuumatsu dakara Ippai Ichaicha Shi yo
     author: saemon
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/476145.jpg

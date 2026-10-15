@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "incest"
-work_count: 324
+work_count: 325
 works:
   - title: Imitation Family + Bigibo Hen
     author: tohzai
@@ -467,6 +467,13 @@ works:
     date: '2026-09-27'
     code: 523955
     url: /works/523955/
+  - title: Mesu no Ie - Married Woman's House ~Tsuma wa Midare Ubawareru~
+    author: ame-arare
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/526431.jpg
+    rating: 0.0
+    date: '2026-10-15'
+    code: 526431
+    url: /works/526431/
   - title: Haha Netori
     author: aoi-hitori
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/527171.jpg

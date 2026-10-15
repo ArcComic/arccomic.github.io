@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "nakadashi"
-work_count: 904
+work_count: 906
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -968,6 +968,13 @@ works:
     date: '2026-10-02'
     code: 473512
     url: /works/473512/
+  - title: Toshoshitsu no Kanojo 6 ~Onna Kyoushi ga Ochiru made (Kouhen)~
+    author: ame-arare
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/474458.jpg
+    rating: 0.0
+    date: '2026-10-15'
+    code: 474458
+    url: /works/474458/
   - title: Nee-chan to Chome Chome Ch. 1-4
     author: sabashi-renya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/474885.jpg
@@ -1444,6 +1451,13 @@ works:
     date: '2026-09-12'
     code: 524436
     url: /works/524436/
+  - title: Mesu no Ie - Married Woman's House ~Tsuma wa Midare Ubawareru~
+    author: ame-arare
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/526431.jpg
+    rating: 0.0
+    date: '2026-10-15'
+    code: 526431
+    url: /works/526431/
   - title: A tale of an Elf adventurer (♀) being visited at night and bred by an innkeeper
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/526619.jpg

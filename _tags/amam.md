@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "amam"
-work_count: 8
+work_count: 11
 works:
   - title: Toshoshitsu no Kanojo 2 ~Seiso na Kimi ga Ochiru made~
     author: ame-arare
@@ -17,6 +17,13 @@ works:
     date: '2026-10-15'
     code: 327421
     url: /works/327421/
+  - title: Toshoshitsu no Kanojo 4 ~Seiso na Kimi ga Ochiru made~
+    author: ame-arare
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/352581.jpg
+    rating: 0.0
+    date: '2026-10-15'
+    code: 352581
+    url: /works/352581/
   - title: Toshoshitsu no Kanojo 5 ~Onna Kyoushi ga Ochiru made (Zenpen)~
     author: ame-arare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/410909.jpg
@@ -24,6 +31,20 @@ works:
     date: '2026-10-15'
     code: 410909
     url: /works/410909/
+  - title: Toshoshitsu no Kanojo 6 ~Onna Kyoushi ga Ochiru made (Kouhen)~
+    author: ame-arare
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/474458.jpg
+    rating: 0.0
+    date: '2026-10-15'
+    code: 474458
+    url: /works/474458/
+  - title: Mesu no Ie - Married Woman's House ~Tsuma wa Midare Ubawareru~
+    author: ame-arare
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/526431.jpg
+    rating: 0.0
+    date: '2026-10-15'
+    code: 526431
+    url: /works/526431/
   - title: Mesu no Ie II ~Tsuma wa Midare Ubareru~
     author: ame-arare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/591112.jpg

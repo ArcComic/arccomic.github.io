@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "condom"
-work_count: 239
+work_count: 240
 works:
   - title: Kaisha de Iroiro | Gettin' Busy at the Office
     author: hara-shigeyuki
@@ -486,6 +486,13 @@ works:
     date: '2026-08-24'
     code: 508845
     url: /works/508845/
+  - title: Mesu no Ie - Married Woman's House ~Tsuma wa Midare Ubawareru~
+    author: ame-arare
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/526431.jpg
+    rating: 0.0
+    date: '2026-10-15'
+    code: 526431
+    url: /works/526431/
   - title: Zutto Hanasanaide ne. -Onaho na Mukanjou Osananajimi to Junai ni Ochiru made-
       | Please Don’t Let Go Of Me ~Until I Fall in Love With My Onahole Childhood Friend~
     author: kurumaya-koudou

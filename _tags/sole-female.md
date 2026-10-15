@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole female"
-work_count: 1068
+work_count: 1069
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -608,6 +608,13 @@ works:
     date: '2026-10-07'
     code: 352215
     url: /works/352215/
+  - title: Toshoshitsu no Kanojo 4 ~Seiso na Kimi ga Ochiru made~
+    author: ame-arare
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/352581.jpg
+    rating: 0.0
+    date: '2026-10-15'
+    code: 352581
+    url: /works/352581/
   - title: Mesukko Okami Wakarase Shuzai Kiroku
     author: airandou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/354384.jpg
