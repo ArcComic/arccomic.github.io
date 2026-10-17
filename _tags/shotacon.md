@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "shotacon"
-work_count: 148
+work_count: 149
 works:
   - title: Ikanishite Haha wa Onna o Kaihou Shitaka Ch. 1-14
     author: mitarai-yuuki
@@ -1070,6 +1070,14 @@ works:
     date: '2026-10-10'
     code: 686438
     url: /works/686438/
+  - title: Bakunyuu InCha Doukyuusei ni Kokuhaku sareta node Tsukiattara Tondemonai
+      Seiyoku Obake de Koukaishita Hanashi
+    author: fuzui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688156.jpg
+    rating: 0.0
+    date: '2026-10-17'
+    code: 688156
+    url: /works/688156/
   - title: Jimi-gao Onee-chan Ganbaru! ~Hajimete no Bokki ni Odoroite Gyan Naki suru
       Otouto no Osewa wa Taihen!~
     author: aitoka-nantoka

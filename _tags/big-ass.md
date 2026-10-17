@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big ass"
-work_count: 269
+work_count: 270
 works:
   - title: My Care Lady Ch. 1
     author: sugi-g
@@ -2011,6 +2011,13 @@ works:
     date: '2026-10-17'
     code: 688289
     url: /works/688289/
+  - title: ZenZero Icha Love Ero Goudou "ZenEro" Vol.3
+    author: ekakibit
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688293.jpg
+    rating: 0.0
+    date: '2026-10-17'
+    code: 688293
+    url: /works/688293/
   - title: Inin Keiyaku | Lewd Pregnancy Contract
     author: yoshiura-kazuya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/83595.jpg

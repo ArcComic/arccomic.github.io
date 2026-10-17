@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bbw"
-work_count: 67
+work_count: 68
 works:
   - title: My Care Lady Ch. 1
     author: sugi-g
@@ -493,4 +493,12 @@ works:
     date: '2026-10-15'
     code: 687712
     url: /works/687712/
+  - title: Bakunyuu InCha Doukyuusei ni Kokuhaku sareta node Tsukiattara Tondemonai
+      Seiyoku Obake de Koukaishita Hanashi
+    author: fuzui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688156.jpg
+    rating: 0.0
+    date: '2026-10-17'
+    code: 688156
+    url: /works/688156/
 ---

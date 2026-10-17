@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "danimaru"
-work_count: 10
+work_count: 11
 works:
   - title: Onee-chan ga Ecchi na Koto bakka Suru kara... | My older sister only does
       obscene things...
@@ -74,4 +74,11 @@ works:
     date: '2026-10-07'
     code: 686107
     url: /works/686107/
+  - title: ZenZero Icha Love Ero Goudou "ZenEro" Vol.3
+    author: ekakibit
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688293.jpg
+    rating: 0.0
+    date: '2026-10-17'
+    code: 688293
+    url: /works/688293/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "ahegao"
-work_count: 344
+work_count: 345
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -2583,6 +2583,13 @@ works:
     date: '2026-10-17'
     code: 687968
     url: /works/687968/
+  - title: ZenZero Icha Love Ero Goudou "ZenEro" Vol.3
+    author: ekakibit
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688293.jpg
+    rating: 0.0
+    date: '2026-10-17'
+    code: 688293
+    url: /works/688293/
   - title: Inin Keiyaku | Lewd Pregnancy Contract
     author: yoshiura-kazuya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/83595.jpg
