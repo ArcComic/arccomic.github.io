@@ -1,7 +1,7 @@
 ---
 layout: artist
 artist_name: "ame-arare"
-work_count: 14
+work_count: 15
 works:
   - title: Toshoshitsu no Kanojo ~Seiso na Kimi ga Ochiru made~
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/299071.jpg
@@ -63,6 +63,12 @@ works:
     date: '2026-05-01'
     code: 591112
     url: /works/591112/
+  - title: Mesu no Ie II ~Tsuma wa Midare Ubareru~ + C106 Limited Book
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/593158.jpg
+    rating: 0.0
+    date: '2026-10-17'
+    code: 593158
+    url: /works/593158/
   - title: 'Library Girlfriend: Descent into Depravity'
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/647334.jpg
     rating: 4.6

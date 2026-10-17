@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "cosplaying"
-work_count: 28
+work_count: 29
 works:
   - title: My Sugar Mama! 1-3
     author: azukiko
@@ -47,6 +47,13 @@ works:
     date: '2026-09-22'
     code: 569267
     url: /works/569267/
+  - title: Mesu no Ie II ~Tsuma wa Midare Ubareru~ + C106 Limited Book
+    author: ame-arare
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/593158.jpg
+    rating: 0.0
+    date: '2026-10-17'
+    code: 593158
+    url: /works/593158/
   - title: Hitoban Tomete yo, Otaku-kun | Let Me Stay For the Night, Otaku-kun
     author: danimaru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/606166.jpg

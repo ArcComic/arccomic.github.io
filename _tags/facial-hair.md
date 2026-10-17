@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "facial hair"
-work_count: 43
+work_count: 44
 works:
   - title: Asuna-san ga Agil ni Netorareru Ohanashi
     author: fujimiya-siryu
@@ -89,6 +89,13 @@ works:
     date: '2026-05-01'
     code: 591112
     url: /works/591112/
+  - title: Mesu no Ie II ~Tsuma wa Midare Ubareru~ + C106 Limited Book
+    author: ame-arare
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/593158.jpg
+    rating: 0.0
+    date: '2026-10-17'
+    code: 593158
+    url: /works/593158/
   - title: Geriatric Dragons dogma
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/596562.jpg

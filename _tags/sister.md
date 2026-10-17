@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sister"
-work_count: 117
+work_count: 118
 works:
   - title: Imitation Family + Bigibo Hen
     author: tohzai
@@ -189,6 +189,13 @@ works:
     date: '2026-05-01'
     code: 591112
     url: /works/591112/
+  - title: Mesu no Ie II ~Tsuma wa Midare Ubareru~ + C106 Limited Book
+    author: ame-arare
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/593158.jpg
+    rating: 0.0
+    date: '2026-10-17'
+    code: 593158
+    url: /works/593158/
   - title: '"Yasashii Dake no Otoko" to Tsuma ni Sute Raretanode... | My Wife Left Me
       Because I was "Too Gentle"...'
     author: special-g

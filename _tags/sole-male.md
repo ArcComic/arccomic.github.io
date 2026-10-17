@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole male"
-work_count: 1013
+work_count: 1014
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -2644,6 +2644,13 @@ works:
     date: '2026-04-16'
     code: 592744
     url: /works/592744/
+  - title: Mesu no Ie II ~Tsuma wa Midare Ubareru~ + C106 Limited Book
+    author: ame-arare
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/593158.jpg
+    rating: 0.0
+    date: '2026-10-17'
+    code: 593158
+    url: /works/593158/
   - title: Manatsu no Chigiri ~ Tawamure ni Yogosareta Mizugi no Shita no Seiso Hada
       - Midsummer promise | Manatsu's Promise
     author: uni18

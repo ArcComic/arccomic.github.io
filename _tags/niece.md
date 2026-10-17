@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "niece"
-work_count: 14
+work_count: 15
 works:
   - title: Atashi ga Nuite Ageyo kka?
     author: malcorond
@@ -24,6 +24,13 @@ works:
     date: '2026-05-01'
     code: 591112
     url: /works/591112/
+  - title: Mesu no Ie II ~Tsuma wa Midare Ubareru~ + C106 Limited Book
+    author: ame-arare
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/593158.jpg
+    rating: 0.0
+    date: '2026-10-17'
+    code: 593158
+    url: /works/593158/
   - title: Kareshi Mochi no Mei wa Shinjiteta Oji-san ni Okasareru | My Niece, Who had
       a Boyfriend, Was Raped by Her Uncle, Whom She Trusted
     author: ichinomiya-yuu
