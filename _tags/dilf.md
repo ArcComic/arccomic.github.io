@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "dilf"
-work_count: 207
+work_count: 208
 works:
   - title: Adoration
     author: kishizuka-kenji
@@ -640,6 +640,13 @@ works:
     date: '2026-03-09'
     code: 598144
     url: /works/598144/
+  - title: Side Sex
+    author: nekoi-mie
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/598715.jpg
+    rating: 0.0
+    date: '2026-10-17'
+    code: 598715
+    url: /works/598715/
   - title: My Wife, On the Other Side of The Peep Room…
     author: nekome-koi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/609714.jpg

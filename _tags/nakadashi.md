@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "nakadashi"
-work_count: 910
+work_count: 912
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -2335,6 +2335,13 @@ works:
     date: '2026-03-09'
     code: 598144
     url: /works/598144/
+  - title: Side Sex
+    author: nekoi-mie
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/598715.jpg
+    rating: 0.0
+    date: '2026-10-17'
+    code: 598715
+    url: /works/598715/
   - title: Onna Gal Joushi to Furin suru Hanashi 3 | Having an Affair with My Blonde
       Bombshell Boss – Part 3
     author: nakamo
@@ -6733,6 +6740,14 @@ works:
     date: '2026-10-17'
     code: 687968
     url: /works/687968/
+  - title: Teisoutai Chakuyou Gyaku Anal de Mesuiki Sasetekureru Elf no Onee-san | The
+      Elf Onee-san who's making me wear a Chastity Belt
+    author: manjuuko-san
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688150.jpg
+    rating: 0.0
+    date: '2026-10-17'
+    code: 688150
+    url: /works/688150/
   - title: Jimi-gao Onee-chan Ganbaru! ~Hajimete no Bokki ni Odoroite Gyan Naki suru
       Otouto no Osewa wa Taihen!~
     author: aitoka-nantoka

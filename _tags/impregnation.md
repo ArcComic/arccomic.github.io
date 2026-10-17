@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "impregnation"
-work_count: 168
+work_count: 169
 works:
   - title: Kousa suru Osu to Mesu | Male and Female Crossing
     author: ootsuka-kotora
@@ -465,6 +465,13 @@ works:
     date: '2026-03-05'
     code: 593456
     url: /works/593456/
+  - title: Side Sex
+    author: nekoi-mie
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/598715.jpg
+    rating: 0.0
+    date: '2026-10-17'
+    code: 598715
+    url: /works/598715/
   - title: Mugon Muhyoujou no Kasshoku Elf, Rental Shitemasu + Gojitsudan | Rent-an-Elf
       + Afterstory
     author: takurowo

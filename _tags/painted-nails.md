@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "painted nails"
-work_count: 49
+work_count: 50
 works:
   - title: Rakki Taishyaku
     author: fushoku
@@ -365,4 +365,11 @@ works:
     date: '2026-10-13'
     code: 687125
     url: /works/687125/
+  - title: Himitsu ni Shite yo ne | Keep This a Secret, Okay?
+    author: haji
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688259.jpg
+    rating: 0.0
+    date: '2026-10-17'
+    code: 688259
+    url: /works/688259/
 ---

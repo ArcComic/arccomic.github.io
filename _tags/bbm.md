@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bbm"
-work_count: 130
+work_count: 131
 works:
   - title: Kindan no Hatemitsu
     author: ryuuta
@@ -363,6 +363,13 @@ works:
     date: '2026-09-24'
     code: 598084
     url: /works/598084/
+  - title: Side Sex
+    author: nekoi-mie
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/598715.jpg
+    rating: 0.0
+    date: '2026-10-17'
+    code: 598715
+    url: /works/598715/
   - title: Onna Shachou to Koibito ni Naru Houhou | How To Become Lover's With A Female
       CEO
     author: fan

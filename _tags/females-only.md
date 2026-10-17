@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "females only"
-work_count: 36
+work_count: 37
 works:
   - title: Himitsu no Kamiura san | The Mysterious Kamiura-san
     author: takeshisu
@@ -262,4 +262,11 @@ works:
     date: '2026-10-13'
     code: 687120
     url: /works/687120/
+  - title: Himitsu ni Shite yo ne | Keep This a Secret, Okay?
+    author: haji
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688259.jpg
+    rating: 0.0
+    date: '2026-10-17'
+    code: 688259
+    url: /works/688259/
 ---

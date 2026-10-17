@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "kissing"
-work_count: 405
+work_count: 406
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -3041,6 +3041,13 @@ works:
     date: '2026-10-15'
     code: 687781
     url: /works/687781/
+  - title: Himitsu ni Shite yo ne | Keep This a Secret, Okay?
+    author: haji
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688259.jpg
+    rating: 0.0
+    date: '2026-10-17'
+    code: 688259
+    url: /works/688259/
   - title: ZenZero Icha Love Ero Goudou "ZenEro" Vol.3
     author: ekakibit
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688293.jpg

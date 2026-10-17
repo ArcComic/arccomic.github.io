@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "elf"
-work_count: 9
+work_count: 10
 works:
   - title: A tale of an Elf adventurer (♀) being visited at night and bred by an innkeeper
     author: unknown
@@ -71,4 +71,12 @@ works:
     date: '2026-10-13'
     code: 687235
     url: /works/687235/
+  - title: Teisoutai Chakuyou Gyaku Anal de Mesuiki Sasetekureru Elf no Onee-san | The
+      Elf Onee-san who's making me wear a Chastity Belt
+    author: manjuuko-san
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688150.jpg
+    rating: 0.0
+    date: '2026-10-17'
+    code: 688150
+    url: /works/688150/
 ---

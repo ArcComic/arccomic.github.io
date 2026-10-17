@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bondage"
-work_count: 112
+work_count: 113
 works:
   - title: Pai☆Panic ~Hasamareta Dekapai~
     author: inkey
@@ -812,6 +812,14 @@ works:
     date: '2026-10-13'
     code: 687120
     url: /works/687120/
+  - title: Teisoutai Chakuyou Gyaku Anal de Mesuiki Sasetekureru Elf no Onee-san | The
+      Elf Onee-san who's making me wear a Chastity Belt
+    author: manjuuko-san
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688150.jpg
+    rating: 0.0
+    date: '2026-10-17'
+    code: 688150
+    url: /works/688150/
   - title: ZenZero Icha Love Ero Goudou "ZenEro" Vol.3
     author: ekakibit
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688293.jpg

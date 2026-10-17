@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "rough translation"
-work_count: 706
+work_count: 707
 works:
   - title: Boku no Shiranai Kimi no Kao
     author: utsutsu-minoru
@@ -694,6 +694,13 @@ works:
     date: '2026-03-09'
     code: 598144
     url: /works/598144/
+  - title: Side Sex
+    author: nekoi-mie
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/598715.jpg
+    rating: 0.0
+    date: '2026-10-17'
+    code: 598715
+    url: /works/598715/
   - title: Okaasan Ha Soap No Nioi | Mommy Smells Like Soap
     author: sakai-hamachi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/602651.jpg

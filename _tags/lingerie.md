@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "lingerie"
-work_count: 107
+work_count: 109
 works:
   - title: My Care Lady Ch. 1
     author: sugi-g
@@ -344,6 +344,13 @@ works:
     date: '2026-09-12'
     code: 597573
     url: /works/597573/
+  - title: Side Sex
+    author: nekoi-mie
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/598715.jpg
+    rating: 0.0
+    date: '2026-10-17'
+    code: 598715
+    url: /works/598715/
   - title: Kirishima's Mother
     author: kojima-miu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/601711.jpg
@@ -794,4 +801,12 @@ works:
     date: '2026-10-15'
     code: 687781
     url: /works/687781/
+  - title: Teisoutai Chakuyou Gyaku Anal de Mesuiki Sasetekureru Elf no Onee-san | The
+      Elf Onee-san who's making me wear a Chastity Belt
+    author: manjuuko-san
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688150.jpg
+    rating: 0.0
+    date: '2026-10-17'
+    code: 688150
+    url: /works/688150/
 ---
