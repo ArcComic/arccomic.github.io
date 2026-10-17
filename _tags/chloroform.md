@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "chloroform"
-work_count: 22
+work_count: 23
 works:
+  - title: Toshoshitsu no Kanojo ~Seiso na Kimi ga Ochiru made~
+    author: ame-arare
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/299071.jpg
+    rating: 0.0
+    date: '2026-10-17'
+    code: 299071
+    url: /works/299071/
   - title: Kagesawa Mura no Akai Kagi tada <hottan>
     author: chiba-shuusaku
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/359864.jpg

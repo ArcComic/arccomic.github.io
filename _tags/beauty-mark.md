@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "beauty mark"
-work_count: 223
+work_count: 224
 works:
   - title: Uragiri no Ai wa Mitsu no Aji | Treacherous Love Tastes Like Honey
     author: cuzukago
@@ -47,6 +47,13 @@ works:
     date: '2026-09-24'
     code: 296131
     url: /works/296131/
+  - title: Toshoshitsu no Kanojo ~Seiso na Kimi ga Ochiru made~
+    author: ame-arare
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/299071.jpg
+    rating: 0.0
+    date: '2026-10-17'
+    code: 299071
+    url: /works/299071/
   - title: Akarui Kazoku Seikatsu
     author: pistonring-nishizawa
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/304307.jpg

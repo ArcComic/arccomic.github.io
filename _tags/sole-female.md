@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole female"
-work_count: 1076
+work_count: 1078
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -314,6 +314,13 @@ works:
     date: '2026-10-09'
     code: 297834
     url: /works/297834/
+  - title: Toshoshitsu no Kanojo ~Seiso na Kimi ga Ochiru made~
+    author: ame-arare
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/299071.jpg
+    rating: 0.0
+    date: '2026-10-17'
+    code: 299071
+    url: /works/299071/
   - title: Asuna-san ga Agil ni Netorareru Ohanashi
     author: fujimiya-siryu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/300943.jpg
@@ -7960,6 +7967,14 @@ works:
     date: '2026-10-17'
     code: 688163
     url: /works/688163/
+  - title: Kare to no Sekkusu ja Ikenai kara… Atashi no Koko ni Irete Hoshii no… Ch.
+      1-21
+    author: rojiro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688175.jpg
+    rating: 0.0
+    date: '2026-10-17'
+    code: 688175
+    url: /works/688175/
   - title: Ranko-ppoi no! | Ranko-Ish!
     author: napata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/87393.jpg

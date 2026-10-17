@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sleeping"
-work_count: 63
+work_count: 64
 works:
   - title: Netemo Sametemo | Be it Sleeping or Awake
     author: takasugi-kou
@@ -17,6 +17,13 @@ works:
     date: '2026-09-08'
     code: 287208
     url: /works/287208/
+  - title: Toshoshitsu no Kanojo ~Seiso na Kimi ga Ochiru made~
+    author: ame-arare
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/299071.jpg
+    rating: 0.0
+    date: '2026-10-17'
+    code: 299071
+    url: /works/299071/
   - title: Ayamachi no Rensa
     author: pororivista
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/351868.jpg

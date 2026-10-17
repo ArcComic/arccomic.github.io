@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "manga"
-work_count: 407
+work_count: 408
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -2907,6 +2907,14 @@ works:
     date: '2026-10-17'
     code: 688163
     url: /works/688163/
+  - title: Kare to no Sekkusu ja Ikenai kara… Atashi no Koko ni Irete Hoshii no… Ch.
+      1-21
+    author: rojiro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688175.jpg
+    rating: 0.0
+    date: '2026-10-17'
+    code: 688175
+    url: /works/688175/
   - title: Hottokenaino
     author: hara-shigeyuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/77864.jpg

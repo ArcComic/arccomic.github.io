@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "original"
-work_count: 1201
+work_count: 1203
 works:
   - title: Natsu dake Koibito - Summer only Lover [English] =Forbidden Fetish + Ser
       Maggot=
@@ -76,6 +76,13 @@ works:
     date: '2026-04-23'
     code: 296282
     url: /works/296282/
+  - title: Toshoshitsu no Kanojo ~Seiso na Kimi ga Ochiru made~
+    author: ame-arare
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/299071.jpg
+    rating: 0.0
+    date: '2026-10-17'
+    code: 299071
+    url: /works/299071/
   - title: Akarui Kazoku Seikatsu
     author: pistonring-nishizawa
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/304307.jpg
@@ -8930,6 +8937,13 @@ works:
     date: '2026-10-17'
     code: 688157
     url: /works/688157/
+  - title: Insectarium - How I Supported My Sister
+    author: amano-teru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688166.jpg
+    rating: 0.0
+    date: '2026-10-17'
+    code: 688166
+    url: /works/688166/
   - title: Jimi-gao Onee-chan Ganbaru! ~Hajimete no Bokki ni Odoroite Gyan Naki suru
       Otouto no Osewa wa Taihen!~
     author: aitoka-nantoka

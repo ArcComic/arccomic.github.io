@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "doujinshi"
-work_count: 1497
+work_count: 1499
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -273,6 +273,13 @@ works:
     date: '2026-10-12'
     code: 298547
     url: /works/298547/
+  - title: Toshoshitsu no Kanojo ~Seiso na Kimi ga Ochiru made~
+    author: ame-arare
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/299071.jpg
+    rating: 0.0
+    date: '2026-10-17'
+    code: 299071
+    url: /works/299071/
   - title: Asuna-san ga Agil ni Netorareru Ohanashi
     author: fujimiya-siryu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/300943.jpg
@@ -11029,6 +11036,13 @@ works:
     date: '2026-10-17'
     code: 688157
     url: /works/688157/
+  - title: Insectarium - How I Supported My Sister
+    author: amano-teru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688166.jpg
+    rating: 0.0
+    date: '2026-10-17'
+    code: 688166
+    url: /works/688166/
   - title: Himitsu ni Shite yo ne | Keep This a Secret, Okay?
     author: haji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688259.jpg

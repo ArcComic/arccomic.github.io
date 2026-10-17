@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "big areolae"
-work_count: 105
+work_count: 106
 works:
+  - title: Toshoshitsu no Kanojo ~Seiso na Kimi ga Ochiru made~
+    author: ame-arare
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/299071.jpg
+    rating: 0.0
+    date: '2026-10-17'
+    code: 299071
+    url: /works/299071/
   - title: Soubo Soukan 2 | Twin mothers incest 2 FULL
     author: nanao-yukiji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/378626.jpg

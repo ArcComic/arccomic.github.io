@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "multi-work series"
-work_count: 429
+work_count: 431
 works:
   - title: Konna ni mo Itooshii Zero
     author: nohito
@@ -66,6 +66,13 @@ works:
     date: '2026-10-09'
     code: 297834
     url: /works/297834/
+  - title: Toshoshitsu no Kanojo ~Seiso na Kimi ga Ochiru made~
+    author: ame-arare
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/299071.jpg
+    rating: 0.0
+    date: '2026-10-17'
+    code: 299071
+    url: /works/299071/
   - title: Haruka After 6
     author: tsurui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/307418.jpg
@@ -3214,4 +3221,12 @@ works:
     date: '2026-10-17'
     code: 688163
     url: /works/688163/
+  - title: Kare to no Sekkusu ja Ikenai kara… Atashi no Koko ni Irete Hoshii no… Ch.
+      1-21
+    author: rojiro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688175.jpg
+    rating: 0.0
+    date: '2026-10-17'
+    code: 688175
+    url: /works/688175/
 ---

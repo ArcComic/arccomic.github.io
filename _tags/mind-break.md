@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "mind break"
-work_count: 68
+work_count: 69
 works:
   - title: Birthday
     author: hashiba-yachi
@@ -497,6 +497,13 @@ works:
     date: '2026-10-05'
     code: 686029
     url: /works/686029/
+  - title: Insectarium - How I Supported My Sister
+    author: amano-teru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688166.jpg
+    rating: 0.0
+    date: '2026-10-17'
+    code: 688166
+    url: /works/688166/
   - title: Inin Keiyaku | Lewd Pregnancy Contract
     author: yoshiura-kazuya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/83595.jpg

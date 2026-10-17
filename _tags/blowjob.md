@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "blowjob"
-work_count: 714
+work_count: 715
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -5277,6 +5277,14 @@ works:
     date: '2026-10-17'
     code: 687968
     url: /works/687968/
+  - title: Kare to no Sekkusu ja Ikenai kara… Atashi no Koko ni Irete Hoshii no… Ch.
+      1-21
+    author: rojiro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688175.jpg
+    rating: 0.0
+    date: '2026-10-17'
+    code: 688175
+    url: /works/688175/
   - title: Jimi-gao Onee-chan Ganbaru! ~Hajimete no Bokki ni Odoroite Gyan Naki suru
       Otouto no Osewa wa Taihen!~
     author: aitoka-nantoka
