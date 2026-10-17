@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "dark skin"
-work_count: 168
+work_count: 170
 works:
   - title: Birthday
     author: hashiba-yachi
@@ -99,7 +99,7 @@ works:
   - title: Toshoshitsu no Kanojo 4 ~Seiso na Kimi ga Ochiru made~
     author: ame-arare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/352581.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-10-15'
     code: 352581
     url: /works/352581/
@@ -127,10 +127,17 @@ works:
   - title: Toshoshitsu no Kanojo 5 ~Onna Kyoushi ga Ochiru made (Zenpen)~
     author: ame-arare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/410909.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-10-15'
     code: 410909
     url: /works/410909/
+  - title: Natsu Asobi | Summer Play
+    author: ame-arare
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/416852.jpg
+    rating: 0.0
+    date: '2026-10-17'
+    code: 416852
+    url: /works/416852/
   - title: Hatsujouki | Cherry Season
     author: nagareboshi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/426769.jpg
@@ -1239,4 +1246,12 @@ works:
     date: '2026-10-15'
     code: 687698
     url: /works/687698/
+  - title: Choushin Boyish Osananajimi wa Dakaretai | My tall boyish childhood friend
+      wants to be hugged
+    author: misaoka
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687968.jpg
+    rating: 0.0
+    date: '2026-10-17'
+    code: 687968
+    url: /works/687968/
 ---

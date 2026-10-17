@@ -1,19 +1,19 @@
 ---
 layout: tag
 tag_name: "ame arare"
-work_count: 13
+work_count: 14
 works:
   - title: Swapping Party!?
     author: ame-arare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/318530.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-10-15'
     code: 318530
     url: /works/318530/
   - title: Toshoshitsu no Kanojo 2 ~Seiso na Kimi ga Ochiru made~
     author: ame-arare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/325354.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-10-15'
     code: 325354
     url: /works/325354/
@@ -27,28 +27,35 @@ works:
   - title: Toshoshitsu no Kanojo 4 ~Seiso na Kimi ga Ochiru made~
     author: ame-arare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/352581.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-10-15'
     code: 352581
     url: /works/352581/
   - title: Toshoshitsu no Kanojo 5 ~Onna Kyoushi ga Ochiru made (Zenpen)~
     author: ame-arare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/410909.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-10-15'
     code: 410909
     url: /works/410909/
+  - title: Natsu Asobi | Summer Play
+    author: ame-arare
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/416852.jpg
+    rating: 0.0
+    date: '2026-10-17'
+    code: 416852
+    url: /works/416852/
   - title: Toshoshitsu no Kanojo 6 ~Onna Kyoushi ga Ochiru made (Kouhen)~
     author: ame-arare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/474458.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-10-15'
     code: 474458
     url: /works/474458/
   - title: Mesu no Ie - Married Woman's House ~Tsuma wa Midare Ubawareru~
     author: ame-arare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/526431.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-10-15'
     code: 526431
     url: /works/526431/

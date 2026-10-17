@@ -27,7 +27,7 @@ works:
   - title: Toshoshitsu no Kanojo 2 ~Seiso na Kimi ga Ochiru made~
     author: ame-arare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/325354.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-10-15'
     code: 325354
     url: /works/325354/
@@ -62,7 +62,7 @@ works:
   - title: Toshoshitsu no Kanojo 5 ~Onna Kyoushi ga Ochiru made (Zenpen)~
     author: ame-arare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/410909.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-10-15'
     code: 410909
     url: /works/410909/

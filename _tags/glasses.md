@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "glasses"
-work_count: 293
+work_count: 295
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -284,7 +284,7 @@ works:
   - title: Toshoshitsu no Kanojo 5 ~Onna Kyoushi ga Ochiru made (Zenpen)~
     author: ame-arare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/410909.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-10-15'
     code: 410909
     url: /works/410909/
@@ -400,7 +400,7 @@ works:
   - title: Toshoshitsu no Kanojo 6 ~Onna Kyoushi ga Ochiru made (Kouhen)~
     author: ame-arare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/474458.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-10-15'
     code: 474458
     url: /works/474458/
@@ -2135,6 +2135,22 @@ works:
     date: '2026-10-15'
     code: 687712
     url: /works/687712/
+  - title: Choushin Boyish Osananajimi wa Dakaretai | My tall boyish childhood friend
+      wants to be hugged
+    author: misaoka
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687968.jpg
+    rating: 0.0
+    date: '2026-10-17'
+    code: 687968
+    url: /works/687968/
+  - title: Jimi-gao Onee-chan Ganbaru! ~Hajimete no Bokki ni Odoroite Gyan Naki suru
+      Otouto no Osewa wa Taihen!~
+    author: aitoka-nantoka
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688289.jpg
+    rating: 0.0
+    date: '2026-10-17'
+    code: 688289
+    url: /works/688289/
   - title: Hottokenaino
     author: hara-shigeyuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/77864.jpg

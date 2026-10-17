@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole male"
-work_count: 1005
+work_count: 1007
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -1759,7 +1759,7 @@ works:
   - title: Mesu no Ie - Married Woman's House ~Tsuma wa Midare Ubawareru~
     author: ame-arare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/526431.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-10-15'
     code: 526431
     url: /works/526431/
@@ -5961,7 +5961,7 @@ works:
       it Out! The Thing that They Call Lovey-Dovey Sex Between Lovers
     author: basoba
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678001.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-15'
     code: 678001
     url: /works/678001/
@@ -7392,7 +7392,7 @@ works:
       MY CHILDHOOD FRIEND, AND A GUY I DON'T KNOW
     author: j-no-kakusei
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687531.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-10-15'
     code: 687531
     url: /works/687531/
@@ -7442,6 +7442,22 @@ works:
     date: '2026-10-15'
     code: 687781
     url: /works/687781/
+  - title: Choushin Boyish Osananajimi wa Dakaretai | My tall boyish childhood friend
+      wants to be hugged
+    author: misaoka
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687968.jpg
+    rating: 0.0
+    date: '2026-10-17'
+    code: 687968
+    url: /works/687968/
+  - title: Jimi-gao Onee-chan Ganbaru! ~Hajimete no Bokki ni Odoroite Gyan Naki suru
+      Otouto no Osewa wa Taihen!~
+    author: aitoka-nantoka
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688289.jpg
+    rating: 0.0
+    date: '2026-10-17'
+    code: 688289
+    url: /works/688289/
   - title: Ranko-ppoi no! | Ranko-Ish!
     author: napata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/87393.jpg

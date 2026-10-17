@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "blowjob"
-work_count: 709
+work_count: 712
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -537,6 +537,13 @@ works:
     date: '2026-09-08'
     code: 415046
     url: /works/415046/
+  - title: Natsu Asobi | Summer Play
+    author: ame-arare
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/416852.jpg
+    rating: 0.0
+    date: '2026-10-17'
+    code: 416852
+    url: /works/416852/
   - title: TomoKano Kaa-chan II ~Jitaku, Musuko no Tomodachi ni Ochita Natsu~ | My Mom
       Is My Friend's Girlfriend 2
     author: tarobaumu
@@ -5244,7 +5251,7 @@ works:
   - title: Kimi to irunoga Atarime dato Omoetara
     author: rocket-monkey
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687740.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-10-15'
     code: 687740
     url: /works/687740/
@@ -5255,6 +5262,22 @@ works:
     date: '2026-10-15'
     code: 687781
     url: /works/687781/
+  - title: Choushin Boyish Osananajimi wa Dakaretai | My tall boyish childhood friend
+      wants to be hugged
+    author: misaoka
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687968.jpg
+    rating: 0.0
+    date: '2026-10-17'
+    code: 687968
+    url: /works/687968/
+  - title: Jimi-gao Onee-chan Ganbaru! ~Hajimete no Bokki ni Odoroite Gyan Naki suru
+      Otouto no Osewa wa Taihen!~
+    author: aitoka-nantoka
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688289.jpg
+    rating: 0.0
+    date: '2026-10-17'
+    code: 688289
+    url: /works/688289/
   - title: Jokyoushi - Hot For Teachers | Female Teachers
     author: drill-murata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/81375.jpg

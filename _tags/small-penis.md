@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "small penis"
-work_count: 19
+work_count: 20
 works:
   - title: Toshoshitsu no Kanojo 3~Seiso na Kimi ga Ochiru made~
     author: ame-arare
@@ -136,8 +136,16 @@ works:
   - title: Riho-chan Kashidashi Surutte Yo
     author: j-no-kakusei
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687556.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-15'
     code: 687556
     url: /works/687556/
+  - title: Jimi-gao Onee-chan Ganbaru! ~Hajimete no Bokki ni Odoroite Gyan Naki suru
+      Otouto no Osewa wa Taihen!~
+    author: aitoka-nantoka
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688289.jpg
+    rating: 0.0
+    date: '2026-10-17'
+    code: 688289
+    url: /works/688289/
 ---

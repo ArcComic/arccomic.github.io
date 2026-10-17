@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "manga"
-work_count: 405
+work_count: 406
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -294,7 +294,7 @@ works:
   - title: Swapping Party!?
     author: ame-arare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/318530.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-10-15'
     code: 318530
     url: /works/318530/
@@ -578,6 +578,13 @@ works:
     date: '2026-02-28'
     code: 415060
     url: /works/415060/
+  - title: Natsu Asobi | Summer Play
+    author: ame-arare
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/416852.jpg
+    rating: 0.0
+    date: '2026-10-17'
+    code: 416852
+    url: /works/416852/
   - title: Mirai ni Narenakatta Ano Hi kara | Beyond The Unfulfilled Future
     author: tamabi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/417221.jpg
@@ -2889,7 +2896,7 @@ works:
   - title: Kimi to irunoga Atarime dato Omoetara
     author: rocket-monkey
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687740.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-10-15'
     code: 687740
     url: /works/687740/

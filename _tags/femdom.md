@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "femdom"
-work_count: 189
+work_count: 190
 works:
   - title: Life with Married Women Just Like a Manga 2 - Ch. 1-5
     author: hidemaru
@@ -1371,6 +1371,14 @@ works:
     date: '2026-10-13'
     code: 687230
     url: /works/687230/
+  - title: Choushin Boyish Osananajimi wa Dakaretai | My tall boyish childhood friend
+      wants to be hugged
+    author: misaoka
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687968.jpg
+    rating: 0.0
+    date: '2026-10-17'
+    code: 687968
+    url: /works/687968/
   - title: Jokyoushi - Hot For Teachers | Female Teachers
     author: drill-murata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/81375.jpg

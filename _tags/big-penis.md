@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big penis"
-work_count: 269
+work_count: 270
 works:
   - title: Tsuma no Imouto no Danna ga Ie ni Kiteiruyoudesu | My Sister-In-Law's Husband
       is Over
@@ -266,7 +266,7 @@ works:
   - title: Mesu no Ie - Married Woman's House ~Tsuma wa Midare Ubawareru~
     author: ame-arare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/526431.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-10-15'
     code: 526431
     url: /works/526431/
@@ -1519,7 +1519,7 @@ works:
       it Out! The Thing that They Call Lovey-Dovey Sex Between Lovers
     author: basoba
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678001.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-15'
     code: 678001
     url: /works/678001/
@@ -1987,14 +1987,14 @@ works:
       MY CHILDHOOD FRIEND, AND A GUY I DON'T KNOW
     author: j-no-kakusei
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687531.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-10-15'
     code: 687531
     url: /works/687531/
   - title: Riho-chan Kashidashi Surutte Yo
     author: j-no-kakusei
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687556.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-15'
     code: 687556
     url: /works/687556/
@@ -2012,4 +2012,12 @@ works:
     date: '2026-10-15'
     code: 687781
     url: /works/687781/
+  - title: Choushin Boyish Osananajimi wa Dakaretai | My tall boyish childhood friend
+      wants to be hugged
+    author: misaoka
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687968.jpg
+    rating: 0.0
+    date: '2026-10-17'
+    code: 687968
+    url: /works/687968/
 ---

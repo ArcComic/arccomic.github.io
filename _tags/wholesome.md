@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "wholesome"
-work_count: 214
+work_count: 215
 works:
   - title: FLUFFY LAUGH GIRL
     author: shibasaki-syouzi
@@ -1380,7 +1380,7 @@ works:
       it Out! The Thing that They Call Lovey-Dovey Sex Between Lovers
     author: basoba
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678001.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-15'
     code: 678001
     url: /works/678001/
@@ -1601,4 +1601,12 @@ works:
     date: '2026-10-13'
     code: 686847
     url: /works/686847/
+  - title: Choushin Boyish Osananajimi wa Dakaretai | My tall boyish childhood friend
+      wants to be hugged
+    author: misaoka
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687968.jpg
+    rating: 0.0
+    date: '2026-10-17'
+    code: 687968
+    url: /works/687968/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "english"
-work_count: 1810
+work_count: 1813
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -365,7 +365,7 @@ works:
   - title: Mother's Gentle Moans 1-3
     author: escape
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/281134.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-10-15'
     code: 281134
     url: /works/281134/
@@ -643,7 +643,7 @@ works:
   - title: Swapping Party!?
     author: ame-arare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/318530.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-10-15'
     code: 318530
     url: /works/318530/
@@ -713,7 +713,7 @@ works:
   - title: Toshoshitsu no Kanojo 2 ~Seiso na Kimi ga Ochiru made~
     author: ame-arare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/325354.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-10-15'
     code: 325354
     url: /works/325354/
@@ -864,7 +864,7 @@ works:
   - title: Toshoshitsu no Kanojo 4 ~Seiso na Kimi ga Ochiru made~
     author: ame-arare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/352581.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-10-15'
     code: 352581
     url: /works/352581/
@@ -878,7 +878,7 @@ works:
   - title: Netorare Sotsugyou Ryokou | NTR Graduation Trip
     author: milkholic
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/353048.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-10-15'
     code: 353048
     url: /works/353048/
@@ -1029,7 +1029,7 @@ works:
   - title: Mata Ashita, Anata to... | See you tomorrow...
     author: itou-nanami
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/369712.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-15'
     code: 369712
     url: /works/369712/
@@ -1377,7 +1377,7 @@ works:
   - title: Toshoshitsu no Kanojo 5 ~Onna Kyoushi ga Ochiru made (Zenpen)~
     author: ame-arare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/410909.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-10-15'
     code: 410909
     url: /works/410909/
@@ -1460,6 +1460,13 @@ works:
     date: '2026-09-29'
     code: 416542
     url: /works/416542/
+  - title: Natsu Asobi | Summer Play
+    author: ame-arare
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/416852.jpg
+    rating: 0.0
+    date: '2026-10-17'
+    code: 416852
+    url: /works/416852/
   - title: 'Misunderstanding Love Hotel Netorare [Arakure] & Kimi no na wa: After Story
       - Mitsuha ~Netorare~'
     author: arakure
@@ -2039,7 +2046,7 @@ works:
   - title: Toshoshitsu no Kanojo 6 ~Onna Kyoushi ga Ochiru made (Kouhen)~
     author: ame-arare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/474458.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-10-15'
     code: 474458
     url: /works/474458/
@@ -2887,7 +2894,7 @@ works:
   - title: Mesu no Ie - Married Woman's House ~Tsuma wa Midare Ubawareru~
     author: ame-arare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/526431.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-10-15'
     code: 526431
     url: /works/526431/
@@ -10245,7 +10252,7 @@ works:
       it Out! The Thing that They Call Lovey-Dovey Sex Between Lovers
     author: basoba
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678001.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-15'
     code: 678001
     url: /works/678001/
@@ -13188,21 +13195,21 @@ works:
       MY CHILDHOOD FRIEND, AND A GUY I DON'T KNOW
     author: j-no-kakusei
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687531.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-10-15'
     code: 687531
     url: /works/687531/
   - title: Riho-chan Kashidashi Surutte Yo
     author: j-no-kakusei
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687556.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-15'
     code: 687556
     url: /works/687556/
   - title: Tsuma no Kako ~Apparel-kei Cool Zuma no Kekkon Mae~
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687557.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-10-15'
     code: 687557
     url: /works/687557/
@@ -13263,7 +13270,7 @@ works:
   - title: Kimi to irunoga Atarime dato Omoetara
     author: rocket-monkey
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687740.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-10-15'
     code: 687740
     url: /works/687740/
@@ -13283,6 +13290,22 @@ works:
     date: '2026-10-15'
     code: 687781
     url: /works/687781/
+  - title: Choushin Boyish Osananajimi wa Dakaretai | My tall boyish childhood friend
+      wants to be hugged
+    author: misaoka
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687968.jpg
+    rating: 0.0
+    date: '2026-10-17'
+    code: 687968
+    url: /works/687968/
+  - title: Jimi-gao Onee-chan Ganbaru! ~Hajimete no Bokki ni Odoroite Gyan Naki suru
+      Otouto no Osewa wa Taihen!~
+    author: aitoka-nantoka
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688289.jpg
+    rating: 0.0
+    date: '2026-10-17'
+    code: 688289
+    url: /works/688289/
   - title: Hottokenaino
     author: hara-shigeyuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/77864.jpg

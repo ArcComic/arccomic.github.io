@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sister"
-work_count: 116
+work_count: 117
 works:
   - title: Imitation Family + Bigibo Hen
     author: tohzai
@@ -150,7 +150,7 @@ works:
   - title: Mesu no Ie - Married Woman's House ~Tsuma wa Midare Ubawareru~
     author: ame-arare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/526431.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-10-15'
     code: 526431
     url: /works/526431/
@@ -844,6 +844,14 @@ works:
     date: '2026-10-15'
     code: 687781
     url: /works/687781/
+  - title: Jimi-gao Onee-chan Ganbaru! ~Hajimete no Bokki ni Odoroite Gyan Naki suru
+      Otouto no Osewa wa Taihen!~
+    author: aitoka-nantoka
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688289.jpg
+    rating: 0.0
+    date: '2026-10-17'
+    code: 688289
+    url: /works/688289/
   - title: Onee-chan no SM Kouza | Onee-chan's S&M Lecture
     author: shinooka-homare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/88750.jpg

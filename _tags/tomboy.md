@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "tomboy"
-work_count: 83
+work_count: 85
 works:
   - title: Kizashi
     author: yoshiura-kazuya
@@ -96,6 +96,13 @@ works:
     date: '2026-09-29'
     code: 416542
     url: /works/416542/
+  - title: Natsu Asobi | Summer Play
+    author: ame-arare
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/416852.jpg
+    rating: 0.0
+    date: '2026-10-17'
+    code: 416852
+    url: /works/416852/
   - title: Kanojo to no Kekkon Houkoku ni Kiseishita noni Gimai to Yarimakuri no Suujitsukan
       ga Hajimatteshimatta | I visited my in-laws to announce my marriage and ended
       up fucking my girlfriend's little sister silly!
@@ -468,7 +475,7 @@ works:
       it Out! The Thing that They Call Lovey-Dovey Sex Between Lovers
     author: basoba
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678001.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-15'
     code: 678001
     url: /works/678001/
@@ -629,4 +636,12 @@ works:
     date: '2026-10-10'
     code: 686511
     url: /works/686511/
+  - title: Choushin Boyish Osananajimi wa Dakaretai | My tall boyish childhood friend
+      wants to be hugged
+    author: misaoka
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687968.jpg
+    rating: 0.0
+    date: '2026-10-17'
+    code: 687968
+    url: /works/687968/
 ---

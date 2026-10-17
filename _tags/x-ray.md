@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "x-ray"
-work_count: 360
+work_count: 361
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -183,10 +183,17 @@ works:
   - title: Toshoshitsu no Kanojo 5 ~Onna Kyoushi ga Ochiru made (Zenpen)~
     author: ame-arare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/410909.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-10-15'
     code: 410909
     url: /works/410909/
+  - title: Natsu Asobi | Summer Play
+    author: ame-arare
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/416852.jpg
+    rating: 0.0
+    date: '2026-10-17'
+    code: 416852
+    url: /works/416852/
   - title: Hatsujouki | Cherry Season
     author: nagareboshi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/426769.jpg
@@ -324,7 +331,7 @@ works:
   - title: Toshoshitsu no Kanojo 6 ~Onna Kyoushi ga Ochiru made (Kouhen)~
     author: ame-arare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/474458.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-10-15'
     code: 474458
     url: /works/474458/
@@ -2140,7 +2147,7 @@ works:
       it Out! The Thing that They Call Lovey-Dovey Sex Between Lovers
     author: basoba
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678001.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-15'
     code: 678001
     url: /works/678001/
@@ -2680,7 +2687,7 @@ works:
       MY CHILDHOOD FRIEND, AND A GUY I DON'T KNOW
     author: j-no-kakusei
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687531.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-10-15'
     code: 687531
     url: /works/687531/

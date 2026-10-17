@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "dark skinned female"
-work_count: 44
+work_count: 46
 works:
   - title: Hyouri no Omoi | Double-Sided Love
     author: suruga-kuroitsu
@@ -25,6 +25,13 @@ works:
     date: '2026-09-18'
     code: 396367
     url: /works/396367/
+  - title: Natsu Asobi | Summer Play
+    author: ame-arare
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/416852.jpg
+    rating: 0.0
+    date: '2026-10-17'
+    code: 416852
+    url: /works/416852/
   - title: Mujikaku Shoujo wa Tashikametai | The Oblivious Girl Wants to Make Sure
     author: ouji-hiyoko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/450112.jpg
@@ -333,4 +340,12 @@ works:
     date: '2026-09-26'
     code: 684010
     url: /works/684010/
+  - title: Choushin Boyish Osananajimi wa Dakaretai | My tall boyish childhood friend
+      wants to be hugged
+    author: misaoka
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687968.jpg
+    rating: 0.0
+    date: '2026-10-17'
+    code: 687968
+    url: /works/687968/
 ---

@@ -76,14 +76,14 @@ works:
   - title: Toshoshitsu no Kanojo 4 ~Seiso na Kimi ga Ochiru made~
     author: ame-arare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/352581.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-10-15'
     code: 352581
     url: /works/352581/
   - title: Netorare Sotsugyou Ryokou | NTR Graduation Trip
     author: milkholic
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/353048.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-10-15'
     code: 353048
     url: /works/353048/
@@ -268,7 +268,7 @@ works:
   - title: Toshoshitsu no Kanojo 6 ~Onna Kyoushi ga Ochiru made (Kouhen)~
     author: ame-arare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/474458.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-10-15'
     code: 474458
     url: /works/474458/
@@ -1236,7 +1236,7 @@ works:
   - title: Tsuma no Kako ~Apparel-kei Cool Zuma no Kekkon Mae~
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687557.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-10-15'
     code: 687557
     url: /works/687557/

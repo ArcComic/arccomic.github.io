@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "defloration"
-work_count: 255
+work_count: 257
 works:
   - title: Imitation Family + Bigibo Hen
     author: tohzai
@@ -104,7 +104,7 @@ works:
   - title: Swapping Party!?
     author: ame-arare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/318530.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-10-15'
     code: 318530
     url: /works/318530/
@@ -277,6 +277,13 @@ works:
     date: '2026-05-03'
     code: 415057
     url: /works/415057/
+  - title: Natsu Asobi | Summer Play
+    author: ame-arare
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/416852.jpg
+    rating: 0.0
+    date: '2026-10-17'
+    code: 416852
+    url: /works/416852/
   - title: 'Misunderstanding Love Hotel Netorare [Arakure] & Kimi no na wa: After Story
       - Mitsuha ~Netorare~'
     author: arakure
@@ -1890,4 +1897,12 @@ works:
     date: '2026-10-15'
     code: 687770
     url: /works/687770/
+  - title: Choushin Boyish Osananajimi wa Dakaretai | My tall boyish childhood friend
+      wants to be hugged
+    author: misaoka
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687968.jpg
+    rating: 0.0
+    date: '2026-10-17'
+    code: 687968
+    url: /works/687968/
 ---

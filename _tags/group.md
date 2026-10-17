@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "group"
-work_count: 272
+work_count: 273
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -91,7 +91,7 @@ works:
   - title: Swapping Party!?
     author: ame-arare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/318530.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-10-15'
     code: 318530
     url: /works/318530/
@@ -153,6 +153,13 @@ works:
     date: '2026-10-15'
     code: 412135
     url: /works/412135/
+  - title: Natsu Asobi | Summer Play
+    author: ame-arare
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/416852.jpg
+    rating: 0.0
+    date: '2026-10-17'
+    code: 416852
+    url: /works/416852/
   - title: Gal ni Houkago Oppai Sawatte ku? te Sasowareru Hanashi | That Time Gyarus
       Asked Me to Grope their Tits After Class
     author: ono-hiroki
@@ -228,7 +235,7 @@ works:
   - title: Toshoshitsu no Kanojo 6 ~Onna Kyoushi ga Ochiru made (Kouhen)~
     author: ame-arare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/474458.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-10-15'
     code: 474458
     url: /works/474458/
@@ -1974,7 +1981,7 @@ works:
   - title: Tsuma no Kako ~Apparel-kei Cool Zuma no Kekkon Mae~
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687557.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-10-15'
     code: 687557
     url: /works/687557/

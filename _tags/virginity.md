@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "virginity"
-work_count: 162
+work_count: 163
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -106,7 +106,7 @@ works:
   - title: Swapping Party!?
     author: ame-arare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/318530.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-10-15'
     code: 318530
     url: /works/318530/
@@ -222,6 +222,13 @@ works:
     date: '2026-09-05'
     code: 405606
     url: /works/405606/
+  - title: Natsu Asobi | Summer Play
+    author: ame-arare
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/416852.jpg
+    rating: 0.0
+    date: '2026-10-17'
+    code: 416852
+    url: /works/416852/
   - title: Yasashii Oba-san Yarashii Oba-san | Kind Lady, Dirty Lady Ch. 1-3
     author: hidemaru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/421874.jpg
