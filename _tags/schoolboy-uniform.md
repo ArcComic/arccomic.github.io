@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "schoolboy uniform"
-work_count: 107
+work_count: 108
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -781,6 +781,13 @@ works:
     date: '2026-10-13'
     code: 687230
     url: /works/687230/
+  - title: Steady Study Ch. 1-18
+    author: yuumi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688163.jpg
+    rating: 0.0
+    date: '2026-10-17'
+    code: 688163
+    url: /works/688163/
   - title: Jokyoushi - Hot For Teachers | Female Teachers
     author: drill-murata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/81375.jpg

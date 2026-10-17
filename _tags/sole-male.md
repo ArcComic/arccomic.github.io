@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole male"
-work_count: 1010
+work_count: 1011
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -7466,6 +7466,13 @@ works:
     date: '2026-10-17'
     code: 688156
     url: /works/688156/
+  - title: Steady Study Ch. 1-18
+    author: yuumi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688163.jpg
+    rating: 0.0
+    date: '2026-10-17'
+    code: 688163
+    url: /works/688163/
   - title: Jimi-gao Onee-chan Ganbaru! ~Hajimete no Bokki ni Odoroite Gyan Naki suru
       Otouto no Osewa wa Taihen!~
     author: aitoka-nantoka

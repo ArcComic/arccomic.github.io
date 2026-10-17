@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "stockings"
-work_count: 247
+work_count: 249
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -1793,6 +1793,20 @@ works:
     date: '2026-10-15'
     code: 687781
     url: /works/687781/
+  - title: Tomodachi no Mama ga Boku no Dekachin de Ikimakutta Halloween
+    author: rk-2
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688157.jpg
+    rating: 0.0
+    date: '2026-10-17'
+    code: 688157
+    url: /works/688157/
+  - title: Steady Study Ch. 1-18
+    author: yuumi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688163.jpg
+    rating: 0.0
+    date: '2026-10-17'
+    code: 688163
+    url: /works/688163/
   - title: ZenZero Icha Love Ero Goudou "ZenEro" Vol.3
     author: ekakibit
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688293.jpg

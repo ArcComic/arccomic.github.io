@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bbm"
-work_count: 131
+work_count: 132
 works:
   - title: Kindan no Hatemitsu
     author: ryuuta
@@ -134,6 +134,13 @@ works:
     date: '2026-07-11'
     code: 501709
     url: /works/501709/
+  - title: Kioku Soushitsu NTR - Kareshi no Shinyuu ni Hamerare Tsuzuketa 10-kakan -
+    author: wes-heartland-smith
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/502563.jpg
+    rating: 0.0
+    date: '2026-10-17'
+    code: 502563
+    url: /works/502563/
   - title: Haha wa Ore no Shinyuu ni Netorarete Iru | My Mother Is Being Cuckolded By
       My Best Friend
     author: yuuki-ringo

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "full color"
-work_count: 267
+work_count: 268
 works:
   - title: Pai☆Panic ~Hasamareta Dekapai~
     author: inkey
@@ -387,6 +387,13 @@ works:
     date: '2026-07-11'
     code: 501709
     url: /works/501709/
+  - title: Kioku Soushitsu NTR - Kareshi no Shinyuu ni Hamerare Tsuzuketa 10-kakan -
+    author: wes-heartland-smith
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/502563.jpg
+    rating: 0.0
+    date: '2026-10-17'
+    code: 502563
+    url: /works/502563/
   - title: Mama Moe ~Haha o Bikou shite mita Ken~ | Mama Moe ~That Time When I Followed
       My Mom~
     author: hara-shigeyuki

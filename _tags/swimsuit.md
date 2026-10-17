@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "swimsuit"
-work_count: 90
+work_count: 92
 works:
   - title: Kizashi
     author: yoshiura-kazuya
@@ -94,6 +94,13 @@ works:
     date: '2026-09-29'
     code: 480745
     url: /works/480745/
+  - title: Kioku Soushitsu NTR - Kareshi no Shinyuu ni Hamerare Tsuzuketa 10-kakan -
+    author: wes-heartland-smith
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/502563.jpg
+    rating: 0.0
+    date: '2026-10-17'
+    code: 502563
+    url: /works/502563/
   - title: Imouto ga Ore no Kanojo! ? 2-Paku 3-Nichi no Ecchina Kankei 1-4 | My Sister
       is My Girlfriend!? Sexual Relationship for Two Nights and Three Days 1-4
     author: katagiri-kaneharu
@@ -686,4 +693,11 @@ works:
     date: '2026-10-13'
     code: 687235
     url: /works/687235/
+  - title: Tomodachi no Mama ga Boku no Dekachin de Ikimakutta Halloween
+    author: rk-2
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688157.jpg
+    rating: 0.0
+    date: '2026-10-17'
+    code: 688157
+    url: /works/688157/
 ---

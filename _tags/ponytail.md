@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "ponytail"
-work_count: 182
+work_count: 183
 works:
   - title: Ami Mami Mind 5
     author: tsurui
@@ -170,6 +170,13 @@ works:
     date: '2026-09-12'
     code: 500467
     url: /works/500467/
+  - title: Kioku Soushitsu NTR - Kareshi no Shinyuu ni Hamerare Tsuzuketa 10-kakan -
+    author: wes-heartland-smith
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/502563.jpg
+    rating: 0.0
+    date: '2026-10-17'
+    code: 502563
+    url: /works/502563/
   - title: Little Blue Bird
     author: kidouchi-kon
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/508534.jpg

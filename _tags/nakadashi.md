@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "nakadashi"
-work_count: 912
+work_count: 914
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -1174,6 +1174,13 @@ works:
     date: '2026-07-11'
     code: 501709
     url: /works/501709/
+  - title: Kioku Soushitsu NTR - Kareshi no Shinyuu ni Hamerare Tsuzuketa 10-kakan -
+    author: wes-heartland-smith
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/502563.jpg
+    rating: 0.0
+    date: '2026-10-17'
+    code: 502563
+    url: /works/502563/
   - title: Kinpatsu Chounyuu Gal ni Gyaku Deriheru Atsukai Sarete Iru Ore no Hanashi
       | Blonde Gal with Huge Tits Treats Me Like a Manslut
     author: uni-toshiki
@@ -6748,6 +6755,13 @@ works:
     date: '2026-10-17'
     code: 688150
     url: /works/688150/
+  - title: Steady Study Ch. 1-18
+    author: yuumi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688163.jpg
+    rating: 0.0
+    date: '2026-10-17'
+    code: 688163
+    url: /works/688163/
   - title: Jimi-gao Onee-chan Ganbaru! ~Hajimete no Bokki ni Odoroite Gyan Naki suru
       Otouto no Osewa wa Taihen!~
     author: aitoka-nantoka

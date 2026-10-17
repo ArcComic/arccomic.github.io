@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "doujinshi"
-work_count: 1495
+work_count: 1497
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -1719,6 +1719,13 @@ works:
     date: '2026-09-10'
     code: 502197
     url: /works/502197/
+  - title: Kioku Soushitsu NTR - Kareshi no Shinyuu ni Hamerare Tsuzuketa 10-kakan -
+    author: wes-heartland-smith
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/502563.jpg
+    rating: 0.0
+    date: '2026-10-17'
+    code: 502563
+    url: /works/502563/
   - title: Kinpatsu Chounyuu Gal ni Gyaku Deriheru Atsukai Sarete Iru Ore no Hanashi
     author: uni-toshiki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/502694.jpg
@@ -11015,6 +11022,13 @@ works:
     date: '2026-10-17'
     code: 688156
     url: /works/688156/
+  - title: Tomodachi no Mama ga Boku no Dekachin de Ikimakutta Halloween
+    author: rk-2
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688157.jpg
+    rating: 0.0
+    date: '2026-10-17'
+    code: 688157
+    url: /works/688157/
   - title: Himitsu ni Shite yo ne | Keep This a Secret, Okay?
     author: haji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688259.jpg

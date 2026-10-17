@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "cowgirl"
-work_count: 20
+work_count: 21
 works:
   - title: Homestay-chu no Doitsu Musume ga Issho ni Furo ni Haitte Kuru Wake | The
       Reason Why a German Girl Takes a Bath Together With Me on Her Homestay
@@ -151,4 +151,11 @@ works:
     date: '2026-10-11'
     code: 686383
     url: /works/686383/
+  - title: Tomodachi no Mama ga Boku no Dekachin de Ikimakutta Halloween
+    author: rk-2
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688157.jpg
+    rating: 0.0
+    date: '2026-10-17'
+    code: 688157
+    url: /works/688157/
 ---

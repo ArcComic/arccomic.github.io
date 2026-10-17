@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "fingering"
-work_count: 198
+work_count: 199
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -1471,6 +1471,13 @@ works:
     date: '2026-10-15'
     code: 687781
     url: /works/687781/
+  - title: Steady Study Ch. 1-18
+    author: yuumi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688163.jpg
+    rating: 0.0
+    date: '2026-10-17'
+    code: 688163
+    url: /works/688163/
   - title: Himitsu ni Shite yo ne | Keep This a Secret, Okay?
     author: haji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688259.jpg
