@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "rough translation"
-work_count: 717
+work_count: 718
 works:
   - title: Boku no Shiranai Kimi no Kao
     author: utsutsu-minoru
@@ -1135,6 +1135,14 @@ works:
     date: '2026-03-03'
     code: 632800
     url: /works/632800/
+  - title: Douse Shinu kara, Suki ni Shite | Since i'm going to die anyway, do whatever
+      you want with me
+    author: yonayona
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/632838.jpg
+    rating: 0.0
+    date: '2026-10-18'
+    code: 632838
+    url: /works/632838/
   - title: Kareshi ni Betabore Chuu no Gal Senpai ga, Ore to Tsukiau made - Be my girlfriend!
       Rio-senpai! | Being Clingy with Your Boyfriend... Kyaru, Senpai Why Not Date Me
       Next?

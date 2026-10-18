@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "moral degeneration"
-work_count: 45
+work_count: 46
 works:
   - title: Kanojo no SmaPho o Nozoita dake nano ni | I Just Snooped through Her Smartphone
     author: chocoro
@@ -333,6 +333,15 @@ works:
     date: '2026-10-05'
     code: 685961
     url: /works/685961/
+  - title: Chijo. -Jimi Kyonyuu na Keiri Takahashi ni Do-M Guse o Kaika Saserareta Ore-
+      | Perverted Woman - Takahashi, a Modest, Busty Accountant, Made Me Develop a Masochist
+      Habit...
+    author: masa
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688459.jpg
+    rating: 4.3
+    date: '2026-10-18'
+    code: 688459
+    url: /works/688459/
   - title: Houkai Kazoku 2-Hahaoya ga Yakuza to no Sex ni Hamatta Hanashi- / Broken
       Family 2 - A Story About a Mother Who Became Addicted to Sex With a Yakuza
     author: watsondou

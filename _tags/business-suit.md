@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "business suit"
-work_count: 98
+work_count: 99
 works:
   - title: MAGIC SEVEN
     author: asuhiro
@@ -713,6 +713,15 @@ works:
     date: '2026-10-03'
     code: 685702
     url: /works/685702/
+  - title: Chijo. -Jimi Kyonyuu na Keiri Takahashi ni Do-M Guse o Kaika Saserareta Ore-
+      | Perverted Woman - Takahashi, a Modest, Busty Accountant, Made Me Develop a Masochist
+      Habit...
+    author: masa
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688459.jpg
+    rating: 4.3
+    date: '2026-10-18'
+    code: 688459
+    url: /works/688459/
   - title: Hottokenaino
     author: hara-shigeyuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/77864.jpg

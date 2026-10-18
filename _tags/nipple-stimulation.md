@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "nipple stimulation"
-work_count: 176
+work_count: 178
 works:
   - title: Hypnotic Domination ~ The Fall of Tennis Club Ace ~
     author: danchino
@@ -385,6 +385,14 @@ works:
     date: '2026-09-11'
     code: 626220
     url: /works/626220/
+  - title: Douse Shinu kara, Suki ni Shite | Since i'm going to die anyway, do whatever
+      you want with me
+    author: yonayona
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/632838.jpg
+    rating: 0.0
+    date: '2026-10-18'
+    code: 632838
+    url: /works/632838/
   - title: 2-nen C-gumi Gakuen Oppabu no Cast ni Imouto ga Ita | My Little Sister Was
       a Hostess at Class 2-C's School Festival Boobs Bar
     author: bunapi-397-yen
@@ -1285,6 +1293,15 @@ works:
     date: '2026-10-18'
     code: 688413
     url: /works/688413/
+  - title: Chijo. -Jimi Kyonyuu na Keiri Takahashi ni Do-M Guse o Kaika Saserareta Ore-
+      | Perverted Woman - Takahashi, a Modest, Busty Accountant, Made Me Develop a Masochist
+      Habit...
+    author: masa
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688459.jpg
+    rating: 4.3
+    date: '2026-10-18'
+    code: 688459
+    url: /works/688459/
   - title: Yarasete Yaru tte Itten no! 2 | I'm saying I'll let you do it! 2
     author: mikage
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688480.jpg

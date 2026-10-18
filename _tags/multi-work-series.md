@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "multi-work series"
-work_count: 443
+work_count: 444
 works:
   - title: Konna ni mo Itooshii Zero
     author: nohito
@@ -593,6 +593,14 @@ works:
     date: '2026-09-24'
     code: 521674
     url: /works/521674/
+  - title: Jackal to Pomeranian no Car Sex Suru Hon | The Jackal And The Pomeranian
+      Have Some Car Sex
+    author: igedoaha
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/521894.jpg
+    rating: 0.0
+    date: '2026-10-18'
+    code: 521894
+    url: /works/521894/
   - title: Motto♥ Okki na Saori-chan wa Fukiyou ni Eroi
     author: aramaki-echizen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/524436.jpg

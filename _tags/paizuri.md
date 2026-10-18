@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "paizuri"
-work_count: 254
+work_count: 256
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -661,6 +661,14 @@ works:
     date: '2026-04-30'
     code: 629368
     url: /works/629368/
+  - title: Douse Shinu kara, Suki ni Shite | Since i'm going to die anyway, do whatever
+      you want with me
+    author: yonayona
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/632838.jpg
+    rating: 0.0
+    date: '2026-10-18'
+    code: 632838
+    url: /works/632838/
   - title: Amoral Island
     author: alp
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/633453.jpg
@@ -1875,6 +1883,15 @@ works:
     date: '2026-10-17'
     code: 688293
     url: /works/688293/
+  - title: Chijo. -Jimi Kyonyuu na Keiri Takahashi ni Do-M Guse o Kaika Saserareta Ore-
+      | Perverted Woman - Takahashi, a Modest, Busty Accountant, Made Me Develop a Masochist
+      Habit...
+    author: masa
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688459.jpg
+    rating: 4.3
+    date: '2026-10-18'
+    code: 688459
+    url: /works/688459/
   - title: Yarasete Yaru tte Itten no! 2 | I'm saying I'll let you do it! 2
     author: mikage
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688480.jpg

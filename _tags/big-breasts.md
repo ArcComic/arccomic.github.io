@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big breasts"
-work_count: 1238
+work_count: 1240
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -3604,6 +3604,14 @@ works:
     date: '2026-03-03'
     code: 632800
     url: /works/632800/
+  - title: Douse Shinu kara, Suki ni Shite | Since i'm going to die anyway, do whatever
+      you want with me
+    author: yonayona
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/632838.jpg
+    rating: 0.0
+    date: '2026-10-18'
+    code: 632838
+    url: /works/632838/
   - title: Kareshi ni Betabore Chuu no Gal Senpai ga, Ore to Tsukiau made - Be my girlfriend!
       Rio-senpai! | Being Clingy with Your Boyfriend... Kyaru, Senpai Why Not Date Me
       Next?
@@ -9076,6 +9084,15 @@ works:
     date: '2026-10-18'
     code: 688413
     url: /works/688413/
+  - title: Chijo. -Jimi Kyonyuu na Keiri Takahashi ni Do-M Guse o Kaika Saserareta Ore-
+      | Perverted Woman - Takahashi, a Modest, Busty Accountant, Made Me Develop a Masochist
+      Habit...
+    author: masa
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688459.jpg
+    rating: 4.3
+    date: '2026-10-18'
+    code: 688459
+    url: /works/688459/
   - title: Yarasete Yaru tte Itten no! 2 | I'm saying I'll let you do it! 2
     author: mikage
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688480.jpg

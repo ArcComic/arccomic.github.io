@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "short-haired female"
-work_count: 59
+work_count: 60
 works:
   - title: Onee-chan ga Ecchi na Koto bakka Suru kara... | My older sister only does
       obscene things...
@@ -191,6 +191,14 @@ works:
     date: '2026-02-26'
     code: 632761
     url: /works/632761/
+  - title: Douse Shinu kara, Suki ni Shite | Since i'm going to die anyway, do whatever
+      you want with me
+    author: yonayona
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/632838.jpg
+    rating: 0.0
+    date: '2026-10-18'
+    code: 632838
+    url: /works/632838/
   - title: Boku no Mama wa Otouto no Mae de dake Dosukebe ni Naru｜My Mom Turns Into
       a Slut for My Little Brother, and Him Alone
     author: asahina-hikage

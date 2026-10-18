@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "squirting"
-work_count: 165
+work_count: 166
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -130,6 +130,14 @@ works:
     date: '2026-09-29'
     code: 520557
     url: /works/520557/
+  - title: Jackal to Pomeranian no Car Sex Suru Hon | The Jackal And The Pomeranian
+      Have Some Car Sex
+    author: igedoaha
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/521894.jpg
+    rating: 0.0
+    date: '2026-10-18'
+    code: 521894
+    url: /works/521894/
   - title: Seijun-ha Joyu Mikage-san no Otonanoomocha | Innocent Style Actress Mikage's
       Adult Toy
     author: unknown

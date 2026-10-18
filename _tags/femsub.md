@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "femsub"
-work_count: 31
+work_count: 32
 works:
   - title: Kanojo no Amai Jiraishuu
     author: jirou
@@ -39,6 +39,14 @@ works:
     date: '2026-04-25'
     code: 632188
     url: /works/632188/
+  - title: Douse Shinu kara, Suki ni Shite | Since i'm going to die anyway, do whatever
+      you want with me
+    author: yonayona
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/632838.jpg
+    rating: 0.0
+    date: '2026-10-18'
+    code: 632838
+    url: /works/632838/
   - title: Honeori! Osewa Girl♡ | SK8er Girl Lends Me a Hand!
     author: kyaradain
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/634609.jpg

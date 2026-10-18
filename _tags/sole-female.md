@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole female"
-work_count: 1088
+work_count: 1090
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -1985,6 +1985,14 @@ works:
     date: '2026-09-24'
     code: 521674
     url: /works/521674/
+  - title: Jackal to Pomeranian no Car Sex Suru Hon | The Jackal And The Pomeranian
+      Have Some Car Sex
+    author: igedoaha
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/521894.jpg
+    rating: 0.0
+    date: '2026-10-18'
+    code: 521894
+    url: /works/521894/
   - title: Tarachime no Nikutsubo ~Yokkyu Fuman no Haha ga Inran Dekachichi Deliherujou
       datta node, Renzoku Nakadashi de Onaho ni Shitemita~
     author: ginen
@@ -3579,6 +3587,14 @@ works:
     date: '2026-02-26'
     code: 632761
     url: /works/632761/
+  - title: Douse Shinu kara, Suki ni Shite | Since i'm going to die anyway, do whatever
+      you want with me
+    author: yonayona
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/632838.jpg
+    rating: 0.0
+    date: '2026-10-18'
+    code: 632838
+    url: /works/632838/
   - title: Have a nice day.
     author: owari-ningen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/632967.jpg

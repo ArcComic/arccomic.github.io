@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "kissing"
-work_count: 421
+work_count: 423
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -506,6 +506,14 @@ works:
     date: '2026-08-20'
     code: 510022
     url: /works/510022/
+  - title: Jackal to Pomeranian no Car Sex Suru Hon | The Jackal And The Pomeranian
+      Have Some Car Sex
+    author: igedoaha
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/521894.jpg
+    rating: 0.0
+    date: '2026-10-18'
+    code: 521894
+    url: /works/521894/
   - title: Motto♥ Okki na Saori-chan wa Fukiyou ni Eroi
     author: aramaki-echizen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/524436.jpg
@@ -3099,6 +3107,15 @@ works:
     date: '2026-10-17'
     code: 688293
     url: /works/688293/
+  - title: Chijo. -Jimi Kyonyuu na Keiri Takahashi ni Do-M Guse o Kaika Saserareta Ore-
+      | Perverted Woman - Takahashi, a Modest, Busty Accountant, Made Me Develop a Masochist
+      Habit...
+    author: masa
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688459.jpg
+    rating: 4.3
+    date: '2026-10-18'
+    code: 688459
+    url: /works/688459/
   - title: Yarasete Yaru tte Itten no! 2 | I'm saying I'll let you do it! 2
     author: mikage
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688480.jpg

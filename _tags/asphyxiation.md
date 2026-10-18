@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "asphyxiation"
-work_count: 22
+work_count: 23
 works:
   - title: My Dress Up Corpse
     author: mr-kurz
@@ -83,6 +83,14 @@ works:
     date: '2026-10-08'
     code: 631239
     url: /works/631239/
+  - title: Douse Shinu kara, Suki ni Shite | Since i'm going to die anyway, do whatever
+      you want with me
+    author: yonayona
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/632838.jpg
+    rating: 0.0
+    date: '2026-10-18'
+    code: 632838
+    url: /works/632838/
   - title: Teikou Suru hodo Nurete Shimau | The more I resist, the wetter I get
     author: tianoblue
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/643633.jpg
