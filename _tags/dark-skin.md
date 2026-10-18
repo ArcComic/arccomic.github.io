@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "dark skin"
-work_count: 171
+work_count: 172
 works:
   - title: Birthday
     author: hashiba-yachi
@@ -1261,4 +1261,11 @@ works:
     date: '2026-10-17'
     code: 687968
     url: /works/687968/
+  - title: Tannin no Meido ni Nacchatta KURO GAL 4
+    author: ootsuka-kotora
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688600.jpg
+    rating: 4.3
+    date: '2026-10-18'
+    code: 688600
+    url: /works/688600/
 ---

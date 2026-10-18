@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "girls und panzer"
-work_count: 5
+work_count: 6
 works:
   - title: ERIKA Vol. 2
     author: hankotsu-max
@@ -32,6 +32,13 @@ works:
     date: '2026-09-24'
     code: 649317
     url: /works/649317/
+  - title: Nishizumi Maho's Forbidden Fruit - Part 1
+    author: rasson
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/649626.jpg
+    rating: 4.5
+    date: '2026-10-18'
+    code: 649626
+    url: /works/649626/
   - title: Takebe Saori-chan toiu Kanojo to Ooarai Date de Ippaku suru Hanashi. | An
       Overnight Date in Oarai with My Girlfriend, Takebe Saori.
     author: hijiri-tsukasa

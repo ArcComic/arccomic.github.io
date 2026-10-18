@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "dilf"
-work_count: 209
+work_count: 211
 works:
   - title: Adoration
     author: kishizuka-kenji
@@ -981,6 +981,13 @@ works:
     date: '2026-09-24'
     code: 649317
     url: /works/649317/
+  - title: Nishizumi Maho's Forbidden Fruit - Part 1
+    author: rasson
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/649626.jpg
+    rating: 4.5
+    date: '2026-10-18'
+    code: 649626
+    url: /works/649626/
   - title: Inkan no Ketsuzoku 1-3
     author: diisuke
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651242.jpg
@@ -1528,4 +1535,11 @@ works:
     date: '2026-10-15'
     code: 687781
     url: /works/687781/
+  - title: Tannin no Meido ni Nacchatta KURO GAL 4
+    author: ootsuka-kotora
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688600.jpg
+    rating: 4.3
+    date: '2026-10-18'
+    code: 688600
+    url: /works/688600/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "fingering"
-work_count: 200
+work_count: 201
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -1492,4 +1492,11 @@ works:
     date: '2026-10-17'
     code: 688259
     url: /works/688259/
+  - title: Tannin no Meido ni Nacchatta KURO GAL 4
+    author: ootsuka-kotora
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688600.jpg
+    rating: 4.3
+    date: '2026-10-18'
+    code: 688600
+    url: /works/688600/
 ---

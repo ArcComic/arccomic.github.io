@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "maid"
-work_count: 45
+work_count: 46
 works:
   - title: Maid no Oshigoto. II | Maid's Work II
     author: alexi-laiho
@@ -331,6 +331,13 @@ works:
     date: '2026-10-09'
     code: 686334
     url: /works/686334/
+  - title: Tannin no Meido ni Nacchatta KURO GAL 4
+    author: ootsuka-kotora
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688600.jpg
+    rating: 4.3
+    date: '2026-10-18'
+    code: 688600
+    url: /works/688600/
   - title: Hottokenaino
     author: hara-shigeyuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/77864.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "gyaru"
-work_count: 137
+work_count: 138
 works:
   - title: GalPa!
     author: sakagami-umi
@@ -1031,4 +1031,11 @@ works:
     date: '2026-10-18'
     code: 688480
     url: /works/688480/
+  - title: Tannin no Meido ni Nacchatta KURO GAL 4
+    author: ootsuka-kotora
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688600.jpg
+    rating: 4.3
+    date: '2026-10-18'
+    code: 688600
+    url: /works/688600/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "defloration"
-work_count: 259
+work_count: 260
 works:
   - title: Imitation Family + Bigibo Hen
     author: tohzai
@@ -1175,6 +1175,13 @@ works:
     date: '2026-05-07'
     code: 648522
     url: /works/648522/
+  - title: Nishizumi Maho's Forbidden Fruit - Part 1
+    author: rasson
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/649626.jpg
+    rating: 4.5
+    date: '2026-10-18'
+    code: 649626
+    url: /works/649626/
   - title: Tabidachi Mae no Dai Shiren
     author: borisu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651317.jpg

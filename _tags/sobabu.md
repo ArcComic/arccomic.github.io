@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sobabu"
-work_count: 3
+work_count: 4
 works:
   - title: Iemoto no Uwaki ga Honki ni Natta Hi Zenpen | The Day the Grand Master's
       Affair Became Serious Part One
@@ -25,4 +25,11 @@ works:
     date: '2026-09-24'
     code: 649317
     url: /works/649317/
+  - title: Nishizumi Maho's Forbidden Fruit - Part 1
+    author: rasson
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/649626.jpg
+    rating: 4.5
+    date: '2026-10-18'
+    code: 649626
+    url: /works/649626/
 ---

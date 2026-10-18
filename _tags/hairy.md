@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "hairy"
-work_count: 335
+work_count: 336
 works:
   - title: MAGIC SEVEN
     author: asuhiro
@@ -2461,4 +2461,12 @@ works:
     date: '2026-10-17'
     code: 688289
     url: /works/688289/
+  - title: Tachiba Gyakuten ~ PowerHara o Suru Gibo no Onanie ga Toreta node Shitagawaseru
+      Koto ni Shita
+    author: shimipan
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688604.jpg
+    rating: 4.2
+    date: '2026-10-18'
+    code: 688604
+    url: /works/688604/
 ---

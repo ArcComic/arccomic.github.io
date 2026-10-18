@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "huge breasts"
-work_count: 114
+work_count: 115
 works:
   - title: Mama Naranai Onna-tachi Ch. 1-2
     author: otochichi
@@ -859,4 +859,12 @@ works:
     date: '2026-10-18'
     code: 688480
     url: /works/688480/
+  - title: Tachiba Gyakuten ~ PowerHara o Suru Gibo no Onanie ga Toreta node Shitagawaseru
+      Koto ni Shita
+    author: shimipan
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688604.jpg
+    rating: 4.2
+    date: '2026-10-18'
+    code: 688604
+    url: /works/688604/
 ---

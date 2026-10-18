@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "facial hair"
-work_count: 44
+work_count: 45
 works:
   - title: Asuna-san ga Agil ni Netorareru Ohanashi
     author: fujimiya-siryu
@@ -171,6 +171,13 @@ works:
     date: '2026-09-29'
     code: 646731
     url: /works/646731/
+  - title: Nishizumi Maho's Forbidden Fruit - Part 1
+    author: rasson
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/649626.jpg
+    rating: 4.5
+    date: '2026-10-18'
+    code: 649626
+    url: /works/649626/
   - title: Smoking Hypnosis Season 01
     author: dr-stein
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/650361.jpg

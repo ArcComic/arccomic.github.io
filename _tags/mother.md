@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "mother"
-work_count: 184
+work_count: 185
 works:
   - title: Imitation Family + Bigibo Hen
     author: tohzai
@@ -1343,4 +1343,12 @@ works:
     date: '2026-10-15'
     code: 687720
     url: /works/687720/
+  - title: Tachiba Gyakuten ~ PowerHara o Suru Gibo no Onanie ga Toreta node Shitagawaseru
+      Koto ni Shita
+    author: shimipan
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688604.jpg
+    rating: 4.2
+    date: '2026-10-18'
+    code: 688604
+    url: /works/688604/
 ---

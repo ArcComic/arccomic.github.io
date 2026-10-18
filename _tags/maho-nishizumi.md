@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "maho nishizumi"
-work_count: 2
+work_count: 3
 works:
   - title: ERIKA Vol. 2
     author: hankotsu-max
@@ -17,4 +17,11 @@ works:
     date: '2026-09-24'
     code: 576680
     url: /works/576680/
+  - title: Nishizumi Maho's Forbidden Fruit - Part 1
+    author: rasson
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/649626.jpg
+    rating: 4.5
+    date: '2026-10-18'
+    code: 649626
+    url: /works/649626/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bald"
-work_count: 86
+work_count: 87
 works:
   - title: Overwrite
     author: ojo
@@ -638,4 +638,11 @@ works:
     date: '2026-10-11'
     code: 686383
     url: /works/686383/
+  - title: Tannin no Meido ni Nacchatta KURO GAL 4
+    author: ootsuka-kotora
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688600.jpg
+    rating: 4.3
+    date: '2026-10-18'
+    code: 688600
+    url: /works/688600/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "nakadashi"
-work_count: 919
+work_count: 922
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -3985,6 +3985,13 @@ works:
     date: '2026-10-11'
     code: 649357
     url: /works/649357/
+  - title: Nishizumi Maho's Forbidden Fruit - Part 1
+    author: rasson
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/649626.jpg
+    rating: 4.5
+    date: '2026-10-18'
+    code: 649626
+    url: /works/649626/
   - title: Tomodachi no Mama ga Boku no Dekachin de Ikimakutta Omoide
     author: rk-2
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/650138.jpg
@@ -6809,10 +6816,25 @@ works:
   - title: Taihai Tsuma 2 Taihaikei Hitozuma o Yachin Kawari ni Koki Tsukaeru Hanashi
     author: kametaro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688528.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-10-18'
     code: 688528
     url: /works/688528/
+  - title: Tannin no Meido ni Nacchatta KURO GAL 4
+    author: ootsuka-kotora
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688600.jpg
+    rating: 4.3
+    date: '2026-10-18'
+    code: 688600
+    url: /works/688600/
+  - title: Tachiba Gyakuten ~ PowerHara o Suru Gibo no Onanie ga Toreta node Shitagawaseru
+      Koto ni Shita
+    author: shimipan
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688604.jpg
+    rating: 4.2
+    date: '2026-10-18'
+    code: 688604
+    url: /works/688604/
   - title: Inin Keiyaku | Lewd Pregnancy Contract
     author: yoshiura-kazuya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/83595.jpg
