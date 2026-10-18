@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "incest"
-work_count: 329
+work_count: 331
 works:
   - title: Imitation Family + Bigibo Hen
     author: tohzai
@@ -2394,6 +2394,20 @@ works:
     date: '2026-10-18'
     code: 688506
     url: /works/688506/
+  - title: Tomodachi no Mama / My Friend's Mother
+    author: nakadera-akira
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688570.jpg
+    rating: 0.0
+    date: '2026-10-18'
+    code: 688570
+    url: /works/688570/
+  - title: Gal Musume ga Chichioya to no Aijoux 4
+    author: ootsuka-kotora
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688598.jpg
+    rating: 0.0
+    date: '2026-10-18'
+    code: 688598
+    url: /works/688598/
   - title: Tachiba Gyakuten ~ PowerHara o Suru Gibo no Onanie ga Toreta node Shitagawaseru
       Koto ni Shita
     author: shimipan

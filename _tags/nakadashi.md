@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "nakadashi"
-work_count: 929
+work_count: 932
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -4299,6 +4299,13 @@ works:
     date: '2026-09-09'
     code: 655077
     url: /works/655077/
+  - title: Gyakuten Enkou 3 ~Ore ga Kawareru Sekai~
+    author: nectar
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/655121.jpg
+    rating: 0.0
+    date: '2026-10-18'
+    code: 655121
+    url: /works/655121/
   - title: Boshi Soukan no Hajimari
     author: kuruto
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/655202.jpg
@@ -6852,6 +6859,13 @@ works:
     date: '2026-10-18'
     code: 688546
     url: /works/688546/
+  - title: Tomodachi no Mama / My Friend's Mother
+    author: nakadera-akira
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688570.jpg
+    rating: 0.0
+    date: '2026-10-18'
+    code: 688570
+    url: /works/688570/
   - title: Asettarashi 0 183cm no Akujiki Deka Onna /  Covered In Sweat 0 - The Huge
       183cm-Tall Gluttonous Girl
     author: fuetakishi
@@ -6868,6 +6882,13 @@ works:
     date: '2026-10-18'
     code: 688585
     url: /works/688585/
+  - title: Gal Musume ga Chichioya to no Aijoux 4
+    author: ootsuka-kotora
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688598.jpg
+    rating: 0.0
+    date: '2026-10-18'
+    code: 688598
+    url: /works/688598/
   - title: Tannin no Meido ni Nacchatta KURO GAL 4
     author: ootsuka-kotora
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688600.jpg

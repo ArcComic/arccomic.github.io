@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "rough translation"
-work_count: 718
+work_count: 720
 works:
   - title: Boku no Shiranai Kimi no Kao
     author: utsutsu-minoru
@@ -2112,6 +2112,13 @@ works:
     date: '2026-09-07'
     code: 654812
     url: /works/654812/
+  - title: Gyakuten Enkou 3 ~Ore ga Kawareru Sekai~
+    author: nectar
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/655121.jpg
+    rating: 0.0
+    date: '2026-10-18'
+    code: 655121
+    url: /works/655121/
   - title: Boshi Soukan no Hajimari
     author: kuruto
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/655202.jpg
@@ -5239,6 +5246,13 @@ works:
     date: '2026-10-18'
     code: 688546
     url: /works/688546/
+  - title: Gal Musume ga Chichioya to no Aijoux 4
+    author: ootsuka-kotora
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688598.jpg
+    rating: 0.0
+    date: '2026-10-18'
+    code: 688598
+    url: /works/688598/
   - title: Tannin no Meido ni Nacchatta KURO GAL 4
     author: ootsuka-kotora
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688600.jpg

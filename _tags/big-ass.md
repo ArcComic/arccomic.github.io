@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big ass"
-work_count: 279
+work_count: 281
 works:
   - title: My Care Lady Ch. 1
     author: sugi-g
@@ -2063,6 +2063,13 @@ works:
     date: '2026-10-18'
     code: 688567
     url: /works/688567/
+  - title: Tomodachi no Mama / My Friend's Mother
+    author: nakadera-akira
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688570.jpg
+    rating: 0.0
+    date: '2026-10-18'
+    code: 688570
+    url: /works/688570/
   - title: Asettarashi 0 183cm no Akujiki Deka Onna /  Covered In Sweat 0 - The Huge
       183cm-Tall Gluttonous Girl
     author: fuetakishi
@@ -2078,6 +2085,13 @@ works:
     date: '2026-10-18'
     code: 688593
     url: /works/688593/
+  - title: Gal Musume ga Chichioya to no Aijoux 4
+    author: ootsuka-kotora
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688598.jpg
+    rating: 0.0
+    date: '2026-10-18'
+    code: 688598
+    url: /works/688598/
   - title: Tannin no Meido ni Nacchatta KURO GAL 4
     author: ootsuka-kotora
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688600.jpg

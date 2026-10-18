@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "deepthroat"
-work_count: 95
+work_count: 96
 works:
   - title: Toshishita Chin Kui Obasan
     author: maccha-neji
@@ -720,6 +720,13 @@ works:
     date: '2026-10-18'
     code: 688480
     url: /works/688480/
+  - title: Tomodachi no Mama / My Friend's Mother
+    author: nakadera-akira
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688570.jpg
+    rating: 0.0
+    date: '2026-10-18'
+    code: 688570
+    url: /works/688570/
   - title: Houkai Kazoku 2-Hahaoya ga Yakuza to no Sex ni Hamatta Hanashi- / Broken
       Family 2 - A Story About a Mother Who Became Addicted to Sex With a Yakuza
     author: watsondou

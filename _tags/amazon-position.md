@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "amazon position"
-work_count: 7
+work_count: 8
 works:
   - title: Gakkou to Bed ja Seihantai no, Okkina Kanojo. | My Big Girlfriend Acts the
       Polar Opposite in Bed and at School.
@@ -47,6 +47,13 @@ works:
     date: '2026-03-07'
     code: 588713
     url: /works/588713/
+  - title: Gyakuten Enkou 3 ~Ore ga Kawareru Sekai~
+    author: nectar
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/655121.jpg
+    rating: 0.0
+    date: '2026-10-18'
+    code: 655121
+    url: /works/655121/
   - title: MatchApp de Atta Hachishaku-sama ni Gyaku Tanetsuke Press Sarenagara IchaLove
       Noukou Namashibori Sex | Having Intense, Romantic Raw Sex With A 8-foot Tall Woman
       I Met On A Dating App

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "femdom"
-work_count: 196
+work_count: 197
 works:
   - title: Life with Married Women Just Like a Manga 2 - Ch. 1-5
     author: hidemaru
@@ -806,6 +806,13 @@ works:
     date: '2026-09-29'
     code: 653792
     url: /works/653792/
+  - title: Gyakuten Enkou 3 ~Ore ga Kawareru Sekai~
+    author: nectar
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/655121.jpg
+    rating: 0.0
+    date: '2026-10-18'
+    code: 655121
+    url: /works/655121/
   - title: I cannot believe a Longtime Fan such as myself is getting my Clit Teased
       by my Fave...
     author: toyama-tonari

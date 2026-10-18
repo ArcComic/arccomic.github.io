@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "gloves"
-work_count: 39
+work_count: 40
 works:
   - title: Yuri no o saifu ni shite agemasu ne, Senpai | I'll turn you into Yuri's wallet,
       Senpai
@@ -291,4 +291,11 @@ works:
     date: '2026-10-18'
     code: 688413
     url: /works/688413/
+  - title: Tomodachi no Mama / My Friend's Mother
+    author: nakadera-akira
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688570.jpg
+    rating: 0.0
+    date: '2026-10-18'
+    code: 688570
+    url: /works/688570/
 ---

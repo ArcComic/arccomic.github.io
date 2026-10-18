@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "nipple stimulation"
-work_count: 178
+work_count: 179
 works:
   - title: Hypnotic Domination ~ The Fall of Tennis Club Ace ~
     author: danchino
@@ -1316,6 +1316,13 @@ works:
     date: '2026-10-18'
     code: 688528
     url: /works/688528/
+  - title: Tomodachi no Mama / My Friend's Mother
+    author: nakadera-akira
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688570.jpg
+    rating: 0.0
+    date: '2026-10-18'
+    code: 688570
+    url: /works/688570/
   - title: Asettarashi 0 183cm no Akujiki Deka Onna /  Covered In Sweat 0 - The Huge
       183cm-Tall Gluttonous Girl
     author: fuetakishi

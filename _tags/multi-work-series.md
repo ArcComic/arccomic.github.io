@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "multi-work series"
-work_count: 444
+work_count: 446
 works:
   - title: Konna ni mo Itooshii Zero
     author: nohito
@@ -1999,6 +1999,13 @@ works:
     date: '2026-10-07'
     code: 654587
     url: /works/654587/
+  - title: Gyakuten Enkou 3 ~Ore ga Kawareru Sekai~
+    author: nectar
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/655121.jpg
+    rating: 0.0
+    date: '2026-10-18'
+    code: 655121
+    url: /works/655121/
   - title: Watashi wa Tsuma de Haha de, Tada no Mesu 2
     author: kakyuu-bushi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/655416.jpg
@@ -3310,6 +3317,13 @@ works:
     date: '2026-10-18'
     code: 688593
     url: /works/688593/
+  - title: Gal Musume ga Chichioya to no Aijoux 4
+    author: ootsuka-kotora
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688598.jpg
+    rating: 0.0
+    date: '2026-10-18'
+    code: 688598
+    url: /works/688598/
   - title: Tannin no Meido ni Nacchatta KURO GAL 4
     author: ootsuka-kotora
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688600.jpg

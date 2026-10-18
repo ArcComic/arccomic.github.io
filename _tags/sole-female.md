@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole female"
-work_count: 1090
+work_count: 1091
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -8044,6 +8044,13 @@ works:
     date: '2026-10-18'
     code: 688585
     url: /works/688585/
+  - title: Gal Musume ga Chichioya to no Aijoux 4
+    author: ootsuka-kotora
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688598.jpg
+    rating: 0.0
+    date: '2026-10-18'
+    code: 688598
+    url: /works/688598/
   - title: Tannin no Meido ni Nacchatta KURO GAL 4
     author: ootsuka-kotora
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688600.jpg

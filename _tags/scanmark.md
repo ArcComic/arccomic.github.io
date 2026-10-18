@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "scanmark"
-work_count: 245
+work_count: 246
 works:
   - title: NTR Anniversary + ) [Syukurin] Mitsuha ~Netorare~ (Kimi no Na wa.) [English]
       [Colorized] by Mikaku
@@ -1758,6 +1758,13 @@ works:
     date: '2026-10-18'
     code: 688567
     url: /works/688567/
+  - title: Gal Musume ga Chichioya to no Aijoux 4
+    author: ootsuka-kotora
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688598.jpg
+    rating: 0.0
+    date: '2026-10-18'
+    code: 688598
+    url: /works/688598/
   - title: Tannin no Meido ni Nacchatta KURO GAL 4
     author: ootsuka-kotora
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688600.jpg

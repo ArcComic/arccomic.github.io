@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "group"
-work_count: 277
+work_count: 278
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -2029,4 +2029,11 @@ works:
     date: '2026-10-18'
     code: 688506
     url: /works/688506/
+  - title: Tomodachi no Mama / My Friend's Mother
+    author: nakadera-akira
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688570.jpg
+    rating: 0.0
+    date: '2026-10-18'
+    code: 688570
+    url: /works/688570/
 ---

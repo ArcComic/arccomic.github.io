@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "x-ray"
-work_count: 369
+work_count: 370
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -1694,6 +1694,13 @@ works:
     date: '2026-09-11'
     code: 654850
     url: /works/654850/
+  - title: Gyakuten Enkou 3 ~Ore ga Kawareru Sekai~
+    author: nectar
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/655121.jpg
+    rating: 0.0
+    date: '2026-10-18'
+    code: 655121
+    url: /works/655121/
   - title: Coral no Megumi de Nyotaika Shita Senyuu to xxx Suru Hon | Blessings of the
       Coral
     author: ringo-club

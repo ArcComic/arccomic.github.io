@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "prostitution"
-work_count: 82
+work_count: 83
 works:
   - title: Ikanishite Haha wa Onna o Kaihou Shitaka Ch. 1-14
     author: mitarai-yuuki
@@ -387,6 +387,13 @@ works:
     date: '2026-09-09'
     code: 651967
     url: /works/651967/
+  - title: Gyakuten Enkou 3 ~Ore ga Kawareru Sekai~
+    author: nectar
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/655121.jpg
+    rating: 0.0
+    date: '2026-10-18'
+    code: 655121
+    url: /works/655121/
   - title: Beit-dai de Kaa-san no Karada o Katta Musuko no Hanashi
     author: momoziri-hustle-dou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/657979.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "butt plug"
-work_count: 13
+work_count: 14
 works:
   - title: Senpai No Oppai Complete
     author: menoko
@@ -101,4 +101,11 @@ works:
     date: '2026-10-13'
     code: 687044
     url: /works/687044/
+  - title: Gal Musume ga Chichioya to no Aijoux 4
+    author: ootsuka-kotora
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688598.jpg
+    rating: 0.0
+    date: '2026-10-18'
+    code: 688598
+    url: /works/688598/
 ---

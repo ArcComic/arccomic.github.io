@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "ootsuka kotora"
-work_count: 5
+work_count: 6
 works:
   - title: Kousa suru Osu to Mesu | Male and Female Crossing
     author: ootsuka-kotora
@@ -33,6 +33,13 @@ works:
     date: '2026-03-03'
     code: 611701
     url: /works/611701/
+  - title: Gal Musume ga Chichioya to no Aijoux 4
+    author: ootsuka-kotora
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688598.jpg
+    rating: 0.0
+    date: '2026-10-18'
+    code: 688598
+    url: /works/688598/
   - title: Tannin no Meido ni Nacchatta KURO GAL 4
     author: ootsuka-kotora
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688600.jpg

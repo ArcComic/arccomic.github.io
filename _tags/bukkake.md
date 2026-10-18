@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bukkake"
-work_count: 35
+work_count: 36
 works:
   - title: Chibo Soukan Ch.1-3
     author: natsu-no-oyatsu
@@ -256,6 +256,13 @@ works:
     date: '2026-10-05'
     code: 686029
     url: /works/686029/
+  - title: Tomodachi no Mama / My Friend's Mother
+    author: nakadera-akira
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688570.jpg
+    rating: 0.0
+    date: '2026-10-18'
+    code: 688570
+    url: /works/688570/
   - title: Honban Kaikin Downer Girl
     author: diisuke
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688593.jpg

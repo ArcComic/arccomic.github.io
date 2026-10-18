@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "dilf"
-work_count: 215
+work_count: 216
 works:
   - title: Adoration
     author: kishizuka-kenji
@@ -1565,6 +1565,13 @@ works:
     date: '2026-10-18'
     code: 688593
     url: /works/688593/
+  - title: Gal Musume ga Chichioya to no Aijoux 4
+    author: ootsuka-kotora
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688598.jpg
+    rating: 0.0
+    date: '2026-10-18'
+    code: 688598
+    url: /works/688598/
   - title: Tannin no Meido ni Nacchatta KURO GAL 4
     author: ootsuka-kotora
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688600.jpg
