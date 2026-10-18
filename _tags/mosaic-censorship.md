@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "mosaic censorship"
-work_count: 332
+work_count: 333
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -2440,4 +2440,11 @@ works:
     date: '2026-10-17'
     code: 688157
     url: /works/688157/
+  - title: Boku no Kanojo wa jk Gravure Idol 2 /  My Girlfried Is A Gravure Idol 2
+    author: aikawa-tatsuki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688567.jpg
+    rating: 0.0
+    date: '2026-10-18'
+    code: 688567
+    url: /works/688567/
 ---

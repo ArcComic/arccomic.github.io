@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "aikawa tatsuki"
-work_count: 1
+work_count: 2
 works:
   - title: Netorare jk Osananajimi Suieibu 3
     author: aikawa-tatsuki
@@ -10,4 +10,11 @@ works:
     date: '2026-03-02'
     code: 563342
     url: /works/563342/
+  - title: Boku no Kanojo wa jk Gravure Idol 2 /  My Girlfried Is A Gravure Idol 2
+    author: aikawa-tatsuki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688567.jpg
+    rating: 0.0
+    date: '2026-10-18'
+    code: 688567
+    url: /works/688567/
 ---

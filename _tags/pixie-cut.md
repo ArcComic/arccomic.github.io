@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "pixie cut"
-work_count: 115
+work_count: 116
 works:
   - title: Akarui Kazoku Seikatsu
     author: pistonring-nishizawa
@@ -864,4 +864,11 @@ works:
     date: '2026-10-18'
     code: 688582
     url: /works/688582/
+  - title: Honban Kaikin Downer Girl
+    author: diisuke
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688593.jpg
+    rating: 4.1
+    date: '2026-10-18'
+    code: 688593
+    url: /works/688593/
 ---

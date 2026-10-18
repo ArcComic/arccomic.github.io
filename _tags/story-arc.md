@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "story arc"
-work_count: 237
+work_count: 238
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -1741,6 +1741,14 @@ works:
     date: '2026-10-17'
     code: 688175
     url: /works/688175/
+  - title: Houkai Kazoku 2-Hahaoya ga Yakuza to no Sex ni Hamatta Hanashi- / Broken
+      Family 2 - A Story About a Mother Who Became Addicted to Sex With a Yakuza
+    author: watsondou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688585.jpg
+    rating: 0.0
+    date: '2026-10-18'
+    code: 688585
+    url: /works/688585/
   - title: Hottokenaino
     author: hara-shigeyuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/77864.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "dark skin"
-work_count: 172
+work_count: 173
 works:
   - title: Birthday
     author: hashiba-yachi
@@ -1261,6 +1261,14 @@ works:
     date: '2026-10-17'
     code: 687968
     url: /works/687968/
+  - title: Houkai Kazoku 2-Hahaoya ga Yakuza to no Sex ni Hamatta Hanashi- / Broken
+      Family 2 - A Story About a Mother Who Became Addicted to Sex With a Yakuza
+    author: watsondou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688585.jpg
+    rating: 0.0
+    date: '2026-10-18'
+    code: 688585
+    url: /works/688585/
   - title: Tannin no Meido ni Nacchatta KURO GAL 4
     author: ootsuka-kotora
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688600.jpg

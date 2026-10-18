@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sex toys"
-work_count: 136
+work_count: 137
 works:
   - title: Mama Naranai Onna-tachi Ch. 1-2
     author: otochichi
@@ -1006,4 +1006,12 @@ works:
     date: '2026-10-17'
     code: 688150
     url: /works/688150/
+  - title: Houkai Kazoku 2-Hahaoya ga Yakuza to no Sex ni Hamatta Hanashi- / Broken
+      Family 2 - A Story About a Mother Who Became Addicted to Sex With a Yakuza
+    author: watsondou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688585.jpg
+    rating: 0.0
+    date: '2026-10-18'
+    code: 688585
+    url: /works/688585/
 ---

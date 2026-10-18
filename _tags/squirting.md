@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "squirting"
-work_count: 163
+work_count: 165
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -1208,6 +1208,21 @@ works:
     date: '2026-10-17'
     code: 688293
     url: /works/688293/
+  - title: Boku no Kanojo wa jk Gravure Idol 2 /  My Girlfried Is A Gravure Idol 2
+    author: aikawa-tatsuki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688567.jpg
+    rating: 0.0
+    date: '2026-10-18'
+    code: 688567
+    url: /works/688567/
+  - title: Houkai Kazoku 2-Hahaoya ga Yakuza to no Sex ni Hamatta Hanashi- / Broken
+      Family 2 - A Story About a Mother Who Became Addicted to Sex With a Yakuza
+    author: watsondou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688585.jpg
+    rating: 0.0
+    date: '2026-10-18'
+    code: 688585
+    url: /works/688585/
   - title: Tachiba Gyakuten ~ PowerHara o Suru Gibo no Onanie ga Toreta node Shitagawaseru
       Koto ni Shita
     author: shimipan

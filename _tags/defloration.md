@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "defloration"
-work_count: 260
+work_count: 261
 works:
   - title: Imitation Family + Bigibo Hen
     author: tohzai
@@ -1926,4 +1926,11 @@ works:
     date: '2026-10-17'
     code: 687968
     url: /works/687968/
+  - title: Honban Kaikin Downer Girl
+    author: diisuke
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688593.jpg
+    rating: 4.1
+    date: '2026-10-18'
+    code: 688593
+    url: /works/688593/
 ---

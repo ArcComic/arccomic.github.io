@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "fingering"
-work_count: 203
+work_count: 205
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -1499,6 +1499,21 @@ works:
     date: '2026-10-17'
     code: 688259
     url: /works/688259/
+  - title: Houkai Kazoku 2-Hahaoya ga Yakuza to no Sex ni Hamatta Hanashi- / Broken
+      Family 2 - A Story About a Mother Who Became Addicted to Sex With a Yakuza
+    author: watsondou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688585.jpg
+    rating: 0.0
+    date: '2026-10-18'
+    code: 688585
+    url: /works/688585/
+  - title: Honban Kaikin Downer Girl
+    author: diisuke
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688593.jpg
+    rating: 4.1
+    date: '2026-10-18'
+    code: 688593
+    url: /works/688593/
   - title: Tannin no Meido ni Nacchatta KURO GAL 4
     author: ootsuka-kotora
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688600.jpg

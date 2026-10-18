@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bikini"
-work_count: 95
+work_count: 96
 works:
   - title: Kizashi
     author: yoshiura-kazuya
@@ -717,6 +717,13 @@ works:
     date: '2026-10-18'
     code: 688528
     url: /works/688528/
+  - title: Boku no Kanojo wa jk Gravure Idol 2 /  My Girlfried Is A Gravure Idol 2
+    author: aikawa-tatsuki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688567.jpg
+    rating: 0.0
+    date: '2026-10-18'
+    code: 688567
+    url: /works/688567/
   - title: Asettarashi 0 183cm no Akujiki Deka Onna /  Covered In Sweat 0 - The Huge
       183cm-Tall Gluttonous Girl
     author: fuetakishi
