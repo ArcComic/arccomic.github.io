@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "nakadashi"
-work_count: 925
+work_count: 927
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -1151,6 +1151,14 @@ works:
     date: '2026-08-31'
     code: 494172
     url: /works/494172/
+  - title: Musume no Tomodachi ga Yuuwaku Suru 2 | My Daughter's Friend Is Seducing
+      Me 2
+    author: jingrock
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/495845.jpg
+    rating: 0.0
+    date: '2026-10-18'
+    code: 495845
+    url: /works/495845/
   - title: Onozomi deshitara Saimin wo ~Maki-san Himitsu no Renai Therapy~ | If you
       wish, hypnosis ~Maki-san's secret love therapy~
     author: meeko
@@ -6820,6 +6828,13 @@ works:
     date: '2026-10-18'
     code: 688528
     url: /works/688528/
+  - title: Tatoeba Konna Million Theater vol. 19 Juunengo no Ogami Tamaki
+    author: binsen
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688546.jpg
+    rating: 0.0
+    date: '2026-10-18'
+    code: 688546
+    url: /works/688546/
   - title: Asettarashi 0 183cm no Akujiki Deka Onna /  Covered In Sweat 0 - The Huge
       183cm-Tall Gluttonous Girl
     author: fuetakishi

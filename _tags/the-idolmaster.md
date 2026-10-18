@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "the idolmaster"
-work_count: 79
+work_count: 80
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -556,6 +556,13 @@ works:
     date: '2026-10-01'
     code: 685197
     url: /works/685197/
+  - title: Tatoeba Konna Million Theater vol. 19 Juunengo no Ogami Tamaki
+    author: binsen
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688546.jpg
+    rating: 0.0
+    date: '2026-10-18'
+    code: 688546
+    url: /works/688546/
   - title: Ranko-ppoi no! | Ranko-Ish!
     author: napata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/87393.jpg

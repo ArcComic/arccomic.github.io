@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "ugly bastard"
-work_count: 36
+work_count: 37
 works:
   - title: A-part | Apartment
     author: zero-no-mono
@@ -18,6 +18,14 @@ works:
     date: '2026-09-25'
     code: 398514
     url: /works/398514/
+  - title: Musume no Tomodachi ga Yuuwaku Suru 2 | My Daughter's Friend Is Seducing
+      Me 2
+    author: jingrock
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/495845.jpg
+    rating: 0.0
+    date: '2026-10-18'
+    code: 495845
+    url: /works/495845/
   - title: Ojou-sama Sodachi no Namaiki Celeb Zuma o Kitanai Ossan Chinpo de Wakaraseru
       | Cocky Rich Bitch Glam-Wife Gets Taught A Lesson With Dirty Old Man Dick
     author: chinpan

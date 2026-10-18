@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "doujinshi"
-work_count: 1512
+work_count: 1515
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -1683,6 +1683,14 @@ works:
     date: '2026-09-09'
     code: 495599
     url: /works/495599/
+  - title: Musume no Tomodachi ga Yuuwaku Suru 2 | My Daughter's Friend Is Seducing
+      Me 2
+    author: jingrock
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/495845.jpg
+    rating: 0.0
+    date: '2026-10-18'
+    code: 495845
+    url: /works/495845/
   - title: I Turned Into a Sexual Relief Maid
     author: kanmuri
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/497994.jpg
@@ -11101,6 +11109,14 @@ works:
     date: '2026-10-18'
     code: 688480
     url: /works/688480/
+  - title: '"Kami no Daigosan" Hahaoya to Musuko ga Doujiki ni Seiyoku no Peak o Mukaete
+      Shimau!! | Mother and son hit their peak libido at the very same time!!'
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688506.jpg
+    rating: 0.0
+    date: '2026-10-18'
+    code: 688506
+    url: /works/688506/
   - title: Taihai Tsuma 2 Taihaikei Hitozuma o Yachin Kawari ni Koki Tsukaeru Hanashi
     author: kametaro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688528.jpg
@@ -11108,6 +11124,13 @@ works:
     date: '2026-10-18'
     code: 688528
     url: /works/688528/
+  - title: Tatoeba Konna Million Theater vol. 19 Juunengo no Ogami Tamaki
+    author: binsen
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688546.jpg
+    rating: 0.0
+    date: '2026-10-18'
+    code: 688546
+    url: /works/688546/
   - title: Boku no Kanojo wa jk Gravure Idol 2 /  My Girlfried Is A Gravure Idol 2
     author: aikawa-tatsuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688567.jpg

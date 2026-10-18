@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "kissing"
-work_count: 418
+work_count: 421
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -404,6 +404,14 @@ works:
     date: '2026-08-31'
     code: 494172
     url: /works/494172/
+  - title: Musume no Tomodachi ga Yuuwaku Suru 2 | My Daughter's Friend Is Seducing
+      Me 2
+    author: jingrock
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/495845.jpg
+    rating: 0.0
+    date: '2026-10-18'
+    code: 495845
+    url: /works/495845/
   - title: Tokikoe Zenpen | Transcendence, The Beginning
     author: sakujirou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/498679.jpg
@@ -3098,6 +3106,14 @@ works:
     date: '2026-10-18'
     code: 688480
     url: /works/688480/
+  - title: '"Kami no Daigosan" Hahaoya to Musuko ga Doujiki ni Seiyoku no Peak o Mukaete
+      Shimau!! | Mother and son hit their peak libido at the very same time!!'
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688506.jpg
+    rating: 0.0
+    date: '2026-10-18'
+    code: 688506
+    url: /works/688506/
   - title: Taihai Tsuma 2 Taihaikei Hitozuma o Yachin Kawari ni Koki Tsukaeru Hanashi
     author: kametaro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688528.jpg
@@ -3105,6 +3121,13 @@ works:
     date: '2026-10-18'
     code: 688528
     url: /works/688528/
+  - title: Tatoeba Konna Million Theater vol. 19 Juunengo no Ogami Tamaki
+    author: binsen
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688546.jpg
+    rating: 0.0
+    date: '2026-10-18'
+    code: 688546
+    url: /works/688546/
   - title: Asettarashi 0 183cm no Akujiki Deka Onna /  Covered In Sweat 0 - The Huge
       183cm-Tall Gluttonous Girl
     author: fuetakishi

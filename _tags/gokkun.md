@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "gokkun"
-work_count: 54
+work_count: 55
 works:
   - title: Itadakimasu Anata-sama | I Crave You
     author: tsurui
@@ -392,6 +392,14 @@ works:
     date: '2026-10-18'
     code: 688480
     url: /works/688480/
+  - title: '"Kami no Daigosan" Hahaoya to Musuko ga Doujiki ni Seiyoku no Peak o Mukaete
+      Shimau!! | Mother and son hit their peak libido at the very same time!!'
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688506.jpg
+    rating: 0.0
+    date: '2026-10-18'
+    code: 688506
+    url: /works/688506/
   - title: Taihai Tsuma 2 Taihaikei Hitozuma o Yachin Kawari ni Koki Tsukaeru Hanashi
     author: kametaro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688528.jpg

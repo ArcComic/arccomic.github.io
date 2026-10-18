@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "full color"
-work_count: 268
+work_count: 269
 works:
   - title: Pai☆Panic ~Hasamareta Dekapai~
     author: inkey
@@ -1959,4 +1959,12 @@ works:
     date: '2026-10-15'
     code: 687557
     url: /works/687557/
+  - title: '"Kami no Daigosan" Hahaoya to Musuko ga Doujiki ni Seiyoku no Peak o Mukaete
+      Shimau!! | Mother and son hit their peak libido at the very same time!!'
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688506.jpg
+    rating: 0.0
+    date: '2026-10-18'
+    code: 688506
+    url: /works/688506/
 ---

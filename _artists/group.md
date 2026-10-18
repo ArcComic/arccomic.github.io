@@ -1,7 +1,7 @@
 ---
 layout: artist
 artist_name: "group"
-work_count: 38
+work_count: 39
 works:
   - title: Shitsurakuen | Paradise Lost
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/463749.jpg
@@ -243,4 +243,11 @@ works:
     date: '2026-10-15'
     code: 687557
     url: /works/687557/
+  - title: '"Kami no Daigosan" Hahaoya to Musuko ga Doujiki ni Seiyoku no Peak o Mukaete
+      Shimau!! | Mother and son hit their peak libido at the very same time!!'
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688506.jpg
+    rating: 0.0
+    date: '2026-10-18'
+    code: 688506
+    url: /works/688506/
 ---

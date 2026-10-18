@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "beauty mark"
-work_count: 228
+work_count: 229
 works:
   - title: Uragiri no Ai wa Mitsu no Aji | Treacherous Love Tastes Like Honey
     author: cuzukago
@@ -358,6 +358,14 @@ works:
     date: '2026-09-12'
     code: 494757
     url: /works/494757/
+  - title: Musume no Tomodachi ga Yuuwaku Suru 2 | My Daughter's Friend Is Seducing
+      Me 2
+    author: jingrock
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/495845.jpg
+    rating: 0.0
+    date: '2026-10-18'
+    code: 495845
+    url: /works/495845/
   - title: Irekawatte Dotabata Ecchi! ~Aya-nee no Binkan na Karada ni Ore wa Taerarenai
       | Switch bodies and have noisy sex! I can't stand Ayanee's sensitive body 1-6
     author: suishin-tenra

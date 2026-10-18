@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "very long hair"
-work_count: 68
+work_count: 69
 works:
   - title: Joshikousei Sennyuu Repo ~Hanzaisha ga Onnanoko ni Hyoui shite mita~
     author: touchuu-kasou
@@ -513,4 +513,11 @@ works:
     date: '2026-10-17'
     code: 688259
     url: /works/688259/
+  - title: Tatoeba Konna Million Theater vol. 19 Juunengo no Ogami Tamaki
+    author: binsen
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688546.jpg
+    rating: 0.0
+    date: '2026-10-18'
+    code: 688546
+    url: /works/688546/
 ---
