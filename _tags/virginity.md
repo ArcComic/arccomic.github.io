@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "virginity"
-work_count: 163
+work_count: 164
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -225,7 +225,7 @@ works:
   - title: Natsu Asobi | Summer Play
     author: ame-arare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/416852.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-10-17'
     code: 416852
     url: /works/416852/
@@ -1209,4 +1209,12 @@ works:
     date: '2026-10-15'
     code: 687770
     url: /works/687770/
+  - title: Teisoutai-tsuki Chikubi Zeme to Gyaku Anal de Mesuochisaseru Nurse no Onee-san
+      | Nurse Onee-san's Masochist Examination Test
+    author: manjuuko-san
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688413.jpg
+    rating: 4.3
+    date: '2026-10-18'
+    code: 688413
+    url: /works/688413/
 ---

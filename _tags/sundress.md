@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sundress"
-work_count: 5
+work_count: 6
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -39,4 +39,11 @@ works:
     date: '2026-09-26'
     code: 684142
     url: /works/684142/
+  - title: Taihai Tsuma 2 Taihaikei Hitozuma o Yachin Kawari ni Koki Tsukaeru Hanashi
+    author: kametaro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688528.jpg
+    rating: 0.0
+    date: '2026-10-18'
+    code: 688528
+    url: /works/688528/
 ---

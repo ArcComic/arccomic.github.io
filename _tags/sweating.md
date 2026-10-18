@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sweating"
-work_count: 191
+work_count: 192
 works:
   - title: Kaisha de Iroiro | Gettin' Busy at the Office
     author: hara-shigeyuki
@@ -215,7 +215,7 @@ works:
   - title: Natsu Asobi | Summer Play
     author: ame-arare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/416852.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-10-17'
     code: 416852
     url: /works/416852/
@@ -1431,4 +1431,11 @@ works:
     date: '2026-10-15'
     code: 687701
     url: /works/687701/
+  - title: Taihai Tsuma 2 Taihaikei Hitozuma o Yachin Kawari ni Koki Tsukaeru Hanashi
+    author: kametaro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688528.jpg
+    rating: 0.0
+    date: '2026-10-18'
+    code: 688528
+    url: /works/688528/
 ---

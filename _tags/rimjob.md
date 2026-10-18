@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "rimjob"
-work_count: 51
+work_count: 52
 works:
   - title: Hitozuma Hyakka
     author: hase-tsubura
@@ -384,6 +384,13 @@ works:
     date: '2026-10-13'
     code: 686966
     url: /works/686966/
+  - title: Yarasete Yaru tte Itten no! 2 | I'm saying I'll let you do it! 2
+    author: mikage
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688480.jpg
+    rating: 5.0
+    date: '2026-10-18'
+    code: 688480
+    url: /works/688480/
   - title: Jokyoushi - Hot For Teachers | Female Teachers
     author: drill-murata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/81375.jpg

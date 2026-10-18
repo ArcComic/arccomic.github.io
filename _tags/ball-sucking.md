@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "ball sucking"
-work_count: 30
+work_count: 31
 works:
   - title: 'Kouen no Bench ni Suwatteru Kirei na Onee-san ga Boku ni "Ochinchin o Misete"
       to Itte Kuru no de... | A Pretty Onee-San, that''s sitting on a Bench in the Park...suddenly
@@ -229,4 +229,11 @@ works:
     date: '2026-10-13'
     code: 686966
     url: /works/686966/
+  - title: Yarasete Yaru tte Itten no! 2 | I'm saying I'll let you do it! 2
+    author: mikage
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688480.jpg
+    rating: 5.0
+    date: '2026-10-18'
+    code: 688480
+    url: /works/688480/
 ---

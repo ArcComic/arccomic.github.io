@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "short-haired female"
-work_count: 58
+work_count: 59
 works:
   - title: Onee-chan ga Ecchi na Koto bakka Suru kara... | My older sister only does
       obscene things...
@@ -452,4 +452,12 @@ works:
     date: '2026-10-12'
     code: 686737
     url: /works/686737/
+  - title: Choushin Boyish Osananajimi wa Dakaretai | My tall boyish childhood friend
+      wants to be hugged
+    author: misaoka
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687968.jpg
+    rating: 4.4
+    date: '2026-10-17'
+    code: 687968
+    url: /works/687968/
 ---

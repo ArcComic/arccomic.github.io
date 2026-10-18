@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "prostate massage"
-work_count: 21
+work_count: 22
 works:
   - title: Yuri no o saifu ni shite agemasu ne, Senpai | I'll turn you into Yuri's wallet,
       Senpai
@@ -142,10 +142,18 @@ works:
       Elf Onee-san who's making me wear a Chastity Belt
     author: manjuuko-san
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688150.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-10-17'
     code: 688150
     url: /works/688150/
+  - title: Teisoutai-tsuki Chikubi Zeme to Gyaku Anal de Mesuochisaseru Nurse no Onee-san
+      | Nurse Onee-san's Masochist Examination Test
+    author: manjuuko-san
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688413.jpg
+    rating: 4.3
+    date: '2026-10-18'
+    code: 688413
+    url: /works/688413/
   - title: Jokyoushi - Hot For Teachers | Female Teachers
     author: drill-murata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/81375.jpg

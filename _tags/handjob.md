@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "handjob"
-work_count: 156
+work_count: 158
 works:
   - title: Rin to P
     author: simon
@@ -1160,10 +1160,25 @@ works:
       Otouto no Osewa wa Taihen!~
     author: aitoka-nantoka
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688289.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-10-17'
     code: 688289
     url: /works/688289/
+  - title: Teisoutai-tsuki Chikubi Zeme to Gyaku Anal de Mesuochisaseru Nurse no Onee-san
+      | Nurse Onee-san's Masochist Examination Test
+    author: manjuuko-san
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688413.jpg
+    rating: 4.3
+    date: '2026-10-18'
+    code: 688413
+    url: /works/688413/
+  - title: Yarasete Yaru tte Itten no! 2 | I'm saying I'll let you do it! 2
+    author: mikage
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688480.jpg
+    rating: 5.0
+    date: '2026-10-18'
+    code: 688480
+    url: /works/688480/
   - title: Onee-chan no SM Kouza | Onee-chan's S&M Lecture
     author: shinooka-homare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/88750.jpg

@@ -84,7 +84,7 @@ works:
   - title: Toshoshitsu no Kanojo ~Seiso na Kimi ga Ochiru made~
     author: ame-arare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/299071.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-17'
     code: 299071
     url: /works/299071/
@@ -314,7 +314,7 @@ works:
   - title: Natsu Asobi | Summer Play
     author: ame-arare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/416852.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-10-17'
     code: 416852
     url: /works/416852/
@@ -860,7 +860,7 @@ works:
   - title: Mesu no Ie II ~Tsuma wa Midare Ubareru~ + C106 Limited Book
     author: ame-arare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/593158.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-17'
     code: 593158
     url: /works/593158/
@@ -2783,7 +2783,7 @@ works:
   - title: Steady Study Ch. 1-18
     author: yuumi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688163.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-10-17'
     code: 688163
     url: /works/688163/

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "glasses"
-work_count: 296
+work_count: 297
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -460,7 +460,7 @@ works:
   - title: Kioku Soushitsu NTR - Kareshi no Shinyuu ni Hamerare Tsuzuketa 10-kakan -
     author: wes-heartland-smith
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/502563.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-17'
     code: 502563
     url: /works/502563/
@@ -2146,7 +2146,7 @@ works:
       wants to be hugged
     author: misaoka
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687968.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-10-17'
     code: 687968
     url: /works/687968/
@@ -2154,10 +2154,17 @@ works:
       Otouto no Osewa wa Taihen!~
     author: aitoka-nantoka
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688289.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-10-17'
     code: 688289
     url: /works/688289/
+  - title: Yarasete Yaru tte Itten no! 2 | I'm saying I'll let you do it! 2
+    author: mikage
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688480.jpg
+    rating: 5.0
+    date: '2026-10-18'
+    code: 688480
+    url: /works/688480/
   - title: Hottokenaino
     author: hara-shigeyuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/77864.jpg

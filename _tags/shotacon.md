@@ -1074,7 +1074,7 @@ works:
       Seiyoku Obake de Koukaishita Hanashi
     author: fuzui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688156.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-10-17'
     code: 688156
     url: /works/688156/
@@ -1082,7 +1082,7 @@ works:
       Otouto no Osewa wa Taihen!~
     author: aitoka-nantoka
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688289.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-10-17'
     code: 688289
     url: /works/688289/

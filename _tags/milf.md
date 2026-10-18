@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "milf"
-work_count: 491
+work_count: 492
 works:
   - title: Life with Married Women Just Like a Manga 2 - Ch. 1-5
     author: hidemaru
@@ -1444,7 +1444,7 @@ works:
   - title: Mesu no Ie II ~Tsuma wa Midare Ubareru~ + C106 Limited Book
     author: ame-arare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/593158.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-17'
     code: 593158
     url: /works/593158/
@@ -3580,7 +3580,7 @@ works:
   - title: Tomodachi no Mama ga Boku no Dekachin de Ikimakutta Halloween
     author: rk-2
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688157.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-10-17'
     code: 688157
     url: /works/688157/
@@ -3588,10 +3588,17 @@ works:
       Otouto no Osewa wa Taihen!~
     author: aitoka-nantoka
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688289.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-10-17'
     code: 688289
     url: /works/688289/
+  - title: Taihai Tsuma 2 Taihaikei Hitozuma o Yachin Kawari ni Koki Tsukaeru Hanashi
+    author: kametaro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688528.jpg
+    rating: 0.0
+    date: '2026-10-18'
+    code: 688528
+    url: /works/688528/
   - title: Jokyoushi - Hot For Teachers | Female Teachers
     author: drill-murata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/81375.jpg

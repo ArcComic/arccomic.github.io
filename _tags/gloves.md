@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "gloves"
-work_count: 38
+work_count: 39
 works:
   - title: Yuri no o saifu ni shite agemasu ne, Senpai | I'll turn you into Yuri's wallet,
       Senpai
@@ -283,4 +283,12 @@ works:
     date: '2026-10-13'
     code: 687044
     url: /works/687044/
+  - title: Teisoutai-tsuki Chikubi Zeme to Gyaku Anal de Mesuochisaseru Nurse no Onee-san
+      | Nurse Onee-san's Masochist Examination Test
+    author: manjuuko-san
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688413.jpg
+    rating: 4.3
+    date: '2026-10-18'
+    code: 688413
+    url: /works/688413/
 ---

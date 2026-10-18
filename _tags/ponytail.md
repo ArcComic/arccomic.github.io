@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "ponytail"
-work_count: 183
+work_count: 185
 works:
   - title: Ami Mami Mind 5
     author: tsurui
@@ -173,7 +173,7 @@ works:
   - title: Kioku Soushitsu NTR - Kareshi no Shinyuu ni Hamerare Tsuzuketa 10-kakan -
     author: wes-heartland-smith
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/502563.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-17'
     code: 502563
     url: /works/502563/
@@ -1351,4 +1351,19 @@ works:
     date: '2026-10-15'
     code: 687770
     url: /works/687770/
+  - title: Teisoutai-tsuki Chikubi Zeme to Gyaku Anal de Mesuochisaseru Nurse no Onee-san
+      | Nurse Onee-san's Masochist Examination Test
+    author: manjuuko-san
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688413.jpg
+    rating: 4.3
+    date: '2026-10-18'
+    code: 688413
+    url: /works/688413/
+  - title: Taihai Tsuma 2 Taihaikei Hitozuma o Yachin Kawari ni Koki Tsukaeru Hanashi
+    author: kametaro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688528.jpg
+    rating: 0.0
+    date: '2026-10-18'
+    code: 688528
+    url: /works/688528/
 ---

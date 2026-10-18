@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "multi-work series"
-work_count: 432
+work_count: 434
 works:
   - title: Konna ni mo Itooshii Zero
     author: nohito
@@ -69,7 +69,7 @@ works:
   - title: Toshoshitsu no Kanojo ~Seiso na Kimi ga Ochiru made~
     author: ame-arare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/299071.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-17'
     code: 299071
     url: /works/299071/
@@ -1055,7 +1055,7 @@ works:
   - title: Mesu no Ie II ~Tsuma wa Midare Ubareru~ + C106 Limited Book
     author: ame-arare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/593158.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-17'
     code: 593158
     url: /works/593158/
@@ -3202,7 +3202,7 @@ works:
       wants to be hugged
     author: misaoka
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687968.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-10-17'
     code: 687968
     url: /works/687968/
@@ -3210,21 +3210,21 @@ works:
       Seiyoku Obake de Koukaishita Hanashi
     author: fuzui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688156.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-10-17'
     code: 688156
     url: /works/688156/
   - title: Tomodachi no Mama ga Boku no Dekachin de Ikimakutta Halloween
     author: rk-2
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688157.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-10-17'
     code: 688157
     url: /works/688157/
   - title: Steady Study Ch. 1-18
     author: yuumi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688163.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-10-17'
     code: 688163
     url: /works/688163/
@@ -3232,8 +3232,22 @@ works:
       1-21
     author: rojiro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688175.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-10-17'
     code: 688175
     url: /works/688175/
+  - title: Yarasete Yaru tte Itten no! 2 | I'm saying I'll let you do it! 2
+    author: mikage
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688480.jpg
+    rating: 5.0
+    date: '2026-10-18'
+    code: 688480
+    url: /works/688480/
+  - title: Taihai Tsuma 2 Taihaikei Hitozuma o Yachin Kawari ni Koki Tsukaeru Hanashi
+    author: kametaro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688528.jpg
+    rating: 0.0
+    date: '2026-10-18'
+    code: 688528
+    url: /works/688528/
 ---

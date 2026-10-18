@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole female"
-work_count: 1078
+work_count: 1079
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -317,7 +317,7 @@ works:
   - title: Toshoshitsu no Kanojo ~Seiso na Kimi ga Ochiru made~
     author: ame-arare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/299071.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-17'
     code: 299071
     url: /works/299071/
@@ -1050,7 +1050,7 @@ works:
   - title: Natsu Asobi | Summer Play
     author: ame-arare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/416852.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-10-17'
     code: 416852
     url: /works/416852/
@@ -1670,7 +1670,7 @@ works:
   - title: Kioku Soushitsu NTR - Kareshi no Shinyuu ni Hamerare Tsuzuketa 10-kakan -
     author: wes-heartland-smith
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/502563.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-17'
     code: 502563
     url: /works/502563/
@@ -7933,7 +7933,7 @@ works:
       wants to be hugged
     author: misaoka
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687968.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-10-17'
     code: 687968
     url: /works/687968/
@@ -7941,7 +7941,7 @@ works:
       Elf Onee-san who's making me wear a Chastity Belt
     author: manjuuko-san
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688150.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-10-17'
     code: 688150
     url: /works/688150/
@@ -7949,21 +7949,21 @@ works:
       Seiyoku Obake de Koukaishita Hanashi
     author: fuzui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688156.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-10-17'
     code: 688156
     url: /works/688156/
   - title: Tomodachi no Mama ga Boku no Dekachin de Ikimakutta Halloween
     author: rk-2
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688157.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-10-17'
     code: 688157
     url: /works/688157/
   - title: Steady Study Ch. 1-18
     author: yuumi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688163.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-10-17'
     code: 688163
     url: /works/688163/
@@ -7971,10 +7971,17 @@ works:
       1-21
     author: rojiro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688175.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-10-17'
     code: 688175
     url: /works/688175/
+  - title: Taihai Tsuma 2 Taihaikei Hitozuma o Yachin Kawari ni Koki Tsukaeru Hanashi
+    author: kametaro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688528.jpg
+    rating: 0.0
+    date: '2026-10-18'
+    code: 688528
+    url: /works/688528/
   - title: Ranko-ppoi no! | Ranko-Ish!
     author: napata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/87393.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "ball caressing"
-work_count: 3
+work_count: 4
 works:
   - title: DeliHeal Yondara Moto Doukyuusei ga Kita ~Polynesian Sex  6-kame~
     author: tatsuwaipu
@@ -25,4 +25,12 @@ works:
     date: '2026-10-05'
     code: 685928
     url: /works/685928/
+  - title: Teisoutai-tsuki Chikubi Zeme to Gyaku Anal de Mesuochisaseru Nurse no Onee-san
+      | Nurse Onee-san's Masochist Examination Test
+    author: manjuuko-san
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688413.jpg
+    rating: 4.3
+    date: '2026-10-18'
+    code: 688413
+    url: /works/688413/
 ---

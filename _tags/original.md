@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "original"
-work_count: 1204
+work_count: 1207
 works:
   - title: Natsu dake Koibito - Summer only Lover [English] =Forbidden Fetish + Ser
       Maggot=
@@ -79,7 +79,7 @@ works:
   - title: Toshoshitsu no Kanojo ~Seiso na Kimi ga Ochiru made~
     author: ame-arare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/299071.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-17'
     code: 299071
     url: /works/299071/
@@ -1188,7 +1188,7 @@ works:
   - title: Kioku Soushitsu NTR - Kareshi no Shinyuu ni Hamerare Tsuzuketa 10-kakan -
     author: wes-heartland-smith
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/502563.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-17'
     code: 502563
     url: /works/502563/
@@ -2569,7 +2569,7 @@ works:
   - title: Mesu no Ie II ~Tsuma wa Midare Ubareru~ + C106 Limited Book
     author: ame-arare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/593158.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-17'
     code: 593158
     url: /works/593158/
@@ -8917,7 +8917,7 @@ works:
       wants to be hugged
     author: misaoka
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687968.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-10-17'
     code: 687968
     url: /works/687968/
@@ -8925,7 +8925,7 @@ works:
       Elf Onee-san who's making me wear a Chastity Belt
     author: manjuuko-san
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688150.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-10-17'
     code: 688150
     url: /works/688150/
@@ -8933,21 +8933,21 @@ works:
       Seiyoku Obake de Koukaishita Hanashi
     author: fuzui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688156.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-10-17'
     code: 688156
     url: /works/688156/
   - title: Tomodachi no Mama ga Boku no Dekachin de Ikimakutta Halloween
     author: rk-2
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688157.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-10-17'
     code: 688157
     url: /works/688157/
   - title: Insectarium - How I Supported My Sister
     author: amano-teru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688166.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-10-17'
     code: 688166
     url: /works/688166/
@@ -8955,8 +8955,30 @@ works:
       Otouto no Osewa wa Taihen!~
     author: aitoka-nantoka
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688289.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-10-17'
     code: 688289
     url: /works/688289/
+  - title: Teisoutai-tsuki Chikubi Zeme to Gyaku Anal de Mesuochisaseru Nurse no Onee-san
+      | Nurse Onee-san's Masochist Examination Test
+    author: manjuuko-san
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688413.jpg
+    rating: 4.3
+    date: '2026-10-18'
+    code: 688413
+    url: /works/688413/
+  - title: Yarasete Yaru tte Itten no! 2 | I'm saying I'll let you do it! 2
+    author: mikage
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688480.jpg
+    rating: 5.0
+    date: '2026-10-18'
+    code: 688480
+    url: /works/688480/
+  - title: Taihai Tsuma 2 Taihaikei Hitozuma o Yachin Kawari ni Koki Tsukaeru Hanashi
+    author: kametaro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688528.jpg
+    rating: 0.0
+    date: '2026-10-18'
+    code: 688528
+    url: /works/688528/
 ---

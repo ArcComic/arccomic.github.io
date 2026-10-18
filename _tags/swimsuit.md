@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "swimsuit"
-work_count: 92
+work_count: 93
 works:
   - title: Kizashi
     author: yoshiura-kazuya
@@ -97,7 +97,7 @@ works:
   - title: Kioku Soushitsu NTR - Kareshi no Shinyuu ni Hamerare Tsuzuketa 10-kakan -
     author: wes-heartland-smith
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/502563.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-17'
     code: 502563
     url: /works/502563/
@@ -696,8 +696,15 @@ works:
   - title: Tomodachi no Mama ga Boku no Dekachin de Ikimakutta Halloween
     author: rk-2
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688157.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-10-17'
     code: 688157
     url: /works/688157/
+  - title: Taihai Tsuma 2 Taihaikei Hitozuma o Yachin Kawari ni Koki Tsukaeru Hanashi
+    author: kametaro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688528.jpg
+    rating: 0.0
+    date: '2026-10-18'
+    code: 688528
+    url: /works/688528/
 ---

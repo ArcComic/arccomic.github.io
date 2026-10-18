@@ -347,7 +347,7 @@ works:
   - title: Side Sex
     author: nekoi-mie
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/598715.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-17'
     code: 598715
     url: /works/598715/
@@ -805,7 +805,7 @@ works:
       Elf Onee-san who's making me wear a Chastity Belt
     author: manjuuko-san
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688150.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-10-17'
     code: 688150
     url: /works/688150/

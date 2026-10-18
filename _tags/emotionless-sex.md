@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "emotionless sex"
-work_count: 25
+work_count: 26
 works:
   - title: Maid no Oshigoto. II | Maid's Work II
     author: alexi-laiho
@@ -197,4 +197,11 @@ works:
     date: '2026-10-07'
     code: 686100
     url: /works/686100/
+  - title: Taihai Tsuma 2 Taihaikei Hitozuma o Yachin Kawari ni Koki Tsukaeru Hanashi
+    author: kametaro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688528.jpg
+    rating: 0.0
+    date: '2026-10-18'
+    code: 688528
+    url: /works/688528/
 ---

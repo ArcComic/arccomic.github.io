@@ -98,7 +98,7 @@ works:
   - title: Toshoshitsu no Kanojo ~Seiso na Kimi ga Ochiru made~
     author: ame-arare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/299071.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-17'
     code: 299071
     url: /works/299071/
@@ -1803,21 +1803,21 @@ works:
   - title: Tomodachi no Mama ga Boku no Dekachin de Ikimakutta Halloween
     author: rk-2
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688157.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-10-17'
     code: 688157
     url: /works/688157/
   - title: Steady Study Ch. 1-18
     author: yuumi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688163.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-10-17'
     code: 688163
     url: /works/688163/
   - title: ZenZero Icha Love Ero Goudou "ZenEro" Vol.3
     author: ekakibit
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688293.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-10-17'
     code: 688293
     url: /works/688293/

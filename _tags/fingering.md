@@ -547,7 +547,7 @@ works:
   - title: Mesu no Ie II ~Tsuma wa Midare Ubareru~ + C106 Limited Book
     author: ame-arare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/593158.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-17'
     code: 593158
     url: /works/593158/
@@ -1481,14 +1481,14 @@ works:
   - title: Steady Study Ch. 1-18
     author: yuumi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688163.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-10-17'
     code: 688163
     url: /works/688163/
   - title: Himitsu ni Shite yo ne | Keep This a Secret, Okay?
     author: haji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688259.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-10-17'
     code: 688259
     url: /works/688259/

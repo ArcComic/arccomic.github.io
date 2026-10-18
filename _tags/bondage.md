@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bondage"
-work_count: 114
+work_count: 115
 works:
   - title: Pai☆Panic ~Hasamareta Dekapai~
     author: inkey
@@ -816,24 +816,32 @@ works:
       Elf Onee-san who's making me wear a Chastity Belt
     author: manjuuko-san
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688150.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-10-17'
     code: 688150
     url: /works/688150/
   - title: Insectarium - How I Supported My Sister
     author: amano-teru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688166.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-10-17'
     code: 688166
     url: /works/688166/
   - title: ZenZero Icha Love Ero Goudou "ZenEro" Vol.3
     author: ekakibit
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688293.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-10-17'
     code: 688293
     url: /works/688293/
+  - title: Teisoutai-tsuki Chikubi Zeme to Gyaku Anal de Mesuochisaseru Nurse no Onee-san
+      | Nurse Onee-san's Masochist Examination Test
+    author: manjuuko-san
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688413.jpg
+    rating: 4.3
+    date: '2026-10-18'
+    code: 688413
+    url: /works/688413/
   - title: Onee-chan no SM Kouza | Onee-chan's S&M Lecture
     author: shinooka-homare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/88750.jpg
