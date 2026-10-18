@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "nipple stimulation"
-work_count: 173
+work_count: 174
 works:
   - title: Hypnotic Domination ~ The Fall of Tennis Club Ace ~
     author: danchino
@@ -1299,6 +1299,14 @@ works:
     date: '2026-10-18'
     code: 688528
     url: /works/688528/
+  - title: Asettarashi 0 183cm no Akujiki Deka Onna /  Covered In Sweat 0 - The Huge
+      183cm-Tall Gluttonous Girl
+    author: fuetakishi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688582.jpg
+    rating: 0.0
+    date: '2026-10-18'
+    code: 688582
+    url: /works/688582/
   - title: Tachiba Gyakuten ~ PowerHara o Suru Gibo no Onanie ga Toreta node Shitagawaseru
       Koto ni Shita
     author: shimipan

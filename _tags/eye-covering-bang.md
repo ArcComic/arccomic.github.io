@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "eye-covering bang"
-work_count: 82
+work_count: 83
 works:
   - title: Kanojo no Amai Jiraishuu
     author: jirou
@@ -620,4 +620,12 @@ works:
     date: '2026-10-17'
     code: 688157
     url: /works/688157/
+  - title: Asettarashi 0 183cm no Akujiki Deka Onna /  Covered In Sweat 0 - The Huge
+      183cm-Tall Gluttonous Girl
+    author: fuetakishi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688582.jpg
+    rating: 0.0
+    date: '2026-10-18'
+    code: 688582
+    url: /works/688582/
 ---

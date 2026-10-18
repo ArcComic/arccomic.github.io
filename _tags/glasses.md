@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "glasses"
-work_count: 297
+work_count: 298
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -2165,6 +2165,14 @@ works:
     date: '2026-10-18'
     code: 688480
     url: /works/688480/
+  - title: Tenchou tte, Kyonyuu de Chotto M desu yo ne? 2 | The Boss Has Big Breasts
+      And Is A Bit of A Masochist, Right? 2
+    author: tamagou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688607.jpg
+    rating: 0.0
+    date: '2026-10-18'
+    code: 688607
+    url: /works/688607/
   - title: Hottokenaino
     author: hara-shigeyuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/77864.jpg

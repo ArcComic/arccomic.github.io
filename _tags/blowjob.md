@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "blowjob"
-work_count: 718
+work_count: 720
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -287,6 +287,13 @@ works:
     date: '2026-04-23'
     code: 329551
     url: /works/329551/
+  - title: Karami Zakari vol. 3 | Entanglement vol. 3
+    author: katsura-airi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/336370.jpg
+    rating: 0.0
+    date: '2026-10-18'
+    code: 336370
+    url: /works/336370/
   - title: Homestay-chu no Doitsu Musume ga Issho ni Furo ni Haitte Kuru Wake | The
       Reason Why a German Girl Takes a Bath Together With Me on Her Homestay
     author: gentsuki
@@ -5313,6 +5320,14 @@ works:
     date: '2026-10-18'
     code: 688528
     url: /works/688528/
+  - title: Asettarashi 0 183cm no Akujiki Deka Onna /  Covered In Sweat 0 - The Huge
+      183cm-Tall Gluttonous Girl
+    author: fuetakishi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688582.jpg
+    rating: 0.0
+    date: '2026-10-18'
+    code: 688582
+    url: /works/688582/
   - title: Tannin no Meido ni Nacchatta KURO GAL 4
     author: ootsuka-kotora
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688600.jpg

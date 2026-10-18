@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole female"
-work_count: 1081
+work_count: 1083
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -7982,6 +7982,14 @@ works:
     date: '2026-10-18'
     code: 688528
     url: /works/688528/
+  - title: Asettarashi 0 183cm no Akujiki Deka Onna /  Covered In Sweat 0 - The Huge
+      183cm-Tall Gluttonous Girl
+    author: fuetakishi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688582.jpg
+    rating: 0.0
+    date: '2026-10-18'
+    code: 688582
+    url: /works/688582/
   - title: Tannin no Meido ni Nacchatta KURO GAL 4
     author: ootsuka-kotora
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688600.jpg
@@ -7997,6 +8005,14 @@ works:
     date: '2026-10-18'
     code: 688604
     url: /works/688604/
+  - title: Tenchou tte, Kyonyuu de Chotto M desu yo ne? 2 | The Boss Has Big Breasts
+      And Is A Bit of A Masochist, Right? 2
+    author: tamagou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688607.jpg
+    rating: 0.0
+    date: '2026-10-18'
+    code: 688607
+    url: /works/688607/
   - title: Ranko-ppoi no! | Ranko-Ish!
     author: napata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/87393.jpg

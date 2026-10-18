@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "ffm threesome"
-work_count: 157
+work_count: 158
 works:
   - title: Hustle! Danchizuma Ch. 1-18 END
     author: hidemaru
@@ -45,6 +45,13 @@ works:
     date: '2026-07-09'
     code: 317673
     url: /works/317673/
+  - title: Karami Zakari vol. 3 | Entanglement vol. 3
+    author: katsura-airi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/336370.jpg
+    rating: 0.0
+    date: '2026-10-18'
+    code: 336370
+    url: /works/336370/
   - title: SUCCUBUS MONOGATARI
     author: mackgee
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/400846.jpg

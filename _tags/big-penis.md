@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big penis"
-work_count: 275
+work_count: 278
 works:
   - title: Tsuma no Imouto no Danna ga Ie ni Kiteiruyoudesu | My Sister-In-Law's Husband
       is Over
@@ -25,6 +25,13 @@ works:
     date: '2026-10-15'
     code: 327421
     url: /works/327421/
+  - title: Karami Zakari vol. 3 | Entanglement vol. 3
+    author: katsura-airi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/336370.jpg
+    rating: 0.0
+    date: '2026-10-18'
+    code: 336370
+    url: /works/336370/
   - title: Majimeni Yarimasu (Seitokaichou) Ch. 1-3
     author: ikumo-taisuke
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/346416.jpg
@@ -2048,6 +2055,14 @@ works:
     date: '2026-10-18'
     code: 688528
     url: /works/688528/
+  - title: Asettarashi 0 183cm no Akujiki Deka Onna /  Covered In Sweat 0 - The Huge
+      183cm-Tall Gluttonous Girl
+    author: fuetakishi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688582.jpg
+    rating: 0.0
+    date: '2026-10-18'
+    code: 688582
+    url: /works/688582/
   - title: Tannin no Meido ni Nacchatta KURO GAL 4
     author: ootsuka-kotora
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688600.jpg
@@ -2055,4 +2070,12 @@ works:
     date: '2026-10-18'
     code: 688600
     url: /works/688600/
+  - title: Tenchou tte, Kyonyuu de Chotto M desu yo ne? 2 | The Boss Has Big Breasts
+      And Is A Bit of A Masochist, Right? 2
+    author: tamagou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688607.jpg
+    rating: 0.0
+    date: '2026-10-18'
+    code: 688607
+    url: /works/688607/
 ---

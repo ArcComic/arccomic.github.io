@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "netorare"
-work_count: 471
+work_count: 472
 works:
   - title: Kousa suru Osu to Mesu | Male and Female Crossing
     author: ootsuka-kotora
@@ -179,6 +179,13 @@ works:
     date: '2026-04-23'
     code: 329551
     url: /works/329551/
+  - title: Karami Zakari vol. 3 | Entanglement vol. 3
+    author: katsura-airi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/336370.jpg
+    rating: 0.0
+    date: '2026-10-18'
+    code: 336370
+    url: /works/336370/
   - title: Hito no Tsuma | Someone's Wife
     author: yumi-ichirou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/349247.jpg

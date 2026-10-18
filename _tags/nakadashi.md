@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "nakadashi"
-work_count: 922
+work_count: 924
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -6820,6 +6820,14 @@ works:
     date: '2026-10-18'
     code: 688528
     url: /works/688528/
+  - title: Asettarashi 0 183cm no Akujiki Deka Onna /  Covered In Sweat 0 - The Huge
+      183cm-Tall Gluttonous Girl
+    author: fuetakishi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688582.jpg
+    rating: 0.0
+    date: '2026-10-18'
+    code: 688582
+    url: /works/688582/
   - title: Tannin no Meido ni Nacchatta KURO GAL 4
     author: ootsuka-kotora
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688600.jpg
@@ -6835,6 +6843,14 @@ works:
     date: '2026-10-18'
     code: 688604
     url: /works/688604/
+  - title: Tenchou tte, Kyonyuu de Chotto M desu yo ne? 2 | The Boss Has Big Breasts
+      And Is A Bit of A Masochist, Right? 2
+    author: tamagou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688607.jpg
+    rating: 0.0
+    date: '2026-10-18'
+    code: 688607
+    url: /works/688607/
   - title: Inin Keiyaku | Lewd Pregnancy Contract
     author: yoshiura-kazuya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/83595.jpg

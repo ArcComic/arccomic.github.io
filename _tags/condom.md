@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "condom"
-work_count: 240
+work_count: 242
 works:
   - title: Kaisha de Iroiro | Gettin' Busy at the Office
     author: hara-shigeyuki
@@ -122,6 +122,13 @@ works:
     date: '2026-09-18'
     code: 333923
     url: /works/333923/
+  - title: Karami Zakari vol. 3 | Entanglement vol. 3
+    author: katsura-airi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/336370.jpg
+    rating: 0.0
+    date: '2026-10-18'
+    code: 336370
+    url: /works/336370/
   - title: Onee-chan ga Ecchi na Koto bakka Suru kara... | My older sister only does
       obscene things...
     author: danimaru
@@ -1772,6 +1779,14 @@ works:
     date: '2026-10-15'
     code: 687770
     url: /works/687770/
+  - title: Tenchou tte, Kyonyuu de Chotto M desu yo ne? 2 | The Boss Has Big Breasts
+      And Is A Bit of A Masochist, Right? 2
+    author: tamagou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688607.jpg
+    rating: 0.0
+    date: '2026-10-18'
+    code: 688607
+    url: /works/688607/
   - title: Ranko-ppoi no! | Ranko-Ish!
     author: napata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/87393.jpg
