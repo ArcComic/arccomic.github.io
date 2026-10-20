@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big breasts"
-work_count: 1251
+work_count: 1253
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -9251,6 +9251,21 @@ works:
     date: '2026-10-18'
     code: 688604
     url: /works/688604/
+  - title: Kanrinin-san | Landlady
+    author: sanbaizu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688608.jpg
+    rating: 0.0
+    date: '2026-10-20'
+    code: 688608
+    url: /works/688608/
+  - title: DeliHeal Yondara Haha datta node Sono Mama Kai Nagasu Koto ni Shita Hen |
+      The Call Girl Turned Out To Be My Mom So I Decided To Tame Her
+    author: ameto-yuki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688613.jpg
+    rating: 4.2
+    date: '2026-10-20'
+    code: 688613
+    url: /works/688613/
   - title: Hottokenaino
     author: hara-shigeyuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/77864.jpg

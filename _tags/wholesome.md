@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "wholesome"
-work_count: 218
+work_count: 219
 works:
   - title: FLUFFY LAUGH GIRL
     author: shibasaki-syouzi
@@ -534,6 +534,13 @@ works:
     date: '2026-09-04'
     code: 586417
     url: /works/586417/
+  - title: Miwaku-teki na Omae ga Warui
+    author: yonayona
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/587417.jpg
+    rating: 0.0
+    date: '2026-10-20'
+    code: 587417
+    url: /works/587417/
   - title: Motto, Shitemitai. - I want to do it more.
     author: danimaru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/587724.jpg

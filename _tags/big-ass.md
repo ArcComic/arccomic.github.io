@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big ass"
-work_count: 282
+work_count: 283
 works:
   - title: My Care Lady Ch. 1
     author: sugi-g
@@ -2108,6 +2108,13 @@ works:
     date: '2026-10-18'
     code: 688600
     url: /works/688600/
+  - title: Kanrinin-san | Landlady
+    author: sanbaizu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688608.jpg
+    rating: 0.0
+    date: '2026-10-20'
+    code: 688608
+    url: /works/688608/
   - title: Inin Keiyaku | Lewd Pregnancy Contract
     author: yoshiura-kazuya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/83595.jpg

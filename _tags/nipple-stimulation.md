@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "nipple stimulation"
-work_count: 180
+work_count: 181
 works:
   - title: Hypnotic Domination ~ The Fall of Tennis Club Ace ~
     author: danchino
@@ -222,6 +222,13 @@ works:
     date: '2026-08-24'
     code: 584934
     url: /works/584934/
+  - title: Miwaku-teki na Omae ga Warui
+    author: yonayona
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/587417.jpg
+    rating: 0.0
+    date: '2026-10-20'
+    code: 587417
+    url: /works/587417/
   - title: Kyoya, My Childhood Friend Rapes Me In My Dream...
     author: danimaru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/587827.jpg

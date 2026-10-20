@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "urination"
-work_count: 53
+work_count: 54
 works:
   - title: Boku no Kazoku o Sarashimasu Ch. 3
     author: tanaka-aji
@@ -160,6 +160,13 @@ works:
     date: '2026-04-19'
     code: 580427
     url: /works/580427/
+  - title: Miwaku-teki na Omae ga Warui
+    author: yonayona
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/587417.jpg
+    rating: 0.0
+    date: '2026-10-20'
+    code: 587417
+    url: /works/587417/
   - title: Chijo Monogatari Henshitsusha (Onna) Shutsubotsu Chuu
     author: enma
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/588713.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "asphyxiation"
-work_count: 24
+work_count: 25
 works:
   - title: My Dress Up Corpse
     author: mr-kurz
@@ -62,6 +62,13 @@ works:
     date: '2026-05-05'
     code: 578147
     url: /works/578147/
+  - title: Miwaku-teki na Omae ga Warui
+    author: yonayona
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/587417.jpg
+    rating: 0.0
+    date: '2026-10-20'
+    code: 587417
+    url: /works/587417/
   - title: Seiso de Kawaii Anoko ga Sex o Shitta Hi no Hanashi. | The Day That Cute
       and Innocent Girl Experienced Sex for the First Time.
     author: yamakonbu

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "original"
-work_count: 1232
+work_count: 1235
 works:
   - title: Natsu dake Koibito - Summer only Lover [English] =Forbidden Fetish + Ser
       Maggot=
@@ -2494,6 +2494,13 @@ works:
     date: '2026-07-17'
     code: 585515
     url: /works/585515/
+  - title: Miwaku-teki na Omae ga Warui
+    author: yonayona
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/587417.jpg
+    rating: 0.0
+    date: '2026-10-20'
+    code: 587417
+    url: /works/587417/
   - title: Kyoya, My Childhood Friend Rapes Me In My Dream...
     author: danimaru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/587827.jpg
@@ -9173,4 +9180,19 @@ works:
     date: '2026-10-18'
     code: 688607
     url: /works/688607/
+  - title: Kanrinin-san | Landlady
+    author: sanbaizu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688608.jpg
+    rating: 0.0
+    date: '2026-10-20'
+    code: 688608
+    url: /works/688608/
+  - title: DeliHeal Yondara Haha datta node Sono Mama Kai Nagasu Koto ni Shita Hen |
+      The Call Girl Turned Out To Be My Mom So I Decided To Tame Her
+    author: ameto-yuki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688613.jpg
+    rating: 4.2
+    date: '2026-10-20'
+    code: 688613
+    url: /works/688613/
 ---

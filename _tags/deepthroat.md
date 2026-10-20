@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "deepthroat"
-work_count: 99
+work_count: 100
 works:
   - title: Toshishita Chin Kui Obasan
     author: maccha-neji
@@ -129,6 +129,13 @@ works:
     date: '2026-09-26'
     code: 583437
     url: /works/583437/
+  - title: Miwaku-teki na Omae ga Warui
+    author: yonayona
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/587417.jpg
+    rating: 0.0
+    date: '2026-10-20'
+    code: 587417
+    url: /works/587417/
   - title: Gal Mama SeFri - GAL MOTHER SEX FRIEND
     author: nitake-yutamaro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/603141.jpg

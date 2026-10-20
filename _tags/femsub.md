@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "femsub"
-work_count: 34
+work_count: 35
 works:
   - title: Kanojo no Amai Jiraishuu
     author: jirou
@@ -17,6 +17,13 @@ works:
     date: '2026-05-04'
     code: 484860
     url: /works/484860/
+  - title: Miwaku-teki na Omae ga Warui
+    author: yonayona
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/587417.jpg
+    rating: 0.0
+    date: '2026-10-20'
+    code: 587417
+    url: /works/587417/
   - title: Seiso de Kawaii Anoko ga Sex o Shitta Hi no Hanashi. | The Day That Cute
       and Innocent Girl Experienced Sex for the First Time.
     author: yamakonbu

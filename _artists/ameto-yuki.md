@@ -1,7 +1,7 @@
 ---
 layout: artist
 artist_name: "ameto-yuki"
-work_count: 3
+work_count: 4
 works:
   - title: Sono Gal Mama wa Koubi Suru | This Gyaru Mom is Having Sex.
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/608648.jpg
@@ -21,4 +21,11 @@ works:
     date: '2026-08-25'
     code: 672450
     url: /works/672450/
+  - title: DeliHeal Yondara Haha datta node Sono Mama Kai Nagasu Koto ni Shita Hen |
+      The Call Girl Turned Out To Be My Mom So I Decided To Tame Her
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688613.jpg
+    rating: 4.2
+    date: '2026-10-20'
+    code: 688613
+    url: /works/688613/
 ---

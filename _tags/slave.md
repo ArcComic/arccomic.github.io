@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "slave"
-work_count: 22
+work_count: 23
 works:
   - title: Komorebi no Ori
     author: hitoi
@@ -47,6 +47,13 @@ works:
     date: '2026-09-25'
     code: 580081
     url: /works/580081/
+  - title: Miwaku-teki na Omae ga Warui
+    author: yonayona
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/587417.jpg
+    rating: 0.0
+    date: '2026-10-20'
+    code: 587417
+    url: /works/587417/
   - title: Josei no Kenri ga Ushinawareta Kuni  - The Country Where Women's Rights have
       been Lost 2
     author: mokataki

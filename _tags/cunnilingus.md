@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "cunnilingus"
-work_count: 196
+work_count: 197
 works:
   - title: Love Approach
     author: hanafuda-sakurano
@@ -1453,4 +1453,11 @@ works:
     date: '2026-10-18'
     code: 688607
     url: /works/688607/
+  - title: Kanrinin-san | Landlady
+    author: sanbaizu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688608.jpg
+    rating: 0.0
+    date: '2026-10-20'
+    code: 688608
+    url: /works/688608/
 ---

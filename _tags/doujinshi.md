@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "doujinshi"
-work_count: 1530
+work_count: 1533
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -3281,6 +3281,13 @@ works:
     date: '2026-05-10'
     code: 586634
     url: /works/586634/
+  - title: Miwaku-teki na Omae ga Warui
+    author: yonayona
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/587417.jpg
+    rating: 0.0
+    date: '2026-10-20'
+    code: 587417
+    url: /works/587417/
   - title: Motto, Shitemitai. - I want to do it more.
     author: danimaru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/587724.jpg
@@ -11300,6 +11307,21 @@ works:
     date: '2026-10-18'
     code: 688607
     url: /works/688607/
+  - title: Kanrinin-san | Landlady
+    author: sanbaizu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688608.jpg
+    rating: 0.0
+    date: '2026-10-20'
+    code: 688608
+    url: /works/688608/
+  - title: DeliHeal Yondara Haha datta node Sono Mama Kai Nagasu Koto ni Shita Hen |
+      The Call Girl Turned Out To Be My Mom So I Decided To Tame Her
+    author: ameto-yuki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688613.jpg
+    rating: 4.2
+    date: '2026-10-20'
+    code: 688613
+    url: /works/688613/
   - title: Ranko-ppoi no! | Ranko-Ish!
     author: napata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/87393.jpg

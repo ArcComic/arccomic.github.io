@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "milf"
-work_count: 499
+work_count: 501
 works:
   - title: Life with Married Women Just Like a Manga 2 - Ch. 1-5
     author: hidemaru
@@ -3644,6 +3644,13 @@ works:
     date: '2026-10-18'
     code: 688604
     url: /works/688604/
+  - title: Kanrinin-san | Landlady
+    author: sanbaizu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688608.jpg
+    rating: 0.0
+    date: '2026-10-20'
+    code: 688608
+    url: /works/688608/
   - title: Koi kashira, Koi nano ka Shita | Is It Love? It's Love Isn't It?
     author: asagi-ryu-amano-miki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688612.jpg
@@ -3651,6 +3658,14 @@ works:
     date: '2026-10-20'
     code: 688612
     url: /works/688612/
+  - title: DeliHeal Yondara Haha datta node Sono Mama Kai Nagasu Koto ni Shita Hen |
+      The Call Girl Turned Out To Be My Mom So I Decided To Tame Her
+    author: ameto-yuki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688613.jpg
+    rating: 4.2
+    date: '2026-10-20'
+    code: 688613
+    url: /works/688613/
   - title: Jokyoushi - Hot For Teachers | Female Teachers
     author: drill-murata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/81375.jpg

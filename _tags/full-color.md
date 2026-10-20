@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "full color"
-work_count: 270
+work_count: 271
 works:
   - title: Pai☆Panic ~Hasamareta Dekapai~
     author: inkey
@@ -1974,4 +1974,12 @@ works:
     date: '2026-10-18'
     code: 688506
     url: /works/688506/
+  - title: DeliHeal Yondara Haha datta node Sono Mama Kai Nagasu Koto ni Shita Hen |
+      The Call Girl Turned Out To Be My Mom So I Decided To Tame Her
+    author: ameto-yuki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688613.jpg
+    rating: 4.2
+    date: '2026-10-20'
+    code: 688613
+    url: /works/688613/
 ---
