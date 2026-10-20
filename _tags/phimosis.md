@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "phimosis"
-work_count: 5
+work_count: 6
 works:
   - title: Shounen yo, Watashi o Idake. 少年,抱住我
     author: torii-yoshitsuna
@@ -17,6 +17,13 @@ works:
     date: '2026-07-06'
     code: 630901
     url: /works/630901/
+  - title: Toilet Club Rookie Misaki-chan
+    author: ishikarian
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/635866.jpg
+    rating: 0.0
+    date: '2026-10-20'
+    code: 635866
+    url: /works/635866/
   - title: My GF (ghost friend) caught me jerking off and now she's bouncing on it CRAZY
       STYLE
     author: ricegnat

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "huge breasts"
-work_count: 117
+work_count: 118
 works:
   - title: Mama Naranai Onna-tachi Ch. 1-2
     author: otochichi
@@ -362,6 +362,15 @@ works:
     date: '2026-05-27'
     code: 652790
     url: /works/652790/
+  - title: SEX Personal Trainer no Muhyoujou Kyonyuu Onee-san ni Tantan to Fude Oroshitemorau
+      Hanashi | The Story of Having My Virginity Clinically Taken by an Expressionless,
+      Big-Breasted Sex Personal Trainer
+    author: echigooriman
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654174.jpg
+    rating: 0.0
+    date: '2026-10-20'
+    code: 654174
+    url: /works/654174/
   - title: Okaa-san ni Chuu Shinasai
     author: kuruto
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654253.jpg

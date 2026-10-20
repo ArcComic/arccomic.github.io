@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "rough translation"
-work_count: 721
+work_count: 722
 works:
   - title: Boku no Shiranai Kimi no Kao
     author: utsutsu-minoru
@@ -1203,6 +1203,13 @@ works:
     date: '2026-10-01'
     code: 635510
     url: /works/635510/
+  - title: Toilet Club Rookie Misaki-chan
+    author: ishikarian
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/635866.jpg
+    rating: 0.0
+    date: '2026-10-20'
+    code: 635866
+    url: /works/635866/
   - title: Kaa-san wa Home Helper
     author: '41'
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/636389.jpg

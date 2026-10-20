@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "public use"
-work_count: 11
+work_count: 12
 works:
   - title: IKUu!! Zenkou Seito no Mae de Koukai Zecchou-saserareta JK no Matsuro 1 |
       Cumming in Front of the Entire Student Body 1
@@ -42,6 +42,13 @@ works:
     date: '2026-03-09'
     code: 635801
     url: /works/635801/
+  - title: Toilet Club Rookie Misaki-chan
+    author: ishikarian
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/635866.jpg
+    rating: 0.0
+    date: '2026-10-20'
+    code: 635866
+    url: /works/635866/
   - title: Stupid women are forced to become breeding slaves
     author: carpsukidayo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/641858.jpg

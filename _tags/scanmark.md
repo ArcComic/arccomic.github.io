@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "scanmark"
-work_count: 247
+work_count: 248
 works:
   - title: NTR Anniversary + ) [Syukurin] Mitsuha ~Netorare~ (Kimi no Na wa.) [English]
       [Colorized] by Mikaku
@@ -222,6 +222,13 @@ works:
     date: '2026-03-07'
     code: 634489
     url: /works/634489/
+  - title: Toilet Club Rookie Misaki-chan
+    author: ishikarian
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/635866.jpg
+    rating: 0.0
+    date: '2026-10-20'
+    code: 635866
+    url: /works/635866/
   - title: Kaa-san wa Home Helper
     author: '41'
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/636389.jpg

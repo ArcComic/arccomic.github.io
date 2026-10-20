@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "doujinshi"
-work_count: 1525
+work_count: 1528
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -3627,6 +3627,14 @@ works:
     date: '2026-10-11'
     code: 599165
     url: /works/599165/
+  - title: Maid no Kirina wa Bouchama ni Tsukushitai | Maid Kirina is Devoted to her
+      Young Master
+    author: kuroshiro-neko
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/599270.jpg
+    rating: 0.0
+    date: '2026-10-20'
+    code: 599270
+    url: /works/599270/
   - title: Shounen yo, Watashi o Idake. 少年,抱住我
     author: torii-yoshitsuna
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/599514.jpg
@@ -4695,6 +4703,13 @@ works:
     date: '2026-03-08'
     code: 635514
     url: /works/635514/
+  - title: Toilet Club Rookie Misaki-chan
+    author: ishikarian
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/635866.jpg
+    rating: 0.0
+    date: '2026-10-20'
+    code: 635866
+    url: /works/635866/
   - title: Ochiba Nikki -Jitaku Choukyou Hen 2- | Fallen Leaves Diary -House Training
       Arc 2-
     author: hitoi
@@ -6342,6 +6357,15 @@ works:
     date: '2026-08-21'
     code: 654114
     url: /works/654114/
+  - title: SEX Personal Trainer no Muhyoujou Kyonyuu Onee-san ni Tantan to Fude Oroshitemorau
+      Hanashi | The Story of Having My Virginity Clinically Taken by an Expressionless,
+      Big-Breasted Sex Personal Trainer
+    author: echigooriman
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654174.jpg
+    rating: 0.0
+    date: '2026-10-20'
+    code: 654174
+    url: /works/654174/
   - title: Netori Otoko o Mesu ni suru | Turning the Cuckolding Prick into a Bitch
     author: yonayona
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654218.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "paizuri"
-work_count: 257
+work_count: 258
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -565,6 +565,14 @@ works:
     date: '2026-03-09'
     code: 598144
     url: /works/598144/
+  - title: Maid no Kirina wa Bouchama ni Tsukushitai | Maid Kirina is Devoted to her
+      Young Master
+    author: kuroshiro-neko
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/599270.jpg
+    rating: 0.0
+    date: '2026-10-20'
+    code: 599270
+    url: /works/599270/
   - title: Zutto Issho ni Ite Ageru kara
     author: borusiti
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/602074.jpg

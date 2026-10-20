@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "maid"
-work_count: 46
+work_count: 47
 works:
   - title: Maid no Oshigoto. II | Maid's Work II
     author: alexi-laiho
@@ -115,6 +115,14 @@ works:
     date: '2026-10-17'
     code: 598715
     url: /works/598715/
+  - title: Maid no Kirina wa Bouchama ni Tsukushitai | Maid Kirina is Devoted to her
+      Young Master
+    author: kuroshiro-neko
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/599270.jpg
+    rating: 0.0
+    date: '2026-10-20'
+    code: 599270
+    url: /works/599270/
   - title: Cool na Niizuma to no Shinkon Seikatsu wa Amari ni mo... Yarashikatta  |
       Our Kinky Newlywed Life Vol. 1-3
     author: nanakusa-amane

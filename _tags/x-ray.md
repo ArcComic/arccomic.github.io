@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "x-ray"
-work_count: 374
+work_count: 376
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -1190,6 +1190,13 @@ works:
     date: '2026-03-08'
     code: 635514
     url: /works/635514/
+  - title: Toilet Club Rookie Misaki-chan
+    author: ishikarian
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/635866.jpg
+    rating: 0.0
+    date: '2026-10-20'
+    code: 635866
+    url: /works/635866/
   - title: Yojouhan no Femme Fatale - One-Room Femme Fatale | The Devilishness of a
       Small Room
     author: herio
@@ -1680,6 +1687,15 @@ works:
     date: '2026-09-18'
     code: 654010
     url: /works/654010/
+  - title: SEX Personal Trainer no Muhyoujou Kyonyuu Onee-san ni Tantan to Fude Oroshitemorau
+      Hanashi | The Story of Having My Virginity Clinically Taken by an Expressionless,
+      Big-Breasted Sex Personal Trainer
+    author: echigooriman
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654174.jpg
+    rating: 0.0
+    date: '2026-10-20'
+    code: 654174
+    url: /works/654174/
   - title: Netori Otoko o Mesu ni suru | Turning the Cuckolding Prick into a Bitch
     author: yonayona
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654218.jpg

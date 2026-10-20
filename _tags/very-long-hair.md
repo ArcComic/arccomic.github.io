@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "very long hair"
-work_count: 69
+work_count: 70
 works:
   - title: Joshikousei Sennyuu Repo ~Hanzaisha ga Onnanoko ni Hyoui shite mita~
     author: touchuu-kasou
@@ -97,6 +97,14 @@ works:
     date: '2026-05-10'
     code: 598156
     url: /works/598156/
+  - title: Maid no Kirina wa Bouchama ni Tsukushitai | Maid Kirina is Devoted to her
+      Young Master
+    author: kuroshiro-neko
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/599270.jpg
+    rating: 0.0
+    date: '2026-10-20'
+    code: 599270
+    url: /works/599270/
   - title: Mugon Muhyoujou no Kasshoku Elf, Rental Shitemasu + Gojitsudan | Rent-an-Elf
       + Afterstory
     author: takurowo
