@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "filming"
-work_count: 118
+work_count: 119
 works:
   - title: Ikanishite Haha wa Onna o Kaihou Shitaka Ch. 1-14
     author: mitarai-yuuki
@@ -553,6 +553,13 @@ works:
     date: '2026-09-26'
     code: 653287
     url: /works/653287/
+  - title: Netori Otoko o Mesu ni suru | Turning the Cuckolding Prick into a Bitch
+    author: yonayona
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654218.jpg
+    rating: 0.0
+    date: '2026-10-20'
+    code: 654218
+    url: /works/654218/
   - title: Until I Take Everything From You 2-C
     author: takotokite
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654240.jpg

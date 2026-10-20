@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "shotacon"
-work_count: 149
+work_count: 150
 works:
   - title: Ikanishite Haha wa Onna o Kaihou Shitaka Ch. 1-14
     author: mitarai-yuuki
@@ -176,6 +176,13 @@ works:
     date: '2026-09-05'
     code: 405606
     url: /works/405606/
+  - title: Watashito Iikoto Shiyo? | Will You Have Sex With Me?
+    author: asagi-ryu-amano-miki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/408137.jpg
+    rating: 0.0
+    date: '2026-10-20'
+    code: 408137
+    url: /works/408137/
   - title: Nekura Kyonyuu no Onee-chan wa, Saiminshite de mo Otouto Chinpo o Netoritai
     author: borusiti
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/438138.jpg

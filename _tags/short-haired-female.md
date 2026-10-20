@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "short-haired female"
-work_count: 60
+work_count: 61
 works:
   - title: Onee-chan ga Ecchi na Koto bakka Suru kara... | My older sister only does
       obscene things...
@@ -316,6 +316,13 @@ works:
     date: '2026-08-22'
     code: 652912
     url: /works/652912/
+  - title: Netori Otoko o Mesu ni suru | Turning the Cuckolding Prick into a Bitch
+    author: yonayona
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654218.jpg
+    rating: 0.0
+    date: '2026-10-20'
+    code: 654218
+    url: /works/654218/
   - title: I, was sold to my mother's ex-fiancé
     author: romomata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/655077.jpg

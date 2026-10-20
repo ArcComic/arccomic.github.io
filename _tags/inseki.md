@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "inseki"
-work_count: 89
+work_count: 90
 works:
   - title: Imitation Family + Bigibo Hen
     author: tohzai
@@ -532,6 +532,14 @@ works:
     date: '2026-09-07'
     code: 679197
     url: /works/679197/
+  - title: Oji-san ga Shakin o Tsuma no Karada de Hoten Shite Hoshii to Iwareta node
+      Kaidaku Shita Hanashi-MTL
+    author: murabito-c
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680309.jpg
+    rating: 5.0
+    date: '2026-10-20'
+    code: 680309
+    url: /works/680309/
   - title: Kyoudai Igai ni Nareta nara | If We Could Be More Than Siblings
     author: oshima-aki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681030.jpg

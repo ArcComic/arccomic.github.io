@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "ahegao"
-work_count: 355
+work_count: 356
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -1408,6 +1408,13 @@ works:
     date: '2026-09-28'
     code: 653091
     url: /works/653091/
+  - title: Netori Otoko o Mesu ni suru | Turning the Cuckolding Prick into a Bitch
+    author: yonayona
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654218.jpg
+    rating: 0.0
+    date: '2026-10-20'
+    code: 654218
+    url: /works/654218/
   - title: Yabai oji | Dangerous Uncle
     author: chinpan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654645.jpg

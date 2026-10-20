@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "tsundere"
-work_count: 30
+work_count: 31
 works:
   - title: Nibun no Yuudou | Half Seduction
     author: chicke-iii
@@ -156,6 +156,13 @@ works:
     date: '2026-08-22'
     code: 652912
     url: /works/652912/
+  - title: Netori Otoko o Mesu ni suru | Turning the Cuckolding Prick into a Bitch
+    author: yonayona
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654218.jpg
+    rating: 0.0
+    date: '2026-10-20'
+    code: 654218
+    url: /works/654218/
   - title: Uwakishou na Kaisha no Elite Douki o Ore no Onna ni Suru Hanashi | The Story
       of How I Made my Flirty Coworker my Woman
     author: araido-kagiri

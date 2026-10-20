@@ -1,7 +1,7 @@
 ---
 layout: artist
 artist_name: "yonayona"
-work_count: 1
+work_count: 2
 works:
   - title: Douse Shinu kara, Suki ni Shite | Since i'm going to die anyway, do whatever
       you want with me
@@ -10,4 +10,10 @@ works:
     date: '2026-10-18'
     code: 632838
     url: /works/632838/
+  - title: Netori Otoko o Mesu ni suru | Turning the Cuckolding Prick into a Bitch
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654218.jpg
+    rating: 0.0
+    date: '2026-10-20'
+    code: 654218
+    url: /works/654218/
 ---

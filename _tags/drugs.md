@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "drugs"
-work_count: 47
+work_count: 48
 works:
   - title: A-part | Apartment
     author: zero-no-mono
@@ -212,6 +212,13 @@ works:
     date: '2026-05-26'
     code: 652639
     url: /works/652639/
+  - title: Netori Otoko o Mesu ni suru | Turning the Cuckolding Prick into a Bitch
+    author: yonayona
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654218.jpg
+    rating: 0.0
+    date: '2026-10-20'
+    code: 654218
+    url: /works/654218/
   - title: Mesunoyado ~Tsuma wa Midare Kegasareru~
     author: ame-arare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/658797.jpg

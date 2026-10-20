@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "ffm threesome"
-work_count: 158
+work_count: 159
 works:
   - title: Hustle! Danchizuma Ch. 1-18 END
     author: hidemaru
@@ -66,6 +66,13 @@ works:
     date: '2026-10-12'
     code: 407222
     url: /works/407222/
+  - title: Watashito Iikoto Shiyo? | Will You Have Sex With Me?
+    author: asagi-ryu-amano-miki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/408137.jpg
+    rating: 0.0
+    date: '2026-10-20'
+    code: 408137
+    url: /works/408137/
   - title: The Last Flight
     author: mr-kurz
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/408822.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "eye-covering bang"
-work_count: 85
+work_count: 86
 works:
   - title: Kanojo no Amai Jiraishuu
     author: jirou
@@ -377,6 +377,13 @@ works:
     date: '2026-09-11'
     code: 654091
     url: /works/654091/
+  - title: Netori Otoko o Mesu ni suru | Turning the Cuckolding Prick into a Bitch
+    author: yonayona
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654218.jpg
+    rating: 0.0
+    date: '2026-10-20'
+    code: 654218
+    url: /works/654218/
   - title: I cannot believe a Longtime Fan such as myself is getting my Clit Teased
       by my Fave...
     author: toyama-tonari

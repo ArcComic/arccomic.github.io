@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "ugly bastard"
-work_count: 38
+work_count: 39
 works:
   - title: A-part | Apartment
     author: zero-no-mono
@@ -259,6 +259,14 @@ works:
     date: '2026-09-10'
     code: 679958
     url: /works/679958/
+  - title: Oji-san ga Shakin o Tsuma no Karada de Hoten Shite Hoshii to Iwareta node
+      Kaidaku Shita Hanashi-MTL
+    author: murabito-c
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680309.jpg
+    rating: 5.0
+    date: '2026-10-20'
+    code: 680309
+    url: /works/680309/
   - title: Ochiba Nikki -Nae Gasshuku Hen 1- | Fallen Leaves Diary -Nae's Training Camp
       Arc 1-
     author: hitoi

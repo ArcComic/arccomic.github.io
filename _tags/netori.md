@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "netori"
-work_count: 30
+work_count: 32
 works:
   - title: Onee-chan ga Ecchi na Koto bakka Suru kara... | My older sister only does
       obscene things...
@@ -162,6 +162,13 @@ works:
     date: '2026-09-12'
     code: 651895
     url: /works/651895/
+  - title: Netori Otoko o Mesu ni suru | Turning the Cuckolding Prick into a Bitch
+    author: yonayona
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654218.jpg
+    rating: 0.0
+    date: '2026-10-20'
+    code: 654218
+    url: /works/654218/
   - title: Seiyoku Tsuyosugi GalKano Mama
     author: naporitan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662525.jpg
@@ -230,4 +237,12 @@ works:
     date: '2026-09-07'
     code: 678909
     url: /works/678909/
+  - title: Oji-san ga Shakin o Tsuma no Karada de Hoten Shite Hoshii to Iwareta node
+      Kaidaku Shita Hanashi-MTL
+    author: murabito-c
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680309.jpg
+    rating: 5.0
+    date: '2026-10-20'
+    code: 680309
+    url: /works/680309/
 ---

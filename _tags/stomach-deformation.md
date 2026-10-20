@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "stomach deformation"
-work_count: 17
+work_count: 18
 works:
   - title: Mashou no Honnou | The Evil’s Instinct
     author: azukiko
@@ -54,6 +54,13 @@ works:
     date: '2026-03-07'
     code: 635363
     url: /works/635363/
+  - title: Netori Otoko o Mesu ni suru | Turning the Cuckolding Prick into a Bitch
+    author: yonayona
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654218.jpg
+    rating: 0.0
+    date: '2026-10-20'
+    code: 654218
+    url: /works/654218/
   - title: Kyonyuu na Gibo, Nyuuyoku Chuu
     author: ma-kurou-madou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662334.jpg

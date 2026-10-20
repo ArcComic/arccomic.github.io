@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "cheating"
-work_count: 404
+work_count: 406
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -380,6 +380,13 @@ works:
     date: '2026-09-23'
     code: 402019
     url: /works/402019/
+  - title: Watashito Iikoto Shiyo? | Will You Have Sex With Me?
+    author: asagi-ryu-amano-miki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/408137.jpg
+    rating: 0.0
+    date: '2026-10-20'
+    code: 408137
+    url: /works/408137/
   - title: Kaisha no Iki Okure BBA Haramaseta | [Tragic News] I Knocked Up The Old Maid
       From My Office
     author: special-g
@@ -1947,6 +1954,13 @@ works:
     date: '2026-09-11'
     code: 654091
     url: /works/654091/
+  - title: Netori Otoko o Mesu ni suru | Turning the Cuckolding Prick into a Bitch
+    author: yonayona
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654218.jpg
+    rating: 0.0
+    date: '2026-10-20'
+    code: 654218
+    url: /works/654218/
   - title: Until I Take Everything From You 3-B
     author: takotokite
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654244.jpg

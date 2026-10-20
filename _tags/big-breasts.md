@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big breasts"
-work_count: 1245
+work_count: 1247
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -5147,6 +5147,13 @@ works:
     date: '2026-08-21'
     code: 654114
     url: /works/654114/
+  - title: Netori Otoko o Mesu ni suru | Turning the Cuckolding Prick into a Bitch
+    author: yonayona
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654218.jpg
+    rating: 0.0
+    date: '2026-10-20'
+    code: 654218
+    url: /works/654218/
   - title: Until I Take Everything From You 2-C
     author: takotokite
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654240.jpg
@@ -7383,6 +7390,14 @@ works:
     date: '2026-09-22'
     code: 680307
     url: /works/680307/
+  - title: Oji-san ga Shakin o Tsuma no Karada de Hoten Shite Hoshii to Iwareta node
+      Kaidaku Shita Hanashi-MTL
+    author: murabito-c
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680309.jpg
+    rating: 5.0
+    date: '2026-10-20'
+    code: 680309
+    url: /works/680309/
   - title: Oman control
     author: kijima-daisyarin-yoisho53
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680312.jpg

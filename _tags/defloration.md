@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "defloration"
-work_count: 264
+work_count: 266
 works:
   - title: Imitation Family + Bigibo Hen
     author: tohzai
@@ -247,6 +247,13 @@ works:
     date: '2026-07-10'
     code: 407959
     url: /works/407959/
+  - title: Watashito Iikoto Shiyo? | Will You Have Sex With Me?
+    author: asagi-ryu-amano-miki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/408137.jpg
+    rating: 0.0
+    date: '2026-10-20'
+    code: 408137
+    url: /works/408137/
   - title: Kaisha no Iki Okure BBA Haramaseta | [Tragic News] I Knocked Up The Old Maid
       From My Office
     author: special-g
@@ -1285,6 +1292,13 @@ works:
     date: '2026-09-18'
     code: 654010
     url: /works/654010/
+  - title: Netori Otoko o Mesu ni suru | Turning the Cuckolding Prick into a Bitch
+    author: yonayona
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654218.jpg
+    rating: 0.0
+    date: '2026-10-20'
+    code: 654218
+    url: /works/654218/
   - title: My Tall, Stacked, Virgin Boss 1
     author: yunamaro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654603.jpg

@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "shimaidon"
-work_count: 22
+work_count: 23
 works:
+  - title: Watashito Iikoto Shiyo? | Will You Have Sex With Me?
+    author: asagi-ryu-amano-miki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/408137.jpg
+    rating: 0.0
+    date: '2026-10-20'
+    code: 408137
+    url: /works/408137/
   - title: 1/5 no Renai Kanjou | A Fifth of Romance
     author: chicke-iii
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/568871.jpg
