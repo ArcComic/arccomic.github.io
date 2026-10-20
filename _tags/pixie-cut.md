@@ -859,7 +859,7 @@ works:
   - title: Tomodachi no Mama / My Friend's Mother
     author: nakadera-akira
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688570.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-10-18'
     code: 688570
     url: /works/688570/
@@ -867,7 +867,7 @@ works:
       183cm-Tall Gluttonous Girl
     author: fuetakishi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688582.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-10-18'
     code: 688582
     url: /works/688582/

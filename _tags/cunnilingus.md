@@ -98,7 +98,7 @@ works:
   - title: Karami Zakari vol. 3 | Entanglement vol. 3
     author: katsura-airi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/336370.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-10-18'
     code: 336370
     url: /works/336370/
@@ -1411,14 +1411,14 @@ works:
       Shimau!! | Mother and son hit their peak libido at the very same time!!'
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688506.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-10-18'
     code: 688506
     url: /works/688506/
   - title: Tomodachi no Mama / My Friend's Mother
     author: nakadera-akira
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688570.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-10-18'
     code: 688570
     url: /works/688570/
@@ -1426,7 +1426,7 @@ works:
       183cm-Tall Gluttonous Girl
     author: fuetakishi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688582.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-10-18'
     code: 688582
     url: /works/688582/
@@ -1449,7 +1449,7 @@ works:
       And Is A Bit of A Masochist, Right? 2
     author: tamagou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688607.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-10-18'
     code: 688607
     url: /works/688607/

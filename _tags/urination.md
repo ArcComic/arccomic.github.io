@@ -66,7 +66,7 @@ works:
       Me 2
     author: jingrock
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/495845.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-10-18'
     code: 495845
     url: /works/495845/

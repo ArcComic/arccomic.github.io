@@ -28,7 +28,7 @@ works:
   - title: Karami Zakari vol. 3 | Entanglement vol. 3
     author: katsura-airi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/336370.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-10-18'
     code: 336370
     url: /works/336370/
@@ -2052,7 +2052,7 @@ works:
       Shimau!! | Mother and son hit their peak libido at the very same time!!'
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688506.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-10-18'
     code: 688506
     url: /works/688506/
@@ -2066,7 +2066,7 @@ works:
   - title: Tatoeba Konna Million Theater vol. 19 Juunengo no Ogami Tamaki
     author: binsen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688546.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-10-18'
     code: 688546
     url: /works/688546/
@@ -2074,7 +2074,7 @@ works:
       183cm-Tall Gluttonous Girl
     author: fuetakishi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688582.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-10-18'
     code: 688582
     url: /works/688582/
@@ -2082,7 +2082,7 @@ works:
       Family 2 - A Story About a Mother Who Became Addicted to Sex With a Yakuza
     author: watsondou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688585.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-10-18'
     code: 688585
     url: /works/688585/
@@ -2096,7 +2096,7 @@ works:
   - title: Gal Musume ga Chichioya to no Aijoux 4
     author: ootsuka-kotora
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688598.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-10-18'
     code: 688598
     url: /works/688598/
@@ -2111,7 +2111,7 @@ works:
       And Is A Bit of A Masochist, Right? 2
     author: tamagou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688607.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-10-18'
     code: 688607
     url: /works/688607/

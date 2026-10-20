@@ -134,7 +134,7 @@ works:
       Have Some Car Sex
     author: igedoaha
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/521894.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-10-18'
     code: 521894
     url: /works/521894/
@@ -1219,7 +1219,7 @@ works:
   - title: Boku no Kanojo wa jk Gravure Idol 2 /  My Girlfried Is A Gravure Idol 2
     author: aikawa-tatsuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688567.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-10-18'
     code: 688567
     url: /works/688567/
@@ -1227,7 +1227,7 @@ works:
       Family 2 - A Story About a Mother Who Became Addicted to Sex With a Yakuza
     author: watsondou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688585.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-10-18'
     code: 688585
     url: /works/688585/
@@ -1243,7 +1243,7 @@ works:
       And Is A Bit of A Masochist, Right? 2
     author: tamagou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688607.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-10-18'
     code: 688607
     url: /works/688607/

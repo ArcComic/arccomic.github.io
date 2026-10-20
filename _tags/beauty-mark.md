@@ -362,7 +362,7 @@ works:
       Me 2
     author: jingrock
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/495845.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-10-18'
     code: 495845
     url: /works/495845/
@@ -1700,7 +1700,7 @@ works:
       183cm-Tall Gluttonous Girl
     author: fuetakishi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688582.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-10-18'
     code: 688582
     url: /works/688582/
@@ -1708,7 +1708,7 @@ works:
       Family 2 - A Story About a Mother Who Became Addicted to Sex With a Yakuza
     author: watsondou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688585.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-10-18'
     code: 688585
     url: /works/688585/

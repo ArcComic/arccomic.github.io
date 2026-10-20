@@ -1476,7 +1476,7 @@ works:
       Me 2
     author: jingrock
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/495845.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-10-18'
     code: 495845
     url: /works/495845/
@@ -1737,7 +1737,7 @@ works:
       Have Some Car Sex
     author: igedoaha
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/521894.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-10-18'
     code: 521894
     url: /works/521894/
@@ -3317,7 +3317,7 @@ works:
       you want with me
     author: yonayona
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/632838.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-10-18'
     code: 632838
     url: /works/632838/
@@ -4739,7 +4739,7 @@ works:
   - title: Gyakuten Enkou 3 ~Ore ga Kawareru Sekai~
     author: nectar
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/655121.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-18'
     code: 655121
     url: /works/655121/
@@ -7558,14 +7558,14 @@ works:
   - title: Tatoeba Konna Million Theater vol. 19 Juunengo no Ogami Tamaki
     author: binsen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688546.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-10-18'
     code: 688546
     url: /works/688546/
   - title: Boku no Kanojo wa jk Gravure Idol 2 /  My Girlfried Is A Gravure Idol 2
     author: aikawa-tatsuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688567.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-10-18'
     code: 688567
     url: /works/688567/
@@ -7573,7 +7573,7 @@ works:
       183cm-Tall Gluttonous Girl
     author: fuetakishi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688582.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-10-18'
     code: 688582
     url: /works/688582/
@@ -7581,7 +7581,7 @@ works:
       Family 2 - A Story About a Mother Who Became Addicted to Sex With a Yakuza
     author: watsondou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688585.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-10-18'
     code: 688585
     url: /works/688585/
@@ -7595,7 +7595,7 @@ works:
   - title: Gal Musume ga Chichioya to no Aijoux 4
     author: ootsuka-kotora
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688598.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-10-18'
     code: 688598
     url: /works/688598/
@@ -7611,7 +7611,7 @@ works:
       And Is A Bit of A Masochist, Right? 2
     author: tamagou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688607.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-10-18'
     code: 688607
     url: /works/688607/

@@ -1191,7 +1191,7 @@ works:
   - title: Boku no Kanojo wa jk Gravure Idol 2 /  My Girlfried Is A Gravure Idol 2
     author: aikawa-tatsuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688567.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-10-18'
     code: 688567
     url: /works/688567/
@@ -1199,7 +1199,7 @@ works:
       183cm-Tall Gluttonous Girl
     author: fuetakishi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688582.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-10-18'
     code: 688582
     url: /works/688582/

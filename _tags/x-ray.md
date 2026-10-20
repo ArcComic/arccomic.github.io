@@ -427,7 +427,7 @@ works:
       Me 2
     author: jingrock
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/495845.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-10-18'
     code: 495845
     url: /works/495845/
@@ -1079,7 +1079,7 @@ works:
       you want with me
     author: yonayona
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/632838.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-10-18'
     code: 632838
     url: /works/632838/
@@ -1697,7 +1697,7 @@ works:
   - title: Gyakuten Enkou 3 ~Ore ga Kawareru Sekai~
     author: nectar
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/655121.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-18'
     code: 655121
     url: /works/655121/
@@ -2769,7 +2769,7 @@ works:
       And Is A Bit of A Masochist, Right? 2
     author: tamagou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688607.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-10-18'
     code: 688607
     url: /works/688607/

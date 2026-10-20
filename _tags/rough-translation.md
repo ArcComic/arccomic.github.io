@@ -1139,7 +1139,7 @@ works:
       you want with me
     author: yonayona
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/632838.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-10-18'
     code: 632838
     url: /works/632838/
@@ -2115,7 +2115,7 @@ works:
   - title: Gyakuten Enkou 3 ~Ore ga Kawareru Sekai~
     author: nectar
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/655121.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-18'
     code: 655121
     url: /works/655121/
@@ -5228,7 +5228,7 @@ works:
       Shimau!! | Mother and son hit their peak libido at the very same time!!'
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688506.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-10-18'
     code: 688506
     url: /works/688506/
@@ -5242,14 +5242,14 @@ works:
   - title: Tatoeba Konna Million Theater vol. 19 Juunengo no Ogami Tamaki
     author: binsen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688546.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-10-18'
     code: 688546
     url: /works/688546/
   - title: Gal Musume ga Chichioya to no Aijoux 4
     author: ootsuka-kotora
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688598.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-10-18'
     code: 688598
     url: /works/688598/
