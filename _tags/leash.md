@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "leash"
-work_count: 22
+work_count: 23
 works:
   - title: Komorebi no Ori
     author: hitoi
@@ -63,6 +63,14 @@ works:
     date: '2026-10-02'
     code: 614397
     url: /works/614397/
+  - title: Seiso de Kawaii Anoko ga Sex o Shitta Hi no Hanashi. | The Day That Cute
+      and Innocent Girl Experienced Sex for the First Time.
+    author: yamakonbu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/620544.jpg
+    rating: 0.0
+    date: '2026-10-20'
+    code: 620544
+    url: /works/620544/
   - title: Sono Bisque Doll wa H o Suru 2
     author: yahiro-pochi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/626430.jpg

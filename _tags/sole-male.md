@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole male"
-work_count: 1034
+work_count: 1037
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -933,6 +933,13 @@ works:
     date: '2026-03-05'
     code: 409929
     url: /works/409929/
+  - title: Onee-san ga Iyashite Ageru Ch.1-6
+    author: asagi-ryu-amano-miki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/412668.jpg
+    rating: 0.0
+    date: '2026-10-20'
+    code: 412668
+    url: /works/412668/
   - title: NTR Anniversary + ) [Syukurin] Mitsuha ~Netorare~ (Kimi no Na wa.) [English]
       [Colorized] by Mikaku
     author: arakure
@@ -2009,6 +2016,13 @@ works:
     date: '2026-05-10'
     code: 540125
     url: /works/540125/
+  - title: Musume no Tomodachi ga Yuuwaku Suru | My Daughter's Friend is Seducing Me
+    author: jingrock
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/541582.jpg
+    rating: 0.0
+    date: '2026-10-20'
+    code: 541582
+    url: /works/541582/
   - title: Jimime na Kurokami Elf-chan ga Ecchi na Massage-ten de Seikantai Kaihatsu
       Sarechau Ohanashi | A Plain Jane Elf's Sexy Adventure at a Massage Clinic
     author: akane
@@ -3165,6 +3179,14 @@ works:
     date: '2026-08-18'
     code: 619648
     url: /works/619648/
+  - title: Seiso de Kawaii Anoko ga Sex o Shitta Hi no Hanashi. | The Day That Cute
+      and Innocent Girl Experienced Sex for the First Time.
+    author: yamakonbu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/620544.jpg
+    rating: 0.0
+    date: '2026-10-20'
+    code: 620544
+    url: /works/620544/
   - title: Amatori-san to Ningensei Gomikuzu Chuunen ga Suyasuya Ecchi suru Manga |
       A Middle-Aged Piece of Human Trash Fucks Miss Amatori in Her Sleep
     author: saishow

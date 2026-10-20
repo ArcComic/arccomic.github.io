@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big penis"
-work_count: 285
+work_count: 286
 works:
   - title: Tsuma no Imouto no Danna ga Ie ni Kiteiruyoudesu | My Sister-In-Law's Husband
       is Over
@@ -621,6 +621,14 @@ works:
     date: '2026-02-26'
     code: 615775
     url: /works/615775/
+  - title: Seiso de Kawaii Anoko ga Sex o Shitta Hi no Hanashi. | The Day That Cute
+      and Innocent Girl Experienced Sex for the First Time.
+    author: yamakonbu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/620544.jpg
+    rating: 0.0
+    date: '2026-10-20'
+    code: 620544
+    url: /works/620544/
   - title: The Story of How My Brain Was Destroyed After Dating Someone Who Would Grant
       Any Request
     author: jakky

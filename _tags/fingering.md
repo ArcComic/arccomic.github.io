@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "fingering"
-work_count: 209
+work_count: 210
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -693,6 +693,14 @@ works:
     date: '2026-04-27'
     code: 619405
     url: /works/619405/
+  - title: Seiso de Kawaii Anoko ga Sex o Shitta Hi no Hanashi. | The Day That Cute
+      and Innocent Girl Experienced Sex for the First Time.
+    author: yamakonbu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/620544.jpg
+    rating: 0.0
+    date: '2026-10-20'
+    code: 620544
+    url: /works/620544/
   - title: 女孩們的玩具初體驗 | Girl's First Experience With Toys
     author: muzi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/624694.jpg

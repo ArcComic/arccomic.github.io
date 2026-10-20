@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "english"
-work_count: 1855
+work_count: 1858
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -1417,6 +1417,13 @@ works:
     date: '2026-10-15'
     code: 412135
     url: /works/412135/
+  - title: Onee-san ga Iyashite Ageru Ch.1-6
+    author: asagi-ryu-amano-miki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/412668.jpg
+    rating: 0.0
+    date: '2026-10-20'
+    code: 412668
+    url: /works/412668/
   - title: sequence irekaeru futari no karada
     author: iwashita
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/414040.jpg
@@ -3358,6 +3365,13 @@ works:
     date: '2026-09-29'
     code: 541130
     url: /works/541130/
+  - title: Musume no Tomodachi ga Yuuwaku Suru | My Daughter's Friend is Seducing Me
+    author: jingrock
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/541582.jpg
+    rating: 0.0
+    date: '2026-10-20'
+    code: 541582
+    url: /works/541582/
   - title: Extra Virgin Mama
     author: hara-shigeyuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/541631.jpg
@@ -5233,6 +5247,14 @@ works:
     date: '2026-09-25'
     code: 620246
     url: /works/620246/
+  - title: Seiso de Kawaii Anoko ga Sex o Shitta Hi no Hanashi. | The Day That Cute
+      and Innocent Girl Experienced Sex for the First Time.
+    author: yamakonbu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/620544.jpg
+    rating: 0.0
+    date: '2026-10-20'
+    code: 620544
+    url: /works/620544/
   - title: Amatori-san to Ningensei Gomikuzu Chuunen ga Suyasuya Ecchi suru Manga |
       A Middle-Aged Piece of Human Trash Fucks Miss Amatori in Her Sleep
     author: saishow

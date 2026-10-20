@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "gyaru-oh"
-work_count: 41
+work_count: 42
 works:
   - title: Netorare Ibe Kiba Shizuka
     author: terasu-mc
@@ -149,6 +149,14 @@ works:
     date: '2026-09-22'
     code: 593276
     url: /works/593276/
+  - title: Seiso de Kawaii Anoko ga Sex o Shitta Hi no Hanashi. | The Day That Cute
+      and Innocent Girl Experienced Sex for the First Time.
+    author: yamakonbu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/620544.jpg
+    rating: 0.0
+    date: '2026-10-20'
+    code: 620544
+    url: /works/620544/
   - title: Ore no Jimi Kanojo wa Natsuyasumi dake Aitsu Senyou no OnaPet | My Plain
       Girlfriend Is That Guy's Personal Fucktoy For The Summer Break
     author: omusubi-korori

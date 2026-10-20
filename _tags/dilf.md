@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "dilf"
-work_count: 217
+work_count: 218
 works:
   - title: Adoration
     author: kishizuka-kenji
@@ -486,6 +486,13 @@ works:
     date: '2026-09-23'
     code: 537208
     url: /works/537208/
+  - title: Musume no Tomodachi ga Yuuwaku Suru | My Daughter's Friend is Seducing Me
+    author: jingrock
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/541582.jpg
+    rating: 0.0
+    date: '2026-10-20'
+    code: 541582
+    url: /works/541582/
   - title: Gal JK wa Boku no Mono
     author: exit-up
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/542197.jpg

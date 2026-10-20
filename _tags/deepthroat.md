@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "deepthroat"
-work_count: 97
+work_count: 99
 works:
   - title: Toshishita Chin Kui Obasan
     author: maccha-neji
@@ -71,6 +71,13 @@ works:
     date: '2026-08-20'
     code: 537794
     url: /works/537794/
+  - title: Musume no Tomodachi ga Yuuwaku Suru | My Daughter's Friend is Seducing Me
+    author: jingrock
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/541582.jpg
+    rating: 0.0
+    date: '2026-10-20'
+    code: 541582
+    url: /works/541582/
   - title: Imouto wa Mesu Orc 7
     author: muneshiro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/547393.jpg
@@ -151,6 +158,14 @@ works:
     date: '2026-04-14'
     code: 616170
     url: /works/616170/
+  - title: Seiso de Kawaii Anoko ga Sex o Shitta Hi no Hanashi. | The Day That Cute
+      and Innocent Girl Experienced Sex for the First Time.
+    author: yamakonbu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/620544.jpg
+    rating: 0.0
+    date: '2026-10-20'
+    code: 620544
+    url: /works/620544/
   - title: Amatori-san to Ningensei Gomikuzu Chuunen ga Suyasuya Ecchi suru Manga |
       A Middle-Aged Piece of Human Trash Fucks Miss Amatori in Her Sleep
     author: saishow

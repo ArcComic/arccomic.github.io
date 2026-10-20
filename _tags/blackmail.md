@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "blackmail"
-work_count: 157
+work_count: 158
 works:
   - title: Birthday
     author: hashiba-yachi
@@ -329,6 +329,13 @@ works:
     date: '2026-08-18'
     code: 530728
     url: /works/530728/
+  - title: Musume no Tomodachi ga Yuuwaku Suru | My Daughter's Friend is Seducing Me
+    author: jingrock
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/541582.jpg
+    rating: 0.0
+    date: '2026-10-20'
+    code: 541582
+    url: /works/541582/
   - title: Pakokatsu Oji-san to Kaede-chan (1+2+3) | Kaede and The Sugar Daddy
     author: nizigensan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/543086.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "milf"
-work_count: 498
+work_count: 499
 works:
   - title: Life with Married Women Just Like a Manga 2 - Ch. 1-5
     author: hidemaru
@@ -423,6 +423,13 @@ works:
     date: '2026-03-05'
     code: 409929
     url: /works/409929/
+  - title: Onee-san ga Iyashite Ageru Ch.1-6
+    author: asagi-ryu-amano-miki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/412668.jpg
+    rating: 0.0
+    date: '2026-10-20'
+    code: 412668
+    url: /works/412668/
   - title: NTR Anniversary + ) [Syukurin] Mitsuha ~Netorare~ (Kimi no Na wa.) [English]
       [Colorized] by Mikaku
     author: arakure
