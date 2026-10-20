@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "wasuraruru tegami"
-work_count: 2
+work_count: 3
 works:
   - title: Tatoeba Konna Million Theater Soushuuhen I
     author: binsen
@@ -17,4 +17,11 @@ works:
     date: '2026-10-18'
     code: 688546
     url: /works/688546/
+  - title: Tatoeba Konna Million Theater 4 -Yokoyama Nao no Baai [Another]-
+    author: binsen
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688548.jpg
+    rating: 0.0
+    date: '2026-10-20'
+    code: 688548
+    url: /works/688548/
 ---

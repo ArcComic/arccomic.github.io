@@ -5,13 +5,13 @@ work_count: 4
 works:
   - title: Watashito Iikoto Shiyo? | Will You Have Sex With Me?
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/408137.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-10-20'
     code: 408137
     url: /works/408137/
   - title: Onee-san ga Iyashite Ageru Ch.1-6
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/412668.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-10-20'
     code: 412668
     url: /works/412668/

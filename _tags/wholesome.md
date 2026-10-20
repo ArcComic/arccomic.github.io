@@ -537,7 +537,7 @@ works:
   - title: Miwaku-teki na Omae ga Warui
     author: yonayona
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/587417.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-10-20'
     code: 587417
     url: /works/587417/
@@ -1117,14 +1117,14 @@ works:
       Big-Breasted Sex Personal Trainer
     author: echigooriman
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654174.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-10-20'
     code: 654174
     url: /works/654174/
   - title: Netori Otoko o Mesu ni suru | Turning the Cuckolding Prick into a Bitch
     author: yonayona
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654218.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-10-20'
     code: 654218
     url: /works/654218/

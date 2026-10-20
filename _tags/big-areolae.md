@@ -168,7 +168,7 @@ works:
       Young Master
     author: kuroshiro-neko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/599270.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-10-20'
     code: 599270
     url: /works/599270/
@@ -199,7 +199,7 @@ works:
       and Innocent Girl Experienced Sex for the First Time.
     author: yamakonbu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/620544.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-20'
     code: 620544
     url: /works/620544/
@@ -422,7 +422,7 @@ works:
       Big-Breasted Sex Personal Trainer
     author: echigooriman
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654174.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-10-20'
     code: 654174
     url: /works/654174/
@@ -512,7 +512,7 @@ works:
   - title: Shin Zuma, Ochiru
     author: t-landolt
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/667150.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-20'
     code: 667150
     url: /works/667150/

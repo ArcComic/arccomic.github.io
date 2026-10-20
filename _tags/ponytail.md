@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "ponytail"
-work_count: 191
+work_count: 192
 works:
   - title: Ami Mami Mind 5
     author: tsurui
@@ -333,7 +333,7 @@ works:
   - title: Otouto no Musume  | My Little Brother's Daughter  [English] =LWB=
     author: jingrock
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/592707.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-10-20'
     code: 592707
     url: /works/592707/
@@ -783,7 +783,7 @@ works:
       Big-Breasted Sex Personal Trainer
     author: echigooriman
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654174.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-10-20'
     code: 654174
     url: /works/654174/
@@ -1399,6 +1399,13 @@ works:
     date: '2026-10-18'
     code: 688528
     url: /works/688528/
+  - title: Tatoeba Konna Million Theater 4 -Yokoyama Nao no Baai [Another]-
+    author: binsen
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688548.jpg
+    rating: 0.0
+    date: '2026-10-20'
+    code: 688548
+    url: /works/688548/
   - title: Asettarashi 0 183cm no Akujiki Deka Onna /  Covered In Sweat 0 - The Huge
       183cm-Tall Gluttonous Girl
     author: fuetakishi

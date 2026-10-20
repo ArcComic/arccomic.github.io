@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole female"
-work_count: 1101
+work_count: 1102
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -2234,7 +2234,7 @@ works:
   - title: Musume no Tomodachi ga Yuuwaku Suru | My Daughter's Friend is Seducing Me
     author: jingrock
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/541582.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-10-20'
     code: 541582
     url: /works/541582/
@@ -2844,7 +2844,7 @@ works:
   - title: Miwaku-teki na Omae ga Warui
     author: yonayona
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/587417.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-10-20'
     code: 587417
     url: /works/587417/
@@ -3116,7 +3116,7 @@ works:
       Young Master
     author: kuroshiro-neko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/599270.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-10-20'
     code: 599270
     url: /works/599270/
@@ -4950,14 +4950,14 @@ works:
       Big-Breasted Sex Personal Trainer
     author: echigooriman
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654174.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-10-20'
     code: 654174
     url: /works/654174/
   - title: Netori Otoko o Mesu ni suru | Turning the Cuckolding Prick into a Bitch
     author: yonayona
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654218.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-10-20'
     code: 654218
     url: /works/654218/
@@ -5763,7 +5763,7 @@ works:
   - title: Shin Zuma, Ochiru
     author: t-landolt
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/667150.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-20'
     code: 667150
     url: /works/667150/
@@ -8075,6 +8075,13 @@ works:
     date: '2026-10-18'
     code: 688546
     url: /works/688546/
+  - title: Tatoeba Konna Million Theater 4 -Yokoyama Nao no Baai [Another]-
+    author: binsen
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688548.jpg
+    rating: 0.0
+    date: '2026-10-20'
+    code: 688548
+    url: /works/688548/
   - title: Boku no Kanojo wa jk Gravure Idol 2 /  My Girlfried Is A Gravure Idol 2
     author: aikawa-tatsuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688567.jpg
@@ -8131,7 +8138,7 @@ works:
   - title: Kanrinin-san | Landlady
     author: sanbaizu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688608.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-10-20'
     code: 688608
     url: /works/688608/

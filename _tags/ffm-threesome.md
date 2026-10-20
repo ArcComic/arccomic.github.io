@@ -69,7 +69,7 @@ works:
   - title: Watashito Iikoto Shiyo? | Will You Have Sex With Me?
     author: asagi-ryu-amano-miki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/408137.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-10-20'
     code: 408137
     url: /works/408137/
@@ -1181,7 +1181,7 @@ works:
   - title: C&C no Buin to... Ii Koto Shichau | Doing Something Lewd... With C&C Members
     author: yosomono
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688561.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-20'
     code: 688561
     url: /works/688561/

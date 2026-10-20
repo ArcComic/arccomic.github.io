@@ -1837,7 +1837,7 @@ works:
   - title: Musume no Tomodachi ga Yuuwaku Suru | My Daughter's Friend is Seducing Me
     author: jingrock
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/541582.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-10-20'
     code: 541582
     url: /works/541582/
@@ -2505,7 +2505,7 @@ works:
   - title: Miwaku-teki na Omae ga Warui
     author: yonayona
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/587417.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-10-20'
     code: 587417
     url: /works/587417/
@@ -2600,7 +2600,7 @@ works:
   - title: Otouto no Musume  | My Little Brother's Daughter  [English] =LWB=
     author: jingrock
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/592707.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-10-20'
     code: 592707
     url: /works/592707/
@@ -2802,7 +2802,7 @@ works:
       Young Master
     author: kuroshiro-neko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/599270.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-10-20'
     code: 599270
     url: /works/599270/
@@ -3190,7 +3190,7 @@ works:
       and Innocent Girl Experienced Sex for the First Time.
     author: yamakonbu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/620544.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-20'
     code: 620544
     url: /works/620544/
@@ -3742,7 +3742,7 @@ works:
   - title: Toilet Club Rookie Misaki-chan
     author: ishikarian
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/635866.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-10-20'
     code: 635866
     url: /works/635866/
@@ -5113,14 +5113,14 @@ works:
       Big-Breasted Sex Personal Trainer
     author: echigooriman
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654174.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-10-20'
     code: 654174
     url: /works/654174/
   - title: Netori Otoko o Mesu ni suru | Turning the Cuckolding Prick into a Bitch
     author: yonayona
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654218.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-10-20'
     code: 654218
     url: /works/654218/
@@ -6154,7 +6154,7 @@ works:
   - title: Shin Zuma, Ochiru
     author: t-landolt
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/667150.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-20'
     code: 667150
     url: /works/667150/
@@ -9198,7 +9198,7 @@ works:
   - title: Kanrinin-san | Landlady
     author: sanbaizu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688608.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-10-20'
     code: 688608
     url: /works/688608/

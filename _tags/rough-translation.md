@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "rough translation"
-work_count: 723
+work_count: 724
 works:
   - title: Boku no Shiranai Kimi no Kao
     author: utsutsu-minoru
@@ -1206,7 +1206,7 @@ works:
   - title: Toilet Club Rookie Misaki-chan
     author: ishikarian
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/635866.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-10-20'
     code: 635866
     url: /works/635866/
@@ -3003,7 +3003,7 @@ works:
   - title: Shin Zuma, Ochiru
     author: t-landolt
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/667150.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-20'
     code: 667150
     url: /works/667150/
@@ -5268,6 +5268,13 @@ works:
     date: '2026-10-18'
     code: 688546
     url: /works/688546/
+  - title: Tatoeba Konna Million Theater 4 -Yokoyama Nao no Baai [Another]-
+    author: binsen
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688548.jpg
+    rating: 0.0
+    date: '2026-10-20'
+    code: 688548
+    url: /works/688548/
   - title: Gal Musume ga Chichioya to no Aijoux 4
     author: ootsuka-kotora
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688598.jpg

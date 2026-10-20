@@ -697,7 +697,7 @@ works:
       and Innocent Girl Experienced Sex for the First Time.
     author: yamakonbu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/620544.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-20'
     code: 620544
     url: /works/620544/
@@ -1006,7 +1006,7 @@ works:
   - title: Netori Otoko o Mesu ni suru | Turning the Cuckolding Prick into a Bitch
     author: yonayona
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654218.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-10-20'
     code: 654218
     url: /works/654218/

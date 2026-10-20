@@ -179,7 +179,7 @@ works:
   - title: Watashito Iikoto Shiyo? | Will You Have Sex With Me?
     author: asagi-ryu-amano-miki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/408137.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-10-20'
     code: 408137
     url: /works/408137/
@@ -497,7 +497,7 @@ works:
   - title: Toilet Club Rookie Misaki-chan
     author: ishikarian
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/635866.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-10-20'
     code: 635866
     url: /works/635866/
