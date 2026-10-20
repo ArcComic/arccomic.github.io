@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "urination"
-work_count: 50
+work_count: 51
 works:
   - title: Boku no Kazoku o Sarashimasu Ch. 3
     author: tanaka-aji
@@ -375,4 +375,11 @@ works:
     date: '2026-10-11'
     code: 686383
     url: /works/686383/
+  - title: Koi kashira, Koi nano ka Shita | Is It Love? It's Love Isn't It?
+    author: asagi-ryu-amano-miki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688612.jpg
+    rating: 4.9
+    date: '2026-10-20'
+    code: 688612
+    url: /works/688612/
 ---

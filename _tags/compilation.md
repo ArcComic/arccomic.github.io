@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "compilation"
-work_count: 23
+work_count: 24
 works:
   - title: NTR Anniversary + ) [Syukurin] Mitsuha ~Netorare~ (Kimi no Na wa.) [English]
       [Colorized] by Mikaku
@@ -33,6 +33,13 @@ works:
     date: '2026-04-19'
     code: 536072
     url: /works/536072/
+  - title: Otouto no Musume  | My Little Brother's Daughter  [English] =LWB=
+    author: jingrock
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/592707.jpg
+    rating: 0.0
+    date: '2026-10-20'
+    code: 592707
+    url: /works/592707/
   - title: Igumox - Muramata-san no Himitsu & Aijou - Muramata-san's Secret & Affection
       COMPLETE
     author: igumox

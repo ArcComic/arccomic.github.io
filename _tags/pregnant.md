@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "pregnant"
-work_count: 62
+work_count: 63
 works:
   - title: Mama Naranai Onna-tachi Ch. 1-2
     author: otochichi
@@ -120,6 +120,13 @@ works:
     date: '2026-10-07'
     code: 589628
     url: /works/589628/
+  - title: Otouto no Musume  | My Little Brother's Daughter  [English] =LWB=
+    author: jingrock
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/592707.jpg
+    rating: 0.0
+    date: '2026-10-20'
+    code: 592707
+    url: /works/592707/
   - title: '"Yasashii Dake no Otoko" to Tsuma ni Sute Raretanode... | My Wife Left Me
       Because I was "Too Gentle"...'
     author: special-g

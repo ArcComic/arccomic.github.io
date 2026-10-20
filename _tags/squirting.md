@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "squirting"
-work_count: 166
+work_count: 167
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -113,6 +113,15 @@ works:
     date: '2026-05-03'
     code: 498051
     url: /works/498051/
+  - title: Jiraikei Joshi Debut Shitara Sokujitsu Yarichin Kuzu Otoko ni Kuwaremashita
+      | When I Debuted As A "Jirai-kei" Girl I Was Eaten Up By A Sleazy Guy On The Same
+      Day
+    author: menbou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/500511.jpg
+    rating: 4.7
+    date: '2026-10-20'
+    code: 500511
+    url: /works/500511/
   - title: Denwa chū , Ushiro kara XL no Furin Pisuton 〜 Majimena Hitozuma no Inran
       SEX 1-3 | Fucked with a Giant Dick from Behind while on the Phone - A Serious
       Wife’s Filthy SEX 1-3

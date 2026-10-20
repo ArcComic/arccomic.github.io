@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "condom"
-work_count: 245
+work_count: 246
 works:
   - title: Kaisha de Iroiro | Gettin' Busy at the Office
     author: hara-shigeyuki
@@ -469,6 +469,15 @@ works:
     date: '2026-05-03'
     code: 498051
     url: /works/498051/
+  - title: Jiraikei Joshi Debut Shitara Sokujitsu Yarichin Kuzu Otoko ni Kuwaremashita
+      | When I Debuted As A "Jirai-kei" Girl I Was Eaten Up By A Sleazy Guy On The Same
+      Day
+    author: menbou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/500511.jpg
+    rating: 4.7
+    date: '2026-10-20'
+    code: 500511
+    url: /works/500511/
   - title: Senpai, Sonna no Shiranai desu ~Bansou shite ita Kare no Yubi wa Ima, Watashi
       no Naka o Midashiteru~ | Senpai, I Don't Know About That - His Fingers That Were
       Accompaniment are now Disturbing my Vagina

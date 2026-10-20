@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "manga"
-work_count: 408
+work_count: 409
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -2915,6 +2915,13 @@ works:
     date: '2026-10-17'
     code: 688175
     url: /works/688175/
+  - title: Koi kashira, Koi nano ka Shita | Is It Love? It's Love Isn't It?
+    author: asagi-ryu-amano-miki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688612.jpg
+    rating: 4.9
+    date: '2026-10-20'
+    code: 688612
+    url: /works/688612/
   - title: Hottokenaino
     author: hara-shigeyuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/77864.jpg

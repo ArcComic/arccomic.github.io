@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "doujinshi"
-work_count: 1521
+work_count: 1523
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -1727,6 +1727,15 @@ works:
     date: '2026-05-03'
     code: 500102
     url: /works/500102/
+  - title: Jiraikei Joshi Debut Shitara Sokujitsu Yarichin Kuzu Otoko ni Kuwaremashita
+      | When I Debuted As A "Jirai-kei" Girl I Was Eaten Up By A Sleazy Guy On The Same
+      Day
+    author: menbou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/500511.jpg
+    rating: 4.7
+    date: '2026-10-20'
+    code: 500511
+    url: /works/500511/
   - title: Obedience Part 1
     author: laliberte
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/501709.jpg
@@ -3382,6 +3391,13 @@ works:
     date: '2026-08-25'
     code: 592307
     url: /works/592307/
+  - title: Otouto no Musume  | My Little Brother's Daughter  [English] =LWB=
+    author: jingrock
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/592707.jpg
+    rating: 0.0
+    date: '2026-10-20'
+    code: 592707
+    url: /works/592707/
   - title: Rio no Gouri wa Ikioi de Ose | 順勢推倒莉央的理性
     author: ijou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/592744.jpg

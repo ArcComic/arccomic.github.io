@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole female"
-work_count: 1091
+work_count: 1093
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -1675,6 +1675,15 @@ works:
     date: '2026-07-11'
     code: 499536
     url: /works/499536/
+  - title: Jiraikei Joshi Debut Shitara Sokujitsu Yarichin Kuzu Otoko ni Kuwaremashita
+      | When I Debuted As A "Jirai-kei" Girl I Was Eaten Up By A Sleazy Guy On The Same
+      Day
+    author: menbou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/500511.jpg
+    rating: 4.7
+    date: '2026-10-20'
+    code: 500511
+    url: /works/500511/
   - title: Kioku Soushitsu NTR - Kareshi no Shinyuu ni Hamerare Tsuzuketa 10-kakan -
     author: wes-heartland-smith
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/502563.jpg
@@ -8074,6 +8083,13 @@ works:
     date: '2026-10-18'
     code: 688607
     url: /works/688607/
+  - title: Koi kashira, Koi nano ka Shita | Is It Love? It's Love Isn't It?
+    author: asagi-ryu-amano-miki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688612.jpg
+    rating: 4.9
+    date: '2026-10-20'
+    code: 688612
+    url: /works/688612/
   - title: Ranko-ppoi no! | Ranko-Ish!
     author: napata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/87393.jpg

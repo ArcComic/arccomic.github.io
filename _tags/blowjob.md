@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "blowjob"
-work_count: 726
+work_count: 727
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -1670,6 +1670,13 @@ works:
     date: '2026-08-25'
     code: 592307
     url: /works/592307/
+  - title: Otouto no Musume  | My Little Brother's Daughter  [English] =LWB=
+    author: jingrock
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/592707.jpg
+    rating: 0.0
+    date: '2026-10-20'
+    code: 592707
+    url: /works/592707/
   - title: Mama ga Hirottekita Homeless Jiji☆
     author: rafuro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/593017.jpg

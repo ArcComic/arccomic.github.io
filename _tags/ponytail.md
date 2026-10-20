@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "ponytail"
-work_count: 189
+work_count: 190
 works:
   - title: Ami Mami Mind 5
     author: tsurui
@@ -330,6 +330,13 @@ works:
     date: '2026-09-06'
     code: 589313
     url: /works/589313/
+  - title: Otouto no Musume  | My Little Brother's Daughter  [English] =LWB=
+    author: jingrock
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/592707.jpg
+    rating: 0.0
+    date: '2026-10-20'
+    code: 592707
+    url: /works/592707/
   - title: '"Yasashii Dake no Otoko" to Tsuma ni Sute Raretanode... | My Wife Left Me
       Because I was "Too Gentle"...'
     author: special-g

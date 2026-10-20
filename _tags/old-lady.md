@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "old lady"
-work_count: 7
+work_count: 8
 works:
   - title: Dad stole my gf so i try to steal his wife - CH3
     author: alamama
@@ -54,4 +54,11 @@ works:
     date: '2026-09-09'
     code: 679857
     url: /works/679857/
+  - title: Koi kashira, Koi nano ka Shita | Is It Love? It's Love Isn't It?
+    author: asagi-ryu-amano-miki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688612.jpg
+    rating: 4.9
+    date: '2026-10-20'
+    code: 688612
+    url: /works/688612/
 ---
