@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "blackmail"
-work_count: 158
+work_count: 159
 works:
   - title: Birthday
     author: hashiba-yachi
@@ -115,6 +115,14 @@ works:
     date: '2026-09-22'
     code: 381875
     url: /works/381875/
+  - title: Itabasami na Wakachi Ai 3 | Love Divided Between a Rock and a Hard Place
+      3
+    author: cabin
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/393761.jpg
+    rating: 4.5
+    date: '2026-10-20'
+    code: 393761
+    url: /works/393761/
   - title: I Was Devoured by My Gyaru Senpai (COMIC Anthurium 2021-10) + I Made My Gyaru
       Senpai Cum Over & Over Doggy Style
     author: arimura-daikon

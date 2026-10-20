@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "impregnation"
-work_count: 175
+work_count: 176
 works:
   - title: Kousa suru Osu to Mesu | Male and Female Crossing
     author: ootsuka-kotora
@@ -910,6 +910,13 @@ works:
     date: '2026-07-17'
     code: 664914
     url: /works/664914/
+  - title: Shin Zuma, Ochiru
+    author: t-landolt
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/667150.jpg
+    rating: 0.0
+    date: '2026-10-20'
+    code: 667150
+    url: /works/667150/
   - title: Igyou Koubi Kairaku Jigoku 1 + 2
     author: allegro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/668880.jpg

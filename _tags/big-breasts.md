@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big breasts"
-work_count: 1253
+work_count: 1255
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -6372,6 +6372,13 @@ works:
     date: '2026-09-29'
     code: 667065
     url: /works/667065/
+  - title: Shin Zuma, Ochiru
+    author: t-landolt
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/667150.jpg
+    rating: 0.0
+    date: '2026-10-20'
+    code: 667150
+    url: /works/667150/
   - title: A Saleswoman Interrupted Me While I Was Jerking-Off -- Genkan o Aketara Iru
       Kanyuu Oba-san
     author: chotto-b-sen
@@ -9192,6 +9199,13 @@ works:
     date: '2026-10-18'
     code: 688546
     url: /works/688546/
+  - title: C&C no Buin to... Ii Koto Shichau | Doing Something Lewd... With C&C Members
+    author: yosomono
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688561.jpg
+    rating: 0.0
+    date: '2026-10-20'
+    code: 688561
+    url: /works/688561/
   - title: Boku no Kanojo wa jk Gravure Idol 2 /  My Girlfried Is A Gravure Idol 2
     author: aikawa-tatsuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688567.jpg

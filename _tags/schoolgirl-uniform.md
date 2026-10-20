@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "schoolgirl uniform"
-work_count: 381
+work_count: 383
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -266,6 +266,14 @@ works:
     date: '2026-09-13'
     code: 388627
     url: /works/388627/
+  - title: Itabasami na Wakachi Ai 3 | Love Divided Between a Rock and a Hard Place
+      3
+    author: cabin
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/393761.jpg
+    rating: 4.5
+    date: '2026-10-20'
+    code: 393761
+    url: /works/393761/
   - title: I Was Devoured by My Gyaru Senpai (COMIC Anthurium 2021-10) + I Made My Gyaru
       Senpai Cum Over & Over Doggy Style
     author: arimura-daikon
@@ -2831,4 +2839,11 @@ works:
     date: '2026-10-17'
     code: 688163
     url: /works/688163/
+  - title: C&C no Buin to... Ii Koto Shichau | Doing Something Lewd... With C&C Members
+    author: yosomono
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688561.jpg
+    rating: 0.0
+    date: '2026-10-20'
+    code: 688561
+    url: /works/688561/
 ---

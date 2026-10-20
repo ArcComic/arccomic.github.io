@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "squirting"
-work_count: 167
+work_count: 168
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -1225,6 +1225,13 @@ works:
     date: '2026-10-17'
     code: 688293
     url: /works/688293/
+  - title: C&C no Buin to... Ii Koto Shichau | Doing Something Lewd... With C&C Members
+    author: yosomono
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688561.jpg
+    rating: 0.0
+    date: '2026-10-20'
+    code: 688561
+    url: /works/688561/
   - title: Boku no Kanojo wa jk Gravure Idol 2 /  My Girlfried Is A Gravure Idol 2
     author: aikawa-tatsuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688567.jpg

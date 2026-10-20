@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "x-ray"
-work_count: 377
+work_count: 379
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -166,6 +166,14 @@ works:
     date: '2026-04-19'
     code: 387637
     url: /works/387637/
+  - title: Itabasami na Wakachi Ai 3 | Love Divided Between a Rock and a Hard Place
+      3
+    author: cabin
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/393761.jpg
+    rating: 4.5
+    date: '2026-10-20'
+    code: 393761
+    url: /works/393761/
   - title: SUCCUBUS MONOGATARI
     author: mackgee
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/400846.jpg
@@ -2811,6 +2819,13 @@ works:
     date: '2026-10-18'
     code: 688528
     url: /works/688528/
+  - title: C&C no Buin to... Ii Koto Shichau | Doing Something Lewd... With C&C Members
+    author: yosomono
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688561.jpg
+    rating: 0.0
+    date: '2026-10-20'
+    code: 688561
+    url: /works/688561/
   - title: Tannin no Meido ni Nacchatta KURO GAL 4
     author: ootsuka-kotora
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688600.jpg

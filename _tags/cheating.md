@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "cheating"
-work_count: 409
+work_count: 411
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -366,6 +366,14 @@ works:
     date: '2026-08-24'
     code: 392617
     url: /works/392617/
+  - title: Itabasami na Wakachi Ai 3 | Love Divided Between a Rock and a Hard Place
+      3
+    author: cabin
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/393761.jpg
+    rating: 4.5
+    date: '2026-10-20'
+    code: 393761
+    url: /works/393761/
   - title: Yurikago
     author: neko-samurai
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/398305.jpg
@@ -2257,6 +2265,13 @@ works:
     date: '2026-09-22'
     code: 666748
     url: /works/666748/
+  - title: Shin Zuma, Ochiru
+    author: t-landolt
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/667150.jpg
+    rating: 0.0
+    date: '2026-10-20'
+    code: 667150
+    url: /works/667150/
   - title: Niizuma Nanaka no Roshutsu Office
     author: fukurou-naru-tori
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/668605.jpg

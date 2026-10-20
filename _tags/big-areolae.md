@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big areolae"
-work_count: 113
+work_count: 114
 works:
   - title: Toshoshitsu no Kanojo ~Seiso na Kimi ga Ochiru made~
     author: ame-arare
@@ -509,6 +509,13 @@ works:
     date: '2026-07-17'
     code: 664798
     url: /works/664798/
+  - title: Shin Zuma, Ochiru
+    author: t-landolt
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/667150.jpg
+    rating: 0.0
+    date: '2026-10-20'
+    code: 667150
+    url: /works/667150/
   - title: Boku dake no yuki ane
     author: misaki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/667775.jpg

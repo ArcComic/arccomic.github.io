@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "multi-work series"
-work_count: 448
+work_count: 449
 works:
   - title: Konna ni mo Itooshii Zero
     author: nohito
@@ -199,6 +199,14 @@ works:
     date: '2026-05-03'
     code: 376189
     url: /works/376189/
+  - title: Itabasami na Wakachi Ai 3 | Love Divided Between a Rock and a Hard Place
+      3
+    author: cabin
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/393761.jpg
+    rating: 4.5
+    date: '2026-10-20'
+    code: 393761
+    url: /works/393761/
   - title: Toshoshitsu no Kanojo 5 ~Onna Kyoushi ga Ochiru made (Zenpen)~
     author: ame-arare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/410909.jpg

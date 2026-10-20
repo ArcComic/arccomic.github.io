@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "original"
-work_count: 1235
+work_count: 1237
 works:
   - title: Natsu dake Koibito - Summer only Lover [English] =Forbidden Fetish + Ser
       Maggot=
@@ -459,6 +459,14 @@ works:
     date: '2026-08-24'
     code: 392617
     url: /works/392617/
+  - title: Itabasami na Wakachi Ai 3 | Love Divided Between a Rock and a Hard Place
+      3
+    author: cabin
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/393761.jpg
+    rating: 4.5
+    date: '2026-10-20'
+    code: 393761
+    url: /works/393761/
   - title: Rako Slip!
     author: bujidearu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/393984.jpg
@@ -6143,6 +6151,13 @@ works:
     date: '2026-09-29'
     code: 667065
     url: /works/667065/
+  - title: Shin Zuma, Ochiru
+    author: t-landolt
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/667150.jpg
+    rating: 0.0
+    date: '2026-10-20'
+    code: 667150
+    url: /works/667150/
   - title: A Saleswoman Interrupted Me While I Was Jerking-Off -- Genkan o Aketara Iru
       Kanyuu Oba-san
     author: chotto-b-sen

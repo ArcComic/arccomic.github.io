@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "group"
-work_count: 279
+work_count: 280
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -2036,6 +2036,13 @@ works:
     date: '2026-10-18'
     code: 688506
     url: /works/688506/
+  - title: C&C no Buin to... Ii Koto Shichau | Doing Something Lewd... With C&C Members
+    author: yosomono
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688561.jpg
+    rating: 0.0
+    date: '2026-10-20'
+    code: 688561
+    url: /works/688561/
   - title: Tomodachi no Mama / My Friend's Mother
     author: nakadera-akira
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688570.jpg
