@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "prostitution"
-work_count: 85
+work_count: 86
 works:
   - title: Ikanishite Haha wa Onna o Kaihou Shitaka Ch. 1-14
     author: mitarai-yuuki
@@ -620,6 +620,13 @@ works:
     date: '2026-10-10'
     code: 686531
     url: /works/686531/
+  - title: DeliSen | Delivery Sensei
+    author: emaki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688610.jpg
+    rating: 0.0
+    date: '2026-10-21'
+    code: 688610
+    url: /works/688610/
   - title: DeliHeal Yondara Haha datta node Sono Mama Kai Nagasu Koto ni Shita Hen |
       The Call Girl Turned Out To Be My Mom So I Decided To Tame Her
     author: ameto-yuki

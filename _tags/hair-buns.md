@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "hair buns"
-work_count: 46
+work_count: 47
 works:
   - title: Oppai na Natsuyasumi 2 | The Summer Break of Boobs 2
     author: higashino-mikan
@@ -351,4 +351,11 @@ works:
     date: '2026-10-18'
     code: 688585
     url: /works/688585/
+  - title: DeliSen | Delivery Sensei
+    author: emaki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688610.jpg
+    rating: 0.0
+    date: '2026-10-21'
+    code: 688610
+    url: /works/688610/
 ---

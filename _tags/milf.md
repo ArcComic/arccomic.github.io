@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "milf"
-work_count: 504
+work_count: 505
 works:
   - title: Life with Married Women Just Like a Manga 2 - Ch. 1-5
     author: hidemaru
@@ -3665,6 +3665,13 @@ works:
     date: '2026-10-20'
     code: 688608
     url: /works/688608/
+  - title: DeliSen | Delivery Sensei
+    author: emaki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688610.jpg
+    rating: 0.0
+    date: '2026-10-21'
+    code: 688610
+    url: /works/688610/
   - title: SeFri no Ikiokure Sensei, Boku no Seishun o Jamashinai de Kudasai. | My Spinster
       Teacher Sex-Friend Keeps Getting In My Way
     author: chotto-b-sen

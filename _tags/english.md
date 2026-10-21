@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "english"
-work_count: 1868
+work_count: 1870
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -13604,6 +13604,13 @@ works:
     date: '2026-10-18'
     code: 688546
     url: /works/688546/
+  - title: Tatoeba Konna Million Theater 6 -Emily no Baai-
+    author: binsen
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688547.jpg
+    rating: 0.0
+    date: '2026-10-21'
+    code: 688547
+    url: /works/688547/
   - title: Tatoeba Konna Million Theater 4 -Yokoyama Nao no Baai [Another]-
     author: binsen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688548.jpg
@@ -13692,6 +13699,13 @@ works:
     date: '2026-10-20'
     code: 688608
     url: /works/688608/
+  - title: DeliSen | Delivery Sensei
+    author: emaki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688610.jpg
+    rating: 0.0
+    date: '2026-10-21'
+    code: 688610
+    url: /works/688610/
   - title: SeFri no Ikiokure Sensei, Boku no Seishun o Jamashinai de Kudasai. | My Spinster
       Teacher Sex-Friend Keeps Getting In My Way
     author: chotto-b-sen

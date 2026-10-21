@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "lingerie"
-work_count: 111
+work_count: 112
 works:
   - title: My Care Lady Ch. 1
     author: sugi-g
@@ -816,6 +816,13 @@ works:
     date: '2026-10-18'
     code: 688570
     url: /works/688570/
+  - title: DeliSen | Delivery Sensei
+    author: emaki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688610.jpg
+    rating: 0.0
+    date: '2026-10-21'
+    code: 688610
+    url: /works/688610/
   - title: DeliHeal Yondara Haha datta node Sono Mama Kai Nagasu Koto ni Shita Hen |
       The Call Girl Turned Out To Be My Mom So I Decided To Tame Her
     author: ameto-yuki
