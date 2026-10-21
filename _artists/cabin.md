@@ -1,7 +1,7 @@
 ---
 layout: artist
 artist_name: "cabin"
-work_count: 3
+work_count: 4
 works:
   - title: Love Divided Between a Rock and a Hard Place Ch.1
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/342540.jpg
@@ -9,6 +9,12 @@ works:
     date: '2026-04-23'
     code: 342540
     url: /works/342540/
+  - title: Itabasami na Wakachi Ai 2
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/351440.jpg
+    rating: 0.0
+    date: '2026-10-21'
+    code: 351440
+    url: /works/351440/
   - title: Itabasami na Wakachi Ai 3 | Love Divided Between a Rock and a Hard Place
       3
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/393761.jpg

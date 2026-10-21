@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "twintails"
-work_count: 144
+work_count: 145
 works:
   - title: Sensei wa Shougakusei ga Suki | Sensei Loves Elementary Schoolers
     author: fuyuno-mikan
@@ -179,6 +179,14 @@ works:
     date: '2026-10-07'
     code: 537946
     url: /works/537946/
+  - title: Renai Soudan nante Hobo Sex desu yo ne!? ～Akuyuu Kouhai to Issen Koete Yarimakuru
+      Hanashi～
+    author: menbou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/545225.jpg
+    rating: 0.0
+    date: '2026-10-21'
+    code: 545225
+    url: /works/545225/
   - title: Imouto wa Mesu Orc 7
     author: muneshiro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/547393.jpg

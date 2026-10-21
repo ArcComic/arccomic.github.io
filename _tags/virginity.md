@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "virginity"
-work_count: 168
+work_count: 169
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -450,6 +450,14 @@ works:
     date: '2026-04-19'
     code: 534663
     url: /works/534663/
+  - title: Renai Soudan nante Hobo Sex desu yo ne!? ～Akuyuu Kouhai to Issen Koete Yarimakuru
+      Hanashi～
+    author: menbou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/545225.jpg
+    rating: 0.0
+    date: '2026-10-21'
+    code: 545225
+    url: /works/545225/
   - title: Futari no Ouchi Iede Musume to Doutei-kun no Torokeru Natsu | The Melty Summer
       of a Runaway Gal and a Virgin Guy
     author: akahito

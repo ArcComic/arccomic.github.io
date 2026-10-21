@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "clothed paizuri"
-work_count: 9
+work_count: 10
 works:
   - title: Gakkou to Bed ja Seihantai no, Okkina Kanojo. | My Big Girlfriend Acts the
       Polar Opposite in Bed and at School.
@@ -18,6 +18,13 @@ works:
     date: '2026-10-15'
     code: 321895
     url: /works/321895/
+  - title: Itabasami na Wakachi Ai 2
+    author: cabin
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/351440.jpg
+    rating: 0.0
+    date: '2026-10-21'
+    code: 351440
+    url: /works/351440/
   - title: NIKKE Icha Love Ero Goudou "NIKKE☆Lover" | NIKKE Lovey-Dovey Ero Compendium
       "NIKKE☆Lover"
     author: kumakiti

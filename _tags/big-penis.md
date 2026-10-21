@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big penis"
-work_count: 286
+work_count: 287
 works:
   - title: Tsuma no Imouto no Danna ga Ie ni Kiteiruyoudesu | My Sister-In-Law's Husband
       is Over
@@ -338,6 +338,14 @@ works:
     date: '2026-05-05'
     code: 543358
     url: /works/543358/
+  - title: Renai Soudan nante Hobo Sex desu yo ne!? ～Akuyuu Kouhai to Issen Koete Yarimakuru
+      Hanashi～
+    author: menbou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/545225.jpg
+    rating: 0.0
+    date: '2026-10-21'
+    code: 545225
+    url: /works/545225/
   - title: Seiyoku ni Maketa Natsu Futanari Shoujo to Noukou Nama Sex
     author: ginger-lily
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/545591.jpg

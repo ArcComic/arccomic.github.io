@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "yandere"
-work_count: 36
+work_count: 37
 works:
   - title: Hitorijime Cinderella
     author: okagiri-shou
@@ -31,6 +31,13 @@ works:
     date: '2026-04-23'
     code: 342540
     url: /works/342540/
+  - title: Itabasami na Wakachi Ai 2
+    author: cabin
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/351440.jpg
+    rating: 0.0
+    date: '2026-10-21'
+    code: 351440
+    url: /works/351440/
   - title: Kanojo no Amai Jiraishuu
     author: jirou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/352215.jpg

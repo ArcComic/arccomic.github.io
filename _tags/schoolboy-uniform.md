@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "schoolboy uniform"
-work_count: 110
+work_count: 111
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -96,6 +96,13 @@ works:
     date: '2026-09-04'
     code: 347653
     url: /works/347653/
+  - title: Itabasami na Wakachi Ai 2
+    author: cabin
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/351440.jpg
+    rating: 0.0
+    date: '2026-10-21'
+    code: 351440
+    url: /works/351440/
   - title: Okki na Saori-chan wa Bukiyou ni Eroi
     author: aramaki-echizen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/363219.jpg

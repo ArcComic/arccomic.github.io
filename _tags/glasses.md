@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "glasses"
-work_count: 304
+work_count: 306
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -194,6 +194,13 @@ works:
     date: '2026-09-04'
     code: 347653
     url: /works/347653/
+  - title: Itabasami na Wakachi Ai 2
+    author: cabin
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/351440.jpg
+    rating: 0.0
+    date: '2026-10-21'
+    code: 351440
+    url: /works/351440/
   - title: Ritsuko to Shokuba de...
     author: tsurui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/351810.jpg
@@ -653,6 +660,14 @@ works:
     date: '2026-07-06'
     code: 543494
     url: /works/543494/
+  - title: Renai Soudan nante Hobo Sex desu yo ne!? ～Akuyuu Kouhai to Issen Koete Yarimakuru
+      Hanashi～
+    author: menbou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/545225.jpg
+    rating: 0.0
+    date: '2026-10-21'
+    code: 545225
+    url: /works/545225/
   - title: Office Affair - The Chemistry Between Subordinate And Boss
     author: abbb
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/546621.jpg

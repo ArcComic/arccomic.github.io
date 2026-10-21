@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "schoolgirl uniform"
-work_count: 383
+work_count: 384
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -195,6 +195,13 @@ works:
     date: '2026-09-06'
     code: 349379
     url: /works/349379/
+  - title: Itabasami na Wakachi Ai 2
+    author: cabin
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/351440.jpg
+    rating: 0.0
+    date: '2026-10-21'
+    code: 351440
+    url: /works/351440/
   - title: Kanojo no Amai Jiraishuu
     author: jirou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/352215.jpg

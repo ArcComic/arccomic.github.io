@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "shotacon"
-work_count: 151
+work_count: 152
 works:
   - title: Ikanishite Haha wa Onna o Kaihou Shitaka Ch. 1-14
     author: mitarai-yuuki
@@ -690,6 +690,14 @@ works:
     date: '2026-08-21'
     code: 655421
     url: /works/655421/
+  - title: 'Tall, Tanned, Tomboyish! Nagisa-chan 3 — Since Pregnant Nagisa-chan Can''t
+      Do It, Nagisa''s Hairy Mama Takes Care of the Sexual Relief: Sex Edition'
+    author: ishikarian
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/655991.jpg
+    rating: 0.0
+    date: '2026-10-21'
+    code: 655991
+    url: /works/655991/
   - title: Akogare no Oppai wa Ane no Aji
     author: emine-kendama
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/657256.jpg

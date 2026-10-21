@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "masturbation"
-work_count: 160
+work_count: 161
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -73,6 +73,13 @@ works:
     date: '2026-09-15'
     code: 339953
     url: /works/339953/
+  - title: Itabasami na Wakachi Ai 2
+    author: cabin
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/351440.jpg
+    rating: 0.0
+    date: '2026-10-21'
+    code: 351440
+    url: /works/351440/
   - title: Iro no Ie -Hitozuma ga Sex Suru Hon II- | Erotic House - Married Women Sex
       Book 2
     author: miho-rei

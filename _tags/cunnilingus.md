@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "cunnilingus"
-work_count: 197
+work_count: 199
 works:
   - title: Love Approach
     author: hanafuda-sakurano
@@ -411,6 +411,14 @@ works:
     date: '2026-02-25'
     code: 543086
     url: /works/543086/
+  - title: Renai Soudan nante Hobo Sex desu yo ne!? ～Akuyuu Kouhai to Issen Koete Yarimakuru
+      Hanashi～
+    author: menbou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/545225.jpg
+    rating: 0.0
+    date: '2026-10-21'
+    code: 545225
+    url: /works/545225/
   - title: Soshite Kyou mo Moteasobareru
     author: erun
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/545896.jpg
@@ -961,6 +969,14 @@ works:
     date: '2026-09-29'
     code: 655322
     url: /works/655322/
+  - title: 'Tall, Tanned, Tomboyish! Nagisa-chan 3 — Since Pregnant Nagisa-chan Can''t
+      Do It, Nagisa''s Hairy Mama Takes Care of the Sexual Relief: Sex Edition'
+    author: ishikarian
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/655991.jpg
+    rating: 0.0
+    date: '2026-10-21'
+    code: 655991
+    url: /works/655991/
   - title: Giri no Onee-chan to Sex Suru Hanashi | The story of having sex with my well
       behaved sister
     author: higashino-mikan

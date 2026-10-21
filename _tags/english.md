@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "english"
-work_count: 1870
+work_count: 1873
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -861,6 +861,13 @@ works:
     date: '2026-09-06'
     code: 349379
     url: /works/349379/
+  - title: Itabasami na Wakachi Ai 2
+    author: cabin
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/351440.jpg
+    rating: 0.0
+    date: '2026-10-21'
+    code: 351440
+    url: /works/351440/
   - title: Ritsuko to Shokuba de...
     author: tsurui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/351810.jpg
@@ -3469,6 +3476,14 @@ works:
     date: '2026-07-15'
     code: 544477
     url: /works/544477/
+  - title: Renai Soudan nante Hobo Sex desu yo ne!? ～Akuyuu Kouhai to Issen Koete Yarimakuru
+      Hanashi～
+    author: menbou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/545225.jpg
+    rating: 0.0
+    date: '2026-10-21'
+    code: 545225
+    url: /works/545225/
   - title: Seiyoku ni Maketa Natsu Futanari Shoujo to Noukou Nama Sex
     author: ginger-lily
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/545591.jpg
@@ -7848,6 +7863,14 @@ works:
     date: '2026-09-30'
     code: 655660
     url: /works/655660/
+  - title: 'Tall, Tanned, Tomboyish! Nagisa-chan 3 — Since Pregnant Nagisa-chan Can''t
+      Do It, Nagisa''s Hairy Mama Takes Care of the Sexual Relief: Sex Edition'
+    author: ishikarian
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/655991.jpg
+    rating: 0.0
+    date: '2026-10-21'
+    code: 655991
+    url: /works/655991/
   - title: Jitsubo Kan ~Gifu no Inai Suki ni Jitsu no Haha o Muriyari Okashite Haramaeta
     author: louis-and-visee
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/656034.jpg

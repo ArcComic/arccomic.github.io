@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "orgasm denial"
-work_count: 18
+work_count: 19
 works:
   - title: Ayami Hypno
     author: yasuhiro
@@ -17,6 +17,13 @@ works:
     date: '2026-10-02'
     code: 314536
     url: /works/314536/
+  - title: Itabasami na Wakachi Ai 2
+    author: cabin
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/351440.jpg
+    rating: 0.0
+    date: '2026-10-21'
+    code: 351440
+    url: /works/351440/
   - title: Shiraishi-san Wa Yokkyu Fuman | Shiraishi-san's Frustrated
     author: carburetor
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/392617.jpg

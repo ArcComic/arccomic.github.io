@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "multipanel sequence"
-work_count: 27
+work_count: 28
 works:
   - title: Nibun no Yuudou | Half Seduction
     author: chicke-iii
@@ -142,6 +142,14 @@ works:
     date: '2026-07-16'
     code: 655498
     url: /works/655498/
+  - title: 'Tall, Tanned, Tomboyish! Nagisa-chan 3 — Since Pregnant Nagisa-chan Can''t
+      Do It, Nagisa''s Hairy Mama Takes Care of the Sexual Relief: Sex Edition'
+    author: ishikarian
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/655991.jpg
+    rating: 0.0
+    date: '2026-10-21'
+    code: 655991
+    url: /works/655991/
   - title: Uwakishou na Kaisha no Elite Douki o Ore no Onna ni Suru Hanashi | The Story
       of How I Made my Flirty Coworker my Woman
     author: araido-kagiri

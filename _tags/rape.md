@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "rape"
-work_count: 263
+work_count: 264
 works:
   - title: Office Love Scramble Ch. 1
     author: tohzai
@@ -102,6 +102,13 @@ works:
     date: '2026-09-06'
     code: 349379
     url: /works/349379/
+  - title: Itabasami na Wakachi Ai 2
+    author: cabin
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/351440.jpg
+    rating: 0.0
+    date: '2026-10-21'
+    code: 351440
+    url: /works/351440/
   - title: Ayamachi no Rensa
     author: pororivista
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/351868.jpg

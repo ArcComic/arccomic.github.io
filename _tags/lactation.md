@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "lactation"
-work_count: 42
+work_count: 43
 works:
   - title: Mama Naranai Onna-tachi Ch. 1-2
     author: otochichi
@@ -75,6 +75,14 @@ works:
     date: '2026-03-04'
     code: 508649
     url: /works/508649/
+  - title: Renai Soudan nante Hobo Sex desu yo ne!? ～Akuyuu Kouhai to Issen Koete Yarimakuru
+      Hanashi～
+    author: menbou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/545225.jpg
+    rating: 0.0
+    date: '2026-10-21'
+    code: 545225
+    url: /works/545225/
   - title: Boku no Nurse Maid Isabella no Fudeoroshi ~Ochichi ga Goshomou nara Tanezuke
       kudasaimashi~ | My Nursemaid Isabella's First Time ~ If You Desire, Please Impregnate
       Me ~

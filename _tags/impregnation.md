@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "impregnation"
-work_count: 177
+work_count: 178
 works:
   - title: Kousa suru Osu to Mesu | Male and Female Crossing
     author: ootsuka-kotora
@@ -390,6 +390,14 @@ works:
     date: '2026-05-05'
     code: 543358
     url: /works/543358/
+  - title: Renai Soudan nante Hobo Sex desu yo ne!? ～Akuyuu Kouhai to Issen Koete Yarimakuru
+      Hanashi～
+    author: menbou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/545225.jpg
+    rating: 0.0
+    date: '2026-10-21'
+    code: 545225
+    url: /works/545225/
   - title: Office Affair - The Chemistry Between Subordinate And Boss
     author: abbb
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/546621.jpg

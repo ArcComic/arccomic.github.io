@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "blowjob face"
-work_count: 71
+work_count: 72
 works:
   - title: Mama Naranai Onna-tachi Ch. 1-2
     author: otochichi
@@ -278,6 +278,14 @@ works:
     date: '2026-07-16'
     code: 655498
     url: /works/655498/
+  - title: 'Tall, Tanned, Tomboyish! Nagisa-chan 3 — Since Pregnant Nagisa-chan Can''t
+      Do It, Nagisa''s Hairy Mama Takes Care of the Sexual Relief: Sex Edition'
+    author: ishikarian
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/655991.jpg
+    rating: 0.0
+    date: '2026-10-21'
+    code: 655991
+    url: /works/655991/
   - title: Zuriniku paiholl
     author: '41'
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/660465.jpg

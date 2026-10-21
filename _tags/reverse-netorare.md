@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "reverse netorare"
-work_count: 24
+work_count: 25
 works:
   - title: Hajimete Kanojo Ga Dekita No Ni
     author: unknown
@@ -18,6 +18,13 @@ works:
     date: '2026-04-27'
     code: 337171
     url: /works/337171/
+  - title: Itabasami na Wakachi Ai 2
+    author: cabin
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/351440.jpg
+    rating: 0.0
+    date: '2026-10-21'
+    code: 351440
+    url: /works/351440/
   - title: Netoriai -Watashi no Hou ga, Kimi ga Suki- | NTR Love -I'm The One Who Loves
       You-
     author: kuguri-oimo

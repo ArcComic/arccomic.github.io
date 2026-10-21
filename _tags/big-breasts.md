@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big breasts"
-work_count: 1259
+work_count: 1262
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -486,6 +486,13 @@ works:
     date: '2026-04-17'
     code: 349247
     url: /works/349247/
+  - title: Itabasami na Wakachi Ai 2
+    author: cabin
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/351440.jpg
+    rating: 0.0
+    date: '2026-10-21'
+    code: 351440
+    url: /works/351440/
   - title: Kanojo no Amai Jiraishuu
     author: jirou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/352215.jpg
@@ -2039,6 +2046,14 @@ works:
     date: '2026-04-13'
     code: 544993
     url: /works/544993/
+  - title: Renai Soudan nante Hobo Sex desu yo ne!? ～Akuyuu Kouhai to Issen Koete Yarimakuru
+      Hanashi～
+    author: menbou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/545225.jpg
+    rating: 0.0
+    date: '2026-10-21'
+    code: 545225
+    url: /works/545225/
   - title: Seiyoku ni Maketa Natsu Futanari Shoujo to Noukou Nama Sex
     author: ginger-lily
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/545591.jpg
@@ -5350,6 +5365,14 @@ works:
     date: '2026-09-30'
     code: 655660
     url: /works/655660/
+  - title: 'Tall, Tanned, Tomboyish! Nagisa-chan 3 — Since Pregnant Nagisa-chan Can''t
+      Do It, Nagisa''s Hairy Mama Takes Care of the Sexual Relief: Sex Edition'
+    author: ishikarian
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/655991.jpg
+    rating: 0.0
+    date: '2026-10-21'
+    code: 655991
+    url: /works/655991/
   - title: Jitsubo Kan ~Gifu no Inai Suki ni Jitsu no Haha o Muriyari Okashite Haramaeta
     author: louis-and-visee
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/656034.jpg

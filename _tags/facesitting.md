@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "facesitting"
-work_count: 28
+work_count: 29
 works:
   - title: Yuri no o saifu ni shite agemasu ne, Senpai | I'll turn you into Yuri's wallet,
       Senpai
@@ -137,6 +137,14 @@ works:
     date: '2026-05-26'
     code: 652244
     url: /works/652244/
+  - title: 'Tall, Tanned, Tomboyish! Nagisa-chan 3 — Since Pregnant Nagisa-chan Can''t
+      Do It, Nagisa''s Hairy Mama Takes Care of the Sexual Relief: Sex Edition'
+    author: ishikarian
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/655991.jpg
+    rating: 0.0
+    date: '2026-10-21'
+    code: 655991
+    url: /works/655991/
   - title: Dandan Kuse ni Naru - I like molester? .........No
     author: panda
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/661142.jpg
