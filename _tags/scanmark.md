@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "scanmark"
-work_count: 248
+work_count: 249
 works:
   - title: NTR Anniversary + ) [Syukurin] Mitsuha ~Netorare~ (Kimi no Na wa.) [English]
       [Colorized] by Mikaku
@@ -507,6 +507,13 @@ works:
     date: '2026-05-20'
     code: 651346
     url: /works/651346/
+  - title: Houkai Kazoku 0-Hahaoya ga Yakuza to no Sex ni Hamatta Hanashi-
+    author: watsondou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/653080.jpg
+    rating: 0.0
+    date: '2026-10-21'
+    code: 653080
+    url: /works/653080/
   - title: Boku no Kanojo wa Okaasan
     author: momoiro-onsen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654091.jpg

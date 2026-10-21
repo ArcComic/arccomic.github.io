@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "large tattoo"
-work_count: 20
+work_count: 21
 works:
   - title: NTR Nindou | The NTR Ninja Way
     author: tokie-hirohito
@@ -69,6 +69,13 @@ works:
     date: '2026-09-30'
     code: 653079
     url: /works/653079/
+  - title: Houkai Kazoku 0-Hahaoya ga Yakuza to no Sex ni Hamatta Hanashi-
+    author: watsondou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/653080.jpg
+    rating: 0.0
+    date: '2026-10-21'
+    code: 653080
+    url: /works/653080/
   - title: Shinyuu Tatakitsubushi Kyousou Shiiku Seikatsu | A Life in Captivity The
       Competition to Break My Best Friend
     author: group

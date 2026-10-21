@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sleeping"
-work_count: 64
+work_count: 65
 works:
   - title: Netemo Sametemo | Be it Sleeping or Awake
     author: takasugi-kou
@@ -467,4 +467,11 @@ works:
     date: '2026-10-12'
     code: 686737
     url: /works/686737/
+  - title: Neteiru Okaa-san o Yaritai Houdai!
+    author: natsume-benkei
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688473.jpg
+    rating: 4.7
+    date: '2026-10-21'
+    code: 688473
+    url: /works/688473/
 ---

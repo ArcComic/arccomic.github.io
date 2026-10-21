@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "natsume benkei"
-work_count: 6
+work_count: 7
 works:
   - title: Mainichi Okaa-san de Seiyoku Shori! Onaho Gawari no Hahaoya ni Tairyou Nakadashi
       Hen | Mom Gets Me Off Every Day! Filling Mom With Cum
@@ -46,4 +46,11 @@ works:
     date: '2026-09-08'
     code: 679501
     url: /works/679501/
+  - title: Neteiru Okaa-san o Yaritai Houdai!
+    author: natsume-benkei
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688473.jpg
+    rating: 4.7
+    date: '2026-10-21'
+    code: 688473
+    url: /works/688473/
 ---

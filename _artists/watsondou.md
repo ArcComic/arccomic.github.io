@@ -1,7 +1,7 @@
 ---
 layout: artist
 artist_name: "watsondou"
-work_count: 6
+work_count: 7
 works:
   - title: Houkai Kazoku -Hahaoya ga Yakuza to no Sex ni Hamatta Hanashi- | Broken Family
       - A Story About a Mother Who Became Addicted to Sex With a Yakuza
@@ -38,6 +38,12 @@ works:
     date: '2026-09-30'
     code: 653079
     url: /works/653079/
+  - title: Houkai Kazoku 0-Hahaoya ga Yakuza to no Sex ni Hamatta Hanashi-
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/653080.jpg
+    rating: 0.0
+    date: '2026-10-21'
+    code: 653080
+    url: /works/653080/
   - title: Houkai Kazoku 2-Hahaoya ga Yakuza to no Sex ni Hamatta Hanashi- / Broken
       Family 2 - A Story About a Mother Who Became Addicted to Sex With a Yakuza
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688585.jpg

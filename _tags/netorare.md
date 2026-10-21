@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "netorare"
-work_count: 478
+work_count: 480
 works:
   - title: Kousa suru Osu to Mesu | Male and Female Crossing
     author: ootsuka-kotora
@@ -2078,6 +2078,13 @@ works:
     date: '2026-09-30'
     code: 653079
     url: /works/653079/
+  - title: Houkai Kazoku 0-Hahaoya ga Yakuza to no Sex ni Hamatta Hanashi-
+    author: watsondou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/653080.jpg
+    rating: 0.0
+    date: '2026-10-21'
+    code: 653080
+    url: /works/653080/
   - title: Netori Otoko o Mesu ni suru | Turning the Cuckolding Prick into a Bitch
     author: yonayona
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654218.jpg
@@ -3513,6 +3520,14 @@ works:
     date: '2026-10-18'
     code: 688585
     url: /works/688585/
+  - title: SeFri no Ikiokure Sensei, Boku no Seishun o Jamashinai de Kudasai. | My Spinster
+      Teacher Sex-Friend Keeps Getting In My Way
+    author: chotto-b-sen
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688611.jpg
+    rating: 0.0
+    date: '2026-10-21'
+    code: 688611
+    url: /works/688611/
   - title: DeliHeal Yondara Haha datta node Sono Mama Kai Nagasu Koto ni Shita Hen |
       The Call Girl Turned Out To Be My Mom So I Decided To Tame Her
     author: ameto-yuki

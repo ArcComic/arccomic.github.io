@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "multi-work series"
-work_count: 449
+work_count: 450
 works:
   - title: Konna ni mo Itooshii Zero
     author: nohito
@@ -1972,6 +1972,13 @@ works:
     date: '2026-05-27'
     code: 652836
     url: /works/652836/
+  - title: Houkai Kazoku 0-Hahaoya ga Yakuza to no Sex ni Hamatta Hanashi-
+    author: watsondou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/653080.jpg
+    rating: 0.0
+    date: '2026-10-21'
+    code: 653080
+    url: /works/653080/
   - title: Namaiki Gal o Succubus ni Shite Oshioki Shitatta Ken 4 | Bewitched Reckoning
       How I Turned My Bully Into a Succubus 4
     author: takurowo

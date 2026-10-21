@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "schoolboy uniform"
-work_count: 109
+work_count: 110
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -796,6 +796,14 @@ works:
     date: '2026-10-17'
     code: 688163
     url: /works/688163/
+  - title: SeFri no Ikiokure Sensei, Boku no Seishun o Jamashinai de Kudasai. | My Spinster
+      Teacher Sex-Friend Keeps Getting In My Way
+    author: chotto-b-sen
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688611.jpg
+    rating: 0.0
+    date: '2026-10-21'
+    code: 688611
+    url: /works/688611/
   - title: Jokyoushi - Hot For Teachers | Female Teachers
     author: drill-murata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/81375.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "mosaic censorship"
-work_count: 336
+work_count: 338
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -2449,6 +2449,13 @@ works:
     date: '2026-10-18'
     code: 688459
     url: /works/688459/
+  - title: Neteiru Okaa-san o Yaritai Houdai!
+    author: natsume-benkei
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688473.jpg
+    rating: 4.7
+    date: '2026-10-21'
+    code: 688473
+    url: /works/688473/
   - title: Boku no Kanojo wa jk Gravure Idol 2 /  My Girlfried Is A Gravure Idol 2
     author: aikawa-tatsuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688567.jpg
@@ -2463,6 +2470,14 @@ works:
     date: '2026-10-20'
     code: 688608
     url: /works/688608/
+  - title: SeFri no Ikiokure Sensei, Boku no Seishun o Jamashinai de Kudasai. | My Spinster
+      Teacher Sex-Friend Keeps Getting In My Way
+    author: chotto-b-sen
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688611.jpg
+    rating: 0.0
+    date: '2026-10-21'
+    code: 688611
+    url: /works/688611/
   - title: DeliHeal Yondara Haha datta node Sono Mama Kai Nagasu Koto ni Shita Hen |
       The Call Girl Turned Out To Be My Mom So I Decided To Tame Her
     author: ameto-yuki

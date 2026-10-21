@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "incest"
-work_count: 334
+work_count: 335
 works:
   - title: Imitation Family + Bigibo Hen
     author: tohzai
@@ -2401,6 +2401,13 @@ works:
     date: '2026-10-17'
     code: 688289
     url: /works/688289/
+  - title: Neteiru Okaa-san o Yaritai Houdai!
+    author: natsume-benkei
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688473.jpg
+    rating: 4.7
+    date: '2026-10-21'
+    code: 688473
+    url: /works/688473/
   - title: '"Kami no Daigosan" Hahaoya to Musuko ga Doujiki ni Seiyoku no Peak o Mukaete
       Shimau!! | Mother and son hit their peak libido at the very same time!!'
     author: group

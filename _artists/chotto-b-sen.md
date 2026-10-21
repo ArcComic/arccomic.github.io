@@ -1,7 +1,7 @@
 ---
 layout: artist
 artist_name: "chotto-b-sen"
-work_count: 9
+work_count: 10
 works:
   - title: What would happen if you said "Let's have sex." while your teacher was scolding
       you?
@@ -63,4 +63,11 @@ works:
     date: '2026-09-17'
     code: 681986
     url: /works/681986/
+  - title: SeFri no Ikiokure Sensei, Boku no Seishun o Jamashinai de Kudasai. | My Spinster
+      Teacher Sex-Friend Keeps Getting In My Way
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688611.jpg
+    rating: 0.0
+    date: '2026-10-21'
+    code: 688611
+    url: /works/688611/
 ---

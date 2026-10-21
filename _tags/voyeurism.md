@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "voyeurism"
-work_count: 69
+work_count: 70
 works:
   - title: Tsutomesaki no Musume-san o Oishiku Itadaku Hon Minshuku Hen
     author: aya
@@ -356,6 +356,13 @@ works:
     date: '2026-09-30'
     code: 653079
     url: /works/653079/
+  - title: Houkai Kazoku 0-Hahaoya ga Yakuza to no Sex ni Hamatta Hanashi-
+    author: watsondou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/653080.jpg
+    rating: 0.0
+    date: '2026-10-21'
+    code: 653080
+    url: /works/653080/
   - title: Mother's Orgasm ~Completely Submissive to Son's Cock~Chapter 1
     author: jamming
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/653091.jpg

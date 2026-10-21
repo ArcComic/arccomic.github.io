@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "chloroform"
-work_count: 23
+work_count: 24
 works:
   - title: Toshoshitsu no Kanojo ~Seiso na Kimi ga Ochiru made~
     author: ame-arare
@@ -174,4 +174,11 @@ works:
     date: '2026-09-28'
     code: 684647
     url: /works/684647/
+  - title: Neteiru Okaa-san o Yaritai Houdai!
+    author: natsume-benkei
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688473.jpg
+    rating: 4.7
+    date: '2026-10-21'
+    code: 688473
+    url: /works/688473/
 ---
