@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "glasses"
-work_count: 306
+work_count: 308
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -456,6 +456,14 @@ works:
     date: '2026-04-15'
     code: 485905
     url: /works/485905/
+  - title: Itabasami na Wakachi Ai 5 | Love Divided Between a Rock and a Hard Place
+      5
+    author: cabin
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/490737.jpg
+    rating: 4.0
+    date: '2026-10-21'
+    code: 490737
+    url: /works/490737/
   - title: Houyuu
     author: tsukumo-nikyu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/491042.jpg
@@ -2211,6 +2219,14 @@ works:
     date: '2026-10-17'
     code: 688289
     url: /works/688289/
+  - title: Asekkaki de Kakure Sukebe na Hamura-san to Bungei Bushitsu o  Yaribeya ni
+      Suru.
+    author: ishikarian
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688446.jpg
+    rating: 0.0
+    date: '2026-10-21'
+    code: 688446
+    url: /works/688446/
   - title: Chijo. -Jimi Kyonyuu na Keiri Takahashi ni Do-M Guse o Kaika Saserareta Ore-
       | Perverted Woman - Takahashi, a Modest, Busty Accountant, Made Me Develop a Masochist
       Habit...

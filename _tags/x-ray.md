@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "x-ray"
-work_count: 382
+work_count: 384
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -423,6 +423,14 @@ works:
     date: '2026-10-12'
     code: 485930
     url: /works/485930/
+  - title: Itabasami na Wakachi Ai 5 | Love Divided Between a Rock and a Hard Place
+      5
+    author: cabin
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/490737.jpg
+    rating: 4.0
+    date: '2026-10-21'
+    code: 490737
+    url: /works/490737/
   - title: Osananajimi wa Owari｜End of a Childhood Friendship
     author: henkuma
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/491312.jpg
@@ -2835,6 +2843,14 @@ works:
     date: '2026-10-17'
     code: 688293
     url: /works/688293/
+  - title: Asekkaki de Kakure Sukebe na Hamura-san to Bungei Bushitsu o  Yaribeya ni
+      Suru.
+    author: ishikarian
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688446.jpg
+    rating: 0.0
+    date: '2026-10-21'
+    code: 688446
+    url: /works/688446/
   - title: Taihai Tsuma 2 Taihaikei Hitozuma o Yachin Kawari ni Koki Tsukaeru Hanashi
     author: kametaro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688528.jpg

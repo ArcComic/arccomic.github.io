@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "stockings"
-work_count: 256
+work_count: 257
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -306,6 +306,14 @@ works:
     date: '2026-02-26'
     code: 475867
     url: /works/475867/
+  - title: Itabasami na Wakachi Ai 5 | Love Divided Between a Rock and a Hard Place
+      5
+    author: cabin
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/490737.jpg
+    rating: 4.0
+    date: '2026-10-21'
+    code: 490737
+    url: /works/490737/
   - title: Jiraikei Joshi Debut Shitara Sokujitsu Yarichin Kuzu Otoko ni Kuwaremashita
       | When I Debuted As A "Jirai-kei" Girl I Was Eaten Up By A Sleazy Guy On The Same
       Day

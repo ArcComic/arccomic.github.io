@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "maid"
-work_count: 48
+work_count: 49
 works:
   - title: Maid no Oshigoto. II | Maid's Work II
     author: alexi-laiho
@@ -54,6 +54,14 @@ works:
     date: '2026-09-11'
     code: 528308
     url: /works/528308/
+  - title: Douteizuki no Jirai Onna ni Seiyoku o Guchagucha ni Sareru Hanashi | A Virgin
+      Loving Walking Red Flag With A Messed Up Libido!
+    author: menbou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/531039.jpg
+    rating: 0.0
+    date: '2026-10-21'
+    code: 531039
+    url: /works/531039/
   - title: Ai wa Oshiminaku | Love is given without reservation
     author: yoshika
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/539377.jpg

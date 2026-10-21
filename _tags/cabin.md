@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "cabin"
-work_count: 12
+work_count: 14
 works:
   - &id001
     title: Love Divided Between a Rock and a Hard Place Ch.1
@@ -42,6 +42,16 @@ works:
     url: /works/448503/
   - *id004
   - &id005
+    title: Itabasami na Wakachi Ai 5 | Love Divided Between a Rock and a Hard Place
+      5
+    author: cabin
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/490737.jpg
+    rating: 4.0
+    date: '2026-10-21'
+    code: 490737
+    url: /works/490737/
+  - *id005
+  - &id006
     title: Zenin Mukuwarenai Harem | A Harem Where No One Is Reciprocated
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/610041.jpg
@@ -49,8 +59,8 @@ works:
     date: '2026-04-23'
     code: 610041
     url: /works/610041/
-  - *id005
-  - &id006
+  - *id006
+  - &id007
     title: Zenin Mukuwarenai Harem | A Harem Where No One Is Reciprocated 2
     author: cabin
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/669856.jpg
@@ -58,5 +68,5 @@ works:
     date: '2026-10-21'
     code: 669856
     url: /works/669856/
-  - *id006
+  - *id007
 ---

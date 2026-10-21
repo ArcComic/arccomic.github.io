@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "amazon position"
-work_count: 10
+work_count: 11
 works:
   - title: Gakkou to Bed ja Seihantai no, Okkina Kanojo. | My Big Girlfriend Acts the
       Polar Opposite in Bed and at School.
@@ -26,6 +26,14 @@ works:
     date: '2026-04-23'
     code: 448503
     url: /works/448503/
+  - title: Itabasami na Wakachi Ai 5 | Love Divided Between a Rock and a Hard Place
+      5
+    author: cabin
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/490737.jpg
+    rating: 4.0
+    date: '2026-10-21'
+    code: 490737
+    url: /works/490737/
   - title: Osananajimi wa Owari｜End of a Childhood Friendship
     author: henkuma
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/491312.jpg

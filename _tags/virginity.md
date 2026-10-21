@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "virginity"
-work_count: 169
+work_count: 170
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -421,6 +421,14 @@ works:
     date: '2026-09-30'
     code: 528161
     url: /works/528161/
+  - title: Douteizuki no Jirai Onna ni Seiyoku o Guchagucha ni Sareru Hanashi | A Virgin
+      Loving Walking Red Flag With A Messed Up Libido!
+    author: menbou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/531039.jpg
+    rating: 0.0
+    date: '2026-10-21'
+    code: 531039
+    url: /works/531039/
   - title: Keitai de Muchimuchi na Chounyuu JD ni Chinpo o Shigoki Agete Morau Hanashi
     author: yosyo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/531191.jpg

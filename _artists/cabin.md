@@ -1,7 +1,7 @@
 ---
 layout: artist
 artist_name: "cabin"
-work_count: 5
+work_count: 6
 works:
   - title: Love Divided Between a Rock and a Hard Place Ch.1
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/342540.jpg
@@ -29,6 +29,13 @@ works:
     date: '2026-04-23'
     code: 448503
     url: /works/448503/
+  - title: Itabasami na Wakachi Ai 5 | Love Divided Between a Rock and a Hard Place
+      5
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/490737.jpg
+    rating: 4.0
+    date: '2026-10-21'
+    code: 490737
+    url: /works/490737/
   - title: Zenin Mukuwarenai Harem | A Harem Where No One Is Reciprocated 2
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/669856.jpg
     rating: 0.0

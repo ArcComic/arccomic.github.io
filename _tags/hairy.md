@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "hairy"
-work_count: 351
+work_count: 352
 works:
   - title: MAGIC SEVEN
     author: asuhiro
@@ -2521,6 +2521,14 @@ works:
     date: '2026-10-17'
     code: 688289
     url: /works/688289/
+  - title: Asekkaki de Kakure Sukebe na Hamura-san to Bungei Bushitsu o  Yaribeya ni
+      Suru.
+    author: ishikarian
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688446.jpg
+    rating: 0.0
+    date: '2026-10-21'
+    code: 688446
+    url: /works/688446/
   - title: Chijo. -Jimi Kyonyuu na Keiri Takahashi ni Do-M Guse o Kaika Saserareta Ore-
       | Perverted Woman - Takahashi, a Modest, Busty Accountant, Made Me Develop a Masochist
       Habit...

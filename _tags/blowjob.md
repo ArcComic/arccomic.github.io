@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "blowjob"
-work_count: 739
+work_count: 742
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -851,6 +851,14 @@ works:
     date: '2026-09-26'
     code: 490633
     url: /works/490633/
+  - title: Itabasami na Wakachi Ai 5 | Love Divided Between a Rock and a Hard Place
+      5
+    author: cabin
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/490737.jpg
+    rating: 4.0
+    date: '2026-10-21'
+    code: 490737
+    url: /works/490737/
   - title: Datenshi no Yuuwaku -Office Angel Project- 1
     author: hiraoka-ryuichi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/491622.jpg
@@ -1153,6 +1161,14 @@ works:
     date: '2026-08-18'
     code: 530728
     url: /works/530728/
+  - title: Douteizuki no Jirai Onna ni Seiyoku o Guchagucha ni Sareru Hanashi | A Virgin
+      Loving Walking Red Flag With A Messed Up Libido!
+    author: menbou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/531039.jpg
+    rating: 0.0
+    date: '2026-10-21'
+    code: 531039
+    url: /works/531039/
   - title: Keitai de Muchimuchi na Chounyuu JD ni Chinpo o Shigoki Agete Morau Hanashi
     author: yosyo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/531191.jpg
@@ -5397,6 +5413,14 @@ works:
     date: '2026-10-17'
     code: 688293
     url: /works/688293/
+  - title: Asekkaki de Kakure Sukebe na Hamura-san to Bungei Bushitsu o  Yaribeya ni
+      Suru.
+    author: ishikarian
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688446.jpg
+    rating: 0.0
+    date: '2026-10-21'
+    code: 688446
+    url: /works/688446/
   - title: Chijo. -Jimi Kyonyuu na Keiri Takahashi ni Do-M Guse o Kaika Saserareta Ore-
       | Perverted Woman - Takahashi, a Modest, Busty Accountant, Made Me Develop a Masochist
       Habit...

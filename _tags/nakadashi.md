@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "nakadashi"
-work_count: 949
+work_count: 952
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -1150,6 +1150,14 @@ works:
     date: '2026-09-09'
     code: 489566
     url: /works/489566/
+  - title: Itabasami na Wakachi Ai 5 | Love Divided Between a Rock and a Hard Place
+      5
+    author: cabin
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/490737.jpg
+    rating: 4.0
+    date: '2026-10-21'
+    code: 490737
+    url: /works/490737/
   - title: Osananajimi wa Owari｜End of a Childhood Friendship
     author: henkuma
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/491312.jpg
@@ -1577,6 +1585,14 @@ works:
     date: '2026-08-18'
     code: 530728
     url: /works/530728/
+  - title: Douteizuki no Jirai Onna ni Seiyoku o Guchagucha ni Sareru Hanashi | A Virgin
+      Loving Walking Red Flag With A Messed Up Libido!
+    author: menbou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/531039.jpg
+    rating: 0.0
+    date: '2026-10-21'
+    code: 531039
+    url: /works/531039/
   - title: Keitai de Muchimuchi na Chounyuu JD ni Chinpo o Shigoki Agete Morau Hanashi
     author: yosyo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/531191.jpg
@@ -6936,6 +6952,14 @@ works:
     date: '2026-10-18'
     code: 688413
     url: /works/688413/
+  - title: Asekkaki de Kakure Sukebe na Hamura-san to Bungei Bushitsu o  Yaribeya ni
+      Suru.
+    author: ishikarian
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688446.jpg
+    rating: 0.0
+    date: '2026-10-21'
+    code: 688446
+    url: /works/688446/
   - title: Chijo. -Jimi Kyonyuu na Keiri Takahashi ni Do-M Guse o Kaika Saserareta Ore-
       | Perverted Woman - Takahashi, a Modest, Busty Accountant, Made Me Develop a Masochist
       Habit...

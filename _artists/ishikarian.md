@@ -1,7 +1,7 @@
 ---
 layout: artist
 artist_name: "ishikarian"
-work_count: 3
+work_count: 4
 works:
   - title: Watashi de Sukkiri Sasechaina ~Hatsukoi Aite ni Tsurareru Ore~
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/510698.jpg
@@ -22,4 +22,11 @@ works:
     date: '2026-10-21'
     code: 655991
     url: /works/655991/
+  - title: Asekkaki de Kakure Sukebe na Hamura-san to Bungei Bushitsu o  Yaribeya ni
+      Suru.
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688446.jpg
+    rating: 0.0
+    date: '2026-10-21'
+    code: 688446
+    url: /works/688446/
 ---
