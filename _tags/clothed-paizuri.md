@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "clothed paizuri"
-work_count: 10
+work_count: 11
 works:
   - title: Gakkou to Bed ja Seihantai no, Okkina Kanojo. | My Big Girlfriend Acts the
       Polar Opposite in Bed and at School.
@@ -66,6 +66,13 @@ works:
     date: '2026-05-26'
     code: 652471
     url: /works/652471/
+  - title: Zenin Mukuwarenai Harem | A Harem Where No One Is Reciprocated 2
+    author: cabin
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/669856.jpg
+    rating: 0.0
+    date: '2026-10-21'
+    code: 669856
+    url: /works/669856/
   - title: Minna de Shūgaku Ryokō-hen | School Trip Arc With Everyone
     author: sakidesu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/676352.jpg

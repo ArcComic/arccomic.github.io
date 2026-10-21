@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "story arc"
-work_count: 242
+work_count: 243
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -1234,6 +1234,13 @@ works:
     date: '2026-07-16'
     code: 664831
     url: /works/664831/
+  - title: Zenin Mukuwarenai Harem | A Harem Where No One Is Reciprocated 2
+    author: cabin
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/669856.jpg
+    rating: 0.0
+    date: '2026-10-21'
+    code: 669856
+    url: /works/669856/
   - title: Koitsu Maji de Chorokatta | This Chick Was Totally Easy
     author: doron
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/671419.jpg

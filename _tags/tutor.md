@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "tutor"
-work_count: 11
+work_count: 12
 works:
   - title: Sensei wa Shougakusei ga Suki | Sensei Loves Elementary Schoolers
     author: fuyuno-mikan
@@ -62,6 +62,14 @@ works:
     date: '2026-04-25'
     code: 645677
     url: /works/645677/
+  - title: Erosugiru Jiraikei Kateikyoushi ni Kimochi Ii Koto mo Zenbu Oshiete Morau
+      Hanashi
+    author: menbou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/666089.jpg
+    rating: 0.0
+    date: '2026-10-21'
+    code: 666089
+    url: /works/666089/
   - title: Katei Kyoushi no Hitsuyou na | What a Private Tutor Needs
     author: aya-shachou-ayashi-yachiyo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679215.jpg

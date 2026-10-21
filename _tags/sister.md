@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sister"
-work_count: 118
+work_count: 119
 works:
   - title: Imitation Family + Bigibo Hen
     author: tohzai
@@ -138,6 +138,13 @@ works:
     date: '2026-10-10'
     code: 509580
     url: /works/509580/
+  - title: Watashi de Sukkiri Sasechaina ~Hatsukoi Aite ni Tsurareru Ore~
+    author: ishikarian
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/510698.jpg
+    rating: 0.0
+    date: '2026-10-21'
+    code: 510698
+    url: /works/510698/
   - title: Watashi, Gitei no Are de… Kanji teru!~ Aniki yori Dekakute Iidaro 1-3 | I'm
       Feeling... My Brother-in-Law's Cock! 〜I'm Bigger Than My Brother's, Aren't I?
       ch.1-3

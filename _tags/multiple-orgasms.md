@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "multiple orgasms"
-work_count: 135
+work_count: 136
 works:
   - title: Rako Slip!
     author: bujidearu
@@ -775,6 +775,13 @@ works:
     date: '2026-08-31'
     code: 669505
     url: /works/669505/
+  - title: Zenin Mukuwarenai Harem | A Harem Where No One Is Reciprocated 2
+    author: cabin
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/669856.jpg
+    rating: 0.0
+    date: '2026-10-21'
+    code: 669856
+    url: /works/669856/
   - title: Wari no Ii Beit Nante Sonzai Shinai | This job was too good to be true
     author: hikitogu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/670195.jpg

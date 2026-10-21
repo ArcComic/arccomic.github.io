@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "domination loss"
-work_count: 48
+work_count: 49
 works:
   - title: My Only Princess
     author: mackgee
@@ -285,6 +285,13 @@ works:
     date: '2026-09-07'
     code: 669254
     url: /works/669254/
+  - title: Zenin Mukuwarenai Harem | A Harem Where No One Is Reciprocated 2
+    author: cabin
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/669856.jpg
+    rating: 0.0
+    date: '2026-10-21'
+    code: 669856
+    url: /works/669856/
   - title: Onii-san Zako sugite Ukeru~ | Big Brother, you're so pathetic, it's hilarious~
     author: puritei
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/674568.jpg

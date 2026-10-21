@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "schoolgirl uniform"
-work_count: 384
+work_count: 385
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -2002,6 +2002,13 @@ works:
     date: '2026-10-15'
     code: 668636
     url: /works/668636/
+  - title: Zenin Mukuwarenai Harem | A Harem Where No One Is Reciprocated 2
+    author: cabin
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/669856.jpg
+    rating: 0.0
+    date: '2026-10-21'
+    code: 669856
+    url: /works/669856/
   - title: Kareshi Mochi Kyonyuu Beit Gal to Mechakucha Sex shita Hanashi | I Had Wild
       Sex with a Taken Busty Gyaru Part-Timer!
     author: bs3

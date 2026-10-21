@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "multipanel sequence"
-work_count: 28
+work_count: 29
 works:
   - title: Nibun no Yuudou | Half Seduction
     author: chicke-iii
@@ -172,6 +172,13 @@ works:
     date: '2026-09-24'
     code: 667990
     url: /works/667990/
+  - title: Zenin Mukuwarenai Harem | A Harem Where No One Is Reciprocated 2
+    author: cabin
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/669856.jpg
+    rating: 0.0
+    date: '2026-10-21'
+    code: 669856
+    url: /works/669856/
   - title: Kareshi Mochi Kyonyuu Beit Gal to Mechakucha Sex shita Hanashi | I Had Wild
       Sex with a Taken Busty Gyaru Part-Timer!
     author: bs3

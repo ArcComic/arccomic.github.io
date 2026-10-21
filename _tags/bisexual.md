@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bisexual"
-work_count: 47
+work_count: 48
 works:
   - title: Akarui Kazoku Seikatsu
     author: pistonring-nishizawa
@@ -205,6 +205,13 @@ works:
     date: '2026-07-17'
     code: 664937
     url: /works/664937/
+  - title: Zenin Mukuwarenai Harem | A Harem Where No One Is Reciprocated 2
+    author: cabin
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/669856.jpg
+    rating: 0.0
+    date: '2026-10-21'
+    code: 669856
+    url: /works/669856/
   - title: Motto Mawashite Ura Kairanban Ch. 1-4
     author: yano-toshinori
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/670485.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "netori"
-work_count: 33
+work_count: 34
 works:
   - title: Onee-chan ga Ecchi na Koto bakka Suru kara... | My older sister only does
       obscene things...
@@ -191,6 +191,13 @@ works:
     date: '2026-07-11'
     code: 663287
     url: /works/663287/
+  - title: Zenin Mukuwarenai Harem | A Harem Where No One Is Reciprocated 2
+    author: cabin
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/669856.jpg
+    rating: 0.0
+    date: '2026-10-21'
+    code: 669856
+    url: /works/669856/
   - title: Kareshi Mochi Kyonyuu Beit Gal to Mechakucha Sex shita Hanashi | I Had Wild
       Sex with a Taken Busty Gyaru Part-Timer!
     author: bs3

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big ass"
-work_count: 284
+work_count: 285
 works:
   - title: My Care Lady Ch. 1
     author: sugi-g
@@ -1336,6 +1336,13 @@ works:
     date: '2026-10-11'
     code: 669744
     url: /works/669744/
+  - title: Zenin Mukuwarenai Harem | A Harem Where No One Is Reciprocated 2
+    author: cabin
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/669856.jpg
+    rating: 0.0
+    date: '2026-10-21'
+    code: 669856
+    url: /works/669856/
   - title: Drip Coffee→From♡You |
     author: borusiti
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/670438.jpg

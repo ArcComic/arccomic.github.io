@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "masturbation"
-work_count: 161
+work_count: 162
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -828,6 +828,14 @@ works:
     date: '2026-07-16'
     code: 664845
     url: /works/664845/
+  - title: Erosugiru Jiraikei Kateikyoushi ni Kimochi Ii Koto mo Zenbu Oshiete Morau
+      Hanashi
+    author: menbou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/666089.jpg
+    rating: 0.0
+    date: '2026-10-21'
+    code: 666089
+    url: /works/666089/
   - title: Boku dake no yuki ane
     author: misaki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/667775.jpg

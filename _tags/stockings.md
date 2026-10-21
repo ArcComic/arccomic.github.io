@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "stockings"
-work_count: 255
+work_count: 256
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -1252,6 +1252,14 @@ works:
     date: '2026-09-19'
     code: 665207
     url: /works/665207/
+  - title: Erosugiru Jiraikei Kateikyoushi ni Kimochi Ii Koto mo Zenbu Oshiete Morau
+      Hanashi
+    author: menbou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/666089.jpg
+    rating: 0.0
+    date: '2026-10-21'
+    code: 666089
+    url: /works/666089/
   - title: Nakadashi Oji-san ni Nerawareta Mesu wa Nigeru Koto ga Dekinai ~Fujitomo
       Megumi Hen 2~ | A Woman Can't Get Away After Being Targeted By This Horny Old
       Man - Fujitomo Megumi Edition Vol.2 [English] =White Symphony=

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "smell"
-work_count: 30
+work_count: 31
 works:
   - title: Natsu Jiru Ch. 1-2
     author: sena-youtarou
@@ -46,6 +46,13 @@ works:
     date: '2026-08-18'
     code: 479447
     url: /works/479447/
+  - title: Watashi de Sukkiri Sasechaina ~Hatsukoi Aite ni Tsurareru Ore~
+    author: ishikarian
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/510698.jpg
+    rating: 0.0
+    date: '2026-10-21'
+    code: 510698
+    url: /works/510698/
   - title: Kojirase Horny Doggy | Aggravating Horny Doggy
     author: memeyu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/563921.jpg

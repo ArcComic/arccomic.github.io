@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole male"
-work_count: 1047
+work_count: 1050
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -1644,6 +1644,13 @@ works:
     date: '2026-10-05'
     code: 509584
     url: /works/509584/
+  - title: Watashi de Sukkiri Sasechaina ~Hatsukoi Aite ni Tsurareru Ore~
+    author: ishikarian
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/510698.jpg
+    rating: 0.0
+    date: '2026-10-21'
+    code: 510698
+    url: /works/510698/
   - title: Hitozuma Volley-bu no Asedaku SEX ~Shower Abinagara Micchaku Shichau? 1-2
       | Married Women's Volleyball Club Sweaty Sex - We're Being Glued Together While
       Taking A Shower? 1-2
@@ -5543,6 +5550,14 @@ works:
     date: '2026-09-09'
     code: 665716
     url: /works/665716/
+  - title: Erosugiru Jiraikei Kateikyoushi ni Kimochi Ii Koto mo Zenbu Oshiete Morau
+      Hanashi
+    author: menbou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/666089.jpg
+    rating: 0.0
+    date: '2026-10-21'
+    code: 666089
+    url: /works/666089/
   - title: Super de Genki ni Hataraku Hahaoya ga Hikikomori Musuko ni Tanetsuke Saremakutteita
       Hanashi
     author: daidai-shikibu
@@ -5628,6 +5643,13 @@ works:
     date: '2026-09-10'
     code: 669748
     url: /works/669748/
+  - title: Zenin Mukuwarenai Harem | A Harem Where No One Is Reciprocated 2
+    author: cabin
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/669856.jpg
+    rating: 0.0
+    date: '2026-10-21'
+    code: 669856
+    url: /works/669856/
   - title: Drip Coffee→From♡You |
     author: borusiti
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/670438.jpg

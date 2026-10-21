@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "tall girl"
-work_count: 47
+work_count: 48
 works:
   - title: Oppai na Natsuyasumi 2 | The Summer Break of Boobs 2
     author: higashino-mikan
@@ -214,6 +214,13 @@ works:
     date: '2026-10-15'
     code: 668636
     url: /works/668636/
+  - title: Zenin Mukuwarenai Harem | A Harem Where No One Is Reciprocated 2
+    author: cabin
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/669856.jpg
+    rating: 0.0
+    date: '2026-10-21'
+    code: 669856
+    url: /works/669856/
   - title: nekonimatatabi
     author: yuzuto-sen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/674592.jpg

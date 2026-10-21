@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "reverse rape"
-work_count: 23
+work_count: 24
 works:
   - title: Hajimete Kanojo Ga Dekita No Ni
     author: unknown
@@ -148,6 +148,13 @@ works:
     date: '2026-07-15'
     code: 664188
     url: /works/664188/
+  - title: Zenin Mukuwarenai Harem | A Harem Where No One Is Reciprocated 2
+    author: cabin
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/669856.jpg
+    rating: 0.0
+    date: '2026-10-21'
+    code: 669856
+    url: /works/669856/
   - title: Succubus Seitokai Shiko Shiko Shikkoubu 4 Zenpen | Succubus Student Council
       Milking Club Part 4, First Half
     author: michiking

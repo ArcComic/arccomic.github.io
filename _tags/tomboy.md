@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "tomboy"
-work_count: 86
+work_count: 87
 works:
   - title: Kizashi
     author: yoshiura-kazuya
@@ -447,6 +447,13 @@ works:
     date: '2026-09-07'
     code: 669254
     url: /works/669254/
+  - title: Zenin Mukuwarenai Harem | A Harem Where No One Is Reciprocated 2
+    author: cabin
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/669856.jpg
+    rating: 0.0
+    date: '2026-10-21'
+    code: 669856
+    url: /works/669856/
   - title: 'Natsuki no Natsu  Ore no Kyonyuu Osananajimi wa Natsu no Aida ni Otona no
       Te de Mesu ni Sareteita | Natsuki''s Summer: My Big-Busted Childhood Friend Was
       Turned Into a Woman by Adult Hands During the Summer'

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "original"
-work_count: 1244
+work_count: 1247
 works:
   - title: Natsu dake Koibito - Summer only Lover [English] =Forbidden Fetish + Ser
       Maggot=
@@ -1357,6 +1357,13 @@ works:
     date: '2026-08-24'
     code: 508845
     url: /works/508845/
+  - title: Watashi de Sukkiri Sasechaina ~Hatsukoi Aite ni Tsurareru Ore~
+    author: ishikarian
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/510698.jpg
+    rating: 0.0
+    date: '2026-10-21'
+    code: 510698
+    url: /works/510698/
   - title: Omae no Kaa-chan Kirei da na - Dakasero yo | Let Me Have Sex with Your Beautiful
       Mom
     author: kemusi-no-bansan-kai
@@ -6159,6 +6166,14 @@ works:
     date: '2026-09-19'
     code: 665207
     url: /works/665207/
+  - title: Erosugiru Jiraikei Kateikyoushi ni Kimochi Ii Koto mo Zenbu Oshiete Morau
+      Hanashi
+    author: menbou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/666089.jpg
+    rating: 0.0
+    date: '2026-10-21'
+    code: 666089
+    url: /works/666089/
   - title: Super de Genki ni Hataraku Hahaoya ga Hikikomori Musuko ni Tanetsuke Saremakutteita
       Hanashi
     author: daidai-shikibu
@@ -6306,6 +6321,13 @@ works:
     date: '2026-09-10'
     code: 669748
     url: /works/669748/
+  - title: Zenin Mukuwarenai Harem | A Harem Where No One Is Reciprocated 2
+    author: cabin
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/669856.jpg
+    rating: 0.0
+    date: '2026-10-21'
+    code: 669856
+    url: /works/669856/
   - title: Wari no Ii Beit Nante Sonzai Shinai | This job was too good to be true
     author: hikitogu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/670195.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "menbou"
-work_count: 2
+work_count: 3
 works:
   - title: Jiraikei Joshi Debut Shitara Sokujitsu Yarichin Kuzu Otoko ni Kuwaremashita
       | When I Debuted As A "Jirai-kei" Girl I Was Eaten Up By A Sleazy Guy On The Same
@@ -20,4 +20,12 @@ works:
     date: '2026-10-21'
     code: 545225
     url: /works/545225/
+  - title: Erosugiru Jiraikei Kateikyoushi ni Kimochi Ii Koto mo Zenbu Oshiete Morau
+      Hanashi
+    author: menbou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/666089.jpg
+    rating: 0.0
+    date: '2026-10-21'
+    code: 666089
+    url: /works/666089/
 ---

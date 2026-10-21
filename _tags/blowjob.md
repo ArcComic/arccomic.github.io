@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "blowjob"
-work_count: 736
+work_count: 739
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -993,6 +993,13 @@ works:
     date: '2026-10-03'
     code: 509583
     url: /works/509583/
+  - title: Watashi de Sukkiri Sasechaina ~Hatsukoi Aite ni Tsurareru Ore~
+    author: ishikarian
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/510698.jpg
+    rating: 0.0
+    date: '2026-10-21'
+    code: 510698
+    url: /works/510698/
   - title: Hitozuma Volley-bu no Asedaku SEX ~Shower Abinagara Micchaku Shichau? 1-2
       | Married Women's Volleyball Club Sweaty Sex - We're Being Glued Together While
       Taking A Shower? 1-2
@@ -3883,6 +3890,14 @@ works:
     date: '2026-09-09'
     code: 665716
     url: /works/665716/
+  - title: Erosugiru Jiraikei Kateikyoushi ni Kimochi Ii Koto mo Zenbu Oshiete Morau
+      Hanashi
+    author: menbou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/666089.jpg
+    rating: 0.0
+    date: '2026-10-21'
+    code: 666089
+    url: /works/666089/
   - title: 'Mom Friend Harem 2 ~Lewd Hot Spring Trip: Filled to the Brim with Cum~'
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/666748.jpg
@@ -3975,6 +3990,13 @@ works:
     date: '2026-10-11'
     code: 669744
     url: /works/669744/
+  - title: Zenin Mukuwarenai Harem | A Harem Where No One Is Reciprocated 2
+    author: cabin
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/669856.jpg
+    rating: 0.0
+    date: '2026-10-21'
+    code: 669856
+    url: /works/669856/
   - title: Wari no Ii Beit Nante Sonzai Shinai | This job was too good to be true
     author: hikitogu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/670195.jpg
