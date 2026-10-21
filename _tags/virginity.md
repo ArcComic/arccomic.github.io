@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "virginity"
-work_count: 170
+work_count: 171
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -474,6 +474,14 @@ works:
     date: '2026-03-04'
     code: 553903
     url: /works/553903/
+  - title: Boku no Kimochi o Mote Asobu Doutei Kari Onee-san ni Shiboraremakuru Hanashi  |
+      The Story of When a Virgin-Hunter Lady Played with My Feelings and Sucked Me Dry
+    author: menbou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/559479.jpg
+    rating: 0.0
+    date: '2026-10-21'
+    code: 559479
+    url: /works/559479/
   - title: Iiwa Watashi no Karada Suki ni Shite Ch.1-2
     author: shunjou-shuusuke
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/561787.jpg

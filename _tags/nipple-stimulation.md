@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "nipple stimulation"
-work_count: 181
+work_count: 182
 works:
   - title: Hypnotic Domination ~ The Fall of Tennis Club Ace ~
     author: danchino
@@ -178,6 +178,14 @@ works:
     date: '2026-08-31'
     code: 550359
     url: /works/550359/
+  - title: Boku no Kimochi o Mote Asobu Doutei Kari Onee-san ni Shiboraremakuru Hanashi  |
+      The Story of When a Virgin-Hunter Lady Played with My Feelings and Sucked Me Dry
+    author: menbou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/559479.jpg
+    rating: 0.0
+    date: '2026-10-21'
+    code: 559479
+    url: /works/559479/
   - title: 1/5 no Renai Kanjou | A Fifth of Romance
     author: chicke-iii
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/568871.jpg

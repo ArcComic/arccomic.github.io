@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "crossdressing"
-work_count: 26
+work_count: 27
 works:
   - title: Dochira o Onozomi desu ka? ~Shitsuji Hen~ | Which Do You Desire? ~Butler
       Edition~
@@ -50,6 +50,14 @@ works:
     date: '2026-08-31'
     code: 556767
     url: /works/556767/
+  - title: Boku no Kimochi o Mote Asobu Doutei Kari Onee-san ni Shiboraremakuru Hanashi  |
+      The Story of When a Virgin-Hunter Lady Played with My Feelings and Sucked Me Dry
+    author: menbou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/559479.jpg
+    rating: 0.0
+    date: '2026-10-21'
+    code: 559479
+    url: /works/559479/
   - title: Otoko no Ko otodokeshimasu! ~Itsumo kuru Haitatsuin-san ga masaka no Otoko
       no Ko dattakedo mayowazu hameta~
     author: mitsujirou

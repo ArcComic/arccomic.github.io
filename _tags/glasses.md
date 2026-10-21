@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "glasses"
-work_count: 308
+work_count: 309
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -727,6 +727,14 @@ works:
     date: '2026-04-23'
     code: 557689
     url: /works/557689/
+  - title: Boku no Kimochi o Mote Asobu Doutei Kari Onee-san ni Shiboraremakuru Hanashi  |
+      The Story of When a Virgin-Hunter Lady Played with My Feelings and Sucked Me Dry
+    author: menbou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/559479.jpg
+    rating: 0.0
+    date: '2026-10-21'
+    code: 559479
+    url: /works/559479/
   - title: Tawawa de Akarui Yakyuubu Manager ga Inshitsu na Kyoushi no Wana ni... Kanketsuhen
     author: ohkura-kazuya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/566052.jpg
