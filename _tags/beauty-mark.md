@@ -1144,7 +1144,7 @@ works:
   - title: Houkai Kazoku 0-Hahaoya ga Yakuza to no Sex ni Hamatta Hanashi-
     author: watsondou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/653080.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-10-21'
     code: 653080
     url: /works/653080/
@@ -1345,7 +1345,7 @@ works:
   - title: Zenin Mukuwarenai Harem | A Harem Where No One Is Reciprocated 2
     author: cabin
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/669856.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-10-21'
     code: 669856
     url: /works/669856/

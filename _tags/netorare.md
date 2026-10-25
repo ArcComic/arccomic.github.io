@@ -2081,7 +2081,7 @@ works:
   - title: Houkai Kazoku 0-Hahaoya ga Yakuza to no Sex ni Hamatta Hanashi-
     author: watsondou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/653080.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-10-21'
     code: 653080
     url: /works/653080/
@@ -3524,7 +3524,7 @@ works:
       Teacher Sex-Friend Keeps Getting In My Way
     author: chotto-b-sen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688611.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-21'
     code: 688611
     url: /works/688611/

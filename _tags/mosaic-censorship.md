@@ -105,7 +105,7 @@ works:
   - title: Itabasami na Wakachi Ai 2
     author: cabin
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/351440.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-10-21'
     code: 351440
     url: /works/351440/
@@ -2480,7 +2480,7 @@ works:
   - title: DeliSen | Delivery Sensei
     author: emaki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688610.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-10-21'
     code: 688610
     url: /works/688610/
@@ -2488,7 +2488,7 @@ works:
       Teacher Sex-Friend Keeps Getting In My Way
     author: chotto-b-sen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688611.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-21'
     code: 688611
     url: /works/688611/

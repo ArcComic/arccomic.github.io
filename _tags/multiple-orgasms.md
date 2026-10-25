@@ -659,7 +659,7 @@ works:
       Do It, Nagisa''s Hairy Mama Takes Care of the Sexual Relief: Sex Edition'
     author: ishikarian
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/655991.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-10-21'
     code: 655991
     url: /works/655991/
@@ -778,7 +778,7 @@ works:
   - title: Zenin Mukuwarenai Harem | A Harem Where No One Is Reciprocated 2
     author: cabin
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/669856.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-10-21'
     code: 669856
     url: /works/669856/

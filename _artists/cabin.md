@@ -11,7 +11,7 @@ works:
     url: /works/342540/
   - title: Itabasami na Wakachi Ai 2
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/351440.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-10-21'
     code: 351440
     url: /works/351440/
@@ -38,7 +38,7 @@ works:
     url: /works/490737/
   - title: Zenin Mukuwarenai Harem | A Harem Where No One Is Reciprocated 2
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/669856.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-10-21'
     code: 669856
     url: /works/669856/

@@ -864,7 +864,7 @@ works:
   - title: Itabasami na Wakachi Ai 2
     author: cabin
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/351440.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-10-21'
     code: 351440
     url: /works/351440/
@@ -2661,7 +2661,7 @@ works:
   - title: Watashi de Sukkiri Sasechaina ~Hatsukoi Aite ni Tsurareru Ore~
     author: ishikarian
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/510698.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-10-21'
     code: 510698
     url: /works/510698/
@@ -3142,7 +3142,7 @@ works:
       Loving Walking Red Flag With A Messed Up Libido!
     author: menbou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/531039.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-10-21'
     code: 531039
     url: /works/531039/
@@ -3503,7 +3503,7 @@ works:
       Hanashi～
     author: menbou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/545225.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-10-21'
     code: 545225
     url: /works/545225/
@@ -3797,7 +3797,7 @@ works:
       The Story of When a Virgin-Hunter Lady Played with My Feelings and Sucked Me Dry
     author: menbou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/559479.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-21'
     code: 559479
     url: /works/559479/
@@ -7588,7 +7588,7 @@ works:
   - title: Houkai Kazoku 0-Hahaoya ga Yakuza to no Sex ni Hamatta Hanashi-
     author: watsondou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/653080.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-10-21'
     code: 653080
     url: /works/653080/
@@ -7898,7 +7898,7 @@ works:
       Do It, Nagisa''s Hairy Mama Takes Care of the Sexual Relief: Sex Edition'
     author: ishikarian
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/655991.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-10-21'
     code: 655991
     url: /works/655991/
@@ -9329,7 +9329,7 @@ works:
       Hanashi
     author: menbou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/666089.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-10-21'
     code: 666089
     url: /works/666089/
@@ -9507,7 +9507,7 @@ works:
   - title: Zenin Mukuwarenai Harem | A Harem Where No One Is Reciprocated 2
     author: cabin
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/669856.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-10-21'
     code: 669856
     url: /works/669856/
@@ -13632,7 +13632,7 @@ works:
       Suru.
     author: ishikarian
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688446.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-21'
     code: 688446
     url: /works/688446/
@@ -13684,7 +13684,7 @@ works:
   - title: Tatoeba Konna Million Theater 6 -Emily no Baai-
     author: binsen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688547.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-10-21'
     code: 688547
     url: /works/688547/
@@ -13779,7 +13779,7 @@ works:
   - title: DeliSen | Delivery Sensei
     author: emaki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688610.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-10-21'
     code: 688610
     url: /works/688610/
@@ -13787,7 +13787,7 @@ works:
       Teacher Sex-Friend Keeps Getting In My Way
     author: chotto-b-sen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688611.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-21'
     code: 688611
     url: /works/688611/

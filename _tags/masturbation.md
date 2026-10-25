@@ -76,7 +76,7 @@ works:
   - title: Itabasami na Wakachi Ai 2
     author: cabin
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/351440.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-10-21'
     code: 351440
     url: /works/351440/
@@ -832,7 +832,7 @@ works:
       Hanashi
     author: menbou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/666089.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-10-21'
     code: 666089
     url: /works/666089/

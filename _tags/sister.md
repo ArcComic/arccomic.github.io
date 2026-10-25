@@ -141,7 +141,7 @@ works:
   - title: Watashi de Sukkiri Sasechaina ~Hatsukoi Aite ni Tsurareru Ore~
     author: ishikarian
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/510698.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-10-21'
     code: 510698
     url: /works/510698/

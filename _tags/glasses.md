@@ -197,7 +197,7 @@ works:
   - title: Itabasami na Wakachi Ai 2
     author: cabin
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/351440.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-10-21'
     code: 351440
     url: /works/351440/
@@ -672,7 +672,7 @@ works:
       Hanashi～
     author: menbou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/545225.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-10-21'
     code: 545225
     url: /works/545225/
@@ -731,7 +731,7 @@ works:
       The Story of When a Virgin-Hunter Lady Played with My Feelings and Sucked Me Dry
     author: menbou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/559479.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-21'
     code: 559479
     url: /works/559479/
@@ -2231,7 +2231,7 @@ works:
       Suru.
     author: ishikarian
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688446.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-21'
     code: 688446
     url: /works/688446/

@@ -1589,7 +1589,7 @@ works:
       Loving Walking Red Flag With A Messed Up Libido!
     author: menbou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/531039.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-10-21'
     code: 531039
     url: /works/531039/
@@ -1732,7 +1732,7 @@ works:
       Hanashi～
     author: menbou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/545225.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-10-21'
     code: 545225
     url: /works/545225/
@@ -4476,7 +4476,7 @@ works:
       Do It, Nagisa''s Hairy Mama Takes Care of the Sexual Relief: Sex Edition'
     author: ishikarian
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/655991.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-10-21'
     code: 655991
     url: /works/655991/
@@ -6956,7 +6956,7 @@ works:
       Suru.
     author: ishikarian
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688446.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-21'
     code: 688446
     url: /works/688446/
