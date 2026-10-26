@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "nakadashi"
-work_count: 957
+work_count: 959
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -446,6 +446,13 @@ works:
     date: '2026-07-13'
     code: 358168
     url: /works/358168/
+  - title: Tsukiyo ni Negai o Komete
+    author: arima-kouichi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/360647.jpg
+    rating: 0.0
+    date: '2026-10-26'
+    code: 360647
+    url: /works/360647/
   - title: Makoto ga TOP!
     author: tsurui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/361286.jpg
@@ -7102,6 +7109,14 @@ works:
     date: '2026-10-26'
     code: 690874
     url: /works/690874/
+  - title: Shanai Renai Shiteru Kanojo ga Sekuhara Jii ni Otosareru | My Office Romance
+      Girlfriend Gets Corrupted by a Sexual-harassment Geezer
+    author: kemusi-no-bansan-kai
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690875.jpg
+    rating: 0.0
+    date: '2026-10-26'
+    code: 690875
+    url: /works/690875/
   - title: Inin Keiyaku | Lewd Pregnancy Contract
     author: yoshiura-kazuya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/83595.jpg

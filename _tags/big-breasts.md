@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big breasts"
-work_count: 1273
+work_count: 1275
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -535,6 +535,13 @@ works:
     date: '2026-04-27'
     code: 357965
     url: /works/357965/
+  - title: Tsukiyo ni Negai o Komete
+    author: arima-kouichi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/360647.jpg
+    rating: 0.0
+    date: '2026-10-26'
+    code: 360647
+    url: /works/360647/
   - title: Iro no Ie -Hitozuma ga Sex Suru Hon II- | Erotic House - Married Women Sex
       Book 2
     author: miho-rei
@@ -9415,6 +9422,14 @@ works:
     date: '2026-10-26'
     code: 690874
     url: /works/690874/
+  - title: Shanai Renai Shiteru Kanojo ga Sekuhara Jii ni Otosareru | My Office Romance
+      Girlfriend Gets Corrupted by a Sexual-harassment Geezer
+    author: kemusi-no-bansan-kai
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690875.jpg
+    rating: 0.0
+    date: '2026-10-26'
+    code: 690875
+    url: /works/690875/
   - title: Hottokenaino
     author: hara-shigeyuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/77864.jpg

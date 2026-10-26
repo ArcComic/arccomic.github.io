@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sweating"
-work_count: 197
+work_count: 198
 works:
   - title: Kaisha de Iroiro | Gettin' Busy at the Office
     author: hara-shigeyuki
@@ -1476,4 +1476,12 @@ works:
     date: '2026-10-26'
     code: 690244
     url: /works/690244/
+  - title: Shanai Renai Shiteru Kanojo ga Sekuhara Jii ni Otosareru | My Office Romance
+      Girlfriend Gets Corrupted by a Sexual-harassment Geezer
+    author: kemusi-no-bansan-kai
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690875.jpg
+    rating: 0.0
+    date: '2026-10-26'
+    code: 690875
+    url: /works/690875/
 ---

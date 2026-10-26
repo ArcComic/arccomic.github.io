@@ -1,7 +1,7 @@
 ---
 layout: artist
 artist_name: "unknown"
-work_count: 83
+work_count: 84
 works:
   - title: Hajimete Kanojo Ga Dekita No Ni
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/316579.jpg
@@ -521,4 +521,10 @@ works:
     date: '2026-10-15'
     code: 687638
     url: /works/687638/
+  - title: I'm held in my taciturn secretary's arms every night.
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690828.jpg
+    rating: 0.0
+    date: '2026-10-26'
+    code: 690828
+    url: /works/690828/
 ---

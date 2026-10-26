@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "paizuri"
-work_count: 263
+work_count: 264
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -102,6 +102,13 @@ works:
     date: '2026-09-24'
     code: 355398
     url: /works/355398/
+  - title: Tsukiyo ni Negai o Komete
+    author: arima-kouichi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/360647.jpg
+    rating: 0.0
+    date: '2026-10-26'
+    code: 360647
+    url: /works/360647/
   - title: Last Chance
     author: herio
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/384255.jpg

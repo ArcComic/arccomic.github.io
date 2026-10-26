@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "kemusi no bansan kai"
-work_count: 5
+work_count: 6
 works:
   - title: Omae no Kaa-chan Kirei da na - Dakasero yo | Let Me Have Sex with Your Beautiful
       Mom
@@ -39,4 +39,12 @@ works:
     date: '2026-09-24'
     code: 683694
     url: /works/683694/
+  - title: Shanai Renai Shiteru Kanojo ga Sekuhara Jii ni Otosareru | My Office Romance
+      Girlfriend Gets Corrupted by a Sexual-harassment Geezer
+    author: kemusi-no-bansan-kai
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690875.jpg
+    rating: 0.0
+    date: '2026-10-26'
+    code: 690875
+    url: /works/690875/
 ---

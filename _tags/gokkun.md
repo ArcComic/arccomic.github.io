@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "gokkun"
-work_count: 60
+work_count: 61
 works:
   - title: Itadakimasu Anata-sama | I Crave You
     author: tsurui
@@ -453,4 +453,12 @@ works:
     date: '2026-10-26'
     code: 690874
     url: /works/690874/
+  - title: Shanai Renai Shiteru Kanojo ga Sekuhara Jii ni Otosareru | My Office Romance
+      Girlfriend Gets Corrupted by a Sexual-harassment Geezer
+    author: kemusi-no-bansan-kai
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690875.jpg
+    rating: 0.0
+    date: '2026-10-26'
+    code: 690875
+    url: /works/690875/
 ---

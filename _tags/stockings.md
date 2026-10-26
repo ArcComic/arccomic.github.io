@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "stockings"
-work_count: 260
+work_count: 261
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -179,6 +179,13 @@ works:
     date: '2026-09-12'
     code: 354384
     url: /works/354384/
+  - title: Tsukiyo ni Negai o Komete
+    author: arima-kouichi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/360647.jpg
+    rating: 0.0
+    date: '2026-10-26'
+    code: 360647
+    url: /works/360647/
   - title: Iro no Ie -Hitozuma ga Sex Suru Hon II- | Erotic House - Married Women Sex
       Book 2
     author: miho-rei
