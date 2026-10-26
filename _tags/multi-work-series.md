@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "multi-work series"
-work_count: 455
+work_count: 456
 works:
   - title: Konna ni mo Itooshii Zero
     author: nohito
@@ -1295,6 +1295,13 @@ works:
     date: '2026-09-10'
     code: 618088
     url: /works/618088/
+  - title: Natsu no Hi no Omoide
+    author: furaimai
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/618565.jpg
+    rating: 0.0
+    date: '2026-10-26'
+    code: 618565
+    url: /works/618565/
   - title: Boku dake ni Amaesasete Kureru Kyonyuu JK Tsuma o Hoka no Otoko ni Dakasete
       Mita 11
     author: akire

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big breasts"
-work_count: 1282
+work_count: 1283
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -9452,6 +9452,13 @@ works:
     date: '2026-10-26'
     code: 690823
     url: /works/690823/
+  - title: Jirai Sugoroku
+    author: niki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690826.jpg
+    rating: 0.0
+    date: '2026-10-26'
+    code: 690826
+    url: /works/690826/
   - title: 'Swapping no Wana ~Netorare Mitsugi Maso-ka Keikaku ni Ochita Boku~ | Couple
       Swapping Trap: Fallen into the Scheme to Turn Me into a Cuckolded, Money-Draining
       Masochist'

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "forced exposure"
-work_count: 18
+work_count: 19
 works:
   - title: Namaiki TS Yankee ga Zetsurin Taiiku Kyoushi no Onaho ni natte Akume Shiofuki
       Mesu Ochi Ninshin! [TS Delinquent becomes a gym teacher's onahole and Cums ❤ Squirts
@@ -140,4 +140,11 @@ works:
     date: '2026-10-17'
     code: 688166
     url: /works/688166/
+  - title: Jirai Sugoroku
+    author: niki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690826.jpg
+    rating: 0.0
+    date: '2026-10-26'
+    code: 690826
+    url: /works/690826/
 ---

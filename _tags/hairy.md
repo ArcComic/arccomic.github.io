@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "hairy"
-work_count: 356
+work_count: 357
 works:
   - title: MAGIC SEVEN
     author: asuhiro
@@ -2606,6 +2606,13 @@ works:
     date: '2026-10-20'
     code: 688612
     url: /works/688612/
+  - title: Jirai Sugoroku
+    author: niki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690826.jpg
+    rating: 0.0
+    date: '2026-10-26'
+    code: 690826
+    url: /works/690826/
   - title: 'Swapping no Wana ~Netorare Mitsugi Maso-ka Keikaku ni Ochita Boku~ | Couple
       Swapping Trap: Fallen into the Scheme to Turn Me into a Cuckolded, Money-Draining
       Masochist'

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "translated"
-work_count: 1842
+work_count: 1845
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -5194,6 +5194,13 @@ works:
     date: '2026-10-26'
     code: 618564
     url: /works/618564/
+  - title: Natsu no Hi no Omoide
+    author: furaimai
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/618565.jpg
+    rating: 0.0
+    date: '2026-10-26'
+    code: 618565
+    url: /works/618565/
   - title: Fuyu-san wa Sotsugyou Shitai | Fuyu-san Wants to Lose Her V-Card
     author: kurihara-kenshirou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/619405.jpg
@@ -13489,6 +13496,13 @@ works:
     date: '2026-10-26'
     code: 690823
     url: /works/690823/
+  - title: Ano Band no Ecchi na Himitsu | That Band's Lewd Secret
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690824.jpg
+    rating: 0.0
+    date: '2026-10-26'
+    code: 690824
+    url: /works/690824/
   - title: Seidaku Awasenomu Innocent Prey Ch.6-8
     author: carn
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690825.jpg
@@ -13496,6 +13510,13 @@ works:
     date: '2026-10-26'
     code: 690825
     url: /works/690825/
+  - title: Jirai Sugoroku
+    author: niki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690826.jpg
+    rating: 0.0
+    date: '2026-10-26'
+    code: 690826
+    url: /works/690826/
   - title: I'm held in my taciturn secretary's arms every night.
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690828.jpg

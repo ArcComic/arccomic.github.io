@@ -1,7 +1,7 @@
 ---
 layout: artist
 artist_name: "furaimai"
-work_count: 4
+work_count: 5
 works:
   - title: Tsuma ni Ani to Kozukuri Shite Moraimashita
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/616367.jpg
@@ -28,4 +28,10 @@ works:
     date: '2026-10-26'
     code: 618564
     url: /works/618564/
+  - title: Natsu no Hi no Omoide
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/618565.jpg
+    rating: 0.0
+    date: '2026-10-26'
+    code: 618565
+    url: /works/618565/
 ---

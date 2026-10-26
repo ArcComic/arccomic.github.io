@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "leash"
-work_count: 24
+work_count: 25
 works:
   - title: Komorebi no Ori
     author: hitoi
@@ -181,4 +181,11 @@ works:
     date: '2026-10-10'
     code: 686422
     url: /works/686422/
+  - title: Jirai Sugoroku
+    author: niki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690826.jpg
+    rating: 0.0
+    date: '2026-10-26'
+    code: 690826
+    url: /works/690826/
 ---

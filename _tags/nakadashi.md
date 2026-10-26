@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "nakadashi"
-work_count: 964
+work_count: 966
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -7132,6 +7132,20 @@ works:
     date: '2026-10-26'
     code: 690823
     url: /works/690823/
+  - title: Ano Band no Ecchi na Himitsu | That Band's Lewd Secret
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690824.jpg
+    rating: 0.0
+    date: '2026-10-26'
+    code: 690824
+    url: /works/690824/
+  - title: Jirai Sugoroku
+    author: niki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690826.jpg
+    rating: 0.0
+    date: '2026-10-26'
+    code: 690826
+    url: /works/690826/
   - title: Jimi-tsuma-san to Gyaru-tsuma-san, Hitozuma Tetsudou Nobori-iki
     author: nezumi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690851.jpg

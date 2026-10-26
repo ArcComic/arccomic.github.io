@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "voyeurism"
-work_count: 70
+work_count: 71
 works:
   - title: Tsutomesaki no Musume-san o Oishiku Itadaku Hon Minshuku Hen
     author: aya
@@ -230,6 +230,13 @@ works:
     date: '2026-10-11'
     code: 599165
     url: /works/599165/
+  - title: Natsu no Hi no Omoide
+    author: furaimai
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/618565.jpg
+    rating: 0.0
+    date: '2026-10-26'
+    code: 618565
+    url: /works/618565/
   - title: Succubus Seitokai Shiko Shiko Shikkoubu 3 | Succubus Student Council Milking
       Club 3
     author: michiking

@@ -1,7 +1,7 @@
 ---
 layout: artist
 artist_name: "group"
-work_count: 39
+work_count: 40
 works:
   - title: Shitsurakuen | Paradise Lost
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/463749.jpg
@@ -250,4 +250,10 @@ works:
     date: '2026-10-18'
     code: 688506
     url: /works/688506/
+  - title: Ano Band no Ecchi na Himitsu | That Band's Lewd Secret
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690824.jpg
+    rating: 0.0
+    date: '2026-10-26'
+    code: 690824
+    url: /works/690824/
 ---

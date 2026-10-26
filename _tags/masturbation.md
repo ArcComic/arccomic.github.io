@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "masturbation"
-work_count: 165
+work_count: 167
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -485,6 +485,13 @@ works:
     date: '2026-07-16'
     code: 617511
     url: /works/617511/
+  - title: Natsu no Hi no Omoide
+    author: furaimai
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/618565.jpg
+    rating: 0.0
+    date: '2026-10-26'
+    code: 618565
+    url: /works/618565/
   - title: ShotaOne Reality
     author: uyuu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/622211.jpg
@@ -1226,6 +1233,13 @@ works:
     date: '2026-10-18'
     code: 688604
     url: /works/688604/
+  - title: Jirai Sugoroku
+    author: niki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690826.jpg
+    rating: 0.0
+    date: '2026-10-26'
+    code: 690826
+    url: /works/690826/
   - title: Shanai Renai Shiteru Kanojo ga Sekuhara Jii ni Otosareru | My Office Romance
       Girlfriend Gets Corrupted by a Sexual-harassment Geezer
     author: kemusi-no-bansan-kai

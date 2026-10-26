@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "cum bath"
-work_count: 4
+work_count: 5
 works:
   - title: Tonari no Seki no Tomodachi to Issho ni Onanii Suru Hanashi | The Story About
       Masturbating Together With the Friend Who Sits Next to Me
@@ -33,4 +33,11 @@ works:
     date: '2026-10-20'
     code: 688561
     url: /works/688561/
+  - title: Jirai Sugoroku
+    author: niki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690826.jpg
+    rating: 0.0
+    date: '2026-10-26'
+    code: 690826
+    url: /works/690826/
 ---

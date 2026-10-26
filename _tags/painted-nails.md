@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "painted nails"
-work_count: 50
+work_count: 51
 works:
   - title: Rakki Taishyaku
     author: fushoku
@@ -372,4 +372,11 @@ works:
     date: '2026-10-17'
     code: 688259
     url: /works/688259/
+  - title: Ano Band no Ecchi na Himitsu | That Band's Lewd Secret
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690824.jpg
+    rating: 0.0
+    date: '2026-10-26'
+    code: 690824
+    url: /works/690824/
 ---
