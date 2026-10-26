@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "full censorship"
-work_count: 138
+work_count: 139
 works:
   - title: Kaisha de Iroiro | Gettin' Busy at the Office
     author: hara-shigeyuki
@@ -575,6 +575,13 @@ works:
     date: '2026-02-25'
     code: 631704
     url: /works/631704/
+  - title: i no Shissou | The Disappearance of "i"
+    author: kawauchi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/633983.jpg
+    rating: 0.0
+    date: '2026-10-26'
+    code: 633983
+    url: /works/633983/
   - title: 'GNO: Girl''s Night Out - Issue 02'
     author: uselessbegging
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/634464.jpg

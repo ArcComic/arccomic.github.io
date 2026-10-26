@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "swimsuit"
-work_count: 94
+work_count: 95
 works:
   - title: Kizashi
     author: yoshiura-kazuya
@@ -488,6 +488,13 @@ works:
     date: '2026-08-22'
     code: 674922
     url: /works/674922/
+  - title: Boku no Mizugi ga Kakusarete | My Swimsuit Got Stolen
+    author: niki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/675415.jpg
+    rating: 0.0
+    date: '2026-10-26'
+    code: 675415
+    url: /works/675415/
   - title: Sensei!! I Told You Not To Come Again Didn't I !!
     author: nakakazu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/676149.jpg

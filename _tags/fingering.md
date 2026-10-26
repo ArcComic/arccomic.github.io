@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "fingering"
-work_count: 214
+work_count: 215
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -762,6 +762,13 @@ works:
     date: '2026-03-02'
     code: 633842
     url: /works/633842/
+  - title: i no Shissou | The Disappearance of "i"
+    author: kawauchi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/633983.jpg
+    rating: 0.0
+    date: '2026-10-26'
+    code: 633983
+    url: /works/633983/
   - title: The Big-Breasted Lady at the Delivery Destination Is Way Too Lewd
     author: nishibi-mitsuba
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/634156.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "wholesome"
-work_count: 223
+work_count: 224
 works:
   - title: FLUFFY LAUGH GIRL
     author: shibasaki-syouzi
@@ -806,6 +806,13 @@ works:
     date: '2026-03-02'
     code: 633834
     url: /works/633834/
+  - title: i no Shissou | The Disappearance of "i"
+    author: kawauchi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/633983.jpg
+    rating: 0.0
+    date: '2026-10-26'
+    code: 633983
+    url: /works/633983/
   - title: 2-nen C-gumi Gakuen Oppabu no Cast ni Imouto ga Ita | My Little Sister Was
       a Hostess at Class 2-C's School Festival Boobs Bar
     author: bunapi-397-yen

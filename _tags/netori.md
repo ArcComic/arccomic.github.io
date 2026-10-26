@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "netori"
-work_count: 34
+work_count: 35
 works:
   - title: Onee-chan ga Ecchi na Koto bakka Suru kara... | My older sister only does
       obscene things...
@@ -236,6 +236,13 @@ works:
     date: '2026-08-20'
     code: 674019
     url: /works/674019/
+  - title: Boku no Mizugi ga Kakusarete | My Swimsuit Got Stolen
+    author: niki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/675415.jpg
+    rating: 0.0
+    date: '2026-10-26'
+    code: 675415
+    url: /works/675415/
   - title: Mesu no Ie III ~Oyako wa Midare Aisareru~
     author: ame-arare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/675981.jpg

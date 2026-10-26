@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "females only"
-work_count: 38
+work_count: 39
 works:
   - title: Himitsu no Kamiura san | The Mysterious Kamiura-san
     author: takeshisu
@@ -76,6 +76,13 @@ works:
     date: '2026-03-04'
     code: 624694
     url: /works/624694/
+  - title: i no Shissou | The Disappearance of "i"
+    author: kawauchi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/633983.jpg
+    rating: 0.0
+    date: '2026-10-26'
+    code: 633983
+    url: /works/633983/
   - title: Houchiko Hirotte LesSe Suru
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/646967.jpg

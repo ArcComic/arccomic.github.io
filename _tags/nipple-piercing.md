@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "nipple piercing"
-work_count: 10
+work_count: 11
 works:
   - title: Iemoto no Uwaki ga Honki ni Natta Hi Zenpen | The Day the Grand Master's
       Affair Became Serious Part One
@@ -76,4 +76,11 @@ works:
     date: '2026-09-22'
     code: 683137
     url: /works/683137/
+  - title: Seidaku Awasenomu Innocent Prey Ch.6-8
+    author: carn
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690825.jpg
+    rating: 0.0
+    date: '2026-10-26'
+    code: 690825
+    url: /works/690825/
 ---

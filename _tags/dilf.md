@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "dilf"
-work_count: 220
+work_count: 221
 works:
   - title: Adoration
     author: kishizuka-kenji
@@ -1600,6 +1600,13 @@ works:
     date: '2026-10-18'
     code: 688600
     url: /works/688600/
+  - title: Seidaku Awasenomu Innocent Prey Ch.6-8
+    author: carn
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690825.jpg
+    rating: 0.0
+    date: '2026-10-26'
+    code: 690825
+    url: /works/690825/
   - title: Shanai Renai Shiteru Kanojo ga Sekuhara Jii ni Otosareru | My Office Romance
       Girlfriend Gets Corrupted by a Sexual-harassment Geezer
     author: kemusi-no-bansan-kai

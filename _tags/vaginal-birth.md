@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "vaginal birth"
-work_count: 5
+work_count: 6
 works:
   - title: Jinsei Hametsu JC ~Watashi no Jinsei, Doushite Kounacchattan daro?~ | Middle
       Schooler's Life Ruined - How Did My Life Turn Out Like This [English] =TB=
@@ -40,4 +40,11 @@ works:
     date: '2026-09-28'
     code: 684578
     url: /works/684578/
+  - title: Seidaku Awasenomu Innocent Prey Ch.6-8
+    author: carn
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690825.jpg
+    rating: 0.0
+    date: '2026-10-26'
+    code: 690825
+    url: /works/690825/
 ---

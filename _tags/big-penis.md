@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big penis"
-work_count: 294
+work_count: 295
 works:
   - title: Tsuma no Imouto no Danna ga Ie ni Kiteiruyoudesu | My Sister-In-Law's Husband
       is Over
@@ -1530,6 +1530,13 @@ works:
     date: '2026-08-23'
     code: 675048
     url: /works/675048/
+  - title: Boku no Mizugi ga Kakusarete | My Swimsuit Got Stolen
+    author: niki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/675415.jpg
+    rating: 0.0
+    date: '2026-10-26'
+    code: 675415
+    url: /works/675415/
   - title: Iiwa, Watashi no Karada Suki ni Shite
     author: shunjou-shuusuke
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/675544.jpg

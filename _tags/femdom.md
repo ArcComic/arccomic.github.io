@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "femdom"
-work_count: 206
+work_count: 207
 works:
   - title: Life with Married Women Just Like a Manga 2 - Ch. 1-5
     author: hidemaru
@@ -1089,6 +1089,13 @@ works:
     date: '2026-08-23'
     code: 674960
     url: /works/674960/
+  - title: Boku no Mizugi ga Kakusarete | My Swimsuit Got Stolen
+    author: niki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/675415.jpg
+    rating: 0.0
+    date: '2026-10-26'
+    code: 675415
+    url: /works/675415/
   - title: Nijigen Otaku no Ore ga Tenkou Shite Kita Kyonyuu Idol ni Otosareru made
       - A 2D Otaku Falls for the Curvy Idol Transfer Student | How I, a 2D-Obsessed
       Otaku, Fell for the Busty Idol Who Transferred to My School

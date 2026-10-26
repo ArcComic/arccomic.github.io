@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "original"
-work_count: 1260
+work_count: 1262
 works:
   - title: Natsu dake Koibito - Summer only Lover [English] =Forbidden Fetish + Ser
       Maggot=
@@ -3629,6 +3629,13 @@ works:
     date: '2026-07-09'
     code: 633938
     url: /works/633938/
+  - title: i no Shissou | The Disappearance of "i"
+    author: kawauchi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/633983.jpg
+    rating: 0.0
+    date: '2026-10-26'
+    code: 633983
+    url: /works/633983/
   - title: 2-nen C-gumi Gakuen Oppabu no Cast ni Imouto ga Ita | My Little Sister Was
       a Hostess at Class 2-C's School Festival Boobs Bar
     author: bunapi-397-yen
@@ -6849,6 +6856,13 @@ works:
     date: '2026-08-23'
     code: 675048
     url: /works/675048/
+  - title: Boku no Mizugi ga Kakusarete | My Swimsuit Got Stolen
+    author: niki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/675415.jpg
+    rating: 0.0
+    date: '2026-10-26'
+    code: 675415
+    url: /works/675415/
   - title: Mesu no Ie III ~Oyako wa Midare Aisareru~
     author: ame-arare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/675981.jpg

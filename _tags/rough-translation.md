@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "rough translation"
-work_count: 737
+work_count: 739
 works:
   - title: Boku no Shiranai Kimi no Kao
     author: utsutsu-minoru
@@ -3529,6 +3529,13 @@ works:
     date: '2026-08-23'
     code: 674984
     url: /works/674984/
+  - title: Boku no Mizugi ga Kakusarete | My Swimsuit Got Stolen
+    author: niki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/675415.jpg
+    rating: 0.0
+    date: '2026-10-26'
+    code: 675415
+    url: /works/675415/
   - title: Dr. Sae's Sexual Behavior Study
     author: torichamaru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/675652.jpg
@@ -5365,6 +5372,13 @@ works:
     date: '2026-10-26'
     code: 690359
     url: /works/690359/
+  - title: Seidaku Awasenomu Innocent Prey Ch.6-8
+    author: carn
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690825.jpg
+    rating: 0.0
+    date: '2026-10-26'
+    code: 690825
+    url: /works/690825/
   - title: 'Swapping no Wana ~Netorare Mitsugi Maso-ka Keikaku ni Ochita Boku~ | Couple
       Swapping Trap: Fallen into the Scheme to Turn Me into a Cuckolded, Money-Draining
       Masochist'

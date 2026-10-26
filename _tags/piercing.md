@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "piercing"
-work_count: 46
+work_count: 47
 works:
   - title: Makai Kishi Ingrid ni Nakadashi Dekiru Soapland | A Soapland Where You Can
       Creampie Dark Knight Ingrid
@@ -340,4 +340,11 @@ works:
     date: '2026-10-05'
     code: 685961
     url: /works/685961/
+  - title: Seidaku Awasenomu Innocent Prey Ch.6-8
+    author: carn
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690825.jpg
+    rating: 0.0
+    date: '2026-10-26'
+    code: 690825
+    url: /works/690825/
 ---
