@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "paizuri"
-work_count: 262
+work_count: 263
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -1958,6 +1958,13 @@ works:
     date: '2026-10-18'
     code: 688598
     url: /works/688598/
+  - title: The Big-Breasted Lady at the Delivery Destination Is Way Too Lewd
+    author: nishibi-mitsuba
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690359.jpg
+    rating: 0.0
+    date: '2026-10-26'
+    code: 690359
+    url: /works/690359/
   - title: My Goddess
     author: batsu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690874.jpg

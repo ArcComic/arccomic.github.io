@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "unusual pupils"
-work_count: 91
+work_count: 92
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -680,4 +680,11 @@ works:
     date: '2026-10-20'
     code: 688561
     url: /works/688561/
+  - title: The Big-Breasted Lady at the Delivery Destination Is Way Too Lewd
+    author: nishibi-mitsuba
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690359.jpg
+    rating: 0.0
+    date: '2026-10-26'
+    code: 690359
+    url: /works/690359/
 ---

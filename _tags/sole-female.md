@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole female"
-work_count: 1114
+work_count: 1117
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -692,6 +692,13 @@ works:
     date: '2026-09-05'
     code: 363219
     url: /works/363219/
+  - title: Utahime-sama wa Ijimekko
+    author: kh
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/363690.jpg
+    rating: 0.0
+    date: '2026-10-26'
+    code: 363690
+    url: /works/363690/
   - title: Yayoi to Apron
     author: tsurui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/363825.jpg
@@ -8240,6 +8247,21 @@ works:
     date: '2026-10-20'
     code: 688613
     url: /works/688613/
+  - title: The Big-Breasted Lady at the Delivery Destination Is Way Too Lewd
+    author: nishibi-mitsuba
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690359.jpg
+    rating: 0.0
+    date: '2026-10-26'
+    code: 690359
+    url: /works/690359/
+  - title: Otaku-kun ni mo Yarasete kureru Yowayowa Chikubi no Kyonyuu Gal Sudou-san
+      | Sudou-san the Busty Gyaru with Weak Nipples Who Lets Even an Otaku Do It
+    author: shishamon
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690570.jpg
+    rating: 0.0
+    date: '2026-10-26'
+    code: 690570
+    url: /works/690570/
   - title: My Goddess
     author: batsu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690874.jpg

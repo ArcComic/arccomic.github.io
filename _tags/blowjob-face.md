@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "blowjob face"
-work_count: 72
+work_count: 74
 works:
   - title: Mama Naranai Onna-tachi Ch. 1-2
     author: otochichi
@@ -544,4 +544,19 @@ works:
     date: '2026-10-18'
     code: 688585
     url: /works/688585/
+  - title: The Big-Breasted Lady at the Delivery Destination Is Way Too Lewd
+    author: nishibi-mitsuba
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690359.jpg
+    rating: 0.0
+    date: '2026-10-26'
+    code: 690359
+    url: /works/690359/
+  - title: Otaku-kun ni mo Yarasete kureru Yowayowa Chikubi no Kyonyuu Gal Sudou-san
+      | Sudou-san the Busty Gyaru with Weak Nipples Who Lets Even an Otaku Do It
+    author: shishamon
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690570.jpg
+    rating: 0.0
+    date: '2026-10-26'
+    code: 690570
+    url: /works/690570/
 ---

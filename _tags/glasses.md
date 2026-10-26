@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "glasses"
-work_count: 309
+work_count: 310
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -2259,6 +2259,14 @@ works:
     date: '2026-10-18'
     code: 688607
     url: /works/688607/
+  - title: Otaku-kun ni mo Yarasete kureru Yowayowa Chikubi no Kyonyuu Gal Sudou-san
+      | Sudou-san the Busty Gyaru with Weak Nipples Who Lets Even an Otaku Do It
+    author: shishamon
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690570.jpg
+    rating: 0.0
+    date: '2026-10-26'
+    code: 690570
+    url: /works/690570/
   - title: Hottokenaino
     author: hara-shigeyuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/77864.jpg

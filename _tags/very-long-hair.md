@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "very long hair"
-work_count: 74
+work_count: 75
 works:
   - title: Joshikousei Sennyuu Repo ~Hanzaisha ga Onnanoko ni Hyoui shite mita~
     author: touchuu-kasou
@@ -550,6 +550,14 @@ works:
     date: '2026-10-20'
     code: 688561
     url: /works/688561/
+  - title: Otaku-kun ni mo Yarasete kureru Yowayowa Chikubi no Kyonyuu Gal Sudou-san
+      | Sudou-san the Busty Gyaru with Weak Nipples Who Lets Even an Otaku Do It
+    author: shishamon
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690570.jpg
+    rating: 0.0
+    date: '2026-10-26'
+    code: 690570
+    url: /works/690570/
   - title: My Goddess
     author: batsu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690874.jpg

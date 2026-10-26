@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "collar"
-work_count: 105
+work_count: 106
 works:
   - title: Kaisha de Iroiro | Gettin' Busy at the Office
     author: hara-shigeyuki
@@ -784,4 +784,12 @@ works:
     date: '2026-10-18'
     code: 688593
     url: /works/688593/
+  - title: Otaku-kun ni mo Yarasete kureru Yowayowa Chikubi no Kyonyuu Gal Sudou-san
+      | Sudou-san the Busty Gyaru with Weak Nipples Who Lets Even an Otaku Do It
+    author: shishamon
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690570.jpg
+    rating: 0.0
+    date: '2026-10-26'
+    code: 690570
+    url: /works/690570/
 ---
