@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "fingering"
-work_count: 212
+work_count: 214
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -1341,6 +1341,14 @@ works:
     date: '2026-09-19'
     code: 682245
     url: /works/682245/
+  - title: Koibito no Renshuu. ~Ore no Ani ni Netorareru Seijun Kanojo~ - Playing lovers
+      | Lover Practice ~My Pure Girlfriend Is Stolen by My Big Brother~
+    author: hinasaki-yo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682286.jpg
+    rating: 0.0
+    date: '2026-10-26'
+    code: 682286
+    url: /works/682286/
   - title: Asuna Change
     author: ty
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682407.jpg
@@ -1569,6 +1577,15 @@ works:
     date: '2026-10-18'
     code: 688607
     url: /works/688607/
+  - title: 'Swapping no Wana ~Netorare Mitsugi Maso-ka Keikaku ni Ochita Boku~ | Couple
+      Swapping Trap: Fallen into the Scheme to Turn Me into a Cuckolded, Money-Draining
+      Masochist'
+    author: denchi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690849.jpg
+    rating: 0.0
+    date: '2026-10-26'
+    code: 690849
+    url: /works/690849/
   - title: Jimi-tsuma-san to Gyaru-tsuma-san, Hitozuma Tetsudou Nobori-iki
     author: nezumi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690851.jpg

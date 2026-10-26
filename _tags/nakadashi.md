@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "nakadashi"
-work_count: 959
+work_count: 960
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -6045,6 +6045,14 @@ works:
     date: '2026-09-19'
     code: 682245
     url: /works/682245/
+  - title: Koibito no Renshuu. ~Ore no Ani ni Netorareru Seijun Kanojo~ - Playing lovers
+      | Lover Practice ~My Pure Girlfriend Is Stolen by My Big Brother~
+    author: hinasaki-yo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682286.jpg
+    rating: 0.0
+    date: '2026-10-26'
+    code: 682286
+    url: /works/682286/
   - title: Saimin Charao to Netorare Seitokai NTR Vol. 4
     author: sunagimo-dx
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682290.jpg

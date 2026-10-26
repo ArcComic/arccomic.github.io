@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "wholesome"
-work_count: 222
+work_count: 223
 works:
   - title: FLUFFY LAUGH GIRL
     author: shibasaki-syouzi
@@ -98,6 +98,13 @@ works:
     date: '2026-04-27'
     code: 357965
     url: /works/357965/
+  - title: Haruranman - Spring Bloom
+    author: arima-kouichi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/360465.jpg
+    rating: 0.0
+    date: '2026-10-26'
+    code: 360465
+    url: /works/360465/
   - title: Shokuba no Senpai
     author: mikuni-mizuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/363218.jpg

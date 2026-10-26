@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "ponytail"
-work_count: 193
+work_count: 194
 works:
   - title: Ami Mami Mind 5
     author: tsurui
@@ -52,6 +52,13 @@ works:
     date: '2026-04-12'
     code: 328805
     url: /works/328805/
+  - title: Haruranman - Spring Bloom
+    author: arima-kouichi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/360465.jpg
+    rating: 0.0
+    date: '2026-10-26'
+    code: 360465
+    url: /works/360465/
   - title: Tsukiyo ni Negai o Komete
     author: arima-kouichi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/360647.jpg

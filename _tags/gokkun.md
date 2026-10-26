@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "gokkun"
-work_count: 61
+work_count: 62
 works:
   - title: Itadakimasu Anata-sama | I Crave You
     author: tsurui
@@ -446,6 +446,15 @@ works:
     date: '2026-10-26'
     code: 690570
     url: /works/690570/
+  - title: 'Swapping no Wana ~Netorare Mitsugi Maso-ka Keikaku ni Ochita Boku~ | Couple
+      Swapping Trap: Fallen into the Scheme to Turn Me into a Cuckolded, Money-Draining
+      Masochist'
+    author: denchi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690849.jpg
+    rating: 0.0
+    date: '2026-10-26'
+    code: 690849
+    url: /works/690849/
   - title: My Goddess
     author: batsu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690874.jpg

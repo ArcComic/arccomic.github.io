@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "manga"
-work_count: 412
+work_count: 413
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -405,6 +405,13 @@ works:
     date: '2026-07-13'
     code: 358168
     url: /works/358168/
+  - title: Haruranman - Spring Bloom
+    author: arima-kouichi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/360465.jpg
+    rating: 0.0
+    date: '2026-10-26'
+    code: 360465
+    url: /works/360465/
   - title: Tsukiyo ni Negai o Komete
     author: arima-kouichi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/360647.jpg

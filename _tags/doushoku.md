@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "doushoku"
-work_count: 5
+work_count: 6
 works:
   - title: Netoriai -Watashi no Hou ga, Kimi ga Suki- | NTR Love -I'm The One Who Loves
       You-
@@ -33,6 +33,14 @@ works:
     date: '2026-09-30'
     code: 624848
     url: /works/624848/
+  - title: Koibito no Renshuu. ~Ore no Ani ni Netorareru Seijun Kanojo~ - Playing lovers
+      | Lover Practice ~My Pure Girlfriend Is Stolen by My Big Brother~
+    author: hinasaki-yo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682286.jpg
+    rating: 0.0
+    date: '2026-10-26'
+    code: 682286
+    url: /works/682286/
   - title: Saimin Gakuen 5 Saiminjutsu de Yari Houdai no Gakuen Harem o Te ni Ireta
       Ore | I Used Hypnosis to Create a School Harem That I Can Fuck as Much as I Want
     author: inagita

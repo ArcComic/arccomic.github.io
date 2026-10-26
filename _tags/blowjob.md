@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "blowjob"
-work_count: 748
+work_count: 749
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -5526,6 +5526,15 @@ works:
     date: '2026-10-26'
     code: 690570
     url: /works/690570/
+  - title: 'Swapping no Wana ~Netorare Mitsugi Maso-ka Keikaku ni Ochita Boku~ | Couple
+      Swapping Trap: Fallen into the Scheme to Turn Me into a Cuckolded, Money-Draining
+      Masochist'
+    author: denchi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690849.jpg
+    rating: 0.0
+    date: '2026-10-26'
+    code: 690849
+    url: /works/690849/
   - title: Jimi-tsuma-san to Gyaru-tsuma-san, Hitozuma Tetsudou Nobori-iki
     author: nezumi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690851.jpg

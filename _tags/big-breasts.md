@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big breasts"
-work_count: 1275
+work_count: 1278
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -535,6 +535,13 @@ works:
     date: '2026-04-27'
     code: 357965
     url: /works/357965/
+  - title: Haruranman - Spring Bloom
+    author: arima-kouichi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/360465.jpg
+    rating: 0.0
+    date: '2026-10-26'
+    code: 360465
+    url: /works/360465/
   - title: Tsukiyo ni Negai o Komete
     author: arima-kouichi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/360647.jpg
@@ -7998,6 +8005,14 @@ works:
     date: '2026-09-19'
     code: 682245
     url: /works/682245/
+  - title: Koibito no Renshuu. ~Ore no Ani ni Netorareru Seijun Kanojo~ - Playing lovers
+      | Lover Practice ~My Pure Girlfriend Is Stolen by My Big Brother~
+    author: hinasaki-yo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682286.jpg
+    rating: 0.0
+    date: '2026-10-26'
+    code: 682286
+    url: /works/682286/
   - title: Saimin Charao to Netorare Seitokai NTR Vol. 4
     author: sunagimo-dx
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682290.jpg
@@ -9408,6 +9423,15 @@ works:
     date: '2026-10-26'
     code: 690570
     url: /works/690570/
+  - title: 'Swapping no Wana ~Netorare Mitsugi Maso-ka Keikaku ni Ochita Boku~ | Couple
+      Swapping Trap: Fallen into the Scheme to Turn Me into a Cuckolded, Money-Draining
+      Masochist'
+    author: denchi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690849.jpg
+    rating: 0.0
+    date: '2026-10-26'
+    code: 690849
+    url: /works/690849/
   - title: Jimi-tsuma-san to Gyaru-tsuma-san, Hitozuma Tetsudou Nobori-iki
     author: nezumi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690851.jpg

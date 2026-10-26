@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "cheating"
-work_count: 419
+work_count: 421
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -2677,6 +2677,14 @@ works:
     date: '2026-09-27'
     code: 682254
     url: /works/682254/
+  - title: Koibito no Renshuu. ~Ore no Ani ni Netorareru Seijun Kanojo~ - Playing lovers
+      | Lover Practice ~My Pure Girlfriend Is Stolen by My Big Brother~
+    author: hinasaki-yo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682286.jpg
+    rating: 0.0
+    date: '2026-10-26'
+    code: 682286
+    url: /works/682286/
   - title: Zenbu, zenbu, hajimete age chatte gomen'nasai
     author: mauboumen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682306.jpg
@@ -3067,6 +3075,15 @@ works:
     date: '2026-10-20'
     code: 688613
     url: /works/688613/
+  - title: 'Swapping no Wana ~Netorare Mitsugi Maso-ka Keikaku ni Ochita Boku~ | Couple
+      Swapping Trap: Fallen into the Scheme to Turn Me into a Cuckolded, Money-Draining
+      Masochist'
+    author: denchi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690849.jpg
+    rating: 0.0
+    date: '2026-10-26'
+    code: 690849
+    url: /works/690849/
   - title: Jimi-tsuma-san to Gyaru-tsuma-san, Hitozuma Tetsudou Nobori-iki
     author: nezumi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690851.jpg
