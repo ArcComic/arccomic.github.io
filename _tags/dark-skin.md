@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "dark skin"
-work_count: 177
+work_count: 178
 works:
   - title: Birthday
     author: hashiba-yachi
@@ -1306,4 +1306,12 @@ works:
     date: '2026-10-18'
     code: 688600
     url: /works/688600/
+  - title: A story about how I ended up being in charge of satisfying the sexual desires
+      of the female students at my new school.
+    author: sakurayu-hal
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690244.jpg
+    rating: 0.0
+    date: '2026-10-26'
+    code: 690244
+    url: /works/690244/
 ---

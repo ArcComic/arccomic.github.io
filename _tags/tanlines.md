@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "tanlines"
-work_count: 34
+work_count: 35
 works:
   - title: Mizugi no Shita no Yuuwaku | Temptation Beneath The Swimsuit
     author: gustav
@@ -254,4 +254,12 @@ works:
     date: '2026-10-15'
     code: 687667
     url: /works/687667/
+  - title: A story about how I ended up being in charge of satisfying the sexual desires
+      of the female students at my new school.
+    author: sakurayu-hal
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690244.jpg
+    rating: 0.0
+    date: '2026-10-26'
+    code: 690244
+    url: /works/690244/
 ---

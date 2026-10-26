@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "public use"
-work_count: 12
+work_count: 13
 works:
   - title: IKUu!! Zenkou Seito no Mae de Koukai Zecchou-saserareta JK no Matsuro 1 |
       Cumming in Front of the Entire Student Body 1
@@ -93,4 +93,12 @@ works:
     date: '2026-09-25'
     code: 683814
     url: /works/683814/
+  - title: A story about how I ended up being in charge of satisfying the sexual desires
+      of the female students at my new school.
+    author: sakurayu-hal
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690244.jpg
+    rating: 0.0
+    date: '2026-10-26'
+    code: 690244
+    url: /works/690244/
 ---

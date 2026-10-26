@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "rough translation"
-work_count: 730
+work_count: 733
 works:
   - title: Boku no Shiranai Kimi no Kao
     author: utsutsu-minoru
@@ -5342,4 +5342,26 @@ works:
     date: '2026-10-18'
     code: 688604
     url: /works/688604/
+  - title: A story about how I ended up being in charge of satisfying the sexual desires
+      of the female students at my new school.
+    author: sakurayu-hal
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690244.jpg
+    rating: 0.0
+    date: '2026-10-26'
+    code: 690244
+    url: /works/690244/
+  - title: Jimi-tsuma-san to Gyaru-tsuma-san, Hitozuma Tetsudou Nobori-iki
+    author: nezumi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690851.jpg
+    rating: 0.0
+    date: '2026-10-26'
+    code: 690851
+    url: /works/690851/
+  - title: My Goddess
+    author: batsu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690874.jpg
+    rating: 0.0
+    date: '2026-10-26'
+    code: 690874
+    url: /works/690874/
 ---

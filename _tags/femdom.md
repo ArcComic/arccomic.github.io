@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "femdom"
-work_count: 202
+work_count: 204
 works:
   - title: Life with Married Women Just Like a Manga 2 - Ch. 1-5
     author: hidemaru
@@ -1472,6 +1472,21 @@ works:
     date: '2026-10-18'
     code: 688480
     url: /works/688480/
+  - title: A story about how I ended up being in charge of satisfying the sexual desires
+      of the female students at my new school.
+    author: sakurayu-hal
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690244.jpg
+    rating: 0.0
+    date: '2026-10-26'
+    code: 690244
+    url: /works/690244/
+  - title: My Goddess
+    author: batsu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690874.jpg
+    rating: 0.0
+    date: '2026-10-26'
+    code: 690874
+    url: /works/690874/
   - title: Jokyoushi - Hot For Teachers | Female Teachers
     author: drill-murata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/81375.jpg

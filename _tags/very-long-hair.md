@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "very long hair"
-work_count: 73
+work_count: 74
 works:
   - title: Joshikousei Sennyuu Repo ~Hanzaisha ga Onnanoko ni Hyoui shite mita~
     author: touchuu-kasou
@@ -550,4 +550,11 @@ works:
     date: '2026-10-20'
     code: 688561
     url: /works/688561/
+  - title: My Goddess
+    author: batsu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690874.jpg
+    rating: 0.0
+    date: '2026-10-26'
+    code: 690874
+    url: /works/690874/
 ---

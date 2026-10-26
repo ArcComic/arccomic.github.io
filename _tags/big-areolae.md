@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big areolae"
-work_count: 117
+work_count: 118
 works:
   - title: Toshoshitsu no Kanojo ~Seiso na Kimi ga Ochiru made~
     author: ame-arare
@@ -898,4 +898,11 @@ works:
     date: '2026-10-18'
     code: 688593
     url: /works/688593/
+  - title: My Goddess
+    author: batsu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690874.jpg
+    rating: 0.0
+    date: '2026-10-26'
+    code: 690874
+    url: /works/690874/
 ---
