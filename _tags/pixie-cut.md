@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "pixie cut"
-work_count: 117
+work_count: 118
 works:
   - title: Akarui Kazoku Seikatsu
     author: pistonring-nishizawa
@@ -24,6 +24,13 @@ works:
     date: '2026-10-08'
     code: 324170
     url: /works/324170/
+  - title: Sunao ni Narenai Bokura | We Can't Be Honest
+    author: arima-kouichi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/338006.jpg
+    rating: 0.0
+    date: '2026-10-26'
+    code: 338006
+    url: /works/338006/
   - title: Last Chance
     author: herio
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/384255.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "defloration"
-work_count: 271
+work_count: 273
 works:
   - title: Imitation Family + Bigibo Hen
     author: tohzai
@@ -130,6 +130,13 @@ works:
     date: '2026-04-27'
     code: 337171
     url: /works/337171/
+  - title: Sunao ni Narenai Bokura | We Can't Be Honest
+    author: arima-kouichi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/338006.jpg
+    rating: 0.0
+    date: '2026-10-26'
+    code: 338006
+    url: /works/338006/
   - title: Homestay-chu no Doitsu Musume ga Issho ni Furo ni Haitte Kuru Wake | The
       Reason Why a German Girl Takes a Bath Together With Me on Her Homestay
     author: gentsuki
@@ -868,6 +875,13 @@ works:
     date: '2026-04-27'
     code: 618562
     url: /works/618562/
+  - title: Boku o Suki to Itte Kureta Ane wa Hoka no Otoko ni Dakareru
+    author: furaimai
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/618564.jpg
+    rating: 0.0
+    date: '2026-10-26'
+    code: 618564
+    url: /works/618564/
   - title: Fuyu-san wa Sotsugyou Shitai | Fuyu-san Wants to Lose Her V-Card
     author: kurihara-kenshirou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/619405.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole female"
-work_count: 1123
+work_count: 1126
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -535,6 +535,13 @@ works:
     date: '2026-04-27'
     code: 337171
     url: /works/337171/
+  - title: Sunao ni Narenai Bokura | We Can't Be Honest
+    author: arima-kouichi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/338006.jpg
+    rating: 0.0
+    date: '2026-10-26'
+    code: 338006
+    url: /works/338006/
   - title: Kyodou Fushin Joshi
     author: uds
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/339953.jpg
@@ -3493,6 +3500,13 @@ works:
     date: '2026-09-04'
     code: 618098
     url: /works/618098/
+  - title: Boku o Suki to Itte Kureta Ane wa Hoka no Otoko ni Dakareru
+    author: furaimai
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/618564.jpg
+    rating: 0.0
+    date: '2026-10-26'
+    code: 618564
+    url: /works/618564/
   - title: Fuyu-san wa Sotsugyou Shitai | Fuyu-san Wants to Lose Her V-Card
     author: kurihara-kenshirou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/619405.jpg
@@ -8291,6 +8305,14 @@ works:
     date: '2026-10-26'
     code: 690570
     url: /works/690570/
+  - title: Motokano to Dousoukai de Saikai, Shuuden Nogashite Aibeya ni. ~Otagai Kekkon
+      Majika de Uwaki Sex Shite Shimaimashita~
+    author: baketsu-purin
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690823.jpg
+    rating: 0.0
+    date: '2026-10-26'
+    code: 690823
+    url: /works/690823/
   - title: I'm held in my taciturn secretary's arms every night.
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690828.jpg

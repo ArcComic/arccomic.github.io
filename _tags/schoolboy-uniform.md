@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "schoolboy uniform"
-work_count: 114
+work_count: 115
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -346,6 +346,13 @@ works:
     date: '2026-04-27'
     code: 618562
     url: /works/618562/
+  - title: Boku o Suki to Itte Kureta Ane wa Hoka no Otoko ni Dakareru
+    author: furaimai
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/618564.jpg
+    rating: 0.0
+    date: '2026-10-26'
+    code: 618564
+    url: /works/618564/
   - title: Seishun o Yarinaosu nara Kondo koso Suki datta Doukyuusei to Tsukiatte Zettai
       Yarimakuritai. | If I'm Reliving My Life, This Time I Wanna Get With The Girl
       I Loved Back Then

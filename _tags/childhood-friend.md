@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "childhood friend"
-work_count: 40
+work_count: 41
 works:
   - title: Gakkou to Bed ja Seihantai no, Okkina Kanojo. | My Big Girlfriend Acts the
       Polar Opposite in Bed and at School.
@@ -18,6 +18,13 @@ works:
     date: '2026-09-13'
     code: 316579
     url: /works/316579/
+  - title: Sunao ni Narenai Bokura | We Can't Be Honest
+    author: arima-kouichi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/338006.jpg
+    rating: 0.0
+    date: '2026-10-26'
+    code: 338006
+    url: /works/338006/
   - title: Haruranman - Spring Bloom
     author: arima-kouichi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/360465.jpg

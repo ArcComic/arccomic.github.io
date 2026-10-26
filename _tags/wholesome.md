@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "wholesome"
-work_count: 224
+work_count: 225
 works:
   - title: FLUFFY LAUGH GIRL
     author: shibasaki-syouzi
@@ -53,6 +53,13 @@ works:
     date: '2026-09-18'
     code: 333923
     url: /works/333923/
+  - title: Sunao ni Narenai Bokura | We Can't Be Honest
+    author: arima-kouichi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/338006.jpg
+    rating: 0.0
+    date: '2026-10-26'
+    code: 338006
+    url: /works/338006/
   - title: Homestay-chu no Doitsu Musume ga Issho ni Furo ni Haitte Kuru Wake | The
       Reason Why a German Girl Takes a Bath Together With Me on Her Homestay
     author: gentsuki

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "condom"
-work_count: 250
+work_count: 251
 works:
   - title: Kaisha de Iroiro | Gettin' Busy at the Office
     author: hara-shigeyuki
@@ -877,6 +877,13 @@ works:
     date: '2026-04-27'
     code: 618562
     url: /works/618562/
+  - title: Boku o Suki to Itte Kureta Ane wa Hoka no Otoko ni Dakareru
+    author: furaimai
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/618564.jpg
+    rating: 0.0
+    date: '2026-10-26'
+    code: 618564
+    url: /works/618564/
   - title: Fuyu-san wa Sotsugyou Shitai | Fuyu-san Wants to Lose Her V-Card
     author: kurihara-kenshirou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/619405.jpg

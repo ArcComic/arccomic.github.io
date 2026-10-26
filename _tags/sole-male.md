@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole male"
-work_count: 1061
+work_count: 1063
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -499,6 +499,13 @@ works:
     date: '2026-04-27'
     code: 337171
     url: /works/337171/
+  - title: Sunao ni Narenai Bokura | We Can't Be Honest
+    author: arima-kouichi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/338006.jpg
+    rating: 0.0
+    date: '2026-10-26'
+    code: 338006
+    url: /works/338006/
   - title: Kyodou Fushin Joshi
     author: uds
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/339953.jpg
@@ -7840,6 +7847,14 @@ works:
     date: '2026-10-26'
     code: 690570
     url: /works/690570/
+  - title: Motokano to Dousoukai de Saikai, Shuuden Nogashite Aibeya ni. ~Otagai Kekkon
+      Majika de Uwaki Sex Shite Shimaimashita~
+    author: baketsu-purin
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690823.jpg
+    rating: 0.0
+    date: '2026-10-26'
+    code: 690823
+    url: /works/690823/
   - title: I'm held in my taciturn secretary's arms every night.
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690828.jpg

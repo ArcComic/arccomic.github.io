@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "scanmark"
-work_count: 253
+work_count: 255
 works:
   - title: NTR Anniversary + ) [Syukurin] Mitsuha ~Netorare~ (Kimi no Na wa.) [English]
       [Colorized] by Mikaku
@@ -121,6 +121,13 @@ works:
     date: '2026-04-27'
     code: 618562
     url: /works/618562/
+  - title: Boku o Suki to Itte Kureta Ane wa Hoka no Otoko ni Dakareru
+    author: furaimai
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/618564.jpg
+    rating: 0.0
+    date: '2026-10-26'
+    code: 618564
+    url: /works/618564/
   - title: Boku dake ni Amaesasete Kureru Kyonyuu JK Tsuma o Hoka no Otoko ni Dakasete
       Mita 11
     author: akire
@@ -1810,6 +1817,14 @@ works:
     date: '2026-10-18'
     code: 688604
     url: /works/688604/
+  - title: Motokano to Dousoukai de Saikai, Shuuden Nogashite Aibeya ni. ~Otagai Kekkon
+      Majika de Uwaki Sex Shite Shimaimashita~
+    author: baketsu-purin
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690823.jpg
+    rating: 0.0
+    date: '2026-10-26'
+    code: 690823
+    url: /works/690823/
   - title: Seidaku Awasenomu Innocent Prey Ch.6-8
     author: carn
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690825.jpg
