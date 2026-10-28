@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "translated"
-work_count: 1860
+work_count: 1863
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -1138,6 +1138,13 @@ works:
     date: '2026-05-03'
     code: 376189
     url: /works/376189/
+  - title: meido no michi ni ou ha nashi | Maids Could Never Be Queens
+    author: kawauchi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/377019.jpg
+    rating: 0.0
+    date: '2026-10-28'
+    code: 377019
+    url: /works/377019/
   - title: Soubo Soukan 2 | Twin mothers incest 2 FULL
     author: nanao-yukiji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/378626.jpg
@@ -13591,6 +13598,14 @@ works:
     date: '2026-10-28'
     code: 690945
     url: /works/690945/
+  - title: Souma Kurumi no Yuugi -Yukemuri Ryojou Hen (3)- | Kurumi Souma's Lewd Game
+      ~Hot Spring Travel Stories (3)~
+    author: mizuryu-kei
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691374.jpg
+    rating: 0.0
+    date: '2026-10-28'
+    code: 691374
+    url: /works/691374/
   - title: Ero Situ Jidou Seisei Appli de Juujitsu no Ero SuppoLife | Enhance your erotic
       life with an app that auto-generates erotic scenarios.
     author: mangetsu-wasabi
@@ -13664,6 +13679,13 @@ works:
     date: '2026-10-28'
     code: 691661
     url: /works/691661/
+  - title: Kyou kara, Hitozuma Mansion ni Nyuukyo shimasu - CHAPTER 1-15
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691671.jpg
+    rating: 0.0
+    date: '2026-10-28'
+    code: 691671
+    url: /works/691671/
   - title: Hottokenaino
     author: hara-shigeyuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/77864.jpg

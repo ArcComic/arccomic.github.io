@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "original"
-work_count: 1278
+work_count: 1279
 works:
   - title: Natsu dake Koibito - Summer only Lover [English] =Forbidden Fetish + Ser
       Maggot=
@@ -392,6 +392,13 @@ works:
     date: '2026-05-03'
     code: 376189
     url: /works/376189/
+  - title: meido no michi ni ou ha nashi | Maids Could Never Be Queens
+    author: kawauchi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/377019.jpg
+    rating: 0.0
+    date: '2026-10-28'
+    code: 377019
+    url: /works/377019/
   - title: Osananajimi no Otou-san ni.
     author: uni18
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/381875.jpg

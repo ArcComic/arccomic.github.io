@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "nipple stimulation"
-work_count: 190
+work_count: 191
 works:
   - title: Hypnotic Domination ~ The Fall of Tennis Club Ace ~
     author: danchino
@@ -1436,4 +1436,11 @@ works:
     date: '2026-10-28'
     code: 691662
     url: /works/691662/
+  - title: Kyou kara, Hitozuma Mansion ni Nyuukyo shimasu - CHAPTER 1-15
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691671.jpg
+    rating: 0.0
+    date: '2026-10-28'
+    code: 691671
+    url: /works/691671/
 ---

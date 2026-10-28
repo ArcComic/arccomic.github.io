@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "cunnilingus"
-work_count: 206
+work_count: 208
 works:
   - title: Love Approach
     author: hanafuda-sakurano
@@ -117,6 +117,13 @@ works:
     date: '2026-10-10'
     code: 351810
     url: /works/351810/
+  - title: meido no michi ni ou ha nashi | Maids Could Never Be Queens
+    author: kawauchi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/377019.jpg
+    rating: 0.0
+    date: '2026-10-28'
+    code: 377019
+    url: /works/377019/
   - title: Osananajimi wa Otona no Onna | My Childhood Friend is an Adult Woman
     author: mashu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/383468.jpg
@@ -1528,4 +1535,11 @@ works:
     date: '2026-10-28'
     code: 691662
     url: /works/691662/
+  - title: Kyou kara, Hitozuma Mansion ni Nyuukyo shimasu - CHAPTER 1-15
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691671.jpg
+    rating: 0.0
+    date: '2026-10-28'
+    code: 691671
+    url: /works/691671/
 ---

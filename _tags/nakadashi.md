@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "nakadashi"
-work_count: 978
+work_count: 980
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -7183,6 +7183,14 @@ works:
     date: '2026-10-28'
     code: 690945
     url: /works/690945/
+  - title: Souma Kurumi no Yuugi -Yukemuri Ryojou Hen (3)- | Kurumi Souma's Lewd Game
+      ~Hot Spring Travel Stories (3)~
+    author: mizuryu-kei
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691374.jpg
+    rating: 0.0
+    date: '2026-10-28'
+    code: 691374
+    url: /works/691374/
   - title: Ero Situ Jidou Seisei Appli de Juujitsu no Ero SuppoLife | Enhance your erotic
       life with an app that auto-generates erotic scenarios.
     author: mangetsu-wasabi
@@ -7256,6 +7264,13 @@ works:
     date: '2026-10-28'
     code: 691662
     url: /works/691662/
+  - title: Kyou kara, Hitozuma Mansion ni Nyuukyo shimasu - CHAPTER 1-15
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691671.jpg
+    rating: 0.0
+    date: '2026-10-28'
+    code: 691671
+    url: /works/691671/
   - title: Inin Keiyaku | Lewd Pregnancy Contract
     author: yoshiura-kazuya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/83595.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "tall girl"
-work_count: 51
+work_count: 52
 works:
   - title: Oppai na Natsuyasumi 2 | The Summer Break of Boobs 2
     author: higashino-mikan
@@ -25,6 +25,13 @@ works:
     date: '2026-09-05'
     code: 363219
     url: /works/363219/
+  - title: meido no michi ni ou ha nashi | Maids Could Never Be Queens
+    author: kawauchi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/377019.jpg
+    rating: 0.0
+    date: '2026-10-28'
+    code: 377019
+    url: /works/377019/
   - title: Harinezumi no Dilemma ① | A Hedgehog's Dilemma, Part 1
     author: maeda-momo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/388627.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "yuri"
-work_count: 60
+work_count: 61
 works:
   - title: Himitsu no Kamiura san | The Mysterious Kamiura-san
     author: takeshisu
@@ -10,6 +10,13 @@ works:
     date: '2026-10-08'
     code: 324170
     url: /works/324170/
+  - title: meido no michi ni ou ha nashi | Maids Could Never Be Queens
+    author: kawauchi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/377019.jpg
+    rating: 0.0
+    date: '2026-10-28'
+    code: 377019
+    url: /works/377019/
   - title: Gekkoutou no Yume - Nyotaika Douwa ~Danshi Kinsei no Tou~
     author: mugen-no-sudadokei
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/387365.jpg

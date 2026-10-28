@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "kissing"
-work_count: 448
+work_count: 450
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -118,6 +118,13 @@ works:
     date: '2026-09-06'
     code: 370164
     url: /works/370164/
+  - title: meido no michi ni ou ha nashi | Maids Could Never Be Queens
+    author: kawauchi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/377019.jpg
+    rating: 0.0
+    date: '2026-10-28'
+    code: 377019
+    url: /works/377019/
   - title: Osananajimi no Otou-san ni.
     author: uni18
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/381875.jpg
@@ -3326,6 +3333,14 @@ works:
     date: '2026-10-28'
     code: 690945
     url: /works/690945/
+  - title: Souma Kurumi no Yuugi -Yukemuri Ryojou Hen (3)- | Kurumi Souma's Lewd Game
+      ~Hot Spring Travel Stories (3)~
+    author: mizuryu-kei
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691374.jpg
+    rating: 0.0
+    date: '2026-10-28'
+    code: 691374
+    url: /works/691374/
   - title: Ero Situ Jidou Seisei Appli de Juujitsu no Ero SuppoLife | Enhance your erotic
       life with an app that auto-generates erotic scenarios.
     author: mangetsu-wasabi
