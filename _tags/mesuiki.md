@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "mesuiki"
-work_count: 13
+work_count: 14
 works:
   - title: 'GNO: Girl''s Night Out - Issue 02'
     author: uselessbegging
@@ -103,4 +103,11 @@ works:
     date: '2026-10-13'
     code: 687044
     url: /works/687044/
+  - title: inuhoozuki no Otokonoko
+    author: hokuro-ryuseigun
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691400.jpg
+    rating: 0.0
+    date: '2026-10-28'
+    code: 691400
+    url: /works/691400/
 ---

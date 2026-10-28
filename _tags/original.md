@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "original"
-work_count: 1273
+work_count: 1275
 works:
   - title: Natsu dake Koibito - Summer only Lover [English] =Forbidden Fetish + Ser
       Maggot=
@@ -9456,6 +9456,13 @@ works:
     date: '2026-10-28'
     code: 690945
     url: /works/690945/
+  - title: inuhoozuki no Otokonoko
+    author: hokuro-ryuseigun
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691400.jpg
+    rating: 0.0
+    date: '2026-10-28'
+    code: 691400
+    url: /works/691400/
   - title: Kinpatsu Kyonyuu Ani-Wota Ryuugakusei Chorosugi www | The Blonde, Busty Anime-Otaku
       International Student Is Way Too Easy to Get Laid, lol
     author: misaki
@@ -9479,4 +9486,11 @@ works:
     date: '2026-10-28'
     code: 691661
     url: /works/691661/
+  - title: Spiral
+    author: laliberte
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691662.jpg
+    rating: 0.0
+    date: '2026-10-28'
+    code: 691662
+    url: /works/691662/
 ---

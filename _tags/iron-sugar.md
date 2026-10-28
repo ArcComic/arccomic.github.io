@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "iron sugar"
-work_count: 2
+work_count: 3
 works:
   - title: Namaiki na Imouto ga Ore no SeFri ni Natta Keii | How My Cheeky Little Sister
       and I Became Sex Friends With Benefits
@@ -18,4 +18,11 @@ works:
     date: '2026-09-17'
     code: 670708
     url: /works/670708/
+  - title: Spiral
+    author: laliberte
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691662.jpg
+    rating: 0.0
+    date: '2026-10-28'
+    code: 691662
+    url: /works/691662/
 ---

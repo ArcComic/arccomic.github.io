@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "garter belt"
-work_count: 40
+work_count: 41
 works:
   - title: Kaisha de Iroiro | Gettin' Busy at the Office
     author: hara-shigeyuki
@@ -289,6 +289,13 @@ works:
     date: '2026-10-28'
     code: 690945
     url: /works/690945/
+  - title: Spiral
+    author: laliberte
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691662.jpg
+    rating: 0.0
+    date: '2026-10-28'
+    code: 691662
+    url: /works/691662/
   - title: Jokyoushi - Hot For Teachers | Female Teachers
     author: drill-murata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/81375.jpg

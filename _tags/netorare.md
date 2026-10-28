@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "netorare"
-work_count: 492
+work_count: 493
 works:
   - title: Kousa suru Osu to Mesu | Male and Female Crossing
     author: ootsuka-kotora
@@ -3618,6 +3618,13 @@ works:
     date: '2026-10-28'
     code: 690945
     url: /works/690945/
+  - title: inuhoozuki no Otokonoko
+    author: hokuro-ryuseigun
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691400.jpg
+    rating: 0.0
+    date: '2026-10-28'
+    code: 691400
+    url: /works/691400/
   - title: Kinpatsu Kyonyuu Ani-Wota Ryuugakusei Chorosugi www | The Blonde, Busty Anime-Otaku
       International Student Is Way Too Easy to Get Laid, lol
     author: misaki

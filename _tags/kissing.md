@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "kissing"
-work_count: 444
+work_count: 446
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -3318,6 +3318,13 @@ works:
     date: '2026-10-28'
     code: 690945
     url: /works/690945/
+  - title: inuhoozuki no Otokonoko
+    author: hokuro-ryuseigun
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691400.jpg
+    rating: 0.0
+    date: '2026-10-28'
+    code: 691400
+    url: /works/691400/
   - title: The Fox God Who Knows Not of Love | Kitsune Kami-sama wa Ai o Shiranai
     author: shinozuka
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691624.jpg
@@ -3340,4 +3347,11 @@ works:
     date: '2026-10-28'
     code: 691661
     url: /works/691661/
+  - title: Spiral
+    author: laliberte
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691662.jpg
+    rating: 0.0
+    date: '2026-10-28'
+    code: 691662
+    url: /works/691662/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "translated"
-work_count: 1856
+work_count: 1857
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -13583,6 +13583,13 @@ works:
     date: '2026-10-28'
     code: 690945
     url: /works/690945/
+  - title: inuhoozuki no Otokonoko
+    author: hokuro-ryuseigun
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691400.jpg
+    rating: 0.0
+    date: '2026-10-28'
+    code: 691400
+    url: /works/691400/
   - title: Kyouraku Moumoku Weekend
     author: mudoochi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691452.jpg

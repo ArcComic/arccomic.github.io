@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "tomgirl"
-work_count: 25
+work_count: 26
 works:
   - title: Osananajimi wa Owari｜End of a Childhood Friendship
     author: henkuma
@@ -186,4 +186,11 @@ works:
     date: '2026-10-10'
     code: 686448
     url: /works/686448/
+  - title: inuhoozuki no Otokonoko
+    author: hokuro-ryuseigun
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691400.jpg
+    rating: 0.0
+    date: '2026-10-28'
+    code: 691400
+    url: /works/691400/
 ---
