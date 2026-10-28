@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "scanmark"
-work_count: 259
+work_count: 261
 works:
   - title: NTR Anniversary + ) [Syukurin] Mitsuha ~Netorare~ (Kimi no Na wa.) [English]
       [Colorized] by Mikaku
@@ -1831,6 +1831,13 @@ works:
     date: '2026-10-18'
     code: 688604
     url: /works/688604/
+  - title: Coin Laundry Edition
+    author: aino
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690340.jpg
+    rating: 0.0
+    date: '2026-10-28'
+    code: 690340
+    url: /works/690340/
   - title: Motokano to Dousoukai de Saikai, Shuuden Nogashite Aibeya ni. ~Otagai Kekkon
       Majika de Uwaki Sex Shite Shimaimashita~
     author: baketsu-purin
@@ -1876,4 +1883,11 @@ works:
     date: '2026-10-28'
     code: 690945
     url: /works/690945/
+  - title: Kyouraku Moumoku Weekend
+    author: mudoochi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691452.jpg
+    rating: 0.0
+    date: '2026-10-28'
+    code: 691452
+    url: /works/691452/
 ---

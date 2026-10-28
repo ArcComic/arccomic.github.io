@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "blackmail"
-work_count: 163
+work_count: 164
 works:
   - title: Birthday
     author: hashiba-yachi
@@ -1209,6 +1209,14 @@ works:
     date: '2026-10-26'
     code: 690875
     url: /works/690875/
+  - title: Kinpatsu Kyonyuu Ani-Wota Ryuugakusei Chorosugi www | The Blonde, Busty Anime-Otaku
+      International Student Is Way Too Easy to Get Laid, lol
+    author: misaki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691635.jpg
+    rating: 0.0
+    date: '2026-10-28'
+    code: 691635
+    url: /works/691635/
   - title: Inin Keiyaku | Lewd Pregnancy Contract
     author: yoshiura-kazuya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/83595.jpg

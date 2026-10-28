@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "muscle"
-work_count: 138
+work_count: 140
 works:
   - title: Kousa suru Osu to Mesu | Male and Female Crossing
     author: ootsuka-kotora
@@ -1028,6 +1028,13 @@ works:
     date: '2026-10-26'
     code: 690849
     url: /works/690849/
+  - title: Kyouraku Moumoku Weekend
+    author: mudoochi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691452.jpg
+    rating: 0.0
+    date: '2026-10-28'
+    code: 691452
+    url: /works/691452/
   - title: The Fox God Who Knows Not of Love | Kitsune Kami-sama wa Ai o Shiranai
     author: shinozuka
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691624.jpg
@@ -1035,6 +1042,14 @@ works:
     date: '2026-10-28'
     code: 691624
     url: /works/691624/
+  - title: Kinpatsu Kyonyuu Ani-Wota Ryuugakusei Chorosugi www | The Blonde, Busty Anime-Otaku
+      International Student Is Way Too Easy to Get Laid, lol
+    author: misaki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691635.jpg
+    rating: 0.0
+    date: '2026-10-28'
+    code: 691635
+    url: /works/691635/
   - title: FUCK MATCH ~Haiboku! Takane no Manko~
     author: nakajima-uota
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691651.jpg

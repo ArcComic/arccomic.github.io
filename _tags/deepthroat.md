@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "deepthroat"
-work_count: 105
+work_count: 106
 works:
   - title: Toshishita Chin Kui Obasan
     author: maccha-neji
@@ -788,6 +788,14 @@ works:
     date: '2026-10-28'
     code: 690945
     url: /works/690945/
+  - title: Kinpatsu Kyonyuu Ani-Wota Ryuugakusei Chorosugi www | The Blonde, Busty Anime-Otaku
+      International Student Is Way Too Easy to Get Laid, lol
+    author: misaki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691635.jpg
+    rating: 0.0
+    date: '2026-10-28'
+    code: 691635
+    url: /works/691635/
   - title: Asuna OVERLOAD OVERCOME
     author: akashiro-kiiro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691660.jpg

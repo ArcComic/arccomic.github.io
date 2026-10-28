@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "doujinshi"
-work_count: 1575
+work_count: 1577
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -11529,6 +11529,13 @@ works:
     date: '2026-10-26'
     code: 690244
     url: /works/690244/
+  - title: Coin Laundry Edition
+    author: aino
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690340.jpg
+    rating: 0.0
+    date: '2026-10-28'
+    code: 690340
+    url: /works/690340/
   - title: The Big-Breasted Lady at the Delivery Destination Is Way Too Lewd
     author: nishibi-mitsuba
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690359.jpg
@@ -11611,6 +11618,14 @@ works:
     date: '2026-10-28'
     code: 690945
     url: /works/690945/
+  - title: Kinpatsu Kyonyuu Ani-Wota Ryuugakusei Chorosugi www | The Blonde, Busty Anime-Otaku
+      International Student Is Way Too Easy to Get Laid, lol
+    author: misaki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691635.jpg
+    rating: 0.0
+    date: '2026-10-28'
+    code: 691635
+    url: /works/691635/
   - title: Boku no Seishun wa Inaka no Okaa-san Datta Ni | My Sexual Youth Was the Country
       Mother, Part 2
     author: nusmusbim

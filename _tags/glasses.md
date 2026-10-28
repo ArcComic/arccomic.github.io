@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "glasses"
-work_count: 312
+work_count: 313
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -2259,6 +2259,13 @@ works:
     date: '2026-10-18'
     code: 688607
     url: /works/688607/
+  - title: Coin Laundry Edition
+    author: aino
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690340.jpg
+    rating: 0.0
+    date: '2026-10-28'
+    code: 690340
+    url: /works/690340/
   - title: Otaku-kun ni mo Yarasete kureru Yowayowa Chikubi no Kyonyuu Gal Sudou-san
       | Sudou-san the Busty Gyaru with Weak Nipples Who Lets Even an Otaku Do It
     author: shishamon

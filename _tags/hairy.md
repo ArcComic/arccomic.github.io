@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "hairy"
-work_count: 361
+work_count: 362
 works:
   - title: MAGIC SEVEN
     author: asuhiro
@@ -2613,6 +2613,13 @@ works:
     date: '2026-10-20'
     code: 688612
     url: /works/688612/
+  - title: Coin Laundry Edition
+    author: aino
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690340.jpg
+    rating: 0.0
+    date: '2026-10-28'
+    code: 690340
+    url: /works/690340/
   - title: Jirai Sugoroku
     author: niki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690826.jpg

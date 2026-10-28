@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole male"
-work_count: 1069
+work_count: 1070
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -7890,6 +7890,13 @@ works:
     date: '2026-10-28'
     code: 690945
     url: /works/690945/
+  - title: Kyouraku Moumoku Weekend
+    author: mudoochi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691452.jpg
+    rating: 0.0
+    date: '2026-10-28'
+    code: 691452
+    url: /works/691452/
   - title: The Fox God Who Knows Not of Love | Kitsune Kami-sama wa Ai o Shiranai
     author: shinozuka
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691624.jpg

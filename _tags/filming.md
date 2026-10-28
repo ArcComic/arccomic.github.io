@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "filming"
-work_count: 120
+work_count: 121
 works:
   - title: Ikanishite Haha wa Onna o Kaihou Shitaka Ch. 1-14
     author: mitarai-yuuki
@@ -889,4 +889,11 @@ works:
     date: '2026-10-18'
     code: 688585
     url: /works/688585/
+  - title: Kyouraku Moumoku Weekend
+    author: mudoochi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691452.jpg
+    rating: 0.0
+    date: '2026-10-28'
+    code: 691452
+    url: /works/691452/
 ---
