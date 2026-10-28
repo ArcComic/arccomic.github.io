@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "paizuri"
-work_count: 267
+work_count: 266
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -105,7 +105,7 @@ works:
   - title: Tsukiyo ni Negai o Komete
     author: arima-kouichi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/360647.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-26'
     code: 360647
     url: /works/360647/
@@ -1470,7 +1470,7 @@ works:
   - title: Boku no Mizugi ga Kakusarete | My Swimsuit Got Stolen
     author: niki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/675415.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-26'
     code: 675415
     url: /works/675415/
@@ -1972,18 +1972,11 @@ works:
     date: '2026-10-18'
     code: 688598
     url: /works/688598/
-  - title: The Big-Breasted Lady at the Delivery Destination Is Way Too Lewd
-    author: nishibi-mitsuba
-    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690359.jpg
-    rating: 0.0
-    date: '2026-10-26'
-    code: 690359
-    url: /works/690359/
   - title: Motokano to Dousoukai de Saikai, Shuuden Nogashite Aibeya ni. ~Otagai Kekkon
       Majika de Uwaki Sex Shite Shimaimashita~
     author: baketsu-purin
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690823.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-10-26'
     code: 690823
     url: /works/690823/
@@ -1992,14 +1985,14 @@ works:
       Masochist'
     author: denchi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690849.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-10-26'
     code: 690849
     url: /works/690849/
   - title: My Goddess
     author: batsu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690874.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-10-26'
     code: 690874
     url: /works/690874/

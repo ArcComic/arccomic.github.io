@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "fingering"
-work_count: 217
+work_count: 219
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -112,6 +112,13 @@ works:
     date: '2026-03-03'
     code: 447900
     url: /works/447900/
+  - title: Mild Hentai NANA
+    author: zensoku-punks
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/459087.jpg
+    rating: 0.0
+    date: '2026-10-28'
+    code: 459087
+    url: /works/459087/
   - title: Yarareru kanojo - Hitozumajoushi ManaNTR -
     author: tokyo-gunjo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/465602.jpg
@@ -765,7 +772,7 @@ works:
   - title: i no Shissou | The Disappearance of "i"
     author: kawauchi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/633983.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-26'
     code: 633983
     url: /works/633983/
@@ -1352,7 +1359,7 @@ works:
       | Lover Practice ~My Pure Girlfriend Is Stolen by My Big Brother~
     author: hinasaki-yo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682286.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-10-26'
     code: 682286
     url: /works/682286/
@@ -1588,14 +1595,14 @@ works:
       Majika de Uwaki Sex Shite Shimaimashita~
     author: baketsu-purin
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690823.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-10-26'
     code: 690823
     url: /works/690823/
   - title: Jirai Sugoroku
     author: niki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690826.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-10-26'
     code: 690826
     url: /works/690826/
@@ -1604,14 +1611,14 @@ works:
       Masochist'
     author: denchi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690849.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-10-26'
     code: 690849
     url: /works/690849/
   - title: Jimi-tsuma-san to Gyaru-tsuma-san, Hitozuma Tetsudou Nobori-iki
     author: nezumi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690851.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-10-26'
     code: 690851
     url: /works/690851/
@@ -1619,8 +1626,16 @@ works:
       Girlfriend Gets Corrupted by a Sexual-harassment Geezer
     author: kemusi-no-bansan-kai
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690875.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-10-26'
     code: 690875
     url: /works/690875/
+  - title: Boku no Seishun wa Inaka no Okaa-san Datta Ni | My Sexual Youth Was the Country
+      Mother, Part 2
+    author: nusmusbim
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691636.jpg
+    rating: 0.0
+    date: '2026-10-28'
+    code: 691636
+    url: /works/691636/
 ---

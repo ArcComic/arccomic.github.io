@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "tall girl"
-work_count: 49
+work_count: 50
 works:
   - title: Oppai na Natsuyasumi 2 | The Summer Break of Boobs 2
     author: higashino-mikan
@@ -231,7 +231,7 @@ works:
   - title: Boku no Mizugi ga Kakusarete | My Swimsuit Got Stolen
     author: niki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/675415.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-26'
     code: 675415
     url: /works/675415/
@@ -367,4 +367,12 @@ works:
     date: '2026-10-18'
     code: 688582
     url: /works/688582/
+  - title: Boku no Seishun wa Inaka no Okaa-san Datta Ni | My Sexual Youth Was the Country
+      Mother, Part 2
+    author: nusmusbim
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691636.jpg
+    rating: 0.0
+    date: '2026-10-28'
+    code: 691636
+    url: /works/691636/
 ---

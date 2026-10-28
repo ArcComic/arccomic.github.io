@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "mosaic censorship"
-work_count: 345
+work_count: 346
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -355,6 +355,13 @@ works:
     date: '2026-02-26'
     code: 446969
     url: /works/446969/
+  - title: Mild Hentai NANA
+    author: zensoku-punks
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/459087.jpg
+    rating: 0.0
+    date: '2026-10-28'
+    code: 459087
+    url: /works/459087/
   - title: What would happen if you said "Let's have sex." while your teacher was scolding
       you?
     author: chotto-b-sen
@@ -1097,14 +1104,14 @@ works:
   - title: Boku o Suki to Itte Kureta Ane wa Hoka no Otoko ni Dakareru
     author: furaimai
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/618564.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-26'
     code: 618564
     url: /works/618564/
   - title: Natsu no Hi no Omoide
     author: furaimai
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/618565.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-26'
     code: 618565
     url: /works/618565/
@@ -2517,7 +2524,7 @@ works:
   - title: The Big-Breasted Lady at the Delivery Destination Is Way Too Lewd
     author: nishibi-mitsuba
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690359.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-10-26'
     code: 690359
     url: /works/690359/
@@ -2525,7 +2532,7 @@ works:
       | Sudou-san the Busty Gyaru with Weak Nipples Who Lets Even an Otaku Do It
     author: shishamon
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690570.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-10-26'
     code: 690570
     url: /works/690570/
@@ -2534,7 +2541,7 @@ works:
       Masochist'
     author: denchi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690849.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-10-26'
     code: 690849
     url: /works/690849/

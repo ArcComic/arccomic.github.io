@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "incest"
-work_count: 337
+work_count: 338
 works:
   - title: Imitation Family + Bigibo Hen
     author: tohzai
@@ -945,7 +945,7 @@ works:
   - title: Boku o Suki to Itte Kureta Ane wa Hoka no Otoko ni Dakareru
     author: furaimai
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/618564.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-26'
     code: 618564
     url: /works/618564/
@@ -2460,6 +2460,14 @@ works:
     date: '2026-10-20'
     code: 688613
     url: /works/688613/
+  - title: Boku no Seishun wa Inaka no Okaa-san Datta Ni | My Sexual Youth Was the Country
+      Mother, Part 2
+    author: nusmusbim
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691636.jpg
+    rating: 0.0
+    date: '2026-10-28'
+    code: 691636
+    url: /works/691636/
   - title: Onee-chan no SM Kouza | Onee-chan's S&M Lecture
     author: shinooka-homare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/88750.jpg

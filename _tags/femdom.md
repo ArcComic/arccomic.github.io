@@ -148,7 +148,7 @@ works:
   - title: Utahime-sama wa Ijimekko
     author: kh
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/363690.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-10-26'
     code: 363690
     url: /works/363690/
@@ -1092,7 +1092,7 @@ works:
   - title: Boku no Mizugi ga Kakusarete | My Swimsuit Got Stolen
     author: niki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/675415.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-26'
     code: 675415
     url: /works/675415/
@@ -1490,7 +1490,7 @@ works:
       of the female students at my new school.
     author: sakurayu-hal
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690244.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-10-26'
     code: 690244
     url: /works/690244/
@@ -1499,14 +1499,14 @@ works:
       Masochist'
     author: denchi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690849.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-10-26'
     code: 690849
     url: /works/690849/
   - title: My Goddess
     author: batsu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690874.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-10-26'
     code: 690874
     url: /works/690874/

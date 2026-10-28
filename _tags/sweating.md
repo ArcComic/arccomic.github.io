@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sweating"
-work_count: 203
+work_count: 204
 works:
   - title: Kaisha de Iroiro | Gettin' Busy at the Office
     author: hara-shigeyuki
@@ -145,7 +145,7 @@ works:
   - title: Sunao ni Narenai Bokura | We Can't Be Honest
     author: arima-kouichi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/338006.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-10-26'
     code: 338006
     url: /works/338006/
@@ -593,14 +593,14 @@ works:
   - title: Boku o Suki to Itte Kureta Ane wa Hoka no Otoko ni Dakareru
     author: furaimai
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/618564.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-26'
     code: 618564
     url: /works/618564/
   - title: Natsu no Hi no Omoide
     author: furaimai
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/618565.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-26'
     code: 618565
     url: /works/618565/
@@ -663,7 +663,7 @@ works:
   - title: i no Shissou | The Disappearance of "i"
     author: kawauchi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/633983.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-26'
     code: 633983
     url: /works/633983/
@@ -1500,14 +1500,21 @@ works:
       of the female students at my new school.
     author: sakurayu-hal
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690244.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-10-26'
     code: 690244
     url: /works/690244/
+  - title: The Big-Breasted Lady at the Delivery Destination Is Way Too Lewd
+    author: nishibi-mitsuba
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690359.jpg
+    rating: 5.0
+    date: '2026-10-26'
+    code: 690359
+    url: /works/690359/
   - title: Seidaku Awasenomu Innocent Prey Ch.6-8
     author: carn
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690825.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-26'
     code: 690825
     url: /works/690825/
@@ -1515,7 +1522,7 @@ works:
       Girlfriend Gets Corrupted by a Sexual-harassment Geezer
     author: kemusi-no-bansan-kai
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690875.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-10-26'
     code: 690875
     url: /works/690875/

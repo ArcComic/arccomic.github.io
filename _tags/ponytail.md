@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "ponytail"
-work_count: 195
+work_count: 196
 works:
   - title: Ami Mami Mind 5
     author: tsurui
@@ -55,14 +55,14 @@ works:
   - title: Haruranman - Spring Bloom
     author: arima-kouichi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/360465.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-10-26'
     code: 360465
     url: /works/360465/
   - title: Tsukiyo ni Negai o Komete
     author: arima-kouichi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/360647.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-26'
     code: 360647
     url: /works/360647/
@@ -421,7 +421,7 @@ works:
   - title: Natsu no Hi no Omoide
     author: furaimai
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/618565.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-26'
     code: 618565
     url: /works/618565/
@@ -1443,4 +1443,12 @@ works:
     date: '2026-10-18'
     code: 688607
     url: /works/688607/
+  - title: Boku no Seishun wa Inaka no Okaa-san Datta Ni | My Sexual Youth Was the Country
+      Mother, Part 2
+    author: nusmusbim
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691636.jpg
+    rating: 0.0
+    date: '2026-10-28'
+    code: 691636
+    url: /works/691636/
 ---

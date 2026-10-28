@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "scat"
-work_count: 9
+work_count: 10
 works:
   - title: Ryoujoku Gakuen
     author: motchie
@@ -10,6 +10,13 @@ works:
     date: '2026-04-17'
     code: 332375
     url: /works/332375/
+  - title: Mild Hentai NANA
+    author: zensoku-punks
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/459087.jpg
+    rating: 0.0
+    date: '2026-10-28'
+    code: 459087
+    url: /works/459087/
   - title: Rena
     author: shinjima-saki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/537476.jpg

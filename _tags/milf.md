@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "milf"
-work_count: 508
+work_count: 509
 works:
   - title: Life with Married Women Just Like a Manga 2 - Ch. 1-5
     author: hidemaru
@@ -3713,10 +3713,18 @@ works:
   - title: Jimi-tsuma-san to Gyaru-tsuma-san, Hitozuma Tetsudou Nobori-iki
     author: nezumi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690851.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-10-26'
     code: 690851
     url: /works/690851/
+  - title: Boku no Seishun wa Inaka no Okaa-san Datta Ni | My Sexual Youth Was the Country
+      Mother, Part 2
+    author: nusmusbim
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691636.jpg
+    rating: 0.0
+    date: '2026-10-28'
+    code: 691636
+    url: /works/691636/
   - title: Jokyoushi - Hot For Teachers | Female Teachers
     author: drill-murata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/81375.jpg

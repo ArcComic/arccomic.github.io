@@ -127,7 +127,7 @@ works:
   - title: Sunao ni Narenai Bokura | We Can't Be Honest
     author: arima-kouichi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/338006.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-10-26'
     code: 338006
     url: /works/338006/
@@ -2259,7 +2259,7 @@ works:
   - title: Boku no Mizugi ga Kakusarete | My Swimsuit Got Stolen
     author: niki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/675415.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-26'
     code: 675415
     url: /works/675415/
@@ -2525,7 +2525,7 @@ works:
       | Lover Practice ~My Pure Girlfriend Is Stolen by My Big Brother~
     author: hinasaki-yo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682286.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-10-26'
     code: 682286
     url: /works/682286/
@@ -2914,7 +2914,7 @@ works:
       | Sudou-san the Busty Gyaru with Weak Nipples Who Lets Even an Otaku Do It
     author: shishamon
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690570.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-10-26'
     code: 690570
     url: /works/690570/
@@ -2922,14 +2922,14 @@ works:
       Majika de Uwaki Sex Shite Shimaimashita~
     author: baketsu-purin
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690823.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-10-26'
     code: 690823
     url: /works/690823/
   - title: Jimi-tsuma-san to Gyaru-tsuma-san, Hitozuma Tetsudou Nobori-iki
     author: nezumi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690851.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-10-26'
     code: 690851
     url: /works/690851/

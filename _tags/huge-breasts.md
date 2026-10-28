@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "huge breasts"
-work_count: 125
+work_count: 126
 works:
   - title: Mama Naranai Onna-tachi Ch. 1-2
     author: otochichi
@@ -555,7 +555,7 @@ works:
   - title: Boku no Mizugi ga Kakusarete | My Swimsuit Got Stolen
     author: niki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/675415.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-26'
     code: 675415
     url: /works/675415/
@@ -916,7 +916,7 @@ works:
   - title: The Big-Breasted Lady at the Delivery Destination Is Way Too Lewd
     author: nishibi-mitsuba
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690359.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-10-26'
     code: 690359
     url: /works/690359/
@@ -924,22 +924,30 @@ works:
       | Sudou-san the Busty Gyaru with Weak Nipples Who Lets Even an Otaku Do It
     author: shishamon
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690570.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-10-26'
     code: 690570
     url: /works/690570/
   - title: Jimi-tsuma-san to Gyaru-tsuma-san, Hitozuma Tetsudou Nobori-iki
     author: nezumi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690851.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-10-26'
     code: 690851
     url: /works/690851/
   - title: My Goddess
     author: batsu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690874.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-10-26'
     code: 690874
     url: /works/690874/
+  - title: Boku no Seishun wa Inaka no Okaa-san Datta Ni | My Sexual Youth Was the Country
+      Mother, Part 2
+    author: nusmusbim
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691636.jpg
+    rating: 0.0
+    date: '2026-10-28'
+    code: 691636
+    url: /works/691636/
 ---

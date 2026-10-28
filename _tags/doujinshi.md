@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "doujinshi"
-work_count: 1569
+work_count: 1571
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -647,7 +647,7 @@ works:
   - title: Utahime-sama wa Ijimekko
     author: kh
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/363690.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-10-26'
     code: 363690
     url: /works/363690/
@@ -1352,6 +1352,13 @@ works:
     date: '2026-04-13'
     code: 458903
     url: /works/458903/
+  - title: Mild Hentai NANA
+    author: zensoku-punks
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/459087.jpg
+    rating: 0.0
+    date: '2026-10-28'
+    code: 459087
+    url: /works/459087/
   - title: What would happen if you said "Let's have sex." while your teacher was scolding
       you?
     author: chotto-b-sen
@@ -4143,14 +4150,14 @@ works:
   - title: Boku o Suki to Itte Kureta Ane wa Hoka no Otoko ni Dakareru
     author: furaimai
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/618564.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-26'
     code: 618564
     url: /works/618564/
   - title: Natsu no Hi no Omoide
     author: furaimai
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/618565.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-26'
     code: 618565
     url: /works/618565/
@@ -4619,7 +4626,7 @@ works:
   - title: i no Shissou | The Disappearance of "i"
     author: kawauchi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/633983.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-26'
     code: 633983
     url: /works/633983/
@@ -8493,7 +8500,7 @@ works:
   - title: Boku no Mizugi ga Kakusarete | My Swimsuit Got Stolen
     author: niki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/675415.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-26'
     code: 675415
     url: /works/675415/
@@ -9806,7 +9813,7 @@ works:
       | Lover Practice ~My Pure Girlfriend Is Stolen by My Big Brother~
     author: hinasaki-yo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682286.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-10-26'
     code: 682286
     url: /works/682286/
@@ -11511,14 +11518,14 @@ works:
       of the female students at my new school.
     author: sakurayu-hal
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690244.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-10-26'
     code: 690244
     url: /works/690244/
   - title: The Big-Breasted Lady at the Delivery Destination Is Way Too Lewd
     author: nishibi-mitsuba
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690359.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-10-26'
     code: 690359
     url: /works/690359/
@@ -11526,7 +11533,7 @@ works:
       | Sudou-san the Busty Gyaru with Weak Nipples Who Lets Even an Otaku Do It
     author: shishamon
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690570.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-10-26'
     code: 690570
     url: /works/690570/
@@ -11534,28 +11541,28 @@ works:
       Majika de Uwaki Sex Shite Shimaimashita~
     author: baketsu-purin
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690823.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-10-26'
     code: 690823
     url: /works/690823/
   - title: Ano Band no Ecchi na Himitsu | That Band's Lewd Secret
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690824.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-26'
     code: 690824
     url: /works/690824/
   - title: Jirai Sugoroku
     author: niki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690826.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-10-26'
     code: 690826
     url: /works/690826/
   - title: I'm held in my taciturn secretary's arms every night.
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690828.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-10-26'
     code: 690828
     url: /works/690828/
@@ -11564,21 +11571,21 @@ works:
       Masochist'
     author: denchi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690849.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-10-26'
     code: 690849
     url: /works/690849/
   - title: Jimi-tsuma-san to Gyaru-tsuma-san, Hitozuma Tetsudou Nobori-iki
     author: nezumi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690851.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-10-26'
     code: 690851
     url: /works/690851/
   - title: My Goddess
     author: batsu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690874.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-10-26'
     code: 690874
     url: /works/690874/
@@ -11586,10 +11593,18 @@ works:
       Girlfriend Gets Corrupted by a Sexual-harassment Geezer
     author: kemusi-no-bansan-kai
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690875.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-10-26'
     code: 690875
     url: /works/690875/
+  - title: Boku no Seishun wa Inaka no Okaa-san Datta Ni | My Sexual Youth Was the Country
+      Mother, Part 2
+    author: nusmusbim
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691636.jpg
+    rating: 0.0
+    date: '2026-10-28'
+    code: 691636
+    url: /works/691636/
   - title: Ranko-ppoi no! | Ranko-Ish!
     author: napata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/87393.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "kissing"
-work_count: 441
+work_count: 440
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -93,7 +93,7 @@ works:
   - title: Haruranman - Spring Bloom
     author: arima-kouichi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/360465.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-10-26'
     code: 360465
     url: /works/360465/
@@ -2750,7 +2750,7 @@ works:
       | Lover Practice ~My Pure Girlfriend Is Stolen by My Big Brother~
     author: hinasaki-yo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682286.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-10-26'
     code: 682286
     url: /works/682286/
@@ -3257,18 +3257,11 @@ works:
     date: '2026-10-18'
     code: 688607
     url: /works/688607/
-  - title: The Big-Breasted Lady at the Delivery Destination Is Way Too Lewd
-    author: nishibi-mitsuba
-    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690359.jpg
-    rating: 0.0
-    date: '2026-10-26'
-    code: 690359
-    url: /works/690359/
   - title: Otaku-kun ni mo Yarasete kureru Yowayowa Chikubi no Kyonyuu Gal Sudou-san
       | Sudou-san the Busty Gyaru with Weak Nipples Who Lets Even an Otaku Do It
     author: shishamon
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690570.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-10-26'
     code: 690570
     url: /works/690570/
@@ -3276,14 +3269,14 @@ works:
       Majika de Uwaki Sex Shite Shimaimashita~
     author: baketsu-purin
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690823.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-10-26'
     code: 690823
     url: /works/690823/
   - title: Ano Band no Ecchi na Himitsu | That Band's Lewd Secret
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690824.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-26'
     code: 690824
     url: /works/690824/
@@ -3292,21 +3285,21 @@ works:
       Masochist'
     author: denchi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690849.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-10-26'
     code: 690849
     url: /works/690849/
   - title: Jimi-tsuma-san to Gyaru-tsuma-san, Hitozuma Tetsudou Nobori-iki
     author: nezumi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690851.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-10-26'
     code: 690851
     url: /works/690851/
   - title: My Goddess
     author: batsu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690874.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-10-26'
     code: 690874
     url: /works/690874/
@@ -3314,7 +3307,7 @@ works:
       Girlfriend Gets Corrupted by a Sexual-harassment Geezer
     author: kemusi-no-bansan-kai
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690875.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-10-26'
     code: 690875
     url: /works/690875/

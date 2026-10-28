@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "multi-work series"
-work_count: 456
+work_count: 457
 works:
   - title: Konna ni mo Itooshii Zero
     author: nohito
@@ -1298,7 +1298,7 @@ works:
   - title: Natsu no Hi no Omoide
     author: furaimai
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/618565.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-26'
     code: 618565
     url: /works/618565/
@@ -3410,8 +3410,16 @@ works:
       of the female students at my new school.
     author: sakurayu-hal
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690244.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-10-26'
     code: 690244
     url: /works/690244/
+  - title: Boku no Seishun wa Inaka no Okaa-san Datta Ni | My Sexual Youth Was the Country
+      Mother, Part 2
+    author: nusmusbim
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691636.jpg
+    rating: 0.0
+    date: '2026-10-28'
+    code: 691636
+    url: /works/691636/
 ---

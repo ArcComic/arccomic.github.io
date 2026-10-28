@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "pantyhose"
-work_count: 89
+work_count: 90
 works:
   - title: MAGIC SEVEN
     author: asuhiro
@@ -179,6 +179,13 @@ works:
     date: '2026-04-19'
     code: 453749
     url: /works/453749/
+  - title: Mild Hentai NANA
+    author: zensoku-punks
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/459087.jpg
+    rating: 0.0
+    date: '2026-10-28'
+    code: 459087
+    url: /works/459087/
   - title: Datenshi no Yuuwaku -Office Angel Project- 1
     author: hiraoka-ryuichi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/491622.jpg
@@ -626,7 +633,7 @@ works:
       Masochist'
     author: denchi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690849.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-10-26'
     code: 690849
     url: /works/690849/

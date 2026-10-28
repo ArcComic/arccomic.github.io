@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "widow"
-work_count: 26
+work_count: 27
 works:
   - title: Birthday
     author: hashiba-yachi
@@ -188,6 +188,14 @@ works:
     date: '2026-10-08'
     code: 685149
     url: /works/685149/
+  - title: Boku no Seishun wa Inaka no Okaa-san Datta Ni | My Sexual Youth Was the Country
+      Mother, Part 2
+    author: nusmusbim
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691636.jpg
+    rating: 0.0
+    date: '2026-10-28'
+    code: 691636
+    url: /works/691636/
   - title: Hottokenaino
     author: hara-shigeyuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/77864.jpg

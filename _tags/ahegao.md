@@ -2716,32 +2716,25 @@ works:
     date: '2026-10-20'
     code: 688608
     url: /works/688608/
-  - title: The Big-Breasted Lady at the Delivery Destination Is Way Too Lewd
-    author: nishibi-mitsuba
-    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690359.jpg
-    rating: 0.0
-    date: '2026-10-26'
-    code: 690359
-    url: /works/690359/
   - title: Otaku-kun ni mo Yarasete kureru Yowayowa Chikubi no Kyonyuu Gal Sudou-san
       | Sudou-san the Busty Gyaru with Weak Nipples Who Lets Even an Otaku Do It
     author: shishamon
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690570.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-10-26'
     code: 690570
     url: /works/690570/
   - title: Ano Band no Ecchi na Himitsu | That Band's Lewd Secret
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690824.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-26'
     code: 690824
     url: /works/690824/
   - title: Jirai Sugoroku
     author: niki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690826.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-10-26'
     code: 690826
     url: /works/690826/
@@ -2750,21 +2743,21 @@ works:
       Masochist'
     author: denchi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690849.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-10-26'
     code: 690849
     url: /works/690849/
   - title: Jimi-tsuma-san to Gyaru-tsuma-san, Hitozuma Tetsudou Nobori-iki
     author: nezumi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690851.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-10-26'
     code: 690851
     url: /works/690851/
   - title: My Goddess
     author: batsu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690874.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-10-26'
     code: 690874
     url: /works/690874/
@@ -2772,10 +2765,18 @@ works:
       Girlfriend Gets Corrupted by a Sexual-harassment Geezer
     author: kemusi-no-bansan-kai
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690875.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-10-26'
     code: 690875
     url: /works/690875/
+  - title: Boku no Seishun wa Inaka no Okaa-san Datta Ni | My Sexual Youth Was the Country
+      Mother, Part 2
+    author: nusmusbim
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691636.jpg
+    rating: 0.0
+    date: '2026-10-28'
+    code: 691636
+    url: /works/691636/
   - title: Inin Keiyaku | Lewd Pregnancy Contract
     author: yoshiura-kazuya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/83595.jpg

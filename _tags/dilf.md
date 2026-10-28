@@ -197,7 +197,7 @@ works:
   - title: Tsukiyo ni Negai o Komete
     author: arima-kouichi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/360647.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-26'
     code: 360647
     url: /works/360647/
@@ -1603,7 +1603,7 @@ works:
   - title: Seidaku Awasenomu Innocent Prey Ch.6-8
     author: carn
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690825.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-26'
     code: 690825
     url: /works/690825/
@@ -1611,7 +1611,7 @@ works:
       Girlfriend Gets Corrupted by a Sexual-harassment Geezer
     author: kemusi-no-bansan-kai
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690875.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-10-26'
     code: 690875
     url: /works/690875/

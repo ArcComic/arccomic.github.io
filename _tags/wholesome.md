@@ -56,7 +56,7 @@ works:
   - title: Sunao ni Narenai Bokura | We Can't Be Honest
     author: arima-kouichi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/338006.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-10-26'
     code: 338006
     url: /works/338006/
@@ -108,7 +108,7 @@ works:
   - title: Haruranman - Spring Bloom
     author: arima-kouichi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/360465.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-10-26'
     code: 360465
     url: /works/360465/
@@ -816,7 +816,7 @@ works:
   - title: i no Shissou | The Disappearance of "i"
     author: kawauchi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/633983.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-26'
     code: 633983
     url: /works/633983/
@@ -1681,7 +1681,7 @@ works:
       | Sudou-san the Busty Gyaru with Weak Nipples Who Lets Even an Otaku Do It
     author: shishamon
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690570.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-10-26'
     code: 690570
     url: /works/690570/
