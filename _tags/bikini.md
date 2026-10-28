@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bikini"
-work_count: 96
+work_count: 97
 works:
   - title: Kizashi
     author: yoshiura-kazuya
@@ -732,4 +732,11 @@ works:
     date: '2026-10-18'
     code: 688582
     url: /works/688582/
+  - title: Kanojo no Mama wa Mamakatsu no Mama datta.
+    author: taniguchi-daisuke
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690945.jpg
+    rating: 0.0
+    date: '2026-10-28'
+    code: 690945
+    url: /works/690945/
 ---

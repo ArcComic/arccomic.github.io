@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "tail"
-work_count: 25
+work_count: 26
 works:
   - title: CHOCO x LOVE
     author: highlow
@@ -185,4 +185,11 @@ works:
     date: '2026-10-26'
     code: 690851
     url: /works/690851/
+  - title: The Fox God Who Knows Not of Love | Kitsune Kami-sama wa Ai o Shiranai
+    author: shinozuka
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691624.jpg
+    rating: 0.0
+    date: '2026-10-28'
+    code: 691624
+    url: /works/691624/
 ---

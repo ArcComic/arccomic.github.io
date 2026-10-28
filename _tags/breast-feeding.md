@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "breast feeding"
-work_count: 107
+work_count: 109
 works:
   - title: Oppai na Natsuyasumi 2 | The Summer Break of Boobs 2
     author: higashino-mikan
@@ -815,4 +815,18 @@ works:
     date: '2026-10-26'
     code: 690874
     url: /works/690874/
+  - title: Kanojo no Mama wa Mamakatsu no Mama datta.
+    author: taniguchi-daisuke
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690945.jpg
+    rating: 0.0
+    date: '2026-10-28'
+    code: 690945
+    url: /works/690945/
+  - title: The Fox God Who Knows Not of Love | Kitsune Kami-sama wa Ai o Shiranai
+    author: shinozuka
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691624.jpg
+    rating: 0.0
+    date: '2026-10-28'
+    code: 691624
+    url: /works/691624/
 ---

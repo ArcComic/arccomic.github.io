@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "translated"
-work_count: 1847
+work_count: 1850
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -13562,6 +13562,20 @@ works:
     date: '2026-10-26'
     code: 690875
     url: /works/690875/
+  - title: Kanojo no Mama wa Mamakatsu no Mama datta.
+    author: taniguchi-daisuke
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690945.jpg
+    rating: 0.0
+    date: '2026-10-28'
+    code: 690945
+    url: /works/690945/
+  - title: The Fox God Who Knows Not of Love | Kitsune Kami-sama wa Ai o Shiranai
+    author: shinozuka
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691624.jpg
+    rating: 0.0
+    date: '2026-10-28'
+    code: 691624
+    url: /works/691624/
   - title: Boku no Seishun wa Inaka no Okaa-san Datta Ni | My Sexual Youth Was the Country
       Mother, Part 2
     author: nusmusbim
@@ -13570,6 +13584,13 @@ works:
     date: '2026-10-28'
     code: 691636
     url: /works/691636/
+  - title: Asuna OVERLOAD OVERCOME
+    author: akashiro-kiiro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691660.jpg
+    rating: 0.0
+    date: '2026-10-28'
+    code: 691660
+    url: /works/691660/
   - title: Hottokenaino
     author: hara-shigeyuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/77864.jpg

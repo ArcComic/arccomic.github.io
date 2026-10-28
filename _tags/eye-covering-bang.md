@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "eye-covering bang"
-work_count: 90
+work_count: 91
 works:
   - title: Kanojo no Amai Jiraishuu
     author: jirou
@@ -682,4 +682,11 @@ works:
     date: '2026-10-26'
     code: 690570
     url: /works/690570/
+  - title: Asuna OVERLOAD OVERCOME
+    author: akashiro-kiiro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691660.jpg
+    rating: 0.0
+    date: '2026-10-28'
+    code: 691660
+    url: /works/691660/
 ---

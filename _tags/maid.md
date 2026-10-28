@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "maid"
-work_count: 49
+work_count: 50
 works:
   - title: Maid no Oshigoto. II | Maid's Work II
     author: alexi-laiho
@@ -361,6 +361,13 @@ works:
     date: '2026-10-18'
     code: 688600
     url: /works/688600/
+  - title: Asuna OVERLOAD OVERCOME
+    author: akashiro-kiiro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691660.jpg
+    rating: 0.0
+    date: '2026-10-28'
+    code: 691660
+    url: /works/691660/
   - title: Hottokenaino
     author: hara-shigeyuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/77864.jpg

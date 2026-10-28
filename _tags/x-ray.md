@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "x-ray"
-work_count: 391
+work_count: 393
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -2933,4 +2933,18 @@ works:
     date: '2026-10-26'
     code: 690851
     url: /works/690851/
+  - title: Kanojo no Mama wa Mamakatsu no Mama datta.
+    author: taniguchi-daisuke
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690945.jpg
+    rating: 0.0
+    date: '2026-10-28'
+    code: 690945
+    url: /works/690945/
+  - title: Asuna OVERLOAD OVERCOME
+    author: akashiro-kiiro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691660.jpg
+    rating: 0.0
+    date: '2026-10-28'
+    code: 691660
+    url: /works/691660/
 ---

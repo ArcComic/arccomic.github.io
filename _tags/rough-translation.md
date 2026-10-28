@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "rough translation"
-work_count: 744
+work_count: 745
 works:
   - title: Boku no Shiranai Kimi no Kao
     author: utsutsu-minoru
@@ -5439,6 +5439,13 @@ works:
     date: '2026-10-26'
     code: 690875
     url: /works/690875/
+  - title: Kanojo no Mama wa Mamakatsu no Mama datta.
+    author: taniguchi-daisuke
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690945.jpg
+    rating: 0.0
+    date: '2026-10-28'
+    code: 690945
+    url: /works/690945/
   - title: Boku no Seishun wa Inaka no Okaa-san Datta Ni | My Sexual Youth Was the Country
       Mother, Part 2
     author: nusmusbim

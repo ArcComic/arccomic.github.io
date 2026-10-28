@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "mother"
-work_count: 191
+work_count: 192
 works:
   - title: Imitation Family + Bigibo Hen
     author: tohzai
@@ -1397,4 +1397,11 @@ works:
     date: '2026-10-20'
     code: 688613
     url: /works/688613/
+  - title: Kanojo no Mama wa Mamakatsu no Mama datta.
+    author: taniguchi-daisuke
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690945.jpg
+    rating: 0.0
+    date: '2026-10-28'
+    code: 690945
+    url: /works/690945/
 ---

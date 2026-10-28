@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "muscle"
-work_count: 136
+work_count: 137
 works:
   - title: Kousa suru Osu to Mesu | Male and Female Crossing
     author: ootsuka-kotora
@@ -1028,4 +1028,11 @@ works:
     date: '2026-10-26'
     code: 690849
     url: /works/690849/
+  - title: The Fox God Who Knows Not of Love | Kitsune Kami-sama wa Ai o Shiranai
+    author: shinozuka
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691624.jpg
+    rating: 0.0
+    date: '2026-10-28'
+    code: 691624
+    url: /works/691624/
 ---
