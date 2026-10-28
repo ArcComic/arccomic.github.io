@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "masked face"
-work_count: 16
+work_count: 17
 works:
   - title: Marebito Kitari Te
     author: yoshika
@@ -119,4 +119,11 @@ works:
     date: '2026-10-15'
     code: 687698
     url: /works/687698/
+  - title: FUCK MATCH ~Haiboku! Takane no Manko~
+    author: nakajima-uota
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691651.jpg
+    rating: 0.0
+    date: '2026-10-28'
+    code: 691651
+    url: /works/691651/
 ---

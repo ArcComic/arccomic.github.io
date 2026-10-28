@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "gloves"
-work_count: 41
+work_count: 42
 works:
   - title: Yuri no o saifu ni shite agemasu ne, Senpai | I'll turn you into Yuri's wallet,
       Senpai
@@ -298,6 +298,13 @@ works:
     date: '2026-10-18'
     code: 688570
     url: /works/688570/
+  - title: FUCK MATCH ~Haiboku! Takane no Manko~
+    author: nakajima-uota
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691651.jpg
+    rating: 0.0
+    date: '2026-10-28'
+    code: 691651
+    url: /works/691651/
   - title: Asuna OVERLOAD OVERCOME
     author: akashiro-kiiro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691660.jpg

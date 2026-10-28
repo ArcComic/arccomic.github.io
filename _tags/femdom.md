@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "femdom"
-work_count: 207
+work_count: 208
 works:
   - title: Life with Married Women Just Like a Manga 2 - Ch. 1-5
     author: hidemaru
@@ -1510,6 +1510,13 @@ works:
     date: '2026-10-26'
     code: 690874
     url: /works/690874/
+  - title: Sperm-Squeezing Clinic Staffed with Total Cumsluts!
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691661.jpg
+    rating: 0.0
+    date: '2026-10-28'
+    code: 691661
+    url: /works/691661/
   - title: Jokyoushi - Hot For Teachers | Female Teachers
     author: drill-murata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/81375.jpg

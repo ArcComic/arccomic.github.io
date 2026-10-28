@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "scanmark"
-work_count: 258
+work_count: 259
 works:
   - title: NTR Anniversary + ) [Syukurin] Mitsuha ~Netorare~ (Kimi no Na wa.) [English]
       [Colorized] by Mikaku
@@ -114,6 +114,13 @@ works:
     date: '2026-03-04'
     code: 617805
     url: /works/617805/
+  - title: Charao ga Shiteru Tokoro o Mite Shimatta Boku no Kanojo
+    author: furaimai
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/618561.jpg
+    rating: 0.0
+    date: '2026-10-28'
+    code: 618561
+    url: /works/618561/
   - title: Majime na Iinchou no Kanojo ga Sex ni Hamatta Riyuu
     author: furaimai
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/618562.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "huge breasts"
-work_count: 127
+work_count: 129
 works:
   - title: Mama Naranai Onna-tachi Ch. 1-2
     author: otochichi
@@ -957,4 +957,18 @@ works:
     date: '2026-10-28'
     code: 691636
     url: /works/691636/
+  - title: FUCK MATCH ~Haiboku! Takane no Manko~
+    author: nakajima-uota
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691651.jpg
+    rating: 0.0
+    date: '2026-10-28'
+    code: 691651
+    url: /works/691651/
+  - title: Sperm-Squeezing Clinic Staffed with Total Cumsluts!
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691661.jpg
+    rating: 0.0
+    date: '2026-10-28'
+    code: 691661
+    url: /works/691661/
 ---

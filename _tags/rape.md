@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "rape"
-work_count: 264
+work_count: 266
 works:
   - title: Office Love Scramble Ch. 1
     author: tohzai
@@ -822,6 +822,13 @@ works:
     date: '2026-08-29'
     code: 618087
     url: /works/618087/
+  - title: Charao ga Shiteru Tokoro o Mite Shimatta Boku no Kanojo
+    author: furaimai
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/618561.jpg
+    rating: 0.0
+    date: '2026-10-28'
+    code: 618561
+    url: /works/618561/
   - title: Amatori-san to Ningensei Gomikuzu Chuunen ga Suyasuya Ecchi suru Manga |
       A Middle-Aged Piece of Human Trash Fucks Miss Amatori in Her Sleep
     author: saishow
@@ -1930,4 +1937,11 @@ works:
     date: '2026-10-21'
     code: 688473
     url: /works/688473/
+  - title: FUCK MATCH ~Haiboku! Takane no Manko~
+    author: nakajima-uota
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691651.jpg
+    rating: 0.0
+    date: '2026-10-28'
+    code: 691651
+    url: /works/691651/
 ---

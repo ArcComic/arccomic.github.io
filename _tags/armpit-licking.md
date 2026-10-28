@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "armpit licking"
-work_count: 19
+work_count: 20
 works:
   - title: Homestay-chu no Doitsu Musume ga Issho ni Furo ni Haitte Kuru Wake | The
       Reason Why a German Girl Takes a Bath Together With Me on Her Homestay
@@ -144,4 +144,11 @@ works:
     date: '2026-10-26'
     code: 690875
     url: /works/690875/
+  - title: FUCK MATCH ~Haiboku! Takane no Manko~
+    author: nakajima-uota
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691651.jpg
+    rating: 0.0
+    date: '2026-10-28'
+    code: 691651
+    url: /works/691651/
 ---

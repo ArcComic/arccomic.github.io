@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sex toys"
-work_count: 138
+work_count: 139
 works:
   - title: Mama Naranai Onna-tachi Ch. 1-2
     author: otochichi
@@ -1021,4 +1021,11 @@ works:
     date: '2026-10-18'
     code: 688585
     url: /works/688585/
+  - title: FUCK MATCH ~Haiboku! Takane no Manko~
+    author: nakajima-uota
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691651.jpg
+    rating: 0.0
+    date: '2026-10-28'
+    code: 691651
+    url: /works/691651/
 ---

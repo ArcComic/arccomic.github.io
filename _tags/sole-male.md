@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole male"
-work_count: 1068
+work_count: 1069
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -7912,6 +7912,13 @@ works:
     date: '2026-10-28'
     code: 691660
     url: /works/691660/
+  - title: Sperm-Squeezing Clinic Staffed with Total Cumsluts!
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691661.jpg
+    rating: 0.0
+    date: '2026-10-28'
+    code: 691661
+    url: /works/691661/
   - title: Ranko-ppoi no! | Ranko-Ish!
     author: napata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/87393.jpg

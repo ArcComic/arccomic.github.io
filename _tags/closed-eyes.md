@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "closed eyes"
-work_count: 7
+work_count: 8
 works:
   - title: Sokukan Delivery
     author: ice
@@ -32,6 +32,13 @@ works:
     date: '2026-08-25'
     code: 611978
     url: /works/611978/
+  - title: Charao ga Shiteru Tokoro o Mite Shimatta Boku no Kanojo
+    author: furaimai
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/618561.jpg
+    rating: 0.0
+    date: '2026-10-28'
+    code: 618561
+    url: /works/618561/
   - title: Apart no Otonari-san ga Yarasete Kureru Hanashi 4 | My Nextdoor Neighbor
       Let Me Fuck Her 4
     author: ki-51

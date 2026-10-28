@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "hidden sex"
-work_count: 106
+work_count: 107
 works:
   - title: Tsutomesaki no Musume-san o Oishiku Itadaku Hon Minshuku Hen
     author: aya
@@ -396,6 +396,13 @@ works:
     date: '2026-08-29'
     code: 618087
     url: /works/618087/
+  - title: Charao ga Shiteru Tokoro o Mite Shimatta Boku no Kanojo
+    author: furaimai
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/618561.jpg
+    rating: 0.0
+    date: '2026-10-28'
+    code: 618561
+    url: /works/618561/
   - title: Ninkan Gakkou 1 + 2
     author: yasui-riosuke
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/622161.jpg

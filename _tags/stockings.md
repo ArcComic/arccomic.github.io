@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "stockings"
-work_count: 265
+work_count: 266
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -1935,6 +1935,13 @@ works:
     date: '2026-10-28'
     code: 691660
     url: /works/691660/
+  - title: Sperm-Squeezing Clinic Staffed with Total Cumsluts!
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691661.jpg
+    rating: 0.0
+    date: '2026-10-28'
+    code: 691661
+    url: /works/691661/
   - title: Jokyoushi - Hot For Teachers | Female Teachers
     author: drill-murata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/81375.jpg

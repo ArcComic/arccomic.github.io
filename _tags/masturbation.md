@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "masturbation"
-work_count: 168
+work_count: 169
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -485,6 +485,13 @@ works:
     date: '2026-07-16'
     code: 617511
     url: /works/617511/
+  - title: Charao ga Shiteru Tokoro o Mite Shimatta Boku no Kanojo
+    author: furaimai
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/618561.jpg
+    rating: 0.0
+    date: '2026-10-28'
+    code: 618561
+    url: /works/618561/
   - title: Natsu no Hi no Omoide
     author: furaimai
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/618565.jpg
