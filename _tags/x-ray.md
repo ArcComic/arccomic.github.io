@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "x-ray"
-work_count: 398
+work_count: 400
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -2849,6 +2849,14 @@ works:
     date: '2026-10-15'
     code: 687368
     url: /works/687368/
+  - title: Kore wa Massage desu ka? "Ki ni naru Guild no Shokuin" Hen | Is This a Massage?
+      — ‘The Guild Staff Member I’m Curious About’ Arc
+    author: matoi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687515.jpg
+    rating: 0.0
+    date: '2026-10-28'
+    code: 687515
+    url: /works/687515/
   - title: Joukyou Share House ~Kanojo to Osananajimi to Shiranai Yatsu~ | MY GIRLFRIEND,
       MY CHILDHOOD FRIEND, AND A GUY I DON'T KNOW
     author: j-no-kakusei
@@ -2947,6 +2955,14 @@ works:
     date: '2026-10-28'
     code: 690945
     url: /works/690945/
+  - title: Ero Situ Jidou Seisei Appli de Juujitsu no Ero SuppoLife | Enhance your erotic
+      life with an app that auto-generates erotic scenarios.
+    author: mangetsu-wasabi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691387.jpg
+    rating: 0.0
+    date: '2026-10-28'
+    code: 691387
+    url: /works/691387/
   - title: Kinpatsu Kyonyuu Ani-Wota Ryuugakusei Chorosugi www | The Blonde, Busty Anime-Otaku
       International Student Is Way Too Easy to Get Laid, lol
     author: misaki

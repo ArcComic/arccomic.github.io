@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "blowjob"
-work_count: 762
+work_count: 764
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -5383,6 +5383,14 @@ works:
     date: '2026-10-15'
     code: 687368
     url: /works/687368/
+  - title: Kore wa Massage desu ka? "Ki ni naru Guild no Shokuin" Hen | Is This a Massage?
+      — ‘The Guild Staff Member I’m Curious About’ Arc
+    author: matoi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687515.jpg
+    rating: 0.0
+    date: '2026-10-28'
+    code: 687515
+    url: /works/687515/
   - title: My Mom, My Love 10
     author: siberian-hahasky
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687720.jpg
@@ -5593,6 +5601,14 @@ works:
     date: '2026-10-28'
     code: 690945
     url: /works/690945/
+  - title: Ero Situ Jidou Seisei Appli de Juujitsu no Ero SuppoLife | Enhance your erotic
+      life with an app that auto-generates erotic scenarios.
+    author: mangetsu-wasabi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691387.jpg
+    rating: 0.0
+    date: '2026-10-28'
+    code: 691387
+    url: /works/691387/
   - title: inuhoozuki no Otokonoko
     author: hokuro-ryuseigun
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691400.jpg

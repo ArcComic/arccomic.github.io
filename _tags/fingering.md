@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "fingering"
-work_count: 223
+work_count: 224
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -1516,6 +1516,14 @@ works:
     date: '2026-10-13'
     code: 687228
     url: /works/687228/
+  - title: Kore wa Massage desu ka? "Ki ni naru Guild no Shokuin" Hen | Is This a Massage?
+      — ‘The Guild Staff Member I’m Curious About’ Arc
+    author: matoi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687515.jpg
+    rating: 0.0
+    date: '2026-10-28'
+    code: 687515
+    url: /works/687515/
   - title: Riho-chan Kashidashi Surutte Yo
     author: j-no-kakusei
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687556.jpg

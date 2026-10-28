@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "schoolgirl uniform"
-work_count: 394
+work_count: 395
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -2921,6 +2921,14 @@ works:
     date: '2026-10-26'
     code: 690570
     url: /works/690570/
+  - title: Ero Situ Jidou Seisei Appli de Juujitsu no Ero SuppoLife | Enhance your erotic
+      life with an app that auto-generates erotic scenarios.
+    author: mangetsu-wasabi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691387.jpg
+    rating: 0.0
+    date: '2026-10-28'
+    code: 691387
+    url: /works/691387/
   - title: Asuna OVERLOAD OVERCOME
     author: akashiro-kiiro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691660.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "english"
-work_count: 1914
+work_count: 1917
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -13524,6 +13524,14 @@ works:
     date: '2026-10-15'
     code: 687368
     url: /works/687368/
+  - title: Kore wa Massage desu ka? "Ki ni naru Guild no Shokuin" Hen | Is This a Massage?
+      — ‘The Guild Staff Member I’m Curious About’ Arc
+    author: matoi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687515.jpg
+    rating: 0.0
+    date: '2026-10-28'
+    code: 687515
+    url: /works/687515/
   - title: Joukyou Share House ~Kanojo to Osananajimi to Shiranai Yatsu~ | MY GIRLFRIEND,
       MY CHILDHOOD FRIEND, AND A GUY I DON'T KNOW
     author: j-no-kakusei
@@ -13988,6 +13996,14 @@ works:
     date: '2026-10-28'
     code: 690945
     url: /works/690945/
+  - title: Ero Situ Jidou Seisei Appli de Juujitsu no Ero SuppoLife | Enhance your erotic
+      life with an app that auto-generates erotic scenarios.
+    author: mangetsu-wasabi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691387.jpg
+    rating: 0.0
+    date: '2026-10-28'
+    code: 691387
+    url: /works/691387/
   - title: inuhoozuki no Otokonoko
     author: hokuro-ryuseigun
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691400.jpg
@@ -14002,6 +14018,13 @@ works:
     date: '2026-10-28'
     code: 691452
     url: /works/691452/
+  - title: The Ex-Delinquent Mom Won't Be Looked Down On
+    author: kumo-no-ito
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691620.jpg
+    rating: 0.0
+    date: '2026-10-28'
+    code: 691620
+    url: /works/691620/
   - title: The Fox God Who Knows Not of Love | Kitsune Kami-sama wa Ai o Shiranai
     author: shinozuka
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691624.jpg

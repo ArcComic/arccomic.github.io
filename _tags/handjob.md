@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "handjob"
-work_count: 169
+work_count: 170
 works:
   - title: Rin to P
     author: simon
@@ -1249,6 +1249,13 @@ works:
     date: '2026-10-26'
     code: 690875
     url: /works/690875/
+  - title: The Ex-Delinquent Mom Won't Be Looked Down On
+    author: kumo-no-ito
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691620.jpg
+    rating: 0.0
+    date: '2026-10-28'
+    code: 691620
+    url: /works/691620/
   - title: Sperm-Squeezing Clinic Staffed with Total Cumsluts!
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691661.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "rough translation"
-work_count: 749
+work_count: 752
 works:
   - title: Boku no Shiranai Kimi no Kao
     author: utsutsu-minoru
@@ -5193,6 +5193,14 @@ works:
     date: '2026-10-13'
     code: 687243
     url: /works/687243/
+  - title: Kore wa Massage desu ka? "Ki ni naru Guild no Shokuin" Hen | Is This a Massage?
+      — ‘The Guild Staff Member I’m Curious About’ Arc
+    author: matoi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687515.jpg
+    rating: 0.0
+    date: '2026-10-28'
+    code: 687515
+    url: /works/687515/
   - title: Joukyou Share House ~Kanojo to Osananajimi to Shiranai Yatsu~ | MY GIRLFRIEND,
       MY CHILDHOOD FRIEND, AND A GUY I DON'T KNOW
     author: j-no-kakusei
@@ -5460,6 +5468,14 @@ works:
     date: '2026-10-28'
     code: 690945
     url: /works/690945/
+  - title: Ero Situ Jidou Seisei Appli de Juujitsu no Ero SuppoLife | Enhance your erotic
+      life with an app that auto-generates erotic scenarios.
+    author: mangetsu-wasabi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691387.jpg
+    rating: 0.0
+    date: '2026-10-28'
+    code: 691387
+    url: /works/691387/
   - title: Kyouraku Moumoku Weekend
     author: mudoochi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691452.jpg
@@ -5467,6 +5483,13 @@ works:
     date: '2026-10-28'
     code: 691452
     url: /works/691452/
+  - title: The Ex-Delinquent Mom Won't Be Looked Down On
+    author: kumo-no-ito
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691620.jpg
+    rating: 0.0
+    date: '2026-10-28'
+    code: 691620
+    url: /works/691620/
   - title: Kinpatsu Kyonyuu Ani-Wota Ryuugakusei Chorosugi www | The Blonde, Busty Anime-Otaku
       International Student Is Way Too Easy to Get Laid, lol
     author: misaki
