@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "fingering"
-work_count: 225
+work_count: 227
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -24,6 +24,13 @@ works:
     date: '2026-10-18'
     code: 336370
     url: /works/336370/
+  - title: Nuru, Hagu | Null Hug
+    author: kawauchi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/341815.jpg
+    rating: 4.3
+    date: '2026-10-29'
+    code: 341815
+    url: /works/341815/
   - title: Egg or Chicken? Zenpen
     author: rocket-monkey
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/364371.jpg
@@ -626,6 +633,14 @@ works:
     date: '2026-04-23'
     code: 603122
     url: /works/603122/
+  - title: Kaisha no Madonna to Lucky de Yareta Hanashi 4 ~Hamedori Ecchi Hen~ | How
+      I Got Lucky and Banged the Company's Madonna 4
+    author: amatani-haruka
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/605269.jpg
+    rating: 0.0
+    date: '2026-10-29'
+    code: 605269
+    url: /works/605269/
   - title: Hitoban Tomete yo, Otaku-kun | Let Me Stay For the Night, Otaku-kun
     author: danimaru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/606166.jpg

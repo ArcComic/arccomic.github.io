@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole male"
-work_count: 1085
+work_count: 1087
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -3018,6 +3018,14 @@ works:
     date: '2026-09-09'
     code: 604569
     url: /works/604569/
+  - title: Kaisha no Madonna to Lucky de Yareta Hanashi 4 ~Hamedori Ecchi Hen~ | How
+      I Got Lucky and Banged the Company's Madonna 4
+    author: amatani-haruka
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/605269.jpg
+    rating: 0.0
+    date: '2026-10-29'
+    code: 605269
+    url: /works/605269/
   - title: Hitoban Tomete yo, Otaku-kun | Let Me Stay For the Night, Otaku-kun
     author: danimaru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/606166.jpg
@@ -3099,6 +3107,13 @@ works:
     date: '2026-07-10'
     code: 608868
     url: /works/608868/
+  - title: Truck Girl to Iede Boy Otona e no Tabi - Trucker Gal & The Runaway
+    author: alps1mando
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/609108.jpg
+    rating: 0.0
+    date: '2026-10-29'
+    code: 609108
+    url: /works/609108/
   - title: Hagiwara Yukiho no Nijuu Seiai
     author: tsurui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/609238.jpg

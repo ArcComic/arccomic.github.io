@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "cunnilingus"
-work_count: 209
+work_count: 210
 works:
   - title: Love Approach
     author: hanafuda-sakurano
@@ -102,6 +102,13 @@ works:
     date: '2026-10-18'
     code: 336370
     url: /works/336370/
+  - title: Nuru, Hagu | Null Hug
+    author: kawauchi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/341815.jpg
+    rating: 4.3
+    date: '2026-10-29'
+    code: 341815
+    url: /works/341815/
   - title: Gal to InCha no Kousai Shuukan. | A Week-Long Relation Between a Gyaru and
       an Introvert.
     author: tamabi

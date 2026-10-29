@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "orgasm denial"
-work_count: 20
+work_count: 21
 works:
   - title: Ayami Hypno
     author: yasuhiro
@@ -17,6 +17,13 @@ works:
     date: '2026-10-02'
     code: 314536
     url: /works/314536/
+  - title: Nuru, Hagu | Null Hug
+    author: kawauchi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/341815.jpg
+    rating: 4.3
+    date: '2026-10-29'
+    code: 341815
+    url: /works/341815/
   - title: Itabasami na Wakachi Ai 2
     author: cabin
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/351440.jpg

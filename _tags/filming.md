@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "filming"
-work_count: 122
+work_count: 123
 works:
   - title: Ikanishite Haha wa Onna o Kaihou Shitaka Ch. 1-14
     author: mitarai-yuuki
@@ -268,6 +268,14 @@ works:
     date: '2026-09-29'
     code: 601711
     url: /works/601711/
+  - title: Kaisha no Madonna to Lucky de Yareta Hanashi 4 ~Hamedori Ecchi Hen~ | How
+      I Got Lucky and Banged the Company's Madonna 4
+    author: amatani-haruka
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/605269.jpg
+    rating: 0.0
+    date: '2026-10-29'
+    code: 605269
+    url: /works/605269/
   - title: Kanojo no Bad Luck ~Oya no Saikon, Dekita Gikei wa Seijuu Datta~
     author: yokoshima
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/608868.jpg

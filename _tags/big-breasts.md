@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big breasts"
-work_count: 1308
+work_count: 1310
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -3114,6 +3114,14 @@ works:
     date: '2026-09-30'
     code: 604775
     url: /works/604775/
+  - title: Kaisha no Madonna to Lucky de Yareta Hanashi 4 ~Hamedori Ecchi Hen~ | How
+      I Got Lucky and Banged the Company's Madonna 4
+    author: amatani-haruka
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/605269.jpg
+    rating: 0.0
+    date: '2026-10-29'
+    code: 605269
+    url: /works/605269/
   - title: Soukan Syndrome
     author: kuroiwa-menou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/605633.jpg
@@ -3181,6 +3189,13 @@ works:
     date: '2026-05-04'
     code: 608911
     url: /works/608911/
+  - title: Truck Girl to Iede Boy Otona e no Tabi - Trucker Gal & The Runaway
+    author: alps1mando
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/609108.jpg
+    rating: 0.0
+    date: '2026-10-29'
+    code: 609108
+    url: /works/609108/
   - title: Alola no Yoru no Sugata Soushuuhen | Aloha Night Compilation
     author: kurosu-gatari
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/609650.jpg

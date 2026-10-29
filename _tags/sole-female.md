@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole female"
-work_count: 1145
+work_count: 1146
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -3366,6 +3366,13 @@ works:
     date: '2026-07-10'
     code: 608868
     url: /works/608868/
+  - title: Truck Girl to Iede Boy Otona e no Tabi - Trucker Gal & The Runaway
+    author: alps1mando
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/609108.jpg
+    rating: 0.0
+    date: '2026-10-29'
+    code: 609108
+    url: /works/609108/
   - title: Mattaku Icha Love suru Ki no Nai Kyonyuu Reijou Gal ni Niku Dildo Atsukai
       Sareteiru Ore no Hanashi | The Story of How I’m Treated Like a Living Dildo by
       a Big-Titted Rich Gyaru Who Has No Interest in Being Lovey-Dovey

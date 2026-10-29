@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "anal intercourse"
-work_count: 104
+work_count: 105
 works:
   - title: Police Story
     author: nekoi-mie
@@ -144,6 +144,14 @@ works:
     date: '2026-09-12'
     code: 597573
     url: /works/597573/
+  - title: Kaisha no Madonna to Lucky de Yareta Hanashi 4 ~Hamedori Ecchi Hen~ | How
+      I Got Lucky and Banged the Company's Madonna 4
+    author: amatani-haruka
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/605269.jpg
+    rating: 0.0
+    date: '2026-10-29'
+    code: 605269
+    url: /works/605269/
   - title: Otoko no Ko otodokeshimasu! ~Itsumo kuru Haitatsuin-san ga masaka no Otoko
       no Ko dattakedo mayowazu hameta~
     author: mitsujirou

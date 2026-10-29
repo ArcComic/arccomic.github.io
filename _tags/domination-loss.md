@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "domination loss"
-work_count: 53
+work_count: 54
 works:
   - title: My Only Princess
     author: mackgee
@@ -10,6 +10,13 @@ works:
     date: '2026-04-17'
     code: 335960
     url: /works/335960/
+  - title: Nuru, Hagu | Null Hug
+    author: kawauchi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/341815.jpg
+    rating: 4.3
+    date: '2026-10-29'
+    code: 341815
+    url: /works/341815/
   - title: Mesukko Okami Wakarase Shuzai Kiroku
     author: airandou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/354384.jpg

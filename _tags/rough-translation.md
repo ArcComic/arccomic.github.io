@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "rough translation"
-work_count: 763
+work_count: 764
 works:
   - title: Boku no Shiranai Kimi no Kao
     author: utsutsu-minoru
@@ -769,6 +769,13 @@ works:
     date: '2026-07-10'
     code: 608868
     url: /works/608868/
+  - title: Truck Girl to Iede Boy Otona e no Tabi - Trucker Gal & The Runaway
+    author: alps1mando
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/609108.jpg
+    rating: 0.0
+    date: '2026-10-29'
+    code: 609108
+    url: /works/609108/
   - title: Hagiwara Yukiho no Nijuu Seiai
     author: tsurui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/609238.jpg

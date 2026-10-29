@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "multi-work series"
-work_count: 461
+work_count: 462
 works:
   - title: Konna ni mo Itooshii Zero
     author: nohito
@@ -1198,6 +1198,14 @@ works:
     date: '2026-09-09'
     code: 604569
     url: /works/604569/
+  - title: Kaisha no Madonna to Lucky de Yareta Hanashi 4 ~Hamedori Ecchi Hen~ | How
+      I Got Lucky and Banged the Company's Madonna 4
+    author: amatani-haruka
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/605269.jpg
+    rating: 0.0
+    date: '2026-10-29'
+    code: 605269
+    url: /works/605269/
   - title: Ichigun Joshi no Akaten Kaihi ni Kyouryoku Shitara... 1
     author: kishiwada-base
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/606276.jpg

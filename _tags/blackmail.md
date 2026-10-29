@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "blackmail"
-work_count: 165
+work_count: 166
 works:
   - title: Birthday
     author: hashiba-yachi
@@ -80,6 +80,13 @@ works:
     date: '2026-04-17'
     code: 332375
     url: /works/332375/
+  - title: Nuru, Hagu | Null Hug
+    author: kawauchi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/341815.jpg
+    rating: 4.3
+    date: '2026-10-29'
+    code: 341815
+    url: /works/341815/
   - title: Adlescence 06 Nozomi [English] =NSS=
     author: aoten
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/349379.jpg

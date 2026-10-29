@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big ass"
-work_count: 299
+work_count: 300
 works:
   - title: My Care Lady Ch. 1
     author: sugi-g
@@ -545,6 +545,13 @@ works:
     date: '2026-09-18'
     code: 608519
     url: /works/608519/
+  - title: Truck Girl to Iede Boy Otona e no Tabi - Trucker Gal & The Runaway
+    author: alps1mando
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/609108.jpg
+    rating: 0.0
+    date: '2026-10-29'
+    code: 609108
+    url: /works/609108/
   - title: Zenin Mukuwarenai Harem | A Harem Where No One Is Reciprocated
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/610041.jpg

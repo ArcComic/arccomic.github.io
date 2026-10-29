@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "yuri"
-work_count: 61
+work_count: 62
 works:
   - title: Himitsu no Kamiura san | The Mysterious Kamiura-san
     author: takeshisu
@@ -10,6 +10,13 @@ works:
     date: '2026-10-08'
     code: 324170
     url: /works/324170/
+  - title: Nuru, Hagu | Null Hug
+    author: kawauchi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/341815.jpg
+    rating: 4.3
+    date: '2026-10-29'
+    code: 341815
+    url: /works/341815/
   - title: meido no michi ni ou ha nashi | Maids Could Never Be Queens
     author: kawauchi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/377019.jpg

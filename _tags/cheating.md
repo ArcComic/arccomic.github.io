@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "cheating"
-work_count: 434
+work_count: 436
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -223,6 +223,13 @@ works:
     date: '2026-04-27'
     code: 337171
     url: /works/337171/
+  - title: Nuru, Hagu | Null Hug
+    author: kawauchi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/341815.jpg
+    rating: 4.3
+    date: '2026-10-29'
+    code: 341815
+    url: /works/341815/
   - title: Saikin, Musuko no Yousu ga Hen nan desu | Lately my son has been acting Strangly
     author: matsumoto-jikyuuryoku
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/342639.jpg
@@ -1386,6 +1393,14 @@ works:
     date: '2026-09-29'
     code: 604050
     url: /works/604050/
+  - title: Kaisha no Madonna to Lucky de Yareta Hanashi 4 ~Hamedori Ecchi Hen~ | How
+      I Got Lucky and Banged the Company's Madonna 4
+    author: amatani-haruka
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/605269.jpg
+    rating: 0.0
+    date: '2026-10-29'
+    code: 605269
+    url: /works/605269/
   - title: Soukan Syndrome
     author: kuroiwa-menou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/605633.jpg
