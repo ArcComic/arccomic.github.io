@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sister"
-work_count: 121
+work_count: 122
 works:
   - title: Imitation Family + Bigibo Hen
     author: tohzai
@@ -523,6 +523,14 @@ works:
     date: '2026-09-23'
     code: 667775
     url: /works/667775/
+  - title: Kanojo no Imouto o SeFri ni shita Hanashi | The story of how I turned my
+      girlfriend's younger sister into my sex friend
+    author: taniguchi-daisuke
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/670494.jpg
+    rating: 0.0
+    date: '2026-10-29'
+    code: 670494
+    url: /works/670494/
   - title: JK no Imouto no Furo Nozoki mashita - Hentai Aniki × Imouto
     author: iron-sugar
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/670708.jpg
@@ -855,7 +863,7 @@ works:
       Female Knight Climaxes Non-Stop Using Her Younger Brother's Skill
     author: matoi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687516.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-10-29'
     code: 687516
     url: /works/687516/

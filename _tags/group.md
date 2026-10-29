@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "group"
-work_count: 288
+work_count: 290
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -1273,6 +1273,14 @@ works:
     date: '2026-09-12'
     code: 670195
     url: /works/670195/
+  - title: Kanojo no Imouto o SeFri ni shita Hanashi | The story of how I turned my
+      girlfriend's younger sister into my sex friend
+    author: taniguchi-daisuke
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/670494.jpg
+    rating: 0.0
+    date: '2026-10-29'
+    code: 670494
+    url: /works/670494/
   - title: Unsweet Kazumi Wakui + (Plus) SIDE Kazumi
     author: tanaka-aji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/671907.jpg
@@ -2097,6 +2105,13 @@ works:
     date: '2026-10-28'
     code: 691387
     url: /works/691387/
+  - title: Seductive Voice Training Camp - Active College Student Model Sae Oshiro
+    author: sevengar
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691454.jpg
+    rating: 0.0
+    date: '2026-10-29'
+    code: 691454
+    url: /works/691454/
   - title: FUCK MATCH ~Haiboku! Takane no Manko~
     author: nakajima-uota
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691651.jpg

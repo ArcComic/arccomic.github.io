@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "netorare"
-work_count: 493
+work_count: 494
 works:
   - title: Kousa suru Osu to Mesu | Male and Female Crossing
     author: ootsuka-kotora
@@ -2552,6 +2552,14 @@ works:
     date: '2026-09-12'
     code: 670195
     url: /works/670195/
+  - title: Kanojo no Imouto o SeFri ni shita Hanashi | The story of how I turned my
+      girlfriend's younger sister into my sex friend
+    author: taniguchi-daisuke
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/670494.jpg
+    rating: 0.0
+    date: '2026-10-29'
+    code: 670494
+    url: /works/670494/
   - title: Koitsu Maji de Chorokatta | This Chick Was Totally Easy
     author: doron
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/671419.jpg

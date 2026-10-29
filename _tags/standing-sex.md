@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "standing sex"
-work_count: 6
+work_count: 7
 works:
   - title: Onna Tomodachi to Omotteitara Mesu Deshita | I Thought She Was Just a Friend,
       Turned Out She Was a Woman
@@ -43,6 +43,14 @@ works:
     date: '2026-09-04'
     code: 669459
     url: /works/669459/
+  - title: Kanojo no Imouto o SeFri ni shita Hanashi | The story of how I turned my
+      girlfriend's younger sister into my sex friend
+    author: taniguchi-daisuke
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/670494.jpg
+    rating: 0.0
+    date: '2026-10-29'
+    code: 670494
+    url: /works/670494/
   - title: I'll turn a divorced woman and a nagging housewife into ripe, voluptuous
       sex toys with their complicated pasts
     author: gagarin-kichi

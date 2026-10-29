@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "collar"
-work_count: 110
+work_count: 112
 works:
   - title: Kaisha de Iroiro | Gettin' Busy at the Office
     author: hara-shigeyuki
@@ -521,6 +521,14 @@ works:
     date: '2026-09-04'
     code: 669459
     url: /works/669459/
+  - title: Kanojo no Imouto o SeFri ni shita Hanashi | The story of how I turned my
+      girlfriend's younger sister into my sex friend
+    author: taniguchi-daisuke
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/670494.jpg
+    rating: 0.0
+    date: '2026-10-29'
+    code: 670494
+    url: /works/670494/
   - title: 'Breeding License: ~Am I, the Unpopular Guy, the One with the Strongest Genes?!~'
     author: minamihama-yoriko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/674009.jpg
@@ -787,7 +795,7 @@ works:
   - title: Himitsu no Goshujin-sama | My Secret Master
     author: ikuba-moku
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/689170.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-10-29'
     code: 689170
     url: /works/689170/
@@ -806,6 +814,13 @@ works:
     date: '2026-10-26'
     code: 690826
     url: /works/690826/
+  - title: Seductive Voice Training Camp - Active College Student Model Sae Oshiro
+    author: sevengar
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691454.jpg
+    rating: 0.0
+    date: '2026-10-29'
+    code: 691454
+    url: /works/691454/
   - title: Asuna OVERLOAD OVERCOME
     author: akashiro-kiiro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691660.jpg

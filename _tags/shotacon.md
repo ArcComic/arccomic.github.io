@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "shotacon"
-work_count: 156
+work_count: 157
 works:
   - title: Ikanishite Haha wa Onna o Kaihou Shitaka Ch. 1-14
     author: mitarai-yuuki
@@ -683,6 +683,13 @@ works:
     date: '2026-09-28'
     code: 653091
     url: /works/653091/
+  - title: Boku no Oba-san Kansatsu
+    author: azuma-makoto
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654701.jpg
+    rating: 4.3
+    date: '2026-10-29'
+    code: 654701
+    url: /works/654701/
   - title: Karada ga Binkan Sugiru Watashi wa Itoko ni Itazura sarete mo Teikoudekinai!
     author: romomata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/655421.jpg

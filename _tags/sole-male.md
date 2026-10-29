@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole male"
-work_count: 1078
+work_count: 1080
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -1538,6 +1538,13 @@ works:
     date: '2026-10-18'
     code: 495845
     url: /works/495845/
+  - title: Zoku Onnajoushi wa Ikiwakareta Haha
+    author: kumo-no-ito
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/497950.jpg
+    rating: 0.0
+    date: '2026-10-29'
+    code: 497950
+    url: /works/497950/
   - title: Onozomi deshitara Saimin wo ~Maki-san Himitsu no Renai Therapy~ | If you
       wish, hypnosis ~Maki-san's secret love therapy~
     author: meeko
@@ -3318,7 +3325,7 @@ works:
       Kureru Cheat Fuuzokuten~
     author: nyuu-koubou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/625983.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-10-29'
     code: 625983
     url: /works/625983/
@@ -5717,6 +5724,14 @@ works:
     date: '2026-09-29'
     code: 670438
     url: /works/670438/
+  - title: Kanojo no Imouto o SeFri ni shita Hanashi | The story of how I turned my
+      girlfriend's younger sister into my sex friend
+    author: taniguchi-daisuke
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/670494.jpg
+    rating: 0.0
+    date: '2026-10-29'
+    code: 670494
+    url: /works/670494/
   - title: My Secret With Kyouko Sensei 1 - Kyouko Sensei to Boku no Himitsu
     author: maimu-maimu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/671460.jpg
@@ -7627,7 +7642,7 @@ works:
       Female Knight Climaxes Non-Stop Using Her Younger Brother's Skill
     author: matoi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687516.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-10-29'
     code: 687516
     url: /works/687516/
@@ -7861,14 +7876,14 @@ works:
       Otaku
     author: mangetsu-wasabi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688935.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-10-29'
     code: 688935
     url: /works/688935/
   - title: Himitsu no Goshujin-sama | My Secret Master
     author: ikuba-moku
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/689170.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-10-29'
     code: 689170
     url: /works/689170/

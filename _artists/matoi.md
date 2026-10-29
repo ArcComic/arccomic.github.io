@@ -13,7 +13,7 @@ works:
   - title: Yokkyuufuman no Onna Kishi wa Otouto no Skill de Ikimakuru | The Frustrated
       Female Knight Climaxes Non-Stop Using Her Younger Brother's Skill
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687516.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-10-29'
     code: 687516
     url: /works/687516/

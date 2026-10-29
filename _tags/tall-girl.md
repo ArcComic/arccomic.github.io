@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "tall girl"
-work_count: 52
+work_count: 53
 works:
   - title: Oppai na Natsuyasumi 2 | The Summer Break of Boobs 2
     author: higashino-mikan
@@ -132,6 +132,13 @@ works:
     date: '2026-05-03'
     code: 647382
     url: /works/647382/
+  - title: My Elf Aunt's Explosive Sexual Reawakening
+    author: alps1mando
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/647407.jpg
+    rating: 0.0
+    date: '2026-10-29'
+    code: 647407
+    url: /works/647407/
   - title: Boku no Onee-chan wa Sekai de Ichiban Tsuyokute kakkoiin da.
     author: riboshika
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/648551.jpg

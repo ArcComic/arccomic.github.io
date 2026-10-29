@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "pregnant"
-work_count: 66
+work_count: 67
 works:
   - title: Mama Naranai Onna-tachi Ch. 1-2
     author: otochichi
@@ -67,6 +67,13 @@ works:
     date: '2026-10-15'
     code: 474458
     url: /works/474458/
+  - title: Zoku Onnajoushi wa Ikiwakareta Haha
+    author: kumo-no-ito
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/497950.jpg
+    rating: 0.0
+    date: '2026-10-29'
+    code: 497950
+    url: /works/497950/
   - title: Tomodachi no Mama ga Boku no Dekachin de Ikimakutta Sotsugyoushiki
     author: rk-2
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/513981.jpg

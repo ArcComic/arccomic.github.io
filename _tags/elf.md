@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "elf"
-work_count: 10
+work_count: 11
 works:
   - title: A tale of an Elf adventurer (♀) being visited at night and bred by an innkeeper
     author: unknown
@@ -41,6 +41,13 @@ works:
     date: '2026-02-25'
     code: 631719
     url: /works/631719/
+  - title: My Elf Aunt's Explosive Sexual Reawakening
+    author: alps1mando
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/647407.jpg
+    rating: 0.0
+    date: '2026-10-29'
+    code: 647407
+    url: /works/647407/
   - title: Sukebe Gal no Cosplayer to Offpako Shiteru Hanashi
     author: inu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/650302.jpg

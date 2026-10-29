@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "dilf"
-work_count: 222
+work_count: 223
 works:
   - title: Adoration
     author: kishizuka-kenji
@@ -1615,6 +1615,13 @@ works:
     date: '2026-10-26'
     code: 690875
     url: /works/690875/
+  - title: Seductive Voice Training Camp - Active College Student Model Sae Oshiro
+    author: sevengar
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691454.jpg
+    rating: 0.0
+    date: '2026-10-29'
+    code: 691454
+    url: /works/691454/
   - title: FUCK MATCH ~Haiboku! Takane no Manko~
     author: nakajima-uota
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691651.jpg

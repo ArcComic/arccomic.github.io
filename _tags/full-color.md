@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "full color"
-work_count: 277
+work_count: 278
 works:
   - title: Pai☆Panic ~Hasamareta Dekapai~
     author: inkey
@@ -365,6 +365,13 @@ works:
     date: '2026-09-09'
     code: 495599
     url: /works/495599/
+  - title: Zoku Onnajoushi wa Ikiwakareta Haha
+    author: kumo-no-ito
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/497950.jpg
+    rating: 0.0
+    date: '2026-10-29'
+    code: 497950
+    url: /works/497950/
   - title: Mimikyu Myth 2
     author: meowwithme
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/500102.jpg

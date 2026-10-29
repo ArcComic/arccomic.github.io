@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "nakadashi"
-work_count: 984
+work_count: 986
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -2876,7 +2876,7 @@ works:
       Kureru Cheat Fuuzokuten~
     author: nyuu-koubou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/625983.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-10-29'
     code: 625983
     url: /works/625983/
@@ -3950,6 +3950,13 @@ works:
     date: '2026-10-09'
     code: 647391
     url: /works/647391/
+  - title: My Elf Aunt's Explosive Sexual Reawakening
+    author: alps1mando
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/647407.jpg
+    rating: 0.0
+    date: '2026-10-29'
+    code: 647407
+    url: /works/647407/
   - title: If I Have a Chance, I Want to Warp My Boyfriend's Fetishes!
     author: meeko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/647619.jpg
@@ -5186,6 +5193,14 @@ works:
     date: '2026-10-10'
     code: 670485
     url: /works/670485/
+  - title: Kanojo no Imouto o SeFri ni shita Hanashi | The story of how I turned my
+      girlfriend's younger sister into my sex friend
+    author: taniguchi-daisuke
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/670494.jpg
+    rating: 0.0
+    date: '2026-10-29'
+    code: 670494
+    url: /works/670494/
   - title: Kareshi Mochi Kyonyuu Beit Gal to Mechakucha Sex shita Hanashi | I Had Wild
       Sex with a Taken Busty Gyaru Part-Timer!
     author: bs3
@@ -6931,7 +6946,7 @@ works:
       Female Knight Climaxes Non-Stop Using Her Younger Brother's Skill
     author: matoi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687516.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-10-29'
     code: 687516
     url: /works/687516/
@@ -7137,14 +7152,14 @@ works:
       Otaku
     author: mangetsu-wasabi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688935.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-10-29'
     code: 688935
     url: /works/688935/
   - title: Himitsu no Goshujin-sama | My Secret Master
     author: ikuba-moku
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/689170.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-10-29'
     code: 689170
     url: /works/689170/

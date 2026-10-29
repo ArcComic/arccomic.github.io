@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "scanmark"
-work_count: 264
+work_count: 266
 works:
   - title: NTR Anniversary + ) [Syukurin] Mitsuha ~Netorare~ (Kimi no Na wa.) [English]
       [Colorized] by Mikaku
@@ -161,7 +161,7 @@ works:
       Kureru Cheat Fuuzokuten~
     author: nyuu-koubou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/625983.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-10-29'
     code: 625983
     url: /works/625983/
@@ -627,6 +627,13 @@ works:
     date: '2026-08-24'
     code: 654689
     url: /works/654689/
+  - title: Boku no Oba-san Kansatsu
+    author: azuma-makoto
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654701.jpg
+    rating: 4.3
+    date: '2026-10-29'
+    code: 654701
+    url: /works/654701/
   - title: Ore no kanojo wa kosupureiya
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654812.jpg
@@ -1769,7 +1776,7 @@ works:
       Female Knight Climaxes Non-Stop Using Her Younger Brother's Skill
     author: matoi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687516.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-10-29'
     code: 687516
     url: /works/687516/
@@ -1914,4 +1921,11 @@ works:
     date: '2026-10-28'
     code: 691452
     url: /works/691452/
+  - title: Seductive Voice Training Camp - Active College Student Model Sae Oshiro
+    author: sevengar
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691454.jpg
+    rating: 0.0
+    date: '2026-10-29'
+    code: 691454
+    url: /works/691454/
 ---

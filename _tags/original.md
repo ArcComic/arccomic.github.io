@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "original"
-work_count: 1282
+work_count: 1286
 works:
   - title: Natsu dake Koibito - Summer only Lover [English] =Forbidden Fetish + Ser
       Maggot=
@@ -1208,6 +1208,13 @@ works:
     date: '2026-10-18'
     code: 495845
     url: /works/495845/
+  - title: Zoku Onnajoushi wa Ikiwakareta Haha
+    author: kumo-no-ito
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/497950.jpg
+    rating: 0.0
+    date: '2026-10-29'
+    code: 497950
+    url: /works/497950/
   - title: Onozomi deshitara Saimin wo ~Maki-san Himitsu no Renai Therapy~ | If you
       wish, hypnosis ~Maki-san's secret love therapy~
     author: meeko
@@ -3369,7 +3376,7 @@ works:
       Kureru Cheat Fuuzokuten~
     author: nyuu-koubou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/625983.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-10-29'
     code: 625983
     url: /works/625983/
@@ -4687,6 +4694,13 @@ works:
     date: '2026-05-03'
     code: 647382
     url: /works/647382/
+  - title: My Elf Aunt's Explosive Sexual Reawakening
+    author: alps1mando
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/647407.jpg
+    rating: 0.0
+    date: '2026-10-29'
+    code: 647407
+    url: /works/647407/
   - title: Netorareta Kanojo ga Joou-sama ni natte Kaettekita ~Ruined de Kintama o Kara
       ni sarete Zenritsusen o Ijirarete Nandomo Nandomo Mesuikishite Choukyou sareru
       Ohanashi~
@@ -5319,6 +5333,13 @@ works:
     date: '2026-08-24'
     code: 654689
     url: /works/654689/
+  - title: Boku no Oba-san Kansatsu
+    author: azuma-makoto
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654701.jpg
+    rating: 4.3
+    date: '2026-10-29'
+    code: 654701
+    url: /works/654701/
   - title: Ore no kanojo wa kosupureiya
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654812.jpg
@@ -6416,6 +6437,14 @@ works:
     date: '2026-09-29'
     code: 670438
     url: /works/670438/
+  - title: Kanojo no Imouto o SeFri ni shita Hanashi | The story of how I turned my
+      girlfriend's younger sister into my sex friend
+    author: taniguchi-daisuke
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/670494.jpg
+    rating: 0.0
+    date: '2026-10-29'
+    code: 670494
+    url: /works/670494/
   - title: JK no Imouto no Furo Nozoki mashita - Hentai Aniki × Imouto
     author: iron-sugar
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/670708.jpg
@@ -9104,7 +9133,7 @@ works:
       Female Knight Climaxes Non-Stop Using Her Younger Brother's Skill
     author: matoi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687516.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-10-29'
     code: 687516
     url: /works/687516/
@@ -9402,7 +9431,7 @@ works:
       Otaku
     author: mangetsu-wasabi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688935.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-10-29'
     code: 688935
     url: /works/688935/

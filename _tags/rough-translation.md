@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "rough translation"
-work_count: 755
+work_count: 758
 works:
   - title: Boku no Shiranai Kimi no Kao
     author: utsutsu-minoru
@@ -1009,7 +1009,7 @@ works:
       Kureru Cheat Fuuzokuten~
     author: nyuu-koubou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/625983.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-10-29'
     code: 625983
     url: /works/625983/
@@ -2148,6 +2148,13 @@ works:
     date: '2026-08-24'
     code: 654689
     url: /works/654689/
+  - title: Boku no Oba-san Kansatsu
+    author: azuma-makoto
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654701.jpg
+    rating: 4.3
+    date: '2026-10-29'
+    code: 654701
+    url: /works/654701/
   - title: Ore no kanojo wa kosupureiya
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654812.jpg
@@ -3116,6 +3123,14 @@ works:
     date: '2026-09-10'
     code: 669748
     url: /works/669748/
+  - title: Kanojo no Imouto o SeFri ni shita Hanashi | The story of how I turned my
+      girlfriend's younger sister into my sex friend
+    author: taniguchi-daisuke
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/670494.jpg
+    rating: 0.0
+    date: '2026-10-29'
+    code: 670494
+    url: /works/670494/
   - title: JK no Imouto no Furo Nozoki mashita - Hentai Aniki × Imouto
     author: iron-sugar
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/670708.jpg
@@ -5213,7 +5228,7 @@ works:
       Female Knight Climaxes Non-Stop Using Her Younger Brother's Skill
     author: matoi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687516.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-10-29'
     code: 687516
     url: /works/687516/
@@ -5407,7 +5422,7 @@ works:
       Otaku
     author: mangetsu-wasabi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688935.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-10-29'
     code: 688935
     url: /works/688935/
@@ -5508,6 +5523,13 @@ works:
     date: '2026-10-28'
     code: 691452
     url: /works/691452/
+  - title: Seductive Voice Training Camp - Active College Student Model Sae Oshiro
+    author: sevengar
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691454.jpg
+    rating: 0.0
+    date: '2026-10-29'
+    code: 691454
+    url: /works/691454/
   - title: The Ex-Delinquent Mom Won't Be Looked Down On
     author: kumo-no-ito
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691620.jpg

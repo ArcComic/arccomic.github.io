@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "manga"
-work_count: 421
+work_count: 422
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -2960,7 +2960,7 @@ works:
   - title: Himitsu no Goshujin-sama | My Secret Master
     author: ikuba-moku
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/689170.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-10-29'
     code: 689170
     url: /works/689170/
@@ -2986,6 +2986,13 @@ works:
     date: '2026-10-28'
     code: 691452
     url: /works/691452/
+  - title: Seductive Voice Training Camp - Active College Student Model Sae Oshiro
+    author: sevengar
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691454.jpg
+    rating: 0.0
+    date: '2026-10-29'
+    code: 691454
+    url: /works/691454/
   - title: The Fox God Who Knows Not of Love | Kitsune Kami-sama wa Ai o Shiranai
     author: shinozuka
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691624.jpg

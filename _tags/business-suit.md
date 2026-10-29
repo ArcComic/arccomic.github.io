@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "business suit"
-work_count: 102
+work_count: 103
 works:
   - title: MAGIC SEVEN
     author: asuhiro
@@ -271,6 +271,13 @@ works:
     date: '2026-04-12'
     code: 492657
     url: /works/492657/
+  - title: Zoku Onnajoushi wa Ikiwakareta Haha
+    author: kumo-no-ito
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/497950.jpg
+    rating: 0.0
+    date: '2026-10-29'
+    code: 497950
+    url: /works/497950/
   - title: Inemuri-chou no Onna Joushi ni Kossori Sounyuu ( ※ Netafuri Shinagara Ittemashita)
       1-3 | Stealthily Fucking My Dozing Boss (She Came While Pretending to Sleep) 1-3
     author: nanakusa-amane
@@ -725,7 +732,7 @@ works:
   - title: Himitsu no Goshujin-sama | My Secret Master
     author: ikuba-moku
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/689170.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-10-29'
     code: 689170
     url: /works/689170/

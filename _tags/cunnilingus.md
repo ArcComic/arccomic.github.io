@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "cunnilingus"
-work_count: 208
+work_count: 209
 works:
   - title: Love Approach
     author: hanafuda-sakurano
@@ -1075,6 +1075,14 @@ works:
     date: '2026-07-17'
     code: 664937
     url: /works/664937/
+  - title: Kanojo no Imouto o SeFri ni shita Hanashi | The story of how I turned my
+      girlfriend's younger sister into my sex friend
+    author: taniguchi-daisuke
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/670494.jpg
+    rating: 0.0
+    date: '2026-10-29'
+    code: 670494
+    url: /works/670494/
   - title: Kyuuyuu to furin shitemita - Chapter 1-9
     author: kishi-torajirou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/671549.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "reverse netorare"
-work_count: 26
+work_count: 27
 works:
   - title: Hajimete Kanojo Ga Dekita No Ni
     author: unknown
@@ -180,6 +180,14 @@ works:
     date: '2026-07-16'
     code: 664853
     url: /works/664853/
+  - title: Kanojo no Imouto o SeFri ni shita Hanashi | The story of how I turned my
+      girlfriend's younger sister into my sex friend
+    author: taniguchi-daisuke
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/670494.jpg
+    rating: 0.0
+    date: '2026-10-29'
+    code: 670494
+    url: /works/670494/
   - title: WSS ~Watashi ga Sakini Sukidatta no ni~ - Even Though I Loved Him First
     author: asanagi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/674639.jpg

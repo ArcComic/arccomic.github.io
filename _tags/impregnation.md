@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "impregnation"
-work_count: 178
+work_count: 179
 works:
   - title: Kousa suru Osu to Mesu | Male and Female Crossing
     author: ootsuka-kotora
@@ -303,6 +303,13 @@ works:
     date: '2026-10-11'
     code: 492104
     url: /works/492104/
+  - title: Zoku Onnajoushi wa Ikiwakareta Haha
+    author: kumo-no-ito
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/497950.jpg
+    rating: 0.0
+    date: '2026-10-29'
+    code: 497950
+    url: /works/497950/
   - title: Yamada wa Sonna Koto Shinai | Yamada Would Never Do Something Like That
     author: norakuro-nero
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/507512.jpg
