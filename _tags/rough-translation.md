@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "rough translation"
-work_count: 758
+work_count: 760
 works:
   - title: Boku no Shiranai Kimi no Kao
     author: utsutsu-minoru
@@ -1253,6 +1253,13 @@ works:
     date: '2026-10-08'
     code: 636527
     url: /works/636527/
+  - title: Jukujo no Tehodoki Haha no Ai
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/636770.jpg
+    rating: 0.0
+    date: '2026-10-29'
+    code: 636770
+    url: /works/636770/
   - title: Imouto Oppai de Sukusuku Seikatsu
     author: asaomi-shimura
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/636802.jpg
@@ -2126,6 +2133,13 @@ works:
     date: '2026-08-22'
     code: 654484
     url: /works/654484/
+  - title: '] Ore to Oba to no Hiya Kana Yokubō'
+    author: shomu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654506.jpg
+    rating: 4.2
+    date: '2026-10-29'
+    code: 654506
+    url: /works/654506/
   - title: Take Everything From You
     author: takotokite
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654587.jpg

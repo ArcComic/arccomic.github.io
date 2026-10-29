@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sweating"
-work_count: 205
+work_count: 206
 works:
   - title: Kaisha de Iroiro | Gettin' Busy at the Office
     author: hara-shigeyuki
@@ -732,6 +732,13 @@ works:
     date: '2026-09-29'
     code: 636751
     url: /works/636751/
+  - title: Jukujo no Tehodoki Haha no Ai
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/636770.jpg
+    rating: 0.0
+    date: '2026-10-29'
+    code: 636770
+    url: /works/636770/
   - title: Curiosity and the Cost of Innocence
     author: hoshi-to-lucky
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/637110.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "machine translation"
-work_count: 35
+work_count: 36
 works:
   - title: My part-time coworker ran away from home and came to work here, but she was
       too sexy...
@@ -121,6 +121,13 @@ works:
     date: '2026-08-22'
     code: 654484
     url: /works/654484/
+  - title: '] Ore to Oba to no Hiya Kana Yokubō'
+    author: shomu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654506.jpg
+    rating: 4.2
+    date: '2026-10-29'
+    code: 654506
+    url: /works/654506/
   - title: A story about a shy childhood friend who can’t say no and ends up being put
       in charge of handling sexual needs.
     author: sakurayu-hal

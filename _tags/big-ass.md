@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big ass"
-work_count: 296
+work_count: 297
 works:
   - title: My Care Lady Ch. 1
     author: sugi-g
@@ -1133,6 +1133,13 @@ works:
     date: '2026-10-07'
     code: 654260
     url: /works/654260/
+  - title: '] Ore to Oba to no Hiya Kana Yokubō'
+    author: shomu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654506.jpg
+    rating: 4.2
+    date: '2026-10-29'
+    code: 654506
+    url: /works/654506/
   - title: My Tall, Stacked, Virgin Boss 1
     author: yunamaro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654603.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "milf"
-work_count: 514
+work_count: 517
 works:
   - title: Life with Married Women Just Like a Manga 2 - Ch. 1-5
     author: hidemaru
@@ -483,6 +483,14 @@ works:
     date: '2026-04-16'
     code: 421874
     url: /works/421874/
+  - title: 'Zoku Matching Appli de Deatta Aite wa Kaa-san deshita | I Matched Mom on
+      My Dating App: The Sequel'
+    author: kumo-no-ito
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/422128.jpg
+    rating: 0.0
+    date: '2026-10-29'
+    code: 422128
+    url: /works/422128/
   - title: Mama wa SeFri - Boku wa Tomodachi no Okaa-san to Sex o Suru | Fuck-Buddy
       Mom — I have Sex with my Friend's Mom Part 1
     author: goya
@@ -1932,6 +1940,13 @@ works:
     date: '2026-10-08'
     code: 636527
     url: /works/636527/
+  - title: Jukujo no Tehodoki Haha no Ai
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/636770.jpg
+    rating: 0.0
+    date: '2026-10-29'
+    code: 636770
+    url: /works/636770/
   - title: Oneesan no Chitsu-nai ni Shiroi Oshikko to Kiiroi Oshikko
     author: mosaic-book
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/636807.jpg
@@ -2357,6 +2372,13 @@ works:
     date: '2026-08-25'
     code: 654373
     url: /works/654373/
+  - title: '] Ore to Oba to no Hiya Kana Yokubō'
+    author: shomu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654506.jpg
+    rating: 4.2
+    date: '2026-10-29'
+    code: 654506
+    url: /works/654506/
   - title: Yabai oji | Dangerous Uncle
     author: chinpan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654645.jpg

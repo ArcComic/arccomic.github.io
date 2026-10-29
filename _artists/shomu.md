@@ -1,7 +1,7 @@
 ---
 layout: artist
 artist_name: "shomu"
-work_count: 3
+work_count: 4
 works:
   - title: Mukashi no Uwaki Aite no Ko ga Jitsu wa Watashi no Musuko no Doukyuusei de
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/518121.jpg
@@ -16,6 +16,12 @@ works:
     date: '2026-07-17'
     code: 518161
     url: /works/518161/
+  - title: '] Ore to Oba to no Hiya Kana Yokubō'
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654506.jpg
+    rating: 4.2
+    date: '2026-10-29'
+    code: 654506
+    url: /works/654506/
   - title: Netorareta Hitozuma
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678797.jpg
     rating: 4.0

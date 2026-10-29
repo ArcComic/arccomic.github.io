@@ -1,7 +1,7 @@
 ---
 layout: artist
 artist_name: "unknown"
-work_count: 85
+work_count: 86
 works:
   - title: Hajimete Kanojo Ga Dekita No Ni
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/316579.jpg
@@ -158,6 +158,12 @@ works:
     date: '2026-10-01'
     code: 635510
     url: /works/635510/
+  - title: Jukujo no Tehodoki Haha no Ai
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/636770.jpg
+    rating: 0.0
+    date: '2026-10-29'
+    code: 636770
+    url: /works/636770/
   - title: Kaa-san to Sex Shita Mikkakan | Three Days of Sex with My Mom
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/639194.jpg
     rating: 4.3

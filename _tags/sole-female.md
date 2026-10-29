@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole female"
-work_count: 1143
+work_count: 1144
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -1121,6 +1121,14 @@ works:
     date: '2026-09-10'
     code: 420425
     url: /works/420425/
+  - title: 'Zoku Matching Appli de Deatta Aite wa Kaa-san deshita | I Matched Mom on
+      My Dating App: The Sequel'
+    author: kumo-no-ito
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/422128.jpg
+    rating: 0.0
+    date: '2026-10-29'
+    code: 422128
+    url: /works/422128/
   - title: The Time My Friend Turned Me Into His Girl Lover and Plaything
     author: menoko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/424735.jpg

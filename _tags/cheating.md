@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "cheating"
-work_count: 431
+work_count: 433
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -471,6 +471,14 @@ works:
     date: '2026-10-02'
     code: 421306
     url: /works/421306/
+  - title: 'Zoku Matching Appli de Deatta Aite wa Kaa-san deshita | I Matched Mom on
+      My Dating App: The Sequel'
+    author: kumo-no-ito
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/422128.jpg
+    rating: 0.0
+    date: '2026-10-29'
+    code: 422128
+    url: /works/422128/
   - title: Hikage | Shade
     author: syuuen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/429669.jpg
@@ -2053,6 +2061,13 @@ works:
     date: '2026-08-22'
     code: 654484
     url: /works/654484/
+  - title: '] Ore to Oba to no Hiya Kana Yokubō'
+    author: shomu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654506.jpg
+    rating: 4.2
+    date: '2026-10-29'
+    code: 654506
+    url: /works/654506/
   - title: Yabai oji | Dangerous Uncle
     author: chinpan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654645.jpg

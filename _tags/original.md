@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "original"
-work_count: 1286
+work_count: 1289
 works:
   - title: Natsu dake Koibito - Summer only Lover [English] =Forbidden Fetish + Ser
       Maggot=
@@ -637,6 +637,14 @@ works:
     date: '2026-10-02'
     code: 421306
     url: /works/421306/
+  - title: 'Zoku Matching Appli de Deatta Aite wa Kaa-san deshita | I Matched Mom on
+      My Dating App: The Sequel'
+    author: kumo-no-ito
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/422128.jpg
+    rating: 0.0
+    date: '2026-10-29'
+    code: 422128
+    url: /works/422128/
   - title: Mama wa SeFri - Boku wa Tomodachi no Okaa-san to Sex o Suru | Fuck-Buddy
       Mom — I have Sex with my Friend's Mom Part 1
     author: goya
@@ -3895,6 +3903,13 @@ works:
     date: '2026-09-29'
     code: 636751
     url: /works/636751/
+  - title: Jukujo no Tehodoki Haha no Ai
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/636770.jpg
+    rating: 0.0
+    date: '2026-10-29'
+    code: 636770
+    url: /works/636770/
   - title: Imouto Oppai de Sukusuku Seikatsu
     author: asaomi-shimura
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/636802.jpg
@@ -5290,6 +5305,13 @@ works:
     date: '2026-08-22'
     code: 654484
     url: /works/654484/
+  - title: '] Ore to Oba to no Hiya Kana Yokubō'
+    author: shomu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654506.jpg
+    rating: 4.2
+    date: '2026-10-29'
+    code: 654506
+    url: /works/654506/
   - title: Take Everything From You
     author: takotokite
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654587.jpg

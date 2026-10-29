@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "multi-work series"
-work_count: 459
+work_count: 460
 works:
   - title: Konna ni mo Itooshii Zero
     author: nohito
@@ -245,6 +245,14 @@ works:
     date: '2026-05-05'
     code: 419017
     url: /works/419017/
+  - title: 'Zoku Matching Appli de Deatta Aite wa Kaa-san deshita | I Matched Mom on
+      My Dating App: The Sequel'
+    author: kumo-no-ito
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/422128.jpg
+    rating: 0.0
+    date: '2026-10-29'
+    code: 422128
+    url: /works/422128/
   - title: Mama wa SeFri - Boku wa Tomodachi no Okaa-san to Sex o Suru | Fuck-Buddy
       Mom — I have Sex with my Friend's Mom Part 1
     author: goya

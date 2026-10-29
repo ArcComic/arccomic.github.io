@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "deepthroat"
-work_count: 105
+work_count: 106
 works:
   - title: Toshishita Chin Kui Obasan
     author: maccha-neji
@@ -365,6 +365,13 @@ works:
     date: '2026-10-20'
     code: 654174
     url: /works/654174/
+  - title: '] Ore to Oba to no Hiya Kana Yokubō'
+    author: shomu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654506.jpg
+    rating: 4.2
+    date: '2026-10-29'
+    code: 654506
+    url: /works/654506/
   - title: Kyonyuu Geneki JK to Chigyuu Danshi ga Sex Jisshuu de Namahame Tanetsuke
       Koubishi Makuru H
     author: yanachi
