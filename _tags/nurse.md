@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "nurse"
-work_count: 21
+work_count: 22
 works:
   - title: Chibo Soukan Ch.1-3
     author: natsu-no-oyatsu
@@ -142,6 +142,14 @@ works:
     date: '2026-10-18'
     code: 688413
     url: /works/688413/
+  - title: Shikarubeki Keii to Kansha no Nen o - The respect and gratitude that is his
+      due
+    author: adagio
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691562.jpg
+    rating: 4.7
+    date: '2026-10-29'
+    code: 691562
+    url: /works/691562/
   - title: Sperm-Squeezing Clinic Staffed with Total Cumsluts!
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691661.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "translated"
-work_count: 1865
+work_count: 1868
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -5380,6 +5380,14 @@ works:
     date: '2026-09-04'
     code: 625933
     url: /works/625933/
+  - title: Mijika na Ano Ko ga Nuite Kureru Pink Salon EX ~Shiriaigai ga Fella Shite
+      Kureru Cheat Fuuzokuten~
+    author: nyuu-koubou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/625983.jpg
+    rating: 0.0
+    date: '2026-10-29'
+    code: 625983
+    url: /works/625983/
   - title: Gakkou no Joshi o Chuumon Dekiru Denpyou ~Tadashi Seikoui Mokuteki ni Kagiru~
     author: nyuu-koubou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/625984.jpg
@@ -13502,6 +13510,15 @@ works:
     date: '2026-10-20'
     code: 688613
     url: /works/688613/
+  - title: Erokawa YouCha no Amase-san wa InCha Otaku no Boku ni Shika Kyoumi ga Nai
+      | The Sexy-Cute Popular Girl Amase-san Is Only Interested in Me, the Introverted
+      Otaku
+    author: mangetsu-wasabi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688935.jpg
+    rating: 0.0
+    date: '2026-10-29'
+    code: 688935
+    url: /works/688935/
   - title: Himitsu no Goshujin-sama | My Secret Master
     author: ikuba-moku
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/689170.jpg
@@ -13643,6 +13660,14 @@ works:
     date: '2026-10-28'
     code: 691452
     url: /works/691452/
+  - title: Shikarubeki Keii to Kansha no Nen o - The respect and gratitude that is his
+      due
+    author: adagio
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691562.jpg
+    rating: 4.7
+    date: '2026-10-29'
+    code: 691562
+    url: /works/691562/
   - title: The Ex-Delinquent Mom Won't Be Looked Down On
     author: kumo-no-ito
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691620.jpg

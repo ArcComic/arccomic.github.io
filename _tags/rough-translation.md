@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "rough translation"
-work_count: 753
+work_count: 755
 works:
   - title: Boku no Shiranai Kimi no Kao
     author: utsutsu-minoru
@@ -1005,6 +1005,14 @@ works:
     date: '2026-09-30'
     code: 624848
     url: /works/624848/
+  - title: Mijika na Ano Ko ga Nuite Kureru Pink Salon EX ~Shiriaigai ga Fella Shite
+      Kureru Cheat Fuuzokuten~
+    author: nyuu-koubou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/625983.jpg
+    rating: 0.0
+    date: '2026-10-29'
+    code: 625983
+    url: /works/625983/
   - title: Gakkou no Joshi o Chuumon Dekiru Denpyou ~Tadashi Seikoui Mokuteki ni Kagiru~
     author: nyuu-koubou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/625984.jpg
@@ -5394,6 +5402,15 @@ works:
     date: '2026-10-18'
     code: 688604
     url: /works/688604/
+  - title: Erokawa YouCha no Amase-san wa InCha Otaku no Boku ni Shika Kyoumi ga Nai
+      | The Sexy-Cute Popular Girl Amase-san Is Only Interested in Me, the Introverted
+      Otaku
+    author: mangetsu-wasabi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688935.jpg
+    rating: 0.0
+    date: '2026-10-29'
+    code: 688935
+    url: /works/688935/
   - title: A story about how I ended up being in charge of satisfying the sexual desires
       of the female students at my new school.
     author: sakurayu-hal

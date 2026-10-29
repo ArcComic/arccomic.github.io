@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bbm"
-work_count: 138
+work_count: 139
 works:
   - title: Kindan no Hatemitsu
     author: ryuuta
@@ -459,6 +459,14 @@ works:
     date: '2026-09-30'
     code: 624848
     url: /works/624848/
+  - title: Mijika na Ano Ko ga Nuite Kureru Pink Salon EX ~Shiriaigai ga Fella Shite
+      Kureru Cheat Fuuzokuten~
+    author: nyuu-koubou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/625983.jpg
+    rating: 0.0
+    date: '2026-10-29'
+    code: 625983
+    url: /works/625983/
   - title: Gakkou no Joshi o Chuumon Dekiru Denpyou ~Tadashi Seikoui Mokuteki ni Kagiru~
     author: nyuu-koubou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/625984.jpg

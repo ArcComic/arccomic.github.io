@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "focus blowjob"
-work_count: 8
+work_count: 9
 works:
   - title: Toilet no Jimiko-san
     author: darezuka
@@ -24,6 +24,14 @@ works:
     date: '2026-04-14'
     code: 616170
     url: /works/616170/
+  - title: Mijika na Ano Ko ga Nuite Kureru Pink Salon EX ~Shiriaigai ga Fella Shite
+      Kureru Cheat Fuuzokuten~
+    author: nyuu-koubou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/625983.jpg
+    rating: 0.0
+    date: '2026-10-29'
+    code: 625983
+    url: /works/625983/
   - title: A tsundere girl who loves dick cheese and speaks Kansai dialect
     author: yuuki-fuumi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/630901.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "lolicon"
-work_count: 97
+work_count: 98
 works:
   - title: A-part | Apartment
     author: zero-no-mono
@@ -184,6 +184,14 @@ works:
     date: '2026-09-09'
     code: 620889
     url: /works/620889/
+  - title: Mijika na Ano Ko ga Nuite Kureru Pink Salon EX ~Shiriaigai ga Fella Shite
+      Kureru Cheat Fuuzokuten~
+    author: nyuu-koubou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/625983.jpg
+    rating: 0.0
+    date: '2026-10-29'
+    code: 625983
+    url: /works/625983/
   - title: Hotai no Jikan ~Minna no Mae de Sensei to xxx o Shimasu~
     author: mochizaki-panko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/634185.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "virginity"
-work_count: 172
+work_count: 173
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -1279,4 +1279,13 @@ works:
     date: '2026-10-20'
     code: 688612
     url: /works/688612/
+  - title: Erokawa YouCha no Amase-san wa InCha Otaku no Boku ni Shika Kyoumi ga Nai
+      | The Sexy-Cute Popular Girl Amase-san Is Only Interested in Me, the Introverted
+      Otaku
+    author: mangetsu-wasabi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688935.jpg
+    rating: 0.0
+    date: '2026-10-29'
+    code: 688935
+    url: /works/688935/
 ---

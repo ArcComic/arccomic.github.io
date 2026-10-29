@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "glasses"
-work_count: 314
+work_count: 316
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -933,6 +933,14 @@ works:
     date: '2026-10-07'
     code: 621733
     url: /works/621733/
+  - title: Mijika na Ano Ko ga Nuite Kureru Pink Salon EX ~Shiriaigai ga Fella Shite
+      Kureru Cheat Fuuzokuten~
+    author: nyuu-koubou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/625983.jpg
+    rating: 0.0
+    date: '2026-10-29'
+    code: 625983
+    url: /works/625983/
   - title: Hikikomori Kyousei Shisetsu Hakutou no Ie
     author: shine-nabyss
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/626220.jpg
@@ -2259,6 +2267,15 @@ works:
     date: '2026-10-18'
     code: 688607
     url: /works/688607/
+  - title: Erokawa YouCha no Amase-san wa InCha Otaku no Boku ni Shika Kyoumi ga Nai
+      | The Sexy-Cute Popular Girl Amase-san Is Only Interested in Me, the Introverted
+      Otaku
+    author: mangetsu-wasabi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688935.jpg
+    rating: 0.0
+    date: '2026-10-29'
+    code: 688935
+    url: /works/688935/
   - title: Coin Laundry Edition
     author: aino
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690340.jpg
