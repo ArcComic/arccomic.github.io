@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "scanmark"
-work_count: 262
+work_count: 263
 works:
   - title: NTR Anniversary + ) [Syukurin] Mitsuha ~Netorare~ (Kimi no Na wa.) [English]
       [Colorized] by Mikaku
@@ -117,7 +117,7 @@ works:
   - title: Charao ga Shiteru Tokoro o Mite Shimatta Boku no Kanojo
     author: furaimai
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/618561.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-28'
     code: 618561
     url: /works/618561/
@@ -1753,10 +1753,18 @@ works:
       — ‘The Guild Staff Member I’m Curious About’ Arc
     author: matoi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687515.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-10-28'
     code: 687515
     url: /works/687515/
+  - title: Yokkyuufuman no Onna Kishi wa Otouto no Skill de Ikimakuru | The Frustrated
+      Female Knight Climaxes Non-Stop Using Her Younger Brother's Skill
+    author: matoi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687516.jpg
+    rating: 0.0
+    date: '2026-10-29'
+    code: 687516
+    url: /works/687516/
   - title: Joukyou Share House ~Kanojo to Osananajimi to Shiranai Yatsu~ | MY GIRLFRIEND,
       MY CHILDHOOD FRIEND, AND A GUY I DON'T KNOW
     author: j-no-kakusei
@@ -1842,7 +1850,7 @@ works:
   - title: Coin Laundry Edition
     author: aino
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690340.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-10-28'
     code: 690340
     url: /works/690340/
@@ -1887,14 +1895,14 @@ works:
   - title: Kanojo no Mama wa Mamakatsu no Mama datta.
     author: taniguchi-daisuke
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690945.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-10-28'
     code: 690945
     url: /works/690945/
   - title: Kyouraku Moumoku Weekend
     author: mudoochi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691452.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-10-28'
     code: 691452
     url: /works/691452/

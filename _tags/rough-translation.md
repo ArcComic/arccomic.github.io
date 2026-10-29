@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "rough translation"
-work_count: 752
+work_count: 753
 works:
   - title: Boku no Shiranai Kimi no Kao
     author: utsutsu-minoru
@@ -922,7 +922,7 @@ works:
   - title: Charao ga Shiteru Tokoro o Mite Shimatta Boku no Kanojo
     author: furaimai
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/618561.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-28'
     code: 618561
     url: /works/618561/
@@ -5197,10 +5197,18 @@ works:
       — ‘The Guild Staff Member I’m Curious About’ Arc
     author: matoi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687515.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-10-28'
     code: 687515
     url: /works/687515/
+  - title: Yokkyuufuman no Onna Kishi wa Otouto no Skill de Ikimakuru | The Frustrated
+      Female Knight Climaxes Non-Stop Using Her Younger Brother's Skill
+    author: matoi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687516.jpg
+    rating: 0.0
+    date: '2026-10-29'
+    code: 687516
+    url: /works/687516/
   - title: Joukyou Share House ~Kanojo to Osananajimi to Shiranai Yatsu~ | MY GIRLFRIEND,
       MY CHILDHOOD FRIEND, AND A GUY I DON'T KNOW
     author: j-no-kakusei
@@ -5397,7 +5405,7 @@ works:
   - title: Coin Laundry Edition
     author: aino
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690340.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-10-28'
     code: 690340
     url: /works/690340/
@@ -5464,7 +5472,7 @@ works:
   - title: Kanojo no Mama wa Mamakatsu no Mama datta.
     author: taniguchi-daisuke
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690945.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-10-28'
     code: 690945
     url: /works/690945/
@@ -5472,21 +5480,21 @@ works:
       life with an app that auto-generates erotic scenarios.
     author: mangetsu-wasabi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691387.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-10-28'
     code: 691387
     url: /works/691387/
   - title: Kyouraku Moumoku Weekend
     author: mudoochi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691452.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-10-28'
     code: 691452
     url: /works/691452/
   - title: The Ex-Delinquent Mom Won't Be Looked Down On
     author: kumo-no-ito
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691620.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-28'
     code: 691620
     url: /works/691620/
@@ -5494,7 +5502,7 @@ works:
       International Student Is Way Too Easy to Get Laid, lol
     author: misaki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691635.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-10-28'
     code: 691635
     url: /works/691635/
@@ -5502,7 +5510,7 @@ works:
       Mother, Part 2
     author: nusmusbim
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691636.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-10-28'
     code: 691636
     url: /works/691636/

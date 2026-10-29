@@ -1757,14 +1757,14 @@ works:
   - title: inuhoozuki no Otokonoko
     author: hokuro-ryuseigun
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691400.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-28'
     code: 691400
     url: /works/691400/
   - title: The Fox God Who Knows Not of Love | Kitsune Kami-sama wa Ai o Shiranai
     author: shinozuka
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691624.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-28'
     code: 691624
     url: /works/691624/
@@ -1772,7 +1772,7 @@ works:
       Mother, Part 2
     author: nusmusbim
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691636.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-10-28'
     code: 691636
     url: /works/691636/

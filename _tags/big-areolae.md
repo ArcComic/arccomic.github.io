@@ -923,7 +923,7 @@ works:
   - title: Kanojo no Mama wa Mamakatsu no Mama datta.
     author: taniguchi-daisuke
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690945.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-10-28'
     code: 690945
     url: /works/690945/
@@ -931,7 +931,7 @@ works:
       International Student Is Way Too Easy to Get Laid, lol
     author: misaki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691635.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-10-28'
     code: 691635
     url: /works/691635/
@@ -939,7 +939,7 @@ works:
       Mother, Part 2
     author: nusmusbim
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691636.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-10-28'
     code: 691636
     url: /works/691636/

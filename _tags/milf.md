@@ -3720,14 +3720,14 @@ works:
   - title: Kanojo no Mama wa Mamakatsu no Mama datta.
     author: taniguchi-daisuke
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690945.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-10-28'
     code: 690945
     url: /works/690945/
   - title: The Ex-Delinquent Mom Won't Be Looked Down On
     author: kumo-no-ito
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691620.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-28'
     code: 691620
     url: /works/691620/
@@ -3735,14 +3735,14 @@ works:
       Mother, Part 2
     author: nusmusbim
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691636.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-10-28'
     code: 691636
     url: /works/691636/
   - title: Kyou kara, Hitozuma Mansion ni Nyuukyo shimasu - CHAPTER 1-15
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691671.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-10-28'
     code: 691671
     url: /works/691671/

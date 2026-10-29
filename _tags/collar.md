@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "collar"
-work_count: 109
+work_count: 110
 works:
   - title: Kaisha de Iroiro | Gettin' Busy at the Office
     author: hara-shigeyuki
@@ -784,6 +784,13 @@ works:
     date: '2026-10-18'
     code: 688593
     url: /works/688593/
+  - title: Himitsu no Goshujin-sama | My Secret Master
+    author: ikuba-moku
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/689170.jpg
+    rating: 0.0
+    date: '2026-10-29'
+    code: 689170
+    url: /works/689170/
   - title: Otaku-kun ni mo Yarasete kureru Yowayowa Chikubi no Kyonyuu Gal Sudou-san
       | Sudou-san the Busty Gyaru with Weak Nipples Who Lets Even an Otaku Do It
     author: shishamon
@@ -802,14 +809,14 @@ works:
   - title: Asuna OVERLOAD OVERCOME
     author: akashiro-kiiro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691660.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-10-28'
     code: 691660
     url: /works/691660/
   - title: Spiral
     author: laliberte
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691662.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-28'
     code: 691662
     url: /works/691662/

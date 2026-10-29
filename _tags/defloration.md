@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "defloration"
-work_count: 275
+work_count: 276
 works:
   - title: Imitation Family + Bigibo Hen
     author: tohzai
@@ -871,7 +871,7 @@ works:
   - title: Charao ga Shiteru Tokoro o Mite Shimatta Boku no Kanojo
     author: furaimai
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/618561.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-28'
     code: 618561
     url: /works/618561/
@@ -2030,10 +2030,17 @@ works:
     date: '2026-10-18'
     code: 688593
     url: /works/688593/
+  - title: Himitsu no Goshujin-sama | My Secret Master
+    author: ikuba-moku
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/689170.jpg
+    rating: 0.0
+    date: '2026-10-29'
+    code: 689170
+    url: /works/689170/
   - title: Asuna OVERLOAD OVERCOME
     author: akashiro-kiiro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691660.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-10-28'
     code: 691660
     url: /works/691660/

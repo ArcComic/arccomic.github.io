@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole female"
-work_count: 1136
+work_count: 1138
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -8067,10 +8067,18 @@ works:
       — ‘The Guild Staff Member I’m Curious About’ Arc
     author: matoi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687515.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-10-28'
     code: 687515
     url: /works/687515/
+  - title: Yokkyuufuman no Onna Kishi wa Otouto no Skill de Ikimakuru | The Frustrated
+      Female Knight Climaxes Non-Stop Using Her Younger Brother's Skill
+    author: matoi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687516.jpg
+    rating: 0.0
+    date: '2026-10-29'
+    code: 687516
+    url: /works/687516/
   - title: Riho-chan Kashidashi Surutte Yo
     author: j-no-kakusei
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687556.jpg
@@ -8298,10 +8306,17 @@ works:
     date: '2026-10-20'
     code: 688613
     url: /works/688613/
+  - title: Himitsu no Goshujin-sama | My Secret Master
+    author: ikuba-moku
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/689170.jpg
+    rating: 0.0
+    date: '2026-10-29'
+    code: 689170
+    url: /works/689170/
   - title: Coin Laundry Edition
     author: aino
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690340.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-10-28'
     code: 690340
     url: /works/690340/
@@ -8354,28 +8369,28 @@ works:
       ~Hot Spring Travel Stories (3)~
     author: mizuryu-kei
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691374.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-10-28'
     code: 691374
     url: /works/691374/
   - title: inuhoozuki no Otokonoko
     author: hokuro-ryuseigun
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691400.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-28'
     code: 691400
     url: /works/691400/
   - title: Kyouraku Moumoku Weekend
     author: mudoochi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691452.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-10-28'
     code: 691452
     url: /works/691452/
   - title: The Fox God Who Knows Not of Love | Kitsune Kami-sama wa Ai o Shiranai
     author: shinozuka
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691624.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-28'
     code: 691624
     url: /works/691624/
@@ -8383,7 +8398,7 @@ works:
       International Student Is Way Too Easy to Get Laid, lol
     author: misaki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691635.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-10-28'
     code: 691635
     url: /works/691635/
@@ -8391,21 +8406,21 @@ works:
       Mother, Part 2
     author: nusmusbim
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691636.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-10-28'
     code: 691636
     url: /works/691636/
   - title: FUCK MATCH ~Haiboku! Takane no Manko~
     author: nakajima-uota
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691651.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-10-28'
     code: 691651
     url: /works/691651/
   - title: Asuna OVERLOAD OVERCOME
     author: akashiro-kiiro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691660.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-10-28'
     code: 691660
     url: /works/691660/

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "reverse netorare"
-work_count: 25
+work_count: 26
 works:
   - title: Hajimete Kanojo Ga Dekita No Ni
     author: unknown
@@ -196,4 +196,11 @@ works:
     date: '2026-08-29'
     code: 676320
     url: /works/676320/
+  - title: Kanojo no Mama wa Mamakatsu no Mama datta.
+    author: taniguchi-daisuke
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690945.jpg
+    rating: 5.0
+    date: '2026-10-28'
+    code: 690945
+    url: /works/690945/
 ---

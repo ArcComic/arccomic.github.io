@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "business suit"
-work_count: 101
+work_count: 102
 works:
   - title: MAGIC SEVEN
     author: asuhiro
@@ -722,6 +722,13 @@ works:
     date: '2026-10-18'
     code: 688459
     url: /works/688459/
+  - title: Himitsu no Goshujin-sama | My Secret Master
+    author: ikuba-moku
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/689170.jpg
+    rating: 0.0
+    date: '2026-10-29'
+    code: 689170
+    url: /works/689170/
   - title: Jimi-tsuma-san to Gyaru-tsuma-san, Hitozuma Tetsudou Nobori-iki
     author: nezumi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690851.jpg

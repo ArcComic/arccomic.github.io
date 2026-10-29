@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "kemonomimi"
-work_count: 46
+work_count: 47
 works:
   - title: CHOCO x LOVE
     author: highlow
@@ -335,10 +335,17 @@ works:
     date: '2026-10-17'
     code: 688293
     url: /works/688293/
+  - title: Himitsu no Goshujin-sama | My Secret Master
+    author: ikuba-moku
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/689170.jpg
+    rating: 0.0
+    date: '2026-10-29'
+    code: 689170
+    url: /works/689170/
   - title: The Fox God Who Knows Not of Love | Kitsune Kami-sama wa Ai o Shiranai
     author: shinozuka
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691624.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-28'
     code: 691624
     url: /works/691624/

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "smell"
-work_count: 34
+work_count: 33
 works:
   - title: Natsu Jiru Ch. 1-2
     author: sena-youtarou
@@ -239,17 +239,10 @@ works:
     date: '2026-10-26'
     code: 690875
     url: /works/690875/
-  - title: Kanojo no Mama wa Mamakatsu no Mama datta.
-    author: taniguchi-daisuke
-    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690945.jpg
-    rating: 0.0
-    date: '2026-10-28'
-    code: 690945
-    url: /works/690945/
   - title: Spiral
     author: laliberte
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691662.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-28'
     code: 691662
     url: /works/691662/

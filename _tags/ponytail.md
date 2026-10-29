@@ -1447,14 +1447,14 @@ works:
       life with an app that auto-generates erotic scenarios.
     author: mangetsu-wasabi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691387.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-10-28'
     code: 691387
     url: /works/691387/
   - title: The Fox God Who Knows Not of Love | Kitsune Kami-sama wa Ai o Shiranai
     author: shinozuka
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691624.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-28'
     code: 691624
     url: /works/691624/
@@ -1462,21 +1462,21 @@ works:
       Mother, Part 2
     author: nusmusbim
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691636.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-10-28'
     code: 691636
     url: /works/691636/
   - title: Sperm-Squeezing Clinic Staffed with Total Cumsluts!
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691661.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-10-28'
     code: 691661
     url: /works/691661/
   - title: Spiral
     author: laliberte
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691662.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-28'
     code: 691662
     url: /works/691662/

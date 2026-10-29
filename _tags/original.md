@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "original"
-work_count: 1279
+work_count: 1280
 works:
   - title: Natsu dake Koibito - Summer only Lover [English] =Forbidden Fetish + Ser
       Maggot=
@@ -395,7 +395,7 @@ works:
   - title: meido no michi ni ou ha nashi | Maids Could Never Be Queens
     author: kawauchi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/377019.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-10-28'
     code: 377019
     url: /works/377019/
@@ -916,7 +916,7 @@ works:
   - title: Mild Hentai NANA
     author: zensoku-punks
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/459087.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-10-28'
     code: 459087
     url: /works/459087/
@@ -3234,7 +3234,7 @@ works:
   - title: Charao ga Shiteru Tokoro o Mite Shimatta Boku no Kanojo
     author: furaimai
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/618561.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-28'
     code: 618561
     url: /works/618561/
@@ -9088,10 +9088,18 @@ works:
       — ‘The Guild Staff Member I’m Curious About’ Arc
     author: matoi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687515.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-10-28'
     code: 687515
     url: /works/687515/
+  - title: Yokkyuufuman no Onna Kishi wa Otouto no Skill de Ikimakuru | The Frustrated
+      Female Knight Climaxes Non-Stop Using Her Younger Brother's Skill
+    author: matoi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687516.jpg
+    rating: 0.0
+    date: '2026-10-29'
+    code: 687516
+    url: /works/687516/
   - title: Joukyou Share House ~Kanojo to Osananajimi to Shiranai Yatsu~ | MY GIRLFRIEND,
       MY CHILDHOOD FRIEND, AND A GUY I DON'T KNOW
     author: j-no-kakusei
@@ -9392,7 +9400,7 @@ works:
   - title: Coin Laundry Edition
     author: aino
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690340.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-10-28'
     code: 690340
     url: /works/690340/
@@ -9467,7 +9475,7 @@ works:
   - title: Kanojo no Mama wa Mamakatsu no Mama datta.
     author: taniguchi-daisuke
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690945.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-10-28'
     code: 690945
     url: /works/690945/
@@ -9475,21 +9483,21 @@ works:
       life with an app that auto-generates erotic scenarios.
     author: mangetsu-wasabi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691387.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-10-28'
     code: 691387
     url: /works/691387/
   - title: inuhoozuki no Otokonoko
     author: hokuro-ryuseigun
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691400.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-28'
     code: 691400
     url: /works/691400/
   - title: The Ex-Delinquent Mom Won't Be Looked Down On
     author: kumo-no-ito
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691620.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-28'
     code: 691620
     url: /works/691620/
@@ -9497,7 +9505,7 @@ works:
       International Student Is Way Too Easy to Get Laid, lol
     author: misaki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691635.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-10-28'
     code: 691635
     url: /works/691635/
@@ -9505,21 +9513,21 @@ works:
       Mother, Part 2
     author: nusmusbim
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691636.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-10-28'
     code: 691636
     url: /works/691636/
   - title: Sperm-Squeezing Clinic Staffed with Total Cumsluts!
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691661.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-10-28'
     code: 691661
     url: /works/691661/
   - title: Spiral
     author: laliberte
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691662.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-28'
     code: 691662
     url: /works/691662/

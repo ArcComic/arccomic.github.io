@@ -483,7 +483,7 @@ works:
   - title: Mild Hentai NANA
     author: zensoku-punks
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/459087.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-10-28'
     code: 459087
     url: /works/459087/
@@ -2613,10 +2613,17 @@ works:
     date: '2026-10-20'
     code: 688612
     url: /works/688612/
+  - title: Himitsu no Goshujin-sama | My Secret Master
+    author: ikuba-moku
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/689170.jpg
+    rating: 0.0
+    date: '2026-10-29'
+    code: 689170
+    url: /works/689170/
   - title: Coin Laundry Edition
     author: aino
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690340.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-10-28'
     code: 690340
     url: /works/690340/
@@ -2643,25 +2650,18 @@ works:
     date: '2026-10-26'
     code: 690851
     url: /works/690851/
-  - title: Kanojo no Mama wa Mamakatsu no Mama datta.
-    author: taniguchi-daisuke
-    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690945.jpg
-    rating: 0.0
-    date: '2026-10-28'
-    code: 690945
-    url: /works/690945/
   - title: Boku no Seishun wa Inaka no Okaa-san Datta Ni | My Sexual Youth Was the Country
       Mother, Part 2
     author: nusmusbim
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691636.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-10-28'
     code: 691636
     url: /works/691636/
   - title: Sperm-Squeezing Clinic Staffed with Total Cumsluts!
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691661.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-10-28'
     code: 691661
     url: /works/691661/

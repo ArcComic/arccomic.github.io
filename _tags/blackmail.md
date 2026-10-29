@@ -499,7 +499,7 @@ works:
   - title: Charao ga Shiteru Tokoro o Mite Shimatta Boku no Kanojo
     author: furaimai
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/618561.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-28'
     code: 618561
     url: /works/618561/
@@ -1213,7 +1213,7 @@ works:
       International Student Is Way Too Easy to Get Laid, lol
     author: misaki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691635.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-10-28'
     code: 691635
     url: /works/691635/

@@ -13,7 +13,7 @@ works:
   - title: meido no michi ni ou ha nashi | Maids Could Never Be Queens
     author: kawauchi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/377019.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-10-28'
     code: 377019
     url: /works/377019/

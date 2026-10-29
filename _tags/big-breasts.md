@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big breasts"
-work_count: 1295
+work_count: 1297
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -9161,10 +9161,18 @@ works:
       — ‘The Guild Staff Member I’m Curious About’ Arc
     author: matoi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687515.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-10-28'
     code: 687515
     url: /works/687515/
+  - title: Yokkyuufuman no Onna Kishi wa Otouto no Skill de Ikimakuru | The Frustrated
+      Female Knight Climaxes Non-Stop Using Her Younger Brother's Skill
+    author: matoi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687516.jpg
+    rating: 0.0
+    date: '2026-10-29'
+    code: 687516
+    url: /works/687516/
   - title: Joukyou Share House ~Kanojo to Osananajimi to Shiranai Yatsu~ | MY GIRLFRIEND,
       MY CHILDHOOD FRIEND, AND A GUY I DON'T KNOW
     author: j-no-kakusei
@@ -9429,6 +9437,13 @@ works:
     date: '2026-10-20'
     code: 688613
     url: /works/688613/
+  - title: Himitsu no Goshujin-sama | My Secret Master
+    author: ikuba-moku
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/689170.jpg
+    rating: 0.0
+    date: '2026-10-29'
+    code: 689170
+    url: /works/689170/
   - title: A story about how I ended up being in charge of satisfying the sexual desires
       of the female students at my new school.
     author: sakurayu-hal
@@ -9501,7 +9516,7 @@ works:
   - title: Kanojo no Mama wa Mamakatsu no Mama datta.
     author: taniguchi-daisuke
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690945.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-10-28'
     code: 690945
     url: /works/690945/
@@ -9509,7 +9524,7 @@ works:
       ~Hot Spring Travel Stories (3)~
     author: mizuryu-kei
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691374.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-10-28'
     code: 691374
     url: /works/691374/
@@ -9517,14 +9532,14 @@ works:
       life with an app that auto-generates erotic scenarios.
     author: mangetsu-wasabi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691387.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-10-28'
     code: 691387
     url: /works/691387/
   - title: The Fox God Who Knows Not of Love | Kitsune Kami-sama wa Ai o Shiranai
     author: shinozuka
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691624.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-28'
     code: 691624
     url: /works/691624/
@@ -9532,7 +9547,7 @@ works:
       International Student Is Way Too Easy to Get Laid, lol
     author: misaki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691635.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-10-28'
     code: 691635
     url: /works/691635/
@@ -9540,42 +9555,42 @@ works:
       Mother, Part 2
     author: nusmusbim
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691636.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-10-28'
     code: 691636
     url: /works/691636/
   - title: FUCK MATCH ~Haiboku! Takane no Manko~
     author: nakajima-uota
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691651.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-10-28'
     code: 691651
     url: /works/691651/
   - title: Asuna OVERLOAD OVERCOME
     author: akashiro-kiiro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691660.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-10-28'
     code: 691660
     url: /works/691660/
   - title: Sperm-Squeezing Clinic Staffed with Total Cumsluts!
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691661.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-10-28'
     code: 691661
     url: /works/691661/
   - title: Spiral
     author: laliberte
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691662.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-28'
     code: 691662
     url: /works/691662/
   - title: Kyou kara, Hitozuma Mansion ni Nyuukyo shimasu - CHAPTER 1-15
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691671.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-10-28'
     code: 691671
     url: /works/691671/

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "manga"
-work_count: 420
+work_count: 421
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -2957,6 +2957,13 @@ works:
     date: '2026-10-20'
     code: 688612
     url: /works/688612/
+  - title: Himitsu no Goshujin-sama | My Secret Master
+    author: ikuba-moku
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/689170.jpg
+    rating: 0.0
+    date: '2026-10-29'
+    code: 689170
+    url: /works/689170/
   - title: Seidaku Awasenomu Innocent Prey Ch.6-8
     author: carn
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690825.jpg
@@ -2968,35 +2975,35 @@ works:
       ~Hot Spring Travel Stories (3)~
     author: mizuryu-kei
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691374.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-10-28'
     code: 691374
     url: /works/691374/
   - title: Kyouraku Moumoku Weekend
     author: mudoochi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691452.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-10-28'
     code: 691452
     url: /works/691452/
   - title: The Fox God Who Knows Not of Love | Kitsune Kami-sama wa Ai o Shiranai
     author: shinozuka
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691624.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-28'
     code: 691624
     url: /works/691624/
   - title: FUCK MATCH ~Haiboku! Takane no Manko~
     author: nakajima-uota
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691651.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-10-28'
     code: 691651
     url: /works/691651/
   - title: Kyou kara, Hitozuma Mansion ni Nyuukyo shimasu - CHAPTER 1-15
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691671.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-10-28'
     code: 691671
     url: /works/691671/
