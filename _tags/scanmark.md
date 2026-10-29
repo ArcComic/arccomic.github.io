@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "scanmark"
-work_count: 268
+work_count: 269
 works:
   - title: NTR Anniversary + ) [Syukurin] Mitsuha ~Netorare~ (Kimi no Na wa.) [English]
       [Colorized] by Mikaku
@@ -1928,6 +1928,14 @@ works:
     date: '2026-10-28'
     code: 690945
     url: /works/690945/
+  - title: Saimin Appli de Iinari Ningyou ni Sareta Seisou na Hitozuma ~Miho~ | PURE
+      HOUSEWIFE TURNED INTO AN OBEDIENT DOLL WITH A HYPNOSIS APP ~MIHO~
+    author: pairesshu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691440.jpg
+    rating: 0.0
+    date: '2026-10-29'
+    code: 691440
+    url: /works/691440/
   - title: Kyouraku Moumoku Weekend
     author: mudoochi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691452.jpg

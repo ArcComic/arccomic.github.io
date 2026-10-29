@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "kissing"
-work_count: 455
+work_count: 456
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -2319,6 +2319,14 @@ works:
     date: '2026-08-28'
     code: 668605
     url: /works/668605/
+  - title: Kanojo no Mama mo Sex Friend ni shita Hanashi! | How I Ended Up Sleeping
+      with My Girlfriend's Mom
+    author: taniguchi-daisuke
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/669135.jpg
+    rating: 0.0
+    date: '2026-10-29'
+    code: 669135
+    url: /works/669135/
   - title: Azanaharu Kanojo no Shikiroku | Color Records of a Girlfriend in Entanglement
     author: allegro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/669452.jpg

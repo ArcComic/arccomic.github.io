@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole male"
-work_count: 1083
+work_count: 1085
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -5353,6 +5353,13 @@ works:
     date: '2026-07-09'
     code: 662525
     url: /works/662525/
+  - title: Kuro Gal Bijo Kanrinin-san (35) Nama-nakadashi futatabi!
+    author: ponsuke
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662715.jpg
+    rating: 0.0
+    date: '2026-10-29'
+    code: 662715
+    url: /works/662715/
   - title: Joukyou, Saikai, Sex Akogare no Haru-nee
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662871.jpg
@@ -5709,6 +5716,14 @@ works:
     date: '2026-08-19'
     code: 668867
     url: /works/668867/
+  - title: Kanojo no Mama mo Sex Friend ni shita Hanashi! | How I Ended Up Sleeping
+      with My Girlfriend's Mom
+    author: taniguchi-daisuke
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/669135.jpg
+    rating: 0.0
+    date: '2026-10-29'
+    code: 669135
+    url: /works/669135/
   - title: Totsuzen Ane ga Dekita Hanashi 4 | The Story of How I Suddenly Got Older
       Sisters 4
     author: oshima-aki

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "oyakodon"
-work_count: 37
+work_count: 38
 works:
   - title: Akarui Kazoku Seikatsu
     author: pistonring-nishizawa
@@ -126,6 +126,14 @@ works:
     date: '2026-07-07'
     code: 661909
     url: /works/661909/
+  - title: Kanojo no Mama mo Sex Friend ni shita Hanashi! | How I Ended Up Sleeping
+      with My Girlfriend's Mom
+    author: taniguchi-daisuke
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/669135.jpg
+    rating: 0.0
+    date: '2026-10-29'
+    code: 669135
+    url: /works/669135/
   - title: Itoko to Oba to Kinshin Haramase Vacance ~Haitoku no Oyako Double Ninshin~
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673215.jpg

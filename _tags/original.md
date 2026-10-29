@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "original"
-work_count: 1289
+work_count: 1292
 works:
   - title: Natsu dake Koibito - Summer only Lover [English] =Forbidden Fetish + Ser
       Maggot=
@@ -5947,6 +5947,13 @@ works:
     date: '2026-09-19'
     code: 662706
     url: /works/662706/
+  - title: Kuro Gal Bijo Kanrinin-san (35) Nama-nakadashi futatabi!
+    author: ponsuke
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662715.jpg
+    rating: 0.0
+    date: '2026-10-29'
+    code: 662715
+    url: /works/662715/
   - title: Zecchou Kenchi Appli ~Nariyamanai Netorare Tsuuchi~
     author: sora-paprika
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662766.jpg
@@ -6401,6 +6408,14 @@ works:
     date: '2026-08-23'
     code: 668880
     url: /works/668880/
+  - title: Kanojo no Mama mo Sex Friend ni shita Hanashi! | How I Ended Up Sleeping
+      with My Girlfriend's Mom
+    author: taniguchi-daisuke
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/669135.jpg
+    rating: 0.0
+    date: '2026-10-29'
+    code: 669135
+    url: /works/669135/
   - title: Azanaharu Kanojo no Shikiroku | Color Records of a Girlfriend in Entanglement
     author: allegro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/669452.jpg
@@ -9562,6 +9577,14 @@ works:
     date: '2026-10-28'
     code: 691400
     url: /works/691400/
+  - title: Saimin Appli de Iinari Ningyou ni Sareta Seisou na Hitozuma ~Miho~ | PURE
+      HOUSEWIFE TURNED INTO AN OBEDIENT DOLL WITH A HYPNOSIS APP ~MIHO~
+    author: pairesshu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691440.jpg
+    rating: 0.0
+    date: '2026-10-29'
+    code: 691440
+    url: /works/691440/
   - title: The Ex-Delinquent Mom Won't Be Looked Down On
     author: kumo-no-ito
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691620.jpg

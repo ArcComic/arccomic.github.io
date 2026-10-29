@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "english"
-work_count: 1933
+work_count: 1936
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -8847,6 +8847,13 @@ works:
     date: '2026-09-19'
     code: 662706
     url: /works/662706/
+  - title: Kuro Gal Bijo Kanrinin-san (35) Nama-nakadashi futatabi!
+    author: ponsuke
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662715.jpg
+    rating: 0.0
+    date: '2026-10-29'
+    code: 662715
+    url: /works/662715/
   - title: Tonikaku Sex ga Shitai Oba-san, Ryouko | Auntie Ryouko Wants to Have Sex
       Everyday
     author: mokuzou
@@ -9580,6 +9587,14 @@ works:
     date: '2026-08-23'
     code: 668880
     url: /works/668880/
+  - title: Kanojo no Mama mo Sex Friend ni shita Hanashi! | How I Ended Up Sleeping
+      with My Girlfriend's Mom
+    author: taniguchi-daisuke
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/669135.jpg
+    rating: 0.0
+    date: '2026-10-29'
+    code: 669135
+    url: /works/669135/
   - title: My GF (ghost friend) caught me jerking off and now she's bouncing on it CRAZY
       STYLE
     author: ricegnat
@@ -14109,6 +14124,14 @@ works:
     date: '2026-10-28'
     code: 691400
     url: /works/691400/
+  - title: Saimin Appli de Iinari Ningyou ni Sareta Seisou na Hitozuma ~Miho~ | PURE
+      HOUSEWIFE TURNED INTO AN OBEDIENT DOLL WITH A HYPNOSIS APP ~MIHO~
+    author: pairesshu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691440.jpg
+    rating: 0.0
+    date: '2026-10-29'
+    code: 691440
+    url: /works/691440/
   - title: Kyouraku Moumoku Weekend
     author: mudoochi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691452.jpg

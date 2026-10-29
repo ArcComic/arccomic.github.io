@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "dark skinned female"
-work_count: 47
+work_count: 48
 works:
   - title: Hyouri no Omoi | Double-Sided Love
     author: suruga-kuroitsu
@@ -267,6 +267,13 @@ works:
     date: '2026-07-09'
     code: 662525
     url: /works/662525/
+  - title: Kuro Gal Bijo Kanrinin-san (35) Nama-nakadashi futatabi!
+    author: ponsuke
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662715.jpg
+    rating: 0.0
+    date: '2026-10-29'
+    code: 662715
+    url: /works/662715/
   - title: Choukyou Inroku Ni ~Kunoichi Hiiragi no Junan~
     author: carpsukidayo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/663482.jpg

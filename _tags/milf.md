@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "milf"
-work_count: 517
+work_count: 519
 works:
   - title: Life with Married Women Just Like a Manga 2 - Ch. 1-5
     author: hidemaru
@@ -2626,6 +2626,13 @@ works:
     date: '2026-07-09'
     code: 662658
     url: /works/662658/
+  - title: Kuro Gal Bijo Kanrinin-san (35) Nama-nakadashi futatabi!
+    author: ponsuke
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662715.jpg
+    rating: 0.0
+    date: '2026-10-29'
+    code: 662715
+    url: /works/662715/
   - title: Tonikaku Sex ga Shitai Oba-san, Ryouko | Auntie Ryouko Wants to Have Sex
       Everyday
     author: mokuzou
@@ -2809,6 +2816,14 @@ works:
     date: '2026-08-23'
     code: 668880
     url: /works/668880/
+  - title: Kanojo no Mama mo Sex Friend ni shita Hanashi! | How I Ended Up Sleeping
+      with My Girlfriend's Mom
+    author: taniguchi-daisuke
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/669135.jpg
+    rating: 0.0
+    date: '2026-10-29'
+    code: 669135
+    url: /works/669135/
   - title: Mothers are Women Too! 6
     author: siberian-hahasky
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/669744.jpg

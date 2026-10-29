@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "femsub"
-work_count: 36
+work_count: 37
 works:
   - title: Kanojo no Amai Jiraishuu
     author: jirou
@@ -168,6 +168,14 @@ works:
     date: '2026-07-15'
     code: 664188
     url: /works/664188/
+  - title: Kanojo no Mama mo Sex Friend ni shita Hanashi! | How I Ended Up Sleeping
+      with My Girlfriend's Mom
+    author: taniguchi-daisuke
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/669135.jpg
+    rating: 0.0
+    date: '2026-10-29'
+    code: 669135
+    url: /works/669135/
   - title: Totsuzen Ane ga Dekita Hanashi 4 | The Story of How I Suddenly Got Older
       Sisters 4
     author: oshima-aki
