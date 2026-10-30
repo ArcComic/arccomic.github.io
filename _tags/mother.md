@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "mother"
-work_count: 199
+work_count: 200
 works:
   - title: Imitation Family + Bigibo Hen
     author: tohzai
@@ -179,6 +179,13 @@ works:
     date: '2026-04-13'
     code: 458903
     url: /works/458903/
+  - title: Okaa-san ni Butsukenasai | Pounding Mom
+    author: kumo-no-ito
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/459857.jpg
+    rating: 4.4
+    date: '2026-10-30'
+    code: 459857
+    url: /works/459857/
   - title: Musuko o Dokusen Suru Haha | The mother who monopolizes her son.
     author: yuriko-club
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/471998.jpg

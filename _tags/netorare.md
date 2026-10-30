@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "netorare"
-work_count: 498
+work_count: 499
 works:
   - title: Kousa suru Osu to Mesu | Male and Female Crossing
     author: ootsuka-kotora
@@ -3655,6 +3655,14 @@ works:
     date: '2026-10-28'
     code: 691400
     url: /works/691400/
+  - title: Kyouiku-gakari no Saeki-san to Kinmu-chuu ni Sex Shita Hanashi | THE STORY
+      OF HAVING SEX WITH MS. SAEKI, MY TRAINER, DURING WORK
+    author: pairesshu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691442.jpg
+    rating: 0.0
+    date: '2026-10-30'
+    code: 691442
+    url: /works/691442/
   - title: 'Nerawareta Yoga Koushi Tsuma ~Miki~ | TARGETED YOGA INSTRUCTOR WIFE: MIKI'
     author: pairesshu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691445.jpg

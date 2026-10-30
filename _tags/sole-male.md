@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole male"
-work_count: 1097
+work_count: 1099
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -1275,6 +1275,13 @@ works:
     date: '2026-09-25'
     code: 458866
     url: /works/458866/
+  - title: Okaa-san ni Butsukenasai | Pounding Mom
+    author: kumo-no-ito
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/459857.jpg
+    rating: 4.4
+    date: '2026-10-30'
+    code: 459857
+    url: /works/459857/
   - title: Hypnotic Domination ~ The Fall of Tennis Club Ace ~
     author: danchino
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/461537.jpg
@@ -8075,6 +8082,14 @@ works:
     date: '2026-10-28'
     code: 691387
     url: /works/691387/
+  - title: Kyouiku-gakari no Saeki-san to Kinmu-chuu ni Sex Shita Hanashi | THE STORY
+      OF HAVING SEX WITH MS. SAEKI, MY TRAINER, DURING WORK
+    author: pairesshu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691442.jpg
+    rating: 0.0
+    date: '2026-10-30'
+    code: 691442
+    url: /works/691442/
   - title: 'Nerawareta Yoga Koushi Tsuma ~Miki~ | TARGETED YOGA INSTRUCTOR WIFE: MIKI'
     author: pairesshu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691445.jpg

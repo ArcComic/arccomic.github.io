@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "dark nipples"
-work_count: 9
+work_count: 10
 works:
   - title: 'Zoku Matching Appli de Deatta Aite wa Kaa-san deshita | I Matched Mom on
       My Dating App: The Sequel'
@@ -11,6 +11,13 @@ works:
     date: '2026-10-29'
     code: 422128
     url: /works/422128/
+  - title: Okaa-san ni Butsukenasai | Pounding Mom
+    author: kumo-no-ito
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/459857.jpg
+    rating: 4.4
+    date: '2026-10-30'
+    code: 459857
+    url: /works/459857/
   - title: Onna Shachou to Koibito ni Naru Houhou | How To Become Lover's With A Female
       CEO
     author: fan

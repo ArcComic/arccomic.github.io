@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "kissing"
-work_count: 461
+work_count: 462
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -2372,6 +2372,14 @@ works:
     date: '2026-09-04'
     code: 669459
     url: /works/669459/
+  - title: 'IF: A Story About a World Where You Can Plant Seeds with Your Neighbors
+      — The Classmate’s Mother Edition'
+    author: amatani-haruka
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/669499.jpg
+    rating: 0.0
+    date: '2026-10-30'
+    code: 669499
+    url: /works/669499/
   - title: Zenin Mukuwarenai Harem | A Harem Where No One Is Reciprocated 2
     author: cabin
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/669856.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "doujinshi"
-work_count: 1614
+work_count: 1617
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -1389,6 +1389,13 @@ works:
     date: '2026-10-28'
     code: 459087
     url: /works/459087/
+  - title: Okaa-san ni Butsukenasai | Pounding Mom
+    author: kumo-no-ito
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/459857.jpg
+    rating: 4.4
+    date: '2026-10-30'
+    code: 459857
+    url: /works/459857/
   - title: What would happen if you said "Let's have sex." while your teacher was scolding
       you?
     author: chotto-b-sen
@@ -8071,6 +8078,14 @@ works:
     date: '2026-09-04'
     code: 669459
     url: /works/669459/
+  - title: 'IF: A Story About a World Where You Can Plant Seeds with Your Neighbors
+      — The Classmate’s Mother Edition'
+    author: amatani-haruka
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/669499.jpg
+    rating: 0.0
+    date: '2026-10-30'
+    code: 669499
+    url: /works/669499/
   - title: Soen ni Natteta Osananajimi ga Okuchi Onaho Gayoi Shite Kuru Mikkakan | Three
       Days Treating My Estranged Friend As An Oral Fuckhole
     author: poncocchan
@@ -11869,6 +11884,14 @@ works:
     date: '2026-10-29'
     code: 691440
     url: /works/691440/
+  - title: Kyouiku-gakari no Saeki-san to Kinmu-chuu ni Sex Shita Hanashi | THE STORY
+      OF HAVING SEX WITH MS. SAEKI, MY TRAINER, DURING WORK
+    author: pairesshu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691442.jpg
+    rating: 0.0
+    date: '2026-10-30'
+    code: 691442
+    url: /works/691442/
   - title: 'Nerawareta Yoga Koushi Tsuma ~Miki~ | TARGETED YOGA INSTRUCTOR WIFE: MIKI'
     author: pairesshu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691445.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "handjob"
-work_count: 173
+work_count: 174
 works:
   - title: Rin to P
     author: simon
@@ -864,6 +864,14 @@ works:
     date: '2026-09-22'
     code: 666748
     url: /works/666748/
+  - title: 'IF: A Story About a World Where You Can Plant Seeds with Your Neighbors
+      — The Classmate’s Mother Edition'
+    author: amatani-haruka
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/669499.jpg
+    rating: 0.0
+    date: '2026-10-30'
+    code: 669499
+    url: /works/669499/
   - title: Kanojo no Imouto o SeFri ni shita Hanashi | The story of how I turned my
       girlfriend's younger sister into my sex friend
     author: taniguchi-daisuke

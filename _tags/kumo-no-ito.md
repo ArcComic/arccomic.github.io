@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "kumo no ito"
-work_count: 6
+work_count: 7
 works:
   - title: Matching Appli de Deatta Aite ha Kaa-san Deshita | I Matched Mom on My Dating
       App
@@ -19,6 +19,13 @@ works:
     date: '2026-10-29'
     code: 422128
     url: /works/422128/
+  - title: Okaa-san ni Butsukenasai | Pounding Mom
+    author: kumo-no-ito
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/459857.jpg
+    rating: 4.4
+    date: '2026-10-30'
+    code: 459857
+    url: /works/459857/
   - title: Zoku Onnajoushi wa Ikiwakareta Haha
     author: kumo-no-ito
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/497950.jpg

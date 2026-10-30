@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "amatani haruka"
-work_count: 3
+work_count: 4
 works:
   - title: Kaisha no Madonna to Lucky de Yareta Hanashi 4 ~Hamedori Ecchi Hen~ | How
       I Got Lucky and Banged the Company's Madonna 4
@@ -19,6 +19,14 @@ works:
     date: '2026-04-12'
     code: 643524
     url: /works/643524/
+  - title: 'IF: A Story About a World Where You Can Plant Seeds with Your Neighbors
+      — The Classmate’s Mother Edition'
+    author: amatani-haruka
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/669499.jpg
+    rating: 0.0
+    date: '2026-10-30'
+    code: 669499
+    url: /works/669499/
   - title: Batsu Kano ~Bokura no Naresome wa Batsu Game no Kokuhaku Dokkiri de Shita~
       | Punishment Girlfriend ~Our First Meeting Was a Confession Prank as a Punishment
       Game~

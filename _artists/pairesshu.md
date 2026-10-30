@@ -1,7 +1,7 @@
 ---
 layout: artist
 artist_name: "pairesshu"
-work_count: 3
+work_count: 4
 works:
   - title: Osekkaina Oba-san to Apart de Sex Shita Hanashi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/655549.jpg
@@ -16,6 +16,13 @@ works:
     date: '2026-10-29'
     code: 691440
     url: /works/691440/
+  - title: Kyouiku-gakari no Saeki-san to Kinmu-chuu ni Sex Shita Hanashi | THE STORY
+      OF HAVING SEX WITH MS. SAEKI, MY TRAINER, DURING WORK
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691442.jpg
+    rating: 0.0
+    date: '2026-10-30'
+    code: 691442
+    url: /works/691442/
   - title: 'Nerawareta Yoga Koushi Tsuma ~Miki~ | TARGETED YOGA INSTRUCTOR WIFE: MIKI'
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691445.jpg
     rating: 0.0
