@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "condom"
-work_count: 257
+work_count: 258
 works:
   - title: Kaisha de Iroiro | Gettin' Busy at the Office
     author: hara-shigeyuki
@@ -431,6 +431,13 @@ works:
     date: '2026-09-13'
     code: 480065
     url: /works/480065/
+  - title: Onnajoushi wa Ikiwakareta Haha | My Female Boss is My Estranged Mother
+    author: kumo-no-ito
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/480098.jpg
+    rating: 0.0
+    date: '2026-10-30'
+    code: 480098
+    url: /works/480098/
   - title: 'Sono Koi wa Color Code #F88CB0 | That Love is Color Code #F88CB0'
     author: chiba-toshirou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/481441.jpg

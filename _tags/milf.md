@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "milf"
-work_count: 531
+work_count: 533
 works:
   - title: Life with Married Women Just Like a Manga 2 - Ch. 1-5
     author: hidemaru
@@ -438,6 +438,14 @@ works:
     date: '2026-10-20'
     code: 412668
     url: /works/412668/
+  - title: Anmoku no Ryoukai de Oba-san to H Shita Hanashi | The Story of an Unspoken
+      Sex Agreement With Oba-San
+    author: pairesshu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/414003.jpg
+    rating: 0.0
+    date: '2026-10-30'
+    code: 414003
+    url: /works/414003/
   - title: NTR Anniversary + ) [Syukurin] Mitsuha ~Netorare~ (Kimi no Na wa.) [English]
       [Colorized] by Mikaku
     author: arakure
@@ -691,6 +699,13 @@ works:
     date: '2026-04-15'
     code: 472344
     url: /works/472344/
+  - title: Onnajoushi wa Ikiwakareta Haha | My Female Boss is My Estranged Mother
+    author: kumo-no-ito
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/480098.jpg
+    rating: 0.0
+    date: '2026-10-30'
+    code: 480098
+    url: /works/480098/
   - title: Tomodachi no Mama ga Boku no Dekachin de Ikimakutta Kaisui Yokujou
     author: rk-2
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/480745.jpg

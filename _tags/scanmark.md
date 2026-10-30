@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "scanmark"
-work_count: 277
+work_count: 278
 works:
   - title: NTR Anniversary + ) [Syukurin] Mitsuha ~Netorare~ (Kimi no Na wa.) [English]
       [Colorized] by Mikaku
@@ -718,6 +718,13 @@ works:
     date: '2026-08-21'
     code: 656034
     url: /works/656034/
+  - title: Majime de Akarui Obasan wo Sex de Iinari ni Shita Hanashi
+    author: pairesshu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/656139.jpg
+    rating: 4.9
+    date: '2026-10-30'
+    code: 656139
+    url: /works/656139/
   - title: Zessan Haishinchuu Gibo Nikubenki Keikaku! Ch.1-5
     author: maki-daikichi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/656140.jpg

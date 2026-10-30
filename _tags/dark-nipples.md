@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "dark nipples"
-work_count: 10
+work_count: 11
 works:
   - title: 'Zoku Matching Appli de Deatta Aite wa Kaa-san deshita | I Matched Mom on
       My Dating App: The Sequel'
@@ -18,6 +18,13 @@ works:
     date: '2026-10-30'
     code: 459857
     url: /works/459857/
+  - title: Onnajoushi wa Ikiwakareta Haha | My Female Boss is My Estranged Mother
+    author: kumo-no-ito
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/480098.jpg
+    rating: 0.0
+    date: '2026-10-30'
+    code: 480098
+    url: /works/480098/
   - title: Onna Shachou to Koibito ni Naru Houhou | How To Become Lover's With A Female
       CEO
     author: fan

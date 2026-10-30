@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "glasses"
-work_count: 319
+work_count: 320
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -433,6 +433,13 @@ works:
     date: '2026-04-14'
     code: 478446
     url: /works/478446/
+  - title: Onnajoushi wa Ikiwakareta Haha | My Female Boss is My Estranged Mother
+    author: kumo-no-ito
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/480098.jpg
+    rating: 0.0
+    date: '2026-10-30'
+    code: 480098
+    url: /works/480098/
   - title: Anoko wa Boku ga Suki ja Nai Boku dake ga Kizuiteta Hazu no Loli Kyonyuu
       Jimikei Bungaku Shoujo | She Doesn't Like Me ~ I thought I was the only one~ Plain
       Busty Bookworm Girl

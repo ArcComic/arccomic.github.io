@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "full color"
-work_count: 287
+work_count: 290
 works:
   - title: Pai☆Panic ~Hasamareta Dekapai~
     author: inkey
@@ -190,6 +190,14 @@ works:
     date: '2026-03-05'
     code: 409929
     url: /works/409929/
+  - title: Anmoku no Ryoukai de Oba-san to H Shita Hanashi | The Story of an Unspoken
+      Sex Agreement With Oba-San
+    author: pairesshu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/414003.jpg
+    rating: 0.0
+    date: '2026-10-30'
+    code: 414003
+    url: /works/414003/
   - title: NTR Anniversary + ) [Syukurin] Mitsuha ~Netorare~ (Kimi no Na wa.) [English]
       [Colorized] by Mikaku
     author: arakure
@@ -359,6 +367,13 @@ works:
     date: '2026-04-15'
     code: 472344
     url: /works/472344/
+  - title: Onnajoushi wa Ikiwakareta Haha | My Female Boss is My Estranged Mother
+    author: kumo-no-ito
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/480098.jpg
+    rating: 0.0
+    date: '2026-10-30'
+    code: 480098
+    url: /works/480098/
   - title: 'Sono Koi wa Color Code #F88CB0 | That Love is Color Code #F88CB0'
     author: chiba-toshirou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/481441.jpg
@@ -1382,6 +1397,13 @@ works:
     date: '2026-10-30'
     code: 655549
     url: /works/655549/
+  - title: Majime de Akarui Obasan wo Sex de Iinari ni Shita Hanashi
+    author: pairesshu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/656139.jpg
+    rating: 4.9
+    date: '2026-10-30'
+    code: 656139
+    url: /works/656139/
   - title: Ero Sugiru Imouto to Fukinshin na Ore
     author: hazuki-kaoru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/657207.jpg
