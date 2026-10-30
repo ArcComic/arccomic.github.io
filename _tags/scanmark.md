@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "scanmark"
-work_count: 274
+work_count: 276
 works:
   - title: NTR Anniversary + ) [Syukurin] Mitsuha ~Netorare~ (Kimi no Na wa.) [English]
       [Colorized] by Mikaku
@@ -704,6 +704,13 @@ works:
     date: '2026-07-07'
     code: 655441
     url: /works/655441/
+  - title: Osekkaina Oba-san to Apart de Sex Shita Hanashi
+    author: pairesshu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/655549.jpg
+    rating: 0.0
+    date: '2026-10-30'
+    code: 655549
+    url: /works/655549/
   - title: Jitsubo Kan ~Gifu no Inai Suki ni Jitsu no Haha o Muriyari Okashite Haramaeta
     author: louis-and-visee
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/656034.jpg
@@ -1512,6 +1519,15 @@ works:
     date: '2026-09-17'
     code: 681856
     url: /works/681856/
+  - title: Batsu Kano ~Bokura no Naresome wa Batsu Game no Kokuhaku Dokkiri de Shita~
+      | Punishment Girlfriend ~Our First Meeting Was a Confession Prank as a Punishment
+      Game~
+    author: amatani-haruka
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682080.jpg
+    rating: 4.7
+    date: '2026-10-30'
+    code: 682080
+    url: /works/682080/
   - title: Medorei Sensei
     author: choma
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682176.jpg

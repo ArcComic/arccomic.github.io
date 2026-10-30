@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "original"
-work_count: 1306
+work_count: 1309
 works:
   - title: Natsu dake Koibito - Summer only Lover [English] =Forbidden Fetish + Ser
       Maggot=
@@ -3476,6 +3476,14 @@ works:
     date: '2026-05-26'
     code: 627182
     url: /works/627182/
+  - title: Boshi Koubi Shinai to Sumenai Tokoro | A Place Where You Can't Live Unless
+      You Have Sex With Your Mother
+    author: kumo-no-ito
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/627375.jpg
+    rating: 0.0
+    date: '2026-10-30'
+    code: 627375
+    url: /works/627375/
   - title: i no Mikkai -i no Shissou 3- | The Secret Meeting of "i" — The Disappearance
       of "i" 3
     author: kawauchi
@@ -5516,6 +5524,13 @@ works:
     date: '2026-07-16'
     code: 655498
     url: /works/655498/
+  - title: Osekkaina Oba-san to Apart de Sex Shita Hanashi
+    author: pairesshu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/655549.jpg
+    rating: 0.0
+    date: '2026-10-30'
+    code: 655549
+    url: /works/655549/
   - title: 'Tall, Tanned, Tomboyish! Nagisa-chan 3 — Since Pregnant Nagisa-chan Can''t
       Do It, Nagisa''s Hairy Mama Takes Care of the Sexual Relief: Sex Edition'
     author: ishikarian
@@ -8092,6 +8107,15 @@ works:
     date: '2026-09-18'
     code: 682034
     url: /works/682034/
+  - title: Batsu Kano ~Bokura no Naresome wa Batsu Game no Kokuhaku Dokkiri de Shita~
+      | Punishment Girlfriend ~Our First Meeting Was a Confession Prank as a Punishment
+      Game~
+    author: amatani-haruka
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682080.jpg
+    rating: 4.7
+    date: '2026-10-30'
+    code: 682080
+    url: /works/682080/
   - title: Being Enslaved by an Assertive Girl
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682180.jpg

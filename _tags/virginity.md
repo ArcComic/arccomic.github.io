@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "virginity"
-work_count: 175
+work_count: 176
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -1226,6 +1226,15 @@ works:
     date: '2026-09-17'
     code: 681987
     url: /works/681987/
+  - title: Batsu Kano ~Bokura no Naresome wa Batsu Game no Kokuhaku Dokkiri de Shita~
+      | Punishment Girlfriend ~Our First Meeting Was a Confession Prank as a Punishment
+      Game~
+    author: amatani-haruka
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682080.jpg
+    rating: 4.7
+    date: '2026-10-30'
+    code: 682080
+    url: /works/682080/
   - title: Shita no Kai no Yokkyuufuman na Mucchimuchi Mama-san kara no Approach ga
       Sugoi | The Frustrated, Curvy Mom Downstairs Keeps Making Bold Moves
     author: ikinari-mojio-yosyo

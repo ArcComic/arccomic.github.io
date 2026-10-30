@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big ass"
-work_count: 301
+work_count: 302
 works:
   - title: My Care Lady Ch. 1
     author: sugi-g
@@ -602,6 +602,14 @@ works:
     date: '2026-05-26'
     code: 627182
     url: /works/627182/
+  - title: Boshi Koubi Shinai to Sumenai Tokoro | A Place Where You Can't Live Unless
+      You Have Sex With Your Mother
+    author: kumo-no-ito
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/627375.jpg
+    rating: 0.0
+    date: '2026-10-30'
+    code: 627375
+    url: /works/627375/
   - title: Kareshi ni Betabore Chuu no Gal Senpai ga, Ore to Tsukiau made - Be my girlfriend!
       Rio-senpai!
     author: unknown

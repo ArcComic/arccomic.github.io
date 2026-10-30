@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "defloration"
-work_count: 278
+work_count: 279
 works:
   - title: Imitation Family + Bigibo Hen
     author: tohzai
@@ -1824,6 +1824,15 @@ works:
     date: '2026-09-18'
     code: 682034
     url: /works/682034/
+  - title: Batsu Kano ~Bokura no Naresome wa Batsu Game no Kokuhaku Dokkiri de Shita~
+      | Punishment Girlfriend ~Our First Meeting Was a Confession Prank as a Punishment
+      Game~
+    author: amatani-haruka
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682080.jpg
+    rating: 4.7
+    date: '2026-10-30'
+    code: 682080
+    url: /works/682080/
   - title: Saimin x X I - Hypnosis x X I _MTL
     author: kuretudenn
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682188.jpg

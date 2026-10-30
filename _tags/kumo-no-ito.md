@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "kumo no ito"
-work_count: 5
+work_count: 6
 works:
   - title: Matching Appli de Deatta Aite ha Kaa-san Deshita | I Matched Mom on My Dating
       App
@@ -33,6 +33,14 @@ works:
     date: '2026-10-30'
     code: 520272
     url: /works/520272/
+  - title: Boshi Koubi Shinai to Sumenai Tokoro | A Place Where You Can't Live Unless
+      You Have Sex With Your Mother
+    author: kumo-no-ito
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/627375.jpg
+    rating: 0.0
+    date: '2026-10-30'
+    code: 627375
+    url: /works/627375/
   - title: The Ex-Delinquent Mom Won't Be Looked Down On
     author: kumo-no-ito
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691620.jpg

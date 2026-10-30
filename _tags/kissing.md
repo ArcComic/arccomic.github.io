@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "kissing"
-work_count: 459
+work_count: 461
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -1265,6 +1265,14 @@ works:
     date: '2026-10-29'
     code: 625983
     url: /works/625983/
+  - title: Boshi Koubi Shinai to Sumenai Tokoro | A Place Where You Can't Live Unless
+      You Have Sex With Your Mother
+    author: kumo-no-ito
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/627375.jpg
+    rating: 0.0
+    date: '2026-10-30'
+    code: 627375
+    url: /works/627375/
   - title: Dame nante Ienai
     author: tsurui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/628068.jpg
@@ -2800,6 +2808,15 @@ works:
     date: '2026-09-17'
     code: 681990
     url: /works/681990/
+  - title: Batsu Kano ~Bokura no Naresome wa Batsu Game no Kokuhaku Dokkiri de Shita~
+      | Punishment Girlfriend ~Our First Meeting Was a Confession Prank as a Punishment
+      Game~
+    author: amatani-haruka
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682080.jpg
+    rating: 4.7
+    date: '2026-10-30'
+    code: 682080
+    url: /works/682080/
   - title: Nusumareta Hitozuma. - Stolen Wife
     author: taira-tsukune
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682203.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "anal"
-work_count: 186
+work_count: 187
 works:
   - title: Ikanishite Haha wa Onna o Kaihou Shitaka Ch. 1-14
     author: mitarai-yuuki
@@ -464,6 +464,14 @@ works:
     date: '2026-05-26'
     code: 627182
     url: /works/627182/
+  - title: Boshi Koubi Shinai to Sumenai Tokoro | A Place Where You Can't Live Unless
+      You Have Sex With Your Mother
+    author: kumo-no-ito
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/627375.jpg
+    rating: 0.0
+    date: '2026-10-30'
+    code: 627375
+    url: /works/627375/
   - title: Cool-kei Toshiue BariCare Kanojo Songen Hakai Wakan2 ~Jun-ai NTR Gokko Hen~
     author: hatsuden-pengin
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/630105.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "rough translation"
-work_count: 771
+work_count: 774
 works:
   - title: Boku no Shiranai Kimi no Kao
     author: utsutsu-minoru
@@ -1070,6 +1070,14 @@ works:
     date: '2026-05-26'
     code: 627182
     url: /works/627182/
+  - title: Boshi Koubi Shinai to Sumenai Tokoro | A Place Where You Can't Live Unless
+      You Have Sex With Your Mother
+    author: kumo-no-ito
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/627375.jpg
+    rating: 0.0
+    date: '2026-10-30'
+    code: 627375
+    url: /works/627375/
   - title: Umi no Ie ni wa Kiken ga Ippai Class no Ano Ko no Oppai Porori
     author: p-and-i
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/628126.jpg
@@ -2275,6 +2283,13 @@ works:
     date: '2026-09-26'
     code: 655528
     url: /works/655528/
+  - title: Osekkaina Oba-san to Apart de Sex Shita Hanashi
+    author: pairesshu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/655549.jpg
+    rating: 0.0
+    date: '2026-10-30'
+    code: 655549
+    url: /works/655549/
   - title: Kimi wa Kagayaku Tsukihana no You ni - Like a luminous moonflower, You Enrapture
       My Heart. + Melonbooks Tokuten Sensei wa Yappari JK to Yaritai
     author: gustav
@@ -4445,6 +4460,15 @@ works:
     date: '2026-09-18'
     code: 682034
     url: /works/682034/
+  - title: Batsu Kano ~Bokura no Naresome wa Batsu Game no Kokuhaku Dokkiri de Shita~
+      | Punishment Girlfriend ~Our First Meeting Was a Confession Prank as a Punishment
+      Game~
+    author: amatani-haruka
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682080.jpg
+    rating: 4.7
+    date: '2026-10-30'
+    code: 682080
+    url: /works/682080/
   - title: Medorei Sensei
     author: choma
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682176.jpg

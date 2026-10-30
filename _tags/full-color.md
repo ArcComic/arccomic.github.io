@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "full color"
-work_count: 283
+work_count: 285
 works:
   - title: Pai☆Panic ~Hasamareta Dekapai~
     author: inkey
@@ -1026,6 +1026,14 @@ works:
     date: '2026-09-11'
     code: 626580
     url: /works/626580/
+  - title: Boshi Koubi Shinai to Sumenai Tokoro | A Place Where You Can't Live Unless
+      You Have Sex With Your Mother
+    author: kumo-no-ito
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/627375.jpg
+    rating: 0.0
+    date: '2026-10-30'
+    code: 627375
+    url: /works/627375/
   - title: Daddy's Forgotten Life Purpose
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/631630.jpg
@@ -1360,6 +1368,13 @@ works:
     date: '2026-09-26'
     code: 655528
     url: /works/655528/
+  - title: Osekkaina Oba-san to Apart de Sex Shita Hanashi
+    author: pairesshu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/655549.jpg
+    rating: 0.0
+    date: '2026-10-30'
+    code: 655549
+    url: /works/655549/
   - title: Ero Sugiru Imouto to Fukinshin na Ore
     author: hazuki-kaoru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/657207.jpg

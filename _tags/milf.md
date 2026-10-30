@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "milf"
-work_count: 526
+work_count: 528
 works:
   - title: Life with Married Women Just Like a Manga 2 - Ch. 1-5
     author: hidemaru
@@ -1821,6 +1821,14 @@ works:
     date: '2026-09-17'
     code: 621436
     url: /works/621436/
+  - title: Boshi Koubi Shinai to Sumenai Tokoro | A Place Where You Can't Live Unless
+      You Have Sex With Your Mother
+    author: kumo-no-ito
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/627375.jpg
+    rating: 0.0
+    date: '2026-10-30'
+    code: 627375
+    url: /works/627375/
   - title: Hitozuma-tachi no Kiken na Jouji | The Housewife's Dangerous Situation
     author: homare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/627722.jpg
@@ -2444,6 +2452,13 @@ works:
     date: '2026-10-13'
     code: 655416
     url: /works/655416/
+  - title: Osekkaina Oba-san to Apart de Sex Shita Hanashi
+    author: pairesshu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/655549.jpg
+    rating: 0.0
+    date: '2026-10-30'
+    code: 655549
+    url: /works/655549/
   - title: 'Tall, Tanned, Tomboyish! Nagisa-chan 3 — Since Pregnant Nagisa-chan Can''t
       Do It, Nagisa''s Hairy Mama Takes Care of the Sexual Relief: Sex Edition'
     author: ishikarian
