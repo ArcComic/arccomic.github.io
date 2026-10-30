@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "paizuri"
-work_count: 272
+work_count: 274
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -654,6 +654,13 @@ works:
     date: '2026-09-08'
     code: 616896
     url: /works/616896/
+  - title: Charai Daigakusei ni Netorareta Boku no Kanojo
+    author: furaimai
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/617074.jpg
+    rating: 0.0
+    date: '2026-10-30'
+    code: 617074
+    url: /works/617074/
   - title: 'Gal to Meccha Namahame Nakadashi Ecchi Suru Hanashi #5'
     author: pistonring-nishizawa
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/617805.jpg
@@ -964,7 +971,7 @@ works:
   - title: My Elf Aunt's Explosive Sexual Reawakening
     author: alps1mando
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/647407.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-10-29'
     code: 647407
     url: /works/647407/
@@ -1179,6 +1186,13 @@ works:
     date: '2026-09-11'
     code: 657453
     url: /works/657453/
+  - title: Numarase! Nori Tai Shufu Matsuko
+    author: o-p-com
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/657499.jpg
+    rating: 0.0
+    date: '2026-10-30'
+    code: 657499
+    url: /works/657499/
   - title: Daasan no Tame ni Okita Kyouko 32sai B107 a.k.a Okusan wo Namadashi Nikuana
       Choukyou Shiteoite Ageyou
     author: shiwasu-no-okina

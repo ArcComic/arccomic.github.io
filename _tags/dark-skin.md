@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "dark skin"
-work_count: 184
+work_count: 185
 works:
   - title: Birthday
     author: hashiba-yachi
@@ -488,7 +488,7 @@ works:
   - title: Truck Girl to Iede Boy Otona e no Tabi - Trucker Gal & The Runaway
     author: alps1mando
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/609108.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-10-29'
     code: 609108
     url: /works/609108/
@@ -515,6 +515,13 @@ works:
     date: '2026-03-03'
     code: 611701
     url: /works/611701/
+  - title: Charai Daigakusei ni Netorareta Boku no Kanojo
+    author: furaimai
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/617074.jpg
+    rating: 0.0
+    date: '2026-10-30'
+    code: 617074
+    url: /works/617074/
   - title: 'Gal to Meccha Namahame Nakadashi Ecchi Suru Hanashi #5'
     author: pistonring-nishizawa
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/617805.jpg
@@ -932,7 +939,7 @@ works:
   - title: Kuro Gal Bijo Kanrinin-san (35) Nama-nakadashi futatabi!
     author: ponsuke
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662715.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-10-29'
     code: 662715
     url: /works/662715/

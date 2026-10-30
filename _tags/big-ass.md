@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big ass"
-work_count: 300
+work_count: 301
 works:
   - title: My Care Lady Ch. 1
     author: sugi-g
@@ -548,7 +548,7 @@ works:
   - title: Truck Girl to Iede Boy Otona e no Tabi - Trucker Gal & The Runaway
     author: alps1mando
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/609108.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-10-29'
     code: 609108
     url: /works/609108/
@@ -974,7 +974,7 @@ works:
   - title: My Elf Aunt's Explosive Sexual Reawakening
     author: alps1mando
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/647407.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-10-29'
     code: 647407
     url: /works/647407/
@@ -1162,6 +1162,13 @@ works:
     date: '2026-09-11'
     code: 656626
     url: /works/656626/
+  - title: Numarase! Nori Tai Shufu Matsuko
+    author: o-p-com
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/657499.jpg
+    rating: 0.0
+    date: '2026-10-30'
+    code: 657499
+    url: /works/657499/
   - title: Uwakishou na Kaisha no Elite Douki o Ore no Onna ni Suru Hanashi | The Story
       of How I Made my Flirty Coworker my Woman
     author: araido-kagiri
@@ -1231,7 +1238,7 @@ works:
   - title: Kuro Gal Bijo Kanrinin-san (35) Nama-nakadashi futatabi!
     author: ponsuke
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662715.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-10-29'
     code: 662715
     url: /works/662715/
@@ -1345,7 +1352,7 @@ works:
       with My Girlfriend's Mom
     author: taniguchi-daisuke
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/669135.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-10-29'
     code: 669135
     url: /works/669135/

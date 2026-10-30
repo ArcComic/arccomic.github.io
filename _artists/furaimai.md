@@ -1,7 +1,7 @@
 ---
 layout: artist
 artist_name: "furaimai"
-work_count: 6
+work_count: 7
 works:
   - title: Tsuma ni Ani to Kozukuri Shite Moraimashita
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/616367.jpg
@@ -16,6 +16,12 @@ works:
     date: '2026-04-27'
     code: 616533
     url: /works/616533/
+  - title: Charai Daigakusei ni Netorareta Boku no Kanojo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/617074.jpg
+    rating: 0.0
+    date: '2026-10-30'
+    code: 617074
+    url: /works/617074/
   - title: Charao ga Shiteru Tokoro o Mite Shimatta Boku no Kanojo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/618561.jpg
     rating: 4.1

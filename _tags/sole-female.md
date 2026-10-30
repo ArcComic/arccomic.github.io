@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole female"
-work_count: 1146
+work_count: 1149
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -1125,7 +1125,7 @@ works:
       My Dating App: The Sequel'
     author: kumo-no-ito
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/422128.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-29'
     code: 422128
     url: /works/422128/
@@ -1692,7 +1692,7 @@ works:
   - title: Zoku Onnajoushi wa Ikiwakareta Haha
     author: kumo-no-ito
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/497950.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-10-29'
     code: 497950
     url: /works/497950/
@@ -2013,6 +2013,13 @@ works:
     date: '2026-10-09'
     code: 519927
     url: /works/519927/
+  - title: Dai Kirai na Haha wo Zenra Kaseifu ni Shita Hanashi
+    author: kumo-no-ito
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/520272.jpg
+    rating: 0.0
+    date: '2026-10-30'
+    code: 520272
+    url: /works/520272/
   - title: Dousei Kanojo to Asa made Tsuyudaku Hametaoshi | Having Sloppy Sex Till Morning
       with My Live-in Girlfriend
     author: migihaji
@@ -3369,7 +3376,7 @@ works:
   - title: Truck Girl to Iede Boy Otona e no Tabi - Trucker Gal & The Runaway
     author: alps1mando
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/609108.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-10-29'
     code: 609108
     url: /works/609108/
@@ -4594,7 +4601,7 @@ works:
   - title: My Elf Aunt's Explosive Sexual Reawakening
     author: alps1mando
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/647407.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-10-29'
     code: 647407
     url: /works/647407/
@@ -5244,6 +5251,13 @@ works:
     date: '2026-09-11'
     code: 657453
     url: /works/657453/
+  - title: Numarase! Nori Tai Shufu Matsuko
+    author: o-p-com
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/657499.jpg
+    rating: 0.0
+    date: '2026-10-30'
+    code: 657499
+    url: /works/657499/
   - title: Giri no Onee-chan to Sex Suru Hanashi | The story of having sex with my well
       behaved sister
     author: higashino-mikan
@@ -5535,7 +5549,7 @@ works:
   - title: Kuro Gal Bijo Kanrinin-san (35) Nama-nakadashi futatabi!
     author: ponsuke
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662715.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-10-29'
     code: 662715
     url: /works/662715/
@@ -8435,10 +8449,17 @@ works:
   - title: Seductive Voice Training Camp - Active College Student Model Sae Oshiro
     author: sevengar
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691454.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-10-29'
     code: 691454
     url: /works/691454/
+  - title: Abunai SEITO
+    author: thomson
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691558.jpg
+    rating: 4.7
+    date: '2026-10-29'
+    code: 691558
+    url: /works/691558/
   - title: Shikarubeki Keii to Kansha no Nen o - The respect and gratitude that is his
       due
     author: adagio

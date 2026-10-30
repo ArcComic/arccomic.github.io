@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "handjob"
-work_count: 172
+work_count: 173
 works:
   - title: Rin to P
     author: simon
@@ -790,6 +790,13 @@ works:
     date: '2026-09-09'
     code: 657459
     url: /works/657459/
+  - title: Numarase! Nori Tai Shufu Matsuko
+    author: o-p-com
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/657499.jpg
+    rating: 0.0
+    date: '2026-10-30'
+    code: 657499
+    url: /works/657499/
   - title: Giri no Onee-chan to Sex Suru Hanashi | The story of having sex with my well
       behaved sister
     author: higashino-mikan
@@ -861,7 +868,7 @@ works:
       girlfriend's younger sister into my sex friend
     author: taniguchi-daisuke
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/670494.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-29'
     code: 670494
     url: /works/670494/

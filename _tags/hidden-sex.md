@@ -105,7 +105,7 @@ works:
       My Dating App: The Sequel'
     author: kumo-no-ito
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/422128.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-29'
     code: 422128
     url: /works/422128/
@@ -629,7 +629,7 @@ works:
       girlfriend's younger sister into my sex friend
     author: taniguchi-daisuke
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/670494.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-29'
     code: 670494
     url: /works/670494/

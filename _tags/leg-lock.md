@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "leg lock"
-work_count: 111
+work_count: 112
 works:
   - title: My Care Lady Ch. 1
     author: sugi-g
@@ -360,6 +360,13 @@ works:
     date: '2026-04-27'
     code: 616533
     url: /works/616533/
+  - title: Charai Daigakusei ni Netorareta Boku no Kanojo
+    author: furaimai
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/617074.jpg
+    rating: 0.0
+    date: '2026-10-30'
+    code: 617074
+    url: /works/617074/
   - title: Mamami Numa | Addicted to Her Motherly Vibes
     author: ruruepa
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/619648.jpg
@@ -483,7 +490,7 @@ works:
   - title: My Elf Aunt's Explosive Sexual Reawakening
     author: alps1mando
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/647407.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-10-29'
     code: 647407
     url: /works/647407/

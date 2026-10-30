@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "blackmail"
-work_count: 166
+work_count: 167
 works:
   - title: Birthday
     author: hashiba-yachi
@@ -741,6 +741,13 @@ works:
     date: '2026-09-20'
     code: 656681
     url: /works/656681/
+  - title: Numarase! Nori Tai Shufu Matsuko
+    author: o-p-com
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/657499.jpg
+    rating: 0.0
+    date: '2026-10-30'
+    code: 657499
+    url: /works/657499/
   - title: Falling of summer
     author: monono-ex
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/659199.jpg
@@ -1219,7 +1226,7 @@ works:
   - title: Seductive Voice Training Camp - Active College Student Model Sae Oshiro
     author: sevengar
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691454.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-10-29'
     code: 691454
     url: /works/691454/

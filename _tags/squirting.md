@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "squirting"
-work_count: 181
+work_count: 182
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -871,7 +871,7 @@ works:
       girlfriend's younger sister into my sex friend
     author: taniguchi-daisuke
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/670494.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-29'
     code: 670494
     url: /works/670494/
@@ -1309,6 +1309,13 @@ works:
     date: '2026-10-26'
     code: 690826
     url: /works/690826/
+  - title: Abunai SEITO
+    author: thomson
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691558.jpg
+    rating: 4.7
+    date: '2026-10-29'
+    code: 691558
+    url: /works/691558/
   - title: The Fox God Who Knows Not of Love | Kitsune Kami-sama wa Ai o Shiranai
     author: shinozuka
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691624.jpg

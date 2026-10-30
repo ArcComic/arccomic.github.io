@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "inverted nipples"
-work_count: 44
+work_count: 45
 works:
   - title: Mama Naranai Onna-tachi Ch. 1-2
     author: otochichi
@@ -331,4 +331,11 @@ works:
     date: '2026-10-17'
     code: 687968
     url: /works/687968/
+  - title: Abunai SEITO
+    author: thomson
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691558.jpg
+    rating: 4.7
+    date: '2026-10-29'
+    code: 691558
+    url: /works/691558/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "ponytail"
-work_count: 200
+work_count: 201
 works:
   - title: Ami Mami Mind 5
     author: tsurui
@@ -836,6 +836,13 @@ works:
     date: '2026-08-18'
     code: 656319
     url: /works/656319/
+  - title: Numarase! Nori Tai Shufu Matsuko
+    author: o-p-com
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/657499.jpg
+    rating: 0.0
+    date: '2026-10-30'
+    code: 657499
+    url: /works/657499/
   - title: Giri no Onee-chan to Sex Suru Hanashi | The story of having sex with my well
       behaved sister
     author: higashino-mikan

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "scanmark"
-work_count: 269
+work_count: 270
 works:
   - title: NTR Anniversary + ) [Syukurin] Mitsuha ~Netorare~ (Kimi no Na wa.) [English]
       [Colorized] by Mikaku
@@ -107,6 +107,13 @@ works:
     date: '2026-09-08'
     code: 616896
     url: /works/616896/
+  - title: Charai Daigakusei ni Netorareta Boku no Kanojo
+    author: furaimai
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/617074.jpg
+    rating: 0.0
+    date: '2026-10-30'
+    code: 617074
+    url: /works/617074/
   - title: 'Gal to Meccha Namahame Nakadashi Ecchi Suru Hanashi #5'
     author: pistonring-nishizawa
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/617805.jpg
@@ -275,7 +282,7 @@ works:
   - title: Jukujo no Tehodoki Haha no Ai
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/636770.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-10-29'
     code: 636770
     url: /works/636770/
@@ -1932,7 +1939,7 @@ works:
       HOUSEWIFE TURNED INTO AN OBEDIENT DOLL WITH A HYPNOSIS APP ~MIHO~
     author: pairesshu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691440.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-10-29'
     code: 691440
     url: /works/691440/
@@ -1946,7 +1953,7 @@ works:
   - title: Seductive Voice Training Camp - Active College Student Model Sae Oshiro
     author: sevengar
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691454.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-10-29'
     code: 691454
     url: /works/691454/

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "apron"
-work_count: 30
+work_count: 31
 works:
   - title: Life with Married Women Just Like a Manga 2 - Ch. 1-5
     author: hidemaru
@@ -69,6 +69,13 @@ works:
     date: '2026-09-10'
     code: 511803
     url: /works/511803/
+  - title: Dai Kirai na Haha wo Zenra Kaseifu ni Shita Hanashi
+    author: kumo-no-ito
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/520272.jpg
+    rating: 0.0
+    date: '2026-10-30'
+    code: 520272
+    url: /works/520272/
   - title: Yojouhan Bio Seikatsu Soushuuhen
     author: sgk
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/527851.jpg

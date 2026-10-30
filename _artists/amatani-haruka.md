@@ -6,7 +6,7 @@ works:
   - title: Kaisha no Madonna to Lucky de Yareta Hanashi 4 ~Hamedori Ecchi Hen~ | How
       I Got Lucky and Banged the Company's Madonna 4
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/605269.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-10-29'
     code: 605269
     url: /works/605269/

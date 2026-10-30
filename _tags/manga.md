@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "manga"
-work_count: 422
+work_count: 423
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -2989,10 +2989,17 @@ works:
   - title: Seductive Voice Training Camp - Active College Student Model Sae Oshiro
     author: sevengar
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691454.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-10-29'
     code: 691454
     url: /works/691454/
+  - title: Abunai SEITO
+    author: thomson
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691558.jpg
+    rating: 4.7
+    date: '2026-10-29'
+    code: 691558
+    url: /works/691558/
   - title: The Fox God Who Knows Not of Love | Kitsune Kami-sama wa Ai o Shiranai
     author: shinozuka
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691624.jpg

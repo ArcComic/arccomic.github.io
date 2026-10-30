@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "fingering"
-work_count: 227
+work_count: 228
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -637,7 +637,7 @@ works:
       I Got Lucky and Banged the Company's Madonna 4
     author: amatani-haruka
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/605269.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-10-29'
     code: 605269
     url: /works/605269/
@@ -1660,6 +1660,13 @@ works:
     date: '2026-10-26'
     code: 690875
     url: /works/690875/
+  - title: Abunai SEITO
+    author: thomson
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691558.jpg
+    rating: 4.7
+    date: '2026-10-29'
+    code: 691558
+    url: /works/691558/
   - title: The Fox God Who Knows Not of Love | Kitsune Kami-sama wa Ai o Shiranai
     author: shinozuka
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691624.jpg

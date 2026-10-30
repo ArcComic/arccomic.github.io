@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sister"
-work_count: 123
+work_count: 124
 works:
   - title: Imitation Family + Bigibo Hen
     author: tohzai
@@ -450,6 +450,13 @@ works:
     date: '2026-07-09'
     code: 657256
     url: /works/657256/
+  - title: Numarase! Nori Tai Shufu Matsuko
+    author: o-p-com
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/657499.jpg
+    rating: 0.0
+    date: '2026-10-30'
+    code: 657499
+    url: /works/657499/
   - title: Giri no Onee-chan to Sex Suru Hanashi | The story of having sex with my well
       behaved sister
     author: higashino-mikan
@@ -527,7 +534,7 @@ works:
       with My Girlfriend's Mom
     author: taniguchi-daisuke
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/669135.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-10-29'
     code: 669135
     url: /works/669135/
@@ -535,7 +542,7 @@ works:
       girlfriend's younger sister into my sex friend
     author: taniguchi-daisuke
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/670494.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-29'
     code: 670494
     url: /works/670494/

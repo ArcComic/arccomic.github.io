@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "full color"
-work_count: 280
+work_count: 281
 works:
   - title: Pai☆Panic ~Hasamareta Dekapai~
     author: inkey
@@ -224,7 +224,7 @@ works:
       My Dating App: The Sequel'
     author: kumo-no-ito
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/422128.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-29'
     code: 422128
     url: /works/422128/
@@ -376,7 +376,7 @@ works:
   - title: Zoku Onnajoushi wa Ikiwakareta Haha
     author: kumo-no-ito
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/497950.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-10-29'
     code: 497950
     url: /works/497950/
@@ -543,6 +543,13 @@ works:
     date: '2026-05-04'
     code: 519713
     url: /works/519713/
+  - title: Dai Kirai na Haha wo Zenra Kaseifu ni Shita Hanashi
+    author: kumo-no-ito
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/520272.jpg
+    rating: 0.0
+    date: '2026-10-30'
+    code: 520272
+    url: /works/520272/
   - title: Niizuma Nanaka no Roshutsu Satsuei
     author: fukurou-naru-tori
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/520363.jpg
@@ -896,7 +903,7 @@ works:
       I Got Lucky and Banged the Company's Madonna 4
     author: amatani-haruka
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/605269.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-10-29'
     code: 605269
     url: /works/605269/

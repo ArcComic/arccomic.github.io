@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "masturbation"
-work_count: 173
+work_count: 174
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -444,7 +444,7 @@ works:
       I Got Lucky and Banged the Company's Madonna 4
     author: amatani-haruka
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/605269.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-10-29'
     code: 605269
     url: /works/605269/
@@ -493,6 +493,13 @@ works:
     date: '2026-09-27'
     code: 615333
     url: /works/615333/
+  - title: Charai Daigakusei ni Netorareta Boku no Kanojo
+    author: furaimai
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/617074.jpg
+    rating: 0.0
+    date: '2026-10-30'
+    code: 617074
+    url: /works/617074/
   - title: Caught in the Act
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/617511.jpg
@@ -883,7 +890,7 @@ works:
       with My Girlfriend's Mom
     author: taniguchi-daisuke
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/669135.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-10-29'
     code: 669135
     url: /works/669135/

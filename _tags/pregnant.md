@@ -57,7 +57,7 @@ works:
       My Dating App: The Sequel'
     author: kumo-no-ito
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/422128.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-29'
     code: 422128
     url: /works/422128/
@@ -78,7 +78,7 @@ works:
   - title: Zoku Onnajoushi wa Ikiwakareta Haha
     author: kumo-no-ito
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/497950.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-10-29'
     code: 497950
     url: /works/497950/

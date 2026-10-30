@@ -247,7 +247,7 @@ works:
   - title: Truck Girl to Iede Boy Otona e no Tabi - Trucker Gal & The Runaway
     author: alps1mando
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/609108.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-10-29'
     code: 609108
     url: /works/609108/
@@ -532,7 +532,7 @@ works:
       girlfriend's younger sister into my sex friend
     author: taniguchi-daisuke
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/670494.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-29'
     code: 670494
     url: /works/670494/
@@ -824,7 +824,7 @@ works:
   - title: Seductive Voice Training Camp - Active College Student Model Sae Oshiro
     author: sevengar
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691454.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-10-29'
     code: 691454
     url: /works/691454/

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "nakadashi"
-work_count: 992
+work_count: 995
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -735,7 +735,7 @@ works:
       My Dating App: The Sequel'
     author: kumo-no-ito
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/422128.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-29'
     code: 422128
     url: /works/422128/
@@ -2534,7 +2534,7 @@ works:
       I Got Lucky and Banged the Company's Madonna 4
     author: amatani-haruka
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/605269.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-10-29'
     code: 605269
     url: /works/605269/
@@ -2769,6 +2769,13 @@ works:
     date: '2026-09-08'
     code: 616896
     url: /works/616896/
+  - title: Charai Daigakusei ni Netorareta Boku no Kanojo
+    author: furaimai
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/617074.jpg
+    rating: 0.0
+    date: '2026-10-30'
+    code: 617074
+    url: /works/617074/
   - title: Caught in the Act
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/617511.jpg
@@ -3321,7 +3328,7 @@ works:
   - title: Jukujo no Tehodoki Haha no Ai
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/636770.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-10-29'
     code: 636770
     url: /works/636770/
@@ -3976,7 +3983,7 @@ works:
   - title: My Elf Aunt's Explosive Sexual Reawakening
     author: alps1mando
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/647407.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-10-29'
     code: 647407
     url: /works/647407/
@@ -4603,6 +4610,13 @@ works:
     date: '2026-09-09'
     code: 657459
     url: /works/657459/
+  - title: Numarase! Nori Tai Shufu Matsuko
+    author: o-p-com
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/657499.jpg
+    rating: 0.0
+    date: '2026-10-30'
+    code: 657499
+    url: /works/657499/
   - title: Giri no Onee-chan to Sex Suru Hanashi | The story of having sex with my well
       behaved sister
     author: higashino-mikan
@@ -4873,7 +4887,7 @@ works:
   - title: Kuro Gal Bijo Kanrinin-san (35) Nama-nakadashi futatabi!
     author: ponsuke
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662715.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-10-29'
     code: 662715
     url: /works/662715/
@@ -5197,7 +5211,7 @@ works:
       with My Girlfriend's Mom
     author: taniguchi-daisuke
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/669135.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-10-29'
     code: 669135
     url: /works/669135/
@@ -5242,7 +5256,7 @@ works:
       girlfriend's younger sister into my sex friend
     author: taniguchi-daisuke
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/670494.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-29'
     code: 670494
     url: /works/670494/
@@ -7298,6 +7312,13 @@ works:
     date: '2026-10-28'
     code: 691452
     url: /works/691452/
+  - title: Abunai SEITO
+    author: thomson
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691558.jpg
+    rating: 4.7
+    date: '2026-10-29'
+    code: 691558
+    url: /works/691558/
   - title: The Ex-Delinquent Mom Won't Be Looked Down On
     author: kumo-no-ito
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691620.jpg
