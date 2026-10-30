@@ -1,7 +1,7 @@
 ---
 layout: artist
 artist_name: "group"
-work_count: 41
+work_count: 42
 works:
   - title: Shitsurakuen | Paradise Lost
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/463749.jpg
@@ -43,6 +43,13 @@ works:
     date: '2026-09-25'
     code: 562201
     url: /works/562201/
+  - title: Dekai Osananajimi-tachi ni Hasamarete Ase Daku Harem Ecchi | Harem Sex Sandwiched
+      Between My Huge Childhood Friends
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/571119.jpg
+    rating: 0.0
+    date: '2026-10-30'
+    code: 571119
+    url: /works/571119/
   - title: Geriatric Dragons dogma
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/596562.jpg
     rating: 4.5

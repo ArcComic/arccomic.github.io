@@ -1,8 +1,16 @@
 ---
 layout: tag
 tag_name: "ore no sasakure"
-work_count: 2
+work_count: 3
 works:
+  - title: Dekai Osananajimi-tachi ni Hasamarete Ase Daku Harem Ecchi | Harem Sex Sandwiched
+      Between My Huge Childhood Friends
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/571119.jpg
+    rating: 0.0
+    date: '2026-10-30'
+    code: 571119
+    url: /works/571119/
   - title: Otonari no Downer Oyako ni Shiboritorareru Hanashi
     author: gamogamo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/645896.jpg

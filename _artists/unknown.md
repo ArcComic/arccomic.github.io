@@ -1,7 +1,7 @@
 ---
 layout: artist
 artist_name: "unknown"
-work_count: 86
+work_count: 87
 works:
   - title: Hajimete Kanojo Ga Dekita No Ni
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/316579.jpg
@@ -533,6 +533,14 @@ works:
     date: '2026-10-26'
     code: 690828
     url: /works/690828/
+  - title: Majuu Fureai Taiken de Gachi Koubi Shichatta Bakunyuu Hitozuma no Hanashi
+      | The Story of How the Big-Breasted Wife Had a Real Mating Session at a Monster
+      Petting Experience
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691380.jpg
+    rating: 0.0
+    date: '2026-10-30'
+    code: 691380
+    url: /works/691380/
   - title: Kyou kara, Hitozuma Mansion ni Nyuukyo shimasu - CHAPTER 1-15
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691671.jpg
     rating: 4.6

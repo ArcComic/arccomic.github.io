@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole female"
-work_count: 1152
+work_count: 1154
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -8454,6 +8454,15 @@ works:
     date: '2026-10-28'
     code: 691374
     url: /works/691374/
+  - title: Majuu Fureai Taiken de Gachi Koubi Shichatta Bakunyuu Hitozuma no Hanashi
+      | The Story of How the Big-Breasted Wife Had a Real Mating Session at a Monster
+      Petting Experience
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691380.jpg
+    rating: 0.0
+    date: '2026-10-30'
+    code: 691380
+    url: /works/691380/
   - title: inuhoozuki no Otokonoko
     author: hokuro-ryuseigun
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691400.jpg
@@ -8461,6 +8470,13 @@ works:
     date: '2026-10-28'
     code: 691400
     url: /works/691400/
+  - title: 'Nerawareta Yoga Koushi Tsuma ~Miki~ | TARGETED YOGA INSTRUCTOR WIFE: MIKI'
+    author: pairesshu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691445.jpg
+    rating: 0.0
+    date: '2026-10-30'
+    code: 691445
+    url: /works/691445/
   - title: Kyouraku Moumoku Weekend
     author: mudoochi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691452.jpg

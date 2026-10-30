@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big breasts"
-work_count: 1316
+work_count: 1319
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -2442,6 +2442,14 @@ works:
     date: '2026-04-23'
     code: 569731
     url: /works/569731/
+  - title: Dekai Osananajimi-tachi ni Hasamarete Ase Daku Harem Ecchi | Harem Sex Sandwiched
+      Between My Huge Childhood Friends
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/571119.jpg
+    rating: 0.0
+    date: '2026-10-30'
+    code: 571119
+    url: /works/571119/
   - title: Tomo-ochi Boshisoukan | Co-Depraved Mother-Son Incest
     author: ozy
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/571271.jpg
@@ -9646,6 +9654,15 @@ works:
     date: '2026-10-28'
     code: 691374
     url: /works/691374/
+  - title: Majuu Fureai Taiken de Gachi Koubi Shichatta Bakunyuu Hitozuma no Hanashi
+      | The Story of How the Big-Breasted Wife Had a Real Mating Session at a Monster
+      Petting Experience
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691380.jpg
+    rating: 0.0
+    date: '2026-10-30'
+    code: 691380
+    url: /works/691380/
   - title: Ero Situ Jidou Seisei Appli de Juujitsu no Ero SuppoLife | Enhance your erotic
       life with an app that auto-generates erotic scenarios.
     author: mangetsu-wasabi
@@ -9662,6 +9679,13 @@ works:
     date: '2026-10-29'
     code: 691440
     url: /works/691440/
+  - title: 'Nerawareta Yoga Koushi Tsuma ~Miki~ | TARGETED YOGA INSTRUCTOR WIFE: MIKI'
+    author: pairesshu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691445.jpg
+    rating: 0.0
+    date: '2026-10-30'
+    code: 691445
+    url: /works/691445/
   - title: Abunai SEITO
     author: thomson
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691558.jpg

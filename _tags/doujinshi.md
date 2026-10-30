@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "doujinshi"
-work_count: 1608
+work_count: 1611
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -3140,6 +3140,14 @@ works:
     date: '2026-04-13'
     code: 570215
     url: /works/570215/
+  - title: Dekai Osananajimi-tachi ni Hasamarete Ase Daku Harem Ecchi | Harem Sex Sandwiched
+      Between My Huge Childhood Friends
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/571119.jpg
+    rating: 0.0
+    date: '2026-10-30'
+    code: 571119
+    url: /works/571119/
   - title: Adult Game mo Ganbaru zoi | I'll Do My Best, Even if I'm Working on an Adult
       Game
     author: ootsuka-kotora
@@ -11805,6 +11813,15 @@ works:
     date: '2026-10-28'
     code: 690945
     url: /works/690945/
+  - title: Majuu Fureai Taiken de Gachi Koubi Shichatta Bakunyuu Hitozuma no Hanashi
+      | The Story of How the Big-Breasted Wife Had a Real Mating Session at a Monster
+      Petting Experience
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691380.jpg
+    rating: 0.0
+    date: '2026-10-30'
+    code: 691380
+    url: /works/691380/
   - title: Ero Situ Jidou Seisei Appli de Juujitsu no Ero SuppoLife | Enhance your erotic
       life with an app that auto-generates erotic scenarios.
     author: mangetsu-wasabi
@@ -11828,6 +11845,13 @@ works:
     date: '2026-10-29'
     code: 691440
     url: /works/691440/
+  - title: 'Nerawareta Yoga Koushi Tsuma ~Miki~ | TARGETED YOGA INSTRUCTOR WIFE: MIKI'
+    author: pairesshu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691445.jpg
+    rating: 0.0
+    date: '2026-10-30'
+    code: 691445
+    url: /works/691445/
   - title: Shikarubeki Keii to Kansha no Nen o - The respect and gratitude that is his
       due
     author: adagio

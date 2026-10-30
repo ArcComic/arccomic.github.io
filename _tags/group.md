@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "group"
-work_count: 292
+work_count: 293
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -478,6 +478,14 @@ works:
     date: '2026-10-12'
     code: 568871
     url: /works/568871/
+  - title: Dekai Osananajimi-tachi ni Hasamarete Ase Daku Harem Ecchi | Harem Sex Sandwiched
+      Between My Huge Childhood Friends
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/571119.jpg
+    rating: 0.0
+    date: '2026-10-30'
+    code: 571119
+    url: /works/571119/
   - title: Hitozuma Volley-bu no Asedaku SEX ~Shower Abinagara Mitchaku Shichau? 5-6
       | Married Women's Volleyball Club Sweaty Sex - We're Being Glued Together While
       Taking A Shower? 5-6

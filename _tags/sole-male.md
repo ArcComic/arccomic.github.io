@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole male"
-work_count: 1093
+work_count: 1095
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -2433,6 +2433,14 @@ works:
     date: '2026-04-19'
     code: 569195
     url: /works/569195/
+  - title: Dekai Osananajimi-tachi ni Hasamarete Ase Daku Harem Ecchi | Harem Sex Sandwiched
+      Between My Huge Childhood Friends
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/571119.jpg
+    rating: 0.0
+    date: '2026-10-30'
+    code: 571119
+    url: /works/571119/
   - title: Tomo-ochi Boshisoukan | Co-Depraved Mother-Son Incest
     author: ozy
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/571271.jpg
@@ -8050,6 +8058,13 @@ works:
     date: '2026-10-28'
     code: 691387
     url: /works/691387/
+  - title: 'Nerawareta Yoga Koushi Tsuma ~Miki~ | TARGETED YOGA INSTRUCTOR WIFE: MIKI'
+    author: pairesshu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691445.jpg
+    rating: 0.0
+    date: '2026-10-30'
+    code: 691445
+    url: /works/691445/
   - title: Kyouraku Moumoku Weekend
     author: mudoochi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691452.jpg

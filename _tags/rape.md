@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "rape"
-work_count: 272
+work_count: 273
 works:
   - title: Office Love Scramble Ch. 1
     author: tohzai
@@ -1965,6 +1965,13 @@ works:
     date: '2026-10-21'
     code: 688473
     url: /works/688473/
+  - title: 'Nerawareta Yoga Koushi Tsuma ~Miki~ | TARGETED YOGA INSTRUCTOR WIFE: MIKI'
+    author: pairesshu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691445.jpg
+    rating: 0.0
+    date: '2026-10-30'
+    code: 691445
+    url: /works/691445/
   - title: Abunai SEITO
     author: thomson
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691558.jpg

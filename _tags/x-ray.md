@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "x-ray"
-work_count: 402
+work_count: 403
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -739,6 +739,14 @@ works:
     date: '2026-10-02'
     code: 567532
     url: /works/567532/
+  - title: Dekai Osananajimi-tachi ni Hasamarete Ase Daku Harem Ecchi | Harem Sex Sandwiched
+      Between My Huge Childhood Friends
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/571119.jpg
+    rating: 0.0
+    date: '2026-10-30'
+    code: 571119
+    url: /works/571119/
   - title: Tomo-ochi Boshisoukan | Co-Depraved Mother-Son Incest
     author: ozy
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/571271.jpg
