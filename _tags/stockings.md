@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "stockings"
-work_count: 271
+work_count: 272
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -1935,6 +1935,13 @@ works:
     date: '2026-10-26'
     code: 690851
     url: /works/690851/
+  - title: Joushi no Musume | My Boss's Daughter
+    author: taniguchi-daisuke
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690937.jpg
+    rating: 4.5
+    date: '2026-10-30'
+    code: 690937
+    url: /works/690937/
   - title: Seductive Voice Training Camp - Active College Student Model Sae Oshiro
     author: sevengar
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691454.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "netori"
-work_count: 36
+work_count: 37
 works:
   - title: Onee-chan ga Ecchi na Koto bakka Suru kara... | My older sister only does
       obscene things...
@@ -198,6 +198,14 @@ works:
     date: '2026-07-11'
     code: 663287
     url: /works/663287/
+  - title: 'Ore No MatchApp Taikenki ~Kareshi-Mochi JD O Bachiboko Ni Hamete Mita~ |
+      My Dating App Experience: Banging A College Girl Who Has A Boyfriend Like Crazy'
+    author: alps1mando
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/666756.jpg
+    rating: 0.0
+    date: '2026-10-30'
+    code: 666756
+    url: /works/666756/
   - title: Zenin Mukuwarenai Harem | A Harem Where No One Is Reciprocated 2
     author: cabin
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/669856.jpg

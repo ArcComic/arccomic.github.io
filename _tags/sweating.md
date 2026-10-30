@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sweating"
-work_count: 207
+work_count: 208
 works:
   - title: Kaisha de Iroiro | Gettin' Busy at the Office
     author: hara-shigeyuki
@@ -1218,6 +1218,14 @@ works:
     date: '2026-07-16'
     code: 664853
     url: /works/664853/
+  - title: 'Ore No MatchApp Taikenki ~Kareshi-Mochi JD O Bachiboko Ni Hamete Mita~ |
+      My Dating App Experience: Banging A College Girl Who Has A Boyfriend Like Crazy'
+    author: alps1mando
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/666756.jpg
+    rating: 0.0
+    date: '2026-10-30'
+    code: 666756
+    url: /works/666756/
   - title: Jimoto no Dekai Gal | The Big Gyaru From My Hometown
     author: ueno-meguru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/668636.jpg

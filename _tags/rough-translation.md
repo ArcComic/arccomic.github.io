@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "rough translation"
-work_count: 766
+work_count: 769
 works:
   - title: Boku no Shiranai Kimi no Kao
     author: utsutsu-minoru
@@ -3094,6 +3094,14 @@ works:
     date: '2026-09-22'
     code: 666748
     url: /works/666748/
+  - title: 'Ore No MatchApp Taikenki ~Kareshi-Mochi JD O Bachiboko Ni Hamete Mita~ |
+      My Dating App Experience: Banging A College Girl Who Has A Boyfriend Like Crazy'
+    author: alps1mando
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/666756.jpg
+    rating: 0.0
+    date: '2026-10-30'
+    code: 666756
+    url: /works/666756/
   - title: Rental Kanojo Osawari Shimasu 12
     author: yahiro-pochi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/666941.jpg
@@ -3971,6 +3979,13 @@ works:
     date: '2026-09-07'
     code: 679230
     url: /works/679230/
+  - title: Yoidore Sakurasou | Tipsy Primrose
+    author: sayuumigi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679311.jpg
+    rating: 0.0
+    date: '2026-10-30'
+    code: 679311
+    url: /works/679311/
   - title: Okaa-san wa Musuko no Nakadashi Senyou Onahole Bangaihen
     author: natsume-benkei
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679501.jpg
@@ -5551,6 +5566,13 @@ works:
     date: '2026-10-26'
     code: 690875
     url: /works/690875/
+  - title: Joushi no Musume | My Boss's Daughter
+    author: taniguchi-daisuke
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690937.jpg
+    rating: 4.5
+    date: '2026-10-30'
+    code: 690937
+    url: /works/690937/
   - title: Kanojo no Mama wa Mamakatsu no Mama datta.
     author: taniguchi-daisuke
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690945.jpg

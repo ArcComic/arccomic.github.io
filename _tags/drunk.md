@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "drunk"
-work_count: 59
+work_count: 60
 works:
   - title: Birthday
     author: hashiba-yachi
@@ -373,6 +373,13 @@ works:
     date: '2026-08-21'
     code: 674704
     url: /works/674704/
+  - title: Yoidore Sakurasou | Tipsy Primrose
+    author: sayuumigi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679311.jpg
+    rating: 0.0
+    date: '2026-10-30'
+    code: 679311
+    url: /works/679311/
   - title: Kamisama... Kodomo o kudasai | God... please give me a child
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679596.jpg

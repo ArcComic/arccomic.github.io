@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "machine translation"
-work_count: 37
+work_count: 38
 works:
   - title: My part-time coworker ran away from home and came to work here, but she was
       too sexy...
@@ -195,6 +195,14 @@ works:
     date: '2026-07-16'
     code: 664460
     url: /works/664460/
+  - title: 'Ore No MatchApp Taikenki ~Kareshi-Mochi JD O Bachiboko Ni Hamete Mita~ |
+      My Dating App Experience: Banging A College Girl Who Has A Boyfriend Like Crazy'
+    author: alps1mando
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/666756.jpg
+    rating: 0.0
+    date: '2026-10-30'
+    code: 666756
+    url: /works/666756/
   - title: Kanojo no Mama mo Sex Friend ni shita Hanashi! | How I Ended Up Sleeping
       with My Girlfriend's Mom
     author: taniguchi-daisuke

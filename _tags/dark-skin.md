@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "dark skin"
-work_count: 185
+work_count: 186
 works:
   - title: Birthday
     author: hashiba-yachi
@@ -972,6 +972,14 @@ works:
     date: '2026-09-19'
     code: 665207
     url: /works/665207/
+  - title: 'Ore No MatchApp Taikenki ~Kareshi-Mochi JD O Bachiboko Ni Hamete Mita~ |
+      My Dating App Experience: Banging A College Girl Who Has A Boyfriend Like Crazy'
+    author: alps1mando
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/666756.jpg
+    rating: 0.0
+    date: '2026-10-30'
+    code: 666756
+    url: /works/666756/
   - title: Tainou Bicchi Hensai Keikaku | The Delinquent Bitch's Repayment Plan
     author: onkyu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/667990.jpg

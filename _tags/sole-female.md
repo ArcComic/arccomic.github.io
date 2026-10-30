@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole female"
-work_count: 1149
+work_count: 1151
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -6601,6 +6601,13 @@ works:
     date: '2026-09-07'
     code: 679230
     url: /works/679230/
+  - title: Yoidore Sakurasou | Tipsy Primrose
+    author: sayuumigi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679311.jpg
+    rating: 0.0
+    date: '2026-10-30'
+    code: 679311
+    url: /works/679311/
   - title: Homestay Saki no Mama-san ga Boku no Dekamara de Ikimakutta Hanashi | The
       story of how the mom at my homestay came over and over on my huge cock
     author: minegami-aya
@@ -8424,6 +8431,13 @@ works:
     date: '2026-10-26'
     code: 690875
     url: /works/690875/
+  - title: Joushi no Musume | My Boss's Daughter
+    author: taniguchi-daisuke
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690937.jpg
+    rating: 4.5
+    date: '2026-10-30'
+    code: 690937
+    url: /works/690937/
   - title: Souma Kurumi no Yuugi -Yukemuri Ryojou Hen (3)- | Kurumi Souma's Lewd Game
       ~Hot Spring Travel Stories (3)~
     author: mizuryu-kei

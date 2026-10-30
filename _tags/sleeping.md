@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sleeping"
-work_count: 66
+work_count: 67
 works:
   - title: Netemo Sametemo | Be it Sleeping or Awake
     author: takasugi-kou
@@ -430,6 +430,13 @@ works:
     date: '2026-08-25'
     code: 672450
     url: /works/672450/
+  - title: Yoidore Sakurasou | Tipsy Primrose
+    author: sayuumigi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679311.jpg
+    rating: 0.0
+    date: '2026-10-30'
+    code: 679311
+    url: /works/679311/
   - title: The Nun Who tricks her Sibling
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681899.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "netorare"
-work_count: 495
+work_count: 497
 works:
   - title: Kousa suru Osu to Mesu | Male and Female Crossing
     author: ootsuka-kotora
@@ -2501,6 +2501,14 @@ works:
     date: '2026-09-28'
     code: 665001
     url: /works/665001/
+  - title: 'Ore No MatchApp Taikenki ~Kareshi-Mochi JD O Bachiboko Ni Hamete Mita~ |
+      My Dating App Experience: Banging A College Girl Who Has A Boyfriend Like Crazy'
+    author: alps1mando
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/666756.jpg
+    rating: 0.0
+    date: '2026-10-30'
+    code: 666756
+    url: /works/666756/
   - title: Shin Zuma, Ochiru
     author: t-landolt
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/667150.jpg
@@ -2809,6 +2817,13 @@ works:
     date: '2026-09-07'
     code: 679197
     url: /works/679197/
+  - title: Yoidore Sakurasou | Tipsy Primrose
+    author: sayuumigi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679311.jpg
+    rating: 0.0
+    date: '2026-10-30'
+    code: 679311
+    url: /works/679311/
   - title: Homestay Saki no Mama-san ga Boku no Dekamara de Ikimakutta Hanashi | The
       story of how the mom at my homestay came over and over on my huge cock
     author: minegami-aya
