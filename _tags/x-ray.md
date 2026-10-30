@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "x-ray"
-work_count: 401
+work_count: 402
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -181,6 +181,14 @@ works:
     date: '2026-10-20'
     code: 393761
     url: /works/393761/
+  - title: Matching Appli de Deatta Aite ha Kaa-san Deshita | I Matched Mom on My Dating
+      App
+    author: kumo-no-ito
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/396215.jpg
+    rating: 4.2
+    date: '2026-10-30'
+    code: 396215
+    url: /works/396215/
   - title: SUCCUBUS MONOGATARI
     author: mackgee
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/400846.jpg
@@ -1056,7 +1064,7 @@ works:
   - title: Charai Daigakusei ni Netorareta Boku no Kanojo
     author: furaimai
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/617074.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-30'
     code: 617074
     url: /works/617074/

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "masturbation"
-work_count: 174
+work_count: 175
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -496,7 +496,7 @@ works:
   - title: Charai Daigakusei ni Netorareta Boku no Kanojo
     author: furaimai
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/617074.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-30'
     code: 617074
     url: /works/617074/
@@ -536,6 +536,14 @@ works:
     date: '2026-09-30'
     code: 624848
     url: /works/624848/
+  - title: i no Mikkai -i no Shissou 3- | The Secret Meeting of "i" — The Disappearance
+      of "i" 3
+    author: kawauchi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/627719.jpg
+    rating: 4.7
+    date: '2026-10-30'
+    code: 627719
+    url: /works/627719/
   - title: 'Bijutsubu Harem Katsudou Nisshi ~Senpai no Slump Kaishou ni Kyouryoku shitara,
       Ikioi de 3P suru Koto ni Natta Hanashi~ | Art Club Harem Activity Log: How Helping
       My Senior Get Over Her Slump Led to a Threesome in the Heat of the Moment'

@@ -1,7 +1,7 @@
 ---
 layout: artist
 artist_name: "kawauchi"
-work_count: 3
+work_count: 4
 works:
   - title: Nuru, Hagu | Null Hug
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/341815.jpg
@@ -15,6 +15,13 @@ works:
     date: '2026-10-28'
     code: 377019
     url: /works/377019/
+  - title: i no Mikkai -i no Shissou 3- | The Secret Meeting of "i" — The Disappearance
+      of "i" 3
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/627719.jpg
+    rating: 4.7
+    date: '2026-10-30'
+    code: 627719
+    url: /works/627719/
   - title: i no Shissou | The Disappearance of "i"
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/633983.jpg
     rating: 4.3

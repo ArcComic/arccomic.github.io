@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "multi-work series"
-work_count: 462
+work_count: 463
 works:
   - title: Konna ni mo Itooshii Zero
     author: nohito
@@ -1364,6 +1364,14 @@ works:
     date: '2026-05-26'
     code: 627182
     url: /works/627182/
+  - title: i no Mikkai -i no Shissou 3- | The Secret Meeting of "i" — The Disappearance
+      of "i" 3
+    author: kawauchi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/627719.jpg
+    rating: 4.7
+    date: '2026-10-30'
+    code: 627719
+    url: /works/627719/
   - title: Succubus Seitokai Shiko Shiko Shikkoubu 3 | Succubus Student Council Milking
       Club 3
     author: michiking

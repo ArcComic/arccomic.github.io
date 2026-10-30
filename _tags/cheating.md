@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "cheating"
-work_count: 438
+work_count: 439
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -388,6 +388,14 @@ works:
     date: '2026-10-20'
     code: 393761
     url: /works/393761/
+  - title: Matching Appli de Deatta Aite ha Kaa-san Deshita | I Matched Mom on My Dating
+      App
+    author: kumo-no-ito
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/396215.jpg
+    rating: 4.2
+    date: '2026-10-30'
+    code: 396215
+    url: /works/396215/
   - title: Yurikago
     author: neko-samurai
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/398305.jpg
@@ -1484,7 +1492,7 @@ works:
   - title: Charai Daigakusei ni Netorareta Boku no Kanojo
     author: furaimai
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/617074.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-30'
     code: 617074
     url: /works/617074/
@@ -2363,7 +2371,7 @@ works:
       My Dating App Experience: Banging A College Girl Who Has A Boyfriend Like Crazy'
     author: alps1mando
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/666756.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-10-30'
     code: 666756
     url: /works/666756/

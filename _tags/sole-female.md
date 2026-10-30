@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole female"
-work_count: 1151
+work_count: 1152
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -942,6 +942,14 @@ works:
     date: '2026-09-06'
     code: 396089
     url: /works/396089/
+  - title: Matching Appli de Deatta Aite ha Kaa-san Deshita | I Matched Mom on My Dating
+      App
+    author: kumo-no-ito
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/396215.jpg
+    rating: 4.2
+    date: '2026-10-30'
+    code: 396215
+    url: /works/396215/
   - title: Natsuyasumi! Osananajimi to Asedaku Sex - Sweaty sex with a childhood friend
     author: sokumaru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/396367.jpg
@@ -2016,7 +2024,7 @@ works:
   - title: Dai Kirai na Haha wo Zenra Kaseifu ni Shita Hanashi
     author: kumo-no-ito
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/520272.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-10-30'
     code: 520272
     url: /works/520272/
@@ -5254,7 +5262,7 @@ works:
   - title: Numarase! Nori Tai Shufu Matsuko
     author: o-p-com
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/657499.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-10-30'
     code: 657499
     url: /works/657499/
@@ -6604,7 +6612,7 @@ works:
   - title: Yoidore Sakurasou | Tipsy Primrose
     author: sayuumigi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679311.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-30'
     code: 679311
     url: /works/679311/

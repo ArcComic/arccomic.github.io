@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "condom"
-work_count: 255
+work_count: 256
 works:
   - title: Kaisha de Iroiro | Gettin' Busy at the Office
     author: hara-shigeyuki
@@ -231,6 +231,14 @@ works:
     date: '2026-08-24'
     code: 392617
     url: /works/392617/
+  - title: Matching Appli de Deatta Aite ha Kaa-san Deshita | I Matched Mom on My Dating
+      App
+    author: kumo-no-ito
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/396215.jpg
+    rating: 4.2
+    date: '2026-10-30'
+    code: 396215
+    url: /works/396215/
   - title: Natsuyasumi! Osananajimi to Asedaku Sex - Sweaty sex with a childhood friend
     author: sokumaru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/396367.jpg
@@ -866,7 +874,7 @@ works:
   - title: Charai Daigakusei ni Netorareta Boku no Kanojo
     author: furaimai
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/617074.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-30'
     code: 617074
     url: /works/617074/

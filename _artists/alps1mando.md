@@ -1,7 +1,7 @@
 ---
 layout: artist
 artist_name: "alps1mando"
-work_count: 4
+work_count: 5
 works:
   - title: Truck Girl to Iede Boy Otona e no Tabi - Trucker Gal & The Runaway
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/608159.jpg
@@ -9,6 +9,12 @@ works:
     date: '2026-09-18'
     code: 608159
     url: /works/608159/
+  - title: Work 608180
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/608180.jpg
+    rating: 4.7
+    date: '2026-10-30'
+    code: 608180
+    url: /works/608180/
   - title: Truck Girl to Iede Boy Otona e no Tabi - Trucker Gal & The Runaway
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/609108.jpg
     rating: 4.9
@@ -24,7 +30,7 @@ works:
   - title: 'Ore No MatchApp Taikenki ~Kareshi-Mochi JD O Bachiboko Ni Hamete Mita~ |
       My Dating App Experience: Banging A College Girl Who Has A Boyfriend Like Crazy'
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/666756.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-10-30'
     code: 666756
     url: /works/666756/

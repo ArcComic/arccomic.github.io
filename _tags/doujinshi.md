@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "doujinshi"
-work_count: 1606
+work_count: 1608
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -839,6 +839,14 @@ works:
     date: '2026-10-20'
     code: 393761
     url: /works/393761/
+  - title: Matching Appli de Deatta Aite ha Kaa-san Deshita | I Matched Mom on My Dating
+      App
+    author: kumo-no-ito
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/396215.jpg
+    rating: 4.2
+    date: '2026-10-30'
+    code: 396215
+    url: /works/396215/
   - title: Natsuyasumi! Osananajimi to Asedaku Sex - Sweaty sex with a childhood friend
     author: sokumaru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/396367.jpg
@@ -2121,7 +2129,7 @@ works:
   - title: Dai Kirai na Haha wo Zenra Kaseifu ni Shita Hanashi
     author: kumo-no-ito
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/520272.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-10-30'
     code: 520272
     url: /works/520272/
@@ -4164,7 +4172,7 @@ works:
   - title: Charai Daigakusei ni Netorareta Boku no Kanojo
     author: furaimai
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/617074.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-30'
     code: 617074
     url: /works/617074/
@@ -4412,6 +4420,14 @@ works:
     date: '2026-05-26'
     code: 627182
     url: /works/627182/
+  - title: i no Mikkai -i no Shissou 3- | The Secret Meeting of "i" — The Disappearance
+      of "i" 3
+    author: kawauchi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/627719.jpg
+    rating: 4.7
+    date: '2026-10-30'
+    code: 627719
+    url: /works/627719/
   - title: Hitozuma-tachi no Kiken na Jouji | The Housewife's Dangerous Situation
     author: homare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/627722.jpg
@@ -6925,7 +6941,7 @@ works:
   - title: Numarase! Nori Tai Shufu Matsuko
     author: o-p-com
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/657499.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-10-30'
     code: 657499
     url: /works/657499/
@@ -7909,7 +7925,7 @@ works:
       My Dating App Experience: Banging A College Girl Who Has A Boyfriend Like Crazy'
     author: alps1mando
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/666756.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-10-30'
     code: 666756
     url: /works/666756/
@@ -9048,7 +9064,7 @@ works:
   - title: Yoidore Sakurasou | Tipsy Primrose
     author: sayuumigi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679311.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-30'
     code: 679311
     url: /works/679311/

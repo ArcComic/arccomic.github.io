@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "virginity"
-work_count: 173
+work_count: 174
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -198,6 +198,14 @@ works:
     date: '2026-09-13'
     code: 388627
     url: /works/388627/
+  - title: Matching Appli de Deatta Aite ha Kaa-san Deshita | I Matched Mom on My Dating
+      App
+    author: kumo-no-ito
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/396215.jpg
+    rating: 4.2
+    date: '2026-10-30'
+    code: 396215
+    url: /works/396215/
   - title: I Was Devoured by My Gyaru Senpai (COMIC Anthurium 2021-10) + I Made My Gyaru
       Senpai Cum Over & Over Doggy Style
     author: arimura-daikon

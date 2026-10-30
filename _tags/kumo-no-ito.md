@@ -1,8 +1,16 @@
 ---
 layout: tag
 tag_name: "kumo no ito"
-work_count: 4
+work_count: 5
 works:
+  - title: Matching Appli de Deatta Aite ha Kaa-san Deshita | I Matched Mom on My Dating
+      App
+    author: kumo-no-ito
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/396215.jpg
+    rating: 4.2
+    date: '2026-10-30'
+    code: 396215
+    url: /works/396215/
   - title: 'Zoku Matching Appli de Deatta Aite wa Kaa-san deshita | I Matched Mom on
       My Dating App: The Sequel'
     author: kumo-no-ito
@@ -21,7 +29,7 @@ works:
   - title: Dai Kirai na Haha wo Zenra Kaseifu ni Shita Hanashi
     author: kumo-no-ito
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/520272.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-10-30'
     code: 520272
     url: /works/520272/

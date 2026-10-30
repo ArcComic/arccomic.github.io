@@ -110,7 +110,7 @@ works:
   - title: Charai Daigakusei ni Netorareta Boku no Kanojo
     author: furaimai
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/617074.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-10-30'
     code: 617074
     url: /works/617074/
@@ -993,7 +993,7 @@ works:
       My Dating App Experience: Banging A College Girl Who Has A Boyfriend Like Crazy'
     author: alps1mando
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/666756.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-10-30'
     code: 666756
     url: /works/666756/
@@ -1283,7 +1283,7 @@ works:
   - title: Yoidore Sakurasou | Tipsy Primrose
     author: sayuumigi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679311.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-10-30'
     code: 679311
     url: /works/679311/

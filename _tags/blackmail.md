@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "blackmail"
-work_count: 167
+work_count: 168
 works:
   - title: Birthday
     author: hashiba-yachi
@@ -130,6 +130,14 @@ works:
     date: '2026-10-20'
     code: 393761
     url: /works/393761/
+  - title: Matching Appli de Deatta Aite ha Kaa-san Deshita | I Matched Mom on My Dating
+      App
+    author: kumo-no-ito
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/396215.jpg
+    rating: 4.2
+    date: '2026-10-30'
+    code: 396215
+    url: /works/396215/
   - title: I Was Devoured by My Gyaru Senpai (COMIC Anthurium 2021-10) + I Made My Gyaru
       Senpai Cum Over & Over Doggy Style
     author: arimura-daikon
@@ -744,7 +752,7 @@ works:
   - title: Numarase! Nori Tai Shufu Matsuko
     author: o-p-com
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/657499.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-10-30'
     code: 657499
     url: /works/657499/
