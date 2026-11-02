@@ -25,7 +25,7 @@ works:
     url: /works/459857/
   - title: Onnajoushi wa Ikiwakareta Haha | My Female Boss is My Estranged Mother
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/480098.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-10-30'
     code: 480098
     url: /works/480098/
@@ -44,7 +44,7 @@ works:
   - title: Boshi Koubi Shinai to Sumenai Tokoro | A Place Where You Can't Live Unless
       You Have Sex With Your Mother
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/627375.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-10-30'
     code: 627375
     url: /works/627375/

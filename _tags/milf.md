@@ -442,7 +442,7 @@ works:
       Sex Agreement With Oba-San
     author: pairesshu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/414003.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-10-30'
     code: 414003
     url: /works/414003/
@@ -702,7 +702,7 @@ works:
   - title: Onnajoushi wa Ikiwakareta Haha | My Female Boss is My Estranged Mother
     author: kumo-no-ito
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/480098.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-10-30'
     code: 480098
     url: /works/480098/
@@ -1847,7 +1847,7 @@ works:
       You Have Sex With Your Mother
     author: kumo-no-ito
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/627375.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-10-30'
     code: 627375
     url: /works/627375/
@@ -2477,7 +2477,7 @@ works:
   - title: Osekkaina Oba-san to Apart de Sex Shita Hanashi
     author: pairesshu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/655549.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-10-30'
     code: 655549
     url: /works/655549/
@@ -2902,7 +2902,7 @@ works:
       — The Classmate’s Mother Edition'
     author: amatani-haruka
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/669499.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-10-30'
     code: 669499
     url: /works/669499/
@@ -3862,7 +3862,7 @@ works:
       Petting Experience
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691380.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-10-30'
     code: 691380
     url: /works/691380/
@@ -3870,14 +3870,14 @@ works:
       OF HAVING SEX WITH MS. SAEKI, MY TRAINER, DURING WORK
     author: pairesshu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691442.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-10-30'
     code: 691442
     url: /works/691442/
   - title: 'Nerawareta Yoga Koushi Tsuma ~Miki~ | TARGETED YOGA INSTRUCTOR WIFE: MIKI'
     author: pairesshu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691445.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-10-30'
     code: 691445
     url: /works/691445/

@@ -411,7 +411,7 @@ works:
   - title: Onnajoushi wa Ikiwakareta Haha | My Female Boss is My Estranged Mother
     author: kumo-no-ito
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/480098.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-10-30'
     code: 480098
     url: /works/480098/
@@ -750,7 +750,7 @@ works:
       Between My Huge Childhood Friends
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/571119.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-10-30'
     code: 571119
     url: /works/571119/

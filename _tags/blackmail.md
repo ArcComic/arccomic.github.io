@@ -1235,7 +1235,7 @@ works:
       OF HAVING SEX WITH MS. SAEKI, MY TRAINER, DURING WORK
     author: pairesshu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691442.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-10-30'
     code: 691442
     url: /works/691442/
