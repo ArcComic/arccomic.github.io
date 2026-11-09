@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "glasses"
-work_count: 323
+work_count: 325
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -2358,6 +2358,21 @@ works:
     date: '2026-10-28'
     code: 691671
     url: /works/691671/
+  - title: Momota-san Next Door
+    author: hogeramu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694863.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 694863
+    url: /works/694863/
+  - title: Nude Model o Koushi Mizukara Yatte kureru Gajuku no Hanashi | The story of
+      an art cram school where the instructor herself volunteers to be a nude model
+    author: kekemotsu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694888.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 694888
+    url: /works/694888/
   - title: Don't Make a Sound
     author: sunaba-suzume
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694973.jpg

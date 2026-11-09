@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "phimosis"
-work_count: 9
+work_count: 10
 works:
   - title: Rinraku no Susume | Corruption Provocation [English] [Rnot2000] =The Lost
       Light=
@@ -11,6 +11,14 @@ works:
     date: '2026-11-08'
     code: 397141
     url: /works/397141/
+  - title: Chiyuki Onee-san ga Yasashiku Shiboritocchau Hon | Chiyuki Onee-san Gently
+      Milks Me Dry
+    author: arisu-kazumi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/438340.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 438340
+    url: /works/438340/
   - title: Shounen yo, Watashi o Idake. 少年,抱住我
     author: torii-yoshitsuna
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/599514.jpg

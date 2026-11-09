@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "breast feeding"
-work_count: 117
+work_count: 119
 works:
   - title: Oppai na Natsuyasumi 2 | The Summer Break of Boobs 2
     author: higashino-mikan
@@ -48,6 +48,14 @@ works:
     date: '2026-08-18'
     code: 432356
     url: /works/432356/
+  - title: Chiyuki Onee-san ga Yasashiku Shiboritocchau Hon | Chiyuki Onee-san Gently
+      Milks Me Dry
+    author: arisu-kazumi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/438340.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 438340
+    url: /works/438340/
   - title: Ichizu na Onee-san to Saikaishitara Dosukebe Kyuukonsarete Sex Tsukeninaru
       Hanashi | After Reuniting with the Onee-san Who is Fixated on Me, I was Proposed
       to with Sex and Got Addicted
@@ -874,6 +882,14 @@ works:
     date: '2026-11-08'
     code: 694850
     url: /works/694850/
+  - title: Nude Model o Koushi Mizukara Yatte kureru Gajuku no Hanashi | The story of
+      an art cram school where the instructor herself volunteers to be a nude model
+    author: kekemotsu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694888.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 694888
+    url: /works/694888/
   - title: The 211cm Jirai-kei Girl Who Won't Let Go of Me 4
     author: kinntarou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694925.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "kissing"
-work_count: 472
+work_count: 473
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -3524,6 +3524,13 @@ works:
     date: '2026-11-08'
     code: 694850
     url: /works/694850/
+  - title: Momota-san Next Door
+    author: hogeramu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694863.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 694863
+    url: /works/694863/
   - title: Ano Toki no Sekinin Totte...Nii-san / Do you remember our secret game, Onii-chan?
     author: dochashiko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694921.jpg

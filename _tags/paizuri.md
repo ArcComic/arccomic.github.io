@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "paizuri"
-work_count: 284
+work_count: 286
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -169,6 +169,14 @@ works:
     date: '2026-11-08'
     code: 429195
     url: /works/429195/
+  - title: Chiyuki Onee-san ga Yasashiku Shiboritocchau Hon | Chiyuki Onee-san Gently
+      Milks Me Dry
+    author: arisu-kazumi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/438340.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 438340
+    url: /works/438340/
   - title: Tonari no Onee-san no Shitagi o Nusundara Kiseki ga Okita Hanashi o Shiyou
       |  Let’s Talk About the Story of A Miracle that Happened When I Stole the Underwear
       of the Lady Next Door
@@ -2112,6 +2120,13 @@ works:
     date: '2026-11-08'
     code: 694670
     url: /works/694670/
+  - title: Momota-san Next Door
+    author: hogeramu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694863.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 694863
+    url: /works/694863/
   - title: The 211cm Jirai-kei Girl Who Won't Let Go of Me 4
     author: kinntarou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694925.jpg

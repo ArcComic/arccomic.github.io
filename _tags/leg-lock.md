@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "leg lock"
-work_count: 120
+work_count: 121
 works:
   - title: My Care Lady Ch. 1
     author: sugi-g
@@ -125,6 +125,14 @@ works:
     date: '2026-08-18'
     code: 432356
     url: /works/432356/
+  - title: Chiyuki Onee-san ga Yasashiku Shiboritocchau Hon | Chiyuki Onee-san Gently
+      Milks Me Dry
+    author: arisu-kazumi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/438340.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 438340
+    url: /works/438340/
   - title: Tonari no Onee-san no Shitagi o Nusundara Kiseki ga Okita Hanashi o Shiyou
       |  Let’s Talk About the Story of A Miracle that Happened When I Stole the Underwear
       of the Lady Next Door

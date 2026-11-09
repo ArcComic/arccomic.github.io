@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "cunnilingus"
-work_count: 217
+work_count: 218
 works:
   - title: Love Approach
     author: hanafuda-sakurano
@@ -1599,6 +1599,13 @@ works:
     date: '2026-11-08'
     code: 694670
     url: /works/694670/
+  - title: Momota-san Next Door
+    author: hogeramu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694863.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 694863
+    url: /works/694863/
   - title: The 211cm Jirai-kei Girl Who Won't Let Go of Me 4
     author: kinntarou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694925.jpg

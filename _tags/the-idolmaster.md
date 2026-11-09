@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "the idolmaster"
-work_count: 82
+work_count: 83
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -277,6 +277,14 @@ works:
     date: '2026-10-12'
     code: 407222
     url: /works/407222/
+  - title: Chiyuki Onee-san ga Yasashiku Shiboritocchau Hon | Chiyuki Onee-san Gently
+      Milks Me Dry
+    author: arisu-kazumi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/438340.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 438340
+    url: /works/438340/
   - title: Otona no Himegoto
     author: gustav
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/473512.jpg

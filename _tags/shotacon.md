@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "shotacon"
-work_count: 163
+work_count: 164
 works:
   - title: Ikanishite Haha wa Onna o Kaihou Shitaka Ch. 1-14
     author: mitarai-yuuki
@@ -205,6 +205,14 @@ works:
     date: '2026-09-29'
     code: 438138
     url: /works/438138/
+  - title: Chiyuki Onee-san ga Yasashiku Shiboritocchau Hon | Chiyuki Onee-san Gently
+      Milks Me Dry
+    author: arisu-kazumi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/438340.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 438340
+    url: /works/438340/
   - title: Tonari no Onee-san no Shitagi o Nusundara Kiseki ga Okita Hanashi o Shiyou
       |  Let’s Talk About the Story of A Miracle that Happened When I Stole the Underwear
       of the Lady Next Door

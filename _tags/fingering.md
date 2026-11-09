@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "fingering"
-work_count: 234
+work_count: 235
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -1726,6 +1726,13 @@ works:
     date: '2026-11-08'
     code: 694670
     url: /works/694670/
+  - title: Momota-san Next Door
+    author: hogeramu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694863.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 694863
+    url: /works/694863/
   - title: Zutto Issho ni Iyou ne | Let's Be Together Forever Ok?
     author: oosawa-ofuda-ohuda
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694922.jpg

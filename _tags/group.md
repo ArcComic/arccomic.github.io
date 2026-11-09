@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "group"
-work_count: 298
+work_count: 299
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -2171,6 +2171,14 @@ works:
     date: '2026-11-09'
     code: 694780
     url: /works/694780/
+  - title: Nude Model o Koushi Mizukara Yatte kureru Gajuku no Hanashi | The story of
+      an art cram school where the instructor herself volunteers to be a nude model
+    author: kekemotsu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694888.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 694888
+    url: /works/694888/
   - title: 'Onee-san to Shiyo? ~Echinpo Card de Yaritai Houdai~ (3) | Wanna Do It With
       Onee-san? ~The Ecchi Card: Do What You Want!~'
     author: minato-yuu

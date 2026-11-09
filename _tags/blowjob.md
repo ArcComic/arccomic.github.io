@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "blowjob"
-work_count: 795
+work_count: 798
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -612,6 +612,14 @@ works:
     date: '2026-04-21'
     code: 431558
     url: /works/431558/
+  - title: Chiyuki Onee-san ga Yasashiku Shiboritocchau Hon | Chiyuki Onee-san Gently
+      Milks Me Dry
+    author: arisu-kazumi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/438340.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 438340
+    url: /works/438340/
   - title: Zoku NTR Nindou | The NTR Ninja Way 2
     author: tokie-hirohito
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/441828.jpg
@@ -5872,6 +5880,21 @@ works:
     date: '2026-11-08'
     code: 694850
     url: /works/694850/
+  - title: Momota-san Next Door
+    author: hogeramu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694863.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 694863
+    url: /works/694863/
+  - title: Nude Model o Koushi Mizukara Yatte kureru Gajuku no Hanashi | The story of
+      an art cram school where the instructor herself volunteers to be a nude model
+    author: kekemotsu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694888.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 694888
+    url: /works/694888/
   - title: Ano Toki no Sekinin Totte...Nii-san / Do you remember our secret game, Onii-chan?
     author: dochashiko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694921.jpg

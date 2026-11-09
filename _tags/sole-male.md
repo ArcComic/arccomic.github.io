@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole male"
-work_count: 1121
+work_count: 1122
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -1192,6 +1192,14 @@ works:
     date: '2026-09-29'
     code: 438138
     url: /works/438138/
+  - title: Chiyuki Onee-san ga Yasashiku Shiboritocchau Hon | Chiyuki Onee-san Gently
+      Milks Me Dry
+    author: arisu-kazumi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/438340.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 438340
+    url: /works/438340/
   - title: Fucking My Friend's Mom With My Big Cock On Christmas Eve
     author: rk-2
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/439275.jpg

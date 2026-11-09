@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "thick eyebrows"
-work_count: 11
+work_count: 12
 works:
   - title: Osananajimi wa Owari｜End of a Childhood Friendship
     author: henkuma
@@ -86,4 +86,11 @@ works:
     date: '2026-10-10'
     code: 686438
     url: /works/686438/
+  - title: Momota-san Next Door
+    author: hogeramu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694863.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 694863
+    url: /works/694863/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "small penis"
-work_count: 24
+work_count: 25
 works:
   - title: Toshoshitsu no Kanojo 3~Seiso na Kimi ga Ochiru made~
     author: ame-arare
@@ -10,6 +10,14 @@ works:
     date: '2026-10-15'
     code: 327421
     url: /works/327421/
+  - title: Chiyuki Onee-san ga Yasashiku Shiboritocchau Hon | Chiyuki Onee-san Gently
+      Milks Me Dry
+    author: arisu-kazumi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/438340.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 438340
+    url: /works/438340/
   - title: Shut-less
     author: mr-hokke
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/531966.jpg
