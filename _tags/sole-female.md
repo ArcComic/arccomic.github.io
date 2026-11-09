@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole female"
-work_count: 1196
+work_count: 1197
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -2467,6 +2467,13 @@ works:
     date: '2026-10-21'
     code: 545225
     url: /works/545225/
+  - title: Koi no Gunfight | Love's Gunfight Ch.4 - Overtime
+    author: napo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/545462.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 545462
+    url: /works/545462/
   - title: Seiyoku ni Maketa Natsu Futanari Shoujo to Noukou Nama Sex
     author: ginger-lily
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/545591.jpg

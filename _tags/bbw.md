@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bbw"
-work_count: 74
+work_count: 75
 works:
   - title: My Care Lady Ch. 1
     author: sugi-g
@@ -117,6 +117,13 @@ works:
     date: '2026-04-19'
     code: 536072
     url: /works/536072/
+  - title: Kaa-san no Umoretai Karada
+    author: muronaga-chaashuu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/554739.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 554739
+    url: /works/554739/
   - title: Boshi Soukan Senmon-shi "Suteki na Okaa-san" Vol. 3
     author: kaiko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/558039.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "paizuri"
-work_count: 286
+work_count: 288
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -390,6 +390,13 @@ works:
     date: '2026-04-12'
     code: 544368
     url: /works/544368/
+  - title: Koi no Gunfight | Love's Gunfight Ch.4 - Overtime
+    author: napo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/545462.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 545462
+    url: /works/545462/
   - title: Ritouseikatsu no Osewa Gakari ~Downer JK Nanami-chan Hen~ | Remote Island
       Sex Life Caretaker ~Downer High School Girl Nanami-chan~
     author: mitsuki
@@ -419,6 +426,13 @@ works:
     date: '2026-04-18'
     code: 549597
     url: /works/549597/
+  - title: Kaa-san no Umoretai Karada
+    author: muronaga-chaashuu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/554739.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 554739
+    url: /works/554739/
   - title: Boku no Kaa-chan | My Mom
     author: cammy
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/555792.jpg

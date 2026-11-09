@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "original"
-work_count: 1351
+work_count: 1352
 works:
   - title: Natsu dake Koibito - Summer only Lover [English] =Forbidden Fetish + Ser
       Maggot=
@@ -9738,6 +9738,14 @@ works:
     date: '2026-10-26'
     code: 690570
     url: /works/690570/
+  - title: 'Onee-san to Shiyo? ~Echinpo Card de Yaritai Houdai~ (2) | Wanna Do It With
+      Onee-san? ~The Ecchi Card: Do What You Want!~'
+    author: minato-yuu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690796.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 690796
+    url: /works/690796/
   - title: Motokano to Dousoukai de Saikai, Shuuden Nogashite Aibeya ni. ~Otagai Kekkon
       Majika de Uwaki Sex Shite Shimaimashita~
     author: baketsu-purin

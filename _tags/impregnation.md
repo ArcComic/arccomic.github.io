@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "impregnation"
-work_count: 184
+work_count: 185
 works:
   - title: Kousa suru Osu to Mesu | Male and Female Crossing
     author: ootsuka-kotora
@@ -437,6 +437,13 @@ works:
     date: '2026-09-08'
     code: 548015
     url: /works/548015/
+  - title: Kaa-san no Umoretai Karada
+    author: muronaga-chaashuu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/554739.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 554739
+    url: /works/554739/
   - title: First Time Together
     author: gustav
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/556427.jpg

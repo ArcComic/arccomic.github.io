@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big ass"
-work_count: 320
+work_count: 322
 works:
   - title: My Care Lady Ch. 1
     author: sugi-g
@@ -372,6 +372,13 @@ works:
     date: '2026-04-13'
     code: 544993
     url: /works/544993/
+  - title: Koi no Gunfight | Love's Gunfight Ch.4 - Overtime
+    author: napo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/545462.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 545462
+    url: /works/545462/
   - title: Seiyoku ni Maketa Natsu Futanari Shoujo to Noukou Nama Sex
     author: ginger-lily
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/545591.jpg
@@ -394,6 +401,13 @@ works:
     date: '2026-05-05'
     code: 553426
     url: /works/553426/
+  - title: Kaa-san no Umoretai Karada
+    author: muronaga-chaashuu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/554739.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 554739
+    url: /works/554739/
   - title: Iiwa Watashi no Karada Suki ni Shite Ch.1-2
     author: shunjou-shuusuke
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/561787.jpg

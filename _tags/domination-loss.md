@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "domination loss"
-work_count: 57
+work_count: 58
 works:
   - title: My Only Princess
     author: mackgee
@@ -69,6 +69,13 @@ works:
     date: '2026-04-17'
     code: 516164
     url: /works/516164/
+  - title: Koi no Gunfight | Love's Gunfight Ch.4 - Overtime
+    author: napo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/545462.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 545462
+    url: /works/545462/
   - title: Kou demo Shinakya Akigumo-san 25-sai ga Teitoku to Hameru Kikai Isshou Konai
       desho | If She Doesn’t Do This, 25-Year-Old Akigumo-san Will Never Get the Chance
       to Fuck the Admiral, Right?

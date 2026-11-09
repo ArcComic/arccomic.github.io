@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "inseki"
-work_count: 99
+work_count: 100
 works:
   - title: Imitation Family + Bigibo Hen
     author: tohzai
@@ -159,6 +159,13 @@ works:
     date: '2026-08-19'
     code: 534808
     url: /works/534808/
+  - title: Kaa-san no Umoretai Karada
+    author: muronaga-chaashuu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/554739.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 554739
+    url: /works/554739/
   - title: '- YOINOAYAMACHI - Part.1'
     author: sashimi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/556895.jpg

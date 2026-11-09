@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "mosaic censorship"
-work_count: 379
+work_count: 380
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -2686,6 +2686,14 @@ works:
     date: '2026-10-26'
     code: 690570
     url: /works/690570/
+  - title: 'Onee-san to Shiyo? ~Echinpo Card de Yaritai Houdai~ (2) | Wanna Do It With
+      Onee-san? ~The Ecchi Card: Do What You Want!~'
+    author: minato-yuu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690796.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 690796
+    url: /works/690796/
   - title: 'Swapping no Wana ~Netorare Mitsugi Maso-ka Keikaku ni Ochita Boku~ | Couple
       Swapping Trap: Fallen into the Scheme to Turn Me into a Cuckolded, Money-Draining
       Masochist'

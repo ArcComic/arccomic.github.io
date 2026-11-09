@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big breasts"
-work_count: 1370
+work_count: 1373
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -2202,6 +2202,13 @@ works:
     date: '2026-10-21'
     code: 545225
     url: /works/545225/
+  - title: Koi no Gunfight | Love's Gunfight Ch.4 - Overtime
+    author: napo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/545462.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 545462
+    url: /works/545462/
   - title: Seiyoku ni Maketa Natsu Futanari Shoujo to Noukou Nama Sex
     author: ginger-lily
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/545591.jpg
@@ -2326,6 +2333,13 @@ works:
     date: '2026-05-05'
     code: 553426
     url: /works/553426/
+  - title: Kaa-san no Umoretai Karada
+    author: muronaga-chaashuu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/554739.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 554739
+    url: /works/554739/
   - title: Boku no Kaa-chan | My Mom
     author: cammy
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/555792.jpg
@@ -9798,6 +9812,14 @@ works:
     date: '2026-10-26'
     code: 690570
     url: /works/690570/
+  - title: 'Onee-san to Shiyo? ~Echinpo Card de Yaritai Houdai~ (2) | Wanna Do It With
+      Onee-san? ~The Ecchi Card: Do What You Want!~'
+    author: minato-yuu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690796.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 690796
+    url: /works/690796/
   - title: Motokano to Dousoukai de Saikai, Shuuden Nogashite Aibeya ni. ~Otagai Kekkon
       Majika de Uwaki Sex Shite Shimaimashita~
     author: baketsu-purin

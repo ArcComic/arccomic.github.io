@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "exhibitionism"
-work_count: 103
+work_count: 104
 works:
   - title: Watashi-tachi no Seikoui Tokubetsu Jisshuu -Zengi Hen-
     author: guglielmo
@@ -682,6 +682,14 @@ works:
     date: '2026-11-08'
     code: 689137
     url: /works/689137/
+  - title: 'Onee-san to Shiyo? ~Echinpo Card de Yaritai Houdai~ (2) | Wanna Do It With
+      Onee-san? ~The Ecchi Card: Do What You Want!~'
+    author: minato-yuu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690796.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 690796
+    url: /works/690796/
   - title: Jirai Sugoroku
     author: niki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690826.jpg

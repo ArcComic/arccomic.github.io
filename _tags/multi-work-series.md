@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "multi-work series"
-work_count: 471
+work_count: 472
 works:
   - title: Konna ni mo Itooshii Zero
     author: nohito
@@ -3483,6 +3483,14 @@ works:
     date: '2026-10-26'
     code: 690244
     url: /works/690244/
+  - title: 'Onee-san to Shiyo? ~Echinpo Card de Yaritai Houdai~ (2) | Wanna Do It With
+      Onee-san? ~The Ecchi Card: Do What You Want!~'
+    author: minato-yuu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690796.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 690796
+    url: /works/690796/
   - title: Boku no Seishun wa Inaka no Okaa-san Datta Ni | My Sexual Youth Was the Country
       Mother, Part 2
     author: nusmusbim
