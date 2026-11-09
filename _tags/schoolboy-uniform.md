@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "schoolboy uniform"
-work_count: 127
+work_count: 128
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -435,6 +435,14 @@ works:
     date: '2026-07-13'
     code: 639514
     url: /works/639514/
+  - title: If You Get To Jerk Off To My Socks, I Get To Play With Your Dick, Right?
+      | Watashi no Kutsushita de Shikotteru nara Sono Ochinpo de Asonde mo Ii yo ne?
+    author: honshiro-nikori
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/640224.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 640224
+    url: /works/640224/
   - title: Kasshoku Buaisou Yakyuu-bu Manager no Yowami Nigitta | I Found the Grumpy,
       Brown-Skinned Baseball Manager's Weakness
     author: kitano-onsen

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "ffm threesome"
-work_count: 175
+work_count: 176
 works:
   - title: Hustle! Danchizuma Ch. 1-18 END
     author: hidemaru
@@ -249,6 +249,13 @@ works:
     date: '2026-09-10'
     code: 574158
     url: /works/574158/
+  - title: Koi no Gunfight | Love's Gunfight Ch.1-3
+    author: napo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/574633.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 574633
+    url: /works/574633/
   - title: Watashi, Mada Suki da yo. - I still love you. ~Mukashi Futta Doukyuusei ga
       Akanuke Bakunyuu Gravia Idol ni Natte Kanojo Mochi no Ore o Yuuwaku Shitekuru
       Gyaku NTR Uwaki Sex~ | I Still Love You. ~My EX has become a Busty Gravure Idol

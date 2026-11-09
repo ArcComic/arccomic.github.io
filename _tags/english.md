@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "english"
-work_count: 2002
+work_count: 2005
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -4254,6 +4254,13 @@ works:
     date: '2026-09-24'
     code: 574409
     url: /works/574409/
+  - title: Koi no Gunfight | Love's Gunfight Ch.1-3
+    author: napo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/574633.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 574633
+    url: /works/574633/
   - title: Married Couple Swap ~He's Better Than My Husband~ Vol. 1-3
     author: peter-mitsuru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/575103.jpg
@@ -4582,6 +4589,13 @@ works:
     date: '2026-04-27'
     code: 587827
     url: /works/587827/
+  - title: Kanojo no Present | Her Present
+    author: nr
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/587868.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 587868
+    url: /works/587868/
   - title: My Thousand Days With Mentor Tsuji
     author: concontochu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/588066.jpg
@@ -6500,6 +6514,14 @@ works:
     date: '2026-09-24'
     code: 640106
     url: /works/640106/
+  - title: If You Get To Jerk Off To My Socks, I Get To Play With Your Dick, Right?
+      | Watashi no Kutsushita de Shikotteru nara Sono Ochinpo de Asonde mo Ii yo ne?
+    author: honshiro-nikori
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/640224.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 640224
+    url: /works/640224/
   - title: Boku ga Shiranakatta Mama to Jii-chan no Koto | Things I didn't Know Between
       Mom And Grandpa
     author: urakan

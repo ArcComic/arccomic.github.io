@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "blackmail"
-work_count: 171
+work_count: 172
 works:
   - title: Birthday
     author: hashiba-yachi
@@ -579,6 +579,14 @@ works:
     date: '2026-08-29'
     code: 634450
     url: /works/634450/
+  - title: If You Get To Jerk Off To My Socks, I Get To Play With Your Dick, Right?
+      | Watashi no Kutsushita de Shikotteru nara Sono Ochinpo de Asonde mo Ii yo ne?
+    author: honshiro-nikori
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/640224.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 640224
+    url: /works/640224/
   - title: Idol no Kimi no Tonari no Boku 2
     author: negoya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/640988.jpg

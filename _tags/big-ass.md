@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big ass"
-work_count: 318
+work_count: 319
 works:
   - title: My Care Lady Ch. 1
     author: sugi-g
@@ -424,6 +424,13 @@ works:
     date: '2026-04-23'
     code: 569731
     url: /works/569731/
+  - title: Koi no Gunfight | Love's Gunfight Ch.1-3
+    author: napo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/574633.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 574633
+    url: /works/574633/
   - title: 'Kaa-san wa Kanbanmusume Nikuyoku ni Kogareta Boshi no Niya | My Mother -
       The Poster Girl: Two Nights of Forbidden Passion between Mother and Son'
     author: murabito-c

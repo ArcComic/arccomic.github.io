@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "anal"
-work_count: 190
+work_count: 191
 works:
   - title: Ikanishite Haha wa Onna o Kaihou Shitaka Ch. 1-14
     author: mitarai-yuuki
@@ -317,6 +317,13 @@ works:
     date: '2026-04-23'
     code: 569731
     url: /works/569731/
+  - title: Koi no Gunfight | Love's Gunfight Ch.1-3
+    author: napo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/574633.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 574633
+    url: /works/574633/
   - title: Kugisaki Anal Otoshi
     author: ishigaki-takashi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/579976.jpg

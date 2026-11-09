@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "domination loss"
-work_count: 55
+work_count: 57
 works:
   - title: My Only Princess
     author: mackgee
@@ -78,6 +78,13 @@ works:
     date: '2026-04-17'
     code: 567843
     url: /works/567843/
+  - title: Koi no Gunfight | Love's Gunfight Ch.1-3
+    author: napo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/574633.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 574633
+    url: /works/574633/
   - title: Rental Idream
     author: memeyu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/577149.jpg
@@ -92,6 +99,13 @@ works:
     date: '2026-09-04'
     code: 578020
     url: /works/578020/
+  - title: Kanojo no Present | Her Present
+    author: nr
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/587868.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 587868
+    url: /works/587868/
   - title: Hitorijime Love Doll | Love Doll For Mine Only
     author: memeyu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/596622.jpg

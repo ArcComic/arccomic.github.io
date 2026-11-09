@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "manga"
-work_count: 431
+work_count: 433
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -1285,6 +1285,13 @@ works:
     date: '2026-09-10'
     code: 574158
     url: /works/574158/
+  - title: Koi no Gunfight | Love's Gunfight Ch.1-3
+    author: napo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/574633.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 574633
+    url: /works/574633/
   - title: Married Couple Swap ~He's Better Than My Husband~ Vol. 1-3
     author: peter-mitsuru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/575103.jpg
@@ -1376,6 +1383,13 @@ works:
     date: '2026-09-04'
     code: 586417
     url: /works/586417/
+  - title: Kanojo no Present | Her Present
+    author: nr
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/587868.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 587868
+    url: /works/587868/
   - title: Ain't No Stoppin' Us Now
     author: jagayamatarawo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/589313.jpg

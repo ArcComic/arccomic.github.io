@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "business suit"
-work_count: 104
+work_count: 105
 works:
   - title: MAGIC SEVEN
     author: asuhiro
@@ -421,6 +421,13 @@ works:
     date: '2026-04-23'
     code: 576398
     url: /works/576398/
+  - title: Kanojo no Present | Her Present
+    author: nr
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/587868.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 587868
+    url: /works/587868/
   - title: Boku no Nurse Maid Isabella no Fudeoroshi ~Ochichi ga Goshomou nara Tanezuke
       kudasaimashi~ | My Nursemaid Isabella's First Time ~ If You Desire, Please Impregnate
       Me ~

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sex toys"
-work_count: 148
+work_count: 149
 works:
   - title: Mama Naranai Onna-tachi Ch. 1-2
     author: otochichi
@@ -244,6 +244,13 @@ works:
     date: '2026-04-19'
     code: 569195
     url: /works/569195/
+  - title: Koi no Gunfight | Love's Gunfight Ch.1-3
+    author: napo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/574633.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 574633
+    url: /works/574633/
   - title: Boku no Kaa-chan ga Hikikomori Neet Debu Aniki no Seishori Onaho ni Natteita
       Hanashi | My Mother is My Fat Shut-in Older NEET Brother's Sex Relief Onahole
     author: tarobaumu

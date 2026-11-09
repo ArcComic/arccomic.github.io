@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "strap-on"
-work_count: 11
+work_count: 12
 works:
   - title: Mayugomori 〜Nee ya to boku no midarana himegoto 〜 Ch.1-4
     author: mogiki-hayami
@@ -10,6 +10,13 @@ works:
     date: '2026-09-12'
     code: 506317
     url: /works/506317/
+  - title: Koi no Gunfight | Love's Gunfight Ch.1-3
+    author: napo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/574633.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 574633
+    url: /works/574633/
   - title: 'GNO: Girl''s Night Out - Issue 02'
     author: uselessbegging
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/634464.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "piercing"
-work_count: 50
+work_count: 51
 works:
   - title: Makai Kishi Ingrid ni Nakadashi Dekiru Soapland | A Soapland Where You Can
       Creampie Dark Knight Ingrid
@@ -48,6 +48,13 @@ works:
     date: '2026-09-24'
     code: 521674
     url: /works/521674/
+  - title: Koi no Gunfight | Love's Gunfight Ch.1-3
+    author: napo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/574633.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 574633
+    url: /works/574633/
   - title: Seishun to Backyard | The Youth and The Backyard
     author: mokuyama-hito
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/598084.jpg

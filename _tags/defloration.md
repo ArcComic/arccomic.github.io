@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "defloration"
-work_count: 285
+work_count: 286
 works:
   - title: Imitation Family + Bigibo Hen
     author: tohzai
@@ -1107,6 +1107,14 @@ works:
     date: '2026-08-23'
     code: 639772
     url: /works/639772/
+  - title: If You Get To Jerk Off To My Socks, I Get To Play With Your Dick, Right?
+      | Watashi no Kutsushita de Shikotteru nara Sono Ochinpo de Asonde mo Ii yo ne?
+    author: honshiro-nikori
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/640224.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 640224
+    url: /works/640224/
   - title: Sougo Onanii de Osananajimi wa Itsumo Iku! ~Kore Ijou Iku to Tomaranai yo?~
       | My Childhood Friend Loves It When We Jerk Off Together! But What Will Happen
       If We Keep Going!?

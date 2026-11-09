@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "squirting"
-work_count: 188
+work_count: 189
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -283,6 +283,13 @@ works:
     date: '2026-09-22'
     code: 569267
     url: /works/569267/
+  - title: Koi no Gunfight | Love's Gunfight Ch.1-3
+    author: napo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/574633.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 574633
+    url: /works/574633/
   - title: Rental Idream
     author: memeyu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/577149.jpg

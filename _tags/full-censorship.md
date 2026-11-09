@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "full censorship"
-work_count: 150
+work_count: 151
 works:
   - title: Kaisha de Iroiro | Gettin' Busy at the Office
     author: hara-shigeyuki
@@ -540,6 +540,13 @@ works:
     date: '2026-09-04'
     code: 578020
     url: /works/578020/
+  - title: Kanojo no Present | Her Present
+    author: nr
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/587868.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 587868
+    url: /works/587868/
   - title: Cocoa-chan no Jiraikei Chuuihou
     author: uni-toshiki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/590068.jpg

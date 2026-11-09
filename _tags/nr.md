@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "nr"
-work_count: 1
+work_count: 2
 works:
   - title: NIKKE Icha Love Ero Goudou "NIKKE☆Lover" | NIKKE Lovey-Dovey Ero Compendium
       "NIKKE☆Lover"
@@ -11,4 +11,11 @@ works:
     date: '2026-09-23'
     code: 568114
     url: /works/568114/
+  - title: Kanojo no Present | Her Present
+    author: nr
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/587868.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 587868
+    url: /works/587868/
 ---

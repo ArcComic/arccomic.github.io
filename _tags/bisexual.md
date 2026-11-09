@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bisexual"
-work_count: 52
+work_count: 53
 works:
   - title: Akarui Kazoku Seikatsu
     author: pistonring-nishizawa
@@ -55,6 +55,13 @@ works:
     date: '2026-09-25'
     code: 561133
     url: /works/561133/
+  - title: Koi no Gunfight | Love's Gunfight Ch.1-3
+    author: napo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/574633.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 574633
+    url: /works/574633/
   - title: Nishida Ke no Himegoto | Nishida Family Secret 1-3
     author: kojima-miu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/614205.jpg

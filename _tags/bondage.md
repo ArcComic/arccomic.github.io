@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bondage"
-work_count: 117
+work_count: 118
 works:
   - title: Pai☆Panic ~Hasamareta Dekapai~
     author: inkey
@@ -196,6 +196,13 @@ works:
     date: '2026-04-17'
     code: 567843
     url: /works/567843/
+  - title: Koi no Gunfight | Love's Gunfight Ch.1-3
+    author: napo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/574633.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 574633
+    url: /works/574633/
   - title: The Prison Idol And Assistant
     author: halo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/579290.jpg

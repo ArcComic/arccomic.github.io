@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "smell"
-work_count: 34
+work_count: 35
 works:
   - title: Natsu Jiru Ch. 1-2
     author: sena-youtarou
@@ -103,6 +103,14 @@ works:
     date: '2026-03-05'
     code: 634591
     url: /works/634591/
+  - title: If You Get To Jerk Off To My Socks, I Get To Play With Your Dick, Right?
+      | Watashi no Kutsushita de Shikotteru nara Sono Ochinpo de Asonde mo Ii yo ne?
+    author: honshiro-nikori
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/640224.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 640224
+    url: /works/640224/
   - title: Kasshoku Buaisou Yakyuu-bu Manager no Yowami Nigitta | I Found the Grumpy,
       Brown-Skinned Baseball Manager's Weakness
     author: kitano-onsen

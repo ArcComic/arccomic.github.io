@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "high heels"
-work_count: 19
+work_count: 20
 works:
   - title: Shut-less
     author: mr-hokke
@@ -32,6 +32,13 @@ works:
     date: '2026-04-23'
     code: 576398
     url: /works/576398/
+  - title: Kanojo no Present | Her Present
+    author: nr
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/587868.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 587868
+    url: /works/587868/
   - title: Chijo Monogatari Henshitsusha (Onna) Shutsubotsu Chuu
     author: enma
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/588713.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "handjob"
-work_count: 180
+work_count: 181
 works:
   - title: Rin to P
     author: simon
@@ -303,6 +303,13 @@ works:
     date: '2026-09-12'
     code: 573973
     url: /works/573973/
+  - title: Koi no Gunfight | Love's Gunfight Ch.1-3
+    author: napo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/574633.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 574633
+    url: /works/574633/
   - title: Kimottama Kaa-chan to Kenka Bakari no Neet no Ore ga Kaa-san ni Nakadashi
       shite kara Nakayoku natta Hanashi - A story about How I, A NEET Who Always Fought
       with My Gutsy Mother,

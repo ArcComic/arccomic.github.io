@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "blowjob"
-work_count: 804
+work_count: 806
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -1596,6 +1596,13 @@ works:
     date: '2026-09-10'
     code: 574158
     url: /works/574158/
+  - title: Koi no Gunfight | Love's Gunfight Ch.1-3
+    author: napo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/574633.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 574633
+    url: /works/574633/
   - title: Kimottama Kaa-chan to Kenka Bakari no Neet no Ore ga Kaa-san ni Nakadashi
       shite kara Nakayoku natta Hanashi - A story about How I, A NEET Who Always Fought
       with My Gutsy Mother,
@@ -1732,6 +1739,13 @@ works:
     date: '2026-04-27'
     code: 587827
     url: /works/587827/
+  - title: Kanojo no Present | Her Present
+    author: nr
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/587868.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 587868
+    url: /works/587868/
   - title: My Thousand Days With Mentor Tsuji
     author: concontochu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/588066.jpg
