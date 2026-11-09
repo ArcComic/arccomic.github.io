@@ -1,8 +1,15 @@
 ---
 layout: artist
 artist_name: "minato-yuu"
-work_count: 2
+work_count: 3
 works:
+  - title: Onee-san to Shiyo? ~Echinpo Card de Yaritai Houdai~ | Wanna do it with Onee-san?
+      You can do whatever you want with the dick card
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/594434.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 594434
+    url: /works/594434/
   - title: Onee-san to Shiyo? ~Echinpo Card de Yaritai Houdai~
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/635801.jpg
     rating: 4.6

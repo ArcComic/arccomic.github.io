@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "condom"
-work_count: 262
+work_count: 263
 works:
   - title: Kaisha de Iroiro | Gettin' Busy at the Office
     author: hara-shigeyuki
@@ -732,6 +732,13 @@ works:
     date: '2026-04-25'
     code: 579819
     url: /works/579819/
+  - title: Kino no Tomo wa Kyou no SeFri | Yesterday's Friend, Today's Sex Friend.
+    author: mittsuman
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/583012.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 583012
+    url: /works/583012/
   - title: Suki nano wa Anata dake... 3
     author: end
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/586634.jpg

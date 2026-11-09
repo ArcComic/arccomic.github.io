@@ -1,7 +1,7 @@
 ---
 layout: artist
 artist_name: "unknown"
-work_count: 87
+work_count: 88
 works:
   - title: Hajimete Kanojo Ga Dekita No Ni
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/316579.jpg
@@ -547,4 +547,10 @@ works:
     date: '2026-10-28'
     code: 691671
     url: /works/691671/
+  - title: I Woke Up in the Morning to Find My Naked Mom Lying Next to Me.
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694897.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 694897
+    url: /works/694897/
 ---

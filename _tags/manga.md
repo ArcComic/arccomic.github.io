@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "manga"
-work_count: 433
+work_count: 434
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -1426,6 +1426,14 @@ works:
     date: '2026-03-09'
     code: 592285
     url: /works/592285/
+  - title: Onee-san to Shiyo? ~Echinpo Card de Yaritai Houdai~ | Wanna do it with Onee-san?
+      You can do whatever you want with the dick card
+    author: minato-yuu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/594434.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 594434
+    url: /works/594434/
   - title: Karisome Immoralism | Temporary Immoralism
     author: memeyu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/596275.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "mosaic censorship"
-work_count: 377
+work_count: 378
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -1065,6 +1065,14 @@ works:
     date: '2026-04-25'
     code: 593754
     url: /works/593754/
+  - title: Onee-san to Shiyo? ~Echinpo Card de Yaritai Houdai~ | Wanna do it with Onee-san?
+      You can do whatever you want with the dick card
+    author: minato-yuu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/594434.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 594434
+    url: /works/594434/
   - title: Sakkin Zuke no Hitozuma -Kimura Mina to Kimodebu Oyaji no Ooya- 1 & 2
     author: hente
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/594884.jpg

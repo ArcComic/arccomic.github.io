@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "ahegao"
-work_count: 403
+work_count: 404
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -2965,6 +2965,13 @@ works:
     date: '2026-11-09'
     code: 694888
     url: /works/694888/
+  - title: I Woke Up in the Morning to Find My Naked Mom Lying Next to Me.
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694897.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 694897
+    url: /works/694897/
   - title: Ano Toki no Sekinin Totte...Nii-san / Do you remember our secret game, Onii-chan?
     author: dochashiko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694921.jpg

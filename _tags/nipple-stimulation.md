@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "nipple stimulation"
-work_count: 199
+work_count: 200
 works:
   - title: Hypnotic Domination ~ The Fall of Tennis Club Ace ~
     author: danchino
@@ -207,6 +207,13 @@ works:
     date: '2026-04-19'
     code: 580427
     url: /works/580427/
+  - title: Kino no Tomo wa Kyou no SeFri | Yesterday's Friend, Today's Sex Friend.
+    author: mittsuman
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/583012.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 583012
+    url: /works/583012/
   - title: Senpai-chan wa Tayoraretai! | Senpai-chan Wants to be Relied On!
     author: memeyu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/583990.jpg

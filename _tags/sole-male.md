@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole male"
-work_count: 1132
+work_count: 1135
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -2714,6 +2714,13 @@ works:
     date: '2026-07-17'
     code: 582290
     url: /works/582290/
+  - title: Kino no Tomo wa Kyou no SeFri | Yesterday's Friend, Today's Sex Friend.
+    author: mittsuman
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/583012.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 583012
+    url: /works/583012/
   - title: Meshitaki san-nen, nigiri ichi-nen | Three Years to Master Rice, One Year
       to Master Nigiri
     author: polier
@@ -2997,6 +3004,14 @@ works:
     date: '2026-09-06'
     code: 594382
     url: /works/594382/
+  - title: Onee-san to Shiyo? ~Echinpo Card de Yaritai Houdai~ | Wanna do it with Onee-san?
+      You can do whatever you want with the dick card
+    author: minato-yuu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/594434.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 594434
+    url: /works/594434/
   - title: Yuuhan no Ato wa Oba-chan to... | After Dinner, My Aunt and I...
     author: natsuzo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/594462.jpg
@@ -8335,6 +8350,13 @@ works:
     date: '2026-11-09'
     code: 694889
     url: /works/694889/
+  - title: I Woke Up in the Morning to Find My Naked Mom Lying Next to Me.
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694897.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 694897
+    url: /works/694897/
   - title: Ano Toki no Sekinin Totte...Nii-san / Do you remember our secret game, Onii-chan?
     author: dochashiko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694921.jpg

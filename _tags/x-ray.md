@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "x-ray"
-work_count: 425
+work_count: 427
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -857,6 +857,13 @@ works:
     date: '2026-09-26'
     code: 581946
     url: /works/581946/
+  - title: Kino no Tomo wa Kyou no SeFri | Yesterday's Friend, Today's Sex Friend.
+    author: mittsuman
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/583012.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 583012
+    url: /works/583012/
   - title: 'Moto Mahou Shoujo no Shigoto Hanashi Ao Zenjitsutan | Former Magical Girl
       Blue''s Work: The Prequel'
     author: zhen-lu
@@ -965,6 +972,14 @@ works:
     date: '2026-10-08'
     code: 593684
     url: /works/593684/
+  - title: Onee-san to Shiyo? ~Echinpo Card de Yaritai Houdai~ | Wanna do it with Onee-san?
+      You can do whatever you want with the dick card
+    author: minato-yuu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/594434.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 594434
+    url: /works/594434/
   - title: Yuuhan no Ato wa Oba-chan to... | After Dinner, My Aunt and I...
     author: natsuzo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/594462.jpg

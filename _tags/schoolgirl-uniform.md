@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "schoolgirl uniform"
-work_count: 415
+work_count: 416
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -855,6 +855,13 @@ works:
     date: '2026-04-19'
     code: 580427
     url: /works/580427/
+  - title: Kino no Tomo wa Kyou no SeFri | Yesterday's Friend, Today's Sex Friend.
+    author: mittsuman
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/583012.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 583012
+    url: /works/583012/
   - title: Zamen Oogui Taikai | The Cum-Binge-Eating Championship
     author: yufuck
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/583437.jpg

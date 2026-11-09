@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "cheating"
-work_count: 448
+work_count: 449
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -3278,6 +3278,13 @@ works:
     date: '2026-11-08'
     code: 694850
     url: /works/694850/
+  - title: I Woke Up in the Morning to Find My Naked Mom Lying Next to Me.
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694897.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 694897
+    url: /works/694897/
   - title: A Frustrated Housewife Can't Resist Her Exhibitionist Impulses
     author: comichi-pota
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694971.jpg
