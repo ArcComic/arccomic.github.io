@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "group"
-work_count: 295
+work_count: 296
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -2164,4 +2164,11 @@ works:
     date: '2026-11-08'
     code: 694670
     url: /works/694670/
+  - title: Otaku ni Yasashii Gal wa Netorareru｜A Gal Who is Nice to Otaku Gets NTR-ed
+    author: hamo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694780.jpg
+    rating: 4.6
+    date: '2026-11-09'
+    code: 694780
+    url: /works/694780/
 ---

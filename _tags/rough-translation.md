@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "rough translation"
-work_count: 782
+work_count: 784
 works:
   - title: Boku no Shiranai Kimi no Kao
     author: utsutsu-minoru
@@ -5710,6 +5710,14 @@ works:
     date: '2026-11-08'
     code: 693914
     url: /works/693914/
+  - title: Schale Senzoku Seishori Touban 2 | Person in charge of handling Schale-exclusive
+      matters 2
+    author: signo-mandara
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/693920.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 693920
+    url: /works/693920/
   - title: The Fable Of The Short King And His GF With Huge Tits
     author: enishi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694668.jpg
@@ -5717,6 +5725,13 @@ works:
     date: '2026-11-08'
     code: 694668
     url: /works/694668/
+  - title: Only♀♂Mum
+    author: sakai-hamachi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694889.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 694889
+    url: /works/694889/
   - title: Don't Make a Sound
     author: sunaba-suzume
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694973.jpg

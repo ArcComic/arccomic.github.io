@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "hamo"
-work_count: 2
+work_count: 3
 works:
   - title: Onsen Haitte tara Joseito-tachi ga Osotte Kita | My Students Jumped Me When
       I Got in the Hot Spring
@@ -18,4 +18,11 @@ works:
     date: '2026-08-28'
     code: 652651
     url: /works/652651/
+  - title: Otaku ni Yasashii Gal wa Netorareru｜A Gal Who is Nice to Otaku Gets NTR-ed
+    author: hamo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694780.jpg
+    rating: 4.6
+    date: '2026-11-09'
+    code: 694780
+    url: /works/694780/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big breasts"
-work_count: 1345
+work_count: 1348
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -9904,6 +9904,14 @@ works:
     date: '2026-10-28'
     code: 691671
     url: /works/691671/
+  - title: Schale Senzoku Seishori Touban 2 | Person in charge of handling Schale-exclusive
+      matters 2
+    author: signo-mandara
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/693920.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 693920
+    url: /works/693920/
   - title: The Fable Of The Short King And His GF With Huge Tits
     author: enishi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694668.jpg
@@ -9918,6 +9926,13 @@ works:
     date: '2026-11-08'
     code: 694670
     url: /works/694670/
+  - title: Otaku ni Yasashii Gal wa Netorareru｜A Gal Who is Nice to Otaku Gets NTR-ed
+    author: hamo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694780.jpg
+    rating: 4.6
+    date: '2026-11-09'
+    code: 694780
+    url: /works/694780/
   - title: Deriheru yondara wakareta kanojo no mama ga kita | My Escort Was My Ex's
       Mom
     author: hotate-chan
@@ -9926,6 +9941,13 @@ works:
     date: '2026-11-08'
     code: 694850
     url: /works/694850/
+  - title: Only♀♂Mum
+    author: sakai-hamachi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694889.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 694889
+    url: /works/694889/
   - title: Ano Toki no Sekinin Totte...Nii-san / Do you remember our secret game, Onii-chan?
     author: dochashiko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694921.jpg

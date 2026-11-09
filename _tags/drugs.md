@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "drugs"
-work_count: 49
+work_count: 50
 works:
   - title: A-part | Apartment
     author: zero-no-mono
@@ -362,6 +362,13 @@ works:
     date: '2026-10-13'
     code: 687086
     url: /works/687086/
+  - title: Otaku ni Yasashii Gal wa Netorareru｜A Gal Who is Nice to Otaku Gets NTR-ed
+    author: hamo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694780.jpg
+    rating: 4.6
+    date: '2026-11-09'
+    code: 694780
+    url: /works/694780/
   - title: Inin Keiyaku | Lewd Pregnancy Contract
     author: yoshiura-kazuya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/83595.jpg

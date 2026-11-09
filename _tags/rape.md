@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "rape"
-work_count: 275
+work_count: 276
 works:
   - title: Office Love Scramble Ch. 1
     author: tohzai
@@ -2001,6 +2001,13 @@ works:
     date: '2026-10-28'
     code: 691651
     url: /works/691651/
+  - title: Otaku ni Yasashii Gal wa Netorareru｜A Gal Who is Nice to Otaku Gets NTR-ed
+    author: hamo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694780.jpg
+    rating: 4.6
+    date: '2026-11-09'
+    code: 694780
+    url: /works/694780/
   - title: The 211cm Jirai-kei Girl Who Won't Let Go of Me 4
     author: kinntarou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694925.jpg

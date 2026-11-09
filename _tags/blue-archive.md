@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "blue archive"
-work_count: 32
+work_count: 33
 works:
   - title: Mutsugaki Icha Love Book ~Sensei to Kakurenbo~ | MUTSUGAKI Lovey-Dovey Book
       ~Hide-and-seek with Sensei~
@@ -235,4 +235,12 @@ works:
     date: '2026-10-28'
     code: 691660
     url: /works/691660/
+  - title: Schale Senzoku Seishori Touban 2 | Person in charge of handling Schale-exclusive
+      matters 2
+    author: signo-mandara
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/693920.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 693920
+    url: /works/693920/
 ---

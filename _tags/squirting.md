@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "squirting"
-work_count: 186
+work_count: 187
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -1367,6 +1367,13 @@ works:
     date: '2026-10-28'
     code: 691662
     url: /works/691662/
+  - title: Otaku ni Yasashii Gal wa Netorareru｜A Gal Who is Nice to Otaku Gets NTR-ed
+    author: hamo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694780.jpg
+    rating: 4.6
+    date: '2026-11-09'
+    code: 694780
+    url: /works/694780/
   - title: Ano Toki no Sekinin Totte...Nii-san / Do you remember our secret game, Onii-chan?
     author: dochashiko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694921.jpg
