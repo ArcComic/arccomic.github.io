@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "translated"
-work_count: 1923
+work_count: 1925
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -14135,6 +14135,21 @@ works:
     date: '2026-11-08'
     code: 694925
     url: /works/694925/
+  - title: Don't Make a Sound
+    author: sunaba-suzume
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694973.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 694973
+    url: /works/694973/
+  - title: Prostitution Box ~A Frustrated Wife's Anonymous Amateur Debut in the Sex
+      Industry~
+    author: glycogen
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694974.jpg
+    rating: 4.6
+    date: '2026-11-09'
+    code: 694974
+    url: /works/694974/
   - title: Hottokenaino
     author: hara-shigeyuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/77864.jpg

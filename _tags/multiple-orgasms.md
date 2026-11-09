@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "multiple orgasms"
-work_count: 138
+work_count: 139
 works:
   - title: Rako Slip!
     author: bujidearu
@@ -1037,4 +1037,12 @@ works:
     date: '2026-11-08'
     code: 694922
     url: /works/694922/
+  - title: Prostitution Box ~A Frustrated Wife's Anonymous Amateur Debut in the Sex
+      Industry~
+    author: glycogen
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694974.jpg
+    rating: 4.6
+    date: '2026-11-09'
+    code: 694974
+    url: /works/694974/
 ---

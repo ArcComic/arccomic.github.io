@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "milf"
-work_count: 540
+work_count: 541
 works:
   - title: Life with Married Women Just Like a Manga 2 - Ch. 1-5
     author: hidemaru
@@ -3955,6 +3955,14 @@ works:
     date: '2026-11-08'
     code: 694850
     url: /works/694850/
+  - title: Prostitution Box ~A Frustrated Wife's Anonymous Amateur Debut in the Sex
+      Industry~
+    author: glycogen
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694974.jpg
+    rating: 4.6
+    date: '2026-11-09'
+    code: 694974
+    url: /works/694974/
   - title: Jokyoushi - Hot For Teachers | Female Teachers
     author: drill-murata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/81375.jpg

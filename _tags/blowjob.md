@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "blowjob"
-work_count: 792
+work_count: 793
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -5879,6 +5879,13 @@ works:
     date: '2026-11-08'
     code: 694925
     url: /works/694925/
+  - title: Don't Make a Sound
+    author: sunaba-suzume
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694973.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 694973
+    url: /works/694973/
   - title: Jokyoushi - Hot For Teachers | Female Teachers
     author: drill-murata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/81375.jpg

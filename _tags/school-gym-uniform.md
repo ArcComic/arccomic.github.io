@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "school gym uniform"
-work_count: 10
+work_count: 11
 works:
   - title: Namaiki TS Yankee ga Zetsurin Taiiku Kyoushi no Onaho ni natte Akume Shiofuki
       Mesu Ochi Ninshin! [TS Delinquent becomes a gym teacher's onahole and Cums ❤ Squirts
@@ -80,4 +80,12 @@ works:
     date: '2026-11-08'
     code: 694670
     url: /works/694670/
+  - title: Prostitution Box ~A Frustrated Wife's Anonymous Amateur Debut in the Sex
+      Industry~
+    author: glycogen
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694974.jpg
+    rating: 4.6
+    date: '2026-11-09'
+    code: 694974
+    url: /works/694974/
 ---

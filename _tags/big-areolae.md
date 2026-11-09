@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big areolae"
-work_count: 131
+work_count: 132
 works:
   - title: Toshoshitsu no Kanojo ~Seiso na Kimi ga Ochiru made~
     author: ame-arare
@@ -1003,4 +1003,12 @@ works:
     date: '2026-11-08'
     code: 694925
     url: /works/694925/
+  - title: Prostitution Box ~A Frustrated Wife's Anonymous Amateur Debut in the Sex
+      Industry~
+    author: glycogen
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694974.jpg
+    rating: 4.6
+    date: '2026-11-09'
+    code: 694974
+    url: /works/694974/
 ---

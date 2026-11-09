@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bloomers"
-work_count: 8
+work_count: 9
 works:
   - title: Tsuki ga Noboru | Moonrise
     author: rocket-monkey
@@ -61,4 +61,12 @@ works:
     date: '2026-09-12'
     code: 680481
     url: /works/680481/
+  - title: Prostitution Box ~A Frustrated Wife's Anonymous Amateur Debut in the Sex
+      Industry~
+    author: glycogen
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694974.jpg
+    rating: 4.6
+    date: '2026-11-09'
+    code: 694974
+    url: /works/694974/
 ---

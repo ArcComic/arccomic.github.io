@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "deepthroat"
-work_count: 111
+work_count: 112
 works:
   - title: Toshishita Chin Kui Obasan
     author: maccha-neji
@@ -847,4 +847,11 @@ works:
     date: '2026-11-08'
     code: 694921
     url: /works/694921/
+  - title: Don't Make a Sound
+    author: sunaba-suzume
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694973.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 694973
+    url: /works/694973/
 ---
