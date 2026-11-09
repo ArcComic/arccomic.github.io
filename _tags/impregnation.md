@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "impregnation"
-work_count: 185
+work_count: 186
 works:
   - title: Kousa suru Osu to Mesu | Male and Female Crossing
     author: ootsuka-kotora
@@ -895,6 +895,13 @@ works:
     date: '2026-09-28'
     code: 660465
     url: /works/660465/
+  - title: Nankai demo Kimochii Koto
+    author: raita
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/661145.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 661145
+    url: /works/661145/
   - title: Love wa Gal kara Hajimaru Unmei | Love is a Destiny That Begins with a Gal
       ch.1-5
     author: nusmusbim

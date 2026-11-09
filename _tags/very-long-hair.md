@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "very long hair"
-work_count: 80
+work_count: 81
 works:
   - title: Joshikousei Sennyuu Repo ~Hanzaisha ga Onnanoko ni Hyoui shite mita~
     author: touchuu-kasou
@@ -593,6 +593,13 @@ works:
     date: '2026-11-08'
     code: 694921
     url: /works/694921/
+  - title: Sold Out 2 (ENG) =TB=
+    author: minegami-aya
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695211.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 695211
+    url: /works/695211/
   - title: Takuhai Shoujo - Delivery Girl
     author: jp06
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695224.jpg

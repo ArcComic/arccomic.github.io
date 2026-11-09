@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "netorase"
-work_count: 39
+work_count: 40
 works:
   - title: Boku no Netorase Seiheki ni Tsukiatte kureru Kanojo | A Girlfriend Who Plays
       Along with My Cuckold Fetish
@@ -174,6 +174,13 @@ works:
     date: '2026-09-26'
     code: 654244
     url: /works/654244/
+  - title: Hebi to Kumo | The Snake and The Spider
+    author: shin-yu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654272.jpg
+    rating: 4.7
+    date: '2026-11-09'
+    code: 654272
+    url: /works/654272/
   - title: Himaten NTR 19P
     author: terasu-mc
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654484.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "cunnilingus"
-work_count: 221
+work_count: 222
 works:
   - title: Love Approach
     author: hanafuda-sakurano
@@ -1012,6 +1012,13 @@ works:
     date: '2026-10-07'
     code: 654260
     url: /works/654260/
+  - title: Hebi to Kumo | The Snake and The Spider
+    author: shin-yu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654272.jpg
+    rating: 4.7
+    date: '2026-11-09'
+    code: 654272
+    url: /works/654272/
   - title: Yabai oji | Dangerous Uncle
     author: chinpan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654645.jpg

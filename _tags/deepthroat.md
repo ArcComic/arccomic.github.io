@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "deepthroat"
-work_count: 115
+work_count: 116
 works:
   - title: Toshishita Chin Kui Obasan
     author: maccha-neji
@@ -869,6 +869,13 @@ works:
     date: '2026-11-09'
     code: 694973
     url: /works/694973/
+  - title: Sold Out 2 (ENG) =TB=
+    author: minegami-aya
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695211.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 695211
+    url: /works/695211/
   - title: Itsumo Miken ni Shiwa o Yosete Iru Seikaku no Kitsui Babaa Senpai (29) wa
       You to Dosukebe Chijo ni Naru | My 29-year-old senpai at work is a sharp-tongued
       hag who’s always scowling but she turns into a super perverted nmypho when she

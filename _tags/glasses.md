@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "glasses"
-work_count: 326
+work_count: 327
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -1344,6 +1344,13 @@ works:
     date: '2026-09-18'
     code: 654010
     url: /works/654010/
+  - title: Hebi to Kumo | The Snake and The Spider
+    author: shin-yu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654272.jpg
+    rating: 4.7
+    date: '2026-11-09'
+    code: 654272
+    url: /works/654272/
   - title: Toshoshitsu no Kedamono-tachi | Library Beasts
     author: ohno-kanae
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654638.jpg

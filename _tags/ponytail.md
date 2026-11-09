@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "ponytail"
-work_count: 211
+work_count: 212
 works:
   - title: Ami Mami Mind 5
     author: tsurui
@@ -903,6 +903,13 @@ works:
     date: '2026-10-07'
     code: 661142
     url: /works/661142/
+  - title: Nankai demo Kimochii Koto
+    author: raita
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/661145.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 661145
+    url: /works/661145/
   - title: Meshibe no Sakihokoru Shima de - On the island where pistils are in full
       bloom
     author: saigado-ishoku-dougen

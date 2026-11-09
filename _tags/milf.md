@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "milf"
-work_count: 549
+work_count: 551
 works:
   - title: Life with Married Women Just Like a Manga 2 - Ch. 1-5
     author: hidemaru
@@ -2491,6 +2491,13 @@ works:
     date: '2026-07-07'
     code: 654253
     url: /works/654253/
+  - title: Hebi to Kumo | The Snake and The Spider
+    author: shin-yu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654272.jpg
+    rating: 4.7
+    date: '2026-11-09'
+    code: 654272
+    url: /works/654272/
   - title: Provoking Men Part 1
     author: pororivista
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654373.jpg
@@ -2662,6 +2669,13 @@ works:
     date: '2026-10-15'
     code: 660489
     url: /works/660489/
+  - title: Nankai demo Kimochii Koto
+    author: raita
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/661145.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 661145
+    url: /works/661145/
   - title: Seiyoku Mamire no Tsumamigoro - My Wife is a Lustructor
     author: emine-kendama
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/661349.jpg

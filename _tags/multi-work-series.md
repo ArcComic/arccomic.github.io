@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "multi-work series"
-work_count: 473
+work_count: 474
 works:
   - title: Konna ni mo Itooshii Zero
     author: nohito
@@ -3536,6 +3536,13 @@ works:
     date: '2026-11-09'
     code: 694940
     url: /works/694940/
+  - title: Sold Out 2 (ENG) =TB=
+    author: minegami-aya
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695211.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 695211
+    url: /works/695211/
   - title: Hahaoya to Sex shita Kibun wa Dou? Sono 2 | How Does it Feel to have Sex
       with your Mom? Part 2
     author: temperature

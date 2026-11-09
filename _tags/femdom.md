@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "femdom"
-work_count: 222
+work_count: 223
 works:
   - title: Life with Married Women Just Like a Manga 2 - Ch. 1-5
     author: hidemaru
@@ -888,6 +888,13 @@ works:
     date: '2026-09-29'
     code: 653792
     url: /works/653792/
+  - title: Hebi to Kumo | The Snake and The Spider
+    author: shin-yu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654272.jpg
+    rating: 4.7
+    date: '2026-11-09'
+    code: 654272
+    url: /works/654272/
   - title: Gyakuten Enkou 3 ~Ore ga Kawareru Sekai~
     author: nectar
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/655121.jpg

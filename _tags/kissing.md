@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "kissing"
-work_count: 483
+work_count: 485
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -2088,6 +2088,13 @@ works:
     date: '2026-10-07'
     code: 654260
     url: /works/654260/
+  - title: Hebi to Kumo | The Snake and The Spider
+    author: shin-yu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654272.jpg
+    rating: 4.7
+    date: '2026-11-09'
+    code: 654272
+    url: /works/654272/
   - title: My Tall, Stacked, Virgin Boss 1
     author: yunamaro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654603.jpg
@@ -3601,6 +3608,13 @@ works:
     date: '2026-11-09'
     code: 694973
     url: /works/694973/
+  - title: Sold Out 2 (ENG) =TB=
+    author: minegami-aya
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695211.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 695211
+    url: /works/695211/
   - title: Itsumo Miken ni Shiwa o Yosete Iru Seikaku no Kitsui Babaa Senpai (29) wa
       You to Dosukebe Chijo ni Naru | My 29-year-old senpai at work is a sharp-tongued
       hag who’s always scowling but she turns into a super perverted nmypho when she

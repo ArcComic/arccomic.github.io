@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "short-haired female"
-work_count: 64
+work_count: 65
 works:
   - title: Onee-chan ga Ecchi na Koto bakka Suru kara... | My older sister only does
       obscene things...
@@ -384,6 +384,13 @@ works:
     date: '2026-07-05'
     code: 660869
     url: /works/660869/
+  - title: Nankai demo Kimochii Koto
+    author: raita
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/661145.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 661145
+    url: /works/661145/
   - title: Boshi Jouji ~Daisuki na Okaa-san to Konya Majiwaru~ - MOTHER AND SON LOVE
       AFFAIR | A Mother's Love ~Tonight I Become One With The Mom I Love~ Part 2
     author: shiono-kou

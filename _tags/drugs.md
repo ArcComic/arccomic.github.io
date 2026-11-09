@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "drugs"
-work_count: 50
+work_count: 51
 works:
   - title: A-part | Apartment
     author: zero-no-mono
@@ -369,6 +369,13 @@ works:
     date: '2026-11-09'
     code: 694780
     url: /works/694780/
+  - title: Sold Out 2 (ENG) =TB=
+    author: minegami-aya
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695211.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 695211
+    url: /works/695211/
   - title: Inin Keiyaku | Lewd Pregnancy Contract
     author: yoshiura-kazuya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/83595.jpg

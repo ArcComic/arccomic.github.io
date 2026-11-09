@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "anal intercourse"
-work_count: 110
+work_count: 112
 works:
   - title: Police Story
     author: nekoi-mie
@@ -408,6 +408,13 @@ works:
     date: '2026-10-07'
     code: 661142
     url: /works/661142/
+  - title: Nankai demo Kimochii Koto
+    author: raita
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/661145.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 661145
+    url: /works/661145/
   - title: Shinyuu Tatakitsubushi Kyousou Shiiku Seikatsu | A Life in Captivity The
       Competition to Break My Best Friend
     author: group
@@ -804,6 +811,13 @@ works:
     date: '2026-11-09'
     code: 694888
     url: /works/694888/
+  - title: Sold Out 2 (ENG) =TB=
+    author: minegami-aya
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695211.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 695211
+    url: /works/695211/
   - title: Hahaoya to Sex shita Kibun wa Dou? Sono 2 | How Does it Feel to have Sex
       with your Mom? Part 2
     author: temperature

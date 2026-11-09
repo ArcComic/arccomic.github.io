@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "group"
-work_count: 300
+work_count: 301
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -2204,4 +2204,11 @@ works:
     date: '2026-11-09'
     code: 694947
     url: /works/694947/
+  - title: Sold Out 2 (ENG) =TB=
+    author: minegami-aya
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695211.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 695211
+    url: /works/695211/
 ---
