@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sumata"
-work_count: 30
+work_count: 32
 works:
   - title: Ami Mami Mind 5
     author: tsurui
@@ -229,4 +229,18 @@ works:
     date: '2026-10-13'
     code: 687044
     url: /works/687044/
+  - title: Making a Harem of the Three Bitchy Gal Sisters - All Chapters + Bonus
+    author: zonda
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694670.jpg
+    rating: 0.0
+    date: '2026-11-08'
+    code: 694670
+    url: /works/694670/
+  - title: Ano Toki no Sekinin Totte...Nii-san / Do you remember our secret game, Onii-chan?
+    author: dochashiko
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694921.jpg
+    rating: 0.0
+    date: '2026-11-08'
+    code: 694921
+    url: /works/694921/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "dark skinned female"
-work_count: 49
+work_count: 50
 works:
   - title: Hyouri no Omoi | Double-Sided Love
     author: suruga-kuroitsu
@@ -77,6 +77,14 @@ works:
     date: '2026-10-12'
     code: 546621
     url: /works/546621/
+  - title: Ritouseikatsu no Osewa Gakari ~Downer JK Nanami-chan Hen~ | Remote Island
+      Sex Life Caretaker ~Downer High School Girl Nanami-chan~
+    author: mitsuki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/546898.jpg
+    rating: 0.0
+    date: '2026-11-08'
+    code: 546898
+    url: /works/546898/
   - title: Namaiki JK ga Wakaraserareru Hon | Putting a Cheeky Gyaru in Her Place
     author: onkyu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/574409.jpg

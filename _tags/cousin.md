@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "cousin"
-work_count: 20
+work_count: 21
 works:
   - title: Natsuyasumi~Boku to oneechan no inaka de hatsutaiken~ |Summer Vacation~My
       first time with Oneechan in the countryside
@@ -152,4 +152,11 @@ works:
     date: '2026-10-09'
     code: 686318
     url: /works/686318/
+  - title: Zutto Issho ni Iyou ne | Let's Be Together Forever Ok?
+    author: oosawa-ofuda-ohuda
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694922.jpg
+    rating: 0.0
+    date: '2026-11-08'
+    code: 694922
+    url: /works/694922/
 ---

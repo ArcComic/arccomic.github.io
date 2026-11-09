@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big penis"
-work_count: 303
+work_count: 310
 works:
   - title: Tsuma no Imouto no Danna ga Ie ni Kiteiruyoudesu | My Sister-In-Law's Husband
       is Over
@@ -353,6 +353,14 @@ works:
     date: '2026-10-02'
     code: 545591
     url: /works/545591/
+  - title: Ritouseikatsu no Osewa Gakari ~Downer JK Nanami-chan Hen~ | Remote Island
+      Sex Life Caretaker ~Downer High School Girl Nanami-chan~
+    author: mitsuki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/546898.jpg
+    rating: 0.0
+    date: '2026-11-08'
+    code: 546898
+    url: /works/546898/
   - title: Wagaya no Housemaid Bridget Sei no Gohoushi ~Danro Souji kara Kozukuri made~
       /  My Housemaid Bridget's Sexual Service ~ Everything From Fireplace Cleaning,
       To Babymaking
@@ -645,6 +653,15 @@ works:
     date: '2026-05-26'
     code: 627182
     url: /works/627182/
+  - title: '"Tokutai" Sei ni Natta node, Shouwaru Gal o Shimei Shimasu! -Itsumo Tsukue
+      ni Ketsu o Nosetekuru Umezu-san- | Now That I’m a ''Special Treatment'' Student,
+      I’ll Choose the Ill-natured Gyaru! -Umezu-san, Who Always Puts Her Ass on My Desk-'
+    author: mitsuki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/630135.jpg
+    rating: 0.0
+    date: '2026-11-08'
+    code: 630135
+    url: /works/630135/
   - title: Dansei Idol ni Okasareru Hanashi
     author: ema
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/630903.jpg
@@ -2162,6 +2179,13 @@ works:
     date: '2026-10-18'
     code: 688607
     url: /works/688607/
+  - title: Common Sense Overturned!? The Girl Who Gets Fucked
+    author: honshiro-nikori
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/689137.jpg
+    rating: 0.0
+    date: '2026-11-08'
+    code: 689137
+    url: /works/689137/
   - title: A story about how I ended up being in charge of satisfying the sexual desires
       of the female students at my new school.
     author: sakurayu-hal
@@ -2268,4 +2292,33 @@ works:
     date: '2026-10-28'
     code: 691662
     url: /works/691662/
+  - title: Making a Harem of the Three Bitchy Gal Sisters - All Chapters + Bonus
+    author: zonda
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694670.jpg
+    rating: 0.0
+    date: '2026-11-08'
+    code: 694670
+    url: /works/694670/
+  - title: Deriheru yondara wakareta kanojo no mama ga kita | My Escort Was My Ex's
+      Mom
+    author: hotate-chan
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694850.jpg
+    rating: 0.0
+    date: '2026-11-08'
+    code: 694850
+    url: /works/694850/
+  - title: Ano Toki no Sekinin Totte...Nii-san / Do you remember our secret game, Onii-chan?
+    author: dochashiko
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694921.jpg
+    rating: 0.0
+    date: '2026-11-08'
+    code: 694921
+    url: /works/694921/
+  - title: Zutto Issho ni Iyou ne | Let's Be Together Forever Ok?
+    author: oosawa-ofuda-ohuda
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694922.jpg
+    rating: 0.0
+    date: '2026-11-08'
+    code: 694922
+    url: /works/694922/
 ---

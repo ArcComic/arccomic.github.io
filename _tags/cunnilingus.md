@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "cunnilingus"
-work_count: 212
+work_count: 217
 works:
   - title: Love Approach
     author: hanafuda-sakurano
@@ -52,6 +52,13 @@ works:
     date: '2026-10-12'
     code: 298547
     url: /works/298547/
+  - title: Oshiete Sensei! | Teach Me, Sensei
+    author: kinomoto-anzu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/302021.jpg
+    rating: 0.0
+    date: '2026-11-08'
+    code: 302021
+    url: /works/302021/
   - title: Akarui Kazoku Seikatsu
     author: pistonring-nishizawa
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/304307.jpg
@@ -182,6 +189,13 @@ works:
     date: '2026-04-27'
     code: 416883
     url: /works/416883/
+  - title: Mama ni Seishi Ippai Choudai, Zenpen-Chuuhen
+    author: yamamoto-yoshifumi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/429195.jpg
+    rating: 0.0
+    date: '2026-11-08'
+    code: 429195
+    url: /works/429195/
   - title: Hikage | Shade
     author: syuuen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/429669.jpg
@@ -1519,6 +1533,13 @@ works:
     date: '2026-10-20'
     code: 688608
     url: /works/688608/
+  - title: Common Sense Overturned!? The Girl Who Gets Fucked
+    author: honshiro-nikori
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/689137.jpg
+    rating: 0.0
+    date: '2026-11-08'
+    code: 689137
+    url: /works/689137/
   - title: A story about how I ended up being in charge of satisfying the sexual desires
       of the female students at my new school.
     author: sakurayu-hal
@@ -1571,4 +1592,18 @@ works:
     date: '2026-10-28'
     code: 691671
     url: /works/691671/
+  - title: Making a Harem of the Three Bitchy Gal Sisters - All Chapters + Bonus
+    author: zonda
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694670.jpg
+    rating: 0.0
+    date: '2026-11-08'
+    code: 694670
+    url: /works/694670/
+  - title: The 211cm Jirai-kei Girl Who Won't Let Go of Me 4
+    author: kinntarou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694925.jpg
+    rating: 0.0
+    date: '2026-11-08'
+    code: 694925
+    url: /works/694925/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "painted nails"
-work_count: 52
+work_count: 54
 works:
   - title: Rakki Taishyaku
     author: fushoku
@@ -156,6 +156,15 @@ works:
     date: '2026-09-30'
     code: 614675
     url: /works/614675/
+  - title: '"Tokutai" Sei ni Natta node, Shouwaru Gal o Shimei Shimasu! -Itsumo Tsukue
+      ni Ketsu o Nosetekuru Umezu-san- | Now That I’m a ''Special Treatment'' Student,
+      I’ll Choose the Ill-natured Gyaru! -Umezu-san, Who Always Puts Her Ass on My Desk-'
+    author: mitsuki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/630135.jpg
+    rating: 0.0
+    date: '2026-11-08'
+    code: 630135
+    url: /works/630135/
   - title: Boku no Toshiue no Tomodachi | My Older Friend
     author: buta
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/631036.jpg
@@ -386,4 +395,11 @@ works:
     date: '2026-10-26'
     code: 690824
     url: /works/690824/
+  - title: The 211cm Jirai-kei Girl Who Won't Let Go of Me 4
+    author: kinntarou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694925.jpg
+    rating: 0.0
+    date: '2026-11-08'
+    code: 694925
+    url: /works/694925/
 ---

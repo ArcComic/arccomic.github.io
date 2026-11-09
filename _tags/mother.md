@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "mother"
-work_count: 201
+work_count: 206
 works:
   - title: Imitation Family + Bigibo Hen
     author: tohzai
@@ -81,6 +81,13 @@ works:
     date: '2026-09-09'
     code: 366731
     url: /works/366731/
+  - title: Fukinshin Soukan no Onna | Non Incest Woman Chapter 1
+    author: nagashima-chosuke
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/377597.jpg
+    rating: 0.0
+    date: '2026-11-08'
+    code: 377597
+    url: /works/377597/
   - title: Seigi no Mikata o Otosu Houhou | How To Subvert an Ally of Justice
     author: fuka
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/384737.jpg
@@ -148,6 +155,13 @@ works:
     date: '2026-09-24'
     code: 424575
     url: /works/424575/
+  - title: Mama ni Seishi Ippai Choudai, Zenpen-Chuuhen
+    author: yamamoto-yoshifumi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/429195.jpg
+    rating: 0.0
+    date: '2026-11-08'
+    code: 429195
+    url: /works/429195/
   - title: Musume no Kareshi ni Ochiru Okaa-san. 2 | A Mother Who Falls For Her Daughter's
       Boyfriend 2
     author: sinori
@@ -221,6 +235,14 @@ works:
     date: '2026-10-29'
     code: 497950
     url: /works/497950/
+  - title: Mama to Musuko ga Mujintou de Love Love Sex suru Hanashi |  A Story of a
+      Mom and Her Son's Lovemaking on a Uninhabited Island
+    author: katano-chika
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/501315.jpg
+    rating: 0.0
+    date: '2026-11-08'
+    code: 501315
+    url: /works/501315/
   - title: Mama Moe ~Haha o Bikou shite mita Ken~ | Mama Moe ~That Time When I Followed
       My Mom~
     author: hara-shigeyuki
@@ -618,6 +640,13 @@ works:
     date: '2026-09-28'
     code: 605633
     url: /works/605633/
+  - title: Saimin Mama, Warugaki Musuko to Issho!
+    author: katano-chika
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/606648.jpg
+    rating: 0.0
+    date: '2026-11-08'
+    code: 606648
+    url: /works/606648/
   - title: Sono Gal Mama wa Koubi Suru | This Gyaru Mom is Having Sex.
     author: ameto-yuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/608648.jpg
@@ -1471,4 +1500,11 @@ works:
     date: '2026-10-28'
     code: 691620
     url: /works/691620/
+  - title: The 211cm Jirai-kei Girl Who Won't Let Go of Me 4
+    author: kinntarou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694925.jpg
+    rating: 0.0
+    date: '2026-11-08'
+    code: 694925
+    url: /works/694925/
 ---

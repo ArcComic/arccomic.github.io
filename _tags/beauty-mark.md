@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "beauty mark"
-work_count: 239
+work_count: 241
 works:
   - title: Uragiri no Ai wa Mitsu no Aji | Treacherous Love Tastes Like Honey
     author: cuzukago
@@ -188,6 +188,14 @@ works:
     date: '2026-09-22'
     code: 386119
     url: /works/386119/
+  - title: Rinraku no Susume | Corruption Provocation [English] [Rnot2000] =The Lost
+      Light=
+    author: nakamura-regura
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/397141.jpg
+    rating: 0.0
+    date: '2026-11-08'
+    code: 397141
+    url: /works/397141/
   - title: Yurikago
     author: neko-samurai
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/398305.jpg
@@ -308,6 +316,13 @@ works:
     date: '2026-10-05'
     code: 475840
     url: /works/475840/
+  - title: Ero-ero Massage
+    author: shin-yu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/485499.jpg
+    rating: 0.0
+    date: '2026-11-08'
+    code: 485499
+    url: /works/485499/
   - title: Yasashii Kimi ni Ijiwaru Saretai | Gentle You, Bully Me
     author: kanashiro-no-hako
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/485876.jpg

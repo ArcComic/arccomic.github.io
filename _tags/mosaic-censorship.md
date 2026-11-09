@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "mosaic censorship"
-work_count: 364
+work_count: 368
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -311,6 +311,13 @@ works:
     date: '2026-10-29'
     code: 422128
     url: /works/422128/
+  - title: Mama ni Seishi Ippai Choudai, Zenpen-Chuuhen
+    author: yamamoto-yoshifumi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/429195.jpg
+    rating: 0.0
+    date: '2026-11-08'
+    code: 429195
+    url: /works/429195/
   - title: The Show Must Go On!
     author: chicken
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/432255.jpg
@@ -516,6 +523,14 @@ works:
     date: '2026-10-29'
     code: 497950
     url: /works/497950/
+  - title: Mama to Musuko ga Mujintou de Love Love Sex suru Hanashi |  A Story of a
+      Mom and Her Son's Lovemaking on a Uninhabited Island
+    author: katano-chika
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/501315.jpg
+    rating: 0.0
+    date: '2026-11-08'
+    code: 501315
+    url: /works/501315/
   - title: 1 Once iku goto ni penalty 1 manen oshioki papakatsu jyoshi
     author: crimson
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/503556.jpg
@@ -1073,6 +1088,13 @@ works:
     date: '2026-07-16'
     code: 605410
     url: /works/605410/
+  - title: Saimin Mama, Warugaki Musuko to Issho!
+    author: katano-chika
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/606648.jpg
+    rating: 0.0
+    date: '2026-11-08'
+    code: 606648
+    url: /works/606648/
   - title: Kouhai Otaku Tomodachi JK ga Kawai Sugirumon de!
     author: niji-teru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/606719.jpg
@@ -2681,4 +2703,11 @@ works:
     date: '2026-10-28'
     code: 691620
     url: /works/691620/
+  - title: Zutto Issho ni Iyou ne | Let's Be Together Forever Ok?
+    author: oosawa-ofuda-ohuda
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694922.jpg
+    rating: 0.0
+    date: '2026-11-08'
+    code: 694922
+    url: /works/694922/
 ---

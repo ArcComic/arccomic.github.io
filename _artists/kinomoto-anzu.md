@@ -1,8 +1,14 @@
 ---
 layout: artist
 artist_name: "kinomoto-anzu"
-work_count: 1
+work_count: 2
 works:
+  - title: Oshiete Sensei! | Teach Me, Sensei
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/302021.jpg
+    rating: 0.0
+    date: '2026-11-08'
+    code: 302021
+    url: /works/302021/
   - title: Imouto no Nukumori | A Little Sister's warmth
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/407959.jpg
     rating: 4.5

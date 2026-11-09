@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "cheating"
-work_count: 441
+work_count: 445
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -337,6 +337,13 @@ works:
     date: '2026-08-23'
     code: 375962
     url: /works/375962/
+  - title: Fukinshin Soukan no Onna | Non Incest Woman Chapter 1
+    author: nagashima-chosuke
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/377597.jpg
+    rating: 0.0
+    date: '2026-11-08'
+    code: 377597
+    url: /works/377597/
   - title: Sayonara Onee-chan | Goodbye Big Sis!
     author: kamitsuki-manmaru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/380273.jpg
@@ -695,6 +702,13 @@ works:
     date: '2026-09-27'
     code: 483537
     url: /works/483537/
+  - title: Ero-ero Massage
+    author: shin-yu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/485499.jpg
+    rating: 0.0
+    date: '2026-11-08'
+    code: 485499
+    url: /works/485499/
   - title: Boku no Doutei wa Neteru Aida ni... Ubawaremashita
     author: kinntarou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/490633.jpg
@@ -3248,6 +3262,21 @@ works:
     date: '2026-10-28'
     code: 691671
     url: /works/691671/
+  - title: Deriheru yondara wakareta kanojo no mama ga kita | My Escort Was My Ex's
+      Mom
+    author: hotate-chan
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694850.jpg
+    rating: 0.0
+    date: '2026-11-08'
+    code: 694850
+    url: /works/694850/
+  - title: The 211cm Jirai-kei Girl Who Won't Let Go of Me 4
+    author: kinntarou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694925.jpg
+    rating: 0.0
+    date: '2026-11-08'
+    code: 694925
+    url: /works/694925/
   - title: Jokyoushi - Hot For Teachers | Female Teachers
     author: drill-murata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/81375.jpg

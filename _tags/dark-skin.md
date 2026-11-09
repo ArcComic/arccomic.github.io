@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "dark skin"
-work_count: 186
+work_count: 187
 works:
   - title: Birthday
     author: hashiba-yachi
@@ -336,6 +336,14 @@ works:
     date: '2026-10-12'
     code: 546621
     url: /works/546621/
+  - title: Ritouseikatsu no Osewa Gakari ~Downer JK Nanami-chan Hen~ | Remote Island
+      Sex Life Caretaker ~Downer High School Girl Nanami-chan~
+    author: mitsuki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/546898.jpg
+    rating: 0.0
+    date: '2026-11-08'
+    code: 546898
+    url: /works/546898/
   - title: Aka-chan Tsukuri no Yoshuu | Preview Lesson About Babymaking
     author: highlow
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/555216.jpg

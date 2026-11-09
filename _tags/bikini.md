@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bikini"
-work_count: 98
+work_count: 99
 works:
   - title: Kizashi
     author: yoshiura-kazuya
@@ -103,6 +103,13 @@ works:
     date: '2026-09-29'
     code: 480745
     url: /works/480745/
+  - title: Ero-ero Massage
+    author: shin-yu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/485499.jpg
+    rating: 0.0
+    date: '2026-11-08'
+    code: 485499
+    url: /works/485499/
   - title: Bocchi de Shinda Ore ga Bishoujo Nurse ni Natta Hanashi | The Story of How
       I Died Alone and Became a Sexy Nurse
     author: testame

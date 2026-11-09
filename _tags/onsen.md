@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "onsen"
-work_count: 18
+work_count: 19
 works:
   - title: Boku dake ni Amaesasete Kureru Kyonyuu JK Tsuma o Hoka no Otoko ni Dakasete
       Mita 11
@@ -11,6 +11,14 @@ works:
     date: '2026-09-25'
     code: 620246
     url: /works/620246/
+  - title: Sentou no Onee-san to Majiwaru, 4-kakan no Natsu | Four Days of Summer With
+      The Bathhouse Lady
+    author: yuzuha
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/627409.jpg
+    rating: 4.8
+    date: '2026-11-08'
+    code: 627409
+    url: /works/627409/
   - title: Boshi Futari Gurashi Dai Go Shou 5 Souai
     author: fuwatoro-opanchu-cake
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/634207.jpg

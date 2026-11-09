@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "rough translation"
-work_count: 777
+work_count: 780
 works:
   - title: Boku no Shiranai Kimi no Kao
     author: utsutsu-minoru
@@ -5530,6 +5530,13 @@ works:
     date: '2026-10-29'
     code: 688935
     url: /works/688935/
+  - title: Common Sense Overturned!? The Girl Who Gets Fucked
+    author: honshiro-nikori
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/689137.jpg
+    rating: 0.0
+    date: '2026-11-08'
+    code: 689137
+    url: /works/689137/
   - title: A story about how I ended up being in charge of satisfying the sexual desires
       of the female students at my new school.
     author: sakurayu-hal
@@ -5696,4 +5703,18 @@ works:
     date: '2026-10-28'
     code: 691636
     url: /works/691636/
+  - title: I'll make fun of your feelings too! - Share your feelings!
+    author: signo-mandara
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/693914.jpg
+    rating: 0.0
+    date: '2026-11-08'
+    code: 693914
+    url: /works/693914/
+  - title: The Fable Of The Short King And His GF With Huge Tits
+    author: enishi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694668.jpg
+    rating: 0.0
+    date: '2026-11-08'
+    code: 694668
+    url: /works/694668/
 ---

@@ -1,8 +1,16 @@
 ---
 layout: tag
 tag_name: "standing sex"
-work_count: 7
+work_count: 8
 works:
+  - title: Sentou no Onee-san to Majiwaru, 4-kakan no Natsu | Four Days of Summer With
+      The Bathhouse Lady
+    author: yuzuha
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/627409.jpg
+    rating: 4.8
+    date: '2026-11-08'
+    code: 627409
+    url: /works/627409/
   - title: Onna Tomodachi to Omotteitara Mesu Deshita | I Thought She Was Just a Friend,
       Turned Out She Was a Woman
     author: ippan-seijin

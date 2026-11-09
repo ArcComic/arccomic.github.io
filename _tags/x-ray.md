@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "x-ray"
-work_count: 404
+work_count: 413
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -145,6 +145,13 @@ works:
     date: '2026-10-10'
     code: 355274
     url: /works/355274/
+  - title: Let's Study!
+    author: napo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/358620.jpg
+    rating: 0.0
+    date: '2026-11-08'
+    code: 358620
+    url: /works/358620/
   - title: Yayoi to Apron
     author: tsurui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/363825.jpg
@@ -189,6 +196,14 @@ works:
     date: '2026-10-30'
     code: 396215
     url: /works/396215/
+  - title: Rinraku no Susume | Corruption Provocation [English] [Rnot2000] =The Lost
+      Light=
+    author: nakamura-regura
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/397141.jpg
+    rating: 0.0
+    date: '2026-11-08'
+    code: 397141
+    url: /works/397141/
   - title: SUCCUBUS MONOGATARI
     author: mackgee
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/400846.jpg
@@ -238,6 +253,13 @@ works:
     date: '2026-04-15'
     code: 426769
     url: /works/426769/
+  - title: Mama ni Seishi Ippai Choudai, Zenpen-Chuuhen
+    author: yamamoto-yoshifumi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/429195.jpg
+    rating: 0.0
+    date: '2026-11-08'
+    code: 429195
+    url: /works/429195/
   - title: Mesu Kagura -Fate Hen 1-
     author: ishigaki-takashi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/431558.jpg
@@ -993,6 +1015,13 @@ works:
     date: '2026-09-18'
     code: 606170
     url: /works/606170/
+  - title: Saimin Mama, Warugaki Musuko to Issho!
+    author: katano-chika
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/606648.jpg
+    rating: 0.0
+    date: '2026-11-08'
+    code: 606648
+    url: /works/606648/
   - title: Yojouhan Ikken Apart de Komochi Dosukebe Rinjin to Asedaku Noukou na Otsukiai
       - A sweaty, intense relationship with a perverted neighbor with a child in a four
       and a half tatami mat apartment
@@ -1136,6 +1165,15 @@ works:
     date: '2026-10-11'
     code: 630105
     url: /works/630105/
+  - title: '"Tokutai" Sei ni Natta node, Shouwaru Gal o Shimei Shimasu! -Itsumo Tsukue
+      ni Ketsu o Nosetekuru Umezu-san- | Now That I’m a ''Special Treatment'' Student,
+      I’ll Choose the Ill-natured Gyaru! -Umezu-san, Who Always Puts Her Ass on My Desk-'
+    author: mitsuki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/630135.jpg
+    rating: 0.0
+    date: '2026-11-08'
+    code: 630135
+    url: /works/630135/
   - title: Dansei Idol ni Okasareru Hanashi
     author: ema
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/630903.jpg
@@ -2955,6 +2993,13 @@ works:
     date: '2026-10-18'
     code: 688607
     url: /works/688607/
+  - title: Common Sense Overturned!? The Girl Who Gets Fucked
+    author: honshiro-nikori
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/689137.jpg
+    rating: 0.0
+    date: '2026-11-08'
+    code: 689137
+    url: /works/689137/
   - title: Otaku-kun ni mo Yarasete kureru Yowayowa Chikubi no Kyonyuu Gal Sudou-san
       | Sudou-san the Busty Gyaru with Weak Nipples Who Lets Even an Otaku Do It
     author: shishamon
@@ -3029,4 +3074,26 @@ works:
     date: '2026-10-28'
     code: 691662
     url: /works/691662/
+  - title: Making a Harem of the Three Bitchy Gal Sisters - All Chapters + Bonus
+    author: zonda
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694670.jpg
+    rating: 0.0
+    date: '2026-11-08'
+    code: 694670
+    url: /works/694670/
+  - title: Deriheru yondara wakareta kanojo no mama ga kita | My Escort Was My Ex's
+      Mom
+    author: hotate-chan
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694850.jpg
+    rating: 0.0
+    date: '2026-11-08'
+    code: 694850
+    url: /works/694850/
+  - title: Ano Toki no Sekinin Totte...Nii-san / Do you remember our secret game, Onii-chan?
+    author: dochashiko
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694921.jpg
+    rating: 0.0
+    date: '2026-11-08'
+    code: 694921
+    url: /works/694921/
 ---

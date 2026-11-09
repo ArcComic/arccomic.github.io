@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "tall girl"
-work_count: 54
+work_count: 58
 works:
   - title: Oppai na Natsuyasumi 2 | The Summer Break of Boobs 2
     author: higashino-mikan
@@ -32,6 +32,13 @@ works:
     date: '2026-10-28'
     code: 377019
     url: /works/377019/
+  - title: Fukinshin Soukan no Onna | Non Incest Woman Chapter 1
+    author: nagashima-chosuke
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/377597.jpg
+    rating: 0.0
+    date: '2026-11-08'
+    code: 377597
+    url: /works/377597/
   - title: Harinezumi no Dilemma ① | A Hedgehog's Dilemma, Part 1
     author: maeda-momo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/388627.jpg
@@ -97,6 +104,15 @@ works:
     date: '2026-09-04'
     code: 618098
     url: /works/618098/
+  - title: '"Tokutai" Sei ni Natta node, Shouwaru Gal o Shimei Shimasu! -Itsumo Tsukue
+      ni Ketsu o Nosetekuru Umezu-san- | Now That I’m a ''Special Treatment'' Student,
+      I’ll Choose the Ill-natured Gyaru! -Umezu-san, Who Always Puts Her Ass on My Desk-'
+    author: mitsuki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/630135.jpg
+    rating: 0.0
+    date: '2026-11-08'
+    code: 630135
+    url: /works/630135/
   - title: Jimoto no Dekai Gal
     author: ueno-meguru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/634592.jpg
@@ -404,4 +420,18 @@ works:
     date: '2026-10-28'
     code: 691661
     url: /works/691661/
+  - title: The Fable Of The Short King And His GF With Huge Tits
+    author: enishi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694668.jpg
+    rating: 0.0
+    date: '2026-11-08'
+    code: 694668
+    url: /works/694668/
+  - title: The 211cm Jirai-kei Girl Who Won't Let Go of Me 4
+    author: kinntarou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694925.jpg
+    rating: 0.0
+    date: '2026-11-08'
+    code: 694925
+    url: /works/694925/
 ---

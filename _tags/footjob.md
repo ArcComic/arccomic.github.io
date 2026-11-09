@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "footjob"
-work_count: 39
+work_count: 44
 works:
   - title: Sei no Kenryoku | The Power of Sex
     author: tomohiro-kai
@@ -17,6 +17,13 @@ works:
     date: '2026-10-08'
     code: 228426
     url: /works/228426/
+  - title: Oshiete Sensei! | Teach Me, Sensei
+    author: kinomoto-anzu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/302021.jpg
+    rating: 0.0
+    date: '2026-11-08'
+    code: 302021
+    url: /works/302021/
   - title: CA Chihaya
     author: tsurui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/322481.jpg
@@ -31,6 +38,13 @@ works:
     date: '2026-09-12'
     code: 354384
     url: /works/354384/
+  - title: Let's Study!
+    author: napo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/358620.jpg
+    rating: 0.0
+    date: '2026-11-08'
+    code: 358620
+    url: /works/358620/
   - title: My Dress Up Corpse
     author: mr-kurz
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/408427.jpg
@@ -52,6 +66,15 @@ works:
     date: '2026-05-26'
     code: 532417
     url: /works/532417/
+  - title: '"Tokutai" Sei ni Natta node, Shouwaru Gal o Shimei Shimasu! -Itsumo Tsukue
+      ni Ketsu o Nosetekuru Umezu-san- | Now That I’m a ''Special Treatment'' Student,
+      I’ll Choose the Ill-natured Gyaru! -Umezu-san, Who Always Puts Her Ass on My Desk-'
+    author: mitsuki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/630135.jpg
+    rating: 0.0
+    date: '2026-11-08'
+    code: 630135
+    url: /works/630135/
   - title: Sewayaki na Kyonyuu Gakkyuu Iinchou Sono 1-20 | The Kind and Caring Busty
       Class Rep Ch.1-20
     author: makosho
@@ -271,6 +294,13 @@ works:
     date: '2026-10-20'
     code: 688613
     url: /works/688613/
+  - title: Common Sense Overturned!? The Girl Who Gets Fucked
+    author: honshiro-nikori
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/689137.jpg
+    rating: 0.0
+    date: '2026-11-08'
+    code: 689137
+    url: /works/689137/
   - title: 'Swapping no Wana ~Netorare Mitsugi Maso-ka Keikaku ni Ochita Boku~ | Couple
       Swapping Trap: Fallen into the Scheme to Turn Me into a Cuckolded, Money-Draining
       Masochist'
@@ -280,6 +310,13 @@ works:
     date: '2026-10-26'
     code: 690849
     url: /works/690849/
+  - title: The 211cm Jirai-kei Girl Who Won't Let Go of Me 4
+    author: kinntarou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694925.jpg
+    rating: 0.0
+    date: '2026-11-08'
+    code: 694925
+    url: /works/694925/
   - title: Onee-chan no SM Kouza | Onee-chan's S&M Lecture
     author: shinooka-homare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/88750.jpg

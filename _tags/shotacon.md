@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "shotacon"
-work_count: 158
+work_count: 163
 works:
   - title: Ikanishite Haha wa Onna o Kaihou Shitaka Ch. 1-14
     author: mitarai-yuuki
@@ -168,6 +168,14 @@ works:
     date: '2026-09-24'
     code: 395483
     url: /works/395483/
+  - title: Rinraku no Susume | Corruption Provocation [English] [Rnot2000] =The Lost
+      Light=
+    author: nakamura-regura
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/397141.jpg
+    rating: 0.0
+    date: '2026-11-08'
+    code: 397141
+    url: /works/397141/
   - title: Natsuyasumi~Boku to oneechan no inaka de hatsutaiken~ |Summer Vacation~My
       first time with Oneechan in the countryside
     author: survival-knife
@@ -183,6 +191,13 @@ works:
     date: '2026-10-20'
     code: 408137
     url: /works/408137/
+  - title: Mama ni Seishi Ippai Choudai, Zenpen-Chuuhen
+    author: yamamoto-yoshifumi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/429195.jpg
+    rating: 0.0
+    date: '2026-11-08'
+    code: 429195
+    url: /works/429195/
   - title: Nekura Kyonyuu no Onee-chan wa, Saiminshite de mo Otouto Chinpo o Netoritai
     author: borusiti
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/438138.jpg
@@ -229,6 +244,14 @@ works:
     date: '2026-09-26'
     code: 491312
     url: /works/491312/
+  - title: Mama to Musuko ga Mujintou de Love Love Sex suru Hanashi |  A Story of a
+      Mom and Her Son's Lovemaking on a Uninhabited Island
+    author: katano-chika
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/501315.jpg
+    rating: 0.0
+    date: '2026-11-08'
+    code: 501315
+    url: /works/501315/
   - title: Toilet no Jimiko-san
     author: darezuka
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/504913.jpg
@@ -406,6 +429,13 @@ works:
     date: '2026-09-28'
     code: 605633
     url: /works/605633/
+  - title: Saimin Mama, Warugaki Musuko to Issho!
+    author: katano-chika
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/606648.jpg
+    rating: 0.0
+    date: '2026-11-08'
+    code: 606648
+    url: /works/606648/
   - title: Sono Gal Mama wa Koubi Suru | This Gyaru Mom is Having Sex.
     author: ameto-yuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/608648.jpg
@@ -1151,6 +1181,13 @@ works:
     date: '2026-10-28'
     code: 691661
     url: /works/691661/
+  - title: The Fable Of The Short King And His GF With Huge Tits
+    author: enishi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694668.jpg
+    rating: 0.0
+    date: '2026-11-08'
+    code: 694668
+    url: /works/694668/
   - title: Jokyoushi - Hot For Teachers | Female Teachers
     author: drill-murata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/81375.jpg

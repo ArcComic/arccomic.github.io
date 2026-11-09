@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "pantyhose"
-work_count: 93
+work_count: 97
 works:
   - title: MAGIC SEVEN
     author: asuhiro
@@ -122,6 +122,14 @@ works:
     date: '2026-10-07'
     code: 386725
     url: /works/386725/
+  - title: Rinraku no Susume | Corruption Provocation [English] [Rnot2000] =The Lost
+      Light=
+    author: nakamura-regura
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/397141.jpg
+    rating: 0.0
+    date: '2026-11-08'
+    code: 397141
+    url: /works/397141/
   - title: Police Story
     author: nekoi-mie
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/399776.jpg
@@ -635,6 +643,13 @@ works:
     date: '2026-10-20'
     code: 688613
     url: /works/688613/
+  - title: Common Sense Overturned!? The Girl Who Gets Fucked
+    author: honshiro-nikori
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/689137.jpg
+    rating: 0.0
+    date: '2026-11-08'
+    code: 689137
+    url: /works/689137/
   - title: 'Swapping no Wana ~Netorare Mitsugi Maso-ka Keikaku ni Ochita Boku~ | Couple
       Swapping Trap: Fallen into the Scheme to Turn Me into a Cuckolded, Money-Draining
       Masochist'
@@ -659,6 +674,20 @@ works:
     date: '2026-10-30'
     code: 691442
     url: /works/691442/
+  - title: The Fable Of The Short King And His GF With Huge Tits
+    author: enishi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694668.jpg
+    rating: 0.0
+    date: '2026-11-08'
+    code: 694668
+    url: /works/694668/
+  - title: Making a Harem of the Three Bitchy Gal Sisters - All Chapters + Bonus
+    author: zonda
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694670.jpg
+    rating: 0.0
+    date: '2026-11-08'
+    code: 694670
+    url: /works/694670/
   - title: Hottokenaino
     author: hara-shigeyuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/77864.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "asphyxiation"
-work_count: 27
+work_count: 28
 works:
   - title: My Dress Up Corpse
     author: mr-kurz
@@ -203,4 +203,11 @@ works:
     date: '2026-10-29'
     code: 689170
     url: /works/689170/
+  - title: The 211cm Jirai-kei Girl Who Won't Let Go of Me 4
+    author: kinntarou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694925.jpg
+    rating: 0.0
+    date: '2026-11-08'
+    code: 694925
+    url: /works/694925/
 ---

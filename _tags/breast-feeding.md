@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "breast feeding"
-work_count: 111
+work_count: 116
 works:
   - title: Oppai na Natsuyasumi 2 | The Summer Break of Boobs 2
     author: higashino-mikan
@@ -17,6 +17,14 @@ works:
     date: '2026-10-10'
     code: 355274
     url: /works/355274/
+  - title: Rinraku no Susume | Corruption Provocation [English] [Rnot2000] =The Lost
+      Light=
+    author: nakamura-regura
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/397141.jpg
+    rating: 0.0
+    date: '2026-11-08'
+    code: 397141
+    url: /works/397141/
   - title: Natsuyasumi~Boku to oneechan no inaka de hatsutaiken~ |Summer Vacation~My
       first time with Oneechan in the countryside
     author: survival-knife
@@ -808,6 +816,13 @@ works:
     date: '2026-10-18'
     code: 688582
     url: /works/688582/
+  - title: Common Sense Overturned!? The Girl Who Gets Fucked
+    author: honshiro-nikori
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/689137.jpg
+    rating: 0.0
+    date: '2026-11-08'
+    code: 689137
+    url: /works/689137/
   - title: Otaku-kun ni mo Yarasete kureru Yowayowa Chikubi no Kyonyuu Gal Sudou-san
       | Sudou-san the Busty Gyaru with Weak Nipples Who Lets Even an Otaku Do It
     author: shishamon
@@ -844,4 +859,26 @@ works:
     date: '2026-10-28'
     code: 691671
     url: /works/691671/
+  - title: Making a Harem of the Three Bitchy Gal Sisters - All Chapters + Bonus
+    author: zonda
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694670.jpg
+    rating: 0.0
+    date: '2026-11-08'
+    code: 694670
+    url: /works/694670/
+  - title: Deriheru yondara wakareta kanojo no mama ga kita | My Escort Was My Ex's
+      Mom
+    author: hotate-chan
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694850.jpg
+    rating: 0.0
+    date: '2026-11-08'
+    code: 694850
+    url: /works/694850/
+  - title: The 211cm Jirai-kei Girl Who Won't Let Go of Me 4
+    author: kinntarou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694925.jpg
+    rating: 0.0
+    date: '2026-11-08'
+    code: 694925
+    url: /works/694925/
 ---

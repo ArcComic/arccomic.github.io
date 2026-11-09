@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "ahegao"
-work_count: 383
+work_count: 393
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -155,6 +155,14 @@ works:
     date: '2026-02-26'
     code: 393984
     url: /works/393984/
+  - title: Rinraku no Susume | Corruption Provocation [English] [Rnot2000] =The Lost
+      Light=
+    author: nakamura-regura
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/397141.jpg
+    rating: 0.0
+    date: '2026-11-08'
+    code: 397141
+    url: /works/397141/
   - title: Police Story
     author: nekoi-mie
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/399776.jpg
@@ -192,6 +200,13 @@ works:
     date: '2026-09-12'
     code: 424735
     url: /works/424735/
+  - title: Mama ni Seishi Ippai Choudai, Zenpen-Chuuhen
+    author: yamamoto-yoshifumi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/429195.jpg
+    rating: 0.0
+    date: '2026-11-08'
+    code: 429195
+    url: /works/429195/
   - title: Mesu Kagura -Fate Hen 1-
     author: ishigaki-takashi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/431558.jpg
@@ -536,6 +551,14 @@ works:
     date: '2026-10-02'
     code: 545591
     url: /works/545591/
+  - title: Ritouseikatsu no Osewa Gakari ~Downer JK Nanami-chan Hen~ | Remote Island
+      Sex Life Caretaker ~Downer High School Girl Nanami-chan~
+    author: mitsuki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/546898.jpg
+    rating: 0.0
+    date: '2026-11-08'
+    code: 546898
+    url: /works/546898/
   - title: Wagaya no Housemaid Bridget Sei no Gohoushi ~Danro Souji kara Kozukuri made~
       /  My Housemaid Bridget's Sexual Service ~ Everything From Fireplace Cleaning,
       To Babymaking
@@ -841,6 +864,15 @@ works:
     date: '2026-04-23'
     code: 628865
     url: /works/628865/
+  - title: '"Tokutai" Sei ni Natta node, Shouwaru Gal o Shimei Shimasu! -Itsumo Tsukue
+      ni Ketsu o Nosetekuru Umezu-san- | Now That I’m a ''Special Treatment'' Student,
+      I’ll Choose the Ill-natured Gyaru! -Umezu-san, Who Always Puts Her Ass on My Desk-'
+    author: mitsuki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/630135.jpg
+    rating: 0.0
+    date: '2026-11-08'
+    code: 630135
+    url: /works/630135/
   - title: Boku no Toshiue no Tomodachi | My Older Friend
     author: buta
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/631036.jpg
@@ -2873,6 +2905,49 @@ works:
     date: '2026-10-28'
     code: 691662
     url: /works/691662/
+  - title: The Fable Of The Short King And His GF With Huge Tits
+    author: enishi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694668.jpg
+    rating: 0.0
+    date: '2026-11-08'
+    code: 694668
+    url: /works/694668/
+  - title: Making a Harem of the Three Bitchy Gal Sisters - All Chapters + Bonus
+    author: zonda
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694670.jpg
+    rating: 0.0
+    date: '2026-11-08'
+    code: 694670
+    url: /works/694670/
+  - title: Deriheru yondara wakareta kanojo no mama ga kita | My Escort Was My Ex's
+      Mom
+    author: hotate-chan
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694850.jpg
+    rating: 0.0
+    date: '2026-11-08'
+    code: 694850
+    url: /works/694850/
+  - title: Ano Toki no Sekinin Totte...Nii-san / Do you remember our secret game, Onii-chan?
+    author: dochashiko
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694921.jpg
+    rating: 0.0
+    date: '2026-11-08'
+    code: 694921
+    url: /works/694921/
+  - title: Zutto Issho ni Iyou ne | Let's Be Together Forever Ok?
+    author: oosawa-ofuda-ohuda
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694922.jpg
+    rating: 0.0
+    date: '2026-11-08'
+    code: 694922
+    url: /works/694922/
+  - title: The 211cm Jirai-kei Girl Who Won't Let Go of Me 4
+    author: kinntarou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694925.jpg
+    rating: 0.0
+    date: '2026-11-08'
+    code: 694925
+    url: /works/694925/
   - title: Inin Keiyaku | Lewd Pregnancy Contract
     author: yoshiura-kazuya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/83595.jpg

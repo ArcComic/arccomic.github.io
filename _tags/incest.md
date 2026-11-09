@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "incest"
-work_count: 354
+work_count: 360
 works:
   - title: Imitation Family + Bigibo Hen
     author: tohzai
@@ -133,6 +133,13 @@ works:
     date: '2026-10-12'
     code: 374589
     url: /works/374589/
+  - title: Fukinshin Soukan no Onna | Non Incest Woman Chapter 1
+    author: nagashima-chosuke
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/377597.jpg
+    rating: 0.0
+    date: '2026-11-08'
+    code: 377597
+    url: /works/377597/
   - title: Soubo Soukan 2 | Twin mothers incest 2 FULL
     author: nanao-yukiji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/378626.jpg
@@ -251,6 +258,13 @@ works:
     date: '2026-09-24'
     code: 424575
     url: /works/424575/
+  - title: Mama ni Seishi Ippai Choudai, Zenpen-Chuuhen
+    author: yamamoto-yoshifumi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/429195.jpg
+    rating: 0.0
+    date: '2026-11-08'
+    code: 429195
+    url: /works/429195/
   - title: Hikage | Shade
     author: syuuen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/429669.jpg
@@ -381,6 +395,14 @@ works:
     date: '2026-09-12'
     code: 500467
     url: /works/500467/
+  - title: Mama to Musuko ga Mujintou de Love Love Sex suru Hanashi |  A Story of a
+      Mom and Her Son's Lovemaking on a Uninhabited Island
+    author: katano-chika
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/501315.jpg
+    rating: 0.0
+    date: '2026-11-08'
+    code: 501315
+    url: /works/501315/
   - title: Mama Moe ~Haha o Bikou shite mita Ken~ | Mama Moe ~That Time When I Followed
       My Mom~
     author: hara-shigeyuki
@@ -877,6 +899,13 @@ works:
     date: '2026-09-28'
     code: 605633
     url: /works/605633/
+  - title: Saimin Mama, Warugaki Musuko to Issho!
+    author: katano-chika
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/606648.jpg
+    rating: 0.0
+    date: '2026-11-08'
+    code: 606648
+    url: /works/606648/
   - title: Sono Gal Mama wa Koubi Suru | This Gyaru Mom is Having Sex.
     author: ameto-yuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/608648.jpg
@@ -2585,6 +2614,20 @@ works:
     date: '2026-10-28'
     code: 691636
     url: /works/691636/
+  - title: Ano Toki no Sekinin Totte...Nii-san / Do you remember our secret game, Onii-chan?
+    author: dochashiko
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694921.jpg
+    rating: 0.0
+    date: '2026-11-08'
+    code: 694921
+    url: /works/694921/
+  - title: Zutto Issho ni Iyou ne | Let's Be Together Forever Ok?
+    author: oosawa-ofuda-ohuda
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694922.jpg
+    rating: 0.0
+    date: '2026-11-08'
+    code: 694922
+    url: /works/694922/
   - title: Onee-chan no SM Kouza | Onee-chan's S&M Lecture
     author: shinooka-homare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/88750.jpg

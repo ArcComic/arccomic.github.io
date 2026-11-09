@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sleeping"
-work_count: 67
+work_count: 68
 works:
   - title: Netemo Sametemo | Be it Sleeping or Awake
     author: takasugi-kou
@@ -488,4 +488,11 @@ works:
     date: '2026-10-26'
     code: 690851
     url: /works/690851/
+  - title: The 211cm Jirai-kei Girl Who Won't Let Go of Me 4
+    author: kinntarou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694925.jpg
+    rating: 0.0
+    date: '2026-11-08'
+    code: 694925
+    url: /works/694925/
 ---

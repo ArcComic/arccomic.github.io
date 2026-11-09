@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "smalldom"
-work_count: 34
+work_count: 36
 works:
   - title: Oshi ni Yowai Kanojo ni Netorase nante Tanomanakereba Yokatta... | I Wish
       I Had Never Begged My Pushover Girlfriend To Cuck Me...
@@ -32,6 +32,15 @@ works:
     date: '2026-07-17'
     code: 581704
     url: /works/581704/
+  - title: '"Tokutai" Sei ni Natta node, Shouwaru Gal o Shimei Shimasu! -Itsumo Tsukue
+      ni Ketsu o Nosetekuru Umezu-san- | Now That I’m a ''Special Treatment'' Student,
+      I’ll Choose the Ill-natured Gyaru! -Umezu-san, Who Always Puts Her Ass on My Desk-'
+    author: mitsuki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/630135.jpg
+    rating: 0.0
+    date: '2026-11-08'
+    code: 630135
+    url: /works/630135/
   - title: Aitsu, Kotowarenai kara.. Remake-ban no Tsuzuki dewa Arimasu ga, Konsaku
       wa Yakinaoshi ja Nai yo. Settei Igai wa Sinsaku da yo. Sonna Kanji no Vol. 2 desu
     author: haruharudo
@@ -253,4 +262,11 @@ works:
     date: '2026-10-15'
     code: 687667
     url: /works/687667/
+  - title: The Fable Of The Short King And His GF With Huge Tits
+    author: enishi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694668.jpg
+    rating: 0.0
+    date: '2026-11-08'
+    code: 694668
+    url: /works/694668/
 ---

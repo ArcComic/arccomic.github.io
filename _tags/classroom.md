@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "classroom"
-work_count: 14
+work_count: 15
 works:
   - title: Kimiha Bokuno Keikokuno Bijyo | You're the Woman of my Dreams
     author: yasson-yoshiyuki
@@ -106,4 +106,11 @@ works:
     date: '2026-10-13'
     code: 687225
     url: /works/687225/
+  - title: Making a Harem of the Three Bitchy Gal Sisters - All Chapters + Bonus
+    author: zonda
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694670.jpg
+    rating: 0.0
+    date: '2026-11-08'
+    code: 694670
+    url: /works/694670/
 ---

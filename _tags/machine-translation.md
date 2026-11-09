@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "machine translation"
-work_count: 38
+work_count: 39
 works:
   - title: My part-time coworker ran away from home and came to work here, but she was
       too sexy...
@@ -296,4 +296,11 @@ works:
     date: '2026-09-26'
     code: 684077
     url: /works/684077/
+  - title: Common Sense Overturned!? The Girl Who Gets Fucked
+    author: honshiro-nikori
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/689137.jpg
+    rating: 0.0
+    date: '2026-11-08'
+    code: 689137
+    url: /works/689137/
 ---

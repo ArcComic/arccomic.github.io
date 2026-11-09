@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "anal intercourse"
-work_count: 106
+work_count: 107
 works:
   - title: Police Story
     author: nekoi-mie
@@ -782,4 +782,11 @@ works:
     date: '2026-10-28'
     code: 691651
     url: /works/691651/
+  - title: Making a Harem of the Three Bitchy Gal Sisters - All Chapters + Bonus
+    author: zonda
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694670.jpg
+    rating: 0.0
+    date: '2026-11-08'
+    code: 694670
+    url: /works/694670/
 ---

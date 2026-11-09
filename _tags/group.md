@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "group"
-work_count: 293
+work_count: 295
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -2090,6 +2090,13 @@ works:
     date: '2026-10-18'
     code: 688570
     url: /works/688570/
+  - title: Common Sense Overturned!? The Girl Who Gets Fucked
+    author: honshiro-nikori
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/689137.jpg
+    rating: 0.0
+    date: '2026-11-08'
+    code: 689137
+    url: /works/689137/
   - title: A story about how I ended up being in charge of satisfying the sexual desires
       of the female students at my new school.
     author: sakurayu-hal
@@ -2150,4 +2157,11 @@ works:
     date: '2026-10-28'
     code: 691661
     url: /works/691661/
+  - title: Making a Harem of the Three Bitchy Gal Sisters - All Chapters + Bonus
+    author: zonda
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694670.jpg
+    rating: 0.0
+    date: '2026-11-08'
+    code: 694670
+    url: /works/694670/
 ---

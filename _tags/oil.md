@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "oil"
-work_count: 7
+work_count: 8
 works:
+  - title: Ero-ero Massage
+    author: shin-yu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/485499.jpg
+    rating: 0.0
+    date: '2026-11-08'
+    code: 485499
+    url: /works/485499/
   - title: Seitraishi ni Jirasare Tsuzuketa Tsuma ~Otto ni wa Ienai Nureiki Massage
       1-3 | A Wife who Gets Teased Continually by a Masseur ー A Massage that Makes Me
       Cum Behind My Husband’s Back 1-3

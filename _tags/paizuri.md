@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "paizuri"
-work_count: 276
+work_count: 283
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -131,6 +131,14 @@ works:
     date: '2026-09-26'
     code: 396702
     url: /works/396702/
+  - title: Rinraku no Susume | Corruption Provocation [English] [Rnot2000] =The Lost
+      Light=
+    author: nakamura-regura
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/397141.jpg
+    rating: 0.0
+    date: '2026-11-08'
+    code: 397141
+    url: /works/397141/
   - title: Police Story
     author: nekoi-mie
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/399776.jpg
@@ -154,6 +162,13 @@ works:
     date: '2026-10-02'
     code: 421306
     url: /works/421306/
+  - title: Mama ni Seishi Ippai Choudai, Zenpen-Chuuhen
+    author: yamamoto-yoshifumi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/429195.jpg
+    rating: 0.0
+    date: '2026-11-08'
+    code: 429195
+    url: /works/429195/
   - title: Tonari no Onee-san no Shitagi o Nusundara Kiseki ga Okita Hanashi o Shiyou
       |  Let’s Talk About the Story of A Miracle that Happened When I Stole the Underwear
       of the Lady Next Door
@@ -213,6 +228,13 @@ works:
     date: '2026-09-13'
     code: 480065
     url: /works/480065/
+  - title: Ero-ero Massage
+    author: shin-yu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/485499.jpg
+    rating: 0.0
+    date: '2026-11-08'
+    code: 485499
+    url: /works/485499/
   - title: Onsen Yukata na Kashima-san to Hamakaze-san to. | Hamakaze and Kashima in
       Hot Springs and Yukata
     author: sarfata
@@ -360,6 +382,14 @@ works:
     date: '2026-04-12'
     code: 544368
     url: /works/544368/
+  - title: Ritouseikatsu no Osewa Gakari ~Downer JK Nanami-chan Hen~ | Remote Island
+      Sex Life Caretaker ~Downer High School Girl Nanami-chan~
+    author: mitsuki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/546898.jpg
+    rating: 0.0
+    date: '2026-11-08'
+    code: 546898
+    url: /works/546898/
   - title: Atashi ga Nuite Ageyo kka?
     author: malcorond
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/547250.jpg
@@ -2008,6 +2038,13 @@ works:
     date: '2026-10-18'
     code: 688598
     url: /works/688598/
+  - title: Common Sense Overturned!? The Girl Who Gets Fucked
+    author: honshiro-nikori
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/689137.jpg
+    rating: 0.0
+    date: '2026-11-08'
+    code: 689137
+    url: /works/689137/
   - title: Motokano to Dousoukai de Saikai, Shuuden Nogashite Aibeya ni. ~Otagai Kekkon
       Majika de Uwaki Sex Shite Shimaimashita~
     author: baketsu-purin
@@ -2068,4 +2105,18 @@ works:
     date: '2026-10-28'
     code: 691671
     url: /works/691671/
+  - title: Making a Harem of the Three Bitchy Gal Sisters - All Chapters + Bonus
+    author: zonda
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694670.jpg
+    rating: 0.0
+    date: '2026-11-08'
+    code: 694670
+    url: /works/694670/
+  - title: The 211cm Jirai-kei Girl Who Won't Let Go of Me 4
+    author: kinntarou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694925.jpg
+    rating: 0.0
+    date: '2026-11-08'
+    code: 694925
+    url: /works/694925/
 ---

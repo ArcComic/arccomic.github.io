@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "huge breasts"
-work_count: 131
+work_count: 134
 works:
   - title: Mama Naranai Onna-tachi Ch. 1-2
     author: otochichi
@@ -45,6 +45,13 @@ works:
     date: '2026-09-06'
     code: 370164
     url: /works/370164/
+  - title: Fukinshin Soukan no Onna | Non Incest Woman Chapter 1
+    author: nagashima-chosuke
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/377597.jpg
+    rating: 0.0
+    date: '2026-11-08'
+    code: 377597
+    url: /works/377597/
   - title: Soubo Soukan 2 | Twin mothers incest 2 FULL
     author: nanao-yukiji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/378626.jpg
@@ -986,4 +993,19 @@ works:
     date: '2026-10-28'
     code: 691662
     url: /works/691662/
+  - title: Deriheru yondara wakareta kanojo no mama ga kita | My Escort Was My Ex's
+      Mom
+    author: hotate-chan
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694850.jpg
+    rating: 0.0
+    date: '2026-11-08'
+    code: 694850
+    url: /works/694850/
+  - title: The 211cm Jirai-kei Girl Who Won't Let Go of Me 4
+    author: kinntarou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694925.jpg
+    rating: 0.0
+    date: '2026-11-08'
+    code: 694925
+    url: /works/694925/
 ---

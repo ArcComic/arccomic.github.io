@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "long tongue"
-work_count: 4
+work_count: 5
 works:
   - title: Pashiri no Shita Teku, Yabaitte... ~ Ebi Sori Iki Suru Namaiki Gyaru | Bullied
       Boy's Tongue Revenge Vol.1-4
@@ -32,4 +32,11 @@ works:
     date: '2026-10-13'
     code: 687230
     url: /works/687230/
+  - title: Making a Harem of the Three Bitchy Gal Sisters - All Chapters + Bonus
+    author: zonda
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694670.jpg
+    rating: 0.0
+    date: '2026-11-08'
+    code: 694670
+    url: /works/694670/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "crotch tattoo"
-work_count: 12
+work_count: 13
 works:
   - title: Metamorphosis
     author: shindol
@@ -96,4 +96,11 @@ works:
     date: '2026-09-28'
     code: 684587
     url: /works/684587/
+  - title: Common Sense Overturned!? The Girl Who Gets Fucked
+    author: honshiro-nikori
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/689137.jpg
+    rating: 0.0
+    date: '2026-11-08'
+    code: 689137
+    url: /works/689137/
 ---

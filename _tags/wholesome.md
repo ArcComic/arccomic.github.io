@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "wholesome"
-work_count: 227
+work_count: 231
 works:
   - title: FLUFFY LAUGH GIRL
     author: shibasaki-syouzi
@@ -448,6 +448,14 @@ works:
     date: '2026-10-21'
     code: 545225
     url: /works/545225/
+  - title: Ritouseikatsu no Osewa Gakari ~Downer JK Nanami-chan Hen~ | Remote Island
+      Sex Life Caretaker ~Downer High School Girl Nanami-chan~
+    author: mitsuki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/546898.jpg
+    rating: 0.0
+    date: '2026-11-08'
+    code: 546898
+    url: /works/546898/
   - title: Ore wa Yome ni Sakaraenai... Seiheki o Nigirareteiru | I Can't Say No To
       My Wife... She's Got Me By The Balls!
     author: inu
@@ -769,6 +777,14 @@ works:
     date: '2026-09-04'
     code: 625933
     url: /works/625933/
+  - title: Sentou no Onee-san to Majiwaru, 4-kakan no Natsu | Four Days of Summer With
+      The Bathhouse Lady
+    author: yuzuha
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/627409.jpg
+    rating: 4.8
+    date: '2026-11-08'
+    code: 627409
+    url: /works/627409/
   - title: Succubus Seitokai Shiko Shiko Shikkoubu 3 | Succubus Student Council Milking
       Club 3
     author: michiking
@@ -784,6 +800,15 @@ works:
     date: '2026-10-11'
     code: 630105
     url: /works/630105/
+  - title: '"Tokutai" Sei ni Natta node, Shouwaru Gal o Shimei Shimasu! -Itsumo Tsukue
+      ni Ketsu o Nosetekuru Umezu-san- | Now That I’m a ''Special Treatment'' Student,
+      I’ll Choose the Ill-natured Gyaru! -Umezu-san, Who Always Puts Her Ass on My Desk-'
+    author: mitsuki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/630135.jpg
+    rating: 0.0
+    date: '2026-11-08'
+    code: 630135
+    url: /works/630135/
   - title: Boku no Toshiue no Tomodachi | My Older Friend
     author: buta
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/631036.jpg
@@ -1701,4 +1726,11 @@ works:
     date: '2026-10-26'
     code: 690570
     url: /works/690570/
+  - title: Ano Toki no Sekinin Totte...Nii-san / Do you remember our secret game, Onii-chan?
+    author: dochashiko
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694921.jpg
+    rating: 0.0
+    date: '2026-11-08'
+    code: 694921
+    url: /works/694921/
 ---

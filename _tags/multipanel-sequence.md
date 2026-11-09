@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "multipanel sequence"
-work_count: 29
+work_count: 32
 works:
   - title: Nibun no Yuudou | Half Seduction
     author: chicke-iii
@@ -63,6 +63,14 @@ works:
     date: '2026-07-11'
     code: 538553
     url: /works/538553/
+  - title: Ritouseikatsu no Osewa Gakari ~Downer JK Nanami-chan Hen~ | Remote Island
+      Sex Life Caretaker ~Downer High School Girl Nanami-chan~
+    author: mitsuki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/546898.jpg
+    rating: 0.0
+    date: '2026-11-08'
+    code: 546898
+    url: /works/546898/
   - title: My AR glasses can see various stats about my foster sister?!
     author: pz-x
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/589010.jpg
@@ -87,6 +95,14 @@ works:
     date: '2026-09-18'
     code: 608519
     url: /works/608519/
+  - title: Sentou no Onee-san to Majiwaru, 4-kakan no Natsu | Four Days of Summer With
+      The Bathhouse Lady
+    author: yuzuha
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/627409.jpg
+    rating: 4.8
+    date: '2026-11-08'
+    code: 627409
+    url: /works/627409/
   - title: 'Taihai Tsuma: Taihaikei Hitotsuma o Yachin Kawari ni Koki Tsukaeru Hanashi
       | Slutty Wife!'
     author: kametaro
@@ -95,6 +111,15 @@ works:
     date: '2026-04-30'
     code: 629368
     url: /works/629368/
+  - title: '"Tokutai" Sei ni Natta node, Shouwaru Gal o Shimei Shimasu! -Itsumo Tsukue
+      ni Ketsu o Nosetekuru Umezu-san- | Now That I’m a ''Special Treatment'' Student,
+      I’ll Choose the Ill-natured Gyaru! -Umezu-san, Who Always Puts Her Ass on My Desk-'
+    author: mitsuki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/630135.jpg
+    rating: 0.0
+    date: '2026-11-08'
+    code: 630135
+    url: /works/630135/
   - title: Imouto Haramasenai to Derarenai Shima 2
     author: airandou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/643375.jpg

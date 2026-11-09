@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "humiliation"
-work_count: 54
+work_count: 55
 works:
   - title: Doushia (Terasu MC)] Dorei Gazoku
     author: terasu-mc
@@ -402,4 +402,11 @@ works:
     date: '2026-10-26'
     code: 690849
     url: /works/690849/
+  - title: The 211cm Jirai-kei Girl Who Won't Let Go of Me 4
+    author: kinntarou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694925.jpg
+    rating: 0.0
+    date: '2026-11-08'
+    code: 694925
+    url: /works/694925/
 ---

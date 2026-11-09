@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "defloration"
-work_count: 279
+work_count: 283
 works:
   - title: Imitation Family + Bigibo Hen
     author: tohzai
@@ -73,6 +73,13 @@ works:
     date: '2026-10-17'
     code: 299071
     url: /works/299071/
+  - title: Oshiete Sensei! | Teach Me, Sensei
+    author: kinomoto-anzu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/302021.jpg
+    rating: 0.0
+    date: '2026-11-08'
+    code: 302021
+    url: /works/302021/
   - title: The Girl That Got Stuck in the Wall Ch.11/11
     author: gaehoju
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/304474.jpg
@@ -581,6 +588,14 @@ works:
     date: '2026-09-11'
     code: 545896
     url: /works/545896/
+  - title: Ritouseikatsu no Osewa Gakari ~Downer JK Nanami-chan Hen~ | Remote Island
+      Sex Life Caretaker ~Downer High School Girl Nanami-chan~
+    author: mitsuki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/546898.jpg
+    rating: 0.0
+    date: '2026-11-08'
+    code: 546898
+    url: /works/546898/
   - title: Atashi ga Nuite Ageyo kka?
     author: malcorond
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/547250.jpg
@@ -2068,4 +2083,18 @@ works:
     date: '2026-10-28'
     code: 691660
     url: /works/691660/
+  - title: Ano Toki no Sekinin Totte...Nii-san / Do you remember our secret game, Onii-chan?
+    author: dochashiko
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694921.jpg
+    rating: 0.0
+    date: '2026-11-08'
+    code: 694921
+    url: /works/694921/
+  - title: Zutto Issho ni Iyou ne | Let's Be Together Forever Ok?
+    author: oosawa-ofuda-ohuda
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694922.jpg
+    rating: 0.0
+    date: '2026-11-08'
+    code: 694922
+    url: /works/694922/
 ---

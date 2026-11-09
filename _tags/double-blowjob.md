@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "double blowjob"
-work_count: 7
+work_count: 8
 works:
   - title: Nakayoku no Yu e Youkoso Ch. 2 & 3
     author: enomoto-heights
@@ -47,6 +47,13 @@ works:
     date: '2026-07-15'
     code: 664188
     url: /works/664188/
+  - title: Common Sense Overturned!? The Girl Who Gets Fucked
+    author: honshiro-nikori
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/689137.jpg
+    rating: 0.0
+    date: '2026-11-08'
+    code: 689137
+    url: /works/689137/
   - title: FUCK MATCH ~Haiboku! Takane no Manko~
     author: nakajima-uota
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691651.jpg

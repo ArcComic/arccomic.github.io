@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "gudao"
-work_count: 6
+work_count: 7
 works:
+  - title: PERSONAL TRAINING
+    author: mitsuki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/208284.jpg
+    rating: 0.0
+    date: '2026-11-08'
+    code: 208284
+    url: /works/208284/
   - title: Midara Midareru Hime Jijou | The Dirty And Confused Girl's Circumstances
     author: nekomata-naomi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/373952.jpg

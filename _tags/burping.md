@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "burping"
-work_count: 5
+work_count: 6
 works:
   - title: Uwa, Mesugaki Tsuyoi! | Crap, This Mesugaki's Too Powerful!
     author: poncocchan
@@ -41,4 +41,12 @@ works:
     date: '2026-10-13'
     code: 687079
     url: /works/687079/
+  - title: Deriheru yondara wakareta kanojo no mama ga kita | My Escort Was My Ex's
+      Mom
+    author: hotate-chan
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694850.jpg
+    rating: 0.0
+    date: '2026-11-08'
+    code: 694850
+    url: /works/694850/
 ---

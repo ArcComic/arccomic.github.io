@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "twintails"
-work_count: 149
+work_count: 153
 works:
   - title: Sensei wa Shougakusei ga Suki | Sensei Loves Elementary Schoolers
     author: fuyuno-mikan
@@ -17,6 +17,13 @@ works:
     date: '2026-10-09'
     code: 297834
     url: /works/297834/
+  - title: Oshiete Sensei! | Teach Me, Sensei
+    author: kinomoto-anzu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/302021.jpg
+    rating: 0.0
+    date: '2026-11-08'
+    code: 302021
+    url: /works/302021/
   - title: Swapping Party!?
     author: ame-arare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/318530.jpg
@@ -1080,6 +1087,13 @@ works:
     date: '2026-10-21'
     code: 688547
     url: /works/688547/
+  - title: Common Sense Overturned!? The Girl Who Gets Fucked
+    author: honshiro-nikori
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/689137.jpg
+    rating: 0.0
+    date: '2026-11-08'
+    code: 689137
+    url: /works/689137/
   - title: Souma Kurumi no Yuugi -Yukemuri Ryojou Hen (3)- | Kurumi Souma's Lewd Game
       ~Hot Spring Travel Stories (3)~
     author: mizuryu-kei
@@ -1102,4 +1116,18 @@ works:
     date: '2026-10-28'
     code: 691671
     url: /works/691671/
+  - title: Making a Harem of the Three Bitchy Gal Sisters - All Chapters + Bonus
+    author: zonda
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694670.jpg
+    rating: 0.0
+    date: '2026-11-08'
+    code: 694670
+    url: /works/694670/
+  - title: The 211cm Jirai-kei Girl Who Won't Let Go of Me 4
+    author: kinntarou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694925.jpg
+    rating: 0.0
+    date: '2026-11-08'
+    code: 694925
+    url: /works/694925/
 ---

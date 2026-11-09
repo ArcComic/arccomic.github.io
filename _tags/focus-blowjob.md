@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "focus blowjob"
-work_count: 9
+work_count: 10
 works:
   - title: Toilet no Jimiko-san
     author: darezuka
@@ -69,4 +69,11 @@ works:
     date: '2026-09-17'
     code: 681699
     url: /works/681699/
+  - title: Making a Harem of the Three Bitchy Gal Sisters - All Chapters + Bonus
+    author: zonda
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694670.jpg
+    rating: 0.0
+    date: '2026-11-08'
+    code: 694670
+    url: /works/694670/
 ---

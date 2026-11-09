@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "lactation"
-work_count: 46
+work_count: 47
 works:
   - title: Mama Naranai Onna-tachi Ch. 1-2
     author: otochichi
@@ -24,6 +24,13 @@ works:
     date: '2026-10-10'
     code: 355274
     url: /works/355274/
+  - title: Fukinshin Soukan no Onna | Non Incest Woman Chapter 1
+    author: nagashima-chosuke
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/377597.jpg
+    rating: 0.0
+    date: '2026-11-08'
+    code: 377597
+    url: /works/377597/
   - title: NTR Nindou | The NTR Ninja Way
     author: tokie-hirohito
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/402019.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "age progression"
-work_count: 6
+work_count: 7
 works:
   - title: Risato
     author: unknown
@@ -50,4 +50,11 @@ works:
     date: '2026-10-13'
     code: 687086
     url: /works/687086/
+  - title: Ano Toki no Sekinin Totte...Nii-san / Do you remember our secret game, Onii-chan?
+    author: dochashiko
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694921.jpg
+    rating: 0.0
+    date: '2026-11-08'
+    code: 694921
+    url: /works/694921/
 ---

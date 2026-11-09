@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "harem"
-work_count: 48
+work_count: 50
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -334,6 +334,13 @@ works:
     date: '2026-10-13'
     code: 687235
     url: /works/687235/
+  - title: Common Sense Overturned!? The Girl Who Gets Fucked
+    author: honshiro-nikori
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/689137.jpg
+    rating: 0.0
+    date: '2026-11-08'
+    code: 689137
+    url: /works/689137/
   - title: Ero Situ Jidou Seisei Appli de Juujitsu no Ero SuppoLife | Enhance your erotic
       life with an app that auto-generates erotic scenarios.
     author: mangetsu-wasabi
@@ -349,6 +356,13 @@ works:
     date: '2026-10-28'
     code: 691661
     url: /works/691661/
+  - title: Making a Harem of the Three Bitchy Gal Sisters - All Chapters + Bonus
+    author: zonda
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694670.jpg
+    rating: 0.0
+    date: '2026-11-08'
+    code: 694670
+    url: /works/694670/
   - title: Jokyoushi - Hot For Teachers | Female Teachers
     author: drill-murata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/81375.jpg

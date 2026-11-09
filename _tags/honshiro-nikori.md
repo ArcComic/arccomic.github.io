@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "honshiro nikori"
-work_count: 2
+work_count: 4
 works:
   - title: Ura Aka Joshi no Jidori Ero Gosoushin | A Girl with a Secret-Account Accidentally
       Sends a Lewd Selfie
@@ -19,4 +19,13 @@ works:
     date: '2026-05-07'
     code: 648358
     url: /works/648358/
+  - &id001
+    title: Common Sense Overturned!? The Girl Who Gets Fucked
+    author: honshiro-nikori
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/689137.jpg
+    rating: 0.0
+    date: '2026-11-08'
+    code: 689137
+    url: /works/689137/
+  - *id001
 ---

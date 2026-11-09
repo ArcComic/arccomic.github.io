@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "mind control"
-work_count: 75
+work_count: 76
 works:
   - title: Ayami Hypno
     author: yasuhiro
@@ -172,6 +172,13 @@ works:
     date: '2026-05-20'
     code: 600237
     url: /works/600237/
+  - title: Saimin Mama, Warugaki Musuko to Issho!
+    author: katano-chika
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/606648.jpg
+    rating: 0.0
+    date: '2026-11-08'
+    code: 606648
+    url: /works/606648/
   - title: Oikko no Girlfriend o Wakaraseta Ken_关于外甥女朋友的教育方法_ 1-4
     author: nanao-yukiji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/620889.jpg

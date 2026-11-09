@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "facesitting"
-work_count: 30
+work_count: 33
 works:
   - title: Yuri no o saifu ni shite agemasu ne, Senpai | I'll turn you into Yuri's wallet,
       Senpai
@@ -11,6 +11,13 @@ works:
     date: '2026-07-17'
     code: 289523
     url: /works/289523/
+  - title: Oshiete Sensei! | Teach Me, Sensei
+    author: kinomoto-anzu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/302021.jpg
+    rating: 0.0
+    date: '2026-11-08'
+    code: 302021
+    url: /works/302021/
   - title: Akarui Kazoku Seikatsu
     author: pistonring-nishizawa
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/304307.jpg
@@ -32,6 +39,13 @@ works:
     date: '2026-10-12'
     code: 317265
     url: /works/317265/
+  - title: Let's Study!
+    author: napo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/358620.jpg
+    rating: 0.0
+    date: '2026-11-08'
+    code: 358620
+    url: /works/358620/
   - title: Kanojo to no Kekkon Houkoku ni Kiseishita noni Gimai to Yarimakuri no Suujitsukan
       ga Hajimatteshimatta | I visited my in-laws to announce my marriage and ended
       up fucking my girlfriend's little sister silly!
@@ -228,4 +242,11 @@ works:
     date: '2026-10-26'
     code: 690875
     url: /works/690875/
+  - title: Making a Harem of the Three Bitchy Gal Sisters - All Chapters + Bonus
+    author: zonda
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694670.jpg
+    rating: 0.0
+    date: '2026-11-08'
+    code: 694670
+    url: /works/694670/
 ---

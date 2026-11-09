@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "compilation"
-work_count: 25
+work_count: 26
 works:
   - title: Watashito Iikoto Shiyo? | Will You Have Sex With Me?
     author: asagi-ryu-amano-miki
@@ -26,6 +26,13 @@ works:
     date: '2026-04-27'
     code: 416883
     url: /works/416883/
+  - title: Mama ni Seishi Ippai Choudai, Zenpen-Chuuhen
+    author: yamamoto-yoshifumi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/429195.jpg
+    rating: 0.0
+    date: '2026-11-08'
+    code: 429195
+    url: /works/429195/
   - title: Mother's Scent 1-4
     author: midnight
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/532417.jpg

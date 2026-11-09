@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "cosplaying"
-work_count: 30
+work_count: 31
 works:
   - title: My Sugar Mama! 1-3
     author: azukiko
@@ -227,4 +227,11 @@ works:
     date: '2026-10-18'
     code: 688480
     url: /works/688480/
+  - title: Making a Harem of the Three Bitchy Gal Sisters - All Chapters + Bonus
+    author: zonda
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694670.jpg
+    rating: 0.0
+    date: '2026-11-08'
+    code: 694670
+    url: /works/694670/
 ---

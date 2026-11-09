@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "glasses"
-work_count: 320
+work_count: 322
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -509,6 +509,14 @@ works:
     date: '2026-05-03'
     code: 498051
     url: /works/498051/
+  - title: Mama to Musuko ga Mujintou de Love Love Sex suru Hanashi |  A Story of a
+      Mom and Her Son's Lovemaking on a Uninhabited Island
+    author: katano-chika
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/501315.jpg
+    rating: 0.0
+    date: '2026-11-08'
+    code: 501315
+    url: /works/501315/
   - title: Kioku Soushitsu NTR - Kareshi no Shinyuu ni Hamerare Tsuzuketa 10-kakan -
     author: wes-heartland-smith
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/502563.jpg
@@ -873,6 +881,13 @@ works:
     date: '2026-10-11'
     code: 603141
     url: /works/603141/
+  - title: Saimin Mama, Warugaki Musuko to Issho!
+    author: katano-chika
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/606648.jpg
+    rating: 0.0
+    date: '2026-11-08'
+    code: 606648
+    url: /works/606648/
   - title: Kouhai Otaku Tomodachi JK ga Kawai Sugirumon de!
     author: niji-teru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/606719.jpg

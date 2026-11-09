@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "exposed clothing"
-work_count: 24
+work_count: 26
 works:
   - title: Yofukashi no Tsuma ~Murakami Kozue~ | Late-Night Wife ~Murakami Kozue~
     author: oobayashi-mori
@@ -17,6 +17,14 @@ works:
     date: '2026-07-17'
     code: 477784
     url: /works/477784/
+  - title: Ritouseikatsu no Osewa Gakari ~Downer JK Nanami-chan Hen~ | Remote Island
+      Sex Life Caretaker ~Downer High School Girl Nanami-chan~
+    author: mitsuki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/546898.jpg
+    rating: 0.0
+    date: '2026-11-08'
+    code: 546898
+    url: /works/546898/
   - title: Ojou-sama Sodachi no Namaiki Celeb Zuma o Kitanai Ossan Chinpo de Wakaraseru
       | Cocky Rich Bitch Glam-Wife Gets Taught A Lesson With Dirty Old Man Dick
     author: chinpan
@@ -179,4 +187,11 @@ works:
     date: '2026-10-18'
     code: 688585
     url: /works/688585/
+  - title: Common Sense Overturned!? The Girl Who Gets Fucked
+    author: honshiro-nikori
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/689137.jpg
+    rating: 0.0
+    date: '2026-11-08'
+    code: 689137
+    url: /works/689137/
 ---

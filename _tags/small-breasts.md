@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "small breasts"
-work_count: 58
+work_count: 60
 works:
   - title: FLUFFY LAUGH GIRL
     author: shibasaki-syouzi
@@ -421,6 +421,13 @@ works:
     date: '2026-10-17'
     code: 688259
     url: /works/688259/
+  - title: Common Sense Overturned!? The Girl Who Gets Fucked
+    author: honshiro-nikori
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/689137.jpg
+    rating: 0.0
+    date: '2026-11-08'
+    code: 689137
+    url: /works/689137/
   - title: Sperm-Squeezing Clinic Staffed with Total Cumsluts!
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691661.jpg
@@ -428,4 +435,11 @@ works:
     date: '2026-10-28'
     code: 691661
     url: /works/691661/
+  - title: Ano Toki no Sekinin Totte...Nii-san / Do you remember our secret game, Onii-chan?
+    author: dochashiko
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694921.jpg
+    rating: 0.0
+    date: '2026-11-08'
+    code: 694921
+    url: /works/694921/
 ---

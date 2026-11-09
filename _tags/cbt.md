@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "cbt"
-work_count: 8
+work_count: 9
 works:
   - title: Yuri no o saifu ni shite agemasu ne, Senpai | I'll turn you into Yuri's wallet,
       Senpai
@@ -61,4 +61,11 @@ works:
     date: '2026-10-10'
     code: 686422
     url: /works/686422/
+  - title: The 211cm Jirai-kei Girl Who Won't Let Go of Me 4
+    author: kinntarou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694925.jpg
+    rating: 0.0
+    date: '2026-11-08'
+    code: 694925
+    url: /works/694925/
 ---

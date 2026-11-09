@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "moral degeneration"
-work_count: 46
+work_count: 47
 works:
   - title: Kanojo no SmaPho o Nozoita dake nano ni | I Just Snooped through Her Smartphone
     author: chocoro
@@ -350,4 +350,11 @@ works:
     date: '2026-10-18'
     code: 688585
     url: /works/688585/
+  - title: Common Sense Overturned!? The Girl Who Gets Fucked
+    author: honshiro-nikori
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/689137.jpg
+    rating: 0.0
+    date: '2026-11-08'
+    code: 689137
+    url: /works/689137/
 ---

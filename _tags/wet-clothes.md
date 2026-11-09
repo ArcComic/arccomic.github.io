@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "wet clothes"
-work_count: 7
+work_count: 8
 works:
   - title: Ame no Hi wa, Honnori Chikubi
     author: hoshi-to-lucky
@@ -17,6 +17,14 @@ works:
     date: '2026-09-12'
     code: 524436
     url: /works/524436/
+  - title: Sentou no Onee-san to Majiwaru, 4-kakan no Natsu | Four Days of Summer With
+      The Bathhouse Lady
+    author: yuzuha
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/627409.jpg
+    rating: 4.8
+    date: '2026-11-08'
+    code: 627409
+    url: /works/627409/
   - title: Amanatsu - Sweet Rainy Girly Summer
     author: sugaishi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/647740.jpg
