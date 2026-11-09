@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "femdom"
-work_count: 221
+work_count: 222
 works:
   - title: Life with Married Women Just Like a Manga 2 - Ch. 1-5
     author: hidemaru
@@ -1613,6 +1613,16 @@ works:
     date: '2026-11-08'
     code: 694925
     url: /works/694925/
+  - title: Itsumo Miken ni Shiwa o Yosete Iru Seikaku no Kitsui Babaa Senpai (29) wa
+      You to Dosukebe Chijo ni Naru | My 29-year-old senpai at work is a sharp-tongued
+      hag who’s always scowling but she turns into a super perverted nmypho when she
+      gets drunk
+    author: shamidou-maichimonji
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695225.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 695225
+    url: /works/695225/
   - title: Jokyoushi - Hot For Teachers | Female Teachers
     author: drill-murata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/81375.jpg

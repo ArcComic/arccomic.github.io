@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "kissing"
-work_count: 481
+work_count: 483
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -2053,6 +2053,13 @@ works:
     date: '2026-10-21'
     code: 653080
     url: /works/653080/
+  - title: Make Love Rank match!!
+    author: napo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/653119.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 653119
+    url: /works/653119/
   - title: Majime na Kimi ni Hamaru Karada
     author: alp
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654010.jpg
@@ -3594,6 +3601,16 @@ works:
     date: '2026-11-09'
     code: 694973
     url: /works/694973/
+  - title: Itsumo Miken ni Shiwa o Yosete Iru Seikaku no Kitsui Babaa Senpai (29) wa
+      You to Dosukebe Chijo ni Naru | My 29-year-old senpai at work is a sharp-tongued
+      hag who’s always scowling but she turns into a super perverted nmypho when she
+      gets drunk
+    author: shamidou-maichimonji
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695225.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 695225
+    url: /works/695225/
   - title: Hahaoya to Sex shita Kibun wa Dou? Sono 2 | How Does it Feel to have Sex
       with your Mom? Part 2
     author: temperature

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "corruption"
-work_count: 24
+work_count: 25
 works:
   - title: 'Jujutsu Kaisen: Mahito Mayhem'
     author: mayitgu
@@ -17,6 +17,13 @@ works:
     date: '2026-05-07'
     code: 536423
     url: /works/536423/
+  - title: Hyoui de Gravure Idol o Ore no Mono ni Someageru Hanashi | Gravure Idol Possession
+    author: comichi-pota
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/579368.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 579368
+    url: /works/579368/
   - title: Metamorphosis
     author: shindol
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/616358.jpg

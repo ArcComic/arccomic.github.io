@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "paizuri"
-work_count: 288
+work_count: 289
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -2158,4 +2158,14 @@ works:
     date: '2026-11-09'
     code: 694974
     url: /works/694974/
+  - title: Itsumo Miken ni Shiwa o Yosete Iru Seikaku no Kitsui Babaa Senpai (29) wa
+      You to Dosukebe Chijo ni Naru | My 29-year-old senpai at work is a sharp-tongued
+      hag who’s always scowling but she turns into a super perverted nmypho when she
+      gets drunk
+    author: shamidou-maichimonji
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695225.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 695225
+    url: /works/695225/
 ---

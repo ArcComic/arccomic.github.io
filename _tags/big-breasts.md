@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big breasts"
-work_count: 1373
+work_count: 1376
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -2687,6 +2687,13 @@ works:
     date: '2026-09-22'
     code: 579290
     url: /works/579290/
+  - title: Hyoui de Gravure Idol o Ore no Mono ni Someageru Hanashi | Gravure Idol Possession
+    author: comichi-pota
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/579368.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 579368
+    url: /works/579368/
   - title: Kugisaki Anal Otoshi
     author: ishigaki-takashi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/579976.jpg
@@ -5439,6 +5446,13 @@ works:
     date: '2026-11-09'
     code: 653113
     url: /works/653113/
+  - title: Make Love Rank match!!
+    author: napo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/653119.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 653119
+    url: /works/653119/
   - title: Namaiki Gal o Succubus ni Shite Oshioki Shitatta Ken 4 | Bewitched Reckoning
       How I Turned My Bully Into a Succubus 4
     author: takurowo
@@ -10142,6 +10156,16 @@ works:
     date: '2026-11-09'
     code: 694974
     url: /works/694974/
+  - title: Itsumo Miken ni Shiwa o Yosete Iru Seikaku no Kitsui Babaa Senpai (29) wa
+      You to Dosukebe Chijo ni Naru | My 29-year-old senpai at work is a sharp-tongued
+      hag who’s always scowling but she turns into a super perverted nmypho when she
+      gets drunk
+    author: shamidou-maichimonji
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695225.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 695225
+    url: /works/695225/
   - title: Ganmen ga Sukisugiru Ishiwatari-san ga Konna ni Oni Seiyokuda nante Shiritaku
       wa Nakatta
     author: kozakura-kumaneko

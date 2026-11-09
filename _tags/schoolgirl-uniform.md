@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "schoolgirl uniform"
-work_count: 418
+work_count: 419
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -1719,6 +1719,13 @@ works:
     date: '2026-05-27'
     code: 652790
     url: /works/652790/
+  - title: Make Love Rank match!!
+    author: napo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/653119.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 653119
+    url: /works/653119/
   - title: Kimi Omou Koi - I think of you.
     author: gentsuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/653792.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "lingerie"
-work_count: 121
+work_count: 122
 works:
   - title: My Care Lady Ch. 1
     author: sugi-g
@@ -310,6 +310,13 @@ works:
     date: '2026-05-05'
     code: 578147
     url: /works/578147/
+  - title: Hyoui de Gravure Idol o Ore no Mono ni Someageru Hanashi | Gravure Idol Possession
+    author: comichi-pota
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/579368.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 579368
+    url: /works/579368/
   - title: Chorozako Kanojo no Aina-chan -Mucchiri Gal to Ichalove H suru Hanashi-
     author: tokyo-gunjo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/580427.jpg

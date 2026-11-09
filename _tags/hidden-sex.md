@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "hidden sex"
-work_count: 115
+work_count: 116
 works:
   - title: Tsutomesaki no Musume-san o Oishiku Itadaku Hon Minshuku Hen
     author: aya
@@ -544,6 +544,13 @@ works:
     date: '2026-05-27'
     code: 652790
     url: /works/652790/
+  - title: Make Love Rank match!!
+    author: napo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/653119.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 653119
+    url: /works/653119/
   - title: Until I Take Everything From You 5
     author: takotokite
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654260.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "schoolboy uniform"
-work_count: 129
+work_count: 130
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -533,6 +533,13 @@ works:
     date: '2026-05-26'
     code: 652244
     url: /works/652244/
+  - title: Make Love Rank match!!
+    author: napo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/653119.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 653119
+    url: /works/653119/
   - title: Kimi Omou Koi - I think of you.
     author: gentsuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/653792.jpg
