@@ -70,7 +70,7 @@ works:
   - title: Oshiete Sensei! | Teach Me, Sensei
     author: kinomoto-anzu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/302021.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-11-08'
     code: 302021
     url: /works/302021/
@@ -148,7 +148,7 @@ works:
   - title: Let's Study!
     author: napo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/358620.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-11-08'
     code: 358620
     url: /works/358620/
@@ -214,7 +214,7 @@ works:
       Light=
     author: nakamura-regura
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/397141.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-11-08'
     code: 397141
     url: /works/397141/
@@ -1527,7 +1527,7 @@ works:
   - title: Common Sense Overturned!? The Girl Who Gets Fucked
     author: honshiro-nikori
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/689137.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-11-08'
     code: 689137
     url: /works/689137/
@@ -1580,14 +1580,14 @@ works:
   - title: Making a Harem of the Three Bitchy Gal Sisters - All Chapters + Bonus
     author: zonda
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694670.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-11-08'
     code: 694670
     url: /works/694670/
   - title: The 211cm Jirai-kei Girl Who Won't Let Go of Me 4
     author: kinntarou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694925.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-11-08'
     code: 694925
     url: /works/694925/

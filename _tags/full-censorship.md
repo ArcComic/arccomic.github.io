@@ -446,7 +446,7 @@ works:
   - title: Kaientojou
     author: fushoku
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/525330.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-11-09'
     code: 525330
     url: /works/525330/
@@ -670,7 +670,7 @@ works:
   - title: Make Love Rank match!!②
     author: napo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/653113.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-09'
     code: 653113
     url: /works/653113/
@@ -1057,35 +1057,35 @@ works:
   - title: Even the chairman wants to do it, you know
     author: signo-mandara
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/693913.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-11-09'
     code: 693913
     url: /works/693913/
   - title: I'll make fun of your feelings too! - Share your feelings!
     author: signo-mandara
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/693914.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-11-08'
     code: 693914
     url: /works/693914/
   - title: The Fable Of The Short King And His GF With Huge Tits
     author: enishi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694668.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-11-08'
     code: 694668
     url: /works/694668/
   - title: Momota-san Next Door
     author: hogeramu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694863.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-11-09'
     code: 694863
     url: /works/694863/
   - title: Only♀♂Mum
     author: sakai-hamachi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694889.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-11-09'
     code: 694889
     url: /works/694889/

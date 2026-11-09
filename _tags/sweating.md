@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sweating"
-work_count: 211
+work_count: 212
 works:
   - title: Kaisha de Iroiro | Gettin' Busy at the Office
     author: hara-shigeyuki
@@ -216,7 +216,7 @@ works:
       Light=
     author: nakamura-regura
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/397141.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-11-08'
     code: 397141
     url: /works/397141/
@@ -1567,14 +1567,23 @@ works:
       Mom
     author: hotate-chan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694850.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-11-08'
     code: 694850
     url: /works/694850/
+  - title: Mou Hitozuma Nanoni Moto Doukyuusei 3-nin kara Kyousei Kongan Sex Saserareru
+      | Even though Niina-chan’s a married woman… she gets forced by three former classmates
+      into revenge sex
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694885.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 694885
+    url: /works/694885/
   - title: I Am Just Your Sex Tool
     author: hisasi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694972.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-11-09'
     code: 694972
     url: /works/694972/

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "breast feeding"
-work_count: 120
+work_count: 119
 works:
   - title: Oppai na Natsuyasumi 2 | The Summer Break of Boobs 2
     author: higashino-mikan
@@ -21,7 +21,7 @@ works:
       Light=
     author: nakamura-regura
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/397141.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-11-08'
     code: 397141
     url: /works/397141/
@@ -52,7 +52,7 @@ works:
       Milks Me Dry
     author: arisu-kazumi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/438340.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-11-09'
     code: 438340
     url: /works/438340/
@@ -827,7 +827,7 @@ works:
   - title: Common Sense Overturned!? The Girl Who Gets Fucked
     author: honshiro-nikori
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/689137.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-11-08'
     code: 689137
     url: /works/689137/
@@ -870,7 +870,7 @@ works:
   - title: Making a Harem of the Three Bitchy Gal Sisters - All Chapters + Bonus
     author: zonda
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694670.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-11-08'
     code: 694670
     url: /works/694670/
@@ -878,7 +878,7 @@ works:
       Mom
     author: hotate-chan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694850.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-11-08'
     code: 694850
     url: /works/694850/
@@ -886,28 +886,21 @@ works:
       an art cram school where the instructor herself volunteers to be a nude model
     author: kekemotsu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694888.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-09'
     code: 694888
     url: /works/694888/
-  - title: The 211cm Jirai-kei Girl Who Won't Let Go of Me 4
-    author: kinntarou
-    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694925.jpg
-    rating: 0.0
-    date: '2026-11-08'
-    code: 694925
-    url: /works/694925/
   - title: I Am Just Your Sex Tool
     author: hisasi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694972.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-11-09'
     code: 694972
     url: /works/694972/
   - title: Don't Make a Sound
     author: sunaba-suzume
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694973.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-11-09'
     code: 694973
     url: /works/694973/

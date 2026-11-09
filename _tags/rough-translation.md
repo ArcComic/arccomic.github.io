@@ -2067,7 +2067,7 @@ works:
   - title: Make Love Rank match!!②
     author: napo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/653113.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-09'
     code: 653113
     url: /works/653113/
@@ -5540,7 +5540,7 @@ works:
   - title: Common Sense Overturned!? The Girl Who Gets Fucked
     author: honshiro-nikori
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/689137.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-11-08'
     code: 689137
     url: /works/689137/
@@ -5713,14 +5713,14 @@ works:
   - title: Even the chairman wants to do it, you know
     author: signo-mandara
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/693913.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-11-09'
     code: 693913
     url: /works/693913/
   - title: I'll make fun of your feelings too! - Share your feelings!
     author: signo-mandara
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/693914.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-11-08'
     code: 693914
     url: /works/693914/
@@ -5728,49 +5728,49 @@ works:
       matters 2
     author: signo-mandara
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/693920.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-11-09'
     code: 693920
     url: /works/693920/
   - title: The Fable Of The Short King And His GF With Huge Tits
     author: enishi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694668.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-11-08'
     code: 694668
     url: /works/694668/
   - title: Momota-san Next Door
     author: hogeramu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694863.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-11-09'
     code: 694863
     url: /works/694863/
   - title: Only♀♂Mum
     author: sakai-hamachi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694889.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-11-09'
     code: 694889
     url: /works/694889/
   - title: A Frustrated Housewife Can't Resist Her Exhibitionist Impulses
     author: comichi-pota
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694971.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-11-09'
     code: 694971
     url: /works/694971/
   - title: I Am Just Your Sex Tool
     author: hisasi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694972.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-11-09'
     code: 694972
     url: /works/694972/
   - title: Don't Make a Sound
     author: sunaba-suzume
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694973.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-11-09'
     code: 694973
     url: /works/694973/

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "cunnilingus"
-work_count: 220
+work_count: 219
 works:
   - title: Love Approach
     author: hanafuda-sakurano
@@ -55,7 +55,7 @@ works:
   - title: Oshiete Sensei! | Teach Me, Sensei
     author: kinomoto-anzu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/302021.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-11-08'
     code: 302021
     url: /works/302021/
@@ -192,7 +192,7 @@ works:
   - title: Mama ni Seishi Ippai Choudai, Zenpen-Chuuhen
     author: yamamoto-yoshifumi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/429195.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-08'
     code: 429195
     url: /works/429195/
@@ -1544,7 +1544,7 @@ works:
   - title: Common Sense Overturned!? The Girl Who Gets Fucked
     author: honshiro-nikori
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/689137.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-11-08'
     code: 689137
     url: /works/689137/
@@ -1603,29 +1603,22 @@ works:
   - title: Making a Harem of the Three Bitchy Gal Sisters - All Chapters + Bonus
     author: zonda
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694670.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-11-08'
     code: 694670
     url: /works/694670/
   - title: Momota-san Next Door
     author: hogeramu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694863.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-11-09'
     code: 694863
     url: /works/694863/
-  - title: The 211cm Jirai-kei Girl Who Won't Let Go of Me 4
-    author: kinntarou
-    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694925.jpg
-    rating: 0.0
-    date: '2026-11-08'
-    code: 694925
-    url: /works/694925/
   - title: Hahaoya to Sex shita Kibun wa Dou? Sono 2 | How Does it Feel to have Sex
       with your Mom? Part 2
     author: temperature
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695285.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-11-09'
     code: 695285
     url: /works/695285/

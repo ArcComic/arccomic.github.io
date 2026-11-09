@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "mosaic censorship"
-work_count: 376
+work_count: 377
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -314,14 +314,14 @@ works:
   - title: Sono Onna Kyoushi Shumi Nozoki
     author: zenmai-kourogi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/426060.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-09'
     code: 426060
     url: /works/426060/
   - title: Mama ni Seishi Ippai Choudai, Zenpen-Chuuhen
     author: yamamoto-yoshifumi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/429195.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-08'
     code: 429195
     url: /works/429195/
@@ -347,6 +347,14 @@ works:
     date: '2026-04-23'
     code: 435832
     url: /works/435832/
+  - title: Dame na Otoko ni Yasashii Elf Manga | A Manga About a Hopeless Man Who Has
+      Sex With a Kind Elf
+    author: kekemotsu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/437581.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 437581
+    url: /works/437581/
   - title: Tomodachi no Mama ga Boku no Dekachin de Ikimakutta Onsen Ryokou | The Hotspring
       Trip Where My Friend's Mother was All Over My Big Dick
     author: rk-2
@@ -534,7 +542,7 @@ works:
       Mom and Her Son's Lovemaking on a Uninhabited Island
     author: katano-chika
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/501315.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-11-08'
     code: 501315
     url: /works/501315/
@@ -1106,7 +1114,7 @@ works:
   - title: Saimin Mama, Warugaki Musuko to Issho!
     author: katano-chika
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/606648.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-11-08'
     code: 606648
     url: /works/606648/
@@ -2722,14 +2730,14 @@ works:
       an art cram school where the instructor herself volunteers to be a nude model
     author: kekemotsu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694888.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-09'
     code: 694888
     url: /works/694888/
   - title: Zutto Issho ni Iyou ne | Let's Be Together Forever Ok?
     author: oosawa-ofuda-ohuda
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694922.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-11-08'
     code: 694922
     url: /works/694922/
@@ -2737,7 +2745,7 @@ works:
       Onee-san? ~The Ecchi Card: Do What You Want!~'
     author: minato-yuu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694940.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-11-09'
     code: 694940
     url: /works/694940/
@@ -2745,21 +2753,21 @@ works:
       Another World
     author: sukoyasu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694947.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-11-09'
     code: 694947
     url: /works/694947/
   - title: A Frustrated Housewife Can't Resist Her Exhibitionist Impulses
     author: comichi-pota
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694971.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-11-09'
     code: 694971
     url: /works/694971/
   - title: Don't Make a Sound
     author: sunaba-suzume
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694973.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-11-09'
     code: 694973
     url: /works/694973/
@@ -2767,7 +2775,7 @@ works:
       with your Mom? Part 2
     author: temperature
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695285.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-11-09'
     code: 695285
     url: /works/695285/

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "crying"
-work_count: 37
+work_count: 36
 works:
   - title: Netorareru.~ Tsuma ga Ochi Yuku Hen'ai Kairaku no Hate ni...1-5 | NETORARERU,
       A Wife's Descent Into Sinful Pleasures 1-5
@@ -264,15 +264,8 @@ works:
   - title: Ano Toki no Sekinin Totte...Nii-san / Do you remember our secret game, Onii-chan?
     author: dochashiko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694921.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-11-08'
     code: 694921
     url: /works/694921/
-  - title: Zutto Issho ni Iyou ne | Let's Be Together Forever Ok?
-    author: oosawa-ofuda-ohuda
-    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694922.jpg
-    rating: 0.0
-    date: '2026-11-08'
-    code: 694922
-    url: /works/694922/
 ---

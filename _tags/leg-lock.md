@@ -98,7 +98,7 @@ works:
       Light=
     author: nakamura-regura
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/397141.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-11-08'
     code: 397141
     url: /works/397141/
@@ -114,14 +114,14 @@ works:
   - title: Sono Onna Kyoushi Shumi Nozoki
     author: zenmai-kourogi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/426060.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-09'
     code: 426060
     url: /works/426060/
   - title: Mama ni Seishi Ippai Choudai, Zenpen-Chuuhen
     author: yamamoto-yoshifumi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/429195.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-08'
     code: 429195
     url: /works/429195/
@@ -136,7 +136,7 @@ works:
       Milks Me Dry
     author: arisu-kazumi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/438340.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-11-09'
     code: 438340
     url: /works/438340/
@@ -440,7 +440,7 @@ works:
       I’ll Choose the Ill-natured Gyaru! -Umezu-san, Who Always Puts Her Ass on My Desk-'
     author: mitsuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/630135.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-11-08'
     code: 630135
     url: /works/630135/
@@ -595,7 +595,7 @@ works:
   - title: Make Love Rank match!!②
     author: napo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/653113.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-09'
     code: 653113
     url: /works/653113/
@@ -900,7 +900,7 @@ works:
   - title: Making a Harem of the Three Bitchy Gal Sisters - All Chapters + Bonus
     author: zonda
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694670.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-11-08'
     code: 694670
     url: /works/694670/
@@ -908,14 +908,14 @@ works:
       Mom
     author: hotate-chan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694850.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-11-08'
     code: 694850
     url: /works/694850/
   - title: Don't Make a Sound
     author: sunaba-suzume
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694973.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-11-09'
     code: 694973
     url: /works/694973/
@@ -923,7 +923,7 @@ works:
       with your Mom? Part 2
     author: temperature
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695285.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-11-09'
     code: 695285
     url: /works/695285/

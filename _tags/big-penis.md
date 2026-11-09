@@ -124,7 +124,7 @@ works:
   - title: Sono Onna Kyoushi Shumi Nozoki
     author: zenmai-kourogi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/426060.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-09'
     code: 426060
     url: /works/426060/
@@ -372,7 +372,7 @@ works:
       Sex Life Caretaker ~Downer High School Girl Nanami-chan~
     author: mitsuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/546898.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-11-08'
     code: 546898
     url: /works/546898/
@@ -673,7 +673,7 @@ works:
       I’ll Choose the Ill-natured Gyaru! -Umezu-san, Who Always Puts Her Ass on My Desk-'
     author: mitsuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/630135.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-11-08'
     code: 630135
     url: /works/630135/
@@ -2197,7 +2197,7 @@ works:
   - title: Common Sense Overturned!? The Girl Who Gets Fucked
     author: honshiro-nikori
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/689137.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-11-08'
     code: 689137
     url: /works/689137/
@@ -2310,7 +2310,7 @@ works:
   - title: Making a Harem of the Three Bitchy Gal Sisters - All Chapters + Bonus
     author: zonda
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694670.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-11-08'
     code: 694670
     url: /works/694670/
@@ -2318,42 +2318,35 @@ works:
       Mom
     author: hotate-chan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694850.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-11-08'
     code: 694850
     url: /works/694850/
   - title: Ano Toki no Sekinin Totte...Nii-san / Do you remember our secret game, Onii-chan?
     author: dochashiko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694921.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-11-08'
     code: 694921
     url: /works/694921/
-  - title: Zutto Issho ni Iyou ne | Let's Be Together Forever Ok?
-    author: oosawa-ofuda-ohuda
-    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694922.jpg
-    rating: 0.0
-    date: '2026-11-08'
-    code: 694922
-    url: /works/694922/
   - title: A Frustrated Housewife Can't Resist Her Exhibitionist Impulses
     author: comichi-pota
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694971.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-11-09'
     code: 694971
     url: /works/694971/
   - title: I Am Just Your Sex Tool
     author: hisasi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694972.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-11-09'
     code: 694972
     url: /works/694972/
   - title: Don't Make a Sound
     author: sunaba-suzume
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694973.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-11-09'
     code: 694973
     url: /works/694973/
@@ -2369,8 +2362,15 @@ works:
       with your Mom? Part 2
     author: temperature
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695285.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-11-09'
     code: 695285
     url: /works/695285/
+  - title: A story about mercenaries ravishing the elven princess
+    author: doku-marimo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695351.jpg
+    rating: 4.6
+    date: '2026-11-09'
+    code: 695351
+    url: /works/695351/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole female"
-work_count: 1187
+work_count: 1189
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -118,7 +118,7 @@ works:
   - title: PERSONAL TRAINING
     author: mitsuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/208284.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-11-08'
     code: 208284
     url: /works/208284/
@@ -338,7 +338,7 @@ works:
   - title: Oshiete Sensei! | Teach Me, Sensei
     author: kinomoto-anzu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/302021.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-11-08'
     code: 302021
     url: /works/302021/
@@ -688,7 +688,7 @@ works:
   - title: Let's Study!
     author: napo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/358620.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-11-08'
     code: 358620
     url: /works/358620/
@@ -982,7 +982,7 @@ works:
       Light=
     author: nakamura-regura
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/397141.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-11-08'
     code: 397141
     url: /works/397141/
@@ -1268,6 +1268,14 @@ works:
     date: '2026-09-23'
     code: 436140
     url: /works/436140/
+  - title: Dame na Otoko ni Yasashii Elf Manga | A Manga About a Hopeless Man Who Has
+      Sex With a Kind Elf
+    author: kekemotsu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/437581.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 437581
+    url: /works/437581/
   - title: Tomodachi no Mama ga Boku no Dekachin de Ikimakutta Onsen Ryokou | The Hotspring
       Trip Where My Friend's Mother was All Over My Big Dick
     author: rk-2
@@ -1280,7 +1288,7 @@ works:
       Milks Me Dry
     author: arisu-kazumi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/438340.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-11-09'
     code: 438340
     url: /works/438340/
@@ -1673,7 +1681,7 @@ works:
   - title: Ero-ero Massage
     author: shin-yu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/485499.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-11-08'
     code: 485499
     url: /works/485499/
@@ -1805,7 +1813,7 @@ works:
       Mom and Her Son's Lovemaking on a Uninhabited Island
     author: katano-chika
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/501315.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-11-08'
     code: 501315
     url: /works/501315/
@@ -2181,7 +2189,7 @@ works:
   - title: Kaientojou
     author: fushoku
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/525330.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-11-09'
     code: 525330
     url: /works/525330/
@@ -2493,7 +2501,7 @@ works:
       Sex Life Caretaker ~Downer High School Girl Nanami-chan~
     author: mitsuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/546898.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-11-08'
     code: 546898
     url: /works/546898/
@@ -3422,7 +3430,7 @@ works:
   - title: Saimin Mama, Warugaki Musuko to Issho!
     author: katano-chika
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/606648.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-11-08'
     code: 606648
     url: /works/606648/
@@ -3765,7 +3773,7 @@ works:
       I’ll Choose the Ill-natured Gyaru! -Umezu-san, Who Always Puts Her Ass on My Desk-'
     author: mitsuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/630135.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-11-08'
     code: 630135
     url: /works/630135/
@@ -5165,7 +5173,7 @@ works:
   - title: Make Love Rank match!!②
     author: napo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/653113.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-09'
     code: 653113
     url: /works/653113/
@@ -8699,7 +8707,7 @@ works:
   - title: The Fable Of The Short King And His GF With Huge Tits
     author: enishi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694668.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-11-08'
     code: 694668
     url: /works/694668/
@@ -8714,43 +8722,52 @@ works:
       Mom
     author: hotate-chan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694850.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-11-08'
     code: 694850
     url: /works/694850/
   - title: Momota-san Next Door
     author: hogeramu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694863.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-11-09'
     code: 694863
     url: /works/694863/
+  - title: Mou Hitozuma Nanoni Moto Doukyuusei 3-nin kara Kyousei Kongan Sex Saserareru
+      | Even though Niina-chan’s a married woman… she gets forced by three former classmates
+      into revenge sex
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694885.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 694885
+    url: /works/694885/
   - title: Nude Model o Koushi Mizukara Yatte kureru Gajuku no Hanashi | The story of
       an art cram school where the instructor herself volunteers to be a nude model
     author: kekemotsu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694888.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-09'
     code: 694888
     url: /works/694888/
   - title: Only♀♂Mum
     author: sakai-hamachi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694889.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-11-09'
     code: 694889
     url: /works/694889/
   - title: Ano Toki no Sekinin Totte...Nii-san / Do you remember our secret game, Onii-chan?
     author: dochashiko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694921.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-11-08'
     code: 694921
     url: /works/694921/
   - title: Zutto Issho ni Iyou ne | Let's Be Together Forever Ok?
     author: oosawa-ofuda-ohuda
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694922.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-11-08'
     code: 694922
     url: /works/694922/
@@ -8758,14 +8775,14 @@ works:
       Onee-san? ~The Ecchi Card: Do What You Want!~'
     author: minato-yuu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694940.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-11-09'
     code: 694940
     url: /works/694940/
   - title: I Am Just Your Sex Tool
     author: hisasi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694972.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-11-09'
     code: 694972
     url: /works/694972/
@@ -8780,7 +8797,7 @@ works:
   - title: Takuhai Shoujo - Delivery Girl
     author: jp06
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695224.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-11-09'
     code: 695224
     url: /works/695224/
@@ -8788,7 +8805,7 @@ works:
       with your Mom? Part 2
     author: temperature
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695285.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-11-09'
     code: 695285
     url: /works/695285/

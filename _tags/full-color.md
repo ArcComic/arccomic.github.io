@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "full color"
-work_count: 294
+work_count: 295
 works:
   - title: Pai☆Panic ~Hasamareta Dekapai~
     author: inkey
@@ -254,7 +254,7 @@ works:
   - title: Sono Onna Kyoushi Shumi Nozoki
     author: zenmai-kourogi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/426060.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-09'
     code: 426060
     url: /works/426060/
@@ -293,6 +293,14 @@ works:
     date: '2026-09-30'
     code: 437443
     url: /works/437443/
+  - title: Dame na Otoko ni Yasashii Elf Manga | A Manga About a Hopeless Man Who Has
+      Sex With a Kind Elf
+    author: kekemotsu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/437581.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 437581
+    url: /works/437581/
   - title: Boku no Netorase Seiheki ni Tsukiatte kureru Kanojo | A Girlfriend Who Plays
       Along with My Cuckold Fetish
     author: terasu-mc
@@ -2133,14 +2141,14 @@ works:
       Another World
     author: sukoyasu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694947.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-11-09'
     code: 694947
     url: /works/694947/
   - title: Don't Make a Sound
     author: sunaba-suzume
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694973.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-11-09'
     code: 694973
     url: /works/694973/
@@ -2148,7 +2156,7 @@ works:
       with your Mom? Part 2
     author: temperature
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695285.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-11-09'
     code: 695285
     url: /works/695285/

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "group"
-work_count: 299
+work_count: 300
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -2093,7 +2093,7 @@ works:
   - title: Common Sense Overturned!? The Girl Who Gets Fucked
     author: honshiro-nikori
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/689137.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-11-08'
     code: 689137
     url: /works/689137/
@@ -2160,7 +2160,7 @@ works:
   - title: Making a Harem of the Three Bitchy Gal Sisters - All Chapters + Bonus
     author: zonda
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694670.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-11-08'
     code: 694670
     url: /works/694670/
@@ -2171,11 +2171,20 @@ works:
     date: '2026-11-09'
     code: 694780
     url: /works/694780/
+  - title: Mou Hitozuma Nanoni Moto Doukyuusei 3-nin kara Kyousei Kongan Sex Saserareru
+      | Even though Niina-chan’s a married woman… she gets forced by three former classmates
+      into revenge sex
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694885.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 694885
+    url: /works/694885/
   - title: Nude Model o Koushi Mizukara Yatte kureru Gajuku no Hanashi | The story of
       an art cram school where the instructor herself volunteers to be a nude model
     author: kekemotsu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694888.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-09'
     code: 694888
     url: /works/694888/
@@ -2183,7 +2192,7 @@ works:
       Onee-san? ~The Ecchi Card: Do What You Want!~'
     author: minato-yuu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694940.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-11-09'
     code: 694940
     url: /works/694940/
@@ -2191,7 +2200,7 @@ works:
       Another World
     author: sukoyasu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694947.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-11-09'
     code: 694947
     url: /works/694947/

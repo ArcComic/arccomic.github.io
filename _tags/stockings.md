@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "stockings"
-work_count: 278
+work_count: 277
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -478,7 +478,7 @@ works:
       Sex Life Caretaker ~Downer High School Girl Nanami-chan~
     author: mitsuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/546898.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-11-08'
     code: 546898
     url: /works/546898/
@@ -1995,7 +1995,7 @@ works:
   - title: Even the chairman wants to do it, you know
     author: signo-mandara
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/693913.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-11-09'
     code: 693913
     url: /works/693913/
@@ -2003,28 +2003,21 @@ works:
       matters 2
     author: signo-mandara
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/693920.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-11-09'
     code: 693920
     url: /works/693920/
   - title: Making a Harem of the Three Bitchy Gal Sisters - All Chapters + Bonus
     author: zonda
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694670.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-11-08'
     code: 694670
     url: /works/694670/
-  - title: The 211cm Jirai-kei Girl Who Won't Let Go of Me 4
-    author: kinntarou
-    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694925.jpg
-    rating: 0.0
-    date: '2026-11-08'
-    code: 694925
-    url: /works/694925/
   - title: Takuhai Shoujo - Delivery Girl
     author: jp06
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695224.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-11-09'
     code: 695224
     url: /works/695224/

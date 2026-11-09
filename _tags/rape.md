@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "rape"
-work_count: 276
+work_count: 278
 works:
   - title: Office Love Scramble Ch. 1
     author: tohzai
@@ -2008,11 +2008,27 @@ works:
     date: '2026-11-09'
     code: 694780
     url: /works/694780/
+  - title: Mou Hitozuma Nanoni Moto Doukyuusei 3-nin kara Kyousei Kongan Sex Saserareru
+      | Even though Niina-chan’s a married woman… she gets forced by three former classmates
+      into revenge sex
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694885.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 694885
+    url: /works/694885/
   - title: The 211cm Jirai-kei Girl Who Won't Let Go of Me 4
     author: kinntarou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694925.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-11-08'
     code: 694925
     url: /works/694925/
+  - title: A story about mercenaries ravishing the elven princess
+    author: doku-marimo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695351.jpg
+    rating: 4.6
+    date: '2026-11-09'
+    code: 695351
+    url: /works/695351/
 ---

@@ -398,7 +398,7 @@ works:
   - title: Kaientojou
     author: fushoku
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/525330.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-11-09'
     code: 525330
     url: /works/525330/
@@ -459,7 +459,7 @@ works:
       Sex Life Caretaker ~Downer High School Girl Nanami-chan~
     author: mitsuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/546898.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-11-08'
     code: 546898
     url: /works/546898/
@@ -812,7 +812,7 @@ works:
       I’ll Choose the Ill-natured Gyaru! -Umezu-san, Who Always Puts Her Ass on My Desk-'
     author: mitsuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/630135.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-11-08'
     code: 630135
     url: /works/630135/
@@ -1185,7 +1185,7 @@ works:
   - title: Make Love Rank match!!②
     author: napo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/653113.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-09'
     code: 653113
     url: /works/653113/
@@ -1743,7 +1743,7 @@ works:
   - title: Ano Toki no Sekinin Totte...Nii-san / Do you remember our secret game, Onii-chan?
     author: dochashiko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694921.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-11-08'
     code: 694921
     url: /works/694921/

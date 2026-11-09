@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "shotacon"
-work_count: 164
+work_count: 165
 works:
   - title: Ikanishite Haha wa Onna o Kaihou Shitaka Ch. 1-14
     author: mitarai-yuuki
@@ -172,7 +172,7 @@ works:
       Light=
     author: nakamura-regura
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/397141.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-11-08'
     code: 397141
     url: /works/397141/
@@ -194,10 +194,18 @@ works:
   - title: Mama ni Seishi Ippai Choudai, Zenpen-Chuuhen
     author: yamamoto-yoshifumi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/429195.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-08'
     code: 429195
     url: /works/429195/
+  - title: Dame na Otoko ni Yasashii Elf Manga | A Manga About a Hopeless Man Who Has
+      Sex With a Kind Elf
+    author: kekemotsu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/437581.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 437581
+    url: /works/437581/
   - title: Nekura Kyonyuu no Onee-chan wa, Saiminshite de mo Otouto Chinpo o Netoritai
     author: borusiti
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/438138.jpg
@@ -209,7 +217,7 @@ works:
       Milks Me Dry
     author: arisu-kazumi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/438340.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-11-09'
     code: 438340
     url: /works/438340/
@@ -256,7 +264,7 @@ works:
       Mom and Her Son's Lovemaking on a Uninhabited Island
     author: katano-chika
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/501315.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-11-08'
     code: 501315
     url: /works/501315/
@@ -440,7 +448,7 @@ works:
   - title: Saimin Mama, Warugaki Musuko to Issho!
     author: katano-chika
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/606648.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-11-08'
     code: 606648
     url: /works/606648/
@@ -1192,7 +1200,7 @@ works:
   - title: The Fable Of The Short King And His GF With Huge Tits
     author: enishi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694668.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-11-08'
     code: 694668
     url: /works/694668/

@@ -135,7 +135,7 @@ works:
       Light=
     author: nakamura-regura
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/397141.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-11-08'
     code: 397141
     url: /works/397141/
@@ -165,7 +165,7 @@ works:
   - title: Mama ni Seishi Ippai Choudai, Zenpen-Chuuhen
     author: yamamoto-yoshifumi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/429195.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-08'
     code: 429195
     url: /works/429195/
@@ -173,7 +173,7 @@ works:
       Milks Me Dry
     author: arisu-kazumi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/438340.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-11-09'
     code: 438340
     url: /works/438340/
@@ -239,7 +239,7 @@ works:
   - title: Ero-ero Massage
     author: shin-yu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/485499.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-11-08'
     code: 485499
     url: /works/485499/
@@ -394,7 +394,7 @@ works:
       Sex Life Caretaker ~Downer High School Girl Nanami-chan~
     author: mitsuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/546898.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-11-08'
     code: 546898
     url: /works/546898/
@@ -2049,7 +2049,7 @@ works:
   - title: Common Sense Overturned!? The Girl Who Gets Fucked
     author: honshiro-nikori
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/689137.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-11-08'
     code: 689137
     url: /works/689137/
@@ -2116,24 +2116,26 @@ works:
   - title: Making a Harem of the Three Bitchy Gal Sisters - All Chapters + Bonus
     author: zonda
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694670.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-11-08'
     code: 694670
     url: /works/694670/
   - title: Momota-san Next Door
     author: hogeramu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694863.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-11-09'
     code: 694863
     url: /works/694863/
-  - title: The 211cm Jirai-kei Girl Who Won't Let Go of Me 4
-    author: kinntarou
-    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694925.jpg
+  - title: Mou Hitozuma Nanoni Moto Doukyuusei 3-nin kara Kyousei Kongan Sex Saserareru
+      | Even though Niina-chan’s a married woman… she gets forced by three former classmates
+      into revenge sex
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694885.jpg
     rating: 0.0
-    date: '2026-11-08'
-    code: 694925
-    url: /works/694925/
+    date: '2026-11-09'
+    code: 694885
+    url: /works/694885/
   - title: Prostitution Box ~A Frustrated Wife's Anonymous Amateur Debut in the Sex
       Industry~
     author: glycogen

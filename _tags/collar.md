@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "collar"
-work_count: 119
+work_count: 120
 works:
   - title: Kaisha de Iroiro | Gettin' Busy at the Office
     author: hara-shigeyuki
@@ -100,7 +100,7 @@ works:
   - title: Kaientojou
     author: fushoku
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/525330.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-11-09'
     code: 525330
     url: /works/525330/
@@ -852,7 +852,7 @@ works:
   - title: The Fable Of The Short King And His GF With Huge Tits
     author: enishi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694668.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-11-08'
     code: 694668
     url: /works/694668/
@@ -863,24 +863,33 @@ works:
     date: '2026-11-09'
     code: 694780
     url: /works/694780/
+  - title: Mou Hitozuma Nanoni Moto Doukyuusei 3-nin kara Kyousei Kongan Sex Saserareru
+      | Even though Niina-chan’s a married woman… she gets forced by three former classmates
+      into revenge sex
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694885.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 694885
+    url: /works/694885/
   - title: Ano Toki no Sekinin Totte...Nii-san / Do you remember our secret game, Onii-chan?
     author: dochashiko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694921.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-11-08'
     code: 694921
     url: /works/694921/
   - title: The 211cm Jirai-kei Girl Who Won't Let Go of Me 4
     author: kinntarou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694925.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-11-08'
     code: 694925
     url: /works/694925/
   - title: Takuhai Shoujo - Delivery Girl
     author: jp06
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695224.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-11-09'
     code: 695224
     url: /works/695224/

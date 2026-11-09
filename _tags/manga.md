@@ -251,7 +251,7 @@ works:
   - title: Oshiete Sensei! | Teach Me, Sensei
     author: kinomoto-anzu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/302021.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-11-08'
     code: 302021
     url: /works/302021/
@@ -422,7 +422,7 @@ works:
   - title: Let's Study!
     author: napo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/358620.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-11-08'
     code: 358620
     url: /works/358620/
@@ -464,7 +464,7 @@ works:
   - title: Fukinshin Soukan no Onna | Non Incest Woman Chapter 1
     author: nagashima-chosuke
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/377597.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-11-08'
     code: 377597
     url: /works/377597/
@@ -808,7 +808,7 @@ works:
   - title: Ero-ero Massage
     author: shin-yu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/485499.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-11-08'
     code: 485499
     url: /works/485499/
@@ -1069,7 +1069,7 @@ works:
   - title: Kaientojou
     author: fushoku
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/525330.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-11-09'
     code: 525330
     url: /works/525330/
@@ -3059,21 +3059,21 @@ works:
   - title: Making a Harem of the Three Bitchy Gal Sisters - All Chapters + Bonus
     author: zonda
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694670.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-11-08'
     code: 694670
     url: /works/694670/
   - title: Only♀♂Mum
     author: sakai-hamachi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694889.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-11-09'
     code: 694889
     url: /works/694889/
   - title: Zutto Issho ni Iyou ne | Let's Be Together Forever Ok?
     author: oosawa-ofuda-ohuda
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694922.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-11-08'
     code: 694922
     url: /works/694922/

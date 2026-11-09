@@ -513,7 +513,7 @@ works:
       Mom and Her Son's Lovemaking on a Uninhabited Island
     author: katano-chika
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/501315.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-11-08'
     code: 501315
     url: /works/501315/
@@ -884,7 +884,7 @@ works:
   - title: Saimin Mama, Warugaki Musuko to Issho!
     author: katano-chika
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/606648.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-11-08'
     code: 606648
     url: /works/606648/
@@ -2361,7 +2361,7 @@ works:
   - title: Momota-san Next Door
     author: hogeramu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694863.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-11-09'
     code: 694863
     url: /works/694863/
@@ -2369,21 +2369,21 @@ works:
       an art cram school where the instructor herself volunteers to be a nude model
     author: kekemotsu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694888.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-09'
     code: 694888
     url: /works/694888/
   - title: A Frustrated Housewife Can't Resist Her Exhibitionist Impulses
     author: comichi-pota
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694971.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-11-09'
     code: 694971
     url: /works/694971/
   - title: Don't Make a Sound
     author: sunaba-suzume
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694973.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-11-09'
     code: 694973
     url: /works/694973/

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "milf"
-work_count: 546
+work_count: 547
 works:
   - title: Life with Married Women Just Like a Manga 2 - Ch. 1-5
     author: hidemaru
@@ -347,7 +347,7 @@ works:
   - title: Fukinshin Soukan no Onna | Non Incest Woman Chapter 1
     author: nagashima-chosuke
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/377597.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-11-08'
     code: 377597
     url: /works/377597/
@@ -419,7 +419,7 @@ works:
       Light=
     author: nakamura-regura
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/397141.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-11-08'
     code: 397141
     url: /works/397141/
@@ -533,7 +533,7 @@ works:
   - title: Sono Onna Kyoushi Shumi Nozoki
     author: zenmai-kourogi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/426060.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-09'
     code: 426060
     url: /works/426060/
@@ -547,7 +547,7 @@ works:
   - title: Mama ni Seishi Ippai Choudai, Zenpen-Chuuhen
     author: yamamoto-yoshifumi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/429195.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-08'
     code: 429195
     url: /works/429195/
@@ -767,7 +767,7 @@ works:
   - title: Ero-ero Massage
     author: shin-yu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/485499.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-11-08'
     code: 485499
     url: /works/485499/
@@ -804,7 +804,7 @@ works:
       Mom and Her Son's Lovemaking on a Uninhabited Island
     author: katano-chika
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/501315.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-11-08'
     code: 501315
     url: /works/501315/
@@ -1738,7 +1738,7 @@ works:
   - title: Saimin Mama, Warugaki Musuko to Issho!
     author: katano-chika
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/606648.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-11-08'
     code: 606648
     url: /works/606648/
@@ -3966,21 +3966,30 @@ works:
       Mom
     author: hotate-chan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694850.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-11-08'
     code: 694850
     url: /works/694850/
+  - title: Mou Hitozuma Nanoni Moto Doukyuusei 3-nin kara Kyousei Kongan Sex Saserareru
+      | Even though Niina-chan’s a married woman… she gets forced by three former classmates
+      into revenge sex
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694885.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 694885
+    url: /works/694885/
   - title: Only♀♂Mum
     author: sakai-hamachi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694889.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-11-09'
     code: 694889
     url: /works/694889/
   - title: A Frustrated Housewife Can't Resist Her Exhibitionist Impulses
     author: comichi-pota
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694971.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-11-09'
     code: 694971
     url: /works/694971/
@@ -3996,7 +4005,7 @@ works:
       with your Mom? Part 2
     author: temperature
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695285.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-11-09'
     code: 695285
     url: /works/695285/

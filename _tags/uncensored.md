@@ -49,7 +49,7 @@ works:
       Light=
     author: nakamura-regura
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/397141.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-11-08'
     code: 397141
     url: /works/397141/
@@ -1106,14 +1106,14 @@ works:
   - title: Making a Harem of the Three Bitchy Gal Sisters - All Chapters + Bonus
     author: zonda
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694670.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-11-08'
     code: 694670
     url: /works/694670/
   - title: Takuhai Shoujo - Delivery Girl
     author: jp06
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695224.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-11-09'
     code: 695224
     url: /works/695224/

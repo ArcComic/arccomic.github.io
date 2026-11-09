@@ -1,8 +1,16 @@
 ---
 layout: tag
 tag_name: "elf"
-work_count: 11
+work_count: 13
 works:
+  - title: Dame na Otoko ni Yasashii Elf Manga | A Manga About a Hopeless Man Who Has
+      Sex With a Kind Elf
+    author: kekemotsu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/437581.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 437581
+    url: /works/437581/
   - title: A tale of an Elf adventurer (♀) being visited at night and bred by an innkeeper
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/526619.jpg
@@ -86,4 +94,11 @@ works:
     date: '2026-10-17'
     code: 688150
     url: /works/688150/
+  - title: A story about mercenaries ravishing the elven princess
+    author: doku-marimo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695351.jpg
+    rating: 4.6
+    date: '2026-11-09'
+    code: 695351
+    url: /works/695351/
 ---
