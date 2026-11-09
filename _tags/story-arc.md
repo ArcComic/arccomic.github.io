@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "story arc"
-work_count: 250
+work_count: 251
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -1838,6 +1838,14 @@ works:
     date: '2026-11-08'
     code: 694670
     url: /works/694670/
+  - title: 'Onee-san to Shiyo? ~Echinpo Card de Yaritai Houdai~ (3) | Wanna Do It With
+      Onee-san? ~The Ecchi Card: Do What You Want!~'
+    author: minato-yuu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694940.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 694940
+    url: /works/694940/
   - title: Hottokenaino
     author: hara-shigeyuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/77864.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole female"
-work_count: 1177
+work_count: 1178
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -8709,6 +8709,14 @@ works:
     date: '2026-11-08'
     code: 694922
     url: /works/694922/
+  - title: 'Onee-san to Shiyo? ~Echinpo Card de Yaritai Houdai~ (3) | Wanna Do It With
+      Onee-san? ~The Ecchi Card: Do What You Want!~'
+    author: minato-yuu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694940.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 694940
+    url: /works/694940/
   - title: Prostitution Box ~A Frustrated Wife's Anonymous Amateur Debut in the Sex
       Industry~
     author: glycogen
