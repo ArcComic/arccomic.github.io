@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "squirting"
-work_count: 187
+work_count: 189
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -1395,6 +1395,20 @@ works:
     date: '2026-11-08'
     code: 694925
     url: /works/694925/
+  - title: A Frustrated Housewife Can't Resist Her Exhibitionist Impulses
+    author: comichi-pota
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694971.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 694971
+    url: /works/694971/
+  - title: I Am Just Your Sex Tool
+    author: hisasi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694972.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 694972
+    url: /works/694972/
   - title: Prostitution Box ~A Frustrated Wife's Anonymous Amateur Debut in the Sex
       Industry~
     author: glycogen

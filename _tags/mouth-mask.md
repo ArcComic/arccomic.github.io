@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "mouth mask"
-work_count: 21
+work_count: 22
 works:
   - title: Kanojo wa Boku no Taieki de Ugoiteiru Phase. 05 [English] =NSS=
     author: nagareboshi
@@ -156,4 +156,11 @@ works:
     date: '2026-11-09'
     code: 694940
     url: /works/694940/
+  - title: A Frustrated Housewife Can't Resist Her Exhibitionist Impulses
+    author: comichi-pota
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694971.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 694971
+    url: /works/694971/
 ---

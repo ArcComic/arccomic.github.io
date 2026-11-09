@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "mosaic censorship"
-work_count: 372
+work_count: 374
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -2734,6 +2734,13 @@ works:
     date: '2026-11-09'
     code: 694947
     url: /works/694947/
+  - title: A Frustrated Housewife Can't Resist Her Exhibitionist Impulses
+    author: comichi-pota
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694971.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 694971
+    url: /works/694971/
   - title: Don't Make a Sound
     author: sunaba-suzume
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694973.jpg
@@ -2741,4 +2748,12 @@ works:
     date: '2026-11-09'
     code: 694973
     url: /works/694973/
+  - title: Hahaoya to Sex shita Kibun wa Dou? Sono 2 | How Does it Feel to have Sex
+      with your Mom? Part 2
+    author: temperature
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695285.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 695285
+    url: /works/695285/
 ---

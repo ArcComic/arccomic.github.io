@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "clit stimulation"
-work_count: 38
+work_count: 39
 works:
   - title: Senpai, Sonna no Shiranai desu ~Bansou shite ita Kare no Yubi wa Ima, Watashi
       no Naka o Midashiteru~ | Senpai, I Don't Know About That - His Fingers That Were
@@ -289,4 +289,11 @@ works:
     date: '2026-11-08'
     code: 694922
     url: /works/694922/
+  - title: A Frustrated Housewife Can't Resist Her Exhibitionist Impulses
+    author: comichi-pota
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694971.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 694971
+    url: /works/694971/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "incest"
-work_count: 361
+work_count: 362
 works:
   - title: Imitation Family + Bigibo Hen
     author: tohzai
@@ -2635,6 +2635,14 @@ works:
     date: '2026-11-08'
     code: 694922
     url: /works/694922/
+  - title: Hahaoya to Sex shita Kibun wa Dou? Sono 2 | How Does it Feel to have Sex
+      with your Mom? Part 2
+    author: temperature
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695285.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 695285
+    url: /works/695285/
   - title: Onee-chan no SM Kouza | Onee-chan's S&M Lecture
     author: shinooka-homare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/88750.jpg

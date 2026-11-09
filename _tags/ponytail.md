@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "ponytail"
-work_count: 208
+work_count: 209
 works:
   - title: Ami Mami Mind 5
     author: tsurui
@@ -1530,6 +1530,13 @@ works:
     date: '2026-11-08'
     code: 694922
     url: /works/694922/
+  - title: A Frustrated Housewife Can't Resist Her Exhibitionist Impulses
+    author: comichi-pota
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694971.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 694971
+    url: /works/694971/
   - title: Don't Make a Sound
     author: sunaba-suzume
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694973.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "huge penis"
-work_count: 7
+work_count: 8
 works:
   - title: 30cm Chou Tsuyotsuyo Futanari Chinpo o Semen ga Karerukurai Manzoku Saserareru
       kana?
@@ -59,4 +59,11 @@ works:
     date: '2026-09-28'
     code: 684611
     url: /works/684611/
+  - title: A Frustrated Housewife Can't Resist Her Exhibitionist Impulses
+    author: comichi-pota
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694971.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 694971
+    url: /works/694971/
 ---
