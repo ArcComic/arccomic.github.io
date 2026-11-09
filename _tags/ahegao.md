@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "ahegao"
-work_count: 400
+work_count: 401
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -200,6 +200,13 @@ works:
     date: '2026-09-12'
     code: 424735
     url: /works/424735/
+  - title: Sono Onna Kyoushi Shumi Nozoki
+    author: zenmai-kourogi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/426060.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 426060
+    url: /works/426060/
   - title: Mama ni Seishi Ippai Choudai, Zenpen-Chuuhen
     author: yamamoto-yoshifumi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/429195.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "schoolboy uniform"
-work_count: 125
+work_count: 127
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -176,6 +176,13 @@ works:
     date: '2026-04-27'
     code: 425528
     url: /works/425528/
+  - title: Sono Onna Kyoushi Shumi Nozoki
+    author: zenmai-kourogi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/426060.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 426060
+    url: /works/426060/
   - title: Hatsujouki | Cherry Season
     author: nagareboshi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/426769.jpg
@@ -243,6 +250,13 @@ works:
     date: '2026-09-29'
     code: 513981
     url: /works/513981/
+  - title: Kaientojou
+    author: fushoku
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/525330.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 525330
+    url: /works/525330/
   - title: Gal to no Asobikata | How to Have Fun With Gyarus!
     author: buta
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/531967.jpg

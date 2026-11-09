@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "manga"
-work_count: 430
+work_count: 431
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -1066,6 +1066,13 @@ works:
     date: '2026-05-04'
     code: 519713
     url: /works/519713/
+  - title: Kaientojou
+    author: fushoku
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/525330.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 525330
+    url: /works/525330/
   - title: Haha Netori
     author: aoi-hitori
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/527171.jpg

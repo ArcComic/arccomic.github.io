@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "smoking"
-work_count: 7
+work_count: 8
 works:
   - title: Shirotaegiku | Dusty miller
     author: hiroya
@@ -10,6 +10,13 @@ works:
     date: '2026-09-06'
     code: 370164
     url: /works/370164/
+  - title: Kaientojou
+    author: fushoku
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/525330.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 525330
+    url: /works/525330/
   - title: Mousukoshi dake, Konomama de - Stay together for a little longer. + Seishun
       no Tsunagarikata
     author: syoukaki

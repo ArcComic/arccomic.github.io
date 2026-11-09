@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "nakadashi"
-work_count: 1027
+work_count: 1029
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -763,6 +763,13 @@ works:
     date: '2026-10-29'
     code: 422128
     url: /works/422128/
+  - title: Sono Onna Kyoushi Shumi Nozoki
+    author: zenmai-kourogi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/426060.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 426060
+    url: /works/426060/
   - title: Hatsujouki | Cherry Season
     author: nagareboshi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/426769.jpg
@@ -4473,6 +4480,13 @@ works:
     date: '2026-09-28'
     code: 653091
     url: /works/653091/
+  - title: Make Love Rank match!!②
+    author: napo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/653113.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 653113
+    url: /works/653113/
   - title: Namaiki Gal o Succubus ni Shite Oshioki Shitatta Ken 4 | Bewitched Reckoning
       How I Turned My Bully Into a Succubus 4
     author: takurowo

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "short-haired female"
-work_count: 62
+work_count: 63
 works:
   - title: Onee-chan ga Ecchi na Koto bakka Suru kara... | My older sister only does
       obscene things...
@@ -101,6 +101,13 @@ works:
     date: '2026-09-09'
     code: 507591
     url: /works/507591/
+  - title: Kaientojou
+    author: fushoku
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/525330.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 525330
+    url: /works/525330/
   - title: Kawari wa Okaa-san | The Stand-in is Her Mom
     author: etuzan-jakusui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/528470.jpg

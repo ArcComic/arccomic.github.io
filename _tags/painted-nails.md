@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "painted nails"
-work_count: 54
+work_count: 55
 works:
   - title: Rakki Taishyaku
     author: fushoku
@@ -31,6 +31,13 @@ works:
     date: '2026-08-25'
     code: 512473
     url: /works/512473/
+  - title: Kaientojou
+    author: fushoku
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/525330.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 525330
+    url: /works/525330/
   - title: MistakeR ~Jimi de Kyonyuu na Osananjimi wo Saimin Appli de Risou no Ero-gal
       ni Kaizou Shite Koibito ni Suru Keikaku~
     author: ueto-seri

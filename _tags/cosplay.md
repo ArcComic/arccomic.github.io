@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "cosplay"
-work_count: 3
+work_count: 4
 works:
   - title: Hitoban Tomete yo, Otaku-kun | Let Me Stay For the Night, Otaku-kun
     author: danimaru
@@ -17,6 +17,13 @@ works:
     date: '2026-05-21'
     code: 651499
     url: /works/651499/
+  - title: Make Love Rank match!!②
+    author: napo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/653113.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 653113
+    url: /works/653113/
   - title: Niihama Yui Husband Exclusive Re-debut
     author: buta
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/674199.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "doujinshi"
-work_count: 1650
+work_count: 1652
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -1108,6 +1108,13 @@ works:
     date: '2026-09-12'
     code: 424735
     url: /works/424735/
+  - title: Sono Onna Kyoushi Shumi Nozoki
+    author: zenmai-kourogi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/426060.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 426060
+    url: /works/426060/
   - title: Doushia (Terasu MC)] Dorei Gazoku
     author: terasu-mc
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/427676.jpg
@@ -6644,6 +6651,13 @@ works:
     date: '2026-10-21'
     code: 653080
     url: /works/653080/
+  - title: Make Love Rank match!!②
+    author: napo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/653113.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 653113
+    url: /works/653113/
   - title: Namaiki Gal o Succubus ni Shite Oshioki Shitatta Ken 4 | Bewitched Reckoning
       How I Turned My Bully Into a Succubus 4
     author: takurowo

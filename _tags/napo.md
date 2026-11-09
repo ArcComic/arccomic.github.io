@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "napo"
-work_count: 2
+work_count: 3
 works:
   - title: Let's Study!
     author: napo
@@ -10,6 +10,13 @@ works:
     date: '2026-11-08'
     code: 358620
     url: /works/358620/
+  - title: Make Love Rank match!!②
+    author: napo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/653113.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 653113
+    url: /works/653113/
   - title: Make Love Rank match!!③
     author: napo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/659484.jpg

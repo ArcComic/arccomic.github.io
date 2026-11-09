@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "x-ray"
-work_count: 422
+work_count: 424
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -246,6 +246,13 @@ works:
     date: '2026-10-17'
     code: 416852
     url: /works/416852/
+  - title: Sono Onna Kyoushi Shumi Nozoki
+    author: zenmai-kourogi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/426060.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 426060
+    url: /works/426060/
   - title: Hatsujouki | Cherry Season
     author: nagareboshi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/426769.jpg
@@ -1802,6 +1809,13 @@ works:
     date: '2026-05-27'
     code: 652790
     url: /works/652790/
+  - title: Make Love Rank match!!②
+    author: napo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/653113.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 653113
+    url: /works/653113/
   - title: Seishidouin no Oshigoto Soushuuhen1 | Sex Instructor Compilation Vol. 1
     author: malcorond
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/653978.jpg

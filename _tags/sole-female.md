@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole female"
-work_count: 1185
+work_count: 1187
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -2178,6 +2178,13 @@ works:
     date: '2026-10-15'
     code: 525317
     url: /works/525317/
+  - title: Kaientojou
+    author: fushoku
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/525330.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 525330
+    url: /works/525330/
   - title: Tsugunai Tsuma 1
     author: ren-suru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/526024.jpg
@@ -5155,6 +5162,13 @@ works:
     date: '2026-10-21'
     code: 653080
     url: /works/653080/
+  - title: Make Love Rank match!!②
+    author: napo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/653113.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 653113
+    url: /works/653113/
   - title: Namaiki Gal o Succubus ni Shite Oshioki Shitatta Ken 4 | Bewitched Reckoning
       How I Turned My Bully Into a Succubus 4
     author: takurowo
