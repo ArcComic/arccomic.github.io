@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "lolicon"
-work_count: 102
+work_count: 103
 works:
   - title: A-part | Apartment
     author: zero-no-mono
@@ -743,4 +743,12 @@ works:
     date: '2026-11-09'
     code: 694947
     url: /works/694947/
+  - title: Sukisuki Onii-chan Imouto to Ecchi -Asadachi Onii-chan no Ochinchin o Shirabete
+      Icha Love-
+    author: nekonume
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695343.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 695343
+    url: /works/695343/
 ---

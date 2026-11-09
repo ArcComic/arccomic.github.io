@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "multi-work series"
-work_count: 470
+work_count: 471
 works:
   - title: Konna ni mo Itooshii Zero
     author: nohito
@@ -3499,6 +3499,13 @@ works:
     date: '2026-11-09'
     code: 693920
     url: /works/693920/
+  - title: TS Onii-chan ~Ecchi na Jisshou Jiken de Kanzen Mesu Ochi o Jinin suru Hanashi~
+    author: kuroshiba-suko
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694781.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 694781
+    url: /works/694781/
   - title: The 211cm Jirai-kei Girl Who Won't Let Go of Me 4
     author: kinntarou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694925.jpg

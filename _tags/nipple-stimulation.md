@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "nipple stimulation"
-work_count: 200
+work_count: 203
 works:
   - title: Hypnotic Domination ~ The Fall of Tennis Club Ace ~
     author: danchino
@@ -1473,6 +1473,13 @@ works:
     date: '2026-11-08'
     code: 694670
     url: /works/694670/
+  - title: TS Onii-chan ~Ecchi na Jisshou Jiken de Kanzen Mesu Ochi o Jinin suru Hanashi~
+    author: kuroshiba-suko
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694781.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 694781
+    url: /works/694781/
   - title: Deriheru yondara wakareta kanojo no mama ga kita | My Escort Was My Ex's
       Mom
     author: hotate-chan
@@ -1510,4 +1517,20 @@ works:
     date: '2026-11-09'
     code: 694974
     url: /works/694974/
+  - title: Ganmen ga Sukisugiru Ishiwatari-san ga Konna ni Oni Seiyokuda nante Shiritaku
+      wa Nakatta
+    author: kozakura-kumaneko
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695264.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 695264
+    url: /works/695264/
+  - title: Sukisuki Onii-chan Imouto to Ecchi -Asadachi Onii-chan no Ochinchin o Shirabete
+      Icha Love-
+    author: nekonume
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695343.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 695343
+    url: /works/695343/
 ---

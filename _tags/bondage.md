@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bondage"
-work_count: 118
+work_count: 119
 works:
   - title: Pai☆Panic ~Hasamareta Dekapai~
     author: inkey
@@ -866,6 +866,14 @@ works:
     date: '2026-11-09'
     code: 694888
     url: /works/694888/
+  - title: Ganmen ga Sukisugiru Ishiwatari-san ga Konna ni Oni Seiyokuda nante Shiritaku
+      wa Nakatta
+    author: kozakura-kumaneko
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695264.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 695264
+    url: /works/695264/
   - title: Onee-chan no SM Kouza | Onee-chan's S&M Lecture
     author: shinooka-homare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/88750.jpg

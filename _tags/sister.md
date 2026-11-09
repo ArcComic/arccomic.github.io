@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sister"
-work_count: 125
+work_count: 126
 works:
   - title: Imitation Family + Bigibo Hen
     author: tohzai
@@ -911,6 +911,14 @@ works:
     date: '2026-11-08'
     code: 694921
     url: /works/694921/
+  - title: Sukisuki Onii-chan Imouto to Ecchi -Asadachi Onii-chan no Ochinchin o Shirabete
+      Icha Love-
+    author: nekonume
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695343.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 695343
+    url: /works/695343/
   - title: Onee-chan no SM Kouza | Onee-chan's S&M Lecture
     author: shinooka-homare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/88750.jpg

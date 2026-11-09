@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole female"
-work_count: 1194
+work_count: 1196
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -8838,6 +8838,14 @@ works:
     date: '2026-11-09'
     code: 695224
     url: /works/695224/
+  - title: Ganmen ga Sukisugiru Ishiwatari-san ga Konna ni Oni Seiyokuda nante Shiritaku
+      wa Nakatta
+    author: kozakura-kumaneko
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695264.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 695264
+    url: /works/695264/
   - title: Hahaoya to Sex shita Kibun wa Dou? Sono 2 | How Does it Feel to have Sex
       with your Mom? Part 2
     author: temperature
@@ -8846,6 +8854,14 @@ works:
     date: '2026-11-09'
     code: 695285
     url: /works/695285/
+  - title: Sukisuki Onii-chan Imouto to Ecchi -Asadachi Onii-chan no Ochinchin o Shirabete
+      Icha Love-
+    author: nekonume
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695343.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 695343
+    url: /works/695343/
   - title: Ranko-ppoi no! | Ranko-Ish!
     author: napata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/87393.jpg

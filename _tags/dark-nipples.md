@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "dark nipples"
-work_count: 11
+work_count: 12
 works:
   - title: 'Zoku Matching Appli de Deatta Aite wa Kaa-san deshita | I Matched Mom on
       My Dating App: The Sequel'
@@ -86,4 +86,12 @@ works:
     date: '2026-10-13'
     code: 687086
     url: /works/687086/
+  - title: Ganmen ga Sukisugiru Ishiwatari-san ga Konna ni Oni Seiyokuda nante Shiritaku
+      wa Nakatta
+    author: kozakura-kumaneko
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695264.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 695264
+    url: /works/695264/
 ---

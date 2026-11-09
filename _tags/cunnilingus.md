@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "cunnilingus"
-work_count: 220
+work_count: 221
 works:
   - title: Love Approach
     author: hanafuda-sakurano
@@ -1630,4 +1630,12 @@ works:
     date: '2026-11-09'
     code: 695285
     url: /works/695285/
+  - title: Sukisuki Onii-chan Imouto to Ecchi -Asadachi Onii-chan no Ochinchin o Shirabete
+      Icha Love-
+    author: nekonume
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695343.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 695343
+    url: /works/695343/
 ---

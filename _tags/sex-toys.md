@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sex toys"
-work_count: 149
+work_count: 150
 works:
   - title: Mama Naranai Onna-tachi Ch. 1-2
     author: otochichi
@@ -1100,4 +1100,12 @@ works:
     date: '2026-11-09'
     code: 694974
     url: /works/694974/
+  - title: Ganmen ga Sukisugiru Ishiwatari-san ga Konna ni Oni Seiyokuda nante Shiritaku
+      wa Nakatta
+    author: kozakura-kumaneko
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695264.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 695264
+    url: /works/695264/
 ---
