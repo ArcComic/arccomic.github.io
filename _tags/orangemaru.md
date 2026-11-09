@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "orangemaru"
-work_count: 2
+work_count: 3
 works:
   - title: FANTASY DIARY
     author: yd
@@ -17,4 +17,11 @@ works:
     date: '2026-09-22'
     code: 599778
     url: /works/599778/
+  - title: Takuhai Shoujo - Delivery Girl
+    author: jp06
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695224.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 695224
+    url: /works/695224/
 ---

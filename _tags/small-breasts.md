@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "small breasts"
-work_count: 60
+work_count: 61
 works:
   - title: FLUFFY LAUGH GIRL
     author: shibasaki-syouzi
@@ -442,4 +442,11 @@ works:
     date: '2026-11-08'
     code: 694921
     url: /works/694921/
+  - title: Takuhai Shoujo - Delivery Girl
+    author: jp06
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695224.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 695224
+    url: /works/695224/
 ---

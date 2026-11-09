@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "translated"
-work_count: 1936
+work_count: 1939
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -3434,6 +3434,14 @@ works:
     date: '2026-07-11'
     code: 538063
     url: /works/538063/
+  - title: Seiwayaki Kaa-san ni Doutei made Sewa Shitemoraimasu. | My Doting Mom Looks
+      After Me, Right through Virginity.
+    author: katano-chika
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/538070.jpg
+    rating: 4.2
+    date: '2026-11-09'
+    code: 538070
+    url: /works/538070/
   - title: Kannou no Triangle | Sensual Love Triangle
     author: sena-youtarou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/538176.jpg
@@ -14093,6 +14101,13 @@ works:
     date: '2026-10-28'
     code: 691671
     url: /works/691671/
+  - title: Even the chairman wants to do it, you know
+    author: signo-mandara
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/693913.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 693913
+    url: /works/693913/
   - title: I'll make fun of your feelings too! - Share your feelings!
     author: signo-mandara
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/693914.jpg
@@ -14225,6 +14240,13 @@ works:
     date: '2026-11-09'
     code: 694974
     url: /works/694974/
+  - title: Takuhai Shoujo - Delivery Girl
+    author: jp06
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695224.jpg
+    rating: 0.0
+    date: '2026-11-09'
+    code: 695224
+    url: /works/695224/
   - title: Hahaoya to Sex shita Kibun wa Dou? Sono 2 | How Does it Feel to have Sex
       with your Mom? Part 2
     author: temperature

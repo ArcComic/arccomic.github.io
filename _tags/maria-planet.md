@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "maria planet"
-work_count: 2
+work_count: 3
 works:
   - title: Mama to Musuko ga Mujintou de Love Love Sex suru Hanashi |  A Story of a
       Mom and Her Son's Lovemaking on a Uninhabited Island
@@ -11,6 +11,14 @@ works:
     date: '2026-11-08'
     code: 501315
     url: /works/501315/
+  - title: Seiwayaki Kaa-san ni Doutei made Sewa Shitemoraimasu. | My Doting Mom Looks
+      After Me, Right through Virginity.
+    author: katano-chika
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/538070.jpg
+    rating: 4.2
+    date: '2026-11-09'
+    code: 538070
+    url: /works/538070/
   - title: Saimin Mama, Warugaki Musuko to Issho!
     author: katano-chika
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/606648.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big breasts"
-work_count: 1356
+work_count: 1357
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -2058,6 +2058,14 @@ works:
     date: '2026-07-11'
     code: 538063
     url: /works/538063/
+  - title: Seiwayaki Kaa-san ni Doutei made Sewa Shitemoraimasu. | My Doting Mom Looks
+      After Me, Right through Virginity.
+    author: katano-chika
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/538070.jpg
+    rating: 4.2
+    date: '2026-11-09'
+    code: 538070
+    url: /works/538070/
   - title: Ane no Tomodachi to SeFri ni Natta | My Big Sister's Friends And I Became
       Sex Friends
     author: rinrikoko

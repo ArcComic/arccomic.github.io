@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "mosaic censorship"
-work_count: 374
+work_count: 375
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -746,6 +746,14 @@ works:
     date: '2026-08-20'
     code: 537794
     url: /works/537794/
+  - title: Seiwayaki Kaa-san ni Doutei made Sewa Shitemoraimasu. | My Doting Mom Looks
+      After Me, Right through Virginity.
+    author: katano-chika
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/538070.jpg
+    rating: 4.2
+    date: '2026-11-09'
+    code: 538070
+    url: /works/538070/
   - title: Ai wa Oshiminaku | Love is given without reservation
     author: yoshika
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/539377.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "incest"
-work_count: 362
+work_count: 363
 works:
   - title: Imitation Family + Bigibo Hen
     author: tohzai
@@ -593,6 +593,14 @@ works:
     date: '2026-08-25'
     code: 537490
     url: /works/537490/
+  - title: Seiwayaki Kaa-san ni Doutei made Sewa Shitemoraimasu. | My Doting Mom Looks
+      After Me, Right through Virginity.
+    author: katano-chika
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/538070.jpg
+    rating: 4.2
+    date: '2026-11-09'
+    code: 538070
+    url: /works/538070/
   - title: Kaa-san to Shitai Koto ~ Zetsurin Musuko to no Seikatsu Kaisou Hen | What
       I want to do with My Mother ~ Sex Life with My Son Who Has...
     author: saimon-k
