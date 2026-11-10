@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "shotacon"
-work_count: 165
+work_count: 166
 works:
   - title: Ikanishite Haha wa Onna o Kaihou Shitaka Ch. 1-14
     author: mitarai-yuuki
@@ -628,6 +628,13 @@ works:
     date: '2026-04-17'
     code: 644309
     url: /works/644309/
+  - title: Commonplace Sex ~The Daily Life of an Older Sister and Younger Brother~
+    author: mochichimaru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/644964.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 644964
+    url: /works/644964/
   - title: 'Moto Mahou Shoujo no Kazoku Banashi Tsuki 2 | Former Magical Girl''s Family
       Story: Tsuki 2'
     author: zhen-lu

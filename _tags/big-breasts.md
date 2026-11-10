@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big breasts"
-work_count: 1390
+work_count: 1391
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -1733,6 +1733,13 @@ works:
     date: '2026-04-17'
     code: 516164
     url: /works/516164/
+  - title: About the New President of the Disciplinary Committee's Huge Tits 2
+    author: try
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/516219.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 516219
+    url: /works/516219/
   - title: Onanie Supporter Hanako |  Handjob Helper Hanako
     author: inu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/517766.jpg

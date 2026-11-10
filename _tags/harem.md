@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "harem"
-work_count: 51
+work_count: 52
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -31,6 +31,13 @@ works:
     date: '2026-09-26'
     code: 400846
     url: /works/400846/
+  - title: About the New President of the Disciplinary Committee's Huge Tits 2
+    author: try
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/516219.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 516219
+    url: /works/516219/
   - title: Netorare x Off-Pako
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/534663.jpg

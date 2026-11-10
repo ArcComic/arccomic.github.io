@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "ponytail"
-work_count: 219
+work_count: 221
 works:
   - title: Ami Mami Mind 5
     author: tsurui
@@ -240,6 +240,13 @@ works:
     date: '2026-09-27'
     code: 513136
     url: /works/513136/
+  - title: About the New President of the Disciplinary Committee's Huge Tits 2
+    author: try
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/516219.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 516219
+    url: /works/516219/
   - title: Onanie Supporter Hanako |  Handjob Helper Hanako
     author: inu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/517766.jpg
@@ -647,6 +654,13 @@ works:
     date: '2026-04-21'
     code: 644924
     url: /works/644924/
+  - title: Commonplace Sex ~The Daily Life of an Older Sister and Younger Brother~
+    author: mochichimaru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/644964.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 644964
+    url: /works/644964/
   - title: Shuugaku Ryokou no Yoru Class no Idol Yowasete Oppai wo Nama Okazu ni Shiteyatta
       w | On the night of an excursion, we got the class idol drunk and jacked off to
       her nude titties lol

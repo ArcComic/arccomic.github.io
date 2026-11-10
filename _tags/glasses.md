@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "glasses"
-work_count: 329
+work_count: 330
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -612,6 +612,13 @@ works:
     date: '2026-11-10'
     code: 515994
     url: /works/515994/
+  - title: About the New President of the Disciplinary Committee's Huge Tits 2
+    author: try
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/516219.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 516219
+    url: /works/516219/
   - title: Kyoushi no Oba wa Himitsu no Bakunyuu Ero Cos Layer ~Iinari Gyaku Bunny &
       Sister Cos de Keiren Soku Iki Nakadashi Netori~ | My Teacher Aunt Is Secretly
       A Buxom Erotic Cosplayer

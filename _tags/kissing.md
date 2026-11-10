@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "kissing"
-work_count: 492
+work_count: 493
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -1738,6 +1738,13 @@ works:
     date: '2026-04-17'
     code: 644309
     url: /works/644309/
+  - title: Commonplace Sex ~The Daily Life of an Older Sister and Younger Brother~
+    author: mochichimaru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/644964.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 644964
+    url: /works/644964/
   - title: Class de Kakure Ninki no Hirose-san ga Guigui kuru! | Hirose-san, the class's
       secret crush, is making a bold move!
     author: bunapi-397-yen

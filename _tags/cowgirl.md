@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "cowgirl"
-work_count: 22
+work_count: 23
 works:
   - title: Homestay-chu no Doitsu Musume ga Issho ni Furo ni Haitte Kuru Wake | The
       Reason Why a German Girl Takes a Bath Together With Me on Her Homestay
@@ -11,6 +11,13 @@ works:
     date: '2026-08-22'
     code: 344851
     url: /works/344851/
+  - title: About the New President of the Disciplinary Committee's Huge Tits 2
+    author: try
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/516219.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 516219
+    url: /works/516219/
   - title: + (SEIKO AYASE VARIOUS) +
     author: st-mya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/555816.jpg

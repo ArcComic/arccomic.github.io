@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big areolae"
-work_count: 135
+work_count: 136
 works:
   - title: Toshoshitsu no Kanojo ~Seiso na Kimi ga Ochiru made~
     author: ame-arare
@@ -331,6 +331,13 @@ works:
     date: '2026-04-21'
     code: 644931
     url: /works/644931/
+  - title: Commonplace Sex ~The Daily Life of an Older Sister and Younger Brother~
+    author: mochichimaru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/644964.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 644964
+    url: /works/644964/
   - title: PowerHara Onna Joushi to Shachiku-kun 4
     author: kurosu-gatari
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/645264.jpg

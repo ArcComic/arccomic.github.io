@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "uncensored"
-work_count: 155
+work_count: 156
 works:
   - title: I'll be your cat
     author: napata
@@ -160,6 +160,13 @@ works:
     date: '2026-03-04'
     code: 508649
     url: /works/508649/
+  - title: About the New President of the Disciplinary Committee's Huge Tits 2
+    author: try
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/516219.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 516219
+    url: /works/516219/
   - title: Tarachime no Nikutsubo ~Yokkyu Fuman no Haha ga Inran Dekachichi Deliherujou
       datta node, Renzoku Nakadashi de Onaho ni Shitemita~
     author: ginen
