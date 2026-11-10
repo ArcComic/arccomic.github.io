@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "x-ray"
-work_count: 438
+work_count: 440
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -3045,6 +3045,13 @@ works:
     date: '2026-10-15'
     code: 687781
     url: /works/687781/
+  - title: Hahaoya To Ryokann | My Mother and the Japanese Inn
+    author: temperature
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688137.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 688137
+    url: /works/688137/
   - title: ZenZero Icha Love Ero Goudou "ZenEro" Vol.3
     author: ekakibit
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688293.jpg
@@ -3282,4 +3289,11 @@ works:
     date: '2026-11-10'
     code: 695588
     url: /works/695588/
+  - title: Daigaku jidai no sefure ga rinjin ni natta
+    author: muripoyo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695711.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 695711
+    url: /works/695711/
 ---

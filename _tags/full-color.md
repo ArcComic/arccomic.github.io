@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "full color"
-work_count: 298
+work_count: 299
 works:
   - title: Pai☆Panic ~Hasamareta Dekapai~
     author: inkey
@@ -2084,6 +2084,13 @@ works:
     date: '2026-10-15'
     code: 687557
     url: /works/687557/
+  - title: Hahaoya To Ryokann | My Mother and the Japanese Inn
+    author: temperature
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688137.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 688137
+    url: /works/688137/
   - title: Neteiru Okaa-san o Yaritai Houdai!
     author: natsume-benkei
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688473.jpg

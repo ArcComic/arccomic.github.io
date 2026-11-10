@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "ponytail"
-work_count: 222
+work_count: 223
 works:
   - title: Ami Mami Mind 5
     author: tsurui
@@ -1489,6 +1489,13 @@ works:
     date: '2026-10-15'
     code: 687770
     url: /works/687770/
+  - title: Hahaoya To Ryokann | My Mother and the Japanese Inn
+    author: temperature
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688137.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 688137
+    url: /works/688137/
   - title: Teisoutai-tsuki Chikubi Zeme to Gyaku Anal de Mesuochisaseru Nurse no Onee-san
       | Nurse Onee-san's Masochist Examination Test
     author: manjuuko-san

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "filming"
-work_count: 128
+work_count: 129
 works:
   - title: Ikanishite Haha wa Onna o Kaihou Shitaka Ch. 1-14
     author: mitarai-yuuki
@@ -948,4 +948,11 @@ works:
     date: '2026-11-09'
     code: 694885
     url: /works/694885/
+  - title: Daigaku jidai no sefure ga rinjin ni natta
+    author: muripoyo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695711.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 695711
+    url: /works/695711/
 ---

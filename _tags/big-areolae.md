@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big areolae"
-work_count: 138
+work_count: 139
 works:
   - title: Toshoshitsu no Kanojo ~Seiso na Kimi ga Ochiru made~
     author: ame-arare
@@ -1059,4 +1059,11 @@ works:
     date: '2026-11-10'
     code: 695588
     url: /works/695588/
+  - title: Daigaku jidai no sefure ga rinjin ni natta
+    author: muripoyo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695711.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 695711
+    url: /works/695711/
 ---

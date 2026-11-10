@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "collar"
-work_count: 127
+work_count: 128
 works:
   - title: Kaisha de Iroiro | Gettin' Busy at the Office
     author: hara-shigeyuki
@@ -935,6 +935,13 @@ works:
     date: '2026-11-09'
     code: 695224
     url: /works/695224/
+  - title: Gyu Shite Chuu | Hugs and Kisses For You
+    author: gurida-soumu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695576.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 695576
+    url: /works/695576/
   - title: The O◯H Story of the Timid Niece Who Only Warms Up to Me
     author: yamakonbu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695588.jpg

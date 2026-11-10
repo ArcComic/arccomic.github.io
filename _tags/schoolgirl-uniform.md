@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "schoolgirl uniform"
-work_count: 433
+work_count: 434
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -3206,6 +3206,13 @@ works:
     date: '2026-11-09'
     code: 695343
     url: /works/695343/
+  - title: Gyu Shite Chuu | Hugs and Kisses For You
+    author: gurida-soumu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695576.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 695576
+    url: /works/695576/
   - title: Ecchi na Omise ni Ittara, Mukashi no Doukyuusei ga Ita Hanashi
     author: mmchair
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695586.jpg

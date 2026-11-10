@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "kissing"
-work_count: 495
+work_count: 497
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -3707,6 +3707,13 @@ works:
     date: '2026-11-09'
     code: 695351
     url: /works/695351/
+  - title: Gyu Shite Chuu | Hugs and Kisses For You
+    author: gurida-soumu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695576.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 695576
+    url: /works/695576/
   - title: Ecchi na Omise ni Ittara, Mukashi no Doukyuusei ga Ita Hanashi
     author: mmchair
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695586.jpg
@@ -3721,4 +3728,11 @@ works:
     date: '2026-11-10'
     code: 695588
     url: /works/695588/
+  - title: Daigaku jidai no sefure ga rinjin ni natta
+    author: muripoyo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695711.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 695711
+    url: /works/695711/
 ---

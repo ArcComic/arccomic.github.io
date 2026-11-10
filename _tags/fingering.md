@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "fingering"
-work_count: 246
+work_count: 248
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -1612,6 +1612,13 @@ works:
     date: '2026-10-15'
     code: 687781
     url: /works/687781/
+  - title: Hahaoya To Ryokann | My Mother and the Japanese Inn
+    author: temperature
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688137.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 688137
+    url: /works/688137/
   - title: Steady Study Ch. 1-18
     author: yuumi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688163.jpg
@@ -1834,4 +1841,11 @@ works:
     date: '2026-11-10'
     code: 695586
     url: /works/695586/
+  - title: Daigaku jidai no sefure ga rinjin ni natta
+    author: muripoyo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695711.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 695711
+    url: /works/695711/
 ---

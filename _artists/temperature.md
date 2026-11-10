@@ -1,7 +1,7 @@
 ---
 layout: artist
 artist_name: "temperature"
-work_count: 3
+work_count: 4
 works:
   - title: Kaa-san Ichido de Iikara…！
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/655792.jpg
@@ -16,6 +16,12 @@ works:
     date: '2026-07-11'
     code: 663192
     url: /works/663192/
+  - title: Hahaoya To Ryokann | My Mother and the Japanese Inn
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688137.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 688137
+    url: /works/688137/
   - title: Hahaoya to Sex shita Kibun wa Dou? Sono 2 | How Does it Feel to have Sex
       with your Mom? Part 2
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695285.jpg

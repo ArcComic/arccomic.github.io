@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "paizuri"
-work_count: 294
+work_count: 295
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -2206,4 +2206,11 @@ works:
     date: '2026-11-09'
     code: 695225
     url: /works/695225/
+  - title: Gyu Shite Chuu | Hugs and Kisses For You
+    author: gurida-soumu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695576.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 695576
+    url: /works/695576/
 ---
