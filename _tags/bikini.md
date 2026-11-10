@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bikini"
-work_count: 103
+work_count: 104
 works:
   - title: Kizashi
     author: yoshiura-kazuya
@@ -596,6 +596,13 @@ works:
     date: '2026-09-13'
     code: 680991
     url: /works/680991/
+  - title: Tsuma ni Bikini o Kiseta nara | If I Made My Wife Wear A Bikini
+    author: dekamatsu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681255.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 681255
+    url: /works/681255/
   - title: Bocchi InCha na Kagemori-san Jitsu wa Hazukashigari no Dosukebe da to Shitteru
       no wa Ore Hitori - I'm the only one that knows the class loner Kagemori is actually
       a shy pervert | I’m the only one who knows that Kagemori-san—a loner and a wallflower—is

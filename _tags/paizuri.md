@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "paizuri"
-work_count: 295
+work_count: 296
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -2213,4 +2213,11 @@ works:
     date: '2026-11-10'
     code: 695576
     url: /works/695576/
+  - title: A Place Where I Can Shine | Kagayakeru Basho
+    author: tantanmen
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695639.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 695639
+    url: /works/695639/
 ---

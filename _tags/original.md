@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "original"
-work_count: 1381
+work_count: 1383
 works:
   - title: Gokuusu Mizugi de Okasaretagari ga Kakusenai
     author: kekemotsu
@@ -8175,6 +8175,13 @@ works:
     date: '2026-09-15'
     code: 681251
     url: /works/681251/
+  - title: Tsuma ni Bikini o Kiseta nara | If I Made My Wife Wear A Bikini
+    author: dekamatsu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681255.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 681255
+    url: /works/681255/
   - title: Osoku Umareta Kimi ga Warui - Blame It on Being Born Too Late
     author: tsukuyomi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681269.jpg
@@ -10283,6 +10290,13 @@ works:
     date: '2026-11-10'
     code: 695588
     url: /works/695588/
+  - title: A Place Where I Can Shine | Kagayakeru Basho
+    author: tantanmen
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695639.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 695639
+    url: /works/695639/
   - title: Daigaku jidai no sefure ga rinjin ni natta
     author: muripoyo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695711.jpg

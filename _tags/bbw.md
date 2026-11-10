@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bbw"
-work_count: 76
+work_count: 77
 works:
   - title: My Care Lady Ch. 1
     author: sugi-g
@@ -10,6 +10,13 @@ works:
     date: '2026-04-27'
     code: 139537
     url: /works/139537/
+  - title: Okki na Kanojo ni Amaetai | I want to be pampered by a girl of generous girth
+    author: higashino-mikan
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/142406.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 142406
+    url: /works/142406/
   - title: Ikanishite Haha wa Onna o Kaihou Shitaka Ch. 1-14
     author: mitarai-yuuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/157644.jpg

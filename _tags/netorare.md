@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "netorare"
-work_count: 510
+work_count: 511
 works:
   - title: Kousa suru Osu to Mesu | Male and Female Crossing
     author: ootsuka-kotora
@@ -3012,6 +3012,13 @@ works:
     date: '2026-09-13'
     code: 680971
     url: /works/680971/
+  - title: Tsuma ni Bikini o Kiseta nara | If I Made My Wife Wear A Bikini
+    author: dekamatsu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681255.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 681255
+    url: /works/681255/
   - title: Osoku Umareta Kimi ga Warui - Blame It on Being Born Too Late
     author: tsukuyomi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681269.jpg

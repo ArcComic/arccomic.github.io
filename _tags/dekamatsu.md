@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "dekamatsu"
-work_count: 2
+work_count: 3
 works:
   - title: My gentle and kind friend's mom was a slut who devoured young boys' cocks.
     author: dekamatsu
@@ -17,4 +17,11 @@ works:
     date: '2026-05-01'
     code: 647270
     url: /works/647270/
+  - title: Tsuma ni Bikini o Kiseta nara | If I Made My Wife Wear A Bikini
+    author: dekamatsu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681255.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 681255
+    url: /works/681255/
 ---

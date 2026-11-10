@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "cheating"
-work_count: 458
+work_count: 459
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -2797,6 +2797,13 @@ works:
     date: '2026-09-13'
     code: 681004
     url: /works/681004/
+  - title: Tsuma ni Bikini o Kiseta nara | If I Made My Wife Wear A Bikini
+    author: dekamatsu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681255.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 681255
+    url: /works/681255/
   - title: Himekawa-san no Saimin Kyoushitsu | Himekawa-san's Hypnosis Class
     author: takei-ooki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681361.jpg

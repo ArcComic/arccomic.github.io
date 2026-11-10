@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "translated"
-work_count: 1994
+work_count: 1997
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -108,6 +108,13 @@ works:
     date: '2026-04-27'
     code: 139537
     url: /works/139537/
+  - title: Okki na Kanojo ni Amaetai | I want to be pampered by a girl of generous girth
+    author: higashino-mikan
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/142406.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 142406
+    url: /works/142406/
   - title: HUNDRED GAME Ch. 1-3
     author: kuon-michiyoshi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/142561.jpg
@@ -11799,6 +11806,13 @@ works:
     date: '2026-09-15'
     code: 681251
     url: /works/681251/
+  - title: Tsuma ni Bikini o Kiseta nara | If I Made My Wife Wear A Bikini
+    author: dekamatsu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681255.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 681255
+    url: /works/681255/
   - title: Osoku Umareta Kimi ga Warui - Blame It on Being Born Too Late
     author: tsukuyomi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681269.jpg
@@ -14654,6 +14668,13 @@ works:
     date: '2026-11-10'
     code: 695588
     url: /works/695588/
+  - title: A Place Where I Can Shine | Kagayakeru Basho
+    author: tantanmen
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695639.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 695639
+    url: /works/695639/
   - title: Daigaku jidai no sefure ga rinjin ni natta
     author: muripoyo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695711.jpg

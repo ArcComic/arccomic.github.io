@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "schoolboy uniform"
-work_count: 135
+work_count: 136
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -10,6 +10,13 @@ works:
     date: '2026-10-09'
     code: 106821
     url: /works/106821/
+  - title: Okki na Kanojo ni Amaetai | I want to be pampered by a girl of generous girth
+    author: higashino-mikan
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/142406.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 142406
+    url: /works/142406/
   - title: Rin to P
     author: simon
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/143929.jpg

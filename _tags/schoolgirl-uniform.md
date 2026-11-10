@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "schoolgirl uniform"
-work_count: 434
+work_count: 435
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -17,6 +17,13 @@ works:
     date: '2026-10-09'
     code: 106821
     url: /works/106821/
+  - title: Okki na Kanojo ni Amaetai | I want to be pampered by a girl of generous girth
+    author: higashino-mikan
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/142406.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 142406
+    url: /works/142406/
   - title: Rin to P
     author: simon
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/143929.jpg

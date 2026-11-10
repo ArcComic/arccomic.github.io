@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "story arc"
-work_count: 253
+work_count: 254
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -1466,6 +1466,13 @@ works:
     date: '2026-09-13'
     code: 680720
     url: /works/680720/
+  - title: Tsuma ni Bikini o Kiseta nara | If I Made My Wife Wear A Bikini
+    author: dekamatsu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681255.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 681255
+    url: /works/681255/
   - title: Chigyuu InCha ga Imouto ni Tsurerare Shuugaku Ryokou JK Shikainai Daiyokujou
       de Geneki JK to Gomunashi 18P Harem Dairankou!! | A Loser Introvert Gets Dragged
       by His Little Sister to a School Trip Bathhouse With Nothing but High School Girls

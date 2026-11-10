@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big breasts"
-work_count: 1398
+work_count: 1401
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -38,6 +38,13 @@ works:
     date: '2026-04-27'
     code: 139537
     url: /works/139537/
+  - title: Okki na Kanojo ni Amaetai | I want to be pampered by a girl of generous girth
+    author: higashino-mikan
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/142406.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 142406
+    url: /works/142406/
   - title: Pai☆Panic ~Hasamareta Dekapai~
     author: inkey
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/143217.jpg
@@ -8196,6 +8203,13 @@ works:
     date: '2026-09-15'
     code: 681251
     url: /works/681251/
+  - title: Tsuma ni Bikini o Kiseta nara | If I Made My Wife Wear A Bikini
+    author: dekamatsu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681255.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 681255
+    url: /works/681255/
   - title: Chigyuu InCha ga Imouto ni Tsurerare Shuugaku Ryokou JK Shikainai Daiyokujou
       de Geneki JK to Gomunashi 18P Harem Dairankou!! | A Loser Introvert Gets Dragged
       by His Little Sister to a School Trip Bathhouse With Nothing but High School Girls
@@ -10343,6 +10357,13 @@ works:
     date: '2026-11-10'
     code: 695588
     url: /works/695588/
+  - title: A Place Where I Can Shine | Kagayakeru Basho
+    author: tantanmen
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695639.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 695639
+    url: /works/695639/
   - title: Daigaku jidai no sefure ga rinjin ni natta
     author: muripoyo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695711.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "milf"
-work_count: 558
+work_count: 559
 works:
   - title: Life with Married Women Just Like a Manga 2 - Ch. 1-5
     author: hidemaru
@@ -3376,6 +3376,13 @@ works:
     date: '2026-09-13'
     code: 681004
     url: /works/681004/
+  - title: Tsuma ni Bikini o Kiseta nara | If I Made My Wife Wear A Bikini
+    author: dekamatsu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681255.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 681255
+    url: /works/681255/
   - title: Momoiro Kikyou Ichi
     author: enma
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681308.jpg

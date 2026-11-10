@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "blowjob"
-work_count: 833
+work_count: 835
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -4961,6 +4961,13 @@ works:
     date: '2026-09-15'
     code: 681251
     url: /works/681251/
+  - title: Tsuma ni Bikini o Kiseta nara | If I Made My Wife Wear A Bikini
+    author: dekamatsu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681255.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 681255
+    url: /works/681255/
   - title: Chigyuu InCha ga Imouto ni Tsurerare Shuugaku Ryokou JK Shikainai Daiyokujou
       de Geneki JK to Gomunashi 18P Harem Dairankou!! | A Loser Introvert Gets Dragged
       by His Little Sister to a School Trip Bathhouse With Nothing but High School Girls
@@ -6175,6 +6182,13 @@ works:
     date: '2026-11-10'
     code: 695588
     url: /works/695588/
+  - title: A Place Where I Can Shine | Kagayakeru Basho
+    author: tantanmen
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695639.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 695639
+    url: /works/695639/
   - title: Daigaku jidai no sefure ga rinjin ni natta
     author: muripoyo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695711.jpg

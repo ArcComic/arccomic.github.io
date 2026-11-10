@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "pregnant"
-work_count: 73
+work_count: 74
 works:
   - title: Mama Naranai Onna-tachi Ch. 1-2
     author: otochichi
@@ -534,6 +534,13 @@ works:
     date: '2026-11-09'
     code: 695285
     url: /works/695285/
+  - title: A Place Where I Can Shine | Kagayakeru Basho
+    author: tantanmen
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695639.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 695639
+    url: /works/695639/
   - title: Daigaku jidai no sefure ga rinjin ni natta
     author: muripoyo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695711.jpg
