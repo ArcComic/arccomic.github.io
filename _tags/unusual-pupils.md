@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "unusual pupils"
-work_count: 104
+work_count: 105
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -13,7 +13,7 @@ works:
   - title: Gokuusu Mizugi de Okasaretagari ga Kakusenai
     author: kekemotsu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/232437.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-10'
     code: 232437
     url: /works/232437/
@@ -196,7 +196,7 @@ works:
       Lesson
     author: napo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/492689.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-11-10'
     code: 492689
     url: /works/492689/
@@ -215,6 +215,14 @@ works:
     date: '2026-09-29'
     code: 513981
     url: /works/513981/
+  - title: Shinchou 211cm no Jirai-kei Joshi ni Nerawarete Mou Nigerarenai | A 211cm
+      Tall Jirai-kei Girl Has Her Eyes on Me, and I Can't Escape♡
+    author: kinntarou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/524896.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 524896
+    url: /works/524896/
   - title: Anata no Shiori ni Naritai - I Just Want To Be Your Shiori
     author: naokomama
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/530476.jpg

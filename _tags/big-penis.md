@@ -309,7 +309,7 @@ works:
   - title: ZAKOMANKO GYARUTYANGA DERETA!?
     author: necro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/532469.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-11-10'
     code: 532469
     url: /works/532469/
@@ -999,7 +999,7 @@ works:
   - title: Kaa-san ga Nuite Ageru | Let mommy take care of that for you
     author: ntrman
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/647208.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-11-10'
     code: 647208
     url: /works/647208/
@@ -2444,7 +2444,7 @@ works:
   - title: The O◯H Story of the Timid Niece Who Only Warms Up to Me
     author: yamakonbu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695588.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-11-10'
     code: 695588
     url: /works/695588/

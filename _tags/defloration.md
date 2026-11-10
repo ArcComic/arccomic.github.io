@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "defloration"
-work_count: 289
+work_count: 290
 works:
   - title: Imitation Family + Bigibo Hen
     author: tohzai
@@ -1910,7 +1910,7 @@ works:
       A sadistic stepsister and masochistic childhood friend!
     author: darunekohanten
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683027.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-11-10'
     code: 683027
     url: /works/683027/
@@ -2106,6 +2106,14 @@ works:
     date: '2026-10-29'
     code: 689170
     url: /works/689170/
+  - title: Fuuki Iinchou (Kyonyuu) wa Sekkyokuteki｜The (Busty) Disciplinary Committee
+      President Takes the Lead
+    author: enishi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691590.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 691590
+    url: /works/691590/
   - title: Asuna OVERLOAD OVERCOME
     author: akashiro-kiiro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691660.jpg
@@ -2138,7 +2146,7 @@ works:
   - title: The O◯H Story of the Timid Niece Who Only Warms Up to Me
     author: yamakonbu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695588.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-11-10'
     code: 695588
     url: /works/695588/

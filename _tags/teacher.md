@@ -20,7 +20,7 @@ works:
   - title: Gokuusu Mizugi de Okasaretagari ga Kakusenai
     author: kekemotsu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/232437.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-10'
     code: 232437
     url: /works/232437/
@@ -146,7 +146,7 @@ works:
       Lesson
     author: napo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/492689.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-11-10'
     code: 492689
     url: /works/492689/

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "wholesome"
-work_count: 234
+work_count: 235
 works:
   - title: FLUFFY LAUGH GIRL
     author: shibasaki-syouzi
@@ -619,7 +619,7 @@ works:
       or White
     author: inukami-inoji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/589792.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-11-10'
     code: 589792
     url: /works/589792/
@@ -1748,6 +1748,14 @@ works:
     date: '2026-10-26'
     code: 690570
     url: /works/690570/
+  - title: Fuuki Iinchou (Kyonyuu) wa Sekkyokuteki｜The (Busty) Disciplinary Committee
+      President Takes the Lead
+    author: enishi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691590.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 691590
+    url: /works/691590/
   - title: Ano Toki no Sekinin Totte...Nii-san / Do you remember our secret game, Onii-chan?
     author: dochashiko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694921.jpg

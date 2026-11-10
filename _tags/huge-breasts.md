@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "huge breasts"
-work_count: 140
+work_count: 141
 works:
   - title: Mama Naranai Onna-tachi Ch. 1-2
     author: otochichi
@@ -971,6 +971,14 @@ works:
     date: '2026-10-26'
     code: 690874
     url: /works/690874/
+  - title: Fuuki Iinchou (Kyonyuu) wa Sekkyokuteki｜The (Busty) Disciplinary Committee
+      President Takes the Lead
+    author: enishi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691590.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 691590
+    url: /works/691590/
   - title: Kinpatsu Kyonyuu Ani-Wota Ryuugakusei Chorosugi www | The Blonde, Busty Anime-Otaku
       International Student Is Way Too Easy to Get Laid, lol
     author: misaki
@@ -1051,7 +1059,7 @@ works:
   - title: The O◯H Story of the Timid Niece Who Only Warms Up to Me
     author: yamakonbu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695588.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-11-10'
     code: 695588
     url: /works/695588/

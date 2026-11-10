@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "prostate massage"
-work_count: 25
+work_count: 26
 works:
   - title: Yuri no o saifu ni shite agemasu ne, Senpai | I'll turn you into Yuri's wallet,
       Senpai
@@ -48,6 +48,14 @@ works:
     date: '2026-08-31'
     code: 494172
     url: /works/494172/
+  - title: Shinchou 211cm no Jirai-kei Joshi ni Nerawarete Mou Nigerarenai | A 211cm
+      Tall Jirai-kei Girl Has Her Eyes on Me, and I Can't Escape♡
+    author: kinntarou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/524896.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 524896
+    url: /works/524896/
   - title: Ore wa Yome ni Sakaraenai... Seiheki o Nigirareteiru | I Can't Say No To
       My Wife... She's Got Me By The Balls!
     author: inu

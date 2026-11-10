@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "schoolboy uniform"
-work_count: 133
+work_count: 134
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -253,7 +253,7 @@ works:
   - title: Kurimaro
     author: hogeramu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/515994.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-11-10'
     code: 515994
     url: /works/515994/
@@ -939,6 +939,14 @@ works:
     date: '2026-10-29'
     code: 691558
     url: /works/691558/
+  - title: Fuuki Iinchou (Kyonyuu) wa Sekkyokuteki｜The (Busty) Disciplinary Committee
+      President Takes the Lead
+    author: enishi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691590.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 691590
+    url: /works/691590/
   - title: Making a Harem of the Three Bitchy Gal Sisters - All Chapters + Bonus
     author: zonda
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694670.jpg

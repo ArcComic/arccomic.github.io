@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sex toys"
-work_count: 155
+work_count: 156
 works:
   - title: Mama Naranai Onna-tachi Ch. 1-2
     author: otochichi
@@ -129,7 +129,7 @@ works:
       Lesson
     author: napo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/492689.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-11-10'
     code: 492689
     url: /works/492689/
@@ -337,7 +337,7 @@ works:
       ni Osoi ni Kuru Hanashi~
     author: kuroshiba-suko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/608450.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-11-10'
     code: 608450
     url: /works/608450/
@@ -544,7 +544,7 @@ works:
   - title: My Doggy-Like Boyfriend Becomes My Master At Night
     author: izumi-uni
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/646234.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-11-10'
     code: 646234
     url: /works/646234/
@@ -1094,6 +1094,14 @@ works:
     date: '2026-10-29'
     code: 691454
     url: /works/691454/
+  - title: Fuuki Iinchou (Kyonyuu) wa Sekkyokuteki｜The (Busty) Disciplinary Committee
+      President Takes the Lead
+    author: enishi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691590.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 691590
+    url: /works/691590/
   - title: FUCK MATCH ~Haiboku! Takane no Manko~
     author: nakajima-uota
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691651.jpg

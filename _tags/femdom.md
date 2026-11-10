@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "femdom"
-work_count: 226
+work_count: 227
 works:
   - title: Life with Married Women Just Like a Manga 2 - Ch. 1-5
     author: hidemaru
@@ -235,7 +235,7 @@ works:
   - title: Shizukasu Utopia
     author: napo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/420026.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-11-10'
     code: 420026
     url: /works/420026/
@@ -295,7 +295,7 @@ works:
   - title: Koi no Gunfight Love Steal
     author: napo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/460241.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-11-10'
     code: 460241
     url: /works/460241/
@@ -388,6 +388,14 @@ works:
     date: '2026-09-12'
     code: 524436
     url: /works/524436/
+  - title: Shinchou 211cm no Jirai-kei Joshi ni Nerawarete Mou Nigerarenai | A 211cm
+      Tall Jirai-kei Girl Has Her Eyes on Me, and I Can't Escape♡
+    author: kinntarou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/524896.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 524896
+    url: /works/524896/
   - title: Seijun-ha Joyu Mikage-san no Otonanoomocha | Innocent Style Actress Mikage's
       Adult Toy
     author: unknown
@@ -575,7 +583,7 @@ works:
   - title: TS Onii-chan ga Futanari Imouto ni Mesuochi Saserareru Hanashi
     author: kuroshiba-suko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/627260.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-11-10'
     code: 627260
     url: /works/627260/

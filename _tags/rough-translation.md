@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "rough translation"
-work_count: 797
+work_count: 798
 works:
   - title: Boku no Shiranai Kimi no Kao
     author: utsutsu-minoru
@@ -106,7 +106,7 @@ works:
       Best Friend Who NTR'd Me
     author: kuroshiba-suko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/511388.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-11-10'
     code: 511388
     url: /works/511388/
@@ -303,7 +303,7 @@ works:
   - title: ZAKOMANKO GYARUTYANGA DERETA!?
     author: necro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/532469.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-11-10'
     code: 532469
     url: /works/532469/
@@ -2327,6 +2327,13 @@ works:
     date: '2026-09-30'
     code: 655660
     url: /works/655660/
+  - title: Kaa-san Ichido de Iikara…！
+    author: temperature
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/655792.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 655792
+    url: /works/655792/
   - title: 'Tall, Tanned, Tomboyish! Nagisa-chan 3 — Since Pregnant Nagisa-chan Can''t
       Do It, Nagisa''s Hairy Mama Takes Care of the Sexual Relief: Sex Edition'
     author: ishikarian
@@ -4721,7 +4728,7 @@ works:
       A sadistic stepsister and masochistic childhood friend!
     author: darunekohanten
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683027.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-11-10'
     code: 683027
     url: /works/683027/
@@ -5836,7 +5843,7 @@ works:
   - title: The O◯H Story of the Timid Niece Who Only Warms Up to Me
     author: yamakonbu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695588.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-11-10'
     code: 695588
     url: /works/695588/

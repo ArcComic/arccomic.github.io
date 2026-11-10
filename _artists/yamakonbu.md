@@ -19,7 +19,7 @@ works:
     url: /works/620544/
   - title: The O◯H Story of the Timid Niece Who Only Warms Up to Me
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695588.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-11-10'
     code: 695588
     url: /works/695588/

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "jirai kei"
-work_count: 11
+work_count: 12
 works:
   - title: Mecha Eroi kedo Sasoi ni Nottara Hametsushisou na Ko | A Girl Who Is Very
       Sexy But Will Ruin Me If I Ask Her Out
@@ -20,6 +20,14 @@ works:
     date: '2026-10-20'
     code: 500511
     url: /works/500511/
+  - title: Shinchou 211cm no Jirai-kei Joshi ni Nerawarete Mou Nigerarenai | A 211cm
+      Tall Jirai-kei Girl Has Her Eyes on Me, and I Can't Escape♡
+    author: kinntarou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/524896.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 524896
+    url: /works/524896/
   - title: Boku no Kimochi o Mote Asobu Doutei Kari Onee-san ni Shiboraremakuru Hanashi  |
       The Story of When a Virgin-Hunter Lady Played with My Feelings and Sucked Me Dry
     author: menbou

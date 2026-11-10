@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "painted nails"
-work_count: 55
+work_count: 56
 works:
   - title: Rakki Taishyaku
     author: fushoku
@@ -31,6 +31,14 @@ works:
     date: '2026-08-25'
     code: 512473
     url: /works/512473/
+  - title: Shinchou 211cm no Jirai-kei Joshi ni Nerawarete Mou Nigerarenai | A 211cm
+      Tall Jirai-kei Girl Has Her Eyes on Me, and I Can't Escape♡
+    author: kinntarou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/524896.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 524896
+    url: /works/524896/
   - title: Kaientojou
     author: fushoku
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/525330.jpg

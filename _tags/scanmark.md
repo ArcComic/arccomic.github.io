@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "scanmark"
-work_count: 279
+work_count: 280
 works:
   - title: NTR Anniversary + ) [Syukurin] Mitsuha ~Netorare~ (Kimi no Na wa.) [English]
       [Colorized] by Mikaku
@@ -494,7 +494,7 @@ works:
   - title: My Doggy-Like Boyfriend Becomes My Master At Night
     author: izumi-uni
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/646234.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-11-10'
     code: 646234
     url: /works/646234/
@@ -718,6 +718,13 @@ works:
     date: '2026-10-30'
     code: 655549
     url: /works/655549/
+  - title: Kaa-san Ichido de Iikara…！
+    author: temperature
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/655792.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 655792
+    url: /works/655792/
   - title: Jitsubo Kan ~Gifu no Inai Suki ni Jitsu no Haha o Muriyari Okashite Haramaeta
     author: louis-and-visee
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/656034.jpg

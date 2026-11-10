@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "leotard"
-work_count: 16
+work_count: 17
 works:
   - title: Dame na Otoko ni Yasashii Elf Manga | A Manga About a Hopeless Man Who Has
       Sex With a Kind Elf
@@ -45,7 +45,7 @@ works:
       or White
     author: inukami-inoji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/589792.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-11-10'
     code: 589792
     url: /works/589792/
@@ -114,6 +114,14 @@ works:
     date: '2026-10-30'
     code: 691445
     url: /works/691445/
+  - title: Fuuki Iinchou (Kyonyuu) wa Sekkyokuteki｜The (Busty) Disciplinary Committee
+      President Takes the Lead
+    author: enishi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691590.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 691590
+    url: /works/691590/
   - title: FUCK MATCH ~Haiboku! Takane no Manko~
     author: nakajima-uota
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691651.jpg

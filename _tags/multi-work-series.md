@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "multi-work series"
-work_count: 478
+work_count: 479
 works:
   - title: Konna ni mo Itooshii Zero
     author: nohito
@@ -660,6 +660,14 @@ works:
     date: '2026-10-07'
     code: 524736
     url: /works/524736/
+  - title: Shinchou 211cm no Jirai-kei Joshi ni Nerawarete Mou Nigerarenai | A 211cm
+      Tall Jirai-kei Girl Has Her Eyes on Me, and I Can't Escape♡
+    author: kinntarou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/524896.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 524896
+    url: /works/524896/
   - title: Tsugunai Tsuma 1
     author: ren-suru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/526024.jpg
@@ -1093,7 +1101,7 @@ works:
       or White
     author: inukami-inoji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/589792.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-11-10'
     code: 589792
     url: /works/589792/
@@ -1254,7 +1262,7 @@ works:
       ni Osoi ni Kuru Hanashi~
     author: kuroshiba-suko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/608450.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-11-10'
     code: 608450
     url: /works/608450/
@@ -1405,7 +1413,7 @@ works:
   - title: TS Onii-chan ga Futanari Imouto ni Mesuochi Saserareru Hanashi
     author: kuroshiba-suko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/627260.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-11-10'
     code: 627260
     url: /works/627260/

@@ -5,7 +5,7 @@ work_count: 5
 works:
   - title: Sakusei Kaitori Service | Sperm Buying Service
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/392556.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-11-10'
     code: 392556
     url: /works/392556/

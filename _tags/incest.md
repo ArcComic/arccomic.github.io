@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "incest"
-work_count: 371
+work_count: 372
 works:
   - title: Imitation Family + Bigibo Hen
     author: tohzai
@@ -925,7 +925,7 @@ works:
       ni Osoi ni Kuru Hanashi~
     author: kuroshiba-suko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/608450.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-11-10'
     code: 608450
     url: /works/608450/
@@ -1056,7 +1056,7 @@ works:
   - title: TS Onii-chan ga Futanari Imouto ni Mesuochi Saserareru Hanashi
     author: kuroshiba-suko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/627260.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-11-10'
     code: 627260
     url: /works/627260/
@@ -1373,7 +1373,7 @@ works:
   - title: Kaa-san ga Nuite Ageru | Let mommy take care of that for you
     author: ntrman
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/647208.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-11-10'
     code: 647208
     url: /works/647208/
@@ -1594,6 +1594,13 @@ works:
     date: '2026-10-30'
     code: 655549
     url: /works/655549/
+  - title: Kaa-san Ichido de Iikara…！
+    author: temperature
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/655792.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 655792
+    url: /works/655792/
   - title: Jitsubo Kan ~Gifu no Inai Suki ni Jitsu no Haha o Muriyari Okashite Haramaeta
     author: louis-and-visee
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/656034.jpg
@@ -2338,7 +2345,7 @@ works:
       A sadistic stepsister and masochistic childhood friend!
     author: darunekohanten
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683027.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-11-10'
     code: 683027
     url: /works/683027/

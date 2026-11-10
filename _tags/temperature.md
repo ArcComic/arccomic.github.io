@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "temperature"
-work_count: 4
+work_count: 5
 works:
   - title: Kaa-san to Sex Shita Mikkakan | Three Days of Sex with My Mom
     author: unknown
@@ -13,10 +13,17 @@ works:
   - title: Kaa-san ga Nuite Ageru | Let mommy take care of that for you
     author: ntrman
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/647208.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-11-10'
     code: 647208
     url: /works/647208/
+  - title: Kaa-san Ichido de Iikara…！
+    author: temperature
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/655792.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 655792
+    url: /works/655792/
   - title: Hahaoya to Sex Shita Kibun wa Dou? | How Does it Feel to have Sex with your
       Mom?
     author: temperature

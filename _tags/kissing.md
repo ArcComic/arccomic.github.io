@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "kissing"
-work_count: 491
+work_count: 492
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -580,6 +580,14 @@ works:
     date: '2026-09-12'
     code: 524436
     url: /works/524436/
+  - title: Shinchou 211cm no Jirai-kei Joshi ni Nerawarete Mou Nigerarenai | A 211cm
+      Tall Jirai-kei Girl Has Her Eyes on Me, and I Can't Escape♡
+    author: kinntarou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/524896.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 524896
+    url: /works/524896/
   - title: Kaientojou
     author: fushoku
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/525330.jpg
@@ -680,7 +688,7 @@ works:
   - title: ZAKOMANKO GYARUTYANGA DERETA!?
     author: necro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/532469.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-11-10'
     code: 532469
     url: /works/532469/
@@ -1136,7 +1144,7 @@ works:
       ni Osoi ni Kuru Hanashi~
     author: kuroshiba-suko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/608450.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-11-10'
     code: 608450
     url: /works/608450/
@@ -1341,7 +1349,7 @@ works:
   - title: Hanagasa YuShizu Soushuuhen
     author: orihi-chihiro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/629945.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-11-10'
     code: 629945
     url: /works/629945/
@@ -2962,7 +2970,7 @@ works:
       A sadistic stepsister and masochistic childhood friend!
     author: darunekohanten
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683027.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-11-10'
     code: 683027
     url: /works/683027/
@@ -3688,7 +3696,7 @@ works:
   - title: The O◯H Story of the Timid Niece Who Only Warms Up to Me
     author: yamakonbu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695588.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-11-10'
     code: 695588
     url: /works/695588/

@@ -287,7 +287,7 @@ works:
   - title: TS Onii-chan ga Futanari Imouto ni Mesuochi Saserareru Hanashi
     author: kuroshiba-suko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/627260.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-11-10'
     code: 627260
     url: /works/627260/
@@ -760,7 +760,7 @@ works:
       A sadistic stepsister and masochistic childhood friend!
     author: darunekohanten
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683027.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-11-10'
     code: 683027
     url: /works/683027/

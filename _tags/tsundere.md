@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "tsundere"
-work_count: 32
+work_count: 33
 works:
   - title: Nibun no Yuudou | Half Seduction
     author: chicke-iii
@@ -244,4 +244,12 @@ works:
     date: '2026-10-01'
     code: 685147
     url: /works/685147/
+  - title: Fuuki Iinchou (Kyonyuu) wa Sekkyokuteki｜The (Busty) Disciplinary Committee
+      President Takes the Lead
+    author: enishi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691590.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 691590
+    url: /works/691590/
 ---

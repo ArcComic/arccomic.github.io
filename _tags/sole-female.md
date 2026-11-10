@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole female"
-work_count: 1215
+work_count: 1217
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -146,7 +146,7 @@ works:
   - title: Gokuusu Mizugi de Okasaretagari ga Kakusenai
     author: kekemotsu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/232437.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-10'
     code: 232437
     url: /works/232437/
@@ -544,7 +544,7 @@ works:
   - title: Hug yori Motto Sugoi Koto | Something Much Better Than a Hug
     author: napo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/331115.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-11-10'
     code: 331115
     url: /works/331115/
@@ -1759,7 +1759,7 @@ works:
       Lesson
     author: napo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/492689.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-11-10'
     code: 492689
     url: /works/492689/
@@ -2018,7 +2018,7 @@ works:
       Best Friend Who NTR'd Me
     author: kuroshiba-suko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/511388.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-11-10'
     code: 511388
     url: /works/511388/
@@ -2076,7 +2076,7 @@ works:
   - title: Kurimaro
     author: hogeramu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/515994.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-11-10'
     code: 515994
     url: /works/515994/
@@ -2215,6 +2215,14 @@ works:
     date: '2026-10-07'
     code: 524736
     url: /works/524736/
+  - title: Shinchou 211cm no Jirai-kei Joshi ni Nerawarete Mou Nigerarenai | A 211cm
+      Tall Jirai-kei Girl Has Her Eyes on Me, and I Can't Escape♡
+    author: kinntarou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/524896.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 524896
+    url: /works/524896/
   - title: Shuuden Deisui Anken
     author: uds
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/525085.jpg
@@ -2331,7 +2339,7 @@ works:
   - title: ZAKOMANKO GYARUTYANGA DERETA!?
     author: necro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/532469.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-11-10'
     code: 532469
     url: /works/532469/
@@ -3190,7 +3198,7 @@ works:
       or White
     author: inukami-inoji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/589792.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-11-10'
     code: 589792
     url: /works/589792/
@@ -3554,7 +3562,7 @@ works:
       ni Osoi ni Kuru Hanashi~
     author: kuroshiba-suko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/608450.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-11-10'
     code: 608450
     url: /works/608450/
@@ -3829,7 +3837,7 @@ works:
   - title: TS Onii-chan ga Futanari Imouto ni Mesuochi Saserareru Hanashi
     author: kuroshiba-suko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/627260.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-11-10'
     code: 627260
     url: /works/627260/
@@ -3874,7 +3882,7 @@ works:
   - title: Hanagasa YuShizu Soushuuhen
     author: orihi-chihiro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/629945.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-11-10'
     code: 629945
     url: /works/629945/
@@ -4783,7 +4791,7 @@ works:
   - title: My Doggy-Like Boyfriend Becomes My Master At Night
     author: izumi-uni
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/646234.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-11-10'
     code: 646234
     url: /works/646234/
@@ -4850,7 +4858,7 @@ works:
   - title: Kaa-san ga Nuite Ageru | Let mommy take care of that for you
     author: ntrman
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/647208.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-11-10'
     code: 647208
     url: /works/647208/
@@ -8813,6 +8821,14 @@ works:
     date: '2026-10-29'
     code: 691562
     url: /works/691562/
+  - title: Fuuki Iinchou (Kyonyuu) wa Sekkyokuteki｜The (Busty) Disciplinary Committee
+      President Takes the Lead
+    author: enishi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691590.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 691590
+    url: /works/691590/
   - title: The Fox God Who Knows Not of Love | Kitsune Kami-sama wa Ai o Shiranai
     author: shinozuka
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691624.jpg
@@ -8998,7 +9014,7 @@ works:
   - title: The O◯H Story of the Timid Niece Who Only Warms Up to Me
     author: yamakonbu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695588.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-11-10'
     code: 695588
     url: /works/695588/

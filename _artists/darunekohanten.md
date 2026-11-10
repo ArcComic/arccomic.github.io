@@ -13,7 +13,7 @@ works:
   - title: Ouchi Harem!? S-kki no Gimai to M-kki no Osananajimi! | A harem at home!?
       A sadistic stepsister and masochistic childhood friend!
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683027.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-11-10'
     code: 683027
     url: /works/683027/

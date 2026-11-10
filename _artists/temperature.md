@@ -1,8 +1,14 @@
 ---
 layout: artist
 artist_name: "temperature"
-work_count: 2
+work_count: 3
 works:
+  - title: Kaa-san Ichido de Iikara…！
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/655792.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 655792
+    url: /works/655792/
   - title: Hahaoya to Sex Shita Kibun wa Dou? | How Does it Feel to have Sex with your
       Mom?
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/663192.jpg

@@ -13,7 +13,7 @@ works:
   - title: Hug yori Motto Sugoi Koto | Something Much Better Than a Hug
     author: napo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/331115.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-11-10'
     code: 331115
     url: /works/331115/
@@ -21,7 +21,7 @@ works:
       Lesson
     author: napo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/492689.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-11-10'
     code: 492689
     url: /works/492689/
