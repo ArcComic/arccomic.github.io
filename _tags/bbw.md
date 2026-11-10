@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bbw"
-work_count: 75
+work_count: 76
 works:
   - title: My Care Lady Ch. 1
     author: sugi-g
@@ -181,6 +181,14 @@ works:
     date: '2026-05-07'
     code: 610017
     url: /works/610017/
+  - title: Maso Mesu Rinjin Onahozuma ~Saikai Shita Moto SeFri o Dekachin de Saikyouiku
+      suru Hanashi~
+    author: onamae
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/614140.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 614140
+    url: /works/614140/
   - title: I have a secret relationship with my grandmother, without my mother knowing...
       ♡
     author: popotto-denki-ichigouten

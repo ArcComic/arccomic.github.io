@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "translated"
-work_count: 1988
+work_count: 1991
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -2165,6 +2165,14 @@ works:
     date: '2026-09-30'
     code: 466685
     url: /works/466685/
+  - title: Ikiiki Dasshutsu Game with Chou Chirou Oji-san | Lively Escape Game with
+      Super Late Ejaculation Ojisan
+    author: minegami-aya
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/467602.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 467602
+    url: /works/467602/
   - title: Tempt & Throb
     author: mushihara
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/468655.jpg
@@ -3404,6 +3412,13 @@ works:
     date: '2026-02-26'
     code: 533325
     url: /works/533325/
+  - title: Chounai Furin ~Yumi~ | Neighborhood Affair ~Yumi~
+    author: kaniguruma
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/534179.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 534179
+    url: /works/534179/
   - title: '"Sex no Benkyou Shiyokka?" Kareshi ga Iru no ni Itoko kara Shojo wo Ubaware
       Zecchou Shidou 1-5 | Let''s Learn About Sex: Your Cousin Will Take Your Virginity
       and Teach You How to Come 1-5'
@@ -5394,6 +5409,14 @@ works:
     date: '2026-10-09'
     code: 614032
     url: /works/614032/
+  - title: Maso Mesu Rinjin Onahozuma ~Saikai Shita Moto SeFri o Dekachin de Saikyouiku
+      suru Hanashi~
+    author: onamae
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/614140.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 614140
+    url: /works/614140/
   - title: Onna Tomodachi Futari to Perochuu suru Hanashi | A Story About Kissing 2
       Female Friends
     author: mmchair

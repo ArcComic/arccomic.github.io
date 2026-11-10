@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bald"
-work_count: 90
+work_count: 91
 works:
   - title: Overwrite
     author: ojo
@@ -67,6 +67,14 @@ works:
     date: '2026-04-19'
     code: 453749
     url: /works/453749/
+  - title: Ikiiki Dasshutsu Game with Chou Chirou Oji-san | Lively Escape Game with
+      Super Late Ejaculation Ojisan
+    author: minegami-aya
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/467602.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 467602
+    url: /works/467602/
   - title: Toshoshitsu no Kanojo 6 ~Onna Kyoushi ga Ochiru made (Kouhen)~
     author: ame-arare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/474458.jpg

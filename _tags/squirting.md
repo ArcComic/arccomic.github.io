@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "squirting"
-work_count: 196
+work_count: 197
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -437,6 +437,14 @@ works:
     date: '2026-09-11'
     code: 612063
     url: /works/612063/
+  - title: Maso Mesu Rinjin Onahozuma ~Saikai Shita Moto SeFri o Dekachin de Saikyouiku
+      suru Hanashi~
+    author: onamae
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/614140.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 614140
+    url: /works/614140/
   - title: Eroi Koto Igai de Toki o Tomete wa Dame desu yo 2
     author: ohkura-kazuya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/615835.jpg

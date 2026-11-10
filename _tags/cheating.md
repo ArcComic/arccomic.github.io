@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "cheating"
-work_count: 455
+work_count: 457
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -989,6 +989,13 @@ works:
     date: '2026-04-19'
     code: 531313
     url: /works/531313/
+  - title: Chounai Furin ~Yumi~ | Neighborhood Affair ~Yumi~
+    author: kaniguruma
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/534179.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 534179
+    url: /works/534179/
   - title: '"Sex no Benkyou Shiyokka?" Kareshi ga Iru no ni Itoko kara Shojo wo Ubaware
       Zecchou Shidou 1-5 | Let''s Learn About Sex: Your Cousin Will Take Your Virginity
       and Teach You How to Come 1-5'
@@ -1519,6 +1526,14 @@ works:
     date: '2026-10-09'
     code: 614032
     url: /works/614032/
+  - title: Maso Mesu Rinjin Onahozuma ~Saikai Shita Moto SeFri o Dekachin de Saikyouiku
+      suru Hanashi~
+    author: onamae
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/614140.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 614140
+    url: /works/614140/
   - title: Nishida Ke no Himegoto | Nishida Family Secret 1-3
     author: kojima-miu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/614205.jpg

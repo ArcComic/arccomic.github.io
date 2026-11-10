@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "condom"
-work_count: 267
+work_count: 268
 works:
   - title: Kaisha de Iroiro | Gettin' Busy at the Office
     author: hara-shigeyuki
@@ -891,6 +891,14 @@ works:
     date: '2026-09-30'
     code: 612425
     url: /works/612425/
+  - title: Maso Mesu Rinjin Onahozuma ~Saikai Shita Moto SeFri o Dekachin de Saikyouiku
+      suru Hanashi~
+    author: onamae
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/614140.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 614140
+    url: /works/614140/
   - title: Rikujoubu no Bokukko Doukyuusei ga Chuunen Komon ni Mesu ni Sareru Ichibu
       Shijuu
     author: marushin

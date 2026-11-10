@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "nakadashi"
-work_count: 1061
+work_count: 1064
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -1043,6 +1043,14 @@ works:
     date: '2026-09-30'
     code: 466685
     url: /works/466685/
+  - title: Ikiiki Dasshutsu Game with Chou Chirou Oji-san | Lively Escape Game with
+      Super Late Ejaculation Ojisan
+    author: minegami-aya
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/467602.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 467602
+    url: /works/467602/
   - title: Uchi de wa Kazoku Sex wa Joushiki Rashii | In My House, Family Sex Is the
       Norm
     author: group
@@ -1750,6 +1758,13 @@ works:
     date: '2026-02-26'
     code: 533325
     url: /works/533325/
+  - title: Chounai Furin ~Yumi~ | Neighborhood Affair ~Yumi~
+    author: kaniguruma
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/534179.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 534179
+    url: /works/534179/
   - title: Jimi Kyonyuu No Stalker Onna Ni Gokuhaku Saretanode Yarimakutte Mita Hanashi
       2 | I Was Confessed To By A Plain Busty Stalker Girl, So I Fucked Her Like Crazy
       2
@@ -2893,6 +2908,14 @@ works:
     date: '2026-10-09'
     code: 614032
     url: /works/614032/
+  - title: Maso Mesu Rinjin Onahozuma ~Saikai Shita Moto SeFri o Dekachin de Saikyouiku
+      suru Hanashi~
+    author: onamae
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/614140.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 614140
+    url: /works/614140/
   - title: Nishida Ke no Himegoto | Nishida Family Secret 1-3
     author: kojima-miu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/614205.jpg

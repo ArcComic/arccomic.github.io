@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "lingerie"
-work_count: 124
+work_count: 125
 works:
   - title: My Care Lady Ch. 1
     author: sugi-g
@@ -146,6 +146,14 @@ works:
     date: '2026-11-10'
     code: 460241
     url: /works/460241/
+  - title: Ikiiki Dasshutsu Game with Chou Chirou Oji-san | Lively Escape Game with
+      Super Late Ejaculation Ojisan
+    author: minegami-aya
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/467602.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 467602
+    url: /works/467602/
   - title: Asunama 9
     author: ken-1
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/477784.jpg

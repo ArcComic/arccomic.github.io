@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "hairy"
-work_count: 395
+work_count: 396
 works:
   - title: MAGIC SEVEN
     author: asuhiro
@@ -798,6 +798,13 @@ works:
     date: '2026-02-26'
     code: 533325
     url: /works/533325/
+  - title: Chounai Furin ~Yumi~ | Neighborhood Affair ~Yumi~
+    author: kaniguruma
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/534179.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 534179
+    url: /works/534179/
   - title: Jimi Kyonyuu No Stalker Onna Ni Gokuhaku Saretanode Yarimakutte Mita Hanashi
       | I Was Confessed To By A Plain Busty Stalker Girl, So I Fucked Her Like Crazy
     author: hiyori-hamster

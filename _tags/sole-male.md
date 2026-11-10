@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole male"
-work_count: 1158
+work_count: 1160
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -1414,6 +1414,14 @@ works:
     date: '2026-09-30'
     code: 466685
     url: /works/466685/
+  - title: Ikiiki Dasshutsu Game with Chou Chirou Oji-san | Lively Escape Game with
+      Super Late Ejaculation Ojisan
+    author: minegami-aya
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/467602.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 467602
+    url: /works/467602/
   - title: Kanojo wa Boku no Taieki de Ugoiteiru Phase. 05 [English] =NSS=
     author: nagareboshi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/470025.jpg
@@ -2141,6 +2149,13 @@ works:
     date: '2026-02-26'
     code: 533325
     url: /works/533325/
+  - title: Chounai Furin ~Yumi~ | Neighborhood Affair ~Yumi~
+    author: kaniguruma
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/534179.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 534179
+    url: /works/534179/
   - title: Eight Days With My Wife's Mother | Youka-go Tsuma no Haha o Daku
     author: jagaimo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/534537.jpg

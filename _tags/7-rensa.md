@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "7 rensa"
-work_count: 3
+work_count: 4
 works:
   - title: Okki na Saori-chan wa Bukiyou ni Eroi
     author: aramaki-echizen
@@ -10,6 +10,14 @@ works:
     date: '2026-09-05'
     code: 363219
     url: /works/363219/
+  - title: Ikiiki Dasshutsu Game with Chou Chirou Oji-san | Lively Escape Game with
+      Super Late Ejaculation Ojisan
+    author: minegami-aya
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/467602.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 467602
+    url: /works/467602/
   - title: Motto♥ Okki na Saori-chan wa Fukiyou ni Eroi
     author: aramaki-echizen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/524436.jpg
