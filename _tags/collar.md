@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "collar"
-work_count: 123
+work_count: 127
 works:
   - title: Kaisha de Iroiro | Gettin' Busy at the Office
     author: hara-shigeyuki
@@ -17,6 +17,13 @@ works:
     date: '2026-10-09'
     code: 167112
     url: /works/167112/
+  - title: Datenshi Corruption II
+    author: napo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/275471.jpg
+    rating: 4.8
+    date: '2026-11-10'
+    code: 275471
+    url: /works/275471/
   - title: Komorebi no Ori
     author: hitoi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/309899.jpg
@@ -126,6 +133,13 @@ works:
     date: '2026-07-11'
     code: 531966
     url: /works/531966/
+  - title: ZAKOMANKO GYARUTYANGA DERETA!?
+    author: necro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/532469.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 532469
+    url: /works/532469/
   - title: Dansei ga Kyokutan ni Sukunai Kono Sekai de wa, Seishi wa Kichou na Shigen
       desu. Sono 2 | In a World Where Men Are Scarce, Sperm Is a Precious Resource 2
     author: group
@@ -152,7 +166,7 @@ works:
   - title: Koi no Gunfight | Love's Gunfight Ch.4 - Overtime
     author: napo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/545462.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-11-09'
     code: 545462
     url: /works/545462/
@@ -225,7 +239,7 @@ works:
   - title: Koi no Gunfight | Love's Gunfight Ch.1-3
     author: napo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/574633.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-11-09'
     code: 574633
     url: /works/574633/
@@ -406,6 +420,13 @@ works:
     date: '2026-04-24'
     code: 645612
     url: /works/645612/
+  - title: My Doggy-Like Boyfriend Becomes My Master At Night
+    author: izumi-uni
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/646234.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 646234
+    url: /works/646234/
   - title: Otaku ni Yasashii Gal wa Aitsu no Kanojo | A Gal Who's Kind to Otaku Is That
       Guy's Girlfriend
     author: yamamoto
@@ -882,7 +903,7 @@ works:
       into revenge sex
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694885.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-11-09'
     code: 694885
     url: /works/694885/
@@ -903,7 +924,7 @@ works:
   - title: Sold Out 2 (ENG) =TB=
     author: minegami-aya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695211.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-11-09'
     code: 695211
     url: /works/695211/
@@ -914,4 +935,11 @@ works:
     date: '2026-11-09'
     code: 695224
     url: /works/695224/
+  - title: The O◯H Story of the Timid Niece Who Only Warms Up to Me
+    author: yamakonbu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695588.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 695588
+    url: /works/695588/
 ---

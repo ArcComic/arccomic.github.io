@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "dark skinned female"
-work_count: 50
+work_count: 51
 works:
   - title: Hyouri no Omoi | Double-Sided Love
     author: suruga-kuroitsu
@@ -99,6 +99,14 @@ works:
     date: '2026-09-04'
     code: 586417
     url: /works/586417/
+  - title: Ally-san wa Doko Demo Ikitai!! Bangai-hen - Ally's Super Trip!! Extra Black
+      or White
+    author: inukami-inoji
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/589792.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 589792
+    url: /works/589792/
   - title: Onna Gal Joushi to Furin suru Hanashi 3 | Having an Affair with My Blonde
       Bombshell Boss – Part 3
     author: nakamo

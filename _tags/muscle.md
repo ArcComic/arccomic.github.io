@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "muscle"
-work_count: 148
+work_count: 150
 works:
   - title: Kousa suru Osu to Mesu | Male and Female Crossing
     author: ootsuka-kotora
@@ -565,6 +565,13 @@ works:
     date: '2026-04-27'
     code: 646146
     url: /works/646146/
+  - title: My Doggy-Like Boyfriend Becomes My Master At Night
+    author: izumi-uni
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/646234.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 646234
+    url: /works/646234/
   - title: Riho NTR ~Ordered By My Husband to Get Fucked By His Colleague~
     author: yamamoto-tomomitsu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/647620.jpg
@@ -1096,7 +1103,7 @@ works:
   - title: Sold Out 2 (ENG) =TB=
     author: minegami-aya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695211.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-11-09'
     code: 695211
     url: /works/695211/
@@ -1114,4 +1121,11 @@ works:
     date: '2026-11-09'
     code: 695351
     url: /works/695351/
+  - title: The O◯H Story of the Timid Niece Who Only Warms Up to Me
+    author: yamakonbu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695588.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 695588
+    url: /works/695588/
 ---

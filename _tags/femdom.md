@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "femdom"
-work_count: 223
+work_count: 226
 works:
   - title: Life with Married Women Just Like a Manga 2 - Ch. 1-5
     author: hidemaru
@@ -232,6 +232,13 @@ works:
     date: '2026-09-29'
     code: 416542
     url: /works/416542/
+  - title: Shizukasu Utopia
+    author: napo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/420026.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 420026
+    url: /works/420026/
   - title: Koi no Susumekata | How to Advance Your Love
     author: danimaru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/425528.jpg
@@ -285,6 +292,13 @@ works:
     date: '2026-09-29'
     code: 453286
     url: /works/453286/
+  - title: Koi no Gunfight Love Steal
+    author: napo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/460241.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 460241
+    url: /works/460241/
   - title: 'Revenge Massage: Moan More & Beg for Me!'
     author: aono-akira
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/481671.jpg
@@ -453,7 +467,7 @@ works:
   - title: Koi no Gunfight | Love's Gunfight Ch.1-3
     author: napo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/574633.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-11-09'
     code: 574633
     url: /works/574633/
@@ -481,7 +495,7 @@ works:
   - title: Kanojo no Present | Her Present
     author: nr
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/587868.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-11-09'
     code: 587868
     url: /works/587868/
@@ -558,6 +572,13 @@ works:
     date: '2026-05-26'
     code: 624573
     url: /works/624573/
+  - title: TS Onii-chan ga Futanari Imouto ni Mesuochi Saserareru Hanashi
+    author: kuroshiba-suko
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/627260.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 627260
+    url: /works/627260/
   - title: Various Full & Partial English Works
     author: tokyo-mixed
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/631239.jpg
@@ -686,7 +707,7 @@ works:
       | Watashi no Kutsushita de Shikotteru nara Sono Ochinpo de Asonde mo Ii yo ne?
     author: honshiro-nikori
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/640224.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-11-09'
     code: 640224
     url: /works/640224/
@@ -1626,7 +1647,7 @@ works:
       gets drunk
     author: shamidou-maichimonji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695225.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-11-09'
     code: 695225
     url: /works/695225/

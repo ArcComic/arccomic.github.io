@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "shaved head"
-work_count: 21
+work_count: 22
 works:
   - title: Natsu Asobi | Summer Play
     author: ame-arare
@@ -158,4 +158,11 @@ works:
     date: '2026-10-18'
     code: 688506
     url: /works/688506/
+  - title: Ecchi na Omise ni Ittara, Mukashi no Doukyuusei ga Ita Hanashi
+    author: mmchair
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695586.jpg
+    rating: 4.9
+    date: '2026-11-10'
+    code: 695586
+    url: /works/695586/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "incest"
-work_count: 367
+work_count: 371
 works:
   - title: Imitation Family + Bigibo Hen
     author: tohzai
@@ -663,7 +663,7 @@ works:
   - title: Kaa-san no Umoretai Karada
     author: muronaga-chaashuu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/554739.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-11-09'
     code: 554739
     url: /works/554739/
@@ -921,6 +921,14 @@ works:
     date: '2026-11-08'
     code: 606648
     url: /works/606648/
+  - title: TS Onii-chan ~Futanari Imouto to no Ecchi Kinshi o Chikatta noni Gaman Dekizu
+      ni Osoi ni Kuru Hanashi~
+    author: kuroshiba-suko
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/608450.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 608450
+    url: /works/608450/
   - title: Sono Gal Mama wa Koubi Suru | This Gyaru Mom is Having Sex.
     author: ameto-yuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/608648.jpg
@@ -1045,6 +1053,13 @@ works:
     date: '2026-09-30'
     code: 624848
     url: /works/624848/
+  - title: TS Onii-chan ga Futanari Imouto ni Mesuochi Saserareru Hanashi
+    author: kuroshiba-suko
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/627260.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 627260
+    url: /works/627260/
   - title: Boshi Koubi Shinai to Sumenai Tokoro | A Place Where You Can't Live Unless
       You Have Sex With Your Mother
     author: kumo-no-ito
@@ -1355,6 +1370,13 @@ works:
     date: '2026-04-30'
     code: 646904
     url: /works/646904/
+  - title: Kaa-san ga Nuite Ageru | Let mommy take care of that for you
+    author: ntrman
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/647208.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 647208
+    url: /works/647208/
   - title: Kimagure Onee-chan 2 | Whimsical Onee-chan 2
     author: toushiki-yubune
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/647341.jpg
@@ -2312,6 +2334,14 @@ works:
     date: '2026-09-20'
     code: 682559
     url: /works/682559/
+  - title: Ouchi Harem!? S-kki no Gimai to M-kki no Osananajimi! | A harem at home!?
+      A sadistic stepsister and masochistic childhood friend!
+    author: darunekohanten
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683027.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 683027
+    url: /works/683027/
   - title: Jukujo ♥ shonen hyoryu-ki | A Woman ♥ Boy Castaway Tale
     author: kotobuki-mairo-zubrowk
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683082.jpg
@@ -2632,7 +2662,7 @@ works:
   - title: TS Onii-chan ~Ecchi na Jisshou Jiken de Kanzen Mesu Ochi o Jinin suru Hanashi~
     author: kuroshiba-suko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694781.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-11-09'
     code: 694781
     url: /works/694781/
@@ -2646,7 +2676,7 @@ works:
   - title: I Woke Up in the Morning to Find My Naked Mom Lying Next to Me.
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694897.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-11-09'
     code: 694897
     url: /works/694897/
@@ -2676,7 +2706,7 @@ works:
       Icha Love-
     author: nekonume
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695343.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-11-09'
     code: 695343
     url: /works/695343/

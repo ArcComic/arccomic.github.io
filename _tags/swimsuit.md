@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "swimsuit"
-work_count: 97
+work_count: 101
 works:
   - title: Kizashi
     author: yoshiura-kazuya
@@ -10,6 +10,20 @@ works:
     date: '2026-03-09'
     code: 226386
     url: /works/226386/
+  - title: Gokuusu Mizugi de Okasaretagari ga Kakusenai
+    author: kekemotsu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/232437.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 232437
+    url: /works/232437/
+  - title: Datenshi Corruption II
+    author: napo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/275471.jpg
+    rating: 4.8
+    date: '2026-11-10'
+    code: 275471
+    url: /works/275471/
   - title: Colorful Ritsuko 2
     author: tsurui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/285110.jpg
@@ -94,6 +108,14 @@ works:
     date: '2026-09-29'
     code: 480745
     url: /works/480745/
+  - title: Osaka Shizuku no Houkago Secret Lesson | Osaka Shizuku's Secret After-School
+      Lesson
+    author: napo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/492689.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 492689
+    url: /works/492689/
   - title: Kioku Soushitsu NTR - Kareshi no Shinyuu ni Hamerare Tsuzuketa 10-kakan -
     author: wes-heartland-smith
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/502563.jpg
@@ -233,6 +255,13 @@ works:
     date: '2026-09-24'
     code: 628126
     url: /works/628126/
+  - title: Hanagasa YuShizu Soushuuhen
+    author: orihi-chihiro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/629945.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 629945
+    url: /works/629945/
   - title: Koukan Nikki ー School Whore Diaries
     author: henkuma
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/634328.jpg

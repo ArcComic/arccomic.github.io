@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "full censorship"
-work_count: 152
+work_count: 153
 works:
   - title: Kaisha de Iroiro | Gettin' Busy at the Office
     author: hara-shigeyuki
@@ -225,6 +225,13 @@ works:
     date: '2026-09-15'
     code: 443073
     url: /works/443073/
+  - title: Koi no Gunfight Love Steal
+    author: napo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/460241.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 460241
+    url: /works/460241/
   - title: Hypnotic Domination ~ The Fall of Tennis Club Ace ~
     author: danchino
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/461537.jpg
@@ -543,7 +550,7 @@ works:
   - title: Kanojo no Present | Her Present
     author: nr
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/587868.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-11-09'
     code: 587868
     url: /works/587868/
@@ -684,7 +691,7 @@ works:
   - title: Make Love Rank match!!
     author: napo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/653119.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-11-09'
     code: 653119
     url: /works/653119/

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "handjob"
-work_count: 185
+work_count: 187
 works:
   - title: Rin to P
     author: simon
@@ -234,6 +234,14 @@ works:
     date: '2026-08-24'
     code: 508845
     url: /works/508845/
+  - title: Nonke datta Kanojo ga Futanari Shinyuu ni NTR made | My Girlfriend and Her
+      Best Friend Who NTR'd Me
+    author: kuroshiba-suko
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/511388.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 511388
+    url: /works/511388/
   - title: "\uFEFF[Kuruto] Okaa-san de Sumasushikanakute | There's No Choice But Make\
       \ Do With My Mom"
     author: kuruto
@@ -267,7 +275,7 @@ works:
   - title: Koi no Gunfight | Love's Gunfight Ch.4 - Overtime
     author: napo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/545462.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-11-09'
     code: 545462
     url: /works/545462/
@@ -313,7 +321,7 @@ works:
   - title: Koi no Gunfight | Love's Gunfight Ch.1-3
     author: napo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/574633.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-11-09'
     code: 574633
     url: /works/574633/
@@ -360,7 +368,7 @@ works:
       You can do whatever you want with the dick card
     author: minato-yuu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/594434.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-11-09'
     code: 594434
     url: /works/594434/
@@ -1373,7 +1381,7 @@ works:
       gets drunk
     author: shamidou-maichimonji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695225.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-11-09'
     code: 695225
     url: /works/695225/
@@ -1381,10 +1389,17 @@ works:
       wa Nakatta
     author: kozakura-kumaneko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695264.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-11-09'
     code: 695264
     url: /works/695264/
+  - title: Ecchi na Omise ni Ittara, Mukashi no Doukyuusei ga Ita Hanashi
+    author: mmchair
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695586.jpg
+    rating: 4.9
+    date: '2026-11-10'
+    code: 695586
+    url: /works/695586/
   - title: Onee-chan no SM Kouza | Onee-chan's S&M Lecture
     author: shinooka-homare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/88750.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "voyeurism"
-work_count: 76
+work_count: 77
 works:
   - title: Tsutomesaki no Musume-san o Oishiku Itadaku Hon Minshuku Hen
     author: aya
@@ -166,14 +166,14 @@ works:
   - title: Koi no Gunfight | Love's Gunfight Ch.4 - Overtime
     author: napo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/545462.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-11-09'
     code: 545462
     url: /works/545462/
   - title: Kaa-san no Umoretai Karada
     author: muronaga-chaashuu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/554739.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-11-09'
     code: 554739
     url: /works/554739/
@@ -561,4 +561,11 @@ works:
     date: '2026-11-09'
     code: 694973
     url: /works/694973/
+  - title: Ecchi na Omise ni Ittara, Mukashi no Doukyuusei ga Ita Hanashi
+    author: mmchair
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695586.jpg
+    rating: 4.9
+    date: '2026-11-10'
+    code: 695586
+    url: /works/695586/
 ---

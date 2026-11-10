@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "high heels"
-work_count: 21
+work_count: 22
 works:
   - title: Shut-less
     author: mr-hokke
@@ -35,7 +35,7 @@ works:
   - title: Kanojo no Present | Her Present
     author: nr
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/587868.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-11-09'
     code: 587868
     url: /works/587868/
@@ -46,6 +46,14 @@ works:
     date: '2026-03-07'
     code: 588713
     url: /works/588713/
+  - title: Ally-san wa Doko Demo Ikitai!! Bangai-hen - Ally's Super Trip!! Extra Black
+      or White
+    author: inukami-inoji
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/589792.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 589792
+    url: /works/589792/
   - title: Sakkin Zuke no Hitozuma -Kimura Mina to Kimodebu Oyaji no Ooya- 1 & 2
     author: hente
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/594884.jpg
@@ -155,7 +163,7 @@ works:
       gets drunk
     author: shamidou-maichimonji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695225.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-11-09'
     code: 695225
     url: /works/695225/

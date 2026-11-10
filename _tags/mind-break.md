@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "mind break"
-work_count: 73
+work_count: 75
 works:
   - title: Birthday
     author: hashiba-yachi
@@ -10,6 +10,13 @@ works:
     date: '2026-09-25'
     code: 135719
     url: /works/135719/
+  - title: Datenshi Corruption II
+    author: napo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/275471.jpg
+    rating: 4.8
+    date: '2026-11-10'
+    code: 275471
+    url: /works/275471/
   - title: Ayami Hypno
     author: yasuhiro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/306363.jpg
@@ -24,6 +31,13 @@ works:
     date: '2026-09-26'
     code: 309899
     url: /works/309899/
+  - title: Hug yori Motto Sugoi Koto | Something Much Better Than a Hug
+    author: napo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/331115.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 331115
+    url: /works/331115/
   - title: Toshoshitsu no Kanojo 4 ~Seiso na Kimi ga Ochiru made~
     author: ame-arare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/352581.jpg

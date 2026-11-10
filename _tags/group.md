@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "group"
-work_count: 301
+work_count: 304
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -45,6 +45,13 @@ works:
     date: '2026-03-09'
     code: 226386
     url: /works/226386/
+  - title: Gokuusu Mizugi de Okasaretagari ga Kakusenai
+    author: kekemotsu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/232437.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 232437
+    url: /works/232437/
   - title: Chibo Soukan Ch.1-3
     author: natsu-no-oyatsu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/238110.jpg
@@ -59,6 +66,13 @@ works:
     date: '2026-10-09'
     code: 262169
     url: /works/262169/
+  - title: Datenshi Corruption II
+    author: napo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/275471.jpg
+    rating: 4.8
+    date: '2026-11-10'
+    code: 275471
+    url: /works/275471/
   - title: Yuri no o saifu ni shite agemasu ne, Senpai | I'll turn you into Yuri's wallet,
       Senpai
     author: doskoinpo
@@ -1718,6 +1732,14 @@ works:
     date: '2026-09-22'
     code: 683022
     url: /works/683022/
+  - title: Ouchi Harem!? S-kki no Gimai to M-kki no Osananajimi! | A harem at home!?
+      A sadistic stepsister and masochistic childhood friend!
+    author: darunekohanten
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683027.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 683027
+    url: /works/683027/
   - title: Jukujo ♥ shonen hyoryu-ki | A Woman ♥ Boy Castaway Tale
     author: kotobuki-mairo-zubrowk
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683082.jpg
@@ -2176,7 +2198,7 @@ works:
       into revenge sex
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694885.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-11-09'
     code: 694885
     url: /works/694885/
@@ -2207,7 +2229,7 @@ works:
   - title: Sold Out 2 (ENG) =TB=
     author: minegami-aya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695211.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-11-09'
     code: 695211
     url: /works/695211/

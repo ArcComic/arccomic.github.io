@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "schoolboy uniform"
-work_count: 131
+work_count: 133
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -250,6 +250,13 @@ works:
     date: '2026-09-29'
     code: 513981
     url: /works/513981/
+  - title: Kurimaro
+    author: hogeramu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/515994.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 515994
+    url: /works/515994/
   - title: Kaientojou
     author: fushoku
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/525330.jpg
@@ -302,7 +309,7 @@ works:
   - title: Kino no Tomo wa Kyou no SeFri | Yesterday's Friend, Today's Sex Friend.
     author: mittsuman
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/583012.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-11-09'
     code: 583012
     url: /works/583012/
@@ -446,7 +453,7 @@ works:
       | Watashi no Kutsushita de Shikotteru nara Sono Ochinpo de Asonde mo Ii yo ne?
     author: honshiro-nikori
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/640224.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-11-09'
     code: 640224
     url: /works/640224/
@@ -536,7 +543,7 @@ works:
   - title: Make Love Rank match!!
     author: napo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/653119.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-11-09'
     code: 653119
     url: /works/653119/
@@ -580,7 +587,7 @@ works:
   - title: Nankai demo Kimochii Koto
     author: raita
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/661145.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-11-09'
     code: 661145
     url: /works/661145/
@@ -960,6 +967,13 @@ works:
     date: '2026-11-09'
     code: 694973
     url: /works/694973/
+  - title: Ecchi na Omise ni Ittara, Mukashi no Doukyuusei ga Ita Hanashi
+    author: mmchair
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695586.jpg
+    rating: 4.9
+    date: '2026-11-10'
+    code: 695586
+    url: /works/695586/
   - title: Jokyoushi - Hot For Teachers | Female Teachers
     author: drill-murata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/81375.jpg

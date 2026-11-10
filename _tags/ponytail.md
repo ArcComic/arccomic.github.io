@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "ponytail"
-work_count: 212
+work_count: 218
 works:
   - title: Ami Mami Mind 5
     author: tsurui
@@ -52,6 +52,13 @@ works:
     date: '2026-04-12'
     code: 328805
     url: /works/328805/
+  - title: Hug yori Motto Sugoi Koto | Something Much Better Than a Hug
+    author: napo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/331115.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 331115
+    url: /works/331115/
   - title: Haruranman - Spring Bloom
     author: arima-kouichi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/360465.jpg
@@ -108,6 +115,13 @@ works:
     date: '2026-04-25'
     code: 388099
     url: /works/388099/
+  - title: Sakusei Kaitori Service | Sperm Buying Service
+    author: minato-yuu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/392556.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 392556
+    url: /works/392556/
   - title: I Was Devoured by My Gyaru Senpai (COMIC Anthurium 2021-10) + I Made My Gyaru
       Senpai Cum Over & Over Doggy Style
     author: arimura-daikon
@@ -315,6 +329,13 @@ works:
     date: '2026-04-30'
     code: 555849
     url: /works/555849/
+  - title: Soushitsu Kanojo ~Kioku o Ushinatta Kanojo wa Onna Senpai ni Netorareta~
+    author: kuroshiba-suko
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/563632.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 563632
+    url: /works/563632/
   - title: Kouhai Joshi ni Nakaiki o Oshiete Morau Hanashi | Getting Taught How To Climax
       Vaginally By My Junior
     author: tarara
@@ -705,6 +726,13 @@ works:
     date: '2026-04-30'
     code: 646969
     url: /works/646969/
+  - title: Kaa-san ga Nuite Ageru | Let mommy take care of that for you
+    author: ntrman
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/647208.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 647208
+    url: /works/647208/
   - title: Anal Toilet Training
     author: goma-gorilla
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/647315.jpg
@@ -906,7 +934,7 @@ works:
   - title: Nankai demo Kimochii Koto
     author: raita
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/661145.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-11-09'
     code: 661145
     url: /works/661145/
@@ -1543,7 +1571,7 @@ works:
       into revenge sex
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694885.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-11-09'
     code: 694885
     url: /works/694885/
@@ -1568,4 +1596,18 @@ works:
     date: '2026-11-09'
     code: 694973
     url: /works/694973/
+  - title: Ecchi na Omise ni Ittara, Mukashi no Doukyuusei ga Ita Hanashi
+    author: mmchair
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695586.jpg
+    rating: 4.9
+    date: '2026-11-10'
+    code: 695586
+    url: /works/695586/
+  - title: The O◯H Story of the Timid Niece Who Only Warms Up to Me
+    author: yamakonbu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695588.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 695588
+    url: /works/695588/
 ---

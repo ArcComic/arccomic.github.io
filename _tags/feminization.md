@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "feminization"
-work_count: 13
+work_count: 14
 works:
   - title: Mimikyu Myth 2
     author: meowwithme
@@ -39,6 +39,13 @@ works:
     date: '2026-09-12'
     code: 624238
     url: /works/624238/
+  - title: TS Onii-chan ga Futanari Imouto ni Mesuochi Saserareru Hanashi
+    author: kuroshiba-suko
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/627260.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 627260
+    url: /works/627260/
   - title: How I, a fighting gamer, became the heroine of a cosplay AV
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/645566.jpg

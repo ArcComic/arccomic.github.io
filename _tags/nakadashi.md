@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "nakadashi"
-work_count: 1045
+work_count: 1057
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -336,6 +336,13 @@ works:
     date: '2026-04-12'
     code: 328805
     url: /works/328805/
+  - title: Hug yori Motto Sugoi Koto | Something Much Better Than a Hug
+    author: napo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/331115.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 331115
+    url: /works/331115/
   - title: Sokukan Delivery
     author: ice
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/332781.jpg
@@ -840,7 +847,7 @@ works:
       Sex With a Kind Elf
     author: kekemotsu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/437581.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-11-09'
     code: 437581
     url: /works/437581/
@@ -1001,6 +1008,13 @@ works:
     date: '2026-10-08'
     code: 457980
     url: /works/457980/
+  - title: Koi no Gunfight Love Steal
+    author: napo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/460241.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 460241
+    url: /works/460241/
   - title: Tomodachi, Osananajimi mo Kaa-san mo Netorareru
     author: sink
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/460565.jpg
@@ -1256,6 +1270,14 @@ works:
     date: '2026-04-12'
     code: 492657
     url: /works/492657/
+  - title: Osaka Shizuku no Houkago Secret Lesson | Osaka Shizuku's Secret After-School
+      Lesson
+    author: napo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/492689.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 492689
+    url: /works/492689/
   - title: Bocchi de Shinda Ore ga Bishoujo Nurse ni Natta Hanashi | The Story of How
       I Died Alone and Became a Sexy Nurse
     author: testame
@@ -1417,6 +1439,14 @@ works:
     date: '2026-10-03'
     code: 509583
     url: /works/509583/
+  - title: Nonke datta Kanojo ga Futanari Shinyuu ni NTR made | My Girlfriend and Her
+      Best Friend Who NTR'd Me
+    author: kuroshiba-suko
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/511388.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 511388
+    url: /works/511388/
   - title: Gibo-san wa Boku no Mono 7
     author: c-kyuu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/511503.jpg
@@ -1830,7 +1860,7 @@ works:
   - title: Koi no Gunfight | Love's Gunfight Ch.4 - Overtime
     author: napo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/545462.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-11-09'
     code: 545462
     url: /works/545462/
@@ -2028,6 +2058,13 @@ works:
     date: '2026-04-25'
     code: 562615
     url: /works/562615/
+  - title: Soushitsu Kanojo ~Kioku o Ushinatta Kanojo wa Onna Senpai ni Netorareta~
+    author: kuroshiba-suko
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/563632.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 563632
+    url: /works/563632/
   - title: Tennen Kaa-san ga Ero Kawai Sugiru node, Saimin Onaho Sex Shitatta! | My
       Airheaded Mom Was Too Adorably Sexy, So I Had Hypnotized Onahole Sex with Her!
     author: ginen
@@ -2130,7 +2167,7 @@ works:
   - title: Koi no Gunfight | Love's Gunfight Ch.1-3
     author: napo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/574633.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-11-09'
     code: 574633
     url: /works/574633/
@@ -2197,7 +2234,7 @@ works:
   - title: Hyoui de Gravure Idol o Ore no Mono ni Someageru Hanashi | Gravure Idol Possession
     author: comichi-pota
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/579368.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-11-09'
     code: 579368
     url: /works/579368/
@@ -2351,7 +2388,7 @@ works:
   - title: Kanojo no Present | Her Present
     author: nr
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/587868.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-11-09'
     code: 587868
     url: /works/587868/
@@ -2399,6 +2436,14 @@ works:
     date: '2026-10-07'
     code: 589628
     url: /works/589628/
+  - title: Ally-san wa Doko Demo Ikitai!! Bangai-hen - Ally's Super Trip!! Extra Black
+      or White
+    author: inukami-inoji
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/589792.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 589792
+    url: /works/589792/
   - title: Cocoa-chan no Jiraikei Chuuihou
     author: uni-toshiki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/590068.jpg
@@ -2522,7 +2567,7 @@ works:
       You can do whatever you want with the dick card
     author: minato-yuu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/594434.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-11-09'
     code: 594434
     url: /works/594434/
@@ -2710,6 +2755,14 @@ works:
     date: '2026-09-18'
     code: 608159
     url: /works/608159/
+  - title: TS Onii-chan ~Futanari Imouto to no Ecchi Kinshi o Chikatta noni Gaman Dekizu
+      ni Osoi ni Kuru Hanashi~
+    author: kuroshiba-suko
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/608450.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 608450
+    url: /works/608450/
   - title: Yojouhan Ikken Apart de Komochi Dosukebe Rinjin to Asedaku Noukou na Otsukiai
       - A sweaty, intense relationship with a perverted neighbor with a child in a four
       and a half tatami mat apartment
@@ -3038,6 +3091,13 @@ works:
     date: '2026-09-18'
     code: 625984
     url: /works/625984/
+  - title: TS Onii-chan ga Futanari Imouto ni Mesuochi Saserareru Hanashi
+    author: kuroshiba-suko
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/627260.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 627260
+    url: /works/627260/
   - title: Boshi Koubi Shinai to Sumenai Tokoro | A Place Where You Can't Live Unless
       You Have Sex With Your Mother
     author: kumo-no-ito
@@ -4105,6 +4165,13 @@ works:
     date: '2026-04-30'
     code: 646986
     url: /works/646986/
+  - title: Kaa-san ga Nuite Ageru | Let mommy take care of that for you
+    author: ntrman
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/647208.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 647208
+    url: /works/647208/
   - title: Anal Toilet Training
     author: goma-gorilla
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/647315.jpg
@@ -4534,7 +4601,7 @@ works:
   - title: Make Love Rank match!!
     author: napo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/653119.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-11-09'
     code: 653119
     url: /works/653119/
@@ -6435,6 +6502,14 @@ works:
     date: '2026-09-22'
     code: 683022
     url: /works/683022/
+  - title: Ouchi Harem!? S-kki no Gimai to M-kki no Osananajimi! | A harem at home!?
+      A sadistic stepsister and masochistic childhood friend!
+    author: darunekohanten
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683027.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 683027
+    url: /works/683027/
   - title: Inma Danshi to Kankin Ecchi - Saiin Kuriseme de Seijo Kairaku Ochi | Captive
       Sex with an Incubus ~holy woman corruption by lust inducing clitoral teasing~
     author: rojione
@@ -7448,7 +7523,7 @@ works:
       Onee-san? ~The Ecchi Card: Do What You Want!~'
     author: minato-yuu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690796.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-09'
     code: 690796
     url: /works/690796/
@@ -7629,7 +7704,7 @@ works:
   - title: TS Onii-chan ~Ecchi na Jisshou Jiken de Kanzen Mesu Ochi o Jinin suru Hanashi~
     author: kuroshiba-suko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694781.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-11-09'
     code: 694781
     url: /works/694781/
@@ -7646,7 +7721,7 @@ works:
       into revenge sex
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694885.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-11-09'
     code: 694885
     url: /works/694885/
@@ -7668,7 +7743,7 @@ works:
   - title: I Woke Up in the Morning to Find My Naked Mom Lying Next to Me.
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694897.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-11-09'
     code: 694897
     url: /works/694897/
@@ -7718,7 +7793,7 @@ works:
   - title: Sold Out 2 (ENG) =TB=
     author: minegami-aya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695211.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-11-09'
     code: 695211
     url: /works/695211/
@@ -7728,7 +7803,7 @@ works:
       gets drunk
     author: shamidou-maichimonji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695225.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-11-09'
     code: 695225
     url: /works/695225/
@@ -7736,7 +7811,7 @@ works:
       wa Nakatta
     author: kozakura-kumaneko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695264.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-11-09'
     code: 695264
     url: /works/695264/
@@ -7752,7 +7827,7 @@ works:
       Icha Love-
     author: nekonume
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695343.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-11-09'
     code: 695343
     url: /works/695343/
@@ -7763,6 +7838,20 @@ works:
     date: '2026-11-09'
     code: 695351
     url: /works/695351/
+  - title: Ecchi na Omise ni Ittara, Mukashi no Doukyuusei ga Ita Hanashi
+    author: mmchair
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695586.jpg
+    rating: 4.9
+    date: '2026-11-10'
+    code: 695586
+    url: /works/695586/
+  - title: The O◯H Story of the Timid Niece Who Only Warms Up to Me
+    author: yamakonbu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695588.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 695588
+    url: /works/695588/
   - title: Inin Keiyaku | Lewd Pregnancy Contract
     author: yoshiura-kazuya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/83595.jpg

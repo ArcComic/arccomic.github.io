@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "chinese dress"
-work_count: 7
+work_count: 8
 works:
   - title: Boku no Chuugoku Bijin Slender Kyonyuu Tsuma ga Camera Model de Nugasarete
       Yarichin Tomo ni Netorareta Ken
@@ -11,6 +11,14 @@ works:
     date: '2026-04-12'
     code: 492657
     url: /works/492657/
+  - title: TS Onii-chan ~Futanari Imouto to no Ecchi Kinshi o Chikatta noni Gaman Dekizu
+      ni Osoi ni Kuru Hanashi~
+    author: kuroshiba-suko
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/608450.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 608450
+    url: /works/608450/
   - title: Make Love Rank match!!②
     author: napo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/653113.jpg

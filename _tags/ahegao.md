@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "ahegao"
-work_count: 407
+work_count: 409
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -682,7 +682,7 @@ works:
   - title: Kanojo no Present | Her Present
     author: nr
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/587868.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-11-09'
     code: 587868
     url: /works/587868/
@@ -2953,7 +2953,7 @@ works:
       into revenge sex
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694885.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-11-09'
     code: 694885
     url: /works/694885/
@@ -2968,7 +2968,7 @@ works:
   - title: I Woke Up in the Morning to Find My Naked Mom Lying Next to Me.
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694897.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-11-09'
     code: 694897
     url: /works/694897/
@@ -3018,7 +3018,7 @@ works:
   - title: Sold Out 2 (ENG) =TB=
     author: minegami-aya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695211.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-11-09'
     code: 695211
     url: /works/695211/
@@ -3028,7 +3028,7 @@ works:
       gets drunk
     author: shamidou-maichimonji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695225.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-11-09'
     code: 695225
     url: /works/695225/
@@ -3036,7 +3036,7 @@ works:
       wa Nakatta
     author: kozakura-kumaneko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695264.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-11-09'
     code: 695264
     url: /works/695264/
@@ -3055,6 +3055,20 @@ works:
     date: '2026-11-09'
     code: 695351
     url: /works/695351/
+  - title: Ecchi na Omise ni Ittara, Mukashi no Doukyuusei ga Ita Hanashi
+    author: mmchair
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695586.jpg
+    rating: 4.9
+    date: '2026-11-10'
+    code: 695586
+    url: /works/695586/
+  - title: The O◯H Story of the Timid Niece Who Only Warms Up to Me
+    author: yamakonbu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695588.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 695588
+    url: /works/695588/
   - title: Inin Keiyaku | Lewd Pregnancy Contract
     author: yoshiura-kazuya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/83595.jpg

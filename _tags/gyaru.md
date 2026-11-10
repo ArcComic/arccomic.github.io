@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "gyaru"
-work_count: 160
+work_count: 163
 works:
   - title: GalPa!
     author: sakagami-umi
@@ -158,6 +158,13 @@ works:
     date: '2026-08-23'
     code: 531967
     url: /works/531967/
+  - title: ZAKOMANKO GYARUTYANGA DERETA!?
+    author: necro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/532469.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 532469
+    url: /works/532469/
   - title: Beit Saki no Majime na Kouhai ga... | A Serious Part-Time Kouhai
     author: kusayarou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/536423.jpg
@@ -208,6 +215,14 @@ works:
     date: '2026-04-19'
     code: 580427
     url: /works/580427/
+  - title: Ally-san wa Doko Demo Ikitai!! Bangai-hen - Ally's Super Trip!! Extra Black
+      or White
+    author: inukami-inoji
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/589792.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 589792
+    url: /works/589792/
   - title: Onna Gal Joushi to Furin suru Hanashi 2 | A Story About Having An Affair
       With My Gal Boss 2
     author: nakamo
@@ -615,7 +630,7 @@ works:
   - title: Nankai demo Kimochii Koto
     author: raita
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/661145.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-11-09'
     code: 661145
     url: /works/661145/
@@ -1192,7 +1207,7 @@ works:
   - title: Sold Out 2 (ENG) =TB=
     author: minegami-aya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695211.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-11-09'
     code: 695211
     url: /works/695211/
@@ -1203,4 +1218,11 @@ works:
     date: '2026-11-09'
     code: 695224
     url: /works/695224/
+  - title: Ecchi na Omise ni Ittara, Mukashi no Doukyuusei ga Ita Hanashi
+    author: mmchair
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695586.jpg
+    rating: 4.9
+    date: '2026-11-10'
+    code: 695586
+    url: /works/695586/
 ---

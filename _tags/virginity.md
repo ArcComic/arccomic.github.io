@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "virginity"
-work_count: 186
+work_count: 188
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -553,7 +553,7 @@ works:
   - title: Koi no Gunfight | Love's Gunfight Ch.1-3
     author: napo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/574633.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-11-09'
     code: 574633
     url: /works/574633/
@@ -589,7 +589,7 @@ works:
   - title: Kanojo no Present | Her Present
     author: nr
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/587868.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-11-09'
     code: 587868
     url: /works/587868/
@@ -1296,6 +1296,14 @@ works:
     date: '2026-09-19'
     code: 682307
     url: /works/682307/
+  - title: Ouchi Harem!? S-kki no Gimai to M-kki no Osananajimi! | A harem at home!?
+      A sadistic stepsister and masochistic childhood friend!
+    author: darunekohanten
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683027.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 683027
+    url: /works/683027/
   - title: Tonikaku Yaritai Gal ga Kyokon Otaku ni Deattara
     author: tokunaga
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684061.jpg
@@ -1387,4 +1395,11 @@ works:
     date: '2026-11-09'
     code: 694889
     url: /works/694889/
+  - title: Ecchi na Omise ni Ittara, Mukashi no Doukyuusei ga Ita Hanashi
+    author: mmchair
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695586.jpg
+    rating: 4.9
+    date: '2026-11-10'
+    code: 695586
+    url: /works/695586/
 ---

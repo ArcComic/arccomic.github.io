@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "catgirl"
-work_count: 18
+work_count: 19
 works:
   - title: I'll be your cat
     author: napata
@@ -10,6 +10,13 @@ works:
     date: '2026-10-09'
     code: 167112
     url: /works/167112/
+  - title: Datenshi Corruption II
+    author: napo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/275471.jpg
+    rating: 4.8
+    date: '2026-11-10'
+    code: 275471
+    url: /works/275471/
   - title: Hitoban Tomete yo, Otaku-kun | Let Me Stay For the Night, Otaku-kun
     author: danimaru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/606166.jpg

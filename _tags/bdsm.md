@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bdsm"
-work_count: 22
+work_count: 23
 works:
   - title: Boku no Kaa-chan ga Hikikomori Neet Debu Aniki no Seishori Onaho ni Natteita
       Hanashi | My Mother is My Fat Shut-in Older NEET Brother's Sex Relief Onahole
@@ -42,6 +42,13 @@ works:
     date: '2026-10-02'
     code: 641858
     url: /works/641858/
+  - title: My Doggy-Like Boyfriend Becomes My Master At Night
+    author: izumi-uni
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/646234.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 646234
+    url: /works/646234/
   - title: Netorareta Kanojo ga Joou-sama ni natte Kaettekita ~Ruined de Kintama o Kara
       ni sarete Zenritsusen o Ijirarete Nandomo Nandomo Mesuikishite Choukyou sareru
       Ohanashi~

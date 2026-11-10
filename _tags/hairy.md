@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "hairy"
-work_count: 392
+work_count: 394
 works:
   - title: MAGIC SEVEN
     author: asuhiro
@@ -923,7 +923,7 @@ works:
   - title: Kaa-san no Umoretai Karada
     author: muronaga-chaashuu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/554739.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-11-09'
     code: 554739
     url: /works/554739/
@@ -1087,6 +1087,14 @@ works:
     date: '2026-10-07'
     code: 589628
     url: /works/589628/
+  - title: Ally-san wa Doko Demo Ikitai!! Bangai-hen - Ally's Super Trip!! Extra Black
+      or White
+    author: inukami-inoji
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/589792.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 589792
+    url: /works/589792/
   - title: Mesu no Ie II ~Tsuma wa Midare Ubareru~
     author: ame-arare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/591112.jpg
@@ -2844,7 +2852,7 @@ works:
   - title: I Woke Up in the Morning to Find My Naked Mom Lying Next to Me.
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694897.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-11-09'
     code: 694897
     url: /works/694897/
@@ -2869,7 +2877,7 @@ works:
       gets drunk
     author: shamidou-maichimonji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695225.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-11-09'
     code: 695225
     url: /works/695225/
@@ -2877,7 +2885,7 @@ works:
       wa Nakatta
     author: kozakura-kumaneko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695264.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-11-09'
     code: 695264
     url: /works/695264/
@@ -2889,4 +2897,11 @@ works:
     date: '2026-11-09'
     code: 695285
     url: /works/695285/
+  - title: Ecchi na Omise ni Ittara, Mukashi no Doukyuusei ga Ita Hanashi
+    author: mmchair
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695586.jpg
+    rating: 4.9
+    date: '2026-11-10'
+    code: 695586
+    url: /works/695586/
 ---

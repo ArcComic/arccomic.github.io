@@ -7,7 +7,7 @@ works:
       | Watashi no Kutsushita de Shikotteru nara Sono Ochinpo de Asonde mo Ii yo ne?
     author: honshiro-nikori
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/640224.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-11-09'
     code: 640224
     url: /works/640224/

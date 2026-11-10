@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "focus blowjob"
-work_count: 10
+work_count: 11
 works:
   - title: Toilet no Jimiko-san
     author: darezuka
@@ -76,4 +76,11 @@ works:
     date: '2026-11-08'
     code: 694670
     url: /works/694670/
+  - title: Ecchi na Omise ni Ittara, Mukashi no Doukyuusei ga Ita Hanashi
+    author: mmchair
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695586.jpg
+    rating: 4.9
+    date: '2026-11-10'
+    code: 695586
+    url: /works/695586/
 ---

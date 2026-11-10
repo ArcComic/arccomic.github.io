@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "anal"
-work_count: 194
+work_count: 197
 works:
   - title: Ikanishite Haha wa Onna o Kaihou Shitaka Ch. 1-14
     author: mitarai-yuuki
@@ -31,6 +31,13 @@ works:
     date: '2026-03-09'
     code: 226386
     url: /works/226386/
+  - title: Gokuusu Mizugi de Okasaretagari ga Kakusenai
+    author: kekemotsu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/232437.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 232437
+    url: /works/232437/
   - title: Uragiri no Ai wa Mitsu no Aji | Treacherous Love Tastes Like Honey
     author: cuzukago
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/244812.jpg
@@ -38,6 +45,13 @@ works:
     date: '2026-04-19'
     code: 244812
     url: /works/244812/
+  - title: Datenshi Corruption II
+    author: napo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/275471.jpg
+    rating: 4.8
+    date: '2026-11-10'
+    code: 275471
+    url: /works/275471/
   - title: Yuri no o saifu ni shite agemasu ne, Senpai | I'll turn you into Yuri's wallet,
       Senpai
     author: doskoinpo
@@ -178,6 +192,14 @@ works:
     date: '2026-09-26'
     code: 491312
     url: /works/491312/
+  - title: Osaka Shizuku no Houkago Secret Lesson | Osaka Shizuku's Secret After-School
+      Lesson
+    author: napo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/492689.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 492689
+    url: /works/492689/
   - title: Yumemiru Shoujo - The Girl Who Dreams
     author: fuuga
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/50476.jpg
@@ -320,7 +342,7 @@ works:
   - title: Koi no Gunfight | Love's Gunfight Ch.1-3
     author: napo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/574633.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-11-09'
     code: 574633
     url: /works/574633/
@@ -784,7 +806,7 @@ works:
   - title: Nankai demo Kimochii Koto
     author: raita
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/661145.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-11-09'
     code: 661145
     url: /works/661145/
@@ -1401,7 +1423,7 @@ works:
   - title: Sold Out 2 (ENG) =TB=
     author: minegami-aya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695211.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-11-09'
     code: 695211
     url: /works/695211/
@@ -1409,7 +1431,7 @@ works:
       wa Nakatta
     author: kozakura-kumaneko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695264.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-11-09'
     code: 695264
     url: /works/695264/

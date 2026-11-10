@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "x-ray"
-work_count: 431
+work_count: 437
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -350,6 +350,13 @@ works:
     date: '2026-10-08'
     code: 457980
     url: /works/457980/
+  - title: Koi no Gunfight Love Steal
+    author: napo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/460241.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 460241
+    url: /works/460241/
   - title: Hypnotic Domination ~ The Fall of Tennis Club Ace ~
     author: danchino
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/461537.jpg
@@ -489,6 +496,14 @@ works:
     date: '2026-09-26'
     code: 491312
     url: /works/491312/
+  - title: Osaka Shizuku no Houkago Secret Lesson | Osaka Shizuku's Secret After-School
+      Lesson
+    author: napo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/492689.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 492689
+    url: /works/492689/
   - title: Bocchi de Shinda Ore ga Bishoujo Nurse ni Natta Hanashi | The Story of How
       I Died Alone and Became a Sexy Nurse
     author: testame
@@ -675,7 +690,7 @@ works:
   - title: Koi no Gunfight | Love's Gunfight Ch.4 - Overtime
     author: napo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/545462.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-11-09'
     code: 545462
     url: /works/545462/
@@ -776,6 +791,13 @@ works:
     date: '2026-04-25'
     code: 562615
     url: /works/562615/
+  - title: Soushitsu Kanojo ~Kioku o Ushinatta Kanojo wa Onna Senpai ni Netorareta~
+    author: kuroshiba-suko
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/563632.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 563632
+    url: /works/563632/
   - title: Tawawa de Akarui Yakyuubu Manager ga Inshitsu na Kyoushi no Wana ni... Kanketsuhen
     author: ohkura-kazuya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/566052.jpg
@@ -838,7 +860,7 @@ works:
   - title: Hyoui de Gravure Idol o Ore no Mono ni Someageru Hanashi | Gravure Idol Possession
     author: comichi-pota
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/579368.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-11-09'
     code: 579368
     url: /works/579368/
@@ -874,7 +896,7 @@ works:
   - title: Kino no Tomo wa Kyou no SeFri | Yesterday's Friend, Today's Sex Friend.
     author: mittsuman
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/583012.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-11-09'
     code: 583012
     url: /works/583012/
@@ -990,7 +1012,7 @@ works:
       You can do whatever you want with the dick card
     author: minato-yuu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/594434.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-11-09'
     code: 594434
     url: /works/594434/
@@ -1066,6 +1088,14 @@ works:
     date: '2026-11-08'
     code: 606648
     url: /works/606648/
+  - title: TS Onii-chan ~Futanari Imouto to no Ecchi Kinshi o Chikatta noni Gaman Dekizu
+      ni Osoi ni Kuru Hanashi~
+    author: kuroshiba-suko
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/608450.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 608450
+    url: /works/608450/
   - title: Yojouhan Ikken Apart de Komochi Dosukebe Rinjin to Asedaku Noukou na Otsukiai
       - A sweaty, intense relationship with a perverted neighbor with a child in a four
       and a half tatami mat apartment
@@ -1593,6 +1623,13 @@ works:
     date: '2026-04-30'
     code: 646870
     url: /works/646870/
+  - title: Kaa-san ga Nuite Ageru | Let mommy take care of that for you
+    author: ntrman
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/647208.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 647208
+    url: /works/647208/
   - title: Anal Toilet Training
     author: goma-gorilla
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/647315.jpg
@@ -3201,7 +3238,7 @@ works:
   - title: Sold Out 2 (ENG) =TB=
     author: minegami-aya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695211.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-11-09'
     code: 695211
     url: /works/695211/
@@ -3211,7 +3248,7 @@ works:
       gets drunk
     author: shamidou-maichimonji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695225.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-11-09'
     code: 695225
     url: /works/695225/
@@ -3230,4 +3267,11 @@ works:
     date: '2026-11-09'
     code: 695351
     url: /works/695351/
+  - title: The O◯H Story of the Timid Niece Who Only Warms Up to Me
+    author: yamakonbu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695588.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 695588
+    url: /works/695588/
 ---

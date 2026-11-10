@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "pantyhose"
-work_count: 97
+work_count: 98
 works:
   - title: MAGIC SEVEN
     author: asuhiro
@@ -322,6 +322,14 @@ works:
     date: '2026-10-07'
     code: 589628
     url: /works/589628/
+  - title: Ally-san wa Doko Demo Ikitai!! Bangai-hen - Ally's Super Trip!! Extra Black
+      or White
+    author: inukami-inoji
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/589792.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 589792
+    url: /works/589792/
   - title: Mama ga Hirottekita Homeless Jiji☆
     author: rafuro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/593017.jpg

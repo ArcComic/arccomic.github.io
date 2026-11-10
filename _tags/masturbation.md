@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "masturbation"
-work_count: 184
+work_count: 185
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -362,7 +362,7 @@ works:
   - title: Hyoui de Gravure Idol o Ore no Mono ni Someageru Hanashi | Gravure Idol Possession
     author: comichi-pota
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/579368.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-11-09'
     code: 579368
     url: /works/579368/
@@ -621,7 +621,7 @@ works:
       | Watashi no Kutsushita de Shikotteru nara Sono Ochinpo de Asonde mo Ii yo ne?
     author: honshiro-nikori
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/640224.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-11-09'
     code: 640224
     url: /works/640224/
@@ -1361,7 +1361,7 @@ works:
       wa Nakatta
     author: kozakura-kumaneko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695264.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-11-09'
     code: 695264
     url: /works/695264/
@@ -1369,8 +1369,15 @@ works:
       Icha Love-
     author: nekonume
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695343.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-11-09'
     code: 695343
     url: /works/695343/
+  - title: Ecchi na Omise ni Ittara, Mukashi no Doukyuusei ga Ita Hanashi
+    author: mmchair
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695586.jpg
+    rating: 4.9
+    date: '2026-11-10'
+    code: 695586
+    url: /works/695586/
 ---

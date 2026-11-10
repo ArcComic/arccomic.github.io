@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "niece"
-work_count: 16
+work_count: 17
 works:
   - title: Atashi ga Nuite Ageyo kka?
     author: malcorond
@@ -116,4 +116,11 @@ works:
     date: '2026-10-15'
     code: 687781
     url: /works/687781/
+  - title: The O◯H Story of the Timid Niece Who Only Warms Up to Me
+    author: yamakonbu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695588.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 695588
+    url: /works/695588/
 ---

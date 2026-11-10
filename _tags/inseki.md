@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "inseki"
-work_count: 100
+work_count: 103
 works:
   - title: Imitation Family + Bigibo Hen
     author: tohzai
@@ -162,7 +162,7 @@ works:
   - title: Kaa-san no Umoretai Karada
     author: muronaga-chaashuu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/554739.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-11-09'
     code: 554739
     url: /works/554739/
@@ -244,6 +244,14 @@ works:
     date: '2026-03-09'
     code: 598144
     url: /works/598144/
+  - title: TS Onii-chan ~Futanari Imouto to no Ecchi Kinshi o Chikatta noni Gaman Dekizu
+      ni Osoi ni Kuru Hanashi~
+    author: kuroshiba-suko
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/608450.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 608450
+    url: /works/608450/
   - title: Sono Gal Mama wa Koubi Suru | This Gyaru Mom is Having Sex.
     author: ameto-yuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/608648.jpg
@@ -309,6 +317,13 @@ works:
     date: '2026-10-26'
     code: 618564
     url: /works/618564/
+  - title: TS Onii-chan ga Futanari Imouto ni Mesuochi Saserareru Hanashi
+    author: kuroshiba-suko
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/627260.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 627260
+    url: /works/627260/
   - title: Futari Dake no Himitsu -Moshi Deliheal Yonde Musume ga Kichattara-
     author: takuwan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/631592.jpg
@@ -628,6 +643,14 @@ works:
     date: '2026-09-20'
     code: 682559
     url: /works/682559/
+  - title: Ouchi Harem!? S-kki no Gimai to M-kki no Osananajimi! | A harem at home!?
+      A sadistic stepsister and masochistic childhood friend!
+    author: darunekohanten
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683027.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 683027
+    url: /works/683027/
   - title: Ero Mama ~Erosugiru Hahaoya ga Futari dekita Hanashi~
     author: miyahara-ayumu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683307.jpg
@@ -721,7 +744,7 @@ works:
   - title: TS Onii-chan ~Ecchi na Jisshou Jiken de Kanzen Mesu Ochi o Jinin suru Hanashi~
     author: kuroshiba-suko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694781.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-11-09'
     code: 694781
     url: /works/694781/
@@ -736,7 +759,7 @@ works:
       Icha Love-
     author: nekonume
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695343.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-11-09'
     code: 695343
     url: /works/695343/

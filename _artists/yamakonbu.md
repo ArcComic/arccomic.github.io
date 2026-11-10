@@ -1,7 +1,7 @@
 ---
 layout: artist
 artist_name: "yamakonbu"
-work_count: 2
+work_count: 3
 works:
   - title: My part-time coworker ran away from home and came to work here, but she was
       too sexy...
@@ -17,4 +17,10 @@ works:
     date: '2026-10-20'
     code: 620544
     url: /works/620544/
+  - title: The O◯H Story of the Timid Niece Who Only Warms Up to Me
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695588.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 695588
+    url: /works/695588/
 ---

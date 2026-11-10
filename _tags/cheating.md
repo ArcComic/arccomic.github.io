@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "cheating"
-work_count: 452
+work_count: 454
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -809,6 +809,14 @@ works:
     date: '2026-08-29'
     code: 511316
     url: /works/511316/
+  - title: Nonke datta Kanojo ga Futanari Shinyuu ni NTR made | My Girlfriend and Her
+      Best Friend Who NTR'd Me
+    author: kuroshiba-suko
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/511388.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 511388
+    url: /works/511388/
   - title: Gibo-san wa Boku no Mono 7
     author: c-kyuu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/511503.jpg
@@ -1141,7 +1149,7 @@ works:
   - title: Kaa-san no Umoretai Karada
     author: muronaga-chaashuu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/554739.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-11-09'
     code: 554739
     url: /works/554739/
@@ -1204,6 +1212,13 @@ works:
     date: '2026-04-25'
     code: 562615
     url: /works/562615/
+  - title: Soushitsu Kanojo ~Kioku o Ushinatta Kanojo wa Onna Senpai ni Netorareta~
+    author: kuroshiba-suko
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/563632.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 563632
+    url: /works/563632/
   - title: 1/5 no Renai Kanjou | A Fifth of Romance
     author: chicke-iii
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/568871.jpg
@@ -3287,7 +3302,7 @@ works:
   - title: TS Onii-chan ~Ecchi na Jisshou Jiken de Kanzen Mesu Ochi o Jinin suru Hanashi~
     author: kuroshiba-suko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694781.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-11-09'
     code: 694781
     url: /works/694781/
@@ -3302,7 +3317,7 @@ works:
   - title: I Woke Up in the Morning to Find My Naked Mom Lying Next to Me.
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694897.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-11-09'
     code: 694897
     url: /works/694897/

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "defloration"
-work_count: 287
+work_count: 289
 works:
   - title: Imitation Family + Bigibo Hen
     author: tohzai
@@ -686,7 +686,7 @@ works:
   - title: Kino no Tomo wa Kyou no SeFri | Yesterday's Friend, Today's Sex Friend.
     author: mittsuman
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/583012.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-11-09'
     code: 583012
     url: /works/583012/
@@ -1118,7 +1118,7 @@ works:
       | Watashi no Kutsushita de Shikotteru nara Sono Ochinpo de Asonde mo Ii yo ne?
     author: honshiro-nikori
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/640224.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-11-09'
     code: 640224
     url: /works/640224/
@@ -1906,6 +1906,14 @@ works:
     date: '2026-09-20'
     code: 682557
     url: /works/682557/
+  - title: Ouchi Harem!? S-kki no Gimai to M-kki no Osananajimi! | A harem at home!?
+      A sadistic stepsister and masochistic childhood friend!
+    author: darunekohanten
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683027.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 683027
+    url: /works/683027/
   - title: Physical Encounter 01
     author: yami
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683192.jpg
@@ -2127,4 +2135,11 @@ works:
     date: '2026-11-08'
     code: 694922
     url: /works/694922/
+  - title: The O◯H Story of the Timid Niece Who Only Warms Up to Me
+    author: yamakonbu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695588.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 695588
+    url: /works/695588/
 ---

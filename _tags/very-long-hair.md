@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "very long hair"
-work_count: 81
+work_count: 83
 works:
   - title: Joshikousei Sennyuu Repo ~Hanzaisha ga Onnanoko ni Hyoui shite mita~
     author: touchuu-kasou
@@ -128,6 +128,20 @@ works:
     date: '2026-10-20'
     code: 620544
     url: /works/620544/
+  - title: TS Onii-chan ga Futanari Imouto ni Mesuochi Saserareru Hanashi
+    author: kuroshiba-suko
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/627260.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 627260
+    url: /works/627260/
+  - title: Hanagasa YuShizu Soushuuhen
+    author: orihi-chihiro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/629945.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 629945
+    url: /works/629945/
   - title: Gusai, Saikyouiku. | Dumb wife, re-education.
     author: ushio-kiyoshi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/631677.jpg
@@ -582,7 +596,7 @@ works:
   - title: TS Onii-chan ~Ecchi na Jisshou Jiken de Kanzen Mesu Ochi o Jinin suru Hanashi~
     author: kuroshiba-suko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694781.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-11-09'
     code: 694781
     url: /works/694781/
@@ -596,7 +610,7 @@ works:
   - title: Sold Out 2 (ENG) =TB=
     author: minegami-aya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695211.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-11-09'
     code: 695211
     url: /works/695211/

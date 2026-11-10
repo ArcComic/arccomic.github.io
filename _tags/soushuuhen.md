@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "soushuuhen"
-work_count: 17
+work_count: 18
 works:
   - title: NTR Anniversary + ) [Syukurin] Mitsuha ~Netorare~ (Kimi no Na wa.) [English]
       [Colorized] by Mikaku
@@ -63,6 +63,13 @@ works:
     date: '2026-09-19'
     code: 622161
     url: /works/622161/
+  - title: Hanagasa YuShizu Soushuuhen
+    author: orihi-chihiro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/629945.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 629945
+    url: /works/629945/
   - title: Mitsuha ~Netorare~ 10 (Your Name After Story) True Ending
     author: syukurin
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/643592.jpg

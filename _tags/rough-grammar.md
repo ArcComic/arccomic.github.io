@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "rough grammar"
-work_count: 8
+work_count: 9
 works:
   - title: FANTASY DIARY
     author: yd
@@ -46,6 +46,14 @@ works:
     date: '2026-03-03'
     code: 509474
     url: /works/509474/
+  - title: Nonke datta Kanojo ga Futanari Shinyuu ni NTR made | My Girlfriend and Her
+      Best Friend Who NTR'd Me
+    author: kuroshiba-suko
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/511388.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 511388
+    url: /works/511388/
   - title: Dame nante Ienai
     author: tsurui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/628068.jpg

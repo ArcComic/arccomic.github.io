@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "gender morph"
-work_count: 31
+work_count: 33
 works:
   - title: Seigi no Mikata o Otosu Houhou | How To Subvert an Ally of Justice
     author: fuka
@@ -97,6 +97,14 @@ works:
     date: '2026-05-03'
     code: 540880
     url: /works/540880/
+  - title: TS Onii-chan ~Futanari Imouto to no Ecchi Kinshi o Chikatta noni Gaman Dekizu
+      ni Osoi ni Kuru Hanashi~
+    author: kuroshiba-suko
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/608450.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 608450
+    url: /works/608450/
   - title: TS Goods Panic ~Iritani Kyoudai no Baai~ | TS Goods Panic ~The Case of the
       Iriya's Siblings~
     author: regdic
@@ -105,6 +113,13 @@ works:
     date: '2026-09-11'
     code: 611888
     url: /works/611888/
+  - title: TS Onii-chan ga Futanari Imouto ni Mesuochi Saserareru Hanashi
+    author: kuroshiba-suko
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/627260.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 627260
+    url: /works/627260/
   - title: How I, a fighting gamer, became the heroine of a cosplay AV
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/645566.jpg
@@ -225,7 +240,7 @@ works:
   - title: TS Onii-chan ~Ecchi na Jisshou Jiken de Kanzen Mesu Ochi o Jinin suru Hanashi~
     author: kuroshiba-suko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694781.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-11-09'
     code: 694781
     url: /works/694781/

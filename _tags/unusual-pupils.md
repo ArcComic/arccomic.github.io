@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "unusual pupils"
-work_count: 101
+work_count: 104
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -10,6 +10,20 @@ works:
     date: '2026-04-17'
     code: 162047
     url: /works/162047/
+  - title: Gokuusu Mizugi de Okasaretagari ga Kakusenai
+    author: kekemotsu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/232437.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 232437
+    url: /works/232437/
+  - title: Datenshi Corruption II
+    author: napo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/275471.jpg
+    rating: 4.8
+    date: '2026-11-10'
+    code: 275471
+    url: /works/275471/
   - title: Tsutomesaki no Musume-san o Oishiku Itadaku Hon Minshuku Hen
     author: aya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/284573.jpg
@@ -178,6 +192,14 @@ works:
     date: '2026-10-21'
     code: 490737
     url: /works/490737/
+  - title: Osaka Shizuku no Houkago Secret Lesson | Osaka Shizuku's Secret After-School
+      Lesson
+    author: napo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/492689.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 492689
+    url: /works/492689/
   - title: Moto Mahou Shoujo no Hikikomori Seikatsu | The NEET Life of a Former Magical
       Girl
     author: zhen-lu
@@ -248,7 +270,7 @@ works:
   - title: Hyoui de Gravure Idol o Ore no Mono ni Someageru Hanashi | Gravure Idol Possession
     author: comichi-pota
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/579368.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-11-09'
     code: 579368
     url: /works/579368/
@@ -270,14 +292,14 @@ works:
   - title: Kino no Tomo wa Kyou no SeFri | Yesterday's Friend, Today's Sex Friend.
     author: mittsuman
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/583012.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-11-09'
     code: 583012
     url: /works/583012/
   - title: Kanojo no Present | Her Present
     author: nr
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/587868.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-11-09'
     code: 587868
     url: /works/587868/
@@ -725,7 +747,7 @@ works:
   - title: TS Onii-chan ~Ecchi na Jisshou Jiken de Kanzen Mesu Ochi o Jinin suru Hanashi~
     author: kuroshiba-suko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694781.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-11-09'
     code: 694781
     url: /works/694781/

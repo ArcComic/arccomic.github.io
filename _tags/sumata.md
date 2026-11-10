@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sumata"
-work_count: 33
+work_count: 34
 works:
   - title: Ami Mami Mind 5
     author: tsurui
@@ -212,6 +212,14 @@ works:
     date: '2026-09-10'
     code: 679977
     url: /works/679977/
+  - title: Ouchi Harem!? S-kki no Gimai to M-kki no Osananajimi! | A harem at home!?
+      A sadistic stepsister and masochistic childhood friend!
+    author: darunekohanten
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683027.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 683027
+    url: /works/683027/
   - title: Cross My Heart ~Tsundere Fuuki Iin to Kinpatsu Bishoujo Ryuugakusei~ | Cross
       My Heart ~The Tsundere Disciplinary Committee Member and the Beautiful Blonde
       Exchange Student~

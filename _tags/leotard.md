@@ -1,13 +1,13 @@
 ---
 layout: tag
 tag_name: "leotard"
-work_count: 15
+work_count: 16
 works:
   - title: Dame na Otoko ni Yasashii Elf Manga | A Manga About a Hopeless Man Who Has
       Sex With a Kind Elf
     author: kekemotsu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/437581.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-11-09'
     code: 437581
     url: /works/437581/
@@ -41,6 +41,14 @@ works:
     date: '2026-04-23'
     code: 584579
     url: /works/584579/
+  - title: Ally-san wa Doko Demo Ikitai!! Bangai-hen - Ally's Super Trip!! Extra Black
+      or White
+    author: inukami-inoji
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/589792.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 589792
+    url: /works/589792/
   - title: H na Ouji-sama wa Dame desuka?
     author: inu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/628218.jpg

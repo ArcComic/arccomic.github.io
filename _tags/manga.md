@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "manga"
-work_count: 436
+work_count: 437
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -754,6 +754,13 @@ works:
     date: '2026-04-19'
     code: 453749
     url: /works/453749/
+  - title: Koi no Gunfight Love Steal
+    author: napo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/460241.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 460241
+    url: /works/460241/
   - title: Jimihen!! ~Jimiko o Kaechau Junisei Kouyuu~
     author: iburo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/460264.jpg
@@ -1209,7 +1216,7 @@ works:
   - title: Kaa-san no Umoretai Karada
     author: muronaga-chaashuu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/554739.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-11-09'
     code: 554739
     url: /works/554739/
@@ -1295,7 +1302,7 @@ works:
   - title: Koi no Gunfight | Love's Gunfight Ch.1-3
     author: napo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/574633.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-11-09'
     code: 574633
     url: /works/574633/
@@ -1393,7 +1400,7 @@ works:
   - title: Kanojo no Present | Her Present
     author: nr
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/587868.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-11-09'
     code: 587868
     url: /works/587868/
@@ -1437,7 +1444,7 @@ works:
       You can do whatever you want with the dick card
     author: minato-yuu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/594434.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-11-09'
     code: 594434
     url: /works/594434/
@@ -1984,7 +1991,7 @@ works:
   - title: Nankai demo Kimochii Koto
     author: raita
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/661145.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-11-09'
     code: 661145
     url: /works/661145/

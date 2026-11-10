@@ -1,8 +1,22 @@
 ---
 layout: tag
 tag_name: "strap-on"
-work_count: 13
+work_count: 15
 works:
+  - title: Shizukasu Utopia
+    author: napo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/420026.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 420026
+    url: /works/420026/
+  - title: Koi no Gunfight Love Steal
+    author: napo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/460241.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 460241
+    url: /works/460241/
   - title: Mayugomori 〜Nee ya to boku no midarana himegoto 〜 Ch.1-4
     author: mogiki-hayami
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/506317.jpg
@@ -13,7 +27,7 @@ works:
   - title: Koi no Gunfight | Love's Gunfight Ch.1-3
     author: napo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/574633.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-11-09'
     code: 574633
     url: /works/574633/
@@ -92,7 +106,7 @@ works:
   - title: Sold Out 2 (ENG) =TB=
     author: minegami-aya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695211.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-11-09'
     code: 695211
     url: /works/695211/

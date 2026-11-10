@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "yuri"
-work_count: 65
+work_count: 66
 works:
   - title: Himitsu no Kamiura san | The Mysterious Kamiura-san
     author: takeshisu
@@ -38,6 +38,13 @@ works:
     date: '2026-09-13'
     code: 404458
     url: /works/404458/
+  - title: Shizukasu Utopia
+    author: napo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/420026.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 420026
+    url: /works/420026/
   - title: Ladies Night
     author: mr-kurz
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/446018.jpg
@@ -107,7 +114,7 @@ works:
   - title: Koi no Gunfight | Love's Gunfight Ch.1-3
     author: napo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/574633.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-11-09'
     code: 574633
     url: /works/574633/

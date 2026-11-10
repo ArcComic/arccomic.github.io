@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "gloves"
-work_count: 45
+work_count: 46
 works:
   - title: Yuri no o saifu ni shite agemasu ne, Senpai | I'll turn you into Yuri's wallet,
       Senpai
@@ -63,6 +63,14 @@ works:
     date: '2026-09-12'
     code: 449158
     url: /works/449158/
+  - title: Osaka Shizuku no Houkago Secret Lesson | Osaka Shizuku's Secret After-School
+      Lesson
+    author: napo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/492689.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 492689
+    url: /works/492689/
   - title: Moto Mahou Shoujo no Hikikomori Seikatsu | The NEET Life of a Former Magical
       Girl
     author: zhen-lu

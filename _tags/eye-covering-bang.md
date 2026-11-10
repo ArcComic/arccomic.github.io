@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "eye-covering bang"
-work_count: 98
+work_count: 99
 works:
   - title: Kanojo no Amai Jiraishuu
     author: jirou
@@ -710,7 +710,7 @@ works:
       Onee-san? ~The Ecchi Card: Do What You Want!~'
     author: minato-yuu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690796.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-09'
     code: 690796
     url: /works/690796/
@@ -743,4 +743,11 @@ works:
     date: '2026-11-09'
     code: 694940
     url: /works/694940/
+  - title: The O◯H Story of the Timid Niece Who Only Warms Up to Me
+    author: yamakonbu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695588.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 695588
+    url: /works/695588/
 ---

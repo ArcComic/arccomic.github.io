@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "condom"
-work_count: 263
+work_count: 267
 works:
   - title: Kaisha de Iroiro | Gettin' Busy at the Office
     author: hara-shigeyuki
@@ -689,6 +689,13 @@ works:
     date: '2026-04-25'
     code: 562615
     url: /works/562615/
+  - title: Soushitsu Kanojo ~Kioku o Ushinatta Kanojo wa Onna Senpai ni Netorareta~
+    author: kuroshiba-suko
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/563632.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 563632
+    url: /works/563632/
   - title: Massage-ten de Futanari Bijo ni Portio Acme Shikomareru Onnanoko
     author: ginger-lily
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/567532.jpg
@@ -735,7 +742,7 @@ works:
   - title: Kino no Tomo wa Kyou no SeFri | Yesterday's Friend, Today's Sex Friend.
     author: mittsuman
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/583012.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-11-09'
     code: 583012
     url: /works/583012/
@@ -959,6 +966,13 @@ works:
     date: '2026-09-04'
     code: 625933
     url: /works/625933/
+  - title: Hanagasa YuShizu Soushuuhen
+    author: orihi-chihiro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/629945.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 629945
+    url: /works/629945/
   - title: '"Tokutai" Sei ni Natta node, Shouwaru Gal o Shimei Shimasu! -Itsumo Tsukue
       ni Ketsu o Nosetekuru Umezu-san- | Now That I’m a ''Special Treatment'' Student,
       I’ll Choose the Ill-natured Gyaru! -Umezu-san, Who Always Puts Her Ass on My Desk-'
@@ -1187,6 +1201,13 @@ works:
     date: '2026-09-12'
     code: 646022
     url: /works/646022/
+  - title: My Doggy-Like Boyfriend Becomes My Master At Night
+    author: izumi-uni
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/646234.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 646234
+    url: /works/646234/
   - title: Mujikaku na Osananajimi to Kyoumi Honi de Yatte Mitara | What Happens When
       You Sleep With Your Oblivious Childhood Friend Just Out of Curiosity Part 1
     author: gen
@@ -1946,6 +1967,13 @@ works:
     date: '2026-11-09'
     code: 695285
     url: /works/695285/
+  - title: The O◯H Story of the Timid Niece Who Only Warms Up to Me
+    author: yamakonbu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695588.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 695588
+    url: /works/695588/
   - title: Ranko-ppoi no! | Ranko-Ish!
     author: napata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/87393.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "glasses"
-work_count: 327
+work_count: 329
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -605,6 +605,13 @@ works:
     date: '2026-10-07'
     code: 514517
     url: /works/514517/
+  - title: Kurimaro
+    author: hogeramu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/515994.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 515994
+    url: /works/515994/
   - title: Kyoushi no Oba wa Himitsu no Bakunyuu Ero Cos Layer ~Iinari Gyaku Bunny &
       Sister Cos de Keiren Soku Iki Nakadashi Netori~ | My Teacher Aunt Is Secretly
       A Buxom Erotic Cosplayer
@@ -2394,6 +2401,13 @@ works:
     date: '2026-11-09'
     code: 694973
     url: /works/694973/
+  - title: Ecchi na Omise ni Ittara, Mukashi no Doukyuusei ga Ita Hanashi
+    author: mmchair
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695586.jpg
+    rating: 4.9
+    date: '2026-11-10'
+    code: 695586
+    url: /works/695586/
   - title: Hottokenaino
     author: hara-shigeyuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/77864.jpg

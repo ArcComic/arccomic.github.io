@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "spanking"
-work_count: 12
+work_count: 14
 works:
+  - title: Shizukasu Utopia
+    author: napo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/420026.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 420026
+    url: /works/420026/
   - title: Hagiwara Yukiho no Nijuu Seiai
     author: tsurui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/609238.jpg
@@ -17,6 +24,13 @@ works:
     date: '2026-09-22'
     code: 612498
     url: /works/612498/
+  - title: Hanagasa YuShizu Soushuuhen
+    author: orihi-chihiro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/629945.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 629945
+    url: /works/629945/
   - title: You're My Doggy... Right? ~Pamper Loving Boyfriend Becomes A Wild Sadist
       Hound~
     author: the-waidan
@@ -91,7 +105,7 @@ works:
       gets drunk
     author: shamidou-maichimonji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695225.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-11-09'
     code: 695225
     url: /works/695225/

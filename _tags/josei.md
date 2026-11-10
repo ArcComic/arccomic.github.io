@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "josei"
-work_count: 27
+work_count: 28
 works:
   - title: '[Sakuru Haruni Inazuma (Harumi Niina) Chuuken Bodyguard ga Nisemono Reijou
       no Uso to Shintai wo Abaku made. | Until the Obedient Bodyguard Exposes the Body
@@ -134,6 +134,13 @@ works:
     date: '2026-05-03'
     code: 644810
     url: /works/644810/
+  - title: My Doggy-Like Boyfriend Becomes My Master At Night
+    author: izumi-uni
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/646234.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 646234
+    url: /works/646234/
   - title: If I Have a Chance, I Want to Warp My Boyfriend's Fetishes!
     author: meeko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/647619.jpg

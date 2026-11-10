@@ -1,7 +1,7 @@
 ---
 layout: artist
 artist_name: "mmchair"
-work_count: 2
+work_count: 3
 works:
   - title: Onna Tomodachi Futari to Perochuu suru Hanashi | A Story About Kissing 2
       Female Friends
@@ -17,4 +17,10 @@ works:
     date: '2026-08-22'
     code: 652912
     url: /works/652912/
+  - title: Ecchi na Omise ni Ittara, Mukashi no Doukyuusei ga Ita Hanashi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695586.jpg
+    rating: 4.9
+    date: '2026-11-10'
+    code: 695586
+    url: /works/695586/
 ---

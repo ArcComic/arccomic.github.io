@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "tail plug"
-work_count: 12
+work_count: 13
 works:
   - title: Toshoshitsu no Kanojo 5 ~Onna Kyoushi ga Ochiru made (Zenpen)~
     author: ame-arare
@@ -10,6 +10,14 @@ works:
     date: '2026-10-15'
     code: 410909
     url: /works/410909/
+  - title: Osaka Shizuku no Houkago Secret Lesson | Osaka Shizuku's Secret After-School
+      Lesson
+    author: napo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/492689.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 492689
+    url: /works/492689/
   - title: Eat Meat + Digital Tokusouban Gentei Tokuten - Natsume-san wa Chorosugiru!
     author: ushinomiya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638556.jpg

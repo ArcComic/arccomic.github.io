@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "school gym uniform"
-work_count: 11
+work_count: 12
 works:
   - title: Namaiki TS Yankee ga Zetsurin Taiiku Kyoushi no Onaho ni natte Akume Shiofuki
       Mesu Ochi Ninshin! [TS Delinquent becomes a gym teacher's onahole and Cums ❤ Squirts
@@ -88,4 +88,11 @@ works:
     date: '2026-11-09'
     code: 694974
     url: /works/694974/
+  - title: Ecchi na Omise ni Ittara, Mukashi no Doukyuusei ga Ita Hanashi
+    author: mmchair
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695586.jpg
+    rating: 4.9
+    date: '2026-11-10'
+    code: 695586
+    url: /works/695586/
 ---

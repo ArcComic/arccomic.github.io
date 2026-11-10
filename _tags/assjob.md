@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "assjob"
-work_count: 9
+work_count: 10
 works:
   - title: Mama Naranai Onna-tachi Ch. 1-2
     author: otochichi
@@ -10,6 +10,13 @@ works:
     date: '2026-10-10'
     code: 209822
     url: /works/209822/
+  - title: Datenshi Corruption II
+    author: napo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/275471.jpg
+    rating: 4.8
+    date: '2026-11-10'
+    code: 275471
+    url: /works/275471/
   - title: 1/5 no Renai Kanjou | A Fifth of Romance
     author: chicke-iii
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/568871.jpg

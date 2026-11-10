@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "shemale"
-work_count: 9
+work_count: 10
 works:
   - title: Pirin The Prostitute
     author: arukaniko
@@ -24,6 +24,14 @@ works:
     date: '2026-10-02'
     code: 567532
     url: /works/567532/
+  - title: TS Onii-chan ~Futanari Imouto to no Ecchi Kinshi o Chikatta noni Gaman Dekizu
+      ni Osoi ni Kuru Hanashi~
+    author: kuroshiba-suko
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/608450.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 608450
+    url: /works/608450/
   - title: My GF (ghost friend) caught me jerking off and now she's bouncing on it CRAZY
       STYLE
     author: ricegnat

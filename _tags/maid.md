@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "maid"
-work_count: 56
+work_count: 57
 works:
   - title: Maid no Oshigoto. II | Maid's Work II
     author: alexi-laiho
@@ -146,6 +146,14 @@ works:
     date: '2026-09-18'
     code: 606170
     url: /works/606170/
+  - title: TS Onii-chan ~Futanari Imouto to no Ecchi Kinshi o Chikatta noni Gaman Dekizu
+      ni Osoi ni Kuru Hanashi~
+    author: kuroshiba-suko
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/608450.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 608450
+    url: /works/608450/
   - title: 'Sono Bisque Doll wa H o Suru Soushuuhen II ＋ 9 ー  My Sexy Dress-Up Darling
       Anthology #2'
     author: yahiro-pochi
@@ -251,7 +259,7 @@ works:
   - title: Nankai demo Kimochii Koto
     author: raita
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/661145.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-11-09'
     code: 661145
     url: /works/661145/

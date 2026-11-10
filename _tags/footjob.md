@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "footjob"
-work_count: 46
+work_count: 47
 works:
   - title: Sei no Kenryoku | The Power of Sex
     author: tomohiro-kai
@@ -66,6 +66,14 @@ works:
     date: '2026-05-26'
     code: 532417
     url: /works/532417/
+  - title: Ally-san wa Doko Demo Ikitai!! Bangai-hen - Ally's Super Trip!! Extra Black
+      or White
+    author: inukami-inoji
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/589792.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 589792
+    url: /works/589792/
   - title: '"Tokutai" Sei ni Natta node, Shouwaru Gal o Shimei Shimasu! -Itsumo Tsukue
       ni Ketsu o Nosetekuru Umezu-san- | Now That I’m a ''Special Treatment'' Student,
       I’ll Choose the Ill-natured Gyaru! -Umezu-san, Who Always Puts Her Ass on My Desk-'
@@ -108,7 +116,7 @@ works:
       | Watashi no Kutsushita de Shikotteru nara Sono Ochinpo de Asonde mo Ii yo ne?
     author: honshiro-nikori
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/640224.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-11-09'
     code: 640224
     url: /works/640224/
