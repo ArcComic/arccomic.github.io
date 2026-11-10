@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "brother"
-work_count: 13
+work_count: 14
 works:
   - title: Akarui Kazoku Seikatsu
     author: pistonring-nishizawa
@@ -34,6 +34,14 @@ works:
     date: '2026-09-08'
     code: 464903
     url: /works/464903/
+  - title: Uchi de wa Kazoku Sex wa Joushiki Rashii | In My House, Family Sex Is the
+      Norm
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/469644.jpg
+    rating: 4.3
+    date: '2026-11-10'
+    code: 469644
+    url: /works/469644/
   - title: Siblings Shouldn't Do It! | Kyoudai de Shitara Ikemasen
     author: fence-14
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/635266.jpg

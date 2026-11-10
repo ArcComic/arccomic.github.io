@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "cheating"
-work_count: 454
+work_count: 455
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -1409,6 +1409,13 @@ works:
     date: '2026-09-30'
     code: 596687
     url: /works/596687/
+  - title: Shinchou 211 cm no Jirai-kei Joshi ni Nerawarete mou Nigerarenai 2
+    author: kinntarou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/597906.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 597906
+    url: /works/597906/
   - title: Kaya-nee and the Old Man Memories
     author: kon-kit
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/598144.jpg

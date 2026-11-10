@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "double penetration"
-work_count: 60
+work_count: 61
 works:
   - title: Hitozuma Hyakka
     author: hase-tsubura
@@ -59,6 +59,14 @@ works:
     date: '2026-04-19'
     code: 446716
     url: /works/446716/
+  - title: Uchi de wa Kazoku Sex wa Joushiki Rashii | In My House, Family Sex Is the
+      Norm
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/469644.jpg
+    rating: 4.3
+    date: '2026-11-10'
+    code: 469644
+    url: /works/469644/
   - title: Toshoshitsu no Kanojo 6 ~Onna Kyoushi ga Ochiru made (Kouhen)~
     author: ame-arare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/474458.jpg

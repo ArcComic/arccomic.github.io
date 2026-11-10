@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "group"
-work_count: 305
+work_count: 306
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -253,6 +253,14 @@ works:
     date: '2026-04-19'
     code: 465602
     url: /works/465602/
+  - title: Uchi de wa Kazoku Sex wa Joushiki Rashii | In My House, Family Sex Is the
+      Norm
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/469644.jpg
+    rating: 4.3
+    date: '2026-11-10'
+    code: 469644
+    url: /works/469644/
   - title: Kanojo wa Boku no Taieki de Ugoiteiru Phase. 05 [English] =NSS=
     author: nagareboshi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/470025.jpg

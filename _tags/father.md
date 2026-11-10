@@ -1,8 +1,16 @@
 ---
 layout: tag
 tag_name: "father"
-work_count: 2
+work_count: 3
 works:
+  - title: Uchi de wa Kazoku Sex wa Joushiki Rashii | In My House, Family Sex Is the
+      Norm
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/469644.jpg
+    rating: 4.3
+    date: '2026-11-10'
+    code: 469644
+    url: /works/469644/
   - title: Metamorphosis Chapter 3
     author: shindol
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/664216.jpg

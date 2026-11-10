@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "original"
-work_count: 1374
+work_count: 1376
 works:
   - title: Gokuusu Mizugi de Okasaretagari ga Kakusenai
     author: kekemotsu
@@ -1018,6 +1018,14 @@ works:
     date: '2026-04-19'
     code: 465602
     url: /works/465602/
+  - title: Uchi de wa Kazoku Sex wa Joushiki Rashii | In My House, Family Sex Is the
+      Norm
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/469644.jpg
+    rating: 4.3
+    date: '2026-11-10'
+    code: 469644
+    url: /works/469644/
   - title: Tsuma ga, Tanin no Mesu ni naru made -Short Cut Kyonyuu Tsuma Sasaki Misaki
       Hen-
     author: haruhisky
@@ -3023,6 +3031,13 @@ works:
     date: '2026-02-25'
     code: 597754
     url: /works/597754/
+  - title: Shinchou 211 cm no Jirai-kei Joshi ni Nerawarete mou Nigerarenai 2
+    author: kinntarou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/597906.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 597906
+    url: /works/597906/
   - title: Kouen no Oji-san-tachi ni Moteasobaretai
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/598010.jpg

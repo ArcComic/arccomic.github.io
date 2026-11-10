@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "deepthroat"
-work_count: 120
+work_count: 121
 works:
   - title: Toshishita Chin Kui Obasan
     author: maccha-neji
@@ -41,6 +41,14 @@ works:
     date: '2026-04-13'
     code: 432301
     url: /works/432301/
+  - title: Uchi de wa Kazoku Sex wa Joushiki Rashii | In My House, Family Sex Is the
+      Norm
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/469644.jpg
+    rating: 4.3
+    date: '2026-11-10'
+    code: 469644
+    url: /works/469644/
   - title: Boku no Doutei wa Neteru Aida ni... Ubawaremashita
     author: kinntarou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/490633.jpg

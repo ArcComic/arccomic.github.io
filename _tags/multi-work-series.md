@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "multi-work series"
-work_count: 480
+work_count: 481
 works:
   - title: Konna ni mo Itooshii Zero
     author: nohito
@@ -1212,6 +1212,13 @@ works:
     date: '2026-09-30'
     code: 596687
     url: /works/596687/
+  - title: Shinchou 211 cm no Jirai-kei Joshi ni Nerawarete mou Nigerarenai 2
+    author: kinntarou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/597906.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 597906
+    url: /works/597906/
   - title: Motokano-tachi to Ya Re Naoshi!? CHAPTER 2
     author: shinonome-ryu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/598175.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "translated"
-work_count: 1986
+work_count: 1988
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -2172,6 +2172,14 @@ works:
     date: '2026-07-10'
     code: 468655
     url: /works/468655/
+  - title: Uchi de wa Kazoku Sex wa Joushiki Rashii | In My House, Family Sex Is the
+      Norm
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/469644.jpg
+    rating: 4.3
+    date: '2026-11-10'
+    code: 469644
+    url: /works/469644/
   - title: Tsuma ga, Tanin no Mesu ni naru made -Short Cut Kyonyuu Tsuma Sasaki Misaki
       Hen-
     author: haruhisky
@@ -4925,6 +4933,13 @@ works:
     date: '2026-09-12'
     code: 597573
     url: /works/597573/
+  - title: Shinchou 211 cm no Jirai-kei Joshi ni Nerawarete mou Nigerarenai 2
+    author: kinntarou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/597906.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 597906
+    url: /works/597906/
   - title: Kouen no Oji-san-tachi ni Moteasobaretai
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/598010.jpg

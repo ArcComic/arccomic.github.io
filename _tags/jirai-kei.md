@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "jirai kei"
-work_count: 12
+work_count: 13
 works:
   - title: Mecha Eroi kedo Sasoi ni Nottara Hametsushisou na Ko | A Girl Who Is Very
       Sexy But Will Ruin Me If I Ask Her Out
@@ -50,6 +50,13 @@ works:
     date: '2026-09-18'
     code: 590068
     url: /works/590068/
+  - title: Shinchou 211 cm no Jirai-kei Joshi ni Nerawarete mou Nigerarenai 2
+    author: kinntarou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/597906.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 597906
+    url: /works/597906/
   - title: Mechakucha Jiraippoi kedo Ne wa Yasashisouna Ko | Serious Land Mine Vibes
       but Deep Down She Seems Sweet
     author: 7zu7

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "saliva"
-work_count: 12
+work_count: 13
 works:
   - title: Shinchou 211cm no Jirai-kei Joshi ni Nerawarete Mou Nigerarenai | A 211cm
       Tall Jirai-kei Girl Has Her Eyes on Me, and I Can't Escape♡
@@ -18,6 +18,13 @@ works:
     date: '2026-09-26'
     code: 584135
     url: /works/584135/
+  - title: Shinchou 211 cm no Jirai-kei Joshi ni Nerawarete mou Nigerarenai 2
+    author: kinntarou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/597906.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 597906
+    url: /works/597906/
   - title: Kaneda wa nani mo warukunai Vol.3
     author: haruharudo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/641456.jpg

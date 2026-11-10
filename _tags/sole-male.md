@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole male"
-work_count: 1157
+work_count: 1158
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -3149,6 +3149,13 @@ works:
     date: '2026-02-25'
     code: 597754
     url: /works/597754/
+  - title: Shinchou 211 cm no Jirai-kei Joshi ni Nerawarete mou Nigerarenai 2
+    author: kinntarou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/597906.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 597906
+    url: /works/597906/
   - title: Astrantia
     author: kyougoku-shin
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/598156.jpg

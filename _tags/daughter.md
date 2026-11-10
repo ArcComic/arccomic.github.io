@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "daughter"
-work_count: 36
+work_count: 37
 works:
   - title: Kindan no Hatemitsu
     author: ryuuta
@@ -24,6 +24,14 @@ works:
     date: '2026-02-28'
     code: 429669
     url: /works/429669/
+  - title: Uchi de wa Kazoku Sex wa Joushiki Rashii | In My House, Family Sex Is the
+      Norm
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/469644.jpg
+    rating: 4.3
+    date: '2026-11-10'
+    code: 469644
+    url: /works/469644/
   - title: Risato
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/484852.jpg

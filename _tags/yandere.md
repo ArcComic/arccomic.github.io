@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "yandere"
-work_count: 41
+work_count: 42
 works:
   - title: Hitorijime Cinderella
     author: okagiri-shou
@@ -169,6 +169,13 @@ works:
     date: '2026-10-07'
     code: 589628
     url: /works/589628/
+  - title: Shinchou 211 cm no Jirai-kei Joshi ni Nerawarete mou Nigerarenai 2
+    author: kinntarou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/597906.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 597906
+    url: /works/597906/
   - title: Haha to iu Kaibutsu ~M Otoko Aka-chan toshite Sodate rareta Boku wa Yasashii
       Mama ni Dekiai sareru~ | Mother, the Monster ~I was raised as a masochistic baby
       and am doted on by my kind mother~

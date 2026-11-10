@@ -1,7 +1,7 @@
 ---
 layout: artist
 artist_name: "group"
-work_count: 43
+work_count: 44
 works:
   - title: Shitsurakuen | Paradise Lost
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/463749.jpg
@@ -9,6 +9,13 @@ works:
     date: '2026-09-15'
     code: 463749
     url: /works/463749/
+  - title: Uchi de wa Kazoku Sex wa Joushiki Rashii | In My House, Family Sex Is the
+      Norm
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/469644.jpg
+    rating: 4.3
+    date: '2026-11-10'
+    code: 469644
+    url: /works/469644/
   - title: Jimi Kyonyuu No Stalker Onna Ni Gokuhaku Saretanode Yarimakutte Mita Hanashi
       2 | I Was Confessed To By A Plain Busty Stalker Girl, So I Fucked Her Like Crazy
       2

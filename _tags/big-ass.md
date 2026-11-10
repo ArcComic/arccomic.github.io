@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big ass"
-work_count: 328
+work_count: 329
 works:
   - title: My Care Lady Ch. 1
     author: sugi-g
@@ -572,6 +572,13 @@ works:
     date: '2026-09-11'
     code: 594462
     url: /works/594462/
+  - title: Shinchou 211 cm no Jirai-kei Joshi ni Nerawarete mou Nigerarenai 2
+    author: kinntarou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/597906.jpg
+    rating: 0.0
+    date: '2026-11-10'
+    code: 597906
+    url: /works/597906/
   - title: Onna Gal Joushi to Furin suru Hanashi 3 | Having an Affair with My Blonde
       Bombshell Boss – Part 3
     author: nakamo
