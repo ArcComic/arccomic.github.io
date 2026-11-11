@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "deepthroat"
-work_count: 122
+work_count: 123
 works:
   - title: Toshishita Chin Kui Obasan
     author: maccha-neji
@@ -250,6 +250,13 @@ works:
     date: '2026-03-08'
     code: 635514
     url: /works/635514/
+  - title: Ore wa Shachiku de Rinjin Gal Hitozuma no Seiyoku Shori Gakari
+    author: kaniguruma
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/640053.jpg
+    rating: 0.0
+    date: '2026-11-11'
+    code: 640053
+    url: /works/640053/
   - title: Noroi no Sei de MP ga Tarimasen!! Kouhen | "MP is Depleted Because of a Curse!!
       - last part
     author: nigiri-usagi

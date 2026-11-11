@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "prostitution"
-work_count: 91
+work_count: 92
 works:
   - title: Ikanishite Haha wa Onna o Kaihou Shitaka Ch. 1-14
     author: mitarai-yuuki
@@ -305,6 +305,13 @@ works:
     date: '2026-07-15'
     code: 616358
     url: /works/616358/
+  - title: Manga Matome
+    author: elel
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/616921.jpg
+    rating: 0.0
+    date: '2026-11-11'
+    code: 616921
+    url: /works/616921/
   - title: 'Taihai Tsuma: Taihaikei Hitotsuma o Yachin Kawari ni Koki Tsukaeru Hanashi
       | Slutty Wife!'
     author: kametaro

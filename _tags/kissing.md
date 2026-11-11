@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "kissing"
-work_count: 502
+work_count: 504
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -1246,6 +1246,13 @@ works:
     date: '2026-10-11'
     code: 616683
     url: /works/616683/
+  - title: Manga Matome
+    author: elel
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/616921.jpg
+    rating: 0.0
+    date: '2026-11-11'
+    code: 616921
+    url: /works/616921/
   - title: Charai Daigakusei ni Netorareta Boku no Kanojo
     author: furaimai
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/617074.jpg
@@ -1629,6 +1636,13 @@ works:
     date: '2026-08-23'
     code: 639772
     url: /works/639772/
+  - title: Ore wa Shachiku de Rinjin Gal Hitozuma no Seiyoku Shori Gakari
+    author: kaniguruma
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/640053.jpg
+    rating: 0.0
+    date: '2026-11-11'
+    code: 640053
+    url: /works/640053/
   - title: Sougo Onanii de Osananajimi wa Itsumo Iku! ~Kore Ijou Iku to Tomaranai yo?~
       | My Childhood Friend Loves It When We Jerk Off Together! But What Will Happen
       If We Keep Going!?

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "business suit"
-work_count: 107
+work_count: 108
 works:
   - title: MAGIC SEVEN
     author: asuhiro
@@ -527,6 +527,13 @@ works:
     date: '2026-10-12'
     code: 638495
     url: /works/638495/
+  - title: Ore wa Shachiku de Rinjin Gal Hitozuma no Seiyoku Shori Gakari
+    author: kaniguruma
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/640053.jpg
+    rating: 0.0
+    date: '2026-11-11'
+    code: 640053
+    url: /works/640053/
   - title: Otokomasari na Kyonyuu Hitozuma Joushi to Amaama SeFri Kankei ni Natta Ken
     author: elica
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/641362.jpg

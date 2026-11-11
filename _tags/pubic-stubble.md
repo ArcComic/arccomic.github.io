@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "pubic stubble"
-work_count: 7
+work_count: 8
 works:
   - title: Okki na Kanojo ni Amaetai | I want to be pampered by a girl of generous girth
     author: higashino-mikan
@@ -49,6 +49,13 @@ works:
     date: '2026-08-23'
     code: 639772
     url: /works/639772/
+  - title: Ore wa Shachiku de Rinjin Gal Hitozuma no Seiyoku Shori Gakari
+    author: kaniguruma
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/640053.jpg
+    rating: 0.0
+    date: '2026-11-11'
+    code: 640053
+    url: /works/640053/
   - title: Natsu Pi!
     author: iku
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695467.jpg

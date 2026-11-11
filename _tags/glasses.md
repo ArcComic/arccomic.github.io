@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "glasses"
-work_count: 332
+work_count: 333
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -1103,6 +1103,13 @@ works:
     date: '2026-08-23'
     code: 639772
     url: /works/639772/
+  - title: Ore wa Shachiku de Rinjin Gal Hitozuma no Seiyoku Shori Gakari
+    author: kaniguruma
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/640053.jpg
+    rating: 0.0
+    date: '2026-11-11'
+    code: 640053
+    url: /works/640053/
   - title: Ero Mangaka-san to Henshu-kun
     author: kibi-anmitsu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/641928.jpg

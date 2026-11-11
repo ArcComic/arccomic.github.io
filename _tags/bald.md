@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bald"
-work_count: 91
+work_count: 92
 works:
   - title: Overwrite
     author: ojo
@@ -255,6 +255,13 @@ works:
     date: '2026-04-30'
     code: 615835
     url: /works/615835/
+  - title: Manga Matome
+    author: elel
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/616921.jpg
+    rating: 0.0
+    date: '2026-11-11'
+    code: 616921
+    url: /works/616921/
   - title: Amatori-san to Ningensei Gomikuzu Chuunen ga Suyasuya Ecchi suru Manga |
       A Middle-Aged Piece of Human Trash Fucks Miss Amatori in Her Sleep
     author: saishow

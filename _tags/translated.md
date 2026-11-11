@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "translated"
-work_count: 2007
+work_count: 2009
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -5542,6 +5542,13 @@ works:
     date: '2026-09-08'
     code: 616896
     url: /works/616896/
+  - title: Manga Matome
+    author: elel
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/616921.jpg
+    rating: 0.0
+    date: '2026-11-11'
+    code: 616921
+    url: /works/616921/
   - title: Tonari no Ie no Muboubi de Seibo sugiru Gal Mama
     author: rk-2
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/617061.jpg
@@ -6637,6 +6644,13 @@ works:
     date: '2026-08-23'
     code: 639772
     url: /works/639772/
+  - title: Ore wa Shachiku de Rinjin Gal Hitozuma no Seiyoku Shori Gakari
+    author: kaniguruma
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/640053.jpg
+    rating: 0.0
+    date: '2026-11-11'
+    code: 640053
+    url: /works/640053/
   - title: 'Namaiki JK ga Wakaraserareru Hon Bangai Hen | Putting a Cheeky Gyaru in
       Her Place: Extra Chapter'
     author: onkyu

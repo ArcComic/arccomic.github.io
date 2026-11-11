@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "schoolgirl uniform"
-work_count: 437
+work_count: 438
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -1138,6 +1138,13 @@ works:
     date: '2026-04-27'
     code: 616533
     url: /works/616533/
+  - title: Manga Matome
+    author: elel
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/616921.jpg
+    rating: 0.0
+    date: '2026-11-11'
+    code: 616921
+    url: /works/616921/
   - title: Charai Daigakusei ni Netorareta Boku no Kanojo
     author: furaimai
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/617074.jpg

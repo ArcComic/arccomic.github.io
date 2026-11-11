@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "nakadashi"
-work_count: 1077
+work_count: 1079
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -2996,6 +2996,13 @@ works:
     date: '2026-09-08'
     code: 616896
     url: /works/616896/
+  - title: Manga Matome
+    author: elel
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/616921.jpg
+    rating: 0.0
+    date: '2026-11-11'
+    code: 616921
+    url: /works/616921/
   - title: Charai Daigakusei ni Netorareta Boku no Kanojo
     author: furaimai
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/617074.jpg
@@ -3699,6 +3706,13 @@ works:
     date: '2026-08-20'
     code: 639463
     url: /works/639463/
+  - title: Ore wa Shachiku de Rinjin Gal Hitozuma no Seiyoku Shori Gakari
+    author: kaniguruma
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/640053.jpg
+    rating: 0.0
+    date: '2026-11-11'
+    code: 640053
+    url: /works/640053/
   - title: 'Namaiki JK ga Wakaraserareru Hon Bangai Hen | Putting a Cheeky Gyaru in
       Her Place: Extra Chapter'
     author: onkyu

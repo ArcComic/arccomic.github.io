@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "machine translation"
-work_count: 39
+work_count: 40
 works:
   - title: My part-time coworker ran away from home and came to work here, but she was
       too sexy...
@@ -18,6 +18,13 @@ works:
     date: '2026-03-03'
     code: 634156
     url: /works/634156/
+  - title: Ore wa Shachiku de Rinjin Gal Hitozuma no Seiyoku Shori Gakari
+    author: kaniguruma
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/640053.jpg
+    rating: 0.0
+    date: '2026-11-11'
+    code: 640053
+    url: /works/640053/
   - title: Mujikaku na Osananajimi to Kyoumi Honi de Yatte Mitara | What Happens When
       You Sleep With Your Oblivious Childhood Friend Just Out of Curiosity Part 1
     author: gen

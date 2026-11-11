@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "tomboy"
-work_count: 90
+work_count: 91
 works:
   - title: Kizashi
     author: yoshiura-kazuya
@@ -274,6 +274,13 @@ works:
     date: '2026-02-26'
     code: 615775
     url: /works/615775/
+  - title: Manga Matome
+    author: elel
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/616921.jpg
+    rating: 0.0
+    date: '2026-11-11'
+    code: 616921
+    url: /works/616921/
   - title: Mousukoshi dake, Konomama de - Stay together for a little longer. + Seishun
       no Tsunagarikata
     author: syoukaki
