@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "drugs"
-work_count: 51
+work_count: 52
 works:
   - title: A-part | Apartment
     author: zero-no-mono
@@ -376,6 +376,13 @@ works:
     date: '2026-11-09'
     code: 695211
     url: /works/695211/
+  - title: The World Called Wife ~ Experiencing Her Pleasure Myself ~
+    author: sabusuka
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695574.jpg
+    rating: 0.0
+    date: '2026-11-11'
+    code: 695574
+    url: /works/695574/
   - title: Inin Keiyaku | Lewd Pregnancy Contract
     author: yoshiura-kazuya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/83595.jpg

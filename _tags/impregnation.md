@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "impregnation"
-work_count: 190
+work_count: 191
 works:
   - title: Kousa suru Osu to Mesu | Male and Female Crossing
     author: ootsuka-kotora
@@ -1388,6 +1388,13 @@ works:
     date: '2026-11-11'
     code: 695547
     url: /works/695547/
+  - title: The World Called Wife ~ Experiencing Her Pleasure Myself ~
+    author: sabusuka
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695574.jpg
+    rating: 0.0
+    date: '2026-11-11'
+    code: 695574
+    url: /works/695574/
   - title: A Place Where I Can Shine | Kagayakeru Basho
     author: tantanmen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695639.jpg

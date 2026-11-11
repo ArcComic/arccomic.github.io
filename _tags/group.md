@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "group"
-work_count: 307
+work_count: 308
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -2248,6 +2248,13 @@ works:
     date: '2026-11-09'
     code: 695211
     url: /works/695211/
+  - title: The World Called Wife ~ Experiencing Her Pleasure Myself ~
+    author: sabusuka
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695574.jpg
+    rating: 0.0
+    date: '2026-11-11'
+    code: 695574
+    url: /works/695574/
   - title: Hadaka Gurashi Chapter 1 to 21
     author: agata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695703.jpg

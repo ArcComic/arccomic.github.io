@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "exposed clothing"
-work_count: 26
+work_count: 27
 works:
   - title: Yofukashi no Tsuma ~Murakami Kozue~ | Late-Night Wife ~Murakami Kozue~
     author: oobayashi-mori
@@ -194,4 +194,11 @@ works:
     date: '2026-11-08'
     code: 689137
     url: /works/689137/
+  - title: The World Called Wife ~ Experiencing Her Pleasure Myself ~
+    author: sabusuka
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695574.jpg
+    rating: 0.0
+    date: '2026-11-11'
+    code: 695574
+    url: /works/695574/
 ---

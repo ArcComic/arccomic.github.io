@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "cheating"
-work_count: 460
+work_count: 462
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -3380,6 +3380,13 @@ works:
     date: '2026-11-11'
     code: 695568
     url: /works/695568/
+  - title: The World Called Wife ~ Experiencing Her Pleasure Myself ~
+    author: sabusuka
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695574.jpg
+    rating: 0.0
+    date: '2026-11-11'
+    code: 695574
+    url: /works/695574/
   - title: Daigaku jidai no sefure ga rinjin ni natta
     author: muripoyo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695711.jpg
@@ -3387,6 +3394,13 @@ works:
     date: '2026-11-10'
     code: 695711
     url: /works/695711/
+  - title: Shiho Nishizumi vs BBC - Shiho Nishizumi VS. Big Black Cock
+    author: rasson
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695891.jpg
+    rating: 0.0
+    date: '2026-11-11'
+    code: 695891
+    url: /works/695891/
   - title: Jokyoushi - Hot For Teachers | Female Teachers
     author: drill-murata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/81375.jpg

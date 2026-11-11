@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "mesuiki"
-work_count: 16
+work_count: 17
 works:
   - title: 'GNO: Girl''s Night Out - Issue 02'
     author: uselessbegging
@@ -124,4 +124,11 @@ works:
     date: '2026-11-10'
     code: 695588
     url: /works/695588/
+  - title: Crackhead lookin ahh gets to crack voluptuous beauty
+    author: mikarin
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695946.jpg
+    rating: 4.8
+    date: '2026-11-11'
+    code: 695946
+    url: /works/695946/
 ---

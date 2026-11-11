@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "facial hair"
-work_count: 47
+work_count: 48
 works:
   - title: Asuna-san ga Agil ni Netorareru Ohanashi
     author: fujimiya-siryu
@@ -346,4 +346,11 @@ works:
     date: '2026-10-18'
     code: 688585
     url: /works/688585/
+  - title: Shiho Nishizumi vs BBC - Shiho Nishizumi VS. Big Black Cock
+    author: rasson
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695891.jpg
+    rating: 0.0
+    date: '2026-11-11'
+    code: 695891
+    url: /works/695891/
 ---

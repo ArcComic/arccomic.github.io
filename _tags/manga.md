@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "manga"
-work_count: 440
+work_count: 441
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -3127,6 +3127,13 @@ works:
     date: '2026-11-08'
     code: 694922
     url: /works/694922/
+  - title: The World Called Wife ~ Experiencing Her Pleasure Myself ~
+    author: sabusuka
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695574.jpg
+    rating: 0.0
+    date: '2026-11-11'
+    code: 695574
+    url: /works/695574/
   - title: Gyu Shite Chuu | Hugs and Kisses For You
     author: gurida-soumu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695576.jpg

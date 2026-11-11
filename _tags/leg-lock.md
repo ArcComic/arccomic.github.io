@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "leg lock"
-work_count: 126
+work_count: 127
 works:
   - title: My Care Lady Ch. 1
     author: sugi-g
@@ -945,4 +945,11 @@ works:
     date: '2026-11-09'
     code: 695285
     url: /works/695285/
+  - title: Crackhead lookin ahh gets to crack voluptuous beauty
+    author: mikarin
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695946.jpg
+    rating: 4.8
+    date: '2026-11-11'
+    code: 695946
+    url: /works/695946/
 ---

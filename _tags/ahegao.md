@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "ahegao"
-work_count: 416
+work_count: 419
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -3086,6 +3086,13 @@ works:
     date: '2026-11-11'
     code: 695467
     url: /works/695467/
+  - title: The World Called Wife ~ Experiencing Her Pleasure Myself ~
+    author: sabusuka
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695574.jpg
+    rating: 0.0
+    date: '2026-11-11'
+    code: 695574
+    url: /works/695574/
   - title: Gyu Shite Chuu | Hugs and Kisses For You
     author: gurida-soumu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695576.jpg
@@ -3121,6 +3128,20 @@ works:
     date: '2026-11-10'
     code: 695711
     url: /works/695711/
+  - title: Shiho Nishizumi vs BBC - Shiho Nishizumi VS. Big Black Cock
+    author: rasson
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695891.jpg
+    rating: 0.0
+    date: '2026-11-11'
+    code: 695891
+    url: /works/695891/
+  - title: Crackhead lookin ahh gets to crack voluptuous beauty
+    author: mikarin
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695946.jpg
+    rating: 4.8
+    date: '2026-11-11'
+    code: 695946
+    url: /works/695946/
   - title: Inin Keiyaku | Lewd Pregnancy Contract
     author: yoshiura-kazuya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/83595.jpg

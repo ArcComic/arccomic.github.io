@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "spanking"
-work_count: 16
+work_count: 17
 works:
   - title: Shizukasu Utopia
     author: napo
@@ -116,6 +116,13 @@ works:
     date: '2026-11-09'
     code: 695225
     url: /works/695225/
+  - title: The World Called Wife ~ Experiencing Her Pleasure Myself ~
+    author: sabusuka
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695574.jpg
+    rating: 0.0
+    date: '2026-11-11'
+    code: 695574
+    url: /works/695574/
   - title: Daigaku jidai no sefure ga rinjin ni natta
     author: muripoyo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695711.jpg

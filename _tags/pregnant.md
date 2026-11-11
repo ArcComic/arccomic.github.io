@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "pregnant"
-work_count: 76
+work_count: 77
 works:
   - title: Mama Naranai Onna-tachi Ch. 1-2
     author: otochichi
@@ -548,6 +548,13 @@ works:
     date: '2026-11-11'
     code: 695568
     url: /works/695568/
+  - title: The World Called Wife ~ Experiencing Her Pleasure Myself ~
+    author: sabusuka
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695574.jpg
+    rating: 0.0
+    date: '2026-11-11'
+    code: 695574
+    url: /works/695574/
   - title: A Place Where I Can Shine | Kagayakeru Basho
     author: tantanmen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695639.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "muscle"
-work_count: 153
+work_count: 154
 works:
   - title: Kousa suru Osu to Mesu | Male and Female Crossing
     author: ootsuka-kotora
@@ -1150,4 +1150,11 @@ works:
     date: '2026-11-10'
     code: 695711
     url: /works/695711/
+  - title: Shiho Nishizumi vs BBC - Shiho Nishizumi VS. Big Black Cock
+    author: rasson
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695891.jpg
+    rating: 0.0
+    date: '2026-11-11'
+    code: 695891
+    url: /works/695891/
 ---

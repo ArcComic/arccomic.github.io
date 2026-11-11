@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "asphyxiation"
-work_count: 31
+work_count: 32
 works:
   - title: My Dress Up Corpse
     author: mr-kurz
@@ -232,4 +232,11 @@ works:
     date: '2026-11-09'
     code: 695211
     url: /works/695211/
+  - title: Shiho Nishizumi vs BBC - Shiho Nishizumi VS. Big Black Cock
+    author: rasson
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695891.jpg
+    rating: 0.0
+    date: '2026-11-11'
+    code: 695891
+    url: /works/695891/
 ---

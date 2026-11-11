@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "x-ray"
-work_count: 443
+work_count: 445
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -3296,6 +3296,13 @@ works:
     date: '2026-11-11'
     code: 695467
     url: /works/695467/
+  - title: The World Called Wife ~ Experiencing Her Pleasure Myself ~
+    author: sabusuka
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695574.jpg
+    rating: 0.0
+    date: '2026-11-11'
+    code: 695574
+    url: /works/695574/
   - title: The O◯H Story of the Timid Niece Who Only Warms Up to Me
     author: yamakonbu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695588.jpg
@@ -3317,4 +3324,11 @@ works:
     date: '2026-11-10'
     code: 695711
     url: /works/695711/
+  - title: Crackhead lookin ahh gets to crack voluptuous beauty
+    author: mikarin
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695946.jpg
+    rating: 4.8
+    date: '2026-11-11'
+    code: 695946
+    url: /works/695946/
 ---

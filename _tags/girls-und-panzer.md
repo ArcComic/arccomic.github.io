@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "girls und panzer"
-work_count: 6
+work_count: 7
 works:
   - title: ERIKA Vol. 2
     author: hankotsu-max
@@ -47,4 +47,11 @@ works:
     date: '2026-09-30'
     code: 684920
     url: /works/684920/
+  - title: Shiho Nishizumi vs BBC - Shiho Nishizumi VS. Big Black Cock
+    author: rasson
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695891.jpg
+    rating: 0.0
+    date: '2026-11-11'
+    code: 695891
+    url: /works/695891/
 ---

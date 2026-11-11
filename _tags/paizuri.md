@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "paizuri"
-work_count: 296
+work_count: 297
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -2220,4 +2220,11 @@ works:
     date: '2026-11-10'
     code: 695639
     url: /works/695639/
+  - title: Crackhead lookin ahh gets to crack voluptuous beauty
+    author: mikarin
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695946.jpg
+    rating: 4.8
+    date: '2026-11-11'
+    code: 695946
+    url: /works/695946/
 ---
