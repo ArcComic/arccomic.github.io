@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "kissing"
-work_count: 498
+work_count: 499
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -584,7 +584,7 @@ works:
       Tall Jirai-kei Girl Has Her Eyes on Me, and I Can't Escape♡
     author: kinntarou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/524896.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-11-10'
     code: 524896
     url: /works/524896/
@@ -695,7 +695,7 @@ works:
   - title: Chounai Furin ~Yumi~ | Neighborhood Affair ~Yumi~
     author: kaniguruma
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/534179.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-10'
     code: 534179
     url: /works/534179/
@@ -1084,7 +1084,7 @@ works:
   - title: Shinchou 211 cm no Jirai-kei Joshi ni Nerawarete mou Nigerarenai 2
     author: kinntarou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/597906.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-11-10'
     code: 597906
     url: /works/597906/
@@ -1755,7 +1755,7 @@ works:
   - title: Commonplace Sex ~The Daily Life of an Older Sister and Younger Brother~
     author: mochichimaru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/644964.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-11-10'
     code: 644964
     url: /works/644964/
@@ -3707,10 +3707,17 @@ works:
     date: '2026-11-09'
     code: 695351
     url: /works/695351/
+  - title: Natsu Pi!
+    author: iku
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695467.jpg
+    rating: 0.0
+    date: '2026-11-11'
+    code: 695467
+    url: /works/695467/
   - title: Gyu Shite Chuu | Hugs and Kisses For You
     author: gurida-soumu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695576.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-11-10'
     code: 695576
     url: /works/695576/
@@ -3731,14 +3738,14 @@ works:
   - title: A Place Where I Can Shine | Kagayakeru Basho
     author: tantanmen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695639.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-11-10'
     code: 695639
     url: /works/695639/
   - title: Daigaku jidai no sefure ga rinjin ni natta
     author: muripoyo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695711.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-11-10'
     code: 695711
     url: /works/695711/

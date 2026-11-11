@@ -268,7 +268,7 @@ works:
       Tall Jirai-kei Girl Has Her Eyes on Me, and I Can't Escape♡
     author: kinntarou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/524896.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-11-10'
     code: 524896
     url: /works/524896/
@@ -619,7 +619,7 @@ works:
   - title: Commonplace Sex ~The Daily Life of an Older Sister and Younger Brother~
     author: mochichimaru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/644964.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-11-10'
     code: 644964
     url: /works/644964/

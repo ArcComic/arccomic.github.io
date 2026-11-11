@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "beauty mark"
-work_count: 246
+work_count: 247
 works:
   - title: Uragiri no Ai wa Mitsu no Aji | Treacherous Love Tastes Like Honey
     author: cuzukago
@@ -484,7 +484,7 @@ works:
       Tall Jirai-kei Girl Has Her Eyes on Me, and I Can't Escape♡
     author: kinntarou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/524896.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-11-10'
     code: 524896
     url: /works/524896/
@@ -639,6 +639,14 @@ works:
     date: '2026-04-23'
     code: 576398
     url: /works/576398/
+  - title: Seiki Gyakuten Kanojo ni Dakareru Nanokakan | Genital Swap ~Being Fucked
+      By My Girlfriend For A Week~
+    author: onaka-emi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/577156.jpg
+    rating: 0.0
+    date: '2026-11-11'
+    code: 577156
+    url: /works/577156/
   - title: Boku no Mama to Takuhai no Onii-san ga.
     author: yuriko-club
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/577221.jpg
@@ -840,7 +848,7 @@ works:
       suru Hanashi~
     author: onamae
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/614140.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-11-10'
     code: 614140
     url: /works/614140/

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "cowgirl"
-work_count: 23
+work_count: 24
 works:
   - title: Homestay-chu no Doitsu Musume ga Issho ni Furo ni Haitte Kuru Wake | The
       Reason Why a German Girl Takes a Bath Together With Me on Her Homestay
@@ -14,7 +14,7 @@ works:
   - title: About the New President of the Disciplinary Committee's Huge Tits 2
     author: try
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/516219.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-11-10'
     code: 516219
     url: /works/516219/
@@ -172,4 +172,11 @@ works:
     date: '2026-10-28'
     code: 691662
     url: /works/691662/
+  - title: Natsu Pi!
+    author: iku
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695467.jpg
+    rating: 0.0
+    date: '2026-11-11'
+    code: 695467
+    url: /works/695467/
 ---

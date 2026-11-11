@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "nipple stimulation"
-work_count: 207
+work_count: 209
 works:
   - title: Hypnotic Domination ~ The Fall of Tennis Club Ace ~
     author: danchino
@@ -193,6 +193,14 @@ works:
     date: '2026-10-12'
     code: 568871
     url: /works/568871/
+  - title: Seiki Gyakuten Kanojo ni Dakareru Nanokakan | Genital Swap ~Being Fucked
+      By My Girlfriend For A Week~
+    author: onaka-emi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/577156.jpg
+    rating: 0.0
+    date: '2026-11-11'
+    code: 577156
+    url: /works/577156/
   - title: Hyoui de Gravure Idol o Ore no Mono ni Someageru Hanashi | Gravure Idol Possession
     author: comichi-pota
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/579368.jpg
@@ -1540,6 +1548,13 @@ works:
     date: '2026-11-09'
     code: 695343
     url: /works/695343/
+  - title: Natsu Pi!
+    author: iku
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695467.jpg
+    rating: 0.0
+    date: '2026-11-11'
+    code: 695467
+    url: /works/695467/
   - title: Ecchi na Omise ni Ittara, Mukashi no Doukyuusei ga Ita Hanashi
     author: mmchair
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695586.jpg
@@ -1557,7 +1572,7 @@ works:
   - title: Daigaku jidai no sefure ga rinjin ni natta
     author: muripoyo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695711.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-11-10'
     code: 695711
     url: /works/695711/

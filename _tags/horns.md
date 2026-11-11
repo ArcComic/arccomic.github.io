@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "horns"
-work_count: 27
+work_count: 28
 works:
   - title: Mashou no Honnou | The Evil’s Instinct
     author: azukiko
@@ -201,4 +201,11 @@ works:
     date: '2026-11-09'
     code: 695224
     url: /works/695224/
+  - title: Natsu Pi!
+    author: iku
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695467.jpg
+    rating: 0.0
+    date: '2026-11-11'
+    code: 695467
+    url: /works/695467/
 ---

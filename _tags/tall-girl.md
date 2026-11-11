@@ -1,12 +1,12 @@
 ---
 layout: tag
 tag_name: "tall girl"
-work_count: 63
+work_count: 64
 works:
   - title: Okki na Kanojo ni Amaetai | I want to be pampered by a girl of generous girth
     author: higashino-mikan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/142406.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-11-10'
     code: 142406
     url: /works/142406/
@@ -85,7 +85,7 @@ works:
       Tall Jirai-kei Girl Has Her Eyes on Me, and I Can't Escape♡
     author: kinntarou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/524896.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-11-10'
     code: 524896
     url: /works/524896/
@@ -97,6 +97,14 @@ works:
     date: '2026-10-30'
     code: 571119
     url: /works/571119/
+  - title: Seiki Gyakuten Kanojo ni Dakareru Nanokakan | Genital Swap ~Being Fucked
+      By My Girlfriend For A Week~
+    author: onaka-emi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/577156.jpg
+    rating: 0.0
+    date: '2026-11-11'
+    code: 577156
+    url: /works/577156/
   - title: Shinchou 211 cm no Jirai-kei Joshi ni Nerawarete mou Nigerarenai 2
     author: kinntarou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/584135.jpg
@@ -107,7 +115,7 @@ works:
   - title: Shinchou 211 cm no Jirai-kei Joshi ni Nerawarete mou Nigerarenai 2
     author: kinntarou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/597906.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-11-10'
     code: 597906
     url: /works/597906/
@@ -174,7 +182,7 @@ works:
   - title: Commonplace Sex ~The Daily Life of an Older Sister and Younger Brother~
     author: mochichimaru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/644964.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-11-10'
     code: 644964
     url: /works/644964/
@@ -466,7 +474,7 @@ works:
   - title: Gyu Shite Chuu | Hugs and Kisses For You
     author: gurida-soumu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695576.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-11-10'
     code: 695576
     url: /works/695576/

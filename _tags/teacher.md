@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "teacher"
-work_count: 106
+work_count: 107
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -192,7 +192,7 @@ works:
   - title: About the New President of the Disciplinary Committee's Huge Tits 2
     author: try
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/516219.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-11-10'
     code: 516219
     url: /works/516219/
@@ -778,6 +778,14 @@ works:
     date: '2026-11-09'
     code: 694888
     url: /works/694888/
+  - title: jitsuroku !! onna kyōshi ni te kagome ni sareta boku -- True Story!! I Was
+      Raped By A Female Teacher
+    author: resoman-manga-koubou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695564.jpg
+    rating: 4.4
+    date: '2026-11-11'
+    code: 695564
+    url: /works/695564/
   - title: Jokyoushi - Hot For Teachers | Female Teachers
     author: drill-murata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/81375.jpg

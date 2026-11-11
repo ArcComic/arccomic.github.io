@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sex toys"
-work_count: 156
+work_count: 157
 works:
   - title: Mama Naranai Onna-tachi Ch. 1-2
     author: otochichi
@@ -259,6 +259,14 @@ works:
     date: '2026-11-09'
     code: 574633
     url: /works/574633/
+  - title: Seiki Gyakuten Kanojo ni Dakareru Nanokakan | Genital Swap ~Being Fucked
+      By My Girlfriend For A Week~
+    author: onaka-emi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/577156.jpg
+    rating: 0.0
+    date: '2026-11-11'
+    code: 577156
+    url: /works/577156/
   - title: Boku no Kaa-chan ga Hikikomori Neet Debu Aniki no Seishori Onaho ni Natteita
       Hanashi | My Mother is My Fat Shut-in Older NEET Brother's Sex Relief Onahole
     author: tarobaumu
@@ -1098,7 +1106,7 @@ works:
       President Takes the Lead
     author: enishi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691590.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-11-10'
     code: 691590
     url: /works/691590/

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big penis"
-work_count: 331
+work_count: 332
 works:
   - title: Tsuma no Imouto no Danna ga Ie ni Kiteiruyoudesu | My Sister-In-Law's Husband
       is Over
@@ -178,7 +178,7 @@ works:
       Super Late Ejaculation Ojisan
     author: minegami-aya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/467602.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-10'
     code: 467602
     url: /works/467602/
@@ -2442,10 +2442,17 @@ works:
     date: '2026-11-09'
     code: 695351
     url: /works/695351/
+  - title: Natsu Pi!
+    author: iku
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695467.jpg
+    rating: 0.0
+    date: '2026-11-11'
+    code: 695467
+    url: /works/695467/
   - title: Gyu Shite Chuu | Hugs and Kisses For You
     author: gurida-soumu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695576.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-11-10'
     code: 695576
     url: /works/695576/
@@ -2466,14 +2473,14 @@ works:
   - title: A Place Where I Can Shine | Kagayakeru Basho
     author: tantanmen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695639.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-11-10'
     code: 695639
     url: /works/695639/
   - title: Daigaku jidai no sefure ga rinjin ni natta
     author: muripoyo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695711.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-11-10'
     code: 695711
     url: /works/695711/

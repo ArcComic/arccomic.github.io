@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "huge breasts"
-work_count: 142
+work_count: 143
 works:
   - title: Mama Naranai Onna-tachi Ch. 1-2
     author: otochichi
@@ -975,7 +975,7 @@ works:
       President Takes the Lead
     author: enishi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691590.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-11-10'
     code: 691590
     url: /works/691590/
@@ -1056,6 +1056,13 @@ works:
     date: '2026-11-09'
     code: 695225
     url: /works/695225/
+  - title: Natsu Pi!
+    author: iku
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695467.jpg
+    rating: 0.0
+    date: '2026-11-11'
+    code: 695467
+    url: /works/695467/
   - title: The O◯H Story of the Timid Niece Who Only Warms Up to Me
     author: yamakonbu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695588.jpg
@@ -1066,7 +1073,7 @@ works:
   - title: Daigaku jidai no sefure ga rinjin ni natta
     author: muripoyo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695711.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-11-10'
     code: 695711
     url: /works/695711/

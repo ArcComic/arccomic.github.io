@@ -17,7 +17,7 @@ works:
     url: /works/647270/
   - title: Tsuma ni Bikini o Kiseta nara | If I Made My Wife Wear A Bikini
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681255.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-11-10'
     code: 681255
     url: /works/681255/

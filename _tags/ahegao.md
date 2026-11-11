@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "ahegao"
-work_count: 415
+work_count: 416
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -434,7 +434,7 @@ works:
       Tall Jirai-kei Girl Has Her Eyes on Me, and I Can't Escape♡
     author: kinntarou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/524896.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-11-10'
     code: 524896
     url: /works/524896/
@@ -831,7 +831,7 @@ works:
       suru Hanashi~
     author: onamae
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/614140.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-11-10'
     code: 614140
     url: /works/614140/
@@ -2895,7 +2895,7 @@ works:
       President Takes the Lead
     author: enishi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691590.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-11-10'
     code: 691590
     url: /works/691590/
@@ -3079,10 +3079,17 @@ works:
     date: '2026-11-09'
     code: 695351
     url: /works/695351/
+  - title: Natsu Pi!
+    author: iku
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695467.jpg
+    rating: 0.0
+    date: '2026-11-11'
+    code: 695467
+    url: /works/695467/
   - title: Gyu Shite Chuu | Hugs and Kisses For You
     author: gurida-soumu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695576.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-11-10'
     code: 695576
     url: /works/695576/
@@ -3103,14 +3110,14 @@ works:
   - title: A Place Where I Can Shine | Kagayakeru Basho
     author: tantanmen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695639.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-11-10'
     code: 695639
     url: /works/695639/
   - title: Daigaku jidai no sefure ga rinjin ni natta
     author: muripoyo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695711.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-11-10'
     code: 695711
     url: /works/695711/

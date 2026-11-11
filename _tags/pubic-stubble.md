@@ -1,12 +1,12 @@
 ---
 layout: tag
 tag_name: "pubic stubble"
-work_count: 6
+work_count: 7
 works:
   - title: Okki na Kanojo ni Amaetai | I want to be pampered by a girl of generous girth
     author: higashino-mikan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/142406.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-11-10'
     code: 142406
     url: /works/142406/
@@ -49,4 +49,11 @@ works:
     date: '2026-08-23'
     code: 639772
     url: /works/639772/
+  - title: Natsu Pi!
+    author: iku
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695467.jpg
+    rating: 0.0
+    date: '2026-11-11'
+    code: 695467
+    url: /works/695467/
 ---

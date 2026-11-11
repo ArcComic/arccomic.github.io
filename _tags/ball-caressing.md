@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "ball caressing"
-work_count: 4
+work_count: 5
 works:
   - title: DeliHeal Yondara Moto Doukyuusei ga Kita ~Polynesian Sex  6-kame~
     author: tatsuwaipu
@@ -33,4 +33,11 @@ works:
     date: '2026-10-18'
     code: 688413
     url: /works/688413/
+  - title: Natsu Pi!
+    author: iku
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695467.jpg
+    rating: 0.0
+    date: '2026-11-11'
+    code: 695467
+    url: /works/695467/
 ---

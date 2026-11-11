@@ -860,7 +860,7 @@ works:
   - title: Chounai Furin ~Yumi~ | Neighborhood Affair ~Yumi~
     author: kaniguruma
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/534179.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-10'
     code: 534179
     url: /works/534179/
@@ -1377,7 +1377,7 @@ works:
       suru Hanashi~
     author: onamae
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/614140.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-11-10'
     code: 614140
     url: /works/614140/
@@ -3015,7 +3015,7 @@ works:
   - title: Tsuma ni Bikini o Kiseta nara | If I Made My Wife Wear A Bikini
     author: dekamatsu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681255.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-11-10'
     code: 681255
     url: /works/681255/
@@ -3762,7 +3762,7 @@ works:
   - title: Daigaku jidai no sefure ga rinjin ni natta
     author: muripoyo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695711.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-11-10'
     code: 695711
     url: /works/695711/

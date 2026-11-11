@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "milf"
-work_count: 559
+work_count: 560
 works:
   - title: Life with Married Women Just Like a Manga 2 - Ch. 1-5
     author: hidemaru
@@ -1136,7 +1136,7 @@ works:
   - title: Chounai Furin ~Yumi~ | Neighborhood Affair ~Yumi~
     author: kaniguruma
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/534179.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-10'
     code: 534179
     url: /works/534179/
@@ -1864,7 +1864,7 @@ works:
       suru Hanashi~
     author: onamae
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/614140.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-11-10'
     code: 614140
     url: /works/614140/
@@ -3379,7 +3379,7 @@ works:
   - title: Tsuma ni Bikini o Kiseta nara | If I Made My Wife Wear A Bikini
     author: dekamatsu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681255.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-11-10'
     code: 681255
     url: /works/681255/
@@ -3873,7 +3873,7 @@ works:
   - title: Hahaoya To Ryokann | My Mother and the Japanese Inn
     author: temperature
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688137.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-11-10'
     code: 688137
     url: /works/688137/
@@ -4088,10 +4088,18 @@ works:
     date: '2026-11-09'
     code: 695285
     url: /works/695285/
+  - title: jitsuroku !! onna kyōshi ni te kagome ni sareta boku -- True Story!! I Was
+      Raped By A Female Teacher
+    author: resoman-manga-koubou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695564.jpg
+    rating: 4.4
+    date: '2026-11-11'
+    code: 695564
+    url: /works/695564/
   - title: Daigaku jidai no sefure ga rinjin ni natta
     author: muripoyo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695711.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-11-10'
     code: 695711
     url: /works/695711/

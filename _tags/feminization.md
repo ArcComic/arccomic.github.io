@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "feminization"
-work_count: 14
+work_count: 15
 works:
   - title: Mimikyu Myth 2
     author: meowwithme
@@ -32,6 +32,14 @@ works:
     date: '2026-08-31'
     code: 556767
     url: /works/556767/
+  - title: Seiki Gyakuten Kanojo ni Dakareru Nanokakan | Genital Swap ~Being Fucked
+      By My Girlfriend For A Week~
+    author: onaka-emi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/577156.jpg
+    rating: 0.0
+    date: '2026-11-11'
+    code: 577156
+    url: /works/577156/
   - title: Senpai No Oppai Complete
     author: menoko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/624238.jpg

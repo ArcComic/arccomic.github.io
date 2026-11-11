@@ -1644,7 +1644,7 @@ works:
   - title: Commonplace Sex ~The Daily Life of an Older Sister and Younger Brother~
     author: mochichimaru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/644964.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-11-10'
     code: 644964
     url: /works/644964/
@@ -2337,7 +2337,7 @@ works:
   - title: Kaa-san Ichido de Iikara…！
     author: temperature
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/655792.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-11-10'
     code: 655792
     url: /works/655792/
@@ -5857,14 +5857,14 @@ works:
   - title: A Place Where I Can Shine | Kagayakeru Basho
     author: tantanmen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695639.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-11-10'
     code: 695639
     url: /works/695639/
   - title: Daigaku jidai no sefure ga rinjin ni natta
     author: muripoyo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695711.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-11-10'
     code: 695711
     url: /works/695711/

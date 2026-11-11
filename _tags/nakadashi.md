@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "nakadashi"
-work_count: 1069
+work_count: 1072
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -1047,7 +1047,7 @@ works:
       Super Late Ejaculation Ojisan
     author: minegami-aya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/467602.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-10'
     code: 467602
     url: /works/467602/
@@ -1547,7 +1547,7 @@ works:
   - title: About the New President of the Disciplinary Committee's Huge Tits 2
     author: try
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/516219.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-11-10'
     code: 516219
     url: /works/516219/
@@ -1761,7 +1761,7 @@ works:
   - title: Chounai Furin ~Yumi~ | Neighborhood Affair ~Yumi~
     author: kaniguruma
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/534179.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-10'
     code: 534179
     url: /works/534179/
@@ -2238,6 +2238,14 @@ works:
     date: '2026-10-11'
     code: 577149
     url: /works/577149/
+  - title: Seiki Gyakuten Kanojo ni Dakareru Nanokakan | Genital Swap ~Being Fucked
+      By My Girlfriend For A Week~
+    author: onaka-emi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/577156.jpg
+    rating: 0.0
+    date: '2026-11-11'
+    code: 577156
+    url: /works/577156/
   - title: 'Kaa-san wa Kanbanmusume Nikuyoku ni Kogareta Boshi no Niya | My Mother -
       The Poster Girl: Two Nights of Forbidden Passion between Mother and Son'
     author: murabito-c
@@ -2912,7 +2920,7 @@ works:
       suru Hanashi~
     author: onamae
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/614140.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-11-10'
     code: 614140
     url: /works/614140/
@@ -4834,7 +4842,7 @@ works:
   - title: Kaa-san Ichido de Iikara…！
     author: temperature
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/655792.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-11-10'
     code: 655792
     url: /works/655792/
@@ -6316,7 +6324,7 @@ works:
   - title: Tsuma ni Bikini o Kiseta nara | If I Made My Wife Wear A Bikini
     author: dekamatsu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681255.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-11-10'
     code: 681255
     url: /works/681255/
@@ -7384,7 +7392,7 @@ works:
   - title: Hahaoya To Ryokann | My Mother and the Japanese Inn
     author: temperature
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688137.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-11-10'
     code: 688137
     url: /works/688137/
@@ -7678,7 +7686,7 @@ works:
       President Takes the Lead
     author: enishi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691590.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-11-10'
     code: 691590
     url: /works/691590/
@@ -7905,10 +7913,25 @@ works:
     date: '2026-11-09'
     code: 695351
     url: /works/695351/
+  - title: Natsu Pi!
+    author: iku
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695467.jpg
+    rating: 0.0
+    date: '2026-11-11'
+    code: 695467
+    url: /works/695467/
+  - title: jitsuroku !! onna kyōshi ni te kagome ni sareta boku -- True Story!! I Was
+      Raped By A Female Teacher
+    author: resoman-manga-koubou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695564.jpg
+    rating: 4.4
+    date: '2026-11-11'
+    code: 695564
+    url: /works/695564/
   - title: Gyu Shite Chuu | Hugs and Kisses For You
     author: gurida-soumu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695576.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-11-10'
     code: 695576
     url: /works/695576/
@@ -7929,14 +7952,14 @@ works:
   - title: A Place Where I Can Shine | Kagayakeru Basho
     author: tantanmen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695639.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-11-10'
     code: 695639
     url: /works/695639/
   - title: Daigaku jidai no sefure ga rinjin ni natta
     author: muripoyo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695711.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-11-10'
     code: 695711
     url: /works/695711/

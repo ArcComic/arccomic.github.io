@@ -1,12 +1,12 @@
 ---
 layout: tag
 tag_name: "shotacon"
-work_count: 168
+work_count: 169
 works:
   - title: Okki na Kanojo ni Amaetai | I want to be pampered by a girl of generous girth
     author: higashino-mikan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/142406.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-11-10'
     code: 142406
     url: /works/142406/
@@ -646,7 +646,7 @@ works:
   - title: Commonplace Sex ~The Daily Life of an Older Sister and Younger Brother~
     author: mochichimaru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/644964.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-11-10'
     code: 644964
     url: /works/644964/
@@ -1226,6 +1226,14 @@ works:
     date: '2026-11-08'
     code: 694668
     url: /works/694668/
+  - title: jitsuroku !! onna kyōshi ni te kagome ni sareta boku -- True Story!! I Was
+      Raped By A Female Teacher
+    author: resoman-manga-koubou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695564.jpg
+    rating: 4.4
+    date: '2026-11-11'
+    code: 695564
+    url: /works/695564/
   - title: Jokyoushi - Hot For Teachers | Female Teachers
     author: drill-murata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/81375.jpg

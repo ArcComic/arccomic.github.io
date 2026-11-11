@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "gyaru"
-work_count: 164
+work_count: 165
 works:
   - title: GalPa!
     author: sakagami-umi
@@ -95,7 +95,7 @@ works:
       Super Late Ejaculation Ojisan
     author: minegami-aya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/467602.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-10'
     code: 467602
     url: /works/467602/
@@ -1226,6 +1226,13 @@ works:
     date: '2026-11-09'
     code: 695224
     url: /works/695224/
+  - title: Natsu Pi!
+    author: iku
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695467.jpg
+    rating: 0.0
+    date: '2026-11-11'
+    code: 695467
+    url: /works/695467/
   - title: Ecchi na Omise ni Ittara, Mukashi no Doukyuusei ga Ita Hanashi
     author: mmchair
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695586.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "schoolboy uniform"
-work_count: 136
+work_count: 137
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -13,7 +13,7 @@ works:
   - title: Okki na Kanojo ni Amaetai | I want to be pampered by a girl of generous girth
     author: higashino-mikan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/142406.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-11-10'
     code: 142406
     url: /works/142406/
@@ -950,7 +950,7 @@ works:
       President Takes the Lead
     author: enishi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691590.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-11-10'
     code: 691590
     url: /works/691590/
@@ -982,10 +982,18 @@ works:
     date: '2026-11-09'
     code: 694973
     url: /works/694973/
+  - title: jitsuroku !! onna kyōshi ni te kagome ni sareta boku -- True Story!! I Was
+      Raped By A Female Teacher
+    author: resoman-manga-koubou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695564.jpg
+    rating: 4.4
+    date: '2026-11-11'
+    code: 695564
+    url: /works/695564/
   - title: Gyu Shite Chuu | Hugs and Kisses For You
     author: gurida-soumu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695576.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-11-10'
     code: 695576
     url: /works/695576/

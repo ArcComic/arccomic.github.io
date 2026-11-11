@@ -1,12 +1,12 @@
 ---
 layout: tag
 tag_name: "mosaic censorship"
-work_count: 384
+work_count: 385
 works:
   - title: Okki na Kanojo ni Amaetai | I want to be pampered by a girl of generous girth
     author: higashino-mikan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/142406.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-11-10'
     code: 142406
     url: /works/142406/
@@ -949,6 +949,14 @@ works:
     date: '2026-03-03'
     code: 576288
     url: /works/576288/
+  - title: Seiki Gyakuten Kanojo ni Dakareru Nanokakan | Genital Swap ~Being Fucked
+      By My Girlfriend For A Week~
+    author: onaka-emi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/577156.jpg
+    rating: 0.0
+    date: '2026-11-11'
+    code: 577156
+    url: /works/577156/
   - title: Boku no Mama to Takuhai no Onii-san ga.
     author: yuriko-club
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/577221.jpg

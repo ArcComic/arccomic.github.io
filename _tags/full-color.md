@@ -1429,7 +1429,7 @@ works:
   - title: Kaa-san Ichido de Iikara…！
     author: temperature
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/655792.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-11-10'
     code: 655792
     url: /works/655792/
@@ -2087,7 +2087,7 @@ works:
   - title: Hahaoya To Ryokann | My Mother and the Japanese Inn
     author: temperature
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/688137.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-11-10'
     code: 688137
     url: /works/688137/
