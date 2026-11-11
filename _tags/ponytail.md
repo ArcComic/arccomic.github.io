@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "ponytail"
-work_count: 226
+work_count: 227
 works:
   - title: Ami Mami Mind 5
     author: tsurui
@@ -1662,6 +1662,13 @@ works:
     date: '2026-11-11'
     code: 695880
     url: /works/695880/
+  - title: Katei Saien Vol. 2 | Lustful Housewife Vol. 2 ch 9
+    author: kakutou-oukoku
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695890.jpg
+    rating: 0.0
+    date: '2026-11-11'
+    code: 695890
+    url: /works/695890/
   - title: Crackhead lookin ahh gets to crack voluptuous beauty
     author: mikarin
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695946.jpg

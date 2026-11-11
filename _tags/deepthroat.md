@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "deepthroat"
-work_count: 123
+work_count: 125
 works:
   - title: Toshishita Chin Kui Obasan
     author: maccha-neji
@@ -937,4 +937,20 @@ works:
     date: '2026-11-10'
     code: 695588
     url: /works/695588/
+  - title: Houkago Houshi-bu (Kari) ~Seifu Kounin!? Kyoushi Senyou Gakuen Fuuzoku~ |
+      After-School Service Club (Provisional) ~Government Approved!? Teachers-Only School
+      Brothel~
+    author: courreges-accel
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695883.jpg
+    rating: 0.0
+    date: '2026-11-11'
+    code: 695883
+    url: /works/695883/
+  - title: Katei Saien Vol. 2 | Lustful Housewife Vol. 2 ch 9
+    author: kakutou-oukoku
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695890.jpg
+    rating: 0.0
+    date: '2026-11-11'
+    code: 695890
+    url: /works/695890/
 ---

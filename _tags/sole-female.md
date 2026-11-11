@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole female"
-work_count: 1238
+work_count: 1240
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -306,6 +306,13 @@ works:
     date: '2026-10-12'
     code: 289785
     url: /works/289785/
+  - title: Yohane Mokushiroku
+    author: napo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/289930.jpg
+    rating: 0.0
+    date: '2026-11-11'
+    code: 289930
+    url: /works/289930/
   - title: Oppai na Natsuyasumi 2 | The Summer Break of Boobs 2
     author: higashino-mikan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/292454.jpg
@@ -9164,6 +9171,15 @@ works:
     date: '2026-11-11'
     code: 695880
     url: /works/695880/
+  - title: Houkago Houshi-bu (Kari) ~Seifu Kounin!? Kyoushi Senyou Gakuen Fuuzoku~ |
+      After-School Service Club (Provisional) ~Government Approved!? Teachers-Only School
+      Brothel~
+    author: courreges-accel
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695883.jpg
+    rating: 0.0
+    date: '2026-11-11'
+    code: 695883
+    url: /works/695883/
   - title: Shiho Nishizumi vs BBC - Shiho Nishizumi VS. Big Black Cock
     author: rasson
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695891.jpg

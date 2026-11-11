@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "anal"
-work_count: 199
+work_count: 202
 works:
   - title: Ikanishite Haha wa Onna o Kaihou Shitaka Ch. 1-14
     author: mitarai-yuuki
@@ -60,6 +60,13 @@ works:
     date: '2026-07-17'
     code: 289523
     url: /works/289523/
+  - title: Yohane Mokushiroku
+    author: napo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/289930.jpg
+    rating: 0.0
+    date: '2026-11-11'
+    code: 289930
+    url: /works/289930/
   - title: Nibun no Yuudou | Half Seduction
     author: chicke-iii
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/298547.jpg
@@ -1457,6 +1464,22 @@ works:
     date: '2026-11-11'
     code: 695574
     url: /works/695574/
+  - title: Houkago Houshi-bu (Kari) ~Seifu Kounin!? Kyoushi Senyou Gakuen Fuuzoku~ |
+      After-School Service Club (Provisional) ~Government Approved!? Teachers-Only School
+      Brothel~
+    author: courreges-accel
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695883.jpg
+    rating: 0.0
+    date: '2026-11-11'
+    code: 695883
+    url: /works/695883/
+  - title: Katei Saien Vol. 2 | Lustful Housewife Vol. 2 ch 9
+    author: kakutou-oukoku
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695890.jpg
+    rating: 0.0
+    date: '2026-11-11'
+    code: 695890
+    url: /works/695890/
   - title: Jokyoushi - Hot For Teachers | Female Teachers
     author: drill-murata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/81375.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "original"
-work_count: 1395
+work_count: 1396
 works:
   - title: Gokuusu Mizugi de Okasaretagari ga Kakusenai
     author: kekemotsu
@@ -10386,6 +10386,15 @@ works:
     date: '2026-11-11'
     code: 695880
     url: /works/695880/
+  - title: Houkago Houshi-bu (Kari) ~Seifu Kounin!? Kyoushi Senyou Gakuen Fuuzoku~ |
+      After-School Service Club (Provisional) ~Government Approved!? Teachers-Only School
+      Brothel~
+    author: courreges-accel
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695883.jpg
+    rating: 0.0
+    date: '2026-11-11'
+    code: 695883
+    url: /works/695883/
   - title: Crackhead lookin ahh gets to crack voluptuous beauty
     author: mikarin
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695946.jpg

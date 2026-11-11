@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bikini"
-work_count: 105
+work_count: 106
 works:
   - title: Kizashi
     author: yoshiura-kazuya
@@ -797,4 +797,13 @@ works:
     date: '2026-11-10'
     code: 695586
     url: /works/695586/
+  - title: Houkago Houshi-bu (Kari) ~Seifu Kounin!? Kyoushi Senyou Gakuen Fuuzoku~ |
+      After-School Service Club (Provisional) ~Government Approved!? Teachers-Only School
+      Brothel~
+    author: courreges-accel
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695883.jpg
+    rating: 0.0
+    date: '2026-11-11'
+    code: 695883
+    url: /works/695883/
 ---

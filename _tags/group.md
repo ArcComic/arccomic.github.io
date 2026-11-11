@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "group"
-work_count: 309
+work_count: 310
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -81,6 +81,13 @@ works:
     date: '2026-07-17'
     code: 289523
     url: /works/289523/
+  - title: Yohane Mokushiroku
+    author: napo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/289930.jpg
+    rating: 0.0
+    date: '2026-11-11'
+    code: 289930
+    url: /works/289930/
   - title: Akarui Kazoku Seikatsu
     author: pistonring-nishizawa
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/304307.jpg

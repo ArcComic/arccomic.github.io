@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "anal intercourse"
-work_count: 113
+work_count: 115
 works:
   - title: Police Story
     author: nekoi-mie
@@ -833,4 +833,20 @@ works:
     date: '2026-11-09'
     code: 695285
     url: /works/695285/
+  - title: Houkago Houshi-bu (Kari) ~Seifu Kounin!? Kyoushi Senyou Gakuen Fuuzoku~ |
+      After-School Service Club (Provisional) ~Government Approved!? Teachers-Only School
+      Brothel~
+    author: courreges-accel
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695883.jpg
+    rating: 0.0
+    date: '2026-11-11'
+    code: 695883
+    url: /works/695883/
+  - title: Katei Saien Vol. 2 | Lustful Housewife Vol. 2 ch 9
+    author: kakutou-oukoku
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695890.jpg
+    rating: 0.0
+    date: '2026-11-11'
+    code: 695890
+    url: /works/695890/
 ---
