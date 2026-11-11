@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "anal intercourse"
-work_count: 112
+work_count: 113
 works:
   - title: Police Story
     author: nekoi-mie
@@ -635,6 +635,13 @@ works:
     date: '2026-09-15'
     code: 681329
     url: /works/681329/
+  - title: Kaa-san wa I no Mama | Mother Bends To My Willy
+    author: temperature
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682146.jpg
+    rating: 0.0
+    date: '2026-11-11'
+    code: 682146
+    url: /works/682146/
   - title: Shuugaku Ryokou, Kanojo Ubarareru Nettaiya Soushuuhen
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682212.jpg

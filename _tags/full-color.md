@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "full color"
-work_count: 299
+work_count: 301
 works:
   - title: Pai☆Panic ~Hasamareta Dekapai~
     author: inkey
@@ -1844,6 +1844,13 @@ works:
     date: '2026-09-17'
     code: 681986
     url: /works/681986/
+  - title: Kaa-san wa I no Mama | Mother Bends To My Willy
+    author: temperature
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682146.jpg
+    rating: 0.0
+    date: '2026-11-11'
+    code: 682146
+    url: /works/682146/
   - title: Shikatanaku Kaa-chan to Sex Shimasu 9
     author: shimipan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682182.jpg
@@ -2188,4 +2195,11 @@ works:
     date: '2026-11-09'
     code: 695285
     url: /works/695285/
+  - title: I Don't Recall -- Kioku ni Gozaimasen
+    author: chotto-b-sen
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695568.jpg
+    rating: 0.0
+    date: '2026-11-11'
+    code: 695568
+    url: /works/695568/
 ---

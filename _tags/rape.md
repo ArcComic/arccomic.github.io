@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "rape"
-work_count: 283
+work_count: 284
 works:
   - title: Office Love Scramble Ch. 1
     author: tohzai
@@ -1797,6 +1797,13 @@ works:
     date: '2026-09-17'
     code: 681899
     url: /works/681899/
+  - title: Kaa-san wa I no Mama | Mother Bends To My Willy
+    author: temperature
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682146.jpg
+    rating: 0.0
+    date: '2026-11-11'
+    code: 682146
+    url: /works/682146/
   - title: Namaiki Mesugaki Kuppuku Acme Ch. 2
     author: sasamashin
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682364.jpg

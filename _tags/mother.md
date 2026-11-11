@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "mother"
-work_count: 214
+work_count: 215
 works:
   - title: Imitation Family + Bigibo Hen
     author: tohzai
@@ -1337,6 +1337,13 @@ works:
     date: '2026-09-17'
     code: 681724
     url: /works/681724/
+  - title: Kaa-san wa I no Mama | Mother Bends To My Willy
+    author: temperature
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682146.jpg
+    rating: 0.0
+    date: '2026-11-11'
+    code: 682146
+    url: /works/682146/
   - title: This Is The Story Of A Mother Who Ends Up Comforting Her Heartbroken Son
       With Her Body.
     author: makoto-shiyaka

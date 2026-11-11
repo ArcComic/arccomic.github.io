@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "netorare"
-work_count: 511
+work_count: 512
 works:
   - title: Kousa suru Osu to Mesu | Male and Female Crossing
     author: ootsuka-kotora
@@ -3759,6 +3759,13 @@ works:
     date: '2026-11-09'
     code: 695351
     url: /works/695351/
+  - title: I Don't Recall -- Kioku ni Gozaimasen
+    author: chotto-b-sen
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695568.jpg
+    rating: 0.0
+    date: '2026-11-11'
+    code: 695568
+    url: /works/695568/
   - title: Daigaku jidai no sefure ga rinjin ni natta
     author: muripoyo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695711.jpg

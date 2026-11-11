@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "doujinshi"
-work_count: 1704
+work_count: 1706
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -10309,6 +10309,13 @@ works:
     date: '2026-10-30'
     code: 682080
     url: /works/682080/
+  - title: Kaa-san wa I no Mama | Mother Bends To My Willy
+    author: temperature
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682146.jpg
+    rating: 0.0
+    date: '2026-11-11'
+    code: 682146
+    url: /works/682146/
   - title: Medorei Sensei
     author: choma
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682176.jpg
@@ -12570,6 +12577,13 @@ works:
     date: '2026-11-11'
     code: 695564
     url: /works/695564/
+  - title: I Don't Recall -- Kioku ni Gozaimasen
+    author: chotto-b-sen
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695568.jpg
+    rating: 0.0
+    date: '2026-11-11'
+    code: 695568
+    url: /works/695568/
   - title: Ecchi na Omise ni Ittara, Mukashi no Doukyuusei ga Ita Hanashi
     author: mmchair
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695586.jpg

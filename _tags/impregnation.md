@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "impregnation"
-work_count: 188
+work_count: 189
 works:
   - title: Kousa suru Osu to Mesu | Male and Female Crossing
     author: ootsuka-kotora
@@ -1173,6 +1173,13 @@ works:
     date: '2026-09-17'
     code: 681991
     url: /works/681991/
+  - title: Kaa-san wa I no Mama | Mother Bends To My Willy
+    author: temperature
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682146.jpg
+    rating: 0.0
+    date: '2026-11-11'
+    code: 682146
+    url: /works/682146/
   - title: Shita no Kai no Yokkyuufuman na Mucchimuchi Mama-san kara no Approach ga
       Sugoi | The Frustrated, Curvy Mom Downstairs Keeps Making Bold Moves
     author: ikinari-mojio-yosyo
