@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "kissing"
-work_count: 499
+work_count: 500
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -125,6 +125,14 @@ works:
     date: '2026-10-28'
     code: 377019
     url: /works/377019/
+  - title: Ore no Kyonyuu Osananajimi ga Aniki to Saikin Ayashii | My Busty Childhood
+      Friend and Big Bro Have Been Acting Weird Lately
+    author: mochichimaru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/379168.jpg
+    rating: 0.0
+    date: '2026-11-11'
+    code: 379168
+    url: /works/379168/
   - title: Osananajimi no Otou-san ni.
     author: uni18
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/381875.jpg

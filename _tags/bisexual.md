@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bisexual"
-work_count: 55
+work_count: 56
 works:
   - title: Akarui Kazoku Seikatsu
     author: pistonring-nishizawa
@@ -402,4 +402,11 @@ works:
     date: '2026-11-09'
     code: 695211
     url: /works/695211/
+  - title: Elite no Ore ga Onnanoko ni Nari, Tsuma no Kyokon de Kaihatsu Sareru.
+    author: jouyatou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695547.jpg
+    rating: 4.6
+    date: '2026-11-11'
+    code: 695547
+    url: /works/695547/
 ---

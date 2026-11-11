@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "breast feeding"
-work_count: 123
+work_count: 124
 works:
   - title: Okki na Kanojo ni Amaetai | I want to be pampered by a girl of generous girth
     author: higashino-mikan
@@ -932,4 +932,11 @@ works:
     date: '2026-11-10'
     code: 695588
     url: /works/695588/
+  - title: Hadaka Gurashi Chapter 1 to 21
+    author: agata
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695703.jpg
+    rating: 4.4
+    date: '2026-11-11'
+    code: 695703
+    url: /works/695703/
 ---

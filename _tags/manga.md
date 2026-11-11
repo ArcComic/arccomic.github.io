@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "manga"
-work_count: 439
+work_count: 440
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -3134,6 +3134,13 @@ works:
     date: '2026-11-10'
     code: 695576
     url: /works/695576/
+  - title: Hadaka Gurashi Chapter 1 to 21
+    author: agata
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695703.jpg
+    rating: 4.4
+    date: '2026-11-11'
+    code: 695703
+    url: /works/695703/
   - title: Hottokenaino
     author: hara-shigeyuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/77864.jpg

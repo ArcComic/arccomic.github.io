@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "original"
-work_count: 1388
+work_count: 1390
 works:
   - title: Gokuusu Mizugi de Okasaretagari ga Kakusenai
     author: kekemotsu
@@ -413,6 +413,14 @@ works:
     date: '2026-10-28'
     code: 377019
     url: /works/377019/
+  - title: Ore no Kyonyuu Osananajimi ga Aniki to Saikin Ayashii | My Busty Childhood
+      Friend and Big Bro Have Been Acting Weird Lately
+    author: mochichimaru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/379168.jpg
+    rating: 0.0
+    date: '2026-11-11'
+    code: 379168
+    url: /works/379168/
   - title: Osananajimi no Otou-san ni.
     author: uni18
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/381875.jpg
@@ -10298,6 +10306,13 @@ works:
     date: '2026-11-11'
     code: 695467
     url: /works/695467/
+  - title: Elite no Ore ga Onnanoko ni Nari, Tsuma no Kyokon de Kaihatsu Sareru.
+    author: jouyatou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695547.jpg
+    rating: 4.6
+    date: '2026-11-11'
+    code: 695547
+    url: /works/695547/
   - title: jitsuroku !! onna kyōshi ni te kagome ni sareta boku -- True Story!! I Was
       Raped By A Female Teacher
     author: resoman-manga-koubou

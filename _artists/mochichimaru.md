@@ -1,8 +1,15 @@
 ---
 layout: artist
 artist_name: "mochichimaru"
-work_count: 2
+work_count: 3
 works:
+  - title: Ore no Kyonyuu Osananajimi ga Aniki to Saikin Ayashii | My Busty Childhood
+      Friend and Big Bro Have Been Acting Weird Lately
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/379168.jpg
+    rating: 0.0
+    date: '2026-11-11'
+    code: 379168
+    url: /works/379168/
   - title: Atarimae Sex ~Ane to Otouto no Nichijou~ | Natural Sex ~The Daily Life of
       an Older Sister and Younger Brother~
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/637940.jpg

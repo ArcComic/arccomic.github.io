@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "translated"
-work_count: 2002
+work_count: 2004
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -1215,6 +1215,14 @@ works:
     date: '2026-10-01'
     code: 378626
     url: /works/378626/
+  - title: Ore no Kyonyuu Osananajimi ga Aniki to Saikin Ayashii | My Busty Childhood
+      Friend and Big Bro Have Been Acting Weird Lately
+    author: mochichimaru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/379168.jpg
+    rating: 0.0
+    date: '2026-11-11'
+    code: 379168
+    url: /works/379168/
   - title: Sayonara Onee-chan | Goodbye Big Sis!
     author: kamitsuki-manmaru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/380273.jpg
@@ -14712,6 +14720,13 @@ works:
     date: '2026-11-10'
     code: 695639
     url: /works/695639/
+  - title: Hadaka Gurashi Chapter 1 to 21
+    author: agata
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695703.jpg
+    rating: 4.4
+    date: '2026-11-11'
+    code: 695703
+    url: /works/695703/
   - title: Daigaku jidai no sefure ga rinjin ni natta
     author: muripoyo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695711.jpg

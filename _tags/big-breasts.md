@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big breasts"
-work_count: 1405
+work_count: 1408
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -662,6 +662,14 @@ works:
     date: '2026-10-01'
     code: 378626
     url: /works/378626/
+  - title: Ore no Kyonyuu Osananajimi ga Aniki to Saikin Ayashii | My Busty Childhood
+      Friend and Big Bro Have Been Acting Weird Lately
+    author: mochichimaru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/379168.jpg
+    rating: 0.0
+    date: '2026-11-11'
+    code: 379168
+    url: /works/379168/
   - title: Sayonara Onee-chan | Goodbye Big Sis!
     author: kamitsuki-manmaru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/380273.jpg
@@ -10350,6 +10358,13 @@ works:
     date: '2026-11-11'
     code: 695467
     url: /works/695467/
+  - title: Elite no Ore ga Onnanoko ni Nari, Tsuma no Kyokon de Kaihatsu Sareru.
+    author: jouyatou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695547.jpg
+    rating: 4.6
+    date: '2026-11-11'
+    code: 695547
+    url: /works/695547/
   - title: jitsuroku !! onna kyōshi ni te kagome ni sareta boku -- True Story!! I Was
       Raped By A Female Teacher
     author: resoman-manga-koubou
@@ -10393,6 +10408,13 @@ works:
     date: '2026-11-10'
     code: 695639
     url: /works/695639/
+  - title: Hadaka Gurashi Chapter 1 to 21
+    author: agata
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695703.jpg
+    rating: 4.4
+    date: '2026-11-11'
+    code: 695703
+    url: /works/695703/
   - title: Daigaku jidai no sefure ga rinjin ni natta
     author: muripoyo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695711.jpg

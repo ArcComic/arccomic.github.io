@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "fingering"
-work_count: 250
+work_count: 252
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -38,6 +38,14 @@ works:
     date: '2026-09-24'
     code: 364371
     url: /works/364371/
+  - title: Ore no Kyonyuu Osananajimi ga Aniki to Saikin Ayashii | My Busty Childhood
+      Friend and Big Bro Have Been Acting Weird Lately
+    author: mochichimaru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/379168.jpg
+    rating: 0.0
+    date: '2026-11-11'
+    code: 379168
+    url: /works/379168/
   - title: Osananajimi no Otou-san ni.
     author: uni18
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/381875.jpg
@@ -1842,6 +1850,13 @@ works:
     date: '2026-11-09'
     code: 695285
     url: /works/695285/
+  - title: Elite no Ore ga Onnanoko ni Nari, Tsuma no Kyokon de Kaihatsu Sareru.
+    author: jouyatou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695547.jpg
+    rating: 4.6
+    date: '2026-11-11'
+    code: 695547
+    url: /works/695547/
   - title: Ecchi na Omise ni Ittara, Mukashi no Doukyuusei ga Ita Hanashi
     author: mmchair
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695586.jpg

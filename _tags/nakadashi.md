@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "nakadashi"
-work_count: 1072
+work_count: 1074
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -7920,6 +7920,13 @@ works:
     date: '2026-11-11'
     code: 695467
     url: /works/695467/
+  - title: Elite no Ore ga Onnanoko ni Nari, Tsuma no Kyokon de Kaihatsu Sareru.
+    author: jouyatou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695547.jpg
+    rating: 4.6
+    date: '2026-11-11'
+    code: 695547
+    url: /works/695547/
   - title: jitsuroku !! onna kyōshi ni te kagome ni sareta boku -- True Story!! I Was
       Raped By A Female Teacher
     author: resoman-manga-koubou
@@ -7956,6 +7963,13 @@ works:
     date: '2026-11-10'
     code: 695639
     url: /works/695639/
+  - title: Hadaka Gurashi Chapter 1 to 21
+    author: agata
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695703.jpg
+    rating: 4.4
+    date: '2026-11-11'
+    code: 695703
+    url: /works/695703/
   - title: Daigaku jidai no sefure ga rinjin ni natta
     author: muripoyo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695711.jpg

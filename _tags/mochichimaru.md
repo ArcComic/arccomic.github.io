@@ -1,8 +1,16 @@
 ---
 layout: tag
 tag_name: "mochichimaru"
-work_count: 3
+work_count: 4
 works:
+  - title: Ore no Kyonyuu Osananajimi ga Aniki to Saikin Ayashii | My Busty Childhood
+      Friend and Big Bro Have Been Acting Weird Lately
+    author: mochichimaru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/379168.jpg
+    rating: 0.0
+    date: '2026-11-11'
+    code: 379168
+    url: /works/379168/
   - title: Uchi de wa Kazoku Sex wa Joushiki Rashii | In My House, Family Sex Is the
       Norm
     author: group

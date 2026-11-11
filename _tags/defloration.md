@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "defloration"
-work_count: 291
+work_count: 292
 works:
   - title: Imitation Family + Bigibo Hen
     author: tohzai
@@ -2157,4 +2157,11 @@ works:
     date: '2026-11-10'
     code: 695588
     url: /works/695588/
+  - title: Hadaka Gurashi Chapter 1 to 21
+    author: agata
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695703.jpg
+    rating: 4.4
+    date: '2026-11-11'
+    code: 695703
+    url: /works/695703/
 ---

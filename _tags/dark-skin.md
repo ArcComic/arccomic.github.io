@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "dark skin"
-work_count: 189
+work_count: 190
 works:
   - title: Birthday
     author: hashiba-yachi
@@ -1397,4 +1397,11 @@ works:
     date: '2026-10-28'
     code: 691662
     url: /works/691662/
+  - title: Hadaka Gurashi Chapter 1 to 21
+    author: agata
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695703.jpg
+    rating: 4.4
+    date: '2026-11-11'
+    code: 695703
+    url: /works/695703/
 ---

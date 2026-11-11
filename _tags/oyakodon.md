@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "oyakodon"
-work_count: 38
+work_count: 39
 works:
   - title: Akarui Kazoku Seikatsu
     author: pistonring-nishizawa
@@ -280,4 +280,11 @@ works:
     date: '2026-10-15'
     code: 687781
     url: /works/687781/
+  - title: Hadaka Gurashi Chapter 1 to 21
+    author: agata
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695703.jpg
+    rating: 4.4
+    date: '2026-11-11'
+    code: 695703
+    url: /works/695703/
 ---

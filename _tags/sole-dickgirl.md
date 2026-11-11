@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole dickgirl"
-work_count: 21
+work_count: 22
 works:
   - title: Tempt & Throb
     author: mushihara
@@ -162,4 +162,11 @@ works:
     date: '2026-10-15'
     code: 687701
     url: /works/687701/
+  - title: Elite no Ore ga Onnanoko ni Nari, Tsuma no Kyokon de Kaihatsu Sareru.
+    author: jouyatou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695547.jpg
+    rating: 4.6
+    date: '2026-11-11'
+    code: 695547
+    url: /works/695547/
 ---
