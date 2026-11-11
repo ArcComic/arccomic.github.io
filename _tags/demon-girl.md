@@ -1,8 +1,16 @@
 ---
 layout: tag
 tag_name: "demon girl"
-work_count: 14
+work_count: 15
 works:
+  - title: Kono Smapho Appli de Sex wa Risouka Sareru! ~Kozakura Kumaneko Full Color
+      Sakuhinshuu~
+    author: kozakura-kumaneko
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/399771.jpg
+    rating: 0.0
+    date: '2026-11-11'
+    code: 399771
+    url: /works/399771/
   - title: Junpaku Terrarium - Garden of Lovers
     author: sakuma-tsukasa
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/635795.jpg

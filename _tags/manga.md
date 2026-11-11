@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "manga"
-work_count: 441
+work_count: 442
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -569,6 +569,14 @@ works:
     date: '2026-04-19'
     code: 398854
     url: /works/398854/
+  - title: Kono Smapho Appli de Sex wa Risouka Sareru! ~Kozakura Kumaneko Full Color
+      Sakuhinshuu~
+    author: kozakura-kumaneko
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/399771.jpg
+    rating: 0.0
+    date: '2026-11-11'
+    code: 399771
+    url: /works/399771/
   - title: Rakki Taishyaku
     author: fushoku
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/407561.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "prostitution"
-work_count: 92
+work_count: 93
 works:
   - title: Ikanishite Haha wa Onna o Kaihou Shitaka Ch. 1-14
     author: mitarai-yuuki
@@ -512,6 +512,13 @@ works:
     date: '2026-08-28'
     code: 676149
     url: /works/676149/
+  - title: Mesugaki VS Atarashii Papa
+    author: dekamatsu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/676268.jpg
+    rating: 0.0
+    date: '2026-11-11'
+    code: 676268
+    url: /works/676268/
   - title: Matching Joshi Kousei no Ecchi na Seiikuki 2 Jishin Manman no Gal Joshi Kousei
       "Mana", Ai to Seieki de Mitashite, Hatsujou Mesu e to Otosu made~ | Matching Schoolgirls
       Naughty Sex Education Diary 2 Confident Gyaru Schoolgirl Mana is filled with love

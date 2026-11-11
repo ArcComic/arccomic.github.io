@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "paizuri"
-work_count: 298
+work_count: 299
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -139,6 +139,14 @@ works:
     date: '2026-11-08'
     code: 397141
     url: /works/397141/
+  - title: Kono Smapho Appli de Sex wa Risouka Sareru! ~Kozakura Kumaneko Full Color
+      Sakuhinshuu~
+    author: kozakura-kumaneko
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/399771.jpg
+    rating: 0.0
+    date: '2026-11-11'
+    code: 399771
+    url: /works/399771/
   - title: Police Story
     author: nekoi-mie
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/399776.jpg

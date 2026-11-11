@@ -1,8 +1,16 @@
 ---
 layout: tag
 tag_name: "wings"
-work_count: 8
+work_count: 9
 works:
+  - title: Kono Smapho Appli de Sex wa Risouka Sareru! ~Kozakura Kumaneko Full Color
+      Sakuhinshuu~
+    author: kozakura-kumaneko
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/399771.jpg
+    rating: 0.0
+    date: '2026-11-11'
+    code: 399771
+    url: /works/399771/
   - title: Succubus Seitokai Shiko Shiko Shikkoubu 2 NOA ver. | Succubus Student Council
       Milking Club 2 Version NOA
     author: michiking

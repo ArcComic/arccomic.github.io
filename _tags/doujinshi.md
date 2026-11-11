@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "doujinshi"
-work_count: 1712
+work_count: 1714
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -9147,6 +9147,13 @@ works:
     date: '2026-08-28'
     code: 676201
     url: /works/676201/
+  - title: Mesugaki VS Atarashii Papa
+    author: dekamatsu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/676268.jpg
+    rating: 0.0
+    date: '2026-11-11'
+    code: 676268
+    url: /works/676268/
   - title: Shuugakuryokou Mae ni Joshikousei ni Natta Hanashi | How We Became Girls
       Before Our School Trip After Days
     author: meganeko
@@ -12641,6 +12648,15 @@ works:
     date: '2026-11-10'
     code: 695711
     url: /works/695711/
+  - title: Jitsubo to MAMA Katsu Uraaka no Yokkyuufuman Hitozuma wa Haha deshita | Mama-Katsu
+      With My Real Mother ~The Frustrated Housewife on the Alt Account Turned Out to
+      Be My Mother~
+    author: yamaoku-midori
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695880.jpg
+    rating: 0.0
+    date: '2026-11-11'
+    code: 695880
+    url: /works/695880/
   - title: Shiho Nishizumi vs BBC - Shiho Nishizumi VS. Big Black Cock
     author: rasson
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695891.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big breasts"
-work_count: 1413
+work_count: 1415
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -793,6 +793,14 @@ works:
     date: '2026-07-10'
     code: 398305
     url: /works/398305/
+  - title: Kono Smapho Appli de Sex wa Risouka Sareru! ~Kozakura Kumaneko Full Color
+      Sakuhinshuu~
+    author: kozakura-kumaneko
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/399771.jpg
+    rating: 0.0
+    date: '2026-11-11'
+    code: 399771
+    url: /works/399771/
   - title: Police Story
     author: nekoi-mie
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/399776.jpg
@@ -10443,6 +10451,15 @@ works:
     date: '2026-11-10'
     code: 695711
     url: /works/695711/
+  - title: Jitsubo to MAMA Katsu Uraaka no Yokkyuufuman Hitozuma wa Haha deshita | Mama-Katsu
+      With My Real Mother ~The Frustrated Housewife on the Alt Account Turned Out to
+      Be My Mother~
+    author: yamaoku-midori
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695880.jpg
+    rating: 0.0
+    date: '2026-11-11'
+    code: 695880
+    url: /works/695880/
   - title: Shiho Nishizumi vs BBC - Shiho Nishizumi VS. Big Black Cock
     author: rasson
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695891.jpg

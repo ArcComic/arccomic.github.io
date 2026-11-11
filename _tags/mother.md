@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "mother"
-work_count: 215
+work_count: 216
 works:
   - title: Imitation Family + Bigibo Hen
     author: tohzai
@@ -1573,4 +1573,13 @@ works:
     date: '2026-11-09'
     code: 695285
     url: /works/695285/
+  - title: Jitsubo to MAMA Katsu Uraaka no Yokkyuufuman Hitozuma wa Haha deshita | Mama-Katsu
+      With My Real Mother ~The Frustrated Housewife on the Alt Account Turned Out to
+      Be My Mother~
+    author: yamaoku-midori
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695880.jpg
+    rating: 0.0
+    date: '2026-11-11'
+    code: 695880
+    url: /works/695880/
 ---

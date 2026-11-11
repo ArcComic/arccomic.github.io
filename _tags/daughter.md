@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "daughter"
-work_count: 37
+work_count: 38
 works:
   - title: Kindan no Hatemitsu
     author: ryuuta
@@ -192,6 +192,13 @@ works:
     date: '2026-08-21'
     code: 674719
     url: /works/674719/
+  - title: Mesugaki VS Atarashii Papa
+    author: dekamatsu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/676268.jpg
+    rating: 0.0
+    date: '2026-11-11'
+    code: 676268
+    url: /works/676268/
   - title: Nusumareta Hitozuma. - Stolen Wife
     author: taira-tsukune
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682203.jpg

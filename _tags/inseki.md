@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "inseki"
-work_count: 103
+work_count: 104
 works:
   - title: Imitation Family + Bigibo Hen
     author: tohzai
@@ -585,6 +585,13 @@ works:
     date: '2026-08-28'
     code: 675981
     url: /works/675981/
+  - title: Mesugaki VS Atarashii Papa
+    author: dekamatsu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/676268.jpg
+    rating: 0.0
+    date: '2026-11-11'
+    code: 676268
+    url: /works/676268/
   - title: Irodori Kazoku
     author: sugi-g
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/676658.jpg

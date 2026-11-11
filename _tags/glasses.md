@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "glasses"
-work_count: 333
+work_count: 334
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -1786,6 +1786,13 @@ works:
     date: '2026-08-28'
     code: 676197
     url: /works/676197/
+  - title: Mesugaki VS Atarashii Papa
+    author: dekamatsu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/676268.jpg
+    rating: 0.0
+    date: '2026-11-11'
+    code: 676268
+    url: /works/676268/
   - title: Shuugakuryokou Mae ni Joshikousei ni Natta Hanashi | How We Became Girls
       Before Our School Trip After Days
     author: meganeko

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "beauty mark"
-work_count: 248
+work_count: 249
 works:
   - title: Uragiri no Ai wa Mitsu no Aji | Treacherous Love Tastes Like Honey
     author: cuzukago
@@ -1844,4 +1844,13 @@ works:
     date: '2026-11-09'
     code: 694972
     url: /works/694972/
+  - title: Jitsubo to MAMA Katsu Uraaka no Yokkyuufuman Hitozuma wa Haha deshita | Mama-Katsu
+      With My Real Mother ~The Frustrated Housewife on the Alt Account Turned Out to
+      Be My Mother~
+    author: yamaoku-midori
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695880.jpg
+    rating: 0.0
+    date: '2026-11-11'
+    code: 695880
+    url: /works/695880/
 ---
