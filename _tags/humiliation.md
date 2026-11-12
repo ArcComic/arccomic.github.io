@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "humiliation"
-work_count: 55
+work_count: 57
 works:
   - title: Doushia (Terasu MC)] Dorei Gazoku
     author: terasu-mc
@@ -134,6 +134,13 @@ works:
     date: '2026-09-24'
     code: 640988
     url: /works/640988/
+  - title: Hitomebore
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/641484.jpg
+    rating: 0.0
+    date: '2026-11-12'
+    code: 641484
+    url: /works/641484/
   - title: Stupid women are forced to become breeding slaves
     author: carpsukidayo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/641858.jpg
@@ -268,6 +275,13 @@ works:
     date: '2026-09-30'
     code: 671419
     url: /works/671419/
+  - title: Kinjo no Onee-chan ni Otoshidama Watashite Hamedori Misete Morau Hanashi
+    author: muripoyo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/672151.jpg
+    rating: 0.0
+    date: '2026-11-12'
+    code: 672151
+    url: /works/672151/
   - title: Onii-san Zako sugite Ukeru~ | Big Brother, you're so pathetic, it's hilarious~
     author: puritei
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/674568.jpg

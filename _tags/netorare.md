@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "netorare"
-work_count: 516
+work_count: 524
 works:
   - title: Kousa suru Osu to Mesu | Male and Female Crossing
     author: ootsuka-kotora
@@ -246,7 +246,7 @@ works:
       Friend and Big Bro Have Been Acting Weird Lately
     author: mochichimaru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/379168.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-11-11'
     code: 379168
     url: /works/379168/
@@ -1144,6 +1144,13 @@ works:
     date: '2026-04-15'
     code: 577221
     url: /works/577221/
+  - title: Osananajimi no Himitsu 2 | My childhood friend's secret 2
+    author: muripoyo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/577519.jpg
+    rating: 0.0
+    date: '2026-11-12'
+    code: 577519
+    url: /works/577519/
   - title: Boku no Kaa-chan ga Hikikomori Neet Debu Aniki no Seishori Onaho ni Natteita
       Hanashi | My Mother is My Fat Shut-in Older NEET Brother's Sex Relief Onahole
     author: tarobaumu
@@ -1166,6 +1173,13 @@ works:
     date: '2026-04-25'
     code: 579339
     url: /works/579339/
+  - title: Onna Tomodachi no Uwaki Kokuhaku | My Friend Confessed to Cheating
+    author: dekamatsu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/581240.jpg
+    rating: 0.0
+    date: '2026-11-12'
+    code: 581240
+    url: /works/581240/
   - title: Anata Senyou no Niku Onaho desu | Your very own meat onahole
     author: noe
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/581946.jpg
@@ -1681,6 +1695,13 @@ works:
     date: '2026-09-19'
     code: 638320
     url: /works/638320/
+  - title: Ki ga tsuyokute zako manko na tsuma wa dareka no osagari
+    author: ubuo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638322.jpg
+    rating: 0.0
+    date: '2026-11-12'
+    code: 638322
+    url: /works/638322/
   - title: Onna Gal Joushi to Furin suru Hanashi 4 | Having an Affair with My Blonde
       Bombshell Boss – Part 4
     author: nakamo
@@ -1689,6 +1710,14 @@ works:
     date: '2026-10-12'
     code: 638495
     url: /works/638495/
+  - title: The story of how the girl who was always by my side is turned into a submissive
+      female by a womanizer
+    author: ubuo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638600.jpg
+    rating: 0.0
+    date: '2026-11-12'
+    code: 638600
+    url: /works/638600/
   - title: Boku ga Shiranakatta Mama to Jii-chan no Koto | Things I didn't Know Between
       Mom And Grandpa
     author: urakan
@@ -1711,6 +1740,21 @@ works:
     date: '2026-09-29'
     code: 641456
     url: /works/641456/
+  - title: Hitomebore
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/641484.jpg
+    rating: 0.0
+    date: '2026-11-12'
+    code: 641484
+    url: /works/641484/
+  - title: Fallen Mother ~The Mother Who Gets Slept With by a Playboy Instead of Her
+      Daughter ~
+    author: kaniguruma
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/641745.jpg
+    rating: 0.0
+    date: '2026-11-12'
+    code: 641745
+    url: /works/641745/
   - title: Boku wa Tsuma ga Netorare Nando mo Ikasareru Sugata o Mitsuzuketa. 4
     author: sanku
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/641950.jpg
@@ -2641,6 +2685,13 @@ works:
     date: '2026-09-23'
     code: 671907
     url: /works/671907/
+  - title: Kinjo no Onee-chan ni Otoshidama Watashite Hamedori Misete Morau Hanashi
+    author: muripoyo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/672151.jpg
+    rating: 0.0
+    date: '2026-11-12'
+    code: 672151
+    url: /works/672151/
   - title: Akogare Senpai ga NTR sareru Hon
     author: seinen-hormone
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/672241.jpg
@@ -2959,6 +3010,14 @@ works:
     date: '2026-09-22'
     code: 680307
     url: /works/680307/
+  - title: Hitozuma Onahole-hou Cool-kei Goumou Deka Nyuujo Joushi Himuro Aika (29-sai)
+      no NTR Jirei-MTL
+    author: shinyashiki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680308.jpg
+    rating: 0.0
+    date: '2026-11-12'
+    code: 680308
+    url: /works/680308/
   - title: Fucking slut ~Welcome to the training room~ MTL
     author: mabo-nasu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680326.jpg
@@ -3770,14 +3829,14 @@ works:
   - title: I Don't Recall -- Kioku ni Gozaimasen
     author: chotto-b-sen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695568.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-11-11'
     code: 695568
     url: /works/695568/
   - title: The World Called Wife ~ Experiencing Her Pleasure Myself ~
     author: sabusuka
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695574.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-11-11'
     code: 695574
     url: /works/695574/
@@ -3791,14 +3850,14 @@ works:
   - title: Katei Saien Vol. 2 | Lustful Housewife Vol. 2 ch 9
     author: kakutou-oukoku
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695890.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-11'
     code: 695890
     url: /works/695890/
   - title: Shiho Nishizumi vs BBC - Shiho Nishizumi VS. Big Black Cock
     author: rasson
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695891.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-11'
     code: 695891
     url: /works/695891/

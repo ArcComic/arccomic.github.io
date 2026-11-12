@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "gender bender"
-work_count: 57
+work_count: 58
 works:
   - title: Seigi no Mikata o Otosu Houhou | How To Subvert an Ally of Justice
     author: fuka
@@ -100,7 +100,7 @@ works:
       By My Girlfriend For A Week~
     author: onaka-emi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/577156.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-11-11'
     code: 577156
     url: /works/577156/
@@ -421,4 +421,13 @@ works:
     date: '2026-11-11'
     code: 695547
     url: /works/695547/
+  - title: '"Watashi" ni Yomigaeru "Ore" no Kioku ~Otoko datta Zense o Omoidashita JD
+      no Hanashi~ | How I Got My Old Male Memories Back While Being a Woman ~The Story
+      About a Female Student Remembering Her Previous Life as a Man~'
+    author: kisaragi-nana
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695608.jpg
+    rating: 0.0
+    date: '2026-11-12'
+    code: 695608
+    url: /works/695608/
 ---

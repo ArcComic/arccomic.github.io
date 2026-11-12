@@ -81,7 +81,7 @@ works:
   - title: Mesugaki VS Atarashii Papa
     author: dekamatsu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/676268.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-11-11'
     code: 676268
     url: /works/676268/

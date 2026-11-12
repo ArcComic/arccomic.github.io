@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "facesitting"
-work_count: 34
+work_count: 36
 works:
   - title: Yuri no o saifu ni shite agemasu ne, Senpai | I'll turn you into Yuri's wallet,
       Senpai
@@ -39,6 +39,13 @@ works:
     date: '2026-10-12'
     code: 317265
     url: /works/317265/
+  - title: Daken no Tadashii Shitsuke Kata
+    author: napo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/357477.jpg
+    rating: 0.0
+    date: '2026-11-12'
+    code: 357477
+    url: /works/357477/
   - title: Let's Study!
     author: napo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/358620.jpg
@@ -257,4 +264,12 @@ works:
     date: '2026-11-08'
     code: 694670
     url: /works/694670/
+  - title: Iede Gal na Senpai wa Kantan ni Yarasete Kureru 7 | The Runaway Gal Senpai
+      Easily Lets Me Bang Her 7
+    author: izure
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695882.jpg
+    rating: 0.0
+    date: '2026-11-12'
+    code: 695882
+    url: /works/695882/
 ---

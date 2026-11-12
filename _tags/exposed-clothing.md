@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "exposed clothing"
-work_count: 28
+work_count: 29
 works:
   - title: Yofukashi no Tsuma ~Murakami Kozue~ | Late-Night Wife ~Murakami Kozue~
     author: oobayashi-mori
@@ -194,10 +194,17 @@ works:
     date: '2026-11-08'
     code: 689137
     url: /works/689137/
+  - title: After-School Service Club (Provisional) - The Genius Gal Who Can Do Anything
+    author: courreges-accel
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695157.jpg
+    rating: 0.0
+    date: '2026-11-12'
+    code: 695157
+    url: /works/695157/
   - title: The World Called Wife ~ Experiencing Her Pleasure Myself ~
     author: sabusuka
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695574.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-11-11'
     code: 695574
     url: /works/695574/
@@ -206,7 +213,7 @@ works:
       Brothel~
     author: courreges-accel
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695883.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-11-11'
     code: 695883
     url: /works/695883/

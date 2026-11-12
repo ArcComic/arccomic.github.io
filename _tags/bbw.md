@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bbw"
-work_count: 78
+work_count: 79
 works:
   - title: My Care Lady Ch. 1
     author: sugi-g
@@ -228,7 +228,7 @@ works:
   - title: Ore wa Shachiku de Rinjin Gal Hitozuma no Seiyoku Shori Gakari
     author: kaniguruma
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/640053.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-11-11'
     code: 640053
     url: /works/640053/
@@ -239,6 +239,14 @@ works:
     date: '2026-09-29'
     code: 641456
     url: /works/641456/
+  - title: Fallen Mother ~The Mother Who Gets Slept With by a Playboy Instead of Her
+      Daughter ~
+    author: kaniguruma
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/641745.jpg
+    rating: 0.0
+    date: '2026-11-12'
+    code: 641745
+    url: /works/641745/
   - title: Apart no Otonari-san ga Yarasete Kureru Hanashi 4 | My Nextdoor Neighbor
       Let Me Fuck Her 4
     author: ki-51

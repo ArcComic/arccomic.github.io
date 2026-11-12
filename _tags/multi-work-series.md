@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "multi-work series"
-work_count: 483
+work_count: 489
 works:
   - title: Konna ni mo Itooshii Zero
     author: nohito
@@ -1004,6 +1004,13 @@ works:
     date: '2026-09-24'
     code: 576680
     url: /works/576680/
+  - title: Osananajimi no Himitsu 2 | My childhood friend's secret 2
+    author: muripoyo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/577519.jpg
+    rating: 0.0
+    date: '2026-11-12'
+    code: 577519
+    url: /works/577519/
   - title: Zero Kyori no Manazashi
     author: momoko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/578371.jpg
@@ -3588,6 +3595,13 @@ works:
     date: '2026-11-09'
     code: 694940
     url: /works/694940/
+  - title: After-School Service Club (Provisional) - The Genius Gal Who Can Do Anything
+    author: courreges-accel
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695157.jpg
+    rating: 0.0
+    date: '2026-11-12'
+    code: 695157
+    url: /works/695157/
   - title: Sold Out 2 (ENG) =TB=
     author: minegami-aya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695211.jpg
@@ -3606,14 +3620,46 @@ works:
   - title: Natsu Pi!
     author: iku
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695467.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-11-11'
     code: 695467
     url: /works/695467/
+  - title: MistakeR ~Jimi de Kyonyuu na Osananjimi wo Ero Gal ni suru Tame ni Class
+      no Gal to Hame Makuru Natsuyasumi Hen~
+    author: ueto-seri-ueto-ruri
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695555.jpg
+    rating: 0.0
+    date: '2026-11-12'
+    code: 695555
+    url: /works/695555/
+  - title: Bokura no Libido - CHAPTER 1-16
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695615.jpg
+    rating: 0.0
+    date: '2026-11-12'
+    code: 695615
+    url: /works/695615/
+  - title: Boku no Koto ga Suki Sugiru InCha Stalker Joshi ni nara Nani o Yatte mo Ii
+      yo ne? 2 | I Can Do Anything With the Introvert Stalker Girl Who Loves Me Too
+      Much, Right? 2
+    author: kaniguruma
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695879.jpg
+    rating: 0.0
+    date: '2026-11-12'
+    code: 695879
+    url: /works/695879/
+  - title: Iede Gal na Senpai wa Kantan ni Yarasete Kureru 7 | The Runaway Gal Senpai
+      Easily Lets Me Bang Her 7
+    author: izure
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695882.jpg
+    rating: 0.0
+    date: '2026-11-12'
+    code: 695882
+    url: /works/695882/
   - title: Katei Saien Vol. 2 | Lustful Housewife Vol. 2 ch 9
     author: kakutou-oukoku
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695890.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-11'
     code: 695890
     url: /works/695890/

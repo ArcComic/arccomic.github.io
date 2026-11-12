@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "masturbation"
-work_count: 192
+work_count: 197
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -27,7 +27,7 @@ works:
   - title: Yohane Mokushiroku
     author: napo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/289930.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-11-11'
     code: 289930
     url: /works/289930/
@@ -113,7 +113,7 @@ works:
       Friend and Big Bro Have Been Acting Weird Lately
     author: mochichimaru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/379168.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-11-11'
     code: 379168
     url: /works/379168/
@@ -382,6 +382,13 @@ works:
     date: '2026-03-04'
     code: 573414
     url: /works/573414/
+  - title: Osananajimi no Himitsu 2 | My childhood friend's secret 2
+    author: muripoyo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/577519.jpg
+    rating: 0.0
+    date: '2026-11-12'
+    code: 577519
+    url: /works/577519/
   - title: Hyoui de Gravure Idol o Ore no Mono ni Someageru Hanashi | Gravure Idol Possession
     author: comichi-pota
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/579368.jpg
@@ -1407,7 +1414,7 @@ works:
   - title: The World Called Wife ~ Experiencing Her Pleasure Myself ~
     author: sabusuka
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695574.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-11-11'
     code: 695574
     url: /works/695574/
@@ -1418,6 +1425,22 @@ works:
     date: '2026-11-10'
     code: 695586
     url: /works/695586/
+  - title: '"Watashi" ni Yomigaeru "Ore" no Kioku ~Otoko datta Zense o Omoidashita JD
+      no Hanashi~ | How I Got My Old Male Memories Back While Being a Woman ~The Story
+      About a Female Student Remembering Her Previous Life as a Man~'
+    author: kisaragi-nana
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695608.jpg
+    rating: 0.0
+    date: '2026-11-12'
+    code: 695608
+    url: /works/695608/
+  - title: Bokura no Libido - CHAPTER 1-16
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695615.jpg
+    rating: 0.0
+    date: '2026-11-12'
+    code: 695615
+    url: /works/695615/
   - title: Daigaku jidai no sefure ga rinjin ni natta
     author: muripoyo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695711.jpg
@@ -1425,6 +1448,14 @@ works:
     date: '2026-11-10'
     code: 695711
     url: /works/695711/
+  - title: Iede Gal na Senpai wa Kantan ni Yarasete Kureru 7 | The Runaway Gal Senpai
+      Easily Lets Me Bang Her 7
+    author: izure
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695882.jpg
+    rating: 0.0
+    date: '2026-11-12'
+    code: 695882
+    url: /works/695882/
   - title: Crackhead lookin ahh gets to crack voluptuous beauty
     author: mikarin
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695946.jpg
@@ -1432,4 +1463,12 @@ works:
     date: '2026-11-11'
     code: 695946
     url: /works/695946/
+  - title: Dare mo danshi hōshi iinkai nanka ni kyōmi nai | No one cares about the Boys'
+      Service Committee
+    author: ryoma
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696030.jpg
+    rating: 0.0
+    date: '2026-11-12'
+    code: 696030
+    url: /works/696030/
 ---

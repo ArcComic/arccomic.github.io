@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "nipple stimulation"
-work_count: 212
+work_count: 216
 works:
   - title: Hypnotic Domination ~ The Fall of Tennis Club Ace ~
     author: danchino
@@ -197,7 +197,7 @@ works:
       By My Girlfriend For A Week~
     author: onaka-emi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/577156.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-11-11'
     code: 577156
     url: /works/577156/
@@ -1551,7 +1551,7 @@ works:
   - title: Natsu Pi!
     author: iku
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695467.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-11-11'
     code: 695467
     url: /works/695467/
@@ -1569,6 +1569,13 @@ works:
     date: '2026-11-10'
     code: 695588
     url: /works/695588/
+  - title: Bokura no Libido - CHAPTER 1-16
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695615.jpg
+    rating: 0.0
+    date: '2026-11-12'
+    code: 695615
+    url: /works/695615/
   - title: Daigaku jidai no sefure ga rinjin ni natta
     author: muripoyo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695711.jpg
@@ -1576,12 +1583,29 @@ works:
     date: '2026-11-10'
     code: 695711
     url: /works/695711/
+  - title: Oshikake! Deka Gal Harem Kanzenban | Uninvited! Big-Breasted Gal Harem Complete
+      Edition
+    author: teaindian
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695866.jpg
+    rating: 0.0
+    date: '2026-11-12'
+    code: 695866
+    url: /works/695866/
+  - title: Boku no Koto ga Suki Sugiru InCha Stalker Joshi ni nara Nani o Yatte mo Ii
+      yo ne? 2 | I Can Do Anything With the Introvert Stalker Girl Who Loves Me Too
+      Much, Right? 2
+    author: kaniguruma
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695879.jpg
+    rating: 0.0
+    date: '2026-11-12'
+    code: 695879
+    url: /works/695879/
   - title: Jitsubo to MAMA Katsu Uraaka no Yokkyuufuman Hitozuma wa Haha deshita | Mama-Katsu
       With My Real Mother ~The Frustrated Housewife on the Alt Account Turned Out to
       Be My Mother~
     author: yamaoku-midori
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695880.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-11-11'
     code: 695880
     url: /works/695880/
@@ -1590,7 +1614,7 @@ works:
       Brothel~
     author: courreges-accel
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695883.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-11-11'
     code: 695883
     url: /works/695883/
@@ -1601,4 +1625,12 @@ works:
     date: '2026-11-11'
     code: 695946
     url: /works/695946/
+  - title: Dare mo danshi hōshi iinkai nanka ni kyōmi nai | No one cares about the Boys'
+      Service Committee
+    author: ryoma
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696030.jpg
+    rating: 0.0
+    date: '2026-11-12'
+    code: 696030
+    url: /works/696030/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole male"
-work_count: 1177
+work_count: 1188
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -642,6 +642,13 @@ works:
     date: '2026-10-10'
     code: 355274
     url: /works/355274/
+  - title: Daken no Tadashii Shitsuke Kata
+    author: napo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/357477.jpg
+    rating: 0.0
+    date: '2026-11-12'
+    code: 357477
+    url: /works/357477/
   - title: Senpai Refrain
     author: spiritus-tarou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/357616.jpg
@@ -794,7 +801,7 @@ works:
       Friend and Big Bro Have Been Acting Weird Lately
     author: mochichimaru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/379168.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-11-11'
     code: 379168
     url: /works/379168/
@@ -2733,7 +2740,7 @@ works:
       By My Girlfriend For A Week~
     author: onaka-emi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/577156.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-11-11'
     code: 577156
     url: /works/577156/
@@ -3555,7 +3562,7 @@ works:
   - title: Manga Matome
     author: elel
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/616921.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-11-11'
     code: 616921
     url: /works/616921/
@@ -4215,7 +4222,7 @@ works:
   - title: Ore wa Shachiku de Rinjin Gal Hitozuma no Seiyoku Shori Gakari
     author: kaniguruma
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/640053.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-11-11'
     code: 640053
     url: /works/640053/
@@ -4251,6 +4258,14 @@ works:
     date: '2026-08-19'
     code: 641362
     url: /works/641362/
+  - title: Fallen Mother ~The Mother Who Gets Slept With by a Playboy Instead of Her
+      Daughter ~
+    author: kaniguruma
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/641745.jpg
+    rating: 0.0
+    date: '2026-11-12'
+    code: 641745
+    url: /works/641745/
   - title: Onna Gal Joushi to Furin suru Hanashi 5 | Having an Affair with My Blonde
       Bombshell Boss – Part 5
     author: nakamo
@@ -5581,6 +5596,15 @@ works:
     date: '2026-10-15'
     code: 660489
     url: /works/660489/
+  - title: Boku no Koto ga Suki Sugiru InCha Stalker Joshi ni Nara Nani wo Yatte mo
+      Ii yo ne? | If I Had A Gloomy Stalker That Loved Me Way, Way Too Much, I Could
+      Do Whatever I Wanted To Her, Right?
+    author: kaniguruma
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/660556.jpg
+    rating: 0.0
+    date: '2026-11-12'
+    code: 660556
+    url: /works/660556/
   - title: Murasaki no Shoumei ~Kuroi Muchuu~ | Purple Illumination ~Dark Trance~
     author: '3104'
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/660867.jpg
@@ -6544,7 +6568,7 @@ works:
   - title: Mesugaki VS Atarashii Papa
     author: dekamatsu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/676268.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-11-11'
     code: 676268
     url: /works/676268/
@@ -7277,7 +7301,7 @@ works:
   - title: Kaa-san wa I no Mama | Mother Bends To My Willy
     author: temperature
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682146.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-11-11'
     code: 682146
     url: /works/682146/
@@ -8614,6 +8638,13 @@ works:
     date: '2026-11-09'
     code: 694974
     url: /works/694974/
+  - title: After-School Service Club (Provisional) - The Genius Gal Who Can Do Anything
+    author: courreges-accel
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695157.jpg
+    rating: 0.0
+    date: '2026-11-12'
+    code: 695157
+    url: /works/695157/
   - title: Takuhai Shoujo - Delivery Girl
     author: jp06
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695224.jpg
@@ -8658,7 +8689,7 @@ works:
   - title: Natsu Pi!
     author: iku
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695467.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-11-11'
     code: 695467
     url: /works/695467/
@@ -8677,6 +8708,13 @@ works:
     date: '2026-11-11'
     code: 695564
     url: /works/695564/
+  - title: The Sky, The Sand, And The Garden
+    author: asagi-ryu-amano-miki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695569.jpg
+    rating: 0.0
+    date: '2026-11-12'
+    code: 695569
+    url: /works/695569/
   - title: Gyu Shite Chuu | Hugs and Kisses For You
     author: gurida-soumu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695576.jpg
@@ -8691,6 +8729,22 @@ works:
     date: '2026-11-10'
     code: 695588
     url: /works/695588/
+  - title: '"Watashi" ni Yomigaeru "Ore" no Kioku ~Otoko datta Zense o Omoidashita JD
+      no Hanashi~ | How I Got My Old Male Memories Back While Being a Woman ~The Story
+      About a Female Student Remembering Her Previous Life as a Man~'
+    author: kisaragi-nana
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695608.jpg
+    rating: 0.0
+    date: '2026-11-12'
+    code: 695608
+    url: /works/695608/
+  - title: Bokura no Libido - CHAPTER 1-16
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695615.jpg
+    rating: 0.0
+    date: '2026-11-12'
+    code: 695615
+    url: /works/695615/
   - title: Hadaka Gurashi Chapter 1 to 21
     author: agata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695703.jpg
@@ -8705,21 +8759,46 @@ works:
     date: '2026-11-10'
     code: 695711
     url: /works/695711/
+  - title: Oshikake! Deka Gal Harem Kanzenban | Uninvited! Big-Breasted Gal Harem Complete
+      Edition
+    author: teaindian
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695866.jpg
+    rating: 0.0
+    date: '2026-11-12'
+    code: 695866
+    url: /works/695866/
+  - title: Boku no Koto ga Suki Sugiru InCha Stalker Joshi ni nara Nani o Yatte mo Ii
+      yo ne? 2 | I Can Do Anything With the Introvert Stalker Girl Who Loves Me Too
+      Much, Right? 2
+    author: kaniguruma
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695879.jpg
+    rating: 0.0
+    date: '2026-11-12'
+    code: 695879
+    url: /works/695879/
   - title: Jitsubo to MAMA Katsu Uraaka no Yokkyuufuman Hitozuma wa Haha deshita | Mama-Katsu
       With My Real Mother ~The Frustrated Housewife on the Alt Account Turned Out to
       Be My Mother~
     author: yamaoku-midori
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695880.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-11-11'
     code: 695880
     url: /works/695880/
+  - title: Iede Gal na Senpai wa Kantan ni Yarasete Kureru 7 | The Runaway Gal Senpai
+      Easily Lets Me Bang Her 7
+    author: izure
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695882.jpg
+    rating: 0.0
+    date: '2026-11-12'
+    code: 695882
+    url: /works/695882/
   - title: Houkago Houshi-bu (Kari) ~Seifu Kounin!? Kyoushi Senyou Gakuen Fuuzoku~ |
       After-School Service Club (Provisional) ~Government Approved!? Teachers-Only School
       Brothel~
     author: courreges-accel
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695883.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-11-11'
     code: 695883
     url: /works/695883/
@@ -8730,6 +8809,14 @@ works:
     date: '2026-11-11'
     code: 695946
     url: /works/695946/
+  - title: Dare mo danshi hōshi iinkai nanka ni kyōmi nai | No one cares about the Boys'
+      Service Committee
+    author: ryoma
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696030.jpg
+    rating: 0.0
+    date: '2026-11-12'
+    code: 696030
+    url: /works/696030/
   - title: Ranko-ppoi no! | Ranko-Ish!
     author: napata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/87393.jpg

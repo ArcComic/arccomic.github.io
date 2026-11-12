@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "defloration"
-work_count: 293
+work_count: 295
 works:
   - title: Imitation Family + Bigibo Hen
     author: tohzai
@@ -1483,6 +1483,15 @@ works:
     date: '2026-10-15'
     code: 660489
     url: /works/660489/
+  - title: Boku no Koto ga Suki Sugiru InCha Stalker Joshi ni Nara Nani wo Yatte mo
+      Ii yo ne? | If I Had A Gloomy Stalker That Loved Me Way, Way Too Much, I Could
+      Do Whatever I Wanted To Her, Right?
+    author: kaniguruma
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/660556.jpg
+    rating: 0.0
+    date: '2026-11-12'
+    code: 660556
+    url: /works/660556/
   - title: Ane to Otouto wa 30-Nichi go ni Sex Suru. | The Big Sister and Her Little
       Brother Will Have Sex in 30 Days
     author: shamidou-maichimonji
@@ -1701,7 +1710,7 @@ works:
   - title: Mesugaki VS Atarashii Papa
     author: dekamatsu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/676268.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-11-11'
     code: 676268
     url: /works/676268/
@@ -2171,4 +2180,12 @@ works:
     date: '2026-11-11'
     code: 695703
     url: /works/695703/
+  - title: Dare mo danshi hōshi iinkai nanka ni kyōmi nai | No one cares about the Boys'
+      Service Committee
+    author: ryoma
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696030.jpg
+    rating: 0.0
+    date: '2026-11-12'
+    code: 696030
+    url: /works/696030/
 ---

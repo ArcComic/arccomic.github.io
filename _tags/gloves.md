@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "gloves"
-work_count: 48
+work_count: 49
 works:
   - title: Yuri no o saifu ni shite agemasu ne, Senpai | I'll turn you into Yuri's wallet,
       Senpai
@@ -342,10 +342,17 @@ works:
     date: '2026-10-28'
     code: 691662
     url: /works/691662/
+  - title: After-School Service Club (Provisional) - The Genius Gal Who Can Do Anything
+    author: courreges-accel
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695157.jpg
+    rating: 0.0
+    date: '2026-11-12'
+    code: 695157
+    url: /works/695157/
   - title: Natsu Pi!
     author: iku
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695467.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-11-11'
     code: 695467
     url: /works/695467/
@@ -354,7 +361,7 @@ works:
       Brothel~
     author: courreges-accel
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695883.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-11-11'
     code: 695883
     url: /works/695883/

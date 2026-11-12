@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "multiple paizuri"
-work_count: 14
+work_count: 15
 works:
   - title: Itabasami na Wakachi Ai 5 | Love Divided Between a Rock and a Hard Place
       5
@@ -33,6 +33,13 @@ works:
     date: '2026-04-18'
     code: 635068
     url: /works/635068/
+  - title: Hitomebore
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/641484.jpg
+    rating: 0.0
+    date: '2026-11-12'
+    code: 641484
+    url: /works/641484/
   - title: Akogare no Hito wa Mou Owari! 2
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642585.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "squirting"
-work_count: 201
+work_count: 206
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -941,6 +941,13 @@ works:
     date: '2026-08-22'
     code: 674863
     url: /works/674863/
+  - title: Botsuraku Reijou wa Nao mo Kedakaku ~Migawari ni Chiru Hana~
+    author: minegami-aya
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/676232.jpg
+    rating: 0.0
+    date: '2026-11-12'
+    code: 676232
+    url: /works/676232/
   - title: My childhood friend, the “black gal,” who's surprisingly easy to sway
     author: zarameccho
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/677418.jpg
@@ -1467,7 +1474,7 @@ works:
   - title: Natsu Pi!
     author: iku
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695467.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-11-11'
     code: 695467
     url: /works/695467/
@@ -1485,6 +1492,22 @@ works:
     date: '2026-11-10'
     code: 695588
     url: /works/695588/
+  - title: '"Watashi" ni Yomigaeru "Ore" no Kioku ~Otoko datta Zense o Omoidashita JD
+      no Hanashi~ | How I Got My Old Male Memories Back While Being a Woman ~The Story
+      About a Female Student Remembering Her Previous Life as a Man~'
+    author: kisaragi-nana
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695608.jpg
+    rating: 0.0
+    date: '2026-11-12'
+    code: 695608
+    url: /works/695608/
+  - title: Bokura no Libido - CHAPTER 1-16
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695615.jpg
+    rating: 0.0
+    date: '2026-11-12'
+    code: 695615
+    url: /works/695615/
   - title: A Place Where I Can Shine | Kagayakeru Basho
     author: tantanmen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695639.jpg
@@ -1497,10 +1520,18 @@ works:
       Be My Mother~
     author: yamaoku-midori
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695880.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-11-11'
     code: 695880
     url: /works/695880/
+  - title: Iede Gal na Senpai wa Kantan ni Yarasete Kureru 7 | The Runaway Gal Senpai
+      Easily Lets Me Bang Her 7
+    author: izure
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695882.jpg
+    rating: 0.0
+    date: '2026-11-12'
+    code: 695882
+    url: /works/695882/
   - title: Crackhead lookin ahh gets to crack voluptuous beauty
     author: mikarin
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695946.jpg
@@ -1508,4 +1539,12 @@ works:
     date: '2026-11-11'
     code: 695946
     url: /works/695946/
+  - title: Dare mo danshi hōshi iinkai nanka ni kyōmi nai | No one cares about the Boys'
+      Service Committee
+    author: ryoma
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696030.jpg
+    rating: 0.0
+    date: '2026-11-12'
+    code: 696030
+    url: /works/696030/
 ---

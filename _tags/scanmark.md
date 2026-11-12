@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "scanmark"
-work_count: 280
+work_count: 284
 works:
   - title: NTR Anniversary + ) [Syukurin] Mitsuha ~Netorare~ (Kimi no Na wa.) [English]
       [Colorized] by Mikaku
@@ -353,6 +353,13 @@ works:
     date: '2026-09-19'
     code: 638320
     url: /works/638320/
+  - title: Ki ga tsuyokute zako manko na tsuma wa dareka no osagari
+    author: ubuo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638322.jpg
+    rating: 0.0
+    date: '2026-11-12'
+    code: 638322
+    url: /works/638322/
   - title: Haru Kurabe 5
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638513.jpg
@@ -367,6 +374,14 @@ works:
     date: '2026-09-13'
     code: 638556
     url: /works/638556/
+  - title: The story of how the girl who was always by my side is turned into a submissive
+      female by a womanizer
+    author: ubuo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638600.jpg
+    rating: 0.0
+    date: '2026-11-12'
+    code: 638600
+    url: /works/638600/
   - title: Idol no Kimi no Tonari no Boku 2
     author: negoya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/640988.jpg
@@ -381,6 +396,13 @@ works:
     date: '2026-08-19'
     code: 641362
     url: /works/641362/
+  - title: Hitomebore
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/641484.jpg
+    rating: 0.0
+    date: '2026-11-12'
+    code: 641484
+    url: /works/641484/
   - title: Boku wa Tsuma ga Netorare Nando mo Ikasareru Sugata o Mitsuzuketa. 4
     author: sanku
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/641950.jpg
@@ -1394,6 +1416,14 @@ works:
     date: '2026-09-22'
     code: 680307
     url: /works/680307/
+  - title: Hitozuma Onahole-hou Cool-kei Goumou Deka Nyuujo Joushi Himuro Aika (29-sai)
+      no NTR Jirei-MTL
+    author: shinyashiki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680308.jpg
+    rating: 0.0
+    date: '2026-11-12'
+    code: 680308
+    url: /works/680308/
   - title: Oji-san ga Shakin o Tsuma no Karada de Hoten Shite Hoshii to Iwareta node
       Kaidaku Shita Hanashi-MTL
     author: murabito-c

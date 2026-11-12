@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "schoolboy uniform"
-work_count: 137
+work_count: 141
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -591,6 +591,15 @@ works:
     date: '2026-09-09'
     code: 657459
     url: /works/657459/
+  - title: Boku no Koto ga Suki Sugiru InCha Stalker Joshi ni Nara Nani wo Yatte mo
+      Ii yo ne? | If I Had A Gloomy Stalker That Loved Me Way, Way Too Much, I Could
+      Do Whatever I Wanted To Her, Right?
+    author: kaniguruma
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/660556.jpg
+    rating: 0.0
+    date: '2026-11-12'
+    code: 660556
+    url: /works/660556/
   - title: Nankai demo Kimochii Koto
     author: raita
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/661145.jpg
@@ -1004,6 +1013,31 @@ works:
     date: '2026-11-10'
     code: 695586
     url: /works/695586/
+  - title: Oshikake! Deka Gal Harem Kanzenban | Uninvited! Big-Breasted Gal Harem Complete
+      Edition
+    author: teaindian
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695866.jpg
+    rating: 0.0
+    date: '2026-11-12'
+    code: 695866
+    url: /works/695866/
+  - title: Boku no Koto ga Suki Sugiru InCha Stalker Joshi ni nara Nani o Yatte mo Ii
+      yo ne? 2 | I Can Do Anything With the Introvert Stalker Girl Who Loves Me Too
+      Much, Right? 2
+    author: kaniguruma
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695879.jpg
+    rating: 0.0
+    date: '2026-11-12'
+    code: 695879
+    url: /works/695879/
+  - title: Dare mo danshi hōshi iinkai nanka ni kyōmi nai | No one cares about the Boys'
+      Service Committee
+    author: ryoma
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696030.jpg
+    rating: 0.0
+    date: '2026-11-12'
+    code: 696030
+    url: /works/696030/
   - title: Jokyoushi - Hot For Teachers | Female Teachers
     author: drill-murata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/81375.jpg

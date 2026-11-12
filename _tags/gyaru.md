@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "gyaru"
-work_count: 167
+work_count: 172
 works:
   - title: GalPa!
     author: sakagami-umi
@@ -341,7 +341,7 @@ works:
   - title: Manga Matome
     author: elel
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/616921.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-11-11'
     code: 616921
     url: /works/616921/
@@ -490,7 +490,7 @@ works:
   - title: Ore wa Shachiku de Rinjin Gal Hitozuma no Seiyoku Shori Gakari
     author: kaniguruma
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/640053.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-11-11'
     code: 640053
     url: /works/640053/
@@ -1226,6 +1226,13 @@ works:
     date: '2026-11-09'
     code: 694780
     url: /works/694780/
+  - title: After-School Service Club (Provisional) - The Genius Gal Who Can Do Anything
+    author: courreges-accel
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695157.jpg
+    rating: 0.0
+    date: '2026-11-12'
+    code: 695157
+    url: /works/695157/
   - title: Sold Out 2 (ENG) =TB=
     author: minegami-aya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695211.jpg
@@ -1243,10 +1250,18 @@ works:
   - title: Natsu Pi!
     author: iku
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695467.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-11-11'
     code: 695467
     url: /works/695467/
+  - title: MistakeR ~Jimi de Kyonyuu na Osananjimi wo Ero Gal ni suru Tame ni Class
+      no Gal to Hame Makuru Natsuyasumi Hen~
+    author: ueto-seri-ueto-ruri
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695555.jpg
+    rating: 0.0
+    date: '2026-11-12'
+    code: 695555
+    url: /works/695555/
   - title: Ecchi na Omise ni Ittara, Mukashi no Doukyuusei ga Ita Hanashi
     author: mmchair
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695586.jpg
@@ -1254,4 +1269,28 @@ works:
     date: '2026-11-10'
     code: 695586
     url: /works/695586/
+  - title: Oshikake! Deka Gal Harem Kanzenban | Uninvited! Big-Breasted Gal Harem Complete
+      Edition
+    author: teaindian
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695866.jpg
+    rating: 0.0
+    date: '2026-11-12'
+    code: 695866
+    url: /works/695866/
+  - title: Iede Gal na Senpai wa Kantan ni Yarasete Kureru 7 | The Runaway Gal Senpai
+      Easily Lets Me Bang Her 7
+    author: izure
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695882.jpg
+    rating: 0.0
+    date: '2026-11-12'
+    code: 695882
+    url: /works/695882/
+  - title: Dare mo danshi hōshi iinkai nanka ni kyōmi nai | No one cares about the Boys'
+      Service Committee
+    author: ryoma
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696030.jpg
+    rating: 0.0
+    date: '2026-11-12'
+    code: 696030
+    url: /works/696030/
 ---

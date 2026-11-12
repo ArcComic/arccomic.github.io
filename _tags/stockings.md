@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "stockings"
-work_count: 291
+work_count: 293
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -98,7 +98,7 @@ works:
   - title: Yohane Mokushiroku
     author: napo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/289930.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-11-11'
     code: 289930
     url: /works/289930/
@@ -256,7 +256,7 @@ works:
       Sakuhinshuu~
     author: kozakura-kumaneko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/399771.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-11'
     code: 399771
     url: /works/399771/
@@ -2099,17 +2099,24 @@ works:
   - title: Natsu Pi!
     author: iku
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695467.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-11-11'
     code: 695467
     url: /works/695467/
   - title: The World Called Wife ~ Experiencing Her Pleasure Myself ~
     author: sabusuka
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695574.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-11-11'
     code: 695574
     url: /works/695574/
+  - title: Bokura no Libido - CHAPTER 1-16
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695615.jpg
+    rating: 0.0
+    date: '2026-11-12'
+    code: 695615
+    url: /works/695615/
   - title: A Place Where I Can Shine | Kagayakeru Basho
     author: tantanmen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695639.jpg
@@ -2117,12 +2124,21 @@ works:
     date: '2026-11-10'
     code: 695639
     url: /works/695639/
+  - title: Boku no Koto ga Suki Sugiru InCha Stalker Joshi ni nara Nani o Yatte mo Ii
+      yo ne? 2 | I Can Do Anything With the Introvert Stalker Girl Who Loves Me Too
+      Much, Right? 2
+    author: kaniguruma
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695879.jpg
+    rating: 0.0
+    date: '2026-11-12'
+    code: 695879
+    url: /works/695879/
   - title: Houkago Houshi-bu (Kari) ~Seifu Kounin!? Kyoushi Senyou Gakuen Fuuzoku~ |
       After-School Service Club (Provisional) ~Government Approved!? Teachers-Only School
       Brothel~
     author: courreges-accel
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695883.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-11-11'
     code: 695883
     url: /works/695883/

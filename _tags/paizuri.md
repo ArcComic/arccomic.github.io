@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "paizuri"
-work_count: 300
+work_count: 303
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -143,7 +143,7 @@ works:
       Sakuhinshuu~
     author: kozakura-kumaneko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/399771.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-11'
     code: 399771
     url: /works/399771/
@@ -739,7 +739,7 @@ works:
   - title: Manga Matome
     author: elel
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/616921.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-11-11'
     code: 616921
     url: /works/616921/
@@ -942,6 +942,13 @@ works:
     date: '2026-08-19'
     code: 641362
     url: /works/641362/
+  - title: Hitomebore
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/641484.jpg
+    rating: 0.0
+    date: '2026-11-12'
+    code: 641484
+    url: /works/641484/
   - title: Akogare no Hito wa Mou Owari! 3
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642586.jpg
@@ -2221,6 +2228,14 @@ works:
     date: '2026-11-09'
     code: 695225
     url: /works/695225/
+  - title: MistakeR ~Jimi de Kyonyuu na Osananjimi wo Ero Gal ni suru Tame ni Class
+      no Gal to Hame Makuru Natsuyasumi Hen~
+    author: ueto-seri-ueto-ruri
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695555.jpg
+    rating: 0.0
+    date: '2026-11-12'
+    code: 695555
+    url: /works/695555/
   - title: Gyu Shite Chuu | Hugs and Kisses For You
     author: gurida-soumu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695576.jpg
@@ -2235,12 +2250,20 @@ works:
     date: '2026-11-10'
     code: 695639
     url: /works/695639/
+  - title: Oshikake! Deka Gal Harem Kanzenban | Uninvited! Big-Breasted Gal Harem Complete
+      Edition
+    author: teaindian
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695866.jpg
+    rating: 0.0
+    date: '2026-11-12'
+    code: 695866
+    url: /works/695866/
   - title: Houkago Houshi-bu (Kari) ~Seifu Kounin!? Kyoushi Senyou Gakuen Fuuzoku~ |
       After-School Service Club (Provisional) ~Government Approved!? Teachers-Only School
       Brothel~
     author: courreges-accel
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695883.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-11-11'
     code: 695883
     url: /works/695883/

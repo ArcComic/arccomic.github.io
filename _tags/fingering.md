@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "fingering"
-work_count: 256
+work_count: 260
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -42,7 +42,7 @@ works:
       Friend and Big Bro Have Been Acting Weird Lately
     author: mochichimaru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/379168.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-11-11'
     code: 379168
     url: /works/379168/
@@ -548,10 +548,17 @@ works:
       By My Girlfriend For A Week~
     author: onaka-emi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/577156.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-11-11'
     code: 577156
     url: /works/577156/
+  - title: Osananajimi no Himitsu 2 | My childhood friend's secret 2
+    author: muripoyo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/577519.jpg
+    rating: 0.0
+    date: '2026-11-12'
+    code: 577519
+    url: /works/577519/
   - title: Hyoui de Gravure Idol o Ore no Mono ni Someageru Hanashi | Gravure Idol Possession
     author: comichi-pota
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/579368.jpg
@@ -1860,7 +1867,7 @@ works:
   - title: The World Called Wife ~ Experiencing Her Pleasure Myself ~
     author: sabusuka
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695574.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-11-11'
     code: 695574
     url: /works/695574/
@@ -1871,6 +1878,13 @@ works:
     date: '2026-11-10'
     code: 695586
     url: /works/695586/
+  - title: Bokura no Libido - CHAPTER 1-16
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695615.jpg
+    rating: 0.0
+    date: '2026-11-12'
+    code: 695615
+    url: /works/695615/
   - title: A Place Where I Can Shine | Kagayakeru Basho
     author: tantanmen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695639.jpg
@@ -1890,22 +1904,38 @@ works:
       Be My Mother~
     author: yamaoku-midori
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695880.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-11-11'
     code: 695880
     url: /works/695880/
+  - title: Iede Gal na Senpai wa Kantan ni Yarasete Kureru 7 | The Runaway Gal Senpai
+      Easily Lets Me Bang Her 7
+    author: izure
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695882.jpg
+    rating: 0.0
+    date: '2026-11-12'
+    code: 695882
+    url: /works/695882/
   - title: Katei Saien Vol. 2 | Lustful Housewife Vol. 2 ch 9
     author: kakutou-oukoku
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695890.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-11'
     code: 695890
     url: /works/695890/
   - title: Shiho Nishizumi vs BBC - Shiho Nishizumi VS. Big Black Cock
     author: rasson
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695891.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-11'
     code: 695891
     url: /works/695891/
+  - title: Dare mo danshi hōshi iinkai nanka ni kyōmi nai | No one cares about the Boys'
+      Service Committee
+    author: ryoma
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696030.jpg
+    rating: 0.0
+    date: '2026-11-12'
+    code: 696030
+    url: /works/696030/
 ---

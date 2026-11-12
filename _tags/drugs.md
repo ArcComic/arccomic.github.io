@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "drugs"
-work_count: 52
+work_count: 53
 works:
   - title: A-part | Apartment
     author: zero-no-mono
@@ -263,6 +263,13 @@ works:
     date: '2026-08-23'
     code: 675048
     url: /works/675048/
+  - title: Botsuraku Reijou wa Nao mo Kedakaku ~Migawari ni Chiru Hana~
+    author: minegami-aya
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/676232.jpg
+    rating: 0.0
+    date: '2026-11-12'
+    code: 676232
+    url: /works/676232/
   - title: 'Indeki ~Hikyou na Kouhai ni Oboresaserareta Watashi~ | Drowing in LUST:
       I Was Drugged By My Shameless Junior'
     author: mittsuman
@@ -379,7 +386,7 @@ works:
   - title: The World Called Wife ~ Experiencing Her Pleasure Myself ~
     author: sabusuka
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695574.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-11-11'
     code: 695574
     url: /works/695574/

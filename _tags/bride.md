@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bride"
-work_count: 12
+work_count: 13
 works:
   - title: My Sugar Mama! 1-3
     author: azukiko
@@ -49,6 +49,13 @@ works:
     date: '2026-05-26'
     code: 624573
     url: /works/624573/
+  - title: Ki ga tsuyokute zako manko na tsuma wa dareka no osagari
+    author: ubuo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638322.jpg
+    rating: 0.0
+    date: '2026-11-12'
+    code: 638322
+    url: /works/638322/
   - title: Mitsuha ~Netorare~ 10 (Your Name After Story) True Ending
     author: syukurin
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/643592.jpg

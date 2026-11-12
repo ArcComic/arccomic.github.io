@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "maid"
-work_count: 58
+work_count: 60
 works:
   - title: Maid no Oshigoto. II | Maid's Work II
     author: alexi-laiho
@@ -21,7 +21,7 @@ works:
       Sakuhinshuu~
     author: kozakura-kumaneko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/399771.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-11'
     code: 399771
     url: /works/399771/
@@ -426,6 +426,23 @@ works:
     date: '2026-11-09'
     code: 695351
     url: /works/695351/
+  - title: MistakeR ~Jimi de Kyonyuu na Osananjimi wo Ero Gal ni suru Tame ni Class
+      no Gal to Hame Makuru Natsuyasumi Hen~
+    author: ueto-seri-ueto-ruri
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695555.jpg
+    rating: 0.0
+    date: '2026-11-12'
+    code: 695555
+    url: /works/695555/
+  - title: Boku no Koto ga Suki Sugiru InCha Stalker Joshi ni nara Nani o Yatte mo Ii
+      yo ne? 2 | I Can Do Anything With the Introvert Stalker Girl Who Loves Me Too
+      Much, Right? 2
+    author: kaniguruma
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695879.jpg
+    rating: 0.0
+    date: '2026-11-12'
+    code: 695879
+    url: /works/695879/
   - title: Hottokenaino
     author: hara-shigeyuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/77864.jpg

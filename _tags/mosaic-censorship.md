@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "mosaic censorship"
-work_count: 388
+work_count: 391
 works:
   - title: Okki na Kanojo ni Amaetai | I want to be pampered by a girl of generous girth
     author: higashino-mikan
@@ -953,7 +953,7 @@ works:
       By My Girlfriend For A Week~
     author: onaka-emi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/577156.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-11-11'
     code: 577156
     url: /works/577156/
@@ -1450,6 +1450,14 @@ works:
     date: '2026-09-23'
     code: 638513
     url: /works/638513/
+  - title: The story of how the girl who was always by my side is turned into a submissive
+      female by a womanizer
+    author: ubuo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638600.jpg
+    rating: 0.0
+    date: '2026-11-12'
+    code: 638600
+    url: /works/638600/
   - title: Kaa-san to Sex Shita Mikkakan | Three Days of Sex with My Mom
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/639194.jpg
@@ -2274,6 +2282,14 @@ works:
     date: '2026-09-22'
     code: 680307
     url: /works/680307/
+  - title: Hitozuma Onahole-hou Cool-kei Goumou Deka Nyuujo Joushi Himuro Aika (29-sai)
+      no NTR Jirei-MTL
+    author: shinyashiki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680308.jpg
+    rating: 0.0
+    date: '2026-11-12'
+    code: 680308
+    url: /works/680308/
   - title: Panpan Travelers HIROSHIMA Shuudan Rape Ryokou Hen-MTL
     author: raidon
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680318.jpg
@@ -2371,7 +2387,7 @@ works:
   - title: Kaa-san wa I no Mama | Mother Bends To My Willy
     author: temperature
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682146.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-11-11'
     code: 682146
     url: /works/682146/
@@ -2850,14 +2866,22 @@ works:
   - title: I Don't Recall -- Kioku ni Gozaimasen
     author: chotto-b-sen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695568.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-11-11'
     code: 695568
     url: /works/695568/
+  - title: Oshikake! Deka Gal Harem Kanzenban | Uninvited! Big-Breasted Gal Harem Complete
+      Edition
+    author: teaindian
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695866.jpg
+    rating: 0.0
+    date: '2026-11-12'
+    code: 695866
+    url: /works/695866/
   - title: Katei Saien Vol. 2 | Lustful Housewife Vol. 2 ch 9
     author: kakutou-oukoku
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695890.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-11'
     code: 695890
     url: /works/695890/

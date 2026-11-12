@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "doujinshi"
-work_count: 1716
+work_count: 1733
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -254,7 +254,7 @@ works:
   - title: Yohane Mokushiroku
     author: napo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/289930.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-11-11'
     code: 289930
     url: /works/289930/
@@ -789,7 +789,7 @@ works:
       Friend and Big Bro Have Been Acting Weird Lately
     author: mochichimaru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/379168.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-11-11'
     code: 379168
     url: /works/379168/
@@ -3435,7 +3435,7 @@ works:
       By My Girlfriend For A Week~
     author: onaka-emi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/577156.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-11-11'
     code: 577156
     url: /works/577156/
@@ -3454,6 +3454,13 @@ works:
     date: '2026-09-11'
     code: 577454
     url: /works/577454/
+  - title: Osananajimi no Himitsu 2 | My childhood friend's secret 2
+    author: muripoyo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/577519.jpg
+    rating: 0.0
+    date: '2026-11-12'
+    code: 577519
+    url: /works/577519/
   - title: Boku no Kaa-chan ga Hikikomori Neet Debu Aniki no Seishori Onaho ni Natteita
       Hanashi | My Mother is My Fat Shut-in Older NEET Brother's Sex Relief Onahole
     author: tarobaumu
@@ -3533,6 +3540,13 @@ works:
     date: '2026-09-29'
     code: 580833
     url: /works/580833/
+  - title: Onna Tomodachi no Uwaki Kokuhaku | My Friend Confessed to Cheating
+    author: dekamatsu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/581240.jpg
+    rating: 0.0
+    date: '2026-11-12'
+    code: 581240
+    url: /works/581240/
   - title: Doukyuusei no Kyouiku Mama ni Hitomebore!
     author: chotto-b-sen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/581704.jpg
@@ -4456,7 +4470,7 @@ works:
   - title: Manga Matome
     author: elel
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/616921.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-11-11'
     code: 616921
     url: /works/616921/
@@ -5410,6 +5424,13 @@ works:
     date: '2026-09-19'
     code: 638320
     url: /works/638320/
+  - title: Ki ga tsuyokute zako manko na tsuma wa dareka no osagari
+    author: ubuo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638322.jpg
+    rating: 0.0
+    date: '2026-11-12'
+    code: 638322
+    url: /works/638322/
   - title: Yoi ga Sameru made Sukoya ni Tsukiatte ne | Keep Sukoya Company Until She
       Sobers Up, Okay?
     author: yumobi
@@ -5433,6 +5454,14 @@ works:
     date: '2026-09-23'
     code: 638513
     url: /works/638513/
+  - title: The story of how the girl who was always by my side is turned into a submissive
+      female by a womanizer
+    author: ubuo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638600.jpg
+    rating: 0.0
+    date: '2026-11-12'
+    code: 638600
+    url: /works/638600/
   - title: Please Take It Out! After
     author: ramanda
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638685.jpg
@@ -5486,7 +5515,7 @@ works:
   - title: Ore wa Shachiku de Rinjin Gal Hitozuma no Seiyoku Shori Gakari
     author: kaniguruma
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/640053.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-11-11'
     code: 640053
     url: /works/640053/
@@ -5551,6 +5580,21 @@ works:
     date: '2026-09-29'
     code: 641456
     url: /works/641456/
+  - title: Hitomebore
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/641484.jpg
+    rating: 0.0
+    date: '2026-11-12'
+    code: 641484
+    url: /works/641484/
+  - title: Fallen Mother ~The Mother Who Gets Slept With by a Playboy Instead of Her
+      Daughter ~
+    author: kaniguruma
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/641745.jpg
+    rating: 0.0
+    date: '2026-11-12'
+    code: 641745
+    url: /works/641745/
   - title: Stupid women are forced to become breeding slaves
     author: carpsukidayo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/641858.jpg
@@ -7529,6 +7573,15 @@ works:
     date: '2026-10-15'
     code: 660489
     url: /works/660489/
+  - title: Boku no Koto ga Suki Sugiru InCha Stalker Joshi ni Nara Nani wo Yatte mo
+      Ii yo ne? | If I Had A Gloomy Stalker That Loved Me Way, Way Too Much, I Could
+      Do Whatever I Wanted To Her, Right?
+    author: kaniguruma
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/660556.jpg
+    rating: 0.0
+    date: '2026-11-12'
+    code: 660556
+    url: /works/660556/
   - title: Murasaki no Shoumei ~Kuroi Muchuu~ | Purple Illumination ~Dark Trance~
     author: '3104'
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/660867.jpg
@@ -8566,6 +8619,13 @@ works:
     date: '2026-10-11'
     code: 671945
     url: /works/671945/
+  - title: Kinjo no Onee-chan ni Otoshidama Watashite Hamedori Misete Morau Hanashi
+    author: muripoyo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/672151.jpg
+    rating: 0.0
+    date: '2026-11-12'
+    code: 672151
+    url: /works/672151/
   - title: Yojouhan no Yuragi - Fluctuations in a Four-and-a-Half Tatami Room.
     author: syoukaki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/672154.jpg
@@ -9154,10 +9214,17 @@ works:
     date: '2026-08-28'
     code: 676201
     url: /works/676201/
+  - title: Botsuraku Reijou wa Nao mo Kedakaku ~Migawari ni Chiru Hana~
+    author: minegami-aya
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/676232.jpg
+    rating: 0.0
+    date: '2026-11-12'
+    code: 676232
+    url: /works/676232/
   - title: Mesugaki VS Atarashii Papa
     author: dekamatsu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/676268.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-11-11'
     code: 676268
     url: /works/676268/
@@ -9792,6 +9859,14 @@ works:
     date: '2026-09-22'
     code: 680307
     url: /works/680307/
+  - title: Hitozuma Onahole-hou Cool-kei Goumou Deka Nyuujo Joushi Himuro Aika (29-sai)
+      no NTR Jirei-MTL
+    author: shinyashiki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680308.jpg
+    rating: 0.0
+    date: '2026-11-12'
+    code: 680308
+    url: /works/680308/
   - title: Oji-san ga Shakin o Tsuma no Karada de Hoten Shite Hoshii to Iwareta node
       Kaidaku Shita Hanashi-MTL
     author: murabito-c
@@ -10348,7 +10423,7 @@ works:
   - title: Kaa-san wa I no Mama | Mother Bends To My Willy
     author: temperature
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682146.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-11-11'
     code: 682146
     url: /works/682146/
@@ -12543,6 +12618,13 @@ works:
     date: '2026-11-09'
     code: 694974
     url: /works/694974/
+  - title: After-School Service Club (Provisional) - The Genius Gal Who Can Do Anything
+    author: courreges-accel
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695157.jpg
+    rating: 0.0
+    date: '2026-11-12'
+    code: 695157
+    url: /works/695157/
   - title: Sold Out 2 (ENG) =TB=
     author: minegami-aya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695211.jpg
@@ -12601,7 +12683,7 @@ works:
   - title: Natsu Pi!
     author: iku
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695467.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-11-11'
     code: 695467
     url: /works/695467/
@@ -12612,6 +12694,14 @@ works:
     date: '2026-11-11'
     code: 695547
     url: /works/695547/
+  - title: MistakeR ~Jimi de Kyonyuu na Osananjimi wo Ero Gal ni suru Tame ni Class
+      no Gal to Hame Makuru Natsuyasumi Hen~
+    author: ueto-seri-ueto-ruri
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695555.jpg
+    rating: 0.0
+    date: '2026-11-12'
+    code: 695555
+    url: /works/695555/
   - title: jitsuroku !! onna kyōshi ni te kagome ni sareta boku -- True Story!! I Was
       Raped By A Female Teacher
     author: resoman-manga-koubou
@@ -12623,7 +12713,7 @@ works:
   - title: I Don't Recall -- Kioku ni Gozaimasen
     author: chotto-b-sen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695568.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-11-11'
     code: 695568
     url: /works/695568/
@@ -12641,6 +12731,15 @@ works:
     date: '2026-11-10'
     code: 695588
     url: /works/695588/
+  - title: '"Watashi" ni Yomigaeru "Ore" no Kioku ~Otoko datta Zense o Omoidashita JD
+      no Hanashi~ | How I Got My Old Male Memories Back While Being a Woman ~The Story
+      About a Female Student Remembering Her Previous Life as a Man~'
+    author: kisaragi-nana
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695608.jpg
+    rating: 0.0
+    date: '2026-11-12'
+    code: 695608
+    url: /works/695608/
   - title: A Place Where I Can Shine | Kagayakeru Basho
     author: tantanmen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695639.jpg
@@ -12655,28 +12754,53 @@ works:
     date: '2026-11-10'
     code: 695711
     url: /works/695711/
+  - title: Oshikake! Deka Gal Harem Kanzenban | Uninvited! Big-Breasted Gal Harem Complete
+      Edition
+    author: teaindian
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695866.jpg
+    rating: 0.0
+    date: '2026-11-12'
+    code: 695866
+    url: /works/695866/
+  - title: Boku no Koto ga Suki Sugiru InCha Stalker Joshi ni nara Nani o Yatte mo Ii
+      yo ne? 2 | I Can Do Anything With the Introvert Stalker Girl Who Loves Me Too
+      Much, Right? 2
+    author: kaniguruma
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695879.jpg
+    rating: 0.0
+    date: '2026-11-12'
+    code: 695879
+    url: /works/695879/
   - title: Jitsubo to MAMA Katsu Uraaka no Yokkyuufuman Hitozuma wa Haha deshita | Mama-Katsu
       With My Real Mother ~The Frustrated Housewife on the Alt Account Turned Out to
       Be My Mother~
     author: yamaoku-midori
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695880.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-11-11'
     code: 695880
     url: /works/695880/
+  - title: Iede Gal na Senpai wa Kantan ni Yarasete Kureru 7 | The Runaway Gal Senpai
+      Easily Lets Me Bang Her 7
+    author: izure
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695882.jpg
+    rating: 0.0
+    date: '2026-11-12'
+    code: 695882
+    url: /works/695882/
   - title: Houkago Houshi-bu (Kari) ~Seifu Kounin!? Kyoushi Senyou Gakuen Fuuzoku~ |
       After-School Service Club (Provisional) ~Government Approved!? Teachers-Only School
       Brothel~
     author: courreges-accel
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695883.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-11-11'
     code: 695883
     url: /works/695883/
   - title: Shiho Nishizumi vs BBC - Shiho Nishizumi VS. Big Black Cock
     author: rasson
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695891.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-11'
     code: 695891
     url: /works/695891/
@@ -12687,6 +12811,14 @@ works:
     date: '2026-11-11'
     code: 695946
     url: /works/695946/
+  - title: Dare mo danshi hōshi iinkai nanka ni kyōmi nai | No one cares about the Boys'
+      Service Committee
+    author: ryoma
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696030.jpg
+    rating: 0.0
+    date: '2026-11-12'
+    code: 696030
+    url: /works/696030/
   - title: Ranko-ppoi no! | Ranko-Ish!
     author: napata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/87393.jpg

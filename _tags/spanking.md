@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "spanking"
-work_count: 17
+work_count: 19
 works:
   - title: Shizukasu Utopia
     author: napo
@@ -17,6 +17,13 @@ works:
     date: '2026-11-10'
     code: 534179
     url: /works/534179/
+  - title: Onna Tomodachi no Uwaki Kokuhaku | My Friend Confessed to Cheating
+    author: dekamatsu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/581240.jpg
+    rating: 0.0
+    date: '2026-11-12'
+    code: 581240
+    url: /works/581240/
   - title: Hagiwara Yukiho no Nijuu Seiai
     author: tsurui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/609238.jpg
@@ -119,7 +126,7 @@ works:
   - title: The World Called Wife ~ Experiencing Her Pleasure Myself ~
     author: sabusuka
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695574.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-11-11'
     code: 695574
     url: /works/695574/
@@ -130,4 +137,13 @@ works:
     date: '2026-11-10'
     code: 695711
     url: /works/695711/
+  - title: Boku no Koto ga Suki Sugiru InCha Stalker Joshi ni nara Nani o Yatte mo Ii
+      yo ne? 2 | I Can Do Anything With the Introvert Stalker Girl Who Loves Me Too
+      Much, Right? 2
+    author: kaniguruma
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695879.jpg
+    rating: 0.0
+    date: '2026-11-12'
+    code: 695879
+    url: /works/695879/
 ---

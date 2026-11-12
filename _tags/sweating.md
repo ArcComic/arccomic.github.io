@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sweating"
-work_count: 216
+work_count: 218
 works:
   - title: Kaisha de Iroiro | Gettin' Busy at the Office
     author: hara-shigeyuki
@@ -177,6 +177,13 @@ works:
     date: '2026-04-23'
     code: 356516
     url: /works/356516/
+  - title: Daken no Tadashii Shitsuke Kata
+    author: napo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/357477.jpg
+    rating: 0.0
+    date: '2026-11-12'
+    code: 357477
+    url: /works/357477/
   - title: Senpai Refrain
     author: spiritus-tarou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/357616.jpg
@@ -492,7 +499,7 @@ works:
       By My Girlfriend For A Week~
     author: onaka-emi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/577156.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-11-11'
     code: 577156
     url: /works/577156/
@@ -609,7 +616,7 @@ works:
   - title: Manga Matome
     author: elel
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/616921.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-11-11'
     code: 616921
     url: /works/616921/
@@ -1152,6 +1159,15 @@ works:
     date: '2026-09-30'
     code: 660241
     url: /works/660241/
+  - title: Boku no Koto ga Suki Sugiru InCha Stalker Joshi ni Nara Nani wo Yatte mo
+      Ii yo ne? | If I Had A Gloomy Stalker That Loved Me Way, Way Too Much, I Could
+      Do Whatever I Wanted To Her, Right?
+    author: kaniguruma
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/660556.jpg
+    rating: 0.0
+    date: '2026-11-12'
+    code: 660556
+    url: /works/660556/
   - title: Ane to Otouto wa 30-Nichi go ni Sex Suru. | The Big Sister and Her Little
       Brother Will Have Sex in 30 Days
     author: shamidou-maichimonji
@@ -1613,7 +1629,7 @@ works:
   - title: The World Called Wife ~ Experiencing Her Pleasure Myself ~
     author: sabusuka
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695574.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-11-11'
     code: 695574
     url: /works/695574/

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "glasses"
-work_count: 334
+work_count: 335
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -208,6 +208,13 @@ works:
     date: '2026-10-10'
     code: 351810
     url: /works/351810/
+  - title: Daken no Tadashii Shitsuke Kata
+    author: napo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/357477.jpg
+    rating: 0.0
+    date: '2026-11-12'
+    code: 357477
+    url: /works/357477/
   - title: Senpai Refrain
     author: spiritus-tarou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/357616.jpg
@@ -1106,7 +1113,7 @@ works:
   - title: Ore wa Shachiku de Rinjin Gal Hitozuma no Seiyoku Shori Gakari
     author: kaniguruma
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/640053.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-11-11'
     code: 640053
     url: /works/640053/
@@ -1789,7 +1796,7 @@ works:
   - title: Mesugaki VS Atarashii Papa
     author: dekamatsu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/676268.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-11-11'
     code: 676268
     url: /works/676268/
@@ -2433,7 +2440,7 @@ works:
   - title: The World Called Wife ~ Experiencing Her Pleasure Myself ~
     author: sabusuka
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695574.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-11-11'
     code: 695574
     url: /works/695574/

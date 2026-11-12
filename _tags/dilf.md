@@ -759,7 +759,7 @@ works:
   - title: Manga Matome
     author: elel
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/616921.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-11-11'
     code: 616921
     url: /works/616921/
@@ -1356,7 +1356,7 @@ works:
   - title: Mesugaki VS Atarashii Papa
     author: dekamatsu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/676268.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-11-11'
     code: 676268
     url: /works/676268/
@@ -1683,14 +1683,14 @@ works:
   - title: Katei Saien Vol. 2 | Lustful Housewife Vol. 2 ch 9
     author: kakutou-oukoku
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695890.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-11'
     code: 695890
     url: /works/695890/
   - title: Shiho Nishizumi vs BBC - Shiho Nishizumi VS. Big Black Cock
     author: rasson
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695891.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-11'
     code: 695891
     url: /works/695891/

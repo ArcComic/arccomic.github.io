@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "cheating"
-work_count: 465
+work_count: 472
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -1261,6 +1261,13 @@ works:
     date: '2026-04-23'
     code: 576398
     url: /works/576398/
+  - title: Osananajimi no Himitsu 2 | My childhood friend's secret 2
+    author: muripoyo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/577519.jpg
+    rating: 0.0
+    date: '2026-11-12'
+    code: 577519
+    url: /works/577519/
   - title: Ya-me rarenai futari - Two People Who Can't Stop
     author: akys-honpo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/580833.jpg
@@ -1268,6 +1275,13 @@ works:
     date: '2026-09-29'
     code: 580833
     url: /works/580833/
+  - title: Onna Tomodachi no Uwaki Kokuhaku | My Friend Confessed to Cheating
+    author: dekamatsu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/581240.jpg
+    rating: 0.0
+    date: '2026-11-12'
+    code: 581240
+    url: /works/581240/
   - title: Doukyuusei no Kyouiku Mama ni Hitomebore!
     author: chotto-b-sen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/581704.jpg
@@ -1764,6 +1778,13 @@ works:
     date: '2026-09-19'
     code: 638320
     url: /works/638320/
+  - title: Ki ga tsuyokute zako manko na tsuma wa dareka no osagari
+    author: ubuo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638322.jpg
+    rating: 0.0
+    date: '2026-11-12'
+    code: 638322
+    url: /works/638322/
   - title: Onna Gal Joushi to Furin suru Hanashi 4 | Having an Affair with My Blonde
       Bombshell Boss – Part 4
     author: nakamo
@@ -1779,6 +1800,14 @@ works:
     date: '2026-09-13'
     code: 638556
     url: /works/638556/
+  - title: The story of how the girl who was always by my side is turned into a submissive
+      female by a womanizer
+    author: ubuo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638600.jpg
+    rating: 0.0
+    date: '2026-11-12'
+    code: 638600
+    url: /works/638600/
   - title: TomoHaha to Onaji Yane no Shita de - Under The Same Roof With My Friend Mother
     author: takei-masaki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638764.jpg
@@ -1796,7 +1825,7 @@ works:
   - title: Ore wa Shachiku de Rinjin Gal Hitozuma no Seiyoku Shori Gakari
     author: kaniguruma
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/640053.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-11-11'
     code: 640053
     url: /works/640053/
@@ -1815,6 +1844,14 @@ works:
     date: '2026-08-19'
     code: 641362
     url: /works/641362/
+  - title: Fallen Mother ~The Mother Who Gets Slept With by a Playboy Instead of Her
+      Daughter ~
+    author: kaniguruma
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/641745.jpg
+    rating: 0.0
+    date: '2026-11-12'
+    code: 641745
+    url: /works/641745/
   - title: Onna Gal Joushi to Furin suru Hanashi 5 | Having an Affair with My Blonde
       Bombshell Boss – Part 5
     author: nakamo
@@ -2536,6 +2573,13 @@ works:
     date: '2026-08-19'
     code: 671657
     url: /works/671657/
+  - title: Kinjo no Onee-chan ni Otoshidama Watashite Hamedori Misete Morau Hanashi
+    author: muripoyo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/672151.jpg
+    rating: 0.0
+    date: '2026-11-12'
+    code: 672151
+    url: /works/672151/
   - title: Boku-tachi Mama to Yattemasu
     author: ameto-yuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/672450.jpg
@@ -2663,7 +2707,7 @@ works:
   - title: Mesugaki VS Atarashii Papa
     author: dekamatsu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/676268.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-11-11'
     code: 676268
     url: /works/676268/
@@ -3387,17 +3431,25 @@ works:
     date: '2026-11-09'
     code: 695285
     url: /works/695285/
+  - title: MistakeR ~Jimi de Kyonyuu na Osananjimi wo Ero Gal ni suru Tame ni Class
+      no Gal to Hame Makuru Natsuyasumi Hen~
+    author: ueto-seri-ueto-ruri
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695555.jpg
+    rating: 0.0
+    date: '2026-11-12'
+    code: 695555
+    url: /works/695555/
   - title: I Don't Recall -- Kioku ni Gozaimasen
     author: chotto-b-sen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695568.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-11-11'
     code: 695568
     url: /works/695568/
   - title: The World Called Wife ~ Experiencing Her Pleasure Myself ~
     author: sabusuka
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695574.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-11-11'
     code: 695574
     url: /works/695574/
@@ -3413,14 +3465,14 @@ works:
       Be My Mother~
     author: yamaoku-midori
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695880.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-11-11'
     code: 695880
     url: /works/695880/
   - title: Shiho Nishizumi vs BBC - Shiho Nishizumi VS. Big Black Cock
     author: rasson
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695891.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-11'
     code: 695891
     url: /works/695891/

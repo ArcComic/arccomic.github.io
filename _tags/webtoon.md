@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "webtoon"
-work_count: 11
+work_count: 12
 works:
   - title: The Girl That Got Stuck in the Wall Ch.11/11
     author: gaehoju
@@ -82,4 +82,11 @@ works:
     date: '2026-09-27'
     code: 650361
     url: /works/650361/
+  - title: Boarding Diary (Official) [1-130] [Completed]92-130
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695653.jpg
+    rating: 0.0
+    date: '2026-11-12'
+    code: 695653
+    url: /works/695653/
 ---

@@ -18,7 +18,7 @@ works:
     url: /works/663192/
   - title: Kaa-san wa I no Mama | Mother Bends To My Willy
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682146.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-11-11'
     code: 682146
     url: /works/682146/

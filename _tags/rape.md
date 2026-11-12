@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "rape"
-work_count: 285
+work_count: 286
 works:
   - title: Office Love Scramble Ch. 1
     author: tohzai
@@ -35,7 +35,7 @@ works:
   - title: Yohane Mokushiroku
     author: napo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/289930.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-11-11'
     code: 289930
     url: /works/289930/
@@ -1680,6 +1680,13 @@ works:
     date: '2026-08-28'
     code: 676189
     url: /works/676189/
+  - title: Botsuraku Reijou wa Nao mo Kedakaku ~Migawari ni Chiru Hana~
+    author: minegami-aya
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/676232.jpg
+    rating: 0.0
+    date: '2026-11-12'
+    code: 676232
+    url: /works/676232/
   - title: Konyakusha no Imouto wa Kao SSR, Seikaku Saiaku Jigoku no Ero Dance Onna.
       2 | My Fiancée's Younger Sister is a SSR Influencer with a Terrible Personality
       and is a Hellish Erotic Dancer. 2
@@ -1807,7 +1814,7 @@ works:
   - title: Kaa-san wa I no Mama | Mother Bends To My Willy
     author: temperature
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682146.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-11-11'
     code: 682146
     url: /works/682146/

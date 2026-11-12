@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "onahole"
-work_count: 4
+work_count: 5
 works:
   - title: My AR glasses can see various stats about my foster sister?!
     author: pz-x
@@ -33,4 +33,11 @@ works:
     date: '2026-09-20'
     code: 682545
     url: /works/682545/
+  - title: After-School Service Club (Provisional) - The Genius Gal Who Can Do Anything
+    author: courreges-accel
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695157.jpg
+    rating: 0.0
+    date: '2026-11-12'
+    code: 695157
+    url: /works/695157/
 ---

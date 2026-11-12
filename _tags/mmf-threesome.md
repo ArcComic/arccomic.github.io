@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "mmf threesome"
-work_count: 85
+work_count: 86
 works:
   - title: Hitozuma Hyakka
     author: hase-tsubura
@@ -20,7 +20,7 @@ works:
   - title: Yohane Mokushiroku
     author: napo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/289930.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-11-11'
     code: 289930
     url: /works/289930/
@@ -49,7 +49,7 @@ works:
       Sakuhinshuu~
     author: kozakura-kumaneko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/399771.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-11'
     code: 399771
     url: /works/399771/
@@ -392,6 +392,13 @@ works:
     date: '2026-08-28'
     code: 676197
     url: /works/676197/
+  - title: Botsuraku Reijou wa Nao mo Kedakaku ~Migawari ni Chiru Hana~
+    author: minegami-aya
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/676232.jpg
+    rating: 0.0
+    date: '2026-11-12'
+    code: 676232
+    url: /works/676232/
   - title: Shuugakuryokou Mae ni Joshikousei ni Natta Hanashi | How We Became Girls
       Before Our School Trip After Days
     author: meganeko

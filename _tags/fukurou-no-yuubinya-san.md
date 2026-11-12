@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "fukurou no yuubinya san"
-work_count: 4
+work_count: 5
 works:
   - title: Wakana Shiki | Wakana Style
     author: ueto-seri
@@ -32,4 +32,12 @@ works:
     date: '2026-07-16'
     code: 664642
     url: /works/664642/
+  - title: MistakeR ~Jimi de Kyonyuu na Osananjimi wo Ero Gal ni suru Tame ni Class
+      no Gal to Hame Makuru Natsuyasumi Hen~
+    author: ueto-seri-ueto-ruri
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695555.jpg
+    rating: 0.0
+    date: '2026-11-12'
+    code: 695555
+    url: /works/695555/
 ---

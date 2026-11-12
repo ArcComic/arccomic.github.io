@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "asagi ryu"
-work_count: 3
+work_count: 4
 works:
   - title: Married Women Are At A Naughty Age 2
     author: asagi-ryu
@@ -24,4 +24,11 @@ works:
     date: '2026-10-20'
     code: 688612
     url: /works/688612/
+  - title: The Sky, The Sand, And The Garden
+    author: asagi-ryu-amano-miki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695569.jpg
+    rating: 0.0
+    date: '2026-11-12'
+    code: 695569
+    url: /works/695569/
 ---

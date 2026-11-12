@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "gyaru-oh"
-work_count: 48
+work_count: 49
 works:
   - title: Netorare Ibe Kiba Shizuka
     author: terasu-mc
@@ -201,6 +201,14 @@ works:
     date: '2026-10-12'
     code: 638495
     url: /works/638495/
+  - title: Fallen Mother ~The Mother Who Gets Slept With by a Playboy Instead of Her
+      Daughter ~
+    author: kaniguruma
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/641745.jpg
+    rating: 0.0
+    date: '2026-11-12'
+    code: 641745
+    url: /works/641745/
   - title: Noroi no Sei de MP ga Tarimasen!! Kouhen | "MP is Depleted Because of a Curse!!
       - last part
     author: nigiri-usagi

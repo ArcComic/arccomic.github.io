@@ -6,7 +6,7 @@ works:
   - title: Ore no Kyonyuu Osananajimi ga Aniki to Saikin Ayashii | My Busty Childhood
       Friend and Big Bro Have Been Acting Weird Lately
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/379168.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-11-11'
     code: 379168
     url: /works/379168/

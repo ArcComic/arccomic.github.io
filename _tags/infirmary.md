@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "infirmary"
-work_count: 8
+work_count: 9
 works:
   - title: Hokenshitsu no Futon no Naka de Satori Sedai JK to Naisho H!
     author: niji-teru
@@ -63,4 +63,12 @@ works:
     date: '2026-10-26'
     code: 690244
     url: /works/690244/
+  - title: Dare mo danshi hōshi iinkai nanka ni kyōmi nai | No one cares about the Boys'
+      Service Committee
+    author: ryoma
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696030.jpg
+    rating: 0.0
+    date: '2026-11-12'
+    code: 696030
+    url: /works/696030/
 ---

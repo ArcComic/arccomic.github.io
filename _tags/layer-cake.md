@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "layer cake"
-work_count: 12
+work_count: 13
 works:
   - title: Dochira o Onozomi desu ka? ~Ryouhou Hen~ | Which Do You Desire? ~Both Edition~
     author: tsurui
@@ -93,4 +93,12 @@ works:
     date: '2026-11-09'
     code: 695211
     url: /works/695211/
+  - title: Oshikake! Deka Gal Harem Kanzenban | Uninvited! Big-Breasted Gal Harem Complete
+      Edition
+    author: teaindian
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695866.jpg
+    rating: 0.0
+    date: '2026-11-12'
+    code: 695866
+    url: /works/695866/
 ---
