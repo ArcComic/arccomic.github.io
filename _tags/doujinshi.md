@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "doujinshi"
-work_count: 1745
+work_count: 1747
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -3325,6 +3325,14 @@ works:
     date: '2026-07-13'
     code: 565301
     url: /works/565301/
+  - title: Jimiko no Occult-bu Miyu-chan wa Bakunyuu de Yuumei | Miyu-chan is Famous
+      for her Huge Breasts
+    author: kurukuru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/565597.jpg
+    rating: 4.6
+    date: '2026-11-12'
+    code: 565597
+    url: /works/565597/
   - title: Tawawa de Akarui Yakyuubu Manager ga Inshitsu na Kyoushi no Wana ni... Kanketsuhen
     author: ohkura-kazuya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/566052.jpg
@@ -12828,6 +12836,13 @@ works:
     date: '2026-11-10'
     code: 695639
     url: /works/695639/
+  - title: Yari-chin Shirou!
+    author: tumami
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695662.jpg
+    rating: 0.0
+    date: '2026-11-12'
+    code: 695662
+    url: /works/695662/
   - title: Daigaku jidai no sefure ga rinjin ni natta
     author: muripoyo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695711.jpg

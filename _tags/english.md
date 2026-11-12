@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "english"
-work_count: 2108
+work_count: 2111
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -4337,6 +4337,14 @@ works:
     date: '2026-07-13'
     code: 565301
     url: /works/565301/
+  - title: Jimiko no Occult-bu Miyu-chan wa Bakunyuu de Yuumei | Miyu-chan is Famous
+      for her Huge Breasts
+    author: kurukuru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/565597.jpg
+    rating: 4.6
+    date: '2026-11-12'
+    code: 565597
+    url: /works/565597/
   - title: Tawawa de Akarui Yakyuubu Manager ga Inshitsu na Kyoushi no Wana ni... Kanketsuhen
     author: ohkura-kazuya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/566052.jpg
@@ -15071,6 +15079,13 @@ works:
     date: '2026-10-28'
     code: 691671
     url: /works/691671/
+  - title: Darashina Neko no Okiyome xxx | Sloppy Cat’s XXX Purification
+    author: gurida-soumu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/692083.jpg
+    rating: 0.0
+    date: '2026-11-12'
+    code: 692083
+    url: /works/692083/
   - title: Oshiego no Downer Gal ni Shitsudo Takame ni Semeotosarechau Hanashi
     author: ayujiro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/693054.jpg
@@ -15404,6 +15419,13 @@ works:
     date: '2026-11-12'
     code: 695653
     url: /works/695653/
+  - title: Yari-chin Shirou!
+    author: tumami
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695662.jpg
+    rating: 0.0
+    date: '2026-11-12'
+    code: 695662
+    url: /works/695662/
   - title: Hadaka Gurashi Chapter 1 to 21
     author: agata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695703.jpg

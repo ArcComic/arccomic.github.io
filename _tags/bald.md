@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bald"
-work_count: 93
+work_count: 94
 works:
   - title: Overwrite
     author: ojo
@@ -175,6 +175,14 @@ works:
     date: '2026-07-17'
     code: 564042
     url: /works/564042/
+  - title: Jimiko no Occult-bu Miyu-chan wa Bakunyuu de Yuumei | Miyu-chan is Famous
+      for her Huge Breasts
+    author: kurukuru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/565597.jpg
+    rating: 4.6
+    date: '2026-11-12'
+    code: 565597
+    url: /works/565597/
   - title: Re. Bishoujo Seitokaichou o Seibyou Mochi no Owakon Onna ni Otosu Hanashi
     author: kyouan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/576288.jpg

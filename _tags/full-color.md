@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "full color"
-work_count: 309
+work_count: 310
 works:
   - title: Pai☆Panic ~Hasamareta Dekapai~
     author: inkey
@@ -2254,6 +2254,13 @@ works:
     date: '2026-11-11'
     code: 695568
     url: /works/695568/
+  - title: Yari-chin Shirou!
+    author: tumami
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695662.jpg
+    rating: 0.0
+    date: '2026-11-12'
+    code: 695662
+    url: /works/695662/
   - title: Crackhead lookin ahh gets to crack voluptuous beauty
     author: mikarin
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695946.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "mosaic censorship"
-work_count: 391
+work_count: 392
 works:
   - title: Okki na Kanojo ni Amaetai | I want to be pampered by a girl of generous girth
     author: higashino-mikan
@@ -2870,6 +2870,13 @@ works:
     date: '2026-11-11'
     code: 695568
     url: /works/695568/
+  - title: Yari-chin Shirou!
+    author: tumami
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695662.jpg
+    rating: 0.0
+    date: '2026-11-12'
+    code: 695662
+    url: /works/695662/
   - title: Oshikake! Deka Gal Harem Kanzenban | Uninvited! Big-Breasted Gal Harem Complete
       Edition
     author: teaindian

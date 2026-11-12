@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "manga"
-work_count: 447
+work_count: 448
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -3121,6 +3121,13 @@ works:
     date: '2026-10-28'
     code: 691671
     url: /works/691671/
+  - title: Darashina Neko no Okiyome xxx | Sloppy Cat’s XXX Purification
+    author: gurida-soumu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/692083.jpg
+    rating: 0.0
+    date: '2026-11-12'
+    code: 692083
+    url: /works/692083/
   - title: Making a Harem of the Three Bitchy Gal Sisters - All Chapters + Bonus
     author: zonda
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694670.jpg

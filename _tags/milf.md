@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "milf"
-work_count: 574
+work_count: 575
 works:
   - title: Life with Married Women Just Like a Manga 2 - Ch. 1-5
     author: hidemaru
@@ -4167,6 +4167,13 @@ works:
     date: '2026-11-11'
     code: 695574
     url: /works/695574/
+  - title: Yari-chin Shirou!
+    author: tumami
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695662.jpg
+    rating: 0.0
+    date: '2026-11-12'
+    code: 695662
+    url: /works/695662/
   - title: Hadaka Gurashi Chapter 1 to 21
     author: agata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695703.jpg

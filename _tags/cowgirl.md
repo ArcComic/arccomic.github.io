@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "cowgirl"
-work_count: 24
+work_count: 25
 works:
   - title: Homestay-chu no Doitsu Musume ga Issho ni Furo ni Haitte Kuru Wake | The
       Reason Why a German Girl Takes a Bath Together With Me on Her Homestay
@@ -32,6 +32,14 @@ works:
     date: '2026-08-20'
     code: 557452
     url: /works/557452/
+  - title: Jimiko no Occult-bu Miyu-chan wa Bakunyuu de Yuumei | Miyu-chan is Famous
+      for her Huge Breasts
+    author: kurukuru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/565597.jpg
+    rating: 4.6
+    date: '2026-11-12'
+    code: 565597
+    url: /works/565597/
   - title: Nanami-chan can’t resist after a date! Cafe, Cinema, Love hotel~
     author: a2me
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/579819.jpg

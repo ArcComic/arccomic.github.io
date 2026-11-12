@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "phimosis"
-work_count: 10
+work_count: 11
 works:
   - title: Rinraku no Susume | Corruption Provocation [English] [Rnot2000] =The Lost
       Light=
@@ -71,6 +71,13 @@ works:
     date: '2026-10-10'
     code: 686448
     url: /works/686448/
+  - title: Darashina Neko no Okiyome xxx | Sloppy Cat’s XXX Purification
+    author: gurida-soumu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/692083.jpg
+    rating: 0.0
+    date: '2026-11-12'
+    code: 692083
+    url: /works/692083/
   - title: Don't Make a Sound
     author: sunaba-suzume
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694973.jpg

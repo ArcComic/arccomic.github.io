@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "schoolgirl uniform"
-work_count: 449
+work_count: 450
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -865,6 +865,14 @@ works:
     date: '2026-07-13'
     code: 565301
     url: /works/565301/
+  - title: Jimiko no Occult-bu Miyu-chan wa Bakunyuu de Yuumei | Miyu-chan is Famous
+      for her Huge Breasts
+    author: kurukuru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/565597.jpg
+    rating: 4.6
+    date: '2026-11-12'
+    code: 565597
+    url: /works/565597/
   - title: NIKKE Icha Love Ero Goudou "NIKKE☆Lover" | NIKKE Lovey-Dovey Ero Compendium
       "NIKKE☆Lover"
     author: kumakiti

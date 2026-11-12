@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "beauty mark"
-work_count: 251
+work_count: 252
 works:
   - title: Uragiri no Ai wa Mitsu no Aji | Treacherous Love Tastes Like Honey
     author: cuzukago
@@ -1837,6 +1837,13 @@ works:
     date: '2026-10-28'
     code: 691636
     url: /works/691636/
+  - title: Darashina Neko no Okiyome xxx | Sloppy Cat’s XXX Purification
+    author: gurida-soumu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/692083.jpg
+    rating: 0.0
+    date: '2026-11-12'
+    code: 692083
+    url: /works/692083/
   - title: Momota-san Next Door
     author: hogeramu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694863.jpg

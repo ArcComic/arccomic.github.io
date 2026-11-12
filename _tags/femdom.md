@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "femdom"
-work_count: 236
+work_count: 237
 works:
   - title: Life with Married Women Just Like a Manga 2 - Ch. 1-5
     author: hidemaru
@@ -1677,6 +1677,13 @@ works:
     date: '2026-10-28'
     code: 691662
     url: /works/691662/
+  - title: Darashina Neko no Okiyome xxx | Sloppy Cat’s XXX Purification
+    author: gurida-soumu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/692083.jpg
+    rating: 0.0
+    date: '2026-11-12'
+    code: 692083
+    url: /works/692083/
   - title: Making a Harem of the Three Bitchy Gal Sisters - All Chapters + Bonus
     author: zonda
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694670.jpg
