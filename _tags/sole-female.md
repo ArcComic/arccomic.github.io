@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole female"
-work_count: 1254
+work_count: 1255
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -2607,6 +2607,14 @@ works:
     date: '2026-10-02'
     code: 545591
     url: /works/545591/
+  - title: Menhera Gitei no Muyuubyou Ecchi "Yobai Daisakusen!" Comicalize Ban | Sleepwalk
+      Sex with your Crazy Stepbrother
+    author: gurida-soumu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/545786.jpg
+    rating: 4.4
+    date: '2026-11-12'
+    code: 545786
+    url: /works/545786/
   - title: Jinsei Hametsu JC ~Watashi no Jinsei, Doushite Kounacchattan daro?~ | Middle
       Schooler's Life Ruined - How Did My Life Turn Out Like This [English] =TB=
     author: circle-hitori

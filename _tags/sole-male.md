@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole male"
-work_count: 1190
+work_count: 1192
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -2402,6 +2402,14 @@ works:
     date: '2026-11-09'
     code: 545462
     url: /works/545462/
+  - title: Menhera Gitei no Muyuubyou Ecchi "Yobai Daisakusen!" Comicalize Ban | Sleepwalk
+      Sex with your Crazy Stepbrother
+    author: gurida-soumu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/545786.jpg
+    rating: 4.4
+    date: '2026-11-12'
+    code: 545786
+    url: /works/545786/
   - title: Ecchi no Toki Dake, Chotto S. ~Fudan wa Otonashii Kareshi ni Hitasura Yasashiku
       Semerareru~
     author: akane
@@ -8566,6 +8574,13 @@ works:
     date: '2026-10-28'
     code: 691661
     url: /works/691661/
+  - title: Oshiego no Downer Gal ni Shitsudo Takame ni Semeotosarechau Hanashi
+    author: ayujiro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/693054.jpg
+    rating: 0.0
+    date: '2026-11-12'
+    code: 693054
+    url: /works/693054/
   - title: The Fable Of The Short King And His GF With Huge Tits
     author: enishi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694668.jpg

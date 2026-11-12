@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "machine translation"
-work_count: 40
+work_count: 42
 works:
   - title: My part-time coworker ran away from home and came to work here, but she was
       too sexy...
@@ -151,6 +151,13 @@ works:
     date: '2026-09-11'
     code: 656626
     url: /works/656626/
+  - title: It's My Sale Assistant's Fault That My New Publication is XXX 2
+    author: murasaki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/658838.jpg
+    rating: 0.0
+    date: '2026-11-12'
+    code: 658838
+    url: /works/658838/
   - title: Oretoku Shuugakuryokou ~Otoko wa Jyosou shita Ore dake!! Ch 1-29
     author: okumori-boy
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/661664.jpg
@@ -310,4 +317,11 @@ works:
     date: '2026-11-08'
     code: 689137
     url: /works/689137/
+  - title: Oshiego no Downer Gal ni Shitsudo Takame ni Semeotosarechau Hanashi
+    author: ayujiro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/693054.jpg
+    rating: 0.0
+    date: '2026-11-12'
+    code: 693054
+    url: /works/693054/
 ---

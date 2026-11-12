@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "defloration"
-work_count: 295
+work_count: 296
 works:
   - title: Imitation Family + Bigibo Hen
     author: tohzai
@@ -2144,6 +2144,13 @@ works:
     date: '2026-10-28'
     code: 691660
     url: /works/691660/
+  - title: Oshiego no Downer Gal ni Shitsudo Takame ni Semeotosarechau Hanashi
+    author: ayujiro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/693054.jpg
+    rating: 0.0
+    date: '2026-11-12'
+    code: 693054
+    url: /works/693054/
   - title: Nude Model o Koushi Mizukara Yatte kureru Gajuku no Hanashi | The story of
       an art cram school where the instructor herself volunteers to be a nude model
     author: kekemotsu

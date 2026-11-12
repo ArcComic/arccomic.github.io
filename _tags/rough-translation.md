@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "rough translation"
-work_count: 821
+work_count: 824
 works:
   - title: Boku no Shiranai Kimi no Kao
     author: utsutsu-minoru
@@ -398,6 +398,14 @@ works:
     date: '2026-07-15'
     code: 544477
     url: /works/544477/
+  - title: Menhera Gitei no Muyuubyou Ecchi "Yobai Daisakusen!" Comicalize Ban | Sleepwalk
+      Sex with your Crazy Stepbrother
+    author: gurida-soumu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/545786.jpg
+    rating: 4.4
+    date: '2026-11-12'
+    code: 545786
+    url: /works/545786/
   - title: Imouto wa Mesu Orc 7
     author: muneshiro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/547393.jpg
@@ -2556,6 +2564,13 @@ works:
     date: '2026-08-24'
     code: 658826
     url: /works/658826/
+  - title: It's My Sale Assistant's Fault That My New Publication is XXX 2
+    author: murasaki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/658838.jpg
+    rating: 0.0
+    date: '2026-11-12'
+    code: 658838
+    url: /works/658838/
   - title: Mama ga Inemuri shi tetanode
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/659164.jpg
@@ -5827,6 +5842,13 @@ works:
     date: '2026-10-28'
     code: 691636
     url: /works/691636/
+  - title: Oshiego no Downer Gal ni Shitsudo Takame ni Semeotosarechau Hanashi
+    author: ayujiro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/693054.jpg
+    rating: 0.0
+    date: '2026-11-12'
+    code: 693054
+    url: /works/693054/
   - title: Even the chairman wants to do it, you know
     author: signo-mandara
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/693913.jpg

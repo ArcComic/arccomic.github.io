@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "cunnilingus"
-work_count: 231
+work_count: 234
 works:
   - title: Love Approach
     author: hanafuda-sakurano
@@ -462,6 +462,14 @@ works:
     date: '2026-10-21'
     code: 545225
     url: /works/545225/
+  - title: Menhera Gitei no Muyuubyou Ecchi "Yobai Daisakusen!" Comicalize Ban | Sleepwalk
+      Sex with your Crazy Stepbrother
+    author: gurida-soumu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/545786.jpg
+    rating: 4.4
+    date: '2026-11-12'
+    code: 545786
+    url: /works/545786/
   - title: Soshite Kyou mo Moteasobareru
     author: erun
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/545896.jpg
@@ -1079,6 +1087,13 @@ works:
     date: '2026-09-29'
     code: 658697
     url: /works/658697/
+  - title: It's My Sale Assistant's Fault That My New Publication is XXX 2
+    author: murasaki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/658838.jpg
+    rating: 0.0
+    date: '2026-11-12'
+    code: 658838
+    url: /works/658838/
   - title: Imouto ga Ore no Kanojo!? 2-haku 3-ka no Ecchi na Kankei | My Sister is My
       Girlfriend!? Sexual Relationship for Two Nights and Three Days
     author: katagiri-kaneharu
@@ -1629,6 +1644,13 @@ works:
     date: '2026-10-28'
     code: 691671
     url: /works/691671/
+  - title: Oshiego no Downer Gal ni Shitsudo Takame ni Semeotosarechau Hanashi
+    author: ayujiro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/693054.jpg
+    rating: 0.0
+    date: '2026-11-12'
+    code: 693054
+    url: /works/693054/
   - title: Making a Harem of the Three Bitchy Gal Sisters - All Chapters + Bonus
     author: zonda
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694670.jpg

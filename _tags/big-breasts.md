@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big breasts"
-work_count: 1438
+work_count: 1439
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -10290,6 +10290,13 @@ works:
     date: '2026-10-28'
     code: 691671
     url: /works/691671/
+  - title: Oshiego no Downer Gal ni Shitsudo Takame ni Semeotosarechau Hanashi
+    author: ayujiro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/693054.jpg
+    rating: 0.0
+    date: '2026-11-12'
+    code: 693054
+    url: /works/693054/
   - title: Schale Senzoku Seishori Touban 2 | Person in charge of handling Schale-exclusive
       matters 2
     author: signo-mandara

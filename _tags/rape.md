@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "rape"
-work_count: 286
+work_count: 287
 works:
   - title: Office Love Scramble Ch. 1
     author: tohzai
@@ -601,6 +601,14 @@ works:
     date: '2026-04-13'
     code: 544993
     url: /works/544993/
+  - title: Menhera Gitei no Muyuubyou Ecchi "Yobai Daisakusen!" Comicalize Ban | Sleepwalk
+      Sex with your Crazy Stepbrother
+    author: gurida-soumu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/545786.jpg
+    rating: 4.4
+    date: '2026-11-12'
+    code: 545786
+    url: /works/545786/
   - title: Jinsei Hametsu JC ~Watashi no Jinsei, Doushite Kounacchattan daro?~ | Middle
       Schooler's Life Ruined - How Did My Life Turn Out Like This [English] =TB=
     author: circle-hitori

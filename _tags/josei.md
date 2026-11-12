@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "josei"
-work_count: 28
+work_count: 30
 works:
   - title: '[Sakuru Haruni Inazuma (Harumi Niina) Chuuken Bodyguard ga Nisemono Reijou
       no Uso to Shintai wo Abaku made. | Until the Obedient Bodyguard Exposes the Body
@@ -53,6 +53,14 @@ works:
     date: '2026-05-03'
     code: 534823
     url: /works/534823/
+  - title: Menhera Gitei no Muyuubyou Ecchi "Yobai Daisakusen!" Comicalize Ban | Sleepwalk
+      Sex with your Crazy Stepbrother
+    author: gurida-soumu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/545786.jpg
+    rating: 4.4
+    date: '2026-11-12'
+    code: 545786
+    url: /works/545786/
   - title: Ikemen Douki ni Otosareru Hanashi~ Ikitakunaoni Kyousei Zecchou?!
     author: hoshina-mimiwo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/560643.jpg
@@ -200,6 +208,13 @@ works:
     date: '2026-09-29'
     code: 655322
     url: /works/655322/
+  - title: It's My Sale Assistant's Fault That My New Publication is XXX 2
+    author: murasaki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/658838.jpg
+    rating: 0.0
+    date: '2026-11-12'
+    code: 658838
+    url: /works/658838/
   - title: Hiroware Kyuuketsuki wa Oneesan wo Aishitaishi Aisaretai
     author: nemunemu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/677257.jpg
