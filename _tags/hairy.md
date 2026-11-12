@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "hairy"
-work_count: 411
+work_count: 412
 works:
   - title: MAGIC SEVEN
     author: asuhiro
@@ -465,6 +465,14 @@ works:
     date: '2026-08-18'
     code: 432356
     url: /works/432356/
+  - title: Otaku Tomodachi to no Sex wa Saikou ni Kimochi Ii | Sex with Your Otaku Friend
+      is Mindblowing
+    author: alp
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/435899.jpg
+    rating: 4.6
+    date: '2026-11-12'
+    code: 435899
+    url: /works/435899/
   - title: Tsumaduki | With a Wife
     author: ryuuta
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/446716.jpg
@@ -2967,7 +2975,7 @@ works:
       Gyaru Sexual Council Officer Who Will Grant Any Request As A Reward
     author: kanna-kisaragi-kanna
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695850.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-11-12'
     code: 695850
     url: /works/695850/

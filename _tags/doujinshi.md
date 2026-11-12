@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "doujinshi"
-work_count: 1740
+work_count: 1745
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -1230,6 +1230,13 @@ works:
     date: '2026-04-12'
     code: 432513
     url: /works/432513/
+  - title: Jimiko Diary Four
+    author: saigado
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/434577.jpg
+    rating: 4.3
+    date: '2026-11-12'
+    code: 434577
+    url: /works/434577/
   - title: Musume no Kareshi ni Ochiru Okaa-san. 2 | A Mother Who Falls For Her Daughter's
       Boyfriend 2
     author: sinori
@@ -1245,6 +1252,14 @@ works:
     date: '2026-04-23'
     code: 435832
     url: /works/435832/
+  - title: Otaku Tomodachi to no Sex wa Saikou ni Kimochi Ii | Sex with Your Otaku Friend
+      is Mindblowing
+    author: alp
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/435899.jpg
+    rating: 4.6
+    date: '2026-11-12'
+    code: 435899
+    url: /works/435899/
   - title: '[Sakuru Haruni Inazuma (Harumi Niina) Chuuken Bodyguard ga Nisemono Reijou
       no Uso to Shintai wo Abaku made. | Until the Obedient Bodyguard Exposes the Body
       and the Lie of the Fake Lady [English] [Painful Nightz] [Digital]'
@@ -1902,7 +1917,7 @@ works:
   - title: Tsuma ga Shachou ni Netorareru | My wife gets stolen by the President
     author: muripoyo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/496572.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-12'
     code: 496572
     url: /works/496572/
@@ -2851,6 +2866,13 @@ works:
     date: '2026-02-25'
     code: 543086
     url: /works/543086/
+  - title: Papa wa Make Osu | Papa is a Loser
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/543091.jpg
+    rating: 4.4
+    date: '2026-11-12'
+    code: 543091
+    url: /works/543091/
   - title: Kaa-san to Shitai Koto ~ Zetsurin Musuko to no Seikatsu Kaisou Hen | What
       I want to do with My Mother ~ Sex Life with My Son Who Has...
     author: saimon-k
@@ -5455,6 +5477,13 @@ works:
     date: '2026-09-19'
     code: 638320
     url: /works/638320/
+  - title: Okane no Kankei dakara
+    author: muripoyo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638321.jpg
+    rating: 0.0
+    date: '2026-11-12'
+    code: 638321
+    url: /works/638321/
   - title: Ki ga tsuyokute zako manko na tsuma wa dareka no osagari
     author: ubuo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638322.jpg
@@ -5982,6 +6011,13 @@ works:
     date: '2026-09-17'
     code: 644528
     url: /works/644528/
+  - title: Kekkon Sagishi ga Kowai Oji-san ni Oshioki Renzoku Zecchou saserareru Hanashi
+    author: jouyatou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/644627.jpg
+    rating: 4.5
+    date: '2026-11-12'
+    code: 644627
+    url: /works/644627/
   - title: Momonosuke Arc Part.1
     author: konohana
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/644706.jpg
@@ -7533,7 +7569,7 @@ works:
   - title: It's My Sale Assistant's Fault That My New Publication is XXX 2
     author: murasaki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/658838.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-11-12'
     code: 658838
     url: /works/658838/
@@ -12511,7 +12547,7 @@ works:
   - title: Oshiego no Downer Gal ni Shitsudo Takame ni Semeotosarechau Hanashi
     author: ayujiro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/693054.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-11-12'
     code: 693054
     url: /works/693054/
@@ -12803,7 +12839,7 @@ works:
       Gyaru Sexual Council Officer Who Will Grant Any Request As A Reward
     author: kanna-kisaragi-kanna
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695850.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-11-12'
     code: 695850
     url: /works/695850/

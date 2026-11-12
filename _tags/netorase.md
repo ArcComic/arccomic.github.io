@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "netorase"
-work_count: 43
+work_count: 44
 works:
   - title: Boku no Netorase Seiheki ni Tsukiatte kureru Kanojo | A Girlfriend Who Plays
       Along with My Cuckold Fetish
@@ -50,6 +50,13 @@ works:
     date: '2026-09-29'
     code: 541130
     url: /works/541130/
+  - title: Papa wa Make Osu | Papa is a Loser
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/543091.jpg
+    rating: 4.4
+    date: '2026-11-12'
+    code: 543091
+    url: /works/543091/
   - title: Sashida Sareta Hokenshitsu | How I Offered Her Up In The Nurse's Office
     author: kasumi-kaori
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/551076.jpg

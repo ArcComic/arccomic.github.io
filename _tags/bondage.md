@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bondage"
-work_count: 128
+work_count: 130
 works:
   - title: Pai☆Panic ~Hasamareta Dekapai~
     author: inkey
@@ -88,6 +88,14 @@ works:
     date: '2026-11-10'
     code: 420026
     url: /works/420026/
+  - title: Otaku Tomodachi to no Sex wa Saikou ni Kimochi Ii | Sex with Your Otaku Friend
+      is Mindblowing
+    author: alp
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/435899.jpg
+    rating: 4.6
+    date: '2026-11-12'
+    code: 435899
+    url: /works/435899/
   - title: Ichizu na Onee-san to Saikaishitara Dosukebe Kyuukonsarete Sex Tsukeninaru
       Hanashi | After Reuniting with the Onee-san Who is Fixated on Me, I was Proposed
       to with Sex and Got Addicted
@@ -156,6 +164,13 @@ works:
     date: '2026-09-17'
     code: 526619
     url: /works/526619/
+  - title: Papa wa Make Osu | Papa is a Loser
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/543091.jpg
+    rating: 4.4
+    date: '2026-11-12'
+    code: 543091
+    url: /works/543091/
   - title: Sashida Sareta Hokenshitsu | How I Offered Her Up In The Nurse's Office
     author: kasumi-kaori
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/551076.jpg

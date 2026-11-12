@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "kissing"
-work_count: 513
+work_count: 514
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -287,6 +287,14 @@ works:
     date: '2026-04-23'
     code: 435832
     url: /works/435832/
+  - title: Otaku Tomodachi to no Sex wa Saikou ni Kimochi Ii | Sex with Your Otaku Friend
+      is Mindblowing
+    author: alp
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/435899.jpg
+    rating: 4.6
+    date: '2026-11-12'
+    code: 435899
+    url: /works/435899/
   - title: '[Sakuru Haruni Inazuma (Harumi Niina) Chuuken Bodyguard ga Nisemono Reijou
       no Uso to Shintai wo Abaku made. | Until the Obedient Bodyguard Exposes the Body
       and the Lie of the Fake Lady [English] [Painful Nightz] [Digital]'

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "dilf"
-work_count: 233
+work_count: 234
 works:
   - title: Adoration
     author: kishizuka-kenji
@@ -391,7 +391,7 @@ works:
   - title: Tsuma ga Shachou ni Netorareru | My wife gets stolen by the President
     author: muripoyo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/496572.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-12'
     code: 496572
     url: /works/496572/
@@ -536,6 +536,13 @@ works:
     date: '2026-02-25'
     code: 543086
     url: /works/543086/
+  - title: Papa wa Make Osu | Papa is a Loser
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/543091.jpg
+    rating: 4.4
+    date: '2026-11-12'
+    code: 543091
+    url: /works/543091/
   - title: Minpaku ~Ojou-sama-tachi wa Minpaku Keieisha no Wana ni Ochiru~ | Sleeping
       in the Bed and Breakfast - Young ladies fall into the trap of a private lodging
       manager

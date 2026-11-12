@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "jimiko"
-work_count: 21
+work_count: 23
 works:
   - title: Kanojo no Amai Jiraishuu
     author: jirou
@@ -17,6 +17,21 @@ works:
     date: '2026-03-05'
     code: 414892
     url: /works/414892/
+  - title: Jimiko Diary Four
+    author: saigado
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/434577.jpg
+    rating: 4.3
+    date: '2026-11-12'
+    code: 434577
+    url: /works/434577/
+  - title: Otaku Tomodachi to no Sex wa Saikou ni Kimochi Ii | Sex with Your Otaku Friend
+      is Mindblowing
+    author: alp
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/435899.jpg
+    rating: 4.6
+    date: '2026-11-12'
+    code: 435899
+    url: /works/435899/
   - title: Anoko wa Boku ga Suki ja Nai Boku dake ga Kizuiteta Hazu no Loli Kyonyuu
       Jimikei Bungaku Shoujo | She Doesn't Like Me ~ I thought I was the only one~ Plain
       Busty Bookworm Girl

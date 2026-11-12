@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "asphyxiation"
-work_count: 33
+work_count: 34
 works:
   - title: My Dress Up Corpse
     author: mr-kurz
@@ -62,6 +62,13 @@ works:
     date: '2026-09-15'
     code: 539377
     url: /works/539377/
+  - title: Papa wa Make Osu | Papa is a Loser
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/543091.jpg
+    rating: 4.4
+    date: '2026-11-12'
+    code: 543091
+    url: /works/543091/
   - title: Boku no Kaa-chan ga Hikikomori Neet Debu Aniki no Seishori Onaho ni Natteita
       Hanashi | My Mother is My Fat Shut-in Older NEET Brother's Sex Relief Onahole
     author: tarobaumu

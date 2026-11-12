@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "rough translation"
-work_count: 824
+work_count: 825
 works:
   - title: Boku no Shiranai Kimi no Kao
     author: utsutsu-minoru
@@ -1394,6 +1394,13 @@ works:
     date: '2026-09-19'
     code: 638320
     url: /works/638320/
+  - title: Okane no Kankei dakara
+    author: muripoyo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638321.jpg
+    rating: 0.0
+    date: '2026-11-12'
+    code: 638321
+    url: /works/638321/
   - title: Ki ga tsuyokute zako manko na tsuma wa dareka no osagari
     author: ubuo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638322.jpg
@@ -2567,7 +2574,7 @@ works:
   - title: It's My Sale Assistant's Fault That My New Publication is XXX 2
     author: murasaki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/658838.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-11-12'
     code: 658838
     url: /works/658838/
@@ -5845,7 +5852,7 @@ works:
   - title: Oshiego no Downer Gal ni Shitsudo Takame ni Semeotosarechau Hanashi
     author: ayujiro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/693054.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-11-12'
     code: 693054
     url: /works/693054/
@@ -5981,7 +5988,7 @@ works:
       Gyaru Sexual Council Officer Who Will Grant Any Request As A Reward
     author: kanna-kisaragi-kanna
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695850.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-11-12'
     code: 695850
     url: /works/695850/

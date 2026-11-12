@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "multi-work series"
-work_count: 490
+work_count: 492
 works:
   - title: Konna ni mo Itooshii Zero
     author: nohito
@@ -290,6 +290,13 @@ works:
     date: '2026-08-18'
     code: 432356
     url: /works/432356/
+  - title: Jimiko Diary Four
+    author: saigado
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/434577.jpg
+    rating: 4.3
+    date: '2026-11-12'
+    code: 434577
+    url: /works/434577/
   - title: Akumu 4 ~Saitei na Kokuhaku~ | Nightmare 4 ~ Lowest Confession ~
     author: minazuki-mikka
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/435832.jpg
@@ -297,6 +304,14 @@ works:
     date: '2026-04-23'
     code: 435832
     url: /works/435832/
+  - title: Otaku Tomodachi to no Sex wa Saikou ni Kimochi Ii | Sex with Your Otaku Friend
+      is Mindblowing
+    author: alp
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/435899.jpg
+    rating: 4.6
+    date: '2026-11-12'
+    code: 435899
+    url: /works/435899/
   - title: '[Sakuru Haruni Inazuma (Harumi Niina) Chuuken Bodyguard ga Nisemono Reijou
       no Uso to Shintai wo Abaku made. | Until the Obedient Bodyguard Exposes the Body
       and the Lie of the Fake Lady [English] [Painful Nightz] [Digital]'

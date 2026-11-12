@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bald"
-work_count: 92
+work_count: 93
 works:
   - title: Overwrite
     author: ojo
@@ -139,6 +139,13 @@ works:
     date: '2026-09-15'
     code: 539377
     url: /works/539377/
+  - title: Papa wa Make Osu | Papa is a Loser
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/543091.jpg
+    rating: 4.4
+    date: '2026-11-12'
+    code: 543091
+    url: /works/543091/
   - title: Office Affair - The Chemistry Between Subordinate And Boss
     author: abbb
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/546621.jpg

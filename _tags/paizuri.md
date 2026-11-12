@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "paizuri"
-work_count: 305
+work_count: 306
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -177,6 +177,14 @@ works:
     date: '2026-11-08'
     code: 429195
     url: /works/429195/
+  - title: Otaku Tomodachi to no Sex wa Saikou ni Kimochi Ii | Sex with Your Otaku Friend
+      is Mindblowing
+    author: alp
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/435899.jpg
+    rating: 4.6
+    date: '2026-11-12'
+    code: 435899
+    url: /works/435899/
   - title: Chiyuki Onee-san ga Yasashiku Shiboritocchau Hon | Chiyuki Onee-san Gently
       Milks Me Dry
     author: arisu-kazumi
@@ -2190,7 +2198,7 @@ works:
   - title: Oshiego no Downer Gal ni Shitsudo Takame ni Semeotosarechau Hanashi
     author: ayujiro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/693054.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-11-12'
     code: 693054
     url: /works/693054/
@@ -2261,7 +2269,7 @@ works:
       Gyaru Sexual Council Officer Who Will Grant Any Request As A Reward
     author: kanna-kisaragi-kanna
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695850.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-11-12'
     code: 695850
     url: /works/695850/

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "low incest"
-work_count: 8
+work_count: 9
 works:
   - title: Akarui Kazoku Seikatsu
     author: pistonring-nishizawa
@@ -10,6 +10,13 @@ works:
     date: '2026-09-29'
     code: 304307
     url: /works/304307/
+  - title: Papa wa Make Osu | Papa is a Loser
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/543091.jpg
+    rating: 4.4
+    date: '2026-11-12'
+    code: 543091
+    url: /works/543091/
   - title: Zutto Akogare datta Dokyuusei no Mama to Yareta Hanashi Kuronuri ver
     author: chinpan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/593677.jpg

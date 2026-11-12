@@ -1,7 +1,7 @@
 ---
 layout: artist
 artist_name: "group"
-work_count: 45
+work_count: 46
 works:
   - title: Shitsurakuen | Paradise Lost
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/463749.jpg
@@ -44,6 +44,12 @@ works:
     date: '2026-09-18'
     code: 539663
     url: /works/539663/
+  - title: Papa wa Make Osu | Papa is a Loser
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/543091.jpg
+    rating: 4.4
+    date: '2026-11-12'
+    code: 543091
+    url: /works/543091/
   - title: My Study Method
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/562201.jpg
     rating: 4.3

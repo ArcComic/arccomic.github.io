@@ -1,11 +1,11 @@
 ---
 layout: artist
 artist_name: "muripoyo"
-work_count: 5
+work_count: 6
 works:
   - title: Tsuma ga Shachou ni Netorareru | My wife gets stolen by the President
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/496572.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-12'
     code: 496572
     url: /works/496572/
@@ -21,6 +21,12 @@ works:
     date: '2026-11-12'
     code: 577519
     url: /works/577519/
+  - title: Okane no Kankei dakara
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638321.jpg
+    rating: 0.0
+    date: '2026-11-12'
+    code: 638321
+    url: /works/638321/
   - title: Kinjo no Onee-chan ni Otoshidama Watashite Hamedori Misete Morau Hanashi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/672151.jpg
     rating: 4.2

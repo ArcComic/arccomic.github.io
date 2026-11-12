@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "nakadashi"
-work_count: 1098
+work_count: 1101
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -849,6 +849,21 @@ works:
     date: '2026-08-18'
     code: 432356
     url: /works/432356/
+  - title: Jimiko Diary Four
+    author: saigado
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/434577.jpg
+    rating: 4.3
+    date: '2026-11-12'
+    code: 434577
+    url: /works/434577/
+  - title: Otaku Tomodachi to no Sex wa Saikou ni Kimochi Ii | Sex with Your Otaku Friend
+      is Mindblowing
+    author: alp
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/435899.jpg
+    rating: 4.6
+    date: '2026-11-12'
+    code: 435899
+    url: /works/435899/
   - title: '[Sakuru Haruni Inazuma (Harumi Niina) Chuuken Bodyguard ga Nisemono Reijou
       no Uso to Shintai wo Abaku made. | Until the Obedient Bodyguard Exposes the Body
       and the Lie of the Fake Lady [English] [Painful Nightz] [Digital]'
@@ -1328,7 +1343,7 @@ works:
   - title: Tsuma ga Shachou ni Netorareru | My wife gets stolen by the President
     author: muripoyo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/496572.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-12'
     code: 496572
     url: /works/496572/
@@ -1888,6 +1903,13 @@ works:
     date: '2026-02-25'
     code: 543086
     url: /works/543086/
+  - title: Papa wa Make Osu | Papa is a Loser
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/543091.jpg
+    rating: 4.4
+    date: '2026-11-12'
+    code: 543091
+    url: /works/543091/
   - title: Kaa-san to Shitai Koto ~ Zetsurin Musuko to no Seikatsu Kaisou Hen | What
       I want to do with My Mother ~ Sex Life with My Son Who Has...
     author: saimon-k
@@ -8095,7 +8117,7 @@ works:
       Gyaru Sexual Council Officer Who Will Grant Any Request As A Reward
     author: kanna-kisaragi-kanna
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695850.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-11-12'
     code: 695850
     url: /works/695850/

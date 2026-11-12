@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "gender bender"
-work_count: 58
+work_count: 59
 works:
   - title: Seigi no Mikata o Otosu Houhou | How To Subvert an Ally of Justice
     author: fuka
@@ -134,6 +134,13 @@ works:
     date: '2026-11-10'
     code: 627260
     url: /works/627260/
+  - title: Kekkon Sagishi ga Kowai Oji-san ni Oshioki Renzoku Zecchou saserareru Hanashi
+    author: jouyatou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/644627.jpg
+    rating: 4.5
+    date: '2026-11-12'
+    code: 644627
+    url: /works/644627/
   - title: How I, a fighting gamer, became the heroine of a cosplay AV
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/645566.jpg
