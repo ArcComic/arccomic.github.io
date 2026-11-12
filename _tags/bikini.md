@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bikini"
-work_count: 108
+work_count: 109
 works:
   - title: Kizashi
     author: yoshiura-kazuya
@@ -165,6 +165,15 @@ works:
     date: '2026-10-05'
     code: 509584
     url: /works/509584/
+  - title: Funinki Seishori Touban Kuroi-chan Tsukatte Iru no wa Kurasu de Ore Dake
+      | I'm The Only One in The Class Who's Using The Unpopular Sexual Relief Staff,
+      Kuroi-chan
+    author: elel
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/523730.jpg
+    rating: 4.1
+    date: '2026-11-12'
+    code: 523730
+    url: /works/523730/
   - title: Netori Esthe de, Konya, Tsuma ga.... | I Can't Resist His Massage! Cheating
       in Front of My Husband's Eyes Vol. 1-4
     author: fight-fight-chiharu

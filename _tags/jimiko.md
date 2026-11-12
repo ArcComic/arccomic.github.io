@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "jimiko"
-work_count: 20
+work_count: 21
 works:
   - title: Kanojo no Amai Jiraishuu
     author: jirou
@@ -33,6 +33,15 @@ works:
     date: '2026-09-17'
     code: 504913
     url: /works/504913/
+  - title: Funinki Seishori Touban Kuroi-chan Tsukatte Iru no wa Kurasu de Ore Dake
+      | I'm The Only One in The Class Who's Using The Unpopular Sexual Relief Staff,
+      Kuroi-chan
+    author: elel
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/523730.jpg
+    rating: 4.1
+    date: '2026-11-12'
+    code: 523730
+    url: /works/523730/
   - title: Jimi Kyonyuu No Stalker Onna Ni Gokuhaku Saretanode Yarimakutte Mita Hanashi
       | I Was Confessed To By A Plain Busty Stalker Girl, So I Fucked Her Like Crazy
     author: hiyori-hamster

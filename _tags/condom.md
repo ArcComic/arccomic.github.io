@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "condom"
-work_count: 283
+work_count: 284
 works:
   - title: Kaisha de Iroiro | Gettin' Busy at the Office
     author: hara-shigeyuki
@@ -547,6 +547,15 @@ works:
     date: '2026-10-18'
     code: 521894
     url: /works/521894/
+  - title: Funinki Seishori Touban Kuroi-chan Tsukatte Iru no wa Kurasu de Ore Dake
+      | I'm The Only One in The Class Who's Using The Unpopular Sexual Relief Staff,
+      Kuroi-chan
+    author: elel
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/523730.jpg
+    rating: 4.1
+    date: '2026-11-12'
+    code: 523730
+    url: /works/523730/
   - title: Mesu no Ie - Married Woman's House ~Tsuma wa Midare Ubawareru~
     author: ame-arare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/526431.jpg

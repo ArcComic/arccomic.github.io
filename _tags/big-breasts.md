@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big breasts"
-work_count: 1436
+work_count: 1438
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -1464,6 +1464,13 @@ works:
     date: '2026-10-18'
     code: 495845
     url: /works/495845/
+  - title: Tsuma ga Shachou ni Netorareru | My wife gets stolen by the President
+    author: muripoyo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/496572.jpg
+    rating: 0.0
+    date: '2026-11-12'
+    code: 496572
+    url: /works/496572/
   - title: Zoku Onnajoushi wa Ikiwakareta Haha
     author: kumo-no-ito
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/497950.jpg
@@ -1878,6 +1885,15 @@ works:
     date: '2026-09-24'
     code: 521674
     url: /works/521674/
+  - title: Funinki Seishori Touban Kuroi-chan Tsukatte Iru no wa Kurasu de Ore Dake
+      | I'm The Only One in The Class Who's Using The Unpopular Sexual Relief Staff,
+      Kuroi-chan
+    author: elel
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/523730.jpg
+    rating: 4.1
+    date: '2026-11-12'
+    code: 523730
+    url: /works/523730/
   - title: Tarachime no Nikutsubo ~Yokkyu Fuman no Haha ga Inran Dekachichi Deliherujou
       datta node, Renzoku Nakadashi de Onaho ni Shitemita~
     author: ginen

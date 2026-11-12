@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big penis"
-work_count: 344
+work_count: 345
 works:
   - title: Tsuma no Imouto no Danna ga Ie ni Kiteiruyoudesu | My Sister-In-Law's Husband
       is Over
@@ -241,6 +241,13 @@ works:
     date: '2026-09-26'
     code: 491312
     url: /works/491312/
+  - title: Tsuma ga Shachou ni Netorareru | My wife gets stolen by the President
+    author: muripoyo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/496572.jpg
+    rating: 0.0
+    date: '2026-11-12'
+    code: 496572
+    url: /works/496572/
   - title: Obedience Part 1
     author: laliberte
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/501709.jpg

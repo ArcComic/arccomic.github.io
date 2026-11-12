@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "short-haired female"
-work_count: 67
+work_count: 68
 works:
   - title: Onee-chan ga Ecchi na Koto bakka Suru kara... | My older sister only does
       obscene things...
@@ -109,6 +109,15 @@ works:
     date: '2026-09-09'
     code: 507591
     url: /works/507591/
+  - title: Funinki Seishori Touban Kuroi-chan Tsukatte Iru no wa Kurasu de Ore Dake
+      | I'm The Only One in The Class Who's Using The Unpopular Sexual Relief Staff,
+      Kuroi-chan
+    author: elel
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/523730.jpg
+    rating: 4.1
+    date: '2026-11-12'
+    code: 523730
+    url: /works/523730/
   - title: Kaientojou
     author: fushoku
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/525330.jpg

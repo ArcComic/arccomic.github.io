@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "humiliation"
-work_count: 57
+work_count: 58
 works:
   - title: Doushia (Terasu MC)] Dorei Gazoku
     author: terasu-mc
@@ -38,6 +38,13 @@ works:
     date: '2026-09-30'
     code: 491622
     url: /works/491622/
+  - title: Tsuma ga Shachou ni Netorareru | My wife gets stolen by the President
+    author: muripoyo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/496572.jpg
+    rating: 0.0
+    date: '2026-11-12'
+    code: 496572
+    url: /works/496572/
   - title: Shut-less
     author: mr-hokke
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/531966.jpg

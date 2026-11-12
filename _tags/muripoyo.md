@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "muripoyo"
-work_count: 5
+work_count: 6
 works:
+  - title: Tsuma ga Shachou ni Netorareru | My wife gets stolen by the President
+    author: muripoyo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/496572.jpg
+    rating: 0.0
+    date: '2026-11-12'
+    code: 496572
+    url: /works/496572/
   - title: Osananajimi no Himitsu | My Childhood Friend's Secret
     author: muripoyo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/563149.jpg

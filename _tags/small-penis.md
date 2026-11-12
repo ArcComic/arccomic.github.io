@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "small penis"
-work_count: 31
+work_count: 32
 works:
   - title: Toshoshitsu no Kanojo 3~Seiso na Kimi ga Ochiru made~
     author: ame-arare
@@ -18,6 +18,13 @@ works:
     date: '2026-11-09'
     code: 438340
     url: /works/438340/
+  - title: Tsuma ga Shachou ni Netorareru | My wife gets stolen by the President
+    author: muripoyo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/496572.jpg
+    rating: 0.0
+    date: '2026-11-12'
+    code: 496572
+    url: /works/496572/
   - title: Shut-less
     author: mr-hokke
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/531966.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "freckles"
-work_count: 11
+work_count: 12
 works:
   - title: Kanojo no Amai Jiraishuu
     author: jirou
@@ -10,6 +10,15 @@ works:
     date: '2026-10-07'
     code: 352215
     url: /works/352215/
+  - title: Funinki Seishori Touban Kuroi-chan Tsukatte Iru no wa Kurasu de Ore Dake
+      | I'm The Only One in The Class Who's Using The Unpopular Sexual Relief Staff,
+      Kuroi-chan
+    author: elel
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/523730.jpg
+    rating: 4.1
+    date: '2026-11-12'
+    code: 523730
+    url: /works/523730/
   - title: Inyoku no Tou - the luxury tower of sexual desire
     author: hozumi-kenji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/549608.jpg
