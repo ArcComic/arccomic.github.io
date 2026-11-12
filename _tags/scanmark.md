@@ -356,7 +356,7 @@ works:
   - title: Ki ga tsuyokute zako manko na tsuma wa dareka no osagari
     author: ubuo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638322.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-12'
     code: 638322
     url: /works/638322/
@@ -378,7 +378,7 @@ works:
       female by a womanizer
     author: ubuo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638600.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-11-12'
     code: 638600
     url: /works/638600/
@@ -399,7 +399,7 @@ works:
   - title: Hitomebore
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/641484.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-11-12'
     code: 641484
     url: /works/641484/
@@ -1420,7 +1420,7 @@ works:
       no NTR Jirei-MTL
     author: shinyashiki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680308.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-11-12'
     code: 680308
     url: /works/680308/

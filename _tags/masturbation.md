@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "masturbation"
-work_count: 197
+work_count: 198
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -336,6 +336,13 @@ works:
     date: '2026-09-28'
     code: 560392
     url: /works/560392/
+  - title: Osananajimi no Himitsu | My Childhood Friend's Secret
+    author: muripoyo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/563149.jpg
+    rating: 4.0
+    date: '2026-11-12'
+    code: 563149
+    url: /works/563149/
   - title: Tennen Kaa-san ga Ero Kawai Sugiru node, Saimin Onaho Sex Shitatta! | My
       Airheaded Mom Was Too Adorably Sexy, So I Had Hypnotized Onahole Sex with Her!
     author: ginen
@@ -385,7 +392,7 @@ works:
   - title: Osananajimi no Himitsu 2 | My childhood friend's secret 2
     author: muripoyo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/577519.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-11-12'
     code: 577519
     url: /works/577519/
@@ -1430,14 +1437,14 @@ works:
       About a Female Student Remembering Her Previous Life as a Man~'
     author: kisaragi-nana
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695608.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-11-12'
     code: 695608
     url: /works/695608/
   - title: Bokura no Libido - CHAPTER 1-16
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695615.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-11-12'
     code: 695615
     url: /works/695615/
@@ -1452,7 +1459,7 @@ works:
       Easily Lets Me Bang Her 7
     author: izure
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695882.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-11-12'
     code: 695882
     url: /works/695882/
@@ -1467,7 +1474,7 @@ works:
       Service Committee
     author: ryoma
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696030.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-12'
     code: 696030
     url: /works/696030/

@@ -435,7 +435,7 @@ works:
       no Gal to Hame Makuru Natsuyasumi Hen~
     author: ueto-seri-ueto-ruri
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695555.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-11-12'
     code: 695555
     url: /works/695555/
@@ -450,7 +450,7 @@ works:
       Service Committee
     author: ryoma
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696030.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-12'
     code: 696030
     url: /works/696030/

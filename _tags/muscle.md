@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "muscle"
-work_count: 157
+work_count: 158
 works:
   - title: Kousa suru Osu to Mesu | Male and Female Crossing
     author: ootsuka-kotora
@@ -298,10 +298,17 @@ works:
     date: '2026-09-23'
     code: 561349
     url: /works/561349/
+  - title: Osananajimi no Himitsu | My Childhood Friend's Secret
+    author: muripoyo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/563149.jpg
+    rating: 4.0
+    date: '2026-11-12'
+    code: 563149
+    url: /works/563149/
   - title: Osananajimi no Himitsu 2 | My childhood friend's secret 2
     author: muripoyo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/577519.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-11-12'
     code: 577519
     url: /works/577519/
@@ -496,7 +503,7 @@ works:
   - title: Hitomebore
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/641484.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-11-12'
     code: 641484
     url: /works/641484/
@@ -1168,7 +1175,7 @@ works:
       Edition
     author: teaindian
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695866.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-11-12'
     code: 695866
     url: /works/695866/

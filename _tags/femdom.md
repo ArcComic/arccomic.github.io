@@ -141,7 +141,7 @@ works:
   - title: Daken no Tadashii Shitsuke Kata
     author: napo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/357477.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-11-12'
     code: 357477
     url: /works/357477/
@@ -489,7 +489,7 @@ works:
   - title: Osananajimi no Himitsu 2 | My childhood friend's secret 2
     author: muripoyo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/577519.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-11-12'
     code: 577519
     url: /works/577519/
@@ -1130,7 +1130,7 @@ works:
   - title: Kinjo no Onee-chan ni Otoshidama Watashite Hamedori Misete Morau Hanashi
     author: muripoyo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/672151.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-11-12'
     code: 672151
     url: /works/672151/
@@ -1680,7 +1680,7 @@ works:
   - title: After-School Service Club (Provisional) - The Genius Gal Who Can Do Anything
     author: courreges-accel
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695157.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-11-12'
     code: 695157
     url: /works/695157/
@@ -1706,7 +1706,7 @@ works:
       Edition
     author: teaindian
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695866.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-11-12'
     code: 695866
     url: /works/695866/

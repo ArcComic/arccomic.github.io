@@ -102,7 +102,7 @@ works:
   - title: Osananajimi no Himitsu 2 | My childhood friend's secret 2
     author: muripoyo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/577519.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-11-12'
     code: 577519
     url: /works/577519/
@@ -200,7 +200,7 @@ works:
       Daughter ~
     author: kaniguruma
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/641745.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-11-12'
     code: 641745
     url: /works/641745/
@@ -394,7 +394,7 @@ works:
   - title: Kinjo no Onee-chan ni Otoshidama Watashite Hamedori Misete Morau Hanashi
     author: muripoyo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/672151.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-11-12'
     code: 672151
     url: /works/672151/
@@ -683,7 +683,7 @@ works:
       Edition
     author: teaindian
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695866.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-11-12'
     code: 695866
     url: /works/695866/
@@ -692,7 +692,7 @@ works:
       Much, Right? 2
     author: kaniguruma
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695879.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-11-12'
     code: 695879
     url: /works/695879/

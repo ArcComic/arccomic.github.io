@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "voyeurism"
-work_count: 79
+work_count: 80
 works:
   - title: Tsutomesaki no Musume-san o Oishiku Itadaku Hon Minshuku Hen
     author: aya
@@ -185,6 +185,13 @@ works:
     date: '2026-11-09'
     code: 554739
     url: /works/554739/
+  - title: Osananajimi no Himitsu | My Childhood Friend's Secret
+    author: muripoyo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/563149.jpg
+    rating: 4.0
+    date: '2026-11-12'
+    code: 563149
+    url: /works/563149/
   - title: Kyonyuu Kaa-san ga Boku no Me mo Mae de Oji-san no Namachin de Ikimakutta
       Hanashi
     author: hoshiduki-melon

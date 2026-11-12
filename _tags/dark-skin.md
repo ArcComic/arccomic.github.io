@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "dark skin"
-work_count: 195
+work_count: 196
 works:
   - title: Birthday
     author: hashiba-yachi
@@ -1418,11 +1418,19 @@ works:
     date: '2026-11-11'
     code: 695703
     url: /works/695703/
+  - title: Gohoubi ni Nandemo Onegai o Kiitekureru Kuro Gal Seitokai Yakuin | The Dark-Skinned
+      Gyaru Sexual Council Officer Who Will Grant Any Request As A Reward
+    author: kanna-kisaragi-kanna
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695850.jpg
+    rating: 0.0
+    date: '2026-11-12'
+    code: 695850
+    url: /works/695850/
   - title: Oshikake! Deka Gal Harem Kanzenban | Uninvited! Big-Breasted Gal Harem Complete
       Edition
     author: teaindian
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695866.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-11-12'
     code: 695866
     url: /works/695866/
@@ -1437,7 +1445,7 @@ works:
       Service Committee
     author: ryoma
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696030.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-12'
     code: 696030
     url: /works/696030/

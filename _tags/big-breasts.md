@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big breasts"
-work_count: 1434
+work_count: 1436
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -2526,6 +2526,13 @@ works:
     date: '2026-04-25'
     code: 562615
     url: /works/562615/
+  - title: Osananajimi no Himitsu | My Childhood Friend's Secret
+    author: muripoyo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/563149.jpg
+    rating: 4.0
+    date: '2026-11-12'
+    code: 563149
+    url: /works/563149/
   - title: Netorare jk Osananajimi Suieibu 3
     author: aikawa-tatsuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/563342.jpg
@@ -2750,7 +2757,7 @@ works:
   - title: Osananajimi no Himitsu 2 | My childhood friend's secret 2
     author: muripoyo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/577519.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-11-12'
     code: 577519
     url: /works/577519/
@@ -2822,7 +2829,7 @@ works:
   - title: Onna Tomodachi no Uwaki Kokuhaku | My Friend Confessed to Cheating
     author: dekamatsu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/581240.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-11-12'
     code: 581240
     url: /works/581240/
@@ -4399,7 +4406,7 @@ works:
   - title: Ki ga tsuyokute zako manko na tsuma wa dareka no osagari
     author: ubuo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638322.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-12'
     code: 638322
     url: /works/638322/
@@ -4437,7 +4444,7 @@ works:
       female by a womanizer
     author: ubuo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638600.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-11-12'
     code: 638600
     url: /works/638600/
@@ -4555,7 +4562,7 @@ works:
   - title: Hitomebore
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/641484.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-11-12'
     code: 641484
     url: /works/641484/
@@ -4563,7 +4570,7 @@ works:
       Daughter ~
     author: kaniguruma
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/641745.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-11-12'
     code: 641745
     url: /works/641745/
@@ -6186,7 +6193,7 @@ works:
       Do Whatever I Wanted To Her, Right?
     author: kaniguruma
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/660556.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-12'
     code: 660556
     url: /works/660556/
@@ -7168,7 +7175,7 @@ works:
   - title: Kinjo no Onee-chan ni Otoshidama Watashite Hamedori Misete Morau Hanashi
     author: muripoyo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/672151.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-11-12'
     code: 672151
     url: /works/672151/
@@ -7574,7 +7581,7 @@ works:
   - title: Botsuraku Reijou wa Nao mo Kedakaku ~Migawari ni Chiru Hana~
     author: minegami-aya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/676232.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-11-12'
     code: 676232
     url: /works/676232/
@@ -8084,7 +8091,7 @@ works:
       no NTR Jirei-MTL
     author: shinyashiki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680308.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-11-12'
     code: 680308
     url: /works/680308/
@@ -10411,7 +10418,7 @@ works:
   - title: After-School Service Club (Provisional) - The Genius Gal Who Can Do Anything
     author: courreges-accel
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695157.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-11-12'
     code: 695157
     url: /works/695157/
@@ -10517,14 +10524,14 @@ works:
       About a Female Student Remembering Her Previous Life as a Man~'
     author: kisaragi-nana
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695608.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-11-12'
     code: 695608
     url: /works/695608/
   - title: Bokura no Libido - CHAPTER 1-16
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695615.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-11-12'
     code: 695615
     url: /works/695615/
@@ -10549,11 +10556,19 @@ works:
     date: '2026-11-10'
     code: 695711
     url: /works/695711/
+  - title: Gohoubi ni Nandemo Onegai o Kiitekureru Kuro Gal Seitokai Yakuin | The Dark-Skinned
+      Gyaru Sexual Council Officer Who Will Grant Any Request As A Reward
+    author: kanna-kisaragi-kanna
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695850.jpg
+    rating: 0.0
+    date: '2026-11-12'
+    code: 695850
+    url: /works/695850/
   - title: Oshikake! Deka Gal Harem Kanzenban | Uninvited! Big-Breasted Gal Harem Complete
       Edition
     author: teaindian
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695866.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-11-12'
     code: 695866
     url: /works/695866/
@@ -10562,7 +10577,7 @@ works:
       Much, Right? 2
     author: kaniguruma
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695879.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-11-12'
     code: 695879
     url: /works/695879/
@@ -10579,7 +10594,7 @@ works:
       Easily Lets Me Bang Her 7
     author: izure
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695882.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-11-12'
     code: 695882
     url: /works/695882/
@@ -10617,7 +10632,7 @@ works:
       Service Committee
     author: ryoma
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696030.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-12'
     code: 696030
     url: /works/696030/

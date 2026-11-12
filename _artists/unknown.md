@@ -555,13 +555,13 @@ works:
     url: /works/694897/
   - title: Bokura no Libido - CHAPTER 1-16
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695615.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-11-12'
     code: 695615
     url: /works/695615/
   - title: Boarding Diary (Official) [1-130] [Completed]92-130
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695653.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-11-12'
     code: 695653
     url: /works/695653/

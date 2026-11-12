@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "multi-work series"
-work_count: 489
+work_count: 490
 works:
   - title: Konna ni mo Itooshii Zero
     author: nohito
@@ -945,6 +945,13 @@ works:
     date: '2026-05-05'
     code: 558039
     url: /works/558039/
+  - title: Osananajimi no Himitsu | My Childhood Friend's Secret
+    author: muripoyo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/563149.jpg
+    rating: 4.0
+    date: '2026-11-12'
+    code: 563149
+    url: /works/563149/
   - title: Onna Kishi Rize wa Koyoi mo Maotoko ni Dakareru 3
     author: akire
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/564863.jpg
@@ -1007,7 +1014,7 @@ works:
   - title: Osananajimi no Himitsu 2 | My childhood friend's secret 2
     author: muripoyo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/577519.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-11-12'
     code: 577519
     url: /works/577519/
@@ -3598,7 +3605,7 @@ works:
   - title: After-School Service Club (Provisional) - The Genius Gal Who Can Do Anything
     author: courreges-accel
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695157.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-11-12'
     code: 695157
     url: /works/695157/
@@ -3628,14 +3635,14 @@ works:
       no Gal to Hame Makuru Natsuyasumi Hen~
     author: ueto-seri-ueto-ruri
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695555.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-11-12'
     code: 695555
     url: /works/695555/
   - title: Bokura no Libido - CHAPTER 1-16
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695615.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-11-12'
     code: 695615
     url: /works/695615/
@@ -3644,7 +3651,7 @@ works:
       Much, Right? 2
     author: kaniguruma
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695879.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-11-12'
     code: 695879
     url: /works/695879/
@@ -3652,7 +3659,7 @@ works:
       Easily Lets Me Bang Her 7
     author: izure
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695882.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-11-12'
     code: 695882
     url: /works/695882/

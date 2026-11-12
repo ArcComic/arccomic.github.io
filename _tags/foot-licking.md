@@ -13,7 +13,7 @@ works:
   - title: Daken no Tadashii Shitsuke Kata
     author: napo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/357477.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-11-12'
     code: 357477
     url: /works/357477/
@@ -127,7 +127,7 @@ works:
   - title: Bokura no Libido - CHAPTER 1-16
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695615.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-11-12'
     code: 695615
     url: /works/695615/

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "x-ray"
-work_count: 456
+work_count: 457
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -148,7 +148,7 @@ works:
   - title: Daken no Tadashii Shitsuke Kata
     author: napo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/357477.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-11-12'
     code: 357477
     url: /works/357477/
@@ -868,7 +868,7 @@ works:
   - title: Osananajimi no Himitsu 2 | My childhood friend's secret 2
     author: muripoyo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/577519.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-11-12'
     code: 577519
     url: /works/577519/
@@ -2087,7 +2087,7 @@ works:
       Do Whatever I Wanted To Her, Right?
     author: kaniguruma
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/660556.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-12'
     code: 660556
     url: /works/660556/
@@ -3361,11 +3361,19 @@ works:
     date: '2026-11-10'
     code: 695711
     url: /works/695711/
+  - title: Gohoubi ni Nandemo Onegai o Kiitekureru Kuro Gal Seitokai Yakuin | The Dark-Skinned
+      Gyaru Sexual Council Officer Who Will Grant Any Request As A Reward
+    author: kanna-kisaragi-kanna
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695850.jpg
+    rating: 0.0
+    date: '2026-11-12'
+    code: 695850
+    url: /works/695850/
   - title: Oshikake! Deka Gal Harem Kanzenban | Uninvited! Big-Breasted Gal Harem Complete
       Edition
     author: teaindian
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695866.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-11-12'
     code: 695866
     url: /works/695866/
@@ -3374,7 +3382,7 @@ works:
       Much, Right? 2
     author: kaniguruma
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695879.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-11-12'
     code: 695879
     url: /works/695879/
@@ -3391,7 +3399,7 @@ works:
       Easily Lets Me Bang Her 7
     author: izure
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695882.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-11-12'
     code: 695882
     url: /works/695882/

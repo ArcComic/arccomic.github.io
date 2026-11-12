@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "squirting"
-work_count: 206
+work_count: 207
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -944,7 +944,7 @@ works:
   - title: Botsuraku Reijou wa Nao mo Kedakaku ~Migawari ni Chiru Hana~
     author: minegami-aya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/676232.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-11-12'
     code: 676232
     url: /works/676232/
@@ -1497,14 +1497,14 @@ works:
       About a Female Student Remembering Her Previous Life as a Man~'
     author: kisaragi-nana
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695608.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-11-12'
     code: 695608
     url: /works/695608/
   - title: Bokura no Libido - CHAPTER 1-16
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695615.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-11-12'
     code: 695615
     url: /works/695615/
@@ -1515,6 +1515,14 @@ works:
     date: '2026-11-10'
     code: 695639
     url: /works/695639/
+  - title: Gohoubi ni Nandemo Onegai o Kiitekureru Kuro Gal Seitokai Yakuin | The Dark-Skinned
+      Gyaru Sexual Council Officer Who Will Grant Any Request As A Reward
+    author: kanna-kisaragi-kanna
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695850.jpg
+    rating: 0.0
+    date: '2026-11-12'
+    code: 695850
+    url: /works/695850/
   - title: Jitsubo to MAMA Katsu Uraaka no Yokkyuufuman Hitozuma wa Haha deshita | Mama-Katsu
       With My Real Mother ~The Frustrated Housewife on the Alt Account Turned Out to
       Be My Mother~
@@ -1528,7 +1536,7 @@ works:
       Easily Lets Me Bang Her 7
     author: izure
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695882.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-11-12'
     code: 695882
     url: /works/695882/
@@ -1543,7 +1551,7 @@ works:
       Service Committee
     author: ryoma
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696030.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-12'
     code: 696030
     url: /works/696030/

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole male"
-work_count: 1188
+work_count: 1189
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -645,7 +645,7 @@ works:
   - title: Daken no Tadashii Shitsuke Kata
     author: napo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/357477.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-11-12'
     code: 357477
     url: /works/357477/
@@ -4262,7 +4262,7 @@ works:
       Daughter ~
     author: kaniguruma
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/641745.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-11-12'
     code: 641745
     url: /works/641745/
@@ -5601,7 +5601,7 @@ works:
       Do Whatever I Wanted To Her, Right?
     author: kaniguruma
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/660556.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-12'
     code: 660556
     url: /works/660556/
@@ -8641,7 +8641,7 @@ works:
   - title: After-School Service Club (Provisional) - The Genius Gal Who Can Do Anything
     author: courreges-accel
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695157.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-11-12'
     code: 695157
     url: /works/695157/
@@ -8711,7 +8711,7 @@ works:
   - title: The Sky, The Sand, And The Garden
     author: asagi-ryu-amano-miki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695569.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-11-12'
     code: 695569
     url: /works/695569/
@@ -8734,14 +8734,14 @@ works:
       About a Female Student Remembering Her Previous Life as a Man~'
     author: kisaragi-nana
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695608.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-11-12'
     code: 695608
     url: /works/695608/
   - title: Bokura no Libido - CHAPTER 1-16
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695615.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-11-12'
     code: 695615
     url: /works/695615/
@@ -8759,11 +8759,19 @@ works:
     date: '2026-11-10'
     code: 695711
     url: /works/695711/
+  - title: Gohoubi ni Nandemo Onegai o Kiitekureru Kuro Gal Seitokai Yakuin | The Dark-Skinned
+      Gyaru Sexual Council Officer Who Will Grant Any Request As A Reward
+    author: kanna-kisaragi-kanna
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695850.jpg
+    rating: 0.0
+    date: '2026-11-12'
+    code: 695850
+    url: /works/695850/
   - title: Oshikake! Deka Gal Harem Kanzenban | Uninvited! Big-Breasted Gal Harem Complete
       Edition
     author: teaindian
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695866.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-11-12'
     code: 695866
     url: /works/695866/
@@ -8772,7 +8780,7 @@ works:
       Much, Right? 2
     author: kaniguruma
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695879.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-11-12'
     code: 695879
     url: /works/695879/
@@ -8789,7 +8797,7 @@ works:
       Easily Lets Me Bang Her 7
     author: izure
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695882.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-11-12'
     code: 695882
     url: /works/695882/
@@ -8813,7 +8821,7 @@ works:
       Service Committee
     author: ryoma
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696030.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-12'
     code: 696030
     url: /works/696030/

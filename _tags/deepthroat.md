@@ -468,7 +468,7 @@ works:
       Do Whatever I Wanted To Her, Right?
     author: kaniguruma
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/660556.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-12'
     code: 660556
     url: /works/660556/
@@ -627,7 +627,7 @@ works:
   - title: Botsuraku Reijou wa Nao mo Kedakaku ~Migawari ni Chiru Hana~
     author: minegami-aya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/676232.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-11-12'
     code: 676232
     url: /works/676232/
@@ -958,7 +958,7 @@ works:
       Much, Right? 2
     author: kaniguruma
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695879.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-11-12'
     code: 695879
     url: /works/695879/
@@ -966,7 +966,7 @@ works:
       Easily Lets Me Bang Her 7
     author: izure
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695882.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-11-12'
     code: 695882
     url: /works/695882/

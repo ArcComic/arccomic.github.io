@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "condom"
-work_count: 281
+work_count: 283
 works:
   - title: Kaisha de Iroiro | Gettin' Busy at the Office
     author: hara-shigeyuki
@@ -697,6 +697,13 @@ works:
     date: '2026-04-25'
     code: 562615
     url: /works/562615/
+  - title: Osananajimi no Himitsu | My Childhood Friend's Secret
+    author: muripoyo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/563149.jpg
+    rating: 4.0
+    date: '2026-11-12'
+    code: 563149
+    url: /works/563149/
   - title: Soushitsu Kanojo ~Kioku o Ushinatta Kanojo wa Onna Senpai ni Netorareta~
     author: kuroshiba-suko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/563632.jpg
@@ -744,7 +751,7 @@ works:
   - title: Osananajimi no Himitsu 2 | My childhood friend's secret 2
     author: muripoyo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/577519.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-11-12'
     code: 577519
     url: /works/577519/
@@ -1140,7 +1147,7 @@ works:
   - title: Hitomebore
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/641484.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-11-12'
     code: 641484
     url: /works/641484/
@@ -1412,7 +1419,7 @@ works:
       Do Whatever I Wanted To Her, Right?
     author: kaniguruma
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/660556.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-12'
     code: 660556
     url: /works/660556/
@@ -1573,7 +1580,7 @@ works:
   - title: Kinjo no Onee-chan ni Otoshidama Watashite Hamedori Misete Morau Hanashi
     author: muripoyo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/672151.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-11-12'
     code: 672151
     url: /works/672151/
@@ -2039,14 +2046,14 @@ works:
       no Gal to Hame Makuru Natsuyasumi Hen~
     author: ueto-seri-ueto-ruri
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695555.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-11-12'
     code: 695555
     url: /works/695555/
   - title: The Sky, The Sand, And The Garden
     author: asagi-ryu-amano-miki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695569.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-11-12'
     code: 695569
     url: /works/695569/
@@ -2071,11 +2078,19 @@ works:
     date: '2026-11-10'
     code: 695711
     url: /works/695711/
+  - title: Gohoubi ni Nandemo Onegai o Kiitekureru Kuro Gal Seitokai Yakuin | The Dark-Skinned
+      Gyaru Sexual Council Officer Who Will Grant Any Request As A Reward
+    author: kanna-kisaragi-kanna
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695850.jpg
+    rating: 0.0
+    date: '2026-11-12'
+    code: 695850
+    url: /works/695850/
   - title: Dare mo danshi hōshi iinkai nanka ni kyōmi nai | No one cares about the Boys'
       Service Committee
     author: ryoma
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696030.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-12'
     code: 696030
     url: /works/696030/

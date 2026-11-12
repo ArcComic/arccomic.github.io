@@ -1519,7 +1519,7 @@ works:
   - title: Onna Tomodachi no Uwaki Kokuhaku | My Friend Confessed to Cheating
     author: dekamatsu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/581240.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-11-12'
     code: 581240
     url: /works/581240/
@@ -2187,7 +2187,7 @@ works:
       Daughter ~
     author: kaniguruma
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/641745.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-11-12'
     code: 641745
     url: /works/641745/
@@ -4142,7 +4142,7 @@ works:
   - title: The Sky, The Sand, And The Garden
     author: asagi-ryu-amano-miki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695569.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-11-12'
     code: 695569
     url: /works/695569/

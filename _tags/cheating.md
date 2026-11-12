@@ -1264,7 +1264,7 @@ works:
   - title: Osananajimi no Himitsu 2 | My childhood friend's secret 2
     author: muripoyo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/577519.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-11-12'
     code: 577519
     url: /works/577519/
@@ -1278,7 +1278,7 @@ works:
   - title: Onna Tomodachi no Uwaki Kokuhaku | My Friend Confessed to Cheating
     author: dekamatsu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/581240.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-11-12'
     code: 581240
     url: /works/581240/
@@ -1781,7 +1781,7 @@ works:
   - title: Ki ga tsuyokute zako manko na tsuma wa dareka no osagari
     author: ubuo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638322.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-12'
     code: 638322
     url: /works/638322/
@@ -1804,7 +1804,7 @@ works:
       female by a womanizer
     author: ubuo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638600.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-11-12'
     code: 638600
     url: /works/638600/
@@ -1848,7 +1848,7 @@ works:
       Daughter ~
     author: kaniguruma
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/641745.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-11-12'
     code: 641745
     url: /works/641745/
@@ -2576,7 +2576,7 @@ works:
   - title: Kinjo no Onee-chan ni Otoshidama Watashite Hamedori Misete Morau Hanashi
     author: muripoyo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/672151.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-11-12'
     code: 672151
     url: /works/672151/
@@ -3435,7 +3435,7 @@ works:
       no Gal to Hame Makuru Natsuyasumi Hen~
     author: ueto-seri-ueto-ruri
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695555.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-11-12'
     code: 695555
     url: /works/695555/

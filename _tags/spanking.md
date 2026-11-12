@@ -20,7 +20,7 @@ works:
   - title: Onna Tomodachi no Uwaki Kokuhaku | My Friend Confessed to Cheating
     author: dekamatsu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/581240.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-11-12'
     code: 581240
     url: /works/581240/
@@ -142,7 +142,7 @@ works:
       Much, Right? 2
     author: kaniguruma
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695879.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-11-12'
     code: 695879
     url: /works/695879/
