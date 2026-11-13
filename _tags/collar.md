@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "collar"
-work_count: 131
+work_count: 132
 works:
   - title: Kaisha de Iroiro | Gettin' Busy at the Office
     author: hara-shigeyuki
@@ -271,6 +271,13 @@ works:
     date: '2026-09-18'
     code: 590068
     url: /works/590068/
+  - title: Okazu Touban no Seitai | What It Means to Please - An Audiovisual Report
+    author: kagto
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/598483.jpg
+    rating: 0.0
+    date: '2026-11-13'
+    code: 598483
+    url: /works/598483/
   - title: Mechakucha Jiraippoi kedo Ne wa Yasashisouna Ko | Serious Land Mine Vibes
       but Deep Down She Seems Sweet
     author: 7zu7

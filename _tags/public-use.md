@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "public use"
-work_count: 18
+work_count: 19
 works:
   - title: Uchi de wa Kazoku Sex wa Joushiki Rashii | In My House, Family Sex Is the
       Norm
@@ -51,6 +51,13 @@ works:
     date: '2026-10-03'
     code: 557444
     url: /works/557444/
+  - title: Okazu Touban no Seitai | What It Means to Please - An Audiovisual Report
+    author: kagto
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/598483.jpg
+    rating: 0.0
+    date: '2026-11-13'
+    code: 598483
+    url: /works/598483/
   - title: Josei no Kenri ga Ushinawareta Kuni  - The Country Where Women's Rights have
       been Lost 2
     author: mokataki

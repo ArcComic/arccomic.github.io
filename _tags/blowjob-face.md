@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "blowjob face"
-work_count: 94
+work_count: 95
 works:
   - title: Mama Naranai Onna-tachi Ch. 1-2
     author: otochichi
@@ -130,6 +130,13 @@ works:
     date: '2026-09-12'
     code: 597573
     url: /works/597573/
+  - title: Okazu Touban no Seitai | What It Means to Please - An Audiovisual Report
+    author: kagto
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/598483.jpg
+    rating: 0.0
+    date: '2026-11-13'
+    code: 598483
+    url: /works/598483/
   - title: Gal Mama SeFri - GAL MOTHER SEX FRIEND
     author: nitake-yutamaro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/603141.jpg

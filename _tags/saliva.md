@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "saliva"
-work_count: 13
+work_count: 14
 works:
   - title: Shinchou 211cm no Jirai-kei Joshi ni Nerawarete Mou Nigerarenai | A 211cm
       Tall Jirai-kei Girl Has Her Eyes on Me, and I Can't Escape♡
@@ -25,6 +25,13 @@ works:
     date: '2026-11-10'
     code: 597906
     url: /works/597906/
+  - title: Okazu Touban no Seitai | What It Means to Please - An Audiovisual Report
+    author: kagto
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/598483.jpg
+    rating: 0.0
+    date: '2026-11-13'
+    code: 598483
+    url: /works/598483/
   - title: Kaneda wa nani mo warukunai Vol.3
     author: haruharudo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/641456.jpg

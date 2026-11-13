@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole male"
-work_count: 1201
+work_count: 1202
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -8915,6 +8915,13 @@ works:
     date: '2026-11-13'
     code: 696115
     url: /works/696115/
+  - title: '"Sekai no Owarix" o Shiyou | Let''s have "end-of-the-world sex."'
+    author: yonayona
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696362.jpg
+    rating: 0.0
+    date: '2026-11-13'
+    code: 696362
+    url: /works/696362/
   - title: Ranko-ppoi no! | Ranko-Ish!
     author: napata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/87393.jpg

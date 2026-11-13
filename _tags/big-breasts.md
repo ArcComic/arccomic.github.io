@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big breasts"
-work_count: 1453
+work_count: 1455
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -3349,6 +3349,13 @@ works:
     date: '2026-05-10'
     code: 598156
     url: /works/598156/
+  - title: Okazu Touban no Seitai | What It Means to Please - An Audiovisual Report
+    author: kagto
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/598483.jpg
+    rating: 0.0
+    date: '2026-11-13'
+    code: 598483
+    url: /works/598483/
   - title: Side Sex
     author: nekoi-mie
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/598715.jpg
@@ -10760,6 +10767,13 @@ works:
     date: '2026-11-13'
     code: 696115
     url: /works/696115/
+  - title: '"Sekai no Owarix" o Shiyou | Let''s have "end-of-the-world sex."'
+    author: yonayona
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696362.jpg
+    rating: 0.0
+    date: '2026-11-13'
+    code: 696362
+    url: /works/696362/
   - title: Hottokenaino
     author: hara-shigeyuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/77864.jpg

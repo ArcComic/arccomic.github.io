@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole female"
-work_count: 1266
+work_count: 1268
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -3542,6 +3542,13 @@ works:
     date: '2026-04-23'
     code: 598175
     url: /works/598175/
+  - title: Okazu Touban no Seitai | What It Means to Please - An Audiovisual Report
+    author: kagto
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/598483.jpg
+    rating: 0.0
+    date: '2026-11-13'
+    code: 598483
+    url: /works/598483/
   - title: Maid no Kirina wa Bouchama ni Tsukushitai | Maid Kirina is Devoted to her
       Young Master
     author: kuroshiro-neko
@@ -9383,6 +9390,13 @@ works:
     date: '2026-11-13'
     code: 696115
     url: /works/696115/
+  - title: '"Sekai no Owarix" o Shiyou | Let''s have "end-of-the-world sex."'
+    author: yonayona
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696362.jpg
+    rating: 0.0
+    date: '2026-11-13'
+    code: 696362
+    url: /works/696362/
   - title: Ranko-ppoi no! | Ranko-Ish!
     author: napata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/87393.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "story rich"
-work_count: 6
+work_count: 7
 works:
   - title: Konki Girigiri Sister, Semete Shojo wo Sutetai | If I Can't Be Married At
       Least Let Me Quit Being a Virgin
@@ -47,4 +47,11 @@ works:
     date: '2026-05-01'
     code: 646757
     url: /works/646757/
+  - title: '"Sekai no Owarix" o Shiyou | Let''s have "end-of-the-world sex."'
+    author: yonayona
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696362.jpg
+    rating: 0.0
+    date: '2026-11-13'
+    code: 696362
+    url: /works/696362/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "group"
-work_count: 317
+work_count: 318
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -585,6 +585,13 @@ works:
     date: '2026-07-13'
     code: 598010
     url: /works/598010/
+  - title: Okazu Touban no Seitai | What It Means to Please - An Audiovisual Report
+    author: kagto
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/598483.jpg
+    rating: 0.0
+    date: '2026-11-13'
+    code: 598483
+    url: /works/598483/
   - title: Side Sex
     author: nekoi-mie
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/598715.jpg

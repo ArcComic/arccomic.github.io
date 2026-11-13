@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "beauty mark"
-work_count: 252
+work_count: 254
 works:
   - title: Uragiri no Ai wa Mitsu no Aji | Treacherous Love Tastes Like Honey
     author: cuzukago
@@ -800,6 +800,13 @@ works:
     date: '2026-09-24'
     code: 598084
     url: /works/598084/
+  - title: Okazu Touban no Seitai | What It Means to Please - An Audiovisual Report
+    author: kagto
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/598483.jpg
+    rating: 0.0
+    date: '2026-11-13'
+    code: 598483
+    url: /works/598483/
   - title: Nagoriyuki | Fleeting Snow
     author: yd
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/599778.jpg
@@ -1874,4 +1881,11 @@ works:
     date: '2026-11-11'
     code: 695890
     url: /works/695890/
+  - title: '"Sekai no Owarix" o Shiyou | Let''s have "end-of-the-world sex."'
+    author: yonayona
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696362.jpg
+    rating: 0.0
+    date: '2026-11-13'
+    code: 696362
+    url: /works/696362/
 ---
