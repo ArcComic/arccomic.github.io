@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "shotacon"
-work_count: 171
+work_count: 172
 works:
   - title: Okki na Kanojo ni Amaetai | I want to be pampered by a girl of generous girth
     author: higashino-mikan
@@ -534,6 +534,13 @@ works:
     date: '2026-07-17'
     code: 632056
     url: /works/632056/
+  - title: Making a baby with my mom at the public bath
+    author: resoman-manga-koubou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/634067.jpg
+    rating: 0.0
+    date: '2026-11-13'
+    code: 634067
+    url: /works/634067/
   - title: Boku no Mama wa Otouto no Mae de dake Dosukebe ni Naru｜My Mom Turns Into
       a Slut for My Little Brother, and Him Alone
     author: asahina-hikage

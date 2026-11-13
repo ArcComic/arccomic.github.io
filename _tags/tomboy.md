@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "tomboy"
-work_count: 91
+work_count: 92
 works:
   - title: Kizashi
     author: yoshiura-kazuya
@@ -221,6 +221,13 @@ works:
     date: '2026-09-04'
     code: 544274
     url: /works/544274/
+  - title: Hatoba-san to Saruyama-kun | Hatoba and Saruyama
+    author: gurida-soumu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/555984.jpg
+    rating: 0.0
+    date: '2026-11-13'
+    code: 555984
+    url: /works/555984/
   - title: Saikai shita Osananajimi to Issen o Koecchau Hanashi | I Reunited With My
       Longtime Friend and Crossed the Line
     author: satsuki-usa

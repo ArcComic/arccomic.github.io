@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "footjob"
-work_count: 49
+work_count: 50
 works:
   - title: Sei no Kenryoku | The Power of Sex
     author: tomohiro-kai
@@ -81,6 +81,13 @@ works:
     date: '2026-11-10'
     code: 589792
     url: /works/589792/
+  - title: Osananajimi no Himitsu 3 | My childhood friend's secret 3
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/626684.jpg
+    rating: 0.0
+    date: '2026-11-13'
+    code: 626684
+    url: /works/626684/
   - title: '"Tokutai" Sei ni Natta node, Shouwaru Gal o Shimei Shimasu! -Itsumo Tsukue
       ni Ketsu o Nosetekuru Umezu-san- | Now That I’m a ''Special Treatment'' Student,
       I’ll Choose the Ill-natured Gyaru! -Umezu-san, Who Always Puts Her Ass on My Desk-'

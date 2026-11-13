@@ -23,7 +23,7 @@ works:
     url: /works/577519/
   - title: Okane no Kankei dakara
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638321.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-11-12'
     code: 638321
     url: /works/638321/

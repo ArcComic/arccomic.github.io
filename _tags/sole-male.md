@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole male"
-work_count: 1197
+work_count: 1199
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -2551,6 +2551,13 @@ works:
     date: '2026-04-30'
     code: 555849
     url: /works/555849/
+  - title: Hatoba-san to Saruyama-kun | Hatoba and Saruyama
+    author: gurida-soumu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/555984.jpg
+    rating: 0.0
+    date: '2026-11-13'
+    code: 555984
+    url: /works/555984/
   - title: Automatic Romantic
     author: naganeko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/556036.jpg
@@ -3922,6 +3929,13 @@ works:
     date: '2026-07-09'
     code: 633938
     url: /works/633938/
+  - title: Making a baby with my mom at the public bath
+    author: resoman-manga-koubou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/634067.jpg
+    rating: 0.0
+    date: '2026-11-13'
+    code: 634067
+    url: /works/634067/
   - title: 2-nen C-gumi Gakuen Oppabu no Cast ni Imouto ga Ita | My Little Sister Was
       a Hostess at Class 2-C's School Festival Boobs Bar
     author: bunapi-397-yen
@@ -8600,7 +8614,7 @@ works:
   - title: Darashina Neko no Okiyome xxx | Sloppy Cat’s XXX Purification
     author: gurida-soumu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/692083.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-11-12'
     code: 692083
     url: /works/692083/
@@ -8802,7 +8816,7 @@ works:
   - title: Yari-chin Shirou!
     author: tumami
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695662.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-11-12'
     code: 695662
     url: /works/695662/

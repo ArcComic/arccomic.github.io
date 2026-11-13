@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "dark skin"
-work_count: 198
+work_count: 199
 works:
   - title: Birthday
     author: hashiba-yachi
@@ -372,6 +372,13 @@ works:
     date: '2026-07-16'
     code: 555816
     url: /works/555816/
+  - title: Hatoba-san to Saruyama-kun | Hatoba and Saruyama
+    author: gurida-soumu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/555984.jpg
+    rating: 0.0
+    date: '2026-11-13'
+    code: 555984
+    url: /works/555984/
   - title: Houkai Kazoku -Hahaoya ga Yakuza to no Sex ni Hamatta Hanashi- | Broken Family
       - A Story About a Mother Who Became Addicted to Sex With a Yakuza
     author: watsondou
@@ -1421,7 +1428,7 @@ works:
   - title: Yari-chin Shirou!
     author: tumami
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695662.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-11-12'
     code: 695662
     url: /works/695662/

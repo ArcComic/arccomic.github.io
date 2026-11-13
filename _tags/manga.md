@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "manga"
-work_count: 448
+work_count: 449
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -1256,6 +1256,13 @@ works:
     date: '2026-04-30'
     code: 555849
     url: /works/555849/
+  - title: Hatoba-san to Saruyama-kun | Hatoba and Saruyama
+    author: gurida-soumu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/555984.jpg
+    rating: 0.0
+    date: '2026-11-13'
+    code: 555984
+    url: /works/555984/
   - title: Iiwa Watashi no Karada Suki ni Shite Ch.1-2
     author: shunjou-shuusuke
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/561787.jpg
@@ -3124,7 +3131,7 @@ works:
   - title: Darashina Neko no Okiyome xxx | Sloppy Cat’s XXX Purification
     author: gurida-soumu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/692083.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-11-12'
     code: 692083
     url: /works/692083/

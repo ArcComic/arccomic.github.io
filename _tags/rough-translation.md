@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "rough translation"
-work_count: 826
+work_count: 827
 works:
   - title: Boku no Shiranai Kimi no Kao
     author: utsutsu-minoru
@@ -1234,6 +1234,13 @@ works:
     date: '2026-07-09'
     code: 633938
     url: /works/633938/
+  - title: Making a baby with my mom at the public bath
+    author: resoman-manga-koubou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/634067.jpg
+    rating: 0.0
+    date: '2026-11-13'
+    code: 634067
+    url: /works/634067/
   - title: The Big-Breasted Lady at the Delivery Destination Is Way Too Lewd
     author: nishibi-mitsuba
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/634156.jpg
@@ -1397,7 +1404,7 @@ works:
   - title: Okane no Kankei dakara
     author: muripoyo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638321.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-11-12'
     code: 638321
     url: /works/638321/
@@ -5973,7 +5980,7 @@ works:
   - title: Yari-chin Shirou!
     author: tumami
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695662.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-11-12'
     code: 695662
     url: /works/695662/

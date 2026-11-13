@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "condom"
-work_count: 285
+work_count: 286
 works:
   - title: Kaisha de Iroiro | Gettin' Busy at the Office
     author: hara-shigeyuki
@@ -1021,6 +1021,13 @@ works:
     date: '2026-09-04'
     code: 625933
     url: /works/625933/
+  - title: Osananajimi no Himitsu 3 | My childhood friend's secret 3
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/626684.jpg
+    rating: 0.0
+    date: '2026-11-13'
+    code: 626684
+    url: /works/626684/
   - title: Hanagasa YuShizu Soushuuhen
     author: orihi-chihiro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/629945.jpg

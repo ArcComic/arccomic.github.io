@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "netorare"
-work_count: 528
+work_count: 529
 works:
   - title: Kousa suru Osu to Mesu | Male and Female Crossing
     author: ootsuka-kotora
@@ -1533,6 +1533,13 @@ works:
     date: '2026-09-30'
     code: 624848
     url: /works/624848/
+  - title: Osananajimi no Himitsu 3 | My childhood friend's secret 3
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/626684.jpg
+    rating: 0.0
+    date: '2026-11-13'
+    code: 626684
+    url: /works/626684/
   - title: The Story of How My Brain Was Destroyed After Dating Someone Who Would Grant
       Any Request
     author: jakky
@@ -1719,7 +1726,7 @@ works:
   - title: Okane no Kankei dakara
     author: muripoyo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638321.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-11-12'
     code: 638321
     url: /works/638321/

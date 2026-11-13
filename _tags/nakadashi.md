@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "nakadashi"
-work_count: 1103
+work_count: 1105
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -2066,6 +2066,13 @@ works:
     date: '2026-07-16'
     code: 555816
     url: /works/555816/
+  - title: Hatoba-san to Saruyama-kun | Hatoba and Saruyama
+    author: gurida-soumu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/555984.jpg
+    rating: 0.0
+    date: '2026-11-13'
+    code: 555984
+    url: /works/555984/
   - title: Automatic Romantic
     author: naganeko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/556036.jpg
@@ -3227,6 +3234,13 @@ works:
     date: '2026-09-18'
     code: 625984
     url: /works/625984/
+  - title: Osananajimi no Himitsu 3 | My childhood friend's secret 3
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/626684.jpg
+    rating: 0.0
+    date: '2026-11-13'
+    code: 626684
+    url: /works/626684/
   - title: TS Onii-chan ga Futanari Imouto ni Mesuochi Saserareru Hanashi
     author: kuroshiba-suko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/627260.jpg
@@ -7879,7 +7893,7 @@ works:
   - title: Darashina Neko no Okiyome xxx | Sloppy Cat’s XXX Purification
     author: gurida-soumu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/692083.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-11-12'
     code: 692083
     url: /works/692083/

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "small penis"
-work_count: 33
+work_count: 34
 works:
   - title: Toshoshitsu no Kanojo 3~Seiso na Kimi ga Ochiru made~
     author: ame-arare
@@ -60,6 +60,13 @@ works:
     date: '2026-07-17'
     code: 585515
     url: /works/585515/
+  - title: Osananajimi no Himitsu 3 | My childhood friend's secret 3
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/626684.jpg
+    rating: 0.0
+    date: '2026-11-13'
+    code: 626684
+    url: /works/626684/
   - title: Boku no Toshiue no Tomodachi | My Older Friend
     author: buta
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/631036.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "full color"
-work_count: 310
+work_count: 311
 works:
   - title: Pai☆Panic ~Hasamareta Dekapai~
     author: inkey
@@ -1085,6 +1085,13 @@ works:
     date: '2026-09-11'
     code: 626580
     url: /works/626580/
+  - title: Osananajimi no Himitsu 3 | My childhood friend's secret 3
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/626684.jpg
+    rating: 0.0
+    date: '2026-11-13'
+    code: 626684
+    url: /works/626684/
   - title: Boshi Koubi Shinai to Sumenai Tokoro | A Place Where You Can't Live Unless
       You Have Sex With Your Mother
     author: kumo-no-ito
@@ -2257,7 +2264,7 @@ works:
   - title: Yari-chin Shirou!
     author: tumami
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695662.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-11-12'
     code: 695662
     url: /works/695662/

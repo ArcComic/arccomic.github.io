@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "eye-covering bang"
-work_count: 105
+work_count: 106
 works:
   - title: Kanojo no Amai Jiraishuu
     author: jirou
@@ -140,6 +140,13 @@ works:
     date: '2026-09-04'
     code: 542190
     url: /works/542190/
+  - title: Hatoba-san to Saruyama-kun | Hatoba and Saruyama
+    author: gurida-soumu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/555984.jpg
+    rating: 0.0
+    date: '2026-11-13'
+    code: 555984
+    url: /works/555984/
   - title: Onna Kishi Rize wa Koyoi mo Maotoko ni Dakareru 3
     author: akire
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/564863.jpg
@@ -733,7 +740,7 @@ works:
   - title: Darashina Neko no Okiyome xxx | Sloppy Cat’s XXX Purification
     author: gurida-soumu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/692083.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-11-12'
     code: 692083
     url: /works/692083/

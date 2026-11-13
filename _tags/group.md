@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "group"
-work_count: 315
+work_count: 316
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -687,6 +687,13 @@ works:
     date: '2026-09-29'
     code: 622211
     url: /works/622211/
+  - title: Osananajimi no Himitsu 3 | My childhood friend's secret 3
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/626684.jpg
+    rating: 0.0
+    date: '2026-11-13'
+    code: 626684
+    url: /works/626684/
   - title: Succubus Seitokai Shiko Shiko Shikkoubu 3 | Succubus Student Council Milking
       Club 3
     author: michiking

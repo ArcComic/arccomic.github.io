@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big breasts"
-work_count: 1447
+work_count: 1449
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -3915,6 +3915,13 @@ works:
     date: '2026-09-11'
     code: 626580
     url: /works/626580/
+  - title: Osananajimi no Himitsu 3 | My childhood friend's secret 3
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/626684.jpg
+    rating: 0.0
+    date: '2026-11-13'
+    code: 626684
+    url: /works/626684/
   - title: The Story of How My Brain Was Destroyed After Dating Someone Who Would Grant
       Any Request
     author: jakky
@@ -4173,6 +4180,13 @@ works:
     date: '2026-10-26'
     code: 633983
     url: /works/633983/
+  - title: Making a baby with my mom at the public bath
+    author: resoman-manga-koubou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/634067.jpg
+    rating: 0.0
+    date: '2026-11-13'
+    code: 634067
+    url: /works/634067/
   - title: 2-nen C-gumi Gakuen Oppabu no Cast ni Imouto ga Ita | My Little Sister Was
       a Hostess at Class 2-C's School Festival Boobs Bar
     author: bunapi-397-yen
@@ -4452,7 +4466,7 @@ works:
   - title: Okane no Kankei dakara
     author: muripoyo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638321.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-11-12'
     code: 638321
     url: /works/638321/
@@ -10337,7 +10351,7 @@ works:
   - title: Darashina Neko no Okiyome xxx | Sloppy Cat’s XXX Purification
     author: gurida-soumu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/692083.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-11-12'
     code: 692083
     url: /works/692083/
@@ -10619,7 +10633,7 @@ works:
   - title: Yari-chin Shirou!
     author: tumami
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695662.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-11-12'
     code: 695662
     url: /works/695662/

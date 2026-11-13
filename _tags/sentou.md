@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "sentou"
-work_count: 4
+work_count: 5
 works:
+  - title: Making a baby with my mom at the public bath
+    author: resoman-manga-koubou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/634067.jpg
+    rating: 0.0
+    date: '2026-11-13'
+    code: 634067
+    url: /works/634067/
   - title: Inaka ja Kore ga Joushiki dakara! | This Is Just How Things Are in the Countryside!
     author: chilt
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/646146.jpg

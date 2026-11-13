@@ -1,7 +1,7 @@
 ---
 layout: artist
 artist_name: "group"
-work_count: 46
+work_count: 47
 works:
   - title: Shitsurakuen | Paradise Lost
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/463749.jpg
@@ -81,6 +81,12 @@ works:
     date: '2026-04-23'
     code: 610041
     url: /works/610041/
+  - title: Osananajimi no Himitsu 3 | My childhood friend's secret 3
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/626684.jpg
+    rating: 0.0
+    date: '2026-11-13'
+    code: 626684
+    url: /works/626684/
   - title: Daddy's Forgotten Life Purpose
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/631630.jpg
     rating: 4.3

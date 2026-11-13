@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "resoman manga koubou"
-work_count: 1
+work_count: 2
 works:
+  - title: Making a baby with my mom at the public bath
+    author: resoman-manga-koubou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/634067.jpg
+    rating: 0.0
+    date: '2026-11-13'
+    code: 634067
+    url: /works/634067/
   - title: jitsuroku !! onna kyōshi ni te kagome ni sareta boku -- True Story!! I Was
       Raped By A Female Teacher
     author: resoman-manga-koubou

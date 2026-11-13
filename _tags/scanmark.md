@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "scanmark"
-work_count: 285
+work_count: 286
 works:
   - title: NTR Anniversary + ) [Syukurin] Mitsuha ~Netorare~ (Kimi no Na wa.) [English]
       [Colorized] by Mikaku
@@ -251,6 +251,13 @@ works:
     date: '2026-07-09'
     code: 633938
     url: /works/633938/
+  - title: Making a baby with my mom at the public bath
+    author: resoman-manga-koubou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/634067.jpg
+    rating: 0.0
+    date: '2026-11-13'
+    code: 634067
+    url: /works/634067/
   - title: Seishokuki Aliens Meet Girls Vol. 4
     author: alto-seneka
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/634489.jpg
@@ -356,7 +363,7 @@ works:
   - title: Okane no Kankei dakara
     author: muripoyo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638321.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-11-12'
     code: 638321
     url: /works/638321/

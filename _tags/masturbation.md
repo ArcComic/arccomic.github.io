@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "masturbation"
-work_count: 198
+work_count: 199
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -594,6 +594,13 @@ works:
     date: '2026-09-30'
     code: 624848
     url: /works/624848/
+  - title: Osananajimi no Himitsu 3 | My childhood friend's secret 3
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/626684.jpg
+    rating: 0.0
+    date: '2026-11-13'
+    code: 626684
+    url: /works/626684/
   - title: i no Mikkai -i no Shissou 3- | The Secret Meeting of "i" — The Disappearance
       of "i" 3
     author: kawauchi

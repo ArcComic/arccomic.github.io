@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "virginity"
-work_count: 193
+work_count: 194
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -520,6 +520,13 @@ works:
     date: '2026-03-04'
     code: 553903
     url: /works/553903/
+  - title: Hatoba-san to Saruyama-kun | Hatoba and Saruyama
+    author: gurida-soumu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/555984.jpg
+    rating: 0.0
+    date: '2026-11-13'
+    code: 555984
+    url: /works/555984/
   - title: Boku no Kimochi o Mote Asobu Doutei Kari Onee-san ni Shiboraremakuru Hanashi  |
       The Story of When a Virgin-Hunter Lady Played with My Feelings and Sucked Me Dry
     author: menbou
@@ -1408,7 +1415,7 @@ works:
   - title: Darashina Neko no Okiyome xxx | Sloppy Cat’s XXX Purification
     author: gurida-soumu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/692083.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-11-12'
     code: 692083
     url: /works/692083/
