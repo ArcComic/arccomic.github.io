@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole female"
-work_count: 1263
+work_count: 1265
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -2549,6 +2549,13 @@ works:
     date: '2026-10-20'
     code: 541582
     url: /works/541582/
+  - title: Kanojo Netorase Isshuukan | One Week of Letting My Girlfriend Be Taken
+    author: muripoyo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/541673.jpg
+    rating: 0.0
+    date: '2026-11-13'
+    code: 541673
+    url: /works/541673/
   - title: Jimime na Kurokami Elf-chan ga Ecchi na Massage-ten de Seikantai Kaihatsu
       Sarechau Ohanashi | A Plain Jane Elf's Sexy Adventure at a Massage Clinic
     author: akane
@@ -9311,6 +9318,13 @@ works:
     date: '2026-11-10'
     code: 695711
     url: /works/695711/
+  - title: Otona ni Naru made Matenai kara. | I Can't Wait Until I'm an Adult
+    author: toyosaki-shu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695830.jpg
+    rating: 0.0
+    date: '2026-11-13'
+    code: 695830
+    url: /works/695830/
   - title: Gohoubi ni Nandemo Onegai o Kiitekureru Kuro Gal Seitokai Yakuin | The Dark-Skinned
       Gyaru Sexual Council Officer Who Will Grant Any Request As A Reward
     author: kanna-kisaragi-kanna

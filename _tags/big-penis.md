@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big penis"
-work_count: 348
+work_count: 349
 works:
   - title: Tsuma no Imouto no Danna ga Ie ni Kiteiruyoudesu | My Sister-In-Law's Husband
       is Over
@@ -367,6 +367,13 @@ works:
     date: '2026-09-29'
     code: 541130
     url: /works/541130/
+  - title: Kanojo Netorase Isshuukan | One Week of Letting My Girlfriend Be Taken
+    author: muripoyo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/541673.jpg
+    rating: 0.0
+    date: '2026-11-13'
+    code: 541673
+    url: /works/541673/
   - title: Papa wa Make Osu | Papa is a Loser
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/543091.jpg

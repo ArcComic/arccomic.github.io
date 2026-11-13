@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "prostitution"
-work_count: 96
+work_count: 97
 works:
   - title: Ikanishite Haha wa Onna o Kaihou Shitaka Ch. 1-14
     author: mitarai-yuuki
@@ -70,6 +70,13 @@ works:
     date: '2026-04-25'
     code: 388099
     url: /works/388099/
+  - title: Nee-sama ni Omakase | Leave It To Nee-sama
+    author: ueto-seri
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/392518.jpg
+    rating: 0.0
+    date: '2026-11-13'
+    code: 392518
+    url: /works/392518/
   - title: Sakusei Kaitori Service | Sperm Buying Service
     author: minato-yuu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/392556.jpg

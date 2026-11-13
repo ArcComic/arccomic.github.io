@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "hidden sex"
-work_count: 118
+work_count: 119
 works:
   - title: Tsutomesaki no Musume-san o Oishiku Itadaku Hon Minshuku Hen
     author: aya
@@ -254,6 +254,13 @@ works:
     date: '2026-07-11'
     code: 538553
     url: /works/538553/
+  - title: Kanojo Netorase Isshuukan | One Week of Letting My Girlfriend Be Taken
+    author: muripoyo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/541673.jpg
+    rating: 0.0
+    date: '2026-11-13'
+    code: 541673
+    url: /works/541673/
   - title: Kekkon 3-Nen Me no Tsuma wa, Shain Ryokou Chuu ni Otto no Yoko de Netorareru!
       1 | Netorare With a Busty Wife on a Company Trip 1
     author: aoi-shou

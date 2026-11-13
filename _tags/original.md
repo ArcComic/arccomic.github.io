@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "original"
-work_count: 1428
+work_count: 1429
 works:
   - title: Gokuusu Mizugi de Okasaretagari ga Kakusenai
     author: kekemotsu
@@ -2089,6 +2089,13 @@ works:
     date: '2026-10-20'
     code: 541582
     url: /works/541582/
+  - title: Kanojo Netorase Isshuukan | One Week of Letting My Girlfriend Be Taken
+    author: muripoyo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/541673.jpg
+    rating: 0.0
+    date: '2026-11-13'
+    code: 541673
+    url: /works/541673/
   - title: Jimime na Kurokami Elf-chan ga Ecchi na Massage-ten de Seikantai Kaihatsu
       Sarechau Ohanashi | A Plain Jane Elf's Sexy Adventure at a Massage Clinic
     author: akane

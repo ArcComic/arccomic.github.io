@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "small penis"
-work_count: 34
+work_count: 35
 works:
   - title: Toshoshitsu no Kanojo 3~Seiso na Kimi ga Ochiru made~
     author: ame-arare
@@ -32,6 +32,13 @@ works:
     date: '2026-07-11'
     code: 531966
     url: /works/531966/
+  - title: Kanojo Netorase Isshuukan | One Week of Letting My Girlfriend Be Taken
+    author: muripoyo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/541673.jpg
+    rating: 0.0
+    date: '2026-11-13'
+    code: 541673
+    url: /works/541673/
   - title: Papa wa Make Osu | Papa is a Loser
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/543091.jpg

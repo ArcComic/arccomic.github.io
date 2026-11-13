@@ -1,7 +1,7 @@
 ---
 layout: artist
 artist_name: "muripoyo"
-work_count: 6
+work_count: 7
 works:
   - title: Tsuma ga Shachou ni Netorareru | My wife gets stolen by the President
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/496572.jpg
@@ -9,6 +9,12 @@ works:
     date: '2026-11-12'
     code: 496572
     url: /works/496572/
+  - title: Kanojo Netorase Isshuukan | One Week of Letting My Girlfriend Be Taken
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/541673.jpg
+    rating: 0.0
+    date: '2026-11-13'
+    code: 541673
+    url: /works/541673/
   - title: Osananajimi no Himitsu | My Childhood Friend's Secret
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/563149.jpg
     rating: 4.0

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "orgasm denial"
-work_count: 23
+work_count: 24
 works:
   - title: Ayami Hypno
     author: yasuhiro
@@ -61,6 +61,13 @@ works:
     date: '2026-04-27'
     code: 416883
     url: /works/416883/
+  - title: Kanojo Netorase Isshuukan | One Week of Letting My Girlfriend Be Taken
+    author: muripoyo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/541673.jpg
+    rating: 0.0
+    date: '2026-11-13'
+    code: 541673
+    url: /works/541673/
   - title: Shasei Gamanshinai to Derarenai Burakku Kigyou | A Black Company Where You
       Have To Hold Your Ejaculation To Get Out
     author: keikouon

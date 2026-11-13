@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "muripoyo"
-work_count: 9
+work_count: 10
 works:
   - title: Tsuma ga Shachou ni Netorareru | My wife gets stolen by the President
     author: muripoyo
@@ -10,6 +10,13 @@ works:
     date: '2026-11-12'
     code: 496572
     url: /works/496572/
+  - title: Kanojo Netorase Isshuukan | One Week of Letting My Girlfriend Be Taken
+    author: muripoyo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/541673.jpg
+    rating: 0.0
+    date: '2026-11-13'
+    code: 541673
+    url: /works/541673/
   - title: Papa wa Make Osu | Papa is a Loser
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/543091.jpg

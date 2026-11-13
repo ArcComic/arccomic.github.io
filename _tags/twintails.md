@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "twintails"
-work_count: 163
+work_count: 165
 works:
   - title: Sensei wa Shougakusei ga Suki | Sensei Loves Elementary Schoolers
     author: fuyuno-mikan
@@ -202,6 +202,13 @@ works:
     date: '2026-10-07'
     code: 537946
     url: /works/537946/
+  - title: Kanojo Netorase Isshuukan | One Week of Letting My Girlfriend Be Taken
+    author: muripoyo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/541673.jpg
+    rating: 0.0
+    date: '2026-11-13'
+    code: 541673
+    url: /works/541673/
   - title: Renai Soudan nante Hobo Sex desu yo ne!? ～Akuyuu Kouhai to Issen Koete Yarimakuru
       Hanashi～
     author: menbou
@@ -1196,6 +1203,13 @@ works:
     date: '2026-11-11'
     code: 695467
     url: /works/695467/
+  - title: Otona ni Naru made Matenai kara. | I Can't Wait Until I'm an Adult
+    author: toyosaki-shu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695830.jpg
+    rating: 0.0
+    date: '2026-11-13'
+    code: 695830
+    url: /works/695830/
   - title: Houkago Houshi-bu (Kari) ~Seifu Kounin!? Kyoushi Senyou Gakuen Fuuzoku~ |
       After-School Service Club (Provisional) ~Government Approved!? Teachers-Only School
       Brothel~

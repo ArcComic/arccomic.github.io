@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "english"
-work_count: 2114
+work_count: 2117
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -1340,6 +1340,13 @@ works:
     date: '2026-04-30'
     code: 392475
     url: /works/392475/
+  - title: Nee-sama ni Omakase | Leave It To Nee-sama
+    author: ueto-seri
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/392518.jpg
+    rating: 0.0
+    date: '2026-11-13'
+    code: 392518
+    url: /works/392518/
   - title: Sakusei Kaitori Service | Sperm Buying Service
     author: minato-yuu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/392556.jpg
@@ -3792,6 +3799,13 @@ works:
     date: '2026-04-19'
     code: 541631
     url: /works/541631/
+  - title: Kanojo Netorase Isshuukan | One Week of Letting My Girlfriend Be Taken
+    author: muripoyo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/541673.jpg
+    rating: 0.0
+    date: '2026-11-13'
+    code: 541673
+    url: /works/541673/
   - title: Jimime na Kurokami Elf-chan ga Ecchi na Massage-ten de Seikantai Kaihatsu
       Sarechau Ohanashi | A Plain Jane Elf's Sexy Adventure at a Massage Clinic
     author: akane
@@ -15461,6 +15475,13 @@ works:
     date: '2026-11-10'
     code: 695711
     url: /works/695711/
+  - title: Otona ni Naru made Matenai kara. | I Can't Wait Until I'm an Adult
+    author: toyosaki-shu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695830.jpg
+    rating: 0.0
+    date: '2026-11-13'
+    code: 695830
+    url: /works/695830/
   - title: Gohoubi ni Nandemo Onegai o Kiitekureru Kuro Gal Seitokai Yakuin | The Dark-Skinned
       Gyaru Sexual Council Officer Who Will Grant Any Request As A Reward
     author: kanna-kisaragi-kanna
