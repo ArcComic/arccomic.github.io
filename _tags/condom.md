@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "condom"
-work_count: 290
+work_count: 291
 works:
   - title: Kaisha de Iroiro | Gettin' Busy at the Office
     author: hara-shigeyuki
@@ -1364,6 +1364,14 @@ works:
     date: '2026-05-07'
     code: 648551
     url: /works/648551/
+  - title: Musuko no Onani wo Kinshi Shitai Shin Mama no Hanashi | The Story of a Single
+      Mom Who Wants to Forbid Her Son from Masturbating
+    author: resoman-manga-koubou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/648743.jpg
+    rating: 0.0
+    date: '2026-11-13'
+    code: 648743
+    url: /works/648743/
   - title: Trop 1 ~ Onabare Hitozuma no Sango Shojo o Itadakimasu~ | Trop 1 ~ I'll Take
       the Post-Birth Virginity of a Married Woman Whose Masturbation Was Exposed~
     author: higashide-irodori

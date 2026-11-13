@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "english"
-work_count: 2122
+work_count: 2124
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -1583,6 +1583,13 @@ works:
     date: '2026-10-15'
     code: 411246
     url: /works/411246/
+  - title: Black President ~Shain no Hangyaku~
+    author: mikarin
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/411584.jpg
+    rating: 0.0
+    date: '2026-11-13'
+    code: 411584
+    url: /works/411584/
   - title: 'Knocked Up Samurai 02: The Post Town and the Ronin, Tied and Teased'
     author: kakutou-oukoku
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/412135.jpg
@@ -7949,6 +7956,14 @@ works:
     date: '2026-10-01'
     code: 648730
     url: /works/648730/
+  - title: Musuko no Onani wo Kinshi Shitai Shin Mama no Hanashi | The Story of a Single
+      Mom Who Wants to Forbid Her Son from Masturbating
+    author: resoman-manga-koubou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/648743.jpg
+    rating: 0.0
+    date: '2026-11-13'
+    code: 648743
+    url: /works/648743/
   - title: Shirayuki Mishiro & Enomiya Milk Saimin Sakunyuu Play Hon Matome
     author: rurimaru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/648800.jpg

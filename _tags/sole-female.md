@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole female"
-work_count: 1268
+work_count: 1270
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -1126,6 +1126,13 @@ works:
     date: '2026-03-05'
     code: 409929
     url: /works/409929/
+  - title: Black President ~Shain no Hangyaku~
+    author: mikarin
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/411584.jpg
+    rating: 0.0
+    date: '2026-11-13'
+    code: 411584
+    url: /works/411584/
   - title: 'Knocked Up Samurai 02: The Post Town and the Ronin, Tied and Teased'
     author: kakutou-oukoku
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/412135.jpg
@@ -5230,6 +5237,14 @@ works:
     date: '2026-10-01'
     code: 648730
     url: /works/648730/
+  - title: Musuko no Onani wo Kinshi Shitai Shin Mama no Hanashi | The Story of a Single
+      Mom Who Wants to Forbid Her Son from Masturbating
+    author: resoman-manga-koubou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/648743.jpg
+    rating: 0.0
+    date: '2026-11-13'
+    code: 648743
+    url: /works/648743/
   - title: Trop 1 ~ Onabare Hitozuma no Sango Shojo o Itadakimasu~ | Trop 1 ~ I'll Take
       the Post-Birth Virginity of a Married Woman Whose Masturbation Was Exposed~
     author: higashide-irodori

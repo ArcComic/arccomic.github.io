@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "original"
-work_count: 1433
+work_count: 1434
 works:
   - title: Gokuusu Mizugi de Okasaretagari ga Kakusenai
     author: kekemotsu
@@ -5388,6 +5388,14 @@ works:
     date: '2026-09-30'
     code: 648591
     url: /works/648591/
+  - title: Musuko no Onani wo Kinshi Shitai Shin Mama no Hanashi | The Story of a Single
+      Mom Who Wants to Forbid Her Son from Masturbating
+    author: resoman-manga-koubou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/648743.jpg
+    rating: 0.0
+    date: '2026-11-13'
+    code: 648743
+    url: /works/648743/
   - title: Trop 1 ~ Onabare Hitozuma no Sango Shojo o Itadakimasu~ | Trop 1 ~ I'll Take
       the Post-Birth Virginity of a Married Woman Whose Masturbation Was Exposed~
     author: higashide-irodori

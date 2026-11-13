@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "rough translation"
-work_count: 829
+work_count: 830
 works:
   - title: Boku no Shiranai Kimi no Kao
     author: utsutsu-minoru
@@ -1921,6 +1921,14 @@ works:
     date: '2026-05-07'
     code: 648522
     url: /works/648522/
+  - title: Musuko no Onani wo Kinshi Shitai Shin Mama no Hanashi | The Story of a Single
+      Mom Who Wants to Forbid Her Son from Masturbating
+    author: resoman-manga-koubou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/648743.jpg
+    rating: 0.0
+    date: '2026-11-13'
+    code: 648743
+    url: /works/648743/
   - title: Shirayuki Mishiro & Enomiya Milk Saimin Sakunyuu Play Hon Matome
     author: rurimaru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/648800.jpg

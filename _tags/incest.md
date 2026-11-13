@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "incest"
-work_count: 383
+work_count: 384
 works:
   - title: Imitation Family + Bigibo Hen
     author: tohzai
@@ -1481,6 +1481,14 @@ works:
     date: '2026-05-07'
     code: 648522
     url: /works/648522/
+  - title: Musuko no Onani wo Kinshi Shitai Shin Mama no Hanashi | The Story of a Single
+      Mom Who Wants to Forbid Her Son from Masturbating
+    author: resoman-manga-koubou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/648743.jpg
+    rating: 0.0
+    date: '2026-11-13'
+    code: 648743
+    url: /works/648743/
   - title: Inkan no Ketsuzoku 1-3
     author: diisuke
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651242.jpg

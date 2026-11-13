@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "mother"
-work_count: 218
+work_count: 219
 works:
   - title: Imitation Family + Bigibo Hen
     author: tohzai
@@ -932,6 +932,14 @@ works:
     date: '2026-07-17'
     code: 648073
     url: /works/648073/
+  - title: Musuko no Onani wo Kinshi Shitai Shin Mama no Hanashi | The Story of a Single
+      Mom Who Wants to Forbid Her Son from Masturbating
+    author: resoman-manga-koubou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/648743.jpg
+    rating: 0.0
+    date: '2026-11-13'
+    code: 648743
+    url: /works/648743/
   - title: Tomodachi no Mama ga Boku no Dekachin de Ikimakutta Omoide
     author: rk-2
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/650138.jpg

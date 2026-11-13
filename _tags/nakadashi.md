@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "nakadashi"
-work_count: 1109
+work_count: 1111
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -694,6 +694,13 @@ works:
     date: '2026-10-15'
     code: 410909
     url: /works/410909/
+  - title: Black President ~Shain no Hangyaku~
+    author: mikarin
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/411584.jpg
+    rating: 0.0
+    date: '2026-11-13'
+    code: 411584
+    url: /works/411584/
   - title: Onee-san ga Iyashite Ageru Ch.1-6
     author: asagi-ryu-amano-miki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/412668.jpg
@@ -4521,6 +4528,14 @@ works:
     date: '2026-10-01'
     code: 648730
     url: /works/648730/
+  - title: Musuko no Onani wo Kinshi Shitai Shin Mama no Hanashi | The Story of a Single
+      Mom Who Wants to Forbid Her Son from Masturbating
+    author: resoman-manga-koubou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/648743.jpg
+    rating: 0.0
+    date: '2026-11-13'
+    code: 648743
+    url: /works/648743/
   - title: You're My Doggy... Right? ~Pamper Loving Boyfriend Becomes A Wild Sadist
       Hound~
     author: the-waidan
