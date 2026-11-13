@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big penis"
-work_count: 349
+work_count: 351
 works:
   - title: Tsuma no Imouto no Danna ga Ie ni Kiteiruyoudesu | My Sister-In-Law's Husband
       is Over
@@ -167,6 +167,13 @@ works:
     date: '2026-09-23'
     code: 441828
     url: /works/441828/
+  - title: Ojou-sama to Maid o Iinazuke ni Torarete Okobore Ecchi suru Hanashi
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/459385.jpg
+    rating: 0.0
+    date: '2026-11-13'
+    code: 459385
+    url: /works/459385/
   - title: Niizuma Joushi wa Buka no Chinpo de Do-M Ochi
     author: chinpan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/464371.jpg
@@ -2612,4 +2619,12 @@ works:
     date: '2026-11-12'
     code: 696030
     url: /works/696030/
+  - title: A Story of Nonstop Lovey-Dovey H While Sucking My Younger, Big-Breasted Childhood
+      Friend's Breasts
+    author: agachi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696115.jpg
+    rating: 0.0
+    date: '2026-11-13'
+    code: 696115
+    url: /works/696115/
 ---

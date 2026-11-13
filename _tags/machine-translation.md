@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "machine translation"
-work_count: 42
+work_count: 43
 works:
   - title: My part-time coworker ran away from home and came to work here, but she was
       too sexy...
@@ -324,4 +324,11 @@ works:
     date: '2026-11-12'
     code: 693054
     url: /works/693054/
+  - title: Married Woman in Random Chat MTL
+    author: luxsumildo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696096.jpg
+    rating: 0.0
+    date: '2026-11-13'
+    code: 696096
+    url: /works/696096/
 ---

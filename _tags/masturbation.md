@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "masturbation"
-work_count: 200
+work_count: 202
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -183,6 +183,13 @@ works:
     date: '2026-04-23'
     code: 448503
     url: /works/448503/
+  - title: Ojou-sama to Maid o Iinazuke ni Torarete Okobore Ecchi suru Hanashi
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/459385.jpg
+    rating: 0.0
+    date: '2026-11-13'
+    code: 459385
+    url: /works/459385/
   - title: Ikiiki Dasshutsu Game with Chou Chirou Oji-san | Lively Escape Game with
       Super Late Ejaculation Ojisan
     author: minegami-aya
@@ -1492,4 +1499,12 @@ works:
     date: '2026-11-12'
     code: 696030
     url: /works/696030/
+  - title: A Story of Nonstop Lovey-Dovey H While Sucking My Younger, Big-Breasted Childhood
+      Friend's Breasts
+    author: agachi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696115.jpg
+    rating: 0.0
+    date: '2026-11-13'
+    code: 696115
+    url: /works/696115/
 ---

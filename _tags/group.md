@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "group"
-work_count: 316
+work_count: 317
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -247,6 +247,13 @@ works:
     date: '2026-04-23'
     code: 448503
     url: /works/448503/
+  - title: Ojou-sama to Maid o Iinazuke ni Torarete Okobore Ecchi suru Hanashi
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/459385.jpg
+    rating: 0.0
+    date: '2026-11-13'
+    code: 459385
+    url: /works/459385/
   - title: Tomodachi, Osananajimi mo Kaa-san mo Netorareru
     author: sink
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/460565.jpg

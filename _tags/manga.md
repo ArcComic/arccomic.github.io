@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "manga"
-work_count: 449
+work_count: 450
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -3205,6 +3205,13 @@ works:
     date: '2026-11-11'
     code: 695890
     url: /works/695890/
+  - title: Married Woman in Random Chat MTL
+    author: luxsumildo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696096.jpg
+    rating: 0.0
+    date: '2026-11-13'
+    code: 696096
+    url: /works/696096/
   - title: Hottokenaino
     author: hara-shigeyuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/77864.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "voyeurism"
-work_count: 80
+work_count: 81
 works:
   - title: Tsutomesaki no Musume-san o Oishiku Itadaku Hon Minshuku Hen
     author: aya
@@ -104,6 +104,13 @@ works:
     date: '2026-10-08'
     code: 457980
     url: /works/457980/
+  - title: Ojou-sama to Maid o Iinazuke ni Torarete Okobore Ecchi suru Hanashi
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/459385.jpg
+    rating: 0.0
+    date: '2026-11-13'
+    code: 459385
+    url: /works/459385/
   - title: Hypnotic Domination ~ The Fall of Tennis Club Ace ~
     author: danchino
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/461537.jpg

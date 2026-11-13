@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "original"
-work_count: 1429
+work_count: 1431
 works:
   - title: Gokuusu Mizugi de Okasaretagari ga Kakusenai
     author: kekemotsu
@@ -1011,6 +1011,13 @@ works:
     date: '2026-10-28'
     code: 459087
     url: /works/459087/
+  - title: Ojou-sama to Maid o Iinazuke ni Torarete Okobore Ecchi suru Hanashi
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/459385.jpg
+    rating: 0.0
+    date: '2026-11-13'
+    code: 459385
+    url: /works/459385/
   - title: Okaa-san ni Butsukenasai | Pounding Mom
     author: kumo-no-ito
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/459857.jpg
@@ -10652,4 +10659,12 @@ works:
     date: '2026-11-12'
     code: 696030
     url: /works/696030/
+  - title: A Story of Nonstop Lovey-Dovey H While Sucking My Younger, Big-Breasted Childhood
+      Friend's Breasts
+    author: agachi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696115.jpg
+    rating: 0.0
+    date: '2026-11-13'
+    code: 696115
+    url: /works/696115/
 ---

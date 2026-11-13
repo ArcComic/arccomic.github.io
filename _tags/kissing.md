@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "kissing"
-work_count: 515
+work_count: 516
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -3872,4 +3872,12 @@ works:
     date: '2026-11-11'
     code: 695946
     url: /works/695946/
+  - title: A Story of Nonstop Lovey-Dovey H While Sucking My Younger, Big-Breasted Childhood
+      Friend's Breasts
+    author: agachi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696115.jpg
+    rating: 0.0
+    date: '2026-11-13'
+    code: 696115
+    url: /works/696115/
 ---
