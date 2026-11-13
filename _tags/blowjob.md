@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "blowjob"
-work_count: 873
+work_count: 875
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -1025,6 +1025,13 @@ works:
     date: '2026-08-31'
     code: 494172
     url: /works/494172/
+  - title: Tsuma no Netorase | Wife’s Netorase
+    author: muripoyo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/494662.jpg
+    rating: 0.0
+    date: '2026-11-13'
+    code: 494662
+    url: /works/494662/
   - title: Nyuuin-chuu no Muramura wa...
     author: natsume-benkei
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/495599.jpg
@@ -1203,6 +1210,13 @@ works:
     date: '2026-10-07'
     code: 514517
     url: /works/514517/
+  - title: Doukyuusei Joshi no Iinari | As my female classmates says
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/515185.jpg
+    rating: 4.8
+    date: '2026-11-13'
+    code: 515185
+    url: /works/515185/
   - title: My part-time coworker ran away from home and came to work here, but she was
       too sexy...
     author: yamakonbu

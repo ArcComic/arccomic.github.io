@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "strap-on"
-work_count: 15
+work_count: 16
 works:
   - title: Shizukasu Utopia
     author: napo
@@ -17,6 +17,13 @@ works:
     date: '2026-11-10'
     code: 460241
     url: /works/460241/
+  - title: Tsuma no Netorase | Wife’s Netorase
+    author: muripoyo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/494662.jpg
+    rating: 0.0
+    date: '2026-11-13'
+    code: 494662
+    url: /works/494662/
   - title: Mayugomori 〜Nee ya to boku no midarana himegoto 〜 Ch.1-4
     author: mogiki-hayami
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/506317.jpg

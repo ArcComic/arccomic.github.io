@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole male"
-work_count: 1204
+work_count: 1205
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -4107,6 +4107,13 @@ works:
     date: '2026-10-07'
     code: 636417
     url: /works/636417/
+  - title: Oyako Nakadashi desugemu | Parent-Child Creampie Death Game
+    author: resoman-manga-koubou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/636516.jpg
+    rating: 0.0
+    date: '2026-11-13'
+    code: 636516
+    url: /works/636516/
   - title: I Want To See The Cool & Smart Guy's Face Warped in Humiliation
     author: the-waidan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/636751.jpg

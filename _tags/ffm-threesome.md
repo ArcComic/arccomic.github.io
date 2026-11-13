@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "ffm threesome"
-work_count: 184
+work_count: 185
 works:
   - title: Hustle! Danchizuma Ch. 1-18 END
     author: hidemaru
@@ -163,6 +163,13 @@ works:
     date: '2026-09-10'
     code: 511803
     url: /works/511803/
+  - title: Doukyuusei Joshi no Iinari | As my female classmates says
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/515185.jpg
+    rating: 4.8
+    date: '2026-11-13'
+    code: 515185
+    url: /works/515185/
   - title: MistakeR ~Jimi de Kyonyuu na Osananjimi wo Saimin Appli de Risou no Ero-gal
       ni Kaizou Shite Koibito ni Suru Keikaku~
     author: ueto-seri

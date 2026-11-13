@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sex toys"
-work_count: 163
+work_count: 164
 works:
   - title: Mama Naranai Onna-tachi Ch. 1-2
     author: otochichi
@@ -163,6 +163,13 @@ works:
     date: '2026-08-18'
     code: 511662
     url: /works/511662/
+  - title: Doukyuusei Joshi no Iinari | As my female classmates says
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/515185.jpg
+    rating: 4.8
+    date: '2026-11-13'
+    code: 515185
+    url: /works/515185/
   - title: My Friends Mom Is My Toy
     author: exit-up
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/521812.jpg

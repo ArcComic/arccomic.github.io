@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "condom"
-work_count: 291
+work_count: 293
 works:
   - title: Kaisha de Iroiro | Gettin' Busy at the Office
     author: hara-shigeyuki
@@ -513,6 +513,13 @@ works:
     date: '2026-03-09'
     code: 494440
     url: /works/494440/
+  - title: Tsuma no Netorase | Wife’s Netorase
+    author: muripoyo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/494662.jpg
+    rating: 0.0
+    date: '2026-11-13'
+    code: 494662
+    url: /works/494662/
   - title: Onozomi deshitara Saimin wo ~Maki-san Himitsu no Renai Therapy~ | If you
       wish, hypnosis ~Maki-san's secret love therapy~
     author: meeko
@@ -554,6 +561,13 @@ works:
     date: '2026-08-24'
     code: 508845
     url: /works/508845/
+  - title: Doukyuusei Joshi no Iinari | As my female classmates says
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/515185.jpg
+    rating: 4.8
+    date: '2026-11-13'
+    code: 515185
+    url: /works/515185/
   - title: Jackal to Pomeranian no Car Sex Suru Hon | The Jackal And The Pomeranian
       Have Some Car Sex
     author: igedoaha

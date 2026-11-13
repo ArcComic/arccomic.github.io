@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "english"
-work_count: 2124
+work_count: 2127
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -2614,6 +2614,13 @@ works:
     date: '2026-08-31'
     code: 494172
     url: /works/494172/
+  - title: Tsuma no Netorase | Wife’s Netorase
+    author: muripoyo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/494662.jpg
+    rating: 0.0
+    date: '2026-11-13'
+    code: 494662
+    url: /works/494662/
   - title: Gyakuten Enkou ~Ore ga Kawareru Sekai~ | Reversed Compensated Dating ~A World
       Where I Get Bought~
     author: nectar
@@ -3100,6 +3107,13 @@ works:
     date: '2026-10-07'
     code: 514517
     url: /works/514517/
+  - title: Doukyuusei Joshi no Iinari | As my female classmates says
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/515185.jpg
+    rating: 4.8
+    date: '2026-11-13'
+    code: 515185
+    url: /works/515185/
   - title: My part-time coworker ran away from home and came to work here, but she was
       too sexy...
     author: yamakonbu
@@ -6662,6 +6676,13 @@ works:
     date: '2026-10-07'
     code: 636417
     url: /works/636417/
+  - title: Oyako Nakadashi desugemu | Parent-Child Creampie Death Game
+    author: resoman-manga-koubou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/636516.jpg
+    rating: 0.0
+    date: '2026-11-13'
+    code: 636516
+    url: /works/636516/
   - title: Boku no Mama wa... - My mom... icharabu kinshin amaama comic | My mom is...
     author: yamaoku-midori
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/636527.jpg

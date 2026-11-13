@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "paizuri"
-work_count: 308
+work_count: 309
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -298,6 +298,13 @@ works:
     date: '2026-08-31'
     code: 494172
     url: /works/494172/
+  - title: Tsuma no Netorase | Wife’s Netorase
+    author: muripoyo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/494662.jpg
+    rating: 0.0
+    date: '2026-11-13'
+    code: 494662
+    url: /works/494662/
   - title: I Turned Into a Sexual Relief Maid
     author: kanmuri
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/497994.jpg

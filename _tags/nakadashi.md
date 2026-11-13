@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "nakadashi"
-work_count: 1111
+work_count: 1113
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -1339,6 +1339,13 @@ works:
     date: '2026-08-31'
     code: 494172
     url: /works/494172/
+  - title: Tsuma no Netorase | Wife’s Netorase
+    author: muripoyo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/494662.jpg
+    rating: 0.0
+    date: '2026-11-13'
+    code: 494662
+    url: /works/494662/
   - title: Musume no Tomodachi ga Yuuwaku Suru 2 | My Daughter's Friend Is Seducing
       Me 2
     author: jingrock
@@ -3695,6 +3702,13 @@ works:
     date: '2026-10-07'
     code: 636417
     url: /works/636417/
+  - title: Oyako Nakadashi desugemu | Parent-Child Creampie Death Game
+    author: resoman-manga-koubou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/636516.jpg
+    rating: 0.0
+    date: '2026-11-13'
+    code: 636516
+    url: /works/636516/
   - title: Boku no Mama wa... - My mom... icharabu kinshin amaama comic | My mom is...
     author: yamaoku-midori
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/636527.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big breasts"
-work_count: 1456
+work_count: 1459
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -1471,6 +1471,13 @@ works:
     date: '2026-10-11'
     code: 492104
     url: /works/492104/
+  - title: Tsuma no Netorase | Wife’s Netorase
+    author: muripoyo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/494662.jpg
+    rating: 0.0
+    date: '2026-11-13'
+    code: 494662
+    url: /works/494662/
   - title: Nyuuin-chuu no Muramura wa...
     author: natsume-benkei
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/495599.jpg
@@ -1772,6 +1779,13 @@ works:
     date: '2026-09-29'
     code: 513981
     url: /works/513981/
+  - title: Doukyuusei Joshi no Iinari | As my female classmates says
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/515185.jpg
+    rating: 4.8
+    date: '2026-11-13'
+    code: 515185
+    url: /works/515185/
   - title: My part-time coworker ran away from home and came to work here, but she was
       too sexy...
     author: yamakonbu
@@ -4409,6 +4423,13 @@ works:
     date: '2026-10-07'
     code: 636417
     url: /works/636417/
+  - title: Oyako Nakadashi desugemu | Parent-Child Creampie Death Game
+    author: resoman-manga-koubou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/636516.jpg
+    rating: 0.0
+    date: '2026-11-13'
+    code: 636516
+    url: /works/636516/
   - title: I Want To See The Cool & Smart Guy's Face Warped in Humiliation
     author: the-waidan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/636751.jpg

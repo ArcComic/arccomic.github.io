@@ -1,7 +1,7 @@
 ---
 layout: artist
 artist_name: "group"
-work_count: 48
+work_count: 49
 works:
   - title: Ojou-sama to Maid o Iinazuke ni Torarete Okobore Ecchi suru Hanashi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/459385.jpg
@@ -22,6 +22,12 @@ works:
     date: '2026-11-10'
     code: 469644
     url: /works/469644/
+  - title: Doukyuusei Joshi no Iinari | As my female classmates says
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/515185.jpg
+    rating: 4.8
+    date: '2026-11-13'
+    code: 515185
+    url: /works/515185/
   - title: Jimi Kyonyuu No Stalker Onna Ni Gokuhaku Saretanode Yarimakutte Mita Hanashi
       2 | I Was Confessed To By A Plain Busty Stalker Girl, So I Fucked Her Like Crazy
       2

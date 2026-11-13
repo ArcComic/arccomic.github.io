@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "group"
-work_count: 318
+work_count: 319
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -358,6 +358,13 @@ works:
     date: '2026-08-25'
     code: 512473
     url: /works/512473/
+  - title: Doukyuusei Joshi no Iinari | As my female classmates says
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/515185.jpg
+    rating: 4.8
+    date: '2026-11-13'
+    code: 515185
+    url: /works/515185/
   - title: About the New President of the Disciplinary Committee's Huge Tits 2
     author: try
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/516219.jpg

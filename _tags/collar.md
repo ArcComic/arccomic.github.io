@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "collar"
-work_count: 132
+work_count: 133
 works:
   - title: Kaisha de Iroiro | Gettin' Busy at the Office
     author: hara-shigeyuki
@@ -391,6 +391,13 @@ works:
     date: '2026-09-25'
     code: 635879
     url: /works/635879/
+  - title: Oyako Nakadashi desugemu | Parent-Child Creampie Death Game
+    author: resoman-manga-koubou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/636516.jpg
+    rating: 0.0
+    date: '2026-11-13'
+    code: 636516
+    url: /works/636516/
   - title: Eat Meat + Digital Tokusouban Gentei Tokuten - Natsume-san wa Chorosugiru!
     author: ushinomiya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638556.jpg

@@ -1,8 +1,14 @@
 ---
 layout: artist
 artist_name: "muripoyo"
-work_count: 7
+work_count: 8
 works:
+  - title: Tsuma no Netorase | Wife’s Netorase
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/494662.jpg
+    rating: 0.0
+    date: '2026-11-13'
+    code: 494662
+    url: /works/494662/
   - title: Tsuma ga Shachou ni Netorareru | My wife gets stolen by the President
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/496572.jpg
     rating: 4.8
