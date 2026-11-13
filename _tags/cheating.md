@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "cheating"
-work_count: 474
+work_count: 475
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -3490,6 +3490,13 @@ works:
     date: '2026-11-11'
     code: 695891
     url: /works/695891/
+  - title: Bitch-chan is a Sensei-Class Deluxe
+    author: nekoi-mie
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696116.jpg
+    rating: 4.8
+    date: '2026-11-13'
+    code: 696116
+    url: /works/696116/
   - title: Jokyoushi - Hot For Teachers | Female Teachers
     author: drill-murata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/81375.jpg

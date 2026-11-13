@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "muripoyo"
-work_count: 13
+work_count: 14
 works:
   - title: Ojou-sama to Maid o Iinazuke ni Torarete Okobore Ecchi suru Hanashi
     author: group
@@ -10,6 +10,13 @@ works:
     date: '2026-11-13'
     code: 459385
     url: /works/459385/
+  - title: Odosare Haha | Blackmailed Mother
+    author: muripoyo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/493234.jpg
+    rating: 0.0
+    date: '2026-11-13'
+    code: 493234
+    url: /works/493234/
   - title: Tsuma no Netorase | Wife’s Netorase
     author: muripoyo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/494662.jpg

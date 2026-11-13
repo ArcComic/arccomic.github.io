@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "shotacon"
-work_count: 174
+work_count: 175
 works:
   - title: Okki na Kanojo ni Amaetai | I want to be pampered by a girl of generous girth
     author: higashino-mikan
@@ -425,6 +425,13 @@ works:
     date: '2026-07-17'
     code: 585515
     url: /works/585515/
+  - title: Kaa-san ga Shikoi nante - My Mom is So Hot
+    author: oroboy
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/585709.jpg
+    rating: 0.0
+    date: '2026-11-13'
+    code: 585709
+    url: /works/585709/
   - title: Chijo Monogatari Henshitsusha (Onna) Shutsubotsu Chuu
     author: enma
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/588713.jpg

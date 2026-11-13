@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole female"
-work_count: 1272
+work_count: 1274
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -1829,6 +1829,13 @@ works:
     date: '2026-09-25'
     code: 492981
     url: /works/492981/
+  - title: Odosare Haha | Blackmailed Mother
+    author: muripoyo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/493234.jpg
+    rating: 0.0
+    date: '2026-11-13'
+    code: 493234
+    url: /works/493234/
   - title: SeFri no Senpai | 學姐是我的炮友
     author: gen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/494440.jpg
@@ -3234,6 +3241,13 @@ works:
     date: '2026-08-24'
     code: 584934
     url: /works/584934/
+  - title: Kaa-san ga Shikoi nante - My Mom is So Hot
+    author: oroboy
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/585709.jpg
+    rating: 0.0
+    date: '2026-11-13'
+    code: 585709
+    url: /works/585709/
   - title: Madamada, Shitemitai. - I still want to try.
     author: danimaru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/586028.jpg

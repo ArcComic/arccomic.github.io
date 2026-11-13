@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "ponytail"
-work_count: 233
+work_count: 235
 works:
   - title: Ami Mami Mind 5
     author: tsurui
@@ -388,6 +388,13 @@ works:
     date: '2026-09-26'
     code: 584135
     url: /works/584135/
+  - title: Kaa-san ga Shikoi nante - My Mom is So Hot
+    author: oroboy
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/585709.jpg
+    rating: 0.0
+    date: '2026-11-13'
+    code: 585709
+    url: /works/585709/
   - title: My AR glasses can see various stats about my foster sister?!
     author: pz-x
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/589010.jpg
@@ -1721,4 +1728,11 @@ works:
     date: '2026-11-11'
     code: 695946
     url: /works/695946/
+  - title: Bitch-chan is a Sensei-Class Deluxe
+    author: nekoi-mie
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696116.jpg
+    rating: 4.8
+    date: '2026-11-13'
+    code: 696116
+    url: /works/696116/
 ---

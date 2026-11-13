@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bikini"
-work_count: 109
+work_count: 111
 works:
   - title: Kizashi
     author: yoshiura-kazuya
@@ -214,6 +214,13 @@ works:
     date: '2026-09-13'
     code: 583637
     url: /works/583637/
+  - title: Kaa-san ga Shikoi nante - My Mom is So Hot
+    author: oroboy
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/585709.jpg
+    rating: 0.0
+    date: '2026-11-13'
+    code: 585709
+    url: /works/585709/
   - title: CHOP STICK3
     author: kakutou-oukoku
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/588075.jpg
@@ -832,4 +839,11 @@ works:
     date: '2026-11-11'
     code: 695883
     url: /works/695883/
+  - title: Bitch-chan is a Sensei-Class Deluxe
+    author: nekoi-mie
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696116.jpg
+    rating: 4.8
+    date: '2026-11-13'
+    code: 696116
+    url: /works/696116/
 ---

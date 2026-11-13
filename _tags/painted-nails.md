@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "painted nails"
-work_count: 62
+work_count: 63
 works:
   - title: Rakki Taishyaku
     author: fushoku
@@ -461,4 +461,11 @@ works:
     date: '2026-11-12'
     code: 696030
     url: /works/696030/
+  - title: Bitch-chan is a Sensei-Class Deluxe
+    author: nekoi-mie
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696116.jpg
+    rating: 4.8
+    date: '2026-11-13'
+    code: 696116
+    url: /works/696116/
 ---

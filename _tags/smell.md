@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "smell"
-work_count: 37
+work_count: 38
 works:
   - title: Natsu Jiru Ch. 1-2
     author: sena-youtarou
@@ -275,4 +275,11 @@ works:
     date: '2026-11-12'
     code: 695615
     url: /works/695615/
+  - title: Bitch-chan is a Sensei-Class Deluxe
+    author: nekoi-mie
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696116.jpg
+    rating: 4.8
+    date: '2026-11-13'
+    code: 696116
+    url: /works/696116/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big ass"
-work_count: 350
+work_count: 352
 works:
   - title: My Care Lady Ch. 1
     author: sugi-g
@@ -499,6 +499,13 @@ works:
     date: '2026-09-26'
     code: 584135
     url: /works/584135/
+  - title: Kaa-san ga Shikoi nante - My Mom is So Hot
+    author: oroboy
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/585709.jpg
+    rating: 0.0
+    date: '2026-11-13'
+    code: 585709
+    url: /works/585709/
   - title: Madamada, Shitemitai. - I still want to try.
     author: danimaru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/586028.jpg
@@ -2622,6 +2629,13 @@ works:
     date: '2026-11-13'
     code: 696115
     url: /works/696115/
+  - title: Bitch-chan is a Sensei-Class Deluxe
+    author: nekoi-mie
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696116.jpg
+    rating: 4.8
+    date: '2026-11-13'
+    code: 696116
+    url: /works/696116/
   - title: Inin Keiyaku | Lewd Pregnancy Contract
     author: yoshiura-kazuya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/83595.jpg

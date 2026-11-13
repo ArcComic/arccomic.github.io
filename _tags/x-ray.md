@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "x-ray"
-work_count: 463
+work_count: 465
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -961,6 +961,13 @@ works:
     date: '2026-08-24'
     code: 584934
     url: /works/584934/
+  - title: Kaa-san ga Shikoi nante - My Mom is So Hot
+    author: oroboy
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/585709.jpg
+    rating: 0.0
+    date: '2026-11-13'
+    code: 585709
+    url: /works/585709/
   - title: Madamada, Shitemitai. - I still want to try.
     author: danimaru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/586028.jpg
@@ -3465,6 +3472,13 @@ works:
     date: '2026-11-13'
     code: 696115
     url: /works/696115/
+  - title: Bitch-chan is a Sensei-Class Deluxe
+    author: nekoi-mie
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696116.jpg
+    rating: 4.8
+    date: '2026-11-13'
+    code: 696116
+    url: /works/696116/
   - title: '"Sekai no Owarix" o Shiyou | Let''s have "end-of-the-world sex."'
     author: yonayona
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696362.jpg

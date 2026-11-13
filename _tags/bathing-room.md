@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bathing room"
-work_count: 31
+work_count: 32
 works:
   - title: Homestay-chu no Doitsu Musume ga Issho ni Furo ni Haitte Kuru Wake | The
       Reason Why a German Girl Takes a Bath Together With Me on Her Homestay
@@ -43,6 +43,13 @@ works:
     date: '2026-08-22'
     code: 550948
     url: /works/550948/
+  - title: Kaa-san ga Shikoi nante - My Mom is So Hot
+    author: oroboy
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/585709.jpg
+    rating: 0.0
+    date: '2026-11-13'
+    code: 585709
+    url: /works/585709/
   - title: Kaya-nee and the Old Man Memories
     author: kon-kit
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/598144.jpg

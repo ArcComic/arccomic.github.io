@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "incest"
-work_count: 385
+work_count: 386
 works:
   - title: Imitation Family + Bigibo Hen
     author: tohzai
@@ -779,6 +779,13 @@ works:
     date: '2026-09-29'
     code: 580833
     url: /works/580833/
+  - title: Kaa-san ga Shikoi nante - My Mom is So Hot
+    author: oroboy
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/585709.jpg
+    rating: 0.0
+    date: '2026-11-13'
+    code: 585709
+    url: /works/585709/
   - title: My AR glasses can see various stats about my foster sister?!
     author: pz-x
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/589010.jpg

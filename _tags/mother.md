@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "mother"
-work_count: 220
+work_count: 222
 works:
   - title: Imitation Family + Bigibo Hen
     author: tohzai
@@ -229,6 +229,13 @@ works:
     date: '2026-10-30'
     code: 480098
     url: /works/480098/
+  - title: Odosare Haha | Blackmailed Mother
+    author: muripoyo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/493234.jpg
+    rating: 0.0
+    date: '2026-11-13'
+    code: 493234
+    url: /works/493234/
   - title: Nyuuin-chuu no Muramura wa...
     author: natsume-benkei
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/495599.jpg
@@ -568,6 +575,13 @@ works:
     date: '2026-09-28'
     code: 584529
     url: /works/584529/
+  - title: Kaa-san ga Shikoi nante - My Mom is So Hot
+    author: oroboy
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/585709.jpg
+    rating: 0.0
+    date: '2026-11-13'
+    code: 585709
+    url: /works/585709/
   - title: TABOO -Kanzenhan-｜TABOO -Complete Version-
     author: nanahoshi-tento
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/589628.jpg

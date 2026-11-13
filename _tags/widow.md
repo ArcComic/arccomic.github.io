@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "widow"
-work_count: 28
+work_count: 29
 works:
   - title: Birthday
     author: hashiba-yachi
@@ -68,6 +68,13 @@ works:
     date: '2026-08-24'
     code: 444152
     url: /works/444152/
+  - title: Odosare Haha | Blackmailed Mother
+    author: muripoyo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/493234.jpg
+    rating: 0.0
+    date: '2026-11-13'
+    code: 493234
+    url: /works/493234/
   - title: Mama to Boku to Mujintou | Me and mom and a deserted island
     author: yokkora
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/518005.jpg

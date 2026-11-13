@@ -1,7 +1,7 @@
 ---
 layout: artist
 artist_name: "nekoi-mie"
-work_count: 3
+work_count: 4
 works:
   - title: Police Story
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/399776.jpg
@@ -21,4 +21,10 @@ works:
     date: '2026-09-16'
     code: 681465
     url: /works/681465/
+  - title: Bitch-chan is a Sensei-Class Deluxe
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696116.jpg
+    rating: 4.8
+    date: '2026-11-13'
+    code: 696116
+    url: /works/696116/
 ---

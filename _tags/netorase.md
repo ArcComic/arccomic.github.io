@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "netorase"
-work_count: 48
+work_count: 49
 works:
   - title: Boku no Netorase Seiheki ni Tsukiatte kureru Kanojo | A Girlfriend Who Plays
       Along with My Cuckold Fetish
@@ -26,6 +26,13 @@ works:
     date: '2026-04-19'
     code: 487275
     url: /works/487275/
+  - title: Odosare Haha | Blackmailed Mother
+    author: muripoyo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/493234.jpg
+    rating: 0.0
+    date: '2026-11-13'
+    code: 493234
+    url: /works/493234/
   - title: Tsuma no Netorase | Wife’s Netorase
     author: muripoyo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/494662.jpg
