@@ -567,13 +567,13 @@ works:
     url: /works/695653/
   - title: Papa nanka Mou Kirai | I'm Done with Daddy
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696966.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-14'
     code: 696966
     url: /works/696966/
   - title: I want others to sleep with my wife
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696973.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-11-14'
     code: 696973
     url: /works/696973/

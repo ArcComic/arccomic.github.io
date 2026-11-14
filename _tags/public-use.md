@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "public use"
-work_count: 20
+work_count: 21
 works:
   - title: Uchi de wa Kazoku Sex wa Joushiki Rashii | In My House, Family Sex Is the
       Norm
@@ -97,7 +97,7 @@ works:
   - title: Rikujobu-chan
     author: zikataro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/652456.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-11-14'
     code: 652456
     url: /works/652456/
@@ -154,4 +154,11 @@ works:
     date: '2026-11-12'
     code: 696030
     url: /works/696030/
+  - title: Kairaku Market e Youkoso | Welcome to the Pleasure Sokubaikai
+    author: kichirock
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696730.jpg
+    rating: 0.0
+    date: '2026-11-14'
+    code: 696730
+    url: /works/696730/
 ---

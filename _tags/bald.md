@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bald"
-work_count: 94
+work_count: 96
 works:
   - title: Overwrite
     author: ojo
@@ -699,4 +699,19 @@ works:
     date: '2026-11-09'
     code: 694971
     url: /works/694971/
+  - title: I'm Dating My Older Brother's Former Tutor!
+    author: chotto-b-sen
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696617.jpg
+    rating: 0.0
+    date: '2026-11-14'
+    code: 696617
+    url: /works/696617/
+  - title: Taisetsu ni Ningen Toshite Sodate te Itadaita no ni Onaho de Gomennasai |
+      I'm Sorry for the Onaho, Even Though You Raised Me Carefully as a Human
+    author: santa
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696732.jpg
+    rating: 0.0
+    date: '2026-11-14'
+    code: 696732
+    url: /works/696732/
 ---

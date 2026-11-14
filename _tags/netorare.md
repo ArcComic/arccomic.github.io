@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "netorare"
-work_count: 542
+work_count: 545
 works:
   - title: Kousa suru Osu to Mesu | Male and Female Crossing
     author: ootsuka-kotora
@@ -638,7 +638,7 @@ works:
       (39) Makes Her Doujin AV Debut in Place of Her Daughter
     author: shinjiro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/492830.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-11-14'
     code: 492830
     url: /works/492830/
@@ -976,6 +976,13 @@ works:
     date: '2026-09-29'
     code: 541130
     url: /works/541130/
+  - title: '"Masochists" can''t pass on their genes! | "Mazo" wa Idenshi Nokosemasen!'
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/541553.jpg
+    rating: 0.0
+    date: '2026-11-14'
+    code: 541553
+    url: /works/541553/
   - title: Kanojo Netorase Isshuukan | One Week of Letting My Girlfriend Be Taken
     author: muripoyo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/541673.jpg
@@ -3538,7 +3545,7 @@ works:
   - title: Suki-tte Itcha Dame! | You can't say i like you
     author: pipo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685582.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-11-14'
     code: 685582
     url: /works/685582/
@@ -3963,14 +3970,28 @@ works:
   - title: Karume no Kanojo ga NTRreru made
     author: bear-red-blue-soda
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696502.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-14'
     code: 696502
     url: /works/696502/
+  - title: Aishita Haha o, Boku wa Dakenai - I can't have sex with my mother I love.
+    author: toono-suika
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696581.jpg
+    rating: 0.0
+    date: '2026-11-14'
+    code: 696581
+    url: /works/696581/
+  - title: Netori Otoko o Mesu ni suru
+    author: yonayona
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696684.jpg
+    rating: 0.0
+    date: '2026-11-14'
+    code: 696684
+    url: /works/696684/
   - title: Slut-Only Car ~BITCH ONLY~
     author: indo-curry-in-ka-of-the-dead
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696693.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-11-14'
     code: 696693
     url: /works/696693/
@@ -3978,14 +3999,14 @@ works:
       The Battle For Her Tight Pussy, Stealing The Girl I Like From Senpai ‎
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696949.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-14'
     code: 696949
     url: /works/696949/
   - title: I want others to sleep with my wife
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696973.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-11-14'
     code: 696973
     url: /works/696973/

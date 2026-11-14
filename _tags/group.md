@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "group"
-work_count: 323
+work_count: 328
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -462,6 +462,13 @@ works:
     date: '2026-09-18'
     code: 539663
     url: /works/539663/
+  - title: '"Masochists" can''t pass on their genes! | "Mazo" wa Idenshi Nokosemasen!'
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/541553.jpg
+    rating: 0.0
+    date: '2026-11-14'
+    code: 541553
+    url: /works/541553/
   - title: Pakokatsu Oji-san to Kaede-chan (1+2+3) | Kaede and The Sugar Daddy
     author: nizigensan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/543086.jpg
@@ -485,6 +492,13 @@ works:
     date: '2026-07-06'
     code: 543494
     url: /works/543494/
+  - title: Yokujou Shugakuryokou | Horny School Trip
+    author: shiono-kou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/545885.jpg
+    rating: 0.0
+    date: '2026-11-14'
+    code: 545885
+    url: /works/545885/
   - title: Soshite Kyou mo Moteasobareru
     author: erun
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/545896.jpg
@@ -2014,7 +2028,7 @@ works:
   - title: Suki-tte Itcha Dame! | You can't say i like you
     author: pipo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685582.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-11-14'
     code: 685582
     url: /works/685582/
@@ -2350,25 +2364,47 @@ works:
     date: '2026-11-12'
     code: 695882
     url: /works/695882/
+  - title: Aishita Haha o, Boku wa Dakenai - I can't have sex with my mother I love.
+    author: toono-suika
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696581.jpg
+    rating: 0.0
+    date: '2026-11-14'
+    code: 696581
+    url: /works/696581/
   - title: Swallowed by Water and Fused TSF
     author: welt
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696608.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-11-14'
     code: 696608
     url: /works/696608/
   - title: Slut-Only Car ~BITCH ONLY~
     author: indo-curry-in-ka-of-the-dead
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696693.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-11-14'
     code: 696693
     url: /works/696693/
+  - title: Kairaku Market e Youkoso | Welcome to the Pleasure Sokubaikai
+    author: kichirock
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696730.jpg
+    rating: 0.0
+    date: '2026-11-14'
+    code: 696730
+    url: /works/696730/
+  - title: Taisetsu ni Ningen Toshite Sodate te Itadaita no ni Onaho de Gomennasai |
+      I'm Sorry for the Onaho, Even Though You Raised Me Carefully as a Human
+    author: santa
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696732.jpg
+    rating: 0.0
+    date: '2026-11-14'
+    code: 696732
+    url: /works/696732/
   - title: Sukina Onnanoko o Senpai kara Ubaiau Chiisana Ana o Meguru Soudatsusen |
       The Battle For Her Tight Pussy, Stealing The Girl I Like From Senpai ‎
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696949.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-14'
     code: 696949
     url: /works/696949/

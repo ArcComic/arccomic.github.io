@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "multiple orgasms"
-work_count: 151
+work_count: 153
 works:
   - title: Rako Slip!
     author: bujidearu
@@ -1113,21 +1113,36 @@ works:
   - title: Karume no Kanojo ga NTRreru made
     author: bear-red-blue-soda
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696502.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-14'
     code: 696502
     url: /works/696502/
+  - title: Netori Otoko o Mesu ni suru
+    author: yonayona
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696684.jpg
+    rating: 0.0
+    date: '2026-11-14'
+    code: 696684
+    url: /works/696684/
   - title: Slut-Only Car ~BITCH ONLY~
     author: indo-curry-in-ka-of-the-dead
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696693.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-11-14'
     code: 696693
     url: /works/696693/
+  - title: Taisetsu ni Ningen Toshite Sodate te Itadaita no ni Onaho de Gomennasai |
+      I'm Sorry for the Onaho, Even Though You Raised Me Carefully as a Human
+    author: santa
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696732.jpg
+    rating: 0.0
+    date: '2026-11-14'
+    code: 696732
+    url: /works/696732/
   - title: Bishonureduma to Tsuyudakuotto | Soaking Wet Wife and Drenched Husband
     author: gurida-soumu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696916.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-14'
     code: 696916
     url: /works/696916/

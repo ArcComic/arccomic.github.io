@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "blowjob face"
-work_count: 98
+work_count: 100
 works:
   - title: Mama Naranai Onna-tachi Ch. 1-2
     author: otochichi
@@ -92,6 +92,13 @@ works:
     date: '2026-08-19'
     code: 534808
     url: /works/534808/
+  - title: Yokujou Shugakuryokou | Horny School Trip
+    author: shiono-kou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/545885.jpg
+    rating: 0.0
+    date: '2026-11-14'
+    code: 545885
+    url: /works/545885/
   - title: 1/5 no Renai Kanjou | A Fifth of Romance
     author: chicke-iii
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/568871.jpg
@@ -734,10 +741,17 @@ works:
     date: '2026-11-14'
     code: 696375
     url: /works/696375/
+  - title: Aishita Haha o, Boku wa Dakenai - I can't have sex with my mother I love.
+    author: toono-suika
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696581.jpg
+    rating: 0.0
+    date: '2026-11-14'
+    code: 696581
+    url: /works/696581/
   - title: Slut-Only Car ~BITCH ONLY~
     author: indo-curry-in-ka-of-the-dead
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696693.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-11-14'
     code: 696693
     url: /works/696693/

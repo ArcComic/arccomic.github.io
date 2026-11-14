@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "anal"
-work_count: 205
+work_count: 208
 works:
   - title: Ikanishite Haha wa Onna o Kaihou Shitaka Ch. 1-14
     author: mitarai-yuuki
@@ -279,6 +279,13 @@ works:
     date: '2026-07-09'
     code: 537476
     url: /works/537476/
+  - title: Yokujou Shugakuryokou | Horny School Trip
+    author: shiono-kou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/545885.jpg
+    rating: 0.0
+    date: '2026-11-14'
+    code: 545885
+    url: /works/545885/
   - title: Soshite Kyou mo Moteasobareru
     author: erun
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/545896.jpg
@@ -1444,7 +1451,7 @@ works:
   - title: Fufu, Gomen. Bitch ja Nai wa
     author: kanonhou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695165.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-11-14'
     code: 695165
     url: /works/695165/
@@ -1494,13 +1501,28 @@ works:
     date: '2026-11-11'
     code: 695890
     url: /works/695890/
+  - title: Aishita Haha o, Boku wa Dakenai - I can't have sex with my mother I love.
+    author: toono-suika
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696581.jpg
+    rating: 0.0
+    date: '2026-11-14'
+    code: 696581
+    url: /works/696581/
   - title: Slut-Only Car ~BITCH ONLY~
     author: indo-curry-in-ka-of-the-dead
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696693.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-11-14'
     code: 696693
     url: /works/696693/
+  - title: Taisetsu ni Ningen Toshite Sodate te Itadaita no ni Onaho de Gomennasai |
+      I'm Sorry for the Onaho, Even Though You Raised Me Carefully as a Human
+    author: santa
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696732.jpg
+    rating: 0.0
+    date: '2026-11-14'
+    code: 696732
+    url: /works/696732/
   - title: Jokyoushi - Hot For Teachers | Female Teachers
     author: drill-murata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/81375.jpg

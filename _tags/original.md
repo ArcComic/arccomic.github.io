@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "original"
-work_count: 1448
+work_count: 1455
 works:
   - title: Gokuusu Mizugi de Okasaretagari ga Kakusenai
     author: kekemotsu
@@ -1309,7 +1309,7 @@ works:
       (39) Makes Her Doujin AV Debut in Place of Her Daughter
     author: shinjiro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/492830.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-11-14'
     code: 492830
     url: /works/492830/
@@ -2118,6 +2118,13 @@ works:
     date: '2026-09-29'
     code: 541130
     url: /works/541130/
+  - title: '"Masochists" can''t pass on their genes! | "Mazo" wa Idenshi Nokosemasen!'
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/541553.jpg
+    rating: 0.0
+    date: '2026-11-14'
+    code: 541553
+    url: /works/541553/
   - title: Musume no Tomodachi ga Yuuwaku Suru | My Daughter's Friend is Seducing Me
     author: jingrock
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/541582.jpg
@@ -2463,7 +2470,7 @@ works:
   - title: Musuko no Musei ga Egetsunai | His Wet Dream's Are Outrageous
     author: resoman-manga-koubou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/559194.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-11-14'
     code: 559194
     url: /works/559194/
@@ -4153,7 +4160,7 @@ works:
   - title: A story about a single mom who ended up trying to get pregnant with her son
     author: resoman-manga-koubou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/634065.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-11-14'
     code: 634065
     url: /works/634065/
@@ -5676,7 +5683,7 @@ works:
   - title: Rikujobu-chan
     author: zikataro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/652456.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-11-14'
     code: 652456
     url: /works/652456/
@@ -10770,23 +10777,68 @@ works:
   - title: Karume no Kanojo ga NTRreru made
     author: bear-red-blue-soda
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696502.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-14'
     code: 696502
     url: /works/696502/
+  - title: I'm Dating My Older Brother's Former Tutor!
+    author: chotto-b-sen
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696617.jpg
+    rating: 0.0
+    date: '2026-11-14'
+    code: 696617
+    url: /works/696617/
+  - title: Netori Otoko o Mesu ni suru
+    author: yonayona
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696684.jpg
+    rating: 0.0
+    date: '2026-11-14'
+    code: 696684
+    url: /works/696684/
+  - title: 100-nichi-go ni Ninshin suru OL-san! 2 | Pregnant Office Lady in 100 Days!
+      2
+    author: velokisss
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696728.jpg
+    rating: 0.0
+    date: '2026-11-14'
+    code: 696728
+    url: /works/696728/
+  - title: Kairaku Market e Youkoso | Welcome to the Pleasure Sokubaikai
+    author: kichirock
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696730.jpg
+    rating: 0.0
+    date: '2026-11-14'
+    code: 696730
+    url: /works/696730/
+  - title: Taisetsu ni Ningen Toshite Sodate te Itadaita no ni Onaho de Gomennasai |
+      I'm Sorry for the Onaho, Even Though You Raised Me Carefully as a Human
+    author: santa
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696732.jpg
+    rating: 0.0
+    date: '2026-11-14'
+    code: 696732
+    url: /works/696732/
   - title: Sukina Onnanoko o Senpai kara Ubaiau Chiisana Ana o Meguru Soudatsusen |
       The Battle For Her Tight Pussy, Stealing The Girl I Like From Senpai ‎
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696949.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-14'
     code: 696949
     url: /works/696949/
   - title: I want others to sleep with my wife
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696973.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-11-14'
     code: 696973
     url: /works/696973/
+  - title: These mother and son only have 10 minutes for their secret sex! | Kono Haha
+      To Musuko Ga Kateinai SEX Dekiru Jikan Wa Juppun Dake!
+    author: circle-spice
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696998.jpg
+    rating: 0.0
+    date: '2026-11-14'
+    code: 696998
+    url: /works/696998/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "small penis"
-work_count: 38
+work_count: 39
 works:
   - title: Toshoshitsu no Kanojo 3~Seiso na Kimi ga Ochiru made~
     author: ame-arare
@@ -53,6 +53,13 @@ works:
     date: '2026-07-11'
     code: 531966
     url: /works/531966/
+  - title: '"Masochists" can''t pass on their genes! | "Mazo" wa Idenshi Nokosemasen!'
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/541553.jpg
+    rating: 0.0
+    date: '2026-11-14'
+    code: 541553
+    url: /works/541553/
   - title: Kanojo Netorase Isshuukan | One Week of Letting My Girlfriend Be Taken
     author: muripoyo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/541673.jpg

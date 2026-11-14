@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "filming"
-work_count: 145
+work_count: 149
 works:
   - title: Ikanishite Haha wa Onna o Kaihou Shitaka Ch. 1-14
     author: mitarai-yuuki
@@ -172,7 +172,7 @@ works:
       (39) Makes Her Doujin AV Debut in Place of Her Daughter
     author: shinjiro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/492830.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-11-14'
     code: 492830
     url: /works/492830/
@@ -205,6 +205,13 @@ works:
     date: '2026-02-25'
     code: 519421
     url: /works/519421/
+  - title: '"Masochists" can''t pass on their genes! | "Mazo" wa Idenshi Nokosemasen!'
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/541553.jpg
+    rating: 0.0
+    date: '2026-11-14'
+    code: 541553
+    url: /works/541553/
   - title: Camera Goshi no Kimi wa...
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/543436.jpg
@@ -911,7 +918,7 @@ works:
   - title: Suki-tte Itcha Dame! | You can't say i like you
     author: pipo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685582.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-11-14'
     code: 685582
     url: /works/685582/
@@ -1062,10 +1069,32 @@ works:
     date: '2026-11-13'
     code: 696116
     url: /works/696116/
+  - title: Netori Otoko o Mesu ni suru
+    author: yonayona
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696684.jpg
+    rating: 0.0
+    date: '2026-11-14'
+    code: 696684
+    url: /works/696684/
+  - title: Kairaku Market e Youkoso | Welcome to the Pleasure Sokubaikai
+    author: kichirock
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696730.jpg
+    rating: 0.0
+    date: '2026-11-14'
+    code: 696730
+    url: /works/696730/
+  - title: Taisetsu ni Ningen Toshite Sodate te Itadaita no ni Onaho de Gomennasai |
+      I'm Sorry for the Onaho, Even Though You Raised Me Carefully as a Human
+    author: santa
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696732.jpg
+    rating: 0.0
+    date: '2026-11-14'
+    code: 696732
+    url: /works/696732/
   - title: I want others to sleep with my wife
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696973.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-11-14'
     code: 696973
     url: /works/696973/

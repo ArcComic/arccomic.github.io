@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "pregnant"
-work_count: 79
+work_count: 82
 works:
   - title: Mama Naranai Onna-tachi Ch. 1-2
     author: otochichi
@@ -105,6 +105,13 @@ works:
     date: '2026-09-29'
     code: 528384
     url: /works/528384/
+  - title: '"Masochists" can''t pass on their genes! | "Mazo" wa Idenshi Nokosemasen!'
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/541553.jpg
+    rating: 0.0
+    date: '2026-11-14'
+    code: 541553
+    url: /works/541553/
   - title: Kaa-san to Shitai Koto ~ Zetsurin Musuko to no Seikatsu Kaisou Hen | What
       I want to do with My Mother ~ Sex Life with My Son Who Has...
     author: saimon-k
@@ -235,7 +242,7 @@ works:
   - title: A story about a single mom who ended up trying to get pregnant with her son
     author: resoman-manga-koubou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/634065.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-11-14'
     code: 634065
     url: /works/634065/
@@ -583,4 +590,20 @@ works:
     date: '2026-11-11'
     code: 695890
     url: /works/695890/
+  - title: Taisetsu ni Ningen Toshite Sodate te Itadaita no ni Onaho de Gomennasai |
+      I'm Sorry for the Onaho, Even Though You Raised Me Carefully as a Human
+    author: santa
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696732.jpg
+    rating: 0.0
+    date: '2026-11-14'
+    code: 696732
+    url: /works/696732/
+  - title: These mother and son only have 10 minutes for their secret sex! | Kono Haha
+      To Musuko Ga Kateinai SEX Dekiru Jikan Wa Juppun Dake!
+    author: circle-spice
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696998.jpg
+    rating: 0.0
+    date: '2026-11-14'
+    code: 696998
+    url: /works/696998/
 ---

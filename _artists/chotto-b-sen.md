@@ -1,7 +1,7 @@
 ---
 layout: artist
 artist_name: "chotto-b-sen"
-work_count: 11
+work_count: 12
 works:
   - title: What would happen if you said "Let's have sex." while your teacher was scolding
       you?
@@ -76,4 +76,10 @@ works:
     date: '2026-11-11'
     code: 695568
     url: /works/695568/
+  - title: I'm Dating My Older Brother's Former Tutor!
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696617.jpg
+    rating: 0.0
+    date: '2026-11-14'
+    code: 696617
+    url: /works/696617/
 ---

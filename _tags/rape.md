@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "rape"
-work_count: 290
+work_count: 291
 works:
   - title: Office Love Scramble Ch. 1
     author: tohzai
@@ -422,7 +422,7 @@ works:
       (39) Makes Her Doujin AV Debut in Place of Her Daughter
     author: shinjiro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/492830.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-11-14'
     code: 492830
     url: /works/492830/
@@ -657,7 +657,7 @@ works:
   - title: Musuko no Musei ga Egetsunai | His Wet Dream's Are Outrageous
     author: resoman-manga-koubou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/559194.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-11-14'
     code: 559194
     url: /works/559194/
@@ -2111,10 +2111,17 @@ works:
     date: '2026-11-09'
     code: 695351
     url: /works/695351/
+  - title: Netori Otoko o Mesu ni suru
+    author: yonayona
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696684.jpg
+    rating: 0.0
+    date: '2026-11-14'
+    code: 696684
+    url: /works/696684/
   - title: Papa nanka Mou Kirai | I'm Done with Daddy
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696966.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-14'
     code: 696966
     url: /works/696966/

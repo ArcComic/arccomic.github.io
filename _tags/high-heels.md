@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "high heels"
-work_count: 23
+work_count: 25
 works:
   - title: Shut-less
     author: mr-hokke
@@ -175,4 +175,20 @@ works:
     date: '2026-11-09'
     code: 695225
     url: /works/695225/
+  - title: 100-nichi-go ni Ninshin suru OL-san! 2 | Pregnant Office Lady in 100 Days!
+      2
+    author: velokisss
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696728.jpg
+    rating: 0.0
+    date: '2026-11-14'
+    code: 696728
+    url: /works/696728/
+  - title: Taisetsu ni Ningen Toshite Sodate te Itadaita no ni Onaho de Gomennasai |
+      I'm Sorry for the Onaho, Even Though You Raised Me Carefully as a Human
+    author: santa
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696732.jpg
+    rating: 0.0
+    date: '2026-11-14'
+    code: 696732
+    url: /works/696732/
 ---

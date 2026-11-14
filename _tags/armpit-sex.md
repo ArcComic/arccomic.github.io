@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "armpit sex"
-work_count: 6
+work_count: 7
 works:
   - title: Yojouhan Bio Seikatsu Soushuuhen
     author: sgk
@@ -47,4 +47,12 @@ works:
     date: '2026-10-28'
     code: 691662
     url: /works/691662/
+  - title: 100-nichi-go ni Ninshin suru OL-san! 2 | Pregnant Office Lady in 100 Days!
+      2
+    author: velokisss
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696728.jpg
+    rating: 0.0
+    date: '2026-11-14'
+    code: 696728
+    url: /works/696728/
 ---

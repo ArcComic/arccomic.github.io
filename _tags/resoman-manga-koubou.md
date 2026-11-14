@@ -6,14 +6,14 @@ works:
   - title: Musuko no Musei ga Egetsunai | His Wet Dream's Are Outrageous
     author: resoman-manga-koubou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/559194.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-11-14'
     code: 559194
     url: /works/559194/
   - title: A story about a single mom who ended up trying to get pregnant with her son
     author: resoman-manga-koubou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/634065.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-11-14'
     code: 634065
     url: /works/634065/

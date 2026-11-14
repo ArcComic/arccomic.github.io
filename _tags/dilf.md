@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "dilf"
-work_count: 237
+work_count: 239
 works:
   - title: Adoration
     author: kishizuka-kenji
@@ -1557,7 +1557,7 @@ works:
   - title: Suki-tte Itcha Dame! | You can't say i like you
     author: pipo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685582.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-11-14'
     code: 685582
     url: /works/685582/
@@ -1729,4 +1729,19 @@ works:
     date: '2026-11-13'
     code: 696116
     url: /works/696116/
+  - title: Kairaku Market e Youkoso | Welcome to the Pleasure Sokubaikai
+    author: kichirock
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696730.jpg
+    rating: 0.0
+    date: '2026-11-14'
+    code: 696730
+    url: /works/696730/
+  - title: Taisetsu ni Ningen Toshite Sodate te Itadaita no ni Onaho de Gomennasai |
+      I'm Sorry for the Onaho, Even Though You Raised Me Carefully as a Human
+    author: santa
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696732.jpg
+    rating: 0.0
+    date: '2026-11-14'
+    code: 696732
+    url: /works/696732/
 ---

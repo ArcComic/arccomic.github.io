@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sister"
-work_count: 133
+work_count: 134
 works:
   - title: Imitation Family + Bigibo Hen
     author: tohzai
@@ -176,6 +176,13 @@ works:
     date: '2026-09-24'
     code: 535911
     url: /works/535911/
+  - title: '"Masochists" can''t pass on their genes! | "Mazo" wa Idenshi Nokosemasen!'
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/541553.jpg
+    rating: 0.0
+    date: '2026-11-14'
+    code: 541553
+    url: /works/541553/
   - title: Menhera Gitei no Muyuubyou Ecchi "Yobai Daisakusen!" Comicalize Ban | Sleepwalk
       Sex with your Crazy Stepbrother
     author: gurida-soumu
@@ -194,7 +201,7 @@ works:
   - title: Musuko no Musei ga Egetsunai | His Wet Dream's Are Outrageous
     author: resoman-manga-koubou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/559194.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-11-14'
     code: 559194
     url: /works/559194/

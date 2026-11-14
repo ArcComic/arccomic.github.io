@@ -775,7 +775,7 @@ works:
   - title: Papa nanka Mou Kirai | I'm Done with Daddy
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696966.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-14'
     code: 696966
     url: /works/696966/

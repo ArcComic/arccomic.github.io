@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole male"
-work_count: 1215
+work_count: 1219
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -624,7 +624,7 @@ works:
   - title: Senjou no Cinderella 1 | Suggestive Cinderella 1
     author: ueto-seri
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/352895.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-11-14'
     code: 352895
     url: /works/352895/
@@ -2612,7 +2612,7 @@ works:
   - title: Musuko no Musei ga Egetsunai | His Wet Dream's Are Outrageous
     author: resoman-manga-koubou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/559194.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-11-14'
     code: 559194
     url: /works/559194/
@@ -3800,7 +3800,7 @@ works:
   - title: Rental Kanojo Osawari Shimasu 10 ー Grope-a-Girlfriend 10
     author: yahiro-pochi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/629900.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-11-14'
     code: 629900
     url: /works/629900/
@@ -3967,7 +3967,7 @@ works:
   - title: A story about a single mom who ended up trying to get pregnant with her son
     author: resoman-manga-koubou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/634065.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-11-14'
     code: 634065
     url: /works/634065/
@@ -8773,7 +8773,7 @@ works:
   - title: Fufu, Gomen. Bitch ja Nai wa
     author: kanonhou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695165.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-11-14'
     code: 695165
     url: /works/695165/
@@ -8993,27 +8993,57 @@ works:
     date: '2026-11-14'
     code: 696375
     url: /works/696375/
+  - title: I'm Dating My Older Brother's Former Tutor!
+    author: chotto-b-sen
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696617.jpg
+    rating: 0.0
+    date: '2026-11-14'
+    code: 696617
+    url: /works/696617/
+  - title: Netori Otoko o Mesu ni suru
+    author: yonayona
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696684.jpg
+    rating: 0.0
+    date: '2026-11-14'
+    code: 696684
+    url: /works/696684/
+  - title: 100-nichi-go ni Ninshin suru OL-san! 2 | Pregnant Office Lady in 100 Days!
+      2
+    author: velokisss
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696728.jpg
+    rating: 0.0
+    date: '2026-11-14'
+    code: 696728
+    url: /works/696728/
   - title: Bishonureduma to Tsuyudakuotto | Soaking Wet Wife and Drenched Husband
     author: gurida-soumu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696916.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-14'
     code: 696916
     url: /works/696916/
   - title: Rental Kanojo Osawari Shimasu 13
     author: yahiro-pochi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696965.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-11-14'
     code: 696965
     url: /works/696965/
   - title: Papa nanka Mou Kirai | I'm Done with Daddy
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696966.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-14'
     code: 696966
     url: /works/696966/
+  - title: These mother and son only have 10 minutes for their secret sex! | Kono Haha
+      To Musuko Ga Kateinai SEX Dekiru Jikan Wa Juppun Dake!
+    author: circle-spice
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696998.jpg
+    rating: 0.0
+    date: '2026-11-14'
+    code: 696998
+    url: /works/696998/
   - title: Ranko-ppoi no! | Ranko-Ish!
     author: napata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/87393.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "stockings"
-work_count: 300
+work_count: 303
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -2115,7 +2115,7 @@ works:
   - title: Fufu, Gomen. Bitch ja Nai wa
     author: kanonhou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695165.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-11-14'
     code: 695165
     url: /works/695165/
@@ -2180,18 +2180,40 @@ works:
     date: '2026-11-11'
     code: 695883
     url: /works/695883/
+  - title: Aishita Haha o, Boku wa Dakenai - I can't have sex with my mother I love.
+    author: toono-suika
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696581.jpg
+    rating: 0.0
+    date: '2026-11-14'
+    code: 696581
+    url: /works/696581/
+  - title: I'm Dating My Older Brother's Former Tutor!
+    author: chotto-b-sen
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696617.jpg
+    rating: 0.0
+    date: '2026-11-14'
+    code: 696617
+    url: /works/696617/
   - title: Slut-Only Car ~BITCH ONLY~
     author: indo-curry-in-ka-of-the-dead
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696693.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-11-14'
     code: 696693
     url: /works/696693/
+  - title: Taisetsu ni Ningen Toshite Sodate te Itadaita no ni Onaho de Gomennasai |
+      I'm Sorry for the Onaho, Even Though You Raised Me Carefully as a Human
+    author: santa
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696732.jpg
+    rating: 0.0
+    date: '2026-11-14'
+    code: 696732
+    url: /works/696732/
   - title: Sukina Onnanoko o Senpai kara Ubaiau Chiisana Ana o Meguru Soudatsusen |
       The Battle For Her Tight Pussy, Stealing The Girl I Like From Senpai ‎
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696949.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-14'
     code: 696949
     url: /works/696949/

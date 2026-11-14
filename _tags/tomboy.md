@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "tomboy"
-work_count: 93
+work_count: 94
 works:
   - title: Kizashi
     author: yoshiura-kazuya
@@ -389,7 +389,7 @@ works:
   - title: Rikujobu-chan
     author: zikataro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/652456.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-11-14'
     code: 652456
     url: /works/652456/
@@ -703,4 +703,11 @@ works:
     date: '2026-10-26'
     code: 690244
     url: /works/690244/
+  - title: Netori Otoko o Mesu ni suru
+    author: yonayona
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696684.jpg
+    rating: 0.0
+    date: '2026-11-14'
+    code: 696684
+    url: /works/696684/
 ---

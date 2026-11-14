@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "schoolgirl uniform"
-work_count: 456
+work_count: 458
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -754,6 +754,13 @@ works:
     date: '2026-09-18'
     code: 539663
     url: /works/539663/
+  - title: '"Masochists" can''t pass on their genes! | "Mazo" wa Idenshi Nokosemasen!'
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/541553.jpg
+    rating: 0.0
+    date: '2026-11-14'
+    code: 541553
+    url: /works/541553/
   - title: Musume no Tomodachi ga Yuuwaku Suru | My Daughter's Friend is Seducing Me
     author: jingrock
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/541582.jpg
@@ -1067,7 +1074,7 @@ works:
   - title: Aokoi | Blue Love
     author: kichirock
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/598948.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-11-14'
     code: 598948
     url: /works/598948/
@@ -3388,11 +3395,19 @@ works:
     date: '2026-11-13'
     code: 696116
     url: /works/696116/
+  - title: Taisetsu ni Ningen Toshite Sodate te Itadaita no ni Onaho de Gomennasai |
+      I'm Sorry for the Onaho, Even Though You Raised Me Carefully as a Human
+    author: santa
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696732.jpg
+    rating: 0.0
+    date: '2026-11-14'
+    code: 696732
+    url: /works/696732/
   - title: Sukina Onnanoko o Senpai kara Ubaiau Chiisana Ana o Meguru Soudatsusen |
       The Battle For Her Tight Pussy, Stealing The Girl I Like From Senpai ‎
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696949.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-14'
     code: 696949
     url: /works/696949/

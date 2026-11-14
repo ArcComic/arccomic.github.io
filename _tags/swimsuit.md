@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "swimsuit"
-work_count: 110
+work_count: 111
 works:
   - title: Kizashi
     author: yoshiura-kazuya
@@ -267,7 +267,7 @@ works:
   - title: Rental Kanojo Osawari Shimasu 10 ー Grope-a-Girlfriend 10
     author: yahiro-pochi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/629900.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-11-14'
     code: 629900
     url: /works/629900/
@@ -822,17 +822,25 @@ works:
     date: '2026-11-11'
     code: 695883
     url: /works/695883/
+  - title: Taisetsu ni Ningen Toshite Sodate te Itadaita no ni Onaho de Gomennasai |
+      I'm Sorry for the Onaho, Even Though You Raised Me Carefully as a Human
+    author: santa
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696732.jpg
+    rating: 0.0
+    date: '2026-11-14'
+    code: 696732
+    url: /works/696732/
   - title: Bishonureduma to Tsuyudakuotto | Soaking Wet Wife and Drenched Husband
     author: gurida-soumu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696916.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-14'
     code: 696916
     url: /works/696916/
   - title: Rental Kanojo Osawari Shimasu 13
     author: yahiro-pochi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696965.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-11-14'
     code: 696965
     url: /works/696965/

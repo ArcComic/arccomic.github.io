@@ -1,7 +1,7 @@
 ---
 layout: artist
 artist_name: "group"
-work_count: 50
+work_count: 51
 works:
   - title: Ojou-sama to Maid o Iinazuke ni Torarete Okobore Ecchi suru Hanashi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/459385.jpg
@@ -56,6 +56,12 @@ works:
     date: '2026-09-18'
     code: 539663
     url: /works/539663/
+  - title: '"Masochists" can''t pass on their genes! | "Mazo" wa Idenshi Nokosemasen!'
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/541553.jpg
+    rating: 0.0
+    date: '2026-11-14'
+    code: 541553
+    url: /works/541553/
   - title: Papa wa Make Osu | Papa is a Loser
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/543091.jpg
     rating: 4.4
@@ -317,7 +323,7 @@ works:
   - title: Sukina Onnanoko o Senpai kara Ubaiau Chiisana Ana o Meguru Soudatsusen |
       The Battle For Her Tight Pussy, Stealing The Girl I Like From Senpai ‎
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696949.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-14'
     code: 696949
     url: /works/696949/

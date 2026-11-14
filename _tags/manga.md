@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "manga"
-work_count: 453
+work_count: 455
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -1214,6 +1214,13 @@ works:
     date: '2026-08-29'
     code: 544324
     url: /works/544324/
+  - title: Yokujou Shugakuryokou | Horny School Trip
+    author: shiono-kou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/545885.jpg
+    rating: 0.0
+    date: '2026-11-14'
+    code: 545885
+    url: /works/545885/
   - title: Ero Cos OL to Jiraikei Joshi ~Iki Nuresaseru Moto Kare no Amai Koshi Zukai~
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/548852.jpg
@@ -3212,24 +3219,31 @@ works:
     date: '2026-11-13'
     code: 696096
     url: /works/696096/
+  - title: Aishita Haha o, Boku wa Dakenai - I can't have sex with my mother I love.
+    author: toono-suika
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696581.jpg
+    rating: 0.0
+    date: '2026-11-14'
+    code: 696581
+    url: /works/696581/
   - title: Slut-Only Car ~BITCH ONLY~
     author: indo-curry-in-ka-of-the-dead
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696693.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-11-14'
     code: 696693
     url: /works/696693/
   - title: Bishonureduma to Tsuyudakuotto | Soaking Wet Wife and Drenched Husband
     author: gurida-soumu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696916.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-14'
     code: 696916
     url: /works/696916/
   - title: Papa nanka Mou Kirai | I'm Done with Daddy
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696966.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-14'
     code: 696966
     url: /works/696966/

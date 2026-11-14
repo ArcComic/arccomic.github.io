@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "triple penetration"
-work_count: 3
+work_count: 4
 works:
   - title: Datenshi Corruption II
     author: napo
@@ -17,6 +17,13 @@ works:
     date: '2026-04-19'
     code: 534663
     url: /works/534663/
+  - title: Yokujou Shugakuryokou | Horny School Trip
+    author: shiono-kou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/545885.jpg
+    rating: 0.0
+    date: '2026-11-14'
+    code: 545885
+    url: /works/545885/
   - title: The World Called Wife ~ Experiencing Her Pleasure Myself ~
     author: sabusuka
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695574.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "female teacher"
-work_count: 5
+work_count: 6
 works:
   - title: Sei no Kenryoku | The Power of Sex
     author: tomohiro-kai
@@ -18,6 +18,13 @@ works:
     date: '2026-08-20'
     code: 537794
     url: /works/537794/
+  - title: Yokujou Shugakuryokou | Horny School Trip
+    author: shiono-kou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/545885.jpg
+    rating: 0.0
+    date: '2026-11-14'
+    code: 545885
+    url: /works/545885/
   - title: Good Teachers
     author: nodo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/648310.jpg

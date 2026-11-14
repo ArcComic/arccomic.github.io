@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "closed eyes"
-work_count: 8
+work_count: 9
 works:
   - title: Sokukan Delivery
     author: ice
@@ -17,6 +17,13 @@ works:
     date: '2026-07-10'
     code: 398305
     url: /works/398305/
+  - title: '"Masochists" can''t pass on their genes! | "Mazo" wa Idenshi Nokosemasen!'
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/541553.jpg
+    rating: 0.0
+    date: '2026-11-14'
+    code: 541553
+    url: /works/541553/
   - title: Kichiku Kyoushi ni Otosareta Boku no Seitokaichou Part.3
     author: norakuro-nero
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/557452.jpg
