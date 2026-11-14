@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "multi-work series"
-work_count: 496
+work_count: 497
 works:
   - title: Konna ni mo Itooshii Zero
     author: nohito
@@ -1490,6 +1490,13 @@ works:
     date: '2026-04-23'
     code: 628865
     url: /works/628865/
+  - title: Rental Kanojo Osawari Shimasu 10 ー Grope-a-Girlfriend 10
+    author: yahiro-pochi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/629900.jpg
+    rating: 0.0
+    date: '2026-11-14'
+    code: 629900
+    url: /works/629900/
   - title: Cool-kei Toshiue BariCare Kanojo Songen Hakai Wakan2 ~Jun-ai NTR Gokko Hen~
     author: hatsuden-pengin
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/630105.jpg

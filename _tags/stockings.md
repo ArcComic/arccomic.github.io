@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "stockings"
-work_count: 296
+work_count: 297
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -2105,6 +2105,13 @@ works:
     date: '2026-11-08'
     code: 694670
     url: /works/694670/
+  - title: Fufu, Gomen. Bitch ja Nai wa
+    author: kanonhou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695165.jpg
+    rating: 0.0
+    date: '2026-11-14'
+    code: 695165
+    url: /works/695165/
   - title: Takuhai Shoujo - Delivery Girl
     author: jp06
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695224.jpg

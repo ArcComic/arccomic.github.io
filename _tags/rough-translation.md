@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "rough translation"
-work_count: 835
+work_count: 836
 works:
   - title: Boku no Shiranai Kimi no Kao
     author: utsutsu-minoru
@@ -1241,6 +1241,13 @@ works:
     date: '2026-07-09'
     code: 633938
     url: /works/633938/
+  - title: A story about a single mom who ended up trying to get pregnant with her son
+    author: resoman-manga-koubou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/634065.jpg
+    rating: 0.0
+    date: '2026-11-14'
+    code: 634065
+    url: /works/634065/
   - title: Making a baby with my mom at the public bath
     author: resoman-manga-koubou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/634067.jpg

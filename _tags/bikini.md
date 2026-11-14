@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bikini"
-work_count: 112
+work_count: 113
 works:
   - title: Kizashi
     author: yoshiura-kazuya
@@ -304,6 +304,13 @@ works:
     date: '2026-09-24'
     code: 628126
     url: /works/628126/
+  - title: Rental Kanojo Osawari Shimasu 10 ー Grope-a-Girlfriend 10
+    author: yahiro-pochi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/629900.jpg
+    rating: 0.0
+    date: '2026-11-14'
+    code: 629900
+    url: /works/629900/
   - title: Sex Shinai to Derarenai Hotel 2 | The hotel you can't leave without having
       sex 2
     author: jeattle

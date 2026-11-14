@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big penis"
-work_count: 359
+work_count: 360
 works:
   - title: Tsuma no Imouto no Danna ga Ie ni Kiteiruyoudesu | My Sister-In-Law's Husband
       is Over
@@ -2465,6 +2465,13 @@ works:
     date: '2026-11-09'
     code: 694974
     url: /works/694974/
+  - title: Fufu, Gomen. Bitch ja Nai wa
+    author: kanonhou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695165.jpg
+    rating: 0.0
+    date: '2026-11-14'
+    code: 695165
+    url: /works/695165/
   - title: Sold Out 2 (ENG) =TB=
     author: minegami-aya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695211.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "shotacon"
-work_count: 177
+work_count: 178
 works:
   - title: Okki na Kanojo ni Amaetai | I want to be pampered by a girl of generous girth
     author: higashino-mikan
@@ -548,6 +548,13 @@ works:
     date: '2026-07-17'
     code: 632056
     url: /works/632056/
+  - title: A story about a single mom who ended up trying to get pregnant with her son
+    author: resoman-manga-koubou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/634065.jpg
+    rating: 0.0
+    date: '2026-11-14'
+    code: 634065
+    url: /works/634065/
   - title: Making a baby with my mom at the public bath
     author: resoman-manga-koubou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/634067.jpg

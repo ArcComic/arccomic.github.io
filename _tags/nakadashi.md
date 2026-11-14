@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "nakadashi"
-work_count: 1122
+work_count: 1124
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -3539,6 +3539,13 @@ works:
     date: '2026-03-02'
     code: 633842
     url: /works/633842/
+  - title: A story about a single mom who ended up trying to get pregnant with her son
+    author: resoman-manga-koubou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/634065.jpg
+    rating: 0.0
+    date: '2026-11-14'
+    code: 634065
+    url: /works/634065/
   - title: 2-nen C-gumi Gakuen Oppabu no Cast ni Imouto ga Ita | My Little Sister Was
       a Hostess at Class 2-C's School Festival Boobs Bar
     author: bunapi-397-yen
@@ -8079,6 +8086,13 @@ works:
     date: '2026-11-09'
     code: 694974
     url: /works/694974/
+  - title: Fufu, Gomen. Bitch ja Nai wa
+    author: kanonhou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695165.jpg
+    rating: 0.0
+    date: '2026-11-14'
+    code: 695165
+    url: /works/695165/
   - title: Sold Out 2 (ENG) =TB=
     author: minegami-aya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695211.jpg

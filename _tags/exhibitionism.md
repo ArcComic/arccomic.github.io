@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "exhibitionism"
-work_count: 108
+work_count: 109
 works:
   - title: Watashi-tachi no Seikoui Tokubetsu Jisshuu -Zengi Hen-
     author: guglielmo
@@ -232,6 +232,13 @@ works:
     date: '2026-07-17'
     code: 615538
     url: /works/615538/
+  - title: Rental Kanojo Osawari Shimasu 10 ー Grope-a-Girlfriend 10
+    author: yahiro-pochi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/629900.jpg
+    rating: 0.0
+    date: '2026-11-14'
+    code: 629900
+    url: /works/629900/
   - title: Have a nice day.
     author: owari-ningen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/632967.jpg

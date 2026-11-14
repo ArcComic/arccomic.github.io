@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "transparent clothing"
-work_count: 6
+work_count: 7
 works:
   - title: Ero-ero Massage
     author: shin-yu
@@ -10,6 +10,13 @@ works:
     date: '2026-11-08'
     code: 485499
     url: /works/485499/
+  - title: Rental Kanojo Osawari Shimasu 10 ー Grope-a-Girlfriend 10
+    author: yahiro-pochi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/629900.jpg
+    rating: 0.0
+    date: '2026-11-14'
+    code: 629900
+    url: /works/629900/
   - title: Siblings Shouldn't Do It! | Kyoudai de Shitara Ikemasen
     author: fence-14
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/635266.jpg

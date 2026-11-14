@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "milf"
-work_count: 581
+work_count: 582
 works:
   - title: Life with Married Women Just Like a Manga 2 - Ch. 1-5
     author: hidemaru
@@ -2064,6 +2064,13 @@ works:
     date: '2026-07-09'
     code: 633938
     url: /works/633938/
+  - title: A story about a single mom who ended up trying to get pregnant with her son
+    author: resoman-manga-koubou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/634065.jpg
+    rating: 0.0
+    date: '2026-11-14'
+    code: 634065
+    url: /works/634065/
   - title: Boku no Daisuki na Kaa-san to Omou Zonbun Sex Dekiru Hi 4 | My Fabulous Fuck
       Day with My Amazing Mommy 4
     author: higehurai

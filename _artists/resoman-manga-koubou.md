@@ -1,7 +1,7 @@
 ---
 layout: artist
 artist_name: "resoman-manga-koubou"
-work_count: 5
+work_count: 6
 works:
   - title: Musuko no Musei ga Egetsunai | His Wet Dream's Are Outrageous
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/559194.jpg
@@ -9,6 +9,12 @@ works:
     date: '2026-11-14'
     code: 559194
     url: /works/559194/
+  - title: A story about a single mom who ended up trying to get pregnant with her son
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/634065.jpg
+    rating: 0.0
+    date: '2026-11-14'
+    code: 634065
+    url: /works/634065/
   - title: Making a baby with my mom at the public bath
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/634067.jpg
     rating: 4.2

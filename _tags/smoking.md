@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "smoking"
-work_count: 10
+work_count: 11
 works:
   - title: Shirotaegiku | Dusty miller
     author: hiroya
@@ -69,6 +69,13 @@ works:
     date: '2026-11-12'
     code: 692083
     url: /works/692083/
+  - title: Fufu, Gomen. Bitch ja Nai wa
+    author: kanonhou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695165.jpg
+    rating: 0.0
+    date: '2026-11-14'
+    code: 695165
+    url: /works/695165/
   - title: Shiho Nishizumi vs BBC - Shiho Nishizumi VS. Big Black Cock
     author: rasson
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/695891.jpg
