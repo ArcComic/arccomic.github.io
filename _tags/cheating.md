@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "cheating"
-work_count: 478
+work_count: 479
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -3519,6 +3519,13 @@ works:
     date: '2026-11-14'
     code: 696502
     url: /works/696502/
+  - title: I want others to sleep with my wife
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696973.jpg
+    rating: 0.0
+    date: '2026-11-14'
+    code: 696973
+    url: /works/696973/
   - title: Jokyoushi - Hot For Teachers | Female Teachers
     author: drill-murata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/81375.jpg

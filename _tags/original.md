@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "original"
-work_count: 1445
+work_count: 1447
 works:
   - title: Gokuusu Mizugi de Okasaretagari ga Kakusenai
     author: kekemotsu
@@ -5673,6 +5673,13 @@ works:
     date: '2026-05-26'
     code: 652244
     url: /works/652244/
+  - title: Rikujobu-chan
+    author: zikataro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/652456.jpg
+    rating: 0.0
+    date: '2026-11-14'
+    code: 652456
+    url: /works/652456/
   - title: Muchi Muchi Tennen Joshidaisei no Dosukebe Jorei Taikenroku | The Chunky,
       Defenseless, Airheaded University Girl Get's A Crash Course In Perverted Exorcisms!
     author: inamimi
@@ -10767,4 +10774,11 @@ works:
     date: '2026-11-14'
     code: 696502
     url: /works/696502/
+  - title: I want others to sleep with my wife
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696973.jpg
+    rating: 0.0
+    date: '2026-11-14'
+    code: 696973
+    url: /works/696973/
 ---

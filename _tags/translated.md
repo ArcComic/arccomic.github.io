@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "translated"
-work_count: 2079
+work_count: 2081
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -987,6 +987,13 @@ works:
     date: '2026-10-15'
     code: 353048
     url: /works/353048/
+  - title: Senjou no Cinderella 3 | Suggestive Cinderella 3
+    author: ueto-seri
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/353192.jpg
+    rating: 0.0
+    date: '2026-11-14'
+    code: 353192
+    url: /works/353192/
   - title: Mesukko Okami Wakarase Shuzai Kiroku
     author: airandou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/354384.jpg
@@ -8195,6 +8202,13 @@ works:
     date: '2026-05-26'
     code: 652244
     url: /works/652244/
+  - title: Rikujobu-chan
+    author: zikataro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/652456.jpg
+    rating: 0.0
+    date: '2026-11-14'
+    code: 652456
+    url: /works/652456/
   - title: Muchi Muchi Tennen Joshidaisei no Dosukebe Jorei Taikenroku | The Chunky,
       Defenseless, Airheaded University Girl Get's A Crash Course In Perverted Exorcisms!
     author: inamimi

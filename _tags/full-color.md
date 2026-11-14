@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "full color"
-work_count: 315
+work_count: 316
 works:
   - title: Pai☆Panic ~Hasamareta Dekapai~
     author: inkey
@@ -1379,6 +1379,13 @@ works:
     date: '2026-05-20'
     code: 651296
     url: /works/651296/
+  - title: Rikujobu-chan
+    author: zikataro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/652456.jpg
+    rating: 0.0
+    date: '2026-11-14'
+    code: 652456
+    url: /works/652456/
   - title: Majime na Salaryman ga JK Chijo ni Otosareru Hanashi
     author: hamo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/652651.jpg

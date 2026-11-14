@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "garter belt"
-work_count: 42
+work_count: 43
 works:
   - title: Kaisha de Iroiro | Gettin' Busy at the Office
     author: hara-shigeyuki
@@ -31,6 +31,13 @@ works:
     date: '2026-04-19'
     code: 342500
     url: /works/342500/
+  - title: Senjou no Cinderella 3 | Suggestive Cinderella 3
+    author: ueto-seri
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/353192.jpg
+    rating: 0.0
+    date: '2026-11-14'
+    code: 353192
+    url: /works/353192/
   - title: Shirotaegiku | Dusty miller
     author: hiroya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/370164.jpg

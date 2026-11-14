@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "rough translation"
-work_count: 836
+work_count: 838
 works:
   - title: Boku no Shiranai Kimi no Kao
     author: utsutsu-minoru
@@ -2103,6 +2103,13 @@ works:
     date: '2026-09-09'
     code: 651967
     url: /works/651967/
+  - title: Rikujobu-chan
+    author: zikataro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/652456.jpg
+    rating: 0.0
+    date: '2026-11-14'
+    code: 652456
+    url: /works/652456/
   - title: Atashi no Hou ga Tsuyoi Hazudattanoni!
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/652605.jpg
@@ -6129,4 +6136,11 @@ works:
     date: '2026-11-14'
     code: 696965
     url: /works/696965/
+  - title: I want others to sleep with my wife
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696973.jpg
+    rating: 0.0
+    date: '2026-11-14'
+    code: 696973
+    url: /works/696973/
 ---

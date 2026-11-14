@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "condom"
-work_count: 298
+work_count: 299
 works:
   - title: Kaisha de Iroiro | Gettin' Busy at the Office
     author: hara-shigeyuki
@@ -2204,6 +2204,13 @@ works:
     date: '2026-11-14'
     code: 696502
     url: /works/696502/
+  - title: I want others to sleep with my wife
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696973.jpg
+    rating: 0.0
+    date: '2026-11-14'
+    code: 696973
+    url: /works/696973/
   - title: Ranko-ppoi no! | Ranko-Ish!
     author: napata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/87393.jpg

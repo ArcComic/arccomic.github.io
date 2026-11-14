@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "stockings"
-work_count: 297
+work_count: 298
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -186,6 +186,13 @@ works:
     date: '2026-04-23'
     code: 342540
     url: /works/342540/
+  - title: Senjou no Cinderella 3 | Suggestive Cinderella 3
+    author: ueto-seri
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/353192.jpg
+    rating: 0.0
+    date: '2026-11-14'
+    code: 353192
+    url: /works/353192/
   - title: Mesukko Okami Wakarase Shuzai Kiroku
     author: airandou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/354384.jpg

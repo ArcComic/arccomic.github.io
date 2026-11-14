@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "blowjob"
-work_count: 881
+work_count: 882
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -6538,6 +6538,13 @@ works:
     date: '2026-11-14'
     code: 696502
     url: /works/696502/
+  - title: I want others to sleep with my wife
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696973.jpg
+    rating: 0.0
+    date: '2026-11-14'
+    code: 696973
+    url: /works/696973/
   - title: Jokyoushi - Hot For Teachers | Female Teachers
     author: drill-murata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/81375.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "tanlines"
-work_count: 38
+work_count: 39
 works:
   - title: Mizugi no Shita no Yuuwaku | Temptation Beneath The Swimsuit
     author: gustav
@@ -124,6 +124,13 @@ works:
     date: '2026-05-07'
     code: 648310
     url: /works/648310/
+  - title: Rikujobu-chan
+    author: zikataro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/652456.jpg
+    rating: 0.0
+    date: '2026-11-14'
+    code: 652456
+    url: /works/652456/
   - title: Seishidouin no Oshigoto Soushuuhen1 | Sex Instructor Compilation Vol. 1
     author: malcorond
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/653978.jpg

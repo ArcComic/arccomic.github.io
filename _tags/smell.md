@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "smell"
-work_count: 39
+work_count: 40
 works:
   - title: Natsu Jiru Ch. 1-2
     author: sena-youtarou
@@ -142,6 +142,13 @@ works:
     date: '2026-05-05'
     code: 648093
     url: /works/648093/
+  - title: Rikujobu-chan
+    author: zikataro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/652456.jpg
+    rating: 0.0
+    date: '2026-11-14'
+    code: 652456
+    url: /works/652456/
   - title: 'Tall, Tanned, Tomboyish! Nagisa-chan 3 — Since Pregnant Nagisa-chan Can''t
       Do It, Nagisa''s Hairy Mama Takes Care of the Sexual Relief: Sex Edition'
     author: ishikarian

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "tomboy"
-work_count: 92
+work_count: 93
 works:
   - title: Kizashi
     author: yoshiura-kazuya
@@ -386,6 +386,13 @@ works:
     date: '2026-09-30'
     code: 651928
     url: /works/651928/
+  - title: Rikujobu-chan
+    author: zikataro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/652456.jpg
+    rating: 0.0
+    date: '2026-11-14'
+    code: 652456
+    url: /works/652456/
   - title: Atashi no Hou ga Tsuyoi Hazudattanoni!
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/652605.jpg

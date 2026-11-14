@@ -1,7 +1,7 @@
 ---
 layout: artist
 artist_name: "ueto-seri"
-work_count: 5
+work_count: 6
 works:
   - title: Senjou no Cinderella 1 | Suggestive Cinderella 1
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/352895.jpg
@@ -9,6 +9,12 @@ works:
     date: '2026-11-14'
     code: 352895
     url: /works/352895/
+  - title: Senjou no Cinderella 3 | Suggestive Cinderella 3
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/353192.jpg
+    rating: 0.0
+    date: '2026-11-14'
+    code: 353192
+    url: /works/353192/
   - title: Nee-sama ni Omakase | Leave It To Nee-sama
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/392518.jpg
     rating: 4.8
