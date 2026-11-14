@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "prostate massage"
-work_count: 26
+work_count: 27
 works:
   - title: Yuri no o saifu ni shite agemasu ne, Senpai | I'll turn you into Yuri's wallet,
       Senpai
@@ -186,6 +186,13 @@ works:
     date: '2026-11-08'
     code: 689137
     url: /works/689137/
+  - title: Slut-Only Car ~BITCH ONLY~
+    author: indo-curry-in-ka-of-the-dead
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696693.jpg
+    rating: 0.0
+    date: '2026-11-14'
+    code: 696693
+    url: /works/696693/
   - title: Jokyoushi - Hot For Teachers | Female Teachers
     author: drill-murata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/81375.jpg

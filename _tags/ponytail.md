@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "ponytail"
-work_count: 238
+work_count: 240
 works:
   - title: Ami Mami Mind 5
     author: tsurui
@@ -145,6 +145,13 @@ works:
     date: '2026-04-27'
     code: 416883
     url: /works/416883/
+  - title: Soujuku DREAMER | Premature DREAMER
+    author: ueto-seri
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/418819.jpg
+    rating: 4.9
+    date: '2026-11-14'
+    code: 418819
+    url: /works/418819/
   - title: Yasashii Oba-san Yarashii Oba-san | Kind Lady, Dirty Lady Ch. 1-3
     author: hidemaru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/421874.jpg
@@ -1757,4 +1764,11 @@ works:
     date: '2026-11-13'
     code: 696116
     url: /works/696116/
+  - title: Slut-Only Car ~BITCH ONLY~
+    author: indo-curry-in-ka-of-the-dead
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696693.jpg
+    rating: 0.0
+    date: '2026-11-14'
+    code: 696693
+    url: /works/696693/
 ---

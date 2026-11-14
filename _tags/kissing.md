@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "kissing"
-work_count: 525
+work_count: 526
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -3930,6 +3930,13 @@ works:
     date: '2026-11-14'
     code: 696502
     url: /works/696502/
+  - title: Slut-Only Car ~BITCH ONLY~
+    author: indo-curry-in-ka-of-the-dead
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696693.jpg
+    rating: 0.0
+    date: '2026-11-14'
+    code: 696693
+    url: /works/696693/
   - title: Bishonureduma to Tsuyudakuotto | Soaking Wet Wife and Drenched Husband
     author: gurida-soumu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696916.jpg

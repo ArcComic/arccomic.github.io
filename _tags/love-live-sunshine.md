@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "love live sunshine"
-work_count: 6
+work_count: 7
 works:
   - title: Datenshi Corruption II
     author: napo
@@ -45,4 +45,11 @@ works:
     date: '2026-11-13'
     code: 392518
     url: /works/392518/
+  - title: Soujuku DREAMER | Premature DREAMER
+    author: ueto-seri
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/418819.jpg
+    rating: 4.9
+    date: '2026-11-14'
+    code: 418819
+    url: /works/418819/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "doujinshi"
-work_count: 1776
+work_count: 1778
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -1123,6 +1123,13 @@ works:
     date: '2026-04-27'
     code: 416883
     url: /works/416883/
+  - title: Soujuku DREAMER | Premature DREAMER
+    author: ueto-seri
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/418819.jpg
+    rating: 4.9
+    date: '2026-11-14'
+    code: 418819
+    url: /works/418819/
   - title: TomoKano Kaa-chan II ~Jitaku, Musuko no Tomodachi ni Ochita Natsu~ | My Mom
       Is My Friend's Girlfriend 2
     author: tarobaumu
@@ -11650,6 +11657,13 @@ works:
     date: '2026-10-03'
     code: 685563
     url: /works/685563/
+  - title: Suki-tte Itcha Dame! | You can't say i like you
+    author: pipo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685582.jpg
+    rating: 0.0
+    date: '2026-11-14'
+    code: 685582
+    url: /works/685582/
   - title: Jichikai no Hitozuma wa Totemo Ecchi Deshita. 4 Natsu matsuri moto jikkou
       iin Miyamori Chizuru-hen
     author: tsusauto

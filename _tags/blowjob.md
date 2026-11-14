@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "blowjob"
-work_count: 882
+work_count: 884
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -618,6 +618,13 @@ works:
     date: '2026-10-17'
     code: 416852
     url: /works/416852/
+  - title: Soujuku DREAMER | Premature DREAMER
+    author: ueto-seri
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/418819.jpg
+    rating: 4.9
+    date: '2026-11-14'
+    code: 418819
+    url: /works/418819/
   - title: TomoKano Kaa-chan II ~Jitaku, Musuko no Tomodachi ni Ochita Natsu~ | My Mom
       Is My Friend's Girlfriend 2
     author: tarobaumu
@@ -6538,6 +6545,13 @@ works:
     date: '2026-11-14'
     code: 696502
     url: /works/696502/
+  - title: Slut-Only Car ~BITCH ONLY~
+    author: indo-curry-in-ka-of-the-dead
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696693.jpg
+    rating: 0.0
+    date: '2026-11-14'
+    code: 696693
+    url: /works/696693/
   - title: I want others to sleep with my wife
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696973.jpg

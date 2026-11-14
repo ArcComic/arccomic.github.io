@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "netorare"
-work_count: 539
+work_count: 541
 works:
   - title: Kousa suru Osu to Mesu | Male and Female Crossing
     author: ootsuka-kotora
@@ -3535,6 +3535,13 @@ works:
     date: '2026-10-03'
     code: 685546
     url: /works/685546/
+  - title: Suki-tte Itcha Dame! | You can't say i like you
+    author: pipo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685582.jpg
+    rating: 0.0
+    date: '2026-11-14'
+    code: 685582
+    url: /works/685582/
   - title: Jichikai no Hitozuma wa Totemo Ecchi Deshita. 4 Natsu matsuri moto jikkou
       iin Miyamori Chizuru-hen
     author: tsusauto
@@ -3960,6 +3967,13 @@ works:
     date: '2026-11-14'
     code: 696502
     url: /works/696502/
+  - title: Slut-Only Car ~BITCH ONLY~
+    author: indo-curry-in-ka-of-the-dead
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696693.jpg
+    rating: 0.0
+    date: '2026-11-14'
+    code: 696693
+    url: /works/696693/
   - title: I want others to sleep with my wife
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696973.jpg

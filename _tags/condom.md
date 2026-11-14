@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "condom"
-work_count: 299
+work_count: 301
 works:
   - title: Kaisha de Iroiro | Gettin' Busy at the Office
     author: hara-shigeyuki
@@ -1950,6 +1950,13 @@ works:
     date: '2026-09-30'
     code: 684759
     url: /works/684759/
+  - title: Suki-tte Itcha Dame! | You can't say i like you
+    author: pipo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685582.jpg
+    rating: 0.0
+    date: '2026-11-14'
+    code: 685582
+    url: /works/685582/
   - title: Kanojo wa mada 18cm Ijou o Shiranai. | She has never experienced anything
       close to 18 cm.
     author: nyaa-no-esa
@@ -2204,6 +2211,13 @@ works:
     date: '2026-11-14'
     code: 696502
     url: /works/696502/
+  - title: Slut-Only Car ~BITCH ONLY~
+    author: indo-curry-in-ka-of-the-dead
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696693.jpg
+    rating: 0.0
+    date: '2026-11-14'
+    code: 696693
+    url: /works/696693/
   - title: I want others to sleep with my wife
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696973.jpg

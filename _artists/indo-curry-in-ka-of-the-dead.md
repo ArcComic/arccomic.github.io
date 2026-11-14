@@ -1,7 +1,7 @@
 ---
 layout: artist
 artist_name: "indo-curry-in-ka-of-the-dead"
-work_count: 1
+work_count: 2
 works:
   - title: Konyakusha no Imouto wa Kao SSR, Seikaku Saiaku Jigoku no Ero Dance Onna.
       2 | My Fiancée's Younger Sister is a SSR Influencer with a Terrible Personality
@@ -11,4 +11,10 @@ works:
     date: '2026-08-29'
     code: 676320
     url: /works/676320/
+  - title: Slut-Only Car ~BITCH ONLY~
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696693.jpg
+    rating: 0.0
+    date: '2026-11-14'
+    code: 696693
+    url: /works/696693/
 ---

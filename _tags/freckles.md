@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "freckles"
-work_count: 12
+work_count: 13
 works:
   - title: Kanojo no Amai Jiraishuu
     author: jirou
@@ -90,4 +90,11 @@ works:
     date: '2026-09-10'
     code: 679977
     url: /works/679977/
+  - title: Suki-tte Itcha Dame! | You can't say i like you
+    author: pipo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/685582.jpg
+    rating: 0.0
+    date: '2026-11-14'
+    code: 685582
+    url: /works/685582/
 ---

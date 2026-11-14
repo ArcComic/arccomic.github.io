@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "breast expansion"
-work_count: 6
+work_count: 7
 works:
   - title: Kono Smapho Appli de Sex wa Risouka Sareru! ~Kozakura Kumaneko Full Color
       Sakuhinshuu~
@@ -49,4 +49,11 @@ works:
     date: '2026-09-17'
     code: 681687
     url: /works/681687/
+  - title: Slut-Only Car ~BITCH ONLY~
+    author: indo-curry-in-ka-of-the-dead
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696693.jpg
+    rating: 0.0
+    date: '2026-11-14'
+    code: 696693
+    url: /works/696693/
 ---

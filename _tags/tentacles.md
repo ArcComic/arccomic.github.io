@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "tentacles"
-work_count: 16
+work_count: 17
 works:
   - title: 'Haiboku no Daishou ~Okasare Ubaware Hametsu suru Shuudoujou~ | Price of
       Defeat: Downfall of the Violated and Plundered Sister'
@@ -118,4 +118,11 @@ works:
     date: '2026-10-17'
     code: 688293
     url: /works/688293/
+  - title: Slut-Only Car ~BITCH ONLY~
+    author: indo-curry-in-ka-of-the-dead
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696693.jpg
+    rating: 0.0
+    date: '2026-11-14'
+    code: 696693
+    url: /works/696693/
 ---

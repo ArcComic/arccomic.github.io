@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "clit growth"
-work_count: 2
+work_count: 3
 works:
   - title: Re. Bishoujo Seitokaichou o Seibyou Mochi no Owakon Onna ni Otosu Hanashi
     author: kyouan
@@ -18,4 +18,11 @@ works:
     date: '2026-11-11'
     code: 577156
     url: /works/577156/
+  - title: Slut-Only Car ~BITCH ONLY~
+    author: indo-curry-in-ka-of-the-dead
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696693.jpg
+    rating: 0.0
+    date: '2026-11-14'
+    code: 696693
+    url: /works/696693/
 ---
