@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole male"
-work_count: 1207
+work_count: 1210
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -621,6 +621,13 @@ works:
     date: '2026-10-07'
     code: 352215
     url: /works/352215/
+  - title: Senjou no Cinderella 1 | Suggestive Cinderella 1
+    author: ueto-seri
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/352895.jpg
+    rating: 0.0
+    date: '2026-11-14'
+    code: 352895
+    url: /works/352895/
   - title: ERIKA Vol. 2
     author: hankotsu-max
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/353025.jpg
@@ -8958,6 +8965,20 @@ works:
     date: '2026-11-14'
     code: 696375
     url: /works/696375/
+  - title: Rental Kanojo Osawari Shimasu 13
+    author: yahiro-pochi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696965.jpg
+    rating: 0.0
+    date: '2026-11-14'
+    code: 696965
+    url: /works/696965/
+  - title: Papa nanka Mou Kirai | I'm Done with Daddy
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696966.jpg
+    rating: 0.0
+    date: '2026-11-14'
+    code: 696966
+    url: /works/696966/
   - title: Ranko-ppoi no! | Ranko-Ish!
     author: napata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/87393.jpg

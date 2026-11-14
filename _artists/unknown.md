@@ -1,7 +1,7 @@
 ---
 layout: artist
 artist_name: "unknown"
-work_count: 90
+work_count: 91
 works:
   - title: Hajimete Kanojo Ga Dekita No Ni
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/316579.jpg
@@ -565,4 +565,10 @@ works:
     date: '2026-11-12'
     code: 695653
     url: /works/695653/
+  - title: Papa nanka Mou Kirai | I'm Done with Daddy
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696966.jpg
+    rating: 0.0
+    date: '2026-11-14'
+    code: 696966
+    url: /works/696966/
 ---

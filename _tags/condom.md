@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "condom"
-work_count: 296
+work_count: 297
 works:
   - title: Kaisha de Iroiro | Gettin' Busy at the Office
     author: hara-shigeyuki
@@ -152,6 +152,13 @@ works:
     date: '2026-09-04'
     code: 347653
     url: /works/347653/
+  - title: Senjou no Cinderella 1 | Suggestive Cinderella 1
+    author: ueto-seri
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/352895.jpg
+    rating: 0.0
+    date: '2026-11-14'
+    code: 352895
+    url: /works/352895/
   - title: ERIKA Vol. 2
     author: hankotsu-max
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/353025.jpg

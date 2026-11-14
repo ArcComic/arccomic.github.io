@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "mosaic censorship"
-work_count: 396
+work_count: 397
 works:
   - title: Okki na Kanojo ni Amaetai | I want to be pampered by a girl of generous girth
     author: higashino-mikan
@@ -2921,4 +2921,11 @@ works:
     date: '2026-11-11'
     code: 695890
     url: /works/695890/
+  - title: Papa nanka Mou Kirai | I'm Done with Daddy
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696966.jpg
+    rating: 0.0
+    date: '2026-11-14'
+    code: 696966
+    url: /works/696966/
 ---

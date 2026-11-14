@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bikini"
-work_count: 111
+work_count: 112
 works:
   - title: Kizashi
     author: yoshiura-kazuya
@@ -846,4 +846,11 @@ works:
     date: '2026-11-13'
     code: 696116
     url: /works/696116/
+  - title: Rental Kanojo Osawari Shimasu 13
+    author: yahiro-pochi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696965.jpg
+    rating: 0.0
+    date: '2026-11-14'
+    code: 696965
+    url: /works/696965/
 ---

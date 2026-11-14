@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "rape"
-work_count: 289
+work_count: 290
 works:
   - title: Office Love Scramble Ch. 1
     author: tohzai
@@ -2111,4 +2111,11 @@ works:
     date: '2026-11-09'
     code: 695351
     url: /works/695351/
+  - title: Papa nanka Mou Kirai | I'm Done with Daddy
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696966.jpg
+    rating: 0.0
+    date: '2026-11-14'
+    code: 696966
+    url: /works/696966/
 ---

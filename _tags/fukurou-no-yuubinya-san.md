@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "fukurou no yuubinya san"
-work_count: 6
+work_count: 7
 works:
+  - title: Senjou no Cinderella 1 | Suggestive Cinderella 1
+    author: ueto-seri
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/352895.jpg
+    rating: 0.0
+    date: '2026-11-14'
+    code: 352895
+    url: /works/352895/
   - title: Nee-sama ni Omakase | Leave It To Nee-sama
     author: ueto-seri
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/392518.jpg

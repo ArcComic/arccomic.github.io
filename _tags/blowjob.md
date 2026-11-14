@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "blowjob"
-work_count: 879
+work_count: 880
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -345,6 +345,13 @@ works:
     date: '2026-10-10'
     code: 351810
     url: /works/351810/
+  - title: Senjou no Cinderella 1 | Suggestive Cinderella 1
+    author: ueto-seri
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/352895.jpg
+    rating: 0.0
+    date: '2026-11-14'
+    code: 352895
+    url: /works/352895/
   - title: Mesukko Okami Wakarase Shuzai Kiroku
     author: airandou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/354384.jpg

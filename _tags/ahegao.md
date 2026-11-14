@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "ahegao"
-work_count: 440
+work_count: 441
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -111,6 +111,13 @@ works:
     date: '2026-09-18'
     code: 333923
     url: /works/333923/
+  - title: Senjou no Cinderella 1 | Suggestive Cinderella 1
+    author: ueto-seri
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/352895.jpg
+    rating: 0.0
+    date: '2026-11-14'
+    code: 352895
+    url: /works/352895/
   - title: Megane Loli Choukyou Jugyou!! ~Otonashii Megane Lolikko ni Muriyari Dekachin
       Sounyuu~ | The Loli In Glasses' Training Lesson!! ~Force Fucking a Timid Glasses
       Wearing Loli With My Big Cock~ Ch. 1-5
