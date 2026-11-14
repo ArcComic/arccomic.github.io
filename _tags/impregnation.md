@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "impregnation"
-work_count: 197
+work_count: 198
 works:
   - title: Kousa suru Osu to Mesu | Male and Female Crossing
     author: ootsuka-kotora
@@ -246,7 +246,7 @@ works:
   - title: Ojou-sama to Maid o Iinazuke ni Torarete Okobore Ecchi suru Hanashi
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/459385.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-13'
     code: 459385
     url: /works/459385/
@@ -321,7 +321,7 @@ works:
   - title: Tsuma no Netorase | Wife’s Netorase
     author: muripoyo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/494662.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-11-13'
     code: 494662
     url: /works/494662/
@@ -673,7 +673,7 @@ works:
   - title: Making a baby with my mom at the public bath
     author: resoman-manga-koubou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/634067.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-11-13'
     code: 634067
     url: /works/634067/
@@ -838,7 +838,7 @@ works:
       Mom Who Wants to Forbid Her Son from Masturbating
     author: resoman-manga-koubou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/648743.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-11-13'
     code: 648743
     url: /works/648743/
@@ -1449,10 +1449,17 @@ works:
   - title: '"Sekai no Owarix" o Shiyou | Let''s have "end-of-the-world sex."'
     author: yonayona
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696362.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-11-13'
     code: 696362
     url: /works/696362/
+  - title: I thought it was just going to be a date at home…
+    author: enari
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696375.jpg
+    rating: 4.1
+    date: '2026-11-14'
+    code: 696375
+    url: /works/696375/
   - title: Inin Keiyaku | Lewd Pregnancy Contract
     author: yoshiura-kazuya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/83595.jpg

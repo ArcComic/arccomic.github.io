@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "shaved head"
-work_count: 24
+work_count: 25
 works:
   - title: Natsu Asobi | Summer Play
     author: ame-arare
@@ -29,7 +29,7 @@ works:
   - title: Odosare Haha | Blackmailed Mother
     author: muripoyo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/493234.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-11-13'
     code: 493234
     url: /works/493234/
@@ -86,7 +86,7 @@ works:
   - title: Kaa-san ga Shikoi nante - My Mom is So Hot
     author: oroboy
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/585709.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-11-13'
     code: 585709
     url: /works/585709/
@@ -179,4 +179,11 @@ works:
     date: '2026-11-10'
     code: 695586
     url: /works/695586/
+  - title: I thought it was just going to be a date at home…
+    author: enari
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696375.jpg
+    rating: 4.1
+    date: '2026-11-14'
+    code: 696375
+    url: /works/696375/
 ---

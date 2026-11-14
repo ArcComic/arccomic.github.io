@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "multipanel sequence"
-work_count: 33
+work_count: 34
 works:
   - title: Nibun no Yuudou | Half Seduction
     author: chicke-iii
@@ -40,6 +40,14 @@ works:
     date: '2026-04-27'
     code: 452482
     url: /works/452482/
+  - title: Tanesaki Kaori (39), Musume no Kawari ni Doujin AV Debut  | Tanesaki Kaori
+      (39) Makes Her Doujin AV Debut in Place of Her Daughter
+    author: shinjiro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/492830.jpg
+    rating: 0.0
+    date: '2026-11-14'
+    code: 492830
+    url: /works/492830/
   - title: Yamazaki Makie (3●-sai), Musume no Kareshi to SeFri ni Naru | Yamazaki Makie
       (3X Years Old), Becoming Fuck Buddies with her Daughter's Boyfriend
     author: ryuuta
@@ -253,7 +261,7 @@ works:
   - title: '"Sekai no Owarix" o Shiyou | Let''s have "end-of-the-world sex."'
     author: yonayona
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696362.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-11-13'
     code: 696362
     url: /works/696362/

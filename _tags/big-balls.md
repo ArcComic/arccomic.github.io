@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "big balls"
-work_count: 2
+work_count: 3
 works:
+  - title: Musuko no Musei ga Egetsunai | His Wet Dream's Are Outrageous
+    author: resoman-manga-koubou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/559194.jpg
+    rating: 0.0
+    date: '2026-11-14'
+    code: 559194
+    url: /works/559194/
   - title: 30cm Chou Tsuyotsuyo Futanari Chinpo o Semen ga Karerukurai Manzoku Saserareru
       kana?
     author: sabakan

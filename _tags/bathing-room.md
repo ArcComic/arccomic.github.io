@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bathing room"
-work_count: 32
+work_count: 33
 works:
   - title: Homestay-chu no Doitsu Musume ga Issho ni Furo ni Haitte Kuru Wake | The
       Reason Why a German Girl Takes a Bath Together With Me on Her Homestay
@@ -46,7 +46,7 @@ works:
   - title: Kaa-san ga Shikoi nante - My Mom is So Hot
     author: oroboy
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/585709.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-11-13'
     code: 585709
     url: /works/585709/
@@ -244,8 +244,15 @@ works:
       Friend's Breasts
     author: agachi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696115.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-11-13'
     code: 696115
     url: /works/696115/
+  - title: I thought it was just going to be a date at home…
+    author: enari
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696375.jpg
+    rating: 4.1
+    date: '2026-11-14'
+    code: 696375
+    url: /works/696375/
 ---

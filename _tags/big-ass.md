@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big ass"
-work_count: 352
+work_count: 354
 works:
   - title: My Care Lady Ch. 1
     author: sugi-g
@@ -276,6 +276,14 @@ works:
     date: '2026-09-30'
     code: 491622
     url: /works/491622/
+  - title: Tanesaki Kaori (39), Musume no Kawari ni Doujin AV Debut  | Tanesaki Kaori
+      (39) Makes Her Doujin AV Debut in Place of Her Daughter
+    author: shinjiro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/492830.jpg
+    rating: 0.0
+    date: '2026-11-14'
+    code: 492830
+    url: /works/492830/
   - title: Musume no Tomodachi ga Yuuwaku Suru 2 | My Daughter's Friend Is Seducing
       Me 2
     author: jingrock
@@ -502,7 +510,7 @@ works:
   - title: Kaa-san ga Shikoi nante - My Mom is So Hot
     author: oroboy
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/585709.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-11-13'
     code: 585709
     url: /works/585709/
@@ -598,7 +606,7 @@ works:
   - title: Okazu Touban no Seitai | What It Means to Please - An Audiovisual Report
     author: kagto
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/598483.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-11-13'
     code: 598483
     url: /works/598483/
@@ -1171,7 +1179,7 @@ works:
       Mom Who Wants to Forbid Her Son from Masturbating
     author: resoman-manga-koubou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/648743.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-11-13'
     code: 648743
     url: /works/648743/
@@ -2625,7 +2633,7 @@ works:
       Friend's Breasts
     author: agachi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696115.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-11-13'
     code: 696115
     url: /works/696115/
@@ -2636,6 +2644,13 @@ works:
     date: '2026-11-13'
     code: 696116
     url: /works/696116/
+  - title: I thought it was just going to be a date at home…
+    author: enari
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696375.jpg
+    rating: 4.1
+    date: '2026-11-14'
+    code: 696375
+    url: /works/696375/
   - title: Inin Keiyaku | Lewd Pregnancy Contract
     author: yoshiura-kazuya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/83595.jpg

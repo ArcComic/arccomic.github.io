@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "shotacon"
-work_count: 175
+work_count: 177
 works:
   - title: Okki na Kanojo ni Amaetai | I want to be pampered by a girl of generous girth
     author: higashino-mikan
@@ -383,6 +383,13 @@ works:
     date: '2026-09-29'
     code: 551076
     url: /works/551076/
+  - title: Musuko no Musei ga Egetsunai | His Wet Dream's Are Outrageous
+    author: resoman-manga-koubou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/559194.jpg
+    rating: 0.0
+    date: '2026-11-14'
+    code: 559194
+    url: /works/559194/
   - title: Ijiwaru Mama Tomo Taisaku | Countermeasures Against Bullying Mothers
     author: chotto-b-sen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/561436.jpg
@@ -428,7 +435,7 @@ works:
   - title: Kaa-san ga Shikoi nante - My Mom is So Hot
     author: oroboy
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/585709.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-11-13'
     code: 585709
     url: /works/585709/
@@ -544,7 +551,7 @@ works:
   - title: Making a baby with my mom at the public bath
     author: resoman-manga-koubou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/634067.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-11-13'
     code: 634067
     url: /works/634067/
@@ -594,7 +601,7 @@ works:
   - title: Oyako Nakadashi desugemu | Parent-Child Creampie Death Game
     author: resoman-manga-koubou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/636516.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-11-13'
     code: 636516
     url: /works/636516/
@@ -755,7 +762,7 @@ works:
       Mom Who Wants to Forbid Her Son from Masturbating
     author: resoman-manga-koubou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/648743.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-11-13'
     code: 648743
     url: /works/648743/
@@ -1277,6 +1284,13 @@ works:
     date: '2026-11-11'
     code: 695703
     url: /works/695703/
+  - title: I thought it was just going to be a date at home…
+    author: enari
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696375.jpg
+    rating: 4.1
+    date: '2026-11-14'
+    code: 696375
+    url: /works/696375/
   - title: Jokyoushi - Hot For Teachers | Female Teachers
     author: drill-murata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/81375.jpg

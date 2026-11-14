@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "gyaru-oh"
-work_count: 50
+work_count: 51
 works:
   - title: Netorare Ibe Kiba Shizuka
     author: terasu-mc
@@ -81,10 +81,18 @@ works:
     date: '2026-10-15'
     code: 474458
     url: /works/474458/
+  - title: Tanesaki Kaori (39), Musume no Kawari ni Doujin AV Debut  | Tanesaki Kaori
+      (39) Makes Her Doujin AV Debut in Place of Her Daughter
+    author: shinjiro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/492830.jpg
+    rating: 0.0
+    date: '2026-11-14'
+    code: 492830
+    url: /works/492830/
   - title: Tsuma no Netorase | Wife’s Netorase
     author: muripoyo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/494662.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-11-13'
     code: 494662
     url: /works/494662/

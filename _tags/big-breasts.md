@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big breasts"
-work_count: 1462
+work_count: 1465
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -1243,7 +1243,7 @@ works:
   - title: Ojou-sama to Maid o Iinazuke ni Torarete Okobore Ecchi suru Hanashi
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/459385.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-13'
     code: 459385
     url: /works/459385/
@@ -1471,17 +1471,25 @@ works:
     date: '2026-10-11'
     code: 492104
     url: /works/492104/
+  - title: Tanesaki Kaori (39), Musume no Kawari ni Doujin AV Debut  | Tanesaki Kaori
+      (39) Makes Her Doujin AV Debut in Place of Her Daughter
+    author: shinjiro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/492830.jpg
+    rating: 0.0
+    date: '2026-11-14'
+    code: 492830
+    url: /works/492830/
   - title: Odosare Haha | Blackmailed Mother
     author: muripoyo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/493234.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-11-13'
     code: 493234
     url: /works/493234/
   - title: Tsuma no Netorase | Wife’s Netorase
     author: muripoyo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/494662.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-11-13'
     code: 494662
     url: /works/494662/
@@ -2271,7 +2279,7 @@ works:
   - title: Kanojo Netorase Isshuukan | One Week of Letting My Girlfriend Be Taken
     author: muripoyo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/541673.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-11-13'
     code: 541673
     url: /works/541673/
@@ -2562,6 +2570,13 @@ works:
     date: '2026-04-25'
     code: 559088
     url: /works/559088/
+  - title: Musuko no Musei ga Egetsunai | His Wet Dream's Are Outrageous
+    author: resoman-manga-koubou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/559194.jpg
+    rating: 0.0
+    date: '2026-11-14'
+    code: 559194
+    url: /works/559194/
   - title: Saikai shita Osananajimi to Issen o Koecchau Hanashi | I Reunited With My
       Longtime Friend and Crossed the Line
     author: satsuki-usa
@@ -2999,7 +3014,7 @@ works:
   - title: Kaa-san ga Shikoi nante - My Mom is So Hot
     author: oroboy
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/585709.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-11-13'
     code: 585709
     url: /works/585709/
@@ -3380,7 +3395,7 @@ works:
   - title: Okazu Touban no Seitai | What It Means to Please - An Audiovisual Report
     author: kagto
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/598483.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-11-13'
     code: 598483
     url: /works/598483/
@@ -3967,7 +3982,7 @@ works:
   - title: Osananajimi no Himitsu 3 | My childhood friend's secret 3
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/626684.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-11-13'
     code: 626684
     url: /works/626684/
@@ -4232,7 +4247,7 @@ works:
   - title: Making a baby with my mom at the public bath
     author: resoman-manga-koubou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/634067.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-11-13'
     code: 634067
     url: /works/634067/
@@ -4440,7 +4455,7 @@ works:
   - title: Oyako Nakadashi desugemu | Parent-Child Creampie Death Game
     author: resoman-manga-koubou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/636516.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-11-13'
     code: 636516
     url: /works/636516/
@@ -5437,7 +5452,7 @@ works:
       Mom Who Wants to Forbid Her Son from Masturbating
     author: resoman-manga-koubou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/648743.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-11-13'
     code: 648743
     url: /works/648743/
@@ -10798,7 +10813,7 @@ works:
   - title: Married Woman in Random Chat MTL
     author: luxsumildo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696096.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-11-13'
     code: 696096
     url: /works/696096/
@@ -10806,7 +10821,7 @@ works:
       Friend's Breasts
     author: agachi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696115.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-11-13'
     code: 696115
     url: /works/696115/
@@ -10820,10 +10835,17 @@ works:
   - title: '"Sekai no Owarix" o Shiyou | Let''s have "end-of-the-world sex."'
     author: yonayona
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696362.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-11-13'
     code: 696362
     url: /works/696362/
+  - title: I thought it was just going to be a date at home…
+    author: enari
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696375.jpg
+    rating: 4.1
+    date: '2026-11-14'
+    code: 696375
+    url: /works/696375/
   - title: Hottokenaino
     author: hara-shigeyuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/77864.jpg

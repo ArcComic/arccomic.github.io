@@ -71,7 +71,7 @@ works:
   - title: Odosare Haha | Blackmailed Mother
     author: muripoyo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/493234.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-11-13'
     code: 493234
     url: /works/493234/

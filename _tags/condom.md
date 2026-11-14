@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "condom"
-work_count: 295
+work_count: 296
 works:
   - title: Kaisha de Iroiro | Gettin' Busy at the Office
     author: hara-shigeyuki
@@ -235,7 +235,7 @@ works:
   - title: Nee-sama ni Omakase | Leave It To Nee-sama
     author: ueto-seri
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/392518.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-13'
     code: 392518
     url: /works/392518/
@@ -509,7 +509,7 @@ works:
   - title: Odosare Haha | Blackmailed Mother
     author: muripoyo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/493234.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-11-13'
     code: 493234
     url: /works/493234/
@@ -523,7 +523,7 @@ works:
   - title: Tsuma no Netorase | Wife’s Netorase
     author: muripoyo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/494662.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-11-13'
     code: 494662
     url: /works/494662/
@@ -664,7 +664,7 @@ works:
   - title: Kanojo Netorase Isshuukan | One Week of Letting My Girlfriend Be Taken
     author: muripoyo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/541673.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-11-13'
     code: 541673
     url: /works/541673/
@@ -895,7 +895,7 @@ works:
   - title: Okazu Touban no Seitai | What It Means to Please - An Audiovisual Report
     author: kagto
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/598483.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-11-13'
     code: 598483
     url: /works/598483/
@@ -1066,7 +1066,7 @@ works:
   - title: Osananajimi no Himitsu 3 | My childhood friend's secret 3
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/626684.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-11-13'
     code: 626684
     url: /works/626684/
@@ -1389,7 +1389,7 @@ works:
       Mom Who Wants to Forbid Her Son from Masturbating
     author: resoman-manga-koubou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/648743.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-11-13'
     code: 648743
     url: /works/648743/
@@ -2172,7 +2172,7 @@ works:
       Friend's Breasts
     author: agachi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696115.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-11-13'
     code: 696115
     url: /works/696115/
@@ -2183,6 +2183,13 @@ works:
     date: '2026-11-13'
     code: 696116
     url: /works/696116/
+  - title: I thought it was just going to be a date at home…
+    author: enari
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696375.jpg
+    rating: 4.1
+    date: '2026-11-14'
+    code: 696375
+    url: /works/696375/
   - title: Ranko-ppoi no! | Ranko-Ish!
     author: napata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/87393.jpg

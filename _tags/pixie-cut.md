@@ -347,7 +347,7 @@ works:
   - title: Osananajimi no Himitsu 3 | My childhood friend's secret 3
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/626684.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-11-13'
     code: 626684
     url: /works/626684/
@@ -910,7 +910,7 @@ works:
   - title: Married Woman in Random Chat MTL
     author: luxsumildo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696096.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-11-13'
     code: 696096
     url: /works/696096/

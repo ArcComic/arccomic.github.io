@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "filming"
-work_count: 142
+work_count: 143
 works:
   - title: Ikanishite Haha wa Onna o Kaihou Shitaka Ch. 1-14
     author: mitarai-yuuki
@@ -168,17 +168,25 @@ works:
     date: '2026-04-12'
     code: 492657
     url: /works/492657/
+  - title: Tanesaki Kaori (39), Musume no Kawari ni Doujin AV Debut  | Tanesaki Kaori
+      (39) Makes Her Doujin AV Debut in Place of Her Daughter
+    author: shinjiro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/492830.jpg
+    rating: 0.0
+    date: '2026-11-14'
+    code: 492830
+    url: /works/492830/
   - title: Odosare Haha | Blackmailed Mother
     author: muripoyo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/493234.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-11-13'
     code: 493234
     url: /works/493234/
   - title: Tsuma no Netorase | Wife’s Netorase
     author: muripoyo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/494662.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-11-13'
     code: 494662
     url: /works/494662/
@@ -306,7 +314,7 @@ works:
   - title: Okazu Touban no Seitai | What It Means to Please - An Audiovisual Report
     author: kagto
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/598483.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-11-13'
     code: 598483
     url: /works/598483/
@@ -386,7 +394,7 @@ works:
   - title: Osananajimi no Himitsu 3 | My childhood friend's secret 3
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/626684.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-11-13'
     code: 626684
     url: /works/626684/
@@ -416,7 +424,7 @@ works:
   - title: Oyako Nakadashi desugemu | Parent-Child Creampie Death Game
     author: resoman-manga-koubou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/636516.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-11-13'
     code: 636516
     url: /works/636516/
@@ -1036,7 +1044,7 @@ works:
       Friend's Breasts
     author: agachi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696115.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-11-13'
     code: 696115
     url: /works/696115/

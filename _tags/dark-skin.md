@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "dark skin"
-work_count: 200
+work_count: 202
 works:
   - title: Birthday
     author: hashiba-yachi
@@ -269,6 +269,14 @@ works:
     date: '2026-09-26'
     code: 490633
     url: /works/490633/
+  - title: Tanesaki Kaori (39), Musume no Kawari ni Doujin AV Debut  | Tanesaki Kaori
+      (39) Makes Her Doujin AV Debut in Place of Her Daughter
+    author: shinjiro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/492830.jpg
+    rating: 0.0
+    date: '2026-11-14'
+    code: 492830
+    url: /works/492830/
   - title: Obedience Part 1
     author: laliberte
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/501709.jpg
@@ -382,7 +390,7 @@ works:
   - title: Hatoba-san to Saruyama-kun | Hatoba and Saruyama
     author: gurida-soumu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/555984.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-11-13'
     code: 555984
     url: /works/555984/
@@ -1477,4 +1485,11 @@ works:
     date: '2026-11-12'
     code: 696030
     url: /works/696030/
+  - title: I thought it was just going to be a date at home…
+    author: enari
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696375.jpg
+    rating: 4.1
+    date: '2026-11-14'
+    code: 696375
+    url: /works/696375/
 ---

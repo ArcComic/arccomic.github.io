@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "paizuri"
-work_count: 311
+work_count: 312
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -301,7 +301,7 @@ works:
   - title: Tsuma no Netorase | Wife’s Netorase
     author: muripoyo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/494662.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-11-13'
     code: 494662
     url: /works/494662/
@@ -605,7 +605,7 @@ works:
   - title: Kaa-san ga Shikoi nante - My Mom is So Hot
     author: oroboy
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/585709.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-11-13'
     code: 585709
     url: /works/585709/
@@ -694,7 +694,7 @@ works:
   - title: Okazu Touban no Seitai | What It Means to Please - An Audiovisual Report
     author: kagto
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/598483.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-11-13'
     code: 598483
     url: /works/598483/
@@ -2322,7 +2322,7 @@ works:
       Friend's Breasts
     author: agachi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696115.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-11-13'
     code: 696115
     url: /works/696115/
@@ -2333,4 +2333,11 @@ works:
     date: '2026-11-13'
     code: 696116
     url: /works/696116/
+  - title: I thought it was just going to be a date at home…
+    author: enari
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696375.jpg
+    rating: 4.1
+    date: '2026-11-14'
+    code: 696375
+    url: /works/696375/
 ---

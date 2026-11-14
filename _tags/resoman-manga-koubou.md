@@ -1,19 +1,26 @@
 ---
 layout: tag
 tag_name: "resoman manga koubou"
-work_count: 4
+work_count: 5
 works:
+  - title: Musuko no Musei ga Egetsunai | His Wet Dream's Are Outrageous
+    author: resoman-manga-koubou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/559194.jpg
+    rating: 0.0
+    date: '2026-11-14'
+    code: 559194
+    url: /works/559194/
   - title: Making a baby with my mom at the public bath
     author: resoman-manga-koubou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/634067.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-11-13'
     code: 634067
     url: /works/634067/
   - title: Oyako Nakadashi desugemu | Parent-Child Creampie Death Game
     author: resoman-manga-koubou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/636516.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-11-13'
     code: 636516
     url: /works/636516/
@@ -21,7 +28,7 @@ works:
       Mom Who Wants to Forbid Her Son from Masturbating
     author: resoman-manga-koubou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/648743.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-11-13'
     code: 648743
     url: /works/648743/

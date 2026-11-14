@@ -109,7 +109,7 @@ works:
   - title: Ojou-sama to Maid o Iinazuke ni Torarete Okobore Ecchi suru Hanashi
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/459385.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-13'
     code: 459385
     url: /works/459385/
