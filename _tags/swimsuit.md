@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "swimsuit"
-work_count: 108
+work_count: 109
 works:
   - title: Kizashi
     author: yoshiura-kazuya
@@ -815,6 +815,13 @@ works:
     date: '2026-11-11'
     code: 695883
     url: /works/695883/
+  - title: Bishonureduma to Tsuyudakuotto | Soaking Wet Wife and Drenched Husband
+    author: gurida-soumu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696916.jpg
+    rating: 0.0
+    date: '2026-11-14'
+    code: 696916
+    url: /works/696916/
   - title: Rental Kanojo Osawari Shimasu 13
     author: yahiro-pochi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696965.jpg

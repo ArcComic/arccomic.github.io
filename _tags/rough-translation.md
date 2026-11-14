@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "rough translation"
-work_count: 834
+work_count: 835
 works:
   - title: Boku no Shiranai Kimi no Kao
     author: utsutsu-minoru
@@ -6108,6 +6108,13 @@ works:
     date: '2026-11-13'
     code: 696116
     url: /works/696116/
+  - title: Karume no Kanojo ga NTRreru made
+    author: bear-red-blue-soda
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696502.jpg
+    rating: 0.0
+    date: '2026-11-14'
+    code: 696502
+    url: /works/696502/
   - title: Rental Kanojo Osawari Shimasu 13
     author: yahiro-pochi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696965.jpg

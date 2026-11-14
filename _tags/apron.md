@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "apron"
-work_count: 31
+work_count: 32
 works:
   - title: Life with Married Women Just Like a Manga 2 - Ch. 1-5
     author: hidemaru
@@ -231,4 +231,11 @@ works:
     date: '2026-10-02'
     code: 685733
     url: /works/685733/
+  - title: Bishonureduma to Tsuyudakuotto | Soaking Wet Wife and Drenched Husband
+    author: gurida-soumu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696916.jpg
+    rating: 0.0
+    date: '2026-11-14'
+    code: 696916
+    url: /works/696916/
 ---

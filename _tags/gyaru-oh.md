@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "gyaru-oh"
-work_count: 51
+work_count: 52
 works:
   - title: Netorare Ibe Kiba Shizuka
     author: terasu-mc
@@ -384,4 +384,11 @@ works:
     date: '2026-10-26'
     code: 690849
     url: /works/690849/
+  - title: Karume no Kanojo ga NTRreru made
+    author: bear-red-blue-soda
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696502.jpg
+    rating: 0.0
+    date: '2026-11-14'
+    code: 696502
+    url: /works/696502/
 ---

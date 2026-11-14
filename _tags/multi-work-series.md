@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "multi-work series"
-work_count: 495
+work_count: 496
 works:
   - title: Konna ni mo Itooshii Zero
     author: nohito
@@ -3699,6 +3699,13 @@ works:
     date: '2026-11-11'
     code: 695890
     url: /works/695890/
+  - title: Karume no Kanojo ga NTRreru made
+    author: bear-red-blue-soda
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696502.jpg
+    rating: 0.0
+    date: '2026-11-14'
+    code: 696502
+    url: /works/696502/
   - title: Rental Kanojo Osawari Shimasu 13
     author: yahiro-pochi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696965.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole male"
-work_count: 1210
+work_count: 1211
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -8965,6 +8965,13 @@ works:
     date: '2026-11-14'
     code: 696375
     url: /works/696375/
+  - title: Bishonureduma to Tsuyudakuotto | Soaking Wet Wife and Drenched Husband
+    author: gurida-soumu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696916.jpg
+    rating: 0.0
+    date: '2026-11-14'
+    code: 696916
+    url: /works/696916/
   - title: Rental Kanojo Osawari Shimasu 13
     author: yahiro-pochi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696965.jpg

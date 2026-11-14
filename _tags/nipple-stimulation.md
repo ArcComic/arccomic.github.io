@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "nipple stimulation"
-work_count: 218
+work_count: 219
 works:
   - title: Hypnotic Domination ~ The Fall of Tennis Club Ace ~
     author: danchino
@@ -1649,4 +1649,11 @@ works:
     date: '2026-11-13'
     code: 696115
     url: /works/696115/
+  - title: Karume no Kanojo ga NTRreru made
+    author: bear-red-blue-soda
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696502.jpg
+    rating: 0.0
+    date: '2026-11-14'
+    code: 696502
+    url: /works/696502/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "gurida soumu"
-work_count: 4
+work_count: 5
 works:
   - title: Menhera Gitei no Muyuubyou Ecchi "Yobai Daisakusen!" Comicalize Ban | Sleepwalk
       Sex with your Crazy Stepbrother
@@ -32,4 +32,11 @@ works:
     date: '2026-11-10'
     code: 695576
     url: /works/695576/
+  - title: Bishonureduma to Tsuyudakuotto | Soaking Wet Wife and Drenched Husband
+    author: gurida-soumu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696916.jpg
+    rating: 0.0
+    date: '2026-11-14'
+    code: 696916
+    url: /works/696916/
 ---

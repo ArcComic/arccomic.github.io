@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "muscle"
-work_count: 160
+work_count: 161
 works:
   - title: Kousa suru Osu to Mesu | Male and Female Crossing
     author: ootsuka-kotora
@@ -1201,4 +1201,11 @@ works:
     date: '2026-11-11'
     code: 695891
     url: /works/695891/
+  - title: Karume no Kanojo ga NTRreru made
+    author: bear-red-blue-soda
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696502.jpg
+    rating: 0.0
+    date: '2026-11-14'
+    code: 696502
+    url: /works/696502/
 ---

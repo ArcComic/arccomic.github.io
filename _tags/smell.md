@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "smell"
-work_count: 38
+work_count: 39
 works:
   - title: Natsu Jiru Ch. 1-2
     author: sena-youtarou
@@ -282,4 +282,11 @@ works:
     date: '2026-11-13'
     code: 696116
     url: /works/696116/
+  - title: Karume no Kanojo ga NTRreru made
+    author: bear-red-blue-soda
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696502.jpg
+    rating: 0.0
+    date: '2026-11-14'
+    code: 696502
+    url: /works/696502/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "leg lock"
-work_count: 134
+work_count: 135
 works:
   - title: My Care Lady Ch. 1
     author: sugi-g
@@ -1005,4 +1005,11 @@ works:
     date: '2026-11-14'
     code: 696375
     url: /works/696375/
+  - title: Bishonureduma to Tsuyudakuotto | Soaking Wet Wife and Drenched Husband
+    author: gurida-soumu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696916.jpg
+    rating: 0.0
+    date: '2026-11-14'
+    code: 696916
+    url: /works/696916/
 ---
