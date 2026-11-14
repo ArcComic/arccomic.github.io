@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "breast expansion"
-work_count: 7
+work_count: 8
 works:
   - title: Kono Smapho Appli de Sex wa Risouka Sareru! ~Kozakura Kumaneko Full Color
       Sakuhinshuu~
@@ -49,6 +49,13 @@ works:
     date: '2026-09-17'
     code: 681687
     url: /works/681687/
+  - title: Swallowed by Water and Fused TSF
+    author: welt
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696608.jpg
+    rating: 0.0
+    date: '2026-11-14'
+    code: 696608
+    url: /works/696608/
   - title: Slut-Only Car ~BITCH ONLY~
     author: indo-curry-in-ka-of-the-dead
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696693.jpg

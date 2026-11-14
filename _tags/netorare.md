@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "netorare"
-work_count: 541
+work_count: 542
 works:
   - title: Kousa suru Osu to Mesu | Male and Female Crossing
     author: ootsuka-kotora
@@ -3974,6 +3974,14 @@ works:
     date: '2026-11-14'
     code: 696693
     url: /works/696693/
+  - title: Sukina Onnanoko o Senpai kara Ubaiau Chiisana Ana o Meguru Soudatsusen |
+      The Battle For Her Tight Pussy, Stealing The Girl I Like From Senpai ‎
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696949.jpg
+    rating: 0.0
+    date: '2026-11-14'
+    code: 696949
+    url: /works/696949/
   - title: I want others to sleep with my wife
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696973.jpg

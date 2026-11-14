@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "drugs"
-work_count: 54
+work_count: 55
 works:
   - title: A-part | Apartment
     author: zero-no-mono
@@ -397,6 +397,14 @@ works:
     date: '2026-11-14'
     code: 696693
     url: /works/696693/
+  - title: Sukina Onnanoko o Senpai kara Ubaiau Chiisana Ana o Meguru Soudatsusen |
+      The Battle For Her Tight Pussy, Stealing The Girl I Like From Senpai ‎
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696949.jpg
+    rating: 0.0
+    date: '2026-11-14'
+    code: 696949
+    url: /works/696949/
   - title: Inin Keiyaku | Lewd Pregnancy Contract
     author: yoshiura-kazuya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/83595.jpg

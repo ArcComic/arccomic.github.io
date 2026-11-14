@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "story arc"
-work_count: 262
+work_count: 263
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -1925,6 +1925,14 @@ works:
     date: '2026-11-11'
     code: 695890
     url: /works/695890/
+  - title: Sukina Onnanoko o Senpai kara Ubaiau Chiisana Ana o Meguru Soudatsusen |
+      The Battle For Her Tight Pussy, Stealing The Girl I Like From Senpai ‎
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696949.jpg
+    rating: 0.0
+    date: '2026-11-14'
+    code: 696949
+    url: /works/696949/
   - title: Hottokenaino
     author: hara-shigeyuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/77864.jpg

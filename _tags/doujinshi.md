@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "doujinshi"
-work_count: 1778
+work_count: 1781
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -4187,6 +4187,13 @@ works:
     date: '2026-10-17'
     code: 598715
     url: /works/598715/
+  - title: Aokoi | Blue Love
+    author: kichirock
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/598948.jpg
+    rating: 0.0
+    date: '2026-11-14'
+    code: 598948
+    url: /works/598948/
   - title: Onna Gal Joushi to Furin suru Hanashi 3 | Having an Affair with My Blonde
       Bombshell Boss – Part 3
     author: nakamo
@@ -13129,6 +13136,21 @@ works:
     date: '2026-11-14'
     code: 696502
     url: /works/696502/
+  - title: Swallowed by Water and Fused TSF
+    author: welt
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696608.jpg
+    rating: 0.0
+    date: '2026-11-14'
+    code: 696608
+    url: /works/696608/
+  - title: Sukina Onnanoko o Senpai kara Ubaiau Chiisana Ana o Meguru Soudatsusen |
+      The Battle For Her Tight Pussy, Stealing The Girl I Like From Senpai ‎
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696949.jpg
+    rating: 0.0
+    date: '2026-11-14'
+    code: 696949
+    url: /works/696949/
   - title: Rental Kanojo Osawari Shimasu 13
     author: yahiro-pochi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696965.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "gender change"
-work_count: 21
+work_count: 22
 works:
   - title: Hyoui Osen de Yuri Ecchi | Lesbian Sex through Corrupting Possession
     author: siina-yuuki
@@ -157,4 +157,11 @@ works:
     date: '2026-11-11'
     code: 695574
     url: /works/695574/
+  - title: Swallowed by Water and Fused TSF
+    author: welt
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696608.jpg
+    rating: 0.0
+    date: '2026-11-14'
+    code: 696608
+    url: /works/696608/
 ---

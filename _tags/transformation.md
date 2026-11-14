@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "transformation"
-work_count: 13
+work_count: 14
 works:
   - title: sequence irekaeru futari no karada
     author: iwashita
@@ -94,4 +94,11 @@ works:
     date: '2026-10-09'
     code: 686230
     url: /works/686230/
+  - title: Swallowed by Water and Fused TSF
+    author: welt
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696608.jpg
+    rating: 0.0
+    date: '2026-11-14'
+    code: 696608
+    url: /works/696608/
 ---

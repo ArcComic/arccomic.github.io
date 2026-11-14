@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "group"
-work_count: 321
+work_count: 323
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -2350,6 +2350,13 @@ works:
     date: '2026-11-12'
     code: 695882
     url: /works/695882/
+  - title: Swallowed by Water and Fused TSF
+    author: welt
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696608.jpg
+    rating: 0.0
+    date: '2026-11-14'
+    code: 696608
+    url: /works/696608/
   - title: Slut-Only Car ~BITCH ONLY~
     author: indo-curry-in-ka-of-the-dead
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696693.jpg
@@ -2357,4 +2364,12 @@ works:
     date: '2026-11-14'
     code: 696693
     url: /works/696693/
+  - title: Sukina Onnanoko o Senpai kara Ubaiau Chiisana Ana o Meguru Soudatsusen |
+      The Battle For Her Tight Pussy, Stealing The Girl I Like From Senpai ‎
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696949.jpg
+    rating: 0.0
+    date: '2026-11-14'
+    code: 696949
+    url: /works/696949/
 ---

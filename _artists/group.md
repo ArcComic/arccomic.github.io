@@ -1,7 +1,7 @@
 ---
 layout: artist
 artist_name: "group"
-work_count: 49
+work_count: 50
 works:
   - title: Ojou-sama to Maid o Iinazuke ni Torarete Okobore Ecchi suru Hanashi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/459385.jpg
@@ -314,4 +314,11 @@ works:
     date: '2026-11-09'
     code: 694885
     url: /works/694885/
+  - title: Sukina Onnanoko o Senpai kara Ubaiau Chiisana Ana o Meguru Soudatsusen |
+      The Battle For Her Tight Pussy, Stealing The Girl I Like From Senpai ‎
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696949.jpg
+    rating: 0.0
+    date: '2026-11-14'
+    code: 696949
+    url: /works/696949/
 ---

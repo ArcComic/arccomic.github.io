@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "paizuri"
-work_count: 313
+work_count: 314
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -698,6 +698,13 @@ works:
     date: '2026-11-13'
     code: 598483
     url: /works/598483/
+  - title: Aokoi | Blue Love
+    author: kichirock
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/598948.jpg
+    rating: 0.0
+    date: '2026-11-14'
+    code: 598948
+    url: /works/598948/
   - title: Maid no Kirina wa Bouchama ni Tsukushitai | Maid Kirina is Devoted to her
       Young Master
     author: kuroshiro-neko

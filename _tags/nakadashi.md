@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "nakadashi"
-work_count: 1129
+work_count: 1130
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -2827,6 +2827,13 @@ works:
     date: '2026-10-17'
     code: 598715
     url: /works/598715/
+  - title: Aokoi | Blue Love
+    author: kichirock
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/598948.jpg
+    rating: 0.0
+    date: '2026-11-14'
+    code: 598948
+    url: /works/598948/
   - title: Onna Gal Joushi to Furin suru Hanashi 3 | Having an Affair with My Blonde
       Bombshell Boss – Part 3
     author: nakamo
