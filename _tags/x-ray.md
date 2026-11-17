@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "x-ray"
-work_count: 478
+work_count: 479
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -566,6 +566,13 @@ works:
     date: '2026-05-03'
     code: 498051
     url: /works/498051/
+  - title: Jiraikei Joshi to Yatte Mitai! | I Want to Do It with a Landmine Girl
+    author: mushi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/500221.jpg
+    rating: 0.0
+    date: '2026-11-17'
+    code: 500221
+    url: /works/500221/
   - title: Irekawatte Dotabata Ecchi! ~Aya-nee no Binkan na Karada ni Ore wa Taerarenai
       | Switch bodies and have noisy sex! I can't stand Ayanee's sensitive body 1-6
     author: suishin-tenra

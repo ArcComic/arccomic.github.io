@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "doujinshi"
-work_count: 1791
+work_count: 1794
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -1556,6 +1556,14 @@ works:
     date: '2026-10-30'
     code: 459857
     url: /works/459857/
+  - title: Oba no Uwa Kitsu Cosplay Onanie o Mokugeki Shita Ken | That Time I Saw My
+      Aunt Masturbating in a Cosplay She’s Too Old For
+    author: motchie
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/461751.jpg
+    rating: 0.0
+    date: '2026-11-17'
+    code: 461751
+    url: /works/461751/
   - title: What would happen if you said "Let's have sex." while your teacher was scolding
       you?
     author: chotto-b-sen
@@ -2028,6 +2036,13 @@ works:
     date: '2026-05-03'
     code: 500102
     url: /works/500102/
+  - title: Jiraikei Joshi to Yatte Mitai! | I Want to Do It with a Landmine Girl
+    author: mushi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/500221.jpg
+    rating: 0.0
+    date: '2026-11-17'
+    code: 500221
+    url: /works/500221/
   - title: Jiraikei Joshi Debut Shitara Sokujitsu Yarichin Kuzu Otoko ni Kuwaremashita
       | When I Debuted As A "Jirai-kei" Girl I Was Eaten Up By A Sleazy Guy On The Same
       Day
@@ -13179,6 +13194,14 @@ works:
     date: '2026-11-14'
     code: 696684
     url: /works/696684/
+  - title: Netorase Aite wa Tsuma no Moto Kare deshita | The Netorase Partner Was My
+      Wife's Ex-Boyfriend
+    author: mitty
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696727.jpg
+    rating: 0.0
+    date: '2026-11-17'
+    code: 696727
+    url: /works/696727/
   - title: 100-nichi-go ni Ninshin suru OL-san! 2 | Pregnant Office Lady in 100 Days!
       2
     author: velokisss

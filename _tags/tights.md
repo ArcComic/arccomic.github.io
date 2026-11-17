@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "tights"
-work_count: 2
+work_count: 3
 works:
+  - title: Jiraikei Joshi to Yatte Mitai! | I Want to Do It with a Landmine Girl
+    author: mushi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/500221.jpg
+    rating: 0.0
+    date: '2026-11-17'
+    code: 500221
+    url: /works/500221/
   - title: Cool-kei Dansou Onna ni Kanojo Netorareta kara, Wakarasete Yatta 2
     author: kurukuru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651338.jpg

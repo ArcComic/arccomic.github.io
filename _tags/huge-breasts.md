@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "huge breasts"
-work_count: 159
+work_count: 160
 works:
   - title: Mama Naranai Onna-tachi Ch. 1-2
     author: otochichi
@@ -73,6 +73,13 @@ works:
     date: '2026-09-08'
     code: 415046
     url: /works/415046/
+  - title: Jiraikei Joshi to Yatte Mitai! | I Want to Do It with a Landmine Girl
+    author: mushi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/500221.jpg
+    rating: 0.0
+    date: '2026-11-17'
+    code: 500221
+    url: /works/500221/
   - title: Keitai de Muchimuchi na Chounyuu JD ni Chinpo o Shigoki Agete Morau Hanashi
     author: yosyo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/531191.jpg

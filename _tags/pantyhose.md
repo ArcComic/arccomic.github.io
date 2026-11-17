@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "pantyhose"
-work_count: 102
+work_count: 103
 works:
   - title: MAGIC SEVEN
     author: asuhiro
@@ -208,6 +208,13 @@ works:
     date: '2026-09-30'
     code: 491622
     url: /works/491622/
+  - title: Jiraikei Joshi to Yatte Mitai! | I Want to Do It with a Landmine Girl
+    author: mushi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/500221.jpg
+    rating: 0.0
+    date: '2026-11-17'
+    code: 500221
+    url: /works/500221/
   - title: Tomodachi no Mama ga Boku no Dekachin de Ikimakutta Sotsugyoushiki
     author: rk-2
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/513981.jpg

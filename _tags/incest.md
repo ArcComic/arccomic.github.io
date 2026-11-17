@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "incest"
-work_count: 392
+work_count: 393
 works:
   - title: Imitation Family + Bigibo Hen
     author: tohzai
@@ -316,6 +316,14 @@ works:
     date: '2026-10-30'
     code: 459857
     url: /works/459857/
+  - title: Oba no Uwa Kitsu Cosplay Onanie o Mokugeki Shita Ken | That Time I Saw My
+      Aunt Masturbating in a Cosplay She’s Too Old For
+    author: motchie
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/461751.jpg
+    rating: 0.0
+    date: '2026-11-17'
+    code: 461751
+    url: /works/461751/
   - title: Onee-chan to Torokeru Kimochi SP 2 | The Melting Feeling with Onee-chan SP
       2
     author: sky

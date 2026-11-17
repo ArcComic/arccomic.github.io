@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big penis"
-work_count: 370
+work_count: 371
 works:
   - title: Tsuma no Imouto no Danna ga Ie ni Kiteiruyoudesu | My Sister-In-Law's Husband
       is Over
@@ -2727,6 +2727,14 @@ works:
     date: '2026-11-14'
     code: 696693
     url: /works/696693/
+  - title: Netorase Aite wa Tsuma no Moto Kare deshita | The Netorase Partner Was My
+      Wife's Ex-Boyfriend
+    author: mitty
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696727.jpg
+    rating: 0.0
+    date: '2026-11-17'
+    code: 696727
+    url: /works/696727/
   - title: 100-nichi-go ni Ninshin suru OL-san! 2 | Pregnant Office Lady in 100 Days!
       2
     author: velokisss

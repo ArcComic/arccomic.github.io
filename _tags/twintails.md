@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "twintails"
-work_count: 169
+work_count: 171
 works:
   - title: Sensei wa Shougakusei ga Suki | Sensei Loves Elementary Schoolers
     author: fuyuno-mikan
@@ -112,6 +112,14 @@ works:
     date: '2026-09-25'
     code: 458866
     url: /works/458866/
+  - title: Oba no Uwa Kitsu Cosplay Onanie o Mokugeki Shita Ken | That Time I Saw My
+      Aunt Masturbating in a Cosplay She’s Too Old For
+    author: motchie
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/461751.jpg
+    rating: 0.0
+    date: '2026-11-17'
+    code: 461751
+    url: /works/461751/
   - title: Musuko o Dokusen Suru Haha | The mother who monopolizes her son.
     author: yuriko-club
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/471998.jpg
@@ -134,6 +142,13 @@ works:
     date: '2026-09-09'
     code: 489566
     url: /works/489566/
+  - title: Jiraikei Joshi to Yatte Mitai! | I Want to Do It with a Landmine Girl
+    author: mushi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/500221.jpg
+    rating: 0.0
+    date: '2026-11-17'
+    code: 500221
+    url: /works/500221/
   - title: Jiraikei Joshi Debut Shitara Sokujitsu Yarichin Kuzu Otoko ni Kuwaremashita
       | When I Debuted As A "Jirai-kei" Girl I Was Eaten Up By A Sleazy Guy On The Same
       Day

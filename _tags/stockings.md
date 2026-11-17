@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "stockings"
-work_count: 304
+work_count: 305
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -349,6 +349,14 @@ works:
     date: '2026-03-07'
     code: 453969
     url: /works/453969/
+  - title: Oba no Uwa Kitsu Cosplay Onanie o Mokugeki Shita Ken | That Time I Saw My
+      Aunt Masturbating in a Cosplay She’s Too Old For
+    author: motchie
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/461751.jpg
+    rating: 0.0
+    date: '2026-11-17'
+    code: 461751
+    url: /works/461751/
   - title: Seiso na Imouto no Tomodachi wa Mesugaki deshita | My Pure and Innocent Little
       Sister Became Friends With a Mesugaki
     author: kagono-tori

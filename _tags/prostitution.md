@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "prostitution"
-work_count: 100
+work_count: 101
 works:
   - title: Ikanishite Haha wa Onna o Kaihou Shitaka Ch. 1-14
     author: mitarai-yuuki
@@ -130,6 +130,13 @@ works:
     date: '2026-10-18'
     code: 495845
     url: /works/495845/
+  - title: Jiraikei Joshi to Yatte Mitai! | I Want to Do It with a Landmine Girl
+    author: mushi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/500221.jpg
+    rating: 0.0
+    date: '2026-11-17'
+    code: 500221
+    url: /works/500221/
   - title: Pirin The Prostitute
     author: arukaniko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/505174.jpg

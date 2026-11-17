@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "mosaic censorship"
-work_count: 399
+work_count: 400
 works:
   - title: Okki na Kanojo ni Amaetai | I want to be pampered by a girl of generous girth
     author: higashino-mikan
@@ -2921,6 +2921,14 @@ works:
     date: '2026-11-11'
     code: 695890
     url: /works/695890/
+  - title: Netorase Aite wa Tsuma no Moto Kare deshita | The Netorase Partner Was My
+      Wife's Ex-Boyfriend
+    author: mitty
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696727.jpg
+    rating: 0.0
+    date: '2026-11-17'
+    code: 696727
+    url: /works/696727/
   - title: 100-nichi-go ni Ninshin suru OL-san! 2 | Pregnant Office Lady in 100 Days!
       2
     author: velokisss

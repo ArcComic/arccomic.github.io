@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "mouth mask"
-work_count: 23
+work_count: 24
 works:
   - title: Kanojo wa Boku no Taieki de Ugoiteiru Phase. 05 [English] =NSS=
     author: nagareboshi
@@ -10,6 +10,13 @@ works:
     date: '2026-04-15'
     code: 470025
     url: /works/470025/
+  - title: Jiraikei Joshi to Yatte Mitai! | I Want to Do It with a Landmine Girl
+    author: mushi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/500221.jpg
+    rating: 0.0
+    date: '2026-11-17'
+    code: 500221
+    url: /works/500221/
   - title: The Prison Idol And Assistant
     author: halo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/579290.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "virginity"
-work_count: 196
+work_count: 197
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -386,6 +386,14 @@ works:
     date: '2026-10-08'
     code: 457980
     url: /works/457980/
+  - title: Oba no Uwa Kitsu Cosplay Onanie o Mokugeki Shita Ken | That Time I Saw My
+      Aunt Masturbating in a Cosplay She’s Too Old For
+    author: motchie
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/461751.jpg
+    rating: 0.0
+    date: '2026-11-17'
+    code: 461751
+    url: /works/461751/
   - title: What would happen if you said "Let's have sex." while your teacher was scolding
       you?
     author: chotto-b-sen

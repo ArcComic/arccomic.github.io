@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "filming"
-work_count: 149
+work_count: 150
 works:
   - title: Ikanishite Haha wa Onna o Kaihou Shitaka Ch. 1-14
     author: mitarai-yuuki
@@ -1076,6 +1076,14 @@ works:
     date: '2026-11-14'
     code: 696684
     url: /works/696684/
+  - title: Netorase Aite wa Tsuma no Moto Kare deshita | The Netorase Partner Was My
+      Wife's Ex-Boyfriend
+    author: mitty
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696727.jpg
+    rating: 0.0
+    date: '2026-11-17'
+    code: 696727
+    url: /works/696727/
   - title: Kairaku Market e Youkoso | Welcome to the Pleasure Sokubaikai
     author: kichirock
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696730.jpg

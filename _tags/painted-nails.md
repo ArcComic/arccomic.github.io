@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "painted nails"
-work_count: 65
+work_count: 66
 works:
   - title: Rakki Taishyaku
     author: fushoku
@@ -24,6 +24,13 @@ works:
     date: '2026-04-27'
     code: 452482
     url: /works/452482/
+  - title: Jiraikei Joshi to Yatte Mitai! | I Want to Do It with a Landmine Girl
+    author: mushi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/500221.jpg
+    rating: 0.0
+    date: '2026-11-17'
+    code: 500221
+    url: /works/500221/
   - title: Bitch Mama no Kekkon Riyuu
     author: aoyama-akira
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/512473.jpg

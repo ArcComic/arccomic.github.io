@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "masturbation"
-work_count: 206
+work_count: 207
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -190,6 +190,14 @@ works:
     date: '2026-11-13'
     code: 459385
     url: /works/459385/
+  - title: Oba no Uwa Kitsu Cosplay Onanie o Mokugeki Shita Ken | That Time I Saw My
+      Aunt Masturbating in a Cosplay She’s Too Old For
+    author: motchie
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/461751.jpg
+    rating: 0.0
+    date: '2026-11-17'
+    code: 461751
+    url: /works/461751/
   - title: Ikiiki Dasshutsu Game with Chou Chirou Oji-san | Lively Escape Game with
       Super Late Ejaculation Ojisan
     author: minegami-aya
