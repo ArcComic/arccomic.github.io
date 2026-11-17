@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "eye-covering bang"
-work_count: 107
+work_count: 108
 works:
   - title: Kanojo no Amai Jiraishuu
     author: jirou
@@ -706,6 +706,14 @@ works:
     date: '2026-11-08'
     code: 689137
     url: /works/689137/
+  - title: MistakeR ~Jimi de Kyonyuu na Osananjimi wo Ero Gal ni suru Tame ni Hame Makuru
+      Natsuyasumi Hen~
+    author: ueto-seri
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/689306.jpg
+    rating: 0.0
+    date: '2026-11-17'
+    code: 689306
+    url: /works/689306/
   - title: A story about how I ended up being in charge of satisfying the sexual desires
       of the female students at my new school.
     author: sakurayu-hal

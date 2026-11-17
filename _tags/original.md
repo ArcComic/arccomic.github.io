@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "original"
-work_count: 1455
+work_count: 1458
 works:
   - title: Gokuusu Mizugi de Okasaretagari ga Kakusenai
     author: kekemotsu
@@ -9979,6 +9979,13 @@ works:
     date: '2026-10-15'
     code: 687781
     url: /works/687781/
+  - title: Two Dreams in One Night
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687908.jpg
+    rating: 0.0
+    date: '2026-11-17'
+    code: 687908
+    url: /works/687908/
   - title: Choushin Boyish Osananajimi wa Dakaretai | My tall boyish childhood friend
       wants to be hugged
     author: misaoka
@@ -10199,6 +10206,14 @@ works:
     date: '2026-11-08'
     code: 689137
     url: /works/689137/
+  - title: MistakeR ~Jimi de Kyonyuu na Osananjimi wo Ero Gal ni suru Tame ni Hame Makuru
+      Natsuyasumi Hen~
+    author: ueto-seri
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/689306.jpg
+    rating: 0.0
+    date: '2026-11-17'
+    code: 689306
+    url: /works/689306/
   - title: A story about how I ended up being in charge of satisfying the sexual desires
       of the female students at my new school.
     author: sakurayu-hal
@@ -10841,4 +10856,12 @@ works:
     date: '2026-11-14'
     code: 696998
     url: /works/696998/
+  - title: Maid no Shirosaki-san ni Gohoushi shite Morau Hanashi 6 | The Story of Getting
+      Served by Maid Shirosaki-san 6
+    author: sanshoku-nerune
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/697734.jpg
+    rating: 4.1
+    date: '2026-11-17'
+    code: 697734
+    url: /works/697734/
 ---

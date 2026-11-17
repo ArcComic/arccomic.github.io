@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "stockings"
-work_count: 303
+work_count: 304
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -2217,6 +2217,14 @@ works:
     date: '2026-11-14'
     code: 696949
     url: /works/696949/
+  - title: Maid no Shirosaki-san ni Gohoushi shite Morau Hanashi 6 | The Story of Getting
+      Served by Maid Shirosaki-san 6
+    author: sanshoku-nerune
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/697734.jpg
+    rating: 4.1
+    date: '2026-11-17'
+    code: 697734
+    url: /works/697734/
   - title: Jokyoushi - Hot For Teachers | Female Teachers
     author: drill-murata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/81375.jpg

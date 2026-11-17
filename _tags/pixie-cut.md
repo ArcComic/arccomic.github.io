@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "pixie cut"
-work_count: 123
+work_count: 124
 works:
   - title: Akarui Kazoku Seikatsu
     author: pistonring-nishizawa
@@ -900,6 +900,14 @@ works:
     date: '2026-10-18'
     code: 688593
     url: /works/688593/
+  - title: MistakeR ~Jimi de Kyonyuu na Osananjimi wo Ero Gal ni suru Tame ni Hame Makuru
+      Natsuyasumi Hen~
+    author: ueto-seri
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/689306.jpg
+    rating: 0.0
+    date: '2026-11-17'
+    code: 689306
+    url: /works/689306/
   - title: The Fable Of The Short King And His GF With Huge Tits
     author: enishi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694668.jpg

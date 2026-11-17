@@ -1,7 +1,7 @@
 ---
 layout: artist
 artist_name: "ueto-seri"
-work_count: 7
+work_count: 8
 works:
   - title: Senjou no Cinderella 1 | Suggestive Cinderella 1
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/352895.jpg
@@ -46,4 +46,11 @@ works:
     date: '2026-09-30'
     code: 575361
     url: /works/575361/
+  - title: MistakeR ~Jimi de Kyonyuu na Osananjimi wo Ero Gal ni suru Tame ni Hame Makuru
+      Natsuyasumi Hen~
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/689306.jpg
+    rating: 0.0
+    date: '2026-11-17'
+    code: 689306
+    url: /works/689306/
 ---

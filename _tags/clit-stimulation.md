@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "clit stimulation"
-work_count: 45
+work_count: 46
 works:
   - title: Tanesaki Kaori (39), Musume no Kawari ni Doujin AV Debut  | Tanesaki Kaori
       (39) Makes Her Doujin AV Debut in Place of Her Daughter
@@ -270,6 +270,13 @@ works:
     date: '2026-10-13'
     code: 687120
     url: /works/687120/
+  - title: Two Dreams in One Night
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687908.jpg
+    rating: 0.0
+    date: '2026-11-17'
+    code: 687908
+    url: /works/687908/
   - title: Asuna OVERLOAD OVERCOME
     author: akashiro-kiiro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691660.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "pantyhose"
-work_count: 101
+work_count: 102
 works:
   - title: MAGIC SEVEN
     author: asuhiro
@@ -719,6 +719,14 @@ works:
     date: '2026-11-14'
     code: 696732
     url: /works/696732/
+  - title: Maid no Shirosaki-san ni Gohoushi shite Morau Hanashi 6 | The Story of Getting
+      Served by Maid Shirosaki-san 6
+    author: sanshoku-nerune
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/697734.jpg
+    rating: 4.1
+    date: '2026-11-17'
+    code: 697734
+    url: /works/697734/
   - title: Hottokenaino
     author: hara-shigeyuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/77864.jpg

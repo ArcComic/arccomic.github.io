@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "fukurou no yuubinya san"
-work_count: 9
+work_count: 10
 works:
   - title: Senjou no Cinderella 1 | Suggestive Cinderella 1
     author: ueto-seri
@@ -60,6 +60,14 @@ works:
     date: '2026-07-16'
     code: 664642
     url: /works/664642/
+  - title: MistakeR ~Jimi de Kyonyuu na Osananjimi wo Ero Gal ni suru Tame ni Hame Makuru
+      Natsuyasumi Hen~
+    author: ueto-seri
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/689306.jpg
+    rating: 0.0
+    date: '2026-11-17'
+    code: 689306
+    url: /works/689306/
   - title: MistakeR ~Jimi de Kyonyuu na Osananjimi wo Ero Gal ni suru Tame ni Class
       no Gal to Hame Makuru Natsuyasumi Hen~
     author: ueto-seri-ueto-ruri
