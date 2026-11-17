@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "translated"
-work_count: 2102
+work_count: 2105
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -8412,6 +8412,14 @@ works:
     date: '2026-09-26'
     code: 653287
     url: /works/653287/
+  - title: Onee-san to Ecchi na Koto o Ippai suru Hanashi 2 | The Story of How I End
+      up Having Lots of Sex with an Older Girl 2
+    author: sanshoku-nerune
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/653684.jpg
+    rating: 0.0
+    date: '2026-11-17'
+    code: 653684
+    url: /works/653684/
   - title: Kimi Omou Koi - I think of you.
     author: gentsuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/653792.jpg
@@ -15447,6 +15455,13 @@ works:
     date: '2026-11-14'
     code: 696998
     url: /works/696998/
+  - title: A Pantsy Relationship With the Girl Next Door
+    author: hoshi-to-lucky
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/697416.jpg
+    rating: 0.0
+    date: '2026-11-17'
+    code: 697416
+    url: /works/697416/
   - title: Maid no Shirosaki-san ni Gohoushi shite Morau Hanashi 6 | The Story of Getting
       Served by Maid Shirosaki-san 6
     author: sanshoku-nerune
@@ -15455,6 +15470,16 @@ works:
     date: '2026-11-17'
     code: 697734
     url: /works/697734/
+  - title: “NTR” Seiso na Bakunyuu Seitokaichou ga Himitsu no Beit Saki de Kimoi Hagedebu
+      Tenchou ni Zecchou Kaitaku Sareru made. | "NTR" The Pure, Huge-Breasted Student
+      Council President Gets Her Virginity Lost to a Creepy Bald Fat Store Manager at
+      Her Secret Part-Time Job [English] [DNTA}
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/697736.jpg
+    rating: 0.0
+    date: '2026-11-17'
+    code: 697736
+    url: /works/697736/
   - title: Hottokenaino
     author: hara-shigeyuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/77864.jpg

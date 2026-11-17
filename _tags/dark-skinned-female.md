@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "dark skinned female"
-work_count: 52
+work_count: 53
 works:
   - title: Hyouri no Omoi | Double-Sided Love
     author: suruga-kuroitsu
@@ -266,6 +266,14 @@ works:
     date: '2026-05-20'
     code: 650926
     url: /works/650926/
+  - title: Onee-san to Ecchi na Koto o Ippai suru Hanashi 2 | The Story of How I End
+      up Having Lots of Sex with an Older Girl 2
+    author: sanshoku-nerune
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/653684.jpg
+    rating: 0.0
+    date: '2026-11-17'
+    code: 653684
+    url: /works/653684/
   - title: 'Tall, Tanned, Tomboyish! Nagisa-chan 3 — Since Pregnant Nagisa-chan Can''t
       Do It, Nagisa''s Hairy Mama Takes Care of the Sexual Relief: Sex Edition'
     author: ishikarian

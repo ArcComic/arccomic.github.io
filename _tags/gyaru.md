@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "gyaru"
-work_count: 179
+work_count: 180
 works:
   - title: GalPa!
     author: sakagami-umi
@@ -614,6 +614,14 @@ works:
     date: '2026-05-21'
     code: 651499
     url: /works/651499/
+  - title: Onee-san to Ecchi na Koto o Ippai suru Hanashi 2 | The Story of How I End
+      up Having Lots of Sex with an Older Girl 2
+    author: sanshoku-nerune
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/653684.jpg
+    rating: 0.0
+    date: '2026-11-17'
+    code: 653684
+    url: /works/653684/
   - title: Netori Otoko o Mesu ni suru | Turning the Cuckolding Prick into a Bitch
     author: yonayona
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654218.jpg

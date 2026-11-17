@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "full censorship"
-work_count: 158
+work_count: 159
 works:
   - title: Kaisha de Iroiro | Gettin' Busy at the Office
     author: hara-shigeyuki
@@ -1145,6 +1145,16 @@ works:
     date: '2026-11-11'
     code: 695703
     url: /works/695703/
+  - title: “NTR” Seiso na Bakunyuu Seitokaichou ga Himitsu no Beit Saki de Kimoi Hagedebu
+      Tenchou ni Zecchou Kaitaku Sareru made. | "NTR" The Pure, Huge-Breasted Student
+      Council President Gets Her Virginity Lost to a Creepy Bald Fat Store Manager at
+      Her Secret Part-Time Job [English] [DNTA}
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/697736.jpg
+    rating: 0.0
+    date: '2026-11-17'
+    code: 697736
+    url: /works/697736/
   - title: Hottokenaino
     author: hara-shigeyuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/77864.jpg

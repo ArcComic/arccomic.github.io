@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "ffm threesome"
-work_count: 188
+work_count: 189
 works:
   - title: Hustle! Danchizuma Ch. 1-18 END
     author: hidemaru
@@ -657,6 +657,14 @@ works:
     date: '2026-05-26'
     code: 652606
     url: /works/652606/
+  - title: Onee-san to Ecchi na Koto o Ippai suru Hanashi 2 | The Story of How I End
+      up Having Lots of Sex with an Older Girl 2
+    author: sanshoku-nerune
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/653684.jpg
+    rating: 0.0
+    date: '2026-11-17'
+    code: 653684
+    url: /works/653684/
   - title: Kyonyuu Geneki JK to Chigyuu Danshi ga Sex Jisshuu de Namahame Tanetsuke
       Koubishi Makuru H
     author: yanachi

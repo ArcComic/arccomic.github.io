@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "mouth mask"
-work_count: 24
+work_count: 25
 works:
   - title: Kanojo wa Boku no Taieki de Ugoiteiru Phase. 05 [English] =NSS=
     author: nagareboshi
@@ -81,6 +81,14 @@ works:
     date: '2026-05-20'
     code: 651338
     url: /works/651338/
+  - title: Onee-san to Ecchi na Koto o Ippai suru Hanashi 2 | The Story of How I End
+      up Having Lots of Sex with an Older Girl 2
+    author: sanshoku-nerune
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/653684.jpg
+    rating: 0.0
+    date: '2026-11-17'
+    code: 653684
+    url: /works/653684/
   - title: Love wa Gal kara Hajimaru Unmei | Love is a Destiny That Begins with a Gal
       ch.1-5
     author: nusmusbim

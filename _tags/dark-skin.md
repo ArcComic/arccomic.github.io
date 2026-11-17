@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "dark skin"
-work_count: 206
+work_count: 208
 works:
   - title: Birthday
     author: hashiba-yachi
@@ -918,6 +918,14 @@ works:
     date: '2026-10-21'
     code: 653080
     url: /works/653080/
+  - title: Onee-san to Ecchi na Koto o Ippai suru Hanashi 2 | The Story of How I End
+      up Having Lots of Sex with an Older Girl 2
+    author: sanshoku-nerune
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/653684.jpg
+    rating: 0.0
+    date: '2026-11-17'
+    code: 653684
+    url: /works/653684/
   - title: Yabai oji | Dangerous Uncle
     author: chinpan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654645.jpg
@@ -1521,4 +1529,11 @@ works:
     date: '2026-11-17'
     code: 696727
     url: /works/696727/
+  - title: A Pantsy Relationship With the Girl Next Door
+    author: hoshi-to-lucky
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/697416.jpg
+    rating: 0.0
+    date: '2026-11-17'
+    code: 697416
+    url: /works/697416/
 ---

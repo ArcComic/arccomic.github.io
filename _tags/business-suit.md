@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "business suit"
-work_count: 111
+work_count: 112
 works:
   - title: MAGIC SEVEN
     author: asuhiro
@@ -811,6 +811,13 @@ works:
     date: '2026-11-14'
     code: 696728
     url: /works/696728/
+  - title: A Pantsy Relationship With the Girl Next Door
+    author: hoshi-to-lucky
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/697416.jpg
+    rating: 0.0
+    date: '2026-11-17'
+    code: 697416
+    url: /works/697416/
   - title: Hottokenaino
     author: hara-shigeyuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/77864.jpg

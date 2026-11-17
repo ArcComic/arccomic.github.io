@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "blowjob"
-work_count: 895
+work_count: 897
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -3886,6 +3886,14 @@ works:
     date: '2026-10-11'
     code: 653432
     url: /works/653432/
+  - title: Onee-san to Ecchi na Koto o Ippai suru Hanashi 2 | The Story of How I End
+      up Having Lots of Sex with an Older Girl 2
+    author: sanshoku-nerune
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/653684.jpg
+    rating: 0.0
+    date: '2026-11-17'
+    code: 653684
+    url: /works/653684/
   - title: Majime na Kimi ni Hamaru Karada
     author: alp
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654010.jpg
@@ -6632,6 +6640,13 @@ works:
     date: '2026-11-14'
     code: 696973
     url: /works/696973/
+  - title: A Pantsy Relationship With the Girl Next Door
+    author: hoshi-to-lucky
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/697416.jpg
+    rating: 0.0
+    date: '2026-11-17'
+    code: 697416
+    url: /works/697416/
   - title: Maid no Shirosaki-san ni Gohoushi shite Morau Hanashi 6 | The Story of Getting
       Served by Maid Shirosaki-san 6
     author: sanshoku-nerune

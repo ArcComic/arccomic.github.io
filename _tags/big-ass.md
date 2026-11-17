@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big ass"
-work_count: 364
+work_count: 365
 works:
   - title: My Care Lady Ch. 1
     author: sugi-g
@@ -2716,6 +2716,13 @@ works:
     date: '2026-11-14'
     code: 696973
     url: /works/696973/
+  - title: A Pantsy Relationship With the Girl Next Door
+    author: hoshi-to-lucky
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/697416.jpg
+    rating: 0.0
+    date: '2026-11-17'
+    code: 697416
+    url: /works/697416/
   - title: Maid no Shirosaki-san ni Gohoushi shite Morau Hanashi 6 | The Story of Getting
       Served by Maid Shirosaki-san 6
     author: sanshoku-nerune

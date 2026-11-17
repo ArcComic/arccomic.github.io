@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "hair buns"
-work_count: 53
+work_count: 54
 works:
   - title: Yohane Mokushiroku
     author: napo
@@ -393,6 +393,13 @@ works:
     date: '2026-11-14'
     code: 696693
     url: /works/696693/
+  - title: A Pantsy Relationship With the Girl Next Door
+    author: hoshi-to-lucky
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/697416.jpg
+    rating: 0.0
+    date: '2026-11-17'
+    code: 697416
+    url: /works/697416/
   - title: Maid no Shirosaki-san ni Gohoushi shite Morau Hanashi 6 | The Story of Getting
       Served by Maid Shirosaki-san 6
     author: sanshoku-nerune

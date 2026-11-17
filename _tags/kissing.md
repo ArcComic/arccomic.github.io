@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "kissing"
-work_count: 531
+work_count: 534
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -2199,6 +2199,14 @@ works:
     date: '2026-11-09'
     code: 653119
     url: /works/653119/
+  - title: Onee-san to Ecchi na Koto o Ippai suru Hanashi 2 | The Story of How I End
+      up Having Lots of Sex with an Older Girl 2
+    author: sanshoku-nerune
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/653684.jpg
+    rating: 0.0
+    date: '2026-11-17'
+    code: 653684
+    url: /works/653684/
   - title: Majime na Kimi ni Hamaru Karada
     author: alp
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654010.jpg
@@ -3981,6 +3989,13 @@ works:
     date: '2026-11-14'
     code: 696973
     url: /works/696973/
+  - title: A Pantsy Relationship With the Girl Next Door
+    author: hoshi-to-lucky
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/697416.jpg
+    rating: 0.0
+    date: '2026-11-17'
+    code: 697416
+    url: /works/697416/
   - title: Maid no Shirosaki-san ni Gohoushi shite Morau Hanashi 6 | The Story of Getting
       Served by Maid Shirosaki-san 6
     author: sanshoku-nerune
@@ -3989,4 +4004,14 @@ works:
     date: '2026-11-17'
     code: 697734
     url: /works/697734/
+  - title: “NTR” Seiso na Bakunyuu Seitokaichou ga Himitsu no Beit Saki de Kimoi Hagedebu
+      Tenchou ni Zecchou Kaitaku Sareru made. | "NTR" The Pure, Huge-Breasted Student
+      Council President Gets Her Virginity Lost to a Creepy Bald Fat Store Manager at
+      Her Secret Part-Time Job [English] [DNTA}
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/697736.jpg
+    rating: 0.0
+    date: '2026-11-17'
+    code: 697736
+    url: /works/697736/
 ---

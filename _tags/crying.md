@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "crying"
-work_count: 38
+work_count: 39
 works:
   - title: Netorareru.~ Tsuma ga Ochi Yuku Hen'ai Kairaku no Hate ni...1-5 | NETORARERU,
       A Wife's Descent Into Sinful Pleasures 1-5
@@ -282,4 +282,14 @@ works:
     date: '2026-11-11'
     code: 695891
     url: /works/695891/
+  - title: “NTR” Seiso na Bakunyuu Seitokaichou ga Himitsu no Beit Saki de Kimoi Hagedebu
+      Tenchou ni Zecchou Kaitaku Sareru made. | "NTR" The Pure, Huge-Breasted Student
+      Council President Gets Her Virginity Lost to a Creepy Bald Fat Store Manager at
+      Her Secret Part-Time Job [English] [DNTA}
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/697736.jpg
+    rating: 0.0
+    date: '2026-11-17'
+    code: 697736
+    url: /works/697736/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "multi-work series"
-work_count: 501
+work_count: 502
 works:
   - title: Konna ni mo Itooshii Zero
     author: nohito
@@ -2185,6 +2185,14 @@ works:
     date: '2026-09-26'
     code: 653287
     url: /works/653287/
+  - title: Onee-san to Ecchi na Koto o Ippai suru Hanashi 2 | The Story of How I End
+      up Having Lots of Sex with an Older Girl 2
+    author: sanshoku-nerune
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/653684.jpg
+    rating: 0.0
+    date: '2026-11-17'
+    code: 653684
+    url: /works/653684/
   - title: Until I Take Everything From You 2-C
     author: takotokite
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654240.jpg
