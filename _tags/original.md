@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "original"
-work_count: 1465
+work_count: 1467
 works:
   - title: Gokuusu Mizugi de Okasaretagari ga Kakusenai
     author: kekemotsu
@@ -990,6 +990,13 @@ works:
     date: '2026-10-08'
     code: 457980
     url: /works/457980/
+  - title: Onna Keishi Iwagami Shima | Chief Inspector Shima Iwagami
+    author: motchie
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/458234.jpg
+    rating: 0.0
+    date: '2026-11-17'
+    code: 458234
+    url: /works/458234/
   - title: Nearest To Real LOVE “The Great Escape” Al~The Secret second season~
     author: ozaki-miray
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/458866.jpg
@@ -10919,4 +10926,11 @@ works:
     date: '2026-11-17'
     code: 697744
     url: /works/697744/
+  - title: Jidorina 2
+    author: dura
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/697834.jpg
+    rating: 4.7
+    date: '2026-11-17'
+    code: 697834
+    url: /works/697834/
 ---

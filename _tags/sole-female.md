@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole female"
-work_count: 1297
+work_count: 1298
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -9603,6 +9603,13 @@ works:
     date: '2026-11-17'
     code: 697736
     url: /works/697736/
+  - title: Jidorina 2
+    author: dura
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/697834.jpg
+    rating: 4.7
+    date: '2026-11-17'
+    code: 697834
+    url: /works/697834/
   - title: Hitozuma A-san to Musuko no Yuujin N-kun - Married wife A and son's friend
       N-kun
     author: takatsu-takatsu-keita

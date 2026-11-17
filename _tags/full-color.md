@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "full color"
-work_count: 319
+work_count: 320
 works:
   - title: Pai☆Panic ~Hasamareta Dekapai~
     author: inkey
@@ -2332,4 +2332,11 @@ works:
     date: '2026-11-14'
     code: 696998
     url: /works/696998/
+  - title: Jidorina 2
+    author: dura
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/697834.jpg
+    rating: 4.7
+    date: '2026-11-17'
+    code: 697834
+    url: /works/697834/
 ---

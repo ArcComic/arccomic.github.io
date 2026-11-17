@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "anal"
-work_count: 209
+work_count: 210
 works:
   - title: Ikanishite Haha wa Onna o Kaihou Shitaka Ch. 1-14
     author: mitarai-yuuki
@@ -171,6 +171,13 @@ works:
     date: '2026-03-07'
     code: 453969
     url: /works/453969/
+  - title: Onna Keishi Iwagami Shima | Chief Inspector Shima Iwagami
+    author: motchie
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/458234.jpg
+    rating: 0.0
+    date: '2026-11-17'
+    code: 458234
+    url: /works/458234/
   - title: Toshoshitsu no Kanojo 6 ~Onna Kyoushi ga Ochiru made (Kouhen)~
     author: ame-arare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/474458.jpg

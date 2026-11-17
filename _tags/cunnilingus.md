@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "cunnilingus"
-work_count: 243
+work_count: 244
 works:
   - title: Love Approach
     author: hanafuda-sakurano
@@ -1789,6 +1789,13 @@ works:
     date: '2026-11-17'
     code: 697416
     url: /works/697416/
+  - title: Soredemo Ashita mo Kareshi ga ii - Chapter 1-27
+    author: miike-kei
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/697733.jpg
+    rating: 4.0
+    date: '2026-11-17'
+    code: 697733
+    url: /works/697733/
   - title: Hitozuma A-san to Musuko no Yuujin N-kun - Married wife A and son's friend
       N-kun
     author: takatsu-takatsu-keita

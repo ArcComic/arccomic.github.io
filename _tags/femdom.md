@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "femdom"
-work_count: 244
+work_count: 245
 works:
   - title: Life with Married Women Just Like a Manga 2 - Ch. 1-5
     author: hidemaru
@@ -1781,6 +1781,13 @@ works:
     date: '2026-11-14'
     code: 696693
     url: /works/696693/
+  - title: Soredemo Ashita mo Kareshi ga ii - Chapter 1-27
+    author: miike-kei
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/697733.jpg
+    rating: 4.0
+    date: '2026-11-17'
+    code: 697733
+    url: /works/697733/
   - title: Jokyoushi - Hot For Teachers | Female Teachers
     author: drill-murata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/81375.jpg

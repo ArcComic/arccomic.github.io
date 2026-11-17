@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "makeup"
-work_count: 17
+work_count: 18
 works:
   - title: My Sugar Mama! 1-3
     author: azukiko
@@ -17,6 +17,13 @@ works:
     date: '2026-08-23'
     code: 441114
     url: /works/441114/
+  - title: Onna Keishi Iwagami Shima | Chief Inspector Shima Iwagami
+    author: motchie
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/458234.jpg
+    rating: 0.0
+    date: '2026-11-17'
+    code: 458234
+    url: /works/458234/
   - title: Shinchou 211cm no Jirai-kei Joshi ni Nerawarete Mou Nigerarenai | A 211cm
       Tall Jirai-kei Girl Has Her Eyes on Me, and I Can't Escape♡
     author: kinntarou

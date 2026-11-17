@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big breasts"
-work_count: 1497
+work_count: 1499
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -1254,6 +1254,13 @@ works:
     date: '2026-10-08'
     code: 457980
     url: /works/457980/
+  - title: Onna Keishi Iwagami Shima | Chief Inspector Shima Iwagami
+    author: motchie
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/458234.jpg
+    rating: 0.0
+    date: '2026-11-17'
+    code: 458234
+    url: /works/458234/
   - title: Provoking Men 1-8
     author: pororivista
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/458903.jpg
@@ -11075,6 +11082,13 @@ works:
     date: '2026-11-17'
     code: 697744
     url: /works/697744/
+  - title: Jidorina 2
+    author: dura
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/697834.jpg
+    rating: 4.7
+    date: '2026-11-17'
+    code: 697834
+    url: /works/697834/
   - title: Hitozuma A-san to Musuko no Yuujin N-kun - Married wife A and son's friend
       N-kun
     author: takatsu-takatsu-keita

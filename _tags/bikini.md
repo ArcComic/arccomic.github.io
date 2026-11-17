@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bikini"
-work_count: 114
+work_count: 115
 works:
   - title: Kizashi
     author: yoshiura-kazuya
@@ -860,6 +860,13 @@ works:
     date: '2026-11-14'
     code: 696965
     url: /works/696965/
+  - title: Jidorina 2
+    author: dura
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/697834.jpg
+    rating: 4.7
+    date: '2026-11-17'
+    code: 697834
+    url: /works/697834/
   - title: Hitozuma A-san to Musuko no Yuujin N-kun - Married wife A and son's friend
       N-kun
     author: takatsu-takatsu-keita

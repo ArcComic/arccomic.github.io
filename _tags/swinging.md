@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "swinging"
-work_count: 41
+work_count: 42
 works:
   - title: Uragiri no Ai wa Mitsu no Aji | Treacherous Love Tastes Like Honey
     author: cuzukago
@@ -312,4 +312,11 @@ works:
     date: '2026-11-14'
     code: 696949
     url: /works/696949/
+  - title: Soredemo Ashita mo Kareshi ga ii - Chapter 1-27
+    author: miike-kei
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/697733.jpg
+    rating: 4.0
+    date: '2026-11-17'
+    code: 697733
+    url: /works/697733/
 ---

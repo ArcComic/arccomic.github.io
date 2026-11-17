@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "multi-work series"
-work_count: 502
+work_count: 505
 works:
   - title: Konna ni mo Itooshii Zero
     author: nohito
@@ -386,6 +386,13 @@ works:
     date: '2026-03-07'
     code: 452141
     url: /works/452141/
+  - title: Onna Keishi Iwagami Shima | Chief Inspector Shima Iwagami
+    author: motchie
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/458234.jpg
+    rating: 0.0
+    date: '2026-11-17'
+    code: 458234
+    url: /works/458234/
   - title: Jimihen!! ~Jimiko o Kaechau Junisei Kouyuu~
     author: iburo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/460264.jpg
@@ -3758,4 +3765,18 @@ works:
     date: '2026-11-14'
     code: 696965
     url: /works/696965/
+  - title: Soredemo Ashita mo Kareshi ga ii - Chapter 1-27
+    author: miike-kei
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/697733.jpg
+    rating: 4.0
+    date: '2026-11-17'
+    code: 697733
+    url: /works/697733/
+  - title: Jidorina 2
+    author: dura
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/697834.jpg
+    rating: 4.7
+    date: '2026-11-17'
+    code: 697834
+    url: /works/697834/
 ---

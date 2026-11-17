@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "footjob"
-work_count: 53
+work_count: 54
 works:
   - title: Sei no Kenryoku | The Power of Sex
     author: tomohiro-kai
@@ -384,6 +384,13 @@ works:
     date: '2026-11-14'
     code: 696728
     url: /works/696728/
+  - title: Soredemo Ashita mo Kareshi ga ii - Chapter 1-27
+    author: miike-kei
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/697733.jpg
+    rating: 4.0
+    date: '2026-11-17'
+    code: 697733
+    url: /works/697733/
   - title: Onee-chan no SM Kouza | Onee-chan's S&M Lecture
     author: shinooka-homare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/88750.jpg

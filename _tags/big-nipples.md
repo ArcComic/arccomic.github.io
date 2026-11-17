@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big nipples"
-work_count: 20
+work_count: 21
 works:
   - title: Anmoku no Ryoukai de Oba-san to H Shita Hanashi | The Story of an Unspoken
       Sex Agreement With Oba-San
@@ -157,4 +157,11 @@ works:
     date: '2026-11-14'
     code: 696617
     url: /works/696617/
+  - title: Jidorina 2
+    author: dura
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/697834.jpg
+    rating: 4.7
+    date: '2026-11-17'
+    code: 697834
+    url: /works/697834/
 ---

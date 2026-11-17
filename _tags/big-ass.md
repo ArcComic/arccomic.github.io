@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big ass"
-work_count: 366
+work_count: 367
 works:
   - title: My Care Lady Ch. 1
     author: sugi-g
@@ -2731,6 +2731,13 @@ works:
     date: '2026-11-17'
     code: 697734
     url: /works/697734/
+  - title: Jidorina 2
+    author: dura
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/697834.jpg
+    rating: 4.7
+    date: '2026-11-17'
+    code: 697834
+    url: /works/697834/
   - title: Hitozuma A-san to Musuko no Yuujin N-kun - Married wife A and son's friend
       N-kun
     author: takatsu-takatsu-keita

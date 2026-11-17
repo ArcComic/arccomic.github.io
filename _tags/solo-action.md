@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "solo action"
-work_count: 10
+work_count: 11
 works:
   - title: Yasashii Bakunyuu Kaa-san to Irekawacchatta Hankouki na Ore no Hanashi ~Episode
       1~
@@ -75,4 +75,11 @@ works:
     date: '2026-11-09'
     code: 694971
     url: /works/694971/
+  - title: Jidorina 2
+    author: dura
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/697834.jpg
+    rating: 4.7
+    date: '2026-11-17'
+    code: 697834
+    url: /works/697834/
 ---

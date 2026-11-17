@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "multiple pairings"
-work_count: 10
+work_count: 11
 works:
   - title: Soshite Kyou mo Moteasobareru 3 ~Minshuku Hen~ | And Today, Toyed With Again
       3 ~Inn Edition~
@@ -76,4 +76,11 @@ works:
     date: '2026-11-14'
     code: 696730
     url: /works/696730/
+  - title: Soredemo Ashita mo Kareshi ga ii - Chapter 1-27
+    author: miike-kei
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/697733.jpg
+    rating: 4.0
+    date: '2026-11-17'
+    code: 697733
+    url: /works/697733/
 ---

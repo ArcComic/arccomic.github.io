@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "full censorship"
-work_count: 159
+work_count: 160
 works:
   - title: Kaisha de Iroiro | Gettin' Busy at the Office
     author: hara-shigeyuki
@@ -1145,6 +1145,13 @@ works:
     date: '2026-11-11'
     code: 695703
     url: /works/695703/
+  - title: Soredemo Ashita mo Kareshi ga ii - Chapter 1-27
+    author: miike-kei
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/697733.jpg
+    rating: 4.0
+    date: '2026-11-17'
+    code: 697733
+    url: /works/697733/
   - title: “NTR” Seiso na Bakunyuu Seitokaichou ga Himitsu no Beit Saki de Kimoi Hagedebu
       Tenchou ni Zecchou Kaitaku Sareru made. | "NTR" The Pure, Huge-Breasted Student
       Council President Gets Her Virginity Lost to a Creepy Bald Fat Store Manager at

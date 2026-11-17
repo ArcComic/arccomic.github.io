@@ -1,7 +1,7 @@
 ---
 layout: artist
 artist_name: "miike-kei"
-work_count: 2
+work_count: 3
 works:
   - title: Soredemo Ashita mo Kareshi ga ii - Chapter 1-16
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679935.jpg
@@ -15,4 +15,10 @@ works:
     date: '2026-09-16'
     code: 681496
     url: /works/681496/
+  - title: Soredemo Ashita mo Kareshi ga ii - Chapter 1-27
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/697733.jpg
+    rating: 4.0
+    date: '2026-11-17'
+    code: 697733
+    url: /works/697733/
 ---

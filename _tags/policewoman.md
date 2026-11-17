@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "policewoman"
-work_count: 7
+work_count: 8
 works:
   - title: Ami Mami Mind 5
     author: tsurui
@@ -17,6 +17,13 @@ works:
     date: '2026-10-09'
     code: 399776
     url: /works/399776/
+  - title: Onna Keishi Iwagami Shima | Chief Inspector Shima Iwagami
+    author: motchie
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/458234.jpg
+    rating: 0.0
+    date: '2026-11-17'
+    code: 458234
+    url: /works/458234/
   - title: Sennyuu Sousakan -Cult ni Ochiru- Zenpen | Undercover Agent -Corrupted by
       the Cult- Part One
     author: take-shinshi

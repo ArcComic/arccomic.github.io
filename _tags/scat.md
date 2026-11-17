@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "scat"
-work_count: 11
+work_count: 12
 works:
   - title: Ryoujoku Gakuen
     author: motchie
@@ -10,6 +10,13 @@ works:
     date: '2026-04-17'
     code: 332375
     url: /works/332375/
+  - title: Onna Keishi Iwagami Shima | Chief Inspector Shima Iwagami
+    author: motchie
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/458234.jpg
+    rating: 0.0
+    date: '2026-11-17'
+    code: 458234
+    url: /works/458234/
   - title: Mild Hentai NANA
     author: zensoku-punks
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/459087.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "exposed clothing"
-work_count: 33
+work_count: 34
 works:
   - title: Otaku Tomodachi to no Sex wa Saikou ni Kimochi Ii | Sex with Your Otaku Friend
       is Mindblowing
@@ -18,6 +18,13 @@ works:
     date: '2026-04-19'
     code: 453749
     url: /works/453749/
+  - title: Onna Keishi Iwagami Shima | Chief Inspector Shima Iwagami
+    author: motchie
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/458234.jpg
+    rating: 0.0
+    date: '2026-11-17'
+    code: 458234
+    url: /works/458234/
   - title: Asunama 9
     author: ken-1
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/477784.jpg
