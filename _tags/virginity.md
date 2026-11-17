@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "virginity"
-work_count: 197
+work_count: 198
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -1125,6 +1125,13 @@ works:
     date: '2026-07-07'
     code: 662114
     url: /works/662114/
+  - title: Mother-Son Affair I really love my mom we're having sex today
+    author: shiono-kou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662533.jpg
+    rating: 0.0
+    date: '2026-11-17'
+    code: 662533
+    url: /works/662533/
   - title: Akogare no Ano Hito wa | The Person I Admire
     author: minami-chisato-arisawa-tsukasa
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662657.jpg

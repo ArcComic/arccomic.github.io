@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "ponytail"
-work_count: 245
+work_count: 246
 works:
   - title: Ami Mami Mind 5
     author: tsurui
@@ -1600,6 +1600,14 @@ works:
     date: '2026-11-08'
     code: 689137
     url: /works/689137/
+  - title: 'Fuufu Seikatsu no Tame ni Dakareru Tsuma | Bedsheet Duty: A Wife Taken for
+      the Sake of Marriage'
+    author: mitty
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690540.jpg
+    rating: 0.0
+    date: '2026-11-17'
+    code: 690540
+    url: /works/690540/
   - title: Ero Situ Jidou Seisei Appli de Juujitsu no Ero SuppoLife | Enhance your erotic
       life with an app that auto-generates erotic scenarios.
     author: mangetsu-wasabi

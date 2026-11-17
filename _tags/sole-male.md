@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole male"
-work_count: 1229
+work_count: 1231
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -5926,6 +5926,13 @@ works:
     date: '2026-07-09'
     code: 662525
     url: /works/662525/
+  - title: Mother-Son Affair I really love my mom we're having sex today
+    author: shiono-kou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662533.jpg
+    rating: 0.0
+    date: '2026-11-17'
+    code: 662533
+    url: /works/662533/
   - title: Kuro Gal Bijo Kanrinin-san (35) Nama-nakadashi futatabi!
     author: ponsuke
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662715.jpg
@@ -8565,6 +8572,14 @@ works:
     date: '2026-11-17'
     code: 689306
     url: /works/689306/
+  - title: 'Fuufu Seikatsu no Tame ni Dakareru Tsuma | Bedsheet Duty: A Wife Taken for
+      the Sake of Marriage'
+    author: mitty
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690540.jpg
+    rating: 0.0
+    date: '2026-11-17'
+    code: 690540
+    url: /works/690540/
   - title: Otaku-kun ni mo Yarasete kureru Yowayowa Chikubi no Kyonyuu Gal Sudou-san
       | Sudou-san the Busty Gyaru with Weak Nipples Who Lets Even an Otaku Do It
     author: shishamon

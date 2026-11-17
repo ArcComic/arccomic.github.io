@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sex toys"
-work_count: 167
+work_count: 168
 works:
   - title: Mama Naranai Onna-tachi Ch. 1-2
     author: otochichi
@@ -1116,6 +1116,14 @@ works:
     date: '2026-10-18'
     code: 688585
     url: /works/688585/
+  - title: 'Fuufu Seikatsu no Tame ni Dakareru Tsuma | Bedsheet Duty: A Wife Taken for
+      the Sake of Marriage'
+    author: mitty
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690540.jpg
+    rating: 0.0
+    date: '2026-11-17'
+    code: 690540
+    url: /works/690540/
   - title: Seductive Voice Training Camp - Active College Student Model Sae Oshiro
     author: sevengar
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691454.jpg

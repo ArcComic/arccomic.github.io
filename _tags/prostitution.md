@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "prostitution"
-work_count: 101
+work_count: 102
 works:
   - title: Ikanishite Haha wa Onna o Kaihou Shitaka Ch. 1-14
     author: mitarai-yuuki
@@ -713,6 +713,14 @@ works:
     date: '2026-10-20'
     code: 688613
     url: /works/688613/
+  - title: 'Fuufu Seikatsu no Tame ni Dakareru Tsuma | Bedsheet Duty: A Wife Taken for
+      the Sake of Marriage'
+    author: mitty
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690540.jpg
+    rating: 0.0
+    date: '2026-11-17'
+    code: 690540
+    url: /works/690540/
   - title: Deriheru yondara wakareta kanojo no mama ga kita | My Escort Was My Ex's
       Mom
     author: hotate-chan

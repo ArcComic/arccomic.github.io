@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "paizuri"
-work_count: 322
+work_count: 323
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -2170,6 +2170,14 @@ works:
     date: '2026-11-08'
     code: 689137
     url: /works/689137/
+  - title: 'Fuufu Seikatsu no Tame ni Dakareru Tsuma | Bedsheet Duty: A Wife Taken for
+      the Sake of Marriage'
+    author: mitty
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690540.jpg
+    rating: 0.0
+    date: '2026-11-17'
+    code: 690540
+    url: /works/690540/
   - title: Motokano to Dousoukai de Saikai, Shuuden Nogashite Aibeya ni. ~Otagai Kekkon
       Majika de Uwaki Sex Shite Shimaimashita~
     author: baketsu-purin

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "kissing"
-work_count: 536
+work_count: 538
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -2421,6 +2421,13 @@ works:
     date: '2026-07-08'
     code: 662150
     url: /works/662150/
+  - title: Mother-Son Affair I really love my mom we're having sex today
+    author: shiono-kou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662533.jpg
+    rating: 0.0
+    date: '2026-11-17'
+    code: 662533
+    url: /works/662533/
   - title: A Certian MILF Loving Man's Love Affair File 03 -- Toaru Jukujo Zuki Danshi
       no Love Hame Koukanroku File 03
     author: tsukino-jyogi
@@ -3609,6 +3616,14 @@ works:
     date: '2026-10-29'
     code: 689170
     url: /works/689170/
+  - title: 'Fuufu Seikatsu no Tame ni Dakareru Tsuma | Bedsheet Duty: A Wife Taken for
+      the Sake of Marriage'
+    author: mitty
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690540.jpg
+    rating: 0.0
+    date: '2026-11-17'
+    code: 690540
+    url: /works/690540/
   - title: Otaku-kun ni mo Yarasete kureru Yowayowa Chikubi no Kyonyuu Gal Sudou-san
       | Sudou-san the Busty Gyaru with Weak Nipples Who Lets Even an Otaku Do It
     author: shishamon

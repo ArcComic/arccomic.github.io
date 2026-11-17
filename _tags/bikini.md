@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bikini"
-work_count: 115
+work_count: 116
 works:
   - title: Kizashi
     author: yoshiura-kazuya
@@ -777,6 +777,14 @@ works:
     date: '2026-10-18'
     code: 688582
     url: /works/688582/
+  - title: 'Fuufu Seikatsu no Tame ni Dakareru Tsuma | Bedsheet Duty: A Wife Taken for
+      the Sake of Marriage'
+    author: mitty
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690540.jpg
+    rating: 0.0
+    date: '2026-11-17'
+    code: 690540
+    url: /works/690540/
   - title: Kanojo no Mama wa Mamakatsu no Mama datta.
     author: taniguchi-daisuke
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690945.jpg

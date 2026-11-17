@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big breasts"
-work_count: 1501
+work_count: 1504
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -3338,6 +3338,13 @@ works:
     date: '2026-04-25'
     code: 593754
     url: /works/593754/
+  - title: Tsugi no Jinsei no Watashi e | To The Me In My Next Life
+    author: piripun
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/594139.jpg
+    rating: 0.0
+    date: '2026-11-17'
+    code: 594139
+    url: /works/594139/
   - title: 'Kaa-chan to Sex Shinai to Derarenai Heya ~Kuchiurusai Haha to Hankouki no
       Ore~ | A Room I Can''t Leave Without Having Incestuous Sex With My Mom: My Nagging
       Mother and Rebellious Me'
@@ -6738,6 +6745,13 @@ works:
     date: '2026-07-09'
     code: 662525
     url: /works/662525/
+  - title: Mother-Son Affair I really love my mom we're having sex today
+    author: shiono-kou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662533.jpg
+    rating: 0.0
+    date: '2026-11-17'
+    code: 662533
+    url: /works/662533/
   - title: Pure Delight A Front-Row Seat
     author: daikanki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662550.jpg
@@ -10331,6 +10345,14 @@ works:
     date: '2026-10-26'
     code: 690359
     url: /works/690359/
+  - title: 'Fuufu Seikatsu no Tame ni Dakareru Tsuma | Bedsheet Duty: A Wife Taken for
+      the Sake of Marriage'
+    author: mitty
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690540.jpg
+    rating: 0.0
+    date: '2026-11-17'
+    code: 690540
+    url: /works/690540/
   - title: Otaku-kun ni mo Yarasete kureru Yowayowa Chikubi no Kyonyuu Gal Sudou-san
       | Sudou-san the Busty Gyaru with Weak Nipples Who Lets Even an Otaku Do It
     author: shishamon

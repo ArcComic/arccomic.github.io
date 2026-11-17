@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sweating"
-work_count: 224
+work_count: 225
 works:
   - title: Kaisha de Iroiro | Gettin' Busy at the Office
     author: hara-shigeyuki
@@ -1221,6 +1221,13 @@ works:
     date: '2026-07-09'
     code: 662525
     url: /works/662525/
+  - title: Mother-Son Affair I really love my mom we're having sex today
+    author: shiono-kou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662533.jpg
+    rating: 0.0
+    date: '2026-11-17'
+    code: 662533
+    url: /works/662533/
   - title: A Certian MILF Loving Man's Love Affair File 03 -- Toaru Jukujo Zuki Danshi
       no Love Hame Koukanroku File 03
     author: tsukino-jyogi

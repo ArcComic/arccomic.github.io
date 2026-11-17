@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "rough translation"
-work_count: 850
+work_count: 851
 works:
   - title: Boku no Shiranai Kimi no Kao
     author: utsutsu-minoru
@@ -2960,6 +2960,13 @@ works:
     date: '2026-07-09'
     code: 662525
     url: /works/662525/
+  - title: Mother-Son Affair I really love my mom we're having sex today
+    author: shiono-kou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662533.jpg
+    rating: 0.0
+    date: '2026-11-17'
+    code: 662533
+    url: /works/662533/
   - title: Pure Delight A Front-Row Seat
     author: daikanki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662550.jpg

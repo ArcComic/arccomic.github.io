@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "small penis"
-work_count: 41
+work_count: 42
 works:
   - title: Toshoshitsu no Kanojo 3~Seiso na Kimi ga Ochiru made~
     author: ame-arare
@@ -264,6 +264,14 @@ works:
     date: '2026-10-17'
     code: 688289
     url: /works/688289/
+  - title: 'Fuufu Seikatsu no Tame ni Dakareru Tsuma | Bedsheet Duty: A Wife Taken for
+      the Sake of Marriage'
+    author: mitty
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690540.jpg
+    rating: 0.0
+    date: '2026-11-17'
+    code: 690540
+    url: /works/690540/
   - title: 'Swapping no Wana ~Netorare Mitsugi Maso-ka Keikaku ni Ochita Boku~ | Couple
       Swapping Trap: Fallen into the Scheme to Turn Me into a Cuckolded, Money-Draining
       Masochist'

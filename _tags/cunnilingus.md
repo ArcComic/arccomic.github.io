@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "cunnilingus"
-work_count: 244
+work_count: 246
 works:
   - title: Love Approach
     author: hanafuda-sakurano
@@ -578,6 +578,13 @@ works:
     date: '2026-04-25'
     code: 593754
     url: /works/593754/
+  - title: Tsugi no Jinsei no Watashi e | To The Me In My Next Life
+    author: piripun
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/594139.jpg
+    rating: 0.0
+    date: '2026-11-17'
+    code: 594139
+    url: /works/594139/
   - title: Celestial Doll 1-5
     author: mr-kurz
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/595353.jpg
@@ -1139,6 +1146,13 @@ works:
     date: '2026-07-08'
     code: 662150
     url: /works/662150/
+  - title: Mother-Son Affair I really love my mom we're having sex today
+    author: shiono-kou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662533.jpg
+    rating: 0.0
+    date: '2026-11-17'
+    code: 662533
+    url: /works/662533/
   - title: A late night visit leads to a mother and son's marital sex life together
     author: fuwatoro-opanchu-cake
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/663195.jpg

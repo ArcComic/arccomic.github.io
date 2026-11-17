@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "yuri"
-work_count: 66
+work_count: 67
 works:
   - title: Himitsu no Kamiura san | The Mysterious Kamiura-san
     author: takeshisu
@@ -125,6 +125,13 @@ works:
     date: '2026-09-22'
     code: 579290
     url: /works/579290/
+  - title: Tsugi no Jinsei no Watashi e | To The Me In My Next Life
+    author: piripun
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/594139.jpg
+    rating: 0.0
+    date: '2026-11-17'
+    code: 594139
+    url: /works/594139/
   - title: Celestial Doll 1-5
     author: mr-kurz
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/595353.jpg
