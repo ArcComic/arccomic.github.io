@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "scat"
-work_count: 10
+work_count: 11
 works:
   - title: Ryoujoku Gakuen
     author: motchie
@@ -75,4 +75,11 @@ works:
     date: '2026-09-22'
     code: 683137
     url: /works/683137/
+  - title: Gyokuzui I - V | Jadeite I - V | Chalcedony I - V
+    author: youkai-kubinashi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/697744.jpg
+    rating: 0.0
+    date: '2026-11-17'
+    code: 697744
+    url: /works/697744/
 ---

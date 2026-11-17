@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "handjob"
-work_count: 206
+work_count: 207
 works:
   - title: Rin to P
     author: simon
@@ -1540,6 +1540,14 @@ works:
     date: '2026-11-17'
     code: 697734
     url: /works/697734/
+  - title: Hitozuma A-san to Musuko no Yuujin N-kun - Married wife A and son's friend
+      N-kun
+    author: takatsu-takatsu-keita
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/697894.jpg
+    rating: 0.0
+    date: '2026-11-17'
+    code: 697894
+    url: /works/697894/
   - title: Onee-chan no SM Kouza | Onee-chan's S&M Lecture
     author: shinooka-homare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/88750.jpg

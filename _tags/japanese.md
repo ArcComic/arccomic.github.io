@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "japanese"
-work_count: 38
+work_count: 39
 works:
   - title: Hitozuma Hyakka
     author: hase-tsubura
@@ -272,4 +272,11 @@ works:
     date: '2026-05-07'
     code: 648551
     url: /works/648551/
+  - title: Gyokuzui I - V | Jadeite I - V | Chalcedony I - V
+    author: youkai-kubinashi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/697744.jpg
+    rating: 0.0
+    date: '2026-11-17'
+    code: 697744
+    url: /works/697744/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "pregnant"
-work_count: 82
+work_count: 83
 works:
   - title: Mama Naranai Onna-tachi Ch. 1-2
     author: otochichi
@@ -606,4 +606,12 @@ works:
     date: '2026-11-14'
     code: 696998
     url: /works/696998/
+  - title: Hitozuma A-san to Musuko no Yuujin N-kun - Married wife A and son's friend
+      N-kun
+    author: takatsu-takatsu-keita
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/697894.jpg
+    rating: 0.0
+    date: '2026-11-17'
+    code: 697894
+    url: /works/697894/
 ---

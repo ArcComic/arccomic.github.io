@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "translated"
-work_count: 2105
+work_count: 2107
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -15480,6 +15480,21 @@ works:
     date: '2026-11-17'
     code: 697736
     url: /works/697736/
+  - title: Gyokuzui I - V | Jadeite I - V | Chalcedony I - V
+    author: youkai-kubinashi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/697744.jpg
+    rating: 0.0
+    date: '2026-11-17'
+    code: 697744
+    url: /works/697744/
+  - title: Hitozuma A-san to Musuko no Yuujin N-kun - Married wife A and son's friend
+      N-kun
+    author: takatsu-takatsu-keita
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/697894.jpg
+    rating: 0.0
+    date: '2026-11-17'
+    code: 697894
+    url: /works/697894/
   - title: Hottokenaino
     author: hara-shigeyuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/77864.jpg
