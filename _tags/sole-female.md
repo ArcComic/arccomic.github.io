@@ -9492,14 +9492,14 @@ works:
   - title: I'm Dating My Older Brother's Former Tutor!
     author: chotto-b-sen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696617.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-11-14'
     code: 696617
     url: /works/696617/
   - title: Netori Otoko o Mesu ni suru
     author: yonayona
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696684.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-11-14'
     code: 696684
     url: /works/696684/
@@ -9507,7 +9507,7 @@ works:
       2
     author: velokisss
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696728.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-11-14'
     code: 696728
     url: /works/696728/
@@ -9536,7 +9536,7 @@ works:
       To Musuko Ga Kateinai SEX Dekiru Jikan Wa Juppun Dake!
     author: circle-spice
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696998.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-11-14'
     code: 696998
     url: /works/696998/

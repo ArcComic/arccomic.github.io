@@ -307,7 +307,7 @@ works:
       2
     author: velokisss
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696728.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-11-14'
     code: 696728
     url: /works/696728/
@@ -315,7 +315,7 @@ works:
       I'm Sorry for the Onaho, Even Though You Raised Me Carefully as a Human
     author: santa
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696732.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-11-14'
     code: 696732
     url: /works/696732/

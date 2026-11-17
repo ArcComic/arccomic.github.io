@@ -402,7 +402,7 @@ works:
   - title: '"Masochists" can''t pass on their genes! | "Mazo" wa Idenshi Nokosemasen!'
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/541553.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-11-14'
     code: 541553
     url: /works/541553/
@@ -2357,7 +2357,7 @@ works:
   - title: I'm Dating My Older Brother's Former Tutor!
     author: chotto-b-sen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696617.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-11-14'
     code: 696617
     url: /works/696617/
@@ -2372,14 +2372,14 @@ works:
       2
     author: velokisss
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696728.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-11-14'
     code: 696728
     url: /works/696728/
   - title: Kairaku Market e Youkoso | Welcome to the Pleasure Sokubaikai
     author: kichirock
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696730.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-11-14'
     code: 696730
     url: /works/696730/
