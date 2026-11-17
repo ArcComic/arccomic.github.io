@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "translated"
-work_count: 2110
+work_count: 2112
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -4870,6 +4870,13 @@ works:
     date: '2026-10-20'
     code: 587417
     url: /works/587417/
+  - title: Eigyou-saki no Yuuko-san - Part 2 - Yuuko-San in The Sales Area 2
+    author: shiono-kou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/587573.jpg
+    rating: 0.0
+    date: '2026-11-17'
+    code: 587573
+    url: /works/587573/
   - title: Motto, Shitemitai. - I want to do it more.
     author: danimaru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/587724.jpg
@@ -8093,6 +8100,14 @@ works:
     date: '2026-09-27'
     code: 650625
     url: /works/650625/
+  - title: Onee-san to Ecchi na Koto o Ippai suru Hanashi | The Story of How I End up
+      Having Lots of Sex with an Older Girl
+    author: sanshoku-nerune
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/650647.jpg
+    rating: 0.0
+    date: '2026-11-17'
+    code: 650647
+    url: /works/650647/
   - title: Ally-san wa Doko Demo Ikitai!! 3
     author: inukami-inoji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/650926.jpg

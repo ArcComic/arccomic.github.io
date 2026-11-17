@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "small penis"
-work_count: 40
+work_count: 41
 works:
   - title: Toshoshitsu no Kanojo 3~Seiso na Kimi ga Ochiru made~
     author: ame-arare
@@ -152,6 +152,14 @@ works:
     date: '2026-05-05'
     code: 648102
     url: /works/648102/
+  - title: Onee-san to Ecchi na Koto o Ippai suru Hanashi | The Story of How I End up
+      Having Lots of Sex with an Older Girl
+    author: sanshoku-nerune
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/650647.jpg
+    rating: 0.0
+    date: '2026-11-17'
+    code: 650647
+    url: /works/650647/
   - title: Atashi no Hou ga Tsuyoi Hazudattanoni!
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/652605.jpg

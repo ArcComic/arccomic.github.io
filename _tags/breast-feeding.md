@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "breast feeding"
-work_count: 130
+work_count: 131
 works:
   - title: Okki na Kanojo ni Amaetai | I want to be pampered by a girl of generous girth
     author: higashino-mikan
@@ -485,6 +485,14 @@ works:
     date: '2026-09-27'
     code: 650138
     url: /works/650138/
+  - title: Onee-san to Ecchi na Koto o Ippai suru Hanashi | The Story of How I End up
+      Having Lots of Sex with an Older Girl
+    author: sanshoku-nerune
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/650647.jpg
+    rating: 0.0
+    date: '2026-11-17'
+    code: 650647
+    url: /works/650647/
   - title: Kyonyiu kanojo ni hitasura shibori toraremakuru hanashi | Squeeze Until Empty
     author: fuguta-ke
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651343.jpg

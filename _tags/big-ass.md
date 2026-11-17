@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big ass"
-work_count: 367
+work_count: 368
 works:
   - title: My Care Lady Ch. 1
     author: sugi-g
@@ -528,6 +528,13 @@ works:
     date: '2026-04-27'
     code: 586028
     url: /works/586028/
+  - title: Eigyou-saki no Yuuko-san - Part 2 - Yuuko-San in The Sales Area 2
+    author: shiono-kou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/587573.jpg
+    rating: 0.0
+    date: '2026-11-17'
+    code: 587573
+    url: /works/587573/
   - title: Motto, Shitemitai. - I want to do it more.
     author: danimaru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/587724.jpg

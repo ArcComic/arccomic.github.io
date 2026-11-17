@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "shotacon"
-work_count: 180
+work_count: 181
 works:
   - title: Okki na Kanojo ni Amaetai | I want to be pampered by a girl of generous girth
     author: higashino-mikan
@@ -773,6 +773,14 @@ works:
     date: '2026-11-13'
     code: 648743
     url: /works/648743/
+  - title: Onee-san to Ecchi na Koto o Ippai suru Hanashi | The Story of How I End up
+      Having Lots of Sex with an Older Girl
+    author: sanshoku-nerune
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/650647.jpg
+    rating: 0.0
+    date: '2026-11-17'
+    code: 650647
+    url: /works/650647/
   - title: Musume no Kawari ni | Instead of My Daughter
     author: nanao-yukiji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651309.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "condom"
-work_count: 303
+work_count: 304
 works:
   - title: Kaisha de Iroiro | Gettin' Busy at the Office
     author: hara-shigeyuki
@@ -1415,6 +1415,14 @@ works:
     date: '2026-05-10'
     code: 649033
     url: /works/649033/
+  - title: Onee-san to Ecchi na Koto o Ippai suru Hanashi | The Story of How I End up
+      Having Lots of Sex with an Older Girl
+    author: sanshoku-nerune
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/650647.jpg
+    rating: 0.0
+    date: '2026-11-17'
+    code: 650647
+    url: /works/650647/
   - title: Musume no Kawari ni | Instead of My Daughter
     author: nanao-yukiji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651309.jpg

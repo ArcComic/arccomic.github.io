@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "cheating"
-work_count: 483
+work_count: 484
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -1350,6 +1350,13 @@ works:
     date: '2026-05-10'
     code: 586634
     url: /works/586634/
+  - title: Eigyou-saki no Yuuko-san - Part 2 - Yuuko-San in The Sales Area 2
+    author: shiono-kou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/587573.jpg
+    rating: 0.0
+    date: '2026-11-17'
+    code: 587573
+    url: /works/587573/
   - title: Asuna family 1-42
     author: zhi-yitiaomiao
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/588660.jpg
