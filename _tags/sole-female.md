@@ -1552,7 +1552,7 @@ works:
       Aunt Masturbating in a Cosplay She’s Too Old For
     author: motchie
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/461751.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-17'
     code: 461751
     url: /works/461751/
@@ -1934,7 +1934,7 @@ works:
   - title: Jiraikei Joshi to Yatte Mitai! | I Want to Do It with a Landmine Girl
     author: mushi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/500221.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-11-17'
     code: 500221
     url: /works/500221/
@@ -3315,7 +3315,7 @@ works:
   - title: Eigyou-saki no Yuuko-san - Part 2 - Yuuko-San in The Sales Area 2
     author: shiono-kou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/587573.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-11-17'
     code: 587573
     url: /works/587573/
@@ -5385,7 +5385,7 @@ works:
       Having Lots of Sex with an Older Girl
     author: sanshoku-nerune
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/650647.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-11-17'
     code: 650647
     url: /works/650647/
@@ -6134,7 +6134,7 @@ works:
   - title: Mother-Son Affair I really love my mom we're having sex today
     author: shiono-kou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662533.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-11-17'
     code: 662533
     url: /works/662533/
@@ -8851,7 +8851,7 @@ works:
   - title: Two Dreams in One Night
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687908.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-11-17'
     code: 687908
     url: /works/687908/
@@ -9054,7 +9054,7 @@ works:
       Natsuyasumi Hen~
     author: ueto-seri
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/689306.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-11-17'
     code: 689306
     url: /works/689306/
@@ -9069,7 +9069,7 @@ works:
       the Sake of Marriage'
     author: mitty
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690540.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-11-17'
     code: 690540
     url: /works/690540/
@@ -9567,7 +9567,7 @@ works:
       Wife's Ex-Boyfriend
     author: mitty
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696727.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-11-17'
     code: 696727
     url: /works/696727/
@@ -9611,7 +9611,7 @@ works:
   - title: A Pantsy Relationship With the Girl Next Door
     author: hoshi-to-lucky
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/697416.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-11-17'
     code: 697416
     url: /works/697416/
@@ -9629,7 +9629,7 @@ works:
       Her Secret Part-Time Job [English] [DNTA}
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/697736.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-11-17'
     code: 697736
     url: /works/697736/
@@ -9644,7 +9644,7 @@ works:
       N-kun
     author: takatsu-takatsu-keita
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/697894.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-11-17'
     code: 697894
     url: /works/697894/

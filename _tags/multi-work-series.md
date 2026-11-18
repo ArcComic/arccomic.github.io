@@ -389,7 +389,7 @@ works:
   - title: Onna Keishi Iwagami Shima | Chief Inspector Shima Iwagami
     author: motchie
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/458234.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-11-17'
     code: 458234
     url: /works/458234/
@@ -2116,7 +2116,7 @@ works:
       Having Lots of Sex with an Older Girl
     author: sanshoku-nerune
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/650647.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-11-17'
     code: 650647
     url: /works/650647/
@@ -2204,7 +2204,7 @@ works:
       up Having Lots of Sex with an Older Girl 2
     author: sanshoku-nerune
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/653684.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-11-17'
     code: 653684
     url: /works/653684/
@@ -3625,7 +3625,7 @@ works:
       Natsuyasumi Hen~
     author: ueto-seri
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/689306.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-11-17'
     code: 689306
     url: /works/689306/
@@ -3641,7 +3641,7 @@ works:
       the Sake of Marriage'
     author: mitty
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690540.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-11-17'
     code: 690540
     url: /works/690540/

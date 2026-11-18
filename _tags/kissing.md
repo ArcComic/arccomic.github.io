@@ -512,7 +512,7 @@ works:
   - title: Jiraikei Joshi to Yatte Mitai! | I Want to Do It with a Landmine Girl
     author: mushi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/500221.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-11-17'
     code: 500221
     url: /works/500221/
@@ -2203,7 +2203,7 @@ works:
       up Having Lots of Sex with an Older Girl 2
     author: sanshoku-nerune
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/653684.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-11-17'
     code: 653684
     url: /works/653684/
@@ -2424,7 +2424,7 @@ works:
   - title: Mother-Son Affair I really love my mom we're having sex today
     author: shiono-kou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662533.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-11-17'
     code: 662533
     url: /works/662533/
@@ -3620,7 +3620,7 @@ works:
       the Sake of Marriage'
     author: mitty
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690540.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-11-17'
     code: 690540
     url: /works/690540/
@@ -4007,7 +4007,7 @@ works:
   - title: A Pantsy Relationship With the Girl Next Door
     author: hoshi-to-lucky
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/697416.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-11-17'
     code: 697416
     url: /works/697416/
@@ -4032,7 +4032,7 @@ works:
       Her Secret Part-Time Job [English] [DNTA}
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/697736.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-11-17'
     code: 697736
     url: /works/697736/
@@ -4040,7 +4040,7 @@ works:
       N-kun
     author: takatsu-takatsu-keita
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/697894.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-11-17'
     code: 697894
     url: /works/697894/

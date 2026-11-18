@@ -20,14 +20,14 @@ works:
   - title: Onna Keishi Iwagami Shima | Chief Inspector Shima Iwagami
     author: motchie
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/458234.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-11-17'
     code: 458234
     url: /works/458234/
   - title: Jiraikei Joshi to Yatte Mitai! | I Want to Do It with a Landmine Girl
     author: mushi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/500221.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-11-17'
     code: 500221
     url: /works/500221/
@@ -74,7 +74,7 @@ works:
       Having Lots of Sex with an Older Girl
     author: sanshoku-nerune
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/650647.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-11-17'
     code: 650647
     url: /works/650647/

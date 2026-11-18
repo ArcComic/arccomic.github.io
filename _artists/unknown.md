@@ -529,7 +529,7 @@ works:
     url: /works/687638/
   - title: Two Dreams in One Night
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687908.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-11-17'
     code: 687908
     url: /works/687908/
@@ -588,7 +588,7 @@ works:
       Council President Gets Her Virginity Lost to a Creepy Bald Fat Store Manager at
       Her Secret Part-Time Job [English] [DNTA}
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/697736.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-11-17'
     code: 697736
     url: /works/697736/

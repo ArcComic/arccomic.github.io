@@ -133,7 +133,7 @@ works:
   - title: Jiraikei Joshi to Yatte Mitai! | I Want to Do It with a Landmine Girl
     author: mushi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/500221.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-11-17'
     code: 500221
     url: /works/500221/
@@ -717,7 +717,7 @@ works:
       the Sake of Marriage'
     author: mitty
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690540.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-11-17'
     code: 690540
     url: /works/690540/

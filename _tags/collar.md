@@ -78,7 +78,7 @@ works:
       Aunt Masturbating in a Cosplay She’s Too Old For
     author: motchie
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/461751.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-17'
     code: 461751
     url: /works/461751/
@@ -1029,7 +1029,7 @@ works:
       Her Secret Part-Time Job [English] [DNTA}
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/697736.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-11-17'
     code: 697736
     url: /works/697736/

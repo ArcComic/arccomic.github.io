@@ -7,7 +7,7 @@ works:
       the Sake of Marriage'
     author: mitty
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/690540.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-11-17'
     code: 690540
     url: /works/690540/
@@ -15,7 +15,7 @@ works:
       Wife's Ex-Boyfriend
     author: mitty
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696727.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-11-17'
     code: 696727
     url: /works/696727/

@@ -1201,7 +1201,7 @@ works:
   - title: Mother-Son Affair I really love my mom we're having sex today
     author: shiono-kou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662533.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-11-17'
     code: 662533
     url: /works/662533/
@@ -1665,7 +1665,7 @@ works:
       N-kun
     author: takatsu-takatsu-keita
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/697894.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-11-17'
     code: 697894
     url: /works/697894/

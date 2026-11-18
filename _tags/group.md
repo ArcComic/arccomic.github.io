@@ -1160,7 +1160,7 @@ works:
       up Having Lots of Sex with an Older Girl 2
     author: sanshoku-nerune
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/653684.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-11-17'
     code: 653684
     url: /works/653684/
@@ -2427,7 +2427,7 @@ works:
       N-kun
     author: takatsu-takatsu-keita
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/697894.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-11-17'
     code: 697894
     url: /works/697894/

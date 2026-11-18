@@ -1747,7 +1747,7 @@ works:
   - title: A Pantsy Relationship With the Girl Next Door
     author: hoshi-to-lucky
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/697416.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-11-17'
     code: 697416
     url: /works/697416/
@@ -1757,7 +1757,7 @@ works:
       Her Secret Part-Time Job [English] [DNTA}
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/697736.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-11-17'
     code: 697736
     url: /works/697736/
