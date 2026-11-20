@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "cheating"
-work_count: 495
+work_count: 497
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -598,6 +598,14 @@ works:
     date: '2026-04-19'
     code: 446716
     url: /works/446716/
+  - title: Hahaoya ni Kokuhaku Shitara Ichinichi dake Sex o Sasete Kureta Hanashi |
+      I Confessed to My Mom and She Let Me Have a One-Day-Only Sex-Fest
+    author: spices
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/446943.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 446943
+    url: /works/446943/
   - title: Yofukashi no Tsuma ~Murakami Kozue~ | Late-Night Wife ~Murakami Kozue~
     author: oobayashi-mori
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/453749.jpg
@@ -2633,6 +2641,13 @@ works:
     date: '2026-10-07'
     code: 671129
     url: /works/671129/
+  - title: Ogibo-san ja Dame Kashira? 2 | Couldn't Mother in law be "USED" 2?
+    author: cammy
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/671213.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 671213
+    url: /works/671213/
   - title: My Secret With Kyouko Sensei 1 - Kyouko Sensei to Boku no Himitsu
     author: maimu-maimu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/671460.jpg

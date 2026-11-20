@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "doujinshi"
-work_count: 1822
+work_count: 1825
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -1431,6 +1431,14 @@ works:
     date: '2026-03-07'
     code: 446018
     url: /works/446018/
+  - title: Hahaoya ni Kokuhaku Shitara Ichinichi dake Sex o Sasete Kureta Hanashi |
+      I Confessed to My Mom and She Let Me Have a One-Day-Only Sex-Fest
+    author: spices
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/446943.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 446943
+    url: /works/446943/
   - title: Hairyokan de no Ero Kyoufu Taiken | A Terrifying Erotic Experience at an
       Abandoned Inn
     author: pink-taro
@@ -8977,6 +8985,13 @@ works:
     date: '2026-10-07'
     code: 671129
     url: /works/671129/
+  - title: Ogibo-san ja Dame Kashira? 2 | Couldn't Mother in law be "USED" 2?
+    author: cammy
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/671213.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 671213
+    url: /works/671213/
   - title: Koitsu Maji de Chorokatta | This Chick Was Totally Easy
     author: doron
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/671419.jpg
@@ -12945,6 +12960,13 @@ works:
     date: '2026-11-09'
     code: 693920
     url: /works/693920/
+  - title: LeveChi na Swapping 1 ~Seiheki ni Mezameru Otto Hen~
+    author: hikitogu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694479.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 694479
+    url: /works/694479/
   - title: The Fable Of The Short King And His GF With Huge Tits
     author: enishi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694668.jpg

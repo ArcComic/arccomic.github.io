@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "hikitogu"
-work_count: 9
+work_count: 10
 works:
   - title: LeveChi na Swapping 2 ~Hatsu Zecchou de Iki Kuruu Tsuma Hen~
     author: hikitogu
@@ -70,4 +70,11 @@ works:
     date: '2026-09-20'
     code: 682524
     url: /works/682524/
+  - title: LeveChi na Swapping 1 ~Seiheki ni Mezameru Otto Hen~
+    author: hikitogu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694479.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 694479
+    url: /works/694479/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "business suit"
-work_count: 116
+work_count: 117
 works:
   - title: MAGIC SEVEN
     author: asuhiro
@@ -687,6 +687,13 @@ works:
     date: '2026-08-19'
     code: 668867
     url: /works/668867/
+  - title: Ogibo-san ja Dame Kashira? 2 | Couldn't Mother in law be "USED" 2?
+    author: cammy
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/671213.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 671213
+    url: /works/671213/
   - title: I WILL make a single mother my wife 1
     author: onizuka-chris
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/678905.jpg

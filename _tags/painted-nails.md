@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "painted nails"
-work_count: 68
+work_count: 69
 works:
   - title: Rakki Taishyaku
     author: fushoku
@@ -454,6 +454,13 @@ works:
     date: '2026-10-26'
     code: 690824
     url: /works/690824/
+  - title: LeveChi na Swapping 1 ~Seiheki ni Mezameru Otto Hen~
+    author: hikitogu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694479.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 694479
+    url: /works/694479/
   - title: The 211cm Jirai-kei Girl Who Won't Let Go of Me 4
     author: kinntarou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694925.jpg

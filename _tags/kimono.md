@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "kimono"
-work_count: 65
+work_count: 66
 works:
   - title: Hitozuma Hyakka
     author: hase-tsubura
@@ -376,6 +376,13 @@ works:
     date: '2026-10-11'
     code: 669744
     url: /works/669744/
+  - title: Ogibo-san ja Dame Kashira? 2 | Couldn't Mother in law be "USED" 2?
+    author: cammy
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/671213.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 671213
+    url: /works/671213/
   - title: Downer Hitozuma wa Teishu Kanpaku Otto o Wakaraseru | The Gloomy Housewife
       Puts Her Domineering Husband in His Place
     author: joucho

@@ -1,8 +1,16 @@
 ---
 layout: tag
 tag_name: "spices"
-work_count: 2
+work_count: 3
 works:
+  - title: Hahaoya ni Kokuhaku Shitara Ichinichi dake Sex o Sasete Kureta Hanashi |
+      I Confessed to My Mom and She Let Me Have a One-Day-Only Sex-Fest
+    author: spices
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/446943.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 446943
+    url: /works/446943/
   - title: Kono Inakamachi ni wa Musuko no Seijinshiki ni Haha ga Doutei Sotsugyou Saseru
       Gyouji ga Aru | In This Rural Village, There's A Custom Of A Mother Taking Her
       Son's Virginity When They Become An Adult

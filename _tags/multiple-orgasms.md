@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "multiple orgasms"
-work_count: 155
+work_count: 156
 works:
   - title: Rako Slip!
     author: bujidearu
@@ -1053,6 +1053,13 @@ works:
     date: '2026-11-17'
     code: 690540
     url: /works/690540/
+  - title: LeveChi na Swapping 1 ~Seiheki ni Mezameru Otto Hen~
+    author: hikitogu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694479.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 694479
+    url: /works/694479/
   - title: Making a Harem of the Three Bitchy Gal Sisters - All Chapters + Bonus
     author: zonda
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694670.jpg

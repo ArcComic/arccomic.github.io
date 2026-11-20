@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "full color"
-work_count: 327
+work_count: 330
 works:
   - title: Pai☆Panic ~Hasamareta Dekapai~
     author: inkey
@@ -354,6 +354,14 @@ works:
     date: '2026-09-17'
     code: 445629
     url: /works/445629/
+  - title: Hahaoya ni Kokuhaku Shitara Ichinichi dake Sex o Sasete Kureta Hanashi |
+      I Confessed to My Mom and She Let Me Have a One-Day-Only Sex-Fest
+    author: spices
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/446943.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 446943
+    url: /works/446943/
   - title: Okaa-san ni Butsukenasai | Pounding Mom
     author: kumo-no-ito
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/459857.jpg
@@ -1750,6 +1758,13 @@ works:
     date: '2026-11-20'
     code: 670567
     url: /works/670567/
+  - title: Ogibo-san ja Dame Kashira? 2 | Couldn't Mother in law be "USED" 2?
+    author: cammy
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/671213.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 671213
+    url: /works/671213/
   - title: Couldn't Mother in law be "USED" 3? Ogibo-san Ja Dame Kashira 3?
     author: cammy
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/671609.jpg
@@ -2325,6 +2340,13 @@ works:
     date: '2026-10-28'
     code: 691671
     url: /works/691671/
+  - title: LeveChi na Swapping 1 ~Seiheki ni Mezameru Otto Hen~
+    author: hikitogu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694479.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 694479
+    url: /works/694479/
   - title: Doing Whatever I Please with the Help of Drugs! Breeding and Training in
       Another World
     author: sukoyasu

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "paizuri"
-work_count: 326
+work_count: 327
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -202,6 +202,14 @@ works:
     date: '2026-03-05'
     code: 443909
     url: /works/443909/
+  - title: Hahaoya ni Kokuhaku Shitara Ichinichi dake Sex o Sasete Kureta Hanashi |
+      I Confessed to My Mom and She Let Me Have a One-Day-Only Sex-Fest
+    author: spices
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/446943.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 446943
+    url: /works/446943/
   - title: Omochikaeri shite Ageru kara | I'll Give You A One-Night Stand
     author: borusiti
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/449069.jpg
