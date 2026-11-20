@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "fushoku"
-work_count: 2
+work_count: 3
 works:
   - title: Rakki Taishyaku
     author: fushoku
@@ -17,4 +17,11 @@ works:
     date: '2026-11-09'
     code: 525330
     url: /works/525330/
+  - title: Mantou Shinmi
+    author: fushoku
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/644633.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 644633
+    url: /works/644633/
 ---

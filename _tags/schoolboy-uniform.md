@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "schoolboy uniform"
-work_count: 142
+work_count: 143
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -1045,6 +1045,13 @@ works:
     date: '2026-11-12'
     code: 696030
     url: /works/696030/
+  - title: Muteikou Niku Onaho Doukyuusei | My Unresisting Meat Onahole Classmate
+    author: fujoujoshi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/697728.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 697728
+    url: /works/697728/
   - title: Jokyoushi - Hot For Teachers | Female Teachers
     author: drill-murata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/81375.jpg

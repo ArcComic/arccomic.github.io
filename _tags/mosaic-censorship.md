@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "mosaic censorship"
-work_count: 402
+work_count: 403
 works:
   - title: Okki na Kanojo ni Amaetai | I want to be pampered by a girl of generous girth
     author: higashino-mikan
@@ -415,6 +415,13 @@ works:
     date: '2026-02-26'
     code: 446969
     url: /works/446969/
+  - title: Omochikaeri shite Ageru kara | I'll Give You A One-Night Stand
+    author: borusiti
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/449069.jpg
+    rating: 4.4
+    date: '2026-11-20'
+    code: 449069
+    url: /works/449069/
   - title: Mild Hentai NANA
     author: zensoku-punks
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/459087.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "nakadashi"
-work_count: 1147
+work_count: 1150
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -1006,6 +1006,13 @@ works:
     date: '2026-04-23'
     code: 448503
     url: /works/448503/
+  - title: Omochikaeri shite Ageru kara | I'll Give You A One-Night Stand
+    author: borusiti
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/449069.jpg
+    rating: 4.4
+    date: '2026-11-20'
+    code: 449069
+    url: /works/449069/
   - title: Ichizu na Onee-san to Saikaishitara Dosukebe Kyuukonsarete Sex Tsukeninaru
       Hanashi | After Reuniting with the Onee-san Who is Fixated on Me, I was Proposed
       to with Sex and Got Addicted
@@ -4223,6 +4230,13 @@ works:
     date: '2026-04-17'
     code: 644495
     url: /works/644495/
+  - title: Mantou Shinmi
+    author: fushoku
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/644633.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 644633
+    url: /works/644633/
   - title: Ecchi na Onee-san-tachi ni Onsenyado de Hokakusareta Ken
     author: ishigaki-takashi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/644924.jpg
@@ -8496,6 +8510,13 @@ works:
     date: '2026-11-17'
     code: 697416
     url: /works/697416/
+  - title: Muteikou Niku Onaho Doukyuusei | My Unresisting Meat Onahole Classmate
+    author: fujoujoshi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/697728.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 697728
+    url: /works/697728/
   - title: Maid no Shirosaki-san ni Gohoushi shite Morau Hanashi 6 | The Story of Getting
       Served by Maid Shirosaki-san 6
     author: sanshoku-nerune

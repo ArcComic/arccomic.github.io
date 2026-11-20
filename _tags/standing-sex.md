@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "standing sex"
-work_count: 8
+work_count: 9
 works:
   - title: Sentou no Onee-san to Majiwaru, 4-kakan no Natsu | Four Days of Summer With
       The Bathhouse Lady
@@ -67,4 +67,11 @@ works:
     date: '2026-09-07'
     code: 678909
     url: /works/678909/
+  - title: Muteikou Niku Onaho Doukyuusei | My Unresisting Meat Onahole Classmate
+    author: fujoujoshi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/697728.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 697728
+    url: /works/697728/
 ---

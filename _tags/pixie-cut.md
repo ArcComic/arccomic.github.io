@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "pixie cut"
-work_count: 125
+work_count: 126
 works:
   - title: Akarui Kazoku Seikatsu
     author: pistonring-nishizawa
@@ -411,6 +411,13 @@ works:
     date: '2026-08-24'
     code: 642586
     url: /works/642586/
+  - title: Mantou Shinmi
+    author: fushoku
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/644633.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 644633
+    url: /works/644633/
   - title: Kasshoku Buaisou Yakyuu-bu Manager no Yowami Nigitta | I Found the Grumpy,
       Brown-Skinned Baseball Manager's Weakness
     author: kitano-onsen

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "femdom"
-work_count: 246
+work_count: 247
 works:
   - title: Life with Married Women Just Like a Manga 2 - Ch. 1-5
     author: hidemaru
@@ -283,6 +283,13 @@ works:
     date: '2026-04-23'
     code: 448503
     url: /works/448503/
+  - title: Omochikaeri shite Ageru kara | I'll Give You A One-Night Stand
+    author: borusiti
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/449069.jpg
+    rating: 4.4
+    date: '2026-11-20'
+    code: 449069
+    url: /works/449069/
   - title: Ichizu na Onee-san to Saikaishitara Dosukebe Kyuukonsarete Sex Tsukeninaru
       Hanashi | After Reuniting with the Onee-san Who is Fixated on Me, I was Proposed
       to with Sex and Got Addicted

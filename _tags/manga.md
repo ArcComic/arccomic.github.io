@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "manga"
-work_count: 458
+work_count: 459
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -1843,6 +1843,13 @@ works:
     date: '2026-04-17'
     code: 644495
     url: /works/644495/
+  - title: Mantou Shinmi
+    author: fushoku
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/644633.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 644633
+    url: /works/644633/
   - title: Kounai de Ichiban Kawaikute Ichiban Oppai ga Dekakute Ichiban Okazu ni Sareteru
       Ichiban Sukebe na Etou-san - Eto-san is the cutest, has the biggest tits, is the
       most masturbatory target, and is the most naughty in the school. | 在校內最可愛、胸部最大、最常被當做性幻想對象、最淫蕩的江藤同學

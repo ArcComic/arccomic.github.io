@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "wholesome"
-work_count: 244
+work_count: 247
 works:
   - title: FLUFFY LAUGH GIRL
     author: shibasaki-syouzi
@@ -248,6 +248,13 @@ works:
     date: '2026-08-23'
     code: 441114
     url: /works/441114/
+  - title: Omochikaeri shite Ageru kara | I'll Give You A One-Night Stand
+    author: borusiti
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/449069.jpg
+    rating: 4.4
+    date: '2026-11-20'
+    code: 449069
+    url: /works/449069/
   - title: Mujikaku Shoujo wa Tashikametai | The Oblivious Girl Wants to Make Sure
     author: ouji-hiyoko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/450112.jpg
@@ -1015,6 +1022,13 @@ works:
     date: '2026-04-27'
     code: 642793
     url: /works/642793/
+  - title: Mantou Shinmi
+    author: fushoku
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/644633.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 644633
+    url: /works/644633/
   - title: Kasshoku Buaisou Yakyuu-bu Manager no Yowami Nigitta | I Found the Grumpy,
       Brown-Skinned Baseball Manager's Weakness
     author: kitano-onsen
@@ -1832,4 +1846,11 @@ works:
     date: '2026-11-13'
     code: 696362
     url: /works/696362/
+  - title: Muteikou Niku Onaho Doukyuusei | My Unresisting Meat Onahole Classmate
+    author: fujoujoshi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/697728.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 697728
+    url: /works/697728/
 ---

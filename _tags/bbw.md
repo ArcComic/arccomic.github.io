@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bbw"
-work_count: 80
+work_count: 81
 works:
   - title: My Care Lady Ch. 1
     author: sugi-g
@@ -589,4 +589,11 @@ works:
     date: '2026-11-14'
     code: 696617
     url: /works/696617/
+  - title: Muteikou Niku Onaho Doukyuusei | My Unresisting Meat Onahole Classmate
+    author: fujoujoshi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/697728.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 697728
+    url: /works/697728/
 ---
