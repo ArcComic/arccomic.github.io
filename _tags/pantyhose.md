@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "pantyhose"
-work_count: 104
+work_count: 105
 works:
   - title: MAGIC SEVEN
     author: asuhiro
@@ -194,6 +194,13 @@ works:
     date: '2026-10-28'
     code: 459087
     url: /works/459087/
+  - title: Itsutsugo-chan wa Ecchi ga Shitai | The Quintuplets Wanna Have Sex
+    author: alp
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/465718.jpg
+    rating: 4.8
+    date: '2026-11-20'
+    code: 465718
+    url: /works/465718/
   - title: Onnajoushi wa Ikiwakareta Haha | My Female Boss is My Estranged Mother
     author: kumo-no-ito
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/480098.jpg

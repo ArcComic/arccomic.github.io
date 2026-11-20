@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "dark skin"
-work_count: 212
+work_count: 213
 works:
   - title: Birthday
     author: hashiba-yachi
@@ -267,6 +267,13 @@ works:
     date: '2026-09-17'
     code: 470682
     url: /works/470682/
+  - title: Sweet Smell
+    author: gyouza-teishoku
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/481827.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 481827
+    url: /works/481827/
   - title: Anoko wa Boku ga Suki ja Nai Boku dake ga Kizuiteta Hazu no Loli Kyonyuu
       Jimikei Bungaku Shoujo | She Doesn't Like Me ~ I thought I was the only one~ Plain
       Busty Bookworm Girl

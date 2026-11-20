@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "mosaic censorship"
-work_count: 408
+work_count: 409
 works:
   - title: Okki na Kanojo ni Amaetai | I want to be pampered by a girl of generous girth
     author: higashino-mikan
@@ -521,6 +521,13 @@ works:
     date: '2026-09-29'
     code: 480745
     url: /works/480745/
+  - title: Sweet Smell
+    author: gyouza-teishoku
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/481827.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 481827
+    url: /works/481827/
   - title: Ijime no Daishou wa Hahaoya no Karada de.
     author: daidai-shikibu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/482859.jpg

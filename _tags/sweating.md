@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sweating"
-work_count: 228
+work_count: 229
 works:
   - title: Kaisha de Iroiro | Gettin' Busy at the Office
     author: hara-shigeyuki
@@ -373,6 +373,13 @@ works:
     date: '2026-08-18'
     code: 479447
     url: /works/479447/
+  - title: Sweet Smell
+    author: gyouza-teishoku
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/481827.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 481827
+    url: /works/481827/
   - title: Ame no Hi wa, Honnori Chikubi
     author: hoshi-to-lucky
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/484860.jpg

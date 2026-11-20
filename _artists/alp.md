@@ -1,7 +1,7 @@
 ---
 layout: artist
 artist_name: "alp"
-work_count: 5
+work_count: 6
 works:
   - title: Otaku Tomodachi to no Sex wa Saikou ni Kimochi Ii | Sex with Your Otaku Friend
       is Mindblowing
@@ -10,6 +10,12 @@ works:
     date: '2026-11-12'
     code: 435899
     url: /works/435899/
+  - title: Itsutsugo-chan wa Ecchi ga Shitai | The Quintuplets Wanna Have Sex
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/465718.jpg
+    rating: 4.8
+    date: '2026-11-20'
+    code: 465718
+    url: /works/465718/
   - title: Konoe no Kyuujitsu | Konoe's Day Off
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/479447.jpg
     rating: 4.1

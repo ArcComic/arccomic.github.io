@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "masturbation"
-work_count: 212
+work_count: 213
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -206,6 +206,13 @@ works:
     date: '2026-11-10'
     code: 467602
     url: /works/467602/
+  - title: Sweet Smell
+    author: gyouza-teishoku
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/481827.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 481827
+    url: /works/481827/
   - title: Boku no Chuugoku Bijin Slender Kyonyuu Tsuma ga Camera Model de Nugasarete
       Yarichin Tomo ni Netorareta Ken
     author: mitoreiyu

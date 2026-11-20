@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "ponytail"
-work_count: 249
+work_count: 251
 works:
   - title: Ami Mami Mind 5
     author: tsurui
@@ -144,6 +144,13 @@ works:
     date: '2026-09-26'
     code: 396702
     url: /works/396702/
+  - title: Miboujin to musume to Joukyuu Kokumin
+    author: kusayarou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/398240.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 398240
+    url: /works/398240/
   - title: 'Misunderstanding Love Hotel Netorare [Arakure] & Kimi no na wa: After Story
       - Mitsuha ~Netorare~'
     author: arakure
@@ -225,6 +232,13 @@ works:
     date: '2026-09-19'
     code: 477646
     url: /works/477646/
+  - title: Sweet Smell
+    author: gyouza-teishoku
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/481827.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 481827
+    url: /works/481827/
   - title: Tanesaki Kaori (39), Musume no Kawari ni Doujin AV Debut  | Tanesaki Kaori
       (39) Makes Her Doujin AV Debut in Place of Her Daughter
     author: shinjiro

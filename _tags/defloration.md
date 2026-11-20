@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "defloration"
-work_count: 304
+work_count: 305
 works:
   - title: Imitation Family + Bigibo Hen
     author: tohzai
@@ -436,6 +436,13 @@ works:
     date: '2026-04-27'
     code: 452482
     url: /works/452482/
+  - title: Itsutsugo-chan wa Ecchi ga Shitai | The Quintuplets Wanna Have Sex
+    author: alp
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/465718.jpg
+    rating: 4.8
+    date: '2026-11-20'
+    code: 465718
+    url: /works/465718/
   - title: Shojo Gal, Futanari Ojou-sama no Onaho ni Naru | Virgin Gal who Becomes a
       Pocket Pussy for a Futanari Young Lady
     author: ginger-lily

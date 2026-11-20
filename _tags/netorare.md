@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "netorare"
-work_count: 554
+work_count: 556
 works:
   - title: Kousa suru Osu to Mesu | Male and Female Crossing
     author: ootsuka-kotora
@@ -287,6 +287,13 @@ works:
     date: '2026-09-11'
     code: 397251
     url: /works/397251/
+  - title: Miboujin to musume to Joukyuu Kokumin
+    author: kusayarou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/398240.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 398240
+    url: /works/398240/
   - title: Yurikago
     author: neko-samurai
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/398305.jpg
@@ -524,6 +531,13 @@ works:
     date: '2026-04-19'
     code: 465602
     url: /works/465602/
+  - title: Itsutsugo-chan wa Ecchi ga Shitai | The Quintuplets Wanna Have Sex
+    author: alp
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/465718.jpg
+    rating: 4.8
+    date: '2026-11-20'
+    code: 465718
+    url: /works/465718/
   - title: Kinou Kantoku to Sex Shita | Yesterday, I Had Sex with the Supervisor
     author: hatch
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/466685.jpg

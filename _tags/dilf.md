@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "dilf"
-work_count: 242
+work_count: 243
 works:
   - title: Adoration
     author: kishizuka-kenji
@@ -237,6 +237,13 @@ works:
     date: '2026-04-25'
     code: 388099
     url: /works/388099/
+  - title: Miboujin to musume to Joukyuu Kokumin
+    author: kusayarou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/398240.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 398240
+    url: /works/398240/
   - title: Enkou Kanojo to Kengakukai | Paid dates with my girlfriend prostitute side-by-side
       experience
     author: hitoi

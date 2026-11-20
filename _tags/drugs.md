@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "drugs"
-work_count: 57
+work_count: 58
 works:
   - title: A-part | Apartment
     author: zero-no-mono
@@ -31,6 +31,13 @@ works:
     date: '2026-09-22'
     code: 381875
     url: /works/381875/
+  - title: Miboujin to musume to Joukyuu Kokumin
+    author: kusayarou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/398240.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 398240
+    url: /works/398240/
   - title: 'Knocked Up Samurai 02: The Post Town and the Ronin, Tied and Teased'
     author: kakutou-oukoku
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/412135.jpg
