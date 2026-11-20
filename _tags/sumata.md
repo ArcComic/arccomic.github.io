@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sumata"
-work_count: 37
+work_count: 38
 works:
   - title: Ami Mami Mind 5
     author: tsurui
@@ -96,6 +96,14 @@ works:
     date: '2026-04-23'
     code: 610041
     url: /works/610041/
+  - title: I tried to blackmail a girl with her secret account, and she smothered me
+      to death with her tits!
+    author: zikataro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/630733.jpg
+    rating: 4.8
+    date: '2026-11-20'
+    code: 630733
+    url: /works/630733/
   - title: Siblings Shouldn't Do It! | Kyoudai de Shitara Ikemasen
     author: fence-14
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/635266.jpg

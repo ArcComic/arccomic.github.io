@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "widow"
-work_count: 30
+work_count: 31
 works:
   - title: Birthday
     author: hashiba-yachi
@@ -162,6 +162,13 @@ works:
     date: '2026-09-22'
     code: 666748
     url: /works/666748/
+  - title: Couldn't Mother in law be "USED" 3? Ogibo-san Ja Dame Kashira 3?
+    author: cammy
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/671609.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 671609
+    url: /works/671609/
   - title: Boku to Mama wa Love Love nanoni, Sensei to Mechakucha Sex shiteru Hanashi
       | A story about how, despite being all lovey-dovey with my mom, she's having wild
       sex with my teacher.

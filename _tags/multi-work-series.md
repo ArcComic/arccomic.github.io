@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "multi-work series"
-work_count: 508
+work_count: 509
 works:
   - title: Konna ni mo Itooshii Zero
     author: nohito
@@ -2624,6 +2624,13 @@ works:
     date: '2026-10-13'
     code: 671549
     url: /works/671549/
+  - title: Couldn't Mother in law be "USED" 3? Ogibo-san Ja Dame Kashira 3?
+    author: cammy
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/671609.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 671609
+    url: /works/671609/
   - title: Unsweet Kazumi Wakui + (Plus) SIDE Kazumi
     author: tanaka-aji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/671907.jpg

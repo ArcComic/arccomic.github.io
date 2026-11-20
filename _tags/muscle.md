@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "muscle"
-work_count: 169
+work_count: 170
 works:
   - title: Kousa suru Osu to Mesu | Male and Female Crossing
     author: ootsuka-kotora
@@ -457,6 +457,14 @@ works:
     date: '2026-10-11'
     code: 630105
     url: /works/630105/
+  - title: I tried to blackmail a girl with her secret account, and she smothered me
+      to death with her tits!
+    author: zikataro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/630733.jpg
+    rating: 4.8
+    date: '2026-11-20'
+    code: 630733
+    url: /works/630733/
   - title: Gusai, Saikyouiku. | Dumb wife, re-education.
     author: ushio-kiyoshi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/631677.jpg

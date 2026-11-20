@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole female"
-work_count: 1313
+work_count: 1314
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -4171,6 +4171,14 @@ works:
     date: '2026-11-08'
     code: 630135
     url: /works/630135/
+  - title: I tried to blackmail a girl with her secret account, and she smothered me
+      to death with her tits!
+    author: zikataro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/630733.jpg
+    rating: 4.8
+    date: '2026-11-20'
+    code: 630733
+    url: /works/630733/
   - title: Dansei Idol ni Okasareru Hanashi
     author: ema
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/630903.jpg

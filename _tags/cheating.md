@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "cheating"
-work_count: 490
+work_count: 491
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -2631,6 +2631,13 @@ works:
     date: '2026-10-13'
     code: 671549
     url: /works/671549/
+  - title: Couldn't Mother in law be "USED" 3? Ogibo-san Ja Dame Kashira 3?
+    author: cammy
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/671609.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 671609
+    url: /works/671609/
   - title: Friend With Benefit With My Friends Mom
     author: cammy
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/671657.jpg

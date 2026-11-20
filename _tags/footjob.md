@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "footjob"
-work_count: 54
+work_count: 55
 works:
   - title: Sei no Kenryoku | The Power of Sex
     author: tomohiro-kai
@@ -104,6 +104,14 @@ works:
     date: '2026-11-08'
     code: 630135
     url: /works/630135/
+  - title: I tried to blackmail a girl with her secret account, and she smothered me
+      to death with her tits!
+    author: zikataro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/630733.jpg
+    rating: 4.8
+    date: '2026-11-20'
+    code: 630733
+    url: /works/630733/
   - title: Sewayaki na Kyonyuu Gakkyuu Iinchou Sono 1-20 | The Kind and Caring Busty
       Class Rep Ch.1-20
     author: makosho

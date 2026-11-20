@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "blackmail"
-work_count: 189
+work_count: 190
 works:
   - title: Birthday
     author: hashiba-yachi
@@ -629,6 +629,14 @@ works:
     date: '2026-09-30'
     code: 624848
     url: /works/624848/
+  - title: I tried to blackmail a girl with her secret account, and she smothered me
+      to death with her tits!
+    author: zikataro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/630733.jpg
+    rating: 4.8
+    date: '2026-11-20'
+    code: 630733
+    url: /works/630733/
   - title: Daddy's Forgotten Life Purpose
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/631630.jpg

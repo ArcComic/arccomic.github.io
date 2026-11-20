@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "makeup"
-work_count: 18
+work_count: 19
 works:
   - title: My Sugar Mama! 1-3
     author: azukiko
@@ -97,6 +97,13 @@ works:
     date: '2026-07-08'
     code: 656419
     url: /works/656419/
+  - title: Couldn't Mother in law be "USED" 3? Ogibo-san Ja Dame Kashira 3?
+    author: cammy
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/671609.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 671609
+    url: /works/671609/
   - title: Niihama Yui Husband Exclusive Re-debut
     author: buta
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/674199.jpg
