@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "multi-work series"
-work_count: 515
+work_count: 516
 works:
   - title: Konna ni mo Itooshii Zero
     author: nohito
@@ -1016,6 +1016,13 @@ works:
     date: '2026-04-30'
     code: 566052
     url: /works/566052/
+  - title: Atashi wo…. | Use me...
+    author: orita
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/567893.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 567893
+    url: /works/567893/
   - title: Kyonyuu Kaa-san ga Boku no Me mo Mae de Oji-san no Namachin de Ikimakutta
       Hanashi
     author: hoshiduki-melon

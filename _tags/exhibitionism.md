@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "exhibitionism"
-work_count: 116
+work_count: 117
 works:
   - title: Watashi-tachi no Seikoui Tokubetsu Jisshuu -Zengi Hen-
     author: guglielmo
@@ -290,6 +290,13 @@ works:
     date: '2026-10-02'
     code: 641858
     url: /works/641858/
+  - title: Yopparai Nee-chan no Jinsei o Irodoru Ketsui Hyoumei
+    author: gyouza-teishoku
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/644661.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 644661
+    url: /works/644661/
   - title: Oji Saimin Soushuuhen | Hypnotized Uncle Compilation Edition
     author: tokomaya-keita
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/645612.jpg

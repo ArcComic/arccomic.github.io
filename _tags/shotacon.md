@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "shotacon"
-work_count: 183
+work_count: 184
 works:
   - title: Okki na Kanojo ni Amaetai | I want to be pampered by a girl of generous girth
     author: higashino-mikan
@@ -685,6 +685,13 @@ works:
     date: '2026-04-17'
     code: 644309
     url: /works/644309/
+  - title: Yopparai Nee-chan no Jinsei o Irodoru Ketsui Hyoumei
+    author: gyouza-teishoku
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/644661.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 644661
+    url: /works/644661/
   - title: Commonplace Sex ~The Daily Life of an Older Sister and Younger Brother~
     author: mochichimaru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/644964.jpg

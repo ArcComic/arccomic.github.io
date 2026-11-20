@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole male"
-work_count: 1252
+work_count: 1254
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -2803,6 +2803,13 @@ works:
     date: '2026-04-17'
     code: 567843
     url: /works/567843/
+  - title: Atashi wo…. | Use me...
+    author: orita
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/567893.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 567893
+    url: /works/567893/
   - title: 1/5 no Renai Kanjou | A Fifth of Romance
     author: chicke-iii
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/568871.jpg
@@ -4752,6 +4759,13 @@ works:
     date: '2026-11-20'
     code: 644633
     url: /works/644633/
+  - title: Yopparai Nee-chan no Jinsei o Irodoru Ketsui Hyoumei
+    author: gyouza-teishoku
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/644661.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 644661
+    url: /works/644661/
   - title: Delusion story book
     author: madarame-rin
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/644810.jpg

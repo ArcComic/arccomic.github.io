@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "ahegao"
-work_count: 462
+work_count: 463
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -1280,6 +1280,13 @@ works:
     date: '2026-04-17'
     code: 644309
     url: /works/644309/
+  - title: Yopparai Nee-chan no Jinsei o Irodoru Ketsui Hyoumei
+    author: gyouza-teishoku
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/644661.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 644661
+    url: /works/644661/
   - title: Kasshoku Buaisou Yakyuu-bu Manager no Yowami Nigitta | I Found the Grumpy,
       Brown-Skinned Baseball Manager's Weakness
     author: kitano-onsen

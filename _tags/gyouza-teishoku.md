@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "gyouza teishoku"
-work_count: 3
+work_count: 4
 works:
   - title: Best friend
     author: gyouza-teishoku
@@ -24,4 +24,11 @@ works:
     date: '2026-11-20'
     code: 481827
     url: /works/481827/
+  - title: Yopparai Nee-chan no Jinsei o Irodoru Ketsui Hyoumei
+    author: gyouza-teishoku
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/644661.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 644661
+    url: /works/644661/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "paizuri"
-work_count: 327
+work_count: 328
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -545,6 +545,13 @@ works:
     date: '2026-10-11'
     code: 564656
     url: /works/564656/
+  - title: Atashi wo…. | Use me...
+    author: orita
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/567893.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 567893
+    url: /works/567893/
   - title: NIKKE Icha Love Ero Goudou "NIKKE☆Lover" | NIKKE Lovey-Dovey Ero Compendium
       "NIKKE☆Lover"
     author: kumakiti

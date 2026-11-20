@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "drunk"
-work_count: 65
+work_count: 66
 works:
   - title: Birthday
     author: hashiba-yachi
@@ -284,6 +284,13 @@ works:
     date: '2026-09-23'
     code: 641295
     url: /works/641295/
+  - title: Yopparai Nee-chan no Jinsei o Irodoru Ketsui Hyoumei
+    author: gyouza-teishoku
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/644661.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 644661
+    url: /works/644661/
   - title: Shuugaku Ryokou no Yoru Class no Idol Yowasete Oppai wo Nama Okazu ni Shiteyatta
       w | On the night of an excursion, we got the class idol drunk and jacked off to
       her nude titties lol
