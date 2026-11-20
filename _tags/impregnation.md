@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "impregnation"
-work_count: 203
+work_count: 204
 works:
   - title: Kousa suru Osu to Mesu | Male and Female Crossing
     author: ootsuka-kotora
@@ -87,6 +87,13 @@ works:
     date: '2026-10-15'
     code: 353048
     url: /works/353048/
+  - title: Nettori Netorare Ch. 1, 4-9
+    author: sena-youtarou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/353720.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 353720
+    url: /works/353720/
   - title: Osananajimi no Otou-san ni.
     author: uni18
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/381875.jpg

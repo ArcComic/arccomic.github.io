@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "milf"
-work_count: 592
+work_count: 593
 works:
   - title: Life with Married Women Just Like a Manga 2 - Ch. 1-5
     author: hidemaru
@@ -279,6 +279,13 @@ works:
     date: '2026-04-13'
     code: 351868
     url: /works/351868/
+  - title: Nettori Netorare Ch. 1, 4-9
+    author: sena-youtarou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/353720.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 353720
+    url: /works/353720/
   - title: Amako Ticket Extra ~Onikuya-san Hen~ | Amako Ticket Extra ~Butcher Edition~
     author: rokuichi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/355398.jpg

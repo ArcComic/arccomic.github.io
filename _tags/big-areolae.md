@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big areolae"
-work_count: 156
+work_count: 157
 works:
   - title: Toshoshitsu no Kanojo ~Seiso na Kimi ga Ochiru made~
     author: ame-arare
@@ -149,6 +149,13 @@ works:
     date: '2026-09-29'
     code: 539661
     url: /works/539661/
+  - title: Bantouno Sakura | A Cherry Blossom On A Winter Night
+    author: toba-yuga
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/542175.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 542175
+    url: /works/542175/
   - title: Okaa-san Itadakimasu. 3
     author: andoryu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/544477.jpg

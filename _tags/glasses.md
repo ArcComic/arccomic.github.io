@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "glasses"
-work_count: 348
+work_count: 349
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -208,6 +208,13 @@ works:
     date: '2026-10-10'
     code: 351810
     url: /works/351810/
+  - title: Nettori Netorare Ch. 1, 4-9
+    author: sena-youtarou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/353720.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 353720
+    url: /works/353720/
   - title: Daken no Tadashii Shitsuke Kata
     author: napo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/357477.jpg

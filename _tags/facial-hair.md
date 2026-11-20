@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "facial hair"
-work_count: 48
+work_count: 49
 works:
   - title: Asuna-san ga Agil ni Netorareru Ohanashi
     author: fujimiya-siryu
@@ -24,6 +24,13 @@ works:
     date: '2026-04-19'
     code: 342500
     url: /works/342500/
+  - title: Nettori Netorare Ch. 1, 4-9
+    author: sena-youtarou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/353720.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 353720
+    url: /works/353720/
   - title: Kanojo no SmaPho o Nozoita dake nano ni | I Just Snooped through Her Smartphone
     author: chocoro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/367709.jpg

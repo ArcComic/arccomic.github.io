@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "mmf threesome"
-work_count: 92
+work_count: 93
 works:
   - title: Hitozuma Hyakka
     author: hase-tsubura
@@ -38,6 +38,13 @@ works:
     date: '2026-10-18'
     code: 336370
     url: /works/336370/
+  - title: Nettori Netorare Ch. 1, 4-9
+    author: sena-youtarou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/353720.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 353720
+    url: /works/353720/
   - title: Giragira no Beach
     author: shimantogawa
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/397251.jpg

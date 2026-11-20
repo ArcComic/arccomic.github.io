@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "old man"
-work_count: 54
+work_count: 55
 works:
   - title: Adoration
     author: kishizuka-kenji
@@ -24,6 +24,13 @@ works:
     date: '2026-02-26'
     code: 179531
     url: /works/179531/
+  - title: Nettori Netorare Ch. 1, 4-9
+    author: sena-youtarou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/353720.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 353720
+    url: /works/353720/
   - title: Enkou Kanojo to Kengakukai | Paid dates with my girlfriend prostitute side-by-side
       experience
     author: hitoi

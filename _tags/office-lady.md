@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "office lady"
-work_count: 36
+work_count: 37
 works:
   - title: Adoration
     author: kishizuka-kenji
@@ -103,6 +103,13 @@ works:
     date: '2026-10-11'
     code: 517781
     url: /works/517781/
+  - title: Bantouno Sakura | A Cherry Blossom On A Winter Night
+    author: toba-yuga
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/542175.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 542175
+    url: /works/542175/
   - title: Office Affair - The Chemistry Between Subordinate And Boss
     author: abbb
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/546621.jpg

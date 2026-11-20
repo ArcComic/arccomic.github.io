@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "pantyhose"
-work_count: 103
+work_count: 104
 works:
   - title: MAGIC SEVEN
     author: asuhiro
@@ -272,6 +272,13 @@ works:
     date: '2026-05-10'
     code: 540125
     url: /works/540125/
+  - title: Bantouno Sakura | A Cherry Blossom On A Winter Night
+    author: toba-yuga
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/542175.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 542175
+    url: /works/542175/
   - title: Soshite Kyou mo Moteasobareru
     author: erun
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/545896.jpg

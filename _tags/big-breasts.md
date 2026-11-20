@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big breasts"
-work_count: 1505
+work_count: 1507
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -549,6 +549,13 @@ works:
     date: '2026-11-14'
     code: 353192
     url: /works/353192/
+  - title: Nettori Netorare Ch. 1, 4-9
+    author: sena-youtarou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/353720.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 353720
+    url: /works/353720/
   - title: Shiro ga Afurete... | White Overflow...
     author: tsurui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/355274.jpg
@@ -2333,6 +2340,13 @@ works:
     date: '2026-11-13'
     code: 541673
     url: /works/541673/
+  - title: Bantouno Sakura | A Cherry Blossom On A Winter Night
+    author: toba-yuga
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/542175.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 542175
+    url: /works/542175/
   - title: Ally-san wa doko demo ikitai!! 2
     author: inukami-inoji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/542190.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "blackmail"
-work_count: 188
+work_count: 189
 works:
   - title: Birthday
     author: hashiba-yachi
@@ -101,6 +101,13 @@ works:
     date: '2026-09-06'
     code: 349379
     url: /works/349379/
+  - title: Nettori Netorare Ch. 1, 4-9
+    author: sena-youtarou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/353720.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 353720
+    url: /works/353720/
   - title: Daken no Tadashii Shitsuke Kata
     author: napo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/357477.jpg
