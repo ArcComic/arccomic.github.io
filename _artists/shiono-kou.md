@@ -1,8 +1,14 @@
 ---
 layout: artist
 artist_name: "shiono-kou"
-work_count: 7
+work_count: 8
 works:
+  - title: Micchaku Kojin Shidou | Intimate Personal Guidance
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/403460.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 403460
+    url: /works/403460/
   - title: Yokujou Shugakuryokou | Horny School Trip
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/545885.jpg
     rating: 4.4

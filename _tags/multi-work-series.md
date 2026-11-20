@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "multi-work series"
-work_count: 511
+work_count: 512
 works:
   - title: Konna ni mo Itooshii Zero
     author: nohito
@@ -1024,6 +1024,14 @@ works:
     date: '2026-04-23'
     code: 569731
     url: /works/569731/
+  - title: Guard no Katai Ore no Kanojo ga Kyuu ni Shirigaru Onna ni Naru!? |  My Normally
+      Uptight Girlfriend Suddenly Becomes a Slut!!
+    author: gomu-gomu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/570322.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 570322
+    url: /works/570322/
   - title: Hitozuma Volley-bu no Asedaku SEX ~Shower Abinagara Mitchaku Shichau? 5-6
       | Married Women's Volleyball Club Sweaty Sex - We're Being Glued Together While
       Taking A Shower? 5-6

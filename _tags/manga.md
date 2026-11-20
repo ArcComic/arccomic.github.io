@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "manga"
-work_count: 465
+work_count: 466
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -605,6 +605,13 @@ works:
     date: '2026-11-11'
     code: 399771
     url: /works/399771/
+  - title: Micchaku Kojin Shidou | Intimate Personal Guidance
+    author: shiono-kou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/403460.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 403460
+    url: /works/403460/
   - title: Rakki Taishyaku
     author: fushoku
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/407561.jpg

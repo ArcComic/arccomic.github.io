@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "cheerleader"
-work_count: 11
+work_count: 12
 works:
   - title: CHOCO x LOVE
     author: highlow
@@ -18,6 +18,14 @@ works:
     date: '2026-11-11'
     code: 399771
     url: /works/399771/
+  - title: Guard no Katai Ore no Kanojo ga Kyuu ni Shirigaru Onna ni Naru!? |  My Normally
+      Uptight Girlfriend Suddenly Becomes a Slut!!
+    author: gomu-gomu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/570322.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 570322
+    url: /works/570322/
   - title: Aitsu, Kotowarenai kara.. Remake-ban no Tsuzuki dewa Arimasu ga, Konsaku
       wa Yakinaoshi ja Nai yo. Settei Igai wa Sinsaku da yo. Sonna Kanji no Vol. 2 desu
     author: haruharudo

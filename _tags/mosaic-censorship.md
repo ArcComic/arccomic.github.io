@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "mosaic censorship"
-work_count: 409
+work_count: 410
 works:
   - title: Okki na Kanojo ni Amaetai | I want to be pampered by a girl of generous girth
     author: higashino-mikan
@@ -970,6 +970,14 @@ works:
     date: '2026-04-13'
     code: 570215
     url: /works/570215/
+  - title: Guard no Katai Ore no Kanojo ga Kyuu ni Shirigaru Onna ni Naru!? |  My Normally
+      Uptight Girlfriend Suddenly Becomes a Slut!!
+    author: gomu-gomu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/570322.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 570322
+    url: /works/570322/
   - title: Shasei Gamanshinai to Derarenai Burakku Kigyou | A Black Company Where You
       Have To Hold Your Ejaculation To Get Out
     author: keikouon

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "teacher"
-work_count: 114
+work_count: 115
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -75,6 +75,13 @@ works:
     date: '2026-07-13'
     code: 358168
     url: /works/358168/
+  - title: Micchaku Kojin Shidou | Intimate Personal Guidance
+    author: shiono-kou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/403460.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 403460
+    url: /works/403460/
   - title: Toshoshitsu no Kanojo 5 ~Onna Kyoushi ga Ochiru made (Zenpen)~
     author: ame-arare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/410909.jpg

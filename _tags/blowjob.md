@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "blowjob"
-work_count: 909
+work_count: 911
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -566,6 +566,13 @@ works:
     date: '2026-10-09'
     code: 399776
     url: /works/399776/
+  - title: Micchaku Kojin Shidou | Intimate Personal Guidance
+    author: shiono-kou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/403460.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 403460
+    url: /works/403460/
   - title: Namaiki na Imouto ga Ore no SeFri ni Natta Keii | How My Cheeky Little Sister
       and I Became Sex Friends With Benefits
     author: iron-sugar
@@ -1798,6 +1805,14 @@ works:
     date: '2026-04-13'
     code: 570215
     url: /works/570215/
+  - title: Guard no Katai Ore no Kanojo ga Kyuu ni Shirigaru Onna ni Naru!? |  My Normally
+      Uptight Girlfriend Suddenly Becomes a Slut!!
+    author: gomu-gomu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/570322.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 570322
+    url: /works/570322/
   - title: Tomo-ochi Boshisoukan | Co-Depraved Mother-Son Incest
     author: ozy
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/571271.jpg

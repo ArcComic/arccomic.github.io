@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "full censorship"
-work_count: 162
+work_count: 163
 works:
   - title: Kaisha de Iroiro | Gettin' Busy at the Office
     author: hara-shigeyuki
@@ -145,6 +145,13 @@ works:
     date: '2026-09-20'
     code: 388896
     url: /works/388896/
+  - title: Micchaku Kojin Shidou | Intimate Personal Guidance
+    author: shiono-kou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/403460.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 403460
+    url: /works/403460/
   - title: Goldirocks a Killer Honey
     author: tsukumo-nikyu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/416542.jpg

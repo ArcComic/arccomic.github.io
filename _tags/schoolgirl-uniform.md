@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "schoolgirl uniform"
-work_count: 464
+work_count: 465
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -902,6 +902,14 @@ works:
     date: '2026-09-23'
     code: 568114
     url: /works/568114/
+  - title: Guard no Katai Ore no Kanojo ga Kyuu ni Shirigaru Onna ni Naru!? |  My Normally
+      Uptight Girlfriend Suddenly Becomes a Slut!!
+    author: gomu-gomu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/570322.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 570322
+    url: /works/570322/
   - title: Namaiki JK ga Wakaraserareru Hon | Putting a Cheeky Gyaru in Her Place
     author: onkyu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/574409.jpg

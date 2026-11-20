@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big breasts"
-work_count: 1522
+work_count: 1524
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -864,6 +864,13 @@ works:
     date: '2026-09-23'
     code: 402019
     url: /works/402019/
+  - title: Micchaku Kojin Shidou | Intimate Personal Guidance
+    author: shiono-kou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/403460.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 403460
+    url: /works/403460/
   - title: Dirty Deeds Done Dirt Cheap
     author: mr-kurz
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/408819.jpg
@@ -2852,6 +2859,14 @@ works:
     date: '2026-04-23'
     code: 569731
     url: /works/569731/
+  - title: Guard no Katai Ore no Kanojo ga Kyuu ni Shirigaru Onna ni Naru!? |  My Normally
+      Uptight Girlfriend Suddenly Becomes a Slut!!
+    author: gomu-gomu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/570322.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 570322
+    url: /works/570322/
   - title: Dekai Osananajimi-tachi ni Hasamarete Ase Daku Harem Ecchi | Harem Sex Sandwiched
       Between My Huge Childhood Friends
     author: group
