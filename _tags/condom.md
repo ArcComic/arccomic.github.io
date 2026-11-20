@@ -55,7 +55,7 @@ works:
   - title: Virgin Chauwa! | I'm No Virgin!
     author: herio
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/267270.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-11-20'
     code: 267270
     url: /works/267270/
@@ -1520,7 +1520,7 @@ works:
   - title: Turns out my match on the dating app was my own mom.
     author: circle-spice
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/660008.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-11-20'
     code: 660008
     url: /works/660008/

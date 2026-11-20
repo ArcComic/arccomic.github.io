@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "footjob"
-work_count: 55
+work_count: 56
 works:
   - title: Sei no Kenryoku | The Power of Sex
     author: tomohiro-kai
@@ -80,6 +80,13 @@ works:
     date: '2026-05-26'
     code: 532417
     url: /works/532417/
+  - title: Naisho no Shokuba Taiken | Secret Work Experience
+    author: shiono-kou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/554162.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 554162
+    url: /works/554162/
   - title: Ally-san wa Doko Demo Ikitai!! Bangai-hen - Ally's Super Trip!! Extra Black
       or White
     author: inukami-inoji

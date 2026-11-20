@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "doujinshi"
-work_count: 1816
+work_count: 1817
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -2962,7 +2962,7 @@ works:
   - title: Bantouno Sakura | A Cherry Blossom On A Winter Night
     author: toba-yuga
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/542175.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-11-20'
     code: 542175
     url: /works/542175/
@@ -4578,7 +4578,7 @@ works:
       AFFAIR | A Mother's Love ~Tonight I Become One With The Mom I Love~
     author: shiono-kou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/613265.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-11-20'
     code: 613265
     url: /works/613265/
@@ -6057,7 +6057,7 @@ works:
   - title: Atashi to.... | Stay with me...
     author: orita
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/643263.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-20'
     code: 643263
     url: /works/643263/
@@ -6302,7 +6302,7 @@ works:
       | It's a Mother's duty to take care of her son's Sexual Needs!
     author: spices
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/645120.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-11-20'
     code: 645120
     url: /works/645120/
@@ -7881,7 +7881,7 @@ works:
   - title: Turns out my match on the dating app was my own mom.
     author: circle-spice
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/660008.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-11-20'
     code: 660008
     url: /works/660008/
@@ -7918,7 +7918,7 @@ works:
   - title: Ippai Waketene | Share a Whole Lot With Me.
     author: kuroshiro-neko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/660522.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-11-20'
     code: 660522
     url: /works/660522/
@@ -8927,7 +8927,7 @@ works:
   - title: Couldn't Mother in law be "USED"? Oba-san ja Dame Kashira?
     author: cammy
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/670567.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-11-20'
     code: 670567
     url: /works/670567/
@@ -8956,7 +8956,7 @@ works:
   - title: Couldn't Mother in law be "USED" 3? Ogibo-san Ja Dame Kashira 3?
     author: cammy
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/671609.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-11-20'
     code: 671609
     url: /works/671609/
@@ -12870,6 +12870,14 @@ works:
     date: '2026-10-28'
     code: 691662
     url: /works/691662/
+  - title: Itteki demo Osake o Nomu to H ni Nacchau Otonari no Minami-san | Even One
+      Drop of Alcohol Makes My Neighbor Minami-san Get Lewd
+    author: tkspower
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/692247.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 692247
+    url: /works/692247/
   - title: Oshiego no Downer Gal ni Shitsudo Takame ni Semeotosarechau Hanashi
     author: ayujiro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/693054.jpg
@@ -13294,7 +13302,7 @@ works:
   - title: Shibarareta no wa Kokoro 3 ~Chijoku no Doutei~
     author: orita
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696513.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-11-20'
     code: 696513
     url: /works/696513/
@@ -13390,7 +13398,7 @@ works:
   - title: Muteikou Niku Onaho Doukyuusei | My Unresisting Meat Onahole Classmate
     author: fujoujoshi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/697728.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-11-20'
     code: 697728
     url: /works/697728/

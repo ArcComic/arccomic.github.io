@@ -7,14 +7,14 @@ works:
       | It's a Mother's duty to take care of her son's Sexual Needs!
     author: spices
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/645120.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-11-20'
     code: 645120
     url: /works/645120/
   - title: Turns out my match on the dating app was my own mom.
     author: circle-spice
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/660008.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-11-20'
     code: 660008
     url: /works/660008/

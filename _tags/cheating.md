@@ -347,7 +347,7 @@ works:
   - title: Best friend
     author: gyouza-teishoku
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/379870.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-11-20'
     code: 379870
     url: /works/379870/
@@ -1360,7 +1360,7 @@ works:
   - title: Eigyou-saki no Yuuko-san - Part 1 -
     author: shiono-kou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/586852.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-11-20'
     code: 586852
     url: /works/586852/
@@ -1959,7 +1959,7 @@ works:
       | It's a Mother's duty to take care of her son's Sexual Needs!
     author: spices
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/645120.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-11-20'
     code: 645120
     url: /works/645120/
@@ -2370,7 +2370,7 @@ works:
   - title: Turns out my match on the dating app was my own mom.
     author: circle-spice
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/660008.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-11-20'
     code: 660008
     url: /works/660008/
@@ -2391,7 +2391,7 @@ works:
   - title: Ippai Waketene | Share a Whole Lot With Me.
     author: kuroshiro-neko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/660522.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-11-20'
     code: 660522
     url: /works/660522/
@@ -2612,7 +2612,7 @@ works:
   - title: Couldn't Mother in law be "USED"? Oba-san ja Dame Kashira?
     author: cammy
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/670567.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-11-20'
     code: 670567
     url: /works/670567/
@@ -2641,7 +2641,7 @@ works:
   - title: Couldn't Mother in law be "USED" 3? Ogibo-san Ja Dame Kashira 3?
     author: cammy
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/671609.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-11-20'
     code: 671609
     url: /works/671609/

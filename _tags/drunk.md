@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "drunk"
-work_count: 63
+work_count: 64
 works:
   - title: Birthday
     author: hashiba-yachi
@@ -446,6 +446,14 @@ works:
     date: '2026-10-28'
     code: 691635
     url: /works/691635/
+  - title: Itteki demo Osake o Nomu to H ni Nacchau Otonari no Minami-san | Even One
+      Drop of Alcohol Makes My Neighbor Minami-san Get Lewd
+    author: tkspower
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/692247.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 692247
+    url: /works/692247/
   - title: Itsumo Miken ni Shiwa o Yosete Iru Seikaku no Kitsui Babaa Senpai (29) wa
       You to Dosukebe Chijo ni Naru | My 29-year-old senpai at work is a sharp-tongued
       hag who’s always scowling but she turns into a super perverted nmypho when she

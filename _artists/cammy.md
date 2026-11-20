@@ -17,13 +17,13 @@ works:
     url: /works/579339/
   - title: Couldn't Mother in law be "USED"? Oba-san ja Dame Kashira?
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/670567.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-11-20'
     code: 670567
     url: /works/670567/
   - title: Couldn't Mother in law be "USED" 3? Ogibo-san Ja Dame Kashira 3?
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/671609.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-11-20'
     code: 671609
     url: /works/671609/

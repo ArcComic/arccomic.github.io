@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "schoolboy uniform"
-work_count: 143
+work_count: 144
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -292,6 +292,13 @@ works:
     date: '2026-02-26'
     code: 533325
     url: /works/533325/
+  - title: Naisho no Shokuba Taiken | Secret Work Experience
+    author: shiono-kou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/554162.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 554162
+    url: /works/554162/
   - title: Only Loves You ♡ Doll
     author: memeyu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/564656.jpg
@@ -1048,7 +1055,7 @@ works:
   - title: Muteikou Niku Onaho Doukyuusei | My Unresisting Meat Onahole Classmate
     author: fujoujoshi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/697728.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-11-20'
     code: 697728
     url: /works/697728/

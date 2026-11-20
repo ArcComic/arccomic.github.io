@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "shotacon"
-work_count: 182
+work_count: 183
 works:
   - title: Okki na Kanojo ni Amaetai | I want to be pampered by a girl of generous girth
     author: higashino-mikan
@@ -383,6 +383,13 @@ works:
     date: '2026-09-29'
     code: 551076
     url: /works/551076/
+  - title: Naisho no Shokuba Taiken | Secret Work Experience
+    author: shiono-kou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/554162.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 554162
+    url: /works/554162/
   - title: Musuko no Musei ga Egetsunai | His Wet Dream's Are Outrageous
     author: resoman-manga-koubou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/559194.jpg
@@ -865,7 +872,7 @@ works:
   - title: Ippai Waketene | Share a Whole Lot With Me.
     author: kuroshiro-neko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/660522.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-11-20'
     code: 660522
     url: /works/660522/

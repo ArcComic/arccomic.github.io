@@ -27,7 +27,7 @@ works:
   - title: Virgin Chauwa! | I'm No Virgin!
     author: herio
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/267270.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-11-20'
     code: 267270
     url: /works/267270/
@@ -1247,7 +1247,7 @@ works:
       AFFAIR | A Mother's Love ~Tonight I Become One With The Mom I Love~
     author: shiono-kou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/613265.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-11-20'
     code: 613265
     url: /works/613265/
@@ -1797,7 +1797,7 @@ works:
   - title: Atashi to.... | Stay with me...
     author: orita
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/643263.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-20'
     code: 643263
     url: /works/643263/
@@ -2649,7 +2649,7 @@ works:
   - title: Couldn't Mother in law be "USED"? Oba-san ja Dame Kashira?
     author: cammy
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/670567.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-11-20'
     code: 670567
     url: /works/670567/
@@ -2663,7 +2663,7 @@ works:
   - title: Couldn't Mother in law be "USED" 3? Ogibo-san Ja Dame Kashira 3?
     author: cammy
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/671609.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-11-20'
     code: 671609
     url: /works/671609/
@@ -4050,7 +4050,7 @@ works:
   - title: Muteikou Niku Onaho Doukyuusei | My Unresisting Meat Onahole Classmate
     author: fujoujoshi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/697728.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-11-20'
     code: 697728
     url: /works/697728/

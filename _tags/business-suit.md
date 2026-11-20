@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "business suit"
-work_count: 113
+work_count: 114
 works:
   - title: MAGIC SEVEN
     author: asuhiro
@@ -348,7 +348,7 @@ works:
   - title: Bantouno Sakura | A Cherry Blossom On A Winter Night
     author: toba-yuga
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/542175.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-11-20'
     code: 542175
     url: /works/542175/
@@ -359,6 +359,13 @@ works:
     date: '2026-10-12'
     code: 546621
     url: /works/546621/
+  - title: Naisho no Shokuba Taiken | Secret Work Experience
+    author: shiono-kou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/554162.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 554162
+    url: /works/554162/
   - title: Hatoba-san to Saruyama-kun | Hatoba and Saruyama
     author: gurida-soumu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/555984.jpg

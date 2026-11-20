@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "manga"
-work_count: 463
+work_count: 464
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -209,7 +209,7 @@ works:
   - title: Virgin Chauwa! | I'm No Virgin!
     author: herio
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/267270.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-11-20'
     code: 267270
     url: /works/267270/
@@ -406,7 +406,7 @@ works:
   - title: Nettori Netorare Ch. 1, 4-9
     author: sena-youtarou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/353720.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-11-20'
     code: 353720
     url: /works/353720/
@@ -506,7 +506,7 @@ works:
   - title: Best friend
     author: gyouza-teishoku
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/379870.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-11-20'
     code: 379870
     url: /works/379870/
@@ -1263,6 +1263,13 @@ works:
     date: '2026-09-25'
     code: 552335
     url: /works/552335/
+  - title: Naisho no Shokuba Taiken | Secret Work Experience
+    author: shiono-kou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/554162.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 554162
+    url: /works/554162/
   - title: Kaa-san no Umoretai Karada
     author: muronaga-chaashuu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/554739.jpg
@@ -1457,7 +1464,7 @@ works:
   - title: Eigyou-saki no Yuuko-san - Part 1 -
     author: shiono-kou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/586852.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-11-20'
     code: 586852
     url: /works/586852/
@@ -1874,7 +1881,7 @@ works:
   - title: Mantou Shinmi
     author: fushoku
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/644633.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-11-20'
     code: 644633
     url: /works/644633/

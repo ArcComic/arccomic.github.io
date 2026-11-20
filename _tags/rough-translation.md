@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "rough translation"
-work_count: 852
+work_count: 853
 works:
   - title: Boku no Shiranai Kimi no Kao
     author: utsutsu-minoru
@@ -5906,6 +5906,14 @@ works:
     date: '2026-10-28'
     code: 691636
     url: /works/691636/
+  - title: Itteki demo Osake o Nomu to H ni Nacchau Otonari no Minami-san | Even One
+      Drop of Alcohol Makes My Neighbor Minami-san Get Lewd
+    author: tkspower
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/692247.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 692247
+    url: /works/692247/
   - title: Oshiego no Downer Gal ni Shitsudo Takame ni Semeotosarechau Hanashi
     author: ayujiro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/693054.jpg
@@ -6146,7 +6154,7 @@ works:
   - title: Shibarareta no wa Kokoro 3 ~Chijoku no Doutei~
     author: orita
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696513.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-11-20'
     code: 696513
     url: /works/696513/

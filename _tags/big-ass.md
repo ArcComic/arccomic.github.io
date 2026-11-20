@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big ass"
-work_count: 373
+work_count: 374
 works:
   - title: My Care Lady Ch. 1
     author: sugi-g
@@ -440,6 +440,13 @@ works:
     date: '2026-05-05'
     code: 553426
     url: /works/553426/
+  - title: Naisho no Shokuba Taiken | Secret Work Experience
+    author: shiono-kou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/554162.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 554162
+    url: /works/554162/
   - title: Kaa-san no Umoretai Karada
     author: muronaga-chaashuu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/554739.jpg
@@ -531,7 +538,7 @@ works:
   - title: Eigyou-saki no Yuuko-san - Part 1 -
     author: shiono-kou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/586852.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-11-20'
     code: 586852
     url: /works/586852/
@@ -696,7 +703,7 @@ works:
       AFFAIR | A Mother's Love ~Tonight I Become One With The Mom I Love~
     author: shiono-kou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/613265.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-11-20'
     code: 613265
     url: /works/613265/
@@ -2763,7 +2770,7 @@ works:
   - title: Muteikou Niku Onaho Doukyuusei | My Unresisting Meat Onahole Classmate
     author: fujoujoshi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/697728.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-11-20'
     code: 697728
     url: /works/697728/

@@ -35,7 +35,7 @@ works:
   - title: Nettori Netorare Ch. 1, 4-9
     author: sena-youtarou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/353720.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-11-20'
     code: 353720
     url: /works/353720/
@@ -49,7 +49,7 @@ works:
   - title: Best friend
     author: gyouza-teishoku
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/379870.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-11-20'
     code: 379870
     url: /works/379870/
@@ -574,14 +574,14 @@ works:
   - title: Couldn't Mother in law be "USED"? Oba-san ja Dame Kashira?
     author: cammy
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/670567.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-11-20'
     code: 670567
     url: /works/670567/
   - title: Couldn't Mother in law be "USED" 3? Ogibo-san Ja Dame Kashira 3?
     author: cammy
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/671609.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-11-20'
     code: 671609
     url: /works/671609/

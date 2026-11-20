@@ -11,7 +11,7 @@ works:
     url: /works/119757/
   - title: Nettori Netorare Ch. 1, 4-9
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/353720.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-11-20'
     code: 353720
     url: /works/353720/

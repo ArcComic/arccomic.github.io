@@ -93,7 +93,7 @@ works:
   - title: Nettori Netorare Ch. 1, 4-9
     author: sena-youtarou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/353720.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-11-20'
     code: 353720
     url: /works/353720/
@@ -493,7 +493,7 @@ works:
       AFFAIR | A Mother's Love ~Tonight I Become One With The Mom I Love~
     author: shiono-kou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/613265.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-11-20'
     code: 613265
     url: /works/613265/

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "ponytail"
-work_count: 248
+work_count: 249
 works:
   - title: Ami Mami Mind 5
     author: tsurui
@@ -69,7 +69,7 @@ works:
   - title: Nettori Netorare Ch. 1, 4-9
     author: sena-youtarou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/353720.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-11-20'
     code: 353720
     url: /works/353720/
@@ -365,6 +365,13 @@ works:
     date: '2026-05-05'
     code: 553426
     url: /works/553426/
+  - title: Naisho no Shokuba Taiken | Secret Work Experience
+    author: shiono-kou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/554162.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 554162
+    url: /works/554162/
   - title: Nakayoku no Yu e Youkoso Ch. 2 & 3
     author: enomoto-heights
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/555849.jpg
@@ -722,7 +729,7 @@ works:
       | It's a Mother's duty to take care of her son's Sexual Needs!
     author: spices
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/645120.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-11-20'
     code: 645120
     url: /works/645120/
