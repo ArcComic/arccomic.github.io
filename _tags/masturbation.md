@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "masturbation"
-work_count: 211
+work_count: 212
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -707,6 +707,13 @@ works:
     date: '2026-09-23'
     code: 641295
     url: /works/641295/
+  - title: Atashi to.... | Stay with me...
+    author: orita
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/643263.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 643263
+    url: /works/643263/
   - title: Teikou Suru hodo Nurete Shimau | The more I resist, the wetter I get
     author: tianoblue
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/643633.jpg

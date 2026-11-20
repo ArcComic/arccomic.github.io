@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "blowjob"
-work_count: 907
+work_count: 909
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -461,6 +461,13 @@ works:
     date: '2026-11-11'
     code: 379168
     url: /works/379168/
+  - title: Best friend
+    author: gyouza-teishoku
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/379870.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 379870
+    url: /works/379870/
   - title: Doukyuusei no Wakai Haha | My Classmate's Young Mom
     author: aoki-kanji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/383623.jpg
@@ -3237,6 +3244,13 @@ works:
     date: '2026-07-06'
     code: 642748
     url: /works/642748/
+  - title: Atashi to.... | Stay with me...
+    author: orita
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/643263.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 643263
+    url: /works/643263/
   - title: Imouto Haramasenai to Derarenai Shima 2
     author: airandou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/643375.jpg

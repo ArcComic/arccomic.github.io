@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "incest"
-work_count: 402
+work_count: 403
 works:
   - title: Imitation Family + Bigibo Hen
     author: tohzai
@@ -154,6 +154,13 @@ works:
     date: '2026-10-01'
     code: 378626
     url: /works/378626/
+  - title: Best friend
+    author: gyouza-teishoku
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/379870.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 379870
+    url: /works/379870/
   - title: Sayonara Onee-chan | Goodbye Big Sis!
     author: kamitsuki-manmaru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/380273.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "cheating"
-work_count: 491
+work_count: 492
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -344,6 +344,13 @@ works:
     date: '2026-11-08'
     code: 377597
     url: /works/377597/
+  - title: Best friend
+    author: gyouza-teishoku
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/379870.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 379870
+    url: /works/379870/
   - title: Sayonara Onee-chan | Goodbye Big Sis!
     author: kamitsuki-manmaru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/380273.jpg

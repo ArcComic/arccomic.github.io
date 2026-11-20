@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole male"
-work_count: 1242
+work_count: 1244
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -826,6 +826,13 @@ works:
     date: '2026-11-11'
     code: 379168
     url: /works/379168/
+  - title: Best friend
+    author: gyouza-teishoku
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/379870.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 379870
+    url: /works/379870/
   - title: Sayonara Onee-chan | Goodbye Big Sis!
     author: kamitsuki-manmaru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/380273.jpg
@@ -4563,6 +4570,13 @@ works:
     date: '2026-04-14'
     code: 643235
     url: /works/643235/
+  - title: Atashi to.... | Stay with me...
+    author: orita
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/643263.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 643263
+    url: /works/643263/
   - title: Imouto Haramasenai to Derarenai Shima 2
     author: airandou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/643375.jpg

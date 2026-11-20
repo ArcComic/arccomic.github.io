@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "original"
-work_count: 1480
+work_count: 1481
 works:
   - title: Gokuusu Mizugi de Okasaretagari ga Kakusenai
     author: kekemotsu
@@ -4839,6 +4839,13 @@ works:
     date: '2026-04-11'
     code: 643193
     url: /works/643193/
+  - title: Atashi to.... | Stay with me...
+    author: orita
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/643263.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 643263
+    url: /works/643263/
   - title: Imouto Haramasenai to Derarenai Shima 2
     author: airandou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/643375.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big breasts"
-work_count: 1517
+work_count: 1519
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -698,6 +698,13 @@ works:
     date: '2026-11-11'
     code: 379168
     url: /works/379168/
+  - title: Best friend
+    author: gyouza-teishoku
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/379870.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 379870
+    url: /works/379870/
   - title: Sayonara Onee-chan | Goodbye Big Sis!
     author: kamitsuki-manmaru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/380273.jpg
@@ -4964,6 +4971,13 @@ works:
     date: '2026-04-11'
     code: 643193
     url: /works/643193/
+  - title: Atashi to.... | Stay with me...
+    author: orita
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/643263.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 643263
+    url: /works/643263/
   - title: Imouto Haramasenai to Derarenai Shima 2
     author: airandou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/643375.jpg

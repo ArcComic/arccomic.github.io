@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sister"
-work_count: 134
+work_count: 135
 works:
   - title: Imitation Family + Bigibo Hen
     author: tohzai
@@ -39,6 +39,13 @@ works:
     date: '2026-10-12'
     code: 374589
     url: /works/374589/
+  - title: Best friend
+    author: gyouza-teishoku
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/379870.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 379870
+    url: /works/379870/
   - title: Sayonara Onee-chan | Goodbye Big Sis!
     author: kamitsuki-manmaru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/380273.jpg

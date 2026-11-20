@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "gymshorts"
-work_count: 18
+work_count: 19
 works:
   - title: Ritsuko to Stretch!
     author: tsurui
@@ -17,6 +17,13 @@ works:
     date: '2026-05-03'
     code: 376189
     url: /works/376189/
+  - title: Best friend
+    author: gyouza-teishoku
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/379870.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 379870
+    url: /works/379870/
   - title: Natsu Asobi | Summer Play
     author: ame-arare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/416852.jpg

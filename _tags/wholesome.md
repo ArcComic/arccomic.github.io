@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "wholesome"
-work_count: 249
+work_count: 250
 works:
   - title: FLUFFY LAUGH GIRL
     author: shibasaki-syouzi
@@ -1037,6 +1037,13 @@ works:
     date: '2026-04-27'
     code: 642793
     url: /works/642793/
+  - title: Atashi to.... | Stay with me...
+    author: orita
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/643263.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 643263
+    url: /works/643263/
   - title: Mantou Shinmi
     author: fushoku
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/644633.jpg
