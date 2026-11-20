@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "milf"
-work_count: 597
+work_count: 599
 works:
   - title: Life with Married Women Just Like a Manga 2 - Ch. 1-5
     author: hidemaru
@@ -1630,6 +1630,13 @@ works:
     date: '2026-05-10'
     code: 586634
     url: /works/586634/
+  - title: Eigyou-saki no Yuuko-san - Part 1 -
+    author: shiono-kou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/586852.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 586852
+    url: /works/586852/
   - title: Eigyou-saki no Yuuko-san - Part 2 - Yuuko-San in The Sales Area 2
     author: shiono-kou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/587573.jpg
@@ -3190,6 +3197,13 @@ works:
     date: '2026-10-11'
     code: 669744
     url: /works/669744/
+  - title: Couldn't Mother in law be "USED"? Oba-san ja Dame Kashira?
+    author: cammy
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/670567.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 670567
+    url: /works/670567/
   - title: Koitsu Maji de Chorokatta | This Chick Was Totally Easy
     author: doron
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/671419.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "enema"
-work_count: 6
+work_count: 7
 works:
   - title: Kugisaki Anal Otoshi
     author: ishigaki-takashi
@@ -48,4 +48,11 @@ works:
     date: '2026-09-28'
     code: 684587
     url: /works/684587/
+  - title: Shibarareta no wa Kokoro 3 ~Chijoku no Doutei~
+    author: orita
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696513.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 696513
+    url: /works/696513/
 ---

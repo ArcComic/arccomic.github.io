@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "anal"
-work_count: 211
+work_count: 212
 works:
   - title: Ikanishite Haha wa Onna o Kaihou Shitaka Ch. 1-14
     author: mitarai-yuuki
@@ -1515,6 +1515,13 @@ works:
     date: '2026-11-11'
     code: 695890
     url: /works/695890/
+  - title: Shibarareta no wa Kokoro 3 ~Chijoku no Doutei~
+    author: orita
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696513.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 696513
+    url: /works/696513/
   - title: Aishita Haha o, Boku wa Dakenai - I can't have sex with my mother I love.
     author: toono-suika
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696581.jpg

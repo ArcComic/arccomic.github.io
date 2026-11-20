@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "humiliation"
-work_count: 65
+work_count: 66
 works:
   - title: Doushia (Terasu MC)] Dorei Gazoku
     author: terasu-mc
@@ -480,4 +480,11 @@ works:
     date: '2026-11-08'
     code: 694925
     url: /works/694925/
+  - title: Shibarareta no wa Kokoro 3 ~Chijoku no Doutei~
+    author: orita
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696513.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 696513
+    url: /works/696513/
 ---

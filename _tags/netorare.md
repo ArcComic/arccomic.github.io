@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "netorare"
-work_count: 552
+work_count: 553
 works:
   - title: Kousa suru Osu to Mesu | Male and Female Crossing
     author: ootsuka-kotora
@@ -2764,6 +2764,13 @@ works:
     date: '2026-10-29'
     code: 670494
     url: /works/670494/
+  - title: Couldn't Mother in law be "USED"? Oba-san ja Dame Kashira?
+    author: cammy
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/670567.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 670567
+    url: /works/670567/
   - title: Koitsu Maji de Chorokatta | This Chick Was Totally Easy
     author: doron
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/671419.jpg

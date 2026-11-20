@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "incest"
-work_count: 400
+work_count: 401
 works:
   - title: Imitation Family + Bigibo Hen
     author: tohzai
@@ -2088,6 +2088,13 @@ works:
     date: '2026-10-29'
     code: 670494
     url: /works/670494/
+  - title: Couldn't Mother in law be "USED"? Oba-san ja Dame Kashira?
+    author: cammy
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/670567.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 670567
+    url: /works/670567/
   - title: JK no Imouto no Furo Nozoki mashita - Hentai Aniki × Imouto
     author: iron-sugar
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/670708.jpg

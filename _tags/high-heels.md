@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "high heels"
-work_count: 28
+work_count: 29
 works:
   - title: Onna Keishi Iwagami Shima | Chief Inspector Shima Iwagami
     author: motchie
@@ -190,6 +190,13 @@ works:
     date: '2026-11-09'
     code: 695225
     url: /works/695225/
+  - title: Shibarareta no wa Kokoro 3 ~Chijoku no Doutei~
+    author: orita
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696513.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 696513
+    url: /works/696513/
   - title: 100-nichi-go ni Ninshin suru OL-san! 2 | Pregnant Office Lady in 100 Days!
       2
     author: velokisss

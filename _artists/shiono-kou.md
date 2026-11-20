@@ -1,7 +1,7 @@
 ---
 layout: artist
 artist_name: "shiono-kou"
-work_count: 5
+work_count: 6
 works:
   - title: Yokujou Shugakuryokou | Horny School Trip
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/545885.jpg
@@ -9,6 +9,12 @@ works:
     date: '2026-11-14'
     code: 545885
     url: /works/545885/
+  - title: Eigyou-saki no Yuuko-san - Part 1 -
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/586852.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 586852
+    url: /works/586852/
   - title: Eigyou-saki no Yuuko-san - Part 2 - Yuuko-San in The Sales Area 2
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/587573.jpg
     rating: 4.1

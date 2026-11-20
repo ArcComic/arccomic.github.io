@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "studio diamond"
-work_count: 1
+work_count: 2
 works:
   - title: Hajimete no DomiSub ~Match App de Mitsuketa Goshujin-sama ni Jinsei Bukkowashite
       Moraimasu~
@@ -11,4 +11,11 @@ works:
     date: '2026-02-25'
     code: 597754
     url: /works/597754/
+  - title: Shibarareta no wa Kokoro 3 ~Chijoku no Doutei~
+    author: orita
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696513.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 696513
+    url: /works/696513/
 ---

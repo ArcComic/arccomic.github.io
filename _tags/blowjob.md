@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "blowjob"
-work_count: 905
+work_count: 906
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -1965,6 +1965,13 @@ works:
     date: '2026-09-04'
     code: 586417
     url: /works/586417/
+  - title: Eigyou-saki no Yuuko-san - Part 1 -
+    author: shiono-kou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/586852.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 586852
+    url: /works/586852/
   - title: Miwaku-teki na Omae ga Warui
     author: yonayona
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/587417.jpg

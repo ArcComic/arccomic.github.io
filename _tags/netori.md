@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "netori"
-work_count: 42
+work_count: 43
 works:
   - title: Onee-chan ga Ecchi na Koto bakka Suru kara... | My older sister only does
       obscene things...
@@ -249,6 +249,13 @@ works:
     date: '2026-10-21'
     code: 669856
     url: /works/669856/
+  - title: Couldn't Mother in law be "USED"? Oba-san ja Dame Kashira?
+    author: cammy
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/670567.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 670567
+    url: /works/670567/
   - title: Kareshi Mochi Kyonyuu Beit Gal to Mechakucha Sex shita Hanashi | I Had Wild
       Sex with a Taken Busty Gyaru Part-Timer!
     author: bs3

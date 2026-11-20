@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "original"
-work_count: 1476
+work_count: 1478
 works:
   - title: Gokuusu Mizugi de Okasaretagari ga Kakusenai
     author: kekemotsu
@@ -7217,6 +7217,13 @@ works:
     date: '2026-10-29'
     code: 670494
     url: /works/670494/
+  - title: Couldn't Mother in law be "USED"? Oba-san ja Dame Kashira?
+    author: cammy
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/670567.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 670567
+    url: /works/670567/
   - title: JK no Imouto no Furo Nozoki mashita - Hentai Aniki × Imouto
     author: iron-sugar
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/670708.jpg
@@ -10893,6 +10900,13 @@ works:
     date: '2026-11-14'
     code: 696502
     url: /works/696502/
+  - title: Shibarareta no wa Kokoro 3 ~Chijoku no Doutei~
+    author: orita
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696513.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 696513
+    url: /works/696513/
   - title: I'm Dating My Older Brother's Former Tutor!
     author: chotto-b-sen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696617.jpg

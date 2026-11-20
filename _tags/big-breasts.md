@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big breasts"
-work_count: 1512
+work_count: 1515
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -3103,6 +3103,13 @@ works:
     date: '2026-04-27'
     code: 586028
     url: /works/586028/
+  - title: Eigyou-saki no Yuuko-san - Part 1 -
+    author: shiono-kou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/586852.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 586852
+    url: /works/586852/
   - title: Eigyou-saki no Yuuko-san - Part 2 - Yuuko-San in The Sales Area 2
     author: shiono-kou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/587573.jpg
@@ -7447,6 +7454,13 @@ works:
     date: '2026-10-29'
     code: 670494
     url: /works/670494/
+  - title: Couldn't Mother in law be "USED"? Oba-san ja Dame Kashira?
+    author: cammy
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/670567.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 670567
+    url: /works/670567/
   - title: Kareshi Mochi Kyonyuu Beit Gal to Mechakucha Sex shita Hanashi | I Had Wild
       Sex with a Taken Busty Gyaru Part-Timer!
     author: bs3
@@ -11042,6 +11056,13 @@ works:
     date: '2026-11-14'
     code: 696502
     url: /works/696502/
+  - title: Shibarareta no wa Kokoro 3 ~Chijoku no Doutei~
+    author: orita
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696513.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 696513
+    url: /works/696513/
   - title: Aishita Haha o, Boku wa Dakenai - I can't have sex with my mother I love.
     author: toono-suika
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696581.jpg

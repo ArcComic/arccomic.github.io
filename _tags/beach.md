@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "beach"
-work_count: 5
+work_count: 6
 works:
   - title: Mama to Musuko ga Mujintou de Love Love Sex suru Hanashi |  A Story of a
       Mom and Her Son's Lovemaking on a Uninhabited Island
@@ -41,4 +41,11 @@ works:
     date: '2026-11-13'
     code: 696362
     url: /works/696362/
+  - title: Shibarareta no wa Kokoro 3 ~Chijoku no Doutei~
+    author: orita
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696513.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 696513
+    url: /works/696513/
 ---

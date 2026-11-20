@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "manga"
-work_count: 461
+work_count: 462
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -1447,6 +1447,13 @@ works:
     date: '2026-09-04'
     code: 586417
     url: /works/586417/
+  - title: Eigyou-saki no Yuuko-san - Part 1 -
+    author: shiono-kou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/586852.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 586852
+    url: /works/586852/
   - title: Eigyou-saki no Yuuko-san - Part 2 - Yuuko-San in The Sales Area 2
     author: shiono-kou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/587573.jpg

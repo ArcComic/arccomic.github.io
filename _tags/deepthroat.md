@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "deepthroat"
-work_count: 140
+work_count: 141
 works:
   - title: Toshishita Chin Kui Obasan
     author: maccha-neji
@@ -1007,6 +1007,13 @@ works:
     date: '2026-11-14'
     code: 696502
     url: /works/696502/
+  - title: Shibarareta no wa Kokoro 3 ~Chijoku no Doutei~
+    author: orita
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696513.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 696513
+    url: /works/696513/
   - title: Aishita Haha o, Boku wa Dakenai - I can't have sex with my mother I love.
     author: toono-suika
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696581.jpg

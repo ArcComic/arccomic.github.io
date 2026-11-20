@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "english"
-work_count: 2188
+work_count: 2191
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -4996,6 +4996,13 @@ works:
     date: '2026-05-10'
     code: 586634
     url: /works/586634/
+  - title: Eigyou-saki no Yuuko-san - Part 1 -
+    author: shiono-kou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/586852.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 586852
+    url: /works/586852/
   - title: Miwaku-teki na Omae ga Warui
     author: yonayona
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/587417.jpg
@@ -10702,6 +10709,13 @@ works:
     date: '2026-10-29'
     code: 670494
     url: /works/670494/
+  - title: Couldn't Mother in law be "USED"? Oba-san ja Dame Kashira?
+    author: cammy
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/670567.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 670567
+    url: /works/670567/
   - title: JK no Imouto no Furo Nozoki mashita - Hentai Aniki × Imouto
     author: iron-sugar
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/670708.jpg
@@ -15908,6 +15922,13 @@ works:
     date: '2026-11-14'
     code: 696502
     url: /works/696502/
+  - title: Shibarareta no wa Kokoro 3 ~Chijoku no Doutei~
+    author: orita
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696513.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 696513
+    url: /works/696513/
   - title: Aishita Haha o, Boku wa Dakenai - I can't have sex with my mother I love.
     author: toono-suika
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696581.jpg

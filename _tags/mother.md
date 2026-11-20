@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "mother"
-work_count: 231
+work_count: 232
 works:
   - title: Imitation Family + Bigibo Hen
     author: tohzai
@@ -1310,6 +1310,13 @@ works:
     date: '2026-10-11'
     code: 669744
     url: /works/669744/
+  - title: Couldn't Mother in law be "USED"? Oba-san ja Dame Kashira?
+    author: cammy
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/670567.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 670567
+    url: /works/670567/
   - title: Unsweet Kazumi Wakui + (Plus) SIDE Kazumi
     author: tanaka-aji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/671907.jpg
