@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "cunnilingus"
-work_count: 249
+work_count: 250
 works:
   - title: Love Approach
     author: hanafuda-sakurano
@@ -498,6 +498,15 @@ works:
     date: '2026-04-30'
     code: 555849
     url: /works/555849/
+  - title: Kono Inakamachi ni wa Musuko no Seijinshiki ni Haha ga Doutei Sotsugyou Saseru
+      Gyouji ga Aru | In This Rural Village, There's A Custom Of A Mother Taking Her
+      Son's Virginity When They Become An Adult
+    author: spices
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/560941.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 560941
+    url: /works/560941/
   - title: 1/5 no Renai Kanjou | A Fifth of Romance
     author: chicke-iii
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/568871.jpg

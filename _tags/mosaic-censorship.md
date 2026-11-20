@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "mosaic censorship"
-work_count: 410
+work_count: 411
 works:
   - title: Okki na Kanojo ni Amaetai | I want to be pampered by a girl of generous girth
     author: higashino-mikan
@@ -942,6 +942,15 @@ works:
     date: '2026-03-09'
     code: 556895
     url: /works/556895/
+  - title: Kono Inakamachi ni wa Musuko no Seijinshiki ni Haha ga Doutei Sotsugyou Saseru
+      Gyouji ga Aru | In This Rural Village, There's A Custom Of A Mother Taking Her
+      Son's Virginity When They Become An Adult
+    author: spices
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/560941.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 560941
+    url: /works/560941/
   - title: Ijiwaru Mama Tomo Taisaku | Countermeasures Against Bullying Mothers
     author: chotto-b-sen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/561436.jpg

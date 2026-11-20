@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "lingerie"
-work_count: 132
+work_count: 133
 works:
   - title: My Care Lady Ch. 1
     author: sugi-g
@@ -287,6 +287,15 @@ works:
     date: '2026-04-25'
     code: 559088
     url: /works/559088/
+  - title: Kono Inakamachi ni wa Musuko no Seijinshiki ni Haha ga Doutei Sotsugyou Saseru
+      Gyouji ga Aru | In This Rural Village, There's A Custom Of A Mother Taking Her
+      Son's Virginity When They Become An Adult
+    author: spices
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/560941.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 560941
+    url: /works/560941/
   - title: Konki Girigiri Sister, Semete Shojo wo Sutetai | If I Can't Be Married At
       Least Let Me Quit Being a Virgin
     author: torii-yoshitsuna

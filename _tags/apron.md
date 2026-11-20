@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "apron"
-work_count: 34
+work_count: 35
 works:
   - title: Life with Married Women Just Like a Manga 2 - Ch. 1-5
     author: hidemaru
@@ -111,6 +111,15 @@ works:
     date: '2026-07-16'
     code: 555816
     url: /works/555816/
+  - title: Kono Inakamachi ni wa Musuko no Seijinshiki ni Haha ga Doutei Sotsugyou Saseru
+      Gyouji ga Aru | In This Rural Village, There's A Custom Of A Mother Taking Her
+      Son's Virginity When They Become An Adult
+    author: spices
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/560941.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 560941
+    url: /works/560941/
   - title: Boku no Nurse Maid Isabella no Fudeoroshi ~Ochichi ga Goshomou nara Tanezuke
       kudasaimashi~ | My Nursemaid Isabella's First Time ~ If You Desire, Please Impregnate
       Me ~

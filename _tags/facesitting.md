@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "facesitting"
-work_count: 38
+work_count: 39
 works:
   - title: Yuri no o saifu ni shite agemasu ne, Senpai | I'll turn you into Yuri's wallet,
       Senpai
@@ -62,6 +62,13 @@ works:
     date: '2026-10-02'
     code: 421306
     url: /works/421306/
+  - title: Kougyaku SyurabaXX
+    author: indo-curry-in-ka-of-the-dead
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/450085.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 450085
+    url: /works/450085/
   - title: Funinki Seishori Touban Kuroi-chan Tsukatte Iru no wa Kurasu de Ore Dake
       | I'm The Only One in The Class Who's Using The Unpopular Sexual Relief Staff,
       Kuroi-chan

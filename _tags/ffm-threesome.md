@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "ffm threesome"
-work_count: 189
+work_count: 190
 works:
   - title: Hustle! Danchizuma Ch. 1-18 END
     author: hidemaru
@@ -110,6 +110,13 @@ works:
     date: '2026-04-23'
     code: 448503
     url: /works/448503/
+  - title: Kougyaku SyurabaXX
+    author: indo-curry-in-ka-of-the-dead
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/450085.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 450085
+    url: /works/450085/
   - title: Ojou-sama to Maid o Iinazuke ni Torarete Okobore Ecchi suru Hanashi
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/459385.jpg

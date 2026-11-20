@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "anal"
-work_count: 212
+work_count: 213
 works:
   - title: Ikanishite Haha wa Onna o Kaihou Shitaka Ch. 1-14
     author: mitarai-yuuki
@@ -171,6 +171,13 @@ works:
     date: '2026-04-13'
     code: 432301
     url: /works/432301/
+  - title: Kougyaku SyurabaXX
+    author: indo-curry-in-ka-of-the-dead
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/450085.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 450085
+    url: /works/450085/
   - title: VS Dekachin Ojisan
     author: bang-you-didori
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/453969.jpg

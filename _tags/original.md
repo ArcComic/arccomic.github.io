@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "original"
-work_count: 1484
+work_count: 1485
 works:
   - title: Gokuusu Mizugi de Okasaretagari ga Kakusenai
     author: kekemotsu
@@ -2541,6 +2541,15 @@ works:
     date: '2026-04-25'
     code: 560643
     url: /works/560643/
+  - title: Kono Inakamachi ni wa Musuko no Seijinshiki ni Haha ga Doutei Sotsugyou Saseru
+      Gyouji ga Aru | In This Rural Village, There's A Custom Of A Mother Taking Her
+      Son's Virginity When They Become An Adult
+    author: spices
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/560941.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 560941
+    url: /works/560941/
   - title: 'Haiboku no Daishou ~Okasare Ubaware Hametsu suru Shuudoujou~ | Price of
       Defeat: Downfall of the Violated and Plundered Sister'
     author: mochiji

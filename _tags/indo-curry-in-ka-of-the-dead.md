@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "indo curry | in-ka of the dead"
-work_count: 2
+work_count: 3
 works:
+  - title: Kougyaku SyurabaXX
+    author: indo-curry-in-ka-of-the-dead
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/450085.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 450085
+    url: /works/450085/
   - title: Itsutsugo-chan wa Ecchi ga Shitai | The Quintuplets Wanna Have Sex
     author: alp
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/465718.jpg
