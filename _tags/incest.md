@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "incest"
-work_count: 396
+work_count: 399
 works:
   - title: Imitation Family + Bigibo Hen
     author: tohzai
@@ -1404,6 +1404,14 @@ works:
     date: '2026-11-10'
     code: 644964
     url: /works/644964/
+  - title: Musuko no Tsuyosugiru Seiyoku o Kaishou Suru no wa Haha no Tsutome desu!
+      | It's a Mother's duty to take care of her son's Sexual Needs!
+    author: spices
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/645120.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 645120
+    url: /works/645120/
   - title: Ane Mama ~ Atarashii Onee-chan to Mama wa Ore no Sex Friend ni Narimashita.
       ~
     author: group
@@ -1851,6 +1859,13 @@ works:
     date: '2026-10-07'
     code: 659476
     url: /works/659476/
+  - title: Turns out my match on the dating app was my own mom.
+    author: circle-spice
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/660008.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 660008
+    url: /works/660008/
   - title: My Daughter-in-Law won't stop seducing me !
     author: zetto
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/660337.jpg
@@ -1866,6 +1881,13 @@ works:
     date: '2026-08-29'
     code: 660399
     url: /works/660399/
+  - title: Ippai Waketene | Share a Whole Lot With Me.
+    author: kuroshiro-neko
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/660522.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 660522
+    url: /works/660522/
   - title: Ane to Otouto wa 30-Nichi go ni Sex Suru. | The Big Sister and Her Little
       Brother Will Have Sex in 30 Days
     author: shamidou-maichimonji

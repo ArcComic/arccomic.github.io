@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "hairy"
-work_count: 426
+work_count: 428
 works:
   - title: MAGIC SEVEN
     author: asuhiro
@@ -1589,6 +1589,14 @@ works:
     date: '2026-04-21'
     code: 644931
     url: /works/644931/
+  - title: Musuko no Tsuyosugiru Seiyoku o Kaishou Suru no wa Haha no Tsutome desu!
+      | It's a Mother's duty to take care of her son's Sexual Needs!
+    author: spices
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/645120.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 645120
+    url: /works/645120/
   - title: Kano Mama no Ana
     author: shimofuri
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/645285.jpg
@@ -1952,6 +1960,13 @@ works:
     date: '2026-09-17'
     code: 658748
     url: /works/658748/
+  - title: Turns out my match on the dating app was my own mom.
+    author: circle-spice
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/660008.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 660008
+    url: /works/660008/
   - title: Zuriniku paiholl
     author: '41'
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/660465.jpg

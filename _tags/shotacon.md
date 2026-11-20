@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "shotacon"
-work_count: 181
+work_count: 182
 works:
   - title: Okki na Kanojo ni Amaetai | I want to be pampered by a girl of generous girth
     author: higashino-mikan
@@ -862,6 +862,13 @@ works:
     date: '2026-09-08'
     code: 659643
     url: /works/659643/
+  - title: Ippai Waketene | Share a Whole Lot With Me.
+    author: kuroshiro-neko
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/660522.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 660522
+    url: /works/660522/
   - title: Murasaki no Shoumei ~Kuroi Muchuu~ | Purple Illumination ~Dark Trance~
     author: '3104'
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/660867.jpg

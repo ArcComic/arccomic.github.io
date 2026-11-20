@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "aunt"
-work_count: 27
+work_count: 28
 works:
   - title: Oppai na Natsuyasumi 2 | The Summer Break of Boobs 2
     author: higashino-mikan
@@ -140,6 +140,13 @@ works:
     date: '2026-09-11'
     code: 657559
     url: /works/657559/
+  - title: Ippai Waketene | Share a Whole Lot With Me.
+    author: kuroshiro-neko
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/660522.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 660522
+    url: /works/660522/
   - title: Itoko to Oba to Kinshin Haramase Vacance ~Haitoku no Oyako Double Ninshin~
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673215.jpg

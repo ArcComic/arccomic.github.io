@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "beauty mark"
-work_count: 263
+work_count: 264
 works:
   - title: Uragiri no Ai wa Mitsu no Aji | Treacherous Love Tastes Like Honey
     author: cuzukago
@@ -1290,6 +1290,13 @@ works:
     date: '2026-09-23'
     code: 658797
     url: /works/658797/
+  - title: Turns out my match on the dating app was my own mom.
+    author: circle-spice
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/660008.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 660008
+    url: /works/660008/
   - title: Dandan Kuse ni Naru - I like molester? .........No
     author: panda
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/661142.jpg

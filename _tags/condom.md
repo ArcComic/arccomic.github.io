@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "condom"
-work_count: 305
+work_count: 306
 works:
   - title: Kaisha de Iroiro | Gettin' Busy at the Office
     author: hara-shigeyuki
@@ -1510,6 +1510,13 @@ works:
     date: '2026-07-17'
     code: 658578
     url: /works/658578/
+  - title: Turns out my match on the dating app was my own mom.
+    author: circle-spice
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/660008.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 660008
+    url: /works/660008/
   - title: Boku no Koto ga Suki Sugiru InCha Stalker Joshi ni Nara Nani wo Yatte mo
       Ii yo ne? | If I Had A Gloomy Stalker That Loved Me Way, Way Too Much, I Could
       Do Whatever I Wanted To Her, Right?

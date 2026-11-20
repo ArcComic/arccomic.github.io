@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "impregnation"
-work_count: 204
+work_count: 207
 works:
   - title: Kousa suru Osu to Mesu | Male and Female Crossing
     author: ootsuka-kotora
@@ -785,6 +785,14 @@ works:
     date: '2026-04-12'
     code: 643375
     url: /works/643375/
+  - title: Musuko no Tsuyosugiru Seiyoku o Kaishou Suru no wa Haha no Tsutome desu!
+      | It's a Mother's duty to take care of her son's Sexual Needs!
+    author: spices
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/645120.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 645120
+    url: /works/645120/
   - title: DeliHeal Yondara Moto Doukyuusei ga Kita 2 |  I Called an Escort and My Former
       Classmate Showed Up 2
     author: unknown
@@ -938,6 +946,13 @@ works:
     date: '2026-07-17'
     code: 658578
     url: /works/658578/
+  - title: Turns out my match on the dating app was my own mom.
+    author: circle-spice
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/660008.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 660008
+    url: /works/660008/
   - title: Zuriniku paiholl
     author: '41'
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/660465.jpg
@@ -945,6 +960,13 @@ works:
     date: '2026-09-28'
     code: 660465
     url: /works/660465/
+  - title: Ippai Waketene | Share a Whole Lot With Me.
+    author: kuroshiro-neko
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/660522.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 660522
+    url: /works/660522/
   - title: Nankai demo Kimochii Koto
     author: raita
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/661145.jpg

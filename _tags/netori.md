@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "netori"
-work_count: 39
+work_count: 42
 works:
   - title: Onee-chan ga Ecchi na Koto bakka Suru kara... | My older sister only does
       obscene things...
@@ -139,6 +139,14 @@ works:
     date: '2026-11-11'
     code: 640053
     url: /works/640053/
+  - title: Musuko no Tsuyosugiru Seiyoku o Kaishou Suru no wa Haha no Tsutome desu!
+      | It's a Mother's duty to take care of her son's Sexual Needs!
+    author: spices
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/645120.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 645120
+    url: /works/645120/
   - title: Kano Mama no Ana | The Mom Hole
     author: shimofuri
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/646022.jpg
@@ -197,6 +205,20 @@ works:
     date: '2026-10-29'
     code: 654506
     url: /works/654506/
+  - title: Turns out my match on the dating app was my own mom.
+    author: circle-spice
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/660008.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 660008
+    url: /works/660008/
+  - title: Ippai Waketene | Share a Whole Lot With Me.
+    author: kuroshiro-neko
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/660522.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 660522
+    url: /works/660522/
   - title: Seiyoku Tsuyosugi GalKano Mama
     author: naporitan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/662525.jpg

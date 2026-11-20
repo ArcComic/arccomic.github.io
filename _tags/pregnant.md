@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "pregnant"
-work_count: 83
+work_count: 85
 works:
   - title: Mama Naranai Onna-tachi Ch. 1-2
     author: otochichi
@@ -303,6 +303,14 @@ works:
     date: '2026-10-09'
     code: 644231
     url: /works/644231/
+  - title: Musuko no Tsuyosugiru Seiyoku o Kaishou Suru no wa Haha no Tsutome desu!
+      | It's a Mother's duty to take care of her son's Sexual Needs!
+    author: spices
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/645120.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 645120
+    url: /works/645120/
   - title: Okaa-san ni wa Kore Gurai shika Dekinai kara... 2 | For Mom the Only Option
       Left is... 2
     author: muchipan
@@ -334,6 +342,13 @@ works:
     date: '2026-05-26'
     code: 652244
     url: /works/652244/
+  - title: Turns out my match on the dating app was my own mom.
+    author: circle-spice
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/660008.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 660008
+    url: /works/660008/
   - title: Zuriniku paiholl
     author: '41'
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/660465.jpg

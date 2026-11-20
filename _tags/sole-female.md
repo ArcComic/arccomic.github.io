@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole female"
-work_count: 1306
+work_count: 1309
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -4947,6 +4947,14 @@ works:
     date: '2026-09-13'
     code: 645116
     url: /works/645116/
+  - title: Musuko no Tsuyosugiru Seiyoku o Kaishou Suru no wa Haha no Tsutome desu!
+      | It's a Mother's duty to take care of her son's Sexual Needs!
+    author: spices
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/645120.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 645120
+    url: /works/645120/
   - title: DeliHeal Yondara Moto Doukyuusei ga Kita 2 |  I Called an Escort and My Former
       Classmate Showed Up 2
     author: unknown
@@ -5972,6 +5980,13 @@ works:
     date: '2026-08-22'
     code: 659484
     url: /works/659484/
+  - title: Turns out my match on the dating app was my own mom.
+    author: circle-spice
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/660008.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 660008
+    url: /works/660008/
   - title: Taido Warui Jou wa Otoshigai Arimasu | This Bratty Prostitute Was Easy To
       Break
     author: hikitogu
@@ -6003,6 +6018,13 @@ works:
     date: '2026-10-15'
     code: 660489
     url: /works/660489/
+  - title: Ippai Waketene | Share a Whole Lot With Me.
+    author: kuroshiro-neko
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/660522.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 660522
+    url: /works/660522/
   - title: Boku no Koto ga Suki Sugiru InCha Stalker Joshi ni Nara Nani wo Yatte mo
       Ii yo ne? | If I Had A Gloomy Stalker That Loved Me Way, Way Too Much, I Could
       Do Whatever I Wanted To Her, Right?

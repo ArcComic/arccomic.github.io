@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "ponytail"
-work_count: 247
+work_count: 248
 works:
   - title: Ami Mami Mind 5
     author: tsurui
@@ -718,6 +718,14 @@ works:
     date: '2026-11-10'
     code: 644964
     url: /works/644964/
+  - title: Musuko no Tsuyosugiru Seiyoku o Kaishou Suru no wa Haha no Tsutome desu!
+      | It's a Mother's duty to take care of her son's Sexual Needs!
+    author: spices
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/645120.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 645120
+    url: /works/645120/
   - title: Shuugaku Ryokou no Yoru Class no Idol Yowasete Oppai wo Nama Okazu ni Shiteyatta
       w | On the night of an excursion, we got the class idol drunk and jacked off to
       her nude titties lol
