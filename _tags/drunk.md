@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "drunk"
-work_count: 64
+work_count: 65
 works:
   - title: Birthday
     author: hashiba-yachi
@@ -380,6 +380,13 @@ works:
     date: '2026-08-21'
     code: 674704
     url: /works/674704/
+  - title: THE DAILY LIFE OF A HOUSEWIFE IN RESIDENTIAL COMPLEX
+    author: cammy
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/675489.jpg
+    rating: 4.1
+    date: '2026-11-20'
+    code: 675489
+    url: /works/675489/
   - title: Yoidore Sakurasou | Tipsy Primrose
     author: sayuumigi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679311.jpg

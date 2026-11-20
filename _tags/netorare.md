@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "netorare"
-work_count: 557
+work_count: 558
 works:
   - title: Kousa suru Osu to Mesu | Male and Female Crossing
     author: ootsuka-kotora
@@ -2977,6 +2977,13 @@ works:
     date: '2026-08-22'
     code: 674922
     url: /works/674922/
+  - title: THE DAILY LIFE OF A HOUSEWIFE IN RESIDENTIAL COMPLEX
+    author: cammy
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/675489.jpg
+    rating: 4.1
+    date: '2026-11-20'
+    code: 675489
+    url: /works/675489/
   - title: Iiwa, Watashi no Karada Suki ni Shite
     author: shunjou-shuusuke
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/675544.jpg

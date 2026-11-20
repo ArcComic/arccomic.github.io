@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "blowjob face"
-work_count: 103
+work_count: 104
 works:
   - title: Mama Naranai Onna-tachi Ch. 1-2
     author: otochichi
@@ -633,6 +633,13 @@ works:
     date: '2026-10-28'
     code: 691661
     url: /works/691661/
+  - title: The Scent of Enchantment
+    author: shiono-kou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/692673.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 692673
+    url: /works/692673/
   - title: Making a Harem of the Three Bitchy Gal Sisters - All Chapters + Bonus
     author: zonda
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694670.jpg

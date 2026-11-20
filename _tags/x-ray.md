@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "x-ray"
-work_count: 488
+work_count: 489
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -495,6 +495,13 @@ works:
     date: '2026-10-30'
     code: 480098
     url: /works/480098/
+  - title: Yuuwaku Usagi | Tempting Bunny
+    author: gyouza-teishoku
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/480320.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 480320
+    url: /works/480320/
   - title: Tomodachi no Mama ga Boku no Dekachin de Ikimakutta Kaisui Yokujou
     author: rk-2
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/480745.jpg

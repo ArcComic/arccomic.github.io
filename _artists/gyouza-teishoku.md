@@ -1,7 +1,7 @@
 ---
 layout: artist
 artist_name: "gyouza-teishoku"
-work_count: 2
+work_count: 3
 works:
   - title: Best friend
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/379870.jpg
@@ -9,6 +9,12 @@ works:
     date: '2026-11-20'
     code: 379870
     url: /works/379870/
+  - title: Yuuwaku Usagi | Tempting Bunny
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/480320.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 480320
+    url: /works/480320/
   - title: Sweet Smell
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/481827.jpg
     rating: 0.0

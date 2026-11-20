@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "teacher"
-work_count: 115
+work_count: 116
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -784,6 +784,13 @@ works:
     date: '2026-10-29'
     code: 691558
     url: /works/691558/
+  - title: The Scent of Enchantment
+    author: shiono-kou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/692673.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 692673
+    url: /works/692673/
   - title: Making a Harem of the Three Bitchy Gal Sisters - All Chapters + Bonus
     author: zonda
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694670.jpg

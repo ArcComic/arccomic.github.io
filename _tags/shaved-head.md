@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "shaved head"
-work_count: 25
+work_count: 26
 works:
   - title: Natsu Asobi | Summer Play
     author: ame-arare
@@ -140,6 +140,13 @@ works:
     date: '2026-07-17'
     code: 664784
     url: /works/664784/
+  - title: THE DAILY LIFE OF A HOUSEWIFE IN RESIDENTIAL COMPLEX
+    author: cammy
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/675489.jpg
+    rating: 4.1
+    date: '2026-11-20'
+    code: 675489
+    url: /works/675489/
   - title: Kodomo Wife-chans! Third time's the charm! | Little Wives! Third time's the
       charm!
     author: kumajiro

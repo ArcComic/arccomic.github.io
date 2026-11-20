@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big breasts"
-work_count: 1525
+work_count: 1527
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -1458,6 +1458,13 @@ works:
     date: '2026-09-13'
     code: 480065
     url: /works/480065/
+  - title: Yuuwaku Usagi | Tempting Bunny
+    author: gyouza-teishoku
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/480320.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 480320
+    url: /works/480320/
   - title: Tomodachi no Mama ga Boku no Dekachin de Ikimakutta Kaisui Yokujou
     author: rk-2
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/480745.jpg
@@ -10704,6 +10711,13 @@ works:
     date: '2026-11-12'
     code: 692083
     url: /works/692083/
+  - title: The Scent of Enchantment
+    author: shiono-kou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/692673.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 692673
+    url: /works/692673/
   - title: Oshiego no Downer Gal ni Shitsudo Takame ni Semeotosarechau Hanashi
     author: ayujiro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/693054.jpg

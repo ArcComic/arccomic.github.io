@@ -1,7 +1,7 @@
 ---
 layout: artist
 artist_name: "cammy"
-work_count: 6
+work_count: 7
 works:
   - title: Boku no Kaa-chan | My Mom
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/555792.jpg
@@ -39,4 +39,10 @@ works:
     date: '2026-08-19'
     code: 673900
     url: /works/673900/
+  - title: THE DAILY LIFE OF A HOUSEWIFE IN RESIDENTIAL COMPLEX
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/675489.jpg
+    rating: 4.1
+    date: '2026-11-20'
+    code: 675489
+    url: /works/675489/
 ---

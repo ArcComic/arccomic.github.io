@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "leotard"
-work_count: 17
+work_count: 18
 works:
   - title: Dame na Otoko ni Yasashii Elf Manga | A Manga About a Hopeless Man Who Has
       Sex With a Kind Elf
@@ -18,6 +18,13 @@ works:
     date: '2026-05-10'
     code: 441339
     url: /works/441339/
+  - title: Yuuwaku Usagi | Tempting Bunny
+    author: gyouza-teishoku
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/480320.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 480320
+    url: /works/480320/
   - title: Cosplay Shiteiru Toki wa Hitozuma de wa Arimasen | Setting Aside Our Married
       Lives When We Cosplay
     author: group

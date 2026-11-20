@@ -1,7 +1,7 @@
 ---
 layout: artist
 artist_name: "shiono-kou"
-work_count: 8
+work_count: 9
 works:
   - title: Micchaku Kojin Shidou | Intimate Personal Guidance
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/403460.jpg
@@ -53,4 +53,10 @@ works:
     date: '2026-11-17'
     code: 662533
     url: /works/662533/
+  - title: The Scent of Enchantment
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/692673.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 692673
+    url: /works/692673/
 ---

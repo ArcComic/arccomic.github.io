@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole female"
-work_count: 1322
+work_count: 1323
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -1763,6 +1763,13 @@ works:
     date: '2026-10-30'
     code: 480098
     url: /works/480098/
+  - title: Yuuwaku Usagi | Tempting Bunny
+    author: gyouza-teishoku
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/480320.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 480320
+    url: /works/480320/
   - title: Tomodachi no Mama ga Boku no Dekachin de Ikimakutta Kaisui Yokujou
     author: rk-2
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/480745.jpg

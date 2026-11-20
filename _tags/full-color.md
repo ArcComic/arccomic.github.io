@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "full color"
-work_count: 326
+work_count: 327
 works:
   - title: Pai☆Panic ~Hasamareta Dekapai~
     author: inkey
@@ -1832,6 +1832,13 @@ works:
     date: '2026-08-22'
     code: 674869
     url: /works/674869/
+  - title: THE DAILY LIFE OF A HOUSEWIFE IN RESIDENTIAL COMPLEX
+    author: cammy
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/675489.jpg
+    rating: 4.1
+    date: '2026-11-20'
+    code: 675489
+    url: /works/675489/
   - title: Aoi-chan to Himitsu no Seikatsu Shidou 1-19
     author: konnyaku
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/676196.jpg

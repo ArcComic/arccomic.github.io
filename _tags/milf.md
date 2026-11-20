@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "milf"
-work_count: 602
+work_count: 604
 works:
   - title: Life with Married Women Just Like a Manga 2 - Ch. 1-5
     author: hidemaru
@@ -3397,6 +3397,13 @@ works:
     date: '2026-08-22'
     code: 674927
     url: /works/674927/
+  - title: THE DAILY LIFE OF A HOUSEWIFE IN RESIDENTIAL COMPLEX
+    author: cammy
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/675489.jpg
+    rating: 4.1
+    date: '2026-11-20'
+    code: 675489
+    url: /works/675489/
   - title: Iiwa, Watashi no Karada Suki ni Shite
     author: shunjou-shuusuke
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/675544.jpg
@@ -4238,6 +4245,13 @@ works:
     date: '2026-10-28'
     code: 691671
     url: /works/691671/
+  - title: The Scent of Enchantment
+    author: shiono-kou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/692673.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 692673
+    url: /works/692673/
   - title: Deriheru yondara wakareta kanojo no mama ga kita | My Escort Was My Ex's
       Mom
     author: hotate-chan

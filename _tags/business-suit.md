@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "business suit"
-work_count: 114
+work_count: 116
 works:
   - title: MAGIC SEVEN
     author: asuhiro
@@ -249,6 +249,13 @@ works:
     date: '2026-10-30'
     code: 480098
     url: /works/480098/
+  - title: Yuuwaku Usagi | Tempting Bunny
+    author: gyouza-teishoku
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/480320.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 480320
+    url: /works/480320/
   - title: Ame no Hi wa, Honnori Chikubi
     author: hoshi-to-lucky
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/484860.jpg
@@ -800,6 +807,13 @@ works:
     date: '2026-10-26'
     code: 690875
     url: /works/690875/
+  - title: The Scent of Enchantment
+    author: shiono-kou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/692673.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 692673
+    url: /works/692673/
   - title: Itsumo Miken ni Shiwa o Yosete Iru Seikaku no Kitsui Babaa Senpai (29) wa
       You to Dosukebe Chijo ni Naru | My 29-year-old senpai at work is a sharp-tongued
       hag who’s always scowling but she turns into a super perverted nmypho when she
