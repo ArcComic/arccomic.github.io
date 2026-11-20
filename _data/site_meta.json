@@ -28,14 +28,14 @@
       "id": "web_reader",
       "label": "Read Now On Web",
       "dialogue": "",
-      "enabled": false,
+      "enabled": true,
       "dialogue_html": ""
     },
     {
       "id": "telegram_post",
       "label": "Read Now",
       "dialogue": "",
-      "enabled": true,
+      "enabled": false,
       "dialogue_html": ""
     }
   ]
