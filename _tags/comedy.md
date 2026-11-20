@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "comedy"
-work_count: 3
+work_count: 4
 works:
+  - title: Virgin Chauwa! | I'm No Virgin!
+    author: herio
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/267270.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 267270
+    url: /works/267270/
   - title: Kanojo no Mama mo Sex Friend ni shita Hanashi! | How I Ended Up Sleeping
       with My Girlfriend's Mom
     author: taniguchi-daisuke

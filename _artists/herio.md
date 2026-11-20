@@ -1,8 +1,14 @@
 ---
 layout: artist
 artist_name: "herio"
-work_count: 7
+work_count: 8
 works:
+  - title: Virgin Chauwa! | I'm No Virgin!
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/267270.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 267270
+    url: /works/267270/
   - title: Okatai Onna to Iwanaide | Don't call me an Old Maid!
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/276396.jpg
     rating: 4.2

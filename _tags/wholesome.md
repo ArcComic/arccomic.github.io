@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "wholesome"
-work_count: 247
+work_count: 249
 works:
   - title: FLUFFY LAUGH GIRL
     author: shibasaki-syouzi
@@ -10,6 +10,13 @@ works:
     date: '2026-09-04'
     code: 210672
     url: /works/210672/
+  - title: Virgin Chauwa! | I'm No Virgin!
+    author: herio
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/267270.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 267270
+    url: /works/267270/
   - title: Shizuku-san wa Ore no Omoibito | My Neighbor Shizuka-San, My Fondest Desire
     author: saemon
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/269224.jpg
@@ -770,6 +777,14 @@ works:
     date: '2026-09-26'
     code: 610903
     url: /works/610903/
+  - title: Boshi Jouji ~Daisuki na Okaa-san to Konya Majiwaru~ - MOTHER AND SON LOVE
+      AFFAIR | A Mother's Love ~Tonight I Become One With The Mom I Love~
+    author: shiono-kou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/613265.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 613265
+    url: /works/613265/
   - title: Onna Tomodachi Futari to Perochuu suru Hanashi | A Story About Kissing 2
       Female Friends
     author: mmchair

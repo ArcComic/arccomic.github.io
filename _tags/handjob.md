@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "handjob"
-work_count: 211
+work_count: 212
 works:
   - title: Rin to P
     author: simon
@@ -489,6 +489,14 @@ works:
     date: '2026-04-15'
     code: 612887
     url: /works/612887/
+  - title: Boshi Jouji ~Daisuki na Okaa-san to Konya Majiwaru~ - MOTHER AND SON LOVE
+      AFFAIR | A Mother's Love ~Tonight I Become One With The Mom I Love~
+    author: shiono-kou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/613265.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 613265
+    url: /works/613265/
   - title: Onna Tomodachi Futari to Perochuu suru Hanashi | A Story About Kissing 2
       Female Friends
     author: mmchair

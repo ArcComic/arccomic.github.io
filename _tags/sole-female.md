@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole female"
-work_count: 1309
+work_count: 1311
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -194,6 +194,13 @@ works:
     date: '2026-02-28'
     code: 265933
     url: /works/265933/
+  - title: Virgin Chauwa! | I'm No Virgin!
+    author: herio
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/267270.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 267270
+    url: /works/267270/
   - title: Shizuku-san wa Ore no Omoibito | My Neighbor Shizuka-San, My Fondest Desire
     author: saemon
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/269224.jpg
@@ -3892,6 +3899,14 @@ works:
     date: '2026-04-15'
     code: 612887
     url: /works/612887/
+  - title: Boshi Jouji ~Daisuki na Okaa-san to Konya Majiwaru~ - MOTHER AND SON LOVE
+      AFFAIR | A Mother's Love ~Tonight I Become One With The Mom I Love~
+    author: shiono-kou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/613265.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 613265
+    url: /works/613265/
   - title: Nanako-san
     author: napata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/614032.jpg

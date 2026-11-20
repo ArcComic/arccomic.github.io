@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "defloration"
-work_count: 303
+work_count: 304
 works:
   - title: Imitation Family + Bigibo Hen
     author: tohzai
@@ -45,6 +45,13 @@ works:
     date: '2026-09-20'
     code: 238471
     url: /works/238471/
+  - title: Virgin Chauwa! | I'm No Virgin!
+    author: herio
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/267270.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 267270
+    url: /works/267270/
   - title: Watashi no Producer-san
     author: tsurui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/288439.jpg

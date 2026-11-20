@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "huge breasts"
-work_count: 163
+work_count: 164
 works:
   - title: Mama Naranai Onna-tachi Ch. 1-2
     author: otochichi
@@ -183,6 +183,14 @@ works:
     date: '2026-10-01'
     code: 613188
     url: /works/613188/
+  - title: Boshi Jouji ~Daisuki na Okaa-san to Konya Majiwaru~ - MOTHER AND SON LOVE
+      AFFAIR | A Mother's Love ~Tonight I Become One With The Mom I Love~
+    author: shiono-kou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/613265.jpg
+    rating: 0.0
+    date: '2026-11-20'
+    code: 613265
+    url: /works/613265/
   - title: Kyonyuu no Tomodachi to Tsukiau made no Hanashi Gojitsudan
     author: fuguta-ke
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/616896.jpg
