@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "urination"
-work_count: 65
+work_count: 66
 works:
   - title: Boku no Kazoku o Sarashimasu Ch. 3
     author: tanaka-aji
@@ -486,4 +486,11 @@ works:
     date: '2026-11-17'
     code: 697894
     url: /works/697894/
+  - title: Touchuukasou Legion
+    author: fuetakishi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698998.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 698998
+    url: /works/698998/
 ---

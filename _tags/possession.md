@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "possession"
-work_count: 19
+work_count: 20
 works:
   - title: Seigi no Mikata o Otosu Houhou | How To Subvert an Ally of Justice
     author: fuka
@@ -83,6 +83,14 @@ works:
     date: '2026-11-09'
     code: 579368
     url: /works/579368/
+  - title: Tonari no Heya ni Sumu Bijin Boshi ga Uchūjin ni Nottorareteshimau Hanashi
+      (Hahahen) | How my Beautiful Mother and Child Neighbors Got Possessed by an Alien
+    author: kuratsuka-riko
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/596933.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 596933
+    url: /works/596933/
   - title: Venom Invasion VII 【Part 1】
     author: blackftos
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/647563.jpg

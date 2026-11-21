@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "blowjob"
-work_count: 937
+work_count: 938
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -6949,6 +6949,13 @@ works:
     date: '2026-11-21'
     code: 698985
     url: /works/698985/
+  - title: Touchuukasou Legion
+    author: fuetakishi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698998.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 698998
+    url: /works/698998/
   - title: Jokyoushi - Hot For Teachers | Female Teachers
     author: drill-murata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/81375.jpg

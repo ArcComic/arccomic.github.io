@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bloomers"
-work_count: 13
+work_count: 14
 works:
   - title: Tsuki ga Noboru | Moonrise
     author: rocket-monkey
@@ -98,4 +98,11 @@ works:
     date: '2026-11-12'
     code: 695866
     url: /works/695866/
+  - title: Touchuukasou Legion
+    author: fuetakishi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698998.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 698998
+    url: /works/698998/
 ---

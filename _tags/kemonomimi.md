@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "kemonomimi"
-work_count: 56
+work_count: 57
 works:
   - title: Datenshi Corruption II
     author: napo
@@ -420,4 +420,11 @@ works:
     date: '2026-11-17'
     code: 697736
     url: /works/697736/
+  - title: Touchuukasou Legion
+    author: fuetakishi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698998.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 698998
+    url: /works/698998/
 ---

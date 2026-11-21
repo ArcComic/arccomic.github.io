@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "glasses"
-work_count: 353
+work_count: 354
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -947,6 +947,14 @@ works:
     date: '2026-08-25'
     code: 595108
     url: /works/595108/
+  - title: Tonari no Heya ni Sumu Bijin Boshi ga Uchūjin ni Nottorareteshimau Hanashi
+      (Hahahen) | How my Beautiful Mother and Child Neighbors Got Possessed by an Alien
+    author: kuratsuka-riko
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/596933.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 596933
+    url: /works/596933/
   - title: Kaya-nee and the Old Man Memories
     author: kon-kit
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/598144.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "double blowjob"
-work_count: 11
+work_count: 12
 works:
   - title: Nakayoku no Yu e Youkoso Ch. 2 & 3
     author: enomoto-heights
@@ -84,4 +84,11 @@ works:
     date: '2026-11-21'
     code: 698985
     url: /works/698985/
+  - title: Touchuukasou Legion
+    author: fuetakishi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698998.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 698998
+    url: /works/698998/
 ---

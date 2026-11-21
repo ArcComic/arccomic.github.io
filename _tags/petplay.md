@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "petplay"
-work_count: 16
+work_count: 17
 works:
   - title: Hajimete no DomiSub ~Match App de Mitsuketa Goshujin-sama ni Jinsei Bukkowashite
       Moraimasu~
@@ -122,4 +122,11 @@ works:
     date: '2026-11-20'
     code: 696513
     url: /works/696513/
+  - title: Touchuukasou Legion
+    author: fuetakishi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698998.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 698998
+    url: /works/698998/
 ---

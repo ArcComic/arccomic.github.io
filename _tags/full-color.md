@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "full color"
-work_count: 338
+work_count: 339
 works:
   - title: Pai☆Panic ~Hasamareta Dekapai~
     author: inkey
@@ -1056,6 +1056,14 @@ works:
     date: '2026-04-25'
     code: 593754
     url: /works/593754/
+  - title: Tonari no Heya ni Sumu Bijin Boshi ga Uchūjin ni Nottorareteshimau Hanashi
+      (Hahahen) | How my Beautiful Mother and Child Neighbors Got Possessed by an Alien
+    author: kuratsuka-riko
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/596933.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 596933
+    url: /works/596933/
   - title: Nagoriyuki | Fleeting Snow
     author: yd
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/599778.jpg

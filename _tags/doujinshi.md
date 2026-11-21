@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "doujinshi"
-work_count: 1850
+work_count: 1852
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -4329,6 +4329,14 @@ works:
     date: '2026-09-30'
     code: 596687
     url: /works/596687/
+  - title: Tonari no Heya ni Sumu Bijin Boshi ga Uchūjin ni Nottorareteshimau Hanashi
+      (Hahahen) | How my Beautiful Mother and Child Neighbors Got Possessed by an Alien
+    author: kuratsuka-riko
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/596933.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 596933
+    url: /works/596933/
   - title: SHAMAN'S SPECIAL SERVICE
     author: raikko9
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/597388.jpg
@@ -13678,6 +13686,13 @@ works:
     date: '2026-11-21'
     code: 698985
     url: /works/698985/
+  - title: Touchuukasou Legion
+    author: fuetakishi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698998.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 698998
+    url: /works/698998/
   - title: Ranko-ppoi no! | Ranko-Ish!
     author: napata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/87393.jpg

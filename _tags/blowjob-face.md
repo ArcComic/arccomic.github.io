@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "blowjob face"
-work_count: 107
+work_count: 108
 works:
   - title: Mama Naranai Onna-tachi Ch. 1-2
     author: otochichi
@@ -806,4 +806,11 @@ works:
     date: '2026-11-21'
     code: 698956
     url: /works/698956/
+  - title: Touchuukasou Legion
+    author: fuetakishi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698998.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 698998
+    url: /works/698998/
 ---
