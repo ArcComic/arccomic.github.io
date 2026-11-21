@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "blackmail"
-work_count: 193
+work_count: 194
 works:
   - title: Birthday
     author: hashiba-yachi
@@ -1422,6 +1422,13 @@ works:
     date: '2026-11-17'
     code: 697894
     url: /works/697894/
+  - title: 'The Anal Poop Girl, re: Aya the New Bride'
+    author: goma-gorilla
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698937.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 698937
+    url: /works/698937/
   - title: YOUR SISTER - CHAPTER 1-18
     author: konparu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698956.jpg

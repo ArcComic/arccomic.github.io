@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "translated"
-work_count: 2180
+work_count: 2183
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -2259,6 +2259,13 @@ works:
     date: '2026-03-07'
     code: 453969
     url: /works/453969/
+  - title: The Wife Next Door at an Urban Renaissance Housing Complex is being NTR'ed
+    author: edogawa-koubou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/454233.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 454233
+    url: /works/454233/
   - title: Haha ⇒ umi ⇒ Nanpa ⇒ Rankou ⇒ Nikuana. Haha, Ochiru.
     author: rin
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/455844.jpg
@@ -15984,6 +15991,14 @@ works:
     date: '2026-11-21'
     code: 698681
     url: /works/698681/
+  - title: Kimi no Mae de Kimi Igai o Daku Ch. 45 | Having Sex with Someone Else in
+      Front of You 45
+    author: nakao
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698882.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 698882
+    url: /works/698882/
   - title: Koi 4 | Pre-Six Eyes & Limitless Satoru Gojo 5P with Yuki, Riko, Tsumiki,
       and Maki
     author: azukiko
@@ -16006,6 +16021,13 @@ works:
     date: '2026-11-21'
     code: 698934
     url: /works/698934/
+  - title: 'The Anal Poop Girl, re: Aya the New Bride'
+    author: goma-gorilla
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698937.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 698937
+    url: /works/698937/
   - title: YOUR SISTER - CHAPTER 1-18
     author: konparu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698956.jpg

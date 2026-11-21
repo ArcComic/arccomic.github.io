@@ -1,0 +1,13 @@
+---
+layout: tag
+tag_name: "edogawa koubou"
+work_count: 1
+works:
+  - title: The Wife Next Door at an Urban Renaissance Housing Complex is being NTR'ed
+    author: edogawa-koubou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/454233.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 454233
+    url: /works/454233/
+---

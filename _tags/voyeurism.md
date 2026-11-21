@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "voyeurism"
-work_count: 84
+work_count: 86
 works:
   - title: Tsutomesaki no Musume-san o Oishiku Itadaku Hon Minshuku Hen
     author: aya
@@ -96,6 +96,13 @@ works:
     date: '2026-04-12'
     code: 432513
     url: /works/432513/
+  - title: The Wife Next Door at an Urban Renaissance Housing Complex is being NTR'ed
+    author: edogawa-koubou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/454233.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 454233
+    url: /works/454233/
   - title: Bakunyuu Hitozuma Kinpatsu Gaikokujin Jokyoushi ga Mura no Inshuu de Kasshoku
       Shota no Fudeoroshi o Suru Hanashi
     author: mifune-seijirou
@@ -613,6 +620,14 @@ works:
     date: '2026-11-10'
     code: 695711
     url: /works/695711/
+  - title: Kimi no Mae de Kimi Igai o Daku Ch. 45 | Having Sex with Someone Else in
+      Front of You 45
+    author: nakao
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698882.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 698882
+    url: /works/698882/
   - title: YOUR SISTER - CHAPTER 1-18
     author: konparu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698956.jpg

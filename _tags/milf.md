@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "milf"
-work_count: 622
+work_count: 623
 works:
   - title: Life with Married Women Just Like a Manga 2 - Ch. 1-5
     author: hidemaru
@@ -707,6 +707,13 @@ works:
     date: '2026-09-12'
     code: 449158
     url: /works/449158/
+  - title: The Wife Next Door at an Urban Renaissance Housing Complex is being NTR'ed
+    author: edogawa-koubou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/454233.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 454233
+    url: /works/454233/
   - title: Haha ⇒ umi ⇒ Nanpa ⇒ Rankou ⇒ Nikuana. Haha, Ochiru.
     author: rin
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/455844.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "gaping"
-work_count: 9
+work_count: 10
 works:
   - title: Onna Shachou to Koibito ni Naru Houhou | How To Become Lover's With A Female
       CEO
@@ -72,4 +72,11 @@ works:
     date: '2026-10-10'
     code: 686422
     url: /works/686422/
+  - title: 'The Anal Poop Girl, re: Aya the New Bride'
+    author: goma-gorilla
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698937.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 698937
+    url: /works/698937/
 ---

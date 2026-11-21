@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "focus anal"
-work_count: 10
+work_count: 11
 works:
   - title: Iemoto no Uwaki ga Honki ni Natta Hi Zenpen | The Day the Grand Master's
       Affair Became Serious Part One
@@ -76,4 +76,11 @@ works:
     date: '2026-09-28'
     code: 684587
     url: /works/684587/
+  - title: 'The Anal Poop Girl, re: Aya the New Bride'
+    author: goma-gorilla
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698937.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 698937
+    url: /works/698937/
 ---

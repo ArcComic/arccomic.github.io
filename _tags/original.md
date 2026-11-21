@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "original"
-work_count: 1508
+work_count: 1509
 works:
   - title: Gokuusu Mizugi de Okasaretagari ga Kakusenai
     author: kekemotsu
@@ -1034,6 +1034,13 @@ works:
     date: '2026-09-29'
     code: 453286
     url: /works/453286/
+  - title: The Wife Next Door at an Urban Renaissance Housing Complex is being NTR'ed
+    author: edogawa-koubou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/454233.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 454233
+    url: /works/454233/
   - title: Haha ⇒ umi ⇒ Nanpa ⇒ Rankou ⇒ Nikuana. Haha, Ochiru.
     author: rin
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/455844.jpg
