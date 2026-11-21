@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "focus anal"
-work_count: 11
+work_count: 12
 works:
   - title: Iemoto no Uwaki ga Honki ni Natta Hi Zenpen | The Day the Grand Master's
       Affair Became Serious Part One
@@ -60,6 +60,14 @@ works:
     date: '2026-07-11'
     code: 663142
     url: /works/663142/
+  - title: Anal Sex ga Unda Aru Fuufu no Saikouchiku Monogatari | The Story Of A Marriage
+      Rebuilt By Anal Sex
+    author: technician
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/669306.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 669306
+    url: /works/669306/
   - title: Watashi no Oshiri no Hajimete o Anata-sama ni Sasagemasu | I offer my ass
       to you for the first time
     author: nadayui

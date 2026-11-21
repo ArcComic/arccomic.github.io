@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "netorare"
-work_count: 573
+work_count: 574
 works:
   - title: Kousa suru Osu to Mesu | Male and Female Crossing
     author: ootsuka-kotora
@@ -4143,6 +4143,13 @@ works:
     date: '2026-11-14'
     code: 696973
     url: /works/696973/
+  - title: A Young Boy’s Mind Shattered (NTR) by His Older Sister’s Gal Friend 1
+    author: gomu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/697200.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 697200
+    url: /works/697200/
   - title: Soredemo Ashita mo Kareshi ga ii - Chapter 1-27
     author: miike-kei
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/697733.jpg

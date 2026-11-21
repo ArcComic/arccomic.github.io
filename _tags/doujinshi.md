@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "doujinshi"
-work_count: 1867
+work_count: 1869
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -9111,6 +9111,14 @@ works:
     date: '2026-09-07'
     code: 669254
     url: /works/669254/
+  - title: Anal Sex ga Unda Aru Fuufu no Saikouchiku Monogatari | The Story Of A Marriage
+      Rebuilt By Anal Sex
+    author: technician
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/669306.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 669306
+    url: /works/669306/
   - title: Azanaharu Kanojo no Shikiroku | Color Records of a Girlfriend in Entanglement
     author: allegro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/669452.jpg
@@ -13663,6 +13671,13 @@ works:
     date: '2026-11-14'
     code: 696998
     url: /works/696998/
+  - title: A Young Boy’s Mind Shattered (NTR) by His Older Sister’s Gal Friend 1
+    author: gomu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/697200.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 697200
+    url: /works/697200/
   - title: A Pantsy Relationship With the Girl Next Door
     author: hoshi-to-lucky
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/697416.jpg

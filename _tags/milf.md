@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "milf"
-work_count: 626
+work_count: 627
 works:
   - title: Life with Married Women Just Like a Manga 2 - Ch. 1-5
     author: hidemaru
@@ -3311,6 +3311,14 @@ works:
     date: '2026-10-29'
     code: 669135
     url: /works/669135/
+  - title: Anal Sex ga Unda Aru Fuufu no Saikouchiku Monogatari | The Story Of A Marriage
+      Rebuilt By Anal Sex
+    author: technician
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/669306.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 669306
+    url: /works/669306/
   - title: 'IF: A Story About a World Where You Can Plant Seeds with Your Neighbors
       — The Classmate’s Mother Edition'
     author: amatani-haruka

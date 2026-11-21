@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "shotacon"
-work_count: 189
+work_count: 190
 works:
   - title: Okki na Kanojo ni Amaetai | I want to be pampered by a girl of generous girth
     author: higashino-mikan
@@ -1371,6 +1371,13 @@ works:
     date: '2026-11-14'
     code: 696375
     url: /works/696375/
+  - title: A Young Boy’s Mind Shattered (NTR) by His Older Sister’s Gal Friend 1
+    author: gomu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/697200.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 697200
+    url: /works/697200/
   - title: Hitozuma A-san to Musuko no Yuujin N-kun - Married wife A and son's friend
       N-kun
     author: takatsu-takatsu-keita

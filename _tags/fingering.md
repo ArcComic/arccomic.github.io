@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "fingering"
-work_count: 276
+work_count: 277
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -1287,6 +1287,14 @@ works:
     date: '2026-07-17'
     code: 664937
     url: /works/664937/
+  - title: Anal Sex ga Unda Aru Fuufu no Saikouchiku Monogatari | The Story Of A Marriage
+      Rebuilt By Anal Sex
+    author: technician
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/669306.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 669306
+    url: /works/669306/
   - title: Motto Mawashite Ura Kairanban Ch. 1-4
     author: yano-toshinori
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/670485.jpg

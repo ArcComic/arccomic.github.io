@@ -1,7 +1,7 @@
 ---
 layout: artist
 artist_name: "group"
-work_count: 51
+work_count: 52
 works:
   - title: Ojou-sama to Maid o Iinazuke ni Torarete Okobore Ecchi suru Hanashi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/459385.jpg
@@ -22,6 +22,13 @@ works:
     date: '2026-11-10'
     code: 469644
     url: /works/469644/
+  - title: Me no Mae de Watashi no Tsuma o Okashite kudasai | Please Fuck My Wife In
+      Front Of Me
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/475829.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 475829
+    url: /works/475829/
   - title: Doukyuusei Joshi no Iinari | As my female classmates says
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/515185.jpg
     rating: 4.8

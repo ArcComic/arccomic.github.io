@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "schoolgirl uniform"
-work_count: 472
+work_count: 473
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -3464,6 +3464,13 @@ works:
     date: '2026-11-14'
     code: 696949
     url: /works/696949/
+  - title: A Young Boy’s Mind Shattered (NTR) by His Older Sister’s Gal Friend 1
+    author: gomu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/697200.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 697200
+    url: /works/697200/
   - title: Muteikou Niku Onaho Doukyuusei | My Unresisting Meat Onahole Classmate
     author: fujoujoshi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/697728.jpg
