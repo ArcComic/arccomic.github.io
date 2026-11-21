@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole female"
-work_count: 1326
+work_count: 1328
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -1097,7 +1097,7 @@ works:
   - title: Micchaku Kojin Shidou | Intimate Personal Guidance
     author: shiono-kou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/403460.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-11-20'
     code: 403460
     url: /works/403460/
@@ -1175,6 +1175,13 @@ works:
     date: '2026-10-15'
     code: 412135
     url: /works/412135/
+  - title: Senjou no Misshitsu | The honey room of sensation
+    author: shiono-kou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/412584.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 412584
+    url: /works/412584/
   - title: Anmoku no Ryoukai de Oba-san to H Shita Hanashi | The Story of an Unspoken
       Sex Agreement With Oba-San
     author: pairesshu
@@ -1470,7 +1477,7 @@ works:
       I Confessed to My Mom and She Let Me Have a One-Day-Only Sex-Fest
     author: spices
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/446943.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-11-20'
     code: 446943
     url: /works/446943/
@@ -1774,7 +1781,7 @@ works:
   - title: Yuuwaku Usagi | Tempting Bunny
     author: gyouza-teishoku
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/480320.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-11-20'
     code: 480320
     url: /works/480320/
@@ -1795,7 +1802,7 @@ works:
   - title: Sweet Smell
     author: gyouza-teishoku
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/481827.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-11-20'
     code: 481827
     url: /works/481827/
@@ -2005,6 +2012,14 @@ works:
     date: '2026-11-08'
     code: 501315
     url: /works/501315/
+  - title: Ousama Game no Meirei de Haha to Sex Shita Hanashi | I Ordered My Mom to
+      Have Sex with Me in King's Game
+    author: spices
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/501637.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 501637
+    url: /works/501637/
   - title: Kioku Soushitsu NTR - Kareshi no Shinyuu ni Hamerare Tsuzuketa 10-kakan -
     author: wes-heartland-smith
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/502563.jpg
@@ -2874,7 +2889,7 @@ works:
   - title: Naisho no Shokuba Taiken | Secret Work Experience
     author: shiono-kou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/554162.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-20'
     code: 554162
     url: /works/554162/
@@ -2981,7 +2996,7 @@ works:
       Son's Virginity When They Become An Adult
     author: spices
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/560941.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-11-20'
     code: 560941
     url: /works/560941/
@@ -3077,7 +3092,7 @@ works:
   - title: Atashi wo…. | Use me...
     author: orita
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/567893.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-11-20'
     code: 567893
     url: /works/567893/
@@ -3114,7 +3129,7 @@ works:
       Uptight Girlfriend Suddenly Becomes a Slut!!
     author: gomu-gomu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/570322.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-11-20'
     code: 570322
     url: /works/570322/
@@ -5017,7 +5032,7 @@ works:
   - title: Yopparai Nee-chan no Jinsei o Irodoru Ketsui Hyoumei
     author: gyouza-teishoku
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/644661.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-11-20'
     code: 644661
     url: /works/644661/
@@ -9403,7 +9418,7 @@ works:
       Drop of Alcohol Makes My Neighbor Minami-san Get Lewd
     author: tkspower
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/692247.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-11-20'
     code: 692247
     url: /works/692247/

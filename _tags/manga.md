@@ -608,7 +608,7 @@ works:
   - title: Micchaku Kojin Shidou | Intimate Personal Guidance
     author: shiono-kou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/403460.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-11-20'
     code: 403460
     url: /works/403460/
@@ -786,7 +786,7 @@ works:
   - title: Kougyaku SyurabaXX
     author: indo-curry-in-ka-of-the-dead
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/450085.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-11-20'
     code: 450085
     url: /works/450085/
@@ -872,14 +872,14 @@ works:
   - title: Yuuwaku Usagi | Tempting Bunny
     author: gyouza-teishoku
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/480320.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-11-20'
     code: 480320
     url: /works/480320/
   - title: Sweet Smell
     author: gyouza-teishoku
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/481827.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-11-20'
     code: 481827
     url: /works/481827/
@@ -1294,7 +1294,7 @@ works:
   - title: Naisho no Shokuba Taiken | Secret Work Experience
     author: shiono-kou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/554162.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-20'
     code: 554162
     url: /works/554162/
@@ -3222,7 +3222,7 @@ works:
   - title: The Scent of Enchantment
     author: shiono-kou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/692673.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-11-20'
     code: 692673
     url: /works/692673/

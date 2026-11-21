@@ -147,7 +147,7 @@ works:
   - title: Miboujin to musume to Joukyuu Kokumin
     author: kusayarou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/398240.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-11-20'
     code: 398240
     url: /works/398240/
@@ -235,7 +235,7 @@ works:
   - title: Sweet Smell
     author: gyouza-teishoku
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/481827.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-11-20'
     code: 481827
     url: /works/481827/
@@ -382,7 +382,7 @@ works:
   - title: Naisho no Shokuba Taiken | Secret Work Experience
     author: shiono-kou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/554162.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-20'
     code: 554162
     url: /works/554162/

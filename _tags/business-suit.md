@@ -252,7 +252,7 @@ works:
   - title: Yuuwaku Usagi | Tempting Bunny
     author: gyouza-teishoku
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/480320.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-11-20'
     code: 480320
     url: /works/480320/
@@ -369,7 +369,7 @@ works:
   - title: Naisho no Shokuba Taiken | Secret Work Experience
     author: shiono-kou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/554162.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-20'
     code: 554162
     url: /works/554162/
@@ -690,7 +690,7 @@ works:
   - title: Ogibo-san ja Dame Kashira? 2 | Couldn't Mother in law be "USED" 2?
     author: cammy
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/671213.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-11-20'
     code: 671213
     url: /works/671213/
@@ -817,7 +817,7 @@ works:
   - title: The Scent of Enchantment
     author: shiono-kou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/692673.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-11-20'
     code: 692673
     url: /works/692673/

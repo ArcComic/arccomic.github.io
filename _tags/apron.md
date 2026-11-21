@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "apron"
-work_count: 35
+work_count: 36
 works:
   - title: Life with Married Women Just Like a Manga 2 - Ch. 1-5
     author: hidemaru
@@ -67,6 +67,14 @@ works:
     date: '2026-05-05'
     code: 419017
     url: /works/419017/
+  - title: Ousama Game no Meirei de Haha to Sex Shita Hanashi | I Ordered My Mom to
+      Have Sex with Me in King's Game
+    author: spices
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/501637.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 501637
+    url: /works/501637/
   - title: Watashi, Gitei no Are de… Kanji teru!~ Aniki yori Dekakute Iidaro 1-3 | I'm
       Feeling... My Brother-in-Law's Cock! 〜I'm Bigger Than My Brother's, Aren't I?
       ch.1-3
@@ -116,7 +124,7 @@ works:
       Son's Virginity When They Become An Adult
     author: spices
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/560941.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-11-20'
     code: 560941
     url: /works/560941/

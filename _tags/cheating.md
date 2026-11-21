@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "cheating"
-work_count: 497
+work_count: 499
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -439,6 +439,13 @@ works:
     date: '2026-03-05'
     code: 409929
     url: /works/409929/
+  - title: Senjou no Misshitsu | The honey room of sensation
+    author: shiono-kou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/412584.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 412584
+    url: /works/412584/
   - title: Onee-san ga Iyashite Ageru Ch.1-6
     author: asagi-ryu-amano-miki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/412668.jpg
@@ -602,7 +609,7 @@ works:
       I Confessed to My Mom and She Let Me Have a One-Day-Only Sex-Fest
     author: spices
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/446943.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-11-20'
     code: 446943
     url: /works/446943/
@@ -769,6 +776,14 @@ works:
     date: '2026-10-18'
     code: 495845
     url: /works/495845/
+  - title: Ousama Game no Meirei de Haha to Sex Shita Hanashi | I Ordered My Mom to
+      Have Sex with Me in King's Game
+    author: spices
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/501637.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 501637
+    url: /works/501637/
   - title: Mama Moe ~Haha o Bikou shite mita Ken~ | Mama Moe ~That Time When I Followed
       My Mom~
     author: hara-shigeyuki
@@ -1232,7 +1247,7 @@ works:
       Son's Virginity When They Become An Adult
     author: spices
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/560941.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-11-20'
     code: 560941
     url: /works/560941/
@@ -2644,7 +2659,7 @@ works:
   - title: Ogibo-san ja Dame Kashira? 2 | Couldn't Mother in law be "USED" 2?
     author: cammy
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/671213.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-11-20'
     code: 671213
     url: /works/671213/
@@ -3514,7 +3529,7 @@ works:
   - title: The Scent of Enchantment
     author: shiono-kou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/692673.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-11-20'
     code: 692673
     url: /works/692673/

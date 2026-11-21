@@ -99,7 +99,7 @@ works:
   - title: Kougyaku SyurabaXX
     author: indo-curry-in-ka-of-the-dead
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/450085.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-11-20'
     code: 450085
     url: /works/450085/

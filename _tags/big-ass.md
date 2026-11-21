@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big ass"
-work_count: 376
+work_count: 377
 works:
   - title: My Care Lady Ch. 1
     author: sugi-g
@@ -204,6 +204,13 @@ works:
     date: '2026-07-10'
     code: 398305
     url: /works/398305/
+  - title: Senjou no Misshitsu | The honey room of sensation
+    author: shiono-kou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/412584.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 412584
+    url: /works/412584/
   - title: Hito o Dame ni Suru Choi Busu ~Kao 40-ten, Karada 120-ten no Kanojo~
     author: special-g
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/414892.jpg
@@ -244,7 +251,7 @@ works:
       I Confessed to My Mom and She Let Me Have a One-Day-Only Sex-Fest
     author: spices
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/446943.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-11-20'
     code: 446943
     url: /works/446943/
@@ -451,7 +458,7 @@ works:
   - title: Naisho no Shokuba Taiken | Secret Work Experience
     author: shiono-kou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/554162.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-20'
     code: 554162
     url: /works/554162/
@@ -2507,7 +2514,7 @@ works:
   - title: The Scent of Enchantment
     author: shiono-kou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/692673.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-11-20'
     code: 692673
     url: /works/692673/

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "paizuri"
-work_count: 328
+work_count: 329
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -206,7 +206,7 @@ works:
       I Confessed to My Mom and She Let Me Have a One-Day-Only Sex-Fest
     author: spices
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/446943.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-11-20'
     code: 446943
     url: /works/446943/
@@ -405,6 +405,13 @@ works:
     date: '2026-09-11'
     code: 528308
     url: /works/528308/
+  - title: Ano Tsuzuki... 2 - Then I had some fun with her.....
+    author: zekkyosyu-zekkyo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/532257.jpg
+    rating: 4.3
+    date: '2026-11-20'
+    code: 532257
+    url: /works/532257/
   - title: Jimi Kyonyuu No Stalker Onna Ni Gokuhaku Saretanode Yarimakutte Mita Hanashi
       2 | I Was Confessed To By A Plain Busty Stalker Girl, So I Fucked Her Like Crazy
       2
@@ -548,7 +555,7 @@ works:
   - title: Atashi wo…. | Use me...
     author: orita
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/567893.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-11-20'
     code: 567893
     url: /works/567893/

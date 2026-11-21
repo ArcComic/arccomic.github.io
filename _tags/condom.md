@@ -767,7 +767,7 @@ works:
       Son's Virginity When They Become An Adult
     author: spices
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/560941.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-11-20'
     code: 560941
     url: /works/560941/
@@ -803,7 +803,7 @@ works:
   - title: Atashi wo…. | Use me...
     author: orita
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/567893.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-11-20'
     code: 567893
     url: /works/567893/

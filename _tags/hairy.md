@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "hairy"
-work_count: 439
+work_count: 441
 works:
   - title: MAGIC SEVEN
     author: asuhiro
@@ -383,7 +383,7 @@ works:
   - title: Micchaku Kojin Shidou | Intimate Personal Guidance
     author: shiono-kou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/403460.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-11-20'
     code: 403460
     url: /works/403460/
@@ -409,6 +409,13 @@ works:
     date: '2026-10-20'
     code: 408137
     url: /works/408137/
+  - title: Senjou no Misshitsu | The honey room of sensation
+    author: shiono-kou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/412584.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 412584
+    url: /works/412584/
   - title: Onee-san ga Iyashite Ageru Ch.1-6
     author: asagi-ryu-amano-miki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/412668.jpg
@@ -505,7 +512,7 @@ works:
       I Confessed to My Mom and She Let Me Have a One-Day-Only Sex-Fest
     author: spices
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/446943.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-11-20'
     code: 446943
     url: /works/446943/
@@ -712,6 +719,14 @@ works:
     date: '2026-11-17'
     code: 500221
     url: /works/500221/
+  - title: Ousama Game no Meirei de Haha to Sex Shita Hanashi | I Ordered My Mom to
+      Have Sex with Me in King's Game
+    author: spices
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/501637.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 501637
+    url: /works/501637/
   - title: Obedience Part 1
     author: laliberte
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/501709.jpg
@@ -997,7 +1012,7 @@ works:
   - title: Naisho no Shokuba Taiken | Secret Work Experience
     author: shiono-kou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/554162.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-20'
     code: 554162
     url: /works/554162/
@@ -1035,7 +1050,7 @@ works:
       Son's Virginity When They Become An Adult
     author: spices
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/560941.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-11-20'
     code: 560941
     url: /works/560941/
@@ -2236,7 +2251,7 @@ works:
   - title: Ogibo-san ja Dame Kashira? 2 | Couldn't Mother in law be "USED" 2?
     author: cammy
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/671213.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-11-20'
     code: 671213
     url: /works/671213/
@@ -3001,14 +3016,14 @@ works:
   - title: The Scent of Enchantment
     author: shiono-kou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/692673.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-11-20'
     code: 692673
     url: /works/692673/
   - title: LeveChi na Swapping 1 ~Seiheki ni Mezameru Otto Hen~
     author: hikitogu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694479.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-11-20'
     code: 694479
     url: /works/694479/

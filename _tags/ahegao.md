@@ -277,7 +277,7 @@ works:
       I Confessed to My Mom and She Let Me Have a One-Day-Only Sex-Fest
     author: spices
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/446943.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-11-20'
     code: 446943
     url: /works/446943/
@@ -1283,7 +1283,7 @@ works:
   - title: Yopparai Nee-chan no Jinsei o Irodoru Ketsui Hyoumei
     author: gyouza-teishoku
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/644661.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-11-20'
     code: 644661
     url: /works/644661/
@@ -3076,7 +3076,7 @@ works:
   - title: LeveChi na Swapping 1 ~Seiheki ni Mezameru Otto Hen~
     author: hikitogu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694479.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-11-20'
     code: 694479
     url: /works/694479/

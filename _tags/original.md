@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "original"
-work_count: 1491
+work_count: 1493
 works:
   - title: Gokuusu Mizugi de Okasaretagari ga Kakusenai
     author: kekemotsu
@@ -550,7 +550,7 @@ works:
   - title: Miboujin to musume to Joukyuu Kokumin
     author: kusayarou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/398240.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-11-20'
     code: 398240
     url: /works/398240/
@@ -925,7 +925,7 @@ works:
       I Confessed to My Mom and She Let Me Have a One-Day-Only Sex-Fest
     author: spices
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/446943.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-11-20'
     code: 446943
     url: /works/446943/
@@ -1448,6 +1448,14 @@ works:
     date: '2026-11-08'
     code: 501315
     url: /works/501315/
+  - title: Ousama Game no Meirei de Haha to Sex Shita Hanashi | I Ordered My Mom to
+      Have Sex with Me in King's Game
+    author: spices
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/501637.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 501637
+    url: /works/501637/
   - title: Obedience Part 1
     author: laliberte
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/501709.jpg
@@ -1972,6 +1980,13 @@ works:
     date: '2026-07-11'
     code: 531966
     url: /works/531966/
+  - title: Ano Tsuzuki... 2 - Then I had some fun with her.....
+    author: zekkyosyu-zekkyo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/532257.jpg
+    rating: 4.3
+    date: '2026-11-20'
+    code: 532257
+    url: /works/532257/
   - title: Mother's Scent 1-4
     author: midnight
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/532417.jpg
@@ -2554,7 +2569,7 @@ works:
       Son's Virginity When They Become An Adult
     author: spices
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/560941.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-11-20'
     code: 560941
     url: /works/560941/
@@ -2679,7 +2694,7 @@ works:
   - title: Atashi wo…. | Use me...
     author: orita
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/567893.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-11-20'
     code: 567893
     url: /works/567893/
@@ -2724,7 +2739,7 @@ works:
       Uptight Girlfriend Suddenly Becomes a Slut!!
     author: gomu-gomu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/570322.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-11-20'
     code: 570322
     url: /works/570322/
@@ -5031,7 +5046,7 @@ works:
   - title: Yopparai Nee-chan no Jinsei o Irodoru Ketsui Hyoumei
     author: gyouza-teishoku
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/644661.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-11-20'
     code: 644661
     url: /works/644661/
@@ -7303,7 +7318,7 @@ works:
   - title: Ogibo-san ja Dame Kashira? 2 | Couldn't Mother in law be "USED" 2?
     author: cammy
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/671213.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-11-20'
     code: 671213
     url: /works/671213/
@@ -10601,7 +10616,7 @@ works:
       Drop of Alcohol Makes My Neighbor Minami-san Get Lewd
     author: tkspower
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/692247.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-11-20'
     code: 692247
     url: /works/692247/
@@ -10629,7 +10644,7 @@ works:
   - title: LeveChi na Swapping 1 ~Seiheki ni Mezameru Otto Hen~
     author: hikitogu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694479.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-11-20'
     code: 694479
     url: /works/694479/

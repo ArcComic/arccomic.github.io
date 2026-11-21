@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "nakadashi"
-work_count: 1168
+work_count: 1169
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -658,7 +658,7 @@ works:
   - title: Miboujin to musume to Joukyuu Kokumin
     author: kusayarou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/398240.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-11-20'
     code: 398240
     url: /works/398240/
@@ -729,6 +729,13 @@ works:
     date: '2026-11-13'
     code: 411584
     url: /works/411584/
+  - title: Senjou no Misshitsu | The honey room of sensation
+    author: shiono-kou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/412584.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 412584
+    url: /works/412584/
   - title: Onee-san ga Iyashite Ageru Ch.1-6
     author: asagi-ryu-amano-miki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/412668.jpg
@@ -1009,7 +1016,7 @@ works:
       I Confessed to My Mom and She Let Me Have a One-Day-Only Sex-Fest
     author: spices
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/446943.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-11-20'
     code: 446943
     url: /works/446943/
@@ -1287,7 +1294,7 @@ works:
   - title: Yuuwaku Usagi | Tempting Bunny
     author: gyouza-teishoku
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/480320.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-11-20'
     code: 480320
     url: /works/480320/
@@ -2177,7 +2184,7 @@ works:
   - title: Naisho no Shokuba Taiken | Secret Work Experience
     author: shiono-kou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/554162.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-20'
     code: 554162
     url: /works/554162/
@@ -2363,7 +2370,7 @@ works:
   - title: Atashi wo…. | Use me...
     author: orita
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/567893.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-11-20'
     code: 567893
     url: /works/567893/
@@ -2386,7 +2393,7 @@ works:
       Uptight Girlfriend Suddenly Becomes a Slut!!
     author: gomu-gomu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/570322.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-11-20'
     code: 570322
     url: /works/570322/
@@ -5977,7 +5984,7 @@ works:
   - title: Ogibo-san ja Dame Kashira? 2 | Couldn't Mother in law be "USED" 2?
     author: cammy
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/671213.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-11-20'
     code: 671213
     url: /works/671213/
@@ -8197,14 +8204,14 @@ works:
   - title: The Scent of Enchantment
     author: shiono-kou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/692673.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-11-20'
     code: 692673
     url: /works/692673/
   - title: LeveChi na Swapping 1 ~Seiheki ni Mezameru Otto Hen~
     author: hikitogu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694479.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-11-20'
     code: 694479
     url: /works/694479/

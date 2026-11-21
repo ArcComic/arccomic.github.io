@@ -13,7 +13,7 @@ works:
   - title: Miboujin to musume to Joukyuu Kokumin
     author: kusayarou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/398240.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-11-20'
     code: 398240
     url: /works/398240/

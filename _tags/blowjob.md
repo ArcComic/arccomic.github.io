@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "blowjob"
-work_count: 917
+work_count: 918
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -569,7 +569,7 @@ works:
   - title: Micchaku Kojin Shidou | Intimate Personal Guidance
     author: shiono-kou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/403460.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-11-20'
     code: 403460
     url: /works/403460/
@@ -618,6 +618,13 @@ works:
     date: '2026-10-15'
     code: 412135
     url: /works/412135/
+  - title: Senjou no Misshitsu | The honey room of sensation
+    author: shiono-kou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/412584.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 412584
+    url: /works/412584/
   - title: Shuudan Jotaika Gyaru, Ochiru | Mass-Gender Bended Gyarus, Fall into Depravity
     author: betty
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/414300.jpg
@@ -763,7 +770,7 @@ works:
       I Confessed to My Mom and She Let Me Have a One-Day-Only Sex-Fest
     author: spices
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/446943.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-11-20'
     code: 446943
     url: /works/446943/
@@ -976,7 +983,7 @@ works:
   - title: Yuuwaku Usagi | Tempting Bunny
     author: gyouza-teishoku
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/480320.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-11-20'
     code: 480320
     url: /works/480320/
@@ -1794,7 +1801,7 @@ works:
   - title: Atashi wo…. | Use me...
     author: orita
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/567893.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-11-20'
     code: 567893
     url: /works/567893/
@@ -1831,7 +1838,7 @@ works:
       Uptight Girlfriend Suddenly Becomes a Slut!!
     author: gomu-gomu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/570322.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-11-20'
     code: 570322
     url: /works/570322/
@@ -6410,14 +6417,14 @@ works:
   - title: The Scent of Enchantment
     author: shiono-kou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/692673.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-11-20'
     code: 692673
     url: /works/692673/
   - title: LeveChi na Swapping 1 ~Seiheki ni Mezameru Otto Hen~
     author: hikitogu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694479.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-11-20'
     code: 694479
     url: /works/694479/

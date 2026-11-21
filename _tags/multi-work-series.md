@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "multi-work series"
-work_count: 516
+work_count: 517
 works:
   - title: Konna ni mo Itooshii Zero
     author: nohito
@@ -238,7 +238,7 @@ works:
   - title: Miboujin to musume to Joukyuu Kokumin
     author: kusayarou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/398240.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-11-20'
     code: 398240
     url: /works/398240/
@@ -778,6 +778,13 @@ works:
     date: '2026-09-10'
     code: 529791
     url: /works/529791/
+  - title: Ano Tsuzuki... 2 - Then I had some fun with her.....
+    author: zekkyosyu-zekkyo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/532257.jpg
+    rating: 4.3
+    date: '2026-11-20'
+    code: 532257
+    url: /works/532257/
   - title: Mother's Scent 1-4
     author: midnight
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/532417.jpg
@@ -1019,7 +1026,7 @@ works:
   - title: Atashi wo…. | Use me...
     author: orita
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/567893.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-11-20'
     code: 567893
     url: /works/567893/
@@ -1035,7 +1042,7 @@ works:
       Uptight Girlfriend Suddenly Becomes a Slut!!
     author: gomu-gomu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/570322.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-11-20'
     code: 570322
     url: /works/570322/
@@ -2649,7 +2656,7 @@ works:
   - title: Ogibo-san ja Dame Kashira? 2 | Couldn't Mother in law be "USED" 2?
     author: cammy
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/671213.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-11-20'
     code: 671213
     url: /works/671213/
@@ -3722,7 +3729,7 @@ works:
   - title: LeveChi na Swapping 1 ~Seiheki ni Mezameru Otto Hen~
     author: hikitogu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694479.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-11-20'
     code: 694479
     url: /works/694479/

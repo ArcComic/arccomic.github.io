@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "tomboy"
-work_count: 95
+work_count: 96
 works:
   - title: Kizashi
     author: yoshiura-kazuya
@@ -89,6 +89,13 @@ works:
     date: '2026-09-04'
     code: 407561
     url: /works/407561/
+  - title: Senjou no Misshitsu | The honey room of sensation
+    author: shiono-kou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/412584.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 412584
+    url: /works/412584/
   - title: Seiten no Hekireki | TS Thunderclap
     author: regdic
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/415057.jpg

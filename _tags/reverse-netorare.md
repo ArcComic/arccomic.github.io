@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "reverse netorare"
-work_count: 27
+work_count: 28
 works:
   - title: Hajimete Kanojo Ga Dekita No Ni
     author: unknown
@@ -41,6 +41,13 @@ works:
     date: '2026-10-20'
     code: 393761
     url: /works/393761/
+  - title: Senjou no Misshitsu | The honey room of sensation
+    author: shiono-kou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/412584.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 412584
+    url: /works/412584/
   - title: Kanojo to no Kekkon Houkoku ni Kiseishita noni Gimai to Yarimakuri no Suujitsukan
       ga Hajimatteshimatta | I visited my in-laws to announce my marriage and ended
       up fucking my girlfriend's little sister silly!

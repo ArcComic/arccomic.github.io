@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "group"
-work_count: 333
+work_count: 334
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -203,6 +203,13 @@ works:
     date: '2026-10-15'
     code: 412135
     url: /works/412135/
+  - title: Senjou no Misshitsu | The honey room of sensation
+    author: shiono-kou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/412584.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 412584
+    url: /works/412584/
   - title: Natsu Asobi | Summer Play
     author: ame-arare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/416852.jpg
@@ -257,7 +264,7 @@ works:
   - title: Kougyaku SyurabaXX
     author: indo-curry-in-ka-of-the-dead
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/450085.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-11-20'
     code: 450085
     url: /works/450085/

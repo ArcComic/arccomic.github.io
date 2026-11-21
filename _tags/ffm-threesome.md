@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "ffm threesome"
-work_count: 190
+work_count: 191
 works:
   - title: Hustle! Danchizuma Ch. 1-18 END
     author: hidemaru
@@ -80,6 +80,13 @@ works:
     date: '2026-03-09'
     code: 408822
     url: /works/408822/
+  - title: Senjou no Misshitsu | The honey room of sensation
+    author: shiono-kou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/412584.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 412584
+    url: /works/412584/
   - title: Gal ni Houkago Oppai Sawatte ku? te Sasowareru Hanashi | That Time Gyarus
       Asked Me to Grope their Tits After Class
     author: ono-hiroki
@@ -113,7 +120,7 @@ works:
   - title: Kougyaku SyurabaXX
     author: indo-curry-in-ka-of-the-dead
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/450085.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-11-20'
     code: 450085
     url: /works/450085/

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big lips"
-work_count: 5
+work_count: 6
 works:
   - title: Sokukan Delivery
     author: ice
@@ -10,6 +10,13 @@ works:
     date: '2026-08-20'
     code: 332781
     url: /works/332781/
+  - title: Senjou no Misshitsu | The honey room of sensation
+    author: shiono-kou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/412584.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 412584
+    url: /works/412584/
   - title: Hito o Dame ni Suru Choi Busu ~Kao 40-ten, Karada 120-ten no Kanojo~
     author: special-g
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/414892.jpg
