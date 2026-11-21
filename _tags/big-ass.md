@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big ass"
-work_count: 378
+work_count: 379
 works:
   - title: My Care Lady Ch. 1
     author: sugi-g
@@ -764,6 +764,13 @@ works:
     date: '2026-09-17'
     code: 621436
     url: /works/621436/
+  - title: Eigyou Saki no Yuuko-san - Part 3 -
+    author: shiono-kou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/623377.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 623377
+    url: /works/623377/
   - title: The Story of How My Brain Was Destroyed After Dating Someone Who Would Grant
       Any Request
     author: jakky

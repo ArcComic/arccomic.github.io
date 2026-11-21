@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "shimaidon"
-work_count: 26
+work_count: 27
 works:
   - title: Watashito Iikoto Shiyo? | Will You Have Sex With Me?
     author: asagi-ryu-amano-miki
@@ -10,6 +10,14 @@ works:
     date: '2026-10-20'
     code: 408137
     url: /works/408137/
+  - title: Kazoku De Musuko O Fudeoroshi Suru Narawashi Ga Sonzai Suru Kakei | A family
+      with a tradition of taking their son's virginity
+    author: spices
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/426827.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 426827
+    url: /works/426827/
   - title: 1/5 no Renai Kanjou | A Fifth of Romance
     author: chicke-iii
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/568871.jpg

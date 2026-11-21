@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "group"
-work_count: 334
+work_count: 335
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -217,6 +217,14 @@ works:
     date: '2026-10-17'
     code: 416852
     url: /works/416852/
+  - title: Kazoku De Musuko O Fudeoroshi Suru Narawashi Ga Sonzai Suru Kakei | A family
+      with a tradition of taking their son's virginity
+    author: spices
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/426827.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 426827
+    url: /works/426827/
   - title: Gal ni Houkago Oppai Sawatte ku? te Sasowareru Hanashi | That Time Gyarus
       Asked Me to Grope their Tits After Class
     author: ono-hiroki

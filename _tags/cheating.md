@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "cheating"
-work_count: 500
+work_count: 501
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -1709,6 +1709,13 @@ works:
     date: '2026-09-19'
     code: 622161
     url: /works/622161/
+  - title: Eigyou Saki no Yuuko-san - Part 3 -
+    author: shiono-kou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/623377.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 623377
+    url: /works/623377/
   - title: Hitozuma-tachi no Kiken na Jouji | The Housewife's Dangerous Situation
     author: homare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/627722.jpg

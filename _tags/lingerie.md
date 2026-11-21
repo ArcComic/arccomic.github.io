@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "lingerie"
-work_count: 134
+work_count: 135
 works:
   - title: My Care Lady Ch. 1
     author: sugi-g
@@ -138,6 +138,14 @@ works:
     date: '2026-03-05'
     code: 409929
     url: /works/409929/
+  - title: Kazoku De Musuko O Fudeoroshi Suru Narawashi Ga Sonzai Suru Kakei | A family
+      with a tradition of taking their son's virginity
+    author: spices
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/426827.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 426827
+    url: /works/426827/
   - title: Utakata 2 ~Uraaka DoM Haken OL Onaho Choukyou~ | An Office Lady's Behind
       The Scenes Masochistic Onahole Training 2
     author: yuzuri-ai

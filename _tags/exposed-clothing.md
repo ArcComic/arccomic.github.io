@@ -1,8 +1,16 @@
 ---
 layout: tag
 tag_name: "exposed clothing"
-work_count: 35
+work_count: 36
 works:
+  - title: Kazoku De Musuko O Fudeoroshi Suru Narawashi Ga Sonzai Suru Kakei | A family
+      with a tradition of taking their son's virginity
+    author: spices
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/426827.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 426827
+    url: /works/426827/
   - title: Otaku Tomodachi to no Sex wa Saikou ni Kimochi Ii | Sex with Your Otaku Friend
       is Mindblowing
     author: alp

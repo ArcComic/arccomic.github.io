@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "nakadashi"
-work_count: 1174
+work_count: 1176
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -863,6 +863,14 @@ works:
     date: '2026-04-15'
     code: 426769
     url: /works/426769/
+  - title: Kazoku De Musuko O Fudeoroshi Suru Narawashi Ga Sonzai Suru Kakei | A family
+      with a tradition of taking their son's virginity
+    author: spices
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/426827.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 426827
+    url: /works/426827/
   - title: When My Friend Became a Tomboy
     author: rudy-saki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/428415.jpg
@@ -3411,6 +3419,13 @@ works:
     date: '2026-05-26'
     code: 622857
     url: /works/622857/
+  - title: Eigyou Saki no Yuuko-san - Part 3 -
+    author: shiono-kou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/623377.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 623377
+    url: /works/623377/
   - title: Igumox - Muramata-san no Himitsu & Aijou - Muramata-san's Secret & Affection
       COMPLETE
     author: igumox

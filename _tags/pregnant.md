@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "pregnant"
-work_count: 88
+work_count: 89
 works:
   - title: Mama Naranai Onna-tachi Ch. 1-2
     author: otochichi
@@ -76,6 +76,14 @@ works:
     date: '2026-10-29'
     code: 422128
     url: /works/422128/
+  - title: Kazoku De Musuko O Fudeoroshi Suru Narawashi Ga Sonzai Suru Kakei | A family
+      with a tradition of taking their son's virginity
+    author: spices
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/426827.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 426827
+    url: /works/426827/
   - title: Yofukashi no Tsuma ~Murakami Kozue~ | Late-Night Wife ~Murakami Kozue~
     author: oobayashi-mori
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/453749.jpg

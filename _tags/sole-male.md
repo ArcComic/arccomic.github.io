@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole male"
-work_count: 1258
+work_count: 1260
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -1231,6 +1231,14 @@ works:
     date: '2026-04-15'
     code: 426769
     url: /works/426769/
+  - title: Kazoku De Musuko O Fudeoroshi Suru Narawashi Ga Sonzai Suru Kakei | A family
+      with a tradition of taking their son's virginity
+    author: spices
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/426827.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 426827
+    url: /works/426827/
   - title: Mama ni Seishi Ippai Choudai, Zenpen-Chuuhen
     author: yamamoto-yoshifumi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/429195.jpg
@@ -3874,6 +3882,13 @@ works:
     date: '2026-05-26'
     code: 622857
     url: /works/622857/
+  - title: Eigyou Saki no Yuuko-san - Part 3 -
+    author: shiono-kou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/623377.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 623377
+    url: /works/623377/
   - title: Seishun o Yarinaosu nara Kondo koso Suki datta Doukyuusei to Tsukiatte Zettai
       Yarimakuritai. | If I'm Reliving My Life, This Time I Wanna Get With The Girl
       I Loved Back Then

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "oyakodon"
-work_count: 41
+work_count: 42
 works:
   - title: Akarui Kazoku Seikatsu
     author: pistonring-nishizawa
@@ -17,6 +17,14 @@ works:
     date: '2026-11-20'
     code: 398240
     url: /works/398240/
+  - title: Kazoku De Musuko O Fudeoroshi Suru Narawashi Ga Sonzai Suru Kakei | A family
+      with a tradition of taking their son's virginity
+    author: spices
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/426827.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 426827
+    url: /works/426827/
   - title: Bitch Mama no Kekkon Riyuu
     author: aoyama-akira
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/512473.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "harem"
-work_count: 61
+work_count: 62
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -31,6 +31,14 @@ works:
     date: '2026-09-26'
     code: 400846
     url: /works/400846/
+  - title: Kazoku De Musuko O Fudeoroshi Suru Narawashi Ga Sonzai Suru Kakei | A family
+      with a tradition of taking their son's virginity
+    author: spices
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/426827.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 426827
+    url: /works/426827/
   - title: About the New President of the Disciplinary Committee's Huge Tits 2
     author: try
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/516219.jpg

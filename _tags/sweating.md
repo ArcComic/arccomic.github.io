@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sweating"
-work_count: 229
+work_count: 230
 works:
   - title: Kaisha de Iroiro | Gettin' Busy at the Office
     author: hara-shigeyuki
@@ -687,6 +687,13 @@ works:
     date: '2026-10-20'
     code: 620544
     url: /works/620544/
+  - title: Eigyou Saki no Yuuko-san - Part 3 -
+    author: shiono-kou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/623377.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 623377
+    url: /works/623377/
   - title: Seishun o Yarinaosu nara Kondo koso Suki datta Doukyuusei to Tsukiatte Zettai
       Yarimakuritai. | If I'm Reliving My Life, This Time I Wanna Get With The Girl
       I Loved Back Then

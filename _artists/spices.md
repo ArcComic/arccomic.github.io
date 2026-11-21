@@ -1,7 +1,7 @@
 ---
 layout: artist
 artist_name: "spices"
-work_count: 6
+work_count: 7
 works:
   - title: Musuko ni Nando mo Kudokarete Konmake Shita Haha
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/329864.jpg
@@ -16,6 +16,13 @@ works:
     date: '2026-11-21'
     code: 351090
     url: /works/351090/
+  - title: Kazoku De Musuko O Fudeoroshi Suru Narawashi Ga Sonzai Suru Kakei | A family
+      with a tradition of taking their son's virginity
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/426827.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 426827
+    url: /works/426827/
   - title: Hahaoya ni Kokuhaku Shitara Ichinichi dake Sex o Sasete Kureta Hanashi |
       I Confessed to My Mom and She Let Me Have a One-Day-Only Sex-Fest
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/446943.jpg

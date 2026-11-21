@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "manga"
-work_count: 470
+work_count: 471
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -1759,6 +1759,13 @@ works:
     date: '2026-05-26'
     code: 622857
     url: /works/622857/
+  - title: Eigyou Saki no Yuuko-san - Part 3 -
+    author: shiono-kou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/623377.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 623377
+    url: /works/623377/
   - title: Futari Dake no Himitsu -Moshi Deliheal Yonde Musume ga Kichattara-
     author: takuwan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/631592.jpg
