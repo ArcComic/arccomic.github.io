@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "hairy armpits"
-work_count: 17
+work_count: 18
 works:
   - title: Mama Naranai Onna-tachi Ch. 1-2
     author: otochichi
@@ -17,6 +17,13 @@ works:
     date: '2026-09-08'
     code: 287208
     url: /works/287208/
+  - title: Okorinbo Mama no Amayakashi Sex de Furyou Musuko ga Kousei Shita Hanashi
+    author: spices
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/298945.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 298945
+    url: /works/298945/
   - title: Single Mother to Issho ni - Boku no Mamakatsu! 1 | Together with a single
       mother - My sugarmama! 1
     author: azukiko

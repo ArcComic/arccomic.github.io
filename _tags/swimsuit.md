@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "swimsuit"
-work_count: 114
+work_count: 115
 works:
   - title: Kizashi
     author: yoshiura-kazuya
@@ -101,6 +101,14 @@ works:
     date: '2026-04-27'
     code: 452482
     url: /works/452482/
+  - title: Genkai Drake-san DeliHeal Kaigyou Hen | Drake is at Her Limit. Starting Out
+      As A Delivery Prostitute
+    author: orita
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/479720.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 479720
+    url: /works/479720/
   - title: Tomodachi no Mama ga Boku no Dekachin de Ikimakutta Kaisui Yokujou
     author: rk-2
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/480745.jpg

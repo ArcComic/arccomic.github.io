@@ -1,8 +1,14 @@
 ---
 layout: artist
 artist_name: "spices"
-work_count: 7
+work_count: 8
 works:
+  - title: Okorinbo Mama no Amayakashi Sex de Furyou Musuko ga Kousei Shita Hanashi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/298945.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 298945
+    url: /works/298945/
   - title: Musuko ni Nando mo Kudokarete Konmake Shita Haha
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/329864.jpg
     rating: 0.0

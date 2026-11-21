@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "thigh high boots"
-work_count: 9
+work_count: 10
 works:
   - title: Shika wa Tottemo Sekkyokuteki desu!
     author: tsurui
@@ -17,6 +17,14 @@ works:
     date: '2026-10-09'
     code: 361286
     url: /works/361286/
+  - title: Genkai Drake-san DeliHeal Kaigyou Hen | Drake is at Her Limit. Starting Out
+      As A Delivery Prostitute
+    author: orita
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/479720.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 479720
+    url: /works/479720/
   - title: Datenshi no Yuuwaku -Office Angel Project- 1
     author: hiraoka-ryuichi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/491622.jpg

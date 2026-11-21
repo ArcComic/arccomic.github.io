@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "fate grand order"
-work_count: 9
+work_count: 11
 works:
   - title: PERSONAL TRAINING
     author: mitsuki
@@ -24,6 +24,21 @@ works:
     date: '2026-09-28'
     code: 373952
     url: /works/373952/
+  - title: Genkai Drake-san | Drake-san's Limit
+    author: orita
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/451938.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 451938
+    url: /works/451938/
+  - title: Genkai Drake-san DeliHeal Kaigyou Hen | Drake is at Her Limit. Starting Out
+      As A Delivery Prostitute
+    author: orita
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/479720.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 479720
+    url: /works/479720/
   - title: Uchi no Kiyohime wa Mama 2 | My Kiyohime is a Mommy 2
     author: mameko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/664666.jpg

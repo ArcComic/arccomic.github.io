@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "incest"
-work_count: 410
+work_count: 411
 works:
   - title: Imitation Family + Bigibo Hen
     author: tohzai
@@ -67,6 +67,13 @@ works:
     date: '2026-03-04'
     code: 292454
     url: /works/292454/
+  - title: Okorinbo Mama no Amayakashi Sex de Furyou Musuko ga Kousei Shita Hanashi
+    author: spices
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/298945.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 298945
+    url: /works/298945/
   - title: Akarui Kazoku Seikatsu
     author: pistonring-nishizawa
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/304307.jpg

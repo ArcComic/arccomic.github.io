@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "scar"
-work_count: 8
+work_count: 10
 works:
   - title: Kimi to Itami wo Wakachi "AI" tai | I Want to Share Your Pain
     author: betty
@@ -10,6 +10,13 @@ works:
     date: '2026-09-04'
     code: 294902
     url: /works/294902/
+  - title: Genkai Drake-san | Drake-san's Limit
+    author: orita
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/451938.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 451938
+    url: /works/451938/
   - title: Sekai ga Heiwa ni Natta node Yuusha (Jitsu wa ♀) ni Kyuukon Shita Kekka |
       Marriage Proposal to the Hero (Actually ♀) When the World Is at Peace
     author: natsuo-tsunao
@@ -18,6 +25,14 @@ works:
     date: '2026-09-12'
     code: 471198
     url: /works/471198/
+  - title: Genkai Drake-san DeliHeal Kaigyou Hen | Drake is at Her Limit. Starting Out
+      As A Delivery Prostitute
+    author: orita
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/479720.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 479720
+    url: /works/479720/
   - title: 'Moto Mahou Shoujo no Shigoto Hanashi Ao Zenjitsutan | Former Magical Girl
       Blue''s Work: The Prequel'
     author: zhen-lu

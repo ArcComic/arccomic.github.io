@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "ponytail"
-work_count: 252
+work_count: 254
 works:
   - title: Ami Mami Mind 5
     author: tsurui
@@ -24,6 +24,13 @@ works:
     date: '2026-04-16'
     code: 297068
     url: /works/297068/
+  - title: Okorinbo Mama no Amayakashi Sex de Furyou Musuko ga Kousei Shita Hanashi
+    author: spices
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/298945.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 298945
+    url: /works/298945/
   - title: Furuhonya no Onee-san to | With The Lady From The Used Book Shop
     author: nodame
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/306522.jpg
@@ -240,6 +247,14 @@ works:
     date: '2026-09-19'
     code: 477646
     url: /works/477646/
+  - title: Genkai Drake-san DeliHeal Kaigyou Hen | Drake is at Her Limit. Starting Out
+      As A Delivery Prostitute
+    author: orita
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/479720.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 479720
+    url: /works/479720/
   - title: Sweet Smell
     author: gyouza-teishoku
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/481827.jpg
