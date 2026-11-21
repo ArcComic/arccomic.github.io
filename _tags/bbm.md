@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bbm"
-work_count: 154
+work_count: 156
 works:
   - title: Kindan no Hatemitsu
     author: ryuuta
@@ -10,6 +10,14 @@ works:
     date: '2026-04-19'
     code: 163039
     url: /works/163039/
+  - title: Kurashiki-sensei wa Hatsujouki (Fujiyama-san wa Shishunki) | Kurashiki-sensei
+      is in heat
+    author: shishiji
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/203238.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 203238
+    url: /works/203238/
   - title: Tsuma no Imouto no Danna ga Ie ni Kiteiruyoudesu | My Sister-In-Law's Husband
       is Over
     author: arakure
@@ -70,6 +78,13 @@ works:
     date: '2026-07-13'
     code: 358168
     url: /works/358168/
+  - title: Hypnotized Princess
+    author: gomu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/373617.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 373617
+    url: /works/373617/
   - title: Miboujin to musume to Joukyuu Kokumin
     author: kusayarou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/398240.jpg

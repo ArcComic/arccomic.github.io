@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "kimono"
-work_count: 69
+work_count: 70
 works:
   - title: Hitozuma Hyakka
     author: hase-tsubura
@@ -10,6 +10,14 @@ works:
     date: '2026-04-19'
     code: 190410
     url: /works/190410/
+  - title: Kurashiki-sensei wa Hatsujouki (Fujiyama-san wa Shishunki) | Kurashiki-sensei
+      is in heat
+    author: shishiji
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/203238.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 203238
+    url: /works/203238/
   - title: Watashi ni Mawashite Ura Kairanban
     author: yano-toshinori
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/238471.jpg

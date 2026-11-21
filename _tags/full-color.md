@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "full color"
-work_count: 340
+work_count: 341
 works:
   - title: Pai☆Panic ~Hasamareta Dekapai~
     author: inkey
@@ -2490,4 +2490,11 @@ works:
     date: '2026-11-17'
     code: 697834
     url: /works/697834/
+  - title: Jasmin Extra Help
+    author: scarlett-ann
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698908.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 698908
+    url: /works/698908/
 ---

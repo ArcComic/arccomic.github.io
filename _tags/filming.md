@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "filming"
-work_count: 157
+work_count: 159
 works:
   - title: Ikanishite Haha wa Onna o Kaihou Shitaka Ch. 1-14
     author: mitarai-yuuki
@@ -10,6 +10,14 @@ works:
     date: '2026-10-08'
     code: 157644
     url: /works/157644/
+  - title: Kurashiki-sensei wa Hatsujouki (Fujiyama-san wa Shishunki) | Kurashiki-sensei
+      is in heat
+    author: shishiji
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/203238.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 203238
+    url: /works/203238/
   - title: Boku no Shiranai Kimi no Kao
     author: utsutsu-minoru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/246449.jpg
@@ -80,6 +88,13 @@ works:
     date: '2026-10-15'
     code: 369712
     url: /works/369712/
+  - title: Hypnotized Princess
+    author: gomu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/373617.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 373617
+    url: /works/373617/
   - title: LOOK LIKE
     author: terasu-mc
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/388099.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "dilf"
-work_count: 248
+work_count: 250
 works:
   - title: Adoration
     author: kishizuka-kenji
@@ -38,6 +38,14 @@ works:
     date: '2026-04-19'
     code: 190410
     url: /works/190410/
+  - title: Kurashiki-sensei wa Hatsujouki (Fujiyama-san wa Shishunki) | Kurashiki-sensei
+      is in heat
+    author: shishiji
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/203238.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 203238
+    url: /works/203238/
   - title: A-part | Apartment
     author: zero-no-mono
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/215019.jpg
@@ -216,6 +224,13 @@ works:
     date: '2026-03-09'
     code: 361032
     url: /works/361032/
+  - title: Hypnotized Princess
+    author: gomu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/373617.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 373617
+    url: /works/373617/
   - title: Osananajimi no Otou-san ni.
     author: uni18
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/381875.jpg

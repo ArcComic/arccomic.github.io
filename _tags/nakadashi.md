@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "nakadashi"
-work_count: 1195
+work_count: 1196
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -73,6 +73,14 @@ works:
     date: '2026-09-06'
     code: 196238
     url: /works/196238/
+  - title: Kurashiki-sensei wa Hatsujouki (Fujiyama-san wa Shishunki) | Kurashiki-sensei
+      is in heat
+    author: shishiji
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/203238.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 203238
+    url: /works/203238/
   - title: GalPa!
     author: sakagami-umi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/208522.jpg

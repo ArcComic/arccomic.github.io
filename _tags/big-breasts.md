@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big breasts"
-work_count: 1568
+work_count: 1569
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -11551,6 +11551,13 @@ works:
     date: '2026-11-21'
     code: 698893
     url: /works/698893/
+  - title: Jasmin Extra Help
+    author: scarlett-ann
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698908.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 698908
+    url: /works/698908/
   - title: Kakkou no Hi Takuran Sareta Tsuma Sono 3 | Day of The Cuck 3!
     author: nanashi-novel
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698911.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "translated"
-work_count: 2192
+work_count: 2194
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -220,6 +220,14 @@ works:
     date: '2026-09-06'
     code: 196238
     url: /works/196238/
+  - title: Kurashiki-sensei wa Hatsujouki (Fujiyama-san wa Shishunki) | Kurashiki-sensei
+      is in heat
+    author: shishiji
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/203238.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 203238
+    url: /works/203238/
   - title: PERSONAL TRAINING
     author: mitsuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/208284.jpg
@@ -1258,6 +1266,13 @@ works:
     date: '2026-09-06'
     code: 370164
     url: /works/370164/
+  - title: Hypnotized Princess
+    author: gomu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/373617.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 373617
+    url: /works/373617/
   - title: Motto Amaete | Get Spoiled Even More
     author: yuzuki-n-dash
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/373824.jpg

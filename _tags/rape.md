@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "rape"
-work_count: 296
+work_count: 297
 works:
   - title: Office Love Scramble Ch. 1
     author: tohzai
@@ -17,6 +17,14 @@ works:
     date: '2026-10-08'
     code: 179239
     url: /works/179239/
+  - title: Kurashiki-sensei wa Hatsujouki (Fujiyama-san wa Shishunki) | Kurashiki-sensei
+      is in heat
+    author: shishiji
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/203238.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 203238
+    url: /works/203238/
   - title: A-part | Apartment
     author: zero-no-mono
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/215019.jpg

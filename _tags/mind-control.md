@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "mind control"
-work_count: 82
+work_count: 83
 works:
   - title: Ayami Hypno
     author: yasuhiro
@@ -17,6 +17,13 @@ works:
     date: '2026-09-26'
     code: 309899
     url: /works/309899/
+  - title: Hypnotized Princess
+    author: gomu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/373617.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 373617
+    url: /works/373617/
   - title: Seigi no Mikata o Otosu Houhou | How To Subvert an Ally of Justice
     author: fuka
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/384737.jpg
