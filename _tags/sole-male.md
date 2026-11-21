@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole male"
-work_count: 1269
+work_count: 1271
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -9402,6 +9402,13 @@ works:
     date: '2026-11-17'
     code: 697736
     url: /works/697736/
+  - title: The Neighbor's Ex-Gyaru Mom Gets Ecchi in Her Thin Clothes
+    author: takezumi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698460.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 698460
+    url: /works/698460/
   - title: Koi 4 | Pre-Six Eyes & Limitless Satoru Gojo 5P with Yuki, Riko, Tsumiki,
       and Maki
     author: azukiko
@@ -9417,6 +9424,13 @@ works:
     date: '2026-11-21'
     code: 698893
     url: /works/698893/
+  - title: YOUR SISTER - CHAPTER 1-18
+    author: konparu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698956.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 698956
+    url: /works/698956/
   - title: Ranko-ppoi no! | Ranko-Ish!
     author: napata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/87393.jpg

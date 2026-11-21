@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "mosaic censorship"
-work_count: 424
+work_count: 425
 works:
   - title: Okki na Kanojo ni Amaetai | I want to be pampered by a girl of generous girth
     author: higashino-mikan
@@ -3132,4 +3132,12 @@ works:
     date: '2026-11-14'
     code: 696998
     url: /works/696998/
+  - title: Onnanoko ni Nattemo Nakayoku Shite ne | Even if I Turn Into a Girl, Let's
+      Stay Friends, Okay?
+    author: joushi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698985.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 698985
+    url: /works/698985/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big areolae"
-work_count: 161
+work_count: 162
 works:
   - title: Toshoshitsu no Kanojo ~Seiso na Kimi ga Ochiru made~
     author: ame-arare
@@ -1222,6 +1222,13 @@ works:
     date: '2026-11-17'
     code: 697736
     url: /works/697736/
+  - title: The Neighbor's Ex-Gyaru Mom Gets Ecchi in Her Thin Clothes
+    author: takezumi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698460.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 698460
+    url: /works/698460/
   - title: Koi 4 | Pre-Six Eyes & Limitless Satoru Gojo 5P with Yuki, Riko, Tsumiki,
       and Maki
     author: azukiko
