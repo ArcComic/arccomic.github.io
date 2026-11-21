@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "rough translation"
-work_count: 864
+work_count: 865
 works:
   - title: Boku no Shiranai Kimi no Kao
     author: utsutsu-minoru
@@ -6307,6 +6307,13 @@ works:
     date: '2026-11-21'
     code: 698893
     url: /works/698893/
+  - title: My corrupted female form
+    author: araki-kanao
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698910.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 698910
+    url: /works/698910/
   - title: 'Hooked on Newly Learned Sex: A Small-Fry Introvert'
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698934.jpg

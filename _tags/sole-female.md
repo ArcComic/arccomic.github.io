@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole female"
-work_count: 1353
+work_count: 1354
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -186,6 +186,13 @@ works:
     date: '2026-09-30'
     code: 246449
     url: /works/246449/
+  - title: Mash to Issho ni
+    author: blue-gk
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/263825.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 263825
+    url: /works/263825/
   - title: Tsuma no Imouto no Danna ga Ie ni Kiteiruyoudesu | My Sister-In-Law's Husband
       is Over
     author: arakure

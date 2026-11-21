@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "nakadashi"
-work_count: 1193
+work_count: 1195
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -101,6 +101,13 @@ works:
     date: '2026-10-08'
     code: 228426
     url: /works/228426/
+  - title: Mash to Issho ni
+    author: blue-gk
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/263825.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 263825
+    url: /works/263825/
   - title: Tsuma no Imouto no Danna ga Ie ni Kiteiruyoudesu | My Sister-In-Law's Husband
       is Over
     author: arakure
@@ -1431,6 +1438,14 @@ works:
     date: '2026-05-04'
     code: 484860
     url: /works/484860/
+  - title: "Gyoushounin Dirk to Mahou no Kouro | \tPeddler Dirk and the Magic Incense\
+      \ Burner"
+    author: nanashi-novel
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/485136.jpg
+    rating: 4.2
+    date: '2026-11-21'
+    code: 485136
+    url: /works/485136/
   - title: Meguri Ai | Fateful Encounter  (COMIC Anthurium 2023-12) [English] =NSS=
     author: nagareboshi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/485905.jpg

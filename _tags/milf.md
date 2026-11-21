@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "milf"
-work_count: 624
+work_count: 625
 works:
   - title: Life with Married Women Just Like a Manga 2 - Ch. 1-5
     author: hidemaru
@@ -875,6 +875,14 @@ works:
     date: '2026-09-27'
     code: 483537
     url: /works/483537/
+  - title: "Gyoushounin Dirk to Mahou no Kouro | \tPeddler Dirk and the Magic Incense\
+      \ Burner"
+    author: nanashi-novel
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/485136.jpg
+    rating: 4.2
+    date: '2026-11-21'
+    code: 485136
+    url: /works/485136/
   - title: Ero-ero Massage
     author: shin-yu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/485499.jpg

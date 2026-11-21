@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "doujinshi"
-work_count: 1861
+work_count: 1864
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -130,6 +130,13 @@ works:
     date: '2026-10-09'
     code: 262169
     url: /works/262169/
+  - title: Mash to Issho ni
+    author: blue-gk
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/263825.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 263825
+    url: /works/263825/
   - title: Tsuma no Imouto no Danna ga Ie ni Kiteiruyoudesu | My Sister-In-Law's Husband
       is Over
     author: arakure
@@ -1967,6 +1974,14 @@ works:
     date: '2026-05-04'
     code: 484860
     url: /works/484860/
+  - title: "Gyoushounin Dirk to Mahou no Kouro | \tPeddler Dirk and the Magic Incense\
+      \ Burner"
+    author: nanashi-novel
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/485136.jpg
+    rating: 4.2
+    date: '2026-11-21'
+    code: 485136
+    url: /works/485136/
   - title: Yasashii Kimi ni Ijiwaru Saretai | Gentle You, Bully Me
     author: kanashiro-no-hako
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/485876.jpg
@@ -13715,6 +13730,13 @@ works:
     date: '2026-11-21'
     code: 698893
     url: /works/698893/
+  - title: My corrupted female form
+    author: araki-kanao
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698910.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 698910
+    url: /works/698910/
   - title: Kakkou no Hi Takuran Sareta Tsuma Sono 3 | Day of The Cuck 3!
     author: nanashi-novel
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698911.jpg

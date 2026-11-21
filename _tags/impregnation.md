@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "impregnation"
-work_count: 217
+work_count: 218
 works:
   - title: Kousa suru Osu to Mesu | Male and Female Crossing
     author: ootsuka-kotora
@@ -361,6 +361,14 @@ works:
     date: '2026-02-28'
     code: 484852
     url: /works/484852/
+  - title: "Gyoushounin Dirk to Mahou no Kouro | \tPeddler Dirk and the Magic Incense\
+      \ Burner"
+    author: nanashi-novel
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/485136.jpg
+    rating: 4.2
+    date: '2026-11-21'
+    code: 485136
+    url: /works/485136/
   - title: Namaiki TS Yankee ga Zetsurin Taiiku Kyoushi no Onaho ni natte Akume Shiofuki
       Mesu Ochi Ninshin! [TS Delinquent becomes a gym teacher's onahole and Cums ❤ Squirts
       ❤ Falls as a Female ❤ Gets Pregnant ❤

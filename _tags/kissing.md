@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "kissing"
-work_count: 563
+work_count: 564
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -24,6 +24,13 @@ works:
     date: '2026-09-25'
     code: 215019
     url: /works/215019/
+  - title: Mash to Issho ni
+    author: blue-gk
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/263825.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 263825
+    url: /works/263825/
   - title: Virgin Chauwa! | I'm No Virgin!
     author: herio
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/267270.jpg
