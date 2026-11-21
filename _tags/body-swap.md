@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "body swap"
-work_count: 16
+work_count: 18
 works:
+  - title: Ojou-sama Irekawari
+    author: yuniba
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/292439.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 292439
+    url: /works/292439/
   - title: sequence irekaeru futari no karada
     author: iwashita
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/414040.jpg
@@ -54,6 +61,14 @@ works:
     date: '2026-10-07'
     code: 537946
     url: /works/537946/
+  - title: Boku Swap Ane ~Akogare no Onee-chan to Karada o Irekaerareteshimatta Boku~
+      | How I Switched Bodies With My Dear Onee-chan
+    author: siina-yuuki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/567189.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 567189
+    url: /works/567189/
   - title: Kawaii Tsun'aho/ I took in Runaway but She Swapped Bodies With Me!
     author: kawaii-tsunaho
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/649105.jpg

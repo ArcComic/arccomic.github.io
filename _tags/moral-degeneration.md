@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "moral degeneration"
-work_count: 51
+work_count: 52
 works:
   - title: Kanojo no SmaPho o Nozoita dake nano ni | I Just Snooped through Her Smartphone
     author: chocoro
@@ -40,6 +40,14 @@ works:
     date: '2026-05-07'
     code: 557052
     url: /works/557052/
+  - title: Boku Swap Ane ~Akogare no Onee-chan to Karada o Irekaerareteshimatta Boku~
+      | How I Switched Bodies With My Dear Onee-chan
+    author: siina-yuuki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/567189.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 567189
+    url: /works/567189/
   - title: Kugisaki Anal Otoshi
     author: ishigaki-takashi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/579976.jpg

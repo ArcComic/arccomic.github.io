@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "full color"
-work_count: 339
+work_count: 340
 works:
   - title: Pai☆Panic ~Hasamareta Dekapai~
     author: inkey
@@ -910,6 +910,14 @@ works:
     date: '2026-07-13'
     code: 565301
     url: /works/565301/
+  - title: Boku Swap Ane ~Akogare no Onee-chan to Karada o Irekaerareteshimatta Boku~
+      | How I Switched Bodies With My Dear Onee-chan
+    author: siina-yuuki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/567189.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 567189
+    url: /works/567189/
   - title: NIKKE Icha Love Ero Goudou "NIKKE☆Lover" | NIKKE Lovey-Dovey Ero Compendium
       "NIKKE☆Lover"
     author: kumakiti

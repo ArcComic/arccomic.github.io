@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sex toys"
-work_count: 175
+work_count: 176
 works:
   - title: Mama Naranai Onna-tachi Ch. 1-2
     author: otochichi
@@ -259,6 +259,14 @@ works:
     date: '2026-04-25'
     code: 562615
     url: /works/562615/
+  - title: Boku Swap Ane ~Akogare no Onee-chan to Karada o Irekaerareteshimatta Boku~
+      | How I Switched Bodies With My Dear Onee-chan
+    author: siina-yuuki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/567189.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 567189
+    url: /works/567189/
   - title: Massage-ten de Futanari Bijo ni Portio Acme Shikomareru Onnanoko
     author: ginger-lily
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/567532.jpg

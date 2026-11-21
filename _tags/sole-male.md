@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole male"
-work_count: 1272
+work_count: 1273
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -2876,6 +2876,14 @@ works:
     date: '2026-04-17'
     code: 566835
     url: /works/566835/
+  - title: Boku Swap Ane ~Akogare no Onee-chan to Karada o Irekaerareteshimatta Boku~
+      | How I Switched Bodies With My Dear Onee-chan
+    author: siina-yuuki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/567189.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 567189
+    url: /works/567189/
   - title: Kou demo Shinakya Akigumo-san 25-sai ga Teitoku to Hameru Kikai Isshou Konai
       desho | If She Doesn’t Do This, 25-Year-Old Akigumo-san Will Never Get the Chance
       to Fuck the Admiral, Right?

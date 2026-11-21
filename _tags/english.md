@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "english"
-work_count: 2240
+work_count: 2243
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -489,6 +489,13 @@ works:
     date: '2026-11-11'
     code: 289930
     url: /works/289930/
+  - title: Ojou-sama Irekawari
+    author: yuniba
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/292439.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 292439
+    url: /works/292439/
   - title: Oppai na Natsuyasumi 2 | The Summer Break of Boobs 2
     author: higashino-mikan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/292454.jpg
@@ -4699,6 +4706,14 @@ works:
     date: '2026-04-17'
     code: 566835
     url: /works/566835/
+  - title: Boku Swap Ane ~Akogare no Onee-chan to Karada o Irekaerareteshimatta Boku~
+      | How I Switched Bodies With My Dear Onee-chan
+    author: siina-yuuki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/567189.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 567189
+    url: /works/567189/
   - title: Kouhai Joshi ni Nakaiki o Oshiete Morau Hanashi | Getting Taught How To Climax
       Vaginally By My Junior
     author: tarara
@@ -7038,6 +7053,14 @@ works:
     date: '2026-09-25'
     code: 635879
     url: /works/635879/
+  - title: Boku ga Kayotteita no ha, Otokonoko wo Onnanoko ni Kaeteshimau Gakkou Deshita!
+      | The School I Went to Was a School That Turned Boys Into Girls!
+    author: yuukey
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/635882.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 635882
+    url: /works/635882/
   - title: Yojouhan no Femme Fatale - One-Room Femme Fatale | The Devilishness of a
       Small Room
     author: herio

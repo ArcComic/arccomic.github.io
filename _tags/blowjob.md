@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "blowjob"
-work_count: 938
+work_count: 939
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -3091,6 +3091,14 @@ works:
     date: '2026-09-25'
     code: 635879
     url: /works/635879/
+  - title: Boku ga Kayotteita no ha, Otokonoko wo Onnanoko ni Kaeteshimau Gakkou Deshita!
+      | The School I Went to Was a School That Turned Boys Into Girls!
+    author: yuukey
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/635882.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 635882
+    url: /works/635882/
   - title: Yojouhan no Femme Fatale - One-Room Femme Fatale | The Devilishness of a
       Small Room
     author: herio

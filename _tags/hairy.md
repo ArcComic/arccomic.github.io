@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "hairy"
-work_count: 450
+work_count: 451
 works:
   - title: MAGIC SEVEN
     author: asuhiro
@@ -1128,6 +1128,14 @@ works:
     date: '2026-04-17'
     code: 566835
     url: /works/566835/
+  - title: Boku Swap Ane ~Akogare no Onee-chan to Karada o Irekaerareteshimatta Boku~
+      | How I Switched Bodies With My Dear Onee-chan
+    author: siina-yuuki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/567189.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 567189
+    url: /works/567189/
   - title: Kouhai Joshi ni Nakaiki o Oshiete Morau Hanashi | Getting Taught How To Climax
       Vaginally By My Junior
     author: tarara

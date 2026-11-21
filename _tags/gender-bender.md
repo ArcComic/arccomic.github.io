@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "gender bender"
-work_count: 59
+work_count: 62
 works:
+  - title: Ojou-sama Irekawari
+    author: yuniba
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/292439.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 292439
+    url: /works/292439/
   - title: Seigi no Mikata o Otosu Houhou | How To Subvert an Ally of Justice
     author: fuka
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/384737.jpg
@@ -96,6 +103,14 @@ works:
     date: '2026-05-03'
     code: 540880
     url: /works/540880/
+  - title: Boku Swap Ane ~Akogare no Onee-chan to Karada o Irekaerareteshimatta Boku~
+      | How I Switched Bodies With My Dear Onee-chan
+    author: siina-yuuki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/567189.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 567189
+    url: /works/567189/
   - title: Seiki Gyakuten Kanojo ni Dakareru Nanokakan | Genital Swap ~Being Fucked
       By My Girlfriend For A Week~
     author: onaka-emi
@@ -134,6 +149,14 @@ works:
     date: '2026-11-10'
     code: 627260
     url: /works/627260/
+  - title: Boku ga Kayotteita no ha, Otokonoko wo Onnanoko ni Kaeteshimau Gakkou Deshita!
+      | The School I Went to Was a School That Turned Boys Into Girls!
+    author: yuukey
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/635882.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 635882
+    url: /works/635882/
   - title: Kekkon Sagishi ga Kowai Oji-san ni Oshioki Renzoku Zecchou saserareru Hanashi
     author: jouyatou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/644627.jpg

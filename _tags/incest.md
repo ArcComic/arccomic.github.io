@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "incest"
-work_count: 414
+work_count: 416
 works:
   - title: Imitation Family + Bigibo Hen
     author: tohzai
@@ -60,6 +60,13 @@ works:
     date: '2026-09-08'
     code: 287208
     url: /works/287208/
+  - title: Ojou-sama Irekawari
+    author: yuniba
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/292439.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 292439
+    url: /works/292439/
   - title: Oppai na Natsuyasumi 2 | The Summer Break of Boobs 2
     author: higashino-mikan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/292454.jpg
@@ -839,6 +846,14 @@ works:
     date: '2026-08-25'
     code: 563890
     url: /works/563890/
+  - title: Boku Swap Ane ~Akogare no Onee-chan to Karada o Irekaerareteshimatta Boku~
+      | How I Switched Bodies With My Dear Onee-chan
+    author: siina-yuuki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/567189.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 567189
+    url: /works/567189/
   - title: Tomo-ochi Boshisoukan | Co-Depraved Mother-Son Incest
     author: ozy
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/571271.jpg

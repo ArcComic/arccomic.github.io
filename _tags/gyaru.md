@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "gyaru"
-work_count: 188
+work_count: 189
 works:
   - title: GalPa!
     author: sakagami-umi
@@ -223,6 +223,14 @@ works:
     date: '2026-04-18'
     code: 549597
     url: /works/549597/
+  - title: Boku Swap Ane ~Akogare no Onee-chan to Karada o Irekaerareteshimatta Boku~
+      | How I Switched Bodies With My Dear Onee-chan
+    author: siina-yuuki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/567189.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 567189
+    url: /works/567189/
   - title: Namaiki JK ga Wakaraserareru Hon | Putting a Cheeky Gyaru in Her Place
     author: onkyu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/574409.jpg

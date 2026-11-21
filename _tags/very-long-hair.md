@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "very long hair"
-work_count: 88
+work_count: 89
 works:
   - title: Joshikousei Sennyuu Repo ~Hanzaisha ga Onnanoko ni Hyoui shite mita~
     author: touchuu-kasou
@@ -163,6 +163,14 @@ works:
     date: '2026-03-04'
     code: 634157
     url: /works/634157/
+  - title: Boku ga Kayotteita no ha, Otokonoko wo Onnanoko ni Kaeteshimau Gakkou Deshita!
+      | The School I Went to Was a School That Turned Boys Into Girls!
+    author: yuukey
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/635882.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 635882
+    url: /works/635882/
   - title: Fetishism Vol. 20 ~Ashikoki Hen~
     author: shinooka-homare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/637252.jpg
