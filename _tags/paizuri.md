@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "paizuri"
-work_count: 335
+work_count: 336
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -2514,4 +2514,11 @@ works:
     date: '2026-11-21'
     code: 698640
     url: /works/698640/
+  - title: 'Hooked on Newly Learned Sex: A Small-Fry Introvert'
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698934.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 698934
+    url: /works/698934/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole female"
-work_count: 1344
+work_count: 1345
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -9949,6 +9949,13 @@ works:
     date: '2026-11-21'
     code: 698893
     url: /works/698893/
+  - title: 'Hooked on Newly Learned Sex: A Small-Fry Introvert'
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698934.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 698934
+    url: /works/698934/
   - title: Onnanoko ni Nattemo Nakayoku Shite ne | Even if I Turn Into a Girl, Let's
       Stay Friends, Okay?
     author: joushi

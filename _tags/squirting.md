@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "squirting"
-work_count: 217
+work_count: 219
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -1628,4 +1628,18 @@ works:
     date: '2026-11-21'
     code: 698640
     url: /works/698640/
+  - title: Otsukare Hitozuma no Tame no Futonari ni Yoru Biyaku Oil Massage
+    author: shrimp-cake
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698681.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 698681
+    url: /works/698681/
+  - title: 'Hooked on Newly Learned Sex: A Small-Fry Introvert'
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698934.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 698934
+    url: /works/698934/
 ---

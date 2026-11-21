@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "gokkun"
-work_count: 100
+work_count: 101
 works:
   - title: Virgin Chauwa! | I'm No Virgin!
     author: herio
@@ -752,6 +752,13 @@ works:
     date: '2026-11-21'
     code: 698891
     url: /works/698891/
+  - title: 'Hooked on Newly Learned Sex: A Small-Fry Introvert'
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698934.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 698934
+    url: /works/698934/
   - title: Onnanoko ni Nattemo Nakayoku Shite ne | Even if I Turn Into a Girl, Let's
       Stay Friends, Okay?
     author: joushi

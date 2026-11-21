@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "breast feeding"
-work_count: 134
+work_count: 135
 works:
   - title: Okki na Kanojo ni Amaetai | I want to be pampered by a girl of generous girth
     author: higashino-mikan
@@ -1008,6 +1008,13 @@ works:
     date: '2026-11-21'
     code: 698891
     url: /works/698891/
+  - title: 'Hooked on Newly Learned Sex: A Small-Fry Introvert'
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698934.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 698934
+    url: /works/698934/
   - title: YOUR SISTER - CHAPTER 1-18
     author: konparu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698956.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "nakadashi"
-work_count: 1185
+work_count: 1186
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -8791,6 +8791,13 @@ works:
     date: '2026-11-21'
     code: 698640
     url: /works/698640/
+  - title: Otsukare Hitozuma no Tame no Futonari ni Yoru Biyaku Oil Massage
+    author: shrimp-cake
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698681.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 698681
+    url: /works/698681/
   - title: Onnanoko ni Nattemo Nakayoku Shite ne | Even if I Turn Into a Girl, Let's
       Stay Friends, Okay?
     author: joushi
