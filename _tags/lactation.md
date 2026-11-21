@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "lactation"
-work_count: 53
+work_count: 54
 works:
   - title: Mama Naranai Onna-tachi Ch. 1-2
     author: otochichi
@@ -382,6 +382,13 @@ works:
     date: '2026-11-14'
     code: 696732
     url: /works/696732/
+  - title: Kakkou no Hi Takuran Sareta Tsuma Sono 3 | Day of The Cuck 3!
+    author: nanashi-novel
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698911.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 698911
+    url: /works/698911/
   - title: Jokyoushi - Hot For Teachers | Female Teachers
     author: drill-murata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/81375.jpg

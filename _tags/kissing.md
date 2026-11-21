@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "kissing"
-work_count: 559
+work_count: 561
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -4169,6 +4169,13 @@ works:
     date: '2026-11-21'
     code: 698882
     url: /works/698882/
+  - title: Kakkou no Hi Takuran Sareta Tsuma Sono 3 | Day of The Cuck 3!
+    author: nanashi-novel
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698911.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 698911
+    url: /works/698911/
   - title: 'The Anal Poop Girl, re: Aya the New Bride'
     author: goma-gorilla
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698937.jpg
@@ -4198,4 +4205,11 @@ works:
     date: '2026-11-21'
     code: 698998
     url: /works/698998/
+  - title: Muramura Suzumura
+    author: plum
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/699058.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 699058
+    url: /works/699058/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "shotacon"
-work_count: 187
+work_count: 188
 works:
   - title: Okki na Kanojo ni Amaetai | I want to be pampered by a girl of generous girth
     author: higashino-mikan
@@ -31,6 +31,13 @@ works:
     date: '2026-09-24'
     code: 238110
     url: /works/238110/
+  - title: Natsu no Hyoui
+    author: yuniba
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/286003.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 286003
+    url: /works/286003/
   - title: Oppai na Natsuyasumi 2 | The Summer Break of Boobs 2
     author: higashino-mikan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/292454.jpg

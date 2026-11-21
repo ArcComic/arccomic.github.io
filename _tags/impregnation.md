@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "impregnation"
-work_count: 216
+work_count: 217
 works:
   - title: Kousa suru Osu to Mesu | Male and Female Crossing
     author: ootsuka-kotora
@@ -1596,6 +1596,13 @@ works:
     date: '2026-11-21'
     code: 698460
     url: /works/698460/
+  - title: Kakkou no Hi Takuran Sareta Tsuma Sono 3 | Day of The Cuck 3!
+    author: nanashi-novel
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698911.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 698911
+    url: /works/698911/
   - title: Inin Keiyaku | Lewd Pregnancy Contract
     author: yoshiura-kazuya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/83595.jpg

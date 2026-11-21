@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "multiple orgasms"
-work_count: 157
+work_count: 158
 works:
   - title: Rako Slip!
     author: bujidearu
@@ -1175,4 +1175,11 @@ works:
     date: '2026-11-14'
     code: 696916
     url: /works/696916/
+  - title: Kakkou no Hi Takuran Sareta Tsuma Sono 3 | Day of The Cuck 3!
+    author: nanashi-novel
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698911.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 698911
+    url: /works/698911/
 ---

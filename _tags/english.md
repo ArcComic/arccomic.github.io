@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "english"
-work_count: 2246
+work_count: 2249
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -432,6 +432,13 @@ works:
     date: '2026-10-12'
     code: 285110
     url: /works/285110/
+  - title: Natsu no Hyoui
+    author: yuniba
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/286003.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 286003
+    url: /works/286003/
   - title: Hikki Mother Fucker
     author: otochichi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/287208.jpg
@@ -16468,6 +16475,13 @@ works:
     date: '2026-11-21'
     code: 698893
     url: /works/698893/
+  - title: Kakkou no Hi Takuran Sareta Tsuma Sono 3 | Day of The Cuck 3!
+    author: nanashi-novel
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698911.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 698911
+    url: /works/698911/
   - title: 'Hooked on Newly Learned Sex: A Small-Fry Introvert'
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698934.jpg
@@ -16504,6 +16518,13 @@ works:
     date: '2026-11-21'
     code: 698998
     url: /works/698998/
+  - title: Muramura Suzumura
+    author: plum
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/699058.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 699058
+    url: /works/699058/
   - title: Hottokenaino
     author: hara-shigeyuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/77864.jpg

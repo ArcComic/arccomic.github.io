@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "x-ray"
-work_count: 501
+work_count: 503
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -3723,6 +3723,13 @@ works:
     date: '2026-11-21'
     code: 698893
     url: /works/698893/
+  - title: Kakkou no Hi Takuran Sareta Tsuma Sono 3 | Day of The Cuck 3!
+    author: nanashi-novel
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698911.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 698911
+    url: /works/698911/
   - title: 'Hooked on Newly Learned Sex: A Small-Fry Introvert'
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698934.jpg
@@ -3752,4 +3759,11 @@ works:
     date: '2026-11-21'
     code: 698998
     url: /works/698998/
+  - title: Muramura Suzumura
+    author: plum
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/699058.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 699058
+    url: /works/699058/
 ---
