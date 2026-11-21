@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "manga"
-work_count: 473
+work_count: 475
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -698,6 +698,13 @@ works:
     date: '2026-09-06'
     code: 417221
     url: /works/417221/
+  - title: No Pants Day Kanojo
+    author: plum
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/417687.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 417687
+    url: /works/417687/
   - title: You Said Just the Tip… I Asked My Brother's Girlfriend to Have Sex With Me
       Without a Condom!!
     author: kotobuki-maimu
@@ -2008,6 +2015,13 @@ works:
     date: '2026-09-09'
     code: 651967
     url: /works/651967/
+  - title: Sister Contrast 1.5
+    author: 92m
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/652555.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 652555
+    url: /works/652555/
   - title: Gibo o , Densha de ... | My Stepmother on The Train...
     author: gonza
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/652801.jpg
@@ -3364,14 +3378,14 @@ works:
       Front of You 45
     author: nakao
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698882.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-11-21'
     code: 698882
     url: /works/698882/
   - title: YOUR SISTER - CHAPTER 1-18
     author: konparu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698956.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-11-21'
     code: 698956
     url: /works/698956/

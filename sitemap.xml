@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://arccomic.github.io/</loc><lastmod>2026-11-21</lastmod></url>
-  <url><loc>https://arccomic.github.io/tags/</loc><lastmod>2026-11-21</lastmod></url>
-  <url><loc>https://arccomic.github.io/artists/</loc><lastmod>2026-11-21</lastmod></url>
+  <url><loc>https://arccomic.github.io/</loc><lastmod>2026-11-22</lastmod></url>
+  <url><loc>https://arccomic.github.io/tags/</loc><lastmod>2026-11-22</lastmod></url>
+  <url><loc>https://arccomic.github.io/artists/</loc><lastmod>2026-11-22</lastmod></url>
   <url><loc>https://arccomic.github.io/works/103606/</loc><lastmod>2026-10-09</lastmod></url>
   <url><loc>https://arccomic.github.io/works/103680/</loc><lastmod>2026-04-17</lastmod></url>
   <url><loc>https://arccomic.github.io/works/106500/</loc><lastmod>2026-10-09</lastmod></url>
@@ -50,6 +50,7 @@
   <url><loc>https://arccomic.github.io/works/244812/</loc><lastmod>2026-04-19</lastmod></url>
   <url><loc>https://arccomic.github.io/works/246449/</loc><lastmod>2026-09-30</lastmod></url>
   <url><loc>https://arccomic.github.io/works/262169/</loc><lastmod>2026-10-09</lastmod></url>
+  <url><loc>https://arccomic.github.io/works/263825/</loc><lastmod>2026-11-21</lastmod></url>
   <url><loc>https://arccomic.github.io/works/265933/</loc><lastmod>2026-02-28</lastmod></url>
   <url><loc>https://arccomic.github.io/works/267270/</loc><lastmod>2026-11-20</lastmod></url>
   <url><loc>https://arccomic.github.io/works/269224/</loc><lastmod>2026-09-29</lastmod></url>
@@ -183,6 +184,7 @@
   <url><loc>https://arccomic.github.io/works/369139/</loc><lastmod>2026-09-13</lastmod></url>
   <url><loc>https://arccomic.github.io/works/369382/</loc><lastmod>2026-04-13</lastmod></url>
   <url><loc>https://arccomic.github.io/works/369712/</loc><lastmod>2026-10-15</lastmod></url>
+  <url><loc>https://arccomic.github.io/works/369736/</loc><lastmod>2026-11-21</lastmod></url>
   <url><loc>https://arccomic.github.io/works/370164/</loc><lastmod>2026-09-06</lastmod></url>
   <url><loc>https://arccomic.github.io/works/373824/</loc><lastmod>2026-09-12</lastmod></url>
   <url><loc>https://arccomic.github.io/works/373952/</loc><lastmod>2026-09-28</lastmod></url>
@@ -264,6 +266,7 @@
   <url><loc>https://arccomic.github.io/works/416852/</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://arccomic.github.io/works/416883/</loc><lastmod>2026-04-27</lastmod></url>
   <url><loc>https://arccomic.github.io/works/417221/</loc><lastmod>2026-09-06</lastmod></url>
+  <url><loc>https://arccomic.github.io/works/417687/</loc><lastmod>2026-11-21</lastmod></url>
   <url><loc>https://arccomic.github.io/works/418819/</loc><lastmod>2026-11-14</lastmod></url>
   <url><loc>https://arccomic.github.io/works/419017/</loc><lastmod>2026-05-05</lastmod></url>
   <url><loc>https://arccomic.github.io/works/419235/</loc><lastmod>2026-04-19</lastmod></url>
@@ -396,6 +399,7 @@
   <url><loc>https://arccomic.github.io/works/483537/</loc><lastmod>2026-09-27</lastmod></url>
   <url><loc>https://arccomic.github.io/works/484852/</loc><lastmod>2026-02-28</lastmod></url>
   <url><loc>https://arccomic.github.io/works/484860/</loc><lastmod>2026-05-04</lastmod></url>
+  <url><loc>https://arccomic.github.io/works/485136/</loc><lastmod>2026-11-21</lastmod></url>
   <url><loc>https://arccomic.github.io/works/485499/</loc><lastmod>2026-11-08</lastmod></url>
   <url><loc>https://arccomic.github.io/works/485876/</loc><lastmod>2026-10-11</lastmod></url>
   <url><loc>https://arccomic.github.io/works/485905/</loc><lastmod>2026-04-15</lastmod></url>
@@ -1276,6 +1280,7 @@
   <url><loc>https://arccomic.github.io/works/652456/</loc><lastmod>2026-11-14</lastmod></url>
   <url><loc>https://arccomic.github.io/works/652471/</loc><lastmod>2026-05-26</lastmod></url>
   <url><loc>https://arccomic.github.io/works/652502/</loc><lastmod>2026-05-26</lastmod></url>
+  <url><loc>https://arccomic.github.io/works/652555/</loc><lastmod>2026-11-21</lastmod></url>
   <url><loc>https://arccomic.github.io/works/652605/</loc><lastmod>2026-05-26</lastmod></url>
   <url><loc>https://arccomic.github.io/works/652606/</loc><lastmod>2026-05-26</lastmod></url>
   <url><loc>https://arccomic.github.io/works/652625/</loc><lastmod>2026-05-26</lastmod></url>
@@ -2319,6 +2324,7 @@
   <url><loc>https://arccomic.github.io/works/698882/</loc><lastmod>2026-11-21</lastmod></url>
   <url><loc>https://arccomic.github.io/works/698891/</loc><lastmod>2026-11-21</lastmod></url>
   <url><loc>https://arccomic.github.io/works/698893/</loc><lastmod>2026-11-21</lastmod></url>
+  <url><loc>https://arccomic.github.io/works/698910/</loc><lastmod>2026-11-21</lastmod></url>
   <url><loc>https://arccomic.github.io/works/698911/</loc><lastmod>2026-11-21</lastmod></url>
   <url><loc>https://arccomic.github.io/works/698934/</loc><lastmod>2026-11-21</lastmod></url>
   <url><loc>https://arccomic.github.io/works/698937/</loc><lastmod>2026-11-21</lastmod></url>
@@ -2346,7 +2352,7 @@
   <url><loc>https://arccomic.github.io/tags/7-rensa/</loc><lastmod>2026-11-10</lastmod></url>
   <url><loc>https://arccomic.github.io/tags/7zu7/</loc><lastmod>2026-09-09</lastmod></url>
   <url><loc>https://arccomic.github.io/tags/810eru/</loc><lastmod>2026-04-17</lastmod></url>
-  <url><loc>https://arccomic.github.io/tags/92m/</loc><lastmod>2026-10-17</lastmod></url>
+  <url><loc>https://arccomic.github.io/tags/92m/</loc><lastmod>2026-11-21</lastmod></url>
   <url><loc>https://arccomic.github.io/tags/a-shika/</loc><lastmod>2026-08-21</lastmod></url>
   <url><loc>https://arccomic.github.io/tags/a2me/</loc><lastmod>2026-04-25</lastmod></url>
   <url><loc>https://arccomic.github.io/tags/aa-aikawa-doujou/</loc><lastmod>2026-08-18</lastmod></url>
@@ -3364,6 +3370,7 @@
   <url><loc>https://arccomic.github.io/tags/k-h/</loc><lastmod>2026-10-26</lastmod></url>
   <url><loc>https://arccomic.github.io/tags/kaduki/</loc><lastmod>2026-05-04</lastmod></url>
   <url><loc>https://arccomic.github.io/tags/kaede-takagaki/</loc><lastmod>2026-10-09</lastmod></url>
+  <url><loc>https://arccomic.github.io/tags/kaenuco/</loc><lastmod>2026-11-21</lastmod></url>
   <url><loc>https://arccomic.github.io/tags/kagami/</loc><lastmod>2026-09-06</lastmod></url>
   <url><loc>https://arccomic.github.io/tags/kagamino-mochiko/</loc><lastmod>2026-08-21</lastmod></url>
   <url><loc>https://arccomic.github.io/tags/kagono-tori/</loc><lastmod>2026-02-26</lastmod></url>
@@ -4281,6 +4288,7 @@
   <url><loc>https://arccomic.github.io/tags/rinrikoko/</loc><lastmod>2026-07-11</lastmod></url>
   <url><loc>https://arccomic.github.io/tags/rinsun/</loc><lastmod>2026-11-20</lastmod></url>
   <url><loc>https://arccomic.github.io/tags/rio-tsukatsuki/</loc><lastmod>2026-09-18</lastmod></url>
+  <url><loc>https://arccomic.github.io/tags/ririo-gatto/</loc><lastmod>2026-11-21</lastmod></url>
   <url><loc>https://arccomic.github.io/tags/ritsuko-akizuki/</loc><lastmod>2026-10-12</lastmod></url>
   <url><loc>https://arccomic.github.io/tags/rk-2/</loc><lastmod>2026-10-17</lastmod></url>
   <url><loc>https://arccomic.github.io/tags/robot/</loc><lastmod>2026-11-11</lastmod></url>
@@ -4432,6 +4440,7 @@
   <url><loc>https://arccomic.github.io/tags/shibari/</loc><lastmod>2026-11-21</lastmod></url>
   <url><loc>https://arccomic.github.io/tags/shibasaki-shouji/</loc><lastmod>2026-09-04</lastmod></url>
   <url><loc>https://arccomic.github.io/tags/shibasaki-syouzi/</loc><lastmod>2026-09-04</lastmod></url>
+  <url><loc>https://arccomic.github.io/tags/shielder/</loc><lastmod>2026-11-21</lastmod></url>
   <url><loc>https://arccomic.github.io/tags/shiftalton/</loc><lastmod>2026-03-07</lastmod></url>
   <url><loc>https://arccomic.github.io/tags/shiho-kitazawa/</loc><lastmod>2026-09-15</lastmod></url>
   <url><loc>https://arccomic.github.io/tags/shiho-nishizumi/</loc><lastmod>2026-11-11</lastmod></url>
@@ -5046,7 +5055,7 @@
   <url><loc>https://arccomic.github.io/artists/41/</loc><lastmod>2026-09-28</lastmod></url>
   <url><loc>https://arccomic.github.io/artists/7zu7/</loc><lastmod>2026-09-09</lastmod></url>
   <url><loc>https://arccomic.github.io/artists/810eru/</loc><lastmod>2026-04-17</lastmod></url>
-  <url><loc>https://arccomic.github.io/artists/92m/</loc><lastmod>2026-08-29</lastmod></url>
+  <url><loc>https://arccomic.github.io/artists/92m/</loc><lastmod>2026-11-21</lastmod></url>
   <url><loc>https://arccomic.github.io/artists/a-shika/</loc><lastmod>2026-08-21</lastmod></url>
   <url><loc>https://arccomic.github.io/artists/a2me/</loc><lastmod>2026-04-25</lastmod></url>
   <url><loc>https://arccomic.github.io/artists/abbb/</loc><lastmod>2026-10-12</lastmod></url>
@@ -5099,6 +5108,7 @@
   <url><loc>https://arccomic.github.io/artists/aquotz/</loc><lastmod>2026-09-22</lastmod></url>
   <url><loc>https://arccomic.github.io/artists/arai-kei/</loc><lastmod>2026-07-09</lastmod></url>
   <url><loc>https://arccomic.github.io/artists/araido-kagiri/</loc><lastmod>2026-09-29</lastmod></url>
+  <url><loc>https://arccomic.github.io/artists/araki-kanao/</loc><lastmod>2026-11-21</lastmod></url>
   <url><loc>https://arccomic.github.io/artists/arakige-tanji/</loc><lastmod>2026-10-05</lastmod></url>
   <url><loc>https://arccomic.github.io/artists/arakure/</loc><lastmod>2026-09-16</lastmod></url>
   <url><loc>https://arccomic.github.io/artists/aramaki-echizen/</loc><lastmod>2026-09-19</lastmod></url>
@@ -5141,6 +5151,7 @@
   <url><loc>https://arccomic.github.io/artists/binsen/</loc><lastmod>2026-10-21</lastmod></url>
   <url><loc>https://arccomic.github.io/artists/blackftos/</loc><lastmod>2026-05-03</lastmod></url>
   <url><loc>https://arccomic.github.io/artists/bloiler-yachou/</loc><lastmod>2026-08-23</lastmod></url>
+  <url><loc>https://arccomic.github.io/artists/blue-gk/</loc><lastmod>2026-11-21</lastmod></url>
   <url><loc>https://arccomic.github.io/artists/bodaijun/</loc><lastmod>2026-09-23</lastmod></url>
   <url><loc>https://arccomic.github.io/artists/bonske/</loc><lastmod>2026-07-09</lastmod></url>
   <url><loc>https://arccomic.github.io/artists/borikori/</loc><lastmod>2026-03-03</lastmod></url>
@@ -5429,6 +5440,7 @@
   <url><loc>https://arccomic.github.io/artists/juna-juna-juice/</loc><lastmod>2026-10-02</lastmod></url>
   <url><loc>https://arccomic.github.io/artists/junsei-chuurenpoutou/</loc><lastmod>2026-04-25</lastmod></url>
   <url><loc>https://arccomic.github.io/artists/kaduki/</loc><lastmod>2026-05-04</lastmod></url>
+  <url><loc>https://arccomic.github.io/artists/kaenuco/</loc><lastmod>2026-11-21</lastmod></url>
   <url><loc>https://arccomic.github.io/artists/kagami/</loc><lastmod>2026-09-06</lastmod></url>
   <url><loc>https://arccomic.github.io/artists/kagamino-mochiko/</loc><lastmod>2026-08-21</lastmod></url>
   <url><loc>https://arccomic.github.io/artists/kagono-tori/</loc><lastmod>2026-02-26</lastmod></url>

@@ -64,7 +64,7 @@ works:
   - title: Natsu no Hyoui
     author: yuniba
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/286003.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-11-21'
     code: 286003
     url: /works/286003/
@@ -79,7 +79,7 @@ works:
   - title: Ojou-sama Irekawari
     author: yuniba
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/292439.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-11-21'
     code: 292439
     url: /works/292439/
@@ -1044,7 +1044,7 @@ works:
   - title: The Wife Next Door at an Urban Renaissance Housing Complex is being NTR'ed
     author: edogawa-koubou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/454233.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-21'
     code: 454233
     url: /works/454233/
@@ -2767,7 +2767,7 @@ works:
       | How I Switched Bodies With My Dear Onee-chan
     author: siina-yuuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/567189.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-11-21'
     code: 567189
     url: /works/567189/
@@ -3382,7 +3382,7 @@ works:
       (Hahahen) | How my Beautiful Mother and Child Neighbors Got Possessed by an Alien
     author: kuratsuka-riko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/596933.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-11-21'
     code: 596933
     url: /works/596933/
@@ -4563,7 +4563,7 @@ works:
       | The School I Went to Was a School That Turned Boys Into Girls!
     author: yuukey
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/635882.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-11-21'
     code: 635882
     url: /works/635882/

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "kimono"
-work_count: 68
+work_count: 69
 works:
   - title: Hitozuma Hyakka
     author: hase-tsubura
@@ -31,6 +31,13 @@ works:
     date: '2026-09-12'
     code: 354384
     url: /works/354384/
+  - title: Marshmallow Vacation
+    author: kaenuco
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/369736.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 369736
+    url: /works/369736/
   - title: Kaisha no Iki Okure BBA Haramaseta | [Tragic News] I Knocked Up The Old Maid
       From My Office
     author: special-g
@@ -512,7 +519,7 @@ works:
   - title: Kakkou no Hi Takuran Sareta Tsuma Sono 3 | Day of The Cuck 3!
     author: nanashi-novel
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698911.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-11-21'
     code: 698911
     url: /works/698911/

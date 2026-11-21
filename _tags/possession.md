@@ -6,7 +6,7 @@ works:
   - title: Natsu no Hyoui
     author: yuniba
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/286003.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-11-21'
     code: 286003
     url: /works/286003/
@@ -94,7 +94,7 @@ works:
       (Hahahen) | How my Beautiful Mother and Child Neighbors Got Possessed by an Alien
     author: kuratsuka-riko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/596933.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-11-21'
     code: 596933
     url: /works/596933/

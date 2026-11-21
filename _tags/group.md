@@ -575,7 +575,7 @@ works:
       | How I Switched Bodies With My Dear Onee-chan
     author: siina-yuuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/567189.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-11-21'
     code: 567189
     url: /works/567189/
@@ -2472,7 +2472,7 @@ works:
       and Maki
     author: azukiko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698891.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-11-21'
     code: 698891
     url: /works/698891/
@@ -2480,14 +2480,14 @@ works:
       Stay Friends, Okay?
     author: joushi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698985.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-11-21'
     code: 698985
     url: /works/698985/
   - title: Touchuukasou Legion
     author: fuetakishi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698998.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-11-21'
     code: 698998
     url: /works/698998/

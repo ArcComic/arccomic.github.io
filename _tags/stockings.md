@@ -664,7 +664,7 @@ works:
       | How I Switched Bodies With My Dear Onee-chan
     author: siina-yuuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/567189.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-11-21'
     code: 567189
     url: /works/567189/
@@ -2320,14 +2320,14 @@ works:
   - title: The Neighbor's Ex-Gyaru Mom Gets Ecchi in Her Thin Clothes
     author: takezumi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698460.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-11-21'
     code: 698460
     url: /works/698460/
   - title: Deco x Deco - Decoration x Decorative
     author: metsubushi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698640.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-11-21'
     code: 698640
     url: /works/698640/
@@ -2335,14 +2335,14 @@ works:
       Stay Friends, Okay?
     author: joushi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698985.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-11-21'
     code: 698985
     url: /works/698985/
   - title: Touchuukasou Legion
     author: fuetakishi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698998.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-11-21'
     code: 698998
     url: /works/698998/

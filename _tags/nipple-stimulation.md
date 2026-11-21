@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "nipple stimulation"
-work_count: 235
+work_count: 236
 works:
   - title: Hypnotic Domination ~ The Fall of Tennis Club Ace ~
     author: danchino
@@ -736,6 +736,13 @@ works:
     date: '2026-09-30'
     code: 651928
     url: /works/651928/
+  - title: Sister Contrast 1.5
+    author: 92m
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/652555.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 652555
+    url: /works/652555/
   - title: Senpai to no Ecchi na Douga de Kasegu Hanashi | The Story of Earning Money
       with a Video of Steamy French Kissing with my Senpai
     author: mmchair
@@ -1727,14 +1734,14 @@ works:
   - title: Deco x Deco - Decoration x Decorative
     author: metsubushi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698640.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-11-21'
     code: 698640
     url: /works/698640/
   - title: Otsukare Hitozuma no Tame no Futonari ni Yoru Biyaku Oil Massage
     author: shrimp-cake
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698681.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-11-21'
     code: 698681
     url: /works/698681/
@@ -1742,35 +1749,35 @@ works:
       and Maki
     author: azukiko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698891.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-11-21'
     code: 698891
     url: /works/698891/
   - title: 1Shuukan Gyaku Netorare -Kanojo no Haha ni Seiheki o Kuruwasareta Boku-
     author: shrimp-cake
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698893.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-21'
     code: 698893
     url: /works/698893/
   - title: Kakkou no Hi Takuran Sareta Tsuma Sono 3 | Day of The Cuck 3!
     author: nanashi-novel
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698911.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-11-21'
     code: 698911
     url: /works/698911/
   - title: YOUR SISTER - CHAPTER 1-18
     author: konparu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698956.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-11-21'
     code: 698956
     url: /works/698956/
   - title: Muramura Suzumura
     author: plum
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/699058.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-11-21'
     code: 699058
     url: /works/699058/

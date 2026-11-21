@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "wholesome"
-work_count: 254
+work_count: 255
 works:
   - title: FLUFFY LAUGH GIRL
     author: shibasaki-syouzi
@@ -1271,6 +1271,13 @@ works:
     date: '2026-05-26'
     code: 652502
     url: /works/652502/
+  - title: Sister Contrast 1.5
+    author: 92m
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/652555.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 652555
+    url: /works/652555/
   - title: My Impertinent and Curt Kouhai Becomes Surprisingly Clingy???
     author: buki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/652667.jpg

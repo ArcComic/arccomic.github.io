@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sister"
-work_count: 139
+work_count: 140
 works:
   - title: Imitation Family + Bigibo Hen
     author: tohzai
@@ -13,14 +13,14 @@ works:
   - title: Natsu no Hyoui
     author: yuniba
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/286003.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-11-21'
     code: 286003
     url: /works/286003/
   - title: Ojou-sama Irekawari
     author: yuniba
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/292439.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-11-21'
     code: 292439
     url: /works/292439/
@@ -474,6 +474,13 @@ works:
     date: '2026-05-07'
     code: 648460
     url: /works/648460/
+  - title: Sister Contrast 1.5
+    author: 92m
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/652555.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 652555
+    url: /works/652555/
   - title: Kimi Omou Koi - I think of you.
     author: gentsuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/653792.jpg
@@ -1010,7 +1017,7 @@ works:
   - title: Touchuukasou Legion
     author: fuetakishi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698998.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-11-21'
     code: 698998
     url: /works/698998/

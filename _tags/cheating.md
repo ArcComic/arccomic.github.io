@@ -637,7 +637,7 @@ works:
   - title: The Wife Next Door at an Urban Renaissance Housing Complex is being NTR'ed
     author: edogawa-koubou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/454233.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-21'
     code: 454233
     url: /works/454233/
@@ -3721,35 +3721,35 @@ works:
   - title: The Neighbor's Ex-Gyaru Mom Gets Ecchi in Her Thin Clothes
     author: takezumi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698460.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-11-21'
     code: 698460
     url: /works/698460/
   - title: Otsukare Hitozuma no Tame no Futonari ni Yoru Biyaku Oil Massage
     author: shrimp-cake
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698681.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-11-21'
     code: 698681
     url: /works/698681/
   - title: 1Shuukan Gyaku Netorare -Kanojo no Haha ni Seiheki o Kuruwasareta Boku-
     author: shrimp-cake
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698893.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-21'
     code: 698893
     url: /works/698893/
   - title: Kakkou no Hi Takuran Sareta Tsuma Sono 3 | Day of The Cuck 3!
     author: nanashi-novel
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698911.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-11-21'
     code: 698911
     url: /works/698911/
   - title: Touchuukasou Legion
     author: fuetakishi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698998.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-11-21'
     code: 698998
     url: /works/698998/

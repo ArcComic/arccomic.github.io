@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole male"
-work_count: 1277
+work_count: 1279
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -805,6 +805,13 @@ works:
     date: '2026-09-13'
     code: 369139
     url: /works/369139/
+  - title: Marshmallow Vacation
+    author: kaenuco
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/369736.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 369736
+    url: /works/369736/
   - title: Shirotaegiku | Dusty miller
     author: hiroya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/370164.jpg
@@ -2880,7 +2887,7 @@ works:
       | How I Switched Bodies With My Dear Onee-chan
     author: siina-yuuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/567189.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-11-21'
     code: 567189
     url: /works/567189/
@@ -5526,6 +5533,13 @@ works:
     date: '2026-05-26'
     code: 652502
     url: /works/652502/
+  - title: Sister Contrast 1.5
+    author: 92m
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/652555.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 652555
+    url: /works/652555/
   - title: Kaa-san no Nude Model o Shite Itara, Kaa-san no Panchira Mite Bokki Shite
       Shimai, Soshite...... | I was acting as a nude model for my mom, but then... I
       caught a glimpse of her panties, got a boner, and well...
@@ -9413,7 +9427,7 @@ works:
   - title: The Neighbor's Ex-Gyaru Mom Gets Ecchi in Her Thin Clothes
     author: takezumi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698460.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-11-21'
     code: 698460
     url: /works/698460/
@@ -9421,7 +9435,7 @@ works:
       Front of You 45
     author: nakao
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698882.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-11-21'
     code: 698882
     url: /works/698882/
@@ -9429,49 +9443,49 @@ works:
       and Maki
     author: azukiko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698891.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-11-21'
     code: 698891
     url: /works/698891/
   - title: 1Shuukan Gyaku Netorare -Kanojo no Haha ni Seiheki o Kuruwasareta Boku-
     author: shrimp-cake
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698893.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-21'
     code: 698893
     url: /works/698893/
   - title: Kakkou no Hi Takuran Sareta Tsuma Sono 3 | Day of The Cuck 3!
     author: nanashi-novel
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698911.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-11-21'
     code: 698911
     url: /works/698911/
   - title: 'Hooked on Newly Learned Sex: A Small-Fry Introvert'
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698934.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-11-21'
     code: 698934
     url: /works/698934/
   - title: 'The Anal Poop Girl, re: Aya the New Bride'
     author: goma-gorilla
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698937.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-11-21'
     code: 698937
     url: /works/698937/
   - title: YOUR SISTER - CHAPTER 1-18
     author: konparu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698956.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-11-21'
     code: 698956
     url: /works/698956/
   - title: Muramura Suzumura
     author: plum
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/699058.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-11-21'
     code: 699058
     url: /works/699058/

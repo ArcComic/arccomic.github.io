@@ -1477,7 +1477,7 @@ works:
       | The School I Went to Was a School That Turned Boys Into Girls!
     author: yuukey
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/635882.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-11-21'
     code: 635882
     url: /works/635882/
@@ -3489,21 +3489,21 @@ works:
   - title: Deco x Deco - Decoration x Decorative
     author: metsubushi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698640.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-11-21'
     code: 698640
     url: /works/698640/
   - title: 'Hooked on Newly Learned Sex: A Small-Fry Introvert'
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698934.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-11-21'
     code: 698934
     url: /works/698934/
   - title: YOUR SISTER - CHAPTER 1-18
     author: konparu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698956.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-11-21'
     code: 698956
     url: /works/698956/
@@ -3511,7 +3511,7 @@ works:
       Stay Friends, Okay?
     author: joushi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698985.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-11-21'
     code: 698985
     url: /works/698985/

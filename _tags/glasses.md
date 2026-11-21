@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "glasses"
-work_count: 355
+work_count: 356
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -436,7 +436,7 @@ works:
   - title: The Wife Next Door at an Urban Renaissance Housing Complex is being NTR'ed
     author: edogawa-koubou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/454233.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-21'
     code: 454233
     url: /works/454233/
@@ -958,7 +958,7 @@ works:
       (Hahahen) | How my Beautiful Mother and Child Neighbors Got Possessed by an Alien
     author: kuratsuka-riko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/596933.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-11-21'
     code: 596933
     url: /works/596933/
@@ -1431,6 +1431,13 @@ works:
     date: '2026-05-26'
     code: 652218
     url: /works/652218/
+  - title: Sister Contrast 1.5
+    author: 92m
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/652555.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 652555
+    url: /works/652555/
   - title: Mou Ichido, Kimi no Egao ga Mitai | I Want to See Your Smile Again
     author: toi-deisuke
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/652937.jpg
@@ -2589,14 +2596,14 @@ works:
   - title: Deco x Deco - Decoration x Decorative
     author: metsubushi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698640.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-11-21'
     code: 698640
     url: /works/698640/
   - title: Otsukare Hitozuma no Tame no Futonari ni Yoru Biyaku Oil Massage
     author: shrimp-cake
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698681.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-11-21'
     code: 698681
     url: /works/698681/

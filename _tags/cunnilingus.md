@@ -1859,7 +1859,7 @@ works:
   - title: Deco x Deco - Decoration x Decorative
     author: metsubushi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698640.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-11-21'
     code: 698640
     url: /works/698640/
@@ -1867,21 +1867,21 @@ works:
       and Maki
     author: azukiko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698891.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-11-21'
     code: 698891
     url: /works/698891/
   - title: YOUR SISTER - CHAPTER 1-18
     author: konparu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698956.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-11-21'
     code: 698956
     url: /works/698956/
   - title: Touchuukasou Legion
     author: fuetakishi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698998.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-11-21'
     code: 698998
     url: /works/698998/

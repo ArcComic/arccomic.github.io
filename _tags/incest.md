@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "incest"
-work_count: 417
+work_count: 418
 works:
   - title: Imitation Family + Bigibo Hen
     author: tohzai
@@ -56,7 +56,7 @@ works:
   - title: Natsu no Hyoui
     author: yuniba
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/286003.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-11-21'
     code: 286003
     url: /works/286003/
@@ -70,7 +70,7 @@ works:
   - title: Ojou-sama Irekawari
     author: yuniba
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/292439.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-11-21'
     code: 292439
     url: /works/292439/
@@ -857,7 +857,7 @@ works:
       | How I Switched Bodies With My Dear Onee-chan
     author: siina-yuuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/567189.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-11-21'
     code: 567189
     url: /works/567189/
@@ -1677,6 +1677,13 @@ works:
     date: '2026-09-30'
     code: 651928
     url: /works/651928/
+  - title: Sister Contrast 1.5
+    author: 92m
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/652555.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 652555
+    url: /works/652555/
   - title: Kaa-san no Nude Model o Shite Itara, Kaa-san no Panchira Mite Bokki Shite
       Shimai, Soshite...... | I was acting as a nude model for my mom, but then... I
       caught a glimpse of her panties, got a boner, and well...

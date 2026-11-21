@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "gudao"
-work_count: 9
+work_count: 10
 works:
   - title: PERSONAL TRAINING
     author: mitsuki
@@ -10,6 +10,13 @@ works:
     date: '2026-11-08'
     code: 208284
     url: /works/208284/
+  - title: Marshmallow Vacation
+    author: kaenuco
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/369736.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 369736
+    url: /works/369736/
   - title: Midara Midareru Hime Jijou | The Dirty And Confused Girl's Circumstances
     author: nekomata-naomi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/373952.jpg

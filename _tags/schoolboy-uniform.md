@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "schoolboy uniform"
-work_count: 151
+work_count: 152
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -190,6 +190,13 @@ works:
     date: '2026-09-09'
     code: 414300
     url: /works/414300/
+  - title: No Pants Day Kanojo
+    author: plum
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/417687.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 417687
+    url: /works/417687/
   - title: Koi no Susumekata | How to Advance Your Love
     author: danimaru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/425528.jpg
@@ -1090,14 +1097,14 @@ works:
   - title: 'Hooked on Newly Learned Sex: A Small-Fry Introvert'
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698934.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-11-21'
     code: 698934
     url: /works/698934/
   - title: YOUR SISTER - CHAPTER 1-18
     author: konparu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698956.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-11-21'
     code: 698956
     url: /works/698956/
@@ -1105,7 +1112,7 @@ works:
       Stay Friends, Okay?
     author: joushi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698985.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-11-21'
     code: 698985
     url: /works/698985/

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "shotacon"
-work_count: 188
+work_count: 189
 works:
   - title: Okki na Kanojo ni Amaetai | I want to be pampered by a girl of generous girth
     author: higashino-mikan
@@ -34,7 +34,7 @@ works:
   - title: Natsu no Hyoui
     author: yuniba
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/286003.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-11-21'
     code: 286003
     url: /works/286003/
@@ -429,7 +429,7 @@ works:
       | How I Switched Bodies With My Dear Onee-chan
     author: siina-yuuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/567189.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-11-21'
     code: 567189
     url: /works/567189/
@@ -839,6 +839,13 @@ works:
     date: '2026-09-30'
     code: 651928
     url: /works/651928/
+  - title: Sister Contrast 1.5
+    author: 92m
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/652555.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 652555
+    url: /works/652555/
   - title: Atashi no Hou ga Tsuyoi Hazudattanoni!
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/652605.jpg

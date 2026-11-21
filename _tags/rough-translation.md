@@ -1309,7 +1309,7 @@ works:
       | The School I Went to Was a School That Turned Boys Into Girls!
     author: yuukey
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/635882.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-11-21'
     code: 635882
     url: /works/635882/
@@ -6274,21 +6274,21 @@ works:
   - title: The Neighbor's Ex-Gyaru Mom Gets Ecchi in Her Thin Clothes
     author: takezumi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698460.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-11-21'
     code: 698460
     url: /works/698460/
   - title: Deco x Deco - Decoration x Decorative
     author: metsubushi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698640.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-11-21'
     code: 698640
     url: /works/698640/
   - title: Otsukare Hitozuma no Tame no Futonari ni Yoru Biyaku Oil Massage
     author: shrimp-cake
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698681.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-11-21'
     code: 698681
     url: /works/698681/
@@ -6296,28 +6296,28 @@ works:
       and Maki
     author: azukiko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698891.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-11-21'
     code: 698891
     url: /works/698891/
   - title: 1Shuukan Gyaku Netorare -Kanojo no Haha ni Seiheki o Kuruwasareta Boku-
     author: shrimp-cake
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698893.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-21'
     code: 698893
     url: /works/698893/
   - title: 'Hooked on Newly Learned Sex: A Small-Fry Introvert'
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698934.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-11-21'
     code: 698934
     url: /works/698934/
   - title: 'The Anal Poop Girl, re: Aya the New Bride'
     author: goma-gorilla
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698937.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-11-21'
     code: 698937
     url: /works/698937/
@@ -6325,14 +6325,14 @@ works:
       Stay Friends, Okay?
     author: joushi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698985.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-11-21'
     code: 698985
     url: /works/698985/
   - title: Muramura Suzumura
     author: plum
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/699058.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-11-21'
     code: 699058
     url: /works/699058/

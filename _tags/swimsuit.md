@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "swimsuit"
-work_count: 117
+work_count: 118
 works:
   - title: Kizashi
     author: yoshiura-kazuya
@@ -101,6 +101,13 @@ works:
     date: '2026-10-07'
     code: 409385
     url: /works/409385/
+  - title: No Pants Day Kanojo
+    author: plum
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/417687.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 417687
+    url: /works/417687/
   - title: Sukina Hito, Sukina Koto
     author: ebi-fry-teishoku
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/452482.jpg
@@ -885,7 +892,7 @@ works:
   - title: Touchuukasou Legion
     author: fuetakishi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698998.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-11-21'
     code: 698998
     url: /works/698998/

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "nakadashi"
-work_count: 1191
+work_count: 1193
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -552,6 +552,13 @@ works:
     date: '2026-04-13'
     code: 369382
     url: /works/369382/
+  - title: Marshmallow Vacation
+    author: kaenuco
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/369736.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 369736
+    url: /works/369736/
   - title: Shirotaegiku | Dusty miller
     author: hiroya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/370164.jpg
@@ -824,6 +831,13 @@ works:
     date: '2026-04-27'
     code: 416883
     url: /works/416883/
+  - title: No Pants Day Kanojo
+    author: plum
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/417687.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 417687
+    url: /works/417687/
   - title: Soujuku DREAMER | Premature DREAMER
     author: ueto-seri
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/418819.jpg
@@ -2429,7 +2443,7 @@ works:
       | How I Switched Bodies With My Dear Onee-chan
     author: siina-yuuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/567189.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-11-21'
     code: 567189
     url: /works/567189/
@@ -2987,7 +3001,7 @@ works:
       (Hahahen) | How my Beautiful Mother and Child Neighbors Got Possessed by an Alien
     author: kuratsuka-riko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/596933.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-11-21'
     code: 596933
     url: /works/596933/
@@ -8796,35 +8810,35 @@ works:
   - title: The Neighbor's Ex-Gyaru Mom Gets Ecchi in Her Thin Clothes
     author: takezumi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698460.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-11-21'
     code: 698460
     url: /works/698460/
   - title: Deco x Deco - Decoration x Decorative
     author: metsubushi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698640.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-11-21'
     code: 698640
     url: /works/698640/
   - title: Otsukare Hitozuma no Tame no Futonari ni Yoru Biyaku Oil Massage
     author: shrimp-cake
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698681.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-11-21'
     code: 698681
     url: /works/698681/
   - title: Kakkou no Hi Takuran Sareta Tsuma Sono 3 | Day of The Cuck 3!
     author: nanashi-novel
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698911.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-11-21'
     code: 698911
     url: /works/698911/
   - title: 'The Anal Poop Girl, re: Aya the New Bride'
     author: goma-gorilla
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698937.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-11-21'
     code: 698937
     url: /works/698937/
@@ -8832,14 +8846,14 @@ works:
       Stay Friends, Okay?
     author: joushi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698985.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-11-21'
     code: 698985
     url: /works/698985/
   - title: Touchuukasou Legion
     author: fuetakishi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698998.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-11-21'
     code: 698998
     url: /works/698998/
