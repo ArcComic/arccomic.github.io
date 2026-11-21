@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "multi-work series"
-work_count: 523
+work_count: 524
 works:
   - title: Konna ni mo Itooshii Zero
     author: nohito
@@ -10,6 +10,14 @@ works:
     date: '2026-10-09'
     code: 179622
     url: /works/179622/
+  - title: Kokuru no o Tamerattetara Itsunomanika Charao ni Hameraremakutteta Boku no
+      Osananajimi 2
+    author: edogawa-koubou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/264505.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 264505
+    url: /works/264505/
   - title: Datenshi Corruption II
     author: napo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/275471.jpg

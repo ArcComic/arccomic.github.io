@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "voyeurism"
-work_count: 86
+work_count: 87
 works:
   - title: Tsutomesaki no Musume-san o Oishiku Itadaku Hon Minshuku Hen
     author: aya
@@ -31,6 +31,14 @@ works:
     date: '2026-04-23'
     code: 329551
     url: /works/329551/
+  - title: Boku wa Tsuma ga Netorare Nando mo Ikasareru Sugata o Mitsuzuketa. | I Kept
+      Watching While a Man Made My Wife Cum Over and Over
+    author: sanku
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/341892.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 341892
+    url: /works/341892/
   - title: Soubo Soukan | Twin Mother Incest Ch. 1
     author: nanao-yukiji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/356516.jpg

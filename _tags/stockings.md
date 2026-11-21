@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "stockings"
-work_count: 321
+work_count: 322
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -1152,6 +1152,14 @@ works:
     date: '2026-05-20'
     code: 651338
     url: /works/651338/
+  - title: TS Kaihen Note de Yaritai Houdai!? | Do Whatever You Want with the TS Transformation
+      Notebook!?
+    author: joushi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651861.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 651861
+    url: /works/651861/
   - title: Muchi Muchi Tennen Joshidaisei no Dosukebe Jorei Taikenroku | The Chunky,
       Defenseless, Airheaded University Girl Get's A Crash Course In Perverted Exorcisms!
     author: inamimi

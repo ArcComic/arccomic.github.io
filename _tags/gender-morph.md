@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "gender morph"
-work_count: 36
+work_count: 37
 works:
   - title: Seigi no Mikata o Otosu Houhou | How To Subvert an Ally of Justice
     author: fuka
@@ -157,6 +157,14 @@ works:
     date: '2026-10-07'
     code: 651820
     url: /works/651820/
+  - title: TS Kaihen Note de Yaritai Houdai!? | Do Whatever You Want with the TS Transformation
+      Notebook!?
+    author: joushi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651861.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 651861
+    url: /works/651861/
   - title: Netori Otoko o Mesu ni suru | Turning the Cuckolding Prick into a Bitch
     author: yonayona
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/654218.jpg

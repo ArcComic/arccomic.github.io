@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "amuai okashi seisakusho"
-work_count: 7
+work_count: 8
 works:
   - title: Wafuu Seiso na Ano Musume ga Irekawatta Ore no Karada de Otoko no Seiyoku
       ni Dohamari Suru Nante... | I Can't Believe this Pure, Traditionally Japanese
@@ -28,6 +28,14 @@ works:
     date: '2026-10-07'
     code: 651820
     url: /works/651820/
+  - title: TS Kaihen Note de Yaritai Houdai!? | Do Whatever You Want with the TS Transformation
+      Notebook!?
+    author: joushi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651861.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 651861
+    url: /works/651861/
   - title: 'Hyoui AV AV Joyuu no Karada o Sukihoudai Suru Hanashi | Possession AV: A
       story about doing whatever you want with a porn star''s body'
     author: ame-no-machi

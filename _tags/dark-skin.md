@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "dark skin"
-work_count: 221
+work_count: 222
 works:
   - title: Birthday
     author: hashiba-yachi
@@ -941,6 +941,14 @@ works:
     date: '2026-05-21'
     code: 651499
     url: /works/651499/
+  - title: TS Kaihen Note de Yaritai Houdai!? | Do Whatever You Want with the TS Transformation
+      Notebook!?
+    author: joushi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651861.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 651861
+    url: /works/651861/
   - title: REMIND ME & Beautiful Days Without You
     author: 3e
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/652639.jpg

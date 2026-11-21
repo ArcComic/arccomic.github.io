@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "mosaic censorship"
-work_count: 429
+work_count: 431
 works:
   - title: Okki na Kanojo ni Amaetai | I want to be pampered by a girl of generous girth
     author: higashino-mikan
@@ -45,6 +45,14 @@ works:
     date: '2026-04-19'
     code: 244812
     url: /works/244812/
+  - title: Kokuru no o Tamerattetara Itsunomanika Charao ni Hameraremakutteta Boku no
+      Osananajimi 2
+    author: edogawa-koubou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/264505.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 264505
+    url: /works/264505/
   - title: Yuri no o saifu ni shite agemasu ne, Senpai | I'll turn you into Yuri's wallet,
       Senpai
     author: doskoinpo
@@ -1918,6 +1926,14 @@ works:
     date: '2026-09-04'
     code: 651854
     url: /works/651854/
+  - title: TS Kaihen Note de Yaritai Houdai!? | Do Whatever You Want with the TS Transformation
+      Notebook!?
+    author: joushi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651861.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 651861
+    url: /works/651861/
   - title: Kaa-san no Nude Model o Shite Itara, Kaa-san no Panchira Mite Bokki Shite
       Shimai, Soshite...... | I was acting as a nude model for my mom, but then... I
       caught a glimpse of her panties, got a boner, and well...

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "netorare"
-work_count: 578
+work_count: 580
 works:
   - title: Kousa suru Osu to Mesu | Male and Female Crossing
     author: ootsuka-kotora
@@ -52,6 +52,14 @@ works:
     date: '2026-09-30'
     code: 246449
     url: /works/246449/
+  - title: Kokuru no o Tamerattetara Itsunomanika Charao ni Hameraremakutteta Boku no
+      Osananajimi 2
+    author: edogawa-koubou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/264505.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 264505
+    url: /works/264505/
   - title: Tsuma no Imouto no Danna ga Ie ni Kiteiruyoudesu | My Sister-In-Law's Husband
       is Over
     author: arakure
@@ -201,6 +209,14 @@ works:
     date: '2026-10-18'
     code: 336370
     url: /works/336370/
+  - title: Boku wa Tsuma ga Netorare Nando mo Ikasareru Sugata o Mitsuzuketa. | I Kept
+      Watching While a Man Made My Wife Cum Over and Over
+    author: sanku
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/341892.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 341892
+    url: /works/341892/
   - title: Hito no Tsuma | Someone's Wife
     author: yumi-ichirou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/349247.jpg

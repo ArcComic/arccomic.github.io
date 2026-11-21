@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole female"
-work_count: 1361
+work_count: 1363
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -193,6 +193,14 @@ works:
     date: '2026-11-21'
     code: 263825
     url: /works/263825/
+  - title: Kokuru no o Tamerattetara Itsunomanika Charao ni Hameraremakutteta Boku no
+      Osananajimi 2
+    author: edogawa-koubou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/264505.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 264505
+    url: /works/264505/
   - title: Tsuma no Imouto no Danna ga Ie ni Kiteiruyoudesu | My Sister-In-Law's Husband
       is Over
     author: arakure
@@ -641,6 +649,14 @@ works:
     date: '2026-09-15'
     code: 339953
     url: /works/339953/
+  - title: Boku wa Tsuma ga Netorare Nando mo Ikasareru Sugata o Mitsuzuketa. | I Kept
+      Watching While a Man Made My Wife Cum Over and Over
+    author: sanku
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/341892.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 341892
+    url: /works/341892/
   - title: Love Divided Between a Rock and a Hard Place Ch.1
     author: cabin
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/342540.jpg

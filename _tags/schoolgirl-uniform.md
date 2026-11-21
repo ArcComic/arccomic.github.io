@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "schoolgirl uniform"
-work_count: 474
+work_count: 476
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -66,6 +66,14 @@ works:
     date: '2026-10-09'
     code: 262169
     url: /works/262169/
+  - title: Kokuru no o Tamerattetara Itsunomanika Charao ni Hameraremakutteta Boku no
+      Osananajimi 2
+    author: edogawa-koubou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/264505.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 264505
+    url: /works/264505/
   - title: Chihaya to Seifuku! | Chihaya and Uniform!
     author: tsurui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/280836.jpg
@@ -1854,6 +1862,14 @@ works:
     date: '2026-09-04'
     code: 651854
     url: /works/651854/
+  - title: TS Kaihen Note de Yaritai Houdai!? | Do Whatever You Want with the TS Transformation
+      Notebook!?
+    author: joushi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651861.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 651861
+    url: /works/651861/
   - title: Tooi Kimi ni, Boku wa Todokanai | I can't reach you, far away.
     author: futamine-kobito
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651967.jpg

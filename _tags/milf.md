@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "milf"
-work_count: 629
+work_count: 630
 works:
   - title: Life with Married Women Just Like a Manga 2 - Ch. 1-5
     author: hidemaru
@@ -272,6 +272,14 @@ works:
     date: '2026-08-20'
     code: 332781
     url: /works/332781/
+  - title: Boku wa Tsuma ga Netorare Nando mo Ikasareru Sugata o Mitsuzuketa. | I Kept
+      Watching While a Man Made My Wife Cum Over and Over
+    author: sanku
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/341892.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 341892
+    url: /works/341892/
   - title: Yokkyuu Fuman na Danchizuma wa Ikenai Kairaku ni Oboreru
     author: yanagawa-rio
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/342500.jpg

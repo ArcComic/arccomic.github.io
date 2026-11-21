@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "beauty mark"
-work_count: 278
+work_count: 279
 works:
   - title: Uragiri no Ai wa Mitsu no Aji | Treacherous Love Tastes Like Honey
     author: cuzukago
@@ -146,6 +146,14 @@ works:
     date: '2026-09-18'
     code: 333923
     url: /works/333923/
+  - title: Boku wa Tsuma ga Netorare Nando mo Ikasareru Sugata o Mitsuzuketa. | I Kept
+      Watching While a Man Made My Wife Cum Over and Over
+    author: sanku
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/341892.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 341892
+    url: /works/341892/
   - title: Miboujin no Haha ・Sayoko ~Yojouhan ni Sumu Oyako no Koubi Kiroku~| Widowed
       Mother Sayoko ~Record of a Copulation of a Mother and Son Living in a Small Room~
     author: spices
