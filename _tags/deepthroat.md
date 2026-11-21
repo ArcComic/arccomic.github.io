@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "deepthroat"
-work_count: 142
+work_count: 143
 works:
   - title: Toshishita Chin Kui Obasan
     author: maccha-neji
@@ -140,6 +140,13 @@ works:
     date: '2026-11-10'
     code: 563632
     url: /works/563632/
+  - title: Atashi de…. | For me...
+    author: orita
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/565998.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 565998
+    url: /works/565998/
   - title: Atashi wo…. | Use me...
     author: orita
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/567893.jpg

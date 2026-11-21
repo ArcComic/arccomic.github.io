@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole male"
-work_count: 1263
+work_count: 1265
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -1729,6 +1729,14 @@ works:
     date: '2026-04-17'
     code: 481441
     url: /works/481441/
+  - title: Hahaoya ni Kokuhaku Shitara Ichinichi dake Sex o Sasete Kureta Hanashi 2
+      | I Confessed to My Mom and She Let Me Have A One-Day-Only Sex-Fest 2
+    author: spices
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/481734.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 481734
+    url: /works/481734/
   - title: Sweet Smell
     author: gyouza-teishoku
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/481827.jpg
@@ -2846,6 +2854,13 @@ works:
     date: '2026-11-12'
     code: 565597
     url: /works/565597/
+  - title: Atashi de…. | For me...
+    author: orita
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/565998.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 565998
+    url: /works/565998/
   - title: Konki Girigiri Sister, Semete Shojo wo Sutetai | If I Can't Be Married At
       Least Let Me Quit Being a Virgin
     author: torii-yoshitsuna

@@ -1,7 +1,7 @@
 ---
 layout: artist
 artist_name: "spices"
-work_count: 8
+work_count: 10
 works:
   - title: Okorinbo Mama no Amayakashi Sex de Furyou Musuko ga Kousei Shita Hanashi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/298945.jpg
@@ -9,6 +9,12 @@ works:
     date: '2026-11-21'
     code: 298945
     url: /works/298945/
+  - title: Ijimerarekko no Hahaoya ga Hamedori suru Batsu Game ni Makikomareta Kekka
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/306256.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 306256
+    url: /works/306256/
   - title: Musuko ni Nando mo Kudokarete Konmake Shita Haha
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/329864.jpg
     rating: 0.0
@@ -36,6 +42,13 @@ works:
     date: '2026-11-20'
     code: 446943
     url: /works/446943/
+  - title: Hahaoya ni Kokuhaku Shitara Ichinichi dake Sex o Sasete Kureta Hanashi 2
+      | I Confessed to My Mom and She Let Me Have A One-Day-Only Sex-Fest 2
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/481734.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 481734
+    url: /works/481734/
   - title: Ousama Game no Meirei de Haha to Sex Shita Hanashi | I Ordered My Mom to
       Have Sex with Me in King's Game
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/501637.jpg

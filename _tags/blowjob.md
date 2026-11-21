@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "blowjob"
-work_count: 925
+work_count: 928
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -201,6 +201,13 @@ works:
     date: '2026-09-29'
     code: 304307
     url: /works/304307/
+  - title: Ijimerarekko no Hahaoya ga Hamedori suru Batsu Game ni Makikomareta Kekka
+    author: spices
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/306256.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 306256
+    url: /works/306256/
   - title: Ayami Hypno
     author: yasuhiro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/306363.jpg
@@ -1032,6 +1039,14 @@ works:
     date: '2026-11-20'
     code: 480320
     url: /works/480320/
+  - title: Hahaoya ni Kokuhaku Shitara Ichinichi dake Sex o Sasete Kureta Hanashi 2
+      | I Confessed to My Mom and She Let Me Have A One-Day-Only Sex-Fest 2
+    author: spices
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/481734.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 481734
+    url: /works/481734/
   - title: Ijime no Daishou wa Hahaoya no Karada de.
     author: daidai-shikibu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/482859.jpg
@@ -1835,6 +1850,13 @@ works:
     date: '2026-10-11'
     code: 564656
     url: /works/564656/
+  - title: Atashi de…. | For me...
+    author: orita
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/565998.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 565998
+    url: /works/565998/
   - title: Konki Girigiri Sister, Semete Shojo wo Sutetai | If I Can't Be Married At
       Least Let Me Quit Being a Virgin
     author: torii-yoshitsuna

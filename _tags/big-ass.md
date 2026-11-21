@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big ass"
-work_count: 379
+work_count: 381
 works:
   - title: My Care Lady Ch. 1
     author: sugi-g
@@ -60,6 +60,13 @@ works:
     date: '2026-04-16'
     code: 304548
     url: /works/304548/
+  - title: Ijimerarekko no Hahaoya ga Hamedori suru Batsu Game ni Makikomareta Kekka
+    author: spices
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/306256.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 306256
+    url: /works/306256/
   - title: Furuhonya no Onee-san to | With The Lady From The Used Book Shop
     author: nodame
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/306522.jpg
@@ -277,6 +284,14 @@ works:
     date: '2026-03-02'
     code: 455844
     url: /works/455844/
+  - title: Hahaoya ni Kokuhaku Shitara Ichinichi dake Sex o Sasete Kureta Hanashi 2
+      | I Confessed to My Mom and She Let Me Have A One-Day-Only Sex-Fest 2
+    author: spices
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/481734.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 481734
+    url: /works/481734/
   - title: Mou Ichido, Shitemitai. | I Want to Try It Again.
     author: danimaru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/485930.jpg

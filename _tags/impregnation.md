@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "impregnation"
-work_count: 212
+work_count: 214
 works:
   - title: Kousa suru Osu to Mesu | Male and Female Crossing
     author: ootsuka-kotora
@@ -59,6 +59,13 @@ works:
     date: '2026-11-21'
     code: 298945
     url: /works/298945/
+  - title: Ijimerarekko no Hahaoya ga Hamedori suru Batsu Game ni Makikomareta Kekka
+    author: spices
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/306256.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 306256
+    url: /works/306256/
   - title: Mizugi no Shita no Yuuwaku | Temptation Beneath The Swimsuit
     author: gustav
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/314536.jpg
@@ -331,6 +338,14 @@ works:
     date: '2026-10-15'
     code: 474458
     url: /works/474458/
+  - title: Hahaoya ni Kokuhaku Shitara Ichinichi dake Sex o Sasete Kureta Hanashi 2
+      | I Confessed to My Mom and She Let Me Have A One-Day-Only Sex-Fest 2
+    author: spices
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/481734.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 481734
+    url: /works/481734/
   - title: Tomodachi no Mama ga Boku no Dekachin de Ikimakutta Oshougatsu Otoshidama
       Soushuuhen
     author: rk-2

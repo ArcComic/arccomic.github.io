@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "schoolgirl uniform"
-work_count: 466
+work_count: 467
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -102,6 +102,13 @@ works:
     date: '2026-09-29'
     code: 304307
     url: /works/304307/
+  - title: Ijimerarekko no Hahaoya ga Hamedori suru Batsu Game ni Makikomareta Kekka
+    author: spices
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/306256.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 306256
+    url: /works/306256/
   - title: Gakkou to Bed ja Seihantai no, Okkina Kanojo. | My Big Girlfriend Acts the
       Polar Opposite in Bed and at School.
     author: mikemono-yuu

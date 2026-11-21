@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sucharaka knight"
-work_count: 5
+work_count: 6
 works:
   - title: Genkai Drake-san | Drake-san's Limit
     author: orita
@@ -25,6 +25,13 @@ works:
     date: '2026-11-21'
     code: 534101
     url: /works/534101/
+  - title: Atashi de…. | For me...
+    author: orita
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/565998.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 565998
+    url: /works/565998/
   - title: Atashi wo…. | Use me...
     author: orita
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/567893.jpg

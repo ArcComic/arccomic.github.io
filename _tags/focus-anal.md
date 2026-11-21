@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "focus anal"
-work_count: 9
+work_count: 10
 works:
   - title: Iemoto no Uwaki ga Honki ni Natta Hi Zenpen | The Day the Grand Master's
       Affair Became Serious Part One
@@ -11,6 +11,13 @@ works:
     date: '2026-09-24'
     code: 521674
     url: /works/521674/
+  - title: Atashi de…. | For me...
+    author: orita
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/565998.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 565998
+    url: /works/565998/
   - title: Kugisaki Anal Otoshi
     author: ishigaki-takashi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/579976.jpg
