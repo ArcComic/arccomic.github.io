@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "twintails"
-work_count: 172
+work_count: 173
 works:
   - title: Sensei wa Shougakusei ga Suki | Sensei Loves Elementary Schoolers
     author: fuyuno-mikan
@@ -1270,4 +1270,12 @@ works:
     date: '2026-11-14'
     code: 696732
     url: /works/696732/
+  - title: Koi 4 | Pre-Six Eyes & Limitless Satoru Gojo 5P with Yuki, Riko, Tsumiki,
+      and Maki
+    author: azukiko
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698891.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 698891
+    url: /works/698891/
 ---

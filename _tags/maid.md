@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "maid"
-work_count: 66
+work_count: 67
 works:
   - title: Maid no Oshigoto. II | Maid's Work II
     author: alexi-laiho
@@ -73,7 +73,7 @@ works:
   - title: Na, shounen? | Hey, boy?
     author: orita
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/534101.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-11-21'
     code: 534101
     url: /works/534101/
@@ -491,6 +491,13 @@ works:
     date: '2026-11-17'
     code: 697894
     url: /works/697894/
+  - title: Deco x Deco - Decoration x Decorative
+    author: metsubushi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698640.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 698640
+    url: /works/698640/
   - title: Hottokenaino
     author: hara-shigeyuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/77864.jpg

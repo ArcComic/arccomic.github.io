@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "handjob"
-work_count: 217
+work_count: 218
 works:
   - title: Rin to P
     author: simon
@@ -42,7 +42,7 @@ works:
   - title: Okorinbo Mama no Amayakashi Sex de Furyou Musuko ga Kousei Shita Hanashi
     author: spices
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/298945.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-21'
     code: 298945
     url: /works/298945/
@@ -56,7 +56,7 @@ works:
   - title: Ijimerarekko no Hahaoya ga Hamedori suru Batsu Game ni Makikomareta Kekka
     author: spices
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/306256.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-11-21'
     code: 306256
     url: /works/306256/
@@ -196,7 +196,7 @@ works:
   - title: Musabori tsukushite! Rinko Sensei
     author: shiono-kou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/434238.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-11-21'
     code: 434238
     url: /works/434238/
@@ -1621,6 +1621,13 @@ works:
     date: '2026-11-17'
     code: 697894
     url: /works/697894/
+  - title: Deco x Deco - Decoration x Decorative
+    author: metsubushi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698640.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 698640
+    url: /works/698640/
   - title: Onee-chan no SM Kouza | Onee-chan's S&M Lecture
     author: shinooka-homare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/88750.jpg

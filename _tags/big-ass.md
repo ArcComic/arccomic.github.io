@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big ass"
-work_count: 381
+work_count: 382
 works:
   - title: My Care Lady Ch. 1
     author: sugi-g
@@ -63,7 +63,7 @@ works:
   - title: Ijimerarekko no Hahaoya ga Hamedori suru Batsu Game ni Makikomareta Kekka
     author: spices
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/306256.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-11-21'
     code: 306256
     url: /works/306256/
@@ -214,7 +214,7 @@ works:
   - title: Senjou no Misshitsu | The honey room of sensation
     author: shiono-kou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/412584.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-11-21'
     code: 412584
     url: /works/412584/
@@ -257,7 +257,7 @@ works:
   - title: Musabori tsukushite! Rinko Sensei
     author: shiono-kou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/434238.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-11-21'
     code: 434238
     url: /works/434238/
@@ -288,7 +288,7 @@ works:
       | I Confessed to My Mom and She Let Me Have A One-Day-Only Sex-Fest 2
     author: spices
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/481734.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-11-21'
     code: 481734
     url: /works/481734/
@@ -782,7 +782,7 @@ works:
   - title: Eigyou Saki no Yuuko-san - Part 3 -
     author: shiono-kou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/623377.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-11-21'
     code: 623377
     url: /works/623377/
@@ -2848,6 +2848,13 @@ works:
     date: '2026-11-17'
     code: 697894
     url: /works/697894/
+  - title: 1Shuukan Gyaku Netorare -Kanojo no Haha ni Seiheki o Kuruwasareta Boku-
+    author: shrimp-cake
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698893.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 698893
+    url: /works/698893/
   - title: Inin Keiyaku | Lewd Pregnancy Contract
     author: yoshiura-kazuya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/83595.jpg

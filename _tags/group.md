@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "group"
-work_count: 335
+work_count: 336
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -206,7 +206,7 @@ works:
   - title: Senjou no Misshitsu | The honey room of sensation
     author: shiono-kou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/412584.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-11-21'
     code: 412584
     url: /works/412584/
@@ -221,7 +221,7 @@ works:
       with a tradition of taking their son's virginity
     author: spices
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/426827.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-11-21'
     code: 426827
     url: /works/426827/
@@ -2460,4 +2460,12 @@ works:
     date: '2026-11-17'
     code: 697894
     url: /works/697894/
+  - title: Koi 4 | Pre-Six Eyes & Limitless Satoru Gojo 5P with Yuki, Riko, Tsumiki,
+      and Maki
+    author: azukiko
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698891.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 698891
+    url: /works/698891/
 ---

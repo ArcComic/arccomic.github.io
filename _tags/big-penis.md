@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big penis"
-work_count: 382
+work_count: 385
 works:
   - title: Tsuma no Imouto no Danna ga Ie ni Kiteiruyoudesu | My Sister-In-Law's Husband
       is Over
@@ -367,7 +367,7 @@ works:
   - title: Na, shounen? | Hey, boy?
     author: orita
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/534101.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-11-21'
     code: 534101
     url: /works/534101/
@@ -2856,4 +2856,26 @@ works:
     date: '2026-11-17'
     code: 697894
     url: /works/697894/
+  - title: Deco x Deco - Decoration x Decorative
+    author: metsubushi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698640.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 698640
+    url: /works/698640/
+  - title: Koi 4 | Pre-Six Eyes & Limitless Satoru Gojo 5P with Yuki, Riko, Tsumiki,
+      and Maki
+    author: azukiko
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698891.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 698891
+    url: /works/698891/
+  - title: 1Shuukan Gyaku Netorare -Kanojo no Haha ni Seiheki o Kuruwasareta Boku-
+    author: shrimp-cake
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698893.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 698893
+    url: /works/698893/
 ---

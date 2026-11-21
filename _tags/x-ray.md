@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "x-ray"
-work_count: 493
+work_count: 495
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -134,7 +134,7 @@ works:
   - title: Musuko ni Nando mo Kudokarete Konmake Shita Haha
     author: spices
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/329864.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-11-21'
     code: 329864
     url: /works/329864/
@@ -520,7 +520,7 @@ works:
       | I Confessed to My Mom and She Let Me Have A One-Day-Only Sex-Fest 2
     author: spices
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/481734.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-11-21'
     code: 481734
     url: /works/481734/
@@ -711,7 +711,7 @@ works:
   - title: Atashi ga.... | I Will...
     author: orita
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/533999.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-11-21'
     code: 533999
     url: /works/533999/
@@ -3694,4 +3694,18 @@ works:
     date: '2026-11-17'
     code: 697894
     url: /works/697894/
+  - title: Deco x Deco - Decoration x Decorative
+    author: metsubushi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698640.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 698640
+    url: /works/698640/
+  - title: 1Shuukan Gyaku Netorare -Kanojo no Haha ni Seiheki o Kuruwasareta Boku-
+    author: shrimp-cake
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698893.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 698893
+    url: /works/698893/
 ---

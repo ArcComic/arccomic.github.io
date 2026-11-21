@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "tall girl"
-work_count: 67
+work_count: 68
 works:
   - title: Okki na Kanojo ni Amaetai | I want to be pampered by a girl of generous girth
     author: higashino-mikan
@@ -500,4 +500,11 @@ works:
     date: '2026-11-20'
     code: 697728
     url: /works/697728/
+  - title: 1Shuukan Gyaku Netorare -Kanojo no Haha ni Seiheki o Kuruwasareta Boku-
+    author: shrimp-cake
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698893.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 698893
+    url: /works/698893/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "defloration"
-work_count: 308
+work_count: 309
 works:
   - title: Imitation Family + Bigibo Hen
     author: tohzai
@@ -366,7 +366,7 @@ works:
       with a tradition of taking their son's virginity
     author: spices
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/426827.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-11-21'
     code: 426827
     url: /works/426827/
@@ -558,7 +558,7 @@ works:
   - title: Atashi ga.... | I Will...
     author: orita
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/533999.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-11-21'
     code: 533999
     url: /works/533999/
@@ -725,7 +725,7 @@ works:
       Girlfriend Into His Ideal Woman!?
     author: gomu-gomu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/576695.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-11-21'
     code: 576695
     url: /works/576695/
@@ -2287,4 +2287,11 @@ works:
     date: '2026-11-17'
     code: 697736
     url: /works/697736/
+  - title: Deco x Deco - Decoration x Decorative
+    author: metsubushi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698640.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 698640
+    url: /works/698640/
 ---

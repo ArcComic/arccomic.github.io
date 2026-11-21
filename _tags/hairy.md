@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "hairy"
-work_count: 447
+work_count: 448
 works:
   - title: MAGIC SEVEN
     author: asuhiro
@@ -140,7 +140,7 @@ works:
   - title: Okorinbo Mama no Amayakashi Sex de Furyou Musuko ga Kousei Shita Hanashi
     author: spices
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/298945.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-21'
     code: 298945
     url: /works/298945/
@@ -169,7 +169,7 @@ works:
   - title: Ijimerarekko no Hahaoya ga Hamedori suru Batsu Game ni Makikomareta Kekka
     author: spices
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/306256.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-11-21'
     code: 306256
     url: /works/306256/
@@ -240,7 +240,7 @@ works:
   - title: Musuko ni Nando mo Kudokarete Konmake Shita Haha
     author: spices
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/329864.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-11-21'
     code: 329864
     url: /works/329864/
@@ -262,7 +262,7 @@ works:
       Mother Sayoko ~Record of a Copulation of a Mother and Son Living in a Small Room~
     author: spices
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/351090.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-11-21'
     code: 351090
     url: /works/351090/
@@ -441,7 +441,7 @@ works:
   - title: Senjou no Misshitsu | The honey room of sensation
     author: shiono-kou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/412584.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-11-21'
     code: 412584
     url: /works/412584/
@@ -525,7 +525,7 @@ works:
   - title: Musabori tsukushite! Rinko Sensei
     author: shiono-kou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/434238.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-11-21'
     code: 434238
     url: /works/434238/
@@ -679,7 +679,7 @@ works:
       | I Confessed to My Mom and She Let Me Have A One-Day-Only Sex-Fest 2
     author: spices
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/481734.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-11-21'
     code: 481734
     url: /works/481734/
@@ -767,7 +767,7 @@ works:
       Have Sex with Me in King's Game
     author: spices
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/501637.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-11-21'
     code: 501637
     url: /works/501637/
@@ -3303,4 +3303,12 @@ works:
     date: '2026-11-17'
     code: 697894
     url: /works/697894/
+  - title: Koi 4 | Pre-Six Eyes & Limitless Satoru Gojo 5P with Yuki, Riko, Tsumiki,
+      and Maki
+    author: azukiko
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698891.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 698891
+    url: /works/698891/
 ---

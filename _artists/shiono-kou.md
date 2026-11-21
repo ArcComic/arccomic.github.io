@@ -11,13 +11,13 @@ works:
     url: /works/403460/
   - title: Senjou no Misshitsu | The honey room of sensation
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/412584.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-11-21'
     code: 412584
     url: /works/412584/
   - title: Musabori tsukushite! Rinko Sensei
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/434238.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-11-21'
     code: 434238
     url: /works/434238/
@@ -54,7 +54,7 @@ works:
     url: /works/613265/
   - title: Eigyou Saki no Yuuko-san - Part 3 -
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/623377.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-11-21'
     code: 623377
     url: /works/623377/

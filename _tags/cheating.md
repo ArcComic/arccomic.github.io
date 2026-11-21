@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "cheating"
-work_count: 504
+work_count: 505
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -141,7 +141,7 @@ works:
   - title: Okorinbo Mama no Amayakashi Sex de Furyou Musuko ga Kousei Shita Hanashi
     author: spices
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/298945.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-21'
     code: 298945
     url: /works/298945/
@@ -218,7 +218,7 @@ works:
   - title: Musuko ni Nando mo Kudokarete Konmake Shita Haha
     author: spices
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/329864.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-11-21'
     code: 329864
     url: /works/329864/
@@ -456,7 +456,7 @@ works:
   - title: Senjou no Misshitsu | The honey room of sensation
     author: shiono-kou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/412584.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-11-21'
     code: 412584
     url: /works/412584/
@@ -734,7 +734,7 @@ works:
       | I Confessed to My Mom and She Let Me Have A One-Day-Only Sex-Fest 2
     author: spices
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/481734.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-11-21'
     code: 481734
     url: /works/481734/
@@ -802,7 +802,7 @@ works:
       Have Sex with Me in King's Game
     author: spices
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/501637.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-11-21'
     code: 501637
     url: /works/501637/
@@ -1727,7 +1727,7 @@ works:
   - title: Eigyou Saki no Yuuko-san - Part 3 -
     author: shiono-kou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/623377.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-11-21'
     code: 623377
     url: /works/623377/
@@ -1945,7 +1945,7 @@ works:
       | My mom started teasing me in a sexy way, so I couldn't help but fight back.
     author: spices
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/640602.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-11-21'
     code: 640602
     url: /works/640602/
@@ -3711,6 +3711,13 @@ works:
     date: '2026-11-17'
     code: 697894
     url: /works/697894/
+  - title: 1Shuukan Gyaku Netorare -Kanojo no Haha ni Seiheki o Kuruwasareta Boku-
+    author: shrimp-cake
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698893.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 698893
+    url: /works/698893/
   - title: Jokyoushi - Hot For Teachers | Female Teachers
     author: drill-murata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/81375.jpg

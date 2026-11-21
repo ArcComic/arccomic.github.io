@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sweating"
-work_count: 230
+work_count: 231
 works:
   - title: Kaisha de Iroiro | Gettin' Busy at the Office
     author: hara-shigeyuki
@@ -690,7 +690,7 @@ works:
   - title: Eigyou Saki no Yuuko-san - Part 3 -
     author: shiono-kou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/623377.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-11-21'
     code: 623377
     url: /works/623377/
@@ -1722,4 +1722,12 @@ works:
     date: '2026-11-14'
     code: 696730
     url: /works/696730/
+  - title: Koi 4 | Pre-Six Eyes & Limitless Satoru Gojo 5P with Yuki, Riko, Tsumiki,
+      and Maki
+    author: azukiko
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698891.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 698891
+    url: /works/698891/
 ---

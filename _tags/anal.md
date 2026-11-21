@@ -77,14 +77,14 @@ works:
   - title: Okorinbo Mama no Amayakashi Sex de Furyou Musuko ga Kousei Shita Hanashi
     author: spices
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/298945.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-21'
     code: 298945
     url: /works/298945/
   - title: Ijimerarekko no Hahaoya ga Hamedori suru Batsu Game ni Makikomareta Kekka
     author: spices
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/306256.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-11-21'
     code: 306256
     url: /works/306256/
@@ -369,7 +369,7 @@ works:
   - title: Atashi de…. | For me...
     author: orita
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/565998.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-11-21'
     code: 565998
     url: /works/565998/

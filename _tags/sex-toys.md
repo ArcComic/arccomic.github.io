@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sex toys"
-work_count: 171
+work_count: 173
 works:
   - title: Mama Naranai Onna-tachi Ch. 1-2
     author: otochichi
@@ -203,7 +203,7 @@ works:
   - title: Atashi ga.... | I Will...
     author: orita
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/533999.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-11-21'
     code: 533999
     url: /works/533999/
@@ -1264,4 +1264,18 @@ works:
     date: '2026-11-14'
     code: 696916
     url: /works/696916/
+  - title: Deco x Deco - Decoration x Decorative
+    author: metsubushi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698640.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 698640
+    url: /works/698640/
+  - title: 1Shuukan Gyaku Netorare -Kanojo no Haha ni Seiheki o Kuruwasareta Boku-
+    author: shrimp-cake
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698893.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 698893
+    url: /works/698893/
 ---

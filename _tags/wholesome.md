@@ -457,14 +457,14 @@ works:
   - title: Atashi ga.... | I Will...
     author: orita
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/533999.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-11-21'
     code: 533999
     url: /works/533999/
   - title: Na, shounen? | Hey, boy?
     author: orita
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/534101.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-11-21'
     code: 534101
     url: /works/534101/
@@ -571,7 +571,7 @@ works:
   - title: Atashi de…. | For me...
     author: orita
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/565998.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-11-21'
     code: 565998
     url: /works/565998/

@@ -83,7 +83,7 @@ works:
   - title: Okorinbo Mama no Amayakashi Sex de Furyou Musuko ga Kousei Shita Hanashi
     author: spices
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/298945.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-21'
     code: 298945
     url: /works/298945/
@@ -97,7 +97,7 @@ works:
   - title: Ijimerarekko no Hahaoya ga Hamedori suru Batsu Game ni Makikomareta Kekka
     author: spices
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/306256.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-11-21'
     code: 306256
     url: /works/306256/
@@ -459,7 +459,7 @@ works:
   - title: Na, shounen? | Hey, boy?
     author: orita
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/534101.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-11-21'
     code: 534101
     url: /works/534101/
@@ -808,7 +808,7 @@ works:
   - title: Eigyou Saki no Yuuko-san - Part 3 -
     author: shiono-kou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/623377.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-11-21'
     code: 623377
     url: /works/623377/

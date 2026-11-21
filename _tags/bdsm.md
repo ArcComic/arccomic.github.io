@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bdsm"
-work_count: 24
+work_count: 25
 works:
   - title: Boku no Kaa-chan ga Hikikomori Neet Debu Aniki no Seishori Onaho ni Natteita
       Hanashi | My Mother is My Fat Shut-in Older NEET Brother's Sex Relief Onahole
@@ -185,4 +185,11 @@ works:
     date: '2026-11-20'
     code: 696513
     url: /works/696513/
+  - title: Deco x Deco - Decoration x Decorative
+    author: metsubushi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698640.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 698640
+    url: /works/698640/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "harem"
-work_count: 62
+work_count: 63
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -35,7 +35,7 @@ works:
       with a tradition of taking their son's virginity
     author: spices
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/426827.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-11-21'
     code: 426827
     url: /works/426827/
@@ -451,6 +451,14 @@ works:
     date: '2026-11-14'
     code: 696693
     url: /works/696693/
+  - title: Koi 4 | Pre-Six Eyes & Limitless Satoru Gojo 5P with Yuki, Riko, Tsumiki,
+      and Maki
+    author: azukiko
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698891.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 698891
+    url: /works/698891/
   - title: Jokyoushi - Hot For Teachers | Female Teachers
     author: drill-murata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/81375.jpg

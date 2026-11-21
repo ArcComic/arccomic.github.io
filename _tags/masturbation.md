@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "masturbation"
-work_count: 216
+work_count: 218
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -76,7 +76,7 @@ works:
   - title: Musuko ni Nando mo Kudokarete Konmake Shita Haha
     author: spices
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/329864.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-11-21'
     code: 329864
     url: /works/329864/
@@ -185,7 +185,7 @@ works:
   - title: Musabori tsukushite! Rinko Sensei
     author: shiono-kou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/434238.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-11-21'
     code: 434238
     url: /works/434238/
@@ -1610,4 +1610,18 @@ works:
     date: '2026-11-17'
     code: 697894
     url: /works/697894/
+  - title: Deco x Deco - Decoration x Decorative
+    author: metsubushi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698640.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 698640
+    url: /works/698640/
+  - title: 1Shuukan Gyaku Netorare -Kanojo no Haha ni Seiheki o Kuruwasareta Boku-
+    author: shrimp-cake
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698893.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 698893
+    url: /works/698893/
 ---

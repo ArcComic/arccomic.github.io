@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "blowjob face"
-work_count: 104
+work_count: 105
 works:
   - title: Mama Naranai Onna-tachi Ch. 1-2
     author: otochichi
@@ -785,4 +785,11 @@ works:
     date: '2026-11-17'
     code: 697894
     url: /works/697894/
+  - title: 1Shuukan Gyaku Netorare -Kanojo no Haha ni Seiheki o Kuruwasareta Boku-
+    author: shrimp-cake
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698893.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 698893
+    url: /works/698893/
 ---

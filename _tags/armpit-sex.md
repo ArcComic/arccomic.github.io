@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "armpit sex"
-work_count: 7
+work_count: 8
 works:
   - title: Yojouhan Bio Seikatsu Soushuuhen
     author: sgk
@@ -55,4 +55,12 @@ works:
     date: '2026-11-14'
     code: 696728
     url: /works/696728/
+  - title: Koi 4 | Pre-Six Eyes & Limitless Satoru Gojo 5P with Yuki, Riko, Tsumiki,
+      and Maki
+    author: azukiko
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698891.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 698891
+    url: /works/698891/
 ---

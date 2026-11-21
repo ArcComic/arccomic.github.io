@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big breasts"
-work_count: 1548
+work_count: 1551
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -281,7 +281,7 @@ works:
   - title: Okorinbo Mama no Amayakashi Sex de Furyou Musuko ga Kousei Shita Hanashi
     author: spices
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/298945.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-21'
     code: 298945
     url: /works/298945/
@@ -324,7 +324,7 @@ works:
   - title: Ijimerarekko no Hahaoya ga Hamedori suru Batsu Game ni Makikomareta Kekka
     author: spices
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/306256.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-11-21'
     code: 306256
     url: /works/306256/
@@ -466,7 +466,7 @@ works:
   - title: Musuko ni Nando mo Kudokarete Konmake Shita Haha
     author: spices
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/329864.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-11-21'
     code: 329864
     url: /works/329864/
@@ -546,7 +546,7 @@ works:
       Mother Sayoko ~Record of a Copulation of a Mother and Son Living in a Small Room~
     author: spices
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/351090.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-11-21'
     code: 351090
     url: /works/351090/
@@ -947,7 +947,7 @@ works:
   - title: Senjou no Misshitsu | The honey room of sensation
     author: shiono-kou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/412584.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-11-21'
     code: 412584
     url: /works/412584/
@@ -1081,7 +1081,7 @@ works:
       with a tradition of taking their son's virginity
     author: spices
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/426827.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-11-21'
     code: 426827
     url: /works/426827/
@@ -1146,7 +1146,7 @@ works:
   - title: Musabori tsukushite! Rinko Sensei
     author: shiono-kou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/434238.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-11-21'
     code: 434238
     url: /works/434238/
@@ -1514,7 +1514,7 @@ works:
       As A Delivery Prostitute
     author: orita
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/479720.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-11-21'
     code: 479720
     url: /works/479720/
@@ -1543,7 +1543,7 @@ works:
       | I Confessed to My Mom and She Let Me Have A One-Day-Only Sex-Fest 2
     author: spices
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/481734.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-11-21'
     code: 481734
     url: /works/481734/
@@ -1726,7 +1726,7 @@ works:
       Have Sex with Me in King's Game
     author: spices
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/501637.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-11-21'
     code: 501637
     url: /works/501637/
@@ -2296,14 +2296,14 @@ works:
   - title: Atashi ga.... | I Will...
     author: orita
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/533999.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-11-21'
     code: 533999
     url: /works/533999/
   - title: Na, shounen? | Hey, boy?
     author: orita
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/534101.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-11-21'
     code: 534101
     url: /works/534101/
@@ -2901,7 +2901,7 @@ works:
   - title: Atashi de…. | For me...
     author: orita
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/565998.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-11-21'
     code: 565998
     url: /works/565998/
@@ -3073,7 +3073,7 @@ works:
       Girlfriend Into His Ideal Woman!?
     author: gomu-gomu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/576695.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-11-21'
     code: 576695
     url: /works/576695/
@@ -4237,7 +4237,7 @@ works:
   - title: Eigyou Saki no Yuuko-san - Part 3 -
     author: shiono-kou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/623377.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-11-21'
     code: 623377
     url: /works/623377/
@@ -4978,7 +4978,7 @@ works:
       | My mom started teasing me in a sexy way, so I couldn't help but fight back.
     author: spices
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/640602.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-11-21'
     code: 640602
     url: /works/640602/
@@ -11456,6 +11456,28 @@ works:
     date: '2026-11-17'
     code: 697894
     url: /works/697894/
+  - title: Deco x Deco - Decoration x Decorative
+    author: metsubushi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698640.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 698640
+    url: /works/698640/
+  - title: Koi 4 | Pre-Six Eyes & Limitless Satoru Gojo 5P with Yuki, Riko, Tsumiki,
+      and Maki
+    author: azukiko
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698891.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 698891
+    url: /works/698891/
+  - title: 1Shuukan Gyaku Netorare -Kanojo no Haha ni Seiheki o Kuruwasareta Boku-
+    author: shrimp-cake
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698893.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 698893
+    url: /works/698893/
   - title: Hottokenaino
     author: hara-shigeyuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/77864.jpg

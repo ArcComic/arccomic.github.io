@@ -5,33 +5,33 @@ work_count: 11
 works:
   - title: Okorinbo Mama no Amayakashi Sex de Furyou Musuko ga Kousei Shita Hanashi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/298945.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-21'
     code: 298945
     url: /works/298945/
   - title: Ijimerarekko no Hahaoya ga Hamedori suru Batsu Game ni Makikomareta Kekka
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/306256.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-11-21'
     code: 306256
     url: /works/306256/
   - title: Musuko ni Nando mo Kudokarete Konmake Shita Haha
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/329864.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-11-21'
     code: 329864
     url: /works/329864/
   - title: Miboujin no Haha ・Sayoko ~Yojouhan ni Sumu Oyako no Koubi Kiroku~| Widowed
       Mother Sayoko ~Record of a Copulation of a Mother and Son Living in a Small Room~
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/351090.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-11-21'
     code: 351090
     url: /works/351090/
   - title: Kazoku De Musuko O Fudeoroshi Suru Narawashi Ga Sonzai Suru Kakei | A family
       with a tradition of taking their son's virginity
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/426827.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-11-21'
     code: 426827
     url: /works/426827/
@@ -45,14 +45,14 @@ works:
   - title: Hahaoya ni Kokuhaku Shitara Ichinichi dake Sex o Sasete Kureta Hanashi 2
       | I Confessed to My Mom and She Let Me Have A One-Day-Only Sex-Fest 2
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/481734.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-11-21'
     code: 481734
     url: /works/481734/
   - title: Ousama Game no Meirei de Haha to Sex Shita Hanashi | I Ordered My Mom to
       Have Sex with Me in King's Game
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/501637.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-11-21'
     code: 501637
     url: /works/501637/
@@ -67,7 +67,7 @@ works:
   - title: Haha ga Ecchi na Chouhatsu Shite Kita node Gaman Dekizu ni Hangeki Shimashita.
       | My mom started teasing me in a sexy way, so I couldn't help but fight back.
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/640602.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-11-21'
     code: 640602
     url: /works/640602/

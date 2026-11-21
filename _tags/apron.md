@@ -27,14 +27,14 @@ works:
   - title: Okorinbo Mama no Amayakashi Sex de Furyou Musuko ga Kousei Shita Hanashi
     author: spices
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/298945.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-21'
     code: 298945
     url: /works/298945/
   - title: Ijimerarekko no Hahaoya ga Hamedori suru Batsu Game ni Makikomareta Kekka
     author: spices
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/306256.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-11-21'
     code: 306256
     url: /works/306256/
@@ -49,7 +49,7 @@ works:
       Mother Sayoko ~Record of a Copulation of a Mother and Son Living in a Small Room~
     author: spices
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/351090.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-11-21'
     code: 351090
     url: /works/351090/
@@ -93,7 +93,7 @@ works:
       Have Sex with Me in King's Game
     author: spices
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/501637.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-11-21'
     code: 501637
     url: /works/501637/
@@ -208,7 +208,7 @@ works:
       | My mom started teasing me in a sexy way, so I couldn't help but fight back.
     author: spices
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/640602.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-11-21'
     code: 640602
     url: /works/640602/

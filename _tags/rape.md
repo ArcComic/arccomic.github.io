@@ -579,7 +579,7 @@ works:
   - title: Na, shounen? | Hey, boy?
     author: orita
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/534101.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-11-21'
     code: 534101
     url: /works/534101/
@@ -761,7 +761,7 @@ works:
       Girlfriend Into His Ideal Woman!?
     author: gomu-gomu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/576695.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-11-21'
     code: 576695
     url: /works/576695/
