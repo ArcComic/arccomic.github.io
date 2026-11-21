@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bbm"
-work_count: 152
+work_count: 153
 works:
   - title: Kindan no Hatemitsu
     author: ryuuta
@@ -237,6 +237,13 @@ works:
     date: '2026-04-12'
     code: 531759
     url: /works/531759/
+  - title: Na, shounen? | Hey, boy?
+    author: orita
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/534101.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 534101
+    url: /works/534101/
   - title: Ochita Part Zuma Miura Manami Kenshuu Ryokou de Watashi no Karada wa Daikirai
       na Ano Otoko ni Nando mo Ikasaremashita... Full Color Ban
     author: tanaka-aji

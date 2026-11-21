@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "school gym uniform"
-work_count: 13
+work_count: 14
 works:
   - title: Namaiki TS Yankee ga Zetsurin Taiiku Kyoushi no Onaho ni natte Akume Shiofuki
       Mesu Ochi Ninshin! [TS Delinquent becomes a gym teacher's onahole and Cums ❤ Squirts
@@ -12,6 +12,13 @@ works:
     date: '2026-10-11'
     code: 492104
     url: /works/492104/
+  - title: Na, shounen? | Hey, boy?
+    author: orita
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/534101.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 534101
+    url: /works/534101/
   - title: Hime Bloomer
     author: tsurui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/638882.jpg

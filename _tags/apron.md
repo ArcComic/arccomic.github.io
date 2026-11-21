@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "apron"
-work_count: 36
+work_count: 37
 works:
   - title: Life with Married Women Just Like a Manga 2 - Ch. 1-5
     author: hidemaru
@@ -31,6 +31,14 @@ works:
     date: '2026-03-04'
     code: 315693
     url: /works/315693/
+  - title: Miboujin no Haha ・Sayoko ~Yojouhan ni Sumu Oyako no Koubi Kiroku~| Widowed
+      Mother Sayoko ~Record of a Copulation of a Mother and Son Living in a Small Room~
+    author: spices
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/351090.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 351090
+    url: /works/351090/
   - title: Toshoshitsu no Kanojo 4 ~Seiso na Kimi ga Ochiru made~
     author: ame-arare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/352581.jpg

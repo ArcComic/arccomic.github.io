@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole female"
-work_count: 1331
+work_count: 1333
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -664,6 +664,14 @@ works:
     date: '2026-09-06'
     code: 349379
     url: /works/349379/
+  - title: Miboujin no Haha ・Sayoko ~Yojouhan ni Sumu Oyako no Koubi Kiroku~| Widowed
+      Mother Sayoko ~Record of a Copulation of a Mother and Son Living in a Small Room~
+    author: spices
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/351090.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 351090
+    url: /works/351090/
   - title: Ritsuko to Shokuba de...
     author: tsurui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/351810.jpg
@@ -2561,6 +2569,13 @@ works:
     date: '2026-02-26'
     code: 533325
     url: /works/533325/
+  - title: Na, shounen? | Hey, boy?
+    author: orita
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/534101.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 534101
+    url: /works/534101/
   - title: Chounai Furin ~Yumi~ | Neighborhood Affair ~Yumi~
     author: kaniguruma
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/534179.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "stockings"
-work_count: 313
+work_count: 314
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -505,6 +505,13 @@ works:
     date: '2026-05-26'
     code: 532417
     url: /works/532417/
+  - title: Na, shounen? | Hey, boy?
+    author: orita
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/534101.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 534101
+    url: /works/534101/
   - title: Adoration of Ones Elders
     author: nomu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/537946.jpg

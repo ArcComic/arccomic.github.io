@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big breasts"
-work_count: 1537
+work_count: 1539
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -528,6 +528,14 @@ works:
     date: '2026-04-17'
     code: 349247
     url: /works/349247/
+  - title: Miboujin no Haha ・Sayoko ~Yojouhan ni Sumu Oyako no Koubi Kiroku~| Widowed
+      Mother Sayoko ~Record of a Copulation of a Mother and Son Living in a Small Room~
+    author: spices
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/351090.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 351090
+    url: /works/351090/
   - title: Itabasami na Wakachi Ai 2
     author: cabin
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/351440.jpg
@@ -2247,6 +2255,13 @@ works:
     date: '2026-04-27'
     code: 532651
     url: /works/532651/
+  - title: Na, shounen? | Hey, boy?
+    author: orita
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/534101.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 534101
+    url: /works/534101/
   - title: Chounai Furin ~Yumi~ | Neighborhood Affair ~Yumi~
     author: kaniguruma
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/534179.jpg

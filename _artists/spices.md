@@ -1,7 +1,7 @@
 ---
 layout: artist
 artist_name: "spices"
-work_count: 5
+work_count: 6
 works:
   - title: Musuko ni Nando mo Kudokarete Konmake Shita Haha
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/329864.jpg
@@ -9,6 +9,13 @@ works:
     date: '2026-11-21'
     code: 329864
     url: /works/329864/
+  - title: Miboujin no Haha ・Sayoko ~Yojouhan ni Sumu Oyako no Koubi Kiroku~| Widowed
+      Mother Sayoko ~Record of a Copulation of a Mother and Son Living in a Small Room~
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/351090.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 351090
+    url: /works/351090/
   - title: Hahaoya ni Kokuhaku Shitara Ichinichi dake Sex o Sasete Kureta Hanashi |
       I Confessed to My Mom and She Let Me Have a One-Day-Only Sex-Fest
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/446943.jpg

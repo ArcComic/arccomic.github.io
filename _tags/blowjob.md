@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "blowjob"
-work_count: 921
+work_count: 922
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -352,6 +352,14 @@ works:
     date: '2026-07-08'
     code: 346416
     url: /works/346416/
+  - title: Miboujin no Haha ・Sayoko ~Yojouhan ni Sumu Oyako no Koubi Kiroku~| Widowed
+      Mother Sayoko ~Record of a Copulation of a Mother and Son Living in a Small Room~
+    author: spices
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/351090.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 351090
+    url: /works/351090/
   - title: Ritsuko to Shokuba de...
     author: tsurui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/351810.jpg

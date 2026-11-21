@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "hairy armpits"
-work_count: 16
+work_count: 17
 works:
   - title: Mama Naranai Onna-tachi Ch. 1-2
     author: otochichi
@@ -39,6 +39,14 @@ works:
     date: '2026-11-21'
     code: 329864
     url: /works/329864/
+  - title: Miboujin no Haha ・Sayoko ~Yojouhan ni Sumu Oyako no Koubi Kiroku~| Widowed
+      Mother Sayoko ~Record of a Copulation of a Mother and Son Living in a Small Room~
+    author: spices
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/351090.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 351090
+    url: /works/351090/
   - title: Kaachan wa Ore no... | Mom is My...  Chapter 1-3
     author: jirou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/415046.jpg

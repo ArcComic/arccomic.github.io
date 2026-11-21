@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bunny girl"
-work_count: 47
+work_count: 48
 works:
   - title: Kaisha de Iroiro | Gettin' Busy at the Office
     author: hara-shigeyuki
@@ -63,6 +63,13 @@ works:
     date: '2026-08-25'
     code: 518387
     url: /works/518387/
+  - title: Na, shounen? | Hey, boy?
+    author: orita
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/534101.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 534101
+    url: /works/534101/
   - title: Cosplay Shiteiru Toki wa Hitozuma de wa Arimasen | Setting Aside Our Married
       Lives When We Cosplay
     author: group

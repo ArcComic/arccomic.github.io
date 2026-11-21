@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "cosplaying"
-work_count: 41
+work_count: 42
 works:
   - title: My Sugar Mama! 1-3
     author: azukiko
@@ -48,6 +48,13 @@ works:
     date: '2026-08-25'
     code: 518387
     url: /works/518387/
+  - title: Na, shounen? | Hey, boy?
+    author: orita
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/534101.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 534101
+    url: /works/534101/
   - title: 1/5 no Renai Kanjou | A Fifth of Romance
     author: chicke-iii
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/568871.jpg

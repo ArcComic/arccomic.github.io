@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "asphyxiation"
-work_count: 36
+work_count: 37
 works:
   - title: My Dress Up Corpse
     author: mr-kurz
@@ -55,6 +55,13 @@ works:
     date: '2026-07-11'
     code: 531966
     url: /works/531966/
+  - title: Na, shounen? | Hey, boy?
+    author: orita
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/534101.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 534101
+    url: /works/534101/
   - title: Ai wa Oshiminaku | Love is given without reservation
     author: yoshika
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/539377.jpg

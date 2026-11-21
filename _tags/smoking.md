@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "smoking"
-work_count: 11
+work_count: 12
 works:
   - title: Shirotaegiku | Dusty miller
     author: hiroya
@@ -17,6 +17,13 @@ works:
     date: '2026-11-09'
     code: 525330
     url: /works/525330/
+  - title: Na, shounen? | Hey, boy?
+    author: orita
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/534101.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 534101
+    url: /works/534101/
   - title: Mousukoshi dake, Konomama de - Stay together for a little longer. + Seishun
       no Tsunagarikata
     author: syoukaki
