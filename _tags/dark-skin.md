@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "dark skin"
-work_count: 214
+work_count: 216
 works:
   - title: Birthday
     author: hashiba-yachi
@@ -188,6 +188,13 @@ works:
     date: '2026-04-12'
     code: 432513
     url: /works/432513/
+  - title: Musabori tsukushite! Rinko Sensei
+    author: shiono-kou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/434238.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 434238
+    url: /works/434238/
   - title: Musume no Kareshi ni Ochiru Okaa-san. 2 | A Mother Who Falls For Her Daughter's
       Boyfriend 2
     author: sinori
@@ -459,6 +466,14 @@ works:
     date: '2026-09-30'
     code: 575361
     url: /works/575361/
+  - title: Senpai ga Ore no Kanojo o Kanpeki ni Shitateageru!? | Senpai is Turning My
+      Girlfriend Into His Ideal Woman!?
+    author: gomu-gomu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/576695.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 576695
+    url: /works/576695/
   - title: Her Predicaments
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/586417.jpg

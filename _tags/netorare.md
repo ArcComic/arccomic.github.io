@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "netorare"
-work_count: 560
+work_count: 562
 works:
   - title: Kousa suru Osu to Mesu | Male and Female Crossing
     author: ootsuka-kotora
@@ -179,6 +179,13 @@ works:
     date: '2026-04-23'
     code: 329551
     url: /works/329551/
+  - title: Musuko ni Nando mo Kudokarete Konmake Shita Haha
+    author: spices
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/329864.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 329864
+    url: /works/329864/
   - title: Karami Zakari vol. 3 | Entanglement vol. 3
     author: katsura-airi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/336370.jpg
@@ -1237,6 +1244,14 @@ works:
     date: '2026-09-29'
     code: 575103
     url: /works/575103/
+  - title: Senpai ga Ore no Kanojo o Kanpeki ni Shitateageru!? | Senpai is Turning My
+      Girlfriend Into His Ideal Woman!?
+    author: gomu-gomu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/576695.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 576695
+    url: /works/576695/
   - title: Boku no Mama to Takuhai no Onii-san ga.
     author: yuriko-club
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/577221.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "mother"
-work_count: 237
+work_count: 238
 works:
   - title: Imitation Family + Bigibo Hen
     author: tohzai
@@ -59,6 +59,13 @@ works:
     date: '2026-09-29'
     code: 304307
     url: /works/304307/
+  - title: Musuko ni Nando mo Kudokarete Konmake Shita Haha
+    author: spices
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/329864.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 329864
+    url: /works/329864/
   - title: Saikin, Musuko no Yousu ga Hen nan desu | Lately my son has been acting Strangly
     author: matsumoto-jikyuuryoku
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/342639.jpg

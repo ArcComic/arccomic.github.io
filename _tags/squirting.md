@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "squirting"
-work_count: 214
+work_count: 215
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -60,6 +60,13 @@ works:
     date: '2026-09-13'
     code: 404458
     url: /works/404458/
+  - title: Musabori tsukushite! Rinko Sensei
+    author: shiono-kou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/434238.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 434238
+    url: /works/434238/
   - title: '[Sakuru Haruni Inazuma (Harumi Niina) Chuuken Bodyguard ga Nisemono Reijou
       no Uso to Shintai wo Abaku made. | Until the Obedient Bodyguard Exposes the Body
       and the Lie of the Fake Lady [English] [Painful Nightz] [Digital]'

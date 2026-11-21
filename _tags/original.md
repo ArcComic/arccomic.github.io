@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "original"
-work_count: 1493
+work_count: 1495
 works:
   - title: Gokuusu Mizugi de Okasaretagari ga Kakusenai
     author: kekemotsu
@@ -197,6 +197,13 @@ works:
     date: '2026-10-15'
     code: 327421
     url: /works/327421/
+  - title: Musuko ni Nando mo Kudokarete Konmake Shita Haha
+    author: spices
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/329864.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 329864
+    url: /works/329864/
   - title: Hyouri no Omoi | Double-Sided Love
     author: suruga-kuroitsu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/333923.jpg
@@ -2789,6 +2796,14 @@ works:
     date: '2026-03-03'
     code: 576288
     url: /works/576288/
+  - title: Senpai ga Ore no Kanojo o Kanpeki ni Shitateageru!? | Senpai is Turning My
+      Girlfriend Into His Ideal Woman!?
+    author: gomu-gomu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/576695.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 576695
+    url: /works/576695/
   - title: Seiki Gyakuten Kanojo ni Dakareru Nanokakan | Genital Swap ~Being Fucked
       By My Girlfriend For A Week~
     author: onaka-emi

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "blowjob"
-work_count: 918
+work_count: 921
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -308,6 +308,13 @@ works:
     date: '2026-04-23'
     code: 329551
     url: /works/329551/
+  - title: Musuko ni Nando mo Kudokarete Konmake Shita Haha
+    author: spices
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/329864.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 329864
+    url: /works/329864/
   - title: Hug yori Motto Sugoi Koto | Something Much Better Than a Hug
     author: napo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/331115.jpg
@@ -705,6 +712,13 @@ works:
     date: '2026-04-21'
     code: 431558
     url: /works/431558/
+  - title: Musabori tsukushite! Rinko Sensei
+    author: shiono-kou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/434238.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 434238
+    url: /works/434238/
   - title: Otaku Tomodachi to no Sex wa Saikou ni Kimochi Ii | Sex with Your Otaku Friend
       is Mindblowing
     author: alp
@@ -1888,6 +1902,14 @@ works:
     date: '2026-04-23'
     code: 576398
     url: /works/576398/
+  - title: Senpai ga Ore no Kanojo o Kanpeki ni Shitateageru!? | Senpai is Turning My
+      Girlfriend Into His Ideal Woman!?
+    author: gomu-gomu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/576695.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 576695
+    url: /works/576695/
   - title: Seiki Gyakuten Kanojo ni Dakareru Nanokakan | Genital Swap ~Being Fucked
       By My Girlfriend For A Week~
     author: onaka-emi

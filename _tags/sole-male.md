@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole male"
-work_count: 1256
+work_count: 1257
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -505,6 +505,13 @@ works:
     date: '2026-10-08'
     code: 328334
     url: /works/328334/
+  - title: Musuko ni Nando mo Kudokarete Konmake Shita Haha
+    author: spices
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/329864.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 329864
+    url: /works/329864/
   - title: Hug yori Motto Sugoi Koto | Something Much Better Than a Hug
     author: napo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/331115.jpg

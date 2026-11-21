@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole female"
-work_count: 1328
+work_count: 1331
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -562,6 +562,13 @@ works:
     date: '2026-04-12'
     code: 328805
     url: /works/328805/
+  - title: Musuko ni Nando mo Kudokarete Konmake Shita Haha
+    author: spices
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/329864.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 329864
+    url: /works/329864/
   - title: Hug yori Motto Sugoi Koto | Something Much Better Than a Hug
     author: napo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/331115.jpg
@@ -1358,6 +1365,13 @@ works:
     date: '2026-04-19'
     code: 433732
     url: /works/433732/
+  - title: Musabori tsukushite! Rinko Sensei
+    author: shiono-kou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/434238.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 434238
+    url: /works/434238/
   - title: Jimiko Diary Four
     author: saigado
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/434577.jpg
@@ -3185,6 +3199,14 @@ works:
     date: '2026-04-23'
     code: 576398
     url: /works/576398/
+  - title: Senpai ga Ore no Kanojo o Kanpeki ni Shitateageru!? | Senpai is Turning My
+      Girlfriend Into His Ideal Woman!?
+    author: gomu-gomu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/576695.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 576695
+    url: /works/576695/
   - title: Natchan wa ne -My Girl is M!
     author: mojarin
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/576910.jpg

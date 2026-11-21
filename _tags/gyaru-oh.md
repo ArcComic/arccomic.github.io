@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "gyaru-oh"
-work_count: 57
+work_count: 58
 works:
   - title: Netorare Ibe Kiba Shizuka
     author: terasu-mc
@@ -163,6 +163,14 @@ works:
     date: '2026-09-28'
     code: 560392
     url: /works/560392/
+  - title: Senpai ga Ore no Kanojo o Kanpeki ni Shitateageru!? | Senpai is Turning My
+      Girlfriend Into His Ideal Woman!?
+    author: gomu-gomu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/576695.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 576695
+    url: /works/576695/
   - title: Manatsu no Chigiri ~ Tawamure ni Yogosareta Mizugi no Shita no Seiso Hada
       - Midsummer promise | Manatsu's Promise
     author: uni18

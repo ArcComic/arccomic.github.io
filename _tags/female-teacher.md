@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "female teacher"
-work_count: 7
+work_count: 8
 works:
   - title: Sei no Kenryoku | The Power of Sex
     author: tomohiro-kai
@@ -17,6 +17,13 @@ works:
     date: '2026-11-20'
     code: 403460
     url: /works/403460/
+  - title: Musabori tsukushite! Rinko Sensei
+    author: shiono-kou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/434238.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 434238
+    url: /works/434238/
   - title: Dansei ga Kyokutan ni Sukunai Kono Sekai de wa, Seishi wa Kichou na Shigen
       desu. Sono 2 | In a World Where Men Are Scarce, Sperm Is a Precious Resource 2
     author: group

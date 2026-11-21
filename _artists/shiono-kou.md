@@ -1,7 +1,7 @@
 ---
 layout: artist
 artist_name: "shiono-kou"
-work_count: 10
+work_count: 11
 works:
   - title: Micchaku Kojin Shidou | Intimate Personal Guidance
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/403460.jpg
@@ -15,6 +15,12 @@ works:
     date: '2026-11-21'
     code: 412584
     url: /works/412584/
+  - title: Musabori tsukushite! Rinko Sensei
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/434238.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 434238
+    url: /works/434238/
   - title: Yokujou Shugakuryokou | Horny School Trip
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/545885.jpg
     rating: 4.4
