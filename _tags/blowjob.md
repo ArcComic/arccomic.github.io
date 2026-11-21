@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "blowjob"
-work_count: 928
+work_count: 930
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -1523,6 +1523,13 @@ works:
     date: '2026-04-27'
     code: 532651
     url: /works/532651/
+  - title: Atashi ga.... | I Will...
+    author: orita
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/533999.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 533999
+    url: /works/533999/
   - title: Chounai Furin ~Yumi~ | Neighborhood Affair ~Yumi~
     author: kaniguruma
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/534179.jpg
@@ -3245,6 +3252,14 @@ works:
     date: '2026-09-24'
     code: 640106
     url: /works/640106/
+  - title: Haha ga Ecchi na Chouhatsu Shite Kita node Gaman Dekizu ni Hangeki Shimashita.
+      | My mom started teasing me in a sexy way, so I couldn't help but fight back.
+    author: spices
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/640602.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 640602
+    url: /works/640602/
   - title: Sougo Onanii de Osananajimi wa Itsumo Iku! ~Kore Ijou Iku to Tomaranai yo?~
       | My Childhood Friend Loves It When We Jerk Off Together! But What Will Happen
       If We Keep Going!?

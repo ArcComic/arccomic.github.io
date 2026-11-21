@@ -1,7 +1,7 @@
 ---
 layout: artist
 artist_name: "spices"
-work_count: 10
+work_count: 11
 works:
   - title: Okorinbo Mama no Amayakashi Sex de Furyou Musuko ga Kousei Shita Hanashi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/298945.jpg
@@ -64,6 +64,13 @@ works:
     date: '2026-11-20'
     code: 560941
     url: /works/560941/
+  - title: Haha ga Ecchi na Chouhatsu Shite Kita node Gaman Dekizu ni Hangeki Shimashita.
+      | My mom started teasing me in a sexy way, so I couldn't help but fight back.
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/640602.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 640602
+    url: /works/640602/
   - title: Musuko no Tsuyosugiru Seiyoku o Kaishou Suru no wa Haha no Tsutome desu!
       | It's a Mother's duty to take care of her son's Sexual Needs!
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/645120.jpg

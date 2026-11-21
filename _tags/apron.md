@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "apron"
-work_count: 39
+work_count: 40
 works:
   - title: Life with Married Women Just Like a Manga 2 - Ch. 1-5
     author: hidemaru
@@ -204,6 +204,14 @@ works:
     date: '2026-09-13'
     code: 638556
     url: /works/638556/
+  - title: Haha ga Ecchi na Chouhatsu Shite Kita node Gaman Dekizu ni Hangeki Shimashita.
+      | My mom started teasing me in a sexy way, so I couldn't help but fight back.
+    author: spices
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/640602.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 640602
+    url: /works/640602/
   - title: DeliHeal Yondara Moto Doukyuusei ga Kita ~Polynesian Sex  6-kame~
     author: tatsuwaipu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/643512.jpg

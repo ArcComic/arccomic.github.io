@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "son"
-work_count: 6
+work_count: 7
 works:
   - title: Akarui Kazoku Seikatsu
     author: pistonring-nishizawa
@@ -34,6 +34,14 @@ works:
     date: '2026-11-20'
     code: 613265
     url: /works/613265/
+  - title: Haha ga Ecchi na Chouhatsu Shite Kita node Gaman Dekizu ni Hangeki Shimashita.
+      | My mom started teasing me in a sexy way, so I couldn't help but fight back.
+    author: spices
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/640602.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 640602
+    url: /works/640602/
   - title: Kaa-san no Nude Model o Shite Itara, Kaa-san no Panchira Mite Bokki Shite
       Shimai, Soshite...... | I was acting as a nude model for my mom, but then... I
       caught a glimpse of her panties, got a boner, and well...

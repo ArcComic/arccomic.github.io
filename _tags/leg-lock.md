@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "leg lock"
-work_count: 136
+work_count: 137
 works:
   - title: My Care Lady Ch. 1
     author: sugi-g
@@ -266,6 +266,13 @@ works:
     date: '2026-03-07'
     code: 531191
     url: /works/531191/
+  - title: Atashi ga.... | I Will...
+    author: orita
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/533999.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 533999
+    url: /works/533999/
   - title: Jimi Kyonyuu No Stalker Onna Ni Gokuhaku Saretanode Yarimakutte Mita Hanashi
       | I Was Confessed To By A Plain Busty Stalker Girl, So I Fucked Her Like Crazy
     author: hiyori-hamster

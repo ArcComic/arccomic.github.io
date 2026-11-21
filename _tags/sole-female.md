@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole female"
-work_count: 1339
+work_count: 1341
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -2606,6 +2606,13 @@ works:
     date: '2026-02-26'
     code: 533325
     url: /works/533325/
+  - title: Atashi ga.... | I Will...
+    author: orita
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/533999.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 533999
+    url: /works/533999/
   - title: Na, shounen? | Hey, boy?
     author: orita
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/534101.jpg
@@ -4828,6 +4835,14 @@ works:
     date: '2026-11-09'
     code: 640224
     url: /works/640224/
+  - title: Haha ga Ecchi na Chouhatsu Shite Kita node Gaman Dekizu ni Hangeki Shimashita.
+      | My mom started teasing me in a sexy way, so I couldn't help but fight back.
+    author: spices
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/640602.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 640602
+    url: /works/640602/
   - title: Idol no Kimi no Tonari no Boku 2
     author: negoya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/640988.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "virginity"
-work_count: 204
+work_count: 206
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -533,6 +533,13 @@ works:
     date: '2026-04-27'
     code: 532651
     url: /works/532651/
+  - title: Atashi ga.... | I Will...
+    author: orita
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/533999.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 533999
+    url: /works/533999/
   - title: Jimi Kyonyuu No Stalker Onna Ni Gokuhaku Saretanode Yarimakutte Mita Hanashi
       | I Was Confessed To By A Plain Busty Stalker Girl, So I Fucked Her Like Crazy
     author: hiyori-hamster
@@ -928,6 +935,14 @@ works:
     date: '2026-08-23'
     code: 639772
     url: /works/639772/
+  - title: Haha ga Ecchi na Chouhatsu Shite Kita node Gaman Dekizu ni Hangeki Shimashita.
+      | My mom started teasing me in a sexy way, so I couldn't help but fight back.
+    author: spices
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/640602.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 640602
+    url: /works/640602/
   - title: Akogare no Hito wa Mou Owari! 3
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/642586.jpg

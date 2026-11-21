@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "smoking"
-work_count: 12
+work_count: 13
 works:
   - title: Shirotaegiku | Dusty miller
     author: hiroya
@@ -17,6 +17,13 @@ works:
     date: '2026-11-09'
     code: 525330
     url: /works/525330/
+  - title: Atashi ga.... | I Will...
+    author: orita
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/533999.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 533999
+    url: /works/533999/
   - title: Na, shounen? | Hey, boy?
     author: orita
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/534101.jpg
