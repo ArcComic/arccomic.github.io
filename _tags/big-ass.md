@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big ass"
-work_count: 388
+work_count: 390
 works:
   - title: My Care Lady Ch. 1
     author: sugi-g
@@ -161,6 +161,13 @@ works:
     date: '2026-09-06'
     code: 370164
     url: /works/370164/
+  - title: Tsuma no Fuyugomori  Kashidasareta Karada
+    author: nanashi-novel
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/376671.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 376671
+    url: /works/376671/
   - title: Fukinshin Soukan no Onna | Non Incest Woman Chapter 1
     author: nagashima-chosuke
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/377597.jpg
@@ -2869,6 +2876,13 @@ works:
     date: '2026-11-21'
     code: 698681
     url: /works/698681/
+  - title: Souken Shimai ~Anetorare~
+    author: neko-samurai
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698880.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 698880
+    url: /works/698880/
   - title: 1Shuukan Gyaku Netorare -Kanojo no Haha ni Seiheki o Kuruwasareta Boku-
     author: shrimp-cake
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698893.jpg

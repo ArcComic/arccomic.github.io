@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "prostitution"
-work_count: 105
+work_count: 106
 works:
   - title: Ikanishite Haha wa Onna o Kaihou Shitaka Ch. 1-14
     author: mitarai-yuuki
@@ -71,6 +71,13 @@ works:
     date: '2026-03-09'
     code: 361032
     url: /works/361032/
+  - title: Tsuma no Fuyugomori  Kashidasareta Karada
+    author: nanashi-novel
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/376671.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 376671
+    url: /works/376671/
   - title: LOOK LIKE
     author: terasu-mc
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/388099.jpg

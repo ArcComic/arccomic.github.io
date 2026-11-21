@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "x-ray"
-work_count: 506
+work_count: 509
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -201,6 +201,13 @@ works:
     date: '2026-09-06'
     code: 370164
     url: /works/370164/
+  - title: Tsuma no Fuyugomori  Kashidasareta Karada
+    author: nanashi-novel
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/376671.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 376671
+    url: /works/376671/
   - title: Last Chance
     author: herio
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/384255.jpg
@@ -1148,6 +1155,15 @@ works:
     date: '2026-11-21'
     code: 596933
     url: /works/596933/
+  - title: Wafuu Seiso na Ano Musume ga Irekawatta Ore no Karada de Otoko no Seiyoku
+      ni Dohamari Suru Nante... | I Can't Believe this Pure, Traditionally Japanese
+      Young Lady, whom I Switched Bodies With, has Succumbed to Male Lust
+    author: joushi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/597610.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 597610
+    url: /works/597610/
   - title: Nagoriyuki | Fleeting Snow
     author: yd
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/599778.jpg
@@ -3738,6 +3754,13 @@ works:
     date: '2026-11-21'
     code: 698640
     url: /works/698640/
+  - title: Souken Shimai ~Anetorare~
+    author: neko-samurai
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698880.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 698880
+    url: /works/698880/
   - title: 1Shuukan Gyaku Netorare -Kanojo no Haha ni Seiheki o Kuruwasareta Boku-
     author: shrimp-cake
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698893.jpg

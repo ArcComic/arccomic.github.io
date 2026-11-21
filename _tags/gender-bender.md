@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "gender bender"
-work_count: 63
+work_count: 64
 works:
   - title: Natsu no Hyoui
     author: yuniba
@@ -133,6 +133,15 @@ works:
     date: '2026-11-09'
     code: 579368
     url: /works/579368/
+  - title: Wafuu Seiso na Ano Musume ga Irekawatta Ore no Karada de Otoko no Seiyoku
+      ni Dohamari Suru Nante... | I Can't Believe this Pure, Traditionally Japanese
+      Young Lady, whom I Switched Bodies With, has Succumbed to Male Lust
+    author: joushi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/597610.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 597610
+    url: /works/597610/
   - title: TS Onii-chan ~Futanari Imouto to no Ecchi Kinshi o Chikatta noni Gaman Dekizu
       ni Osoi ni Kuru Hanashi~
     author: kuroshiba-suko

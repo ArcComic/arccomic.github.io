@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "smell"
-work_count: 44
+work_count: 45
 works:
   - title: Natsu Jiru Ch. 1-2
     author: sena-youtarou
@@ -31,6 +31,13 @@ works:
     date: '2026-10-07'
     code: 352215
     url: /works/352215/
+  - title: Tsuma no Fuyugomori  Kashidasareta Karada
+    author: nanashi-novel
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/376671.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 376671
+    url: /works/376671/
   - title: Bakunyuu Hitozuma Kinpatsu Gaikokujin Jokyoushi ga Mura no Inshuu de Kasshoku
       Shota no Fudeoroshi o Suru Hanashi
     author: mifune-seijirou

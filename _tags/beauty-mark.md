@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "beauty mark"
-work_count: 277
+work_count: 278
 works:
   - title: Uragiri no Ai wa Mitsu no Aji | Treacherous Love Tastes Like Honey
     author: cuzukago
@@ -217,6 +217,13 @@ works:
     date: '2026-09-13'
     code: 369139
     url: /works/369139/
+  - title: Tsuma no Fuyugomori  Kashidasareta Karada
+    author: nanashi-novel
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/376671.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 376671
+    url: /works/376671/
   - title: FANTASY DIARY
     author: yd
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/386119.jpg

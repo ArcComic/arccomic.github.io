@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "nakadashi"
-work_count: 1199
+work_count: 1202
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -595,6 +595,13 @@ works:
     date: '2026-09-28'
     code: 373952
     url: /works/373952/
+  - title: Tsuma no Fuyugomori  Kashidasareta Karada
+    author: nanashi-novel
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/376671.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 376671
+    url: /works/376671/
   - title: Best friend
     author: gyouza-teishoku
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/379870.jpg
@@ -3050,6 +3057,15 @@ works:
     date: '2026-09-07'
     code: 597388
     url: /works/597388/
+  - title: Wafuu Seiso na Ano Musume ga Irekawatta Ore no Karada de Otoko no Seiyoku
+      ni Dohamari Suru Nante... | I Can't Believe this Pure, Traditionally Japanese
+      Young Lady, whom I Switched Bodies With, has Succumbed to Male Lust
+    author: joushi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/597610.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 597610
+    url: /works/597610/
   - title: Kaya-nee and the Old Man Memories
     author: kon-kit
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/598144.jpg
@@ -8873,6 +8889,13 @@ works:
     date: '2026-11-21'
     code: 698681
     url: /works/698681/
+  - title: Souken Shimai ~Anetorare~
+    author: neko-samurai
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698880.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 698880
+    url: /works/698880/
   - title: Kakkou no Hi Takuran Sareta Tsuma Sono 3 | Day of The Cuck 3!
     author: nanashi-novel
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698911.jpg

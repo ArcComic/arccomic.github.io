@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "kimono"
-work_count: 70
+work_count: 71
 works:
   - title: Hitozuma Hyakka
     author: hase-tsubura
@@ -201,6 +201,15 @@ works:
     date: '2026-08-29'
     code: 589969
     url: /works/589969/
+  - title: Wafuu Seiso na Ano Musume ga Irekawatta Ore no Karada de Otoko no Seiyoku
+      ni Dohamari Suru Nante... | I Can't Believe this Pure, Traditionally Japanese
+      Young Lady, whom I Switched Bodies With, has Succumbed to Male Lust
+    author: joushi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/597610.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 597610
+    url: /works/597610/
   - title: Cool na Niizuma to no Shinkon Seikatsu wa Amari ni mo... Yarashikatta  |
       Our Kinky Newlywed Life Vol. 1-3
     author: nanakusa-amane

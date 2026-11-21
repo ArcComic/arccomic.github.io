@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "shimaidon"
-work_count: 28
+work_count: 29
 works:
   - title: Watashito Iikoto Shiyo? | Will You Have Sex With Me?
     author: asagi-ryu-amano-miki
@@ -205,6 +205,13 @@ works:
     date: '2026-11-08'
     code: 694670
     url: /works/694670/
+  - title: Souken Shimai ~Anetorare~
+    author: neko-samurai
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698880.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 698880
+    url: /works/698880/
   - title: Touchuukasou Legion
     author: fuetakishi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698998.jpg

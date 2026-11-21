@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "dark skin"
-work_count: 220
+work_count: 221
 works:
   - title: Birthday
     author: hashiba-yachi
@@ -1617,6 +1617,13 @@ works:
     date: '2026-11-21'
     code: 698460
     url: /works/698460/
+  - title: Souken Shimai ~Anetorare~
+    author: neko-samurai
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698880.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 698880
+    url: /works/698880/
   - title: Kakkou no Hi Takuran Sareta Tsuma Sono 3 | Day of The Cuck 3!
     author: nanashi-novel
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698911.jpg

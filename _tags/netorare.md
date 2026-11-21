@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "netorare"
-work_count: 576
+work_count: 578
 works:
   - title: Kousa suru Osu to Mesu | Male and Female Crossing
     author: ootsuka-kotora
@@ -271,6 +271,13 @@ works:
     date: '2026-11-21'
     code: 373617
     url: /works/373617/
+  - title: Tsuma no Fuyugomori  Kashidasareta Karada
+    author: nanashi-novel
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/376671.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 376671
+    url: /works/376671/
   - title: Ore no Kyonyuu Osananajimi ga Aniki to Saikin Ayashii | My Busty Childhood
       Friend and Big Bro Have Been Acting Weird Lately
     author: mochichimaru
@@ -4198,6 +4205,13 @@ works:
     date: '2026-11-21'
     code: 698681
     url: /works/698681/
+  - title: Souken Shimai ~Anetorare~
+    author: neko-samurai
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698880.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 698880
+    url: /works/698880/
   - title: Kimi no Mae de Kimi Igai o Daku Ch. 45 | Having Sex with Someone Else in
       Front of You 45
     author: nakao

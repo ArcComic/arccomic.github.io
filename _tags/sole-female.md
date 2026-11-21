@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole female"
-work_count: 1360
+work_count: 1361
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -3827,6 +3827,15 @@ works:
     date: '2026-09-07'
     code: 597388
     url: /works/597388/
+  - title: Wafuu Seiso na Ano Musume ga Irekawatta Ore no Karada de Otoko no Seiyoku
+      ni Dohamari Suru Nante... | I Can't Believe this Pure, Traditionally Japanese
+      Young Lady, whom I Switched Bodies With, has Succumbed to Male Lust
+    author: joushi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/597610.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 597610
+    url: /works/597610/
   - title: Hajimete no DomiSub ~Match App de Mitsuketa Goshujin-sama ni Jinsei Bukkowashite
       Moraimasu~
     author: nemui-neru

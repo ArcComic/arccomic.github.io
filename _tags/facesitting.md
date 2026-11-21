@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "facesitting"
-work_count: 40
+work_count: 41
 works:
   - title: Yuri no o saifu ni shite agemasu ne, Senpai | I'll turn you into Yuri's wallet,
       Senpai
@@ -53,6 +53,13 @@ works:
     date: '2026-11-08'
     code: 358620
     url: /works/358620/
+  - title: Tsuma no Fuyugomori  Kashidasareta Karada
+    author: nanashi-novel
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/376671.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 376671
+    url: /works/376671/
   - title: Kanojo to no Kekkon Houkoku ni Kiseishita noni Gimai to Yarimakuri no Suujitsukan
       ga Hajimatteshimatta | I visited my in-laws to announce my marriage and ended
       up fucking my girlfriend's little sister silly!

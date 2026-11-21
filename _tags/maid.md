@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "maid"
-work_count: 67
+work_count: 68
 works:
   - title: Maid no Oshigoto. II | Maid's Work II
     author: alexi-laiho
@@ -17,6 +17,13 @@ works:
     date: '2026-10-15'
     code: 353048
     url: /works/353048/
+  - title: Tsuma no Fuyugomori  Kashidasareta Karada
+    author: nanashi-novel
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/376671.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 376671
+    url: /works/376671/
   - title: Kono Smapho Appli de Sex wa Risouka Sareru! ~Kozakura Kumaneko Full Color
       Sakuhinshuu~
     author: kozakura-kumaneko

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "chloroform"
-work_count: 26
+work_count: 27
 works:
   - title: Kurashiki-sensei wa Hatsujouki (Fujiyama-san wa Shishunki) | Kurashiki-sensei
       is in heat
@@ -32,6 +32,13 @@ works:
     date: '2026-04-13'
     code: 369382
     url: /works/369382/
+  - title: Tsuma no Fuyugomori  Kashidasareta Karada
+    author: nanashi-novel
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/376671.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 376671
+    url: /works/376671/
   - title: NTR Anniversary + ) [Syukurin] Mitsuha ~Netorare~ (Kimi no Na wa.) [English]
       [Colorized] by Mikaku
     author: arakure

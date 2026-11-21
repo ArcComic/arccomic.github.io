@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "drugs"
-work_count: 59
+work_count: 60
 works:
   - title: A-part | Apartment
     author: zero-no-mono
@@ -24,6 +24,13 @@ works:
     date: '2026-11-20'
     code: 353720
     url: /works/353720/
+  - title: Tsuma no Fuyugomori  Kashidasareta Karada
+    author: nanashi-novel
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/376671.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 376671
+    url: /works/376671/
   - title: Osananajimi no Otou-san ni.
     author: uni18
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/381875.jpg

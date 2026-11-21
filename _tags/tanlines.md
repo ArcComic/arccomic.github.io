@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "tanlines"
-work_count: 41
+work_count: 42
 works:
   - title: Mizugi no Shita no Yuuwaku | Temptation Beneath The Swimsuit
     author: gustav
@@ -306,4 +306,11 @@ works:
     date: '2026-11-17'
     code: 697894
     url: /works/697894/
+  - title: Souken Shimai ~Anetorare~
+    author: neko-samurai
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698880.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 698880
+    url: /works/698880/
 ---

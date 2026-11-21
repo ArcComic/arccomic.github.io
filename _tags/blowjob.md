@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "blowjob"
-work_count: 946
+work_count: 948
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -503,6 +503,13 @@ works:
     date: '2026-05-03'
     code: 376189
     url: /works/376189/
+  - title: Tsuma no Fuyugomori  Kashidasareta Karada
+    author: nanashi-novel
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/376671.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 376671
+    url: /works/376671/
   - title: Ore no Kyonyuu Osananajimi ga Aniki to Saikin Ayashii | My Busty Childhood
       Friend and Big Bro Have Been Acting Weird Lately
     author: mochichimaru
@@ -6962,6 +6969,13 @@ works:
     date: '2026-11-21'
     code: 698640
     url: /works/698640/
+  - title: Souken Shimai ~Anetorare~
+    author: neko-samurai
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698880.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 698880
+    url: /works/698880/
   - title: Koi 4 | Pre-Six Eyes & Limitless Satoru Gojo 5P with Yuki, Riko, Tsumiki,
       and Maki
     author: azukiko

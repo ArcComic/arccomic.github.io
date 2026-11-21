@@ -1,8 +1,17 @@
 ---
 layout: tag
 tag_name: "amuai okashi seisakusho"
-work_count: 6
+work_count: 7
 works:
+  - title: Wafuu Seiso na Ano Musume ga Irekawatta Ore no Karada de Otoko no Seiyoku
+      ni Dohamari Suru Nante... | I Can't Believe this Pure, Traditionally Japanese
+      Young Lady, whom I Switched Bodies With, has Succumbed to Male Lust
+    author: joushi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/597610.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 597610
+    url: /works/597610/
   - title: Boku ga Kayotteita no ha, Otokonoko wo Onnanoko ni Kaeteshimau Gakkou Deshita!
       | The School I Went to Was a School That Turned Boys Into Girls!
     author: yuukey

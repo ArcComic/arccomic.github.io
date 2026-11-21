@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "phone sex"
-work_count: 5
+work_count: 6
 works:
   - title: Yamazaki Makie (3●-sai), Musume no Kareshi to SeFri ni Naru | Yamazaki Makie
       (3X Years Old), Becoming Fuck Buddies with her Daughter's Boyfriend
@@ -40,4 +40,11 @@ works:
     date: '2026-07-09'
     code: 662658
     url: /works/662658/
+  - title: Souken Shimai ~Anetorare~
+    author: neko-samurai
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698880.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 698880
+    url: /works/698880/
 ---
