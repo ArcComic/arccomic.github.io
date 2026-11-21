@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "group"
-work_count: 339
+work_count: 340
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -333,6 +333,14 @@ works:
     date: '2026-10-09'
     code: 474885
     url: /works/474885/
+  - title: Me no Mae de Watashi no Tsuma o Okashite kudasai | Please Fuck My Wife In
+      Front Of Me
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/475829.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 475829
+    url: /works/475829/
   - title: Onsen Yukata na Kashima-san to Hamakaze-san to. | Hamakaze and Kashima in
       Hot Springs and Yukata
     author: sarfata

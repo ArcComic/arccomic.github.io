@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "prostitution"
-work_count: 104
+work_count: 105
 works:
   - title: Ikanishite Haha wa Onna o Kaihou Shitaka Ch. 1-14
     author: mitarai-yuuki
@@ -34,6 +34,14 @@ works:
     date: '2026-04-16'
     code: 304548
     url: /works/304548/
+  - title: Ojou-sama Gakkou ni Kayou Binbou Shoujo wa Touzen no You ni Papakatsu ni
+      Kiketsu Suru
+    author: gomu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/312577.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 312577
+    url: /works/312577/
   - title: My Sugar Mama! 1-3
     author: azukiko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/328334.jpg

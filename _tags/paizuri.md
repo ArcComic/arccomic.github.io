@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "paizuri"
-work_count: 340
+work_count: 341
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -247,6 +247,13 @@ works:
     date: '2026-04-27'
     code: 452482
     url: /works/452482/
+  - title: bust top secret
+    author: plum
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/452790.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 452790
+    url: /works/452790/
   - title: Bakunyuu Hitozuma Kinpatsu Gaikokujin Jokyoushi ga Mura no Inshuu de Kasshoku
       Shota no Fudeoroshi o Suru Hanashi
     author: mifune-seijirou

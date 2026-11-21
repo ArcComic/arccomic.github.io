@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole female"
-work_count: 1357
+work_count: 1360
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -462,6 +462,14 @@ works:
     date: '2026-05-10'
     code: 311755
     url: /works/311755/
+  - title: Ojou-sama Gakkou ni Kayou Binbou Shoujo wa Touzen no You ni Papakatsu ni
+      Kiketsu Suru
+    author: gomu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/312577.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 312577
+    url: /works/312577/
   - title: Ore no Hajimete wa Senpai ni Ubawaretai!! | I Want Senpai to Take My First
       Time!!
     author: saemon
@@ -1598,6 +1606,13 @@ works:
     date: '2026-03-07'
     code: 452141
     url: /works/452141/
+  - title: bust top secret
+    author: plum
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/452790.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 452790
+    url: /works/452790/
   - title: Onee-chan no Semen Server | My Big Sister's Semen Server
     author: rainbow-zou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/453286.jpg
@@ -1782,6 +1797,14 @@ works:
     date: '2026-09-29'
     code: 473892
     url: /works/473892/
+  - title: Me no Mae de Watashi no Tsuma o Okashite kudasai | Please Fuck My Wife In
+      Front Of Me
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/475829.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 475829
+    url: /works/475829/
   - title: '"Koko Ijirareru no Sukidatta yona?" Rinjin wa, Hitozuma no Moto SeFri |
       “You Love When I Tease You Here, Don’t You?” My Neighbor Was My Former Sex Friend
       1'

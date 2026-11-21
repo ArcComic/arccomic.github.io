@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "original"
-work_count: 1513
+work_count: 1514
 works:
   - title: Gokuusu Mizugi de Okasaretagari ga Kakusenai
     author: kekemotsu
@@ -1233,6 +1233,14 @@ works:
     date: '2026-10-15'
     code: 474458
     url: /works/474458/
+  - title: Me no Mae de Watashi no Tsuma o Okashite kudasai | Please Fuck My Wife In
+      Front Of Me
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/475829.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 475829
+    url: /works/475829/
   - title: Seiso na Imouto no Tomodachi wa Mesugaki deshita | My Pure and Innocent Little
       Sister Became Friends With a Mesugaki
     author: kagono-tori

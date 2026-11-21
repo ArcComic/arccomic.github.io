@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bbm"
-work_count: 156
+work_count: 158
 works:
   - title: Kindan no Hatemitsu
     author: ryuuta
@@ -48,6 +48,14 @@ works:
     date: '2026-09-26'
     code: 309899
     url: /works/309899/
+  - title: Ojou-sama Gakkou ni Kayou Binbou Shoujo wa Touzen no You ni Papakatsu ni
+      Kiketsu Suru
+    author: gomu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/312577.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 312577
+    url: /works/312577/
   - title: Tsumareta Ikoku no Hana II
     author: darabuchi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/315693.jpg
@@ -150,6 +158,14 @@ works:
     date: '2026-10-15'
     code: 474458
     url: /works/474458/
+  - title: Me no Mae de Watashi no Tsuma o Okashite kudasai | Please Fuck My Wife In
+      Front Of Me
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/475829.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 475829
+    url: /works/475829/
   - title: Minpaku ~Ojou-sama-tachi wa Minpaku Keieisha no Wana ni Ochiru~
     author: kinugasa-yuuichi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/478446.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "full censorship"
-work_count: 166
+work_count: 167
 works:
   - title: Kaisha de Iroiro | Gettin' Busy at the Office
     author: hara-shigeyuki
@@ -239,6 +239,13 @@ works:
     date: '2026-09-15'
     code: 443073
     url: /works/443073/
+  - title: bust top secret
+    author: plum
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/452790.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 452790
+    url: /works/452790/
   - title: Koi no Gunfight Love Steal
     author: napo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/460241.jpg

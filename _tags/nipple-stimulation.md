@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "nipple stimulation"
-work_count: 236
+work_count: 237
 works:
+  - title: bust top secret
+    author: plum
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/452790.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 452790
+    url: /works/452790/
   - title: Hypnotic Domination ~ The Fall of Tennis Club Ace ~
     author: danchino
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/461537.jpg

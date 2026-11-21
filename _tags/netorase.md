@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "netorase"
-work_count: 59
+work_count: 60
 works:
   - title: Boku no Netorase Seiheki ni Tsukiatte kureru Kanojo | A Girlfriend Who Plays
       Along with My Cuckold Fetish
@@ -19,6 +19,14 @@ works:
     date: '2026-04-19'
     code: 470023
     url: /works/470023/
+  - title: Me no Mae de Watashi no Tsuma o Okashite kudasai | Please Fuck My Wife In
+      Front Of Me
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/475829.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 475829
+    url: /works/475829/
   - title: Akogare datta, Sagara-san.
     author: tokyo-gunjo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/487275.jpg

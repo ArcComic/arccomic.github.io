@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "defloration"
-work_count: 311
+work_count: 312
 works:
   - title: Imitation Family + Bigibo Hen
     author: tohzai
@@ -122,6 +122,14 @@ works:
     date: '2026-10-15'
     code: 310857
     url: /works/310857/
+  - title: Ojou-sama Gakkou ni Kayou Binbou Shoujo wa Touzen no You ni Papakatsu ni
+      Kiketsu Suru
+    author: gomu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/312577.jpg
+    rating: 0.0
+    date: '2026-11-21'
+    code: 312577
+    url: /works/312577/
   - title: Swapping Party!?
     author: ame-arare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/318530.jpg
