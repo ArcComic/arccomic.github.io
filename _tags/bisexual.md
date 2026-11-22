@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bisexual"
-work_count: 59
+work_count: 60
 works:
   - title: Natsu no Hyoui
     author: yuniba
@@ -47,6 +47,14 @@ works:
     date: '2026-09-10'
     code: 538176
     url: /works/538176/
+  - title: Watashi swap Ore ~Kinjo no Sukebe na Itazurakko to Karada o Irekaerareta
+      Watashi~
+    author: joushi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/539660.jpg
+    rating: 0.0
+    date: '2026-11-22'
+    code: 539660
+    url: /works/539660/
   - title: Pakokatsu Oji-san to Kaede-chan (1+2+3) | Kaede and The Sugar Daddy
     author: nizigensan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/543086.jpg

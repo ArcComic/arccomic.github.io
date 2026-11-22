@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "voyeurism"
-work_count: 88
+work_count: 90
 works:
   - title: Tsutomesaki no Musume-san o Oishiku Itadaku Hon Minshuku Hen
     author: aya
@@ -194,6 +194,14 @@ works:
     date: '2026-05-07'
     code: 536423
     url: /works/536423/
+  - title: Watashi swap Ore ~Kinjo no Sukebe na Itazurakko to Karada o Irekaerareta
+      Watashi~
+    author: joushi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/539660.jpg
+    rating: 0.0
+    date: '2026-11-22'
+    code: 539660
+    url: /works/539660/
   - title: Oshi ni Yowai Kanojo ni Netorase nante Tanomanakereba Yokatta... | I Wish
       I Had Never Begged My Pushover Girlfriend To Cuck Me...
     author: kasumi-kaori
@@ -628,6 +636,14 @@ works:
     date: '2026-11-10'
     code: 695711
     url: /works/695711/
+  - title: Jinkouchinou wa Namida o Nagasu. ~Shinderu Aida ni Tsuma o Netorareta Otto
+      no Monogatari~｜Artificial Tears -While I Was Dead, Someone Else Claimed My Wife-
+    author: technician
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698402.jpg
+    rating: 0.0
+    date: '2026-11-22'
+    code: 698402
+    url: /works/698402/
   - title: Kimi no Mae de Kimi Igai o Daku Ch. 45 | Having Sex with Someone Else in
       Front of You 45
     author: nakao

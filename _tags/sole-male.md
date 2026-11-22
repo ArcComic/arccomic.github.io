@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole male"
-work_count: 1295
+work_count: 1298
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -2538,6 +2538,14 @@ works:
     date: '2026-09-15'
     code: 539377
     url: /works/539377/
+  - title: Watashi swap Ore ~Kinjo no Sukebe na Itazurakko to Karada o Irekaerareta
+      Watashi~
+    author: joushi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/539660.jpg
+    rating: 0.0
+    date: '2026-11-22'
+    code: 539660
+    url: /works/539660/
   - title: Seitaishi ~Watashi no Tsuma o Daitekure~ | The Sexual Therapist ~Please Sleep
       with My Wife~
     author: same-manma
@@ -4392,6 +4400,13 @@ works:
     date: '2026-03-07'
     code: 635363
     url: /works/635363/
+  - title: Trainers' Virginity is The Kahuna’s Privilege
+    author: borisu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/635430.jpg
+    rating: 0.0
+    date: '2026-11-22'
+    code: 635430
+    url: /works/635430/
   - title: Married Women Are At A Naughty Age 2
     author: asagi-ryu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/635482.jpg
@@ -9529,6 +9544,14 @@ works:
     date: '2026-11-17'
     code: 697736
     url: /works/697736/
+  - title: Jinkouchinou wa Namida o Nagasu. ~Shinderu Aida ni Tsuma o Netorareta Otto
+      no Monogatari~｜Artificial Tears -While I Was Dead, Someone Else Claimed My Wife-
+    author: technician
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698402.jpg
+    rating: 0.0
+    date: '2026-11-22'
+    code: 698402
+    url: /works/698402/
   - title: The Neighbor's Ex-Gyaru Mom Gets Ecchi in Her Thin Clothes
     author: takezumi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698460.jpg

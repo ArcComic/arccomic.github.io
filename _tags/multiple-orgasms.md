@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "multiple orgasms"
-work_count: 161
+work_count: 162
 works:
   - title: Rako Slip!
     author: bujidearu
@@ -1190,6 +1190,14 @@ works:
     date: '2026-11-21'
     code: 697200
     url: /works/697200/
+  - title: Jinkouchinou wa Namida o Nagasu. ~Shinderu Aida ni Tsuma o Netorareta Otto
+      no Monogatari~｜Artificial Tears -While I Was Dead, Someone Else Claimed My Wife-
+    author: technician
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698402.jpg
+    rating: 0.0
+    date: '2026-11-22'
+    code: 698402
+    url: /works/698402/
   - title: Kakkou no Hi Takuran Sareta Tsuma Sono 3 | Day of The Cuck 3!
     author: nanashi-novel
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698911.jpg

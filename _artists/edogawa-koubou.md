@@ -1,7 +1,7 @@
 ---
 layout: artist
 artist_name: "edogawa-koubou"
-work_count: 3
+work_count: 4
 works:
   - title: Kokuru no o Tamerattetara Itsunomanika Charao ni Hameraremakutteta Boku no
       Osananajimi
@@ -23,4 +23,10 @@ works:
     date: '2026-11-21'
     code: 454233
     url: /works/454233/
+  - title: A ripe wife awakened by her nephew at a house with a family every day
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/489231.jpg
+    rating: 0.0
+    date: '2026-11-22'
+    code: 489231
+    url: /works/489231/
 ---

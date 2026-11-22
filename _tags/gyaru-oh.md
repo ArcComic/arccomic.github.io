@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "gyaru-oh"
-work_count: 63
+work_count: 65
 works:
   - title: Netorare Ibe Kiba Shizuka
     author: terasu-mc
@@ -156,6 +156,14 @@ works:
     date: '2026-05-07'
     code: 536423
     url: /works/536423/
+  - title: Watashi swap Ore ~Kinjo no Sukebe na Itazurakko to Karada o Irekaerareta
+      Watashi~
+    author: joushi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/539660.jpg
+    rating: 0.0
+    date: '2026-11-22'
+    code: 539660
+    url: /works/539660/
   - title: Camera Goshi no Kimi wa...
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/543436.jpg
@@ -465,6 +473,14 @@ works:
     date: '2026-11-14'
     code: 696730
     url: /works/696730/
+  - title: Jinkouchinou wa Namida o Nagasu. ~Shinderu Aida ni Tsuma o Netorareta Otto
+      no Monogatari~｜Artificial Tears -While I Was Dead, Someone Else Claimed My Wife-
+    author: technician
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698402.jpg
+    rating: 0.0
+    date: '2026-11-22'
+    code: 698402
+    url: /works/698402/
   - title: Kakkou no Hi Takuran Sareta Tsuma Sono 3 | Day of The Cuck 3!
     author: nanashi-novel
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698911.jpg

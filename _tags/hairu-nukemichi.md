@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "hairu nukemichi"
-work_count: 4
+work_count: 5
 works:
   - title: Hyoui Osen de Yuri Ecchi | Lesbian Sex through Corrupting Possession
     author: siina-yuuki
@@ -10,6 +10,14 @@ works:
     date: '2026-09-13'
     code: 404458
     url: /works/404458/
+  - title: Watashi swap Ore ~Kinjo no Sukebe na Itazurakko to Karada o Irekaerareta
+      Watashi~
+    author: joushi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/539660.jpg
+    rating: 0.0
+    date: '2026-11-22'
+    code: 539660
+    url: /works/539660/
   - title: Boku Swap Ane ~Akogare no Onee-chan to Karada o Irekaerareteshimatta Boku~
       | How I Switched Bodies With My Dear Onee-chan
     author: siina-yuuki

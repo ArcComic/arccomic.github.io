@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bbm"
-work_count: 159
+work_count: 160
 works:
   - title: Kindan no Hatemitsu
     author: ryuuta
@@ -599,6 +599,13 @@ works:
     date: '2026-03-07'
     code: 635363
     url: /works/635363/
+  - title: Trainers' Virginity is The Kahuna’s Privilege
+    author: borisu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/635430.jpg
+    rating: 0.0
+    date: '2026-11-22'
+    code: 635430
+    url: /works/635430/
   - title: Imouto Oppai de Sukusuku Seikatsu
     author: asaomi-shimura
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/636802.jpg

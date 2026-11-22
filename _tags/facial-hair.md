@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "facial hair"
-work_count: 50
+work_count: 51
 works:
   - title: Asuna-san ga Agil ni Netorareru Ohanashi
     author: fujimiya-siryu
@@ -148,6 +148,13 @@ works:
     date: '2026-02-25'
     code: 631719
     url: /works/631719/
+  - title: Trainers' Virginity is The Kahuna’s Privilege
+    author: borisu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/635430.jpg
+    rating: 0.0
+    date: '2026-11-22'
+    code: 635430
+    url: /works/635430/
   - title: LeveChi na Swapping 3 ~Honrosareru Fuufu Hen~ | Swapping on a Whole New Level
       3 ~The Couple At The Mercy Of Others~
     author: hikitogu

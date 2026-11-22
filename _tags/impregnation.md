@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "impregnation"
-work_count: 220
+work_count: 221
 works:
   - title: Kousa suru Osu to Mesu | Male and Female Crossing
     author: ootsuka-kotora
@@ -803,6 +803,13 @@ works:
     date: '2026-03-07'
     code: 635266
     url: /works/635266/
+  - title: Trainers' Virginity is The Kahuna’s Privilege
+    author: borisu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/635430.jpg
+    rating: 0.0
+    date: '2026-11-22'
+    code: 635430
+    url: /works/635430/
   - title: Ore ga Dairi Tanetsuke Suru Koto ni Natta Hitozuma Tachibana Shizuka-san
       wa Nannimo Shiranai!! Sono 2 | | Shizuka Tachibana, the Housewife Who Collects
       My Sperm Donations, Doesn’t Know a Damn Thing!! Chapter 2

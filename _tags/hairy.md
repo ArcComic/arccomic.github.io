@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "hairy"
-work_count: 453
+work_count: 455
 works:
   - title: MAGIC SEVEN
     author: asuhiro
@@ -948,6 +948,14 @@ works:
     date: '2026-07-11'
     code: 538553
     url: /works/538553/
+  - title: Watashi swap Ore ~Kinjo no Sukebe na Itazurakko to Karada o Irekaerareta
+      Watashi~
+    author: joushi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/539660.jpg
+    rating: 0.0
+    date: '2026-11-22'
+    code: 539660
+    url: /works/539660/
   - title: Seitaishi ~Watashi no Tsuma o Daitekure~ | The Sexual Therapist ~Please Sleep
       with My Wife~
     author: same-manma
@@ -3311,6 +3319,14 @@ works:
     date: '2026-11-17'
     code: 697894
     url: /works/697894/
+  - title: Jinkouchinou wa Namida o Nagasu. ~Shinderu Aida ni Tsuma o Netorareta Otto
+      no Monogatari~｜Artificial Tears -While I Was Dead, Someone Else Claimed My Wife-
+    author: technician
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698402.jpg
+    rating: 0.0
+    date: '2026-11-22'
+    code: 698402
+    url: /works/698402/
   - title: The Neighbor's Ex-Gyaru Mom Gets Ecchi in Her Thin Clothes
     author: takezumi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698460.jpg

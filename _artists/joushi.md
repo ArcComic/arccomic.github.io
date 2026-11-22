@@ -1,8 +1,15 @@
 ---
 layout: artist
 artist_name: "joushi"
-work_count: 5
+work_count: 6
 works:
+  - title: Watashi swap Ore ~Kinjo no Sukebe na Itazurakko to Karada o Irekaerareta
+      Watashi~
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/539660.jpg
+    rating: 0.0
+    date: '2026-11-22'
+    code: 539660
+    url: /works/539660/
   - title: TS Jinsei Yarinaoshiki!! | TS Life Redo Machine!!
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/547775.jpg
     rating: 0.0

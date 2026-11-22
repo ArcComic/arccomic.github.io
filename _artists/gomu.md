@@ -1,7 +1,7 @@
 ---
 layout: artist
 artist_name: "gomu"
-work_count: 5
+work_count: 6
 works:
   - title: Ojou-sama Gakkou ni Kayou Binbou Shoujo wa Touzen no You ni Papakatsu ni
       Kiketsu Suru
@@ -22,6 +22,13 @@ works:
     date: '2026-11-22'
     code: 434761
     url: /works/434761/
+  - title: Muchi ni Shokuzai Kyouiku ni Nikuyoku | Atonement For Ignorance, Education
+      for Lust
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/520693.jpg
+    rating: 0.0
+    date: '2026-11-22'
+    code: 520693
+    url: /works/520693/
   - title: Kore ga Otona no Shazai Jutsu | Rio's Sexpology
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/547229.jpg
     rating: 0.0

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "nakadashi"
-work_count: 1210
+work_count: 1212
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -4011,6 +4011,13 @@ works:
     date: '2026-03-07'
     code: 635363
     url: /works/635363/
+  - title: Trainers' Virginity is The Kahuna’s Privilege
+    author: borisu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/635430.jpg
+    rating: 0.0
+    date: '2026-11-22'
+    code: 635430
+    url: /works/635430/
   - title: Sewayaki na Kyonyuu Gakkyuu Iinchou Sono 1-20 | The Kind and Caring Busty
       Class Rep Ch.1-20
     author: makosho
@@ -8921,6 +8928,14 @@ works:
     date: '2026-11-17'
     code: 697894
     url: /works/697894/
+  - title: Jinkouchinou wa Namida o Nagasu. ~Shinderu Aida ni Tsuma o Netorareta Otto
+      no Monogatari~｜Artificial Tears -While I Was Dead, Someone Else Claimed My Wife-
+    author: technician
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698402.jpg
+    rating: 0.0
+    date: '2026-11-22'
+    code: 698402
+    url: /works/698402/
   - title: The Neighbor's Ex-Gyaru Mom Gets Ecchi in Her Thin Clothes
     author: takezumi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698460.jpg

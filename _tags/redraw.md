@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "redraw"
-work_count: 6
+work_count: 7
 works:
   - title: Daddy's Forgotten Life Purpose
     author: group
@@ -10,6 +10,13 @@ works:
     date: '2026-03-03'
     code: 631630
     url: /works/631630/
+  - title: Trainers' Virginity is The Kahuna’s Privilege
+    author: borisu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/635430.jpg
+    rating: 0.0
+    date: '2026-11-22'
+    code: 635430
+    url: /works/635430/
   - title: Curiosity and the Cost of Innocence
     author: hoshi-to-lucky
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/637110.jpg
