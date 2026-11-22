@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "boin-do"
-work_count: 3
+work_count: 4
 works:
   - title: Mothers are Women Too! 6
     author: siberian-hahasky
@@ -24,4 +24,11 @@ works:
     date: '2026-10-11'
     code: 686449
     url: /works/686449/
+  - title: My Mom, My Love 1 - 9
+    author: siberian-hahasky
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/699299.jpg
+    rating: 0.0
+    date: '2026-11-22'
+    code: 699299
+    url: /works/699299/
 ---

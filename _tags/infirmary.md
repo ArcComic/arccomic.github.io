@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "infirmary"
-work_count: 10
+work_count: 11
 works:
   - title: Hokenshitsu no Futon no Naka de Satori Sedai JK to Naisho H!
     author: niji-teru
@@ -78,4 +78,11 @@ works:
     date: '2026-11-21'
     code: 698956
     url: /works/698956/
+  - title: Senpai, Kyou Tomatte mo Ii yo ne? 3
+    author: shien
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/699118.jpg
+    rating: 0.0
+    date: '2026-11-22'
+    code: 699118
+    url: /works/699118/
 ---

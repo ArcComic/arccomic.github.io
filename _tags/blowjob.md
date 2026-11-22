@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "blowjob"
-work_count: 955
+work_count: 956
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -7079,6 +7079,13 @@ works:
     date: '2026-11-21'
     code: 698998
     url: /works/698998/
+  - title: Senpai, Kyou Tomatte mo Ii yo ne? 3
+    author: shien
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/699118.jpg
+    rating: 0.0
+    date: '2026-11-22'
+    code: 699118
+    url: /works/699118/
   - title: Jokyoushi - Hot For Teachers | Female Teachers
     author: drill-murata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/81375.jpg

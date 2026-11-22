@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "manga"
-work_count: 476
+work_count: 477
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -255,6 +255,13 @@ works:
     date: '2026-09-04'
     code: 294902
     url: /works/294902/
+  - title: Ningen Sandbag | Human Punching Bag
+    author: yamahata-rian
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/296585.jpg
+    rating: 0.0
+    date: '2026-11-22'
+    code: 296585
+    url: /works/296585/
   - title: Boku no Kazoku o Sarashimasu Ch. 3
     author: tanaka-aji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/297068.jpg

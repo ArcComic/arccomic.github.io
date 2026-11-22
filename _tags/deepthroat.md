@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "deepthroat"
-work_count: 148
+work_count: 149
 works:
   - title: Toshishita Chin Kui Obasan
     author: maccha-neji
@@ -1122,4 +1122,11 @@ works:
     date: '2026-11-21'
     code: 698998
     url: /works/698998/
+  - title: Senpai, Kyou Tomatte mo Ii yo ne? 3
+    author: shien
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/699118.jpg
+    rating: 0.0
+    date: '2026-11-22'
+    code: 699118
+    url: /works/699118/
 ---

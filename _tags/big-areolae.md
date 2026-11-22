@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big areolae"
-work_count: 163
+work_count: 164
 works:
   - title: Toshoshitsu no Kanojo ~Seiso na Kimi ga Ochiru made~
     author: ame-arare
@@ -1251,4 +1251,11 @@ works:
     date: '2026-11-21'
     code: 698893
     url: /works/698893/
+  - title: Senpai, Kyou Tomatte mo Ii yo ne? 3
+    author: shien
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/699118.jpg
+    rating: 0.0
+    date: '2026-11-22'
+    code: 699118
+    url: /works/699118/
 ---

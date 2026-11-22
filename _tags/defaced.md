@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "defaced"
-work_count: 2
+work_count: 3
 works:
   - title: KAWAKAMI FROM THE SEXUAL RELIEF DIVISION
     author: carpsukidayo
@@ -17,4 +17,11 @@ works:
     date: '2026-10-18'
     code: 688528
     url: /works/688528/
+  - title: My Mom, My Love 1 - 9
+    author: siberian-hahasky
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/699299.jpg
+    rating: 0.0
+    date: '2026-11-22'
+    code: 699299
+    url: /works/699299/
 ---

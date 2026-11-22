@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "english"
-work_count: 2280
+work_count: 2283
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -563,6 +563,13 @@ works:
     date: '2026-04-23'
     code: 296282
     url: /works/296282/
+  - title: Ningen Sandbag | Human Punching Bag
+    author: yamahata-rian
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/296585.jpg
+    rating: 0.0
+    date: '2026-11-22'
+    code: 296585
+    url: /works/296585/
   - title: Boku no Kazoku o Sarashimasu Ch. 3
     author: tanaka-aji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/297068.jpg
@@ -16757,6 +16764,20 @@ works:
     date: '2026-11-21'
     code: 699058
     url: /works/699058/
+  - title: Senpai, Kyou Tomatte mo Ii yo ne? 3
+    author: shien
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/699118.jpg
+    rating: 0.0
+    date: '2026-11-22'
+    code: 699118
+    url: /works/699118/
+  - title: My Mom, My Love 1 - 9
+    author: siberian-hahasky
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/699299.jpg
+    rating: 0.0
+    date: '2026-11-22'
+    code: 699299
+    url: /works/699299/
   - title: Hottokenaino
     author: hara-shigeyuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/77864.jpg

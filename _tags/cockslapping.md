@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "cockslapping"
-work_count: 3
+work_count: 4
 works:
   - title: Hatsutaiken no Susume | Recommendation for the First Time Experience
     author: mojarin
@@ -25,4 +25,11 @@ works:
     date: '2026-10-05'
     code: 685961
     url: /works/685961/
+  - title: Senpai, Kyou Tomatte mo Ii yo ne? 3
+    author: shien
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/699118.jpg
+    rating: 0.0
+    date: '2026-11-22'
+    code: 699118
+    url: /works/699118/
 ---

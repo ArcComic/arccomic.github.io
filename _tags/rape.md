@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "rape"
-work_count: 300
+work_count: 301
 works:
   - title: Office Love Scramble Ch. 1
     author: tohzai
@@ -47,6 +47,13 @@ works:
     date: '2026-11-11'
     code: 289930
     url: /works/289930/
+  - title: Ningen Sandbag | Human Punching Bag
+    author: yamahata-rian
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/296585.jpg
+    rating: 0.0
+    date: '2026-11-22'
+    code: 296585
+    url: /works/296585/
   - title: Toshoshitsu no Kanojo ~Seiso na Kimi ga Ochiru made~
     author: ame-arare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/299071.jpg

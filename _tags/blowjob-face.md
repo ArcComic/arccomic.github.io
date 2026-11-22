@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "blowjob face"
-work_count: 108
+work_count: 109
 works:
   - title: Mama Naranai Onna-tachi Ch. 1-2
     author: otochichi
@@ -813,4 +813,11 @@ works:
     date: '2026-11-21'
     code: 698998
     url: /works/698998/
+  - title: Senpai, Kyou Tomatte mo Ii yo ne? 3
+    author: shien
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/699118.jpg
+    rating: 0.0
+    date: '2026-11-22'
+    code: 699118
+    url: /works/699118/
 ---

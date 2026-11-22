@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "mother"
-work_count: 244
+work_count: 245
 works:
   - title: Imitation Family + Bigibo Hen
     author: tohzai
@@ -1791,4 +1791,11 @@ works:
     date: '2026-11-17'
     code: 697894
     url: /works/697894/
+  - title: My Mom, My Love 1 - 9
+    author: siberian-hahasky
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/699299.jpg
+    rating: 0.0
+    date: '2026-11-22'
+    code: 699299
+    url: /works/699299/
 ---

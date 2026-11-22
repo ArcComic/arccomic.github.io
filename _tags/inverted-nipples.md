@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "inverted nipples"
-work_count: 49
+work_count: 50
 works:
   - title: Mama Naranai Onna-tachi Ch. 1-2
     author: otochichi
@@ -367,4 +367,11 @@ works:
     date: '2026-11-10'
     code: 695588
     url: /works/695588/
+  - title: Senpai, Kyou Tomatte mo Ii yo ne? 3
+    author: shien
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/699118.jpg
+    rating: 0.0
+    date: '2026-11-22'
+    code: 699118
+    url: /works/699118/
 ---
