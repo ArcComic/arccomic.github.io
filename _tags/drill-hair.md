@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "drill hair"
-work_count: 7
+work_count: 8
 works:
   - title: Yayoi to Issho 4
     author: tsurui
@@ -46,6 +46,14 @@ works:
     date: '2026-10-12'
     code: 677284
     url: /works/677284/
+  - title: Isekai Anal Monogatari 2 ~Neko Kemonohito Hen~ | Anal Odyssey In Another
+      World 2 ~ Cat Girl Edition ~
+    author: goma-gorilla
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680646.jpg
+    rating: 0.0
+    date: '2026-11-22'
+    code: 680646
+    url: /works/680646/
   - title: FUCK MATCH ~Haiboku! Takane no Manko~
     author: nakajima-uota
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/691651.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "huge breasts"
-work_count: 169
+work_count: 170
 works:
   - title: Mama Naranai Onna-tachi Ch. 1-2
     author: otochichi
@@ -227,6 +227,13 @@ works:
     date: '2026-03-05'
     code: 634592
     url: /works/634592/
+  - title: Jimi Kyonyuu Manager Netorareru
+    author: technician
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/635022.jpg
+    rating: 0.0
+    date: '2026-11-22'
+    code: 635022
+    url: /works/635022/
   - title: Chijo Monogatari Bakunyuu Chijukujo to Doutei-kun
     author: enma
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/635174.jpg

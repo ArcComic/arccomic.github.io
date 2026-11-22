@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "blackmail"
-work_count: 197
+work_count: 199
 works:
   - title: Birthday
     author: hashiba-yachi
@@ -24,6 +24,14 @@ works:
     date: '2026-02-26'
     code: 179531
     url: /works/179531/
+  - title: Kokuru no o Tamerattetara Itsunomanika Charao ni Hameraremakutteta Boku no
+      Osananajimi
+    author: edogawa-koubou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/264495.jpg
+    rating: 0.0
+    date: '2026-11-22'
+    code: 264495
+    url: /works/264495/
   - title: Netorare Ibe Kiba Shizuka
     author: terasu-mc
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/275108.jpg
@@ -684,6 +692,13 @@ works:
     date: '2026-08-29'
     code: 634450
     url: /works/634450/
+  - title: Jimi Kyonyuu Manager Netorareru
+    author: technician
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/635022.jpg
+    rating: 0.0
+    date: '2026-11-22'
+    code: 635022
+    url: /works/635022/
   - title: If You Get To Jerk Off To My Socks, I Get To Play With Your Dick, Right?
       | Watashi no Kutsushita de Shikotteru nara Sono Ochinpo de Asonde mo Ii yo ne?
     author: honshiro-nikori

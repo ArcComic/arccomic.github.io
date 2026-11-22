@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "paizuri"
-work_count: 345
+work_count: 346
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -987,6 +987,13 @@ works:
     date: '2026-03-05'
     code: 634591
     url: /works/634591/
+  - title: Jimi Kyonyuu Manager Netorareru
+    author: technician
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/635022.jpg
+    rating: 0.0
+    date: '2026-11-22'
+    code: 635022
+    url: /works/635022/
   - title: Sex Shinai to Derarenai Hotel 2 | The hotel you can't leave without having
       sex 2
     author: jeattle

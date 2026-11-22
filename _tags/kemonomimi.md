@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "kemonomimi"
-work_count: 57
+work_count: 58
 works:
   - title: Datenshi Corruption II
     author: napo
@@ -257,6 +257,14 @@ works:
     date: '2026-09-10'
     code: 679992
     url: /works/679992/
+  - title: Isekai Anal Monogatari 2 ~Neko Kemonohito Hen~ | Anal Odyssey In Another
+      World 2 ~ Cat Girl Edition ~
+    author: goma-gorilla
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680646.jpg
+    rating: 0.0
+    date: '2026-11-22'
+    code: 680646
+    url: /works/680646/
   - title: LOVE Summer
     author: lander0808
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/681683.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "unusual pupils"
-work_count: 116
+work_count: 117
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -377,6 +377,13 @@ works:
     date: '2026-02-26'
     code: 632523
     url: /works/632523/
+  - title: Jimi Kyonyuu Manager Netorareru
+    author: technician
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/635022.jpg
+    rating: 0.0
+    date: '2026-11-22'
+    code: 635022
+    url: /works/635022/
   - title: Siblings Shouldn't Do It! | Kyoudai de Shitara Ikemasen
     author: fence-14
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/635266.jpg

@@ -1,8 +1,14 @@
 ---
 layout: artist
 artist_name: "technician"
-work_count: 2
+work_count: 3
 works:
+  - title: Jimi Kyonyuu Manager Netorareru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/635022.jpg
+    rating: 0.0
+    date: '2026-11-22'
+    code: 635022
+    url: /works/635022/
   - title: Anal Sex ga Unda Aru Fuufu no Saikouchiku Monogatari | The Story Of A Marriage
       Rebuilt By Anal Sex
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/669306.jpg

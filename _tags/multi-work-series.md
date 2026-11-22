@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "multi-work series"
-work_count: 525
+work_count: 527
 works:
   - title: Konna ni mo Itooshii Zero
     author: nohito
@@ -10,6 +10,14 @@ works:
     date: '2026-10-09'
     code: 179622
     url: /works/179622/
+  - title: Kokuru no o Tamerattetara Itsunomanika Charao ni Hameraremakutteta Boku no
+      Osananajimi
+    author: edogawa-koubou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/264495.jpg
+    rating: 0.0
+    date: '2026-11-22'
+    code: 264495
+    url: /works/264495/
   - title: Kokuru no o Tamerattetara Itsunomanika Charao ni Hameraremakutteta Boku no
       Osananajimi 2
     author: edogawa-koubou
@@ -3110,6 +3118,14 @@ works:
     date: '2026-09-12'
     code: 680591
     url: /works/680591/
+  - title: Isekai Anal Monogatari 2 ~Neko Kemonohito Hen~ | Anal Odyssey In Another
+      World 2 ~ Cat Girl Edition ~
+    author: goma-gorilla
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680646.jpg
+    rating: 0.0
+    date: '2026-11-22'
+    code: 680646
+    url: /works/680646/
   - title: Shiteru Kyoudai | Siblings Doing It!
     author: nise
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680682.jpg

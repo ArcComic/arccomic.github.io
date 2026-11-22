@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "stockings"
-work_count: 322
+work_count: 324
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -929,6 +929,13 @@ works:
     date: '2026-03-07'
     code: 634328
     url: /works/634328/
+  - title: Jimi Kyonyuu Manager Netorareru
+    author: technician
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/635022.jpg
+    rating: 0.0
+    date: '2026-11-22'
+    code: 635022
+    url: /works/635022/
   - title: Siblings Shouldn't Do It! | Kyoudai de Shitara Ikemasen
     author: fence-14
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/635266.jpg
@@ -1666,6 +1673,14 @@ works:
     date: '2026-09-12'
     code: 680555
     url: /works/680555/
+  - title: Isekai Anal Monogatari 2 ~Neko Kemonohito Hen~ | Anal Odyssey In Another
+      World 2 ~ Cat Girl Edition ~
+    author: goma-gorilla
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680646.jpg
+    rating: 0.0
+    date: '2026-11-22'
+    code: 680646
+    url: /works/680646/
   - title: Houtou Kizoku wa Moto Outaishihi to no Haramasekon de Isogashii - The Rake
       and The Once Crowned Princess
     author: jagi-iwa

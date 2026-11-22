@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "anal"
-work_count: 220
+work_count: 221
 works:
   - title: Ikanishite Haha wa Onna o Kaihou Shitaka Ch. 1-14
     author: mitarai-yuuki
@@ -1158,6 +1158,14 @@ works:
     date: '2026-09-12'
     code: 680592
     url: /works/680592/
+  - title: Isekai Anal Monogatari 2 ~Neko Kemonohito Hen~ | Anal Odyssey In Another
+      World 2 ~ Cat Girl Edition ~
+    author: goma-gorilla
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680646.jpg
+    rating: 0.0
+    date: '2026-11-22'
+    code: 680646
+    url: /works/680646/
   - title: 'Test of Courage: Group Humiliation'
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680735.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "netorare"
-work_count: 582
+work_count: 584
 works:
   - title: Kousa suru Osu to Mesu | Male and Female Crossing
     author: ootsuka-kotora
@@ -52,6 +52,14 @@ works:
     date: '2026-09-30'
     code: 246449
     url: /works/246449/
+  - title: Kokuru no o Tamerattetara Itsunomanika Charao ni Hameraremakutteta Boku no
+      Osananajimi
+    author: edogawa-koubou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/264495.jpg
+    rating: 0.0
+    date: '2026-11-22'
+    code: 264495
+    url: /works/264495/
   - title: Kokuru no o Tamerattetara Itsunomanika Charao ni Hameraremakutteta Boku no
       Osananajimi 2
     author: edogawa-koubou
@@ -1833,6 +1841,13 @@ works:
     date: '2026-03-05'
     code: 634591
     url: /works/634591/
+  - title: Jimi Kyonyuu Manager Netorareru
+    author: technician
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/635022.jpg
+    rating: 0.0
+    date: '2026-11-22'
+    code: 635022
+    url: /works/635022/
   - title: Married Women Are At A Naughty Age 2
     author: asagi-ryu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/635482.jpg

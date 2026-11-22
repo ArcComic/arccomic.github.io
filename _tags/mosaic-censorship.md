@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "mosaic censorship"
-work_count: 433
+work_count: 435
 works:
   - title: Okki na Kanojo ni Amaetai | I want to be pampered by a girl of generous girth
     author: higashino-mikan
@@ -45,6 +45,14 @@ works:
     date: '2026-04-19'
     code: 244812
     url: /works/244812/
+  - title: Kokuru no o Tamerattetara Itsunomanika Charao ni Hameraremakutteta Boku no
+      Osananajimi
+    author: edogawa-koubou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/264495.jpg
+    rating: 0.0
+    date: '2026-11-22'
+    code: 264495
+    url: /works/264495/
   - title: Kokuru no o Tamerattetara Itsunomanika Charao ni Hameraremakutteta Boku no
       Osananajimi 2
     author: edogawa-koubou
@@ -1602,6 +1610,13 @@ works:
     date: '2026-03-05'
     code: 634609
     url: /works/634609/
+  - title: Jimi Kyonyuu Manager Netorareru
+    author: technician
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/635022.jpg
+    rating: 0.0
+    date: '2026-11-22'
+    code: 635022
+    url: /works/635022/
   - title: Chijo Monogatari Bakunyuu Chijukujo to Doutei-kun
     author: enma
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/635174.jpg

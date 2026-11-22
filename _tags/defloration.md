@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "defloration"
-work_count: 315
+work_count: 317
 works:
   - title: Imitation Family + Bigibo Hen
     author: tohzai
@@ -45,6 +45,14 @@ works:
     date: '2026-09-20'
     code: 238471
     url: /works/238471/
+  - title: Kokuru no o Tamerattetara Itsunomanika Charao ni Hameraremakutteta Boku no
+      Osananajimi
+    author: edogawa-koubou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/264495.jpg
+    rating: 0.0
+    date: '2026-11-22'
+    code: 264495
+    url: /works/264495/
   - title: Virgin Chauwa! | I'm No Virgin!
     author: herio
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/267270.jpg
@@ -1146,6 +1154,13 @@ works:
     date: '2026-03-05'
     code: 634609
     url: /works/634609/
+  - title: Jimi Kyonyuu Manager Netorareru
+    author: technician
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/635022.jpg
+    rating: 0.0
+    date: '2026-11-22'
+    code: 635022
+    url: /works/635022/
   - title: Sex Shinai to Derarenai Hotel 2 | The hotel you can't leave without having
       sex 2
     author: jeattle

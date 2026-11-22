@@ -1,7 +1,7 @@
 ---
 layout: artist
 artist_name: "goma-gorilla"
-work_count: 2
+work_count: 3
 works:
   - title: Anal Toilet Training
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/647315.jpg
@@ -9,6 +9,13 @@ works:
     date: '2026-05-01'
     code: 647315
     url: /works/647315/
+  - title: Isekai Anal Monogatari 2 ~Neko Kemonohito Hen~ | Anal Odyssey In Another
+      World 2 ~ Cat Girl Edition ~
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680646.jpg
+    rating: 0.0
+    date: '2026-11-22'
+    code: 680646
+    url: /works/680646/
   - title: 'The Anal Poop Girl, re: Aya the New Bride'
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698937.jpg
     rating: 4.2

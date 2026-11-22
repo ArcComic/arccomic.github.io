@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "group"
-work_count: 341
+work_count: 342
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -1754,6 +1754,14 @@ works:
     date: '2026-09-12'
     code: 680555
     url: /works/680555/
+  - title: Isekai Anal Monogatari 2 ~Neko Kemonohito Hen~ | Anal Odyssey In Another
+      World 2 ~ Cat Girl Edition ~
+    author: goma-gorilla
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680646.jpg
+    rating: 0.0
+    date: '2026-11-22'
+    code: 680646
+    url: /works/680646/
   - title: Madoka-san's first time
     author: mance
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680731.jpg

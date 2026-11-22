@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "ahegao"
-work_count: 477
+work_count: 479
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -1110,6 +1110,13 @@ works:
     date: '2026-03-05'
     code: 634591
     url: /works/634591/
+  - title: Jimi Kyonyuu Manager Netorareru
+    author: technician
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/635022.jpg
+    rating: 0.0
+    date: '2026-11-22'
+    code: 635022
+    url: /works/635022/
   - title: Sex Shinai to Derarenai Hotel 2 | The hotel you can't leave without having
       sex 2
     author: jeattle
@@ -2317,6 +2324,14 @@ works:
     date: '2026-09-12'
     code: 680591
     url: /works/680591/
+  - title: Isekai Anal Monogatari 2 ~Neko Kemonohito Hen~ | Anal Odyssey In Another
+      World 2 ~ Cat Girl Edition ~
+    author: goma-gorilla
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680646.jpg
+    rating: 0.0
+    date: '2026-11-22'
+    code: 680646
+    url: /works/680646/
   - title: Houtou Kizoku wa Moto Outaishihi to no Haramasekon de Isogashii - The Rake
       and The Once Crowned Princess
     author: jagi-iwa
