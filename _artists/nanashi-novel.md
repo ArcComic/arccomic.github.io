@@ -1,7 +1,7 @@
 ---
 layout: artist
 artist_name: "nanashi-novel"
-work_count: 5
+work_count: 6
 works:
   - title: Kakkou no Hi -Takuran sareta Tsuma-
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/349536.jpg
@@ -15,6 +15,13 @@ works:
     date: '2026-11-21'
     code: 376671
     url: /works/376671/
+  - title: Kakkou no Yakusoku Motokare to Himitsu no Kojin Lesson | Cuckoo's Promise
+      Secret Tutoring Session With Ex-boyfriend
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/471769.jpg
+    rating: 0.0
+    date: '2026-11-22'
+    code: 471769
+    url: /works/471769/
   - title: Kakkou no Hi Takuran Sareta Tsuma Sono 2
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/473752.jpg
     rating: 0.0

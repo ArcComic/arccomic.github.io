@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "multipanel sequence"
-work_count: 35
+work_count: 36
 works:
   - title: Nibun no Yuudou | Half Seduction
     author: chicke-iii
@@ -79,6 +79,13 @@ works:
     date: '2026-11-08'
     code: 546898
     url: /works/546898/
+  - title: Kore ga Otona no Shazai Jutsu | Rio's Sexpology
+    author: gomu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/547229.jpg
+    rating: 0.0
+    date: '2026-11-22'
+    code: 547229
+    url: /works/547229/
   - title: My AR glasses can see various stats about my foster sister?!
     author: pz-x
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/589010.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "unusual pupils"
-work_count: 117
+work_count: 118
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -340,6 +340,14 @@ works:
     date: '2026-08-25'
     code: 595108
     url: /works/595108/
+  - title: TS Shita Ore no Shiawase na Mesu Ochi Kekkon | My Happy Marriage After Being
+      TS'd and Falling to the Female Side
+    author: joushi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/606065.jpg
+    rating: 0.0
+    date: '2026-11-22'
+    code: 606065
+    url: /works/606065/
   - title: Zenin Mukuwarenai Harem | A Harem Where No One Is Reciprocated
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/610041.jpg

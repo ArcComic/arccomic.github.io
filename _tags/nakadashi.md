@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "nakadashi"
-work_count: 1207
+work_count: 1209
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -1291,6 +1291,14 @@ works:
     date: '2026-04-13'
     code: 471387
     url: /works/471387/
+  - title: Kakkou no Yakusoku Motokare to Himitsu no Kojin Lesson | Cuckoo's Promise
+      Secret Tutoring Session With Ex-boyfriend
+    author: nanashi-novel
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/471769.jpg
+    rating: 0.0
+    date: '2026-11-22'
+    code: 471769
+    url: /works/471769/
   - title: Musuko o Dokusen Suru Haha | The mother who monopolizes her son.
     author: yuriko-club
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/471998.jpg
@@ -3192,6 +3200,14 @@ works:
     date: '2026-07-16'
     code: 605410
     url: /works/605410/
+  - title: TS Shita Ore no Shiawase na Mesu Ochi Kekkon | My Happy Marriage After Being
+      TS'd and Falling to the Female Side
+    author: joushi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/606065.jpg
+    rating: 0.0
+    date: '2026-11-22'
+    code: 606065
+    url: /works/606065/
   - title: Hitoban Tomete yo, Otaku-kun | Let Me Stay For the Night, Otaku-kun
     author: danimaru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/606166.jpg

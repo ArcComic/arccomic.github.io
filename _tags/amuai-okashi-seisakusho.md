@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "amuai okashi seisakusho"
-work_count: 9
+work_count: 10
 works:
   - title: TS Jinsei Yarinaoshiki!! | TS Life Redo Machine!!
     author: joushi
@@ -19,6 +19,14 @@ works:
     date: '2026-11-21'
     code: 597610
     url: /works/597610/
+  - title: TS Shita Ore no Shiawase na Mesu Ochi Kekkon | My Happy Marriage After Being
+      TS'd and Falling to the Female Side
+    author: joushi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/606065.jpg
+    rating: 0.0
+    date: '2026-11-22'
+    code: 606065
+    url: /works/606065/
   - title: Boku ga Kayotteita no ha, Otokonoko wo Onnanoko ni Kaeteshimau Gakkou Deshita!
       | The School I Went to Was a School That Turned Boys Into Girls!
     author: yuukey

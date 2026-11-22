@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "very long hair"
-work_count: 90
+work_count: 91
 works:
   - title: Joshikousei Sennyuu Repo ~Hanzaisha ga Onnanoko ni Hyoui shite mita~
     author: touchuu-kasou
@@ -75,6 +75,13 @@ works:
     date: '2026-10-12'
     code: 546621
     url: /works/546621/
+  - title: Kore ga Otona no Shazai Jutsu | Rio's Sexpology
+    author: gomu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/547229.jpg
+    rating: 0.0
+    date: '2026-11-22'
+    code: 547229
+    url: /works/547229/
   - title: Miwaku-teki na Omae ga Warui
     author: yonayona
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/587417.jpg

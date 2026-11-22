@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bride"
-work_count: 14
+work_count: 15
 works:
   - title: Ijimerarekko no Hahaoya ga Hamedori suru Batsu Game ni Makikomareta Kekka
     author: spices
@@ -41,6 +41,14 @@ works:
     date: '2026-04-23'
     code: 603122
     url: /works/603122/
+  - title: TS Shita Ore no Shiawase na Mesu Ochi Kekkon | My Happy Marriage After Being
+      TS'd and Falling to the Female Side
+    author: joushi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/606065.jpg
+    rating: 0.0
+    date: '2026-11-22'
+    code: 606065
+    url: /works/606065/
   - title: Alola no Yoru no Sugata Soushuuhen | Aloha Night Compilation
     author: kurosu-gatari
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/609650.jpg

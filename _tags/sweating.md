@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sweating"
-work_count: 235
+work_count: 236
 works:
   - title: Kaisha de Iroiro | Gettin' Busy at the Office
     author: hara-shigeyuki
@@ -365,6 +365,14 @@ works:
     date: '2026-04-19'
     code: 465602
     url: /works/465602/
+  - title: Kakkou no Yakusoku Motokare to Himitsu no Kojin Lesson | Cuckoo's Promise
+      Secret Tutoring Session With Ex-boyfriend
+    author: nanashi-novel
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/471769.jpg
+    rating: 0.0
+    date: '2026-11-22'
+    code: 471769
+    url: /works/471769/
   - title: Otona no Himegoto
     author: gustav
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/473512.jpg

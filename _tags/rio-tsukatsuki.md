@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "rio tsukatsuki"
-work_count: 6
+work_count: 7
 works:
   - title: Oshioki no Jikan - Punishment time
     author: syoukaki
@@ -10,6 +10,13 @@ works:
     date: '2026-05-10'
     code: 540125
     url: /works/540125/
+  - title: Kore ga Otona no Shazai Jutsu | Rio's Sexpology
+    author: gomu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/547229.jpg
+    rating: 0.0
+    date: '2026-11-22'
+    code: 547229
+    url: /works/547229/
   - title: Gouriteki na Sei no Hassan ni Tsuite Aratame Chikubi Karikari Iraira Manko
       | —关于如何合理地释放性欲—仔细调查乳头为何变硬与饥渴难耐的小穴
     author: kito-sakeru

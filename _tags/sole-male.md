@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole male"
-work_count: 1293
+work_count: 1294
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -2667,6 +2667,13 @@ works:
     date: '2026-11-08'
     code: 546898
     url: /works/546898/
+  - title: Kore ga Otona no Shazai Jutsu | Rio's Sexpology
+    author: gomu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/547229.jpg
+    rating: 0.0
+    date: '2026-11-22'
+    code: 547229
+    url: /works/547229/
   - title: Atashi ga Nuite Ageyo kka?
     author: malcorond
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/547250.jpg

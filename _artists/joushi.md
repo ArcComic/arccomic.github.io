@@ -1,7 +1,7 @@
 ---
 layout: artist
 artist_name: "joushi"
-work_count: 4
+work_count: 5
 works:
   - title: TS Jinsei Yarinaoshiki!! | TS Life Redo Machine!!
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/547775.jpg
@@ -17,6 +17,13 @@ works:
     date: '2026-11-21'
     code: 597610
     url: /works/597610/
+  - title: TS Shita Ore no Shiawase na Mesu Ochi Kekkon | My Happy Marriage After Being
+      TS'd and Falling to the Female Side
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/606065.jpg
+    rating: 0.0
+    date: '2026-11-22'
+    code: 606065
+    url: /works/606065/
   - title: TS Kaihen Note de Yaritai Houdai!? | Do Whatever You Want with the TS Transformation
       Notebook!?
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651861.jpg

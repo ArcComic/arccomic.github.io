@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "blue archive"
-work_count: 35
+work_count: 36
 works:
   - title: Roshutsu Shoujo to Zange Ana | The Exhibitionist and the Confessional
     author: gomu
@@ -32,6 +32,13 @@ works:
     date: '2026-05-10'
     code: 540125
     url: /works/540125/
+  - title: Kore ga Otona no Shazai Jutsu | Rio's Sexpology
+    author: gomu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/547229.jpg
+    rating: 0.0
+    date: '2026-11-22'
+    code: 547229
+    url: /works/547229/
   - title: ENG-Chiune_Kimodebu Sugite Kivotos o Horoboshita Sensei ga Bessekaisen no
       Yuuka o NTR Ryoujoku suru Hon
     author: chiune

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "halo"
-work_count: 34
+work_count: 35
 works:
   - title: Mutsugaki Icha Love Book ~Sensei to Kakurenbo~ | MUTSUGAKI Lovey-Dovey Book
       ~Hide-and-seek with Sensei~
@@ -25,6 +25,13 @@ works:
     date: '2026-05-10'
     code: 540125
     url: /works/540125/
+  - title: Kore ga Otona no Shazai Jutsu | Rio's Sexpology
+    author: gomu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/547229.jpg
+    rating: 0.0
+    date: '2026-11-22'
+    code: 547229
+    url: /works/547229/
   - title: The Prison Idol And Assistant
     author: halo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/579290.jpg

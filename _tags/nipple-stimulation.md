@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "nipple stimulation"
-work_count: 237
+work_count: 238
 works:
   - title: bust top secret
     author: plum
@@ -17,6 +17,14 @@ works:
     date: '2026-09-09'
     code: 461537
     url: /works/461537/
+  - title: Kakkou no Yakusoku Motokare to Himitsu no Kojin Lesson | Cuckoo's Promise
+      Secret Tutoring Session With Ex-boyfriend
+    author: nanashi-novel
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/471769.jpg
+    rating: 0.0
+    date: '2026-11-22'
+    code: 471769
+    url: /works/471769/
   - title: '"Koko Ijirareru no Sukidatta yona?" Rinjin wa, Hitozuma no Moto SeFri |
       “You Love When I Tease You Here, Don’t You?” My Neighbor Was My Former Sex Friend
       1'
