@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "rough translation"
-work_count: 867
+work_count: 868
 works:
   - title: Boku no Shiranai Kimi no Kao
     author: utsutsu-minoru
@@ -4877,6 +4877,14 @@ works:
     date: '2026-09-20'
     code: 682620
     url: /works/682620/
+  - title: NeCafe no Onee-san to 3-Jikan Pack no xxx | XXX with the Net Cafe Lady on
+      a 3-Hour Package
+    author: technician
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682782.jpg
+    rating: 4.7
+    date: '2026-11-22'
+    code: 682782
+    url: /works/682782/
   - title: Torokesasenaide Danna-sama
     author: tsurui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682934.jpg

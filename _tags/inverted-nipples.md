@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "inverted nipples"
-work_count: 48
+work_count: 49
 works:
   - title: Mama Naranai Onna-tachi Ch. 1-2
     author: otochichi
@@ -306,6 +306,14 @@ works:
     date: '2026-09-17'
     code: 681991
     url: /works/681991/
+  - title: NeCafe no Onee-san to 3-Jikan Pack no xxx | XXX with the Net Cafe Lady on
+      a 3-Hour Package
+    author: technician
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682782.jpg
+    rating: 4.7
+    date: '2026-11-22'
+    code: 682782
+    url: /works/682782/
   - title: Sakitai. | I want to bloom.
     author: sayuumigi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683309.jpg

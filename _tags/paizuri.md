@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "paizuri"
-work_count: 344
+work_count: 345
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -2001,6 +2001,14 @@ works:
     date: '2026-09-20'
     code: 682571
     url: /works/682571/
+  - title: NeCafe no Onee-san to 3-Jikan Pack no xxx | XXX with the Net Cafe Lady on
+      a 3-Hour Package
+    author: technician
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682782.jpg
+    rating: 4.7
+    date: '2026-11-22'
+    code: 682782
+    url: /works/682782/
   - title: Ouchi Harem!? S-kki no Gimai to M-kki no Osananajimi! | A harem at home!?
       A sadistic stepsister and masochistic childhood friend!
     author: darunekohanten

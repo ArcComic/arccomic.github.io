@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sex toys"
-work_count: 177
+work_count: 178
 works:
   - title: Mama Naranai Onna-tachi Ch. 1-2
     author: otochichi
@@ -969,6 +969,14 @@ works:
     date: '2026-09-20'
     code: 682545
     url: /works/682545/
+  - title: NeCafe no Onee-san to 3-Jikan Pack no xxx | XXX with the Net Cafe Lady on
+      a 3-Hour Package
+    author: technician
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682782.jpg
+    rating: 4.7
+    date: '2026-11-22'
+    code: 682782
+    url: /works/682782/
   - title: Taishou Yotogi Roman - Kinyoubi no Hanayome CHAPTER 1-9
     author: sumino-yuuji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683067.jpg

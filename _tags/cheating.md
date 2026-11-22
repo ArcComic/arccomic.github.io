@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "cheating"
-work_count: 513
+work_count: 514
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -3155,6 +3155,14 @@ works:
     date: '2026-09-20'
     code: 682577
     url: /works/682577/
+  - title: NeCafe no Onee-san to 3-Jikan Pack no xxx | XXX with the Net Cafe Lady on
+      a 3-Hour Package
+    author: technician
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682782.jpg
+    rating: 4.7
+    date: '2026-11-22'
+    code: 682782
+    url: /works/682782/
   - title: Jukujo ♥ shonen hyoryu-ki | A Woman ♥ Boy Castaway Tale
     author: kotobuki-mairo-zubrowk
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683082.jpg

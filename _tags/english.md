@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "english"
-work_count: 2272
+work_count: 2274
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -1005,6 +1005,13 @@ works:
     date: '2026-09-06'
     code: 349379
     url: /works/349379/
+  - title: Kakkou no Hi -Takuran sareta Tsuma-
+    author: nanashi-novel
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/349536.jpg
+    rating: 0.0
+    date: '2026-11-22'
+    code: 349536
+    url: /works/349536/
   - title: Miboujin no Haha ・Sayoko ~Yojouhan ni Sumu Oyako no Koubi Kiroku~| Widowed
       Mother Sayoko ~Record of a Copulation of a Mother and Son Living in a Small Room~
     author: spices
@@ -13694,6 +13701,14 @@ works:
     date: '2026-09-20'
     code: 682620
     url: /works/682620/
+  - title: NeCafe no Onee-san to 3-Jikan Pack no xxx | XXX with the Net Cafe Lady on
+      a 3-Hour Package
+    author: technician
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682782.jpg
+    rating: 4.7
+    date: '2026-11-22'
+    code: 682782
+    url: /works/682782/
   - title: Boku ni Onnanoko Oshiete Kudasai! 2 | Please Teach Me How to Be a Girl! 2
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682858.jpg

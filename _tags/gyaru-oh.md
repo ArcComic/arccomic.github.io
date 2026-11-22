@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "gyaru-oh"
-work_count: 61
+work_count: 62
 works:
   - title: Netorare Ibe Kiba Shizuka
     author: terasu-mc
@@ -32,6 +32,13 @@ works:
     date: '2026-11-21'
     code: 341892
     url: /works/341892/
+  - title: Kakkou no Hi -Takuran sareta Tsuma-
+    author: nanashi-novel
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/349536.jpg
+    rating: 0.0
+    date: '2026-11-22'
+    code: 349536
+    url: /works/349536/
   - title: Netorare Sotsugyou Ryokou | NTR Graduation Trip
     author: milkholic
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/353048.jpg

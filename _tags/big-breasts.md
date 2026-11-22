@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big breasts"
-work_count: 1578
+work_count: 1580
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -549,6 +549,13 @@ works:
     date: '2026-04-17'
     code: 349247
     url: /works/349247/
+  - title: Kakkou no Hi -Takuran sareta Tsuma-
+    author: nanashi-novel
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/349536.jpg
+    rating: 0.0
+    date: '2026-11-22'
+    code: 349536
+    url: /works/349536/
   - title: Miboujin no Haha ・Sayoko ~Yojouhan ni Sumu Oyako no Koubi Kiroku~| Widowed
       Mother Sayoko ~Record of a Copulation of a Mother and Son Living in a Small Room~
     author: spices
@@ -9359,6 +9366,14 @@ works:
     date: '2026-09-20'
     code: 682600
     url: /works/682600/
+  - title: NeCafe no Onee-san to 3-Jikan Pack no xxx | XXX with the Net Cafe Lady on
+      a 3-Hour Package
+    author: technician
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682782.jpg
+    rating: 4.7
+    date: '2026-11-22'
+    code: 682782
+    url: /works/682782/
   - title: Boku dake ga Class no Ano Ko to Sex dekinai Sekai | The World Where Only
       I Can't Fuck the Class Gal
     author: armjaw
