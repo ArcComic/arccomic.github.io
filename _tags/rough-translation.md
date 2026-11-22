@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "rough translation"
-work_count: 869
+work_count: 870
 works:
   - title: Boku no Shiranai Kimi no Kao
     author: utsutsu-minoru
@@ -4893,6 +4893,13 @@ works:
     date: '2026-11-22'
     code: 682782
     url: /works/682782/
+  - title: Toshiue Onee-san no Oshioki. ...de Iku!!
+    author: technician
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682790.jpg
+    rating: 0.0
+    date: '2026-11-22'
+    code: 682790
+    url: /works/682790/
   - title: Torokesasenaide Danna-sama
     author: tsurui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682934.jpg

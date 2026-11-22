@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "filming"
-work_count: 161
+work_count: 162
 works:
   - title: Ikanishite Haha wa Onna o Kaihou Shitaka Ch. 1-14
     author: mitarai-yuuki
@@ -227,6 +227,14 @@ works:
     date: '2026-02-25'
     code: 519421
     url: /works/519421/
+  - title: Muchi ni Shokuzai Kyouiku ni Nikuyoku | Atonement For Ignorance, Education
+      for Lust
+    author: gomu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/520693.jpg
+    rating: 0.0
+    date: '2026-11-22'
+    code: 520693
+    url: /works/520693/
   - title: '"Masochists" can''t pass on their genes! | "Mazo" wa Idenshi Nokosemasen!'
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/541553.jpg

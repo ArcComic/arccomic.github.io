@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "incest"
-work_count: 420
+work_count: 421
 works:
   - title: Imitation Family + Bigibo Hen
     author: tohzai
@@ -470,6 +470,13 @@ works:
     date: '2026-02-28'
     code: 484852
     url: /works/484852/
+  - title: A ripe wife awakened by her nephew at a house with a family every day
+    author: edogawa-koubou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/489231.jpg
+    rating: 0.0
+    date: '2026-11-22'
+    code: 489231
+    url: /works/489231/
   - title: Nyuuin-chuu no Muramura wa...
     author: natsume-benkei
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/495599.jpg

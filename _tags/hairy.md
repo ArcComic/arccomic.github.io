@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "hairy"
-work_count: 455
+work_count: 456
 works:
   - title: MAGIC SEVEN
     author: asuhiro
@@ -829,6 +829,14 @@ works:
     date: '2026-09-29'
     code: 520557
     url: /works/520557/
+  - title: Muchi ni Shokuzai Kyouiku ni Nikuyoku | Atonement For Ignorance, Education
+      for Lust
+    author: gomu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/520693.jpg
+    rating: 0.0
+    date: '2026-11-22'
+    code: 520693
+    url: /works/520693/
   - title: Iemoto no Uwaki ga Honki ni Natta Hi Zenpen | The Day the Grand Master's
       Affair Became Serious Part One
     author: rasson

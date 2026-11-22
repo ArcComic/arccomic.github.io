@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole male"
-work_count: 1298
+work_count: 1301
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -1852,6 +1852,13 @@ works:
     date: '2026-04-17'
     code: 489004
     url: /works/489004/
+  - title: A ripe wife awakened by her nephew at a house with a family every day
+    author: edogawa-koubou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/489231.jpg
+    rating: 0.0
+    date: '2026-11-22'
+    code: 489231
+    url: /works/489231/
   - title: Onsen Yukata na Kashima-san to Hamakaze-san to. | Hamakaze and Kashima in
       Hot Springs and Yukata
     author: sarfata
@@ -2218,6 +2225,14 @@ works:
     date: '2026-09-29'
     code: 520557
     url: /works/520557/
+  - title: Muchi ni Shokuzai Kyouiku ni Nikuyoku | Atonement For Ignorance, Education
+      for Lust
+    author: gomu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/520693.jpg
+    rating: 0.0
+    date: '2026-11-22'
+    code: 520693
+    url: /works/520693/
   - title: Wakana Shiki | Wakana Style
     author: ueto-seri
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/520903.jpg
@@ -7973,6 +7988,13 @@ works:
     date: '2026-11-22'
     code: 682782
     url: /works/682782/
+  - title: Toshiue Onee-san no Oshioki. ...de Iku!!
+    author: technician
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682790.jpg
+    rating: 0.0
+    date: '2026-11-22'
+    code: 682790
+    url: /works/682790/
   - title: Torokesasenaide Danna-sama
     author: tsurui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682934.jpg

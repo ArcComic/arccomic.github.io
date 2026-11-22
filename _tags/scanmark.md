@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "scanmark"
-work_count: 291
+work_count: 292
 works:
   - title: NTR Anniversary + ) [Syukurin] Mitsuha ~Netorare~ (Kimi no Na wa.) [English]
       [Colorized] by Mikaku
@@ -1731,6 +1731,13 @@ works:
     date: '2026-11-22'
     code: 682782
     url: /works/682782/
+  - title: Toshiue Onee-san no Oshioki. ...de Iku!!
+    author: technician
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682790.jpg
+    rating: 0.0
+    date: '2026-11-22'
+    code: 682790
+    url: /works/682790/
   - title: taka-co - NTR妈妈・恭子Remake 1-3话
     author: taka-co
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683137.jpg

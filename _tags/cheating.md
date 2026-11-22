@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "cheating"
-work_count: 516
+work_count: 517
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -775,6 +775,13 @@ works:
     date: '2026-11-08'
     code: 485499
     url: /works/485499/
+  - title: A ripe wife awakened by her nephew at a house with a family every day
+    author: edogawa-koubou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/489231.jpg
+    rating: 0.0
+    date: '2026-11-22'
+    code: 489231
+    url: /works/489231/
   - title: Boku no Doutei wa Neteru Aida ni... Ubawaremashita
     author: kinntarou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/490633.jpg

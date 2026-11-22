@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "handjob"
-work_count: 221
+work_count: 222
 works:
   - title: Rin to P
     author: simon
@@ -1265,6 +1265,13 @@ works:
     date: '2026-09-20'
     code: 682579
     url: /works/682579/
+  - title: Toshiue Onee-san no Oshioki. ...de Iku!!
+    author: technician
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682790.jpg
+    rating: 0.0
+    date: '2026-11-22'
+    code: 682790
+    url: /works/682790/
   - title: Bakunyuu Bunny Obasan - Chapter 1-2
     author: kamushi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683065.jpg

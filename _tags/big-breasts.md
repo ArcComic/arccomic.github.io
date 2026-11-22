@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big breasts"
-work_count: 1586
+work_count: 1589
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -1664,6 +1664,13 @@ works:
     date: '2026-04-19'
     code: 487275
     url: /works/487275/
+  - title: A ripe wife awakened by her nephew at a house with a family every day
+    author: edogawa-koubou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/489231.jpg
+    rating: 0.0
+    date: '2026-11-22'
+    code: 489231
+    url: /works/489231/
   - title: Onsen Yukata na Kashima-san to Hamakaze-san to. | Hamakaze and Kashima in
       Hot Springs and Yukata
     author: sarfata
@@ -2182,6 +2189,14 @@ works:
     date: '2026-09-29'
     code: 520557
     url: /works/520557/
+  - title: Muchi ni Shokuzai Kyouiku ni Nikuyoku | Atonement For Ignorance, Education
+      for Lust
+    author: gomu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/520693.jpg
+    rating: 0.0
+    date: '2026-11-22'
+    code: 520693
+    url: /works/520693/
   - title: Iemoto no Uwaki ga Honki ni Natta Hi Zenpen | The Day the Grand Master's
       Affair Became Serious Part One
     author: rasson
@@ -9404,6 +9419,13 @@ works:
     date: '2026-11-22'
     code: 682782
     url: /works/682782/
+  - title: Toshiue Onee-san no Oshioki. ...de Iku!!
+    author: technician
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682790.jpg
+    rating: 0.0
+    date: '2026-11-22'
+    code: 682790
+    url: /works/682790/
   - title: Boku dake ga Class no Ano Ko to Sex dekinai Sekai | The World Where Only
       I Can't Fuck the Class Gal
     author: armjaw

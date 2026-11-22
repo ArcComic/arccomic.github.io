@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "mosaic censorship"
-work_count: 438
+work_count: 439
 works:
   - title: Okki na Kanojo ni Amaetai | I want to be pampered by a girl of generous girth
     author: higashino-mikan
@@ -634,6 +634,13 @@ works:
     date: '2026-09-27'
     code: 483537
     url: /works/483537/
+  - title: A ripe wife awakened by her nephew at a house with a family every day
+    author: edogawa-koubou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/489231.jpg
+    rating: 0.0
+    date: '2026-11-22'
+    code: 489231
+    url: /works/489231/
   - title: Boku no Chuugoku Bijin Slender Kyonyuu Tsuma ga Camera Model de Nugasarete
       Yarichin Tomo ni Netorareta Ken
     author: mitoreiyu

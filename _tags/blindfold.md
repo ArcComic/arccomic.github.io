@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "blindfold"
-work_count: 53
+work_count: 54
 works:
   - title: Kokuru no o Tamerattetara Itsunomanika Charao ni Hameraremakutteta Boku no
       Osananajimi 2
@@ -298,6 +298,13 @@ works:
     date: '2026-09-18'
     code: 682180
     url: /works/682180/
+  - title: Toshiue Onee-san no Oshioki. ...de Iku!!
+    author: technician
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682790.jpg
+    rating: 0.0
+    date: '2026-11-22'
+    code: 682790
+    url: /works/682790/
   - title: Taishou Yotogi Roman - Kinyoubi no Hanayome CHAPTER 1-9
     author: sumino-yuuji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/683067.jpg

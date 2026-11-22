@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "blue archive"
-work_count: 36
+work_count: 37
 works:
   - title: Roshutsu Shoujo to Zange Ana | The Exhibitionist and the Confessional
     author: gomu
@@ -25,6 +25,14 @@ works:
     date: '2026-10-05'
     code: 517766
     url: /works/517766/
+  - title: Muchi ni Shokuzai Kyouiku ni Nikuyoku | Atonement For Ignorance, Education
+      for Lust
+    author: gomu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/520693.jpg
+    rating: 0.0
+    date: '2026-11-22'
+    code: 520693
+    url: /works/520693/
   - title: Oshioki no Jikan - Punishment time
     author: syoukaki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/540125.jpg
