@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "very long hair"
-work_count: 89
+work_count: 90
 works:
   - title: Joshikousei Sennyuu Repo ~Hanzaisha ga Onnanoko ni Hyoui shite mita~
     author: touchuu-kasou
@@ -17,6 +17,13 @@ works:
     date: '2026-04-27'
     code: 425528
     url: /works/425528/
+  - title: Roshutsu Shoujo to Zange Ana | The Exhibitionist and the Confessional
+    author: gomu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/434761.jpg
+    rating: 0.0
+    date: '2026-11-22'
+    code: 434761
+    url: /works/434761/
   - title: Ubawareta Tachiba ~Ou kara Ouhi e to Kaerareta Ore~ | My Stolen Place ~Transformed
       From King to Queen~
     author: betty

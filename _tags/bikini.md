@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bikini"
-work_count: 119
+work_count: 120
 works:
   - title: Kizashi
     author: yoshiura-kazuya
@@ -96,6 +96,13 @@ works:
     date: '2026-03-02'
     code: 455844
     url: /works/455844/
+  - title: Kakkou no Hi Takuran Sareta Tsuma Sono 2
+    author: nanashi-novel
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/473752.jpg
+    rating: 0.0
+    date: '2026-11-22'
+    code: 473752
+    url: /works/473752/
   - title: Genkai Drake-san DeliHeal Kaigyou Hen | Drake is at Her Limit. Starting Out
       As A Delivery Prostitute
     author: orita

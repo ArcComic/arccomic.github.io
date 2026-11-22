@@ -32,7 +32,7 @@ works:
       Young Lady, whom I Switched Bodies With, has Succumbed to Male Lust
     author: joushi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/597610.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-11-21'
     code: 597610
     url: /works/597610/

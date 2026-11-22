@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "original"
-work_count: 1519
+work_count: 1521
 works:
   - title: Gokuusu Mizugi de Okasaretagari ga Kakusenai
     author: kekemotsu
@@ -22,7 +22,7 @@ works:
       Osananajimi 2
     author: edogawa-koubou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/264505.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-11-21'
     code: 264505
     url: /works/264505/
@@ -280,7 +280,7 @@ works:
       Watching While a Man Made My Wife Cum Over and Over
     author: sanku
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/341892.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-11-21'
     code: 341892
     url: /works/341892/
@@ -475,7 +475,7 @@ works:
   - title: Tsuma no Fuyugomori  Kashidasareta Karada
     author: nanashi-novel
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/376671.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-11-21'
     code: 376671
     url: /works/376671/
@@ -1241,6 +1241,13 @@ works:
     date: '2026-04-15'
     code: 472344
     url: /works/472344/
+  - title: Kakkou no Hi Takuran Sareta Tsuma Sono 2
+    author: nanashi-novel
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/473752.jpg
+    rating: 0.0
+    date: '2026-11-22'
+    code: 473752
+    url: /works/473752/
   - title: Nomikai de Doroyoi Shitara Love Hotel de Onaho Yome ni Naru made Chinpo Choukyou
       Saremashita
     author: darabuchi
@@ -1260,7 +1267,7 @@ works:
       Front Of Me
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/475829.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-11-21'
     code: 475829
     url: /works/475829/
@@ -2480,6 +2487,13 @@ works:
     date: '2026-07-17'
     code: 547393
     url: /works/547393/
+  - title: TS Jinsei Yarinaoshiki!! | TS Life Redo Machine!!
+    author: joushi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/547775.jpg
+    rating: 0.0
+    date: '2026-11-22'
+    code: 547775
+    url: /works/547775/
   - title: Wagaya no Housemaid Bridget Sei no Gohoushi ~Danro Souji kara Kozukuri made~
       /  My Housemaid Bridget's Sexual Service ~ Everything From Fireplace Cleaning,
       To Babymaking
@@ -3438,7 +3452,7 @@ works:
       Young Lady, whom I Switched Bodies With, has Succumbed to Male Lust
     author: joushi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/597610.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-11-21'
     code: 597610
     url: /works/597610/
@@ -5964,7 +5978,7 @@ works:
       Notebook!?
     author: joushi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651861.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-11-21'
     code: 651861
     url: /works/651861/
@@ -7406,7 +7420,7 @@ works:
       Rebuilt By Anal Sex
     author: technician
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/669306.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-11-21'
     code: 669306
     url: /works/669306/
@@ -11281,7 +11295,7 @@ works:
   - title: A Young Boy’s Mind Shattered (NTR) by His Older Sister’s Gal Friend 1
     author: gomu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/697200.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-11-21'
     code: 697200
     url: /works/697200/

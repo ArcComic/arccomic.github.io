@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "twintails"
-work_count: 181
+work_count: 182
 works:
   - title: Natsu no Hyoui
     author: yuniba
@@ -35,7 +35,7 @@ works:
       Kiketsu Suru
     author: gomu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/312577.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-11-21'
     code: 312577
     url: /works/312577/
@@ -261,6 +261,13 @@ works:
     date: '2026-07-17'
     code: 547393
     url: /works/547393/
+  - title: TS Jinsei Yarinaoshiki!! | TS Life Redo Machine!!
+    author: joushi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/547775.jpg
+    rating: 0.0
+    date: '2026-11-22'
+    code: 547775
+    url: /works/547775/
   - title: Uwa, Mesugaki Tsuyoi! | Crap, This Mesugaki's Too Powerful!
     author: poncocchan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/550359.jpg
@@ -595,7 +602,7 @@ works:
       Notebook!?
     author: joushi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651861.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-11-21'
     code: 651861
     url: /works/651861/

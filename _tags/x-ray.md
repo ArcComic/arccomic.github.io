@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "x-ray"
-work_count: 509
+work_count: 511
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -27,7 +27,7 @@ works:
   - title: Mash to Issho ni
     author: blue-gk
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/263825.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-21'
     code: 263825
     url: /works/263825/
@@ -204,7 +204,7 @@ works:
   - title: Tsuma no Fuyugomori  Kashidasareta Karada
     author: nanashi-novel
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/376671.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-11-21'
     code: 376671
     url: /works/376671/
@@ -338,6 +338,13 @@ works:
     date: '2026-11-12'
     code: 434577
     url: /works/434577/
+  - title: Roshutsu Shoujo to Zange Ana | The Exhibitionist and the Confessional
+    author: gomu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/434761.jpg
+    rating: 0.0
+    date: '2026-11-22'
+    code: 434761
+    url: /works/434761/
   - title: Otaku Tomodachi to no Sex wa Saikou ni Kimochi Ii | Sex with Your Otaku Friend
       is Mindblowing
     author: alp
@@ -466,6 +473,13 @@ works:
     date: '2026-10-02'
     code: 473512
     url: /works/473512/
+  - title: Kakkou no Hi Takuran Sareta Tsuma Sono 2
+    author: nanashi-novel
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/473752.jpg
+    rating: 0.0
+    date: '2026-11-22'
+    code: 473752
+    url: /works/473752/
   - title: Toshoshitsu no Kanojo 6 ~Onna Kyoushi ga Ochiru made (Kouhen)~
     author: ame-arare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/474458.jpg
@@ -1160,7 +1174,7 @@ works:
       Young Lady, whom I Switched Bodies With, has Succumbed to Male Lust
     author: joushi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/597610.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-11-21'
     code: 597610
     url: /works/597610/
@@ -2527,7 +2541,7 @@ works:
       Rebuilt By Anal Sex
     author: technician
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/669306.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-11-21'
     code: 669306
     url: /works/669306/
@@ -3703,7 +3717,7 @@ works:
   - title: A Young Boy’s Mind Shattered (NTR) by His Older Sister’s Gal Friend 1
     author: gomu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/697200.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-11-21'
     code: 697200
     url: /works/697200/
@@ -3757,7 +3771,7 @@ works:
   - title: Souken Shimai ~Anetorare~
     author: neko-samurai
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698880.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-11-21'
     code: 698880
     url: /works/698880/

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "multi-work series"
-work_count: 524
+work_count: 525
 works:
   - title: Konna ni mo Itooshii Zero
     author: nohito
@@ -14,7 +14,7 @@ works:
       Osananajimi 2
     author: edogawa-koubou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/264505.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-11-21'
     code: 264505
     url: /works/264505/
@@ -451,6 +451,13 @@ works:
     date: '2026-04-13'
     code: 471387
     url: /works/471387/
+  - title: Kakkou no Hi Takuran Sareta Tsuma Sono 2
+    author: nanashi-novel
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/473752.jpg
+    rating: 0.0
+    date: '2026-11-22'
+    code: 473752
+    url: /works/473752/
   - title: Toshoshitsu no Kanojo 6 ~Onna Kyoushi ga Ochiru made (Kouhen)~
     author: ame-arare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/474458.jpg
@@ -3885,7 +3892,7 @@ works:
   - title: A Young Boy’s Mind Shattered (NTR) by His Older Sister’s Gal Friend 1
     author: gomu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/697200.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-11-21'
     code: 697200
     url: /works/697200/

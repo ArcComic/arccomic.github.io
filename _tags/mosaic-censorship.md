@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "mosaic censorship"
-work_count: 431
+work_count: 432
 works:
   - title: Okki na Kanojo ni Amaetai | I want to be pampered by a girl of generous girth
     author: higashino-mikan
@@ -49,7 +49,7 @@ works:
       Osananajimi 2
     author: edogawa-koubou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/264505.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-11-21'
     code: 264505
     url: /works/264505/
@@ -557,7 +557,7 @@ works:
       Front Of Me
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/475829.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-11-21'
     code: 475829
     url: /works/475829/
@@ -962,6 +962,13 @@ works:
     date: '2026-10-11'
     code: 546049
     url: /works/546049/
+  - title: TS Jinsei Yarinaoshiki!! | TS Life Redo Machine!!
+    author: joushi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/547775.jpg
+    rating: 0.0
+    date: '2026-11-22'
+    code: 547775
+    url: /works/547775/
   - title: Ero Cos OL to Jiraikei Joshi ~Iki Nuresaseru Moto Kare no Amai Koshi Zukai~
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/548852.jpg
@@ -1290,7 +1297,7 @@ works:
       Young Lady, whom I Switched Bodies With, has Succumbed to Male Lust
     author: joushi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/597610.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-11-21'
     code: 597610
     url: /works/597610/
@@ -1930,7 +1937,7 @@ works:
       Notebook!?
     author: joushi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651861.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-11-21'
     code: 651861
     url: /works/651861/

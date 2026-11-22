@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "defloration"
-work_count: 314
+work_count: 315
 works:
   - title: Imitation Family + Bigibo Hen
     author: tohzai
@@ -126,7 +126,7 @@ works:
       Kiketsu Suru
     author: gomu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/312577.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-11-21'
     code: 312577
     url: /works/312577/
@@ -662,6 +662,13 @@ works:
     date: '2026-07-07'
     code: 547250
     url: /works/547250/
+  - title: TS Jinsei Yarinaoshiki!! | TS Life Redo Machine!!
+    author: joushi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/547775.jpg
+    rating: 0.0
+    date: '2026-11-22'
+    code: 547775
+    url: /works/547775/
   - title: Saikai shita Osananajimi to Issen o Koecchau Hanashi | I Reunited With My
       Longtime Friend and Crossed the Line
     author: satsuki-usa
@@ -873,7 +880,7 @@ works:
       Young Lady, whom I Switched Bodies With, has Succumbed to Male Lust
     author: joushi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/597610.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-11-21'
     code: 597610
     url: /works/597610/
@@ -2314,7 +2321,7 @@ works:
   - title: Souken Shimai ~Anetorare~
     author: neko-samurai
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698880.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-11-21'
     code: 698880
     url: /works/698880/

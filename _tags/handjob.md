@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "handjob"
-work_count: 219
+work_count: 220
 works:
   - title: Rin to P
     author: simon
@@ -232,6 +232,13 @@ works:
     date: '2026-10-08'
     code: 457980
     url: /works/457980/
+  - title: Kakkou no Hi Takuran Sareta Tsuma Sono 2
+    author: nanashi-novel
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/473752.jpg
+    rating: 0.0
+    date: '2026-11-22'
+    code: 473752
+    url: /works/473752/
   - title: Hiyoko-san wa Sewazuki | Hiyoko is a Busybody
     author: maeda-momo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/480065.jpg
@@ -470,7 +477,7 @@ works:
       Young Lady, whom I Switched Bodies With, has Succumbed to Male Lust
     author: joushi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/597610.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-11-21'
     code: 597610
     url: /works/597610/

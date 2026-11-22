@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "age progression"
-work_count: 7
+work_count: 8
 works:
   - title: Risato
     author: unknown
@@ -10,6 +10,13 @@ works:
     date: '2026-02-28'
     code: 484852
     url: /works/484852/
+  - title: TS Jinsei Yarinaoshiki!! | TS Life Redo Machine!!
+    author: joushi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/547775.jpg
+    rating: 0.0
+    date: '2026-11-22'
+    code: 547775
+    url: /works/547775/
   - title: Boku no kanojo | My Girlfriend
     author: fuguta-ke
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651346.jpg

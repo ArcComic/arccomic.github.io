@@ -842,7 +842,7 @@ works:
   - title: Sister Contrast 1.5
     author: 92m
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/652555.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-11-21'
     code: 652555
     url: /works/652555/
@@ -1374,7 +1374,7 @@ works:
   - title: A Young Boy’s Mind Shattered (NTR) by His Older Sister’s Gal Friend 1
     author: gomu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/697200.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-11-21'
     code: 697200
     url: /works/697200/

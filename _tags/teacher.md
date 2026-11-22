@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "teacher"
-work_count: 119
+work_count: 120
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -21,7 +21,7 @@ works:
       is in heat
     author: shishiji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/203238.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-11-21'
     code: 203238
     url: /works/203238/
@@ -118,6 +118,13 @@ works:
     date: '2026-11-21'
     code: 434238
     url: /works/434238/
+  - title: Roshutsu Shoujo to Zange Ana | The Exhibitionist and the Confessional
+    author: gomu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/434761.jpg
+    rating: 0.0
+    date: '2026-11-22'
+    code: 434761
+    url: /works/434761/
   - title: Sukina Hito, Sukina Koto
     author: ebi-fry-teishoku
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/452482.jpg

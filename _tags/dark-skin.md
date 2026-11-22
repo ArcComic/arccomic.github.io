@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "dark skin"
-work_count: 222
+work_count: 223
 works:
   - title: Birthday
     author: hashiba-yachi
@@ -274,6 +274,13 @@ works:
     date: '2026-09-17'
     code: 470682
     url: /works/470682/
+  - title: Kakkou no Hi Takuran Sareta Tsuma Sono 2
+    author: nanashi-novel
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/473752.jpg
+    rating: 0.0
+    date: '2026-11-22'
+    code: 473752
+    url: /works/473752/
   - title: Genkai Drake-san DeliHeal Kaigyou Hen | Drake is at Her Limit. Starting Out
       As A Delivery Prostitute
     author: orita
@@ -945,7 +952,7 @@ works:
       Notebook!?
     author: joushi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651861.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-11-21'
     code: 651861
     url: /works/651861/
@@ -1599,7 +1606,7 @@ works:
   - title: A Young Boy’s Mind Shattered (NTR) by His Older Sister’s Gal Friend 1
     author: gomu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/697200.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-11-21'
     code: 697200
     url: /works/697200/
@@ -1628,7 +1635,7 @@ works:
   - title: Souken Shimai ~Anetorare~
     author: neko-samurai
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698880.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-11-21'
     code: 698880
     url: /works/698880/

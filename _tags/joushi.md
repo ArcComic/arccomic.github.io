@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "joushi"
-work_count: 5
+work_count: 6
 works:
+  - title: TS Jinsei Yarinaoshiki!! | TS Life Redo Machine!!
+    author: joushi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/547775.jpg
+    rating: 0.0
+    date: '2026-11-22'
+    code: 547775
+    url: /works/547775/
   - title: Boku Swap Ane ~Akogare no Onee-chan to Karada o Irekaerareteshimatta Boku~
       | How I Switched Bodies With My Dear Onee-chan
     author: siina-yuuki
@@ -24,7 +31,7 @@ works:
       Young Lady, whom I Switched Bodies With, has Succumbed to Male Lust
     author: joushi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/597610.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-11-21'
     code: 597610
     url: /works/597610/
@@ -32,7 +39,7 @@ works:
       Notebook!?
     author: joushi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651861.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-11-21'
     code: 651861
     url: /works/651861/

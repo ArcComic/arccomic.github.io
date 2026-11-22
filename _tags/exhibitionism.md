@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "exhibitionism"
-work_count: 121
+work_count: 122
 works:
   - title: Watashi-tachi no Seikoui Tokubetsu Jisshuu -Zengi Hen-
     author: guglielmo
@@ -55,10 +55,17 @@ works:
   - title: No Pants Day Kanojo
     author: plum
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/417687.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-11-21'
     code: 417687
     url: /works/417687/
+  - title: Roshutsu Shoujo to Zange Ana | The Exhibitionist and the Confessional
+    author: gomu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/434761.jpg
+    rating: 0.0
+    date: '2026-11-22'
+    code: 434761
+    url: /works/434761/
   - title: Tonari no Onee-san no Shitagi o Nusundara Kiseki ga Okita Hanashi o Shiyou
       |  Let’s Talk About the Story of A Miracle that Happened When I Stole the Underwear
       of the Lady Next Door

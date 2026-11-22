@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "milf"
-work_count: 630
+work_count: 631
 works:
   - title: Life with Married Women Just Like a Manga 2 - Ch. 1-5
     author: hidemaru
@@ -276,7 +276,7 @@ works:
       Watching While a Man Made My Wife Cum Over and Over
     author: sanku
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/341892.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-11-21'
     code: 341892
     url: /works/341892/
@@ -391,7 +391,7 @@ works:
   - title: Tsuma no Fuyugomori  Kashidasareta Karada
     author: nanashi-novel
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/376671.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-11-21'
     code: 376671
     url: /works/376671/
@@ -846,11 +846,18 @@ works:
     date: '2026-04-15'
     code: 472344
     url: /works/472344/
+  - title: Kakkou no Hi Takuran Sareta Tsuma Sono 2
+    author: nanashi-novel
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/473752.jpg
+    rating: 0.0
+    date: '2026-11-22'
+    code: 473752
+    url: /works/473752/
   - title: Me no Mae de Watashi no Tsuma o Okashite kudasai | Please Fuck My Wife In
       Front Of Me
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/475829.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-11-21'
     code: 475829
     url: /works/475829/
@@ -3338,7 +3345,7 @@ works:
       Rebuilt By Anal Sex
     author: technician
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/669306.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-11-21'
     code: 669306
     url: /works/669306/
@@ -4607,7 +4614,7 @@ works:
   - title: Jasmin Extra Help
     author: scarlett-ann
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698908.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-11-21'
     code: 698908
     url: /works/698908/

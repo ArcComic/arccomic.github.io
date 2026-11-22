@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "blackmail"
-work_count: 196
+work_count: 197
 works:
   - title: Birthday
     author: hashiba-yachi
@@ -218,6 +218,13 @@ works:
     date: '2026-04-21'
     code: 431558
     url: /works/431558/
+  - title: Roshutsu Shoujo to Zange Ana | The Exhibitionist and the Confessional
+    author: gomu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/434761.jpg
+    rating: 0.0
+    date: '2026-11-22'
+    code: 434761
+    url: /works/434761/
   - title: Musume no Kareshi ni Ochiru Okaa-san. 2 | A Mother Who Falls For Her Daughter's
       Boyfriend 2
     author: sinori
@@ -572,7 +579,7 @@ works:
       Young Lady, whom I Switched Bodies With, has Succumbed to Male Lust
     author: joushi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/597610.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-11-21'
     code: 597610
     url: /works/597610/
@@ -1434,7 +1441,7 @@ works:
   - title: Souken Shimai ~Anetorare~
     author: neko-samurai
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698880.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-11-21'
     code: 698880
     url: /works/698880/

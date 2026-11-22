@@ -6,7 +6,7 @@ works:
   - title: Boku wa Tsuma ga Netorare Nando mo Ikasareru Sugata o Mitsuzuketa. | I Kept
       Watching While a Man Made My Wife Cum Over and Over
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/341892.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-11-21'
     code: 341892
     url: /works/341892/

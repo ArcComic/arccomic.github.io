@@ -14,7 +14,7 @@ works:
       is in heat
     author: shishiji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/203238.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-11-21'
     code: 203238
     url: /works/203238/
@@ -52,7 +52,7 @@ works:
       Kiketsu Suru
     author: gomu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/312577.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-11-21'
     code: 312577
     url: /works/312577/
@@ -89,7 +89,7 @@ works:
   - title: Hypnotized Princess
     author: gomu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/373617.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-11-21'
     code: 373617
     url: /works/373617/
@@ -162,7 +162,7 @@ works:
       Front Of Me
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/475829.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-11-21'
     code: 475829
     url: /works/475829/
@@ -1177,7 +1177,7 @@ works:
   - title: Souken Shimai ~Anetorare~
     author: neko-samurai
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698880.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-11-21'
     code: 698880
     url: /works/698880/

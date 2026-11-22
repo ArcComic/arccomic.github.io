@@ -14,7 +14,7 @@ works:
       is in heat
     author: shishiji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/203238.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-11-21'
     code: 203238
     url: /works/203238/
@@ -42,7 +42,7 @@ works:
   - title: Marshmallow Vacation
     author: kaenuco
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/369736.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-11-21'
     code: 369736
     url: /works/369736/
@@ -206,7 +206,7 @@ works:
       Young Lady, whom I Switched Bodies With, has Succumbed to Male Lust
     author: joushi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/597610.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-11-21'
     code: 597610
     url: /works/597610/

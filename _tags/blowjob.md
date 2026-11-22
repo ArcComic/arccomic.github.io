@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "blowjob"
-work_count: 948
+work_count: 950
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -83,7 +83,7 @@ works:
   - title: Mash to Issho ni
     author: blue-gk
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/263825.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-21'
     code: 263825
     url: /works/263825/
@@ -471,7 +471,7 @@ works:
   - title: Marshmallow Vacation
     author: kaenuco
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/369736.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-11-21'
     code: 369736
     url: /works/369736/
@@ -485,7 +485,7 @@ works:
   - title: Hypnotized Princess
     author: gomu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/373617.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-11-21'
     code: 373617
     url: /works/373617/
@@ -506,7 +506,7 @@ works:
   - title: Tsuma no Fuyugomori  Kashidasareta Karada
     author: nanashi-novel
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/376671.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-11-21'
     code: 376671
     url: /works/376671/
@@ -1023,6 +1023,13 @@ works:
     date: '2026-10-02'
     code: 473512
     url: /works/473512/
+  - title: Kakkou no Hi Takuran Sareta Tsuma Sono 2
+    author: nanashi-novel
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/473752.jpg
+    rating: 0.0
+    date: '2026-11-22'
+    code: 473752
+    url: /works/473752/
   - title: Nee-chan to Chome Chome Ch. 1-4
     author: sabashi-renya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/474885.jpg
@@ -1729,6 +1736,13 @@ works:
     date: '2026-11-08'
     code: 546898
     url: /works/546898/
+  - title: TS Jinsei Yarinaoshiki!! | TS Life Redo Machine!!
+    author: joushi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/547775.jpg
+    rating: 0.0
+    date: '2026-11-22'
+    code: 547775
+    url: /works/547775/
   - title: Wagaya no Housemaid Bridget Sei no Gohoushi ~Danro Souji kara Kozukuri made~
       /  My Housemaid Bridget's Sexual Service ~ Everything From Fireplace Cleaning,
       To Babymaking
@@ -4051,7 +4065,7 @@ works:
   - title: Sister Contrast 1.5
     author: 92m
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/652555.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-11-21'
     code: 652555
     url: /works/652555/
@@ -6914,7 +6928,7 @@ works:
   - title: A Young Boy’s Mind Shattered (NTR) by His Older Sister’s Gal Friend 1
     author: gomu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/697200.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-11-21'
     code: 697200
     url: /works/697200/
@@ -6972,7 +6986,7 @@ works:
   - title: Souken Shimai ~Anetorare~
     author: neko-samurai
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698880.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-11-21'
     code: 698880
     url: /works/698880/

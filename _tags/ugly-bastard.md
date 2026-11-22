@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "ugly bastard"
-work_count: 40
+work_count: 41
 works:
   - title: A-part | Apartment
     author: zero-no-mono
@@ -18,6 +18,14 @@ works:
     date: '2026-09-25'
     code: 398514
     url: /works/398514/
+  - title: "Gyoushounin Dirk to Mahou no Kouro | \tPeddler Dirk and the Magic Incense\
+      \ Burner"
+    author: nanashi-novel
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/485136.jpg
+    rating: 4.2
+    date: '2026-11-21'
+    code: 485136
+    url: /works/485136/
   - title: Musume no Tomodachi ga Yuuwaku Suru 2 | My Daughter's Friend Is Seducing
       Me 2
     author: jingrock

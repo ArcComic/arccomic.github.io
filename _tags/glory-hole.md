@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "glory hole"
-work_count: 4
+work_count: 5
 works:
   - title: Itadakimasu Anata-sama | I Crave You
     author: tsurui
@@ -10,6 +10,13 @@ works:
     date: '2026-10-12'
     code: 289785
     url: /works/289785/
+  - title: Roshutsu Shoujo to Zange Ana | The Exhibitionist and the Confessional
+    author: gomu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/434761.jpg
+    rating: 0.0
+    date: '2026-11-22'
+    code: 434761
+    url: /works/434761/
   - title: Toilet no Jimiko-san
     author: darezuka
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/504913.jpg

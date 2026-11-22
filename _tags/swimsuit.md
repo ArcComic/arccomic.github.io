@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "swimsuit"
-work_count: 118
+work_count: 119
 works:
   - title: Kizashi
     author: yoshiura-kazuya
@@ -104,7 +104,7 @@ works:
   - title: No Pants Day Kanojo
     author: plum
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/417687.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-11-21'
     code: 417687
     url: /works/417687/
@@ -115,6 +115,13 @@ works:
     date: '2026-04-27'
     code: 452482
     url: /works/452482/
+  - title: Kakkou no Hi Takuran Sareta Tsuma Sono 2
+    author: nanashi-novel
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/473752.jpg
+    rating: 0.0
+    date: '2026-11-22'
+    code: 473752
+    url: /works/473752/
   - title: Genkai Drake-san DeliHeal Kaigyou Hen | Drake is at Her Limit. Starting Out
       As A Delivery Prostitute
     author: orita

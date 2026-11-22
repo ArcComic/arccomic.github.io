@@ -21,7 +21,7 @@ works:
       Watching While a Man Made My Wife Cum Over and Over
     author: sanku
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/341892.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-11-21'
     code: 341892
     url: /works/341892/
@@ -894,7 +894,7 @@ works:
       Rebuilt By Anal Sex
     author: technician
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/669306.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-11-21'
     code: 669306
     url: /works/669306/
@@ -1208,7 +1208,7 @@ works:
   - title: Souken Shimai ~Anetorare~
     author: neko-samurai
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698880.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-11-21'
     code: 698880
     url: /works/698880/
@@ -1223,7 +1223,7 @@ works:
   - title: Jasmin Extra Help
     author: scarlett-ann
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698908.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-11-21'
     code: 698908
     url: /works/698908/

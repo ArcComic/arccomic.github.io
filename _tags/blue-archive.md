@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "blue archive"
-work_count: 34
+work_count: 35
 works:
+  - title: Roshutsu Shoujo to Zange Ana | The Exhibitionist and the Confessional
+    author: gomu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/434761.jpg
+    rating: 0.0
+    date: '2026-11-22'
+    code: 434761
+    url: /works/434761/
   - title: Mutsugaki Icha Love Book ~Sensei to Kakurenbo~ | MUTSUGAKI Lovey-Dovey Book
       ~Hide-and-seek with Sensei~
     author: shibame

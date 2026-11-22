@@ -701,7 +701,7 @@ works:
   - title: No Pants Day Kanojo
     author: plum
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/417687.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-11-21'
     code: 417687
     url: /works/417687/
@@ -821,7 +821,7 @@ works:
   - title: bust top secret
     author: plum
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/452790.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-21'
     code: 452790
     url: /works/452790/
@@ -2025,7 +2025,7 @@ works:
   - title: Sister Contrast 1.5
     author: 92m
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/652555.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-11-21'
     code: 652555
     url: /works/652555/
