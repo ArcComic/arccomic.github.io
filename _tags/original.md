@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "original"
-work_count: 1536
+work_count: 1538
 works:
   - title: Gokuusu Mizugi de Okasaretagari ga Kakusenai
     author: kekemotsu
@@ -11452,4 +11452,18 @@ works:
     date: '2026-11-22'
     code: 699118
     url: /works/699118/
+  - title: I can have sex to my heart's content with my favorite person
+    author: higehurai
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/699121.jpg
+    rating: 4.5
+    date: '2026-11-23'
+    code: 699121
+    url: /works/699121/
+  - title: A Suspicious Counselor
+    author: hellap
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/699550.jpg
+    rating: 0.0
+    date: '2026-11-23'
+    code: 699550
+    url: /works/699550/
 ---

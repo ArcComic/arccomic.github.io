@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "milf"
-work_count: 640
+work_count: 643
 works:
   - title: Life with Married Women Just Like a Manga 2 - Ch. 1-5
     author: hidemaru
@@ -1008,6 +1008,13 @@ works:
     date: '2026-11-12'
     code: 496572
     url: /works/496572/
+  - title: Karada no Kioku + Karada no Kioku After | Body Memory + Body Memory After
+    author: sugi-g
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/496774.jpg
+    rating: 0.0
+    date: '2026-11-23'
+    code: 496774
+    url: /works/496774/
   - title: Zoku Onnajoushi wa Ikiwakareta Haha
     author: kumo-no-ito
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/497950.jpg
@@ -4685,6 +4692,13 @@ works:
     date: '2026-11-21'
     code: 698911
     url: /works/698911/
+  - title: I can have sex to my heart's content with my favorite person
+    author: higehurai
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/699121.jpg
+    rating: 4.5
+    date: '2026-11-23'
+    code: 699121
+    url: /works/699121/
   - title: My Mom, My Love 1 - 9
     author: siberian-hahasky
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/699299.jpg
@@ -4692,6 +4706,13 @@ works:
     date: '2026-11-22'
     code: 699299
     url: /works/699299/
+  - title: A Suspicious Counselor
+    author: hellap
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/699550.jpg
+    rating: 0.0
+    date: '2026-11-23'
+    code: 699550
+    url: /works/699550/
   - title: Jokyoushi - Hot For Teachers | Female Teachers
     author: drill-murata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/81375.jpg

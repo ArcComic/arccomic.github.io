@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "nipple stimulation"
-work_count: 240
+work_count: 241
 works:
   - title: bust top secret
     author: plum
@@ -1810,4 +1810,11 @@ works:
     date: '2026-11-23'
     code: 699541
     url: /works/699541/
+  - title: A Suspicious Counselor
+    author: hellap
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/699550.jpg
+    rating: 0.0
+    date: '2026-11-23'
+    code: 699550
+    url: /works/699550/
 ---

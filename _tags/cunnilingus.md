@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "cunnilingus"
-work_count: 262
+work_count: 263
 works:
   - title: Love Approach
     author: hanafuda-sakurano
@@ -1930,6 +1930,13 @@ works:
     date: '2026-11-21'
     code: 698998
     url: /works/698998/
+  - title: I can have sex to my heart's content with my favorite person
+    author: higehurai
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/699121.jpg
+    rating: 4.5
+    date: '2026-11-23'
+    code: 699121
+    url: /works/699121/
   - title: Soredemo Ashita mo Kareshi ga ii - Chapter 1-29
     author: miike-kei
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/699541.jpg

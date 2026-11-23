@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "x-ray"
-work_count: 522
+work_count: 524
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -660,6 +660,13 @@ works:
     date: '2026-11-23'
     code: 496499
     url: /works/496499/
+  - title: Karada no Kioku + Karada no Kioku After | Body Memory + Body Memory After
+    author: sugi-g
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/496774.jpg
+    rating: 0.0
+    date: '2026-11-23'
+    code: 496774
+    url: /works/496774/
   - title: Onozomi deshitara Saimin wo ~Maki-san Himitsu no Renai Therapy~ | If you
       wish, hypnosis ~Maki-san's secret love therapy~
     author: meeko
@@ -3909,4 +3916,11 @@ works:
     date: '2026-11-22'
     code: 699118
     url: /works/699118/
+  - title: A Suspicious Counselor
+    author: hellap
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/699550.jpg
+    rating: 0.0
+    date: '2026-11-23'
+    code: 699550
+    url: /works/699550/
 ---

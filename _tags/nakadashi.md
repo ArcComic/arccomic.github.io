@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "nakadashi"
-work_count: 1220
+work_count: 1223
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -1619,6 +1619,13 @@ works:
     date: '2026-11-12'
     code: 496572
     url: /works/496572/
+  - title: Karada no Kioku + Karada no Kioku After | Body Memory + Body Memory After
+    author: sugi-g
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/496774.jpg
+    rating: 0.0
+    date: '2026-11-23'
+    code: 496774
+    url: /works/496774/
   - title: Onozomi deshitara Saimin wo ~Maki-san Himitsu no Renai Therapy~ | If you
       wish, hypnosis ~Maki-san's secret love therapy~
     author: meeko
@@ -9053,6 +9060,20 @@ works:
     date: '2026-11-22'
     code: 699118
     url: /works/699118/
+  - title: I can have sex to my heart's content with my favorite person
+    author: higehurai
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/699121.jpg
+    rating: 4.5
+    date: '2026-11-23'
+    code: 699121
+    url: /works/699121/
+  - title: A Suspicious Counselor
+    author: hellap
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/699550.jpg
+    rating: 0.0
+    date: '2026-11-23'
+    code: 699550
+    url: /works/699550/
   - title: Useless maid ↔ Future wife doujin
     author: doji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/699605.jpg

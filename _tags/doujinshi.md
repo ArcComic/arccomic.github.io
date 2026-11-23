@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "doujinshi"
-work_count: 1903
+work_count: 1905
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -14059,6 +14059,13 @@ works:
     date: '2026-11-22'
     code: 699118
     url: /works/699118/
+  - title: I can have sex to my heart's content with my favorite person
+    author: higehurai
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/699121.jpg
+    rating: 4.5
+    date: '2026-11-23'
+    code: 699121
+    url: /works/699121/
   - title: My Mom, My Love 1 - 9
     author: siberian-hahasky
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/699299.jpg
@@ -14066,6 +14073,13 @@ works:
     date: '2026-11-22'
     code: 699299
     url: /works/699299/
+  - title: A Suspicious Counselor
+    author: hellap
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/699550.jpg
+    rating: 0.0
+    date: '2026-11-23'
+    code: 699550
+    url: /works/699550/
   - title: Useless maid ↔ Future wife doujin
     author: doji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/699605.jpg

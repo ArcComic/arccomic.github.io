@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "cheating"
-work_count: 518
+work_count: 520
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -827,6 +827,13 @@ works:
     date: '2026-10-18'
     code: 495845
     url: /works/495845/
+  - title: Karada no Kioku + Karada no Kioku After | Body Memory + Body Memory After
+    author: sugi-g
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/496774.jpg
+    rating: 0.0
+    date: '2026-11-23'
+    code: 496774
+    url: /works/496774/
   - title: PHYSICAROOM
     author: sugi-g
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/498311.jpg
@@ -3813,6 +3820,13 @@ works:
     date: '2026-11-21'
     code: 698998
     url: /works/698998/
+  - title: I can have sex to my heart's content with my favorite person
+    author: higehurai
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/699121.jpg
+    rating: 4.5
+    date: '2026-11-23'
+    code: 699121
+    url: /works/699121/
   - title: Jokyoushi - Hot For Teachers | Female Teachers
     author: drill-murata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/81375.jpg

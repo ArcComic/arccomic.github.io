@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "gokkun"
-work_count: 106
+work_count: 107
 works:
   - title: Virgin Chauwa! | I'm No Virgin!
     author: herio
@@ -803,4 +803,11 @@ works:
     date: '2026-11-22'
     code: 699118
     url: /works/699118/
+  - title: A Suspicious Counselor
+    author: hellap
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/699550.jpg
+    rating: 0.0
+    date: '2026-11-23'
+    code: 699550
+    url: /works/699550/
 ---

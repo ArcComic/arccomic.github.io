@@ -1,7 +1,7 @@
 ---
 layout: artist
 artist_name: "sugi-g"
-work_count: 4
+work_count: 5
 works:
   - title: My Care Lady Ch. 1
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/139537.jpg
@@ -15,6 +15,12 @@ works:
     date: '2026-11-23'
     code: 246753
     url: /works/246753/
+  - title: Karada no Kioku + Karada no Kioku After | Body Memory + Body Memory After
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/496774.jpg
+    rating: 0.0
+    date: '2026-11-23'
+    code: 496774
+    url: /works/496774/
   - title: PHYSICAROOM
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/498311.jpg
     rating: 0.0

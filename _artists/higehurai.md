@@ -1,7 +1,7 @@
 ---
 layout: artist
 artist_name: "higehurai"
-work_count: 3
+work_count: 4
 works:
   - title: Boku no Daisuki na Kaa-san to Omou Zonbun Sex Dekiru Hi 3 | My Fabulous Fuck
       Day with My Amazing Mommy 3
@@ -24,4 +24,10 @@ works:
     date: '2026-09-11'
     code: 680315
     url: /works/680315/
+  - title: I can have sex to my heart's content with my favorite person
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/699121.jpg
+    rating: 4.5
+    date: '2026-11-23'
+    code: 699121
+    url: /works/699121/
 ---

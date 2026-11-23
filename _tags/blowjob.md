@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "blowjob"
-work_count: 965
+work_count: 968
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -1280,6 +1280,13 @@ works:
     date: '2026-11-12'
     code: 496572
     url: /works/496572/
+  - title: Karada no Kioku + Karada no Kioku After | Body Memory + Body Memory After
+    author: sugi-g
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/496774.jpg
+    rating: 0.0
+    date: '2026-11-23'
+    code: 496774
+    url: /works/496774/
   - title: Zoku Onnajoushi wa Ikiwakareta Haha
     author: kumo-no-ito
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/497950.jpg
@@ -7138,6 +7145,13 @@ works:
     date: '2026-11-22'
     code: 699118
     url: /works/699118/
+  - title: I can have sex to my heart's content with my favorite person
+    author: higehurai
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/699121.jpg
+    rating: 4.5
+    date: '2026-11-23'
+    code: 699121
+    url: /works/699121/
   - title: Soredemo Ashita mo Kareshi ga ii - Chapter 1-29
     author: miike-kei
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/699541.jpg
@@ -7145,6 +7159,13 @@ works:
     date: '2026-11-23'
     code: 699541
     url: /works/699541/
+  - title: A Suspicious Counselor
+    author: hellap
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/699550.jpg
+    rating: 0.0
+    date: '2026-11-23'
+    code: 699550
+    url: /works/699550/
   - title: Useless maid ↔ Future wife doujin
     author: doji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/699605.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "assjob"
-work_count: 12
+work_count: 13
 works:
   - title: Mama Naranai Onna-tachi Ch. 1-2
     author: otochichi
@@ -89,4 +89,11 @@ works:
     date: '2026-11-21'
     code: 698937
     url: /works/698937/
+  - title: I can have sex to my heart's content with my favorite person
+    author: higehurai
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/699121.jpg
+    rating: 4.5
+    date: '2026-11-23'
+    code: 699121
+    url: /works/699121/
 ---
