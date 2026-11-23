@@ -28,7 +28,7 @@ works:
       Osananajimi
     author: edogawa-koubou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/264495.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-11-22'
     code: 264495
     url: /works/264495/
@@ -229,7 +229,7 @@ works:
   - title: Roshutsu Shoujo to Zange Ana | The Exhibitionist and the Confessional
     author: gomu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/434761.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-11-22'
     code: 434761
     url: /works/434761/
@@ -695,7 +695,7 @@ works:
   - title: Jimi Kyonyuu Manager Netorareru
     author: technician
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/635022.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-22'
     code: 635022
     url: /works/635022/

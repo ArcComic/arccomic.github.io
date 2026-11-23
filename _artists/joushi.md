@@ -6,13 +6,13 @@ works:
   - title: Watashi swap Ore ~Kinjo no Sukebe na Itazurakko to Karada o Irekaerareta
       Watashi~
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/539660.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-22'
     code: 539660
     url: /works/539660/
   - title: TS Jinsei Yarinaoshiki!! | TS Life Redo Machine!!
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/547775.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-11-22'
     code: 547775
     url: /works/547775/
@@ -27,7 +27,7 @@ works:
   - title: TS Shita Ore no Shiawase na Mesu Ochi Kekkon | My Happy Marriage After Being
       TS'd and Falling to the Female Side
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/606065.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-11-22'
     code: 606065
     url: /works/606065/

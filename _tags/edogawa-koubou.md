@@ -7,7 +7,7 @@ works:
       Osananajimi
     author: edogawa-koubou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/264495.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-11-22'
     code: 264495
     url: /works/264495/
@@ -37,7 +37,7 @@ works:
   - title: A ripe wife awakened by her nephew at a house with a family every day
     author: edogawa-koubou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/489231.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-11-22'
     code: 489231
     url: /works/489231/

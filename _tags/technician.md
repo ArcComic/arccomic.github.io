@@ -6,7 +6,7 @@ works:
   - title: Jimi Kyonyuu Manager Netorareru
     author: technician
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/635022.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-22'
     code: 635022
     url: /works/635022/
@@ -29,7 +29,7 @@ works:
   - title: Toshiue Onee-san no Oshioki. ...de Iku!!
     author: technician
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682790.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-11-22'
     code: 682790
     url: /works/682790/
@@ -37,7 +37,7 @@ works:
       no Monogatari~｜Artificial Tears -While I Was Dead, Someone Else Claimed My Wife-
     author: technician
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698402.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-11-22'
     code: 698402
     url: /works/698402/

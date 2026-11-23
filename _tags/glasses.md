@@ -758,7 +758,7 @@ works:
       Watashi~
     author: joushi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/539660.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-22'
     code: 539660
     url: /works/539660/
@@ -2641,7 +2641,7 @@ works:
   - title: Senpai, Kyou Tomatte mo Ii yo ne? 3
     author: shien
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/699118.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-11-22'
     code: 699118
     url: /works/699118/

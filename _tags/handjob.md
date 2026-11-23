@@ -235,7 +235,7 @@ works:
   - title: Kakkou no Hi Takuran Sareta Tsuma Sono 2
     author: nanashi-novel
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/473752.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-11-22'
     code: 473752
     url: /works/473752/
@@ -1166,7 +1166,7 @@ works:
       World 2 ~ Cat Girl Edition ~
     author: goma-gorilla
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680646.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-11-22'
     code: 680646
     url: /works/680646/
@@ -1268,7 +1268,7 @@ works:
   - title: Toshiue Onee-san no Oshioki. ...de Iku!!
     author: technician
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682790.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-11-22'
     code: 682790
     url: /works/682790/

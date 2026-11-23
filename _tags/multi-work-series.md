@@ -14,7 +14,7 @@ works:
       Osananajimi
     author: edogawa-koubou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/264495.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-11-22'
     code: 264495
     url: /works/264495/
@@ -462,7 +462,7 @@ works:
   - title: Kakkou no Hi Takuran Sareta Tsuma Sono 2
     author: nanashi-novel
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/473752.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-11-22'
     code: 473752
     url: /works/473752/
@@ -3122,7 +3122,7 @@ works:
       World 2 ~ Cat Girl Edition ~
     author: goma-gorilla
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/680646.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-11-22'
     code: 680646
     url: /works/680646/
@@ -3943,7 +3943,7 @@ works:
   - title: Senpai, Kyou Tomatte mo Ii yo ne? 3
     author: shien
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/699118.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-11-22'
     code: 699118
     url: /works/699118/

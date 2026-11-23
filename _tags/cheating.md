@@ -703,7 +703,7 @@ works:
       Secret Tutoring Session With Ex-boyfriend
     author: nanashi-novel
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/471769.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-11-22'
     code: 471769
     url: /works/471769/
@@ -717,7 +717,7 @@ works:
   - title: Kakkou no Hi Takuran Sareta Tsuma Sono 2
     author: nanashi-novel
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/473752.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-11-22'
     code: 473752
     url: /works/473752/
@@ -778,7 +778,7 @@ works:
   - title: A ripe wife awakened by her nephew at a house with a family every day
     author: edogawa-koubou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/489231.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-11-22'
     code: 489231
     url: /works/489231/
@@ -3760,7 +3760,7 @@ works:
       no Monogatari~｜Artificial Tears -While I Was Dead, Someone Else Claimed My Wife-
     author: technician
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698402.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-11-22'
     code: 698402
     url: /works/698402/

@@ -49,7 +49,7 @@ works:
       Osananajimi
     author: edogawa-koubou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/264495.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-11-22'
     code: 264495
     url: /works/264495/
@@ -86,7 +86,7 @@ works:
   - title: Ningen Sandbag | Human Punching Bag
     author: yamahata-rian
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/296585.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-11-22'
     code: 296585
     url: /works/296585/
@@ -163,7 +163,7 @@ works:
   - title: Kakkou no Hi -Takuran sareta Tsuma-
     author: nanashi-novel
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/349536.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-11-22'
     code: 349536
     url: /works/349536/
@@ -637,7 +637,7 @@ works:
   - title: A ripe wife awakened by her nephew at a house with a family every day
     author: edogawa-koubou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/489231.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-11-22'
     code: 489231
     url: /works/489231/
@@ -936,7 +936,7 @@ works:
       Watashi~
     author: joushi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/539660.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-22'
     code: 539660
     url: /works/539660/
@@ -1002,7 +1002,7 @@ works:
   - title: TS Jinsei Yarinaoshiki!! | TS Life Redo Machine!!
     author: joushi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/547775.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-11-22'
     code: 547775
     url: /works/547775/
@@ -1381,7 +1381,7 @@ works:
       TS'd and Falling to the Female Side
     author: joushi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/606065.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-11-22'
     code: 606065
     url: /works/606065/
@@ -1643,7 +1643,7 @@ works:
   - title: Jimi Kyonyuu Manager Netorareru
     author: technician
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/635022.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-22'
     code: 635022
     url: /works/635022/

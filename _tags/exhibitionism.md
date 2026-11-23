@@ -62,7 +62,7 @@ works:
   - title: Roshutsu Shoujo to Zange Ana | The Exhibitionist and the Confessional
     author: gomu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/434761.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-11-22'
     code: 434761
     url: /works/434761/
@@ -236,7 +236,7 @@ works:
       TS'd and Falling to the Female Side
     author: joushi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/606065.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-11-22'
     code: 606065
     url: /works/606065/
@@ -308,7 +308,7 @@ works:
   - title: Jimi Kyonyuu Manager Netorareru
     author: technician
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/635022.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-22'
     code: 635022
     url: /works/635022/

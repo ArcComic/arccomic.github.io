@@ -197,7 +197,7 @@ works:
       Osananajimi
     author: edogawa-koubou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/264495.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-11-22'
     code: 264495
     url: /works/264495/
@@ -720,7 +720,7 @@ works:
   - title: Kakkou no Hi -Takuran sareta Tsuma-
     author: nanashi-novel
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/349536.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-11-22'
     code: 349536
     url: /works/349536/
@@ -1464,7 +1464,7 @@ works:
   - title: Roshutsu Shoujo to Zange Ana | The Exhibitionist and the Confessional
     author: gomu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/434761.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-11-22'
     code: 434761
     url: /works/434761/
@@ -1802,7 +1802,7 @@ works:
       Secret Tutoring Session With Ex-boyfriend
     author: nanashi-novel
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/471769.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-11-22'
     code: 471769
     url: /works/471769/
@@ -2038,7 +2038,7 @@ works:
   - title: A ripe wife awakened by her nephew at a house with a family every day
     author: edogawa-koubou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/489231.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-11-22'
     code: 489231
     url: /works/489231/
@@ -2510,7 +2510,7 @@ works:
       for Lust
     author: gomu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/520693.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-22'
     code: 520693
     url: /works/520693/
@@ -2978,7 +2978,7 @@ works:
   - title: Kore ga Otona no Shazai Jutsu | Rio's Sexpology
     author: gomu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/547229.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-22'
     code: 547229
     url: /works/547229/
@@ -2992,7 +2992,7 @@ works:
   - title: TS Jinsei Yarinaoshiki!! | TS Life Redo Machine!!
     author: joushi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/547775.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-11-22'
     code: 547775
     url: /works/547775/
@@ -4050,7 +4050,7 @@ works:
       TS'd and Falling to the Female Side
     author: joushi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/606065.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-11-22'
     code: 606065
     url: /works/606065/
@@ -4742,7 +4742,7 @@ works:
   - title: Jimi Kyonyuu Manager Netorareru
     author: technician
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/635022.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-22'
     code: 635022
     url: /works/635022/
@@ -4763,7 +4763,7 @@ works:
   - title: Trainers' Virginity is The Kahuna’s Privilege
     author: borisu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/635430.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-11-22'
     code: 635430
     url: /works/635430/
@@ -8413,7 +8413,7 @@ works:
   - title: Toshiue Onee-san no Oshioki. ...de Iku!!
     author: technician
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682790.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-11-22'
     code: 682790
     url: /works/682790/
@@ -10141,7 +10141,7 @@ works:
       no Monogatari~｜Artificial Tears -While I Was Dead, Someone Else Claimed My Wife-
     author: technician
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/698402.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-11-22'
     code: 698402
     url: /works/698402/
@@ -10206,7 +10206,7 @@ works:
   - title: Senpai, Kyou Tomatte mo Ii yo ne? 3
     author: shien
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/699118.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-11-22'
     code: 699118
     url: /works/699118/

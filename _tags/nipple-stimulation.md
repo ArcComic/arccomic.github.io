@@ -21,7 +21,7 @@ works:
       Secret Tutoring Session With Ex-boyfriend
     author: nanashi-novel
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/471769.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-11-22'
     code: 471769
     url: /works/471769/
@@ -1799,7 +1799,7 @@ works:
   - title: Senpai, Kyou Tomatte mo Ii yo ne? 3
     author: shien
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/699118.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-11-22'
     code: 699118
     url: /works/699118/

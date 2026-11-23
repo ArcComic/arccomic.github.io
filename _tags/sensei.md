@@ -22,7 +22,7 @@ works:
       for Lust
     author: gomu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/520693.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-22'
     code: 520693
     url: /works/520693/
@@ -36,7 +36,7 @@ works:
   - title: Kore ga Otona no Shazai Jutsu | Rio's Sexpology
     author: gomu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/547229.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-22'
     code: 547229
     url: /works/547229/
