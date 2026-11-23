@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "manga"
-work_count: 477
+work_count: 479
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -171,6 +171,13 @@ works:
     date: '2026-03-09'
     code: 226386
     url: /works/226386/
+  - title: Shisaienbu | My Dear Master's Charming Martial Arts
+    author: etuzan-jakusui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/235631.jpg
+    rating: 4.9
+    date: '2026-11-23'
+    code: 235631
+    url: /works/235631/
   - title: Chibo Soukan Ch.1-3
     author: natsu-no-oyatsu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/238110.jpg
@@ -953,6 +960,13 @@ works:
     date: '2026-03-09'
     code: 494440
     url: /works/494440/
+  - title: PHYSICAROOM
+    author: sugi-g
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/498311.jpg
+    rating: 0.0
+    date: '2026-11-23'
+    code: 498311
+    url: /works/498311/
   - title: Tokikoe Zenpen | Transcendence, The Beginning
     author: sakujirou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/498679.jpg

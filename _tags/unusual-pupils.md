@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "unusual pupils"
-work_count: 120
+work_count: 121
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -207,6 +207,13 @@ works:
     date: '2026-11-10'
     code: 492689
     url: /works/492689/
+  - title: Senpai, Kyou Tomatte mo Ii yo ne? | Can we stay at your place tonight Senpai?
+    author: shien
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/496499.jpg
+    rating: 0.0
+    date: '2026-11-23'
+    code: 496499
+    url: /works/496499/
   - title: Moto Mahou Shoujo no Hikikomori Seikatsu | The NEET Life of a Former Magical
       Girl
     author: zhen-lu

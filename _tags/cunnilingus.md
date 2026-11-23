@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "cunnilingus"
-work_count: 260
+work_count: 261
 works:
   - title: Love Approach
     author: hanafuda-sakurano
@@ -329,6 +329,13 @@ works:
     date: '2026-04-12'
     code: 492657
     url: /works/492657/
+  - title: PHYSICAROOM
+    author: sugi-g
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/498311.jpg
+    rating: 0.0
+    date: '2026-11-23'
+    code: 498311
+    url: /works/498311/
   - title: Tokikoe Zenpen | Transcendence, The Beginning
     author: sakujirou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/498679.jpg

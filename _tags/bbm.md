@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bbm"
-work_count: 160
+work_count: 161
 works:
   - title: Kindan no Hatemitsu
     author: ryuuta
@@ -196,6 +196,13 @@ works:
     date: '2026-10-18'
     code: 495845
     url: /works/495845/
+  - title: PHYSICAROOM
+    author: sugi-g
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/498311.jpg
+    rating: 0.0
+    date: '2026-11-23'
+    code: 498311
+    url: /works/498311/
   - title: Obedience Part 1
     author: laliberte
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/501709.jpg

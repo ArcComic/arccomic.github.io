@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "original"
-work_count: 1535
+work_count: 1536
 works:
   - title: Gokuusu Mizugi de Okasaretagari ga Kakusenai
     author: kekemotsu
@@ -1553,6 +1553,13 @@ works:
     date: '2026-10-18'
     code: 495845
     url: /works/495845/
+  - title: Senpai, Kyou Tomatte mo Ii yo ne? | Can we stay at your place tonight Senpai?
+    author: shien
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/496499.jpg
+    rating: 0.0
+    date: '2026-11-23'
+    code: 496499
+    url: /works/496499/
   - title: Tsuma ga Shachou ni Netorareru | My wife gets stolen by the President
     author: muripoyo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/496572.jpg

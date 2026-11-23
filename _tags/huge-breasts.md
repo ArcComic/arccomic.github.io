@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "huge breasts"
-work_count: 173
+work_count: 174
 works:
   - title: Mama Naranai Onna-tachi Ch. 1-2
     author: otochichi
@@ -10,6 +10,13 @@ works:
     date: '2026-10-10'
     code: 209822
     url: /works/209822/
+  - title: Shisaienbu | My Dear Master's Charming Martial Arts
+    author: etuzan-jakusui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/235631.jpg
+    rating: 4.9
+    date: '2026-11-23'
+    code: 235631
+    url: /works/235631/
   - title: Yarimoku Kouen | Yarinookie Park [English] =TLL+mrwayne=
     author: sugi-g
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/246753.jpg

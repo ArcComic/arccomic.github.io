@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "mosaic censorship"
-work_count: 440
+work_count: 441
 works:
   - title: Okki na Kanojo ni Amaetai | I want to be pampered by a girl of generous girth
     author: higashino-mikan
@@ -695,6 +695,13 @@ works:
     date: '2026-10-29'
     code: 497950
     url: /works/497950/
+  - title: PHYSICAROOM
+    author: sugi-g
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/498311.jpg
+    rating: 0.0
+    date: '2026-11-23'
+    code: 498311
+    url: /works/498311/
   - title: Mama to Musuko ga Mujintou de Love Love Sex suru Hanashi |  A Story of a
       Mom and Her Son's Lovemaking on a Uninhabited Island
     author: katano-chika

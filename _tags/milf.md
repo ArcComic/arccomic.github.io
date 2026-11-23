@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "milf"
-work_count: 638
+work_count: 640
 works:
   - title: Life with Married Women Just Like a Manga 2 - Ch. 1-5
     author: hidemaru
@@ -101,6 +101,13 @@ works:
     date: '2026-03-09'
     code: 226386
     url: /works/226386/
+  - title: Shisaienbu | My Dear Master's Charming Martial Arts
+    author: etuzan-jakusui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/235631.jpg
+    rating: 4.9
+    date: '2026-11-23'
+    code: 235631
+    url: /works/235631/
   - title: Natsu dake Koibito - Summer only Lover [English] =Forbidden Fetish + Ser
       Maggot=
     author: yoshiura-kazuya
@@ -1008,6 +1015,13 @@ works:
     date: '2026-10-29'
     code: 497950
     url: /works/497950/
+  - title: PHYSICAROOM
+    author: sugi-g
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/498311.jpg
+    rating: 0.0
+    date: '2026-11-23'
+    code: 498311
+    url: /works/498311/
   - title: Mama to Musuko ga Mujintou de Love Love Sex suru Hanashi |  A Story of a
       Mom and Her Son's Lovemaking on a Uninhabited Island
     author: katano-chika

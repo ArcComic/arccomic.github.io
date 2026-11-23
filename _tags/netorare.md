@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "netorare"
-work_count: 587
+work_count: 588
 works:
   - title: Kousa suru Osu to Mesu | Male and Female Crossing
     author: ootsuka-kotora
@@ -31,6 +31,13 @@ works:
     date: '2026-03-09'
     code: 226386
     url: /works/226386/
+  - title: Shisaienbu | My Dear Master's Charming Martial Arts
+    author: etuzan-jakusui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/235631.jpg
+    rating: 4.9
+    date: '2026-11-23'
+    code: 235631
+    url: /works/235631/
   - title: Overwrite
     author: ojo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/240721.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "schoolboy uniform"
-work_count: 153
+work_count: 154
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -285,6 +285,13 @@ works:
     date: '2026-11-13'
     code: 493234
     url: /works/493234/
+  - title: Senpai, Kyou Tomatte mo Ii yo ne? | Can we stay at your place tonight Senpai?
+    author: shien
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/496499.jpg
+    rating: 0.0
+    date: '2026-11-23'
+    code: 496499
+    url: /works/496499/
   - title: Tomodachi no Mama ga Boku no Dekachin de Ikimakutta Sotsugyoushiki
     author: rk-2
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/513981.jpg

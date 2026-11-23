@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "gokkun"
-work_count: 105
+work_count: 106
 works:
   - title: Virgin Chauwa! | I'm No Virgin!
     author: herio
@@ -61,6 +61,13 @@ works:
     date: '2026-09-29'
     code: 453286
     url: /works/453286/
+  - title: Senpai, Kyou Tomatte mo Ii yo ne? | Can we stay at your place tonight Senpai?
+    author: shien
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/496499.jpg
+    rating: 0.0
+    date: '2026-11-23'
+    code: 496499
+    url: /works/496499/
   - title: Onanie Supporter Hanako |  Handjob Helper Hanako
     author: inu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/517766.jpg

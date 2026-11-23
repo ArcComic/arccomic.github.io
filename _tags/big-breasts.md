@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big breasts"
-work_count: 1592
+work_count: 1595
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -136,6 +136,13 @@ works:
     date: '2026-03-09'
     code: 226386
     url: /works/226386/
+  - title: Shisaienbu | My Dear Master's Charming Martial Arts
+    author: etuzan-jakusui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/235631.jpg
+    rating: 4.9
+    date: '2026-11-23'
+    code: 235631
+    url: /works/235631/
   - title: Natsu dake Koibito - Summer only Lover [English] =Forbidden Fetish + Ser
       Maggot=
     author: yoshiura-kazuya
@@ -1770,6 +1777,13 @@ works:
     date: '2026-10-18'
     code: 495845
     url: /works/495845/
+  - title: Senpai, Kyou Tomatte mo Ii yo ne? | Can we stay at your place tonight Senpai?
+    author: shien
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/496499.jpg
+    rating: 0.0
+    date: '2026-11-23'
+    code: 496499
+    url: /works/496499/
   - title: Tsuma ga Shachou ni Netorareru | My wife gets stolen by the President
     author: muripoyo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/496572.jpg
@@ -1792,6 +1806,13 @@ works:
     date: '2026-05-03'
     code: 498051
     url: /works/498051/
+  - title: PHYSICAROOM
+    author: sugi-g
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/498311.jpg
+    rating: 0.0
+    date: '2026-11-23'
+    code: 498311
+    url: /works/498311/
   - title: Jiraikei Joshi to Yatte Mitai! | I Want to Do It with a Landmine Girl
     author: mushi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/500221.jpg

@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "deepthroat"
-work_count: 150
+work_count: 151
 works:
+  - title: Shisaienbu | My Dear Master's Charming Martial Arts
+    author: etuzan-jakusui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/235631.jpg
+    rating: 4.9
+    date: '2026-11-23'
+    code: 235631
+    url: /works/235631/
   - title: Toshishita Chin Kui Obasan
     author: maccha-neji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/387637.jpg

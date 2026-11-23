@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "beauty mark"
-work_count: 280
+work_count: 281
 works:
+  - title: Shisaienbu | My Dear Master's Charming Martial Arts
+    author: etuzan-jakusui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/235631.jpg
+    rating: 4.9
+    date: '2026-11-23'
+    code: 235631
+    url: /works/235631/
   - title: Uragiri no Ai wa Mitsu no Aji | Treacherous Love Tastes Like Honey
     author: cuzukago
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/244812.jpg

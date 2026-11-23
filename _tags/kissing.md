@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "kissing"
-work_count: 574
+work_count: 576
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -24,6 +24,13 @@ works:
     date: '2026-09-25'
     code: 215019
     url: /works/215019/
+  - title: Shisaienbu | My Dear Master's Charming Martial Arts
+    author: etuzan-jakusui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/235631.jpg
+    rating: 4.9
+    date: '2026-11-23'
+    code: 235631
+    url: /works/235631/
   - title: Yarimoku Kouen | Yarinookie Park [English] =TLL+mrwayne=
     author: sugi-g
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/246753.jpg
@@ -584,6 +591,13 @@ works:
     date: '2026-10-18'
     code: 495845
     url: /works/495845/
+  - title: PHYSICAROOM
+    author: sugi-g
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/498311.jpg
+    rating: 0.0
+    date: '2026-11-23'
+    code: 498311
+    url: /works/498311/
   - title: Tokikoe Zenpen | Transcendence, The Beginning
     author: sakujirou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/498679.jpg

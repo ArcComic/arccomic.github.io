@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "cheating"
-work_count: 517
+work_count: 518
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -827,6 +827,13 @@ works:
     date: '2026-10-18'
     code: 495845
     url: /works/495845/
+  - title: PHYSICAROOM
+    author: sugi-g
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/498311.jpg
+    rating: 0.0
+    date: '2026-11-23'
+    code: 498311
+    url: /works/498311/
   - title: Ousama Game no Meirei de Haha to Sex Shita Hanashi | I Ordered My Mom to
       Have Sex with Me in King's Game
     author: spices

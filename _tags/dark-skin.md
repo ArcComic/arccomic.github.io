@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "dark skin"
-work_count: 227
+work_count: 228
 works:
   - title: Birthday
     author: hashiba-yachi
@@ -24,6 +24,13 @@ works:
     date: '2026-11-10'
     code: 232437
     url: /works/232437/
+  - title: Shisaienbu | My Dear Master's Charming Martial Arts
+    author: etuzan-jakusui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/235631.jpg
+    rating: 4.9
+    date: '2026-11-23'
+    code: 235631
+    url: /works/235631/
   - title: Netorare Ibe Kiba Shizuka
     author: terasu-mc
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/275108.jpg

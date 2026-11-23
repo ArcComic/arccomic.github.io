@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "impregnation"
-work_count: 221
+work_count: 222
 works:
   - title: Kousa suru Osu to Mesu | Male and Female Crossing
     author: ootsuka-kotora
@@ -17,6 +17,13 @@ works:
     date: '2026-10-10'
     code: 209822
     url: /works/209822/
+  - title: Shisaienbu | My Dear Master's Charming Martial Arts
+    author: etuzan-jakusui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/235631.jpg
+    rating: 4.9
+    date: '2026-11-23'
+    code: 235631
+    url: /works/235631/
   - title: Chibo Soukan Ch.1-3
     author: natsu-no-oyatsu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/238110.jpg

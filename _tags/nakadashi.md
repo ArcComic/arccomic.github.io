@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "nakadashi"
-work_count: 1215
+work_count: 1218
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -109,6 +109,13 @@ works:
     date: '2026-10-08'
     code: 228426
     url: /works/228426/
+  - title: Shisaienbu | My Dear Master's Charming Martial Arts
+    author: etuzan-jakusui
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/235631.jpg
+    rating: 4.9
+    date: '2026-11-23'
+    code: 235631
+    url: /works/235631/
   - title: Mash to Issho ni
     author: blue-gk
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/263825.jpg
@@ -1598,6 +1605,13 @@ works:
     date: '2026-10-18'
     code: 495845
     url: /works/495845/
+  - title: Senpai, Kyou Tomatte mo Ii yo ne? | Can we stay at your place tonight Senpai?
+    author: shien
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/496499.jpg
+    rating: 0.0
+    date: '2026-11-23'
+    code: 496499
+    url: /works/496499/
   - title: Tsuma ga Shachou ni Netorareru | My wife gets stolen by the President
     author: muripoyo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/496572.jpg
@@ -1613,6 +1627,13 @@ works:
     date: '2026-05-03'
     code: 498051
     url: /works/498051/
+  - title: PHYSICAROOM
+    author: sugi-g
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/498311.jpg
+    rating: 0.0
+    date: '2026-11-23'
+    code: 498311
+    url: /works/498311/
   - title: Tokikoe Zenpen | Transcendence, The Beginning
     author: sakujirou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/498679.jpg
