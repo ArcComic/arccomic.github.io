@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "glasses"
-work_count: 361
+work_count: 362
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -102,6 +102,13 @@ works:
     date: '2026-04-12'
     code: 240721
     url: /works/240721/
+  - title: Yarimoku Kouen | Yarinookie Park [English] =TLL+mrwayne=
+    author: sugi-g
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/246753.jpg
+    rating: 0.0
+    date: '2026-11-23'
+    code: 246753
+    url: /works/246753/
   - title: Shizuku-san wa Ore no Omoibito | My Neighbor Shizuka-San, My Fondest Desire
     author: saemon
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/269224.jpg

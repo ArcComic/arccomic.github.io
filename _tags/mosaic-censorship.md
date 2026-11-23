@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "mosaic censorship"
-work_count: 439
+work_count: 440
 works:
   - title: Okki na Kanojo ni Amaetai | I want to be pampered by a girl of generous girth
     author: higashino-mikan
@@ -353,6 +353,15 @@ works:
     date: '2026-10-30'
     code: 414003
     url: /works/414003/
+  - title: Oba-san no Houman na Nikutai ni Umorete Doutei o Ubawareta Atsui Natsu no
+      Hi | The Hot Summer Day I Lost My Virginity While Sinking Into the Voluptuous
+      Body of a Oba-san
+    author: edogawa-koubou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/414004.jpg
+    rating: 0.0
+    date: '2026-11-23'
+    code: 414004
+    url: /works/414004/
   - title: Hito o Dame ni Suru Choi Busu ~Kao 40-ten, Karada 120-ten no Kanojo~
     author: special-g
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/414892.jpg

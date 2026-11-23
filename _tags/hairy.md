@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "hairy"
-work_count: 456
+work_count: 457
 works:
   - title: MAGIC SEVEN
     author: asuhiro
@@ -74,6 +74,13 @@ works:
     date: '2026-09-24'
     code: 238110
     url: /works/238110/
+  - title: Yarimoku Kouen | Yarinookie Park [English] =TLL+mrwayne=
+    author: sugi-g
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/246753.jpg
+    rating: 0.0
+    date: '2026-11-23'
+    code: 246753
+    url: /works/246753/
   - title: Virgin Chauwa! | I'm No Virgin!
     author: herio
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/267270.jpg

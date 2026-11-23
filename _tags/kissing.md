@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "kissing"
-work_count: 572
+work_count: 574
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -24,6 +24,13 @@ works:
     date: '2026-09-25'
     code: 215019
     url: /works/215019/
+  - title: Yarimoku Kouen | Yarinookie Park [English] =TLL+mrwayne=
+    author: sugi-g
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/246753.jpg
+    rating: 0.0
+    date: '2026-11-23'
+    code: 246753
+    url: /works/246753/
   - title: Mash to Issho ni
     author: blue-gk
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/263825.jpg
@@ -250,6 +257,15 @@ works:
     date: '2026-10-20'
     code: 412668
     url: /works/412668/
+  - title: Oba-san no Houman na Nikutai ni Umorete Doutei o Ubawareta Atsui Natsu no
+      Hi | The Hot Summer Day I Lost My Virginity While Sinking Into the Voluptuous
+      Body of a Oba-san
+    author: edogawa-koubou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/414004.jpg
+    rating: 0.0
+    date: '2026-11-23'
+    code: 414004
+    url: /works/414004/
   - title: Hito o Dame ni Suru Choi Busu ~Kao 40-ten, Karada 120-ten no Kanojo~
     author: special-g
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/414892.jpg

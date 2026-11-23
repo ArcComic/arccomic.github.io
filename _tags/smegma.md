@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "smegma"
-work_count: 10
+work_count: 11
 works:
+  - title: Yarimoku Kouen | Yarinookie Park [English] =TLL+mrwayne=
+    author: sugi-g
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/246753.jpg
+    rating: 0.0
+    date: '2026-11-23'
+    code: 246753
+    url: /works/246753/
   - title: Re. Bishoujo Seitokaichou o Seibyou Mochi no Owakon Onna ni Otosu Hanashi
     author: kyouan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/576288.jpg

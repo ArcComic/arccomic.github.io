@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "the idolmaster"
-work_count: 84
+work_count: 85
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -392,6 +392,13 @@ works:
     date: '2026-04-14'
     code: 643808
     url: /works/643808/
+  - title: Neo-sensei no Sentaku
+    author: gomu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/644339.jpg
+    rating: 0.0
+    date: '2026-11-23'
+    code: 644339
+    url: /works/644339/
   - title: Homerareru beki Usagi
     author: tsurui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/647391.jpg

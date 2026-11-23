@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "pasties"
-work_count: 10
+work_count: 11
 works:
   - title: Suki datta Onnanoko ga Hentai Kusuguri Choukyou de Maso ni Sareteita Hanashi
       | The girl who was trying to get him to come to her house was a hentai heroine
@@ -19,6 +19,13 @@ works:
     date: '2026-03-03'
     code: 634137
     url: /works/634137/
+  - title: Neo-sensei no Sentaku
+    author: gomu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/644339.jpg
+    rating: 0.0
+    date: '2026-11-23'
+    code: 644339
+    url: /works/644339/
   - title: Namaiki Gal o Succubus ni Shite Oshioki Shitatta Ken 2 | The Case Where I
       Turned a Bratty Gal Into a Succubus and Punished Her 2
     author: takurowo

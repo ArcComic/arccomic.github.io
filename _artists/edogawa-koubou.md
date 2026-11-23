@@ -1,7 +1,7 @@
 ---
 layout: artist
 artist_name: "edogawa-koubou"
-work_count: 4
+work_count: 5
 works:
   - title: Kokuru no o Tamerattetara Itsunomanika Charao ni Hameraremakutteta Boku no
       Osananajimi
@@ -17,6 +17,14 @@ works:
     date: '2026-11-21'
     code: 264505
     url: /works/264505/
+  - title: Oba-san no Houman na Nikutai ni Umorete Doutei o Ubawareta Atsui Natsu no
+      Hi | The Hot Summer Day I Lost My Virginity While Sinking Into the Voluptuous
+      Body of a Oba-san
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/414004.jpg
+    rating: 0.0
+    date: '2026-11-23'
+    code: 414004
+    url: /works/414004/
   - title: The Wife Next Door at an Urban Renaissance Housing Complex is being NTR'ed
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/454233.jpg
     rating: 4.8

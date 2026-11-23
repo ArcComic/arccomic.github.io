@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sweating"
-work_count: 236
+work_count: 238
 works:
   - title: Kaisha de Iroiro | Gettin' Busy at the Office
     author: hara-shigeyuki
@@ -39,6 +39,13 @@ works:
     date: '2026-03-11'
     code: 237456
     url: /works/237456/
+  - title: Yarimoku Kouen | Yarinookie Park [English] =TLL+mrwayne=
+    author: sugi-g
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/246753.jpg
+    rating: 0.0
+    date: '2026-11-23'
+    code: 246753
+    url: /works/246753/
   - title: Mash to Issho ni
     author: blue-gk
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/263825.jpg
@@ -262,6 +269,15 @@ works:
     date: '2026-09-23'
     code: 402019
     url: /works/402019/
+  - title: Oba-san no Houman na Nikutai ni Umorete Doutei o Ubawareta Atsui Natsu no
+      Hi | The Hot Summer Day I Lost My Virginity While Sinking Into the Voluptuous
+      Body of a Oba-san
+    author: edogawa-koubou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/414004.jpg
+    rating: 0.0
+    date: '2026-11-23'
+    code: 414004
+    url: /works/414004/
   - title: Natsu Asobi | Summer Play
     author: ame-arare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/416852.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "nakadashi"
-work_count: 1213
+work_count: 1215
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -809,6 +809,15 @@ works:
     date: '2026-10-30'
     code: 414003
     url: /works/414003/
+  - title: Oba-san no Houman na Nikutai ni Umorete Doutei o Ubawareta Atsui Natsu no
+      Hi | The Hot Summer Day I Lost My Virginity While Sinking Into the Voluptuous
+      Body of a Oba-san
+    author: edogawa-koubou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/414004.jpg
+    rating: 0.0
+    date: '2026-11-23'
+    code: 414004
+    url: /works/414004/
   - title: NTR Anniversary + ) [Syukurin] Mitsuha ~Netorare~ (Kimi no Na wa.) [English]
       [Colorized] by Mikaku
     author: arakure
@@ -4529,6 +4538,13 @@ works:
     date: '2026-04-17'
     code: 644309
     url: /works/644309/
+  - title: Neo-sensei no Sentaku
+    author: gomu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/644339.jpg
+    rating: 0.0
+    date: '2026-11-23'
+    code: 644339
+    url: /works/644339/
   - title: Daisuki Datta Onii-chan | My Once Beloved Older Cousin
     author: minakami-riku
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/644495.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole female"
-work_count: 1378
+work_count: 1379
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -5269,6 +5269,13 @@ works:
     date: '2026-04-16'
     code: 644300
     url: /works/644300/
+  - title: Neo-sensei no Sentaku
+    author: gomu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/644339.jpg
+    rating: 0.0
+    date: '2026-11-23'
+    code: 644339
+    url: /works/644339/
   - title: Daisuki Datta Onii-chan | My Once Beloved Older Cousin
     author: minakami-riku
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/644495.jpg

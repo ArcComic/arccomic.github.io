@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "handjob"
-work_count: 222
+work_count: 223
 works:
   - title: Rin to P
     author: simon
@@ -185,6 +185,15 @@ works:
     date: '2026-09-05'
     code: 405606
     url: /works/405606/
+  - title: Oba-san no Houman na Nikutai ni Umorete Doutei o Ubawareta Atsui Natsu no
+      Hi | The Hot Summer Day I Lost My Virginity While Sinking Into the Voluptuous
+      Body of a Oba-san
+    author: edogawa-koubou
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/414004.jpg
+    rating: 0.0
+    date: '2026-11-23'
+    code: 414004
+    url: /works/414004/
   - title: Mama wa SeFri - Boku wa Tomodachi no Okaa-san to Sex o Suru | Fuck-Buddy
       Mom — I have Sex with my Friend's Mom Part 1
     author: goya
