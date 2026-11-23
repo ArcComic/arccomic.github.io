@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "doujinshi"
-work_count: 1905
+work_count: 1906
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -14073,6 +14073,13 @@ works:
     date: '2026-11-22'
     code: 699299
     url: /works/699299/
+  - title: Chijo Tsuma no Tawamure ~Kouhen~ My Boss Has a Slutty Wife Part 2
+    author: mitsumitsuniku
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/699356.jpg
+    rating: 0.0
+    date: '2026-11-23'
+    code: 699356
+    url: /works/699356/
   - title: A Suspicious Counselor
     author: hellap
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/699550.jpg

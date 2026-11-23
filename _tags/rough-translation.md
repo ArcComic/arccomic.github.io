@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "rough translation"
-work_count: 870
+work_count: 871
 works:
   - title: Boku no Shiranai Kimi no Kao
     author: utsutsu-minoru
@@ -521,6 +521,13 @@ works:
     date: '2026-03-09'
     code: 569575
     url: /works/569575/
+  - title: Ojuken Mama no Tsugunai | Atonement of the Exam-Taker's Mother
+    author: domon
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/569996.jpg
+    rating: 0.0
+    date: '2026-11-23'
+    code: 569996
+    url: /works/569996/
   - title: Hitozuma Netorare Sugano Hinako Hen
     author: nerumesian
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/570215.jpg

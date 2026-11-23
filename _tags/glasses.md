@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "glasses"
-work_count: 363
+work_count: 364
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -926,6 +926,13 @@ works:
     date: '2026-04-23'
     code: 569731
     url: /works/569731/
+  - title: Ojuken Mama no Tsugunai | Atonement of the Exam-Taker's Mother
+    author: domon
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/569996.jpg
+    rating: 0.0
+    date: '2026-11-23'
+    code: 569996
+    url: /works/569996/
   - title: Michikake - Waxing and Waning
     author: momono-yuuca
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/574060.jpg

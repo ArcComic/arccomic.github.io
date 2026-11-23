@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "milf"
-work_count: 643
+work_count: 644
 works:
   - title: Life with Married Women Just Like a Manga 2 - Ch. 1-5
     author: hidemaru
@@ -1687,6 +1687,13 @@ works:
     date: '2026-04-23'
     code: 569731
     url: /works/569731/
+  - title: Ojuken Mama no Tsugunai | Atonement of the Exam-Taker's Mother
+    author: domon
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/569996.jpg
+    rating: 0.0
+    date: '2026-11-23'
+    code: 569996
+    url: /works/569996/
   - title: Hitozuma Netorare Sugano Hinako Hen
     author: nerumesian
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/570215.jpg

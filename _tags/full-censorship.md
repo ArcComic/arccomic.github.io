@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "full censorship"
-work_count: 168
+work_count: 169
 works:
   - title: Kaisha de Iroiro | Gettin' Busy at the Office
     author: hara-shigeyuki
@@ -552,6 +552,13 @@ works:
     date: '2026-03-04'
     code: 568923
     url: /works/568923/
+  - title: Ojuken Mama no Tsugunai | Atonement of the Exam-Taker's Mother
+    author: domon
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/569996.jpg
+    rating: 0.0
+    date: '2026-11-23'
+    code: 569996
+    url: /works/569996/
   - title: Hitozuma Volley-bu no Asedaku SEX ~Shower Abinagara Mitchaku Shichau? 5-6
       | Married Women's Volleyball Club Sweaty Sex - We're Being Glued Together While
       Taking A Shower? 5-6

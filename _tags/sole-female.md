@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole female"
-work_count: 1383
+work_count: 1385
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -3345,6 +3345,13 @@ works:
     date: '2026-04-23'
     code: 569731
     url: /works/569731/
+  - title: Ojuken Mama no Tsugunai | Atonement of the Exam-Taker's Mother
+    author: domon
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/569996.jpg
+    rating: 0.0
+    date: '2026-11-23'
+    code: 569996
+    url: /works/569996/
   - title: Hitozuma Netorare Sugano Hinako Hen
     author: nerumesian
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/570215.jpg
@@ -10245,6 +10252,13 @@ works:
     date: '2026-11-23'
     code: 699121
     url: /works/699121/
+  - title: Chijo Tsuma no Tawamure ~Kouhen~ My Boss Has a Slutty Wife Part 2
+    author: mitsumitsuniku
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/699356.jpg
+    rating: 0.0
+    date: '2026-11-23'
+    code: 699356
+    url: /works/699356/
   - title: Ranko-ppoi no! | Ranko-Ish!
     author: napata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/87393.jpg

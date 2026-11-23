@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bbm"
-work_count: 161
+work_count: 162
 works:
   - title: Kindan no Hatemitsu
     author: ryuuta
@@ -388,6 +388,13 @@ works:
     date: '2026-04-30'
     code: 566052
     url: /works/566052/
+  - title: Ojuken Mama no Tsugunai | Atonement of the Exam-Taker's Mother
+    author: domon
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/569996.jpg
+    rating: 0.0
+    date: '2026-11-23'
+    code: 569996
+    url: /works/569996/
   - title: Hitozuma Netorare Sugano Hinako Hen
     author: nerumesian
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/570215.jpg

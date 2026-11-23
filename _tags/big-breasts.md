@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big breasts"
-work_count: 1599
+work_count: 1601
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -3131,6 +3131,13 @@ works:
     date: '2026-04-23'
     code: 569731
     url: /works/569731/
+  - title: Ojuken Mama no Tsugunai | Atonement of the Exam-Taker's Mother
+    author: domon
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/569996.jpg
+    rating: 0.0
+    date: '2026-11-23'
+    code: 569996
+    url: /works/569996/
   - title: Guard no Katai Ore no Kanojo ga Kyuu ni Shirigaru Onna ni Naru!? |  My Normally
       Uptight Girlfriend Suddenly Becomes a Slut!!
     author: gomu-gomu
@@ -11814,6 +11821,13 @@ works:
     date: '2026-11-23'
     code: 699121
     url: /works/699121/
+  - title: Chijo Tsuma no Tawamure ~Kouhen~ My Boss Has a Slutty Wife Part 2
+    author: mitsumitsuniku
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/699356.jpg
+    rating: 0.0
+    date: '2026-11-23'
+    code: 699356
+    url: /works/699356/
   - title: A Suspicious Counselor
     author: hellap
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/699550.jpg

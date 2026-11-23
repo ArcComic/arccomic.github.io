@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole male"
-work_count: 1312
+work_count: 1314
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -3061,6 +3061,13 @@ works:
     date: '2026-04-19'
     code: 569195
     url: /works/569195/
+  - title: Ojuken Mama no Tsugunai | Atonement of the Exam-Taker's Mother
+    author: domon
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/569996.jpg
+    rating: 0.0
+    date: '2026-11-23'
+    code: 569996
+    url: /works/569996/
   - title: Dekai Osananajimi-tachi ni Hasamarete Ase Daku Harem Ecchi | Harem Sex Sandwiched
       Between My Huge Childhood Friends
     author: group
@@ -9719,6 +9726,13 @@ works:
     date: '2026-11-23'
     code: 699121
     url: /works/699121/
+  - title: Chijo Tsuma no Tawamure ~Kouhen~ My Boss Has a Slutty Wife Part 2
+    author: mitsumitsuniku
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/699356.jpg
+    rating: 0.0
+    date: '2026-11-23'
+    code: 699356
+    url: /works/699356/
   - title: A Suspicious Counselor
     author: hellap
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/699550.jpg
