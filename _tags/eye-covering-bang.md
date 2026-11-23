@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "eye-covering bang"
-work_count: 109
+work_count: 110
 works:
   - title: Kanojo no Amai Jiraishuu
     author: jirou
@@ -18,6 +18,13 @@ works:
     date: '2026-10-15'
     code: 411246
     url: /works/411246/
+  - title: Murasaki no Yume
+    author: yd
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/415446.jpg
+    rating: 0.0
+    date: '2026-11-23'
+    code: 415446
+    url: /works/415446/
   - title: 'Zoku Matching Appli de Deatta Aite wa Kaa-san deshita | I Matched Mom on
       My Dating App: The Sequel'
     author: kumo-no-ito

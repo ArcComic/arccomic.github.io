@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "story arc"
-work_count: 282
+work_count: 283
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -2072,6 +2072,13 @@ works:
     date: '2026-11-22'
     code: 699118
     url: /works/699118/
+  - title: Soredemo Ashita mo Kareshi ga ii - Chapter 1-29
+    author: miike-kei
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/699541.jpg
+    rating: 0.0
+    date: '2026-11-23'
+    code: 699541
+    url: /works/699541/
   - title: Hottokenaino
     author: hara-shigeyuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/77864.jpg

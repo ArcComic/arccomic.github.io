@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "netorase"
-work_count: 60
+work_count: 61
 works:
   - title: Boku no Netorase Seiheki ni Tsukiatte kureru Kanojo | A Girlfriend Who Plays
       Along with My Cuckold Fetish
@@ -439,4 +439,11 @@ works:
     date: '2026-11-21'
     code: 698911
     url: /works/698911/
+  - title: Soredemo Ashita mo Kareshi ga ii - Chapter 1-29
+    author: miike-kei
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/699541.jpg
+    rating: 0.0
+    date: '2026-11-23'
+    code: 699541
+    url: /works/699541/
 ---

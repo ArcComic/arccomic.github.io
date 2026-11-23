@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "masturbation"
-work_count: 222
+work_count: 223
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -1655,4 +1655,11 @@ works:
     date: '2026-11-21'
     code: 698893
     url: /works/698893/
+  - title: Soredemo Ashita mo Kareshi ga ii - Chapter 1-29
+    author: miike-kei
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/699541.jpg
+    rating: 0.0
+    date: '2026-11-23'
+    code: 699541
+    url: /works/699541/
 ---

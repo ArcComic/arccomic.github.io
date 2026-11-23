@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "full color"
-work_count: 344
+work_count: 345
 works:
   - title: Pai☆Panic ~Hasamareta Dekapai~
     author: inkey
@@ -257,6 +257,13 @@ works:
     date: '2026-03-05'
     code: 414892
     url: /works/414892/
+  - title: Murasaki no Yume
+    author: yd
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/415446.jpg
+    rating: 0.0
+    date: '2026-11-23'
+    code: 415446
+    url: /works/415446/
   - title: Natsu Asobi | Summer Play
     author: ame-arare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/416852.jpg

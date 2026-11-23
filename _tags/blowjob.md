@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "blowjob"
-work_count: 962
+work_count: 964
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -726,6 +726,13 @@ works:
     date: '2026-09-08'
     code: 415046
     url: /works/415046/
+  - title: Murasaki no Yume
+    author: yd
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/415446.jpg
+    rating: 0.0
+    date: '2026-11-23'
+    code: 415446
+    url: /works/415446/
   - title: Natsu Asobi | Summer Play
     author: ame-arare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/416852.jpg
@@ -7131,6 +7138,13 @@ works:
     date: '2026-11-22'
     code: 699118
     url: /works/699118/
+  - title: Soredemo Ashita mo Kareshi ga ii - Chapter 1-29
+    author: miike-kei
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/699541.jpg
+    rating: 0.0
+    date: '2026-11-23'
+    code: 699541
+    url: /works/699541/
   - title: Jokyoushi - Hot For Teachers | Female Teachers
     author: drill-murata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/81375.jpg

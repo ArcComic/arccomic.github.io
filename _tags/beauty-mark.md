@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "beauty mark"
-work_count: 281
+work_count: 282
 works:
   - title: Shisaienbu | My Dear Master's Charming Martial Arts
     author: etuzan-jakusui
@@ -276,6 +276,13 @@ works:
     date: '2026-03-05'
     code: 409929
     url: /works/409929/
+  - title: Murasaki no Yume
+    author: yd
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/415446.jpg
+    rating: 0.0
+    date: '2026-11-23'
+    code: 415446
+    url: /works/415446/
   - title: Goldirocks a Killer Honey
     author: tsukumo-nikyu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/416542.jpg
