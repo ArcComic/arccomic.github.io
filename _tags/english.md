@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "english"
-work_count: 2304
+work_count: 2307
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -4928,6 +4928,13 @@ works:
     date: '2026-11-12'
     code: 565597
     url: /works/565597/
+  - title: Ecchi na Henshuu Kurokawa-san | Erotic Editor Kurokawa
+    author: aizawa-chihiro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/565758.jpg
+    rating: 0.0
+    date: '2026-11-23'
+    code: 565758
+    url: /works/565758/
   - title: Atashi de…. | For me...
     author: orita
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/565998.jpg
@@ -16076,6 +16083,13 @@ works:
     date: '2026-11-20'
     code: 692673
     url: /works/692673/
+  - title: Addicted to My Mom (Official) [1-101] [Completed]81-101
+    author: soso
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/693010.jpg
+    rating: 0.0
+    date: '2026-11-23'
+    code: 693010
+    url: /works/693010/
   - title: Oshiego no Downer Gal ni Shitsudo Takame ni Semeotosarechau Hanashi
     author: ayujiro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/693054.jpg
@@ -16896,6 +16910,13 @@ works:
     date: '2026-11-23'
     code: 699121
     url: /works/699121/
+  - title: I can have sex to my heart's content with my favorite person 2
+    author: higehurai
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/699123.jpg
+    rating: 0.0
+    date: '2026-11-23'
+    code: 699123
+    url: /works/699123/
   - title: My Mom, My Love 1 - 9
     author: siberian-hahasky
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/699299.jpg

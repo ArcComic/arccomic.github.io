@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "full censorship"
-work_count: 169
+work_count: 170
 works:
   - title: Kaisha de Iroiro | Gettin' Busy at the Office
     author: hara-shigeyuki
@@ -1139,6 +1139,13 @@ works:
     date: '2026-10-28'
     code: 691671
     url: /works/691671/
+  - title: Addicted to My Mom (Official) [1-101] [Completed]81-101
+    author: soso
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/693010.jpg
+    rating: 0.0
+    date: '2026-11-23'
+    code: 693010
+    url: /works/693010/
   - title: Even the chairman wants to do it, you know
     author: signo-mandara
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/693913.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "story arc"
-work_count: 283
+work_count: 284
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -1935,6 +1935,13 @@ works:
     date: '2026-10-28'
     code: 691671
     url: /works/691671/
+  - title: Addicted to My Mom (Official) [1-101] [Completed]81-101
+    author: soso
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/693010.jpg
+    rating: 0.0
+    date: '2026-11-23'
+    code: 693010
+    url: /works/693010/
   - title: Making a Harem of the Three Bitchy Gal Sisters - All Chapters + Bonus
     author: zonda
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694670.jpg

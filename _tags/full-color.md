@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "full color"
-work_count: 348
+work_count: 349
 works:
   - title: Pai☆Panic ~Hasamareta Dekapai~
     author: inkey
@@ -2526,6 +2526,13 @@ works:
     date: '2026-11-23'
     code: 699121
     url: /works/699121/
+  - title: I can have sex to my heart's content with my favorite person 2
+    author: higehurai
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/699123.jpg
+    rating: 0.0
+    date: '2026-11-23'
+    code: 699123
+    url: /works/699123/
   - title: My Mom, My Love 1 - 9
     author: siberian-hahasky
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/699299.jpg

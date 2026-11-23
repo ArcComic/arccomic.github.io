@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole female"
-work_count: 1385
+work_count: 1387
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -3278,6 +3278,13 @@ works:
     date: '2026-11-12'
     code: 565597
     url: /works/565597/
+  - title: Ecchi na Henshuu Kurokawa-san | Erotic Editor Kurokawa
+    author: aizawa-chihiro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/565758.jpg
+    rating: 0.0
+    date: '2026-11-23'
+    code: 565758
+    url: /works/565758/
   - title: Atashi de…. | For me...
     author: orita
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/565998.jpg
@@ -10252,6 +10259,13 @@ works:
     date: '2026-11-23'
     code: 699121
     url: /works/699121/
+  - title: I can have sex to my heart's content with my favorite person 2
+    author: higehurai
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/699123.jpg
+    rating: 0.0
+    date: '2026-11-23'
+    code: 699123
+    url: /works/699123/
   - title: Chijo Tsuma no Tawamure ~Kouhen~ My Boss Has a Slutty Wife Part 2
     author: mitsumitsuniku
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/699356.jpg

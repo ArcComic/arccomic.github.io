@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "ponytail"
-work_count: 264
+work_count: 265
 works:
   - title: Ami Mami Mind 5
     author: tsurui
@@ -454,6 +454,13 @@ works:
     date: '2026-11-10'
     code: 563632
     url: /works/563632/
+  - title: Ecchi na Henshuu Kurokawa-san | Erotic Editor Kurokawa
+    author: aizawa-chihiro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/565758.jpg
+    rating: 0.0
+    date: '2026-11-23'
+    code: 565758
+    url: /works/565758/
   - title: Kouhai Joshi ni Nakaiki o Oshiete Morau Hanashi | Getting Taught How To Climax
       Vaginally By My Junior
     author: tarara

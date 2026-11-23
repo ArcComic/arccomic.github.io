@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "eye-covering bang"
-work_count: 111
+work_count: 112
 works:
   - title: Kanojo no Amai Jiraishuu
     author: jirou
@@ -161,6 +161,13 @@ works:
     date: '2026-09-25'
     code: 564863
     url: /works/564863/
+  - title: Ecchi na Henshuu Kurokawa-san | Erotic Editor Kurokawa
+    author: aizawa-chihiro
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/565758.jpg
+    rating: 0.0
+    date: '2026-11-23'
+    code: 565758
+    url: /works/565758/
   - title: 1/5 no Renai Kanjou | A Fifth of Romance
     author: chicke-iii
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/568871.jpg
