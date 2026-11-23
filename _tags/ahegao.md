@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "ahegao"
-work_count: 484
+work_count: 486
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -511,6 +511,14 @@ works:
     date: '2026-07-13'
     code: 514183
     url: /works/514183/
+  - title: '[Ebizoridan (Shien) Seigi Jitsugen Iinkai Seiteki Shidou | Justice Task
+      Force''s Sexual Guidance (Blue Archive) [English] [Black Grimoires] [Digital]'
+    author: shien
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/521185.jpg
+    rating: 0.0
+    date: '2026-11-23'
+    code: 521185
+    url: /works/521185/
   - title: Shinchou 211cm no Jirai-kei Joshi ni Nerawarete Mou Nigerarenai | A 211cm
       Tall Jirai-kei Girl Has Her Eyes on Me, and I Can't Escape♡
     author: kinntarou
@@ -3625,6 +3633,13 @@ works:
     date: '2026-11-22'
     code: 699118
     url: /works/699118/
+  - title: Useless maid ↔ Future wife doujin
+    author: doji
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/699605.jpg
+    rating: 0.0
+    date: '2026-11-23'
+    code: 699605
+    url: /works/699605/
   - title: Inin Keiyaku | Lewd Pregnancy Contract
     author: yoshiura-kazuya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/83595.jpg

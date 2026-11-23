@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "blue archive"
-work_count: 37
+work_count: 38
 works:
   - title: Roshutsu Shoujo to Zange Ana | The Exhibitionist and the Confessional
     author: gomu
@@ -33,6 +33,14 @@ works:
     date: '2026-11-22'
     code: 520693
     url: /works/520693/
+  - title: '[Ebizoridan (Shien) Seigi Jitsugen Iinkai Seiteki Shidou | Justice Task
+      Force''s Sexual Guidance (Blue Archive) [English] [Black Grimoires] [Digital]'
+    author: shien
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/521185.jpg
+    rating: 0.0
+    date: '2026-11-23'
+    code: 521185
+    url: /works/521185/
   - title: Oshioki no Jikan - Punishment time
     author: syoukaki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/540125.jpg

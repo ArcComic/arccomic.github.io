@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "translated"
-work_count: 2231
+work_count: 2232
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -3626,6 +3626,14 @@ works:
     date: '2026-09-29'
     code: 521042
     url: /works/521042/
+  - title: '[Ebizoridan (Shien) Seigi Jitsugen Iinkai Seiteki Shidou | Justice Task
+      Force''s Sexual Guidance (Blue Archive) [English] [Black Grimoires] [Digital]'
+    author: shien
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/521185.jpg
+    rating: 0.0
+    date: '2026-11-23'
+    code: 521185
+    url: /works/521185/
   - title: Iemoto no Uwaki ga Honki ni Natta Hi Zenpen | The Day the Grand Master's
       Affair Became Serious Part One
     author: rasson

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "hololive"
-work_count: 13
+work_count: 14
 works:
   - title: Giragira no Beach
     author: shimantogawa
@@ -94,4 +94,11 @@ works:
     date: '2026-10-01'
     code: 685242
     url: /works/685242/
+  - title: Useless maid ↔ Future wife doujin
+    author: doji
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/699605.jpg
+    rating: 0.0
+    date: '2026-11-23'
+    code: 699605
+    url: /works/699605/
 ---

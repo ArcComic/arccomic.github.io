@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "impregnation"
-work_count: 222
+work_count: 223
 works:
   - title: Kousa suru Osu to Mesu | Male and Female Crossing
     author: ootsuka-kotora
@@ -1639,6 +1639,13 @@ works:
     date: '2026-11-21'
     code: 698911
     url: /works/698911/
+  - title: Useless maid ↔ Future wife doujin
+    author: doji
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/699605.jpg
+    rating: 0.0
+    date: '2026-11-23'
+    code: 699605
+    url: /works/699605/
   - title: Inin Keiyaku | Lewd Pregnancy Contract
     author: yoshiura-kazuya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/83595.jpg

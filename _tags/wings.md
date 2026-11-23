@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "wings"
-work_count: 9
+work_count: 10
 works:
   - title: Kono Smapho Appli de Sex wa Risouka Sareru! ~Kozakura Kumaneko Full Color
       Sakuhinshuu~
@@ -11,6 +11,14 @@ works:
     date: '2026-11-11'
     code: 399771
     url: /works/399771/
+  - title: '[Ebizoridan (Shien) Seigi Jitsugen Iinkai Seiteki Shidou | Justice Task
+      Force''s Sexual Guidance (Blue Archive) [English] [Black Grimoires] [Digital]'
+    author: shien
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/521185.jpg
+    rating: 0.0
+    date: '2026-11-23'
+    code: 521185
+    url: /works/521185/
   - title: Succubus Seitokai Shiko Shiko Shikkoubu 2 NOA ver. | Succubus Student Council
       Milking Club 2 Version NOA
     author: michiking

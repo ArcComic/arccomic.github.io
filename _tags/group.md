@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "group"
-work_count: 345
+work_count: 346
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -416,6 +416,14 @@ works:
     date: '2026-11-10'
     code: 516219
     url: /works/516219/
+  - title: '[Ebizoridan (Shien) Seigi Jitsugen Iinkai Seiteki Shidou | Justice Task
+      Force''s Sexual Guidance (Blue Archive) [English] [Black Grimoires] [Digital]'
+    author: shien
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/521185.jpg
+    rating: 0.0
+    date: '2026-11-23'
+    code: 521185
+    url: /works/521185/
   - title: Enkkou-chan no Papakatsu Nikki 2 ~Araki Nonoka no Baai~
     author: takano-tomohiro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/524736.jpg

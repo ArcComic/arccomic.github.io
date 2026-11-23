@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "maid"
-work_count: 68
+work_count: 69
 works:
   - title: Maid no Oshigoto. II | Maid's Work II
     author: alexi-laiho
@@ -505,6 +505,13 @@ works:
     date: '2026-11-21'
     code: 698640
     url: /works/698640/
+  - title: Useless maid ↔ Future wife doujin
+    author: doji
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/699605.jpg
+    rating: 0.0
+    date: '2026-11-23'
+    code: 699605
+    url: /works/699605/
   - title: Hottokenaino
     author: hara-shigeyuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/77864.jpg

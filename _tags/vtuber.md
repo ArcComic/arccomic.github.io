@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "vtuber"
-work_count: 20
+work_count: 21
 works:
   - title: Giragira no Beach
     author: shimantogawa
@@ -145,4 +145,11 @@ works:
     date: '2026-10-13'
     code: 687185
     url: /works/687185/
+  - title: Useless maid ↔ Future wife doujin
+    author: doji
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/699605.jpg
+    rating: 0.0
+    date: '2026-11-23'
+    code: 699605
+    url: /works/699605/
 ---
