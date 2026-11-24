@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "story arc"
-work_count: 284
+work_count: 285
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -2072,6 +2072,13 @@ works:
     date: '2026-11-21'
     code: 698998
     url: /works/698998/
+  - title: 'Corruption: Dirty Confessions'
+    author: taira
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/699097.jpg
+    rating: 0.0
+    date: '2026-11-24'
+    code: 699097
+    url: /works/699097/
   - title: Senpai, Kyou Tomatte mo Ii yo ne? 3
     author: shien
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/699118.jpg

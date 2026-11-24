@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "business suit"
-work_count: 119
+work_count: 120
 works:
   - title: MAGIC SEVEN
     author: asuhiro
@@ -480,6 +480,13 @@ works:
     date: '2026-11-21'
     code: 596933
     url: /works/596933/
+  - title: Tanshou Ojii-san ni Yasashii Sekai
+    author: gamogamo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/598006.jpg
+    rating: 0.0
+    date: '2026-11-24'
+    code: 598006
+    url: /works/598006/
   - title: Motokano-tachi to Ya Re Naoshi!? CHAPTER 2
     author: shinonome-ryu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/598175.jpg

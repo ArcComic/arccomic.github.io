@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "rough translation"
-work_count: 873
+work_count: 874
 works:
   - title: Boku no Shiranai Kimi no Kao
     author: utsutsu-minoru
@@ -724,6 +724,13 @@ works:
     date: '2026-09-12'
     code: 597573
     url: /works/597573/
+  - title: Tanshou Ojii-san ni Yasashii Sekai
+    author: gamogamo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/598006.jpg
+    rating: 0.0
+    date: '2026-11-24'
+    code: 598006
+    url: /works/598006/
   - title: Kaya-nee and the Old Man Memories
     author: kon-kit
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/598144.jpg

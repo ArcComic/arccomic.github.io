@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "nakadashi"
-work_count: 1232
+work_count: 1233
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -3169,6 +3169,13 @@ works:
     date: '2026-11-21'
     code: 597610
     url: /works/597610/
+  - title: Tanshou Ojii-san ni Yasashii Sekai
+    author: gamogamo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/598006.jpg
+    rating: 0.0
+    date: '2026-11-24'
+    code: 598006
+    url: /works/598006/
   - title: Kaya-nee and the Old Man Memories
     author: kon-kit
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/598144.jpg

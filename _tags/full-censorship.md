@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "full censorship"
-work_count: 171
+work_count: 172
 works:
   - title: Kaisha de Iroiro | Gettin' Busy at the Office
     author: hara-shigeyuki
@@ -1233,6 +1233,13 @@ works:
     date: '2026-11-21'
     code: 698956
     url: /works/698956/
+  - title: 'Corruption: Dirty Confessions'
+    author: taira
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/699097.jpg
+    rating: 0.0
+    date: '2026-11-24'
+    code: 699097
+    url: /works/699097/
   - title: Soredemo Ashita mo Kareshi ga ii - Chapter 1-29
     author: miike-kei
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/699541.jpg

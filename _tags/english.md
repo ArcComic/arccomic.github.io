@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "english"
-work_count: 2319
+work_count: 2321
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -5922,6 +5922,13 @@ works:
     date: '2026-11-10'
     code: 597906
     url: /works/597906/
+  - title: Tanshou Ojii-san ni Yasashii Sekai
+    author: gamogamo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/598006.jpg
+    rating: 0.0
+    date: '2026-11-24'
+    code: 598006
+    url: /works/598006/
   - title: Kouen no Oji-san-tachi ni Moteasobaretai
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/598010.jpg
@@ -16960,6 +16967,13 @@ works:
     date: '2026-11-21'
     code: 699058
     url: /works/699058/
+  - title: 'Corruption: Dirty Confessions'
+    author: taira
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/699097.jpg
+    rating: 0.0
+    date: '2026-11-24'
+    code: 699097
+    url: /works/699097/
   - title: Senpai, Kyou Tomatte mo Ii yo ne? 3
     author: shien
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/699118.jpg
