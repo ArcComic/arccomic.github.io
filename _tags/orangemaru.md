@@ -13,7 +13,7 @@ works:
   - title: Murasaki no Yume
     author: yd
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/415446.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-11-23'
     code: 415446
     url: /works/415446/

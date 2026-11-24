@@ -830,14 +830,14 @@ works:
   - title: Karada no Kioku + Karada no Kioku After | Body Memory + Body Memory After
     author: sugi-g
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/496774.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-11-23'
     code: 496774
     url: /works/496774/
   - title: PHYSICAROOM
     author: sugi-g
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/498311.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-11-23'
     code: 498311
     url: /works/498311/
@@ -1362,7 +1362,7 @@ works:
   - title: Ojuken Mama no Tsugunai | Atonement of the Exam-Taker's Mother
     author: domon
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/569996.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-11-23'
     code: 569996
     url: /works/569996/
@@ -3837,14 +3837,14 @@ works:
   - title: I can have sex to my heart's content with my favorite person 2
     author: higehurai
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/699123.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-11-23'
     code: 699123
     url: /works/699123/
   - title: Chijo Tsuma no Tawamure ~Kouhen~ My Boss Has a Slutty Wife Part 2
     author: mitsumitsuniku
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/699356.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-11-23'
     code: 699356
     url: /works/699356/

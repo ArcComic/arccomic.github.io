@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "rough translation"
-work_count: 871
+work_count: 872
 works:
   - title: Boku no Shiranai Kimi no Kao
     author: utsutsu-minoru
@@ -524,7 +524,7 @@ works:
   - title: Ojuken Mama no Tsugunai | Atonement of the Exam-Taker's Mother
     author: domon
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/569996.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-11-23'
     code: 569996
     url: /works/569996/
@@ -6388,4 +6388,12 @@ works:
     date: '2026-11-21'
     code: 699058
     url: /works/699058/
+  - title: My Sex-Friend's Sister Came to My Place, and She Was So Cute That I Came
+      Inside Her
+    author: studio-huan
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/699536.jpg
+    rating: 0.0
+    date: '2026-11-24'
+    code: 699536
+    url: /works/699536/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "studio huan"
-work_count: 5
+work_count: 6
 works:
   - title: Iki Jigoku Refle ni Tokeru Otto Tanshinfunin Hitozuma Inmou Ari
     author: kotoyoshi-yumisuke
@@ -38,4 +38,12 @@ works:
     date: '2026-09-15'
     code: 681323
     url: /works/681323/
+  - title: My Sex-Friend's Sister Came to My Place, and She Was So Cute That I Came
+      Inside Her
+    author: studio-huan
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/699536.jpg
+    rating: 0.0
+    date: '2026-11-24'
+    code: 699536
+    url: /works/699536/
 ---

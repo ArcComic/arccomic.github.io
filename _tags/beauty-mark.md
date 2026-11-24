@@ -27,7 +27,7 @@ works:
   - title: Yarimoku Kouen | Yarinookie Park [English] =TLL+mrwayne=
     author: sugi-g
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/246753.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-11-23'
     code: 246753
     url: /works/246753/
@@ -279,7 +279,7 @@ works:
   - title: Murasaki no Yume
     author: yd
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/415446.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-11-23'
     code: 415446
     url: /works/415446/
@@ -716,7 +716,7 @@ works:
   - title: Ecchi na Henshuu Kurokawa-san | Erotic Editor Kurokawa
     author: aizawa-chihiro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/565758.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-23'
     code: 565758
     url: /works/565758/
@@ -2110,14 +2110,14 @@ works:
   - title: I can have sex to my heart's content with my favorite person 2
     author: higehurai
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/699123.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-11-23'
     code: 699123
     url: /works/699123/
   - title: A Suspicious Counselor
     author: hellap
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/699550.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-11-23'
     code: 699550
     url: /works/699550/

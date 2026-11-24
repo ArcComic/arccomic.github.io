@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "condom"
-work_count: 319
+work_count: 320
 works:
   - title: Kaisha de Iroiro | Gettin' Busy at the Office
     author: hara-shigeyuki
@@ -603,6 +603,13 @@ works:
     date: '2026-10-20'
     code: 500511
     url: /works/500511/
+  - title: Amai Aimai
+    author: gosaiji
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/500717.jpg
+    rating: 0.0
+    date: '2026-11-24'
+    code: 500717
+    url: /works/500717/
   - title: Senpai, Sonna no Shiranai desu ~Bansou shite ita Kare no Yubi wa Ima, Watashi
       no Naka o Midashiteru~ | Senpai, I Don't Know About That - His Fingers That Were
       Accompaniment are now Disturbing my Vagina

@@ -190,7 +190,7 @@ works:
       Body of a Oba-san
     author: edogawa-koubou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/414004.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-11-23'
     code: 414004
     url: /works/414004/
@@ -266,7 +266,7 @@ works:
   - title: Senpai, Kyou Tomatte mo Ii yo ne? | Can we stay at your place tonight Senpai?
     author: shien
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/496499.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-11-23'
     code: 496499
     url: /works/496499/
@@ -1678,14 +1678,14 @@ works:
   - title: Chijo Tsuma no Tawamure ~Kouhen~ My Boss Has a Slutty Wife Part 2
     author: mitsumitsuniku
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/699356.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-11-23'
     code: 699356
     url: /works/699356/
   - title: A Suspicious Counselor
     author: hellap
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/699550.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-11-23'
     code: 699550
     url: /works/699550/

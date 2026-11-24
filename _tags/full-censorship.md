@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "full censorship"
-work_count: 170
+work_count: 171
 works:
   - title: Kaisha de Iroiro | Gettin' Busy at the Office
     author: hara-shigeyuki
@@ -332,6 +332,13 @@ works:
     date: '2026-07-11'
     code: 499536
     url: /works/499536/
+  - title: Amai Aimai
+    author: gosaiji
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/500717.jpg
+    rating: 0.0
+    date: '2026-11-24'
+    code: 500717
+    url: /works/500717/
   - title: 'Married Couple Swap: He’s Better Than My Husband'
     author: peter-mitsuru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/504645.jpg
@@ -555,7 +562,7 @@ works:
   - title: Ojuken Mama no Tsugunai | Atonement of the Exam-Taker's Mother
     author: domon
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/569996.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-11-23'
     code: 569996
     url: /works/569996/
@@ -1142,7 +1149,7 @@ works:
   - title: Addicted to My Mom (Official) [1-101] [Completed]81-101
     author: soso
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/693010.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-11-23'
     code: 693010
     url: /works/693010/
@@ -1229,7 +1236,7 @@ works:
   - title: Soredemo Ashita mo Kareshi ga ii - Chapter 1-29
     author: miike-kei
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/699541.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-11-23'
     code: 699541
     url: /works/699541/

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "hairy"
-work_count: 462
+work_count: 463
 works:
   - title: MAGIC SEVEN
     author: asuhiro
@@ -84,7 +84,7 @@ works:
   - title: Yarimoku Kouen | Yarinookie Park [English] =TLL+mrwayne=
     author: sugi-g
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/246753.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-11-23'
     code: 246753
     url: /works/246753/
@@ -766,7 +766,7 @@ works:
   - title: Karada no Kioku + Karada no Kioku After | Body Memory + Body Memory After
     author: sugi-g
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/496774.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-11-23'
     code: 496774
     url: /works/496774/
@@ -784,6 +784,13 @@ works:
     date: '2026-11-17'
     code: 500221
     url: /works/500221/
+  - title: Amai Aimai
+    author: gosaiji
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/500717.jpg
+    rating: 0.0
+    date: '2026-11-24'
+    code: 500717
+    url: /works/500717/
   - title: Ousama Game no Meirei de Haha to Sex Shita Hanashi | I Ordered My Mom to
       Have Sex with Me in King's Game
     author: spices
@@ -862,7 +869,7 @@ works:
       Force''s Sexual Guidance (Blue Archive) [English] [Black Grimoires] [Digital]'
     author: shien
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/521185.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-11-23'
     code: 521185
     url: /works/521185/
@@ -3410,7 +3417,7 @@ works:
   - title: I can have sex to my heart's content with my favorite person 2
     author: higehurai
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/699123.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-11-23'
     code: 699123
     url: /works/699123/

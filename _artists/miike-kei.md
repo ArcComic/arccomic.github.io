@@ -23,7 +23,7 @@ works:
     url: /works/697733/
   - title: Soredemo Ashita mo Kareshi ga ii - Chapter 1-29
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/699541.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-11-23'
     code: 699541
     url: /works/699541/

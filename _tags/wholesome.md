@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "wholesome"
-work_count: 256
+work_count: 257
 works:
   - title: FLUFFY LAUGH GIRL
     author: shibasaki-syouzi
@@ -363,6 +363,13 @@ works:
     date: '2026-11-17'
     code: 500221
     url: /works/500221/
+  - title: Amai Aimai
+    author: gosaiji
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/500717.jpg
+    rating: 0.0
+    date: '2026-11-24'
+    code: 500717
+    url: /works/500717/
   - title: Kinpatsu Chounyuu Gal ni Gyaku Deriheru Atsukai Sarete Iru Ore no Hanashi
       | Blonde Gal with Huge Tits Treats Me Like a Manslut
     author: uni-toshiki
@@ -571,7 +578,7 @@ works:
   - title: Ecchi na Henshuu Kurokawa-san | Erotic Editor Kurokawa
     author: aizawa-chihiro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/565758.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-23'
     code: 565758
     url: /works/565758/

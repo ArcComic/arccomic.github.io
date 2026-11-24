@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "schoolgirl uniform"
-work_count: 480
+work_count: 482
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -610,10 +610,17 @@ works:
   - title: Senpai, Kyou Tomatte mo Ii yo ne? | Can we stay at your place tonight Senpai?
     author: shien
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/496499.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-11-23'
     code: 496499
     url: /works/496499/
+  - title: Amai Aimai
+    author: gosaiji
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/500717.jpg
+    rating: 0.0
+    date: '2026-11-24'
+    code: 500717
+    url: /works/500717/
   - title: Kinpatsu Chounyuu Gal ni Gyaku Deriheru Atsukai Sarete Iru Ore no Hanashi
       | Blonde Gal with Huge Tits Treats Me Like a Manslut
     author: uni-toshiki
@@ -3575,4 +3582,12 @@ works:
     date: '2026-11-21'
     code: 698985
     url: /works/698985/
+  - title: My Sex-Friend's Sister Came to My Place, and She Was So Cute That I Came
+      Inside Her
+    author: studio-huan
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/699536.jpg
+    rating: 0.0
+    date: '2026-11-24'
+    code: 699536
+    url: /works/699536/
 ---

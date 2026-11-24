@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "manga"
-work_count: 483
+work_count: 484
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -963,14 +963,14 @@ works:
   - title: Karada no Kioku + Karada no Kioku After | Body Memory + Body Memory After
     author: sugi-g
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/496774.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-11-23'
     code: 496774
     url: /works/496774/
   - title: PHYSICAROOM
     author: sugi-g
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/498311.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-11-23'
     code: 498311
     url: /works/498311/
@@ -989,6 +989,13 @@ works:
     date: '2026-09-12'
     code: 500467
     url: /works/500467/
+  - title: Amai Aimai
+    author: gosaiji
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/500717.jpg
+    rating: 0.0
+    date: '2026-11-24'
+    code: 500717
+    url: /works/500717/
   - title: Mama Moe ~Haha o Bikou shite mita Ken~ | Mama Moe ~That Time When I Followed
       My Mom~
     author: hara-shigeyuki
@@ -1420,7 +1427,7 @@ works:
   - title: Ojuken Mama no Tsugunai | Atonement of the Exam-Taker's Mother
     author: domon
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/569996.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-11-23'
     code: 569996
     url: /works/569996/
@@ -3299,7 +3306,7 @@ works:
   - title: Addicted to My Mom (Official) [1-101] [Completed]81-101
     author: soso
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/693010.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-11-23'
     code: 693010
     url: /works/693010/
@@ -3441,7 +3448,7 @@ works:
   - title: Soredemo Ashita mo Kareshi ga ii - Chapter 1-29
     author: miike-kei
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/699541.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-11-23'
     code: 699541
     url: /works/699541/

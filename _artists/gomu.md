@@ -37,7 +37,7 @@ works:
     url: /works/547229/
   - title: Neo-sensei no Sentaku
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/644339.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-11-23'
     code: 644339
     url: /works/644339/
