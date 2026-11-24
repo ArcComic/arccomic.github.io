@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "manga"
-work_count: 487
+work_count: 489
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -503,6 +503,13 @@ works:
     date: '2026-09-13'
     code: 364828
     url: /works/364828/
+  - title: Kimi no Todokanai Prelude | You Can't Reach Prelude
+    author: osterei
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/366626.jpg
+    rating: 0.0
+    date: '2026-11-24'
+    code: 366626
+    url: /works/366626/
   - title: Shirotaegiku | Dusty miller
     author: hiroya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/370164.jpg
@@ -3095,6 +3102,13 @@ works:
     date: '2026-09-25'
     code: 683984
     url: /works/683984/
+  - title: RESORT LOVER
+    author: herio
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684038.jpg
+    rating: 0.0
+    date: '2026-11-24'
+    code: 684038
+    url: /works/684038/
   - title: Shiri de Onna o Miwakeru Ore wa Onna Joushi no Yowami o Nigiru 2 | I, A Guy
       Who Tells Women Apart By Their Asses, Got Blackmail On My Superior At Work 2
     author: eco-heeky

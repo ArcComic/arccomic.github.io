@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "dark skin"
-work_count: 229
+work_count: 230
 works:
   - title: Birthday
     author: hashiba-yachi
@@ -1377,6 +1377,13 @@ works:
     date: '2026-09-26'
     code: 684010
     url: /works/684010/
+  - title: RESORT LOVER
+    author: herio
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684038.jpg
+    rating: 0.0
+    date: '2026-11-24'
+    code: 684038
+    url: /works/684038/
   - title: GOOD WIFE
     author: laliberte
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684283.jpg

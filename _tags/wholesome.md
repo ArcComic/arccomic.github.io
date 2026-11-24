@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "wholesome"
-work_count: 259
+work_count: 260
 works:
   - title: Suteki na Kanojo
     author: moketa
@@ -1848,6 +1848,13 @@ works:
     date: '2026-09-26'
     code: 684010
     url: /works/684010/
+  - title: RESORT LOVER
+    author: herio
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684038.jpg
+    rating: 0.0
+    date: '2026-11-24'
+    code: 684038
+    url: /works/684038/
   - title: Tonikaku Yaritai Gal ga Kyokon Otaku ni Deattara
     author: tokunaga
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684061.jpg

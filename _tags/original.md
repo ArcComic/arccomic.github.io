@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "original"
-work_count: 1545
+work_count: 1546
 works:
   - title: Gokuusu Mizugi de Okasaretagari ga Kakusenai
     author: kekemotsu
@@ -11501,6 +11501,13 @@ works:
     date: '2026-11-23'
     code: 699123
     url: /works/699123/
+  - title: TS Drink de Nyotaika Shita Ore ga Kouhai ni Manko Kashite Mita
+    author: domon
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/699232.jpg
+    rating: 0.0
+    date: '2026-11-24'
+    code: 699232
+    url: /works/699232/
   - title: My Sex-Friend's Sister Came to My Place, and She Was So Cute That I Came
       Inside Her
     author: studio-huan

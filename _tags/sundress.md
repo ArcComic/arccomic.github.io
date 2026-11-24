@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sundress"
-work_count: 7
+work_count: 8
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -31,6 +31,13 @@ works:
     date: '2026-04-16'
     code: 580379
     url: /works/580379/
+  - title: RESORT LOVER
+    author: herio
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684038.jpg
+    rating: 0.0
+    date: '2026-11-24'
+    code: 684038
+    url: /works/684038/
   - title: Irekawari no Natsu, Onee-chan no Karada de no Natsu | The Summer Swap -A
       Summer in my Onee-chan's Body-
     author: naba

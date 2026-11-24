@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "blackmail"
-work_count: 200
+work_count: 201
 works:
   - title: Birthday
     author: hashiba-yachi
@@ -137,6 +137,13 @@ works:
     date: '2026-04-17'
     code: 359864
     url: /works/359864/
+  - title: Kimi no Todokanai Prelude | You Can't Reach Prelude
+    author: osterei
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/366626.jpg
+    rating: 0.0
+    date: '2026-11-24'
+    code: 366626
+    url: /works/366626/
   - title: Kanojo no SmaPho o Nozoita dake nano ni | I Just Snooped through Her Smartphone
     author: chocoro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/367709.jpg

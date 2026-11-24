@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole female"
-work_count: 1396
+work_count: 1399
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -914,6 +914,13 @@ works:
     date: '2026-10-11'
     code: 364923
     url: /works/364923/
+  - title: Kimi no Todokanai Prelude | You Can't Reach Prelude
+    author: osterei
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/366626.jpg
+    rating: 0.0
+    date: '2026-11-24'
+    code: 366626
+    url: /works/366626/
   - title: Mainichi Okaa-san de Seiyoku Shori! Onaho Gawari no Hahaoya ni Tairyou Nakadashi
       Hen | Mom Gets Me Off Every Day! Filling Mom With Cum
     author: natsume-benkei
@@ -8663,6 +8670,13 @@ works:
     date: '2026-09-29'
     code: 684025
     url: /works/684025/
+  - title: RESORT LOVER
+    author: herio
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684038.jpg
+    rating: 0.0
+    date: '2026-11-24'
+    code: 684038
+    url: /works/684038/
   - title: Tonikaku Yaritai Gal ga Kyokon Otaku ni Deattara
     author: tokunaga
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684061.jpg
@@ -10323,6 +10337,13 @@ works:
     date: '2026-11-23'
     code: 699123
     url: /works/699123/
+  - title: TS Drink de Nyotaika Shita Ore ga Kouhai ni Manko Kashite Mita
+    author: domon
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/699232.jpg
+    rating: 0.0
+    date: '2026-11-24'
+    code: 699232
+    url: /works/699232/
   - title: Chijo Tsuma no Tawamure ~Kouhen~ My Boss Has a Slutty Wife Part 2
     author: mitsumitsuniku
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/699356.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big ass"
-work_count: 404
+work_count: 405
 works:
   - title: My Care Lady Ch. 1
     author: sugi-g
@@ -2990,6 +2990,13 @@ works:
     date: '2026-11-23'
     code: 699123
     url: /works/699123/
+  - title: TS Drink de Nyotaika Shita Ore ga Kouhai ni Manko Kashite Mita
+    author: domon
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/699232.jpg
+    rating: 0.0
+    date: '2026-11-24'
+    code: 699232
+    url: /works/699232/
   - title: Chijo Tsuma no Tawamure ~Kouhen~ My Boss Has a Slutty Wife Part 2
     author: mitsumitsuniku
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/699356.jpg

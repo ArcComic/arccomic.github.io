@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "masturbation"
-work_count: 224
+work_count: 225
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -116,6 +116,13 @@ works:
     date: '2026-03-09'
     code: 361032
     url: /works/361032/
+  - title: Kimi no Todokanai Prelude | You Can't Reach Prelude
+    author: osterei
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/366626.jpg
+    rating: 0.0
+    date: '2026-11-24'
+    code: 366626
+    url: /works/366626/
   - title: meido no michi ni ou ha nashi | Maids Could Never Be Queens
     author: kawauchi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/377019.jpg

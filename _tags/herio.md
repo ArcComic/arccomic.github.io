@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "herio"
-work_count: 9
+work_count: 10
 works:
   - title: Virgin Chauwa! | I'm No Virgin!
     author: herio
@@ -67,4 +67,11 @@ works:
     date: '2026-09-18'
     code: 678408
     url: /works/678408/
+  - title: RESORT LOVER
+    author: herio
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684038.jpg
+    rating: 0.0
+    date: '2026-11-24'
+    code: 684038
+    url: /works/684038/
 ---

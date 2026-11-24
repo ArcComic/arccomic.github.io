@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "tomboy"
-work_count: 98
+work_count: 99
 works:
   - title: Kizashi
     author: yoshiura-kazuya
@@ -38,6 +38,13 @@ works:
     date: '2026-10-26'
     code: 338006
     url: /works/338006/
+  - title: Kimi no Todokanai Prelude | You Can't Reach Prelude
+    author: osterei
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/366626.jpg
+    rating: 0.0
+    date: '2026-11-24'
+    code: 366626
+    url: /works/366626/
   - title: Last Chance
     author: herio
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/384255.jpg

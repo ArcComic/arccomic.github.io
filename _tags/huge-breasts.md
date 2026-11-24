@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "huge breasts"
-work_count: 176
+work_count: 177
 works:
   - title: Mama Naranai Onna-tachi Ch. 1-2
     author: otochichi
@@ -1310,6 +1310,13 @@ works:
     date: '2026-11-22'
     code: 699118
     url: /works/699118/
+  - title: TS Drink de Nyotaika Shita Ore ga Kouhai ni Manko Kashite Mita
+    author: domon
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/699232.jpg
+    rating: 0.0
+    date: '2026-11-24'
+    code: 699232
+    url: /works/699232/
   - title: A Suspicious Counselor
     author: hellap
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/699550.jpg
