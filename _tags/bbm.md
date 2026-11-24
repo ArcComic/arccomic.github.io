@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bbm"
-work_count: 162
+work_count: 163
 works:
   - title: Kindan no Hatemitsu
     author: ryuuta
@@ -864,6 +864,14 @@ works:
     date: '2026-07-11'
     code: 663171
     url: /works/663171/
+  - title: Hypnosis Pencil ~Oji-san Katei Kyoushi to Kyouei M izugi JK no Man-to-man
+      Saimin Gakushuu~ Chuuhen | One to One Mind Control Tutoring Ch. 2
+    author: yuna
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/663604.jpg
+    rating: 0.0
+    date: '2026-11-24'
+    code: 663604
+    url: /works/663604/
   - title: Tainou Bicchi Hensai Keikaku | The Delinquent Bitch's Repayment Plan
     author: onkyu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/667990.jpg

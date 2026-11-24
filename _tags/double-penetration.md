@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "double penetration"
-work_count: 71
+work_count: 72
 works:
   - title: Hitozuma Hyakka
     author: hase-tsubura
@@ -488,6 +488,13 @@ works:
     date: '2026-11-14'
     code: 696730
     url: /works/696730/
+  - title: Shibarareta no wa Kokoro 2 ~Konna me ni Awasarete mo Mada~
+    author: orita
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696996.jpg
+    rating: 0.0
+    date: '2026-11-24'
+    code: 696996
+    url: /works/696996/
   - title: Hitozuma A-san to Musuko no Yuujin N-kun - Married wife A and son's friend
       N-kun
     author: takatsu-takatsu-keita

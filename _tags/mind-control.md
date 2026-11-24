@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "mind control"
-work_count: 84
+work_count: 85
 works:
   - title: Ayami Hypno
     author: yasuhiro
@@ -407,6 +407,14 @@ works:
     date: '2026-07-11'
     code: 663130
     url: /works/663130/
+  - title: Hypnosis Pencil ~Oji-san Katei Kyoushi to Kyouei M izugi JK no Man-to-man
+      Saimin Gakushuu~ Chuuhen | One to One Mind Control Tutoring Ch. 2
+    author: yuna
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/663604.jpg
+    rating: 0.0
+    date: '2026-11-24'
+    code: 663604
+    url: /works/663604/
   - title: Saimin Mahou de Sokuochi Namaiki Majo Koko-chan ~Tensai Elite nanonii Mamono
       Chinpo ni Kusozako Make Acme Kimechaimashitaa~ | Instant Fall via Hypnosis Magic❤
       Cheeky Witch Koko-chan ~A Genius Elite, Yet...❤ Monster

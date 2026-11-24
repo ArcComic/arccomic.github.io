@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "teacher"
-work_count: 120
+work_count: 121
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -881,6 +881,13 @@ works:
     date: '2026-11-14'
     code: 696732
     url: /works/696732/
+  - title: Shibarareta no wa Kokoro 2 ~Konna me ni Awasarete mo Mada~
+    author: orita
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696996.jpg
+    rating: 0.0
+    date: '2026-11-24'
+    code: 696996
+    url: /works/696996/
   - title: Jokyoushi - Hot For Teachers | Female Teachers
     author: drill-murata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/81375.jpg

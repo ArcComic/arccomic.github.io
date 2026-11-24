@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "ponytail"
-work_count: 265
+work_count: 266
 works:
   - title: Ami Mami Mind 5
     author: tsurui
@@ -17,6 +17,13 @@ works:
     date: '2026-09-08'
     code: 287208
     url: /works/287208/
+  - title: Novum Chaldea no Kyuuketsushu-san
+    author: umihotaru-harumare
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/292294.jpg
+    rating: 0.0
+    date: '2026-11-24'
+    code: 292294
+    url: /works/292294/
   - title: Boku no Kazoku o Sarashimasu Ch. 3
     author: tanaka-aji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/297068.jpg

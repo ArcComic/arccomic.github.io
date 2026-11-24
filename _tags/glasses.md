@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "glasses"
-work_count: 366
+work_count: 368
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -130,6 +130,13 @@ works:
     date: '2026-10-12'
     code: 285110
     url: /works/285110/
+  - title: Novum Chaldea no Kyuuketsushu-san
+    author: umihotaru-harumare
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/292294.jpg
+    rating: 0.0
+    date: '2026-11-24'
+    code: 292294
+    url: /works/292294/
   - title: Makai Kishi Ingrid ni Nakadashi Dekiru Soapland | A Soapland Where You Can
       Creampie Dark Knight Ingrid
     author: maguro-teikoku
@@ -1696,6 +1703,14 @@ works:
     date: '2026-07-11'
     code: 663171
     url: /works/663171/
+  - title: Hypnosis Pencil ~Oji-san Katei Kyoushi to Kyouei M izugi JK no Man-to-man
+      Saimin Gakushuu~ Chuuhen | One to One Mind Control Tutoring Ch. 2
+    author: yuna
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/663604.jpg
+    rating: 0.0
+    date: '2026-11-24'
+    code: 663604
+    url: /works/663604/
   - title: Kyouiku Mama Musuko no Chinpo ni Kyouiku Sareru
     author: himegoto-jukujo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/663622.jpg

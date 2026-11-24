@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "exhibitionism"
-work_count: 125
+work_count: 126
 works:
   - title: Yarimoku Kouen | Yarinookie Park [English] =TLL+mrwayne=
     author: sugi-g
@@ -884,6 +884,13 @@ works:
     date: '2026-11-14'
     code: 696965
     url: /works/696965/
+  - title: Shibarareta no wa Kokoro 2 ~Konna me ni Awasarete mo Mada~
+    author: orita
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696996.jpg
+    rating: 0.0
+    date: '2026-11-24'
+    code: 696996
+    url: /works/696996/
   - title: A Pantsy Relationship With the Girl Next Door
     author: hoshi-to-lucky
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/697416.jpg

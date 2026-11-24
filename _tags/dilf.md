@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "dilf"
-work_count: 254
+work_count: 255
 works:
   - title: Adoration
     author: kishizuka-kenji
@@ -1310,6 +1310,14 @@ works:
     date: '2026-07-11'
     code: 663089
     url: /works/663089/
+  - title: Hypnosis Pencil ~Oji-san Katei Kyoushi to Kyouei M izugi JK no Man-to-man
+      Saimin Gakushuu~ Chuuhen | One to One Mind Control Tutoring Ch. 2
+    author: yuna
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/663604.jpg
+    rating: 0.0
+    date: '2026-11-24'
+    code: 663604
+    url: /works/663604/
   - title: Self Help 2
     author: maeshima-ryou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/663655.jpg

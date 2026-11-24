@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "stockings"
-work_count: 327
+work_count: 328
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -2329,6 +2329,13 @@ works:
     date: '2026-11-14'
     code: 696949
     url: /works/696949/
+  - title: Shibarareta no wa Kokoro 2 ~Konna me ni Awasarete mo Mada~
+    author: orita
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696996.jpg
+    rating: 0.0
+    date: '2026-11-24'
+    code: 696996
+    url: /works/696996/
   - title: Maid no Shirosaki-san ni Gohoushi shite Morau Hanashi 6 | The Story of Getting
       Served by Maid Shirosaki-san 6
     author: sanshoku-nerune

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "ugly bastard"
-work_count: 41
+work_count: 42
 works:
   - title: A-part | Apartment
     author: zero-no-mono
@@ -243,6 +243,14 @@ works:
     date: '2026-09-25'
     code: 662670
     url: /works/662670/
+  - title: Hypnosis Pencil ~Oji-san Katei Kyoushi to Kyouei M izugi JK no Man-to-man
+      Saimin Gakushuu~ Chuuhen | One to One Mind Control Tutoring Ch. 2
+    author: yuna
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/663604.jpg
+    rating: 0.0
+    date: '2026-11-24'
+    code: 663604
+    url: /works/663604/
   - title: Shin Zuma, Ochiru
     author: t-landolt
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/667150.jpg

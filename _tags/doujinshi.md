@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "doujinshi"
-work_count: 1915
+work_count: 1917
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -303,6 +303,13 @@ works:
     date: '2026-11-11'
     code: 289930
     url: /works/289930/
+  - title: Novum Chaldea no Kyuuketsushu-san
+    author: umihotaru-harumare
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/292294.jpg
+    rating: 0.0
+    date: '2026-11-24'
+    code: 292294
+    url: /works/292294/
   - title: Ojou-sama Irekawari
     author: yuniba
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/292439.jpg
@@ -13918,6 +13925,13 @@ works:
     date: '2026-11-14'
     code: 696973
     url: /works/696973/
+  - title: Shibarareta no wa Kokoro 2 ~Konna me ni Awasarete mo Mada~
+    author: orita
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696996.jpg
+    rating: 0.0
+    date: '2026-11-24'
+    code: 696996
+    url: /works/696996/
   - title: These mother and son only have 10 minutes for their secret sex! | Kono Haha
       To Musuko Ga Kateinai SEX Dekiru Jikan Wa Juppun Dake!
     author: circle-spice
