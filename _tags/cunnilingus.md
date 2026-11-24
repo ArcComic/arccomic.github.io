@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "cunnilingus"
-work_count: 265
+work_count: 266
 works:
   - title: Love Approach
     author: hanafuda-sakurano
@@ -772,6 +772,13 @@ works:
     date: '2026-05-04'
     code: 621185
     url: /works/621185/
+  - title: 'My Neighbor Ayane: One of Those Rooms'
+    author: herio
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/623386.jpg
+    rating: 0.0
+    date: '2026-11-24'
+    code: 623386
+    url: /works/623386/
   - title: Dame nante Ienai
     author: tsurui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/628068.jpg

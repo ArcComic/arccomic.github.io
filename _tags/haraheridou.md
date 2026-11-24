@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "haraheridou"
-work_count: 4
+work_count: 5
 works:
   - title: Tonari no Ayane-san Desaki Battari Hen
     author: herio
@@ -10,6 +10,13 @@ works:
     date: '2026-08-18'
     code: 432356
     url: /works/432356/
+  - title: 'My Neighbor Ayane: One of Those Rooms'
+    author: herio
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/623386.jpg
+    rating: 0.0
+    date: '2026-11-24'
+    code: 623386
+    url: /works/623386/
   - title: Yojouhan no Femme Fatale - One-Room Femme Fatale | The Devilishness of a
       Small Room
     author: herio

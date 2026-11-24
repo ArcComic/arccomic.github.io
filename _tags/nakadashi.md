@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "nakadashi"
-work_count: 1229
+work_count: 1231
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -1873,6 +1873,13 @@ works:
     date: '2026-07-13'
     code: 514183
     url: /works/514183/
+  - title: Kensei Center | Semen Donation Center
+    author: ore-no-sasakure
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/514577.jpg
+    rating: 0.0
+    date: '2026-11-24'
+    code: 514577
+    url: /works/514577/
   - title: My part-time coworker ran away from home and came to work here, but she was
       too sexy...
     author: yamakonbu
@@ -9109,6 +9116,13 @@ works:
     date: '2026-11-24'
     code: 699397
     url: /works/699397/
+  - title: The Slut Girl 4th Costume
+    author: lime
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/699473.jpg
+    rating: 0.0
+    date: '2026-11-24'
+    code: 699473
+    url: /works/699473/
   - title: A Suspicious Counselor
     author: hellap
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/699550.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "eye-covering bang"
-work_count: 112
+work_count: 113
 works:
   - title: Kanojo no Amai Jiraishuu
     author: jirou
@@ -258,6 +258,13 @@ works:
     date: '2026-10-07'
     code: 621733
     url: /works/621733/
+  - title: 'My Neighbor Ayane: One of Those Rooms'
+    author: herio
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/623386.jpg
+    rating: 0.0
+    date: '2026-11-24'
+    code: 623386
+    url: /works/623386/
   - title: '"Tokutai" Sei ni Natta node, Shouwaru Gal o Shimei Shimasu! -Itsumo Tsukue
       ni Ketsu o Nosetekuru Umezu-san- | Now That I’m a ''Special Treatment'' Student,
       I’ll Choose the Ill-natured Gyaru! -Umezu-san, Who Always Puts Her Ass on My Desk-'

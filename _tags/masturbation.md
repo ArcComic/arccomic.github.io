@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "masturbation"
-work_count: 223
+work_count: 224
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -652,6 +652,13 @@ works:
     date: '2026-09-29'
     code: 622211
     url: /works/622211/
+  - title: 'My Neighbor Ayane: One of Those Rooms'
+    author: herio
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/623386.jpg
+    rating: 0.0
+    date: '2026-11-24'
+    code: 623386
+    url: /works/623386/
   - title: Kareshi Mochi no Mei wa Shinjiteta Oji-san ni Okasareru | My Niece, Who had
       a Boyfriend, Was Raped by Her Uncle, Whom She Trusted
     author: ichinomiya-yuu

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big breasts"
-work_count: 1606
+work_count: 1608
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -2106,6 +2106,13 @@ works:
     date: '2026-09-29'
     code: 513981
     url: /works/513981/
+  - title: Kensei Center | Semen Donation Center
+    author: ore-no-sasakure
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/514577.jpg
+    rating: 0.0
+    date: '2026-11-24'
+    code: 514577
+    url: /works/514577/
   - title: Doukyuusei Joshi no Iinari | As my female classmates says
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/515185.jpg
@@ -4423,6 +4430,13 @@ works:
     date: '2026-11-21'
     code: 623377
     url: /works/623377/
+  - title: 'My Neighbor Ayane: One of Those Rooms'
+    author: herio
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/623386.jpg
+    rating: 0.0
+    date: '2026-11-24'
+    code: 623386
+    url: /works/623386/
   - title: Kareshi Mochi no Mei wa Shinjiteta Oji-san ni Okasareru | My Niece, Who had
       a Boyfriend, Was Raped by Her Uncle, Whom She Trusted
     author: ichinomiya-yuu

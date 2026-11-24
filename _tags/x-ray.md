@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "x-ray"
-work_count: 527
+work_count: 529
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -1446,6 +1446,13 @@ works:
     date: '2026-09-18'
     code: 619717
     url: /works/619717/
+  - title: 'My Neighbor Ayane: One of Those Rooms'
+    author: herio
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/623386.jpg
+    rating: 0.0
+    date: '2026-11-24'
+    code: 623386
+    url: /works/623386/
   - title: Kareshi Mochi no Mei wa Shinjiteta Oji-san ni Okasareru | My Niece, Who had
       a Boyfriend, Was Raped by Her Uncle, Whom She Trusted
     author: ichinomiya-yuu
@@ -3937,6 +3944,13 @@ works:
     date: '2026-11-24'
     code: 699397
     url: /works/699397/
+  - title: The Slut Girl 4th Costume
+    author: lime
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/699473.jpg
+    rating: 0.0
+    date: '2026-11-24'
+    code: 699473
+    url: /works/699473/
   - title: A Suspicious Counselor
     author: hellap
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/699550.jpg

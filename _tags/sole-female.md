@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole female"
-work_count: 1389
+work_count: 1392
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -2438,6 +2438,13 @@ works:
     date: '2026-09-29'
     code: 513981
     url: /works/513981/
+  - title: Kensei Center | Semen Donation Center
+    author: ore-no-sasakure
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/514577.jpg
+    rating: 0.0
+    date: '2026-11-24'
+    code: 514577
+    url: /works/514577/
   - title: Nee, Shite Zenpen
     author: chiba-toshirou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/515857.jpg
@@ -4428,6 +4435,13 @@ works:
     date: '2026-05-26'
     code: 622857
     url: /works/622857/
+  - title: 'My Neighbor Ayane: One of Those Rooms'
+    author: herio
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/623386.jpg
+    rating: 0.0
+    date: '2026-11-24'
+    code: 623386
+    url: /works/623386/
   - title: Kareshi Mochi no Mei wa Shinjiteta Oji-san ni Okasareru | My Niece, Who had
       a Boyfriend, Was Raped by Her Uncle, Whom She Trusted
     author: ichinomiya-yuu
@@ -10287,6 +10301,13 @@ works:
     date: '2026-11-23'
     code: 699356
     url: /works/699356/
+  - title: The Slut Girl 4th Costume
+    author: lime
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/699473.jpg
+    rating: 0.0
+    date: '2026-11-24'
+    code: 699473
+    url: /works/699473/
   - title: Ranko-ppoi no! | Ranko-Ish!
     author: napata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/87393.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "wholesome"
-work_count: 257
+work_count: 258
 works:
   - title: FLUFFY LAUGH GIRL
     author: shibasaki-syouzi
@@ -864,6 +864,13 @@ works:
     date: '2026-05-26'
     code: 622857
     url: /works/622857/
+  - title: 'My Neighbor Ayane: One of Those Rooms'
+    author: herio
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/623386.jpg
+    rating: 0.0
+    date: '2026-11-24'
+    code: 623386
+    url: /works/623386/
   - title: Igumox - Muramata-san no Himitsu & Aijou - Muramata-san's Secret & Affection
       COMPLETE
     author: igumox

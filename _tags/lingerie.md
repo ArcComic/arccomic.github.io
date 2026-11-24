@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "lingerie"
-work_count: 141
+work_count: 142
 works:
   - title: My Care Lady Ch. 1
     author: sugi-g
@@ -1049,4 +1049,11 @@ works:
     date: '2026-11-21'
     code: 698998
     url: /works/698998/
+  - title: The Slut Girl 4th Costume
+    author: lime
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/699473.jpg
+    rating: 0.0
+    date: '2026-11-24'
+    code: 699473
+    url: /works/699473/
 ---

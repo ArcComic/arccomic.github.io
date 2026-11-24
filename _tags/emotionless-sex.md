@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "emotionless sex"
-work_count: 31
+work_count: 32
 works:
   - title: Maid no Oshigoto. II | Maid's Work II
     author: alexi-laiho
@@ -49,6 +49,13 @@ works:
     date: '2026-04-23'
     code: 509071
     url: /works/509071/
+  - title: Kensei Center | Semen Donation Center
+    author: ore-no-sasakure
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/514577.jpg
+    rating: 0.0
+    date: '2026-11-24'
+    code: 514577
+    url: /works/514577/
   - title: Zutto Hanasanaide ne. -Onaho na Mukanjou Osananajimi to Junai ni Ochiru made-
       | Please Don’t Let Go Of Me ~Until I Fall in Love With My Onahole Childhood Friend~
     author: kurumaya-koudou

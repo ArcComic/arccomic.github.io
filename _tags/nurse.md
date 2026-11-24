@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "nurse"
-work_count: 28
+work_count: 29
 works:
   - title: Chibo Soukan Ch.1-3
     author: natsu-no-oyatsu
@@ -25,6 +25,13 @@ works:
     date: '2026-08-31'
     code: 494172
     url: /works/494172/
+  - title: Kensei Center | Semen Donation Center
+    author: ore-no-sasakure
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/514577.jpg
+    rating: 0.0
+    date: '2026-11-24'
+    code: 514577
+    url: /works/514577/
   - title: Sashida Sareta Hokenshitsu | How I Offered Her Up In The Nurse's Office
     author: kasumi-kaori
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/551076.jpg

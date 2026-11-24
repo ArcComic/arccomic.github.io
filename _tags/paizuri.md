@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "paizuri"
-work_count: 352
+work_count: 354
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -420,6 +420,13 @@ works:
     date: '2026-09-11'
     code: 512938
     url: /works/512938/
+  - title: Kensei Center | Semen Donation Center
+    author: ore-no-sasakure
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/514577.jpg
+    rating: 0.0
+    date: '2026-11-24'
+    code: 514577
+    url: /works/514577/
   - title: 'Buka ni #UraAcc o Shiraretara | What If Your Subordinate Knows Your Secret?'
     author: gar
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/517781.jpg
@@ -912,6 +919,13 @@ works:
     date: '2026-04-27'
     code: 619405
     url: /works/619405/
+  - title: 'My Neighbor Ayane: One of Those Rooms'
+    author: herio
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/623386.jpg
+    rating: 0.0
+    date: '2026-11-24'
+    code: 623386
+    url: /works/623386/
   - title: Kareshi Mochi no Mei wa Shinjiteta Oji-san ni Okasareru | My Niece, Who had
       a Boyfriend, Was Raped by Her Uncle, Whom She Trusted
     author: ichinomiya-yuu

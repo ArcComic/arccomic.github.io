@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "hair buns"
-work_count: 56
+work_count: 57
 works:
   - title: Yohane Mokushiroku
     author: napo
@@ -121,6 +121,13 @@ works:
     date: '2026-08-20'
     code: 510022
     url: /works/510022/
+  - title: Kensei Center | Semen Donation Center
+    author: ore-no-sasakure
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/514577.jpg
+    rating: 0.0
+    date: '2026-11-24'
+    code: 514577
+    url: /works/514577/
   - title: Cool-Dere Kinpatsu Hitozuma Zenra Kaseifu san ga Yanda Boku ni Yasashiku
       Shite Kureta Ohanashi 1| Naked Blonde Kuudere Housekeeper Wife Kindly Treats Broken
       Ol' Me 01

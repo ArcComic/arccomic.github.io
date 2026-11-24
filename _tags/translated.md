@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "translated"
-work_count: 2241
+work_count: 2244
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -3476,6 +3476,13 @@ works:
     date: '2026-10-07'
     code: 514517
     url: /works/514517/
+  - title: Kensei Center | Semen Donation Center
+    author: ore-no-sasakure
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/514577.jpg
+    rating: 0.0
+    date: '2026-11-24'
+    code: 514577
+    url: /works/514577/
   - title: Doukyuusei Joshi no Iinari | As my female classmates says
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/515185.jpg
@@ -6561,6 +6568,13 @@ works:
     date: '2026-11-21'
     code: 623377
     url: /works/623377/
+  - title: 'My Neighbor Ayane: One of Those Rooms'
+    author: herio
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/623386.jpg
+    rating: 0.0
+    date: '2026-11-24'
+    code: 623386
+    url: /works/623386/
   - title: Kunoichi o shikan shi makuru manga
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/623910.jpg
@@ -16463,6 +16477,13 @@ works:
     date: '2026-11-24'
     code: 699397
     url: /works/699397/
+  - title: The Slut Girl 4th Costume
+    author: lime
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/699473.jpg
+    rating: 0.0
+    date: '2026-11-24'
+    code: 699473
+    url: /works/699473/
   - title: My Sex-Friend's Sister Came to My Place, and She Was So Cute That I Came
       Inside Her
     author: studio-huan

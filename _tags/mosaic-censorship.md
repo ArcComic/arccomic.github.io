@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "mosaic censorship"
-work_count: 445
+work_count: 447
 works:
   - title: Okki na Kanojo ni Amaetai | I want to be pampered by a girl of generous girth
     author: higashino-mikan
@@ -820,6 +820,13 @@ works:
     date: '2026-07-13'
     code: 514183
     url: /works/514183/
+  - title: Kensei Center | Semen Donation Center
+    author: ore-no-sasakure
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/514577.jpg
+    rating: 0.0
+    date: '2026-11-24'
+    code: 514577
+    url: /works/514577/
   - title: Watashi wa Kakerareteru kara... | I've been hypnotized, so...
     author: kiraku
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/516164.jpg
@@ -3292,4 +3299,11 @@ works:
     date: '2026-11-23'
     code: 699356
     url: /works/699356/
+  - title: The Slut Girl 4th Costume
+    author: lime
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/699473.jpg
+    rating: 0.0
+    date: '2026-11-24'
+    code: 699473
+    url: /works/699473/
 ---

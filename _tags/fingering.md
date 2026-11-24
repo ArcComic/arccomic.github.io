@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "fingering"
-work_count: 283
+work_count: 284
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -818,6 +818,13 @@ works:
     date: '2026-10-20'
     code: 620544
     url: /works/620544/
+  - title: 'My Neighbor Ayane: One of Those Rooms'
+    author: herio
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/623386.jpg
+    rating: 0.0
+    date: '2026-11-24'
+    code: 623386
+    url: /works/623386/
   - title: 女孩們的玩具初體驗 | Girl's First Experience With Toys
     author: muzi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/624694.jpg
