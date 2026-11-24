@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "x-ray"
-work_count: 526
+work_count: 527
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -3930,6 +3930,13 @@ works:
     date: '2026-11-23'
     code: 699123
     url: /works/699123/
+  - title: Kaisha no Bounenkai | New Year's Company Party
+    author: dokuneko-noil
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/699397.jpg
+    rating: 0.0
+    date: '2026-11-24'
+    code: 699397
+    url: /works/699397/
   - title: A Suspicious Counselor
     author: hellap
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/699550.jpg

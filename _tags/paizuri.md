@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "paizuri"
-work_count: 351
+work_count: 352
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -278,6 +278,13 @@ works:
     date: '2026-10-30'
     code: 459857
     url: /works/459857/
+  - title: Hitozuma Kanrinin Kyoko 10 | The Perils of Married Manger Kyoko Part 10
+    author: hoshino-ryuichi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/465424.jpg
+    rating: 0.0
+    date: '2026-11-24'
+    code: 465424
+    url: /works/465424/
   - title: Itsutsugo-chan wa Ecchi ga Shitai | The Quintuplets Wanna Have Sex
     author: alp
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/465718.jpg

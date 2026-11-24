@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "drunk"
-work_count: 66
+work_count: 67
 works:
   - title: Birthday
     author: hashiba-yachi
@@ -485,4 +485,11 @@ works:
     date: '2026-11-11'
     code: 695574
     url: /works/695574/
+  - title: Kaisha no Bounenkai | New Year's Company Party
+    author: dokuneko-noil
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/699397.jpg
+    rating: 0.0
+    date: '2026-11-24'
+    code: 699397
+    url: /works/699397/
 ---

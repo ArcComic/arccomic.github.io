@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big ass"
-work_count: 403
+work_count: 404
 works:
   - title: My Care Lady Ch. 1
     author: sugi-g
@@ -312,6 +312,13 @@ works:
     date: '2026-03-02'
     code: 455844
     url: /works/455844/
+  - title: Hitozuma Kanrinin Kyoko 10 | The Perils of Married Manger Kyoko Part 10
+    author: hoshino-ryuichi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/465424.jpg
+    rating: 0.0
+    date: '2026-11-24'
+    code: 465424
+    url: /works/465424/
   - title: Hahaoya ni Kokuhaku Shitara Ichinichi dake Sex o Sasete Kureta Hanashi 2
       | I Confessed to My Mom and She Let Me Have A One-Day-Only Sex-Fest 2
     author: spices

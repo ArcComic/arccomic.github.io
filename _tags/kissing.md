@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "kissing"
-work_count: 580
+work_count: 582
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -447,6 +447,13 @@ works:
     date: '2026-09-04'
     code: 464782
     url: /works/464782/
+  - title: Hitozuma Kanrinin Kyoko 10 | The Perils of Married Manger Kyoko Part 10
+    author: hoshino-ryuichi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/465424.jpg
+    rating: 0.0
+    date: '2026-11-24'
+    code: 465424
+    url: /works/465424/
   - title: Kakkou no Yakusoku Motokare to Himitsu no Kojin Lesson | Cuckoo's Promise
       Secret Tutoring Session With Ex-boyfriend
     author: nanashi-novel
@@ -4343,6 +4350,13 @@ works:
     date: '2026-11-23'
     code: 699356
     url: /works/699356/
+  - title: Kaisha no Bounenkai | New Year's Company Party
+    author: dokuneko-noil
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/699397.jpg
+    rating: 0.0
+    date: '2026-11-24'
+    code: 699397
+    url: /works/699397/
   - title: Soredemo Ashita mo Kareshi ga ii - Chapter 1-29
     author: miike-kei
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/699541.jpg

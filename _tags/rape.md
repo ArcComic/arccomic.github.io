@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "rape"
-work_count: 303
+work_count: 304
 works:
   - title: Office Love Scramble Ch. 1
     author: tohzai
@@ -2216,4 +2216,11 @@ works:
     date: '2026-11-14'
     code: 696966
     url: /works/696966/
+  - title: Kaisha no Bounenkai | New Year's Company Party
+    author: dokuneko-noil
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/699397.jpg
+    rating: 0.0
+    date: '2026-11-24'
+    code: 699397
+    url: /works/699397/
 ---

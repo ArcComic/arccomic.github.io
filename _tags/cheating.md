@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "cheating"
-work_count: 523
+work_count: 524
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -692,6 +692,13 @@ works:
     date: '2026-04-25'
     code: 463298
     url: /works/463298/
+  - title: Hitozuma Kanrinin Kyoko 10 | The Perils of Married Manger Kyoko Part 10
+    author: hoshino-ryuichi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/465424.jpg
+    rating: 0.0
+    date: '2026-11-24'
+    code: 465424
+    url: /works/465424/
   - title: Kakine Tsuma II Daiichiwa | Wife on the Fence II - Chapter 1
     author: ntr-system
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/471387.jpg

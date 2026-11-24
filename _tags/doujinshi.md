@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "doujinshi"
-work_count: 1909
+work_count: 1911
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -1800,6 +1800,13 @@ works:
     date: '2026-09-08'
     code: 464903
     url: /works/464903/
+  - title: Hitozuma Kanrinin Kyoko 10 | The Perils of Married Manger Kyoko Part 10
+    author: hoshino-ryuichi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/465424.jpg
+    rating: 0.0
+    date: '2026-11-24'
+    code: 465424
+    url: /works/465424/
   - title: Yarareru kanojo - Hitozumajoushi ManaNTR -
     author: tokyo-gunjo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/465602.jpg
@@ -14094,6 +14101,13 @@ works:
     date: '2026-11-23'
     code: 699356
     url: /works/699356/
+  - title: Kaisha no Bounenkai | New Year's Company Party
+    author: dokuneko-noil
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/699397.jpg
+    rating: 0.0
+    date: '2026-11-24'
+    code: 699397
+    url: /works/699397/
   - title: My Sex-Friend's Sister Came to My Place, and She Was So Cute That I Came
       Inside Her
     author: studio-huan

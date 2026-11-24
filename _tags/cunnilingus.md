@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "cunnilingus"
-work_count: 264
+work_count: 265
 works:
   - title: Love Approach
     author: hanafuda-sakurano
@@ -283,6 +283,13 @@ works:
     date: '2026-10-08'
     code: 457980
     url: /works/457980/
+  - title: Hitozuma Kanrinin Kyoko 10 | The Perils of Married Manger Kyoko Part 10
+    author: hoshino-ryuichi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/465424.jpg
+    rating: 0.0
+    date: '2026-11-24'
+    code: 465424
+    url: /works/465424/
   - title: Kakkou no Yakusoku Motokare to Himitsu no Kojin Lesson | Cuckoo's Promise
       Secret Tutoring Session With Ex-boyfriend
     author: nanashi-novel

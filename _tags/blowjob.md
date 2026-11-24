@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "blowjob"
-work_count: 970
+work_count: 971
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -987,6 +987,13 @@ works:
     date: '2026-09-15'
     code: 463749
     url: /works/463749/
+  - title: Hitozuma Kanrinin Kyoko 10 | The Perils of Married Manger Kyoko Part 10
+    author: hoshino-ryuichi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/465424.jpg
+    rating: 0.0
+    date: '2026-11-24'
+    code: 465424
+    url: /works/465424/
   - title: Yarareru kanojo - Hitozumajoushi ManaNTR -
     author: tokyo-gunjo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/465602.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "anal"
-work_count: 223
+work_count: 224
 works:
   - title: Ikanishite Haha wa Onna o Kaihou Shitaka Ch. 1-14
     author: mitarai-yuuki
@@ -213,6 +213,13 @@ works:
     date: '2026-11-17'
     code: 458234
     url: /works/458234/
+  - title: Hitozuma Kanrinin Kyoko 10 | The Perils of Married Manger Kyoko Part 10
+    author: hoshino-ryuichi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/465424.jpg
+    rating: 0.0
+    date: '2026-11-24'
+    code: 465424
+    url: /works/465424/
   - title: Toshoshitsu no Kanojo 6 ~Onna Kyoushi ga Ochiru made (Kouhen)~
     author: ame-arare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/474458.jpg

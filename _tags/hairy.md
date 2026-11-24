@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "hairy"
-work_count: 463
+work_count: 464
 works:
   - title: MAGIC SEVEN
     author: asuhiro
@@ -632,6 +632,13 @@ works:
     date: '2026-04-25'
     code: 463298
     url: /works/463298/
+  - title: Hitozuma Kanrinin Kyoko 10 | The Perils of Married Manger Kyoko Part 10
+    author: hoshino-ryuichi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/465424.jpg
+    rating: 0.0
+    date: '2026-11-24'
+    code: 465424
+    url: /works/465424/
   - title: Uchi de wa Kazoku Sex wa Joushiki Rashii | In My House, Family Sex Is the
       Norm
     author: group
