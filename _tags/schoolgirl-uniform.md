@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "schoolgirl uniform"
-work_count: 482
+work_count: 483
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -31,6 +31,13 @@ works:
     date: '2026-10-09'
     code: 143929
     url: /works/143929/
+  - title: Suteki na Kanojo
+    author: moketa
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/144277.jpg
+    rating: 0.0
+    date: '2026-11-24'
+    code: 144277
+    url: /works/144277/
   - title: I'll be your cat
     author: napata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/167112.jpg

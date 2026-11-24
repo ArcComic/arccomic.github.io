@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "manga"
-work_count: 484
+work_count: 485
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -87,6 +87,13 @@ works:
     date: '2026-10-02'
     code: 143217
     url: /works/143217/
+  - title: Suteki na Kanojo
+    author: moketa
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/144277.jpg
+    rating: 0.0
+    date: '2026-11-24'
+    code: 144277
+    url: /works/144277/
   - title: Imitation Family + Bigibo Hen
     author: tohzai
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/145635.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "doujinshi"
-work_count: 1914
+work_count: 1915
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -3660,6 +3660,13 @@ works:
     date: '2026-05-05'
     code: 558039
     url: /works/558039/
+  - title: Daisuki na Kimi e ~To You Whom I Love~
+    author: mgmee
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/558274.jpg
+    rating: 0.0
+    date: '2026-11-24'
+    code: 558274
+    url: /works/558274/
   - title: Fuuki Iin to Fuuzoku Katsudou SEX ACTS with a Member of the Public Moral
       Committee
     author: nodame

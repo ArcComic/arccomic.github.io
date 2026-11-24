@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "kissing"
-work_count: 583
+work_count: 584
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -10,6 +10,13 @@ works:
     date: '2026-10-09'
     code: 106821
     url: /works/106821/
+  - title: Suteki na Kanojo
+    author: moketa
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/144277.jpg
+    rating: 0.0
+    date: '2026-11-24'
+    code: 144277
+    url: /works/144277/
   - title: FLUFFY LAUGH GIRL
     author: shibasaki-syouzi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/210672.jpg
