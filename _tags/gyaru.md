@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "gyaru"
-work_count: 197
+work_count: 198
 works:
   - title: Kuroi Houshi Katsudou | Black Community Service
     author: blmanian
@@ -83,6 +83,14 @@ works:
     date: '2026-04-15'
     code: 426769
     url: /works/426769/
+  - title: Shiro Gal Kanojo ga Dekita Riyuu | The reason why i was able to get a white
+      gyaru girlfriend
+    author: mgmee
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/427301.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 427301
+    url: /works/427301/
   - title: Gal ni Houkago Oppai Sawatte ku? te Sasowareru Hanashi | That Time Gyarus
       Asked Me to Grope their Tits After Class
     author: ono-hiroki

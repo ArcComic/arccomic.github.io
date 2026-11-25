@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "mind control"
-work_count: 85
+work_count: 86
 works:
   - title: Ayami Hypno
     author: yasuhiro
@@ -46,6 +46,14 @@ works:
     date: '2026-10-07'
     code: 409385
     url: /works/409385/
+  - title: Hypnosis Pencil ~Oji-san Katei Kyoushi to Kyouei Mizugi JK no Man-to-man
+      Saimin Gakushuu~ Zenpen
+    author: yuna
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/414075.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 414075
+    url: /works/414075/
   - title: Nekura Kyonyuu no Onee-chan wa, Saiminshite de mo Otouto Chinpo o Netoritai
     author: borusiti
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/438138.jpg

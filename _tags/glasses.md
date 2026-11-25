@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "glasses"
-work_count: 371
+work_count: 373
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -360,6 +360,14 @@ works:
     date: '2026-10-15'
     code: 410909
     url: /works/410909/
+  - title: Hypnosis Pencil ~Oji-san Katei Kyoushi to Kyouei Mizugi JK no Man-to-man
+      Saimin Gakushuu~ Zenpen
+    author: yuna
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/414075.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 414075
+    url: /works/414075/
   - title: Hito o Dame ni Suru Choi Busu ~Kao 40-ten, Karada 120-ten no Kanojo~
     author: special-g
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/414892.jpg
@@ -484,6 +492,14 @@ works:
     date: '2026-10-08'
     code: 457980
     url: /works/457980/
+  - title: Watashi no Haizoku Saki wa Seishori-ka ~Kenshuu Hen~ | My Assignment is in
+      the Sexual Relief Department ~Training Chapter~
+    author: cielo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/460090.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 460090
+    url: /works/460090/
   - title: Jimihen!! ~Jimiko o Kaechau Junisei Kouyuu~
     author: iburo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/460264.jpg

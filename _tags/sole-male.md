@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole male"
-work_count: 1338
+work_count: 1340
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -1223,6 +1223,14 @@ works:
     date: '2026-11-23'
     code: 414004
     url: /works/414004/
+  - title: Hypnosis Pencil ~Oji-san Katei Kyoushi to Kyouei Mizugi JK no Man-to-man
+      Saimin Gakushuu~ Zenpen
+    author: yuna
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/414075.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 414075
+    url: /works/414075/
   - title: NTR Anniversary + ) [Syukurin] Mitsuha ~Netorare~ (Kimi no Na wa.) [English]
       [Colorized] by Mikaku
     author: arakure
@@ -1341,6 +1349,14 @@ works:
     date: '2026-11-21'
     code: 426827
     url: /works/426827/
+  - title: Shiro Gal Kanojo ga Dekita Riyuu | The reason why i was able to get a white
+      gyaru girlfriend
+    author: mgmee
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/427301.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 427301
+    url: /works/427301/
   - title: Mama ni Seishi Ippai Choudai, Zenpen-Chuuhen
     author: yamamoto-yoshifumi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/429195.jpg

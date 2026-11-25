@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "translated"
-work_count: 2264
+work_count: 2267
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -1858,6 +1858,14 @@ works:
     date: '2026-09-11'
     code: 414040
     url: /works/414040/
+  - title: Hypnosis Pencil ~Oji-san Katei Kyoushi to Kyouei Mizugi JK no Man-to-man
+      Saimin Gakushuu~ Zenpen
+    author: yuna
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/414075.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 414075
+    url: /works/414075/
   - title: Shuudan Jotaika Gyaru, Ochiru | Mass-Gender Bended Gyarus, Fall into Depravity
     author: betty
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/414300.jpg
@@ -2057,6 +2065,14 @@ works:
     date: '2026-11-21'
     code: 426827
     url: /works/426827/
+  - title: Shiro Gal Kanojo ga Dekita Riyuu | The reason why i was able to get a white
+      gyaru girlfriend
+    author: mgmee
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/427301.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 427301
+    url: /works/427301/
   - title: Mama ni Seishi Ippai Choudai, Zenpen-Chuuhen
     author: yamamoto-yoshifumi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/429195.jpg
@@ -2535,6 +2551,14 @@ works:
     date: '2026-10-30'
     code: 459857
     url: /works/459857/
+  - title: Watashi no Haizoku Saki wa Seishori-ka ~Kenshuu Hen~ | My Assignment is in
+      the Sexual Relief Department ~Training Chapter~
+    author: cielo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/460090.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 460090
+    url: /works/460090/
   - title: Koi no Gunfight Love Steal
     author: napo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/460241.jpg

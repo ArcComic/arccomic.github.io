@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "manga"
-work_count: 494
+work_count: 495
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -690,6 +690,14 @@ works:
     date: '2026-10-20'
     code: 412668
     url: /works/412668/
+  - title: Hypnosis Pencil ~Oji-san Katei Kyoushi to Kyouei Mizugi JK no Man-to-man
+      Saimin Gakushuu~ Zenpen
+    author: yuna
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/414075.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 414075
+    url: /works/414075/
   - title: NTR Anniversary + ) [Syukurin] Mitsuha ~Netorare~ (Kimi no Na wa.) [English]
       [Colorized] by Mikaku
     author: arakure

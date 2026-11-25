@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big breasts"
-work_count: 1621
+work_count: 1623
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -1164,6 +1164,14 @@ works:
     date: '2026-11-21'
     code: 426827
     url: /works/426827/
+  - title: Shiro Gal Kanojo ga Dekita Riyuu | The reason why i was able to get a white
+      gyaru girlfriend
+    author: mgmee
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/427301.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 427301
+    url: /works/427301/
   - title: Doushia (Terasu MC)] Dorei Gazoku
     author: terasu-mc
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/427676.jpg
@@ -1492,6 +1500,14 @@ works:
     date: '2026-10-30'
     code: 459857
     url: /works/459857/
+  - title: Watashi no Haizoku Saki wa Seishori-ka ~Kenshuu Hen~ | My Assignment is in
+      the Sexual Relief Department ~Training Chapter~
+    author: cielo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/460090.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 460090
+    url: /works/460090/
   - title: Oba no Uwa Kitsu Cosplay Onanie o Mokugeki Shita Ken | That Time I Saw My
       Aunt Masturbating in a Cosplay She’s Too Old For
     author: motchie

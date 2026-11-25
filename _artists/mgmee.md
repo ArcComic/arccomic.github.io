@@ -1,8 +1,15 @@
 ---
 layout: artist
 artist_name: "mgmee"
-work_count: 3
+work_count: 4
 works:
+  - title: Shiro Gal Kanojo ga Dekita Riyuu | The reason why i was able to get a white
+      gyaru girlfriend
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/427301.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 427301
+    url: /works/427301/
   - title: Kuro Gal Kanojo ga Dekita Riyuu | The Reason Why I Was Able to Get a Black
       Gyaru Girlfriend
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/448785.jpg

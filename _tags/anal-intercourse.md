@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "anal intercourse"
-work_count: 128
+work_count: 129
 works:
   - title: Police Story
     author: nekoi-mie
@@ -26,6 +26,14 @@ works:
     date: '2026-10-02'
     code: 421306
     url: /works/421306/
+  - title: Watashi no Haizoku Saki wa Seishori-ka ~Kenshuu Hen~ | My Assignment is in
+      the Sexual Relief Department ~Training Chapter~
+    author: cielo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/460090.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 460090
+    url: /works/460090/
   - title: Toshoshitsu no Kanojo 6 ~Onna Kyoushi ga Ochiru made (Kouhen)~
     author: ame-arare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/474458.jpg
