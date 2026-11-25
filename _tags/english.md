@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "english"
-work_count: 2327
+work_count: 2329
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -2180,6 +2180,14 @@ works:
     date: '2026-07-16'
     code: 434993
     url: /works/434993/
+  - title: Yadoya no Musume wa S-Rank Boukensha ni Dekiai Sareru | The Innkeeper's Daughter
+      That Was Doted On By The S-Rank Adventurer
+    author: giga
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/435667.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 435667
+    url: /works/435667/
   - title: Akumu 4 ~Saitei na Kokuhaku~ | Nightmare 4 ~ Lowest Confession ~
     author: minazuki-mikka
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/435832.jpg
@@ -7676,6 +7684,13 @@ works:
     date: '2026-10-12'
     code: 638882
     url: /works/638882/
+  - title: Married Women Are At A Naughty Age 3
+    author: asagi-ryu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/639096.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 639096
+    url: /works/639096/
   - title: Kaa-san to Sex Shita Mikkakan | Three Days of Sex with My Mom
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/639194.jpg

@@ -1,8 +1,16 @@
 ---
 layout: tag
 tag_name: "josei"
-work_count: 30
+work_count: 31
 works:
+  - title: Yadoya no Musume wa S-Rank Boukensha ni Dekiai Sareru | The Innkeeper's Daughter
+      That Was Doted On By The S-Rank Adventurer
+    author: giga
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/435667.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 435667
+    url: /works/435667/
   - title: '[Sakuru Haruni Inazuma (Harumi Niina) Chuuken Bodyguard ga Nisemono Reijou
       no Uso to Shintai wo Abaku made. | Until the Obedient Bodyguard Exposes the Body
       and the Lie of the Fake Lady [English] [Painful Nightz] [Digital]'

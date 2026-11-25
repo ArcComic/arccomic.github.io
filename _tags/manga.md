@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "manga"
-work_count: 490
+work_count: 491
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -1941,6 +1941,13 @@ works:
     date: '2026-09-13'
     code: 638556
     url: /works/638556/
+  - title: Married Women Are At A Naughty Age 3
+    author: asagi-ryu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/639096.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 639096
+    url: /works/639096/
   - title: Manatsu no Refrain | Midsummer's Refrain
     author: gen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/639514.jpg

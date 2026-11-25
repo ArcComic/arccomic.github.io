@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole female"
-work_count: 1402
+work_count: 1404
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -1489,6 +1489,14 @@ works:
     date: '2026-11-22'
     code: 434761
     url: /works/434761/
+  - title: Yadoya no Musume wa S-Rank Boukensha ni Dekiai Sareru | The Innkeeper's Daughter
+      That Was Doted On By The S-Rank Adventurer
+    author: giga
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/435667.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 435667
+    url: /works/435667/
   - title: Otaku Tomodachi to no Sex wa Saikou ni Kimochi Ii | Sex with Your Otaku Friend
       is Mindblowing
     author: alp
@@ -5055,6 +5063,13 @@ works:
     date: '2026-04-19'
     code: 638929
     url: /works/638929/
+  - title: Married Women Are At A Naughty Age 3
+    author: asagi-ryu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/639096.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 639096
+    url: /works/639096/
   - title: Kaa-san to Sex Shita Mikkakan | Three Days of Sex with My Mom
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/639194.jpg

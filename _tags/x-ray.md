@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "x-ray"
-work_count: 532
+work_count: 533
 works:
   - title: Suteki na Kanojo
     author: moketa
@@ -375,6 +375,14 @@ works:
     date: '2026-11-22'
     code: 434761
     url: /works/434761/
+  - title: Yadoya no Musume wa S-Rank Boukensha ni Dekiai Sareru | The Innkeeper's Daughter
+      That Was Doted On By The S-Rank Adventurer
+    author: giga
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/435667.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 435667
+    url: /works/435667/
   - title: Otaku Tomodachi to no Sex wa Saikou ni Kimochi Ii | Sex with Your Otaku Friend
       is Mindblowing
     author: alp

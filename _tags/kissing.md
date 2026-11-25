@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "kissing"
-work_count: 587
+work_count: 588
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -1842,6 +1842,13 @@ works:
     date: '2026-09-20'
     code: 638685
     url: /works/638685/
+  - title: Married Women Are At A Naughty Age 3
+    author: asagi-ryu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/639096.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 639096
+    url: /works/639096/
   - title: BUTA - 『You did a great job』
     author: buta
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/639772.jpg

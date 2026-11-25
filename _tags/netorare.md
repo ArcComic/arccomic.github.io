@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "netorare"
-work_count: 596
+work_count: 597
 works:
   - title: Kousa suru Osu to Mesu | Male and Female Crossing
     author: ootsuka-kotora
@@ -1994,6 +1994,13 @@ works:
     date: '2026-11-12'
     code: 638600
     url: /works/638600/
+  - title: Married Women Are At A Naughty Age 3
+    author: asagi-ryu
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/639096.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 639096
+    url: /works/639096/
   - title: Boku ga Shiranakatta Mama to Jii-chan no Koto | Things I didn't Know Between
       Mom And Grandpa
     author: urakan
