@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "anal"
-work_count: 227
+work_count: 228
 works:
   - title: Ikanishite Haha wa Onna o Kaihou Shitaka Ch. 1-14
     author: mitarai-yuuki
@@ -161,6 +161,13 @@ works:
     date: '2026-05-03'
     code: 376189
     url: /works/376189/
+  - title: Hamakaze Kairaku ni Otsu ~Shiranai Ossan Teitoku Hen~
+    author: yuna
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/384017.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 384017
+    url: /works/384017/
   - title: Police Story
     author: nekoi-mie
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/399776.jpg

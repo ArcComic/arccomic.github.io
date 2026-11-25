@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "netorare"
-work_count: 598
+work_count: 599
 works:
   - title: Kousa suru Osu to Mesu | Male and Female Crossing
     author: ootsuka-kotora
@@ -889,6 +889,15 @@ works:
     date: '2026-08-18'
     code: 508818
     url: /works/508818/
+  - title: Kekkon Majika no Misoji OL , Deisui Shite Kitaku go Soku Sex Shita Aite wa
+      Rinjin Deshita!? 1 | A 30 year old Office Lady on the verge of Marriage comes
+      Home Intoxicated, and has Sex with her Neighbor! 1
+    author: satou-ichito
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/510790.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 510790
+    url: /works/510790/
   - title: Nonke datta Kanojo ga Futanari Shinyuu ni NTR made | My Girlfriend and Her
       Best Friend Who NTR'd Me
     author: kuroshiba-suko

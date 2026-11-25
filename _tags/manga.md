@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "manga"
-work_count: 495
+work_count: 496
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -1131,6 +1131,15 @@ works:
     date: '2026-08-20'
     code: 510022
     url: /works/510022/
+  - title: Kekkon Majika no Misoji OL , Deisui Shite Kitaku go Soku Sex Shita Aite wa
+      Rinjin Deshita!? 1 | A 30 year old Office Lady on the verge of Marriage comes
+      Home Intoxicated, and has Sex with her Neighbor! 1
+    author: satou-ichito
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/510790.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 510790
+    url: /works/510790/
   - title: Hitozuma Volley-bu no Asedaku SEX ~Shower Abinagara Micchaku Shichau? 1-2
       | Married Women's Volleyball Club Sweaty Sex - We're Being Glued Together While
       Taking A Shower? 1-2

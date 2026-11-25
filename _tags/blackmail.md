@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "blackmail"
-work_count: 201
+work_count: 202
 works:
   - title: Birthday
     author: hashiba-yachi
@@ -357,6 +357,15 @@ works:
     date: '2026-08-18'
     code: 508818
     url: /works/508818/
+  - title: Kekkon Majika no Misoji OL , Deisui Shite Kitaku go Soku Sex Shita Aite wa
+      Rinjin Deshita!? 1 | A 30 year old Office Lady on the verge of Marriage comes
+      Home Intoxicated, and has Sex with her Neighbor! 1
+    author: satou-ichito
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/510790.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 510790
+    url: /works/510790/
   - title: Haha ga Aitsu no Omocha ni Ochiru made ~Naomi 1
     author: karukiya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/511662.jpg

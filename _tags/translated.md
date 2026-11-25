@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "translated"
-work_count: 2274
+work_count: 2276
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -1481,6 +1481,13 @@ works:
     date: '2026-09-29'
     code: 383623
     url: /works/383623/
+  - title: Hamakaze Kairaku ni Otsu ~Shiranai Ossan Teitoku Hen~
+    author: yuna
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/384017.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 384017
+    url: /works/384017/
   - title: Last Chance
     author: herio
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/384255.jpg
@@ -3451,6 +3458,15 @@ works:
     date: '2026-10-21'
     code: 510698
     url: /works/510698/
+  - title: Kekkon Majika no Misoji OL , Deisui Shite Kitaku go Soku Sex Shita Aite wa
+      Rinjin Deshita!? 1 | A 30 year old Office Lady on the verge of Marriage comes
+      Home Intoxicated, and has Sex with her Neighbor! 1
+    author: satou-ichito
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/510790.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 510790
+    url: /works/510790/
   - title: Hitozuma Volley-bu no Asedaku SEX ~Shower Abinagara Micchaku Shichau? 1-2
       | Married Women's Volleyball Club Sweaty Sex - We're Being Glued Together While
       Taking A Shower? 1-2

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "multi-work series"
-work_count: 541
+work_count: 543
 works:
   - title: Konna ni mo Itooshii Zero
     author: nohito
@@ -257,6 +257,13 @@ works:
     date: '2026-05-03'
     code: 376189
     url: /works/376189/
+  - title: Hamakaze Kairaku ni Otsu ~Shiranai Ossan Teitoku Hen~
+    author: yuna
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/384017.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 384017
+    url: /works/384017/
   - title: Itabasami na Wakachi Ai 3 | Love Divided Between a Rock and a Hard Place
       3
     author: cabin
@@ -691,6 +698,15 @@ works:
     date: '2026-08-20'
     code: 510022
     url: /works/510022/
+  - title: Kekkon Majika no Misoji OL , Deisui Shite Kitaku go Soku Sex Shita Aite wa
+      Rinjin Deshita!? 1 | A 30 year old Office Lady on the verge of Marriage comes
+      Home Intoxicated, and has Sex with her Neighbor! 1
+    author: satou-ichito
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/510790.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 510790
+    url: /works/510790/
   - title: Hitozuma Volley-bu no Asedaku SEX ~Shower Abinagara Micchaku Shichau? 1-2
       | Married Women's Volleyball Club Sweaty Sex - We're Being Glued Together While
       Taking A Shower? 1-2

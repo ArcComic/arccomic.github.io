@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "kantai collection"
-work_count: 8
+work_count: 9
 works:
   - title: RICHELIEU MON AMOUR Plat | Richelieu My Love Dish
     author: osterei
@@ -17,6 +17,13 @@ works:
     date: '2026-11-25'
     code: 349157
     url: /works/349157/
+  - title: Hamakaze Kairaku ni Otsu ~Shiranai Ossan Teitoku Hen~
+    author: yuna
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/384017.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 384017
+    url: /works/384017/
   - title: Onsen Yukata na Kashima-san to Hamakaze-san to. | Hamakaze and Kashima in
       Hot Springs and Yukata
     author: sarfata

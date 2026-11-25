@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole female"
-work_count: 1417
+work_count: 1418
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -1077,6 +1077,13 @@ works:
     date: '2026-09-29'
     code: 383623
     url: /works/383623/
+  - title: Hamakaze Kairaku ni Otsu ~Shiranai Ossan Teitoku Hen~
+    author: yuna
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/384017.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 384017
+    url: /works/384017/
   - title: Last Chance
     author: herio
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/384255.jpg
