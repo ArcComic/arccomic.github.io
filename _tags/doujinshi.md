@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "doujinshi"
-work_count: 1943
+work_count: 1946
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -1837,6 +1837,14 @@ works:
     date: '2026-11-17'
     code: 461751
     url: /works/461751/
+  - title: Jiraikei Imouto ni Kareshi Netorareterunda ga ~ReaJuu no Ane to Papakatsu
+      Suru Imouto~
+    author: cielo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/462102.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 462102
+    url: /works/462102/
   - title: What would happen if you said "Let's have sex." while your teacher was scolding
       you?
     author: chotto-b-sen
@@ -3976,6 +3984,13 @@ works:
     date: '2026-11-25'
     code: 567862
     url: /works/567862/
+  - title: Kimi to Himitsu no Upload 2 | Our Secret Upload 2
+    author: shinima
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/567876.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 567876
+    url: /works/567876/
   - title: Atashi wo…. | Use me...
     author: orita
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/567893.jpg
@@ -9731,6 +9746,13 @@ works:
     date: '2026-09-22'
     code: 673012
     url: /works/673012/
+  - title: Mrs. Shimura’s affair progression
+    author: st-mya
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673042.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 673042
+    url: /works/673042/
   - title: My Childhood Friend's Been Strangely Sexy Lately. 2
     author: karoti
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673185.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "gymshorts"
-work_count: 20
+work_count: 21
 works:
   - title: Ritsuko to Stretch!
     author: tsurui
@@ -99,6 +99,13 @@ works:
     date: '2026-07-17'
     code: 664758
     url: /works/664758/
+  - title: Mrs. Shimura’s affair progression
+    author: st-mya
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673042.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 673042
+    url: /works/673042/
   - title: Boku no Mizugi ga Kakusarete | My Swimsuit Got Stolen
     author: niki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/675415.jpg

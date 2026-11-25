@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "multi-work series"
-work_count: 545
+work_count: 547
 works:
   - title: Konna ni mo Itooshii Zero
     author: nohito
@@ -452,6 +452,14 @@ works:
     date: '2026-03-09'
     code: 460264
     url: /works/460264/
+  - title: Jiraikei Imouto ni Kareshi Netorareterunda ga ~ReaJuu no Ane to Papakatsu
+      Suru Imouto~
+    author: cielo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/462102.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 462102
+    url: /works/462102/
   - title: Onee-chan to Torokeru Kimochi SP 2 | The Melting Feeling with Onee-chan SP
       2
     author: sky
@@ -1136,6 +1144,13 @@ works:
     date: '2026-11-25'
     code: 567862
     url: /works/567862/
+  - title: Kimi to Himitsu no Upload 2 | Our Secret Upload 2
+    author: shinima
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/567876.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 567876
+    url: /works/567876/
   - title: Atashi wo…. | Use me...
     author: orita
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/567893.jpg

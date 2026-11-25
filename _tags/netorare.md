@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "netorare"
-work_count: 600
+work_count: 601
 works:
   - title: Kousa suru Osu to Mesu | Male and Female Crossing
     author: ootsuka-kotora
@@ -598,6 +598,14 @@ works:
     date: '2026-04-19'
     code: 460565
     url: /works/460565/
+  - title: Jiraikei Imouto ni Kareshi Netorareterunda ga ~ReaJuu no Ane to Papakatsu
+      Suru Imouto~
+    author: cielo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/462102.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 462102
+    url: /works/462102/
   - title: Shitsurakuen | Paradise Lost
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/463749.jpg

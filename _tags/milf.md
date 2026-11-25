@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "milf"
-work_count: 652
+work_count: 653
 works:
   - title: Life with Married Women Just Like a Manga 2 - Ch. 1-5
     author: hidemaru
@@ -3536,6 +3536,13 @@ works:
     date: '2026-09-30'
     code: 672692
     url: /works/672692/
+  - title: Mrs. Shimura’s affair progression
+    author: st-mya
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673042.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 673042
+    url: /works/673042/
   - title: Itoko to Oba to Kinshin Haramase Vacance ~Haitoku no Oyako Double Ninshin~
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673215.jpg

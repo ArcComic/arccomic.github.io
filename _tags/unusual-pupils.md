@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "unusual pupils"
-work_count: 123
+work_count: 125
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -119,6 +119,14 @@ works:
     date: '2026-09-25'
     code: 458866
     url: /works/458866/
+  - title: Jiraikei Imouto ni Kareshi Netorareterunda ga ~ReaJuu no Ane to Papakatsu
+      Suru Imouto~
+    author: cielo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/462102.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 462102
+    url: /works/462102/
   - title: Shitsurakuen | Paradise Lost
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/463749.jpg
@@ -298,6 +306,13 @@ works:
     date: '2026-08-18'
     code: 560097
     url: /works/560097/
+  - title: Kimi to Himitsu no Upload 2 | Our Secret Upload 2
+    author: shinima
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/567876.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 567876
+    url: /works/567876/
   - title: Hyoui de Gravure Idol o Ore no Mono ni Someageru Hanashi | Gravure Idol Possession
     author: comichi-pota
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/579368.jpg

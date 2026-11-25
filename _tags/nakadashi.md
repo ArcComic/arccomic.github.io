@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "nakadashi"
-work_count: 1254
+work_count: 1256
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -1302,6 +1302,14 @@ works:
     date: '2026-11-17'
     code: 461751
     url: /works/461751/
+  - title: Jiraikei Imouto ni Kareshi Netorareterunda ga ~ReaJuu no Ane to Papakatsu
+      Suru Imouto~
+    author: cielo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/462102.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 462102
+    url: /works/462102/
   - title: Hitozuma Kanrinin Kyoko 10 | The Perils of Married Manger Kyoko Part 10
     author: hoshino-ryuichi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/465424.jpg
@@ -2688,6 +2696,13 @@ works:
     date: '2026-11-25'
     code: 567862
     url: /works/567862/
+  - title: Kimi to Himitsu no Upload 2 | Our Secret Upload 2
+    author: shinima
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/567876.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 567876
+    url: /works/567876/
   - title: Atashi wo…. | Use me...
     author: orita
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/567893.jpg

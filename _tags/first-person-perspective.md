@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "first person perspective"
-work_count: 10
+work_count: 11
 works:
   - title: Mecha Eroi kedo Sasoi ni Nottara Hametsushisou na Ko | A Girl Who Is Very
       Sexy But Will Ruin Me If I Ask Her Out
@@ -69,6 +69,13 @@ works:
     date: '2026-07-09'
     code: 662550
     url: /works/662550/
+  - title: Mrs. Shimura’s affair progression
+    author: st-mya
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673042.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 673042
+    url: /works/673042/
   - title: Possession Golf
     author: rim
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/676589.jpg

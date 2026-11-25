@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "cielo"
-work_count: 5
+work_count: 6
 works:
   - title: Watashi no Haizoku Saki wa Seishori-ka ~Kenshuu Hen~ | My Assignment is in
       the Sexual Relief Department ~Training Chapter~
@@ -11,6 +11,14 @@ works:
     date: '2026-11-25'
     code: 460090
     url: /works/460090/
+  - title: Jiraikei Imouto ni Kareshi Netorareterunda ga ~ReaJuu no Ane to Papakatsu
+      Suru Imouto~
+    author: cielo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/462102.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 462102
+    url: /works/462102/
   - title: Joshiryou Kanrinin no Boku wa Gal Ryousei ni Furimawasarete masu 3 | Swayed
       by the Gals in the Girls' Dorm I Manage 3
     author: cielo
