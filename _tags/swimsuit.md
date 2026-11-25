@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "swimsuit"
-work_count: 122
+work_count: 123
 works:
   - title: Kizashi
     author: yoshiura-kazuya
@@ -926,4 +926,11 @@ works:
     date: '2026-11-21'
     code: 698998
     url: /works/698998/
+  - title: Your sex is due!
+    author: st-mya
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/699062.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 699062
+    url: /works/699062/
 ---

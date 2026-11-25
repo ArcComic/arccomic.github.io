@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bbm"
-work_count: 166
+work_count: 167
 works:
   - title: Kindan no Hatemitsu
     author: ryuuta
@@ -1232,4 +1232,11 @@ works:
     date: '2026-11-21'
     code: 698880
     url: /works/698880/
+  - title: Your sex is due!
+    author: st-mya
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/699062.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 699062
+    url: /works/699062/
 ---

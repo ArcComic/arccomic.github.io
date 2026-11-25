@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "gyaru"
-work_count: 202
+work_count: 203
 works:
   - title: Kuroi Houshi Katsudou | Black Community Service
     author: blmanian
@@ -31,6 +31,13 @@ works:
     date: '2026-09-18'
     code: 333923
     url: /works/333923/
+  - title: Shiro Gal A-ko to Kuro Gal B-ko no Bitch Nyuumon
+    author: blmanian
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/339457.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 339457
+    url: /works/339457/
   - title: Gal to InCha no Kousai Shuukan. | A Week-Long Relation Between a Gyaru and
       an Introvert.
     author: tamabi

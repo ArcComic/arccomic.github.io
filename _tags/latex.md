@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "latex"
-work_count: 13
+work_count: 14
 works:
   - title: Datenshi no Yuuwaku -Office Angel Project- 1
     author: hiraoka-ryuichi
@@ -97,4 +97,11 @@ works:
     date: '2026-11-21'
     code: 698640
     url: /works/698640/
+  - title: Your sex is due!
+    author: st-mya
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/699062.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 699062
+    url: /works/699062/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "defloration"
-work_count: 326
+work_count: 327
 works:
   - title: Suteki na Kanojo
     author: moketa
@@ -174,6 +174,13 @@ works:
     date: '2026-10-26'
     code: 338006
     url: /works/338006/
+  - title: Shiro Gal A-ko to Kuro Gal B-ko no Bitch Nyuumon
+    author: blmanian
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/339457.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 339457
+    url: /works/339457/
   - title: Homestay-chu no Doitsu Musume ga Issho ni Furo ni Haitte Kuru Wake | The
       Reason Why a German Girl Takes a Bath Together With Me on Her Homestay
     author: gentsuki

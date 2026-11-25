@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "glasses"
-work_count: 377
+work_count: 379
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -201,6 +201,13 @@ works:
     date: '2026-04-17'
     code: 332375
     url: /works/332375/
+  - title: Shiro Gal A-ko to Kuro Gal B-ko no Bitch Nyuumon
+    author: blmanian
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/339457.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 339457
+    url: /works/339457/
   - title: Kyodou Fushin Joshi
     author: uds
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/339953.jpg
@@ -2756,6 +2763,13 @@ works:
     date: '2026-11-21'
     code: 698681
     url: /works/698681/
+  - title: Your sex is due!
+    author: st-mya
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/699062.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 699062
+    url: /works/699062/
   - title: Senpai, Kyou Tomatte mo Ii yo ne? 3
     author: shien
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/699118.jpg

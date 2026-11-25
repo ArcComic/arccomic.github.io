@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "drunk"
-work_count: 68
+work_count: 69
 works:
   - title: Birthday
     author: hashiba-yachi
@@ -53,6 +53,13 @@ works:
     date: '2026-10-15'
     code: 318530
     url: /works/318530/
+  - title: Shiro Gal A-ko to Kuro Gal B-ko no Bitch Nyuumon
+    author: blmanian
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/339457.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 339457
+    url: /works/339457/
   - title: Kono Koi ni Kiduite
     author: danimaru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/357965.jpg

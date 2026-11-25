@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "english"
-work_count: 2354
+work_count: 2356
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -974,6 +974,13 @@ works:
     date: '2026-10-26'
     code: 338006
     url: /works/338006/
+  - title: Shiro Gal A-ko to Kuro Gal B-ko no Bitch Nyuumon
+    author: blmanian
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/339457.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 339457
+    url: /works/339457/
   - title: Kyodou Fushin Joshi
     author: uds
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/339953.jpg
@@ -17209,6 +17216,13 @@ works:
     date: '2026-11-21'
     code: 699058
     url: /works/699058/
+  - title: Your sex is due!
+    author: st-mya
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/699062.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 699062
+    url: /works/699062/
   - title: 'Corruption: Dirty Confessions'
     author: taira
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/699097.jpg
