@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "schoolgirl uniform"
-work_count: 484
+work_count: 485
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -34,7 +34,7 @@ works:
   - title: Suteki na Kanojo
     author: moketa
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/144277.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-11-24'
     code: 144277
     url: /works/144277/
@@ -624,7 +624,7 @@ works:
   - title: Amai Aimai
     author: gosaiji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/500717.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-11-24'
     code: 500717
     url: /works/500717/
@@ -1141,7 +1141,7 @@ works:
   - title: Tanshou Ojii-san ni Yasashii Sekai
     author: gamogamo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/598006.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-24'
     code: 598006
     url: /works/598006/
@@ -1876,6 +1876,14 @@ works:
     date: '2026-05-20'
     code: 651197
     url: /works/651197/
+  - title: Manatsu no Refrain + Byotou no Fermata | Midsummer's Refrain + Fermata at
+      the End of Winter
+    author: gen
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651230.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 651230
+    url: /works/651230/
   - title: 'Namaiki Gal o Succubus ni Shite Oshioki Shitatta Ken 4  | Turning a Bratty
       Gal into a Succubus for Punishment #4'
     author: takurowo
@@ -3600,7 +3608,7 @@ works:
       Inside Her
     author: studio-huan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/699536.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-11-24'
     code: 699536
     url: /works/699536/

@@ -1,7 +1,7 @@
 ---
 layout: artist
 artist_name: "gen"
-work_count: 3
+work_count: 4
 works:
   - title: SeFri no Senpai | 學姐是我的炮友
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/494440.jpg
@@ -22,4 +22,11 @@ works:
     date: '2026-04-27'
     code: 646385
     url: /works/646385/
+  - title: Manatsu no Refrain + Byotou no Fermata | Midsummer's Refrain + Fermata at
+      the End of Winter
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651230.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 651230
+    url: /works/651230/
 ---

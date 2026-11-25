@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "glasses"
-work_count: 368
+work_count: 369
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -133,7 +133,7 @@ works:
   - title: Novum Chaldea no Kyuuketsushu-san
     author: umihotaru-harumare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/292294.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-11-24'
     code: 292294
     url: /works/292294/
@@ -487,7 +487,7 @@ works:
   - title: Hitozuma Kanrinin Kyoko 10 | The Perils of Married Manger Kyoko Part 10
     author: hoshino-ryuichi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/465424.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-11-24'
     code: 465424
     url: /works/465424/
@@ -1133,7 +1133,7 @@ works:
   - title: 'My Neighbor Ayane: One of Those Rooms'
     author: herio
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/623386.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-11-24'
     code: 623386
     url: /works/623386/
@@ -1453,6 +1453,14 @@ works:
     date: '2026-09-27'
     code: 650625
     url: /works/650625/
+  - title: Manatsu no Refrain + Byotou no Fermata | Midsummer's Refrain + Fermata at
+      the End of Winter
+    author: gen
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651230.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 651230
+    url: /works/651230/
   - title: Jill's Rehabilitation
     author: sawao
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651296.jpg
@@ -1707,7 +1715,7 @@ works:
       Saimin Gakushuu~ Chuuhen | One to One Mind Control Tutoring Ch. 2
     author: yuna
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/663604.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-11-24'
     code: 663604
     url: /works/663604/

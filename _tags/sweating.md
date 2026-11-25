@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sweating"
-work_count: 239
+work_count: 240
 works:
   - title: Kaisha de Iroiro | Gettin' Busy at the Office
     author: hara-shigeyuki
@@ -1114,6 +1114,14 @@ works:
     date: '2026-05-20'
     code: 650926
     url: /works/650926/
+  - title: Manatsu no Refrain + Byotou no Fermata | Midsummer's Refrain + Fermata at
+      the End of Winter
+    author: gen
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651230.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 651230
+    url: /works/651230/
   - title: 'Namaiki Gal o Succubus ni Shite Oshioki Shitatta Ken 4  | Turning a Bratty
       Gal into a Succubus for Punishment #4'
     author: takurowo
@@ -1785,7 +1793,7 @@ works:
   - title: The Slut Girl 4th Costume
     author: lime
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/699473.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-11-24'
     code: 699473
     url: /works/699473/

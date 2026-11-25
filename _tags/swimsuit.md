@@ -506,7 +506,7 @@ works:
       Saimin Gakushuu~ Chuuhen | One to One Mind Control Tutoring Ch. 2
     author: yuna
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/663604.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-11-24'
     code: 663604
     url: /works/663604/

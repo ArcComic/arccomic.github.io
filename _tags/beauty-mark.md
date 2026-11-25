@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "beauty mark"
-work_count: 288
+work_count: 289
 works:
   - title: Shisaienbu | My Dear Master's Charming Martial Arts
     author: etuzan-jakusui
@@ -168,6 +168,13 @@ works:
     date: '2026-11-21'
     code: 341892
     url: /works/341892/
+  - title: RICHELIEU MON AMOUR
+    author: osterei
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/349157.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 349157
+    url: /works/349157/
   - title: Miboujin no Haha ・Sayoko ~Yojouhan ni Sumu Oyako no Koubi Kiroku~| Widowed
       Mother Sayoko ~Record of a Copulation of a Mother and Son Living in a Small Room~
     author: spices
@@ -900,7 +907,7 @@ works:
   - title: Tanshou Ojii-san ni Yasashii Sekai
     author: gamogamo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/598006.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-24'
     code: 598006
     url: /works/598006/
@@ -1002,7 +1009,7 @@ works:
   - title: 'My Neighbor Ayane: One of Those Rooms'
     author: herio
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/623386.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-11-24'
     code: 623386
     url: /works/623386/

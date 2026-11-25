@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "kissing"
-work_count: 585
+work_count: 587
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -13,7 +13,7 @@ works:
   - title: Suteki na Kanojo
     author: moketa
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/144277.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-11-24'
     code: 144277
     url: /works/144277/
@@ -142,7 +142,7 @@ works:
   - title: Kimi no Todokanai Prelude | You Can't Reach Prelude
     author: osterei
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/366626.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-11-24'
     code: 366626
     url: /works/366626/
@@ -464,7 +464,7 @@ works:
   - title: Hitozuma Kanrinin Kyoko 10 | The Perils of Married Manger Kyoko Part 10
     author: hoshino-ryuichi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/465424.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-11-24'
     code: 465424
     url: /works/465424/
@@ -2242,6 +2242,14 @@ works:
     date: '2026-05-20'
     code: 651197
     url: /works/651197/
+  - title: Manatsu no Refrain + Byotou no Fermata | Midsummer's Refrain + Fermata at
+      the End of Winter
+    author: gen
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651230.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 651230
+    url: /works/651230/
   - title: Tabidachi Mae no Dai Shiren
     author: borisu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651317.jpg
@@ -3829,6 +3837,13 @@ works:
     date: '2026-10-29'
     code: 689170
     url: /works/689170/
+  - title: Hikikomori Hime no Odekake Date | Taking Hikkikomori Hime on a Date
+    author: umihotaru-harumare
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/689934.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 689934
+    url: /works/689934/
   - title: 'Fuufu Seikatsu no Tame ni Dakareru Tsuma | Bedsheet Duty: A Wife Taken for
       the Sake of Marriage'
     author: mitty
@@ -4367,14 +4382,14 @@ works:
   - title: Kaisha no Bounenkai | New Year's Company Party
     author: dokuneko-noil
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/699397.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-11-24'
     code: 699397
     url: /works/699397/
   - title: The Slut Girl 4th Costume
     author: lime
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/699473.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-11-24'
     code: 699473
     url: /works/699473/

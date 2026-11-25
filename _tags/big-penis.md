@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big penis"
-work_count: 406
+work_count: 407
 works:
   - title: Tsuma no Imouto no Danna ga Ie ni Kiteiruyoudesu | My Sister-In-Law's Husband
       is Over
@@ -2396,6 +2396,13 @@ works:
     date: '2026-11-17'
     code: 689306
     url: /works/689306/
+  - title: Hikikomori Hime no Odekake Date | Taking Hikkikomori Hime on a Date
+    author: umihotaru-harumare
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/689934.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 689934
+    url: /works/689934/
   - title: A story about how I ended up being in charge of satisfying the sexual desires
       of the female students at my new school.
     author: sakurayu-hal
@@ -3004,14 +3011,14 @@ works:
   - title: TS Drink de Nyotaika Shita Ore ga Kouhai ni Manko Kashite Mita
     author: domon
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/699232.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-24'
     code: 699232
     url: /works/699232/
   - title: Kaisha no Bounenkai | New Year's Company Party
     author: dokuneko-noil
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/699397.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-11-24'
     code: 699397
     url: /works/699397/

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "exhibitionism"
-work_count: 127
+work_count: 128
 works:
   - title: Yarimoku Kouen | Yarinookie Park [English] =TLL+mrwayne=
     author: sugi-g
@@ -219,7 +219,7 @@ works:
   - title: Tanshou Ojii-san ni Yasashii Sekai
     author: gamogamo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/598006.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-24'
     code: 598006
     url: /works/598006/
@@ -424,6 +424,14 @@ works:
     date: '2026-05-20'
     code: 650926
     url: /works/650926/
+  - title: Manatsu no Refrain + Byotou no Fermata | Midsummer's Refrain + Fermata at
+      the End of Winter
+    author: gen
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651230.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 651230
+    url: /works/651230/
   - title: Cool-kei Dansou Onna ni Kanojo Netorareta kara, Wakarasete Yatta 2
     author: kurukuru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651338.jpg
@@ -894,7 +902,7 @@ works:
   - title: Shibarareta no wa Kokoro 2 ~Konna me ni Awasarete mo Mada~
     author: orita
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696996.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-11-24'
     code: 696996
     url: /works/696996/

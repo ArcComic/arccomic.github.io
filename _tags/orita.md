@@ -63,7 +63,7 @@ works:
   - title: Shibarareta no wa Kokoro 2 ~Konna me ni Awasarete mo Mada~
     author: orita
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696996.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-11-24'
     code: 696996
     url: /works/696996/

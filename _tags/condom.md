@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "condom"
-work_count: 321
+work_count: 322
 works:
   - title: Kaisha de Iroiro | Gettin' Busy at the Office
     author: hara-shigeyuki
@@ -257,7 +257,7 @@ works:
   - title: Kimi no Todokanai Prelude | You Can't Reach Prelude
     author: osterei
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/366626.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-11-24'
     code: 366626
     url: /works/366626/
@@ -613,7 +613,7 @@ works:
   - title: Amai Aimai
     author: gosaiji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/500717.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-11-24'
     code: 500717
     url: /works/500717/
@@ -1526,6 +1526,14 @@ works:
     date: '2026-11-17'
     code: 650647
     url: /works/650647/
+  - title: Manatsu no Refrain + Byotou no Fermata | Midsummer's Refrain + Fermata at
+      the End of Winter
+    author: gen
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651230.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 651230
+    url: /works/651230/
   - title: Musume no Kawari ni | Instead of My Daughter
     author: nanao-yukiji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651309.jpg

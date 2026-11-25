@@ -315,7 +315,7 @@ works:
   - title: Hitozuma Kanrinin Kyoko 10 | The Perils of Married Manger Kyoko Part 10
     author: hoshino-ryuichi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/465424.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-11-24'
     code: 465424
     url: /works/465424/
@@ -2993,7 +2993,7 @@ works:
   - title: TS Drink de Nyotaika Shita Ore ga Kouhai ni Manko Kashite Mita
     author: domon
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/699232.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-24'
     code: 699232
     url: /works/699232/

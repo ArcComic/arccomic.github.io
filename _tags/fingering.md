@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "fingering"
-work_count: 285
+work_count: 286
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -821,7 +821,7 @@ works:
   - title: 'My Neighbor Ayane: One of Those Rooms'
     author: herio
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/623386.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-11-24'
     code: 623386
     url: /works/623386/
@@ -1120,6 +1120,14 @@ works:
     date: '2026-05-10'
     code: 649039
     url: /works/649039/
+  - title: Manatsu no Refrain + Byotou no Fermata | Midsummer's Refrain + Fermata at
+      the End of Winter
+    author: gen
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651230.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 651230
+    url: /works/651230/
   - title: Cool-kei Dansou Onna ni Kanojo Netorareta kara, Wakarasete Yatta 2
     author: kurukuru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651338.jpg
@@ -2108,7 +2116,7 @@ works:
   - title: TS Drink de Nyotaika Shita Ore ga Kouhai ni Manko Kashite Mita
     author: domon
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/699232.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-24'
     code: 699232
     url: /works/699232/

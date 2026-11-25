@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "cunnilingus"
-work_count: 266
+work_count: 267
 works:
   - title: Love Approach
     author: hanafuda-sakurano
@@ -286,7 +286,7 @@ works:
   - title: Hitozuma Kanrinin Kyoko 10 | The Perils of Married Manger Kyoko Part 10
     author: hoshino-ryuichi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/465424.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-11-24'
     code: 465424
     url: /works/465424/
@@ -775,7 +775,7 @@ works:
   - title: 'My Neighbor Ayane: One of Those Rooms'
     author: herio
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/623386.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-11-24'
     code: 623386
     url: /works/623386/
@@ -1045,6 +1045,14 @@ works:
     date: '2026-05-20'
     code: 651197
     url: /works/651197/
+  - title: Manatsu no Refrain + Byotou no Fermata | Midsummer's Refrain + Fermata at
+      the End of Winter
+    author: gen
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651230.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 651230
+    url: /works/651230/
   - title: Kyonyiu kanojo ni hitasura shibori toraremakuru hanashi | Squeeze Until Empty
     author: fuguta-ke
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651343.jpg

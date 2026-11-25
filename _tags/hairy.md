@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "hairy"
-work_count: 466
+work_count: 467
 works:
   - title: MAGIC SEVEN
     author: asuhiro
@@ -133,7 +133,7 @@ works:
   - title: Novum Chaldea no Kyuuketsushu-san
     author: umihotaru-harumare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/292294.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-11-24'
     code: 292294
     url: /works/292294/
@@ -642,7 +642,7 @@ works:
   - title: Hitozuma Kanrinin Kyoko 10 | The Perils of Married Manger Kyoko Part 10
     author: hoshino-ryuichi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/465424.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-11-24'
     code: 465424
     url: /works/465424/
@@ -801,7 +801,7 @@ works:
   - title: Amai Aimai
     author: gosaiji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/500717.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-11-24'
     code: 500717
     url: /works/500717/
@@ -1910,6 +1910,14 @@ works:
     date: '2026-09-27'
     code: 650138
     url: /works/650138/
+  - title: Manatsu no Refrain + Byotou no Fermata | Midsummer's Refrain + Fermata at
+      the End of Winter
+    author: gen
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651230.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 651230
+    url: /works/651230/
   - title: Musume no Kawari ni | Instead of My Daughter
     author: nanao-yukiji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651309.jpg
@@ -3438,7 +3446,7 @@ works:
   - title: TS Drink de Nyotaika Shita Ore ga Kouhai ni Manko Kashite Mita
     author: domon
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/699232.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-24'
     code: 699232
     url: /works/699232/

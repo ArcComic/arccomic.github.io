@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole male"
-work_count: 1328
+work_count: 1331
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -310,7 +310,7 @@ works:
   - title: Novum Chaldea no Kyuuketsushu-san
     author: umihotaru-harumare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/292294.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-11-24'
     code: 292294
     url: /works/292294/
@@ -651,6 +651,13 @@ works:
     date: '2026-09-04'
     code: 347653
     url: /works/347653/
+  - title: RICHELIEU MON AMOUR
+    author: osterei
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/349157.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 349157
+    url: /works/349157/
   - title: Miboujin no Haha ・Sayoko ~Yojouhan ni Sumu Oyako no Koubi Kiroku~| Widowed
       Mother Sayoko ~Record of a Copulation of a Mother and Son Living in a Small Room~
     author: spices
@@ -830,7 +837,7 @@ works:
   - title: Kimi no Todokanai Prelude | You Can't Reach Prelude
     author: osterei
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/366626.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-11-24'
     code: 366626
     url: /works/366626/
@@ -1651,7 +1658,7 @@ works:
   - title: Hitozuma Kanrinin Kyoko 10 | The Perils of Married Manger Kyoko Part 10
     author: hoshino-ryuichi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/465424.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-11-24'
     code: 465424
     url: /works/465424/
@@ -2033,7 +2040,7 @@ works:
   - title: Amai Aimai
     author: gosaiji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/500717.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-11-24'
     code: 500717
     url: /works/500717/
@@ -2227,7 +2234,7 @@ works:
   - title: Kensei Center | Semen Donation Center
     author: ore-no-sasakure
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/514577.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-11-24'
     code: 514577
     url: /works/514577/
@@ -2948,7 +2955,7 @@ works:
   - title: Daisuki na Kimi e ~To You Whom I Love~
     author: mgmee
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/558274.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-11-24'
     code: 558274
     url: /works/558274/
@@ -4149,7 +4156,7 @@ works:
   - title: 'My Neighbor Ayane: One of Those Rooms'
     author: herio
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/623386.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-11-24'
     code: 623386
     url: /works/623386/
@@ -5635,6 +5642,14 @@ works:
     date: '2026-05-20'
     code: 651197
     url: /works/651197/
+  - title: Manatsu no Refrain + Byotou no Fermata | Midsummer's Refrain + Fermata at
+      the End of Winter
+    author: gen
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651230.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 651230
+    url: /works/651230/
   - title: DRUG MONSTER
     author: nagisano-usagi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651298.jpg
@@ -6546,7 +6561,7 @@ works:
       Saimin Gakushuu~ Chuuhen | One to One Mind Control Tutoring Ch. 2
     author: yuna
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/663604.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-11-24'
     code: 663604
     url: /works/663604/
@@ -8271,7 +8286,7 @@ works:
   - title: RESORT LOVER
     author: herio
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684038.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-11-24'
     code: 684038
     url: /works/684038/
@@ -9116,6 +9131,13 @@ works:
     date: '2026-11-17'
     code: 689306
     url: /works/689306/
+  - title: Hikikomori Hime no Odekake Date | Taking Hikkikomori Hime on a Date
+    author: umihotaru-harumare
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/689934.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 689934
+    url: /works/689934/
   - title: 'Fuufu Seikatsu no Tame ni Dakareru Tsuma | Bedsheet Duty: A Wife Taken for
       the Sake of Marriage'
     author: mitty
@@ -9807,7 +9829,7 @@ works:
   - title: TS Drink de Nyotaika Shita Ore ga Kouhai ni Manko Kashite Mita
     author: domon
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/699232.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-24'
     code: 699232
     url: /works/699232/
@@ -9821,14 +9843,14 @@ works:
   - title: Kaisha no Bounenkai | New Year's Company Party
     author: dokuneko-noil
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/699397.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-11-24'
     code: 699397
     url: /works/699397/
   - title: The Slut Girl 4th Costume
     author: lime
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/699473.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-11-24'
     code: 699473
     url: /works/699473/

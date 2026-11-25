@@ -552,7 +552,7 @@ works:
   - title: Hitozuma Kanrinin Kyoko 10 | The Perils of Married Manger Kyoko Part 10
     author: hoshino-ryuichi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/465424.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-11-24'
     code: 465424
     url: /works/465424/
@@ -823,7 +823,7 @@ works:
   - title: Kensei Center | Semen Donation Center
     author: ore-no-sasakure
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/514577.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-11-24'
     code: 514577
     url: /works/514577/
@@ -3302,7 +3302,7 @@ works:
   - title: The Slut Girl 4th Costume
     author: lime
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/699473.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-11-24'
     code: 699473
     url: /works/699473/

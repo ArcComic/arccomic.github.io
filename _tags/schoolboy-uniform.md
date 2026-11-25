@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "schoolboy uniform"
-work_count: 155
+work_count: 156
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -27,7 +27,7 @@ works:
   - title: Suteki na Kanojo
     author: moketa
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/144277.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-11-24'
     code: 144277
     url: /works/144277/
@@ -574,6 +574,14 @@ works:
     date: '2026-05-01'
     code: 646757
     url: /works/646757/
+  - title: Manatsu no Refrain + Byotou no Fermata | Midsummer's Refrain + Fermata at
+      the End of Winter
+    author: gen
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651230.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 651230
+    url: /works/651230/
   - title: Kyonyiu kanojo ni hitasura shibori toraremakuru hanashi | Squeeze Until Empty
     author: fuguta-ke
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651343.jpg

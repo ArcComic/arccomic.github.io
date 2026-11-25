@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "very long hair"
-work_count: 92
+work_count: 93
 works:
   - title: Joshikousei Sennyuu Repo ~Hanzaisha ga Onnanoko ni Hyoui shite mita~
     author: touchuu-kasou
@@ -594,6 +594,13 @@ works:
     date: '2026-10-20'
     code: 688561
     url: /works/688561/
+  - title: Hikikomori Hime no Odekake Date | Taking Hikkikomori Hime on a Date
+    author: umihotaru-harumare
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/689934.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 689934
+    url: /works/689934/
   - title: Otaku-kun ni mo Yarasete kureru Yowayowa Chikubi no Kyonyuu Gal Sudou-san
       | Sudou-san the Busty Gyaru with Weak Nipples Who Lets Even an Otaku Do It
     author: shishamon

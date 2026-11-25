@@ -1,12 +1,12 @@
 ---
 layout: tag
 tag_name: "wholesome"
-work_count: 260
+work_count: 261
 works:
   - title: Suteki na Kanojo
     author: moketa
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/144277.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-11-24'
     code: 144277
     url: /works/144277/
@@ -373,7 +373,7 @@ works:
   - title: Amai Aimai
     author: gosaiji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/500717.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-11-24'
     code: 500717
     url: /works/500717/
@@ -874,7 +874,7 @@ works:
   - title: 'My Neighbor Ayane: One of Those Rooms'
     author: herio
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/623386.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-11-24'
     code: 623386
     url: /works/623386/
@@ -1241,6 +1241,14 @@ works:
     date: '2026-05-20'
     code: 650926
     url: /works/650926/
+  - title: Manatsu no Refrain + Byotou no Fermata | Midsummer's Refrain + Fermata at
+      the End of Winter
+    author: gen
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651230.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 651230
+    url: /works/651230/
   - title: Cool-kei Dansou Onna ni Kanojo Netorareta kara, Wakarasete Yatta 2
     author: kurukuru
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651338.jpg
@@ -1851,7 +1859,7 @@ works:
   - title: RESORT LOVER
     author: herio
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684038.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-11-24'
     code: 684038
     url: /works/684038/

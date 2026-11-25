@@ -727,7 +727,7 @@ works:
   - title: Tanshou Ojii-san ni Yasashii Sekai
     author: gamogamo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/598006.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-24'
     code: 598006
     url: /works/598006/
@@ -6294,7 +6294,7 @@ works:
   - title: Shibarareta no wa Kokoro 2 ~Konna me ni Awasarete mo Mada~
     author: orita
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696996.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-11-24'
     code: 696996
     url: /works/696996/
@@ -6405,7 +6405,7 @@ works:
   - title: TS Drink de Nyotaika Shita Ore ga Kouhai ni Manko Kashite Mita
     author: domon
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/699232.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-24'
     code: 699232
     url: /works/699232/
@@ -6413,7 +6413,7 @@ works:
       Inside Her
     author: studio-huan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/699536.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-11-24'
     code: 699536
     url: /works/699536/

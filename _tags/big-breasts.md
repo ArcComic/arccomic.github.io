@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big breasts"
-work_count: 1614
+work_count: 1615
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -694,7 +694,7 @@ works:
   - title: Kimi no Todokanai Prelude | You Can't Reach Prelude
     author: osterei
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/366626.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-11-24'
     code: 366626
     url: /works/366626/
@@ -1488,7 +1488,7 @@ works:
   - title: Hitozuma Kanrinin Kyoko 10 | The Perils of Married Manger Kyoko Part 10
     author: hoshino-ryuichi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/465424.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-11-24'
     code: 465424
     url: /works/465424/
@@ -2116,7 +2116,7 @@ works:
   - title: Kensei Center | Semen Donation Center
     author: ore-no-sasakure
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/514577.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-11-24'
     code: 514577
     url: /works/514577/
@@ -2940,7 +2940,7 @@ works:
   - title: Daisuki na Kimi e ~To You Whom I Love~
     author: mgmee
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/558274.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-11-24'
     code: 558274
     url: /works/558274/
@@ -3846,7 +3846,7 @@ works:
   - title: Tanshou Ojii-san ni Yasashii Sekai
     author: gamogamo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/598006.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-24'
     code: 598006
     url: /works/598006/
@@ -4454,7 +4454,7 @@ works:
   - title: 'My Neighbor Ayane: One of Those Rooms'
     author: herio
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/623386.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-11-24'
     code: 623386
     url: /works/623386/
@@ -9838,7 +9838,7 @@ works:
   - title: RESORT LOVER
     author: herio
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684038.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-11-24'
     code: 684038
     url: /works/684038/
@@ -10908,6 +10908,13 @@ works:
     date: '2026-11-17'
     code: 689306
     url: /works/689306/
+  - title: Hikikomori Hime no Odekake Date | Taking Hikkikomori Hime on a Date
+    author: umihotaru-harumare
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/689934.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 689934
+    url: /works/689934/
   - title: A story about how I ended up being in charge of satisfying the sexual desires
       of the female students at my new school.
     author: sakurayu-hal
@@ -11681,7 +11688,7 @@ works:
   - title: Shibarareta no wa Kokoro 2 ~Konna me ni Awasarete mo Mada~
     author: orita
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696996.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-11-24'
     code: 696996
     url: /works/696996/
@@ -11894,7 +11901,7 @@ works:
   - title: TS Drink de Nyotaika Shita Ore ga Kouhai ni Manko Kashite Mita
     author: domon
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/699232.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-24'
     code: 699232
     url: /works/699232/
@@ -11908,7 +11915,7 @@ works:
   - title: Kaisha no Bounenkai | New Year's Company Party
     author: dokuneko-noil
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/699397.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-11-24'
     code: 699397
     url: /works/699397/
@@ -11916,7 +11923,7 @@ works:
       Inside Her
     author: studio-huan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/699536.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-11-24'
     code: 699536
     url: /works/699536/

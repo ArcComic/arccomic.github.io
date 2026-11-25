@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "multi-work series"
-work_count: 533
+work_count: 535
 works:
   - title: Konna ni mo Itooshii Zero
     author: nohito
@@ -166,6 +166,13 @@ works:
     date: '2026-04-23'
     code: 342540
     url: /works/342540/
+  - title: RICHELIEU MON AMOUR
+    author: osterei
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/349157.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 349157
+    url: /works/349157/
   - title: Adlescence 06 Nozomi [English] =NSS=
     author: aoten
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/349379.jpg
@@ -2215,6 +2222,14 @@ works:
     date: '2026-05-20'
     code: 650926
     url: /works/650926/
+  - title: Manatsu no Refrain + Byotou no Fermata | Midsummer's Refrain + Fermata at
+      the End of Winter
+    author: gen
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651230.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 651230
+    url: /works/651230/
   - title: 'Namaiki Gal o Succubus ni Shite Oshioki Shitatta Ken 4  | Turning a Bratty
       Gal into a Succubus for Punishment #4'
     author: takurowo

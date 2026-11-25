@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "manga"
-work_count: 489
+work_count: 490
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -90,7 +90,7 @@ works:
   - title: Suteki na Kanojo
     author: moketa
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/144277.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-11-24'
     code: 144277
     url: /works/144277/
@@ -506,7 +506,7 @@ works:
   - title: Kimi no Todokanai Prelude | You Can't Reach Prelude
     author: osterei
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/366626.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-11-24'
     code: 366626
     url: /works/366626/
@@ -1006,7 +1006,7 @@ works:
   - title: Amai Aimai
     author: gosaiji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/500717.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-11-24'
     code: 500717
     url: /works/500717/
@@ -2057,6 +2057,14 @@ works:
     date: '2026-09-27'
     code: 650361
     url: /works/650361/
+  - title: Manatsu no Refrain + Byotou no Fermata | Midsummer's Refrain + Fermata at
+      the End of Winter
+    author: gen
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651230.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 651230
+    url: /works/651230/
   - title: M Ko
     author: takaku-tubby-shirono-mahiro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651489.jpg
@@ -2386,7 +2394,7 @@ works:
       Saimin Gakushuu~ Chuuhen | One to One Mind Control Tutoring Ch. 2
     author: yuna
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/663604.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-11-24'
     code: 663604
     url: /works/663604/
@@ -3105,7 +3113,7 @@ works:
   - title: RESORT LOVER
     author: herio
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684038.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-11-24'
     code: 684038
     url: /works/684038/
@@ -3477,7 +3485,7 @@ works:
   - title: 'Corruption: Dirty Confessions'
     author: taira
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/699097.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-11-24'
     code: 699097
     url: /works/699097/

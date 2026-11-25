@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "stockings"
-work_count: 328
+work_count: 329
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -193,6 +193,13 @@ works:
     date: '2026-04-23'
     code: 342540
     url: /works/342540/
+  - title: RICHELIEU MON AMOUR
+    author: osterei
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/349157.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 349157
+    url: /works/349157/
   - title: Senjou no Cinderella 3 | Suggestive Cinderella 3
     author: ueto-seri
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/353192.jpg
@@ -856,7 +863,7 @@ works:
   - title: 'My Neighbor Ayane: One of Those Rooms'
     author: herio
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/623386.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-11-24'
     code: 623386
     url: /works/623386/
@@ -2332,7 +2339,7 @@ works:
   - title: Shibarareta no wa Kokoro 2 ~Konna me ni Awasarete mo Mada~
     author: orita
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696996.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-11-24'
     code: 696996
     url: /works/696996/

@@ -36,7 +36,7 @@ works:
   - title: Amai Aimai
     author: gosaiji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/500717.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-11-24'
     code: 500717
     url: /works/500717/
@@ -52,7 +52,7 @@ works:
   - title: Kensei Center | Semen Donation Center
     author: ore-no-sasakure
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/514577.jpg
-    rating: 0.0
+    rating: 4.0
     date: '2026-11-24'
     code: 514577
     url: /works/514577/
