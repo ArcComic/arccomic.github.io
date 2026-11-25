@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "filming"
-work_count: 163
+work_count: 164
 works:
   - title: Ikanishite Haha wa Onna o Kaihou Shitaka Ch. 1-14
     author: mitarai-yuuki
@@ -354,6 +354,14 @@ works:
     date: '2026-09-06'
     code: 594382
     url: /works/594382/
+  - title: Ai no Omoi Kanojo wa Boku no Tame ni Hamedori o Tottekitekureru | My obsessively
+      devoted girlfriend records a sex video for me
+    author: gamogamo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/596496.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 596496
+    url: /works/596496/
   - title: Houkai Kazoku 2 -Hahaoya ga Yakuza to no Sex ni Hamatta Hanashi- | Broken
       Family 2 - The story of a mother who got hooked on sex with the Yakuza
     author: watsondou

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "defloration"
-work_count: 325
+work_count: 326
 works:
   - title: Suteki na Kanojo
     author: moketa
@@ -891,6 +891,14 @@ works:
     date: '2026-10-12'
     code: 596275
     url: /works/596275/
+  - title: Ai no Omoi Kanojo wa Boku no Tame ni Hamedori o Tottekitekureru | My obsessively
+      devoted girlfriend records a sex video for me
+    author: gamogamo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/596496.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 596496
+    url: /works/596496/
   - title: Geriatric Dragons dogma
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/596562.jpg

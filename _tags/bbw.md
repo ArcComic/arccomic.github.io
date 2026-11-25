@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bbw"
-work_count: 84
+work_count: 85
 works:
   - title: My Care Lady Ch. 1
     author: sugi-g
@@ -60,6 +60,13 @@ works:
     date: '2026-09-08'
     code: 287208
     url: /works/287208/
+  - title: Otakuhime to Ichaicha Furo | Otakuhime and the Lovey-Dovey Bath
+    author: hijiri-tsukasa
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/317091.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 317091
+    url: /works/317091/
   - title: Kanojo no Amai Jiraishuu
     author: jirou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/352215.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "fate grand order"
-work_count: 15
+work_count: 16
 works:
   - title: PERSONAL TRAINING
     author: mitsuki
@@ -24,6 +24,13 @@ works:
     date: '2026-11-24'
     code: 292294
     url: /works/292294/
+  - title: Otakuhime to Ichaicha Furo | Otakuhime and the Lovey-Dovey Bath
+    author: hijiri-tsukasa
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/317091.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 317091
+    url: /works/317091/
   - title: Mashou no Honnou | The Evil’s Instinct
     author: azukiko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/322268.jpg

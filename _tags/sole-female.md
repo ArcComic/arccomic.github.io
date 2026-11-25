@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole female"
-work_count: 1418
+work_count: 1420
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -537,6 +537,13 @@ works:
     date: '2026-10-12'
     code: 316122
     url: /works/316122/
+  - title: Otakuhime to Ichaicha Furo | Otakuhime and the Lovey-Dovey Bath
+    author: hijiri-tsukasa
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/317091.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 317091
+    url: /works/317091/
   - title: Haruka After 5
     author: tsurui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/317265.jpg
@@ -4030,6 +4037,14 @@ works:
     date: '2026-10-12'
     code: 596275
     url: /works/596275/
+  - title: Ai no Omoi Kanojo wa Boku no Tame ni Hamedori o Tottekitekureru | My obsessively
+      devoted girlfriend records a sex video for me
+    author: gamogamo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/596496.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 596496
+    url: /works/596496/
   - title: Houkai Kazoku 2 -Hahaoya ga Yakuza to no Sex ni Hamatta Hanashi- | Broken
       Family 2 - The story of a mother who got hooked on sex with the Yakuza
     author: watsondou

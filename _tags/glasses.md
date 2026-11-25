@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "glasses"
-work_count: 374
+work_count: 376
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -166,6 +166,13 @@ works:
     date: '2026-03-09'
     code: 302117
     url: /works/302117/
+  - title: Otakuhime to Ichaicha Furo | Otakuhime and the Lovey-Dovey Bath
+    author: hijiri-tsukasa
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/317091.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 317091
+    url: /works/317091/
   - title: A Wonderful New World Ch.35/?
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/325061.jpg
@@ -940,6 +947,14 @@ works:
     date: '2026-10-21'
     code: 559479
     url: /works/559479/
+  - title: Joshiryou Kanrinin no Boku wa Gal Ryousei ni Furimawasarete masu 4 | Swayed
+      by the Gals in the Girls' Dorm I Manage 4
+    author: cielo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/563293.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 563293
+    url: /works/563293/
   - title: Jimiko no Occult-bu Miyu-chan wa Bakunyuu de Yuumei | Miyu-chan is Famous
       for her Huge Breasts
     author: kurukuru

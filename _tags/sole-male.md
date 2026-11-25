@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole male"
-work_count: 1345
+work_count: 1347
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -500,6 +500,13 @@ works:
     date: '2026-09-13'
     code: 316579
     url: /works/316579/
+  - title: Otakuhime to Ichaicha Furo | Otakuhime and the Lovey-Dovey Bath
+    author: hijiri-tsukasa
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/317091.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 317091
+    url: /works/317091/
   - title: Haruka After 5
     author: tsurui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/317265.jpg
@@ -3073,6 +3080,14 @@ works:
     date: '2026-07-16'
     code: 561787
     url: /works/561787/
+  - title: Joshiryou Kanrinin no Boku wa Gal Ryousei ni Furimawasarete masu 4 | Swayed
+      by the Gals in the Girls' Dorm I Manage 4
+    author: cielo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/563293.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 563293
+    url: /works/563293/
   - title: Tennen Kaa-san ga Ero Kawai Sugiru node, Saimin Onaho Sex Shitatta! | My
       Airheaded Mom Was Too Adorably Sexy, So I Had Hypnotized Onahole Sex with Her!
     author: ginen

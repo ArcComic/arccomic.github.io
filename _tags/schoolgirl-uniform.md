@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "schoolgirl uniform"
-work_count: 490
+work_count: 491
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -1161,6 +1161,14 @@ works:
     date: '2026-03-05'
     code: 593456
     url: /works/593456/
+  - title: Ai no Omoi Kanojo wa Boku no Tame ni Hamedori o Tottekitekureru | My obsessively
+      devoted girlfriend records a sex video for me
+    author: gamogamo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/596496.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 596496
+    url: /works/596496/
   - title: Hitorijime Love Doll | Love Doll For Mine Only
     author: memeyu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/596622.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "harem"
-work_count: 64
+work_count: 65
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -97,6 +97,14 @@ works:
     date: '2026-09-25'
     code: 562201
     url: /works/562201/
+  - title: Joshiryou Kanrinin no Boku wa Gal Ryousei ni Furimawasarete masu 4 | Swayed
+      by the Gals in the Girls' Dorm I Manage 4
+    author: cielo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/563293.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 563293
+    url: /works/563293/
   - title: 1/5 no Renai Kanjou | A Fifth of Romance
     author: chicke-iii
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/568871.jpg

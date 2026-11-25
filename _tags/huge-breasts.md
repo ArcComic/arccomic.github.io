@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "huge breasts"
-work_count: 177
+work_count: 178
 works:
   - title: Mama Naranai Onna-tachi Ch. 1-2
     author: otochichi
@@ -168,6 +168,14 @@ works:
     date: '2026-04-25'
     code: 593677
     url: /works/593677/
+  - title: Ai no Omoi Kanojo wa Boku no Tame ni Hamedori o Tottekitekureru | My obsessively
+      devoted girlfriend records a sex video for me
+    author: gamogamo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/596496.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 596496
+    url: /works/596496/
   - title: Gal Mama SeFri - GAL MOTHER SEX FRIEND
     author: nitake-yutamaro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/603141.jpg

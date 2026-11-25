@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "very long hair"
-work_count: 95
+work_count: 97
 works:
+  - title: Otakuhime to Ichaicha Furo | Otakuhime and the Lovey-Dovey Bath
+    author: hijiri-tsukasa
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/317091.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 317091
+    url: /works/317091/
   - title: Joshikousei Sennyuu Repo ~Hanzaisha ga Onnanoko ni Hyoui shite mita~
     author: touchuu-kasou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/409385.jpg
@@ -127,6 +134,14 @@ works:
     date: '2026-04-16'
     code: 592744
     url: /works/592744/
+  - title: Ai no Omoi Kanojo wa Boku no Tame ni Hamedori o Tottekitekureru | My obsessively
+      devoted girlfriend records a sex video for me
+    author: gamogamo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/596496.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 596496
+    url: /works/596496/
   - title: SHAMAN'S SPECIAL SERVICE
     author: raikko9
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/597388.jpg

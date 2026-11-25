@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big penis"
-work_count: 408
+work_count: 409
 works:
   - title: Tsuma no Imouto no Danna ga Ie ni Kiteiruyoudesu | My Sister-In-Law's Husband
       is Over
@@ -733,6 +733,14 @@ works:
     date: '2026-09-29'
     code: 594884
     url: /works/594884/
+  - title: Ai no Omoi Kanojo wa Boku no Tame ni Hamedori o Tottekitekureru | My obsessively
+      devoted girlfriend records a sex video for me
+    author: gamogamo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/596496.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 596496
+    url: /works/596496/
   - title: Houkai Kazoku 2 -Hahaoya ga Yakuza to no Sex ni Hamatta Hanashi- | Broken
       Family 2 - The story of a mother who got hooked on sex with the Yakuza
     author: watsondou

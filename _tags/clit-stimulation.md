@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "clit stimulation"
-work_count: 47
+work_count: 48
 works:
   - title: Tanesaki Kaori (39), Musume no Kawari ni Doujin AV Debut  | Tanesaki Kaori
       (39) Makes Her Doujin AV Debut in Place of Her Daughter
@@ -91,6 +91,14 @@ works:
     date: '2026-10-12'
     code: 596275
     url: /works/596275/
+  - title: Ai no Omoi Kanojo wa Boku no Tame ni Hamedori o Tottekitekureru | My obsessively
+      devoted girlfriend records a sex video for me
+    author: gamogamo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/596496.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 596496
+    url: /works/596496/
   - title: Hitorijime Love Doll | Love Doll For Mine Only
     author: memeyu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/596622.jpg

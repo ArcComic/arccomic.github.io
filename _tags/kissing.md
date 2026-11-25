@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "kissing"
-work_count: 590
+work_count: 592
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -81,6 +81,13 @@ works:
     date: '2026-09-30'
     code: 312587
     url: /works/312587/
+  - title: Otakuhime to Ichaicha Furo | Otakuhime and the Lovey-Dovey Bath
+    author: hijiri-tsukasa
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/317091.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 317091
+    url: /works/317091/
   - title: Kono Furin wa Otto no Tame "Anata, Yurushite…." To, Netorareru Tsuma | 這場外遇是為了老公「親愛的，原諒我…」這樣說著，為老公戴綠帽的妻子
     author: korosuke
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/328805.jpg
@@ -1025,6 +1032,14 @@ works:
     date: '2026-04-25'
     code: 562615
     url: /works/562615/
+  - title: Joshiryou Kanrinin no Boku wa Gal Ryousei ni Furimawasarete masu 4 | Swayed
+      by the Gals in the Girls' Dorm I Manage 4
+    author: cielo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/563293.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 563293
+    url: /works/563293/
   - title: Kojirase Horny Doggy | Aggravating Horny Doggy
     author: memeyu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/563921.jpg

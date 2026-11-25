@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "pubic stubble"
-work_count: 12
+work_count: 13
 works:
   - title: Okki na Kanojo ni Amaetai | I want to be pampered by a girl of generous girth
     author: higashino-mikan
@@ -38,6 +38,14 @@ works:
     date: '2026-11-25'
     code: 558742
     url: /works/558742/
+  - title: Joshiryou Kanrinin no Boku wa Gal Ryousei ni Furimawasarete masu 4 | Swayed
+      by the Gals in the Girls' Dorm I Manage 4
+    author: cielo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/563293.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 563293
+    url: /works/563293/
   - title: Konki Girigiri Sister, Semete Shojo wo Sutetai | If I Can't Be Married At
       Least Let Me Quit Being a Virgin
     author: torii-yoshitsuna

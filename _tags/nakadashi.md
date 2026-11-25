@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "nakadashi"
-work_count: 1248
+work_count: 1251
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -309,6 +309,13 @@ works:
     date: '2026-09-13'
     code: 316579
     url: /works/316579/
+  - title: Otakuhime to Ichaicha Furo | Otakuhime and the Lovey-Dovey Bath
+    author: hijiri-tsukasa
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/317091.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 317091
+    url: /works/317091/
   - title: CHOCO x LOVE
     author: highlow
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/317673.jpg
@@ -2583,6 +2590,14 @@ works:
     date: '2026-11-12'
     code: 563149
     url: /works/563149/
+  - title: Joshiryou Kanrinin no Boku wa Gal Ryousei ni Furimawasarete masu 4 | Swayed
+      by the Gals in the Girls' Dorm I Manage 4
+    author: cielo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/563293.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 563293
+    url: /works/563293/
   - title: Soushitsu Kanojo ~Kioku o Ushinatta Kanojo wa Onna Senpai ni Netorareta~
     author: kuroshiba-suko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/563632.jpg
@@ -3200,6 +3215,14 @@ works:
     date: '2026-10-12'
     code: 596275
     url: /works/596275/
+  - title: Ai no Omoi Kanojo wa Boku no Tame ni Hamedori o Tottekitekureru | My obsessively
+      devoted girlfriend records a sex video for me
+    author: gamogamo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/596496.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 596496
+    url: /works/596496/
   - title: Houkai Kazoku 2 -Hahaoya ga Yakuza to no Sex ni Hamatta Hanashi- | Broken
       Family 2 - The story of a mother who got hooked on sex with the Yakuza
     author: watsondou

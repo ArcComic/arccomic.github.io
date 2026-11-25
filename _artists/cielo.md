@@ -1,7 +1,7 @@
 ---
 layout: artist
 artist_name: "cielo"
-work_count: 3
+work_count: 4
 works:
   - title: Watashi no Haizoku Saki wa Seishori-ka ~Kenshuu Hen~ | My Assignment is in
       the Sexual Relief Department ~Training Chapter~
@@ -17,6 +17,13 @@ works:
     date: '2026-11-25'
     code: 524054
     url: /works/524054/
+  - title: Joshiryou Kanrinin no Boku wa Gal Ryousei ni Furimawasarete masu 4 | Swayed
+      by the Gals in the Girls' Dorm I Manage 4
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/563293.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 563293
+    url: /works/563293/
   - title: Tenkou Saki no Do-Inaka de Class no Kanojyo Kouho Tachi ga Zenin Hatsujyouki
       Sugiru | I was Transferred to a Countryside School where all my Female Classmates
       are in Heat for Me

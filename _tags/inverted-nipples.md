@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "inverted nipples"
-work_count: 52
+work_count: 53
 works:
   - title: Mama Naranai Onna-tachi Ch. 1-2
     author: otochichi
@@ -101,6 +101,14 @@ works:
     date: '2026-09-08'
     code: 548015
     url: /works/548015/
+  - title: Joshiryou Kanrinin no Boku wa Gal Ryousei ni Furimawasarete masu 4 | Swayed
+      by the Gals in the Girls' Dorm I Manage 4
+    author: cielo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/563293.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 563293
+    url: /works/563293/
   - title: Ore ga Hoshikatta Mono wa Kin Medal Yori Namami Onaho Datta no Kamoshirenai｜Maybe
       what I Wanted was a Flesh and Blood Masturbator Rather than a Gold Medal
     author: carburetor

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bikini"
-work_count: 121
+work_count: 123
 works:
   - title: Kizashi
     author: yoshiura-kazuya
@@ -38,6 +38,13 @@ works:
     date: '2026-10-02'
     code: 314536
     url: /works/314536/
+  - title: Otakuhime to Ichaicha Furo | Otakuhime and the Lovey-Dovey Bath
+    author: hijiri-tsukasa
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/317091.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 317091
+    url: /works/317091/
   - title: CHOCO x LOVE
     author: highlow
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/317673.jpg
@@ -219,6 +226,14 @@ works:
     date: '2026-04-25'
     code: 562615
     url: /works/562615/
+  - title: Joshiryou Kanrinin no Boku wa Gal Ryousei ni Furimawasarete masu 4 | Swayed
+      by the Gals in the Girls' Dorm I Manage 4
+    author: cielo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/563293.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 563293
+    url: /works/563293/
   - title: 1/5 no Renai Kanjou | A Fifth of Romance
     author: chicke-iii
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/568871.jpg

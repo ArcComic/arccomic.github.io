@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "femdom"
-work_count: 262
+work_count: 263
 works:
   - title: Life with Married Women Just Like a Manga 2 - Ch. 1-5
     author: hidemaru
@@ -619,6 +619,14 @@ works:
     date: '2026-04-25'
     code: 593754
     url: /works/593754/
+  - title: Ai no Omoi Kanojo wa Boku no Tame ni Hamedori o Tottekitekureru | My obsessively
+      devoted girlfriend records a sex video for me
+    author: gamogamo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/596496.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 596496
+    url: /works/596496/
   - title: Minatoku Joshi Saionji Kyouka no Karei naru Nichijou (Kari) | The Lavish
       Daily Life of Saionji Kyouka The Minato-ku Girl
     author: takano-masayuki
