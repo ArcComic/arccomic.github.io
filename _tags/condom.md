@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "condom"
-work_count: 324
+work_count: 325
 works:
   - title: Kaisha de Iroiro | Gettin' Busy at the Office
     author: hara-shigeyuki
@@ -520,6 +520,13 @@ works:
     date: '2026-09-29'
     code: 473892
     url: /works/473892/
+  - title: Kasanete Jou Private Lesson 1
+    author: iida-toyoyuki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/479961.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 479961
+    url: /works/479961/
   - title: Hiyoko-san wa Sewazuki | Hiyoko is a Busybody
     author: maeda-momo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/480065.jpg

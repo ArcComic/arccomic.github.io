@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big breasts"
-work_count: 1623
+work_count: 1624
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -4286,6 +4286,14 @@ works:
     date: '2026-09-10'
     code: 613838
     url: /works/613838/
+  - title: Ota Gal Kanojo ga Dekita Riyuu -You no Shou- | The Reason Why I Was Able
+      to Get an Otaku Gyaru Girlfriend ~Cheerful~
+    author: mgmee
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/614110.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 614110
+    url: /works/614110/
   - title: Maso Mesu Rinjin Onahozuma ~Saikai Shita Moto SeFri o Dekachin de Saikyouiku
       suru Hanashi~
     author: onamae

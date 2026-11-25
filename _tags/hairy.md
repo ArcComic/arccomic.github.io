@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "hairy"
-work_count: 468
+work_count: 469
 works:
   - title: MAGIC SEVEN
     author: asuhiro
@@ -696,6 +696,13 @@ works:
     date: '2026-04-14'
     code: 478446
     url: /works/478446/
+  - title: Kasanete Jou Private Lesson 1
+    author: iida-toyoyuki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/479961.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 479961
+    url: /works/479961/
   - title: Onnajoushi wa Ikiwakareta Haha | My Female Boss is My Estranged Mother
     author: kumo-no-ito
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/480098.jpg

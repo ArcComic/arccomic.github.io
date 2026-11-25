@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole female"
-work_count: 1412
+work_count: 1414
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -1986,6 +1986,13 @@ works:
     date: '2026-11-21'
     code: 479720
     url: /works/479720/
+  - title: Kasanete Jou Private Lesson 1
+    author: iida-toyoyuki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/479961.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 479961
+    url: /works/479961/
   - title: Hiyoko-san wa Sewazuki | Hiyoko is a Busybody
     author: maeda-momo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/480065.jpg
@@ -4387,6 +4394,14 @@ works:
     date: '2026-10-09'
     code: 614032
     url: /works/614032/
+  - title: Ota Gal Kanojo ga Dekita Riyuu -You no Shou- | The Reason Why I Was Able
+      to Get an Otaku Gyaru Girlfriend ~Cheerful~
+    author: mgmee
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/614110.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 614110
+    url: /works/614110/
   - title: Maso Mesu Rinjin Onahozuma ~Saikai Shita Moto SeFri o Dekachin de Saikyouiku
       suru Hanashi~
     author: onamae

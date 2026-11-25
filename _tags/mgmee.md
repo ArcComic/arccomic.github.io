@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "mgmee"
-work_count: 4
+work_count: 5
 works:
   - title: Shiro Gal Kanojo ga Dekita Riyuu | The reason why i was able to get a white
       gyaru girlfriend
@@ -34,4 +34,12 @@ works:
     date: '2026-11-25'
     code: 579609
     url: /works/579609/
+  - title: Ota Gal Kanojo ga Dekita Riyuu -You no Shou- | The Reason Why I Was Able
+      to Get an Otaku Gyaru Girlfriend ~Cheerful~
+    author: mgmee
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/614110.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 614110
+    url: /works/614110/
 ---

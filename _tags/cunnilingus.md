@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "cunnilingus"
-work_count: 267
+work_count: 268
 works:
   - title: Love Approach
     author: hanafuda-sakurano
@@ -726,6 +726,14 @@ works:
     date: '2026-11-20'
     code: 613265
     url: /works/613265/
+  - title: Ota Gal Kanojo ga Dekita Riyuu -You no Shou- | The Reason Why I Was Able
+      to Get an Otaku Gyaru Girlfriend ~Cheerful~
+    author: mgmee
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/614110.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 614110
+    url: /works/614110/
   - title: Nishida Ke no Himegoto | Nishida Family Secret 1-3
     author: kojima-miu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/614205.jpg

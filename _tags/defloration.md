@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "defloration"
-work_count: 323
+work_count: 324
 works:
   - title: Suteki na Kanojo
     author: moketa
@@ -983,6 +983,14 @@ works:
     date: '2026-09-22'
     code: 612498
     url: /works/612498/
+  - title: Ota Gal Kanojo ga Dekita Riyuu -You no Shou- | The Reason Why I Was Able
+      to Get an Otaku Gyaru Girlfriend ~Cheerful~
+    author: mgmee
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/614110.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 614110
+    url: /works/614110/
   - title: Namaiki Papa Katsu Shoujo ni Seisai SEX
     author: ichinomiya-yuu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/614675.jpg

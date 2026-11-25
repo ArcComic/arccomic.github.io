@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "uncensored"
-work_count: 173
+work_count: 174
 works:
   - title: I'll be your cat
     author: napata
@@ -132,6 +132,13 @@ works:
     date: '2026-08-18'
     code: 479447
     url: /works/479447/
+  - title: Kasanete Jou Private Lesson 1
+    author: iida-toyoyuki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/479961.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 479961
+    url: /works/479961/
   - title: 'Sono Koi wa Color Code #F88CB0 | That Love is Color Code #F88CB0'
     author: chiba-toshirou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/481441.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "nakadashi"
-work_count: 1244
+work_count: 1245
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -3525,6 +3525,14 @@ works:
     date: '2026-10-09'
     code: 614032
     url: /works/614032/
+  - title: Ota Gal Kanojo ga Dekita Riyuu -You no Shou- | The Reason Why I Was Able
+      to Get an Otaku Gyaru Girlfriend ~Cheerful~
+    author: mgmee
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/614110.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 614110
+    url: /works/614110/
   - title: Maso Mesu Rinjin Onahozuma ~Saikai Shita Moto SeFri o Dekachin de Saikyouiku
       suru Hanashi~
     author: onamae

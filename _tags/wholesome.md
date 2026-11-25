@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "wholesome"
-work_count: 263
+work_count: 265
 works:
   - title: Suteki na Kanojo
     author: moketa
@@ -336,6 +336,13 @@ works:
     date: '2026-08-18'
     code: 479447
     url: /works/479447/
+  - title: Kasanete Jou Private Lesson 1
+    author: iida-toyoyuki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/479961.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 479961
+    url: /works/479961/
   - title: Hiyoko-san wa Sewazuki | Hiyoko is a Busybody
     author: maeda-momo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/480065.jpg
@@ -843,6 +850,14 @@ works:
     date: '2026-11-20'
     code: 613265
     url: /works/613265/
+  - title: Ota Gal Kanojo ga Dekita Riyuu -You no Shou- | The Reason Why I Was Able
+      to Get an Otaku Gyaru Girlfriend ~Cheerful~
+    author: mgmee
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/614110.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 614110
+    url: /works/614110/
   - title: Onna Tomodachi Futari to Perochuu suru Hanashi | A Story About Kissing 2
       Female Friends
     author: mmchair
