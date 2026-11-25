@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bbm"
-work_count: 164
+work_count: 165
 works:
   - title: Kindan no Hatemitsu
     author: ryuuta
@@ -365,6 +365,13 @@ works:
     date: '2026-09-27'
     code: 549608
     url: /works/549608/
+  - title: This is my wife. final part |  Kore ga Watashi no Tsuma desu. Kouhen
+    author: blmanian
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/558742.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 558742
+    url: /works/558742/
   - title: Ojou-sama Sodachi no Namaiki Celeb Zuma o Kitanai Ossan Chinpo de Wakaraseru
       | Cocky Rich Bitch Glam-Wife Gets Taught A Lesson With Dirty Old Man Dick
     author: chinpan

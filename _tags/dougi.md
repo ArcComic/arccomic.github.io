@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "dougi"
-work_count: 4
+work_count: 5
 works:
   - title: Little Blue Bird
     author: kidouchi-kon
@@ -10,6 +10,14 @@ works:
     date: '2026-05-01'
     code: 508534
     url: /works/508534/
+  - title: Yareba Yaru Hodo Suki ni Naru | The More We Fuck The More I Fall for You
+      Ch.1-2
+    author: ikumo-taisuke
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/620002.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 620002
+    url: /works/620002/
   - title: 'Kokujin no Tenkousei NTR ru Chapters 1-6 part 1 Plus Bonus chapter: Stolen
       Mother’s Breasts'
     author: terasu-mc

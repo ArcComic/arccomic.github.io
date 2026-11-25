@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "defloration"
-work_count: 322
+work_count: 323
 works:
   - title: Suteki na Kanojo
     author: moketa
@@ -1055,6 +1055,14 @@ works:
     date: '2026-09-18'
     code: 619717
     url: /works/619717/
+  - title: Yareba Yaru Hodo Suki ni Naru | The More We Fuck The More I Fall for You
+      Ch.1-2
+    author: ikumo-taisuke
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/620002.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 620002
+    url: /works/620002/
   - title: Seiso de Kawaii Anoko ga Sex o Shitta Hi no Hanashi. | The Day That Cute
       and Innocent Girl Experienced Sex for the First Time.
     author: yamakonbu

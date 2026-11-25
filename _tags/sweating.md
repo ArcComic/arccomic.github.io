@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sweating"
-work_count: 240
+work_count: 242
 works:
   - title: Kaisha de Iroiro | Gettin' Busy at the Office
     author: hara-shigeyuki
@@ -571,6 +571,14 @@ works:
     date: '2026-11-11'
     code: 577156
     url: /works/577156/
+  - title: Koko Jidai ni Futta Manager ga Rebechi YouCha ni Natte ita Ken | When The
+      Manager I Dumped in High School Got a Total Glow-Up
+    author: mgmee
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/579609.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 579609
+    url: /works/579609/
   - title: Her Predicaments
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/586417.jpg
@@ -717,6 +725,14 @@ works:
     date: '2026-10-26'
     code: 618565
     url: /works/618565/
+  - title: Yareba Yaru Hodo Suki ni Naru | The More We Fuck The More I Fall for You
+      Ch.1-2
+    author: ikumo-taisuke
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/620002.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 620002
+    url: /works/620002/
   - title: Seiso de Kawaii Anoko ga Sex o Shitta Hi no Hanashi. | The Day That Cute
       and Innocent Girl Experienced Sex for the First Time.
     author: yamakonbu

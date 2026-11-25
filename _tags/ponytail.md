@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "ponytail"
-work_count: 266
+work_count: 267
 works:
   - title: Ami Mami Mind 5
     author: tsurui
@@ -622,6 +622,14 @@ works:
     date: '2026-10-26'
     code: 618565
     url: /works/618565/
+  - title: Yareba Yaru Hodo Suki ni Naru | The More We Fuck The More I Fall for You
+      Ch.1-2
+    author: ikumo-taisuke
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/620002.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 620002
+    url: /works/620002/
   - title: ShotaOne Reality
     author: uyuu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/622211.jpg

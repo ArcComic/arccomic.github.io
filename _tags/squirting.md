@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "squirting"
-work_count: 228
+work_count: 229
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -501,6 +501,14 @@ works:
     date: '2026-04-27'
     code: 618562
     url: /works/618562/
+  - title: Yareba Yaru Hodo Suki ni Naru | The More We Fuck The More I Fall for You
+      Ch.1-2
+    author: ikumo-taisuke
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/620002.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 620002
+    url: /works/620002/
   - title: The Story of How My Brain Was Destroyed After Dating Someone Who Would Grant
       Any Request
     author: jakky

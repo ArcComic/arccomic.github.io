@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "multiple orgasms"
-work_count: 164
+work_count: 165
 works:
   - title: Rako Slip!
     author: bujidearu
@@ -246,6 +246,14 @@ works:
     date: '2026-05-05'
     code: 578147
     url: /works/578147/
+  - title: Koko Jidai ni Futta Manager ga Rebechi YouCha ni Natte ita Ken | When The
+      Manager I Dumped in High School Got a Total Glow-Up
+    author: mgmee
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/579609.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 579609
+    url: /works/579609/
   - title: Nanami-chan can’t resist after a date! Cafe, Cinema, Love hotel~
     author: a2me
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/579819.jpg

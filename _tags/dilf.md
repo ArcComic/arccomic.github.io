@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "dilf"
-work_count: 256
+work_count: 257
 works:
   - title: Adoration
     author: kishizuka-kenji
@@ -676,6 +676,13 @@ works:
     date: '2026-08-20'
     code: 557452
     url: /works/557452/
+  - title: This is my wife. final part |  Kore ga Watashi no Tsuma desu. Kouhen
+    author: blmanian
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/558742.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 558742
+    url: /works/558742/
   - title: Ojou-sama Sodachi no Namaiki Celeb Zuma o Kitanai Ossan Chinpo de Wakaraseru
       | Cocky Rich Bitch Glam-Wife Gets Taught A Lesson With Dirty Old Man Dick
     author: chinpan

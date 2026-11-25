@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "mgmee"
-work_count: 2
+work_count: 3
 works:
   - title: Kuro Gal Kanojo ga Dekita Riyuu | The Reason Why I Was Able to Get a Black
       Gyaru Girlfriend
@@ -18,4 +18,12 @@ works:
     date: '2026-11-24'
     code: 558274
     url: /works/558274/
+  - title: Koko Jidai ni Futta Manager ga Rebechi YouCha ni Natte ita Ken | When The
+      Manager I Dumped in High School Got a Total Glow-Up
+    author: mgmee
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/579609.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 579609
+    url: /works/579609/
 ---

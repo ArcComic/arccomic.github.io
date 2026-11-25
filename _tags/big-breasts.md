@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big breasts"
-work_count: 1619
+work_count: 1621
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -3366,6 +3366,14 @@ works:
     date: '2026-11-09'
     code: 579368
     url: /works/579368/
+  - title: Koko Jidai ni Futta Manager ga Rebechi YouCha ni Natte ita Ken | When The
+      Manager I Dumped in High School Got a Total Glow-Up
+    author: mgmee
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/579609.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 579609
+    url: /works/579609/
   - title: Kugisaki Anal Otoshi
     author: ishigaki-takashi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/579976.jpg
@@ -4407,6 +4415,14 @@ works:
     date: '2026-09-18'
     code: 619717
     url: /works/619717/
+  - title: Yareba Yaru Hodo Suki ni Naru | The More We Fuck The More I Fall for You
+      Ch.1-2
+    author: ikumo-taisuke
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/620002.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 620002
+    url: /works/620002/
   - title: Boku dake ni Amaesasete Kureru Kyonyuu JK Tsuma o Hoka no Otoko ni Dakasete
       Mita 11
     author: akire

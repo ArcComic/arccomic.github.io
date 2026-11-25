@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "virginity"
-work_count: 211
+work_count: 212
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -646,6 +646,14 @@ works:
     date: '2026-11-09'
     code: 574633
     url: /works/574633/
+  - title: Koko Jidai ni Futta Manager ga Rebechi YouCha ni Natte ita Ken | When The
+      Manager I Dumped in High School Got a Total Glow-Up
+    author: mgmee
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/579609.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 579609
+    url: /works/579609/
   - title: Anata Senyou no Niku Onaho desu | Your very own meat onahole
     author: noe
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/581946.jpg

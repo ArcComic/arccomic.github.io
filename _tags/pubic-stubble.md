@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "pubic stubble"
-work_count: 11
+work_count: 12
 works:
   - title: Okki na Kanojo ni Amaetai | I want to be pampered by a girl of generous girth
     author: higashino-mikan
@@ -31,6 +31,13 @@ works:
     date: '2026-11-17'
     code: 500221
     url: /works/500221/
+  - title: This is my wife. final part |  Kore ga Watashi no Tsuma desu. Kouhen
+    author: blmanian
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/558742.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 558742
+    url: /works/558742/
   - title: Konki Girigiri Sister, Semete Shojo wo Sutetai | If I Can't Be Married At
       Least Let Me Quit Being a Virgin
     author: torii-yoshitsuna
