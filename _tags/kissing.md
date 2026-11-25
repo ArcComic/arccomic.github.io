@@ -1365,7 +1365,7 @@ works:
       are in Heat for Me
     author: cielo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/609569.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-11-25'
     code: 609569
     url: /works/609569/
@@ -1404,7 +1404,7 @@ works:
       to Get an Otaku Gyaru Girlfriend ~Cheerful~
     author: mgmee
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/614110.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-11-25'
     code: 614110
     url: /works/614110/
@@ -1862,7 +1862,7 @@ works:
   - title: Married Women Are At A Naughty Age 3
     author: asagi-ryu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/639096.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-25'
     code: 639096
     url: /works/639096/
@@ -2270,7 +2270,7 @@ works:
       the End of Winter
     author: gen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651230.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-11-25'
     code: 651230
     url: /works/651230/
@@ -3864,7 +3864,7 @@ works:
   - title: Hikikomori Hime no Odekake Date | Taking Hikkikomori Hime on a Date
     author: umihotaru-harumare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/689934.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-11-25'
     code: 689934
     url: /works/689934/

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "x-ray"
-work_count: 535
+work_count: 537
 works:
   - title: Suteki na Kanojo
     author: moketa
@@ -379,7 +379,7 @@ works:
       That Was Doted On By The S-Rank Adventurer
     author: giga
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/435667.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-11-25'
     code: 435667
     url: /works/435667/
@@ -765,6 +765,14 @@ works:
     date: '2026-11-23'
     code: 521185
     url: /works/521185/
+  - title: Joshiryou Kanrinin no Boku wa Gal Ryousei ni Furimawasarete masu 3 | Swayed
+      by the Gals in the Girls' Dorm I Manage 3
+    author: cielo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/524054.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 524054
+    url: /works/524054/
   - title: Seijun-ha Joyu Mikage-san no Otonanoomocha | Innocent Style Actress Mikage's
       Adult Toy
     author: unknown
@@ -1369,7 +1377,7 @@ works:
       are in Heat for Me
     author: cielo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/609569.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-11-25'
     code: 609569
     url: /works/609569/
@@ -2790,7 +2798,7 @@ works:
       By My Girlfriend For A Week~
     author: onaka-emi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/677529.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-11-25'
     code: 677529
     url: /works/677529/
@@ -3530,6 +3538,13 @@ works:
     date: '2026-10-28'
     code: 691662
     url: /works/691662/
+  - title: Chilukuni (Onaka Emi)] Seiki Gyakuten 3
+    author: onaka-emi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/692844.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 692844
+    url: /works/692844/
   - title: LeveChi na Swapping 1 ~Seiheki ni Mezameru Otto Hen~
     author: hikitogu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694479.jpg

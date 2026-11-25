@@ -21,7 +21,7 @@ works:
       gyaru girlfriend
     author: mgmee
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/427301.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-11-25'
     code: 427301
     url: /works/427301/
@@ -51,7 +51,7 @@ works:
   - title: Kasanete Jou Private Lesson 1
     author: iida-toyoyuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/479961.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-11-25'
     code: 479961
     url: /works/479961/
@@ -612,7 +612,7 @@ works:
   - title: Hikikomori Hime no Odekake Date | Taking Hikkikomori Hime on a Date
     author: umihotaru-harumare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/689934.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-11-25'
     code: 689934
     url: /works/689934/

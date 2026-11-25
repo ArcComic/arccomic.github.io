@@ -6,7 +6,7 @@ works:
   - title: Kuroi Houshi Katsudou | Black Community Service
     author: blmanian
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/105637.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-11-25'
     code: 105637
     url: /works/105637/
@@ -236,7 +236,7 @@ works:
       gyaru girlfriend
     author: mgmee
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/427301.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-11-25'
     code: 427301
     url: /works/427301/
@@ -450,7 +450,7 @@ works:
       are in Heat for Me
     author: cielo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/609569.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-11-25'
     code: 609569
     url: /works/609569/
@@ -602,7 +602,7 @@ works:
       the End of Winter
     author: gen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651230.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-11-25'
     code: 651230
     url: /works/651230/

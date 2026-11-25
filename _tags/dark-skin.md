@@ -6,7 +6,7 @@ works:
   - title: Kuroi Houshi Katsudou | Black Community Service
     author: blmanian
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/105637.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-11-25'
     code: 105637
     url: /works/105637/
@@ -120,7 +120,7 @@ works:
   - title: RICHELIEU MON AMOUR Plat | Richelieu My Love Dish
     author: osterei
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/348549.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-11-25'
     code: 348549
     url: /works/348549/
@@ -264,7 +264,7 @@ works:
       Gyaru Girlfriend
     author: mgmee
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/448785.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-11-25'
     code: 448785
     url: /works/448785/

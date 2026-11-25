@@ -23,7 +23,7 @@ works:
     url: /works/686538/
   - title: Hikikomori Hime no Odekake Date | Taking Hikkikomori Hime on a Date
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/689934.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-11-25'
     code: 689934
     url: /works/689934/

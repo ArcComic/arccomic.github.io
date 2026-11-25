@@ -1,12 +1,12 @@
 ---
 layout: tag
 tag_name: "gyaru"
-work_count: 199
+work_count: 200
 works:
   - title: Kuroi Houshi Katsudou | Black Community Service
     author: blmanian
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/105637.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-11-25'
     code: 105637
     url: /works/105637/
@@ -87,7 +87,7 @@ works:
       gyaru girlfriend
     author: mgmee
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/427301.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-11-25'
     code: 427301
     url: /works/427301/
@@ -117,7 +117,7 @@ works:
       Gyaru Girlfriend
     author: mgmee
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/448785.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-11-25'
     code: 448785
     url: /works/448785/
@@ -188,6 +188,14 @@ works:
     date: '2026-04-19'
     code: 512715
     url: /works/512715/
+  - title: Joshiryou Kanrinin no Boku wa Gal Ryousei ni Furimawasarete masu 3 | Swayed
+      by the Gals in the Girls' Dorm I Manage 3
+    author: cielo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/524054.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 524054
+    url: /works/524054/
   - title: Enkkou-chan no Papakatsu Nikki 2 ~Araki Nonoka no Baai~
     author: takano-tomohiro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/524736.jpg
@@ -386,7 +394,7 @@ works:
       to Get an Otaku Gyaru Girlfriend ~Cheerful~
     author: mgmee
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/614110.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-11-25'
     code: 614110
     url: /works/614110/

@@ -463,7 +463,7 @@ works:
       are in Heat for Me
     author: cielo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/609569.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-11-25'
     code: 609569
     url: /works/609569/
@@ -514,7 +514,7 @@ works:
       Ch.1-2
     author: ikumo-taisuke
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/620002.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-11-25'
     code: 620002
     url: /works/620002/

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "tomgirl"
-work_count: 28
+work_count: 29
 works:
   - title: Nettori Netorare Ch. 1, 4-9
     author: sena-youtarou
@@ -200,6 +200,13 @@ works:
     date: '2026-10-28'
     code: 691400
     url: /works/691400/
+  - title: Chilukuni (Onaka Emi)] Seiki Gyakuten 3
+    author: onaka-emi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/692844.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 692844
+    url: /works/692844/
   - title: Slut-Only Car ~BITCH ONLY~
     author: indo-curry-in-ka-of-the-dead
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/696693.jpg

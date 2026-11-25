@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "blowjob"
-work_count: 982
+work_count: 984
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -723,7 +723,7 @@ works:
       Saimin Gakushuu~ Zenpen
     author: yuna
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/414075.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-11-25'
     code: 414075
     url: /works/414075/
@@ -805,7 +805,7 @@ works:
       gyaru girlfriend
     author: mgmee
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/427301.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-11-25'
     code: 427301
     url: /works/427301/
@@ -925,7 +925,7 @@ works:
       Gyaru Girlfriend
     author: mgmee
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/448785.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-11-25'
     code: 448785
     url: /works/448785/
@@ -1577,6 +1577,14 @@ works:
     date: '2026-08-18'
     code: 521812
     url: /works/521812/
+  - title: Joshiryou Kanrinin no Boku wa Gal Ryousei ni Furimawasarete masu 3 | Swayed
+      by the Gals in the Girls' Dorm I Manage 3
+    author: cielo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/524054.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 524054
+    url: /works/524054/
   - title: A Married Woman Tricked Into Filming ~ Former Gravure Idol Wife Gets NTR'd
       By The President's Son For Her Husbands Sake ~
     author: izuminoaru
@@ -1968,7 +1976,7 @@ works:
   - title: This is my wife. final part |  Kore ga Watashi no Tsuma desu. Kouhen
     author: blmanian
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/558742.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-11-25'
     code: 558742
     url: /works/558742/
@@ -2768,7 +2776,7 @@ works:
       to Get an Otaku Gyaru Girlfriend ~Cheerful~
     author: mgmee
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/614110.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-11-25'
     code: 614110
     url: /works/614110/
@@ -4104,7 +4112,7 @@ works:
       the End of Winter
     author: gen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651230.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-11-25'
     code: 651230
     url: /works/651230/
@@ -6584,7 +6592,7 @@ works:
   - title: Hikikomori Hime no Odekake Date | Taking Hikkikomori Hime on a Date
     author: umihotaru-harumare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/689934.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-11-25'
     code: 689934
     url: /works/689934/
@@ -6753,6 +6761,13 @@ works:
     date: '2026-11-20'
     code: 692673
     url: /works/692673/
+  - title: Chilukuni (Onaka Emi)] Seiki Gyakuten 3
+    author: onaka-emi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/692844.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 692844
+    url: /works/692844/
   - title: LeveChi na Swapping 1 ~Seiheki ni Mezameru Otto Hen~
     author: hikitogu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694479.jpg

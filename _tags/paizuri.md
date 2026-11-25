@@ -1,12 +1,12 @@
 ---
 layout: tag
 tag_name: "paizuri"
-work_count: 357
+work_count: 358
 works:
   - title: Kuroi Houshi Katsudou | Black Community Service
     author: blmanian
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/105637.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-11-25'
     code: 105637
     url: /works/105637/
@@ -196,7 +196,7 @@ works:
       Saimin Gakushuu~ Zenpen
     author: yuna
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/414075.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-11-25'
     code: 414075
     url: /works/414075/
@@ -2433,6 +2433,13 @@ works:
     date: '2026-10-28'
     code: 691671
     url: /works/691671/
+  - title: Chilukuni (Onaka Emi)] Seiki Gyakuten 3
+    author: onaka-emi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/692844.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 692844
+    url: /works/692844/
   - title: Oshiego no Downer Gal ni Shitsudo Takame ni Semeotosarechau Hanashi
     author: ayujiro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/693054.jpg

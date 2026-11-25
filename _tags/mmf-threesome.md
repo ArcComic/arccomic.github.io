@@ -78,7 +78,7 @@ works:
       the Sexual Relief Department ~Training Chapter~
     author: cielo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/460090.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-25'
     code: 460090
     url: /works/460090/
@@ -174,7 +174,7 @@ works:
   - title: This is my wife. final part |  Kore ga Watashi no Tsuma desu. Kouhen
     author: blmanian
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/558742.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-11-25'
     code: 558742
     url: /works/558742/

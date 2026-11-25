@@ -192,7 +192,7 @@ works:
   - title: RICHELIEU MON AMOUR Plat | Richelieu My Love Dish
     author: osterei
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/348549.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-11-25'
     code: 348549
     url: /works/348549/
@@ -523,7 +523,7 @@ works:
   - title: Kasanete Jou Private Lesson 1
     author: iida-toyoyuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/479961.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-11-25'
     code: 479961
     url: /works/479961/
@@ -1065,7 +1065,7 @@ works:
       are in Heat for Me
     author: cielo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/609569.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-11-25'
     code: 609569
     url: /works/609569/
@@ -1325,7 +1325,7 @@ works:
   - title: Married Women Are At A Naughty Age 3
     author: asagi-ryu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/639096.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-25'
     code: 639096
     url: /works/639096/
@@ -1560,7 +1560,7 @@ works:
       the End of Winter
     author: gen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651230.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-11-25'
     code: 651230
     url: /works/651230/
@@ -1886,7 +1886,7 @@ works:
       By My Girlfriend For A Week~
     author: onaka-emi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/677529.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-11-25'
     code: 677529
     url: /works/677529/

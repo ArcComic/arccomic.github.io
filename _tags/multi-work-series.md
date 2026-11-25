@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "multi-work series"
-work_count: 539
+work_count: 541
 works:
   - title: Konna ni mo Itooshii Zero
     author: nohito
@@ -169,14 +169,14 @@ works:
   - title: RICHELIEU MON AMOUR Plat | Richelieu My Love Dish
     author: osterei
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/348549.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-11-25'
     code: 348549
     url: /works/348549/
   - title: RICHELIEU MON AMOUR
     author: osterei
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/349157.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-11-25'
     code: 349157
     url: /works/349157/
@@ -413,7 +413,7 @@ works:
       Gyaru Girlfriend
     author: mgmee
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/448785.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-11-25'
     code: 448785
     url: /works/448785/
@@ -763,6 +763,14 @@ works:
     date: '2026-10-18'
     code: 521894
     url: /works/521894/
+  - title: Joshiryou Kanrinin no Boku wa Gal Ryousei ni Furimawasarete masu 3 | Swayed
+      by the Gals in the Girls' Dorm I Manage 3
+    author: cielo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/524054.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 524054
+    url: /works/524054/
   - title: Motto♥ Okki na Saori-chan wa Fukiyou ni Eroi
     author: aramaki-echizen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/524436.jpg
@@ -1100,7 +1108,7 @@ works:
   - title: Kimi to Himitsu no Upload 1 | Our Secret Upload 1
     author: shinima
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/567862.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-11-25'
     code: 567862
     url: /works/567862/
@@ -1490,7 +1498,7 @@ works:
       to Get an Otaku Gyaru Girlfriend ~Cheerful~
     author: mgmee
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/614110.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-11-25'
     code: 614110
     url: /works/614110/
@@ -2256,7 +2264,7 @@ works:
       the End of Winter
     author: gen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651230.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-11-25'
     code: 651230
     url: /works/651230/
@@ -3823,6 +3831,13 @@ works:
     date: '2026-10-28'
     code: 691636
     url: /works/691636/
+  - title: Chilukuni (Onaka Emi)] Seiki Gyakuten 3
+    author: onaka-emi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/692844.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 692844
+    url: /works/692844/
   - title: Schale Senzoku Seishori Touban 2 | Person in charge of handling Schale-exclusive
       matters 2
     author: signo-mandara

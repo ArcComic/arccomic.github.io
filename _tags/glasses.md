@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "glasses"
-work_count: 373
+work_count: 374
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -20,7 +20,7 @@ works:
   - title: Kuroi Houshi Katsudou | Black Community Service
     author: blmanian
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/105637.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-11-25'
     code: 105637
     url: /works/105637/
@@ -364,7 +364,7 @@ works:
       Saimin Gakushuu~ Zenpen
     author: yuna
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/414075.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-11-25'
     code: 414075
     url: /works/414075/
@@ -496,7 +496,7 @@ works:
       the Sexual Relief Department ~Training Chapter~
     author: cielo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/460090.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-25'
     code: 460090
     url: /works/460090/
@@ -760,6 +760,14 @@ works:
     date: '2026-08-25'
     code: 518387
     url: /works/518387/
+  - title: Joshiryou Kanrinin no Boku wa Gal Ryousei ni Furimawasarete masu 3 | Swayed
+      by the Gals in the Girls' Dorm I Manage 3
+    author: cielo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/524054.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 524054
+    url: /works/524054/
   - title: Shuuden Deisui Anken
     author: uds
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/525085.jpg
@@ -920,7 +928,7 @@ works:
   - title: This is my wife. final part |  Kore ga Watashi no Tsuma desu. Kouhen
     author: blmanian
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/558742.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-11-25'
     code: 558742
     url: /works/558742/
@@ -1487,7 +1495,7 @@ works:
       the End of Winter
     author: gen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651230.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-11-25'
     code: 651230
     url: /works/651230/

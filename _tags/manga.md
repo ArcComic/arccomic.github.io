@@ -13,7 +13,7 @@ works:
   - title: Kuroi Houshi Katsudou | Black Community Service
     author: blmanian
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/105637.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-11-25'
     code: 105637
     url: /works/105637/
@@ -694,7 +694,7 @@ works:
       Saimin Gakushuu~ Zenpen
     author: yuna
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/414075.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-11-25'
     code: 414075
     url: /works/414075/
@@ -1414,7 +1414,7 @@ works:
   - title: This is my wife. final part |  Kore ga Watashi no Tsuma desu. Kouhen
     author: blmanian
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/558742.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-11-25'
     code: 558742
     url: /works/558742/
@@ -1840,7 +1840,7 @@ works:
       Ch.1-2
     author: ikumo-taisuke
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/620002.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-11-25'
     code: 620002
     url: /works/620002/
@@ -1974,7 +1974,7 @@ works:
   - title: Married Women Are At A Naughty Age 3
     author: asagi-ryu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/639096.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-25'
     code: 639096
     url: /works/639096/
@@ -2098,7 +2098,7 @@ works:
       the End of Winter
     author: gen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651230.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-11-25'
     code: 651230
     url: /works/651230/

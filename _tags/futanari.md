@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "futanari"
-work_count: 31
+work_count: 32
 works:
   - title: Tempt & Throb
     author: mushihara
@@ -203,6 +203,13 @@ works:
     date: '2026-10-15'
     code: 687701
     url: /works/687701/
+  - title: Chilukuni (Onaka Emi)] Seiki Gyakuten 3
+    author: onaka-emi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/692844.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 692844
+    url: /works/692844/
   - title: TS Onii-chan ~Ecchi na Jisshou Jiken de Kanzen Mesu Ochi o Jinin suru Hanashi~
     author: kuroshiba-suko
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694781.jpg

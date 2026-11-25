@@ -251,7 +251,7 @@ works:
       That Was Doted On By The S-Rank Adventurer
     author: giga
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/435667.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-11-25'
     code: 435667
     url: /works/435667/
@@ -274,7 +274,7 @@ works:
       Gyaru Girlfriend
     author: mgmee
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/448785.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-11-25'
     code: 448785
     url: /works/448785/
@@ -339,7 +339,7 @@ works:
   - title: Kasanete Jou Private Lesson 1
     author: iida-toyoyuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/479961.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-11-25'
     code: 479961
     url: /works/479961/
@@ -854,7 +854,7 @@ works:
       to Get an Otaku Gyaru Girlfriend ~Cheerful~
     author: mgmee
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/614110.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-11-25'
     code: 614110
     url: /works/614110/
@@ -1276,7 +1276,7 @@ works:
       the End of Winter
     author: gen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651230.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-11-25'
     code: 651230
     url: /works/651230/

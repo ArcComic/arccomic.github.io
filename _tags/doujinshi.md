@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "doujinshi"
-work_count: 1932
+work_count: 1934
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -672,14 +672,14 @@ works:
   - title: RICHELIEU MON AMOUR Plat | Richelieu My Love Dish
     author: osterei
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/348549.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-11-25'
     code: 348549
     url: /works/348549/
   - title: RICHELIEU MON AMOUR
     author: osterei
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/349157.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-11-25'
     code: 349157
     url: /works/349157/
@@ -1388,7 +1388,7 @@ works:
       gyaru girlfriend
     author: mgmee
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/427301.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-11-25'
     code: 427301
     url: /works/427301/
@@ -1483,7 +1483,7 @@ works:
       That Was Doted On By The S-Rank Adventurer
     author: giga
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/435667.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-11-25'
     code: 435667
     url: /works/435667/
@@ -1666,7 +1666,7 @@ works:
       Gyaru Girlfriend
     author: mgmee
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/448785.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-11-25'
     code: 448785
     url: /works/448785/
@@ -1811,7 +1811,7 @@ works:
       the Sexual Relief Department ~Training Chapter~
     author: cielo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/460090.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-25'
     code: 460090
     url: /works/460090/
@@ -2063,7 +2063,7 @@ works:
   - title: Kasanete Jou Private Lesson 1
     author: iida-toyoyuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/479961.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-11-25'
     code: 479961
     url: /works/479961/
@@ -2854,6 +2854,14 @@ works:
     date: '2026-09-27'
     code: 523955
     url: /works/523955/
+  - title: Joshiryou Kanrinin no Boku wa Gal Ryousei ni Furimawasarete masu 3 | Swayed
+      by the Gals in the Girls' Dorm I Manage 3
+    author: cielo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/524054.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 524054
+    url: /works/524054/
   - title: Motto♥ Okki na Saori-chan wa Fukiyou ni Eroi
     author: aramaki-echizen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/524436.jpg
@@ -3942,7 +3950,7 @@ works:
   - title: Kimi to Himitsu no Upload 1 | Our Secret Upload 1
     author: shinima
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/567862.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-11-25'
     code: 567862
     url: /works/567862/
@@ -4173,7 +4181,7 @@ works:
       Manager I Dumped in High School Got a Total Glow-Up
     author: mgmee
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/579609.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-11-25'
     code: 579609
     url: /works/579609/
@@ -4968,7 +4976,7 @@ works:
       are in Heat for Me
     author: cielo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/609569.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-11-25'
     code: 609569
     url: /works/609569/
@@ -5118,7 +5126,7 @@ works:
       to Get an Otaku Gyaru Girlfriend ~Cheerful~
     author: mgmee
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/614110.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-11-25'
     code: 614110
     url: /works/614110/
@@ -10369,7 +10377,7 @@ works:
       By My Girlfriend For A Week~
     author: onaka-emi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/677529.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-11-25'
     code: 677529
     url: /works/677529/
@@ -13284,7 +13292,7 @@ works:
   - title: Hikikomori Hime no Odekake Date | Taking Hikkikomori Hime on a Date
     author: umihotaru-harumare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/689934.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-11-25'
     code: 689934
     url: /works/689934/
@@ -13523,6 +13531,13 @@ works:
     date: '2026-11-20'
     code: 692247
     url: /works/692247/
+  - title: Chilukuni (Onaka Emi)] Seiki Gyakuten 3
+    author: onaka-emi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/692844.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 692844
+    url: /works/692844/
   - title: Oshiego no Downer Gal ni Shitsudo Takame ni Semeotosarechau Hanashi
     author: ayujiro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/693054.jpg

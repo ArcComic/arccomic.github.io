@@ -699,7 +699,7 @@ works:
   - title: Kasanete Jou Private Lesson 1
     author: iida-toyoyuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/479961.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-11-25'
     code: 479961
     url: /works/479961/
@@ -1725,7 +1725,7 @@ works:
   - title: Married Women Are At A Naughty Age 3
     author: asagi-ryu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/639096.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-25'
     code: 639096
     url: /works/639096/
@@ -1928,7 +1928,7 @@ works:
       the End of Winter
     author: gen
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/651230.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-11-25'
     code: 651230
     url: /works/651230/

@@ -311,7 +311,7 @@ works:
   - title: RICHELIEU MON AMOUR Plat | Richelieu My Love Dish
     author: osterei
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/348549.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-11-25'
     code: 348549
     url: /works/348549/
@@ -1635,7 +1635,7 @@ works:
   - title: This is my wife. final part |  Kore ga Watashi no Tsuma desu. Kouhen
     author: blmanian
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/558742.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-11-25'
     code: 558742
     url: /works/558742/
@@ -2502,7 +2502,7 @@ works:
   - title: Married Women Are At A Naughty Age 3
     author: asagi-ryu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/639096.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-25'
     code: 639096
     url: /works/639096/
