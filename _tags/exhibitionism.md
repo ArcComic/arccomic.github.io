@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "exhibitionism"
-work_count: 128
+work_count: 129
 works:
   - title: Yarimoku Kouen | Yarinookie Park [English] =TLL+mrwayne=
     author: sugi-g
@@ -261,6 +261,15 @@ works:
     date: '2026-11-08'
     code: 606648
     url: /works/606648/
+  - title: Tenkou Saki no Do-Inaka de Class no Kanojyo Kouho Tachi ga Zenin Hatsujyouki
+      Sugiru | I was Transferred to a Countryside School where all my Female Classmates
+      are in Heat for Me
+    author: cielo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/609569.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 609569
+    url: /works/609569/
   - title: Oku-sama Shachou wa Miraretai | Madam President Wants to Be Seen
     author: minamida-usuke
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/615333.jpg

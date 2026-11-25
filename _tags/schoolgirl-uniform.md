@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "schoolgirl uniform"
-work_count: 488
+work_count: 490
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -983,6 +983,13 @@ works:
     date: '2026-11-12'
     code: 565597
     url: /works/565597/
+  - title: Kimi to Himitsu no Upload 1 | Our Secret Upload 1
+    author: shinima
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/567862.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 567862
+    url: /works/567862/
   - title: NIKKE Icha Love Ero Goudou "NIKKE☆Lover" | NIKKE Lovey-Dovey Ero Compendium
       "NIKKE☆Lover"
     author: kumakiti
@@ -1248,6 +1255,15 @@ works:
     date: '2026-11-10'
     code: 608450
     url: /works/608450/
+  - title: Tenkou Saki no Do-Inaka de Class no Kanojyo Kouho Tachi ga Zenin Hatsujyouki
+      Sugiru | I was Transferred to a Countryside School where all my Female Classmates
+      are in Heat for Me
+    author: cielo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/609569.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 609569
+    url: /works/609569/
   - title: Zenin Mukuwarenai Harem | A Harem Where No One Is Reciprocated
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/610041.jpg

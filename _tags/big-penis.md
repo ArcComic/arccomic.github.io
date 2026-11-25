@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big penis"
-work_count: 407
+work_count: 408
 works:
   - title: Tsuma no Imouto no Danna ga Ie ni Kiteiruyoudesu | My Sister-In-Law's Husband
       is Over
@@ -1779,6 +1779,14 @@ works:
     date: '2026-10-09'
     code: 677170
     url: /works/677170/
+  - title: Seiki Gyakuten Kanojo ni Dakareru Nanokakan | Genital Swap ~Being Fucked
+      By My Girlfriend For A Week~
+    author: onaka-emi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/677529.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 677529
+    url: /works/677529/
   - title: Yattemiro yo Koibito Doushi ga Yaru Love Love H tte Yatsu o Yoo | Let's Try
       it Out! The Thing that They Call Lovey-Dovey Sex Between Lovers
     author: basoba

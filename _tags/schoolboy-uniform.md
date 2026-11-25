@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "schoolboy uniform"
-work_count: 158
+work_count: 159
 works:
   - title: Kuroi Houshi Katsudou | Black Community Service
     author: blmanian
@@ -445,6 +445,15 @@ works:
     date: '2026-09-12'
     code: 606563
     url: /works/606563/
+  - title: Tenkou Saki no Do-Inaka de Class no Kanojyo Kouho Tachi ga Zenin Hatsujyouki
+      Sugiru | I was Transferred to a Countryside School where all my Female Classmates
+      are in Heat for Me
+    author: cielo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/609569.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 609569
+    url: /works/609569/
   - title: Kimiha Bokuno Keikokuno Bijyo | You're the Woman of my Dreams
     author: yasson-yoshiyuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/618098.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "eye-covering bang"
-work_count: 114
+work_count: 115
 works:
   - title: Kanojo no Amai Jiraishuu
     author: jirou
@@ -520,6 +520,14 @@ works:
     date: '2026-08-22'
     code: 674950
     url: /works/674950/
+  - title: Seiki Gyakuten Kanojo ni Dakareru Nanokakan | Genital Swap ~Being Fucked
+      By My Girlfriend For A Week~
+    author: onaka-emi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/677529.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 677529
+    url: /works/677529/
   - title: Motoyan Hitozuma Taiiku Kyoushi, Onsen Ryokan nite Kyouei Mizugi de Ochiru
       | Former delinquent housewife PE teacher, falls in a hot spring inn while wearing
       a competitive swimsuit

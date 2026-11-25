@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "condom"
-work_count: 325
+work_count: 327
 works:
   - title: Kaisha de Iroiro | Gettin' Busy at the Office
     author: hara-shigeyuki
@@ -1060,6 +1060,15 @@ works:
     date: '2026-09-18'
     code: 608159
     url: /works/608159/
+  - title: Tenkou Saki no Do-Inaka de Class no Kanojyo Kouho Tachi ga Zenin Hatsujyouki
+      Sugiru | I was Transferred to a Countryside School where all my Female Classmates
+      are in Heat for Me
+    author: cielo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/609569.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 609569
+    url: /works/609569/
   - title: Zenin Mukuwarenai Harem | A Harem Where No One Is Reciprocated
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/610041.jpg
@@ -1873,6 +1882,14 @@ works:
     date: '2026-09-04'
     code: 677418
     url: /works/677418/
+  - title: Seiki Gyakuten Kanojo ni Dakareru Nanokakan | Genital Swap ~Being Fucked
+      By My Girlfriend For A Week~
+    author: onaka-emi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/677529.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 677529
+    url: /works/677529/
   - title: Yattemiro yo Koibito Doushi ga Yaru Love Love H tte Yatsu o Yoo | Let's Try
       it Out! The Thing that They Call Lovey-Dovey Sex Between Lovers
     author: basoba

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "x-ray"
-work_count: 533
+work_count: 535
 works:
   - title: Suteki na Kanojo
     author: moketa
@@ -1364,6 +1364,15 @@ works:
     date: '2026-10-12'
     code: 609238
     url: /works/609238/
+  - title: Tenkou Saki no Do-Inaka de Class no Kanojyo Kouho Tachi ga Zenin Hatsujyouki
+      Sugiru | I was Transferred to a Countryside School where all my Female Classmates
+      are in Heat for Me
+    author: cielo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/609569.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 609569
+    url: /works/609569/
   - title: Zenin Mukuwarenai Harem | A Harem Where No One Is Reciprocated
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/610041.jpg
@@ -2777,6 +2786,14 @@ works:
     date: '2026-10-12'
     code: 677284
     url: /works/677284/
+  - title: Seiki Gyakuten Kanojo ni Dakareru Nanokakan | Genital Swap ~Being Fucked
+      By My Girlfriend For A Week~
+    author: onaka-emi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/677529.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 677529
+    url: /works/677529/
   - title: Nijigen Otaku no Ore ga Tenkou Shite Kita Kyonyuu Idol ni Otosareru made
       - A 2D Otaku Falls for the Curvy Idol Transfer Student | How I, a 2D-Obsessed
       Otaku, Fell for the Busty Idol Who Transferred to My School

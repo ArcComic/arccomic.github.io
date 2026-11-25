@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "futanarization"
-work_count: 7
+work_count: 8
 works:
   - title: Nonke datta Kanojo ga Futanari Shinyuu ni NTR made | My Girlfriend and Her
       Best Friend Who NTR'd Me
@@ -40,6 +40,14 @@ works:
     date: '2026-08-20'
     code: 674328
     url: /works/674328/
+  - title: Seiki Gyakuten Kanojo ni Dakareru Nanokakan | Genital Swap ~Being Fucked
+      By My Girlfriend For A Week~
+    author: onaka-emi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/677529.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 677529
+    url: /works/677529/
   - title: The Evil Mask 6
     author: aquotz
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/682882.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "translated"
-work_count: 2269
+work_count: 2272
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -5001,6 +5001,13 @@ works:
     date: '2026-04-17'
     code: 567843
     url: /works/567843/
+  - title: Kimi to Himitsu no Upload 1 | Our Secret Upload 1
+    author: shinima
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/567862.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 567862
+    url: /works/567862/
   - title: Atashi wo…. | Use me...
     author: orita
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/567893.jpg
@@ -6213,6 +6220,15 @@ works:
     date: '2026-10-12'
     code: 609238
     url: /works/609238/
+  - title: Tenkou Saki no Do-Inaka de Class no Kanojyo Kouho Tachi ga Zenin Hatsujyouki
+      Sugiru | I was Transferred to a Countryside School where all my Female Classmates
+      are in Heat for Me
+    author: cielo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/609569.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 609569
+    url: /works/609569/
   - title: Alola no Yoru no Sugata Soushuuhen | Aloha Night Compilation
     author: kurosu-gatari
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/609650.jpg
@@ -12237,6 +12253,14 @@ works:
     date: '2026-09-12'
     code: 677525
     url: /works/677525/
+  - title: Seiki Gyakuten Kanojo ni Dakareru Nanokakan | Genital Swap ~Being Fucked
+      By My Girlfriend For A Week~
+    author: onaka-emi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/677529.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 677529
+    url: /works/677529/
   - title: Nijigen Otaku no Ore ga Tenkou Shite Kita Kyonyuu Idol ni Otosareru made
       - A 2D Otaku Falls for the Curvy Idol Transfer Student | How I, a 2D-Obsessed
       Otaku, Fell for the Busty Idol Who Transferred to My School

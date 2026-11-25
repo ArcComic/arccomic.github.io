@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "gender bender"
-work_count: 69
+work_count: 70
 works:
   - title: Natsu no Hyoui
     author: yuniba
@@ -356,6 +356,14 @@ works:
     date: '2026-08-31'
     code: 677230
     url: /works/677230/
+  - title: Seiki Gyakuten Kanojo ni Dakareru Nanokakan | Genital Swap ~Being Fucked
+      By My Girlfriend For A Week~
+    author: onaka-emi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/677529.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 677529
+    url: /works/677529/
   - title: Shiofuki wa Omorashi ni Hairimasu ka? | Does squirting count as wetting yourself?
     author: hoshina-meito
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/679599.jpg

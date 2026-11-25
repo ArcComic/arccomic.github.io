@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "nakadashi"
-work_count: 1245
+work_count: 1246
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -2651,6 +2651,13 @@ works:
     date: '2026-04-17'
     code: 567843
     url: /works/567843/
+  - title: Kimi to Himitsu no Upload 1 | Our Secret Upload 1
+    author: shinima
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/567862.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 567862
+    url: /works/567862/
   - title: Atashi wo…. | Use me...
     author: orita
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/567893.jpg

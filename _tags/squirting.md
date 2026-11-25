@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "squirting"
-work_count: 229
+work_count: 230
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -458,6 +458,15 @@ works:
     date: '2026-09-18'
     code: 608519
     url: /works/608519/
+  - title: Tenkou Saki no Do-Inaka de Class no Kanojyo Kouho Tachi ga Zenin Hatsujyouki
+      Sugiru | I was Transferred to a Countryside School where all my Female Classmates
+      are in Heat for Me
+    author: cielo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/609569.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 609569
+    url: /works/609569/
   - title: Zenin Mukuwarenai Harem | A Harem Where No One Is Reciprocated
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/610041.jpg
