@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big breasts"
-work_count: 1616
+work_count: 1619
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -10,6 +10,13 @@ works:
     date: '2026-04-17'
     code: 103680
     url: /works/103680/
+  - title: Kuroi Houshi Katsudou | Black Community Service
+    author: blmanian
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/105637.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 105637
+    url: /works/105637/
   - title: MAGIC SEVEN
     author: asuhiro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/106500.jpg
@@ -556,6 +563,13 @@ works:
     date: '2026-07-08'
     code: 346416
     url: /works/346416/
+  - title: RICHELIEU MON AMOUR Plat | Richelieu My Love Dish
+    author: osterei
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/348549.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 348549
+    url: /works/348549/
   - title: Hito no Tsuma | Someone's Wife
     author: yumi-ichirou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/349247.jpg
@@ -1368,6 +1382,14 @@ works:
     date: '2026-04-23'
     code: 448503
     url: /works/448503/
+  - title: Kuro Gal Kanojo ga Dekita Riyuu | The Reason Why I Was Able to Get a Black
+      Gyaru Girlfriend
+    author: mgmee
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/448785.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 448785
+    url: /works/448785/
   - title: Ichizu na Onee-san to Saikaishitara Dosukebe Kyuukonsarete Sex Tsukeninaru
       Hanashi | After Reuniting with the Onee-san Who is Fixated on Me, I was Proposed
       to with Sex and Got Addicted

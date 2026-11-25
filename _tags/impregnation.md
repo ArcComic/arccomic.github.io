@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "impregnation"
-work_count: 224
+work_count: 225
 works:
   - title: Kousa suru Osu to Mesu | Male and Female Crossing
     author: ootsuka-kotora
@@ -94,6 +94,13 @@ works:
     date: '2026-11-21'
     code: 329864
     url: /works/329864/
+  - title: RICHELIEU MON AMOUR Plat | Richelieu My Love Dish
+    author: osterei
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/348549.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 348549
+    url: /works/348549/
   - title: Hito no Tsuma | Someone's Wife
     author: yumi-ichirou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/349247.jpg

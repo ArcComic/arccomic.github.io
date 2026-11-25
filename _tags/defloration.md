@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "defloration"
-work_count: 321
+work_count: 322
 works:
   - title: Suteki na Kanojo
     author: moketa
@@ -444,6 +444,14 @@ works:
     date: '2026-03-03'
     code: 447900
     url: /works/447900/
+  - title: Kuro Gal Kanojo ga Dekita Riyuu | The Reason Why I Was Able to Get a Black
+      Gyaru Girlfriend
+    author: mgmee
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/448785.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 448785
+    url: /works/448785/
   - title: Ichizu na Onee-san to Saikaishitara Dosukebe Kyuukonsarete Sex Tsukeninaru
       Hanashi | After Reuniting with the Onee-san Who is Fixated on Me, I was Proposed
       to with Sex and Got Addicted

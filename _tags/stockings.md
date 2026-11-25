@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "stockings"
-work_count: 329
+work_count: 330
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -193,6 +193,13 @@ works:
     date: '2026-04-23'
     code: 342540
     url: /works/342540/
+  - title: RICHELIEU MON AMOUR Plat | Richelieu My Love Dish
+    author: osterei
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/348549.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 348549
+    url: /works/348549/
   - title: RICHELIEU MON AMOUR
     author: osterei
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/349157.jpg

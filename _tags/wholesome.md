@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "wholesome"
-work_count: 262
+work_count: 263
 works:
   - title: Suteki na Kanojo
     author: moketa
@@ -270,6 +270,14 @@ works:
     date: '2026-08-23'
     code: 441114
     url: /works/441114/
+  - title: Kuro Gal Kanojo ga Dekita Riyuu | The Reason Why I Was Able to Get a Black
+      Gyaru Girlfriend
+    author: mgmee
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/448785.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 448785
+    url: /works/448785/
   - title: Omochikaeri shite Ageru kara | I'll Give You A One-Night Stand
     author: borusiti
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/449069.jpg

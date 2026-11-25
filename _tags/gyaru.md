@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "gyaru"
-work_count: 195
+work_count: 197
 works:
+  - title: Kuroi Houshi Katsudou | Black Community Service
+    author: blmanian
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/105637.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 105637
+    url: /works/105637/
   - title: GalPa!
     author: sakagami-umi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/208522.jpg
@@ -98,6 +105,14 @@ works:
     date: '2026-08-23'
     code: 441114
     url: /works/441114/
+  - title: Kuro Gal Kanojo ga Dekita Riyuu | The Reason Why I Was Able to Get a Black
+      Gyaru Girlfriend
+    author: mgmee
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/448785.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 448785
+    url: /works/448785/
   - title: Sukina Hito, Sukina Koto
     author: ebi-fry-teishoku
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/452482.jpg

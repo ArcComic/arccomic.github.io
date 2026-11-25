@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "beauty mark"
-work_count: 290
+work_count: 292
 works:
   - title: Shisaienbu | My Dear Master's Charming Martial Arts
     author: etuzan-jakusui
@@ -168,6 +168,13 @@ works:
     date: '2026-11-21'
     code: 341892
     url: /works/341892/
+  - title: RICHELIEU MON AMOUR Plat | Richelieu My Love Dish
+    author: osterei
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/348549.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 348549
+    url: /works/348549/
   - title: RICHELIEU MON AMOUR
     author: osterei
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/349157.jpg
@@ -357,6 +364,14 @@ works:
     date: '2026-11-20'
     code: 446943
     url: /works/446943/
+  - title: Kuro Gal Kanojo ga Dekita Riyuu | The Reason Why I Was Able to Get a Black
+      Gyaru Girlfriend
+    author: mgmee
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/448785.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 448785
+    url: /works/448785/
   - title: Otonari no Darashina Onee-san ni Nagusamerareru Hanashi | Comforted by the
       Sloppy Girl Next Door
     author: shouji-nigou

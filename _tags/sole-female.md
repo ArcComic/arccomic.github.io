@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole female"
-work_count: 1404
+work_count: 1407
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -10,6 +10,13 @@ works:
     date: '2026-10-09'
     code: 103606
     url: /works/103606/
+  - title: Kuroi Houshi Katsudou | Black Community Service
+    author: blmanian
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/105637.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 105637
+    url: /works/105637/
   - title: Shiburin-ppoi no!
     author: napata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/106821.jpg
@@ -717,6 +724,13 @@ works:
     date: '2026-09-04'
     code: 347653
     url: /works/347653/
+  - title: RICHELIEU MON AMOUR Plat | Richelieu My Love Dish
+    author: osterei
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/348549.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 348549
+    url: /works/348549/
   - title: RICHELIEU MON AMOUR
     author: osterei
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/349157.jpg
@@ -1628,6 +1642,14 @@ works:
     date: '2026-03-03'
     code: 447900
     url: /works/447900/
+  - title: Kuro Gal Kanojo ga Dekita Riyuu | The Reason Why I Was Able to Get a Black
+      Gyaru Girlfriend
+    author: mgmee
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/448785.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 448785
+    url: /works/448785/
   - title: Omochikaeri shite Ageru kara | I'll Give You A One-Night Stand
     author: borusiti
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/449069.jpg

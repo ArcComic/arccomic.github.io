@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "mosaic censorship"
-work_count: 447
+work_count: 448
 works:
+  - title: Kuroi Houshi Katsudou | Black Community Service
+    author: blmanian
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/105637.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 105637
+    url: /works/105637/
   - title: Okki na Kanojo ni Amaetai | I want to be pampered by a girl of generous girth
     author: higashino-mikan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/142406.jpg
