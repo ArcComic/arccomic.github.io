@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "wholesome"
-work_count: 265
+work_count: 266
 works:
   - title: Suteki na Kanojo
     author: moketa
@@ -1640,6 +1640,13 @@ works:
     date: '2026-09-27'
     code: 672405
     url: /works/672405/
+  - title: My Childhood Friend's Been Strangely Sexy Lately. 2
+    author: karoti
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673185.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 673185
+    url: /works/673185/
   - title: Nuite Moraimakuri Nyuuin Seikatsu ~Tasuketa Cool-Gyaru wa Jitsu wa Sukebe
       deshita~
     author: gujira

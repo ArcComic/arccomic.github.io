@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "rough translation"
-work_count: 878
+work_count: 879
 works:
   - title: Boku no Shiranai Kimi no Kao
     author: utsutsu-minoru
@@ -3525,6 +3525,13 @@ works:
     date: '2026-09-22'
     code: 673012
     url: /works/673012/
+  - title: My Childhood Friend's Been Strangely Sexy Lately. 2
+    author: karoti
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673185.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 673185
+    url: /works/673185/
   - title: Itoko to Oba to Kinshin Haramase Vacance ~Haitoku no Oyako Double Ninshin~
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673215.jpg

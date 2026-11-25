@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "tanlines"
-work_count: 44
+work_count: 45
 works:
   - title: Mizugi no Shita no Yuuwaku | Temptation Beneath The Swimsuit
     author: gustav
@@ -205,6 +205,13 @@ works:
     date: '2026-09-30'
     code: 671419
     url: /works/671419/
+  - title: My Childhood Friend's Been Strangely Sexy Lately. 2
+    author: karoti
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673185.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 673185
+    url: /works/673185/
   - title: Anokotachi no Jijou - 〇〇chanchi no Jijou Soushuuhen
     author: yukino-minato
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673985.jpg

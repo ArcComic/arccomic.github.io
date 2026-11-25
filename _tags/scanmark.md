@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "scanmark"
-work_count: 295
+work_count: 296
 works:
   - title: NTR Anniversary + ) [Syukurin] Mitsuha ~Netorare~ (Kimi no Na wa.) [English]
       [Colorized] by Mikaku
@@ -1138,6 +1138,13 @@ works:
     date: '2026-08-25'
     code: 672450
     url: /works/672450/
+  - title: My Childhood Friend's Been Strangely Sexy Lately. 2
+    author: karoti
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673185.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 673185
+    url: /works/673185/
   - title: Itoko to Oba to Kinshin Haramase Vacance ~Haitoku no Oyako Double Ninshin~
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673215.jpg

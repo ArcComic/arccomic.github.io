@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "full censorship"
-work_count: 172
+work_count: 173
 works:
   - title: Kaisha de Iroiro | Gettin' Busy at the Office
     author: hara-shigeyuki
@@ -847,6 +847,13 @@ works:
     date: '2026-09-13'
     code: 672310
     url: /works/672310/
+  - title: My Childhood Friend's Been Strangely Sexy Lately. 2
+    author: karoti
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673185.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 673185
+    url: /works/673185/
   - title: Summer, The Countryside, Tatami and Futon, Mother
     author: takatsu-takatsu-keita
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673862.jpg
