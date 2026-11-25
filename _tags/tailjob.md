@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "tailjob"
-work_count: 1
+work_count: 2
 works:
+  - title: Shippo Senpai, Makenaide.
+    author: onaka-emi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/667458.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 667458
+    url: /works/667458/
   - title: Hirotta Neko ga Gal de Gokudou no Musume datta Hanashi | The Story of the
       Cat I Picked Up—Who Turned Out to Be a Gal and a Yakuza Boss's Daughter
     author: nakamo

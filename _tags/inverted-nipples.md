@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "inverted nipples"
-work_count: 53
+work_count: 54
 works:
   - title: Mama Naranai Onna-tachi Ch. 1-2
     author: otochichi
@@ -153,6 +153,13 @@ works:
     date: '2026-09-08'
     code: 616896
     url: /works/616896/
+  - title: Joshiryou Kanrinin no Boku wa Gal Ryousei ni Furimawasarete masu 5
+    author: cielo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/639612.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 639612
+    url: /works/639612/
   - title: BUTA - 『You did a great job』
     author: buta
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/639772.jpg

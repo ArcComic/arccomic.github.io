@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "leash"
-work_count: 31
+work_count: 32
 works:
   - title: Komorebi no Ori
     author: hitoi
@@ -47,6 +47,14 @@ works:
     date: '2026-04-27'
     code: 576910
     url: /works/576910/
+  - title: Oshioki Game ~Kyousei Shisetsu de Namaiki Musume o Choukyou Shimasu~ | Punishment
+      Game - Training up a Cheeky Girl at a Sex Facility.
+    author: carpsukidayo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/582984.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 582984
+    url: /works/582984/
   - title: Miwaku-teki na Omae ga Warui
     author: yonayona
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/587417.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "parasite"
-work_count: 3
+work_count: 4
 works:
   - title: Tonari no Heya ni Sumu Bijin Boshi ga Uchūjin ni Nottorareteshimau Hanashi
       (Hahahen) | How my Beautiful Mother and Child Neighbors Got Possessed by an Alien
@@ -25,4 +25,11 @@ works:
     date: '2026-05-26'
     code: 652632
     url: /works/652632/
+  - title: Shippo Senpai, Makenaide.
+    author: onaka-emi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/667458.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 667458
+    url: /works/667458/
 ---

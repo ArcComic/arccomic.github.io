@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "mmf threesome"
-work_count: 98
+work_count: 99
 works:
   - title: Hitozuma Hyakka
     author: hase-tsubura
@@ -193,6 +193,14 @@ works:
     date: '2026-09-25'
     code: 564863
     url: /works/564863/
+  - title: Oshioki Game ~Kyousei Shisetsu de Namaiki Musume o Choukyou Shimasu~ | Punishment
+      Game - Training up a Cheeky Girl at a Sex Facility.
+    author: carpsukidayo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/582984.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 582984
+    url: /works/582984/
   - title: Wakazuma Arijigoku
     author: sunagawa-tara
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/595788.jpg

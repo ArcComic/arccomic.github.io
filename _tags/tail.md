@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "tail"
-work_count: 30
+work_count: 31
 works:
   - title: CHOCO x LOVE
     author: highlow
@@ -69,6 +69,13 @@ works:
     date: '2026-07-16'
     code: 664590
     url: /works/664590/
+  - title: Shippo Senpai, Makenaide.
+    author: onaka-emi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/667458.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 667458
+    url: /works/667458/
   - title: My GF (ghost friend) caught me jerking off and now she's bouncing on it CRAZY
       STYLE
     author: ricegnat

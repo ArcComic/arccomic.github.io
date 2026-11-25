@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "blowjob"
-work_count: 988
+work_count: 989
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -3489,6 +3489,13 @@ works:
     date: '2026-08-20'
     code: 639463
     url: /works/639463/
+  - title: Joshiryou Kanrinin no Boku wa Gal Ryousei ni Furimawasarete masu 5
+    author: cielo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/639612.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 639612
+    url: /works/639612/
   - title: Ore wa Shachiku de Rinjin Gal Hitozuma no Seiyoku Shori Gakari
     author: kaniguruma
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/640053.jpg

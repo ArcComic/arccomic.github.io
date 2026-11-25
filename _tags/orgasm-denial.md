@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "orgasm denial"
-work_count: 24
+work_count: 25
 works:
   - title: Ayami Hypno
     author: yasuhiro
@@ -83,6 +83,14 @@ works:
     date: '2026-09-25'
     code: 580081
     url: /works/580081/
+  - title: Oshioki Game ~Kyousei Shisetsu de Namaiki Musume o Choukyou Shimasu~ | Punishment
+      Game - Training up a Cheeky Girl at a Sex Facility.
+    author: carpsukidayo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/582984.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 582984
+    url: /works/582984/
   - title: My AR glasses can see various stats about my foster sister?!
     author: pz-x
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/589010.jpg

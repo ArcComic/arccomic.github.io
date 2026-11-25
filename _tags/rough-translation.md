@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "rough translation"
-work_count: 876
+work_count: 878
 works:
   - title: Boku no Shiranai Kimi no Kao
     author: utsutsu-minoru
@@ -1502,6 +1502,13 @@ works:
     date: '2026-04-15'
     code: 639194
     url: /works/639194/
+  - title: Joshiryou Kanrinin no Boku wa Gal Ryousei ni Furimawasarete masu 5
+    author: cielo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/639612.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 639612
+    url: /works/639612/
   - title: Ore wa Shachiku de Rinjin Gal Hitozuma no Seiyoku Shori Gakari
     author: kaniguruma
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/640053.jpg
@@ -3349,6 +3356,13 @@ works:
     date: '2026-09-19'
     code: 667314
     url: /works/667314/
+  - title: Shippo Senpai, Makenaide.
+    author: onaka-emi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/667458.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 667458
+    url: /works/667458/
   - title: Boku dake no yuki ane
     author: misaki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/667775.jpg

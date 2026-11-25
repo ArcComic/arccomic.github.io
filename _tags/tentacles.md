@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "tentacles"
-work_count: 17
+work_count: 18
 works:
   - title: 'Haiboku no Daishou ~Okasare Ubaware Hametsu suru Shuudoujou~ | Price of
       Defeat: Downfall of the Violated and Plundered Sister'
@@ -75,6 +75,13 @@ works:
     date: '2026-07-08'
     code: 662208
     url: /works/662208/
+  - title: Shippo Senpai, Makenaide.
+    author: onaka-emi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/667458.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 667458
+    url: /works/667458/
   - title: Igyou Koubi Kairaku Jigoku 1 + 2
     author: allegro
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/668880.jpg

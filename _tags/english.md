@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "english"
-work_count: 2350
+work_count: 2353
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -5527,6 +5527,14 @@ works:
     date: '2026-07-17'
     code: 582290
     url: /works/582290/
+  - title: Oshioki Game ~Kyousei Shisetsu de Namaiki Musume o Choukyou Shimasu~ | Punishment
+      Game - Training up a Cheeky Girl at a Sex Facility.
+    author: carpsukidayo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/582984.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 582984
+    url: /works/582984/
   - title: Kino no Tomo wa Kyou no SeFri | Yesterday's Friend, Today's Sex Friend.
     author: mittsuman
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/583012.jpg
@@ -7860,6 +7868,13 @@ works:
     date: '2026-07-13'
     code: 639514
     url: /works/639514/
+  - title: Joshiryou Kanrinin no Boku wa Gal Ryousei ni Furimawasarete masu 5
+    author: cielo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/639612.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 639612
+    url: /works/639612/
   - title: BUTA - 『You did a great job』
     author: buta
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/639772.jpg
@@ -11370,6 +11385,13 @@ works:
     date: '2026-09-19'
     code: 667314
     url: /works/667314/
+  - title: Shippo Senpai, Makenaide.
+    author: onaka-emi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/667458.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 667458
+    url: /works/667458/
   - title: Boku dake no yuki ane
     author: misaki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/667775.jpg

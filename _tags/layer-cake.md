@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "layer cake"
-work_count: 14
+work_count: 15
 works:
   - title: Dochira o Onozomi desu ka? ~Ryouhou Hen~ | Which Do You Desire? ~Both Edition~
     author: tsurui
@@ -40,6 +40,13 @@ works:
     date: '2026-08-20'
     code: 639463
     url: /works/639463/
+  - title: Joshiryou Kanrinin no Boku wa Gal Ryousei ni Furimawasarete masu 5
+    author: cielo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/639612.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 639612
+    url: /works/639612/
   - title: Ura Aka Joshi no Jidori Ero Gosoushin | A Girl with a Secret-Account Accidentally
       Sends a Lewd Selfie
     author: group

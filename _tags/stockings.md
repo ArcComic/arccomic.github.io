@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "stockings"
-work_count: 330
+work_count: 331
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -717,6 +717,14 @@ works:
     date: '2026-04-21'
     code: 579976
     url: /works/579976/
+  - title: Oshioki Game ~Kyousei Shisetsu de Namaiki Musume o Choukyou Shimasu~ | Punishment
+      Game - Training up a Cheeky Girl at a Sex Facility.
+    author: carpsukidayo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/582984.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 582984
+    url: /works/582984/
   - title: Shinchou 211 cm no Jirai-kei Joshi ni Nerawarete mou Nigerarenai 2
     author: kinntarou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/584135.jpg

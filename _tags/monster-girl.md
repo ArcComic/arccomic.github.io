@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "monster girl"
-work_count: 3
+work_count: 4
 works:
+  - title: Shippo Senpai, Makenaide.
+    author: onaka-emi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/667458.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 667458
+    url: /works/667458/
   - title: Tonari no Ko | The Girl Next Door
     author: oyabe-ryo-isurugi-ryo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/674496.jpg

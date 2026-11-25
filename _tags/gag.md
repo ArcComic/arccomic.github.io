@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "gag"
-work_count: 25
+work_count: 26
 works:
   - title: Sashida Sareta Hokenshitsu | How I Offered Her Up In The Nurse's Office
     author: kasumi-kaori
@@ -17,6 +17,14 @@ works:
     date: '2026-09-22'
     code: 579290
     url: /works/579290/
+  - title: Oshioki Game ~Kyousei Shisetsu de Namaiki Musume o Choukyou Shimasu~ | Punishment
+      Game - Training up a Cheeky Girl at a Sex Facility.
+    author: carpsukidayo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/582984.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 582984
+    url: /works/582984/
   - title: Hikikomori Kyousei Shisetsu Hakutou no Ie
     author: shine-nabyss
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/626220.jpg

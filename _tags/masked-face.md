@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "masked face"
-work_count: 18
+work_count: 19
 works:
   - title: Marebito Kitari Te
     author: yoshika
@@ -17,6 +17,14 @@ works:
     date: '2026-09-30'
     code: 491622
     url: /works/491622/
+  - title: Oshioki Game ~Kyousei Shisetsu de Namaiki Musume o Choukyou Shimasu~ | Punishment
+      Game - Training up a Cheeky Girl at a Sex Facility.
+    author: carpsukidayo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/582984.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 582984
+    url: /works/582984/
   - title: Eroi Koto Igai de Toki o Tomete wa Dame desu yo 2
     author: ohkura-kazuya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/615835.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "kimono"
-work_count: 72
+work_count: 73
 works:
   - title: Hitozuma Hyakka
     author: hase-tsubura
@@ -279,6 +279,13 @@ works:
     date: '2026-09-25'
     code: 635879
     url: /works/635879/
+  - title: Joshiryou Kanrinin no Boku wa Gal Ryousei ni Furimawasarete masu 5
+    author: cielo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/639612.jpg
+    rating: 0.0
+    date: '2026-11-25'
+    code: 639612
+    url: /works/639612/
   - title: Apart no Otonari-san ga Yarasete Kureru Hanashi 4 | My Nextdoor Neighbor
       Let Me Fuck Her 4
     author: ki-51
