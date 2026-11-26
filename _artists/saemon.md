@@ -1,7 +1,7 @@
 ---
 layout: artist
 artist_name: "saemon"
-work_count: 3
+work_count: 4
 works:
   - title: Shizuku-san wa Ore no Omoibito | My Neighbor Shizuka-San, My Fondest Desire
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/269224.jpg
@@ -9,6 +9,12 @@ works:
     date: '2026-09-29'
     code: 269224
     url: /works/269224/
+  - title: Work 292757
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/292757.jpg
+    rating: 0.0
+    date: '2026-11-26'
+    code: 292757
+    url: /works/292757/
   - title: Ore no Hajimete wa Senpai ni Ubawaretai!! | I Want Senpai to Take My First
       Time!!
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/312587.jpg
