@@ -1,7 +1,7 @@
 ---
 layout: artist
 artist_name: "st-mya"
-work_count: 4
+work_count: 5
 works:
   - title: + (SEIKO AYASE VARIOUS) +
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/555816.jpg
@@ -27,4 +27,10 @@ works:
     date: '2026-11-25'
     code: 699062
     url: /works/699062/
+  - title: Work 699073
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/699073.jpg
+    rating: 0.0
+    date: '2026-11-26'
+    code: 699073
+    url: /works/699073/
 ---
