@@ -1,7 +1,7 @@
 ---
 layout: artist
 artist_name: "osterei"
-work_count: 3
+work_count: 4
 works:
   - title: RICHELIEU MON AMOUR Plat | Richelieu My Love Dish
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/348549.jpg
@@ -15,6 +15,12 @@ works:
     date: '2026-11-25'
     code: 349157
     url: /works/349157/
+  - title: Work 361363
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/361363.jpg
+    rating: 4.3
+    date: '2026-11-26'
+    code: 361363
+    url: /works/361363/
   - title: Kimi no Todokanai Prelude | You Can't Reach Prelude
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/366626.jpg
     rating: 4.7
