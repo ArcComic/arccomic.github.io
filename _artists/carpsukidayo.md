@@ -1,7 +1,7 @@
 ---
 layout: artist
 artist_name: "carpsukidayo"
-work_count: 8
+work_count: 9
 works:
   - title: Oshioki Game ~Kyousei Shisetsu de Namaiki Musume o Choukyou Shimasu~ | Punishment
       Game - Training up a Cheeky Girl at a Sex Facility.
@@ -22,6 +22,12 @@ works:
     date: '2026-11-26'
     code: 655887
     url: /works/655887/
+  - title: Work 663481
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/663481.jpg
+    rating: 0.0
+    date: '2026-11-26'
+    code: 663481
+    url: /works/663481/
   - title: Choukyou Inroku Ni ~Kunoichi Hiiragi no Junan~
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/663482.jpg
     rating: 4.3

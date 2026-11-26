@@ -1,7 +1,7 @@
 ---
 layout: artist
 artist_name: "saemon"
-work_count: 8
+work_count: 9
 works:
   - title: Work 143853
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/143853.jpg
@@ -40,6 +40,12 @@ works:
     date: '2026-11-26'
     code: 314368
     url: /works/314368/
+  - title: Work 343122
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/343122.jpg
+    rating: 0.0
+    date: '2026-11-26'
+    code: 343122
+    url: /works/343122/
   - title: Work 344969
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/344969.jpg
     rating: 4.8
