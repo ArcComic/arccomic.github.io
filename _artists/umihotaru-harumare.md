@@ -1,7 +1,7 @@
 ---
 layout: artist
 artist_name: "umihotaru-harumare"
-work_count: 6
+work_count: 7
 works:
   - title: Novum Chaldea no Kyuuketsushu-san
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/292294.jpg
@@ -9,6 +9,12 @@ works:
     date: '2026-11-24'
     code: 292294
     url: /works/292294/
+  - title: Work 403999
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/403999.jpg
+    rating: 0.0
+    date: '2026-11-26'
+    code: 403999
+    url: /works/403999/
   - title: Work 498965
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/498965.jpg
     rating: 4.5

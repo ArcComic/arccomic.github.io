@@ -1,7 +1,7 @@
 ---
 layout: artist
 artist_name: "cielo"
-work_count: 7
+work_count: 8
 works:
   - title: Watashi no Haizoku Saki wa Seishori-ka ~Kenshuu Hen~ | My Assignment is in
       the Sexual Relief Department ~Training Chapter~
@@ -10,6 +10,12 @@ works:
     date: '2026-11-25'
     code: 460090
     url: /works/460090/
+  - title: Work 461138
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/461138.jpg
+    rating: 0.0
+    date: '2026-11-26'
+    code: 461138
+    url: /works/461138/
   - title: Jiraikei Imouto ni Kareshi Netorareterunda ga ~ReaJuu no Ane to Papakatsu
       Suru Imouto~
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/462102.jpg
