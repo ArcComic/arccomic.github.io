@@ -1,8 +1,14 @@
 ---
 layout: artist
 artist_name: "gamogamo"
-work_count: 4
+work_count: 5
 works:
+  - title: Work 596352
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/596352.jpg
+    rating: 4.1
+    date: '2026-11-26'
+    code: 596352
+    url: /works/596352/
   - title: Ai no Omoi Kanojo wa Boku no Tame ni Hamedori o Tottekitekureru | My obsessively
       devoted girlfriend records a sex video for me
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/596496.jpg
