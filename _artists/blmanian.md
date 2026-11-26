@@ -1,7 +1,7 @@
 ---
 layout: artist
 artist_name: "blmanian"
-work_count: 3
+work_count: 4
 works:
   - title: Kuroi Houshi Katsudou | Black Community Service
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/105637.jpg
@@ -9,9 +9,15 @@ works:
     date: '2026-11-25'
     code: 105637
     url: /works/105637/
+  - title: Work 178421
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/178421.jpg
+    rating: 0.0
+    date: '2026-11-26'
+    code: 178421
+    url: /works/178421/
   - title: Shiro Gal A-ko to Kuro Gal B-ko no Bitch Nyuumon
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/339457.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-11-25'
     code: 339457
     url: /works/339457/

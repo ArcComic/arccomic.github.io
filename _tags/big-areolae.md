@@ -238,7 +238,7 @@ works:
       devoted girlfriend records a sex video for me
     author: gamogamo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/596496.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-11-25'
     code: 596496
     url: /works/596496/
@@ -1277,7 +1277,7 @@ works:
   - title: Your sex is due!
     author: st-mya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/699062.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-11-25'
     code: 699062
     url: /works/699062/

@@ -140,7 +140,7 @@ works:
   - title: Shiro Gal A-ko to Kuro Gal B-ko no Bitch Nyuumon
     author: blmanian
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/339457.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-11-25'
     code: 339457
     url: /works/339457/
@@ -316,7 +316,7 @@ works:
       Suru Imouto~
     author: cielo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/462102.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-11-25'
     code: 462102
     url: /works/462102/
@@ -629,7 +629,7 @@ works:
       by the Gals in the Girls' Dorm I Manage 4
     author: cielo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/563293.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-11-25'
     code: 563293
     url: /works/563293/
@@ -684,7 +684,7 @@ works:
       Game - Training up a Cheeky Girl at a Sex Facility.
     author: carpsukidayo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/582984.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-11-25'
     code: 582984
     url: /works/582984/
@@ -1009,7 +1009,7 @@ works:
   - title: Joshiryou Kanrinin no Boku wa Gal Ryousei ni Furimawasarete masu 5
     author: cielo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/639612.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-11-25'
     code: 639612
     url: /works/639612/

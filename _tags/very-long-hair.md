@@ -6,7 +6,7 @@ works:
   - title: Otakuhime to Ichaicha Furo | Otakuhime and the Lovey-Dovey Bath
     author: hijiri-tsukasa
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/317091.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-11-25'
     code: 317091
     url: /works/317091/
@@ -138,7 +138,7 @@ works:
       devoted girlfriend records a sex video for me
     author: gamogamo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/596496.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-11-25'
     code: 596496
     url: /works/596496/

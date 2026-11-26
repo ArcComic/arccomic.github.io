@@ -602,7 +602,7 @@ works:
       Suru Imouto~
     author: cielo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/462102.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-11-25'
     code: 462102
     url: /works/462102/
@@ -902,7 +902,7 @@ works:
       Home Intoxicated, and has Sex with her Neighbor! 1
     author: satou-ichito
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/510790.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-11-25'
     code: 510790
     url: /works/510790/
@@ -1589,7 +1589,7 @@ works:
       devoted girlfriend records a sex video for me
     author: gamogamo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/596496.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-11-25'
     code: 596496
     url: /works/596496/

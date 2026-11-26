@@ -260,7 +260,7 @@ works:
   - title: Hamakaze Kairaku ni Otsu ~Shiranai Ossan Teitoku Hen~
     author: yuna
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/384017.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-25'
     code: 384017
     url: /works/384017/
@@ -456,7 +456,7 @@ works:
       Suru Imouto~
     author: cielo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/462102.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-11-25'
     code: 462102
     url: /works/462102/
@@ -711,7 +711,7 @@ works:
       Home Intoxicated, and has Sex with her Neighbor! 1
     author: satou-ichito
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/510790.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-11-25'
     code: 510790
     url: /works/510790/
@@ -791,7 +791,7 @@ works:
       by the Gals in the Girls' Dorm I Manage 3
     author: cielo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/524054.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-11-25'
     code: 524054
     url: /works/524054/
@@ -1112,7 +1112,7 @@ works:
       by the Gals in the Girls' Dorm I Manage 4
     author: cielo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/563293.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-11-25'
     code: 563293
     url: /works/563293/
@@ -1147,7 +1147,7 @@ works:
   - title: Kimi to Himitsu no Upload 2 | Our Secret Upload 2
     author: shinima
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/567876.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-11-25'
     code: 567876
     url: /works/567876/
@@ -1871,7 +1871,7 @@ works:
   - title: Joshiryou Kanrinin no Boku wa Gal Ryousei ni Furimawasarete masu 5
     author: cielo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/639612.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-11-25'
     code: 639612
     url: /works/639612/
@@ -3880,7 +3880,7 @@ works:
   - title: Chilukuni (Onaka Emi)] Seiki Gyakuten 3
     author: onaka-emi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/692844.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-11-25'
     code: 692844
     url: /works/692844/

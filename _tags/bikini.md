@@ -41,7 +41,7 @@ works:
   - title: Otakuhime to Ichaicha Furo | Otakuhime and the Lovey-Dovey Bath
     author: hijiri-tsukasa
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/317091.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-11-25'
     code: 317091
     url: /works/317091/
@@ -230,7 +230,7 @@ works:
       by the Gals in the Girls' Dorm I Manage 4
     author: cielo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/563293.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-11-25'
     code: 563293
     url: /works/563293/
@@ -561,7 +561,7 @@ works:
   - title: Mrs. Shimura’s affair progression
     author: st-mya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673042.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-11-25'
     code: 673042
     url: /works/673042/
@@ -944,7 +944,7 @@ works:
   - title: Your sex is due!
     author: st-mya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/699062.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-11-25'
     code: 699062
     url: /works/699062/

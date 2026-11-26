@@ -74,7 +74,7 @@ works:
       by the Gals in the Girls' Dorm I Manage 3
     author: cielo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/524054.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-11-25'
     code: 524054
     url: /works/524054/

@@ -396,7 +396,7 @@ works:
       Suru Imouto~
     author: cielo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/462102.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-11-25'
     code: 462102
     url: /works/462102/
@@ -729,7 +729,7 @@ works:
       Game - Training up a Cheeky Girl at a Sex Facility.
     author: carpsukidayo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/582984.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-11-25'
     code: 582984
     url: /works/582984/
@@ -2430,7 +2430,7 @@ works:
   - title: Your sex is due!
     author: st-mya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/699062.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-11-25'
     code: 699062
     url: /works/699062/

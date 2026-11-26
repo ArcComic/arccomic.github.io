@@ -21,7 +21,7 @@ works:
       Game - Training up a Cheeky Girl at a Sex Facility.
     author: carpsukidayo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/582984.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-11-25'
     code: 582984
     url: /works/582984/

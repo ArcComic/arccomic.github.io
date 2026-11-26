@@ -199,7 +199,7 @@ works:
   - title: Shiro Gal A-ko to Kuro Gal B-ko no Bitch Nyuumon
     author: blmanian
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/339457.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-11-25'
     code: 339457
     url: /works/339457/
@@ -1172,7 +1172,7 @@ works:
       devoted girlfriend records a sex video for me
     author: gamogamo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/596496.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-11-25'
     code: 596496
     url: /works/596496/
@@ -2418,7 +2418,7 @@ works:
   - title: Shippo Senpai, Makenaide.
     author: onaka-emi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/667458.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-11-25'
     code: 667458
     url: /works/667458/

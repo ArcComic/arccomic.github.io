@@ -540,7 +540,7 @@ works:
   - title: Otakuhime to Ichaicha Furo | Otakuhime and the Lovey-Dovey Bath
     author: hijiri-tsukasa
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/317091.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-11-25'
     code: 317091
     url: /works/317091/
@@ -1087,7 +1087,7 @@ works:
   - title: Hamakaze Kairaku ni Otsu ~Shiranai Ossan Teitoku Hen~
     author: yuna
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/384017.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-25'
     code: 384017
     url: /works/384017/
@@ -3713,7 +3713,7 @@ works:
       Game - Training up a Cheeky Girl at a Sex Facility.
     author: carpsukidayo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/582984.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-11-25'
     code: 582984
     url: /works/582984/
@@ -4049,7 +4049,7 @@ works:
       devoted girlfriend records a sex video for me
     author: gamogamo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/596496.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-11-25'
     code: 596496
     url: /works/596496/
@@ -7225,7 +7225,7 @@ works:
   - title: Shippo Senpai, Makenaide.
     author: onaka-emi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/667458.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-11-25'
     code: 667458
     url: /works/667458/
@@ -7410,7 +7410,7 @@ works:
   - title: Mrs. Shimura’s affair progression
     author: st-mya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673042.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-11-25'
     code: 673042
     url: /works/673042/
@@ -10500,7 +10500,7 @@ works:
   - title: Your sex is due!
     author: st-mya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/699062.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-11-25'
     code: 699062
     url: /works/699062/

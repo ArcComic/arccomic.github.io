@@ -424,7 +424,7 @@ works:
   - title: Otakuhime to Ichaicha Furo | Otakuhime and the Lovey-Dovey Bath
     author: hijiri-tsukasa
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/317091.jpg
-    rating: 0.0
+    rating: 4.3
     date: '2026-11-25'
     code: 317091
     url: /works/317091/
@@ -1527,7 +1527,7 @@ works:
       Suru Imouto~
     author: cielo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/462102.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-11-25'
     code: 462102
     url: /works/462102/
@@ -2118,7 +2118,7 @@ works:
       Home Intoxicated, and has Sex with her Neighbor! 1
     author: satou-ichito
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/510790.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-11-25'
     code: 510790
     url: /works/510790/
@@ -2361,7 +2361,7 @@ works:
       by the Gals in the Girls' Dorm I Manage 3
     author: cielo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/524054.jpg
-    rating: 0.0
+    rating: 4.4
     date: '2026-11-25'
     code: 524054
     url: /works/524054/
@@ -3102,7 +3102,7 @@ works:
       by the Gals in the Girls' Dorm I Manage 4
     author: cielo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/563293.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-11-25'
     code: 563293
     url: /works/563293/
@@ -3484,7 +3484,7 @@ works:
       Game - Training up a Cheeky Girl at a Sex Facility.
     author: carpsukidayo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/582984.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-11-25'
     code: 582984
     url: /works/582984/
@@ -3903,7 +3903,7 @@ works:
       devoted girlfriend records a sex video for me
     author: gamogamo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/596496.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-11-25'
     code: 596496
     url: /works/596496/
@@ -5298,7 +5298,7 @@ works:
   - title: Joshiryou Kanrinin no Boku wa Gal Ryousei ni Furimawasarete masu 5
     author: cielo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/639612.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-11-25'
     code: 639612
     url: /works/639612/
@@ -8179,14 +8179,14 @@ works:
   - title: Mrs. Shimura’s affair progression
     author: st-mya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673042.jpg
-    rating: 0.0
+    rating: 4.5
     date: '2026-11-25'
     code: 673042
     url: /works/673042/
   - title: My Childhood Friend's Been Strangely Sexy Lately. 2
     author: karoti
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/673185.jpg
-    rating: 0.0
+    rating: 4.2
     date: '2026-11-25'
     code: 673185
     url: /works/673185/
@@ -12044,7 +12044,7 @@ works:
   - title: Your sex is due!
     author: st-mya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/699062.jpg
-    rating: 0.0
+    rating: 5.0
     date: '2026-11-25'
     code: 699062
     url: /works/699062/
