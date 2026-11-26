@@ -1,7 +1,7 @@
 ---
 layout: artist
 artist_name: "cielo"
-work_count: 9
+work_count: 10
 works:
   - title: Watashi no Haizoku Saki wa Seishori-ka ~Kenshuu Hen~ | My Assignment is in
       the Sexual Relief Department ~Training Chapter~
@@ -10,6 +10,12 @@ works:
     date: '2026-11-25'
     code: 460090
     url: /works/460090/
+  - title: Work 460509
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/460509.jpg
+    rating: 0.0
+    date: '2026-11-26'
+    code: 460509
+    url: /works/460509/
   - title: Work 461138
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/461138.jpg
     rating: 0.0
