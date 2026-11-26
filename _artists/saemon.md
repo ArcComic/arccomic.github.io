@@ -1,7 +1,7 @@
 ---
 layout: artist
 artist_name: "saemon"
-work_count: 6
+work_count: 7
 works:
   - title: Work 143853
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/143853.jpg
@@ -34,6 +34,12 @@ works:
     date: '2026-09-30'
     code: 312587
     url: /works/312587/
+  - title: Work 314368
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/314368.jpg
+    rating: 0.0
+    date: '2026-11-26'
+    code: 314368
+    url: /works/314368/
   - title: Shuumatsu dakara Ippai Ichaicha Shi yo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/476145.jpg
     rating: 4.4

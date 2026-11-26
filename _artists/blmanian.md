@@ -1,7 +1,7 @@
 ---
 layout: artist
 artist_name: "blmanian"
-work_count: 8
+work_count: 9
 works:
   - title: Kuroi Houshi Katsudou | Black Community Service
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/105637.jpg
@@ -21,6 +21,12 @@ works:
     date: '2026-11-26'
     code: 116217
     url: /works/116217/
+  - title: Work 136989
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/136989.jpg
+    rating: 0.0
+    date: '2026-11-26'
+    code: 136989
+    url: /works/136989/
   - title: Work 178421
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/178421.jpg
     rating: 4.6
