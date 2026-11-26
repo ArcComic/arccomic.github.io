@@ -1,7 +1,7 @@
 ---
 layout: artist
 artist_name: "umihotaru-harumare"
-work_count: 5
+work_count: 6
 works:
   - title: Novum Chaldea no Kyuuketsushu-san
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/292294.jpg
@@ -9,6 +9,12 @@ works:
     date: '2026-11-24'
     code: 292294
     url: /works/292294/
+  - title: Work 498965
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/498965.jpg
+    rating: 0.0
+    date: '2026-11-26'
+    code: 498965
+    url: /works/498965/
   - title: Okkii Kaizou Keikaku | The Okki Makeover Plan
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/684608.jpg
     rating: 4.9
