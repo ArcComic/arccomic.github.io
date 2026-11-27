@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "stockings"
-work_count: 337
+work_count: 338
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -80,6 +80,13 @@ works:
     date: '2026-10-09'
     code: 262169
     url: /works/262169/
+  - title: Suzuya to IchaIcha kkusu! | Flirty Lovin' with Suzuya!
+    author: saemon
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/268319.jpg
+    rating: 0.0
+    date: '2026-11-27'
+    code: 268319
+    url: /works/268319/
   - title: Datenshi Corruption II
     author: napo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/275471.jpg

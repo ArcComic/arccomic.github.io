@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "schoolboy uniform"
-work_count: 163
+work_count: 164
 works:
   - title: Kuroi Houshi Katsudou | Black Community Service
     author: blmanian
@@ -52,6 +52,13 @@ works:
     date: '2026-09-04'
     code: 210672
     url: /works/210672/
+  - title: Kurokawa-San to no Yasumi Jikan
+    author: saemon
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/235697.jpg
+    rating: 0.0
+    date: '2026-11-27'
+    code: 235697
+    url: /works/235697/
   - title: Kimi to Itami wo Wakachi "AI" tai | I Want to Share Your Pain
     author: betty
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/294902.jpg

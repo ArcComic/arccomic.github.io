@@ -1,7 +1,7 @@
 ---
 layout: artist
 artist_name: "saemon"
-work_count: 9
+work_count: 11
 works:
   - title: Work 143853
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/143853.jpg
@@ -9,6 +9,18 @@ works:
     date: '2026-11-26'
     code: 143853
     url: /works/143853/
+  - title: Kurokawa-San to no Yasumi Jikan
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/235697.jpg
+    rating: 0.0
+    date: '2026-11-27'
+    code: 235697
+    url: /works/235697/
+  - title: Suzuya to IchaIcha kkusu! | Flirty Lovin' with Suzuya!
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/268319.jpg
+    rating: 0.0
+    date: '2026-11-27'
+    code: 268319
+    url: /works/268319/
   - title: Shizuku-san wa Ore no Omoibito | My Neighbor Shizuka-San, My Fondest Desire
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/269224.jpg
     rating: 4.1

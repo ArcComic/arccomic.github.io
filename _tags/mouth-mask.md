@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "mouth mask"
-work_count: 28
+work_count: 29
 works:
   - title: Kanojo wa Boku no Taieki de Ugoiteiru Phase. 05 [English] =NSS=
     author: nagareboshi
@@ -171,6 +171,13 @@ works:
     date: '2026-10-05'
     code: 685961
     url: /works/685961/
+  - title: Inuzuka-san, Who Has a Special Hobby
+    author: carpsukidayo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/689371.jpg
+    rating: 0.0
+    date: '2026-11-27'
+    code: 689371
+    url: /works/689371/
   - title: 'Onee-san to Shiyo? ~Echinpo Card de Yaritai Houdai~ (2) | Wanna Do It With
       Onee-san? ~The Ecchi Card: Do What You Want!~'
     author: minato-yuu

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "manga"
-work_count: 505
+work_count: 506
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -192,6 +192,13 @@ works:
     date: '2026-11-23'
     code: 235631
     url: /works/235631/
+  - title: Kurokawa-San to no Yasumi Jikan
+    author: saemon
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/235697.jpg
+    rating: 0.0
+    date: '2026-11-27'
+    code: 235697
+    url: /works/235697/
   - title: Chibo Soukan Ch.1-3
     author: natsu-no-oyatsu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/238110.jpg

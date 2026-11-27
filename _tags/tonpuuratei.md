@@ -1,8 +1,15 @@
 ---
 layout: tag
 tag_name: "tonpuuratei"
-work_count: 3
+work_count: 4
 works:
+  - title: Suzuya to IchaIcha kkusu! | Flirty Lovin' with Suzuya!
+    author: saemon
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/268319.jpg
+    rating: 0.0
+    date: '2026-11-27'
+    code: 268319
+    url: /works/268319/
   - title: Shizuku-san wa Ore no Omoibito | My Neighbor Shizuka-San, My Fondest Desire
     author: saemon
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/269224.jpg

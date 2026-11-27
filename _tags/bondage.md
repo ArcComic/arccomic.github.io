@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bondage"
-work_count: 138
+work_count: 139
 works:
   - title: Pai☆Panic ~Hasamareta Dekapai~
     author: inkey
@@ -922,6 +922,13 @@ works:
     date: '2026-10-18'
     code: 688413
     url: /works/688413/
+  - title: Inuzuka-san, Who Has a Special Hobby
+    author: carpsukidayo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/689371.jpg
+    rating: 0.0
+    date: '2026-11-27'
+    code: 689371
+    url: /works/689371/
   - title: Misao no Keiyaku - CHAPTER 1-16
     author: yamanouchi-yuu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/694049.jpg

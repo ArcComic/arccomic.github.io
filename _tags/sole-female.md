@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole female"
-work_count: 1448
+work_count: 1451
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -164,6 +164,13 @@ works:
     date: '2026-11-10'
     code: 232437
     url: /works/232437/
+  - title: Kurokawa-San to no Yasumi Jikan
+    author: saemon
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/235697.jpg
+    rating: 0.0
+    date: '2026-11-27'
+    code: 235697
+    url: /works/235697/
   - title: Natsu dake Koibito - Summer only Lover [English] =Forbidden Fetish + Ser
       Maggot=
     author: yoshiura-kazuya
@@ -231,6 +238,13 @@ works:
     date: '2026-11-20'
     code: 267270
     url: /works/267270/
+  - title: Suzuya to IchaIcha kkusu! | Flirty Lovin' with Suzuya!
+    author: saemon
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/268319.jpg
+    rating: 0.0
+    date: '2026-11-27'
+    code: 268319
+    url: /works/268319/
   - title: Shizuku-san wa Ore no Omoibito | My Neighbor Shizuka-San, My Fondest Desire
     author: saemon
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/269224.jpg
@@ -9876,6 +9890,13 @@ works:
     date: '2026-11-17'
     code: 689306
     url: /works/689306/
+  - title: Inuzuka-san, Who Has a Special Hobby
+    author: carpsukidayo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/689371.jpg
+    rating: 0.0
+    date: '2026-11-27'
+    code: 689371
+    url: /works/689371/
   - title: Hikikomori Hime no Odekake Date | Taking Hikkikomori Hime on a Date
     author: umihotaru-harumare
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/689934.jpg

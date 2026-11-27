@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "schoolgirl uniform"
-work_count: 504
+work_count: 506
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -59,6 +59,13 @@ works:
     date: '2026-03-07'
     code: 208522
     url: /works/208522/
+  - title: Kurokawa-San to no Yasumi Jikan
+    author: saemon
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/235697.jpg
+    rating: 0.0
+    date: '2026-11-27'
+    code: 235697
+    url: /works/235697/
   - title: Chibo Soukan Ch.1-3
     author: natsu-no-oyatsu
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/238110.jpg
@@ -88,6 +95,13 @@ works:
     date: '2026-11-21'
     code: 264505
     url: /works/264505/
+  - title: Suzuya to IchaIcha kkusu! | Flirty Lovin' with Suzuya!
+    author: saemon
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/268319.jpg
+    rating: 0.0
+    date: '2026-11-27'
+    code: 268319
+    url: /works/268319/
   - title: Chihaya to Seifuku! | Chihaya and Uniform!
     author: tsurui
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/280836.jpg

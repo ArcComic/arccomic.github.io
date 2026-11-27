@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "carpsukidayo"
-work_count: 6
+work_count: 7
 works:
   - title: Oshioki Game ~Kyousei Shisetsu de Namaiki Musume o Choukyou Shimasu~ | Punishment
       Game - Training up a Cheeky Girl at a Sex Facility.
@@ -46,4 +46,11 @@ works:
     date: '2026-10-03'
     code: 685702
     url: /works/685702/
+  - title: Inuzuka-san, Who Has a Special Hobby
+    author: carpsukidayo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/689371.jpg
+    rating: 0.0
+    date: '2026-11-27'
+    code: 689371
+    url: /works/689371/
 ---
