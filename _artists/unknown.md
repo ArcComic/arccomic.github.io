@@ -1,7 +1,7 @@
 ---
 layout: artist
 artist_name: "unknown"
-work_count: 95
+work_count: 96
 works:
   - title: Hajimete Kanojo Ga Dekita No Ni
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/316579.jpg
@@ -598,4 +598,10 @@ works:
     date: '2026-11-21'
     code: 698934
     url: /works/698934/
+  - title: Work 700225
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/700225.jpg
+    rating: 0.0
+    date: '2026-11-27'
+    code: 700225
+    url: /works/700225/
 ---
