@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "femdom"
-work_count: 271
+work_count: 272
 works:
   - title: Life with Married Women Just Like a Manga 2 - Ch. 1-5
     author: hidemaru
@@ -688,7 +688,7 @@ works:
   - title: MegamiYuui ~ part 2
     author: himino
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/611904.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-11-27'
     code: 611904
     url: /works/611904/
@@ -706,6 +706,13 @@ works:
     date: '2026-08-25'
     code: 613739
     url: /works/613739/
+  - title: Hitozuma Max! Oku-sama wa Game & Sex Friend
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/614968.jpg
+    rating: 0.0
+    date: '2026-11-27'
+    code: 614968
+    url: /works/614968/
   - title: Mamami Numa | Addicted to Her Motherly Vibes
     author: ruruepa
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/619648.jpg

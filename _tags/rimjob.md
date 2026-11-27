@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "rimjob"
-work_count: 81
+work_count: 83
 works:
   - title: Hitozuma Hyakka
     author: hase-tsubura
@@ -138,6 +138,13 @@ works:
     date: '2026-09-11'
     code: 612063
     url: /works/612063/
+  - title: Hitozuma Max! Oku-sama wa Game & Sex Friend
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/614968.jpg
+    rating: 0.0
+    date: '2026-11-27'
+    code: 614968
+    url: /works/614968/
   - title: The Story of How My Brain Was Destroyed After Dating Someone Who Would Grant
       Any Request
     author: jakky
@@ -604,10 +611,20 @@ works:
       friend who’ll do anything you ask.
     author: oriue-wato
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/700020.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-11-27'
     code: 700020
     url: /works/700020/
+  - title: Kendoubu Shushou de Osananajimi no Bijin de Tsuyoi Boku no Kanojo ga, Charao
+      ni Assari Otosareru Wake ga Nai｜There's No Way My Childhood Friend, Who's Both
+      My Girlfriend and a Gorgeous, Strong Kendo Captain, Would Fall So Easily for Some
+      Fuckboy
+    author: yozo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/700223.jpg
+    rating: 4.4
+    date: '2026-11-27'
+    code: 700223
+    url: /works/700223/
   - title: Jokyoushi - Hot For Teachers | Female Teachers
     author: drill-murata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/81375.jpg

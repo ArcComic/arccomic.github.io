@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "group"
-work_count: 361
+work_count: 362
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -823,6 +823,13 @@ works:
     date: '2026-09-29'
     code: 614205
     url: /works/614205/
+  - title: Hitozuma Max! Oku-sama wa Game & Sex Friend
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/614968.jpg
+    rating: 0.0
+    date: '2026-11-27'
+    code: 614968
+    url: /works/614968/
   - title: Oku-sama Shachou wa Miraretai | Madam President Wants to Be Seen
     author: minamida-usuke
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/615333.jpg
@@ -996,7 +1003,7 @@ works:
       Mahou Shoujo ga Seishori Sentouin ni Ochiru made~
     author: carpsukidayo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/637171.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-27'
     code: 637171
     url: /works/637171/

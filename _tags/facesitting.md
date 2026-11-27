@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "facesitting"
-work_count: 44
+work_count: 46
 works:
   - title: Yarimoku Kouen | Yarinookie Park [English] =TLL+mrwayne=
     author: sugi-g
@@ -113,6 +113,13 @@ works:
     date: '2026-10-12'
     code: 609238
     url: /works/609238/
+  - title: Hitozuma Max! Oku-sama wa Game & Sex Friend
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/614968.jpg
+    rating: 0.0
+    date: '2026-11-27'
+    code: 614968
+    url: /works/614968/
   - title: Honeori! Osewa Girl♡ | SK8er Girl Lends Me a Hand!
     author: kyaradain
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/634609.jpg
@@ -332,4 +339,14 @@ works:
     date: '2026-11-21'
     code: 698956
     url: /works/698956/
+  - title: Kendoubu Shushou de Osananajimi no Bijin de Tsuyoi Boku no Kanojo ga, Charao
+      ni Assari Otosareru Wake ga Nai｜There's No Way My Childhood Friend, Who's Both
+      My Girlfriend and a Gorgeous, Strong Kendo Captain, Would Fall So Easily for Some
+      Fuckboy
+    author: yozo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/700223.jpg
+    rating: 4.4
+    date: '2026-11-27'
+    code: 700223
+    url: /works/700223/
 ---

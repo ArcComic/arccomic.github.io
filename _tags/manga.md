@@ -48,7 +48,7 @@ works:
   - title: Dekoboko Complex
     author: saemon
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/125637.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-11-27'
     code: 125637
     url: /works/125637/
@@ -202,7 +202,7 @@ works:
   - title: Kurokawa-San to no Yasumi Jikan
     author: saemon
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/235697.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-11-27'
     code: 235697
     url: /works/235697/

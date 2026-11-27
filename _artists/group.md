@@ -1,7 +1,7 @@
 ---
 layout: artist
 artist_name: "group"
-work_count: 52
+work_count: 53
 works:
   - title: Ojou-sama to Maid o Iinazuke ni Torarete Okobore Ecchi suru Hanashi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/459385.jpg
@@ -106,6 +106,12 @@ works:
     date: '2026-04-23'
     code: 610041
     url: /works/610041/
+  - title: Hitozuma Max! Oku-sama wa Game & Sex Friend
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/614968.jpg
+    rating: 0.0
+    date: '2026-11-27'
+    code: 614968
+    url: /works/614968/
   - title: Osananajimi no Himitsu 3 | My childhood friend's secret 3
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/626684.jpg
     rating: 4.6

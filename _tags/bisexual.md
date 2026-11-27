@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bisexual"
-work_count: 63
+work_count: 64
 works:
   - title: Natsu no Hyoui
     author: yuniba
@@ -98,6 +98,13 @@ works:
     date: '2026-09-29'
     code: 614205
     url: /works/614205/
+  - title: Hitozuma Max! Oku-sama wa Game & Sex Friend
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/614968.jpg
+    rating: 0.0
+    date: '2026-11-27'
+    code: 614968
+    url: /works/614968/
   - title: 'Bijutsubu Harem Katsudou Nisshi ~Senpai no Slump Kaishou ni Kyouryoku shitara,
       Ikioi de 3P suru Koto ni Natta Hanashi~ | Art Club Harem Activity Log: How Helping
       My Senior Get Over Her Slump Led to a Threesome in the Heat of the Moment'
@@ -139,7 +146,7 @@ works:
       Mahou Shoujo ga Seishori Sentouin ni Ochiru made~
     author: carpsukidayo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/637171.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-27'
     code: 637171
     url: /works/637171/

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "saliva"
-work_count: 15
+work_count: 16
 works:
   - title: Shinchou 211cm no Jirai-kei Joshi ni Nerawarete Mou Nigerarenai | A 211cm
       Tall Jirai-kei Girl Has Her Eyes on Me, and I Can't Escape♡
@@ -110,4 +110,11 @@ works:
     date: '2026-11-04'
     code: 694049
     url: /works/694049/
+  - title: 'Sugar Dating Diary ~Record (1): M-chan''s First Experience XX~'
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/700225.jpg
+    rating: 4.9
+    date: '2026-11-27'
+    code: 700225
+    url: /works/700225/
 ---

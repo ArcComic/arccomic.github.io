@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "rape"
-work_count: 310
+work_count: 311
 works:
   - title: Office Love Scramble Ch. 1
     author: tohzai
@@ -1103,7 +1103,7 @@ works:
       Mahou Shoujo ga Seishori Sentouin ni Ochiru made~
     author: carpsukidayo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/637171.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-27'
     code: 637171
     url: /works/637171/
@@ -2269,4 +2269,11 @@ works:
     date: '2026-11-24'
     code: 699397
     url: /works/699397/
+  - title: 'Sugar Dating Diary ~Record (1): M-chan''s First Experience XX~'
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/700225.jpg
+    rating: 4.9
+    date: '2026-11-27'
+    code: 700225
+    url: /works/700225/
 ---

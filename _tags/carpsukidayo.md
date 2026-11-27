@@ -15,7 +15,7 @@ works:
       Mahou Shoujo ga Seishori Sentouin ni Ochiru made~
     author: carpsukidayo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/637171.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-27'
     code: 637171
     url: /works/637171/
@@ -57,7 +57,7 @@ works:
   - title: Inuzuka-san, Who Has a Special Hobby
     author: carpsukidayo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/689371.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-11-27'
     code: 689371
     url: /works/689371/

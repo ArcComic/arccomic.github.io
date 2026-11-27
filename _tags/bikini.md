@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bikini"
-work_count: 126
+work_count: 127
 works:
   - title: Kizashi
     author: yoshiura-kazuya
@@ -211,6 +211,13 @@ works:
     date: '2026-09-10'
     code: 529791
     url: /works/529791/
+  - title: Kawabara Hazuki no Junai Root
+    author: sansyoku-amido
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/530531.jpg
+    rating: 0.0
+    date: '2026-11-27'
+    code: 530531
+    url: /works/530531/
   - title: + (SEIKO AYASE VARIOUS) +
     author: st-mya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/555816.jpg

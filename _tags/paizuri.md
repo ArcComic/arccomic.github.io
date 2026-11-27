@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "paizuri"
-work_count: 367
+work_count: 368
 works:
   - title: Kuroi Houshi Katsudou | Black Community Service
     author: blmanian
@@ -922,6 +922,13 @@ works:
     date: '2026-04-17'
     code: 612957
     url: /works/612957/
+  - title: Hitozuma Max! Oku-sama wa Game & Sex Friend
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/614968.jpg
+    rating: 0.0
+    date: '2026-11-27'
+    code: 614968
+    url: /works/614968/
   - title: Kyonyuu no Tomodachi to Tsukiau made no Hanashi Gojitsudan
     author: fuguta-ke
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/616896.jpg
@@ -2749,7 +2756,7 @@ works:
       friend who’ll do anything you ask.
     author: oriue-wato
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/700020.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-11-27'
     code: 700020
     url: /works/700020/

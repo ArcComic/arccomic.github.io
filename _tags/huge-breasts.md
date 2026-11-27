@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "huge breasts"
-work_count: 181
+work_count: 182
 works:
   - title: Mama Naranai Onna-tachi Ch. 1-2
     author: otochichi
@@ -213,6 +213,13 @@ works:
     date: '2026-11-20'
     code: 613265
     url: /works/613265/
+  - title: Hitozuma Max! Oku-sama wa Game & Sex Friend
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/614968.jpg
+    rating: 0.0
+    date: '2026-11-27'
+    code: 614968
+    url: /works/614968/
   - title: Kyonyuu no Tomodachi to Tsukiau made no Hanashi Gojitsudan
     author: fuguta-ke
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/616896.jpg
@@ -1357,7 +1364,7 @@ works:
       friend who’ll do anything you ask.
     author: oriue-wato
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/700020.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-11-27'
     code: 700020
     url: /works/700020/

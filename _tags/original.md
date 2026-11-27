@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "original"
-work_count: 1601
+work_count: 1605
 works:
   - title: Gokuusu Mizugi de Okasaretagari ga Kakusenai
     author: kekemotsu
@@ -2179,6 +2179,13 @@ works:
     date: '2026-05-01'
     code: 529335
     url: /works/529335/
+  - title: Kawabara Hazuki no Junai Root
+    author: sansyoku-amido
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/530531.jpg
+    rating: 0.0
+    date: '2026-11-27'
+    code: 530531
+    url: /works/530531/
   - title: Ecchi na Omise ni Ittara Osananajimi ga Detekita Hanashi - Sex Establishment
       Series
     author: akahito
@@ -4100,6 +4107,13 @@ works:
     date: '2026-09-30'
     code: 614675
     url: /works/614675/
+  - title: Hitozuma Max! Oku-sama wa Game & Sex Friend
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/614968.jpg
+    rating: 0.0
+    date: '2026-11-27'
+    code: 614968
+    url: /works/614968/
   - title: Tomodachi ga Tsuretekita Oba-san 1
     author: exit-up
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/615538.jpg
@@ -4998,7 +5012,7 @@ works:
       Mahou Shoujo ga Seishori Sentouin ni Ochiru made~
     author: carpsukidayo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/637171.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-27'
     code: 637171
     url: /works/637171/
@@ -11007,7 +11021,7 @@ works:
   - title: Inuzuka-san, Who Has a Special Hobby
     author: carpsukidayo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/689371.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-11-27'
     code: 689371
     url: /works/689371/
@@ -11949,4 +11963,21 @@ works:
     date: '2026-11-23'
     code: 699550
     url: /works/699550/
+  - title: Kendoubu Shushou de Osananajimi no Bijin de Tsuyoi Boku no Kanojo ga, Charao
+      ni Assari Otosareru Wake ga Nai｜There's No Way My Childhood Friend, Who's Both
+      My Girlfriend and a Gorgeous, Strong Kendo Captain, Would Fall So Easily for Some
+      Fuckboy
+    author: yozo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/700223.jpg
+    rating: 4.4
+    date: '2026-11-27'
+    code: 700223
+    url: /works/700223/
+  - title: 'Sugar Dating Diary ~Record (1): M-chan''s First Experience XX~'
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/700225.jpg
+    rating: 4.9
+    date: '2026-11-27'
+    code: 700225
+    url: /works/700225/
 ---

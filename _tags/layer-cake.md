@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "layer cake"
-work_count: 15
+work_count: 16
 works:
   - title: Dochira o Onozomi desu ka? ~Ryouhou Hen~ | Which Do You Desire? ~Both Edition~
     author: tsurui
@@ -25,6 +25,13 @@ works:
     date: '2026-04-30'
     code: 555849
     url: /works/555849/
+  - title: Hitozuma Max! Oku-sama wa Game & Sex Friend
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/614968.jpg
+    rating: 0.0
+    date: '2026-11-27'
+    code: 614968
+    url: /works/614968/
   - title: Amoral Island
     author: alp
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/633453.jpg

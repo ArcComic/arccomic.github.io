@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "mosaic censorship"
-work_count: 460
+work_count: 461
 works:
   - title: Kuroi Houshi Katsudou | Black Community Service
     author: blmanian
@@ -1535,6 +1535,13 @@ works:
     date: '2026-04-15'
     code: 612887
     url: /works/612887/
+  - title: Hitozuma Max! Oku-sama wa Game & Sex Friend
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/614968.jpg
+    rating: 0.0
+    date: '2026-11-27'
+    code: 614968
+    url: /works/614968/
   - title: Tomodachi ga Tsuretekita Oba-san 1
     author: exit-up
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/615538.jpg
@@ -1774,7 +1781,7 @@ works:
       Mahou Shoujo ga Seishori Sentouin ni Ochiru made~
     author: carpsukidayo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/637171.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-27'
     code: 637171
     url: /works/637171/

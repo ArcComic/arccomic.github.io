@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "kissing"
-work_count: 607
+work_count: 610
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -1424,7 +1424,7 @@ works:
   - title: MegamiYuui ~ part 2
     author: himino
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/611904.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-11-27'
     code: 611904
     url: /works/611904/
@@ -1467,6 +1467,13 @@ works:
     date: '2026-09-29'
     code: 614205
     url: /works/614205/
+  - title: Hitozuma Max! Oku-sama wa Game & Sex Friend
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/614968.jpg
+    rating: 0.0
+    date: '2026-11-27'
+    code: 614968
+    url: /works/614968/
   - title: Tomodachi ga Tsuretekita Oba-san 1
     author: exit-up
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/615538.jpg
@@ -4548,8 +4555,25 @@ works:
       friend who’ll do anything you ask.
     author: oriue-wato
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/700020.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-11-27'
     code: 700020
     url: /works/700020/
+  - title: Kendoubu Shushou de Osananajimi no Bijin de Tsuyoi Boku no Kanojo ga, Charao
+      ni Assari Otosareru Wake ga Nai｜There's No Way My Childhood Friend, Who's Both
+      My Girlfriend and a Gorgeous, Strong Kendo Captain, Would Fall So Easily for Some
+      Fuckboy
+    author: yozo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/700223.jpg
+    rating: 4.4
+    date: '2026-11-27'
+    code: 700223
+    url: /works/700223/
+  - title: 'Sugar Dating Diary ~Record (1): M-chan''s First Experience XX~'
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/700225.jpg
+    rating: 4.9
+    date: '2026-11-27'
+    code: 700225
+    url: /works/700225/
 ---

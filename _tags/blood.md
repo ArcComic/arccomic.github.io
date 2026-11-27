@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "blood"
-work_count: 5
+work_count: 6
 works:
   - title: Kono Furin wa Otto no Tame "Anata, Yurushite…." To, Netorareru Tsuma | 這場外遇是為了老公「親愛的，原諒我…」這樣說著，為老公戴綠帽的妻子
     author: korosuke
@@ -38,4 +38,11 @@ works:
     date: '2026-10-03'
     code: 685785
     url: /works/685785/
+  - title: 'Sugar Dating Diary ~Record (1): M-chan''s First Experience XX~'
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/700225.jpg
+    rating: 4.9
+    date: '2026-11-27'
+    code: 700225
+    url: /works/700225/
 ---

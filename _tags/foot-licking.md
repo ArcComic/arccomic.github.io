@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "foot licking"
-work_count: 21
+work_count: 22
 works:
   - title: Kanojo no Amai Jiraishuu
     author: jirou
@@ -152,4 +152,11 @@ works:
     date: '2026-11-21'
     code: 698956
     url: /works/698956/
+  - title: 'Sugar Dating Diary ~Record (1): M-chan''s First Experience XX~'
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/700225.jpg
+    rating: 4.9
+    date: '2026-11-27'
+    code: 700225
+    url: /works/700225/
 ---

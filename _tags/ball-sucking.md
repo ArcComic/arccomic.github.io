@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "ball sucking"
-work_count: 38
+work_count: 39
 works:
   - title: Tsuma no Fuyugomori  Kashidasareta Karada
     author: nanashi-novel
@@ -286,4 +286,14 @@ works:
     date: '2026-11-14'
     code: 696693
     url: /works/696693/
+  - title: Kendoubu Shushou de Osananajimi no Bijin de Tsuyoi Boku no Kanojo ga, Charao
+      ni Assari Otosareru Wake ga Nai｜There's No Way My Childhood Friend, Who's Both
+      My Girlfriend and a Gorgeous, Strong Kendo Captain, Would Fall So Easily for Some
+      Fuckboy
+    author: yozo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/700223.jpg
+    rating: 4.4
+    date: '2026-11-27'
+    code: 700223
+    url: /works/700223/
 ---

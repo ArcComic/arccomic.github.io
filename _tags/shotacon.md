@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "shotacon"
-work_count: 198
+work_count: 199
 works:
   - title: Okki na Kanojo ni Amaetai | I want to be pampered by a girl of generous girth
     author: higashino-mikan
@@ -563,6 +563,13 @@ works:
     date: '2026-04-21'
     code: 609650
     url: /works/609650/
+  - title: Hitozuma Max! Oku-sama wa Game & Sex Friend
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/614968.jpg
+    rating: 0.0
+    date: '2026-11-27'
+    code: 614968
+    url: /works/614968/
   - title: Tomodachi ga Tsuretekita Oba-san 1
     author: exit-up
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/615538.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "bald"
-work_count: 103
+work_count: 104
 works:
   - title: Overwrite
     author: ojo
@@ -764,4 +764,11 @@ works:
     date: '2026-11-21'
     code: 698893
     url: /works/698893/
+  - title: 'Sugar Dating Diary ~Record (1): M-chan''s First Experience XX~'
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/700225.jpg
+    rating: 4.9
+    date: '2026-11-27'
+    code: 700225
+    url: /works/700225/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "prostitution"
-work_count: 108
+work_count: 109
 works:
   - title: Ikanishite Haha wa Onna o Kaihou Shitaka Ch. 1-14
     author: mitarai-yuuki
@@ -795,6 +795,13 @@ works:
     date: '2026-11-25'
     code: 699062
     url: /works/699062/
+  - title: 'Sugar Dating Diary ~Record (1): M-chan''s First Experience XX~'
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/700225.jpg
+    rating: 4.9
+    date: '2026-11-27'
+    code: 700225
+    url: /works/700225/
   - title: Hottokenaino
     author: hara-shigeyuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/77864.jpg

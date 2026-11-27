@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "facial hair"
-work_count: 52
+work_count: 53
 works:
   - title: Asuna-san ga Agil ni Netorareru Ohanashi
     author: fujimiya-siryu
@@ -382,4 +382,11 @@ works:
     date: '2026-11-11'
     code: 695891
     url: /works/695891/
+  - title: 'Sugar Dating Diary ~Record (1): M-chan''s First Experience XX~'
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/700225.jpg
+    rating: 4.9
+    date: '2026-11-27'
+    code: 700225
+    url: /works/700225/
 ---

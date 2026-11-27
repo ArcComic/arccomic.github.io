@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "dark skin"
-work_count: 248
+work_count: 250
 works:
   - title: Kuroi Houshi Katsudou | Black Community Service
     author: blmanian
@@ -723,6 +723,13 @@ works:
     date: '2026-03-03'
     code: 611701
     url: /works/611701/
+  - title: Hitozuma Max! Oku-sama wa Game & Sex Friend
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/614968.jpg
+    rating: 0.0
+    date: '2026-11-27'
+    code: 614968
+    url: /works/614968/
   - title: Manga Matome
     author: elel
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/616921.jpg
@@ -1836,4 +1843,11 @@ works:
     date: '2026-11-23'
     code: 699550
     url: /works/699550/
+  - title: 'Sugar Dating Diary ~Record (1): M-chan''s First Experience XX~'
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/700225.jpg
+    rating: 4.9
+    date: '2026-11-27'
+    code: 700225
+    url: /works/700225/
 ---

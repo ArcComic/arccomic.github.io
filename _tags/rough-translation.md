@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "rough translation"
-work_count: 898
+work_count: 899
 works:
   - title: Boku no Shiranai Kimi no Kao
     author: utsutsu-minoru
@@ -13,7 +13,7 @@ works:
   - title: Yuu x Rik True After
     author: ankoman
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/365667.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-11-27'
     code: 365667
     url: /works/365667/
@@ -286,6 +286,13 @@ works:
     date: '2026-09-13'
     code: 528302
     url: /works/528302/
+  - title: Kawabara Hazuki no Junai Root
+    author: sansyoku-amido
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/530531.jpg
+    rating: 0.0
+    date: '2026-11-27'
+    code: 530531
+    url: /works/530531/
   - title: Ecchi na Omise ni Ittara Osananajimi ga Detekita Hanashi - Sex Establishment
       Series
     author: akahito
@@ -889,7 +896,7 @@ works:
   - title: MegamiYuui ~ part 2
     author: himino
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/611904.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-11-27'
     code: 611904
     url: /works/611904/
@@ -1419,7 +1426,7 @@ works:
       Mahou Shoujo ga Seishori Sentouin ni Ochiru made~
     author: carpsukidayo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/637171.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-27'
     code: 637171
     url: /works/637171/
@@ -5893,7 +5900,7 @@ works:
   - title: Inuzuka-san, Who Has a Special Hobby
     author: carpsukidayo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/689371.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-11-27'
     code: 689371
     url: /works/689371/
@@ -6588,7 +6595,7 @@ works:
       friend who’ll do anything you ask.
     author: oriue-wato
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/700020.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-11-27'
     code: 700020
     url: /works/700020/

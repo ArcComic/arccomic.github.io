@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "gloves"
-work_count: 58
+work_count: 59
 works:
   - title: Yuri no o saifu ni shite agemasu ne, Senpai | I'll turn you into Yuri's wallet,
       Senpai
@@ -117,6 +117,13 @@ works:
     date: '2026-11-22'
     code: 520693
     url: /works/520693/
+  - title: Kawabara Hazuki no Junai Root
+    author: sansyoku-amido
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/530531.jpg
+    rating: 0.0
+    date: '2026-11-27'
+    code: 530531
+    url: /works/530531/
   - title: Shut-less
     author: mr-hokke
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/531966.jpg

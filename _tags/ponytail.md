@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "ponytail"
-work_count: 272
+work_count: 273
 works:
   - title: Ami Mami Mind 5
     author: tsurui
@@ -2013,4 +2013,14 @@ works:
     date: '2026-11-22'
     code: 699118
     url: /works/699118/
+  - title: Kendoubu Shushou de Osananajimi no Bijin de Tsuyoi Boku no Kanojo ga, Charao
+      ni Assari Otosareru Wake ga Nai｜There's No Way My Childhood Friend, Who's Both
+      My Girlfriend and a Gorgeous, Strong Kendo Captain, Would Fall So Easily for Some
+      Fuckboy
+    author: yozo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/700223.jpg
+    rating: 4.4
+    date: '2026-11-27'
+    code: 700223
+    url: /works/700223/
 ---

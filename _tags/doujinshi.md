@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "doujinshi"
-work_count: 1987
+work_count: 1991
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -179,7 +179,7 @@ works:
   - title: Suzuya to IchaIcha kkusu! | Flirty Lovin' with Suzuya!
     author: saemon
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/268319.jpg
-    rating: 0.0
+    rating: 4.7
     date: '2026-11-27'
     code: 268319
     url: /works/268319/
@@ -863,7 +863,7 @@ works:
   - title: Yuu x Rik True After
     author: ankoman
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/365667.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-11-27'
     code: 365667
     url: /works/365667/
@@ -3092,6 +3092,13 @@ works:
     date: '2026-07-16'
     code: 530476
     url: /works/530476/
+  - title: Kawabara Hazuki no Junai Root
+    author: sansyoku-amido
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/530531.jpg
+    rating: 0.0
+    date: '2026-11-27'
+    code: 530531
+    url: /works/530531/
   - title: Ecchi na Omise ni Ittara Osananajimi ga Detekita Hanashi - Sex Establishment
       Series
     author: akahito
@@ -5164,7 +5171,7 @@ works:
   - title: MegamiYuui ~ part 2
     author: himino
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/611904.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-11-27'
     code: 611904
     url: /works/611904/
@@ -5288,6 +5295,13 @@ works:
     date: '2026-09-30'
     code: 614675
     url: /works/614675/
+  - title: Hitozuma Max! Oku-sama wa Game & Sex Friend
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/614968.jpg
+    rating: 0.0
+    date: '2026-11-27'
+    code: 614968
+    url: /works/614968/
   - title: Tomodachi ga Tsuretekita Oba-san 1
     author: exit-up
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/615538.jpg
@@ -6320,7 +6334,7 @@ works:
       Mahou Shoujo ga Seishori Sentouin ni Ochiru made~
     author: carpsukidayo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/637171.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-27'
     code: 637171
     url: /works/637171/
@@ -13518,7 +13532,7 @@ works:
   - title: Inuzuka-san, Who Has a Special Hobby
     author: carpsukidayo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/689371.jpg
-    rating: 0.0
+    rating: 4.6
     date: '2026-11-27'
     code: 689371
     url: /works/689371/
@@ -14699,10 +14713,27 @@ works:
       friend who’ll do anything you ask.
     author: oriue-wato
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/700020.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-11-27'
     code: 700020
     url: /works/700020/
+  - title: Kendoubu Shushou de Osananajimi no Bijin de Tsuyoi Boku no Kanojo ga, Charao
+      ni Assari Otosareru Wake ga Nai｜There's No Way My Childhood Friend, Who's Both
+      My Girlfriend and a Gorgeous, Strong Kendo Captain, Would Fall So Easily for Some
+      Fuckboy
+    author: yozo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/700223.jpg
+    rating: 4.4
+    date: '2026-11-27'
+    code: 700223
+    url: /works/700223/
+  - title: 'Sugar Dating Diary ~Record (1): M-chan''s First Experience XX~'
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/700225.jpg
+    rating: 4.9
+    date: '2026-11-27'
+    code: 700225
+    url: /works/700225/
   - title: Ranko-ppoi no! | Ranko-Ish!
     author: napata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/87393.jpg

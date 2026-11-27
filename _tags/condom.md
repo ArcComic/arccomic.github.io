@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "condom"
-work_count: 335
+work_count: 336
 works:
   - title: Kaisha de Iroiro | Gettin' Busy at the Office
     author: hara-shigeyuki
@@ -20,7 +20,7 @@ works:
   - title: Dekoboko Complex
     author: saemon
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/125637.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-11-27'
     code: 125637
     url: /works/125637/
@@ -48,7 +48,7 @@ works:
   - title: Kurokawa-San to no Yasumi Jikan
     author: saemon
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/235697.jpg
-    rating: 0.0
+    rating: 4.9
     date: '2026-11-27'
     code: 235697
     url: /works/235697/
@@ -278,7 +278,7 @@ works:
   - title: Yuu x Rik True After
     author: ankoman
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/365667.jpg
-    rating: 0.0
+    rating: 4.1
     date: '2026-11-27'
     code: 365667
     url: /works/365667/
@@ -2480,6 +2480,16 @@ works:
     date: '2026-11-25'
     code: 699062
     url: /works/699062/
+  - title: Kendoubu Shushou de Osananajimi no Bijin de Tsuyoi Boku no Kanojo ga, Charao
+      ni Assari Otosareru Wake ga Nai｜There's No Way My Childhood Friend, Who's Both
+      My Girlfriend and a Gorgeous, Strong Kendo Captain, Would Fall So Easily for Some
+      Fuckboy
+    author: yozo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/700223.jpg
+    rating: 4.4
+    date: '2026-11-27'
+    code: 700223
+    url: /works/700223/
   - title: Ranko-ppoi no! | Ranko-Ish!
     author: napata
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/87393.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "ahegao"
-work_count: 513
+work_count: 516
 works:
   - title: Hanamizuki
     author: orikuchi
@@ -1003,6 +1003,13 @@ works:
     date: '2026-09-29'
     code: 614205
     url: /works/614205/
+  - title: Hitozuma Max! Oku-sama wa Game & Sex Friend
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/614968.jpg
+    rating: 0.0
+    date: '2026-11-27'
+    code: 614968
+    url: /works/614968/
   - title: Eroi Koto Igai de Toki o Tomete wa Dame desu yo 2
     author: ohkura-kazuya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/615835.jpg
@@ -1240,7 +1247,7 @@ works:
       Mahou Shoujo ga Seishori Sentouin ni Ochiru made~
     author: carpsukidayo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/637171.jpg
-    rating: 0.0
+    rating: 4.8
     date: '2026-11-27'
     code: 637171
     url: /works/637171/
@@ -3845,6 +3852,23 @@ works:
     date: '2026-11-23'
     code: 699605
     url: /works/699605/
+  - title: Kendoubu Shushou de Osananajimi no Bijin de Tsuyoi Boku no Kanojo ga, Charao
+      ni Assari Otosareru Wake ga Nai｜There's No Way My Childhood Friend, Who's Both
+      My Girlfriend and a Gorgeous, Strong Kendo Captain, Would Fall So Easily for Some
+      Fuckboy
+    author: yozo
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/700223.jpg
+    rating: 4.4
+    date: '2026-11-27'
+    code: 700223
+    url: /works/700223/
+  - title: 'Sugar Dating Diary ~Record (1): M-chan''s First Experience XX~'
+    author: unknown
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/700225.jpg
+    rating: 4.9
+    date: '2026-11-27'
+    code: 700225
+    url: /works/700225/
   - title: Inin Keiyaku | Lewd Pregnancy Contract
     author: yoshiura-kazuya
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/83595.jpg
