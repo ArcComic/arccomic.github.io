@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "manga"
-work_count: 507
+work_count: 508
 works:
   - title: Kurikyun 5! Chapter 1-6
     author: drill-murata
@@ -1325,6 +1325,14 @@ works:
     date: '2026-04-27'
     code: 532651
     url: /works/532651/
+  - title: Amaterasu Jogakuin Bunkasai Ch. 1 | Amaterasu Girls' Academy Culture Festival
+      Chapter 1
+    author: kurokawa-otogi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/534357.jpg
+    rating: 0.0
+    date: '2026-11-27'
+    code: 534357
+    url: /works/534357/
   - title: '"Sex no Benkyou Shiyokka?" Kareshi ga Iru no ni Itoko kara Shojo wo Ubaware
       Zecchou Shidou 1-5 | Let''s Learn About Sex: Your Cousin Will Take Your Virginity
       and Teach You How to Come 1-5'

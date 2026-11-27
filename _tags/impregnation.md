@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "impregnation"
-work_count: 229
+work_count: 230
 works:
   - title: Kousa suru Osu to Mesu | Male and Female Crossing
     author: ootsuka-kotora
@@ -52,6 +52,13 @@ works:
     date: '2026-04-19'
     code: 244812
     url: /works/244812/
+  - title: Hayasui to Ichaicha Shitai!!
+    author: saemon
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/270628.jpg
+    rating: 0.0
+    date: '2026-11-27'
+    code: 270628
+    url: /works/270628/
   - title: Ritsuko wa Kozukuri ga Shitai
     author: yokkora
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/297834.jpg

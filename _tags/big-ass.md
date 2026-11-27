@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "big ass"
-work_count: 429
+work_count: 430
 works:
   - title: My Care Lady Ch. 1
     author: sugi-g
@@ -481,6 +481,14 @@ works:
     date: '2026-11-27'
     code: 530531
     url: /works/530531/
+  - title: Amaterasu Jogakuin Bunkasai Ch. 1 | Amaterasu Girls' Academy Culture Festival
+      Chapter 1
+    author: kurokawa-otogi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/534357.jpg
+    rating: 0.0
+    date: '2026-11-27'
+    code: 534357
+    url: /works/534357/
   - title: Dansei ga Kyokutan ni Sukunai Kono Sekai de wa, Seishi wa Kichou na Shigen
       desu. Sono 2 | In a World Where Men Are Scarce, Sperm Is a Precious Resource 2
     author: group

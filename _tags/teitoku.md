@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "teitoku"
-work_count: 5
+work_count: 6
 works:
   - title: Suzuya to IchaIcha kkusu! | Flirty Lovin' with Suzuya!
     author: saemon
@@ -10,6 +10,13 @@ works:
     date: '2026-11-27'
     code: 268319
     url: /works/268319/
+  - title: Hayasui to Ichaicha Shitai!!
+    author: saemon
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/270628.jpg
+    rating: 0.0
+    date: '2026-11-27'
+    code: 270628
+    url: /works/270628/
   - title: RICHELIEU MON AMOUR Plat | Richelieu My Love Dish
     author: osterei
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/348549.jpg

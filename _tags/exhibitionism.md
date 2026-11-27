@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "exhibitionism"
-work_count: 129
+work_count: 130
 works:
   - title: Yarimoku Kouen | Yarinookie Park [English] =TLL+mrwayne=
     author: sugi-g
@@ -172,6 +172,14 @@ works:
     date: '2026-11-21'
     code: 533999
     url: /works/533999/
+  - title: Amaterasu Jogakuin Bunkasai Ch. 1 | Amaterasu Girls' Academy Culture Festival
+      Chapter 1
+    author: kurokawa-otogi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/534357.jpg
+    rating: 0.0
+    date: '2026-11-27'
+    code: 534357
+    url: /works/534357/
   - title: Ally-san wa doko demo ikitai!! 2
     author: inukami-inoji
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/542190.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sole male"
-work_count: 1387
+work_count: 1389
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -223,6 +223,13 @@ works:
     date: '2026-09-29'
     code: 269224
     url: /works/269224/
+  - title: Hayasui to Ichaicha Shitai!!
+    author: saemon
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/270628.jpg
+    rating: 0.0
+    date: '2026-11-27'
+    code: 270628
+    url: /works/270628/
   - title: Netemo Sametemo | Be it Sleeping or Awake
     author: takasugi-kou
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/272352.jpg
@@ -2641,6 +2648,14 @@ works:
     date: '2026-11-10'
     code: 534179
     url: /works/534179/
+  - title: Amaterasu Jogakuin Bunkasai Ch. 1 | Amaterasu Girls' Academy Culture Festival
+      Chapter 1
+    author: kurokawa-otogi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/534357.jpg
+    rating: 0.0
+    date: '2026-11-27'
+    code: 534357
+    url: /works/534357/
   - title: Eight Days With My Wife's Mother | Youka-go Tsuma no Haha o Daku
     author: jagaimo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/534537.jpg

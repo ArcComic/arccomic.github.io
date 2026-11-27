@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "rough translation"
-work_count: 902
+work_count: 903
 works:
   - title: Boku no Shiranai Kimi no Kao
     author: utsutsu-minoru
@@ -329,6 +329,14 @@ works:
     date: '2026-11-10'
     code: 532469
     url: /works/532469/
+  - title: Amaterasu Jogakuin Bunkasai Ch. 1 | Amaterasu Girls' Academy Culture Festival
+      Chapter 1
+    author: kurokawa-otogi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/534357.jpg
+    rating: 0.0
+    date: '2026-11-27'
+    code: 534357
+    url: /works/534357/
   - title: Eight Days With My Wife's Mother | Youka-go Tsuma no Haha o Daku
     author: jagaimo
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/534537.jpg

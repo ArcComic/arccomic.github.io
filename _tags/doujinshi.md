@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "doujinshi"
-work_count: 1994
+work_count: 1995
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -190,6 +190,13 @@ works:
     date: '2026-09-29'
     code: 269224
     url: /works/269224/
+  - title: Hayasui to Ichaicha Shitai!!
+    author: saemon
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/270628.jpg
+    rating: 0.0
+    date: '2026-11-27'
+    code: 270628
+    url: /works/270628/
   - title: Netorare Ibe Kiba Shizuka
     author: terasu-mc
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/275108.jpg
