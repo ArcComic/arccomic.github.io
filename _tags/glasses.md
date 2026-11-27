@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "glasses"
-work_count: 387
+work_count: 389
 works:
   - title: Ranko-ppoi no! 2 | Ranko-Ish! 2
     author: napata
@@ -2835,6 +2835,21 @@ works:
     date: '2026-11-22'
     code: 699118
     url: /works/699118/
+  - title: My girlfriend was stolen by a cool, cross-dressing girl—so I taught her a
+      lesson 4
+    author: kurukuru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/700019.jpg
+    rating: 0.0
+    date: '2026-11-27'
+    code: 700019
+    url: /works/700019/
+  - title: Please, take my little sister’s virginity 2
+    author: nezumi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/700021.jpg
+    rating: 0.0
+    date: '2026-11-27'
+    code: 700021
+    url: /works/700021/
   - title: Hottokenaino
     author: hara-shigeyuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/77864.jpg

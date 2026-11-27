@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "maid"
-work_count: 70
+work_count: 71
 works:
   - title: Maid no Oshigoto. II | Maid's Work II
     author: alexi-laiho
@@ -519,6 +519,14 @@ works:
     date: '2026-11-23'
     code: 699605
     url: /works/699605/
+  - title: My girlfriend was stolen by a cool, cross-dressing girl—so I taught her a
+      lesson 4
+    author: kurukuru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/700019.jpg
+    rating: 0.0
+    date: '2026-11-27'
+    code: 700019
+    url: /works/700019/
   - title: Hottokenaino
     author: hara-shigeyuki
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/77864.jpg

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "kissing"
-work_count: 610
+work_count: 612
 works:
   - title: Shiburin-ppoi no!
     author: napata
@@ -4551,6 +4551,14 @@ works:
     date: '2026-11-23'
     code: 699541
     url: /works/699541/
+  - title: My girlfriend was stolen by a cool, cross-dressing girl—so I taught her a
+      lesson 4
+    author: kurukuru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/700019.jpg
+    rating: 0.0
+    date: '2026-11-27'
+    code: 700019
+    url: /works/700019/
   - title: A story about having super lewd sex with a laid-back, "downer" type female
       friend who’ll do anything you ask.
     author: oriue-wato
@@ -4559,6 +4567,13 @@ works:
     date: '2026-11-27'
     code: 700020
     url: /works/700020/
+  - title: Please, take my little sister’s virginity 2
+    author: nezumi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/700021.jpg
+    rating: 0.0
+    date: '2026-11-27'
+    code: 700021
+    url: /works/700021/
   - title: Kendoubu Shushou de Osananajimi no Bijin de Tsuyoi Boku no Kanojo ga, Charao
       ni Assari Otosareru Wake ga Nai｜There's No Way My Childhood Friend, Who's Both
       My Girlfriend and a Gorgeous, Strong Kendo Captain, Would Fall So Easily for Some

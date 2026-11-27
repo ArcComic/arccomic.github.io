@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "pixie cut"
-work_count: 134
+work_count: 135
 works:
   - title: Akarui Kazoku Seikatsu
     author: pistonring-nishizawa
@@ -1004,4 +1004,12 @@ works:
     date: '2026-11-25'
     code: 699062
     url: /works/699062/
+  - title: My girlfriend was stolen by a cool, cross-dressing girl—so I taught her a
+      lesson 4
+    author: kurukuru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/700019.jpg
+    rating: 0.0
+    date: '2026-11-27'
+    code: 700019
+    url: /works/700019/
 ---

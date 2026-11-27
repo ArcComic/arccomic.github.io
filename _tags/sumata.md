@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "sumata"
-work_count: 44
+work_count: 45
 works:
   - title: Ami Mami Mind 5
     author: tsurui
@@ -332,4 +332,11 @@ works:
     date: '2026-11-24'
     code: 699473
     url: /works/699473/
+  - title: Please, take my little sister’s virginity 2
+    author: nezumi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/700021.jpg
+    rating: 0.0
+    date: '2026-11-27'
+    code: 700021
+    url: /works/700021/
 ---

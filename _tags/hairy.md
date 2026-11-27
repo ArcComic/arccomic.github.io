@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "hairy"
-work_count: 476
+work_count: 477
 works:
   - title: MAGIC SEVEN
     author: asuhiro
@@ -3508,6 +3508,13 @@ works:
     date: '2026-11-24'
     code: 699232
     url: /works/699232/
+  - title: Please, take my little sister’s virginity 2
+    author: nezumi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/700021.jpg
+    rating: 0.0
+    date: '2026-11-27'
+    code: 700021
+    url: /works/700021/
   - title: 'Sugar Dating Diary ~Record (1): M-chan''s First Experience XX~'
     author: unknown
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/700225.jpg

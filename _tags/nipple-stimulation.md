@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "nipple stimulation"
-work_count: 252
+work_count: 253
 works:
   - title: bust top secret
     author: plum
@@ -1886,6 +1886,13 @@ works:
     date: '2026-11-23'
     code: 699550
     url: /works/699550/
+  - title: Please, take my little sister’s virginity 2
+    author: nezumi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/700021.jpg
+    rating: 0.0
+    date: '2026-11-27'
+    code: 700021
+    url: /works/700021/
   - title: Kendoubu Shushou de Osananajimi no Bijin de Tsuyoi Boku no Kanojo ga, Charao
       ni Assari Otosareru Wake ga Nai｜There's No Way My Childhood Friend, Who's Both
       My Girlfriend and a Gorgeous, Strong Kendo Captain, Would Fall So Easily for Some

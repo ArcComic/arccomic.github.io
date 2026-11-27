@@ -1,7 +1,7 @@
 ---
 layout: artist
 artist_name: "group"
-work_count: 53
+work_count: 54
 works:
   - title: Ojou-sama to Maid o Iinazuke ni Torarete Okobore Ecchi suru Hanashi
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/459385.jpg
@@ -300,6 +300,12 @@ works:
     date: '2026-10-10'
     code: 686422
     url: /works/686422/
+  - title: Futago no Saki to Yuki
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687403.jpg
+    rating: 0.0
+    date: '2026-11-27'
+    code: 687403
+    url: /works/687403/
   - title: Tsuma no Kako ~Apparel-kei Cool Zuma no Kekkon Mae~
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687557.jpg
     rating: 4.5

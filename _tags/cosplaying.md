@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "cosplaying"
-work_count: 44
+work_count: 45
 works:
   - title: My Sugar Mama! 1-3
     author: azukiko
@@ -333,4 +333,11 @@ works:
     date: '2026-11-21'
     code: 698640
     url: /works/698640/
+  - title: Please, take my little sister’s virginity 2
+    author: nezumi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/700021.jpg
+    rating: 0.0
+    date: '2026-11-27'
+    code: 700021
+    url: /works/700021/
 ---

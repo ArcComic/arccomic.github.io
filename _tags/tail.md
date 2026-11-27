@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "tail"
-work_count: 32
+work_count: 33
 works:
   - title: CHOCO x LOVE
     author: highlow
@@ -238,4 +238,11 @@ works:
     date: '2026-11-14'
     code: 696732
     url: /works/696732/
+  - title: Please, take my little sister’s virginity 2
+    author: nezumi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/700021.jpg
+    rating: 0.0
+    date: '2026-11-27'
+    code: 700021
+    url: /works/700021/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "apron"
-work_count: 42
+work_count: 43
 works:
   - title: Life with Married Women Just Like a Manga 2 - Ch. 1-5
     author: hidemaru
@@ -313,4 +313,12 @@ works:
     date: '2026-11-23'
     code: 699541
     url: /works/699541/
+  - title: My girlfriend was stolen by a cool, cross-dressing girl—so I taught her a
+      lesson 4
+    author: kurukuru
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/700019.jpg
+    rating: 0.0
+    date: '2026-11-27'
+    code: 700019
+    url: /works/700019/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "ffm threesome"
-work_count: 205
+work_count: 207
 works:
   - title: Hustle! Danchizuma Ch. 1-18 END
     author: hidemaru
@@ -1323,6 +1323,13 @@ works:
     date: '2026-10-13'
     code: 687230
     url: /works/687230/
+  - title: Futago no Saki to Yuki
+    author: group
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687403.jpg
+    rating: 0.0
+    date: '2026-11-27'
+    code: 687403
+    url: /works/687403/
   - title: Tsuma no Kako ~Apparel-kei Cool Zuma no Kekkon Mae~
     author: group
     cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/687557.jpg
@@ -1523,4 +1530,11 @@ works:
     date: '2026-11-21'
     code: 698998
     url: /works/698998/
+  - title: Please, take my little sister’s virginity 2
+    author: nezumi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/700021.jpg
+    rating: 0.0
+    date: '2026-11-27'
+    code: 700021
+    url: /works/700021/
 ---

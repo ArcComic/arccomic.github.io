@@ -1,7 +1,7 @@
 ---
 layout: tag
 tag_name: "twintails"
-work_count: 190
+work_count: 191
 works:
   - title: Natsu no Hyoui
     author: yuniba
@@ -1403,4 +1403,11 @@ works:
     date: '2026-11-23'
     code: 699605
     url: /works/699605/
+  - title: Please, take my little sister’s virginity 2
+    author: nezumi
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/700021.jpg
+    rating: 0.0
+    date: '2026-11-27'
+    code: 700021
+    url: /works/700021/
 ---

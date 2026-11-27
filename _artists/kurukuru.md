@@ -1,7 +1,7 @@
 ---
 layout: artist
 artist_name: "kurukuru"
-work_count: 3
+work_count: 4
 works:
   - title: Jimiko no Occult-bu Miyu-chan wa Bakunyuu de Yuumei | Miyu-chan is Famous
       for her Huge Breasts
@@ -23,4 +23,11 @@ works:
     date: '2026-09-04'
     code: 677732
     url: /works/677732/
+  - title: My girlfriend was stolen by a cool, cross-dressing girl—so I taught her a
+      lesson 4
+    cover: https://pub-c16edc53b8164b78b06a38d95e8a4d3a.r2.dev/covers/700019.jpg
+    rating: 0.0
+    date: '2026-11-27'
+    code: 700019
+    url: /works/700019/
 ---
